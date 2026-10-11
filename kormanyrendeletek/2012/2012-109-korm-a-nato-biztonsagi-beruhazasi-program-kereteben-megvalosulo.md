@@ -1,0 +1,598 @@
+---
+title: "109/2012. (VI. 1.) Korm. rendelet a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról"
+identifier: "109/2012. (VI. 1.) Korm. rendelet"
+njt_id: "2012-109-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/109"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-06-01
+in_force_from: 2012-06-04
+last_amended: 2022-11-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-109-20-22"
+retrieved: 2026-10-12
+---
+
+# 109/2012. (VI. 1.) Korm. rendelet a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról
+
+A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 14. pontjában, valamint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (1) bekezdés g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+A rendelet hatálya az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) által előírt katonai célú beruházásokat, fejlesztéseket tartalmazó, a NATO Észak-atlanti Tanács (NAC) által jóváhagyott képességfejlesztési csomagok megvalósítása érdekében szükséges, valamint az egyéb közös finanszírozású NATO támogatott programok (a továbbiakban együtt: NSIP) keretében megvalósuló árubeszerzésre, szolgáltatás megrendelésére, építési beruházásra (a továbbiakban együtt: NSIP beszerzés), és a beszerzési eljárásokban részt vevő és közreműködő szervezetekre és személyekre terjed ki.
+
+### 2. §
+
+(1) E rendeletet a beszerzés értékére tekintet nélkül alkalmazni kell.
+
+(2) Amennyiben az NSIP beszerzés egyidejűleg e rendelet és más jogszabály hatálya alá is tartozik, akkor e rendelet szabályai szerint kell eljárni.
+
+(3)[^1] Ahol e rendelet a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) rendelkezéseit rendeli alkalmazni, ott közbeszerzésen az e rendelet által szabályozott NSIP beszerzést kell érteni.
+
+### 3. §[^2]
+
+E rendelet alkalmazásában:
+
+1\. Ajánlatkérő: a programfelelős, vagy a programfelelős által megbízott NATO-, nemzetközi vagy nemzeti szervezet.
+
+2\. *Ajánlattevő:* a Kbt. 3. § 1. pontjában meghatározott fogalom.
+
+3\. *Alvállalkozó:* a Kbt. 3. § 2. pontjában meghatározott fogalom.
+
+4\. *Árubeszerzés:* a Kbt. 8. § (2) bekezdésében meghatározott fogalom.
+
+5\. *Beszerzési eljárás előkészítése:* a Kbt. 3. § 22. pontjában meghatározott fogalom.
+
+6\. *Beszerzési eljárás dokumentumai:* a Kbt. 3. § 21. pontjában meghatározott dokumentum.
+
+7\. *Beszerzési eljárás megkezdése:* a Kbt. 3. § 23. pontjában meghatározott fogalom.
+
+8\. *Biztonsági Beruházási Bizottság (a továbbiakban: BBB):* az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet (a továbbiakban: R1.) 4. §-ának (2) bekezdésében meghatározott szervezet.
+
+9\. *Építési beruházás:* a Kbt. 8. § (3) bekezdésében meghatározott fogalom.
+
+10\. *Illetékes Bizottság (a továbbiakban: IB):* a NATO illetékes bizottsága vagy felelős szervezete, amely az adott programhoz kapcsolódó fejlesztések költségkereteit jóváhagyja. IB a NATO Biztonsági Beruházási Program esetében a NATO Beruházási Bizottság, a nemzeti forrásból megvalósuló fejlesztések esetén pedig a BBB.
+
+11\. *Keretmegállapodás:* a Kbt. 3. § 18. pontjában meghatározott fogalom.
+
+12\. *Kijelöléses eljárási típus:* az IB által az adott feladat megvalósítására kizárólagosan alkalmas gazdálkodó szervezet meghatározása.
+
+13\. *Megrendelői Alap Megállapodásos eljárás:* az arra felhatalmazott NATO szervezet és a tagállamok gazdálkodó szervezetei között létrejött szállítási megállapodásra épülő beszerzési eljárási típus.
+
+14\. *Nemzeti eljárás:* az IB döntése szerint nemzeti hatáskörbe utalt, e rendeletben szabályozott beszerzési eljárás.
+
+15\. *„Nemzeti-NATO beszerzési eljárás +” eljárás:* olyan, valamely NATO-tagállam által lefolytatásra kerülő beszerzési eljárás, melynek során az adott nemzet ajánlattevői köre – az IB döntése alapján – kiegészülhet valamely más NATO-tagállam ajánlattevőivel is.
+
+16\. *Programfelelős:* a honvédelemért felelős miniszter által az adott program előkészítésére és megvalósítására kijelölt felelős szervezet.
+
+17\. *Részvételre jelentkező:* a Kbt. 3. § 36. pontjában meghatározott fogalom.
+
+18\. *Szolgáltatás:* a Kbt. 8. § (4) bekezdésében meghatározott fogalom.
+
+## 2. Az NSIP beszerzésekre vonatkozó általános szabályok
+
+### 4. §[^3]
+
+A felelősségi rendre a Kbt. 27. §-ában foglalt rendelkezések megfelelően alkalmazandóak.
+
+### 5. §
+
+(1)[^4] A programfelelős feladata és felelőssége, hogy megteremtse az eljárás lefolytatásának feltételeit, a tevékenységben érintett szervezetek és hatóságok bevonásával kidolgozza az eljárás alapjául szolgáló követelményeket, meghatározza, hogy az eljárás, valamint a feladatellátás során mely legmagasabb minősítési szintű minősített adat kezelésére kell az ajánlattevőnek alkalmasnak lennie, meghatározza továbbá az elbírálás szempontjait, az elbírálásban részt vevők körét, az eljárás fajtáját, egy gazdálkodó szervezettől történő ajánlatkérés esetén dokumentálja a kizárólagosságot.
+
+(2) Ha az ajánlatkérő nem azonos a programfelelőssel, úgy a programfelelős az (1) bekezdésben meghatározott adatok, dokumentumok rendelkezésére bocsátásáért és teljességéért, míg az eljárás lefolytatásáért az ajánlatkérő a felelős.
+
+(3) Az ajánlatkérőnek biztosítania kell, hogy a beszerzések költséghatékonyan és kellő időben valósuljanak meg.
+
+### 6. §[^5]
+
+Az összeférhetetlenség vonatkozásában a Kbt. 25. §-ban foglaltakat kell megfelelően alkalmazni.
+
+### 7. §
+
+(1) Az ajánlatkérő minden egyes beszerzési eljárását – annak előkészítésétől az eljárás alapján kötött szerződés teljesítéséig terjedően – írásban köteles dokumentálni.
+
+(2) Az ajánlatkérő köteles a beszerzési eljárások kapcsán keletkezett dokumentumokat a NATO által történő pénzügyi zárásig megőrizni. A pénzügyi zárás időpontja NATO hatályos eljárásrend alapján kerül meghatározásra.
+
+(3) Az ajánlatkérő köteles a beszerzési eljárás dokumentumaiba a betekintést biztosítani az illetékes nemzeti, vagy NATO-szervek ellenőrzésre felhatalmazott képviselői részére.
+
+### 8. §
+
+(1) E rendelet alkalmazásában a beszerzési eljárást megindító, vagy módosító hirdetményt és az eljárás eredményéről szóló tájékoztatást tartalmazó hirdetményt az R1.-ben meghatározott NATO Beszállítói Információs Honlapon (a továbbiakban: honlap) kell közzétenni.
+
+(2) A hirdetményként megjelenő dokumentumok mintáit az 1–3. mellékletek tartalmazzák. A hirdetmény honlapon történő megjelenésének napja egyben a hirdetmény közzétételének, az eljárás megindításának, vagy módosításának kezdőnapja is. Hirdetmény nélküli tárgyalásos eljárás esetében az eljárás megindításának kezdőnapja az ajánlattételi felhívás megküldésének napja.
+
+### 9. §
+
+(1)[^6] A felhívásra a Kbt. 50. § (2) bekezdés c) pontját, az 50. § (4) bekezdését, az 51. § (2) bekezdését, az 52. §-át, az 53. § (1)–(2) bekezdését, az 55. §-át, 56. § (1) és (5)–(7) bekezdését, 58–61. §-ait, a beszerzési eljárás dokumentumaira vonatkozóan a Kbt. 39. §-át, az 57. §-át, a 62–65. §-ait és 114. § (6) bekezdését kell alkalmazni az e §-ban foglalt eltérésekkel.
+
+(2) Az ajánlatkérő az eljárást megindító felhívásban köteles előírni, hogy az ajánlatban, illetve a részvételi jelentkezésben az ajánlattevőnek meg kell jelölnie az alvállalkozóit, a teljesítésben részt vevő harmadik személyeket és az általuk végrehajtásra tervezett feladatot, továbbá hogy azok a szerződés teljesítésében az ajánlat értékére vonatkoztatva milyen százalékos mértékben fognak részt venni.
+
+(3) Az ajánlatkérő a megfelelő részvételi jelentkezéshez, ajánlattételhez dokumentációt készíthet, amely egyebek mellett a részletes szerződési feltételeket vagy a szerződéstervezetet tartalmazza. Az ajánlattevők a dokumentációt az eljárást megindító felhívásban meghatározott helyen és időben vehetik át.
+
+(4)[^7] A minősített adatokat tartalmazó beszerzési dokumentációt a nyertes ajánlattevő kivételével az összes ajánlattevő köteles az ajánlatkérő értesítésének kézhezvételétől számított 15 napon belül az ajánlatkérőhöz visszajuttatni.
+
+(5)[^8] A beszerzési eljárás dokumentumainak részét képező beszerzési műszaki leírást az európai szabványokat közzétevő nemzeti szabványokra, európai műszaki tanúsítványokra, katonai szabványokra vagy közös műszaki leírásokra való hivatkozással kell meghatározni.
+
+(6)[^9] Ha az ajánlatkérő nem tudja meghatározni a műszaki leírást a (5) bekezdés szerint, akkor azt más módon, különösen műszaki paraméterek meghatározásával kell megadnia az eljárást megindító felhívásban vagy beszerzési eljárás dokumentumaiban.
+
+(7)[^10] Az ajánlatkérő a beszerzési eljárás dokumentumaiban meghatározott gyártmányú, eredetű, típusú dologra, eljárásra, tevékenységre, személyre, szabadalomra vagy védjegyre való hivatkozást tehet, ha a beszerzés tárgyának ilyen módon történő egyértelmű és közérthető meghatározása a katonai alkalmazhatóság érdekében elengedhetetlen.
+
+(8)[^11] Az eljárást megindító felhívás, valamint a beszerzési eljárás dokumentumainak módosítását módosítását a 3. mellékletben meghatározott minta szerint kell kezdeményezni.
+
+### 11. §
+
+(1) Az NSIP beszerzési eljárásokban ajánlattevőként vagy alvállalkozóként kizárólag Magyarországon, vagy valamely NATO tagországban bejegyzett gazdálkodó szervezet vehet részt.
+
+(2)[^13] Az NSIP beszerzési eljárásokban ajánlattevőként és az ajánlat értékének 5%-át meghaladó mértékben igénybe venni szándékozott alvállalkozóként az R1. alapján „NATO Beszállításra Alkalmas” határozattal rendelkező gazdálkodó szervezetek vehetnek részt, kivéve a (4) és (6) bekezdésben foglalt eseteket.
+
+(3) Az adott beszerzési eljárásban közreműködőknek biztosítaniuk kell az adott beszerzésre az ajánlatkérő által meghatározott szintű NATO vagy nemzeti minősített adatvédelmi előírások betartását.
+
+(4) Amennyiben az IB döntése az ajánlattevői kört kiterjeszti más NATO tagállamban bejegyzett gazdálkodó szervezetekre is, akkor azoknak az e rendelet keretében lefolytatásra kerülő beszerzési eljárások – „Nemzeti-NATO beszerzési eljárás +” eljárás – során elegendő az adott NATO tagállam kormánya által a NATO AC–4/D/2261 dokumentum (a továbbiakban: a NATO hatályos eljárásrendje) szerint kiállított megfelelőségi tanúsítvány, mely egyenértékű a (2) bekezdésben előírt „NATO Beszállításra Alkalmas” határozattal.
+
+(5) Az ajánlattevő alvállalkozói, valamint az ajánlattevő által a teljesítésbe bevonni kívánt harmadik személyek vonatkozásában az általuk végrehajtandó feladat függvényében kötelező a (3) bekezdésben előírtak érvényesítése. Más NATO-tagállambeli gazdálkodó szervezetek esetén a (2) bekezdésben meghatározottakkal egyenértékű kormányzati minősítés szükséges, ha részükre a szerződés teljesítése során a minősített adatokhoz való hozzáférés elengedhetetlen.
+
+(6)[^14] Az ajánlatkérő a (2) bekezdésben előírt „NATO Beszállításra Alkalmas” határozat vagy a (4) bekezdés szerinti megfelelőségi tanúsítvány meglététől eltekinthet
+
+a) a beszerzési eljárásban a részvételre jelentkező illetve az ajánlattevő és a beszerzés értékének 5%-át meghaladó mértékben igénybe venni kívánt alvállalkozó esetében, ha a (2) bekezdésben meghatározott, NATO Beszállításra Alkalmas határozattal rendelkező gazdálkodó szervezetek, valamint a (4) bekezdés szerinti esetben a NATO hatályos eljárásrendje szerint kiállított megfelelőségi tanúsítvánnyal rendelkező, más NATO-tagállamban bejegyzett gazdálkodó szervezetek között nincs olyan, amelyik a beszerzés tárgyát képező szakterülettel foglalkozik;
+
+b) a beszerzési eljárásban a részvételre jelentkező vagy ajánlattevő által a beszerzés értékének 5%-át meghaladó mértékben igénybe venni kívánt alvállalkozó esetében, ha egy azonos tárgyú, korábban lefolytatott beszerzési eljárásban érvényes részvételi jelentkezést egy részvételre jelentkező sem nyújtott be vagy érvényes ajánlatot egy ajánlattevő sem tett.
+
+(7)[^15]
+
+(8)[^16] A Kbt. 35–36. §-ában foglaltak megfelelően alkalmazandók.
+
+### 12. §
+
+(1) Az ajánlattevőnek, valamint az ajánlat értékének 5%-át meghaladó mértékben igénybe venni szándékozott alvállalkozójának rendelkeznie kell a 11. §-ban előírtakon túlmenően megfelelő szintű és érvényes telephely biztonsági tanúsítvánnyal, amennyiben azt az eljárást megindító felhívás előírja. A szerződés teljesítésére való alkalmasság megítélését csak a BBB egyetértésével lehet egyéb feltételhez kötni.
+
+(2)[^17] Kizárólag a 11. § (6) bekezdésének alkalmazása esetén kell az alkalmasság elbírálására a Kbt. 65. §-át alkalmazni.
+
+(3)[^18] Az ajánlatkérő az eljárást megindító felhívásban jogosult a Kbt. 62. és 63. § szerinti kizáró okok közül egynek vagy többnek a beszerzési eljárásban való érvényesítését előírni, valamint köteles a Kbt. 62. § (1) bekezdésének k) pontja szerinti kizáró ok(ok) érvényesítését előírni. A kizáró okok fenn nem állásáról az ajánlattevőnek, illetve részvételre jelentkezőnek csak nyilatkoznia kell, valamint a Kbt. 62. § (1) bekezdés k) pont kb) alpontjára vonatkozóan a külön jogszabályban meghatározottak szerint kell dokumentumot benyújtania.
+
+(4) Az ajánlattevőnek, illetve a részvételre jelentkezőnek az ajánlatában, illetve részvételi jelentkezésben meg kell jelölnie az alvállalkozóit, a teljesítésben részt vevő harmadik személyeket és az általuk végrehajtásra tervezett feladatot, továbbá hogy azok a szerződés teljesítésében az ajánlat értékére vonatkoztatva milyen százalékos mértékben fognak részt venni.
+
+### 13. §
+
+(1)[^19] Az ajánlatok és a részvételi jelentkezések elbírálására a Kbt. 53. § (4) bekezdését, a 69–74. §-ait, a 75. § (1) bekezdés a)–c) pontjait, a 75. § (2) bekezdés a)–c) pontjait, a 75. § (3) és (5) bekezdését, a 76–78. §-ait és a 79. § (1), (4) és (5) bekezdését kell megfelelően alkalmazni az e §-ban és a 14–18. §-ban foglalt eltérésekkel.
+
+(2)[^20] A Kbt. 75. § (2) bekezdés b) pontja alkalmazható azzal, hogy attól a 17. § (2) bekezdésében meghatározott esetben el lehet térni.
+
+(3)[^21] Építési beruházások esetében az ajánlatkérő egyedüli értékelési szempontként alkalmazhatja a legalacsonyabb árat, amennyiben az ajánlati felhívás részét képezik a műszaki követelmények és a beruházásra vonatkozó részletes kiviteli terv.
+
+### 14. §
+
+(1) Az ajánlatok, illetve részvételi jelentkezések értékelését az ajánlattételi, illetve részvételi jelentkezési határidő lejártát követően haladéktalanul meg kell kezdeni.
+
+(2) Kijelöléses eljárás alkalmazása esetén az értékelést, valamint a tárgyalást az ajánlat beérkezését követően, az ajánlattételi határidő lejárta előtt is meg lehet kezdeni.
+
+### 15. §[^22]
+
+A kijelöléses eljárás esetén az ajánlat elbírálása kizárólag az beszerzési eljárás dokumentumaiban meghatározott feltételeknek való megfelelőség alapján történik.
+
+### 16. §
+
+(1) Az ajánlatkérő az ajánlatokat elbírálhatja kétborítékos eljárási mód szerint. Kétborítékos eljárás esetében kétféle – a (3)–(5) bekezdésekben meghatározott – módon van lehetőség az ajánlatok elbírálására, amit az ajánlati felhívásban az ajánlatok elbírálásának szempontjai mellett kell rögzíteni.
+
+(2) Kétborítékos eljárási mód választása esetén az összességében legelőnyösebb ajánlat kiválasztására irányuló bírálati szempont nem alkalmazható.
+
+(3) A kétborítékos eljárás keretében az ajánlattevőnek az ajánlatát két külön lezárt borítékban kell beadnia, amelyek közül az 1. számú boríték a pénzügyi, gazdasági, szakmai, műszaki alkalmasságra vonatkozó, valamint az ajánlati felhívásban meghatározott egyéb adatokat, míg a 2. számú boríték csak az árajánlatot tartalmazza. Kétborítékos eljárás esetében az ajánlattevő alkalmasságának vizsgálatára az 1. számú boríték felbontásával egyidejűleg kerül sor.
+
+(4)[^23] Ha az értékelés az 1. számú boríték felbontásával kezdődik és az 1. számú boríték tartalmazza az ajánlati árat vagy olyan adatot, melyből az ajánlati árra vonatkozóan információ nyerhető, akkor az ajánlattevő ajánlata érvénytelen. Az 1. számú boríték értékelését követően kerülhet sor a 2. számú boríték bontására. Az eljárás nyerteseként a legalacsonyabb összegű ellenszolgáltatást tartalmazó – az ajánlati felhívásban és a beszerzési eljárás dokumentumaiban meghatározott feltételeknek megfelelő – érvényes ajánlatot tevő ajánlattevőt kell kihirdetni.
+
+(5)[^24] Ha az értékelés a 2. számú boríték felbontásával kezdődik, akkor azok kiértékelését követően a megfelelő tartalmú, legalacsonyabb összegű ellenszolgáltatást tevő ajánlattevő 1. számú borítékát kell felbontani. Amennyiben az ajánlata az ajánlati felhívásban és a beszerzési eljárás dokumentumaiban meghatározott feltételeknek megfelel, ezt az ajánlattevőt kell kihirdetni az eljárás nyerteseként. A többi ajánlattevő 1. számú borítékát nem lehet felbontani. Ha a legalacsonyabb összegű ellenszolgáltatást tevő 1. számú borítéka az ajánlati felhívásnak nem felel meg, akkor a második legkedvezőbb összegű ellenszolgáltatást tevő ajánlattevő 1. számú borítékát kell felbontani és kiértékelni. Az értékelés ezen elvnek megfelelően a legalacsonyabb összegű ellenszolgáltatást tartalmazó, megfelelő műszaki tartalmú ajánlat kiválasztásáig tart.
+
+(6)[^25] Amennyiben az ajánlatkérő a Kbt. 72. §-a alapján kért és az ajánlattevőtől kapott indokolás alapján érvénytelennek nyilváníthatja az ajánlatot, erről köteles haladéktalanul tájékoztatni a BBB-t.
+
+### 17. §
+
+(1) Az ajánlatkérő az eljárás eredményéről, vagy eredménytelenségéről szóló írásbeli összegezést az erről hozott döntést követő 3 munkanapon belül, de nyílt eljárásban legkésőbb a 23. § (4) bekezdésben megadott határidőn belül, hirdetmény nélküli tárgyalásos és meghívásos eljárásban az ajánlattételi határidő lejártától számított 10 napon belül, gyorsított eljárásban 5 napon belül az ajánlattevők részére a 4. mellékletben meghatározott minta szerint köteles megküldeni.
+
+(2) Ha a nyertes ajánlat értéke meghaladja a NATO által jóváhagyott keretet, akkor az ajánlatkérő kezdeményezi az IB-nél a többletköltség jóváhagyását. Ha az ajánlatkérő az IB döntésének elhúzódása miatt nem tudja az írásbeli összegezést határidőre elkészíteni, akkor az (1) bekezdésben meghatározott határidőt legfeljebb 60 nappal meghosszabbíthatja.
+
+(3) A (2) bekezdésben meghatározott esetről az ajánlattevőket egyidejűleg értesíteni kell és az ajánlattevőknek nyilatkozniuk kell az ajánlati kötöttség fenntartásáról, beleértve a bankgarancia határidejét is. Ha bármely ajánlattevő az ajánlati kötöttség fenntartásáról nem nyilatkozik, vagy azt nem vállalja, akkor az ajánlatot visszavontnak kell tekinteni. Ha az ajánlatkérő az ajánlatot biztosíték adásához kötötte, akkor az ajánlati kötöttséget nem vállaló, illetőleg az ajánlati kötöttség fenntartásáról nem nyilatkozó ajánlattevő esetében a nyilatkozatuk megtételétől vagy megtételi határidejétől számított 10 munkanapon belül részükre a biztosítékot vissza kell adni.
+
+### 18. §
+
+(1) Az ajánlatkérő a meghívásos eljárásban a részvételi szakasz eredményéről az erről hozott döntést követő 3 munkanapon belül, de legkésőbb a részvételi jelentkezések felbontásától számított 20, gyorsított eljárásban 10 napon belül az 5. mellékletben meghatározott minta szerint írásbeli összegezést küld a részvételre jelentkezők részére.
+
+(2) Az ajánlatkérő az (1) bekezdésben meghatározott határidőt legfeljebb 10 nappal meghosszabbíthatja, azonban a halasztásról az összes részvételre jelentkezőt egyidejűleg írásban értesíteni kell.
+
+### 19. §
+
+(1) Az NSIP beszerzési eljárásokban az IB által meghatározott beszerzési eljárási típust kell alkalmazni.
+
+(2) Ha az IB nemzetközi beszerzési eljárást határoz meg, akkor a NATO hatályos eljárásrendjét kell alkalmazni.
+
+(3) Amennyiben nemzeti eljárás esetén az IB előírja, hogy a projekt finanszírozásában részt vevő más nemzetek ajánlattevői is részt vehetnek az eljárásban, akkor a NATO hatályos eljárásrendjében megfogalmazottak szerint kell a projekt finanszírozásában részt vevő más nemzeteket értesíteni, és az ajánlattevőik részére a jelentkezés lehetőségét biztosítani, az eljárás lefolytatása azonban e rendeletben meghatározottak szerint történik.
+
+(4) Ha az IB Megrendelői Alap Megállapodásos eljárást rendel el, akkor a vonatkozó NATO szabályoknak megfelelően az arra felhatalmazott NATO szervezetet kell az eljárás lefolytatásával megbízni.
+
+### 20. §
+
+(1) A nemzeti beszerzési eljárás fajtája nyílt, meghívásos, hirdetmény nélküli tárgyalásos, valamint keretmegállapodásos lehet.
+
+(2) Ha a NATO hatályos eljárásrendje alapján az IB kijelöléses eljárást hagy jóvá, akkor az általa meghatározott ajánlattevőtől kell ajánlatot kérni, e rendelet hirdetmény nélküli tárgyalásos eljárásra vonatkozó szabályai szerint.
+
+### 21. §
+
+(1) A nyílt és a hirdetmény nélküli tárgyalásos eljárás az 1. mellékletben meghatározott ajánlati vagy ajánlattételi felhívással (a továbbiakban együtt: ajánlati felhívás) indul, amelyet – a kijelöléses és a hirdetmény nélküli tárgyalásos eljárások kivételével – az ajánlatkérő a honlapon köteles közzétenni.
+
+(2) A meghívásos eljárás a 2. mellékletben meghatározott részvételi felhívással indul.
+
+### 22. §
+
+(1) A beszerzésekkel kapcsolatban felmerülő vitás kérdések rendezése érdekében a felek kötelesek egymással együttműködni és egyeztetni.
+
+(2) Amennyiben az egyeztetés nem vezet eredményre, a fennmaradó vitás kérdések eldöntése érdekében a felek bírósághoz fordulhatnak.
+
+## 3. A beszerzésekre vonatkozó különös szabályok
+
+### 23. §
+
+(1) A nyílt eljárás olyan, egy szakaszból álló beszerzési eljárás, amelyben minden 11. § (1) bekezdés szerinti érdekelt gazdasági szereplő ajánlatot tehet.
+
+(2) A nyílt eljárásban az alkalmasnak minősített ajánlattevőkkel lehet egy vagy több tárgyalási fordulóban tárgyalni, ha egyik ajánlattevő, vagy az összességében legelőnyösebb ajánlatot tevő sem tett – az ajánlatkérő rendelkezésére álló fedezet mértékére tekintettel – megfelelő ajánlatot.
+
+(3)[^26] Nyílt eljárásban az ajánlat benyújtására vonatkozó határidőt az ajánlatkérő nem határozhatja meg az ajánlati felhívás közzétételének napjától számított 15 napnál rövidebb időtartamban.
+
+(4)[^27] A nyílt eljárásban az ajánlatkérő a felhívásban és a beszerzési eljárás dokumentumaiban meghatározott feltételekhez, az ajánlattevő pedig az ajánlatához az ajánlattételi határidő lejártától kötve van. Az ajánlati kötöttség időtartamát az ajánlatkérő az ajánlati felhívásban nem határozhatja meg annak kezdetétől számított hatvan napnál hosszabb időtartamban.
+
+(5)[^28] A nyílt eljárásban az ajánlati kötöttség kiterjesztése során a 17. § (3) bekezdést, valamint a Kbt. 70. § (2) bekezdését kell alkalmazni.
+
+### 24. §
+
+(1)[^29] A meghívásos eljárásra a Kbt. 82. §-át, a 83. § (3) és (4) bekezdése, valamint a 84. § (1) és (3) bekezdését kell alkalmazni az e §-ban foglalt eltérésekkel.
+
+(2) A meghívásos beszerzési eljárásban a 12. § (1) bekezdést kell alkalmazni a részvételre jelentkezők alkalmasságának elbírálása során.
+
+(3) A meghívásos eljárás ajánlattételi szakaszában lehet tárgyalni, ha a részvételi szakaszban az ajánlatkérő egy részvételre jelentkező jelentkezését nyilvánította érvényessé.
+
+(4) A meghívásos eljárásban az ajánlatkérő
+
+a) a részvételi jelentkezési határidőt nem határozhatja meg a hirdetmény feladásától számított 20 napnál rövidebb időtartamban,
+
+b) az ajánlattételi határidőt nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított 10 napnál rövidebb időtartamban.
+
+(5)[^30] A meghívásos eljárásban az ajánlatkérő a részvételi felhívásban meghatározott feltételekhez a részvételi határidő lejártától, az ajánlattételi felhívásban és a beszerzési eljárás dokumentumaiban meghatározott feltételekhez, az ajánlattevő pedig az ajánlatához az ajánlattételi határidő lejártától kötve van a (3) bekezdésben szabályozott eset kivételével.
+
+(6) A meghívásos eljárásban a (3) bekezdésben meghatározott esetben az ajánlati kötöttség a tárgyalás vagy tárgyalások befejeztével, a végső ajánlat megtételével áll be.
+
+(7) A meghívásos eljárásban az ajánlati kötöttség időtartamára és annak kiterjesztésére a 23. § (4)–(5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+### 25. §
+
+(1)[^31] A hirdetmény nélküli tárgyalásos eljárásra a Kbt. 98. § (1) bekezdését, a 98. § (2) bekezdés c) és e) pontját, a 98. § (3) bekezdését, a 98. § (4) bekezdés a) és b) pontját, a 99. § (1) és (2) bekezdését, a 100. § (2) bekezdését, a 101. § (2) bekezdését, a 102. §-át, a 114. § (9) bekezdését és a 115. §-át megfelelően alkalmazni kell az e §-ban foglalt eltérésekkel.
+
+(2)[^32] A hirdetmény nélküli tárgyalásos eljárás Kbt. 98. § (4) bekezdés a) pontja szerinti esetében, valamint – ha a rendkívüli sürgősséget előidéző helyzetben az ésszerűen lehetséges – a Kbt. 98. § (2) bekezdés e) pontja szerinti esetben az ajánlatkérőnek legalább három ajánlattevőt kell ajánlattételre felhívnia.
+
+(3) A hirdetmény nélküli tárgyalásos eljárásban az ajánlatkérő az ajánlattételi határidőt úgy köteles meghatározni, hogy az ajánlattevők részére elegendő idő álljon rendelkezésre az ajánlat összeállításához és benyújtásához.
+
+(4)[^33] A hirdetmény nélküli tárgyalásos eljárásban az ajánlatkérő az ajánlattételi felhívásban és a beszerzési eljárás dokumentumaiban meghatározott feltételekhez, az ajánlattevő pedig a tárgyalások befejeztével, a végső ajánlat megtételével van kötve ajánlatához.
+
+(5) A hirdetmény nélküli tárgyalásos eljárásban az ajánlati kötöttség időtartamára és annak kiterjesztésére a 23. § (4)–(5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+### 26. §
+
+(1) Gyorsított eljárás lefolytatására csak meghívásos eljárásban kivételesen és indokolt esetben van lehetőség, amennyiben sürgősség miatt nem lehet alkalmazni az ezen eljárásnál előírt határidőket.
+
+(2) Ajánlatkérő a gyorsított eljárás alkalmazásának szükségességét a részvételi felhívásban köteles megindokolni.
+
+(3) A gyorsított eljárásban az ajánlatkérő
+
+a) a részvételi jelentkezési határidőt nem határozhatja meg a hirdetmény feladásától számított 10 napnál rövidebb időtartamban,
+
+b) az ajánlattételi határidőt nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított 5 napnál rövidebb időtartamban.
+
+### 27. §[^34]
+
+Az ajánlatkérő beszerzését keretmegállapodás útján is megvalósíthatja. A keretmegállapodásos eljárásra a Kbt. 104. § (1)–(5) és a (7)–(9) bekezdéseit, valamint a 105. §-át megfelelően kell alkalmazni.
+
+## 4. A beszerzési szerződés
+
+### 28. §[^35]
+
+A beszerzési szerződésre a Kbt. 131. § (1)–(6) bekezdését, a (8) bekezdés a), c) és d) pontját, a (9) bekezdését, a 132. §-át, a 133. § (1) bekezdését, a 134. §-át, a 135. § (1)–(6) bekezdéseit, a 138–139. §-ait, a 140. § (1)–(7) és (9) bekezdéseit, és a 141. §-át a jelen alcímben meghatározott eltérésekkel, megfelelően kell alkalmazni.
+
+### 29. §
+
+A programfelelős a szerződés megkötéséről köteles értesíteni az IB-t.
+
+### 30. §[^36]
+
+Ha a szerződés teljesítésének időtartama a két hónapot meghaladja, az ajánlattevő a szerződésben foglalt teljes ellenszolgáltatás 30%-ának megfelelő összeg, de legfeljebb 500 millió forint előlegként történő kifizetését kérheti.
+
+### 31. §
+
+(1) A (2) bekezdésben rögzített eset kivételével a szerződés teljesítésének folyamatában előre nem látható, a felektől függetlenül bekövetkező olyan körülmény esetén, amely miatt a szerződés egésze vagy annak egy része az ajánlatban megjelölt alvállalkozóval nem teljesíthető, az alvállalkozó személye az ajánlatkérő hozzájárulásával módosítható. A bevont alvállalkozónak meg kell felelnie az ajánlati felhívásban foglalt – az alvállalkozóra vonatkozó – követelményeknek.
+
+(2) Az ajánlat értékének 5%-ánál kisebb mértékben igénybe venni szándékozott alvállalkozó változása esetén az ajánlattevőnek csak bejelentési kötelezettsége van.
+
+### 32. §[^37]
+
+A Kbt. 141. § (6) bekezdésben foglalt feltételek fennállását nem kell vizsgálni, ha a szerződés teljesítése során olyan, a szerződés megkötésekor nem ismert lényeges körülmény merül fel, amely miatt a szerződés szerinti teljesítés lehetetlenné válik vagy az építési beruházás esetén a műszaki ellenőr, vagy szakhatóság kiegészítő munkálatok elvégzését írja elő.
+
+## 5. Igazolás kiállításának szabályai
+
+### 33. §
+
+(1)[^38] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. §-a szerinti, az NSIP beszerzés közterhektől való mentességét a honvédelemért felelős miniszter igazolja. Ezt a jogkörét a honvédelemért felelős miniszter közjogi szervezetszabályozó eszközben átruházhatja.
+
+(2) Az (1) bekezdésben foglalt igazolás kötelező adattartalma a következő:
+
+a) az okiratot kiállító hatóság neve és címe,
+
+b) a mentességre jogosított beszerzést vagy beruházást végrehajtó, beszerzési szerződést elnyert személy, szervezet neve és állandó lakóhelyének vagy székhelyének címe,
+
+c) az NSIP beszerzési eljárás keretében létrejött beszerzési szerződés adatai,
+
+d) idő vagy más feltétel megjelölése az okirat érvényességének megállapítására,
+
+e) az okirat kiállításának helye és kelte,
+
+f) az okiratot kiállító hatóság nevében és képviseletében eljáró személy aláírása az okirat hitelességének és érvényességének tanúsítására, valamint neve és beosztása olvasható módon és
+
+g) az okiratot kiállító hatóság hivatalos jelzése az okirat hitelességének és érvényességének tanúsítására.
+
+## 6. Záró rendelkezések
+
+### 34. §
+
+(1) Ez a rendelet a kihirdetést követő harmadik napon lép hatályba.
+
+(2)[^39]
+
+(3)[^40] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^41] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+## 1. melléklet a 109/2012. (VI. 1.) Korm. rendelethez[^42]
+
+**Ajánlati, ajánlattételi felhívás minta**
+
+1.
+
+a) Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+
+b) A választott eljárás:
+
+c) A szerződés meghatározása, amire ajánlatot kérnek:
+
+d) A beszerzés tárgya és mennyisége:
+
+e) A teljesítés helye:
+
+f) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+
+g) A részajánlat tételének szempontja*:
+
+h) A teljesítés határideje vagy a szerződés időtartama:
+
+i) A beszerzési eljárás dokumentumait rendelkezésre bocsátó szervezet neve és címe*:
+
+j) A beszerzési eljárás dokumentumai átadásának helye és ideje:
+
+k) Az ajánlattételi határidő, mely azonos az ajánlatok felbontásának időpontjával:
+
+l) Az ajánlat benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+
+m) Az ajánlattétel nyelve:
+
+n) Az ajánlatok felbontásának helye:
+
+o) Az ajánlati biztosíték összegszerűen meghatározott mértéke és feltételei*:
+
+p) A pénzügyi ellenszolgáltatás teljesítésének feltételei, valamint hivatkozás a vonatkozó előírásokra:
+
+q) A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése*:
+
+r) Az ajánlattevő személyes és jogi helyzetére vonatkozó adatok (kizáró okok), továbbá a minimálisan megkövetelt pénzügyi, gazdasági, műszaki és szakmai alkalmassága megítéléséhez szükséges adatok*:
+
+s) Pénzügyi és gazdasági alkalmasság – a megkövetelt igazolási mód*:
+
+t) Műszaki és szakmai alkalmasság – a megkövetelt igazolási mód*:
+
+u) Az ajánlatok elbírálásának szempontja:
+
+v) Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
+
+2\. Egyéb információk:
+
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
+
+## 2. melléklet a 109/2012. (VI. 1.) Korm. rendelethez
+
+**Részvételi felhívás minta**
+
+1\. a. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+
+b. A választott eljárás:
+
+c. Az eljárás alkalmazása feltételének indokolása:
+
+d. A szerződés meghatározása, aminek megkötése érdekében tárgyalni kívánnak*:
+
+e. A beszerzés tárgya és mennyisége:
+
+f. A teljesítés helye:
+
+g. Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+
+h. A részajánlat tételének szempontja*:
+
+i. A teljesítés határideje vagy a szerződés időtartama:
+
+j. A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése*:
+
+k. A részvételi jelentkezés határideje:
+
+l. A részvételi jelentkezés benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+
+m. A részvételi jelentkezés nyelve:
+
+n. A tárgyalás időpontja*:
+
+o. Az ajánlattevő személyes és jogi helyzetére vonatkozó adatok (kizáró okok), továbbá a minimálisan megkövetelt pénzügyi, gazdasági, műszaki és szakmai alkalmassága megítéléséhez szükséges adatok*:
+
+p. Pénzügyi és gazdasági alkalmasság – a megkövetelt igazolási mód*:
+
+q. Műszaki és szakmai alkalmasság – a megkövetelt igazolási mód*:
+
+r. Az ajánlatok elbírálásának szempontja:
+
+s. Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
+
+t. Az ajánlatkérő által már kiválasztottak nevei és címei*:
+
+2\. Egyéb információk:
+
+_______
+
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
+
+## 3. melléklet a 109/2012. (VI. 1.) Korm. rendelethez[^43]
+
+**Hirdetmény módosítása, visszavonása, a beszerzési eljárás dokumentumai vagy a határidő módosítása minta**
+
+*a)* Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszáma:
+
+*b)* A beszerzés tárgya:
+
+*c)* A választott eljárás:
+
+*d)* E hirdetmény célja:
+
+*e)* A módosítással vagy visszavonással érintett hirdetmény vagy dokumentum típusa:
+
+*f)* Az eredeti ajánlattételi vagy részvételi jelentkezési határidő lejártának napja:
+
+*g)* Módosítás:
+
+*ga)* A módosítással érintett hirdetmény vagy dokumentum módosított pontjai és a módosítás szövege*:
+
+*gb)* Az új ajánlattételi vagy részvételi jelentkezési határidő:*
+
+*h)* A visszavonás ténye*:
+
+*i)* A határidő-hosszabbítás:
+
+*ia)* A határidő-hosszabbítás indoka*:
+
+*ib)* Az új ajánlattételi vagy részvételi jelentkezési határidő:*
+
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
+
+## 4. melléklet a 109/2012. (VI. 1.) Korm. rendelethez
+
+**Összegezés az eljárásról minta**
+
+a. Az ajánlatkérő neve, címe:
+
+b. A beszerzés tárgya, mennyisége:
+
+c. Eredményes volt-e az eljárás:
+
+d. Eredménytelen eljárás esetén az eredménytelenség indoka*:
+
+e. Az érvényes ajánlatot tevő, ki nem zárt és alkalmasnak talált ajánlattevők neve, ajánlatuknak az elbírálás szempontja és – az összességében legelőnyösebb ajánlat választása esetén – annak részszempontjai szerinti tartalmi elemei:
+
+f. Az a) pont szerinti ajánlatok értékelése a következő táblázatba foglalva**:
+
+<table><thead><tr><th rowspan="2">Az elbírálás részszempontjai</th><th rowspan="2">A részszem-<br>pontok súlyszámai</th><th colspan="2">Az ajánlattevő neve:</th><th colspan="2">Az ajánlattevő neve:</th><th colspan="2">Az ajánlattevő neve:</th></tr><tr><th>Értékelési pontszám</th><th>Értékelési pontszám és súlyszám szorzata</th><th>Értékelési pontszám</th><th>Értékelési pontszám és súlyszám szorzata</th><th>Értékelési pontszám</th><th>Értékelési pontszám és súlyszám szorzata</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A súlyszámmal szorzott értékelési pontszámok összegei ajánlattevőnként:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+(A táblázatnak az ajánlattevők nevei alatti osztott oszlopainak bal oldalára az adott ajánlatnak az adott részszempont szerinti tartalmi elemeire megállapított értékelési pontszámot, jobb oldalára az értékelési pontszámnak a súlyszámmal kialakított szorzatát kell beírni.)
+
+g. A táblázatban szereplő értékelési pontszámok indokolása**:
+
+h. Az érvénytelen ajánlatot tevő, kizárt, továbbá alkalmatlan ajánlattevők neve és az érvénytelenség, a kizárás vagy az alkalmatlanság indokai:
+
+i. Eredményes eljárás esetén a nyertes ajánlattevő neve és ajánlata kiválasztásának indokai:
+
+j. A nyertest követő legkedvezőbb ajánlatot tevő neve és ajánlata kiválasztásának indokai*:
+
+k. A beszerzés azon része, melyre a nyertes, vagy az őt követő ajánlattevő harmadik személlyel szerződést köthet*:
+
+l. Egyéb információk:
+
+______________________
+
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.
+
+A **-gal megjelölt pontokat csak akkor kell kitölteni, ha az ajánlatkérő az összességében legelőnyösebb ajánlatot választja.
+
+## 5. melléklet a 109/2012. (VI. 1.) Korm. rendelethez
+
+**Összegezés részvételi jelentkezések elbírálásáról minta**
+
+a. Az ajánlatkérő neve és címe:
+
+b. A beszerzés tárgya és mennyisége:
+
+c. A választott eljárás fajtája:
+
+d. Eredményes volt-e a részvételi szakasz:
+
+e. Eredménytelen részvételi szakasz esetén az eredménytelenség indoka:
+
+f. Az eredménytelen részvételi szakaszt követően indul-e új eljárás:
+
+g. A benyújtott részvételi jelentkezések száma:
+
+h. Az alkalmas, egyben érvényes részvételi jelentkezést benyújtó jelentkezők neve és címe, minősítésük indoka:
+
+i. Az alkalmatlannak minősített részvételre jelentkezők neve és címe, minősítésük indoka:
+
+j. Az egyéb okból érvénytelen részvételi jelentkezést benyújtó jelentkezők neve és címe, az érvénytelenség indoka:
+
+k. Az ajánlattételre felhívni kívánt jelentkezők neve és címe:
+
+l. Egyéb információk:
+
+m. Hivatkozás az eljárást megindító, illetőleg meghirdető hirdetményre és közzétételének napja:
+
+n. Az összegezés elkészítésének időpontja:
+
+---
+
+[^1]: A 2. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § a 323/2015. (X. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^3]: A 4. § a 323/2015. (X. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^5]: A 6. § a 323/2015. (X. 30.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^6]: A 9. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^7]: A 9. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 1. pontja szerint módosított szöveg.
+[^8]: A 9. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 2. pontja szerint módosított szöveg.
+[^9]: A 9. § (6) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 3. pontja szerint módosított szöveg.
+[^10]: A 9. § (7) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 4. pontja szerint módosított szöveg.
+[^11]: A 9. § (8) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 5. pontja szerint módosított szöveg.
+[^13]: A 11. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 6. pontja szerint módosított szöveg.
+[^14]: A 11. § (6) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^15]: A 11. § (7) bekezdését a 323/2015. (X. 30.) Korm. rendelet 10. § (23) bekezdése hatályon kívül helyezte.
+[^16]: A 11. § (8) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^17]: A 12. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (9) bekezdésével megállapított szöveg.
+[^18]: A 12. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (9) bekezdésével megállapított szöveg.
+[^19]: A 13. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^20]: A 13. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^21]: A 13. § (3) bekezdését a 354/2019. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^22]: A 15. § a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 7. pontja szerint módosított szöveg.
+[^23]: A 16. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 8. pontja szerint módosított szöveg.
+[^24]: A 16. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 9. pontja szerint módosított szöveg.
+[^25]: A 16. § (6) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (11) bekezdésével megállapított szöveg.
+[^26]: A 23. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 10. pontja szerint módosított szöveg.
+[^27]: A 23. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 11. pontja szerint módosított szöveg.
+[^28]: A 23. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (12) bekezdésével megállapított szöveg.
+[^29]: A 24. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (13) bekezdésével megállapított szöveg.
+[^30]: A 24. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 12. pontja szerint módosított szöveg.
+[^31]: A 25. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (14) bekezdésével megállapított szöveg.
+[^32]: A 25. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (14) bekezdésével megállapított szöveg.
+[^33]: A 25. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 13. pontja szerint módosított szöveg.
+[^34]: A 27. § a 323/2015. (X. 30.) Korm. rendelet 10. § (15) bekezdésével megállapított szöveg.
+[^35]: A 28. § a 323/2015. (X. 30.) Korm. rendelet 10. § (16) bekezdésével megállapított szöveg.
+[^36]: A 30. § a 354/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^37]: A 32. § a 323/2015. (X. 30.) Korm. rendelet 10. § (17) bekezdésével megállapított szöveg.
+[^38]: A 33. § (1) bekezdése a 354/2019. (XII. 23.) Korm. rendelet 10. §-ával megállapított, a 409/2022. (X. 24.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^39]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 34. § (3) bekezdését a 323/2015. (X. 30.) Korm. rendelet 10. § (19) bekezdése iktatta be.
+[^41]: A hatálybalépés időpontja 2015. november 1.
+[^42]: Az 1. melléklet a 323/2015. (X. 30.) Korm. rendelet 10. § (21) bekezdésével megállapított szöveg.
+[^43]: A 3. melléklet a 323/2015. (X. 30.) Korm. rendelet 10. § (22) bekezdésével megállapított szöveg.

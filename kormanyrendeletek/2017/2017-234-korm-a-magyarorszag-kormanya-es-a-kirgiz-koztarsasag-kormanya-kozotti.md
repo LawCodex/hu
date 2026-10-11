@@ -1,0 +1,276 @@
+---
+title: "234/2017. (VIII. 18.) Korm. rendelet a Magyarország Kormánya és a Kirgiz Köztársaság Kormánya közötti gazdasági együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "234/2017. (VIII. 18.) Korm. rendelet"
+njt_id: "2017-234-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/234"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-08-18
+in_force_from: 2017-08-19
+last_amended: 2017-11-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-234-20-22"
+retrieved: 2026-10-12
+---
+
+# 234/2017. (VIII. 18.) Korm. rendelet a Magyarország Kormánya és a Kirgiz Köztársaság Kormánya közötti gazdasági együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Kirgiz Köztársaság Kormánya közötti gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„GAZDASÁGI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A KIRGIZ KÖZTÁRSASÁG KORMÁNYA KÖZÖTT**
+
+Magyarország Kormánya és a Kirgiz Köztársaság Kormánya, a továbbiakban a „Felek”
+
+kifejezve azon szándékukat, hogy tovább erősítsék a kétoldalú baráti kapcsolatokat,
+
+valamint azon érdeküket, hogy hozzájáruljanak a Felek közötti gazdasági kapcsolatok fejlődéséhez, különösen a kölcsönösen előnyös gazdasági együttműködés továbbfejlesztéséhez,
+
+meggyőződve a kétoldalú jogszabályi keret elmélyítésének szükségességéről, annak érdekében, hogy kedvező feltételrendszer és megfelelő jogszabályi alap álljon rendelkezésre a további együttműködéshez, az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+1\. A Felek, a hatályos nemzeti jogszabályaik és rendelkezéseik által nyújtott kereteken belül, megfelelő intézkedések meghozatalával támogatják a kölcsönösen előnyös gazdasági együttműködés fejlődését.
+
+2\. Jelen Megállapodás az együttműködés következő területeire terjed ki:
+
+*a)* a Felek államai gazdasági képességeinek fejlesztésére,
+
+*b)* a kétoldalú gazdasági kapcsolatok intenzívebbé tételére, különös tekintettel a beruházásokra, az innovációra, valamint egyéb gazdasági tevékenységek végrehajtására, melyek hozzájárulnak a kétoldalú külkereskedelmi forgalom növekedéséhez.
+
+**2. cikk**
+
+A jelen Megállapodásban rögzített kétoldalú kapcsolatok előmozdítása érdekében, a Felek nemzeti jogszabályaikkal és rendelkezéseikkel összhangban, jelen Megállapodás 1. cikkében rögzítetteknek megfelelően az együttműködést az alábbi területeken hajtják végre:
+
+1) az együttműködés fejlesztése és előmozdítása a következő területeken:
+
+*a)* kereskedelem,
+
+*b)* ipar és bányászat,
+
+*c)* információ és kommunikáció, infokommunikációs technológia,
+
+*d)* közlekedés,
+
+*e)* környezetvédelem,
+
+*f)* oktatás, tudomány és technológia,
+
+*g)* építőipar és lakásépítés,
+
+*h)* mezőgazdaság, vízgazdálkodás és élelmiszerfeldolgozó-ipar;
+
+*i)* turizmus,
+
+*j)* bankszektor,
+
+*k)* szellemi tulajdonjogok védelme,
+
+*l)* technikai szabályok, szabványosítás, mérésügy,
+
+*m)* egészségügy,
+
+*n)* egészségipar és gyógyturizmus,
+
+*o)* egyéb területeken történő együttműködés a Felek kölcsönös megegyezése alapján.
+
+2) beruházási projektek és egyéb tevékenységek biztosítási és finanszírozási mechanizmusainak megkönnyítése,
+
+3) a gazdasági és szakmai szervezetek, vállalatok, valamint a kereskedelmi és iparkamarák és egyesületek közötti kapcsolatok előmozdítása, erősítése,
+
+4) beruházási projektek megvalósítását elősegítő konzultációs, jogi, banki és technikai szolgáltatások fejlesztése,
+
+5) vásárok, kiállítások, szemináriumok és egyéb események megszervezéséhez és megtartásához szükséges megfelelő feltételek megteremtése,
+
+6) vegyesvállalatok alapítása és egyéb gazdasági együttműködési formák előmozdítása,
+
+7) a gazdaságfejlesztést érintő tapasztalatcsere, ideértve delegációk fogadását és szakértők cseréjét a gazdaság és a kereskedelem területén,
+
+8) információcsere a gazdasági tevékenységekre, a beruházásra, a kereskedelemre és a technikai rendelkezésekre (beleértve a szabványosítást, az akkreditációt, a megfelelőségi értékelést, a mérésügyet, engedélyek, koncessziók és hozzájárulások kiadását, valamint a szellemi tulajdonjogok védelmét) vonatkozó jogi szabályozásokkal kapcsolatosan,
+
+9) az együttműködés egyéb formáinak megvalósítása a Felek egyetértése és határozata alapján.
+
+**3. cikk**
+
+A Felek előmozdítják bankfiókok és egyéb pénzügyi intézmények felállítását saját államuk területén.
+
+**4. cikk**
+
+1\. A jelen Megállapodás megvalósítása céljából a Felek létrehozzák a Magyar–Kirgiz Gazdasági Együttműködési Kormányközi Bizottságot (a továbbiakban „Bizottság”).
+
+2\. Jelen Megállapodás végrehajtása érdekében, a Bizottságot a Felek képviselőinek a részvételével hozzák létre. A Felek a Bizottságba egy-egy társelnököt jelölnek. A Bizottság bármely fél kérésének megfelelően felváltva ülésezik a Kirgiz Köztársaságban és Magyarországon.
+
+3\. Szükség szerint, a Bizottság az együttműködés meghatározott területeivel foglalkozó munkacsoportokat hozhat létre.
+
+4\. A Bizottság a munkarendjét az első ülésén maga határozza meg. A Felek államaik hatályos jogszabályaival összhangban a Bizottság tevékenységével kapcsolatos költségeket önállóan viselik.
+
+**5. cikk**
+
+A jelen Megállapodás nem befolyásolhatja Magyarország európai uniós tagságából fakadó kötelezettségeit. Ennek megfelelően jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem alkalmazhatók, illetve értelmezhetők olyan módon, mint amelyek érvénytelenítik, módosítják vagy bármely más módon befolyásolják Magyarországnak különösen az Európai Unió alapját képező Szerződésekből, valamint az Európai Unió jogából származó kötelezettségeit.
+
+Jelen megállapodás rendelkezései nem érintik a Felek nemzetközi szerződésekben való részvételéből, valamint nemzetközi szervezetekben való tagságából eredő jogait és kötelezettségeit.
+
+A jelen Megállapodásban szabályozott kérdések tekintetében az egyrészről az Európai Unió és tagállamai, másrészről a Kirgiz Köztársaság között létrejött, 1995. február 9-én Brüsszelben aláírt Partnerségi és Együttműködési Megállapodás az irányadó, annak későbbi módosításaival és kiegészítéseivel együtt.
+
+**6. cikk**
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatos véleményeltéréseket a Felek konzultáció útján rendezik.
+
+**7. cikk**
+
+1\. Jelen Megállapodás a hatályba lépéshez a Felek belső joga szerint szükséges követelmények teljesüléséről szóló későbbi írásos diplomáciai értesítés kézhezvételétől számított harmincadik (30.) napon lép hatályba.
+
+2\. Jelen Megállapodás határozatlan időre szól. A jelen Megállapodást bármelyik Fél felmondhatja, e szándékáról a másik Felet írásban értesíti. Ebben az esetben a jelen Megállapodás a felmondásról szóló értesítés átvételétől számított hat hónap elteltével szűnik meg.
+
+3\. Jelen Megállapodás megszüntetése nem befolyásolja a jelen Megállapodás alapján kötött, illetve végzett konkrét megállapodások, projektek vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek vagy tevékenységek teljesítéséig, amennyiben a Felek másképp nem döntenek.
+
+4\. Jelen Megállapodás rendelkezései a felek közös megegyezése alapján, külön jegyzőkönyvek formájában módosíthatóak. A jelen Megállapodásra vonatkozó bármilyen módosítás a jelen cikk 1. bekezdése szerint lép hatályba és a jelen Megállapodás elválaszthatatlan részét képezi.
+
+Kelt Mauerbach, 2017. július 11 (nap) napján, két eredeti példányban, kirgiz, orosz, magyar, és angol nyelven, melyeket tekintve mindegyik szöveg egyformán hiteles. A jelen Megállapodás eltérő értelmezése esetén a Felek az angol nyelvű változatot tekintik irányadónak.
+
+Magyarország Kormánya részéről
+
+a Kirgiz Köztársaság Kormánya részéről
+
+**Agreement between the Government of Hungary and the Government of the Kyrgyz Republic on economic cooperation**
+
+The Government of Hungary and the Government of the Kyrgyz Republic (hereinafter referred to separately as the “Party” and collectively as the “Parties”),
+
+Desiring to strengthen the friendly relations between Hungary and the Kyrgyz Republic,
+
+Wishing to expand and develop economic relations on the basis of mutually beneficial cooperation,
+
+Convinced of the necessity of deepening the bilateral legal framework in order to establish favourable conditions and suitable basis for further cooperation,
+
+Have agreed as follows:
+
+**Article 1**
+
+1\. The Parties shall promote the development of mutually advantageous economic cooperation according to national law and regulations of the states of the Parties.
+
+2\. Cooperation under this Agreement shall include:
+
+*a)* development of economic capabilities of the Parties;
+
+*b)* intensification of bilateral economic relations, particularly in the sphere of investments, innovations and implementation of other economic activities with a view to increase the foreign trade turnover.
+
+**Article 2**
+
+In order to promote bilateral cooperation under this Agreement the Parties in accordance with national laws and regulations of their states, shall implement the cooperation, referred to in Article 1 of the present Agreement, in the following areas and forms:
+
+1) development and promotion of cooperation in the following areas:
+
+*a)* trade;
+
+*b)* industry and mining;
+
+*c)* information and communications, information technology;
+
+*d)* transport;
+
+*e)* environmental protection;
+
+*f)* education, science and technology;
+
+*g)* construction and housing;
+
+*h)* agriculture, water management and the food processing industry;
+
+*i)* tourism;
+
+*j)* banking;
+
+*k)* protection of intellectual property rights;
+
+*l)* technical regulation, standardization and metrology;
+
+*m)* health;
+
+*n)* health industry and medical tourism
+
+*o)* other spheres of cooperation of mutual interest.
+
+2) facilitation of mechanisms related to the financing and insurance of investment projects and other activities;
+
+3) encouragement of establishing contacts between commercial and professional organizations, companies, chambers and associations of the states of the Parties;
+
+4) development of consulting, legal, banking and technical services that support the implementation of investment projects;
+
+5) creation of favourable conditions for organizing and holding trade fairs, exhibitions, seminars and carrying out other activities;
+
+6) establishment of joint companies and stimulation of other forms of joint economic activity;
+
+7) exchange of experience in economic development of the Parties, including exchanges of delegations and experts in the fields of economy and trade;
+
+8) exchange of information on legislation that regulates economic activity, investments, trade and technical regulation (including matters of standardization, accreditation, conformance evaluation (confirmation), identical measuring, issue of licenses, concessions and permissions, protection of intellectual property rights);
+
+9) other forms of cooperation determined and agreed upon by the Parties.
+
+**Article 3**
+
+The Parties shall promote the establishment of bank branch offices and other financial institutions on the territories of their states.
+
+**Article 4**
+
+1\. The Parties shall establish an intergovernmental Hungarian–Kyrgyz Joint Commission on economic cooperation (hereinafter referred to as the “Commission”).
+
+2\. In order to ensure the implementation of this Agreement, the Commission shall be established with the participation of the representatives of the Parties. Each Party shall designate a co-chair as the head of the Commission. The Commission convened upon request of either Party, regularly and alternately in Hungary and in the Kyrgyz Republic.
+
+3\. If necessary, the Commission will establish working groups and subcommittees dealing with certain areas of cooperation.
+
+4\. The rules of procedure of the Commission shall be defined at its first meeting. In accordance with their respective national legislations of their states, the Parties shall bear the expenses related to the activity of the Commission individually.
+
+**Article 5**
+
+This Agreement shall in no way affect the obligations of Hungary as a member state of the European Union. Consequently, the provisions of this Agreement shall not be applied or interpreted neither in whole, nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from, in particular, the Treaties which the European Union is based on, as well as from the laws of the European Union.
+
+The provisions of the present Agreement shall in no way affect the rights and obligations of the states of the Parties arising from either international agreements, signed by Hungary or the Kyrgyz Republic or from their memberships in international organizations.
+
+The Agreement on Partnership and Cooperation, establishing partnership between the European Communities and their Member States, on the one hand, and the Kyrgyz Republic on the other hand, signed on 9<sup>th</sup> of February 1995 in Brussels together with all its subsequent amendments and additions, shall prevail in respect of matters regulated by this Agreement.
+
+**Article 6**
+
+Any disputes arising from the interpretation or implementation of this Agreement shall be settled through consultations between the Parties.
+
+**Article 7**
+
+1\. The present Agreement shall enter into force on the thirtieth (30) day following the receipt of the last written note delivered through diplomatic channels, in which the Parties notify each other that their internal procedures required for the entry into force of the Agreement have been fulfilled.
+
+2\. The present Agreement shall be valid for an indefinite period of time. The Agreement shall remain in force for 6 months from the date of receipt of one of the Parties written notice given to the other Party about its intent to terminate the Agreement.
+
+3\. The termination of this Agreement shall not affect the validity or the duration of any specific agreement, project or activity made under the present Agreement until the completion of such specific agreements, projects or activities, unless the Parties agree otherwise.
+
+4\. The provisions of this Agreement may be amended by mutual consent of the Parties that are formed as separate protocols, that enter into force in accordance with the procedures set out in paragraph 1 of this Article and shall become an integral part of this Agreement.
+
+Done at Mauerbach on the 11 day of July 2017 in duplicate each in Hungarian, Kyrgyz, Russian, and English languages, all of which being equally authentic. In case of any divergence of interpretation of the present Agreement, the English text shall prevail.
+
+FOR THE GOVERNMENT OF HUNGARY
+
+FOR THE GOVERNMENT OF THE KYRGYZ REPUBLIC”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 45/2017. (XI. 24.) KKM közlemény alapján a hatálybalépés időpontja 2017. november 26.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 45/2017. (XI. 24.) KKM közlemény alapján a hatálybalépés időpontja 2017. november 26.
+[^3]: A 45/2017. (XI. 24.) KKM közlemény alapján a hatálybalépés időpontja 2017. november 26.
+[^4]: Lásd a 45/2017. (XI. 24.) KKM közleményt.

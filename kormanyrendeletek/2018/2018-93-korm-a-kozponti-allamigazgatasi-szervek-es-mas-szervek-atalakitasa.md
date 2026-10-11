@@ -1,0 +1,494 @@
+---
+title: "93/2018. (V. 4.) Korm. rendelet a központi államigazgatási szervek és más szervek átalakítása, valamint a vezető személyének változása esetén lefolytatandó átadás-átvételi eljárásról"
+identifier: "93/2018. (V. 4.) Korm. rendelet"
+njt_id: "2018-93-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/93"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-05-04
+in_force_from: 2018-05-05
+last_amended: 2022-05-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-93-20-22"
+retrieved: 2026-10-12
+---
+
+# 93/2018. (V. 4.) Korm. rendelet a központi államigazgatási szervek és más szervek átalakítása, valamint a vezető személyének változása esetén lefolytatandó átadás-átvételi eljárásról
+
+A Kormány\
+a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 75. § (4b) bekezdésében kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva\
+a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) A miniszterelnök megbízatásának megszűnése esetén a miniszterelnök átadás-átvételi eljárást folytat le
+
+a) a Kormány tekintetében a kormányzati tevékenység összehangolásáért felelős miniszter közreműködésével,
+
+b) a kormánybizottságok tekintetében a kormánybizottság elnöki tisztségét betöltő miniszter útján.
+
+(2) A miniszter
+
+a) megbízatásának megszűnése esetén az általa vezetett minisztériumra vonatkozóan, illetve
+
+b)[^1] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 20. § (5) bekezdése alapján feladat- és hatáskörök tekintetében bekövetkező jogutódlás esetén más miniszter feladat- és hatáskörébe átkerülő feladatra vonatkozóan
+
+átadás-átvételi eljárást folytat le.
+
+(3) A miniszter gondoskodik az átadás-átvételi eljárás lefolytatásáról
+
+a) az irányítása vagy felügyelete alatt álló központi államigazgatási szerv, központi költségvetési szerv vezetője és
+
+b) – ha a miniszter gazdasági társaság felett tulajdonosi jogot, illetve alapítvány tekintetében alapítói jogot gyakorol – a gazdasági társaság vezetője, illetve az alapítvány kezelő szerve elnöke
+
+megbízatásának megszűnése esetén.
+
+### 2. §
+
+(1) Az átadás-átvételi eljárás levezetője az átvevő. Átvevőnek
+
+a) az 1. § (1) bekezdése szerinti esetben a miniszterelnök, az 1. § (2) bekezdés *a)* pontja szerinti esetben a miniszter, az 1. § (3) bekezdése szerinti esetben a központi államigazgatási szerv vezetőjének, a központi költségvetési szerv vezetőjének, gazdasági társaság vezető tisztségviselőjének vagy alapítvány kezelő szerve elnökének tisztségébe kinevezett, megválasztott vagy megbízott személy minősül,
+
+b)[^2] az 1. § (2) bekezdés *b)* pontja szerinti esetben az a miniszter minősül, amelyik feladat- és hatáskörébe feladata a Kit. 20. § (5) bekezdése szerinti kormányrendelet alapján átkerül.
+
+(2) Az átadás-átvételi eljárásban átadónak a miniszterelnök, a miniszter, a központi államigazgatási szerv vezetője, a központi költségvetési szerv vezetője, a gazdasági társaság vezető tisztségviselője vagy az alapítvány kezelő szervének elnöke minősül.
+
+(3) Ha az átadás-átvételi eljárás az átadó halála vagy tartós egészségügyi természetű akadályoztatása miatt válik szükségessé, helyette az átadó helyettese jár el, mint átadó, és az átvevő kinevezését, megválasztását vagy megbízását követően az átvevő irányában gondoskodik az átadás-átvétel végrehajtásáról.
+
+(4) Az átvevő dönt az átadás-átvétel pontos helyéről, időpontjáról, az átvevőn kívüli jelenlévőkről, az 1. melléklet szerinti jegyzőkönyv (a továbbiakban ezen alcím alkalmazásában: jegyzőkönyv) hitelesítésének módjáról, szó szerinti jegyzőkönyv felvételéről, egyes részletek zárt kezeléséről.
+
+### 3. §
+
+(1) Az átadás-átvételi eljárásról jegyzőkönyv készül a 6. § szerinti határidő kezdő napjaként meghatározott fordulónappal, három eredeti példányban, amelyből egy példány az átadót illeti, a további két példány felhasználásáról az átvevő rendelkezik. A jegyzőkönyvet az átadó és az átvevő vagy az általuk kijelölt személy írja alá.
+
+(2) Az átadó a részére használatra, illetve leltárfelelősséggel átadott, vagy egyébként a tisztségéből fakadóan birtokába került eszközöket, használati tárgyakat, egyéb dolgokat köteles teljeskörűen átadni, és ezek állapotáról, jog- és kellékszavatosságáról, valamint az átadás időpontjáig terjedő szabályszerű használatáról nyilatkozni. A személyi használatú eszközök esetében a személyi leltárában lévő dolgok szabályszerű leadásáról az átadó – az átadást megelőzően – gondoskodni köteles. A fentiekről szóló jegyzék külön íven kerül felvételre.
+
+(3) A jegyzőkönyvben az átadó az átadás-átvétellel érintett szervnél foglalkoztatott legmagasabb beosztású, az információtechnológiáért felelős vezető közreműködésével teljeskörűen átadja az átadás-átvétellel érintett szerv információtechnológiai infrastruktúráját, rendszereit, ideértve az átadás-átvétellel érintett szerv feladatainak ellátásához, illetve működésének biztosításához szükséges valamennyi alkalmazást és az általa kezelt adatvagyont.
+
+(4) A (2)–(3) bekezdést nem kell alkalmazni
+
+a) a központosított informatikai és elektronikus hírközlési szolgáltatások igénybevételére kötelezett szervek esetén az e szolgáltatás keretében biztosított eszközök, használati tárgyak és egyéb dolgok tekintetében, valamint
+
+b) a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet [a továbbiakban: 250/2014. (X. 2.) Korm. rendelet] 3. § (1) bekezdés *a)* és *c)* pontja szerinti azon szervek esetén, amelyek számára a kijelölt szervezet a 250/2014. (X. 2.) Korm. rendelet 1. melléklete szerinti szolgáltatást nyújt, az e szolgáltatás keretében biztosított eszközök, használati tárgyak és egyéb dolgok tekintetében.
+
+(5) A jegyzőkönyvben meghatározott tartalommal és formában az átadó teljes körű személyi felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és az érdemi vizsgálatra való alkalmasságáért.
+
+(6) A jegyzőkönyvben az átadó és az átvevő az átadás-átvételi eljárással kapcsolatosan írásban észrevételeket tehet, amelynek teljesítése nem lehetetlenítheti el az átadás-átvételi eljárás eredményes végrehajtását.
+
+### 4. §
+
+Nem kell átadás-átvételi eljárást lefolytatni, amennyiben az átadó és az átvevő személye megegyezik.
+
+### 5. §
+
+(1) Az átadó az átadás-átvétel eredményességétől függetlenül a hatásköre gyakorlásának megszűnését követően is köteles az átadott munkakör, feladat- és hatáskör eredményes ellátása érdekében tájékoztatást adni, és az átvevő rendelkezésére állni, különös tekintettel tisztázandó tények, adatok későbbi felmerülése esetén.
+
+(2) Az átadás-átvétel megtörténte az átadót – jogszabályból fakadó és adott esetben a tisztségének megszűnését követően is – terhelő kötelezettségektől és felelősségtől nem mentesíti.
+
+### 6. §
+
+Az átadás-átvételi eljárást
+
+a) az 1. § (1) bekezdése szerinti esetben az új Kormány megalakulásától számított 10 munkanapon belül,
+
+b)[^3] az 1. § (2) bekezdése szerinti esetben az új miniszter kinevezésétől számított 10 munkanapon belül, illetve a Kit. 20. § (5) bekezdése szerinti kormányrendelet hatálybalépésétől számított 10 munkanapon belül,
+
+c) az 1. § (3) bekezdése szerinti esetben
+
+ca) a fővárosi és megyei kormányhivatal, a Magyar Államkincstár, az Államadósság Kezelő Központ Zrt., a Közbeszerzési és Ellátási Főigazgatóság és a Nemzeti Infokommunikációs Szolgáltató Zrt. vonatkozásában az új vezető kinevezésétől, megválasztásától vagy megbízásától számított 15 munkanapon belül,
+
+cb) a *ca)* alpontban nem nevesített más szervre vonatkozóan az új vezető kinevezésétől, megválasztásától vagy megbízásától számított 30 munkanapon belül
+
+kell lefolytatni.
+
+## 2. Különös átadás-átvételi szabályok
+
+### 7. §
+
+(1) Az új Kormány megalakulása során az 1. § (2) bekezdésében meghatározott szervekre vonatkozó átadás-átvételi eljárásra az 1. alcímben foglalt rendelkezéseket az ezen alcímben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Ha az (1) bekezdésben meghatározott esettől eltérő módon szűnik meg a miniszter megbízatása, az általa ellátott feladat- és hatáskörök tekintetében az 1. § (2) bekezdésében meghatározott szervekre vonatkozó átadás-átvételi eljárásra az 1. alcímben foglalt rendelkezéseket az ezen alcímben meghatározott eltérésekkel kell alkalmazni.
+
+### 8. §
+
+(1) Az átadás-átvételi eljárás két szakasza
+
+a) az egyes feladat- és hatáskörökhöz kapcsolódó feladatok tekintetében lefolytatásra kerülő átadás-átvételi eljárás (a továbbiakban: szakmai átadás-átvétel), valamint
+
+b) a miniszter által vezetett minisztérium jogszerű működését biztosító igazgatási feladatok, valamint a minisztérium mint fejezet költségvetési forrásai tekintetében lefolytatásra kerülő átadás-átvételi eljárás (a továbbiakban: igazgatási átadás-átvétel).
+
+(2) Nem kell a szakmai vagy az igazgatási átadás-átvételi eljárást lefolytatni, amennyiben az átadó és az átvevő személye megegyezik.
+
+### 9. §
+
+(1) A szakmai átadás-átvétel fordulónapja az új Kormány megalakulását követő nap, amely a szakmai átadás-átvétel lefolytatásának végső határideje is.
+
+(2) Az átadó miniszter és az átvevő miniszter a szakmai átadás-átvétel lefolytatására az általa vezetett minisztérium közigazgatási államtitkárát vagy más személyt is meghatalmazhat a 2. mellékletben meghatározott formában.
+
+(3) A szakmai átadás-átvétel során a 3. melléklet szerinti jegyzőkönyvet (a továbbiakban ezen alcím alkalmazásában: jegyzőkönyv) kell alkalmazni.
+
+(4) A jegyzőkönyv egy eredeti példánya az átadó minisztert illeti, a további két példány felhasználásáról az átvevő miniszter rendelkezik.
+
+(5) A szakmai átadás-átvétel során az átadó miniszter a 4. mellékletben meghatározott formában teljes körű személyi felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és az érdemi vizsgálatra alkalmas voltáért.
+
+### 10. §
+
+(1) Az igazgatási átadás-átvétel lefolytatására kizárólag a szakmai átadás-átvétel lefolytatása esetén kerül sor a szakmai átadás-átvétel szerint érintett feladat- és hatáskörökre vonatkozóan.
+
+(2) Az igazgatási átadás-átvételt – a (3) bekezdésben meghatározott kivétellel –
+
+a) az átadó miniszter nevében az átadó miniszter által vezetett minisztérium közigazgatási államtitkára, az átvevő miniszter nevében az átvevő miniszter által vezetett minisztérium közigazgatási államtitkára,
+
+b)[^4] ha az átadó miniszter vagy az átvevő miniszter minisztériumot nem vezető miniszter, a nevében a Kit. 20. § (5) bekezdés *b)* pontja szerinti minisztérium közigazgatási államtitkára
+
+folytatja le.
+
+(3) Az átadó miniszter az igazgatási átadás-átvétel lefolytatása érdekében a (2) bekezdésben meghatározottaktól eltérően más személyt is meghatalmazhat a 2. mellékletben meghatározott formában.
+
+(4) Az igazgatási átadás-átvétel fordulónapja az új Kormány megalakulását követő hónap első napja, az igazgatási átadás-átvételi eljárás lefolytatásának végső határideje a fordulónapot követő harmadik nap.
+
+(5) Az igazgatási átadás-átvétel során alkalmazandó dokumentumokat az államháztartásért felelős miniszter által meghatározott formában és tartalommal szükséges elkészíteni.
+
+### 11. §
+
+(1) Az igazgatási átadás-átvétel során az átadó miniszter által vezetett minisztérium közigazgatási államtitkára az átadó miniszter számára használatra, illetve leltárfelelősséggel átadott vagy egyébként a tisztségéből fakadóan birtokába került eszközöket, használati tárgyakat, egyéb dolgokat köteles teljeskörűen az átvevő miniszter által vezetett minisztérium közigazgatási államtitkára részére átadni, és ezek állapotáról, jog- és kellékszavatosságáról, valamint az átadás időpontjáig terjedő szabályszerű használatáról az átadó miniszter nevében nyilatkozni. A személyi használatú eszközök esetében a személyi leltárában lévő dolgok szabályszerű leadásáról az átadó miniszter által vezetett minisztérium közigazgatási államtitkára – az átadást megelőzően – gondoskodni köteles. A nyilatkozat külön íven kerül felvételre.
+
+(2) Az igazgatási átadás-átvétel során az átadó miniszter által vezetett minisztérium közigazgatási államtitkára az átadó miniszter által vezetett minisztériumnál foglalkoztatott, legmagasabb beosztású, az információtechnológiáért felelős vezető közreműködésével teljeskörűen átadja az átadó miniszter által vezetett minisztérium információtechnológiai infrastruktúráját, rendszereit, ideértve az átadás-átvétellel érintett szerv feladatainak ellátásához, illetve működésének biztosításához szükséges valamennyi alkalmazást és az általa kezelt adatvagyont.
+
+(3) Az igazgatási átadás-átvétel során az átadó miniszter által vezetett minisztérium közigazgatási államtitkára az átadó miniszter meghatalmazásából nyilatkozatot köteles tenni a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 1. melléklete szerinti tartalommal az átvevő számára.
+
+(4) Az (1)–(2) bekezdést nem kell alkalmazni
+
+a) a központosított informatikai és elektronikus hírközlési szolgáltatások igénybevételére kötelezett minisztériumok esetén az e szolgáltatás keretében biztosított eszközök, használati tárgyak és egyéb dolgok tekintetében, valamint
+
+b) a 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdés *a)* pontja szerinti azon minisztériumok esetén, amelyek számára a kijelölt szervezet a 250/2014. (X. 2.) Korm. rendelet 1. melléklete szerinti szolgáltatást nyújt, az e szolgáltatás keretében biztosított eszközök, használati tárgyak és egyéb dolgok tekintetében.
+
+(5) A szakmai átadás-átvétel és az igazgatási átadás-átvétel fordulónapja közötti időszakban az átadó köteles az átvevő egyidejű értesítése mellett úgy eljárni, hogy az átadással érintett feladat- és hatáskörök folyamatos ellátása biztosított legyen.
+
+## 3. Záró rendelkezések
+
+### 12. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 13. §[^5]
+
+## 1. melléklet a 93/2018. (V. 4.) Korm. rendelethez
+
+**Átadás-átvételi jegyzőkönyv**
+
+**I. **Általános adatok****
+
+1\. az átadó és átvevő személy neve, beosztása,
+
+2\. az átadás-átvétel helye és időpontja,
+
+3\. az átadás-átvételi folyamatban részt vevő személyek neve, beosztása.
+
+**II. **Szakmai átadás-átvétel****
+
+|  |  | A | B | C | D |
+|---|---|---|---|---|---|
+|  |  | Feladat, feladatcsoport megnevezése | Feladat, feladatcsoport végrehajtásának felelőse | Következő teendők | Elintézés határideje |
+|  | 1 |  |  |  |  |
+|  | 2 |  |  |  |  |
+|  | 3 |  |  |  |  |
+|  | 4 |  |  |  |  |
+
+|  |  | A | B | C | D | E | F | G | H | I | J |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Projekt azonosító száma | Projekt megneve- zése | Projekt- gazda neve | Projekt kezdete | Projekt befejezése | Projekt keret- összege | Kifizetett összeg | Ebből kifizetett szállítói előleg | Ebből kifizetett támogatói előleg | Jelenlegi kötele- zettség- vállalá- sokból ki nem fizetett összeg |
+|  | 1 |  |  |  |  |  |  |  |  |  |  |
+|  | 2 |  |  |  |  |  |  |  |  |  |  |
+|  | 3 |  |  |  |  |  |  |  |  |  |  |
+|  | 4 |  |  |  |  |  |  |  |  |  |  |
+
+**III. **Igazgatási átadás-átvétel****
+
+1\. Az átadás-átvétellel érintett szerv jogszerű, szakmai működését biztosító, leíró okiratok, szabályzatok eredeti és hiteles másolati példányainak átadása, így különösen létesítő okiratok, szervezetre, működésre, gazdálkodásra vonatkozó szabályzatok, illetve azok módosításai (adott esetben utasításokkal kiegészítve)
+
+*Számozott mellékletek (az átadásra került, illetve az átadással érintett anyagokról)*
+
+Amennyiben az érintett
+
+a) szabályzatok a Hivatalos Értesítőben közzétételre kerültek, úgy elégséges az utasítás számát rögzíteni,
+
+b) adatok a Magyar Államkincstár törzskönyvi nyilvántartási rendszerében megtalálhatóak, úgy elégséges az internetes elérési út, valamint a törzskönyvi nyilvántartási szám rögzítése.
+
+|  |  | A | B | C |
+|---|---|---|---|---|
+|  |  | Szervezeti egység | Foglalkoztatott neve | Foglalkoztatott munkaköre/ beosztása |
+|  | 1 |  |  |  |
+|  | 2 |  |  |  |
+|  | 3 |  |  |  |
+|  | 4 |  |  |  |
+
+|  |  | A | B | C | D | E |
+|---|---|---|---|---|---|---|
+|  |  | Iktatószám | Vitatott, adott esetben per vagy más vitarendezési eljárás tárgyává tett kérdés | Bírósági ügyszám | Álláspont kifejtése | Perbeli képviseletet ellátó megnevezése |
+|  | 1 |  |  |  |  |  |
+|  | 2 |  |  |  |  |  |
+|  | 3 |  |  |  |  |  |
+|  | 4 |  |  |  |  |  |
+
+4\. Az átadó által tett, illetve az átadás-átvétellel érintett szervre háruló, az átadás-átvétel fordulónapján hatályos, illetve ezt követően hatályba lépő kötelezettségvállalások (külön a természetes személyek és a jogi személyek tekintetében) és egyéb kötelezettséget alapító intézkedésekről (ideértve a pályázatokat, ígérvényeket, szándéknyilatkozatokat) szóló tételes és a szükséges magyarázatokkal ellátott kimutatás átadása
+
+5\. Egyes jogosultságok átadás-átvétele:
+
+a) Iktatási rend
+
+b) Számlakezelés [az igazgatás, a fejezeti kezelésű előirányzatok, a központi kezelésű előirányzatok, a miniszter rendelkezési jogkörébe tartozó elkülönített állami pénzalap(ok) szabályzatai szerint]
+
+c) Pecsét
+
+d) Aláírási jogosultságok
+
+*Számozott mellékletek (az átadásra került, illetve az átadással érintett anyagokról)*
+
+|  |  | A | B | C |
+|---|---|---|---|---|
+|  |  | Irányított vagy felügyelt szerv megnevezése | Irányított vagy felügyelt szerv jogállása | Kapcsolattartó megnevezése |
+|  | 1 |  |  |  |
+|  | 2 |  |  |  |
+|  | 3 |  |  |  |
+|  | 4 |  |  |  |
+
+|  |  | A | B | C |
+|---|---|---|---|---|
+|  |  | A gazdasági társaság neve | A miniszter hatásköre | Kapcsolattartó megnevezése |
+|  | 1 |  |  |  |
+|  | 2 |  |  |  |
+
+|  |  | A | B | C |
+|---|---|---|---|---|
+|  |  | Az alapítvány neve | A miniszter hatásköre | Kapcsolattartó megnevezése |
+|  | 1 |  |  |  |
+|  | 2 |  |  |  |
+
+**IV. **További nyilatkozatok, dokumentumok****
+
+1\. Minden olyan körülmény, veszély, illetve lehetőség számbavételéről, amely az adott szervezet, illetve szakterület működését érdemben befolyásolhatja.
+
+2\. A kezelt minősített adatra vonatkozó nyilatkozatok, dokumentumok külön íven.
+
+3\. Az átadás-átvétellel érintett szerv információtechnológiai infrastruktúrája, rendszerei, ideértve a feladatainak ellátásához, illetve működésének biztosításához szükséges valamennyi alkalmazást, és az általa kezelt adatvagyonról szóló nyilatkozat.
+
+**V. **Teljességi nyilatkozat****
+
+TELJESSÉGI NYILATKOZAT
+
+Alulírott .................................., mint a .................................. (szervezet, szervezeti egység) .................................. tisztségben lévő vezetője (a továbbiakban: átadó), kijelentem, hogy a mai napon .................................. átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre a .................................. (szervezet, szervezeti egység) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok.
+
+Jelen nyilatkozat elválaszthatatlan részét képezi az átadás-átvételi jegyzőkönyvnek.
+
+Budapest, 20..... .............................
+
+............................................\
+átadó
+
+## 2. melléklet a 93/2018. (V. 4.) Korm. rendelethez
+
+**Meghatalmazás**
+
+Alulírott .................................., a Magyarország minisztériumainak felsorolásáról szóló .......... évi .......... törvény, a Kormány tagjainak feladat- és hatásköréről szóló .......... Korm. rendelet és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény alapján mint .................................. *(felelősségért)* való miniszter
+
+m e g h a t a l m a z o m
+
+..................................t *(név, titulus)*, hogy
+
+a/az .................... *(feladat- és hatáskörök)* tekintetében bekövetkező jogutódlás folytán a szakmai átadás-átvételi eljárást lefolytassa,
+
+vagy
+
+a/az .................... *(feladat- és hatáskörök)* tekintetében bekövetkező jogutódlás folytán az igazgatási átadás-átvételi eljárást lefolytassa.
+
+Budapest, 20..... .............................
+
+............................................\
+meghatalmazó
+
+## 3. melléklet a 93/2018. (V. 4.) Korm. rendelethez
+
+**Átadás-átvételi jegyzőkönyv**
+
+a .......... Minisztériuma/Miniszter és a .......... vonatkozásában
+
+A Kormány tagjainak feladat- és hatásköréről szóló .......... Korm. rendelet (a továbbiakban: Statútum rendelet) .......... Fejezet .......... § .......... pontjában, valamint a központi államigazgatási szervek és más szervek átalakítása, valamint a vezető személyének változása esetén lefolytatandó átadás-átvételi eljárásról szóló 93/2018. (V. 4.) Korm. rendelet (a továbbiakban: átadás-átvételi eljárásokról szóló kormányrendelet) 9. §-ában foglaltak alapján\
+a/az .................... miniszter – *mint átadó* – és a/az .................... miniszter – *mint átvevő* – átadás-átvételi eljárást folytatnak le a/az .................... való felelősségi körbe tartozó feladat- és hatáskör átadás-átvétele tárgyában.
+
+A Felek rögzítik, hogy az átadás-átvételi eljárás a/az ..............................ért való felelősségi kör átadás-átvételére terjed ki. A Felek kijelentik, hogy a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet és a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet alapján valamennyi, a felelősségi kör ellátásához kapcsolódó tárgyi eszköz és informatikai infrastruktúra a Közbeszerzési és Ellátási Főigazgatóság és a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság kezelésében és/vagy üzemeltetésében van.
+
+A jelen átadás-átvételi jegyzőkönyv kizárólag az átadással érintett minisztérium/miniszter szakmai feladatainak és ahhoz kapcsolódó szakmai állomány, valamint iratanyagok átadására vonatkozik. Jelen átadás-átvételi jegyzőkönyvet – az átadás-átvételi eljárásokról szóló kormányrendelet 9. § (4) bekezdésére figyelemmel − három eredeti példányban kell felvenni, amelyből egy példány az átadót illeti, a további két példány felhasználásáról az átvevő rendelkezik. A jegyzőkönyvet az átadó és az átvevő írja alá.
+
+**I. Általános adatok**
+
+1\. szervezet megnevezése, székhelye,
+
+2\. az átadó és átvevő személy neve, beosztása,
+
+3\. az átadás-átvétel helye és időpontja,
+
+4\. az átadás-átvételi folyamatban részt vevő további személyek neve, beosztása.
+
+**II. **Szakmai átadás-átvétel****
+
+1\. **Az átadás-átvétellel érintett szerv által a jogszabályok alapján ellátott feladatok, feladatcsoportok tételes leírása (folyamatban lévő ügyekre)**
+
+Ennek keretében tételesen számba kell venni a szervezet feladat- és hatáskörébe tartozó tevékenységeket (ide nem értve az igazgatási működéssel összefüggő feladatokat), így különösen jogszabályban, kormányhatározatban, országgyűlési határozatban és alkotmánybírósági határozatban, európai uniós jogalkotásból és nemzetközi kötelezettségvállalásból eredő, továbbá intézkedési tervben (pl. Állami Számvevőszék, Kormányzati Ellenőrzési Hivatal, belső ellenőrzés felé tett intézkedési tervben) meghatározott vagy más formában vállalt és kapott feladatokat. Feladatcsoport esetében az összetartozó ügyek egyben történő megjelölése szükséges.
+
+*(1. melléklet szerint)*
+
+2\. **Szakmai működést biztosító okiratok**
+
+Az átadás-átvétellel érintett szerv jogszerű, szakmai működését biztosító, leíró okiratok, szabályzatok eredeti vagy hiteles másolati példányainak átadása, így különösen létesítő okiratok, szervezetre, működésre, gazdálkodásra vonatkozó szabályzatok, illetve azok módosításai (adott esetben utasításokkal kiegészítve).
+
+Amennyiben az érintett
+
+– szabályzatok a Hivatalos Értesítőben közzétételre kerültek, úgy elégséges az utasítás számát rögzíteni,
+
+– adatok a Magyar Államkincstár törzskönyvi nyilvántartási rendszerében megtalálhatóak, úgy elégséges az internetes elérési út, valamint a törzskönyvi nyilvántartási szám rögzítése.
+
+*[2. melléklet szerint (az átadásra került, illetve az átadással érintett anyagokról)]*
+
+3\. **Európai uniós, hazai, nemzetközi finanszírozású projektek**
+
+Az átadás-átvétellel érintett szerv (mint kedvezményezett, konzorciumvezető) által kezelt európai uniós és hazai/nemzetközi társfinanszírozású projektek státuszáról, szakmai előrehaladásáról szóló tételes és a szükséges magyarázatokkal ellátott kimutatás és a kapcsolódó iratanyagok összességének átadása. *(3. melléklet szerint)*
+
+4\. **Szervezet**
+
+Az átadás-átvétellel érintett szakmai szervezeti egység(ek) állománytáblája. *(4. melléklet szerint)*
+
+5\. **Intézmények, gazdasági társaságok, alapítványok**
+
+|  |  | A | B |
+|---|---|---|---|
+|  |  | A központi államigazgatási szerv neve | A miniszter hatásköre |
+|  | 1 |  |  |
+|  | 2 |  |  |
+
+|  |  | A | B |
+|---|---|---|---|
+|  |  | A gazdasági társaság neve | A miniszter hatásköre |
+|  | 1 |  |  |
+|  | 2 |  |  |
+
+|  |  | A | B |
+|---|---|---|---|
+|  |  | A gazdasági társaság neve | A miniszter hatásköre |
+|  | 1 |  |  |
+|  | 2 |  |  |
+
+|  |  | A | B |
+|---|---|---|---|
+|  |  | Az alapítvány neve | A miniszter hatásköre |
+|  | 1 |  |  |
+|  | 2 |  |  |
+
+6\. **Az átadó által kezelt iratanyagok átadása**
+
+A kezelt iratanyagok átadása során a folyamatban lévő ügyek fizikai átadás-átvétele tételes iratjegyzék felvételével történik meg. *(5. melléklet szerint)*
+
+Az átadással érintett feladat- és hatáskör ellátása során a 2014. június 6. napja és a Kormány megalakulását követő nap között keletkezett, lezárt (irattározott) iratok fizikai átadására nem kerül sor, kizárólag az egyes szervezeti egységek által kezelt iratok iratjegyzékét szükséges – a dokumentumkezelő rendszerből lehívható módon –előállítani. *(6. melléklet szerint)*
+
+A kezelt minősített adatra vonatkozó nyilatkozatok, dokumentumok külön íven kerülnek átadásra. A minősített adatra vonatkozó követelményeknél minősített iratok jegyzékét a minősített iratok kezelésére vonatkozó szabályokban meghatározott nyilvántartási adatok szerint összeállítani. *(7. melléklet szerint)*
+
+**III. **További nyilatkozatok, dokumentumok****
+
+Minden olyan körülmény, veszély, illetve lehetőség számbavételéről, amely az adott szervezet, illetve szakterület működését érdemben befolyásolhatja. *(8. melléklet szerint)*
+
+............................................................ ............................................................\
+átadó képviseletében átvevő képviseletében
+
+Budapest, 20..... ............................. Budapest, 20..... .............................
+
+|  | A | B | C | D | E |
+|---|---|---|---|---|---|
+|  | Feladat, feladatcsoport megnevezése | Feladat, feladatcsoport végrehajtásának felelőse | Következő teendők | Elintézés határideje | Iktatószám (azonosító szám), amennyiben kapcsolódik a feladathoz |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+
+2\. melléklet\
+Szakmai működést biztosító okiratok jegyzéke
+
+...
+
+...
+
+...
+
+|  | A | B | C | D | E | F | G | H | I | J |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | Projekt azonosító száma | Projekt megnevezése | Projektgazda neve | Projekt kezdete | Projekt befejezése | Projekt keretösszege | Kifizetett összeg | Ebből kifizetett szállítói előleg | Ebből kifizetett támogatói előleg | Jelenlegi kötelezettség-vállalásokból ki nem fizetett összeg |
+| 1 |  |  |  |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |  |  |  |  |
+
+|  | A | B | C |
+|---|---|---|---|
+|  | Szervezeti egység | Foglalkoztatott neve | Foglalkoztatott munkaköre/beosztása |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+
+|  | A | B | C | D | E |
+|---|---|---|---|---|---|
+|  | Feladat, feladatcsoport megnevezése helyettes államtitkár (a felelős szervezeti egység vezetőjének) megjelölésével | Iktatószám | Tárgy | Ügyintéző | Elintézési határidő |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+
+|  | A | B | C | D |
+|---|---|---|---|---|
+|  | Feladat, feladatcsoport megnevezése helyettes államtitkár (a felelős szervezeti egység vezetőjének) megjelölésével | Iktatószám | Tárgy | Fizikai őrzés helye |
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+
+7\. melléklet\
+Minősített iratok jegyzéke
+
+...
+
+...
+
+...
+
+8\. melléklet\
+További nyilatkozatok, dokumentumok
+
+...
+
+...
+
+...
+
+## 4. melléklet a 93/2018. (V. 4.) Korm. rendelethez
+
+**TELJESSÉGI NYILATKOZAT**
+
+Alulírott .................................., mint a .................................. (szervezet, szervezeti egység) .................................. tisztségben lévő vezetője (a továbbiakban: átadó), kijelentem, hogy a mai napon .................................. átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre a .................................. (szervezet, szervezeti egység) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok.
+
+Jelen nyilatkozat elválaszthatatlan részét képezi az átadás-átvételi jegyzőkönyvnek.
+
+Budapest, 20..... .............................
+
+............................................\
+átadó
+
+---
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 183/2022. (V. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés b) pontja a 183/2022. (V. 24.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § b) pontja a 183/2022. (V. 24.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^4]: A 10. § (2) bekezdés b) pontja a 183/2022. (V. 24.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

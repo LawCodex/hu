@@ -1,0 +1,131 @@
+---
+title: "154/2009. (VII. 23.) Korm. rendelet a lakáscélú kölcsönökre vonatkozó állami készfizető kezesség igénybevételének és beváltásának részletes szabályairól"
+identifier: "154/2009. (VII. 23.) Korm. rendelet"
+njt_id: "2009-154-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/154"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-07-23
+in_force_from: 2009-07-28
+last_amended: 2016-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-154-20-22"
+retrieved: 2026-10-12
+---
+
+# 154/2009. (VII. 23.) Korm. rendelet a lakáscélú kölcsönökre vonatkozó állami készfizető kezesség igénybevételének és beváltásának részletes szabályairól
+
+A Kormány a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 4. §-ának (4) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének *b)* pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendeletet a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben (a továbbiakban: Tv.) és az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+
+## 2. §
+
+(1) A pénzügyi intézmény a Tv.-ben meghatározott feltételek teljesülését a rendelkezésére álló iratok alapján az áthidaló kölcsön folyósítására vonatkozó hitelszerződés (a továbbiakban: hitelszerződés) megkötése kezdeményezésének időpontjára vonatkozóan állapítja meg.
+
+(2) A Tv. alkalmazása során munkavégzésre irányuló egyéb jogviszonynak tekintendő különösen a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági, ügyvédi és az egyéni vállalkozói tevékenység.
+
+(3) A pénzügyi intézmény és a természetes személy egy hitelszerződést köthet, amelynek alapján egy vagy több lakáscélú kölcsönhöz is folyósítható áthidaló kölcsön. Ha a hitelszerződés megkötésekor a szerződés összege előre nem határozható meg, akkor a havonta folyósítandó összeg megállapításának módszerét kell meghatározni szerződésben.
+
+(4) Az állami kezesség érvényességét nem befolyásolja az, ha a természetes személy részére magasabb összegű áthidaló kölcsönt folyósít a pénzügyi intézmény amiatt, hogy
+
+a) a lakáscélú kölcsönszerződésben meghatározott esetben és módon módosul a törlesztőrészlet összege, vagy
+
+b) a természetes személy és a pénzügyi intézmény a Tv. 3. § (1) bekezdése *e)* pontjának *ea)* alpontjában vagy a Tv. 3/A. §-a (2) bekezdésének *b)* pontjában meghatározott összegnél magasabb összegű törlesztésben állapodott meg, és a hitelszerződés módosításával a törlesztés összegét – legfeljebb a Tv.-ben meghatározott összegre – csökkentik.
+
+(5) A pénzügyi intézmény és a természetes személy a hitelszerződésben határozza meg, hogy a Tv. 2. §-a (5) bekezdésének alkalmazása esetén, mi minősül szerződésszegésnek. A természetes személy a Tv. 3. §-a (1) bekezdésének *e)* pontja vagy a Tv. 3/A. §-a (2) bekezdésének *b)* pontja szerinti vállalását legkésőbb annak esedékességét követő 60. napig teljesíti.
+
+(6) Ha a természetes személynek több pénzügyi intézménynél van lakáscélú kölcsöne, akkor lehetősége van több hitelszerződés megkötésére azzal, hogy a természetes személy a Tv. 3. §-ában, illetőleg a Tv. 3/A. §-ában foglaltakat mindegyik hitelszerződés esetén teljesíti.
+
+(7) A természetes személy nyilatkozat megtételével igazolja azoknak a körülményeknek az átmeneti fennállását, amelyek miatt a háztartás vagyoni, jövedelmi helyzete, illetőleg teherviselő képessége nem teszi lehetővé a lakáscélú kölcsön szerződés szerinti törlesztését.
+
+(8) A pénzügyi intézmény az általa nyújtott – a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet szerinti – megelőlegező kölcsön összegét is figyelembe veszi a Tv. 3. §-a (1) bekezdésének *f)* pontja és a Tv. 3/A. §-a (2) bekezdésének *d)* pontja alkalmazása esetén.
+
+(9) A Tv. 3/A. §-a (2) bekezdésének alkalmazása során a pénzügyi intézmény a forinttól eltérő fizetőeszközben meghatározott, de a természetes személy által forintban törlesztendő lakáscélú kölcsön esetén a lakáscélú kölcsönszerződésben foglaltak figyelembevételével határozza meg a törlesztőrészlet forint ellenértékét.
+
+(10) A Tv. 3/A. §-a (2) bekezdésének alkalmazása során a lakáscélú kölcsön folyósításkori első nem akciós törlesztőrészletének az akció lejáratát követő első törlesztőrészlet minősül.
+
+(11) A pénzügyi intézmény belső szabályzatban határozza meg, hogy milyen iratokat vesz figyelembe a háztartás nettó havi jövedelmének megállapítása során.
+
+(12) A pénzügyi intézmény és a természetes személy a hitelszerződésben határozza meg az áthidaló kölcsön folyósítása megszűnésének eseteit.
+
+## 3. §
+
+(1) A pénzügyi intézmény és a természetes személy a hitelszerződésben határozza meg a hitelszerződés felmondásának okát és a felmondási jog gyakorlásának időpontját.
+
+(2)[^1] A pénzügyi intézmény a *melléklet* szerinti igénylőlap felhasználásával érvényesítheti az állami kezességvállalásból eredő jogait az állami adóhatóságnál. A Tv. 2. §-ának (7) bekezdésében meghatározott határidő elmulasztása jogvesztéssel jár.
+
+## 4. §
+
+Az e rendeletben foglaltakat megfelelően alkalmazni kell a Tv. 3/B. §-a szerinti pénzügyi lízingszerződésre is.
+
+## 5. §
+
+Ez a rendelet 2009. július 28. napján lép hatályba.
+
+## Melléklet a 154/2009. (VII. 23.) Korm. rendelethez[^2]
+
+**Igénylőlap az állami készfizető kezesség beváltásához (a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága részére küldendő)**
+
+1\. *A természetes személy adatai*
+
+Név:
+
+Lakcím:
+
+Adóazonosító jel:
+
+2\. *A hitel, kölcsön adatai a megkötött szerződés(ek) alapján*
+
+A hitel, kölcsön célja:
+
+A hitel, kölcsön típusa (a jogszabály megnevezésével):
+
+Szerződés kelte:
+
+Szerződés összege:
+
+Szerződés lejárata:
+
+Az állami kezességvállalás összege:
+
+A beváltáskor fennálló tőke- és kamattartozás összege:
+
+3\. *Az állami kezességbeváltás adatai*
+
+Az állami kezességbeváltás jogosultja (név, székhely, adóazonosító szám):
+
+A kezesség alapján átutalandó összeg:
+
+A jogosult bankszámla száma:
+
+A kezesség beváltásának indoka:
+
+4\. *Mellékletként csatolandók*
+
+Hitel-, kölcsönszerződés és annak mellékletét képező iratok
+
+Hitel-, kölcsönszerződés-módosítások és annak mellékletét képező iratok
+
+A jogosult nyilatkozata, hogy volt-e megtérülés a biztosítékokból, ha igen, mennyi
+
+A hitel-, kölcsönszerződés felmondását igazoló irat és/vagy a hitel-, kölcsönszerződésben meghatározott utolsó törlesztő részlet, kamatfizetési, illetőleg egyösszegű fizetési kötelezettség teljesítésére nyitva álló fizetési határidő eredménytelen leteltét igazoló irat, valamint az azok kézbesítését igazoló irat
+
+A szerződés egyoldalú felmondására okot adó magatartás vagy körülmény megszüntetésére történő előzetes felszólítás
+
+A kötelezett tartozását részletesen bemutató kimutatás
+
+A kötelezett nemteljesítésére, a követelés teljesítésére szabott határidő lejártára vonatkozó adatok
+
+Kelt:
+
+.................................................\
+cégszerű aláírás
+
+---
+
+[^1]: A 3. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^2]: A melléklet a 366/2012. (XII. 17.) Korm. rendelet 37. §-a, a 486/2015. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.

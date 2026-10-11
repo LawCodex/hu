@@ -1,0 +1,241 @@
+---
+title: "414/2017. (XII. 18.) Korm. rendelet a faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárás, bejelentés, adatszolgáltatás, nyilvántartás és ellenőrzés részletes szabályairól"
+identifier: "414/2017. (XII. 18.) Korm. rendelet"
+njt_id: "2017-414-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/414"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-18
+in_force_from: 2017-12-26
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-414-20-22"
+retrieved: 2026-10-12
+---
+
+# 414/2017. (XII. 18.) Korm. rendelet a faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárás, bejelentés, adatszolgáltatás, nyilvántartás és ellenőrzés részletes szabályairól
+
+A Kormány az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (1) bekezdés d) pontjában,
+
+a 2. alcím tekintetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (1) bekezdés c) pontjában,
+
+a 4. alcím tekintetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (1) bekezdés e) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A faanyag kereskedelmi lánc felügyeletével kapcsolatos bejelentés és adatszolgáltatás szabályai
+
+### 1. §
+
+(1) A faanyag kereskedelmi lánc szereplője az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 90/F. § (1) bekezdésében meghatározott bejelentési kötelezettségét a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: erdészeti hatóság) honlapján elérhető elektronikus felületen teljesíti.
+
+(2) Ha a faanyag kereskedelmi lánc szereplője a tevékenységét több telephelyen végzi, akkor a bejelentését úgy kell megtennie, hogy abból a faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenysége az egyes telephelyek tekintetében egyértelműen beazonosítható legyen.
+
+(3) A faanyag kereskedelmi lánchoz tartozó tevékenység tekintetében telephelynek minősül az a hely, ahol a faanyag kereskedelmi lánchoz tartozó tevékenységet folytatják, ideértve különösen a faanyag kereskedelmi lánc szereplője állandó, vagy rendszeres üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét.
+
+(4) Erdőrészletet, vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet nem kell telephelyként bejelenteni, ha az oda bejegyzett erdőgazdálkodó folytat rajta faanyag kereskedelmi lánchoz tartozó tevékenységet.
+
+(5) Az erdészeti hatóság a nyilvántartásba vétellel egyidejűleg megállapított technikai azonosító számot (a továbbiakban: technikai azonosító szám) a bejelentéstől számított nyolc napon belül, elektronikus úton megküldi a faanyag kereskedelmi lánc szereplőjének.
+
+### 2. §
+
+(1) Ha az erdőgazdálkodó – erdőgazdálkodási tevékenysége során – az Evt. 90/F. § (1) bekezdésének megfelelően kizárólag Magyarország területén végzi erdei faválasztékok előállítását és értékesítését, akkor a technikai azonosító számának az erdőgazdálkodói kód minősül.
+
+(2) A fatermékkel kapcsolatos faanyagkereskedelmi lánchoz tartozó tevékenység reklámozása esetén a kínált terméket, szolgáltatást nyújtó faanyag kereskedelmi lánc szereplő technikai azonosító számát a hirdetésben fel kell tüntetni.
+
+(3) A szállított erdei faválaszték nyomonkövethetőséget biztosító adatszolgáltatás érdekében biztosítani kell a szállítójegy és az eredetigazoló dokumentum összhangját.
+
+(4) Az erdei faválaszték eredetét
+
+a) a magyarországi forgalomba hozatal, vagy Magyarországon a kitermelés helyéről történő szállítás során
+
+aa) erdő esetében az erdőgazdálkodási műveleti lap, vagy az erdei faválaszték előállítását szolgáló erdei haszonvétel gyakorlására jogosító okirat,
+
+ab) fásítás, szabad rendelkezésű erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló terület esetében az erdészeti hatósághoz megtett, a jogosult erdészeti szakszemélyzet által ellenjegyzett, a kitermelt fatérfogat adatokat tartalmazó fakitermelési bejelentés,
+
+ac) az Evt. hatálya alá nem tartozó terület esetében a fakitermelés jóváhagyására hatáskörrel rendelkező hatóság engedélye, ettől eltérő esetben az arra jogszabályban feljogosított személy hozzájárulása, vagy a fakitermelésre vonatkozó szabályozás hiányában a kitermelendő fa mindenkori tulajdonosa hozzájárulásának,
+
+ad) harmadik országból, vagy más tagállamból történő behozatal esetében az Evt. 90/A. § (2)–(3) bekezdése szerinti dokumentumok;
+
+b) a Magyarországon már forgalomba hozott erdei faválaszték forgalmazása során
+
+ba) a kitermelés helyének, és
+
+bb) az erdei faválaszték feletti rendelkezési jogosultságot megalapozó irat és a forgalomba helyező, vagy előző forgalmazó
+
+megfelelő hivatkozásával kell meghatározni a szállítójegyen.
+
+## 2. A faanyag kereskedelmi lánc ellenőrzése
+
+### 3. §
+
+(1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyeletével kapcsolatos hatósági feladatainak ellátása keretében, az Evt. 90/C. § (2) bekezdés b) és c) pontjában meghatározott ellenőrzések biztosítása érdekében, faanyag kereskedelmi lánc felügyeleti információs rendszert hoz létre és működtet, amely tartalmazza
+
+a) a faanyag kereskedelmi lánc szereplői által bejelentett adatokból létrehozott nyilvántartást,
+
+b) az ellenőrzésre történő kiválasztás módszertanát,
+
+c) az ellenőrzések célját, módszereit, az alkalmazott iratmintákat, a lehetséges eljárási cselekményeket, azok jogszabályi megalapozottságát tartalmazó, a hatósági joggyakorlat egységesítését, valamint a dokumentált eljárásrendet szolgáló ellenőrzési kézikönyvet,
+
+d) az Evt. 90/G. § (1) bekezdése alapján átadott adatokat, valamint
+
+e) az ellenőrzések eredményeként alkalmazott szankciókról és egyéb megtett intézkedésekről vezetett, ügyfélhez rendelt nyilvántartásokat.
+
+(2) A faanyag kereskedelmi lánc szereplője által működtetett, az Evt. 90/A. § (6) bekezdése szerinti naprakész dokumentációs rendszert minden telephely vonatkozásában elkülönítetten kell vezetni, és az adott telephelyen – az ott végzett tevékenységre vonatkozóan – rendelkezésre kell állnia.
+
+(3) Az 1. § (2)–(4) bekezdése szerint bejelentésre köteles telephely működése során az üzemelés teljes ideje alatt biztosítani kell a faanyag kereskedelmi lánc szereplő képviseletére és azonnali intézkedés megtételére jogosult felelős személy jelenlétét.
+
+(4) Az Evt. 90/G. § (1) bekezdés e) pontjában és 90/I. § (3) bekezdésében meghatározott együttműködési kötelezettség teljesítése, valamint az (1) bekezdés b)–d) pontjában foglaltak alkalmazása és az ellenőrzések összehangolt lefolytatása érdekében az erdészeti hatóság és a Nemzeti Adó- és Vámhivatal együttműködési megállapodást köt.
+
+### 4. §
+
+(1) Az erdészeti hatóság – figyelembe véve a 3. § (1) bekezdés b) pontjában meghatározott ellenőrzésre történő kiválasztás módszertanát – ellenőrzési tervet készít
+
+(2) Az ellenőrzési tervnek tartalmaznia kell
+
+a) a célok és kockázatok meghatározását,
+
+b) az ellenőrzések ütemtervét,
+
+c) a kiemelt ellenőrzésekkel érintett fatermékkel kapcsolatos értékesítési láncokat,
+
+d) a célok elérésének mérési és utóellenőrzési módszereit,
+
+e) a más hatóságokkal történő ellenőrzések során az együttműködés és kölcsönös segítségnyújtás megvalósítási terveit és feltételrendszereit,
+
+f) az ellenőrzési terv értékelése során alkalmazandó lényeges teljesítménymutatókat.
+
+(3) Az elvégzett ellenőrzések eredményeinek értékelése alapján az erdészeti hatóság az ellenőrzési tervet és a 3. § (1) bekezdés c) pontjában meghatározott ellenőrzésre vonatkozó követelményeket felülvizsgálja.
+
+(4) Az ellenőrzési tervtől függetlenül, haladéktalanul le kell folytatni az ellenőrzést, ha
+
+a) az ellenőrző szervezet az erdészeti hatóság felé jelzi, hogy a faanyag kereskedelmi lánc valamely szereplője az Evt. 90/A. § (6) bekezdése szerinti, a kellő gondosság elvén alapuló nyomonkövethetőségi eljárást, illetve az ahhoz kapcsolódó naprakész dokumentációs rendszert nem megfelelő módon alkalmazza, vagy
+
+b) a faanyag kereskedelmi lánc szereplője az adatszolgáltatási kötelezettségének határidőre nem tesz eleget, illetve valótlan adatot szolgáltat.
+
+### 5. §
+
+Ha a helyszíni ellenőrzés lefolytatásához az ügyfél vagy a nevében nyilatkozattételre jogosult személy jelenléte szükséges, akkor az ügyfelet úgy kell értesíteni, hogy akadályoztatása esetén a képviseletét biztosítani tudja.
+
+### 6. §
+
+(1) A helyszíni ellenőrzést az erdészeti hatóság megbízólevéllel vagy rendészeti vagy szolgálati igazolvánnyal rendelkező alkalmazottja (a továbbiakban: ellenőr) folytatja le.
+
+(2) Az ellenőr részére általános megbízólevél is kiállítható.
+
+(3) Az ellenőr a nyomtatványkiállító programmal készülő nyomtatvány kiállításának folyamatát úgy is ellenőrizheti, hogy felügyelete alatt a nyomtatvány kiállítója – próbajelleggel – nyomtatványt állít ki.
+
+### 7. §
+
+Az erdészeti hatóság a fatermék eredetét, a fatermék eredetét igazoló dokumentumok tartalmát, adott területről kitermelt, forgalomba hozott fatermék mennyiségét és fafaját különösen
+
+a) a szállítójegy,
+
+b) a fakitermelésre vonatkozó, az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló FM rendelet szerinti bejelentések,
+
+c) a fatermékre vonatkozó nyilvántartások, bizonylatok, szabályzatok,
+
+d) az Országos Erdőállomány Adattár adatai,
+
+e) helyszíni fakészletfelvétel,
+
+f) helyszíni fatömegbecslés,
+
+g) légi felvétel vagy más távérzékelési módszer,
+
+h) a fatermék eredetének megállapítását célzó genetikai vizsgálat,
+
+i) talajminta-vizsgálat, és
+
+j)[^1] más ország hatóságai felé tett megkeresés keretében szolgáltatott adatok
+
+segítségével ellenőrzi.
+
+### 8. §
+
+(1) Az erdészeti hatóság a hatósági ellenőrzés során próbavásárlást végezhet.
+
+(2) A próbavásárláshoz az erdészeti hatóság közreműködő személyt vehet igénybe.
+
+(3) A közreműködő személy részére a közreműködést igénybe vevő erdészeti hatóság megbízólevelet állít ki, amely tartalmazza a közreműködő nevét, továbbá azt, hogy mely forgalmazónál milyen típusú ellenőrzésben vehet részt.
+
+(4) A közreműködő személyre az erdészeti hatóság ügyintézőjére vonatkozó kizárási szabályokat kell alkalmazni.
+
+(5) Próbavásárlás esetén az erdészeti hatóság az ellenőrzési jogosultságát a próbavásárlás befejezésekor igazolja, ezzel egyidejűleg a forgalmazó képviseletében eljáró személy a termék visszavétele mellett köteles a vételárat visszatéríteni. Ha a próbavásárlással lefolytatott hatósági ellenőrzés során a termék károsodik, részben vagy egészben megsemmisül, a vételár eljárási költségnek minősül, és a terméket a forgalmazónak nem kell visszavennie.
+
+(6) Amennyiben az eladó a próbavásárlást követően a termék visszavételét és a vételár visszafizetését megtagadja, a vételár és a termék szállításával, raktározásával kapcsolatos költség eljárási költségnek minősül, amelyet az eladó visel, illetve a terméket az erdészeti hatóság közérdekű célra ajánlja fel.
+
+### 9. §
+
+(1) A faterméket szállító jármű esetén az Evt.-ben és az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt, a fatermék nyomonkövethetőségére vonatkozó előírások, kötelezettségek betartását az erdészeti hatóság a közúti forgalomban közúti ellenőrzés keretében is ellenőrzi.
+
+(2) Az erdészeti hatóság az (1) bekezdés szerinti közúti ellenőrzéseket önállóan vagy a rendőrséggel, az állami adó- és vámhatósággal, illetve a közlekedési hatósággal együttműködve folytatja le.
+
+(3) A közúti ellenőrzés során az erdészeti hatóság megvizsgálja
+
+a) a fatermék nyomonkövethetőségét és származását igazoló dokumentumokat,
+
+b) import esetén az exportőr nyilatkozatát arról, hogy a fatermék nem illegális kitermelésből származik,
+
+c) a szállított fatermék fafajának, választékának és mennyiségének kísérő okmányokkal való egyezőségét.
+
+(4) A (3) bekezdés a)–c) pontjában meghatározott közúti ellenőrzési módok önállóan és együttesen is alkalmazhatóak.
+
+## 3. Jelentéstételi és tájékoztatási kötelezettség
+
+### 10. §
+
+(1) Az erdészeti hatóság a tárgyévet követő év március 1-jéig jelentést készít az erdőgazdálkodásért felelős miniszternek (a továbbiakban: miniszter) az éves ellenőrzések végrehajtásának eredményéről, valamint az ellenőrzési tervekben meghatározott célok teljesüléséről.
+
+(2)[^2] A 995/2010/EU európai parlamenti és tanácsi rendelet 20. cikk (1) bekezdése szerinti információkat az erdészeti hatóság állítja össze és – a miniszter összeállított információkról történő tájékoztatását követően – teszi elérhetővé az Európai Bizottság számára.
+
+(3) Az erdészeti hatóság
+
+a) az ellenőrző szervezetek elismerésének visszavonásáról szóló bizottsági határozatokat azok beérkezését követően haladéktalanul,
+
+b)[^3] az illegális fakitermelés kockázatával kapcsolatosan az ország területére vonatkozóan kidolgozott éves statisztikai adatokat vármegyei vagy egyéb területi bontásban évente április 30-ig, továbbá
+
+c) a faanyag kereskedelmi lánccal kapcsolatosan végzett ellenőrzések végrehajtásának összefoglaló eredményeit évente április 30-ig
+
+a honlapján közzéteszi.
+
+(4) A 995/2010/EU európai parlamenti és tanácsi rendelet 13. cikkében meghatározott, a faanyag kereskedelmi lánc szereplői részére történő technikai segítségnyújtást és információs útmutatást az erdészeti hatóság – a faanyag kereskedelmi lánc valamennyi szereplőjének érdekét, valamint a fenntartható erdőgazdálkodásból és a fatermesztésből származó fatermék előállításának és forgalmazásának elősegítését szem előtt tartva – tájékoztatások, képzések és oktatás biztosításával teljesíti.
+
+## 4. Az erdészeti hatósági eljárásban elrendelt elkobzás részletes szabályai
+
+### 11. §
+
+(1)[^4] A végrehajtási eljárást a döntés véglegessé válásától számított 15 nap elteltével meg kell indítani, amennyiben az elkobzott dolognak az elkobzásról szóló határozatban megjelölt helyre történő elszállításáról nem gondoskodik az, akitől a dolgot elkobozták.
+
+(2) Az elkobzásról szóló határozat teljesítéséig, vagy a végrehajtási eljárás lefolytatásáig az elkobzott dolog őrzéséért a határozat kötelezettje felel, és köteles helytállni az abban esetlegesen beálló károkért.
+
+## 5. Záró rendelkezések
+
+### 12. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 8. napon lép hatályba.
+
+(2) A 14. § 2018. január 1-jén lép hatályba.
+
+### 13. §
+
+Ez a rendelet
+
+a) a fát és faterméket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet, valamint
+
+b) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 14. §
+
+(1)–(2)[^5]
+
+---
+
+[^1]: A 7. § j) pontja a 14. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 10. § (2) bekezdése a 111/2020. (IV. 14.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: A 10. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 267. §-a szerint módosított szöveg.
+[^4]: A 11. § (1) bekezdése a 14. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 14. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

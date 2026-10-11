@@ -1,0 +1,231 @@
+---
+title: "344/2019. (XII. 23.) Korm. rendelet a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatalról, valamint a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelő szervének kijelöléséről"
+identifier: "344/2019. (XII. 23.) Korm. rendelet"
+njt_id: "2019-344-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/344"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-12-23
+in_force_from: 2020-01-02
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-344-20-22"
+retrieved: 2026-10-12
+---
+
+# 344/2019. (XII. 23.) Korm. rendelet a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatalról, valamint a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelő szervének kijelöléséről
+
+A Kormány
+
+az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 2. § tekintetében a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 43/A. §-ában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal jogállása
+
+### 1. §
+
+A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: Hivatal) a tudománypolitika koordinációjáért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+
+### 2. §
+
+A Hivatal a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: Alap) kezelő szerve.
+
+## 2. A Hivatal szervezete és működése
+
+### 3. §[^1]
+
+(1) A Hivatalt elnök vezeti, aki a kutatás-fejlesztési és innovációs ügyekben ellátja a tudománypolitika koordinációjáért felelős miniszter által ráruházott képviseleti és egyéb feladatokat, valamint gyakorolja a jogszabályban a költségvetési szerv vezetője részére meghatározott jogköröket. Az elnök tevékenységét tudományos társelnök, valamint elnökhelyettesek segítik.
+
+(2)[^2] A tudománypolitika koordinációjáért felelős miniszter nevezi ki és menti fel a Hivatal elnökét, valamint – a Hivatal elnökének javaslatára – az elnökhelyetteseit. A kinevezés időtartama az elnök, valamint az elnökhelyettesek esetében öt év. Ugyanaz a személy a Hivatal elnökévé, elnökhelyettesévé legfeljebb két alkalommal nevezhető ki.
+
+### 4. §[^3]
+
+(1)[^4] A Hivatal tudományos társelnöke a Kutatási Kiválósági Tanács elnöke. A tudományos társelnököt a tudománypolitika koordinációjáért felelős miniszter bízza meg határozott időtartamra, illetve vonja vissza megbízatását. A megbízatás időtartama a tudományos társelnök Kutatási Kiválósági Tanács elnöki kinevezésével megegyező időszak.
+
+(2) A Hivatal tudományos társelnöke ellátja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFI tv.) foglalt, a Hivatal tudományos vezetője részére meghatározott szakmai feladatokat, valamint a részére jogszabályban vagy a Hivatal szervezeti és működési szabályzatában meghatározott feladatokat.
+
+## 3. A Hivatal feladatai
+
+### 5. §
+
+(1) A Hivatal a tudománypolitika koordinációjáért felelős miniszter irányítása mellett ellátja az alábbi feladatokat:
+
+a) részt vesz a Kormány kutatás-fejlesztési és innovációs stratégiájára vonatkozó döntésének előkészítésében, és közreműködik annak megvalósításában,
+
+b) ellátja az Alappal kapcsolatos azon feladatokat, amelyeket törvény nem utal a tudománypolitika koordinációjáért felelős miniszter feladatkörébe,
+
+c) az Alap terhére finanszírozott kutatás-fejlesztési és innovációs pályázatokat kezelő szerv minőségében ellátott feladatai keretében
+
+ca)[^5] közzéteszi a tudománypolitika koordinációjáért felelős miniszter által jóváhagyott pályázati kiírást, és megszervezi a döntéshozatal előkészítésével kapcsolatos feladatokat,
+
+cb) támogatói okiratot ad ki, támogatási szerződést köt,
+
+cc) nyomon követi és ellenőrzi a nyertes pályázatokat,
+
+d) előkészíti a tudománypolitika koordinációjáért felelős miniszter támogatási döntését a törvény, kormányrendelet, kormányhatározat, nemzetközi szerződés és egyedi támogatási kérelem alapján az Alap terhére nyújtott hazai közfinanszírozású támogatások tekintetében,
+
+e)[^6] részt vesz az uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési és Innovációs Operatív Program, valamint a Gazdaságfejlesztési és Innovációs Operatív Program Plusz kutatás-fejlesztésre és innovációra fordított forrásai tekintetében felmerülő egyes feladatok – különösen projektfejlesztési szolgáltatások nyújtása – ellátásában,
+
+f) ellátja az operatív programok innovációval összefüggő célkitűzéseit szolgáló költségvetési támogatásokkal kapcsolatos, a szakpolitikai felelős hatáskörébe tartozó azon feladatokat, amelyeket a tudománypolitika koordinációjáért felelős miniszter mint szakpolitikai felelős ráruház,
+
+g) ellátja a kutatás-fejlesztés és az innováció területén folyó nemzetközi, illetve európai integrációs együttműködés szakmai feladatait,
+
+h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában,
+
+i)[^7] közreműködik az Európai Unió kutatás-fejlesztési és innovációs céljainak elérésében, így különösen a kutatás-fejlesztési és innovációs keretprogram hazai feladatainak ellátásában, és ellátja az Európai Unió kutatás-fejlesztési és innovációs keretprogrammal kapcsolatos nemzeti kapcsolattartói feladatait,
+
+j) jogszabály vagy nemzetközi megállapodás alapján ellátja a nemzetközi tudományos és technológiai együttműködésből adódó feladatokat,
+
+k)[^8] országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
+
+l)[^9] támogatja az elektronikus információs adatbázisok és könyvtárak fejlesztését,
+
+m)[^10] közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában,
+
+n)[^11] ellátja a Nemzeti Tudománypolitikai Tanács titkárságának feladatait,
+
+o)[^12] ellátja a mindenkori hazai intelligens szakosodási stratégia kidolgozásával, végrehajtásának nyomon követésével és értékelésével kapcsolatos szakmai feladatokat, ennek keretében nyomon követi és értékeli a közfinanszírozással megvalósuló tudományos, kutatás-fejlesztési és innovációs programokat, biztosítja a kapcsolódó vállalkozói tényfeltárás folyamatát, és ellátja az ezzel összefüggő disszeminációs feladatokat,
+
+p)[^13] ellátja a kutatási és technológiai infrastruktúrák monitorozási feladatait, továbbá minősítési rendszert biztosít a Magyarország területén működő, nemzetközi szinten jelentős kutatási infrastruktúrák számára, amely minősítés a vonatkozó támogatási felhívások esetében a minősítés meghatározott időszaka alatt felhasználható,
+
+q)[^14] előmozdítja a nyílt tudomány kezdeményezéseket.
+
+r)[^15] ellátja a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatokat,
+
+s)[^16]
+
+t)[^17] ellátja a Kutatási Kiválósági Tanács titkárságának feladatait, valamint a KFI tv. 10/F. §-a szerinti feladatokat.
+
+u)[^18] ellátja a KFI tv. 42/J. §-a szerinti nyilvántartás vezetésével kapcsolatos feladatokat,
+
+v)[^19] ellátja az Egyetemi Kutatói Ösztöndíj Program Tanács titkárságának feladatait.
+
+(2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
+
+a) a pályaművek befogadásával,
+
+b) a pályaművek értékeléséhez kapcsolódó adatszolgáltatással,
+
+c) a támogatói okiratok és támogatási szerződések minta alapján történő előkészítésének és megkötésének lebonyolításával,
+
+d) a projektek megvalósításának nyomon követésével,
+
+e) a beszámolók fogadásával és formai ellenőrzésével,
+
+f) a pályázati adatok rögzítésével és a kapcsolódó adatbázis naprakészségének és megbízhatóságának biztosításával
+
+összefüggő feladatokra szerződést köthet.
+
+(3) A Hivatal a kutatás-fejlesztési és az innovációs politika területén folyó nemzetközi, illetve európai integrációs együttműködés kialakítása és erősítése keretében a tudománypolitika koordinációjáért felelős miniszter irányításával együttműködik a Kormány feladatkörében érintett tagjával, továbbá
+
+a) szakmailag segíti a Kormány nemzetközi tudomány- és technológiapolitikai tevékenységét,
+
+b) részt vesz a kormányközi tudományos és technológiai egyezmények megkötésének előkészítésében és koordinálja végrehajtásukat,
+
+c) közreműködik a tudományos és technológiai diplomáciai tevékenységek szakmai irányításában,
+
+d) közreműködik az Európai Kutatási Térség fejlesztésében végzett magyar kormányzati tevékenységben,
+
+e) az európai uniós tagságból eredő jogok és kötelezettségek keretében közreműködik a kutatás-fejlesztést és innovációt érintő kormányzati feladatok körében,
+
+f) képviseletet lát el a nemzetközi tudományos és technológiai szervezetekben, kezdeményezésekben,
+
+g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsolatot tart a Magyarországon működő külképviseletekkel, valamint a Magyarországon és külföldön működő partnerintézményekkel, különös tekintettel az Európai Unió hivatalos intézményeire.
+
+(4) A Hivatal elnöke a (3) bekezdésben meghatározott feladatok végrehajtásának részletes szabályairól a Kormány feladatkörében érintett tagjával kötött megállapodásban rendelkezhet.
+
+(5)[^20] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+
+(6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
+
+(7)[^21] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
+
+## 3/A.[^22] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatai
+
+### 5/A. §
+
+(1)[^23] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NIÜ Zrt.) – az állam 100%-os tulajdonában és a Hivatal tulajdonosi joggyakorlása alatt álló gazdasági társaságként – az NKFI Alap kezelésével összefüggő alábbi feladatokat látja el:
+
+a) a kutatás-fejlesztési és innovációs ökoszisztéma koordinálásával összefüggő feladatai keretében
+
+aa) közreműködik a Kormány kutatás-fejlesztési és innovációs stratégiájára vonatkozó döntésének előkészítésében és annak megvalósításában,
+
+ab) az innovációs ökoszisztéma szereplői – különösen az induló, a hasznosító, valamint az innovatív vállalkozások – teljesítményének és versenyképességének erősítése, nemzetközi piacra lépésük elősegítése, valamint a pályázói eredményesség növelése érdekében innovációs – különösen projektfejlesztési – szolgáltatásokat és támogatásokat nyújt, szakértői hálózatot alakít ki és működtet, valamint elősegíti az innovációs ökoszisztémában való tájékozódást,
+
+ac) előmozdítja a kutatás-fejlesztési és innovációs szereplők közötti együttműködéseket, kapcsolatot tart a minisztériumokkal, kutató-tudásközvetítő szervezetekkel, szakmai és pénzügyi támogatást nyújtó szervezetekkel, továbbá szakmai szervezetekkel és testületekkel,
+
+ad) elősegíti a kutató-tudásközvetítő rendszerekben keletkező tudományos és kutatási eredmények társadalmi és gazdasági hasznosítását és az ehhez kapcsolódó iparjogvédelmi aktivitást, különös tekintettel a magas kockázatú, magas hozamú projektekre,
+
+ae) a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatos adatok elemzésével összefüggő feladatai keretében adatgyűjtést és adatrendszerezést végez, valamint stratégiai és egyedi elemzéseket, értékeléseket, koncepciókat készít, javaslatot tesz az adatvagyon hasznosítási lehetőségeire,
+
+af) az NKFI Alapból meghirdetett pályázati felhívásokkal összefüggő feladatai keretében
+
+1.[^24] közreműködik az NKFI Alap programstratégiájában meghatározott egyes pályázati felhívások lebonyolításában,
+
+2\. közreműködik nyertes pályázatok nyomon követésében és szakmai mentorálásában,
+
+ag) a kutatás-fejlesztési és innovációs tevékenységgel összefüggő egyéb feladatai keretében
+
+1\. közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatásában és ösztönzésében,
+
+2\. közreműködik a felsőoktatási képzések és a felsőoktatási intézmények képzési tartalmának megújításában,
+
+ah) közreműködik a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatok ellátásában,
+
+ai) közreműködik az országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az NKFI Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzések, értékelések, koncepciók készítésében, valamint a támogatási programok nyomon követésében és értékelésében;
+
+b) az innovációs kultúra elterjesztésével kapcsolatos feladatai keretében
+
+ba) egységes innovációs ökoszisztéma honlapot működtet,
+
+bb)[^25] támogatja a tudományos, kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások szervezését, kiadványok megjelentetését és az innovációs célú díjak adományozását,
+
+bc) népszerűsíti a matematikai, természettudományi, műszaki és informatikai (MTMI) képzési és tudományterületet, a vállalkozói attitűdöt és a fiatalok vállalkozóvá válását, különösen a Hungarian Startup University program működtetésén, valamint a sikertörténetek bemutatásán keresztül,
+
+bd) közreműködik az iparjogvédelmi tudatosság elterjedésének elősegítésében.
+
+be)[^26]
+
+(2) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) bekezdésére figyelemmel a NIÜ Zrt. e rendelet szerinti feladatait közfeladatként látja el.
+
+(3)[^27] Feladatai ellátása során a NIÜ Zrt. együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+
+## 4. Záró rendelkezések
+
+### 6. §
+
+Ez a rendelet 2020. január 2-án lép hatályba.
+
+---
+
+[^1]: A 3. § a 470/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^3]: A 4. §-t a 246/2023. (VI. 22.) Korm. rendelet 18. §-a hatályon kívül helyezte, újonnan a 470/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4. § (1) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés c) pont ca) alpontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés e) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (1) bekezdés i) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés k) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés l) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés m) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés n) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés o) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (1) bekezdés r) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^16]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont a) alpontja hatályon kívül helyezte.
+[^17]: Az 5. § (1) bekezdés t) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (6) bekezdése iktatta be.
+[^18]: Az 5. § (1) bekezdés u) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^19]: Az 5. § (1) bekezdés v) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^20]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) és b) pontja, a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^21]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.
+[^22]: A 3/A. alcímet (5/A. §-t) a 246/2023. (VI. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be, az alcím címe a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^23]: Az 5/A. § (1) bekezdés nyitó szövegrésze a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^24]: Az 5/A. § (1) bekezdés a) pont af) alpont 1. pontja a 673/2023. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^25]: Az 5/A. § (1) bekezdés b) pont bb) alpontja a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont b) alpontja szerint módosított szöveg.
+[^26]: Az 5/A. § (1) bekezdés b) pont be) alpontját a 246/2023. (VI. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont c) alpontja hatályon kívül helyezte.
+[^27]: Az 5/A. § (3) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.

@@ -1,0 +1,297 @@
+---
+title: "268/2018. (XII. 20.) Korm. rendelet a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a közös államhatáron lévő közúti hidak üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló Megállapodás kihirdetéséről"
+identifier: "268/2018. (XII. 20.) Korm. rendelet"
+njt_id: "2018-268-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/268"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-20
+in_force_from: 2018-12-21
+last_amended: 2019-04-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-268-20-22"
+retrieved: 2026-10-12
+---
+
+# 268/2018. (XII. 20.) Korm. rendelet a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a közös államhatáron lévő közúti hidak üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a közös államhatáron lévő közúti hidak üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+**„Agreement**
+
+**between the Government of Hungary and the Government of the Republic of Croatia on operation, maintenance and reconstruction of road bridges on the common state border**
+
+The Government of Hungary and the Government of the Republic of Croatia (hereinafter referred to as “the Contracting Parties”), in regard of operation, maintenance and reconstruction of road bridges on the common state border, have agreed as follows:
+
+**Article 1**
+
+This Agreement deals with road bridges (hereinafter “the Bridges”) as referred to in Article 3 of this Agreement, located on the common state border of the two States and owned jointly and undividedly by the States of the Contracting Parties. This Agreement governs operation, maintenance and reconstruction of the Bridges.
+
+**Article 2**
+
+(1) For the purposes of this Agreement:
+
+*a)* “operation” means identification and regulation of traffic on the Bridges, posting appropriate markings to that purpose, supervision and lighting of the Bridges as well as collection of relevant information thereof;
+
+*b)* “maintenance” means any activity related to the regular maintaining of condition and necessary repair of the Bridges, resulting in preserving technical parameters, as well as maintaining the Bridges in secure condition and prevention of sliding;
+
+*c)* “reconstruction” means any activity not covered by sub-paragraphs a) and b), including complete reconstruction of the Bridges, resulting in modification of their technical parameters.
+
+(2) Operation, maintenance and reconstruction of the Bridges include following elements:
+
+*a)* substructure (foundations, abutments, pillars, bearings, head beams);
+
+*b)* superstructure (main girders, deck girders, deck slob, bridge edges);
+
+*c)* deck structure (insulation, deck surfacing, dilatation, drainage, sidewalk surfacing, pavement connection points, expansion joints);
+
+*d)* bridge equipment (railing, stairs, grooves, embankment lining, safety devices);
+
+*e)* bridge surroundings (utility ducts, the space under the bridge).
+
+**Article 3**
+
+(1) The Government of Hungary undertakes, in conformity with technical and legal regulations in force in Hungary, to ensure operation, maintenance and reconstruction of following Bridges:
+
+*a)* the three-span bridge across Mura River, at the national road, between Goričan and Letenye, owned by Hungary 1/2 and the Republic of Croatia 1/2;
+
+*b)* the five-span bridge across Mura River, at the motorway, between Goričan and Letenye owned by Hungary 1/2 and the Republic of Croatia 1/2;
+
+(2) The Government of the Republic of Croatia undertakes, in conformity with technical and legal regulations in force in the Republic of Croatia, to ensure operation, maintenance and reconstruction of following Bridges:
+
+*a)* the bridge across Drava River between Terezino Polje and Barcs owned by Hungary 1/2 and the Republic of Croatia 1/2;
+
+*b)* the bridge across Drava River between Donji Miholjac and Drávaszabolcs owned by Hungary 1/3 and the Republic of Croatia 2/3.
+
+(3) The Contracting Parties undertake:
+
+*a)* to carry out operation, maintenance and the preparation of reconstruction activities on the Bridges referred to in paragraphs (1) and (2) at their own cost and shall request no refund from the other Contracting Party;
+
+*b)* reconstruction costs for the Bridges referred to in paragraphs (1) and (2) shall be borne jointly, proportionate to their share in property.
+
+**Article 4**
+
+The competent authorities for the implementation of this Agreement are:
+
+– in Hungary: the ministry headed by the minister responsible for transport;
+
+– in the Republic of Croatia: the ministry headed by the minister responsible for transport and infrastructure
+
+(hereinafter “the Competent Authorities”).
+
+**Article 5**
+
+(1) The Contracting Parties shall carry out all activities related to operation, maintenance and reconstruction of the Bridges through natural or legal persons appointed by the Competent Authorities (hereinafter “the Contractors”).
+
+(2) The Competent Authorities shall keep informing each other of names and addresses of the Contractors.
+
+**Article 6**
+
+The order and frequency of checks of the Bridges:
+
+*a)* The Contracting Parties agree that the experts appointed by the Contractors shall jointly perform checks of technical condition of the Bridges at least once a year. Conclusions of checks and descriptions of necessary interventions shall be recorded in a protocol;
+
+*b)* General inspection of the Bridges shall be carried out by the Contractors at least every 6 years. The Contractors shall jointly evaluate results of such general inspections and take necessary measures;
+
+*c)* In cases of any unforeseeable event the Contracting Parties shall jointly perform an additional check of the bridge. Conclusions of checks and descriptions of necessary interventions shall be recorded in a protocol;
+
+*d)* All relevant documents shall be drafted in the Hungarian and Croatian languages.
+
+**Article 7**
+
+(1) Operation and maintenance activities shall be performed as required by the operation and maintenance instructions provided by the Contractors and drafted in accordance with relevant provisions in force in the States of the Contracting Parties and approved by Competent Authorities.
+
+(2) During the preparation, implementation and guarantee period for the activities related to operation, maintenance and reconstruction of the Bridges the Contractors shall keep coordinating activities required and informing each other of the measures taken.
+
+(3) For the purposes of bridge reconstruction activities, the Contractors shall set up a Working Group for implementation of the public procurement procedures, technical supervision and final account. Both Contracting Parties shall be equally represented in the Working Group and shall have equal mandate.
+
+**Article 8**
+
+(1) The persons engaged in operation, maintenance and reconstruction of the Bridges may freely move on the working sites located near the state border. In cases where nationals of third countries are employed by the Contractors in the activities connected to operation, maintenance and reconstruction of the Bridges, their employment shall be in conformity with the legislation governing residence and employment of aliens in force.
+
+(2) The persons referred to in paragraph (1) shall, on the request of control authorities authorized by the Contracting Parties, present their personal identification or passport with a letter of credit issued by the Contractor. Nationals of third countries shall, in conformity with the legislation of the European Union and national legislation of the respective country, present a valid document proving their right of residence, employment and a valid passport with a letter of credit issued by the Contractor.
+
+(3) At least fifteen (15) days before the beginning of the works, the list of persons referred to in paragraph (1), as well as the technical specifications of the area near the common state border where the works are carried out, shall be communicated by the Contractors to the authorities of the Contracting Parties responsible for supervision of the state border.
+
+**Article 9**
+
+The Contractors shall ensure that the permits which are required for carrying out of the activities connected to operation, maintenance and reconstruction of the Bridges are obtained. During the works, the Contracting Parties shall ensure normal operation of border traffic.
+
+**Article 10**
+
+All activities related to operation, maintenance and reconstruction of Bridges that might affect the borderline or border markings have to be approved by the Hungarian–Croatian Mixed Commission for the reconstruction, marking and maintenance of the state border.
+
+**Article 11**
+
+All disputes arising from the interpretation or application of this Agreement shall be settled through negotiations between the Competent Authorities of the Contracting Parties.
+
+**Article 12**
+
+(1) This Agreement shall enter into force thirty (30) days from the date of receipt of the last written notification by which the Contracting Parties notify each other, through diplomatic channels, of the completion of their internal legal procedures required for the entry into force of this Agreement.
+
+(2) This Agreement is concluded for an indefinite period of time. Either Contracting Party may terminate this Agreement at any time by a written notification to the other Contracting Party, through diplomatic channels. In that case, the Agreement shall terminate six (6) months from the date of receipt of the termination notice.
+
+(3) This Agreement may be amended at any time by mutual written consent of the Contracting Parties.
+
+**Article 13**
+
+By the entry into force of this Agreement, the Agreement between the Government of the Republic of Hungary and the Government of the Republic of Croatia on operation and maintenance of road border bridges on the common state border of the two countries, signed in Zagreb, on 19<sup>th</sup> April 2001, shall terminate.
+
+Done at Budapest on 2<sup>nd</sup> October, 2018 in two originals in the Hungarian, Croatian and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
+
+**Megállapodás**
+
+**Magyarország Kormánya és a Horvát Köztársaság Kormánya között a közös államhatáron lévő közúti hidak üzemeltetéséről, fenntartásáról és rekonstrukciójáról**
+
+Magyarország Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: „Szerződő Felek”) a közös államhatáron lévő közúti hidak üzemeltetése, fenntartása és rekonstrukciója tekintetében a következőkben állapodnak meg:
+
+**1. Cikk**
+
+Jelen Megállapodás tárgyát a két állam közös államhatárán lévő, a Szerződő Felek államai osztatlan közös tulajdonában levő 3. Cikk szerinti közúti hidak (a továbbiakban: „Hidak”) képezik. Jelen Megállapodás szabályozza a Hidak üzemeltetését, fenntartását és rekonstrukcióját.
+
+**2. Cikk**
+
+(1) Jelen Megállapodás alkalmazása szempontjából:
+
+*a)* *üzemeltetés:* a Hidak forgalmi rendjének meghatározása és szabályozása, az azt biztosító jelzések elhelyezése, a Hidak ellenőrzése, világítása, valamint a vonatkozó adatok összegyűjtése;
+
+*b)* *fenntartás:* a Hidak műszaki paramétereinek biztosításához, állagának megőrzéséhez és a szükséges javításokhoz kapcsolódó tevékenység, valamint a Hidak üzemszerű biztonságos állapotának fenntartása és a síkosság-mentesítés;
+
+*c)* *rekonstrukció:* az (a) és (b) pontokban nem érintett bármely tevékenység, beleértve a műszaki paraméterek módosítását eredményező teljes hídfelújítást is.
+
+(2) A Hidak üzemeltetése, fenntartása és rekonstrukciója a következő elemeket foglalja magába:
+
+*a)* alépítmény (alapozás, hídfők, pillérek, saruk, fejgerendák);
+
+*b)* felszerkezet (főtartók, pályatartók, pályalemez, hídszegélyek);
+
+*c)* pályaszerkezet (szigetelés, pályaburkolat, dilatációk, vízelvezetés, járda burkolat, pályacsatlakoztatás, dilatációs szerkezet);
+
+*d)* hídtartozékok (korlátok, lépcsők, víznyelők, töltéslezárás, forgalombiztonsági berendezések);
+
+*e)* a híd környezete (közművezetékek, híd alatti terület).
+
+**3. Cikk**
+
+(1) Magyarország Kormánya kötelezettséget vállal arra, hogy a Magyarországon hatályos műszaki és jogi előírásokkal összhangban biztosítja a következő Hidak üzemeltetését, fenntartását és rekonstrukcióját:
+
+*a)* a Goričan (Muracsány) és Letenye közötti háromnyílású főúti híd a Mura folyó felett, amely 1/2 részben Magyarország és 1/2 részben a Horvát Köztársaság tulajdonát képezi,
+
+*b)* a Goričan (Muracsány) és Letenye közötti ötnyílású autópálya híd (mederhíd) a Mura folyó felett, amely 1/2 részben Magyarország és 1/2 részben a Horvát Köztársaság tulajdonát képezi.
+
+(2) A Horvát Köztársaság Kormánya kötelezettséget vállal arra, hogy a Horvát Köztársaságban hatályos műszaki és jogi előírásokkal összhangban biztosítja a következő Hidak üzemeltetését, fenntartását és rekonstrukcióját:
+
+*a)* a Terezino Polje (Trézenföld) és Barcs közötti híd a Dráva folyó felett, amely 1/2 részben Magyarország és 1/2 részben a Horvát Köztársaság tulajdonát képezi,
+
+*b)* A Donji Miholjac (Alsómiholjác) és Drávaszabolcs közötti híd a Dráva folyó felett, amely 1/3 részben Magyarország és 2/3 részben a Horvát Köztársaság tulajdonát képezi.
+
+(3) A Szerződő Felek kötelezettséget vállalnak arra, hogy
+
+*a)* az (1) és (2) bekezdés szerinti Hidak üzemeltetési, fenntartási és rekonstrukciójának előkészítési tevékenységeit saját költségükre, a másik Szerződő Féltől való megtérítés igénye nélkül elvégzik;
+
+*b)* az (1) és (2) bekezdésben megjelölt hidak rekonstrukciós költségeit közösen, tulajdoni hányaduk arányában viselik.
+
+**4. Cikk**
+
+Jelen Megállapodás végrehajtása tekintetében az illetékes szervek a következők:
+
+– Magyarország részéről a közlekedésért felelős miniszter által vezetett minisztérium,
+
+– a Horvát Köztársaság részéről a közlekedésért és infrastruktúráért felelős miniszter által vezetett minisztérium
+
+(a továbbiakban: „Illetékes Szervek”).
+
+**5. Cikk**
+
+(1) A Szerződő Felek a hidak üzemeltetésével, fenntartásával és rekonstrukciójával kapcsolatos feladatokat az Illetékes Szervek által kijelölt természetes vagy jogi személyeken keresztül látják el (a továbbiakban: „Kezelők”).
+
+(2) Az Illetékes Szervek folyamatosan tájékoztatják egymást a Kezelők nevéről és címéről.
+
+**6. Cikk**
+
+A Hidak vizsgálatának rendje és gyakorisága:
+
+*a)* A Szerződő Felek megállapodnak, hogy a Kezelők által kijelölt szakértők a Hidak műszaki állapotának ellenőrzését legalább évente közösen elvégzik. A vizsgálatok megállapításait és a szükséges beavatkozások leírását jegyzőkönyvben rögzítik.
+
+*b)* A Hidak fővizsgálatát a Kezelők hatévente kötelesek elvégezni. A Kezelők a fővizsgálatok eredményeit közösen értékelik és megteszik a szükséges intézkedéseket.
+
+*c)* Előre nem látható esemény bekövetkezése esetén a Szerződő Felek további közös vizsgálatot végeznek. A vizsgálat eredményét és a szükséges beavatkozások leírását jegyzőkönyvben rögzítik.
+
+*d)* A vonatkozó dokumentumok magyar és horvát nyelven készülnek.
+
+**7. Cikk**
+
+(1) Az üzemeltetési és fenntartási tevékenységeket a Szerződő Felek államaiban hatályos rendelkezésekkel összhangban a Kezelők által elkészített és az illetékes hatóságok által jóváhagyott üzemeltetési és fenntartási utasítások szerint kell végezni.
+
+(2) Az üzemeltetéshez, fenntartáshoz és rekonstrukcióhoz kapcsolódó előkészítési, megvalósítási és garanciális időszakok során a Kezelők a szükséges tevékenységeket koordinált módon végzik, és a megtett intézkedésekről egymást értesítik.
+
+(3) A Kezelők a Hidak rekonstrukciós munkáinak elvégzése érdekében a közbeszerzési eljárások, a műszaki felügyelet és a végelszámolás lebonyolítása céljából Munkacsoportot hoznak létre. A Munkacsoportban mindkét Szerződő Fél egyenlő képviselettel és azonos döntési jogkörrel rendelkezik.
+
+(4)
+
+**8. Cikk**
+
+(1) A Hidak üzemeltetése, fenntartása és rekonstrukciója során az ilyen tevékenységeket ellátó személyek szabadon mozoghatnak az államhatár közelében lévő munkaterületeken. Amennyiben a Kezelők az üzemeltetési, fenntartási és rekonstrukciós munkálatok elvégzése céljából harmadik országbeli állampolgárokat alkalmaznak, munkaviszonyuknak meg kell felelnie a külföldiek tartózkodásáról és munkavállalásáról szóló belső jogszabályoknak.
+
+(2) Az (1) bekezdésben meghatározott személyek a Szerződő Felek által felhatalmazott ellenőrző szervek felszólítására érvényes személyazonosító igazolvánnyal vagy úti okmánnyal és a Kezelő által kiállított megbízólevelükkel kötelesek igazolni személyazonosságukat. A harmadik országbeli állampolgárok az uniós és az adott ország területén hatályos nemzeti jogszabályoknak megfelelően a tartózkodási jogosultságot igazoló érvényes okmányokkal és érvényes úti okmánnyal, valamint a Kezelő által kiállított megbízólevelükkel kötelesek igazolni magukat.
+
+(3) Az (1) bekezdésében meghatározott személyek névjegyzékét, továbbá a határsávnak a munkálatok által érintett részének megjelölését a Kezelők a munkák megkezdését megelőzően legalább tizenöt (15) nappal megküldik mindkét Szerződő Fél illetékes határőrizeti szerveinek.
+
+**9. Cikk**
+
+A Kezelők gondoskodnak arról, hogy a Hidak üzemeltetési, fenntartási és rekonstrukciós munkáinak elvégzéséhez esetleg szükséges engedélyek rendelkezésre álljanak. A munkálatok időszakára a Szerződő Felek biztosítják a határforgalom megfelelő lebonyolításához szükséges feltételeket.
+
+**10. Cikk**
+
+Minden olyan üzemeltetési, fenntartási és rekonstrukciós munkavégzéshez, amely érintheti az államhatár vonalát vagy a határjeleket, szükség van az Államhatár Felújítására, Megjelölésére és Karbantartására létrehozott Magyar–Horvát Vegyesbizottság jóváhagyására.
+
+**11. Cikk**
+
+A jelen Megállapodás értelmezése vagy alkalmazása során felmerülő esetleges vitákat az Szerződő Felek Illetékes Szervei tárgyalások útján rendezik.
+
+**12. Cikk**
+
+(1) Jelen Megállapodás a későbbi, diplomáciai úton kapott értesítés kézhezvételétől számított harminc (30) nap elteltével lép hatályba, melyben a Szerződő Felek értesítik egymást, hogy a Megállapodás hatálybalépéséhez szükséges belső jogi eljárásaik befejeződtek.
+
+(2) A Megállapodást a Szerződő Felek határozatlan időre kötik. A Megállapodást bármely Szerződő Fél bármikor felmondhatja, a másik Szerződő Félhez diplomáciai úton intézett írásos értesítéssel. Ebben az esetben a Megállapodás a felmondásról szóló értesítés kézhezvételének napjától számított hat (6) hónap elteltével hatályát veszti.
+
+(3) Jelen Megállapodás bármikor módosítható a Szerződő Felek kölcsönös írásbeli beleegyezésével.
+
+**13. Cikk**
+
+Jelen Megállapodás hatályba lépésével a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Zágrábban, 2001. április 19-én Zágrábban aláírt, a közös államhatáron levő közúti határhidak üzemeltetéséről és fenntartásáról szóló megállapodás hatályát veszti.
+
+Készült Budapesten, 2018. október 2-án, kettő eredeti példányban, magyar, horvát és angol nyelven, valamennyi szöveg egyaránt hiteles. Értelmezési eltérés esetén az angol nyelvű szöveg az irányadó.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
+
+## 6. §[^5]
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba. A 20/2019. (IV. 4.) KKM közlemény alapján a hatálybalépés időpontja 2019. április 7.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba. A 20/2019. (IV. 4.) KKM közlemény alapján a hatálybalépés időpontja 2019. április 7.
+[^3]: A 20/2019. (IV. 4.) KKM közlemény alapján a hatálybalépés időpontja 2019. április 7.
+[^4]: Lásd a 20/2019. (IV. 4.) KKM közleményt.
+[^5]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

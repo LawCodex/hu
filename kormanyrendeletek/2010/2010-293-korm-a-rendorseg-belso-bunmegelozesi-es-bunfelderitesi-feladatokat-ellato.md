@@ -1,0 +1,234 @@
+---
+title: "293/2010. (XII. 22.) Korm. rendelet a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról"
+identifier: "293/2010. (XII. 22.) Korm. rendelet"
+njt_id: "2010-293-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/293"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-12-22
+in_force_from: 2011-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-293-20-22"
+retrieved: 2026-10-12
+---
+
+# 293/2010. (XII. 22.) Korm. rendelet a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról
+
+A Kormány
+
+az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében az Alkotmány 40. § (2) bekezdésében meghatározott feladatkörében eljárva, valamint az
+
+1–6. §, a 10–13. § és a 16. § a) pontja tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés b), h) és m) pontjában,
+
+a 7–9. § tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (1) bekezdés f) pontjában,
+
+a 15. § (1) bekezdése tekintetében a biztonsági okmányok hatékony védelmének megteremtése érdekében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdésének b) pontjában,
+
+a 15. § (2) bekezdése tekintetében a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdésében,
+
+a 15. § (3) bekezdése tekintetében a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 62. § (6) bekezdésében kapott felhatalmazás alapján az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Nemzeti Védelmi Szolgálat
+
+### 1. §[^1]
+
+A Nemzeti Védelmi Szolgálat (a továbbiakban: NVSZ) a rendészetért felelős miniszter irányítása alá tartozó központi költségvetési szerv.
+
+### 1/A. §[^2]
+
+(1) Az NVSZ a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+
+(2) A Kormány a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervként az NVSZ-t jelöli ki.
+
+### 2. §
+
+Az NVSZ kijelölt nemzeti tagként részt vesz az Európai Unió Korrupcióellenes Kapcsolattartói Hálózatának munkájában, ellátja a hálózat tevékenységével kapcsolatos feladatokat.
+
+### 3. §
+
+A rendőrségről szóló törvényben meghatározott védett állomány foglalkoztatását végző szerv (a továbbiakban: védett szerv) objektumaiba való belépés módját a védett szerv vezetője és az NVSZ főigazgatója külön megállapodásban rögzíti.
+
+## 2. Az NVSZ együttműködése
+
+### 4. §
+
+(1) Az NVSZ főigazgatója a (2) és (3) bekezdésben meghatározott személyeknek az ott megjelölt rendszerességgel és módon átfogó tájékoztatást nyújt az általuk vezetett védett szerv ellenőrzésének tapasztalatairól.
+
+(2) Az NVSZ főigazgatója a védett állománnyal kapcsolatos összesített megállapításairól
+
+a) évente tájékoztatja a rendészetért felelős minisztert, valamint a rendészetért felelős miniszter útján a védett szervek irányítását ellátó minisztereket,
+
+b)[^3] soron kívül tájékoztatja az *a)* pontban meghatározott személyeket, ha az általuk irányított szervnek a miniszter kinevezési jogkörébe tartozó vezetőjével kapcsolatban titkos információgyűjtésre vagy előkészítő eljárás elrendelésére került sor.
+
+(3) Az NVSZ főigazgatója a védett szervek vezetőit szükség szerint, de évente legalább egy alkalommal tájékoztatja az általuk vezetett szervek állományával kapcsolatos összesített megállapításairól.
+
+### 5. §
+
+(1) Az NVSZ egyes szervezeti egységeinek elhelyezése a védett szervek objektumaiban történik.
+
+(2) A védett szerv biztosítja az NVSZ (1) bekezdés szerint elhelyezett szervezeti egységei számára a helyi adottságokkal azonos, a beosztási kategóriának megfelelő elhelyezési- és munkakörülményeket, valamint térítés nélkül viseli az elhelyezéssel kapcsolatban felmerülő költségeket.
+
+## 3. [^4] Bűnfelderítés és bűnmegelőzés
+
+### 6. §[^5]
+
+(1) Az NVSZ a büntetőeljárásról szóló törvényben meghatározottak szerint előkészítő eljárást kezdeményez, valamint előkészítő eljárást folytat a következő bűncselekmények gyanújának megállapítása érdekében:
+
+a) a védett állomány tagja által elkövetett
+
+aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti visszaélés személyes adattal (1978. évi IV. törvény 177/A. §), XV. fejezet IV. címe szerinti hivatali bűncselekmények, bűnpártolás [1978. évi IV. törvény 244. § (3) bekezdés b) pont], vesztegetés (1978. évi IV. törvény 250–255. §), közokirat-hamisítás (1978. évi IV. törvény 275. §), zsarolás [1978. évi IV. törvény 323. § (2) bekezdés c) pont],
+
+ab)[^6] a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–180. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), tudatmódosító anyaggal visszaélés (Btk. 184. §), személyes adattal visszaélés (Btk. 219. §), bűnpártolás [Btk. 282. § (3) bekezdés d) pont], XXVIII. Fejezete szerinti hivatali bűncselekmények, vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), közokirat-hamisítás (Btk. 343. §), zsarolás [Btk. 367. § (2) bekezdés c) és d) pont],
+
+ac)[^7] szolgálati vagy munkavégzési helyen vagy hivatali tevékenységgel, munkakörrel, feladatkörrel összefüggésben elkövetett, az eddigiekben fel nem sorolt bűncselekmények, ha e bűncselekmények felderítése nem tartozik más szerv hatáskörébe,
+
+ad) katonai bűncselekmények (az 1978. évi IV. törvény XX. fejezet, illetve Btk. XLV. Fejezet), kivéve a szökést (1978. évi IV. törvény 343. §, illetve Btk. 434. §), a zendülést (1978. évi IV. törvény 352. §, illetve Btk. 442. §) és a harckészültség veszélyeztetését (1978. évi IV. törvény 363. §), illetve a készenlét fokozásának veszélyeztetését (Btk. 454. §);
+
+b) a védett állományba nem tartozó személy által elkövetett, az *a)* pontban felsorolt bűncselekmények, ha azt a védett állományba nem tartozó személy a védett állományba tartozó személlyel közösen, vagy annak segítségével követi el;
+
+c)[^8] ha a bűncselekmény felderítése nem tartozik a nemzetbiztonsági szolgálatok hatáskörébe vagy a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában felsorolt bűncselekmények körébe,
+
+ca) a védett állomány tagjával szemben elkövetett bűncselekmények esetén, továbbá
+
+cb) a védett állomány tagjának hivatali vagy munkaköri kötelessége teljesítése miatt a védett állomány közeli hozzátartozójával vagy a védett állomány tagjával kapcsolatban álló más személlyel szemben elkövetett bűncselekmények esetén.
+
+(1a)[^9] Az NVSZ a Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont be) alpontja szerinti személyek esetében
+
+a) a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, a Btk. XIX. Fejezete szerinti, a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények, valamint
+
+b) a Btk. XX. Fejezete szerinti, a gyermekek érdekét sértő és a család elleni bűncselekmények – kivéve a tartási kötelezettség elmulasztását (Btk. 212. §) és a kettős házasságot (Btk. 214. §) –
+
+gyanújának megállapítása érdekében is kezdeményezhet, illetve folytathat a büntetőeljárásról szóló törvényben meghatározottak szerint előkészítő eljárást.
+
+(2) Az NVSZ a büntetőeljárásról szóló törvényben meghatározottak szerint
+
+a) az ügyészség felkérésére közreműködik az eljárási cselekmény elvégzésében;
+
+b) az ügyészség vagy a nyomozó hatóság felkérésére, illetve az ügyészség vagy a nyomozó hatóság eltérő rendelkezéséig közreműködik a leplezett eszköz alkalmazásának a végrehajtásában.
+
+### 6/A. §[^10]
+
+Az NVSZ a rendőrségről szóló törvényben meghatározottak szerint titkos információgyűjtést végez a 6. § (1) és (1a) bekezdésében meghatározott bűncselekmények megelőzése érdekében.
+
+## 4.[^11]
+
+## 5.[^12]
+
+## 5/A.[^13] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
+
+### 13/A. §[^14]
+
+Az NVSZ
+
+a) előkészíti a korrupció elleni kormányzati stratégia, és a hozzá kapcsolódó intézkedési tervek tervezetét, amelyeket felterjeszt a rendészetért felelős miniszter részére;
+
+b) végzi az államigazgatás integritási és korrupciós kockázatainak, valamint a korrupciós helyzetnek a folyamatos értékelését, ezekről és a korrupcióellenes kormányzati tevékenység helyzetéről a rendészetért felelős miniszter útján tájékoztatást nyújt a Kormány részére;
+
+c) felelős az államigazgatási szervek integritásirányítási rendszerének a fejlesztéséért és összehangolásáért, amelynek különösen az alábbiak révén tesz eleget:
+
+ca) az integritás tanácsadókkal folyamatosan kapcsolatot tart, szakmai iránymutatásokkal támogatja tevékenységüket,
+
+cb) az integritás tanácsadók közreműködésével figyelemmel kíséri és elemzi az államigazgatási szervek integritási és korrupcióellenes kockázatkezelési tevékenységét, közreműködik a kockázatkezelés szakmai követelményeinek kialakításában,
+
+cc) a tárgyévet követő év március 15-éig gondoskodik az államigazgatási szervek integritásjelentéseinek a korrupciómegelőzési kormányzati honlapon való közzétételéről,
+
+cd) elemzi az államigazgatási szervek integritásjelentéseit, amelynek eredményéről összefoglalót készít a rendészetért felelős miniszternek;
+
+d) az integritási és korrupciós kockázatok szempontjából megvizsgálja a rendészetért felelős miniszter által meghatározott előterjesztés tervezeteket és tervezett intézkedéseket;
+
+e) javaslatot tesz az integritás tanácsadó szakirányú továbbképzés, valamint a korrupciómegelőzés, integritás és hivatásetika témájú közszolgálati és rendészeti képzések és továbbképzések képzési tematikájának kialakítására;
+
+f) részt vesz a nemzetközi együttműködésből, nemzetközi egyezményekből eredő feladatok teljesítésében, jelentési és képviseleti kötelezettségek ellátásában;
+
+g) előkészíti a korrupcióellenes kommunikációs szakmai anyagokat;
+
+h) együttműködik a korrupcióellenes tevékenységre létrehozott más hazai szervezetekkel.
+
+## 5/B.[^15] Az előzetes véleményalkotás
+
+### 13/B. §[^16]
+
+(1) Az NVSZ
+
+a) a vezetői beosztásba kinevezést megelőzően – a miniszteri rendeletben meghatározott eljárásrendben a kinevezésre jogosult vezető kezdeményezése esetén – vagy
+
+b) az NVSZ irányításáért felelős miniszter által vezetett minisztériumba vagy az NVSZ irányításáért felelős miniszter által irányított szervhez vezetői besorolási osztályba tartozó szolgálati beosztásba vezénylést megelőzően – a Kormány rendeletében meghatározott eljárásrendben a vezénylés kezdeményezésére jogosult kezdeményezése esetén –
+
+a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti előzetes véleményalkotási eljárást a kezdeményezéstől számított 20 napon belül folytatja le és a vizsgálat eredményéről haladéktalanul tájékoztatja a kezdeményezőt.
+
+(2) A kinevezésre vagy vezénylésre jogosultat az NVSZ (1) bekezdés szerinti tájékoztatása nem köti.
+
+### 13/C. §[^17]
+
+(1) Az NVSZ irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szervnél a Hszt. 179. § (1) bekezdés g) és i) pontja szerinti elismerésben részesítést megelőzően az NVSZ – az állományilletékes parancsnok kezdeményezése esetén – 10 napon belül folytatja le a Hszt. szerinti előzetes véleményalkotási eljárást és a vizsgálat eredményéről haladéktalanul tájékoztatja a kezdeményezőt.
+
+(2) Az állományilletékes parancsnok az NVSZ (1) bekezdés szerinti tájékoztatását az elismerésre történő felterjesztés előtt szerzi be, a tájékoztatás a felterjesztés részét képezi. Az elismerés adományozására jogosult vezetőt az NVSZ tájékoztatása nem köti.
+
+### 13/D. §
+
+(1) Az NVSZ kizárólag a kockázat felmerülésének tényéről vagy annak hiányáról tájékoztatja a megkeresőt.
+
+(2)[^18] Az NVSZ kockázat felmerülésének tényére utaló tájékoztatásán nem alapulhat a hivatásos szolgálati jogviszonyt érintő, a hivatásos állomány tagjára hátrányos munkáltatói döntés.
+
+(3) Az NVSZ a tájékoztatásában felhívja a megkereső figyelmét arra, hogy tájékoztatása kizárólag a megkeresés időpontjában rendelkezésére álló információk mérlegelésén alapul, egy esetleges újabb megkeresés esetén – a kockázat megszűnésére vonatkozó információk miatt – eltérő tájékoztatás születhet.
+
+(4) A kockázat felmerülésének tényére utaló tájékoztatás esetén, ha utóbb a kockázat felmerülésének ténye már nem áll fenn, az NVSZ a kockázat megszűnésének tényéről haladéktalanul tájékoztatja a megkeresőt.
+
+## 5/C.[^19] Az NVSZ közreműködése
+
+### 13/E. §
+
+(1) Az NVSZ az arra feljogosított szervek
+
+a) megkeresése alapján a körözési eljárásban műszeres vallomásellenőrzést,
+
+b) igénybevétele alapján a Rendőrségről szóló törvény alapján folytatott titkos információgyűjtésben műszeres ellenőrzést és videó-képanalitikát, valamint az online tér felhasználásával elkövetett jogsértések megelőzése, megszakítása, felderítése kapcsán forenzikus tevékenységet,
+
+c) igénybevétele alapján a büntetőeljárásban szaktanácsadóként
+
+ca) műszeres vallomásellenőrzést és
+
+cb) az online tér felhasználásával elkövetett jogsértések megszakítása, felderítése kapcsán forenzikus tevékenységet
+
+végez.
+
+(2) Az NVSZ az (1) bekezdés alapján folytatott közreműködése során keletkezett adatot maradéktalanul átadja a megkereső vagy igénybe vevő szervnek, ezt követően a vizsgálata során beszerzett adatot nem kezel.
+
+## 6. Záró rendelkezések
+
+### 14. §
+
+(1) Ez a rendelet 2011. január 1-jén lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(3) A Rendvédelmi Szervek Védelmi Szolgálatának elnevezése Nemzeti Védelmi Szolgálatra változik.
+
+(4) Az NVSZ látja el a Rendvédelmi Szervek Védelmi Szolgálatának az e rendelet hatálybalépését megelőzően hatályos jogszabályi rendelkezések szerinti feladat- és hatásköreit, továbbá folytatja le az e rendelet hatálybalépését megelőzően a Rendvédelmi Szervek Védelmi Szolgálata előtt indult, az e rendelet hatálybalépésekor folyamatban lévő eljárásokat.
+
+## 1. melléklet a 293/2010. (XII. 22.) Korm. rendelethez[^22]
+
+---
+
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 495. §-ával megállapított szöveg.
+[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 496. §-a iktatta be.
+[^3]: A 4. § (2) bekezdés b) pontja a 77/2018. (IV. 20.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 3. alcím címe a 77/2018. (IV. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^5]: A 6. § a 77/2018. (IV. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^6]: A 6. § (1) bekezdés a) pont ab) alpontja a 175/2025. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés a) pont ac) alpontja a 718/2020. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 177/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 6. § (1a) bekezdését a 193/2024. (VII. 8.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 6/A. §-t a 77/2018. (IV. 20.) Korm. rendelet 14. §-a iktatta be, szövege az 597/2023. (XII. 21.) Korm. rendelet 8. §-ával megállapított, a 193/2024. (VII. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 4. alcímet (7–9/C. §) a 194/2022. (V. 27.) Korm. rendelet 17. § a) pontja hatályon kívól helyezte.
+[^12]: Az 5. alcímet (10–13. §) a 194/2022. (V. 27.) Korm. rendelet 17. § b) pontja hatályon kívól helyezte.
+[^13]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
+[^14]: A 13/A. § a 479/2024. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^15]: Az 5/B. alcím címe a 280/2023. (VI. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^16]: A 13/B. § a 280/2023. (VI. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^17]: A 13/C. § a 280/2023. (VI. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^18]: A 13/D. § (2) bekezdése a 672/2020. (XII. 28.) Korm. rendelet 109. § (2) bekezdés b) pontja, a 194/2022. (V. 27.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^19]: Az 5/C. alcímet (13/E. §-t) a 388/2025. (XII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^22]: Az 1. mellékletet újonnan a 718/2020. (XII. 30.) Korm. rendelet 3. §-a iktatta be, a 194/2022. (V. 27.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

@@ -1,0 +1,215 @@
+---
+title: "230/2013. (VI. 28.) Korm. rendelet Magyarország Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás kihirdetéséről"
+identifier: "230/2013. (VI. 28.) Korm. rendelet"
+njt_id: "2013-230-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/230"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-28
+in_force_from: 2013-06-29
+last_amended: 2020-07-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-230-20-22"
+retrieved: 2026-10-12
+---
+
+# 230/2013. (VI. 28.) Korm. rendelet Magyarország Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+„M E G Á L L A P O D Á S\
+Magyarország Kormánya és\
+a Horvát Köztársaság Kormánya között\
+a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról
+
+Magyarország Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Szerződő Felek) attól a szándéktól vezérelve, hogy a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Budapesten, 2003. szeptember 29. napján aláírt és 2009. május 25-én módosított Megállapodás (a továbbiakban: Megállapodás) egyes rendelkezéseit módosítsák annak érdekében, hogy közös határforgalom-ellenőrzést hajtsanak végre a magyar-horvát államhatáron, az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+A Megállapodás címében, preambulumában, 15. Cikk (3) bekezdésében, 16. Cikk (3) bekezdésében és 20. Cikk (1) bekezdésének második mondatában, továbbá a Megállapodás Mellékletében „a Magyar Köztársaság” kifejezés helyébe a „Magyarország” kifejezés lép.
+
+**2. cikk**
+
+A Megállapodás 2. Cikke az alábbi új (2) bekezdéssel egészül ki:
+
+„(2) A Szerződő Felek minden szükséges feltételt biztosítanak a közös határforgalom-ellenőrzés végrehajtásához, különösen az alábbiakat:
+
+– a kijelölt hivatali helyiségeket és a közös helyiségeket,
+
+– az ellenőrző forgalmi sávokat és a kezelő fülkéket,
+
+– a szolgálati parkolókat,
+
+– az államhatártól a határátkelőhelyig vezető közutakat szolgálatba járás céljából.”
+
+**3. cikk**
+
+(1) A Megállapodás 6. Cikk (2), (3) és (4) bekezdései törlésre kerülnek, ezzel egyidejűleg a 6. Cikk (5) és (6) bekezdéseinek számozása (2) és (3) bekezdésekre változik.
+
+(2) A Megállapodás 6. Cikk új (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A személyforgalom ellenőrzése a Horvát Köztársaság államterületén, közösen történik. Goričan (Muracsány) határátkelőhelyen kihelyezett magyar határforgalom-ellenőrző szolgálati hely működik. Az áruforgalom ellenőrzése a Szerződő Felek államának területén külön-külön történik.”
+
+**4. cikk**
+
+A Megállapodás 8. Cikkének (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrzése Magyarország államterületén, közösen történik. Berzence határátkelőhelyen kihelyezett horvát határforgalom-ellenőrző szolgálati hely működik.”
+
+**5. cikk**
+
+A Megállapodás 9. Cikke az alábbi új (4) bekezdéssel egészül ki:
+
+„(4) A technikai és infrastrukturális feltételek biztosítását követően Barcs határátkelőhelyen kihelyezett horvát határforgalom-ellenőrző szolgálati hely létesül. A Szerződő Felek diplomáciai úton egyeztetik azt az időpontot, amelyet követően a határforgalom-ellenőrzés Magyarország államterületén közösen kerül végrehajtásra.”
+
+**6. cikk**
+
+A Megállapodás 10. Cikke az alábbi új (4) bekezdéssel egészül ki:
+
+„(4) A technikai és infrastrukturális feltételek biztosítását követően Drávaszabolcs határátkelőhelyen kihelyezett horvát határforgalom-ellenőrző szolgálati hely létesül. A Szerződő Felek diplomáciai úton egyeztetik azt az időpontot, amelyet követően a határforgalom-ellenőrzés Magyarország államterületén közösen kerül végrehajtásra.”
+
+**7. cikk**
+
+A Megállapodás 11. Cikkének (4) bekezdése az alábbiak szerint módosul:
+
+„(4) A határforgalom ellenőrzése Magyarország államterületén, közösen történik. Beremend határátkelőhelyen kihelyezett horvát határforgalom-ellenőrző szolgálati hely működik.”
+
+**8. cikk**
+
+A Megállapodás 12. Cikkének (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrzése Magyarország államterületén, közösen történik. Udvar határátkelőhelyen kihelyezett horvát határforgalom-ellenőrző szolgálati hely működik.”
+
+**9. cikk**
+
+A Megállapodás 18. Cikkének (1) bekezdése az alábbiak szerint módosul:
+
+„(1) A Szerződő Felek szolgálati személyei a nemzetközi vízi határforgalom ellenőrzését a Duna folyamon külön-külön, a Dráva folyamon közösen végzik.”
+
+**10. cikk**
+
+(1) A jelen Megállapodás azon utolsó diplomáciai jegyzék kézhezvételét követő tizedik napon lép hatályba, amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.
+
+(2) A jelen Megállapodást a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozásának időpontjától kezdve ideiglenesen alkalmazni kell.
+
+Készült Zágrábban, 2013. június 25. napján, két eredeti példányban, magyar, horvát és angol nyelven, valamennyi szöveg egyaránt hiteles. A jelen Megállapodás értelmezésével kapcsolatos eltérések esetén az angol nyelvű szöveg az irányadó.
+
+(Aláírások)
+
+P R O T O C O L\
+between\
+the Government of Hungary\
+and\
+the Government of the Republic of Croatia\
+of amendments to the Protocol\
+between the Government of the Republic of Hungary and the Government of the Republic of Croatia on the implementation of the Agreement between the Republic of Hungary and the Republic of Croatia on road, railway and water traffic border control
+
+The Government of Hungary and the Government of the Republic of Croatia (hereinafter: Contracting Parties), with an aim to amend certain provisions of the Protocol between the Government of the Republic of Hungary and the Government of the Republic of Croatia on the implementation of the Agreement between the Republic of Hungary and the Republic of Croatia on road, railway and water traffic border control, signed in Budapest on 29 September 2003, as amended on 25 May 2009 (hereinafter: the Protocol) in order to carry out common border control at the Hungarian–Croatian state border, have agreed as follows:
+
+**Article 1**
+
+In the title, preamble, paragraph (3) of Article 15, paragraph (3) of Article 16 and the second sentence of paragraph (1) of Article 20 as well as in the Attachment of the Protocol the words “the Republic of Hungary” shall be replaced by the word “Hungary”.
+
+**Article 2**
+
+The following new paragraph (2) shall be inserted in Article 2 of the Protocol:
+
+“(2) The Contracting Parties shall provide all necessary conditions for carrying common border control notably the following:
+
+– the assigned official objects and the common objects,
+
+– the control traffic lanes and control cabins,
+
+– duty parking lots,
+
+– public roads leading from the state border to the border crossing point for the purpose of going on duty.”
+
+**Article 3**
+
+(1) Paragraphs (2), (3) and (4) of Article 6 of the Protocol shall be deleted, at the same time paragraphs (5) and (6) are renumbered to become paragraphs (2) and (3) of Article 6.
+
+(2) The new paragraph (3) of Article 6 of the Protocol is amended to read:
+
+“(3) The border control of passenger traffic shall be carried out commonly at the state territory of the Republic of Croatia. An outplaced Hungarian border control post shall be operating at Goričan (Muracsány) border crossing point. The border control of goods traffic shall be carried out separately at the state territory of the Contracting Parties.“
+
+**Article 4**
+
+Paragraph (3) of Article 8 of the Protocol is amended to read:
+
+“(3) The border control of traffic shall be carried out commonly at the state territory of Hungary. An outplaced Croatian border control post shall be operating at Berzence border crossing point.“
+
+**Article 5**
+
+The following new paragraph (4) shall be inserted in Article 9 of the Protocol:
+
+“(4) Upon ensuring of the technical and infrastructural conditions, an outplaced Croatian border control post shall be established at Barcs border crossing point. The Contracting Parties shall agree upon the said date after which the border control of traffic shall be carried out commonly at the state territory of Hungary.”
+
+**Article 6**
+
+The following new paragraph (4) shall be inserted in Article 10 of the Protocol:
+
+“(4) Upon ensuring of the technical and infrastructural conditions, an outplaced Croatian border control post shall be established at Drávaszabolcs border crossing point. The Contracting Parties shall agree upon the said date after which the border control of traffic shall be carried out commonly at the state territory of Hungary.”
+
+**Article 7**
+
+Paragraph (4) of Article 11 of the Protocol is amended to read:
+
+“(4) The border control of traffic shall be carried out commonly at the state territory of Hungary. An outplaced Croatian border control post shall be operating at Beremend border crossing point.”
+
+**Article 8**
+
+Paragraph (3) of Article 12 of the Protocol is amended to read:
+
+“(3) The border control of traffic shall be carried out commonly at the state territory of the Hungary. An outplaced Croatian border control post shall be operating at Udvar road border crossing point.“
+
+**Article 9**
+
+Paragraph (1) of Article 18 of the Protocol is amended to read:
+
+„(1) The border control of international water traffic shall be carried out by the officials of the Contracting Parties separately at the river Danube and commonly at the river Drava.”
+
+**Article 10**
+
+(1) This Protocol shall enter into force on the tenth day following the date of receipt of the latter of the notification by which the Contracting Parties notify each other, through diplomatic channels, about the fulfilment of the requirements of their domestic law for its entry into force.
+
+(2) This Protocol shall be provisionally applied from the date of the accession of the Republic of Croatia to the European Union.
+
+Done at Zagreb on 25th June 2013, in two originals, each in the Hungarian, Croatian and English languages, all texts being equally authentic. In case of divergence in interpretation, the English text shall prevail.
+
+(Signatures)”
+
+## 4. §[^3]
+
+## 5. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 10. cikk (2) bekezdésében meghatározott időpontban lép hatályba.[^4]
+
+(3) A 4. § a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban hatályát veszti.[^5]
+
+(4) A Megállapodás hatálybalépésének naptári napját, valamint a (2) és (3) bekezdésben meghatározott időpontok naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^6]
+
+(5) E rendelet végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik.
+
+(6) A Megállapodásnak a 337/2004. (XII. 18.) Korm. rendelettel kihirdetett, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Budapesten, 2003. szeptember 29. napján aláírt Megállapodással, valamint a 111/2009. (V. 27.) Korm. rendelettel kihirdetett, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodással egységes szerkezetbe foglalt szövegének a Nemzeti Jogszabálytárban történő, a Megállapodás hatálybalépését követő haladéktalan közzétételéről a határrendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § az 5. § (2) bekezdése alapján a Megállapodás 10. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 31/2020. (VII. 24.) KKM közlemény alapján a hatálybalépés időpontja 2020. július 12.
+[^2]: A 3. § az 5. § (2) bekezdése alapján a Megállapodás 10. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 31/2020. (VII. 24.) KKM közlemény alapján a hatálybalépés időpontja 2020. július 12.
+[^3]: A 4. § az 5. § (3) bekezdése alapján a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban hatályát veszti. A 31/2020. (VII. 24.) KKM közlemény alapján a hatályvesztés időpontja 2020. július 12.
+[^4]: A 31/2020. (VII. 24.) KKM közlemény alapján a hatálybalépés időpontja 2020. július 12.
+[^5]: A 31/2020. (VII. 24.) KKM közlemény alapján a hatályvesztés időpontja 2020. július 12.
+[^6]: Lásd a 31/2020. (VII. 24.) KKM közleményt.

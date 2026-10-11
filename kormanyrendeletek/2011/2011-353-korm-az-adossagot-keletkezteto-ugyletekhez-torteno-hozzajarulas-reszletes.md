@@ -1,0 +1,314 @@
+---
+title: "353/2011. (XII. 30.) Korm. rendelet az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól"
+identifier: "353/2011. (XII. 30.) Korm. rendelet"
+njt_id: "2011-353-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/353"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-30
+in_force_from: 2012-01-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-353-20-22"
+retrieved: 2026-10-12
+---
+
+# 353/2011. (XII. 30.) Korm. rendelet az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól
+
+A Kormány a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 45. § (1) bekezdés a) és b) pontjában kapott felhatalmazása alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §[^1]
+
+E rendeletet a helyi önkormányzatok, a nemzetiségi önkormányzatok, az önkormányzati társulások, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok (a továbbiakban együtt: önkormányzat), a kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaságok és az ilyen gazdasági társaságok 100%-os tulajdonában álló gazdasági társaságok, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 10/F. § (3) bekezdésében foglalt kivétellel a kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-nál kisebb önkormányzati tulajdonban álló gazdasági társaság és a 100%-os önkormányzati tulajdonban álló gazdasági társaság 100%-nál kisebb tulajdonában álló gazdasági társaság (a továbbiakban: önkormányzati tulajdonú gazdasági társaság), valamint a kormányzati szektorba sorolt egyéb szervezetek minden olyan adósságot keletkeztető ügyletére és kezesség-, illetve garanciavállalására (az 1. és 2. alcím alkalmazásában a továbbiakban együtt: ügylet) alkalmazni kell, amelyhez a Gst. szerint a Kormány vagy az államháztartásért felelős miniszter hozzájárulása szükséges.
+
+### 2. §
+
+(1) Az önkormányzat saját bevételének minősül
+
+1.[^2] a helyi adóból és a települési adóból származó bevétel,
+
+2\. az önkormányzati vagyon és az önkormányzatot megillető vagyoni értékű jog értékesítéséből és hasznosításából származó bevétel,
+
+3\. az osztalék, a koncessziós díj és a hozambevétel,
+
+4\. a tárgyi eszköz és az immateriális jószág, részvény, részesedés, vállalat értékesítéséből vagy privatizációból származó bevétel,
+
+5\. bírság-, pótlék- és díjbevétel, valamint
+
+6.[^3] a kezesség-, illetve garanciavállalással kapcsolatos megtérülés.
+
+(2)[^4] Az önkormányzati társulás és a térségi fejlesztési tanács (a továbbiakban együtt: társulás) esetén saját bevételként elsősorban a társulás saját bevételét kell figyelembe venni.
+
+(3)[^5] Ha a társulás saját bevételének 50%-a nem nyújt fedezetet az ügyletekből eredő fizetési kötelezettségekre, a nem fedezett rész tekintetében a társulásban résztvevő helyi önkormányzat, nemzetiségi önkormányzat saját bevételének 50%-át – csökkentve a saját ügyleteiből eredő fizetési kötelezettségeivel – kell figyelembe venni. A társulás ügyleteiből eredő, saját bevételének 50%-át meghaladó fizetési kötelezettséget a társulásban résztvevő helyi önkormányzatok, nemzetiségi önkormányzatok közötti megállapodás szerinti arányban – ennek hiányában a társulásban résztvevő helyi önkormányzatok, nemzetiségi önkormányzatok saját bevételei 50%-ának saját ügyleteikből eredő fizetési kötelezettségeikkel nem terhelt részének arányában – kell figyelembe venni.
+
+## 2. Az önkormányzat ügyleteinek engedélyezése
+
+### 5. §
+
+(1)[^8]
+
+(2)[^9] A Kormány hozzájárulása iránti kérelmét az önkormányzat a kincstár által üzemeltetett elektronikus rendszeren keresztül nyújtja be. A kérelem benyújtására a tárgyév november 5-éig van lehetőség. Rendkívüli esetben, az önkormányzat külön indokolásának elfogadása után a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter (a továbbiakban együtt: miniszterek) november 15-éig engedélyezhetik a kérelem benyújtását.
+
+(2a)[^10] A kérelemben szerepeltetni kell
+
+a) az ügylethez kapcsolódó ellátandó önkormányzati feladatot, a feladatot meghatározó törvényi rendelkezés megjelölésével,
+
+b)[^11] a fejlesztési célt, a fejlesztéssel előálló kapacitás meghatározását, a fejlesztés bruttó forrásigényét, működési célú ügylet esetén annak célját,
+
+c) a fejlesztés eredményeként létrejövő tárgyi eszköz folyamatos működtetéséhez szükséges források bemutatását, a működtetésből eredő kiadásokat és bevételeket a működtetés első öt évére,
+
+d)[^12] tárgyév és az azt követő évek saját bevételének összegét, abban az esetben, ha az önkormányzat a saját bevételét a tárgyévre vagy az azt követő évekre a megelőző évi előirányzatnál magasabb mértékben határozza meg, ennek indokolását,
+
+e) az ügylet típusát, futamidejét, devizanemét,
+
+f)[^13]
+
+g)[^14]
+
+h)[^15]
+
+i)[^16] a tárgyévben és a tárgyévet megelőző években keletkezett ügyletekből eredő fizetési kötelezettségeket.
+
+(3)[^17] A kérelemhez – a Gst. 10/C. § (2) bekezdésében meghatározott dokumentumok mellett – mellékelni kell
+
+a) a helyi önkormányzat és a nemzetiségi önkormányzat által kitöltött, a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapot, továbbá a helyi önkormányzat költségvetési rendeletét, a nemzetiségi önkormányzat költségvetési határozatát,
+
+b) a társulás költségvetési határozatát, a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapot, ha a társulás saját bevételének 50%-a nem nyújt fedezetet az ügyletekből eredő fizetési kötelezettségeire, akkor a kincstár által üzemeltetett elektronikus rendszerben szereplő, a társulásban részt vevő önkormányzatokra vonatkozó adatlapot, a kezességvállalásról szóló dokumentumokat, valamint – ha ilyet kötöttek – a 2. § (3) bekezdése szerinti megállapodást is,
+
+c)[^18] a tárgyévet követő három évre szóló költségvetési kitekintésre vonatkozó határozatot,
+
+d) az önkormányzat rövid szöveges indokolással ellátott tájékoztatását
+
+da) az ügylet szükségességéről,
+
+db) az ügyletből finanszírozott fejlesztés szükségességéről,
+
+dc)[^19] a Gst. 10/B. § (3) bekezdése szerinti adósságmegújító ügylet (a továbbiakban: adósságmegújító ügylet), valamint működési célú ügylet esetén az adósság újratermelődését megakadályozó önkormányzati intézkedésekről,
+
+dd)[^20] a bevezetett helyi adókról, azok mértékéről,
+
+de)[^21]
+
+df)[^22] kezesség-, illetve garanciavállalás esetén a kezesség-, illetve garanciavállalással biztosított ügylet önkormányzat számára előírt feladathoz kapcsolódó felhasználásáról,
+
+e)[^23]
+
+f)[^24]
+
+g)[^25] adósságmegújító ügylet esetén, ha az önkormányzat adósságot keletkeztető ügyleteiből származó tárgyévi összes fizetési kötelezettsége az ügylet futamidejének végéig bármely évben meghaladja az önkormányzat adott évi saját bevételeinek 50%-át, az arra irányuló kérvényt, hogy a Kormány tekintsen el az adósságkorlátra vonatkozó rendelkezés alkalmazásától, és a kérés alapjául szolgáló – kivételes vagy az önkormányzat működését veszélyeztető eset – részletes kifejtését,
+
+h)[^26] az ügyletből – adósságmegújító ügylet esetén mind az eredeti, mind az azt kiváltó ügyletből – eredő, szerződés szerint az önkormányzatot terhelő fizetési kötelezettségeket esedékesség és összeg szerint tartalmazó dokumentumokat,
+
+i)[^27] kezesség-, illetve garanciavállalás esetén kezesség-, illetve garanciavállalási díjról szóló dokumentumot.
+
+### 6. §
+
+(1)[^28] A kincstár önkormányzat székhelye szerint illetékes területi szerve (a továbbiakban: Igazgatóság) az önkormányzat kérelmét és azok mellékleteit, valamint a fizetési kötelezettségek és a saját bevételek egymáshoz viszonyított arányát megvizsgálja és összeveti a rendelkezésre álló adatokkal. Ennek keretében ellenőrzi, hogy
+
+a) valamennyi mellékletet benyújtottak-e,
+
+b) az önkormányzatnak az ügyleteiből származó tárgyévi összes fizetési kötelezettsége az ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át,
+
+c) az önkormányzat eleget tett-e a Gst. 10. § (2) bekezdése szerinti adómegállapítási követelménynek,
+
+d)[^29] az önkormányzat a költségvetési rendeletében, határozatában foglalt adatokat szerepelteti-e a kérelmében és annak mellékleteiben
+
+e)[^30]
+
+(2)[^31] Az Igazgatóság a rendelkezésére álló adatok alapján a kérelem benyújtását követő nyolc napon belül megvizsgálja, hogy
+
+a) a fejlesztés eredményeként létrejövő tárgyi eszköz folyamatos működtetéséhez szükséges források rendelkezésre állnak-e,
+
+b) az önkormányzat által szerepeltetett tárgyévi és tárgyévet követő saját bevételek összege az előző évek tényadatainak figyelembevételével reális-e, és
+
+c) kezesség-, illetve garanciavállalásra irányuló ügylet esetén a kezesség, illetve garanciabeváltásra várhatóan sor fog-e kerülni az adósnak a kérelemhez mellékelt pénzügyi adatai ismeretében,
+
+d)[^32] az ügylet létrehozására vonatkozó önkormányzati döntés, az önkormányzat kérelme és azok mellékletei megfelelnek-e a jogszabályokban előírtaknak,
+
+e)[^33] az ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi-e, és
+
+f)[^34] kezesség-, illetve garanciavállalás esetén – a Gst.-ben foglalt kivételekkel – az megfelel-e az államháztartásról szóló 2011. évi CXCV. törvény 96. §-ában foglalt szabályozásnak.
+
+(2a)[^35]
+
+(3) Ha szükséges, az Igazgatóság legfeljebb 8 napos határidő kitűzésével hiánypótlásra hívja fel az önkormányzatot. Ha az önkormányzat a hiánypótlást nem vagy nem határidőben teljesíti, az Igazgatóság a kérelmet érdemi vizsgálat nélkül elutasítja.
+
+(4)[^36] Az Igazgatóság az önkormányzat kérelmét és annak mellékleteit, valamint a hiánytalan kérelemről és annak mellékleteiről a (2) bekezdés szerint kialakított véleményét a kérelem benyújtását vagy a (3) bekezdés szerinti hiánypótlást követő 8 napon belül elektronikus úton továbbítja a minisztereknek.
+
+(5)[^37] Az Igazgatóság jogosult a társulásban résztvevő helyi önkormányzat, nemzetiségi önkormányzat saját ügyleteiből eredő fizetési kötelezettségeivel csökkentett saját bevételei, valamint a társulási ügylethez kapcsolódó fizetési kötelezettség tételes bemutatása érdekében a társulásban résztvevő helyi önkormányzattól, nemzetiségi önkormányzattól adatot, valamint a költségvetési rendeletét, határozatát bekérni.
+
+### 8. §[^39]
+
+(1) A miniszterek a kérelemről a Kormány részére együttes előterjesztést készítenek, amelyben az Igazgatóság véleményét figyelembe véve javaslatot tesznek az ügyletek és az ahhoz kapcsolódó fejlesztések támogatására, részbeni, illetve alacsonyabb ügyletértékbeli támogatására vagy elutasítására.
+
+(2) A Kormány az együttes előterjesztés alapján az előterjesztés elkészítését megelőző hónapokban beérkezett kérelmekről legalább háromhavonkénti gyakorisággal, kivételesen – a Gst. 10/B. § (1) bekezdés a) pontjában meghatározott feltételnek való meg nem felelés esetében – legkésőbb a tárgyév december 31-éig határozatban dönt.
+
+### 9. §
+
+(1)[^40] Az adósságot keletkeztető ügyletre vonatkozó kérelmet a Kormány elutasítja, ha
+
+a)[^41] a Gst. 10. § (7) bekezdésében és 10/B. § (3) bekezdésében meghatározott esetek kivételével az ügyletekből eredő fizetési kötelezettség a futamidő végéig bármelyik évben meghaladja az önkormányzat saját bevételének 50%-át,
+
+b)[^42] az nem törvényben meghatározott feladat ellátásához szükséges kapacitás létrehozását eredményezi, vagy a működési kiadások folyamatos teljesítése nem látszik biztosítottnak,
+
+c)[^43] az Igazgatóság véleménye szerint az ügylethez kapcsolódó dokumentumok, szerződéstervezetek nem felelnek meg a jogszabályokban előírtaknak, vagy
+
+d) a hozzájárulás megadása veszélyezteti az államadósság-mutató előző évhez viszonyított tervezett csökkenését.
+
+(1a)[^44]
+
+(1b)[^45] A kezesség-, illetve garanciavállalásra vonatkozó kérelmet a Kormány a Gst. 10/B. § (5) bekezdésében foglaltakon túl akkor utasítja el, ha a 6. § (2) bekezdés f) pontja, valamint az (1) bekezdés a) vagy c) pontja szerinti feltételek bármelyike nem teljesül. Az (1) bekezdés a) pontja szerinti feltétel alkalmazása során az önkormányzati kezesség-, és garanciavállalás esetében az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség és garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni.
+
+(2)[^46] A Kormány 8. § (2) bekezdés szerinti döntéséről a helyi önkormányzatokért felelős miniszter haladéktalanul értesíti az önkormányzatot a kincstár által üzemeltetett elektronikus rendszeren keresztül.
+
+### 10. §[^47]
+
+(1) Adósságmegújító ügylet és kezesség-, illetve garanciavállalás esetén nem kell alkalmazni az 5. § (2a) bekezdés a)–c) pontját, az 5. § (3) bekezdés d) pont db) alpontját, a 6. § (2) bekezdés a) és e) pontját, valamint a 9. § (1) bekezdés b) pontját.
+
+(2) A Gst. 10/A. §-a szerinti működési célú adósságot keletkeztető ügylet esetén nem kell alkalmazni az 5. § (2a) bekezdés c) pontját, az 5. § (3) bekezdés d) pont db) és df) alpontját, g) és i) pontját, valamint a 6. § (2) bekezdés a), c), e) és f) pontját.
+
+## 3. A kormányzati szektorba sorolt egyéb szervezetek ügyleteinek engedélyezése
+
+### 11. §
+
+(1)[^48] A kormányzati szektorba sorolt egyéb szervezet a Gst. 9. §-a szerinti hozzájárulás iránti kérelmét az alapító, tulajdonos – az Országgyűlés, a Kormány vagy az állam nevében más személy által alapított és az állam tulajdonában álló kormányzati szektorba sorolt egyéb szervezet esetén az alapítói, tulajdonosi jogokat gyakorló – szervezetnek küldi meg. Ha az alapító, tulajdonos, illetve az alapítói, tulajdonosi jogokat gyakorló szervezet a kérelemben foglaltakkal egyetért, azt az államháztartásért felelős miniszternek továbbítja.
+
+(2) A kérelem tartalmazza
+
+a)[^49] a Gst. 9. § (2) bekezdés b) pontja szerinti kötelező feladat megjelölését és az azt meghatározó jogszabályi rendelkezésre vagy a működési célra való utalást, és
+
+b)[^50] fejlesztési célú ügylet esetén a fejlesztési cél megjelölését, a fejlesztéssel előálló kapacitás meghatározását, a fejlesztés eredményeként létrejövő tárgyi eszköz folyamatos működtetéséhez szükséges források bemutatását és a Gst. 9. § (2) bekezdés c) pontja szerinti elemzést.
+
+(3)[^51] A kérelemhez – a Gst. 10/C. § (2) bekezdése szerinti dokumentumok mellett –mellékelni kell
+
+a) a kormányzati szektorba sorolt egyéb szervezetnek a kérelem benyújtását megelőző három évről készült, a számvitelről szóló törvény szerinti beszámolóját (ideértve a kiegészítő mellékletet is), továbbá – ha a kormányzati szektorba sorolt egyéb szervezet a számvitelről szóló törvény alapján könyvvizsgálatra köteles – a beszámolóról készült könyvvizsgálói jelentést, és
+
+b) a kormányzati szektorba sorolt egyéb szervezet tárgyévi üzleti tervét vagy nyilatkozatot arról, hogy üzleti terv készítését az alapító, tulajdonos szervezet, illetve az alapítói, tulajdonosi jogokat gyakorló szervezet nem írta elő.
+
+## 3/A. [^52] A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság, valamint a kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-nál kisebb önkormányzati tulajdonban álló gazdasági társaság és a 100%-os önkormányzati tulajdonban álló gazdasági társaság 100%-nál kisebb tulajdonában álló gazdasági társaság adósságot keletkeztető ügyletének engedélyezése
+
+### 11/A. §
+
+(1)[^53] Az 1. § szerinti önkormányzati tulajdonú gazdasági társaság adósságot keletkeztető ügyletének megkötéséhez a Gst. 10/E. §-a alapján szükséges, illetve a Gst. 10/F. § (2) bekezdése alapján kérhető hozzájárulás iránti kérelmet a Gst. 10/E. § (1) bekezdése szerinti önkormányzat a kincstár által üzemeltetett elektronikus rendszeren keresztül, legkésőbb az 5. § (2) bekezdésében meghatározott határidőig nyújtja be.
+
+(2) A kérelem tartalmazza
+
+a) az ügylet típusát, futamidejét, devizanemét, a lehívás ütemezését,
+
+b) fejlesztési célú ügylet esetén a fejlesztési cél megjelölését, a fejlesztéssel előálló kapacitás meghatározását és a fejlesztés eredményeként létrejövő tárgyi eszköz folyamatos működtetéséhez szükséges források bemutatását és
+
+c) működési célú ügylet esetén a felhasználás céljának összefoglalását.
+
+(3) A kérelemhez mellékelni kell
+
+a) az önkormányzat által kitöltött, a kincstár által üzemeltetett elektronikus rendszerben szereplő, a gazdasági társaságra vonatkozó adatlapot,
+
+b) a gazdasági társaság ügyletére vonatkozóan
+
+ba) a Gst. 10/C. § (2) bekezdés a)–c) és e) pontja szerinti dokumentumokat,
+
+bb) az 5. § (3) bekezdés d) pont *da)* és *db)* alpontja és *h)* pontja szerinti dokumentumokat,
+
+bc) a 11. § (3) bekezdése szerinti dokumentumokat,
+
+c) azon további pénzügyi és gazdasági dokumentumokat, amelyekből megállapítható a Gst. 10/E. § (2) bekezdésében foglalt előírások teljesülése.
+
+### 11/B. §
+
+(1) Az Igazgatóság az önkormányzat kérelmét és azok mellékleteit megvizsgálja. Ennek keretében ellenőrzi, hogy valamennyi melléklet benyújtásra került-e.
+
+(2)[^54] Az Igazgatóság a rendelkezésére álló adatok alapján a benyújtást követő 8 napon belül véleményezi, hogy
+
+a) a gazdasági társaság ügylete a benyújtott dokumentumok alapján megfelel-e a Gst. 10/E. § (2) bekezdésében foglalt előírásoknak, és
+
+b) a kérelem és azok mellékletei megfelelnek-e a jogszabályokban előírtaknak.
+
+(3) Ha szükséges, az Igazgatóság legfeljebb 8 napos határidő kitűzésével hiánypótlásra hívja fel az önkormányzatot. Ha az önkormányzat a hiánypótlást nem vagy nem határidőben teljesíti, az Igazgatóság a kérelmet érdemi vizsgálat nélkül elutasítja.
+
+(4)[^55] Az Igazgatóság az önkormányzat kérelmét és annak mellékleteit, valamint a hiánytalan kérelemről és annak mellékleteiről a (2) bekezdés szerint kialakított véleményét a kérelem benyújtását vagy a (3) bekezdés szerinti hiánypótlást követő 8 napon belül elektronikus úton továbbítja a helyi önkormányzatokért felelős miniszternek.
+
+### 11/D. §
+
+A helyi önkormányzatokért felelős miniszter a kérelemről a 8. § (1) bekezdésében foglaltaknak megfelelően a Kormány részére előterjesztést készít, melyről a Kormány a 8. § (2) bekezdése szerint dönt.
+
+## 4. Hatályba léptető rendelkezések
+
+### 12. §
+
+Ez a rendelet 2012. január 1-jén lép hatályba.
+
+## 5.[^57]
+
+### 13. §[^58]
+
+A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^59] megelőzően indított ügyletek esetében az ügyletek indításakor hatályos szabályozást kell alkalmazni.
+
+## 1. melléklet a 353/2011. (XII. 30.) Korm. rendelethez[^60]
+
+## 2. melléklet a 353/2011. (XII. 30.) Korm. rendelethez[^61]
+
+## 3. melléklet a 353/2011. (XII. 30.) Korm. rendelethez[^62]
+
+---
+
+[^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 98. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdés 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 6. pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 260/2014. (X. 15.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 20. §-ával megállapított, a 260/2014. (X. 15.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdését az 560/2023. (XII. 14.) Korm. rendelet 5. § 3. pontja hatályon kívül helyezte.
+[^9]: Az 5. § (2) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 271/2012. (IX. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 5. § (2a) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 8. § 3. pontja, a 310/2018. (XII. 27.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^12]: Az 5. § (2a) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 7. pontja, a 310/2018. (XII. 27.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^13]: Az 5. § (2a) bekezdés f) pontját a 310/2018. (XII. 27.) Korm. rendelet 10. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^14]: Az 5. § (2a) bekezdés g) pontját az 560/2023. (XII. 14.) Korm. rendelet 5. § 4. pontja hatályon kívül helyezte.
+[^15]: Az 5. § (2a) bekezdés h) pontját az 560/2023. (XII. 14.) Korm. rendelet 5. § 4. pontja hatályon kívül helyezte.
+[^16]: Az 5. § (2a) bekezdés i) pontját a 310/2018. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^17]: Az 5. § (3) bekezdése a 271/2012. (IX. 26.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 2. § 8. pontja szerint módosított szöveg.
+[^18]: Az 5. § (3) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 9. pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdés d) pont dc) alpontja az 560/2023. (XII. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (3) bekezdés d) pont dd) alpontja a 234/2013. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 310/2018. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^21]: Az 5. § (3) bekezdés d) pont de) alpontját a 264/2016. (VIII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^22]: Az 5. § (3) bekezdés d) pont df) alpontját a 234/2013. (VI. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^23]: Az 5. § (3) bekezdés e) pontját a 310/2018. (XII. 27.) Korm. rendelet 10. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^24]: Az 5. § (3) bekezdés f) pontját a 310/2018. (XII. 27.) Korm. rendelet 10. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^25]: Az 5. § (3) bekezdés g) pontja a 234/2013. (VI. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^26]: Az 5. § (3) bekezdés h) pontját a 234/2013. (VI. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 497/2013. (XII. 29.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^27]: Az 5. § (3) bekezdés i) pontját a 260/2014. (X. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^28]: A 6. § (1) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze az 560/2023. (XII. 14.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^29]: A 6. § (1) bekezdés d) pontja az 560/2023. (XII. 14.) Korm. rendelet 4. § 2. pontja szerint módosított szöveg.
+[^30]: A 6. § (1) bekezdés e) pontját az 560/2023. (XII. 14.) Korm. rendelet 5. § 5. pontja hatályon kívül helyezte.
+[^31]: A 6. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 98. § (7) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: A 6. § (2) bekezdés d) pontját a 360/2019. (XII. 30.) Korm. rendelet 98. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^33]: A 6. § (2) bekezdés e) pontját a 360/2019. (XII. 30.) Korm. rendelet 98. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^34]: A 6. § (2) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 98. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^35]: A 6. § (2a) bekezdését a 271/2012. (IX. 26.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 260/2014. (X. 15.) Korm. rendelet 10. §-a.
+[^36]: A 6. § (4) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 98. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^37]: A 6. § (5) bekezdését az 56/2012. (III. 30.) Korm. rendelet 23. §-a iktatta be.
+[^39]: A 8. § az 560/2023. (XII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^40]: A 9. § (1) bekezdés nyitó szövegrésze a 234/2013. (VI. 30.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^41]: A 9. § (1) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 14. pontja szerint módosított szöveg.
+[^42]: A 9. § (1) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 8. § 6. pontja szerint módosított szöveg.
+[^43]: A 9. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 98. § (7) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^44]: A 9. § (1a) bekezdését a 234/2013. (VI. 30.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 98. § (8) bekezdés c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^45]: A 9. § (1b) bekezdését a 234/2013. (VI. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 5. §-ával megállapított, a 310/2018. (XII. 27.) Korm. rendelet 9. § 8. pontja, a 282/2019. (XI. 27.) Korm. rendelet 2. §-a, a 360/2019. (XII. 30.) Korm. rendelet 98. § (7) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^46]: A 9. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 24. §-ával megállapított, a 397/2014. (XII. 31.) Korm. rendelet 2. § 16. pontja szerint módosított szöveg.
+[^47]: A 10. § az 560/2023. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^48]: A 11. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^49]: A 11. § (2) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^50]: A 11. § (2) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^51]: A 11. § (3) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 2. § 17. pontja szerint módosított szöveg.
+[^52]: A 3/A. alcímet (11/A–11/D. §) a 397/2014. (XII. 31.) Korm. rendelet 1. §-a iktatta be. A 3/A. alcím címe a 360/2019. (XII. 30.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^53]: A 11/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 98. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^54]: A 11/B. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 98. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A 11/B. § (4) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 98. § (7) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: Az 5. alcímet (13–16. §) a 397/2014. (XII. 31.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 13. §-t a 397/2014. (XII. 31.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte, újonnan a 360/2019. (XII. 30.) Korm. rendelet 98. § (6) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^59]: A hatálybalépés időpontja 2019. december 31.
+[^60]: Az 1–3. mellékletet az 56/2012. (III. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^61]: Az 1–3. mellékletet az 56/2012. (III. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^62]: Az 1–3. mellékletet az 56/2012. (III. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.

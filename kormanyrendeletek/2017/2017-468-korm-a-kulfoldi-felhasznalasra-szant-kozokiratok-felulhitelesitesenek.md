@@ -1,0 +1,178 @@
+---
+title: "468/2017. (XII. 28.) Korm. rendelet a külföldi felhasználásra szánt közokiratok felülhitelesítésének szabályairól"
+identifier: "468/2017. (XII. 28.) Korm. rendelet"
+njt_id: "2017-468-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/468"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-28
+in_force_from: 2018-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-468-20-22"
+retrieved: 2026-10-12
+---
+
+# 468/2017. (XII. 28.) Korm. rendelet a külföldi felhasználásra szánt közokiratok felülhitelesítésének szabályairól
+
+A Kormány a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet 4. § (3) bekezdésében kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya
+
+a) a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelettel (a továbbiakban: Tvr.) kihirdetett, a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény (a továbbiakban: Egyezmény) 3. cikkében előírt tanúsítványnak (a továbbiakban: tanúsítvány) az igazságügyért felelős miniszter, a külpolitikáért felelős miniszter és a Magyar Országos Közjegyzői Kamara (a továbbiakban együtt: tanúsítványt kiállító szerv) általi kiállítására, és
+
+b) az Egyezményben nem részes államokban történő felhasználásra szánt közokiratoknak a külpolitikáért felelős miniszter általi felülhitelesítésére
+
+terjed ki.
+
+## 2. A tanúsítvány kiállításának szabályai
+
+### 2. §
+
+(1) A kérelmet a tanúsítványt kiállító szervhez személyesen vagy – a külpolitikáért felelős miniszterhez intézett kérelem kivételével – írásban lehet előterjeszteni.
+
+(2) A külföldön tartózkodó ügyfél a kérelmet a Magyar Országos Közjegyzői Kamara (a továbbiakban: Kamara) által tanúsítvánnyal ellátandó közokirat kivételével, a konzuli védelemre vonatkozó jogszabályok rendelkezéseivel összhangban a külföldi tartózkodási helye szerint illetékes konzuli tisztviselőnél is benyújthatja.
+
+(3) A kérelem kormányablaknál nem terjeszthető elő.
+
+### 3. §
+
+(1) A kérelemnek tartalmaznia kell:
+
+a) a kérelmező nevét, megnevezését és lakóhelyét, székhelyét,
+
+b) a tanúsítvánnyal ellátni kért közokiratot kiállító szerv vagy személy megnevezését,
+
+c) a tanúsítvánnyal ellátni kért közokirat ügyszámát vagy az azonosítására alkalmas más adatot és
+
+d) a tanúsítvánnyal ellátni kért közokirat felhasználási államát.
+
+(2) A kérelemmel több közokirat tanúsítvánnyal történő ellátása is kérhető, ha a kérelem az egyes közokiratokhoz kapcsolódóan külön-külön tartalmazza az (1) bekezdés *b)–d)* pontja szerinti adatokat.
+
+(3) A kérelem a tanúsítványt kiállító szerv által rendelkezésre bocsátott nyomtatványon is előterjeszthető. A tanúsítványt kiállító szerv a nyomtatvány mintáját a honlapján közzéteszi.
+
+(4) A kérelemhez mellékelni kell a tanúsítvánnyal ellátni kért eredeti közokiratot, elektronikus közokirat esetében annak papíralapú hiteles másolatát.
+
+(5) A Kamarát megillető díj megfizetéséről szóló igazolást a kérelemhez mellékelni kell.
+
+### 4. §
+
+(1) Ha a tanúsítvány kiállításához előzőleg a közokiratnak valamely szerv által végzett felülhitelesítése (a továbbiakban: közbenső felülhitelesítés) szükséges, a tanúsítványt kiállító szerv a közokirat külföldi felhasználhatósága érdekében a tanúsítvány kiállításával e szerv hitelesítő záradékának felülhitelesítését végzi el. A közbenső felülhitelesítésre vonatkozó információkat a tanúsítványt kiállító szerv a honlapján közzéteszi.
+
+(2) Egy szerv közbenső felülhitelesítése akkor fogadható el, ha az általa felügyelt vagy irányított szerv aláírás- és bélyegzőlenyomat-mintájával rendelkezik. Ilyen esetben a felügyelt vagy irányított szerv aláírás- és bélyegzőlenyomat-mintáját a tanúsítványt kiállító szervnek nem kell beszereznie.
+
+(3) Ha a Tvr. 3. § (1) bekezdés *a)* pontja szerinti közokirat tanúsítvánnyal történő ellátása iránti kérelmet konzuli tisztviselőnél nyújtják be és a tanúsítvány kiállítását megelőzően a közokiratot közbenső felülhitelesítéssel is el kell látni, a tanúsítványt kiállító szerv intézkedik a közokiratnak a közbenső felülhitelesítést végző szervhez történő eljuttatása iránt. A közbenső felülhitelesítés szükségességéről és feltételeiről az ügyfelet előzetesen tájékoztatni kell.
+
+### 5. §
+
+(1) A tanúsítvány tartalmát és formáját e rendelet 1. melléklete határozza meg.
+
+(2) A tanúsítványt magyar nyelven kell kiállítani, amely mellett az angol nyelv is használható.
+
+(3) A tanúsítványt a közokiratra kell rávezetni vagy ahhoz kell hozzáfűzni, és a kiállító szerv bélyegzőjének lenyomatával kell ellátni.
+
+### 6. §
+
+(1) A tanúsítványt kiállító szerv jogosult a tanúsítvánnyal ellátni kért közokiratot kiállító vagy azt közbenső felülhitelesítéssel ellátó szervnél vagy személynél ellenőrizni a közokirat, az azokon szereplő aláírás vagy bélyegzőlenyomat valódiságát, valamint a kiállításra való jogosultságot.
+
+(2) A tanúsítvánnyal ellátni kért hiteles fordítást készítő személynek vagy szervnek a hiteles fordítás készítésére külön jogszabály alapján fennálló jogosultságát a tanúsítványt kiállító szerv ellenőrzi.
+
+### 7. §
+
+(1) A tanúsítvány kiállításához szükséges aláírás- és bélyegzőlenyomat-mintákat az aláírásra való jogosultság keletkezésétől, illetve a bélyegzőlenyomat változásától számított tizenöt napon belül, megküldi
+
+a) a Tvr. 3. § (1) bekezdés *a)* pontja szerinti közokiratokat kiállító szerv vagy személy az igazságügyért felelős miniszternek,
+
+b) a Tvr. 3. § (1) bekezdés *b)* pontja szerinti közokiratokat kiállító szerv vagy személy a Kamarának,
+
+c) minden olyan, a Tvr. 3. § (1) bekezdés *c)* pontja szerinti közokiratot kiállító szerv vagy személy, amely rendszeresen állít ki vagy lát el közbenső felülhitelesítéssel külföldön felhasználni kívánt közokiratot vagy lát el külön jogszabály alapján hiteles fordítással ilyen közokiratot, a külpolitikáért felelős miniszternek.
+
+(2) Nem terheli az (1) bekezdés szerinti kötelezettség a szakfordításról és tolmácsolásról szóló 24/1986. (VI. 26.) MT rendelet 6/A. §-a alapján hiteles fordítás készítésére jogosult személyt.
+
+(3) Az (1) bekezdés *c)* pontjának alkalmazásában azok a szervek minősülnek külföldön felhasználni kívánt közokiratot rendszeresen kiállító vagy közbenső felülhitelesítéssel ellátó, illetve ilyen közokiratot rendszeresen, külön jogszabály alapján hiteles fordítással ellátó szervnek, amelyek közokiratait vagy közbenső felülhitelesítéseit, illetve hiteles fordításait a külpolitikáért felelős miniszter két egymást követő félévben legalább két-két alkalommal tanúsítvánnyal látta el. A külpolitikáért felelős miniszter erről az érdekelt szerveket írásban tájékoztatja, a megkeresett szervek (1) bekezdésben előírt kötelezettsége az értesítés kézhezvételétől áll fenn.
+
+(4) Ha a tanúsítvány kiállításához szükséges aláírás- és bélyegzőlenyomat-minta nem áll rendelkezésre, azok beszerzése iránt a tanúsítványt kiállító szerv haladéktalanul intézkedik. A megkeresett szerv az aláírás- és bélyegzőlenyomat-mintát a megkeresés kézhezvételétől számított nyolc napon belül köteles megküldeni a tanúsítványt kiállító szervnek.
+
+(5) Nincs helye a (4) bekezdés szerinti intézkedésnek, ha a kérelmező a hiteles fordítás tanúsítvánnyal történő ellátása iránti kérelemhez egyidejűleg mellékeli a hiteles fordítást készítő személynek vagy szerv vezetőjének a közjegyző által hitelesített aláírását és bélyegzőlenyomatát, továbbá szükség esetén a hiteles fordítás készítésére való jogosultságot igazoló okiratot vagy annak közjegyző által hitelesített másolatát.
+
+(6) A tanúsítványt kiállító szerv a honlapján megjelenteti azon hiteles fordítást készítő személyek és szervek felsorolását, amelyek aláírás- és bélyegzőlenyomat-mintái a rendelkezésére állnak.
+
+## 3. Az Egyezményben nem részes államokban felhasználásra szánt közokiratok hitelesítésének szabályai
+
+### 8. §
+
+(1) A külpolitikáért felelős miniszter az Egyezményben nem részes államokban felhasználásra szánt közokiratok felülhitelesítése során a konzuli védelemről szóló 2001. évi XLVI. törvényben (a továbbiakban: konzuli védelemről szóló törvény) megállapított eltérésekkel, továbbá a 2. § (2) bekezdés és az 5. § (1) bekezdés kivételével a 2. alcímben meghatározott szabályok szerint jár el.
+
+(2) Az igazságügyért felelős miniszter és a Kamara a konzuli védelemről szóló törvény 15. § (5) bekezdése szerinti közbenső hitelesítési záradék kiállítása során a 2. § (2) bekezdés és az 5. § (1) bekezdés kivételével a 2. alcím szerinti szabályok szerint jár el.
+
+## 4. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2018. január 1. napján lép hatályba.
+
+### 10. §
+
+E rendelet rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+## 1. melléklet a 468/2017. (XII. 28.) Korm. rendelethez
+
+**APOSTILLE**
+
+(Convention de la Haye du 5 octobre 1961)
+
+1\. Ország:
+
+Country:
+
+Ezt a közokiratot
+
+This public document
+
+2\. írta alá:
+
+has been signed by:
+
+3\. minőségében eljárva:
+
+acting in the capacity of:
+
+4\. Az okirat
+
+pecsétjével (bélyegzőlenyomatával) van ellátva.
+
+bears the seal/stamp of:
+
+Tanúsítja
+
+Certified
+
+5\. helység:
+
+at:
+
+6\. időpont: ........ (év) ........... (hónap) .......... (nap)
+
+date: ........ (year) ........... (month) ........... (day)
+
+7\. kiállító:
+
+by:
+
+8\. Ügyszám:
+
+No.:
+
+9\. Pecsét (bélyegzőlenyomat)
+
+Seal/stamp:
+
+10\. Aláírás:
+
+Signature:

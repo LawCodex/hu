@@ -1,0 +1,206 @@
+---
+title: "389/2017. (XII. 13.) Korm. rendelet a nemzetközi közigazgatási szakértői tevékenységről"
+identifier: "389/2017. (XII. 13.) Korm. rendelet"
+njt_id: "2017-389-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/389"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-13
+in_force_from: 2018-01-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-389-20-22"
+retrieved: 2026-10-12
+---
+
+# 389/2017. (XII. 13.) Korm. rendelet a nemzetközi közigazgatási szakértői tevékenységről
+
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 20. pontjában, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 19. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1.[^1] *foglalkoztatott:* a kormánytisztviselő, a köztisztviselő, a rendvédelmi igazgatási alkalmazott és a hivatásos állomány tagja, a polgári nemzetbiztonsági szolgálat foglalkoztatottja, továbbá a Nemzeti Adó- és Vámhivatal foglalkoztatottja,
+
+2.[^2] *közreműködő szervezet:* a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet,
+
+3.[^3] *más foglalkoztatási jogviszony:* kormánytisztviselő esetén a kormányzati szolgálati jogviszonyon, köztisztviselő esetén a közszolgálati jogviszonyon, hivatásos állomány tagja esetén a hivatásos szolgálati jogviszonyon, a rendvédelmi igazgatási alkalmazott esetében a rendvédelmi igazgatási szolgálati jogviszonyon, a polgári nemzetbiztonsági szolgálat foglalkoztatottja esetében a nemzetbiztonsági szolgálati jogviszonyon, a nemzetbiztonsági alkalmazott esetén a nemzetbiztonsági alkalmazotti jogviszonyon, a Nemzeti Adó- és Vámhivatal foglalkoztatottja esetében az adó- és vámhatósági szolgálati jogviszonyon kívüli minden, munkavégzésre irányuló jogviszony,
+
+4.[^4] *nemzetközi közigazgatási szakértői tevékenység:* a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 6. § 3a. pontja szerinti, a Nemzeti Adó- és Vámhivatal személyi állománya jogállásáról szóló 2020. évi CXXX. törvény (a továbbiakban: NAV Szj. tv.) 3. § (1) bekezdés 23. pontja szerinti, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 2. § 17a. pontja szerinti, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény 6. § 18. pontja szerinti tevékenység,
+
+5\. *szakértő:* a nemzetközi közigazgatási szakértői tevékenységet ellátó foglalkoztatott.
+
+## 2. A nemzetközi közigazgatási szakértői tevékenység tartalma és típusai
+
+### 2. §
+
+(1) A nemzetközi közigazgatási szakértői tevékenységet ellátó foglalkoztatott e tevékenységét a nemzetközi színvonalú hazai állami digitális megoldások külföldi országokban történő bevezetésének támogatása érdekében végzi.
+
+(2) A nemzetközi közigazgatási szakértői tevékenység befejezésekor – vagy ha a tevékenységet nem folyamatosan, hanem megszakításokkal végzi, a szakértői tevékenységen kívüli időszakokban – a foglalkoztatott a nemzetközi közigazgatási szakértői tevékenységet megelőzően általa betöltött munkakörben vagy szolgálati beosztásban kerül továbbra is foglalkoztatásra.
+
+### 3. §
+
+A nemzetközi közigazgatási szakértői tevékenység irányulhat
+
+a) a digitális megoldás bemutatására, ismertetésére, a bevezetéssel kapcsolatos projekttervezésre, költségbecslések készítésére,
+
+b) a digitális megoldás bevezetésének technikai támogatására, a hazai alkalmazás során megismert tapasztalatok átadására, a gyakorlati végrehajtás során fellépő lehetséges nehézségek kiküszöbölésére irányuló eljárások megosztására.
+
+### 4. §
+
+A nemzetközi közigazgatási szakértői tevékenység az időtartama alapján lehet
+
+a) rövid távú, ha a tevékenységre fordított idő 6 hónap alatt együttesen nem haladja meg a 14 napot,
+
+b) középtávú, ha a tevékenységre fordított idő 6 hónap alatt együttesen a 14 napot meghaladja, de nem haladja meg a 60 napot,
+
+c) hosszú távú, ha a tevékenységre fordított idő 6 hónap alatt együttesen meghaladja a 60 napot.
+
+### 5. §[^5]
+
+(1) A nemzetközi közigazgatási szakértői tevékenység ellátására
+
+a) más foglalkoztatási jogviszony keretében vagy
+
+b) célfeladat ellátásával
+
+kerülhet sor.
+
+(2) A célfeladat ellátásának időtartama a tárgyévben a hat hónapot nem haladhatja meg. A célfeladat eredményes végrehajtásáért a céljuttatást a közigazgatási szerv előlegezi meg.
+
+(3) A célfeladat meghatározása a munkáltató, valamint a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti megállapodáson alapul. A megállapodás tartalmazza különösen a nemzetközi közigazgatási szakértői tevékenység meghatározását, a végrehajtással kapcsolatos szabályokat, a végrehajtásban részt vevő foglalkoztatott részére járó díjazást és költségtérítést, valamint az elszámolás rendjét.
+
+## 3. A más foglalkoztatási jogviszony keretében végzett nemzetközi közigazgatási szakértői tevékenység
+
+### 6. §
+
+(1) A foglalkoztatott a más foglalkoztatási jogviszony keretében végzett nemzetközi közigazgatási szakértői tevékenységre irányuló, a közreműködő szervezettel megkötendő kétoldalú megállapodás tervezetét a munkáltatója vagy állományilletékes parancsnoka (a továbbiakban együtt: munkáltató) részére a megállapodás aláírását megelőzően – legalább a nemzetközi közigazgatási szakértői tevékenység megkezdését megelőző 30 nappal – benyújtja.
+
+(2) A megállapodás tervezetének a munkáltatói előzetes engedélyezés elbírálásához kötelezően tartalmaznia kell
+
+a) az ellátandó nemzetközi közigazgatási szakértői tevékenység leírását,
+
+b) annak bemutatását, hogy a foglalkoztatott mely korábbi tevékenysége alapján venne részt a nemzetközi közigazgatási szakértői tevékenységben,
+
+c) a szakértő tervezett díjazásának tételes bemutatását,
+
+d) a nemzetközi közigazgatási szakértői tevékenység időtartamát, valamint azt, hogy arra folyamatosan vagy megszakításokkal több ütemben kerül sor, utóbbi esetben az ütemezések tervezett időpontját,
+
+e) azon ország megjelölését, ahol a foglalkoztatott a nemzetközi közigazgatási szakértői tevékenységet ellátná,
+
+f) a más foglalkoztatási jogviszony szerinti foglalkoztató szervezetet.
+
+### 7. §
+
+A megállapodás munkáltatóhoz történő benyújtásával egyidejűleg a foglalkoztatott tájékoztatja munkáltatóját arról is, hogy a nemzetközi közigazgatási szakértői tevékenységet
+
+a)[^6] a Kttv. 100. § (1) bekezdése, a NAV Szj. tv. 110. §-a, a Hszt. 142. § (1) bekezdése vagy a Hszt. 289/O. § (1) bekezdése szerinti alap- és pótszabadság igénybevételével kívánja ellátni,
+
+b)[^7] – az erre irányuló kérelem munkáltatóhoz történő egyidejű benyújtásával – a Kttv. 113. § (5) bekezdése alapján fizetés nélküli szabadság vagy a Hszt. 150. § (4) bekezdése vagy 289/R. § (10) bekezdése, valamint a NAV Szj. tv. 124. § (1) bekezdés e) pontja alapján illetmény nélküli szabadság igénybevételével kívánja ellátni,
+
+c)[^8] – az erre irányuló kérelem munkáltatóhoz történő egyidejű benyújtásával – a Kttv. 79. § l) pontja vagy a NAV Szj. tv. 85. § (1) bekezdés n) pontja alapján a munkavégzési kötelezettség alóli mentesülés vagy a Hszt. 105. § (1) bekezdés h) pontja alapján a szolgálatteljesítési kötelezettség alóli mentesülés alapján kívánja ellátni, vagy
+
+d) – ha a szakértői tevékenység ellátása nem érinti a munkaidőt vagy szolgálatteljesítési időt – az *a)–c)* pont alkalmazása nélkül kívánja ellátni.
+
+### 8. §
+
+(1) A munkáltató a megállapodástervezet, valamint a 7. § szerinti tájékoztatás – és a 7. § b) vagy c) pontja szerinti kérelem benyújtása esetén az abban foglaltak – alapján dönt a megállapodás előzetes engedélyezése tárgyában, ennek keretében mérlegeli a foglalkoztatott munkaköri feladatainak a nemzetközi közigazgatási szakértői tevékenység időtartama alatti ellátásával kapcsolatos kérdéseket, valamint azokat az esetleges kockázatokat, amelyeknek a nemzetközi közigazgatási szakértői tevékenység során az érintett ki lehet téve.
+
+(2) A munkáltató a döntés előkészítése során 8 napos határidővel a külpolitikáért felelős miniszter tájékoztatását kérheti az érintett országgal vagy – ha rendelkezésére áll ilyen információ – a külföldi foglalkoztató szervezettel kapcsolatos korrupciós és egyéb kockázatokkal összefüggő adatok beszerzése érdekében.
+
+### 9. §
+
+(1) A munkáltató legkésőbb a megállapodás előzetes engedélyezésével egyidejűleg dönt az esetlegesen a 7. § b) vagy c) pontja alapján benyújtott kérelem tárgyában. Ha a munkáltató a kérelmet elutasítja, de a megállapodás előzetes engedélyezése tárgyában még nem hozott döntést, akkor a foglalkoztatottat nyilatkoztatni kell arról, hogy a megállapodás előzetes engedélyezését továbbra is kéri-e. Ha a foglalkoztatott nem tesz nyilatkozatot, vagy a nyilatkoztatására valamely okból nem kerülhet sor, úgy kell tekinteni, hogy az engedélyezést továbbra is kéri.
+
+(2) A munkáltató a megállapodás előzetes engedélyezéséről legkésőbb a megállapodástervezet foglalkoztatott általi benyújtásától számított 25 napon belül, írásban dönt.
+
+(3) Ha a munkáltató engedélyezte a megállapodás megkötését, a foglalkoztatott haladéktalanul köteles tájékoztatni a munkáltatót a megállapodás megkötéséről, vagy ha attól valamelyik fél időközben eláll, ennek tényéről, továbbá arról, ha a nemzetközi közigazgatási szakértői tevékenysége bármely okból befejeződött.
+
+## 4. A célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályok
+
+### 10. §
+
+(1)[^9] A célfeladat keretében tervezett nemzetközi közigazgatási szakértői tevékenység esetében a közreműködő szervezet keresi meg a közigazgatási szervet, rendvédelmi feladatokat ellátó szervet vagy polgári nemzetbiztonsági szolgálatot a megállapodás megkötésének kezdeményezésével. A megkereséshez a közreműködő szervezet csatolja az érintett foglalkoztatottnak a nemzetközi közigazgatási szakértői tevékenység ellátására vonatkozó írásbeli szándéknyilatkozatát.
+
+(2) A munkáltatót a közreműködő szervezet a célfeladattal kapcsolatos megállapodás megkötésére legalább a nemzetközi közigazgatási szakértői tevékenység megkezdését megelőző 35 nappal keresi meg.
+
+(3) A munkáltató nyilatkoztatja a foglalkoztatottat, hogy a nemzetközi közigazgatási szakértői tevékenységet
+
+a)[^10] a Kttv. 100. § (1) bekezdése, a NAV Szj. tv. 110. §-a, a Hszt. 142. § (1) bekezdése vagy a 289/O. § (1) bekezdése szerinti alap- és pótszabadság igénybevételével kívánja ellátni,
+
+b)[^11] a Kttv. 113. § (5) bekezdése alapján fizetés nélküli szabadság vagy a Hszt. 150. § (4) bekezdése, vagy 289/R. § (10) bekezdése, valamint a NAV Szj. tv. 124. § (1) bekezdés e) pontja alapján illetmény nélküli szabadság igénybevételével kívánja ellátni,
+
+c)[^12] a Kttv. 79. § l) pontja vagy a NAV Szj. tv. 85. § (1) bekezdés n) pontja alapján a munkavégzési kötelezettség alóli mentesülés vagy a Hszt. 105. § (1) bekezdés h) pontja alapján a szolgálatteljesítési kötelezettség alóli mentesülés alapján kívánja ellátni, vagy
+
+d) – ha a szakértői tevékenység ellátása nem érinti a munkaidőt vagy szolgálatteljesítési időt – az *a)–c)* pont alkalmazása nélkül kívánja ellátni.
+
+(4) A célfeladattal kapcsolatos megállapodás megkötésére a 8. §-t megfelelően alkalmazni kell.
+
+### 11. §
+
+(1) A közreműködő szervezet és a munkáltató közötti, célfeladattal kapcsolatos megállapodásnak tartalmaznia kell legalább
+
+a) az ellátandó nemzetközi közigazgatási szakértői tevékenység leírását,
+
+b) annak bemutatását, hogy a foglalkoztatott mely korábbi tevékenysége alapján venne részt a nemzetközi közigazgatási szakértői tevékenységben,
+
+c) a nemzetközi közigazgatási szakértői tevékenység időtartamát, valamint azt, hogy arra folyamatosan vagy megszakításokkal több ütemben kerül sor, utóbbi esetben az ütemezések tervezett időpontját,
+
+d) azon ország megjelölését, ahol a foglalkoztatott a nemzetközi közigazgatási szakértői tevékenységet ellátná,
+
+e) a költségek és a szakértő díjazásának tételes és összegszerű bemutatását, valamint a kifizetések várható ütemezését,
+
+f) a munkáltató és a közreműködő szervezet közötti elszámolás időpontjait és rendjét, a források biztosításának módját,
+
+g) a szakértő költségei megtérítésének rendjét.
+
+(2) A költségek között rendezni kell az utazással kapcsolatos költségek, a nemzetközi közigazgatási szakértői tevékenység alatt biztosított szállással kapcsolatos költségek, valamint a szakértő élelmezésével kapcsolatos költségek viselésével kapcsolatos kérdéseket is.
+
+### 12. §
+
+(1) A célfeladat akkor határozható meg, ha a közreműködő szervezet és a munkáltató közötti megállapodás létrejött.
+
+(2)[^13] A munkáltató a célfeladat meghatározásával egyidejűleg dönt arról, hogy a célfeladatot ellátó szakértő részére a nemzetközi közigazgatási szakértői tevékenység idejére a Kttv. 113. § (5) bekezdése alapján fizetés nélküli szabadságot vagy a Hszt. 150. § (4) bekezdése vagy a 289/R. § (10) bekezdése, valamint a NAV Szj. tv. 124. § (1) bekezdés e) pontja alapján illetmény nélküli szabadságot, a Kttv. 79. § l) pontja vagy a NAV Szj. tv. 85. § (1) bekezdés n) pontja alapján a munkavégzési kötelezettség vagy a Hszt. 105. § (1) bekezdés h) pontja alapján szolgálatteljesítési kötelezettség alóli mentesülést engedélyez, vagy a foglalkoztatott a tevékenységet alap- és pótszabadsága terhére, esetleg – ha a szakértői tevékenység ellátása nem érinti a munkaidőt vagy szolgálatteljesítési időt – e jogintézmények alkalmazása nélkül látja el.
+
+(3) A célfeladat keretében a szakértő a közreműködő szervezet feladatszabása és utasításai szerint látja el feladatát, a munkáltató irányítási és utasításadási joggal a célfeladat keretében végzett nemzetközi közigazgatási szakértői tevékenység vonatkozásában nem rendelkezik.
+
+### 13. §
+
+(1) A közreműködő szervezettel kötött megállapodás alapján a nemzetközi közigazgatási szakértői tevékenység ellátásával kapcsolatos díjat a munkáltató fizeti meg a szakértőnek, megelőlegezve a közreműködő szervezet teljesítését. Ezen díjat a közreműködő szervezet a projekt terhére a munkáltató részére utólag megtéríti.
+
+(2) A szakértő költségeinek megtérítése a közreműködő szervezet és a munkáltató közötti megállapodás szerint történik.
+
+(3) A munkáltató és a közreműködő szervezet között az elszámolás legkésőbb a nemzetközi közigazgatási szakértői tevékenység befejezését követő utolsó kifizetéstől számított 60 napon belül történik meg.
+
+(4)[^14] Ha a szakértő a nemzetközi közigazgatási szakértői tevékenységet több részletben hat hónapnál hosszabb időkeretben látja el, akkor a (3) bekezdésben foglaltaktól eltérően a munkáltató és a közreműködő szervezet legalább hathavonta egyszer elszámol.
+
+### 14. §
+
+A nemzetközi közigazgatási szakértői tevékenység ellátásával kapcsolatos teljesítésigazolást a közreműködő szervezet állítja ki a közreműködő szervezet és a munkáltató közötti megállapodásban rögzített ütemezés szerint, de legkésőbb a nemzetközi közigazgatási szakértői tevékenység befejezését követő 15 napon belül. A munkáltató a szakértő díjazásának kifizetését csak a teljesítésigazolás alapján teljesítheti.
+
+## 5. Záró rendelkezések
+
+### 15. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § 1. pontja a 24/2025. (II. 27.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 3. pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § b) pontja, a 24/2025. (II. 27.) Korm. rendelet 70. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 4. pontja a 24/2025. (II. 27.) Korm. rendelet 69. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § a 11/2019. (II. 5.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^6]: A 7. § a) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § d) pontja szerint módosított szöveg.
+[^7]: A 7. § b) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § e) pontja szerint módosított szöveg.
+[^8]: A 7. § c) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § f) pontja szerint módosított szöveg.
+[^9]: A 10. § (1) bekezdése a 24/2025. (II. 27.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^10]: A 10. § (3) bekezdés a) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § d) pontja szerint módosított szöveg.
+[^11]: A 10. § (3) bekezdés b) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § e) pontja szerint módosított szöveg.
+[^12]: A 10. § (3) bekezdés c) pontja a 672/2020. (XII. 28.) Korm. rendelet 112. § f) pontja szerint módosított szöveg.
+[^13]: A 12. § (2) bekezdése a 11/2019. (II. 5.) Korm. rendelet 6. § (5) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § e) és f) pontja szerint módosított szöveg.
+[^14]: A 13. § (4) bekezdése a 11/2019. (II. 5.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.

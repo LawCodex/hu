@@ -1,0 +1,164 @@
+---
+title: "144/2011. (VII. 27.) Korm. rendelet a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról"
+identifier: "144/2011. (VII. 27.) Korm. rendelet"
+njt_id: "2011-144-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/144"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-07-27
+in_force_from: 2011-08-04
+last_amended: 2022-09-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-144-20-22"
+retrieved: 2026-10-12
+---
+
+# 144/2011. (VII. 27.) Korm. rendelet a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról
+
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § l) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában és *b)* pont *bb)* alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában:
+
+1.[^1] *nukleáris termék:* az (EU) 2021/821 európai parlamenti és tanácsi rendeletI. melléklete „0 kategóriájában” szereplő termékek,
+
+2.[^2] *nukleáris kettős felhasználású termék:* az (EU) 2021/821 európai parlamenti és tanácsi rendeletI. melléklete 1–9. kategóriáiban felsorolt a 200–299 végződésű sorszámok alatt szereplő termékek,
+
+3.[^3] *nukleáris transzfer:* az (EU) 2021/821 európai parlamenti és tanácsi rendeletIV. melléklete II. részében felsorolt NSG technológia tételnek az Európai Unió vámterületén belüli átadása,
+
+4\. *nukleáris fegyverrel rendelkező ország:* azon ország, amely 1967. január 1-jét megelőzően nukleáris robbanószerkezetet előállított és felrobbantott.
+
+5.[^4] *végfelhasználó:* az a személy, aki az e rendelet hatálya alá tartozó ügylet eredményeképpen a terméket ténylegesen használja.
+
+## 2. §
+
+(1) Nukleáris termékeknek nukleáris fegyverrel nem rendelkező országba történő kivitelének egyedi exportengedélyezésére irányuló eljárásban az Országos Atomenergia Hivatal (a továbbiakban: OAH) szakhatósági állásfoglalásában a hozzájárulás megadásához az alábbi feltételek teljesülését vizsgálja:
+
+a) az importáló ország minden békés célú nukleáris tevékenysége a Nemzetközi Atomenergia Ügynökség (a továbbiakban: NAÜ) teljes körű biztosítéki ellenőrzése alatt áll, kivéve a Nukleáris Szállítók Csoportja által jóváhagyott felmentéseket;
+
+b) az importáló ország hatáskörrel rendelkező állami szerve írásban kötelezettséget vállal arra, hogy a nukleáris terméket, továbbá minden, e termék felhasználásával előállított további nukleáris terméket:
+
+ba) nem használja fel nukleáris fegyverek és más nukleáris robbanószerkezetek előállítására;
+
+bb) aláveti – azok fennmaradásának teljes időtartamára – a NAÜ Alapokmányában meghatározott biztosítékoknak;
+
+bc) fizikai védelem alá helyezik a jogtalan hozzáférés és felhasználás megakadályozása céljából olyan módon, hogy a védelem mértéke kielégítse a NAÜ erre vonatkozó ajánlásait;
+
+c) az importáló ország hatáskörrel rendelkező állami szerve írásban kötelezettséget vállal arra, hogy a *b)* pontban meghatározott termék reexportja esetén a *ba)–bc)* alpontban meghatározott feltételek teljesítését kiköti és az OAH külön hozzájárulását kéri, ha nem követeli meg az export engedélyezésének feltételeként, hogy a fogadó ország teljes nukleáris tevékenysége a NAÜ biztosítéki ellenőrzése alatt álljon; továbbá
+
+d) az importáló ország hatáskörrel rendelkező állami szerve írásban kötelezettséget vállal arra, hogy az OAH külön hozzájárulását kéri urándúsító létesítmények, üzemanyag-újrafeldolgozó létesítmények és nehézvíz-előállító létesítmények, főbb berendezések és technológia reexportjához, azok felhasználásával készült termékek exportjához, valamint nehézvíz vagy a fegyvertisztaságú nukleáris anyagok reexportjához.
+
+(2) Az (1) bekezdés b) pont bc) alpontja szerinti fizikai védelem mértékét, valamint a szállítás során a felelősség átadásának helyét a szállító és fogadó közötti megállapodásban írásban kell rögzíteni.
+
+(3) Urándúsító létesítményeknek vagy a hozzájuk kapcsolódó technológiának nukleáris fegyverrel nem rendelkező országba való kivitele esetén a fogadó ország hatáskörrel rendelkező állami szervének arra is kötelezettséget kell vállalnia, hogy sem az importált létesítményt, sem bármely más, e technológián alapuló létesítményt nem tervez, és nem működtet 20%-nál nagyobb dúsítású urán termelésére az OAH hozzájárulása nélkül. Az OAH hozzájárulásáról a NAÜ-t tájékoztatni kell.
+
+## 3. §
+
+Nukleáris termékek nukleáris fegyverrel rendelkező országba történő kivitelének engedélyezésére irányuló eljárásban a szakhatósági hozzájárulás megadásához az OAH a 2. § (1) bekezdés c) és d) pontjában leírt feltételek teljesülését vizsgálja.
+
+## 4. §[^5]
+
+(1) Nukleáris kettős felhasználású termékeknek nukleáris fegyverrel nem rendelkező országba történő kivitelének exportengedélyezésére irányuló eljárásban az OAH szakhatósági állásfoglalásában a hozzájárulás megadásának feltétele, hogy a végfelhasználó írásban kötelezettséget vállaljon az alábbiakra:
+
+a) a termékeket vagy azok másolatát nem használja fel nukleáris fegyverek és más nukleáris robbanószerkezetek előállítására;
+
+b) a termékeket vagy azok másolatát nem használja fel nukleáris üzemanyagciklushoz tartozó, biztosítéki ellenőrzés alatt nem álló tevékenységben; és
+
+c) az importált termékeket vagy a termékek másolatát nem reexportálja, továbbá nem adja át harmadik félnek az OAH írásbeli hozzájárulása nélkül.
+
+(2) Ha az importáló ország nem tagja a Nukleáris Szállítók Csoportjának, és nem teljesülnek az (1) bekezdés c) pontjában meghatározott feltételek, akkor az OAH szakhatósági hozzájárulása megadásának feltétele, hogy az importáló ország illetékes állami szerve írásban kötelezettséget vállaljon arra, hogy az importált terméket vagy a termékek másolatát nem reexportálja, továbbá nem adja át harmadik félnek az OAH írásbeli hozzájárulása nélkül.
+
+## 5. §[^6]
+
+A nukleáris kettős felhasználású termékek nukleáris fegyverrel rendelkező országba történő kivitelének engedélyezésére irányuló eljárásban a szakhatósági hozzájárulás megadásához az OAH a 4. § (1) bekezdés c) pontjában és a 4. § (2) bekezdésében leírt feltételek teljesülését vizsgálja.
+
+## 6. §
+
+Az OAH szakhatósági állásfoglalás kiadásakor vizsgálja a Végfelhasználói Nyilatkozat meglétét és annak tartalmát.
+
+## 7. §
+
+(1)[^7] A nukleáris transzfer engedély iránti kérelem esetében az OAH a szakhatósági állásfoglalás kialakítása során a 6. §, valamint a 8. § rendelkezései alkalmazásával jár el.
+
+(2) A nukleáris transzfert megelőzően a magyarországi szerződő félnek írásban be kell jelentenie a szállításra vonatkozó szerződés megkötésének tényét az OAH-nak. A tájékoztatásnak tartalmaznia kell a szállítandó termék megnevezését, mennyiségét, értékét, tervezett felhasználási helyét, valamint a szállítás tervezett időpontját.
+
+## 8. §
+
+(1) Az OAH a nukleáris termékek és nukleáris kettős felhasználású termékek kivitelére, valamint a nukleáris transzferre vonatkozó szakhatósági állásfoglalásának kialakítása során az alábbi feltételek teljesülését is vizsgálja:
+
+a)[^8] a szállítás összhangban van-e azon nukleáris exportellenőrzéssel foglalkozó nemzetközi rendszerek irányelveivel, amelyekhez Magyarország csatlakozott,
+
+b) a szállítás nincs-e ellentétben a nukleáris fegyverek elterjedésének megakadályozására irányuló célkitűzéssel, és
+
+c) a fogadó ország gyakorlata összhangban van-e a nukleáris fegyverek elterjedésének megakadályozására irányuló nemzetközi erőfeszítésekkel.
+
+(2) Az OAH a szakhatósági állásfoglalásában a hozzájárulást nem adja meg, amennyiben az (1) bekezdésben foglalt feltételek valamelyike nem teljesül.
+
+(3)[^9] Az OAH az exportengedély visszavonását kezdeményezi, ha az importáló ország vagy a végfelhasználó a 2–5. §-ban foglaltak alapján vállalt kötelezettségeit megszegi. A kivitel ebbe az országba vagy ezen végfelhasználónak mindaddig nem engedélyezhető, amíg az importáló ország vagy a végfelhasználó a vállalt kötelezettségeinek eleget nem tesz.
+
+## 9. §
+
+(1) Az OAH a nukleáris termékek Nemzetközi importigazolásához szükséges szakhatósági állásfoglalásának kialakítása során megvizsgálja, hogy a hazai végfelhasználó mindenben megfelel-e a NAÜ Alapokmányában meghatározott biztosítéki követelményeknek, valamint a 8. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek.
+
+(2)[^10] Amennyiben a nukleáris termékek vagy a nukleáris kettős felhasználású termékek Magyarország területére történő behozatalához az exportáló ország a 2. § (1) bekezdés b) pontjában meghatározott tartalmú állami kötelezettségvállalást kér, annak kiadására az OAH jogosult. Ehhez – jogszabályban meghatározott hatáskörében eljárva – az OAH megvizsgálja, hogy a hazai végfelhasználó mindenben megfelel-e a 2. § (1) bekezdés b) pontja szerinti feltételeknek.
+
+(3) A (2) bekezdés alapján kiadott állami kötelezettségvállalás esetében az OAH ellenőrizheti a vállalt kötelezettségek teljesülését.
+
+## 10. §[^11]
+
+A nukleáris termékeknek e rendelet hatálya alá tartozó behozatala, kivitele és transzferje megtörténtét követő nyolc napon belül, valamint a nukleáris kettős felhasználású termékeknek e rendelet hatálya alá tartozó kivitele és transzferje megtörténtét minden naptári negyedévet követő harminc napon belül a magyarországi szerződő félnek e tényről a termék megnevezése, mennyisége, a tervezett felhasználás helye, valamint a szállítás dátuma feltüntetésével írásban tájékoztatnia kell az OAH-t.
+
+## 11. §
+
+A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 22. § (3)–(6) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Kormány a Hivatalnak a nukleáris termékek nukleáris fegyverrel nem rendelkező országba történő exportjának engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 144/2011. (VII. 27.) Korm. rendelet 2. §-ában és 8. §-ában meghatározott feltételek teljesültek-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.
+
+(4) A Kormány a Hivatalnak a nukleáris termékek exportjának engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 144/2011. (VII. 27.) Korm. rendelet 3. §-ában és 8. §-ában meghatározott feltételek teljesültek-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.
+
+(5) A Kormány a Hivatalnak a nukleáris kettős felhasználású termékek exportjának engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 144/2011. (VII. 27.) Korm. rendelet 4. §-ában, 5. §-ában és 8. §-ában meghatározott feltételek teljesültek-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.
+
+(6) A Kormány a Hivatalnak a nukleáris termékek Magyarország területéről az Európai Unió másik tagállamába, illetve az Európai Unió másik tagállamának területéről Magyarországra történő szállításának és a nukleáris kettős felhasználású termékek Magyarország területéről az Európai Unióba történő szállításának az engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 144/2011. (VII. 27.) Korm. rendelet 7. §-ában és 8. §-ában meghatározott feltételek teljesültek-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.”
+
+## 12. §
+
+Hatályát veszti:
+
+a) a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 263/2004. (IX. 23.) Korm. rendelet, valamint
+
+b) az egyes kormányrendeleteknek a naptári napban való határidő-számítással összefüggésben történő módosításáról szóló 289/2010. (XII. 21.) Korm. rendelet 3. § (60) bekezdése.
+
+## 13. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+## 14. §
+
+E rendeletet a hatálybalépését követően indult eljárásokra kell alkalmazni.
+
+## 15. §[^12]
+
+Ez a rendelet
+
+a) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet,
+
+b) a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és a tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. § 1. pontja a 360/2022. (IX. 19.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 2. pontja a 360/2022. (IX. 19.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 3. pontja a 360/2022. (IX. 19.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 5. pontját a 360/2022. (IX. 19.) Korm. rendelet 18. §-a iktatta be.
+[^5]: A 4. § a 360/2022. (IX. 19.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^6]: Az 5. § a 360/2022. (IX. 19.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 12. §-ával megállapított, a 360/2022. (IX. 19.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdés a) pontja a 304/2011. (XII. 23.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^9]: A 8. § (3) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^10]: A 9. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^11]: A 10. § a 360/2022. (IX. 19.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^12]: A 15. § a 360/2022. (IX. 19.) Korm. rendelet 22. §-ával megállapított szöveg.

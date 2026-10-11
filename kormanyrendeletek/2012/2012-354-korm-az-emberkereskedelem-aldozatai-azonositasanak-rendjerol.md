@@ -1,0 +1,307 @@
+---
+title: "354/2012. (XII. 13.) Korm. rendelet az emberkereskedelem áldozatai azonosításának rendjéről"
+identifier: "354/2012. (XII. 13.) Korm. rendelet"
+njt_id: "2012-354-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/354"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-12-13
+in_force_from: 2013-01-01
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-354-20-22"
+retrieved: 2026-10-12
+---
+
+# 354/2012. (XII. 13.) Korm. rendelet az emberkereskedelem áldozatai azonosításának rendjéről
+
+A Kormány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 46. § (4) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az emberkereskedelem áldozatává vált személy azonosítására irányuló eljárás szabályai
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1.[^1] *Azonosítást végző szerv:* az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, a személyes gondoskodást nyújtó szolgáltató, a köznevelési intézmény, a rendőrség, a foglalkoztatás-felügyeleti hatóság, a konzuli tisztviselő, az idegenrendészeti hatóság, a menekültügyi hatóság, az áldozatsegítő szolgálat, az Országos Kríziskezelő és Információs Telefonszolgálat (a továbbiakban: OKIT),, a pártfogó felügyelői szolgálat és a jogi segítségnyújtó szolgálat.
+
+2\. *Azonosító beszélgetés:* az emberkereskedelem áldozataként történő beazonosítást célzó beszélgetés az 1. mellékletben meghatározott azonosító adatlap segítségével.
+
+2a.[^2] *Biztonságos szállás:* lakás céljára alkalmas, az azonosító beszélgetésbe bevont személy sérelmére elkövetett emberkereskedelem feltételezett elkövetője számára ismeretlen helyen lévő ingatlanban található lakás, lakrész vagy helyiség, amely biztosítja a beszélgetésbe bevont személy biztonságos lakhatását.
+
+2b.[^3] *Közvetett áldozat:* az emberkereskedelem áldozataként azonosított személy kiskorú gyermeke.
+
+3\. *Önkéntesen közreműködő szervezet:* az a nem állami, vagy önkormányzati fenntartású jogi személy, valamint jogi személyiség nélküli szervezet, amely működése során olyan magyar állampolgárról vagy a szabad mozgás és tartózkodás jogával rendelkező személyről szerez tudomást, akiről alappal feltehető, hogy az emberkereskedelem áldozata.
+
+4.[^4] *Védett szálláshely:* az emberkereskedelem áldozataként azonosított személyt befogadó intézmény.
+
+### 2. §
+
+(1) Amennyiben az azonosítást végző szerv hatáskörébe tartozó eljárása során vagy egyébként olyan magyar állampolgárra, vagy a szabad mozgás és tartózkodás jogával rendelkező személyre vonatkozóan, akiről alappal feltehető, hogy az emberkereskedelem áldozata, ezen helyzetről hivatalos tudomást szerez vagy azt egyébként észleli, vele azonosító beszélgetést folytat le.
+
+(2)[^5] Ha az azonosítást végző szerv nem a beszélgetésbe bevont személy pillanatnyi tartózkodási helye szerint illetékes, áldozatsegítő szolgálatként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: területi áldozatsegítő szolgálat), és az azonosítást végző szerv megállapítja, hogy a beszélgetésbe bevont személy valószínűsíthetően emberkereskedelem áldozata, erről a tényről az azonosító adatlapnak az Igazságügyi Minisztérium által országosan, egységesen működtetett webalapú rendszeren (a továbbiakban: Rendszer) keresztül történő egyidejű megküldésével, haladéktalanul értesíti a területi áldozatsegítő szolgálatot, magyar állampolgárral külföldön lefolytatott azonosító beszélgetés esetén az áldozatsegítő szolgálatként eljáró Budapest Főváros Kormányhivatalát. A területi áldozatsegítő szolgálat a nem a Rendszeren keresztül beérkezett, valamint az általa az azonosítás során felvett azonosító adatlapokat is haladéktalanul rögzíti a Rendszerbe. Az adatlapoknak a Rendszerben történő rögzítésére minden esetben az érintett személy írásos hozzájárulása esetén kerül sor.
+
+(3)[^6] Ha az azonosító beszélgetés során az azonosítást végző szerv azt állapítja meg, hogy az áldozat biztonságos szállással nem rendelkezik, a (2) bekezdésben meghatározott intézkedésen túl, az áldozat erre irányuló írásos hozzájárulása esetén, az azonosító adatlap egyidejű megküldésével, haladéktalanul értesíti az OKIT-ot.
+
+(4) Ha az azonosító beszélgetés alapján valószínűsíthető, hogy az emberkereskedelem áldozataként azonosított személynek egészségügyi ellátásra van szüksége, és nincs szükség a (3) bekezdésben meghatározott intézkedésre, az azonosítást végző szerv a (2) bekezdésben meghatározott intézkedésen túl az áldozat írásos beleegyezése esetén az áldozatot az egészségügyi alapellátást biztosító szervhez irányítja.
+
+(5) Ha az azonosító beszélgetés alapján valószínűsíthető, hogy az emberkereskedelem áldozataként azonosított személy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § a) pontja szerint gyermek, az azonosítást végző szerv haladéktalanul kezdeményezi a Gyvt. 17. § (2) bekezdés b) pontja szerint hatósági eljárást.
+
+(6)[^7] Ha az önkéntesen közreműködő szervezet működése során olyan magyar állampolgárról vagy a szabad mozgás és tartózkodás jogával rendelkező személyről szerez tudomást, akiről alappal feltehető, hogy az emberkereskedelem áldozata, vele azonosító beszélgetést folytathat le. Ha az önkéntesen közreműködő szervezet az azonosító beszélgetés során megállapítja, hogy a beszélgetésbe bevont személy valószínűsíthetően emberkereskedelem áldozata, erről a tényről az azonosító adatlap megküldésével haladéktalanul értesíti a területi áldozatsegítő szolgálatot, magyar állampolgárral külföldön lefolytatott azonosító beszélgetés esetén az áldozatsegítő szolgálatként eljáró Budapest Főváros Kormányhivatalát. A területi áldozatsegítő szolgálat az azonosító adatlapokat haladéktalanul rögzíti a Rendszerbe.
+
+### 3. §[^8]
+
+(1) Az OKIT az értesítést követően tájékoztatja az emberkereskedelem áldozataként azonosított személyt a védett szálláshelyen történő elhelyezés feltételeiről. Ha az emberkereskedelem áldozataként azonosított személy a védett szálláshelyen történő elhelyezését kéri, őt az OKIT a védett szálláshelyre irányítja.
+
+(2) A védett szálláshely a férőhelyváltozást követő 12 órán belül elektronikus úton bejelenti az OKIT-nak a férőhelyek számában bekövetkezett változást, és a fennmaradó szabad férőhelyek számát.
+
+### 4. §[^9]
+
+(1) A védett szálláshelyen emberkereskedelem nagykorú áldozatai, valamint szükség esetén a közvetett áldozatnak minősülő személyek helyezhetők el.
+
+(2) A védett szálláshely épülete mentes a funkciójára utaló külső jelzésektől és címét titkosan kezelik.
+
+(3) A védett szálláshely az emberkereskedelem áldozataként azonosított személy számára az emberkereskedelem áldozataként azonosított személy felépülésének idejére
+
+a) költségmentesen biztonságos lakhatást biztosít és szükség esetén biztosítja a krízisintervenciót, további mentálhigiénés ellátást, valamint az étkeztetést, a ruházattal és tisztálkodó szerekkel való ellátást,
+
+b) közreműködik az emberkereskedelem áldozataként azonosított személy érdekeinek érvényesítésében és a társadalmi reintegrációhoz szükséges intézkedések megszervezésében.
+
+(4) Védett szálláshely minősítésre jogosult a krízishelyzetben lévő személyek számára történő személyes gondoskodás nyújtásában tapasztalattal rendelkező szervezet, amely képes arra, hogy a (3) bekezdésben meghatározott szolgáltatásokat az áldozatok társadalmi reintegrációja szempontjából megfelelő helyszínen, a családpolitikáért felelős miniszter által elfogadott szakmai protokollban foglaltak szerint biztosítsa.
+
+(5) A védett szálláshely működtetését az állam kizárólag a (4) bekezdésben foglalt feltételeknek megfelelő fenntartókkal kötött finanszírozási szerződés útján támogatja. A finanszírozási szerződést egy évre kell megkötni.
+
+### 4/A. §[^10]
+
+A Magyarország területén emberkereskedelem áldozatává vált magyar, illetve a szabad mozgás és tartózkodás jogával rendelkező nagykorú személyek azonosítását és irányítását segítő, követendő eljárásrendet a 2. melléklet tartalmazza.
+
+### 5. §[^11]
+
+(1)[^12] A területi áldozatsegítő szolgálat statisztikai célból személyazonosításra alkalmatlanná tett adatok megküldésével negyedévente tájékoztatja az áldozatsegítésért felelős minisztert az észlelt esetekről.
+
+(2) Az áldozatsegítésért felelős miniszter az (1) bekezdésben foglaltak szerinti tájékoztatás alapján összesített statisztikai kimutatást készít.
+
+## 2. Az emberkereskedelem áldozataként külföldön azonosított magyar állampolgárokkal kapcsolatos eljárásra vonatkozó különös szabályok
+
+### 6. §
+
+(1) Külföldön magyar állampolgár emberkereskedelem áldozataként történő azonosítására irányuló eljárásban a konzuli tisztviselő, valamint az emberkereskedelem áldozatainak azonosítására irányuló eljárásban önkéntesen közreműködő szervezet a 2. §-ban meghatározottakon túl tájékoztatja az emberkereskedelem áldozataként azonosított személyt a védett szálláshelyen történő elhelyezés feltételeiről.
+
+(2) Az OKIT az emberkereskedelem áldozataként külföldön azonosított magyar állampolgár szálláshely igényével kapcsolatos értesítést a konzuli tisztviselőtől, a rendőrségtől, valamint az emberkereskedelem áldozatainak azonosítására irányuló eljárásban önkéntesen közreműködő szervezettől fogad el.
+
+(3) Az OKIT az értesítést követően tájékoztatja a (2) bekezdésben meghatározott szerven keresztül az emberkereskedelem áldozataként azonosított személyt a védett szálláshely hozzáférhetőségéről. Amennyiben az emberkereskedelem áldozataként azonosított személy a védett szálláshelyen történő elhelyezését kéri, őt az OKIT a (2) bekezdésben meghatározott szervezet közreműködésével a védett szálláshelyre irányítja.
+
+## 3. Záró rendelkezés
+
+### 7. §
+
+Ez a rendelet 2013. január 1-jén lép hatályba.
+
+## 4. Az Európai Unió jogának való megfelelés
+
+### 8. §
+
+E rendelet az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének való megfelelést szolgálja.
+
+## 1. melléklet a 354/2012. (XII. 13.) Korm. rendelethez[^13]
+
+**Azonosító adatlap az emberkereskedelem áldozatainak azonosításához**
+
+**Útmutató az azonosító adatlaphoz az adatfelvevő számára**
+
+Az adatlap célja annak megállapítása, hogy az azonosításba bevont személy valószínűsíthetően emberkereskedelem áldozata-e. Az azonosító beszélgetés megkezdése előtt az azonosításba bevont személyt fel kell világosítani az azonosító beszélgetés céljáról. Az azonosítás megkezdése előtt az azonosításba bevont személyt tájékoztatni kell arról, hogy amennyiben a beszélgetés eredményeként valószínűsíthető, hogy nem emberkereskedelem áldozata, vagy emberkereskedelem áldozata, de a további intézkedésekhez nem járul hozzá, az azonosító adatlap személyazonosításra alkalmatlanná tett módon, kizárólag statisztikai célra kerül felhasználásra.
+
+Az azonosító beszélgetés során az azonosításba bevont személyt meg kell szemlélni és hozzá kérdéseket kell intézni az azonosító adatlapon felsorolt mutatók (indikátor) felhasználásával. A kérdésekre adott válaszok alapján lehet meghatározni, hogy az azonosításba bevont személy valószínűsíthetően emberkereskedelem áldozata-e. Minden esetben mindhárom kategóriára vonatkozóan fel kell tenni a kérdéseket. A három kategóriára vonatkozóan egymástól függetlenül kell eldönteni, hogy az adott kategóriában az áldozattá válás valószínűsége fennáll-e. Az áldozattá válás valószínűsége az adott kategóriában fennáll, ha
+
+– két nagy valószínűségre utaló jel, vagy
+
+– egy nagy valószínűségre utaló és egy közepes/kis valószínűségre utaló jel, vagy
+
+– két közepes valószínűségre utaló jel és egy kis valószínűségre utaló jel
+
+együttesen jelen van.
+
+Az azonosításba bevont személy valószínűsíthetően emberkereskedelem áldozata, ha az áldozattá válás valószínűsége valamennyi kategóriában fennáll.
+
+**A. Általános adatok**
+
+*Az azonosításba bevont személy*
+
+Neve:
+
+Neme:
+
+Születési helye, ideje:
+
+Tartózkodási helye, szállása, egyéb elérhetősége:
+
+Állampolgársága:
+
+Anyanyelve:
+
+Beszél-e magyarul? I/N
+
+Kizsákmányolás módja:
+
+Eltartott, kiskorú gyermekeinek száma:
+
+Személyazonosító okmányának típusa, száma:
+
+Azonosítást végző szerv megnevezése:
+
+Az adatlap kitöltőjének neve, beosztása:
+
+Az adatlap kitöltésének helye és ideje:
+
+**B. Áldozattá válásra utaló jelek**[^1.]
+
+*Megjelenés*
+
+Nagy valószínűségre utaló jel
+
+1\. Látható sérülések (zúzódások, égetésnyom, vágás, stb.)
+
+2\. Kezeletlen fertőzések jelei
+
+3\. Látható alultápláltság
+
+4\. Testi fogyatékosság
+
+5\. Úgy tűnik, korábban utasításokat kapott arra vonatkozóan, hogy mit kell mondania
+
+Közepes valószínűségre utaló jel
+
+1\. Kimerültség jelei
+
+2\. Elhanyagolt, szegényes ruházat
+
+3\. A végzett munka jellegének nem megfelelő ruházat
+
+4\. Tipikusan szexuális tevékenység végzéséhez viselt ruházat
+
+Kis valószínűségre utaló jel
+
+1\. Túlzott, indokolatlan idegesség, zavartság, szégyenérzet
+
+2\. Nehezen áll szóba a hivatalos szervek képviselőivel, kerüli a szemkontaktust
+
+3\. Terhesség
+
+*Személyes körülmények*
+
+Nagy valószínűségre utaló jel
+
+1\. Nem rendelkezik személyazonosító okmányokkal
+
+2\. Annak jelei, hogy a személy szabad mozgását korlátozzák, ellenőrzik
+
+3\. Mindig van valaki, aki beszél helyette, idegenek előtt csak engedéllyel szólalhat meg
+
+4\. Családban él, de a család többi tagjától külön étkezik
+
+5\. Alkohol vagy kábítószer fogyasztására kényszerítették
+
+6\. Bűncselekmény elkövetésére kényszerítették
+
+7\. Szociális juttatásokban részesül, de más veszi fel helyette vagy egyből át kell adnia egy másik személy részére
+
+8\. Nők esetében, külföldi azonosításnál: otthon hagyott, 3 évesnél fiatalabb gyermek(ek)
+
+Közepes valószínűségre utaló jel
+
+1\. Nem tudja a szállása címét
+
+2\. Folyamatosan változó szálláshely
+
+3\. Szegényes, nem lakás céljára szolgáló, alkalmatlan szálláshely
+
+4\. Életvitelszerűen panzióban vagy hasonló szálláshelyen lakik
+
+Kis valószínűségre utaló jel
+
+1\. A munkahely azonos a szálláshellyel
+
+2\. Olyan családdal él együtt, melynek tagjai nem rokonai, illetve nevelőszülei
+
+*Munkakörülmények/tevékenység végzésének körülményei*
+
+Nagy valószínűségre utaló jel
+
+1\. Munkaideje (tevékenység végzésének időtartama) kirívóan hosszú
+
+2\. Nem biztosított számára a munkaközi szünet vagy szabadnap
+
+3\. Fizetés egy részének, vagy egészének elvonása
+
+4\. Kiugróan magas(nak állított) közlekedési, lakhatási, étkezési költségek
+
+Közepes valószínűségre utaló jel
+
+1\. Munkaszerződés nincs, vagy a tényleges munkakörülmények annak nem felelnek meg
+
+2\. A munkavégzés valamennyi feltételét egyoldalúan a munkaadó állapítja meg
+
+3\. Az azonosításba bevont személy abban a hiszemben van, hogy tartozik a munkaadónak
+
+4\. A munkavégzés helye nem rendelkezik a megfelelő munkavédelmi felszerelésekkel
+
+5\. Nem tudja megmondani a munkahelye címét
+
+6\. Nem tudja megmondani mi a végzettsége, mit dolgozik
+
+7\. A munkavégzés (feladatvégzés) helye folyamatosan változik
+
+**C. Nyilatkozatok, intézkedések**
+
+Alulírott .................................................................................. (az emberkereskedelem feltételezhető áldozataként azonosított személy neve) megértettem, hogy engem emberkereskedelem valószínűsíthető áldozataként azonosítottak. Hozzájárulok személyes adataimnak a következők szerinti továbbításához és kezeléséhez:
+
+(1) hozzájárulok a személyes adataimnak az áldozatsegítő szolgálat részére történő átadásához, és az áldozatsegítő szolgálat eljárása során, az abban eljáró szervek által történő kezeléséhez. Kérem, hogy a ...................................................... megyei/fővárosi áldozatsegítő szolgálat kerüljön értesítésre!
+
+......................................................\
+(aláírás)
+
+(2) nem rendelkezem biztonságos szállással, ezért hozzájárulok a személyes adataimnak az Országos Kríziskezelő és Információs Telefonszolgálat (OKIT) részére történő átadásához, és az OKIT eljárása során az eljárásban részt vevő szervek által történő kezeléséhez:
+
+......................................................\
+(aláírás)
+
+(3) egészségügyi ellátásra van szükségem, ezért hozzájárulok a személyes adataimnak az egészségügyi alapellátást biztosító szerv részére történő átadásához, és az ellátásban részt vevő szervek által történő kezeléséhez:
+
+......................................................\
+(aláírás)
+
+Az eljáró szervek a személyes adataimat célhoz kötötten, kizárólag a saját eljárásuk során használják fel és azt harmadik személynek nem szolgáltatják ki. Tudomásul veszem, hogy az azonosító adatlap személyazonosításra alkalmatlanná tett módon statisztikai célra felhasználható.
+
+Kelt: ......................................................
+
+<table><tbody><tr><td>......................................................</td><td>......................................................</td></tr><tr><td>adatfelvevő aláírása</td><td>az emberkereskedelem feltételezhető áldozataként<br>azonosított személy aláírása</td></tr><tr><td colspan="2"></td></tr></tbody></table>
+
+Az azonosításba bevont személy valószínűsíthetően nem emberkereskedelem áldozata.
+
+Kelt: ......................................................
+
+......................................................\
+adatfelvevő aláírása
+
+## 2. melléklet a 354/2012. (XII. 13.) Korm. rendelethez[^14]
+
+![](https://njt.jog.gov.hu/picture/48/48102012_22__20000354B6F8_011_0.jpg)
+
+---
+
+[^1]: Az 1. § 1. pontja a 228/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított, a 116/2021. (III. 10.) Korm. rendelet 17. §-a, a 764/2021. (XII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 2a. pontját a 764/2021. (XII. 23.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 2b. pontját a 764/2021. (XII. 23.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 4. pontját a 764/2021. (XII. 23.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^5]: A 2. § (2) bekezdése a 228/2017. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 113. § (1) bekezdése, a 764/2021. (XII. 23.) Korm. rendelet 21. § b) pontja, a 247/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 764/2021. (XII. 23.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (6) bekezdését a 33/2019. (III. 5.) Korm. rendelet 1. §-a iktatta be, szövege a 764/2021. (XII. 23.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § a 764/2021. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^9]: A 4. § a 764/2021. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^10]: A 4/A. §-t a 764/2021. (XII. 23.) Korm. rendelet 19. §-a iktatta be.
+[^11]: Az 5. § a 379/2016. (XII. 2.) Korm. rendelet 214. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 113. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^13]: Az 1. melléklet a 764/2021. (XII. 23.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 247/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^1.]: A megfelelő válasz sorszáma mindhárom kategóriánál bekarikázandó.
+[^14]: A 2. mellékletet a 764/2021. (XII. 23.) Korm. rendelet 20. § (2) bekezdése iktatta be.

@@ -1,0 +1,139 @@
+---
+title: "482/2015. (XII. 29.) Korm. rendelet a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "482/2015. (XII. 29.) Korm. rendelet"
+njt_id: "2015-482-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/482"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-29
+in_force_from: 2015-12-30
+last_amended: 2022-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-482-20-22"
+retrieved: 2026-10-12
+---
+
+# 482/2015. (XII. 29.) Korm. rendelet a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d), e) és f) pontjában,
+
+a 3. § (4) bekezdés a) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+a 3. § (4) bekezdés b)–d) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2., 17. és 24. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest VIII. kerület, Múzeum utca 17. szám (rezidencia szárny) és Reviczky utca 6. szám (iroda szárny) alatt található, az ingatlan-nyilvántartás szerinti Budapest 36578/1 helyrajzi szám alatt nyilvántartott épületegyüttesben megvalósuló Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak megvalósításával (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek
+
+a) az útépítési és közmű csatlakozási munkák érdekében az (1) bekezdés szerinti ingatlanokkal szomszédos ingatlanokat érintik,
+
+b) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+c)[^1] a Beruházás megvalósításával kapcsolatban az (1) bekezdés szerinti ingatlan, illetve a szomszédos, Budapest VIII. kerület, Reviczky utca 4. szám alatti, 36575 helyrajzi szám alatt nyilvántartott ingatlan közös telekhatárán történő, a két ingatlan között közvetlen belső átjárást biztosító összekötéséhez szükségesek.
+
+(3)[^2] A Kormány az 1. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+## 2. §[^3]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+(1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti hatósági ügyekben a szakhatóság a hatóság határozatának jogerőre emelkedéséig felhasználható előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(4) A Beruházással összefüggésben
+
+a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+b) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
+
+c) nem kell településképi véleményezési eljárást lefolytatni, valamint
+
+d) településképi bejelentési eljárásnak nincs helye.
+
+(5) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+
+## 3/A. §[^4]
+
+A Beruházás esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a vonatkozó településrendezési tervet a következő eltérésekkel, valamint építési követelmények érvényesítésével kell alkalmazni:
+
+a) az OTÉK 7. számú melléklete szerint számított kerékpár elhelyezése az épület előtt a közterületen is biztosítható azzal, hogy az oktatási és kutatási helyiségek 100 m<sup>2</sup> alapterülete után 2 db kerékpár elhelyezéséről kell gondoskodni,
+
+b) az 1. § (1) bekezdése szerinti ingatlan és az 1. § (2) bekezdés c) pontja szerinti szomszédos ingatlannal való közvetlen belső összekötést biztosítani szükséges azzal, hogy a tűzfalon a tűzvédelmi jogszabályok betartásával nyílások kialakíthatók,
+
+c)[^5] az 1. § (1) bekezdése szerinti ingatlanra vonatkozóan a kerületi építési szabályzat szerinti utcai építménymagasság legfeljebb 22,5 méter, továbbá a vonatkozó településrendezési tervben rögzített építménymagasság minimális határértékét nem kell alkalmazni.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E rendeletet a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 6. §[^6]
+
+E rendeletnek a Károlyi-Csekonics Palotaegyüttes felsőoktatási célú hasznosítása érdekében a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 482/2015. (XII. 29.) Korm. rendelet módosításáról szóló 495/2016. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (2) bekezdés c) pontját és 3/A. §-át a Módr. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 482/2015. (XII. 29.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+4\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+
+5\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. útügyi hatósági eljárások,
+
+11\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+12\. telekalakításra irányuló hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15\. bányahatósági engedélyezési eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
+
+19\. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (2) bekezdés c) pontját a 495/2016. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (3) bekezdése a 361/2019. (XII. 30.) Korm. rendelet – 30/2020. (II. 29.) Korm. rendelet 39. § (1) bekezdésével megállapított – 79. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 96. § a) és b) pontja szerint módosított szöveg.
+[^4]: A 3/A. §-t a 495/2016. (XII. 28.) Korm. rendelet 2. §-a iktatta be, nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 76. § a) pontja szerint módosított szöveg.
+[^5]: A 3/A. § c) pontja a 420/2021. (VII. 15.) Korm. rendelet 76. § b) pontja szerint módosított szöveg.
+[^6]: A 6. §-t a 495/2016. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2016. december 29.

@@ -1,0 +1,640 @@
+---
+title: "413/2017. (XII. 15.) Korm. rendelet egyes halgazdálkodási eljárásokra vonatkozó szabályokról"
+identifier: "413/2017. (XII. 15.) Korm. rendelet"
+njt_id: "2017-413-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/413"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-15
+in_force_from: 2018-01-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-413-20-22"
+retrieved: 2026-10-12
+---
+
+# 413/2017. (XII. 15.) Korm. rendelet egyes halgazdálkodási eljárásokra vonatkozó szabályokról
+
+A Kormány
+
+az 1. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 1. és 3. pontjában,
+
+a 2. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 1. és 4. pontjában,
+
+a 3. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 1. és 5. pontjában,
+
+a 4. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 1. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. [^1] Az egyenáramú elektromos eszközzel végzett, az országos kutatási célú engedélyezésre vonatkozó rendelkezések
+
+### 1. §
+
+(1) A halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által kiadott országos kutatási célú halfogási engedély Magyarország valamennyi halgazdálkodási vízterületén feljogosít halak és más hasznos víziállatok tudományos kutatására, felmérésére és a vizsgálatokhoz szükséges minták gyűjtésére. Védett természeti területen végzett gyűjtés, illetve természetvédelmi oltalom alatt álló hal és más hasznos víziállat begyűjtése ezen engedélyen túlmenően a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
+
+(2) Az (1) bekezdés szerinti engedéllyel – a halgazdálkodásra jogosulttal egyeztetett mennyiségben – laboratóriumi vizsgálatokhoz hal és más hasznos víziállat minta gyűjthető.
+
+(3) Az (1) bekezdés szerinti engedély kiadására irányuló kérelem tartalmazza:
+
+a) a kutatást végző személy szakmai önéletrajzát, haltani kutatások szempontjából releváns publikációs listáját;
+
+b) a várható kutatási munkatervet, különös tekintettel a nemzetközi vagy hazai kutatási programok keretében megvalósuló kutatásokra;
+
+c) az alkalmazni kívánt eszközök típusát, méretét, mennyiségét.
+
+(4) Egyenáramú elektromos eszköz alkalmazását is magába foglaló kérelem esetén a kérelmezőnek igazolnia kell a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 46. § (6) bekezdésében meghatározott képesítés meglétét.
+
+(5) A (4) bekezdés szerinti esetben a miniszter megvizsgálja, hogy az eszköz a Hhvtv. 46. § (7) bekezdésében foglaltaknak megfelel-e.
+
+(6) Országos kutatási célú halfogási tevékenység végzése kizárólag az (1) bekezdés szerinti engedélyben meghatározott eszközök alkalmazásával lehetséges.
+
+(7) A (6) bekezdés szerinti tevékenységet az engedélyes köteles a tevékenység megkezdése előtt legalább 24 órával bejelenteni az érintett nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjának és a halgazdálkodási hatóságnak az erre szolgáló elektronikus felületen. A bejelentés tartalmazza:
+
+a) a tevékenység időpontjának és helyeinek megjelölését, többnapos folyamatos tevékenység esetén a kezdő és a záró napot;
+
+b) a mintaként begyűjteni kívánt halak és más hasznos víziállatok egyedszámát és tervezett össztömegét;
+
+c) a tevékenységhez alkalmazni kívánt eszközöket; valamint
+
+d) a kutatás célját.
+
+(8) A (6) bekezdés szerinti tevékenységet, ha az védett természeti területet érint, a működési területe szerint érintett nemzeti park igazgatóságnak is be kell jelenteni a (7) bekezdés szerinti módon.
+
+### 2. §
+
+(1) Az országos kutatási célú halfogási tevékenység teljes ideje alatt az abban részt vevők kötelesek jól látható megkülönböztető jelzést viselni, amelyen szerepel a „HALKUTATÁS” felirat.
+
+(2) Az engedélyesnek az országos kutatási célú halfogási tevékenység ideje alatt a helyszínen kell tartózkodnia. A kutatási segédek az engedélyes irányítása alatt bármely, az engedélyben meghatározott eszköz használatában segédkezhetnek, de azokat önállóan csak országos kutatási célú halfogási engedély birtokában használhatják.
+
+(3) A bejelentett utolsó kutatási napot követő 30 napon belül, az erre szolgáló elektronikus felületen keresztül az engedélyesnek egyszerűsített jelentést kell küldenie a halgazdálkodási hatóságnak, a vizsgált nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjának, a miniszter által vezetett minisztériumnak, továbbá – védett természeti területen végzett tevékenység esetén – a működési területe szerint érintett nemzeti park igazgatóságnak. A jelentés tartalmazza:
+
+a) az engedélyes és a kutatási segédek családi és utónevét;
+
+b) az engedélyes és a kutatási segédek munkáltatóját;
+
+c) a tevékenység kezdő és befejező időpontját (év, hó, nap, óra, perc formátumban);
+
+d) a tevékenység helyszínét (halgazdálkodási vízterület megnevezése; földrészlet vagy km-szelvény vagy EOV koordináták megadása; térképmásolat csatolása);
+
+e) a kutatás célját;
+
+f) a tevékenységhez alkalmazott eszközöket;
+
+g) a megfogott halak és más hasznos víziállatok fajlistáját; valamint
+
+h) a mintaként begyűjtött és kifogott halak és más hasznos víziállatok kutatási naplóban is rögzített faját, darabszámát és össztömegét.
+
+(4) Ha az engedélyes az e rendeletben, illetve az engedélyben foglalt kötelezettségeinek nem tesz eleget, a halgazdálkodási hatóság a cselekmény súlyára és ismétlődésére tekintettel kezdeményezheti az engedély visszavonását a miniszternél.
+
+(5) Az engedély a kiadásától számított 2 évig érvényes, és az engedélyes kérelmére, ha az engedélyes megfelel az engedély meghosszabbításának alapjául szolgáló feltételeknek, további 2 évvel meghosszabbítható.
+
+(6)[^2]
+
+### 3. §
+
+(1) A Hhvtv. 47. § (2) bekezdésében – az *a)* pont kivételével – felsoroltak szerinti célból történő halfogásra irányuló tevékenység végzésére, ha ahhoz egyenáramú elektromos eszköz használata is szükséges, a miniszter egyenáramú elektromos eszköz használatával történő halfogási tevékenység végzésére vonatkozó engedélyt adhat ki a tevékenység jellegéhez igazodó időtartamra.
+
+(2) Az (1) bekezdés szerinti engedély iránti kérelem tartalmazza:
+
+a) a tevékenységet végző személy családi és utónevét;
+
+b) a tevékenységgel érintett halgazdálkodási vízterület adatait (a halgazdálkodási vízterület megnevezése és nyilvántartott halgazdálkodási vízterület esetében víztérkódja);
+
+c) a tevékenység tervezett időpontját, illetve időtartamát;
+
+d) a tervezett tevékenység leírását és az ahhoz használni kívánt egyenáramú elektromos eszköz ismertetését (gyártmány, típus, gyártási szám).
+
+(3) A kérelmezőnek igazolnia kell a Hhvtv. 46. § (6) bekezdésében meghatározott képesítés meglétét. A miniszter megvizsgálja, hogy az eszköz a Hhvtv. 46. § (7) bekezdésében foglaltaknak megfelel-e.
+
+(4) Nyilvántartott halgazdálkodási vízterület esetén az engedély megadásának feltétele, hogy a kérelmező rendelkezzen a halgazdálkodásra jogosultnak a tevékenységhez való hozzájárulásával.
+
+(5) Az engedélyes köteles az (1) bekezdés szerinti engedély alapján végezni kívánt tevékenységet annak megkezdése előtt legalább 24 órával bejelenteni az érintett nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjának és a halgazdálkodási hatóságnak az erre szolgáló elektronikus felületen. A bejelentés tartalmazza:
+
+a) a tevékenység időpontjának és helyeinek megjelölését, többnapos folyamatos tevékenység esetén a kezdő és a záró napot;
+
+b) a begyűjteni kívánt halak és más hasznos víziállatok egyedszámát és tervezett össztömegét;
+
+c) a tevékenységhez alkalmazni kívánt eszközöket; valamint
+
+d) a tevékenység célját.
+
+(6) Az (5) bekezdés szerinti tevékenységet, ha az védett természeti területet érint, a működési területe szerint érintett nemzeti park igazgatóságnak is be kell jelenteni az (5) bekezdés szerinti módon.
+
+(7) A tevékenység végzésére bejelentett utolsó napot követő 30 napon belül az engedélyesnek az erre szolgáló elektronikus felületen keresztül egyszerűsített jelentést kell küldenie a halgazdálkodási hatóságnak, a tevékenység által érintett halgazdálkodási vízterület halgazdálkodásra jogosultjának, a miniszter által vezetett minisztériumnak, valamint – védett természeti területen végzett tevékenység esetén – a működési területe szerint érintett nemzeti park igazgatóságnak. A jelentés tartalmazza:
+
+a) az egyenáramú elektromos eszközt használó személy vagy személyek nevét, munkáltatóját;
+
+b) a tevékenység kezdő és befejező időpontját (év, hó, nap, óra, perc formátumban);
+
+c) a tevékenység helyszínét (halgazdálkodási vízterület megnevezése; földrészlet vagy km-szelvény vagy EOV koordináták megadása; térképmásolat csatolása);
+
+d) a tevékenység célját;
+
+e) a tevékenységhez alkalmazott eszközöket;
+
+f) a megfogott halak és más hasznos víziállatok fajlistáját; valamint
+
+g) a begyűjtött és kifogott halak és más hasznos víziállatok faját, darabszámát és össztömegét.
+
+(8) Ha az engedélyes az e rendeletben, illetve az engedélyben foglalt kötelezettségeinek nem tesz eleget, a halgazdálkodási hatóság a cselekmény súlyára és ismétlődésére tekintettel kezdeményezheti az egyenáramú elektromos eszköz használatára vonatkozó engedély visszavonását a miniszternél.
+
+(9) A Hhvtv. 47. § (2) bekezdésében felsorolt esetekben egyenáramú elektromos eszköz használatára vonatkozó engedély az engedélyező határozatban szereplő időtartamra és halgazdálkodási vízterületre érvényes. Az időtartam nem haladhatja meg az 1 naptári évet.
+
+(10) Az (1) bekezdés szerinti, egyenáramú elektromos eszközzel végzett halfogási tevékenység teljes ideje alatt az abban részt vevők kötelesek jól látható megkülönböztető jelzést viselni, amelyen szerepel az „ELEKTROMOS HALÁSZAT” felirat.
+
+### 4. §
+
+(1) Az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgáztatását és elektromos érintésvédelmi felülvizsgálatát elvégezni jogosult szervezetek:
+
+a)[^3] Magyar Agrár- és Élettudományi Egyetem;
+
+b) Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakgimnázium, Szakközépiskola és Kollégium.
+
+(2) Az (1) bekezdés szerinti szervezet az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgáját, valamint elektromos érintésvédelmi felülvizsgálatát igazoló valamennyi iratot a kiállítástól számított 15 napon belül az erre szolgáló elektronikus felületen megküldi a miniszternek.
+
+(3) Az egyenáramú elektromos eszköz Hhvtv. 46. § (7) bekezdése szerinti nyilvántartásba vételére, továbbá az eszköz nyilvántartásból való törlésére, valamint az eszköz nyilvántartott adatainak módosítására irányuló kérelem kizárólag az erre szolgáló elektronikus felületen nyújtható be a miniszternek.
+
+(4) Az országos kutatási célú halfogási engedély kiadására, meghosszabbítására, illetve módosítására, valamint a meghatározott halgazdálkodási vízterületeken egyenáramú elektromos eszköz használatával történő halfogásra jogosító engedély kiadására irányuló kérelem kizárólag az erre szolgáló elektronikus felületen nyújtható be a miniszternek.
+
+## 1/A. [^5] Halmentés céljából történő halfogás engedélyezése
+
+### 5/A. §
+
+(1) Őshonos hal halgazdálkodási vízterületről a Hhvtv. 8. § (1) bekezdése szerinti halmentés céljából történő kifogása (a továbbiakban: halmentés) a halgazdálkodási hatóság engedélyével végezhető.
+
+(2) A halmentésre vonatkozó engedély meghatározott halgazdálkodási vízterületre vonatkozóan, határozott időtartamra, de legfeljebb a hatályos halgazdálkodási terv érvényességi időtartamára adható ki.
+
+(3) Az (1) bekezdés szerinti engedély iránti kérelem tartalmazza:
+
+a) a mentéssel érintett halgazdálkodási vízterület megnevezését és nyilvántartott halgazdálkodási vízterület esetében víztérkódját;
+
+b) az engedélyes kezelésében levő, a mentett állomány áttelepítésére potenciálisan alkalmas nyilvántartott halgazdálkodási vízterület megnevezését és víztérkódját, ennek hiányában a mentett állomány ideiglenes elhelyezésére szolgáló haltermelési létesítmény megnevezését;
+
+c) a mentési tevékenység leírását és az ahhoz használni kívánt eszközök és módszerek ismertetését.
+
+(4) Ha a kérelmező nem a halgazdálkodásra jogosult, a kérelemhez csatolja a halgazdálkodásra jogosult hozzájárulását.
+
+(5) A kérelem elbírálása során a halgazdálkodási hatóság mérlegeli a halmentés során alkalmazni kívánt módszerek ökológiai hatásait, valamint az áttelepítés helyéül kijelölt nyilvántartott halgazdálkodási vízterület ökológiai állapotára és őshonos halfaunájára gyakorolt potenciális hatást.
+
+(6) Az engedélyben a halgazdálkodási hatóság meghatározza:
+
+a) a mentési tevékenység során használható eszközöket és módszereket;
+
+b) az áttelepítés vagy áthelyezés helyéül szolgáló nyilvántartott halgazdálkodási vízterületet vagy haltermelési létesítményt;
+
+c) soron kívüli visszatelepítés szükségessége esetén – amennyiben az eredeti halgazdálkodási vízterületre a visszatelepítés még nem lehetséges – a visszatelepítés helyéül szolgáló nyilvántartott halgazdálkodási vízterületet;
+
+d) a visszatelepítés vagy áttelepítés feltételeit;
+
+e) az engedélyes egyedi halmentésekkel kapcsolatos bejelentési és jelentési kötelezettségeit.
+
+(7) Őshonos hal ideiglenesen haltermelési létesítménybe akkor helyezhető át, ha halgazdálkodási vízterületre történő azonnali vissza- vagy áttelepítése a víztest ökológiai állapota vagy az őshonos halfauna összetétele miatt nem megvalósítható.
+
+### 5/B. §
+
+(1) A halgazdálkodási hatóság azokon a halgazdálkodási területeken, ahol nincs halgazdálkodásra jogosult, a halmentést a horgászszövetséggel, illetve bármely halgazdálkodásra jogosulttal elvégeztetheti.
+
+(2) A halmentésre történő kijelölésnél a következőket kell figyelembe venni:
+
+a) csatlakozó mederrel bíró, kapcsolódó nyilvántartott halgazdálkodási vízterület esetén annak halgazdálkodásra jogosultja, több kapcsolódó halgazdálkodási vízterület esetén a kijelölt halgazdálkodásra jogosult köteles a halmentést elvégezni;
+
+b) ha az adott halgazdálkodási vízterületen lévő hal beazonosítható nyilvántartott halgazdálkodási vízterületről származik, akkor a származás helye szerinti halgazdálkodásra jogosult köteles a halmentést elvégezni;
+
+c) mérlegelni kell az őshonos halállományok mentése során a természetvédelmi és egyéb kockázatokat, különös figyelemmel az idegenhonos fajok esetleges betelepítésére, behurcolására és a természetes ökológiai folyamatok megzavarására;
+
+d) mérlegelni kell az őshonos halállományok mentése során a mentés szükségességét alátámasztó közérdeket és a mentés költséghatékonyságát, azt, hogy a menthető őshonos halállomány halgazdálkodási, illetve természetvédelmi értékét a mentés költségei aránytalanul meghaladják-e.
+
+(3) A halmentésre történő kijelölésnél a halmentés költségviselési kötelességét – a mentett hal halgazdálkodási értékének figyelembevétele mellett – a halgazdálkodási hatóság és a halmentésre kijelölt horgászszövetség vagy halgazdálkodásra jogosult megállapodásban rögzíti.
+
+### 5/C. §
+
+A horgászszövetség az általa haszonbérelt halgazdálkodási vízterületek vonatkozásában a halmentést az 5/A. § (1) bekezdésétől eltérően a halgazdálkodási hatósághoz megtett, 5/D. § szerinti adattartalmú előzetes bejelentés alapján végezheti.
+
+### 5/D. §
+
+(1) Az 5/A. § (1) bekezdésében meghatározott halmentésre vonatkozó engedély alapján végzett egyedi halmentést az engedélyes a tevékenység megkezdése előtt legalább 24 órával bejelenti a halgazdálkodási hatóságnak. A bejelentés tartalmazza:
+
+a) a mentésre jogosult személy nevét;
+
+b) az ivadék-, illetve halmentés okait;
+
+c) a mentés helyét, időpontját;
+
+d) a halmentéshez alkalmazott eszközöket és módszereket;
+
+e) a mentendő halak becsült tömegét, faj- és korosztály-összetételét;
+
+f) az áttelepítés helyét és idejét.
+
+(2) Az (1) bekezdés és az 5/C. § szerint bejelentett halmentést a halgazdálkodási hatóság megtiltja, ha
+
+a) a mentés az engedélyben,
+
+b) az 5/C. § esetében a bejelentés 5/D. § (1) bekezdés b)–f) pontja szerinti tartalma a jogszabályban, valamint az érintett halgazdálkodási vízterületek halgazdálkodási tervében
+
+foglaltaknak nem felel meg.
+
+### 5/E. §
+
+(1) Az 5/A. § (1) bekezdésében meghatározott engedély és az 5/C. § alapján a mentett halállomány haltermelési létesítményben történt ideiglenes elhelyezés utáni visszatelepítése vagy áttelepítése a tervezett visszatelepítést vagy áttelepítést – a (2) bekezdésben foglalt kivétellel – legalább 8 nappal megelőzően a halgazdálkodási hatósághoz megtett előzetes bejelentés alapján végezhető. A bejelentés tartalmazza:
+
+a) a visszatelepítést vagy áttelepítést végző nevét;
+
+b) a visszatelepítés vagy áttelepítés okait, helyét, időpontját, indokolását;
+
+c) a mentett halak becsült tömegét, faj- és korosztály-összetételét;
+
+d) a visszatelepítendő vagy áttelepítendő halak becsült tömegét, faj- és korosztály-összetételét;
+
+e) a mentett őshonos halállomány ideiglenes elhelyezésének helyét.
+
+(2) Ha a mentett őshonos halállomány vagy az ideiglenes elhelyezésre szolgáló haltermelési létesítmény állapota előre nem látható ok miatt soron kívüli visszatelepítést vagy áttelepítést tesz szükségessé, azt az engedélyes, valamint az 5/C. § szerinti esetben a horgászszövetség köteles a tevékenység megkezdése előtt bejelenteni a halgazdálkodási hatóságnak.
+
+(3) Az (1) bekezdés szerinti visszatelepítést vagy áttelepítést a halgazdálkodási hatóság intézkedésként megtiltja, ha
+
+a) a mentés az engedélyben foglaltaknak nem felel meg, vagy
+
+b) az 5/C. § szerinti mentés esetében az 5/D. § (1) bekezdés f) pontja szerinti nyilvántartott halgazdálkodási vízterület aktuális állapota vagy a vonatkozó halgazdálkodási terv nem teszi lehetővé a vissza- vagy áttelepíteni kívánt hal ökológiai rendszerbe illeszkedő befogadását.
+
+### 5/F. §
+
+Az elvégzett halmentésekről az 5/D. § (1) bekezdése és 5/E. § (1) bekezdése szerinti tartalommal a halmentést követő 15 napon belül adatot kell szolgáltatni a halgazdálkodási hatóság részére.
+
+## 1/B. [^6] Nyilvántartott halgazdálkodási vízterületről az őshonos halak haltermelés vagy kutatás céljából történő kifogásának engedélyezése
+
+### 5/G. §
+
+(1) Nyilvántartott halgazdálkodási vízterületről az őshonos halak és más hasznos víziállatok – mesterséges körülmények közötti termelési vagy kutatási célú szaporítás céljából történő – kifogása haltermelési létesítménybe történő áthelyezéssel a halgazdálkodási hatóság engedélyével végezhető.
+
+(2) Az (1) bekezdés szerinti engedély kiadására irányuló kérelem tartalmazza az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 36. § (1) bekezdésében foglaltakon túlmenően:
+
+a) a haltermelési létesítménybe történő áthelyezés indokolását;
+
+b) a szaporítás során alkalmazandó eljárások részletes leírását;
+
+c) az őshonos halak vagy más hasznos víziállatok kifogására szolgáló nyilvántartott halgazdálkodási vízterület megnevezését és víztérkódját;
+
+d) a nyilvántartott halgazdálkodási vízterületről kifogni kívánt őshonos halfajok vagy más hasznos víziállatok fajának, illetve ha szükséges, alacsonyabb taxonómiai egységének megnevezését, egyedszámát és mérettartományát;
+
+e) a kifogás tervezett idejét és a kifogás során használni kívánt módszereket és eszközöket;
+
+f) a halak vagy más hasznos víziállatok tartására szolgáló haltermelési létesítmény megnevezését és a szaporításukra szolgáló halkeltető állomás azonosítóját;
+
+g) az állománypótlási, visszatelepítési célú szaporítás esetén a szaporításból származó és visszatelepítendő kifogott tenyészhal és ivadék mennyiségét.
+
+(3) A természetvédelmi oltalom alatt nem álló, nem fogható halfajok szaporítása esetén a kérelem benyújtásával egyidejűleg igazolni szükséges a Hhvtv. 63. § (3) bekezdés a) vagy c) pontja szerinti támogatás tényének meglétét.
+
+(4) A halgazdálkodási hatóság a kérelem elbírálása során a következő szempontokat mérlegeli:
+
+a) a haltermelési létesítményben történő szaporítás gazdasági, állományfenntartási vagy tudományos indokoltsága;
+
+b) a szaporításhoz szükséges állomány természetes vízből történő begyűjtésének szükségessége;
+
+c) a szaporításhoz szükséges állomány begyűjtésének a nyilvántartott halgazdálkodási vízterület halállományára gyakorolt várható hatása.
+
+(5) Az őshonos hal és más hasznos vízi állat nyilvántartott halgazdálkodási vízterületről mesterséges szaporítás céljából történő kifogásáról szóló engedélyben a halgazdálkodási hatóság meghatározza:
+
+a) a kifogható mérettartományt;
+
+b) az egyedszámot;
+
+c) a kifogások helyét és időpontját;
+
+d) a mesterséges szaporítás célját;
+
+e) a halak szaporítására szolgáló halkeltető állomást és a tartásukra szolgáló haltermelési létesítményt;
+
+f) a kifogás során használható módszereket és eszközöket;
+
+g) az elvégzett munkával kapcsolatos beszámolási, jelentési kötelezettség teljesítésének módját és határidejét;
+
+h) haltermelési cél esetében a mesterséges szaporításból származó és visszatelepítendő tenyészhal és ivadék mennyiségét.
+
+(6) A (4) bekezdés szerinti engedély kizárólag kutatási vagy haltermelési célból adható meg.
+
+(7) Fajlagos tilalmi időben a tilalmi időszakkal érintett őshonos halfaj egyedeinek kifogása kizárólag
+
+a) kutatási, és
+
+b) amennyiben az adott halfaj mesterséges szaporítása kizárólag az ívásra felkészült egyedeinek begyűjtésével vagy az ivartermék helyben történő levételével biztosítható, mesterséges szaporítási
+
+célból engedélyezhető.
+
+(8) A halgazdálkodási hatóság a (4) bekezdés szerinti engedélyt megküldi az Országos Halgazdálkodási Adattárat működtető szerv részére.
+
+### 5/H. §
+
+(1) Az 5/G. § (1) bekezdésében meghatározott engedély alapján haltermelési létesítménybe áthelyezett őshonos halak és más hasznos víziállatok visszatelepítése a halgazdálkodási hatósághoz a tervezett visszatelepítést legalább 15 nappal megelőzően megtett előzetes bejelentés alapján végezhető. A bejelentés a következőket tartalmazza:
+
+a) a visszatelepítést végző halgazdálkodásra jogosult nevét és címét;
+
+b) a visszatelepítés helyét és idejét;
+
+c) a visszatelepítésre kerülő halak fajának megnevezését, mennyiségét és mérettartományát.
+
+(2) A visszatelepítés akkor végezhető el, ha a halgazdálkodási hatóság a bejelentést követő 8 napon belül a visszatelepítésre szolgáló halgazdálkodási vízterület ökológiai állapota miatt vagy halállományának védelme céljából nem hoz döntést annak megtiltása tárgyában.
+
+## 2. A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítására irányuló eljárás
+
+### 6. §
+
+(1) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítására irányuló eljárást a miniszter hivatalból vagy kérelem alapján indítja meg.
+
+(2) A kérelemre induló eljárás esetén a különleges rendeltetésűvé nyilvánításnak előfeltétele a miniszter írásbeli hozzájárulása. A hozzájárulást a miniszter a Hhvtv. 16. § (6) bekezdésében foglalt valamely közérdek fennállása esetén adhatja meg.
+
+(3) A miniszter az eljárást hivatalból indíthatja meg a halgazdálkodási, a természetvédelmi és a vízvédelmi hatóság kezdeményezése alapján.
+
+(4) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítását kérelmezheti:
+
+a) az állam tulajdonában lévő halgazdálkodási vízterület esetében
+
+aa) a helyi önkormányzat,
+
+ab) a halat vagy más hasznos víziállatot, illetve azok élőhelyét érintő tudományos vizsgálatokat végző kutatóintézet vagy felsőoktatási intézmény,
+
+ac) a vagyonkezelő és halgazdálkodásra jogosult állami erdőgazdasági társaság vagy nemzeti park igazgatóság;
+
+b) egyéb, az *a)* pontban meghatározottak közé nem tartozó halgazdálkodási vízterület esetében az *a)* pontban felsoroltak mellett az érintett ingatlan vagy ingatlanok tulajdonosa vagy tulajdonosai.
+
+(5) A kérelemnek tartalmaznia kell:
+
+a) a 8. § (2) bekezdése szerinti valamely közérdek megjelölését;
+
+b) a védelemre javasolt értékek felsorolását, azok tudományos, természeti, társadalmi, turisztikai jelentőségét;
+
+c) a különleges rendeltetésűvé nyilvánítás várható hatásait, különösen a halgazdálkodási hatásokat;
+
+d) a halgazdálkodási vízterület azonosítását
+
+da) nyilvántartott halgazdálkodási vízterület esetén a megnevezés és a víztérkód megadásával,
+
+db) nem nyilvántartott halgazdálkodási vízterület esetén a vízterület medrével érintett ingatlanok helyrajzi számának megadásával és a vízterület határainak térképi megjelenítésével.
+
+### 7. §
+
+(1) Nem nyilvántartott halgazdálkodási vízterület esetén a miniszter a különleges rendeltetésűvé nyilvánításra vonatkozó eljárás megindítását követően haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a nem nyilvántartott halgazdálkodási vízterület nyilvántartásba vétele érdekében. A halgazdálkodási hatóság a nyilvántartásba vételről 15 napon belül értesíti az ingatlan tulajdonosát, az állam tulajdonában álló ingatlan esetén a vagyonkezelőt vagy ennek hiányában a tulajdonosi joggyakorló szervezetet.
+
+(2) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartásba vétel során a különleges rendeltetést jelző víztérkóddal veszi nyilvántartásba a halgazdálkodási vízterületet.
+
+(3) Az (1) bekezdésben foglalt eljárás lefolytatását követően, ha a különleges rendeltetésűvé nyilvánítás nem történik meg, a miniszter haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a halgazdálkodási vízterület nyilvántartásból történő törlése érdekében.
+
+### 8. §
+
+(1) A miniszter a halgazdálkodási vízterületet a (2) bekezdésben felsorolt szempontokhoz rendelt valamely ok fennállása alapján határozatával különleges rendeltetésűvé nyilvánítja.
+
+(2) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítható
+
+a) a génállomány megőrzése érdekében, amennyiben
+
+aa) a halgazdálkodási vízterület olyan őshonos hal-, illetve más hasznos víziállat-faj élőhelye, melynek genetikai állománya különleges védelemre szorul, vagy az adott faj állományának országos szintű visszaszorulása vagy hibridizációja miatt,
+
+ab) egy vagy több őshonos hal-, illetve más hasznos víziállat-faj adott halgazdálkodási vízterületen élő alfaja, fajtája, ökotípusa vagy helyi formája különleges védelemre szorul, vagy
+
+ac) a halgazdálkodási vízterület olyan őshonos fajokban gazdag hal, illetve más hasznos víziállat együttes élőhelye, ahol a fauna összes genetikai állománya egyedülállóan kimagasló értéket képvisel;
+
+b) a természetvédelmi érdekek érvényesítése miatt, amennyiben
+
+ba) a halgazdálkodási vízterület megközelítésének korlátozása vagy a horgászat, halászat időben, illetve térben való korlátozása szükséges valamely kimagasló természeti érték megóvásához,
+
+bb) a halgazdálkodási vízterületen a haltelepítés végzése, korlátozása vagy tilalma szükséges valamely kimagasló természeti érték védelme miatt,
+
+bc) a halgazdálkodási vízterület őshonos veszélyeztetett hal-, illetve más hasznos víziállat-faj élőhelye, különös tekintettel a fokozottan védett fajokra és a közösségi jelentőségű fajokra,
+
+bd) a halgazdálkodási vízterület természetes állapotú, ökológiai szempontból különösen sérülékeny,
+
+be) a halgazdálkodási vízterület az őshonos veszélyeztetett halak, illetve más hasznos víziállatok vándorlásában különleges jelentőséggel bír, vagy
+
+bf) a halgazdálkodási vízterületről kipusztult őshonos hal-, illetve más hasznos víziállat-faj eredményes visszatelepítése indokolja;
+
+c) oktatási és kutatási célból, amennyiben
+
+ca) a halgazdálkodási vízterületen olyan kutatási tevékenység folyik, mely a halászat, a horgászat, illetve a haltelepítés korlátozását igényli,
+
+cb) a halgazdálkodási vízterület a vízi életközösséggel kapcsolatos természetes folyamatok oktatási, kutatási, illetve ismeretterjesztési célú bemutatására különösen alkalmas,
+
+cc) a halgazdálkodási vízterület halgazdálkodási joga kutatóintézetet vagy felsőoktatási intézményt illet meg, vagy
+
+cd) a halgazdálkodási vízterületen új, környezetbarát halászati vagy horgászati hasznosítási móddal kapcsolatos kutatás folyik;
+
+d) országos jelentőségű turisztikai érdekek érvényesítése miatt, amennyiben
+
+da) a halgazdálkodási vízterületen történő horgászturisztikai fejlesztés az országosan vagy regionálisan kiemelt térség érdeke,
+
+db) a halgazdálkodási vízterület jelentős természetes fürdővízként különleges halgazdálkodási kezelést igényel, vagy
+
+dc) a halgazdálkodási vízterület kimagasló tájképi, természeti értéke olyan turisztikai vonzerő, melynek fenntartása különleges halgazdálkodási kezelést igényel.
+
+### 9. §
+
+(1) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítása nem korlátozhatja a védelemvezető által elrendelt ár- és belvíz-védekezési, illetve vízminőségi kárelhárítási munkálatokat.
+
+(2) Adott halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításakor, ha a vízjogi engedélyben nem elsődleges hasznosítási módként került meghatározásra a halgazdálkodás, akkor az elsődleges hasznosításra, funkcióra, azok ellátásához szükséges tevékenységekre vonatkozó korlátozás a különleges rendeltetés keretében nem kerülhet meghatározásra.
+
+(3) A különleges rendeltetésűvé nyilvánított halgazdálkodási vízterület halgazdálkodási hasznosítása során figyelembe kell venni a Hhvtv. 5. §-a szerinti rendelkezéseket.
+
+### 10. §
+
+(1) A miniszter határozata tartalmazza a 8. § (2) bekezdésében meghatározott, a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítását megalapozó szempontot, továbbá a Hhvtv.-ben foglaltaknak megfelelő, az adott halgazdálkodási vízterületre vonatkozó halgazdálkodási előírásokat, amelynek keretében
+
+a) az őshonos halfajokra jogszabályban meghatározott tilalmi időt meghosszabbíthatja, illetve megrövidítheti;
+
+b) az őshonos halfajokra további méret-, illetve mennyiségi korlátozást írhat elő, vagy ezek alól a halgazdálkodási vízterületre vagy annak egy részére meghatározott időtartamra felmentést engedélyezhet;
+
+c) általános halászati, illetve horgászati tilalmat rendelhet el; valamint
+
+d) hallépcső létesítését és működtetését írhatja elő.
+
+(2) A miniszter az (1) bekezdés szerinti határozatát közli a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatósággal, valamint természetvédelmi jellegű közérdek alapján hozott határozat esetében az illetékes természetvédelmi hatósággal.
+
+(3) Ha az (1) bekezdés szerinti határozat vízilétesítmény létesítését, működtetését érinti, a miniszter a határozatot közli a vízilétesítmény vízjogi engedélyesével, valamint a vízilétesítménnyel érintett ingatlan tulajdonosával, illetve vagyonkezelőjével.
+
+### 11. §
+
+A 10. § szerinti határozat alapján a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóság a különleges rendeltetés tényét haladéktalanul bejegyzi a halgazdálkodási vízterületek nyilvántartásába, illetve a nyilvántartást a különleges rendeltetést jelző víztérkódra módosítja.
+
+### 12. §
+
+(1) A különleges rendeltetésűvé nyilvánítást a miniszter annak megállapítása érdekében, hogy a különleges rendeltetésűvé nyilvánítás oka továbbra is fennáll-e, felülvizsgálja
+
+a) a fenntartás megvizsgálására irányuló kérelem esetén;
+
+b) az államot megillető halgazdálkodási jog vagyonkezelésbe adása esetén a vagyonkezelési szerződés megszűnésekor;
+
+c) ha az *a)* és *b)* pont alapján felülvizsgálat nem történt, a különleges rendeltetésűvé nyilvánítástól számított 5 év elteltével.
+
+(2) A miniszter a felülvizsgálat eredménye alapján döntést hoz arra vonatkozóan, hogy az adott nyilvántartott halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának fenntartása indokolt-e.
+
+(3) Ha a felülvizsgálat eredménye alapján megállapítható, hogy a különleges rendeltetésűvé nyilvánítás oka
+
+a) időközben megszűnt, a miniszter az adott nyilvántartott halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítását visszavonja;
+
+b) továbbra is fennáll, a miniszter az adott nyilvántartott halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítását fenntartja.
+
+(4) A miniszter a nyilvántartott halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítását visszavonó, illetve fenntartó határozatát közli a 10. § (2)–(3) bekezdése szerinti érintettekkel.
+
+(5) A különleges rendeltetésűvé nyilvánítás visszavonása az államot megillető halgazdálkodási jog átengedésére irányuló haszonbérleti vagy vagyonkezelési szerződésre joghatással nem bír.
+
+### 13. §
+
+(1) Azon a különleges rendeltetésűvé nyilvánított halgazdálkodási vízterületen, ahol a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóság a különleges rendeltetésűvé nyilvánítást megelőzően jóváhagyott halgazdálkodási tervet, a különleges rendeltetésűvé nyilvánítástól számított 90 napon belül a halgazdálkodási tervet felülvizsgálja abból a célból, hogy az tartalmazza-e a különleges rendeltetésűvé nyilvánításra okot adó közérdek miatt szükséges előírásokat.
+
+(2) A halgazdálkodási tervet a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóság felülvizsgálja abban az esetben is, ha a miniszter a különleges rendeltetésűvé nyilvánítást visszavonta.
+
+(3) Az (1)–(2) bekezdésben meghatározott felülvizsgálat eredménye alapján a halgazdálkodási hatóság a különleges rendeltetésűvé nyilvánított halgazdálkodási vízterületre vonatkozóan
+
+a) ha a korábban jóváhagyott halgazdálkodási terv módosítás nélkül megfelel a halgazdálkodási hatósági előírásoknak, a halgazdálkodási terv változatlan formában történő érvényességéről a halgazdálkodásra jogosultat értesíti;
+
+b) ha a korábban jóváhagyott halgazdálkodási tervben foglaltakhoz képest eltérés következett be, a halgazdálkodásra jogosultat határozatában kötelezi a halgazdálkodási terv módosítására, vagy ha a halgazdálkodásra jogosult e kötelezettségét határidőre nem teljesíti, a halgazdálkodási tervet hivatalból módosítja.
+
+## 3. A halgazdálkodási kíméleti terület kijelölésére irányuló eljárás
+
+### 14. §
+
+(1) A halgazdálkodási hatóság a vermelő- és ívóhelyek ökológiai szerepének külön vizsgálata nélkül halgazdálkodási kíméleti területet (a továbbiakban: kíméleti terület) jelöl ki
+
+a) a 200 ha-nál nagyobb vízterületű vagy
+
+b) folyóvíz esetén a 20 kilométernél hosszabb
+
+nyilvántartott halgazdálkodási vízterületeken.
+
+(2) A kíméleti terület kijelölése iránti eljárást az (1) bekezdés szerinti esetkörben a halgazdálkodásra jogosultnak kell kérelmeznie. Ha a nyilvántartott halgazdálkodási vízterület nem éri el az (1) bekezdésben foglalt méretküszöböt, a kíméleti terület kijelölése a Hhvtv.-ben foglalt feltételek fennállása esetén kérelmezhető, vagy a kijelölést a halgazdálkodási hatóság hivatalból végzi el.
+
+(3) A kíméleti terület kijelölésére irányuló kérelemnek tartalmaznia kell a kíméleti terület helyét és méretét, valamint a kérelmet alátámasztó indokok bemutatását.
+
+(4) A kérelmet az agrárgazdasági és agrár-vidékfejlesztési szakterületeken a szakértői tevékenység végzésének feltételeiről szóló miniszteri rendelet szerinti szakértői névjegyzékben szereplő halászati szakértő vagy országos kutatási célú halfogási engedéllyel rendelkező személy készítheti elő.
+
+(5) A kíméleti területeket a halgazdálkodási hatóság, valamint az Országos Halgazdálkodási Adattár
+
+a) a kíméleti területet kijelölő EOV koordinátákra,
+
+b) a kíméleti területként kijelölt vízterület méretére és
+
+c) a kíméleti terület vermelő- vagy ívóhelyként történő kijelölésére
+
+vonatkozó adatokkal tartja nyilván.
+
+(6) A kíméleti terület meghatározott nyilvántartott halgazdálkodási vízterület szakaszokra vagy részekre, ötéves időtartamra jelölhető ki. A kíméleti terület kijelölése hivatalból vagy kérelemre újabb ötéves időszakra meghosszabbítható. A kíméleti terület kijelölése a halgazdálkodásra jogosult kérelmére módosítható.
+
+### 15. §
+
+(1) A kíméleti területre érvényes tilalmak és korlátozások megismertetéséről a halgazdálkodásra jogosult köteles gondoskodni.
+
+(2) A halgazdálkodásra jogosult a területi jegyen vagy a területi jeggyel együtt átadott nyomtatott tájékoztatóban gondoskodik a kíméleti terület határai részletes leírásának, valamint a kíméleti területre vonatkozó halfogási tilalom időbeli hatályának megismertetéséről.
+
+(3) A kíméleti területként kijelölt vermelőhelyen legalább november 15-től február 28-ig, ívóhelyen legalább március 1-jétől június 15-ig tartó általános halászati és horgászati tilalmat kell elrendelni. A tilalom nem érinti az őshonos halállományt veszélyeztető, tájidegen, idegenhonos inváziós halfajok gyérítése érdekében a halgazdálkodásra jogosult által végzett tevékenységeket.
+
+## 3/A. [^7] A haltermeléssel kapcsolatos engedélyezés
+
+### 15/A. §
+
+(1) Idegenhonos hal vagy idegenhonos más hasznos víziállat, valamint annak továbbtenyésztésből származó utódja – a 708/2007/EK rendelet IV. számú mellékletében meghatározott kivétellel – haltermelési létesítménybe történő kihelyezése a halgazdálkodási hatóság engedélyével végezhető. Az engedély akkor adható ki, ha a kihelyezés előreláthatóan nem gyakorol kedvezőtlen hatást az őshonos állományok genetikai változatosságára, egészségi állapotára vagy mennyiségi viszonyára.
+
+(2) Az (1) bekezdés szerinti engedély iránti kérelmet a haltermelési létesítmény üzemeltetője a 708/2007/EK rendelet I. mellékletében foglalt adattartalommal nyújtja be a halgazdálkodási hatósághoz.
+
+(3) Ha az (1) bekezdésben meghatározott kihelyezés zárt haltermelési létesítménybe történik, a létesítmény üzemeltetője az (1) bekezdés szerinti engedély iránti kérelemhez csatolja a zárt rendszer jellemzőinek leírását a termelni kívánt fajra és korcsoportra, valamint az adott környezetben túlélésre képes biológiai anyagra vonatkozóan.
+
+(4) Az (1) bekezdés szerinti kihelyezés engedélyezése során a halgazdálkodási hatóság a döntésben
+
+a) meghatározza a haltermelési létesítménybe történő kihelyezés célját, és
+
+b) mellékletként csatolja a halgazdálkodási hatóság által elfogadott, a 708/2007/EK rendelet 17. cikke szerinti vészhelyzeti intézkedési tervet.
+
+### 15/B. §
+
+(1) A Pannon biogeográfiai régión kívülről származó őshonos hal vagy más hasznos víziállat egyedének haltermelési létesítménybe történő kihelyezése a halgazdálkodási hatóság engedélyével végezhető. Az engedély akkor adható ki, ha a kihelyezéssel elérni kívánt cél a Pannon biogeográfiai régióból származó őshonos állomány felhasználásával nem valósítható meg, és a kihelyezés előreláthatóan nem gyakorol kedvezőtlen hatást az őshonos állományok genetikai változatosságára vagy egészségi állapotára.
+
+(2) Az (1) bekezdés szerinti engedély iránti kérelem az Ákr. 36. § (1) bekezdésében foglaltakon túlmenően tartalmazza:
+
+a) a haltermelési létesítménybe történő kihelyezés céljának megjelölését és indokolását;
+
+b) annak részletes bemutatását, hogy az *a)* pont szerinti cél miért nem valósítható meg a Pannon biogeográfiai régióból származó őshonos állomány felhasználásával.
+
+(3) Az intézkedési tervet a kérelmező az (1) bekezdés szerinti engedély iránti kérelemhez csatolja.
+
+### 15/C. §
+
+(1) Nyilvántartott halgazdálkodási vízterületen horgászati vagy étkezési célú haltermelés vagy kizárólagos horgászati célú haltermelés a halgazdálkodási hatóság engedélyével végezhető. Az engedély akkor adható ki, ha a nyilvántartott halgazdálkodási vízterület egésze vagy a haltermelésre használni kívánt része horgászati célú halgazdálkodással történő hasznosításra nem alkalmas.
+
+(2) Az (1) bekezdés szerinti engedély kiadására irányuló kérelem tartalmazza:
+
+a) a haltermelés célját;
+
+b) a létesíteni kívánt haltermelési létesítmény típusát;
+
+c) a termelni kívánt fajok megnevezését;
+
+d) a termelési technológia bemutatását.
+
+(3) A (2) bekezdés szerinti kérelem benyújtásával egyidejűleg szükséges igazolni
+
+a) a haltermelést végző természetes személy vagy jogi személy esetén a haltermelést végző alkalmazott halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendelet szerinti halászati, halgazdálkodási képesítés;
+
+b) alhaszonbérlő esetén a halgazdálkodásra jogosult haszonbérlő hozzájáruló nyilatkozat;
+
+c) horgászszövetség esetén a horgászati vagy kizárólagos horgászati célú haltermelésre irányuló nyilatkozat;
+
+d) a nyilvántartott halgazdálkodási vízterület haltermelésre hasznosítani kívánt része horgászati célú halgazdálkodással történő hasznosításra nem alkalmas állapotára vonatkozó nyilatkozat;
+
+e) a haltermelésre hasznosítani kívánt nyilvántartott halgazdálkodási vízterületre vonatkozó halgazdálkodási terv
+
+meglétét.
+
+(4) Ha a horgászati vagy étkezési célú haltermelés vagy kizárólagos horgászati célú haltermelés védett természeti területen történik, akkor az – az (1) bekezdésben meghatározott engedélyen túlmenően – a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
+
+(5) Az (1) bekezdés szerinti nyilvántartott halgazdálkodási vízterületen folytatott haltermelés az (1) bekezdésben meghatározott engedélyen túlmenően, a haltermelési létesítmények esetében a haltermelési létesítmény üzemeltetője részére előírt egyéb engedélyek birtokában végezhető. A halgazdálkodásra jogosult a haltermelési tevékenységét feltünteti a halgazdálkodási hatóság által jóváhagyandó halgazdálkodási tervében.
+
+## 3/B. [^8] Idegenhonos halak és más hasznos víziállatok szállításának engedélyezése
+
+### 15/D. §
+
+(1) A 708/2007/EK rendelet IV. számú mellékletében fel nem sorolt idegenhonos hal és más hasznos víziállat fajok egyedeinek nem rutin szállítása esetén a környezeti kockázatértékelést kérelemre – a 708/2007/EK rendelet 9. cikk (1) bekezdése szerint – az országos illetékességgel eljáró halgazdálkodási hatóság rendeli el, és a kérelmező költségére a miniszter által kijelölt szakmai kutatóintézet vagy oktatási intézmény végzi el.
+
+(2) A szomszédos tagállamokat érintő szállítások esetén az országos illetékességgel eljáró halgazdálkodási hatóság a szállítás engedélyezésére vonatkozó határozattervezetet készít, melyet megküld a miniszter által vezetett minisztériumnak külön indokolással és a környezeti kockázatértékelés 708/2007/EK rendelet II. számú mellékletében meghatározott összefoglalójával együtt. Az engedély megadásának szándékáról az érintett tagállamok és az Európai Bizottság – a 708/2007/EK rendelet 11. cikke szerinti – értesítését, egyetértése esetén, a minisztérium végzi. Az Európai Bizottság határozata alapján az országos illetékességgel eljáró halgazdálkodási hatóság határozattal dönt a szállítás engedélyezéséről.
+
+(3) A szállításokra vonatkozó információs rendszer vezetéséről – az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló 708/2007/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 13-i 535/2008/EK bizottsági rendelet (a továbbiakban: 535/2008/EK bizottsági rendelet) 4. cikke szerint – a minisztérium az országos illetékességgel eljáró halgazdálkodási hatóság útján gondoskodik. Az információs rendszer a szállítási kérelmek, engedélyek és értékelések 535/2008/EK bizottsági rendelet melléklete szerinti adatait tartalmazza. Az országos illetékességgel eljáró halgazdálkodási hatóság internetes honlapján az információs rendszert közzéteszi.
+
+(4) Ha – a 708/2007/EK rendelet 18. cikke szerinti – megfigyelési programot kell lefolytatni, az országos illetékességgel eljáró halgazdálkodási hatóság dönt annak helyszínéről. A megfigyelési program értékelését a nemzeti nyilvántartásba vétel céljából az országos illetékességgel eljáró halgazdálkodási hatóság juttatja el a miniszter által kijelölt szakmai kutatóintézetnek vagy oktatási intézménynek.
+
+## 4. Egyéb eljárási rendelkezések
+
+### 16. §
+
+(1) A tömeges hal-, illetve más hasznos víziállat-pusztulás észlelése esetén a vízszennyezés vizsgálata érdekében végzett mintavételezés és laborvizsgálat, valamint a hal-, illetve más hasznos víziállat-pusztulás kivizsgálása körében felmerült további költségek eljárási költségnek minősülnek. A laborvizsgálat eredményeiről a vízvédelmi hatóságot, állami tulajdonban álló halgazdálkodási vízterület esetén a vagyonkezelőt tájékoztatni kell.
+
+(2) A halgazdálkodási hatóság a Hhvtv. 40. § (1) bekezdése alapján feljogosított szervezet által a horgász fogási naplók adatfeldolgozására irányuló tevékenységét mintavételi eljáráson alapuló módszerrel ellenőrzi.
+
+(3) Az ötéves halgazdálkodási tervet az előző halgazdálkodási terv lejáratát megelőzően legalább 90 nappal kell a halgazdálkodási hatósághoz benyújtani.
+
+### 17. §
+
+(1) A Hhvtv. 52. § (2) bekezdése szerinti ellenőrzés során a halgazdálkodási hatóság ellenőrzi a telepíteni kívánt halfajokat, azok mennyiségét, az állategészségügyi dokumentumok meglétét, a hal származására, eredetére vonatkozó igazolásokat.
+
+(2) A halgazdálkodási hatóság az (1) bekezdés szerinti ellenőrzése során a telepítendő haltételből mintát vehet, és azt az illetékes állategészségügyi hatóságnak további vizsgálat céljából átvételi elismervény ellenében átadhatja.
+
+## 5. Záró rendelkezések
+
+### 18. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+### 19. §
+
+(1) E rendelet 4. § (1) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
+
+(3)[^9] E rendelet 3/B. alcíme az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet végrehajtásához szükséges egyes rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. alcím címe a 398/2021. (VII. 6.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 2. § (6) bekezdését a 104/2024. (V. 9.) Korm. rendelet 31. §-a hatályon kívül helyezte.
+[^3]: A 4. § (1) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^5]: Az 1/A. alcímet (5/A–5/F. §) a 398/2021. (VII. 6.) Korm. rendelet 4. §-a iktatta be.
+[^6]: Az 1/B. alcímet (5/G–5/H. §) a 398/2021. (VII. 6.) Korm. rendelet 5. §-a iktatta be.
+[^7]: A 3/A. alcímet (15/A–15/C. §) a 398/2021. (VII. 6.) Korm. rendelet 6. §-a iktatta be.
+[^8]: A 3/B. alcímet (15/D. §) a 398/2021. (VII. 6.) Korm. rendelet 7. §-a iktatta be.
+[^9]: A 19. § (3) bekezdését a 398/2021. (VII. 6.) Korm. rendelet 8. §-a iktatta be.

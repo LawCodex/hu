@@ -1,0 +1,137 @@
+---
+title: "420/2017. (XII. 19.) Korm. rendelet a bűncselekmények áldozatainak nyújtott támogatások engedélyezése iránti eljárás, valamint a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályairól"
+identifier: "420/2017. (XII. 19.) Korm. rendelet"
+njt_id: "2017-420-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/420"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-19
+in_force_from: 2018-01-01
+last_amended: 2024-10-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-420-20-22"
+retrieved: 2026-10-12
+---
+
+# 420/2017. (XII. 19.) Korm. rendelet a bűncselekmények áldozatainak nyújtott támogatások engedélyezése iránti eljárás, valamint a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályairól
+
+A Kormány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 46. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az áldozat szükségleteinek felmérése
+
+### 1. §
+
+(1)[^1] Az áldozatsegítő szolgálatként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: területi áldozatsegítő szolgálat) és az igazságügyért felelős miniszter (a továbbiakban: miniszter) a hozzá forduló ügyfelek szükségleteit a miniszter által összeállított kérdőív (a továbbiakban: kérdőív) alapján méri fel.
+
+(2) A kitöltött kérdőív alapján kell a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 4. § (1) bekezdésében felsorolt szolgáltatások közül felajánlani azt, ami az ügyfél szükségletének kielégítéséhez a legmegfelelőbb. Ennek során egynél több szolgáltatás is felajánlható, az ügyfél a felajánlottól eltérő szolgáltatást is kérhet.
+
+## 2. Az érdekérvényesítés elősegítése szolgáltatással kapcsolatos szabályok
+
+### 2. §
+
+Az Ást. 5. § a) pontja értelmében érdekérvényesítés elősegítése iránti kérelem ismételt előterjesztése esetén az ügyfél részére nem nyújtható szolgáltatás, ha a területi áldozatsegítő szolgálat az áldozattal egyeztetett körben:
+
+a) tájékoztatást adott, segítséget nyújtott a sérelem orvoslásához szükséges eljárás megindításához, intézkedés kezdeményezéséhez, szolgáltatás igénybevételéhez,
+
+b) figyelemmel kísérte az *a)* pontban foglalt eljárás lefolytatását, az eljárásban érintett hatóságnak, közigazgatási szervnek, intézménynek vagy más szervezetnek az ügy érdemében hozott döntését, intézkedését, valamint a szolgáltatás teljesítését, vagy
+
+c) segítséget nyújtott a panaszjog gyakorlásához.
+
+## 3. Az áldozati státusz igazolásával kapcsolatos eljárás
+
+### 3. §
+
+Ha a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben meghatározott jogi segítségnyújtásra van szükség, és az ügyfél az Ást. hatálya alá tartozó és áldozatsegítési támogatásban részesíthető áldozatnak minősül, a területi áldozatsegítő szolgálat az áldozati státusz igazolását, továbbá a kiadásának alapjául szolgáló dokumentumok másolatát, és – ha rendelkezésre áll – a jogi segítségnyújtási nyomtatványt, valamint mellékleteit haladéktalanul, de legkésőbb három napon belül továbbítja az ügyfél választása szerinti illetékes jogi segítségnyújtó szolgálatnak.
+
+## 4.[^2]
+
+## 5. Támogató hatósági feladatok
+
+### 5. §
+
+(1)[^3] A támogató hatóságként eljáró vármegyei kormányhivatal (a továbbiakban: támogató hatóság) a kérelmet és annak mellékleteit a beérkezést követő öt napon belül továbbítja a döntő hatóságként eljáró Budapest Főváros Kormányhivatalához (a továbbiakban: döntő hatóság).
+
+(2) Az áldozatot a döntő hatóság megkeresése alapján az a támogató hatóság hallgatja meg, amely a kérelmet továbbította. Más személy meghallgatása esetén, valamint abban az esetben, ha az áldozat a kérelmét közvetlenül a döntő hatósághoz nyújtotta be, a meghallgatást a meghallgatni kívánt személy választása szerinti támogató hatóság folytatja le. A meghallgatásról jegyzőkönyv készül, amit a meghallgatást követő öt napon belül meg kell küldeni a döntő hatóságnak.
+
+(3)[^4] A döntő hatóság a kárenyhítési eljárásban hozott döntéseiről a támogató hatóságot is értesíti.
+
+## 6. Intézkedés az azonnali pénzügyi segély kifizetése iránt
+
+### 6. §
+
+(1) A kérelem személyes előterjesztése és azonnali határozathozatal esetén a megjelent ügyfélnek az azonnali pénzügyi segélyt vagy annak egy részét a véglegessé vált határozat közlésével egyidejűleg kell készpénzben kifizetni.
+
+(2) A készpénzben ki nem fizetett azonnali pénzügyi segélyt – az ügyfél választása szerint – az ügyfél nevére, lakóhelyére címezve, készpénzkifizetés kézbesítése útján kell megküldeni, vagy a saját nevére szóló fizetési számlájára kell átutalni. Az ügyfél érdekében eljáró harmadik fél szolgáltatásának igénybevétele esetén a más módon ki nem fizetett azonnali pénzügyi segélyt az ügyfél érdekében eljáró harmadik fél nevére szóló folyószámlára kell átutalni.
+
+(3) A területi áldozatsegítő szolgálat kizárólag akkor rendelkezhet a készpénzben ki nem fizetett azonnali segélynek vagy annak egy részének harmadik fél nevére szóló folyószámlára átutalásáról, ha a harmadik félnek az ügyfél érdekében való eljárásáról minden kétséget kizáró módon megbizonyosodott.
+
+(4)[^5] A határozatban nem kell összegszerűen meghatározni a készpénzben ki nem fizetett azonnali pénzügyi segély azon részét, ami az ügyfél érdekében eljáró harmadik fél szolgáltatásának igénybevételére jogosítja az ügyfelet, ebben az esetben a területi áldozatsegítő szolgálat a határozatában az igénybe vehető szolgáltatásról és a szolgáltatás legmagasabb ellenértékéről rendelkezik. Az ügyfél érdekében eljáró harmadik fél – az ügyfél által ténylegesen igénybe vett – szolgáltatásának ellenértékét a területi áldozatsegítő szolgálat a harmadik fél által az „Igazságügyi miniszter feladatkörébe tartozó jogszabályok alapján teljesítendő fizetési kötelezettségek” elnevezésű előirányzat (a továbbiakban: előirányzat) kezelője részére kiállított számla alapján utólag téríti meg.
+
+## 7. Intézkedés a kárenyhítés kifizetése iránt
+
+### 7. §
+
+(1) Az egyösszegű kárenyhítés átutalása vagy postai úton történő kifizetése iránt a miniszter a határozat véglegessé válását követő tizenöt napon belül intézkedik.
+
+(2) Járadék folyósításáról szóló határozat esetén a miniszter a határozat véglegessé válását követően intézkedik a járadéktagok utalása iránt úgy, hogy az ügyfél az első járadéktagot legkésőbb a következő hónap tizedik napjáig megkapja.
+
+## 8. Eljárás a támogatás visszatérítése esetén
+
+### 8. §
+
+Az ügyfél az Ást. 33. §-ában foglalt bejelentési kötelezettségét a döntő hatóságnak köteles teljesíteni.
+
+### 9. §
+
+(1) Ha a területi áldozatsegítő szolgálat visszatérítésre okot adó tényről, körülményről szerez tudomást, és ez alapján a pénzben nyújtott támogatás visszatérítését kell elrendelni, akkor a területi áldozatsegítő szolgálat erről tizenöt napon belül döntést hoz. A visszatérítési kötelezettséget készpénzátutalási megbízással vagy banki átutalással kell teljesíteni.
+
+(2)[^6] A területi áldozatsegítő szolgálat a visszatérítésre kötelező döntéssel egyidejűleg megküldi az ügyfélnek a teljesítésre szolgáló, a (3) bekezdésben foglaltak szerint kitöltött készpénzátutalási megbízást.
+
+(3)[^7] A készpénzátutalási megbízáson a területi áldozatsegítő szolgálat feltünteti a visszatérítendő összeget és a visszatérítési kötelezettségről szóló döntés számát.
+
+(4) A (2) és (3) bekezdés szerint kell eljárni akkor is, ha a területi áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére részletfizetést vagy halasztást engedélyezett.
+
+(5)[^8] Az e rendelet szerinti beazonosíthatatlan befizetést a miniszter a befizetés beazonosításáig, de legfeljebb öt évig függő tételként kezeli. Ha öt év elteltével a befizetés továbbra is beazonosíthatatlan, a miniszter azt jóváírja az előirányzat javára.
+
+### 10. §
+
+A visszatérítendő összeg méltányosságból való mérséklésére, elengedésére vagy a mérséklés mértékére vonatkozóan a méltányossági kérelem elbírálására az igazságügyi szolgáltatásokkal kapcsolatos egyes feladat- és hatáskörökről szóló kormányrendelet szerint jogosult áldozatsegítő szolgálat a következő szempontokat mérlegeli:
+
+a) az áldozat és a vele közös háztartásban élők létfenntartása, megélhetése veszélybe kerül-e a visszatérítendő összeg megfizetése esetén,
+
+b) a visszatérítendő összeg nagyságát,
+
+c)[^9]
+
+## 9. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2018. január 1. napján lép hatályba.
+
+### 12. §
+
+E rendeletet a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+### 13. §
+
+Ez a rendelet
+
+a) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek, valamint
+
+b) a bűncselekmények áldozatainak kárenyhítéséről szóló, 2004. április 29-i 2004/80/EK tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 270. §-a szerint módosított szöveg.
+[^2]: A 4. alcímet (4. §) a 764/2021. (XII. 23.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^3]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 182. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 270. §-a szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdését a 276/2024. (IX. 26.) Korm. rendelet 7. §-a iktatta be.
+[^5]: A 6. § (4) bekezdése a 350/2023. (VII. 27.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^6]: A 9. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 48. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 9. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^8]: A 9. § (5) bekezdése a 350/2023. (VII. 27.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^9]: A 10. § c) pontját a 613/2020. (XII. 18.) Korm. rendelet 1. §-a hatályon kívül helyezte.

@@ -1,0 +1,186 @@
+---
+title: "178/2013. (VI. 4.) Korm. rendelet a Nemzeti Humanitárius Koordinációs Tanácsról"
+identifier: "178/2013. (VI. 4.) Korm. rendelet"
+njt_id: "2013-178-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/178"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-04
+in_force_from: 2013-06-05
+last_amended: 2025-11-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-178-20-22"
+retrieved: 2026-10-12
+---
+
+# 178/2013. (VI. 4.) Korm. rendelet a Nemzeti Humanitárius Koordinációs Tanácsról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+A Nemzeti Humanitárius Koordinációs Tanács (a továbbiakban: Tanács)
+
+a) a 2. § (2) bekezdés a) pontja szerinti esetben a Kormány által az Alaptörvény 53. cikke alapján kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet),
+
+b) a 2. § (2) bekezdés b) pontja szerinti esetben a Kormány által az egészségügyről szóló 1997. évi CLIV. törvény 228. §-a alapján elrendelt egészségügyi válsághelyzet (a továbbiakban: egészségügyi válsághelyzet)
+
+kezelése során ellátja az 5. § szerinti és a 7. § (6) bekezdése szerinti ügyrendben a számára megállapított humanitárius jellegű feladatokat.
+
+## 2. §[^2]
+
+(1) A Tanács működése ülésszakokra tagozódik.
+
+(2) Az ülésszak
+
+a) a veszélyhelyzet kihirdetésekor vagy
+
+b) az egészségügyi válsághelyzet elrendelésekor
+
+kezdődik.
+
+(3) Az ülésszak lezárását a Tanács határozza meg, azzal, hogy az ülésszak legfeljebb a veszélyhelyzet vagy az egészségügyi válsághelyzet megszűnését követő hat hónapig tarthat.
+
+## 3. §[^3]
+
+(1) A Tanács tagjai a Karitatív Tanács megalakításáról és működésének részletes szabályairól szóló 65/2000. (V. 9.) Korm. rendeletben foglalt Karitatív Tanács tagjai (a továbbiakban: szervezeti tag).
+
+(2) A Tanács tagjai az (1) bekezdésben foglaltakon túl:
+
+a) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság főigazgatója,
+
+b) a katasztrófák elleni védekezésért felelős miniszter által kijelölt állami vezető,
+
+c)[^4] a szociálpolitikáért felelős miniszter által kijelölt állami vezető,
+
+d) a Tanács elnöke.
+
+(3) A Tanács elnöke az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter vagy az általa kijelölt személy.
+
+## 4. §
+
+A szervezeti tag tagsága megszűnik, ha
+
+a) a szervezeti tag a megállapodást az abban meghatározottak szerint felmondja,
+
+b) a szervezeti tag nem tesz eleget az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló NMHH rendelet szerinti részletezettségű adattartalommal a befolyt adományok felhasználására vonatkozó közzétételi kötelezettségének,
+
+c) a szervezeti tag jogutód nélkül megszűnik.
+
+## 5. §
+
+(1) A Tanács feladatai a szervezeti tagok függetlenségét, önállóságát nem érintve:
+
+a) dönt az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló NMHH rendelet szerint létrejött, a 1357-es hívószámon működő „Nemzeti Összefogás Vonala” adománygyűjtő vonalra (a továbbiakban: Adományvonal), továbbá az ahhoz tartozó számlára érkező adományok elosztásáról, koordinálja azok felhasználását,
+
+b)[^5] összehangolja a szervezeti tagok veszélyhelyzetben vagy egészségügyi válsághelyzetben folyatott karitatív segítségnyújtását,
+
+c)[^6] figyelemmel kíséri a veszélyhelyzetben vagy egészségügyi válsághelyzetben folytatott adományozási gyakorlatot.
+
+(2)[^7] A szervezeti tagok saját adománygyűjtő vonalainak működtetése az ülésszak kezdőnapján a Tanács döntése alapján felfüggesztésre kerül.
+
+(2a)[^8] Az 5. § (3) bekezdés b) vagy d) pontjában megállapított döntést követően a Tanács jogosult a felfüggesztésről – a folyamatban lévő ülésszak időtartama alatt – ismételten dönteni.
+
+(3)[^9] A felfüggesztés
+
+a) a 2. § (2) bekezdés a) pontja szerinti esetben a veszélyhelyzet megszűnéséig,
+
+b) a Tanács döntése alapján – a 2. § (2) bekezdés a) pontja szerinti esetben – a veszélyhelyzet megszűnését megelőző időpontig,
+
+c) a 2. § (2) bekezdés b) pontja szerinti esetben az egészségügyi válsághelyzet megszűnéséig,
+
+d) a Tanács döntése alapján – a 2. § (2) bekezdés b) pontja szerinti esetben – az egészségügyi válsághelyzet megszűnését megelőző időpontig
+
+tart.
+
+## 6. §
+
+(1) A Tanács a feladatai ellátásához szükséges gyakorisággal ülésezik, üléseit a Tanács elnöke hívja össze.
+
+(2) A szervezeti tag Tanácsban való képviseletére a szervezet képviselője által írásban felhatalmazott személy jogosult.
+
+(3)[^10] A 3. § (2) bekezdés a)–c) pontjában meghatározott tagok jogosultak – eseti meghatalmazás alapján – a meghatalmazottjuk útján eljárni a Tanácsban.
+
+## 7. §
+
+(1)[^11] A Tanács üléseit az elnök vezeti. Az elnököt távollétében vagy akadályoztatása esetén teljes jogkörben az általa kijelölt tag helyettesíti.
+
+(2) A Tanács akkor határozatképes, ha tagjainak legalább fele jelen van. Határozatképtelenség esetén az ülést újra össze kell hívni.
+
+(3)[^12] A Tanács a döntéseit a Tanács ülésén jelen lévő tagok felének támogató szavazatával hozza meg, szavazategyenlőség esetén az elnök – távollétében vagy akadályoztatása esetén az általa kijelölt tag – szavazata dönt.
+
+(4)[^13] A Tanács üléseiről, valamint a 7/A. § szerinti ülés tartása nélküli döntéshozatalról jegyzőkönyvet kell készíteni, amelyben fel kell tüntetni az ülés helyét, idejét, tárgyát, a jelenlevők nevét, a határozatképességre vonatkozó adatokat és a szavazás eredményét. A határozat eredeti példányát a jegyzőkönyvhöz kell csatolni. A jegyzőkönyvet az elnök – távollétében vagy akadályoztatása esetén az általa kijelölt tag – és a jegyzőkönyvvezető írja alá, és egy tag hitelesíti.
+
+(5)[^14] A Tanács működtetésével kapcsolatos titkársági teendőket a Tanács elnöke látja el.
+
+(6) A Tanács működésének részletes szabályait az általa jóváhagyott ügyrend tartalmazza.
+
+(7) Az elnök a Tanács ülésére tanácskozási joggal bárkit meghívhat.
+
+## 7/A. §[^15]
+
+(1)[^16] A veszélyhelyzet vagy az egészségügyi válsághelyzet körülményeire figyelemmel – az elnök határozata alapján – a Tanács ülés tartása nélkül is hozhat döntést.
+
+(2) Az ülés tartása nélküli döntéshozatal esetén a Tanács tagjai az előterjesztést telekommunikációs, informatikai eszköz útján egyeztetik, valamint tárgyalják meg.
+
+(3) Az ülés tartása nélküli döntéshozatal esetén – az egyes napirendi pontok tekintetében – a határozatképességre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a döntéshozatali eljárás akkor eredményes, ha – telekommunikációs vagy informatikai eszköz útján – írásban legalább annyi szavazatot megküldenek az elnök részére, amennyi tag jelenléte a határozatképességhez szükséges lett volna az ülés megtartása esetén. Ha valamely tag az elnök által megjelölt határidőn belül írásban nem szavazott az előterjesztésről, azt úgy kell tekinteni, mintha a nem szavazó tag – az adott napirendi pont tekintetében – az ülésen nem jelent volna meg.
+
+## 8. §
+
+Az Adományvonal számlaszámára érkező támogatások forrásai:
+
+a) belföldi és külföldi természetes személyek, jogi személyek, valamint jogi személyiség nélküli szervezetek önkéntes befizetései, adományai,
+
+b) más államtól vagy nemzetközi szervezettől származó támogatások,
+
+c) a számla-egyenleg után a számlavezető pénzügyi intézmény által fizetendő kamat,
+
+d) telekommunikációs szolgáltatók által utalt, az Adományvonal hívószámra érkezett adományok.
+
+## 9. §[^17]
+
+Az Adományvonal bevételei kizárólag a szervezeti tagok veszélyhelyzetek kezelése során ellátott – magyarországi és Magyarországgal szomszédos országban végzett – humanitárius jellegű feladataival kapcsolatos kiadásokra használhatók fel.
+
+## 10. §
+
+Az Adományvonal számlaszáma feletti rendelkezésre kizárólagosan a Tanács elnöke jogosult.
+
+## 11. §
+
+A Tanács tagjai és meghívottjai a Tanácsban végzett tevékenységükért tiszteletdíjban nem részesülnek.
+
+## 12. §[^18]
+
+A Tanáccsal kapcsolatos kommunikációs feladatokat a közigazgatás-szervezésért felelős miniszter látja el.
+
+## 13. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 14. §[^19]
+
+A Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet módosításáról szóló 265/2022. (VII. 27.) Korm. rendelet hatálybalépésekor[^20] a Tanács folyamatban lévő ülésszaka lezárását a Tanács határozza meg, azzal, hogy az ülésszak legfeljebb az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelettel kihirdetett veszélyhelyzet megszűnését követő hat hónapig tarthat.
+
+---
+
+[^1]: Az 1. § a 265/2022. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 265/2022. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § az 56/2019. (III. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés c) pontja a 265/2022. (VII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdés b) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § a) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés c) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § b) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 85/2022. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 5. § (2a) bekezdését a 265/2022. (VII. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^9]: Az 5. § (3) bekezdését a 629/2020. (XII. 22.) Korm. rendelet 7. §-a iktatta be, szövege a 265/2022. (VII. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (3) bekezdését a 629/2020. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
+[^11]: A 7. § (1) bekezdése a 629/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (3) bekezdése a 629/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^13]: A 7. § (4) bekezdése a 629/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^14]: A 7. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 738. §-a, az 56/2019. (III. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 7/A. §-t a 629/2020. (XII. 22.) Korm. rendelet 10. §-a iktatta be.
+[^16]: A 7/A. § (1) bekezdése a 265/2022. (VII. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^17]: A 9. § a 355/2025. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 12. § a 101/2018. (VI. 11.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^19]: A 14. § a 265/2022. (VII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: A hatálybalépés napja 2022. július 28.

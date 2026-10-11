@@ -1,0 +1,718 @@
+---
+title: "369/2014. (XII. 30.) Korm. rendelet a hulladékká vált gépjárművekről"
+identifier: "369/2014. (XII. 30.) Korm. rendelet"
+njt_id: "2014-369-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/369"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-12-30
+in_force_from: 2014-12-31
+last_amended: 2025-07-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-369-20-22"
+retrieved: 2026-10-12
+---
+
+# 369/2014. (XII. 30.) Korm. rendelet a hulladékká vált gépjárművekről
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 5. és 14. pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya
+
+a) a gépjárművekre – ideértve azok alkatrészeit és anyagait, függetlenül attól, hogy utóbbiakat a gépjárművek karbantartása, javítása során építették-e be a gépjárműbe, és azok az eredeti vagy más gyártótól származnak-e –, valamint
+
+b) a hulladékká vált gépjárművekre
+
+terjed ki.
+
+(2) Nem terjed ki e rendelet hatálya a gépjárműadóról szóló törvényben, valamint a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott,
+
+a) a környezet veszélyeztetése nélkül tartott muzeális jellegű gépjárművekre, valamint
+
+b) a háromkerekű gépjárművekre, ide nem értve a hulladékká vált háromkerekű gépjárműveket.
+
+(3) E rendelet 5. §-át a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott különleges rendeltetésű járművekre nem kell alkalmazni.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában:
+
+1\. *aprítógép:* olyan berendezés, amely a hulladékká vált gépjárművet a hasznosítható összetevők visszanyerése céljából kisméretű darabokra aprítja, darabolja, zúzza;
+
+2.[^1] *átvétel:* az a tevékenység, amelynek során a gyártó, a forgalmazó, a koncessziós társaság vagy a bontó a gépjárművet vagy a hulladékká vált gépjárművet a tulajdonosától vagy üzemeltetőjétől kezelés céljából átveszi;
+
+3\. *bontás:* a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet szerinti képesítéssel és jogosultsággal végezhető hulladékkezelési tevékenység, amely magában foglalja a hulladékká vált gépjármű alkatrészekre történő szétszedését – ideértve a hulladéknak minősülő bontott gépjárműalkatrész újrahasználatra előkészítését is –, valamint a hulladékká vált gépjármű aprítógéppel történő aprítását, darabolását, zúzását;
+
+4\. *bontó:* a hulladékká vált gépjármű szárazra fektetését és bontását végző olyan hulladékkezelő, aki vagy amely a szárazra fektetéshez és a bontáshoz szükséges műszaki feltétellel és engedélyekkel rendelkezik;
+
+5\. *érintett gazdasági szereplő:* a gépjármű és alkatrészeinek gyártója, forgalmazója, a gépjármű-biztosító szervezet, a hulladékká vált gépjármű átvételét, gyűjtését végző gazdálkodó szervezet, valamint az a gépjármű-hulladékkezelő, amely a hulladékká vált gépjármű bontását, továbbá a bontás során kinyert hulladék további kezelését végzi;
+
+6\. *gépjármű:* a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M1 és N1 járműkategória, továbbá – a motoros tricikli kivételével – a háromkerekű gépjármű;
+
+7\. *szárazra fektetés:* olyan, a bontást megelőző előkezelési tevékenység, amelynek során a hulladékká vált gépjárműből a veszélyes hulladékot tartalmazó összetevőket, elemeket, alkatrészeket eltávolítják;
+
+8\. *visszanyerés:* a hulladékká vált gépjármű, a hulladékká vált gépjárműalkatrész anyagának a termelési folyamatban való ismételt felhasználása annak eredeti céljára vagy egyéb célra, kivéve az energetikai hasznosítást.
+
+(2) Az átvételi hely fogalmára az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott átvételi hely fogalmát kell alkalmazni azzal az eltéréssel, hogy az átvételi helyen a forgalomból kivonni szándékozott, de bontási engedéllyel (a továbbiakban: bontási átvételi igazolás) nem rendelkező gépjárművet is át kell venni.
+
+(3) E rendelet alkalmazásában a gépjármű – ideértve a használt gépjárműveket is – importálását végző gazdálkodó szervezet esetében a gyártóra vonatkozó előírásokat kell alkalmazni.
+
+## 3. Az érintett gazdasági szereplők és a fogyasztók tájékoztatására vonatkozó szabályok
+
+### 3. §
+
+(1) A gyártó a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározottaknak megfelelően – az anyag- és alkatrész-beszállítóival együttműködve – a leghatékonyabb megoldással biztosítja, hogy a veszélyes összetevőkre és az alkatrészek jelölésére, valamint a bontásra vonatkozó információ az érintett gazdasági szereplők és a fogyasztók számára elérhető és megismerhető legyen.
+
+(2)[^2] A gyártó
+
+a) a gépjárművek és alkatrészeik, tartozékaik, összetevőik azonosításához szükséges adatokról;
+
+b) a gépjárművek és alkatrészeik, tartozékaik, összetevőik újrahasználhatóságáról;
+
+c) a hulladékká vált gépjárművek és alkatrészeik, tartozékaik, összetevőik hasznosíthatóságáról;
+
+d) a hulladékká vált gépjárművek kezeléséről – különös tekintettel a gépjárművekből származó folyadékok eltávolítására és a bontásra –;
+
+e) a hulladékká vált gépjárművek és alkatrészeik, tartozékaik, összetevőik újrahasználatának előkészítéséhez, valamint hasznosításához alkalmazott művelet és technológia leghatékonyabb megoldással történő fejlesztéséről; valamint
+
+f) az ártalmatlanítandó hulladékmennyiség csökkentése, továbbá a hasznosítás – különösen az anyagában történő hasznosítás – és a hasznosítási arányok növelése terén elért eredményekről
+
+az érintett gazdasági szereplőket és a fogyasztókat tájékoztatja, a tájékoztatást elérhetővé teszi, és azt az új gépjárművek esetében a termékismertetőben szerepelteti.
+
+(2a)[^3] A koncessziós társaság az ártalmatlanítandó hulladékmennyiség csökkentése, továbbá a hasznosítás – különösen az anyagában történő hasznosítás – és a hasznosítási arányok növelése terén elért eredményekről az érintett gazdasági szereplőket és a fogyasztókat tájékoztatja, a tájékoztatást elérhetővé teszi.
+
+(3)[^4] A gyártó és a forgalmazó az új vagy a használt gépjármű értékesítésekor a fogyasztót – kollektív teljesítés esetén a koncessziós társaság által biztosított információk alapján – tájékoztatja arról, hogy a gépjármű hulladékká válása esetén hol és milyen feltételekkel végzik annak átvételét, a bontási átvételi igazolás kiállítását és a hulladékká vált gépjármű bontását. Az erre vonatkozó információt minden gépjármű-tulajdonos és lehetséges fogyasztó számára nyilvánosan hozzáférhetővé kell tenni.
+
+## 4.[^5] A gyártó és a koncessziós társaság kötelezettségei
+
+### 4. §
+
+(1)[^6] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a forgalomból kivonni szándékozott gépjárművet a tulajdonostól vagy az üzemeltetőtől (a továbbiakban együtt: tulajdonos) átveszi (a továbbiakban: átvételi kötelezettség), és gondoskodik annak – a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet szerinti – bontóhoz történő eljuttatásáról, a bontási átvételi igazolás kiállítását követően a hulladékká vált gépjármű kezeléséről, valamint az e rendelet szerinti hasznosítási arányok teljesítéséről (a továbbiakban: kezelési kötelezettség).
+
+(2)[^7] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság az (1) bekezdésben meghatározott célok elérése érdekében az elérhető legjobb technika alkalmazásával átvevő- és kezelőhálózatot alakít ki és működtet.
+
+(3)[^8] Az átvevő- és kezelőhálózatot úgy kell kialakítani és a gépjármű átvételét biztosítani, hogy
+
+a) közúton haladva 50 kilométeren belül legalább egy olyan hely – átvételi hely vagy hulladékkezelő létesítmény – legyen kialakítva, ahol a tulajdonosnak lehetősége van a gépjárművet a gyártónak, a forgalmazónak, vagy a koncessziós társaságnak kezelés céljából átadni, vagy
+
+b) az a) pontban meghatározott átvételi hely vagy hulladékkezelő létesítmény hiányában a gyártó, a forgalmazó vagy a koncessziós társaság gondoskodjon a tulajdonos kérésére a gépjármű elszállításáról.
+
+(4)[^9] Egyéni teljesítés esetén a gyártó az átvevő- és kezelőhálózatot úgy működteti, hogy az (1) bekezdés szerinti átvételi és kezelési kötelezettségét
+
+a) saját maga vagy
+
+b) szerződés alapján
+
+ba) a bontónál a forgalmazón keresztül vagy
+
+bb) a bontónál közvetlenül
+
+teljesíti.
+
+(5) A (4) bekezdés a) pont szerinti esetben a gyártónak rendelkeznie kell a közlekedési hatóság által kiadott, a bontási tevékenység végzésére vonatkozó engedéllyel.
+
+(6)[^10] Egyéni teljesítés esetén a gyártó a saját maga által, valamint a (2) bekezdés szerinti átvevő- és kezelőhálózaton keresztül átvett és kezelt, kollektív teljesítés esetén a koncessziós társaság és a koncesszori alvállalkozó az átvett hulladékra vonatkozó éves adatokról a telephelyén nyilvántartást vezet (a továbbiakban: nyilvántartási kötelezettség).
+
+(7)[^11] A gyártó, a koncessziós társaság az e rendeletben foglaltak szerint az országos hulladékgazdálkodási hatóság részére adatot szolgáltat (a továbbiakban: adatszolgáltatási kötelezettség).
+
+### 5. §[^12]
+
+Egyéni teljesítés esetén a gyártónak, kollektív teljesítés esetén a koncessziós társaságnak – az érintett gazdasági szereplőkkel együttműködve – a hulladékká vált gépjármű kezeléséről úgy kell gondoskodnia, hogy
+
+a) az 1980. január 1. napja előtt gyártott gépjárművek esetén az összes hulladékká vált gépjármű – az átlagos gépjárműtömeget alapul véve – újrahasználatra előkészítésének és hasznosításának együttes aránya legalább az évi 75 tömegszázalékot, az újrahasználatra előkészítés, újrafeldolgozás és visszanyerés együttes aránya legalább az évi 70 tömegszázalékot;
+
+b) a 2006. január 1. napját követően az összes hulladékká vált gépjármű – az átlagos gépjárműtömeget alapul véve – újrahasználatra előkészítésének és hasznosításának együttes aránya legalább az évi 85 tömegszázalékot, az újrahasználatra előkészítés, újrafeldolgozás és visszanyerés együttes aránya legalább az évi 80 tömegszázalékot;
+
+c) 2015. január 1. napját követően az összes hulladékká vált gépjármű – az átlagos gépjárműtömeget alapul véve – újrahasználatra előkészítésének és hasznosításának együttes aránya legalább az évi 95 tömegszázalékot, az újrahasználatra előkészítés, újrafeldolgozás és visszanyerés együttes aránya legalább az évi 85 tömegszázalékot
+
+elérje.
+
+### 6. §
+
+(1)[^13] Ha a gépjármű tulajdonosa a gépjárművet a gyártónak adja át kezelésre, és a gyártó a 4. § (4) bekezdés a) pontja szerint az átvételi és kezelési kötelezettségét saját maga teljesíti, a gyártó a gépjárművet a tulajdonostól átvételi helyen átveszi.
+
+(2)[^14] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a gépjármű átvételét a közlekedési hatóság által kiállított bontási átvételi igazolás átadásával igazolja.
+
+(3)[^15] Az átvételért és az átvételt igazoló bontási átvételi igazolásért a tulajdonosnak piaci értékkel nem rendelkező hulladékká vált gépjármű esetében sem számítható fel díj, kivéve, ha a gépjármű valamely alapvető összetevője – így különösen a motor, az alváz, a karosszéria, a váltómű, az akkumulátor, vagy a típustartozék katalizátor – hiányzik, vagy abban a gépjárműhöz utólag hozzáadott alkatrészből vagy tartozékból származó hulladék van.
+
+(4)[^16] Ha egyéni teljesítés esetén a gyártó az átvételi hely szerinti telephelyen a 4. § (4) bekezdés a) pontja szerint saját maga gondoskodik a kezelési kötelezettség teljesítéséről, akkor a gyártóra a bontóra és a hulladékká vált gépjármű kezelésére vonatkozó szabályokat kell alkalmazni.
+
+(5)[^17] Ha egyéni teljesítés esetén a gyártó nem az átvételi hely szerinti telephelyen vagy nem saját maga gondoskodik a kezelési kötelezettség teljesítéséről, a bontási átvételi igazolás kiállítását követően a hulladékká vált gépjárművet a bontó részére az átvételt követő 30 napon belül átadja. Ebben az esetben a gyártó a bontási átvételi igazolást a kiállítását követő 15 napon belül a korábbi tulajdonos részére megküldi.
+
+### 7. §[^18]
+
+(1) A koncessziós társaság a 4. § (2) bekezdése szerinti átvevő- és kezelőhálózat kialakítását az országos hulladékgazdálkodási hatóság részére bejelenti.
+
+(2) A koncessziós társaság az (1) bekezdésben meghatározott bejelentéshez az alábbi adatokat adja meg:
+
+a) az átvevő- és kezelőhálózat keretén belül kialakított és üzemeltetett átvételi helyek címét, az átvételi helyek üzemeltetőjének nevét, Környezetvédelmi Ügyfél Jelét (a továbbiakban: KÜJ) és Környezetvédelmi Területi Jelét (a továbbiakban: KTJ);
+
+b) azt, hogy a 6. § (3)–(4) bekezdése szerinti átvétel feltételei hogyan valósulnak meg; valamint
+
+c) az átvételt, a kezelést szerződés alapján teljesítő forgalmazók, bontók, továbbá a szárazra fektetés és a bontás során kinyert hulladék további kezelését végző hulladékkezelők listáját (névvel és címmel ellátva, KÜJ és KTJ feltüntetésével).
+
+(3) A koncessziós társaság az átvevő- és kezelőhálózat működtetésével kapcsolatban bekövetkezett változásokat az országos hulladékgazdálkodási hatóságnak 8 napon belül bejelenti.
+
+(4) Az (1) bekezdés szerinti bejelentés módjára a 17. §-ban meghatározott szabályokat kell megfelelően alkalmazni.
+
+(5) Ha a gyártó a 4. és az 5. §-ban meghatározott kötelezettségeit szerződés alapján a forgalmazón keresztül vagy közvetlenül a bontónál teljesíti, a forgalmazóval, illetve a bontóval megkötött megállapodásának másolatát az országos hulladékgazdálkodási hatóságnak jóváhagyásra megküldi.
+
+## 5.[^19]
+
+## 6. A forgalmazóra vonatkozó szabályok
+
+### 10. §[^20]
+
+Ha egyéni teljesítés esetén a gyártó a 4. § (4) bekezdés b) pont ba) alpontja szerint az átvételi és kezelési kötelezettségét szerződés alapján a forgalmazón keresztül teljesíti, a 6. §-ban meghatározott kötelezettségeket a forgalmazónak kell teljesítenie.
+
+## 7. A gépjármű tulajdonosára vonatkozó szabályok
+
+### 11. §[^21]
+
+(1)[^22] A gépjármű tulajdonosa vagy jogszabály által felhatalmazott, vagy a hulladékgazdálkodási hatóság határozata alapján kötelezett birtokosa a forgalomból véglegesen kivonni szándékozott gépjárművet – a (2) bekezdésben meghatározott kivétellel – a koncessziós társaságnak, a koncesszori alvállalkozó bontónak, egyéni teljesítés esetén a gyártónak, a forgalmazónak, a bontónak átadja, ide nem értve azt az esetet, ha a hulladékká vált gépjármű kezelését a tulajdonos hulladékgazdálkodási engedély birtokában maga végzi.
+
+(2) Ha az olyan gépjármű gyártója, amelyből a hulladékká vált gépjármű képződött, magyarországi székhellyel, telephellyel nem rendelkezik, vagy tevékenységével felhagyott, illetve ha a gyártó megszűnt, a gépjármű tulajdonosa vagy jogszabály által felhatalmazott birtokosa a gépjárművet kizárólag koncesszori alvállalkozó bontónak adhatja át kezelésre.
+
+(3) A gépjármű forgalomból történő végleges kivonásának ténye a gépjármű-nyilvántartásba kizárólag azt követően vezethető be, hogy a hulladékká vált gépjárművet a tulajdonos vagy jogszabály által felhatalmazott birtokos a koncessziós társaságnak, koncesszori alvállalkozónak vagy egyéni teljesítés esetén a gyártónak, a forgalmazónak vagy a bontónak átadta, az átadás tényét igazoló, a közlekedési hatóság által kiállított bontási átvételi igazolást mindkét érintett fél aláírta, és az igazolással a gépjármű tulajdonosa vagy jogszabály által felhatalmazott birtokosa a végleges kivonást a közlekedési igazgatási hatóságnál kérelmezi.
+
+## 8. A hulladékká vált gépjármű szállítására vonatkozó szabályok
+
+### 12. §
+
+Az átvételi helytől a bontóhoz történő szállítás során a hulladékká vált gépjárművet nem kell veszélyes hulladékként szállítani. A hulladékká vált gépjármű bontóhoz történő elszállításáig a hulladék gyűjtése vagy tárolása nem minősül veszélyes hulladékkal végzett hulladékgazdálkodási tevékenységnek.
+
+## 9. A bontóra és a hulladékká vált gépjármű kezelésére vonatkozó szabályok
+
+### 13. §
+
+(1)[^23] A hulladékká vált gépjármű kezelését a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) hulladékhierarchiára, valamint a környezet és az emberi egészség védelmére vonatkozó előírásaival összhangban, a 2. melléklet műszaki előírásainak megfelelően kell végezni.
+
+(1a)[^24] A hulladékká vált gépjármű szárazra fektetését, bontását és az azokból származó bontott alkatrészek, tartozékok, összetevők és anyagok újrahasználatra való előkészítését, előkezelését, esetleg hasznosításra, vagy ennek hiányában ártalmatlanításra történő továbbadását kizárólag bontó végzi.
+
+(2) A bontási átvételi igazolás kiállítását megelőzően a bontó elvégzi a közúti járművek bontásának feltételeiről szóló 64/2009. (XI. 23.) KHEM rendelet (a továbbiakban: KHEM rendelet) 4. § (1) bekezdése szerinti vizsgálatot.
+
+(3)[^25] Ha az elvégzett vizsgálat alapján a gépjármű bontásra átvehető, a közlekedési hatóság a bontási átvételi igazolást kiállítja, és a gépjárművet a bontó kezelésre átveszi. A bontási átvételi igazolás kiállítását követően a gépjárművet hulladéknak kell tekinteni.
+
+(4) A hulladékká vált gépjármű újrahasználatra előkészítését, hasznosítását vagy ártalmatlanítását megelőzően a gépjárművet szárazra kell fektetni, a 2. melléklet 3. pontjában meghatározott veszélyes hulladékot el kell belőle távolítani, azt hatástalanítani, majd ezt követően a hulladékká vált gépjárművet szét kell bontani.
+
+(5) A bontás során a hulladékká vált gépjárműből legalább a 2. melléklet 4. pontjában meghatározott hulladékot kell eltávolítani.
+
+(6) A 2. melléklet 6. pontjában meghatározott külön megjelölt, vagy más módon azonosíthatóvá tett anyagokat, folyadékot, veszélyes és egyéb összetevőket, valamint az újrahasználatra előkészíthető vagy előkészített alkatrészeket és hasznosítható anyagokat elkülönítetten kell tárolni.
+
+(6a)[^26] A 2. melléklet 6. pontjában nem szereplő, hulladékká vált gépjárműből kibontott és hulladéknak minősülő alkatrész egyben vagy több kisebb alkatrészre bontva is tárolható. A tárolás – a Ht. 6. §-ában foglaltakra figyelemmel – legfeljebb addig végezhető, amíg az alkatrészek újrahasználatra történő előkészítésre alkalmasak, és tárolásuk nem hat hátrányosan a környezet állapotára és az emberi egészségre.
+
+(7) A hulladékká vált gépjárművel, továbbá annak alkatrészeivel kapcsolatos valamennyi kezelési műveletet a lehető legrövidebb időn belül kell elvégezni.
+
+(8) A bontó a telephelyét úgy alakítja ki, hogy az – a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben, valamint a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározottakon túlmenően – megfeleljen a 2. melléklet szerinti környezetvédelmi követelményeknek.
+
+(9)[^27] A hulladékká vált gépjármű aprítógéppel történő aprítását, darabolását, zúzását végző bontó akkreditált tanúsító szervezet által tanúsított környezetközpontú irányítási vagy környezetvédelmi vezetési rendszert működtet.
+
+(10)[^28] A hulladékká vált gépjármű alkatrészekre történő szétszedését végző bontó köteles megtenni minden gazdaságilag megvalósítható intézkedést az akkreditált tanúsító szervezet által tanúsított környezetközpontú irányítási vagy környezetvédelmi vezetési rendszer bevezetése érdekében.
+
+### 14. §
+
+(1) A hulladékká vált gépjárműből kibontott gépjármű alkatrész használt gépjármű alkatrészként akkor hozható forgalomba és más gépjárműbe akkor szerelhető be, ha
+
+a)[^29] azt a bontó újrahasználatra megfelelően előkészítette, és az újrahasználatra előkészített gépjármű alkatrész a hulladékstátusz megszűnésére vonatkozó, a Ht. 9. § (1) bekezdésében meghatározott valamennyi feltételt teljesíti, és
+
+b) újrahasználata közlekedésbiztonsági és környezetvédelmi szempontból veszélyt nem jelent.
+
+(2) A hulladékká vált gépjárműből kibontott gépjármű alkatrész kizárólag a KHEM rendelet 6. § (1) bekezdése szerinti minőség-ellenőrzés útján készíthető elő újrahasználatra. A minőség-ellenőrzést szabvány alapján, vagy azzal egyenértékű műszaki megoldás alkalmazásával kell elvégezni.
+
+(3)[^30] A hulladékká vált gépjárműből kibontott gépjármű alkatrész újrahasználatra előkészítését a bontó vagy az adott alkatrész újrahasználatra előkészítésére hulladékgazdálkodási engedéllyel rendelkező hulladékkezelő végzi.
+
+(4) Ha az újrahasználatra előkészített gépjármű alkatrész az (1) bekezdésben foglalt feltételeket teljesíti, azt a bontó a minőség-ellenőrzést követően használt gépjármű alkatrésszé minősíti. A minősítést a KHEM rendelet 6. § (2) bekezdése szerinti színjelzéssel kell igazolni. A színjelzéssel a használt gépjármű alkatrész hulladékstátusza megszűnik.
+
+(5) A kereskedelmi forgalomban értékesített, hulladékból előállított használt gépjármű alkatrészről a bontó bizonylatot készít, és azt a használt gépjármű alkatrész értékesítésekor a vevőnek átadja. A bizonylatnak legalább a 15. § (3) bekezdésben meghatározott adatokat kell tartalmaznia.
+
+## 10. A nyilvántartásra és az adatszolgáltatásra vonatkozó szabályok
+
+### 15. §
+
+(1)[^31] A gyártó, a forgalmazó, a bontó és a koncessziós társaság a hulladékká vált gépjármű adatszolgáltatásához szükséges adatairól a telephelyén naprakészen nyilvántartást vezet, ha a hulladékká vált gépjárművet a telephelyén átveszi.
+
+(2) A bontó az újrahasználatra előkészített használt gépjármű alkatrészről naprakészen nyilvántartást vezet.
+
+(3) A használt gépjármű alkatrészekre vonatkozó nyilvántartás legalább a következőket tartalmazza:
+
+a) a gépjárműről kiállított bontási átvételi igazolás számát, amelyből az újrahasználatra előkészített használt gépjármű alkatrész származik,
+
+b)[^32] az újrahasználatra előkészített használt gépjármű alkatrész közúti közlekedési alkalmasságának, alkalmazásának megfelelőségét, és – amennyiben arra adat rendelkezésre áll – az újrahasználatra előkészített használt gépjármű alkatrész korát, valamint
+
+c)[^33] az újrahasználatra előkészített használt gépjármű alkatrész darabszámát.
+
+d)[^34]
+
+(4) A nyilvántartást úgy kell vezetni, hogy az alkalmas legyen arra, hogy annak alapján az e rendelet szerinti adatszolgáltatási kötelezettség teljes körűen teljesíthető legyen, és biztosítsa az ellenőrzések során az újrahasználatra előkészített használt gépjármű alkatrészek és a hulladékforgalom tételes nyomon követhetőségét.
+
+### 16. §
+
+(1)[^35] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 3. melléklet 1. és 3–5. pontjában foglaltaknak megfelelő tartalommal az országos hulladékgazdálkodási hatóság részére szolgáltat adatot a tárgyévet követő év március 1. napjáig.
+
+(2)[^36] A gyártó a 3. melléklet 2. pontjában foglaltaknak megfelelő tartalommal az országos hulladékgazdálkodási hatóság részére adatot szolgáltat a tárgyévet követő év március 1. napjáig.
+
+(3)[^37] A bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül szolgáltat adatot
+
+a) az egyéni teljesítő gyártónak a vele szerződött tevékenység;
+
+b) a koncessziós társaságnak a vele szerződött tevékenység
+
+vonatkozásában.
+
+(4)[^38] A (3) bekezdésben foglalt kivétellel a bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül az országos hulladékgazdálkodási hatóság részére szolgáltat adatot, a tárgyévet követő év március 1. napjáig.
+
+(5) Az adatszolgáltatásban a telephelyek adatait összesítve kell megadni.
+
+(6) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint saját nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezéséért az adatszolgáltatásra kötelezett felel.
+
+### 17. §[^39]
+
+Az adatszolgáltatás az országos hulladékgazdálkodási hatóság részére a környezet védelmének általános szabályairól szóló törvény adatszolgáltatási kötelezettségre vonatkozó előírásai szerint teljesíthető.
+
+## 11. Hatósági tevékenységek, ellenőrzés, jogkövetkezmények
+
+### 19. §[^41]
+
+(1)[^42] A 2000/53/EK európai parlamenti és tanácsi irányelv szerinti – az Európai Bizottságnak történő – jelentéstételről, a hozzá kapcsolódó minőség-ellenőrzési jelentéssel együtt a hulladékgazdálkodásért felelős miniszter gondoskodik.
+
+(2)[^43] A 2000/53/EK európai parlamenti és tanácsi irányelvben meghatározott, a 2005/293/EK bizottsági határozat 3. cikk (1) és (2) bekezdése szerinti, az országos hulladékgazdálkodási hatóság által megküldött országos adatokból készült jelentésnek az Európai Bizottság részére történő megküldéséről a hulladékgazdálkodásért felelős miniszter gondoskodik.
+
+### 20. §
+
+(1)[^44] Az e rendeletben előírt kötelezettségek teljesítését az (1a) bekezdés szerinti hulladékgazdálkodási hatóság és közlekedési feladatkörében eljáró vármegyei kormányhivatal évente ellenőrzi.
+
+(1a)[^45] A 4. § (6) és (7) bekezdése, valamint a 10. alcím szerinti kötelezettségek teljesítését az országos hulladékgazdálkodási hatóság; az e rendelet szerinti egyéb tevékenységeket a tevékenység tekintetében hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóság ellenőrzi.
+
+(2)[^46] Az e rendeletben előírt kötelezettségek megsértése esetén a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló kormányrendelet alapján hulladékgazdálkodási bírságot szab ki.
+
+(3)[^47]
+
+## 12. Záró rendelkezések
+
+### 21. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–20. §, a 22–23. §, a 25. §, és az 1–4. melléklet 2015. január 1-jén lép hatályba.
+
+(3)[^48]
+
+### 22. §
+
+E rendelet rendelkezéseit a hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+
+### 22/A. §[^49]
+
+E rendeletnek a kiterjesztett gyártói felelősségi rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 276/2023. (VI. 29.) Korm. rendelet 44. §-ával megállapított 7. § (1) bekezdése szerinti bejelentést a koncessziós társaság 2023. július 31. napjáig teszi meg.
+
+### 23. §
+
+(1) Ez a rendelet
+
+a) a 2000/53/EK európai parlamenti és tanácsi irányelv 2. cikk 1–3., 10., 12. és 13. pontjainak, 3. cikk (1), (4) és (5) bekezdéseinek, 4. cikk (1) bekezdésének, 5. cikk (1), (2) és (4) bekezdéseinek, 6. cikk (1)–(5) bekezdéseinek, 7. cikk (1) és (2) bekezdéseinek, 9. cikk (1) és (2) bekezdéseinek, 12. cikkének, valamint az I. melléklet 2. pont 5. francia bekezdésének;
+
+b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek;
+
+c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
+d)[^50] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet
+
+a) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és a tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 2001. október 17-i 2001/753/EK bizottsági határozat;
+
+b) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelvben meghatározott, az újrahasználat/hasznosítás és újrahasználat/visszanyerés céljainak ellenőrzését szolgáló részletes szabályok megállapításáról szóló, 2005. április 1-jei 2005/293/EK bizottsági határozat
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+### 26. §
+
+Nem lép hatályba az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes kormányrendeletek módosításáról szóló 310/2014. (XII. 11.) Korm. rendelet 7. alcíme.
+
+## 1. melléklet a 369/2014. (XII. 30.) Korm. rendelethez[^53]
+
+## 2. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
+
+**A hulladékká vált gépjárművek átvételére, gyűjtésére és kezelésére vonatkozó műszaki előírások**
+
+1\. A hulladékká vált gépjárművek átvételére szolgáló átvételi helynek – az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben foglaltakon túl – legalább a következő műszaki feltételekkel kell rendelkeznie:
+
+a) közegészségügyi, környezetvédelmi, vízvédelmi, tűz-, baleset- és munkavédelmi előírásoknak megfelelő vízzáró felülettel ellátott tárolótér, amely kiömlést és csapadékvizet felfogó berendezéssel, dekantáló és olajlefölöző berendezéssel rendelkezik;
+
+b) közegészségügyi, környezetvédelmi, vízgazdálkodási, vízvédelmi, tűz-, baleset- és munkavédelmi előírásoknak megfelelő technológiai víz előtisztító, továbbá csapadékvíz előtisztító berendezés, amely a közcsatornába bocsáthatóságot biztosítja.
+
+2\. A hulladékká vált gépjárművek kezelését (szárazra fektetését és bontását) végző telephelynek legalább a következő műszaki feltételekkel kell rendelkeznie:
+
+a) közegészségügyi, környezetvédelmi, vízvédelmi, tűz-, baleset- és munkavédelmi előírásoknak megfelelő vízzáró felület, amely a hulladékká vált gépjárműből a folyékony halmazállapotú hulladék kiömlését felfogó kármentővel, dekantáló és olajlefölöző berendezéssel (olajfogó rendszer) rendelkezik;
+
+b) munkahelyi gyűjtőhely, és szükség esetén üzemi gyűjtőhely;
+
+c) ütésálló, bélelt vagy kettős falú, zárható, szabványos gyűjtőedény vagy zárható konténer a folyadékmentesítés és bontás során kinyert vagy kiszerelt bontott anyagok, elemek, alkatrészek, tartozékok, összetevők és hulladék fajtánként történő gyűjtésére, tárolására;
+
+d) közegészségügyi, környezetvédelmi, vízvédelmi, tűz-, baleset- és munkavédelmi előírásoknak megfelelő technológiai víz előtisztító, továbbá csapadékvíz előtisztító berendezés, amely a közcsatornába bocsáthatóságot biztosítja.
+
+3\. A hulladékká vált gépjárművek kezelését végző telephelyen a hulladékká vált gépjárműből legalább a következő veszélyes hulladékot és azok alkotóelemeit kell eltávolítani, hatástalanítani:
+
+a) akkumulátorok és folyadék állapotú gázt tároló tartályok;
+
+b) övfeszítők és légzsákok robbanó patronjai, és minden potenciálisan robbanásveszélyes és balesetveszélyes anyag vagy tárgy;
+
+c) üzemanyagok, olajok (motorolaj, hajtómű olaj, sebességváltó olaj, hidraulika olaj), hűtőfolyadék, fagyálló folyadék, fékfolyadék, klímaberendezés folyadéka, továbbá minden egyéb, a hulladékká vált gépjárműben található folyadék, kivéve, ha arra az érintett alkatrész újrahasználatához szükség van;
+
+d) higany tartalmú alkatrészek.
+
+4\. A hulladékká vált gépjárművek kezelését végző telephelyen a hulladékká vált gépjárműből következő, visszanyerést elősegítő kezelési műveleteket kell elvégezni:
+
+a) katalizátorok eltávolítása;
+
+b) réz, alumínium és magnézium tartalmú fém alkatrészek eltávolítása, ha ezeket a fémeket az aprítást, a darabolást és a zúzást megelőzően nem választják külön;
+
+c) gumiabroncsok és nagyobb méretű műanyagok (lökhárító, műszerfal, folyadéktárolók stb.) eltávolítása, ha az aprítás, a darabolás és a zúzás során azokat nem választják külön úgy, hogy nyersanyagként hatékonyan újra fel lehessen dolgozni azokat;
+
+d) üvegek, illetve üvegből készült elemek eltávolítása.
+
+5\. A hulladékkezelő telephelyén a kezelést megelőzően és a kezelést követően a hulladékká vált gépjárművek és a bontott alkatrészek tárolását úgy kell végezni, hogy az újrahasználatra előkészítésre alkalmas kibontott alkatrészek és a folyadékokat tartalmazó alkatrészek ne sérüljenek.
+
+6\. A hulladékká vált gépjárművek kezelését végző telephelyen legalább a következőket kell elkülönítetten tárolni:
+
+a) olajjal szennyezett alkatrészek;
+
+b) akkumulátorok;
+
+c) szűrők;
+
+d) PCB, PCT tartalmú kondenzátorok;
+
+e) üzemanyagok;
+
+f) olajok (motorolaj, hajtómű olaj, sebességváltó olaj, hidraulika olaj);
+
+g) hűtőfolyadék;
+
+h) fagyálló folyadék;
+
+i) fékfolyadék;
+
+j) akkumulátorsav;
+
+k) klímaberendezés folyadéka, továbbá minden egyéb, a kiselejtezett gépjárműben található folyadék;
+
+l) használt gumiabroncsok a tűzvédelmi követelményeknek megfelelően.
+
+## 3. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
+
+**A nyilvántartási és adatszolgáltatási kötelezettség adattartalma[^54]**
+
+1.[^55] A gyártóra és koncessziós társaságra vonatkozó adatok:
+
+1.1.[^56] A gyártó, a koncessziós társaság azonosítására szolgáló adatok:
+
+a) KÜJ;
+
+b) KSH statisztikai számjel;
+
+c) név;
+
+d) cím (irányítószám, település, közterület neve, közterület típusa, házszám).
+
+1.2. Az adatszolgáltatásért felelős személyre vonatkozó adatok:
+
+a) név;
+
+b) beosztás;
+
+c) telefon, illetve fax;
+
+d) e-mail.
+
+2.[^57] A gyártó által forgalomba hozott gépjárművekre vonatkozó adatok:
+
+a)[^58]
+
+b)[^59]
+
+c) a gépjárművek gyártmányának megnevezése;
+
+d) a gépjárművek darabszáma;
+
+e) a gépjárművek össztömege.
+
+3.[^60] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
+
+a) a gépjárművek gyártmányának megnevezése;
+
+b) a gépjárművek darabszáma;
+
+c) az 1980. január 1. napja előtt gyártott gépjármű darabszáma;
+
+d) a gépjárművek össztömege.
+
+4\. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
+
+4.1.[^61] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+
+a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
+
+b) a 16 01 03 azonosító kóddal ellátott gumiabroncs;
+
+c) a 16 01 07* azonosító kóddal ellátott olajszűrő;
+
+d) a 16 01 22 azonosító kóddal ellátott katalizátor;
+
+e) a 16 01 08*, a 16 01 09*, a 16 01 10*, a 16 01 11*, és a 16 01 21* azonosító kóddal ellátott veszélyes alkotók eltávolításából származó hulladék;
+
+f) a 16 01 13*, a 16 01 14* és a 16 01 15 azonosító kóddal ellátott folyadék (az üzemanyag kivételével);
+
+g) a 16 01 17 és a 16 01 18 azonosító kóddal ellátott fém alkatrészek; a 16 01 19 azonosító kóddal ellátott nagyméretű műanyag elem;
+
+h) a 16 01 20 azonosító kóddal ellátott üveg;
+
+i) a 16 01 12, a 16 01 16 és a 16 01 99 azonosító kóddal ellátott bontásból, hasznosítható anyagok eltávolításából származó egyéb anyag.
+
+4.2. A 4.1. pontban meghatározott hulladék mennyiségét a következők szerinti bontásban kell megadni:
+
+a) újrahasználatra előkészített mennyiség;
+
+b) visszanyert mennyiség;
+
+c) energetikailag hasznosított mennyiség;
+
+d) ártalmatlanított mennyiség.
+
+4.3.[^62] A hulladékká vált gépjárművek aprításából, darabolásából, zúzásából, származó hulladék mennyisége, amelyet kilogrammban kifejezve kell megadni:
+
+a) vas- és acélhulladék;
+
+b) vasat nem tartalmazó fémhulladék (alumínium, réz, cink, ólom stb.);
+
+c) könnyű aprítási, darabolási, zúzási, frakció;
+
+d) egyéb.
+
+4.4. A 4.3. pontban meghatározott hulladék mennyiségét a következők szerinti bontásban kell megadni:
+
+a) visszanyert mennyiség;
+
+b) energetikailag hasznosított mennyiség;
+
+c) ártalmatlanított mennyiség.
+
+5.[^63] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
+
+5.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+
+a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
+
+b) a 16 01 03 azonosító kóddal ellátott gumiabroncs;
+
+c) a 16 01 07* azonosító kóddal ellátott olajszűrő;
+
+d) a 16 01 22 azonosító kóddal ellátott katalizátor;
+
+e) a 16 01 08*, a 16 01 09*, a 16 01 10*, a 16 01 11*, és a 16 01 21* azonosító kóddal ellátott veszélyes alkotók eltávolításából származó hulladék;
+
+f) a 16 01 13*, a 16 01 14* és a 16 01 15 azonosító kóddal ellátott folyadék (az üzemanyag kivételével);
+
+g) a 16 01 17 és a 16 01 18 azonosító kóddal ellátott fém alkatrészek; a 16 01 19 azonosító kóddal ellátott nagyméretű műanyag elem;
+
+h) a 16 01 20 azonosító kóddal ellátott üveg;
+
+i) a 16 01 12, a 16 01 16 és a 16 01 99 azonosító kóddal ellátott bontásból, hasznosítható anyagok eltávolításából származó egyéb anyag.
+
+5.2. Az 5.1. pontban meghatározott hulladék mennyiségét a következők szerinti bontásban kell megadni:
+
+a) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) össztömege;
+
+b) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) visszanyerése;
+
+c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) hasznosítása;
+
+d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
+
+## 4. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
+
+**A bontó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok**
+
+1.[^64] A bontóra vonatkozó adatok:
+
+1.1. A bontó azonosítására szolgáló adatok:
+
+a) KÜJ;
+
+b) KSH statisztikai számjel;
+
+c) név;
+
+d) cím (irányítószám, település, közterület neve, közterület típusa, házszám).
+
+1.2. A bontó telephelyének azonosítására szolgáló adatok:
+
+a) KTJ;
+
+b) név;
+
+c) cím (irányítószám, település, közterület neve, közterület típusa, házszám);
+
+d) telephely üzemeltetéséért felelős személy neve, beosztása.
+
+1.3. Az adatszolgáltatásért felelős személyre vonatkozó adatok:
+
+a) név;
+
+b) beosztás;
+
+c) telefon, illetve fax;
+
+d) e-mail.
+
+2.[^65] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
+
+a) a gépjárművek gyártmányának megnevezése;
+
+b) a gépjárművek darabszáma;
+
+c) az 1980. január 1. napja előtt gyártott gépjármű darabszáma;
+
+d) a gépjárművek össztömege.
+
+3\. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
+
+3.1.[^66] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+
+a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
+
+b) a 16 01 03 azonosító kóddal ellátott gumiabroncs;
+
+c) a 16 01 07* azonosító kóddal ellátott olajszűrő;
+
+d) a 16 01 22 azonosító kóddal ellátott katalizátor;
+
+e) a 16 01 08*, a 16 01 09*, a 16 01 10*, a 16 01 11*, és a 16 01 21* azonosító kóddal ellátott veszélyes alkotók eltávolításából származó hulladék;
+
+f) a 16 01 13*, a 16 01 14* és a 16 01 15 azonosító kóddal ellátott folyadék (az üzemanyag kivételével);
+
+g) a 16 01 17 és a 16 01 18 azonosító kóddal ellátott fém alkatrészek; a 16 01 19 azonosító kóddal ellátott nagyméretű műanyag elem;
+
+h) a 16 01 20 azonosító kóddal ellátott üveg;
+
+i) a 16 01 12, a 16 01 16 és a 16 01 99 azonosító kóddal ellátott bontásból, hasznosítható anyagok eltávolításából származó egyéb anyag.
+
+3.2. A 3.1. pontban meghatározott hulladék mennyiségét a következők szerinti bontásban kell megadni:
+
+a) újrahasználatra előkészített mennyiség;
+
+b) visszanyert mennyiség;
+
+c) energetikailag hasznosított mennyiség;
+
+d) ártalmatlanított mennyiség.
+
+4.[^67] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
+
+4.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+
+a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
+
+b) a 16 01 03 azonosító kóddal ellátott gumiabroncs;
+
+c) a 16 01 07* azonosító kóddal ellátott olajszűrő;
+
+d) a 16 01 22 azonosító kóddal ellátott katalizátor;
+
+e) a 16 01 08*, a 16 01 09*, a 16 01 10*, a 16 01 11*, és a 16 01 21* azonosító kóddal ellátott veszélyes alkotók eltávolításából származó hulladék;
+
+f) a 16 01 13*, a 16 01 14* és a 16 01 15 azonosító kóddal ellátott folyadék (az üzemanyag kivételével);
+
+g) a 16 01 17 és a 16 01 18 azonosító kóddal ellátott fém alkatrészek; a 16 01 19 azonosító kóddal ellátott nagyméretű műanyag elem;
+
+h) a 16 01 20 azonosító kóddal ellátott üveg;
+
+i) a 16 01 12, a 16 01 16 és a 16 01 99 azonosító kóddal ellátott bontásból, hasznosítható anyagok eltávolításából származó egyéb anyag.
+
+4.2. A 4.1. pontban meghatározott hulladék mennyiségét a következők szerinti bontásban kell megadni:
+
+a) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) össztömege;
+
+b) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) visszanyerése;
+
+c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) hasznosítása;
+
+d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
+
+---
+
+[^1]: A 2. § (1) bekezdés 2. pontja a 276/2023. (VI. 29.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés záró szövegrésze a 374/2016. (XI. 29.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 41. § (1) bekezdése iktatta be.
+[^4]: A 3. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^5]: A 4. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 49. § b) pontjával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4. § (6) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 42. § (3) bekezdésével megállapított szöveg.
+[^11]: A 4. § (7) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 42. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. § nyitó szövegrésze a 374/2016. (XI. 29.) Korm. rendelet 4. § (2) bekezdés b) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 49. § d) pontja szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdése a 416/2024. (XII. 20.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^16]: A 6. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 49. § e) pontja szerint módosított szöveg.
+[^17]: A 6. § (5) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 49. § f) pontja szerint módosított szöveg.
+[^18]: A 7. § a 276/2023. (VI. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^19]: Az 5. alcímet (8-9. §-t) a 276/2023. (VI. 29.) Korm. rendelet 50. § a) pontja hatályon kívül helyezte.
+[^20]: A 10. § a 276/2023. (VI. 29.) Korm. rendelet 49. § g) pontja szerint módosított szöveg.
+[^21]: A 11. § a 276/2023. (VI. 29.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^22]: A 11. § (1) bekezdése a 416/2024. (XII. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^23]: A 13. § (1) bekezdése a 158/2021. (III. 31.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^24]: A 13. § (1a) bekezdését a 158/2021. (III. 31.) Korm. rendelet 30. §-a iktatta be.
+[^25]: A 13. § (3) bekezdése a 374/2016. (XI. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^26]: A 13. § (6a) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 158/2021. (III. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^27]: A 13. § (9) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^28]: A 13. § (10) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^29]: A 14. § (1) bekezdés a) pontja a 374/2016. (XI. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^30]: A 14. § (3) bekezdése a 374/2016. (XI. 29.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^31]: A 15. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 49. § h) pontja szerint módosított szöveg.
+[^32]: A 15. § (3) bekezdés b) pontja a 374/2016. (XI. 29.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdés c) pontja a 374/2016. (XI. 29.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^34]: A 15. § (3) bekezdés d) pontját a 374/2016. (XI. 29.) Korm. rendelet 4. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^36]: A 16. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^37]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^38]: A 16. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^39]: A 17. § a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^41]: A 19. § a 158/2021. (III. 31.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^42]: [A 19. § (1) bekezdésének a 158/2021. (III. 31.) Korm. rendelet 33. § e) pontjával elrendelt módosítása, amely szerint a „háromévenkénti jelentéstételről – a 2001/753/EK bizottsági határozatnak megfelelően – a hulladékgazdálkodásért” szövegrész helyébe a „jelentéstételről, a hozzá kapcsolódó minőség-ellenőrzési jelentés csatolásával, a hulladékgazdálkodásért” szöveg lép, nem vezethető át.]
+[^43]: [A 19. § (2) bekezdésének a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontjával elrendelt módosítása, amely szerint a „környezetvédelmi” szövegrész helyébe a „hulladékgazdálkodási” szöveg lép, nem vezethető át.]
+[^44]: A 20. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 137. §-ával megállapított, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 199. § b) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § i) pontja szerint módosított szöveg.
+[^45]: A 20. § (1a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 47. §-a iktatta be.
+[^46]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja, a 156/2025. (VI. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^47]: A 20. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 50. § c) pontja hatályon kívül helyezte.
+[^48]: A 21. § (3) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^49]: A 22/A. §-t a 276/2023. (VI. 29.) Korm. rendelet 48. §-a iktatta be.
+[^50]: A 23. § (1) bekezdés d) pontját a 158/2021. (III. 31.) Korm. rendelet 32. §-a iktatta be.
+[^53]: Az 1. mellékletet a 276/2023. (VI. 29.) Korm. rendelet 50. § d) pontja hatályon kívül helyezte.
+[^54]: A 3. melléklet címe a 276/2023. (VI. 29.) Korm. rendelet 49. § j) pontjával megállapított szöveg.
+[^55]: A 3. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § c) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § k) pontja szerint módosított szöveg.
+[^56]: A 3. melléklet 1. pont 1.1. alpontja a 276/2023. (VI. 29.) Korm. rendelet 49. § l) pontja szerint módosított szöveg.
+[^57]: A 3. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
+[^58]: A 3. melléklet 2. pont a) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
+[^59]: A 3. melléklet 2. pont b) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
+[^60]: A 3. melléklet 3. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
+[^61]: A 3. melléklet 4. pont 4.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet 4. pont 4.3. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § g) pontja szerint módosított szöveg.
+[^63]: A 3. melléklet 5. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
+[^64]: A 4. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § i) pontja szerint módosított szöveg.
+[^65]: A 4. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § j) pontja szerint módosított szöveg.
+[^66]: A 4. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § k) pontja szerint módosított szöveg.
+[^67]: A 4. melléklet 4. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § l) pontja szerint módosított szöveg.

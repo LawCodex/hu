@@ -1,0 +1,253 @@
+---
+title: "302/2016. (X. 13.) Korm. rendelet a közterületek és az állami tulajdonban álló ingatlanok filmforgatási célú használatának részletes szabályairól"
+identifier: "302/2016. (X. 13.) Korm. rendelet"
+njt_id: "2016-302-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/302"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-10-13
+in_force_from: 2016-10-14
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-302-20-22"
+retrieved: 2026-10-12
+---
+
+# 302/2016. (X. 13.) Korm. rendelet a közterületek és az állami tulajdonban álló ingatlanok filmforgatási célú használatának részletes szabályairól
+
+A Kormány
+
+a mozgóképről szóló 2004. évi II. törvény 37. § (1) bekezdésében kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 34. § (2) bekezdésében meghatározott, közterület-használatra vonatkozó kérelmet az 1. melléklet szerinti formanyomtatványon kell benyújtani.
+
+(2) A kérelemhez csatolni kell
+
+a) a közérdekű célt szolgáló – különösen oktatási, tudományos vagy ismeretterjesztő témájú, vagy filmművészeti állami felsőoktatási képzés keretében készülő – filmalkotás forgatása esetén az e célt alátámasztó dokumentumokat,
+
+b) a jogszabályban meghatározott illeték, igazgatási szolgáltatási díj megfizetésének igazolását,
+
+c)[^1] a forgatási helyszín pontos megjelölését tartalmazó helyszínrajzot, illetve a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan esetében az ingatlan helyrajzi számát tartalmazó helyszínrajzot,
+
+d) a forgatandó filmalkotás rövid bemutatását, a forgatandó jelenet rövid leírását.
+
+(3)[^2] Az (1) bekezdés szerinti kérelemmel együtt a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság tulajdonában álló gazdasági társaságnál (a továbbiakban: eljáró szervezet) az alábbi kérelmek is előterjeszthetőek:
+
+a) forgalomtechnikai kezelői hozzájárulás kiadása iránti kérelem,
+
+b) behajtási engedély kiadása iránti kérelem,
+
+c) közútkezelői hozzájárulás kiadása iránti kérelem,
+
+d) közösségi közlekedés módosítása iránti kérelem,
+
+e) dísz- és közvilágítás kikapcsolására vonatkozó engedély kiadása iránti kérelem,
+
+f) a rendőrség által nyújtott forgalomelterelési, helyszínbiztosítási szolgáltatás biztosítása iránti kérelem,
+
+g) az Mktv. 35. § (3) és (4) bekezdése szerinti kérelmek.
+
+## 2. §
+
+(1)[^3] Az eljáró szervezet a közterület-használatra irányuló kérelmet egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul megküldi a közterület tulajdonosának, a filmforgatáshoz kapcsolódó egyéb kérelmet, hatósági bejelentést pedig a hatáskörrel rendelkező illetékes hatóságoknak, vagy az érintett szervnek. Az eljáró szervezet a kérelem, bejelentés megküldésével egyidejűleg elektronikus úton jelzi a tulajdonos települési önkormányzatnak, a hatáskörrel rendelkező illetékes hatóságoknak és a kérelmezőnek, hogy mely szervekhez továbbította a kérelmet, illetve a bejelentést. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló, 1. § (2) bekezdés c) pontja szerinti okiratot is tartalmazó kérelmet az eljáró szervezet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez további ügyintézés céljából.
+
+(2)[^4] A főváros területén tervezett közterület-használatra irányuló kérelmet az eljáró szervezet egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul továbbítja a Budapesti Közlekedési Központhoz. A nem a főváros területén tervezett és nem a települési önkormányzat tulajdonában lévő közterület-használatra irányuló kérelmet az eljáró szervezet egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul továbbítja az illetékes közútkezelőhöz.
+
+(3)[^5] Az eljáró szervezet a (2) bekezdésben meghatározott határidőn belül a kérelmet megküldi a kérelemben szereplő forgatási helyszín szerint illetékes rendőrkapitányságnak, Budapesten a Budapesti Rendőr-főkapitányságnak. Az illetékes rendőrkapitányság, Budapesten a Budapesti Rendőr-főkapitányság köteles tájékoztatni az eljáró szervezetet, ha a kérelemben szereplő forgatási helyszín esetében bejelentéshez kötött rendezvény megtartására bejelentés érkezett.
+
+(4)[^6] A települési önkormányzat adatot szolgáltat az eljáró szervezet részére a tulajdonában lévő közterületekről, azok pontos kiterjedésének meghatározásával. Az eljáró szervezet naprakész nyilvántartást vezet a települési önkormányzatok tulajdonában lévő közterületekről. A nyilvántartás vezetését az eljáró szervezet térképek rendszeresítése útján is gyakorolhatja.
+
+(5)[^7] A települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán az eljáró szervezet a települési önkormányzat képviselő-testületének rendeletében foglalt feltételek felhasználásával elkészíti a hatósági szerződés tervezetét, amelyet a kérelemmel együtt jóváhagyásra továbbít a települési önkormányzatnak, valamint tájékoztatásul megküld a kérelmező részére.
+
+(6)[^8] A hatósági szerződésnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon túl – tartalmaznia kell
+
+a)[^9] az eljáró szervezet számlaszámát, az ügy számát, valamint az ügyintéző nevét,
+
+b) a kérelmező 1. melléklet szerinti adatait,
+
+c) a települési önkormányzat megnevezését, számlaszámát, képviselőjének nevét,
+
+d) a települési önkormányzat hozzájárulását a filmforgatási tevékenység végzéséhez,
+
+e) a közterület-használatért fizetendő díj mértékét, megfizetésének módját, határidejét,
+
+f) a közterület-használat kezdő és befejező időpontját és az igénybe venni kívánt közterület pontos megnevezését, nagyságát,
+
+g) a felek közötti kapcsolattartás módját,
+
+h) a felmondási okokat,
+
+i) a kérelmező nyilatkozatát arról, hogy valamennyi – e rendelet alapján a szerződésben foglalt – kötelezettség tekintetében aláveti magát a szerződésszegés Ákr. szerinti következményeinek.
+
+(7)[^10] Hiánypótlás esetén a felhívást úgy kell kiadni, hogy a hiánypótlás legkésőbb a 3. § szerinti egyeztetésen teljesülhessen.
+
+## 3. §
+
+(1)[^11] A fővárosban tervezett közterület-használat esetén a Budapesti Közlekedési Központ két munkanapon belül, sürgős eljárás esetén haladéktalanul megvizsgálja, hogy a kérelemben foglalt feltételekkel forgalomtechnikai szempontból biztosítható-e a közterület-használat és az erre vonatkozó álláspontját megküldi a települési önkormányzatnak, valamint tájékoztatásul a kérelmezőnek és az eljáró szervezetnek.
+
+(2)[^12] A filmforgatáshoz kapcsolódóan az eljáró szervezet kezdeményezésére a kérelmező, az eljárásban érintett hatóságok, szakhatóságok és szervek, a közterület tulajdonosa, a közútkezelő vagy a főváros területén tervezett közterület-használat esetén a Budapesti Közlekedési Központ a kezdeményezéstől számított egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul kötelesek egymással egyeztetést folytatni a tényállás, valamint a filmforgatáshoz kapcsolódó követelmények, feltételek tisztázása érdekében. Az egyeztetés lefolytatását az eljáró szervezet végzi és dokumentálja.
+
+(3) Amennyiben a megállapodás eredményeként a hatósági szerződés tervezetének módosítása is szükséges, a tervezeten a módosítást a közterület tulajdonosa vezeti át.
+
+(4)[^13] A közterület tulajdonosa az általa – a hatósági szerződésnek a kérelmező és az eljáró szervezet általi aláírásának a feltételével, a hatósági szerződésen található külön záradékban – jóváhagyott hatósági szerződést vagy a jóváhagyást megtagadó nyilatkozatot
+
+a) egyeztetés hiányában a kérelemnek a települési önkormányzathoz érkezését követő két munkanapon belül, sürgős eljárás esetén pedig haladéktalanul,
+
+b)[^14] egyeztetés esetén az egyeztetést követő egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul megküldi az eljáró szervezetnek és egyidejűleg értesíti a kérelmezőt, jóváhagyás esetén pedig a hatósági szerződés jóváhagyott tervezetét tájékoztatásul megküldi a kérelmező részére azzal, hogy a hatósági szerződést aláírhatja az eljáró szervezetnél.
+
+(5)[^15] Amennyiben a települési önkormányzat a jóváhagyást megtagadja, az eljáró szervezet a megtagadó nyilatkozat megküldését követő munkanapon a kérelem elutasításáról határoz, és a döntést közli a kérelmezővel, valamint az ügyben érintett hatóságokkal.
+
+(6)[^16] A települési önkormányzat hatáskörébe tartozó, a filmforgatási célú közterület-használathoz kapcsolódó egyéb tulajdonosi hozzájárulások kiadása iránti eljárásban legkésőbb a (4) és (5) bekezdés szerinti határidők szerint dönt és döntéséről értesíti az eljáró szervezetet, valamint a kérelmezőt.
+
+(7)[^17] Az eljáró szervezet a települési önkormányzat jóváhagyási záradékával ellátott hatósági szerződést a – szerződés települési önkormányzat általi – visszaküldésétől számított egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul aláírja, a forgatási helyszínről az illetékes rendőrkapitányságot, Budapesten a Budapesti Rendőr-főkapitányságot tájékoztatja.
+
+## 4. §[^18]
+
+Amennyiben a kérelemben és a hatósági szerződés tervezetében foglaltak módosítását a kérelmező kezdeményezi az eljáró szervezetnél, az eljáró szervezet haladéktalanul megküldi a módosítási kérelmet a filmforgatással érintett hatóságoknak, szakhatóságoknak, a közterület tulajdonosának, az illetékes rendőrkapitányságnak, Budapesten a Budapesti Rendőr-főkapitányságnak, a közútkezelőnek és a főváros területén tervezett közterület-használat esetén pedig a Budapesti Közlekedési Központnak.
+
+## 5. §
+
+(1) Ha a közterület tulajdonosa
+
+a) egyeztetés hiányában a kérelemnek a települési önkormányzathoz érkezését követő két munkanapon belül, sürgős eljárás esetén pedig egy munkanapon belül,
+
+b) egyeztetés esetén az egyeztetést követő egy munkanapon belül
+
+nem nyilatkozik a hatósági szerződés jóváhagyásáról, azt a hatósági szerződés tervezetében foglalt feltételeknek megfelelően megadottnak kell tekinteni.
+
+(2) Ha a főváros területén tervezett közterület-használat esetén a Budapesti Közlekedési Központ a kérelem hozzá történő benyújtásától számított két munkanapon belül, sürgős eljárás esetén egy munkanapon belül, illetve egyeztetés esetén legkésőbb az egyeztetésen nem nyilatkozik a jóváhagyását illetően, azt a kérelemben foglalt feltételeknek megfelelően megadottnak kell tekinteni.
+
+(3) A 3. § (6) bekezdésében meghatározott esetben, ha a települési önkormányzat az ott meghatározott határidők szerint nem hoz döntést, a hozzájárulást a hatósági szerződés tervezetében foglalt feltételeknek megfelelően megadottnak kell tekinteni.
+
+(4)[^19] Ha az eljáró szervezet a települési önkormányzat által jóváhagyott hatósági szerződésnek a részére történő megküldésétől számított egy munkanapon belül a hatósági szerződést nem írja alá, a kérelmezőt megilleti a közterület-használatának a joga a jóváhagyási záradékkal ellátott hatósági szerződésnek a települési önkormányzat által részére megküldött tervezete szerinti tartalommal. Ebben az esetben az eljáró szervezet a kérelem benyújtásától számított hatodik munkanapon, sürgős eljárás esetén pedig harmadik munkanapon köteles az Ákr. 80. § (3) bekezdésének alkalmazásával eljárni, továbbá ezzel egyidejűleg értesíti a közterület tulajdonosát is.
+
+## 6. §
+
+(1)[^20] A filmforgatási célú közterület-használat jogszerűségét a közterület tulajdonosa és az eljáró szervezet ellenőrizheti.
+
+(2)[^21] A filmforgatás megkezdése előtt az ahhoz kapcsolódó bármely ellenőrzés kapcsán az érintett hatóságok kötelesek egymással – az eljáró szervezet iránymutatása alapján – egyeztetni és ellenőrzési tevékenységüket összehangolni.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 302/2016. (X. 13.) Korm. rendelethez[^23]
+
+**Kérelem**\
+**filmforgatási célú közterület-használat engedélyezéséhez**
+
+1\. A kérelmező adatai:
+
+Kérelmező neve:
+
+Kérelmező székhelye:
+
+Kérelmező cégjegyzékszáma/nyilvántartási száma:
+
+Kérelmező adószáma:
+
+Kérelmező bankszámlaszáma:
+
+Képviselő neve:
+
+Képviselő lakcíme:
+
+Képviselő telefonszáma:
+
+Képviselő e-mail-címe:
+
+2\. A filmalkotás jellemzői:
+
+Filmalkotás kategóriája: Film[^24] Reklám[^25]
+
+Filmalkotás műfaja:
+
+Filmalkotás munkacíme:
+
+3\. Az eljárás típusa: Alapeljárás Sürgős eljárás
+
+4\. A kérelem típusa: Új kérelem Módosító kérelem Visszavonó kérelem
+
+5\. A közterület(ek) igénybevételének terjedelme:[^26]
+
+| Sorszám | Közterület, illetve ingatlan elhelyezkedése (település, közterület, házszám, egyéb meghatározás) | Közterület-használat célja (F) forgatás (T) technikai kiszolgálás (P) stáb parkolás (K) kiürítés (E) közlekedés elől elzárt terület | Közterület-használat időtartama<sup>27</sup>(-tól, -ig) | Közterület-használattal érintett napok száma | Használni kívánt közterület nagysága (m<sup>2</sup>) |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+6\. A közterület igénybevételének további körülményei:[^27]
+
+Zaj- és hanghatások várható mértéke: magas alacsony
+
+Gyalogos és járműforgalom korlátozása: szükséges nem szükséges
+
+Rendőri biztosítás: szükséges nem szükséges
+
+Forgalomkorlátozási terv: szükséges nem szükséges
+
+Éjszakai forgatás (22:00 órától 06:00 óráig): igen nem
+
+Hétvégi forgatás (szombat, vasárnap, ünnepnap): igen nem
+
+Díszlet építése szükséges: igen nem
+
+Nemzeti Filmintézet mozgóképszakmai támogatásban részesítette: igen nem
+
+7\. A kérelem benyújtásával együtt csatolandó mellékletek:
+
+7.1. Igazgatási szolgáltatási díj megfizetésének igazolása: alapeljárás iránti kérelem esetében 50 000 forint, sürgős eljárás iránti kérelem esetében 130 000 forint.
+
+7.2. Közérdekű célt szolgáló filmalkotás forgatása esetén az e célt alátámasztó dokumentum.
+
+7.3. A filmalkotás rövid bemutatása.
+
+7.4. A forgatandó jelenet rövid tartalmi leírása.
+
+7.5. Ha a kérelmet nem a kérelmező törvényes képviseletére jogosult személy nyújtja be, akkor az eljáró személy meghatalmazása.
+
+7.6. A filmforgatási célú közterület-használattal érintett terület pontos megjelölését (ideértve a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan esetében az érintett ingatlanok helyrajzi számát is) tartalmazó helyszínrajzként 1:1000 vagy 1:500 léptékű forgalomtechnikai helyszínrajz.
+
+8\. A filmforgatási célú közterület-használathoz kapcsolódó egyéb megjegyzés:
+
+Kelt:
+
+_____________________
+
+Kérelmező
+
+---
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 350/2019. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés nyitó szövegrésze a 96/2021. (II. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 350/2019. (XII. 23.) Korm. rendelet 3. §-ával megállapított, a 96/2021. (II. 27.) Korm. rendelet 1. § b)–c) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § e)–f) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § d)–e) pontja szerint módosított szöveg.
+[^7]: A 2. § (5) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 579. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: A 2. § (6) bekezdés a) pontja a 96/2021. (II. 27.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
+[^10]: A 2. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 579. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 3. § (1) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (4) bekezdés nyitó szövegrésze a 96/2021. (II. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (4) bekezdés b) pontja a 96/2021. (II. 27.) Korm. rendelet 1. § h)–i) pontja szerint módosított szöveg.
+[^15]: A 3. § (5) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^16]: A 3. § (6) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^17]: A 3. § (7) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^18]: A 4. § a 96/2021. (II. 27.) Korm. rendelet 1. § c) és i) pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 580. §-a, a 96/2021. (II. 27.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdése a 350/2019. (XII. 23.) Korm. rendelet 4. §-ával megállapított, a 96/2021. (II. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdése a 96/2021. (II. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet a 350/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított, a 96/2021. (II. 27.) Korm. rendelet 2. §-a, a 411/2024. (XII. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^24]: A szerzői jogról szóló 1999. évi LXXVI. törvény szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort.
+[^25]: Olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
+[^26]: Egy kérelmen kizárólag ugyanazon közterület tulajdonosának tulajdonában álló közterületek tüntethetők fel.
+[^27]: A megfelelő aláhúzandó.

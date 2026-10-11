@@ -1,0 +1,148 @@
+---
+title: "158/2016. (VI. 13.) Korm. rendelet az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2014–2020 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt, a távhőszolgáltató szektort érintő, energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló beruházások megvalósításáról"
+identifier: "158/2016. (VI. 13.) Korm. rendelet"
+njt_id: "2016-158-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/158"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-06-13
+in_force_from: 2016-06-14
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-158-20-22"
+retrieved: 2026-10-12
+---
+
+# 158/2016. (VI. 13.) Korm. rendelet az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2014–2020 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt, a távhőszolgáltató szektort érintő, energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló beruházások megvalósításáról
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1)[^1] E rendelet hatálya az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a Kormány által az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) hatáskörébe utalt, a 2014–2020 programozási időszak Környezeti és Energiahatékonysági Operatív Programja terhére finanszírozott, a távhőszolgáltató szektort érintő, energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló projektekre terjed ki.
+
+(2) E rendelet hatálya nem terjed ki:
+
+a) az egyházi jogi személyek által megvalósítandó energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló projektekre,
+
+b) a közszféra szervezetek számára tervezett kiemelt, épületenergetikai célú projektekre, ideértve a megújuló energiaforrások alkalmazásával kombinált beruházásokat és a szemléletformálási programokat, és
+
+c)[^2]
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1\. *előkészítés:* a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 5. melléklet 2. pont 2.1.1. alpontja szerinti költség alapját képező tevékenység,
+
+2\. *kedvezményezett:* a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 14. pontja szerinti szervezet,
+
+3\. *konzorcium:* a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 19. pontja szerinti együttműködés,
+
+4\. *szakpolitikai felelős:* a 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében meghatározott, a 272/2014. (XI. 5.) Korm. rendelet 18. §-a szerinti feladatokat ellátó személy,
+
+5\. *támogatási szerződés:* a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 54. pontja szerinti szerződés,
+
+6\. *végső kedvezményezett:* a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 66. pontja szerinti kedvezményezett.
+
+## 3. A miniszter feladatai
+
+### 3. §
+
+(1) A miniszter gondoskodik az 1. § szerinti projektek határidőben történő megvalósításáról.
+
+(2)[^3]
+
+### 4. §
+
+A miniszter
+
+a) összehangolja az 1. § szerinti projektekkel kapcsolatban hatáskörrel rendelkező szervezetek tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
+
+b) figyelemmel kíséri és összehangolja az 1. § szerinti projektek megvalósítását,
+
+c) az *a)–b)* pontban meghatározott feladatokkal összefüggésben együttműködik a hatáskörrel rendelkező irányító hatósággal és az érintett szakpolitikai felelőssel.
+
+### 5. §
+
+(1) A miniszter az 1. § szerinti projektek megvalósításával összefüggésben a feladat- és hatáskörrel rendelkező szervezetektől tájékoztatást kérhet a nemzetközi kötelezettséget tartalmazó dokumentumokban – így különösen az Európai Unió valamely pénzügyi alapjából finanszírozott támogatási programban – kitűzött célok megvalósulásának nyomon követése, és az 1. § szerinti projektek megvalósítása érdekében.
+
+(2) Az (1) bekezdés szerinti tájékoztatás személyes adatot nem tartalmazhat.
+
+(3)[^4] A miniszter gondoskodik az általa kezelt adatok eredeti védelmi szintjének fenntartásáról. Az e rendeletben foglalt intézkedések megvalósításával összefüggésben a miniszter kizárólag a szakpolitikai felelős számára továbbíthat adatot.
+
+(4)[^5]
+
+(5) Az 1. § szerinti projektek határidőben történő megvalósítása érdekében a miniszter és a szakpolitikai felelős gondoskodnak az irányításuk alá tartozó szervezetek együttműködéséről. A szakpolitikai felelős és az irányítása alá tartozó szervezetek térítésmentesen kötelesek információt és adatot szolgáltatni a miniszter részére.
+
+## 4.[^6] A minisztérium feladatai
+
+### 6. §
+
+(1)[^7] A minisztérium
+
+a) nyomon követi az 1. § szerinti projektek szerződéses állományának alakulását, a szerződések teljesítését, az ütemezéstől való eltérését és a beruházások pénzügyi elszámolását,
+
+b) az 1. § szerinti projektek tekintetében hatáskörrel rendelkező irányító hatósággal, a miniszter és a szakpolitikai felelős irányítása alá tartozó, az adott feladat ellátásáért felelős szervezettel vagy egyéb szervezettel együttműködve szakmai tanácsot ad a projektek kedvezményezettje vagy a támogatást igénylő számára, továbbá
+
+c) kapcsolatot tart a miniszter és a szakpolitikai felelős irányítása alá tartozó, az adott feladat ellátásáért felelős szervezettel, az 1. § szerinti projektek tekintetében hatáskörrel rendelkező irányító hatósággal, valamint a támogatást igénylővel vagy a kedvezményezettel.
+
+(2)[^8] A minisztérium a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja az 1. § szerinti projektek előkészítését, az ezen projektek megvalósításával összefüggő projektmenedzsment feladatokat, valamint ezen projektek terveinek felülvizsgálatát. A minisztérium a végső kedvezményezett meghatalmazása alapján lebonyolíthatja a beszerzési és közbeszerzési eljárásokat, és szükség esetén aláírhatja a keretmegállapodásokat, valamint – szükség esetén közreműködő bevonásával – gondoskodik a műszaki ellenőri feladatok ellátásáról.
+
+(3)[^9] A minisztérium jogosult elszámolni a 272/2014. (XI. 5.) Korm. rendelet 5. mellékletének 3.9. pontja szerinti költségeket.
+
+## 5. A projektek megvalósításának végrehajtási szabályai
+
+### 6/A. §[^10]
+
+(1)[^11] A konzorcium tagjainak az irányító hatóság felé való képviseletét a minisztérium látja el.
+
+(2)[^12]
+
+### 7. §
+
+(1)[^13] Az 1. § szerinti projektek támogatási szerződése a minisztériummal, mint konzorciumvezetővel kerül megkötésre.
+
+(2) A végső kedvezményezett, mint konzorciumi tag lesz részese a támogatási szerződésnek.
+
+(3) A konzorciumban részt vevő konzorciumi tag és a konzorciumvezető konzorciumi megállapodásban rögzítik feladataikat, jogaikat és kötelezettségeiket. A konzorciumvezető feladatai nem terjeszkedhetnek túl a 6. §-ban meghatározottakon. A konzorciumi megállapodás a támogatási szerződés mellékletét képezi.
+
+(4)[^14] A 6. § (2) bekezdésben foglalt feladatokkal összefüggésben, valamint a (3) bekezdésben rögzített konzorciumi megállapodásban foglaltak szerint a minisztérium a projektek megvalósításához szükséges árubeszerzés és építési beruházás közbeszerzési eljárásokat a végső kedvezményezett helyett és nevében folytatja le és azok meghatalmazása alapján kiválasztja a nyertes ajánlattevőt, valamint keretmegállapodásos eljárások esetén a nyertes ajánlattevővel – a végső kedvezményezett nevében és annak javára – aláírja a keretmegállapodásokat.
+
+(5)[^15] A minisztérium az 1. § szerinti projektek megvalósításából vagyont nem szerezhet.
+
+(6) Ha az 1. § szerinti projekt megvalósításával összefüggésben el nem számolható költség merül fel, azt az a konzorciumi tag köteles finanszírozni, amelynél az adott költség felmerült azzal, hogy a bírságot, büntetést az a konzorciumi tag viseli, amelynek a bírságra, büntetésre okot adó esemény felróható.
+
+## 6. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 9. §[^16]
+
+E rendeletnek az egyes kormányrendeletek fejlesztéspolitikai tárgyú módosításáról szóló 57/2017. (III. 20.) Korm. rendelettel módosított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontját az 57/2017. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^3]: A 3. § (2) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
+[^4]: Az 5. § (3) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^6]: A 4. alcím címe az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (2) bekezdése az 57/2017. (III. 20.) Korm. rendelet 14. §-ával megállapított, az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) és d) pontja szerint módosított szöveg.
+[^9]: A 6. § (3) bekezdését az 57/2017. (III. 20.) Korm. rendelet 14. §-a iktatta be, szövege az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 6/A. §-t az 57/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^11]: A 6/A. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 6/A. § (2) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^13]: A 7. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^14]: A 7. § (4) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 7. § (5) bekezdése az 57/2017. (III. 20.) Korm. rendelet 16. §-ával megállapított, az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^16]: A 9. §-t az 57/2017. (III. 20.) Korm. rendelet 17. §-a iktatta be.

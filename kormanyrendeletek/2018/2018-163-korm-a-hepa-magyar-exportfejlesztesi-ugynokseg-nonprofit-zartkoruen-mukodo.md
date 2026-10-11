@@ -1,0 +1,248 @@
+---
+title: "163/2018. (IX. 10.) Korm. rendelet a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról"
+identifier: "163/2018. (IX. 10.) Korm. rendelet"
+njt_id: "2018-163-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/163"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-09-10
+in_force_from: 2018-09-11
+last_amended: 2023-12-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-163-20-22"
+retrieved: 2026-10-12
+---
+
+# 163/2018. (IX. 10.) Korm. rendelet a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) A külgazdasági ügyekért felelős miniszter (a továbbiakban: miniszter) a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: Statútum rendelet) 140. § b) és k) pontjában meghatározott feladatainak körében a következő feladatokat a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HEPA NZrt.) útján vagy annak közreműködésével látja el a (2) és (3) bekezdésben foglaltak szerint.
+
+(2) A HEPA NZrt.
+
+1\. segíti a minisztert a külgazdasági tevékenysége ellátásában,
+
+2\. javaslatot tesz a kereskedelemfejlesztés közép- és hosszú távú céljainak kialakítására, a célok elérését biztosító gazdasági, szabályozási, intézményi és egyéb feltételrendszer kialakításának lehetséges irányaira,
+
+3\. részt vesz a külgazdasági politikai koncepció és a külgazdasági stratégia végrehajtásában, közreműködik a kereskedelemfejlesztési szakmai anyagok összeállításában,
+
+4\. részt vesz a külgazdasági támogatási rendszerre vonatkozó javaslatok kidolgozásában,
+
+5\. részt vesz a kereskedelemfejlesztési elképzelések, programok, koncepciók kidolgozásában, azok megvalósításában, ennek keretében
+
+a) működteti a kezelésében lévő kereskedelemfejlesztési eszközöket,
+
+b) kezeli a kereskedelemfejlesztési pályázatokat: elvégzi a záró beszámolók és kifizetési kérelmek szakmai és pénzügyi ellenőrzését, az esetleges hiánypótoltatásokkal kapcsolatos feladatokat és a fenntartási időszaki monitoringeljárással kapcsolatos feladatokat,
+
+6\. kapcsolatot tart fenn, illetve együttműködik a kereskedelemfejlesztésben érintett kormányzati szervekkel,
+
+7\. a hazai exportra és az azt befolyásoló világgazdasági környezetre vonatkozó elemzéseket, prognózisokat készít, együttműködik az érintett tudományos szakmai intézményekkel, szervezetekkel,
+
+8\. szakmai háttéranyagok kidolgozásával közreműködik a kereskedelemfejlesztési szakmai kommunikáció szervezésében, gondoskodik exportcélú promóciós kiadványok kiadásáról és kommunikációs projektek megvalósításáról, ellátja a kereskedelmi célú országpromóciós feladatokat,
+
+9\. segíti a két- és többoldalú nemzetközi gazdasági kapcsolatok fejlesztését,
+
+10\. együttműködik Magyarország külképviseleteivel, kapcsolatot tart a Magyarországon működő külképviseletekkel, valamint a Magyarországon, illetve külföldön működő partnerintézményekkel, különös tekintettel az Európai Unió hivatalos intézményeire,
+
+11\. kiválasztja és működteti a külföldi regionális exportfejlesztési és promóciós partnerirodákat, továbbá felügyeli azok működését,
+
+12\. felkéri a külgazdasági attasékat az illetékességük szerinti relációkban konkrét exportügyletek elősegítésére,
+
+13\. rendszeres és folyamatos információt nyújt a külgazdasági attasék számára exportfejlesztési tevékenységéről,
+
+14\. közreműködik a kiutazó üzleti delegációk szakmai programjainak megvalósításában,
+
+15\. előkészíti és lebonyolítja a hatáskörébe utalt kereskedelemfejlesztési tárgyalásokat, koordinálja a vállalt kötelezettségek végrehajtását,
+
+16\. országspecifikus komplex kereskedelmi szolgáltatásokkal segíti a magyar vállalkozások külpiaci megjelenését,
+
+17\. felkutatja az exportlehetőségeket, üzleti partnereket közvetít, és üzletember-találkozókat szervez a magyar vállalkozások számára,
+
+18\. a beutazó delegációk számára bemutatja az exportképes vállalkozásokat és termékeket,
+
+19\. konstrukciókat dolgoz ki a külpiaci infrastruktúrafejlesztési projektekben a magyar vállalkozások részvételének támogatására,
+
+20\. tanácsadást nyújt külkereskedelem-technikai, vámügyi, jogi, adózási kérdésekben képzések keretében,
+
+21\. tanácsadást és segítséget nyújt a magyar vállalkozások külföldi cégalapításához, tájékoztatást ad a tőkekihelyezéssel kapcsolatos információkról, jogszabályokról, valamint a különféle állami támogatási rendszerekről,
+
+22\. tájékoztatást ad magyar vállalkozások számára adott célország külföldi tendereiről,
+
+23\. információkat gyűjt és továbbít kis- és középvállalkozók számára export- és tőkekihelyezési tevékenységükkel elérhető uniós és hazai támogatási, pályázati lehetőségekről,
+
+24\. kiválasztja és felkészíti a belföldi akvizíciós partnerhálózatot, továbbá felügyeli annak működését,
+
+25\. közreműködik a kis és közepes méretű vállalkozások beszállítói lehetőségeinek feltárásában, mind a magyarországi külföldi befektetők, mind a környező országokban megtelepedett befektetők vonatkozásában,
+
+26\. a miniszter által meghatározott fókuszágazatokban és fókuszrégiókban szervezi a magyar vállalkozások állami támogatás mellett megvalósuló részvételét külföldi vásárokon, kiállításokon,
+
+27\. kezeli az ügyfélkapcsolatokat, ellátja az ügyféltámogatással és ügyfélszerzéssel összefüggő feladatokat, növelve ezáltal az ügyfélkapcsolatok profitábilitását,
+
+28.[^2] a miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) együttműködve működteti a regionális vállalati és projektspecifikus adatbázisokat,
+
+29\. közreműködik a Digitális Exportfejlesztési Stratégia végrehajtásában, megismerteti a hazai digitális megoldásokat külföldön, elősegíti azok exportját,
+
+30\. részt vesz a külgazdasági attasék ismereteinek bővítésében, kiküldetésüket megelőzően felkészítésükben,
+
+31\. gondoskodik a kereskedelemfejlesztési szakmai programok, így különösen szemináriumok, tréningek, workshopok technikai szervezéséről és lebonyolításáról,
+
+32\. működteti a hazai kis- és középvállalkozások exportra való felkészülését elősegítő Exportakadémiát,
+
+33\. együttműködik civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, illetve testületekkel, továbbá
+
+34\. megszervezi a magas szintű delegációkhoz kapcsolódó B2B találkozókat, üzleti fórumokat belföldön és külföldön.
+
+35.[^3] külgazdasági támogatási programok lebonyolítását szakmai támogató szervként segíti.
+
+36.[^4] a külkereskedelmi szakemberképzés kialakításával és a képzési program koordinálásával támogatja a hazai vállalatok exportpiaci sikerességét.
+
+37.[^5]
+
+(3) A HEPA NZrt. a (2) bekezdésben meghatározott feladatai mellett végrehajtja a miniszter által meghatározott egyéb feladatokat.
+
+## 1/A. §[^6]
+
+Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Nyugat-Balkán Beruházási Támogatás előirányzat lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
+
+## 1/B. §[^7]
+
+Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Magyarország és a Szerb Köztársaság között a 2018. február 9-i kormányzati csúcs alkalmával aláírásra került és a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti gazdasági és technikai együttműködési megállapodás kihirdetéséről szóló 40/2018. (III. 13.) Korm. rendelettel kihirdetésre került kétoldalú megállapodás végrehajtásával kapcsolatban létrehozásra kerülő támogatás lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
+
+## 2. §
+
+(1) A miniszter a Statútum rendelet 140. § b), k) és o) pontjában meghatározott feladatainak körében a (2) bekezdés szerinti feladatokat a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KGH NKft.) útján, illetve annak közreműködésével látja el a (2) bekezdésben foglaltak szerint.
+
+(2) A KGH NKft. közreműködik Magyarország gazdasági kapcsolatainak a közép-európai térségben – különösen Ausztria, Horvátország, Lengyelország, Románia, Szerbia, Szlovákia, Szlovénia, Ukrajna, Lengyelország, Csehország és Magyarország területén – történő fejlesztésében, ennek keretében a KGH NKft.
+
+1\. kiválaszt, felkészít és működtet közép-európai partnerirodákat,
+
+2\. kiválaszt, felkészít és működtet Magyarország területén működő belföldi irodahálózatot,
+
+3\. felkutatja az exportlehetőségeket a közép-európai partnerirodák bevonásával,
+
+4\. kiközvetíti az üzleti partnereket,
+
+5\. segíti a magyar cégek külpiacra jutását proaktív kiajánlások formájában,
+
+6\. a magyar vállalkozások számára kiállításokat, vásárokat szervez,
+
+7\. felkutatja az exportlehetőségeket, üzleti partnereket közvetít és üzletember-találkozókat szervez a magyar vállalkozások számára,
+
+8\. felméri a vállalati igényeket, célirányosan felkutatja és látogatja az illetékességi területen működő és ágazati szereplőket,
+
+9\. felkutatja a hazai és határon túli exportképes árualapot,
+
+10\. segíti a két- és többoldalú nemzetközi gazdasági kapcsolatok fejlesztését,
+
+11\. együttműködik Magyarország külképviseleteivel, kapcsolatot tart a Magyarországon működő külképviseletekkel, valamint a Magyarországon, illetve külföldön működő partnerintézményekkel,
+
+12\. együttműködik a külgazdasági attasékkal az exportfejlesztési tevékenységek megvalósítása során,
+
+13\. közreműködik a kis és közepes méretű vállalkozások beszállítói lehetőségeinek feltárásában, mind a magyarországi külföldi befektetők, mind a környező országokban megtelepedett befektetők vonatkozásában,
+
+14\. külkereskedelem-technikai, értékesítési, valamint a különféle uniós és állami támogatási rendszerekkel kapcsolatos kérdésekben külpiaci információkat (országspecifikus üzleti és gazdasági információk) gyűjt és továbbít a kis- és középvállalkozók számára export- és tőkekihelyezési kapacitásaik optimalizációja céljából,
+
+15\. tanácsadást nyújt külkereskedelem-technikai, vámügyi, jogi és adózási kérdésekben képzések keretében,
+
+16\. tanácsadást és segítséget nyújt a magyar vállalkozások külföldi cégalapításához, tájékoztatást ad a tőkekihelyezéssel kapcsolatos információkról, jogszabályokról, valamint a befektetési és privatizációs lehetőségekről,
+
+17\. külföldi tenderfigyelést folytat, tájékoztatást ad magyar vállalkozások számára az adott célország tendereiről,
+
+18\. megszervezi a magas szintű delegációkhoz kapcsolódó B2B találkozókat, üzleti fórumokat belföldön és külföldön,
+
+19\. együttműködik és közvetlen kapcsolatot tart helyi vállalkozásokkal, hazai és határon túli gazdaságfejlesztő szervezetekkel, a területen működő külgazdasági diplomatákkal, az államigazgatás egyéb szerveivel és érdekképviseletekkel,
+
+20\. a miniszter által meghatározott fókuszágazatokban és fókuszrégiókban szervezi a magyar vállalkozások állami támogatás mellett megvalósuló részvételét a külföldi vásárokon, kiállításokon,
+
+21\. kezeli az ügyfélkapcsolatokat, ellátja az ügyféltámogatással és ügyfélszerzéssel összefüggő feladatokat, növelve ezáltal az ügyfélkapcsolatok profitábilitását,
+
+22\. fejleszti, fenntartja és folyamatosan frissíti a közép-európai potenciális partnerszervezeteket tartalmazó adatbázist, különös figyelemmel a határon túli gazdaságfejlesztési programokban való felhasználás igényeire,
+
+23\. közreműködik a határon túli gazdaságfejlesztési programok lebonyolításában és ellenőrzésében,
+
+24\. a miniszter iránymutatásának megfelelően részt vesz a külgazdasági attasék ismereteinek bővítésében, kiküldetésüket megelőzően felkészítésükben, továbbá
+
+25\. végrehajtja a miniszter által meghatározott egyéb feladatokat.
+
+26.[^8] külgazdasági támogatási programok lebonyolítását szakmai támogató szervként segíti.
+
+## 2/A. §[^9]
+
+(1) A 2. § (2) bekezdés 23. pontjában meghatározott feladatok körében, az egyes, a minisztérium által évente meghatározott szakmastratégia keretében megjelölt programok tekintetében a KGH NKft. lebonyolító szervként jár el.
+
+(2) A lebonyolító szerv – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 65/C. § (1) bekezdése szerinti megállapodásban rögzítettek szerint – az alábbi feladatokat látja el:
+
+a) közreműködik a programok végrehajtása keretében elkészítendő pályázati konstrukciók, minőségbiztosítási követelmények, megfelelő biztosítéki rendszer megalapozásában, kialakításában, a potenciális pályázói kör felmérésében, lefolytatja a szükséges egyeztetéseket, kialakítja a lebonyolítás módszertanát;
+
+b) a minisztérium szakmai felügyelete mellett kiírja a programok megvalósítása érdekében meghirdetésre kerülő pályázati felhívásokat, értékeli, kezeli a felhívásra beérkező pályázatokat, előkészíti és a minisztérium felé beterjeszti a szakmai javaslatait is tartalmazó döntési listát;
+
+c) a támogatási döntésről kiértesíti a pályázókat;
+
+d) a támogató szakmai felügyelete mellett elkészíti és megköti a támogatási szerződéseket a támogatások végső kedvezményezettjeivel;
+
+e) érkezteti és kezeli a támogatások kifizetésével kapcsolatban a támogatások végső kedvezményezettjeitől beérkező lehívásokat, ellátja a támogatásokkal összefüggő kifizetési feladatokat;
+
+f) ellátja a szerződések biztosítékával kapcsolatban felmerülő feladatokat;
+
+g) ellátja a szerződésekkel és a támogatáskezelési eljárás egyéb eljárási elemeivel összefüggő adatkezelési, adatfeldolgozási és adatszolgáltatási feladatokat, ide értve az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 56/B–56/C. §-ok rendelkezései által a Kincstári Monitoring Rendszer felé történő adatszolgáltatással kapcsolatban meghatározott feladatokat;
+
+h) nyomon követi a projektek megvalósítását, ellenőrzi a projektek pénzügyi és szakmai teljesítését, ennek keretében gondoskodik a támogatásokkal összefüggő helyszíni ellenőrzési feladatok ellátásáról;
+
+i) gondoskodik a támogatásokkal összefüggő követeléskezelési feladatok ellátásáról;
+
+j) biztosítja a pályázati konstrukciók lebonyolítását lehetővé tevő információs és informatikai rendszer kialakítását és működtetését;
+
+k) biztosítja a jogszabályoknak megfelelő adatkezelési és nyilvántartási rendszer kialakítását és működtetését;
+
+l) gondoskodik a szerződések lezárásáról, valamint ellátja a támogatásokhoz kapcsolódó követelésállomány nyilvántartásával összefüggő és követeléskezelési feladatokat;
+
+m) ellátja a minisztérium által számára meghatározott egyéb feladatokat.
+
+(3) A (2) bekezdésben meghatározott feladatainak ellátása során a KGH Nkft. a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 140. § o) pontja szerinti közfeladat ellátásában működik közre, az ennek keretében nyújtott támogatás nem minősül az Európai Unió működéséről szóló szerződés 107. cikke szerinti állami támogatásnak.
+
+(4) A minisztérium az Áht. VI. Fejezetében, valamint az Ávr. VI. Fejezetében a fejezetet irányító szerv részére előírt, az (1) és (2) bekezdésben nem szabályozott további feladatokat döntése szerint a KGH Nkft.-vel kölcsönösen együttműködve vagy saját hatáskörben látja el.
+
+(5) Az Ávr. 65/C. § (1) bekezdése szerinti megállapodás tartalmazza
+
+a) az (1) bekezdésben foglaltak alapján évente meghatározott programok kijelölését,
+
+b) a (2) bekezdésben szereplő feladatok végrehajtásából fakadó jogosultságok és kötelezettségek részletszabályait, valamint
+
+c) a (4) bekezdésben foglalt együttműködés keretébe tartozó feladatok ellátására vonatkozó szabályokat.
+
+(6) A támogatások lebonyolító szerv általi kifizetése, továbbá a támogatáskezeléssel kapcsolatos egyéb feladatok forrásának a lebonyolító szerv részére történő rendelkezésre állása érdekében a minisztérium gondoskodik a Magyar Államkincstárnál vezetett kincstári számláján elkülönített alszámla megnyitásáról és fenntartásáról, továbbá a lebonyolító szerv részére az alszámla feletti rendelkezési jogosultság biztosításáról.
+
+## 2/B. §[^10]
+
+Az e rendelet szerinti támogatáskezeléssel kapcsolatos feladatok ellátásához, a határon túli magyarság támogatásához szükséges forrást a központi költségvetésben kell tervezni.
+
+## 3. §
+
+A miniszter az 1. § (1) bekezdésében és a 2. § (1) bekezdésében meghatározott feladatok ellátására jellegüktől függően a HEPA NZrt.-vel és a KGH NKft.-vel közszolgáltatási vagy támogatási szerződést köt.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1. § és a 6. § a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba.[^11]
+
+(3) Az 1. § és a 6. § hatálybalépésének naptári napját a miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.[^12]
+
+---
+
+[^1]: Az 1. § a 4. § (2) bekezdése alapján a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba. Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
+[^2]: Az 1. § (2) bekezdés 28. pontja a 319/2018. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 35. pontját a 433/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (2) bekezdése 36. pontját az 535/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdés 37. pontját a 639/2021. (XI. 19.) Korm. rendelet 1. §-a iktatta be, a 665/2023. (XII. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^6]: Az 1/A. §-t a 321/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1/B. §-t a 42/2019. (III. 11.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § (2) bekezdés 26. pontját a 433/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 2/A. §-t a 319/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 2/B. §-t a 319/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
+[^12]: Lásd az 1/2018. (XI. 15.) KKM határozatot.

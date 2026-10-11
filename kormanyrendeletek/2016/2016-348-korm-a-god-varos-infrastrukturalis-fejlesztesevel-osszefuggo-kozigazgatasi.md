@@ -1,0 +1,116 @@
+---
+title: "348/2016. (XI. 17.) Korm. rendelet a Göd város infrastrukturális fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "348/2016. (XI. 17.) Korm. rendelet"
+njt_id: "2016-348-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/348"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-11-17
+in_force_from: 2016-11-18
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-348-20-22"
+retrieved: 2026-10-12
+---
+
+# 348/2016. (XI. 17.) Korm. rendelet a Göd város infrastrukturális fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában,
+
+a 4. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek
+
+a)[^1] a Göd közigazgatási területén lévő, az ingatlan-nyilvántartás szerinti 6462, 6468/8, 6501, 017, 018/43, 018/44, 020/1, 021, 039/210, 040, 041/2, 102/2, 2092/6, 3825, 4604/1, 4662, 4877, 4880, 5721, 6025, 6462, 022/43, 038, 039/208, 040, 041/2, 041/3, 041/4, 041/5, 3328/8, 4655/2, 4656, 4657/1, 046, 048/4, 049/2, 1829/11, 1830, 6901, 048/4, 071, 073/6, 074, 0171, 0173, 0174 helyrajzi számon, valamint a Göd külterületén lévő, az ingatlan-nyilvántartás szerinti 102/2, 102/17, 102/18, 102/19, 102/21 helyrajzi számon nyilvántartott földrészleteken, valamint az ezen földrészletekből telekalakítási eljárások véglegessé válását követően kialakított földrészleteken megvalósításra kerülő infrastruktúra fejlesztésére irányuló beruházásokkal, valamint
+
+b)[^2] a Dunakeszi külterületén lévő, az ingatlan-nyilvántartás szerinti 08, 014/1, 015/12, 015/13, 015/4, 015/5, 015/6, 015/7, 016/7, 016/9, 028/9, 028/10, 030/258, 030/259, 030/261, 030/262, 030/265, 030/267, 030/268, 030/271, 030/274, 030/277, 030/280, 031/2, 032/37, 032/39, 032/41, 032/43, 032/45, 032/47, 032/49, 032/51, 032/53, 032/55, 032/57, 032/59, 032/61, 032/63, 032/65, 032/67, 032/69, 032/71, 032/73, 032/75, 032/77, 032/79, 032/81, 032/83, 032/85, 032/87, 032/89, 032/91, 033/1, 034/25, 034/26, 034/28, 034/29, 034/33, 034/34, 034/37, 034/38, 034/41, 034/42, 034/44, 034/45, 034/47, 034/48, 034/49, 034/51, 034/52, 034/54, 034/56, 034/58, 034/60, 034/62, 034/64, 034/66, 034/68, 034/70, 034/72, 034/74, 034/76, 034/78, 034/80, 034/82, 034/84, 034/86, 07/168, 07/171, 07/173, 07/175, 07/177, 07/179, 07/180, 07/182, 07/181, 07/184, 07/185, 07/186, 07/187, 07/188, 07/189, 07/190, 07/191, 07/192, 07/194, 07/196, 07/198, 07/200, 07/202, 07/204, 07/206, 07/208, 07/210, 07/212, 07/214, 07/216, 07/218, 07/223, 07/77, 07/78, 07/79, 07/80, 07/81, 07/82, 07/83, 04/2, 06, 09/1, 017/3, 034/24, 034/36, 034/40, 034/50, 034/53, 028/8, 028/11, 016/6 helyrajzi számon nyilvántartott földrészleteken, valamint az ezen földrészletekből telekalakítási eljárások véglegessé válását követően kialakított földrészleteken megvalósításra kerülő M2 autópálya Dunakeszi északi csomópont és 2. sz. főút közötti összekötő út megépítésével összefüggő infrastruktúra fejlesztésére irányuló beruházásokkal
+
+függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához, valamint
+
+b) a beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, valamint egyéb munkák megvalósításához
+
+szükségesek.
+
+## 2. §[^3]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Pest Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 4. §
+
+Az 1. § (1) bekezdése szerinti beruházással összefüggésben építészeti-műszaki tervtanácsi véleményt nem kell beszerezni.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 348/2016. (XI. 17.) Korm. rendelethez
+
+**Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. területrendezési hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15\. hírközlési hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. tűzvédelmi hatósági eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. erdővédelmi hatósági eljárások,
+
+21\. földvédelmi hatósági eljárás,
+
+22.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+23\. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24\. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 458/2017. (XII. 28.) Korm. rendelet 299. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 458/2017. (XII. 28.) Korm. rendelet 299. §-a szerint módosított szöveg.
+[^3]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 138. § a)-c) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 213. §-a szerint módosított szöveg.

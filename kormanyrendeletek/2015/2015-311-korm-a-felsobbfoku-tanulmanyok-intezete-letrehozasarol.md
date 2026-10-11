@@ -1,0 +1,101 @@
+---
+title: "311/2015. (X. 28.) Korm. rendelet a Felsőbbfokú Tanulmányok Intézete létrehozásáról"
+identifier: "311/2015. (X. 28.) Korm. rendelet"
+njt_id: "2015-311-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/311"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-10-28
+in_force_from: 2015-10-29
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-311-20-22"
+retrieved: 2026-10-12
+---
+
+# 311/2015. (X. 28.) Korm. rendelet a Felsőbbfokú Tanulmányok Intézete létrehozásáról
+
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Felsőbbfokú Tanulmányok Intézete jogállása
+
+### 1. §[^1]
+
+A Felsőbbfokú Tanulmányok Intézete (a továbbiakban: Intézet) a területfejlesztésért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó központi költségvetési szerv.
+
+### 2. §
+
+(1) Az Intézetet főigazgató vezeti. A főigazgató megbízatása 5 évre szól.
+
+(2)[^2] A főigazgatót munkájában két főigazgató-helyettes segíti. A főigazgató-helyetteseket 5 évre a miniszter nevezi ki és menti fel. A főigazgató-helyettesek felett az egyéb munkáltatói jogokat a főigazgató gyakorolja.
+
+(3) Az Intézet alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezései az irányadók.
+
+### 3. §
+
+Az Intézet gazdasági szervezettel rendelkezik.
+
+## 2. Az Intézet feladatai
+
+### 4. §
+
+(1)[^3] Az Intézet kutató-, fejlesztő-, szellemi központként a kormányzat, a felsőoktatási és egyéb kutatóintézetek, valamint a vállalatok közötti együttműködés hatékonyságának javítása, továbbá egyes állami tervezési és döntés-előkészítési feladatok ellátása céljából
+
+a) hozzájárul a nemzetközi interdiszciplináris kutatásokhoz való felzárkózást elősegítő kutatások szervezéséhez és megvalósításához a társadalomtudományok, a bölcsészet, a művészetek, műszaki és természettudományok, valamint az adattudományok terén, különös tekintettel a társadalmi újítás, a fenntarthatóság, a hálózatkutatás, a technikai innováció, a közép-európai regionális kutatások szempontjából kulcsfontosságú tématerületek átfogó elemzésével,
+
+b) az *a)* pontban meghatározott tudományágakban elemzéseket és javaslatokat dolgoz ki a Kormány számára,
+
+c) hozzájárul a nyugat-pannon régió irodalmának, történelmének, helytörténetének, művészetének, vallási életének kutatásához és bemutatásához, valamint összeurópai művészeti kezdeményezésekben vesz részt a Pannon Irodalom és Művészetek Háza működtetésével,
+
+d) a „Kreatív város – fenntartható vidék” kutatás feladatai keretében
+
+da) a „Kreatív város – fenntartható vidék” kutatást (KRAFT) mint a kreatív integratív fejlesztési koncepciót adaptálja Magyarország más határrégióira, valamint
+
+db) nyomon követi a *da)* alpontban meghatározott fejlesztések által indukált változásokat, valamint értékeli azok hatásait,
+
+dc) közreműködik régiós együttműködések kialakításában, működtetésében, valamint koordinálja a Pannon Városok Szövetségének tevékenységét,
+
+e) a „Fenntartható társadalom – fenntartható környezet”, a környezeti fenntarthatóság és az ökológiai társadalom előmozdítását szolgáló kutatások keretében
+
+ea) a környezeti elemek védelme és a társadalom számára nyújtott ökoszisztéma szolgáltatási kutatást végez,
+
+eb) az ember és környezete kapcsolatait feltáró kutatást végez, különös tekintettel az éghajlatváltozással, a víz- és talajkészletekkel való kapcsolatokat vizsgáló kutatásra,
+
+ec) környezetinformatikai kutatás-fejlesztést végez,
+
+ed) körkörös, fenntartható gazdaságfejlesztési kutatást végez,
+
+f) az alkalmazott adattudományi kutatások feladatai keretében
+
+fa) nyílt adat- és közösségi informatikai kutatást végez,
+
+fb) adattudományi kutatásokat, elemzéseket végez a gazdaságot támogató folyamatok tervezésére, az ellátási rendszerek hatékonyságának javítására, a társadalmi fenntarthatóság elősegítésére,
+
+fc) adatgyűjtő és -elemző platformokat hoz létre és üzemeltet,
+
+fd) digitális bölcsészet, kulturális örökség és fenntarthatóság kutatást végez, valamint
+
+g) gondoskodik a Hankiss Elemér bibliográfia összegyűjtéséről és Hankiss Elemér életműve által érintett tudományterületeken kutatást végző Hankiss Elemér Kutatói Archívum működtetéséről,
+
+h) az *a)–g)* pontban foglalt feladatai ellátásán túl a Kormány által meghatározott egyéb kutatási témakörbe tartozó feladatokat végez,
+
+i) kiadói feladatokat lát el a kidolgozott kutatási eredmények, elemzések nyilvánosságra hozatala és népszerűsítése érdekében, valamint
+
+j) online folyóirat- és egyéb adatbázisokat épít ki a kutatási munka támogatása céljából.
+
+(2) Az Intézet tevékenységét nemzeti és nemzetközi működési körben látja el.
+
+(3) Az Intézet főigazgatója a feladatkörében meghatározott célból, feladatkörében eljárva – személyes adatnak és magántitoknak minősülő adatokat kivéve – az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
+
+## 3. Záró rendelkezés
+
+### 5. §
+
+Ez a rendelet a kihirdetését követő napon hatályba.
+
+---
+
+[^1]: Az 1. § az 599/2023. (XII. 22.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 171/2021. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 171/2021. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,0 +1,105 @@
+---
+title: "328/2015. (XI. 10.) Korm. rendelet a közfoglalkoztatottak elhelyezkedési juttatásáról"
+identifier: "328/2015. (XI. 10.) Korm. rendelet"
+njt_id: "2015-328-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/328"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-11-10
+in_force_from: 2016-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-328-20-22"
+retrieved: 2026-10-12
+---
+
+# 328/2015. (XI. 10.) Korm. rendelet a közfoglalkoztatottak elhelyezkedési juttatásáról
+
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. § (4) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Elhelyezkedési juttatás illeti meg kérelmére azt,
+
+a)[^1] akinek a legalább egy hónapja fennálló közfoglalkoztatási jogviszonya a kérelem benyújtását megelőző 30 napon belül azért szűnt meg, mert a Polgári Törvénykönyv szerinti gazdasági társasággal, szövetkezettel (kivéve az iskolaszövetkezetet), egyesülettel, alapítvánnyal vagy az egyéni vállalkozóról és az egyéni cégről szóló törvény hatálya alá tartozó munkaadóval, mezőgazdasági őstermelővel, vízi társulattal, valamint erdőgazdálkodóval a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) közvetítésével vagy anélkül, határozatlan idejű vagy legalább egy évre szóló határozott idejű munkaviszonyt létesített, és
+
+b) aki a kérelem benyújtását megelőző két éven belül – ideértve az *a)* pontban meghatározott közfoglalkoztatási jogviszony időtartamát is – legalább 180 napig közfoglalkoztatási jogviszonyban állt.
+
+(2) Az elhelyezkedési juttatás további feltétele, hogy az (1) bekezdés a) pontjában meghatározott munkaviszonyban a munkaidő eléri a legalább napi hat, megváltozott munkaképességű személy esetében a legalább napi négy órát, és a munkaviszony – legalább olyan időtartamig – folyamatosan fennáll, ameddig a közfoglalkoztatási jogviszony munkaviszony létesítése hiányában fennállt volna.
+
+(3)[^2]
+
+(4)[^3] Az elhelyezkedési juttatás a 2. § (1) bekezdésében meghatározott támogatási időtartam lejártát követő 2 évig – a 4/A. §-ban foglalt kivétellel – ismételten nem igényelhető.
+
+(5) A munkaviszony fennállását a munkaadó havonta igazolja.
+
+## 2. §
+
+(1)[^4] Az elhelyezkedési juttatás összege megegyezik a foglalkoztatást helyettesítő támogatásnak, a közfoglalkoztatási jogviszony megszűnését követő naptól addig az időpontig tartó időtartamra számított összegének kétszeresével, ameddig a közfoglalkoztatási jogviszony – munkaviszony létesítése hiányában – fennállt volna.
+
+(2)[^5] A támogatást kérő személyt az elhelyezkedési juttatás az (1) bekezdésben meghatározott időtartamra számított időarányos összege illeti meg, ha a munkaviszony annak az időtartamnak csak egy részében áll fenn, és a munkavállaló azonnali hatályú felmondásával vagy a munkáltató részéről felmondással szűnt meg. Ezt a rendelkezést nem kell alkalmazni abban az esetben, ha a munkavállaló a munkaviszony megszűnését követően 7 munkanapon belül az 1. § (1) bekezdésben meghatározott munkáltatóval újabb munkaviszonyt létesít.
+
+(3) Az (1) bekezdésben meghatározott elhelyezkedési juttatást havi bontásban, utólag kell folyósítani.
+
+## 3. §
+
+(1)[^6] Az 1. §-ban, valamint a 4/A. §-ban meghatározott juttatás iránti kérelemnek tartalmaznia kell
+
+a) a kérelmező nevét, születési helyét és idejét, lakóhelyét, tartózkodási helyét,
+
+b) a közfoglalkoztató, valamint a munkaadó megnevezését,
+
+c) a közfoglalkoztatási jogviszony, valamint a munkaviszony időtartamának megjelölését.
+
+(2)[^7] Az elhelyezkedési juttatás iránti kérelmet – a 4/A. § (3) bekezdésében meghatározott kivétellel – a közfoglalkoztatási jogviszony megszűnésétől számított 30 napon belül kell benyújtani.
+
+## 4. §
+
+(1)[^8] Az 1. §-ban, valamint a 4/A. §-ban meghatározott támogatáshoz szükséges pénzeszközöket a Gazdaság-újraindítási Foglalkoztatási Alap foglalkoztatási alaprésze biztosítja oly módon, hogy a támogatás nyújtására munkaerőpiaci program keretében kerül sor.
+
+(2) A támogatásban részesülő haladéktalanul köteles bejelenteni az 1. § (1) bekezdés a) pontjában meghatározott munkaviszonynak az 1. § (2) bekezdésében meghatározott időpont előtti megszűnését.
+
+(3)[^9] Az 1. §-ban meghatározott támogatás további folyósítását meg kell szüntetni és a támogatásban részesülő köteles a már felvett támogatást visszafizetni, ha az 1. § (1) bekezdés a) pontjában meghatározott munkaviszony az 1. § (2) bekezdésében meghatározott időpontot megelőzően – a (4) bekezdésben foglaltak kivételével – a munkavállaló felmondásával, közös megegyezéssel vagy a munkaadó azonnali hatályú felmondásával szűnik meg.
+
+(4)[^10] A (3) bekezdésben foglaltak nem alkalmazhatók, ha
+
+a) a munkaadó a munka törvénykönyvéről szóló 2012. évi I. törvény 79. § (1) bekezdésében foglaltak szerint a munkaviszonyt azonnali hatályú felmondással a próbaidő alatt, vagy a határozott idejű munkaviszonyt indokolás nélkül szünteti meg, vagy
+
+b) a munkavállaló a munkaviszony megszűnését követően 7 napon belül az 1. § (1) bekezdésben meghatározott munkáltatóval újabb munkaviszonyt létesít.
+
+## 4/A. §[^11]
+
+(1) Elhelyezkedési juttatásra az a közfoglalkoztatott is jogosult, aki legalább egy hónapja fennálló közfoglalkoztatási jogviszonnyal rendelkezik, és az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 2. § 1. pontja szerinti mezőgazdasági idénymunkában egy hónapon belül legalább 14 napig részt vesz.
+
+(2) A mezőgazdasági idénymunka ideje alatt az elhelyezkedési juttatás napi összege 2000 forint.
+
+(3) Az elhelyezkedési juttatás iránti kérelmet a mezőgazdasági idénymunka lejártától számított 30 napon belül kell benyújtani.
+
+(4) Az (1) bekezdésben meghatározott elhelyezkedési juttatást havonta, utólag kell folyósítani.
+
+## 5. §[^12]
+
+(1)[^13] Az e rendelet által szabályozott támogatással kapcsolatos ügyekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény VI/A. Fejezetében, 54. és 55. §-ában foglaltak figyelembevételével.
+
+(2) Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben az ügyintézési határidő 25 nap.
+
+## 6. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 335/2016. (XI. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 185/2018. (X. 8.) Korm. rendelet 3. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 223. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 6. § (5) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (4) bekezdése a 185/2018. (X. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 185/2018. (X. 8.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés nyitó szövegrésze a 185/2018. (X. 8.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 185/2018. (X. 8.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 101/2021. (II. 27.) Korm. rendelet 10. §-ával megállapított, a 356/2021. (VI. 24.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (4) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^11]: A 4/A. §-t a 185/2018. (X. 8.) Korm. rendelet 2. §-a iktatta be.
+[^12]: Az 5. § a 457/2015. (XII. 28.) Korm. rendelet 550. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: Az 5. § (1) bekezdése a 101/2021. (II. 27.) Korm. rendelet 11. §-a szerint módosított szöveg.

@@ -1,0 +1,457 @@
+---
+title: "64/2019. (III. 27.) Korm. rendelet a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról"
+identifier: "64/2019. (III. 27.) Korm. rendelet"
+njt_id: "2019-64-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/64"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-03-27
+in_force_from: 2019-03-28
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-64-20-22"
+retrieved: 2026-10-12
+---
+
+# 64/2019. (III. 27.) Korm. rendelet a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+az 1. § (3) bekezdése tekintetében a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 20. § (1) bekezdés a) pontjában,
+
+az 1. § (4) bekezdése tekintetében a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 20. § (1) bekezdés b) pontjában,
+
+a 2. § (1) bekezdése tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 14. pontjában,
+
+a 2. § (2) bekezdése tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 9. pontjában,
+
+az 5. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 1. és 11. pontjában,
+
+a 6. § a) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+a 6. § b) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 6. § c) és d) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 17. § tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a 2019. évben Budapesten zajló World Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet I. pontja szerinti helyrajzi számú ingatlanokon a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság (a továbbiakban: Európa-bajnokság) megrendezéséhez szükséges új budapesti multifunkcionális sport- és rendezvénycsarnok létesítését célzó beruházással (a továbbiakban: Beruházás) függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b)[^1] a Beruházáshoz közvetlenül kapcsolódó – az (1) bekezdés szerinti létesítmény megközelítését és működését segítő – magasépítési, mélyépítési, aluljáró- és állomásépítési, közterület- és zöldfelület-rendezési, útépítési, parkolóépítési, műtárgyépítési, járdaépítési közműcsatlakozási, közmű-átalakítási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákra vonatkoznak.
+
+(3) A Kormány a Beruházást kiemelt budapesti fejlesztéssé nyilvánítja. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
+
+(4)[^2] Az állam Beruházás előkészítésével összefüggő – a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvényben meghatározott – feladatait a BFK Budapest Fejlesztési Központ Nonprofit Zrt. 2020. június 30-ig látja el.
+
+(5)[^3] A (4) bekezdés szerinti feladatokat, valamint a Beruházás megvalósításával kapcsolatos feladatokat 2020. július 1. napjától a Beruházási Ügynökség látja el.
+
+(6)[^4] A Beruházási Ügynökség az (5) bekezdésből eredő átruházással összefüggésben a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Budapest Fejlesztési Központ Nonprofit Zrt.) részére megtéríti a Beruházás megvalósítása érdekében a BFK Budapest Fejlesztési Központ Nonprofit Zrt. által tervezésre és kivitelezésre kötött vállalkozási szerződés alapján már kifizetett, de a teljesítése során még el nem számolt előleg összegét. A megtérítés az (5) bekezdésben meghatározott határnapot követő 75 napon belül megkötött megállapodás alapján és elszámolás mellett történik.
+
+(7)[^5] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. az (5) bekezdésből eredő átruházással összefüggésben felmerült, a Miniszterelnökség részére teljesítendő visszafizetési kötelezettségére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 98. § (6) bekezdését kell alkalmazni.
+
+## 1/A. §[^6]
+
+A Beruházással összefüggő építési, felújítási, átalakítási, bővítési, helyreállítási, korszerűsítési, fejlesztési, bontási és beszerzési tevékenység közfeladatnak minősül.
+
+## 1/B. §[^7]
+
+(1) A Beruházási Ügynökség 2020. július 1. napjával – a (2) bekezdésben foglaltak kivételével – a BFK Budapest Fejlesztési Központ Nonprofit Zrt. helyébe lép a feladatok átvételéhez szükséges, Beruházással összefüggésben megkötött szerződésekben, amelyhez a szerződésben részes harmadik fél hozzájárulása nem szükséges. A szerződő fél személyében bekövetkezett változásról a szerződésben részes feleket a Beruházási Ügynökség értesíti.
+
+(2) Az (1) bekezdéstől eltérően a pénzügyi teljesítés napjáig a BFK Budapest Fejlesztési Központ Nonprofit Zrt. gyakorolja a 2020. július 1. napját megelőzően megtörtént teljesítések igazolásának elszámolásával és pénzügyi teljesítésével összefüggésben a megrendelőt vagy megbízót a szerződések szerint megillető jogokat és terhelő kötelezettségeket.
+
+(3) A BFK Budapest Fejlesztési Központ Nonprofit Zrt. köteles a Beruházás tekintetében az általa elkészíttetett tervekre vonatkozó felhasználási engedélyt, illetve a felhasználási szerződést a Beruházási Ügynökségre átruházni. Az ilyen átruházáshoz a szerző hozzájárulása nem szükséges, azzal, hogy a Beruházási Ügynökség a felhasználási engedély átruházásáról értesíti a szerzőt.
+
+(4) A Beruházási Ügynökséget az (1)–(3) bekezdés szerinti változással érintett esetekben további közbeszerzési kötelezettség nem terheli.
+
+(5) A Beruházással összefüggő hatósági engedélyek tekintetében, továbbá az engedélyek kiadásával kapcsolatos folyamatban lévő eljárásokban a Beruházási Ügynökség lép a BFK Budapest Fejlesztési Központ Nonprofit Zrt. helyébe.
+
+(6) Az (5) bekezdés szerinti változást a Beruházási Ügynökség bejelenti a hatósági engedélyt kiadó hatóság részére.
+
+## 1/C. §[^8]
+
+(1) A 2019. évben Budapesten zajló World Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet I. pontjában meghatározott ingatlanok vonatkozásában az állami magasépítési beruházásokról szóló 2018. évi CXXXVIII. törvény (a továbbiakban: 2018. évi CXXXVIII. törvény) 8. § (2) bekezdése szerinti megállapodást 2020. július 1. napjára vonatkozó hatállyal kell megkötni.
+
+(2) Az (1) bekezdésben meghatározottak szerinti tulajdonosi joggyakorlás átvételét követően a BFK Budapest Fejlesztési Központ Nonprofit Zrt. Beruházással összefüggő építtetői jogainak megszűnésére és a feladatátadásra figyelemmel, a vagyonkezelési szerződésnek az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet [a továbbiakban: 254/2007. (X. 4.) Korm. rendelet] 12/A. § (6) bekezdése szerinti azonnali hatályú megszüntetése mellett, elszámol az átvett állami vagyonnal.
+
+(3) A (2) bekezdés szerinti elszámolásnál a 254/2007. (X. 4.) Korm. rendelet 18. § (3a) bekezdését nem kell alkalmazni.
+
+(4) A 2018. évi CXXXVIII. törvény 8. § (2) bekezdésének megfelelően az (1) bekezdésben meghatározott megállapodás hatálybalépésével egyidejűleg a Beruházási Ügynökség az átvett vagyonnal kapcsolatos jogviszonyokba, különösen az átvett vagyont érintő településrendezési szerződésbe mint közigazgatási szerződésbe jogutódként belép.
+
+## 2. §
+
+(1) A Beruházás előkészítésével és megvalósításával összefüggő közbeszerzési eljárások, valamint az azokkal összefüggő szerződések megkötése és módosítása esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló kormányrendelet előírásait nem kell alkalmazni.
+
+(2) A Beruházás előkészítésére és megvalósítására irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+
+## 3. §
+
+(1)[^9] A Kormány az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^10]
+
+(3) A Kormány az 1. melléklet 13. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a közlekedésért felelős minisztert jelöli ki.
+
+## 4. §[^11]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 5. §
+
+(1) A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság Régészeti Igazgatósága, a további régészeti előkészítés – megelőző feltárás – elvégzésére a Budapesti Történeti Múzeum jogosult.
+
+(2) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány az adott beruházáshoz köthetően már rendelkezésre áll.
+
+(3) Ha a (2) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 6. §
+
+A Beruházással összefüggésben
+
+a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+b) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+c) településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+d) településképi bejelentési eljárásnak nincs helye.
+
+## 7. §
+
+(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi hatósági eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – 10 nap.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – 5 nap.
+
+## 7/A. §[^12]
+
+Az 1. § (1) bekezdése szerinti ingatlanok telkére a beépítés és a telekalakítás szabályait a 8–11. § állapítja meg, azzal, hogy
+
+a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a 8–11. §-ban foglalt eltérésekkel kell alkalmazni, és
+
+b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés 8–11. §-ban meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+## 8. §
+
+(1)[^13] Az 1. § (1) bekezdése szerinti hatósági ügyekben az 1. § (1) bekezdése szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telek helyi építési szabályzat szerinti kialakítása még nem történt meg.
+
+(2)[^14]
+
+(3) A Beruházás esetén egy épületre vonatkozóan az építési engedély akkor is megadható, ha a létesítendő épület helyszínéül szolgáló terület több telekből áll, továbbá az épület építési teleknek nem minősülő területen is elhelyezhető.
+
+(4) Sportesemény idejére és az azt követő állapotra vonatkozóan a Beruházás esetében az építési engedély ütemezetten is megkérhető.
+
+## 9. §
+
+(1) Az 1. § (1) bekezdése szerinti ingatlanok tekintetében a legkisebb zöldfelületi átlagérték 10%.
+
+(2) A Budapest IX. kerület, belterület 38295/6 helyrajzi számú ingatlanon P+R parkoló kialakítása nem szükséges.
+
+(2a)[^15] A Beruházással összefüggő telekalakítási eljárásokban az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 23. § (11) bekezdésében előírtakat nem kell alkalmazni.
+
+(3)[^16] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5 és 38295/6 helyrajzi számú ingatlanokra, valamint ezen ingatlanokból a telekalakítási eljárások végleges befejezését követően kialakított ingatlanokra meghatározott sajátos beépítési szabályok:
+
+a) a telkek beépítési módja szabadon álló,
+
+b) a kialakítható telek legkisebb területe 6000 m<sup>2</sup>,
+
+c) a beépítettség megengedett legnagyobb mértéke 65%,
+
+d) a terepszint alatti építés legnagyobb mértéke 65%,
+
+e) a szintterületi mutató megengedett legnagyobb értéke 2,6 m<sup>2</sup>/m<sup>2</sup>,
+
+f) a zöldfelület megengedett legkisebb mértéke 10%,
+
+g) az épületmagasság megengedett legnagyobb mértéke 50 méter,
+
+h) az épület legmagasabb pontja nem haladhatja meg a 50 métert,
+
+i) az előkert mérete legalább 5 méter,
+
+j) az oldalkert és a hátsókert mérete legalább 5 méter.
+
+k)[^17] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 0,75 m<sup>2</sup>/telek m<sup>2</sup>,
+
+l)[^18] a 11. § (1) bekezdésében meghatározott gépjármű-várakozóhelyek legfeljebb 20%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
+
+m)[^19] a létesítmény működéséhez szükséges egyéb gépjárművek, valamint autóbuszok elhelyezését a felszínen állandó jelleggel biztosítani lehet,
+
+n)[^20] az újonnan létesített várakozó- és parkolóhelyek kialakítása során 100 várakozó-, illetve parkolóhely után legalább 2 várakozó-, illetve parkolóhely vonatkozásában elektromos gépjármű töltőállomás kiépítését kell biztosítani a burkolat megbontása nélkül.
+
+(4) A Beruházással érintett, Budapest IX. kerület, belterület 38295/1, 38295/10, 38295/11 helyrajzi számú ingatlanra, valamint ezen ingatlanokból a telekalakítási eljárások végleges befejezését követően kialakított ingatlanokra meghatározott sajátos beépítési szabályok:
+
+a) a telkek beépítési módja szabadon álló,
+
+b) a kialakítható telek legkisebb területe 5000 m<sup>2</sup>,
+
+c) a beépítettség megengedett legnagyobb mértéke 80%,
+
+d) a terepszint alatti építés legnagyobb mértéke 80%,
+
+e) a szintterületi mutató megengedett legnagyobb értéke 4,0 m<sup>2</sup>/m<sup>2</sup>,
+
+f) a zöldfelület megengedett legkisebb mértéke 15%,
+
+g) az épületmagasság megengedett legnagyobb mértéke 45 méter,
+
+h) az épület legmagasabb pontja nem haladhatja meg a 45 métert,
+
+i) az előkert mérete legalább 5 méter,
+
+j) az oldalkert és a hátsókert mérete legalább 5 méter.
+
+k)[^21] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 1,25 m<sup>2</sup>/telek m<sup>2</sup>,
+
+l)[^22] a 11. § (3) bekezdésében meghatározott gépjárműparkolóhelyek legfeljebb 10%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
+
+m)[^23] minden kialakítandó gépjárműtároló 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
+
+n)[^24] felszíni egybefüggő üzemeltetett parkolók állandó jelleggel kialakíthatók az erre vonatkozó előírások betartásával, a parkolóhelyek 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
+
+o)[^25] lapostetős épület létesítése esetén azokat zöldtetősként kell kialakítani.
+
+(5)[^26] A (3) bekezdés g) pontjának és a (4) bekezdés g) pontjának alkalmazása során az épületmagasságot az OTÉK-ban foglalt, az e rendelet hatálybalépésekor hatályos követelmények szerint kell számítani.
+
+(6)[^27] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5, 38295/6 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
+
+a) sportlétesítmény,
+
+b) kulturális közösségi szórakoztatás,
+
+c) közintézmény,
+
+d) igazgatás,
+
+e) iroda,
+
+f) szálláshely-szolgáltatás,
+
+g) szolgáltatás,
+
+h) vendéglátás,
+
+i) kiskereskedelem,
+
+j) oktatás,
+
+k) parkolóház.
+
+(7)[^28] A Beruházással érintett, Budapest IX. kerület, belterület 38295/1, 38295/10, 38295/11 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
+
+a) közintézmény,
+
+b) igazgatás,
+
+c) iroda,
+
+d) szálláshely-szolgáltatás,
+
+e) kollégium,
+
+f) lakó,
+
+g) szolgáltatás,
+
+h) vendéglátás,
+
+i) egyéb közösségi szórakoztatás,
+
+j) a kutatás-fejlesztés nem üzemi technológiái,
+
+k) kiskereskedelem,
+
+l) parkolóház.
+
+(8)[^29] A Beruházással érintett ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon a melléképítmények közül az alábbiak helyezhetők el:
+
+a) közmű-becsatlakozási műtárgy,
+
+b) kerti építmények közül hinta, csúszda, homokozó, szökőkút, pihenés és játék céljára szolgáló műtárgy, a terepszintnél 1 m-nél magasabbra nem emelkedő, lefedés nélküli terasz,
+
+c) kerti vízmedence,
+
+d) kerti lugas,
+
+e) kerti szabadlépcső, tereplépcső és lejtő.
+
+(9)[^30] A Beruházással érintett ingatlanok, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanok
+
+a) egyidejűleg több különböző építési övezetbe is tartozhatnak,
+
+b) telekalakítása során az övezeti határvonalat nem kell figyelembe venni,
+
+c) vonatkozásában új építmény a telken belül jelölt szabályozási vonal és építési övezeti határ figyelembevétele nélkül elhelyezhető, és
+
+d) vonatkozásában az e rendeletben meghatározott határértékek betartása mellett több épület is elhelyezhető.
+
+(10)[^31] A 38295/8 helyrajzi számú közterület (Fék utca folytatása) Üllői út felé eső csomópontjának kialakításához a közterületi telekhatárokat az EOV rendszer alapján az alábbi koordinátákkal kell kialakítani:
+
+a) a 38295/5 helyrajzi számú telek felé: 4654233.80-236582.17, 654243.38-236599.29, 654239.51-236614.74,
+
+b) a 38295/10 helyrajzi számú telek felé: 654297.27-236577.60, 654214.89-236542.65, 654209.28-236545.70.
+
+(11)[^32] A Beruházással érintett ingatlanokon a terepszint alatti beépítés határvonala megegyezik az e rendeletben előírt elő-, oldal- és hátsókertek vonalával.
+
+## 10. §
+
+(1) A Beruházással összefüggésben – az élet- és vagyonbiztonság biztosítása mellett – nem kell alkalmazni
+
+a) a lelátók esetében az OTÉK 64. § (2)–(7) bekezdését, 65. §-át és 67. §-át,
+
+b) az OTÉK 99. § (8) bekezdését.
+
+(2) A Beruházás keretében megvalósuló létesítményben az OTÉK 99. § (2) bekezdése szerinti csoportos illemhely nem csak önálló szellőzésű előtérből nyílhat.
+
+## 11. §
+
+(1) A Beruházás keretében megvalósuló építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az OTÉK 42. §-a szerint elhelyezendő személygépkocsik, kialakítandó kerékpártárolók, létesítendő autóbusz várakozóhelyek számát az alábbi eltérésekkel kell meghatározni:
+
+a) egy személygépkocsi elhelyezését kell biztosítani minden megkezdett 25 állandó férőhely után,
+
+b) egy kerékpár elhelyezését kell biztosítani minden megkezdett 200 férőhely után,
+
+c) egy autóbusz várakozóhelyet kell létesíteni minden megkezdett 2000 férőhely után,
+
+d) egy akadálymentes parkolóhelyet kell létesíteni minden megkezdett 50 kialakított parkolóhely után.
+
+(2) Az (1) bekezdés szerinti gépjármű-várakozóhelyek (parkolók) a telekhatártól mért, legfeljebb 1000 méteren belüli más telken, parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területe egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával kialakíthatók.
+
+(3) Az (1) bekezdés a) pontja szerinti, újonnan létesített várakozó- (parkoló-) helyeket úgy kell kialakítani, hogy 100 várakozó- (parkoló-) hely után legalább 2 várakozó- (parkoló-) hely vonatkozásában elektromos gépjármű töltőállomás kiépíthető legyen a burkolat megbontása nélkül. Ideiglenes parkolók kialakításakor elektromos töltőállomás kiépítése nem szükséges.
+
+## 12. §
+
+A Beruházással összefüggésben a bontás, földmunka, mélyalapozás és alaplemez készítés bontási és építési engedély nélkül végezhető építési tevékenység.
+
+## 13. §
+
+A Beruházással összefüggésben az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet 6. melléklet IV. pont 1. alpontját azzal az eltéréssel kell alkalmazni, hogy az egyéb rendeltetésű épületeknél a minimálisan alkalmazandó megújuló energia részaránynak nem kell meghaladnia a 10 kWh/m<sup>2</sup>-évet.
+
+## 14. §[^33]
+
+A helyi településrendezési terv alapján előírt infrastruktúra-fejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületekre vonatkozó építési és használatbavételi engedély kiadásának nem lehet a feltétele.
+
+## 15. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 16. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 17. §[^34]
+
+E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) bekezdését a Módr. hatálybalépésekor[^35] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 18. §[^36]
+
+E rendeletnek az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet és a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 604/2021. (X. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (2) bekezdés b) pontját, 7/A. §-át, 9. § (3)–(11) bekezdését, valamint 14. §-át a Módr2. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 19. §[^38]
+
+E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^39] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. környezetvédelmi hatósági eljárások,
+
+11\. természetvédelmi hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. telekalakításra irányuló hatósági eljárások,
+
+16\. földmérési hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. bányahatósági engedélyezési eljárások,
+
+19\. élelmiszerlánc-felügyeleti eljárás,
+
+20\. közegészségügyi hatósági eljárások,
+
+21\. területrendezési hatósági eljárások,
+
+22.[^40] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+23\. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24\. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 64/2019. (III. 27.) Korm. rendelethez[^41]
+
+---
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 604/2021. (X. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 322/2020. (VII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (6) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (7) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1/A. §-t a 212/2019. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1/B. §-t a 322/2020. (VII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 1/C. §-t a 322/2020. (VII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 3. § (1) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 93. §-a hatályon kívül helyezte, újonnan a 196/2020. (V. 12.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^10]: A 3. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 302. §-a hatályon kívül helyezte.
+[^11]: A 4. § az 546/2022. (XII. 22.) Korm. rendelet 229. § a)-b) pontja szerint módosított szöveg.
+[^12]: A 7/A. §-t a 604/2021. (X. 29.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 8. § (1) bekezdése a 604/2021. (X. 29.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^14]: A 8. § (2) bekezdését a 604/2021. (X. 29.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^15]: A 9. § (2a) bekezdését a 685/2021. (XII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 9. § (3) bekezdés nyitó szövegrésze a 604/2021. (X. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^17]: A 9. § (3) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^18]: A 9. § (3) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^19]: A 9. § (3) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^20]: A 9. § (3) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^21]: A 9. § (4) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^22]: A 9. § (4) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^23]: A 9. § (4) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^24]: A 9. § (4) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^25]: A 9. § (4) bekezdés o) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^26]: A 9. § (5) bekezdése a 604/2021. (X. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^27]: A 9. § (6) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^28]: A 9. § (7) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^29]: A 9. § (8) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^30]: A 9. § (9) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^31]: A 9. § (10) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^32]: A 9. § (11) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^33]: A 14. § a 604/2021. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^34]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 196/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^35]: A hatálybalépés időpontja 2020. május 13.
+[^36]: A 18. §-t a 604/2021. (X. 29.) Korm. rendelet 8. §-a iktatta be.
+[^37]: A hatálybalépés időpontja 2021. október 30.
+[^38]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2021. december 8.
+[^40]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 301. §-a szerint módosított szöveg.
+[^41]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

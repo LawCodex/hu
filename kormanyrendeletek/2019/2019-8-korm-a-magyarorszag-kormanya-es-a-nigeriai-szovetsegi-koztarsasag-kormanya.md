@@ -1,0 +1,412 @@
+---
+title: "8/2019. (II. 5.) Korm. rendelet a Magyarország Kormánya és a Nigériai Szövetségi Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "8/2019. (II. 5.) Korm. rendelet"
+njt_id: "2019-8-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/8"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-02-05
+in_force_from: 2019-02-06
+last_amended: 2021-08-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-8-20-22"
+retrieved: 2026-10-12
+---
+
+# 8/2019. (II. 5.) Korm. rendelet a Magyarország Kormánya és a Nigériai Szövetségi Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Nigériai Szövetségi Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„GAZDASÁGI ÉS MŰSZAKI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A NIGÉRIAI SZÖVETSÉGI KÖZTÁRSASÁG KORMÁNYA KÖZÖTT**
+
+Magyarország Kormánya és a Nigériai Szövetségi Köztársaság Kormánya, a továbbiakban a „Szerződő Felek”
+
+felismerve azt, hogy a gazdasági és műszaki együttműködés a szilárd, hosszú távú kétoldalú kapcsolatok fejlesztésének, valamint a Szerződő Felek és népeik közötti kölcsönös bizalomnak elengedhetetlen és nélkülözhetetlen eleme;
+
+meggyőződve arról, hogy a jelen Megállapodás ténylegesen hozzájárul a Szerződő Felek közötti gazdasági és kereskedelmi kapcsolatok fejlődéséhez, különösen a kölcsönösen előnyös gazdasági, műszaki és technológiai együttműködés továbbfejlesztéséhez;
+
+az alábbiakban állapodtak meg:
+
+**1. Cikk**
+
+**A MEGÁLLAPODÁS CÉLJA**
+
+A Szerződő Felek, a hatályos jogszabályaik által nyújtott kereteken belül, megfelelő intézkedések meghozatalával támogatják a kölcsönösen előnyös gazdasági és műszaki együttműködés fejlődését.
+
+**2. Cikk**
+
+**AZ EGYÜTTMŰKÖDÉS HATÁLYA**
+
+A jelen Megállapodásban említett együttműködési területek többek között az alábbiakat foglalják magukban:
+
+1\. Figyelembe véve a gazdasági kapcsolataik jelenlegi helyzetét és azok fejlesztésének perspektíváit, a Szerződő Felek egyetértenek abban, hogy a hosszú távú együttműködés feltételei többek között, de nem kizárólag, a következő területeken kedvezőek:
+
+*a)* energetikai szektor;
+
+*b)* kereskedelem;
+
+*c)* pénzügyi és banki szolgáltatások;
+
+*d)* mezőgazdaság, élelmiszer- és feldolgozóipar;
+
+*e)* építőipar, valamint építőanyag- és berendezésgyártás;
+
+*f)* településfejlesztés;
+
+*g)* közlekedés és kapcsolódó infrastruktúra, logisztika;
+
+*h)* bányászat;
+
+*i)* vegyipar és petrolkémiai ipar;
+
+*j)* textilipar;
+
+*k)* környezetvédelem, víz- és hulladékgazdálkodás;
+
+*l)* oktatás;
+
+*m)* egészségügyi szolgáltatások, gyógyászati technológiák és a gyógyszeripar;
+
+*n)* turizmus és sport;
+
+*o)* együttműködés a kis- és közepes méretű vállalkozási szektor terén;
+
+*p)* infokommunikációs technológia;
+
+*q)* védelmi ipar;
+
+*r)* közmű infrastruktúra;
+
+*s)* kutatás-fejlesztés;
+
+*t)* kultúra.
+
+2\. A tudományos és műszaki kutatással kapcsolatos információ- és tapasztalatcsere előmozdítása.
+
+3\. A konkrét együttműködési programokhoz szükséges szakemberek, tudósok, technikusok, diákok cseréjének és képzésének előmozdítása.
+
+**3. Cikk**
+
+**A VÉGREHAJTÁS MÓDJA**
+
+A Szerződő Felek törekednek arra, hogy az alább felsorolt eszközökkel szélesítsék és intenzívebbé tegyék együttműködésüket:
+
+1) elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, regionális és helyi szervek, a kereskedelmi és ipari kamarák között, valamint bátorítják ezen szervek képviselőinek kölcsönös látogatásait, így elősegítve a gazdasági és műszaki együttműködés végrehajtását;
+
+2) üzleti információkat cserélnek a megállapodás végrehajtásával kapcsolatban, bátorítják a vásárokon és kiállításokon történő részvételt, gazdasági és üzleti események, úgymint fórumok, szemináriumok, szimpóziumok és konferenciák szervezését;
+
+3) elősegítik a két ország kis- és közepes méretű vállalkozásainak (KKV) nagyobb mértékű bevonását a bilaterális gazdasági kapcsolatok területén, ideértve a két ország KKV-i közötti programok, projektek létrehozásának támogatását;
+
+4) bátorítják az együttműködést konzultációs, marketing, képzési és szakértői szolgáltatások nyújtásában a kölcsönös érdeklődésre számot tartó területeken;
+
+5) bátorítják a beruházási tevékenységet, vegyesvállalatok alapítását, vállalati képviseletek és fiókirodák létesítését a Szerződő Felek országainak területén alkalmazandó jogszabályoknak megfelelően;
+
+6) elősegítik a harmadik féllel történő együttműködést, a régiók közötti együttműködést és a nemzetközi szintű együttműködést a kölcsönös érdeklődésre számot tartó ügyekben;
+
+7) a Szerződő Felek által a későbbiekben elfogadott egyéb eszközök útján kiterjesztik és erősítik együttműködésüket.
+
+**4. Cikk**
+
+**FIZETÉSI MÓDOK**
+
+A jelen Megállapodás keretein belül a Szerződő Felek országainak természetes és jogi személyei közötti ügyletek lebonyolításakor használatos fizetési módok és pénznemek vonatkozásában a Szerződő Felek ösztönzik bármely nemzetközileg elfogadott, nemzetközi tranzakciókban széleskörűen használt fizetési mód és szabadon átváltható valuta használatát, amelyben a Szerződő Felek megállapodnak.
+
+**5. Cikk**
+
+**ÁLTALÁNOS RENDELKEZÉS**
+
+A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy az valamelyik Szerződő Fél által korábban megkötött bármely nemzetközi, regionális vagy szubregionális megállapodásból eredő bármilyen kedvezményt vagy kötelezettséget érintene.
+
+**6. Cikk**
+
+**KÜLÖN MEGÁLLAPODÁSOK**
+
+Szükség esetén a Szerződő Felek
+
+*a)* konkrét megállapodásokat kötnek a jelen Megállapodás alapján a fent említett együttműködési területeken, és más, közös egyetértésen alapuló meghatározott projektekkel kapcsolatban;
+
+*b)* meghatározott mandátummal felhatalmazott állandó vagy ad hoc bizottságokat, illetve munkacsoportokat állítanak fel.
+
+**7. Cikk**
+
+**GAZDASÁGI VEGYES BIZOTTSÁG**
+
+1\. A jelen Megállapodás végrehajtásának biztosítása céljából Gazdasági Vegyes Bizottság (a továbbiakban „Bizottság”) alakul a Szerződő Felek kormányainak képviselőiből és a két ország üzleti életének szereplőiből. A Szerződő Felek a Bizottságba egy-egy társelnököt jelölnek.
+
+2\. A Bizottság közös egyetértés alapján a Szerződő Felek országaiban felváltva ülésezik.
+
+3\. A Bizottság munkarendjének szabályait maga állapítja meg.
+
+4\. A Bizottság többek között az alábbi kérdések áttekintésére jogosult:
+
+*a)* a Szerződő Felek közötti gazdasági és műszaki együttműködés ösztönzése és koordinálása;
+
+*b)* a jelen Megállapodás végrehajtását, valamint a jelen Megállapodásból eredő megállapodások végrehajtását célzó javaslatok támogatása és mérlegelése;
+
+*c)* ajánlások kidolgozása a jelen Megállapodással összhangban létrejövő megállapodások vagy projektek végrehajtása során esetlegesen felmerülő akadályok elhárítása céljából;
+
+*d)* a jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatos viták békés úton való rendezésére való törekvés;
+
+*e)* a kétoldalú gazdasági kapcsolatok új fejlesztési lehetőségeinek feltárása.
+
+**8. Cikk**
+
+**VITARENDEZÉS**
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatban a Szerződő Felek között felmerülő viták rendezése békés úton, konzultációk és tárgyalások révén a Bizottságban, azok eredménytelensége esetén diplomáciai csatornákon keresztül történik.
+
+**9. Cikk**
+
+**A SZERZŐDŐ FELEK KÖTELEZETTSÉGEI**
+
+1\. Jelen Megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából, vagy a Nigériai Szövetségi Köztársaság ECOWAS-tagságából fakadnak. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarországnak különösen az Európai Uniót létrehozó Szerződésekből, valamint általában véve az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+2\. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Nigériai Szövetségi Köztársaságnak különösen az Afrikai Uniót és az ECOWAS-t létrehozó Szerződésekből, valamint általában véve az ECOWAS elsődleges és másodlagos jogából származó kötelezettségeit.
+
+3\. Jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok a Szerződő Feleket arra kötelezik, hogy bármelyik olyan meglévő vagy jövőbeni közös piaci, szabadkereskedelmi, vámuniós vagy hasonló nemzetközi megállapodásból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjesszék a másik félre, amelynek a Szereződő Felek jelenleg tagjai vagy a későbbiekben tagjai lehetnek.
+
+**10. Cikk**
+
+**MÓDOSÍTÁS**
+
+Jelen Megállapodás rendelkezései és szövege a Szerződő Felek közötti írásos megállapodás alapján módosítható a felek közös megegyezése alapján. A jelen Megállapodásra vonatkozó bármilyen módosítás a jelen Megállapodás 11. Cikke értelmében lép hatályba.
+
+**11. Cikk**
+
+**HATÁLYBALÉPÉS**
+
+Jelen Megállapodás az utolsó olyan értesítés kézhezvételét követő 30. (harmincadik) napon lép hatályba, amelyben az egyik Szerződő Fél diplomáciai csatornákon keresztül írásban értesíti a másik Szerződő Felet a Megállapodás hatálybalépéséhez szükséges belső eljárás lefolytatásáról.
+
+**12. Cikk**
+
+**A MEGÁLLAPODÁS IDŐTARTAMA**
+
+Jelen Megállapodás hatálybalépésének időpontjától számított öt (5) évig marad hatályban, valamint megújul a Szerződő Felek által egyeztetett hosszúságú időszakokra. Jelen Megállapodás hatályának negyedik (4) évében bármely Szerződő Fél értesítheti írásban a másik Szerződő Felet, hogy a jelen Megállapodást meg kívánja újítani.
+
+**13. Cikk**
+
+**FELMONDÁS**
+
+Jelen Megállapodás megszüntetése nem befolyásolja a jelen Megállapodás alapján kötött illetve végzett konkrét megállapodások, projektek, szerződések vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek, szerződések vagy tevékenységek teljesítéséig, amennyiben a Szerződő Felek másképp nem döntenek.
+
+FENTIEK HITELÉÜL, az alulírottak kormányuktól kapott kellő felhatalmazás birtokában aláírták a megállapodást, két eredeti példányban, magyar és angol nyelven, mindkét szöveg egyformán hiteles. Eltérés esetén az angol nyelvű szöveg az irányadó.
+
+Készült Budapesten, 2016. május 20-án.
+
+MAGYARORSZÁG KORMÁNYA\
+RÉSZÉRŐL
+
+A NIGÉRIAI SZÖVETSÉGI KÖZTÁRSASÁG KORMÁNYA\
+RÉSZÉRŐL
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE FEDERAL REPUBLIC OF NIGERIA ON ECONOMIC AND TECHNICAL COOPERATION**
+
+The Government of Hungary and the Government of Federal Republic of Nigeria, hereinafter referred to as “the Contracting Parties”.
+
+Recognizing that economic and technical cooperation is an essential and indispensable component of the development of bilateral relations on a firm, long-term basis and of mutual confidence between the Contracting Parties and their respective peoples;
+
+Convinced that this Agreement will contribute to the development of the economic and commercial relations between the Contracting Parties in the new reality and in particular to the enhancement of the mutually beneficial economic, technical and technological cooperation;
+
+Have agreed upon the following:
+
+**Article 1**
+
+**OBJECTIVES**
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, by taking proper measures, the further development of mutually advantageous economic and technical cooperation.
+
+**Article 2**
+
+**SCOPE OF THE COOPERATION**
+
+The scope of cooperation mentioned in this Agreement include, inter alia, the following items:
+
+1\. Considering the current state and perspectives of developing their economic relations, the Contracting Parties agree that favourable conditions for long-term cooperation exist, inter alia, but not exclusively, in the following areas:
+
+*a)* energy sector;
+
+*b)* trade;
+
+*c)* finance and banking;
+
+*d)* agriculture, food and processing industry;
+
+*e)* construction industry and manufacturing of building materials and equipment;
+
+*f)* urban development;
+
+*g)* transport and related infrastructure, logistics;
+
+*h)* mining;
+
+*i)* chemical and petrochemical industry;
+
+*j)* textile industry;
+
+*k)* environmental protection, water and waste management;
+
+*l)* education;
+
+*m)* health services, medical technologies and pharmaceutical industry;
+
+*n)* tourism and sport;
+
+*o)* cooperation in the small and medium-sized enterprise sector;
+
+*p)* info communication technology;
+
+*q)* defense industry;
+
+*r)* communal infrastructure;
+
+*s)* research and development;
+
+*t)* culture.
+
+2\. Encouraging exchange of information and expertise relating to scientific and technical research.
+
+3\. Encouraging exchange and training of specialists, scientists, technicians and students required for specific cooperation programs.
+
+**Article 3**
+
+**MODALITIES OF IMPLEMETATION**
+
+The Contracting Parties shall endeavor to broaden and intensify their cooperation through the following means:
+
+1) Promoting the links and strengthening the cooperation between the business communities, government institutions, regional and local entities, chambers of commerce and industry, and promoting the visits of their representatives aiming to implement bilateral economic and technical cooperation;
+
+2) Exchange of business information related to the implementation of this agreement, encouraging the participation in fairs and exhibitions, organizing economic and business events, such as forums, seminars, symposia and conferences;
+
+3) Promoting a stronger participation of Small and Medium size Enterprises (SMEs) in bilateral economic relations, including encouragement of establishing joint programs and projects involving SMEs from both countries;
+
+4) Encouraging the cooperation in providing consulting, marketing, training and expert services in the areas of mutual interest;
+
+5) Encouraging the investment activities, the foundation of joint ventures; establishment of company representatives and branch offices in the countries of the Contracting Parties according to their national laws and regulations;
+
+6) Promoting third party cooperation, inter-regional cooperation and cooperation at international level on issues of mutual interest; and
+
+7) Any other means agreed upon by the Contracting Parties later, to expand and strengthen their cooperation.
+
+**Article 4**
+
+**MODE OF PAYMENT**
+
+For the Method of payment and currency used for transactions concluded between natural and legal persons of the countries of the Contracting Parties within the framework of this Agreement, the Contracting Parties shall encourage the utilization of any international method of payment and freely convertible currencies that are widely used to make payments for international transactions and widely exchanged in principal international exchange markets and agreed upon between the Contracting Parties concerned.
+
+**Article 5**
+
+**GENERAL PROVISION**
+
+Nothing in this Agreement shall be construed as affecting any rights and obligations arising under any existing treaty, convention or agreement entered into by either of the parties prior to the conclusion of this Agreement.
+
+**Article 6**
+
+**SPECIFIC AGREEMENTS**
+
+If deemed necessary, the Contracting Parties may
+
+*a)* conclude specific agreements to be based on this Agreement concerning the scope of cooperation referred above and other special projects that may be agreed upon between them; and
+
+*b)* Establish standing or ad hoc committees or working groups and assign a clear mandate to each of them.
+
+**Article 7**
+
+**JOINT ECONOMIC AND TECHNICAL COMMITTEE**
+
+1\. With a view to ensuring the implementation of this Agreement, a Joint Economic and Technical Committee (hereinafter referred to as “the Committee”) shall be established composing of representatives of government and business community from the Contracting Parties. Each Contracting Party shall appoint a co-Chair of the Committee.
+
+2\. The Committee shall meet on mutual consent alternately in the Countries of the Contracting Parties.
+
+3\. The Committee shall establish its own rules of working procedures.
+
+4\. The Committee shall have the authority to consider, inter alia, the following:
+
+*a)* Encouraging and coordinating the economic and technical cooperation between the Contracting Parties;
+
+*b)* Promoting and considering proposals aimed at the implementation of this Agreement and specific agreements resulting therefrom;
+
+*c)* Working out recommendations for the purposes of removing obstacles that may arise during the execution of any agreement or project that may be established in accordance with this Agreement;
+
+*d)* Endeavoring to amicably resolve disputes arising from the interpretation or application of this Agreement; and
+
+*e)* Identifying new development opportunities for the bilateral economic relations.
+
+**Article 8**
+
+**SETTLEMENT OF DISPUTES**
+
+Any dispute that may arise from the interpretation or the implementation of this Agreement shall be settled amicably, through consultations and negotiations within the Committee or, if those consultations or negotiations fail to resolve the dispute, through diplomatic channels between the Contracting Parties.
+
+**Article 9**
+
+**OBLIGATIONS OF THE PARTIES**
+
+1\. This Agreement shall in no way affect the obligations of Hungary as a member state of the European Union and the Federal Republic of Nigeria as a member of ECOWAS respectively. Consequently, the provisions of this Agreement shall not be quoted or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from the Treaties on which the European Union is founded as well as from the primary and secondary law of the European Union.
+
+2\. Consequently, the provisions of this Agreement shall not be quoted or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of the Federal Republic of Nigeria arising from the Treaties on which the African Union & ECOWAS is founded as well as from the primary and secondary law of the ECOWAS.
+
+3\. Nothing in this Agreement shall be construed as to oblige the Contracting Parties to extend to the other present, or future benefit of any treatment, preference or privilege resulting from any existing or future common market, free trade area, Customs Union or similar international agreement to which any of the countries of the Contracting Parties is or may become a member.
+
+**Article 10**
+
+**AMENDMENT**
+
+The provisions or any texts of this Agreement may be amended by written agreement between the Contracting Parties, on the basis of mutual consent; any amendment to this Agreement shall enter into force in accordance with Article (11) of this Agreement.
+
+**Article 11**
+
+**ENTRY INTO FORCE**
+
+The parties shall notify each other in writing when their respective national constitutional law requirements for entry into force of this Agreement have been fulfilled. This Agreement shall enter into force on the 30<sup>th</sup> day following the date of the receipt of the last written notification.
+
+**Article 12**
+
+**DURATION**
+
+This Agreement shall remain in force for a period of Five (5) years and may be renewed for a further period as may be agreed by the Parties. Either Party may give notice in writing in the fourth (4<sup>th</sup>) year of its intention to renew the Agreement.
+
+**Article 13**
+
+**TERMINATION**
+
+The termination of this Agreement shall not affect the validity or the duration of any specific agreement, projects, contracts, activities or commitments made under the present Agreement until the completion of such specific agreements, projects, contracts, activities or commitments unless otherwise agreed by the Contracting Parties.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments, have signed and sealed this Agreement in Hungarian and English languages, both texts being equally authentic. In case of divergence in interpretation, English text shall prevail.
+
+Done at Budapest on day of 20<sup>th</sup> May 2016.
+
+FOR AND ON BEHALF OF THE GOVERNMENT OF\
+HUNGARY
+
+FOR AND ON BEHALF OF THE GOVERNMENT OF\
+THE FEDERAL REPUBLIC OF NIGERIA”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 11. Cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlöny haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 11. Cikkében meghatározott időpontban lép hatályba. A 44/2021. (VII. 23.) KKM közlemény alapján a hatálybalépés időpontja 2021. augusztus 4.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 11. Cikkében meghatározott időpontban lép hatályba. A 44/2021. (VII. 23.) KKM közlemény alapján a hatálybalépés időpontja 2021. augusztus 4.
+[^3]: A 44/2021. (VII. 23.) KKM közlemény alapján a hatálybalépés időpontja 2021. augusztus 4.
+[^4]: Lásd a 44/2021. (VII. 23.) KKM közleményt.

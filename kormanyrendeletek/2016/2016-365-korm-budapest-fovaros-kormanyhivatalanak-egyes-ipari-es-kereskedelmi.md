@@ -1,0 +1,1842 @@
+---
+title: "365/2016. (XI. 29.) Korm. rendelet Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról"
+identifier: "365/2016. (XI. 29.) Korm. rendelet"
+njt_id: "2016-365-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/365"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-11-29
+in_force_from: 2017-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-365-20-22"
+retrieved: 2026-10-12
+---
+
+# 365/2016. (XI. 29.) Korm. rendelet Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról
+
+A Kormány az Alaptörvény 15. cikk (2) és (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+
+az 1. alcím tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § c)–d) pontjában kapott felhatalmazás alapján,
+
+a 2. alcím tekintetében az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/E. § (2) bekezdésében és a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 10. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 3. alcím tekintetében a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés h) pontjában, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § a) pontjában foglalt felhatalmazás alapján,
+
+a 4. és 5. alcím tekintetében a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § a) pontjában kapott felhatalmazás alapján,
+
+a 6. alcím tekintetében a közraktározásról szóló 1996. évi XLVIII. törvény 43/A. §-ában kapott felhatalmazás alapján,
+
+a 8. alcím tekintetében a mérésügyről szóló 1991. évi XLV. törvény 15. § (3) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 9. alcím tekintetében a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés k) pontjában, a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 41. pontjában, valamint a földgázellátásról szóló 2008. évi XL. törvény 132. § 37. pontjában kapott felhatalmazás alapján,
+
+a 20. §, a 14. és 15. alcím, valamint az 5–8. melléklet tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a)–b) pontjában kapott felhatalmazás alapján,
+
+a 11. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 1. pont 1.1. alpontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A szakmai irányításért felelős miniszter kijelölése
+
+### 1. §
+
+(1)[^1] Budapest Főváros Kormányhivatala e rendelet szerinti feladatköreinek – ide nem értve az (1a)–(1d) bekezdésben hivatkozott feladatköröket – gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az iparügyekért felelős miniszter gyakorolja. A mérésügyi és műszaki biztonsági, valamint a műszaki biztonsági hatáskörbe tartozó sajátos építmények tekintetében gyakorolt építésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala közreműködik az iparügyekért felelős miniszter (3) és (4) bekezdésben foglaltakkal összefüggő feladatai ellátásában.
+
+(1a)[^2] Budapest Főváros Kormányhivatalának a 3. § (2) bekezdés a)–d) pontjában foglalt feladatkörei gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a turizmusért felelős miniszter gyakorolja.
+
+(1b)[^3] Budapest Főváros Kormányhivatalának a 3. § (2) bekezdés e) és f) pontjában és a 10. §-ban foglalt feladatköre gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a kereskedelemért felelős miniszter gyakorolja.
+
+(1c)[^4] Budapest Főváros Kormányhivatalának a 2. § (2) bekezdés a) és d) pontjában, valamint 24. § c) pontjában foglalt feladatkörei gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a külgazdasági ügyekért felelős miniszter gyakorolja.
+
+(1d)[^5] Budapest Főváros Kormányhivatalának a 3. § (3) bekezdésében foglalt feladatkörei gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter gyakorolja.
+
+(2)[^6] A mérésügyi, műszaki biztonsági, valamint a műszaki biztonsági hatáskörbe tartozó sajátos építmények tekintetében gyakorolt építésügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal tekintetében a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az iparügyekért felelős miniszter gyakorolja.
+
+(3)[^7] Az iparügyekért felelős miniszter jogköre mérésügyi területen kiterjed:
+
+a) a kötelező hitelesítésű mérőeszközökre vonatkozó előírások és bizonyítványok mintáinak kiadására,
+
+b)[^8] a mérésügyi hatósági feladatkörök ellátásához szükséges jogszabályok, előírások és iránymutatások ismeretét igazoló szakvizsgához vizsgabizottság működtetésére, szakmai továbbképzések szervezésére,
+
+c)[^9] a mérésügyi feladatkörében eljáró kormányhivatalnak törvényes tanúsítójellel való ellátására,
+
+d) az etalonok országos etalonra való visszavezetettségének biztosítására,
+
+e) a hitelesítésben való közreműködő koordinálására,
+
+f) a hitelesítési tevékenység szakmai felügyeletére, módszertani útmutató kiadására.
+
+(4)[^10] Az iparügyekért felelős miniszter jogköre a műszaki biztonsági, valamint a sajátos építmények tekintetében az építésügyi területen magában foglalja:
+
+a)[^11]
+
+b)[^12]
+
+c) a nemzeti stratégiai jelentőségű kőolaj és kőolajtermék-készletek tárolásával és feldolgozásával kapcsolatos hatósági eljárások rendjének összehangolását és egységes érvényesülésük ellenőrzését,
+
+d)[^13]
+
+e)[^14] az eljárásrendek, szakmai irányelvek, módszertani útmutatók kiadását,
+
+f) a szabványosítási programokban, szabványtervezetek egyeztetésében való részvételt,
+
+g)[^15] a műszaki biztonsági felügyeleti tevékenységekhez tartozó álláshelyen ellátandó feladatok szakterületére vonatkozó jogszabályok, szabályzatok, szabványok ismeretét és a szakmai gyakorlati ismeretek meglétét igazoló szakvizsgához vizsgabizottság működtetését, valamint szakmai továbbképzések szervezését,
+
+h)[^16] a műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak műszaki biztonsági tanúsítójellel és jogszabályban meghatározott hatósági igazolvány kiállításához rendszeresített okmánypapírral való ellátását.
+
+(4a)[^17] A mérésügyi és műszaki biztonsági, valamint a műszaki biztonsági hatáskörbe tartozó sajátos építmények tekintetében gyakorolt építésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala biztosítja az általa üzemeltetett engedélyezési és nyilvántartási szakrendszerekhez, továbbá a szakmai irányításban való közreműködése során kiadott iránymutatásokhoz való hozzáférést a szakmai irányító miniszter és a fővárosi és vármegyei kormányhivatal részére.
+
+(5)[^18] Az (1c) bekezdésben kijelölt miniszter ellátja a nemzetközi döntéshozatali fórumokon történő képviseletet a 2. § (2) bekezdés a) és d) pontja szerinti ügyekkel kapcsolatosan.
+
+(6)[^19] Az iparügyekért felelős miniszter ellátja
+
+a) a nemzetközi döntéshozatali fórumokon történő képviseletet a 2. § (2) bekezdés b) és c) pontja szerinti ügyekkel kapcsolatosan, valamint
+
+b) a megfelelőségértékelő szervezeteknek a mérőeszközökre vonatkozó egyedi előírásokról szóló miniszteri rendelet (a továbbiakban: R1.), valamint a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet (a továbbiakban: R2.) tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatokat.
+
+## 2. A nemzeti külkereskedelmi államigazgatási szerv, valamint a hadiipari gyártás- és szolgáltatásfelügyelet kijelölése
+
+### 2. §
+
+(1)[^20] A Kormány országos illetékességgel eljáró
+
+a) nemzeti külkereskedelmi államigazgatási szervként, valamint
+
+b) hadiipari gyártás- és szolgáltatásfelügyeletként
+
+Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2) Budapest Főváros Kormányhivatala nemzeti külkereskedelmi államigazgatási szervként:
+
+a) a nemzetközi döntéshozatali fórumokon történő képviselet ellátásának kivételével eljár az áruk, szolgáltatások és anyagi értéket képviselő jogok országhatárt, illetve vámhatárt átlépő kereskedelmével és az egyes közbiztonságra különösen veszélyes eszközök behozatali forgalmának engedélyezésével kapcsolatos közigazgatási hatósági ügyekben,
+
+b) eljár a kettős felhasználású termékek export-, transzfer-, brókerügyleti és tranzitengedélyeivel kapcsolatos ügyekben, ellenőrzi e termékek Európai Unión kívüli harmadik országból Magyarországra történő behozatalát és kiadja a Nemzetközi Importigazolást, lefolytatja a nemzetközi kötelezettségekkel kapcsolatos konzultációkat, ellátja a nemzetközi egyezmények hazai végrehajtásából adódó feladatokat, továbbá eljár a nemzetközi kereskedelmi szankciókban elrendelt nem kettős felhasználású termékek exportengedélyezésével kapcsolatos ügyekben,
+
+c) a nemzetközileg vállalt kötelezettségek betartásával eljár a haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenységgel, valamint a vállalkozások tanúsításával kapcsolatos közigazgatási hatósági ügyekben,
+
+d) eljár az uniós jogi aktusokból, a nemzetközi gazdasági egyezményekből, valamint a külön jogszabályokból fakadó, egyes árukra vagy országokra vonatkozó kereskedelmi behozatali és kiviteli engedélyezési, illetve korlátozások végrehajtásához kapcsolódó más adminisztratív hatósági feladatokban.
+
+(3) Budapest Főváros Kormányhivatala hadiipari gyártás- és szolgáltatásfelügyeletként eljár a haditechnikai termékek gyártásának és szolgáltatás nyújtásának engedélyezésével és ellenőrzésével kapcsolatos közigazgatási hatósági ügyekben.
+
+(4) A Kormány a (2) és (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Budapest Főváros Kormányhivatalát jelöli ki.
+
+(5) A nemzeti külkereskedelmi államigazgatási szervként eljáró Budapest Főváros Kormányhivatala a (2) bekezdés d) pontja kapcsán jogosult az importengedélyezéshez, illetve a kedvezményes import vámkontingensekhez kapcsolódó biztosíték elkülönített számlán történő kezelésére.
+
+## 3. Kereskedelmi hatóság kijelölése
+
+### 3. §
+
+(1)[^21] A Kormány a (2) és (3) bekezdésben meghatározott körben Budapest Főváros Kormányhivatalát országos illetékességű kereskedelmi hatóságként jelöli ki.
+
+(2) Budapest Főváros Kormányhivatala kereskedelmi hatóságként jár el:
+
+a)[^22] az utazásszervező és -közvetítői tevékenység, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
+
+b) az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló eljárásban,
+
+c) a lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló eljárásban,
+
+d) a tartós szálláshasználati szolgáltatási tevékenység bejelentésére és nyilvántartásba vételére irányuló eljárásban,
+
+e) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló eljárásokban,
+
+f)[^23] a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/821 európai parlamenti és tanácsi rendelet] szerinti hatósági ügyekben,
+
+g) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló jogszabályban meghatározott hatósági eljárásokban,
+
+h) a kábítószer-prekurzorokkal kapcsolatos egyes hatósági feladatokban,
+
+i)[^24] az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek illékony szerves oldószer tartalmának szabályozásáról szóló külön jogszabályban kötelezett forgalmazók nyilvántartásba vételére irányuló eljárásban.
+
+(2a)[^25]
+
+(3)[^26] Budapest Főváros Kormányhivatala országos illetékességgel eljár a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmtv.) 5. § e) pontja szerinti felügyeletet ellátó szerv feladatkörében a Pmtv.
+
+a) 1. § (1) bekezdés j) pontjában meghatározott tevékenység,
+
+b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység, valamint
+
+c) 1. § (1) bekezdés p)–q) pontjában meghatározott tevékenység
+
+tekintetében.
+
+(3a)[^27] Budapest Főváros Kormányhivatala (3) bekezdés c) pontjában foglalt feladatkörének ellátásához a kulturális javak forgalmával kapcsolatos, a kulturális javak hatóságát érintő szakkérdésekben a kulturális javak hatósága szakmai támogatást nyújt.
+
+(4) A Kormány a (2) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(5) Az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül:
+
+a) az idegenvezetői szolgáltatást ténylegesen végző személy idegenvezető szakképesítését igazoló okirat másolata,
+
+b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeretét tanúsító nyelvvizsga-bizonyítvány másolata vagy azzal egyenértékű nyelvismeretet igazoló okirat másolata.
+
+(6) A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
+
+## 3/A. [^28] Az (EU) 2017/821 európai parlamenti és tanácsi rendelet végrehajtásával kapcsolatos rendelkezések
+
+### 3/A. §
+
+(1) Budapest Főváros Kormányhivatala a 3. § (2) bekezdés f) pontjában foglalt feladat- és hatáskörében ellenőrzi az (EU) 2017/821 európai parlamenti és tanácsi rendeletben előírtak betartását, és ennek során a kellő gondosság elvének megfelelő rendszer létrehozására kötelezett gazdálkodó szervezettől (a továbbiakban: gazdálkodó szervezetek), annak kapcsolódó tevékenységére vonatkozóan eseti vagy időszakos jelentést kérhet.
+
+(2) A gazdálkodó szervezet a kellő gondosságra vonatkozó rendszer létrehozásáért és működtetéséért felelős vezetőt, valamint kapcsolattartásra felhatalmazott személyt jelöl ki.
+
+(3) Amennyiben az ellenőrzés megállapításai szerint az ellenőrzött vállalkozás nem tartja be az (EU) 2017/821 európai parlamenti és tanácsi rendeletben előírtakat, akkor a vállalkozást Budapest Főváros Kormányhivatala – legfeljebb 30 napos határidő tűzésével – korrekciós intézkedési terv készítésére és megküldésére kötelezi. A korrekciós intézkedési tervet Budapest Főváros Kormányhivatala hagyja jóvá, és annak végrehajtásáról a gazdálkodó szervezet az előírt határidőben írásban beszámol.
+
+## 4. A piacfelügyeleti hatóság kijelölése
+
+### 4. §
+
+(1)[^29] A Kormány – a (2)–(4) bekezdésben meghatározott körben országos illetékességgel – piacfelügyeleti hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^30] A piacfelügyeleti eljárás a jogszabály szerinti
+
+a) egyes gazdasági célfelhasználásra szánt nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
+
+b) egyes gazdasági célfelhasználásra szánt szállítható nyomástartó berendezések biztonsági követelményeinek és megfelelőség tanúsításának,
+
+c) gázfogyasztó készülékek kialakításának és megfelelőség tanúsításának,
+
+d) egyes gazdasági célfelhasználásra szánt villamossági termékek biztonsági követelményeinek és az azoknak való megfelelőség értékelésének,
+
+e) egyes gazdasági célfelhasználásra szánt gépek biztonsági követelményeinek és megfelelősége tanúsításának,
+
+f) egyes gazdasági célfelhasználásra szánt potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatának és tanúsításának,
+
+g) egyes gazdasági célfelhasználásra szánt energiával kapcsolatos termékek
+
+ga) környezetbarát tervezési követelményeinek,
+
+gb) energia- és egyéb erőforrás-fogyasztásának címkézéssel és előírt termékismertetővel történő megadásának,
+
+h) egyes gazdasági célfelhasználásra szánt kültéri berendezések zajkibocsátási követelményeinek és megfelelőségük tanúsításának,
+
+i) a kötelező hitelesítés körébe tartozó egyes mérőeszközök méréstechnikai követelményeinek és megfelelőség tanúsításának,
+
+j) egyes gazdasági célfelhasználásra szánt aeroszol termékek és aeroszol csomagolások forgalmazási követelményeinek,
+
+k) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló kormányrendeletben foglaltaknak való megfelelőség,
+
+l) mérőedényként használt palackok méréstechnikai követelményeinek
+
+ellenőrzésére terjed ki.
+
+(3)[^31]
+
+(4) A piacfelügyeleti eljárás a felvonók, mozgólépcsők és mozgójárdák biztonsági követelményeinek és megfelelőség tanúsításának ellenőrzésére terjed ki.
+
+## 5. A piacfelügyeleti hatósági eljárás szabályai
+
+### 5. §
+
+(1) Budapest Főváros Kormányhivatala piacfelügyeleti hatóságként (a továbbiakban: piacfelügyeleti hatóság) ellenőrzi a 4. § (2)–(4) bekezdésben, illetve jogszabályban meghatározott termékek (a továbbiakban: termék) megfelelőségére vonatkozó, a jogszabályokban foglalt alapvető védelmi követelmények betartását.
+
+(2) Piacfelügyeleti eljárás keretében kell az olyan termékek megfelelőségét is elbírálni, amelyek
+
+a) használatbavételéhez összeszerelés, helyre szerelés vagy más installációs műveletek elvégzése szükséges,
+
+b) alkalmazhatóságára a forgalmazási műveletek – különösen a szállítás, raktározás – hatással lehetnek,
+
+c) esetében nem történt kereskedelmi forgalomba hozatal a használatbavételt megelőzően, így különösen a saját használatra, a közvetlen vagy egyedi megrendelésre gyártott termékek esetén.
+
+(3) A piacfelügyeleti hatóság a saját laboratóriumában vagy amennyiben a vizsgálat alá vont termék tulajdonságai (így például a mérete, összetettsége) ezt nem teszik lehetővé, a gyártó vagy az üzemeltető telephelyén a terméket az előírt követelmények teljesítése tekintetében vizsgálat alá vonhatja.
+
+(4) A piacfelügyeleti hatóság eljárása során a szükséges vizsgálatok elvégzéséhez akkreditált vagy bejelentett szervezetek közreműködését veheti igénybe, vagy elrendelheti azok igénybevételét a megfelelőség igazolásához.
+
+(5) A piacfelügyeleti hatóság megbízására nem járhat el olyan akkreditált vagy bejelentett szervezet, amely a termék megfelelőségét korábban vizsgálta.
+
+(6) A piacfelügyeleti hatóság a felhasználók széles körét érintő vizsgálatok eredményeit és tapasztalatait nyilvánosságra hozza.
+
+(7) Ha a piacfelügyeleti hatóság az üzleti titok körébe tartozó információkhoz jut hozzá, gondoskodik ezen információk védelméről. Az üzleti titok nem akadályozhatja azt, hogy a piacfelügyeletre irányuló tevékenységek hatékonyságának biztosítása szempontjából jelentős információkat az illetékes piacfelügyeleti hatóságok egymás, valamint a vizsgáló és tanúsító intézmények a piacfelügyeleti hatóság tudomására hozzák.
+
+### 6. §
+
+(1) A piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során jogosult:
+
+a) tájékoztatást kérni a gyártótól, a forgalmazótól és egyes esetekben az üzemeltetőtől,
+
+b) biztonságossági és más megfelelőségi vizsgálatok elvégzése céljából jegyzőkönyv felvétele mellett a gyártótól, a forgalmazótól és – ha a vizsgálat roncsolás mentes – az üzemeltetőtől ingyenes mintát és ellenmintát venni,
+
+c) belépni a termék megfelelőségének ellenőrzéséhez szükséges valamennyi helyiségbe, telephelyre,
+
+d) akadályoztatása esetén a rendőrséget igénybe venni,
+
+e) az ellenőrzéshez szükséges valamennyi dokumentumot megtekinteni és azokról másolatot készíteni,
+
+f) az ellenőrzés lefolytatásához szükséges hang- és képfelvételt készíteni,
+
+g) a biztonságossági és más megfelelőségi vizsgálathoz szükséges időtartamra ideiglenes intézkedéssel a termék forgalmazását, reklámozását, illetve kiállításon való bemutatását megtiltani, ha a termék megfelelőségéhez alapos kétség fér.
+
+(2) A piacfelügyeleti hatóság feladatkörében eljárva próbavásárlást végezhet.
+
+(3) A próbavásárláshoz a piacfelügyeleti hatóság közreműködő személyt vehet igénybe. A közreműködő személlyel megbízási szerződés köthető, amely alapján megbízási díjra jogosult.
+
+(4) A közreműködő személy részére a közreműködést igénybe vevő piacfelügyeleti hatóság megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely gazdasági szereplőnél milyen típusú ellenőrzésben vehet részt.
+
+(5) A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat kell alkalmazni.
+
+(6) Próbavásárlás esetén a piacfelügyeleti hatóság az ellenőrzési jogosultságát a próbavásárlás befejezésekor igazolja.
+
+(7) Termék próbavásárlását követően az ellenőrzési jogosultság igazolásakor a gazdasági szereplő képviseletében eljáró személy a termék visszavétele mellett köteles annak árát visszatéríteni.
+
+(8) Ha próbavásárlásra elektronikus kereskedelmi szolgáltatást nyújtó, vagy egyéb megrendelésen alapuló termékértékesítést folytató gazdasági szereplőnél kerül sor, a piacfelügyeleti hatóság az ellenőrzés megállapításairól szóló jegyzőkönyvet minden esetben a gazdasági szereplő részére kézbesíti.
+
+### 7. §
+
+(1) Ha a termék nem elégíti ki a jogszabály szerinti védelmi követelményeket, a piacfelügyeleti hatóság a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 15–17. §-ában foglaltak szerint jár el.
+
+(2) A piacfelügyeleti hatóság a termék visszahívását végső esetben rendelheti el, ha a fennálló veszélyek elhárítására más intézkedések nem elégségesek. Ha a gazdasági szereplő szükségesnek tartja, a terméket hatósági határozat hiányában is önként visszahívhatja. Ha a gazdasági szereplő a terméket önként nem hívja vissza, a piacfelügyeleti hatóság a visszahívás helyett dönthet a termék használatra alkalmatlanná tételéről.
+
+(3) A piacfelügyeleti hatóság vizsgálata során megállapítja, mely termék nem felel meg a jogszabályokban foglalt alapvető védelmi követelményeknek, a hatóság ezen megállapítása a tételazonosítóval rendelkező termék esetén az azonos tételazonosítóval legyártott, illetve forgalomba hozott mennyiségre vonatkozik; tételazonosítóval nem megjelölt termékek esetén pedig a teljes legyártott, illetve forgalomba hozott mennyiségre vonatkozik. Ha a hiba természetéből adódóan megszüntethető, és a gyártó a már legyártott mennyiségre vonatkozóan utólag a veszélyforrást megszünteti, az ismételt forgalomba hozatalra csak módosított tételazonosító, illetve termékazonosító alkalmazásával kerülhet sor.
+
+(4) A terméknek a jogszabályokban foglalt előírásoknak való megfelelése nem zárja ki, hogy a piacfelügyeleti hatóság a termék forgalomba hozatalának korlátozását, piacról történő kivonását vagy visszahívását rendelje el, ha azt állapítja meg, hogy a termék a megfelelősége ellenére veszélyes.
+
+(5) Ha a piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során megállapítja, hogy a CE megfelelőségi jelölést nem jogszerűen tüntették fel, a jogszabályban meghatározottak szerint jár el.
+
+(6) A piacfelügyeleti hatóság a meghozott intézkedéséről a jogszabályban meghatározottak szerint értesíti az Európai Bizottságot és a többi tagállamot.
+
+### 8. §
+
+A piacfelügyeleti hatóság jogait és kötelezettségeit a veszély súlyosságával arányos módon és az érintett felek érdekeinek figyelembevételével gyakorolhatja.
+
+### 9. §
+
+A gazdasági szereplő vagy ennek hiányában az üzemeltető köteles
+
+a) a termékek piacfelügyeleti ellenőrzésére jogosult szervezet kérésére a feladatai ellátásához szükséges információkat megadni,
+
+b) az általa forgalomba hozott termékek által jelentett veszélyek elkerülése érdekében tett intézkedések során a piacfelügyeleti hatósággal együttműködni,
+
+c) az elrendelt intézkedéseket végrehajtani.
+
+## 6. Közraktározás-felügyeleti hatóság kijelölése
+
+### 10. §[^32]
+
+A Kormány országos illetékességű közraktározás-felügyeletként Budapest Főváros Kormányhivatalát jelöli ki.
+
+## 7. Nemesfémvizsgáló és -hitelesítő hatóság kijelölése
+
+### 11. §
+
+(1) A Kormány nemesfémvizsgáló és -hitelesítő hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^33] A nemesfém tárgyakkal kapcsolatos hatósági feladatokról és hatósági eljárási szabályokról, valamint a nemesfém tárgyak készítésének és díszítésének szabályairól szóló kormányrendeletben meghatározott feladatkörben országos illetékességgel a nemesfémvizsgáló és -hitelesítő feladatkörében eljáró Budapest Főváros Kormányhivatala jár el.
+
+## 8. Mérésügyi hatóság kijelölése
+
+### 12. §
+
+(1)[^34] A Kormány mérésügyi hatóságként – a (2) bekezdésben foglalt kivételekkel – az 1. melléklet szerinti, mérésügyi feladatkörben eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+(2) A Kormány mérésügyi hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – Budapest Főváros Kormányhivatalát jelöli ki:
+
+a) mérőeszköz és szerencsejáték eszköz tekintetében hitelesítési engedélykérelem, közösségi típusjóváhagyási engedélykérelem elbírálásával,
+
+b) zajszintmérők hitelesítésével,
+
+c) az E1, E2, F1 pontosságú súlyok hitelesítésével,
+
+d) a sűrűségmérő eszközök hitelesítésével – az areométerek kivételével –,
+
+e)[^35] a sugárvédelmi és gyógyászati alkalmazású dózismérők, felületi szennyezettségmérők, valamint a radon-mérő eszközök hitelesítésével,
+
+f) a légzési alkoholmérők hitelesítésével,
+
+g) a sorsoló programok és eszközök, rulettkerekek és közúti ellenőrzésre szolgáló járműsebesség-mérők hitelesítésével,
+
+h) – az üzemanyagmérők kivételével – a víztől eltérő folyadékok mérőrendszereivel,
+
+i) nagyfeszültségű és nagyáramú mérőváltók hitelesítésével,
+
+j) játékkaszinókban üzemelő pénznyerő automaták hitelesítésével,
+
+k) hitelesítést helyettesítő minősítő laborok (szervezetek) engedélyezésével és ellenőrzésével kapcsolatos mérésügyi eljárásokban.
+
+(3)[^36] A mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala országos illetékességgel ellátja:
+
+a) a pénztárgépek forgalmazásának engedélyezésével kapcsolatos feladatokat és
+
+b) az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések felügyeleti szolgáltatóinak engedélyezésével kapcsolatos feladatokat.
+
+(4)[^37] A mérésügyi hatóság az e kormányrendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+
+## 9. A műszaki biztonsági hatóság kijelölése
+
+### 13. §
+
+(1)[^38] A Kormány – a (3) és (5) bekezdésben foglalt kivétellel – műszaki biztonsági hatóságként az 1. melléklet szerinti, műszaki biztonsági feladatkörben eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+(2) Az (1) bekezdés szerinti hatóság
+
+a) a 14. § (2) bekezdésében meghatározott, műszaki biztonsági szempontból veszélyes berendezésekkel és létesítményekkel kapcsolatos eljárásokban műszaki biztonsági hatóságként jár el,
+
+b)[^39]
+
+c)[^40] műszaki biztonsági hatóságként jár el a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendelet szerinti műszaki biztonsági hatósági eljárásokban a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott felvonókkal, mozgólépcsőkkel és mozgójárdákkal kapcsolatos hatósági eljárások kivételével,
+
+d)[^41] eljár a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében az energetikai létfontosságú rendszerekkel és létesítményekkel kapcsolatos hatósági eljárásokban,
+
+e)[^42] ellátja a villamos energiáról szóló törvény szerint a hálózati csatlakozással összefüggő tervek, valamint a víziközmű-szolgáltatásról szóló törvény szerint a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának elbírálását, továbbá
+
+f)[^43] ellátja
+
+fa) a földgázellátásról szóló törvény szerint a fogyasztói vezeték üzembe helyezésének földgázelosztó általi,
+
+fb) a villamos energiáról szóló törvény szerint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi, valamint
+
+fc) a víziközmű-szolgáltatásról szóló törvény szerint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi
+
+megtagadása esetén az üzembe helyezés elrendelésével kapcsolatos feladatokat,
+
+g)[^44] eljár a cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések kivételével a gázpalackokkal kapcsolatos rendkívüli események kivizsgálásával kapcsolatos hatósági eljárásokban,
+
+h)[^45] eljár a földgázellátásról szóló 2008. évi XL. törvény 118/A. §-a alkalmazásában a turista használatú palackba történő PB-gáz-átfejtési tevékenység engedélyezésével kapcsolatos hatósági eljárásokban.
+
+(3)[^46] A Kormány országos illetékességű műszaki biztonsági hatóságként Budapest Főváros Kormányhivatalát jelöli ki
+
+a)[^47] a hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakításánál vagy javításánál ömlesztőhegesztést végző gazdálkodó szervezetek nyilvántartásba vételével, a nyilvántartás vezetésével, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények alkalmazásával,
+
+b) a tartályok, tároló létesítmények és berendezéseik gyártását és a tartályokhoz kapcsolódó helyszíni technológiai szerelést, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző gazdálkodó szervezetek nyilvántartásba vételével,
+
+c)[^48]
+
+d)[^49]
+
+e)[^50] a hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakításánál vagy javításánál ömlesztőhegesztést végző gazdálkodó szervezetek alkalmasságát igazoló szervezetek kijelölésével és felügyeletével,
+
+f) a tartályok, tároló létesítmények és berendezéseik gyártását és a tartályokhoz kapcsolódó helyszíni technológiai szerelést, a tartályok javítását, szivárgásvizsgálatát, átalakítását, tisztítását, időszakos vizsgálatát végző gazdálkodó szervezetek alkalmasságát igazoló szervezetek kijelölésével és felügyeletével,
+
+g) az üzemanyag töltőállomásokon szénhidrogén emisszió mérését, a pisztolygáz visszavezető és gázinga rendszerek beállítását végző szervezetek kijelölésével és felügyeletével,
+
+h)[^51] a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész (ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, a villamos biztonsági felülvizsgáló, valamint a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
+
+i) a felvonó- és mozgólépcső-ellenőrök nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével,
+
+j)[^52]
+
+k)[^53] a műszaki biztonsági szempontból jelentős ipari szakképesítés (felvonó- és mozgólépcső ellenőr, nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, nyomástartóedény-gépész, tartálytisztító, tartályvizsgáló, villamos biztonsági felülvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
+
+l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott vizsgálatok esetében a vizsgálati módszer jóváhagyásával,
+
+m)[^54] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
+
+n)[^55] az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
+
+kapcsolatos eljárásokban.
+
+(4)[^56]
+
+(5) A Kormány a (3) bekezdés a)–c) és i) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(6) A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
+
+(7)[^57] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+
+## 10. A műszaki biztonsági hatósági tevékenység szabályai
+
+### 14. §
+
+(1) A műszaki biztonsági hatóság műszaki biztonsági hatósági tevékenységének keretében ellenőrzi a (2) bekezdésben meghatározott létesítmények, berendezések:
+
+a) létesítésére, kivitelezésére, felállítására,
+
+b) üzembe helyezésére,
+
+c) üzemeltetésére,
+
+d) időszakos ellenőrzésére,
+
+e) átalakítására, javítására, bontására, megszüntetésére,
+
+f) vizsgálatát, átalakítását, javítását végző szervezetek tevékenységének ellenőrzésére,
+
+g) kezelését végzők szakképesítésére,
+
+h) vonatkozásában műszaki biztonsági tevékenységet ellátó szervezetek tevékenységének ellenőrzésére,
+
+i) alkalmazásával szolgáltatást végző szervezetek tevékenységére
+
+vonatkozó jogszabályi rendelkezések megtartását és érvényesülését.
+
+(2)[^58] Jogszabály eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
+
+a) a földgáz csatlakozóvezetékei, felhasználói berendezései és telephelyi vezetékei, ezek tartozékai,
+
+b)[^59] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
+
+c)[^60] a szállítható nyomástartó berendezések, ideértve a veszélyes áruk szállítására használt nyomástartó berendezéseket és eszközöket is,
+
+d) a *b)* és *c)* pontban meghatározott nyomástartó berendezés töltésére szolgáló berendezések, valamint az egyedi sűrített földgáztöltő berendezések,
+
+e) a nyomástartó berendezésnek nem minősülő gáztárolók és üzemi berendezések,
+
+f) a gázüzemű közúti jármű üzemanyag-ellátó berendezései, munkagép és nem közúti gép üzemanyag-ellátó berendezései,
+
+g)[^61] a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására használt szállítóeszközök,
+
+h) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályai és tároló létesítményei, beleértve az üzemanyagtöltő állomást, valamint azok működéséhez szükséges technológiai, biztonsági berendezések, csővezetékek, szerelvények, tartozékok,
+
+i) az ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt bioetanolt, biomasszát előállító vagy tároló berendezések, létesítmények,
+
+j) az ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosító, gáz- és olajfogyasztó energetikai berendezések, létesítmények,
+
+k) a távhőszolgáltatásról szóló törvény szerinti műszaki biztonsági hatósági eljárások hatálya alá tartozó berendezések, létesítmények,
+
+l) a villamos energiáról szóló törvény szerinti csatlakozó-, összekötő és felhasználói berendezések, villamosművek, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek,
+
+m) a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendeletben meghatározott felvonók, mozgólépcsők és mozgójárdák.
+
+(3) A műszaki biztonsági hatóság a (2) bekezdés szerinti létesítmények, berendezések, valamint az (1) bekezdés szerinti szervezetek vonatkozásában:
+
+a) engedélyezési és hatósági ellenőrzési jogkört gyakorol, a villamos összekötő vagy felhasználói berendezés üzembe helyezése esetén a balesetelhárítási, illetve az élet-, testiépség-, egészség- és vagyonvédelmet, valamint az üzembiztonságot szolgáló jogszabályi rendelkezések megtartásának vizsgálata céljából villamos biztonságtechnikai ellenőrzést folytat le igazgatási szolgáltatási díj ellenében,
+
+b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli események okait és következményeit.
+
+(4) A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
+
+### 15. §
+
+(1) Ha a műszaki biztonsági hatóság eljárása során a megfelelő biztonsággal és megbízhatósággal kapcsolatos előírások teljesülésében hibát, hiányosságot állapít meg, és a létesítmény, berendezés az egészség, az anyagi javak, vagy a környezet sérülésének, károsodásának forrásává válhat, vagy a működése ezek sérülését okozó helyzetet teremthet, úgy jogosult
+
+a) a hiányosság megszüntetését, illetve a hiba kijavítását – a körülmények figyelembevételével, a teljesítéshez szükséges határidő vagy határnap megállapítása mellett – elrendelni,
+
+b)[^62] a létesítménynek, berendezésnek – közvetlen veszélyhelyzetet előidéző hibája esetén – a használatát a kijavításig, vagy ha a veszélyhelyzet megszüntethető, annak megszüntetéséig ideiglenesen megtiltani,
+
+c) az engedélyek kiadását megelőzően vizsgált feltételek megváltozása vagy rendeltetéstől eltérő használat esetén a vonatkozó engedélyt ideiglenesen, vagy véglegesen visszavonni.
+
+(2) Ha a műszaki biztonsági hatóság műszaki biztonsági feladatkörében végzett tevékenysége során Budapest Főváros Kormányhivatalának piacfelügyeleti feladatkörébe tartozó termék olyan hibáját észleli, amely alapján feltételezhető, hogy az adott termék nem elégíti ki a vonatkozó jogszabály szerinti alapvető védelmi követelményeket, azonnal értesíti az eljárásra jogosult piacfelügyeleti hatóságot.
+
+### 16. §[^63]
+
+(1)[^64] A rendelet hatálya alá tartozó létesítmények, berendezések üzemeltetője az azok üzemeltetése, tárolása, szállítása során bekövetkezett rendkívüli eseményeket köteles bejelenteni a műszaki biztonsági hatóságnak, a b) és c) pont szerinti rendkívüli eseményeket az iparbiztonsági hatóságnak is. A rendelet alkalmazásában rendkívüli esemény különösen a létesítmény, berendezés üzemeltetése során bekövetkezett
+
+a) a létesítmény, berendezés sérülése,
+
+b) robbanás,
+
+c) tűzeset,
+
+d) a létesítmény, berendezés működésével összefüggésében bekövetkezett személyi sérülés,
+
+e) egyéb súlyos üzemzavar.
+
+(2) Ha más hatóság a műszaki biztonsági hatóság műszaki biztonsági tevékenységével összefüggő rendkívüli eseményről szerez tudomást, a műszaki biztonsági hatóságot arról tájékoztatja.
+
+(3) Ha jogszabály másként nem rendelkezik, a műszaki biztonsági hatóság vizsgálja ki az (1) bekezdés a), d) és e) pontja szerinti események körülményeit, okát, ennek során az élet- és vagyonvédelem érdekében az üzemeltetőt a szükséges intézkedések megtételére kötelezi.
+
+(4)[^65] Az iparbiztonsági hatóság vizsgálja ki az (1) bekezdés b) és c) pontja szerinti események körülményeit, okát. A vizsgálat eredményeit a műszaki biztonsági hatóságnak megküldi, mely hatóság az élet- és vagyonvédelem érdekében az üzemeltetőt a szükséges intézkedések megtételére kötelezi.
+
+(5)[^66]
+
+### 17. §
+
+(1)[^67] A hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakításánál vagy javításánál ömlesztőhegesztést végző gazdálkodó szervezetek alkalmasságának igazolásáról szóló miniszteri rendeletben meghatározott hegesztett szerkezetek gyártására, szerelésére, átalakítására vagy javítására való alkalmasság követelményeinek teljesítését a műszaki biztonsági hatóság által kijelölt tanúsító szervezetek igazolják.
+
+(2) A kijelölést kérelmező szervezet kijelölés iránti kérelmét a műszaki biztonsági hatósághoz nyújtja be. A kérelmezővel szemben támasztott, a tevékenységhez kapcsolódó személyi, szakmai és tárgyi feltételeket a 2. melléklet tartalmazza.
+
+(3)[^68] A kijelölésről a műszaki biztonsági hatóság engedélyt ad ki, amely a megadásának napjától számított három évig hatályos. Ha a tanúsító szervezet hatósági ellenőrzés alapján nem felel meg az e rendeletben foglalt követelményeknek, a műszaki biztonsági hatóság felhívja a figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel egyidejűleg kötelezi annak megszüntetésére. Ha a felhívásban meghatározott határidő eredménytelenül telt el, a műszaki biztonsági hatóság az engedélyt visszavonja és törli a tanúsító szervezetet a (4) bekezdés szerinti nyilvántartásból.
+
+(4)[^69]
+
+### 17/A. §[^70]
+
+A hegesztett szerkezetek gyártása, helyszíni szerelése, átalakítása vagy javítása során ömlesztőhegesztési tevékenység megkezdésének, folytatásának előzetes feltétele az, hogy az ilyen tevékenységet folytatni kívánó gazdálkodó szervezet a tevékenység megkezdésével egyidejűleg bejelentést tesz a műszaki biztonsági feladatkörben eljáró Budapest Főváros Kormányhivatala részére.
+
+### 18. §[^71]
+
+A műszaki biztonsági hatóság az e kormányrendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+
+### 20. §
+
+(1)–(3)[^73]
+
+(4)[^74]
+
+(5)[^75]
+
+(6)[^76]
+
+(7)[^77]
+
+### 21/A. §[^79]
+
+(1) Az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló miniszteri rendelet hatálya alá tartozó gázpalackok vonatkozásában hatáskörrel rendelkező nemzeti hatóságként a 13. § (1) bekezdése szerinti hatóság jár el.
+
+(2) A cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések vonatkozásában a műszaki biztonsági hatósági jogkört a bányafelügyelet gyakorolja.
+
+(3) A beütött megjelölés és a színjelzés – a gázpalack karbantartásának, felújításának és ellenőrzésének kivételével – a 13. § (1) bekezdése szerinti hatóság jóváhagyásával módosítható.
+
+(4) A gázpalackon és szerelvényein csak az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló miniszteri rendelet szerinti javításokat és átalakításokat lehet végezni. E tervezett tevékenységeket a javítást végző karbantartó gazdálkodó szervezet a 13. § (1) bekezdése szerinti hatóságnak előzetesen bejelenti.
+
+(5) A bejelentéshez csatolni kell:
+
+a) a gázpalack javítás vagy átalakítás előtti méretezett műszaki rajzát,
+
+b) a gázpalack anyaga mechanikai jellemzőinek és vegyi összetételének meghatározását, és
+
+c) a javítási vagy átalakítási technológia és vizsgálati technológia leírását.
+
+(6) A gázpalackok tulajdonosát vagy használóját érintő hatósági engedéllyel kapcsolatos jogutódlás esetén – ha az engedély már véglegessé vált – a jogutód a 13. § (1) bekezdése szerinti hatóságot a változás bekövetkezésétől számított 30 napon belül a jogerős cégbírósági bejegyző határozat másolatának megküldésével köteles értesíteni és kérni a 13. § (1) bekezdése szerinti hatóságtól a jogutódlás megállapítását. A tulajdonos vagy használó a jogutódlásra vonatkozó szabály szerint köteles értesíteni a 13. § (1) bekezdése szerinti hatóságot nevének megváltozása esetén is.
+
+### 21/B. §[^80]
+
+(1) Az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott, hevítéssel történő végső vizsgálatok, valamint a hevítés nélküli végső vizsgálatok esetében a vizsgálati módszer a műszaki biztonsági feladatkörében országos illetékességgel eljáró Budapest Főváros Kormányhivatala jóváhagyó határozatában foglaltak szerint alkalmazható. Budapest Főváros Kormányhivatala a jóváhagyás iránti kérelmet akkor hagyja jóvá, ha a vizsgálati módszer biztosítja az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott, az adott vizsgálati módszerrel szemben támasztott műszaki követelmények teljesülését.
+
+(2) A jóváhagyás iránti kérelmet az aeroszol termék forgalomba hozataláért felelős személy terjeszti elő. A kérelemhez a vizsgálati módszert ismertető műszaki dokumentációt kell csatolni.
+
+(3) Az (1) bekezdés szerinti hatóság jóváhagyó határozatát, a vizsgálati módszert ismertető műszaki dokumentációt, valamint – ha vannak – az ellenőrzési jelentéseket az aeroszol termék forgalomba hozataláért felelős személy köteles megőrizni, és a piacfelügyeleti hatóság kérésére rendelkezésre bocsátani.
+
+(4) A vizsgálati módszert ismertető műszaki dokumentációnak magyar nyelven is rendelkezésre kell állnia.
+
+### 21/C. §[^81]
+
+Aki gázüzemű munkagép gáz-üzemanyag ellátó berendezésének beszerelésére, megbontásával járó javítására, karbantartására, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítására irányuló tevékenységet kíván folytatni, köteles az erre irányuló szándékot, valamint a szerelést végző műhely gázbiztonságot érintő átalakítása esetén a tevékenységi kör megváltoztatását a 13. § (1) bekezdése szerinti műszaki biztonsági hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentést a műhely üzemeltetőjének kell megtennie.
+
+## 11. Építésügyi hatóság kijelölése
+
+### 22. §
+
+(1)[^82] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+(2) A (1) bekezdés szerinti hatóság építésügyi hatóságként jár el az alábbi sajátos építményfajták tekintetében:
+
+a) a nyomástartó berendezések és rendszerek elhelyezését vagy védelmét közvetlenül szolgáló építmény (ideértve a közforgalmú autógáztöltő-állomásokat és az azok rendeltetésével szorosan összefüggő rendeltetésű építményeket),
+
+b) a közforgalmú üzemanyagtöltő-állomások műtárgyai az utak kivételével,
+
+c) a veszélyes folyadék- és olvadéktárolók elhelyezését vagy védelmét közvetlenül szolgáló építmény,
+
+d) a nyomástartó berendezésnek nem minősülő gáztárolók elhelyezését vagy védelmét közvetlenül szolgáló építmény,
+
+e) az 50 kVA-nál nagyobb névleges teljesítőképességű kiserőművet ellátó hőtermelési rendeltetésű berendezés védelmét vagy a 0,5 MW-nál nagyobb hőteljesítményű hőtermelési és hőszolgáltatási berendezés (ideérve a fűtőművet is) védelmét közvetlenül szolgáló építmény,
+
+f) a biogáz- és komposztálótelep technológiáinak elhelyezését vagy védelmét közvetlenül szolgáló építmény, az ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt, bioetanolt előállító és tároló építmény, a villamosmű kivételével,
+
+g) az építménybe beépített terménytisztító vagy szárító,
+
+h) az épített üvegipari vagy fémipari kemence,
+
+i) építménynek minősülő helyhez kötött útépítő berendezés (aszfaltkeverő telep építményei),
+
+j) ipari és mezőgazdasági célú, földgázfogyasztó vagy propán-bután gázokat és ezek elegyeiből álló gázokat fogyasztó hőfejlesztő-hőhasznosító berendezés, az elhelyezését vagy védelmét közvetlenül szolgáló építménnyel együtt,
+
+k) a hőtávvezetéket tartó vagy magában foglaló építmény, beleértve a hőszolgáltatás nyomvonal jellegű építményeit is,
+
+l)[^83] a jogszabályban meghatározott villamosmű, a termelői vezeték, a magánvezeték, a közvetlen vezeték, a belső kezelőterű átalakító vagy kapcsoló berendezés, a villamosenergia-tároló, valamint a villamosenergia-tároló közcélú hálózatra csatlakozó vezetéke.
+
+(3)[^84] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték több műszaki biztonsági feladatkörben eljáró fővárosi és vármegyei kormányhivatal illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
+
+(3a)[^85] A Kormány a (2) bekezdés l) pontja körébe tartozó, a villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdése szerinti átviteli hálózattal kapcsolatos engedélyezési eljárásban országos illetékességű építésügyi hatóságként az 1. melléklet szerinti mérésügyi és műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+
+(3b)[^86] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés c) pontja szerinti integrált erőműépítési és környezetvédelmi engedélyezési eljárásban építésügyi hatóságként az 1. melléklet szerinti mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalokat jelöli ki.
+
+(4)[^87] A (2) bekezdésben meghatározott sajátos építményfajtákkal kapcsolatos építésügyi bírságot az azt megállapító végleges határozatban előírt határidőn belül a Magyar Államkincstár által vezetett, 10032000-00005503-06010011 számú Nemzetgazdasági Minisztérium fejezeti építésügyi bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+
+## 11/A.[^88]
+
+## 11/B.[^89] Az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti felügyeleti hatóság kijelölése és a felügyeleti hatósági tevékenységre vonatkozó különös szabályok
+
+### 22/B. §
+
+(1) A Kormány a 0,5 MW névleges teljesítőképességet el nem érő, napenergiát előállító erőmű engedélyköteles közművezetéke tekintetében az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti felügyeleti hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+(2) Az (1) bekezdésben kijelölt felügyeleti hatóság illetékességének megállapítása során a 22. § (3) és (3a) bekezdésében meghatározott illetékességi szabályokat megfelelően alkalmazni kell.
+
+(3) A műszaki biztonsági hatóság ellenőrzi a 0,5 MW névleges teljesítőképességet el nem érő, napenergiát előállító erőművek közművezeték-üzemeltetőinek az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a műszaki biztonsági hatóság kötelezi a szolgáltatókat az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére.
+
+(4) A felügyeleti hatóság az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott jogkövetkezményeket alkalmazza az ott leírtak szerint. A felügyeleti hatóság által kiszabott bírság összegére tekintettel a közművezeték-üzemeltető a szolgáltatásért megállapított díjat nem emelheti.
+
+## 12. A termékinformációs kapcsolattartó pont feladatainak ellátása
+
+### 23. §[^90]
+
+Budapest Főváros Kormányhivatala termékinformációs kapcsolattartó pontként – az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendeletben meghatározottak szerint – ellátja a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendeletben meghatározott feladatokat, valamint építésitermék-információs kapcsolattartó pontként ellátja az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendeletben meghatározott feladatokat.
+
+### 23/A. §[^91]
+
+Budapest Főváros Kormányhivatala termékinformációs és építésitermék-információs kapcsolattartó pontként a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet I. mellékletében felsorolt európai uniós harmonizációs jogszabályok hatálya alá eső területek tekintetében a következő tájékoztatást nyújtja:
+
+a) a kapcsolattartó pont tagállamában található illetékes hatóságok közvetlen kapcsolatfelvételre alkalmas elérhetősége, valamint
+
+b) a vonatkozó európai uniós jogi aktusok, és az ezen jogi aktusoknak való hazai megfelelést szolgáló, vagy azok végrehajtásához szükséges rendelkezéseket tartalmazó jogszabályok felsorolása.
+
+## 13. Egyéb feladatok
+
+### 24. §
+
+Budapest Főváros Kormányhivatala
+
+a) közreműködik a két- vagy többoldalú kereskedelmi, gazdasági együttműködési kapcsolatok szervezésével összefüggő feladatok és a kétoldalú gazdasági vegyes bizottságok működtetése teendőinek ellátásában,
+
+b) ellátja a külföldi bizonyítványok és oklevelek elismeréséről szóló jogszabályok alapján egyes szabályozott szakmák vonatkozásában a hatáskörébe utalt hatósági feladatokat vonatkozásában a határon átnyúló szolgáltatások bejelentésével kapcsolatos feladatokat,
+
+c) ellátja az Európai Közösségbe irányuló faanyag-behozatalhoz egyes harmadik országok által kiadott ún. FLEGT engedélyek ellenőrzésével kapcsolatos hatósági feladatokat,
+
+d)[^92] az R1. és R2. tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatok kivételével ellátja az iparügyekért felelős miniszter szabályozási feladatkörében előírt forgalmazási követelmények tekintetében – országos illetékességgel – a termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat,
+
+e)[^93] ellátja – országos illetékességgel – az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet
+
+ea) 29. cikk (1) bekezdése szerint a műszaki értékelést végző szervezetek, valamint
+
+eb) 39. cikke és V. melléklet 2. pontja, valamint az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló kormányrendelet szerinti, az építési termékek teljesítmény állandóságának értékelésébe és ellenőrzésébe bevont szervezetek
+
+kijelölésével és bejelentésével kapcsolatos feladatokat,
+
+f)[^94] ellátja – országos illetékességgel – a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
+
+g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valamint e körben irányítja és összehangolja az információfeldolgozó, -elemző munkát,
+
+h)[^95] ellátja – országos illetékességgel – az elektromágneses összeférhetőség vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
+
+i)[^96] ellátja országos illetékességgel az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlament és tanácsi rendelet [a továbbiakban: (EU) 2023/1542 rendelet] szerinti megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
+
+## 13/A. [^97] A termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó általános szabályok
+
+### 24/A. §
+
+(1)[^98] A megfelelőségértékelő szervezetek kijelölése iránti kérelemben a kérelmező szervezet alkalmasságát, felkészültségét a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.)
+
+a)[^99] 6. § (3) bekezdés a) pontja szerint a nemzeti akkreditáló szerv által a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontja szerint kiállított akkreditálási okirat számának megadásával, vagy
+
+b) 6. § (3) bekezdés b) pontja szerint a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet [a továbbiakban: 315/2009. (XII. 28.) Korm. rendelet] 12. § (2) bekezdésében meghatározott okiratok csatolásával
+
+kell igazolni, feltéve, hogy az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 36. § (2) bekezdése alkalmazásával a hatóság az okiratot nem jogosult maga beszerezni.
+
+(2)[^100]
+
+(3) Az engedély 5 évig hatályos.
+
+(4)[^101] A hatóság a kijelölési feltételek folyamatos teljesülésének ellenőrzése során a következő kérdéseket vizsgálja:
+
+a) a kijelölt szervezet a kijelölt megfelelőségértékelési területen folytatott tevékenysége során betartja-e a minőségirányítási kézikönyvében, valamint a működési és eljárási szabályzatában foglaltakat,
+
+b) az előző ellenőrzés óta a szakmai és adminisztratív felkészültség terén történt esetleges változás befolyásolja-e a megfelelőségértékelési tevékenység hatékonyságát,
+
+c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamint a működési és eljárási szabályzatban történt esetleges változtatások a megfelelőségértékelési tevékenység hatékonysága érdekében indokoltak-e,
+
+d) a gazdasági szereplők panaszainak kivizsgálása e rendeletnek és a panaszkezelési szabályzatnak megfelelő volt-e.
+
+(5)[^102] A 24. § e), f), h) és i) pontja szerinti eljárásokban a megfelelőségértékelő szervezetek kijelölése és bejelentése során az Msztv.-ben és a 315/2009. (XII. 28.) Korm. rendeletben foglaltakon kívül az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a kijelölt szervezetek tevékenységének különös szabályairól szóló rendeletben előírtak szerint kell eljárni.
+
+## 13/B. [^103] A szállítható nyomástartó berendezések megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/B. §
+
+(1)[^104] Az Msztv. szerint a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló miniszteri rendelet tekintetében bejelentett szervezetnek a bejelentett szakterület vonatkozásában eleget kell tennie a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 282/2023. (VI. 30.) Korm. rendeletben (a továbbiakban: ADN), a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 284/2023. (VI. 30.) Korm. rendeletben (a továbbiakban: ADR) és a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 283/2023. (VI. 30.) Korm. rendeletben (a továbbiakban: RID) megállapított követelményeknek. A bejelentett szervezetek az alábbi tevékenységre jelölhetők ki:
+
+a) megfelelőségértékelés,
+
+b) megfelelőség-újraértékelés vagy
+
+c) időszakos vizsgálat.
+
+(2) Nem jelenthető be az Európai Bizottságnak az ADR-ben, a RID-ben és az ADN-ben meghatározott kijelölt üzemi vizsgálóhely az (1) bekezdés szerinti tevékenységek lefolytatására.
+
+(3) A kijelölés iránti kérelemhez mellékelni kell azon szállítható nyomástartó berendezések leírását, amelyekre vonatkozóan a szervezet a kijelölését kérelmezi.
+
+## 13/C. [^105] A gyermekjátékok megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/C. §
+
+(1) A gyermekjátékok biztonságáról szóló miniszteri rendeletben foglalt követelmények tekintetében a 24. § d) pontjában meghatározott kijelölő hatóság jelöli ki a bejelentett szervezeteket az EK-típusvizsgálatra.
+
+(2) A bejelentett szervezetek kijelölése az Msztv.-ben előírt feltételek alapján történik.
+
+(3) A 24. § d) pontjában meghatározott kijelölő hatóság bejelenti az Európai Bizottságnak és az EGT-államoknak az (1) bekezdés szerinti eljárások lefolytatására kijelölt szervezeteket.
+
+(4) A megfelelőségértékelő szervezet kijelölés iránti kérelmet nyújt be a 24. § d) pontjában meghatározott kijelölő hatósághoz.
+
+(5) A kérelemhez mellékelni kell a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló kormányrendeletben meghatározottakon túl azon játékok leírását, amelyekre vonatkozóan a szervezet a kijelölését kérelmezi.
+
+(6) A bejelentett szervezet a piacfelügyeleti hatóság kérésére a hatóságot tájékoztatja a kiadott, vagy visszavont EK-típusvizsgálati bizonyítványról, illetve, ha megtagadta az EK-típusvizsgálati bizonyítvány kiadását, annak okáról és a hozzátartozó dokumentációkról.
+
+## 13/D. [^106] A nem automatikus működésű mérlegek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/D. §
+
+(1) Az R2.-ben meghatározott alkalmazásokra szánt, nem automatikus működésű mérlegekre vonatkozó megfelelőségértékelési modulokkal kapcsolatos tevékenységek elvégzésére jogosult szervezeteket a kijelölő hatóság jelöli ki.
+
+(2) A kijelölés az R2.-ben meghatározott tevékenység megjelölésével adható.
+
+(3) A kijelölő hatóság kialakítja és végrehajtja a megfelelőségértékelő szervezetek értékeléséhez és bejelentéséhez szükséges eljárásokat, valamint ellenőrzi a bejelentett szervezetek, az elismert független szervezetek és az üzemeltetői ellenőrző szervezetek tevékenységét, ideértve a 24/E. § (1)–(4) bekezdése rendelkezéseinek való megfelelést is.
+
+(4) A megfelelőségértékelő szervezet biztosítja, hogy leányvállalatai és alvállalkozói tevékenysége ne befolyásolja megfelelőségértékelési tevékenységének bizalmas jellegét, objektivitását és pártatlanságát.
+
+(5) A megfelelőségértékelő szervezetnek alkalmasnak kell lennie a számára az R2.-ben előírt valamennyi olyan megfelelőségértékelési feladat elvégzésére, amelyek elvégzésére bejelentették, függetlenül attól, hogy ezeket a feladatokat a megfelelőségértékelő szervezet maga végzi el vagy a nevében és felelősségi körében végzik el.
+
+(6) A megfelelőségértékelő szervezetnek – a megfelelőségértékelési eljárás, valamint minden olyan nem automatikus működésű mérlegfajta vagy -kategória tekintetében, amelyre bejelentették – rendelkeznie kell
+
+a) olyan személyzettel, amely megfelel a (8) bekezdésben meghatározott követelményeknek,
+
+b) azon eljárások leírásával, amelyek szerint a megfelelőségértékelést végzik, biztosítva ezen eljárások átláthatóságát és reprodukálhatóságát,
+
+c) megfelelő stratégiákkal és eljárásokkal a bejelentett szervezetként végzett feladatainak az általa végzett egyéb tevékenységektől történő elkülönítésére,
+
+d) olyan eljárásokkal, amelyek segítségével tevékenysége végzése során megfelelően figyelembe tudja venni a vállalkozás méretét, azon ágazatot, amelyben a vállalkozás tevékenykedik, a vállalkozás szerkezetét, az adott gyártástechnológia összetettségének fokát és a gyártási folyamat tömegtermelési vagy sorozatjellegét.
+
+(7) A megfelelőségértékelő szervezetnek rendelkeznie kell a megfelelőségértékelési tevékenységekkel kapcsolatos műszaki és adminisztrációs feladatok megfelelő ellátásához szükséges eszközökkel, továbbá valamennyi szükséges felszereléssel vagy létesítménnyel.
+
+(8) A megfelelőségértékelési feladatok elvégzéséért felelős személyzetnek rendelkeznie kell
+
+a) alapos műszaki és szakképzettséggel, amely kiterjed az összes olyan megfelelőségértékelési tevékenységre, amelyekre a megfelelőségértékelési szervezetet bejelentették,
+
+b) megfelelő ismeretekkel az általuk végzett értékelések követelményeiről és az ilyen értékelések elvégzéséről,
+
+c) az R2.-ben meghatározott alapvető követelményekkel, az alkalmazandó harmonizált szabványok, valamint az európai uniós harmonizációs jogszabályok és a nemzeti jogszabályok vonatkozó rendelkezéseinek ismeretével,
+
+d) az értékelés elvégzését bizonyító tanúsítványok, nyilvántartások és jelentések elkészítéséhez szükséges alkalmassággal.
+
+(9) A megfelelőségértékelő szervezet, valamint annak vezetője és a megfelelőségértékelést végző személyzetének pártatlanságát biztosítani kell. A megfelelőségértékelő szervezet felső szintű vezetésének és a megfelelőségértékelést végző személyzetének javadalmazása nem függhet az elvégzett értékelések számától vagy azok eredményétől.
+
+(10) A megfelelőségértékelő szervezetnek felelősségbiztosítással kell rendelkezni, kivéve, ha közvetlenül maga a tagállam felel a megfelelőségértékelésért.
+
+(11) A megfelelőségértékelő szervezet személyzete betartja a szakmai titoktartás követelményeit minden olyan információ tekintetében, amely az R2. alapján ellátott feladatai végrehajtása során jutott birtokába.
+
+(12) A szabványosítási tevékenységekben részt vevő megfelelőségértékelő szervezetek gondoskodnak arról, hogy a megfelelőségértékelést végző személyzetük tájékoztatást kapjon ezekről a tevékenységekről, valamint a bejelentett szervezeteket koordináló csoport munkájáról.
+
+(13) Ha a megfelelőségértékelő szervezet igazolja, hogy megfelel az olyan vonatkozó harmonizált szabványokban vagy azok részeiben rögzített kritériumoknak, amelyek hivatkozásait közzétették az Európai Unió Hivatalos Lapjában, akkor vélelmezni kell, hogy a megfelelőségértékelő szervezet megfelel a (4)–(12) bekezdésében meghatározott követelményeknek.
+
+### 24/E. §
+
+(1) Ha a bejelentett szervezet bizonyos megfelelőségértékelési feladatokat alvállalkozásba ad vagy leányvállalatot bíz meg velük, biztosítja, hogy az alvállalkozó vagy leányvállalat megfelel a 24/D. § (4)–(12) bekezdésében meghatározott követelményeknek, és ennek megfelelően tájékoztatja erről a kijelölő hatóságot.
+
+(2) A bejelentett szervezetek teljes felelősséget vállalnak az alvállalkozók vagy leányvállalatok által elvégzett feladatokért, függetlenül attól, hogy azok hol vannak letelepedve.
+
+(3) Tevékenységeket csak az ügyfél beleegyezésével lehet alvállalkozásba adni vagy leányvállalattal elvégeztetni.
+
+(4) A bejelentett szervezetek a kijelölő hatóság számára elérhetővé teszik az alvállalkozó szakmai képesítésére és az általuk az R2. szerint elvégzett munkára vonatkozó dokumentumokat.
+
+(5) A megfelelőségértékelő szervezet bejelentés iránti kérelmet nyújt be a kijelölő hatósághoz.
+
+(6) A bejelentés iránti kérelemhez mellékelni kell azon megfelelőségértékelési tevékenység, megfelelőségértékelési modul vagy modulok, és azon nem automatikus működésű mérleg vagy mérlegek leírását, amelyek tekintetében a szervezet szakmailag alkalmasnak tekinti magát.
+
+(7) Ha az érintett megfelelőségértékelő szervezet nem rendelkezik akkreditálási tanúsítvánnyal, a kijelölő hatóságnak benyújt minden, a 24/D. § (4)–(12) bekezdésében rögzített követelményeknek való megfelelésének igazolásához, elismeréséhez és rendszeres ellenőrzéséhez szükséges valamennyi dokumentumot.
+
+(8) A kijelölő hatóság csak az (5)–(7) bekezdésben, valamint a 24/D. § (4)–(12) bekezdésében rögzített követelményeknek megfelelő megfelelőségértékelő szervezeteket jelenthet be.
+
+(9) A kijelölő hatóság az Európai Bizottság által kifejlesztett és kezelt elektronikus bejelentési eszközön keresztül értesíti az Európai Bizottságot és a többi tagállamot.
+
+(10) A bejelentés tartalmazza a megfelelőségértékelési tevékenységekre, a megfelelőségértékelési eljárásra vagy eljárásokra és az érintett, nem automatikus működésű mérlegre vagy mérlegekre vonatkozó részletes információkat, valamint a szakmai alkalmasság megfelelő igazolását.
+
+(11) Ha a bejelentés nem a (6) bekezdésben meghatározott akkreditálási tanúsítványon alapul, a kijelölő hatóság benyújtja az Európai Bizottságnak és a többi tagállamnak a megfelelőségértékelő szervezet alkalmasságát igazoló dokumentumokat, valamint gondoskodik azokról a megfelelő intézkedésekről, amelyek biztosítják a szervezet rendszeres ellenőrzését és azt, hogy az továbbra is megfeleljen a 24/D. § (4)–(12) bekezdésben megállapított követelményeknek.
+
+(12) Az érintett szervezet csak akkor láthatja el egy bejelentett szervezet tevékenységét, ha az Európai Bizottság vagy a többi tagállam – akkreditációs tanúsítvány használata esetén a bejelentést követő két héten belül, akkreditálás hiányában a bejelentést követő két hónapon belül – nem emelt kifogást. Az R2. alkalmazásában csak az ilyen szervezet tekinthető bejelentett szervezetnek.
+
+(13) A kijelölő hatóság értesíti az Európai Bizottságot és a többi tagállamot a bejelentés bármely későbbi változásáról.
+
+(14) Ha a kijelölő hatóság megállapítja vagy tájékoztatják arról, hogy a bejelentett szervezet már nem teljesíti a 24/D. § (4)–(12) bekezdésben meghatározott követelményeket vagy elmulasztja teljesíteni kötelezettségeit, az alkalmazandó szankciók tekintetében a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 15. § (2) bekezdése irányadó. Az e rendeletben foglalt követelmények megsértéséről és a szankciókról a kijelölő hatóság haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
+
+(15) A kijelölő hatóság az Európai Bizottság kérésére az Európai Bizottság rendelkezésére bocsátja az érintett bejelentő szervezet bejelentésének vagy szakmai alkalmassága fenntartásának alapjául szolgáló összes információt.
+
+(16 ) Ha az Európai Bizottság meggyőződik arról, hogy egy bejelentett szervezet nem, illetve már nem tesz eleget a rá vonatkozó bejelentés követelményeinek, a kijelölő hatóság az Európai Bizottság felszólítására megteszi a szükséges kiigazító intézkedéseket, szükség esetén visszavonja a bejelentést.
+
+(17) A bejelentett szervezet az R2.-ben előírt megfelelőségértékelési eljárásokkal összhangban végzi el a megfelelőségértékelést.
+
+(18) A bejelentett szervezetek tájékoztatják a kijelölő hatóságot a következőkről:
+
+a) a tanúsítványok elutasítása, korlátozása, felfüggesztése vagy visszavonása,
+
+b) azok a körülmények, amelyek érinthetik a bejelentés hatályát vagy feltételeit,
+
+c) a piacfelügyeleti hatóságtól a megfelelőségértékelési tevékenységek kapcsán hozzájuk beérkezett valamennyi információkérés,
+
+d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési tevékenységek, valamint ezzel összefüggésben minden más elvégzett tevékenységről, többek között a határon átnyúló tevékenységek és a tevékenységek alvállalkozásba adása.
+
+(19) A bejelentett szervezetek megfelelően tájékoztatják a bejelentett és ugyanazokkal a nem automatikus működésű mérlegekkel foglakozó más szervezeteket a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
+
+## 13/E. [^107] A felvonók és a felvonókhoz készült biztonsági berendezések megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/F. §
+
+(1) A kijelölő hatóság jelenti be az Európai Bizottságnak a bejelentett szervezeteket, a felvonókkal kapcsolatos megfelelőségértékelési eljárások lefolytatására feljogosított szervezetekként.
+
+(2) A kijelölés a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet egyes mellékletei szerinti tevékenység megjelölésével adható.
+
+(3) A kijelölő hatóság bejelenti az Európai Bizottságnak és az EGT-államoknak az (1) bekezdés szerinti eljárások lefolytatására kijelölt szervezeteket.
+
+(4) A megfelelőségértékelő szervezet bejelentés iránti kérelmet nyújt be a bejelentő hatósághoz.
+
+(5) A bejelentés iránti kérelemhez mellékelni kell azon felvonók vagy felvonókhoz készült biztonsági berendezések megfelelőségértékelési eljárásainak leírását, amelyek tekintetében a szervezet szakmailag alkalmasnak tekinti magát.
+
+(6) Ha az érintett megfelelőségértékelő szervezet nem rendelkezik akkreditálási tanúsítvánnyal, a bejelentő hatóságnak benyújtja a követelményeknek való megfelelésének igazolásához, elismeréséhez és rendszeres ellenőrzéséhez szükséges valamennyi igazoló dokumentumot.
+
+(7) Ha a bejelentő hatóság megállapítja, hogy a bejelentett szervezet már nem teljesíti a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendeletben meghatározott követelményeket, vagy elmulasztja teljesíteni kötelezettségeit, akkor a bejelentő hatóság haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
+
+(8) A bejelentett szervezetek tájékoztatják a bejelentő hatóságot a következőkről:
+
+a) a tanúsítványok vagy a jóváhagyási döntések bárminemű elutasításáról, korlátozásáról, felfüggesztéséről vagy visszavonásáról,
+
+b) bármely olyan körülményről, amely érintheti a bejelentés hatályát vagy feltételeit,
+
+c) a piacfelügyeleti hatóságtól a megfelelőségértékelési tevékenységek kapcsán hozzájuk beérkezett valamennyi tájékoztatási felkérésről,
+
+d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési tevékenységekről, valamint minden más elvégzett tevékenységről, többek között a több tagállamra kiterjedő tevékenységekről és a tevékenységek alvállalkozásba adásáról.
+
+(9) A bejelentett szervezetek tájékoztatják a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet szerint bejelentett, azonos típusú felvonókra és felvonókhoz készült biztonsági berendezésekre vonatkozó hasonló megfelelőségértékelési tevékenységeket végző más szervezeteket a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
+
+## 13/F. [^108] A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/G. §
+
+(1) A bejelentő hatóság tájékoztatja az Európai Bizottságot a megfelelőségértékelő szervezetek értékelésére és bejelentésére, valamint a bejelentett szervezetek ellenőrzésére irányuló eljárásairól, továbbá ezek bármilyen változásáról.
+
+(2) Ha a megfelelőségértékelő szervezet igazolja, hogy megfelel az olyan vonatkozó harmonizált szabványokban vagy azok részeiben rögzített kritériumoknak, amelyek hivatkozásait közzétették az Európai Unió Hivatalos Lapjában, akkor vélelmezni kell, hogy megfelel a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló miniszteri rendeletben (a továbbiakban: R3.) meghatározott követelményeknek, ha az alkalmazandó harmonizált szabványok kiterjednek az említett követelményekre.
+
+(3) Ha a bejelentett szervezet bizonyos megfelelőségértékelési feladatokat alvállalkozásba ad, vagy leányvállalatot bíz meg velük, biztosítja, hogy az alvállalkozó vagy leányvállalat megfelel az R3.-ban meghatározott követelményeknek, és ennek megfelelően tájékoztatja erről a bejelentő hatóságot.
+
+(4) A bejelentett szervezet teljes felelősséget vállal az alvállalkozók vagy leányvállalatok által elvégzett feladatokért, függetlenül attól, hogy azok hol vannak letelepedve.
+
+(5) Tevékenységet alvállalkozásba adni vagy leányvállalattal elvégeztetni csak az ügyfél beleegyezésével lehet.
+
+(6) A bejelentett szervezet a bejelentő hatóság számára elérhetővé teszi az alvállalkozó vagy a leányvállalat szakmai képesítésének értékelésére és az általuk az R3. szerint elvégzett munkára vonatkozó dokumentumokat.
+
+### 24/H. §
+
+(1) A megfelelőségértékelő szervezet bejelentés iránti kérelmet nyújt be a bejelentő hatósághoz.
+
+(2) A bejelentés iránti kérelemhez mellékelik azon megfelelőségértékelési tevékenység, megfelelőségértékelési modul vagy modulok, és termék vagy termékek leírását, amely tekintetében a szervezet szakmailag alkalmasnak tekinti magát.
+
+(3) Ha a megfelelőségértékelő szervezet nem rendelkezik akkreditációs tanúsítvánnyal, a bejelentő hatóságnak benyújt minden, az R3.-ban rögzített követelményeknek való megfelelésének igazolásához, elismeréséhez és rendszeres ellenőrzéséhez szükséges igazoló dokumentumot.
+
+(4) A bejelentő hatóság csak az R3.-ban rögzített követelményeknek megfelelő megfelelőségértékelő szervezetet jelenthet be.
+
+(5) A bejelentő hatóság az Európai Bizottság által kifejlesztett és kezelt elektronikus bejelentési eszközön keresztül értesíti az Európai Bizottságot és a többi tagállamot.
+
+(6) A bejelentés tartalmazza a megfelelőségértékelési tevékenységekre, a megfelelőségértékelési modulra vagy modulokra és az érintett termékre vagy termékekre vonatkozó részletes információkat, valamint a szakmai alkalmasság megfelelő igazolását.
+
+(7) Ha a bejelentés nem akkreditációs tanúsítványon alapul, a bejelentő hatóság benyújtja az Európai Bizottságnak és a többi tagállamnak a megfelelőségértékelő szervezet szakmai alkalmasságát és az azokat az intézkedéseket igazoló dokumentumokat, amelyek biztosítják a szervezet rendszeres ellenőrzését és azt, hogy az továbbra is megfeleljen az R3.-ban megállapított követelményeknek.
+
+(8) Az érintett szervezet csak akkor láthatja el egy bejelentett szervezet tevékenységét, ha az Európai Bizottság és a többi tagállam – akkreditációs tanúsítvány használata esetén a bejelentést követő két héten belül, akkreditálás hiányában a bejelentést követő két hónapon belül – nem emelt kifogást. E rendelet alkalmazásában csak az ilyen szervezet tekinthető bejelentett szervezetnek.
+
+(9) A bejelentő hatóság értesíti az Európai Bizottságot és a többi tagállamot a bejelentés bármely, később releváns változásáról.
+
+(10) Ha a bejelentő hatóság az eset összes körülményének figyelembevételével megállapítja, hogy a bejelentett szervezet már nem tesz eleget az R3.-ban meghatározott követelményeknek vagy elmulasztja teljesíteni kötelezettségeit, haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
+
+(11) Ha a bejelentést korlátozzák, felfüggesztik vagy visszavonják, vagy ha a bejelentett szervezet megszüntette tevékenységét, a bejelentő tagállam megteszi a szükséges lépéseket annak biztosítása érdekében, hogy az említett szervezet dokumentációját vagy egy másik bejelentett szervezet dolgozza fel, vagy pedig kérésre az illetékes bejelentő vagy piacfelügyeleti hatóság számára elérhető legyen.
+
+(12) A bejelentett szervezet tájékoztatja a bejelentő hatóságot a következőkről:
+
+a) a tanúsítványok elutasítása, korlátozása, felfüggesztése vagy visszavonása,
+
+b) azok a körülmények, amelyek érinthetik a bejelentés hatályát vagy feltételeit,
+
+c) a piacfelügyeleti hatóságtól a megfelelőségértékelési tevékenységek kapcsán hozzájuk beérkezett valamennyi tájékoztatási felkérés,
+
+d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési tevékenységek, valamint minden más elvégzett tevékenység, a határon átnyúló tevékenységek és a tevékenységek alvállalkozásba adása.
+
+(13) A bejelentett szervezet megfelelően tájékoztatja az R3. szerint bejelentett, hasonló megfelelőségértékelési tevékenységet végző és ugyanazokkal a termékekkel foglakozó más szervezetet a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
+
+## 13/G. [^109] A mérőeszközök megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/I. §
+
+(1) A kijelölő hatóság jelöli ki azokat a szervezeteket, amelyek az R1. szerinti megfelelőségértékelési feladatok ellátását végzik.
+
+(2) A kijelölő hatóság bejelenti az Európai Bizottságnak és az EGT-államoknak az (1) bekezdés szerinti eljárások lefolytatására kijelölt szervezeteket.
+
+(3) A megfelelőségértékelést végezni kívánó szervezet kijelölés iránti kérelmet nyújt be a kijelölő hatósághoz.
+
+(4) A kijelölés iránti kérelemhez mellékelni kell a 315/2009. (XII. 28.) Korm. rendeletben meghatározottakon túl azon mérőműszerek leírását, amelyekre vonatkozóan a szervezet a kijelölését kérelmezi.
+
+(5) A kijelölés az R1.-ben nevesített tevékenység megjelölésével adható.
+
+(6) A megfelelőségértékelő szervezet biztosítja, hogy leányvállalatai és alvállalkozói tevékenysége ne befolyásolja megfelelőségértékelési tevékenységének bizalmas jellegét, objektivitását és pártatlanságát.
+
+(7) A megfelelőségértékelő szervezetnek alkalmasnak kell lennie a számára az R1.-ben előírt valamennyi olyan megfelelőségértékelési feladat elvégzésére, amelyek elvégzésére bejelentették, függetlenül attól, hogy ezeket a feladatokat a megfelelőségértékelő szervezet maga végzi el vagy a nevében és felelősségi körében más végzi el.
+
+(8) A megfelelőségértékelő szervezetnek – minden egyes megfelelőségértékelési eljárás, valamint minden olyan mérőműszerfajta vagy kategória tekintetében, amelyre bejelentették – rendelkeznie kell a következőkkel:
+
+a) olyan személyzettel, amely megfelel a (9) bekezdésben meghatározott követelményeknek,
+
+b) azon eljárások leírásával, amelyek szerint a megfelelőségértékelést végzik, biztosítva ezen eljárások átláthatóságát és reprodukálhatóságát,
+
+c) megfelelő stratégiákkal és eljárásokkal a bejelentett szervezetként végzett feladatainak az általa végzett egyéb tevékenységektől történő elkülönítésére,
+
+d) olyan eljárásokkal, amelyek segítségével tevékenysége végzése során értékelni tudja az érintett vállalkozás méretét, az ágazatot, amelyben az érintett vállalkozás tevékenykedik, az értékeléssel érintett vállalkozás szerkezetét, az adott gyártástechnológia összetettségének fokát és a gyártási folyamat tömegtermelési vagy sorozatjellegét.
+
+(9) A megfelelőségértékelési feladatok elvégzéséért felelős személyzetnek a következőkkel kell rendelkeznie:
+
+a) műszaki képesítéssel, amely kiterjed az összes olyan megfelelőségértékelési tevékenységre, amelyre a megfelelőségértékelési szervezetet bejelentették,
+
+b) megfelelő ismeretekkel az általuk végzett értékelések követelményeiről és az ilyen értékelések elvégzésére,
+
+c) az R1.-ben meghatározott alapvető követelmények, az alkalmazandó harmonizált szabványok, valamint az uniós harmonizációs jogszabályok és a nemzeti jogszabályok vonatkozó rendelkezéseinek megfelelő ismeretével,
+
+d) az értékelés elvégzését bizonyító tanúsítványok, nyilvántartások és jelentések elkészítéséhez szükséges, a 315/2009. (XII. 28.) Korm. rendelet szerinti alkalmassággal.
+
+(10) A megfelelőségértékelő szervezet felelősségbiztosítást köt, kivéve, ha a felelősséget az állam vállalja át.
+
+(11) A szabványosítási tevékenységekben részt vevő megfelelőségértékelő szervezetek gondoskodnak arról, hogy a megfelelőségértékelést végző személyzetük tájékoztatást kapjon ezekről a tevékenységekről, valamint a bejelentett szervezeteket koordináló csoport munkájáról.
+
+### 24/J. §
+
+(1) Ha a megfelelőségértékelő szervezet igazolja, hogy megfelel az olyan vonatkozó harmonizált szabványokban vagy azok részeiben rögzített kritériumoknak, amelyek hivatkozásait közzétették az Európai Unió Hivatalos Lapjában, ha az alkalmazandó harmonizált szabványok kiterjednek az említett követelményekre, vélelmezni kell, hogy megfelel a 24/I. § (6)–(11) bekezdésében meghatározott követelményeknek.
+
+(2) Ha a bejelentett szervezet bizonyos megfelelőségértékelési feladatok elvégzésével alvállalkozást vagy leányvállalatot bíz meg, ellenőrzi, hogy az alvállalkozó vagy a leányvállalat megfelel a 24/I. § (6)–(11) bekezdésében meghatározott követelményeknek, és ennek megfelelően tájékoztatja a kijelölő hatóságot.
+
+(3) A bejelentett szervezet a kijelölő hatóság felszólítására átadja az alvállalkozó vagy a leányvállalat szakmai képesítésére és az általuk, az R1. szerint elvégzett munkára vonatkozó dokumentumokat.
+
+(4) A megfelelőségértékelő szervezet bejelentés iránti kérelmet nyújt be a kijelölő hatósághoz.
+
+(5) A bejelentés iránti kérelemhez mellékelni kell azon megfelelőségértékelési tevékenység, megfelelőségértékelési modul és mérőműszer leírását, amely tekintetében a szervezet a kijelölését kéri.
+
+(6) Ha a megfelelőségértékelő szervezet nem rendelkezik az akkreditált státusz megállapításáról szóló határozattal, a kijelölő hatóságnak benyújt minden, a 24/I. § (6)–(11) bekezdésében rögzített követelményeknek való megfelelésnek igazolásához, elismeréséhez és rendszeres ellenőrzéséhez szükséges dokumentumot.
+
+(7) A kijelölő hatóság csak a 24/I. § (6)–(11) bekezdésében rögzített követelményeknek megfelelő megfelelőségértékelő szervezetet jelenthet be az Európai Bizottságnak.
+
+(8) A bejelentés tartalmazza a megfelelőségértékelési tevékenységre, a megfelelőségértékelési eljárásra és az érintett mérőműszerre vonatkozó részletes információkat, valamint a jogszabályban előírt feltételeknek megfelelő szakmai alkalmasság igazolását.
+
+(9) A bejelentett szervezet az R1.-ben előírt megfelelőségértékelési eljárásokkal összhangban végzi el a megfelelőségértékelést.
+
+(10) A bejelentett szervezet tájékoztatja a kijelölő hatóságot a következőkről:
+
+a) a megfelelőségértékelési eljárás során keletkezett tanúsítványok bárminemű elutasítása, korlátozása, felfüggesztése vagy visszavonása,
+
+b) minden olyan körülmény, amely érintheti a bejelentés hatályát vagy feltételeit,
+
+c) a piacfelügyeleti hatóságtól a megfelelőségértékelési tevékenység kapcsán beérkezett valamennyi információkérés,
+
+d) kérésre a bejelentése hatálya alá tartozó megfelelőségértékelési tevékenység, valamint ezzel összefüggésben minden más elvégzett tevékenység, többek között a határon átnyúló tevékenységek és a tevékenységek alvállalkozásba adása.
+
+## 13/H. [^110] § A nyomástartó berendezések és rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével, valamint az egyszerű nyomástartó edények megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/K. §
+
+(1) A kijelölő hatóság a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben (a továbbiakban: R4.) meghatározottak szerint bejelenti az Európai Bizottságnak és a tagállamoknak az R4. szerinti eljárások lefolytatására általa kijelölt szervezeteket, e szervezetek feladatainak rögzítésével, valamint az Európai Bizottság által előzőleg adott azonosító számaikkal együtt.
+
+(2) A kijelölő hatóság visszavonja a kijelölést, ha a szervezet már nem felel meg az R4.-ben leírt követelményeknek. A kijelölés visszavonásáról a tagállamokat és az Európai Bizottságot egyidejűleg értesíteni kell.
+
+### 24/L. §
+
+(1) A termékek megfelelőségének értékelésére és ellenőrzésére jogosult bejelentett szervezeteket, az elismert független szervezeteket és az üzemeltetői ellenőrző szervezeteket a kijelölő hatóság jelöli ki.
+
+(2) A kijelölés az R4. szerinti tevékenység megjelölésével adható.
+
+(3) A kijelölt szervezetek bejelentését az Európai Bizottságnak és a tagállamoknak a kijelölő hatóság kezdeményezi.
+
+(4) A kijelölő hatóság felelős a megfelelőségértékelő szervezetek értékeléséhez és bejelentéséhez szükséges eljárások végrehajtásáért, valamint a bejelentett szervezetek, az elismert független szervezetek és az üzemeltetői ellenőrző szervezetek ellenőrzéséért.
+
+(5)[^111] A (4) bekezdés szerinti értékelést és ellenőrzést egy, a 765/2008/EK európai parlamenti és tanácsi rendelet szerinti nemzeti akkreditáló szerv is végzi az R4.-gyel összhangban.
+
+(6) A kijelölő hatóság tevékenységét úgy kell megszervezni, hogy a megfelelőségértékelő szervezet bejelentésével kapcsolatban minden egyes döntést az értékelést végzőtől eltérő illetékes személy hozzon meg.
+
+(7) A kijelölő hatóság nem végezhet olyan tevékenységet, amelyet a megfelelőségértékelő szervezet végez, illetve nem nyújthat szaktanácsadási szolgáltatást kereskedelmi vagy piaci alapon.
+
+(8) A kijelölő hatóság biztosítja a hozzá beérkező információ bizalmas kezelését.
+
+(9) A kijelölő hatóság tájékoztatja az Európai Bizottságot a megfelelőségértékelő szervezetek értékelésére és bejelentésére, valamint a bejelentett szervezetek ellenőrzésére irányuló eljárásairól, továbbá ezek bármilyen változásáról.
+
+### 24/M. §
+
+(1) A megfelelőségértékelő szervezet olyan harmadik fél, amely független az általa értékelt szervezettől vagy terméktől.
+
+(2) A megfelelőségértékelő szervezet biztosítja, hogy leányvállalatai és alvállalkozói tevékenysége ne befolyásolja megfelelőségértékelési tevékenységének bizalmas jellegét, objektivitását és pártatlanságát.
+
+(3) A megfelelőségértékelő szervezetnek alkalmasnak kell lennie a számára az R4.-ben előírt valamennyi olyan megfelelőségértékelési feladat elvégzésére, amelyek elvégzésére bejelentették, függetlenül attól, hogy ezeket a feladatokat a megfelelőségértékelő szervezet maga végzi el, vagy a nevében és felelősségi körében végzik el.
+
+(4) A megfelelőségértékelő szervezetnek – minden egyes megfelelőségértékelési eljárás, valamint a nyomástartó berendezések minden olyan fajtája vagy kategóriája tekintetében, amelyre bejelentették – rendelkeznie kell a következőkkel:
+
+a) olyan személyzettel, amely műszaki ismeretekkel, valamint elegendő és megfelelő tapasztalattal rendelkezik a megfelelőségértékelési feladatok elvégzéséhez,
+
+b) azon eljárások leírásával, amelyek szerint a megfelelőségértékelést végzik, biztosítva ezen eljárások átláthatóságát és reprodukálhatóságát, továbbá megfelelő stratégiákkal és eljárásokkal bejelentett szervezetként végzett feladatainak az általa végzett egyéb tevékenységektől történő elkülönítésére,
+
+c) olyan eljárásokkal, amelyek segítségével tevékenysége végzése során megfelelően figyelembe tudja venni a vállalkozás méretét, azon ágazatot, amelyben az tevékenykedik, a vállalkozás szerkezetét, az adott gyártástechnológia összetettségének fokát és a gyártási folyamat tömegtermelési vagy sorozatjellegét.
+
+(5) A megfelelőségértékelő szervezetnek rendelkeznie kell a megfelelőségértékelési tevékenységekkel kapcsolatos műszaki és adminisztrációs feladatok ellátásához szükséges eszközökkel, továbbá valamennyi szükséges felszereléssel, illetve létesítménnyel.
+
+(6) A megfelelőségértékelési feladatok elvégzéséért felelős személyzetnek rendelkeznie kell:
+
+a) alapos műszaki és szakképzettséggel, amely kiterjed az összes olyan megfelelőségértékelési tevékenységre, amelyekre a megfelelőségértékelési szervezetet bejelentették,
+
+b) megfelelő ismeretekkel az általuk végzett értékelések követelményeiről és hatáskörrel az ilyen értékelések elvégzésére,
+
+c) az R4.-ben meghatározott alapvető egészségvédelmi és biztonsági követelmények, az alkalmazandó harmonizált szabványok, valamint az uniós jogi aktusok és a jogszabályok vonatkozó rendelkezéseinek ismeretével,
+
+d) az értékelés elvégzését bizonyító tanúsítványok, nyilvántartások és jelentések elkészítéséhez szükséges, jogszabályban előírt feltételeknek megfelelő alkalmassággal.
+
+(7) A megfelelőségértékelő szervezet, valamint annak vezetői és a megfelelőségértékelést végző személyzet pártatlanságát biztosítani kell. A megfelelőségértékelő szervezet vezetésének és a megfelelőségértékelést végző személyzetének javadalmazása nem függhet az elvégzett értékelések számától vagy azok eredményétől.
+
+(8) A megfelelőségértékelő szervezet, annak felső szintű vezetése és a megfelelőségértékelést végző munkavállalója nem vehet részt közvetlenül a termék tervezésében, gyártásában (kialakításában), forgalomba hozatalában, üzembe helyezésében, használatában vagy karbantartásában, és nem képviselheti az ilyen tevékenységben részt vevő feleket sem. Nem vehet részt olyan tevékenységben, amely veszélyeztetné a bejelentett megfelelőségértékelési tevékenységeikkel kapcsolatos döntéshozói függetlenségét vagy feddhetetlenségét, ideértve a szaktanácsadási szolgáltatást is.
+
+(9) A megfelelőségértékelő szervezet felelősségbiztosítást köt, kivéve, ha a felelősséget az állam vállalja át.
+
+(10) A megfelelőségértékelő szervezet személyzete biztosítja, hogy ne kerülhessen illetéktelenekhez olyan információ, amely az R4. előírásai alapján ellátott feladatai végrehajtása során jutott birtokába.
+
+(11) A szabványosítási tevékenységekben részt vevő megfelelőségértékelő szervezetek gondoskodnak arról, hogy a megfelelőségértékelést végző személyzetük tájékoztatást kapjon ezekről a tevékenységekről, valamint a bejelentett szervezeteket koordináló csoport munkájáról.
+
+### 24/N. §
+
+(1) Ha a megfelelőségértékelő szervezet igazolja, hogy megfelel az olyan vonatkozó harmonizált szabványokban vagy azok részeiben rögzített kritériumoknak, amelyek hivatkozásait közzétették az Európai Unió Hivatalos Lapjában, akkor vélelmezni kell, hogy megfelel a miniszteri rendeletben meghatározott követelményeknek, ha az alkalmazandó harmonizált szabványok kiterjednek az említett követelményekre.
+
+(2) Ha a bejelentett szervezet, az üzemeltetői ellenőrző szervezet vagy az elismert független szervezet bizonyos megfelelőségértékelési feladatokat alvállalkozásba ad, vagy leányvállalatot bíz meg velük, biztosítja, hogy az alvállalkozó vagy a leányvállalat megfeleljen az R4.-ben meghatározott követelményeknek, továbbá ennek megfelelően tájékoztatja erről a kijelölő hatóságot.
+
+(3) A bejelentett szervezet, az üzemeltetői ellenőrző szervezet és az elismert független szervezet teljes felelősséget vállal az alvállalkozó vagy leányvállalat által elvégzett feladatokért, függetlenül azok letelepedési helyétől.
+
+(4) Tevékenységet csak az ügyfél beleegyezésével lehet alvállalkozásba adni vagy leányvállalattal elvégeztetni.
+
+(5) A bejelentett szervezet, az üzemeltetői ellenőrző szervezet és az elismert független szervezet a kijelölő hatóság számára elérhetővé teszi az alvállalkozó vagy a leányvállalat szakmai képesítésének értékelésére, valamint az utóbbiak által az R4. szerinti tevékenységre vonatkozó dokumentumokat.
+
+### 24/O. §
+
+(1) A megfelelőségértékelő szervezet bejelentés iránti kérelmet nyújt be a kijelölő hatósághoz.
+
+(2) A bejelentés iránti kérelemhez mellékelni kell a megfelelőségértékelési tevékenység, a megfelelőségértékelési modul vagy modulok, valamint azon nyomástartó berendezések leírását, amelyek tekintetében a szervezet szakmailag alkalmasnak tekinti magát.
+
+(3) Ha a megfelelőségértékelő szervezet nem tud akkreditálási tanúsítványt benyújtani, be kell nyújtania a kijelölő hatósághoz a megfelelésének ellenőrzéséhez, elismeréséhez és rendszeres ellenőrzéséhez szükséges valamennyi azt igazoló okmányt, hogy teljesíti az R4.-ben rögzített követelményeket.
+
+(4) A kijelölő hatóság az Európai Bizottság által kifejlesztett és kezelt elektronikus bejelentési eszközön keresztül értesíti az Európai Bizottságot és a tagállamokat az (5) bekezdés szerinti bejelentésről.
+
+(5) A bejelentés részletes információkat tartalmaz a megfelelőségértékelési tevékenységekről, a megfelelőségértékelési modulról vagy modulokról, az érintett nyomástartó berendezésről, és tartalmazza az R4.-ben előírt feltételeknek megfelelő alkalmasság igazolását.
+
+(6) Ha a bejelentés nem akkreditálási okiraton alapul, a kijelölő hatóság benyújtja az Európai Bizottságnak és a többi tagállamnak a megfelelőségértékelő szervezet alkalmasságát igazoló dokumentumokat, valamint gondoskodik azon intézkedések megtételéről, amelyek biztosítják a szervezet rendszeres ellenőrzését, és azt, hogy az továbbra is megfeleljen az R4.-ben megállapított követelményeknek.
+
+(7) Az érintett szervezet azt követően láthatja el egy bejelentett szervezet tevékenységét, ha az Európai Bizottság vagy a tagállamok – akkreditációs tanúsítvány használata esetén a bejelentést követő két héten belül, akkreditálás hiányában a bejelentést követő két hónapon belül – nem emeltek kifogást.
+
+(8) A kijelölő hatóság értesíti az Európai Bizottságot és a tagállamokat a bejelentés bármely későbbi, a tevékenység szempontjából jelentős változásáról.
+
+(9) Ha a kijelölő hatóság megállapítja, vagy tudomására jut, hogy a bejelentett szervezet már nem teljesíti az R4.-ben meghatározott követelményeket, vagy elmulasztja teljesíteni kötelezettségeit, a kijelölő hatóság a 315/2009. (XII. 28.) Korm. rendelet alapján korlátozhatja, felfüggesztheti vagy visszavonhatja a bejelentést, attól függően, hogy a bejelentett szervezet milyen súlyos mértékben mulasztotta el teljesíteni a követelményeket vagy kötelezettségeket. Erről haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
+
+(10) Ha a kijelölő hatóság a bejelentést korlátozza, felfüggeszti vagy visszavonja, illetve ha a bejelentett szervezet megszüntette tevékenységét, a kijelölő hatóság megteszi a szükséges lépéseket annak biztosítása érdekében, hogy az említett szervezet dokumentációját vagy egy másik bejelentett szervezet dolgozza fel, vagy pedig kérésre a bejelentő hatóság vagy piacfelügyeleti hatóságok számára elérhető legyen.
+
+(11) A kijelölő hatóság az Európai Bizottság kérésére rendelkezésére bocsátja a bejelentő szervezet bejelentésének fenntartásának alapjául szolgáló összes információt.
+
+(12) Ha az Európai Bizottság meggyőződik arról, hogy egy bejelentett szervezet nem, vagy már nem tesz eleget a rá vonatkozó bejelentés követelményeinek, a kijelölő hatóság az Európai Bizottság felszólítására megteszi a szükséges kiigazító intézkedéseket, vagy ha azok nem elégségesek a jogszerű működés helyreállításához, visszavonja a bejelentést.
+
+(13) A bejelentett szervezet, az elismert független szervezet és a felhasználókat ellenőrző szervezet tájékoztatják a kijelölő hatóságot:
+
+a) a tanúsítványok elutasításáról, korlátozásáról, felfüggesztéséről vagy visszavonásáról,
+
+b) azokról a körülményekről, amelyek érinthetik a bejelentés hatályát vagy feltételeit,
+
+c) a piacfelügyeleti hatóságtól kapott, a megfelelőségértékelési tevékenységekre vonatkozó tájékoztatási felkérésekről,
+
+d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési tevékenységekről, valamint minden más elvégzett tevékenységről, többek között a határokon átnyúló tevékenységekről és a tevékenységek alvállalkozásba adásáról.
+
+(14) A bejelentett szervezet, az elismert független szervezet és az üzemeltetői ellenőrző szervezet tájékoztatja az e rendelet szerint bejelentett, hasonló megfelelőségértékelési tevékenységeket végző és ugyanazokkal a nyomástartó berendezésekkel foglakozó más szervezeteket a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
+
+## 13/I. [^112] Az egyes szórakoztatási célú berendezések és létesítmények biztonságos üzemeltetésével kapcsolatos, oktatásra történő feljogosításra vonatkozó szabályok
+
+### 24/P. §
+
+(1)[^113] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosítás iránti kérelmet országos illetékességgel a műszaki biztonsági feladatkörben eljáró Budapest Főváros Kormányhivatala bírálja el.
+
+(2)[^114] A műszaki biztonsági feladatkörben eljáró Budapest Főváros Kormányhivatala a szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra a következő szakterületeken adhat engedélyt:
+
+a) vízi csúszda kezelése,
+
+b) kalandpark, mászófal vagy kötélpálya üzemeltetése,
+
+c) gokart és quad jellegű jármű üzemeltetése, vagy
+
+d)[^115] az a)–c) pontba nem tartozó, az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. vagy II. veszélyességi osztályba tartozó berendezés, létesítmény kezelése.
+
+(3) A gazdálkodó szervezet az oktatásra vonatkozó feljogosítás iránti kérelmét a Budapest Főváros Kormányhivatala által meghatározott és hivatalos honlapján közzétett formanyomtatványon nyújthatja be. A kérelemben meg kell jelölni, hogy a gazdálkodó szervezet mely szakterületre vonatkozóan kéri az engedélyt.
+
+(4) Az oktatásra vonatkozó feljogosítás iránti kérelemhez mellékelni kell:
+
+a) a gazdálkodó szervezet nyilatkozatát arról, hogy rendelkezik legalább egy fő műszaki felsőfokú végzettségű munkatárssal,
+
+b) az oktatáshoz szükséges korszerű szakmai ismereteket tükröző tananyagot.
+
+(5) A (2) bekezdésben hivatkozott engedély 3 évig hatályos.
+
+## 13/J. [^116] A villamos berendezésekhez kapcsolódó, egyes továbbképzési kötelezettségekkel kapcsolatos hatósági jellegű képzésekre vonatkozó eljárási szabályok
+
+### 24/Q. §[^117]
+
+(1) A villamos biztonsági felülvizsgáló az ezen alcímben meghatározott, jogszabály alapján szervezett képzés keretében megszerezhető, 5 évenkénti továbbképzéshez kötött, műszaki biztonsági szempontból jelentős ipari képesítés.
+
+(2) Az (1) bekezdésben meghatározott munkakörben foglalkoztatottak képzésének eredményes elvégzéséről a képzést záró vizsga szervezője bizonyítványt, a továbbképzés eredményes elvégzéséről a továbbképzést záró vizsga szervezője továbbképzési igazolást állít ki.
+
+(3) Az érintésvédelmi szabványossági felülvizsgáló, az erősáramú berendezések felülvizsgálója 5 évenként továbbképzés elvégzésére köteles, mely kötelezettséget az (1) bekezdésben meghatározott továbbképzéssel teljesíti.
+
+### 24/R. §
+
+(1)[^118] A 24/Q. § (1) bekezdése szerinti képzés és továbbképzés (a továbbiakban együtt: képzés) az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által a (3) bekezdésben meghatározott feltételek teljesülése esetén kiadott engedély alapján tartható. Budapest Főváros Kormányhivatalának a képzési program jóváhagyását tartalmazó engedélye az engedély megadásának napjától számított 3 évig hatályos.
+
+(2) Budapest Főváros Kormányhivatala
+
+a)[^119] meghatározza és hivatalos honlapján közzéteszi a képzési programmal szemben támasztott, az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló miniszteri rendelet szerinti alapkövetelmények alapján a képzési program elkészítésének alapját képező, a szakterületnek megfelelő speciális szakmai követelményeket, a részletes vizsgakövetelményeket, valamint a 24/S. § (4) bekezdése szerinti képzési igazolás, bizonyítvány tartalmát,
+
+b)[^120] elbírálja a képzési program jóváhagyása iránti kérelmeket,
+
+c)[^121] ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
+
+(3)[^122] A 24/Q. § (2) bekezdés szerinti képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
+
+a) a képzést megelőző legalább egy évben elektronika és elektrotechnika ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
+
+b) rendelkezik a képzési területre vonatkozóan kidolgozott, a képzés felügyeletét ellátó hatóság által jóváhagyott képzési programmal, és
+
+c) rendelkezik a képzési programhoz kidolgozott, a hatályos műszaki biztonsági követelményeket tükröző, korszerű tananyagegységgel.
+
+(4)[^123] A képzés szervezője a képzési program jóváhagyása iránti kérelmét a (6) bekezdésben meghatározott adattartalommal a Budapest Főváros Kormányhivatal honlapján közzétett formanyomtatványon készíti el.
+
+(5)[^124] Ha a hatósági jóváhagyásra vonatkozó engedély időbeli hatálya letelt és a képzés szervezője a korábbi hatósági jóváhagyás időbeli hatálya alatt elmulasztotta a 24/S. § (1) bekezdésében foglalt kötelezettségét, a képzés szervezője hatósági jóváhagyás iránti kérelmet nem nyújthat be a korábbi hatósági jóváhagyás időbeli hatályának leteltét követő egy évig.
+
+(6)[^125] A képzési program jóváhagyása iránti kérelem tartalmazza
+
+a)[^126] a képzés szervezőjének nyilatkozatát a vizsga megszervezéséhez és lebonyolításához szükséges adatok rendelkezésre bocsátásáról,
+
+b)[^127] a képzés szervezőjének nyilatkozatát arról, hogy rendelkezik a képzéshez szükséges korszerű szakmai ismereteket tükröző tananyaggal,
+
+c)[^128] annak megjelölését, hogy a képzés szervezője mely képzés képzési programjának jóváhagyását kérelmezi,
+
+d)[^129] a képzési programot.
+
+### 24/S. §
+
+(1)[^130] A képzés szervezője a képzés kezdőnapját, tartamát és helyszínét Budapest Főváros Kormányhivatala részére a képzés kezdőnapját megelőzően legalább 8 nappal írásban vagy elektronikusan bejelenti. A képzés csak a bejelentést követően kezdhető meg.
+
+(2) A vizsga részletes szabályait a vizsga szervezője vizsgaszabályzatban rögzíti, és gondoskodik a vizsga lebonyolítását meghatározó módszertani útmutató elkészítéséről, a vizsgakérdések összeállításáról, valamint azok bejelentéséről Budapest Főváros Kormányhivatalának.
+
+(3)[^131] A képzés során vizsgáztató az lehet, aki szakirányú felsőfokú végzettséggel és a képzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik.
+
+(4)[^132] A vizsga eredményes teljesítését követően a vizsga szervezője a Budapest Főváros Kormányhivatala által jóváhagyott minta szerint készíti elő a kiállítandó képzési bizonyítványt és továbbképzési igazolást.
+
+(5)[^133] A vizsga szervezője a kiállított képzési bizonyítványokról, továbbképzési igazolásokról nyilvántartást vezet.
+
+### 24/T. §
+
+(1)[^134] A képzést lezáró vizsga megtartását – a (4) bekezdésben meghatározott eltéréssel – az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által kijelölt szervezetek végezhetik.
+
+(2)[^135] Az (1) bekezdés szerinti képzést lezáró vizsga megtartását Budapest Főváros Kormányhivatala annak a felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezetnek engedélyezi, amely
+
+a) a képzést megelőző legalább egy évben elektronika és elektrotechnika ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
+
+b) a képesítés tekintetében biztosítja olyan vizsgáztatószemély közreműködését, aki szakirányú felsőfokú végzettséggel és a képzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik,
+
+c) a képesítés tekintetében nem minősül képzésszervezőnek, és
+
+d) nyilatkozik, hogy a képzésszervezővel együttműködik a vizsga megszervezésében és lebonyolításában.
+
+(3) A (2) bekezdés szerinti engedély időbeli hatálya 3 év.
+
+(4)[^136] A képzésszervezők a képzést lezáró vizsga megtartását a (2) bekezdés szerint kijelölt szervezetektől kérhetik. Ha az adott képzési területen a vizsga megtartására nincs kijelölt szervezet, akkor a képzés szervezője látja el az általa szervezett képzést követő vizsga megtartásával kapcsolatos feladatokat.
+
+## 13/K. [^137] A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet és szórakozási célú sporteszköz megfelelőségértékelésére vonatkozó szabályok
+
+### 24/U. §
+
+A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet és szórakozási célú sporteszköz megfelelőségét a kijelölő hatóság által kijelölt tanúsító szervezetek a 3. mellékletben foglalt követelményeknek megfelelően igazolják.
+
+## 13/L. [^138] A gázipari műszaki biztonsági felülvizsgáló jogszabály alapján szervezett képzésre, valamint a gázipari területen műszaki-biztonsági szempontból foglalkoztatottak időszakos továbbképzésére vonatkozó eljárási szabályok
+
+### 24/V. §
+
+(1) A gázipari műszaki biztonsági felülvizsgáló az ezen alcímben meghatározott, jogszabály alapján szervezett képzés keretében megszerezhető műszaki biztonsági szempontból jelentős ipari képesítés gázipari területen.
+
+(2) A gázipari területen műszaki-biztonsági szempontból foglalkoztatottak időszakos továbbképzése képzési programjának jóváhagyása iránti kérelmet
+
+a) az ipari olaj- és gáztüzelő-berendezés kezelő munkakör, a kazánkezelő (max. 12 t/h) munkakör, a kazángépész (12 t/h felett) munkakör, az erőművi kazángépész munkakör, a gáz- és hőtermelő berendezés-szerelő munkakör, a gázszerelő munkakör, valamint a csatlakozó vezeték és felhasználói berendezések műszaki-biztonsági ellenőre munkakör esetében a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala,
+
+b)[^139] a földgázelosztó, vezetékes PB-gáz szolgáltató és célvezeték üzemeltetői munkakör, a földgázszállítói munkakörök, valamint a PB-gáz forgalmazással kapcsolatos munkakörök esetében a bányafelügyelet bírálja el.
+
+(3) A 24/W–24/Z. §-ban foglaltakat a gázipari területen műszaki-biztonsági szempontból foglalkoztatottak időszakos továbbképzése képzési programjának jóváhagyása tekintetében a (2) bekezdésében foglalt hatásköri szabályok megtartásával kell alkalmazni azzal, hogy képzés alatt továbbképzést, bizonyítvány alatt igazolást kell érteni, nincs szükség vizsga megtartására, továbbá a Magyar Mérnöki Kamara mint kérelmező esetében a 24/W. § (3) bekezdés a) pontját nem kell alkalmazni.
+
+### 24/W. §
+
+(1) A 24/V. § szerinti képzés Budapest Főváros Kormányhivatalának a (3) bekezdésben meghatározottak szerint kiadott engedélye alapján tartható. Budapest Főváros Kormányhivatalának a képzési program jóváhagyását tartalmazó engedélye a véglegessé válásától számított 3 évig hatályos.
+
+(2) Budapest Főváros Kormányhivatala
+
+a) a képzési programmal szemben támasztott, a 24/Z. § szerinti alapkövetelmények alapján meghatározza és hivatalos honlapján közzéteszi a képzési program elkészítésének alapját képező részletes szakmai követelményeket, a részletes vizsgakövetelményeket, valamint a 24/X. § (4) bekezdése szerinti képzési bizonyítvány tartalmát,
+
+b) elbírálja a képzési program jóváhagyása iránti kérelmeket,
+
+c) hatósági felügyeleti tevékenysége keretében a képzés helyszínén vagy adat- és iratbekérés útján, folyamatában vagy utólagosan ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
+
+(3) Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
+
+a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
+
+b) rendelkezik a képzési területre vonatkozóan kidolgozott, a képzés felügyeletét ellátó hatóság által jóváhagyott képzési programmal, és
+
+c) rendelkezik a képzési programhoz kidolgozott, a hatályos műszaki biztonsági követelményeket tükröző, korszerű tananyagegységgel.
+
+(4) A képzés szervezője a képzési program jóváhagyása iránti kérelmét az (5) bekezdésben meghatározott adattartalommal a Budapest Főváros Kormányhivatala által meghatározott és a hivatalos honlapján közzétett formanyomtatványon készíti el és csatolja a kérelméhez az elkészített részletes képzési programot.
+
+(5) A képzési program jóváhagyása iránti kérelem tartalmazza:
+
+a) a képzés szervezőjének nyilatkozatát a vizsga megszervezéséhez és lebonyolításához szükséges adatok rendelkezésre bocsátásáról,
+
+b) a képzés szervezőjének nyilatkozatát arról, hogy rendelkezik a képzéshez szükséges korszerű szakmai ismereteket tükröző tananyagegységgel,
+
+c) annak megjelölését, hogy a képzés szervezője mely képzés képzési programjának jóváhagyását kérelmezi,
+
+d) a képzési programot.
+
+### 24/X. §
+
+(1) A képzés szervezője a képzés kezdőnapját, tartamát és helyszínét Budapest Főváros Kormányhivatala részére a képzés kezdőnapját megelőzően legalább 8 nappal írásban vagy elektronikusan bejelenti. A képzés a bejelentést követően kezdhető meg.
+
+(2) A gázipari műszaki biztonsági felülvizsgáló képesítés megszerzésére irányuló képzés vizsgával zárul. A vizsga részletes szabályait a vizsga szervezője vizsgaszabályzatban rögzíti, és gondoskodik a vizsga lebonyolítását meghatározó módszertani útmutató elkészítéséről, a vizsgakérdések összeállításáról, valamint azok bejelentéséről Budapest Főváros Kormányhivatalának.
+
+(3) A képzést követő vizsgán vizsgáztató az lehet, aki szakirányú felsőfokú végzettséggel és a képzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik.
+
+(4) A vizsga eredményes teljesítését követően a vizsga szervezője a Budapest Főváros Kormányhivatala által meghatározott és a hivatalos honlapján közzétett minta szerint készíti elő a kiállítandó képzési bizonyítványt.
+
+### 24/Y. §
+
+(1) A képzést követő vizsga megtartását – a (4) bekezdésben meghatározott eltéréssel – Budapest Főváros Kormányhivatalának engedélyével rendelkező szervezetek végezhetik.
+
+(2) Az (1) bekezdés szerinti képzést követő vizsga megtartásában való közreműködést Budapest Főváros Kormányhivatala annak a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezetnek engedélyezi, amely
+
+a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
+
+b) a képesítés tekintetében biztosítja olyan vizsgáztatószemély közreműködését, aki szakirányú felsőfokú végzettséggel és a képzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik,
+
+c) a képesítés tekintetében nem minősül képzésszervezőnek, és
+
+d) nyilatkozik, hogy a képzésszervezővel együttműködik a vizsga megszervezésében és lebonyolításában.
+
+(3) A (2) bekezdés szerinti engedély időbeli hatálya 3 év.
+
+(4) A képzésszervezők a képzést követő vizsga megtartását az (1) bekezdés szerinti szervezetektől kérhetik. Ha az adott képesítés tekintetében a vizsga megtartására nincs engedéllyel rendelkező szervezet, akkor a képzés szervezője látja el az általa szervezett képzést követő vizsga megtartásával kapcsolatos feladatokat.
+
+### 24/Z. §
+
+(1) A 24/W. § (5) bekezdés d) pontjában említett képzési programnak a (2) bekezdésben meghatározott szakmai követelményekkel összhangban tartalmaznia kell
+
+a) a képzés megnevezését és célját,
+
+b) a képesítés munkaterületét és a képzés során megszerezhető kompetenciát,
+
+c) a képzésbe való bekapcsolódás és részvétel feltételeit,
+
+d) a tervezett képzési időt,
+
+e) a képzés formájának meghatározását (csoportos jelenléti képzés, egyéni felkészüléssel),
+
+f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és gyakorlati óraszámot,
+
+g) a maximális csoportlétszámot,
+
+h) a képzésben részt vevő teljesítményét értékelő rendszer leírását,
+
+i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló bizonyítvány, igazolás kiadásának feltételeit,
+
+j) a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket.
+
+(2) A gázipari műszaki biztonsági felülvizsgáló képesítés esetében a teljes képzési idő legalább 64 óra, melynek részeként a gyakorlati képzése legalább 16 óra, ami két 8 órás részre oszlik.
+
+## 13/M. [^140] Az ingyenes villamosenergia, illetve földgázhálózati csatlakozással összefüggő műszaki biztonsági hatósági tevékenységre vonatkozó különös szabályok
+
+### 24/AA. §
+
+A villamos energiáról szóló 2007. évi LXXXVI. törvény 27/A. § (2) bekezdése szerinti, valamint a földgázellátásról szóló 2008. évi XL. törvény 89/A. § (2) bekezdése szerinti, a csatlakozással kapcsolatos igazolt költségeknek a megtérítésére vonatkozó eljárás kereteit a 4. melléklet tartalmazza.
+
+## 14. [^141] A Budapest Főváros Kormányhivatala eljárásaiban vizsgálandó szakkérdések
+
+### 25. §
+
+(1) Budapest Főváros Kormányhivatala a lovas szolgáltató tevékenységgel kapcsolatos nyilvántartásba vételi eljárásában szakkérdésként vizsgálja az állat-egészségügyi, állatvédelmi követelményeknek való megfelelés kérdését.
+
+(2) Budapest Főváros Kormányhivatala a gyógyszertárnak a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet 3. § (2) bekezdésében meghatározott hivatalos feladatai körébe nem sorolható, kábítószer-prekurzorral kapcsolatos tevékenységére vonatkozó kérelem elbírálására irányuló eljárásban népegészségügyi szakkérdésként vizsgálja a kábítószer-prekurzor tárolása és felhasználása dokumentációja szabályai megtartását.
+
+## 15.[^142] A feszültség alatti munkavégzéshez használt eszközök és rendszerek vonatkozásában megfelelőségértékelési tevékenység végzésére jogosult szervek kijelölésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 26. §
+
+(1) A feszültség alatti munkavégzéshez használt eszközöknek és rendszereknek a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló miniszteri rendeletben foglalt követelményei – ide nem értve az egyéni védőeszközök megfelelőségének értékelésével kapcsolatos követelményeket – tekintetében a 24. § d) pontjában meghatározott kijelölő hatóság jelöli ki a termékek megfelelőségértékelésére jogosult szerveket a következő tevékenységekre:
+
+a) átvételi vizsgálatok (szemrevételezéses vizsgálat, méret szerinti vizsgálat, működési minőség vizsgálat, mechanikai vizsgálat, villamos vizsgálat),
+
+b) időszakos ellenőrző vizsgálat.
+
+(2) A kijelölő hatóság abban az esetben rendelkezik a kijelölésről, ha a megfelelőségértékelő szervezet teljesíti az 5. mellékletben meghatározott követelményeket.
+
+(3) A kijelölő hatóság visszavonja a kijelölést, ha a szervezet már nem felel meg az 5. mellékletben meghatározott követelményeknek.
+
+## 15/A.[^143] A veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenység végzésére jogosult szervek kijelölésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+
+### 27. §[^144]
+
+(1) A veszélyes áruk szállítására használt nyomástartó tartályok, tartányok – ide nem értve a szállítható nyomástartó berendezéseket és a vasúti kocsira szerelt tartályokat – ADR-ben és RID-ben foglalt követelményei tekintetében a 24. § f) pontjában meghatározott kijelölő hatóság jelöli ki a termékek megfelelőségértékelésére jogosult szerveket a következő tevékenységekre:
+
+a) típusvizsgálat,
+
+b) típusjóváhagyás,
+
+c) gyártás felügyelete,
+
+d) üzembe helyezés előtti vizsgálat,
+
+e) gyártó minőségbiztosítási rendszerének jóváhagyása,
+
+f) gázpalackok, palackkötegek 15 éves vizsgálati időközének engedélyezése (rendszertanúsítás).
+
+(2) A kijelölő hatóság rendelkezik a kijelölésről, ha a megfelelőségértékelő szervezet teljesíti a 6. mellékletben meghatározott követelményeket.
+
+(3) A kijelölő hatóság visszavonja a kijelölést, ha a szervezet már nem felel meg a 6. mellékletben meghatározott követelményeknek.
+
+## 16. Záró rendelkezések
+
+### 32. §[^149]
+
+Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+
+a) a szállítható nyomástartó berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,
+
+b) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú gáztárolók és üzemi berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^150]
+
+c) a gázüzemű közúti jármű, munkagép és nem közúti gép üzemanyag-ellátó berendezés üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire,
+
+d) a veszélyes áruk szállítására használt nem nyomástartó tartály, tartány, csomagolóeszköz (kivéve az ezek szállítására szolgáló szállítóeszköz) üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire, feltételeire,
+
+e) ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosító, gáz- és olajfogyasztó technológiai rendszer, létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^151]
+
+f) a nyomástartó berendezésnek, gáztárolónak, veszélyes folyadékok és olvadékok tárolótartályának, valamint gáz- és olajfogyasztó technológiának nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt előállító vagy tároló berendezés, létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,
+
+g)[^152] a villamos felhasználói és összekötő berendezések, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek üzembe helyezésének műszaki követelményeit tartalmazó Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, valamint a villamos biztonsági felülvizsgáló – mint műszaki biztonsági szempontból jelentős munkakörök esetén – szükséges továbbképzések követelményeire,
+
+h) a hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakításánál vagy javításánál ömlesztőhegesztést végző gazdálkodó szervezet tevékenysége megkezdésének és folytatásának feltételeire, a gazdálkodó szervezetekről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára,
+
+i) az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékére, valamint a díjak fizetésére
+
+vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+### 33. §
+
+Ez a rendelet 2017. január 1-jén lép hatályba.
+
+### 33/A. §[^153]
+
+E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^154] folyamatban lévő ügyekben is alkalmazni kell.
+
+### 34. §
+
+(1) E rendelet
+
+1\. a 2005/32/EK európai parlamenti és tanácsi irányelvnek a tömszelence nélküli önálló keringetőszivattyúkra, illetve termékekbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezetbarát tervezési követelmények tekintetében történő végrehajtásáról szóló, 2009. július 22-i 641/2009/EK bizottsági rendelet 5. cikkének,
+
+2.[^155] az elektromos motorokra és a frekvenciaváltókra vonatkozó környezettudatos tervezési követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti megállapításáról, a 641/2009/EK rendeletnek a tömszelence nélküli önálló keringetőszivattyúkra és a termékbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezettudatos tervezési követelmények tekintetében történő módosításáról és a 640/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1781 bizottsági rendelet 6. cikkének
+
+3\. a 2005/32/EK európai parlamenti és tanácsi irányelvnek a beépített előtét nélküli fénycsövek, nagy intenzitású kisülőlámpák és az ilyen lámpák működtetésére alkalmas előtétek és lámpatestek környezetbarát tervezési követelményei tekintetében történő végrehajtásáról, valamint a 2000/55/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. március 18-i 245/2009/EK bizottsági rendelet 5. cikkének,
+
+4.[^156]
+
+5.[^157]
+
+6.[^158] a külső tápegységek környezettudatos tervezésére vonatkozó követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról, valamint a 278/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1782 bizottsági rendelet 5. cikkének,
+
+7.[^159] a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet,
+
+8\. az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet I. fejezet 2. cikk 8. pontjának, valamint az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes rendelkezések megállapításáról szóló, 2008. október 17-i 1024/2008/EK bizottsági rendelet I. fejezet 2. cikk 4. pontjának,
+
+9\. az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének, 29. cikk (1) bekezdésének, 39. cikkének,
+
+10\. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló, 2012. március 23-i 267/2012/EU tanácsi rendelet,
+
+11.[^160] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésének
+
+12\. a 2009/125/EK európai parlamenti és tanácsi irányelvnek a számítógépek és a kiszolgáló számítógépek környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2013. június 26-i 617/2013/EU bizottsági rendelet,
+
+13\. a 2010/30/EU európai parlamenti és tanácsi irányelvnek a porszívók energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló, 2013. május 3-i 665/2013/EU felhatalmazáson alapuló bizottsági rendelet,
+
+14.[^161]
+
+15\. a 2010/30/EU európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések, a kombinált fűtőberendezések, a helyiségfűtő berendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok, valamint a kombinált fűtőberendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló, 2013. február 18-i 811/2013/EU felhatalmazáson alapuló bizottsági rendelet,
+
+16\. a 2010/30/EU európai parlamenti és tanácsi irányelvnek a vízmelegítők, a melegvíz-tároló tartályok, valamint a vízmelegítőből és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló, 2013. február 18-i 812/2013/EU felhatalmazáson alapuló bizottsági rendelet,
+
+17\. a 2009/125/EK európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések és a kombinált fűtőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2013. augusztus 2-i 813/2013/EU bizottsági rendelet
+
+18.[^162] a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének és 16. cikkének
+
+19.[^163] a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésének
+
+20.[^164] az (EU) 2023/1542 rendelet 22. cikk (1) és (2) bekezdésének
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2)[^165] Ez a rendelet
+
+1\. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
+
+2\. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
+
+3\. a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+4\. a játékok biztonságáról szóló, 2009. június 18-i 2009/48/EK európai parlamenti és tanácsi irányelvnek,
+
+5\. az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi irányelvnek,
+
+6\. a szállítható nyomástartó berendezésekről és a 76/767/EGK, 84/525/EGK, 84/526/EGK, 84/527/EGK és az 1999/36/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. június 16-i 2010/35/EU európai parlamenti és tanácsi irányelvnek,
+
+7\. az egyszerű nyomástartó edények forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/29/EU európai parlamenti és tanácsi irányelvnek,
+
+8\. a nem automatikus működésű mérlegek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/31/EU európai parlamenti és tanácsi irányelvnek,
+
+9\. a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelvnek,
+
+10\. a felvonókra és a felvonókhoz készült biztonsági berendezésekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/33/EU európai parlamenti és tanácsi irányelvnek,
+
+11\. a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek,
+
+12\. a meghatározott feszültséghatáron belüli használatra tervezett elektromos berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/35/EU európai parlamenti és tanácsi irányelvnek,
+
+13\. a nyomástartó berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. május 15-i 2014/68/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^167]
+
+<table><tbody><tr><td></td><td>A</td><td>B</td></tr><tr><td colspan="3">**A mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatal**</td></tr><tr><td>1.</td><td>megnevezése</td><td>illetékességi területe</td></tr><tr><td rowspan="2">2.</td><td rowspan="2">Budapest Főváros Kormányhivatala</td><td>mérésügyi eljárásokban: Budapest főváros, Pest vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Budapest főváros, Pest vármegye, valamint Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe</td></tr><tr><td rowspan="2">3.</td><td rowspan="2">Hajdú-Bihar Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye,</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye,</td></tr><tr><td rowspan="2">4.</td><td rowspan="2">Jász-Nagykun-Szolnok Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Jász-Nagykun-Szolnok vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Jász-Nagykun-Szolnok vármegye</td></tr><tr><td rowspan="2">5.</td><td rowspan="2">Győr-Moson-Sopron Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Győr-Moson-Sopron vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Győr-Moson-Sopron vármegye</td></tr><tr><td rowspan="2">6.</td><td rowspan="2">Vas Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Vas vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Vas vármegye</td></tr><tr><td rowspan="2">7.</td><td rowspan="2">Zala Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Zala vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Zala vármegye</td></tr><tr><td rowspan="2">8.</td><td rowspan="2">Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Nógrád vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye</td></tr><tr><td rowspan="2">9.</td><td rowspan="2">Baranya Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Baranya vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Baranya vármegye, Somogy vármegye, Tolna vármegye</td></tr><tr><td>10.</td><td>Somogy Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Somogy vármegye</td></tr><tr><td>11.</td><td>Tolna Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Tolna vármegye</td></tr><tr><td rowspan="2">12.</td><td rowspan="2">Csongrád-Csanád Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Bács-Kiskun vármegye, Csongrád-Csanád vármegye, Békés vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Bács-Kiskun vármegye, Csongrád-Csanád vármegye, Békés vármegye</td></tr><tr><td rowspan="2">13.</td><td rowspan="2">Fejér Vármegyei Kormányhivatal</td><td>mérésügyi eljárásokban: Fejér vármegye, Veszprém vármegye, Komárom-Esztergom vármegye</td></tr><tr><td>műszaki biztonsági, építésügyi eljárásokban: Fejér vármegye – kivéve Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe –, valamint Veszprém vármegye, Komárom-Esztergom vármegye</td></tr></tbody></table>
+
+## 2. melléklet a 365/2016. (XI. 29.) Korm. rendelethez
+
+**A 17. §-ban meghatározott szervezetekre vonatkozó követelmények**
+
+I. Személyi, szakmai feltétel: a személyzet feleljen meg az alábbi képzettségi és jártassági követelményeknek:
+
+1\. Műszaki egyetemi (főiskolai) diploma (oklevél).
+
+2\. Hegesztés szakirányú képzettség, amely lehet:
+
+a) okleveles hegesztő mérnök,
+
+b) okleveles hegesztő szakmérnök,
+
+c) hegesztő tudományos fokozat,
+
+d) IWE, EWE nemzetközi, európai hegesztő mérnök.
+
+3\. Legalább 5 év szakirányú gyakorlat.
+
+II. Tárgyi feltétel:
+
+a) a szervezet rendelkezzen a tevékenységi területre vonatkozó szabványokkal és egyéb műszaki előírásokkal;
+
+b) a szervezetnek legyen belső szabályzata az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának vizsgálatára és értékelésére;
+
+c)[^168] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
+
+d)[^169]
+
+## 3. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^170]
+
+**A szórakoztatási célú berendezések, létesítmények, ideiglenes szerkezetek és szórakozási célú sporteszközök tekintetében kijelölt megfelelőségértékelő szervezetekre vonatkozó követelmények**
+
+1\. A kijelölt szervezet feladata
+
+a)[^171] az új szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, valamint a vasalt út kivételével a szórakozási célú sporteszköz tanúsítási eljárása és műszaki ellenőrzése során
+
+*aa)* a szórakoztatási célú berendezésre, létesítményre, ideiglenes szerkezetre, szórakozási célú sporteszközre vonatkozó szabványok és műszaki előírások alapján a kiviteli tervdokumentáció szakszerűségének, tartalmi és formai megfelelőségének ellenőrzése,
+
+*ab)* a tervező jogosultságának és a gyártó szakmai alkalmasságának ellenőrzése,
+
+*ac)* a kivitelezési dokumentáció teljeskörűségének és tartalmának ellenőrzése,
+
+*ad)* a tanúsítási eljárást megelőző szakági ellenőrzések jegyzőkönyveiben foglaltak figyelembevétele,
+
+*ae)*[^172] a tudomány és a technika mindenkori állása szerinti műszaki-technikai és biztonságossággal összefüggő ismeretek alapján műszaki ellenőrzés elvégzése, és az üzemeltetési korlátok meghatározása, ha adott szórakoztatási célú berendezésre, létesítményre, ideiglenes szerkezetre, szórakozási célú sporteszközre nincs szabvány vagy műszaki előírás,
+
+*af)* az előírt üzemeltetési korlátoknak és annak ellenőrzése, hogy az üzemeltetési korlátok üzemkörülmények közötti érvényesülése biztosított-e,
+
+*ag)* a felállított szerkezet telepítése tervszerűségének a vizsgálat időpontjában történő ellenőrzése,
+
+*ah)* a próbaüzem felügyelete,
+
+*ai)* az ellenőrzési dokumentáció elkészítése, valamint
+
+*aj)*[^173] a megfelelőségi tanúsítvány, a kondipark és az állandóra telepített kültéri fitneszeszközök esetében a típusvizsgálati tanúsítvány és a gyártói megfelelőségi nyilatkozat figyelembevételével a biztonságos használatra való alkalmasságot igazoló jegyzőkönyv kiállítása;
+
+b)[^174] az időszakos műszaki ellenőrzés elvégzése során
+
+*ba)* a szórakoztatási célú berendezés, létesítmény üzemeltetési naplójában foglaltak ellenőrzése,
+
+*bb)* az időszakos szakági felülvizsgálatok, karbantartási munkák és eszköz-felülvizsgálatok jegyzőkönyveiben foglaltak ellenőrzése,
+
+*bc)* a független szakértői felülvizsgálatokat végzők jogosultságának ellenőrzése,
+
+*bd)* a felállított szerkezet általános állapotának és a tényleges felállítás tervszerűségének szemrevételezéses ellenőrzése,
+
+*be)* a szerkezet üzemének próbajárat során történő ellenőrzése,
+
+*bf)* az ellenőrzési dokumentáció elkészítése,
+
+*bg)*[^175] a megfelelőségi tanúsítvány hatályának meghosszabbítása, a kondipark és az állandóra telepített kültéri fitneszeszközök esetében a biztonságos használatra való alkalmasságot igazoló jegyzőkönyv kiállítása, valamint
+
+*bh)*[^176] az időszakos műszaki ellenőrzés időpontjának és hatálya lejártának a megfelelőségi tanúsítványba és a szórakoztatási célú berendezés, létesítmény esetében az időszakos műszaki ellenőrzés időpontjának az üzemeltetési naplóba történő bejegyzése;
+
+c) az üzemeltető megváltozása esetén az üzemeltetőváltást átvezetni a megfelelőségi tanúsítványban és a szórakoztatási célú berendezés, létesítmény üzemeltetési naplójában az üzemeltetőváltást igazoló dokumentum új üzemeltető általi bemutatása esetén.
+
+2.[^177] Ha az első használatbavétel előtt elvégzett műszaki ellenőrzés során a kijelölt szervezet megállapítja a szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, valamint a vasalt út kivételével a szórakozási célú sporteszköz biztonságossági és műszaki követelményeknek való megfelelését, ennek igazolására a kijelölő hatóság által meghatározott adattartalmú megfelelőségi tanúsítványt, az állandóra telepített kültéri fitneszeszközök esetében a biztonságos használatra való alkalmasságot igazoló jegyzőkönyvet ad ki, és a szórakoztatási célú berendezés, létesítmény esetében hitelesíti annak üzemeltetési naplóját.
+
+3.[^178] Ha a kijelölt szervezet által kiállított tanúsítvány önmagában nem biztosítja a szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz egyértelmű beazonosítását, a kijelölt szervezet a tanúsítványhoz vagy a használatra való alkalmasságot igazoló jegyzőkönyvhöz mellékeli az azonosítást lehetővé tevő pályarajz, elrendezési vázrajz, helyszínrajz vagy a berendezésről, létesítményről, sporteszközről, ideiglenes szerkezetről készült fénykép egy példányát.
+
+4.[^179] Ha az üzemeltetés helyszínén több szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz található, a kijelölt szervezet a tanúsítványban vagy a használatra való alkalmasságot igazoló jegyzőkönyvben minden szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet, szórakozási célú sporteszközt beazonosításra alkalmas módon külön-külön feltüntet.
+
+## 4. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^180]
+
+***Az ingyenes villamosenergia, illetve földgázhálózati csatlakozással összefüggő műszaki biztonsági hatósági tevékenységre vonatkozó különös szabályok***
+
+1\. A villamos energiáról szóló 2007. évi LXXXVI. törvény 27/A. § (2) bekezdése szerinti eljárása során a villamos energia közcélú hálózatra történő csatlakozással összefüggő költségek igazolt mértékének megállapításánál a műszaki biztonsági hatóság figyelembe veszi a villamos energiáról szóló törvény végrehajtásáról szóló jogszabály szerinti, a legkisebb költség elvének az igazolt költségek mértékére való alkalmazására vonatkozó előírásokat.
+
+2\. A földgázellátásról szóló 2008. évi XL. törvény 89/A. § (2) bekezdése szerinti eljárása során a földgáz elosztóvezetékre történő csatlakozással összefüggő költségek igazolt mértékének megállapításánál a műszaki biztonsági hatóság figyelembe veszi a földgázellátásról szóló törvény végrehajtásáról szóló jogszabály szerinti, a legkisebb költség elvének az igazolt költségek mértékére való alkalmazására vonatkozó előírásokat.
+
+## 5. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^181]
+
+**A feszültség alatti munkavégzéshez használt eszközök és rendszerek megfelelőségértékelését végző szervekre vonatkozó követelmények**
+
+1\. A megfelelőségértékelő szervezet az MSZ EN ISO/IEC 17025 szabvány szerint akkreditációval rendelkezik mindazokon a területeken, amelyeken a kérelmezett megfelelőségértékelési tevékenységet végezni kívánja, és e tevékenységek végzéséhez a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló miniszteri rendelet az ISO/IEC 17025 szabvány szerinti akkreditációt előírja.
+
+2\. A megfelelőségértékelő szervezet szervezetbe integrált, alkalmas, hozzáértő, szakképzett és gyakorlott személyzettel rendelkezik, hogy műszaki feladatait megfelelő módon végezhesse.
+
+3\. A megfelelőségértékelő szervezetnél alkalmas és elegendő berendezésnek és felszerelésnek kell rendelkezésre állnia.
+
+4\. A megfelelőségértékelő szervezet részrehajlás nélkül működik, és minden olyan hatástól mentes, ami ebben akadályozhatná.
+
+5\. A megfelelőségértékelő szervezet a gyártók és más szervezetek kereskedelmi és tulajdonjogi védelmet élvező tevékenységeit üzleti titokként kezeli.
+
+6\. A megfelelőségértékelő szervezet egyértelműen elkülöníti a vizsgáló szervezeti funkcióit és az ezzel nem kapcsolatos tevékenységet.
+
+7\. A megfelelőségértékelő szervezet dokumentált minőségbiztosítási rendszerrel rendelkezik.
+
+8\. A megfelelőségértékelő szervezet biztosítja, hogy a vonatkozó szabványokban és a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló miniszteri rendeletben szereplő vizsgálatokat elvégezzék.
+
+9\. A megfelelőségértékelő szervezet a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló miniszteri rendeletben foglaltak szerinti célszerű és megfelelő jegyzőkönyvezési és okirat-nyilvántartási rendszert működtet.
+
+10\. A megfelelőségértékelő szervezet biztosítja, hogy független legyen minden üzleti vagy pénzügyi nyomásgyakorlástól, alkalmazottai javadalmazása nem függhet sem az elvégzett vizsgálatok számától, sem azok eredményétől.
+
+11\. A megfelelőségértékelő szervezet rendelkezik felelősségbiztosítással az általa végzett tevékenységek kockázatára vonatkozóan.
+
+12\. A megfelelőségértékelő szervezet rendelkezik a vizsgálatok végrehajtásáért felelős személyzettel, mely esetében biztosítja a 12.1–12.5. alpontban meghatározott feltételek teljesülését:
+
+12.1. A vizsgálatok végrehajtásáért felelős személyzet közvetlenül nem vesz részt a vizsgálandó termék tervezésében, gyártásában, szállításában, üzembe helyezésében, beszerzésében, tulajdonlásában, használatában vagy karbantartásában.
+
+12.2. A vizsgálatok végrehajtásáért felelős személyzet képzett azon vizsgálati tevékenységek minden területén, amelyekre a megfelelőségértékelő szervezet kijelöléssel rendelkezik.
+
+12.3. A vizsgálatok végrehajtásáért felelős személyzet megfelelő szaktudással, műszaki jártassággal, valamint az alkalmazandó követelmények és szabványok ismeretével rendelkezik.
+
+12.4. A vizsgálatok végrehajtásáért felelős személyzet képes elkészíteni a végrehajtott értékelést bemutató bizonyítványokat, jegyzőkönyveket, jelentéseket.
+
+12.5. A vizsgálatok végrehajtásáért felelős személyzet a tevékenysége során tudomására jutott információkkal kapcsolatban betartja a szakmai titoktartás szabályait. Más vizsgáló szervezetek kérésére az információk megoszthatók, amennyiben azok a vizsgálatok és próbák elvégzéséhez szükségesek.
+
+## 6. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^182]
+
+**A veszélyes áruk szállítására használt nyomástartó tartályok, tartányok megfelelőségértékelését végző szervekre vonatkozó követelmények**
+
+1\. A megfelelőségértékelő szervezet az MSZ EN ISO/IEC 17020 szabvány szerint akkreditációval rendelkezik mindazokon a területeken, amelyeken a kérelmezett megfelelőségértékelési tevékenységet végezni kívánja, és e tevékenységek végzéséhez a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló kormányrendelet (a továbbiakban: ADR) és a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló kormányrendelet (a továbbiakban: RID) az EN ISO/IEC 17020 szabvány szerinti akkreditációt előírja.
+
+2\. A megfelelőségértékelő szervezet szervezetbe integrált, alkalmas, hozzáértő, szakképzett és gyakorlott személyzettel rendelkezik, hogy műszaki feladatait megfelelő módon végezhesse.
+
+3\. A megfelelőségértékelő szervezetnél alkalmas és elegendő berendezésnek és felszerelésnek kell rendelkezésre állnia.
+
+4\. A megfelelőségértékelő szervezet részrehajlás nélkül működik, és minden olyan hatástól mentes, ami ebben akadályozhatná.
+
+5\. A megfelelőségértékelő szervezet a gyártók és más szervezetek kereskedelmi és tulajdonjogi védelmet élvező tevékenységeit üzleti titokként kezeli.
+
+6\. A megfelelőségértékelő szervezet egyértelműen elkülöníti a vizsgáló szervezeti funkcióit és az ezzel nem kapcsolatos tevékenységet.
+
+7\. A megfelelőségértékelő szervezet dokumentált minőségbiztosítási rendszerrel rendelkezik.
+
+8\. A megfelelőségértékelő szervezet biztosítja, hogy a vonatkozó szabványokban és az ADR-ben és a RID-ben szereplő vizsgálatokat elvégezzék.
+
+9\. A megfelelőségértékelő szervezet az ADR és a RID 1.8.7. és 1.8.8. szakaszában foglaltak szerinti célszerű és megfelelő jegyzőkönyvezési és okirat-nyilvántartási rendszert működtet.
+
+10\. A megfelelőségértékelő szervezet biztosítja, hogy független legyen minden üzleti vagy pénzügyi nyomásgyakorlástól, alkalmazottai javadalmazása nem függhet sem az elvégzett vizsgálatok számától, sem azok eredményétől.
+
+11\. A megfelelőségértékelő szervezet rendelkezik felelősségbiztosítással az általa végzett tevékenységek kockázatára vonatkozóan.
+
+12\. A megfelelőségértékelő szervezet rendelkezik a vizsgálatok végrehajtásáért felelős személyzettel, mely esetében biztosítja a 12.1–12.5. alpontban meghatározott feltételek teljesülését:
+
+12.1. A vizsgálatok végrehajtásáért felelős személyzet közvetlenül nem vesz részt a vizsgálandó termék tervezésében, gyártásában, szállításában, üzembe helyezésében, beszerzésében, tulajdonlásában, használatában vagy karbantartásában.
+
+12.2. A vizsgálatok végrehajtásáért felelős személyzet képzett azon vizsgálati tevékenységek minden területén, amelyekre a megfelelőségértékelő szervezet kijelöléssel rendelkezik.
+
+12.3. A vizsgálatok végrehajtásáért felelős személyzet megfelelő szaktudással, műszaki jártassággal, valamint az alkalmazandó követelmények, szabványok, valamint az ADR és a RID 4. és 6. részében foglalt előírások ismeretével rendelkezik.
+
+12.4. A vizsgálatok végrehajtásáért felelős személyzet képes elkészíteni a végrehajtott értékelést bemutató bizonyítványokat, jegyzőkönyveket, jelentéseket.
+
+12.5. A vizsgálatok végrehajtásáért felelős személyzet a tevékenysége során tudomására jutott információkkal kapcsolatban betartja a szakmai titoktartás szabályait. Más vizsgáló szervezetek kérésére az információk megoszthatók, amennyiben azok a vizsgálatok és próbák elvégzéséhez szükségesek.
+
+## 7. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^183]
+
+## 8. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^184]
+
+## 9. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^185]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 414/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdés a) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (1b) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 37/2021. (II. 2.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^4]: Az 1. § (1c) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (1d) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja, a 414/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdés a) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (3) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (1) bekezdésével megállapított, nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^8]: Az 1. § (3) bekezdés b) pontja a 198/2019. (VIII. 1.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (3) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 157. § (9) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: Az 1. § (4) bekezdés nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 21. § d) pontja, a 414/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdés a) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § (4) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: Az 1. § (4) bekezdés b) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^13]: Az 1. § (4) bekezdés d) pontját a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: Az 1. § (4) bekezdés e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 1. § (4) bekezdés g) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 133/2019. (VI. 5.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^16]: Az 1. § (4) bekezdés h) pontját a 80/2018. (IV. 20.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 157. § (9) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. § (4a) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 19. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja, a 414/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdés a) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^18]: Az 1. § (5) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 1. § (6) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^20]: A 2. § (1) bekezdés nyitó szövegrésze a 80/2018. (IV. 20.) Korm. rendelet 20. § c) pontjával megállapított szöveg.
+[^21]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^22]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^23]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte, újonnan a 37/2021. (II. 2.) Korm. rendelet 11. §-a iktatta be.
+[^24]: A 3. § (2) bekezdés i) pontja a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 3. § (2a) bekezdését a 258/2024. (VIII. 29.) Korm. rendelet 12. §-a iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 153. § a) pontja hatályon kívül helyezte.
+[^26]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 3/A. alcímet (3/A. §) a 37/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
+[^29]: A 4. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^30]: A 4. § (2) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^31]: A 4. § (3) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^32]: A 10. § a 80/2018. (IV. 20.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
+[^33]: A 11. § (2) bekezdése az 508/2017. (XII. 29.) Korm. rendelet 48. §-a szerint módosított szöveg.
+[^34]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^35]: A 12. § (2) bekezdés e) pontja a 178/2019. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^36]: A 12. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 585. § a) pontja hatályon kívül helyezte, újonnan a 80/2018. (IV. 20.) Korm. rendelet 19. § (8) bekezdése iktatta be.
+[^37]: A 12. § (4) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 42. § (1) bekezdése iktatta be.
+[^38]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (5) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^39]: A 13. § (2) bekezdés b) pontját a 190/2020. (V. 7.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^40]: A 13. § (2) bekezdés c) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^41]: A 13. § (2) bekezdés d) pontja a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^42]: A 13. § (2) bekezdés e) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^43]: A 13. § (2) bekezdés f) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^44]: A 13. § (2) bekezdés g) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^45]: A 13. § (2) bekezdés f) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^46]: A 13. § (3) bekezdés nyitó szövegrésze a 80/2018. (IV. 20.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
+[^47]: A 13. § (3) bekezdés a) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (11) bekezdésével megállapított szöveg.
+[^48]: A 13. § (3) bekezdés c) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^49]: A 13. § (3) bekezdés d) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^50]: A 13. § (3) bekezdés e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (12) bekezdésével megállapított szöveg.
+[^51]: A 13. § (3) bekezdés h) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^52]: A 13. § (3) bekezdés j) pontját a 385/2024. (XII. 9.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^53]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^55]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be, szövege a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 13. § (4) bekezdését a 342/2025. (X. 31.) Korm. rendelet 37. § a) pontja hatályon kívül helyezte.
+[^57]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^58]: A 14. § (2) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^59]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^60]: A 14. § (2) bekezdés c) pontja a 385/2024. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^61]: A 14. § (2) bekezdés g) pontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^62]: A 15. § (1) bekezdés b) pontja a 713/2020. (XII. 30.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^63]: A 16. § a 360/2019. (XII. 30.) Korm. rendelet 157. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^64]: A 16. § (1) bekezdés nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
+[^65]: A 16. § (4) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
+[^66]: A 16. § (5) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 216. §-a hatályon kívül helyezte.
+[^67]: A 17. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (14) bekezdésével megállapított szöveg.
+[^68]: A 17. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 583. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^69]: A 17. § (4) bekezdését a 342/2025. (X. 31.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
+[^70]: A 17/A. §-t a 80/2018. (IV. 20.) Korm. rendelet 19. § (15) bekezdése iktatta be.
+[^71]: A 18. §-t a 216/2019. (IX. 5.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^73]: A 20. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 585. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^74]: A 20. § (4) bekezdését a 216/2019. (IX. 5.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
+[^75]: A 20. § (5) bekezdését a 216/2019. (IX. 5.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
+[^76]: A 20. § (6) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^77]: A 20. § (7) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^79]: A 21/A. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^80]: A 21/B. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^81]: A 21/C. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^82]: A 22. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (7) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^83]: A 22. § (2) bekezdés l) pontja a 385/2024. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^84]: A 22. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (9) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^85]: A 22. § (3a) bekezdését a 711/2021. (XII. 17.) Korm. rendelet 9. §-a iktatta be, szövege a 131/2026. (VIII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^86]: A 22. § (3b) bekezdését a 131/2026. (VIII. 28.) Korm. rendelet 18. §-a iktatta be, szövege e módosító rendelet 19. §-a szerint módosított szöveg.
+[^87]: A 22. § (4) bekezdését a 385/2024. (XII. 9.) Korm. rendelet 7. §-a iktatta be.
+[^88]: A 11/A. alcímet (22/A. §-t) a 414/2023. (VIII. 30.) Korm. rendelet 1. §-a iktatta be, a 385/2024. (XII. 9.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^89]: A 11/B. alcímet (22/B. §-t) a 285/2024. (IX. 30.) Korm. rendelet 122. §-a iktatta be.
+[^90]: A 23. § a 190/2020. (V. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^91]: A 23/A. §-t a 414/2023. (VIII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^92]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított, a 198/2019. (VIII. 1.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^93]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^94]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^95]: A 24. § h) pontját újonnan a 414/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^96]: A 24. § i) pontját a 385/2024. (XII. 9.) Korm. rendelet 8. §-a iktatta be.
+[^97]: A 13/A. alcímet (24/A. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^98]: A 24/A. § (1) bekezdés nyitó szövegrésze a 385/2024. (XII. 9.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^99]: A 24/A. § (1) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 24/A. § (2) bekezdését a 414/2023. (VIII. 30.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^101]: A 24/A. § (4) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^102]: A 24/A. § (5) bekezdését a 385/2024. (XII. 9.) Korm. rendelet 9. §-a iktatta be.
+[^103]: A 13/B. alcímet (24/B. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^104]: A 24/B. § (1) bekezdése a 414/2023. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^105]: A 13/C. alcímet (24/C. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^106]: A 13/D. alcímet (24/D–24/E. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^107]: A 13/E. alcímet (24/F. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^108]: A 13/F. alcímet (24/G–24/H. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^109]: A 13/G. alcímet (24/I–24/J. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^110]: A 13/H. alcímet (24/K–24/O. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^111]: A 24/L. § (5) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^112]: A 13/I. alcímet (24/P. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^113]: A 24/P. § (1) bekezdése a 414/2023. (VIII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^114]: A 24/P. § (2) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^115]: A 24/P. § (2) bekezdés d) pontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés e) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^116]: A 13/J. alcímet (24/Q–24/T. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^117]: A 24/Q. § a 447/2021. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^118]: A 24/R. § (1) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés c) és e) pontja szerint módosított szöveg.
+[^119]: A 24/R. § (2) bekezdés a) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés d)–e) pontja szerint módosított szöveg.
+[^120]: A 24/R. § (2) bekezdés b) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^121]: A 24/R. § (2) bekezdés c) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^122]: A 24/R. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^123]: A 24/R. § (4) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^124]: A 24/R. § (5) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^125]: A 24/R. § (6) bekezdés nyitó szövegrésze a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^126]: A 24/R. § (6) bekezdés a) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^127]: A 24/R. § (6) bekezdés b) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h)–i) pontja szerint módosított szöveg.
+[^128]: A 24/R. § (6) bekezdés c) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^129]: A 24/R. § (6) bekezdés d) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^130]: A 24/S. § (1) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^131]: A 24/S. § (3) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^132]: A 24/S. § (4) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés j) pontja szerint módosított szöveg.
+[^133]: A 24/S. § (5) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés k) pontja szerint módosított szöveg.
+[^134]: A 24/T. § (1) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^135]: A 24/T. § (2) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^136]: A 24/T. § (4) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e)–f) és h) pontja szerint módosított szöveg.
+[^137]: A 13/K. alcímet (24/U. §) a 190/2020. (V. 7.) Korm. rendelet 12. §-a iktatta be.
+[^138]: A 13/L. alcímet (24/V–24/Z. §) a 447/2021. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^139]: A 24/V. § (2) bekezdés b) pontja a 825/2021. (XII. 28.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^140]: A 13/M. alcímet (24/AA. §) a 787/2021. (XII. 27.) Korm. rendelet 49. §-a iktatta be.
+[^141]: A 14. alcím (25. §) a 457/2017. (XII. 28.) Korm. rendelet 583. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^142]: A 15. alcímet (26. §-t) a 414/2023. (VIII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^143]: A 15/A. alcímet (27. §-t) a 414/2023. (VIII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^144]: A 27. § a 457/2017. (XII. 28.) Korm. rendelet 583. § (6) bekezdése alapján hatályát vesztette, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^149]: A 32. § a 198/2019. (VIII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^150]: Lásd a 3/2020. (I. 13.) ITM rendeletet.
+[^151]: Lásd a 3/2020. (I. 13.) ITM rendeletet.
+[^152]: A 32. § g) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés l) pontja szerint módosított szöveg.
+[^153]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^154]: A hatálybalépés időpontja 2017. november 17.
+[^155]: A 34. § (1) bekezdés 2. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^156]: A 34. § (1) bekezdés 4. pontját a 201/2025. (VII. 16.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^157]: A 34. § (1) bekezdés 5. pontját a 201/2025. (VII. 16.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^158]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^159]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^160]: A 34. § (1) bekezdés 11. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^161]: A 34. § (1) bekezdés 14. pontját a 201/2025. (VII. 16.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^162]: A 34. § (1) bekezdés 18. pontját a 37/2021. (II. 2.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^163]: A 34. § (1) bekezdés 19. pontját a 414/2023. (VIII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^164]: A 34. § (1) bekezdés 20. pontját a 385/2024. (XII. 9.) Korm. rendelet 10. §-a iktatta be.
+[^165]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^167]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 157. § (8) bekezdésével megállapított, a 371/2020. (VI. 30.) Korm. rendelet 40. §-a, a 616/2022. (XII. 29.) Korm. rendelet 240. § a)-c) pontja, a 414/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdés b) pontja, a 385/2024. (XII. 9.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^168]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^169]: A 2. melléklet II. pont d) alpontját a 385/2024. (XII. 9.) Korm. rendelet 12. § f) pontja hatályon kívül helyezte.
+[^170]: A 3. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § d) pontja hatályon kívül helyezte, újonnan a 190/2020. (V. 7.) Korm. rendelet 14. §-a iktatta be.
+[^171]: A 3. melléklet 1. pont a) alpont nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^172]: A 3. melléklet 1. pont a) alpont ae) pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^173]: A 3. melléklet 1. pont a) alpont aj) pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^174]: A 3. melléklet 1. pont b) alpont nyitó szövegrésze a a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése, a 385/2024. (XII. 9.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^175]: A 3. melléklet 1. pont b) alpont bg) pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^176]: A 3. melléklet 1. pont b) alpont bh) pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^177]: A 3. melléklet 2. pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^178]: A 3. melléklet 3. pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^179]: A 3. melléklet 4. pontja a 414/2023. (VIII. 30.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^180]: A 4. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte, újonnan a 787/2021. (XII. 27.) Korm. rendelet 50. §-a iktatta be.
+[^181]: Az 5. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés a) pontja iktatta be.
+[^182]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés b) pontja iktatta be.
+[^183]: A 7. mellékletet újonnan a 258/2024. (VIII. 29.) Korm. rendelet 13. §-a iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 153. § b) pontja hatályon kívül helyezte.
+[^184]: A 8. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^185]: A 9. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.

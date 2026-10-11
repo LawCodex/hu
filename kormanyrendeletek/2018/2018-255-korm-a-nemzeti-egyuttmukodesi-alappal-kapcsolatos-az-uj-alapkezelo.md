@@ -1,0 +1,117 @@
+---
+title: "255/2018. (XII. 18.) Korm. rendelet a Nemzeti Együttműködési Alappal kapcsolatos, az új alapkezelő kijelölése miatt lefolytatandó átadás-átvételi eljárásról"
+identifier: "255/2018. (XII. 18.) Korm. rendelet"
+njt_id: "2018-255-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/255"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-18
+in_force_from: 2019-01-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-255-20-22"
+retrieved: 2026-10-12
+---
+
+# 255/2018. (XII. 18.) Korm. rendelet a Nemzeti Együttműködési Alappal kapcsolatos, az új alapkezelő kijelölése miatt lefolytatandó átadás-átvételi eljárásról
+
+A Kormány az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) Az Emberi Erőforrás Támogatáskezelő (a továbbiakban: Támogatáskezelő) által 2018. december 31-én a Nemzeti Együttműködési Alappal és – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 75. § (10) bekezdése alapján – a Nemzeti Civil Alapprogrammal kapcsolatosan végzett kezelő szervi feladatok (a továbbiakban: feladatok) ellátását 2019. január 1-jétől a Bethlen Gábor Alapkezelő Zrt. (a továbbiakban: Alapkezelő) biztosítja.
+
+(2) A feladatok átadás-átvétele a Támogatáskezelővel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással az Alapkezelővel szemben szerződésszegésre alapított igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(3) Az Alapkezelő az (1) bekezdés szerinti feladatokhoz kapcsolódóan 2019. január 1-jét megelőzően létrejött jogviszonyok vonatkozásában jogosult különösen
+
+a) eljárni a jogosulatlanul igénybe vett vagy visszafizetésre meghatározott összegek beszedése érdekében,
+
+b) belépni a folyamatban lévő peres és nemperes eljárásokba.
+
+(4) Az (1) bekezdésben meghatározott feladatokhoz kapcsolódó támogatási jogviszonyokban, valamint az ahhoz kapcsolódó biztosítéki szerződésekben, részletfizetési megállapodásokban valamennyi jog és kötelezettség tekintetében 2019. január 1-jétől az Alapkezelő lép a Támogatáskezelő helyébe.
+
+### 2. §
+
+Az átadás-átvétellel érintett feladatok ellátásával összefüggő, a Támogatáskezelő javára kiadott, hatályban lévő hatósági engedélyek jogosultjának 2019. január 1-jétől az Alapkezelő minősül. A hatósági engedélyek ennek megfelelő módosítását az Alapkezelő kezdeményezi.
+
+### 3. §
+
+Az átadás-átvétellel érintett feladatokhoz használt tárgyi eszközökkel – ide nem értve az ingatlanokat – kapcsolatos vagyonkezelői jogok és kötelezettségek tekintetében jogosultként és kötelezettként 2019. január 1-jétől a Támogatáskezelő helyébe az Alapkezelő lép.
+
+### 4. §
+
+(1) Az Támogatáskezelőnél az átadás-átvétellel érintett feladatokat és az azokhoz kapcsolódó egyes segítő, támogató feladatokat 2018. december 31-én ellátó foglalkoztatottak tekintetében a munkáltató 2019. január 1-jétől az Alapkezelő és a munkáltatói jogok gyakorlója az Alapkezelő vezérigazgatója.
+
+(2) A munkáltató személyében az (1) bekezdés szerint bekövetkező változás alapján az (1) bekezdés szerinti foglalkoztatottak közalkalmazotti jogviszonya a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 25/A. § (7) bekezdése alapján megszűnik, és a megszűnést követő nappal, az Alapkezelő továbbfoglalkoztatási kötelezettségére való tekintettel munkaviszony létesül.
+
+(3) A munkáltató személyében az (1) bekezdés szerint bekövetkező változás a foglalkoztatásra irányuló jogviszony határozott vagy határozatlan időre szóló jellegén, valamint azon, hogy a foglalkoztatás teljes- vagy részmunkaidőben történik-e nem változtat.
+
+(4) Ha a munkáltató személyében az (1) bekezdés szerint bekövetkező változással érintett foglalkoztatásra irányuló jogviszony létesítésekor kikötött próbaidő időtartama 2018. december 31-ig nem telik le, a próbaidő a jogviszony létesítésekor kikötött időtartamig áll fenn.
+
+(5) A munkáltató személyében az (1) bekezdés szerint bekövetkező változással érintett, az Alapkezelőnél továbbfoglalkoztatott személyek munkáltatói kölcsönei vonatkozásában, a kapcsolódó jogviszonyokban valamennyi jog és kötelezettség tekintetében az Alapkezelő lép a Támogatáskezelő helyébe.
+
+(6) Az (1)–(5) bekezdésben nem szabályozott kérdésekben a Kjt. 25/A. §-át, 25/B. §-át és 25/C. § (1)–(3) bekezdését, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény 40. §-át kell megfelelően alkalmazni.
+
+## 2. Az átadás-átvétel rendje
+
+### 5. §
+
+(1) A Támogatáskezelő és az Alapkezelő átadás-átvételi eljárást folytat le. Az átadás-átvételi eljárás levezetője az Alapkezelő.
+
+(2) Az átadás-átvétel kiterjed különösen a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet (a továbbiakban: NEAr.) 28. § (1) bekezdésében meghatározott feladatokhoz kapcsolódóan
+
+a) a feladatok ellátásához használt ingó eszközállományra, az azokkal kapcsolatos jogokra és kötelezettségekre,
+
+b) a Nemzeti Civil Alapprogram terhére kötött támogatási szerződésekkel, kiadott támogatói okiratokkal kapcsolatos szakmai és pénzügyi-számviteli feladatokra,
+
+c) a NEAr. 29. § (5) és (7) bekezdése szerinti pénzeszközökről készített kimutatásokra és felhasználásukra,
+
+d) az elektori választás lebonyolításával kapcsolatos feladatokra.
+
+### 6. §
+
+(1) A feladatok ellátásához szükséges vagyonelemeket a Támogatáskezelő az Alapkezelő részére köteles 2019. január 7-éig átadni azzal, hogy az átadott vagyonelemek átadás napja szerinti állapotáról a Támogatáskezelő és az Alapkezelő mennyiségi és értékbeni leltárt vesz fel, és az Alapkezelő azt 2019. január 31-éig a tulajdonosi joggyakorló részére megküldi. A leltár megküldését követően az Alapkezelő és a tulajdonosi joggyakorló az átvett vagyonra vonatkozó vagyonkezelési szerződést módosítja. A Támogatáskezelő a könyvviteli, nyilvántartási számlái és részletező nyilvántartásai lezárása nélkül, a folyamatos könyvelés keretében a könyveiből 2019. január 1. napjával kivezeti az átadott és a leltárban feltüntetett vagyonelemeket.
+
+(2) A Támogatáskezelő a feladatok ellátásához szükséges 2018. évi költségvetési előirányzatok teljesítéséhez kapcsolódóan az Alapkezelő részére átadja
+
+a) a 2018. évi leltárral és főkönyvi kivonattal alátámasztott éves költségvetési beszámolót,
+
+b) – legkésőbb a mérlegkészítés, illetve az éves költségvetési beszámoló összeállításáig – a 2018. december 31-ével lezárt, leltárral egyező, az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 14. mellékletében foglaltak szerinti analitikus nyilvántartásokat és az azokhoz kapcsolódó bizonylatokat, valamint
+
+c) 2019. január 15-éig a kötelezettségvállalással terhelt előirányzat-maradványok, követelések állományához kapcsolódó, azokat megalapozó dokumentumokat.
+
+### 7. §
+
+Az átadás-átvételről jegyzőkönyvet kell felvenni, amelyben
+
+a) tételesen meg kell határozni az átadás-átvétellel érintett feladatokat, feladatcsoportokat,
+
+b) rendelkezni kell az átadás-átvétellel érintett feladatokhoz, feladatcsoportokhoz kapcsolódó szerződések, okiratok és más dokumentumok eredeti és hiteles másolati példányainak átadásáról,
+
+c) meg kell határozni az Alapkezelőhöz kerülő szakmai és az ahhoz kapcsolódó funkcionális létszámkeretet, a munkáltató személyében bekövetkező változással érintett személyek körét,
+
+d) meg kell határozni az átadás-átvétellel érintett feladatok, feladatcsoportok végrehajtásához használt, leltári számon vagy más egyedi azonosító számon nyilvántartott ingó vagyon körét és átadásának napját,
+
+e) meg kell határozni a kezelői megállapodásokban vállalt és még folyamatban lévő feladatokat.
+
+### 8. §
+
+(1) Az átadás-átvételi eljárást, illetve a jegyzőkönyv elkészítését legkésőbb 2019. február 15-éig – az éves költségvetési beszámoló átadása tekintetében 2019. március 15-éig – végre kell hajtani. A jegyzőkönyv aláírására az érintett szervezetek vezetői jogosultak.
+
+(2) A jegyzőkönyv felvétele mellett a Támogatáskezelő vezetője vagy az általa meghatalmazott személy adja át az átadás-átvétellel érintett feladathoz kapcsolódóan a Támogatáskezelő, illetve az általa ellátott és 2018. december 31-én folyamatban lévő ügyeket az Alapkezelő vezérigazgatójának vagy az általa meghatalmazott személynek.
+
+(3) Az átadás-átvétel keretében a Támogatáskezelő tájékoztatást nyújt mindazon tényekről, átadja mindazon okiratokat az Alapkezelőnek, amelyek 2019. január 1-jétől az Alapkezelőt megillető jogok és az Alapkezelőt terhelő kötelezettségek gyakorlásához, illetve érvényesítéséhez szükségesek.
+
+## 3. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2019. január 1-jén lép hatályba.
+
+### 10. §
+
+Az Alapkezelő által 2019. január 1-jétől külön jogszabály alapján civil és non-profit szervezetek támogatása kezelő szerveként ellátott feladatokhoz kapcsolódó támogatási jogviszonyokban, valamint az ahhoz kapcsolódó biztosítéki szerződésekben, részletfizetési megállapodásokban valamennyi jog és kötelezettség tekintetében 2019. január 1-jétől az Alapkezelő jogutódként belép a jogelőd helyébe.

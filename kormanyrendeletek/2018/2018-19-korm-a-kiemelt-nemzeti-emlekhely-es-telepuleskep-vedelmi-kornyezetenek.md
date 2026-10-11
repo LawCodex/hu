@@ -1,0 +1,1546 @@
+---
+title: "19/2018. (II. 14.) Korm. rendelet a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról"
+identifier: "19/2018. (II. 14.) Korm. rendelet"
+njt_id: "2018-19-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/19"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-02-14
+in_force_from: 2018-02-15
+last_amended: 2026-01-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-19-20-22"
+retrieved: 2026-10-12
+---
+
+# 19/2018. (II. 14.) Korm. rendelet a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról
+
+A Kormány
+
+a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. és 22. pontjában és 93. § (1a) bekezdés a), b), c), d) és e) pontjában kapott felhatalmazás alapján, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. és 22. pontjában, valamint 93. § (1a) bekezdésében meghatározott feladatkörében eljáró Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével,
+
+a 24. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2. pontjában kapott felhatalmazás alapján,
+
+az 56. § (1), (2) és (4) bekezdése tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a) és b) pontjában, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5., 6., 17. és 27. pontjában, valamint a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+az 56. § (3) bekezdése tekintetében az Alaptörvény 15. cikk (3) bekezdése szerinti eredeti jogalkotó hatáskörében eljárva,
+
+a 26. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 12.4. és 17. pontjában kapott felhatalmazás alapján,
+
+a 27. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 23. és 24. pontjában kapott felhatalmazás alapján,
+
+a 28. alcím tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. pontjában, valamint 93. § (1a) bekezdésében meghatározott feladatkörében eljáró Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §[^1]
+
+E rendelet hatálya a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) által meghatározott Országház és környéke kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely) és az e rendelet alapján meghatározott településkép-védelmi környezetének területére – mint településképi szempontból kiemelt jelentőségű területre – az egyedi településkép-védelem biztosítása érdekében
+
+a) a kiemelt nemzeti emlékhely településkép-védelmi környezetének meghatározására,
+
+b) a kiemelt nemzeti emlékhelyre és településkép-védelmi környezetére vonatkozóan
+
+ba) az egyedi településképi követelmények megállapítására,
+
+bb)[^2] a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteire, a reklámközzététel megengedett technológiájára, módszereire, eszközeire, a reklámeszközök általános formai követelményeire,
+
+bc) a beépítési szabályokra, valamint az ezzel összefüggő sajátos építésügyi és örökségvédelmi követelményekre,
+
+c) az egyedi településképi követelmények érvényesítését szolgáló sajátos eszközökre,
+
+ca) a településképi arculati kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályokra,
+
+cb) a szakmai konzultáció, a településképi véleményezési eljárás, a településképi bejelentési eljárás részletes szabályaira, az eljárásokban vizsgálandó településképi szempontokra, az eljárások alóli mentesség feltételeire, az alkalmazásukra hatáskörrel rendelkező hatóságok és feladatkörrel rendelkező egyéb szervek meghatározására,
+
+d) az egyedi településképi követelmények érvényesítése érdekében szükséges hatósági kötelezés részletes szabályaira,
+
+e) a településképi ösztönző- és támogatási rendszer meghatározására
+
+terjed ki.
+
+#### 2. §
+
+A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területére vonatkozóan
+
+a)[^3] a főváros és a kerület településrendezési terveit az e rendeletben foglalt eltérésekkel kell alkalmazni, azzal, hogy ha a településrendezési terv e rendelettel ellentétes, az e rendeletben foglaltakat kell alkalmazni,
+
+b) a fővárosi és kerületi önkormányzat településképi rendeletében meghatározott településképi követelményeket nem kell alkalmazni,
+
+c) a főváros, illetve a kerület településképi arculati kézikönyvét a kiemelt nemzeti emlékhely és településkép-védelmi környezetének arculati kézikönyve (a továbbiakban: kézikönyv) készítése, elfogadása és alkalmazása során nem kell figyelembe venni.
+
+### 2. Értelmező rendelkezések
+
+#### 3. §
+
+E rendelet alkalmazásában
+
+1\. *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás;
+
+2\. *átlátható formában nyújtott támogatás:* olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom;
+
+3.[^4] *cégjelzés:* reklámnak, plakátnak nem minősülő cégtábla, cégfelirat, céglogó;
+
+4\. *egyéb berendezés:* építmény, sajátos építményfajta rendeltetésszerű használatát biztosító, szerelt, gépnek, egyéb műszaki berendezésnek nem minősülő eszköz, felszerelés;
+
+5\. *eredeti:* épület, épületrész, szerkezet, műemlék épület építéstörténeti tudományos dokumentációjában, nem műemlék épület egyszerűsített építéstörténeti tudományos dokumentációjában meghatározott, első használatbavételekor fennálló állapota szerinti állapot, illetve amennyiben az épület jelenlegi használatával, funkciójával kapcsolatos szempontok ezt indokolják, úgy építéstörténeti tudományos dokumentáció alapján a Kiemelt Nemzeti Emlékhely Bizottság (a továbbiakban: KNEB) által elfogadott, ettől eltérő állapot;
+
+6\. *elszámolható költségek:* az Atr. 2. § 6. pontja szerinti költségek;
+
+7.[^5] *építési tevékenység:* a Méptv. 16. § 29. pontjában meghatározott tevékenység;
+
+8.[^6] *építéstörténeti tudományos dokumentáció:* a műemlékvédelemmel kapcsolatos szabályokról szóló kormányrendeletben meghatározott építéstörténeti tudományos dokumentáció;
+
+9\. *építészeti együttes:* egymáshoz legalább homlokzati kialakításban illeszkedő, több telken álló épületek egységes építészeti koncepció szerint tervezett és megvalósított csoportja, épületegyüttese;
+
+10.[^7] *építménymagasság:* az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos helyi építési szabályzat szerinti beépítési paraméter;
+
+10a.[^8] *felújítás:* a Méptv. szerinti olyan felújítás, amely új anyag beépítésével vagy felhasználásával jár;
+
+11\. *fennálló:* meglévő és akként dokumentált vagy dokumentálható építmény, építményrész, szerkezet vagy egyéb elem;
+
+12\. *hitelintézet:* magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően, vagy ezen szervezet kölcsönnyújtása hiányában a kijelölt hitelintézet;
+
+13\. *homlokzati elem:* az épület homlokzat felőli nyílászárói, illetve a homlokzati architektúra elemei;
+
+14.[^9] *információs célú berendezés:* a reklámnak, reklámeszközöknek nem minősülő információt hordozó, hirdetést vagy hirdetményt tartalmazó berendezés, így különösen az önkormányzati hirdetőtábla, az önkormányzati faliújság, az információs vitrin, az útbaigazító hirdetmény, a közérdekű molinó;
+
+15.[^10] *kedvezményezett:* az önerő pótló támogatás tekintetében a kiemelt nemzeti emlékhely környezetében álló ingatlannak az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény szerint bejegyzett 1/1 arányú tulajdonosa, közös tulajdon esetében az 1/1 arányú tulajdoni illetőséget kiadó tulajdonosok együttesen, a beruházási kölcsön támogatás tekintetében kedvezményezettek azok a tulajdonosok, társasház esetén a társasház, akikkel a kijelölt hitelintézet vagy a programhoz csatlakozott hitelintézet szerződést köt, társasház esetében a társasház és az 1/1 arányú tulajdoni illetőséget kiadó tulajdonostársak együttesen;
+
+16.[^11] *kereskedelmi rendeltetés:* a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 9. pontjában meghatározott kereskedelmi tevékenységet szolgáló rendeltetés, ideértve a településrendezési és építési követelményekről szóló kormányrendelet szerinti kereskedelmi rendeltetést;
+
+17\. *kijelölt beruházás-lebonyolító:* a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság;
+
+18\. *kijelölt hitelintézet:* az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság;
+
+19\. *megújítás:* fennálló építmény, építményrész, szerkezet vagy egyéb elem anyagának minél nagyobb arányú megőrzésére törekvő beavatkozás, melynek célja a hiteles esztétikai állapot visszaállítása és a fennálló műszaki tényezők javítása;
+
+20\. *mintadarab:* műemlék épület építéstörténeti tudományos dokumentációjában meghatározott eredeti vagy annak nyomán rekonstruált eleme, nem műemlék épület egyszerűsített építéstörténeti tudományos dokumentációjában meghatározott eredeti vagy annak nyomán rekonstruált eleme vagy ennek hiányában az egységesen kialakítandó elem típusmintájául szolgáló építészeti – műszaki dokumentációban megjelölt konkrét, fennálló elem;
+
+21.[^12] *örökségvédelmi célú beruházás:* a Méptv. 155. § (2) bekezdés a) pont aa) alpontja szerinti egyedi településkép-védelmi követelménynek való megfelelés, vagy annak fenntartásához közvetlenül szükséges építési tevékenység;
+
+22\. *rekonstrukció:* fennálló vagy eredeti elem, szerkezet vagy épületrész anyagát érintő beavatkozás, amelynek célja az eredeti esztétikai állapot újraalkotása;
+
+23\. *szintterületi mutató:* az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos helyi építési szabályzat szerinti beépítési paraméter;
+
+24.[^13] *szolgáltatási rendeltetés:*
+
+a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 2. § l) pontjában meghatározott szolgáltatási tevékenységet;
+
+b) a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) és (2) bekezdésében meghatározott pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatási tevékenységet;
+
+c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 5. § (1) és (2) bekezdéseiben meghatározott befektetési szolgáltatási és kiegészítő szolgáltatási tevékenységet;
+
+d) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 4. § (1) bekezdés 11. és 14. pontjában meghatározott biztosítási és biztosításközvetítői, továbbá a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 4. § (1) bekezdés 112. és 113. pontjaiban meghatározott viszontbiztosítási és viszontbiztosítás-közvetítői tevékenységet; valamint
+
+e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 1. pontjában meghatározott ABA és a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 8. pontjában meghatározott ÁÉKBV tevékenységet
+
+szolgáló rendeltetés, ideértve a településrendezési és építési követelményekről szóló kormányrendelet szerinti szolgáltató rendeltetést;
+
+25\. *társasház:* a kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanon a társasházakról szóló 2003. évi CXXXIII. törvényben meghatározott társasház;
+
+25a.[^14] *üzletjelzés:* reklámnak, plakátnak nem minősülő, falsíkra merőleges cégér, üzlettábla, üzletfelirat és a vállalkozást ismertető vagy népszerűsítő egyéb felirat;
+
+26.[^15] *üzletportál:* minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja, garázsbehajtója vagy üzlet gazdasági bejárata, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
+
+27.[^16] *vendéglátási rendeltetés:* a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontjában meghatározott tevékenységet szolgáló rendeltetés, ideértve a településrendezési és építési követelményekről szóló kormányrendelet szerinti vendéglátó rendeltetést.
+
+## II. Fejezet — A KIEMELT NEMZETI EMLÉKHELY ÉS TELEPÜLÉSKÉP-VÉDELMI KÖRNYEZETE
+
+### 3. A kiemelt nemzeti emlékhely településkép-védelmi környezete
+
+#### 4. §
+
+(1) A kiemelt nemzeti emlékhely településkép-védelmi környezetét az 1. melléklet tartalmazza.
+
+(2) A kiemelt nemzeti emlékhely és a településkép-védelmi környezetének területe együtt a kiemelt településkép-védelmi környezet.
+
+#### 5. §
+
+A kiemelt településkép-védelmi környezetet használni, ott építményt, sajátos építményfajtát elhelyezni, telket alakítani, építés alapjául szolgáló tervet készíteni, építményen építési tevékenységet végezni, építmény rendeltetését létrehozni vagy megváltoztatni, továbbá zöldfelületet alakítani az e rendeletben foglaltakkal összhangban lehet, a településkép minél teljesebb megőrzésével, valamint a kiemelt nemzeti emlékhely méltóságának fenntartásával.
+
+## III. Fejezet — AZ EGYEDI TELEPÜLÉSKÉPI KÖVETELMÉNYEK ÉS A REKLÁMOKRA, REKLÁMESZKÖZÖKRE VONATKOZÓ KÖVETELMÉNYEK[^17]
+
+### 4. A településképi követelményekre vonatkozó általános szabályok
+
+#### 6. §
+
+(1)[^18] A kiemelt településkép-védelmi környezetre vonatkozó egyedi településképi követelmények és a reklámokra, reklámeszközökre vonatkozó településképi követelmények a településkép-védelmét és az egységes arculat fenntartását és kialakítását szolgálják. Az egyedi településképi követelmények fajtái:
+
+a) a területi építészeti,
+
+b) az építészeti,
+
+c)[^19] a cégjelzésekre, üzletjelzésekre, plakátokra, emléktáblákra, egyéb berendezésre és egyéb műszaki berendezésekre vonatkozó,
+
+d) a sajátos építményfajtákra, műtárgyakra vonatkozó és
+
+e) a közterületek alakítására vonatkozó
+
+követelmények.
+
+(2) A kiemelt településkép-védelmi környezetben lévő telken az egyedi településképi követelményekkel, a IV. fejezetben és a 2. mellékletben meghatározott beépítési szabályokkal összhangban tartható fenn építmény, valamint végezhető építési és egyéb tevékenység.
+
+(3)[^20] A kiemelt településkép-védelmi környezetben cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés önállóan vagy építményen az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
+
+(4) A kiemelt településkép-védelmi környezetben lévő telken sajátos építményfajta, műtárgy az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon építési és egyéb tevékenység.
+
+(5)[^21] A kiemelt településkép-védelmi környezetben lévő telken reklám, reklámeszköz a Méptv.-ben, a településkép védelméről szóló törvény reklámok közzétételével kapcsolatos rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: Rr.) és a 17. §-ban meghatározott követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
+
+(6) A kiemelt településkép-védelmi környezetben lévő közterület a 16. §-ban és a 18. §-ban meghatározott követelményekkel összhangban tartható fenn, illetve végezhető azon építési és egyéb tevékenység.
+
+(7) Az 1. mellékletben egyedi védelemmel jelölt épületen építési tevékenység egyszerűsített építéstörténeti tudományos dokumentáció alapján végezhető.
+
+(8) Építészeti együttes részét képező, vagy az 1. mellékletben utcaképi védelemmel jelölt, épület közterületi traktusát, illetve a közterületre néző homlokzatát eredeti formájában kell megőrizni, illetve azon építési tevékenység egyszerűsített építéstörténeti tudományos dokumentáció alapján végezhető.
+
+(9)[^22] Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentáció – a 30. § (2) bekezdése szerinti településkép-védelmi konzultáción meghatározott és kizárólag az adott építési tevékenységgel összefüggésben lévő tartalommal – építményrészre, berendezésre is kidolgozható. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti. A (7) vagy (8) bekezdés szerinti építési tevékenység során a már elkészült egyszerűsített építéstörténeti tudományos dokumentáció felhasználható, az adott feladat tekintetében kiegészíthető.
+
+(10)[^23] Az egyedi településképi követelmények a kiemelt településkép-védelmi környezetben lévő műemlékre, műemléki környezetre, műemléki jelentőségű területre és a fővárosi helyi egyedi és területi védett értékekre is kiterjednek.
+
+(11)[^24] E rendelet reklámokra, reklámeszközökre vonatkozó rendelkezéseit a kiemelt nemzeti emlékhely településkép-védelmi környezetének részét képező, 1. mellékletben meghatározott ingatlanokat, ingatlanrészeket érintő eljárásokban kell alkalmazni.
+
+### 5. Területi építészeti követelmények
+
+#### 7. §
+
+(1)[^25] A kiemelt településkép-védelmi környezet területét érintő fővárosi és kerületi településrendezési terv, illetve településterv, közterület-alakítási terv és annak módosítása a KNEB – településrendezési terv, településterv egyeztetése esetén az egyeztetési eljárás során kiadott – a kiemelt településkép-védelmi környezetének területére vonatkozó véleményének figyelembevételével, azzal összhangban állapítható meg.
+
+(2)[^26] A kiemelt településkép-védelmi környezet területét érintő településterv egyeztetése során a KNEB a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet (a továbbiakban: TTr.) államigazgatási szervekre irányadó véleményezési szabályai szerint ad véleményt. A KNEB véleményét az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal kéri ki.
+
+(3) A KNEB az érintett önkormányzatnál kezdeményezheti a kiemelt településkép-védelmi környezet egészére vagy annak egy részére a közterület-alakítási terv készítését.
+
+### 6. A kiemelt nemzeti emlékhely területén irányadó egyedi településképi követelmények
+
+#### 8. §
+
+(1)[^27] A kiemelt nemzeti emlékhely területén lévő épület, építmény, sajátos építményfajta, cégjelzés, üzletjelzés, emléktábla, egyéb berendezés és egyéb műszaki berendezés megjelenésének illeszkednie kell a kiemelt nemzeti emlékhely történelmi és műemléki megjelenéséhez, egységes arculatához.
+
+(2) A kiemelt nemzeti emlékhely területén lévő épületek fennálló látványa, az Országház láthatósága, a Budapest V. kerület Kossuth Lajos teret meghatározó szoborkompozíciók együtt látása nem korlátozható.
+
+(3) A kiemelt nemzeti emlékhely területén lévő épületen építési tevékenység építéstörténeti tudományos dokumentáció alapján végezhető.
+
+(4) A kiemelt nemzeti emlékhely területén építési és egyéb tevékenység a kézikönyvben foglalt részletes településképi követelményekkel összhangban végezhető.
+
+(5)[^28] Az Országház homlokzati címergalériájában a címertáblák az eredeti címertáblákhoz méretben és anyaghasználatban illeszkedő módon, tartalmi változás nélkül és tartalmi változással egyaránt cserélhetők, a címertan alkalmazott szabályai szerint. A (3) és (4) bekezdést ebben az esetben nem kell alkalmazni.
+
+(6)[^29] A Budapest V. kerület belterület 24891 helyrajzi számú telken megvalósuló Agrárminisztérium épület teljes rekonstrukciója során
+
+a) új homlokzati nyílás létesíthető azzal, hogy az új nyílások kialakításánál a településképi követelményektől a KNEB hozzájárulásával lehet eltérni,
+
+b) a középső udvar közösségi térként történő használata, valamint a Kossuth Lajos tér és a Kozma Ferenc utca közötti gyalogos kapcsolat biztosítása érdekében vagy azzal összefüggésben a meglévő homlokzati elemeken és egyéb történeti épületelemeken építési tevékenység a KNEB hozzájárulásával engedélyezhető.
+
+### 7. Az egyedi településképi követelmények
+
+#### 9. §
+
+(1) Az építészeti követelmények a kiemelt nemzeti emlékhely településkép-védelmi környezetében lévő épületeket érintően az egységes homlokzatképzés, az egyes homlokzati elemek és a tetőformálás követelményeit határozzák meg.
+
+(2) Az építési tevékenység során az építmény tömegének, homlokzati kialakításának, tetőformálásának az egyedi vagy utcaképi védelemmel érintett épületekhez és a településkép-védelmi környezet egységes arculatához egyaránt illeszkednie kell.
+
+(3) A Budapest V. kerület Kossuth Lajos tér déli térfalát képező Budapest V. kerület belterület 24710/4, 24711 és 24712 helyrajzi számú telkeken lévő épület homlokzatát és tömegformálását úgy kell kialakítani, hogy a térfal teljes szélességében építészeti egységet mutasson.
+
+(4)[^30] Az 1. mellékletben egyedi vagy utcaképi védelemmel jelölt épület esetében a közterületről nem látható belső udvari homlokzatra, lépcsőházra és udvari nyílászáróra vonatkozóan az e rendeletben nem szabályozott kérdésekben a kerületi építési szabályzatban meghatározott településképi követelményeket kell figyelembe venni.
+
+#### 10. §
+
+Építészeti együttes részét képező épület közterületről látható homlokzatát és tetőzetét érintő
+
+a) nem az eredeti állapot visszaállítását szolgáló építési tevékenység, egyéb beavatkozás nem sértheti az építészeti együttes egységes külső homlokzatképzését, ezen belül kiemelten az anyaghasználatot, a színezést, a homlokzattagolást, homlokzati architektúrát, a nyílászárókat, továbbá a tetőformálás geometriáját, héjalását és a tetőnyílászárók osztását;
+
+b) felújítás
+
+ba) az építészeti együttes valamely épületére vonatkozó, az építészeti együttes egészére tekintettel készített egyszerűsített építéstörténeti tudományos dokumentáció és festéskutatással megalapozott szín- és tetőrekonstrukciós terv alapján végezhető;
+
+bb) során a ba) alpont vagy – ha az épületegyüttesben már történt felújítás és a tulajdonos a c) pont szerint járt el – a c) pont szerinti, a KNEB által jóváhagyott építőanyag alkalmazható;
+
+c) építési tevékenység vagy beavatkozás során a felhasználni kívánt, valamint a megvalósulási dokumentáció részeként a felhasznált építőanyagok jegyzékét a tulajdonos a KNEB kérésére rendelkezésre bocsátja az építőanyag típusának, a gyártójának, a színkódjának ismertetésével.
+
+#### 11. §
+
+(1)[^31] Fennálló közterületről látható épülethomlokzat
+
+a) eredeti homlokzati eleme nem bontható el, kivéve, ha műszaki állapota a fenntartást és a megújítást nem teszi lehetővé, vagy az aránytalan anyagi terhet jelent, ebben az esetben az eredeti homlokzati elem alakhű felmérése nyomán eredeti anyagából újragyártott homlokzati elemmel pótolható,
+
+b) fennálló eredeti homlokzatburkolati anyaga nem változtatható meg, az a műszakilag lehetséges legnagyobb arányban megtartandó, szükség esetén azonos, vagy hozzáférhetőség hiányában azonos tulajdonságú és megjelenésű anyaggal pótolható,
+
+c) kő vagy műkő homlokzatburkolati anyaga kizárólag abban az esetben festhető le vagy vonható be az eredeti homlokzati felületet eltakaró vagy megváltoztató anyaggal, ha a homlokzat vegyes anyaghasználattal készült, és az az egységes településképi megjelentés elérése érdekében indokolt,
+
+d) kőporos vakolati rendszere – az eredeti kivételével – nem tartható fenn, nem újítható fel.
+
+(2)[^32] Új, közterületről látható épülethomlokzat képzése során kőporos vakolati rendszer nem alkalmazható.
+
+(3)[^33] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat teljes felülete az épület eredeti színével, színezési rendszerével, illetve az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban színezhető
+
+a) az épület homlokzat restaurátori szakvéleményben megállapított eredeti színével és színezési rendszerével megegyező, illetve ahhoz közel álló, vagy indokolt esetben, a KNEB hozzájárulásával ettől eltérő, de a szomszédos épületekhez illeszkedő színezés alkalmazásával, és
+
+b) az utcasorban közvetlenül szomszédos telken lévő épületeket, és az ezen telkekhez kapcsolódó telken lévő további egy-egy épületet ábrázoló, az eredeti színezéstől eltérő színezés esetén három változatot bemutató színterv alapján.
+
+(4) Ha az eredeti színezés nem állapítható meg és az épület az 1896. évet megelőzően épült, a (3) bekezdés rendelkezéseit kell alkalmazni azzal, hogy az épületen kizárólag egy homlokzati szín alkalmazható.
+
+(5)[^34] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat és tűzfal részleges színezése a (3) bekezdés szerinti színnel, kizárólag földszinti üzletportál cseréje, átalakítása, homlokzatrész erős rongálódása, szerelési munka vagy graffiti eltávolítás miatt indokolt homlokzatjavítás, vagy életveszély elhárítás érdekében történhet.
+
+(6)[^35] Új, közterületről látható épülethomlokzat az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban, az utcasorban közvetlenül szomszédos telken lévő épületeket és az e telkekhez kapcsolódó további egy-egy épületet ábrázoló három változatot bemutató színterv alapján színezhető.
+
+(7)[^36] A közterületről látható homlokzatot érintő építési tevékenység során az épület veszélyeztetett homlokzati sávját anti-graffiti bevonattal kell ellátni.
+
+(8)[^37] Fennálló, eredeti állapot szerinti, közterületről látható homlokzattagolás, homlokzati díszítőelem, díszítőrendszer, részletképzés, nyílászáró rendszer nem változtatható meg, kivéve, ha az eltérés a földszinten üzletportál létesítése érdekében indokolt. Teljes homlokzatfelületet érintő építési tevékenység az eredeti állapot rekonstrukciójával építéstörténeti dokumentáció alapján végezhető.
+
+(9) Az épület fennálló eredeti vagy mintadarabként megjelölt – közterületre nyíló és közterületről látható – homlokzati elemei a (8) bekezdésben meghatározott kivétellel nem bonthatók el, felújítással vagy rekonstrukcióval tarthatók fenn. Fennálló, az eredetitől eltérő és mintadarabnak nem minősülő homlokzati elem kizárólag eredeti vagy mintadarabként megjelölt homlokzati elemre cserélhető, azzal, hogy
+
+a) a közterületre néző nyílászáró eredeti aránya és osztása nem változtatható meg,
+
+b) az épület eredeti vagy mintadarabnak megjelölt nyílászáróinak anyagától eltérő anyagú nyílászáró és tükörüveg egyedileg nem alkalmazható,
+
+c) általános nyílászáró-megújítás, -csere, -rekonstrukció, restaurátor festéskutatási szakvéleményében megállapított eredeti színnel megegyező vagy azzal azonosítható, illetve az épület homlokzatának színezésével egyaránt összhangban álló színezés alkalmazásával történhet,
+
+d) egyedi nyílászáró-megújítás, -csere, -rekonstrukció esetén a fennálló nyílászáróknak az építési tevékenység megkezdése előtti színhasználata alkalmazható,
+
+e) zajvédelem vagy hőszigetelés céljából kettő- vagy többrétegű üvegezés a külső megjelenés sérelme nélkül építhető be a külső vagy a belső szárnyba.
+
+(10)[^38] Egyéb műszaki berendezés, egyéb berendezés, szerelvény nem tartható fenn vagy helyezhető el, ha az a közterületről látható homlokzat, illetve a (8) bekezdésben meghatározott, fennálló építészeti részletek, díszítőrendszer megjelenését, látványát sérti, vagy ellehetetleníti a fennálló eredeti díszítőrendszer rekonstrukcióját.
+
+(11) A homlokzaton
+
+a) tartó-, kábel-, antennaszerkezet – a troli, villamos felsővezeték tartó kivételével – nem helyezhető el, nem tartható fenn,
+
+b) vezeték homlokzati felületen látható módon, kábelcsatornában vagy a vezetéket takaró szerkezetben nem szerelhető,
+
+c)[^39] közterületről látható módon homlokzati égéstermék kivezető, parabola vagy egyéb antenna, napkollektor, légkondicionáló berendezés a d) pont figyelembevételével, egyéb berendezés, valamint egyéb műszaki berendezés – az e) pontban foglaltak kivételével – nem helyezhető el,
+
+d)[^40] légkondicionáló berendezés kifolyója a homlokzatra, másik rendeltetési egységre vagy kiszolgáló rendeltetésű területre, közterületre vagy egyéb szomszédos telekre nem vezethető,
+
+e)[^41] közterületről látható módon önálló szerkezetben nem helyezhető el
+
+ea)[^42] árusító berendezés, a parkoló és közlekedési jegyárusító automata,
+
+eb) bankautomata berendezés, postaláda, biztonsági kamera,
+
+f) név- és címtábla, kaputelefon a homlokzatképzéshez illeszkedő és egymással egységes kialakítással helyezhető el.
+
+(12) Fennálló eredeti lábazat nem bontható el, az csak az eredeti állapot szerint újítható fel, rekonstruálható azzal, hogy az eredeti állapottól eltérni a feltétlenül szükséges mértékig
+
+a) a földszinti és szint alatti helyiségek rendeltetésszerű használatának biztosítása,
+
+b) épület utólagos szigetelése vagy
+
+c) vakolt lábazatnak az eredetivel azonos kialakítású kő vagy műkő anyagú átépítése
+
+érdekében, egyszerűsített építéstörténeti tudományos dokumentáció alapján lehet.
+
+(13) Közterületről nyíló pincelejáró és az ahhoz kapcsolódó nyílászáró az épület építészeti tagozataihoz, homlokzattagolásához, homlokzati architektúráihoz és nyílásrendszeréhez illeszkedve létesíthető.
+
+(14) Fennálló eredeti kaput és tartozékát anyagában meg kell őrizni. Ha részben vagy egészében elpusztult, az eredeti állapot szerint egyszerűsített építéstörténeti tudományos dokumentáció alapján rekonstruálható, kivéve, ha a rekonstrukcióhoz nem áll rendelkezésre elegendő adat, ebben az esetben az új kapunak az épület többi eredeti vagy mintadarabként meghatározott nyílászárójának kialakításához, részletképzéséhez, anyaghasználatához, színéhez kell illeszkednie.
+
+(15) Fennálló, eredeti vagy mintadarabként megjelölt üzletportált meg kell őrizni vagy az eredeti állapot szerint rekonstruálni.
+
+(16) Fennálló, nem eredeti vagy mintadarabként megjelölt üzletportál
+
+a) egyedileg nem szüntethető meg, kizárólag egyszerűsített építéstörténeti tudományos dokumentáció alapján
+
+aa) az épülethez tartozó mélygarázs megközelítésének biztosítása érdekében, vagy
+
+ab) az egész épületet, vagy építészeti együttest érintő egységes, az eredeti állapot helyreállításával járó építési tevékenység során,
+
+b) az épület vagy építészeti együttes meglévő eredeti vagy mintadarabnak megjelölt üzletportáljához, ennek hiányában az épület vagy építészeti együttes által meghatározott településképhez illeszkedve tartható fenn, alakítható át, létesíthető, amelynek
+
+ba) anyaghasználata az épület korához illeszkedően fa vagy fém lehet, elaprózott üvegfelület, vastag profil, nagy arányban zárt, falazott rész és műanyag nyílászáró nem alkalmazható,
+
+bb) színezése a homlokzati színnel összhangban történhet.
+
+(17)[^43] Üzletportál üvegfelületének átlátszóságát – jogszabály eltérő rendelkezésének hiányában – fenn kell tartani. Üvegfelületként homokfúvott vagy matt, illetve egyéb okból nem átlátszó üveg nem alkalmazható, üvegfelület nem átlátszó anyaggal, így különösen fóliával, papírral, műanyaggal, festéssel vagy más dekorációs felülettel nem takarható, kivéve, ha ahhoz a KNEB közhasznú tevékenység bemutatása érdekében – a meghatározott módon történő elhelyezéshez – határozott időtartamra nyilatkozatában hozzájárul.
+
+(18) Üzletportál az e rendeletben és a kézikönyvben foglalt részletes településképi követelmények, illetve ajánlások alapján helyezhető el, építhető, alakítható át.
+
+(19)[^44] Új kirakatszekrény közterületről látható homlokzaton nem helyezhető el. A kirakatszekrény elbontásával egy időben az érintett homlokzati falfelület anyaga, színezése, díszítése helyreállítandó.
+
+(20) Falra vagy fal elé szerelt kirakatszekrény fenntartható, ha mérete és szerkezeti kialakítása illeszkedik az épület homlokzatképzéséhez, és annak eredeti vagy felújított díszítőelemeit, részletképzését, mintázott falfestését, falfestményeit, művészi felületképzését nem takarja el.
+
+#### 12. §
+
+(1) A tető fennálló eredeti formáját, geometriáját, héjalását, tetődíszét, díszes tetőfelépítményét az építési tevékenység során meg kell őrizni. A tető eredeti formája és geometriája, héjalása, tetődísze, díszes tetőfelépítménye az eredeti tervek szerint egyszerűsített építéstörténeti tudományos dokumentáció alapján rekonstruálható, kivéve, ha műszakilag erre nincs lehetőség, vagy az aránytalanul nagy anyagi terhet jelent, vagy, ha az eredeti építőanyag egészségre káros összetevőket tartalmaz.
+
+(2) A közterületi homlokzati oldalon a tetőzeten kizárólag a mintadarabbal megegyező nyílászáró helyezhető el.
+
+(3) A tetőzeten nyílászáró az e rendeletben és a kézikönyvben foglalt követelmények, illetve ajánlások alapján helyezhető el.
+
+(3a)[^45] Tetőzet külső tetőfelületén műszaki berendezés, egyéb berendezés, szerelvény nem tartható fenn vagy helyezhető el, kivéve az udvari tetősíkban rejtett kivitelben.
+
+(4)[^46] A kiemelt nemzeti emlékhely részét képező közterülettel közvetlenül határos telken lévő épület Kossuth Lajos tér felé lejtő tetőfelületén – tetőkibúvó kivételével – nyílászáró, nyílás, áttört felület nem létesíthető, a szükséges tetőfelépítmények, tetőnyílások a további tetőfelületeken a KNEB hozzájárulásával helyezhetők el.
+
+(5) Újonnan kialakított tetőzet esetében
+
+a) a magastető
+
+aa) tömegének csökkentenie kell a csatlakozó szomszédos épületek takaratlan tűzfalainak méretét,
+
+ab) hajlásszögének illeszkednie kell a takarandó tűzfalak oromfalának hajlásszögéhez,
+
+ac) fedési anyaga cserép, természetes pala, fém vagy üveg lehet,
+
+b) a lapostető vagy zöldtető kivételesen indokolt esetben, a kézikönyvben foglalt követelmények, illetve ajánlások alapján alakítható ki.
+
+#### 13. §
+
+(1) Épület teljes, vagy az utcai homlokzatot érintő felújítása kizárólag a közterületről látszó tűzfalszakaszok egységes és együttes felújításával történhet.
+
+(2) Építmény megvilágításánál nem alkalmazható változó fényjáték.
+
+#### 14. §[^47]
+
+(1) Üzletjelzés az üzletportállal együtt tervezhető, alakítható ki a homlokzathoz illeszkedő módon.
+
+(2) Cégjelzés, üzletjelzés az épületben lévő rendeltetési egységre, az ott végzett tevékenységre vonatkozóan helyezhető el.
+
+(3) A cégjelzésnek, üzletjelzésnek illeszkednie kell
+
+a) a homlokzat meglévő vagy tervezett vízszintes és függőleges tagolásához, a homlokzati díszítőelemekhez, díszítőrendszerhez, részletképzéshez, nyílászáró rendszerhez, ezek ritmusához és
+
+b) az épület építészeti részletképzéséhez, építészeti hangsúlyaihoz, a homlokzat anyaghasználatához, a homlokzat, a nyílászárók és az üzletportál színéhez.
+
+(4)[^48] Cégjelzés, üzletjelzés nem tartalmazhat mozgó elemet, mozgó vagy villogó fényfeliratot. A kiemelt nemzeti emlékhely részét képező közterülettel közvetlenül határos homlokzaton fényfelirat, világító cégjelzés vagy üzletjelzés nem helyezhető el, és tartható fenn.
+
+(5) A kiemelt nemzeti emlékhely területén nem helyezhető el plakát.
+
+(6) Cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés az épület homlokzati architektúrájába illeszkedően, a kiemelt nemzeti emlékhelynek és környezetének történelmi és műemléki megjelenését, egységes arculatát megőrizve, a kézikönyvben foglalt részletes településképi követelmények, illetve ajánlások alapján tartható fenn, és helyezhető el.
+
+#### 15. §
+
+Sajátos építmény, műtárgy a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete történelmi és műemléki megjelenését, egységes arculatát megőrizve helyezhető el, tartható fenn, a kézikönyvben foglalt részletes településképi követelmények alapján.
+
+#### 16. §
+
+(1) A közterületen sajátos építményfajtát, építményt, köztárgyat, zöldfelületet vagy új képzőművészeti alkotást érintő építési tevékenység és egyéb beavatkozás közterület-alakítási terv alapján vagy annak hiányában a kézikönyvben foglalt követelmények alapján végezhető.
+
+(2) A közterületen lévő építménynek, sajátos építményfajtának, köztárgynak, zöldfelületnek, képzőművészeti alkotásnak illeszkednie kell a kiemelt településkép-védelmi környezet egységes arculatához.
+
+(3) A gyalogosfelületek burkolata természetes anyag, illetve természetes gránitzúzalékot tartalmazó térburkoló anyag lehet, beton térkő nem alkalmazható. Passzázs kizárólag díszburkolattal burkolható.
+
+(4) A közterületen építmény, sajátos építményfajta, köztárgy, zöldfelület, képzőművészeti alkotás az e rendeletben, és amennyiben rendelkezésre áll, a közterület-alakítási tervben és a kézikönyvben foglalt követelmények, illetve ajánlások alapján helyezhető el.
+
+#### 17. §
+
+(1)[^49] A kiemelt nemzeti emlékhely területén – az (5) bekezdésben foglaltak kivételével – nem helyezhető el reklám, reklámeszköz.
+
+(2) A kiemelt településkép-védelmi környezetben reklám, reklámhordozó kizárólag utcabútoron helyezhető el az Rr. rendelkezéseivel összhangban, a (4) bekezdésben foglaltak szerint.
+
+(3) A kiemelt településkép-védelmi környezetben nem létesíthető
+
+a) reklám- és hirdetési célú falfestmény,
+
+b) a kulturális rendezvényre vonatkozó vagy közművelődési célú hirdetés, közérdekű molinó, a (6) bekezdés szerinti építési reklámháló és közterület fölé nyúló árnyékoló berendezés kivételével a közterületek felett átfeszített molinó, reklámközzétételre használt információs és más reklám célú berendezés.
+
+(4) Utcabútor, funkcionális célú utcabútor, plakát, az (5) bekezdés a) pontja szerinti tájékoztatás és az (5) bekezdés b) pontja szerinti építési reklámháló a kézikönyvben foglalt különös formai, anyaghasználati, számosságot meghatározó és a reklámközzététel technológiájára, módszerére és eszközeire vonatkozó részletes településképi követelmények, illetve ajánlások alapján helyezhető el, tartható fenn, alakítható át.
+
+(5) A kiemelt településkép-védelmi környezetben – az (1) és (2) bekezdésben foglaltaktól eltérően – településképi bejelentési eljárásban kérelemre
+
+a) a főváros, a kerület, illetve a kiemelt nemzeti emlékhely szempontjából jelentős eseményről való tájékoztatás vagy
+
+b) az építési tevékenység idejére építési reklámháló kihelyezése
+
+érdekében lehet eltérni.
+
+(6) Az (5) bekezdés b) pontja szerinti építési reklámhálón kizárólag a megépíteni tervezett homlokzat látványterve jeleníthető meg.
+
+#### 17/A. §[^50]
+
+(1) Az Alaptörvény J) cikk (1) bekezdése szerinti nemzeti ünnep (a továbbiakban: ünnep) alkalmából a kiemelt nemzeti emlékhely területén az ünneppel összefüggő jelkép elhelyezhető.
+
+(2) Az (1) bekezdés szerinti jelkép elhelyezésére a KNEB hozzájárulása alapján, a KNEB által meghatározott időtartamban és módon kerülhet sor, azzal, hogy ebben az esetben a KNEB hozzájárulása alapján a 8. § (2) bekezdésében foglaltak alkalmazásától el lehet térni.
+
+#### 18. §
+
+Zöldfelület az e rendeletben és a kézikönyvben foglalt követelmények, illetve ajánlások alapján, telepíthető.
+
+## IV. Fejezet — BEÉPÍTÉSI SZABÁLYOK, SAJÁTOS ÉPÍTÉSÜGYI ÉS ÖRÖKSÉGVÉDELMI KÖVETELMÉNYEK
+
+### 8. Beépítési szabályok, sajátos építésügyi és örökségvédelmi szabályok a Kossuth Lajos téri beruházási programmal összefüggésben
+
+#### 19. §
+
+(1) A Kormány – a Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet 1. § (1) bekezdésében meghatározott beruházással összefüggésben – a 2. mellékletben és a (2) bekezdésben meghatározott beépítési szabályokat állapítja meg.
+
+(2) Az (1) bekezdés szerinti beruházás keretében
+
+a) a Budapest V. kerület belterület 24710/4 és a 24893 helyrajzi számú telkeken megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani;
+
+b) a Budapest V. kerület belterület 24710/4 helyrajzi számú telek tekintetében
+
+ba) építmény, építményrész terepszinten, illetve terepszint alatt közterületre legfeljebb 6 méterrel nyúlhat be, a terepszint alatti közlekedési célú építmény esetében a benyúlás a 6 métert meghaladhatja,
+
+bb)[^51] a közhasználat céljára átadandó területekre vonatkozó, településrendezési tervben rögzített előírásokat nem kell alkalmazni;
+
+c) a Budapest V. kerület belterület 24893 helyrajzi számú telek tekintetében
+
+ca) terepszint alatti építmény a szükséges közműkiváltásokkal létesíthető,
+
+cb) terepszint alatt az Országházhoz kapcsolódó látogató vagy fogadóépítmény, mélygarázs a hozzájuk tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, közlekedési célú építmény, épületgépészeti célú építmény, közműellátás építménye, illetve a b) pont ba) alpontja szerinti építményrész helyezhető el;
+
+d)[^52] a Budapest V. kerület belterület 24881, 24890, 24891, 24892/1, 24893, 24898, 24899, 24971/2, 24715, 24725, 24747/1 helyrajzi számú telek, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészletek tekintetében mélygarázs és egyéb közlekedési célú építmény, a hozzá tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, épületgépészeti célú építmény, közműellátás építménye, továbbá köztéri szobor és műalkotás helyezhető el;
+
+e) a Budapest V. kerület belterület 24719 helyrajzi számú telken a mélygarázs létesítményei megszüntethetők;
+
+f)[^53] a beruházással érintett építményre, építményrészre vonatkozó műszaki, hatékonysági, funkcionális, fenntarthatósági okok miatt építési tevékenység – a településképi arculat helyreállításának kötelezettsége mellett – teljeskörűen végezhető;
+
+g)[^54] a közterületet érintő telekalakítás során a településrendezési tervben rögzített előírásokat nem kell figyelembe venni.
+
+### 9. Beépítési szabályok a kiemelt nemzeti emlékhelyre
+
+#### 20. §
+
+(1)[^55] A kiemelt nemzeti emlékhely Budapest V. kerület belterület 24834/1, 24891, 24892/1, 24893, 24894, 24897/4, 24898 helyrajzi számú telkeire a 2. mellékletben és jelen §-ban meghatározott beépítési szabályokat kell alkalmazni.
+
+(2) Nem tartható fenn és nem valósítható meg olyan rendeltetés, illetve rendeltetési egység, amely önmagában vagy a rendeltetésszerű használata során a megvalósuló tevékenységgel sérti a kiemelt nemzeti emlékhely méltóságát, továbbá nem illeszkedik a kiemelt nemzeti emlékhely történelmi, műemléki és egységes településképi megjelenéséhez, arculatához, illetve akadályozza vagy csorbítja az országos megemlékezések méltó lebonyolítását.
+
+(3) A 24. §-ban és a 25. §-ban meghatározott szabályok a kiemelt nemzeti emlékhely területén lévő ingatlanokra megfelelően alkalmazandóak.
+
+### 10. Beépítési szabályok a kiemelt nemzeti emlékhely településkép-védelmi környezetében lévő ingatlanokra
+
+#### 21. §
+
+A kiemelt nemzeti emlékhely településkép-védelmi környezetében lévő ingatlanokra a 22–26. §-ban meghatározott beépítési szabályokat kell alkalmazni.
+
+#### 22. §
+
+(1) Nem tartható fenn és nem valósítható meg olyan rendeltetés, illetve rendeltetési egység, amely önmagában, vagy a rendeltetésszerű használata során megvalósuló tevékenységgel sérti a kiemelt nemzeti emlékhely méltóságát, továbbá nem illeszkedik a kiemelt településkép-védelmi környezet történelmi, műemléki és egységes településképi megjelenéséhez, arculatához, illetve akadályozza vagy csorbítja az országos megemlékezések méltó lebonyolítását.
+
+(2) Kereskedelmi, szolgáltatási és vendéglátási rendeltetéssel összefüggő önálló rendeltetési egység megvalósítása és a rendeltetés módosítása az e rendelet szerinti szakmai konzultáció és – településképi véleményezési eljáráshoz nem kötött tevékenység esetén – településképi bejelentési eljárás köteles tevékenység.
+
+#### 23. §
+
+(1) Emeletráépítés esetén az emeletráépítéssel létrejövő magasság 1,0 méternél nagyobb mértékben nem haladhatja meg a csatlakozó épület utcai homlokzat-, párkány- és gerincmagasságát.
+
+(2) Az egyes épületrészek magassági növelése során a gerincmagasságot a kialakult szomszédos gerincmagasságok figyelembevételével kell megállapítani, azzal, hogy a gerincmagasság sehol nem lehet a fennálló gerincmagasságnál, valamint a szomszédos épületek gerincmagasságánál 1,0 méterrel nagyobb.
+
+(3) Új épület elhelyezésénél, emelet ráépítésénél, illetve tetőtéri szint térdfal-magasítással járó átépítésénél együttesen kell figyelembe venni az e rendeletben meghatározott egyedi településképi követelményeket és
+
+a) az épülethez csatlakozó épületek homlokzati magasságát,
+
+b) a 2. mellékletben meghatározott építménymagasság megengedett legnagyobb mértékét, valamint
+
+c) a homlokzat kialakításra vonatkozó, kézikönyvben meghatározott részletes településképi követelményeket.
+
+(4)[^56] Tető eredeti formájának és geometriájának, tetődíszének, illetve díszes tetőfelépítményének rekonstrukciója során, illetve azzal összefüggésben történő beruházás esetén a településrendezési tervben előírt beépítési szabályok figyelmen kívül hagyhatók.
+
+#### 24. §
+
+(1)[^57] Közműellátási hálózat létesítményei és szerelvényei épületben vagy közterületen – az (1a) bekezdésben foglalt kivétellel – terepszint alatt helyezhetők el.
+
+(1a)[^58] Közműellátási hálózat létesítményei és szerelvényei közterületen, terepszint felett a KNEB által előzetesen meghatározott módon és időtartamra helyezhetők el. A terepszint feletti elhelyezést a KNEB részére be kell jelenteni.
+
+(2) Hulladékudvar, valamint – terepszint alatt elhelyezés kivételével – hulladéksziget nem létesíthető.
+
+(3) A közterületet érintő kábelek és közművezetékek elhelyezése során a járda burkolatot az egyes járdaszakaszok egységes megjelenésének biztosításával kell helyreállítani.
+
+(4) Közműátépítés során, az üzemen kívül helyezett, felhagyott közműhálózatokat a szolgáltatónak el kell bontania.
+
+(5) A közműellátási hálózat közterületről látszó, a kézikönyvben szabályozott elemei – ideértve az aknafedeleket, nyílászárókat is – a kézikönyvben foglaltaknak megfelelően alakíthatók ki.
+
+#### 25. §
+
+(1) Közterületen nem tartható fenn és nem valósítható meg olyan építmény, vendéglátó terasz, egyéb közterületi építmény, továbbá műtárgy, sajátos építményfajta, pavilon, amely önmagában, vagy a rendeltetésszerű használata során megvalósuló tevékenységgel sérti a kiemelt nemzeti emlékhely méltóságát, továbbá nem illeszkedik a kiemelt településkép-védelmi környezet történelmi, műemléki és egységes településképi megjelenéséhez, arculatához, illetve akadályozza vagy csorbítja az országos megemlékezések méltó lebonyolítását.
+
+(2) Határozott időtartamra létesített ideiglenes építmény a KNEB által meghatározott módon és időtartamra létesíthető.
+
+(3) Pavilon, vendéglátó terasz, egyéb közterületi építmény, továbbá közlekedési tábla, jelzőrendszer, közvilágítás céljára szolgáló oszlop az e rendeletben és a kézikönyvben foglalt részletes településképi követelmények, illetve ajánlások alapján tartható fenn, helyezhető el, építhető.
+
+(4) Közterületen a tulajdonos és a KNEB hozzájárulásával telepíthető vendéglátó terasz és használható terület filmforgatás helyszíneként.
+
+(5)[^59] Vendéglátó terasz kizárólag vendéglátási rendeltetéshez, épülethez kapcsolódóan telepíthető.
+
+### 11. Beépítési szabályok a kiemelt településkép-védelmi környezetben lévő egyes ingatlanokra
+
+#### 26. §
+
+(1) A kiemelt településkép-védelmi környezetben a 2. mellékletben és a (2) bekezdésben meghatározott beépítési szabályokat kell alkalmazni
+
+a) a Budapest V. kerület Kossuth Lajos teret településképi szempontból közvetlenül meghatározó, a Budapest V. kerület belterület 24696, 24697, 24698/1, 24702, 24703, 24707, 24709, 24710/2, 24710/4, 24711, 24712, 24716, 24717, 24718, 24720, 24721, 24722, 24723, 24724, 24883, 24884, 24888, 24889, 24891, 24898, 24900/1, 24900/3, 24915/1, 24915/2, 24915/3, 24915/4, 24915/5, 24916, 24917, 24918, 24919, 24920, 24921, 24922, 24923, 24924, 24925, 24926, 24927, 24928, 24929 helyrajzi számú ingatlanokon található épületekre, továbbá
+
+b)[^60] a Budapest V. kerület belterület 24712, 24716, 24719, 24747/1, 24891, 24892/1, 24892/2, 24898, 24919 helyrajzi számú telkekre.
+
+(2) Az (1) bekezdés a) pontja szerinti épületek energetikai jellemzőire, illetve a munkahelyek természetes megvilágításának biztosítására vonatkozó előírásokat csak abban az esetben lehet alkalmazni, ha azok az egyedi településképi követelményekkel nem ellentétesek, illetve e követelmények érvényesítését nem akadályozzák.
+
+## V. Fejezet — A KÉZIKÖNYVRE VONATKOZÓ SZABÁLYOK
+
+### 12. A kézikönyvre vonatkozó általános rendelkezések
+
+#### 27. §
+
+(1) A kiemelt településkép-védelmi környezetre kézikönyv készül.
+
+(2) A kézikönyv részletes településképi követelményeket meghatározó, az egyedi és a részletes településképi követelmények érvényesítését szolgáló sajátos szemléletformáló eszköz, amely a kiemelt településkép-védelmi környezet teljes területére készül.
+
+(3) A kézikönyvet a KNEB határozattal fogadja el.
+
+(4) A kézikönyv bemutatja a kiemelt településkép-védelmi környezet kimagaslóan egyedi karakterét meghatározó értékeket, településképi és arculati jellemzőket, a településkép minőségi formálására vonatkozó részletes településképi követelményeket, illetve az egyedi és a részletes településképi követelmények érvényesítési módjára továbbá a településkép minőségi formálására vonatkozó ajánlásokat, iránymutatásokat.
+
+(5) A kézikönyv a 4. mellékletben meghatározott tartalommal készül.
+
+### 13. A kézikönyv elkészítésének és egyeztetésének részletes szabályai
+
+#### 28. §
+
+(1) A kézikönyv elkészítéséről a KNEB gondoskodik.
+
+(2) A kézikönyv készítése és módosítása során a (3)–(8) bekezdést kell alkalmazni.
+
+(3)[^61] A KNEB írásban kérelmet küld a TTr. 10. mellékletében szereplő azon államigazgatási és adatszolgáltató szerveknek, amelyek adatszolgáltatása szükséges a kézikönyv kidolgozásához vagy módosításához.
+
+(4) A kérelem átvételétől számított 10 napon belül az államigazgatási szerv teljesíti az adatszolgáltatási témakörben adatszolgáltatási kötelezettségét, és felhasználásra biztosítja a kézikönyv készítéséhez vagy módosításához szükséges adatokat.
+
+(5) A KNEB az elkészült kézikönyvet vagy a módosítását 21 napos határidővel véleményezésre megküldi a Magyar Építész Kamarának, valamint az építésügyért és a kulturális örökség védelméért felelős miniszternek.
+
+(6) Azt az (5) bekezdésben meghatározott véleményezőt, aki az eljárás során határidőn belül nem ad véleményt, kifogást nem emelő véleményezőnek kell tekinteni.
+
+(7) A KNEB a beérkezett vélemények alapján szükség esetén egyeztetést tart, amelyről jegyzőkönyvet készít.
+
+(8) A KNEB az elfogadott kézikönyvet, illetve a módosítását az elfogadást követő 15 napon belül
+
+a) közzéteszi a KNEB által meghatározott honlapon hirdetményben,
+
+b) megküldi hitelesített kép formátumban, az elfogadásról szóló jegyzőkönyvvel együtt
+
+ba) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságnak,
+
+bb) az állami főépítészi hatáskörében eljáró Budapest Főváros Kormányhivatalának, és
+
+bc)[^62]
+
+c) elérhetővé teszi hitelesített kép formátumban, az elfogadásról szóló jegyzőkönyvvel együtt a b) pont szerinti szerveknek.
+
+## VI. Fejezet — A TELEPÜLÉSKÉP-VÉDELMI KONZULTÁCIÓ, A TELEPÜLÉSKÉPI VÉLEMÉNYEZÉSI ELJÁRÁS, A TELEPÜLÉSKÉPI BEJELENTÉSI ELJÁRÁS, EGYÉB ELJÁRÁS[^63]
+
+### 14. Általános követelmények
+
+#### 29. §
+
+A kiemelt településkép-védelmi környezetben végzett építési tevékenységgel összefüggésben
+
+a)[^64] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerinti területi építészeti tervtanácsnak nincs hatásköre,
+
+b)[^65] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerinti Országos Építészeti Tervtanács az e rendeletben foglalt eljárási szabályok szerint jár el.
+
+### 15. A településkép-védelmi konzultáció
+
+#### 30. §
+
+(1)[^66] A KNEB kérelemre az egyedi településképi, és a reklámokra, reklámeszközökre vonatkozó követelményekről – a kérelem beérkezésétől számított 30 napon belül – településkép-védelmi konzultációt és ezen belül szakmai tájékoztatást (a továbbiakban: szakmai konzultáció) biztosít.
+
+(2)[^67] Az (1) bekezdés szerinti szakmai konzultáció az egyedi településképi követelményekre, a kézikönyvben meghatározott településképi követelményekre, ajánlásokra, az ott meghatározott érvényesítési módokra, a reklámokra, reklámeszközökre vonatkozó követelményekre, továbbá az építményrészre, berendezésre kidolgozott egyszerűsített építéstörténeti tudományos dokumentáció tartalmára terjedhet ki.
+
+(3) A szakmai konzultáció biztosítása és a szakmai konzultációért felelős személy meghatározása a KNEB feladata.
+
+(4)[^68] A szakmai konzultációról a konzultáció felelőse jegyzőkönyvet készít, amelyben rögzíti az egyedi településképi követelmények adott esetre vonatkozó lehetséges érvényesítési módját, valamint, a szakmai javaslatokat és elvárásokat. A jegyzőkönyvben a Méptv. 154. § (6) bekezdése szerinti előzetes hozzájáruló nyilatkozat rögzíthető.
+
+(5) A KNEB a szakmai konzultációért díjat nem számít fel.
+
+(6) A kérelemnek tartalmaznia kell az építtető vagy kérelmező (a továbbiakban együtt: kérelmező) nevét és címét, elérhetőségét, valamint a tervezett és konzultációra kért tevékenység címét, az érintett ingatlan helyrajzi számát, a tervezett tevékenység vagy a kérelem tárgyát képező tevékenység pontos leírását.
+
+#### 31. §[^69]
+
+A KNEB szakmai konzultációt biztosít
+
+a)[^70] az építésügyi hatósági eljárásokról és ellenőrzésekről szóló kormányrendeletben építési engedélyhez nem kötött, közterületről látható homlokzatot, nyílászárót, tetőzetet, illetve építményt, sajátos építményfajtát, köztárgyat, zöldfelületet, egyéb műszaki berendezést, egyéb berendezést, képzőművészeti alkotást, üzletportált érintő építési és egyéb tevékenység,
+
+b) cégjelzés, üzletjelzés, plakát, emléktábla, egyéb műszaki berendezés, egyéb berendezés, utcabútor, jelentős eseményről való tájékoztatás, építési reklámháló elhelyezését, módosítását érintő tevékenység,
+
+c)[^71] kereskedelmi, szolgáltatási és vendéglátási rendeltetéssel összefüggő önálló rendeltetési egység megvalósítása, és a rendeltetés módosítása,
+
+d) zöldfelület telepítése,
+
+e)[^72] az egyszerűsített építéstörténeti tudományos dokumentáció tartalmának meghatározása
+
+esetében.
+
+### 16. A településképi véleményezési eljárás
+
+#### 32. §
+
+(1)[^73] A 41. § (1) bekezdés a) pontja szerinti hatóság (a továbbiakban: hatóság) az e rendelet eljárási szabályai szerint közigazgatási hatósági eljárásnak nem minősülő településképi véleményezési eljárást (a továbbiakban: véleményezési eljárás) folytat le az építésügyi hatósági eljárásokról és ellenőrzésekről szóló kormányrendeletben meghatározott, a (2) bekezdés szerinti engedélyezési eljárásokat megelőzően, ha összevont telepítési eljárást, ezen belül telepítési hatásvizsgálati szakaszt nem kezdeményezett a kérelmező.
+
+(2)[^74] A hatóság építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési vagy fennmaradási engedélyezési eljárásokhoz ad kiemelt településképi véleményt (a továbbiakban: településképi vélemény).
+
+#### 33. §
+
+(1)[^75] A véleményezési eljárás lefolytatásához a kérelmező a véleményezendő építészeti-műszaki dokumentációt és a kérelmet az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszeren keresztül nyújtja be.
+
+(2) A kérelemnek tartalmaznia kell a kérelmező nevét és címét, valamint a tervezett és véleményeztetni kért építési tevékenység helyét, az érintett telek helyrajzi számát. A kérelemhez a (3) bekezdés szerinti építészeti-műszaki dokumentációt kell mellékelni.
+
+(3) Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
+
+a) az egyedi településképi követelményeknek való megfelelést igazoló építészeti-műszaki tervet,
+
+b) ha tervezett, a reklámhordozók ábrázolását,
+
+c) a rendeltetés meghatározását, valamint
+
+d) az egyedi településképi követelményeknek való megfelelésről szóló rövid műszaki leírást.
+
+(3a)[^76] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a hatóság legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
+
+(4) A hatóság a kérelem beérkezését követően 5 napon belül kikéri
+
+a)[^77] a KNEB nyilatkozatát, és egyidejűleg hozzáférést biztosít a KNEB számára az (1)–(3) bekezdésben megjelölt dokumentumokhoz, továbbá
+
+b)[^78] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerint az Országos Építészeti Tervtanács feladatkörébe tartozó esetekben és ha a KNEB előzetesen vagy nyilatkozatában kikéri az Országos Építészeti Tervtanács véleményét.
+
+(5) A (4) bekezdés b) pontja esetében
+
+a)[^79] a KNEB e rendeletben meghatározott feladatai ellátásával megbízott szakmai vezetője részt vesz az Országos Építészeti Tervtanács ülésén,
+
+b)[^80] az Országos Építészeti Tervtanács véleményét a hatóság felhívásának beérkezésétől számított 21 napon belül megküldi a hatóságnak és a KNEB-nek.
+
+(6)[^81] A KNEB a nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon – a KNEB hiánypótlási felhívása esetén 110 napon – belül adja ki. Az Országos Építészeti Tervtanács feladatkörébe nem tartozó egyéb esetben a KNEB a véleményezés során a (4) bekezdés b) pont szerint kikérheti az Országos Építészeti Tervtanács véleményét.
+
+(7) A KNEB a nyilatkozat kialakítása során
+
+a) vizsgálja az egyedi településképi követelményeknek való megfelelést,
+
+b) vonatkozó egyedi településképi követelmény hiányában vizsgálja az építmény tömegének, homlokzati kialakításának, tetőformálásának – az e rendelet szerinti – egyedi védelemmel, utcaképi védelemmel érintett épületekhez és a kiemelt településkép-védelmi környezet egységes arculatához egyaránt történő illeszkedését,
+
+c) figyelembe veszi
+
+ca)[^82] az Országos Építészeti Tervtanács (5) és (6) bekezdés szerinti véleményét és
+
+cb) a szakmai konzultáción felvett jegyzőkönyvben foglaltakat.
+
+(7a)[^83] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a KNEB legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
+
+(8) A KNEB nyilatkozatában
+
+a) engedélyezésre – feltétel meghatározásával vagy feltétel nélkül – javasolja a kérelemmel érintett építési tevékenységet, vagy
+
+b) engedélyezésre nem javasolja a kérelemmel érintett építési tevékenységet, ha
+
+ba) a kérelem vagy melléklete nem felel meg az e rendeletben meghatározottaknak, vagy
+
+bb) a kérelemmel érintett építési tevékenység e rendelet szerint nem felel meg az egyedi településképi vagy a (7) bekezdés b) pontja szerinti illeszkedési követelményeknek.
+
+(9) A hatóság a KNEB nyilatkozatában foglaltak szerint dönt, kivéve, ha a KNEB határidőn belül nem nyilatkozik, amely esetben a hatóság a (7) bekezdés a)–c) pontjában és a (8) bekezdés a)–b) pontjában foglaltak szerint jár el, és adja ki a településképi véleményt.
+
+(10) A hatóság véleménye tartalmazza:
+
+a) a kérelmező adatait,
+
+b) a tervezett építési tevékenység rövid leírását, helyét, címét és a telek helyrajzi számát,
+
+c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolását.
+
+(11)[^84] A hatóság a KNEB nyilatkozatának beérkezésétől számított 10 napon – hiánypótlási felhívás esetében 30 napon – belül, amennyiben a KNEB határidőn belül nem nyilatkozik, a kérelem beérkezésétől számított 115 napon – hiánypótlási felhívás esetében 135 napon – belül megküldi véleményét a kérelmezőnek, továbbá a véleményét elektronikus formában feltölti az elektronikus tárhelyre.
+
+(12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
+
+(13)[^85] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+
+### 17. A településképi bejelentési eljárás
+
+#### 34. §
+
+(1)[^86] A hatóság – a műemléket érintő örökségvédelmi engedélyhez kötött tevékenység kivételével – településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytat le
+
+a)[^87] az építésügyi hatósági eljárásokról és ellenőrzésekről szóló kormányrendelet szerint építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenységnek nem minősülő azon építési tevékenységek tekintetében, amelyek megkezdése a 37. § (1) bekezdés a) pontjának hatálya alá tartozik, és
+
+b)[^88] az építmények rendeltetésének megváltoztatása esetében, ha a rendeltetésmódosítás a 37. § (1) bekezdés b) pontjának hatálya alá tartozik, de nem tartozik a Méptv. 171. §-ának hatálya alá.
+
+(2)[^89] A reklámok és reklámeszközök elhelyezésére vonatkozó a Méptv. szerinti eljárásban a hatóság
+
+a) az Rr.-ben meghatározott általános elhelyezési,
+
+b)[^90] a reklámokra, reklámeszközökre vonatkozó, e rendeletben meghatározott egyedi és a kézikönyvben meghatározott részletes településképi
+
+követelményeket érvényesíti.
+
+(3) A bejelentési eljárás lefolytatásához a kérelmező a bejelentést papír alapon 2 példányban nyújtja be a hatósághoz.
+
+(4) A bejelentés tartalmazza:
+
+a) a bejelentő nevét,
+
+b) a bejelentő lakcímét, szervezet esetén székhelyét,
+
+c)[^91] a folytatni kívánt építési tevékenység, vagy a tervezett rendeltetésváltoztatás megjelölését,
+
+d)[^92] a tervezett építési tevékenység, vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát, valamint
+
+e)[^93] az építési tevékenység elvégzésének, a rendeltetésváltozás megvalósításának tervezett időtartamát,
+
+f)[^94] a KNEB nyilatkozatát, amennyiben azt a bejelentő a (7) bekezdés szerint kérelmezte.
+
+(4a)[^95] A KNEB nyilatkozatát a bejelentő a (4) bekezdés a)–e) pontja szerinti bejelentés tervezetének és az (5) bekezdés szerinti dokumentációnak egyidejű megküldésével kérelmezi, a Méptv. 154. § (17) bekezdésében foglalt követelmények szerint.
+
+(5)[^96] A bejelentéshez az egyedi településképi követelményeknek való megfelelést és a részletes településképi követelményekkel való összhangot igazoló papíralapú (5a) bekezdés szerinti építészeti-műszaki dokumentációt, továbbá rendeltetésváltozás esetén a településrendezési terv rendeltetésekre vonatkozó követelményeinek való megfelelést igazoló dokumentációt kell mellékelni két példányban.
+
+(5a)[^97] Az (1) bekezdés a) pont szerinti bejelentéshez az építészeti-műszaki dokumentációnak az alábbi munkarészeket kell tartalmaznia:
+
+a) a kérelem tárgya szerinti építési tevékenység vagy elhelyezés, a településrendezési és építési követelményekről szóló kormányrendeletben foglalt településrendezési és építési követelményeknek, a településrendezési tervben foglalt beépítési szabályoknak, településképi követelményeknek, továbbá az egyedi településképi követelményeknek való megfelelését igazoló tervlapokat és műszaki leírást,
+
+b) az elhelyezésre tervezett üzletjelzés, reklámeszköz ábrázolását.
+
+(5b)[^98] Az (1) bekezdés b) pontja szerinti rendeltetésváltozás bejelentéshez kapcsolódó építészeti-műszaki dokumentációnak az alábbi munkarészeket kell tartalmaznia:
+
+a) a tervezett rendeltetés meghatározását,
+
+b) a rendeltetésváltozás a településrendezési és építési követelményekről szóló kormányrendeletben foglalt településrendezési és építési követelményeknek, a településrendezési tervben foglalt beépítési szabályoknak, rendeltetési követelményeknek való megfelelését igazoló tervlapokat és műszaki leírást,
+
+c) az elhelyezésre tervezett üzletjelzés, reklámeszköz ábrázolását.
+
+(5c)[^99] Ha a bejelentés nem felel meg a (3)–(5b) bekezdésben foglaltaknak, a hatóság legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
+
+(6)[^100] A hatóság – a (8) bekezdés kivételével – a kérelem beérkezését követően a bejelentés egy példányának egyidejű megküldésével haladéktalanul beszerzi a KNEB nyilatkozatát, és a bejelentéshez csatolt dokumentáción a KNEB általi jóváhagyás igazolását.
+
+(7)[^101] A KNEB nyilatkozatát a hatóság felhívásának, vagy a bejelentő kérelmének beérkezésétől számított 90 napon belül küldi meg a hatóságnak vagy a bejelentőnek.
+
+(8)[^102] A hatóság nem kéri be a KNEB (6) bekezdés szerinti nyilatkozatát, amennyiben az előzetes szakmai konzultáción készült jegyzőkönyv nyilatkozatot is tartalmaz, és abban szerepel, hogy a kiadott nyilatkozat felhasználható a településképi bejelentés során, vagy ha a bejelentés a KNEB nyilatkozatot tartalmazta.
+
+#### 35. §
+
+(1)[^103] A hatóság a bejelentést követően, a KNEB nyilatkozatának beérkezésétől számított 10 napon belül, amennyiben a KNEB határidőn belül nem nyilatkozik, a bejelentés – hiánypótlás esetén, a hiánypótlás – beérkezésétől számított 115 napon belül döntésében
+
+a)[^104] a tervezett építési tevékenységet vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha
+
+aa) a bejelentés megfelel a 34. § (3)–(5) bekezdésében meghatározott követelményeknek, és
+
+ab)[^105] a tervezett építési tevékenység vagy rendeltetésváltoztatás illeszkedik a településképbe és megfelel az egyedi településképi követelményeknek, összhangban van a részletes településképi követelményekkel, megfelel az egyedi településképi követelményeknek, valamint a településrendezési és építési követelményekről szóló kormányrendeletben és a településrendezési tervben foglalt követelményeknek, és
+
+ac) a KNEB nyilatkozatában vagy a 34. § (8) bekezdése szerinti jegyzőkönyvben nyilatkozik arról, hogy a tudomásulvételt támogatja;
+
+b)[^106] megtiltja az építési tevékenységet vagy rendeltetésváltoztatás megkezdését, és – a megtiltás indokainak ismertetése mellett – figyelmezteti a bejelentőt a tevékenység bejelentés nélküli elkezdésének és folytatásának jogkövetkezményeire, ha
+
+ba) a bejelentés nem felel meg a 34. § (3)–(5) bekezdésében meghatározott követelményeknek,
+
+bb)[^107] a tervezett építési tevékenység vagy rendeltetésváltoztatás nem illeszkedik a településképbe, vagy nem felel meg az egyedi településképi követelményeknek és rendeltetésváltozás esetén a településrendezési tervben foglalt és a beépítési követelménynek,, nem felel meg a településrendezési és építési követelményekről szóló kormányrendeletben és a településrendezési tervben foglalt követelményeknek, vagy a műszaki kialakítással a tervezett rendeltetés nem valósítható meg, vagy
+
+bc) a KNEB nyilatkozatában a tudomásulvételt nem támogatja.
+
+(2)[^108] A hatóság által tudomásul vett tevékenységet a hatóság döntésének közlésétől számított egy éven belül lehet megkezdeni. Ha a bejelentésben megjelölt tevékenységet a döntés közlésétől számított egy éven belül nem kezdik el, a bejelentést az e rendeletben meghatározottak szerint meg kell ismételni.
+
+(3)[^109] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+
+#### 35/A. §[^110]
+
+(1)[^111] A hatóság kérelemre 15 napon belül – szükség esetén helyszíni szemle alapján – hatósági bizonyítványt állít ki az ingatlan-nyilvántartásban történő átvezetés céljából az építmény, valamint az építményen belüli önálló rendeltetési egység rendeltetésének módosításáról és új rendeltetéséről, továbbá az építmény rendeltetési egységei számának megváltozásáról és az önálló rendeltetési egységek új számáról, ha a rendeltetésváltozás megfelel az országos, valamint a helyi építési követelményeknek, és a hatóság a településképi bejelentést tudomásul vette.
+
+(2) Az (1) bekezdés szerinti hatósági bizonyítványt a hatóság közvetlenül az ingatlanügyi hatóságnak is megküldi, ha az ügyfél kérelmében egyúttal a rendeltetésmódosítás ingatlan-nyilvántartásba történő átvezetését is kezdeményezi.
+
+#### 36. §
+
+A hatóság ellenőrzi a bejelentési kötelezettség teljesítését és a bejelentett tevékenység folytatását. Amennyiben a hatóság a bejelentési eljárás lefolytatásának elmulasztását észleli, a tevékenység folytatását a bejelentési eljárás során megtiltotta vagy azt tudomásul vette, de attól eltérő végrehajtást tapasztal, a hatóság a 40. §-ban foglaltak szerint jár el.
+
+#### 37. §[^112]
+
+(1) A településképi bejelentési eljárás kötelező
+
+a)[^113] a (2) és (3) bekezdés figyelembevételével a TTr. 13. melléklet 1–12., 14–17., 19–24., 26. és 28. pontjában meghatározott, településképi bejelentési eljáráshoz köthető építési tevékenységek, elhelyezések, az építési engedélyhez nem kötött építési tevékenységek,
+
+b)[^114] a Méptv. 33. alcíme hatálya alá nem tartozó, a 22. § (2) bekezdése szerinti kereskedelmi, szolgáltatási, vendéglátási rendeltetést szolgáló rendeltetési egység megvalósítása, rendeltetésmódosítás, vagy a rendeltetési egység számának megváltoztatása, továbbá
+
+c)[^115] utcabútor, üzletjelzés elhelyezését vagy módosítását érintő tevékenység
+
+esetében.
+
+(2)[^116] A településképi bejelentési eljárás a TTr. 13. melléklet 2., 3. és 4. pontja szerint végzett építési tevékenység esetében akkor kötelező, ha
+
+a) a közterületről látható homlokzat homlokzatképzését, ezen belül a felületképzést, az anyaghasználatot, a színezést, a homlokzattagolást, homlokzati architektúrát, a nyílászárókat, továbbá a tetőformálás geometriáját, héjalását és a tetőnyílászárók osztását;
+
+b)[^117] az 1. mellékletben szereplő, egyben egyedi vagy utcaképi (területi) védelem alatt is álló épület közös tulajdonban lévő
+
+ba) belső udvari homlokzat homlokzatképzését, ezen belül a felületképzést, az anyaghasználatot, a színezést, a homlokzattagolást, homlokzati architektúrát, a nyílászárókat,
+
+bb) közös használatú terét, helyiségét, ezen belül a fennállótól eltérő anyaghasználatot, színezést, tértagolást, nyílászárót
+
+érinti.
+
+(3)[^118] A településképi bejelentési eljárás a (2) bekezdésben foglaltaktól eltérően nem kötelező, ha a TTr. 13. melléklet 2. pontja szerint végzett építési tevékenység csak az önálló rendeltetési egység belső felújítási munkájára terjed ki, és nem érinti olyan helyiség válaszfal áthelyezését, illetve bontását, amely az épület közterületről látható homlokzatán lévő nyílászárót tartalmaz.
+
+#### 37/A. §[^119]
+
+(1)[^120] A műemléket érintő, örökségvédelmi engedélyhez kötött tevékenység a KNEB Méptv. 154. § (6) bekezdése szerinti nyilatkozata alapján, azzal összhangban végezhető, ilyen esetben külön településképi bejelentési eljárás lefolytatására nincs szükség.
+
+(2)[^121] A KNEB nyilatkozatát a kérelmező a műemléket érintő örökségvédelmi engedélyhez kötött tevékenység esetén a 34. § (5) bekezdése szerinti dokumentáció egyidejű megküldésével kérelmezi.
+
+### 17/A.[^122] A KNEB egyéb hozzájárulási eljárása
+
+#### 37/B. §
+
+(1) A KNEB kérelemre a Méptv. 154. § (6) bekezdésében meghatározott hozzájáruló nyilatkozat kiadása érdekében az e §-ban foglaltak alapján eljárást folytat le
+
+a) a 29–37/A. § szerinti esetekbe nem tartozó építési tevékenység vagy területhasználat,
+
+b) közterülethasználat, közterület- és környezetrendezés, üzletjelzés-, cégér kihelyezése, valamint
+
+c) a Méptv. 154. § (6) bekezdése szerinti tevékenységek
+
+esetén.
+
+(2) A kérelem tartalmazza
+
+a) a kérelmező nevét, lakcímét vagy székhelyét, cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát,
+
+b) a végezni tervezett tevékenység bemutatását,
+
+c) az érintett ingatlan címét, helyrajzi számát,
+
+d) a kérelem tárgyát és annak részletes leírását, beleértve a végezni tervezett tevékenység időbeli ütemezését, valamint
+
+e) bővítés vagy átalakítás esetén az épületnek, építménynek a bővítést vagy átalakítást megelőző funkciójának megjelölését.
+
+(3) A kérelemhez csatolni kell a végezni tervezett tevékenység engedélyezésére vonatkozó jogszabály szerint a hatósági engedély iránti kérelemhez vagy a hatósági bejelentéshez szükséges mellékleteket is.
+
+(4) Ha a kérelem nem tartalmazza a (2) és (3) bekezdésben foglaltakat, a KNEB a kérelmezőt a kérelem megérkezésétől számított 15 napon belül egy alkalommal, 15 napos határidő biztosításával hiánypótlásra hívja fel. Ha a kérelmező a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, a KNEB a kérelmet visszautasítja.
+
+(5) A KNEB a kérelmet annak beérkezésétől számított 90 napon belül bírálja el.
+
+(6) Ha a kérelmező közigazgatási hatósági engedélyhez vagy bejelentéshez kötött, a Méptv. 154. § (6) bekezdése szerinti tevékenységet a KNEB előzetes hozzájárulása nélkül, vagy az előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően kezdte meg, az ügy eldöntésére vagy a bejelentés tekintetében hatáskörrel rendelkező hatóság a tevékenység gyakorlását azonnali hatállyal megtiltja, továbbá határidő tűzésével
+
+a) a KNEB hozzájárulása nélkül végzett tevékenység esetén az eredeti állapot helyreállítására,
+
+b) a KNEB előzetes hozzájáruló nyilatkozatában foglaltaktól eltérően végzett tevékenység esetén az előzetes hozzájáruló nyilatkozatban foglaltak végrehajtására, illetve az annak megfelelő állapot megvalósítására
+
+kötelezi a tevékenységet végzőt.
+
+(7) Az eljáró hatóság
+
+a) a (6) bekezdés a) pontja szerinti határozatát csak akkor helyezheti hatályon kívül, ha a kérelmező a hozzájárulást utólag beszerezte,
+
+b) az eredeti állapot helyreállítására kötelezi a tevékenységet végzőt, ha az a (6) bekezdés b) pontja szerinti határozatában foglaltakat a határozatban rögzített határidőn belül nem hajtja végre.
+
+(8) A (6) bekezdés hatálya alá nem tartozó minden más, a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység esetében, amennyiben azt a KNEB előzetes hozzájárulása nélkül, vagy az előzetes hozzájáruló nyilatkozatában foglaltaktól eltérően kezdték meg, bíróságtól kérhető a jogsértés megállapítása és a jogsértés megszüntetésére, valamint az eredeti állapot helyreállítására kötelezés.
+
+(9) Ha a végezni kívánt tevékenység jellegét, tartalmát vagy ütemezését tekintve a kérelem benyújtását követően megváltozik, a kérelmező új kérelmet nyújt be a KNEB-hez.
+
+## VII. Fejezet — A TELEPÜLÉSKÉPI KÖTELEZÉS SZABÁLYAI
+
+### 18. A hatósági kötelezés részletes szabályai
+
+#### 38. §
+
+(1)[^123] Ha a hatóság megállapítja az e rendeletben foglalt egyedi településképi követelmények megsértését, társasház esetén a közös képviselőt felhívja az alaprajzi mellékletekkel ellátott társasházi alapító okirat, valamint a szervezeti működési szabályzat 5 napon belüli benyújtására, és határozatában kötelezi az ingatlan tulajdonosát, a tulajdonosi joggyakorlót, vagy a vagyonkezelőt a jogszabálysértés legfeljebb 60 napon belüli megszüntetésére.
+
+(2)[^124] A hatóság az (1) bekezdés szerinti határidő eredménytelen elteltét követően a Méptv. 155. § (6) bekezdése szerint jár el.
+
+(3)[^125] Amennyiben az (1) bekezdés szerinti kötelezett az egyedi településképi követelményeket a hatósági döntésben megállapított határidőben nem teljesíti, a hatóság településképi kötelezésben a Méptv. 155. § (7) bekezdése szerint településkép-védelmi bírságot (a továbbiakban: bírság) szabhat ki, amely során a hatóság a 39. §-ban foglaltak szerint mérlegeli az egyedi településképi követelmény sérelmének súlyát és a jogsértő állapot időtartamát.
+
+#### 39. §
+
+(1) A bírság kiszabása esetén a hatóság a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló törvény alapján dönt a bírság összegéről, mérlegelve a kiemelt nemzeti emlékhellyel kapcsolatos érdek sérelmének a nagyságát, a településkép-védelemmel érintett elem történeti, településképi, kulturális, eszmei jelentőségét és egyediségét.
+
+(2) A hatóság a bírság mértékéről olyan módon dönt, hogy az a kötelezettet a további, a településkép-védelemre vonatkozó jogszabályokat sértő magatartástól visszatartsa.
+
+(3) A hatóság a bírság mértékéről a KNEB nyilatkozatával összhangban dönt.
+
+(4) A bírság összege legalább 200 000 forint.
+
+(5) A bírság összege kérelemre méltányosságból
+
+a) a kötelezett természetes személy szociális körülményeire figyelemmel annak legfeljebb 20%-áig mérsékelhető, vagy
+
+b) részletfizetéssel is teljesíthető, a kiszabástól számított legfeljebb tizenkét hónapon belüli megfizetéssel.
+
+#### 40. §
+
+(1) A hatóság településképi kötelezésről szóló határozatban állapítja meg a bírságot.
+
+(2) A bírság megfizetésének határideje legfeljebb 60 nap.
+
+(3) A határidő kezdő napja a bírságot kiszabó határozat véglegessé válásának napja.
+
+(4) A teljesítési határidő előtt benyújtott kérelemre egy alkalommal, legfeljebb 60 napra halasztás engedélyezhető.
+
+(5) A bírságot az azt megállapító véglegessé vált határozatban előírt határidőn belül, az eljáró hatóság által meghatározott számlára, készpénz átutalási megbízással, banki átutalási megbízással vagy – ha a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+
+(6) A készpénz átutalási megbízáson vagy banki átutalás során fel kell tüntetni
+
+a) a határozat számát,
+
+b) a bírság megnevezését,
+
+c) a kötelezett nevét (megnevezését).
+
+(7) A befizetés megtörténtét a befizetést követő nyolc napon belül a kötelezett köteles a bírságot megállapító hatóság részére igazolni.
+
+(8) A bírság kiszabásáról rendelkező végleges és végrehajtható határozat, valamint a befizetési határidő hosszabbításáról, illetve a részletfizetésről rendelkező végzés végleges záradékkal ellátott egy-egy példányát a hatóság nyolc napon belül köteles közölni
+
+a) a kötelezettel a fizetési határidő pontos megjelölésével,
+
+b) ha nem azonos a kötelezettel, az érintett ingatlan tulajdonosával.
+
+## VIII. Fejezet — HATÓSÁGI ÉS A JOGSZABÁLYBAN MEGHATÁROZOTT TELEPÜLÉSKÉP-VÉDELMI FELADATOK ELLÁTÁSA
+
+#### 41. §
+
+(1)[^126] A Kormány az e rendeletben meghatározott településkép-védelmi hatósági feladatok ellátására a kiemelt településkép-védelmi környezetre kiterjedő illetékességgel településkép-védelmi hatóságként az örökségvédelmi és építésügyi hatáskörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2) A fővárosi és megyei kormányhivatal örökségvédelemmel és építésüggyel kapcsolatos feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a kulturális örökség védelméért felelős miniszter gyakorolja.
+
+(3) A fővárosi és megyei kormányhivatal örökségvédelemmel és építésüggyel kapcsolatos feladatköreinek gyakorlásával összefüggésben felügyeleti szervként a kulturális örökség védelméért felelős miniszter jár el.
+
+## IX. Fejezet — TELEPÜLÉSKÉPI ÖSZTÖNZŐ- ÉS TÁMOGATÁSI RENDSZER
+
+### 19. Általános rendelkezések
+
+#### 42. §
+
+(1) Támogatás nyújtható a kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlan fenntartásához, helyreállításához, felújításához vagy átalakításához közvetlenül kapcsolódó örökségvédelmi célú beruházáshoz.
+
+(2) A támogatás az államháztartásról szóló 2011. évi CXCV. törvény és az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) meghatározott feltételeken felül annak a kedvezményezettnek nyújtható, aki
+
+a) a beruházás előkészítésére és megvalósítására, az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 7. § (2) bekezdésében foglalt feladatok ellátására a 7. § (3) bekezdésében foglaltak szerint az e rendelet szerinti kijelölt beruházás-lebonyolítót megbízta,
+
+b)[^127] a beruházáshoz a KNEB a Méptv. 154. § (6) bekezdésében foglaltak szerinti előzetes hozzájárulását megszerezte,
+
+c) a beruházáshoz nyújtott támogatás iránti kérelmét a beruházás megkezdése előtt benyújtja,
+
+d) rendelkezik a kötelezettségek teljesítését elősegítő anyagi biztosítékkal,
+
+e) kötelezettséget vállal arra, hogy
+
+ea)[^128] a beruházás építési munkáit a támogatási döntést követően, vagy ha az előzetes hatósági döntéshez kötött, akkor annak véglegessé válásától, a kettő közül a későbbi időponttól számított legkésőbb három hónapon belül megkezdi,
+
+eb)[^129] a beruházást annak megkezdésétől számított 18 hónapon belül befejezi,
+
+ec) eleget tesz a támogatás nyújtásával kapcsolatos átláthatósági követelményeknek, valamint
+
+f) vállalja, hogy a beruházással létrejövő eredmény jókarbantartását biztosítja.
+
+(3) Anyagi biztosítékként a hitelnyújtó hitelintézet általános szerződési feltételei szerinti bankári biztosítékok fogadhatók el.
+
+#### 43. §
+
+(1)[^130] A támogatás vissza nem térítendő formában, a kulturális örökség védelméért felelős miniszter irányítása alá tartozó fejezetben szereplő előirányzat terhére nyújtható.
+
+(2)[^131] A támogatásokkal összefüggő, az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése szerinti feladatok tekintetében a kulturális örökség védelméért felelős miniszter által kijelölt kezelő szervként a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Kezelő) kerül kijelölésre. A támogatási kérelmet javaslatával együtt a Kezelő a 44. § (3) bekezdésében meghatározott döntéshozó részére felterjeszti.
+
+(3)[^132] A Kezelő a (2) bekezdésben rögzített feladatait a kulturális örökség védelméért felelős miniszter irányítása alá tartozó fejezetben szereplő kulturális örökségvédelmi célú előirányzat terhére látja el, azzal, hogy a Kezelő (2) bekezdésben meghatározott feladatainak ellátására az (1) bekezdés szerinti előirányzat mértékének legfeljebb 5%-a használható fel.
+
+(4) A támogatás megítélését
+
+a)[^133] a KNEB által a benyújtott támogatási kérelmek között a Méptv. 155. § (2) bekezdés a) pont aa) alpontja szerinti egyedi településképi követelmények érvényesüléséhez, a kiemelt nemzeti emlékhely méltóságának, valamint a kiemelt településkép-védelmi környezet történelmileg hiteles, egységes arculatának megőrzéséhez, fenntartásához és helyreállításához való hozzájárulás mértéke alapján felállított sorrend, a támogatás mértékére tett KNEB javaslat és
+
+b) a központi költségvetés (1) bekezdés szerinti előirányzata terhére lehetséges kötelezettségvállalás nagysága
+
+határozzák meg.
+
+(5) A támogatás nyújtásával kapcsolatos mérlegelés szempontjai:
+
+a) a (4) bekezdés a) pontja szerint megállapított sorrend,
+
+b) a beruházást sürgető körülmény fennállása,
+
+c) a kiemelt településkép-védelmi környezetben folyó, vagy tervezett más örökségvédelmi beavatkozással való összehangolás.
+
+#### 44. §
+
+(1) A támogatás kérelem alapján vehető igénybe.
+
+(2)[^134] A támogatás iránti kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet és az e rendelet szerinti igénylési feltételeket igazoló dokumentumokat hiánytalanul benyújtja a Kezelőhöz.
+
+(3)[^135] A támogatásról a kulturális örökség védelméért felelős miniszter dönt. A miniszter döntése során mérlegeli a KNEB a támogatás maximális mértékére tett 43. § (4) bekezdés a) pontja szerinti javaslatát.
+
+(4) A támogatásról szóló támogatói okiratot a kulturális örökség védelméért felelős miniszter döntését követően a Kezelő adja ki. A támogatás iránti kérelem elutasítása esetén a Kezelő az igénylőt részletesen, írásban tájékoztatja a kérelem elutasításának indokáról.
+
+(5) A támogatás folyósítását, valamint a támogatás felhasználásáról szóló beszámoló felülvizsgálatát, elfogadását a Kezelő végzi. A támogatás iránti kérelem benyújtásakor az e rendelet szerinti feltételek meglétét a Kezelő köteles ellenőrizni.
+
+#### 45. §
+
+(1) A támogatás kizárólag átlátható formában nyújtható.
+
+(2)[^136]
+
+(3) Az e rendelet szerinti támogatás nem halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
+
+(4)[^137]
+
+(5) A támogatási intenzitás kiszámítása során valamennyi felhasznált számadatot az adók és illetékek levonása előtt kell figyelembe venni.
+
+(6)[^138]
+
+#### 45/A. §[^139]
+
+A kijelölt beruházás-lebonyolító a 42. § (2) bekezdés a) pontjában rögzített feladatait a 43. § (1) bekezdésében meghatározott előirányzat terhére látja el, azzal, hogy a kijelölt beruházás-lebonyolító ezen feladatainak ellátására a 43. § (1) bekezdés szerinti előirányzat legfeljebb 5%-a használható fel a Kezelő útján kötött támogatási szerződés alapján.
+
+### 20. A beruházási támogatás szabályai
+
+#### 46. §
+
+(1)[^140] A beruházás finanszírozásához hitelintézettel megkötendő szerződésben előírt önerő pótlására, illetve amennyiben az ingatlan tulajdonosa hitelfelvétel nélkül, részben saját forrásai felhasználásával kívánja a beruházást lebonyolítani, a beruházás részfinanszírozására vagy a 47/A. § szerinti esetben támogatás nyújtható.
+
+(2) Az önerőt pótló támogatás csak olyan hitelszerződéshez igényelhető, amely alapján kizárólag forint alapú kölcsön vehető igénybe, és a kamat, a költség, valamint a tőke törlesztése is csak forintban történhet.
+
+(3) A hitelintézettel megkötendő szerződésben meg kell jelölni az önerőt pótló állami támogatást, és biztosítani kell, hogy annak felhasználása ne essen a hitelintézet által folyósítandó kölcsön felhasználása során támasztott feltételeknél enyhébb megítélés, vagy gyengébb ellenőrzés alá. Ennek részeként külön is megállapításra kell, hogy kerüljön, hogy a folyósított kölcsön felhasználását lezáró dokumentációt a kedvezményezett a kijelölt hitelintézet részére is benyújtja. Nem szükséges a kedvezményezett külön nyilatkozata, ha az (1) bekezdés szerinti szerződést a kedvezményezett a kijelölt hitelintézettel köti meg.
+
+(4) A támogatás mértéke a hitelintézettel megkötendő szerződés alapján a kedvezményezett által biztosítandó önerő értéke, figyelemmel a miniszter 44. § (3) bekezdése szerinti döntésére. A miniszternek a támogatás mértékére vonatkozó döntése hiányában a támogatás mértéke legfeljebb a megkötendő hitelszerződés szerinti kölcsön összegének 66,6%-a, vagy a beruházás elszámolható költségeinek 40%-a, a kettő közül a magasabb érték.
+
+(5)[^141] A támogatási kérelem elbírálásához a hitelintézetnek az (1) bekezdés szerinti szerződés megkötésére szóló ajánlatát, vagy a saját finanszírozású rész rendelkezésre állásának igazolását mellékelni kell.
+
+#### 47. §
+
+(1) A támogatási kérelmet a Kezelőnek kell benyújtani. A Kezelő a támogatás iránti kérelem benyújtásáról és a becsatolt dokumentumokról igazolást ad az igénylőnek, melyben tájékoztatja a kérelem elbírálásának várható időtartamáról.
+
+(2) A támogatás iránti kérelem benyújtásakor az e rendelet szerinti feltételek meglétét a Kezelő köteles ellenőrizni.
+
+(3)[^142] A támogatás összegének folyósítása a megkötött hitelszerződés egy eredeti példányának a kölcsönt nyújtó hitelintézet által, teljességi nyilatkozatával együtt, a Kezelő felé történt közvetlen benyújtását követően történik. A Kezelő a támogatás összegét a kijelölt beruházás lebonyolító elkülönített alszámlájára utalja.
+
+(3a)[^143] A Kezelő a támogatás összegét a kijelölt beruházás-lebonyolító alszámlájára utalja abban az esetben is, ha az ingatlan tulajdonosa a beruházáshoz a 48. § szerinti beruházási kölcsönt nem vesz igénybe.
+
+(4) A kedvezményezett a beruházás megvalósításáról a pályázati kiírásban meghatározott záródokumentáció benyújtásával nyilatkozik a Kezelőnek.
+
+#### 47/A. §[^144]
+
+Kiemelt nemzeti emlékhely településkép-védelmi környezetében megvalósuló beruházással összefüggésben – egységes utcakép létrehozása vagy fenntartása érdekében – a KNEB javaslata alapján pályázat nélkül 100%-os támogatás nyújtható.
+
+### 21. A beruházási kölcsön támogatás szabályai
+
+#### 48. §
+
+(1)[^145] A beruházás finanszírozásához beruházási kölcsön támogatás nyújtható.
+
+(2) A beruházási kölcsön támogatás
+
+a) legfeljebb a beruházás elszámolható költségei összegének erejéig,
+
+b)[^146] 10 éves futamidejű, egyenletes tőketörlesztésű,
+
+c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet (a továbbiakban: Csokr.) alapján árazott,
+
+d) a folyósítás, valamint kamat, költség, és tőketörlesztés során forintban elszámoló
+
+kölcsönszerződéshez nyújtható.
+
+(3)[^147] A megítélt beruházási kölcsön támogatás a kijelölt hitelintézethez kerül folyósításra annak érdekében, hogy a folyósított támogatási összeg felhasználásával a kijelölt hitelintézet az általa – a kiemelt településkép-védelmi környezetben álló ingatlanon tervezett örökség- vagy településkép-védelmi célú beruházás finanszírozására – meghirdetett hitelprogram keretében az ahhoz csatlakozott hitelintézet útján, vagy csatlakozott hitelintézet, illetve annak kölcsönnyújtása hiányában közvetlenül beruházási kölcsönt nyújtson a.
+
+(4) A megkötendő hitelszerződésben meg kell jelölni a beruházási kölcsön állami támogatástartalmát, és biztosítani kell, hogy annak felhasználása nem eshet a hitelintézet általános szerződési feltételei alapján folyósítandó hasonló kölcsön felhasználása során támasztott feltételeknél enyhébb megítélés vagy gyengébb ellenőrzés alá.
+
+(5)[^148] A támogatás mértéke a hitelintézettel megkötendő szerződés szerint fizetendő
+
+a) kamat 100%-a, és
+
+b)[^149] a tőketörlesztés (6) bekezdés szerint számítandó része.
+
+(6)[^150] A beruházási kölcsön tőketörlesztésére támogatás olyan arányban nyújtható, mint amilyen a szerződéskötéskor az a)–d) pontban foglaltaknak együttesen megfelelő kedvezményezettek tulajdoni hányadának aránya a kölcsönszerződés megkötésében részt vevők összes tulajdoni hányadához viszonyítva:
+
+a) magyar állampolgárságú természetes személy,
+
+b)[^151] megfelel a Csokr. 14. § (1) bekezdésében támasztott feddhetetlenségi követelményeknek, melyről a büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik,
+
+c) a beruházással érintett ingatlanban a támogatás megítélésekor lakástulajdonnal rendelkezik,
+
+d) a c) pont szerinti lakóingatlan a támogatás megítélésekor bejelentett lakóhelye.
+
+(7)[^152] Az (5) bekezdés a) és b) pontja szerinti támogatást a kölcsönszerződésben meghatározott adósságszolgálat ütemében folyósítja a Kezelő. A Kezelő a tőketörlesztésre eső támogatás folyósítása előtt ellenőrzi a (6) bekezdés c) pontjában foglaltak fennállását.
+
+(8) Öröklés esetén az illetékekről szóló 1990. évi XCIII. törvény 16. § (1) bekezdés i) pontjában meghatározott természetes személy a (6) bekezdés szerinti támogatásra jogosult kedvezményezettnek tekintendő.
+
+(9)[^153]
+
+(10)[^154] Amennyiben a (6) bekezdés szerinti arányosításnál figyelembe vett kedvezményezett a a tőke törlesztésének lezárulta előtt a (6) bekezdés c) pontja szerinti lakástulajdont elidegeníti, úgy a arányosításnál figyelembe vett kedvezményezett nem jogosult az (5) bekezdés b) pontja szerinti támogatásnak a lakástulajdon (7) bekezdés szerinti ellenőrzését követően, a tőketörlesztés futamidejének lejártáig esedékes részére. A támogatás a beruházási kölcsön önkéntes előtörlesztése esetén a futamidőből hátralévő időszakra nem vehető igénybe.
+
+#### 49. §[^155]
+
+A beruházási kölcsön kérelmet a Kezelő a kijelölt hitelintézetnek továbbítja a hitelkérelem elbírálása érdekében. A jóváhagyott beruházási kölcsön kamat- és tőketámogatására a 45. § és a 47. § rendelkezéseit kell alkalmazni, azzal, hogy a kamat- és tőketámogatás jóváhagyását a Kezelő végzi a kijelölt hitelintézet által megadott információk alapján.
+
+#### 50. §
+
+A beruházási kölcsön támogatás folyósítása és elszámolása a Csokr. szabályai szerint történik.
+
+## X. Fejezet — AZ EGYES ELŐÍRÁSOKTÓL VALÓ ELTÉRÉS FELTÉTELEI
+
+#### 51. §
+
+(1) Az e rendeletben meghatározott egyedi településképi követelményektől való eltérésre egyszerűsített építéstörténeti tudományos dokumentáció alapján a KNEB nyilatkozatában meghatározott feltétel szerint van mód.
+
+(2) Az egyedi településképi követelményektől – az (1) bekezdés szerinti – eltérő megoldás akkor hagyható jóvá, ha
+
+a) a kialakult helyzet indokolja,
+
+b) az közérdeket nem sért,
+
+c) az 5. §-ban foglalt követelmények teljesülnek, és
+
+d) az a kézikönyv településképi követelményeivel és a településkép minőségi formálására vonatkozó javaslataival nem ellentétes.
+
+## XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 22. Hatályba léptető rendelkezések
+
+#### 52. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 38. § (3) bekezdése, a 39. § és a 40. § az e rendelet kihirdetését követő 16. napon lép hatályba.
+
+#### 52/A. §[^156]
+
+E rendeletnek a Steindl Imre Program megvalósításával kapcsolatban egyes kormányrendeletek módosításáról szóló 2/2021. (I. 7.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 8. § (6) bekezdését és 35. § (2) bekezdését a Módr. hatálybalépésekor[^157] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 52/B. §[^158]
+
+E rendeletnek a Nemzeti Emlékhely és Kegyeleti Bizottságról szóló 258/2010. (XI. 12.) Korm. rendelet és a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet módosításáról szóló 388/2023. (VIII. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 35/A. §-át, 47/A. §-át, valamint módosított 46. § (1) bekezdését a Módr2. hatálybalépésekor[^159] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 52/C. §[^160]
+
+(1) E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 424/2024. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr3.) módosított
+
+a) 9. § (4) bekezdésében meghatározott kerületi építési szabályzat alatt a településkép védelméről szóló kerületi önkormányzati rendeletet, valamint
+
+b) 35. § (1) bekezdés a) pont ab) alpontjában és b) pont bb) alpontjában meghatározott településrendezési terv alatt a kerületi építési szabályzatot
+
+kell érteni a kerületi településterv hatálybalépéséig.
+
+(2) E rendeletnek a Módr3. által megállapított 6. § (11) bekezdését, 9. § (4) bekezdését, 12. § (3a) bekezdését, 33. § (3a) és (7a) bekezdését, 34. § (5a)–(5c) bekezdését, 17/A. alcímét, 38. § (1) bekezdését a Módr3. hatálybalépésekor[^161] folyamatban lévő közigazgatási hatósági és a KNEB hozzájárulására irányuló ügyekben is alkalmazni kell.
+
+### 23. Az Európai Unió jogának való megfelelés
+
+#### 53. §
+
+Ez a rendelet a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezetének, valamint 56. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+#### 54. §
+
+A 2. § és a 3. § a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezete, valamint 56. cikke hatálya alá tartozó támogatást tartalmaz.
+
+### 24. A településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet módosítása
+
+### 25. A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet módosítása
+
+### 26. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
+
+### 27. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása
+
+### 28. A kiemelt nemzeti emlékhely használatának rendjéről szóló 119/2014. (IV. 8.) Korm. rendelet módosítása
+
+## 1. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^168]
+
+**A kiemelt nemzeti emlékhely településkép-védelmi környezetének részét képező ingatlanok, ingatlanrészek jegyzéke**
+
+|  | A | B | C | D | E |
+|---|---|---|---|---|---|
+| 1. | Természetbeni cím (Budapest V. kerület) | *Helyrajzi szám* | *Ingatlanrész esetén annak lehatárolása* | *Ingatlanrész esetén lehatárolást egyértelműsítő koordináta* | *Védelmi szint a 6. § alapján: egyedi védelem (V), utcaképi védelem (UV)* |
+| 2. |  | 23809/7 | teljes közterület |  |  |
+| 3. |  |  |  |  |  |
+| 4. | Duna folyam (adott szakasza) | 23809/8 | az Országház látványa szerint a Duna folyam part menti kikötési zónája | (241076,29 649917,39 N 47° 30' 49,010'' E 19° 02' 46,861''); (241098,96 649873,98 N 47° 30' 49,744'' E 19° 02' 44,786''); (241087,77 649870,54 N 47° 30' 49,382'' E 19° 02' 44,622''); (241034,61 649855,23 N 47° 30' 47,660'' E 19° 02' 43,890''); (240994,52 649846,15 N 47° 30' 46,362'' E 19° 02' 43,456''); (240952,34 649838,88 N 47° 30' 44,996'' E 19° 02' 43,109''); (240906,00 649831,84 N 47° 30' 43,496'' E 19° 02' 42,772''); (240537,46 649776,36 N 47° 30' 31,562'' E 19° 02' 40,122''); (240512,59 649772,11 N 47° 30' 30,756'' E 19° 02' 39,918''); (240473,12 649765,89 N 47° 30' 29,478'' E 19° 02' 39,621''); (240427,06 649759,45 N 47° 30' 27,987'' E 19° 02' 39,314''); (240347,08 649749,82 N 47° 30' 25,397'' E 19° 02' 38,854''); (240266,90 649741,37 N 47° 30' 22,801'' E 19° 02' 38,450''); (240184,63 649736,59 N 47° 30' 20,137'' E 19° 02' 38,222''); (240103,79 649737,28 N 47° 30' 17,519'' E 19° 02' 38,255''); (240063,25 649739,78 N 47° 30' 16,206'' E 19° 02' 38,375''); (240018,09 649744,50 N 47° 30' 14,744'' E 19° 02' 38,600''); (239996,09 649747,68 N 47° 30' 14,032'' E 19° 02' 38,752''); (240003,24 649796,54 N 47° 30' 14,263'' E 19° 02' 41,087''). |  |
+| 5. | Széchenyi rakpart (Kossuth Lajos tér – Széchenyi rakpart közötti szakasz) | 24568 | Kossuth Lajos tértől a Zoltán utca déli homlokzatvonaláig | (240007,19 649823,55 N 47° 30' 14,391'' E 19° 02' 42,378'') |  |
+| 6. | Akadémia utca | 24666 | Kossuth Lajos tértől a Zoltán utca csomóponttal, a Zoltán utca déli homlokzatvonalával bezárólag | (240017,52 649892,43 N 47° 30' 14,726'' E 19° 02' 45,669''); (240020,02 649907,15 N 47° 30' 14,807'' E 19° 02' 46,373'') |  |
+| 7. | Zoltán utca (Akadémia utca – Nádor utca szakasz) | 24694 | teljes közterület | (240041,36 650054,21 N 47° 30' 15,498'' E 19° 02' 53,400'') |  |
+| 8. | Zoltán utca (Széchenyi rakpart – Akadémia utca közötti szakasz) | 24695 | teljes közterület | (240009,27 649837,73 N 47° 30' 14,459'' E 19° 02' 43,055'') |  |
+| 9. | Akadémia utca 18. / Széchenyi rakpart 9. / Zoltán utca 2-4. | 24696 | teljes épület |  | UV |
+| 10. | Akadémia utca 20. / Széchenyi rakpart 10. / Kossuth Lajos tér 2-4. | 24697 | teljes épület |  | UV |
+| 11. | Zoltán utca 6. / Akadémia utca 19. | 24698/1 | teljes épület |  | V |
+| 12. | Garibaldi köz | 24698/2 | teljes közterület |  |  |
+| 13. | Zoltán utca 8. | 24699 | teljes épület |  | V |
+| 14. | Zoltán utca 10. | 24700 | teljes épület |  | V |
+| 15. | Zoltán utca 12. | 24701 | teljes épület |  | V |
+| 16. | Nádor utca 32. / Zoltán utca 14. | 24702 | teljes épület |  |  |
+| 17. | Nádor utca 34. / Garibaldi utca 9. | 24703 | teljes épület |  | UV |
+| 18. | Garibaldi utca 7. | 24704 | teljes épület |  | UV |
+| 19. | Garibaldi utca 5. | 24705 | teljes épület |  | UV |
+| 20. | Garibaldi utca 3. | 24706 | teljes épület |  | UV |
+| 21. | Akadémia utca 21. / Garibaldi utca 1. | 24707 | teljes épület |  | V |
+| 22. | Garibaldi utca | 24708 | teljes közterület |  |  |
+| 23. | Nádor utca 36. / Garibaldi utca 6. | 24709 | teljes épület |  | UV |
+| 24. | Garibaldi utca 4. | 24710/1 | teljes épület |  | UV |
+| 25. | Kossuth Lajos tér 5. / Garibaldi utca 2. | 24710/2 | teljes épület |  | UV |
+| 26. | Kossuth Lajos tér 6-7-8. | 24710/4 | teljes épület |  |  |
+| 27. | Kossuth Lajos tér 9. | 24711 | teljes épület |  | UV |
+| 28. | Kossuth Lajos tér 10. / Vértanúk tere 1. | 24712 | teljes épület |  | UV |
+| 29. | Nádor utca | 24713 | Vértanúk terétől a Zoltán utca csomóponttal, a Zoltán utca déli homlokzatvonalával bezárólag | (240042,15 650087,93 N 47° 30' 15,523'' E 19° 02' 55,012'') |  |
+| 30. | Zoltán utca (Nádor utca – Szabadság tér közötti szakasz) | 24715 | teljes közterület | (240051,06 650149,18 N 47° 30' 15,812'' E 19° 02' 57,939'') |  |
+| 31. | Szabadság tér 16. / Zoltán utca 18. / Vécsey utca 2. | 24716 | teljes épület |  |  |
+| 32. | Zoltán utca 16. / Nádor utca 29. | 24717 | teljes épület |  | UV |
+| 33. | Vécsey utca 4. / Nádor utca 31. / Vértanúk tere 2. | 24718 | teljes épület |  | UV |
+| 34. | Vécsey utca | 24719 | teljes közterület |  |  |
+| 35. | Szabadság tér 15. / Vécsey utca 1. / Honvéd utca 2. | 24720 | teljes épület |  |  |
+| 36. | Vécsey utca 3. | 24721 | teljes épület |  | UV |
+| 37. | Vécsey utca 5. / Vértanúk tere 3. / Báthory utca 1. | 24722 | teljes épület |  | UV |
+| 38. | Báthory utca 3. | 24723 | teljes épület |  | V |
+| 39. | Báthory utca 5. / Honvéd utca 4. | 24724 | teljes épület |  |  |
+| 40. | Honvéd utca (Szabadság tér – Báthory utca közötti szakasz) | 24725 | teljes közterület | (240145,36 650216,47 N 47° 30' 18,865'' E 19° 03' 01,155'') |  |
+| 41. | Szabadság tér | 24747/1 | az Országház látványtengelye szerint a tér északnyugati részén vezető szolgalmi út Honvéd utca és a Zoltán utca közötti szakasza | (240053,45 650165,62 N 47° 30' 15,889'' E 19° 02' 58,724''); (240076,38 650161,99 N 47° 30' 16,632'' E 19° 02' 58,551''); (240096,83 650166,18 N 47° 30' 17,294'' E 19° 02' 58,751''); (240117,09 650183,03 N 47° 30' 17,950'' E 19° 02' 59,556''); (240125,83 650200,24 N 47° 30' 18,233'' E 19° 03' 00,379''); (240129,20 650218,80 N 47° 30' 18,342'' E 19° 03' 01,266'') |  |
+| 42. | Báthory utca | 24834/2 | Vértanúk terétől a Honvéd utca csomóponttal bezárólag, a Honvéd utca keleti homlokzatvonaláig | (240216,00 650206,18 N 47° 30' 21,153'' E 19° 03' 00,663'') |  |
+| 43. | Kálmán Imre utca | 24859 | Kozma Ferenc utcától a Honvéd utca csomóponttal bezárólag, a Honvéd utca keleti homlokzatvonaláig | (240290,21 650193,04 N 47° 30' 23,556'' E 19° 03' 00,035'') |  |
+| 44. | Honvéd utca (Kálmán Imre utca – Alkotmány utca közötti szakasz) | 24881 | teljes közterület | (240305,04 650191,42 N 47° 30' 24,036'' E 19° 02' 59,958'') |  |
+| 45. | Honvéd utca (Báthory utca – Kálmán Imre utca közötti szakasz) | 24882 | teljes közterület | (240242,86 650199,90 N 47° 30' 22,023'' E 19° 03' 00,363'') |  |
+| 46. | Báthory utca 6. / Honvéd u. 6. | 24883 | teljes épület |  | V |
+| 47. | Báthory utca 4. / Kozma F. u. 1. | 24884 | teljes épület |  | V |
+| 48. | Kozma Ferenc utca 3. / Kálmán Imre utca 1. | 24885 | teljes épület |  |  |
+| 49. | Honvéd utca 8. / Kálmán Imre utca 3. | 24886 | teljes épület |  | V |
+| 50. | Honvéd utca 10. / Kozma Ferenc utca 5. / Kálmán Imre utca 2. | 24887 | teljes épület |  | UV |
+| 51. | Alkotmány utca 5. / Honvéd u. 12. | 24888 | teljes épület |  | UV |
+| 52. | Alkotmány utca 3. / Kozma F. u. 7. | 24889 | teljes épület |  | UV |
+| 53. | Kozma Ferenc utca | 24890 | teljes közterület |  |  |
+| 54. | Alkotmány utca | 24892/2 | teljes közterület | (240 418,30 650 541,98 N 47° 30' 27,703'' E 19° 03' 16,711''); (240 409,16 650 552,21 N 47° 30' 27,407'' E 19° 03' 12,200''); (240 448,43 650 553,22 N 47° 30' 28,678'' E 19° 03' 17,248'') (240391,05 650166,63 N 47° 30' 26,822'' E 19° 02' 58,774''); (240363,58 650170,57 N 47° 30' 25,932'' E 19° 02' 58,962'') |  |
+| 55. | Széchenyi rakpart (Margit híd – Kossuth Lajos tér közötti szakasz) | 24897/2 | teljes közterület | (241048,58 649970,10 N 47° 30' 48,113'' E 19° 02' 49,380'') |  |
+| 56. | idősebb Antall József rakpart | 24897/3 | Margit hídtól a Zoltán utca déli homlokzatvonalának magasságáig | (241068,84 649931,65 N 47° 30' 48,769'' E 19° 02' 47,542'') |  |
+| 57. | Vajkay utca | 24899 | teljes közterület |  |  |
+| 58. | Szalay utca 3. / Vajkay utca 5. / Honvéd utca 18. | 24900/1 | teljes épület |  | V |
+| 59. | Honvéd utca 16. / Vajkay utca 3. | 24900/2 | teljes épület |  | V |
+| 60. | Alkotmány utca 4. / Vajkay utca 1. / Honvéd utca 14. | 24900/3 | teljes épület |  |  |
+| 61. | Szalay utca | 24914 | Kossuth Lajos tértől a Honvéd utca csomóponttal bezárólag, a Honvéd utca keleti homlokzatvonaláig |  |  |
+| 62. | Széchenyi rakpart 12/a. / Balassi Bálint utca 2/a. / Kossuth Lajos tér 18. | 24915/1 | teljes épület |  | V |
+| 63. | Széchenyi rakpart 12/b. | 24915/2 | teljes épület |  | V |
+| 64. | Markó utca 1/a. / Széchenyi rakpart 13. | 24915/3 | teljes épület |  | V |
+| 65. | Markó utca 1/b. / Balassi Bálint utca 4. | 24915/4 | teljes épület |  | V |
+| 66. | Balassi Bálint utca 2/b. | 24915/5 | teljes épület |  | V |
+| 67. | Balassi Bálint utca 7. / Markó utca 3a. | 24916 | teljes épület |  | UV |
+| 68. | Balassi Bálint utca 1-3-5. | 24917 | teljes épület |  | UV |
+| 69. | Kossuth Lajos tér 17. | 24918 | teljes épület |  | UV |
+| 70. | Falk Miksa utca 2. / Kossuth Lajos tér 13-14-15-16. | 24919 | teljes épület |  |  |
+| 71. | Falk Miksa utca 4. | 24920 | teljes épület |  | UV |
+| 72. | Falk Miksa utca 6. | 24921 | teljes épület |  | UV |
+| 73. | Falk Miksa utca 8. | 24922 | teljes épület |  | UV |
+| 74. | Falk Miksa utca 10. / Markó utca 3b. | 24923 | teljes épület |  | UV |
+| 75. | Falk Miksa utca 7. / Markó utca 5. | 24924 | teljes épület |  | UV |
+| 76. | Falk Miksa utca 5. | 24925 | teljes épület |  | UV |
+| 77. | Falk Miksa utca 3. | 24926 | teljes épület |  | UV |
+| 78. | Falk Miksa utca 1. / Szalay utca 2. | 24927 | teljes épület |  | UV |
+| 79. | Szalay utca 4. | 24928 | teljes épület |  | V |
+| 80. | Szalay utca 6-8. / Honvéd utca 20. | 24929 | teljes épület |  | V |
+| 81. | Markó utca 07. | 24930 | teljes épület |  | V |
+| 82. | Markó utca 09. | 24931 | teljes épület |  |  |
+| 83. | Markó utca 11. / Honvéd utca 22-24. | 24933 | teljes épület |  |  |
+| 84. | Markó utca (Falk Miksa utca – Honvéd utca közötti szakasz) | 24954/2 | teljes közterület | (240632,22 650172,58 N 47° 30' 34,630'' E 19° 02' 59,058'') |  |
+| 85. | Markó utca (Balassi Bálint utca – Falk Miksa utca közötti szakasz) | 24955/2 | teljes közterület | (240664,94 650027,78 N 47° 30' 35,690'' E 19° 02' 52,137'') |  |
+| 86. | Markó utca (Balassi Bálint utca – Széchenyi rakpart közötti szakasz) | 24956/2 | teljes közterület |  |  |
+| 87. | Olimpia Park (déli rész) (Balassi Bálint utca 6.-10. / Széchenyi rakpart 14.-16. / Markó utca 2. / Stollár Béla utca 1.) | 24957 | teljes terület |  |  |
+| 88. | Falk Miksa utca (Kossuth Lajos tér – Stollár Béla utca közötti szakasz) | 24965/2 | Kossuth Lajos tértől a Markó utca csomóponttal bezárólag, a Markó utca északi homlokzatvonaláig | (240660,62 650045,81 N 47° 30' 35,550'' E 19° 02' 52,999'') |  |
+| 89. | Honvéd utca (Alkotmány utca – Szent István körút közötti szakasz) | 24971/2 | Alkotmány utcától a Markó utca csomóponttal bezárólag, a Markó utca északi homlokzatvonaláig | (240392,62 650178,37 N 47° 30' 26,872'' E 19° 02' 59,334''); (240 503,36 650 162,50 N 47° 30' 30,458'' E 19° 02' 58,576''); (240 523,91 650 164,28 N 47° 30' 31,123'' E 19° 02' 58,661''); (240628,83 650187,39 N 47° 30' 34,521'' E 19° 02' 59,765'') |  |
+| 90. | Olimpia Park (középső park rész) (Stollár Béla utca) | 24987 | teljes terület |  |  |
+| 91. | Olimpia Park (északi rész) (Balassi Bálint utca 12.-14. / Széchenyi rakpart 17.-18. / Balaton utca 1. / Stollár Béla utca 2.) | 24988 | teljes terület |  |  |
+| 92. | Balassi Bálint utca | 24989/2 | teljes közterület | (240929,46 650022,38 N 47° 30' 44,255'' E 19° 02' 51,879''); (240678,89 649966,55 N 47° 30' 36,142'' E 19° 02' 49,211'') |  |
+| 93. | Balaton utca (Balassi Bálint utca – Széchenyi rakpart közötti szakasz) | 25007 | teljes közterület |  |  |
+| 94. | Széchenyi rakpart 19. / Jászai Mari tér 1. / Balassi Bálint utca 16. / Balaton utca 2. (*Képviselői Irodaház*) | 25008 | teljes épület |  | V |
+| 95. | Jászai Mari tér (gyalogos, zöld terület) | 25122/4 | teljes közterület | (241043,31 649967,28 N 47° 30' 47,942'' E 19° 02' 49,245''); (241011,91 650025,45 N 47° 30' 46,925'' E 19° 02' 52,026'') |  |
+| 96. | Jászai Mari tér (hídról lehajtó forgalmi terület) | 25122/6 | teljes közterület | (241002,40 650049,34 N 47° 30' 46,617'' E 19° 02' 53,168'') |  |
+| 97. | Szabadság tér 17. / Nádor utca 25–27. / Széchenyi utca 18. / Zoltán utca 17. | 24714 | teljes épület |  |  |
+
+## 2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^169]
+
+**A IV. fejezettel összefüggő beépítési szabályok**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th><th>**F**</th><th>**G**</th><th>**H**</th><th>**I**</th><th>**J**</th><th>**K**</th></tr></thead><tbody><tr><td>**1.**</td><td rowspan="3">**érintett telek** **(Budapest** **V. kerület, helyrajzi szám)**</td><td colspan="5">**az építési telek**</td><td colspan="5">**az épület**</td></tr><tr><td>**2.**</td><td>**legkisebb kialakítható területe**</td><td>**legnagyobb kialakítható területe**</td><td>**beépítettség megengedett legnagyobb mértéke**</td><td>**terepszint alatti beépítettség megengedett legnagyobb mértéke**</td><td>**szintterületi mutató megengedett legnagyobb mértéke**</td><td>**a zöldfelület legkisebb mértéke**</td><td>**épület legmagasabb pontja**</td><td>**utcai párkány-** **magasság**</td><td>**az építmény-magasság megengedett legkisebb mértéke**</td><td>**az építmény-magasság megengedett legnagyobb mértéke**</td></tr><tr><td>**3.**</td><td>**(m**<sup>2</sup>**)**</td><td>**(m)**</td><td>**(%)**</td><td>**(%)**</td><td>**(m**<sup>2</sup>**/m**<sup>2</sup>**)**</td><td>**(%)**</td><td>**(m)**</td><td>**(m)**</td><td>**(m)**</td><td>**(m)**</td></tr><tr><td>**4.**</td><td>24710/4</td><td>800</td><td>3000</td><td>100</td><td>100</td><td><sup>¤</sup></td><td>0</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>28</td></tr><tr><td>**5.**</td><td>24712</td><td>800</td><td>2000</td><td>80</td><td>100</td><td>5,5 / 6,0 *</td><td>10 **</td><td><sup>¤</sup></td><td>23,6</td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**6.**</td><td>24715</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>100</td><td><sup>¤</sup></td><td>**</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**7.**</td><td>24716</td><td>800</td><td>2000</td><td>80</td><td>100</td><td>5,5 / 6,0 *</td><td>10 **</td><td><sup>¤</sup></td><td>24,5</td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**8.**</td><td>24719</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>0</td><td>0</td><td>0</td><td>két oldali fasor</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>**9.**</td><td>24725</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>100</td><td><sup>¤</sup></td><td>**</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**10.**</td><td>24747/1</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>100</td><td><sup>¤</sup></td><td>15 **</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**11.**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>**12.**</td><td>24881</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**13.**</td><td>24890</td><td>□</td><td>□</td><td>2</td><td>85</td><td>□</td><td>□</td><td>□</td><td>□</td><td>□</td><td>□</td></tr><tr><td>**14.**</td><td>24891</td><td>800</td><td>2000</td><td>100</td><td>100</td><td>□</td><td>0</td><td>□</td><td>□</td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**15.**</td><td>24834/1</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>2</td><td>85</td><td>0</td><td>4,5</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>3,0</td><td>4,5</td></tr><tr><td>**16.**</td><td>24892/1</td><td>¤</td><td>¤</td><td>2</td><td>100</td><td>¤</td><td>¤</td><td>¤</td><td>¤</td><td>0</td><td>1</td></tr><tr><td>**17.**</td><td>24893</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>100</td><td>0</td><td>25</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**18.**</td><td>24894</td><td>800</td><td>2000</td><td>80</td><td>100</td><td>5,5 / 6,0 *</td><td>10 **</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**19.**</td><td>24897/4</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>80</td><td>0</td><td>0</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**20.**</td><td>24898</td><td>800</td><td>2000</td><td>80</td><td>100</td><td>5,5 / 6,0 *</td><td>10**</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**21.**</td><td>24899</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**22.**</td><td>24919</td><td>800</td><td>2000</td><td>80</td><td>100</td><td>5,5 / 6,0 *</td><td>10**</td><td><sup>¤</sup></td><td>23,6</td><td>16</td><td>25 / 28 ***</td></tr><tr><td>**23.**</td><td>24971/2</td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td><td><sup>¤</sup></td></tr><tr><td>**24.**</td><td>24892/2</td><td>¤</td><td>¤</td><td>2</td><td>100</td><td>¤</td><td>¤</td><td>¤</td><td>¤</td><td>0</td><td>1</td></tr></tbody></table>
+
+| <sup>¤</sup> | a településrendezési tervben rögzített előírásokat nem kell alkalmazni |
+|---|---|
+| * | közhasználat céljára átadásra kerülő megfelelő arányú földszinti, közterülethez kapcsolódó terület esetén 6,0 m² /m², a KNEB-bel és a kerületi önkormányzattal történő külön megállapodás alapján |
+| ** | legkisebb kötelező zöldfelület mértéke mélygarázs, meglévő pinceszint, terepszint alatti építmény vagy egyéb építményszint 100%-os beépítése esetén 0% is lehet |
+| *** | a 28 m-es érték alkalmazható, ha azt az illeszkedési követelmények lehetővé teszik |
+
+## 3. melléklet a 19/2018. (II. 14.) Korm. rendelethez
+
+**Az egyszerűsített építéstörténeti tudományos dokumentáció tartalma**
+
+1\. Forráskutatás (meghatározó írott források, térképek, tervek, fényképek, ábrázolások, szóbeli visszaemlékezések);
+
+2\. részletes külső építészeti leírás;
+
+3\. építés- és telektörténet összefoglalása a korábbi állapotok változásainak leírásával;
+
+4\. a felhasznált irodalom és források jegyzéke, a felhasznált (különösen az ábrázolásos és a levéltári) források másolatai;
+
+5\. javaslat a további tudományos vagy roncsolásos kutatásra, kutatói megfigyelésre;
+
+6\. összefoglaló értékelés;
+
+7\. az érték megőrzésére és fenntartására vonatkozó szakértői javaslat (amelyben meg kell jelölni, hogy melyek az épület eredeti nyílászárói, illetve, hogy mely nyílászárók tekinthetők mintadarabnak).
+
+## 4. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^170]
+
+**A kiemelt nemzeti emlékhely és településkép-védelmi környezetére vonatkozó arculati kézikönyv tartalmi követelménye**
+
+1\. A kiemelt nemzeti emlékhely és településkép-védelmi környezetének bemutatása, településkép, településkarakter;
+
+2\. műemléki, építészeti, és természeti értékek;
+
+3\. településképi, arculati jellemzők és településkarakter;
+
+4\. a településkép minőségi formálására vonatkozó – egyedi településképi követelménynek minősülő – részletes településképi követelmények:
+
+a) a tetőzeten nyílászáró elhelyezésére, kialakítására vonatkozó részletes követelmények,
+
+b) üzletportálokkal kapcsolatos részletes követelmények,
+
+c) közterület-alakításra vonatkozó részletes követelmények,
+
+d) cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés, egyéb műszaki berendezés elhelyezésére, kialakítási módjára vonatkozó részletes követelmények,
+
+e) sajátos építményfajtákra, műtárgyakra vonatkozó részletes követelmények,
+
+f) utcabútorok elhelyezésére vonatkozó részletes követelmények,
+
+g) zöldfelületek kialakítási módjára vonatkozó követelmények;
+
+5\. az egyedi és a részletes településképi követelmények érvényesítési módja, a településkép minőségi formálására vonatkozó ajánlások:
+
+a) építészeti útmutató,
+
+b) közterületek településképi útmutatója.
+
+---
+
+[^1]: Az 1. § nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pont bb) alpontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § a) pontja a 420/2021. (VII. 15.) Korm. rendelet 95. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § 3. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § 7. pontja a 285/2024. (IX. 30.) Korm. rendelet 138. § 2. pontja szerint módosított szöveg.
+[^6]: A 3. § 8. pontja a 449/2025. (XII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^7]: A 3. § 10. pontja a 90/2018. (IV. 25.) Korm. rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^8]: A 3. § 10a. pontját a 197/2020. (V. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 138. § 3. pontja szerint módosított szöveg.
+[^9]: A 3. § 14. pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^10]: A 3. § 15. pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 1. pontja és 8. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § 16. pontja a 285/2024. (IX. 30.) Korm. rendelet 138. § 4. pontja szerint módosított szöveg.
+[^12]: A 3. § 21. pontja a 285/2024. (IX. 30.) Korm. rendelet 138. § 5. pontja szerint módosított szöveg.
+[^13]: A 3. § 24. pont záró szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 138. § 6. pontja szerint módosított szöveg.
+[^14]: A 3. § 25a. pontját a 85/2019. (IV. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 424/2024. (XII. 23.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^15]: A 3. § 26. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^16]: A 3. § 27. pontja a 285/2024. (IX. 30.) Korm. rendelet 138. § 7. pontja szerint módosított szöveg.
+[^17]: A III. Fejezet címe a 424/2024. (XII. 23.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^18]: A 6. § (1) bekezdés nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^19]: A 6. § (1) bekezdés c) pontja a 85/2019. (IV. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (5) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 138. § 8. pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^22]: A 6. § 9. pontját a 197/2020. (V. 12.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 6. § (10) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^24]: A 6. § (11) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 7. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 95. § b) pontja, a 776/2021. (XII. 23.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
+[^26]: A 7. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 8. § (1) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^28]: A 8. § (5) bekezdését a 320/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^29]: A 8. § (6) bekezdését a 2/2021. (I. 7.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 9. § (4) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A 11. § (1) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
+[^32]: A 11. § (2) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^33]: A 11. § (3) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^34]: A 11. § (5) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^35]: A 11. § (6) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^36]: A 11. § (7) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^37]: A 11. § (8) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^38]: A 11. § (10) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^39]: A 11. § (11) bekezdés c) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § i) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
+[^40]: A 11. § (11) bekezdés d) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § j) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 8. pontja, a 424/2024. (XII. 23.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^41]: [A 11. § (11) bekezdés e) pontban a 424/2024. (XII. 23.) Korm. rendelet 13. § 9. pontja által elrendelt módosítás, amely szerint a „helyezhető el,” szövegrész helyébe a „helyezhető el, kivéve homlokzati sík mögött vagy az udvari homlokzaton rejtett kivitelben,” szöveg lép, nem vezethető át.]
+[^42]: A 11. § (11) bekezdés e) pont ea) alpontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^43]: A 11. § (17) bekezdése a 197/2020. (V. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^44]: A 11. § (19) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^45]: A 12. § (3a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^46]: A 12. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 95. § d) pontja szerint módosított szöveg.
+[^47]: A 14. § a 85/2019. (IV. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^48]: A 14. § (4) bekezdése a 197/2020. (V. 12.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^49]: A 17. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^50]: A 17/A. §-t a 316/2025. (X. 17.) Korm. rendelet 2. §-a iktatta be.
+[^51]: A 19. § (2) bekezdés b) pont bb) alpontja a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+[^52]: A 19. § (2) bekezdés d) pontja a 197/2020. (V. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^53]: A 19. § (2) bekezdés f) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^54]: A 19. § (2) bekezdés g) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+[^55]: A 20. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^56]: A 23. § (4) bekezdését a 145/2018. (VIII. 13.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+[^57]: A 24. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^58]: A 24. § (1a) bekezdését a 197/2020. (V. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^59]: A 25. § (5) bekezdése a 197/2020. (V. 12.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^60]: A 26. § (1) bekezdés b) pontja a 197/2020. (V. 12.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^61]: A 28. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^62]: A 28. § (8) bekezdés b) pont bc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^63]: A VI. Fejezet címe a 424/2024. (XII. 23.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^64]: A 29. § a) pontja a 677/2020. (XII. 28.) Korm. rendelet 53. §-a, a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és b) pontja szerint módosított szöveg.
+[^65]: A 29. § b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és c) pontja szerint módosított szöveg.
+[^66]: A 30. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
+[^67]: A 30. § (2) bekezdése a 197/2020. (V. 12.) Korm. rendelet 6. §-ával megállapított, a 424/2024. (XII. 23.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
+[^68]: A 30. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 138. § 9. pontja szerint módosított szöveg.
+[^69]: A 31. § a 85/2019. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^70]: A 31. § a) pontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 3. pontja szerint módosított szöveg.
+[^71]: A 31. § c) pontja a 197/2020. (V. 12.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^72]: A 31. § e) pontját a 197/2020. (V. 12.) Korm. rendelet 7. §-a iktatta be.
+[^73]: A 32. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^74]: A 32. § (2) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
+[^75]: A 33. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^76]: A 33. § (3a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^77]: A 33. § (4) bekezdés a) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^78]: A 33. § (4) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és d) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
+[^79]: A 33. § (5) bekezdés a) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^80]: A 33. § (5) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^81]: A 33. § (6) bekezdése a 284/2024. (IX. 30.) Korm. rendelet 5. § d) és e) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
+[^82]: A 33. § (7) bekezdés c) pont ca) alpontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^83]: A 33. § (7a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^84]: A 33. § (11) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 18. és 19. pontja szerint módosított szöveg.
+[^85]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^86]: A 34. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^87]: A 34. § (1) bekezdés a) pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 5. pontja, a 285/2024. (IX. 30.) Korm. rendelet 138. § 10. pontja és 139. § a) pontja szerint módosított szöveg.
+[^88]: A 34. § (1) bekezdés b) pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 6. pontja, a 285/2024. (IX. 30.) Korm. rendelet 138. § 11. pontja szerint módosított szöveg.
+[^89]: A 34. § (2) bekezdés nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 20. pontja és 14. § 6. pontja, záró szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
+[^90]: A 34. § (2) bekezdés b) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^91]: A 34. § (4) bekezdés c) pontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^92]: A 34. § (4) bekezdés d) pontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
+[^93]: A 34. § (4) bekezdés e) pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 7. pontja, a 424/2024. (XII. 23.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.
+[^94]: A 34. § (4) bekezdés f) pontját a 776/2021. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^95]: A 34. § (4a) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 138. § 12. pontja szerint módosított szöveg.
+[^96]: A 34. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 95. § f) pontja, a 776/2021. (XII. 23.) Korm. rendelet 7. § 8. pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 23. pontja és 14. § 10. pontja szerint módosított szöveg. [A 34. § (5) bekezdésében a 424/2024. (XII. 23.) Korm. rendelet 13. § 24. pontja által elrendelt módosítás, amely szerint az „igazoló papíralapú dokumentációt” szövegrész helyébe az „igazoló (5b) bekezdés szerinti dokumentációt” szöveg lép, nem vezethető át.]
+[^97]: A 34. § (5a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^98]: A 34. § (5b) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^99]: A 34. § (5c) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^100]: A 34. § (6) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 9. pontja szerint módosított szöveg.
+[^101]: A 34. § (7) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 10. pontja szerint módosított szöveg.
+[^102]: A 34. § (8) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 11. pontja szerint módosított szöveg.
+[^103]: A 35. § (1) bekezdés nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 25. pontja szerint módosított szöveg.
+[^104]: A 35. § (1) bekezdés a) pont nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
+[^105]: A 35. § (1) bekezdés a) pont ab) alpontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 26. pontja és 14. § 12. pontja szerint módosított szöveg.
+[^106]: A 35. § (1) bekezdés b) pont nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
+[^107]: A 35. § (1) bekezdés b) pont bb) alpontja a 420/2021. (VII. 15.) Korm. rendelet 95. § g) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 27. pontja és 14. § 14. pontja szerint módosított szöveg.
+[^108]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 8. §-a iktatta be.
+[^109]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^110]: A 35/A. §-t a 388/2023. (VIII. 14.) Korm. rendelet 2. §-a iktatta be.
+[^111]: A 35/A. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 28. pontja szerint módosított szöveg.
+[^112]: A 37. § a 776/2021. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^113]: A 37. § (1) bekezdés a) pontja a 424/2024. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^114]: A 37. § (1) bekezdés b) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^115]: A 37. § (1) bekezdés c) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 30. pontja szerint módosított szöveg.
+[^116]: A 37. § (2) bekezdés nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 31. pontja szerint módosított szöveg.
+[^117]: A 37. § (2) bekezdés b) pont nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.
+[^118]: A 37. § (3) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 33. pontja szerint módosított szöveg.
+[^119]: A 37/A. §-t a 776/2021. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^120]: A 37/A. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 138. § 13. pontja szerint módosított szöveg.
+[^121]: A 37/A. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 139. § b) pontja szerint módosított szöveg.
+[^122]: A 17/A. alcímet (37/B. §-t) a 424/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^123]: A 38. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^124]: A 38. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 138. § 14. pontja szerint módosított szöveg.
+[^125]: A 38. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 138. § 15. pontja szerint módosított szöveg.
+[^126]: A 41. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 193. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^127]: A 42. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 138. § 16. pontja szerint módosított szöveg.
+[^128]: A 42. § (2) bekezdés e) pont ea) alpontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
+[^129]: A 42. § (2) bekezdés e) pont eb) alpontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
+[^130]: A 43. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^131]: A 43. § (2) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^132]: A 43. § (3) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^133]: A 43. § (4) bekezdés a) pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 14. pontja, a 285/2024. (IX. 30.) Korm. rendelet 138. § 17. pontja szerint módosított szöveg.
+[^134]: A 44. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
+[^135]: A 44. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 16. pontja és 8. § b) pontja szerint módosított szöveg.
+[^136]: A 45. § (2) bekezdését a 197/2020. (V. 12.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^137]: A 45. § (4) bekezdését a 197/2020. (V. 12.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^138]: A 45. § (6) bekezdését a 197/2020. (V. 12.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^139]: A 45/A. §-t a 197/2020. (V. 12.) Korm. rendelet 10. §-a iktatta be.
+[^140]: A 46. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja, a 388/2023. (VIII. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^141]: A 46. § (5) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 17. pontja szerint módosított szöveg.
+[^142]: A 47. § (3) bekezdése a 197/2020. (V. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^143]: A 47. § (3a) bekezdését a 197/2020. (V. 12.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^144]: A 47/A. §-t a 388/2023. (VIII. 14.) Korm. rendelet 3. §-a iktatta be.
+[^145]: A 48. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^146]: A 48. § (2) bekezdés b) pontja a 197/2020. (V. 12.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^147]: A 48. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^148]: A 48. § (5) bekezdés nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^149]: A 48. § (5) bekezdés b) pontja a 197/2020. (V. 12.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 776/2021. (XII. 23.) Korm. rendelet 7. § 18. pontja és 8. § e) pontja szerint módosított szöveg.
+[^150]: A 48. § (6) bekezdés nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 7. § 19. pontja szerint módosított szöveg.
+[^151]: A 48. § (6) bekezdés b) pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 20. pontja szerint módosított szöveg.
+[^152]: A 48. § (7) bekezdése a 197/2020. (V. 12.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 776/2021. (XII. 23.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.
+[^153]: A 48. § (9) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^154]: A 48. § (10) bekezdése a 197/2020. (V. 12.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 776/2021. (XII. 23.) Korm. rendelet 7. § 22. pontja és 8. § g) pontja szerint módosított szöveg.
+[^155]: A 49. § a 776/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^156]: Az 52/A. §-t a 2/2021. (I. 7.) Korm. rendelet 9. §-a iktatta be.
+[^157]: A hatálybalépés időpontja 2021. január 15.
+[^158]: Az 52/B. §-t a 388/2023. (VIII. 14.) Korm. rendelet 4. §-a iktatta be.
+[^159]: A hatálybalépés időpontja 2023. augusztus 17.
+[^160]: Az 52/C. §-t a 424/2024. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
+[^161]: A hatálybalépés időpontja 2024. december 24.
+[^168]: Az 1. melléklet a 90/2018. (IV. 25.) Korm. rendelet 9. § b) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (1) bekezdése, a 776/2021. (XII. 23.) Korm. rendelet 6. §-a és 7. § 23. pontja szerint módosított szöveg.
+[^169]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+[^170]: A 4. melléklet a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

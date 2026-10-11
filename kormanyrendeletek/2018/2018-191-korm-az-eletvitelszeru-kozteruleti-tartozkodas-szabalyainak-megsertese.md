@@ -1,0 +1,65 @@
+---
+title: "191/2018. (X. 12.) Korm. rendelet az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel kapcsolatban közreműködő egyes szervek kijelöléséről és feladatairól szóló 178/2018. (X. 2.) Korm. rendelet eltérő szöveggel történő hatálybalépéséről"
+identifier: "191/2018. (X. 12.) Korm. rendelet"
+njt_id: "2018-191-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/191"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-10-12
+in_force_from: 2018-10-15
+last_amended: 2018-10-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-191-20-22"
+retrieved: 2026-10-12
+---
+
+# 191/2018. (X. 12.) Korm. rendelet az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel kapcsolatban közreműködő egyes szervek kijelöléséről és feladatairól szóló 178/2018. (X. 2.) Korm. rendelet eltérő szöveggel történő hatálybalépéséről
+
+A Kormány\
+a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (1) bekezdés *g)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+Az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel kapcsolatban közreműködő egyes szervek kijelöléséről és feladatairól szóló 178/2018. (X. 2.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 3. §-sal lép hatályba:
+
+„3. § (1) Az ingóságok ideiglenes tárolásba vételének folyamatáról az előkészítő eljárást folytató szerv az intézkedés helyszínén a Rendőrségről szóló 1994. évi XXXIV. törvény 42. §-ában meghatározottak szerint köteles kép- és hangfelvételt készíteni. A kép- és hangfelvételt úgy kell elkészíteni, hogy az alkalmas legyen az ingóságok későbbi, egyedi azonosítására.
+
+(2) Az ideiglenes tárolásba vett ingóságot – több ingóság esetén azok csomagolását – azonosításra alkalmas jellel kell ellátni. Az azonosításra alkalmas jel tartalmazza
+
+*a)* a kijelölt ideiglenes tárolást végző szerv megnevezését és a tárolás helyét,
+
+*b)* az elkövető rendelkezésre álló természetes személyazonosító adatait (családi és utóneve, születési családi és utóneve, születési helye, születési ideje és anyja születési családi és utóneve),
+
+*c)* a helyszíni intézkedés helyét és időpontját,
+
+*d)* az eljáró szerv megnevezését.
+
+(3) Az azonosításra alkalmas jel egy példányát át kell adni az elkövetőnek, egy példányát az előkészítő eljárást folytató szerv őrzi meg.
+
+(4) Az ideiglenes tárolásba vett ingóságok őrzéséről az ideiglenes tárolást végző szerv gondoskodik. Az ideiglenes tárolásba vett ingóságok tárolását biztonságosan és úgy kell végezni, hogy az változatlan állapotban megmaradjon, az azonosság biztosított és könnyen megállapítható legyen.
+
+(5) Ha az ideiglenes tárolásba vett ingóság gyorsan romló, bomló, tárolhatatlan dolog, azok megsemmisítésére a Szabs. tv. 178/B. § (10) bekezdésében meghatározottak alapján az elkobzott dolgok megsemmisítésére vonatkozó szabályok megfelelő alkalmazásával kell intézkedni.”
+
+## 2. §
+
+A Korm. rendelet a következő 4. §-sal lép hatályba:
+
+„4. § (1) A Szabs. tv. 178/B. §-a szerinti, az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés esetében azon ingóságok ideiglenes tárolásának helyéről,
+
+*a)* amelyeket az elkövető az előállítása során nem vesz magához, de úgy nyilatkozik, hogy azokra igényt tart, valamint
+
+*b)* amelyek vonatkozásában az *a)* pont szerinti nyilatkozat a helyszíni intézkedés során nem szerezhető be,
+
+– a rendelkezésre álló tárolási és szállítási kapacitásokra figyelemmel – a diszpécserközpont tájékoztatást nyújt az előkészítő eljárást folytató szerv részére.
+
+(2) Az állami szervek és a helyi önkormányzat, valamint az 1. §-ban meghatározott szolgáltatók és intézmények által rendelkezésre bocsátott tárolási és szállítási kapacitások a felajánlott tárolási hely szerint illetékes diszpécserközpontnak jelenthetők be. Bejelentett tároló- és szállítási kapacitás hiányában az ideiglenesen tárolásba vett ingóságok tárolásáról és elszállításáról az előkészítő eljárást folytató szerv gondoskodik.
+
+(3) Az ideiglenes tárolásba vett ingóságok helyszíni őrzésében szükség szerint azok elszállításáig a polgárőrség is közreműködhet.
+
+(4) Az ideiglenes tárolással összefüggő feladatok végrehajtása során az eljárásban részt vevő szervek az ideiglenes tárolásba vett ingóságok szállítására, tárolására, őrzésére, megsemmisítésére közreműködőt vehetnek igénybe.”
+
+## 3. §
+
+Ez a rendelet 2018. október 15-én lép hatályba.

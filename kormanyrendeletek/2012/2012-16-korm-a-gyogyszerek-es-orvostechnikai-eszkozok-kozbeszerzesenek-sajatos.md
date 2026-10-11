@@ -1,0 +1,245 @@
+---
+title: "16/2012. (II. 16.) Korm. rendelet a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól"
+identifier: "16/2012. (II. 16.) Korm. rendelet"
+njt_id: "2012-16-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/16"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-02-16
+in_force_from: 2012-02-17
+last_amended: 2025-02-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-16-20-22"
+retrieved: 2026-10-12
+---
+
+# 16/2012. (II. 16.) Korm. rendelet a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól
+
+A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 11. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §[^1]
+
+A 2–17. §-t a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerint lefolytatott olyan közbeszerzési eljárásokra kell alkalmazni, amelyek tárgya gyógyszer vagy orvostechnikai eszköz beszerzése.
+
+### 1/B. §[^2]
+
+E rendelet hatálya nem terjed ki az egységes intézeti gyógyszertári szolgáltatásról szóló 33/2024. (II. 22.) Korm. rendelet 1. § (1) bekezdés c) pontja szerinti gyógyszerek beszerzésére.
+
+### 1/A. §[^3]
+
+A 17/A. §-t a 17/A. § szerinti uniós szintű intézkedés alapján végrehajtott beszerzésekre kell alkalmazni.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *árurabatt:* termék közbeszerzésekor áruban meghatározott kedvezmény;
+
+2\. *gyógyszer:* az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 1. pontja szerinti anyag;
+
+2a.[^4] *KTR Adatbázis:* az Országos Kórházi Főigazgatóság által működtetett gyógyszer vagy orvostechnikai eszközökre vonatkozó – az érintett gazdálkodó szervezet és az 1. § szerinti termékek adatait tartalmazó – nyilvántartási rendszer;
+
+3\. *orvostechnikai eszköz:*
+
+a)[^5] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 2. cikk 1. pontjában meghatározott eszköz, és
+
+b)[^6] az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 2. cikk 2. pontjában meghatározott eszköz;
+
+4\. *sürgős ellátási igény:* amennyiben a beteg azonnali, illetve rövid időn belüli gyógyszeres vagy orvostechnikai eszközzel történő ellátás hiányában közvetlen életveszélybe kerülne, súlyos vagy maradandó egészségromlást szenvedne, illetve a gyógyszeres vagy orvostechnikai eszközzel történő ellátás hiánya irreverzíbilis folyamatokat indítana el, és a várható élettartamot és emellett az életminőséget jelentősen kedvezőtlenül befolyásolná.
+
+## 3. Az Országos Egészségbiztosítási Pénztár által beszerzett gyógyszerek és orvostehnikai eszközök
+
+### 3. §
+
+(1)[^7] A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a jogszabályi kötelezettségére alapított, ellátási körébe tartozó,
+
+a) a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet 4. számú mellékletében feltüntetett gyógyszerhatóanyagokhoz és a betegségcsoportokhoz kapcsolódó gyógyszerek, valamint
+
+b)[^8] az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) 1/A. számú mellékletében feltüntetett, tételes elszámolás alá eső hatóanyagok
+
+biztosítására közbeszerzési eljárásokat folytat, és a közbeszerzési eljárás nyertesével – több ajánlattevővel megkötendő keretmegállapodás esetén nyerteseivel – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:136. §-ának az alkalmazásával az országos koordináló funkciót ellátó intézmény és a kijelölt egészségügyi szolgáltató javára szállítási szerződéseket vagy szállítási keretmegállapodásokat köt.
+
+(2)[^9] A NEAK a központi költségvetésről szóló törvényben meghatározott előirányzat terhére az R. 1. számú mellékletében található, tételes elszámolás alá eső és természetben biztosított egyszerhasználatos eszközök és implantátumok beszerzése érdekében közbeszerzési eljárásokat folytat, és az eljárás nyertesével a Ptk. 6:136. §-ának az alkalmazásával a kijelölt egészségügyi szolgáltató javára szállítási szerződéseket vagy szállítási keretmegállapodásokat köt.
+
+## 4. Általános szabályok
+
+### 4. §
+
+(1)[^10] A gyógyszer és orvostechnikai eszköz közbeszerzésére irányuló eljárásra a Kbt. szabályait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(2) A Kbt. szerinti meghívásos eljárásban az ajánlatkérő nem határozhatja meg az ajánlattevők keretszámát.
+
+### 5. §[^11]
+
+A Kbt. 25.§ (2) bekezdésének az alkalmazásában összeférhetetlenséget eredményez, ha az eljárást előkészítő, vagy az ajánlatkérő képviseletét ellátó személynek, a Ptk. szerinti közeli hozzátartozójának vagy élettársának a lehetséges vagy tényleges ajánlattevők bármelyikével közös gazdasági érdekeltsége van, vagy ha a lehetséges vagy tényleges ajánlattevőktől pénzbeli vagy természetbeni juttatásban, illetve támogatásban részesült. Az összeférhetetlenséget a közbeszerzési eljárást megelőző két évre visszamenőleg kell vizsgálni.
+
+### 6. §
+
+(1)[^12] Az ajánlatkérő az eljárást megindító felhívásban a Kbt. 76. § (6) bekezdésé e) pontjában foglaltak sérelme nélkül előírhatja árurabatt adásának kötelezettségét és annak mértékét.
+
+(2)[^13] Az ajánlatkérő a Kbt. 58. § (1) bekezdésének alkalmazásakor legfeljebb azon mennyiség száz százalékának megfelelő mértékű opcionális részt adhat meg, amelynek beszerzésére a szerződésben kötelezettséget vállal (alapmennyiség).
+
+(2a)[^14] Kivételesen indokolt esetben az ajánlatkérő a (2) bekezdésben foglalt mértéknél nagyobb arányú opcionális részt is meghatározhat. Az indoklást az ajánlatkérő az eljárás előkészítése során köteles írásban dokumentálni.
+
+(2b)[^15] Az ajánlatkérő a Kbt. 65. § (1) bekezdése szerinti alkalmassági követelmények meghatározásakor a Kbt. 65. § (5) bekezdésében foglaltak alkalmazása során akkor is csak legfeljebb az adott közbeszerzés alapmennyiségéhez vagy – a Kbt. 19. § (3) bekezdésének alkalmazása nélkül számított – értékéhez képest harminc százalékos opcionális részt tartalmazó mértéket vehet alapul, ha az opcionális rész mértékét ennél nagyobb arányban határozta meg.
+
+(3)[^16] Az ajánlatkérő e rendelet hatálya alá tartozó árubeszerzések esetén választhatja a Kbt. 76. § (6) bekezdés a) pontja szerinti, a legalacsonyabb ár egyedüli értékelési szempontját.
+
+### 7. §
+
+Az e rendelet szerinti közbeszerzési eljárásokban beszerzett áruk a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló rendelet tekintetében különleges célt szolgáló áruk.
+
+### 8. §
+
+Az eljárást megindító felhívásban gyógyszerek vonatkozásában a közbeszerzés tárgya meghatározható az egyes indikációk felsorolása helyett a forgalomba hozatalra engedélyezett gyógyszer „valamennyi indikációja” megjelölés alkalmazásával.
+
+### 9. §
+
+(1)[^17] A Kbt. 58. § (2)–(4) bekezdése szerinti közbeszerzési műszaki leírás követelményét az ilyen tárgyú jogszabályi meghatározásra hivatkozás, továbbá
+
+a) gyógyszerek esetében az ATC kód és az OENO kód,
+
+b) orvostechnikai eszközök eszközök esetében az ISO kód, a GMDN kód vagyy EAN kód, valamint az OENO kód meghatározása is teljesíti.
+
+(2)[^18] Az orvostechnikai eszköz megfelelőségét az ajánlattevő az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökről szóló rendeletben, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló rendeletben előírtak szerint megfelelőségi nyilatkozattal és – ha az orvostechnikai eszköz vagy az in vitro diagnosztikai orvostechnikai eszköz forgalomba hozatalához az MDR, az IVDR, illetve az orvostechnikai eszközökről szóló rendelet, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló rendelet alapján szükséges – CE megfelelőségi tanúsítvánnyal köteles igazolni.
+
+### 9/A. §[^19]
+
+A Kbt. 19. § (3) bekezdésére figyelemmel a becsült érték meghatározása során az azonos vagy hasonló felhasználásra szánt áru megítélésének alapjául gyógyszerek esetében az ATC 5 szintű hétjegyű kódot (hatóanyag) kell figyelembe venni. Nem minősül azonos vagy hasonló felhasználásra szánt árunak az ajánlatkérő az intézeti gyógyszertár útján a fekvőbeteg ellátást végző intézmény gyógyszerellátására szánt, valamint az intézeti gyógyszertár szakfeladatként közvetlen lakossági gyógyszerellátást biztosító egysége számára történő gyógyszerbeszerzése.
+
+### 10. §
+
+A gyógyszer és az orvostechnikai eszköz, valamint az ezekhez kapcsolódó szolgáltatás közbeszerzése esetén a szükséges anyagi fedezet mértékének megállapításánál az ajánlatkérő a szállítás költségeit és a beteg adott gyógyszerre történő beállításának, átállításának költségeit is figyelembe veheti.
+
+### 12. §
+
+Tárgyalásos eljárás alkalmazása esetén az ajánlatkérő köteles a közbeszerzési eljárást megindító felhívásban a Kbt.-ben, és a 14. § vagy a 15. § (2)–(3) bekezdésének az alkalmazása esetén az e rendeletben meghatározott valamely jogcímre is hivatkozni.
+
+### 12/A. §[^21]
+
+(1) Az e rendelet hatálya alá tartozó, állami fenntartású egészségügyi intézmények által indított orvostechnikai eszközökre vonatkozó közbeszerzési eljárásokban a nyertes ajánlattevők a szerződéskötés időpontjáig kötelesek a KTR Adatbázisban regisztrálni és a szerződés keretében szállítandó termékeket rögzíteni.
+
+(2) A nyertes ajánlattevő (1) bekezdés szerinti kötelezettségének teljesítése a szerződéskötés feltétele.
+
+(3) Az Országos Kórházi Főigazgatóság a KTR Adatbázist úgy alakítja ki, hogy abba a nyertes ajánlattevőkön kívül bármely e rendelet hatálya alá tartozó terméket gyártó vagy forgalmazó gazdasági szereplő regisztrálhasson és termékét rögzíthesse.
+
+## 5. A hirdetmény közzétételével induló tárgyalásos eljárásra vonatkozó sajátos szabályok
+
+### 13. §[^22]
+
+Amennyiben az eljárás a Kbt. 88. § (5) bekezdés szerint zajlik, az utolsó előtti tárgyalás során készített jegyzőkönyvben rögzíteni kell az utolsó, érdemi ajánlat megtételének lehetőségét.
+
+### 14. §
+
+(1)[^23] A Kbt. 85. § (2) bekezdés c) pontja szerinti körülménynek kell tekinteni a gyógyszerrel vagy orvostechnikai eszközzel történő kezeléshez fűződő kockázatokat, így különösen a kezelésre szoruló betegek változó számát, vagy sürgős ellátási igényét, a beszerzésre kerülő gyógyszerek és orvostechnikai eszközök előre nem látható okok miatti megoszlásának módosulását.
+
+(2) Hirdetmény közzétételével induló tárgyalásos eljárásban az ajánlatkérő nem határozhatja meg az ajánlattevők létszámát vagy keretszámát. Az ajánlattételi határidőt az ajánlatkérő az ajánlattételi felhívás megküldésétől számított 10 napnál rövidebb időtartamban nem határozhatja meg.
+
+## 6. A hirdetmény nélküli tárgyalásos eljárásra vonatkozó sajátos szabályok
+
+### 15. §[^24]
+
+(1) Az ajánlatkérő a hirdetmény közzététele nélküli tárgyalásos eljárás esetén az adott hatóanyagra, gyógyszerre vagy indikációra – a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság által kiadott forgalomba hozatali engedély szerinti – valamennyi szervezet részére azonos tartalommal és azonos időben ajánlattételi felhívást küld, egyben ajánlattételi határidőként az ajánlat megtételére elegendő, egységes időtartamot határoz meg. Amennyiben az ajánlattételi felhíváshoz a hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlatkérő közbeszerzési dokumentumokat csatol, akkor – a Kbt. 98. § (2) bekezdés e) pontja szerinti esetet kivéve – az ajánlattételi határidő nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított 10 napnál.
+
+(2) Hirdetmény közzététele nélkül induló tárgyalásos eljárás alkalmazható az egészségügyi szakmai kollégium állásfoglalása szerinti termék esetében, amennyiben
+
+a) a megkötendő szerződést a Kbt. 98. § (2) bekezdés c) pontjában foglaltak szerint az adott gyógyszer, orvostechnikai eszköz konkrét jellemzői vagy forgalmazási engedély, illetve kizárólagos jogok védelme miatt csak egy meghatározott szervezet képes teljesíteni;
+
+b) az adott betegség kezelésére szolgáló, korábban beszerzett gyógyszer, orvostechnikai eszköz másikkal történő helyettesítése a Kbt. 98. § (4) bekezdés b) pontja szerint bizonyos betegségcsoportok esetében nem lehetséges a kezelésre szoruló betegek egészségi állapotának veszélyeztetése nélkül, vagy az a betegek kezelésében, az országos ellátásban jelentős, aránytalanul nagy nehézséget eredményezne.
+
+(3) Az e rendelet hatálya alá tartozó áruk tekintetében a Kbt. 98. § (2) bekezdés e) pontja szerinti rendkívüli sürgősség a terápiás alkalmazással indokolható akkor, ha a sürgős ellátási igény fennállása igazoltan megállapítható.
+
+A jogalap igazolásához
+
+a) orvostechnikai eszköz közbeszerzésekor, ha a közbeszerzést
+
+aa)[^25] a NEAK folytatja le, az illetékes egészségügyi szakmai kollégium vezetőjének,
+
+ab)[^26] nem a NEAK folytatja le, a fekvőbeteg-gyógyintézet orvos igazgatójának,
+
+b) gyógyszer közbeszerzésekor a gyógyszerészeti államigazgatási szerv
+
+egyetértő állásfoglalása szükséges. Az indokolásban ki kell térni annak igazolására, hogy a rendkívüli sürgősség nem az ajánlatkérő hibájából ered.
+
+## 7. Egyéb kötelezettségekre vonatkozó sajátos szabályok
+
+### 16. §[^27]
+
+A Közbeszerzési Hatóság felé fennálló jelentési és adatszolgáltatási kötelezettséget nem érintve, a NEAK a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló miniszteri rendelet (a továbbiakban: közzétételi rendelet) szerinti éves statisztikai összegzést a közzétételi rendeletben meghatározott határidő szerint megküldi az egészségügyért felelős miniszter részére is.
+
+### 17. §
+
+(1)[^28] Amennyiben a NEAK közbeszerzési eljárásának nyertese egészségügyi közszolgáltatást nyújtó intézmények részére gyógyszert vagy orvostechnikai eszközt szállít, ezen intézmények közbeszerzési eljárás keretében történő megrendeléseiről és azok teljesítéséről havi összesítést készít, amelynek egy-egy példányát, valamint a teljesítést igazoló okiratok másolatát a NEAK-nak a tárgyhónapot követő öt munkanapon belül megküldi.
+
+(2)[^29] A gyógyszerek és orvostechnikai eszközök közbeszerzésének zavartalan biztosítása érdekében a NEAK az egészségügyi közszolgáltatókkal szerződést köthet az e rendelet szerint közbeszerzésre kerülő gyógyszer- és orvostechnikai eszközszükséglet felmérésére, beszerzésére, elosztására és felhasználására, továbbá az e feladatok végrehajtásához szükséges adatok NEAK részére történő szolgáltatására.
+
+## 7/A. [^30] Uniós szintű közös beszerzés
+
+### 17/A. §
+
+(1) Az egészségügyért felelős miniszter kötelezettséget vállalhat olyan uniós szintű intézkedés alkalmazására, amely közvetlenül alkalmazandó uniós jogi aktuson alapuló közös fellépés végrehajtásához szükséges, és egészségügyi ellenintézkedések uniós szintű közös beszerzésére vonatkozik.
+
+(2) Az egészségügyért felelős miniszter biztosítja az (1) bekezdés szerinti intézkedés megfelelő végrehajtását az érintett miniszterekkel együttműködve.
+
+(3) E § alkalmazásában egészségügyi ellenintézkedés a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat szerinti, a határokon át terjedő súlyos egészségügyi veszélyek leküzdésére szolgáló gyógyszerek, orvostechnikai eszközök, egyéb áruk és szolgáltatások.
+
+## 8. Záró rendelkezések
+
+### 18. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépését követően megkezdett közbeszerzésekre kell alkalmazni.
+
+(3)[^31] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^32] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+(4)[^33] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 115/2017. (V. 19.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépését[^34] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+(5)[^35] E rendeletnek az egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 463/2024. (XII. 30.) Korm. rendelettel megállapított 12/A. §-át a 2025. február 1-jét követően megindított beszerzési eljárásokra kell alkalmazni.
+
+### 19. §[^36]
+
+Ez a rendelet a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló európai parlamenti és a tanácsi 2014/24/EU irányelv (2014. február 26.) (a továbbiakban: irányelv) 26. cikk (4) bekezdés *a)* pont iii. alpontjának, 32. cikk (2) bekezdés *b)* pontjának, valamint a Kbt. 104–105. §-ával együtt az irányelv 33. cikkének való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § a 323/2015. (X. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1/B. §-t a 33/2024. (II. 22.) Korm. rendelet 12. §-a iktatta be.
+[^3]: Az 1/A. §-t a 185/2014. (VII. 25.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 2. § 2a. pontját a 463/2024. (XII. 30.) Korm. rendelet 51. §-a iktatta be.
+[^5]: A 2. § 3. pont a) alpontja a 164/2020. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^6]: A 2. § 3. pont b) alpontja a 135/2022. (IV. 7.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 193. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés b) pontja a 46/2014. (II. 26.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 46/2014. (II. 26.) Korm. rendelet 11. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 193. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 115/2017. (V. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^11]: Az 5. § a 323/2015. (X. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^12]: A 6. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^13]: A 6. § (2) bekezdése a 115/2017. (V. 19.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2a) bekezdése a 115/2017. (V. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^15]: A 6. § (2b) bekezdése a 115/2017. (V. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^16]: A 6. § (3) bekezdését a 323/2015. (X. 30.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^17]: A 9. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^18]: A 9. § (2) bekezdése a 135/2022. (IV. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^19]: A 9/A. §-t a 115/2017. (V. 19.) Korm. rendelet 15. §-a iktatta be.
+[^21]: A 12/A. §-t a 463/2024. (XII. 30.) Korm. rendelet 52. §-a iktatta be.
+[^22]: A 13. § a 323/2015. (X. 30.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^23]: A 14. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 8. § (7) bekezdésével megállapított szöveg.
+[^24]: A 15. § a 323/2015. (X. 30.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^25]: A 15. § (3) bekezdés a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
+[^26]: A 15. § (3) bekezdés a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
+[^27]: A 16. § a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
+[^28]: A 17. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 193. § c)–d) pontja szerint módosított szöveg.
+[^29]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 193. § c) és e) pontja szerint módosított szöveg.
+[^30]: A 7/A. alcímet (17/A. §) a 185/2014. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^31]: A 18. § (3) bekezdését a 323/2015. (X. 30.) Korm. rendelet 8. § (9) bekezdése iktatta be.
+[^32]: A hatálybalépés időpontja 2015. november 1.
+[^33]: A 18. § (4) bekezdését a 115/2017. (V. 19.) Korm. rendelet 16. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2017. június 1.
+[^35]: A 18. § (5) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 53. §-a iktatta be.
+[^36]: A 19. § a 323/2015. (X. 30.) Korm. rendelet 8. § (10) bekezdésével megállapított szöveg.

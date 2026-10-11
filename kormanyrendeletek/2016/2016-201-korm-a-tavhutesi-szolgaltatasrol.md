@@ -1,0 +1,214 @@
+---
+title: "201/2016. (VII. 21.) Korm. rendelet a távhűtési szolgáltatásról"
+identifier: "201/2016. (VII. 21.) Korm. rendelet"
+njt_id: "2016-201-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/201"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-21
+in_force_from: 2016-07-29
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-201-20-22"
+retrieved: 2026-10-12
+---
+
+# 201/2016. (VII. 21.) Korm. rendelet a távhűtési szolgáltatásról
+
+A Kormány az energiahatékonyságról szóló 2015. évi LVII. törvény 44. § p) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *csatlakozási pont:* a szolgáltatói és a felhasználói berendezés határán, találkozási pontján beépített elzáró szerelvénynek a végső felhasználó felé eső oldala, elzáró szerelvény hiányában a felhasználási helyet magában foglaló ingatlan (épület, építmény, telek) tulajdoni határa;
+
+2\. *elszámolási időszak:* a távhűtésre vonatkozó szerződésben megállapított, elszámolás alapjául szolgáló, távhűtési szolgáltató általi vagy – ha az meghiúsult – végső felhasználó általi két leolvasás közötti időszak;
+
+3\. *elszámoló számla:* olyan, a távhűtésre vonatkozó szerződés időtartama alatt kiállított, az adott elszámolási időszakra vonatkozó számla, amely az elszámolást az elszámolási időszak kezdő és záró mérőállása közötti tényleges fogyasztás alapulvételével tartalmazza;
+
+4\. *részszámla:* a végső felhasználó részére az elszámolási időszakon belül rendszeres időközönként kiállított, statisztikai elemzés vagy a leolvasás alapján megállapított energiamennyiségen alapuló számla;
+
+5\. *távhűtés:* az a szolgáltatás, amely a végső felhasználónak távhűtési vezetékhálózaton keresztül üzletszerű tevékenység keretében történő távhűtési célú energiaellátásával valósul meg;
+
+6\. *távhűtési szolgáltató:* az a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, amely távhűtést üzletszerűen szolgáltat.
+
+7.[^1] *maradék hűtőenergia:* ipari vagy energiatermelő létesítményekben vagy a tercier szektorban elkerülhetetlen melléktermékként – kapcsolt energiatermelési folyamat használata vagy tervezett használata, illetve a kapcsolt energiatermelés megvalósíthatatlansága esetén – keletkező hűtőenergia, amely a távhűtőrendszerbe való bevezetés hiányában hasznosítás nélkül távozna a levegőbe;
+
+8.[^2] *hűtési idény:* az év május 15. napja és szeptember 15. napja közötti időszak;
+
+9.[^3] *távolról leolvasható egyedi fogyasztásmérő:* olyan fogyasztásmérő készülék, amelynek leolvasása az azt magába foglaló épületbe történő bejutás nélkül is lehetséges erre a célra szolgáló technikai eszközzel.
+
+## 2. Mérés
+
+### 2. §
+
+(1) A távhűtési szolgáltatás elszámolásának a tényleges energiafogyasztáson kell alapulnia.
+
+(2)[^4] Ha az épület hűtését távhűtési hálózatról vagy több épületet kiszolgáló központi rendszerből biztosítják, hiteles hűtési hőmennyiségmérőt kell felszerelni a szivattyúnál vagy a csatlakozási pontnál.
+
+(3) Az (1) bekezdésben foglaltak érdekében – a közös használatú épületrészek kivételével – az egyes épületrészek egyedi fogyasztásának mérésére a távhűtési szolgáltatónak a végső felhasználó költségére a végső felhasználó számára hiteles, a tényleges energiafogyasztást pontosan tükröző egyedi fogyasztásmérőt (a továbbiakban: egyedi fogyasztásmérő) kell felszerelnie.
+
+(4)[^5] Egyedi fogyasztásmérőt kell felszerelni a hűtés minden egyes önálló rendeltetési egységben történő mérésére abban az esetben is, ha a hűtést központi hűtéssel, távhűtési hálózatról vagy több épületet kiszolgáló központi rendszerről biztosítják. Az egyedi fogyasztásmérő költsége a (3) bekezdésben foglaltak szerint a végső felhasználót terheli.
+
+(5) Az egyedi fogyasztásmérő alkalmazására, beleértve a meglévő egyedi fogyasztásmérő cseréjét is, – az egyedi fogyasztásmérő tekintetében – a legkisebb költség elve szerint kell, hogy sor kerüljön. A végső felhasználó kérése esetén a távhűtési szolgáltatónak a végső felhasználó által biztosított hiteles egyedi fogyasztásmérő felszerelését is biztosítania kell, ha az műszaki szempontból alkalmazható. A végső felhasználó által biztosított hiteles egyedi fogyasztásmérő felszerelése esetében a végső felhasználót hátrány nem érheti.
+
+(6)[^6] Egy távhűtéssel ellátott épületen belül egy időben kell felszerelni az azonos típusú távolról leolvasható egyedi fogyasztásmérőket.
+
+(7)[^7] A készülékeket úgy kell kiválasztani és telepíteni, hogy az egy épületen belüli eszközöket egy azonos távleolvasási rendszeren keresztül lehessen leolvasni.
+
+## 3. A számla és a számlainformációk
+
+### 3. §
+
+A távhűtési szolgáltatónak biztosítania kell a pontos és tényleges fogyasztáson alapuló számlázási adatokat.
+
+### 4. §
+
+(1) Az elszámolási időszak az egy évet nem haladhatja meg.
+
+(2)[^8] A távhűtési szolgáltatónak a végső felhasználónál elszámolási időszakonként legalább egyszer el kell végeznie az egyedi fogyasztásmérő és a 2. § (2) bekezdése szerinti hűtési hőmennyiségmérő leolvasását, és a leolvasás vagy – ha a leolvasás meghiúsult – a végső felhasználó általi bejelentés alapján, tényleges fogyasztáson alapuló elszámoló számlát kell kibocsátania.
+
+(3) Ha az elszámolási időszak időtartama az egy hónapot meghaladja, – eltérő megállapodás hiányában – a távhűtési szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani. Az egyes részszámlák a végső felhasználó előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
+
+(4) A részszámla számlázási adatai a végső felhasználó által végzett rendszeres leolvasáson alapuló rendszerrel is biztosíthatók, amelynek keretében a végső felhasználó az egyedi fogyasztásmérő állását bejelenti a távhűtési szolgáltatónak. Abban az esetben, ha az adott számlázási időszakra vonatkozóan sor került távhűtési szolgáltatói leolvasásra, a részszámla a távhűtési szolgáltató által leolvasással megállapított adatokon alapul.
+
+(5) Az elszámoló számla és a részszámla (a továbbiakban együtt: számla) csak akkor alapulhat becsült fogyasztáson vagy tüntethet fel átalányösszeget, ha nem került sor távhűtési szolgáltató általi leolvasásra vagy a végső felhasználó az adott számlázási időszakra nem jelentette be az egyedi fogyasztásmérő állását (végső felhasználói leolvasás).
+
+### 5. §
+
+A távhűtési szolgáltatónak
+
+a) a felhasználói tájékoztatás keretében a végső felhasználó kérésére 15 napon belül díjmentesen hozzáférhetővé kell tennie a végső felhasználó számláival és múltbeli fogyasztásával kapcsolatos információkat legalább 2 évre visszamenőleg, valamint azokat elérhetővé kell tennie a végső felhasználó által kijelölt energiahatékonysági szolgáltató számára,
+
+b) biztosítania kell a végső felhasználónak az elektronikus számlainformáció és számlázás lehetőségét,
+
+c) a végső felhasználó kérésére világos és könnyen érthető felvilágosítást kell nyújtania a számlával, a számla egyes tételeivel és elemeivel, valamint a számlázott összeggel kapcsolatosan,
+
+d) a végső felhasználó számára a számlával együtt megfelelő tájékoztatást kell adnia a 7. § és 8. § szerint annak érdekében, hogy a végső felhasználó átlátható képet kaphasson az aktuális energiaköltségekkel kapcsolatban.
+
+e)[^9] a tevékenysége során biztosítania kell a végső felhasználók adatainak védelmét, az adatvédelemre vonatkozó jogszabályoknak, valamint a kiberbiztonsági követelményeknek való megfelelést.
+
+### 6. §
+
+A távhűtési szolgáltató köteles a számla végső felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a végső felhasználónak a számla kézhezvételétől számítva legalább 15 nap rendelkezésére álljon.
+
+### 7. §[^10]
+
+(1) Ha távolról leolvasható egyedi fogyasztásmérők vannak felszerelve – a 4. § (2) bekezdése szerinti összevonás esetén is – biztosítani kell, hogy a végső felhasználó a (2) bekezdés szerinti fogyasztási és számlainformációkat a hűtési idényben legalább havonta megkapja.
+
+(2) A távhűtési szolgáltatónak a számlán vagy ahhoz csatoltan világos és érthető módon a végső felhasználó rendelkezésére kell bocsátania az alábbi információkat:
+
+a) a tényleges aktuális árak és a tényleges energiafogyasztás,
+
+b) a végső felhasználó aktuális energiafogyasztásának és az előző év ugyanezen időszakában mért fogyasztásának összehasonlítása grafikus formában, az éghajlati viszonyok szerinti kiigazítással,
+
+c) a végső felhasználói szervezetek, energiaügynökségek vagy hasonló szervek elérhetőségi adatai, beleértve a weboldalak címeit is, ahol hozzáférhetők a rendelkezésre álló energiahatékonyság-javító intézkedésekre, az összehasonlításhoz használható végfelhasználói profilokra és az energiafelhasználó berendezések objektív műszaki leírására vonatkozó információk,
+
+d) az ugyanazon felhasználói kategóriába tartozó, végső felhasználóval történő összehasonlítások,
+
+e) az alkalmazott energiahordozó összetételére, valamint a kapcsolódó éves üvegházhatásúgáz-kibocsátásra vonatkozó információk,
+
+f) az alkalmazott különböző adók, illetékek és tarifák ismertetése és
+
+g) a felhasználói panaszok intézésével kapcsolatos információk, ideértve az alternatív vitarendezési eljárásokkal kapcsolatos információkat is.
+
+(2a)[^11] A (2) bekezdés e) pontja szerinti alkalmazott energiahordozó összetételt úgy kell megadni, hogy abban a megújuló energia részaránya az adott távhűtési rendszer igénybevevőihez rendelt hűtési célú bruttó végső energiafogyasztás százalékában legyen kifejezve, beleértve azt is, hogy mennyi energiát használtak fel egy hűtési egység fogyasztóhoz vagy végfelhasználóhoz történő eljuttatása érdekében.
+
+(3) A (2) bekezdésben előírt információk interneten is elérhetővé tehetők, a számlán történő hivatkozás révén.
+
+### 8. §[^12]
+
+(1) A távhűtési szolgáltató a szerződés és a szerződésmódosítás megküldésekor, a végső felhasználónak küldött számlán, továbbá honlapján keresztül világos és érthető módon közli a végső felhasználóval a független fogyasztói tanácsadó központok és egyéb hasonló intézmények elérhetőségeit – ideértve azok internetes címét is –, amelyeken a végső felhasználó tanácsot kérhet a lehetséges energiahatékonysági intézkedésekről, az energiafogyasztására vonatkozó referenciaértékekről és az energiát használó készülékek fogyasztáscsökkentést eredményező műszaki jellemzőiről.
+
+(2) A távhűtési szolgáltató honlapján közzéteszi az őt kiszolgáló távhűtési rendszerek energiahatékonyságára, valamint a felhasznált megújuló energia részarányára vonatkozó információkat.
+
+### 9. §
+
+A távhűtési szolgáltató a végső felhasználó számára a számlát, a számlainformációkat és a fogyasztási adatokról való tájékoztatást díjmentesen biztosítja.
+
+### 9/A. §[^13]
+
+(1) Az olyan távhűtési szolgáltató végső felhasználói, amely nem hatékony távhűtést biztosít, vagy amely a hatóság által jóváhagyott terv alapján 2025. december 31-ig nem fog ilyet biztosítani, szerződésük felmondása vagy módosítása útján lekapcsolódhatnak a hálózatról, annak érdekében, hogy maguk biztosítsák hűtési igényeiket megújuló forrásokból.
+
+(2) Az (1) bekezdés szerinti lekapcsolódást igénybe vehetik egyéni fogyasztók, fogyasztói közösségek vagy a fogyasztók képviselői. A többlakásos épületekben a lekapcsolódás csak az egész épület vonatkozásában lehetséges.
+
+### 9/B. §[^14]
+
+(1)[^15] A távhűtési rendszerek üzemeltetői kötelesek a megújuló forrásokból, valamint maradék hűtőenergiából származó energiát biztosító szolgáltatókat csatlakoztatni, ha az alábbi körülmények valamelyike fennáll:
+
+a) új fogyasztók igényeit kell kielégíteni;
+
+b) le kell cserélniük a hűtőenergiát termelő meglévő kapacitásaikat vagy
+
+c) bővíteniük kell a hűtőenergiát termelő meglévő kapacitásaikat.
+
+(2) A távhűtési rendszer üzemeltetője megtagadhatja az (1) bekezdés szerinti csatlakozást, ezen szolgáltatóktól a hűtőenergia vásárlását, ha
+
+a)[^16] a rendszer más maradék hűtőenergia, megújuló forrásokból előállított vagy nagy hatásfokú kapcsolt energiatermelésből származó hűtőenergia befogadása miatt nem rendelkezik a szükséges kapacitással;
+
+b) az (1) bekezdés szerinti szolgáltató által szolgáltatott hűtőenergia nem felel meg a csatlakoztatáshoz, illetve a távhűtési rendszer megbízható és biztonságos működéséhez szükséges technikai paramétereknek; vagy
+
+c) az üzemeltető bizonyítani tudja, hogy a hozzáférés biztosítása túlzott hűtési költségnövekedést eredményezne a végső felhasználók számára másik, az adott helyen rendelkezésre álló hűtési szolgáltatás igénybevételéhez viszonyítva.
+
+(3) Ha a távhűtési rendszer üzemeltetője a (2) bekezdés szerint megtagadja valamely hűtőenergia-szolgáltató csatlakoztatását, az üzemeltető tájékoztatja az (5) bekezdés szerinti hatóságot a megtagadás okairól, valamint azokról a feltételekről és intézkedésekről, amelyeknek a rendszeren történő megvalósítása a csatlakozást lehetővé tenné.
+
+(4) A távhűtési szolgáltatók a villamos energia elosztórendszer-üzemeltetőkkel a villamos energiáról szóló 2007. évi LXXXVI. törvény 32/B. § (4) bekezdésében meghatározott jelentés elkészítése során együttműködnek.
+
+(5) A hatóság ellenőrzi az e §-ban foglaltak betartását, ennek során együttműködik a fogyasztóvédelmi hatósággal, továbbá a fogyasztóvédelmi érdekképviseletekkel.
+
+## 4. Záró rendelkezések
+
+### 10. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+### 10/A. §[^17]
+
+A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet és a távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet módosításáról szóló 678/2023. (XII. 29.) Korm. rendelettel megállapított 2. § (7) bekezdés hatálybalépését[^18] megelőzően felszerelt, távolról nem leolvasható fogyasztásmérőt és hiteles hőmennyiségmérőt legkésőbb 2027. január 1-ig távolról leolvashatóvá kell tenni, vagy távolról leolvasható készülékekre kell cserélni.
+
+### 11. §[^19]
+
+Ez a rendelet az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9a–9c., 10a., 11a. cikkének és VIIa. mellékletének való megfelelést szolgálja.
+
+### 12. §[^20]
+
+Ez a rendelet az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 13. §[^21]
+
+Ez a rendelet az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 14. §[^22]
+
+Ez a rendelet az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § 7. pontját a 824/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 238/2025. (VII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^2]: Az 1. § 8. pontját a 678/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § 9. pontját a 678/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (2) bekezdése a 678/2023. (XII. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdése a 678/2023. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (6) bekezdését a 678/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § (7) bekezdését a 678/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 4. § (2) bekezdése a 678/2023. (XII. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § e) pontját a 678/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 7. § a 678/2023. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 7. § (2a) bekezdését a 238/2025. (VII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^12]: A 8. § a 824/2021. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^13]: A 9/A. §-t a 824/2021. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^14]: A 9/B. §-t a 824/2021. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^15]: A 9/B. § (1) bekezdés nyitó szövegrésze a 238/2025. (VII. 31.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^16]: A 9/B. § (2) bekezdés a) pontja a 238/2025. (VII. 31.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^17]: A 10/A. §-t a 678/2023. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2024. január 1.
+[^19]: A 11. § a 678/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 12. §-t a 824/2021. (XII. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 678/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 13. §-t a 238/2025. (VII. 31.) Korm. rendelet 14. §-a iktatta be.
+[^22]: A 14. §-t a 238/2025. (VII. 31.) Korm. rendelet 14. §-a iktatta be.

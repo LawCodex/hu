@@ -1,0 +1,141 @@
+---
+title: "529/2017. (XII. 29.) Korm. rendelet a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képessége biztosításának részletes szabályairól"
+identifier: "529/2017. (XII. 29.) Korm. rendelet"
+njt_id: "2017-529-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/529"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-29
+in_force_from: 2018-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-529-20-22"
+retrieved: 2026-10-12
+---
+
+# 529/2017. (XII. 29.) Korm. rendelet a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képessége biztosításának részletes szabályairól
+
+A Kormány a vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 24. § (1) bekezdés *g)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet meghatározza a Magyarországon nyilvántartásba vett, vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek (a továbbiakban: tevékenységet végzők) által a felelősségi körükbe tartozó baleseti károk megtérítésére való alkalmasságukkal kapcsolatosan teljesítendő követelményeket és a teljesítés igazolásának módját.
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *fedezeti összeghatár:* a vagyoni biztosíték értékének legkisebb mértéke, amivel a tevékenységet végzőnek rendelkeznie kell;
+
+b) *üzemi baleset:* a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenység végzése során bekövetkező személyi sérüléssel vagy anyagi kárral járó esemény.
+
+## 2. Kárfedezeti képesség
+
+### 3. §
+
+(1) A tevékenységet végzők e rendeletben előírt kötelező kárfedezeti képessége annak biztosítására szolgál, hogy a tevékenységet végzők a fedezeti összeghatárig terjedő értékben képesek legyenek az üzemi balesettel összefüggésben a felelősségi körükbe tartozóan az utasoknak és a harmadik személyeknek – különösen a személyek életében, testi épségében és egészségében, a poggyászban, az egyéb kötöttpályás közlekedési rendszerben és tartozékaiban, a szállított áruban, valamint a környezetben – általuk e minőségükben, vagy a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenység végzéséhez igénybe vett közreműködő személyek által okozott baleseti károk megtérítésére.
+
+(2) A tevékenységet végzők a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységhez szükséges, megfelelő kárfedezeti képességgel rendelkeznek, amennyiben a vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény (a továbbiakban: Ekpt.) 9. § (2) bekezdés *c)* pontjában meghatározott, illetve a 4. §-a szerint rájuk irányadó fedezeti összeghatárt elérő értékben – az 5. § (1) bekezdésében meghatározott és a 6. § rendelkezéseinek megfelelő – egy vagy több vagyoni biztosítékkal rendelkeznek.
+
+## 3. Fedezeti összeghatár
+
+### 4. §
+
+Az áruszállítást végző egyéb kötöttpályás rendszerek üzemeltetője köteles a baleseti károk fedezetére vagyoni biztosítékkal rendelkezni, amelynek mértéke legalább 3 millió forint.
+
+## 4. A vagyoni biztosíték
+
+### 5. §
+
+(1) Vagyoni biztosíték lehet
+
+a) garanciaszerződés,
+
+b) Magyarország területén biztosítási tevékenység végzésére jogosult biztosítóval kötött felelősségbiztosítási szerződés (a továbbiakban: biztosítás).
+
+(2) Az egyes vagyoni biztosíték formák külön-külön és együttesen is alkalmazhatók.
+
+### 6. §
+
+(1) A vagyoni biztosítékra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha
+
+a) a vagyoni biztosíték a 3. § (1) bekezdésében meghatározott valamennyi kárigény kielégítésére felhasználható,
+
+b) rendelkezik arról, hogy a szerződés bármely okból történő megszűnése vagy megszüntetése esetén a hitelintézet vagy a biztosító a vasúti igazgatási szervet haladéktalanul elektronikus úton tájékoztatja, továbbá
+
+c) biztosítás esetén a biztosító az esetlegesen előírt önrésztől függetlenül a biztosítási összeg erejéig a teljes kárt megtéríti.
+
+(2) A garanciaszerződés és a biztosítási összeg pénzneme forint vagy a Magyar Nemzeti Bank által jegyzett deviza lehet. A devizában meghatározott összeget a fedezeti összeghatár megállapításakor a tárgyévet megelőző évben a Magyar Nemzeti Bank által közzétett utolsó devizaárfolyam szerinti értéken kell figyelembe venni.
+
+(3) Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökkent, a tevékenységet végzők – amennyiben az üzemi balesettel érintett vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységet tovább folytatják – a vagyoni biztosítéknak legalább a fedezeti összeghatár mértékéig történő emeléséről haladéktalanul, de legkésőbb a csökkenés napjától számított harminc napon belül gondoskodnak, és ennek megtörténtéről a vasúti igazgatási szervet elektronikus úton, egy munkanapon belül értesítik.
+
+### 7. §
+
+(1) A garanciaszerződésben rögzíteni kell, hogy a hitelintézet bármely olyan személynek kifizetést teljesít a vagyoni biztosíték terhére, aki a tevékenységet végzők felelősségi körébe tartozóan elszenvedett kárának jogalapját és összegét
+
+a) a tevékenységet végzők írásbeli elismerő nyilatkozatával vagy
+
+b) a bíróság végrehajtható határozatával
+
+igazolja.
+
+(2) Ha a tevékenységet végzők a bejelentéshez kötött vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységgel felhagynak és ezt a vasúti igazgatási szerv részére bejelentették vagy a tevékenység folytatását a vasúti igazgatási szerv megtiltotta, a garanciaszerződés hatályát csak azt követően szüntethetik meg, hogy a vasúti igazgatási szervnél igazolták a következőket:
+
+a) valamennyi, velük szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozata által megalapozott kárigényt kielégítettek, valamint
+
+b) az egyéb, jogvita tárgyává tett kárigények vonatkozásában az eljárás a tevékenységet végzők marasztalása nélkül jogerősen befejeződött.
+
+(3) A (2) bekezdésben foglaltaktól eltérően a tevékenységet végzők a garanciaszerződés hatályát a bejelentéshez kötött, vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenység felhagyását és ennek a vasúti igazgatási szerv részére történő bejelentését vagy a vasúti igazgatási szervnek a tevékenység folytatását megtiltó határozata véglegessé válását követően bármikor megszüntethetik, ha velük szemben a garanciaszerződés időbeli hatálya alatt bejelentett kárigény nem volt és erről a vasúti igazgatási szerv részére cégszerűen aláírt, vagy természetes személy esetén teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tesznek.
+
+## 5. A kárfedezeti képesség igazolása
+
+### 8. §
+
+(1) A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
+
+a)[^1] a biztosítási szerződés általános és különös szerződési feltételeket tartalmazó része eredeti vagy közjegyző által hitelesített másolati példánya, a biztosítási kötvény eredeti vagy közjegyző által hitelesített másolati példánya és a biztosítási díjjal rendezett időszakról – ideértve a díjhalasztást is – a biztosító által kiállított igazolás eredeti vagy közjegyző által hitelesített másolati példánya vagy
+
+b) a garanciaszerződés eredeti vagy közjegyző által hitelesített másolat példánya
+
+tanúsítja.
+
+(2) Az (1) bekezdés szerinti igazolás tartalmazza
+
+a) a szerződés azonosítóját (szerződésszám, kötvényszám),
+
+b) a biztosító nevét, székhelyét és elérhetőségeit,
+
+c) a szerződő biztosított teljes nevét, székhelyét és elérhetőségeit,
+
+d) a kockázatviselés kezdetét és a biztosítási időszakot,
+
+e) a biztosítási eseményt,
+
+f) a vállalt kockázatot, annak mértékét és területi hatályát,
+
+g) az önrész formáját és mértékét,
+
+h) a mentesüléseket, kizárásokat és záradékokat,
+
+i) a kárrendezés, valamint a kártérítés kifizetésének módját,
+
+j) a szerződés keltét,
+
+k) a kötvényfeltételeket,
+
+l) a biztosított tevékenység megnevezését.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően a vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását tanúsító iratokat a tevékenységet végzők másolatban is benyújthatják, ha a benyújtással egyidejűleg nyilatkoznak arról, hogy a benyújtott másolat az eredetivel mindenben megegyezik.
+
+## 6. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 8. § (1) bekezdés a) pontja a 722/2020. (XII. 31.) Korm. rendelet 51. §-a szerint módosított szöveg.

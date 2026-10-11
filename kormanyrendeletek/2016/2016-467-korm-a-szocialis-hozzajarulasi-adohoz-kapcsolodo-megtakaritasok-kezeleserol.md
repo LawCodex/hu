@@ -1,0 +1,46 @@
+---
+title: "467/2016. (XII. 23.) Korm. rendelet a szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről"
+identifier: "467/2016. (XII. 23.) Korm. rendelet"
+njt_id: "2016-467-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/467"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-23
+in_force_from: 2017-01-01
+last_amended: 2017-09-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-467-20-22"
+retrieved: 2026-10-12
+---
+
+# 467/2016. (XII. 23.) Korm. rendelet a szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről
+
+A Kormány a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 75. § (1) bekezdés *d)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet alkalmazásában a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 9. § (9) bekezdése szerinti befizetési kötelezettséggel érintett megtakarítás összege a központi költségvetési szerveknek, az államháztartás központi alrendszerébe sorolt köztestületeknek és a köztestület által irányított köztestületi költségvetési szerveknek az intézményi és a fejezeti kezelésű előirányzatain a 2017. évi elemi költségvetés 01 űrlap 01–06 és a 18 sorban szereplő, eredeti előirányzatként tervezett személyi juttatáshoz kapcsolódó szociális hozzájárulási adónak a központi hivatalok és a költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatához kapcsolódó befizetési kötelezettségről szóló 431/2016. (XII. 15.) Korm. rendelet szerinti befizetési kötelezettséggel csökkentett összege 11/12 részének az 5/27 része.
+
+## 2. §
+
+A Kvtv. 9. § (9) bekezdése szerint befizetési kötelezettséggel érintett
+
+a) megtakarítás összegének 1/11-ed részét – ezer forintra kerekítve – a nem a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szervek a Magyar Államkincstár „Szociális hozzájárulási adó csökkentéséből származó megtakarítás” megnevezésű, 10032000-01033986-00000000 számú számlájára fizetik be,
+
+b) megtakarítás összegét a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szervek további intézkedésig nem használhatják fel, illetve – a központi hivatalok és a költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával kapcsolatos intézkedésekről szóló 1312/2016. (VI. 13.) Korm. határozat végrehajtása érdekében történő átcsoportosítást kivéve – nem csoportosíthatják át.
+
+## 3. §
+
+(1)[^2] A fejezetet irányító szerv a tárgyhónapot követő hónap utolsó munkanapjáig tájékoztatja az államháztartásért felelős minisztert – költségvetési szervenkénti és fejezeti kezelésű előirányzatonkénti bontásban, az államháztartásért felelős miniszter által kért formában – a 2. § *a)* pontja szerinti befizetés összegéről vagy a 2. § *b)* pontja szerint fel nem használható összegről.
+
+(2) A feladatok intézmények közötti átadás-átvétele esetén a befizetési kötelezettséggel érintett megtakarítást az átadás-átvételi dokumentumban nevesítve szerepeltetni kell.
+
+## 4. §
+
+Ez a rendelet 2017. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § a 262/2017. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 262/2017. (IX. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.

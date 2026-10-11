@@ -1,0 +1,326 @@
+---
+title: "283/2018. (XII. 21.) Korm. rendelet a vámtanácsadói és vámügynöki nyilvántartásról és kötelező továbbképzésről"
+identifier: "283/2018. (XII. 21.) Korm. rendelet"
+njt_id: "2018-283-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/283"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-21
+in_force_from: 2019-01-21
+last_amended: 2025-04-18
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-283-20-22"
+retrieved: 2026-10-12
+---
+
+# 283/2018. (XII. 21.) Korm. rendelet a vámtanácsadói és vámügynöki nyilvántartásról és kötelező továbbképzésről
+
+A Kormány az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 212. § d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A vámtanácsadók és vámügynökök nyilvántartásának vezetésére vonatkozó rendelkezések
+
+### 1. §
+
+(1) A vámtanácsadók és vámügynökök nyilvántartásába (a továbbiakban: nyilvántartás) történő felvétel iránti, az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 207. § (1) bekezdése és 211. § (1) bekezdése szerinti bejelentést elektronikus úton vagy papír alapon kell benyújtani a Kormányzati Portálon közzétett tájékoztatóban megjelölt címen. A vámtanácsadói, vámügynöki tevékenység megkezdése egyidejűleg egy bejelentésben is kezdeményezhető.
+
+(2) Az (1) bekezdés szerinti bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) bekezdésében meghatározott adatokon túl a felvételt kérő alábbi adatait tartalmazza, azzal, hogy a
+
+„Vtv. 211. § (1) bekezdése szerinti bejelentés esetén az *f)–h)* pont szerinti adatokat nem kell megadni:
+
+*a)* születési hely és idő;
+
+*b)* anyja leánykori neve;
+
+*c)* levelezési cím (irányítószám, helység, utca, házszám);
+
+*d)* telefonszám;
+
+*e)* elektronikus elérhetőség;
+
+*f)* az igazolvány-kiadás alapjául szolgáló szakképesítés, végzettséget igazoló oklevél, okirat száma, kiállító intézmény neve, kiállítás kelte;
+
+*g)* egyéb szakképesítést igazoló oklevél, bizonyítvány megnevezése, száma, kiállító intézmény neve, kiállítás kelte;
+
+*h)* nyelvvizsga (nyelv, típus, fokozat).
+
+(3) Az (1) bekezdés szerinti bejelentéshez a bejelentő csatolja a nyilatkozatát arról, hogy nincs tudomása olyan tényről, körülményről, amely a tevékenység folytatását, az igazolvány kiadását és a nyilvántartásba történő felvételét kizárná, továbbá arról, hogy a (2) bekezdésben megadott adatok a valóságnak megfelelnek.
+
+(4) Az (1) bekezdés szerinti bejelentéssel egyidejűleg a bejelentő a Vtv. 207. § (2) bekezdés b)–d) pontjában és a Vtv. 207. § (3)–(4) bekezdésben meghatározott feltételek teljesítését igazolja.
+
+(5) Ha a tevékenység végzése határon átnyúló tevékenység keretében történik, a tevékenység megkezdésének bejelentését a (2) bekezdés szerinti adattartalommal és a (3) bekezdés szerinti nyilatkozattal, valamint a Vtv. 207. § (5) bekezdése szerinti dokumentumokkal, elektronikus úton vagy papíralapon kell a nyilvántartásba vételt végző szervezethez benyújtani a Kormányzati Portálon közzétett tájékoztatóban megjelölt címen.”
+
+### 2. §
+
+(1) Ha a kérelmező
+
+a) vámtanácsadó a nyilvántartásba vételhez a Vtv. 207. § (2)–(4) bekezdésében,
+
+b) vámügynök a nyilvántartásba vételhez a Vtv. 211. § (2)–(4) bekezdésében
+
+foglalt feltételeknek megfelel, továbbá a bejelentéséhez kapcsolódóan az 1. § (2) bekezdésében meghatározott adatokat hiánytalanul megadta, és az 1. § (3)–(4) bekezdésében meghatározott dokumentumokat, valamint az 1. § (5) bekezdése szerinti bejelentés esetén az ott meghatározott dokumentumokat a bejelentéshez hiánytalanul csatolta, akkor a nyilvántartásba vételt végző szervezet a kérelmezőt a Vtv. 208. § (1) bekezdése szerinti vámtanácsadói, illetve a Vtv. 211. § (2) bekezdése szerinti vámügynöki nyilvántartásba felveszi.
+
+(2) Az 1. § (1) és (5) bekezdése szerinti bejelentéssel egyidejűleg a bejelentőnek a Vtv. 208. § (7) bekezdése szerinti igazolvány (a továbbiakban: vámtanácsadói igazolvány) és a Vtv. 211. § (5) bekezdése szerinti igazolvány (a továbbiakban: vámügynöki igazolvány) kiállításához 6 hónapnál nem régebbi igazolványképet kell benyújtania.
+
+(3) A nyilvántartásba vételt végző szervezet a nyilvántartásba vételt követő 30 napon belül gondoskodik a vámtanácsadói vagy vámügynöki igazolvány – kizárólag magyar nyelven történő – elkészítéséről és a nyilvántartásba vett személy részére történő megküldéséről. Az igazolvány kétoldalas, amelynek
+
+a) előlapja
+
+aa) a nyilvántartásba vételt végző szerv megnevezését,
+
+ab) az igazolvány típusát (vámtanácsadói vagy vámügynöki),
+
+ac) a nyilvántartási számot,
+
+ad) az érintett természetes személy azonosító adatait és
+
+ae) az igazolvány számát;
+
+b) hátlapja
+
+ba) a nyilvántartásba vételt végző szerv megnevezését,
+
+bb) az érintett fényképét,
+
+bc) az érintett nyilvántartásba vételére vonatkozó bejegyzést és az általa végezhető tevékenység megnevezését,
+
+bd) az igazolvány érvényességi idejét, továbbá
+
+be) a kiadmányozó aláírását és a nyilvántartásba vételt végző szervezet bélyegzőlenyomatát
+
+tartalmazza.
+
+(4) A vámtanácsadói, illetve a vámügynöki igazolvány a kiállítás napjától számított 10 évig, a Vtv. 209. § (1)–(2) bekezdése szerinti esetekben a tevékenység végzésétől történő eltiltás és a nyilvántartásból való törlés időpontjáig érvényes.
+
+### 3. §
+
+(1) A nyilvántartásba vett személy
+
+a) a vámtanácsadói, illetve vámügynöki nyilvántartás adataiban bekövetkezett változásnak a Vtv. 208. § (9) bekezdése szerinti, valamint
+
+b) a vámtanácsadói, illetve vámügynöki igazolvány elvesztésének, megsemmisülésének vagy birtokából bűncselekmény vagy szabálysértés során történő kikerülésének a Vtv. 208. § (10) bekezdése szerinti
+
+bejelentését az 1. § (2) bekezdésében meghatározott adattartalommal és a nyilvántartási számának megadásával köteles megtenni a nyilvántartásba vételt végző szervezetnek.
+
+(2) A bejelentő személy a vámtanácsadói, illetve a vámügynöki igazolvány pótlása iránti, a Vtv. 208. § (11) bekezdése szerinti kérelmét az 1. § (2)–(4) bekezdésében meghatározott adattartalommal és dokumentumokkal, illetve az 1. § (5) bekezdése szerinti bejelentés esetén a Vtv. 207. § (5) bekezdése szerinti dokumentumokkal nyújthatja be. A kérelemhez a bejelentő csatolja a nyilatkozatát arról, hogy nincs tudomása olyan tényről, körülményről, amely az igazolvány pótlását kizárná.
+
+(3) Ha a nyilvántartásba vett személy vámtanácsadói, illetve a vámügynöki igazolványának érvényességi ideje lejár, legkorábban a lejáratot megelőző 60 napon belül kérheti az igazolványának cseréjét a 2. § (2) bekezdése szerinti igazolványkép és a cserével érintett korábbi igazolvány megküldése mellett. A kérelemhez csatolni kell a bejelentő nyilatkozatát arról, hogy nincs tudomása olyan tényről, körülményről, amely az igazolvány cseréjét kizárná. A megküldött korábbi igazolványt a nyilvántartásba vételt végző szervezet az új igazolvány kiadásával egyidejűleg megsemmisíti.
+
+## 2. A vámtanácsadók és vámügynökök kötelező továbbképzésére vonatkozó rendelkezések
+
+### 4. §
+
+(1) A szakmai továbbképzésre kötelezett vámtanácsadó és vámügynök a Vtv. 208. § (8) bekezdése szerinti továbbképzési kötelezettségét az e rendelet szerinti kreditpontok megszerzésével teljesíti.
+
+(2) A Vtv. 208. § (8) bekezdése szerinti továbbképzési időszak tartama 1 év. Az első továbbképzési időszak a nyilvántartásba vétel évét követő év első napjával kezdődik. A továbbképzési év január 1-től december 31-ig tart.
+
+(3) Egy továbbképzési időszak alatt – az 5–8. § szerinti továbbképzésben való részvétellel – a vámtanácsadónak összesen legalább 16 kreditpontot, míg a vámügynöknek összesen legalább 12 kreditpontot kell teljesítenie.
+
+### 5. §
+
+(1) Továbbképzésnek minősül a továbbképzési időszakban
+
+a) a vámjogi szakértői hatósági képzésről és hatósági vizsgáról szóló miniszteri rendelet szerinti képző szervek által szervezett, és a nyilvántartásba vételt végző szerv által kreditponttal minősített továbbképzési program, valamint
+
+b) a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló kormányrendelet szerint akkreditált továbbképző szervezet által szervezett, és a nyilvántartásba vételt végző szerv által kreditponttal minősített továbbképzési program.
+
+(2) Az (1) bekezdés szerinti továbbképzési program kreditpont-értéke legfeljebb 8 pont lehet. Az (1) bekezdés a) pontja szerinti ugyanazon továbbképzési program teljesítése – ideértve annak elektronikus változatát is – csak egyszer jogosít kreditpontra.
+
+(3) Az (1) bekezdés szerinti továbbképzések kreditpont-értékének és oktatási időszakának (a továbbiakban: elszámolhatósági időszak) meghatározása érdekében a továbbképzés szervezésére és lebonyolítására jogosult (1) bekezdés szerinti szervezetek (a továbbiakban: továbbképző szervezet) a továbbképzési programjukat – minősítésre – a (4) bekezdésben meghatározott adattartalmú kérelemmel és az (5) és (6) bekezdés szerinti dokumentumokkal nyújthatják be a nyilvántartásba vételt végző szervezetnek.
+
+(4) A kreditpont-minősítési kérelem tartalmazza:
+
+a) a továbbképző szervezet nevét, székhelyét, levelezési címét, cégjegyzékszámát vagy egyenértékű hivatalos nyilvántartási számát és a nyilvántartásba vétel évét, honlapjának címét, hivatalos képviselőjének és a továbbképzéssel összefüggő kapcsolattartásra kijelölt személynek vagy oktatásszervezőnek a nevét, beosztását, telefonszámát, elektronikus elérhetőségét, valamint a továbbképző szervezet (1) bekezdés a) vagy b) pontja szerinti típusát,
+
+b) a minősítésre benyújtott továbbképzési program címét, szakterületét, a továbbképzés formáját, a továbbképzés időtartamát, az elszámolhatóság kérelmezett időszakát, a kapcsolódó információs segédanyag bemutatását, a továbbképzésen oktatók név szerinti felsorolását, elektronikus képzési formában tervezett megvalósítás esetén a technikai hátteret bemutató leírást, valamint a továbbképzési program szakmai tartalmának, tematikájának bemutatását legalább 2000, legfeljebb 12 000 karakter terjedelemben,
+
+c) a továbbképző szervezet továbbképzési tevékenységével összefüggésben a továbbképző szervezet szakmai tevékenységének rövid bemutatását legfeljebb 9000 karakter terjedelemben, a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételek és az oktatással kapcsolatos nyilvántartási rendszer leírását, a továbbképző szervezettel munkavégzésre irányuló jogviszonyban álló oktatók név szerinti felsorolását és szakmai, oktatási tevékenységük bemutatását,
+
+d) – ha a kreditpont-minősítési kérelem elektronikus továbbképzési formában megvalósuló továbbképzési program minősítésére irányul – az elektronikus továbbképzés programjához való hozzáférési azonosítót.
+
+(5) A (3) bekezdés szerinti kreditpont-minősítési kérelemhez csatolni kell a továbbképző szervezet nyilatkozatát arról, hogy
+
+a) haladéktalanul bejelenti a nyilvántartásba vételt végző szervezetnek, ha a kérelem vagy a (6) bekezdés szerinti igazolások tartalmában változás következik be, vagy ha a továbbképző szervezet a továbbiakban nem felel meg az e rendeletben meghatározott követelményeknek,
+
+b) teljeskörűen megfelel az e rendeletben foglalt továbbképzéssel kapcsolatos követelményeknek,
+
+c) a kérelemben, valamint a mellékleteiben megadott adatok és benyújtott dokumentumok a valóságnak megfelelnek,
+
+d) a továbbképző szervezet tevékenysége a létesítő okiratában feltüntetett tevékenységek között szerepel,
+
+e) a (4) bekezdés d) pontsetén az elektronikus képzési rendszere megfelel a 6. § (4) bekezdésében foglalt elektronikus továbbképzés feltételeinek, ideértve az igazolás kiállítását, a résztvevők nyilvántartását és az ellenőrzés módszerét is,
+
+f) kizárólag a nyilvántartásba vételt végző szerv által elfogadott és (4) bekezdés szerinti továbbképzési program teljesítése esetén adja ki a kreditpontról szóló igazolást a továbbképzésben részt vevőnek.
+
+(6) A (3) bekezdés szerinti kérelemhez mellékelni kell továbbá a kérelemben megjelölt oktató
+
+a) szakirányú felsőfokú végzettségét, valamint releváns szakképesítését igazoló okleveleinek másolatát,
+
+b) részletes szakmai önéletrajzát (különös tekintettel a kérelemben foglalt témakörnek és szakterületnek megfelelő – az adott továbbképzési évet megelőző 5 évben megszerzett – legalább 3 éves szakmai és oktatási gyakorlatra vonatkozóan),
+
+c) nyilatkozatát arra vonatkozóan, hogy a továbbképző szervezetnél oktatást vállal.
+
+(7) A (6) bekezdés szerinti dokumentumokat az adott továbbképzési évben első alkalommal benyújtott kérelemhez kell mellékelni. Ha a (6) bekezdés szerinti dokumentumok adattartalma az adott továbbképzési év során nem változott, erről a továbbképző szervezet a továbbképzési év során benyújtott további kreditpont-minősítési kérelemben tesz nyilatkozatot. Ha a kérelmező nem nyilatkozik az adatok változatlanságáról, akkor a (6) bekezdés szerinti dokumentumokat minden egyes kérelemhez csatolni kell.
+
+(8) Az (1) bekezdés szerinti továbbképzésen való részvételt, valamint a teljesített kreditpontok tanúsító igazolásaként a minősített továbbképzési programon való részvételt, a továbbképző szervezet által kiállított igazolás tanúsítja, amely tartalmazza az igazolás sorszámát, a továbbképzésre kötelezett nevét, nyilvántartási számát, az igazolást kibocsátó továbbképző szervezet nevét és székhelyét, a továbbképzés adatait (képzés formája, időtartama, helyszíne, időpontja, kezdete és vége), a teljesített továbbképzési program címét, kreditpont-minősítési határozatának számát, elszámolhatósági időszakát, kreditpont értékét, az igazolást kiadó személy nevét, beosztását.
+
+(9) A szabályszerűen benyújtott (3) bekezdés szerinti kérelem alapján a továbbképzési program szakmai tartalmára, aktualitására, időtartamára, a tartalom és az időkeret, a tartalom és a cím összhangjára, valamint a program elméleti és gyakorlati jellegére figyelemmel kell a továbbképzési program kreditpont-értékét és elszámolhatósági időszakát meghatározni.
+
+(10) A (3) bekezdés szerinti kérelmet és mellékleteit elektronikus úton kell benyújtani.
+
+(11) A nyilvántartásba vételt végző szervezet a minősített továbbképzési programok adatait a kreditpont-minősítési eljárás befejezését követő hónap 15. napjáig közzéteszi az egységes Kormányzati Portálon, a program kreditpont-értékével és elszámolhatósági időszakával együtt.
+
+(12) A minősített továbbképzési program minősítése az elszámolhatósági időszak alatt, visszavonás esetén a visszavonásig hatályos.
+
+(13) A kreditpont-minősítési eljárás során az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni az e rendeletben foglaltak figyelembevételével.
+
+### 6. §
+
+(1) A továbbképzési programok megvalósíthatók kontakt vagy elektronikus képzés formájában.
+
+(2) Kontakt képzésnek minősül az a továbbképzés, amelynek teljes időtartama alatt a képzés helyszínén a résztvevő személyesen jelen van.
+
+(3) Elektronikus képzésnek minősül minden olyan képzés, továbbképzés, amelynek tananyaga elektronikus közvetítő felületen keresztül jut el a képzésben részt vevőhöz, akinek a képzésben való részvétele során kifejtett tevékenysége ezen elektronikus közvetítő felületen keresztül valósul meg. Az elektronikus képzés formája e-learning vagy online képzés lehet.
+
+(4) A továbbképző szervezet a továbbképzési programot akkor szervezheti és bonyolíthatja elektronikus képzési formában, valamint az elektronikus továbbképzési program akkor minősíthető kreditponttal, ha a továbbképző szervezet
+
+a) elektronikus képzési rendszere által biztosított a résztvevő által teljesített továbbképzési program kezdeti és befejezési időpontjának perc pontosságú rögzítése, valamint a képzésben való folyamatos jelenlétének ellenőrzése,
+
+b) elektronikus képzési rendszerének elektronikus naplójában rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 8 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy,
+
+ba) az elektronikus felületre bejelentkezve a továbbképzési programot – több oktatási egység, modul esetén az egyes egységeket, modulokat – megkezdte és a továbbképzési program – több oktatási egység, modul esetén az egyes egységek, modulok – befejezéséig a képzésben kijelentkezés nélkül részt vett,
+
+bb) a továbbképzés oktatási programjának kreditpont-minősítési kérelemben megadott teljes időtartama alatt jelen volt, ezáltal a továbbképzés oktatási programjának egészét, annak valamennyi oktatási egységét, modulját teljesítette,
+
+bc) ugyanazon, az adott továbbképzési program kezdetétől, annak befejezéséig tartó időtartam alatt csak egy továbbképzési programot kezdett meg, és annak befejezéséig újabb továbbképzési programot nem kezdett meg,
+
+bd) a megkezdett továbbképzési programot legkésőbb a kezdéstől számított 60 napon belül teljesítette, legkésőbb az adott továbbképzési év utolsó napjáig,
+
+c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolást a továbbképzési program teljes egészének teljesítése esetén, a teljesítés *b)* pontban foglalt feltételeinek ellenőrzését követően állítja ki.
+
+(5) A megvalósított elektronikus képzésért a továbbképző szervezet a továbbképzésben részt vevő személy számára csak akkor állíthat ki kreditpont-igazolást, ha a továbbképzés teljesítése a (4) bekezdés b) pontjában foglalt feltételeknek megfelel.
+
+(6) A továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe csak akkor számítható be az elektronikus képzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést a (4) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
+
+### 7. §
+
+(1) A továbbképzés megvalósításával összefüggésben a továbbképző szervezet köteles:
+
+a) a továbbképzéseket az e rendelet, valamint a kreditpont-minősítési kérelemben rögzített tematika szerint, az elszámolhatósági időszakban, oktatásra alkalmas körülmények között, szakirányú felsőfokú végzettséggel és legalább 3 éves oktatói gyakorlattal rendelkező oktatókkal, a saját neve alatt szervezni és lebonyolítani,
+
+b) legalább a továbbképzés időpontját – elektronikus képzés esetén az elektronikus képzési tevékenység megkezdését – megelőző ötödik napon a (2) bekezdés szerinti adattartalommal kérelmezni a tervezett továbbképzések kreditpont-minősítését az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címen, és biztosítani a bejelentett továbbképzések ellenőrizhetőségét,
+
+c) a kreditpont-minősítési kérelemben megjelölt oktató személyében bekövetkezett változást haladéktalanul, de legkésőbb a képzés megkezdése előtt bejelenteni, valamint az új oktató 5. § (6) bekezdésében meghatározott dokumentumait az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címre megküldeni,
+
+d) elektronikus képzés esetén ellenőrzés céljából folyamatos hozzáférést biztosítani az elektronikus képzés továbbképzési programjához a nyilvántartásba vételt végző szervezet számára,
+
+e) ha azt a kreditpont-minősítési kérelemben vállalta, a továbbképzés megkezdésekor valamennyi résztvevő számára térítésmentesen információs anyagot biztosítani,
+
+f) a továbbképzéseken a részvétel igazolására jelenléti ívet vezetni, amely tartalmazza a továbbképző szerv nevét, címét, a továbbképzés helyét, időpontját, a program címét, kreditpont-minősítési határozatának számát, az oktatók nevét, a résztvevők nevét, nyilvántartási számát, aláírását, elektronikus képzés esetén elektronikus naplózással nyilvántartani az elektronikus képzési programot teljesítőket,
+
+g) a jelenléti ívet a továbbképzés lebonyolítását követően lezárni, és legkésőbb hét napon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címre,
+
+h) az elszámolhatóság időszakában lebonyolított továbbképzések vonatkozásában a továbbképzésen való részvételről, a továbbképzés időpontjáról és a megszerzett kreditpontokról igazolást kiadni a képzés befejezését követő hónap végéig, a továbbképzés teljes időtartamán részt vevők részére, az 5. § (8) bekezdésében meghatározott adattartalommal, elektronikus képzés esetén az elektronikus képzési rendszeren keresztül, utólag nem szerkeszthető formátumban,
+
+i) egyértelműen nyomon követhető módon bemutatni, hogy a továbbképzésen részt vevő személy mely továbbképzésen, mennyi kreditpontról kapott igazolást,
+
+j) az általa vezetett nyilvántartásokat (ideértve a jelenléti íveket és valamennyi továbbképzéssel összefüggő dokumentációt is) legalább 8 évig megőrizni,
+
+k) kontakt képzés esetén a *b)* pont szerint bejelentett időpontban és helyszínen a továbbképzés teljes időtartama alatt az akkreditált szervezet képviseletére legalább 1 fő részvételét biztosítani a továbbképzés adminisztratív teendőinek ellátására, valamint a továbbképzés jogszabályi előírásoknak megfelelő lebonyolítása érdekében,
+
+l) a Kormányzati Portálon közzétett, a továbbképzések szervezésének és lebonyolításának szabályairól szóló tájékoztatóban foglaltakat betartani.
+
+(2) Az (1) bekezdés b) pontja szerinti kérelemben a továbbképző szerv nevét, címét, a témafelelős nevét és telefonszámát, a képzés helyét, a tervezett létszámot a továbbképzési program címét, a továbbképzési program kapcsán kibocsátott kreditpont-minősítési határozat számát, a továbbképzés időpontját a pontos dátum és a kezdő és végső időpontok feltüntetésével és az oktatók nevét kell megadni.
+
+### 8. §
+
+A Vtv. 208. § (8) bekezdése szerinti továbbképzési kötelezettség teljesítését az 5. § (8) bekezdése szerinti igazolások, illetve a 10. § (2) bekezdése és a 11. § (1) bekezdése szerinti igazolások – Kormányzati Portálon közzétett tájékoztatóban megjelölt címre történő – benyújtásával kell bejelenteni a nyilvántartásba vételt végző szervezetnek, legkésőbb az adott továbbképzési évet követő év január 30-ig.
+
+### 9. §
+
+A nyilvántartásba vételt végző szervezet az e rendelet szerinti továbbképzések szervezésével és lebonyolításával kapcsolatos tevékenységeket, valamint a továbbképzésre vonatkozó követelmények teljesítését ellenőrizheti.
+
+## 3. Szakmai rendezvények kreditpont minősítése
+
+### 10. §
+
+(1) Továbbképzési év során teljes napi szakmai rendezvény esetén 2 kreditpont, félnapos szakmai rendezvény esetén 1 kreditpont számítható be a továbbképzés teljesítésébe, ha a továbbképzésre kötelezett vámszakmai érdekképviseleti vagy szakmai szervezetek tagjaként az 5. § (1) bekezdése szerinti továbbképzésnek nem minősített szakmai rendezvényen részt vesz.
+
+(2) A szakmai szervezet tagja az a természetes személy, aki a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek. A szakmai szervezet tagjának minősül az a természetes személy is, akinek foglalkoztatója a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek, feltéve, hogy foglalkoztatója nevében a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken jogosult részt venni. A részvétel igazolására a szakmai rendezvényen a vámszakmai érdekképviseleti vagy szakmai szervezetek által kiállított igazolás szolgál, amelyet a továbbképzésre kötelezett személy köteles benyújtani. Az igazolás az igazolás sorszámát, a résztvevő nevét, nyilvántartási számát, az igazolást kibocsátó továbbképző szervezet nevét és székhelyét, a szakmai rendezvény adatait (formája, időtartama, helyszíne, időpontja, kezdete és vége), az igazolást kiadó személy nevét, beosztását tartalmazza.
+
+## 4. Vámszakmai kiadványok kreditpont minősítése
+
+### 11. §
+
+(1) Ha továbbképzésre kötelezett személy az adott továbbképzési évben valamely, a (2) és (3) bekezdés szerint kreditpontra minősített vámszakmai kiadványt vásárol, annak a minősítés során meghatározott kreditpont-értéke, de legfeljebb 2 kreditpont beszámítható az adott évi továbbképzésének teljesítésébe, ha a továbbképzésre kötelezett a kiadvány megvásárlását igazoló számla másolatát a kreditpont beszámításra vonatkozó kérelmével együtt benyújtja a nyilvántartásba vételt végző szervezetnek.
+
+(2) A vámszakmai kiadványok kreditpont minősítését a (3)–(5) bekezdés alkalmazásával a nyilvántartásba vételt végző szerv végzi, azzal, hogy a vámszakmai kiadvány alatt a (6) bekezdés szerinti kiadványt kell érteni.
+
+(3) A vámszakmai kiadványok kiadását végző személyek vagy szervezetek kreditpont-minősítési eljárás keretében kérhetik a vámszakmai kiadványaik kreditpont-értékének megállapítását, a nyilvántartásba vételt végző szervezetnél. A kérelem tartalmazza
+
+a) a kreditpont-minősítési eljárást kezdeményező, a kiadvány kiadására jogosult szervezet (a továbbiakban együtt: kiadó) nevét,
+
+b) a kiadó székhelyét, a kiadó levelezési címét,
+
+c) a kiadó telefonszámát, faxszámát, elektronikus címét, honlapjának címét, felelős vezetőjének nevét, felelős vezetőjének elérhetőségét (telefonszám, elektronikus elérhetőség),
+
+d) a kiadvány szerzőjének (szerzőinek) nevét,
+
+e) a kiadvány címét, megjelenési formáját (papír alapú vagy elektronikus könyv, napi lap, periodika, alkalmi kiadvány, egyéb), megjelenésének dátumát és terjedelmét (ív, oldalszám),
+
+f) a kiadvány hozzáférését elektronikus megjelenési mód esetén, a kiadvány elszámolhatóságának kérelmezett időszakát,
+
+g) a kiadó által a kérelemmel összefüggő kapcsolattartásra kijelölt személy nevét, beosztását, elérhetőségét.
+
+(4) A vámszakmai kiadvány minősítéséhez a kérelem benyújtásával egyidejűleg meg kell küldeni a minősítendő kiadvány 2 példányát, illetve elektronikus kiadvány esetében biztosítani kell az ahhoz való hozzáférési jogot.
+
+(5) A kiadványok legfeljebb 2 kreditpont értékre minősíthetők a releváns szakmai tartalom, az aktualitás, a terjedelem, a tartalom és terjedelem összhangja, valamint az elméleti és gyakorlati jelleg alapján. A szakmai folyóirat és a folyóirat jelleggel megjelenő elektronikus információs eszköz, web alapú alkalmazás esetében kreditpont érték legalább fél éves előfizetés esetére állapítható meg.
+
+(6) Vámszakmai kiadvány a vámtanácsadók vagy vámügynökök továbbképzése szempontjából releváns tartalmat hordozó, papír alapon vagy elektronikus adathordozón kiadott tananyag, vámszakmai ismereteket tartalmazó kiadvány – ideértve a szakkönyvet, valamint a minősítési kérelem benyújtását megelőző legalább 24 hónapon keresztül legalább negyedévente folyamatosan megjelenő vámszakmai folyóiratot is – vagy releváns vámszakmai ismereteket közvetítő információs eszköz, web alapú alkalmazás.
+
+## 5. Az igazgatási szolgáltatási díjra vonatkozó rendelkezések
+
+### 12. §
+
+(1) A vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, a vámtanácsadói, illetve vámügynöki igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért, a nyilvántartásba vételt, az igazolvány cseréjét kérő természetes személynek, továbbá az igazolvány pótlását, az adatok módosítását, valamint a nyilvántartásból való törlést kérő nyilvántartásban szereplő természetes személynek, továbbá a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárás lefolytatásáért, a bejelentést tevő természetes személynek igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie az eljárás kezdeményezésével egyidejűleg. A vámtanácsadói és vámügynöki tevékenység egyidejűleg történő nyilvántartásba vételéhez külön-külön kell a díjat megfizetni.
+
+(2)[^1] A vámtanácsadói, vámügynöki tevékenység nyilvántartásba vételi eljárás díja 11 000 forint.
+
+(3)[^2] A vámtanácsadói, illetve vámügynöki igazolvány pótlásának, az új igazolvány kiállítását eredményező adatmódosításnak, valamint a kérelemre történő nyilvántartásból való törlésnek a díja 4 000 forint. Ha az adatmódosítás új igazolvány kiadását nem vonja maga után, a nyilvántartásban szereplő adatváltozás átvezetésének díja 2 700 forint.
+
+(4)[^3] A vámtanácsadói, vámügynöki tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentése alapján történő nyilvántartásba vételi eljárás díja 9 500 forint.
+
+(5) Az 5. § (3) bekezdése és a 11. § (3) bekezdése alapján kreditpont-minősítési kérelmet benyújtó továbbképző szervezetnek a kreditpont-minősítési eljárásért az eljárás kezdeményezésével egyidejűleg igazgatási szolgáltatási díjat kell fizetnie. A kreditpont-minősítési eljárás díja 7000 Ft, amelyet minden kérelem vonatkozásában külön-külön kell megfizetni.
+
+(6)[^4] A (2)–(5) bekezdés szerinti díjat a Nemzetgazdasági Minisztérium 10032000-00005503-06010011 számú számlájára, az e célból rendszeresített fizetési számlára történő készpénzbefizetési megbízással vagy fizetési számlák közötti átutalással kell megfizetni.
+
+(7) A (2)–(5) bekezdés szerinti díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.
+
+(8) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a (2)–(5) bekezdésben meghatározott mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
+
+(9) A többlet visszatérítést hivatalból kell elrendelni, és annak teljesítéséről 30 napon belül intézkedni kell.
+
+(10) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében, 31. § (1) és (3) bekezdésében, valamint 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat kell érteni.
+
+## 6. Záró rendelkezések
+
+### 13. §
+
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+
+### 14. §
+
+E rendelet rendelkezéseit a 2018. május 18-át követően benyújtott vámtanácsadói, vámügynöki nyilvántartásba való felvételre vonatkozó bejelentésekre is alkalmazni kell.
+
+### 15. §
+
+(1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) Ez a rendelet az Uniós Vámkódex létrehozásáról szóló, 2013. október 10-i 952/2013/EU európai parlamenti és tanácsi rendelet 18. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 12. § (2) bekezdése a 409/2024. (XII. 20.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: A 12. § (3) bekezdése a 409/2024. (XII. 20.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^3]: A 12. § (4) bekezdése a 409/2024. (XII. 20.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^4]: A 12. § (6) bekezdése a 78/2025. (IV. 17.) Korm. rendelet 26. §-a szerint módosított szöveg.

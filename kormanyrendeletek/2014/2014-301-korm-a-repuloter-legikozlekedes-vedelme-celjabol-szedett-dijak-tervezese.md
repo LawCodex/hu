@@ -1,0 +1,245 @@
+---
+title: "301/2014. (XII. 5.) Korm. rendelet a repülőtér légiközlekedés-védelme céljából szedett díjak tervezése, jóváhagyása és felhasználása ellenőrzésének szabályairól"
+identifier: "301/2014. (XII. 5.) Korm. rendelet"
+njt_id: "2014-301-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/301"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-12-05
+in_force_from: 2015-01-04
+last_amended: 2015-01-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-301-20-22"
+retrieved: 2026-10-12
+---
+
+# 301/2014. (XII. 5.) Korm. rendelet a repülőtér légiközlekedés-védelme céljából szedett díjak tervezése, jóváhagyása és felhasználása ellenőrzésének szabályairól
+
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (3) bekezdés *b)* pontjában kapott felhatalmazás alapján az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+A rendelet hatálya kiterjed:
+
+a) az általános rendőrségi feladatok ellátására létrehozott szervre (a továbbiakban: rendőrség) és
+
+b) azon nyilvános repülőtér üzemben tartójára, amely repülőtéri légiközlekedési védelmi díjat szed.
+
+### 2. §
+
+A rendelet alkalmazásában repülőtéri légiközlekedés-védelmi díj (a továbbiakban: díj): a repülőtér üzemben tartója által a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 67. § (8) bekezdése szerinti repülőtér légiközlekedés-védelme költségeinek fedezésére szolgáló díj.
+
+## 2. Az elszámolás alapját képező díjbevétel
+
+### 3. §
+
+(1) A nyilvános repülőtér üzembentartója az általa szedett díj felhasználásáról évente elszámol.
+
+(2) Ha a díj a tárgyévben nem fedezi a légiközlekedés-védelmi alapkövetelmények biztosításának költségeit, abban az esetben a nyilvános repülőtér üzemben tartója köteles a szükséges forrásokat saját költségvetéséből biztosítani. E költségeket a nyilvános repülőtér üzemben tartója a tárgyévet követően a díj elszámolása során érvényesítheti.
+
+(3) Az elszámolás alapját az adott évben ténylegesen beszedett díj képezi, amelyet csökkenteni kell:
+
+a) a díjbevétel után fizetendő, valamint ténylegesen fizetett árbevétel alapú adókkal,
+
+b) a vagyonkezelési díj összegével és
+
+c) a légiközlekedés védelmi célra használt épületek után fizetendő építményadóval.
+
+## 3. A díjból finanszírozható tevékenységek
+
+### 4. §
+
+(1) A díj 3. § (3) bekezdése alapján számított összege a következő területek költségeinek fedezésére használható fel:
+
+a) a védelmi ellenőrzés, beleértve az utasok és kézipoggyászaik, valamint a feladott poggyászok ellenőrzését,
+
+b) az áru, a posta, a repülőtéri készlet és a fedélzeti ellátmány védelmi ellenőrzése,
+
+c) a repülőtér és a légitársaság személyzetének védelmi ellenőrzése,
+
+d) a repülőgép és a szigorított védelmi terület biztosítása,
+
+e) a szigorított védelmi területre belépési engedéllyel rendelkező személy védelmi háttérellenőrzése,
+
+f) a repülőtér védelmi célú berendezése, rendszerek üzemeltetése, fejlesztése, pótlása és ellenőrzése,
+
+g) a védelmi személyzet képzése.
+
+(2) Az (1) bekezdésben felsoroltaktól eltérően a díj csak a Repülőtéri Rendőri Igazgatóság vezetőjének előzetes hozzájárulásával használható fel.
+
+(3) Az elszámolás alapját képező védelmi célból elszámolható költségeket a 1. melléklet tartalmazza.
+
+## 4. Az előzetes éves felhasználási terv jóváhagyása
+
+### 5. §
+
+A nyilvános repülőtér üzemben tartója az Lt. 67/A. § (2) bekezdésében meghatározott előzetes éves felhasználási tervet a tárgyévet megelőző év november 30-ig jóváhagyásra megküldi a Repülőtéri Rendőr Igazgatóság vezetője részére.
+
+## 5. A díjak jogszerű felhasználásának ellenőrzése
+
+### 6. §
+
+(1) A nyilvános repülőtér üzemben tartója a tárgyévet követő év február 28-ig köteles tájékoztatni a Repülőtéri Rendőr Igazgatóság vezetőjét a repülőtér előző évi forgalmi adatai alapján az előző évi díjalapját képező utasadatokról és a beszedett díjbevételről.
+
+(2) A nyilvános repülőtér üzemben tartója a felhasználásról készített beszámolót átlátható módon, az egyes költségeket és tételeket megnevezve, szöveges magyarázatokkal és teljes háttér-dokumentációval ellátva, az 1. mellékletben meghatározott tartalommal, a tárgyévet követő év március 31-ig köteles megküldeni a Repülőtéri Rendőr Igazgatóság vezetője részére.
+
+### 7. §
+
+(1) A háttér-dokumentáció részét képezi – azokon a helyeken, ahol a közüzemi díjak elszámolásának helye van – a fogyasztási helyek bemutatása.
+
+(2) A gépjárművek beszerzési, lízingelési és működési költségei elszámolása esetén a dokumentációnak tartalmaznia kell járművenként – forgalmi rendszám, típus – nyilvántartva az adott jármű javíttatására és mindennemű költségére vonatkozó kimutatást, a futott kilométer számát, továbbá annak bemutatását, hogy mely terület, milyen feladatok ellátására használja a járművet.
+
+(3) Az (1) bekezdésben meghatározottak nem terjednek ki a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendelet 1. § (1) bekezdés *a)–f)* pontjában felsorolt együttműködő hatóságok által megfizetett energiaköltségekre.
+
+(4) A védelem céljára használt ingatlanok működése során keletkezett közüzemi költségek csak olyan mértékben számolhatóak el, amilyen mértékben a kérdéses ingatlan tényleges védelmi funkciót töltött be.
+
+(5) Az elszámoláshoz használt, az ingatlanok védelmi célú hasznosításának arányát, illetve tételes bemutatását és az ingatlanok számviteli könyvekben rögzített értékcsökkenését a nyilvános repülőtér üzemben tartója a tényleges helyzetnek megfelelően nyilvántartja.
+
+## 6. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+### 9. §
+
+Ez a rendelet – az Lt. 67. § (8) bekezdése alapján a légiutasoktól szedett díjak tervezésének jóváhagyásának és jogszerű felhasználásának ellenőrzésével összefüggésben – a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+## 1. melléklet a 301/2014. (XII. 5.) Korm. rendelethez
+
+1\. Utasok, utasoktól különböző személyek, kézipoggyászok, feladott poggyászok védelmi ellenőrzése (a továbbiakban: védelmi ellenőrzés)
+
+1.1. Személyi jellegű kiadások
+
+1.1.1. A bérköltség.
+
+1.1.2. A munkáltatói járulékok és az adók.
+
+1.1.3. Az egyéb, előre nem látható, a repülőtér légiközlekedés-védelmi alapműködésével közvetlenül összefüggő, személyi jellegű, indokolt költségek, a Repülőtéri Rendőr Igazgatóság vezetőjének jóváhagyása esetén.
+
+1.1.4. Az egyéb személyi jellegű és a személyi állományhoz kapcsolódó költségek.
+
+1.1.5. A központi irányítás és támogató területek személyi jellegű kiadásai (csak azon beosztások tekintetében, amelyek közvetlenül védelmi ellenőrzési tevékenységhez kapcsolódó munkakört látnak el).
+
+1.2. Dologi jellegű kiadások
+
+1.2.1. A közüzemi költségek adott területre fogyasztással arányosan lebontott költsége.
+
+1.2.2. Az eszközbérlések, az üzemeltetési és karbantartási szerződések.
+
+1.2.3. A távközlési eszközök és ezek költségei.
+
+1.2.4. A gépjárművek beszerzési, lízingelési és működési költségei.
+
+1.2.5. A védőruházat és a formaruha.
+
+1.2.6. A védelmi feladathoz közvetlenül kapcsolódó, annak végrehajtását szolgáló felszerelések, anyagok és eszközök.
+
+1.2.7. Az üzemben tartó által gyártott utastájékoztató anyagok és az e célt szolgáló technikai eszközök.
+
+1.2.8. Az elhelyezés költségeként a repülőtér védelmi célra használt épületeinek könyv szerinti értékcsökkenése.
+
+1.2.9. Jogellenes tevékenységek kockázatainak, hatásának csökkentésével összefüggésben kötött biztosítások költségei.
+
+1.3. Fejlesztések, beruházások
+
+1.3.1. A beszerzett védelmi berendezések és azok bekerülési, üzembe helyezési, beállítási, működtetési, felújítási költsége, javítása, szervizelése, beleértve a hozzájuk szükséges szoftverek beszerzése és frissítése, továbbá az üzemeltetési és karbantartási szerződések költsége.
+
+1.3.2. A védelmi ellenőrzési tevékenység ellátására újonnan építendő infrastruktúra költségei.
+
+2\. Repülőtér szigorított védelmi területének (a továbbiakban: SRA) biztosítása
+
+2.1. Személyi jellegű kiadások
+
+2.1.1. A bérköltség.
+
+2.1.2. A munkáltatói járulékok és az adók.
+
+2.1.3. Az SRA biztosításában részt vevő külső szolgáltató által végzett tevékenység személyi jellegű kiadásai.
+
+2.1.4. Az egyéb, előre nem látható, a repülőtér légiközlekedés-védelmi alapműködésével közvetlenül összefüggő, személyi jellegű, indokolt költségek, az ellenőrző szerv jóváhagyása esetén.
+
+2.1.5. Az egyéb személyi jellegű és a személyi állományhoz kapcsolódó költségek központi irányítás és támogató területek személyi jellegű kiadásai (csak azon beosztások tekintetében, amelyek közvetlenül SRA biztosítási tevékenységhez kapcsolódó munkakört látnak el).
+
+2.2. Dologi jellegű kiadások
+
+2.2.1. A védőruházat és a formaruha.
+
+2.2.2. A gépjárművek költségei.
+
+2.2.3. A feladatellátáshoz szükséges, az Lt. 67. § (2) bekezdésben meghatározott szervezet felszerelése, szolgálati helyiségei közüzemi költsége.
+
+2.2.4. Az elhelyezés költségeként a repülőtér védelmi célra használt épületeinek könyv szerinti értékcsökkenése.
+
+2.2.5. A jogellenes tevékenységek kockázatainak, hatásának csökkentésével összefüggésben kötött biztosítások költségei.
+
+2.3. Fejlesztések, beruházások
+
+2.3.1. A beszerzett védelmi berendezések, a kamerarendszeren keresztül történő megfigyelés (CCTV-megfigyelés) és a kerítésvédelmi, valamint a riasztórendszerek bővítése és azok bekerülési, üzembe helyezési, beállítási, működtetési, felújítási költsége, javítása, szervizelése, beleértve a hozzájuk szükséges szoftverek beszerzését és frissítését, üzemeltetési és karbantartási szerződéseket.
+
+2.3.2. Az SRA biztosítási tevékenység ellátására újonnan építendő infrastruktúra költségei.
+
+3\. Védelmi célú azonosító rendszerek
+
+3.1. Személyi jellegű kiadások
+
+3.1.1. A bérköltség.
+
+3.1.2. A munkáltatói járulékok és az adók.
+
+3.1.3. Az egyéb, előre nem látható, a repülőtér légiközlekedés-védelmi alapműködésével közvetlenül összefüggő, személyi jellegű, indokolt költségek, az ellenőrző szerv jóváhagyása esetén.
+
+3.1.4. Az egyéb személyi jellegű és a személyi állományhoz kapcsolódó költségek.
+
+3.1.5. A központi irányítás és támogató területek személyi jellegű kiadásai.
+
+3.2. Dologi jellegű kiadások
+
+3.2.1. A polaroid csoport elhelyezésére szolgáló helyiségek közüzemi költsége.
+
+3.2.2. A polaroid csoport feladatának végrehajtásához szükséges, légiközlekedés-védelmi célt közvetlenül szolgáló anyagok és eszközök.
+
+3.2.3. Az elhelyezés költségeként a repülőtér védelmi célra használt épületeinek értékcsökkenése.
+
+3.2.4. A jogellenes tevékenységek kockázatainak, hatásának csökkentésével összefüggésben kötött biztosítások költségei.
+
+3.3. Fejlesztések, beruházások
+
+3.3.1. A belépőkártyák és a rajtuk tárolt biometrikus azonosítók felismerésére, leolvasására szolgáló szoftverek költségei.
+
+3.3.2. A beszerzett védelmi berendezések és azok bekerülési, üzembe helyezési, beállítási, működtetési, felújítási költsége, javítása, szervizelése, beleértve a hozzájuk szükséges szoftverek beszerzése és frissítése, továbbá az üzemeltetési és karbantartási szerződések költsége.
+
+3.3.3. A kártyaolvasó berendezések és szoftverek.
+
+3.3.4. A biometrikus adatok azonosító rendszere.
+
+4\. Védelmi személyzet kiképzése
+
+4.1. Személyi jellegű kiadások
+
+4.1.1. A bérköltség.
+
+4.1.2. A munkáltatói járulékok és az adók.
+
+4.1.3. Az egyéb, előre nem látható, a repülőtér légiközlekedés-védelmi alapműködésével közvetlenül összefüggő, személyi jellegű, indokolt költségek, az ellenőrző szerv jóváhagyása esetén.
+
+4.1.4. Az egyéb személyi jellegű és a személyi állományhoz kapcsolódó költségek.
+
+4.1.5. A központi irányítás és támogató területek személyi jellegű kiadásai.
+
+4.2. Dologi jellegű kiadások
+
+4.2.1. Az oktatásra használt helyiségek közüzemi díjai.
+
+4.2.2. Az oktatáshoz szükséges eszközök és anyagok.
+
+4.2.3. Az elhelyezés költségeként a repülőtér védelmi célra használt épületeinek könyv szerinti értékcsökkenése.
+
+4.3. Kiutazások, továbbképzések, tanfolyamok
+
+4.3.1. A bel- és külföldi, légiközlekedés-védelmi szempontból indokolt továbbképzések, tanfolyamok, konferenciák költségei.
+
+4.3.2. A kiutazások, tanfolyamok, továbbképzések és konferenciák költségeinek elszámolásához tartozik ezek teljes dokumentációja.

@@ -1,0 +1,162 @@
+---
+title: "454/2013. (XI. 29.) Korm. rendelet a Magyarország Kormánya és a Bolgár Köztársaság Kormánya között, a hadisírokról és háborús emlékhelyekről szóló Megállapodás kihirdetéséről"
+identifier: "454/2013. (XI. 29.) Korm. rendelet"
+njt_id: "2013-454-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/454"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-11-29
+in_force_from: 2013-11-30
+last_amended: 2014-08-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-454-20-22"
+retrieved: 2026-10-12
+---
+
+# 454/2013. (XI. 29.) Korm. rendelet a Magyarország Kormánya és a Bolgár Köztársaság Kormánya között, a hadisírokról és háborús emlékhelyekről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Bolgár Köztársaság Kormánya között, a hadisírokról és háborús emlékhelyekről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„MEGÁLLAPODÁS\
+Magyarország Kormánya és a Bolgár Köztársaság Kormánya között a hadisírokról\
+és háborús emlékhelyekről
+
+Magyarország Kormánya és a Bolgár Köztársaság Kormánya (a továbbiakban „Szerződő Felek”) azon elv alapján, hogy a háborúk idején csatákban elesett vagy azokkal összefüggésben később elhunyt katonáknak joguk van méltó sírokban, temetőkben nyugodni, amelyek létesítéséről és karbantartásáról az 1949. augusztus 12-én kelt Genfi Egyezmények 1977. június 8-án kelt, I. Kiegészítő Jegyzőkönyve 34. cikkének és a nemzetközi humanitárius jognak megfelelően kell gondoskodni, a következőkben állapodtak meg:
+
+**1. Cikk**
+
+**Fogalom-meghatározások**
+
+A jelen Megállapodás értelmében a következő meghatározások az alábbiakat jelentik:
+
+*a)* háborúban elesett katonák: a magyar és a bolgár fegyveres erők tagjai, azon személyeket is beleértve, akik a nemzetközi jog szerint katonaihoz hasonló státuszban voltak (egészségügyi dolgozók, papok stb.) és hadműveletek során vagy háborús fogságban, vagy ezek következtében életüket vesztették;
+
+*b)* hadisír: a háborúkban elesett magyar katonák és a háborúban elesett bolgár katonák, olyan egyedülálló és/vagy csoportos sírjai, amelyek temetők területén vagy azokon kívül helyezkednek el;
+
+*c)* háborús emlékhely: a háborúkban elesett magyar katonák és a háborúban elesett bolgár katonák tiszteletére emelt emlékművek, valamint ugyanezen céllal elhelyezett emléktáblák és emlékjelek.
+
+**2. Cikk**
+
+**A hadisírok és háborús emlékhelyek státusza**
+
+(1) A Szerződő Felek kölcsönösen biztosítják az országuk területén lévő hadisírok és háborús emlékhelyek megőrzését, védelmét és gondozását, a másik Szerződő Fél háborús elesettei örök nyugalomhoz való jogát, nem megengedve a hadisírok és háborús emlékhelyek közvetlen közelében olyan építmények és más létesítmények elhelyezését, amelyek nem összeegyeztethetők a hely méltóságával. A sírok és emlékhelyek közelében épülő épületek és létesítmények kivitelezése az erre vonatkozó nemzetközi és nemzeti jogi rendelkezésekkel összhangban történik.
+
+(2) A Szerződő Felek a hadisírok feltárásának, nyilvántartásba vételének, kiépítésének és karbantartásának, valamint a földi maradványok exhumálásának és áthelyezésének tekintetében azon ország jogrendjét tartják irányadónak, amely területén azok fellelhetők. A Szerződő Felek egyetértenek abban, hogy a hadisírok, háborús emlékhelyek a jelen Megállapodás értelmében azon állam jogi védelme alá tartoznak, melynek területén találhatók.
+
+(3) Saját nemzeti jogszabályaikkal összhangban a Szerződő Felek kölcsönösen lehetőséget biztosítanak egymásnak a hadisírok és a háborús emlékhelyek látogatására.
+
+(4) A Szerződő Felek kölcsönösen biztosítják az erre felhatalmazott, technikai végrehajtásért felelős szervezeti egységeknek a másik Szerződő Fél országának területén lévő saját hadisírok és háborús emlékhelyek állapotának ellenőrzési jogát.
+
+(5) Mindegyik Szerződő Fél nyilvántartást készít a másik Szerződő Fél hadisírjairól, háborús emlékhelyeiről saját állama területén. E nyilvántartást a jelen Megállapodásból adódó feladatok végrehajtásáért felelős intézmények folyamatosan kiegészítik és aktualizálják az újonnan felderített, fellelt és kialakított hadisírok, háborús emlékhelyek adataival.
+
+**3. Cikk**
+
+**Tájékoztatás**
+
+(1) A Szerződő Felek kölcsönösen biztosítják a hozzáférést:
+
+*a)* a Magyarország területén található bolgár hadisírok és háborús emlékhelyek, valamint Bulgária területén található magyar hadisírok és háborús emlékhelyek létezésével és állapotával kapcsolatosan rendelkezésre álló adatokhoz és listákhoz;
+
+*b)* a háborúkban elesettek nyilvántartásához;
+
+*c)* az újonnan felderített vagy újonnan létrehozott hadisírok, temetők és emlékhelyek adataihoz.
+
+(2) A Szerződő Felek az általuk felhatalmazott szervek útján értesítik egymást a Magyarország területén lévő bolgár hadisírok és háborús emlékhelyek helyéről, valamint a Bolgár Köztársaság területén található magyar hadisírok és háborús emlékhelyek helyéről és diplomáciai úton kicserélik azok jegyzékét. Az újonnan feltárt temetkezési helyeknek a fent említett jegyzékbe történő felvételét a Szerződő Felek közösen egyeztetve végzik el.
+
+(3) A Szerződő Felek haladéktalanul tájékoztatják egymást a másik Szerződő Felet érintő, a hadisírokban és háborús emlékhelyekben bekövetkezett sérülésekről és károkról, szintúgy a helyreállításukra és a jövőbeni hasonló esetek megakadályozására tett intézkedésekről.
+
+**4. Cikk**
+
+**Megóvás, karbantartás és áthelyezés**
+
+(1) A Szerződő Felek kölcsönösen és kompenzáció nélkül lehetővé teszik ezen Megállapodás céljaira azon területek használatát, ahol a hadisírok és háborús emlékhelyek találhatóak.
+
+(2) A hadisírokkal és háborús emlékhelyekkel kapcsolatos valamennyi változtatás a Szerződő Felek közös megegyezése alapján történik, az általuk meghatalmazott személyek által kölcsönösen aláírt jegyzőkönyv alapján, a vonatkozó jogszabályoknak megfelelően. A területek ezen Megállapodás céljaira való kölcsönös rendelkezésre bocsátása azon ország jogszabályainak megfelelően történik, amelynek területén azok találhatóak.
+
+(3) Abban az esetben, ha az egyik Szerződő Fél közérdekből meg kívánja változtatni egy olyan terület rendeltetését, amelyen hadisírok és háborús emlékhelyek találhatók, a Szerződő Fél kötelezettséget vállal arra, hogy a másik Szerződő Félnek megfelelő és a korábbival egyenértékű területet biztosít a hadisírok és háborús emlékhelyek áthelyezéséhez, és vállalja az ezzel kapcsolatos összes költséget.
+
+(4) A Szerződő Felek az új terület kiválasztását és kialakítását, az újratemetést is beleértve, a Szerződő Felek által meghatalmazott személyek által aláírt kétoldalú jegyzőkönyv alapján teszik.
+
+(5) A (2)–(4) bekezdésben meghatározott tevékenységek azon ország jogszabályainak megfelelően kerülnek elvégzésre, amely ország területén az adott terület található.
+
+**5. Cikk**
+
+**Költségviselés**
+
+(1) A hadisírok és háborús emlékhelyek zöldterületi és kertészeti karbantartásának pénzügyi költségei azon Szerződő Felet terhelik, amelynek területén ezen létesítmények találhatóak.
+
+(2) A Szerződő Felek a másik Szerződő Fél országa területén található saját hadisírjain és háborús emlékhelyein saját költségükre, a másik Szerződő Fél előzetes tájékoztatását követően, a vonatkozó nemzeti jogszabályok figyelembevételével feltárást, építési munkálatokat, helyreállítást és karbantartást végezhetnek.
+
+**6. Cikk**
+
+**Exhumálás**
+
+(1) A Szerződő Felek megállapodnak abban, hogy a hadisírok építése és kialakítása során a háborúk következtében elhunytak földi maradványai addigi helyükön maradnak. Abban az esetben, ha indokolt okokból ez nem lehetséges, ugyanezen Cikk (2)–(4) bekezdésében foglaltak szerint kell eljárni.
+
+(2) A Szerződő Felek kérhetik a földi maradványok exhumálását és újratemetését ugyanabban az országban. Azon ország végrehajtó hatósága, amelynek területén a földi maradványok találhatóak, megteszi a szükséges lépéseket ezen kérés megvizsgálására. A Szerződő Felek ezzel kapcsolatos kölcsönös kötelezettségei a végrehajtók, vagy általuk meghatalmazott személyek által aláírt kétoldalú jegyzőkönyv tárgyát képezik. Amennyiben nem állapodtak meg másként, e költségek az exhumálást kérő felet terhelik.
+
+(3) Exhumálásra és újratemetésre lehetőség szerint a másik Szerződő Fél képviselőjének jelenlétében kerülhet sor.
+
+(4) Minden exhumálásról és újratemetésről kétoldalú jegyzőkönyv készül.
+
+(5) A Szerződő Felek kérhetik a háborúban elesett katonák földi maradványainak exhumálását és saját országukba vagy harmadik országba történő átszállítását. Ebben az esetben a (2)–(4) bekezdés rendelkezései irányadók.
+
+**7. Cikk**
+
+**A Megállapodás végrehajtói**
+
+(1) A magyar Szerződő Fél részéről a Megállapodás végrehajtásáért Magyarország honvédelemért felelős minisztere felel.
+
+(2) A bolgár Szerződő Fél részéről a Megállapodás végrehajtásáért a Bolgár Köztársaság honvédelemért felelős minisztere felel.
+
+(3) A Megállapodás végrehajtói diplomáciai úton kölcsönösen értesítik egymást ezen Megállapodás technikai végrehajtásáért felelős szervezeti egységeikről.
+
+**8. Cikk**
+
+**Záró rendelkezések**
+
+(1) Jelen Megállapodás azon utolsó jegyzék kézhezvételétől számított harmincadik napon lép hatályba, amelyben a Felek diplomáciai úton tájékoztatják egymást a hatálybalépéshez szükséges belső jogi követelmények teljesüléséről.
+
+(2) A Szerződő Felek közötti valamennyi, a jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatos jogvita elsősorban kétoldalú tárgyalások útján kerül rendezésre.
+
+(3) Ez a Megállapodás nem érinti a Szerződő Felek egyéb nemzetközi szerződésben vállalt jogait és kötelezettségeit.
+
+(4) Ez a Megállapodás a Szerződő Felek írásos formában kifejezett közös megegyezésével bármikor módosítható és kiegészíthető. A változások e Cikk (1) bekezdésének rendelkezései szerint lépnek hatályba.
+
+(5) A Szerződő Felek a Megállapodást diplomáciai úton, írásban felmondhatják. A Megállapodás a felmondást tartalmazó jegyzék kézhezvételétől számított hat hónap elteltével hatályát veszti.
+
+Kelt Budapesten, 2013. október 29-én, három eredeti példányban, amelyek magyar, bolgár és angol nyelven készültek, és mindhárom szöveg egyaránt hiteles.
+
+Magyarország Kormánya\
+megbízásából
+
+A Bolgár Köztársaság Kormánya\
+megbízásából”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 8. cikkének (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikkének (1) bekezdésében meghatározott időpontban lép hatályba. Az 5/2014. (VIII. 15.) KKM közlemény alapján a hatálybalépés időpontja 2014. augusztus 2.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikkének (1) bekezdésében meghatározott időpontban lép hatályba. Az 5/2014. (VIII. 15.) KKM közlemény alapján a hatálybalépés időpontja 2014. augusztus 2.
+[^3]: Az 5/2014. (VIII. 15.) KKM közlemény alapján a hatálybalépés időpontja 2014. augusztus 2.
+[^4]: Lásd az 5/2014. (VIII. 15.) KKM közleményt.

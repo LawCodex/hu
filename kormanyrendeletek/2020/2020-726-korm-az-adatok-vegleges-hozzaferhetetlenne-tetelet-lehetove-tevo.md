@@ -1,0 +1,379 @@
+---
+title: "726/2020. (XII. 31.) Korm. rendelet az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatos eljárási szabályok meghatározásáról"
+identifier: "726/2020. (XII. 31.) Korm. rendelet"
+njt_id: "2020-726-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/726"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-31
+in_force_from: 2021-05-01
+last_amended: 2026-01-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-726-20-22"
+retrieved: 2026-10-12
+---
+
+# 726/2020. (XII. 31.) Korm. rendelet az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatos eljárási szabályok meghatározásáról[^1]
+
+A Kormány
+
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 206. § (3c) bekezdés a) és b) pontjában kapott felhatalmazás alapján,
+
+a 3. és 4. alcím tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (2) bekezdés 1. és 5. pontjában kapott felhatalmazás alapján,
+
+az 5. alcím tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1.[^2] *csomagküldő kereskedelem:* a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 4. pontjában meghatározott fogalom;
+
+2.[^3] *fogyasztó:* az a végső felhasználó természetes vagy jogi személy, aki az e rendelet szerinti tartós adathordozót vásárol;
+
+3.[^4] *internetes oldal:* az NMHH honlapján az adatok végleges hozzáférhetetlenné tételét lehetővé tevő szolgáltatás elérhetőségét biztosító oldal;
+
+4.[^5] *kereskedő:* az a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § 33. pontja szerinti vállalkozás, aki tevékenysége folytatása során a fogyasztó részére tartós adathordozót értékesít;
+
+5.[^6] *tartós adathordozó:* az NMHH által közzétett, elektronikus adatok tárolását és felülírását támogató, számítógéphez fizikailag csatlakoztatható informatikai eszközök köre;
+
+6\. *adatok végleges hozzáférhetetlenné tétele:* a tartós adathordozón tárolt adatok visszaállíthatatlan módon történő törlése, amely nem jár az eszköz várható élettartamának lényeges csökkenésével, az eszköz károsodásával vagy fizikai megsemmisítésével;
+
+7.[^7] *adattörlő alkalmazás:* a tartós adathordozón tárolt adatok végleges hozzáférhetetlenné tételét lehetővé tevő, a jogosultság ellenőrzést végző központi szoftverből és a fogyasztó által letölthető, az adatok törlését ténylegesen megvalósító szoftverből álló rendszer;
+
+8.[^8] *online piac:* a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § k) pontjában meghatározott fogalom;
+
+9.[^9] *adattörlő kód:* kriptográfiai úton generált alfanumerikus karaktersorozat, amely az adattörlő alkalmazás fogyasztó által letölthető szoftver komponensének az egyszeri aktiválásához szükséges;
+
+10.[^10] *adattörlési igazolás:* az adattörlő alkalmazás által kiállított, elektronikus aláírással és időbélyeggel hitelesített okirat, amely igazolja, hogy a megadott azonosítóval rendelkező tartós adathordozón az adatok végleges hozzáférhetetlenné tétele megtörtént.
+
+11.[^11] *online számlázási funkcióval rendelkező program működtetője:* az a személy vagy szervezet,
+
+a) aki vagy amely felhasználói számára a hálózaton keresztül elérhető, számlázási szolgáltatás igénybevételét biztosítja, és
+
+b) akinek vagy amelynek a tárgyévet megelőző évben legalább 1000 online számlaadat-szolgáltatást teljesítő ügyfele volt, akik vagy amelyek a tárgyévet megelőző évben legalább 100 000 online számlaadat-szolgáltatást teljesítettek;
+
+12.[^12] *online számlaadat-szolgáltatás:* az adópolitikáért felelős miniszter rendeletében meghatározott módon a kiállított számla, valamint számlával egy tekintet alá eső okirat adatainak az állami adó- és vámhatóság részére, elektronikus úton történő továbbítása.
+
+## 2. A Nemzeti Média- és Hírközlési Hatóság feladata
+
+### 2. §[^13]
+
+(1) Az NMHH az adattörlő alkalmazás használatát térítésmentesen biztosítja a fogyasztó részére.
+
+(2)[^14] Az NMHH az internetes oldalon közzéteszi az adattörlő alkalmazáshoz kapcsolódó felhasználási feltételeket és a használatához szükséges közérthető használati útmutatót.
+
+(3)[^15] Az NMHH az internetes oldalon közzétett tartós adathordozók vámtarifaszám szerinti csoportosítását a Nemzeti Adó- és Vámhivatallal (a továbbiakban: NAV) együttműködve határozza meg.
+
+### 3. §[^16]
+
+(1) Az adattörlő kód fogyasztó részére történő átadásával a fogyasztó az adattörlő alkalmazás használatára jogosult felhasználóvá válik, és a 2. § (2) bekezdése szerint jogosult az adattörlő alkalmazás aktiválására és egyszeri felhasználására.
+
+(2)[^17] Az adattörlő alkalmazás a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője által átadott adattörlő kóddal a 9. § (3)–(6) bekezdése szerinti adatszolgáltatást követően, továbbá a 9/A. § vagy a 14. § (4) bekezdése alapján biztosított adattörlő kóddal aktiválható. Az adattörlő kód a fogyasztó számára egyetlen tartós adathordozó adatainak egyszeri törlésére biztosít lehetőséget. A törlést követően a fogyasztó elektronikus levélben az adattörlés eredményéről adattörlési igazolást kap.
+
+### 4. §[^18]
+
+(1)[^19] Az NMHH nyilvántartja az átadott adattörlő kódokkal kapcsolatban a 7. § és a 14. § (5) bekezdése alapján szolgáltatott adatokat.
+
+(2)[^20] Az NMHH a nyilvántartásban foglalt adatokat a 7. § szerinti adatszolgáltatástól vagy a 14. § (5) bekezdése szerinti átadástól számított 10 évig megőrzi.
+
+## 3.[^21] A NAV feladata
+
+### 5. §[^22]
+
+A NAV a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője által elektronikus úton benyújtott kérelmére gondoskodik
+
+a) az adattörlő kód generálásáról és
+
+b) az adattörlő kódnak a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője részére történő kiadásáról.
+
+### 6. §[^23]
+
+A NAV a fogyasztóvédelmi hatóság ellenőrzési feladatainak a támogatása céljából minden év január tizenötödik napjáig a honlapján közzéteszi az 1. § 11. pontja szerinti, online számlázási funkcióval rendelkező programot működtetők nevét, székhelyét, adószámát.
+
+### 7. §[^24]
+
+A NAV adatot szolgáltat az NMHH részére
+
+a) a kereskedőnek, az online piac, valamint az online számlázási funkcióval rendelkező program működtetőjének kiadott adattörlő kódokról, a kiadás dátumáról a kiadást követő egy munkanapon belül, valamint
+
+b) a kereskedő, az online piac, valamint az online számlázási funkcióval rendelkező program működtetője a 9. § (3)–(6) bekezdése szerinti adatszolgáltatása alapján a fogyasztónak átadott adattörlő kódokról és az átadás dátumáról, hetente, a hét második munkanapján.
+
+## 4.[^25] Adattörlő kód biztosítása a fogyasztó részére
+
+### 8. §[^26]
+
+(1) Az adattörlő kód fogyasztó részére történő térítésmentes átadása
+
+a) a vásárlás megtörténtét igazoló számviteli bizonylaton történő rögzítésével,
+
+b) a bizonylat átadásával egyidejűleg más módon, így különösen papír alapon mellékelve vagy
+
+c) az adásvételi szerződés létrejöttéről szóló, (3) bekezdés szerinti értesítésben történő rögzítésével
+
+történik.
+
+(2) Ha a kereskedő online számlázási funkcióval rendelkező programmal állítja ki a vásárlás megtörténtét igazoló számviteli bizonylatot, a bizonylaton az adattörlő kódot az online számlázási funkcióval rendelkező program működtetője rögzíti.
+
+(3) Ha a kereskedő a tevékenységét online piac igénybevételével gyakorolja, az online piac működtetője rögzíti az adattörlő kódot a tartós adathordozó értékesítésére vonatkozó adásvételi szerződés létrejöttéről szóló, a fogyasztó részére megküldött értesítésben.
+
+(4) Arra a kereskedőre, aki a tevékenységét online piac igénybevételével gyakorolja, és online számlázási funkcióval rendelkező programmal állítja ki a vásárlás megtörténtét igazoló számviteli bizonylatot, a (2) bekezdésben foglaltak irányadók.
+
+(5) Az online számlázási funkcióval rendelkező program működtetője köteles az online számlázási szolgáltatást úgy nyújtani, hogy a szolgáltatás emberi beavatkozás nélkül azonosítsa az e rendelet hatálya alá tartozó tartós adathordozót, és automatikusan szolgáltassa az adathordozóhoz az adattörlő kódot. A kereskedő felel az adattörlő kód fogyasztó részére történő átadásának elmulasztásáért, ha az online számlázási funkcióval rendelkező program működtetője bizonyítja, hogy a kereskedő a tartós adathordozó megjelöléséhez olyan megjelölést használt, amelyet az online számlázási funkcióval rendelkező program nem volt képes felismerni.
+
+(6) Az adattörlő kód fogyasztó részére történő átadásáért a kereskedő és az online számlázási funkcióval rendelkező program működtetője egyetemlegesen felel. Az online számlázási funkcióval rendelkező program működtetője mentesül a felelősség alól, ha bizonyítja, hogy a kereskedő a tartós adathordozó megjelöléséhez olyan megjelölést használt, amelyet az online számlázási funkcióval rendelkező program nem volt képes felismerni. A kereskedő mentesül a felelősség alól, ha bizonyítja, hogy a tartós adathordozó megjelöléséhez olyan megjelölést használt, amelyet az online számlázási funkcióval rendelkező program felismert, vagy azért nem ismert fel, mert az nem felelt meg az (5) bekezdésben foglaltaknak.
+
+(7) A kereskedő köteles tájékoztatni az online piac működtetőjét arról, hogy az adásvétel tárgya tartós adathordozó. A tájékoztatás elmulasztása esetén a kereskedő felel az adattörlő kód fogyasztó részére történő átadásáért.
+
+(8) A (2)–(4) bekezdésben foglaltaktól eltérően a kereskedő adja át az adattörlő kódot a fogyasztó részére a kereskedő NAV felé tett, erre vonatkozó kifejezett nyilatkozata esetén, valamint ha a kereskedő nem online számlázási funkcióval rendelkező programmal állítja ki a vásárlás megtörténtét igazoló számviteli bizonylatot, vagy ha a tevékenységét nem online piac igénybevételével gyakorolja.
+
+(9) Ha a kereskedő a vásárlás megtörténtét igazoló számviteli bizonylat kiállításához – amelyen a 2. § (3) bekezdése szerinti csoportosított tartós adathordozót szerepelteti – a NAV Online Számlázó Programját használja, a bizonylaton az adattörlő kódot az Online Számlázó Program rögzíti.
+
+(10) Az adattörlő kód önállóan nem forgalomképes.
+
+### 8/A. §[^27]
+
+(1) A kereskedő a fogyasztó tájékoztatása érdekében a tartós adathordozó eszközöket tartalmazó részlegén köteles az 1. melléklet szerinti tájékoztatót jól látható módon, információs táblán közzétenni.
+
+(2)[^28] Azon kereskedő, aki
+
+a) csomagküldő kereskedelmet folytat,
+
+b) internetes honlappal rendelkezik, vagy
+
+c) tevékenységét online piacon fejti ki,
+
+a tartós adathordozó termékleírásában jól látható módon közzéteszi a 2. melléklet szerinti tájékoztatót.
+
+### 9. §
+
+(1)[^29] A kereskedő, az online piac működtetője, valamint az online számlázási funkcióval rendelkező program – kivéve a NAV Online Számlázó Program – működtetője az adattörlő kódot a NAV által erre a célra rendszeresített formanyomtatvány alkalmazásával, elektronikus úton igényelheti. A NAV az igény beérkezését követő 8 napon belül bocsátja a kereskedő, az online piac működtetője, valamint – a NAV Online Számlázó Program kivételével – az online számlázási funkcióval rendelkező program működtetője rendelkezésére az adattörlő kódot.
+
+(2)[^30] A kereskedő, az online piac működtetője és az online számlázási funkcióval rendelkező program működtetetője a részére kiadott és a fogyasztó részére még át nem adott adattörlő kódokat nyilvántartja.
+
+(3)[^31] A kereskedő, az online piac működtetője és az online számlázási funkcióval rendelkező program működtetője a fogyasztónak átadott adattörlő kódokról, a tartós adathordozó értékesítéséről kiállított számviteli bizonylat sorszámáról és a fogyasztónak történő átadás dátumáról adatot szolgáltat a NAV felé.
+
+(4)[^32] A (3) bekezdés szerinti adatszolgáltatást a kereskedő, ha az adattörlő kód kiadására
+
+a) a számlán történő rögzítéssel került sor, úgy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 257/G. §-a és 10. melléklete szerinti adatszolgáltatás útján,
+
+b) a nyugtaadási kötelezettség pénztárgéppel történő teljesítése esetén a nyugtán vagy a számlán történő rögzítéssel került sor, úgy az Áfa tv. 178. § (1a) bekezdése szerinti adatszolgáltatás útján, valamint
+
+c) az a)–b) ponttól eltérő, egyéb módon került sor, úgy a NAV által erre a célra rendszeresített elektronikus űrlapon, minden hét 5. napjáig az adatszolgáltatás napját megelőző 7 napon kiadott adattörlő kódok tekintetében
+
+teljesíti.
+
+(5)[^33] A (3) bekezdés szerinti adatszolgáltatást az online számlázási funkcióval rendelkező program működtetője a (4) bekezdés a) pontja szerinti adatszolgáltatás útján teljesíti.
+
+(6)[^34] A (3) bekezdés szerinti adatszolgáltatást az online piac működtetője a (4) bekezdés c) pontja szerinti adatszolgáltatás útján teljesíti.
+
+### 9/A. §[^35]
+
+Ha a fogyasztó tartós adathordozó vásárlásakor nem kapott adattörlő kódot, úgy azt az NMHH-tól igényelheti a vásárlásról szóló eredeti bizonylat vagy másolata vagy az adásvételi szerződés létrejöttéről szóló, 8. § (3) bekezdése szerinti értesítés megküldésével. A fogyasztó részére ez esetben az NMHH elektronikus úton biztosítja az adattörlő kódot.
+
+## 5. Ellenőrzés
+
+### 10. §[^36]
+
+Az Fgytv. 45/A. § (2) bekezdésével összhangban a fogyasztóvédelmi hatóság ellenőrzi a 8. §-ban, a 8/A. §-ban, a 9. § (2)–(6) bekezdésében és a 13. § (1) bekezdésében meghatározott rendelkezések betartását, és eljár azok megsértése esetén.
+
+## 6. Tanúsító szervezet és a tanúsítási eljárás
+
+### 11. §
+
+(1) Az alkalmazásként csak az e rendeletben meghatározott tanúsító szervezet által minősített szoftver fogadható el adattörlés lefolytatására.
+
+(2) Az a tanúsító szervezet jelölhető ki tanúsítási eljárás lefolytatására, amely
+
+a) eljárásrendje alapján a tanúsítványát, független akkreditált vizsgáló laboratórium (a továbbiakban: vizsgáló laboratórium) által kiadott értékelési jelentés alapulvételével, valamely – informatikai termékek és rendszerek technológiai biztonsági értékelési követelményeit tartalmazó – szabvány vagy nyilvános műszaki követelményrendszer előírásainak való megfelelés alapján állítja ki;
+
+b) minimum két műszaki informatikai mérnök felsőfokú végzettséggel és legalább kétéves, akkreditált tanúsító szervezetnél szerzett, igazolt tanúsítási gyakorlattal rendelkező szakértőt foglalkoztat;
+
+c) rendelkezik legalább tíz teljes munkaidőben foglalkoztatott munkavállalóval;
+
+d)[^38]
+
+e) minimum 100 000 000 forintos határig kiterjedő szakmai felelősségbiztosítással rendelkezik;
+
+f) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó, az elmúlt 5 évben legalább 4 évnyi akkreditált státuszt igazoló okirattal;
+
+g) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett – bármilyen ágazatból származó – legalább 3 referenciával;
+
+h)[^39] a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint a tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal, és tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 57. § (2) bekezdés d) pontja szerinti nyilvántartásban.
+
+(3) Az informatikai rendszer megfelel a rendszerelemek zártságával, az informatikai rendszerhez történő jogosulatlan hozzáférés és észrevétlen módosítás megakadályozásával kapcsolatos, valamint az általános információbiztonsági zártsági követelményeknek, ha
+
+a) a rendszer elemei azonosíthatóak és dokumentáltak;
+
+b) a rendszer üzemeltetési folyamatai szabályozottak, dokumentáltak és a vonatkozó szabályzat szerinti gyakorisággal ellenőrzöttek;
+
+c) a rendszer változáskezelési folyamatai biztosítják, hogy a rendszer paraméterezésében és a szoftverkódban bekövetkező változások csak tesztelt és dokumentált módon valósulhatnak meg;
+
+d) a rendszer adatmentési és visszaállítási rendje biztosítja a rendszer biztonságos visszaállítását, továbbá a mentés-visszaállítás a vonatkozó szabályzat szerinti gyakorisággal és dokumentáltan tesztelt;
+
+e) a rendszerhez való végfelhasználói hozzáférés mind alkalmazási, mind pedig infrastruktúra szinten szabályozott, dokumentált és a vonatkozó szabályzat szerinti gyakorisággal ellenőrzött;
+
+f) a rendszerben felállított végfelhasználói hozzáférések egységes, zárt rendszert alkotnak, melyek biztosítják az üzleti folyamatok megvalósulását, továbbá a végfelhasználók tevékenysége naplózásra kerül, és a kritikus rendkívüli eseményekről automatikus figyelmeztetések generálódnak;
+
+g) a rendszerhez hozzáférést biztosító kiemelt jogosultságok szabályozottak, dokumentáltak és a vonatkozó szabályzat szerinti gyakorisággal ellenőrzöttek, továbbá a kiemelt jogosultságokkal elvégzett tevékenység naplózása megvalósul, a napló fájlok sérthetetlensége biztosított, és a kritikus rendkívüli eseményekről automatikus figyelmeztetések generálódnak;
+
+h) a rendszerhez történő távoli hozzáférés szabályozott, dokumentált és a vonatkozó szabályzat szerinti gyakorisággal ellenőrzött;
+
+i) a rendszer vírus és más rosszindulatú programok elleni védelme biztosított;
+
+j) a rendszer adatkommunikációs és rendszerkapcsolatai dokumentáltak és ellenőrzöttek annak érdekében, hogy az adatkommunikáció bizalmassága, sérthetetlensége és hitelessége biztosítható legyen;
+
+k) a katasztrófa-helyreállítási terv rendszeresen tesztelt;
+
+l) a rendszerek és szolgáltatások beszerzése szabályozott, nyomon követett, és megfelel a biztonsági előírásoknak;
+
+m) a rendszer karbantartása szabályozott, és megfelel a rendelkezésre állásra vonatkozó elvárásoknak;
+
+n) a rendszer adathordozóinak védelme szabályozott, megfelelően korlátozott, és a korlátozásokat rendszeres felülvizsgálatokkal és ellenőrzésekkel is fenntartják;
+
+o) a rendszer és az üzemeltetési szabályzatok gondoskodnak a rendszerelemek és a kezelt információk sértetlenségéről;
+
+p) a rendszer és az üzemeltetési szabályzatok gondoskodnak a rendszer és a kommunikáció kellő szintű védelméről;
+
+q) megfelelő szintű fizikailag védett környezetet biztosítanak a rendszer számára;
+
+r)[^40] a szervezet detektálja és kezeli az egyes kiberbiztonsági incidenseket;
+
+s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
+
+## 7. Záró rendelkezések
+
+### 12. §[^41]
+
+(1)[^42]
+
+(2)[^43]
+
+(3)[^44]
+
+(4)[^45] Az NMHH a fogyasztók számára az adattörlést lehetővé tevő szolgáltatás elérhetőségét 2021. december 1. napjától biztosítja.
+
+### 13. §[^46]
+
+(1)[^47] A kereskedő az e rendelet 2022. december 31-ig hatályos rendelkezései szerint átvett címkét 2023. december 31-ig adhatja át a fogyasztó részére. A címke felhasználására az e rendelet 2022. december 31-ig hatályos rendelkezései az irányadóak.
+
+(2)[^48] A fogyasztó a számára e rendelet alapján átadott címkét az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatos eljárási szabályok meghatározásáról szóló 726/2020. (XII. 31.) Korm. rendelet módosításáról szóló 518/2022. (XII. 13.) Korm. rendelet rendelkezéseinek hatálybalépését[^49] követően is jogosult felhasználni.
+
+(3)[^50] Az NMHH jogosult az adatok végleges hozzáférhetetlenné tételét 2023. december 31-ig az e rendelet 2022. december 31-ig hatályos rendelkezései szerint is biztosítani, mely esetben a címkék kiszállításáról, kereskedőknek történő átadásáról és nyilvántartásáról az e rendelet 2022. december 31-ig hatályos rendelkezései szerint kell gondoskodni.
+
+### 14. §[^51]
+
+(1)[^52] A kereskedő a fogyasztó részére 2023. december 31-ig át nem adott címkéket – ideértve a sérült címkéket is – 2024. január 31-ig köteles a székhelye vagy telephelye szerinti illetékes járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére visszaszolgáltatni.
+
+(2)[^53] A járási hivatal a kereskedő által visszaszolgáltatott címkéket 2024. február 15-ig átadja Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) részére.
+
+(3)[^54] A BFKH a (2) bekezdés alapján átvett címkéket 2024. február 20-ig juttatja el az NMHH részére.
+
+(4)[^55] Az NMHH – a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 134. § (18) bekezdése szerinti forrás terhére – a 2023. december 31-ig nyilvántartásba vett, de ki nem adott, vagy a (3) bekezdés szerint visszaszolgáltatott ép címkéket jogosult 2026. november 30-ig átadni a személyes adatok védelméhez kapcsolódó nevelő, ismeretterjesztő tevékenység elősegítése, a személyes adatok védelmével összefüggő fogyasztói tudatosság növelése céljából más állami szerv, oktatási, nevelési vagy kulturális feladatokat ellátó intézmény vagy nonprofit szervezet részére.
+
+(5)[^56] A (4) bekezdés szerint átadott címke felhasználójára az e rendelet fogyasztóra irányadó szabályai megfelelően alkalmazandók.
+
+(6)[^57] Az NMHH a (4) bekezdés szerinti címkéket szigorú számadású bizonylatként tartja nyilván, és azok átadásáról jegyzőkönyvet vesz fel. Az NMHH nyilvántartja a jegyzőkönyv keltét mint az adattörlő kód fogyasztó részére történő átadásának időpontját, az átadott címkék sorszámát és a jegyzőkönyv – átadási bizonylat – azonosító számát.
+
+### 15. §[^58]
+
+A 9. § (4) bekezdés c) pontja szerinti adatszolgáltatást első alkalommal 2023. január 13-án kell teljesíteni a 2023. január 1-je és 12-e közötti időszakról.
+
+### 15/A. §[^59]
+
+E rendeletnek a fogyasztóvédelemmel összefüggő kormányrendeletek módosításáról szóló 93/2024. (IV. 23.) Korm. rendelet által megállapított 6. §-a szerinti közzétételi kötelezettségét a NAV a 2023. év tekintetében 2024. szeptember 15. napjáig teljesíti.
+
+### 16. §[^60]
+
+A Kormány az Mttv. 134. § (18) bekezdésében meghatározott közszolgáltatási szerződés NMHH-val történő megkötésére a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 16. § (2) bekezdése szerinti minisztériumot jelöli ki.
+
+### 17. §[^61]
+
+E rendeletnek a területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet és az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosításáról szóló 62/2025. (III. 31.) Korm. rendelettel (a továbbiakban: Módr.) módosított 16. §-át a Módr. hatálybalépésekor[^62] már megkötött közszolgáltatási szerződés tekintetében is alkalmazni kell.
+
+## 1. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^63]
+
+**Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató**
+
+![](https://njt.jog.gov.hu/picture/07/0722EJR_6101415-4X02747.jpg)
+
+## 2. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^64]
+
+Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató szövege:
+
+„A Kormány döntése alapján a kereskedő tartós adathordozó termék vásárlásakor köteles a fogyasztó részére ingyenes adattörlő kódot biztosítani.
+
+Használja az ingyenes adattörlő kódot adatainak biztonsága érdekében!
+
+További információ a Nemzeti Média- és Hírközlési Hatóság honlapján:
+
+https://nmhh.hu/veglegestorles”
+
+---
+
+[^1]: A rendelet a 23/2021. (I. 28.) Korm. rendelet 6. §-a alapján 2021. május 1-jén lép hatályba.
+[^2]: Az 1. § 1. pontját az 518/2022. (XII. 13.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 93/2024. (IV. 23.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 2. pontja a 93/2024. (IV. 23.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^4]: Az 1. § 3. pontja az 518/2022. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 1. § 4. pontja az 518/2022. (XII. 13.) Korm. rendelet 2. §-ával megállapított, a 93/2024. (IV. 23.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § 5. pontja az 518/2022. (XII. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 7. pontja a 490/2021. (VIII. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § 8. pontját a 490/2021. (VIII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 93/2024. (IV. 23.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^9]: Az 1. § 9. pontja a 490/2021. (VIII. 13.) Korm. rendelet 2. §-ával megállapított, az 518/2022. (XII. 13.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § 10. pontja a 490/2021. (VIII. 13.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^11]: Az 1. § 11. pontját a 93/2024. (IV. 23.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^12]: Az 1. § 12. pontját a 93/2024. (IV. 23.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^13]: A 2. § a 490/2021. (VIII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 2. § (2) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 2. § (3) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^16]: A 3. § az 518/2022. (XII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 3. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^18]: A 4. § az 518/2022. (XII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^19]: A 4. § (1) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^20]: A 4. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^21]: A 3. alcím címe az 518/2022. (XII. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^22]: Az 5. § a 93/2024. (IV. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^23]: A 6. §-t az 518/2022. (XII. 13.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte, újonnan a 93/2024. (IV. 23.) Korm. rendelet 26. §-a iktatta be.
+[^24]: A 7. § a 93/2024. (IV. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^25]: A 4. alcím címe az 518/2022. (XII. 13.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^26]: A 8. § a 93/2024. (IV. 23.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^27]: A 8/A. §-t a 378/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 8/A. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^29]: A 9. § (1) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^30]: A 9. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^31]: A 9. § (3) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^32]: A 9. § (4) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^33]: A 9. § (5) bekezdését újonnan a 93/2024. (IV. 23.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^34]: A 9. § (6) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^35]: A 9/A. §-t az 518/2022. (XII. 13.) Korm. rendelet 10. §-a iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 35. § d) pontja szerint módosított szöveg.
+[^36]: A 10. § a 93/2024. (IV. 23.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^38]: A 11. § (2) bekezdés d) pontját a 436/2025. (XII. 23.) Korm. rendelet 41. §-a hatályon kívül helyezte.
+[^39]: A 11. § (2) bekezdés h) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § (3) bekezdés r) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § b) pontja szerint módosított szöveg.
+[^41]: A 12. § a 23/2021. (I. 28.) Korm. rendelet 7. §-a alapján nem lép hatályba. A rendelet e módosító rendelet 6. §-a alapján 2021. május 1-jén lép hatályba. A 12. §-t a 490/2021. (VIII. 13.) Korm. rendelet 13. §-a iktatta be.
+[^42]: A 12. § (1) bekezdését az 518/2022. (XII. 13.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
+[^43]: A 12. § (2) bekezdését az 518/2022. (XII. 13.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
+[^44]: A 12. § (3) bekezdését az 518/2022. (XII. 13.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
+[^45]: A 12. § (4) bekezdése az 590/2021. (X. 20.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^46]: A 13. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^47]: A 13. § (1) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^48]: A 13. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 35. § e) pontja szerint módosított szöveg.
+[^49]: A hatálybalépés időpontja 2022. december 15.
+[^50]: A 13. § (3) bekezdését a 18/2023. (I. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 111/2023. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^51]: A 14. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^52]: A 14. § (1) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.
+[^53]: A 14. § (2) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^54]: A 14. § (3) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^55]: A 14. § (4) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^56]: A 14. § (5) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^57]: A 14. § (6) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^58]: A 15. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^59]: A 15/A. §-t a 93/2024. (IV. 23.) Korm. rendelet 33. §-a iktatta be.
+[^60]: A 16. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be, szövege az 561/2023. (XII. 14.) Korm. rendelet 50. §-a, a 93/2024. (IV. 23.) Korm. rendelet 35. § f) és g) pontja, a 62/2025. (III. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^61]: A 17. §-t a 62/2025. (III. 31.) Korm. rendelet 6. §-a iktatta be.
+[^62]: A hatálybalépés időpontja 2025. április 1.
+[^63]: Az 1. mellékletet a 378/2022. (X. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^64]: A 2. mellékletet a 93/2024. (IV. 23.) Korm. rendelet 34. § (2) bekezdése iktatta be.

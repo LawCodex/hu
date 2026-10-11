@@ -1,0 +1,245 @@
+---
+title: "215/2019. (IX. 5.) Korm. rendelet a Magyarország Kormánya és Montenegró Kormánya közötti infrastrukturális projektek területén kötött együttműködési megállapodás kihirdetéséről"
+identifier: "215/2019. (IX. 5.) Korm. rendelet"
+njt_id: "2019-215-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/215"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-09-05
+in_force_from: 2019-09-06
+last_amended: 2019-11-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-215-20-22"
+retrieved: 2026-10-12
+---
+
+# 215/2019. (IX. 5.) Korm. rendelet a Magyarország Kormánya és Montenegró Kormánya közötti infrastrukturális projektek területén kötött együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Montenegró Kormánya közötti infrastrukturális projektek területén kötött együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+(1) A Megállapodás hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
+
+(2) A Megállapodás hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. §, a 3. §, az 1. melléklet és a 2. melléklet a Megállapodás 13. Cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. §, a 3. §, az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+## 1. melléklet a 215/2019. (IX. 5.) Korm. rendelethez[^5]
+
+**EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS INFRASTRUKTURÁLIS PROJEKTEK TERÜLETÉN MAGYARORSZÁG KORMÁNYA ÉS MONTENEGRÓ KORMÁNYA KÖZÖTT**
+
+Magyarország Kormánya és Montenegró Kormánya (a továbbiakban: „Felek”):
+
+JAVASOLVA a kétoldalú gazdasági együttműködés infrastruktúra-fejlesztés területén történő erősítését,
+
+FIGYELEMBE VÉVE a Magyar Köztársaság és Montenegró közötti, 2008. október 3-án aláírt gazdasági együttműködésről szóló megállapodást,
+
+Az alábbiak szerint állapodtak meg:
+
+1\. **Cikk**
+
+Jelen Megállapodás célja, hogy elősegítse a Felek közötti együttműködést az infrastruktúra-fejlesztés területén. A kölcsönös előnyök elvét alapul véve, a Felek betartják nemzeti törvényeik és nemzetközi megállapodásaik vonatkozó rendelkezéseit, beleértve azon kötelezettségeiket, melyek vám-, gazdasági és monetáris uniós, illetve közös piaci vagy szabadkereskedelmi övezeti tagságaikból erednek.
+
+2\. **Cikk**
+
+Jelen Megállapodás elsősorban, de nem kizárólagosan az alábbi együttműködési területeket foglalja magába:
+
+1) vízgazdálkodás (szennyvíz, vízvédelem, árvízvédelem),
+
+2) közlekedés és fenntartható mobilitás,
+
+3) szilárdhulladék-gazdálkodás,
+
+4) talajjavítás és rekultiváció,
+
+5) környezetvédelem,
+
+6) energia.
+
+3\. **Cikk**
+
+A jelen Megállapodás szerinti együttműködés a következő formákban valósul meg:
+
+1) infrastrukturális projektek fejlesztése és megvalósítása,
+
+2) stratégiai és megvalósíthatósági tanulmányok, hatásvizsgálatok elkészítése, projektek elindítása a meglévő infrastruktúra modernizálása és felújítása érdekében, új infrastruktúrák bővítése és kiépítése, valamint infrastruktúrák kiépítése és helyreállítása, a Felek megegyezése szerint,
+
+3) technikai segítségnyújtás a nemzeti foglalkoztatottak kapacitás-építésére szakosodott szakértők és szakemberek révén annak érdekében, hogy fejlesztési tervek és egyéb, infrastrukturális projektekkel kapcsolatos területek beazonosításra kerüljenek,
+
+4) az együttműködés bármilyen más formája az infrastrukturális projektek területén, megegyezés szerint.
+
+4\. **Cikk**
+
+Jelen Megállapodás megvalósításának nyomon követéséért és végrehajtásáért Magyarország részéről a Külgazdasági és Külügyminisztérium, Montenegró részéről a Fenntartható Fejlődésért és Turizmusért Felelős Minisztérium a felelős.
+
+5\. **Cikk**
+
+A jelen Megállapodás alá tartozó tevékenységek a Felek kompetens intézményei és magánszféráinak szereplői közötti megállapodások, szerződések, programok vagy projektjeik végrehajtása által valósulnak meg, mely szervek a források felhasználására munkatervet és speciális eljárásrendet dolgoznak ki. Ezen dokumentumok emellett egyéb, a Felek által közös érdekük alapján meghatározott témákra is kiterjedhetnek, a Felek állami hatóságainak jóváhagyásával.
+
+6\. **Cikk**
+
+A jelen Megállapodás 5. cikkében említett programok, projektek és egyedi megállapodások megvalósításáért felelős kompetens hatóságok, intézmények és/vagy cégek által benyújtott pályázatok és ajánlatok értékelése a „legjobb ár-érték arány” elve alapján, a kivitelezés és szállítás feltételeinek, valamint a szolgáltatások szintjének és minőségének figyelembe vételével, a Felek alkalmazandó jogszabályainak megfelelően történik. Magyarország Kormánya felelős egy speciális gyakorlati kézikönyv kialakításáért a tenderekkel és finanszírozási szerződések megkötésével kapcsolatban, amely könnyen használható útmutatóként szolgál. A részletes eljárási szabályok, valamint a kézikönyv a Felek illetékes hatóságainak egyetértése mellett kerülnek kialakításra.
+
+7\. **Cikk**
+
+A Felek egyetértenek abban, hogy a 2. Cikkben meghatározott területeken történő infrastrukturális projektek előkészítése és megvalósítása képezi a jelen Megállapodás szerinti együttműködés prioritását.
+
+8\. **Cikk**
+
+A jelen Megállapodás végrehajtásából származó pénzügyi tevékenységekkel kapcsolatos döntések meghozatalára a Felek kölcsönös egyetértésével, költségvetési lehetőségeik függvényében kerül sor.
+
+9\. **Cikk**
+
+Jelen Megállapodás céljainak végrehajtása érdekében a Felek Gazdasági Együttműködési Kormányközi Vegyes Bizottságot hoznak létre, melynek tagjait a kijelölt Minisztériumok kölcsönös egyetértése alapján a releváns minisztériumok és/vagy állami hatóságok képviselői közül jelölik ki, akik időszakosan üléseznek Magyarországon, illetve Montenegróban. Az ülések időpontjáról és napirendjéről kölcsönös egyetértés alapján, írásban születik döntés.
+
+10\. **Cikk**
+
+Jelen Megállapodás a Felek kölcsönös egyetértése esetén módosítható. A módosítások a jelen Megállapodás 13. Cikkében meghatározott eljárásrendnek megfelelően lépnek hatályba.
+
+11\. **Cikk**
+
+Bármely, a jelen Megállapodás értelmezésével és/vagy végrehajtásával kapcsolatban felmerülő nézetkülönbséget vagy vitát diplomáciai csatornákon keresztül megvalósuló tárgyalások útján kell megoldani.
+
+12\. **Cikk**
+
+E megállapodás rendelkezései nem alkalmazhatóak vagy értelmezhetők olyan módon, hogy azok sértsék vagy befolyásolják Magyarország európai uniós tagságából fakadó kötelezettségeit. A Megállapodás nem értelmezhető és hivatkozható olyan módon, hogy az az Európai Unió és Montenegró, illetve az Európai Unió és tagállamai, másfelől Montenegró között létrejött megállapodásokból eredő kötelezettségeket megszüntesse vagy más módon érintse.
+
+13\. **Cikk**
+
+Jelen Megállapodás a Felek által egymásnak küldött azon későbbi értesítés kézhezvételétől számított 30 napot követően lép hatályba, melyben tájékoztatják egymást arról, hogy a Megállapodás hatályba lépéséhez szükséges minden belsőeljárás lezárult. Jelen Megállapodás öt (5) évig hatályos, mely automatikusan újabb öt (5) évre meghosszabbodik, amennyiben egyik Fél sem értesíti a másik Felet írásos vagy diplomáciai csatornákon keresztül abbéli szándékáról, hogy a Megállapodást nem kívánja megújítani, legalább három (3) hónappal a meghatározott időtartam lejárta előtt.
+
+Amennyiben a Felek másképp nem rendelkeznek, jelen Megállapodás megszűnése nem befolyásolja a folyamatban levő programok, projektek és tevékenységek végrehajtását.
+
+Készült Washingtonban 2019. július 17-én két eredeti példányban angol nyelven.
+
+Magyarország\
+Kormánya részéről
+
+Montenegró\
+Kormánya részéről
+
+## 2. melléklet a 215/2019. (IX. 5.) Korm. rendelethez[^6]
+
+FRAMEWORK AGREEMENT ON – COOPERATION BETWEEN THE GOVERNMENT OF HUNGARY\
+AND THE GOVERNMENT OF MONTENEGRO IN THE FIELD OF INFRASTRUCTURE PROJECTS
+
+The Government of Hungary and the Government of Montenegro (hereinafter referred to collectively as the „Parties”),
+
+DESIRING to enhance bilateral economic cooperation in the field of infrastructure development,
+
+BEARING IN MIND the Agreement on Economic Cooperation between the Republic of Hungary and Montenegro, signed on 3 October 2008,
+
+Have agreed as follows:
+
+**ARTICLE 1**
+
+The objective of this Framework Agreement is to promote cooperation between the Parties in the field of infrastructure development. Based on the principle of mutual convenience, the Parties shall abide by relevant provisions of their national legislation and international agreements, including obligations arising from their memberships in a customs, economic or monetary union, a common market or a free trade area.
+
+**ARTICLE 2**
+
+Cooperation under this Framework Agreement include primarily but not exclusively the following areas:
+
+1) water management (wastewater, water protection and flood protection)
+
+2) transport and sustainable mobility,
+
+3) solid waste management,
+
+4) remediation and recultivation,
+
+5) environmental protection,
+
+6) energy.
+
+**ARTICLE 3**
+
+Cooperation under this Framework Agreement shall be carried out in the following forms:
+
+1) development and implementation of infrastructure projects,
+
+2) preparation of strategic and feasibility studies, impact analysis, initiating projects for the modernization and reconditioning of existing infrastructure, expansion and construction of new infrastructure, as well as the construction and rehabilitation of infrastructure, as agreed between the Parties,
+
+3) technical assistance of experts, professionals specialized in the capacity building of national employees to draw up development plans and other areas related to infrastructure projects,
+
+4) any other agreed form of cooperation in the field of infrastructure projects.
+
+**ARTICLE 4**
+
+The Ministry of Foreign Affairs and Trade of Hungary and the Ministry of Sustainable Development and Tourism of Montenegro are assigned to monitor and implement this Framework Agreement.
+
+**ARTICLE 5**
+
+Activities under this Framework Agreement shall be implemented by conclusion of agreements, contracts, programmes or projects of competent institutions and private entities of the Parties that will set out the work plan and the special procedures for the use of funds. Furthermore, the abovementioned documents shall deal with other issues of mutual interest with the consent of state authorities of the Parties.
+
+**ARTICLE 6**
+
+Proposals and bids submitted by the competent authorities, institutions and/or companies responsible for the implementation of programs and projects and specific agreements referred to in Article 5 of this Framework Agreement, shall be evaluated on the basis of “best value for money” principle, conditions of execution and delivery as well as the level and quality of services and shall be concluded in accordance with applicable rules of the Parties.
+
+The Government of Hungary is responsible to develop a specialised practical handbook, to be agreed and adopted by the Steering committee, for tendering and contracting of funds that shall serve as an easy-to-use manual. The detailed rules of procedures as well as the handbook shall be agreed by the designated authorities of the Parties.
+
+**ARTICLE 7**
+
+The Parties agree that the preparation and implementation of infrastructure projects in the areas defined under Article 2 represent the priority of cooperation under the present Framework Agreement.
+
+**ARTICLE 8**
+
+The financial activities arising from the implementation of this Framework Agreement shall be decided by mutual agreement between the Parties, subject to their respective budgetary availability.
+
+**ARTICLE 9**
+
+For the purposes of the implementation of this Framework Agreement, the Parties shall establish a Steering committee consisting of representatives of relevant ministries and/or state authorities mutually agreed by the assigned Ministries who meet periodically in Hungary and in Montenegro. The dates and agendas of their meetings shall be determined by mutual agreement in writing.
+
+**ARTICLE 10**
+
+This Framework Agreement may be amended by mutual consent of the Parties. The amendments shall enter into force in accordance with the procedures determined in Article 13 of this Framework Agreement.
+
+**ARTICLE 11**
+
+Differences and disputes that may arise from the interpretation and/or implementation of this Framework Agreement shall be settled by friendly negotiations through diplomatic channels.
+
+**ARTICLE 12**
+
+The provisions of this Agreement shall not be applied or interpreted so that they impair or otherwise affect the obligations of Hungary arising from its membership of the European Union. The Agreement cannot be interpreted or invoked in a way so as to rescind or otherwise affect the obligations arising from any agreements concluded between the European Union and Montenegro or between European Union and its Member States on the one side and Montenegro on the other side.
+
+**ARTICLE 13**
+
+This Framework Agreement shall enter into force thirty (30) days after the date of receipt of the last notification by which the Parties inform each other that all internal procedures necessary for its entry into force were fulfilled.
+
+This Framework Agreement shall be concluded for a period of five (5) years, with the possibility of its automatic renewal for a further five-(5)-year term, unless one of the Parties notifies the other Party, in writing or through diplomatic channels, about its intention not to renew the Agreement, at least three (3) months prior the date of expiry of the specified period.
+
+Unless otherwise agreed by the Parties, cancellation of this Framework Agreement shall not affect the implementation of programs, projects and activities already underway.
+
+Done in Washington D.C. on the 17 of July 2019, in two originals, in English language.
+
+for the Government\
+of Hungary
+
+for the Government\
+of Montenegro
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 13. Cikk első bekezdésében meghatározott időpontban lép hatályba. Az 54/2019. (XI. 19.) KKM közlemény alapján a hatálybalépés időpontja 2019. november 28.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 13. Cikk első bekezdésében meghatározott időpontban lép hatályba. Az 54/2019. (XI. 19.) KKM közlemény alapján a hatálybalépés időpontja 2019. november 28.
+[^3]: Az 54/2019. (XI. 19.) KKM közlemény alapján a hatálybalépés időpontja 2019. november 28.
+[^4]: Lásd az 54/2019. (XI. 19.) KKM közleményt.
+[^5]: Az 1. melléklet a 4. § (2) bekezdése alapján a Megállapodás 13. Cikk első bekezdésében meghatározott időpontban lép hatályba. Az 54/2019. (XI. 19.) KKM közlemény alapján a hatálybalépés időpontja 2019. november 28.
+[^6]: A 2. melléklet a 4. § (2) bekezdése alapján a Megállapodás 13. Cikk első bekezdésében meghatározott időpontban lép hatályba. Az 54/2019. (XI. 19.) KKM közlemény alapján a hatálybalépés időpontja 2019. november 28.

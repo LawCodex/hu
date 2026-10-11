@@ -1,0 +1,200 @@
+---
+title: "90/2018. (IV. 25.) Korm. rendelet a Szeged-Csanádi Egyházmegye beruházásaival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "90/2018. (IV. 25.) Korm. rendelet"
+njt_id: "2018-90-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/90"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-04-25
+in_force_from: 2018-04-26
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-90-20-22"
+retrieved: 2026-10-12
+---
+
+# 90/2018. (IV. 25.) Korm. rendelet a Szeged-Csanádi Egyházmegye beruházásaival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a) és d) pontjában kapott felhatalmazás alapján,
+
+a 3. § (1) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 3. § (2) bekezdése tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+a 6. § és a 8. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. és 22. pontjában kapott felhatalmazás alapján, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 21. és 22. pontjában meghatározott feladatkörében eljáró Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével,
+
+a 7. § és a 9. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1a) bekezdés a), b), c), d) és e) pontjában kapott felhatalmazás alapján, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1a) bekezdésében meghatározott feladatkörében eljáró Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Szeged-Csanádi Egyházmegye beruházásai keretében
+
+a)[^1] a Szeged, belterület 25865/3, 25866/6, 25866/7, 25867, 25868, 25910, 25886/31, 25886/32, 25886/33, 25886/34 és 25886/35 helyrajzi számú ingatlanokon katolikus általános iskola és gimnázium létesítésére,
+
+b) a Szeged, belterület 3852 helyrajzi számú ingatlanon a Szegedi Tudományegyetem Vántus István Gyakorló Zeneművészeti Szakközépiskola új épületben történő elhelyezésére,
+
+c) a Szeged, belterület 3737/3 helyrajzi számú ingatlanon a Szegedi Tudományegyetem Apáthy Kollégiuma helyén új épület építésére
+
+irányuló beruházásokkal (a továbbiakban együtt: Beruházások) kapcsolatos, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházásokhoz közvetlenül kapcsolódó közműcsatlakozási és -fejlesztési munkákra vonatkoznak.
+
+(3)[^2] Az (1) bekezdés szerinti ingatlanok tekintetében változtatási tilalom nem alkalmazható.
+
+## 2. §[^3]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 2/A. §[^4]
+
+(1) A Beruházások esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezetvédelmi, valamint a természetvédelmi eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) A Beruházások esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+## 3. §
+
+(1) A Kormány a Beruházásokkal összefüggő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésre a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(2) A Beruházásokkal összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+b) településképi bejelentési eljárásnak nincs helye.
+
+## 3/A. §[^5]
+
+(1) Az 1. § (1) bekezdés a) pontja szerinti ingatlanok esetében a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+
+a) a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b) ha a hatályos településrendezési terv és az OTÉK a beépítés és az egyedi építési követelmények (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni,
+
+c) a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 29. §-át nem kell alkalmazni.
+
+(2) A Beruházással érintett – az 1. § (1) bekezdés a) pontja szerinti – ingatlanokon elsősorban intézményi, rekreációs, kulturális, oktatás, művelődés, vendéglátás, egyéb közösségi és szállás funkciójú épület, továbbá szabadidő eltöltését szolgáló épület és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a beépítettség megengedett legnagyobb mértéke 40%,
+
+b) a zöldfelület megengedett legkisebb mértéke 30%,
+
+c) az építménymagasság megengedett legnagyobb mértéke 25 méter,
+
+d) a településrendezési tervben rögzített építménymagasság minimális határértékét nem kell alkalmazni,
+
+e) az építmények és önálló rendeltetési egységek rendeltetésszerű használatához gépjármű-, továbbá autóbuszparkoló- és várakozóhelyet, valamint kerékpártárolót nem kell biztosítani.
+
+(3) A Szeged, belterület 25865/3 helyrajzi számú ingatlan 2. melléklet szerint lehatárolt területén véderdőt, erdősített vagy fásított területet kell biztosítani.
+
+(4) A Szeged, belterület 25866/6 helyrajzi számú ingatlant egy telekként kell kezelni a (2) bekezdésben meghatározott sajátos beépítési szabályok és egyedi építési követelmények alkalmazása szempontjából.
+
+## 3/B. §[^6]
+
+(1) Az 1. melléklet szerinti hatósági ügyekben – a (2) bekezdésben foglaltak figyelembevételével – az 1. § (1) bekezdés a) pontja szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telekalakítás még nem történt meg.
+
+(2) Az 1. § (1) bekezdés a) pontja szerinti beruházás keretében megvalósuló építmények használatbavételi engedélye kiadásának feltétele a telekalakítás végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 6. §[^7]
+
+E rendeletnek a Szeged-Csanádi Egyházmegye beruházásaival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 90/2018. (IV. 25.) Korm. rendelet módosításáról szóló 505/2023. (XI. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (3) bekezdését, 2/A. §-át, 3/A. §-át, 3/B. §-át, 2. mellékletét, valamint módosított 1. § (1) bekezdését a Módr1. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 90/2018. (IV. 25.) Korm. rendelethez
+
+**A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. környezetvédelmi hatósági eljárások,
+
+2\. természetvédelmi hatósági eljárások,
+
+3\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+4\. területrendezési hatósági eljárások,
+
+5\. vízügyi és vízvédelmi hatósági eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7.[^11] iparbiztonsági hatósági eljárások,
+
+8\. rendészeti hatósági eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+11\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+12\. hírközlési hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. földmérési hatósági eljárások,
+
+16\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+17\. erdészeti hatósági eljárások,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. útügyi hatósági eljárások,
+
+20\. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+21\. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 90/2018. (IV. 25.) Korm. rendelethez[^12]
+
+**A Szeged, 25865/3 helyrajzi számú ingatlan területén biztosítandó véderdő, erdősített vagy fásított terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátái**
+
+| **Pontszám** | **Y** | **X** |
+|---|---|---|
+| 6420046 | 732174,24 | 101749,79 |
+| 6420045 | 732229,83 | 101831,35 |
+| 6420044 | 732286,27 | 101914,66 |
+| 6420043 | 732342,35 | 101996,84 |
+| 6420042 | 732399,04 | 102080,22 |
+| 6420041 | 732455,88 | 102163,36 |
+| 6420040 | 732512,22 | 102246,16 |
+| 2 | 732534,64 | 102279,06 |
+| 1 | 732539,18 | 102275,89 |
+| 6426015 | 732538,46 | 102274,84 |
+| 6426016 | 732492,37 | 102206,72 |
+| 6426019 | 732446,93 | 102139,75 |
+| 6426020 | 732426,67 | 102110,88 |
+| 6426047 | 732370,19 | 102027,85 |
+| 6426050 | 732344,43 | 101989,48 |
+| 6426049 | 732320,40 | 101953,39 |
+| 6426048 | 732295,04 | 101916,30 |
+| 6426051 | 732263,52 | 101870,63 |
+| 6426052 | 732195,60 | 101771,00 |
+| 6426053 | 732178,67 | 101746,82 |
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja az 505/2023. (XI. 16.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdését az 505/2023. (XI. 16.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § a 371/2020. (VII. 30.) Korm. rendelet 49. §-a, az 546/2022. (XII. 22.) Korm. rendelet 220. § a)-c) pontja szerint módosított szöveg.
+[^4]: A 2/A. §-t az 505/2023. (XI. 16.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 3/A. §-t az 505/2023. (XI. 16.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 3/B. §-t az 505/2023. (XI. 16.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 505/2023. (XI. 16.) Korm. rendelet 4. §-a iktatta be.
+[^11]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 295. §-a szerint módosított szöveg.
+[^12]: A 2. mellékletet az 505/2023. (XI. 16.) Korm. rendelet 5. §-a iktatta be.

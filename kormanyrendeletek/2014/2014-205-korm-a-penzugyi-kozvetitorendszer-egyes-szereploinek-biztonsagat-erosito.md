@@ -1,0 +1,85 @@
+---
+title: "205/2014. (VIII. 15.) Korm. rendelet a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független értékelőkre, valamint kiválasztásukra vonatkozó egyes szabályokról"
+identifier: "205/2014. (VIII. 15.) Korm. rendelet"
+njt_id: "2014-205-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/205"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-08-15
+in_force_from: 2014-08-18
+last_amended: 2014-08-18
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-205-20-22"
+retrieved: 2026-10-12
+---
+
+# 205/2014. (VIII. 15.) Korm. rendelet a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független értékelőkre, valamint kiválasztásukra vonatkozó egyes szabályokról
+
+A Kormány a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 145. § (1) bekezdés *d)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) 22. § (4) bekezdése szerinti nyilvános pályázati felhívást a szanálási feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) a honlapján hirdeti meg.
+
+(2) Az MNB a pályázati felhívásban sem az ajánlattevők körét, sem a keretszámát nem határozza meg.
+
+(3) Az MNB a pályázatra történő jelentkezésre legalább – a pályázat közzétételétől számított – harminc napot biztosít.
+
+(4) A pályázó a pályázati kérelmet a pályázati kiírásban feltüntetett határidőben, az abban feltüntetett, de legalább az 1. melléklet szerinti tartalommal és mellékletekkel, a kiírásban előírt módon és formában juttatja el az MNB részére.
+
+(5) Ha a pályázó a pályázat elbírálását lényegesen befolyásoló valótlan adatot szolgáltat, valótlan tartalmú dokumentumokat nyújt be, a pályázatból ki kell zárni.
+
+## 2. §
+
+(1) A pályázatokat bíráló bizottság (a továbbiakban: bizottság) legalább egy-egy tagját az MNB a hitelintézetek és a befektetési vállalkozások szakmai érdekképviselete által jelölt személyek közül kéri fel. Ha a hitelintézetek vagy a befektetési vállalkozások szakmai érdekképviselete a jelölésre történt felkérést követő tizenöt napon belül nem jelöl tagot a bizottságba, úgy a hely betöltésére az MNB jogosult.
+
+(2) A bizottság tagjai maguk közül elnököt választanak. A bizottsági tagságból adódó feladatok kizárólag személyesen láthatóak el. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) A pályázati feltételeknek való megfelelés vizsgálata érdekében a bizottság meghallgathatja a pályázókat, továbbá okiratok beszerzésére, bemutatására, valamint a pályázattal összefüggő tények tekintetében nyilatkozattételre is felhívhatja a pályázókat.
+
+(4) A bizottság a pályázat benyújtására nyitva álló határidő lejártát követő tizenöt napon belül dönt a (3) bekezdésben foglaltak alkalmazásáról.
+
+(5) Ha a bizottság nem tartja szükségesnek a (3) bekezdésben foglaltak alkalmazását, egyidejűleg dönt a pályázat elbírálásáról.
+
+(6) Ha a bizottság személyes meghallgatást is szükségesnek tart, azt az erről való döntést követő harminc napon belülre tűzi ki azzal, hogy arról legalább a meghallgatás időpontját megelőző 5 nappal korábban a pályázónak tudomást kell szereznie. A (3) bekezdésben felsorolt további cselekmények alkalmazása esetén azok megtételére a bizottság a pályázónak legalább tizenöt, de legfeljebb harminc napos határidőt biztosít.
+
+(7) A (3) bekezdésben foglaltak alkalmazásakor a bizottság a személyes meghallgatástól vagy a további cselekmények megtételétől számított tizenöt napon belül dönt a pályázat elbírálásáról.
+
+(8) A bizottság a döntéseit szótöbbséggel hozza, és azokat – indokolásával együtt – jegyzőkönyvbe foglalja. A jegyzőkönyvben feltünteti a tagok véleményét.
+
+(9) A bizottság a döntés meghozatalát követő nyolc napon belül döntéséről értesíti a pályázót, valamint a döntés meghozatalát követő tizenöt napon belül intézkedik az eredményes pályázóknak a független értékelők névjegyzékébe történő felvételéről.
+
+## 3. §
+
+Az MNB hatósági ellenőrzés keretében is vizsgálhatja, hogy a független értékelők névjegyzékébe felvett pályázó eleget tett-e a pályázatban vállalt adatszolgáltatási kötelezettségének.
+
+## 4. §
+
+(1) A független értékelő adott feladatra történő kiválasztásakor az MNB figyelembe veszi, hogy a független értékelő rendelkezik-e
+
+a) az érintett intézmény típusra vonatkozó fizetésképtelenségi eljárásban, szanálási eljárásban szerzett tapasztalattal (ideértve azt is, ha a Szantv. szerinti vagyonértékelést végzett vagy abban közreműködött, de szanálásra azt követően nem került sor),
+
+b) az adott értékelési feladat ellátásához szükséges mennyiségű és minőségű szakemberrel és egyéb erőforrásokkal, figyelemmel az adott értékelés természetére, terjedelmére és összetettségére, valamint időigényére.
+
+(2) Az MNB a feladatra történt kiválasztást megelőzően ellenőrizheti a független értékelő Szantv. 22. § (9) bekezdése szerinti nyilatkozatában foglaltakat.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+## 1. melléklet a 205/2014. (VIII. 15.) Korm. rendelethez
+
+A pályázati kérelemnek legalább tartalmaznia kell:
+
+1\. a Szantv. 22. § (2) bekezdésében meghatározott mindazon adatot, amelyet a független értékelők névjegyzékében fel kell tüntetni, valamint az ezeket igazoló dokumentumok közjegyző által hitelesített másolatát;
+
+2\. a pályázó, illetve jogi személy pályázó esetén a pályázónak a Szantv. 22. § (7) bekezdése szerinti követelményeknek megfelelő személy iskolai végzettségét, szakképesítését, szakképzettségét igazoló okiratok közjegyző által hitelesített másolatait, továbbá hatósági bizonyítványa eredeti példányát, amely igazolja a büntetlen előéletet;
+
+3\. jogi személy pályázó esetében nyilatkozatot vagy igazolást arról, hogy a 2. pont szerinti személyt milyen jogviszonyban foglalkoztatja;
+
+4\. három hónapnál nem régebbi igazolást arról, hogy a pályázónak nincs köztartozása Magyarországon és azokban az államokban, ahol székhelye vagy fióktelepe van;
+
+5\. a pályázatban szerepeltetett személyek nyilatkozatát a jogszabályi feltételeknek való megfelelés érdekében történő adatkezeléshez való hozzájárulásról és a feltételek ellenőrzésének tűréséről;
+
+6\. a pályázó nyilatkozatát arról, hogy az 1–4. pont szerinti adatokban bekövetkezett változást 15 napon belül bejelenti az MNB-nek.

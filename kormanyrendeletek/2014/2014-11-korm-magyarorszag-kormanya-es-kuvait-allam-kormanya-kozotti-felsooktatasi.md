@@ -1,0 +1,231 @@
+---
+title: "11/2014. (I. 22.) Korm. rendelet Magyarország Kormánya és Kuvait Állam Kormánya közötti felsőoktatási és tudományos együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "11/2014. (I. 22.) Korm. rendelet"
+njt_id: "2014-11-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/11"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-01-22
+in_force_from: 2014-01-23
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-11-20-22"
+retrieved: 2026-10-12
+---
+
+# 11/2014. (I. 22.) Korm. rendelet Magyarország Kormánya és Kuvait Állam Kormánya közötti felsőoktatási és tudományos együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Kuvait Állam Kormánya közötti felsőoktatási és tudományos együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+„**Magyarország Kormánya és Kuvait Állam Kormánya közötti felsőoktatási és tudományos együttműködésről szóló egyezmény**
+
+Magyarország Kormánya képviseletében az Emberi Erőforrások Minisztériuma és Kuvait Állam Kormánya képviseletében a Felsőoktatási Minisztérium (a továbbiakban: a Szerződő Felek) attól a szándéktól vezérelve, hogy megerősítsék kétoldalú kapcsolataikat és együttműködésüket az oktatás és tudományos kutatás területén, a következőkben állapodtak meg:
+
+**1. cikk**
+
+A Szerződő Felek évente tanulmányi ösztöndíjakat bocsátanak egymás rendelkezésére, mind szakmai, mind felsőoktatási képzési területeken. Az ösztöndíjak pontos száma és a szakterületek további egyeztetés tárgyát képezik a Szerződő Felek között.
+
+**2. cikk**
+
+A Szerződő Felek ösztönzik az együttműködést az oktatás és kutatás területén az egyetemek, főiskolák, felsőoktatási intézmények és kutatóközpontok között, mindkét államban.
+
+**3. cikk**
+
+A Szerződő Felek felsőoktatással és tudományos kutatással kapcsolatos tapasztalatokat, folyóiratokat és egyéb publikációkat bocsátanak egymás rendelkezésére.
+
+**4. cikk**
+
+A Szerződő Felek, abból a célból, hogy erősítsék a kétoldalú együttműködést a közös érdeklődésre számot tartó területeken, ösztönzik a felsőoktatási tisztviselők, oktatói személyzet, kutatók kölcsönös látogatásait. Továbbá szorgalmazzák a tudományos és oktatási delegációk kölcsönös cseréjét.
+
+**5. cikk**
+
+A Szerződő Felek oktatási programokat és a felsőoktatási rendszer, intézmények, és az alkalmazott tudományi és műszaki főiskolák esetleges változásaival kapcsolatos információkat bocsátanak egymás rendelkezésére, valamint közös szakmai műhelyeket hoznak létre.
+
+**6. cikk**
+
+A Szerződő Felek tájékoztatják egymást az általuk kiadott diplomák és bizonyítványok egyenértékűségéről.
+
+**7. cikk**
+
+A Szerződő Felek információt és adatokat szolgáltatnak egymás részére a két ország oktatási intézményeinek elismerésével és akkreditációjával kapcsolatban.
+
+**8. cikk**
+
+A Szerződő Felek ösztönzik a közvetlen kommunikációt a két ország felsőoktatási intézményei és tudományos kutatóintézetei között.
+
+**9. cikk**
+
+A Szerződő Felek ösztönzik a tudományos találkozókon, konferenciákon, vitákon, oktatási és tudományos műhelyekben való részvételt mind helyi, mind nemzetközi szinten.
+
+**10. cikk**
+
+A Szerződő Felek felsőoktatási intézményi hallgatói delegációkat küldenek egymáshoz a mindkét országban zajló oktatási, kulturális és sportrendezvényeken való részvétel céljából.
+
+**11. cikk**
+
+A Szerződő Felek javasolják, hogy a jelen Egyezmény alapján érkező delegációk angol nyelvtudással rendelkezzenek.
+
+**12. cikk**
+
+A Vegyes bizottság – a két szerződő Felet képviselve – 3 évente egyszer felváltva és rendszeresen ülésezik vagy az egyik vagy a másik Fél kérésére vagy Kuvaitban vagy Magyarországon.
+
+A következő feladatkör tekintetében:
+
+– az Egyezményből fakadó félreértelmezések rendezése,
+
+– az Egyezmény keretén belül fakadó végrehajtási programok aláírása,
+
+– az Egyezményben történő lehetséges változtatások átvezetéséről szóló megbeszélés.
+
+**13. cikk**
+
+A jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen a jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**14. cikk**
+
+Az Egyezmény végrehajtásával vagy a szöveg értelmezésével kapcsolatban felmerülő vitákat tárgyalások és konzultációk útján kell rendezni harmadik Fél vagy nemzetközi bírói fórum bevonása nélkül.
+
+**15. cikk**
+
+(1) A jelen Egyezmény azon utolsó írásbeli jegyzék kézhezvétele utáni 30. napon lép hatályba, amelyben a Szerződő Felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek.
+
+(2) Ezen Egyezmény módosítható a Szerződő Felek kölcsönös, írásos jegyzőkönyvei útján, mely módosítások az Egyezmény szerves részét képezik. A módosítás az (1) bekezdés szabályai szerint lép hatályba.
+
+(3) Jelen Egyezmény öt évig marad hatályban és ugyanilyen időszakokra meghosszabbítható, kivéve, ha a Szerződő Felek valamelyike az Egyezmény lejárta előtt hat hónappal írásban jelzi a Megállapodás felmondásának szándékát.
+
+Készült Kuvaitvárosban, 2013. december hónap 2. napján, két eredeti példányban, magyar, arab és angol nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország Kormánya nevében\
+Csillag Ferenc\
+Rendkívüli és Meghatalmazott\
+Nagykövet
+
+Kuvait Állam Kormánya nevében\
+Rashid Al-Nuwahedh\
+Államtitkár\
+Felsőoktatási Minisztérium
+
+**Agreement of Cooperation between the Government of The State of Kuwait and The Government of Hungary in the field of Higher Education and Scientific Research**
+
+The Government of Hungary (represented by the Ministry of Human Resources) and the Government of The State of Kuwait (represented by The Ministry of Higher Education), hereinafter referred to as ”Contracting Parties”,
+
+Desiring to strengthen ties and bilateral relations and cooperation in the fields of education and scientific research,
+
+Have agreed to the following:
+
+**Article (1):**
+
+Both Contracting Parties shall annually exchange Academic scholarships, in both technical and professional education. Numbers and fields of studies are mutually agreed according to formal correspondences.
+
+**Article (2):**
+
+Both Contracting Parties shall encourage cooperation in the fields of education, and research between the university, higher education institutions, and research centres in both countries.
+
+**Article (3):**
+
+Both Contracting Parties shall exchange experience, printed matters, periodicals, and publication related to higher education, and scientific research.
+
+**Article (4):**
+
+Both Contracting Parties shall encourage visiting exchange of higher education officials, academic staff and researchers to strengthen bilateral cooperation in all fields of mutual interest.
+
+Scientific and educational delegations shall also be encouraged.
+
+**Article (5):**
+
+Both Contracting Parties shall exchange educational plans and any updates may occur on higher education system, institutions, applied and technical colleges, and establishing joint workshops.
+
+**Article (6):**
+
+Both Contracting Parties shall exchange information of equivalency and degrees awarded by them.
+
+**Article (7):**
+
+Both Contracting Parties shall exchange data and information regarding recognition and accreditation of educational institutions in both countries.
+
+**Article (8):**
+
+Contracting Parties shall develop direct communications between higher education institutions and scientific research institutions in both countries.
+
+**Article (9):**
+
+Contracting Parties shall encourage participation in academic meetings, conferences, debates, educational and scientific workshops both local and international.
+
+**Article (10):**
+
+Both Contracting Parties shall exchange university students' delegations to participate in education, cultural, and sport activities that take place in both countries.
+
+**Article (11):**
+
+Both Contracting Parties suggest that delegations of the present agreement should speak English.
+
+**Article (12):**
+
+A joint commission – representing the two Contracting Parties – shall be hold alternately and periodically meeting in Hungary or the State of Kuwait, once in every three years or at the request of one of the two Contracting Parties. The following responsibilities are:
+
+1- Reach settlement of misinterpretation that might result from the application of this Agreement.
+
+2- Signing executive programs within the frame of this Agreement.
+
+3- Taking discussion of the entries of possible modification on this Agreement.
+
+**Article (13):**
+
+Commitments originating from the membership of Hungary in the European Union are not affected by the present Agreement. As a consequence of this, provisions of the present Agreement shall not be interpreted in a way that it would annul, amend or have any other effect on the commitments of Hungary originating especially from the treaties forming the basis of the European Union, as well as those commitments originating from the primary and secondary legislation of the European Union.
+
+**Article (14):**
+
+Any dispute arising between the Contracting Parties in relation to the interpretation or implementation of the Agreement shall be settled by negotiations and consultations between the Contracting Parties without reference to any third Party or an international tribunal.
+
+**Article (15):**
+
+(1) This Agreement shall enter into force on the thirtieth (30<sup>th</sup>) day after the date of receipt of the last written notification by which the Contracting Parties notify each other, through diplomatic channels of the completion of their internal legal procedures required for the entry into force of this Agreement have been fulfilled.
+
+(2) The Agreement may be amended only by mutual written consent of the Contracting Parties. Any amendment shall be made in the form of a protocol constituting an integral part of the Agreement. The amendment shall enter into force in accordance with the provisions of paragraph (1).
+
+(3) This Agreement shall remain in force for a period of five years and may be renewed for periods of equal length unless one of the Contracting Parties declares its intention to terminate the Agreement by a written declaration six months prior the expiry of the Agreement.
+
+Done at Kuwait City on the 2<sup>nd</sup> of December 2013, in two originals, each in Hungarian, Arabic, and English languages, all texts being equally authentic. In the event of any divergence in interpretation, the English text shall prevail.
+
+For\
+The Government of\
+Hungary\
+H. E. Ferenc Csillag\
+Ambassador of Hungary\
+to the State of Kuwait
+
+For\
+The Government of\
+The State of Kuwait\
+Rashid Al-Nuwahedh\
+Undersecretary of the Ministry of\
+Higher Education”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény 15. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 15. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 40/2015. (XII. 17.) KKM közlemény alapján a hatálybalépés időpontja 2015. december 25.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 15. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 40/2015. (XII. 17.) KKM közlemény alapján a hatálybalépés időpontja 2015. december 25.
+[^3]: A 40/2015. (XII. 17.) KKM közlemény alapján a hatálybalépés időpontja 2015. december 25.
+[^4]: Lásd a 40/2015. (XII. 17.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 140. §-a szerint módosított szöveg.

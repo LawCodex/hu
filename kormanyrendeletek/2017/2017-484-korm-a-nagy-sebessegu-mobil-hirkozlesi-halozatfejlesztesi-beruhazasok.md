@@ -1,0 +1,138 @@
+---
+title: "484/2017. (XII. 28.) Korm. rendelet a nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "484/2017. (XII. 28.) Korm. rendelet"
+njt_id: "2017-484-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/484"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-28
+in_force_from: 2018-01-05
+last_amended: 2026-10-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-484-20-22"
+retrieved: 2026-10-12
+---
+
+# 484/2017. (XII. 28.) Korm. rendelet a nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és f) pontjában;
+
+a 3. § (2) bekezdés a) és b) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában;
+
+a 3. § (2) bekezdés c) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában;
+
+a 3. § (2) bekezdés d) pontja tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés b) és h) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a 2014–2029 közötti időszakra a Nemzeti Média- és Hírközlési Hatóság által kiírt „Szélessávú szolgáltatásokhoz kapcsolódó frekvenciahasználati jogosultságok” tárgyú pályázat alapján létrejött hatósági szerződésekben vállalt mobil hírközlési hálózatfejlesztési kötelezettségeket teljesítő, vagy a hálózat bővítéséhez, fejlesztéséhez szükséges nagy sebességű negyedik vagy ötödik generációs mobil hírközlési hálózatfejlesztési projektek beruházásaival összefüggő – az ilyen hálózatok megvalósításához, használatbavételéhez, valamint üzembe helyezéséhez közvetlenül szükséges – az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+## 1/A. §[^1]
+
+A Kormány kiemelt jelentőségű üggyé nyilvánítja a Digitális Megújulás Operatív Program Plusz Irányító Hatósága által kiírt
+
+a) „DIMOP Plusz 3.1.2-25 Gigabit Magyarország Program” tárgyú pályázat alapján létrejött támogatási szerződésekben vállalt gigabitképes vezetékes hálózatok fejlesztését, valamint a mobil szélessávú hálózatok kapacitásának bővítését szolgáló projektek;
+
+b) „DIMOP Plusz-3.1.1-23 Gigabitképes hírközlési hálózat fejlesztést támogató al- és felépítmény-nyilvántartás” tárgyú pályázat keretében kötött önerős együttműködési megállapodásban vállalt fejlesztéseket szolgáló projektek
+
+beruházásaival összefüggő – az ilyen hálózatok megvalósításához, használatbavételéhez, valamint üzembe helyezéséhez közvetlenül szükséges –, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+## 2. §[^2]
+
+A Kormány az 1. § és az 1/A. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+(1)[^3] Az 1. § és az 1/A. § szerinti közigazgatási hatósági ügyekben – ha jogszabály rövidebbet nem állapít meg, valamint a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével – a szakhatóság eljárására az ügyintézési határidő 8 nap.
+
+(2)[^4] Az 1. § és az 1/A. § szerinti beruházásokkal összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni,
+
+b) településképi bejelentési eljárásnak nincs helye,
+
+c) településrendezési és építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+d) előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet végezni, ha a beruházó rendelkezésére állnak a próbafeltárás elvégzéséhez szükséges földrészletek. A földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 6. §[^5]
+
+E rendeletnek a nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 484/2017. (XII. 28.) Korm. rendelet módosításáról szóló 327/2025. (X. 27.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át, valamint módosított 2. §-át, 3. § (1) és (2) bekezdését, valamint 1. mellékletét a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 484/2017. (XII. 28.) Korm. rendelethez
+
+**Az 1. § és az 1/A. § szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek[^6]**
+
+1\. az elektronikus hírközlési építmények elhelyezésével és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárások,
+
+2\. elektronikus hírközlési tevékenységgel kapcsolatos hatósági eljárások,
+
+3\. villamos művek, villamos berendezéssel, valamint villamosvezetékkel kapcsolatos engedélyezésre irányuló hatósági eljárások,
+
+4\. környezetvédelmi hatósági eljárások,
+
+5\. természetvédelmi hatósági eljárások,
+
+6\. általános építésügyi hatósági eljárások,
+
+7\. telekalakításra irányuló hatósági eljárások,
+
+8\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+9\. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+10\. erdészeti hatósági engedélyezésre irányuló eljárások,
+
+11\. területrendezési hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. közúti, vasúti, vízi, vagy légiközlekedést érintő közlekedésügyi hatósági eljárások,
+
+14\. mérésügyi és műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+15\. közműkezeléssel kapcsolatos hatósági eljárások,
+
+16\. a régészeti örökség és a műemléki érték védelmére irányuló hatósági eljárások,
+
+17\. földmérési hatósági eljárások,
+
+18\. erdővédelmi hatósági eljárások,
+
+19\. a bányakapitányságok hatáskörébe tartozó hatósági eljárások,
+
+20\. tűzvédelmi hatósági eljárások,
+
+21\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+22\. közegészségügyi hatósági eljárások,
+
+23\. az államhatár rendjének biztosításával kapcsolatos hatósági eljárások,
+
+24\. az építési, illetve a bontási hulladékok kezelésére és hulladékgazdálkodási előírásokra vonatkozó megfelelőségre irányuló eljárások,
+
+25\. a honvédelmi vagy katonai célú létesítmény működési vagy védőterületén építmény vagy egyéb műtárgy elhelyezésével kapcsolatos eljárások,
+
+26\. azok az 1–25. pontban nem szereplő hatósági eljárások, amelyek az 1. § szerinti beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez szükségesek,
+
+27\. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések felülvizsgálatára, módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1/A. §-t a 327/2025. (X. 27.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 224/2026. (X. 1.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. § a 371/2020. (VII. 30.) Korm. rendelet 48. §-a, az 546/2022. (XII. 22.) Korm. rendelet 204. § a)-c) pontja, a 327/2025. (X. 27.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 327/2025. (X. 27.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés nyitó szövegrésze a 327/2025. (X. 27.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^5]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 327/2025. (X. 27.) Korm. rendelet 3. §-a iktatta be.
+[^6]: Az 1. melléklet címe a 327/2025. (X. 27.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.

@@ -1,0 +1,256 @@
+---
+title: "227/2013. (VI. 24.) Korm. rendelet a Magyarország Kormánya és a Litván Köztársaság Kormánya közötti, a Báthory István Magyar–Litván Együttműködési Alapról szóló megállapodás kihirdetéséről"
+identifier: "227/2013. (VI. 24.) Korm. rendelet"
+njt_id: "2013-227-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/227"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-24
+in_force_from: 2013-06-25
+last_amended: 2013-10-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-227-20-22"
+retrieved: 2026-10-12
+---
+
+# 227/2013. (VI. 24.) Korm. rendelet a Magyarország Kormánya és a Litván Köztársaság Kormánya közötti, a Báthory István Magyar–Litván Együttműködési Alapról szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Litván Köztársaság Kormánya közötti, a Báthory István Magyar–Litván Együttműködési Alapról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+„MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A LITVÁN KÖZTÁRSASÁG KORMÁNYA KÖZÖTT\
+A BÁTHORY ISTVÁN MAGYAR–LITVÁN EGYÜTTMŰKÖDÉSI ALAPRÓL
+
+Magyarország Kormánya és a Litván Köztársaság Kormánya, a továbbiakban: „Szerződő Felek”,
+
+támaszkodva a Szerződő Felek közötti kapcsolatok történelmi fejlődésére,
+
+figyelembe véve a fiatal generációk nemzetközi kapcsolatok építésében játszott különleges szerepét,
+
+arra törekedve, hogy az ifjúsági együttműködést segítő erősebb szervezeti és jogi keretet hozzanak létre,
+
+az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+A Szerződő Felek létrehozzák a Báthory István Magyar–Litván Ifjúsági Együttműködési Alapot (a továbbiakban: „Alap”).
+
+**2. cikk**
+
+1\. Az Alap célja a magyar és litván, 13 és 30 év közötti fiatalok közötti baráti együttműködés támogatása.
+
+2\. Az Alap céljait az alábbi tevékenységek támogatásával és finanszírozásával látja el:
+
+*a)* a fiatal nemzedékek közötti kapcsolatok kialakítását és baráti viszony építését célzó ifjúsági együttműködési programok,
+
+*b)* a magyar és litván fiatalok közötti kulturális együttműködést, illetve a toleranciát és egymás jobb megismerését elősegítő információs programok,
+
+*c)* a demokráciához, a demokratikus elvek alkalmazásához és az állampolgári neveléshez kapcsolódó programok és kezdeményezések jobb megismerését előmozdító ifjúsági és módszertani találkozók.
+
+**3. cikk**
+
+1\. Az Alap tevékenységének pénzügyi eszközei az alábbiak szerint kerülnek biztosításra:
+
+*a)* Magyarországon Magyarország Kormányától;
+
+*b)* a Litván Köztársaságban a Szociális Biztonsági és Munkaügyi Minisztérium általános keretéből, a Litván Köztársasági állami költségvetéséből.
+
+2\. A Szerződő Felek évente, diplomáciai jegyzékváltás útján megállapodnak az Alapnak juttatott pénzügyi eszközök mértékéről.
+
+**4. cikk**
+
+1\. Az Alapnak juttatott, a 3. cikk 1. bekezdés szerinti pénzügyi eszközök két külön bankszámlán kerülnek kezelésre a két országban, és a 6. cikkben említett kezelő szervek irányítása alatt állnak.
+
+2\. Az Alaphoz benyújtott pályázatok a két Szerződő Fél megfelelő kezelő szervének kerülnek benyújtásra, és az illetékes szerződő fél által biztosított forrásokból kerülnek finanszírozásra.
+
+**5. cikk**
+
+1\. A Szerződő Felek felállítják az Alap Kuratóriumát (a továbbiakban: Kuratórium).
+
+2\. A Kuratóriumnak országonként négy tagja van, az alábbi szervek képviseletében:
+
+*a)* Magyarországon: az Emberi Erőforrások Minisztériuma, a Külügyminisztérium, a Miniszterelnökség és a Litván Köztársaság Nagykövetsége Magyarországon.
+
+*b)* a Litván Köztársaságban: a Szociális Biztonsági és Munkaügyi Minisztérium, a Külügyminisztérium, a Miniszterelnöki Hivatal és Magyarország Nagykövetsége a Litván Köztársaságban.
+
+3\. A Kuratórium munkáját két Társelnök irányítja, akik a Kuratórium alábbi szerveket képviselő tagjai:
+
+*a)* Magyarországon az Emberi Erőforrások Minisztériuma,
+
+*b)* a Litván Köztársaságban a Szociális Biztonsági és Munkaügyi Minisztérium.
+
+4\. A két Társelnök a Kuratórium munkáját egy-egy évig irányítja.
+
+5\. Ha a Kuratórium valamely tagját visszahívják vagy lemond pozíciójáról, az őt delegáló szerv új képviselőt nevez ki a Kuratóriumba.
+
+6\. A Kuratórium a 2. cikk 2. bekezdés szerinti projektekre a pénzügyi eszközöket a 6. cikk 2. bekezdés szerinti kezelő szerv által benyújtott javaslatok alapján ítéli meg.
+
+7\. A Kuratórium évente legalább egyszer összeül, felváltva a két országban. A kuratóriumi ülésekhez szükséges támogatást az adott országban működő kezelő szerv nyújtja.
+
+8\. A Kuratórium döntéseit konszenzus útján hozza.
+
+**6. cikk**
+
+1\. A Kuratórium adminisztratív és szervezési feladatait a nemzeti kezelő szervek végzik.
+
+2\. A kezelő szervek feladatait az alábbi szervek látják el:
+
+*a)* Magyarországon az Emberi Erőforrások Minisztériuma,
+
+*b)* a Litván Köztársaságban a Szociális Biztonsági és Munkaügyi Minisztérium.
+
+3\. A pénzügyi eszközök a 2. cikk 2. bekezdés szerinti projektek számára történő megítélésének szabályai, valamint a Kuratórium és a kezelő szervek működési eljárásai egy külön dokumentumban kerülnek meghatározásra, melyet Magyarország Emberi Erőforrások Minisztériuma és a Litván Köztársaság Szociális Biztonsági és Munkaügyi Minisztériuma ír alá.
+
+**7. cikk**
+
+A jelen Megállapodás értelmezése és alkalmazása során felmerülő esetleges nézeteltérések kétoldalú tárgyalások útján kerülnek rendezésre.
+
+**8. cikk**
+
+1\. Jelen Megállapodás a Szerződő Felek belső jogi követelményei szerint jóváhagyásra kell kerüljön, melynek megtörténtéről a Szerződő Felek jegyzékben értesítik egymást.
+
+2\. A Megállapodás a későbbi keltezésű jegyzék kézhezvételétől számított harmincadik napon lép hatályba.
+
+**9. cikk**
+
+Jelen Megállapodás határozatlan időre köttetik. A Megállapodást bármely Szerződő Fél felmondhatja egy erre vonatkozó jegyzék átadása útján. A Megállapodás a felmondó jegyzék keltétől számított tizenkét hónap múlva veszti hatályát. A Megállapodás felmondása esetén a már folyamatban lévő projekteket be kell fejezni.
+
+Kelt: Vilniusban, 2012. szeptember 24-én, két példányban, magyar, litván és angol nyelven, mindhárom szöveg egyaránt hiteles. A Megállapodás értelmezésében felmerülő eltérések esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország nevében
+
+A Litván Köztársaság nevében
+
+AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC\
+OF LITHUANIA ON THE STEPHEN BÁTHORY FUND FOR COOPERATION OF HUNGARIAN AND LITHUANIAN YOUTH
+
+The Government of Hungary and the Government of the Republic of Lithuania,
+
+hereinafter referred to as 'the Contracting Parties',
+
+relying on the historical development of the relations between the Contracting Parties;
+
+with regard to the special role the young generation plays in building international relations;
+
+aspiring to build a stronger organisational and legal framework for support to youth cooperation,
+
+have agreed as follows:
+
+**Article 1**
+
+The Contracting Parties shall establish the Stephen Báthory Fund for Cooperation between Hungarian and Lithuanian Youth (hereinafter referred to as 'the Fund').
+
+**Article 2**
+
+1\. The objective of the Fund shall be to promote friendly cooperation between the Hungarian and Lithuanian youth, aged from 13 to 30.
+
+2\. The Fund shall implement its objectives by supporting and financing:
+
+*a)* youth cooperation projects aiming to establish contacts and friendly relations between the young generations;
+
+*b)* informational project aimed at cultural cooperation between the Hungarian and Lithuanian youth as well tolerance and better understanding and knowledge of each other;
+
+*c)* youth/methodology meetings promoting better knowledge of programmes and initiatives dealing with education related to democracy, the application of democratic principles and civic education.
+
+**Article 3**
+
+1\. Financial resources for the activities of the Fund shall be allocated as follows:
+
+*a)* in Hungary – from the Government of Hungary;
+
+*b)* in the Republic of Lithuania – from the general appropriations for the Ministry of Social Security and Labour in the State Budget of the Republic of Lithuania.
+
+2\. The Contracting Parties shall agree about the amount of financial resources allocated to the Fund by means of an exchange of diplomatic notes each year.
+
+**Article 4**
+
+1\. Financial resources allocated to the Fund as referred to in Article 3 1. shall be handled on two separate bank accounts in two countries respectively, and operated by the administrative authorities referred to in Article 6.
+
+2\. Applications to the Fund shall be directed to respective administrative authority of each Contracting Party and shall be funded from the resources allocated by the respective Contracting Party.
+
+**Article 5**
+
+1\. The Contracting Parties shall form a Fund Committee (hereinafter referred to as 'the Committee').
+
+2\. The Committee shall consist of four members per country, representing the following bodies:
+
+*a)* in Hungary: the Ministry of Human Resources, the Ministry of Foreign Affairs, the Prime Minister's Office, and the Embassy of the Republic of Lithuania to Hungary.
+
+*b)* in the Republic of Lithuania: the Ministry of Social Security and Labour, the Ministry of Foreign Affairs, the Prime Minister's Office, and the Embassy of Hungary to the Republic of Lithuania.
+
+3\. The Committee work shall be presided over by two chairpersons who shall be the Committee members representing:
+
+*a)* in Hungary: the Ministry of Human Resources,
+
+*b)* in the Republic of Lithuania: the Ministry of Social Security and Labour.
+
+4\. Each Chairperson shall preside over the Committee for one year.
+
+5\. If a Committee member is recalled or resigns from his position, the body delegating him/her shall appoint a new representative to the Committee.
+
+6\. The Committee shall allocate financial resources for the projects specified in Article 2 2. based on the proposals submitted by the administrative authorities, as specified in Article 6 2.
+
+7\. The Committee shall convene at least once a year alternately in the two countries. The assistance required by Committee meetings shall be provided by the relevant national administrative authority.
+
+8\. The Committee shall take its decisions by consensus.
+
+**Article 6**
+
+1\. The administrative and organisational work of the Committee shall be performed by national administrative authorities.
+
+2\. The tasks of the administrative authorities shall be assigned to:
+
+*a)* in Hungary – to the Ministry of Human Resources;
+
+*b)* in the Republic of Lithuania – to the Ministry of Social Security and Labour.
+
+3\. The rules on the allocation of financial resources for the projects referred to in Article 2 2. and on the distribution of these resources as well as the detailed working procedure of the Committee and the administrative authorities, shall be laid down in a separate document signed by the Ministry of Human Resources of Hungary and the Ministry of Social Security and Labour of the Republic of Lithuania.
+
+**Article 7**
+
+Possible disagreements over the interpretation or application of the Agreement shall be resolved by mutual consultations.
+
+**Article 8**
+
+1\. This Agreement shall be approved in accordance with the requirements under the domestic law of each of the Contracting Parties and the Contracting Parties shall notify each other of such approval by a note.
+
+2\. This Agreement shall enter into force on the thirtieth the day following the receipt of the later note.
+
+**Article 9**
+
+The Agreement shall be concluded for an unlimited period. It may be terminated by either of the Contracting Parties by way of sending the other Party a note to that effect. The Agreement shall cease to be in force twelve months after the day of the notification of termination. When the Agreement is terminated, the projects already launched must be completed.
+
+Signed on 24/09/2012, Vilnius in two copies in the Hungarian, Lithuanian and English languages, all texts being equally authentic. In case of any divergence in the interpretation of this Agreement, the English text shall prevail.
+
+FOR THE GOVERNMENT OF\
+HUNGARY
+
+FOR THE GOVERNMENT OF\
+THE REPUBLIC OF LITHUANIA”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 8. cikk 2. bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gyermek- és ifjúságpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikk 2. bekezdésében meghatározott időpontban lép hatályba. A 43/2013. (X. 18.) KüM közlemény alapján a hatálybalépés időpontja 2013. október 3.
+[^2]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikk 2. bekezdésében meghatározott időpontban lép hatályba. A 43/2013. (X. 18.) KüM közlemény alapján a hatálybalépés időpontja 2013. október 3.
+[^3]: A 43/2013. (X. 18.) KüM közlemény alapján a hatálybalépés időpontja 2013. október 3.
+[^4]: Lásd a 43/2013. (X. 18.) KüM közleményt.

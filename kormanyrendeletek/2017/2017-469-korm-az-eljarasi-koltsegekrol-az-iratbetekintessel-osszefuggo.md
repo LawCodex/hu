@@ -1,0 +1,205 @@
+---
+title: "469/2017. (XII. 28.) Korm. rendelet az eljárási költségekről, az iratbetekintéssel összefüggő költségtérítésről, a költségek megfizetéséről, valamint a költségmentességről"
+identifier: "469/2017. (XII. 28.) Korm. rendelet"
+njt_id: "2017-469-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/469"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-28
+in_force_from: 2018-01-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-469-20-22"
+retrieved: 2026-10-12
+---
+
+# 469/2017. (XII. 28.) Korm. rendelet az eljárási költségekről, az iratbetekintéssel összefüggő költségtérítésről, a költségek megfizetéséről, valamint a költségmentességről
+
+A Kormány
+
+az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § a) pontjában kapott felhatalmazás alapján,
+
+a 13. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az eljárási költség
+
+### 1. §
+
+(1) A közigazgatási hatósági eljárásban eljárási költség:
+
+1\. az illeték,
+
+2\. az igazgatási szolgáltatási díj,
+
+3\. az ügyfél megjelenésével kapcsolatos költség,
+
+4\. az ügyfél képviseletében eljáró személy megjelenésével kapcsolatos költség,
+
+5\. a tanú és a hatósági tanú költségtérítése,
+
+6\. a szakértői díj,
+
+7\. az iratbetekintési jog gyakorlásával kapcsolatos költség,
+
+8\. a fordítási költség,
+
+9\. a tolmácsolási költség,
+
+10\. az ügyfél, valamint az eljárás egyéb résztvevője részéről felmerült levelezési, dokumentumtovábbítási költség,
+
+11\. a végrehajtási költség,
+
+12\. az eljárásban közreműködő rendőrségnél felmerült költség,
+
+13\. a szemle, a zár alá vétel, valamint a szakértői eljárás jogszerű lefolytatásával összefüggésben felmerülő kártalanítás összege,
+
+14\. a tényállás tisztázásához szükséges, az eljáró hatóság által végzett műszeres (laboratóriumi vagy más speciális eszköz használatát igénylő) vizsgálat azon költsége, amelyet az illeték vagy az igazgatási szolgáltatási díj nem tartalmaz,
+
+15\. az egyes hatósági intézkedésekkel kapcsolatban felmerült költség,
+
+16\. egyéb, az eljárással összefüggésben felmerült pénzkiadás.
+
+17.[^1] a keresetlevél előterjesztésével kapcsolatban felmerült költség, amennyiben a hatóság a keresetlevél alapján módosítja vagy visszavonja döntését.
+
+(2) A végrehajtási eljárásban való rendőri közreműködés jogszabályban meghatározott költségtérítésének összege végrehajtási költség.
+
+## 2. Az iratbetekintéssel összefüggő költségtérítés szabályai
+
+### 2. §
+
+(1) A hatóság
+
+a) az iratbetekintési jog gyakorlására irányuló kérelmet végzésben elutasítja, vagy
+
+b) az iratbetekintést az iratbetekintést kérő személy által meg nem ismerhető személyes és védett adatok megismerhetetlenné tételét követően biztosítja.
+
+(2) A hatóság az iratról való másolat készítése során az (1) bekezdés szerint gondoskodik a személyes és védett adatok védelméről.
+
+(3) Az eljárás iratainak oldalankénti másolatáért az illetékekről szóló törvény szerint, az államigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolatért fizetendő illeték összegének megfelelő eljárási költséget kell fizetni.
+
+(4) A hatóság a másolatkészítés várható költségéről az iratbetekintést kérő személyt előzetesen tájékoztatja.
+
+(5) A hatóság a (2) bekezdés szerinti másolatot a (3) bekezdésben meghatározott költség megfizetését követően adja ki.
+
+## 3. A költségek megfizetésére vonatkozó szabályok
+
+### 3. §
+
+(1) Az 1. § (1) bekezdés 3–16. pontjában meghatározott eljárási költség megfizetése történhet
+
+a) készpénzátutalási megbízás útján;
+
+b) ha a hatóságnál erre lehetőség van
+
+ba) elektronikus fizetési és elszámolási rendszeren keresztül,
+
+bb) bankkártyával,
+
+bc) házipénztárba készpénzzel, vagy
+
+c) a hatóságnál az összeg hatósági letétbe helyezésével.
+
+(2) Ha az ügyfél az előírt eljárási költségnél – az illeték és az igazgatási szolgáltatási díj kivételével – többet fizetett meg, akkor a többletet az eljáró hatóság visszatéríti.
+
+(3) A visszatérítést az ügyfél visszatérítésre vonatkozó kérelmének beérkezésétől, vagy a többletbefizetés hivatalbóli észlelésétől számított öt napon belül rendeli el a hatóság, és az elrendelést követő tizenöt napon belül intézkedik annak teljesítéséről.
+
+## 4. A tárgyi és a személyes költségmentesség közös szabályai
+
+### 4. §
+
+A költségmentesség nem terjed ki a jogellenes magatartással okozott költségek viselésére. Ez esetben a hatóság – a költségmentesség tényétől függetlenül – a költségek felmerülésekor dönt az eljárási költség viseléséről.
+
+## 5. A személyes költségmentesség megállapításának szabályai
+
+### 5. §
+
+(1) A hatóság a természetes személy ügyfél kérelmére az e rendeletben foglaltak szerint engedélyezi az ügyfél teljes vagy részleges költségmentességét.
+
+(2) A részleges költségmentesség az ügyfelet valamely eljárási költségfajta vagy az eljárási költség meghatározott százalékának viselése alól mentesíti.
+
+### 6. §
+
+(1) Teljes költségmentesség akkor engedélyezhető, ha az ügyfél
+
+a)[^2] és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegét, és
+
+b) ingatlantulajdonnal nem, vagy kizárólag a lakóhelyéül szolgáló ingatlan tulajdonával rendelkezik.
+
+(2) Az (1) bekezdés b) pontjában foglalt feltétel vizsgálata során – legfeljebb egy ingatlan tekintetében – figyelmen kívül kell hagyni a kétmillió forint becsült forgalmi értéket meg nem haladó tulajdoni részesedést.
+
+(3) Teljes költségmentesség engedélyezhető – jövedelmi és vagyoni helyzetének vizsgálata nélkül – annak az ügyfélnek is, aki a kérelem benyújtásakor
+
+a) aktív korúak ellátására jogosult, időskorúak járadékában, ápolási díjban, vakok személyi járadékában, fogyatékossági támogatásban részesül, valamint, aki rendszeres gyermekvédelmi kedvezményben részesülő gyermeket nevel vagy saját jogán rendszeres gyermekvédelmi kedvezményben részesül,
+
+b) pénzellátásban részesülő hadigondozott és nemzeti gondozott,
+
+c) hajléktalan vagy
+
+d) menekült, menedékes, illetve menekültkénti vagy oltalmazottkénti elismerését kérő vagy menedékeskénti elismerését kérő személy számára biztosított ellátásra és támogatásra jogosult.
+
+### 7. §
+
+(1) Részleges költségmentesség akkor engedélyezhető, ha az ügyfél
+
+a)[^3] és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegének 150%-át, és
+
+b) ingatlantulajdonnal nem, vagy kizárólag a lakóhelyéül szolgáló ingatlan tulajdonával rendelkezik.
+
+(2) Az (1) bekezdés b) pontjában foglalt feltétel vizsgálata során – legfeljebb egy ingatlan tekintetében – figyelmen kívül kell hagyni a hárommillió forint becsült forgalmi értéket meg nem haladó tulajdoni részesedést.
+
+### 8. §
+
+Különös méltánylást érdemlő esetben – különösen, ha az ügyfél és az általa eltartott személyek létfenntartása veszélyeztetett –
+
+a) a teljes költségmentesség feltételeinek hiányában, de a részleges költségmentesség feltételeinek fennállása esetén teljes költségmentesség,
+
+b) a részleges költségmentesség feltételeinek hiányában is részleges költségmentesség
+
+engedélyezhető.
+
+### 9. §
+
+(1) A költségmentesség engedélyezésére irányuló kérelem benyújtásakor igazolni kell az ügyfél és a vele közös háztartásban élő közeli hozzátartozó vagyoni és jövedelmi helyzetének megítéléséhez szükséges körülményeket.
+
+(2) Ha az ügyfél, valamint a vele közös háztartásban élő közeli hozzátartozó nem áll munkavégzésre irányuló jogviszonyban és nem részesül nyugellátásban, valamint egyéb jövedelme sincs, a kérelemben erről a tényről nyilatkozni kell.
+
+(3) Az ügyfél a kérelemben további olyan körülményeket tárhat fel, amelyek alapján a hatóság a 8. §-ban foglaltaknak megfelelően költségmentességben részesítheti.
+
+### 10. §
+
+(1) Az eljárási költség előlegezése és viselése alóli költségmentesség a költségmentesség alapjául szolgáló feltételeknek az eljárás folyamán történő bekövetkezése esetén is engedélyezhető.
+
+(2) A költségmentesség alapjául szolgáló feltételek megváltozása esetén a költségmentesség módosítható vagy visszavonható.
+
+### 11. §
+
+(1) Az ügyfél a költségmentesség alapjául szolgáló feltételek megváltozását a változás bekövetkezésétől számított öt napon belül köteles a hatóságnak bejelenteni.
+
+(2) Ha az ügyfél
+
+a) a feltételek megváltozására vonatkozó bejelentési kötelezettségének nem tesz eleget, vagy
+
+b) a költségmentesség engedélyezésére irányuló kérelemben valótlan adatokat szolgáltat,
+
+a hatóság a költségmentességet engedélyező végzés módosításával vagy visszavonásával egyidejűleg dönt az eljárási költség előlegezéséről és viseléséről.
+
+(3) A hatóság az ügyfelet a költségmentességet engedélyező végzésében tájékoztatja a bejelentés elmulasztásának és a valótlan adatszolgáltatásnak a (2) bekezdésben és az általános közigazgatási rendtartásról szóló törvényben meghatározott jogkövetkezményeiről.
+
+(4) A (2) bekezdés b) pontjában foglalt esetben az ügyfél igazolási kérelmet terjeszthet elő, amelyben igazolhatja, hogy a valótlan adatok szolgáltatására önhibáján kívül eső okból került sor.
+
+## 6. Záró rendelkezések
+
+### 12. §
+
+(1) Ez a rendelet 2018. január 1-jén lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+---
+
+[^1]: Az 1. § (1) bekezdés 17. pontját az 561/2023. (XII. 14.) Korm. rendelet 44. §-a iktatta be.
+[^2]: A 6. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[^3]: A 7. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.

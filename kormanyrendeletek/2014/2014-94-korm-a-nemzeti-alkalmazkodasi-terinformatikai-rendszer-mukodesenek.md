@@ -1,0 +1,374 @@
+---
+title: "94/2014. (III. 21.) Korm. rendelet a Nemzeti Alkalmazkodási Térinformatikai Rendszer működésének részletes szabályairól"
+identifier: "94/2014. (III. 21.) Korm. rendelet"
+njt_id: "2014-94-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/94"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-03-21
+in_force_from: 2014-04-20
+last_amended: 2025-09-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-94-20-22"
+retrieved: 2026-10-12
+---
+
+# 94/2014. (III. 21.) Korm. rendelet a Nemzeti Alkalmazkodási Térinformatikai Rendszer működésének részletes szabályairól
+
+A Kormány az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (5) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Nemzeti Alkalmazkodási Térinformatikai Rendszer célja és feladata
+
+### 1. §
+
+(1) A Nemzeti Alkalmazkodási Térinformatikai Rendszer (a továbbiakban: NATéR) az e rendeletben meghatározott keretek között, az adatok felhasználásával készült származtatott mutatók, elemzések és hatástanulmányok alapján információt biztosít az ország éghajlati állapotáról, az éghajlatváltozás és egyéb hosszú távú természeti erőforrás-gazdálkodással kapcsolatos stratégiai kockázatok hatásairól, valamint az ezekhez való alkalmazkodási lehetőségekről.
+
+(2) A NATéR üzemeltetője a NATéR internetes felhasználói felületén (a továbbiakban: NATéR Portál) térítésmentesen mindenki számára elérhetővé teszi a nemzeti alkalmazkodási stratégiai keretrendszerhez kapcsolódó dokumentumokat, valamint a NATéR adattémáira vonatkozó meta-adatokat.
+
+(3) A NATéR – kutató, elemző tevékenysége révén rendelkezésekre álló eredmények alapján – információt biztosít a központi, területi és helyi államigazgatási szervek, valamint önkormányzatok számára az ágazati és területi
+
+a) éghajlatpolitikai,
+
+b) energiapolitikai,
+
+c) közlekedési és infrastrukturális,
+
+d) fejlesztéspolitikai,
+
+e) mezőgazdaságot, vidékfejlesztést, erdőgazdálkodást érintő,
+
+f) területi, települési, térségi,
+
+g) közszolgáltatás-szervezési,
+
+h) turisztikai,
+
+i) az egészséggel és életminőséggel kapcsolatos, valamint
+
+j) katasztrófavédelemmel kapcsolatos
+
+tervezéshez.
+
+(4) A NATéR üzemeltetője az e §-ban meghatározott célok elérése érdekében a környezet védelmének általános szabályairól szóló törvény rendelkezései szerinti lehívási szolgáltatás, a területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló kormányrendelet, valamint a 7. § (2) bekezdésében meghatározott megállapodások alapján – az ágazati jogszabályok rendelkezéseivel összhangban – az 1. és a 2. mellékletben meghatározott téradattémák szerint biztosított adatokat feldolgozza és az elvégzett vizsgálatainak és elemzéseinek eredményeiről egységes elektronikus információs rendszert üzemeltet.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *adatkezelő szervezet:* az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 3. § (5) bekezdésében meghatározott olyan szervezet, amely az ott meghatározott tevékenységet az 1. és a 2. mellékletben meghatározott téradattémák tekintetében végzi;
+
+2\. *interoperabilitás:* a téradatkészletek összeköttetésének és a téradat-szolgáltatások között ismételt kézi beavatkozás nélkül létrejövő olyan összekapcsolódásnak a lehetősége, amely a téradatkészletek és -szolgáltatások elérését magasabb minőséggel biztosítja, mint az egyes információs rendszerek elkülönülten;
+
+3\. *metaadat:* téradatnak nem minősülő, ahhoz kapcsolódó, a téradatkészleteket és téradat-szolgáltatásokat leíró elektronikus információ, amely lehetővé teszi a téradatkészletek és téradat-szolgáltatások elérését, nyilvántartását és felhasználását;
+
+4\. *NATéR:* elektronikus információs rendszer, amelynek térinformatikai alapját a nemzeti téradat-infrastruktúra (a továbbiakban: NTI) képezi, és amely az 1. és a 2. mellékletben meghatározott téradattémák adatainak feldolgozásával előállított származtatott adatok vonatkozásában internetes informatikai szolgáltatásokat nyújt;
+
+5\. *származtatott adat:* olyan adat, amely egy vagy több adat módosításával, vagy az azokkal végzett műveletek eredményeként jött létre és amelyből az alapadatok nem fejthetőek vissza.
+
+## 3. A NATéR működése és az üzemeltető feladatai
+
+### 3. §
+
+(1)[^1] A NATéR üzemeltetését a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt. (a továbbiakban: üzemeltető) látja el.
+
+(2) Az üzemeltető az (1) bekezdés szerinti feladatát az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott Üzemeltetési Szabályzat alapján látja el, amelyet a miniszter által vezetett minisztérium honlapján és a NATéR Portálon közzé kell tenni. Az üzemeltető az Üzemeltetési Szabályzatot minden év január 31-ig felülvizsgálja.
+
+(3) A NATéR Üzemeltetési Szabályzata többek között tartalmazza
+
+a) a hozzáférés és a hozzáférés megszüntetésének feltételeit,
+
+b) a felhasználók felelősségi körét, valamint
+
+c) az üzemeltető felelősségi körét.
+
+(4) A NATéR üzemeltetéséről, valamint feladatainak megvalósításáról az üzemeltető minden év február 15-ig szakmai beszámolót készít a miniszter számára. A beszámolót a NATéR Portálon mindenki számára azonosítás nélkül, térítésmentesen elérhetővé kell tenni.
+
+### 4. §
+
+(1) A NATéR üzemeltetésének felügyeletét a miniszter által kijelölt személy látja el, aki jogosult a jogszabályban és az Üzemeltetési Szabályzatban meghatározott feladatok teljesítésének ellenőrzésére. A felügyelet keretében
+
+a) betekinthet a NATéR üzemeltetésével kapcsolatos dokumentumokba,
+
+b) tájékoztatást kérhet az üzemeltető tisztségviselőjétől és alkalmazottjától.
+
+(2) Az üzemeltető köteles együttműködni az (1) bekezdésben meghatározott személlyel a felügyeleti tevékenységének végrehajtása során.
+
+### 5. §
+
+(1) Az üzemeltető a NATéR-on keresztül elvégzi a nemzeti alkalmazkodási feladatok ellátása érdekében szükséges, a
+
+(2)–(5) bekezdésben meghatározott adatkezelési, adatelemzési és kutatási, valamint információszolgáltatási feladatokat.
+
+(2) Az üzemeltető a kutatási és elemzési tevékenysége révén az 1. § (3) bekezdésében megjelölt területek vonatkozásában származtatott mutatókat, sérülékenységi elemzéseket, hatáselemzéseket, alkalmazkodási elemzéseket és azok eredményeit szolgáltatja. Az üzemeltető metaadatokat szolgáltat a NATéR-ben keletkezett származtatott adatokról, valamint a NATéR-ben feldolgozott mindazon alapadatokról, amelyekről az NTI nem szolgáltat metaadatokat.
+
+(3) A NATéR, valamint a NATéR működésében lehívási szolgáltatás nyújtásával közreműködő adatkezelő szervezetek – amennyiben a műszaki feltételek adottak – az interoperabilitás követelményének megvalósításával, a 7. § (2) bekezdésében meghatározott megállapodásokban rögzítettek szerint kapcsolódnak össze.
+
+(4) Az üzemeltető az adatelemzési és kutatási feladatai körében
+
+a) az éghajlatváltozás és más hosszú távú stratégiai kockázatok hatásainak vizsgálatához szükséges
+
+aa) származtatott mutatókat dolgoz ki,
+
+ab) ágazati és területi szempontú döntést támogató elemzéseket és értékeléseket dolgoz ki, valamint
+
+ac) egységes értékelési módszertant fejleszt,
+
+b) az éghajlatváltozás és más hosszú távú stratégiai kockázatok hatásaihoz való
+
+ba) alkalmazkodás érdekében alkalmazkodási stratégiákat, döntés-előkészítési anyagokat, hatástanulmányokat dolgoz ki, valamint
+
+bb) helyi és térségi alkalmazkodási stratégiák kidolgozásához egységes tervezési módszertani segédletet fejleszt.
+
+(5) Az üzemeltető információszolgáltatási feladatai körében
+
+a) információt biztosít a NATéR-ból az 1. § (3) bekezdésében meghatározott szervek, valamint a tudományos kutatást végző szervezetek éghajlatváltozással kapcsolatos döntéseihez és kutatásaihoz,
+
+b) közzéteszi a (4) bekezdés szerinti adatelemzési és kutatási feladatainak eredményeit,
+
+c) közzéteszi a (4) bekezdés szerinti származtatott, döntést és tervezést segítő mutatókat, valamint
+
+d) elérhetővé teszi a rendszer alkalmazásával kapcsolatos információkat.
+
+### 6. §
+
+A NATéR naprakész metaadatokat szolgáltat
+
+a) a téradatkészletekhez, -szolgáltatásokhoz történő hozzáféréshez és azok igénybevételéhez szükséges feltételekről,
+
+b) a téradatkészletek eredetére, pontosságára, élességére és validálására vonatkozóan, valamint
+
+c) a téradatkészletekhez történő nyilvános hozzáférés korlátozottságáról, és az esetleges korlátozások okairól.
+
+### 7. §
+
+(1) Az üzemeltető minden év október 31-ig – az adatkezelő szervezettel egyeztetve – éves tervet készít a következő évben tervezett vizsgálatok, kutatások és elemzések meghatározásával. Az éves terv tartalmazza a vonatkozó időszakban esedékes vagy tervezett kormányzati stratégiai tervezéshez szükséges elemzések meghatározását. Az éves tervet a miniszter hagyja jóvá.
+
+(2) Az üzemeltető az (1) bekezdésben meghatározott éves terv alapján – a vonatkozó ágazati jogszabályok rendelkezései alapján – megállapodást köt az adatkezelő szervezetekkel az éves terv végrehajtásához szükséges lehívási szolgáltatások igénybevételéről, illetve az adatok bekérésének feltételeiről. A megállapodás tartalmazza
+
+a) az adatkezelő szervezetek által – az 1. és a 2. mellékletben meghatározott téradattémák alapján – biztosítandó lehívási szolgáltatások, illetve téradatok körének pontos meghatározását,
+
+b) a lehívási szolgáltatások igénybevételének körülményeit vagy a téradatok biztosításának gyakoriságát és határidejét, valamint
+
+c) az adatszolgáltatás hozzáférésének, illetve adatátadás részletes feltételeit.
+
+(3) A (2) bekezdésben meghatározott megállapodás alapján az adatkezelő szervezet az üzemeltető számára
+
+– a megállapodásban megjelölt feltételek teljesítésével – biztosítja a lehívási szolgáltatások elérését, vagy átadja a megállapodásban megjelölt adatokat.
+
+(4) A NATéR által előállított származtatott adatok nyilvánosságára a statisztikáról szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései irányadóak.
+
+## 4. A NATéR elérése
+
+### 8. §
+
+(1) A NATéR téradat-szolgáltatásai a NATéR Portálon érhetőek el. A NATéR Portál létrehozását, folyamatos felülvizsgálatát és frissítését az üzemeltető biztosítja.
+
+(2) A 9. § (2) és (3) bekezdésében meghatározott felhasználók a NATéR szolgáltatásait az üzemeltető által, az Üzemeltetési Szabályzatban meghatározott rendelkezések betartásával a NATéR Portálon keresztül vehetik igénybe.
+
+(3) Az a természetes személy vagy szervezet, amely megbízás alapján a 9. § (2) bekezdésében meghatározott valamely szervezet számára, a szervezet feladatainak ellátása érdekében munkát végez, a megbízó szerv vezetőjének kérelmére, a megbízási jogviszony igazolását követően, határozott idejű eseti hozzáférést kap.
+
+(4) A (3) bekezdésben meghatározott hozzáférés esetén a hozzáférési jogosultság megszűnését az érintett szerv vezetője legkésőbb a megszűnést követő 3 napon belül köteles jelezni az üzemeltető felé. Az üzemeltető a (3) bekezdés alapján hozzáférési jogosultsággal rendelkező természetes személyről vagy szervezetről nyilvántartást vezet, amely tartalmazza a jogosultsággal rendelkező természetes személy, illetve a szervezet esetében a szervezet nevében a jogosultságot gyakorló természetes személy nevét és személyazonosító igazolványának számát. Az adatokat a jogosultság megszűnését követő 1 évig lehet megőrizni.
+
+### 9. §
+
+(1) A NATéR által szolgáltatott metaadatok mindenki számára azonosítás nélkül, térítésmentesen elérhetőek.
+
+(2) A NATéR szolgáltatásaihoz a NATéR-ben történő előzetes regisztrációt követően közvetlen hozzáférés illeti meg
+
+1\. a Magyar Országgyűlés Hivatalának,
+
+2\. az Alkotmánybíróság,
+
+3\. a bíróságok,
+
+4\. az ügyészségek,
+
+5\. az Alapvető Jogok Biztosának Hivatala,
+
+6\. a Magyar Nemzeti Bank,
+
+7\. az Állami Számvevőszék,
+
+8\. a központi államigazgatási szervek és azok országos, területi, helyi szerveinek,
+
+9\. a Magyar Honvédség,
+
+10.[^2] a Magyar Kutatási Hálózat területi kutatásokat folytató intézeteinek,
+
+11\. Magyarország államilag elismert felsőoktatási intézményei területi kutatásokat folytató oktatási, tudományos kutatási szervezeti egységeinek,
+
+12\. az Országos Területfejlesztési Érdekegyeztető Fórum,
+
+13\. az Országos Környezetvédelmi Tanács,
+
+14\. a Nemzeti Fenntartható Fejlődés Tanács,
+
+15.[^3]
+
+16\. a Nemzetstratégiai Kutatóintézet,
+
+17\. a Központi Statisztikai Hivatal,
+
+18\. a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság,
+
+19.[^4] a vármegyei önkormányzatok és hivatalaik,
+
+20\. a települési önkormányzatok és hivatalaik,
+
+21\. az országos önkormányzati szövetségek,
+
+22.[^5] a civil szervezetek országos, regionális, vármegyei szinten létrehozott egyeztető fórumának,
+
+23\. a térségi fejlesztési tanácsok és munkaszervezeteik, valamint
+
+24\. a hivatásos katasztrófavédelem központi, területi és helyi szerveinek
+
+regisztrált tagjait.
+
+(3) A NATéR szolgáltatásaihoz a középiskolai és felsőoktatási intézmény vezetője által kijelölt és a NATéR-ben regisztrált munkatársa, valamint a képzésben részt vevő regisztrált tanulója, hallgatója oktatási-kutatási célból közvetlenül fér hozzá.
+
+## 5. Záró rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+(2) Az üzemeltető a 3. § (2) bekezdésében meghatározott Üzemeltetési Szabályzatot e rendelet hatálybalépését követő 30 napon belül készíti el.
+
+### 11. §
+
+Ez a rendelet az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdésével összeegyeztethető szabályozást tartalmaz.
+
+## 1. melléklet a 94/2014. (III. 21.) Korm. rendelethez
+
+**Az alap téradatokra vonatkozó téradattémák**
+
+1\. Közigazgatási egységek
+
+Azok a helyi, területi, regionális és országos egységek, amelyek igazgatási (működési, illetékességi) területeit közigazgatási határvonalak választják el, és statisztikai információk terjesztésére vagy felhasználására szolgálnak.
+
+2\. Közlekedési hálózatok
+
+Közúti, vasúti, légi és vízi közlekedési hálózatok és az ezekhez kapcsolódó infrastruktúra, valamint a modális hálózatokat összekapcsoló logisztikai csomópontok. Idetartozik továbbá a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban (a továbbiakban: 1692/96/EK európai parlamenti és tanácsi határozat) meghatározott transzeurópai közlekedési hálózat és annak az 1692/96/EK európai parlamenti és tanácsi határozat 2009. május 15-ét követő felülvizsgálatából eredő bármely módosítása is.
+
+3\. Vízrajz
+
+Vízrajzi elemek, víztestek és az azokkal kapcsolatos elemek, különösen a vízgyűjtők és a részvízgyűjtők a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv fogalom-meghatározásaival összhangban.
+
+4\. Természetvédelmi területi kategóriák
+
+Országos jelentőségű védett természeti területek, helyi jelentőségű védett természeti területek, nemzetközi természetvédelmi egyezmény hatálya alá tartozó területek, európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
+
+5\. Domborzat
+
+Digitális domborzati modellek. Idetartozik a felszíni és víz alatti domborzat és a partvonal.
+
+6\. A felszín borítása
+
+A Föld felszínének fizikai és biológiai borítása, beleértve a mesterséges felszínt, a mezőgazdasági területeket, erdőket, a természetes vagy részben természetes területeket, a vizes élőhelyeket és a víz-testeket.
+
+7\. Távérzékelési adatok
+
+A föld felszínének földrajzi hivatkozással ellátott, műhold vagy légi adatgyűjtők által készített képi adatai.
+
+## 2. melléklet a 94/2014. (III. 21.) Korm. rendelethez
+
+**A tematikus téradatokra vonatkozó téradattémák**
+
+1\. Statisztikai egységek a térinformatika vonatkozásában
+
+Statisztikai információk terjesztésére vagy felhasználására szolgáló egységek.
+
+2\. Talaj
+
+A fel- és altalaj egyes szintjeinek jellemzése a rétegvastagság, fizikai jellemzők, szerkezet, mechanikai összetétel, szervesanyag-tartalom. A talaj erodálhatóságának mértéke, adott esetben a lejtésviszonyok, becsült víztározó kapacitás értéke.
+
+3\. Térségi területhasználat
+
+A területrendezési tervek térségi területfelhasználási kategóriái, a műszaki infrastruktúra-hálózatok és az egyedi építmények.
+
+4\. Emberi egészség és biztonság
+
+A klímaváltozáshoz közvetlenül vagy közvetve kapcsolódó patológiák dominanciájának földrajzi eloszlása, illetve az e tényezőknek az emberi egészségre (például járványok) vagy a közérzetre gyakorolt hatását jellemző információ.
+
+5\. Közüzemi
+
+Közüzemi létesítmények, különösen a szennyvíz- és hulladékkezelést, valamint az energia- és a vízellátást szolgáló közüzemi létesítmények.
+
+6\. Közszolgáltatások
+
+Igazgatási, szociális és egészségügyi közszolgáltatások, különösen a közigazgatási szervek, a közgyűjtemények, a művészeti, közművelődési és egyéb kulturális intézmények, a polgári védelmi létesítmények, iskolák és kórházak és ezek ellátási körzetei.
+
+7\. Környezeti monitoring létesítmények
+
+A környezetvédelmi monitoring létesítmények elhelyezkedése és működése, amely magában foglalja a kibocsátások, a környezeti elemek állapota, valamint az ökoszisztéma egyéb paramétereinek (így például a biodiverzitás, a növényzet ökológiai állapota) a hatóságok általi vagy a nevükben történő megfigyelését és mérését.
+
+8\. Termelő és ipari létesítmények
+
+Ipari termelőhelyek, ideértve a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló, 1996. szeptember 24-i 96/61/EK tanácsi irányelv által szabályozott létesítményeket, valamint a vízkivételt, a bányászati és a tároló létesítményeket.
+
+9\. Mezőgazdasági és akvakultúra-ágazati létesítmények
+
+Mezőgazdasági eszközök és termelőlétesítmények (ideértve az öntözőrendszereket, az üvegházakat és istállókat).
+
+10\. A népesség eloszlása – demográfia
+
+A népesség földrajzi eloszlása – ideértve a népességi jellemzőket és a tevékenységi szinteket jövedelmi, gazdasági vonatkozásban is – statisztikai elemzési egységek (hálótérképek, régiók, közigazgatási egységek) alapján összesítve.
+
+11.[^6] Területhasználatot korlátozó övezetek
+
+A területrendezési tervek szerinti térségi övezetek határai: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvényben, továbbá a területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló 9/2019. (VI. 14.) MvM rendeletben lehatárolt országos és kiemelt térségi övezetek, valamint a megyei területrendezési tervekben lehatárolt térségi övezetek.
+
+12\. Területgazdálkodási, -szabályozási övezetek és adatszolgáltató egységek
+
+*A)* A nemzetközi, illetve európai szinten irányított, szabályozott vagy adatszolgáltatási egységként kijelölt területek.
+
+*B)* A térségi hulladéklerakó helyek, az ivóvízbázisok védőövezetei, a nitrátérzékeny területek, vízi utak, a térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható területek, a zajvédelmi zónák, a nyersanyag-kutatási és bányászati engedélyköteles területek, a vízgyűjtő kerületek és az egyéb adatszolgáltató egységek.
+
+13\. Természeti kockázati zónák
+
+Természeti veszélyek, így különösen az ár- és belvizek, a földcsuszamlások, a felszínsüllyedések, az erdőtüzek, a földrengések, a vulkánkitörések (minden légköri, hidrológiai, szeizmikus jelenség, amely – helye, súlyossága és előfordulási gyakorisága alapján – komoly társadalmi károk okozásának lehetőségét hordozza magában) alapján jellemzett veszélyeztetett területek.
+
+14\. Légköri viszonyok
+
+A légkör fizikai jellemzői, ideértve a méréseken, modelleken vagy ezek kombinációján alapuló téradatokat, továbbá a mérési helyeket.
+
+15\. Meteorológiai földrajzi jellemzők
+
+Időjárási viszonyok és mérésük; csapadék, hőmérséklet, a felszín és a növényzet párolgása, a szél sebessége és iránya.
+
+16\. Biogeográfiai régiók
+
+Ökológiai szempontból viszonylag homogén, növényzeti és éghajlati tulajdonságok alapján meghatározott térségek.
+
+17\. Élőhelyek és biotópok
+
+Különleges ökológiai feltételekkel, folyamatokkal, struktúrával és az élet fenntartásához kapcsolódó funkciókkal rendelkező földrajzi területek, amelyek az ott élő élőlények számára kedvező fizikai feltételeket teremtenek. Idetartoznak azok a szárazföldi és vízi területek, amelyek – függetlenül azok természetes vagy természetközeli állapotától – földrajzi, abiotikus és biotikus jellemzőik alapján különböztethetőek meg.
+
+18\. A fajok elterjedése
+
+Az állat- és növényfajok (különös tekintettel az ismert klímaindikátor fajok) előfordulásának földrajzi eloszlása az elemzési egységek (hálótérkép, régió, közigazgatási egység) alapján összesítve.
+
+19\. Energiaforrások
+
+Energiaforrások, ideértve különösen a szénhidrogéneket, vízenergiát, bioenergiát, nap- és szélenergiát, valamint adott esetben ideértve az erőforrás mértékére vonatkozó mélységi, illetve magassági információkat.
+
+20\. Földtan, ásványi nyersanyagok
+
+Az összetétel és szerkezet alapján jellemzett földtan, ideértve az alapkőzetet, a víztartó rétegeket és a geomorfológiát is. Ásványi nyersanyagok, ideértve különösen a fémek érceit, az ipari ásványokat, valamint adott esetben ideértve a nyersanyag elhelyezkedésére (hozzáférhetőségére) és mennyiségére vonatkozó információkat.
+
+21\. Energiát előállító egységek, erőművek, fűtőművek
+
+Energiát előállító létesítmények, különösen az atom, gáz, fűtőolaj, szén, alternatív (szél, nap, bio) erőművek, a villamos energiát és hőenergiát előállító létesítmények.
+
+---
+
+[^1]: A 3. § (1) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^2]: A 9. § (2) bekezdés 10. pontja a 345/2019. (XII. 23.) Korm. rendelet 5. §-a, a 246/2023. (VI. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^3]: A 9. § (2) bekezdés 15. pontját az 591/2023. (XII. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^4]: A 9. § (2) bekezdés 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
+[^5]: A 9. § (2) bekezdés 22. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet 11. pontja a 287/2025. (VIII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.

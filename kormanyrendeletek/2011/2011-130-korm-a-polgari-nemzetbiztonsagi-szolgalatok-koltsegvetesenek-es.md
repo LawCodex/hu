@@ -1,0 +1,298 @@
+---
+title: "130/2011. (VII. 18.) Korm. rendelet a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól"
+identifier: "130/2011. (VII. 18.) Korm. rendelet"
+njt_id: "2011-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-07-18
+in_force_from: 2011-07-26
+last_amended: 2025-12-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/2011. (VII. 18.) Korm. rendelet a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól
+
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés d) pontjában,
+
+a 4–6. § tekintetében az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés h) pontjában,
+
+a 8. § tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés zsj) pontjában,
+
+a 9. § tekintetében a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés a) pontjában,
+
+a 12–13. § tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés u) pontjában
+
+kapott felhatalmazás alapján,
+
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §[^1]
+
+A rendelet hatálya
+
+a) az Információs Hivatalra,
+
+b) az Alkotmányvédelmi Hivatalra,
+
+c) a Nemzetbiztonsági Szakszolgálatra és
+
+d)[^2] a Nemzeti Információs Központra
+
+[a továbbiakban a)–d) pont együtt: Szolgálatok] terjed ki.
+
+## 2. A Szolgálatok és a Magyar Államkincstár kapcsolata
+
+### 2. §
+
+(1) A Szolgálatok a Magyar Államkincstár (a továbbiakban: Kincstár) ügyfelei, amelyek saját gazdasági szervezeteik útján a tervezéssel, előirányzat-felhasználással, a hatáskörükbe tartozó előirányzat-módosítással, az üzemeltetéssel, fenntartással, működtetéssel, beruházással, a vagyon használatával, hasznosításával és nyilvántartásával, a munkaerő-gazdálkodással, a készpénzkezeléssel, a könyvvezetéssel, valamint a beszámolási kötelezettséggel, adatszolgáltatással és a belső kontrollrendszer működtetésével kapcsolatos feladatokat az e rendeletben meghatározott szabályok figyelembevételével saját maguk látják el.
+
+(1a)[^3] A Szolgálatok a költségvetés végrehajtásával kapcsolatos feladataikat a Kincstár által működtetett Központi Költségvetés Végrehajtását Támogató Rendszer útján látják el.
+
+(2)[^4] A Szolgálatok a Kincstárnál vezetett fizetési számlát érintő kiadások és bevételek teljesítése során a központi irányítószervi támogatás elosztási számlára és a fejezeti maradvány-elszámolási számlára, valamint a lakástámogatásra és a dolgozók lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számlára történő utalásra, az európai uniós forrásokra az „Azonosítás alatt álló kiadások”-ra és az „Azonosítás alatt álló bevételek”-re vonatkozó Egységes Rovat Azonosító Kódokat használhatják.
+
+(3)[^5] A Kincstár a Szolgálatok számláinak forgalmáról az Állami Számvevőszéken, a Kormányzati Ellenőrzési Hivatalon, az államháztartásért felelős miniszteren és a fejezetet irányító szerv erre feljogosított munkatársain kívül egyéb szervnek, személynek adatot nem szolgáltathat. A számlák egyenlegéről – az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az államháztartásért felelős miniszter és a fejezetet irányító szerv kivételével – kizárólag a fejezetet irányító miniszter (a továbbiakban: miniszter) engedélyével közölhető adat. A Szolgálatok számláit vezető kincstári fiók a Szolgálatok számláinak forgalmáról a Kincstár más szerveinek sem szolgáltathat adatot.
+
+(4)[^6] A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára nem kell befizetni, ugyanakkor – ha szükséges – gondoskodni kell a bevételeknek megfelelő összegű előirányzat-módosítások végrehajtásáról, azzal, hogy a bevételek – a bevételi előirányzaton felüli többletbevétel kivételével – addig is közvetlenül felhasználhatók a kiadások teljesítésére. A Szolgálatoknak a házipénztár forgalmáról külön bejelentési kötelezettségük nincs a Kincstár részére.
+
+(5)[^7]
+
+### 3. §
+
+(1)[^8] A Szolgálatok a követeléseiket, a kötelezettségvállalásaikat és más fizetési kötelezettségeiket saját hatáskörben tartják nyilván.
+
+(2) A Kincstárnak a Szolgálatok számláinak kifizetés előtti fedezet vizsgálatakor csak a rendelkezésre álló likviditási fedezetet kell figyelembe vennie.
+
+(3) A Szolgálatok az 5 millió forint feletti kötelezettségvállalásaik együttes összegéről, valamint a tárgyévben vállalt, de a következő évek előirányzatait terhelő 5 millió forint feletti kötelezettségvállalásaik együttes összegéről évente kétszer, július 10-ig és november 30-ig tájékoztatják a fejezetet irányító szerv vezetőjét. A fejezetet irányító szerv vezetője 5 munkanapon belül a kötelezettségvállalások együttes összegéről értesíti az államháztartásért felelős minisztert.
+
+## 3. Gazdálkodás az állami vagyonnal
+
+### 4. §
+
+(1)[^9] A Szolgálatok a használatukban, hasznosításukban, vagyonkezelésükben vagy tulajdonosi joggyakorlásuk alatt álló állami vagyonról saját hatáskörben vezetnek részletes nyilvántartást. A Szolgálatok a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 63. § (5) bekezdése szerinti azon ingatlan és ingó vagyonelemek összességéről, amelyek tekintetében a Szolgálatok gyakorolják a tulajdonosi jogok és kötelezettségek összességét, összesített adatszolgáltatást nyújtanak a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságnak (a továbbiakban: MNV Zrt.), azzal, hogy az adatszolgáltatás tartalmáról az MNV Zrt.-vel kötött külön megállapodásban kell rendelkezni.
+
+(2)[^10] A Szolgálatok az állami vagyonról – ideértve az Nbtv. 63. § (5) bekezdése szerinti vagyonelemeket is – az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) 5. mellékletének adataiból az „Eszközök” alcím betűvel és római számmal jelölt sorainak megfelelő adattartalommal – kizárólag papír alapon – küldenek adatot az MNV Zrt.-nek, valamint – az e rendeletben foglalt eltérésekkel – a vonatkozó jogszabályok alapján adatkérésre felhatalmazott szerveknek.
+
+(3) A Szolgálatok vagyonkezelői szerződéseit az MNV Zrt. kizárólag a miniszter egyetértésével szüntetheti meg felmondással.
+
+### 5. §
+
+(1)[^11] A Szolgálatok a vagyonkezelésükben lévő és feladataik ellátásához feleslegessé vált ingatlanokat a vagyonkezelési szerződésben meghatározottak szerint adhatják bérbe.
+
+(2)[^12] A Nemzetbiztonsági Szakszolgálat az MNV Zrt. előzetes engedélye és tájékoztatása nélkül jogosult az Nbtv. 8. § (1) bekezdés b) pontja alapján a titkos információgyűjtő, valamint a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat térítésmentesen biztosítani az erre törvény által feljogosított szervezetek részére.
+
+(3)[^13] Az értékesítés szándéka és ténye a Szolgálatok főigazgatójának kezdeményezése alapján a miniszter előzetes jóváhagyásával hozható nyilvánosságra, ha a Szolgálatok a vagyonkezelésükben lévő, feladataik ellátásához feleslegessé vált, az Áhsz. szerinti vagyontárgyakat saját hatáskörben értékesítik.
+
+(4) A (3) bekezdésben meghatározott értékesítések során nem kötelező közjegyző igénybevétele, ha az értékesítési folyamatot legalább három főből álló, a Szolgálatok főigazgatói által kinevezett bizottság felügyeli. A bizottság tagja nem lehet olyan személy, aki az értékesítési eljárás eredményében bármilyen okból érdekelt, vagy akitől egyéb okból nem várható el az értékesítési eljárás szabályszerűségének tárgyilagos megítélése.
+
+### 6. §
+
+(1) A Szolgálatok főigazgatói az Nbtv. 63. § (2) bekezdése alapján a miniszter jóváhagyásával meghatározzák azon ingatlanok körét, amelyek speciális működési kiadásból finanszírozott ingatlannak minősülnek.
+
+(2)[^14]
+
+(3)[^15] Az Nbtv. 63. § (5) bekezdése szerinti vagyont a Szolgálatok saját hatáskörben értékesíthetik. Ettől a Szolgálatok főigazgatója a miniszter jóváhagyásával térhet el.
+
+(4) Az (1) bekezdés szerinti ingatlanok vonatkozásában az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet IX. fejezetében meghatározottak nem alkalmazhatóak.
+
+(5) Az (1) bekezdés szerinti bérelt ingatlanon végzett felújítás költségeit a Szolgálatok vagyonában nem kell kimutatni, azt a bérbeadóval egyeztetett módon a bérleti díjban kell lehetőleg érvényesíteni. Amennyiben a felújítás költsége a fenti módon nem érvényesíthető, akkor azt a speciális működési kiadások terhére kell elszámolni.
+
+(6) Az (1) bekezdés szerinti bérlemény létesítéséhez kapcsolódó, a bérleti díjon felüli biztosíték (kaució) összegét a speciális működési kiadások, illetve bevételek terhére kell elszámolni.
+
+## 4. Beszámolási rendszer és adatszolgáltatás
+
+### 7. §[^16]
+
+(1) A Szolgálatok költségvetését a központi költségvetési tervezésnél Szolgálatonként, kiemelt előirányzatok szerinti bontásban kell szerepeltetni.
+
+(2) A Szolgálatok a jogszabályokban meghatározott adatszolgáltatásokat a fejezetet irányító szerv részére küldik meg.
+
+(3)[^17] A fejezetet irányító szerv a Szolgálatokra vonatkozó éves költségvetés javaslatát, az elemi költségvetést és az éves beszámolót az államháztartásért felelős miniszternek és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottságának küldi meg. Az elemi költségvetést és az éves költségvetési beszámolót a Kincstárhoz a (8) bekezdésben meghatározott adattartalommal kell benyújtani. A mindenkori költségvetés végrehajtásáról szóló törvény összeállításához a Szolgálatok szöveges indokolást készítenek és azt a fejezetet irányító szerv részére megküldik.
+
+(4) A fejezetet irányító szerv a Szolgálatokra vonatkozó, jogszabályban meghatározott adatszolgáltatásokat a (8) bekezdésben meghatározott összevont adattartalommal a Kincstárnak és az államháztartásért felelős miniszternek küldi meg.
+
+(5)[^18] A kincstári költségvetési jelentéshez a Szolgálatok az Áhsz. szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tizedik napjáig. A Szolgálatok az Ávr. 156. § (4) bekezdése szerinti határidőben történő egyeztetést nem végzik.
+
+(6)[^19] Az államháztartás végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 169. § (1) bekezdése szerinti időközi költségvetési jelentést a Szolgálatok az (5) bekezdésében meghatározott adattartalommal készítik el. Az Ávr. 5. mellékletében foglalt táblázat 21. sorában meghatározott, az időközi költségvetési jelentést alátámasztó főkönyvi kivonatot a Szolgálatok nem küldik meg a Kincstárnak.
+
+(7) A Szolgálatok időközi mérlegjelentéseit a fejezetet irányító szerv a Kincstárnak nem továbbítja.
+
+(8) Az adatszolgáltatásokról készített összesítésekben a Szolgálatok által megadott
+
+1\. személyi juttatások kiemelt előirányzatot a „K1101. Törvény szerinti illetmények, munkabérek” rovaton,
+
+2\. a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatot a „K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó” rovaton,
+
+3\. a dologi kiadások kiemelt előirányzatot a „K355. Egyéb dologi kiadások” rovaton,
+
+4\. az ellátottak pénzbeli juttatásai előirányzatot a „K48. Egyéb nem intézményi ellátások” rovaton,
+
+5.[^20] az egyéb működési célú kiadások kiemelt előirányzatot a „K5023. Egyéb elvonások, befizetések”, a „K506. Egyéb működési célú támogatások államháztartáson belülre” és a „K512. Egyéb működési célú támogatások államháztartáson kívülre” rovaton,
+
+6\. a beruházások kiemelt előirányzatot a „K64. Egyéb tárgyi eszközök beszerzése, létesítése” rovaton,
+
+7\. a felújítások kiemelt előirányzatot a „K71. Ingatlanok felújítása” rovaton,
+
+8.[^21] az egyéb felhalmozási célú kiadások kiemelt előirányzatot a „K89 Egyéb felhalmozási célú támogatások államháztartáson kívülre”, és „K84 Egyéb felhalmozási célú támogatások államháztartáson belülre” rovaton,
+
+9\. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a „B16 Egyéb működési célú támogatások bevételei államháztartáson belülről” rovaton,
+
+10\. a felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzatot a „B25 Egyéb felhalmozási célú támogatások bevételei államháztartáson belülről” rovaton,
+
+11.[^22] működési bevételek kiemelt előirányzatot a „B411 Egyéb működési bevételek” rovaton,
+
+12\. a felhalmozási bevételek előirányzatot a „B53. Egyéb tárgyi eszközök értékesítése” rovaton,
+
+13.[^23] a működési célú átvett pénzeszközök kiemelt előirányzatot a „B65 Egyéb működési célú átvett pénzeszközök” rovaton,
+
+14.[^24] a felhalmozási célú átvett pénzeszközök kiemelt előirányzatot a „B75 Egyéb felhalmozási célú átvett pénzeszközök” rovaton,
+
+15\. a finanszírozási bevételek kiemelt előirányzatot a maradvány igénybevétele kivételével a „B816. Központi, irányító szervi támogatás” rovaton,
+
+16.[^25] a maradvány igénybevételt a „B813 Maradvány igénybevétele” rovaton,
+
+17.[^26] az államháztartáson belüli megelőlegezések bevételeit a „B814 államháztartáson belüli megelőlegezések” rovaton,
+
+18.[^27] az államháztartáson belüli megelőlegezések visszafizetésének kiadásait a „K914 államháztartáson belüli megelőlegezések visszafizetése” rovaton
+
+kell megjeleníteni.
+
+(9)[^28] Kizárólag a fejezetet irányító szerv és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottsága számára megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan a „hivatásos” és a „nemzetbiztonsági alkalmazott” felosztásnál részletesebb bontású adatokat.
+
+(10)[^29] A Szolgálatok a Központi Statisztikai Hivatal (a továbbiakban: KSH) felé nyílt internetes felületen teljesítendő beruházás-statisztikai jelentésekben összevont adatot szerepeltetnek, amelyet az „Import gépek és berendezések” sorban kell feltüntetni.
+
+(11)[^30] A Szolgálatok a KSH felé a munkaerővel, a munkaerő-költséggel és a munkaügyi jelentéssel kapcsolatos valamennyi éves, évközi és időszakos adatszolgáltatást a fejezetet irányító szerv részére nyújtják be. Az adatszolgáltatást – összevont adatok szerepeltetésével – a fejezetet irányító szerv küldi meg a KSH részére.
+
+(12)[^31] A kincstári körbe tartozó költségvetési szerv elismert tartozásállományáról készített adatszolgáltatásban a Szolgálatok kizárólag összevont adatot szerepeltetnek, amelyet a „19. Államháztartáson kívülre, egyéb” sorban kell feltüntetni. A Szolgálatok az összevont adatot a fejezetet irányító szerv és a Kincstár részére megküldik.
+
+(13)[^32] A Szolgálatok az Ávr. 172/A. §-a szerinti felhasználási tervben a kötelezettségvállalásokra vonatkozó adatot, valamint a kiadások összesen sor „ebből” és „tájékoztató adat” sorait nem tüntetik fel, a sajátos kiadásokat és bevételeket pedig összevont adatként – részletező, tájékoztató adatok nélkül – szerepeltetik.
+
+### 8. §
+
+(1)[^33] Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás a Szolgálatokról a Szolgálat
+
+1\. törzskönyvi azonosító számát,
+
+2\. egyedi megnevezését,
+
+3\. székhelyét,
+
+4\. alaptevékenységét az alapító okirat szerint,
+
+5.[^34] adószámát, KSH statisztikai számjelét és a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága kizárólagos illetékességi körébe tartozását,
+
+6\. felett alapítói jogok gyakorlására jogosult megnevezését,
+
+7\. alapító okiratának és megszüntető okiratának keltét, alapításának és megszüntetésének időpontját,
+
+8\. által létesíthető, foglalkoztatásra irányuló jogviszonyok megnevezését,
+
+9\. irányító szervének megnevezését,
+
+10\. vezetőjének nevét, kinevezésének időpontját,
+
+11\. nettó finanszírozási körbe tartozását, annak kezdő és záró időpontját,
+
+12\. központosított illetmény-számfejtési körbe tartozását, annak kezdő és záró időpontját, és
+
+13\. megszüntetése esetén az ezzel kapcsolatos adatokat
+
+tartalmazza.
+
+(2) A törzskönyvi nyilvántartás szerinti, de kincstári nyilvántartásba nem vehető adatokat a Szolgálatok tartják nyilván. Ezen adatokról külső szerv csak a főigazgató engedélyével kaphat tájékoztatást.
+
+### 9. §[^35]
+
+Ha a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az Áhsz. 50. § (3) bekezdésében meghatározott önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.
+
+### 10. §[^36]
+
+A Szolgálatok előirányzataik terhére elszámolhatják a feladataik végrehajtása során felmerülő kiadásaikat a feladat végrehajtásában érintett személyi állomány tagja nevére, címére kiállított számla alapján is az Ávr. 59. § (1) bekezdésében meghatározott teljesítés igazolás megléte esetén.
+
+## 5. Speciális kiadások és bevételek
+
+### 11. §
+
+(1)[^37] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális működési kiadások fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül egy összegben a „K355. Egyéb dologi kiadások” rovaton kell tervezni és elszámolni, tekintet nélkül arra, hogy az személyi jellegű, felhalmozási, felújítási célú vagy dologi kiadás. Ilyen kiadás esetén az elszámolás alapokmányául számla, személyi állomány tagja nevére, címére, illetve fedőnévre kiállított számla vagy egyéb számviteli bizonylat – ideértve a számlát helyettesítő belső bizonylatot vagy a számlával egy tekintet alá eső okiratot is – elfogadható az Ávr. 59. §-ában meghatározott teljesítés igazolás megléte esetén.
+
+(2) A speciális működési kiadások körébe eső, az Nbtv. 63. § (3) és (4) bekezdésében meghatározott, személyi jövedelemadó-köteles kifizetések után levont adót a Szolgálatok havonta egy összegben utalják át az adóhatóságnak.
+
+(3)[^38] A Szolgálatok alapfeladatai ellátásához szükséges speciális kiadások teljesítéséhez pénzforgalmi szolgáltatóknál fizetési számla, devizaszámla nyitható. A számláról, devizaszámláról sem a Szolgálatoknak, sem a számlavezető pénzforgalmi szolgáltatónak nem kell a Kincstár részére adatot szolgáltatnia.
+
+(4) A (3) bekezdésben szereplő számlákra történő pénzmozgások teljes összegét a pénzmozgás időpontjában a megfelelő jogcímeken a Szolgálatoknál kiadásként kell könyvelni.
+
+(5)[^39] A (3) bekezdésben szereplő számlákról kizárólag olyan vagyon beszerzését szolgáló kiadások teljesíthetőek, amelyek felett azok megszerzését követően az Nbtv. 63. § (5) bekezdése alapján a Szolgálatok gyakorolják a tulajdonosi jogok és kötelezettségek összességét.
+
+(6) A (3) bekezdésben szereplő számlán keletkezett kamat az érintett szolgálat speciális bevétele.
+
+(7) A Szolgálatok a (3) bekezdésben szereplő számlákról tranzakció mélységig a számviteli rendszertől elkülönített nyilvántartást vezetnek. A számlák év végi egyenlegét nem kell a könyvviteli mérlegben szerepeltetni. A számlák év végi egyenlegéről, összetételéről (tőke, lekötött tőke, kamat), annak indokolásáról az éves elemi költségvetési beszámoló szöveges indokolásában, annak külön mellékletében kell – a műveleti szempontokat figyelembe véve – tájékoztatni a fejezetet irányító szervet. Ezt a mellékletet a miniszter külön jóváhagyja.
+
+(8)[^40] A Szolgálatok a speciális bevételeket és kiadásokat készpénzben is teljesíthetik, amelyhez a házipénztárban
+
+a) az áthúzódó feladatok fedezetére év végén elkülönített módon készpénzt tarthatnak,
+
+b) az alkalmazottak elszámolási kötelezettséggel előleget vehetnek fel,
+
+c) a tárgyévet követő év január 15. napjáig történő kifizetést a tárgyév terhére kell elszámolni.
+
+(9)[^41] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális bevételeiket a működési bevételek kiemelt előirányzaton belül egy összegben a „B411. Egyéb működési bevételek” rovaton tervezik és számolják el. Az ilyen bevételekről elkülönített nyilvántartást kell vezetni és azok éves összegéről az éves költségvetési beszámoló szöveges indokolásában kell – a műveleti szempontokat figyelembe véve – tájékoztatást adni a fejezetet irányító szerv vezetője részére. A Szolgálatok az ilyen bevételek teljes összegét felhasználhatják kiadásaik fedezésére.
+
+(10) Az (1) és (3)–(6), valamint a (8) bekezdés szerinti speciális működési kiadásokra és bevételekre vonatkozó felhasználás, bizonylatolás, elszámolás és ellenőrzés részletes szabályait a miniszter külön utasításban határozza meg.
+
+## 6.[^42]
+
+## 7. Záró rendelkezések
+
+### 14. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § a 186/2016. (VII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 239/2022. (VI. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: A 2. § (1a) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 569. §-a szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (5) bekezdését a 85/2023. (III. 21.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^8]: A 3. § (1) bekezdése a 85/2023. (III. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdése a 85/2023. (III. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^15]: A 6. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 7. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 7. § (5) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A 7. § (6) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 7. § (8) bekezdés 5. pontja a 85/2023. (III. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^21]: A 7. § (8) bekezdés 8. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cb) alpontja szerint módosított szöveg.
+[^22]: A 7. § (8) bekezdés 11. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cc) alpontja szerint módosított szöveg.
+[^23]: A 7. § (8) bekezdés 13. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cd) alpontja szerint módosított szöveg.
+[^24]: A 7. § (8) bekezdés 14. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont ce) alpontja szerint módosított szöveg.
+[^25]: A 7. § (8) bekezdés 16. pontja a 801/2021. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^26]: A 7. § (8) bekezdés 17. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 7. § (8) bekezdés 18. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^28]: A 7. § (9) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^29]: A 7. § (10) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^30]: A 7. § (11) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^31]: A 7. § (12) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^32]: A 7. § (13) bekezdését a 24/2025. (II. 27.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^33]: A 8. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 8. § (1) bekezdés 5. pontja a 486/2015. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^35]: A 9. § az 553/2013. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^36]: A 10. § az 553/2013. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^37]: A 11. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^38]: A 11. § (3) bekezdése a 85/2023. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: A 11. § (5) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 11. § (8) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: A 11. § (9) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 142/2016. (VI. 13.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^42]: A 6. alcímet (12–13. §) az 553/2013. (XII. 31.) Korm. rendelet 8. §-a hatályon kívül helyezte.

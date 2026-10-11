@@ -1,0 +1,869 @@
+---
+title: "328/2011. (XII. 29.) Korm. rendelet a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról"
+identifier: "328/2011. (XII. 29.) Korm. rendelet"
+njt_id: "2011-328-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/328"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-29
+in_force_from: 2012-01-13
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-328-20-22"
+retrieved: 2026-10-12
+---
+
+# 328/2011. (XII. 29.) Korm. rendelet a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról
+
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés c) pontjában,
+
+a 17. és 18. § tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés b) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendeletet
+
+a) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § s) pont sa) alpontja szerinti állami fenntartó,
+
+b)[^1] ha az ellátást normatív állami hozzájárulás, illetve külön jogszabályban meghatározott költségvetési támogatás igénybevételével biztosítja
+
+ba) a Gyvt. 5. § s) pont sb) alpontja szerinti egyházi fenntartó,
+
+bb) a Gyvt. 5. § s) pont sc)–se) alpontja szerinti nem állami fenntartó
+
+által fenntartott intézményben a gyermekjóléti alapellátás keretében biztosított gyermekek napközbeni ellátásáért, átmeneti gondozásáért, a gyermekvédelmi szakellátás keretében biztosított utógondozói ellátásért, valamint a Gyvt. 151. § szerinti gyermekétkeztetésért fizetendő térítési díjak megállapítására kell alkalmazni.
+
+(2) E rendelet hatálya nem terjed ki
+
+a)[^2] a javítóintézetek által nyújtott utógondozói ellátásért fizetendő térítési díjra,
+
+b) a gyermekétkeztetés kivételével az óvodai nevelés, az iskolai nevelés-oktatás, a kollégiumi nevelés keretében biztosított szolgáltatásokra.
+
+## 2. Általános szabályok
+
+### 2. §
+
+(1) A Gyvt. 147. §-ában foglaltak szerinti, szolgáltatási önköltség és normatív állami hozzájárulás különbözeteként számított intézményi térítési díjat akkor is dokumentálni kell, ha az ellátáshoz nyújtott saját hozzájárulás révén a fenntartó alacsonyabb intézményi térítési díjat határoz meg.
+
+(1a)[^3] Az intézményi térítési díjat több szolgáltatás és ellátás nyújtása esetében is szolgáltatásonként (ellátásonként) kell meghatározni, a közös költségelemek szolgáltatásonkénti (ellátásonkénti) közvetlen költségeinek arányában történő megosztásával.
+
+(2)[^4] A Szociális és Gyermekvédelmi Főigazgatóság fenntartásában működő intézmény esetében az intézményi térítési díjat
+
+a)[^5] a b) pontban meghatározott kivétellel vármegyei kirendeltség állapítja meg,
+
+b) a Szociális és Gyermekvédelmi Főigazgatóság létrehozásáról szóló kormányrendelet 1. melléklete szerinti intézmény esetében a Szociális és Gyermekvédelmi Főigazgatóság központi szerve állapítja meg.
+
+(3)[^6]
+
+(4)[^7] Az egyházi fenntartású vagy a nem állami fenntartású intézmény intézmény esetében az intézményi térítési díjat a fenntartó vezető testülete vagy a képviseletre jogosult személy állapítja meg.
+
+(5) Az intézményi térítési díj szolgáltatónként, intézményenként, telephellyel rendelkező szolgáltató, intézmény esetén – ha ott ellátás nyújtására is sor kerül – székhelyenként, valamint telephelyenként külön-külön is meghatározható.
+
+### 3. §
+
+(1)[^8] A települési, fővárosi kerületi és fővárosi önkormányzat, valamint ellátási szerződést kötött egyházi fenntartású és a nem állami fenntartású intézmény intézményi térítési díjának összegéről a jegyző, a fővárosi kerületi jegyző és a főjegyző az intézmény ellátási területén élő lakosságot a helyben szokásos módon tájékoztatja.
+
+(2)[^9] Ha az (1) bekezdés szerinti intézmény ellátási területe több települési (fővárosi kerületi) önkormányzat működési területére terjed ki, az intézmény fenntartója az intézményi térítési díjról értesíti a vármegyei, fővárosi önkormányzat főjegyzőjét, aki gondoskodik a lakosság, valamint az érintett önkormányzatok tájékoztatásáról.
+
+(3)[^10] Ha az (1) bekezdés szerinti intézmény ellátási területe több vármegyére vagy az ország egész területére kiterjed, az óvodában, nyári napközis otthonban, az általános és középiskolai kollégiumban, az itt szervezett externátusi ellátásban, valamint az általános iskolai és középfokú iskolai menzai ellátás keretében biztosított gyermekétkeztetés esetén az intézmény fenntartója gondoskodik az intézményi térítési díj összegének a Szociális Ágazati Portálon való közzétételéről. Önkormányzati társulás által fenntartott intézmény, szolgáltató esetében a tájékoztatási kötelezettséget a társulás székhelye szerinti jegyző teljesíti.
+
+(4)[^11] A Szociális és Gyermekvédelmi Főigazgatóság által fenntartott intézmények intézményi térítési díját a honlapján közzé kell tenni. Amennyiben az intézmény ellátási területe nem országos, az intézményi térítési díjról tájékoztatni kell az ellátási terület szerinti önkormányzat jegyzőjét, főjegyzőjét, aki gondoskodik a lakosság, valamint az ellátási terület szerint érintett önkormányzatok tájékoztatásáról.
+
+(5)[^12]
+
+### 4. §
+
+(1)[^13] A Gyvt. 146. § (2) bekezdése szerinti kötelezett (a továbbiakban: kötelezett) az ellátásért a Gyvt.-ben, az e rendeletben, valamint a helyi önkormányzat rendeletében foglaltak szerint köteles a személyi térítési díjat megfizetni.
+
+(1a)[^14] Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
+
+(2)[^15] A Gyvt. 148. § (10) és (10a) bekezdése szerinti esetben a kötelezett az intézményi térítési díjjal azonos személyi térítési díj vagy a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését egy év időtartamra vállalhatja, amely időtartam meghosszabbítható.
+
+(3) Ha a (2) bekezdés szerinti időtartam meghosszabbítására nem kerül sor, a személyi térítési díj megállapítására vonatkozó általános szabályokat kell alkalmazni.
+
+### 5. §
+
+(1)[^16] Az intézményi térítési díjat és a személyi térítési díjat – a bölcsődei ellátást nyújtó intézmény, szolgáltató alapellátáson túli szolgáltatásai kivételével –
+
+a)[^17] a Gyvt. 44/C. §-a szerinti napközbeni gyermekfelügyelet keretében biztosított gondozó tevékenység esetében gondozási órára,
+
+b) az *a)* pontban nem említett napközbeni ellátások esetében ellátási napra,
+
+c) az átmeneti gondozás és az utógondozói ellátás esetében ellátási napra és hónapra
+
+vetítve kell megállapítani.
+
+(2) A intézményi térítési díjat és a személyi térítési díjat az 1 és 2 forintos címletű érmék bevonása következtében szükséges kerekítés szabályairól szóló 2008. évi III. törvény 2. §-ának megfelelő módon kerekítve kell meghatározni.
+
+### 6. §
+
+(1) Ha a személyi térítési díj az intézményi elhelyezést követő 30 napon belül nem állapítható meg, az intézményvezető térítésidíj-előleg fizetését kérheti.
+
+(2) A személyi térítési díj megállapításakor intézkedni kell arról, hogy az (1) bekezdés szerinti előleg, illetve az előleg fizetésének időszakára jutó személyi térítési díj közötti különbözet kiegyenlítése megtörténjék.
+
+### 7. §
+
+(1) Ha a fenntartó eltérően nem rendelkezik, a személyi térítési díjat
+
+a) gyermekétkeztetésnél legfeljebb egy havi időtartamra előre,
+
+b) a gyermekek napközbeni ellátásának igénybevétele esetén legfeljebb egy havi időtartamra előre,
+
+c) az átmeneti gondozást nyújtó intézmény, valamint az utógondozói ellátás igénybevétele esetén havonta utólag
+
+kell megfizetni.
+
+(2)[^18] Ha a bölcsődei ellátás, a napközbeni gyermekfelügyelet, a gyermekek átmeneti gondozása vagy az utógondozói ellátás igénybevétele nem a hónap első napján kezdődik (tört havi ellátás), akkor az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
+
+### 8. §
+
+(1)[^19] A Gyvt. 148. § (1) bekezdése szerinti intézményvezető az ellátást igénybe vevő személy térítésidíj-fizetési kötelezettségét – a gyermekétkeztetés és a Gyvt. 148. § (10) és (10a) bekezdése szerinti eset kivételével – az 1. melléklet szerint dokumentálja.
+
+(2)[^20] A bölcsődei ellátás, a napközbeni gyermekfelügyelet, a gyermekek átmeneti gondozása és az utógondozói ellátás esetében az ellátási napokon az ellátást igénybe vevők jelen- vagy távollétét az intézményvezető a 2. melléklet szerint dokumentálja. Az igénybe vevő azon az ellátási napon minősül távollévőnek, amelyen nem tartózkodik az intézményben, illetve nem veszi igénybe a szolgáltatást (ellátást).
+
+## 3. Gyermekek napközbeni ellátása
+
+### 9. §
+
+(1)[^21] Bölcsőde, mini bölcsőde esetében a gyermek Gyvt. 147. § (2) bekezdés szerinti gondozására számított intézményi térítési díj az élelmezés nyersanyagköltségével csökkentett szolgáltatási önköltség és a normatív állami hozzájárulás összegének különbözete. Az élelmezés nyersanyagköltségének meghatározásakor az általános forgalmi adóval növelt összeget kell figyelembe venni.
+
+(2)[^22] Ha a bölcsődében, mini bölcsődében a gondozásért külön nem kívánnak személyi térítési díjat megállapítani, az intézményi térítési díj összegét nullában kell meghatározni és írásban dokumentálni.
+
+(3)[^23] A bölcsődei, mini bölcsődei gondozás személyi térítési díját – a fenntartó eltérő döntése hiányában – akkor is teljes hónapra kell megállapítani, ha a gyermek az ellátást a hónap nem minden napján veszi igénybe.
+
+(4)[^24] A bölcsődei ellátást nyújtó intézmény, szolgáltató alapellátáson túli szolgáltatásaiért legfeljebb a szolgáltatás önköltségét meg nem haladó mértékű térítés kérhető.
+
+### 10. §
+
+(1)[^25] A munkahelyi bölcsőde és a családi bölcsőde intézményi térítési díja nem haladhatja meg az egy ellátottra jutó szolgáltatási önköltség és a tárgyévi normatív állami hozzájárulás különbségének az egy napra jutó összegét.
+
+(2)[^26] A munkahelyi bölcsőde és a családi bölcsőde személyi térítési díját a 9. § (3) bekezdés szerint kell megállapítani.
+
+(3)[^27]
+
+(4)[^28] Ha a munkahelyi bölcsődét és a családi bölcsődét a szolgáltatás igénybevételére vonatkozó megállapodásban foglaltak szerint a gyermek a csak a hét bizonyos napjain veszi igénybe, jelen- vagy távollétét a 2. mellékletben kizárólag ezeken a napokon kell dokumentálni.
+
+### 11. §
+
+Ha a fenntartó az alternatív napközbeni ellátás igénybevételét térítési díj fizetéséhez köti, az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
+
+### 12. §
+
+(1)[^29] A Gyvt. 44/C. §-a szerinti napközbeni gyermekfelügyelet keretében biztosított személyes szolgáltatás intézményi térítési díja az ellátásra tervezett költségek alapján megállapított óradíj. Az óradíj nem haladhatja meg az adott évben a házi gyermekfelügyeletre tervezett éves kiadásoknak egy munkaórára és egy gondozóra jutó összegét. Az évi munkaórák száma a munkanapok és a napi teljes munkaidő szorzata.
+
+(2) Az óradíj meghatározásánál csak a hivatásos és a díjazásban részesülő társadalmi gondozók száma vehető figyelembe.
+
+(3)[^30] A Gyvt. 44/C. §-a szerinti napközbeni gyermekfelügyelet keretében végzett tevékenységet a 3. melléklet szerinti gondozási naplóban kell dokumentálni.
+
+(4) A gondozási naplóban ellátásra fordított időként kell feltüntetni a lakásban töltött időn kívül a gyermekkel egyéb helyen eltöltött, illetve a gyermek érdekében végzett tevékenységre fordított időt is.
+
+## 3/A. [^31] Gyermekétkeztetés
+
+### 13. §
+
+(1)[^32] Ha az intézményi és szünidei gyermekétkeztetést betegség vagy más ok miatt a gyermek nem veszi igénybe, a kötelezett az intézmény vezetőjénél, a szünidei gyermekétkeztetést biztosítónál bejelenti
+
+a) a távolmaradást és annak várható időtartamát, valamint
+
+b) a távolmaradásra okot adó körülmény megszűnését és azt, hogy a gyermek mikor veszi igénybe újból a gyermekétkeztetést.
+
+(1a)[^33] Ha az intézmény házirendje vagy az étkeztetésre vonatkozó szabályzata kedvezőbben nem rendelkezik, a kötelezett az (1) bekezdés a) pontja szerinti bejelentést követő naptól a távolmaradás idejére mentesül az intézményi gyermekétkeztetésért fizetendő térítési díj fizetésének kötelezettsége alól.
+
+(2)[^34] Az intézményi gyermekétkeztetés személyi térítési díjának előre történő megfizetése esetén, ha az adott hónapra fizetendő térítési díj összege kevesebb, mint a már befizetett összeg, úgy a többletet a következő fizetés alkalmával be kell számítani, vagy vissza kell fizetni. Ha a fizetendő személyi térítési díj összege növekszik, a befizetett és a ténylegesen fizetendő összeg különbözetét visszamenőleg kell megfizetni.
+
+(3)[^35] Helyettes szülőnél vagy gyermekek átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat a helyettes szülő vagy a gyermekek átmeneti otthona fizeti meg.
+
+(4)[^36] Családok átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat, ha a családok átmeneti otthona
+
+a) teljes körű ellátást biztosít, a családok átmeneti otthona,
+
+b) szükség szerinti ellátást biztosít, a szülő
+
+fizeti meg.
+
+(5)[^37] Az intézményvezető az intézményi gyermekétkeztetés, a települési önkormányzat a szünidei gyermekétkeztetés igénybevételét a 4. melléklet szerint dokumentálja.
+
+(6)[^38] (6) Az intézmény vezetője az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeiről, a szünidei gyermekétkeztetésről és az igénybevétel módjáról tájékoztatja a kötelezettet
+
+a) a beíratáskor,
+
+b) az ellátás igénybevételének megkezdésekor, és
+
+c) az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeinek megváltozásakor.
+
+### 13/A. §[^39]
+
+(1) A szünidei gyermekétkeztetés keretében a gyermek lakóhelye, vagy ha a gyermek életvitelszerűen a bejelentett tartózkodási helyén lakik, a tartózkodási helye szerinti települési önkormányzat (ezen alcím alkalmazásában a továbbiakban együtt: települési önkormányzat) a déli meleg főétkezés helyben történő elfogyasztásának megszervezéséről gondoskodik. Ha a helyben történő elfogyasztásra nincs lehetőség, így különösen erre alkalmas helyiség hiánya esetén, a szünidei gyermekétkeztetés az étel elvitelével vagy a gyermek számára történő kiszállításával is biztosítható.
+
+(2) A szünidei gyermekétkeztetés során, ha az étel helyben történő elfogyasztását a gyermek előre nem látható hiányzása, betegsége vagy egyéb ok akadályozza, a részére biztosított étel elvitelét a szülője, más törvényes képviselője vagy a szülő, más törvényes képviselő által megbízott személy számára lehetővé kell tenni. Ha erre nem kerül sor, akkor az étel másik, a Gyvt. 21/C. §-ában foglaltaknak megfelelő gyermek számára átadható helyben történő elfogyasztásra vagy elvitel formájában.
+
+(3) A települési önkormányzat a szünidei gyermekétkeztetést
+
+a) a tanév rendjéről szóló miniszteri rendeletben meghatározott őszi, téli és tavaszi tanítási szünet, valamint az ezen időtartamra eső, a bölcsődei ellátást nyújtó intézmény és az óvoda zárva tartásának időtartama alatti munkanapokon (a továbbiakban együtt: évközi szünet), és
+
+b) a tanév rendjéről szóló miniszteri rendeletben meghatározott nyári tanítási szünet időtartama alatt legalább 43 munkanapon, valamint az ezen időtartamra eső, a bölcsődei ellátást nyújtó intézmény és az óvoda zárva tartásának időtartama alatti munkanapokon (a továbbiakban együtt: nyári szünet)
+
+szervezi meg.
+
+(4) A szünidei gyermekétkeztetés biztosításának időszaka a gyermek más településen történő táborozása vagy más okból való akadályoztatása esetén az adott gyermek tekintetében a (3) bekezdésében meghatározott időtartamnál rövidebb is lehet.
+
+(5) A szünidei gyermekétkeztetéshez kapcsolódóan a települési önkormányzat szabadidős programot biztosíthat a gyermekek számára, különösen a nyári szünet időtartama alatt.
+
+### 13/B. §[^40]
+
+(1) A települési önkormányzat jegyzője írásban tájékoztatja azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjét vagy más törvényes képviselőjét (a 13/B. § alkalmazásában a továbbiakban együtt: jogosult), akinek gyermeke tekintetében a hátrányos vagy halmozottan hátrányos helyzet az adott év
+
+a) szeptember 1-jén fennáll, az évközi szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről, az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és módjáról minden év szeptember 15-éig,
+
+b) május 1-jén fennáll, a nyári szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről, az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és módjáról minden év május 15-éig.
+
+(2) A települési önkormányzat jegyzője, ha a gyermek hátrányos vagy halmozottan hátrányos helyzetét
+
+a) az adott év szeptember 1-je és a következő év április 30-a között állapította meg, a hátrányos, halmozottan hátrányos helyzet megállapításával egyidejűleg tájékoztatja a jogosultat az (1) bekezdés a) pontjában foglaltakról,
+
+b) az adott év május 1-je és augusztus 15-e között állapította meg, a hátrányos, halmozottan hátrányos helyzet megállapításával egyidejűleg tájékoztatja a jogosultat az (1) bekezdés b) pontjában foglaltakról.
+
+(3) A települési önkormányzat jegyzője az (1) és (2) bekezdés szerinti tájékoztatással egyidejűleg megküldi a jogosultnak a szünidei gyermekétkeztetés igényléséhez szükséges 7. melléklet szerinti nyilatkozatot. Ha a jogosult több hátrányos vagy halmozottan hátrányos helyzetű gyermeket nevel, a gyermekek számának megfelelő számú nyilatkozatot kell számára megküldeni.
+
+(4) A települési önkormányzat jegyzője az (1) és (2) bekezdés szerinti tájékoztató kiküldésével egyidejűleg a tájékoztató címzettjeiről értesíti a család- és gyermekjóléti szolgálatot.
+
+(5)[^41] A család- és gyermekjóléti szolgálat a (4) bekezdés szerinti értesítés alapján felveszi a kapcsolatot a hátrányos helyzetű és a rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermeket nevelő családdal, és szükség szerint segítséget nyújt a jogosultnak a 7. melléklet szerinti nyilatkozat kitöltéséhez és benyújtásához.
+
+(6) A 7. melléklet szerinti nyilatkozat – az évközi szünet időtartama kivételével – a nevelési év, tanév során bármikor benyújtható, illetve módosítható.
+
+(7) A települési önkormányzat jegyzője minden egyes szünidei gyermekétkeztetés megkezdése előtt a helyben szokásos módon, valamint az intézményi gyermekétkeztetést biztosító intézményeken keresztül felhívja a jogosultak figyelmét a szünidei gyermekétkeztetésre, annak időtartamára és helyszínére.
+
+(8) A települési önkormányzat jegyzője az adott szünidei gyermekétkeztetés megkezdése előtt vizsgálja, hogy a szünidei gyermekétkeztetés megkezdésekor a rendszeres gyermekvédelmi kedvezményben részesülő gyermek hátrányos vagy halmozottan hátrányos helyzete az azt megállapító határozat alapján fennáll-e. Ha a gyermek hátrányos vagy halmozottan hátrányos helyzete a szünidei gyermekétkeztetés megkezdését megelőző harmincadik napon fennállt, azt a gyermekétkeztetés megkezdésekor is fennállónak kell tekinteni.
+
+(9) Ha a települési önkormányzat jegyzője azt állapítja meg, hogy a gyermek nem jogosult a szünidei gyermekétkeztetésre, erről írásban értesíti a szünidei gyermekétkeztetést igénylő szülőt, más törvényes képviselőt.
+
+## 4. Gyermekek átmeneti gondozása
+
+### 14. §
+
+(1) Az átmeneti gondozás intézményi térítési díja nem haladhatja meg az egy ellátottra jutó szolgáltatási önköltség és a tárgyévi normatív állami hozzájárulás különbözetének az egy napra jutó összegét.
+
+(2) Átmeneti gondozás esetén a havi intézményi térítési díj – az adott hónap naptári napjainak számától függetlenül – a napi intézményi térítési díj harmincszorosa.
+
+(3) Átmeneti gondozás esetén a személyi térítési díjat akkor is teljes hónapra kell megállapítani, ha az ellátást a hónap nem minden napján vették igénybe.
+
+(4) Ha az átmeneti gondozást biztosító intézményből az ellátott az intézmény vezetőjének engedélye alapján távozik, vagy kórházba, gyógyintézetbe kerül, a távollét idejére a megállapított személyi térítési díj 20%-át fizeti.
+
+(5) Ha az ellátást az igénybe vevő a hónap nem mindegyik napján veszi igénybe, a távolléti napok számát meg kell szorozni a (4) bekezdésben foglaltak szerint számított csökkentett összegű napi személyi térítési díjjal, a jelenléti napok számát pedig meg kell szorozni a teljes összegű napi személyi térítési díjjal. A két szorzat összege az adott hónapra fizetendő térítési díj. A jelenléti napok számát – az adott hónap naptári napjainak számától függetlenül – úgy kell meghatározni, hogy 30 napból le kell vonni a távolléti napok számát, valamint azoknak a napoknak a számát, amelyeken a jogviszony nem állt fenn.
+
+(6)[^42] A családok átmeneti otthona külső férőhelyén a Gyvt. 150. § (4a) bekezdés b) pontja szerinti lakhatási költségként a fűtés-, áram-, gáz-, víz- és csatornaszolgáltatásért, szemétszállításért fizetendő díjak és a közös költség együttes összege állapítható meg.
+
+## 5. Utógondozói ellátás
+
+### 15. §
+
+(1) Utógondozói ellátás esetén az intézményi térítési díj nem haladhatja meg az egy ellátottra jutó szolgáltatási önköltség és a tárgyévi normatív állami hozzájárulás különbözetének az egy napra jutó összegét.
+
+(2) Utógondozói ellátás esetén a havi intézményi térítési díj – az adott hónap naptári napjainak számától függetlenül – a napi intézményi térítési díj harmincszorosa.
+
+(3) Az utógondozói ellátás egy napra jutó személyi térítési díját az intézményvezető a fiatal felnőtt rendszeres havi nettó jövedelmének figyelembevételével állapítja meg.
+
+(4) Utógondozói ellátás esetén a személyi térítési díjat akkor is teljes hónapra kell megállapítani, ha az ellátást a hónap nem minden napján vették igénybe.
+
+(5) Ha az utógondozói ellátásban részesülő előre bejelenti, hogy – különösen a tanulmányaival, munkájával, személyes kapcsolatainak ápolásával összefüggésben – az intézményből távozik, vagy kórházba, gyógyintézetbe kerül, a távollét idejére a megállapított személyi térítési díj 20%-át fizeti.
+
+(6) Az utógondozói ellátásra jogosult fiatal felnőtt a Gyvt. 150. § (3) bekezdés e) pontjában meghatározottnál magasabb összegű személyi térítési díj megfizetésére akkor sem kötelezhető, ha az ellátást gyermekével együtt veszi igénybe.
+
+(7) Ha az utógondozói ellátást a fiatal felnőtt a hónap nem mindegyik napján veszi igénybe, a távolléti napok számát meg kell szorozni az (5) bekezdésben foglaltak szerint számított csökkentett összegű napi személyi térítési díjjal, a jelenléti napok számát pedig meg kell szorozni a teljes összegű napi személyi térítési díjjal. A két szorzat összege az adott hónapra fizetendő személyi térítési díj. A jelenléti napok számát a 14. § (5) bekezdésében foglaltak szerint kell megállapítani.
+
+## 6. A térítési díj befizetése és ellenőrzése
+
+### 16. §
+
+(1)[^43] A személyi térítési díjat az igénybevétel napjától havonként – ha a települési önkormányzat vagy a megállapodás másként nem rendelkezik –
+
+a)[^44] bölcsődei ellátás és intézményi gyermekétkeztetés esetén a tárgyhónap 10. napjáig,
+
+b)[^45] Gyvt. 44/C. §-a szerinti napközbeni gyermekfelügyelet, átmeneti gondozás és utógondozói ellátás esetén a tárgyhónapot követő hónap 10. napjáig
+
+kell befizetni az ellátást nyújtó intézmény elszámolási számlájára.
+
+(2)[^46] Az intézmény vezetője ellenőrzi, hogy a megállapított térítési díj befizetése havonként megtörténik-e. Ha a kötelezett a befizetést elmulasztotta, az intézményvezető 15 napos határidő megjelölésével a kötelezettet írásban felhívja az elmaradt térítési díj befizetésére. Ha a határidő eredménytelenül telt el, az intézmény vezetője a kötelezett nevét, lakcímét és a fennálló díjhátralékot nyilvántartásba veszi.
+
+(3) A (2) bekezdés szerint nyilvántartott díjhátralékról az intézmény vezetője negyedévenként tájékoztatja a fenntartót a térítésidíj-hátralék behajtása vagy a behajthatatlan hátralék törlése érdekében.
+
+## 7. Az ellátások igényléséhez és a térítési díjak megállapításához felhasználható bizonyítékok köre
+
+### 17. §[^47]
+
+(1)[^48] A személyi térítési díj megállapításához a kötelezett – a (2) bekezdésben foglalt kivétellel – 30 napnál nem régebbi, az 5. melléklet szerinti jövedelemnyilatkozatot nyújt be az intézményvezetőnek.
+
+(2)[^49] A kötelezett
+
+a) a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes intézményi gyermekétkeztetés igénybevételéhez a 6. melléklet szerinti nyilatkozatot,
+
+b) a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezdése szerinti ingyenes és kedvezményes intézményi gyermekétkeztetés igénybevételéhez a 8. melléklet szerinti nyilatkozatot és az adott jogcím igazolására a 18. §-ban előírt dokumentumot
+
+nyújtja be az intézményvezetőnek.
+
+(3)[^50] A kötelezett egy nyilatkozatot nyújt be, ha az ugyanazon intézménybe járó több gyermeke után azonos jogcímen igényli az ingyenes vagy kedvezményes gyermekétkeztetést.
+
+### 18. §
+
+(1)[^51] Bölcsődei, mini bölcsődei gondozás esetében a Gyvt. 150. § (6) bekezdés c) pontja szerinti térítésidíj-fizetési mentesség és intézményi gyermekétkeztetés esetében a Gyvt. 21/B. § (2) bekezdés b) pontja szerinti normatív kedvezmény megállapításához be kell szerezni a kötelezett nyilatkozatát. A nyilatkozatnak tartalmaznia kell a Gyvt. 21/B. § (3) bekezdésben meghatározott gyermekek számát.
+
+(2) Az (1) bekezdés szerinti gyermekek számában történt változást az intézmény vezetőjének a változást követő 15 napon belül írásban be kell jelenteni.
+
+(3) Az eltartott gyermekek számának megváltozása esetén az új térítési díjat a (2) bekezdés szerinti bejelentést követő hónap első napjától kell megfizetni.
+
+(4)[^52] A kötelezett – a (4a) bekezdésben foglalt kivétellel – benyújtja az intézményvezetőnek a rendszeres gyermekvédelmi kedvezményre való jogosultságot megállapító hatósági döntés másolatát bölcsődei, mini bölcsődei gondozás esetében a Gyvt. 150. § (6) bekezdés a) pontjában, továbbá gyermekétkeztetés esetében a Gyvt. 21/B. § (1) bekezdés b) pont ba) alpontjában és *c)* pontjában, valamint a Gyvt. 21/B. § (2) bekezdés a) pontjában foglalt ingyenes és kedvezményes gyermekétkeztetés igénybevételéhez.
+
+(4a)[^53] Ha a szülő, más törvényes képviselő a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 66/A. § (2) bekezdése alapján a rendszeres gyermekvédelmi kedvezmény első alkalommal történő megállapításakor kérte a határozat egy példányának megküldését a gyermekétkeztetést biztosító intézmény számára, a határozat érvényességének időtartama alatt a határozat másolatát nem kell benyújtania az intézményvezetőnek.
+
+(4b)[^54] Ha a bölcsődei, mini bölcsődei gondozás térítésmentessége a Gyvt. 150. § (6) bekezdés d) pontja alapján, vagy az ingyenes intézményi gyermekétkeztetésre való jogosultság a Gyvt. 21/B. § (1) bekezdés b) pont bb) alpontja vagy *d)* pontja alapján áll fenn, a gondozási helyet biztosító intézmény vezetője a 9. melléklet szerinti igazolást nyújtja be az intézményvezetőnek.
+
+(5)[^55] Bölcsődei, mini bölcsődei gondozásnál a Gyvt. 150. § (6) bekezdés b) pontjában, valamint intézményi gyermekétkeztetésnél a Gyvt. 21/B. § (2) bekezdés c) pontjában foglaltak fennállását a magasabb összegű családi pótlék megállapításáról szóló határozat másolatával, ennek hiányában
+
+a) tartós betegség esetén szakorvosi igazolással,
+
+b) fogyatékosság esetén a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 7/A. § (1) bekezdése szerinti szakértői és rehabilitációs bizottság szakvéleményével kell igazolni.
+
+(5a)[^56] A fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó fogyatékosok nappali intézményében elhelyezett gyermek ingyenes és kedvezményes intézményi gyermekétkeztetésének igénybevételéhez a kötelezettnek a gyermek fogyatékosságáról külön igazolást nem kell benyújtania.
+
+(5b)[^57] Ha a kötelezett a bölcsődei, mini bölcsődei gondozást a Gyvt. 150. § (6) bekezdés e) pontja alapján kívánja térítésmentesen igénybe venni, benyújtja az intézményvezetőnek a gyermek védelembe vételéről szóló gyámhatósági határozat másolatát.
+
+(6)[^58] Ha a gyermek a Gyvt. 21/B. § (1) és (2) bekezdése szerinti ingyenes és kedvezményes intézményi gyermekétkeztetésre is jogosult, számára az ingyenes étkezésre való jogosultságot kell megállapítani. Ebben az esetben a kötelezettnek kizárólag az ingyenes étkezésre való jogosultság feltételének fennállását kell igazolnia.
+
+(7)[^59] Ha az ingyenes vagy kedvezményes intézményi gyermekétkeztetés igénybevételét, valamint bölcsődében, mini bölcsődében a gyermek gondozásának térítésmentes biztosítását
+
+a)[^60] a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultsága alapozza meg, az ingyenes vagy kedvezményes intézményi gyermekétkeztetés és a térítésidíj-fizetési mentesség a rendszeres gyermekvédelmi kedvezményre való jogosultság kezdő időpontjától, legkorábban az ellátás igénybevételének első napjától illeti meg a kötelezettet,
+
+b)[^61] az *a)* pont alá nem tartozó feltétel fennállása alapozza meg, az ingyenes vagy kedvezményes intézményi gyermekétkeztetés és a térítésidíj-fizetési mentesség az azok igénybevételére jogosító feltétel fennállásának az intézményvezető részére történő bejelentését, illetve igazolását követő naptól illeti meg a kötelezettet.
+
+### 18/A. §[^62]
+
+(1) Az ellátás igénylése során a 17. és 18. § szerinti dokumentumok másolatként is benyújthatók, feltéve, hogy három hónapnál nem régebbiek.
+
+(2) Nem szükséges ismételten benyújtani a 17. és 18. § szerinti dokumentumokat, amennyiben az igénylő ugyanannál a többcélú vagy közös igazgatású intézménynél igényel más gyermekjóléti alapellátást, ahol jelenleg is ellátásban részesül, feltéve, hogy a dokumentumok három hónapnál nem régebbiek.
+
+(2a)[^63] A kötelezettnek a nevelési év, tanítási év kezdetén nem kell ismételten benyújtania a 18. § szerinti dokumentumokat, ha az azokban foglaltak nem változtak és intézményváltásra sem került sor.
+
+(3)[^64] Az (1)–(2a) bekezdés szerinti esetben írásban nyilatkozni kell arról, hogy a másolatként csatolt, illetve korábban csatolt dokumentumok tekintetében időközben nem következett be változás.
+
+## 8. Záró rendelkezések
+
+### 20. §
+
+Ez a rendelet a kihirdetését követő tizenötödik napon lép hatályba.
+
+### 21. §[^66]
+
+A kötelezett 2015. szeptember 1-jét megelőzően is benyújthatja a 6. melléklet szerinti nyilatkozatot azzal, hogy a nyilatkozatban foglaltak alapján a gyermekétkeztetés normatív kedvezménye legkorábban 2015. szeptember 1-jétől vehető igénybe.
+
+### 22. §[^67]
+
+A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet módosításáról szóló 431/2015. (XII. 23.) Korm. rendelettel megállapított 13/B. §-t a 2015/2016. nevelési évben, tanévben is alkalmazni kell azzal, hogy a települési önkormányzat jegyzője a 2015/2016. nevelési évben, tanévben a tavaszi szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről, az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és módjáról szóló írásbeli tájékoztatást
+
+a) 2016. február 15-éig küldi meg azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjének, más törvényes képviselőjének, akinek hátrányos vagy halmozottan hátrányos helyzete 2016. február 1-jén fennáll,
+
+b) a hátrányos, halmozottan hátrányos helyzet megállapításával egyidejűleg küldi meg azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjének, más törvényes képviselőjének, akinek hátrányos vagy halmozottan hátrányos helyzetét 2016. február 1-je és március 23-a között állapítja meg.
+
+## 1. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^68]
+
+**A TÉRÍTÉSIDÍJ-FIZETÉS DOKUMENTÁLÁSA A ..... ÉVBEN**
+
+| Az ellátásra jogosult neve: |
+|---|
+| Beutaló határozat száma, kelte:...................................... Az ellátás kezdete: |
+
+<table><tbody><tr><td>Bölcsőde, mini bölcsőde esetében</td><td colspan="3">Az intézményi térítési díj</td><td colspan="3">A személyi térítési díj</td></tr><tr><td></td><td>havi összege</td><td>napi összege</td><td>dátum</td><td>havi összege</td><td>napi összege</td><td>dátum</td></tr><tr><td>Étkeztetés</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Gondozás</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bölcsőde, mini bölcsőde kivételével gyermekek napközbeni ellátása, gyermekek átmeneti gondozása, utógondozói ellátás esetén</td><td colspan="3">Az intézményi térítési díj</td><td colspan="3">A személyi térítési díj</td></tr><tr><td></td><td>havi összege</td><td>napi összege</td><td>dátum</td><td>havi összege</td><td>napi összege</td><td>dátum</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+| A fizetésre kötelezett neve | Címe | Összeg |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+
+<table><tbody><tr><td rowspan="2">Hónap</td><td rowspan="2">Havi jövedelme</td><td rowspan="2">Havi térítési díj</td><td colspan="3">A befizetés</td><td rowspan="2">Túlfizetés vagy hátralék</td><td rowspan="2">Megjegyzés</td></tr><tr><td>Kelte</td><td>naplószáma</td><td>összege</td></tr><tr><td colspan="2">Hátralék</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>01.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>02.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>03.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>04.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>05.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>06.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>07.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>08.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>09.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Hátralék</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Ellenőrizte: ..............................................
+
+## 2. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+
+**AZ ELLÁTÁSI NAPOKON AZ ELLÁTÁST IGÉNYBE VEVŐK JELEN- VAGY TÁVOLLÉTÉNEK DOKUMENTÁLÁSA**
+
+Az intézmény neve, címe: .................................................. Év, hónap: .................................................. Ellenőrizte: ..................................................
+
+<table><tbody><tr><td rowspan="2">Sor-<br>szám</td><td>Név</td><td colspan="31">Napok</td><td colspan="2">Havi összes</td><td rowspan="2">Megjegyzés</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td>Jelen</td><td>Távol</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Összesen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 3. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+
+**GONDOZÁSI NAPLÓ**
+
+<table><tbody><tr><td rowspan="2">Sorszám</td><td rowspan="2">Dátum</td><td rowspan="2">Az ellátott neve</td><td colspan="3">Az ellátás</td></tr><tr><td>A tevékenység leírása</td><td>Ráfordított idő</td><td>A törvényes<br>képviselő aláírása</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+**HAVI ZÁRÁS**
+
+| Az ellátásra jogosultak száma a hónap folyamán |  |
+|---|---|
+| Az ellátással kapcsolatos látogatások száma |  |
+| Az ellátásra fordított összes idő fél órára kerekítve |  |
+
+| .......................................................................... | .......................................................................... |
+|---|---|
+| a gondozó aláírása | az ellátást nyújtó szervezet |
+|  | vezetőjének aláírása |
+
+Dátum: ...........................................................
+
+## 4. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+
+**A GYERMEKÉTKEZTETÉS IGÉNYBEVÉTELÉNEK DOKUMENTÁLÁSA**
+
+Év, hónap: ................................
+
+<table><tbody><tr><td rowspan="2">Sor-<br>szám</td><td rowspan="2">Név</td><td colspan="31">Napok</td><td rowspan="2">Havi étke-<br>zési na-<br>pok</td><td rowspan="2">Előre befi-<br>zetett na-<br>pok</td><td rowspan="2">Napi térí-<br>tési díj</td><td rowspan="2">Havi elő-<br>leg</td><td colspan="2">Előző havi</td><td rowspan="2">Havi ösz-<br>szes befi-<br>zetés</td><td colspan="2">Tárgyhavi</td><td rowspan="2">Meg-<br>jegyzés</td></tr><tr><td colspan="31"></td><td>túlfi-<br>zetés</td><td>hátra-<br>lék</td><td>túlfi-<br>zetés</td><td>hátra-<br>lék</td></tr><tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Összesen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^69]
+
+**JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ**
+
+Az ellátást igénybe vevőre vonatkozó személyes adatok*:
+
+| Név: |
+|---|
+| Születési név: |
+| Születési hely, idő: |
+| Anyja neve: |
+| Apja neve: |
+|  |
+| Lakóhelye: |
+| Tartózkodási helye: |
+
+Az 1997. évi XXXI. törvény 148. § (10) bekezdése szerint a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését vagy a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését a kötelezett vállalja-e (a rovat kitöltése nem minősül tényleges vállalásnak):
+
+⬜ igen – ebben az esetben a jövedelemnyilatkozat további részét nem kell kitölteni,
+
+⬜ nem
+
+Az ellátást kérelmező fiatal felnőttre és családok átmeneti otthona esetén a szolgáltatást igénybe vevő szülőre, nagykorú testvérre vonatkozó jövedelmi adatok:
+
+| A jövedelem típusa | Nettó összege |
+|---|---|
+| Munkaviszonyból és más foglalkoztatási jogviszonyból származó |  |
+| Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékenységből származó |  |
+| Táppénz, gyermekgondozási támogatások |  |
+| Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |
+| Önkormányzat és az állami foglalkoztatási szerv által folyósított ellátások |  |
+| Egyéb jövedelem (pl. ösztöndíj, bérbeadás) |  |
+| Összes jövedelem |  |
+
+Kiskorú igénybe vevő esetén a családban élőkre vonatkozó (nettó) jövedelmi adatok:
+
+<table><tbody><tr><td colspan="2">A család létszáma: .............. fő**</td><td>Munka-<br>viszonyból és más foglalkoztatási jogviszonyból származó</td><td>Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékeny- ségből származó</td><td>Táppénz, gyermek-<br>gondozási támogatások</td><td>Önkormányzat és az állami foglalkoztatási szerv által folyósított ellátások</td><td>Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások</td><td>Egyéb jövedelem</td></tr><tr><td colspan="2">Az ellátást igénybe vevő kiskorú</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A közeli hozzátarto-<br>zók neve, születési ideje</td><td>Rokoni kapcsolat</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">ÖSSZESEN:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="8">(szükség esetén a táblázat sorai bővíthetők)</td></tr></tbody></table>
+
+\* Családok átmeneti otthona esetén, ha a szolgáltatást a gyermek a szülőjével (szüleivel), nagykorú testvérével együtt veszi igénybe, a szülő, nagykorú testvér személyi adatai – a sorok számának értelemszerű növelésével – ugyanazon az adatlapon felvehetők.
+
+** A családba fogadott vagy harmadik személynél elhelyezett gyámság alatt álló gyermek tekintetében a reá nézve igényelt ellátás személyi térítési díjának megállapításánál csak a gyermek megélhetését szolgáló juttatásokat (pl. gyermektartásdíj, árvaellátás, családi pótlék) kell a jövedelemszámítás szempontjából figyelembe venni [Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:238. § (1) bekezdése], kivéve ha a bíróság a gyámot kötelezte a gyermek eltartására.
+
+Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek. A térítési díj megállapításához szükséges jövedelmet igazoló bizonylatokat egyidejűleg csatoltam. Hozzájárulok a kérelemben szereplő adatoknak az eljárás során történő felhasználásához.
+
+Dátum: ................................................
+
+| ................................................................ az ellátást igénybe vevő (törvényes képviselő) aláírása |
+|---|
+
+**Tájékoztató a jövedelemnyilatkozat kitöltéséhez**
+
+**I. *Személyi adatok***
+
+1\. A jövedelemvizsgálat vonatkozásában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni
+
+1.1. a szülőt,
+
+1.2. a szülő házastársát vagy élettársát,
+
+1.3. a húszévesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
+
+1.4. a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
+
+1.5. a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket, valamint
+
+1.6. korhatárra tekintet nélkül a tartós beteg, illetőleg a fogyatékos gyermeket.
+
+**II. *Jövedelmi adatok***
+
+1\. *Jövedelem:* a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó - megszerzett - vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
+
+2\. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Az átalányadózó mezőgazdasági őstermelő esetében a bevétel csökkenthető a bevétel 90%-ának megfelelő összeggel
+
+2.1. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
+
+2.2. Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
+
+3\. *Nem minősül jövedelemnek,* így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a családbafogadó gyámnak járó pénzbeli ellátáshoz kapcsolódó pótlékot, a gyermekvédelmi nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+
+4\. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
+
+5\. A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
+
+6\. A jövedelemszámításnál irányadó időszakot a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 131. § (1) és (2) bekezdése alapján kell meghatározni. Eszerint rendszeres jövedelem esetén a kérelem benyújtását megelőző hónapban kapott összeget, míg nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
+
+**III. *Jövedelem típusai***
+
+1\. *Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem*: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, a kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában, nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+
+2\. *Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem*: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
+
+3\. *Táppénz, gyermekgondozási támogatások*: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+
+4\. *Önkormányzat és állami foglalkoztatási szervek által folyósított ellátások*: különösen az időskorúak járadéka, az aktív korúak ellátása, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+
+5\. *Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások*: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; bányászok egészségkárosodási járadéka, rokkantsági járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
+
+6\. *Egyéb jövedelem*: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
+
+**IV. Egyebek**
+
+1\. Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük mellékletben folytatható.
+
+2\. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
+
+## 6. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^70]
+
+**NYILATKOZAT**\
+**a** Gyvt. 21/B. § (1) bekezdés a) pontja **szerinti ingyenes bölcsődei, mini bölcsődei és óvodai gyermekétkeztetés igénybevételéhez**
+
+1\. Alulírott ____________________________ (születési név: _________________, születési hely, idő _____________, ___.___.___. anyja neve: _______________) ______________________ szám alatti lakos, mint a
+
+1.1. ______________________ nevű gyermek (születési hely, idő ___________, ____.__.__. anyja neve: ______________),
+
+1.2. ______________________ nevű gyermek (születési hely, idő ___________, ____.__.__. anyja neve: ______________),*
+
+1.3. ______________________ nevű gyermek (születési hely, idő ___________, ____.__.__. anyja neve: ______________)*
+
+*szülője/más törvényes képviselője/gondviselője* (a megfelelő aláhúzandó) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermekétkeztetési normatív kedvezmény igénybevételét *az alábbi jogcím alapján kérem, mivel a gyermek(ek)*:**
+
+a) rendszeres gyermekvédelmi kedvezményben részesül …… év ……………… hónap …… napjától,
+
+b) tartósan beteg vagy fogyatékos,
+
+c) családjában tartósan beteg vagy fogyatékos gyermeket nevelnek,
+
+d) családjában három vagy több gyermeket nevelnek,***
+
+e) nevelésbe vételét rendelte el a gyámhatóság, vagy
+
+———————————————————————————————————————————
+
+f) családjában az egy főre jutó havi jövedelem nem haladja meg a kötelező legkisebb munkabér személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett, azaz nettó összegének 130%-át.
+
+1a. Az étkeztetés biztosítását
+
+□ kizárólag a déli meleg főétkezés, vagy
+
+□ a déli meleg főétkezés mellett egy kisétkezés, vagy
+
+□ a déli meleg főétkezés mellett két kisétkezés, vagy
+
+□ bölcsőde, mini bölcsőde esetében a déli meleg főétkezés mellett a reggeli főétkezés és két kisétkezés
+
+vonatkozásában kérem.
+
+1b. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi állapotra tekintettel: ………………………………………………
+
+2\. Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek, egyúttal hozzájárulok a kérelemben szereplő adatoknak a gyermekétkeztetés normatív kedvezményének igénybevételéhez történő felhasználásához.
+
+Dátum: ................................................
+
+....................................................\
+az ellátást igénybe vevő\
+szülő, más törvényes képviselő, nevelésbe vett gyermek\
+esetén az ellátást nyújtó nevelőszülő, intézményvezető)\
+aláírása
+
+\* A pont csak akkor töltendő, ha az ugyanazon intézménybe járó több gyermeke után ugyanazon jogcímen igényli a szülő/más törvényes képviselő/gondviselő a normatív kedvezményt. Ha különbözik a jogcím, gyermekenként külön nyilatkozatot kell kitölteni. A gyermekek számának megfelelően a sorok értelemszerűen bővíthetőek.
+
+** A megfelelő pont jelölendő! Az f) pont kizárólag abban az esetben jelölhető, amennyiben az ellátást igénybe vevő gyermek az a)–e) pontok szerinti feltételek egyikének sem felel meg.
+
+*** A gyermekek számának meghatározásánál figyelembe veendő gyermekek köre: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező 18 éven aluli gyermek; a 25 évesnél fiatalabb, köznevelési intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló gyermek és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermek, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermek, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermek és utógondozói ellátásban részesülő fiatal felnőtt.
+
+**Tájékoztató a nyilatkozat kitöltéséhez**
+
+**A jövedelemszámítás szabályai**
+
+*(Arra az esetre vonatkozik, ha a kötelezett a kedvezményt a Nyilatkozat 1. pont f) alpontjában foglaltak alapján kívánja igénybe venni.)*
+
+1\. A feltétel csak bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek esetén alapozza meg a normatív kedvezményre való jogosultságot, ha a családban az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér nettó összegének 130%-át [2016. évben a 95 960 Ft-ot].
+
+2\. A nyilatkozat megtételekor figyelembe veendő személyek köre: a kérelem benyújtásának időpontjában közös háztartásban élő családtagként kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
+
+2.1. szülőt, a szülő házastársát vagy élettársát,
+
+2.2. a tizennyolc éven aluli gyermeket, a huszonöt évesnél fiatalabb, köznevelési intézményben nappali rendszerű oktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló gyermeket és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermeket, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermeket, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermeket és utógondozói ellátásban részesülő fiatal felnőttet,
+
+2.3. a 2.1. és 2.2. alpontba nem tartozó, a Polgári Törvénykönyv családjogra irányadó szabályai alapján a szülő vagy házastársa által eltartott rokont.
+
+3\. A nyilatkozat megtételekor figyelembe veendő jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni. Így különösen:
+
+3.1. munkaviszonyból, munkavégzésre/foglalkoztatásra irányuló egyéb jogviszonyból származó jövedelem és táppénz,
+
+3.2. társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem,
+
+3.3. nyugellátás, megváltozott munkaképességű személyek ellátásai (például rokkantsági ellátás, rehabilitációs ellátás), nyugdíjszerű ellátások (például korhatár előtti ellátás),
+
+3.4. a gyermek ellátásához és gondozásához kapcsolódó támogatások [különösen: csecsemőgondozási díj (CSED), gyermekgondozási díj (GYED), gyermekgondozást segítő ellátás (GYES), gyermeknevelési támogatás (GYET), családi pótlék, gyermektartásdíj, árvaellátás],
+
+3.5. önkormányzat, járási hivatal és az állami foglalkoztatási szerv által folyósított rendszeres pénzbeli ellátások (különösen: foglalkoztatást helyettesítő támogatás, ápolási díj, időskorúak járadéka, álláskeresési támogatás),
+
+3.6. egyéb jövedelem (különösen: kapott tartás-, ösztöndíj, értékpapírból származó jövedelem, kis összegű kifizetések stb.).
+
+4\. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni.
+
+5\. Rendszeres jövedelem esetén a nyilatkozat benyújtását megelőző hónapban kapott összeget, míg nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a nyilatkozat benyújtását megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
+
+6\. A családtag által fizetett tartásdíj összegét jövedelemcsökkentő tényezőként kell figyelembe venni.
+
+7\. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1a) bekezdése szerinti ellátásokat, így különösen a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és pótlékot, a gyermekvédelmi nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást. Nem minősül jövedelemnek továbbá az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
+
+8\. A nyilatkozat benyújtását megelőzően megszűnt jövedelmet figyelmen kívül kell hagyni.
+
+9\. A családban az egy főre jutó havi jövedelem összegének kiszámítása: a család összes nettó jövedelme [a 2. pont szerinti személyek 3. pont szerinti jövedelmének együttes összege] csökkentve a fizetett gyermektartásdíj összegével, majd osztva a jövedelemszámításnál figyelembe veendő személyek számával [2. pont].
+
+## 7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^71]
+
+**NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybevételéhez**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1** | Iskolai szünet, bölcsődei, mini bölcsődei, óvodai zárva tartás<sup>2</sup> | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső a) őszi, téli, tavaszi szünet esetén valamennyi munkanapon kérem, b) nyári szünet esetén az önkormányzat által meghatározott számú valamennyi munkanapon kérem<sup>3</sup> | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső, alábbi munkanapokon kérem<sup>4</sup> |
+| **2** | őszi | Igen / Nem |  |
+| **3** | téli | Igen / Nem |  |
+| **4** | tavaszi | Igen / Nem |  |
+| **5** | nyári | Igen / Nem |  |
+
+2\. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi állapotra tekintettel: …………………………………………....................
+
+Dátum: ................................................
+
+........................................................................................
+
+az ellátást igénylő (szülő,
+
+más törvényes képviselő) aláírása
+
+<sup>1</sup> Gyermekenként külön nyilatkozatot kell kitölteni.
+
+<sup>2</sup> Kérjük, húzza alá, hogy melyik szünetben kéri a szünidei gyermekétkeztetés biztosítását. (Ha az évközi szüneteknél több szünetben vagy az összes évközi szünetben, azaz az őszi, téli, tavaszi szünetben is kéri, akkor kérjük, mindegyiket húzza alá.)
+
+<sup>3</sup>A megfelelő válasz (Igen vagy Nem) aláhúzandó.
+
+<sup>4</sup> Kizárólag abban az esetben töltendő, amennyiben a jogosult az adott szünet, zárva tartás vonatkozásában az előző oszlopban nemmel nyilatkozott. Ez esetben azon munkanapok felsorolása szükséges, amelyek tekintetében – az adott szünidei gyermekétkeztetés időtartamán belül – a jogosult kéri az étkeztetés biztosítását.
+
+## 8. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^72]
+
+**NYILATKOZAT a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezdése szerinti ingyenes vagy kedvezményes intézményi gyermekétkeztetés igénybevételéhez**
+
+1\. Alulírott ........................... (születési név: .............................., születési hely, idő ................., ..... ... ... anyja neve: ..............................) ........................................ szám alatti lakos, mint a
+
+1.1. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),
+
+1.2. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),*
+
+1.3. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),*
+
+szülője/más törvényes képviselője (a megfelelő aláhúzandó) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/B. § (1) bekezdés b)–d) pontja és (2) bekezdése szerinti ingyenes vagy kedvezményes gyermekétkeztetés igénybevételét az alábbi jogcím alapján kérem, mivel a gyermek(ek):**
+
+a) rendszeres gyermekvédelmi kedvezményben részesül ...... év .................. hónap ...... napjától,
+
+b) tartósan beteg vagy fogyatékos,
+
+c) családjában három vagy több gyermeket nevelnek,***
+
+d) nevelésbe vételét rendelte el a gyámhatóság, vagy
+
+e) utógondozói ellátásban részesül.
+
+2\. Az étkeztetés biztosítását
+
+□ kizárólag a déli meleg főétkezés, vagy
+
+□ a déli meleg főétkezés mellett egy kisétkezés, vagy
+
+□ a déli meleg főétkezés mellett két kisétkezés, vagy
+
+□ kollégiumi, externátusi ellátás esetén a következő étkezések: ……………………………………………………………………
+
+……………………………………………….
+
+vonatkozásában kérem.
+
+3\. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi állapotra tekintettel: …………………………………………....................
+
+4\. Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek, egyúttal hozzájárulok a kérelemben szereplő adatoknak a gyermekétkeztetés normatív kedvezményének igénybevételéhez történő felhasználásához.
+
+Dátum: ................................................
+
+....................................................
+
+az ellátást igénylő (szülő,
+
+más törvényes képviselő,
+
+nevelésbe vett gyermek esetén
+
+az ellátást nyújtó nevelőszülő, intézményvezető,
+
+utógondozói ellátott fiatal felnőtt esetén
+
+az ellátást igénylő) aláírása
+
+\* A pont csak akkor töltendő, ha az ugyanazon intézménybe járó több gyermeke után ugyanazon jogcímen igényli a szülő/más törvényes képviselő a normatív kedvezményt. Ha különbözik a jogcím, gyermekenként külön nyilatkozatot kell kitölteni. A gyermekek számának megfelelően a sorok értelemszerűen bővíthetőek.
+
+** A megfelelő pont jelölendő!
+
+*** A gyermekek számának meghatározásánál figyelembe veendő gyermekek köre: Az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező 18 éven aluli gyermek; a 25 évesnél fiatalabb, köznevelési intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló gyermek és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermek, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermek, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermek és utógondozói ellátásban részesülő fiatal felnőtt.
+
+## 9. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^73]
+
+**IGAZOLÁS az átmeneti gondozásban lévő, az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek ingyenes bölcsődei, mini bölcsődei gondozásra és a nevelésbe vett gyermek, utógondozói ellátásban részesülő fiatal felnőtt ingyenes intézményi gyermekétkeztetés igénybevételére való jogosultságához**
+
+**I. Az ingyenes bölcsődei, mini bölcsődei gondozás igénybevételéhez**
+
+1\. Igazolom, hogy ............................................................................ (gyermek neve),
+
+.................................... (születési helye), ........... év ....................... hó ....... nap (születési ideje),
+
+.............................................................................................................................. (anyja neve),
+
+.................................................................................................. (az átmeneti gondozást nyújtó gyermekjóléti szolgáltató vagy az ideiglenes hatályú elhelyezést, nevelésbe vételt elrendelő gyámhatóság neve, székhelye),
+
+............................................................................................................ számú megállapodása vagy gyámhatósági határozata alapján
+
+a) átmeneti gondozásban részesülő gyermek,
+
+b) ideiglenes hatállyal elhelyezett gyermek,
+
+c) nevelésbe vett gyermek.
+
+*(A megfelelő rész aláhúzandó!)*
+
+2\. Az átmeneti gondozásban lévő gyermek ellátásának helyszíne, az ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek gyámhatósági határozatban kijelölt gondozási helye/ellátásának helyszíne:
+
+..................................................................................................................................................
+
+..................................................................................................................................................
+
+*[helyettes szülő, gyermekek átmeneti otthona, családok átmeneti otthona, nevelőszülő, gyermekotthon, egyéb (működtető) intézmény neve, címe]*
+
+**II. Az ingyenes intézményi gyermekétkeztetés igénybevételéhez**
+
+1\. Igazolom, hogy ............................................................................ (gyermek, fiatal felnőtt neve),
+
+.................................... (születési helye), ........... év ....................... hó ....... nap (születési ideje),
+
+.............................................................................................................................. (anyja neve),
+
+.................................................................................................. (gyámhatóság neve, székhelye),
+
+............................................................................................................ számú határozata alapján
+
+a) nevelésbe vett gyermek,
+
+b) utógondozói ellátásban részesülő fiatal felnőtt.
+
+*(A megfelelő rész aláhúzandó!)*
+
+2\. A gyermek/fiatal felnőtt gyámhatósági határozatban kijelölt gondozási helye/ellátásának helyszíne:
+
+..................................................................................................................................................
+
+..................................................................................................................................................
+
+[nevelőszülő, gyermekotthon, egyéb (működtető) intézmény neve, címe]
+
+Kelt ................................., ............ év ....................................... hó ........... nap
+
+P. H.
+
+...............................................................................................
+
+az átmeneti gondozást biztosító gyermekjóléti
+
+szolgáltató vezetője, a gondozási helyet
+
+biztosító intézmény vezetője
+
+---
+
+[^1]: [A 431/2015. (XII. 23.) Korm. rendelet 8. § a) pontjával elrendelt módosítás, amely szerint az 1. § (1) bekezdés b) pontjában a „Gyvt. 151. §” szövegrész helyébe a „Gyvt. 21–21/C. §” szöveg lép, nem vezethető át.]
+[^2]: Az 1. § (2) bekezdés a) pontja a 349/2012. (XII. 12.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^3]: A 2. § (1a) bekezdését a 191/2016. (VII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^4]: A 2. § (2) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés a) pontja a 627/2020. (XII. 22.) Korm. rendelet 2. §-a, a 616/2022. (XII. 29.) Korm. rendelet 132. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 64. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 132. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 25. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 132. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (4) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 63. §-ával megállapított, a 69/2014. (III. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.
+[^13]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 64. § c) pontja, a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 4. § (1a) bekezdését a 191/2016. (VII. 13.) Korm. rendelet 12. §-a iktatta be.
+[^15]: A 4. § (2) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdés nyitó szövegrésze a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdés a) pontja a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^20]: A 8. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^21]: A 9. § (1) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^22]: A 9. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^23]: A 9. § (3) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^24]: A 9. § (4) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^25]: A 10. § (1) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^26]: A 10. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^27]: A 10. § (3) bekezdését a 191/2016. (VII. 13.) korm. rendelet 15. §-a hatályon kívül helyezte.
+[^28]: A 10. § (4) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^29]: A 12. § (1) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^30]: A 12. § (3) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^31]: A 3/A. alcím címét a 431/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A 13. § (1) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^33]: A 13. § (1a) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^34]: A 13. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^35]: A 13. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^36]: A 13. § (4) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^37]: A 13. § (5) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^38]: A 13. § (6) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^39]: A 13/A. §-t a 431/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^40]: A 13/B. §-t a 431/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^41]: A 13/B. § (5) bekezdése a 104/2024. (V. 9.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^42]: A 14. § (6) bekezdését a 384/2017. (XII. 12.) Korm. rendelet 8. §-a iktatta be.
+[^43]: A 16. § (1) bekezdés nyitó szövegrésze a 349/2012. (XII. 12.) Korm. rendelet 64. § d) pontja szerint módosított szöveg.
+[^44]: A 16. § (1) bekezdés a) pontja a 431/2015. (XII. 23.) Korm. rendelet 8. § g) pontja, a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^45]: A 16. § (1) bekezdés b) pontja a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^46]: A 16. § (2) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^47]: A 17. § a 190/2015. (VII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^48]: A 17. § (1) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^49]: A 17. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^50]: A 17. § (3) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^51]: A 18. § (1) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés d) pontja és (2) bekezdése, a 431/2015. (XII. 23.) Korm. rendelet 8. § i) pontja, a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^52]: A 18. § (4) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^53]: A 18. § (4a) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^54]: A 18. § (4b) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^55]: A 18. § (5) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított, nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § j) pontja, a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés n) pontja szerint módosított szöveg.
+[^56]: A 18. § (5a) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^57]: A 18. § (5b) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 19. §-a iktatta be.
+[^58]: A 18. § (6) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 8. § k) pontja szerint módosított szöveg.
+[^59]: A 18. § (7) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § l) pontja, a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^60]: A 18. § (7) bekezdés a) pontja a 431/2015. (XII. 23.) Korm. rendelet 8. § l) pontja szerint módosított szöveg.
+[^61]: A 18. § (7) bekezdés b) pontja a 431/2015. (XII. 23.) Korm. rendelet 8. § l) pontja szerint módosított szöveg.
+[^62]: A 18/A. §-t a 98/2013. (III. 29.) Korm. rendelet 28. §-a iktatta be.
+[^63]: A 18/A. § (2a) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 5. §-a iktatta be.
+[^64]: A 18/A. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 8. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^66]: A 21. §-t a 190/2015. (VII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^67]: A 22. §-t a 431/2015. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^68]: Az 1. melléklet a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^69]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a, a 431/2015. (XII. 23.) Korm. rendelet 8. § m) pontja, a 217/2016. (VII. 22.) Korm. rendelet 26. §-a, a 102/2019. (V. 6.) Korm. rendelet 11. §-a, a 665/2020. (XII. 28.) Korm. rendelet 12. §-a, a 671/2020. (XII. 28.) Korm. rendelet 19. §-a, a 24/2025. (II. 27.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^70]: A 6. mellékletet a 190/2015. (VII. 20.) Korm. rendelet 7. §-a iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 7. § (1) bekezdése, a 191/2016. (VII. 13.) Korm. rendelet 13. §-a és 14. § (1) bekezdése szerint módosított szöveg.
+[^71]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés p) pontja szerint módosított szöveg.
+[^72]: A 8. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be.
+[^73]: A 9. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés c) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés q) pontja szerint módosított szöveg.

@@ -1,0 +1,91 @@
+---
+title: "87/2014. (III. 20.) Korm. rendelet a bizalmi vagyonkezelő vállalkozások pénzügyi biztosítékainak egyes szabályairól"
+identifier: "87/2014. (III. 20.) Korm. rendelet"
+njt_id: "2014-87-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/87"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-03-20
+in_force_from: 2014-03-21
+last_amended: 2014-03-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-87-20-22"
+retrieved: 2026-10-12
+---
+
+# 87/2014. (III. 20.) Korm. rendelet a bizalmi vagyonkezelő vállalkozások pénzügyi biztosítékainak egyes szabályairól
+
+A Kormány a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény 47. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A pénzügyi biztosítékok típusai
+
+### 1. §
+
+(1) A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény (a továbbiakban: Bvktv.) 7. § (1) bekezdésében előírt, a bizalmi vagyonkezelő vállalkozás (a továbbiakban: vállalkozás) által fenntartandó pénzügyi biztosíték lehet:
+
+a) a felelősségbiztosítás,
+
+b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet vagy hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás (a továbbiakban együtt: pénzügyi intézmény) által nyújtott garancia,
+
+c) a pénzügyi intézmény által vállalt kezesség, vagy
+
+d) a hitelintézetnél vezetett letéti számla.
+
+(2) A vállalkozás a Bvktv. 7. § (1) bekezdésben foglalt kötelezettségét az (1) bekezdés szerinti pénzügyi biztosítékok (a továbbiakban együtt: pénzügyi biztosíték) közül egyidejűleg egy típus alkalmazásával teljesítheti.
+
+## 2. A pénzügyi biztosíték kezelt vagyonok összértékéhez viszonyított aránya
+
+### 2. §
+
+(1) A vállalkozás az általa kezelt vagyonok összértéke legalább 20%-ának, de legkevesebb a Bvktv. 7. § (1) bekezdésében meghatározott összegű, legfeljebb 1 milliárd 500 millió forint összegű pénzügyi biztosítékot köteles fenntartani. A pénzügyi biztosíték ily módon meghatározott összegét felelősségbiztosítás esetén káreseményenként és évente kell érteni.
+
+(2) Ha a vállalkozás által kezelt vagyonok összértékének növekedése azt szükségessé teszi, a vállalkozás köteles a pénzügyi biztosíték összegét – a kezelt vagyonok összértékének növekedésétől számított – 60 napon belül megemelni.
+
+(3) A vállalkozás a pénzügyi biztosíték összegét akkor csökkentheti, ha az általa kezelt vagyonok összértéke legalább 50%-os mértékben csökken, és fennállnak az 5. § (3) bekezdésében foglalt azon feltételek, amelyek esetén a szerződés megszüntethető lenne.
+
+(4) Ha a pénzügyi biztosíték összege az e rendeletben foglaltak szerinti kifizetés nyomán az (1) bekezdés szerinti összeg alá csökken, a vállalkozás a pénzügyi biztosítékot a kifizetéstől számított 60 napon belül köteles ezen összegre kiegészíteni.
+
+## 3. A pénzügyi biztosítékot létrehozó szerződés tárgyi hatálya
+
+### 3. §
+
+(1) A vállalkozás pénzügyi biztosítékot létrehozó szerződésének (a továbbiakban: Szerződés) tartalmaznia kell, hogy a pénzügyi biztosíték nyújtójának helytállási kötelezettsége a vállalkozás ügyfelének vagy a vállalkozás szolgáltatását igénybe venni szándékozó ügyfélnek a vállalkozás által a bizalmi vagyonkezelő tevékenységgel okozott olyan kárra, személyiségi jogi jogsértésre (a továbbiakban együtt: kár) terjed ki, amelyért a vállalkozás jogszabály szerint felelős.
+
+(2) A Szerződésnek tartalmaznia kell
+
+a) azt, hogy a helytállási kötelezettség a vállalkozás alkalmazottja vagy megbízottja által okozott kárra is kiterjed, amennyiben a kárért a vállalkozás jogszabály szerint felelős,
+
+b) a pénzügyi biztosítéknak a 2. § (1) bekezdése alapján megállapított összegét,
+
+c) azt, hogy a pénzügyi biztosíték kizárólag az (1) bekezdésben meghatározott célra használható fel, és abból kifizetés kizárólag a *d)* pont alapján teljesíthető,
+
+d) azt, hogy a vállalkozás ügyfele, leendő ügyfele a vállalkozás bizalmi vagyonkezelő tevékenysége következtében felmerült kárigényét a pénzügyi biztosíték nyújtójával szemben közvetlenül érvényesítheti, továbbá a pénzügyi biztosíték nyújtója abban az esetben teljesít kifizetést, ha a károsult a vállalkozás felelősségi körébe tartozóan elszenvedett kárának jogalapját és összegszerűségét a vállalkozás elismerő nyilatkozatával, a vállalkozással kötött egyezséggel vagy végrehajtható bírósági határozattal, illetve fizetési meghagyással igazolja,
+
+e) azt, hogy a pénzügyi biztosíték terhére történt kifizetés összegéről és időpontjáról, valamint a szerződés bármely okból történő megszűnéséről a pénzügyi biztosíték nyújtója a Magyar Nemzeti Bankot – a kifizetéstől, illetve a megszűnéstől számított – 2 munkanapon belül írásban tájékoztatja.
+
+(3) A Szerződés a vállalkozás szándékos károkozásáért való helytállási kötelezettségét nem zárhatja ki.
+
+### 4. §
+
+(1) Ha a pénzügyi biztosíték nyújtója és a vállalkozás a pénzügyi biztosíték nyújtója helytállási kötelezettsége körébe tartozó kártérítésnek, sérelemdíjnak olyan részében állapodnak meg, amelyért a vállalkozás maga köteles helytállni (a továbbiakban: önrész), a Szerződésben rögzíteni kell az erre vonatkozó rendelkezéseket.
+
+(2) Az önrész mértéke helytállási kötelezettség alá tartozó eseményenként a 10%-ot nem haladhatja meg.
+
+(3) A Szerződésből eredő kifogásait a pénzügyi biztosíték nyújtója a vállalkozás ügyfelével (leendő ügyfelével) szemben nem érvényesítheti.
+
+## 4. A pénzügyi biztosítékot létrehozó szerződés időbeli hatálya
+
+### 5. §
+
+(1) A Szerződésnek tartalmaznia kell a pénzügyi biztosíték nyújtója helytállási kötelezettségének időbeli hatályára vonatkozó rendelkezéseket. A pénzügyi biztosíték nyújtója helytállási kötelezettségének legalább azokra a helytállási kötelezettség körébe tartozó károkra ki kell terjednie, amelyeket a Szerződés hatálya alatt okoztak, és amelyek a Szerződés hatálya alatt be is következtek, feltéve, hogy azokat a Szerződésben meghatározottak szerint bejelentették.
+
+(2) A Szerződésben – annak megszűnése esetére – a helytállási kötelezettség alá tartozó esemény bejelentésére a megszűnéstől számított legalább kilencven napos bejelentési időt kell meghatározni.
+
+(3) A Szerződésnek tartalmaznia kell, hogy a vállalkozás a Szerződést csak a bizalmi vagyonkezelési tevékenység megszűnését követően, a bizalmi vagyonkezelési szerződésekből eredő kötelezettségek teljesítése után, legkorábban a tevékenység megszűnésétől számított 6 hónap elteltével szüntetheti meg, ha valamennyi vele szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozatán alapuló kárigényt kielégített. Ha a vállalkozás bizalmi vagyonkezelési tevékenységével okozott kár megtérítése iránt igényt érvényesítettek, a Szerződés megszüntetésére csak az igényérvényesítést szolgáló eljárás jogerős befejezését követően kerülhet sor, ha az eljárás a vállalkozás marasztalása nélkül zárul.
+
+(4) A (3) bekezdésben foglalt eseten túlmenően a Szerződést a vállalkozás azt követően szüntetheti meg, ha az e rendeletben foglaltaknak megfelelő pénzügyi biztosíték létrehozására újabb hatályos szerződéssel rendelkezik.
+
+### 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

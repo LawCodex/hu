@@ -1,0 +1,117 @@
+---
+title: "218/2016. (VII. 22.) Korm. rendelet az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos piacfelügyeleti eljárás szabályairól"
+identifier: "218/2016. (VII. 22.) Korm. rendelet"
+njt_id: "2016-218-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/218"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-22
+in_force_from: 2016-08-06
+last_amended: 2020-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-218-20-22"
+retrieved: 2026-10-12
+---
+
+# 218/2016. (VII. 22.) Korm. rendelet az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos piacfelügyeleti eljárás szabályairól
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés *a)* pont 10. alpontjában kapott felhatalmazás alapján,\
+a 2. § tekintetében a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §[^1]
+
+E rendelet hatálya kiterjed a 168/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdésében, a 167/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdésében, az (EU) 2018/858 európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdésében, valamint az (EU) 2016/1628 európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdésében meghatározott járművekkel kapcsolatban a piacfelügyeleti ellenőrzés végzésére, az ellenőrzésben közreműködő műszaki szolgálatokra.
+
+## 2. A piacfelügyeleti ellenőrzés végzése
+
+### 2. §
+
+A piacfelügyeleti ellenőrzés a forgalmazott járművekre, rendszerekre, alkotóelemekre vagy önálló műszaki egységekre vonatkozóan kiterjed:
+
+a) a termék biztonságos használatára megállapított követelmények,
+
+b) az egyes termékekhez tartozó nemzetközi szabványokban, harmonizált szabványokban, továbbá az európai szabványokat átvevő önkéntes szabványokban meghatározott követelmények,
+
+c) az Európai Bizottság piacfelügyelethez kapcsolódó iránymutatásai, ajánlásai és
+
+d) a termékek közlekedésbiztonsági tulajdonságait közvetlenül befolyásoló biztonsági és megfelelőségi követelmények
+
+teljesülésének vizsgálatára.
+
+### 3. §
+
+(1)[^2] A közlekedési hatóság a piacfelügyeleti ellenőrzési tevékenységébe a termék megfelelőségvizsgálata során bevonhatja az általa kijelölt, a 167/2013/EU európai parlamenti és tanácsi rendelet, a 168/2013/EU európai parlamenti és tanácsi rendelet, az (EU) 2018/858 európai parlamenti és tanácsi rendelet vagy az (EU) 2016/1628 európai parlamenti és tanácsi rendelet szerinti műszaki szolgálatot.
+
+(2) A műszaki szolgálati tevékenység ellátására az jelölhető ki, aki
+
+a) hatósági szerződés alapján típusvizsgálói tevékenységet végez, vagy
+
+b) pályázat alapján a közlekedési hatóság részéről erre feljogosítást kap.
+
+(3) A közlekedési hatóság kizárólag azt jelölheti ki a műszaki szolgálati tevékenység ellátására, aki, az adott tevékenység elvégzéséhez szükséges személyi és tárgyi feltételek maradéktalanul rendelkezik.
+
+(3a)[^3] A közlekedési hatóság a műszaki szolgálat kijelölését azonnali hatállyal visszavonja, ha megállapítja, hogy az nem teljesíti az (5) bekezdés szerinti pályázatban előírt követelményeket, feltéve, hogy az e követelmények teljesítésére vonatkozó felhívásnak az abban meghatározott határidőben nem tesz eleget.
+
+(4) A (3) bekezdésben foglaltak alapján – előzetes értékelést követően – kijelölt műszaki szolgálati tevékenység végzésére feljogosított személyekről a közlekedési hatóság tájékoztatást küld az Európai Bizottságnak.
+
+(5)[^4] A pályázatot a közlekedési hatóság a 167/2013/EU európai parlamenti és tanácsi rendeletben, a 168/2013/EU európai parlamenti és tanácsi rendeletben, az (EU) 2018/858 európai parlamenti és tanácsi rendeletben, vagy az (EU) 2016/1628 európai parlamenti és tanácsi rendeletben meghatározottak szerint írja ki, határozza meg a szükséges feltételeket, és bírálja el az alkalmasságot.
+
+(6) A műszaki szolgálat az általa végzett vizsgálatról készült dokumentációt 30 napon belül a közlekedési hatóság rendelkezésére bocsátja.
+
+### 4. §
+
+(1) Ha a piacfelügyeleti ellenőrzés során szükségessé válik a műszaki szolgálat bevonása, az ezzel kapcsolatos felmerülő költségek – a (2) bekezdés szerinti eset kivételével – a kijelölő közlekedési hatóságot terhelik.
+
+(2)[^5] Ha a piacfelügyeleti ellenőrzés során bírság kiszabására okot adó körülmény megállapítására kerül sor, az ellenőrzött vállalkozás köteles megfizetni a közreműködő műszaki szolgálatnak az ellenőrzésével összefüggő költségeit.
+
+## 3. Záró rendelkezések
+
+### 5. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+### 6. §
+
+Ez a rendelet
+
+a) a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendelet;
+
+b) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet;
+
+c) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 168/2013/EU európai parlamenti és tanácsi rendeletnek a funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2013. október 24-i 3/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+
+d) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek és a négykerekű motorkerékpárok jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről szóló, 2013. november 21-i 44/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+
+e) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a környezeti teljesítményre, valamint a meghajtóegység teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről, továbbá V. mellékletének módosításáról szóló, 2013. december 16-i 134/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+
+f) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2014. július 18-i 901/2014/EU bizottsági végrehajtási rendelet;
+
+g) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről és módosításáról szóló, 2014. szeptember 19-i 1322/2014/EU felhatalmazáson alapuló bizottsági rendelet;
+
+h) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október 15-i 2015/68 bizottsági (EU) felhatalmazáson alapuló rendelet;
+
+i) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
+
+j) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
+
+k) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet,
+
+l)[^6] a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet;
+
+m)[^7] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. § a 245/2020. (V. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 245/2020. (V. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (3a) bekezdését a 245/2020. (V. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^4]: A 3. § (5) bekezdése a 245/2020. (V. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdése a 245/2020. (V. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: A 6. § l) pontját a 245/2020. (V. 28.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A 6. § m) pontját a 245/2020. (V. 28.) Korm. rendelet 4. §-a iktatta be.

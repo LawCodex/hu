@@ -1,0 +1,532 @@
+---
+title: "167/2010. (V. 11.) Korm. rendelet az országos nukleárisbaleset-elhárítási rendszerről"
+identifier: "167/2010. (V. 11.) Korm. rendelet"
+njt_id: "2010-167-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/167"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-05-11
+in_force_from: 2010-06-10
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-167-20-22"
+retrieved: 2026-10-12
+---
+
+# 167/2010. (V. 11.) Korm. rendelet az országos nukleárisbaleset-elhárítási rendszerről
+
+A Kormány
+
+az atomenergiáról szóló 1996. évi CXVI. törvény 67. § e) pontjában,
+
+a 3. § (1) bekezdése tekintetében a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 51. § a) pontjában,
+
+a 3. § (2)–(4) bekezdése, a 4–6. §, a 8–11. § és a 14. § tekintetében a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 51. § b) pontjában,
+
+a 7. § tekintetében a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 51. § k) pontjában és
+
+a 12–13. § tekintetében a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 51. § c) pontjában
+
+kapott felhatalmazás alapján,
+
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) Az atomenergia békés célokra való felhasználása során bekövetkező radiológiai, nukleáris események elhárítására való felkészülésről, a bekövetkezett esemény következményeinek csökkentéséről, megszüntetéséről az országos nukleárisbaleset-elhárítási rendszer (a továbbiakban: ONER) gondoskodik. Az ONER a lakosság nem tervezett sugárterhelését előidéző események megelőzésében, az ilyen esemény következményeinek csökkentésében és megszüntetésében érintett központi, ágazati, területi és helyi szintű szervek és szervezetek összessége, melyek felsorolását az 1. melléklet tartalmazza.
+
+(2) Az ONER normál vagy – ettől eltérő esetben – magasabb szintű működési állapotban működik, amely lehet készenléti, veszélyhelyzeti és helyreállítási működési állapot.
+
+(3) A normál működési állapot biztosítja a lakosság nem tervezett sugárterhelését előidéző eseményre és annak várható következményeire való felkészülést, valamint a készenléti vagy a veszélyhelyzeti működési állapot bevezetését.
+
+(4) A készenléti működési állapot a veszélyhelyzeti működési állapotot el nem érő esetekben alkalmazott sugárvédelmi tevékenységek és lakosságtájékoztatási feladatok összessége, ha
+
+a) hazai nukleáris vagy sugárzó anyagot alkalmazó, tároló létesítményben bekövetkező rendkívüli esemény következtében radioaktív kibocsátás közvetlen veszélye fenyeget,
+
+b) az országhatártól 300 km-en belül fekvő külföldi nukleáris létesítményben radioaktív kibocsátással járó rendkívüli esemény vagy nukleáris veszélyhelyzet következik be, vagy annak kockázata fennáll,
+
+c) nukleáris energiaforrással rendelkező űrobjektum lezuhanása során Magyarország területi érintettsége nem zárható ki,
+
+d) a környezeti sugárzási szint az Országos Sugárfigyelő Jelző és Ellenőrző Rendszer (a továbbiakban: OSJER) radiológiai monitoring mérőállomásain eléri a 2. melléklet szerinti fokozott riasztási jelzés fokozatát,
+
+e) egyéb olyan, a biztonságot károsan befolyásoló esemény bekövetkezésekor, amely a környezeti sugárterhelés növekedésével járhat.
+
+(5) Veszélyhelyzeti működési állapotban a lakosság nem tervezett sugárterhelését előidéző esemény kockázatainak csökkentése érdekében lakosságvédelmi óvintézkedés bevezetése szükséges.
+
+(6) A helyreállítási működési állapot azon tevékenységek összessége, amelyek biztosítják a veszélyhelyzeti működési állapotból a normál működési állapotba való visszatérést a nem tervezett sugárterhelés kiváltására alkalmas esemény következménykezelési intézkedéseinek végrehajtását követően.
+
+### 2. §
+
+(1) Az ONER feladatai normál működési állapotban:
+
+a) az országos sugárzási helyzet folyamatos figyelése, a radiológiai adatok gyűjtése, ellenőrzése, elemzése, értékelése és jelzése (a továbbiakban együtt: monitorozás),
+
+b) az ONER riasztási rendszer működtetése, fenntartása,
+
+c) a nukleárisbaleset-elhárítási intézkedési tervek naprakészen tartása,
+
+d) a lakosság és a nukleárisbaleset-elhárításban érintett szervezetek felkészítése, gyakoroltatása,
+
+e) a nukleárisbaleset-elhárítási feladatok ellátáshoz szükséges anyagi-technikai feltételek biztosítása.
+
+(2) Az ONER feladatai készenléti működési állapotban:
+
+a) az (1) bekezdés b) és e) pontjában foglalt feladatok végrehajtása,
+
+b) az OSJER működési rendjében meghatározott fokozott monitorozás,
+
+c) a lakosság nem tervezett sugárterhelésének előrejelzése,
+
+d) a lakosság hiteles és időben történő tájékoztatása a bekövetkezett eseményről és az országos sugárzási helyzetről,
+
+e) felkészülés a veszélyhelyzeti működés megkezdésére.
+
+(3) Az ONER feladatai veszélyhelyzeti működési állapotban:
+
+a) az (1) bekezdés *b)* és *e)*, valamint a (2) bekezdés b)–d) pontjában foglalt feladatok végrehajtása,
+
+b) hazai nukleáris létesítmények, a radioaktív anyagot alkalmazó és tároló létesítmények üzembe helyezése, üzemeltetése vagy az üzemeltetés megszüntetése során bekövetkező balesetből, erőszakos behatásból származó nukleáris veszélyhelyzetet előidéző rendkívüli esemény következményeinek felmérése, csökkentése és felszámolása,
+
+c) a radioaktív és a nukleáris anyag szállítása, fuvarozása során bekövetkezett balesetből vagy erőszakos behatásból származó nukleáris veszélyhelyzetet előidéző rendkívüli esemény felmérése, következményeinek csökkentése, felszámolása,
+
+d) az ország területén kívül és a világűrben bekövetkezett nukleáris balesetből, sugárveszélyt okozó eseményből eredő hazai helyzet radiológiai következményeinek előrejelzése, az abból adódó feladatok meghatározása és végrehajtása.
+
+(4) Az ONER feladatai helyreállítási működési állapotban:
+
+a) az (1) bekezdés *b)* és *e)*, valamint a (2) bekezdés b)–d) pontjában foglalt feladatok végrehajtása,
+
+b) a helyreállításban közreműködő 1. melléklet szerinti, valamint a katasztrófák elleni védekezésben érintett egyéb szervek tájékoztatása és tudományos, műszaki támogatása.
+
+## 2. Az ONER központi szervek feladatai és kötelezettségei
+
+### 3. §[^1]
+
+(1) Az ONER irányításával kapcsolatos feladatokat a Kormány katasztrófavédelemmel összefüggő döntéseinek előkészítését és a védekezéssel kapcsolatos feladatok ágazati összehangolását végző kormányzati koordinációs szerv (a továbbiakban: kormányzati koordinációs szerv) látja el.
+
+(2)[^2] Az ONER működési állapota változásának – az 1. §-ban meghatározott feltételeknek megfelelő – részletes kritériumait és feltételeit, az ONER működési rendjét a kormányzati koordinációs szerv a központi veszélyelhárítási terv részeként, az Országos Nukleárisbaleset-elhárítási Intézkedési Tervben (a továbbiakban: OBEIT) állapítja meg. Az OBEIT minimális tartalmi elemeit a 3. melléklet határozza meg.
+
+(3) Az ONER működtetésében részt vevő szervek hatékony működése összehangolásának elősegítése érdekében a kormányzati koordinációs szerv műszaki-tudományos dokumentumot bocsát ki.
+
+(4) Az OBEIT és a műszaki-tudományos dokumentum rendszeres felülvizsgálatára az atomenergia felügyeleti szerv – az érintett államigazgatási szervek bevonásával – munkacsoportot működtet.
+
+### 4. §[^3]
+
+Az ONER működési állapotának megváltoztatását az atomenergia felügyeleti szerv elnöke, a hivatásos katasztrófavédelmi szerv központi szervének vezetője útján tett kezdeményezésére a katasztrófák elleni védekezésért felelős miniszter rendeli el.
+
+### 5. §
+
+(1)[^4] A biztonságot kedvezőtlenül befolyásoló és a lakosság nem tervezett sugárterhelését előidéző esemény következtében a nukleárisbaleset-elhárítási veszélyhelyzet kihirdetésére vagy annak megszüntetésére a kormányzati koordinációs szerv elnöke tesz javaslatot a Kormány számára.
+
+(2)[^5] A kormányzati koordinációs szerv a nukleáris létesítményen kívüli intézkedések megtétele mellett, az atomenergia felügyeleti szerv elnöke kezdeményezésére a nukleáris balesetet szenvedett hazai létesítményen belül is elrendelheti az ONER működtetésében részt vevő szervek alkalmazását.
+
+### 6. §
+
+(1)[^6] A nukleárisbaleset-elhárítás kormányzati döntés-előkészítéssel kapcsolatos szakmai feladatait az a kormányzati koordinációs szerv végzi.
+
+(2)[^7]
+
+### 7. §
+
+(1)[^8] A lakosság sugárvédelmét biztosító feladatok végrehajtásának országos koordinálását a hivatásos katasztrófavédelmi szerv központi szerve látja el.
+
+(2)[^9] Az ONER riasztását és értesítését a hivatásos katasztrófavédelmi szerv központi szerve látja el.
+
+### 8. §[^10]
+
+(1) A nukleáris biztonsági és a sugárvédelmi helyzet értékelése az atomenergia alkalmazója és az atomenergia-felügyeleti szerv feladata.
+
+(2) Az értékeléshez és a döntés-előkészítéshez adatot és információt biztosít
+
+a) az atomenergia-felügyeleti szerv,
+
+b) a hivatásos katasztrófavédelmi szerv központi szerve,
+
+c) az Országos Környezeti Sugárvédelmi Ellenőrző Rendszer Információs Központja,
+
+d) a Magyar Honvédség Ágazati Információs Központja,
+
+e)[^11] az élelmiszerlánc-felügyeletért felelős miniszter,
+
+f) az atomenergia alkalmazója,
+
+g)[^12] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
+
+### 9. §
+
+(1)[^13] A kormányzati koordinációs szerv a normál működési állapotban
+
+a) figyelemmel kíséri a nukleáris létesítmények veszélyhelyzetekre történő felkészülési és a következmények elhárítására való képességének színvonalát, és azokról – az atomenergia-felügyeleti szervvel és az atomenergia alkalmazójával együttműködve – kétévenként tájékoztató anyagot készít,
+
+b) értékeli és folyamatosan pontosítja az ország nukleáris veszélyeztetettségének mértékét,
+
+c) elkészíti javaslatát a nukleárisbaleset-elhárítás 3 évre szóló műszaki-fejlesztési tervére, és évenkénti bontásban az éves költségvetési tervek készítéséhez igazodóan megjelöli a fő fejlesztési területeket,
+
+d) megalapozza a nukleárisbaleset és a következmények elhárítására szolgáló döntések műszaki-tudományos hátterét,
+
+e) az ONER működtetésében részt vevő, 1. melléklet szerinti szervek önértékelése alapján rendszeresen áttekinti az ONER felkészültségét, és javaslatot tesz a nukleárisbaleset-elhárítási felkészültség fejlesztésére,
+
+f) javaslatot tesz a nukleárisbaleset-elhárítási rendszer képzési, gyakorlatozási tevékenységére.
+
+(2)[^14] A készenléti és veszélyhelyzeti működési állapotban a kormányzati koordinációs szerv elemzi a felmerülő új kérdések és problémák tudományos megválaszolását, megoldását.
+
+(3)[^15] A helyreállítási működési állapotban a Kormány eseti döntésének megfelelően a kormányzati koordinációs szerv részt vesz a nukleáris baleset okainak kivizsgálásában.
+
+### 10. §
+
+(1)[^16] A kormányzati koordinációs szerv döntés-előkészítő és döntéshozó tevékenységéhez szükséges információk biztosítása érdekében OSJER működik.
+
+(2)[^17] Az OSJER az ONER működtetésében részt vevő szervek közül a kormányzati koordinációs szerv által kijelölt szervekből (a továbbiakban: OSJER szervek) áll.
+
+(3) Az OSJER működésének összehangolását és szakmai munkájának irányítását a katasztrófák elleni védekezésért felelős miniszter végzi.
+
+(4)[^18] Az OSJER felépítését és működési rendjét a hivatásos katasztrófavédelmi szerv központi szerve vezetőjének előterjesztése alapján a kormányzati koordinációs szerv hagyja jóvá.
+
+(5) Az OSJER feladatai:
+
+a) az országos sugárzási helyzet monitorozása,
+
+b) az ONER működési állapotának megfelelő riasztás és értesítés megalapozása,
+
+c) az ONER működtetésében részt vevő, 1. melléklet szerinti szervek tájékoztatása,
+
+d) a lakosság életkörülményei és munkafeltételei fenntartásához, az anyagi javak védelméhez, valamint a nukleárisbaleset-elhárítási tevékenységhez szükséges intézkedések sugárvédelmi megalapozása,
+
+e)[^19] ha jogszabály másként nem rendelkezik, az ország nemzetközi értesítési kötelezettségének teljesítése érdekében a radioaktív szennyezettségre jellemző adatok biztosítása az OSJER szerveknél és az atomenergia alkalmazójánál működő mérőhelyek mérési adataira, valamint a hivatásos katasztrófavédelmi szerv központi szervének Nukleáris Baleseti Információs és Értékelő Központja (a továbbiakban: NBIÉK) értékelésére alapozva,
+
+f) az ONER normál működési állapotában az OSJER az NBIÉK útján a távmérő hálózat működésével nyert adatokkal hozzájárul a lakossági sugárterhelés alakulásának nyomon követéséhez,
+
+g) a távmérőhálózat mérőállomásairól beérkező figyelmeztetési és riasztási jelzés esetén a jelzés hitelességének ellenőrzése, a kiváltó ok kivizsgálása és a kialakult helyzetről jelentés készítése az ONER működtetésében részt vevő, 1. melléklet szerinti szervek vezetői számára,
+
+h) az OSJER távmérőhálózat mérési adatai alapján az országos sugárzási helyzet jelzése a 2. mellékletben meghatározott fokozatok szerint.
+
+(6) Az OSJER vezető szerve az NBIÉK, amely
+
+a) ellátja az ország nukleárisbaleset-elhárítási korai előrejelzés központi feladatait,
+
+b) ellátja a nemzetközi radiológiai monitoring adatcsere rendszer nemzeti központ feladatait,
+
+c) közreműködik a lakosság nukleárisbaleset-elhárítási tájékoztatásában,
+
+d)[^20] közreműködik a kormányzati koordinációs szerv nukleárisbaleset-elhárítási döntés-előkészítő tevékenységének támogatásában,
+
+e) végzi a biztonságot kedvezőtlenül befolyásoló eseményből származó sugárzó anyag várható terjedési útvonalának előrejelzését, működteti a nemzetközi valós idejű, on-line nukleárisbaleset-elhárítási döntéstámogató rendszert.
+
+## 3. Az ONER működtetésében részt vevő ágazati és területi szervek, szervezetek feladatai és kötelezettségei
+
+### 11. §
+
+(1)[^21] Több vármegye területét érintő, a lakosság nem tervezett sugárterhelését előidéző esemény elhárításának ágazaton belüli összehangolása és irányítása az ONER működtetésében részt vevő ágazati szervek feladata.
+
+(2) Az ONER működtetésében részt vevő ágazati szervek a következő feladatokat látják el:
+
+a) az ágazat nukleáris veszélyeztetettségének értékelése,
+
+b) az ágazat saját működését biztosító, továbbá a lakosság védelmét segítő nukleárisbaleset-elhárítási feladatainak megállapítása,
+
+c) a nukleárisbaleset-elhárítással foglalkozó sajátos szervezet és a riasztási feladatok ellátására alkalmas kapcsolattartási pont működtetése,
+
+d) a saját, az OBEIT rendelkezéseivel összhangban lévő ágazati nukleárisbaleset-elhárítási intézkedési terv kidolgozása és folyamatos karbantartása,
+
+e) az *a)* és *b)* pont függvényében az ágazat nukleárisbaleset-elhárításban érintett szervezeti egységeinek, kijelölt erőinek és eszközeinek felkészítése az ágazati nukleárisbaleset-elhárítási intézkedési tervben foglaltak végrehajtására,
+
+f) az ágazat irányítása alá tartozó területi szervek munkájának összehangolása,
+
+g) magasabb szintű működési állapotban az ágazati nukleárisbaleset-elhárítási intézkedési tervben rögzített feladatoknak a mindenkori helyzethez igazított végrehajtása,
+
+h)[^22] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+
+i)[^23] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
+
+j) a saját és az irányítása alá tartozó szervek, szervezetek nukleáris veszélyhelyzeti feladatainak ellátására való felkészültség rendszeres értékelése.
+
+### 12. §
+
+(1)[^24] A nukleáris veszélyhelyzet területi megelőzési-, felkészítési-, következménykezelési feladatainak végrehajtását az ONER működtetésében részt vevő központi szervek irányításával a területi védelmi bizottság vezeti.
+
+(2)[^25] A területi nukleárisbaleset-elhárítási rendszer irányítási, működési rendjét a területi védelmi bizottság a szervezeti és működési rendjében állapítja meg.
+
+(3)[^26] A kormányzati koordinációs szerv operatív munkaszerve működésének megkezdéséig a balesetet szenvedett létesítmény vezetőjétől, illetve a külföldön történt nukleáris baleset esetében az atomenergia-felügyeleti szervtől kapott tájékoztatás és javaslat alapján
+
+a)[^27] a területi védelmi bizottság elnöke a bizottság katasztrófavédelmi elnökhelyettesével történő egyeztetést követően a kormányzati koordinációs szerv elnökének,
+
+b)[^28] a helyi védelmi bizottság elnöke, a polgármester a hivatásos katasztrófavédelmi szerv területi szerve vezetőjével történő egyeztetést követően a területi védelmi bizottság elnökének
+
+tájékoztatása mellett illetékességi területén elrendeli a területi, települési veszély-elhárítási tervben meghatározott óvintézkedések végrehajtását, meghozza a nukleáris veszélyhelyzet következményeinek halasztást nem tűrő elhárítására vonatkozó döntéseket.
+
+(4)[^29] A balesetet szenvedett létesítmény vezetője, illetve az atomenergia-felügyeleti szerv a (3) bekezdés szerint kiadott tájékoztatással egyidejűleg értesíti a hivatásos katasztrófavédelmi szerv központi szerve vezetőjét.
+
+(5)[^30] A (3) bekezdés b) pontjában foglalt döntésről a területi védelmi bizottság elnöke soron kívül tájékoztatja a kormányzati koordinációs szerv elnökét.
+
+### 13. §[^31]
+
+A területi védelmi bizottság és szervei a következő feladatokat látják el:
+
+a)[^32] a főváros és a vármegyék nukleáris veszélyeztetettségének értékelése és az abból következő feladatok meghatározása,
+
+b) a területi nukleárisbaleset-elhárítási feladatok végrehajtására erők és eszközök kijelölése,
+
+c) a saját, az OBEIT rendelkezéseivel összhangban lévő területi nukleárisbaleset-elhárítási intézkedési terv kimunkálása és annak naprakészen tartása,
+
+d) a nukleárisbaleset-elhárítással foglalkozó sajátos szervezet és a riasztási feladatok ellátására alkalmas kapcsolattartási pont működtetése,
+
+e) normál működési állapotban a területi nukleárisbaleset-elhárítási intézkedési terv szerint működő szervek, szervezetek felkészítése,
+
+f) az alárendelt szervek munkájának koordinálása,
+
+g) nukleáris veszélyhelyzetben az elhárítási feladatok végrehajtása,
+
+h)[^33] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+
+i)[^34] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
+
+j)[^35] közreműködés a főváros és vármegyei szintű lakossági tájékoztatás személyi, szervezeti és technikai feltételeinek biztosításában,
+
+k) a saját és az irányítása alá tartozó szervek, szervezetek nukleáris veszélyhelyzeti feladatainak ellátására való felkészültség rendszeres értékelése.
+
+## 4. Az atomenergia alkalmazóinak feladatai és kötelezettségei
+
+### 14. §
+
+Az atomenergia alkalmazása során a nukleárisbaleset-elhárítási intézkedési terv készítésére kötelezett nukleáris létesítmények, a technológiai, teleterápiás, laboratóriumi vagy kalibráló sugárforrást alkalmazó létesítmények, izotópgyártók, valamint a radioaktív hulladéktárolók feladatai és kötelezettségei:
+
+a) a nukleáris veszélyhelyzet kialakulási lehetőségeinek és várható következményeinek vizsgálata tudományos eljárások alkalmazásával,
+
+b) a vizsgálat eredményéből következő feladatok megállapítása és nukleárisbaleset-elhárítási szervezet létrehozása, valamint a működés és fejlesztés anyagi-pénzügyi feltételeinek megteremtése,
+
+c) a lakosság hiteles és időben történő tájékoztatása érdekében a személyi, tárgyi és szervezeti feltételek biztosítása,
+
+d) az *a)–c)* pontból következő feladatok, valamint külső segítségnyújtással kapcsolatos feltételek beépítése a nukleárisbaleset-elhárítási intézkedési tervbe,
+
+e) a nukleárisbaleset-elhárítási szervezet felszerelése és felkészítése a nukleárisbaleset-elhárítási intézkedési tervben rögzített feladatok végrehajtására,
+
+f)[^36] a nukleáris létesítmények esetében naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+
+g) az atomenergia alkalmazójának tevékenysége során bekövetkező rendkívüli esemény nyomán elrendelt magasabb szintű működési állapotban a nukleárisbaleset-elhárítási intézkedési tervben előirányzott feladatok végrehajtása,
+
+h) nukleáris veszélyhelyzet vagy annak várható kifejlődése esetén – a nukleárisbaleset-elhárítási intézkedési tervben meghatározott módon – az ONER működtetésben részt vevő központi szervek, az energiapolitikáért felelős miniszter, valamint a veszélyeztetett területeken az ONER működtetésben részt vevő területi és helyi szervek kapcsolattartási pontjainak és vezetőinek azonnali tájékoztatása a rendkívüli eseményről,
+
+i) a 12. § (3) bekezdése szerinti, halasztást nem tűrő esetben javaslat adása az érintett védelmi bizottság elnöke részére a lakosság védelme érdekében foganatosítandó konkrét intézkedésekre,
+
+j)[^37] a lakosság hiteles és időben történő tájékoztatása érdekében a hivatásos katasztrófavédelmi szerv központi szervével egyeztetve sajtótájékoztató tartása,
+
+k) a nukleáris létesítmény kivételével az atomenergia alkalmazója felkészültségének rendszeres önértékelése a nukleáris veszélyhelyzeti feladataik ellátására.
+
+### 15. §
+
+Az ONER működése nem érinti az atomenergia alkalmazójának nukleárisbaleset-elhárítással kapcsolatos felelősségét.
+
+## 5. A költségek tervezése és a szolgáltatások nyújtása
+
+### 16. §
+
+(1) Az ONER normál- és magasabb szintű működési állapotára meghatározott feladatok ellátását biztosító anyagi-pénzügyi fedezetet a központi költségvetésből – az érintett fejezeteknél – kell biztosítani.
+
+(2)[^38] A nukleárisbaleset-elhárításban érintett központi államigazgatási szervek – a kormányzati koordinációs szerv döntése alapján, az éves költségvetés tervezési rendjének megfelelően, önálló előirányzatként – fejezeti költségvetésükben megtervezik a nukleárisbaleset-elhárítási felkészülést (felkészítést) és a készenlétet szolgáló költségvetési támogatást.
+
+(3)[^39] A területi védelmi bizottság nukleárisbaleset-elhárítással kapcsolatos feladatát a védelmi és biztonsági igazgatási feladataik támogatására biztosított központi költségvetési forrásból látja el.
+
+(4)[^40] Az üzemeltetési engedéllyel rendelkező atomerőmű engedélyesének a 14. § c) pontjában meghatározott kötelezés alapján a lakosság riasztását és tájékoztatását biztosító rendszer működőképességének fenntartása érdekében annak időszakos felújításához, karbantartásához pénzügyi hozzájárulást kell biztosítania.
+
+### 17. §
+
+Az ONER működtetésében részt vevő, 1. melléklet szerinti szervek között a feladat- és hatáskörüket érintő, a lakosság nem tervezett sugárterhelését előidéző eseményre, az esemény kezeléséhez és az arra való felkészüléshez szükséges adatot és információt térítésmentesen kell biztosítani.
+
+## 6. Záró rendelkezések
+
+### 18. §
+
+Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
+
+### 19. §[^41]
+
+Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i 2013/59/Euratom irányelvének való megfelelést szolgálja.
+
+## 1. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^43]
+
+**Az országos nukleárisbaleset-elhárítási rendszer működtetésében részt vevő központi, ágazati, területi és helyi szervek és szervezetek**
+
+1\. Központi szervek
+
+1.1. a katasztrófák elleni védekezésért felelős miniszter
+
+1.2. a kormányzati koordinációs szerv
+
+1.3. a kormányzati koordinációs szerv tudományos és operatív munkaszerve
+
+2\. Ágazati szervek
+
+2.1. valamennyi minisztérium
+
+2.2.[^44] az országos tisztifőorvos
+
+2.3. a Magyar Honvédség
+
+2.4.[^45]
+
+2.5. az atomenergia felügyeleti szerv
+
+2.6. az Országos Mentőszolgálat
+
+2.7.[^46] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság
+
+2.8.[^47] a rendvédelmi szervek országos parancsnokságai, a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal Központi Irányítása
+
+2.9. országos vízkár-elhárítási középirányító szerv
+
+2.10. országos környezetügyi középirányító szerv
+
+2.11.[^48] az MVM Paksi Atomerőmű Zrt.
+
+2.12. a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.
+
+2.13.[^49]
+
+2.14. a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet
+
+2.15.[^50] az Energiatudományi Kutatóközpont
+
+2.16.[^51] a Nemzeti Élelmiszerlánc-biztonsági Hivatal
+
+3\. Területi és helyi szervek
+
+3.1.[^52] a területi védelmi bizottságok
+
+3.2. a helyi védelmi bizottságok
+
+3.3. a polgármesterek
+
+3.4. a minisztériumok, érintett kormány- és központi hivatalok irányításával működő területi szervek
+
+3.5.[^53] a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei
+
+## 2. melléklet a 167/2010. (V. 11.) Korm. rendelethez
+
+**Az OSJER távmérő hálózatának jelzési fokozatai**
+
+|  | **A** | **B** | **C** | **D** |
+|---|---|---|---|---|
+| **1** | Jelzés fokozata |  | Határérték | Megjegyzés |
+| **2** | I. fokú | figyelmeztető jelzés | 250 nSv/h | egy mérőállomáson |
+| **3** | II. fokú | riasztási jelzés | 500 nSv/h | egy mérőállomáson |
+| **4** | III. fokú | fokozott riasztási jelzés | 500 nSv/h | három szomszédos mérőállomáson |
+
+## 3. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^54]
+
+**Az Országos Nukleárisbaleset-elhárítási Intézkedési Terv minimális tartalmi elemei**
+
+**A veszélyhelyzet-kezelési rendszer tekintetében más jogszabályok által nem szabályozott kérdésekben**
+
+1\. A potenciális veszélyhelyzeti sugárzási helyzetek és a kapcsolódó lakossági és veszélyhelyzeti foglalkoztatási sugárterhelések felmérése.
+
+2\. A veszélyhelyzetre való felkészüléssel és annak elhárításával kapcsolatban feladatot ellátó személyek és szervezetek felelősségi körének egyértelmű kijelölése.
+
+3\. Megfelelő szintű, egy konkrét létesítményhez vagy emberi tevékenységhez kapcsolódó veszélyhelyzet-elhárítási tervek kidolgozása.
+
+4\. Megbízható kommunikációs kapcsolat, valamint az együttműködés és koordináció hatékony és eredményes szabályainak kialakítása létesítményi, valamint megfelelő nemzeti és nemzetközi szinten.
+
+5\. A veszélyhelyzeti munkavállalók egészségének védelme.
+
+6\. A veszélyhelyzeti munkavállalók és a veszélyhelyzeti elhárítás területén felelősséget viselő vagy feladatokat ellátó valamennyi személy előzetes tájékoztatására és képzésére vonatkozó intézkedések és rendszeres gyakorlatok rendje.
+
+7\. A veszélyhelyzeti munkavállalók személyi monitoringjának, illetve a személyi dózisok értékelésének, valamint a dózisok nyilvántartásának rendje.
+
+8\. A lakosság tájékoztatásának rendje.
+
+9\. Az érdekeltek részvétele.
+
+10\. A veszélyhelyzeti sugárzási helyzet és a meglévő sugárzási helyzet közötti átmenet meghatározása, beleértve a helyreállítást és a kiigazító tevékenységeket.
+
+**A veszélyhelyzet-elhárítási terv tekintetében**
+
+A) Veszélyhelyzetre való felkészülés területén:
+
+1.[^55] A lakossági sugárterhelés vonatkoztatási szintjei, az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: OAHr.) előírt kritériumok figyelembevételével.
+
+2.[^56] A veszélyhelyzeti foglalkoztatási sugárterhelés vonatkoztatási szintjei az OAHr. figyelembevételével.
+
+3\. Optimált stratégiák a lakosság azon tagjainak védelmére, akiket sugárterhelés érhet, a különböző lehetséges események esetére, valamint az ezekhez tartozó forgatókönyvek.
+
+4\. Az egyes védelmi intézkedésekhez előre meghatározott általános kritériumok.
+
+5\. Kiváltó események vagy operatív kritériumok, például a helyszíni körülmények közvetlenül megfigyelhető jellemzői és mutatói.
+
+6\. A veszélyhelyzetekre való felkészülés és azok elhárítása terén feladattal rendelkező szervezetek közötti, valamint az Európai Unió tagállamaival és az érintett vagy valószínűsíthetően érintett harmadik országokkal való haladéktalan koordináció megvalósításának rendje.
+
+7\. A veszélyhelyzet-elhárítási terv felülvizsgálatának és átdolgozásának rendje, figyelemmel a körülmények változásaira, valamint a gyakorlatok és a bekövetkezett események tanulságaira.
+
+Előre meg kell határozni azokat a szabályokat, amelyeket követve ezek az elemek a veszélyhelyzeti sugárzási helyzet közben az elhárítás nyomán változó mindenkori körülmények figyelembevétele érdekében szükség szerint felülvizsgálhatók.
+
+B) Veszélyhelyzeti beavatkozás területén:
+
+A veszélyhelyzeti sugárzási helyzetek elhárítása a felkészülési előírások időben történő végrehajtását jelenti, és ennek keretében többek között:
+
+1\. a védelmi intézkedések végrehajtásának leírása, melyek csökkentik vagy megakadályozzák a beavatkozók sugárterhelését,
+
+2\. értékelni kell a stratégiák és a megtett intézkedések hatásosságát, és szükség szerint hozzá kell őket igazítani a mindenkori körülményekhez,
+
+3\. a dózisok és vonatkoztatási szintek összehasonlításának módszerei, eljárások dózistúllépések esetén, valamint a munkára bocsátás feltételeinek (önkéntesség) meghatározása,
+
+4\. a védekezési stratégiák meghatározásának módszerei.
+
+---
+
+[^1]: A 3. § a 361/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdése a 286/2017. (IX. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^3]: A 4. § a 361/2011. (XII. 30.) Korm. rendelet 2. §-ával megállapított, a 209/2022. (VI. 14.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^5]: Az 5. § ( 2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 3. §-ával megállapított, a 209/2022. (VI. 14.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdését a 361/2011. (XII. 30.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 7. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^9]: A 7. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^10]: A 8. § a 361/2011. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 8. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 472. §-a szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdés g) pontja az 591/2023. (XII. 20.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
+[^13]: A 9. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^14]: A 9. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^15]: A 9. § (3) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^16]: A 10. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^17]: A 10. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^18]: A 10. § (4) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^19]: A 10. § (5) bekezdés e) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^20]: A 10. § (6) bekezdés d) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 11. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 113. § a) pontja szerint módosított szöveg.
+[^22]: A 11. § (2) bekezdés h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (6) bekezdése szerint módosított szöveg.
+[^23]: A 11. § (2) bekezdés i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^24]: A 12. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 113. § b) pontja szerint módosított szöveg.
+[^25]: A 12. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 113. § c) pontja szerint módosított szöveg.
+[^26]: A 12. § (3) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^27]: A 12. § (3) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 113. § c) pontja szerint módosított szöveg.
+[^28]: A 12. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 113. § d) pontja szerint módosított szöveg.
+[^29]: A 12. § (4) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^30]: A 12. § (5) bekezdését a 361/2011. (XII. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 113. § c) pontja szerint módosított szöveg.
+[^31]: A 13. § nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 113. § c) pontja szerint módosított szöveg.
+[^32]: A 13. § a) pontja a 616/2022. (XII. 29.) Korm. rendelet 113. § f) pontja szerint módosított szöveg.
+[^33]: A 13. § h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
+[^34]: A 13. § i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 13. § j) pontja a 616/2022. (XII. 29.) Korm. rendelet 113. § e) pontja szerint módosított szöveg.
+[^36]: A 14. § f) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^37]: A 14. § j) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^38]: A 16. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 16. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 113. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 113. § g) pontja szerint módosított szöveg.
+[^40]: A 16. § (4) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 9. §-a iktatta be.
+[^41]: A 19. § a 20. § (1) bekezdése alapján hatályát vesztette, újonnan a 286/2017. (IX. 22.) Korm. rendelet 7. §-a iktatta be.
+[^43]: Az 1. melléklet a 361/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet 2. pont 2.2. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés a) pontjával megállapított szöveg.
+[^45]: Az 1. melléklet 2. pont 2.4. alpontját a 379/2016. (XII. 2.) Korm. rendelet 157. § (2) bekezdése hatályon kívül helyezte.
+[^46]: Az 1. melléklet 2. pont 2.7. alpontja az 591/2023. (XII. 20.) Korm. rendelet 10. § b) pontjával megállapított szöveg.
+[^47]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja, a 24/2025. (II. 27.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^48]: Az 1. melléklet 2. pont 2.11. alpontja a 286/2017. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^49]: Az 1. melléklet 2. pont 2.13. alpontját a 345/2019. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^50]: Az 1. melléklet 2. pont 2.15. alpontja a 204/2019. (VIII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^51]: Az 1. melléklet 2. pont 2.16. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés b) pontjával megállapított szöveg.
+[^52]: Az 1. melléklet 3.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 113. § h) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^54]: A 3. mellékletet a 286/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^55]: A 3. melléklet A) pont 1. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^56]: A 3. melléklet A) pont 2. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

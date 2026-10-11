@@ -1,0 +1,110 @@
+---
+title: "31/2016. (II. 25.) Korm. rendelet a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "31/2016. (II. 25.) Korm. rendelet"
+njt_id: "2016-31-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/31"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-02-25
+in_force_from: 2016-02-26
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-31-20-22"
+retrieved: 2026-10-12
+---
+
+# 31/2016. (II. 25.) Korm. rendelet a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában,
+
+a 4. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2., 17. és 24. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Rácalmás város külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 053/2, 053/7, 053/8, 053/10, 053/11, 059/2, 059/5, 059/6, 059/7, 059/8, 059/41, 059/42, 059/43, 059/44, 059/45, 059/46, 059/47, 059/48, 059/49, 059/50, 059/51, 059/52, 059/53, 059/54, 059/55, 059/56, 059/57, 059/58, 059/59, 059/60, 059/61, 059/62, 059/63, 059/64, 059/65, 059/66, 059/67, 059/68, 073, 075/4, 075/5, 075/6, 075/21 és 075/22 helyrajzi számok alatt nyilvántartott ingatlanok területén ipari telephely kialakításával kapcsolatos, 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §[^2]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Fejér Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 4. §
+
+Az 1. § (1) bekezdése szerinti beruházással összefüggésben
+
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni és
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+## 7. §[^4]
+
+E rendeletnek a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet és az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosításáról szóló 342/2021. (VI. 15.) Korm. rendelettel (a továbbiakban: Mód1.) megállapított 1. § (1) bekezdését a Mód1. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 31/2016. (II. 25.) Korm. rendelethez
+
+**A rácalmási ipari telephely kialakításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+9\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+10\. telekalakításra irányuló hatósági eljárások,
+
+11\. területrendezési hatósági eljárások,
+
+12\. földmérési hatósági eljárások,
+
+13\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+14\. hírközlési hatósági eljárások,
+
+15\. bányahatósági engedélyezési eljárások,
+
+16\. tűzvédelmi hatósági eljárások,
+
+17\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. földvédelmi hatósági eljárások,
+
+21\. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
+
+22\. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 342/2021. (VI. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 100. § a)-c) pontja szerint módosított szöveg.
+[^4]: A 7. §-t a 342/2021. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2021. július 1.

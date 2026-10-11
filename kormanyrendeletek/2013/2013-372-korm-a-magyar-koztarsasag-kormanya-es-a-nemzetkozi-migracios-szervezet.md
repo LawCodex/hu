@@ -1,0 +1,183 @@
+---
+title: "372/2013. (X. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Nemzetközi Migrációs Szervezet között a migráció területén folytatandó együttműködésről szóló, 1995. december 18-án, Budapesten aláírt Megállapodás kihirdetéséről"
+identifier: "372/2013. (X. 25.) Korm. rendelet"
+njt_id: "2013-372-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/372"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-10-25
+in_force_from: 2013-10-26
+last_amended: 2013-10-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-372-20-22"
+retrieved: 2026-10-12
+---
+
+# 372/2013. (X. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Nemzetközi Migrációs Szervezet között a migráció területén folytatandó együttműködésről szóló, 1995. december 18-án, Budapesten aláírt Megállapodás kihirdetéséről
+
+*[a Megállapodás Magyarország vonatkozásában 1995. december 18-án lépett nemzetközi jogilag hatályba]*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Nemzetközi Migrációs Szervezet között a migráció területén folytatandó együttműködésről szóló, 1995. december 18-án, Budapesten aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+„MEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya és a Nemzetközi Migrációs Szervezet között a migráció területén folytatandó együttműködésről
+
+A Magyar Köztársaság Kormánya (a továbbiakban: Magyar Fél) és a Nemzetközi Migrációs Szervezet (a továbbiakban: IOM), (a továbbiakban együtt: Szerződő Felek)
+
+– tekintetbe véve, hogy Magyarország 1991. november 26. óta tagja az IOM-nek,
+
+– tekintetbe véve továbbá, hogy 1992. április 7-én megkötésre került az IOM magyarországi jogi helyzetére, kiváltságaira és mentességére vonatkozó megállapodás, valamint az IOM megnyitotta budapesti irodáját migrációs tevékenység ellátására, és
+
+– figyelembe véve kölcsönös érdekeiket a migráció területén való együttműködés megerősítésére,
+
+a következőkben állapodnak meg:
+
+**1. Cikk**
+
+Az IOM – Irányító Testületei döntéseivel összhangban és a Magyar Féllel szorosan együttműködve biztosított anyagi eszközök függvényében – a migráció területén programokat valósít meg és tevékenységet fejt ki Magyarországon, elsősorban az alábbi területeken:
+
+*a)* tájékoztatás, kutatás, képzés, migrációs politikai, törvényhozási és adminisztrációs tanácsadó szolgálat, valamint egyéb technikai együttműködési tevékenység migrációs kérdésekben;
+
+*b)* sikertelenül menedékjogot kérők és más illegálisan beutazott külföldiek önkéntes visszatérésének elősegítése;
+
+*c)* magyar állampolgárok és a külföldiek ideiglenes és állandó migrációja;
+
+*d)* személyek migrációval összefüggő határellenőrzése;
+
+*e)* segítségnyújtás a lakhelyüket belföldön vagy külföldön elhagyni kényszerült személyek számára;
+
+*f)* segítségnyújtás képzett szakemberek számára a saját hazájukba történő hazatérésben;
+
+*g)* különleges migrációs szolgáltatások, úgy mint átutazási segítség, egészségügyi kitelepítés, nyelvi képzés és kulturális orientáció;
+
+*h)* egyéb, közösen meghatározott együttműködési területek.
+
+**2. Cikk**
+
+1\. A Szerződő Felek az 1. Cikkben rögzített programok és tevékenységek sikeres végrehajtása érdekében együttműködnek közös projektek kidolgozásában és megvalósításában, valamint más államoknak, nemzetközi szervezeteknek és jogi személyeknek a finanszírozásra való felkérésében. Ezek a projektek tartalmazzák a költségvetésre, a határidőre és a végrehajtás felelőseire vonatkozó összes információt.
+
+2\. A projektek végrehajtását, annak tapasztalatait és eredményeit a Szerződő Felek rendszeresen ellenőrzik és értékelik.
+
+**3. Cikk**
+
+1\. A Szerződő Felek közösen előmozdítják, hogy a migráció területén dolgozó kormánytisztviselők nemzetközi tapasztalatokat szerezzenek, amelyeket munkájuk során hasznosíthatnak.
+
+2\. Az IOM – lehetőségei szerint – elősegíti a kormánytisztviselők képzésének megvalósulását migrációs témákban, elsősorban a tájékoztatás és szervezés tekintetében.
+
+3\. A Magyar Fél segítséget nyújt az IOM szervezésében Magyarországra delegált külföldi szakértők számára megfelelő szakmai programok és konzultációk biztosításával.
+
+4\. A Szerződő Felek nemzetközi értekezleteket szervezhetnek közös érdeklődésre számot tartó kérdések megbeszélése és projektek tervezése céljából.
+
+**4. Cikk**
+
+1\. A Szerződő Felek rendszeresen tájékoztatják egymást a migráció területén a kölcsönös érdeklődésre számot tartó eseményekről és rendezvényekről.
+
+2\. A Szerződő Felek, amennyiben úgy ítélik meg, kölcsönösen egymás rendelkezésére bocsátják a migráció területét érintő nyilvános közléseiket, statisztikákat, információkat és egyéb nem személyes adatokat.
+
+3\. A Magyar Fél tájékoztatja az IOM-et a migrációt érintő magyar jogszabályokról és azok változásairól.
+
+4\. Az ebben a Cikkben említett szolgáltatások díjmentesek.
+
+**5. Cikk**
+
+A jelen Megállapodás módosítása, kiegészítése csak a Szerződő Felek közös, írásos megállapodása alapján történhet.
+
+**6. Cikk**
+
+A jelen Megállapodás értelmezése vagy alkalmazása tekintetében felmerülő bármely vitás kérdést, amely tárgyalás útján nem rendezhető, a Szerződő Felek bármelyikének kérésére választottbíróság elé terjesztik végső döntésre. Mindkét Szerződő Fél kijelöl egy választottbírót és az így kijelölt két választottbíró kijelöl egy harmadikat, aki a választottbíróság elnöke lesz.
+
+**7. Cikk**
+
+1\. A jelen Megállapodás az aláírása napján lép hatályba.
+
+2\. A jelen Megállapodás mindaddig hatályban marad, amíg a Szerződő Felek egyike hat hónappal korábban, írásban be nem jelenti a Megállapodás felmondására vonatkozó szándékát.
+
+Készült Budapesten, 1995. december 18. napján, négy eredeti példányban, kettő magyar nyelven és kettő angol nyelven. Mindkét változat egyaránt hiteles.”
+
+„AGREEMENT\
+between the Government of the Republic of Hungary and the International Organization for Migration for Co-operation in the Field of Migration
+
+The Government of the Republic of Hungary (hereinafter referred to as the Hungarian Party) and the International Organization for Migration (hereinafter referred to as IOM), (hereinafter jointly referred to as the Contracting Parties);
+
+– recalling that Hungary is a member of IOM since 26 November 1991;
+
+– recalling further that an Agreement on the legal status, privileges and immunities of IOM in Hungary was concluded on 7 April 1992, and that IOM opened an office in Budapest to carry out migration activities, and
+
+– taking into consideration their mutual interest in strengthening their co-operation in the field of migration;
+
+hereby agree as follows:
+
+**Article 1**
+
+In accordance with the decisions of its Governing Bodies and subject to the availability of funds to be raised in close co-operation with the Hungarian Party, IOM shall implement migration programmes and activities in Hungary, in particular in the following fields:
+
+*a)* information, research, training, advisory services on migration policies, legislation and administration as well as other technical co-operation activities on migration issues;
+
+*b)* promotion of voluntary return of unsuccessful asylum-seekers and other irregular foreigners;
+
+*c)* temporary and permanent migration of Hungarian nationals and foreigners;
+
+*d)* management of migration related border control of persons;
+
+*e)* assistance to internally and externally displaced persons;
+
+*f)* assistance to qualified specialists in the return to their homeland;
+
+*g)* specific migration services, such as transit assistance, medical evacuation, language training and cultural orientation;
+
+*h)* any other co-operation to be mutually agreed upon.
+
+**Article 2**
+
+1\. In the interest of successfully carrying out the programmes and activities referred to in Article 1, the Contracting Parties shall co-operate in the elaboration and implementation of joint projects, and in fund raising efforts with other states, international organizations and entities. These projects shall contain all the relevant information on budget, time-frame and respective responsibilities.
+
+2\. The implementation of projects, their findings and results shall be monitored and evaluated regularly by the Contracting Parties.
+
+**Article 3**
+
+1\. The Contracting Parties shall jointly facilitate that the government officials working in the field of migration gather international experience to be utilized in their work.
+
+2\. IOM shall, within the scope of its possibilities, facilitate the training of government officials in migration matters, particularly in relation to information and organization.
+
+3\. The Hungarian Party shall assist foreign experts assigned to Hungary by IOM by providing appropriate professional programmes and consultations.
+
+4\. The Contracting Parties may organize international conferences in order to analyze issues and devise projects of common interest.
+
+**Article 4**
+
+1\. The Contracting Parties shall regularly inform each other about the events and activities in the field of migration, which could be of mutual interest.
+
+2\. The Contracting Parties shall, as deemed appropriate, provide each other with their public announcements, statistics, information and other non-personal data on migration.
+
+3\. The Hungarian Party shall inform IOM about Hungarian laws on migration and their changes.
+
+4\. Activities performed under this Article shall be free of charge.
+
+**Article 5**
+
+The present Agreement can be modified or amended in writing by mutual consent of the Contracting Parties.
+
+**Article 6**
+
+Any dispute concerning the interpretation or application of the present Agreement, which can not be settled by negotiation, shall be referred for final decision to a tribunal at the request of either of the Contracting Parties. Each Contracting Party shall appoint one arbitrator, and the two arbitrators so appointed shall appoint the third one, who shall be the chairman of the tribunal.
+
+**Article 7**
+
+1\. The present Agreement shall enter into force on the day of its signature by the Contracting Parties.
+
+2\. The present Agreement shall remain in force until either of the Contracting Parties after giving a six months written notice of its intention to the other Party to terminate the Agreement.
+
+Done at Budapest, on 18 December 1995, in four original copies, two in Hungarian language and two in English language, both versions being equally authentic.”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.

@@ -1,0 +1,147 @@
+---
+title: "416/2015. (XII. 23.) Korm. rendelet a bölcsődében foglalkoztatott, felsőfokú végzettségű kisgyermeknevelők béréhez kapcsolódó támogatásról"
+identifier: "416/2015. (XII. 23.) Korm. rendelet"
+njt_id: "2015-416-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/416"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-23
+in_force_from: 2016-01-01
+last_amended: 2016-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-416-20-22"
+retrieved: 2026-10-12
+---
+
+# 416/2015. (XII. 23.) Korm. rendelet a bölcsődében foglalkoztatott, felsőfokú végzettségű kisgyermeknevelők béréhez kapcsolódó támogatásról
+
+A Kormány a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 72. § (1) bekezdés *b)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános szabályok
+
+### 1. §
+
+(1) A központi költségvetés támogatást biztosít a bölcsődében foglalkoztatott, felsőfokú végzettséggel rendelkező kisgyermeknevelők béréhez és annak szociális hozzájárulási adójához kapcsolódóan a bölcsődét fenntartó
+
+a) települési önkormányzat (a továbbiakban: önkormányzat),
+
+b) gyermekjóléti közfeladatot ellátó intézményt, szolgáltatást fenntartó egyházi jogi személy, civil szervezet, közalapítvány, országos nemzetiségi önkormányzat, települési vagy területi nemzetiségi önkormányzat, gazdasági társaság, és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó, ha a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) alapján állami támogatásban részesül (a továbbiakban együtt: nem állami szociális fenntartó), és
+
+c) a központi költségvetési szerv és a köztestületi költségvetési szerv
+
+részére [az *a)–c)* pont a továbbiakban együtt: fenntartó].
+
+(2) E rendelet alapján az egy kisgyermeknevelő 2016. február–december hónapokban fizetendő 11 havi béréhez kapcsolódó éves támogatás összege 1 508 760 forint.
+
+(3) E rendelet hatálya nem terjed ki az egységes óvoda-bölcsődében foglalkoztatott, felsőfokú végzettséggel rendelkező kisgyermeknevelőkre.
+
+### 2. §
+
+(1) A Kvtv. 41. § (6) bekezdése, valamint 2. melléklet III. pont 7. alpontja szerinti támogatás (a továbbiakban: támogatás) a 2016. február–december hónapokban fizetendő, a bölcsődében foglalkoztatott, felsőfokú végzettséggel rendelkező kisgyermeknevelők béréhez és annak szociális hozzájárulási adójához használható fel.
+
+(2) A támogatás a fenntartót a 2016. január 1-je és 2016. november 30-a között ténylegesen foglalkoztatott, felsőfokú végzettséggel rendelkező kisgyermeknevelők időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg.
+
+## 2. Az önkormányzatok támogatása, az önkormányzatok és a nem állami szociális fenntartók közötti feladat, illetve intézmény átadás támogatási szabályai
+
+### 3. §
+
+(1) Az egy önkormányzatra jutó támogatás meghatározása igényléskor a 2016. január 1-jén ténylegesen foglalkoztatott, felsőfokú végzettséggel rendelkező kisgyermeknevelők száma alapján történik. Az önkormányzatoknak a támogatás megállapításához szükséges adatszolgáltatást az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter által kiadandó tájékoztatóban foglaltaknak megfelelően 2016. január 12-éig kell az ebr42 önkormányzati információs rendszerben teljesíteniük.
+
+(2) Amennyiben a támogatás meghatározásául szolgáló létszám év közben változik, az önkormányzatok az adatszolgáltatásukat az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 107. §-ában foglaltak szerint 2016. évben két alkalommal, 2016. május 15-éig (a továbbiakban: májusi felmérés) és 2016. október 1-jéig (a továbbiakban: októberi felmérés) az ebr42 önkormányzati információs rendszerben módosíthatják.
+
+(3) Amennyiben a létszámváltozás az önkormányzatok egymás közötti feladat, illetve intézmény átadás-átvételből vagy az önkormányzat nem állami szociális fenntartó részére történő feladat-, illetve intézményátadásból ered, úgy
+
+a) a májusi felmérés keretében július 1-jétől 5 havi,
+
+b) az októberi felmérés keretében november 1-jétől 1 havi
+
+időarányos támogatásváltozás jelezhető.
+
+(4) Amennyiben az önkormányzatok egymás közötti feladat, illetve intézmény átadás-átvétele, valamint az önkormányzat nem állami szociális fenntartó részére történő feladat, illetve intézmény átadása esetében a tényleges átadás-átvétel nem esik egybe a (3) bekezdésben szereplő időpontokkal, illetve ha az önkormányzat a (2) bekezdésben jelzett határidőkig nem jelzi az intézményváltást, úgy az érintett felek a köztes időszakban a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik.
+
+(5) Amennyiben az önkormányzat nem állami szociális fenntartótól vesz át feladatot, illetve intézményt, úgy a nem állami szociális fenntartó köteles a tényleges átadás-átvétel időpontját követő 15 napon belül az időarányos támogatásról lemondani. Az átvevő önkormányzat az átvétellel kapcsolatos támogatási igényét a májusi és októberi felmérésben a következők szerint jelezheti:
+
+a) a májusi felmérésben jelezhető a 2016. január–július hónapokban bekövetkezett, illetve bekövetkező átvétel,
+
+b) az októberi felmérésben jelezhető
+
+ba) a 2016. augusztus–november hónapokban, illetve
+
+bb) a májusi felmérésben nem jelzett, 2016. augusztus hónapot megelőzően
+
+bekövetkezett, illetve bekövetkező átvétel.
+
+(6) Amennyiben az önkormányzat az (5) bekezdés szerinti átvételhez kapcsolódó igényét év közben nem jelzi, legfeljebb kéthavi időarányos támogatást érvényesíthet az éves költségvetési beszámolóban történő elszámolás keretében.
+
+(7) A (2), (3) és (5) bekezdés szerinti esetekben
+
+a) a májusi felmérés keretében jelzett módosítást követően a módosított finanszírozás kezdő időpontja 2016. július hónap,
+
+b) az októberi felmérést követő egyenlegrendezés 2016. december hónapban történik.
+
+(8) A (3) és (5) bekezdés szerinti esetekben az önkormányzat nem állami szociális fenntartónak történő feladat, illetve intézmény átadás-átvétel esetén az átadás-átvételt tanúsító okmányokat a felmérés lezárását követően a Magyar Államkincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentumot), valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e rendelet alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+
+### 4. §
+
+A támogatás folyósítása az önkormányzatok részére a következők szerint történik:
+
+a) a Magyar Államkincstár – a helyi önkormányzatokért felelős miniszter legkésőbb 2016. január 20-ai utalványozása alapján – a 3. § (1) bekezdése szerinti adatszolgáltatás alapján soron kívül egy havi támogatást folyósít,
+
+b) a további hónapokra jutó támogatások folyósítása 10 egyenlő részletben, a 2016. év február–november havi nettó finanszírozás keretében történik,
+
+c) december hónapban kizárólag az októberi felmérésben jelzett módosításokhoz kapcsolódó egyenlegrendezés történik meg a nettó finanszírozás keretében.
+
+### 5. §
+
+(1) A támogatásra az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 57–60/B. §-ában foglaltakat kell alkalmazni. Az Ávr.-nek a helyi önkormányzatok általános működésének és ágazati feladatainak támogatására vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(2) Az Ávr. 111. §-ához kapcsolódóan a visszafizetési kötelezettség, illetve a helyi önkormányzatot megillető pótlólagos támogatás átutalásra kerülő összegének megállapítása és teljesítése során e rendelet szerinti támogatás összegét kell figyelembe venni.
+
+### 6. §
+
+(1) A támogatás felhasználása szempontjából a 2016. január 1-je és 2016. december 31-e között pénzforgalmilag teljesített kiadások vehetők figyelembe. Az önkormányzatnak a 3. § (4) bekezdése szerinti esetben a kiadásokat a megállapodás és a pénzeszköz-átadás, -átvétel dokumentumaival szükséges igazolnia.
+
+(2) A támogatással az önkormányzat rendelkezik és felelős annak jogszerű felhasználásáért.
+
+## 3. A nem állami szociális fenntartók támogatása
+
+### 7. §
+
+(1) A nem állami szociális fenntartó a támogatás iránti kérelmet az e célra rendszeresített, a szociál- és nyugdíjpolitikáért felelős miniszter által jóváhagyott és a Magyar Államkincstár honlapján közzétett adatlapon a kincstár nem állami szociális fenntartó székhelye szerinti területi szervéhez (a továbbiakban: igazgatóság) 2016. január 6-ig nyújthatja be.
+
+(2) Azon fenntartó, amelynek támogatásra való jogosultsága évközben keletkezik, a támogatásra való jogosultság kezdetétől számított 21 napon belül nyújthatja be e rendelet szerinti támogatásra vonatkozó igényét.
+
+(3) A támogatási kérelem az igénylési határidő elmulasztása esetén legkésőbb 2016. október 1-jéig nyújtható be. A 2016. október 1-jéig támogatásra nem jogosult fenntartó a támogatási kérelmet az azt követő 21 napon belül nyújthatja be, hogy a támogatásra jogosulttá vált.
+
+### 8. §
+
+Az igazgatóság a támogatás iránti kérelemről
+
+a) határidőben benyújtott kérelem esetén 2016. január 16-ig,
+
+b) az igénylési határidő elmulasztása esetén a kérelem megérkezését követő naptól számított hatvan napon belül
+
+az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásról szóló 489/2013. (XII. 18.) Korm. rendelet (a továbbiakban: Átr.) hatálya alá tartozó támogatásról szóló döntésben határoz.
+
+### 9. §
+
+A támogatás igénylésére, pótigénylésére, lemondására, folyósítására, elszámolására, ellenőrzésére és visszafizetésére az Átr. 1–26. §-át – a 6–9. § és a 10. § (1) bekezdése kivételével – kell alkalmazni.
+
+## 4. A központi költségvetési szervek és a köztestületi költségvetési szervek támogatása
+
+### 10. §
+
+(1) A központi költségvetési szerv és a köztestületi költségvetési szerv támogatására – a (2) bekezdésben meghatározott eltéréssel – a 7. § rendelkezéseit kell alkalmazni.
+
+(2) A központi költségvetési szerv és a köztestületi költségvetési szerv a támogatási kérelmet a szociál- és nyugdíjpolitikáért felelős miniszterhez nyújtja be.
+
+(3) A központi költségvetési szerv és a köztestületi költségvetési szerv részére a 11 hónapra megítélt támogatás legkésőbb 2016. október 31-ig egy összegben kerül kifizetésre.
+
+(4) E rendeletben nem szabályozott kérdésekben a támogatásra az Áht. 48–56/A. §-ában foglaltakat kell alkalmazni.
+
+## 5. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.

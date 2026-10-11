@@ -1,0 +1,277 @@
+---
+title: "124/2010. (IV. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről"
+identifier: "124/2010. (IV. 21.) Korm. rendelet"
+njt_id: "2010-124-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/124"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-04-21
+in_force_from: 2010-04-22
+last_amended: 2012-06-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-124-20-22"
+retrieved: 2026-10-12
+---
+
+# 124/2010. (IV. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről[^1]
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^2]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^3]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„Gazdasági Együttműködési Megállapodás a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között**
+
+A Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya, a továbbiakban „a Szerződő Felek”;
+
+– attól az óhajtól vezérelve, hogy bővítsék az országaik között fennálló hosszú távú kapcsolatokat;
+
+– kifejezve törekvésüket, hogy fenntartsák és erősítsék hagyományos gazdasági kapcsolataikat;
+
+– azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék és intenzívebbé tegyék gazdasági, ipari, műszaki és technológiai együttműködésüket;
+
+– azzal a meggyőződéssel, hogy a szerződéses keretek bővítése a további együttműködéshez megfelelő és kedvező alapot teremt;
+
+– a két országban hatályban lévő törvények keretei között és nemzetközi kötelezettségeikkel teljes összhangban;
+
+az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+A Szerződő Felek hatályban levő törvényeik keretein belül a gazdasági és társadalmi fejlődés minden fontos területén elősegítik a kölcsönösen előnyös gazdasági együttműködés erősítését és bővítését.
+
+**2. cikk**
+
+Figyelembe véve a gazdasági kapcsolatok jelenlegi helyzetét és perspektíváit, a Szerződő Felek egyetértenek abban, hogy többek között a következő területeken kedvezőek a hosszú távú együttműködés feltételei:
+
+*a)* a mezőgazdaság és élelmiszeripar, agrártermékek feldolgozása és tárolása;
+
+*b)* állategészségügyi berendezések értékesítése és gyártása;
+
+*c)* építőipar és építőanyag-ipar;
+
+*d)* erőművek és magas feszültségű elosztó hálózatok, valamint gáz és kőolaj csővezetékek hálózatának fejlesztése és rehabilitációja;
+
+*e)* elektromos berendezések és készülékek;
+
+*f)* elektronikai és villamos-gépészeti ipar;
+
+*g)* ásványi nyersanyagok és bányászati termékek kutatása, kitermelése, előkészítése, további feldolgozása, valamint értékesítése;
+
+*h)* vegyipar és petrolkémia ipar;
+
+*i)* csomagolási technológia;
+
+*j)* környezetvédelem;
+
+*k)* vízgazdálkodás és erdőgazdálkodás;
+
+*l)* oktatás;
+
+*m)* egészségügy, gyógyászati technológia, gyógyászati és gyógyszeripar;
+
+*n)* humánerőforrások fejlesztése;
+
+*o)* turizmus;
+
+*p)* kis- és középvállalkozások közötti együttműködés;
+
+*q)* hírközlés;
+
+*r)* számítógép és informatikai technológia;
+
+*s)* közlekedés;
+
+*t)* tudomány és technológia;
+
+*u)* munkaügy.
+
+**3. cikk**
+
+A Szerződő Felek törekednek arra, hogy megfelelő eszközökkel szélesítsék és intenzívebbé tegyék együttműködésüket:
+
+*a)* elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdaságpolitikával foglalkozó szervek, állami intézmények, szakmai szervezetek, vállalkozói szövetségek, kamarák, regionális és helyi szervek között, bátorítják a kölcsönös érdeklődésre számot tartó gazdasági információk cseréjét, valamint saját képviselőik és más gazdasági és műszaki delegációk látogatásait;
+
+*b)* információkat cserélnek a fejlesztési prioritásokról és elősegítik az üzleti szereplők részvételét a fejlesztési projektekben;
+
+*c)* elősegítik a két ország üzleti körei közötti új kapcsolatok létesítését és a meglévők szélesítését, bátorítják természetes személyek és vállalkozások között a látogatásokat, találkozókat és egyéb kapcsolattartási módokat;
+
+*d)* üzleti információkat cserélnek, bátorítják a vásárokon és kiállításokon történő részvételt, üzleti eseményeket, szemináriumokat, szimpóziumokat és konferenciákat szerveznek;
+
+*e)* elősegítik a kis- és közepes magánvállalkozások fokozottabb részvételét a kétoldalú gazdasági kapcsolatokban;
+
+*f)* elősegítik a tapasztalatcserét a kis- és közepes vállalkozások támogatásának területén;
+
+*g)* bátorítják az együttműködést a konzultációs, marketing, tanácsadói és szakértői szolgáltatások nyújtásában, a kölcsönös érdeklődésre számot tartó területeken;
+
+*h)* bátorítják pénzügyi intézményeiket és bankszektorukat, hogy szorosabb kapcsolatokat létesítsenek és ezáltal erősítsék együttműködésüket;
+
+*i)* bátorítják a két ország vállalatainak beruházási tevékenységét, vegyes vállalatok alapítását, képviseletek és fiókvállalatok létesítését;
+
+*j)* elősegítik a régiók közötti és a nemzetközi szintű együttműködést kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**4. cikk**
+
+Jelen Megállapodás megkötésével a Szerződő Felek megerősítik a Moldovai Köztársaság Gazdasági Minisztériuma és a Magyar Köztársaság Külügyminisztériuma között 2003. február 21-én aláírt Jegyzőkönyv alapján létrehozott Moldovai–Magyar Gazdasági Együttműködési és Kereskedelemfejlesztési Munkacsoport céljait és a működési tevékenységét.
+
+**5. cikk**
+
+A jelen Megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarországnak különösen a Csatlakozási Szerződéssel vállalt, az Európai Közösséget létrehozó Szerződésből, az Európai Unióról szóló Szerződésből, valamint általában véve az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**6. cikk**
+
+Kölcsönös megegyezés alapján a Szerződő Felek módosításokat tehetnek a jelen Megállapodásba kiegészítő Jegyzőkönyvek útján, amelyek a 7. cikk első paragrafusa alapján lépnek hatályba.
+
+**7. cikk**
+
+Jelen Megállapodás a hatálybalépéséhez mindkét országban szükséges belső jogrendi eljárások teljesítéséről szóló későbbi, diplomáciai úton eljuttatott jegyzék kézhezvételét követően lép hatályba.
+
+Jelen Megállapodás 3 évre szól, hatálya automatikusan további egy-egy évvel meghosszabbodik, amennyiben a Megállapodás hatályának lejárta előtt 3 hónappal a Szerződő Felek egyike sem értesíti írásban a másik Felet a Megállapodás felmondásának szándékáról.
+
+Jelen Megállapodás értelmezése vagy alkalmazása során felmerülő vitákat a Felek békés úton, közvetlen konzultáció vagy tárgyalás útján rendezik.
+
+Készült Chisinau, 2010. 02. 23. napján két példányban, magyar, moldovai és angol nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol változat az irányadó.
+
+(Aláírások)
+
+**Agreement on economic cooperation between the Government of the Republic of Hungary and the Government of the Republic of Moldova**
+
+The Government of the Republic of Hungary and the Government of Republic of Moldova, hereinafter referred to as „the Contracting Parties”,
+
+Desiring to enhance the long-standing relationship between their countries,
+
+Wishing to continue and reinforce their existing traditional economic relations,
+
+With the intention of developing and intensifying their economic, industrial, technical and technological cooperation on the basis of mutual benefit,
+
+With the conviction that the deepening of the contractual framework establishes favourable conditions and suitable basis for further cooperation,
+
+Within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations,
+
+have agreed as follows:
+
+**Article 1**
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, the expansion and diversification of mutually advantageous economic cooperation in all fields relevant to economic and social development.
+
+**Article 2**
+
+Considering the current state and perspectives of economic relations, the Contracting Parties agree that favorable conditions for long-term co-operation exist, inter alia, in the following areas:
+
+*a)* Agriculture and food processing industry, processing and storage of agricultural products;
+
+*b)* Marketing and manufacturing of veterinary equipment;
+
+*c)* Construction industry and building materials industry;
+
+*d)* Expansion and rehabilitation of power plants and high-tension distribution networks as well as pipeline networks for gas and oil;
+
+*e)* Electrical equipment and appliances;
+
+*f)* Electronic and electro-technical industry;
+
+*g)* Exploration, production, preparation, treatment and further processing as well as marketing of mineral raw materials and mining products;
+
+*h)* Chemical and petrochemical industry;
+
+*i)* Packaging technology;
+
+*j)* Environment;
+
+*k)* Water management and forest management;
+
+*l)* Education;
+
+*m)* Health care, medical technology, medical and pharmaceutical industry;
+
+*n)* Human resource development;
+
+*o)* Tourism;
+
+*p)* Cooperation between small and medium-size enterprises;
+
+*q)* Communication;
+
+*r)* Computer and information technology;
+
+*s)* Transport;
+
+*t)* Science and technology;
+
+*u)* Labour issues.
+
+**Article 3**
+
+The Contracting Parties shall endeavour to broaden and intensify their cooperation through appropriate means, such as:
+
+*a)* Promoting the links and strengthening the cooperation between the economic policy-makers, government institutions, professional organizations, business federations, chambers, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their representatives and other economic and technical delegations
+
+*b)* Exchanging information on development priorities and facilitating the participation of business operators in development projects,
+
+*c)* Expediting the establishment of new contacts and broadening the existing ones between the business circles of the two countries, encouraging the visits, meetings and other interactions between individuals and enterprises,
+
+*d)* Exchanging business information, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences,
+
+*e)* Promoting the stronger participation of small and medium-sized private sector enterprises in bilateral economic relations,
+
+*f)* Promoting the exchange of experience in the field of small and medium enterprises support,
+
+*g)* Encouraging the cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest,
+
+*h)* Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their cooperation respectively,
+
+*i)* Encouraging the investment activity of the companies of both countries, the foundation of joint ventures, establishment of company representations and branch offices,
+
+*j)* Promotion of inter-regional cooperation and cooperation on international level in issues of mutual interest.
+
+**Article 4**
+
+Upon conclusion of this Agreement the Contracting Parties confirm the objectives and the scope of activity of the Hungarian-Moldavian Economic Cooperation and Trade Promotion Working Group established by the Protocol signed between the Ministry of Foreign Affairs of the Republic of Hungary and the Ministry of Economy of the Republic of Moldova on February 21, 2003.
+
+**Article 5**
+
+This Agreement shall in no way prejudice to the obligations of the Republic of Hungary as a member state of the European Union, and is subject to those obligations. Consequently, the provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of the Republic of Hungary arising from the Treaties on which the European Union is founded, as well as from the primary and secondary law of the European Union.
+
+**Article 6**
+
+On mutual consent, the Contracting Parties may introduce amendments in the present Agreement in due manner by additional Protocols which shall enter into force in accordance with the first paragraph of Article 7.
+
+**Article 7**
+
+This Agreement shall enter into force on the date of the latter notification, through diplomatic channels, indicating the completion of all internal legal procedures of both countries.
+
+This Agreement shall be valid for a period of three years, thereafter it shall be extended for successive one year periods unless either Contracting Party notifies the other, in writing, of its intention to terminate it three months prior to its expiry.
+
+Disputes concerning the interpretation or application of this Agreement shall be settled amicably through direct consultations or negotiations between the Parties.
+
+Done and signed in Chisinau, on 23. 02. 2010., in two originals in the Hungarian, Moldavian and English languages respectively, all texts being equally authentic. In case of divergence of interpretation, the English version shall prevail.
+
+(Signatures)”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a megállapodás 7. cikkében meghatározott időpontban lép hatályba.[^4]
+
+(3) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^5]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+(5) Hatályát veszti a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről szóló 25/2009. (II. 6.) Korm. rendelet.
+
+---
+
+[^1]: Módosítására lásd az 1/2013. (I. 4.) Korm. rendeletet.
+[^2]: A 2. § a 4. § (2) bekezdése alapján a megállapodás 7. cikkében meghatározott időpontban lép hatályba. A 38/2012. (VIII. 3.) KüM közlemény alapján a hatálybalépés időpontja: 2012. június 22.
+[^3]: A 3. § a 4. § (2) bekezdése alapján a megállapodás 7. cikkében meghatározott időpontban lép hatályba. A 38/2012. (VIII. 3.) KüM közlemény alapján a hatálybalépés időpontja: 2012. június 22.
+[^4]: A 38/2012. (VIII. 3.) KüM közlemény alapján a hatálybalépés időpontja: 2012. június 22.
+[^5]: Lásd a 38/2012. (VIII. 3.) KüM közleményt.

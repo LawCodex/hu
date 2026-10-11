@@ -1,0 +1,49 @@
+---
+title: "163/2011. (VIII. 22.) Korm. rendelet a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés esetén az aránytalanul magas havi törlesztési teher mértékéről"
+identifier: "163/2011. (VIII. 22.) Korm. rendelet"
+njt_id: "2011-163-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/163"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-08-22
+in_force_from: 2011-08-25
+last_amended: 2011-10-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-163-20-22"
+retrieved: 2026-10-12
+---
+
+# 163/2011. (VIII. 22.) Korm. rendelet a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés esetén az aránytalanul magas havi törlesztési teher mértékéről
+
+A Kormány\
+a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 11. § *b)* pontjában,\
+az 1. § (1) bekezdése és a 2. § tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés *a)* pontjában,\
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 4. § (5) bekezdés alapján a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamidejét és a havonta esedékessé váló törlesztő részlet összegét az e rendeletben meghatározott szabályok alkalmazásával, a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozás figyelembevételével egyoldalúan jogosult meghatározni.
+
+(2) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a hiteladós által havonta fizetendő törlesztő részlet összege – a (3) bekezdésben és a 2. §-ban meghatározott kivételekkel – nem haladhatja meg a hiteladós által fizetendő, a rögzített árfolyam alkalmazási időszaka alatti utolsó törlesztési kötelezettség összegének 15%-át.
+
+(3) A hiteladós a rögzített árfolyam alkalmazási időszaka záró időpontját megelőző 60. napig írásban kérheti a pénzügyi intézménytől, hogy az általa a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján havonta fizetendő törlesztő részlet összege meghaladja a rögzített árfolyam alkalmazási időszaka alatti utolsó törlesztési kötelezettség összegének 15%-át. A hiteladós a kérelemben meghatározza a havonta fizetendő törlesztő részlet összegét. A pénzügyi intézmény a hiteladós írásbeli kérelmében megjelölt maximum havi törlesztő részlet összegének és a 2. §-ban foglaltak figyelembevételével állapítja meg a gyűjtőszámlahitelre vonatkozó hitelkeret szerződés futamidejét és a havonta esedékes törlesztő részlet összegét.
+
+(4) A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka záró időpontjától számított 15 napon belül írásban értesíti a hiteladóst a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamidejéről és az első kamatperiódusra érvényes havi törlesztő részlet forint összegéről.
+
+## 2. §
+
+(1) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamideje – a (2) bekezdésben meghatározott kivétellel – legfeljebb 30 évvel haladhatja meg a devizakölcsön eredeti futamidejét.
+
+(2)[^1] A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamideje – a (3) bekezdésben meghatározott kivétellel – legfeljebb a hiteladós 75. életévének betöltéséig terjedhet.
+
+(3)[^2] A gyújtőszámlahitelre vonatkozó hitelkeret-szerződés futamideje csak több hiteladós esetén haladhatja meg a hiteladós 75. életévét akkor, ha van olyan hiteladós, aki a futamidő alatt nem tölti be a 75. életévét.
+
+## 3. §
+
+E rendelet a kihirdetését követő 3. napon lép hatályba.
+
+---
+
+[^1]: A 2. § (2) bekezdése a 222/2011. (X. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (3) bekezdését a 222/2011. (X. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.

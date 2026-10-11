@@ -1,0 +1,125 @@
+---
+title: "4/2014. (I. 10.) Korm. rendelet a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről"
+identifier: "4/2014. (I. 10.) Korm. rendelet"
+njt_id: "2014-4-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/4"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-01-10
+in_force_from: 2014-01-15
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-4-20-22"
+retrieved: 2026-10-12
+---
+
+# 4/2014. (I. 10.) Korm. rendelet a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről
+
+A Kormány az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+a)[^1] *helyettes rendvédelmi tisztifőorvos:* a rendvédelmi szervek állományába tartozó, a rendvédelmi szervek vezetője által a rendészetért felelős miniszter jóváhagyásával megbízott személy, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, a rendészetért felelős miniszter által megbízott személy;
+
+b)[^2] *rendvédelmi tisztifőorvos:* az NNGYK vezetőjének a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszonyban álló általános helyettese;
+
+c)[^3] *rendvédelmi tisztiorvos:* a rendvédelmi szervek állományába tartozó orvosok közül a rendvédelmi szervek vezetője által a rendészetért felelős miniszter javaslatára a rendvédelmi szerveknél végzett közegészségügyi-járványügyi és egészségfejlesztési feladatok ellátására megbízott személy.
+
+## 2. §
+
+A rendvédelmi tisztifőorvosi, a helyettes rendvédelmi tisztifőorvosi és a rendvédelmi tisztiorvosi feladat ellátására az a személy bízható meg, aki
+
+a) megelőző orvostan és népegészségtan szakvizsgával vagy közegészségtan-járványtan szakvizsgával rendelkezik, vagy
+
+b) írásban vállalja a megbízást követő 5 éven belül a megelőző orvostan és népegészségtan szakvizsga letételét
+
+és rendelkezik legalább 10 éves rendvédelmi gyakorlattal.
+
+## 3. §
+
+(1)[^4] A Kormány a megyei (fővárosi) rendőr-főkapitányságok, a rendőrkapitányságok, a határrendészeti kirendeltségek és a Kormány által egyes feladatok ellátására létrehozott rendőri szervek vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként az országos rendőrfőkapitányt jelöli ki, aki hatósági jogkörét az általános rendőrségi feladatok ellátására létrehozott szerv rendvédelmi tisztiorvosa útján látja el.
+
+(2)[^5] A Kormány az Országos Rendőr-főkapitányság vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa útján látja el.
+
+## 4. §
+
+(1) A Kormány a büntetés-végrehajtási szervezet személyi állománya vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa útján látja el.
+
+(2) A Kormány a Büntetés-végrehajtás Országos Parancsnoksága vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) főigazgatóját jelöli ki, aki hatósági jogkörét a BM OKF rendvédelmi tisztiorvosa útján látja el.
+
+## 5. §
+
+(1) A Kormány a hivatásos katasztrófavédelmi szerv területi jogállású, valamint helyi szervei vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a BM OKF főigazgatóját jelöli ki, aki hatósági jogkörét a BM OKF rendvédelmi tisztiorvosa útján látja el.
+
+(2) A Kormány a BM OKF vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként az országos rendőrfőkapitányt jelöli ki, aki hatósági jogkörét az általános rendőrségi feladatok ellátására létrehozott szerv rendvédelmi tisztiorvosa útján látja el.
+
+## 6. §
+
+(1)[^6]
+
+(2)[^7] A Kormány az Információs Hivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Információs Központ, valamint a Nemzeti Védelmi Szolgálat vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa útján látja el.
+
+## 7/A. §[^9]
+
+A Kormány az idegenrendészeti szerv személyi állománya vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként az országos rendőrfőkapitányt jelöli ki, aki hatósági jogkörét az általános rendőrségi feladatok ellátására létrehozott szerv rendvédelmi tisztiorvosa útján látja el.
+
+## 8. §[^10]
+
+A Kormány a 3–7/A. §-ban meghatározott szervek vonatkozásában a másodfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a belügyminisztert jelöli ki, aki hatósági jogkörét a rendvédelmi tisztifőorvos útján látja el.
+
+## 9/A. §[^12]
+
+(1)[^13] A rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok vonatkozásában a közegészségügyi és járványügyi szabályok helyszíni ellenőrzése során
+
+a) a hatósági ellenőrzést végző személy az ellenőrzési jogosultságát megbízólevél felmutatásával igazolja,
+
+b)[^14] az ellenőrzött rendvédelmi feladatokat ellátó szerv, polgári nemzetbiztonsági szolgálat vezetője az ellenőrzés feltételeit biztosítani köteles.
+
+(2)[^15] A helyszíni ellenőrzés során megállapított tényeket, hiányosságokat ellenőrzési jegyzőkönyvben kell rögzíteni, amely tartalmazza az ellenőrzést végzők és az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat részéről résztvevők nevét, beosztását és szolgálati helyét. A jegyzőkönyvet három példányban kell elkészíteni. Az 1. számú példányt az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat vezetőjének át kell adni, a 2. számú példányt a rendvédelmi tisztiorvos kapja, a 3. számú példányt irattárban kell elhelyezni.
+
+(3) A helyszíni ellenőrzés során észlelt hiányosság alapján
+
+a) a rendvédelmi tisztiorvos útján hatósági eljárás lefolytatása kezdeményezhető az e rendelet szerint hatáskörrel rendelkező hatóságnál,
+
+b) az *a)* pontba nem tartozó esetben a szolgálati út betartásával, a rendvédelmi tisztiorvos útján a hatáskörrel és illetékességgel rendelkező hatóságnál kezdeményezhető a szükséges intézkedések megtétele.
+
+(4) A rendvédelmi tisztiorvos a hatósági ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+
+(5) A rendvédelmi tisztiorvos a (4) bekezdés szerinti megállapításai és javaslatai figyelembevételével az e rendelet szerinti elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlója határozatba foglalva elrendeli
+
+a) a hiányosságok megszüntetését és a szükséges intézkedések végrehajtását,
+
+b) a hiányosságok megszüntetéséig a létesítmény működésének, az egészségre ártalmas vagy veszélyes tevékenységnek a korlátozását vagy felfüggesztését, ha e szabálytalanságok fennállása egészségkárosodást okozhat,
+
+c) súlyos vagy tömeges egészségkárosodás megelőzése érdekében az egészségre ártalmas tárgyak vagy anyagok használatának megszüntetését, szükség esetén azok ártalmatlanítását.
+
+(6) Az (5) bekezdés szerinti határozat tartalmazza a hiányosságok megszüntetésére, és a szükséges intézkedések végrehajtására, az egészségre ártalmas tárgyak vagy anyagok használatának megszüntetésére, szükség esetén ártalmatlanítására való kötelezést, határidővel és felelős személy vagy szolgálat megjelölésével.
+
+(7) A rendvédelmi tisztiorvos
+
+a) kisebb súlyú mulasztás esetén felhívja az ellenőrzött rendvédelmi feladatokat ellátó szerv vezetőjének a figyelmét a jogellenes magatartás abbahagyására,
+
+b) fegyelmi vétséget megvalósító magatartás felfedésekor kezdeményezheti a fegyelmi jogkör gyakorlójánál a fegyelmi eljárás lefolytatását.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 800. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 659/2023. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^3]: Az 1. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 800. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 248/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 189/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 6. § (1) bekezdését a 189/2026. (IX. 21.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^7]: A 6. § (2) bekezdése a 186/2016. (VII. 13.) Korm. rendelet 10. §-ával megállapított, a 239/2022. (VI. 30.) Korm. rendelet 25. §-a, a 189/2026. (IX. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^9]: A 7/A. §-t a 126/2019. (V. 30.) Korm. rendelet 23. § (1) bekezde iktatta be.
+[^10]: A 8. § a 126/2019. (V. 30.) Korm. rendelet 23. § (2) bekezde szerint módosított szöveg.
+[^12]: A 9/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 483. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 9/A. § (1) bekezdés nyitó szövegrésze a 24/2025. (II. 27.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[^14]: A 9/A. § (1) bekezdés b) pontja a 24/2025. (II. 27.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^15]: A 9/A. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.

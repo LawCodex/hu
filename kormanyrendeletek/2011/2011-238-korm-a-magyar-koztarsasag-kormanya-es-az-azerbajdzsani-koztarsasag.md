@@ -1,0 +1,241 @@
+---
+title: "238/2011. (XI. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodás kihirdetéséről"
+identifier: "238/2011. (XI. 18.) Korm. rendelet"
+njt_id: "2011-238-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/238"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-11-18
+in_force_from: 2011-11-19
+last_amended: 2012-03-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-238-20-22"
+retrieved: 2026-10-12
+---
+
+# 238/2011. (XI. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány felhatalmazást ad a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+„AGREEMENT\
+BETWEEN THE GOVERNMENT OF THE REPUBLIC OF HUNGARY\
+AND THE GOVERNMENT OF THE REPUBLIC OF AZERBAIJAN ON THE COOPERATION AND MUTUAL ASSISTANCE IN THE EVENT OF DISASTERS
+
+The Government of the Republic of Hungary and the Government of the Republic of Azerbaijan, hereinafter referred to as the Contracting Parties:
+
+– Desiring to contribute to the strengthening and deepening of relations between two states,
+
+– Supporting the efforts of the United Nations in the field of preventing disasters and mitigating their consequences,
+
+– Having regard to the provisions of bilateral and multilateral international agreements of which the Contracting Parties or their States are parties,
+
+– Recognizing that possible disasters pose severe threats to both States,
+
+– Acknowledging that the prevention of natural and man-made disasters and elimination of their consequences are in the joint interest of the Contracting Parties,
+
+have agreed as follows:
+
+**Article 1**
+
+(1) Under this Agreement, the Contracting Parties cooperate and render mutual assistance to each other in accordance with their national legislation in the field of prevention of natural and man-made disasters and mitigation and elimination of their consequences.
+
+(2) The co-operation between Contracting Parties determined in Paragraph (1) of this Article shall be carried out in the following forms:
+
+– Forecasting, preventing and assessing disasters, eliminating their consequences and exchange of scientific, technical and practical experience.
+
+– Organizing conferences, study trips, scientific programs and professional courses, co-operation of institutions of education and conducting joint exercises through the co-operation of the Competent Authorities and relevant bodies of the States of the Contracting Parties.
+
+– Exchange of information on sources of hazards that may cause disasters and on their consequences in cases that these disasters may affect the State territory of other Contracting Party.
+
+– Investigation of the causes of disasters and assessment of their consequences.
+
+– Providing mutual assistance, rendering possible equipment available to the requesting Party.
+
+**Article 2**
+
+(1) For the purpose of implementation of provisions of this Agreement and of the area of co-operation determined in Article 1, the followings shall be the competent authorities (hereinafter referred to as the Competent Authorities):
+
+– For the Government of the Republic of Hungary: National Directorate General for Disaster Management, Ministry of Interior;
+
+– For the Government of the Republic of Azerbaijan: Ministry of Emergency Situations.
+
+(2) In the course of implementing provisions of this Agreement, the Competent Authorities cooperate and enter into direct contact with each other.
+
+(3) To this end, the Competent Authorities are mutually informed of the data of the organizations and persons designated as permanent contact points ensuring continuity and intensive updating of the data.
+
+**Article 3**
+
+In order to achieve the aims of the present Agreement, the Contracting Parties shall facilitate and encourage all forms of co-operation between the Competent Authorities, governmental and non-governmental organizations.
+
+**Article 4**
+
+Unless the Contracting Parties otherwise agree, the provision of assistance under this Agreement shall be free of charge.
+
+**Article 5**
+
+(1) In the event of the threat or onset of disasters, upon written requests, Contracting Parties provide assistance to each other through their Competent Authorities.
+
+(2) The requesting Party shall inform the requested Party on the nature and extent of the disaster and nature/form of the assistance requested and the priorities sought in delivering assistance.
+
+(3) The requested Party decide, without delay, on providing the assistance and shall inform the requesting Party of the possibility of rendering immediate assistance, the nature of assistance offered, its extent and conditions.
+
+**Article 6**
+
+(1) According to the national legislation of the requesting Party, the Competent Authority shall direct and co-ordinate rescue operations in its State territory.
+
+(2) Means of the requested Party shall be utilized on the basis of the mutual consent of the Contracting Parties.
+
+(3) During operations specified under Paragraph (1) of this Article, instructions to the rescue team of the requested Party may be given exclusively through the leader of the rescue team.
+
+**Article 7**
+
+The information collected in the course of activities based on the present Agreement may only be transferred to a third person with the preliminary written consent of the Contracting Party having transferred the information. The information transferred may only be made public in case of the preliminary written consent of the Competent Authorities of the Contracting Parties. Personal data shall not be transmitted under this Agreement.
+
+**Article 8**
+
+Any dispute between the Contracting Parties that may arise from the interpretation or application of this Agreement shall be settled through negotiations and consultations.
+
+**Article 9**
+
+This Agreement shall not affect any rights and obligations of the Contracting Parties arising from any other international agreements by which they are bound. This Agreement shall not affect the obligations which may arise from the membership of Hungary in the European Union.
+
+**Article 10**
+
+Any additions and amendments may be made to this Agreement by mutual consent of the Contracting Parties. Such additions and amendments being an integral part of this Agreement shall be made in the form of separate protocols and shall enter into force in accordance with the provisions of Article 11 of this Agreement.
+
+**Article 11**
+
+(1) This Agreement shall enter into force on the 30. (thirtieth) day following the receipt of the last written notification by which the Contracting Parties inform each other on the completion of the internal procedures required for its entry into force.
+
+(2) This Agreement is concluded for an indefinite period. Any of the Contracting Parties may terminate this Agreement by sending written notification to another Contracting Party through diplomatic channels on its intention to terminate this Agreement. This Agreement shall be terminated 3 (three) months after receipt of such notification.
+
+(3) Termination of this Agreement does not affect Article 7 of this Agreement.
+
+Done in Baku, on the 11st day of November 2011, in two original copies, in Hungarian, Azerbaijani and English languages. In case of any divergence in interpretation of the provisions of this Agreement, English text shall prevail.
+
+(Signatures)”
+
+„MEGÁLLAPODÁS\
+A MAGYAR KÖZTÁRSASÁG KORMÁNYA ÉS AZ AZERBAJDZSÁNI KÖZTÁRSASÁG KORMÁNYA KÖZÖTT A KATASZTRÓFÁK ESETÉN TÖRTÉNŐ EGYÜTTMŰKÖDÉSRŐL ÉS KÖLCSÖNÖS SEGÍTSÉGNYÚJTÁSRÓL
+
+A Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+– attól az óhajtól vezérelve, hogy megerősítsék és elmélyítsék a két állam közötti kapcsolatokat,
+
+– támogatva az Egyesült Nemzetek erőfeszítéseit a katasztrófák megelőzése és a következmények mérséklése terén,
+
+– tekintettel azon két- és többoldalú nemzetközi szerződések rendelkezéseire, melyeknek a Szerződő Felek vagy államaik részesei,
+
+– felismerve, hogy a lehetséges katasztrófák súlyos fenyegetést jelentenek mindkét állam számára,
+
+– elismerve, hogy a természeti és civilizációs katasztrófák megelőzése, és következményeik felszámolása a Szerződő Felek közös érdeke,
+
+az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+(1) A Szerződő Felek, nemzeti jogszabályaikkal összhangban együttműködnek, és kölcsönös segítséget nyújtanak egymásnak a természeti és civilizációs katasztrófák megelőzésében, valamint a következmények mérséklésében és felszámolásában.
+
+(2) A Szerződő Felek közötti, a jelen cikk (1) bekezdésében meghatározott együttműködés az alábbi formákban valósul meg:
+
+– A katasztrófák előrejelzése, megelőzése, értékelése és következményeinek felszámolása, valamint a tudományos, technikai és gyakorlati tapasztalatok cseréje.
+
+– Konferenciák, tanulmányutak, tudományos programok és szakmai tanfolyamok rendezése, oktatási intézmények együttműködése és közös gyakorlatok végzése a Szerződő Felek államainak illetékes hatóságai és érdekelt intézményei együttműködésében.
+
+– Információcsere a katasztrófákat létrehozó veszélyforrásokról, és következményeikről, különösen, ha ezek a másik Szerződő Fél államának területét is érinthetik.
+
+– A katasztrófák okainak kivizsgálása és a következményeinek felmérése.
+
+– A katasztrófák megelőzése érdekében történő kölcsönös segítségnyújtás, technikai felszerelések rendelkezésre bocsátása.
+
+**2. cikk**
+
+(1) A jelen Megállapodás rendelkezéseinek végrehajtására, valamint az 1. cikkben meghatározott együttműködési területeken illetékes hatóságok (a továbbiakban: illetékes hatóságok):
+
+– a Magyar Köztársaság Kormánya részéről: Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság;
+
+– az Azerbajdzsáni Köztársaság Kormánya részéről: Veszélyhelyzeti Minisztérium.
+
+(2) A jelen Megállapodás rendelkezéseinek végrehajtása során az illetékes hatóságok együttműködnek, és közvetlen kapcsolatba lépnek egymással.
+
+(3) E célból, az illetékes hatóságok kölcsönösen tájékoztatják egymást a szervezetek adatairól, valamint az állandó kapcsolattartási pontoknak kijelölt személyekről, akik biztosítják a folyamatosságot és az adatok naprakészségét.
+
+**3. cikk**
+
+A Szerződő Felek a jelen Megállapodás céljainak megvalósítása érdekében segítik és ösztönzik az illetékes hatóságaik, valamint a kormányzati és nem-kormányzati szervek közötti együttműködés valamennyi formáját.
+
+**4. cikk**
+
+A Szerződő Felek ettől eltérő megállapodása hiányában a jelen Megállapodás alapján történő segítségnyújtás ingyenes.
+
+**5. cikk**
+
+(1) Katasztrófák bekövetkezésének veszélye vagy tényleges bekövetkezte esetén, írásbeli megkeresés alapján, a Szerződő Felek az illetékes hatóságaikon keresztül segítséget nyújtanak egymásnak.
+
+(2) A megkereső Fél tájékoztatja a megkeresett Felet a katasztrófa jellegéről és kiterjedéséről, a kért segítség formájáról, valamint a segítségnyújtás terén a prioritásairól.
+
+(3) A megkeresett Szerződő Fél haladéktalanul dönt a segítségnyújtásról és tájékoztatja a megkereső Szerződő Felet az azonnali segítségnyújtás lehetőségéről, a felajánlott segítség jellegéről, terjedelméről és feltételeiről.
+
+**6. cikk**
+
+(1) A megkereső Szerződő Fél államának területén folyó mentési műveleteket ezen állam illetékes hatósága irányítja, a megkereső Szerződő Fél nemzeti jogszabályai alapján.
+
+(2) A megkeresett Szerződő Fél eszközei a Szerződő Felek kölcsönös egyetértése alapján használhatók.
+
+(3) A jelen cikk (1) bekezdésében meghatározott műveletek során a megkeresett Szerződő Fél segélycsapatait kizárólag a segélycsapat vezetője utasíthatja.
+
+**7. cikk**
+
+A jelen Megállapodás alapján végzett tevékenység során szerzett információk harmadik félnek csak az információt átadó Szerződő Fél előzetes írásbeli hozzájárulásával adhatók át. Az információk csak a Szerződő Felek illetékes hatóságainak előzetes írásbeli hozzájárulásával hozhatók nyilvánosságra. A jelen Megállapodás alapján személyes adatok nem továbbíthatók.
+
+**8. cikk**
+
+A jelen Megállapodás értelmezéséből vagy alkalmazásából a Szerződő Felek között felmerülő vitákat tárgyalások és egyeztetések útján kell rendezni.
+
+**9. cikk**
+
+A jelen Megállapodás nem érinti a Szerződő Felek más nemzetközi szerződésekből eredő jogait és kötelezettségeit. A jelen Megállapodás nem érinti azokat a kötelezettségeket, amelyek a Magyarország európai uniós tagságából fakadnak.
+
+**10. cikk**
+
+A jelen Megállapodás a Szerződő Felek kölcsönös egyetértésével kiegészíthető és módosítható. A jelen Megállapodás szerves részét képező kiegészítéseket és módosításokat külön jegyzőkönyvekbe kell foglalni, és azok a jelen Megállapodás 11. cikkének rendelkezéseivel összhangban lépnek hatályba.
+
+**11. cikk**
+
+(1) A jelen Megállapodás azon utolsó írásbeli értesítés kézhezvételét követő 30. (harmincadik) napon lép hatályba, amelyben a Szerződő Felek tájékoztatják egymást a hatálybalépéshez szükséges belső eljárások teljesítéséről.
+
+(2) A jelen Megállapodás határozatlan időre szól. Bármely Szerződő Fél felmondhatja a jelen Megállapodást, a felmondási szándékról szóló, a másik Szerződő Félnek megküldött írásbeli értesítéssel. A jelen Megállapodás az ilyen értesítés kézhezvételétől számított 3 (három) hónap elteltével megszűnik.
+
+(3) A jelen Megállapodás megszűnése nem érinti a jelen Megállapodás 7. cikkében foglalt rendelkezéseket.
+
+Készült Bakuban, 2011. év november hónap 11. napján, három eredeti példányban, magyar, azerbajdzsáni és angol nyelven. A jelen Megállapodás rendelkezéseinek eltérő értelmezése esetén az angol szöveg az irányadó.
+
+(Aláírások)”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 11. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a katasztrófák elleni védekezésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 11. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 20/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2012. március 28.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 11. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 20/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2012. március 28.
+[^3]: A 20/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2012. március 28.
+[^4]: Lásd a 20/2012. (IV. 13.) KÜM közleményt.

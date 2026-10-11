@@ -1,0 +1,1309 @@
+---
+title: "261/2011. (XII. 7.) Korm. rendelet a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról"
+identifier: "261/2011. (XII. 7.) Korm. rendelet"
+njt_id: "2011-261-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/261"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-07
+in_force_from: 2011-12-08
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-261-20-22"
+retrieved: 2026-10-12
+---
+
+# 261/2011. (XII. 7.) Korm. rendelet a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról
+
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 5. alpontjában, valamint a 40. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 7. alpontjában, a 41. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 15. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva, a Kormány a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1)[^1] E rendelet hatálya
+
+a) a Magyarország területén belföldi forgalomban és nemzetközi forgalomban
+
+aa) tehergépjárművel díj ellenében végzett közúti árutovábbítási, valamint autóbusszal díj ellenében végzett személyszállítási tevékenységre (a rendelet alkalmazásában a továbbiakban együtt: közúti közlekedési szolgáltatás),
+
+ab) tehergépjárművel végzett saját számlás közúti áruszállításra, és
+
+ac) autóbusszal végzett saját számlás személyszállításra,
+
+valamint az ilyen tevékenységet végző természetes személyekre, jogi személyekre és jogi, személyiséggel nem rendelkező szervezetekre, az ezzel összefüggésben tevékenységet végző, szállított áru feladójára, felrakójára, továbbá a címzettre és lerakókra, továbbá
+
+b) a Magyarországon székhellyel rendelkező, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek (a továbbiakban: gazdálkodó szervezet) által Magyarország területén kívül nemzetközi forgalomban végzett közúti közlekedési szolgáltatásra
+
+terjed ki.
+
+(2) A nemzetközi forgalomban végzett közúti közlekedési szolgáltatásra e rendelet rendelkezései csak annyiban alkalmazhatóak, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+
+(3) Jogszabály eltérő rendelkezése hiányában az autómentési szolgáltatást végző gazdálkodó szervezet díj ellenében végzett közúti árutovábbítási tevékenységére a rendelet rendelkezéseit kell alkalmazni.
+
+(4)[^2] Nem terjed ki a rendelet hatálya – a 13. § (2)–(3) bekezdésében, a 18. § (1) bekezdésében, a 19. § (3) bekezdésében, a 20. §-ban, valamint a 33. § (4)–(5) bekezdésében foglaltak kivételével – a postai küldeménynek a postai szolgáltatásokról szóló törvény alapján postai szolgáltatásnak minősülő szállítására, valamint a hulladékról szóló törvény alapján hulladékgazdálkodási engedély birtokában végzett szállításra.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+(1) E rendelet alkalmazásában:
+
+1.[^3] autóbusszal díj ellenében végzett belföldi személyszállítás: az a személyszállítás, amelynél a személyszállítás megkezdésének és befejezésének a helye Magyarország területén van, és utas csak Magyarország területén szállhat fel az autóbuszra és csak ott szállhat le arról;
+
+2\. autóbusszal díj ellenében végzett nemzetközi személyszállítás: az a személyszállítás, amelynél
+
+2.1. a személyszállítás megkezdésének és befejezésének a helye Magyarország területén van, de az utazás során Magyarország területén kívül az autóbuszra utas szállhat fel, vagy arról utas szállhat le,
+
+2.2. az utas-szállítás megkezdésének vagy befejezésének a helye Magyarország területén kívül van, vagy
+
+2.3 az utas-szállítás megkezdésének a helye is és befejezésének a helye is Magyarország területén kívül van, de az utazás során Magyarország területén az autóbuszra utas szállhat fel vagy arról utas szállhat le;
+
+3.[^4] autóbusszal végzett saját számlás személyszállítás:
+
+3.1. a személyek gazdálkodó szervezet által végzett ellenszolgáltatás nélküli szállítása, feltéve, hogy a szállítást végző a tulajdonában lévő, általa üzemeltetett, lízingelt vagy meghatározott időtartamra bérelt autóbusszal végzi a szállítást, és az autóbuszt a szállítást végző üzemeltető, annak tagja, vagy a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy vezeti, vagy
+
+3.2. a személyszállítási szolgáltatásokról szóló törvényben meghatározott, a 3.1. pontban nem említett saját számlás személyszállítás;
+
+4.[^5] bérelt tehergépjármű: az a tehergépjármű, amely nincs a bérlő tulajdonában, de amelyet a bérlő – a tehergépjárműre (járművezető nélkül) a bérbeadóval meghatározott időtartamra kötött bérleti szerződés, lízingszerződés vagy a tehergépjármű használatát térítés ellenében lehetővé tevő egyéb szerződés alapján – díj ellenében végzett közúti árutovábbítás vagy saját számlás áruszállítás céljára kizárólagosan használhat,
+
+5.[^6] díj ellenében végzett közúti árutovábbítás: a tehergépjárművel végzett közúti árufuvarozás, tehergépjárműnek járművezetővel együtt díj ellenében történő – a közúti árutovábbítási szerződésekről szóló jogszabályban meghatározottak szerinti – rendelkezésre bocsátása, valamint a tehergépjárművel díj ellenében végzett vontatás;
+
+6\. díj ellenében végzett nemzetközi közúti árutovábbítás: az a díj ellenében végzett közúti árutovábbítás, amelynél az árutovábbítás
+
+6.1.[^7] megkezdésének és befejezésének a helye Magyarország területén van, de út közben Magyarország területén kívül a tehergépjárműre árut raknak fel, vagy Magyarország területén kívül arról árut raknak le, vagy
+
+6.2. megkezdésének vagy befejezésének a helye Magyarország területén kívül van, vagy
+
+6.3.[^8] megkezdésének a helye is és befejezésének helye is Magyarország területén kívül van, de az árutovábbítás során az azt végző tehergépjármű érinti Magyarország területét is;
+
+7\. gazdálkodó szervezet szakmai irányítását ellátó személy: az a személy, aki ténylegesen és folyamatosan szervezi és irányítja a gazdálkodó szervezet közúti közlekedési szolgáltatási tevékenységét;
+
+8\. gazdálkodó szervezet székhelye: az a helység (és ezen belül az a hely), ahol a gazdálkodó szervezetet megalapítják; az alapítást követő változás esetén a gazdálkodó szervezet székhelye az a helység (és ezen belül az a hely), amelyet az erre vonatkozó hivatalos nyilvántartásban székhelyként megneveznek;
+
+9.[^9] jármű tárolása: a tehergépjármű és az autóbusz (a továbbiakban együtt: jármű) elhelyezése az e célból kijelölt helyen arra az időszakra, amely alatt a járművel az 1. § (1) bekezdés aa) – ac) pontjaiban meghatározott tevékenységet nem végzik, kivéve az e tevékenységek folytatása között a belföldi székhelyű üzembentartó esetén 7 órát, külföldi székhelyű üzembentartó esetén 24 órát meg nem haladó időtartamú várakozást;
+
+10\. közforgalmú menetrend szerinti személyszállítás: menetrend alapján díj ellenében végzett személyszállítási szolgáltatás, amelyet az utazási feltételek megtartásával bárki igénybe vehet;
+
+11\. különjárati személyszállítás: személyek – megrendelő vagy szolgáltató által összeállított – csoportjának autóbusszal díj ellenében végzett nem menetrend szerinti szállítása;
+
+12\. menetrend szerinti személyszállítás: autóbusszal menetrend alapján díj ellenében végzett személyszállítás;
+
+13.[^10] ömlesztett áru: részecskékből, szemcsékből, vagy nagyobb anyagdarabokból, illetve ezek kombinációjából álló anyag, amelyet tömegben, rendezetlenül és csomagolás nélkül raknak fel az azt továbbító tehergépjármű rakfelületére;
+
+14.[^11] saját számlás közúti áruszállítás: árunak vagy más dolognak tehergépjárművel gazdálkodó szervezet által végzett szállítása, ha a
+
+14.1.[^12] a szállított áru vagy más dolog a szállítást végző tulajdona, vagy azt a szállítást végző megvette, eladta, bérbe vette, bérbe adta, vagy az a szállítást végző által előállított, kinyert, feldolgozásra, javításra átvett, feldolgozott, javított dolog, és a szállítás célja az árunak vagy más dolognak a szállítást végzőhöz beszállítása, vagy a szállítást végzőtől való elszállítása, a szállítást végző saját céljaira, és a szállítást végző által üzemben tartott vagy bérelt tehergépjárművel végzik a szállítást;
+
+14.2.[^13] a szállítást gazdálkodó szervezet az általa üzemben tartott vagy bérelt tehergépjárművel tagja vagy a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy részére végzi, vagy az egyéni vállalkozó a saját maga részére végzi;
+
+15.[^14]
+
+16\. tehergépjármű: a tehergépkocsi, a vontató – ideértve a nyerges vontatót is –, valamint az ilyen járműből és az általa vontatott pótkocsiból (félpótkocsiból) álló járműszerelvény;
+
+17.[^15] üzembentartó: a járművet hatósági jelzéssel ellátó ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos; a 34. § szerinti szerződés esetén üzembentartó a bérlő, illetve a használatba vevő.
+
+(2) A közúti közlekedési szolgáltatási, a saját számlás közúti áruszállítási és az autóbusszal végzett saját számlás személyszállítási tevékenységnek részét képezi az árutovábbítás, az áruszállítás vagy a személyszállítás érdekében a járművel rakomány vagy utas nélkül megtett út is.
+
+### 3. Közös rendelkezések
+
+#### 3. §
+
+(1) Magyarország területén belföldi forgalomban – ide nem értve az 1072/2009/EK rendeletben és az 1073/2009/EK rendeletben meghatározott kabotázs-forgalmat –
+
+a)[^16] 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenység közúti árutovábbítási engedéllyel,
+
+b)[^17]
+
+c) autóbusszal díj ellenében személyszállítási tevékenység közúti személyszállítási engedéllyel,
+
+d) autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal
+
+végezhető.
+
+(2)[^18]
+
+(3) Nincs szükség engedélyre a következő tevékenységek végzéséhez:
+
+a) sérült vagy műszaki hibás járművek továbbítása,
+
+b) gyógyszerek, gyógyászati készülékek, berendezések, felszerelések és egyéb tárgyak természeti katasztrófa vagy egyéb közveszély miatt szükséges sürgős szállítása.
+
+#### 4. §
+
+(1) Magyarország területét érintő nemzetközi forgalomban díj ellenében végzett közúti árutovábbítás, valamint saját számlás közúti áruszállítás az adott tevékenységre vonatkozó,
+
+a) az 1072/2009/EK rendelet 4. cikke szerinti– nemzetközi közúti árufuvarozásra kiadott – közösségi engedéllyel (a továbbiakban: árutovábbítási közösségi engedély),
+
+b)[^19] a Nemzetközi Közlekedési Fórum által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
+
+c)[^20] a tehergépjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
+
+végezhető.
+
+(2) Magyarország területét érintő nemzetközi forgalomban autóbusszal díj ellenében személyszállítás, valamint autóbusszal saját számlás személyszállítás az adott tevékenységre vonatkozó
+
+a) az EGT-tagállam (a továbbiakban: tagállam) által
+
+aa) nemzetközi közúti személyszállításra az 1073/2009/EK rendelet 4. cikkében foglaltak szerint kiadott közösségi engedéllyel (a továbbiakban: személyszállítási közösségi engedély), vagy az 5. cikkének (5) bekezdésében foglaltak szerint kiadott közösségi igazolvánnyal,
+
+ab) menetrend szerinti nemzetközi személyszállításra az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel;
+
+b) az autóbusszal végzett nemzetközi nem menetrend szerinti személyszállításról szóló (INTERBUS) megállapodás (a továbbiakban: INTERBUS megállapodás) alapján kiadott engedéllyel (a továbbiakban: INTERBUS engedély);
+
+c) kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel vagy igazolvánnyal
+
+végezhető.
+
+(3)[^21]
+
+#### 4/A. §[^22]
+
+(1)[^23] (1) A 4. § (1) bekezdés a) pontja szerinti engedély alapján végzett fuvarfeladatot kivéve, a Magyarország
+
+a) területét érintő, díj ellenében nemzetközi közúti árutovábbítást végző, 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű,
+
+b) területét érintő, saját számlás nemzetközi közúti áruszállítást végző, 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű, és
+
+c) területén kabotázsműveletet, azt megelőző és azt követő fuvarfeladatot végző tehergépjármű
+
+az adott, Magyarország területén engedélyköteles vagy engedély birtokában végzett fuvarfeladatra, üresfutásra vonatkozó, a (3) bekezdés szerinti elektronikus fuvarregisztrációval (a továbbiakban: fuvarregisztráció) vehet részt a közúti forgalomban.
+
+(1a) Az 1072/2009/EK rendelet 8. és 9. cikke szerinti kabotázsműveletet végző jármű esetében az (1) bekezdés szerinti első kabotázsműveletet megelőző fuvarfeladatra vonatkozó fuvarregisztrációt az első kabotázsművelet megkezdése előtt, az utolsó kabotázsműveletet követő fuvarfeladatra vonatkozó fuvarregisztrációt az utolsó kabotázsművelet lezárása előtt kell elvégezni.
+
+(2) Az (1) bekezdésben meghatározott tehergépjármű üzembentartója vagy a szállító a fuvarfeladat megkezdése előtt a közlekedési hatóság által üzemeltetett nyilvánosan elérhető informatikai rendszerben (a továbbiakban: BIREG rendszer) a vállalkozás adatait – cégnév, székhely – tevékenységi vagy közösségi engedély adatait, és az adott vállalkozás szállítási tevékenységének a BIREG rendszerben történő rögzítésére jogosult felhasználók adatait és jogosultságait rögzíti (a továbbiakban: üzembentartói regisztráció).
+
+(3) Az (1) bekezdésben meghatározott tehergépjármű vezetője vagy üzemben tartója a fuvarfeladat esetén
+
+a) a felrakás megkezdése előtt, az adott szállítás adatait a közlekedési hatóság által üzemeltetett BIREG rendszerben rögzíti, valamint a kapcsolódó dokumentumok digitális képét feltölti (a továbbiakban: fuvarregisztráció),
+
+b) az államhatár átlépésekor a tehergépjármű Magyarország területére történő belépésének, valamint a Magyarország területéről történő kilépésének helyét, pontos (nap, óra, perc) időpontját és a kilométeróra állását a BIREG rendszerben rögzíti (eseményrögzítés).
+
+(4) A CEMT engedélyt vagy a 4. § (1) bekezdés c) pontjában meghatározott engedélyt és a fuvarregisztráció elvégzéséről szóló, a BIREG rendszer által korábban megküldött visszaigazolást a díj ellenében nemzetközi közúti árutovábbítást végző gazdálkodó szervezet a magyarországi felrakás helyén a feladónak, magyarországi lerakás helyén a címzettnek is bemutatja.
+
+(5)[^24] Magyarországi felrakás esetén a felrakó, magyarországi lerakás esetén a lerakó is vizsgálja a (4) bekezdésben foglalt engedély meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelését, továbbá a fuvarregisztráció meglétét, teljességét, valamint az adott fuvarfeladatnak való megfelelését.
+
+(6)[^25] Ha a (4) bekezdés szerinti engedély hiányzik, nem érvényes, hatálytalan, nem felel meg az adott árutovábbítási feladatnak, vagy a fuvarregisztráció hiányzik, hiányos vagy nem felel meg az adott fuvarfeladatnak, a felrakó vagy a lerakó azt a közlekedési hatóságnak, a vámhatóságnak vagy a rendőrségnek a hiba észlelését követően a BIREG rendszeren keresztül haladéktalanul bejelenti. A bejelentést kézhez vevő hatóság jogosult a felrakás és lerakás helyén megjelenni, a közúti közlekedésről szóló törvény szerint intézkedni, vagy más hatóság eljárását kezdeményezni.
+
+(6a)[^26] Ha a (6) bekezdésben foglalt bármely hiányosság az áru felrakásánál derül ki, a felrakó jogosult az áru felrakását megtagadni.
+
+(7)[^27] A magyarországi felrakás helyén a felrakó, a magyarországi lerakás helyén a lerakó a CEMT engedéllyel, vagy a 4. § (1) bekezdés c) pontjában meghatározott engedéllyel végzett, továbbá kabotázs fuvarozás esetén a BIREG rendszerben ellenőrzi a szállító által előzetesen feltöltött engedély meglétét, rögzíti a felrakás és a lerakás helyét, idejét, továbbá feltölti a regisztrált fuvarfeladathoz tartozó fuvarlevelet és egyéb dokumentumokat (engedélykezelés).
+
+#### 5. §
+
+Magyarország területén székhellyel rendelkező gazdálkodó szervezet Magyarország területén kívül közúti közlekedési szolgáltatást abban az esetben végezhet, ha – a 3. §-ban megjelölt közúti árutovábbítási engedélyen vagy közúti személyszállítási engedélyen felül – rendelkezik az adott tevékenység végzésére jogosító
+
+a) az 1072/2009/EK rendelet 2. cikke 2. pontja szerinti nemzetközi közúti árutovábbítás esetén árutovábbítási közösségi engedéllyel;
+
+b) a CEMT engedély érvényességi területén díj ellenében végzett nemzetközi közúti árutovábbítás esetén a tehergépjárművére kiadott CEMT engedéllyel;
+
+c) az autóbusszal díj ellenében végzett, az 1073/2009/EK rendelet hatálya alá tartozó és a 2. cikke 1. pontjában megjelölt nemzetközi személyszállítás esetén – az 5. cikk (2) bekezdésének negyedik albekezdésében és (5) bekezdésében foglaltak kivételével –
+
+ca) személyszállítási közösségi engedéllyel, vagy
+
+cb) 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel;
+
+d) az INTERBUS megállapodás alkalmazási területén autóbusszal végzett különjárati személyszállítás esetén az autóbuszra kiadott INTERBUS engedéllyel;
+
+e) kettő vagy többoldalú nemzetközi egyezmény alkalmazási területén végzett közúti közlekedési szolgáltatás esetén a járműre az adott egyezmény alapján kiadott engedéllyel.
+
+#### 6. §
+
+Az e rendeletben foglaltak megtartásáért – ha e rendelet eltérően nem rendelkezik – a közúti közlekedési szolgáltatáshoz, a saját számlás közúti áruszállításhoz, illetve az autóbusszal végzett saját számlás személyszállításhoz használt jármű üzemben tartója a felelős.
+
+## II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI SZOLGÁLTATÁSI TEVÉKENYSÉG VÉGZÉSÉNEK FELTÉTELEI
+
+### 4. Általános szabályok
+
+#### 7. §[^28]
+
+(1) Közúti közlekedési szolgáltatási tevékenységet csak gazdálkodó szervezet – ideértve az 1071/2009/EK rendelet 2. cikk 4. pontja szerinti személyeket is – végezhet.
+
+(2)[^29] Az 1071/2009/EK rendeletnek, valamint az e rendelet 8–23. §-ának a díj ellenében végzett közúti árutovábbítási tevékenységre vonatkozó rendelkezéseit alkalmazni kell minden olyan gazdálkodó szervezetre, amely – a tehergépjármű megengedett legnagyobb sebességének a mértékétől függetlenül – 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel akár belföldi, akár nemzetközi forgalomban díj ellenében közúti árutovábbítási tevékenységet végez.
+
+#### 8. §
+
+(1) Közúti közlekedési szolgáltatási tevékenység csak a közlekedési hatóság által kiadott engedéllyel végezhető.
+
+(2) A közlekedési hatóság a Magyarország területén székhellyel rendelkező gazdálkodó szervezet részére
+
+a)[^30] az – akár csak részben is – 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
+
+b) az autóbusszal díj ellenében végzett személyszállítási tevékenységre közúti személyszállítási engedélyt
+
+ad ki.
+
+(3) A közlekedési hatóság a közúti árutovábbítási engedélyt és a közúti személyszállítási engedélyt (a továbbiakban együtt: tevékenységi engedély) – továbbá az ahhoz tartozó engedélykivonatokat – a gazdálkodó szervezet kérelmére adja ki, abban az esetben, ha a kérelmező megfelel az 1071/2009/EK rendeletben, továbbá az e rendeletben foglalt feltételeknek.
+
+(4) A közlekedési hatóság ügyintézési határidejét az 1071/2009/EK rendelet 11. cikk (3) bekezdése tartalmazza.
+
+(5) A kiadott engedélyek, engedély-kivonatok másnak át nem adhatók.
+
+(6)[^31] A közúti közlekedési szolgáltatási tevékenységet végzőkről vezetett nyilvántartás az 1071/2009/EK rendeletben meghatározott adatok tekintetében – a természetes személyazonosító adatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+#### 9. §
+
+(1) A gazdálkodó szervezet abban esetben felel meg a jó hírnév 1071/2009/EK rendelet 3. cikk (1) bekezdés b) pontjában meghatározott követelményének, ha – a gazdálkodó szervezet mellett – a vezetésére (ügyvezetésére) jogosult személy (a továbbiakban: vezető), a szakmai irányító, az egyéni vállalkozó, valamint – egyszemélyes gazdasági társaság esetén – a gazdasági társaság tulajdonosa is megfelel ennek a követelménynek.
+
+(2)[^32] A jó hírnév követelménye a jó hírnévre alkalmasságot megszüntető cselekmény [1071/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1071/2009/EK rendelet) 6. cikk, (EU) 2016/403 bizottsági rendelet I. Melléklet] elkövetését megállapító határozat véglegessé válását, valamint a jó hírnévre alkalmasságot megszüntető esemény bekövetkezését követő egy év leteltét követően a 10. §-ban meghatározott eredményes írásbeli és szóbeli vizsga teljesítéséig nem teljesül.
+
+(3) Nem felel meg a jó hírnév követelményének az
+
+a) a gazdálkodó szervezet, amely a közúti közlekedési szolgáltatás végzésére jogosultságát a 17. § (4) bekezdés a)–e) vagy g) pontjában foglaltak miatt elvesztette,
+
+b) aki egyéni vállalkozói jogosultságát a 17. § (4) bekezdés a)–e) vagy g) pontjában foglaltak miatt elvesztette,
+
+c) aki vezető vagy szakmai irányító volt olyan közúti közlekedési szolgáltatást végző gazdálkodó szervezetnél, amelynek fizetésképtelenségét, valamint a fizetőképtelenségért a vezető vagy a szakmai irányító felelősségét a bíróság jogerősen megállapította,
+
+d) aki vezető, szakmai irányító vagy – egyszemélyes gazdasági társaság esetén – tulajdonos volt olyan gazdálkodó szervezetnél, amelynek az engedélyét (ideértve a korábban kiadott belföldi és nemzetközi közúti árufuvarozói engedélyt is), illetve közúti személyszállítási engedélyét a közlekedési hatóság a 17. § (4) bekezdés a)–e) vagy g) pontjában foglaltak miatt visszavonta.
+
+(4)[^33] A (3) bekezdésben foglaltakat kizáró okként a jogosultság elvesztését, a fizetésképtelenséget megállapító bírósági határozat, illetve az engedély visszavonását megállapító hatósági határozat véglegessé válását követő öt éven keresztül kell figyelembe venni.
+
+(5) Amennyiben a jó hírnév követelményét nem magyar állampolgárnak kell teljesítenie, a jogosultság elvesztését követő ötévi időtartamon belül kizáró oknak kell tekinteni azt is, ha az engedélyt kiadó ország hatósága az engedélyes hibája miatt a közúti közlekedési szolgáltatás végzésére való jogosultságát visszavonta.
+
+#### 10. §
+
+(1) A szakmai irányító abban az esetben felel meg a szakmai alkalmasság követelményének, ha részt vesz a közlekedési hatóság által e célra szervezett vagy engedélyezett tanfolyami képzésen, és a képzést követően eredményes írásbeli és szóbeli vizsgát tesz. A tananyag és vizsgaanyag témaköreit, valamint a vizsgával kapcsolatos követelményeket az 1071/2009/EK rendelet I. melléklete, a képzéssel és a vizsgáztatással kapcsolatos követelményeket jelen rendelet 3. melléklete tartalmazza.
+
+(2)[^34] A sikeres vizsga feltétele, hogy a vizsgázó a megszerezhető összes pontszámnak legalább a 60%-át elérje, továbbá valamennyi vizsgatárgyból megszerezze az ott elérhető pontszámoknak legalább az 50%-át. Sikertelen vizsga esetében a vizsgázó a vizsgatárgyból egy éven belül ismétlő vizsgát tehet. Ha a vizsgázó az elérhető pontszámok 50%-át minden vizsgatárgyból megszerezte, de a vizsgán megszerezhető összesített pontszámok alapján a vizsgaeredménye a 60%-ot nem érte el, a vizsgázó újabb vizsgát tehet az általa kiválasztott vizsgatárgyból. A megszerzett összes pontszám meghatározásánál a választott vizsgatárgy korábbi pontszáma helyett az ismételt vizsga pontszámát kell figyelembe venni. Az újbóli vizsga esetében is alkalmazni kell az egy éves időtartam-korlátozást.
+
+(3)[^35] A vizsga helyét és időpontját, valamint a vizsgabiztosokat a közlekedési hatóság jelöli ki. A vizsgáról jegyzőkönyvet kell készíteni. Sikeres vizsga esetén a vizsgázó számára a képesítéséről, a végzett szaktanfolyam és a vizsga jellegétől függően, az 1071/2009/EK rendelet 613/2012/EU bizottsági rendelettel módosított III. mellékletében meghatározottak szerinti – árufuvarozó szakmai irányítói, személyszállító szakmai irányítói – bizonyítványt (a továbbiakban: szakmai alkalmasságot igazoló bizonyítvány) kell kiadni. A szakmai alkalmasságot igazoló bizonyítvány igazolja a szakmai irányítói képesítés megszerzését.
+
+(4)[^36]
+
+(5) Részleges felmentést kaphat a vizsgakötelezettség alól az a személy, aki az előírt szakismeretek elsajátítását az e rendelet 1. mellékletében meghatározottak szerinti szakirányú felsőfokú képesítésről kiállított okirattal igazolja.
+
+(6)[^37] A szakmai irányító személyének alkalmatlanná válása vagy a szakmai irányító személyében bekövetkező változás esetén a gazdálkodó szervezet legfeljebb hat hónapig működhet szakmai irányító nélkül. Erről a közlekedési hatóságot a gazdálkodó szervezet értesíti. Ez a határidő a szakmai irányító elhalálozása vagy munkaképességének elvesztése esetén legfeljebb három hónappal meghosszabbítható. Az engedélyezett határidő lejártával a gazdálkodó szervezet igazolja a szakmai alkalmasság feltételének meglétét.
+
+(7)[^38] A szakmai irányítóknak 10 évente továbbképzésen kell részt venniük. A szakmai irányítók részére továbbképzést szervezni a közlekedési hatóság engedélye alapján lehet. A továbbképzés célja a szabályozásban időközben bekövetkezett változások megismertetése. A továbbképzést követő vizsgáztatást a közlekedési hatóság végzi, az előírt vizsgakötelezettségek sikeres teljesítéséről a közlekedési hatóság igazolást (továbbiakban: továbbképzési igazolás) ad ki. A továbbképzési kötelezettség sikeres teljesítésén túlmenően a szakmai alkalmasság követelményének való megfelelés a továbbiakban – a szakmai alkalmasságot igazoló bizonyítvány nélkül – a 10 évnél nem régebben kiállított továbbképzési igazolással is igazolható. A továbbképzés tan- és vizsgakövetelményeit a 3. melléklet tartalmazza.
+
+#### 11. §
+
+(1)[^39] A gazdálkodó szervezetnél szakmai irányító lehet a gazdálkodó szervezet tulajdonosa, tagja, alkalmazottja vagy az 1071/2009/EK rendelet 4. cikk (2) bekezdésében foglaltak szerint kijelölt személy.
+
+(2)[^40] A gazdálkodó szervezet szakmai irányítására az 1071/2009/EK rendelet 4. cikk (1) bekezdésében foglaltak szerint kijelölt személy, továbbá – a (3) bekezdésben foglalt kivétellel – az 1071/2009/EK rendelet 4. cikk (2) bekezdésében foglaltak szerint kijelölt személy csak egyetlen gazdálkodó szervezetnél láthat el szakmai irányítói tevékenységet.
+
+(3)[^41] Ugyanaz a kijelölt személy legfeljebb négy gazdálkodó szervezetnél láthat el szakmai irányító tevékenységet, ha ezeknek a gazdálkodó szervezeteknek a székhelye és minden olyan telephelye és fióktelepe, amelyre a kijelölt személy tevékenysége kiterjed, azonos vármegye közigazgatási területén van. A kijelölt személy ilyen esetben is csak összesen legfeljebb ötven jármű tekintetében lehet szakmai irányító.
+
+#### 12. §
+
+(1) A gazdálkodó szervezet pénzügyi helyzete abban az esetben megfelelő, ha
+
+a) a tevékenység megkezdéséhez és a zavartalan üzletvitelhez az 1071/2009/EK rendelet 7. cikkének (1) bekezdésében meghatározott tőkeerővel rendelkezik, és
+
+b)[^42] a kérelem benyújtásának időpontjában az adózás rendjéről szóló törvény szerint – köztartozásmentes adózónak minősül.
+
+(2)[^43] A megfelelő pénzügyi helyzet tanúsítására szolgáló (3)–(5) bekezdés szerinti dokumentumok elektronikus úton is benyújthatók a közlekedési hatóság részre.
+
+(3) A megfelelő pénzügyi helyzet az (1) bekezdés a) pontjában foglaltakra vonatkozóan a Magyar Könyvvizsgálói Kamaránál bejegyzett könyvvizsgáló nyilatkozatával, nyilvántartásba vett könyvvizsgálói társaság nyilatkozatával, vagy vagyoni biztosíték igazolásával tanúsítható.
+
+(3a)[^44] A megfelelő pénzügyi helyzet az (1) bekezdés b) pontjában foglaltakra vonatkozóan harminc napnál nem régebbi, az állami adó- és vámhatóság által kiállított köztartozásmentes adózói minőségről szóló igazolással és a székhely szerinti helyi önkormányzati adóhatóság által kiállított nemleges adóigazolással igazolható.
+
+(4) A könyvvizsgálói nyilatkozatnak a gazdálkodó szervezet számvitelről szóló törvény alapján készített beszámolója – beszámoló hiányában nyitómérleg, vagyonmérleg vagy vagyonkimutatás – alapján kell tanúsítania az (1) bekezdés a) pontjában foglaltak – egy évnél nem régebbi időpontban való – teljesülését. A közlekedési hatóság a gazdálkodó szervezettől kérheti a könyvvizsgálói nyilatkozat alapjául szolgáló bármely dokumentum bemutatását is.
+
+(5)[^45] Vagyoni biztosíték lehet az (1) bekezdés a) pontjában meghatározott összegnek megfelelő – pénzügyi intézménynél lekötött és elkülönített – pénzösszeg, pénzügyi intézmény által vállalt kezesség, garanciaszerződés, vagy biztosító intézettel kötött felelősségbiztosítás. A vagyoni biztosítékra vonatkozó szerződést legalább egy évi időtartamra kell megkötni. A gazdálkodó szervezet legkésőbb a szerződés lejártáig köteles igazolni, hogy a szerződést meghosszabbította, vagy más pénzügyi intézménnyel, biztosító intézettel új szerződést kötött.
+
+(6) Amennyiben a pénzügyi feltételek már nem teljesülnek, a közlekedési hatóság a gazdálkodó szervezet kérelmére legfeljebb hat hónapi időtartamra haladékot adhat azok teljesítése alól, ha a gazdálkodó szervezet – megalapozott üzleti terv alapján – könyvvizsgálói nyilatkozattal tanúsítja, hogy meghatározott időn belül nagy valószínűséggel várható a pénzügyi feltételek ismételt teljesítése. Az engedélyezett határidő lejártával a gazdálkodó szervezet köteles igazolni a pénzügyi feltételek meglétét. Az a gazdálkodó szervezet, amely a pénzügyi feltételek teljesítésére haladékot kapott, a kérelme benyújtásától számított öt éven belül erre irányuló kérelmet ismételten nem nyújthat be.
+
+#### 13. §
+
+(1) Az 1071/2009/EK rendelet 5. cikkében foglaltak a közúti közlekedési szolgáltatást végző gazdálkodó szervezet székhelyére vonatkoznak.
+
+(2) A gazdálkodó szervezet a közúti közlekedési szolgáltatás végzéséhez használt járműveit a telephelyén vagy – legfeljebb 10 jármű esetén – tárolóhelyén tárolhatja. Közúti közlekedési szolgáltatáshoz használt jármű – a (3) bekezdésben foglalt esetet kivéve – közúton vagy más közterületen nem tárolható.
+
+(3) A közút kezelője kivételesen indokolt esetben – olyan helyen, ahol a jármű a közúti forgalmat nem zavarja – hozzájárulhat a közúti közlekedési szolgáltatáshoz használt jármű közúton vagy közterületen való tárolásához.
+
+### 5. Tevékenységi engedély
+
+#### 14. §
+
+(1) A tevékenységi engedély iránti kérelemnek tartalmaznia kell a kérelmező gazdálkodó szervezet nevét, formáját és székhelyét, vezetőjének és szakmai irányítójának a természetes személyazonosító adatait, az üzemeltetni kívánt járművek megjelölését, rendszám szerint, továbbá azt, hogy a tevékenységi engedély díj ellenében végzett közúti árutovábbításra vagy személyszállításra – az utóbbin belül pedig azt is, hogy csak különjárati személyszállításra, különcélú menetrend szerinti személyszállításra, vagy közforgalmú menetrend szerinti személyszállításra – kéri.
+
+(2) A kérelemben nyilatkozni kell arról, hogy a gazdálkodó szervezet, valamint a 9. § (1) bekezdésében megjelölt személyek megfelelnek a jó hírnév követelményének, a szakmai irányító ezen felül a szakmai alkalmasság követelményének is, továbbá hogy a gazdálkodó szervezet teljesíti a pénzügyi helyzettel kapcsolatos követelményeket.
+
+(3)[^46]
+
+(3a)[^47]
+
+(3b)[^48] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(3c)[^49]
+
+(4)–(5)[^50]
+
+#### 15. §
+
+(1)[^51] A tevékenységi engedélyben – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl – fel kell tüntetni
+
+a) a tevékenységi engedély számát és időbeli hatályát,
+
+b) a gazdálkodó szervezet vezetésére (ügyvezetésére) jogosult személy nevét,
+
+c) a szakmai irányító nevét,
+
+d) azt, hogy a tevékenységi engedély díj ellenében végzett közúti árutovábbításra vagy személyszállításra szól, az utóbbin belül pedig azt is, hogy csak különjárati személyszállításra, különcélú menetrend szerinti személyszállításra, vagy közforgalmú menetrend szerinti személyszállításra is jogosít,
+
+e) az üzemeltethető járművek számát, autóbuszok esetében azok összes férőhely-kapacitását is, továbbá
+
+f) a szakmai irányító képesítésének korlátozottsága miatt, vagy bármely egyéb okból a tevékenységi engedély esetleges korlátozását.
+
+(2)[^52] A járművek számának megfelelő számban kiadott tevékenységi engedély másolata (a továbbiakban: engedélykivonat) a jármű forgalmi rendszámára szól, és legalább tartalmazza az engedélykivonat alszámát is.
+
+(3) A tevékenységi engedély adataiban bekövetkezett változást az engedélyes tizenöt napon belül köteles a közlekedési hatóságnak bejelenteni. Be kell jelenteni továbbá az engedély alapján üzemeltetett járművekben történő változást is; ez a bejelentési kötelezettség azonban nem vonatkozik a jármű átmeneti kiesése esetén igénybe vett helyettesítő járműre, ha az igénybevétel időtartama – szerződéssel igazoltan – nem haladja meg a tizenöt napot.
+
+(4) Helyettesítés esetén a helyettesített járműre kiadott engedély-kivonatot a tevékenységet gyakorló járművön kell tartani. Saját helyettesítő jármű esetén annak használata jogszerűségét igazoló okmány (forgalmi engedély, bérleti szerződés) helyettesíti a szerződést.
+
+(5) A változás bejelentése alapján a közlekedési hatóság a változást a nyilvántartásában átvezeti, és – a korábbi engedély bevonása mellett – új tevékenységi engedélyt, valamint új engedélykivonatot ad ki.
+
+(6) A tevékenységi engedélyt a gazdálkodó szervezet a székhelyén köteles őrizni. Az engedélykivonatot az árutovábbítás, illetve személyszállítás közben a járművön kell tartani.
+
+(7) A gazdálkodó szervezet köteles a tevékenységi engedélyt és az engedélykivonatokat a közúti közlekedési szolgáltatási tevékenység szüneteltetése esetén a közlekedési hatóságnál letétbe helyezni; a tevékenység megszűnése esetén, illetve az engedély időbeli hatályának lejártával pedig azt köteles a közlekedési hatóságnak visszaszolgáltatni.
+
+#### 16. §
+
+(1) A közlekedési hatóság a tevékenységi engedélyt a kérelemben megjelölt időtartamra, de legfeljebb az 1072/2009/EK rendelet 4. cikkének (2) bekezdésében, illetve az 1073/2009/EK 4. cikk (4) bekezdésében és 6. cikk (2) bekezdésében meghatározott időtartamra adja ki. Rövidebb időtartam csak indokolt esetben – az indokok pontos megjelölésével – határozható meg.
+
+(2) A közforgalmú menetrend szerinti személyszállítási tevékenység végzésére kiadott engedély időbeli hatályára a közszolgáltatási szerződésben foglaltak az irányadóak.
+
+#### 17. §
+
+(1) A közlekedési hatóság a tevékenységi engedélyt az 1071/2009/EK rendelet 13. cikkében foglalt esetekben, továbbá a (2)–(4) bekezdésekben meghatározott esetekben korlátozza, felfüggeszti, illetve a tevékenységi engedélyt (az engedélykivonatokkal együtt) visszavonja.
+
+(2) A közlekedési hatóság a gazdálkodó szervezet által üzemeltethető járművek számát – az érintett engedélykivonatok bevonása mellett – arányosan korlátozza, ha a gazdálkodó szervezetnél a pénzügyi követelmények már nem minden jármű tekintetében teljesülnek.
+
+(3) A közlekedési hatóság a gazdálkodó szervezetnek a tevékenységi engedélyét (az engedélykivonatokkal együtt) legalább három hónapra, de legfeljebb egy évre felfüggesztheti – az 1071/2009/EK rendelet IV. mellékletében, valamint a (4) bekezdésben foglalt esetekben visszavonja – ha a gazdálkodó szervezet
+
+a) az engedélyben foglaltaktól eltérő tevékenységet végez, illetve
+
+b)[^53] a járművezető személyi feltételeire, vezetési és pihenőidejére, a tehergépjármű, illetve az autóbusz műszaki, biztonsági, környezetvédelmi vagy egyéb követelményeire, a szállítás feltételeire, az árutovábbítási, illetve személyszállítási közösségi engedély hiteles másolatainak, az ellenőrzési okmányoknak a használatára vagy az adatszolgáltatási kötelezettségre vonatkozó előírásokat megsérti.
+
+(4) A közlekedési hatóság a gazdálkodó szervezet tevékenységi engedélyét (az engedélykivonatokkal együtt) visszavonhatja,
+
+a)[^54] az 1071/2009/EK rendelet IV. mellékletében, valamint a 2016/403 (EU) bizottsági rendelet II. Mellékletében foglaltak figyelembevételével, a 2016/403 (EU) bizottsági rendelet I. Mellékletében megjelölt bármely jogsértés elkövetése esetén,
+
+b) ha az engedély megadása szempontjából lényeges adat tekintetében szándékosan valótlan adatot szolgáltattak,
+
+c) ha a gazdálkodó szervezet nemzetközi forgalomban ismétlődően jogosulatlan tevékenységet végez,
+
+d) ha a gazdálkodó szervezet súlyosan és ismételten megsérti a járművezető személyi feltételeire, vezetési és pihenőidejére vonatkozó szakmai előírásokat,
+
+e) ha a gazdálkodó szervezet kabotázs esetén súlyosan és ismételten megsérti a fogadó tagállam rendelkezéseit, és ezért külföldi hatóság a nemzetközi forgalomból való kitiltását kezdeményezi,
+
+f) ha a gazdálkodó szervezet az engedélyezett tevékenységet tartósan – legalább 6 hónapon át – nem gyakorolja, anélkül, hogy a szüneteltetést a közlekedési hatóságnak megfelelő indokkal bejelentette volna, illetve
+
+g) ha a gazdálkodó szervezet ismételten olyan személyszállítási tevékenységet végez, amelyre az engedélye nem jogosítja.
+
+(5) Az eljáró közlekedési hatóság a közforgalmú menetrend szerinti személyszállítási tevékenységet is érintő felfüggesztő vagy visszavonó határozatát tájékoztatás céljából megküldi a közlekedésért felelős miniszternek, valamint az érintett gazdálkodó szervezetnél az állam tulajdonosi jogait gyakorló szervezetnek, továbbá helyi közlekedést érintő esetben az illetékes önkormányzatnak is.
+
+### 6. A közúti közlekedési szolgáltatáshoz igénybe vett járművek
+
+#### 18. §
+
+(1) A közúti közlekedési szolgáltatáshoz használt jármű jobb oldali első ajtajának külső részén – tehergépjárműnél az oldalfalán – jól látható méretben fel kell tüntetni az üzembentartó nevét és telephelyét, vagy a közlekedési hatóság által e célra rendszeresített jelet és azonosítási számot.
+
+(2) Menetrend szerinti személyszállításhoz csak olyan autóbusz használható, amelyről a közlekedési hatóság a közúti járművek műszaki megvizsgálásáról szóló rendeletben meghatározott műszaki vizsgálat alapján megállapította, hogy megfelel a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló rendeletben a menetrend szerint közlekedő autóbuszra meghatározott műszaki feltételeknek. Alkalmasság esetén a közlekedési hatóság a jármű forgalmi engedélyét „menetrend szerinti személyszállításra alkalmas” bejegyzéssel látja el. Ha a korábban a menetrend szerint közlekedő autóbuszra meghatározott műszaki feltételeknek megfelelő autóbusz alkalmatlanná válik, a közlekedési hatóság a korábbi bejegyzést érvényteleníti, és a járműre kiadott engedélykivonatot bevonja.
+
+(3)[^55] A menetrend szerinti – belföldi vagy nemzetközi – országos személyszállítási szolgáltatást végző autóbusz homlok- vagy oldalfalán a járati útvonal kezdő- és végpontját, regionális személyszállítási szolgáltatást végző autóbusz homlok- és oldalfalán a járati útvonal kezdő- és végpontját, elővárosi személyszállítási szolgáltatást végző autóbuszok homlok- és oldalfalán a járati útvonal végpontját fel kell tüntetni. A különcélú menetrend szerinti személyszállításra használt autóbusz homlok- és oldalfalán a „különcélú járat” feliratot, különjárati személyszállítási szolgáltatás esetén a „különjárat” feliratot, szerződéses személyszállítási szolgáltatás esetén a „szerződéses járat” feliratot szükséges feltüntetni. Ha utastájékoztatási szempontból indokolt, valamint ha a szolgáltatás megrendelője egyéb követelményeket ír elő, a fentieken túl további információk is megjeleníthetőek.
+
+#### 19. §
+
+(1)[^56] A más tagállam hatósági engedélyével és jelzésével ellátott, díj ellenében közúti árutovábbítást végző 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű Magyarország területén – az 1072/2009/EK rendelet 1. cikk (5) bekezdésében felsorolt eseteket kivéve – árutovábbítási közösségi engedéllyel közlekedhet.
+
+(2) A más tagállam hatósági engedélyével és jelzésével ellátott autóbusz Magyarország területén
+
+a) menetrend szerinti személyszállítás esetén személyszállítási közösségi engedéllyel és az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel,
+
+b) különjárati személyszállítás esetén személyszállítási közösségi engedéllyel,
+
+c) saját számlás személyszállítás esetén az 1073/2009/EK rendelet 5. cikkének (5) bekezdésében megjelölt igazolvánnyal
+
+közlekedhet.
+
+(3)[^57] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjármű és autóbusz Magyarország területén a kettő vagy többoldalú nemzetközi szerződésben meghatározott engedéllyel (ideértve a CEMT engedélyt és az INTERBUS engedélyt is), a nemzetközi szerződésben meghatározott keretek között és az ott megjelölt feltételek megtartásával közlekedhet.
+
+### 7. [^58] A közúti közlekedési szolgáltatáshoz és a saját számlás szállításhoz igénybe vett járművek vezetői
+
+#### 20. §
+
+(1)[^59] Közúti közlekedési szolgáltatás és saját számlás szállítás keretében járművet az vezethet,
+
+a) akinek az adott jármű vezetéséhez szükséges vezetői engedélye van,
+
+b) aki a közúti járművezetők pályaalkalmassági vizsgálatáról szóló jogszabályban meghatározott esetben rendelkezik pályaalkalmassági minősítéssel,
+
+c) aki eleget tett – a 2. mellékletben meghatározott módon – a szakmai képzettségére és továbbképzési kötelezettségére vonatkozó követelményeknek, és rendelkezik az ezt igazoló okmánnyal,
+
+d) aki a vezetett jármű kategóriája tekintetében nem áll a járművezetéstől eltiltás hatálya alatt, valamint
+
+e)[^60] akinek a közlekedési igazgatási hatóság nem rendelte el véglegesen vezetési jogosultsága szünetelését.
+
+(2)[^61] Az (1) bekezdés a) pontjában megjelölt okiratot a magyar hatóság által kiadott vezetői engedéllyel rendelkező jármű vezetőjének a szolgáltatás teljesítése közben nem kell magánál tartania.
+
+(3)[^62] Az (1) bekezdés b) és c) pontjában megjelölt okiratokat a jármű vezetőjének a szolgáltatás teljesítése közben magánál kell tartania.
+
+#### 21. §
+
+(1)[^63] Az EGT-n kívüli állam állampolgára közúti közlekedési szolgáltatást végző, magyar vagy a 34. § (4) bekezdése szerint másik tagállam által kibocsátott hatósági engedéllyel és jelzéssel ellátott járművet a közúti közlekedési szolgáltatást végző gazdálkodó szervezet kérelmére kiadott járművezetői igazolvány birtokában vezethet. A járművezetői igazolványt a közlekedési hatóság adja ki.
+
+(2)[^64] A járművezetői igazolvány iránti kérelemhez mellékelni kell a járművezető munkavállalási engedélyének, munkaszerződésének vagy foglalkoztatására irányuló egyéb jogviszonyának és Magyarország területén való tartózkodása jogszerűségét igazoló okmánynak a hiteles másolatát. Mellékelni kell továbbá a járművezető vezetői engedélyének és a szakmai képesítését igazoló okirat hiteles másolatát és annak hiteles fordítását is, amennyiben a járművezető a 2. melléklet 1. pontjában felsorolt kategóriákra érvényes vezetői engedéllyel rendelkezik.
+
+(3)[^65] A közlekedési hatóság a kiadott járművezetői igazolványokról nyilvántartást vezet, és a munkavédelmi hatósági és foglalkoztatás-felügyeleti hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalt értesíti a járművezetői igazolvány kiadásáról.
+
+### 8. Fuvarlevél, menetlevél
+
+#### 22. §
+
+(1)[^66] A díj ellenében közúti árutovábbítást végző tehergépjármű fuvarlevéllel, a díj ellenében személyszállítást végző autóbusz – közforgalmú menetrend szerinti személyszállítás kivételével – autóbusz-menetlevéllel vehet részt a forgalomban.
+
+(2) Fuvarlevélként olyan okmány használható, amely legalább a következő adatokat tartalmazza:
+
+a) az árutovábbítás jellege (fuvarozás, rendelkezésre bocsátás, díj ellenében végzett vontatás),
+
+b) az üzembentartó és a fuvaroztató megnevezése, címe,
+
+c) a jármű rendszáma és a gépjárművezető neve,
+
+d)[^67] az árura vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, az áru (a szállított anyag) megnevezése, mennyisége, a csomagolás módja, veszélyes árunál a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletében (a továbbiakban: ADR), illetve az ADR „A” és „B” Mellékletének belföldi alkalmazásáról szóló miniszteri rendeletben (a továbbiakban: ADR belföldi rendelet) meghatározott adatok, továbbá a vontatott vagy szállított járműre vonatkozó adatok (a tulajdonos vagy üzemben tartó megnevezése, címe, székhelyének vagy telephelyének címe, a jármű rendszáma),
+
+e) a jármű kiállításának, valamint indulásának helye és ideje, a jármű útvonala, a megállások (fel- és lerakodás) és indulások helye és ideje, valamint az érkezés helye és ideje (a kilométeróra állásának és a – rakománnyal vagy rakomány nélkül – megtett kilométer-teljesítményeknek a feltüntetésével),
+
+továbbá árufuvarozásnál és vontatásnál ezeken kívül még
+
+f) az áru vagy a vontatott jármű átvételének helye és ideje,
+
+g) az áru kiszolgáltatásának, illetve a vontatott jármű átadásának a helye, és – a kiszolgáltatást (átadást) követően – az ideje is.
+
+(2a)[^68] A konténer és a cserefelépítmény fuvarozása akkor kezdhető meg, ha a feladó a fuvarozó részére átadta a konténer vagy a cserefelépítmény tömegét, fontosabb jellemzőit tanúsító bizonylatot, amelyet a fuvarozás során árukísérő okmányként kell kezelni és a járműben kell tartani.
+
+(3) Autóbusz-menetlevélként olyan okmány használható, amely legalább a következő adatokat tartalmazza:
+
+a) a személyszállítás jellege (különcélú menetrend szerinti személyszállítás, különjárati személyszállítás),
+
+b) az üzembentartó és – amennyiben van ilyen – a megrendelő (szerződő fél) megnevezése és címe,
+
+c) a jármű rendszáma és a gépjárművezető (gépjárművezetők) neve,
+
+d) a jármű kiállításának, valamint indulásának a helye és ideje, a jármű útvonala, a megállások (fel- és leszállások) és indulások helye és ideje, valamint az érkezés helye és ideje (a kilométeróra állásának és az – utassal vagy utas nélkül – megtett kilométer-teljesítményeknek a feltüntetésével).
+
+(4) A fuvarlevél és az autóbusz-menetlevél szigorú számadású okmány.
+
+(5) A fuvarlevelet és az autóbusz-menetlevelet eseményszerűen kell vezetni.
+
+(6) A felhasznált vagy rontott fuvarlevelet, illetve autóbusz-menetlevelet sorszám szerint, hiánytalanul, a bizonylatokra vonatkozó szabályok szerint kell megőrizni.
+
+(7) A fuvarlevelet, illetve az autóbusz-menetlevelet az üzembentartó, vagy – írásbeli felhatalmazása alapján – a jármű vezetője állítja ki. A jármű vezetője köteles azt a szállítás során eseményszerűen vezetni, és aláírásával hitelesíteni. Közúti közlekedési szolgáltatás esetén a megrendelőnek, illetve a fuvaroztatónak az okmányon igazolnia kell az elvégzett teljesítményt, árufuvarozásnál az áru átvételét is.
+
+(8)[^69] A Magyarország területén székhellyel rendelkező gazdálkodó szervezet által végzett különjárati személyszállításnál az autóbuszban utazókról utaslistát kell készíteni. Az utaslista a menetlevél mellékletét képezi.
+
+#### 22/A. §[^70]
+
+A 13. §-ban, a 19. § (3) bekezdésében, a 20. § (1) bekezdés a), b), d) és e) pontjában, valamint (2) bekezdésében foglaltakat alkalmazni kell a díj ellenében közúti árutovábbítási tevékenységet végző minden olyan tehergépjárműre is, amelynek a megengedett legnagyobb össztömege a 2,5 tonnát nem haladja meg.
+
+### 9. Jelentéstétel, tájékoztatás
+
+#### 23. §[^71]
+
+Az 1071/2009/EK, az 1072/2009/EK és az 1073/2009/EK rendeletben meghatározott, a tagállamot terhelő jelentéstételi, tájékoztatási és a tagállamok illetékes hatóságai közötti igazgatási együttműködési és kölcsönös segítségnyújtási kötelezettséget – mint nemzeti kapcsolattartó – a közlekedési hatóság teljesíti. A közlekedési hatóság a kötelezettség teljesítéséről – a jelentés vagy a tájékoztatás másolatának megküldésével – egyidejűleg tájékoztatja a közlekedésért felelős minisztert.
+
+## III. Fejezet — AZ ÖMLESZTETT ÁRUT SZÁLLÍTÓ TEHERGÉPJÁRMŰ FORGALOMBAN VALÓ RÉSZVÉTELÉNEK FELTÉTELEI
+
+#### 24. §
+
+(1)[^72] Az olyan 10 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárműnek a forgalomban való részvételéhez, amelyet a Magyarország területén ömlesztett áruval raktak meg, jármű-tömegbizonylat is szükséges. A jármű-tömegbizonylatot az ömlesztett áru feladójának, vagy az áru felrakását végzőnek kell a megrakott tehergépjármű össztömegéről kiállítania, és a tehergépjármű vezetőjének igazolható módon átadnia, a felrakás helyén, hitelesített berendezéssel (hitelesített mérleggel) elvégzett jármű-mérlegelés, tengelyterhelés-mérés, vagy a rakomány súlyának mérlegelése alapján.
+
+(2) Ha a feladó vagy a felrakást végző a jármű-tömegbizonylat kiállítási kötelezettségének nem tud eleget tenni, a bizonylat helyett írásbeli nyilatkozatot kell kiállítania, és a jármű vezetőjének igazolható módon átadnia.
+
+(3) A jármű-tömegbizonylatnak, illetve az írásbeli nyilatkozatnak a következőket kell tartalmaznia:
+
+a) a kiállító neve, címe, a kiadási sorszám, a kiadás helye,
+
+b) a felrakott áru megnevezése, tömege (kg),
+
+c) a felrakodás dátuma (év, hó, nap, óra, perc),
+
+d) a jármű – mérlegelés vagy tengelyterhelés-mérés alapján megállapított – tömege (csak a bizonylaton),
+
+e) a jármű rendszáma, a fuvarlevél száma,
+
+f) a felrakodást végző aláírása és – amennyiben van – bélyegzője.
+
+(4)[^73] A tehergépjármű vezetője a jármű-tömegbizonylatot vagy az írásbeli nyilatkozatot átveszi, azt a szállítás időtartama alatt a tehergépjárművön tartja, és az ellenőrzést végző hatóság képviselőjének felszólítására bemutatja.
+
+(5)[^74] A jármű-tömegbizonylat vagy az írásbeli nyilatkozat a fuvarlevél vagy a saját számlás menetlevél mellékletét képezi, azokat a fuvarozás (szállítás) befejezését követően – a kapcsolódó okmányokhoz csatoltan – meg kell őrizni. Fuvarlevél és saját számlás menetlevél hiányában a jármű-tömegbizonylatot és az írásbeli nyilatkozatot az üzembentartó egy évig megőrzi.
+
+(6)[^75]
+
+## IV. Fejezet — A DÍJ ELLENÉBEN VÉGZETT NEMZETKÖZI KÖZÚTI ÁRUTOVÁBBÍTÁS TOVÁBBI FELTÉTELEI
+
+### 10. A tagállamok gazdálkodó szervezetei által végzett nemzetközi árutovábbítás
+
+#### 25. §
+
+(1)[^76] A tagállamokban székhellyel rendelkező gazdálkodó szervezetek 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel egymás között vagy egymás területét érintően díj ellenében végzett nemzetközi közúti árutovábbítási tevékenységére vonatkozó további feltételeket – ideértve a bármely megengedett legnagyobb össztömegű tehergépjárművel végzett kabotázs-tevékenységre vonatkozó feltételeket is – megállapító, a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló 1072/2009/EK rendeletet az e § (2)–(5) bekezdésében foglalt végrehajtási rendelkezésekkel együtt kell alkalmazni.
+
+(2)[^77] A közlekedési hatóság
+
+a) az árutovábbítási közösségi engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti árutovábbítási engedélye,
+
+b) a közösségi járművezetői igazolványt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti árutovábbítási engedélye és – ezen kívül – árutovábbítási közösségi engedélye is
+
+van, és megfelel a 612/2012/EU bizottsági rendelettel módosított 1072/2009/EK rendeletben árutovábbítási közösségi engedélyre, illetve a járművezetői igazolványra meghatározott feltételeknek.
+
+(3) Az EGT más tagállamában székhellyel rendelkező gazdálkodó szervezet által 3.5 tonnát meg nem haladó össztömegű tehergépjárművel díj ellenében végzett nemzetközi közúti árutovábbításhoz árutovábbítási közösségi engedély nem szükséges, de Magyarország területén áruküldeményt továbbítás céljából felvenni – függetlenül attól, hogy az áruküldemény rendeltetési helye melyik országban van – csak abban az esetben jogosult, ha rendelkezik a székhelye szerinti tagországban részére kiadott – díj ellenében végzett közúti árutovábbítási jogosultságot megállapító – tevékenységi engedéllyel.
+
+(4) A közlekedési hatóság a gazdálkodó szervezet részére általa kiadott árutovábbítási közösségi engedélyt (az engedély hiteles másolataival együtt) – az 1072/2009/EK rendeletben meghatározottakon kívül – abban az esetben is felfüggeszti, illetve visszavonja, ha a gazdálkodó szervezet közúti árutovábbítási engedélyét felfüggesztette, illetve visszavonta.
+
+(5)[^78] Valamely tagállamban székhellyel rendelkező, fuvarozást végző gazdálkodó szervezetnek bármely megengedett legnagyobb össztömegű tehergépjárművel Magyarország területén, kombinált szállítási műveletek részét képező
+
+a) kezdeti,
+
+b) végső, valamint
+
+c) kezdeti és végső
+
+közúti szállítási szakaszon végzett tevékenységére az 1072/2009/EK európai parlamenti és tanácsi rendelet 8. cikkét kell alkalmazni.
+
+### 11. Az EGT-n kívül díj ellenében végzett nemzetközi közúti árutovábbítás
+
+#### 26. §
+
+(1) A Magyarország területén székhellyel rendelkező gazdálkodó szervezeteknek a tagállamokon kívüli államba irányuló, díj ellenében végzett nemzetközi közúti árutovábbítási tevékenységéhez engedély szükséges. Az engedélyt a közlekedési hatóság adja ki.
+
+(1a)[^79] CEMT engedélyt az a Magyarországon székhellyel rendelkező gazdálkodó szervezet kaphat, amely a közlekedési hatóság által minden évben nyilvánosan meghirdetett pályázat feltételeit teljesítette, és ennek tényét a közlekedési hatóság megállapította.
+
+(2)[^80] Magyarország területén az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjárművel kabotázsként közúti közlekedési szolgáltatási tevékenység a közlekedési hatóság engedélyével végezhető.
+
+(3)[^81] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjárműnek Magyarország területén, kombinált szállítási műveletek részét képező
+
+a) kezdeti,
+
+b) végső, valamint
+
+c) kezdeti és végső
+
+közúti szállítási szakaszon végzett tevékenysége kabotázsnak minősül.
+
+## V. Fejezet — AZ AUTÓBUSSZAL DÍJ ELLENÉBEN VÉGZETT NEMZETKÖZI SZEMÉLYSZÁLLÍTÁS KÜLÖN FELTÉTELEI
+
+### 12. A tagállamok gazdálkodó szervezetei által végzett nemzetközi személyszállítás
+
+#### 27. §
+
+(1)[^82] A tagállamokban székhellyel rendelkező gazdálkodó szervezeteknek – a tagállamok közötti vagy a tagállamok területét érintő – autóbusszal végzett nemzetközi személyszállítási tevékenységére vonatkozó további feltételeket (ideértve a kabotázs-tevékenységre vonatkozó feltételeket is) megállapító, a személyszállítás nemzetközi piacához való hozzáférés közös szabályairól szóló 1073/2009/EK rendeletet, valamint a 361/2014/EU rendeletet az e § (2)–(6) bekezdéseiben foglalt végrehajtási rendelkezésekkel együtt kell alkalmazni.
+
+(2) Magyarország területén székhellyel rendelkező gazdálkodó szervezetek részére a személyszállítási közösségi engedélyt, az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedélyt, valamint az 1073/2009/EK rendelet 2. cikkének 5. pontjában meghatározott saját számlás személyszállítási tevékenység végzéséhez szükséges igazolványt – kérelemre – a közlekedési hatóság adja ki.
+
+(3)[^83] A közlekedési hatóság
+
+a) a személyszállítási közösségi engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti személyszállítási engedélye,
+
+b) az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közösségi engedélye
+
+van, és megfelel a 611/2012/EU bizottsági rendelettel módosított 1073/2009/EK rendeletben az adott engedélyre meghatározott feltételeknek.
+
+(4) A közlekedési hatóság a gazdálkodó szervezet részére általa kiadott személyszállítási közösségi engedélyt és 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedélyt (azok kivonatával együtt) – az 1073/2009/EK rendelet 21. cikkében meghatározottakon kívül – abban az esetben is felfüggeszti, illetve visszavonja, ha a gazdálkodó szervezet közúti személyszállítási engedélyét felfüggesztette, illetve visszavonta.
+
+(5) Különcélú menetrend szerinti személyszállítást, valamint különjárati személyszállítást más tagállamban bejegyzett – személyszállítási közösségi engedéllyel rendelkező – gazdálkodó szervezet Magyarország területén belföldi forgalomban is végezhet.
+
+(6)[^84] A 13. § (2) bekezdésében meghatározott korlátozás nem vonatkozik az 1073/2009/EK rendelet 13. cikkében meghatározott esetre.
+
+(7)[^85] Az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel a közlekedési hatóság által engedélyezett tevékenység csak abban az esetben végezhető, ha az engedély jogosultja rendelkezik a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti autóbuszos piacfelügyeleti és utasjogi hatóság által jóváhagyott üzletszabályzattal és a jóváhagyott üzletszabályzatot hivatalos honlapján közzétette.
+
+### 13. Az EGT-n kívüli nemzetközi közúti személyszállítás
+
+#### 28. §
+
+(1) A nemzetközi szerződések alapján autóbusszal végzett személyszállításra meghatározott engedélyt – a nemzetközi szerződésekben meghatározott keretek között – a közlekedési hatóság adja ki.
+
+(2) Az (1) bekezdésben megjelölt engedélyt – a másik szerződő fél illetékes hatóságának egyidejű értesítésével – a közlekedési hatóság visszavonja, ha az engedélyes az engedély kiadásának feltételeit már nem teljesíti, illetve súlyosan vagy ismételten megsérti az engedélyezett tevékenység végzésére vonatkozó előírásokat.
+
+## VI. Fejezet — A SAJÁT SZÁMLÁS KÖZÚTI ÁRUSZÁLLÍTÁS ÉS AZ AUTÓBUSSZAL VÉGZETT SAJÁT SZÁMLÁS SZEMÉLYSZÁLLÍTÁS
+
+### 14.[^86] Közúti személyszállítási igazolvány
+
+#### 30. §[^88]
+
+Autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal végezhető. Nem szükséges a saját számlás személyszállítás végzéséhez közúti személyszállítási igazolvány olyan autóbusz igénybevétele esetén, amelyre a közlekedési hatóság engedélykivonatot állított ki.
+
+#### 31. §
+
+(1)[^89] A közúti személyszállítási igazolványt (a továbbiakban: igazolvány) – járművenként (járműszerelvény esetében csak a vontató járműre) két példányban, kérelemre – a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság adja ki.
+
+(2)[^90] Az igazolvány abban az esetben adható ki, ha a jármű üzemeltetője nyilatkozatot tesz, hogy az igazolvánnyal végzett tevékenysége mindenben megfelel az autóbusszal végzett saját számlás személyszállítás feltételeinek.
+
+(3) Az igazolvány kiadása iránti kérelemben fel kell tüntetni a kérelmező gazdálkodó szervezet nevét, formáját és székhelyét, vezetőjének a természetes személyazonosító adatait, az üzemeltetni kívánt járművet, rendszám szerint, valamint a jármű üzemeltetésének jogcímét és telephelyét (tárolási helyét).
+
+(4)[^91] Az igazolványt a közlekedési hatóság a kérelemben meghatározott időtartamra, de legfeljebb öt évre adja ki, az üzemeltető nevére és a jármű rendszámára szólóan, kettő példányban. Az igazolvány egyik példányát az üzemeltető székhelyén kell őrizni, a másik példányt – a szállítási tevékenység közben – a járművön kell tartani. Az igazolványon szereplő adatokban bekövetkezett változást az üzembentartó tizenöt napon belül köteles a közlekedési hatóságnak bejelenteni.
+
+(5) Ha a járművet személyesen nem a tulajdonos vagy az üzemeltető vezeti, az igazolvány csak olyan dokumentummal együtt hatályos, amely hitelt érdemlően igazolja, hogy a járművet vezető személy az üzemeltető tagja, vele munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+
+(6) Az üzemeltető az igazolványt a jármű forgalomból történő kivonása, üzemeltetői jogának megváltozása, vagy a saját számlás szállítási tevékenység megszűnése esetén, továbbá – megújítás céljából – az igazolvány időbeli hatályának lejártával köteles a közlekedési hatóságnak visszaszolgáltatni.
+
+(7) Nemzetközi forgalomban
+
+a) saját számlás közúti áruszállítás, vagy autóbusszal saját számlás személyszállítás a közlekedési hatóság által kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel, vagy
+
+b) a tagállamok a területén saját számlás közúti áruszállítás az 1072/2009/EK 1. cikk (5) bekezdés *d)* pontjában, autóbusszal saját számlás személyszállítás az 1073/2009/EK 3. cikk (2) bekezdésében foglaltak szerint is
+
+végezhető.
+
+#### 32. §
+
+(1)[^92] A közlekedési hatóság a közúti személyszállítási igazolványt – ha a tevékenység végzésére jogosult több igazolvánnyal rendelkezik, az összes igazolványt – legalább kettő évre, legfeljebb öt évre visszavonja, ha a tevékenységet végző
+
+a) súlyosan és ismételten megsérti a járművek műszaki és biztonsági követelményeire, vagy a járművezetők személyi feltételeire, vezetési és pihenőidejére vonatkozó jogszabályi rendelkezéseket, vagy
+
+b) közúti közlekedési szolgáltatási tevékenységet végez, anélkül, hogy erre jogosult lenne.
+
+(2) Az üzemeltető az igazolvány visszavonásának időtartama alatt újabb igazolványt nem kaphat.
+
+### 15. A forgalomban való részvétel további feltételei
+
+#### 33. §
+
+(1)[^93] A közúti forgalomban saját számlás menetlevéllel vehet részt
+
+a) a saját számlás közúti áruszállítást végző 7,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű,
+
+b) az ADR és az ADR belföldi rendelet hatálya alá tartozó, saját számlás szállításokat végző tehergépjármű és
+
+c) a saját számlás személyszállítást végző autóbusz.
+
+(2) Saját számlás menetlevélként olyan okmány használható, amely legalább a következő adatokat tartalmazza:
+
+a) az üzembentartó megnevezése, székhelye és a gépjárművezető neve,
+
+b) a jármű rendszáma, telephelye,
+
+c)[^94] áruszállítás esetén a rakományra vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, a szállítmány (a szállított anyag) megnevezése, mennyisége, származása, a csomagolás módja, veszélyes árunál az ADR-ben, illetve az ADR belföldi rendeletben meghatározott adatok, továbbá
+
+d) az indulás, a megállások és az érkezés (fel- és lerakodás) helye és ideje, a kilométeróra állása, valamint a megtett kilométer-teljesítmények.
+
+(3)[^95] A saját számlás menetlevél szigorú számadású nyomtatványnak minősül. A menetlevelet – az üzemben tartó írásbeli rendelkezése alapján – a jármű vezetője köteles kiállítani. A jármű vezetője köteles a saját számlás menetlevelet a szállítás során eseményszerűen vezetni és aláírásával hitelesíteni.
+
+(3a)[^96] A saját számlás közúti áruszállítást végző tehergépjármű menetlevele elektronikus formában is vezethető. Az elektronikus menetlevél esetében a (2) bekezdésben meghatározott adatokat azok rendelkezésre állásának időpontjában, illetőleg automatikusan, zárt rendszerben kell rögzíteni. Az elektronikus menetlevél adatrögzítő berendezésének alkalmasnak kell lennie arra, hogy:
+
+a) a tárolt adatok aktuális tartalmát teljes körűen megjelenítse, és
+
+b) a tárolt adatokról hiteles nyomtatást készítsen vagy biztosítsa az ellenőrzést végző hatóság számára – a jármű üzemben tartója által működtetett zárt informatikai rendszer útján – a tárolt adatok közvetlen, valós idejű letöltését.
+
+(4) A 13. § (2)–(3) bekezdésében foglaltakat alkalmazni kell a gazdálkodó szervezet által a saját számlás közúti áruszállításhoz vagy a saját számlás személyszállításhoz használt járművek tárolására is.
+
+(5) Saját számlás közúti áruszállítást, illetve saját számlás személyszállítást végző jármű vezetőjére a 20. §-ban foglaltakat is – értelemszerűen – alkalmazni kell.
+
+## VII. Fejezet — A BÉRELT TEHERGÉPJÁRMŰVEL DÍJ ELLENÉBEN VÉGZETT KÖZÚTI ÁRUTOVÁBBÍTÁSRA ÉS A BÉRELT TEHERGÉPJÁRMŰVEL VÉGZETT SAJÁT SZÁMLÁS ÁRUSZÁLLÍTÁSRA VONATKOZÓ KÜLÖN RENDELKEZÉSEK[^97]
+
+#### 34. §
+
+(1)[^98] Bérelt tehergépjárművel díj ellenében közúti árutovábbítás, vagy bérelt járművel saját számlás áruszállítás írásban megkötött bérleti szerződés alapján végezhető.
+
+(2)[^99] A bérelt tehergépjárművel díj ellenében végzett közúti árutovábbítást és a bérelt tehergépjárművel végzett saját számlás áruszállítást kizárólag a tehergépjárművet bérlő gazdálkodó szervezet folytathat.
+
+(3)[^100] A bérelt tehergépjárművet csak a gazdálkodó szervezet természetes személy tagja, vagy a gazdálkodó szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy vezetheti.
+
+(4)[^101] A gazdálkodó szervezet csak olyan tehergépjárművet bérelhet – ide nem értve a pótkocsit –, melynek magyar vagy másik tagállam által kibocsátott hatósági engedélye és jelzése van (e § alkalmazásában: más tagállamból bérelt). A más tagállamból bérelt tehergépjármű használatára az adott naptári évben legfeljebb két egymást követő hónapon keresztül, az 1071/2009/EK rendelettel és az 1072/2009/EK rendelettel összhangban kerülhet sor. A bérelt tehergépjárműre kiadott engedélykivonatnak és közösségi engedély hitelesített másolatának időbeli hatálya nem haladhatja meg a tehergépjármű bérletére vonatkozó szerződés időtartamát, de más tagállamból bérelt tehergépjármű esetén legfeljebb két hónapot.
+
+(4a)[^102] A más tagállamból bérelt tehergépjárművek száma a más tagállamból bérelt tehergépjármű használatba állításának napján a közúti árutovábbítási engedélyek nyilvántartása szerint a gazdálkodó szervezet rendelkezésére álló tehergépjármű-állomány legfeljebb 30 százaléka lehet, azzal, hogy a rendelkezésre álló járművek közé nem kell beszámolni a már korábban más tagállamból bérelt tehergépjárműveket.
+
+(4b)[^103] Ha a gazdálkodó szervezet a (4a) bekezdés szerint rendelkezésére álló tehergépjármű-állománya egynél több és négynél kevesebb járműből áll, akkor egy, más tagállamból bérelt tehergépjármű engedélyezhető.
+
+(5)[^104] Bérelt tehergépjárművel díj ellenében végzett közúti árutovábbítás és bérelt tehergépjárművel saját számlás áruszállítás közben a járművezetőnek a közúti forgalomban magánál kell tartania hitelesített elektronikus formátumban vagy papír alapon
+
+a) a tehergépjármű bérletére vonatkozó szerződést vagy a szerződés hitelesített kivonatát, amely tartalmazza a bérbeadó és a bérlő nevét, a szerződéskötés napját és időtartamát, valamint a tehergépjármű azonosítási adatait, továbbá
+
+b) a tehergépjárművet vezetőnek
+
+ba) a bérlő gazdálkodó szervezetnél tagsági vagy részvényesi jogviszonyát igazoló iratot vagy
+
+bb) a járművezető foglalkoztatására vonatkozó szerződést vagy ezek hitelesített kivonatát vagy
+
+bc) egy három hónapnál nem régebbi fizetési jegyzéket.
+
+(6) Az (5) bekezdés a) és b) pontjában meghatározott iratok a tagállamban nyilvántartásba vett gépjármű esetében helyettesíthetőek a járművet nyilvántartó állam illetékes hatósága által kiadott – az (5) bekezdés a) és b) pontjában meghatározott tartalmú – irattal is.
+
+(7)[^105] Az (1)–(6) bekezdésekben foglaltakat kell alkalmazni abban az esetben is, ha a tehergépjármű használatba adása ingyenesen történik.
+
+(8)[^106] A tehergépjármű bérbe vagy használatba adásának igazolására a szerződés csak abban az esetben alkalmas, ha tartalmazza a közúti közlekedésről szóló 1988. évi I. törvény 21/A. § (4) bekezdése szerinti adatokat is.
+
+(9)[^107] A közlekedési hatóság a bérelt tehergépjárművekre kiadott közösségi engedély hitelesített másolatának kiadásával egyidejűleg a gazdálkodó szervezet által bérelt tehergépjárművek hatósági jelzését a közúti fuvarozó vállalkozásokról vezetett, az 1071/2009/EK rendelet 16. cikke szerinti nemzeti elektronikus nyilvántartásban rögzíti.
+
+(10)[^108] A közlekedési hatóság – mint nemzeti kapcsolattartó – teljesíti a tagállamot terhelő tájékoztatási és a tagállamok illetékes hatóságai közötti igazgatási együttműködési és kölcsönös segítségnyújtási kötelezettséget.
+
+(11)[^109] A (9) bekezdésben említett információ cseréjét a közlekedési hatóság az (EU) 2016/480 bizottsági végrehajtási rendeletben meghatározott, a közúti fuvarozó vállalkozásokról vezetett nemzeti elektronikus nyilvántartásokon keresztül teljesíti.
+
+## VIII. Fejezet — TÁJÉKOZTATÓ KIADÁSA
+
+#### 35. §
+
+Az 1071/2009/EK rendelet 10. cikk szerinti tájékoztatót a közlekedési hatóság adja ki, és annak naprakészségen tartásáról folyamatosan gondoskodik.
+
+## IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 16. Hatályba léptető rendelkezés
+
+#### 36. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetést követő napon lép hatályba.
+
+(2) A 3. § (1) bekezdés b) pontja, valamint a 29. § 2012. december 4-én lép hatályba.
+
+(3) A rendelet rendelkezéseit a hatálybalépését követően indult és megismételt eljárásokban kell alkalmazni.
+
+### 17. Átmeneti rendelkezések
+
+#### 37. §
+
+(1)[^110] A tehergépjárművel díj ellenében végzett közúti árutovábbítási, valamint az autóbusszal végzett személyszállítási tevékenység a rendelet hatálybalépése előtt kiadott engedély alapján az abban meghatározott időbeli hatály lejártáig folytatható.
+
+(2) Ha a közforgalmú menetrend szerinti belföldi személyszállítást a 2002. január 1-jét megelőzően kiírt koncessziós pályázat nyertese által alapított koncessziós társaság végzi, a közforgalmú menetrend szerinti személyszállítási tevékenység végzésére kiadott engedély időbeli hatályára a koncessziós szerződésben foglaltak az irányadóak.
+
+(3)[^111] A 10. § (2) bekezdésében foglalt rendelkezéseket a 2013. évi október hó 1. napját követő szaktanfolyami vizsgák esetében kell alkalmazni.
+
+(4)[^112] A 2121/98/EK rendeletnek megfelelően kiadott menetlevelek, engedélyek és igazolványok 2015. december 31-éig használhatók.
+
+(5)[^113] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 10. § (6) bekezdését és 31. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(6)[^114] Azok a 2020. május 23. előtt kiadott járművezetői igazolványok, amelyeken nem szerepel a 95. harmonizált uniós kód, lejáratuk időpontjáig érvényesek.
+
+(7)[^115] A közlekedési hatóság a Magyarország területén székhellyel rendelkező, fuvarozást végző gazdálkodó szervezet részére, annak kérelmére a 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt és árutovábbítási közösségi engedélyt ad ki.
+
+(8)[^116] E rendeletnek a Magyarország versenyképességének javítása érdekében egyes kormányrendeletek módosításáról szóló 155/2025. (VI. 23.) Korm. rendelettel (a továbbiakban: Mód.R.) módosított 12. § (3a) bekezdését a Mód.R. hatálybalépésekor[^117] folyamatban lévő eljárások során is alkalmazni kell.
+
+### 18. Az Európai Unió jogának való megfelelés
+
+#### 38. §
+
+(1) Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
+
+a)[^118] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 613/2012/EU bizottsági rendelet és az 1071/2009/EK rendeletnek, az 1072/2009/EK rendeletnek és az 1024/2012/EU rendeletnek a közúti fuvarozási ágazati fejleményekre tekintettel történő módosításáról szóló, 2020. július 15-i (EU) 2020/1055 európai parlamenti és tanácsi rendelet,
+
+b)[^119] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 612/2012/EU bizottsági rendelet,
+
+c)[^120] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 611/2012/EU bizottsági rendelet,
+
+d)[^121] az autóbusszal végzett nemzetközi személyszállítás okmányaira vonatkozóan az 1073/2009/EK európai parlamenti és tanácsi rendelet részletes alkalmazási szabályainak megállapításáról és a 2121/98/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 9-i 361/2014/EU bizottsági rendelet,
+
+e) a 3118/93/EGK tanácsi rendeletnek a saját számlás közúti árufuvarozókra történő alkalmazása részletes szabályairól szóló, 1994. április 8-i 792/94/EK bizottsági rendelet.
+
+(2) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelv,
+
+b)[^122] egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561 európai parlamenti és tanácsi irányelv 2. és 10. cikke,
+
+c)[^123]
+
+d) a közlekedéspolitika területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról szóló, 2006. november 20-i 2006/103/EK tanácsi irányelv,
+
+e)[^124] a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló 96/53/EK tanácsi irányelv módosításáról szóló, 2015. április 29-i (EU) 2015/719 európai parlamenti és tanácsi irányelv,
+
+f)[^125]
+
+g)[^126] a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló 2006/1/EK irányelv módosításáról szóló, 2022. április 6-i (EU) 2022/738 európai parlamenti és tanácsi irányelv.
+
+### 19. A közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet módosítása
+
+### 20. A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosítása
+
+### 21. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
+
+## 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
+
+**Részleges felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól**
+
+1\. Jogi ismeretek:
+
+a) jogász egyetemi szintű szak vagy
+
+b) jogász mesterképzési szak.
+
+2\. Gazdasági, pénzügyi vezetői és adózási ismeretek:
+
+a) alkalmazott közgazdaságtan alapképzési szak vagy
+
+b) közgazdasági egyetemi szintű szak vagy
+
+c) általános közgazdasági főiskolai szintű szak vagy
+
+d) közgazdász szakmérnök szakirányú továbbképzési szak,
+
+– gazdasági mérnök,
+
+a) pénzügy és számvitel alapképzési szak vagy
+
+b) pénzügyi egyetemi szintű szak vagy
+
+c) pénzügyi főiskolai szintű szak vagy
+
+d) számviteli főiskolai szintű szak vagy
+
+e) pénzügy mesterképzési szak vagy
+
+f) számvitel mesterképzési szak,
+
+– gazdálkodási mérnök,
+
+– könyvvizsgáló,
+
+– könyvszakértő.
+
+3\. Munkaügyi ismeretek:
+
+– egyetemen vagy főiskolán szerzett alábbi végzettségek:
+
+a) munkaügyi és társadalombiztosítási igazgatási alapképzési szak vagy
+
+b) társadalombiztosítás főiskolai szintű szak vagy
+
+c) társadalombiztosítási szakirányú továbbképzési szak vagy
+
+d) munkaügyi kapcsolatok főiskolai szintű szak vagy
+
+e) munkaügyi kapcsolatok szakirányú továbbképzési szak vagy
+
+f) egészségbiztosítási főiskolai szintű szak
+
+g) jogi egyetem.
+
+4.[^130] Árufuvarozási ismeretek:
+
+a) szakirányú okleveles gépészmérnök vagy
+
+b) szakirányú gépészmérnök vagy
+
+c) szakirányú okleveles közlekedésmérnök vagy
+
+d) szakirányú közlekedésmérnök vagy
+
+e) gépészmérnök alapképzési szakon vagy
+
+f) gépészmérnök mesterképzési szakon vagy
+
+g) közlekedésmérnök alapképzési szakon vagy
+
+h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
+
+i)[^131] középfokú szakképesítés:
+
+*ia)* nemzetközi szállítmányozási és logisztikai menedzser,
+
+*ib)* forgalmi tiszti felsőfokú tanfolyami szakképesítés.
+
+5.[^132] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
+
+a) szakirányú okleveles gépészmérnök vagy
+
+b) szakirányú gépészmérnök vagy
+
+c) szakirányú okleveles közlekedésmérnök vagy
+
+d) szakirányú közlekedésmérnök vagy
+
+e) gépészmérnök alapképzési szakon vagy
+
+f) gépészmérnök mesterképzési szakon vagy
+
+g) közlekedésmérnök alapképzési szakon vagy
+
+h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
+
+i) környezetvédelmi mérnök vagy
+
+j) okleveles környezetmérnök vagy
+
+k) környezetmérnök alapképzési szakon vagy
+
+l) környezetmérnök mesterképzési szakon szerzett diploma vagy
+
+m) műszaki tiszti felsőfokú tanfolyami képesítés, illetve
+
+n) közlekedésgépészeti technikus, közúti jármű-gépész,
+
+o) közlekedés-üzemviteli, gépjárműüzemi technikus.
+
+6\. Vámismeretek:
+
+– közép- vagy felsőfokú vámügyintézői szakképesítés.
+
+7.[^133] Személyszállítási ismeretek:
+
+a) szakirányú okleveles közlekedésmérnök vagy
+
+b) szakirányú közlekedésmérnök vagy
+
+c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
+
+d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
+
+e)[^134] középfokú szakképesítés:
+
+*ea)* nemzetközi szállítmányozási és logisztikai menedzser,
+
+*eb)* forgalmi tiszti felsőfokú tanfolyami szakképesítés.
+
+## 2. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
+
+**Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltatáshoz, valamint saját számlás szállítás keretében a jármű vezetéséhez szükséges képesítések[^135]**
+
+1.[^136] A C1; C1+E; C; C+E; D1; D1+E; D; D+E vezetői engedély kategóriákkal vezethető járművek vezetéséhez – az 5. pontban foglaltak kivételével – a járművezetőnek rendelkeznie kell szakmai alapképesítéssel vagy szakmai továbbképzési képesítéssel.
+
+2\. A tagállam állampolgára az 1. pontban meghatározott képesítés megszerzését igazolhatja
+
+2.1.[^137] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló jogszabályban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
+
+2.2.[^138] vezetői engedéllyel, amelyen – az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561 európai parlamenti és tanácsi irányelv 10. cikkének (1)bekezdésében meghatározott – 95. harmonizált uniós kód van feltüntetve,
+
+2.3.[^139] a tagállamban kiadott – a (EU) 2022/2561 európai parlamenti és tanácsi irányelv II. mellékletében meghatározott mintájú – „Gépjárművezetői képesítési igazolvány”-nyal;
+
+2.4.[^140] a tagállamban kiadott nemzeti bizonyítvánnyal.
+
+2.5.[^141] A 2.2. pontban meghatározott vezetői engedéllyel, amelyben a 95. harmonizált uniós kód érvényességi ideje megegyezik a 2.1. pontban meghatározott „Gépjárművezetői képesítési igazolvány” érvényességi idejével.
+
+2.6.[^142] az 1072/2009/EK európai parlamenti és tanácsi rendeletben előírt járművezetői igazolvánnyal, amennyiben az igazolványban szerepel a 95. harmonizált uniós kód.
+
+3.[^143] A nem tagállam állampolgára, akit egy tagállami székhellyel rendelkező vállalkozás alkalmaz vagy foglalkoztat és díj ellenében végzett közúti árutovábbításra használt járművet vezet, az 1. pontban meghatározott képesítés megszerzését igazolhatja „Járművezetői igazolvány”-nyal, amelyen a 95. harmonizált uniós kód van feltüntetve.
+
+4\. A nem tagállam állampolgára, akit egy tagállami székhellyel rendelkező vállalkozás alkalmaz vagy foglalkoztat, és személyszállításra használt járművet vezet, az 1. pontban meghatározott képesítés megszerzését igazolhatja
+
+4.1.[^144] vezetői engedéllyel, amelyen – az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561európai parlamenti és tanácsi irányelv 10. cikkének (2) bekezdésében meghatározott – 95. harmonizált uniós kód van feltüntetve,
+
+4.2. a 2.1. pontban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
+
+4.3. nemzeti bizonyítvánnyal, amelynek területükön való érvényességét a tagállamok kölcsönösen elismerik.
+
+5\. Az 1. pontban meghatározott képesítés megszerzésére nem kötelezett az a járművezető, aki olyan járművet vezet:
+
+5.1. amelynek maximális engedélyezett sebessége nem haladja meg a 45 km/órát,
+
+5.2.[^145] amelyet a Magyar Honvédség, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, tűzoltóság, közreműködő önkéntes tűzoltó egyesület, önkéntes mentőszervezet, mentőszolgálat tart üzemben és használja a számukra meghatározott feladataik ellátása során,
+
+5.3. amely műszaki-fejlesztési, javítási vagy karbantartási célból forgalombiztonsági vizsgálat alatt áll, vagy olyan új vagy felújított jármű, amelyet még nem helyeztek forgalomba,
+
+5.4.[^146] amelyet védelmi helyzetben vagy katasztrófaelhárítás céljából használnak, beleértve azt a járművet is, amelyet humanitárius segély nem díj ellenében végzett szállítására használnak,
+
+5.5.[^147] amelyet a vezetői engedély vagy az e rendeletben meghatározott szakmai képesítés megszerzésével összefüggésben végzett oktatás és vizsgáztatás céljából használ, feltéve, hogy azt nem használja díj ellenében végzett árufuvarozásra és személyszállításra,
+
+5.6.[^148] amely nem kereskedelmi célú árufuvarozásra és személyszállításra használt jármű,
+
+5.7.[^149] amellyel csak a járművet vezető munkája során használandó anyagot, felszerelést vagy gépet szállítanak és a jármű vezetése nem tartozik a gépkocsivezető elsődleges feladatához.
+
+5.8.[^150] amely vezetéséhez D vagy D1 kategóriájú vezetői engedély szükséges, és amelyet a karbantartó személyzet utas nélkül a közúti fuvarozó által használt legközelebbi karbantartó bázis közelében található karbantartási központba és onnan visszavezet, feltéve, hogy nem a járművezetés a gépjárművezető fő tevékenysége.
+
+6.[^151] Az 1. pontban meghatározott képesítés megszerzése nem kötelező a mezőgazdaság, kertészet, erdőgazdálkodás, földművelés vagy halászat területén működő vállalkozás által saját tevékenységi körén belül áruszállításra használt vagy gépjárművezető nélkül bérelt járművekre, kivéve, ha
+
+a) a járművezetés a gépjárművezető fő tevékenységének része, vagy
+
+b) a megtett távolság meghaladja a járművet tulajdonló, bérlő vagy lízingelő vállalkozás telephelyétől a 100 km távolságot.
+
+## 3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^152]
+
+**A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények**
+
+1\. A közúti árufuvarozó-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal az eltéréssel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők, továbbá szóbeli vizsgát nem kell tenniük.
+
+1.1. A szaktanfolyam tantárgyai és óraszámai:
+
+1.1.1. Elméleti tantárgyak:
+
+a) jogi ismeretek (16 óra),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (16 óra),
+
+c) munkaügyi ismeretek (8 óra),
+
+d) árufuvarozási ismeretek (24 óra),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (12 óra),
+
+f) vámismeretek (8 óra),
+
+g) a közúti közlekedési szolgáltatáshoz kapcsolódó környezetvédelmi ismeretek (2 óra),
+
+h) vezetői tréning, felkészülés az írásbeli vizsgákra (esettanulmány) (6 óra).
+
+1.2. A közúti árufuvarozó-vállalkozói képesítés megszerzéséhez a vállalkozás szakmai irányítójának vizsgát kell tennie az alábbi vizsgatárgyakból:
+
+1.2.1. Elméleti vizsgatárgyak és vizsgaidők:
+
+a) jogi ismeretek (20 perc),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (20 perc),
+
+c) munkaügyi ismeretek (20 perc),
+
+d) árufuvarozási ismeretek (20 perc),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (20 perc),
+
+f) vámismeretek (20 perc).
+
+1.2.2. Az elméleti tantárgyakból 20 feleletválasztásos tesztkérdésre kell válaszolni, az elérhető maximális pontszám 20. A vizsgázó megfelelt, ha a hibapontok száma 10 vagy annál kevesebb.
+
+1.3. Esettanulmány kitöltése
+
+a) A vizsga során a vizsgázóknak a feladatokat esszé formájában kell kifejteni a fenti vizsgatárgyakkal kapcsolatos elméleti ismeretanyagból.
+
+b) Ezeket a feladatokat a közlekedési hatóság által kiadott feladatlapokon kell elkészíteni.
+
+c) Az esettanulmány kitöltésére fordítható idő 120 perc.
+
+d) Az elérhető maximális pontszám: 120.
+
+e) A vizsgázó megfelelt, ha az elért pontszám 60 vagy annál több.
+
+1.4. Szóbeli vizsgatárgyak és vizsgaidők:
+
+a) jogi ismeretek (20 perc a felkészülési idővel együtt),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (20 perc a felkészülési idővel együtt),
+
+c) munkaügyi ismeretek (20 perc a felkészülési idővel együtt),
+
+d) árufuvarozási ismeretek (20 perc a felkészülési idővel együtt),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (20 perc a felkészülési idővel együtt),
+
+f) vámismeretek (20 perc a felkészülési idővel együtt).
+
+1.5. A közúti árufuvarozó-vállalkozó szaktanfolyami vizsgákon a vizsgáztatáshoz szükséges, a vizsgabiztosra vonatkozó szakmai képesítések:
+
+a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
+
+b)[^153] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
+
+c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
+
+2\. Az autóbuszos személyszállító-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal a különbséggel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők.
+
+2.1. A szaktanfolyam tantárgyai és óraszámai:
+
+2.1.1. Elméleti tantárgyak:
+
+a) jogi ismeretek (16 óra),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (16 óra),
+
+c) munkaügyi ismeretek (8 óra),
+
+d) személyszállítási ismeretek (24 óra),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (12 óra),
+
+f) a közúti közlekedési szolgáltatáshoz kapcsolódó környezetvédelmi ismeretek (2 óra),
+
+g) vezetői tréning, felkészülés az írásbeli vizsgákra (esettanulmány) (6 óra).
+
+2.2. Az autóbuszos személyszállító-vállalkozói képesítés megszerzéséhez a vállalkozás szakmai irányítójának vizsgát kell tennie az alábbi vizsgatárgyakból:
+
+2.2.1. Elméleti vizsgatárgyak és vizsgaidők:
+
+a) jogi ismeretek (20 perc),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (20 perc),
+
+c) munkaügyi ismeretek (20 perc),
+
+d) személyszállítási ismeretek (20 perc),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (20 perc).
+
+2.2.2. Az elméleti tantárgyakból 20 feleletválasztásos tesztkérdésre kell válaszolni, az elérhető maximális pontszám 20. A vizsgázó megfelelt, ha a hibapontok száma 10 vagy annál kevesebb.
+
+2.3. Esettanulmány kitöltése.
+
+a) A vizsga során a vizsgázóknak a feladatokat esszé formájában kell kifejteniük a fenti vizsgatárgyakkal kapcsolatos elméleti ismeretanyagból.
+
+b) Ezeket a feladatokat a közlekedési hatóság által kiadott feladatlapokon kell elkészíteni.
+
+c) Az esettanulmány kitöltésére fordítható idő 120 perc.
+
+d) Az elérhető maximális pontszám: 100.
+
+e) A vizsgázó megfelelt, ha az elért pontszám 50 vagy annál több.
+
+2.4. Szóbeli vizsgatárgyak és vizsgaidők:
+
+a) jogi ismeretek (20 perc a felkészülési idővel együtt),
+
+b) gazdasági és pénzügyi vezetői, valamint adózási ismeretek (20 perc a felkészülési idővel együtt),
+
+c) munkaügyi ismeretek (20 perc a felkészülési idővel együtt),
+
+d) személyszállítási ismeretek (20 perc a felkészülési idővel együtt),
+
+e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek (20 perc a felkészülési idővel együtt).
+
+2.5. A továbbképzést követő vizsgán a vizsgázónak szóbeli vizsgát nem kell tennie.
+
+2.6. Az autóbuszos személyszállító-vállalkozó szaktanfolyami vizsgákon a vizsgáztatáshoz szükséges, a vizsgabiztosra vonatkozó szakmai képesítések:
+
+a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
+
+b)[^154] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
+
+c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
+
+## 4. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^155]
+
+## 5. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^156]
+
+## 6. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^157]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 1. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 3. pontja a 280/2013. (VII. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 4. pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés d)–e) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 5. pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés g)–h) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 6. pont 6.1. alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés 6. pont 6.3. alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés 9. pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés 13. pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés 14. pont nyitó szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése, a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés 14. pont 14.1. alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés 14. pont 14.2. alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdés 15. pontját a 280/2013. (VII. 24.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 2. § (1) bekezdés 17. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^16]: A 3. § (1) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 3. § (1) bekezdés b) pontját az 561/2023. (XII. 14.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^18]: A 3. § (2) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^19]: A 4. § (1) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés c) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^21]: A 4. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 116/2014. (IV. 3.) Korm. rendelet 6. §-a.
+[^22]: A 4/A. §-t a 116/2014. (IV. 3.) Korm. rendelet 5. §-a iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg.
+[^23]: A 4/A. § (1) bekezdése a 18/2021. (I. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 4/A. § (5) bekezdése a 433/2025. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A 4/A. § (6) bekezdése a 433/2025. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 4/A. § (6a) bekezdését a 433/2025. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 4/A. § (7) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^28]: A 7. § a 228/2012. (VIII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 7. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) és f) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^30]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 8. § (6) bekezdését a 342/2025. (X. 31.) Korm. rendelet 19. §-a iktatta be.
+[^32]: A 9. § (2) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^33]: A 9. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 359. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^34]: A 10. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^35]: A 10. § (3) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^36]: A 10. § (4) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^37]: A 10. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^38]: A 10. § (7) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^39]: A 11. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^40]: A 11. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: A 11. § (3) bekezdése a 395/2025. (XII. 16.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^42]: A 12. § (1) bekezdés b) pontja a 475/2017. (XII. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^43]: A 12. § (2) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^44]: A 12. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 155/2025. (VI. 23.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^45]: A 12. § (5) bekezdése az 53/2014. (III. 3.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^46]: A 14. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^47]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 360. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^48]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^49]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be, az 561/2023. (XII. 14.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^50]: A 14. § (4)–(5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^51]: A 15. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 359. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^52]: A 15. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^53]: A 17. § (3) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^54]: A 17. § (4) bekezdés a) pontja a 476/2016. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^55]: A 18. § (3) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^56]: A 19. § (1) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^57]: A 19. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^58]: A 7. alcím címe a 280/2013. (VII. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^59]: A 20. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^60]: A 20. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 359. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^61]: A 20. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^62]: A 20. § (3) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 18. §-a iktatta be.
+[^63]: A 21. § (1) bekezdése a 618/2023. (XII. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^64]: A 21. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^65]: A 21. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 180. §-a, a 116/2021. (III. 10.) Korm. rendelet 11. §-a, a 616/2022. (XII. 29.) Korm. rendelet 128. §-a szerint módosított szöveg.
+[^66]: A 22. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^67]: A 22. § (2) bekezdés d) pontja a 171/2014. (VII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^68]: A 22. § (2a) bekezdését a 289/2018. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^69]: A 22. § (8) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^70]: A 22/A. §-t a 228/2012. (VIII. 23.) Korm. rendelet 6. § (8) bekezdése iktatta be, szövege a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^71]: A 23. § a 791/2021. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^72]: A 24. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 590. §-a szerint módosított szöveg.
+[^73]: A 24. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^74]: A 24. § (5) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^75]: A 24. § (6) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 27. §-a iktatta be, a 789/2021. (XII. 27.) Korm. rendelet 46. §-a hatályon kívül helyezte.
+[^76]: A 25. § (1) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^77]: A 25. § (2) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^78]: A 25. § (5) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^79]: A 26. § (1a) bekezdését a 433/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^80]: A 26. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^81]: A 26. § (3) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^82]: A 27. § (1) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^83]: A 27. § (3) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^84]: A 27. § (6) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^85]: A 27. § (7) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^86]: A 14. alcím címe az 561/2023. (XII. 14.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^88]: A 30. § a 280/2013. (VII. 24.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^89]: A 31. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (2) bekezdésével megállapított, az 561/2023. (XII. 14.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^90]: A 31. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
+[^91]: A 31. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^92]: A 32. § (1) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
+[^93]: A 33. § (1) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^94]: A 33. § (2) bekezdés c) pontja a 171/2014. (VII. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^95]: A 33. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^96]: A 33. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (10) bekezdése iktatta be, nyitó szövegrésze a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) és k) pontja szerint módosított szöveg.
+[^97]: A VII. Fejezet címe a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^98]: A 34. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^99]: A 34. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés g) és l) pontja szerint módosított szöveg.
+[^100]: A 34. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^101]: A 34. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^102]: A 34. § (4a) bekezdését a 371/2023. (VIII. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^103]: A 34. § (4b) bekezdését a 371/2023. (VIII. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^104]: A 34. § (5) bekezdése a 371/2023. (VIII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^105]: A 34. § (7) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^106]: A 34. § (8) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^107]: A 34. § (9) bekezdését a 371/2023. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^108]: A 34. § (10) bekezdését a 371/2023. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^109]: A 34. § (11) bekezdését a 371/2023. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^110]: A 37. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^111]: A 37. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 15. §-a iktatta be.
+[^112]: A 37. § (4) bekezdését a 171/2014. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^113]: A 37. § (5) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 56. § (3) bekezdése iktatta be.
+[^114]: A 37. § (6) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 37. § (7) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
+[^116]: A 37. § (8) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^117]: A hatálybalépés időpontja 2025. július 1.
+[^118]: A 38. § (1) bekezdés a) pontja a 791/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^119]: A 38. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^120]: A 38. § (1) bekezdés c) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^121]: A 38. § (1) bekezdés d) pontja a 171/2014. (VII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^122]: A 38. § (2) bekezdés b) pontja a 141/2023. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^123]: A 38. § (2) bekezdés c) pontját a 141/2023. (IV. 24.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^124]: A 38. § (2) bekezdés e) pontját a 289/2018. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^125]: A 38. § (2) bekezdés f) pontját a 265/2020. (VI. 11.) Korm. rendelet 2. §-a iktatta be, a 141/2023. (IV. 24.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^126]: A 38. § (2) bekezdés g) pontját a 371/2023. (VIII. 7.) Korm. rendelet 5. §-a iktatta be.
+[^130]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^131]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
+[^132]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^133]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^134]: Az 1. melléklet 7. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
+[^135]: A 2. melléklet címe a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^136]: A 2. melléklet 1. pontja a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^137]: A 2. melléklet 2. pont 2.1. alpontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^138]: A 2. melléklet 2. pont 2.2. alpontja a 265/2020. (VI. 11.) Korm. rendelet 4. § a) pontja, a 141/2023. (IV. 24.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^139]: A 2. melléklet 2.3. pontja a 141/2023. (IV. 24.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^140]: A 2. melléklet 2. pont 2.4. alpontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdése iktatta be.
+[^141]: A 2. melléklet 2.5. pontját a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 265/2020. (VI. 11.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^142]: A 2. melléklet 2. pont 2.6. alpontját a 265/2020. (VI. 11.) Korm. rendelet 3. §-a iktatta be.
+[^143]: A 2. melléklet 3. pontja a 265/2020. (VI. 11.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^144]: A 2. melléklet 4. pont 4.1. alpontja a 265/2020. (VI. 11.) Korm. rendelet 4. § a) pontja, a 141/2023. (IV. 24.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^145]: A 2. melléklet 5. pont 5.2. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^146]: A 2. melléklet 5. pont 5.4. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^147]: A 2. melléklet 5. pont 5.5. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^148]: A 2. melléklet 5. pont 5.6. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^149]: A 2. melléklet 5. pont 5.7. alpontja a 265/2020. (VI. 11.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^150]: A 2. melléklet 5. pont 5.8. alpontját a 265/2020. (VI. 11.) Korm. rendelet 3. §-a iktatta be.
+[^151]: A 2. melléklet 6. pontját a 265/2020. (VI. 11.) Korm. rendelet 3. §-a iktatta be.
+[^152]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^153]: A 3. melléklet 1. pont 1.5. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^154]: A 3. melléklet 2. pont 2.6. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^155]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^157]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

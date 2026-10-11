@@ -1,0 +1,228 @@
+---
+title: "181/2014. (VII. 25.) Korm. rendelet Magyarország Kormánya és Türkmenisztán Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "181/2014. (VII. 25.) Korm. rendelet"
+njt_id: "2014-181-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/181"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-07-25
+in_force_from: 2014-07-26
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-181-20-22"
+retrieved: 2026-10-12
+---
+
+# 181/2014. (VII. 25.) Korm. rendelet Magyarország Kormánya és Türkmenisztán Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Türkmenisztán Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+**„Magyarország Kormánya és Türkmenisztán Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény**
+
+Magyarország Kormánya és Türkmenisztán Kormánya, a továbbiakban a „Felek”, kifejezve az országaik közti kétoldalú együttműködés továbbfejlesztésére irányuló óhajukat az oktatás, a tudomány és a kultúra terén, egymás jogainak és kölcsönös érdekeinek figyelembe vétele mellett,
+
+Felismerve a kultúra és a művészetek fontosságát a két ország népei egymás kölcsönös megértésének továbbfejlesztésében valamint a nemzetközi kapcsolatok megerősítésében,
+
+Tovább kívánják fejleszteni és megszilárdítani a két ország között meglévő baráti kapcsolatokat,
+
+Ezért a következőkben állapodtak meg:
+
+**1. cikk**
+
+A Felek támogatják az oktatás, a tudomány és kultúra terén való együttműködésük továbbfejlesztését a nemzetközi jog egyetemlegesen elismert alapelvei szerint és az országaikban hatályban lévő jogi szabályozás keretei között.
+
+**2. cikk**
+
+A Felek ösztönzik az országaik közti tapasztalatcserét az oktatás terén, lehetővé téve ezáltal egymás számára az oktatási rendszereik felépítésével és szervezetével, a tananyaggal, a tantervvel, taneszközökkel és más – a további együttműködések kialakítása szempontjából fontos – információkhoz való hozzáférést.
+
+**3. cikk**
+
+A Felek támogatják és elősegítik a felsőoktatási intézmények közti együttműködések továbbfejlesztését csakúgy, mint a hallgatói-oktatói mobilitást közös projektek keretein belül.
+
+**4. cikk**
+
+A Felek együttműködnek a felsőoktatás terén a felsőoktatási intézményi karoknak és tudósaiknak kifejlesztett képzésekben. A képzésekre való beiratkozással és a finanszírozásukkal kapcsolatos szabályokat olyan vonatkozó programok tartalmazzák, amelyek figyelembe veszik a két országban hatályban lévő jogi szabályozást.
+
+**5. cikk**
+
+A Felek továbbfejlesztik tudományos együttműködésüket az egymás közti információcsere, workshopok/szemináriumok, közös programok és a tudományos együttműködésre irányuló projektek révén.
+
+Az együttműködés megvalósításáért a minisztériumok, s azok illetékes szervezeti egységei, valamint a két ország tudományos és kutatási intézményei felelősek, figyelembe véve intézkedési jogkörük határait, s az országaikban hatályban lévő jogi szabályozást.
+
+Az együttműködés tartalmát, anyagi és szervezési feltételeit a Felek egy külön megállapodásban rögzítik.
+
+**6. cikk**
+
+A tudományos együttműködés a következőképpen valósul meg:
+
+Tudósok és szakemberek cseréjével, akik a tudományos kutatások végrehajtásáért felelnek.
+
+Küldöttségek rövid távú cseréjével, melynek célja a tudományos és műszaki tevékenységek tervezésének, szervezésének megismerése csakúgy, mint kongresszusokon, szimpóziumokon és más tudományos tevékenységekben való részvétel;
+
+A tudományos könyvtárak, tudományos-műszaki információs központok és olyan tudományos-kutatói intézmények közti együttműködés elősegítésével, melyek a tudományos-műszaki információk cseréjéért, dokumentációjáért, a szakirodalmi és bibliográfiai kiadványok kezeléséért felelnek;
+
+Más olyan egyéb feltételek alapján, melyek a többi együttműködésben érintett fél egymás közti megállapodásának tárgyát képezik.
+
+**7. cikk**
+
+A Felek ösztönzik az általános információkra és kulturális szakirodalomra vonatkozó információcserét, beleértve – ahol lehetséges – ezek információtechnológiai vonatkozásait.
+
+**8. cikk**
+
+A Felek segédkeznek egymásnak olyan szakemberek számára kifejlesztett képzések kivitelezésében, melyek a két ország kulturális örökségének tanulmányozására és megőrzésére irányulnak.
+
+**9. cikk**
+
+A Felek támogatják a cserelátogatásokat, közös képzési programokat és kutatásokat, ennek érdekében pedig megfelelő feltételeket biztosítanak az állami archívumok, könyvtárak, állami múzeumok és más kulturális intézmények, szervezetek részére.
+
+**10. cikk**
+
+A Felek tovább erősítik együttműködésüket a kulturális és művészeti örökségvédelem, megőrzés és restauráció területén, továbbá kölcsönösen megkönnyítik a hozzáférést egymás kulturális és művészeti örökségéhez az országaikban hatályban lévő jogszabályoknak megfelelően.
+
+**11. cikk**
+
+A Felek támogatják a vizuális, zenei, előadó-művészeti, szépirodalmi, képzőművészeti, néprajzi és más hasonló kulturális tevékenységekhez kapcsolódó tudás bővítését.
+
+**12. cikk**
+
+A Felek támogatják országaik kölcsönös részvételét fesztiválokon, kiállításokon és egyéb tevékenységekben a kulturális örökség terén, beleértve a fotográfiát, mozgóképet, könyvkiadást és a festészetet.
+
+**13. cikk**
+
+Ezen egyezmény megváltoztatható a Felek kölcsönös, írásos megállapodása révén, mely változtatások az egyezmény szerves részét képezik.
+
+**14. cikk**
+
+A jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen a jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**15. cikk**
+
+Ezen egyezmény azon utolsó jegyzék kézhezvétele utáni harmincadik (30.) napon lép hatályba, amelyben a felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek és öt évre szóló időtartamra marad hatályban. Ezen egyezmény automatikusan további öt évvel hosszabbodik meg egészen addig, amíg a felek az aktuális megállapodás lejárta előtt legalább 6 hónappal írásban értesítik egymást az egyezmény megszüntetésének szándékáról.
+
+Ezen egyezményt Budapest városában írták alá 2014. június 18-án magyar, türkmén és angol nyelven írott két eredeti példányban, amelyek közül mindegyik szöveg egyformán hiteles. Az értelmezésből fakadó bármely nézetkülönbség kialakulása esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország Kormánya\
+nevében
+
+Türkmenisztán Kormánya\
+nevében
+
+AGREEMENT\
+between the Government of Hungary and the Government of Turkmenistan on Cooperation in the Fields of Education, Science and Culture
+
+The Government of Hungary and the Government of Turkmenistan, hereinafter referred to as the ”Parties”,
+
+Expressing their interest in developing bilateral cooperation in the fields of education, science and culture on the basis of equality of rights and respect of Mutual interest,
+
+Recognizing the importance of culture and arts in development of mutual understanding between the peoples of two countries and strengthening international relations,
+
+Wishing to develop and strengthen the friendly relations which exist between the two countries,
+
+Have agreed, as follows:
+
+**Article 1**
+
+The Parties shall promote development of cooperation in the field of education, science and culture in accordance with the universally recognized principles of international law and within the framework of the legislation in force in two countries.
+
+**Article 2**
+
+The Parties shall encourage exchange of experience in the field of education offering each other information concerning the structure and the organization of the systems of education, curricula and plan of study, didactic materials and other information necessary for the setting up of certain fields of further cooperation.
+
+**Article 3**
+
+The Parties shall support and promote development of the inter-university cooperation, as well as the academic mobility in the frame of common projects.
+
+**Article 4**
+
+The Parties shall cooperate in the fields of higher education, advanced training for faculty and scientists. The procedure of their enrolment and financing of educational process will be established in relevant programs taking into account the legislation in force it two countries.
+
+**Article 5**
+
+The Parties shall develop cooperation in the field of science via exchange of information, workshop/seminar, joint programmes and projects on scientific cooperation.
+
+Cooperation shall be implemented by the Ministries, Departments and scientific and scientific-research institutions of both countries within the limits of their competence and in accordance with the national law.
+
+The content of cooperation, its economic and organizational conditions shall be determined by the Parties on the basis of separate agreement.
+
+**Article 6**
+
+Cooperation in the field of science shall be implemented in the following forms:
+
+Exchange of scientists and specialists for carrying out the scientific research;
+
+Exchange of delegations with short visits aiming at acquaintance with planning and organization of scientific and technical activities as well as participation in congresses, symposia and other scientific measures;
+
+Assistance in the development of cooperation between scientific libraries, scientific-technical information centres and scientific-research institutions in the sphere of exchange of scientific and technical information, documentation, literature and bibliographic editions;
+
+And other trends agreed by the Parties.
+
+**Article 7**
+
+The Parties shall encourage the exchange of materials for general information and literature on culture, including, where possible, information technology link-ups.
+
+**Article 8**
+
+The Parties shall assist to each other to conduct advanced training for specialists of two countries in the fields related to study and preservation of cultural heritage.
+
+**Article 9**
+
+The Parties shall promote reciprocal visits, training programmes and research, and provide the appropriate conditions to this end, for state archives, libraries, state museums and other cultural institutions and organizations.
+
+**Article 10**
+
+The Parties shall strengthen cooperation in the field of protection, recovery, conservation, and restoration of the cultural and artistic heritage and facilitate reciprocal access to the cultural and artistic heritage in accordance with legislation of two countries.
+
+**Article 11**
+
+The Parties shall promote knowledge of works of the visual, musical and performing arts, literature, handicrafts, folklore and other results of cultural activities.
+
+**Article 12**
+
+The Parties shall promote mutual participation in festivals, exhibitions and other activities in two countries in the cultural heritage field, including photography, movies, book; and paintings.
+
+**Article 13**
+
+This Agreement may be amended with the mutual written consent of the Parties, such amendments will be an integral part of the Agreement.
+
+**Article 14**
+
+Commitments originating from the membership of Hungary in the European Union are not affected by the present Agreement. As a consequence of this, provisions of the present Agreement shall not be interpreted in a way that it would annul, amend or have any other effect on the commitments of Hungary originating especially from the treaties forming the basis of the European Union, as well as those commitments originating from the primary and secondary legislation of the European Union.
+
+**Article 15**
+
+This Agreement shall enter into force on the thirtieth (30<sup>th</sup>) day after the date of receipt of the last written notification by which the Parties notify each other, through diplomatic channels of the completion of their internal legal procedures required for the entry into force of this Agreement, and remain in effect for a period of five years. This Agreement shall be automatically extended for successive five-year periods, unless either Party notifies the other in writing of its intention to terminate the Agreement, at least six months before the expiration of the relevant period.
+
+Done at the city of Budapest on 18 June 2014 in two original copies each in Hungarian, Turkmen and English languages, all texts are being equally authentic. In case of any divergence of interpretation, the English text shall prevail.
+
+For the Government\
+of Hungary
+
+For the Government\
+of Turkmenistan”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és 3. § az Egyezmény 15. cikkében meghatározott időpontban lép hatályba.
+
+(3) Az Egyezmény, valamint a 2. § és 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+
+(4)[^3] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 15. cikkében meghatározott időpontban lép hatályba. A 12/2014. (X. 17.) KKM közlemény alapján a hatálybalépés időpontja 2014. október 22.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 15. cikkében meghatározott időpontban lép hatályba. A 12/2014. (X. 17.) KKM közlemény alapján a hatálybalépés időpontja 2014. október 22.
+[^3]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 143. §-a szerint módosított szöveg.

@@ -1,0 +1,175 @@
+---
+title: "172/2012. (VII. 26.) Korm. rendelet a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről"
+identifier: "172/2012. (VII. 26.) Korm. rendelet"
+njt_id: "2012-172-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/172"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-07-26
+in_force_from: 2012-07-29
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-172-20-22"
+retrieved: 2026-10-12
+---
+
+# 172/2012. (VII. 26.) Korm. rendelet a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről
+
+A Kormány\
+a II. fejezet tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 3. pontja *d)* alpontjában kapott felhatalmazás alapján, és\
+a III. fejezet tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 3. pontja *c)* alpontjában, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 75. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — HATÁLY
+
+### 1. §[^1]
+
+### 2. §
+
+(1)[^2] A rendelet III. Fejezetének hatálya – a (2) bekezdésben foglaltak kivételével –
+
+a) a kormányzati igazgatásról szóló törvény szerinti politikai felsővezetőre,
+
+b)[^3] a Kormány kivételével a központi kormányzati igazgatási szerv és területi szervei szakmai felsővezetőjére, szakmai vezetőjére és kormánytisztviselőjére, valamint a Nemzeti Adó- és Vámhivatal adó- és vámhatósági szolgálati jogviszonyban lévő foglalkoztatottjára,
+
+c) a területi kormányzati igazgatási szerv kormánytisztviselőjére és kormányzati ügykezelőjére,
+
+d) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. § (1) bekezdés *c)* pontjában meghatározott szerv kormánytisztviselőjére és kormányzati ügykezelőjére
+
+[az *a)–d)* pontban foglaltak a továbbiakban együtt: tisztségviselő]
+
+terjed ki.
+
+(2)[^4] Nem tartoznak a rendelet III. fejezetének hatálya alá az autonóm államigazgatási szerveknél foglalkoztatottak.
+
+## II. Fejezet[^5] — 1–19.
+
+### 3–42. §
+
+## III. Fejezet — AZ IDEIGLENES KÜLFÖLDI KIKÜLDETÉS NAPIDÍJÁNAK ÖSSZEGÉRŐL ÉS KIFIZETÉSÉRŐL
+
+### 43. §
+
+(1)[^6] A 2. § (1) bekezdésében meghatározott, ideiglenes külföldi kiküldetést teljesítő tisztségviselők az e fejezetben foglaltak szerint napidíjra jogosultak.
+
+(2)[^7] Az ideiglenes külföldi kiküldetést teljesítő tisztségviselő napidíja megkezdett naptári naponként 40 euró.
+
+(3)[^8] A napidíjat az ideiglenes külföldi kiküldetés megkezdése előtt – az érintett választása szerint – készpénzben vagy bankszámlára való átutalással ki kell fizetni.
+
+(4)[^9] Az ideiglenes külföldi kiküldetés kezdő és befejező időpontja Magyarország államhatárának, illetve tartós külszolgálaton lévő kormánytisztviselő esetében a külszolgálat szerinti fogadó állam határának átlépése.
+
+(5) A (2) bekezdés alkalmazása során
+
+a)[^10] nem vehető figyelembe naptári napként az a nap, amelynek során az ideiglenes külföldi kiküldetést teljesítő tisztségviselő 4 óránál rövidebb időt tölt külföldön, illetve a külszolgálata szerinti államon kívül,
+
+b)[^11] fél naptári napként kell figyelembe venni azt a napot, amelynek során az ideiglenes külföldi kiküldetést teljesítő tisztségviselő 4 óránál hosszabb, de 8 óránál rövidebb időt tölt külföldön, illetve a külszolgálata szerinti államon kívül.
+
+(6)[^12]
+
+(7)[^13]
+
+(8)[^14] A napidíj összege után az ideiglenes külföldi kiküldetést teljesítő tisztségviselőt a hatályos jogszabályoknak megfelelően terheli adó- és járulékfizetési kötelezettség.
+
+### 44. §
+
+(1)[^15] A külpolitikáért felelős miniszter, illetve a honvédelemért felelős miniszter a munkaköréből adódóan rendszeresen ideiglenes külföldi kiküldetést teljesítő, a kihelyező szerv, illetve a honvédelemért felelős miniszter által vezetett minisztérium állományába tartozó tisztségviselő számára – a kihelyező szerv, illetve a honvédelemért felelős miniszter által vezetett minisztérium személyi juttatások előirányzatán belül, a tárgyévre kiterjedő hatállyal – pótlékot állapíthat meg, amelynek havi összege legfeljebb a Kttv. szerinti illetményalap négyszerese lehet.
+
+(2) A pótlék megállapítása az érintett napidíjra való jogosultságát nem érinti.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 45. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
+
+(2) A 47. § 2014. szeptember 1-jén lép hatályba.
+
+### 46. §
+
+E rendelet rendelkezéseit a rendelet hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők, valamint a folyamatban lévő ideiglenes külföldi kiküldetések esetében is alkalmazni kell.
+
+### 47. §[^16]
+
+### 48. §
+
+(1)[^17]
+
+(2)[^18]
+
+### 49. §[^19]
+
+E rendeletnek a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet módosításáról szóló 174/2014. (VII. 18.) Korm. rendelettel (a továbbiakban: Módr.) módosított, illetve megállapított 9. §-át, 10. § (2) bekezdését, 12. §-át, 12/A. §-át, 21. § (2) bekezdését, 21/A. §-át, valamint a Módr. 19. § (1) bekezdése által módosított rendelkezéseket a Módr. hatálybalépését[^20] megelőzően külszolgálatra kihelyezett szakdiplomatákra is alkalmazni kell.
+
+### 50. §[^21]
+
+E rendeletnek a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet módosításáról szóló 236/2015. (IX. 4.) Korm. rendelet (a továbbiakban: Módr2.)
+
+a) 13. § *a)* pontjával megállapított 3. § 7. pontját,
+
+b) 13. § *b)* pontjával megállapított 8. § (1) bekezdését és
+
+c) 13. § *c)* pontjával megállapított 8. § (2) bekezdését
+
+a Módr2. hatálybalépésekor[^22] már folyamatban lévő ügyekben is alkalmazni kell.
+
+### 51. §[^23]
+
+E rendeletnek a Módr2. 4. § (2) bekezdésével módosított 17. § (5) bekezdését a Módr2. hatálybalépését[^24] követően megkezdett külszolgálatokra kell alkalmazni.
+
+### 52. §[^25]
+
+E rendeletnek a Módr2. 12. § (2) bekezdésével módosított 37. § (3)–(5) bekezdését és a Módr2. 12. § (3) bekezdésével megállapított 37. § (6) bekezdését a 2016. január 1. napján vagy azt követően jóváhagyásra beérkezett tandíjak térítésére kell alkalmazni.
+
+### 53. §[^26]
+
+(1) 2017. július 31-ig az Állandó Képviseletre kihelyezettek tekintetében a 25. § (2) bekezdésének alkalmazásában kihelyezést visszavonó okiraton a kihelyezés megszűnésére, megszüntetésére, illetve az azonnali hatályú hazarendelésre vonatkozó okiratot kell érteni.
+
+(2) 2017. július 31-ig az Állandó Képviseletre kihelyezettek tekintetében
+
+a) a Kktv. 20. § (6) bekezdésének utolsó mondata alkalmazásában a munkakör megváltoztatása előtti devizailletmény helyett, a munkakör megváltoztatása előtti illetményt kell figyelembe venni a lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából,
+
+b) a Kktv. 22. § (2) bekezdésének *c)–e)* pontjában foglaltak helyett a kihelyező okiratnak a kihelyezett alapellátmányának a kihelyezés időpontjában érvényes pénznemét, összegét, az arra utaló jogszabályhelyet, ellátmánya szorzószámát, az ellátmánypótlékokra való jogosultságát és mértékét, ellátmánypótlékára jogosító személyek nevét, családi jogállását, a gyermekek születési idejét kell tartalmaznia,
+
+c) a Kktv. 22. § (7) bekezdés *b)* pontjában foglaltak helyett akkor nem szükséges a kihelyezett beleegyezése a kinevezés módosításához, ha a kihelyezett a 3. § 12. pontja szerinti személy után ellátmánypótlékra válik jogosulttá, vagy a kihelyezett ellátmányának szorzószáma módosul,
+
+d) a Kktv. 27. § (3) bekezdésnek alkalmazásában a kihelyezett részére helyettesítési díjként legfeljebb a kihelyezett illetményének 40%-a jár,
+
+e) a Kktv. 33. § (2) és (4) alkalmazásában a kihelyezettet a keresőképtelenséggel járó betegség időtartamára legfeljebb 90 napig, állomáshelyén a havi devizailletmény 60%-a és belföldön a havi devizailletmény 30%-a helyett, állomáshelyén a havi ellátmánya 80%-a, belföldön a havi ellátmánya 30%-a illeti meg, a 90. napot meghaladó – további legfeljebb 90 nap – időtartamra a kihelyezett a havi ellátmánya 30%-ára jogosult. A kihelyezettet beteg gyermekének ápolására miatti keresőképtelenségének időtartamára – legfeljebb 90 napig – állomáshelyén a havi ellátmánya, belföldön a havi ellátmánya 30%-a illeti meg.
+
+### 54. §[^27]
+
+E rendeletnek a kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^28] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1–3. melléklet a 172/2012. (VII. 26.) Korm. rendelethez[^29]
+
+---
+
+[^1]: Az 1. §-t a 2016: LXXIII. törvény 64. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító törvény 58. § (3)–(7) bekezdését és 60. §-át.
+[^2]: A 2. § (1) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 112. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 672/2020. (XII. 28.) Korm. rendelet 110. §-a szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 479/2013. (XII. 17.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^5]: A II. fejezetet (3–42. §) a 2016: LXXIII. törvény 64. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító törvény 58. § (3)–(7) bekezdését és 60. §-át.
+[^6]: A 43. § (1) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 43. § (2) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 43. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 105. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^9]: A 43. § (4) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 114. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 43. § (5) bekezdés a) pontja a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 43. § (5) bekezdés b) pontja a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 43. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 105. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^13]: A 43. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 105. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: A 43. § (8) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 44. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés w) pontja, a 221/2014. (IX. 4.) Korm. rendelet 676. § b) pontja, a 88/2019. (IV. 23.) Korm. rendelet 112. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 47. §-t a 48. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 48. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 48. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 49. §-t a 174/2014. (VII. 18.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2014. július 21.
+[^21]: Az 50. §-t a 236/2015. (IX. 4.) Korm. rendelet 14. §-a iktatta be.
+[^22]: A hatálybalépés időpontja 2015. szeptember 19.
+[^23]: Az 51. §-t a 236/2015. (IX. 4.) Korm. rendelet 14. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2015. szeptember 19.
+[^25]: Az 52. §-t a 236/2015. (IX. 4.) Korm. rendelet 15. §-a iktatta be.
+[^26]: Az 53. §-t a 245/2016. (VIII. 17.) Korm. rendelet 4. §-a iktatta be. Alkalmazására lásd e módosító rendelet 9. §-át.
+[^27]: Az 54. §.t a 88/2019. (IV. 23.) Korm. rendelet 112. § (2) bekezdése iktatta be.
+[^28]: A hatálybalépés időpontja 2019. április 24.
+[^29]: Az 1–3. mellékletet a 223/2017. (VIII. 11.) Korm. rendelet 54. §-a hatályon kívül helyezte.

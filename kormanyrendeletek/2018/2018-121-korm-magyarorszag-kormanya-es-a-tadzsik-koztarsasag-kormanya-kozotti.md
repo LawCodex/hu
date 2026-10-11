@@ -1,0 +1,253 @@
+---
+title: "121/2018. (VII. 10.) Korm. rendelet Magyarország Kormánya és a Tádzsik Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "121/2018. (VII. 10.) Korm. rendelet"
+njt_id: "2018-121-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/121"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-07-10
+in_force_from: 2018-07-11
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-121-20-22"
+retrieved: 2026-10-12
+---
+
+# 121/2018. (VII. 10.) Korm. rendelet Magyarország Kormánya és a Tádzsik Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Tádzsik Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+**„Egyezmény**
+
+**Magyarország Kormánya és a Tádzsik Köztársaság Kormánya között az oktatási, tudományos és kulturális együttműködésről**
+
+Magyarország Kormánya és a Tádzsik Köztársaság Kormánya, a továbbiakban: a Felek,
+
+kifejezve szándékukat kétoldalú kapcsolataik fejlesztésére az oktatás, tudomány és kultúra terén, a jogegyenlőség és az érdekek kölcsönös tiszteletének alapelvei mentén,
+
+felismerve a kultúra és a művészetek szerepét a két ország népei közötti egyetértés fejlesztésében és a nemzetközi kapcsolatok megerősítésében,
+
+az országaik között fennálló baráti kapcsolatok megerősítése és fejlesztése céljából,
+
+a következőkben állapodtak meg:
+
+**1. cikk**
+
+A Felek támogatják az együttműködés fejlesztését az oktatás, a tudomány és a kultúra területén, összhangban a nemzetközi jog általánosan elfogadott alapelveivel és a két ország hatályos belső jogi szabályozásának keretei között.
+
+**2. cikk**
+
+A Felek ösztönzik a tapasztalatcserét az oktatás területén és tájékoztatják egymást oktatási rendszereik struktúrájáról, a képzési szintekről, a tantervekről és tanmenetekről, a tananyagról és minden olyan információról, amely további együttműködések kialakításához szükséges.
+
+**3. cikk**
+
+A Felek támogatják és elősegítik a felsőoktatási intézmények közötti közvetlen együttműködéseket, valamint a közös projektek keretében megvalósuló oktatói mobilitást.
+
+**4. cikk**
+
+A Felek együttműködnek a felsőoktatás, valamint az oktatói és kutatói kar magasszintű továbbképzése területén. A képzésekbe történő bekerülésről és azok finanszírozásáról egyedi programokban állapodnak meg, a két ország hatályos belső jogi szabályozásával összhangban.
+
+**5. cikk**
+
+A Felek információcsere, szakmai műhelyek, szemináriumok, közös programok és a tudományos együttműködés elősegítő projektek keretében fejlesztik az együttműködést a tudomány területén.
+
+Az együttműködés a két ország minisztériumai, azok szervezeti egységei, illetve tudományos és kutatóintézetei által valósul meg, összhangban azok kompetenciáival és a nemzeti jogszabályokkal.
+
+Az együttműködés tényleges tartalmát, valamint a pénzügyi és szervezeti feltételeket a Felek külön megállapodásokban rögzítik.
+
+**6. cikk**
+
+A tudományos együttműködés az alábbi módokon valósul meg:
+
+– kutatók és szakemberek cseréje kutatások folytatása céljából;
+
+– delegációk cseréje rövid időtartamú látogatások keretében, melyek során a delegációk információt cserélnek tudományos és műszaki tevékenység tervezésével és szervezésével kapcsolatban, valamint kongresszusokon, előadásokon és más tudományos rendezvényeken vesznek részt;
+
+– együttműködés elősegítése a tudományos könyvtárak, műszaki tudományos információs központok és tudományos kutatóintézetek között a tudományos és műszaki információcsere, valamint dokumentációk, szakirodalmak és bibliográfiák cseréje területén;
+
+– egyéb, a Felek által egyeztetett területeken.
+
+**7. cikk**
+
+A Felek ösztönzik általános tájékoztató anyagok és kulturális szakanyagok cseréjét, beleértve az interneten megtalálható anyagokat is, amennyiben ilyenek léteznek.
+
+**8. cikk**
+
+A Felek segítik egymást a két ország kulturális örökség tanulmányozásával és megőrzésével foglalkozó szakértőinek magas szintű továbbképzése területén, a magyar Fél részéről az illetékes miniszter bevonásával.
+
+**9. cikk**
+
+A Felek ösztönzik az állami levéltárak, könyvtárak, állami múzeumok és más kulturális intézmények és szervezetek közötti kölcsönös látogatásokat, képzési és kutatási programokat, amihez megfelelő feltételeket biztosítanak.
+
+**10. cikk**
+
+A Felek erősítik az együttműködést a kulturális és művészeti örökség védelme, helyreállítása, megőrzése és restaurálása területén, és lehetővé teszik a kulturális és művészeti örökséghez való hozzáférést a két ország belső jogi szabályozásával összhangban, a magyar Fél részéről az illetékes miniszter bevonásával.
+
+**11. cikk**
+
+A Felek támogatják a vizuális, zenei és előadó-művészetek, az irodalom, a kézművesség, a népművészet és más kulturális tevékenységek eredményeinek megismerését.
+
+**12. cikk**
+
+A Felek támogatják országaikban a kölcsönös részvételt fesztiválokon, kiállításokon és más eseményeken a kulturális örökség, fényképészet, audiovizuális művészetek, irodalom és festészet területén.
+
+**13. cikk**
+
+Az Egyezmény a Felek közös egyetértésével módosítható vagy kiegészíthető, különálló jegyzőkönyvek formájában, melyek az Egyezmény szerves részét képezik.
+
+**14. cikk**
+
+A jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarországnak az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**15. cikk**
+
+Az Egyezmény értelmezése és végrehajtása kapcsán felmerülő nézetkülönbségeket a Felek baráti tárgyalások és egyeztetések során rendezik.
+
+**16. cikk**
+
+A jelen Egyezmény nem befolyásolja a Felek azon jogait és kötelezettségeit, melyek a valamely Fél által korábban megkötött megállapodásokból erednek.
+
+**17. cikk**
+
+Ez az Egyezmény azon utolsó jegyzék kézhezvétele utáni harmincadik (30.) napon lép hatályba, amelyben a Felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek az Egyezmény hatályba lépéséhez szükséges belső jogi követelményeknek teljesüléséről, és öt évig marad hatályban. Az Egyezmény további öt évvel automatikusan meghosszabbodik minden alkalommal, kivéve, ha az egyik Fél a soron következő lejárati dátum előtt legalább 6 hónappal írásban értesíti a másik Felet az Egyezmény megszüntetésének szándékáról.
+
+Készült Dusanbe városban, 2018. év május hónap 4. napján, magyar, tádzsik és angol nyelven, kettő eredeti példányban, melyek közül mindegyik egyformán hiteles. Az értelmezésből származó nézetkülönbségek kialakulása esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország Kormánya\
+nevében
+
+a Tádzsik Köztársaság Kormánya\
+nevében
+
+**Agreement**
+
+**between the Government of Hungary and the Government of the Republic of Tajikistan on Cooperation in the Fields of Education, Science and Culture**
+
+The Government of Hungary and the Government of the Republic of Tajikistan, hereinafter referred to as the “Parties”,
+
+Expressing their interest in developing bilateral cooperation in the fields of education, science and culture on the basis of equality of rights and respect of mutual interest,
+
+Recognizing the importance of culture and arts in development of mutual understanding between the peoples of the two countries and strengthening international relations,
+
+Wishing to develop and strengthen the friendly relations which exist between the two countries,
+
+Have agreed as follows:
+
+**Article 1**
+
+The Parties shall promote development of cooperation in the field of education, science and culture in accordance with the universally recognized principles of international law and within the framework of the legislation in force in the two countries.
+
+**Article 2**
+
+The Parties shall encourage exchange of experience in the field of education, offering each other information concerning the structure and the organization of their systems of education, curricula and plan of study, didactic materials and other information necessary for setting up certain fields of further cooperation.
+
+**Article 3**
+
+The Parties shall support and promote development of the inter-university cooperation, as well as the academic mobility in the form of common projects.
+
+**Article 4**
+
+The Parties shall cooperate in the fields of higher education, advanced training for faculty and scientists. The procedure of their enrolment and financing of educational process will be established in relevant programs taking into account the legislation in force in the two countries.
+
+**Article 5**
+
+The Parties shall develop cooperation in the field of science via exchange of information, workshops, seminars, joint programmes and projects on scientific cooperation.
+
+Cooperation shall be implemented by the Ministries, Departments and scientific and research institutions of the two countries within the limits of their competence and in accordance with the national legislation.
+
+The content of cooperation, its financial and organizational conditions shall be determined by the Parties in separate agreements.
+
+**Article 6**
+
+Cooperation in the field of science shall be implemented in the following forms:
+
+– Exchange of scientists and specialists for carrying out scientific research;
+
+– Exchange of delegations for short visits to gather information regarding planning and organization of scientific and technical activities, as well as participation in congresses, symposia and other scientific events;
+
+– Assistance in the development of cooperation between scientific libraries, scientific-technical information centers and scientific research institutions in the sphere of exchange of scientific and technical information, documentation, literature and bibliographic editions;
+
+– Other topics agreed upon by the Parties.
+
+**Article 7**
+
+The Parties shall encourage the exchange of materials for general information and literature on culture, including information technology link-ups, where applicable.
+
+**Article 8**
+
+The Parties shall assist each other in conducting advanced training for specialists of the two countries in fields related to study and preservation of cultural heritage, with the involvement of the competent minister of the Hungarian party.
+
+**Article 9**
+
+The Parties shall encourage mutual visits, training programs and research, and provide the appropriate conditions for state archives, libraries, state museums and other cultural institutions and organizations.
+
+**Article 10**
+
+The Parties shall strengthen cooperation in the field of protection, recovery, conservation, and restoration of cultural and artistic heritage and facilitate mutual access to the cultural and artistic heritage in accordance with the legislation of the two countries, with the involvement of the competent minister of the Hungarian party.
+
+**Article 11**
+
+The Parties shall promote knowledge of works of the visual, musical and performing arts, literature, handicrafts, folklore and other results of cultural activities.
+
+**Article 12**
+
+The Parties shall promote mutual participation in festivals, exhibitions and other activities in the two countries in the field of cultural heritage, including photography, audiovisual arts, literature and paintings.
+
+**Article 13**
+
+The amendments and changes to this Agreement may be made upon mutual agreement of the Parties in the form of separate protocols that are considered as integral part of this Agreement.
+
+**Article 14**
+
+Commitments originating from the membership of Hungary in the European Union are not affected by the present Agreement. The provisions of the present Agreement shall not be interpreted in a way that would annul, amend or affect in any other way obligations of Hungary arising from the treaties forming the basis of the European Union, as well as obligations arising from the primary and secondary legislation of the European Union.
+
+**Article 15**
+
+Any disagreement that may arise between the Parties concerning the interpretation or implementation of this Agreement shall be settled amicably through consultation and negotiation between the Parties.
+
+**Article 16**
+
+This Agreement shall not affect the rights and obligations of both Parties that arise under any previous agreement that either Party is committed to.
+
+**Article 17**
+
+This Agreement shall enter into force on the thirtieth (30) day after the date of receipt of the last written notification by which the Parties notify each other, through diplomatic channels of the completion of their domestic legal procedures required for the entry into force of this Agreement, and remain in effect for a period of five years. This Agreement shall be automatically extended for successive five-year periods, unless either Party notifies the other in written form of its intention to terminate the Agreement, at least six months before the expiration of the Agreement.
+
+Done on 4 May 2018, in the city of Dushanbe in two original copies each in Hungarian, Tajik and English languages, all texts arc being equally authentic. In case of any divergence of interpretation, the English text shall prevail.
+
+On behalf of\
+the Government of Hungary
+
+On behalf of\
+the Government of the Republic of Tajikistan”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és 3. § az Egyezmény 17. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §[^5]
+
+E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 17. cikkében meghatározott időpontban lép hatályba. A 40/2018. (XI. 9.) KKM közlemény alapján a hatálybalépés időpontja 2018. november 18.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 17. cikkében meghatározott időpontban lép hatályba. A 40/2018. (XI. 9.) KKM közlemény alapján a hatálybalépés időpontja 2018. november 18.
+[^3]: A 40/2018. (XI. 9.) KKM közlemény alapján a hatálybalépés időpontja 2018. november 18.
+[^4]: Lásd a 40/2018. (XI. 9.) KKM közleményt.
+[^5]: Az 5. § a 238/2022. (VI. 30.) Korm. rendelet 185. §-a szerint módosított szöveg.

@@ -1,0 +1,177 @@
+---
+title: "186/2015. (VII. 13.) Korm. rendelet a központosított informatikai és elektronikus hírközlési szolgáltató információbiztonsággal kapcsolatos feladatköréről"
+identifier: "186/2015. (VII. 13.) Korm. rendelet"
+njt_id: "2015-186-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/186"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-07-13
+in_force_from: 2015-07-16
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-186-20-22"
+retrieved: 2026-10-12
+---
+
+# 186/2015. (VII. 13.) Korm. rendelet a központosított informatikai és elektronikus hírközlési szolgáltató információbiztonsággal kapcsolatos feladatköréről
+
+A Kormány az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 24. § (1) bekezdés g) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *központi szolgáltató:* a jogszabály által kijelölt központosított informatikai és elektronikus hírközlési szolgáltató;
+
+b)[^1] *szolgáltatások:* jogszabályban meghatározott, a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) hatálya alá tartozó elektronikus információs rendszerek felhasználói számára a központi szolgáltató által kötelezően vagy egyedi igény alapján biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások.
+
+## 2. A központi szolgáltató feladatai
+
+### 2. §[^2]
+
+(1) Az Ibtv. 11. § (2) és (3) bekezdése szerinti szolgáltatási tevékenysége keretében a központi szolgáltató
+
+a) kialakítja a szolgáltatások esetében az informatikai biztonsági irányítási rendszerét, aminek keretében
+
+aa) kidolgozza a vonatkozó szabályzatokat az informatikai biztonsági irányítási rendszer működési követelményeinek megfelelően,
+
+ab) megismerteti az aa) alpont szerinti szabályzatokat a központi szolgáltató szolgáltatását igénybevevő szervezettel, amely az Ibtv. 11. § (3) bekezdése szerinti szervezeti szintű informatikai biztonsági szabályokat az aa) alpont szerinti szabályzatokra figyelemmel dolgozza ki,
+
+ac) rendszeresen felülvizsgálja az *aa)* alpont szerinti szabályzatokat,
+
+ad) kidolgozza az *aa)* alpont szerinti szabályzatok módosításait, valamint
+
+ae) ellenőrzi az *aa)* alpont szerinti szabályzatok megfelelő alkalmazását;
+
+b) azonosítja és nyilvántartja
+
+ba) a szolgáltatásokat,
+
+bb) a szolgáltatások végfelhasználóit, az üzemeltető felhasználókat, valamint a szolgáltatás biztosításához igénybevett támogatókat és fejlesztőket (a továbbiakban együtt: felhasználók), továbbá a hozzáférési jogosultságaikat,
+
+bc) a szolgáltatások biztosításához szükséges vagyonelemeket (hardver és szoftver elemek),
+
+bd) a szolgáltatásokhoz kapcsolódó távoli hozzáféréseket,
+
+be) az általa a szolgáltatások biztosításához igénybevett külső szolgáltatásokat, valamint
+
+bf) a szolgáltatások *c)* pont *ca)* alpontjában meghatározott kritikusságát;
+
+c) folyamatos kockázatkezelés keretében
+
+ca) meghatározza és elemzi a szolgáltatások és az azokat biztosító vagyonelemek, valamint az igénybe vett külső szolgáltatások kritikusságát és fenyegetettségének mértékét,
+
+cb) elvégzi a szolgáltatások kockázatértékelését,
+
+cc) az egyes kockázati értékek alapján meghatározza a szolgáltatások biztosításához szükséges és a kockázatokkal arányos védelmi intézkedéseket,
+
+cd) kidolgozza az alkalmazott védelmi intézkedések hatékonyságának mérési módszereit, valamint
+
+ce) folyamatos felülvizsgálat keretében meggyőződik az alkalmazott védelmi intézkedések megfelelőségéről és szükség esetén új védelmi intézkedéseket vezet be;
+
+d) az azonosítási és hozzáférés-kezelési tevékenysége körében
+
+da) biztosítja a szolgáltatások igénybevételét az általa azonosított és nyilvántartott felhasználók, informatikai eszközök és kapcsolódó szolgáltatások számára,
+
+db) a *da)* alpont szerinti felhasználói kör részére biztosítja a szolgáltatásokhoz való hozzáférési jogosultságot, valamint
+
+dc) biztosítja a *db)* alpontban meghatározott jogosultságok szükség szerinti kiosztását, módosítását és visszavonását;
+
+e) folyamatosan ellenőrzi a szolgáltatások biztonsági állapotát, amelynek keretében
+
+ea) biztosítja a szolgáltatások nyújtásában használt vagyonelemek által létrehozott üzemi és biztonsági információk folyamatos gyűjtését,
+
+eb) biztosítja az *ea)* alpontban meghatározott információk biztonsági szempontú elemzését, valamint
+
+ec) azonosítja a biztonsági eseményeket és összegyűjti az azokkal kapcsolatos információkat;
+
+f) folyamatosan biztosítja a szolgáltatások nyújtásában használt vagyonelemek biztonsági állapotának megfelelőségét, aminek keretében
+
+fa) intézkedik a biztonsági események megelőzéséről, a bekövetkezett biztonsági események által okozott kár csökkentéséről, valamint
+
+fb) az *e)* pont *eb)* alpontja szerinti elemzések alapján biztonságnövelő megelőző intézkedéseket vezet be;
+
+g)[^3] az elektronikus információs rendszereket érintő biztonsági események kezelése során
+
+ga) tájékoztatja az Ibtv. 19. § (1)–(3) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központot az azonosított biztonsági eseményekről és fenyegetettségekről,
+
+gb) biztosítja a biztonsági események azonosításához, elemzéséhez és kezeléséhez szükséges, bizonyító erejű információkat az Ibtv. 19. § (1)–(3) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központ részére, valamint
+
+gc) közreműködik az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által végzett informatikai biztonsági eseménykezelésben a biztonsági eseményről szóló adatszolgáltatással, vizsgálat elvégzésével, illetve az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által elrendelt biztonságnövelő intézkedések végrehajtásával.
+
+(2)[^4] A központi szolgáltató (1) bekezdés szerinti tevékenysége keretében igénybe vehető norma szerinti alapszintű, norma feletti alapszintű és emelt szintű szolgáltatások körének meghatározása a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben foglaltak szerint történik.
+
+(3)[^5] A központi szolgáltató által e rendelet alapján nyújtott norma szerinti alapszintű, norma feletti alapszintű és emelt szintű szolgáltatások finanszírozására a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben meghatározottak irányadók.
+
+### 2/A. §[^6]
+
+A központi szolgáltató köteles az általa nyújtott szolgáltatások körében az azt igénylő ügyfelei számára biztosítani a korai figyelmeztető rendszerhez való kapcsolódást az ahhoz szükséges, a következő műszaki feltételek megteremtésével és fenntartásával:
+
+a) a hálózati forgalom másolatának átadásával,
+
+b) az internet felé menő, illetve onnan érkező hálózati forgalom SSL/TLS csatornáinak feloldása az SSL/TLS csatornák terminálásával vagy SSL/TLS átjáró megvalósításával,
+
+c) a korai figyelmeztető rendszer működtetőjével az ügyfelek kapcsolódásának kialakítása érdekében.
+
+## 3. A központi szolgáltató együttműködési kötelezettsége
+
+### 3. §[^7]
+
+A központi szolgáltató a szolgáltatások tekintetében, különösen a 2. § g) pontja szerinti tevékenysége keretében együttműködik
+
+a)[^8] a Kiberbiztonsági tv. 23. § (1) bekezdése szerinti hatósággal,
+
+b)[^9] a Kiberbiztonsági tv. 63. §-a szerinti eseménykezelő központokkal,
+
+c)[^10] a Kiberbiztonsági tv. felhatalmazása alapján az elektronikus információbiztonsággal kapcsolatban hatósági feladatok ellátására kijelölt szervezetekkel, valamint
+
+d) a korai figyelmeztető rendszer működtetőjével.
+
+### 4. §
+
+(1)[^11] A központi szolgáltató – a Nemzeti Elektronikus Információbiztonsági Hatósággal, valamint a Kiberbiztonsági tv. 62. § (1) bekezdése szerinti kiberbiztonsági incidenskezelő központtal együttműködve – kidolgozza és szolgáltatási szerződésbe vagy általános szerződési feltételekbe foglalja a közszolgáltatási szerződésekben meghatározott információbiztonsági incidenskezelési feladatain kívül vállalt többlet-információbiztonsági és incidenskezelési szolgáltatásokat, továbbá meghatározza azok díjazását.
+
+(2) A központi szolgáltató az (1) bekezdés szerinti szolgáltatási szerződésben vagy általános szerződési feltételekben szabályozza különösen
+
+a) a szolgáltatásoknak az elektronikus információs rendszer biztonsági osztálya szerint előírt információbiztonsági védelme biztosításának feltételeit,
+
+b) a szolgáltatások igénybevételének feltételeit,
+
+c) a szolgáltatásokhoz kapcsolódó felelősségi rendet,
+
+d) az információbiztonsági esemény bejelentésének rendjét, a bejelentés módját, az eseménykezeléshez kapcsolódó felelősséget, valamint
+
+e) az elektronikus információs rendszer létrehozásában, üzemeltetésében, auditálásában, karbantartásában vagy javításában közreműködőre jogszabályban meghatározott egyéb feltételeket, szerződési kötelemként.
+
+## 4. Záró rendelkezések
+
+### 5. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő harmadik napon lép hatályba.
+
+(2) A 2. § a)–d) pontja és a 4. § 2016. március 1-jén lép hatályba.
+
+### 6. §[^12]
+
+E rendeletnek az egyes kormányrendeleteknek a központosított informatikai, elektronikus hírközlési és adatközponti szolgáltatások rendszerének felülvizsgálatához kapcsolódó módosításáról szóló 342/2024. (XI. 14.)Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^13] folyamatban lévő szolgáltatások teljesítése tekintetében is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § b) pontja a 418/2024. (XII. 23.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
+[^2]: [A 2. §-ban a 418/2024. (XII. 23.) Korm. rendelet 130. § b)–f) pontjával elrendelt módosítás nem vezethető át.]
+[^3]: A 2. § g) pontja a 323/2018. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (3) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2/A. §-t a 467/2017. (XII. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 323/2018. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^7]: A 3. § a 323/2018. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^8]: A 3. § a) pontja a 418/2024. (XII. 23.) Korm. rendelet 130. § g) pontja szerint módosított szöveg.
+[^9]: A 3. § b) pontja a 418/2024. (XII. 23.) Korm. rendelet 130. § h) pontja szerint módosított szöveg.
+[^10]: A 3. § c) pontja a 418/2024. (XII. 23.) Korm. rendelet 130. § i) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 43. §-a, a 418/2024. (XII. 23.) Korm. rendelet 130. § j) pontja szerint módosított szöveg.
+[^12]: A 6. §-t a 342/2024. (XI. 14.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2024. november 15.

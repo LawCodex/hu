@@ -1,0 +1,311 @@
+---
+title: "178/2010. (V. 13.) Korm. rendelet a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról"
+identifier: "178/2010. (V. 13.) Korm. rendelet"
+njt_id: "2010-178-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/178"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-05-13
+in_force_from: 2010-05-28
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-178-20-22"
+retrieved: 2026-10-12
+---
+
+# 178/2010. (V. 13.) Korm. rendelet a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról
+
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (7) bekezdésének q) pontjában, a 16. § tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. §-ának a) és i) pontjában kapott felhatalmazás alapján – az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a következőket rendeli el:
+
+### 1. §
+
+(1) E rendelet hatálya kiterjed
+
+a) a vizek többletéből eredő kockázat előzetes becslése (a továbbiakban: előzetes kockázatbecslés),
+
+b) az árvízi és belvízi veszély- és kockázati térképek (a továbbiakban: veszély- és kockázati térképek), valamint
+
+c) az árvízi és belvízi kockázatkezelési tervek (a továbbiakban: kockázatkezelési tervek)
+
+készítésére, egyeztetésére, nyilvánosságra hozatalára.
+
+(2) E rendelet alkalmazásában:
+
+a) *vizek többlete:* az árvíz és a belvíz;
+
+b)[^1] *árvíz:* a rendes körülmények között vízzel nem borított földterület ideiglenes víz alá kerülése (elöntése), kivéve a belvízből és a szennyvízrendszerekből eredő elöntéseket;
+
+c) *belvíz:* a rendes körülmények között vízzel nem borított földterületnek a talajvízből származó vagy a csapadékvízből összegyülekező víz alá kerülése (elöntése);
+
+d) *vizek többletéből eredő kockázat:* az árvízi, belvízi esemény valószínűségének és az árvízi, belvízi esemény által az emberi egészségben, emberi javakban, a környezetben, a kulturális örökségben és a gazdaság vonatkozásában okozott lehetséges káros következményeknek az együttese;
+
+e) *nem szerkezeti jellegű intézkedések:* azok a beavatkozások, módszerek, eljárások, szabályok, amelyek az árvizek károkozása elleni védelmet és védekezést létesítmények nélkül segítik, így különösen: védelmi szervezet, előrejelzés, fenntartás, jogszabályok, védelmi- és lokalizációs tervek, hírközlés, adatátvitel.
+
+### 2. §
+
+(1)[^2] Az előzetes kockázatbecslés, a veszély- és kockázati térképek elkészítéséről a vízügyi igazgatási szervek irányításáért felelős miniszter gondoskodik az Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok útján a helyi önkormányzatokért felelős miniszter, az egészségügyért felelős miniszter, a területfejlesztésért felelős miniszter, a területrendezésért felelős miniszter, az építésügyért felelős miniszter, a gazdaságpolitikáért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, az elektronikus hírközlésért felelős miniszter, az agrárpolitikáért felelős miniszter, a kultúráért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és a honvédelemért felelős miniszter (a továbbiakban: érintett miniszterek), valamint az érintett miniszterek irányítása, felügyelete alá tartozó központi államigazgatási szervek bevonásával.
+
+(2) Az előzetes kockázatbecslés, valamint a veszély- és kockázati térképek elkészítéséhez az érintett miniszterek a jogszabály alapján nyilvántartásuk részét képező adatokat az (1) bekezdés szerinti közreműködésük során biztosítják.
+
+## Előzetes kockázatbecslés
+
+### 3. §
+
+(1) A vizek többletéből eredő kockázattal érintett terület lehatárolására előzetes kockázatbecslést kell készíteni a rendelkezésre álló vagy könnyen levezethető információk alapján, az árvíz és belvíz előfordulására hatással lévő hosszú távú változások figyelembevételével.
+
+(2)[^3] Az előzetes kockázatbecslést a Duna vízgyűjtőkerület magyarországi területére vonatkozóan a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben meghatározott részvízgyűjtőkre kell elkészíteni, figyelembe véve az országon kívüli vízgyűjtő területek kockázatainak Magyarországra gyakorolt hatását.
+
+(3) Az előzetes kockázatbecslés tartalmazza
+
+a)[^4] a Duna vízgyűjtőkerület magyarországi területének megfelelő méretarányú térképét, amely ábrázolja a vízgyűjtők és a részvízgyűjtők határait, a domborzatot és az Országos Területrendezési Tervről szóló törvény szerinti terület-felhasználást;
+
+b) a múltban bekövetkezett azon árvíz és belvíz leírását, amelynek jelentős káros hatásai voltak az emberi egészségre, emberi javakra, a környezetre, a kulturális örökségre és a gazdasági tevékenységre, és amelyek vonatkozásában továbbra is fennáll a jövőbeni hasonló előfordulás valószínűsége, beleértve az elöntés mértékének és terjedési útvonalainak leírását, valamint az okozott káros hatások értékelését;
+
+c) a múltban bekövetkezett azon jelentős árvíz és belvíz leírását, amely jövőbeli előfordulása esetében annak jelentős káros következményei – az időközben bekövetkezett változások miatt – előreláthatóak;
+
+d) az ismert ártéri és belvízi öblözetek, valamint a kis vízfolyások árvizei által veszélyeztetett területek és a védelmi szakaszok meghatározását,
+
+e)[^5] a jövőbeni ár- és belvizeknek az emberi egészségre és javakra, a környezetre, a kulturális örökségre és a gazdasági tevékenységre gyakorolt lehetséges káros hatásainak értékelését, figyelembe véve a domborzatot, a vízfolyások elhelyezkedését, valamint hidrológiai, hidraulikai és geomorfológiai tulajdonságait (beleértve az árterületeket, mint természetes árvízvisszatartó területeket), az ár- és belvízvédelmi infrastruktúra kiépítettségét és működését, a lakott területek és gazdasági tevékenységre szolgáló területek elhelyezkedését, valamint a várható hosszú távú fejleményeket, beleértve az éghajlatváltozásnak az árvizek előfordulására gyakorolt esetleges hatását is.
+
+(4) Az előzetes kockázatbecslés alapján meg kell határozni azokat a területeket (a továbbiakban: tervezési egységek), amelyek vonatkozásában a vizek többletéből eredő jelentős kockázat áll fenn, illetve ezek előfordulása valószínűsíthető.
+
+## Veszély- és kockázati térkép készítése
+
+### 4. §
+
+(1) A tervezési egységekre veszély- és kockázati térképet kell készíteni.
+
+(2) A veszélytérképen azokat a földrajzi területeket kell feltüntetni, amelyeket elönthet:
+
+a) az alacsony valószínűségű árvíz vagy szélsőséges események bekövetkezése során előforduló árvíz vagy belvíz;
+
+b) a közepes valószínűségű árvíz (a valószínű visszatérési idő legalább 100 év);
+
+c) a nagy valószínűségű árvíz.
+
+(3) A (2) bekezdés a) pontja szerinti belvíz valószínűségét a helyi viszonyok alapján kell meghatározni.
+
+(4) A veszélytérképen fel kell tüntetni
+
+a) az elöntés várható kiterjedését (az elöntött terület nagysága);
+
+b) a várható vízmélységeket vagy vízszinteket;
+
+c) a várható áramlási sebességet vagy a vonatkozó vízhozamot.
+
+### 5. §
+
+(1) A kockázati térképen fel kell tüntetni a 4. § (2)–(3) bekezdés szerinti árvíz és belvíz okozta lehetséges káros következményeket.
+
+(2) Az (1) bekezdés szerinti következményeket
+
+a) a potenciálisan érintett lakosok száma;
+
+b)[^6] a potenciálisan érintett területen lévő infrastruktúra és a gazdasági tevékenységének típusa, a településrendezési és építési követelményekről szóló kormányrendelet szerinti terület felhasználási egysége;
+
+c) azon egységes környezethasználati engedélyköteles létesítmények, amelyek árvíz esetén környezetszennyezést okozhatnak,
+
+d) az érintett, a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerint védelem alatt álló területek;
+
+e) az adott területen előforduló egyéb kockázatra vonatkozó információ
+
+figyelembevételével kell meghatározni.
+
+### 6. §
+
+(1)[^7] A veszély- és kockázati térképek készítése során gondoskodni kell arról, hogy a 4–5. §-nak megfelelően feltüntetett információk összhangban legyenek a vízgazdálkodásért felelős miniszter által a vízgyűjtő-gazdálkodás egyes szabályairól szóló jogszabály szerint az Európai Bizottságnak nyújtott tájékoztatással, illetve jelentéssel.
+
+(2) A veszély- és kockázati térkép kidolgozását és a 12. § szerinti felülvizsgálatot a vízgyűjtő-gazdálkodási tervek felülvizsgálataival összehangolva kell végrehajtani, és a vízgyűjtő-gazdálkodási tervek felülvizsgálata során a veszély- és kockázati térképen feltüntetett információkat figyelembe kell venni.
+
+## Kockázatkezelési célok megállapítása
+
+### 7. §[^8]
+
+(1) A veszély- és kockázati térképek alapján a Duna vízgyűjtőkerület magyarországi részére Országos Árvízi Kockázatkezelési Koncepciót (a továbbiakban: Koncepció) kell készíteni, mely tartalmazza az országos szintű árvízi kockázatkezelési célkitűzéseket, alapelveket és prioritásokat az árvízi kockázatkezelés rendje, a kockázatkezelés és a kockázatviselés, valamint a kockázatok csökkentése tekintetében. A Koncepció kiterjed az árvíznek és a belvíznek az emberi egészségre, az emberi javakra, a környezetre, a kulturális örökségre és a gazdasági tevékenységre gyakorolt lehetséges káros következményeinek csökkentésére, valamint – amennyiben indokolt – a nem szerkezeti jellegű intézkedésekre, az árvíz és belvíz valószínűségének csökkentésére összpontosítva.
+
+(2)[^9] A Koncepció tervezetének elkészítéséről – az Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok útján – a vízügyi igazgatási szervek irányításáért felelős miniszter gondoskodik, az érintett miniszterek irányítása, felügyelete alatt álló központi államigazgatási szervek bevonásával és gondoskodik az Országos Vízgazdálkodási Tanács véleményének beszerzéséről.
+
+(3) A Koncepció elfogadására a Kormány javaslatot tesz az Országgyűlésnek.
+
+## A kockázatkezelési tervek
+
+### 8. §
+
+(1) A veszély- és kockázati térképek alapján a 3. § (4) bekezdésében meghatározott területekre kockázatkezelési terveket, valamint az ország teljes területére egységes országos kockázatkezelési tervet kell készíteni az 1. melléklet I–II. pontjában meghatározott tartalommal.
+
+(2) A kockázatkezelési tervet a 7. § szerint meghatározott kockázatkezelési céloknak megfelelően, különösen
+
+a) a költségek és hasznok,
+
+b) az elöntés mértéke,
+
+c) az árvízterjedési útvonal,
+
+d) az árvíz-visszatartási képességgel rendelkező területek, különösen a természetes árterek,
+
+e) a vízgyűjtő-gazdálkodási tervben meghatározott környezetvédelmi célkitűzések,
+
+f) a hajózás és a kikötői infrastruktúra,
+
+g) a talaj- és vízgazdálkodás, a terület- és a településrendezés, a területfejlesztés, a természetvédelem, valamint a kulturális örökségvédelem követelményei és
+
+h) a vízgyűjtő vagy részvízgyűjtő jellemzői
+
+figyelembevételével kell elkészíteni.
+
+(3) A kockázatkezelési tervek a vizek többletéből eredő kockázat kezelésének minden szempontjára kiterjednek, így különösen
+
+a) a megelőzésre, beleértve a mértékadó árvízi előírásoknak az éghajlatváltozás figyelembevételével és a rendelkezésre álló, költséghaszon elemzéssel alátámasztott legjobb gyakorlat és legjobb technológiák alapján történő korszerűsítését, meghatározását, valamint a fenntartható terület-felhasználási gyakorlatok támogatását, azaz a vízgyűjtőn a vizek visszatartását, a potenciális ártereken a kárkockázatot csökkentő terület-felhasználás előmozdítását;
+
+b) a védelemre, beleértve az árvízvisszatartás javítását, a védelmi létesítmények indokolt fejlesztését, azok fenntartását, valamint egyes területek árvizek esetén történő ellenőrzött elárasztását;
+
+c) a felkészülésre, beleértve a védekezésre kötelezettek megfelelő információval ellátottságát (az árvíz előrejelzés és a korai riasztó rendszerek, védelmi és lokalizációs tervek) és a védelmi szervezetek megszervezésének, képességfejlesztésének követelményét, illetve a közvélemény árvízi tudatosságának emelését szolgáló megelőző, felkészítő és valósidejű információk közzétételét.
+
+(4) A kockázatkezelési terv nem tartalmazhat – a 11. § szerinti összehangolt intézkedés kivételével – olyan intézkedést, amelyek kiterjedésénél és hatásánál fogva jelentősen növeli a vizek többletéből eredő kockázatot az ugyanazon vízgyűjtőbe vagy részvízgyűjtőbe tartozó alvízi vagy felvízi ártéri öblözetekben.
+
+### 9. §
+
+(1)[^10] A kockázatkezelési célkitűzések meghatározása, valamint a kockázatkezelési terv készítése és felülvizsgálata során gondoskodni kell arról, hogy azok összhangban legyenek a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerint megvalósuló környezeti célkitűzésekkel és vízgyűjtő-gazdálkodási tervekkel, valamint azok felülvizsgálatával, lehetőséget adva a két terv integrálására.
+
+(2) A vízhasználatra és területfejlesztésre vonatkozó koncepciók, területrendezési és településrendezési tervek kidolgozása során figyelembe kell venni a vizek többletéből eredő kockázatot.
+
+(3) A kockázatkezelési terveket a (2) bekezdés szerinti koncepciók és tervek figyelembevételével kell elkészíteni.
+
+(4) A kockázatkezelési terveket a vizek többletéből eredő kockázat kezeléséhez rendelkezésre álló, költség-haszon elemzéssel alátámasztott legjobb gyakorlat és legjobb technológiák alapján kell elkészíteni.
+
+### 10. §
+
+(1) A kockázatkezelési tervet
+
+a)[^11] a vízügyi igazgatóság a 3. § (4) bekezdésében meghatározott területekre, a területfejlesztésért felelős miniszter, a területrendezésért felelős miniszter, az építésügyért felelős miniszter, az agrárpolitikáért felelős miniszter, a földügyért felelős miniszter, az energiapolitikáért felelős miniszter, a vízgazdálkodásért felelős miniszter, és a közlekedésért felelős miniszter által meghatározott szervezetek közreműködésével,
+
+b)[^12] a vízügyi igazgatási szervek irányításáért felelős miniszter az ország teljes területére a területfejlesztésért felelős miniszter, az építésügyért felelős miniszter és az agrárpolitikáért felelős miniszter közreműködésével
+
+készíti el a 7. § szerint meghatározott célkitűzéseknek megfelelően.
+
+(2) A kockázatkezelési terv készítése során gondoskodni kell az
+
+a) az (1) bekezdés a) pontja szerinti terv esetében a Területi Vízgazdálkodási Tanács,
+
+b) az (1) bekezdés b) pontja szerinti terv esetében az Országos Vízgazdálkodási Tanács véleményének beszerzéséről.
+
+(3)[^13] Az Országos Kockázatkezelési Tervet a Kormány határozattal fogadja el.
+
+## Nemzetközi együttműködés
+
+### 11. §[^14]
+
+(1) Az előzetes kockázatbecslést, a tervezési egységeknek a 3. § (4) bekezdés szerinti meghatározását, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítését a Duna vízgyűjtőkerület 2. mellékletben meghatározott, határon átnyúló részvízgyűjtői tekintetében, a 2. mellékletben meghatározott európai uniós tagállamok, hatáskörrel rendelkező szerveivel történő folyamatos információcsere mellett, összehangolva kell elvégezni. A nem európai uniós tagállamok esetében is biztosítani kell a koordináció lehetőségét a vonatkozó kétoldalú szerződések és megállapodások szabályai szerint, illetve az Európai Unió Duna Makro-regionális Stratégiájának keretében.
+
+(2) Az (1) bekezdésben meghatározott tevékenységeket a Duna vízgyűjtőkerületre vonatkozó – a Duna védelmére és fenntartható használatára irányuló együttműködésről szóló Egyezmény Duna Védelmére Szolgáló Nemzetközi Bizottsága által elfogadott – követelményekkel és feladatokkal összhangban kell végezni. Ha egységes nemzetközi kockázatkezelési terv nem készíthető, a tervet a Duna vízgyűjtőkerület magyarországi területére és annak részvízgyűjtőire kell elkészíteni.
+
+## Felülvizsgálat
+
+### 12. §
+
+(1) Az előzetes kockázatbecslést, valamint a veszély- és kockázati térképeket az első felülvizsgálatot követően legalább hatévente felül kell vizsgálni.
+
+(2) A kockázatkezelési tervet legalább hatévente felül kell vizsgálni a 1. melléklet III. pontjában meghatározottak szerint.
+
+(3) Az (1)–(2) bekezdések szerinti felülvizsgálatok során figyelembe kell venni az éghajlatváltozás árvizek előfordulására gyakorolt hatását.
+
+## A nyilvánosság tájékoztatása és jelentéstételi kötelezettség
+
+### 13. §
+
+(1)[^15] Az előzetes kockázatbecslést, a veszély- és kockázati térképet és a kockázatkezelési tervet a nyilvánosság számára elérhetővé kell tenni a vízügyi igazgatási szervek irányításáért felelős miniszter által vezetett minisztérium honlapján.
+
+(2)[^16] A kockázatkezelési terv elkészítése és felülvizsgálata során tájékoztató és egyeztető fórumok szervezésével biztosítani kell, hogy a terv tartalmát a társadalom, különösen a vízgyűjtő-gazdálkodási terv készítésébe és felülvizsgálatába bevont személyek megismerhessék és véleményezhessék.
+
+(3)[^17] Az előzetes kockázatbecslés, a veszély- és kockázati térképek és a kockázatkezelési tervek Európai Bizottság számára történő megküldéséről az elkészítésüket, illetve felülvizsgálatukat követő három hónapon belül a vízügyi igazgatási szervek irányításáért felelős miniszter gondoskodik.
+
+## Záró rendelkezések
+
+### 14. §
+
+(1) Ez a rendelet kihirdetését követő 15. napon lép hatályba.
+
+(2) Az előzetes kockázatbecslést 2011. december 22-ig, annak első felülvizsgálatát 2018. december 22-ig kell elvégezni.
+
+(3) A veszély- és kockázati térképeket 2013. december 22-ig el kell készíteni, és azok első felülvizsgálatát 2019. december 22-ig kell elvégezni.
+
+(4) A kockázatkezelési tervet 2015. december 22-ig kell elkészíteni, és első felülvizsgálatát 2021. december 22-ig kell elvégezni.
+
+### 15. §
+
+Ez a rendelet az árvízkockázatok értékeléséről és kezeléséről szóló, 2007. október 23-i 2007/60/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 178/2010. (V. 13.) Korm. rendelethez
+
+**Kockázatkezelési tervek**
+
+1\. A kockázatkezelési terv alkotóelemei
+
+1.1.[^18] az előzetes kockázatbecslés következtetései a 3. § előírásainak megfelelően, a Duna vízgyűjtőkerület magyarországi részvízgyűjtőinek összefoglaló térképe formájában, feltüntetve a kockázatkezelési terv tervezési egységét képező, 3. § (4) bekezdés szerint meghatározott területeket;
+
+1.2. a 4–6. §-ok szerint elkészített veszély-és kockázati térkép, valamint a térképek alapján levonható következtetések;
+
+1.3. a 7. § (2) bekezdésével összhangban megállapított kockázatkezelési célkitűzések leírása;
+
+1.4. a kockázatkezelési célok elérését célzó intézkedések összefoglalása, azok rangsorolása, valamint a 7. §-sal összhangban, és az egyéb közösségi jogi aktusok szerint hozott, az árvizekhez kapcsolódó intézkedések, beleértve a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletet, a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védelemről szóló 18/2006. (I. 26.) Korm. rendeletet, az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendeletet, valamint a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendeletet;
+
+1.5. amennyiben rendelkezésre áll, a szomszéd államokkal közös vízgyűjtők vagy részvízgyűjtők esetében a határokon túlterjedő hatású intézkedések értékeléséhez használt költség-haszon elemzés érintett tagállamok által meghatározott módszertanának leírása.
+
+2\. A kockázatkezelési terv készítésének leírása
+
+2.1. a rangsorolásnak és a kockázatkezelési terv végrehajtása ellenőrzési módjának leírása;
+
+2.2. a nyilvánosság tájékoztatása és a konzultáció céljából megtett intézkedések összefoglalása;
+
+2.3. a hatáskörrel rendelkező hatóságok jegyzéke, valamint adott esetben bármely nemzetközi vízgyűjtő kerületen belüli koordinációs folyamat és a 2000/60/EK irányelvvel való koordináció folyamatának a leírása.
+
+3\. A kockázatkezelési terv későbbi felülvizsgálatának alkotóelemei
+
+3.1. a kockázatkezelési terv előző változatának közzététele óta tett valamennyi változtatás vagy aktualizálás, beleértve a 12. §-nak megfelelően végrehajtott felülvizsgálatok összefoglalását is;
+
+3.2. a 7. § szerint megállapított célkitűzések megvalósítása terén elért eredmények értékelése;
+
+3.3. a kockázatkezelési terv korábbi változatában előirányzott, de meg nem valósított intézkedések leírása és magyarázata;
+
+3.4. a kockázatkezelési terv korábbi változatának közzététele óta tett minden kiegészítő intézkedés leírása.
+
+## 2. melléklet a 178/2010. (V. 13.) Korm. rendelethez[^19]
+
+**A Duna vízgyűjtőkerület határon átnyúló magyarországi részvízgyűjtői**
+
+|  | **A** | **B** | **C** | **D** |
+|---|---|---|---|---|
+| **1.** | A részvízgyűjtő neve | Érintett országok | Az együttműködés módja | Szakaszhatár |
+| **2.** | Vág, Garam, Ipoly | Szlovákia, Magyarország | Kétoldalú magyar–szlovák | Ipoly |
+| **3.** | Rába, Lajta | Ausztria, Magyarország | Kétoldalú magyar–osztrák |  |
+| **4.** | Duna (1) | (Ausztria), Szlovákia, Magyarország | Kétoldalú magyar–szlovák | (1) Morva–Ipoly |
+| **5.** | Duna (3) | Magyarország, Horvátország, Szerbia | Kétoldalú magyar–horvát Kétoldalú magyar–szerb Kétoldalú horvát–szerb | (3) Dunaföldvár*–Dráva |
+| **6.** | Dráva–Mura | Ausztria, Szlovénia, Horvátország, Magyarország | Kétoldalú magyar–szlovén Kétoldalú magyar–horvát |  |
+| **7.** | Felső-Dráva és Mura | Ausztria, Szlovénia, Horvátország, Magyarország | Kétoldalú osztrák–szlovén, magyar–horvát közreműködéssel |  |
+| **8.** | Alsó-Dráva | Horvátország, Magyarország | Kétoldalú magyar–horvát |  |
+| **9.** | Tisza | Ukrajna, Románia, Szlovákia, Magyarország, Szerbia | Kétoldalú magyar–román Kétoldalú magyar–szerb Kétoldalú magyar–szlovák Kétoldalú magyar–ukrán |  |
+
+\* Dunaföldvár kizárólag mederbeli határ, mivel az alatta lévő Duna-szakasz a Dráva-torokig a jeges árvízvédekezés szempontjából közös érdekű Horvátországgal és Szerbiával.
+
+---
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 113/2012. (VI. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 8. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 473. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 113/2012. (VI. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdés a) pontja a 113/2012. (VI. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés e) pontját a 113/2012. (VI. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: Az 5. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 62. §-a szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 7. § a 113/2012. (VI. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 7. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 473. § b) pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdése a 113/2012. (VI. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 10. § (1) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 8. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 473. § c) pontja szerint módosított szöveg.
+[^12]: A 10. § (1) bekezdés b) pontja a 300/2011. (XII. 22.) Korm. rendelet 8. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 473. § d) pontja szerint módosított szöveg.
+[^13]: A 10. § (3) bekezdését a 113/2012. (VI. 5.) Korm. rendelet 5. §-a iktatta be.
+[^14]: A 11. § a 113/2012. (VI. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^15]: A 13. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^16]: A 13. § (2) bekezdése a 113/2012. (VI. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^17]: A 13. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 1.1. pontja a 113/2012. (VI. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^19]: A 2. melléklet a 113/2012. (VI. 5.) Korm. rendelet 10. §-ával megállapított szöveg.

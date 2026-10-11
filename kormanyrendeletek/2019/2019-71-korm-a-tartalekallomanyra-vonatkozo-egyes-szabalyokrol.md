@@ -1,0 +1,335 @@
+---
+title: "71/2019. (IV. 4.) Korm. rendelet a tartalékállományra vonatkozó egyes szabályokról"
+identifier: "71/2019. (IV. 4.) Korm. rendelet"
+njt_id: "2019-71-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/71"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-04-04
+in_force_from: 2019-04-05
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-71-20-22"
+retrieved: 2026-10-12
+---
+
+# 71/2019. (IV. 4.) Korm. rendelet a tartalékállományra vonatkozó egyes szabályokról
+
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 1. pont d) és f) alpontjában, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 11. pontjában kapott felhatalmazás alapján,
+
+a honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (1) bekezdés f) pontjában, valamint a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 68. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya
+
+a) a közigazgatási szervre és a közigazgatási szervnél foglalkoztatott kormányzati szolgálati jogviszonyban, valamint közszolgálati jogviszonyban (a továbbiakban együtt: tisztviselői szolgálati jogviszony) álló közszolgálati tisztviselőre,
+
+b) a rendvédelmi szervre és a rendvédelmi szervnél foglalkoztatott hivatásos szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) álló vagy hivatásos állománynak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 93. § (2) bekezdése alapján korábban hivatásos szolgálati jogviszonyban állt tagjára (a továbbiakban együtt: hivatásos állomány tagja),
+
+c)[^1] a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet (a továbbiakban: személyügyi rendelet) 43. § szerinti sajátos katonai tartalékállományra (a továbbiakban: rendelkezési állományú katona), továbbá az állami szervnél vagy állami többségi tulajdonban lévő gazdasági társaságnál történő továbbfoglalkoztatását kérő, a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Hjkr.) 11. § (8) bekezdése szerinti katonára, valamint
+
+d)[^2] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központra (a továbbiakban: személyügyi központ)
+
+terjed ki.
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *közigazgatási szerv:* a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-a szerinti szerv,
+
+b) *országos parancsnok:* a Hszt. 2. § 18. és 19. pontja szerinti személy, valamint az állami adó- és vámhatóság vezetője,
+
+c) *országos parancsnokság:* az országos parancsnok által vezetett szerv,
+
+d) *rendvédelmi szerv:* a Hszt. 1. § (1) bekezdésében meghatározott rendvédelmi feladatokat ellátó szerv,
+
+e)[^3]
+
+f) *tartalékállományba helyezett:*
+
+1\. az a közszolgálati tisztviselő, akinek tartalékállományba helyezéséről az őt foglalkoztató közigazgatási szerv intézkedett,
+
+2\. a hivatásos állomány azon tagja, akinek tartalékállományba helyezéséről az őt foglalkoztató rendvédelmi szerv országos parancsnoksága intézkedett,
+
+3\. a hivatásos állomány azon tagja, akinek tartalékállományba helyezéséről a személyügyi központ a hivatásos állomány tagjának hozzá intézett kérelmére intézkedett,
+
+4.[^4] az a rendelkezési állományú katona, akinek adatait az MH központi személyügyi szervének vezetője a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény (a továbbiakban: Haktv.) 48. § (4) bekezdés a) pontja alapján megküldte,
+
+g) *üres álláshely:* a közigazgatási szervnél betöltetlen közszolgálati tisztviselői állás, amelynek betöltése érdekében a munkáltatói jogkör gyakorlója megteszi a szükséges intézkedéseket – így különösen meghívásos vagy pályázati eljárást kezdeményez, valamint a tartalékállományba helyezettek között keresést kér –, ugyanakkor nem tekinthető üres álláshelynek a Kttv. alapján munkavégzési kötelezettsége alól mentesített, illetve szülési szabadságon, fizetés nélküli szabadságon lévő közszolgálati tisztviselők álláshelye.
+
+h)[^5] *tartalékállományba helyezett saját felhasználói felülete:* a tartalékállományba helyezett adatait, a közszolgálaton belüli továbbfoglalkoztatás érdekében feltöltött dokumentumait tartalmazó felület.
+
+## 2. [^6] A TARTINFOR-rendszer
+
+### 3. §
+
+(1)[^7] A személyügyi központ
+
+a) a tartalékállományba helyezett közszolgálati tisztviselő, hivatásos állomány tagja vagy rendelkezési állományú katona adatait, valamint
+
+b) a közigazgatási szerv által bejelentett üres álláshely adatait
+
+az *a)* és *b)* pont szerinti adatok nyilvántartására szolgáló informatikai rendszerben (a továbbiakban: TARTINFOR-rendszer) tartja nyilván.
+
+(2)[^8] A TARTINFOR-rendszer az (1) bekezdés szerinti feladat ellátása érdekében a következő funkciókra alkalmazható:
+
+a) a tartalékállományba helyezett adatainak rögzítése, módosítása, törlése;
+
+b) az üres vagy megüresedő álláshelyre alkalmas, tartalékállományba helyezett keresése;
+
+c) a közigazgatási szerv, az országos parancsnokság és az MH központi személyügyi szerve adatainak kezelése;
+
+d) a közigazgatási szervnél megüresedett álláshely bejelentése vagy törlése.
+
+(3)[^9] A személyügyi központ a TARTINFOR-rendszerben kezelt elérhetőségén keresztül közvetlenül értesíti a tartalékállományba helyezésről a tartalékállományba helyezettet a a közszolgálati munkaerőpiacon történő elhelyezkedését elősegítő programban való részvétel lehetőségéről és annak feltételeiről. Az állami foglalkoztatási szerv köteles a személyügyi központtal együttműködni, és részére előzetesen tájékoztatást adni az említett programok tervezett kezdetéről és az azokban való részvétel feltételeiről.
+
+(4)[^10] A TARTINFOR-rendszer a tartalékállományba helyezett
+
+a) közszolgálati tisztviselőről a Kttv. 3. mellékletében,
+
+b) hivatásos állomány tagjáról a Hszt. 4. mellékletében,
+
+c)[^11] rendelkezési állományú katonáról a Haktv. 17. mellékletében
+
+meghatározott adatokat, továbbá statisztikai célra szolgáló, önkéntes adatszolgáltatáson alapuló adatokat tartalmaz.
+
+(5)[^12] A közszolgálati tisztviselő Kttv. 3. mellékletében, a hivatásos állomány tagja Hszt. 4. mellékletében, valamint a rendelkezési állományú katona Haktv. 17. mellékletében meghatározott adatainak 6. § (6) bekezdése céljából történő továbbításához az érintett írásbeli hozzájárulása szükséges.
+
+(6)[^13] A TARTINFOR-rendszeren keresztül küldött elektronikus értesítéseket aláírás és bélyegzőlenyomat nélkül is hitelesnek kell tekinteni.
+
+### 4. §[^14]
+
+(1) A közigazgatási szerv a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendeletben foglaltak szerint regisztrál a TARTINFOR-rendszerbe.
+
+(2) A szabályozott hozzáférés érdekében a felhasználót az (1) bekezdés szerinti regisztrációt követően tároló elemet tartalmazó állandó személyazonosító igazolvánnyal vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásra és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhelyen keresztül kell biztosítani.
+
+(3) A közszolgálati tisztviselő adatainak a TARTINFOR-rendszerben történő rögzítéséről, módosításáról, törléséről, valamint a közigazgatási szerv adataiban történő változás átvezetéséről a közigazgatási szerv hivatali szervezetének vezetője által megbízott személy gondoskodik. A közigazgatási szerv hivatali szervezetének vezetője adja a közszolgálati tisztviselő számára a hozzáférést a TARTINFOR-rendszerhez.
+
+## 3. [^15] A TARTINFOR-rendszer egyes funkciói
+
+### 5. §
+
+(1) A közszolgálati tisztviselő tartalékállományba helyezéséről a közigazgatási szervnek a felmentésre vonatkozó munkáltatói intézkedésében kell rendelkeznie.
+
+(2)[^16] A közigazgatási szerv hivatali szervezetének vezetője a közszolgálati tisztviselő adatait a tartalékállományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben.
+
+(3)[^17] A közigazgatási szerv hivatali szervezetének vezetője haladéktalanul intézkedik a közszolgálati tisztviselő adatainak a TARTINFOR-rendszerből való törléséről, ha
+
+a) a közszolgálati tisztviselő végleges áthelyezésére kerül sor,
+
+b) a közszolgálati tisztviselőt új munkakörbe helyezik át,
+
+c) megszűnik a közszolgálati tisztviselő szolgálati jogviszonya, vagy
+
+d)[^18] a közszolgálati tisztviselő indokolás nélkül kéri a törlését.
+
+(4)[^19] A felmentési idő lejártával a TARTINFOR-rendszer automatikusan törli a közszolgálati tisztviselő adatait.
+
+### 6. §
+
+(1)[^20] A közigazgatási szerv hivatali szervezetének vezetője a közigazgatási szervnél megüresedett álláshely betöltése érdekében megkeresheti a személyügyi központot, hogy a TARTINFOR-rendszerben tartalékállományba helyezettek között keresést végezzen.
+
+(2)[^21] A személyügyi központ a közigazgatási szerv által a 9. § (1) bekezdésében meghatározottak szerint bejelentett üres álláshely alapján az üres álláshely bejelentését követő öt munkanapon belül – a Kttv. 41/A. § (2) bekezdés b) pontja szerinti feltételnek megfelelően – keresést végez a TARTINFOR-rendszerben szereplő, a Kttv. 41/A. § (1) bekezdésében meghatározott rendelkezési állományú katonák körében.
+
+(3)[^22] Ha a (2) bekezdésben meghatározott keresés alapján nincs a munkakör betöltéséhez előírt képesítési feltételeknek megfelelő személy, a személyügyi központ – a közigazgatási szerv egyidejű értesítése mellett – a (2) bekezdésben meghatározott korlátozásra tekintet nélkül további keresést végez a TARTINFOR-rendszerben.
+
+(4) A személyügyi központ a keresést a közigazgatási szerv hivatali szervezetének vezetője megkeresésétől – a (2) bekezdésben foglalt esetben az üres álláshely bejelentésétől – számított öt munkanapon belül lefolytatja, és abc sorrendben ajánlati listát állít össze az álláshely betöltésére alkalmas tartalékállományba helyezettekről.
+
+(5)[^23] A személyügyi központ a lefolytatott keresésről értesíti a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetőjét. A tartalékállományba helyezett – amennyiben az ajánlati listán szerepel – tájékoztatást kap.
+
+(6)[^24] Az eredményes keresésről szóló értesítéssel egyidejűleg a személyügyi központ a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője számára hozzáférhetővé teszi az ajánlati listán szereplő tartalékállományba helyezetteknek a Kttv. 3. mellékletében, a Hszt. 4. mellékletében, valamint a Haktv. 17. mellékletében meghatározott adatait.
+
+### 7. §
+
+(1) Az ajánlati listán szereplők adatai alapján a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv közvetlenül a tartalékállományba helyezett közszolgálati tisztviselőnél, hivatásos állomány tagjánál vagy rendelkezési állományú katonánál kezdeményezheti a szóbeli meghallgatást továbbfoglalkoztatása céljából.
+
+(2) A szóbeli meghallgatás helyét és időpontját úgy kell meghatározni, hogy a tartalékállományba helyezett eleget tudjon tenni a szóbeli meghallgatáson való megjelenésnek. Az erről szóló tájékoztatást a meghallgatás időpontját megelőzően legalább három munkanappal kell a tartalékállományba helyezettnek kézbesíteni. A szóbeli meghallgatáson való megjelenést a tartalékállományba helyezettet foglalkoztató szerv munkáltatói jogkörének gyakorlója köteles lehetővé tenni.
+
+(3) A szóbeli meghallgatást követően a keresést kérő, illetve üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője haladéktalanul írásban tájékoztatja a tartalékállományba helyezettet foglalkoztató közigazgatási szerv vezetőjét a tartalékállományba helyezett továbbfoglalkoztatására irányuló szándékáról, és kezdeményezi az áthelyezést.
+
+(4) Az áthelyezésről a munkáltatói jogkör gyakorlója írásban tájékoztatja a közszolgálati tisztviselőt vagy a hivatásos állomány tagját, aki a tájékoztatás kézhezvételét követő nyolc munkanapon belül nyilatkozik, hogy az áthelyezést elfogadja-e. Amennyiben a közszolgálati tisztviselő vagy a hivatásos állomány tagjának felmentési idejéből kevesebb mint nyolc munkanap van hátra, a közszolgálati tisztviselőnek vagy a hivatásos állomány tagjának legkésőbb a felmentési idő utolsó napján kell nyilatkoznia az áthelyezés elfogadásáról.
+
+(5) A közszolgálati tisztviselő vagy a hivatásos állomány tagjának hozzájárulása esetén a munkáltatói jogkör gyakorlója intézkedik az áthelyezésről, és visszavonja a tartalékállományba helyezett felmentését.
+
+(6)[^25] A keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője az ajánlati lista kézhezvételét követő tizenöt munkanapon belül a TARTINFOR-rendszerben rögzíti a foglalkoztatás tényét.
+
+(7)[^26] A közigazgatási szerv által a tartalékállományba helyezettről rögzített adatokat a tartalékállományba helyezett saját felhasználói felületén megtekintheti, szerkesztheti, módosíthatja, elhelyezkedésének elősegítése érdekében dokumentumokat tölthet fel a TARTINFOR-rendszerbe.
+
+(8)[^27] A felmentési időszak lejártát követően a tartalékállományba helyezett hozzáférése a rendszerhez automatikusan megszűnik.
+
+(9)[^28] A tartalékállományba helyezett a felmentés ideje alatt jogosult a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti Új Karrier Program szolgáltatásait igénybe venni, amelyet automatikusan felajánl a rendszer.
+
+### 8. §
+
+(1)[^29] A közigazgatási szerv hivatali szervezetének vezetője a változás bekövetkeztétől számított öt munkanapon belül intézkedik a közigazgatási szerv adataiban történő változás átvezetéséről a TARTINFOR-rendszerben.
+
+(2)[^30] Ha a közigazgatási szerv megszűnik, akkor a megszűnő közigazgatási szerv hivatali szervezetének vezetője a TARTINFOR-rendszerben rögzíti a megszűnés időpontját, annak módját (jogutóddal vagy jogutód nélkül). A megszűnés időpontjától kezdve a megszűnő közigazgatási szerv hivatali szervezetének vezetője nem jogosult a TARTINFOR-rendszerhez hozzáférni.
+
+(3) Ha a megszűnő közigazgatási szervnek van jogutódja, akkor a Kttv. 58. § (2) bekezdése szerint kell eljárni, azzal, hogy több jogutód szerv esetén a megszűnő közigazgatási szervnek minden közszolgálati tisztviselő esetében meg kell határozni a jogutód szervet.
+
+(4)[^31] A közigazgatási szerv vezetőjének személyében történő változás esetén az új vezető haladéktalanul elektronikus úton kéri a személyügyi központtól a korábbi vezető jogosultságának megszüntetését és a TARTINFOR-rendszerhez való hozzáférés biztosítását a közigazgatási szerv nevének és a személyügyi központ felületén elérhető regisztrációs adatlapnak a közigazgatási szerv vezetőjére vonatkozó adatainak megadásával. A személyügyi központ öt munkanapon belül módosítja a vezető adatait, és elektronikus úton elküldi a TARTINFOR-azonosítókat.
+
+(5)[^32] A személyügyi központ a tartalékállomány rendszerhasználatáról a felhasználókat támogató kézikönyvet, útmutatót ad ki, ügyfélszolgálatot üzemeltet.
+
+## 4. A közigazgatási szervre vonatkozó különös rendelkezések
+
+### 9. §
+
+(1)[^33] A közigazgatási szerv hivatali szervezetének vezetője az üres álláshelyre vonatkozó, meghatározott adatokat a megüresedéstől számított legkésőbb tizenöt napon belül rögzíti a TARTINFOR-rendszerben.
+
+(2)[^34] Az üres álláshelyre történő kinevezés – határozott idejű áthelyezés esetén kinevezésmódosítás – napjától számított nyolc napon belül a közigazgatási szerv hivatali szervezetének vezetője törli az üres álláshely adatait a TARTINFOR-rendszerből.
+
+(3)[^35] A személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti KÖZSZOLGÁLLÁS pályázati kiírása alapján a betölteni tervezett álláshely adatait a TARTINFOR-rendszer automatikusan, közvetlen adatkapcsolat útján átveszi.
+
+## 5. A rendvédelmi szervre és a hivatásos állomány tagjára vonatkozó különös rendelkezések
+
+### 10. §
+
+(1)[^36] Az országos parancsnokság a TARTINFOR-rendszer 5. § (3) bekezdés a)–c) pontjaiban meghatározott funkcióit alkalmazza.
+
+(2)[^37] Az országos parancsnok a személyügyi központ honlapján elérhető regisztrációs bejelentőlap megküldésével igényel TARTINFOR-azonosítókat, amelyeket a 4. § (5) bekezdésében meghatározott módon kell megküldenie a személyügyi központnak. Az országos parancsnok az így igényelt TARTINFOR-azonosítókkal léphet be a TARTINFOR-rendszerbe. Az országos parancsnokság – a (4) bekezdésben meghatározott kivétellel – a hivatásos állomány tagjának adatait a tartalékállományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben.
+
+(3)[^38] A hivatásos állománynak a Hszt. 93. § (1) bekezdése szerinti feltételeknek megfelelő, valamint a Hszt. 93. § (2) bekezdése szerinti feltételeknek megfelelő tagja a személyügyi központ honlapján elérhető tartalékállományba helyezés iránt kérelmet nyújthat be a személyügyi központnak. A személyügyi központ a kérelem kézhezvételétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben a hivatásos állomány tagjának adatait.
+
+(4)[^39] A hivatásos állomány tagja adatainak (3) bekezdés szerinti TARTINFOR-rendszerbe történő rögzítését követő öt munkanapon belül a személyügyi központ tájékoztatja a hivatásos állomány tagját foglalkoztató rendvédelmi szerv országos parancsnokságát a tartalékállományba helyezésről.
+
+(5)[^40] A (3) bekezdés alapján tartalékállományba helyezett köteles az adataiban történő változásokat öt munkanapon belül elektronikus úton bejelenteni a személyügyi központ felé.
+
+### 11. §
+
+(1)[^41] Az országos parancsnok a hivatásos állomány tagjának adatait törli a TARTINFOR-rendszerből, ha
+
+a) a felmentési ideje lejár, és nem kerül sor a Hszt. 91. § (2) bekezdése szerinti tartalékállományban tartására,
+
+b) a Hszt. 91. § (2) bekezdése szerinti tartalékállományban tartásának időtartama letelt,
+
+c) a továbbfoglalkoztatásra kerül sor,
+
+d) a hivatásos állomány tagja a Hszt. 91. § (9) bekezdésében meghatározott okból kérelmet nyújt be az országos parancsnokság részére.
+
+(2)[^42] A hivatásos állomány tagjának a Hszt. 91. § (2) bekezdése szerinti tartalékállományban tartására irányuló kérelmét a hivatásos szolgálati jogviszony megszűnését legalább tizenöt nappal megelőzően írásban be kell nyújtania az országos parancsnokság részére. Az országos parancsnok a Hszt. 91. § (2) bekezdése szerinti feltételek fennállása esetén módosítja a TARTINFOR-rendszerben a tartalékállományba helyezés időtartamát.
+
+(3) Az (1) bekezdés c) pontja szerinti továbbfoglalkoztatás megkezdésének azt a napot kell tekinteni, amelyen a hivatásos állomány tagját áthelyezik vagy közigazgatási szervnél közszolgálati tisztviselővé kinevezik.
+
+(4)[^43] A 10. § (3) bekezdése alapján tartalékállományba helyezett a személyügyi központ honlapján elérhető nyomtatvánnyal bármely okból törlés iránt postai vagy elektronikus úton kérelmet nyújthat be a személyügyi központhoz. A személyügyi központ a kérelem kézhezvételétől számított tizenöt napon belül törli a TARTINFOR-rendszerből a tartalékállományba helyezett hivatásos állományú adatait.
+
+(5)[^44] A TARTINFOR-rendszerből történő (4) bekezdés szerinti törlést követően a személyügyi központ haladéktalanul tájékoztatja a hivatásos állomány tagját korábban foglalkoztató rendvédelmi szerv országos parancsnokságát a tartalékállományból történő törlésről.
+
+### 12. §
+
+(1) A 7. § (3)–(5) bekezdését a hivatásos állomány tagja esetében azzal az eltéréssel kell alkalmazni, hogy áthelyezés alatt a hivatásos állomány tagjának kormányzati szolgálati vagy közszolgálati jogviszonyba történő áthelyezését, valamint közigazgatási szervnél közszolgálati tisztviselővé történő kinevezését kell érteni.
+
+(2) A 10. § (3) bekezdése alapján tartalékállományba helyezett hivatásos állomány tagjára a 7. § (3) és (5) bekezdését nem kell alkalmazni. A Hszt. 93. § (1) bekezdése alapján tartalékállományba helyezését kérő hivatásos állomány tagjának áthelyezéséhez vagy közigazgatási szervnél közszolgálati tisztviselővé történő kinevezéséhez történő előzetes hozzájárulása esetén a hivatásos szolgálati jogviszonyát a Hszt. 80. § (2) bekezdés e) pontja alapján kell megszüntetni.
+
+(3) A tartalékállományba helyezett hivatásos állomány tagjára – a 10–11. §-ban, valamint az (1) és (2) bekezdésben foglalt eltérésekkel – megfelelően alkalmazni kell a 4. §-ban és a 6–8. §-ban foglaltakat.
+
+## 6. Az MH-ra és a rendelkezési állományú katonára vonatkozó különös rendelkezések
+
+### 13. §
+
+(1)[^45] Az MH központi személyügyi szerve a TARTINFOR-rendszer 3. § (2) bekezdés a)–c) pontjában meghatározott funkcióit alkalmazza a rendelkezési állományú katonák vonatkozásában.
+
+(2)[^46] Az MH központi személyügyi szervének vezetője a személyügyi központ honlapján elérhető regisztrációs bejelentőlap megküldésével igényel TARTINFOR-azonosítókat, amelyeket a 4. § (5) bekezdésében meghatározott módon meg kell küldenie a személyügyi központnak. Az MH központi személyügyi szervének vezetője csak az így igényelt TARTINFOR-azonosítókkal léphet be a TARTINFOR-rendszerbe. Az MH központi személyügyi szervének vezetője a rendelkezési állományú katona adatait a rendelkezési állományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben.
+
+### 14. §
+
+(1)[^47] Az MH központi személyügyi szervének vezetője a rendelkezési állományú katona adatait törli a TARTINFOR-rendszerből, ha a személyügyi rendelet 43. § (4) bekezdésében meghatározottak szerint megszűnik vagy megszüntetésre kerül a rendelkezési állományba helyezése.
+
+(2)[^48] A 7. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezési állományú katona továbbfoglalkoztatásáról az MH központi személyügyi szervének vezetőjét kell haladéktalanul írásban tájékoztatni, és áthelyezés alatt a Hjkr. 15. § (2) bekezdés c) pontja szerinti intézkedést kell érteni.
+
+(3)[^49] Az MH központi személyügyi szervének vezetője írásban tájékoztatja a rendelkezési állományú katonát a Hjkr. 15. § (2) bekezdés c) pontja szerinti áthelyezés kezdeményezéséről, aki a tájékoztatást követő tizenöt napon belül írásban nyilatkozik az MH központi személyügyi szerve vezetőjének arról, hogy beleegyezik-e az áthelyezésbe. A rendelkezési állományú katona nyilatkozatáról az MH központi személyügyi szervének vezetője tájékoztatja a közigazgatási szerv vezetőjét, beleegyezés esetén a munkáltatói jogkör gyakorlója haladéktalanul intézkedik a Hjkr. 15. § (2) bekezdés c) pontja szerinti áthelyezés iránt.
+
+(4) Ha a rendelkezési állományú katona részére a Kttv. 41. § (1) bekezdés a) pontja szerinti átképzés szükséges, a közigazgatási szerv hivatali szervezetének vezetője intézkedik a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzésen való részvételről.
+
+### 15. §
+
+A tartalékállományba helyezett rendelkezési állományú katonára – a 13–14. §-ban és a 16. §-ban foglalt eltérésekkel – megfelelően alkalmazni kell a 4. §-t, a 6. §-t, a 7. § (1)–(3) és (6) bekezdését, valamint a 8. §-t.
+
+### 16. §[^50]
+
+(1) A Kttv. 41/A. § (1) bekezdése szerinti rendelkezési állományú katona áthelyezésére vonatkozó eljárási szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A személyügyi központ a közigazgatási szerv által bejelentett üres álláshelyre a 6. § (1) bekezdése alapján valamennyi, az (1) bekezdés szerinti rendelkezési állományú katona adatait megküldi a közigazgatási szerv vezetője részére, ha az üres álláshely betöltésére végzettsége alapján megfelel.
+
+(3)[^51] A közigazgatási szerv a 7. § alapján lefolytatja a meghallgatást, és annak eredményéről tájékoztatja az MH központi személyügyi szervét az (1) bekezdés szerinti rendelkezési állományú katona a Hjkr. 15. § (2) bekezdés c) pontja szerinti áthelyezésének kezdeményezéséről.
+
+(4)[^52] Az (1) bekezdés szerinti rendelkezési állományú katona a tájékoztatást követő tíz munkanapon belül írásban nyilatkozik az MH központi személyügyi szerve vezetőjének arról, hogy hozzájárul-e az áthelyezéshez. Hozzájárulás esetén az MH központi személyügyi szervének vezetője tájékoztatja a közigazgatási szerv vezetőjét, a beosztást elfogadó (1) bekezdés szerinti rendelkezési állományú katonáról, a munkáltatói jogkört gyakorló pedig haladéktalanul intézkedik a Hjkr. 15. § (2) bekezdés c) pontja szerinti áthelyezés iránt.
+
+(5) Ha az (1) bekezdés szerinti rendelkezési állományú katona a részére felajánlott megfelelő munkakörbe történő áthelyezéséhez nem járul hozzá, vagy nem nyilatkozik, rá vonatkozóan a továbbiakban a 13–15. §-ban foglaltakat kell alkalmazni.
+
+### 16/A. §[^53]
+
+(1) A kormányzati személyügyi igazgatás központi feladatait ellátó szerv az MH központi személyügyi szervének megkeresésére – a megkereséstől számított 30 napon belül – meghatározza azt az állami szervnél, vagy állami többségi tulajdonban lévő gazdasági társaságnál lévő álláshelyet, munkakört vagy szolgálati beosztást (a továbbiakban együtt: továbbfoglalkoztatási hely), amelyre a katonai szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó, 55. életévét betöltött honvédet (a továbbiakban: vezényelt katona) kérelmére vagy a honvédelemért felelős miniszter döntése alapján a Hjkr. 11. § (8) bekezdése szerint vezénylik.
+
+(2) Az (1) bekezdés szerinti döntéshozatal során a továbbfoglalkoztatási hely tekintetében a kormányzati személyügyi igazgatás központi feladatait ellátó szervet nem kötik az MH központi személyügyi szervének megkeresésében foglaltak.
+
+(3) Az MH központi személyügyi szerve az (1) bekezdés szerinti továbbfoglalkoztatási hely meghatározását követő 30 napon belül tájékoztatja a kormányzati személyügyi igazgatás központi feladatait ellátó szervet, hogy a meghatározott továbbfoglalkoztatási helyet az érintett katona elfogadta vagy elutasította.
+
+## 7. Záró rendelkezések
+
+### 17. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: Az 1. § c) pontja a 176/2024. (VII. 7.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 243/2022. (VII. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^3]: A 2. § e) pontját a 243/2022. (VII. 4.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^4]: A 2. § f) pont 4. alpontja a 385/2022. (X. 13.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § h) pontját a 716/2021. (XII. 20.) Korm. rendelet 39. §-a iktatta be.
+[^6]: A 2. alcím címe a 716/2021. (XII. 20.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés záró szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 2. pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdés nyitó szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 3. pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 4. pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdés nyitó szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 5. pontja szerint módosított szöveg.
+[^11]: A 3. § (4) bekezdés c) pontja a 385/2022. (X. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdése a 385/2022. (X. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 3. § (6) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 6. pontja szerint módosított szöveg.
+[^14]: A 4. § a 716/2021. (XII. 20.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^15]: A 3. alcím címe a 716/2021. (XII. 20.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
+[^16]: Az 5. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^17]: Az 5. § (3) bekezdés nyitó szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 9. pontja szerint módosított szöveg.
+[^18]: Az 5. § (3) bekezdés d) pontja a 716/2021. (XII. 20.) Korm. rendelet 47. § 10. pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 11. pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 12. pontja szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 13. pontja szerint módosított szöveg.
+[^22]: A 6. § (3) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 14. pontja szerint módosított szöveg.
+[^23]: A 6. § (5) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^24]: A 6. § (6) bekezdése a 385/2022. (X. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 7. § (6) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (7) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^27]: A 7. § (8) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^28]: A 7. § (9) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^29]: A 8. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 15. pontja szerint módosított szöveg.
+[^30]: A 8. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 16. pontja szerint módosított szöveg.
+[^31]: A 8. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.
+[^32]: A 8. § (5) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 43. §-a iktatta be.
+[^33]: A 9. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 18. pontja és a 48. § a) pontja szerint módosított szöveg.
+[^34]: A 9. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 19. pontja szerint módosított szöveg.
+[^35]: A 9. § (3) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 44. §-a iktatta be.
+[^36]: A 10. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 20. pontja szerint módosított szöveg.
+[^37]: A 10. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 21. pontja szerint módosított szöveg.
+[^38]: A 10. § (3) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 22. pontja, a 24/2025. (II. 27.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^39]: A 10. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 23. pontja szerint módosított szöveg.
+[^40]: A 10. § (5) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^41]: A 11. § (1) bekezdés nyitó szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 24. pontja szerint módosított szöveg.
+[^42]: A 11. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 25. pontja szerint módosított szöveg.
+[^43]: A 11. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 26. pontja szerint módosított szöveg.
+[^44]: A 11. § (5) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 27. pontja szerint módosított szöveg.
+[^45]: A 13. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 28. pontja szerint módosított szöveg.
+[^46]: A 13. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^47]: A 14. § (1) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^48]: A 14. § (2) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^49]: A 14. § (3) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^50]: A 16. § a 716/2021. (XII. 20.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^51]: A 16. § (3) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^52]: A 16. § (4) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^53]: A 16/A. §-t a 136/2024. (VI. 28.) Korm. rendelet 24. §-a iktatta be.

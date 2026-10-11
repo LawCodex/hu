@@ -1,0 +1,358 @@
+---
+title: "130/2018. (VII. 23.) Korm. rendelet az Európai Foglalkoztatási Szolgálat tevékenységében részt vevő állami foglalkoztatási szerv feladatairól, valamint más szervezetek e tevékenységben történő részvételének feltételeiről"
+identifier: "130/2018. (VII. 23.) Korm. rendelet"
+njt_id: "2018-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-07-23
+in_force_from: 2018-08-07
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/2018. (VII. 23.) Korm. rendelet az Európai Foglalkoztatási Szolgálat tevékenységében részt vevő állami foglalkoztatási szerv feladatairól, valamint más szervezetek e tevékenységben történő részvételének feltételeiről
+
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 13/B. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+E rendelet hatálya kiterjed
+
+a) a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumra (a továbbiakban: minisztérium),
+
+b)[^1] az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra (a továbbiakban: kormányhivatal),
+
+c)[^2] a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalára (a továbbiakban: járási hivatal),
+
+d) arra a szervezetre, amely az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) hálózata tevékenységében EURES-tagként vagy EURES-partnerként részt vesz vagy részt kíván venni,
+
+e) arra a munkavállalóra és munkaadóra, aki vagy amely az EURES hálózatának szolgáltatásait igénybe veszi,
+
+f) a munkaadók és munkavállalók magyarországi érdekképviseleteire.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában
+
+1\. *EURES-adatbázis:* a 2016/589 európai parlamenti és tanácsi rendelet 17. cikkében meghatározott, az EURES-hálózat által gyűjtött és kezelt állásajánlatokat, álláspályázatokat és önéletrajzokat tartalmazó közös informatikai platform,
+
+2\. *EURES Nemzeti Koordinációs Iroda:* a 2016/589 európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés *b)* pontjában meghatározott, Magyarország részéről kijelölt szervezet,
+
+3\. *EURES-partner:* az a 2016/589 európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés *d)* pontjában meghatározott szervezet, amelyet Magyarországon e rendelet szabályai szerint EURES-partnerként tartanak nyilván,
+
+4\. *EURES-portál:* Európai Foglalkoztatási Mobilitási Portál, amely online szolgáltatási eszközök használatával az Európai Bizottság és az állami foglalkoztatási szolgálatok közötti együttműködési hálózatként működik abból a célból, hogy tanácsadással, tájékoztatással szolgáljon, valamint munkaerő-felvételi vagy munkaközvetítési szolgáltatást biztosítson a munkáltatók és a munkavállalók számára, továbbá az Európai Unió minden olyan polgárának, aki gyakorolni kívánja az Európai Unión belül a munkaerő szabad mozgásának jogát,
+
+5\. *EURES-szolgáltatás:* a 2016/589 európai parlamenti és tanácsi rendelet 22–27. cikkében meghatározott szolgáltatások,
+
+6\. *EURES-tag:* az a 2016/589 európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés *c)* pontjában meghatározott szervezet, amelyet Magyarországon, e rendelet szabályai szerint EURES-tagként tartanak nyilván,
+
+7\. *EURES ügyfélszolgálati pont:* a Magyarországon nyilvántartott EURES-tag, valamint EURES-partner által kijelölt, a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (4) bekezdésében meghatározott kapcsolattartó pont,
+
+8\. *Európai Koordinációs Iroda:* a 2016/589 európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés *a)* pontjában meghatározott szervezet,
+
+9\. *vagyoni biztosíték:* az EURES-tag által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézmény) lekötött és elkülönítetten kezelt pénzbeli letét.
+
+## II. Fejezet — AZ EURES MAGYARORSZÁGI INTÉZMÉNYRENDSZERE
+
+### 3. EURES Nemzeti Koordinációs Iroda
+
+#### 3. §
+
+(1) A Kormány a 2016/589 európai parlamenti és tanácsi rendelet magyarországi alkalmazásának biztosítására EURES Nemzeti Koordinációs Irodaként a minisztériumot jelöli ki.
+
+(2) A minisztérium Magyarország részéről ellátja az EURES Nemzeti Koordinációs Irodának a 2016/589 európai parlamenti és tanácsi rendelet 9. cikkében, valamint a (3) bekezdésben meghatározott feladatait.
+
+(3) A minisztérium
+
+a) szervezett módon biztosítja a 2016/589 európai parlamenti és tanácsi rendelet 17. és 18. cikke szerinti állásajánlatok, álláspályázatok, valamint önéletrajzok továbbítását az EURES-portálra, valamint elősegíti az Európai Unió tagországaiból Magyarországra érkező adatállomány fogadását,
+
+b) segítséget nyújt az EURES-tag és az EURES-partner részére az állásajánlatokkal kapcsolatos panaszok, problémák kezelésének módjára vonatkozóan,
+
+c) együttműködik a tagállamok EURES nemzeti koordinációs irodáival, valamint az Európai Koordinációs Irodával,
+
+d) felügyeli az EURES-tagok és EURES-partnerek EURES-adatbázishoz való jogosultsági (hozzáférési) szintjeit és az adatcsere-folyamatot,
+
+e) a munkaadók és munkavállalók magyarországi érdekképviseleteivel való rendszeres egyeztetés útján bevonja azokat az EURES-hálózattal való együttműködési folyamatba,
+
+f) figyelemmel kíséri, ellenőrzi az EURES-tagnak és az EURES-partnernek a 2016/589 európai parlamenti és tanácsi rendelet és e rendelet alkalmazásával kapcsolatos tevékenységét, intézkedik annak érdekében, hogy az megfeleljen a 2016/589 európai parlamenti és tanácsi rendelet, valamint e rendelet szabályainak.
+
+### 4. EURES-tagként működő szervezetek
+
+#### 4. §
+
+(1) A Kormány a kormányhivatalt, valamint a járási hivatalt EURES-tagként jelöli ki.
+
+(2) Az (1) bekezdésben meghatározott szervek teljesítik az EURES-tag 2016/589 európai parlamenti és tanácsi rendeletben előírt kötelezettségeit, és megfelelnek a 2016/589 európai parlamenti és tanácsi rendelet I. mellékletében meghatározott közös kritériumoknak.
+
+#### 5. §
+
+(1) A 4. § (1) bekezdésében meghatározott szerveken kívül más szervezet EURES-tagként akkor folytathat tevékenységet, ha
+
+a) a szervezet megfelel az EURES-taggá válás (2) bekezdésben meghatározott feltételeinek, és
+
+b) a minisztérium a szervezetet EURES-tagként nyilvántartásba veszi.
+
+(2) Az EURES-taggá válás feltételeinek való megfelelés körében a minisztérium – a 8. § (1) bekezdése szerinti, nyilvántartásba vétel iránti kérelemre – vizsgálja, hogy a kérelmező szervezet
+
+a) a kérelem benyújtását megelőzően legalább öt éve bejelentett magán-munkaközvetítőként vagy három éve nemzetközi munkaerőpiaci szolgáltatást nyújtó szervezetként működik,
+
+b) kérelmében vállalja a 2016/589 európai parlamenti és tanácsi rendeletben az EURES-tag számára előírt valamennyi kötelezettség teljesítését, ideértve a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontjában előírt valamennyi feladat ellátását,
+
+c) a kérelem benyújtásának időpontjában
+
+ca) nem áll csődeljárás, végelszámolás, kényszertörlési vagy felszámolási eljárás alatt,
+
+cb) szerepel az állami adóhatóság köztartozásmentes adózói adatbázisában,
+
+cc) megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott – követelményének,
+
+d) rendelkezik legalább egy, az EURES ügyfélszolgálati pont működtetéséhez tanácsadásra alkalmas irodával, amelynek használati jogát igazolni tudja,
+
+e) rendelkezik információtechnológiai és számítástechnikai eszközzel, valamint a 2017/1257 bizottsági végrehajtási határozat 3. és 8. cikkében meghatározott technikai háttérrel, álláskeresői és állásajánlati adatbázissal,
+
+f) személyi állományában rendelkezik legalább egy fővel, aki alkalmas az EURES-tag feladatainak ellátására, és rendelkezik az ahhoz szükséges, az 1. mellékletben meghatározott szakképzettséggel, szakmai gyakorlattal, továbbá nyelvtudással,
+
+g) biztosítja az ügyfelek által, a tevékenységével összefüggésben benyújtott panaszok kivizsgálását, és annak szabályait panaszkezelési szabályzatban rögzíti,
+
+h) rendelkezik ötmillió forint összegű, letétbe helyezett vagyoni biztosítékkal és ezt igazolja, és
+
+i) nyilatkozik arról, hogy EURES-tagként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján biztosítandó EURES-szolgáltatások nyújtását a munkavállalók részére díjmentesen vállalja.
+
+### 5. Vagyoni biztosíték
+
+#### 6. §
+
+(1) Vagyoni biztosítékként csak olyan letét fogadható el, amelyre a vonatkozó letéti szerződést határozatlan időre kötötték, és amely tekintetében a következő feltételek teljesülnek:
+
+a) a letét kizárólag az EURES-tagként folytatott tevékenység során keletkezett, a munkavállaló, a munkát kereső vagy a minisztérium részéről felmerülő kártérítési igény kielégítésére használható fel,
+
+b) a pénzügyi intézmény az *a)* pont szerinti kártérítést a munkavállaló, a munkát kereső vagy a minisztérium részére, az EURES-tag kártérítési kötelezettségét megállapító jogerős bírói ítélet vagy a feleknek a kártérítésre irányuló egyezsége alapján a letét terhére fizeti meg,
+
+c) a letét bármilyen okból való megszűnése esetén a pénzügyi intézmény a minisztériumot, valamint az EURES-tagot három napon belül írásban tájékoztatja.
+
+(2) Az EURES-tagnak a felhasznált vagyoni biztosítékot a kifizetést követő harminc napon belül pótolnia kell. Ennek megtörténtét legkésőbb a pótlásra megállapított határidő utolsó napján a minisztérium felé igazolnia kell.
+
+(3) Ha a minisztérium az EURES-tagot a nyilvántartásból törli, a letéti szerződés a törlést elrendelő határozat véglegessé válását követően legkorábban hat hónap elteltével szüntethető meg. Ha a munkavállaló, a munkát kereső vagy a minisztérium kérelmére az EURES-tag által okozott kár megállapítása iránt bírósági eljárás van folyamatban, a letét megszüntetésére csak a bírósági eljárás jogerős befejezését követően kerülhet sor. A letét megszüntetésének a lehetőségéről a minisztérium a pénzügyi intézményt tájékoztatja.
+
+### 6. EURES-partnerként működő szervezetek
+
+#### 7. §
+
+(1) EURES-partnerként gazdasági társaság, szövetkezet, felsőoktatási intézmény, egyház, egyház által fenntartott szervezet, gazdasági kamara, valamint munkaadói és munkavállalói érdekképviseleti szervezet folytathat tevékenységet, ha
+
+a) a szervezet megfelel az EURES-partnerré válás (2) bekezdésben meghatározott feltételeinek, és
+
+b) a minisztérium a szervezetet EURES-partnerként nyilvántartásba veszi.
+
+(1a)[^3] EURES-partnerként Magyarországon székhellyel, telephellyel, kihelyezett irodával rendelkező nemzetközi szervezet, kormányközi szervezet folytathat tevékenységet, ha
+
+a) a szervezet megfelel az EURES-partnerré válás (2) bekezdés a), c)–g) pontjában meghatározott feltételeinek,
+
+b) a szervezet a kérelem benyújtásának időpontjában rendelkezik a Magyarország Kormánya és a szervezet között kötött, a szervezet magyarországi jogállásáról, kiváltságairól és mentességeiről szóló, aláírt, hatályos jogszabályban kihirdetett megállapodással és alapító okirattal,
+
+c) a minisztérium a szervezetet EURES-partnerként nyilvántartásba veszi.
+
+(2) Az EURES-partnerré válás feltételeinek való megfelelés körében a minisztérium – a 8. § (1) bekezdése szerinti nyilvántartásba vétel iránti kérelemre – vizsgálja, hogy a kérelmező szervezet
+
+a) kérelmében vállalja a 2016/589 európai parlamenti és tanácsi rendeletben az EURES-partner számára előírt kötelezettség teljesítését, ideértve a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontjában előírt, legalább egy, de legfeljebb két feladat ellátását,
+
+b) a kérelem benyújtásának időpontjában
+
+ba) nem áll csődeljárás, végelszámolás, kényszertörlési vagy felszámolás eljárás alatt,
+
+bb) szerepel az állami adóhatóság köztartozásmentes adózói adatbázisában,
+
+bc) megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott – követelményének,
+
+c) rendelkezik legalább egy, az EURES ügyfélszolgálati pont működtetéséhez tanácsadásra alkalmas irodával, amelynek használati jogát igazolni tudja,
+
+d) rendelkezik információtechnológiai és számítástechnikai eszközzel, valamint a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)*, illetve *b)* pontjában előírt feladatok vállalása esetén a 2017/1257 bizottsági végrehajtási határozat 3. és 8. cikkében meghatározott technikai háttérrel, álláskeresői és állásajánlati adatbázissal,
+
+e) személyi állományában rendelkezik legalább egy fővel, aki alkalmas az EURES-partneri feladatok ellátására, és rendelkezik az ahhoz szükséges, az 1. mellékletben meghatározott szakképzettséggel, szakmai gyakorlattal, továbbá nyelvtudással,
+
+f) biztosítja az ügyfelek által, a tevékenységével összefüggésben benyújtott panaszok kivizsgálását, és annak szabályait panaszkezelési szabályzatban rögzíti, és
+
+g) nyilatkozik arról, hogy EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján biztosítandó EURES-szolgáltatások nyújtását a munkavállalók részére díjmentesen vállalja.
+
+## III. Fejezet — ELJÁRÁSI SZABÁLYOK
+
+### 7. Nyilvántartásba vétel iránti kérelem
+
+#### 8. §
+
+(1)[^4] Az EURES-tagként vagy EURES-partnerként történő nyilvántartásba vétel iránti kérelmet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerint elektronikus úton kell benyújtani a minisztériumhoz. A nyilvántartásba vétel iránti kérelem tartalmazza
+
+a) a kérelmező szervezet megnevezését, cégjegyzékszámát vagy – ha a működésének feltétele más bírósági vagy hatósági nyilvántartásba vétel – nyilvántartásba vételi számát,
+
+b) a képviseletre jogosult személy(ek) nevét, címét, egyéb elérhetőségét,
+
+c) EURES-tagként történő nyilvántartásba vétel iránti kérelem esetén a magán-munkaközvetítői tevékenység leírását, annak meghatározását, hogy a szervezet eddigi tevékenysége belföldre vagy külföldre irányult,
+
+d) az EURES-tagként vagy EURES-partnerként folytatandó tevékenység helyét vagy helyeit, valamint az irodahelyiség(ek) címét, telefonszámát,
+
+e) az EURES-tagként vagy EURES-partnerként vállalt tevékenység leírását,
+
+f) a kérelmező szervezet rendelkezésére álló adatbázis technikai leírását és
+
+g) a kérelmező szervezet nyilatkozatait az 5. § (2) bekezdés c)–i) pontjában vagy a 7. § (2) bekezdés b)–g) pontjában foglaltak teljesítéséről.
+
+(1a)[^5] A 7. § (1a) bekezdésében meghatározott szervezetek EURES-partnerként történő nyilvántartásba vétel iránti kérelmét az E-ügyintézési tv. szerint elektronikus úton kell benyújtani a minisztériumhoz. A nyilvántartásba vétel iránti kérelem tartalmazza
+
+a) a kérelmező szervezet megnevezését, a Magyarország Kormánya és a szervezet között kötött, a szervezet kiváltságairól és mentességeiről szóló, aláírt, hatályos jogszabályban kihirdetett megállapodás jogszabály számát, valamint alapító okiratát magyar és angol nyelven,
+
+b) a képviseletre jogosult személy(ek) nevét, címét, egyéb elérhetőségét,
+
+c) az EURES-partnerként folytatandó tevékenység helyét vagy helyeit, valamint az irodahelyiség(ek) címét, telefonszámát,
+
+d) az EURES-partnerként vállalt tevékenység leírását,
+
+e) a kérelmező szervezet nyilatkozatait a 7. § (2) bekezdés a), c)–g) pontjában foglaltak teljesítéséről.
+
+(2) A minisztérium a szervezet EURES-tagként vagy EURES-partnerként történő nyilvántartásba vételéről tizenöt napon belül tájékoztatja az Európai Koordinációs Irodát.
+
+### 8. Az EURES-tagok és EURES-partnerek nyilvántartása
+
+#### 9. §
+
+(1) A minisztérium az EURES-tagokról és az EURES-partnerekről folyamatos sorszámmal ellátott, külön nyilvántartást vezet.
+
+(2) Az (1) bekezdésben meghatározott nyilvántartás tartalmazza
+
+a) az EURES-tag vagy EURES-partner nevét, szervezeti formáját, székhelyét, telephelyét, adószámát, cégjegyzékszámát vagy – ha a működésének feltétele más bírósági vagy hatósági nyilvántartásba vétel – nyilvántartásba vételi számát,
+
+b) a képviseletre jogosult személyek nevét, címét, egyéb elérhetőségét,
+
+c) az EURES-tag tekintetében a vagyoni biztosíték mértékét,
+
+d) az EURES-tagként vagy EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján nyújtott EURES-szolgáltatások megkezdésének, megszűnésének időpontját,
+
+e) az EURES-tagként vagy EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján nyújtott EURES-szolgáltatások megnevezését.
+
+(2a)[^6] A 7. § (1a) bekezdésében jelölt szervezetek esetében a nyilvántartás tartalmazza
+
+a) az EURES-partner nevét, szervezeti formáját, székhelyét, telephelyét, kihelyezett irodáját, adószámát,
+
+b) a képviseletre jogosult személy(ek) nevét, címét, egyéb elérhetőségét,
+
+c) az EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján nyújtott EURES-szolgáltatások megkezdésének, megszűnésének időpontját,
+
+d) az EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés *a)–c)* pontja alapján nyújtott EURES-szolgáltatások megnevezését.
+
+(3) A minisztérium által vezetett nyilvántartás a (2) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, a lakcím-azonosító és a cégnyilvántartásban szereplő adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+### 9. Az EURES-tag és EURES-partner EURES tevékenységének megszűnése
+
+#### 10. §
+
+(1) Az EURES-tag vagy az EURES-partner EURES tevékenysége megszűnik az EURES-tag vagy az EURES-partner nyilvántartásból való törlésével.
+
+(2) Az EURES-tagot vagy az EURES-partnert a minisztérium törli a nyilvántartásból, ha az EURES-tag vagy az EURES-partner
+
+a) kéri a nyilvántartásból való törlését,
+
+b) jogutód nélkül megszűnt,
+
+c) megszegte a 2016/589 európai parlamenti és tanácsi rendelet, valamint az e rendelet által előírt kötelezettségét.
+
+(3) A minisztérium a szervezet nyilvántartásból való törléséről a törlést követő tizenöt napon belül tájékoztatja az Európai Koordinációs Irodát.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 11. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+#### 12. §
+
+(1) Ez a rendelet
+
+a) a szervezetek EURES-taggá és -partnerré válásának engedélyezéséhez szükséges, a nemzeti rendszerek és eljárások leírására szolgáló formanyomtatványról szóló, 2017. július 11-i (EU) 2017/1255 bizottsági végrehajtási határozatnak,
+
+b) az EURES-hálózattal kapcsolatos nemzeti munkaprogramokra vonatkozó uniós szintű információcserére szolgáló formanyomtatványokról és eljárásokról szóló, 2017. július 11-i (EU) 2017/1256 bizottsági végrehajtási határozatnak, valamint
+
+c) az EURES-portálon az állásajánlatok, az álláspályázatok és az önéletrajzok megfeleltetését lehetővé tevő egységes rendszerhez szükséges technikai standardokról és formátumokról szóló, 2017. július 11-i (EU) 2017/1257 bizottsági végrehajtási határozatnak
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i (EU) 2016/589 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 130/2018. (VII. 23.) Korm. rendelethez
+
+Szakképesítésként, szakmai gyakorlatként elfogadható képesítések, gyakorlatok:
+
+*a)* szakirányú felsőfokú végzettség, ennek keretében
+
+1\. egyetemek közgazdaságtudományi, gazdaságtudományi karán szerzett oklevél,
+
+2\. egyetemek állam- és jogtudományi karán szerzett oklevél,
+
+3\. egyetemek bölcsészettudományi karán pszichológia és szociológia szakon szerzett oklevél,
+
+4\. egyetemek és főiskolák államigazgatási, gazdasági, humánerőforrás-menedzseri, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói szakán szerzett oklevél vagy
+
+5\. egyéb felsőoktatásban szerzett oklevéllel rendelkezők közül a felsőfokú személyügyi gazdálkodó szaktanfolyam elvégzését igazoló bizonyítvány vagy
+
+*b)* felsőfokú iskolai végzettség és legalább kétéves, az alábbiakban felsorolt humánpolitikai területen eltöltött gyakorlat:
+
+1\. az emberi erőforrással való gazdálkodás tervezése,
+
+2\. munkaköri követelmények meghatározása,
+
+3\. a munkaerő-szükséglet minőségi és mennyiségi jellemzőinek tervezése,
+
+4\. munkaerő-kiválasztás,
+
+5\. munkaerő-közvetítés,
+
+6\. munkaerő-felvétel,
+
+7\. a belső utánpótlás tervezése,
+
+8\. a beilleszkedési folyamat megtervezése és végrehajtásának irányítása,
+
+9\. teljesítményösztönzési rendszerek kialakítása, ezen belül:
+
+9.1. bérezési alapelvek kialakítása,
+
+9.2. hatékony bérezési és ösztönzési rendszerek kialakítása, bevezetése,
+
+10\. teljesítményértékelési rendszerek kialakítása és bevezetése,
+
+11\. munkahelyi képzési és továbbképzési rendszerek kialakítása,
+
+12\. személyzeti és munkaügyi nyilvántartások rendszerezése, vezetése vagy
+
+13\. munkakörülmények vizsgálata vagy
+
+*c)* középfokú iskolai végzettség és legalább ötéves, a *b)* pontban felsorolt humánpolitikai területen eltöltött gyakorlat vagy
+
+*d)* középfokú szakképesítések közül:
+
+1\. munkaerőpiaci ügyintézői, munkaerőpiaci menedzseri, munkaerőpiaci szolgáltatási ügyintézői, munkaerőpiaci szervezői, elemzői szakképesítés,
+
+2\. munkaerőpiaci szolgáltatói, ügyintézői részszakképesítés,
+
+3\. személyügyi gazdálkodói és fejlesztői szakképesítés,
+
+4\. személyügyi ügyintézői részszaképesítés vagy
+
+5\. bármely középfokú szakképesítés, amely az e pontban felsorolt szakképesítések valamelyikének megfeleltethető.
+
+---
+
+[^1]: Az 1. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 289. §-a szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 289. §-a szerint módosított szöveg.
+[^3]: A 7. § (1a) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 38. §-a iktatta be.
+[^4]: A 8. § (1) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^5]: A 8. § (1a) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 39. §-a iktatta be.
+[^6]: A 9. § (2a) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 40. §-a iktatta be.

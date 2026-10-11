@@ -1,0 +1,115 @@
+---
+title: "322/2017. (XI. 8.) Korm. rendelet Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "322/2017. (XI. 8.) Korm. rendelet"
+njt_id: "2017-322-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/322"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-11-08
+in_force_from: 2017-11-09
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-322-20-22"
+retrieved: 2026-10-12
+---
+
+# 322/2017. (XI. 8.) Korm. rendelet Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d), e) és f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló, az ingatlan-nyilvántartás szerint Kaposvár 0285/14, 0293/1, 0293/4, 0305/4, 0305/5, 0306/2, 0307/1, 0315/4, 0322/4 helyrajzi számú, illetve az ezen ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokon megvalósuló beruházással összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §
+
+(1) Az 1. § szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § szerinti közigazgatási hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+
+(3) Az 1. § szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásokra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, valamint a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével – nyolc nap.
+
+(4) Az 1. § szerinti közigazgatási hatósági ügyekben hozott elsőfokú határozat elleni fellebbezést legfeljebb tíz napon belül el kell bírálni.
+
+(5) Az 1. § szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+
+## 3. §[^2]
+
+A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Somogy Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 6. §[^3]
+
+A Budapest XIV. kerületében megvalósuló ingatlan- és infrastrukturális fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 322/2017. (XI. 8.) Korm. rendelet módosításáról szóló 409/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. § (1) bekezdését a MódR. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 322/2017. (XI. 8.) Korm. rendelethez
+
+**Az 1. § (1) bekezdésében meghatározott beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. területrendezési hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15\. hírközlési hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. tűzvédelmi hatósági eljárások,
+
+18\. villamosenergia-ipari tevékenységek végzéséhez szükséges engedélyezési eljárások,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. erdészeti hatósági eljárások,
+
+21.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+22\. honvédelmi hatósági eljárások,
+
+23\. földvédelmi hatósági eljárások,
+
+24\. azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+25\. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 409/2017. (XII. 15.) Korm. rendelet 8. §-a, a 458/2017. (XII. 28.) Korm. rendelet 407. §-a szerint módosított szöveg.
+[^2]: A 3. § az 546/2022. (XII. 22.) Korm. rendelet 194. § a)-c) pontja szerint módosított szöveg.
+[^3]: A 6. §-t a 409/2017. (XII. 15.) Korm. rendelet 7. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2017. december 16.
+[^5]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 268. §-a szerint módosított szöveg.

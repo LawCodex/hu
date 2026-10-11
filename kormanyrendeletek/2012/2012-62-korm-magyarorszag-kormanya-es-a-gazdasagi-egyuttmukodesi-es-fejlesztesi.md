@@ -1,0 +1,371 @@
+---
+title: "62/2012. (IV. 2.) Korm. rendelet Magyarország Kormánya és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) közötti közigazgatás-fejlesztési keretmegállapodás kihirdetéséről"
+identifier: "62/2012. (IV. 2.) Korm. rendelet"
+njt_id: "2012-62-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/62"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-04-02
+in_force_from: 2012-04-03
+last_amended: 2012-04-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-62-20-22"
+retrieved: 2026-10-12
+---
+
+# 62/2012. (IV. 2.) Korm. rendelet Magyarország Kormánya és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) közötti közigazgatás-fejlesztési keretmegállapodás kihirdetéséről
+
+(A Keretmegállapodás 2012. január 23-án lépett hatályba)
+
+## 1. §
+
+A Kormány Magyarország Kormánya és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) közötti közigazgatás-fejlesztési keretmegállapodás (a továbbiakban: Megállapodás) 2012. január 23-átől hatályos szövegét e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar fordítása a következő:
+
+“GRANT AGREEMENT FOR THE PROJECT\
+OECD HUNGARY PARTNERSHIP IN PUBLIC ADMINISTRATION REFORM PROGRAMME
+
+Monday 23<sup>rd</sup> January 2012
+
+Hungary, represented by Mr. András Levente Gál, Government Commissioner for Cooperation in the Implementation of the Good State Development Concept and OECD represented by Rolf Alter, Public Governance and Territorial Development Directorate, and Patrick van Haute, Executive Director, agree the following:
+
+**Article 1**
+
+**PURPOSE, SCOPE**
+
+1.1 The OECD Hungary Partnership in Public Administration Reform Programme (the project) aims at providing the Ministry of Public Administration and Justice (the Ministry) with advice in support of the “Magyary Programme – a Framework Strategy for Public Administration Development 2011–2014”. This will address capacities, processes and structures to plan, steer and implement key good governance policies in support of a strategic vision for a competitive economy and cohesive society. The advice and analysis will be set in an international best practice comparative context, strengthen the evidence base in support of well targeted reforms, and help the government to make the case for reform.
+
+1.2 The project will consist of five building blocks:
+
+– Building block one: Strategic Programming and Planning
+
+– Building block two: Administrative Simplification and One Stop Shops
+
+– Building block three: Fight against corruption
+
+– Building block four: Review of Selected Governance Issues
+
+– Building block five: Brief overview assessment of the anti-corruption effort
+
+1.3 The Ministry will provide a voluntary contribution of Ç 542,000 to the OECD for the OECD Hungary Partnership in Public Administration Reform Programme in Hungary, as set out in this Grant Agreement.
+
+**Article 2**
+
+**THE FIVE BUILDING BLOCKS**
+
+2.1 The project will be implemented in five building blocks. There will be a series of seminars as specified below as well as the provision of advice aimed at
+
+– Strengthening the development, or refinement, of strategy and policies for implementation by providing internationally proven expertise; and
+
+– Providing relevant international experiences and practices from the public administrations of some of the Members of the OECD.
+
+2.2 Facilitation of the workshops, and provision of know-how and expertise, will be provided by the OECD Secretariat, international experts and policy practitioners.
+
+The following building blocks will take place in the order they are listed, but depending on the specific tasks and issues may overlap. Seminars in the various blocks will be held back to back if relevant and possible. The total time frame for the project is 23 months from the signing of the Agreement.
+
+Building block one: Strategic Programming and Planning
+
+– Strategic review by the OECD of the “Magyary Programme – a Framework Strategy for Public Administration Development 2011–2014”, taking account of international experiences, culminating in a brief diagnostic paper of key issues, which will provide Hungary with immediate strategic feedback on its reform trajectory, as well as setting the scene for the subsequent Review of Selected Governance issues (building block four).
+
+– One day seminar on the relationship between civil servants and politicians.
+
+– One day seminar on how to influence complex systems by policy tools.
+
+Building block two: Administrative Simplification and One stop shops
+
+– One day seminar on administrative simplification – options, tools and processes, institutional frameworks, conditions for success.
+
+– Two day seminar on one stop shops – best practice institutional frameworks, relevant conditions, sequencing and managing the back office procedures.
+
+– Overview paper on international lessons of operating one-stop shops in selected OECD countries.
+
+– Provision of advice on the establishment, development, implementation and monitoring of one stop shops for effectiveness and impact.
+
+Building block three: Fighting corruption
+
+– One day seminar on information campaigns aiming at corruption prevention aimed at both civil servants and the public.
+
+– One day seminar on the protection of whistle blowers in practice.
+
+– One day seminar on every-day use and enforcement of codes of ethics for civil servants.
+
+– Provision of advice on the development, implementation and monitoring of an anti corruption strategy.
+
+Building block four: Review of Selected Governance Issues
+
+The OECD will use the results of the previous building blocks and other relevant analysis to conduct a Review of Selected Governance Issues in the Hungarian central public administration. The objective will be to showcase Hungarian developments in this regard to date (successes, challenges), and to highlight the importance and synergies of the different elements of good governance in support of a whole of government strategy and effective implementation of that strategy. This will culminate in the production of a report and concrete recommendations.
+
+**Building block five: Brief overview assessment of the anti-corruption effort**
+
+The purpose of this building block is to make a brief assessment of the situation regarding the anti-corruption framework 21 months after the beginning of this project in order to take stock of developments and suggest possible adjustments. This assessment would build on the work already done. It would require information gathering by way of a mission and some subsequent assistance with regards to unfolding the conclusions.
+
+**Article 3**
+
+**DURATION OF PROJECT**
+
+3.1 The project will start from the date of signature of the Agreement and will take place over twenty-three months:
+
+– Building blocks one, two and three will run from date of signature of the Agreement, with variable end points.
+
+– Building block four will start in month seven be completed by month fifteen.
+
+– Building block five will run from month 21–23 after project start.
+
+**Article 4**
+
+**OECD PROJECT TEAM**
+
+4.1 The OECD will appoint a team to work on the project and will inform the Ministry of the main co-ordinator and liaison contact within two weeks of signature of the Agreement.
+
+4.2 The OECD will make efforts to use experts during the project who are mostly familiar with the topic of the project.
+
+**Article 5**
+
+**OBLIGATIONS OF THE MINISTRY**
+
+5.1 The Ministry will take all appropriate measures to facilitate the OECD in the performance of its work.
+
+The Ministry will appoint a main coordinator and liaison contact to work on the project and will inform the OECD of their name(s) within two weeks of signature of the Agreement. This contact will in particular support the coordination of questionnaire responses, data collection and background material from the relevant ministries/agencies; and will support the setting up workshops and mission interviews with the appropriate participants on the Hungarian side.
+
+5.2 The Ministry will ensure that the OECD has access to all data it has at its disposal that the OECD deems necessary to fulfil the terms of this Agreement, to facilitate access to available sources of information and will provide assistance to the OECD in obtaining any additional information. It will also respond promptly to requests for assistance or information from the OECD.
+
+The Minister of Public Administration and Justice will appoint a Steering Committee of relevant ministries and agencies, which will have as a mandate the general facilitation of the work of the OECD project team in its interaction with the Hungarian authorities and stakeholders. The Steering Committee will also act as sounding board for issues and emerging conclusions as the review progresses.
+
+5.3 The OECD will assist the Ministry in its communication activities by participating in some commonly agreed events.
+
+**Article 6**
+
+**RISKS**
+
+6.1 The project is contingent on the commitment of the Hungarian authorities to co-operate as regards the provision of timely, accurate and good quality data. The OECD will not conduct the review in the absence of such co-operation and will not be responsible for delays resulting from non-compliance by the Hungarian authorities with reasonable requests for information to be supplied within a reasonable timescale.
+
+**Article 7**
+
+**TOTAL COST AND PAYMENT**
+
+7.1 The total budget for the implementation of the project amounts to Ç542 000. The Ministry will cover the full cost of this project through a voluntary contribution to the OECD. The OECD shall administer the contribution in accordance with its Financial Regulations and other relevant OECD rules, policies and procedures.
+
+Indicative budget table for OECD Hungary Partnership in Public Administration Reform Programme (Figures in EUR)
+
+| Building blocks 1–5 | 542,000 |
+|---|---|
+| 1.1 Personnel costs – Management and Professional Staff | 236,925 |
+| 1.2 Personnel costs – Support Staff | 43,750 |
+| 1.3 Temporary expert fees | 95,000 |
+| 2.1 Missions | 88,614 |
+| 3.1 Centralised Services | 38,485 |
+| 4.1 Other – printing, interpretation, translation, etc* | 10,500 |
+| 4.2 Indirect costs – VC Administration charge** | 28,726 |
+
+\* The cost for interpretation and translation are based on the assumption that the OECD will be receiving all documents in English and that all communication with Hungarian administration staff will be held in English.
+
+** see Council decision C(2009)158 Voluntary Contributions Cost Recovery Policy
+
+Any overspend across or within budget headings may be compensated by corresponding underspend on other budget headings without any modification to the total budget amount.
+
+7.2 The payment schedule shall be as follows:
+
+| 1<sup>st</sup> Payment | 52,500 EUR | Upon signature of the Agreement |
+|---|---|---|
+| 2<sup>nd</sup> Payment | 125,000 EUR | On month 4 – three months after the signature of the Agreement |
+| 3<sup>rd</sup> Payment | 125,000 EUR | On month 7 – at the start of building block four |
+| 4<sup>th</sup> Payment | 80,000 EUR | On month 13 – twelve months after signature of the Agreement |
+| 5<sup>th</sup> Payment | 142,500 EUR | On month 16 – upon receipt of activities reports |
+| Final Payment | 17,000 EUR | On month 23 – upon receipt of activities reports |
+
+**Article 8**
+
+**COPYRIGHT**
+
+8.1 The results of the work carried out under the present Agreement, in whatever form, shall be the sole property of the OECD. Subject to the OECD rules and policies on classification and declassification of documents, the OECD hereby grants to the Ministry a non-exclusive, irrevocable, and non-transferable right to use and publish the reports resulting from the project for any governmental non-commercial purpose.
+
+**Article 9**
+
+**REPORTS AND CORRESPONDENCE**
+
+9.1 The correspondence between the parties will be conducted in English. Reports and any other formal written material will be provided to Hungary in English. Workshops and seminars will be conducted in English. All documents sent to the Ministry will be in English and addressed to: Ministry of Public Administration and Justice, Kossuth Lajos tér 2–4, 1055 Budapest, Hungary.
+
+9.2 This Agreement shall be signed in three original copies in English (two copies for the Ministry and one for the OECD).
+
+( Signatures )
+
+KERETMEGÁLLAPODÁS\
+OECD – MAGYARORSZÁG PARTNERSÉG A KÖZIGAZGATÁSI REFORM PROGRAMBAN
+
+2012\. január 23. hétfő
+
+Magyarország, képviseli Gál András Levente, a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos valamint az OECD, képviseli Rolf Alter a Közigazgatási és Területfejlesztési Igazgatóság részéről, és Patrick van Haute ügyvezető igazgató, a következőkben állapodnak meg:
+
+**1. cikk**
+
+**CÉL, HATÁLY**
+
+1.1 Az OECD – Magyarország Partnerség a Közigazgatási Reform Programban (a továbbiakban: a projekt) célja, hogy a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: a minisztérium) részére tanácsadást biztosítson a „Magyary Program – Közigazgatás-fejlesztési Keretstratégia, 2011–2014” támogatásához. A program a kulcsfontosságú jó kormányzati politikák tervezéséhez, irányításához és megvalósításához szükséges kapacitásokat, folyamatokat és struktúrákat kezeli a versenyképes gazdaság és összetartó társadalom stratégiai jövőképének támogatásának érdekében. A tanácsadás és elemzés a jó nemzetközi gyakorlatok összehasonlító kontextusába helyezve történik, megerősítve a tudásalapot a jól célzott reformok támogatásához, valamint segítve a kormányt a reformok igazolásában.
+
+1.2 A projekt öt építőelemből áll:
+
+– 1. számú építőelem: Stratégiai tervezés és programozás
+
+– 2. számú építőelem: A közigazgatási eljárás egyszerűsítése és az egyablakos ügyintézés
+
+– 3. számú építőelem: Korrupció elleni küzdelem
+
+– 4. számú építőelem: A kiválasztott kormányzati kérdések felülvizsgálata
+
+– 5. számú építőelem: Rövid áttekintő értékelés a korrupcióellenes erőfeszítésekről
+
+1.3 A minisztérium 542,000 euró önkéntes hozzájárulást fizet az OECD részére, ezzel támogatva az OECD – Magyarország Partnerség a Magyarországi Közigazgatási Reform Programban megnevezésű projektet a jelen megállapodással összhangban.
+
+**2. cikk**
+
+**AZ ÖT ÉPÍTŐELEM**
+
+2.1 A projekt végrehajtása öt építőelem felhasználásával történik. Szemináriumsorozat kerül megrendezésre az alábbiakban meghatározottak szerint, a tanácsadás célja pedig
+
+– a végrehajtási stratégiák és politikák kialakításának megerősítése vagy finomítása, nemzetközileg elismert szaktudás biztosításával; továbbá
+
+– néhány OECD-tag közigazgatási hivatalaiban összegyűjtött megfelelő nemzetközi tapasztalatok és gyakorlatok megosztása.
+
+2.2 Az OECD Titkársága, nemzetközi szakértők, valamint politikai szakemberek feladata a szakmai műhelyek megszervezése, a know-how és a szakértelem biztosítása.
+
+Az alábbi építőelemek a felsorolás sorrendjében kerülnek „beépítésre”, ám átfedések előfordulhatnak a sajátos feladatok és kérdések függvényében. Amennyiben alkalmazható és lehetséges, a szemináriumok egymást követő sorozatokban, blokkosítva kerülnek megrendezésre. A projektre rendelkezésre álló teljes időkeret a megállapodás aláírásától számítva 23 hónap.
+
+1\. számú építőelem: Stratégiai tervezés és programozás
+
+– Az OECD elvégzi a „Magyary Program – Közigazgatás-fejlesztési Keretstratégia, 2011–2014” felülvizsgálatát nemzetközi tapasztalatokat figyelembe véve, a kulcsfontosságú kérdéseket rövid diagnosztikai jelentésben fejti ki, ami Magyarország részére azonnali stratégiai visszacsatolást nyújt reformjainak ütemtervére vonatkozóan; valamint előkészíti a kiválasztott kormányzati kérdések későbbi felülvizsgálatát (4. számú építőelem).
+
+– Egynapos szeminárium a köztisztviselők és politikusok közti kapcsolatról.
+
+– Egynapos szeminárium a komplex rendszerek politikai eszközökkel történő befolyásolásáról.
+
+2\. számú építőelem: A közigazgatási eljárás egyszerűsítése, egyablakos ügyintézés
+
+– Egynapos szeminárium a közigazgatási eljárás egyszerűsítéséről – lehetőségek, eszközök és folyamatok, intézményi keretek, a siker feltételei.
+
+– Kétnapos szeminárium az egyablakos ügyintézésről – az intézményi keretrendszer legjobb gyakorlatai, vonatkozó feltételek, a háttérfolyamatok sorba rendezése és kezelése.
+
+– Áttekintő elemzés a kiválasztott OECD tagállamokban működő egyablakos ügyintézés alkalmazásának nemzetközi szintű tanulságairól.
+
+– Tanácsadás nyújtása az egyablakos ügyintézés létrehozásáról, kidolgozásáról, megvalósításáról és ellenőrzéséről hatékonyság és hatás szempontjából.
+
+3\. számú építőelem: Korrupció elleni küzdelem
+
+– Egynapos szeminárium a korrupció megelőzéséről szóló, a köztisztviselőket és a nagyközönséget egyaránt megcélzó tájékoztató kampányról.
+
+– Egynapos szeminárium a bejelentők védelméről a gyakorlatban.
+
+– Egynapos szeminárium a köztisztviselők etikai kódexének mindennapos használatáról és alkalmazásáról.
+
+– Tanácsadás nyújtása a korrupcióellenes stratégia kidolgozásáról, alkalmazásáról és ellenőrzéséről.
+
+4\. számú építőelem: A kiválasztott kormányzati kérdések felülvizsgálata
+
+Az OECD a korábbi építőelemek és egyéb vonatkozó elemzések eredményeinek felhasználásával végez felülvizsgálatot a kiválasztott kormányzati kérdésekben a magyar központi közigazgatás területén. A cél az ebben a vonatkozásban az eddigi magyar fejlesztések (sikerek és kihívások) bemutatása, valamint hogy kihangsúlyozzuk a jó kormányzás különféle elemeinek fontosságát és szinergiáit a kormánystratégia egészének támogatása, valamint ugyanezen stratégia hatékony végrehajtása érdekében. Ennek eredményeképp születik meg a jelentés és a konkrét javaslatok.
+
+5\. számú építőelem: Rövid áttekintő értékelés a korrupcióellenes erőfeszítésekről
+
+Az építőelem célja a korrupcióellenes keretrendszerhez kapcsolódó helyzet rövid áttekintése 21 hónappal a projekt megkezdését követően; célja a fejlesztések számba vétele, valamint lehetséges kiigazítások felvetése. Ez az értékelés a korábban elvégzett munkán alapul. Ehhez misszió keretében végzett információgyűjtés szükséges, és további segítségnyújtás a következtetések értelmezéséhez.
+
+**3. cikk**
+
+**A PROJEKT IDŐTARTAMA**
+
+3.1 A projekt a megállapodás aláírásának időpontjában kezdődik és huszonhárom hónapon át tart:
+
+– A különböző hosszúságú 1., 2. és 3. számú építőelemek mind a megállapodás aláírásának időpontjában indulnak.
+
+– A 4. számú építőelem a hetedik hónapban indul, és a tizenötödikre fejeződik be.
+
+– Az 5. számú építőelem a projektindulástól számított 21–23. hónapig tart.
+
+**4. cikk**
+
+**AZ OECD PROJEKTCSAPAT**
+
+4.1 Az OECD projektcsapatot állít fel, és a megállapodás aláírásától számított két héten belül eljuttatja a minisztériumhoz a főkoordinátor és a kapcsolattartó adatait.
+
+4.2 Az OECD mindent elkövet, hogy olyan szakértőket alkalmazzon a projekt során, akik a projekt témájában leginkább jártasak.
+
+**5. cikk**
+
+**A MINISZTÉRIUM FELADATAI**
+
+5.1 A minisztérium feladata, hogy minden lehetséges módon megkönnyítse az OECD munkavégzését.
+
+A minisztérium kinevezi a projekt főkoordinátorát és kapcsolattartó személyét, és a megállapodás aláírásától számított két héten belül nevét/nevüket eljuttatja az OECD-nek. A kapcsolattartó feladata különösen, hogy támogassa a kérdőívekre adott válaszok, az összegyűjtött adatok, valamint az érintett minisztériumoktól/hivataloktól származó háttéranyagok koordinálását; továbbá hogy segítséget nyújtson a szakmai műhelyek és misszióinterjúk megszervezésében a magyar oldal megfelelő résztvevőivel együttműködésben.
+
+5.2 A minisztérium biztosítja az OECD hozzáférését minden, a rendelkezésére álló adathoz, amennyiben az OECD azt szükségesnek véli a jelen megállapodásban foglaltak teljesítéséhez, valamint segítséget nyújt a meglévő információ-források eléréséhez, és támogatja az OECD-t bármilyen egyéb információ megszerzésében. Ezen felül az OECD segítség vagy információ iránti igényére haladéktalanul reagál.
+
+A közigazgatási és igazságügyi miniszter az érintett minisztériumok és hivatalok képviselőiből álló Irányítóbizottságot nevez ki, amelynek megbízatása az OECD projekt csapat munkájának általános megkönnyítése a magyar hatóságokkal és érdekelt felekkel történő együttműködése során. Szintén az Irányítóbizottság tölti be az ún. „sounding board” tesztelő szerepét a felülvizsgálat során felmerülő kérdések és következtetések vonatkozásában.
+
+5.3 Az OECD oly módon támogatja a minisztérium kommunikációs tevékenységét, hogy részt vesz néhány közösen kiválasztott eseményen.
+
+**6. cikk**
+
+**KOCKÁZATOK**
+
+6.1 A projekt sikere annak függvénye, hogy a magyar hatóságok mennyire elkötelezetten működnek együtt a pontos és jó minőségű adatok időben történő begyűjtése érdekében. Együttműködés hiányában az OECD nem folytatja le a vizsgálatot, és nem felelős a magyar hatóságok kötelezettségeinek nem teljesítése miatt bekövetkező késésekért, amennyiben ésszerű határidőn belül ésszerű információ iránti kérelmet nyújtott be.
+
+**7. cikk**
+
+**TELJES KÖLTSÉG ÉS KIFIZETÉS**
+
+7.1 A projekt végrehajtásának teljes költségvetése 542,000 eurót tesz ki. A minisztérium fedezi a projekt teljes költségét az OECD részére fizetendő önkéntes hozzájárulás útján. Az OECD a hozzájárulást a Pénzügyi Szabályzatával és egyéb vonatkozó OECD szabályokkal, politikákkal és folyamatokkal összhangban kezeli.
+
+Előirányzott költségvetési táblázat az OECD – Magyarország Partnerség a Közigazgatási Reform Programban megnevezésű projekthez (az összegek euróban értendők)
+
+| 1–5. számú építőelemek | 542,000 |
+|---|---|
+| 1.1 Személyi jellegű ráfordítások – Vezetők és szakértők | 236,925 |
+| 1.2 Személyi jellegű ráfordítások – Támogató személyzet | 43,750 |
+| 1.3 Nem állandó jelleggel alkalmazott szakértők díja | 95,000 |
+| 2.1 Missziók | 88,614 |
+| 3.1 Központosított szolgáltatások | 38,485 |
+| 4.1 Egyéb kiadások – nyomtatás, tolmácsolás, fordítás stb.* | 10,500 |
+| 4.2 Közvetett költségek ** | 28,726 |
+
+\* A tolmácsolás és fordítás költségei azon a feltételezésen alapulnak, miszerint az OECD minden dokumentumot angol nyelven kap kézhez, és a magyar ügyviteli személyzettel történő kommunikáció angol nyelven folyik.
+
+** lásd a Tanács C(2009) 158 „Önkéntes hozzájárulás költségmegtérülési politika” határozatát
+
+A költségvetési sorokon belüli vagy azokon átívelő bárminemű túlköltekezés kiegyenlítése a megfelelő egyéb, ki nem merített költségvetési sorokból történik a teljes költségvetési összeg módosítása nélkül.
+
+7.2 A fizetési ütemezés az alábbiak szerint alakul:
+
+| 1. részösszeg | 52,500 euró | A megállapodás aláírásakor |
+|---|---|---|
+| 2. részösszeg | 125,000 euró | A 4. hónapban – a megállapodás aláírásától számított 3 hónap elteltével |
+| 3. részösszeg | 125,000 euró | A 7. hónapban – a 4. számú építőelem kezdetekor |
+| 4. részösszeg | 80,000 euró | A 13. hónapban – a megállapodás aláírása után 1 évvel |
+| 5. részösszeg | 142,500 euró | A 16. hónapban – a tevékenységi jelentések kézhez vételekor |
+| Utolsó részösszeg | 17,000 euró | A 23. hónapban – a tevékenységi jelentések kézhez vételekor |
+
+**8. cikk**
+
+**SZERZŐI JOGDÍJ**
+
+8.1 A jelen megállapodás keretén belül elvégzett munka eredménye, formájától függetlenül, az OECD kizárólagos tulajdonát képezi. A dokumentumok minősítéséről és a minősítés megszüntetéséről szóló OECD szabályok és stratégia értelmében az OECD ezúton nem kizárólagos, visszavonhatatlan és nem átruházható jogot biztosít a minisztériumnak a projekt eredményeképpen elkészített jelentések bármilyen kormányzati – nem kereskedelmi – céllal történő felhasználásához és nyilvánosságra hozatalához.
+
+**9. cikk**
+
+**JELENTÉSEK ÉS KAPCSOLATTARTÁS**
+
+9.1 A felek közti kapcsolattartás angol nyelven történik. A jelentések és egyéb hivatalos írásos anyagok szintén angolul állnak Magyarország rendelkezésére. A szakmai műhelyek és szemináriumok nyelve angol. A minisztérium részére az angol nyelvű anyagokat az alábbi címre küldjük: Közigazgatási és Igazságügyi Minisztérium, Kossuth Lajos tér 2–4, 1055 Budapest, Magyarország.
+
+9.2 Ez a megállapodás három eredeti, angol nyelvű példányban készült (amelyből kettő a minisztériumot, egy az OECD-t illeti).
+
+(Aláírások )”
+
+## 3. §
+
+Az e rendelet által kihirdetésre kerülő Megállapodás 2.2 pontjában rögzített tevékenységekre, a Megállapodás időbeni hatálya alatt a magyar szerződő fél kizárólag az OECD-t veheti igénybe.
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a közigazgatás-fejlesztésért felelős miniszter – az érintett miniszterek bevonásával – gondoskodik.

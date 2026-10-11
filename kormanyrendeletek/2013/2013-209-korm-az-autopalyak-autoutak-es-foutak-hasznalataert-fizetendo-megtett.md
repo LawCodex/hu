@@ -1,0 +1,1281 @@
+---
+title: "209/2013. (VI. 18.) Korm. rendelet az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról"
+identifier: "209/2013. (VI. 18.) Korm. rendelet"
+njt_id: "2013-209-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/209"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-18
+in_force_from: 2013-06-19
+last_amended: 2026-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-209-20-22"
+retrieved: 2026-10-12
+---
+
+# 209/2013. (VI. 18.) Korm. rendelet az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról
+
+A Kormány az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés a)–m) és o)–p) pontjaiban,
+
+a 49. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 7. alpontjában,
+
+az 50. § tekintetében a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény 7. §-ában,
+
+az 51. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 9. alpontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — KIJELÖLŐ RENDELKEZÉSEK
+
+### 1. Kijelölő rendelkezések
+
+#### 1. §
+
+(1)[^1] A Kormány az állam nevében az útdíjszedői, az egyetemes útdíjszolgáltatói, valamint az útdíjellenőrzés-támogatói feladatok ellátása érdekében szerződéskötésre az útdíjfizetési-szolgáltatásért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+
+(2)[^2] A Kormány
+
+a) útdíjszedőként,
+
+b) az útdíjellenőrzés-támogatói feladatok ellátására, valamint
+
+c) egyetemes útdíjszolgáltatóként
+
+a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságot jelöli ki.
+
+(3) Az útdíjszedőt a felügyeleti szerv nyilvántartásba veszi.
+
+## II. Fejezet — AZ ÚTDÍJJAL ÉS A BÍRSÁGGAL KAPCSOLATOS RENDELKEZÉSEK
+
+### 2. Díj- és járműkategóriák
+
+#### 2. §
+
+(1) Az útdíj megállapítása során az útdíjköteles gépjármű tengelyszáma alapján a következő díjkategóriák szerint differenciálva kell megállapítani az útdíj mértékét:
+
+a) J2 díjkategória: a kéttengelyes útdíjköteles gépjárművek,
+
+b) J3 díjkategória: a háromtengelyes útdíjköteles gépjárművek,
+
+c)[^3] J4 díjkategória: a négytengelyes útdíjköteles gépjárművek.
+
+d)[^4] J5 díjkategória: az öt vagy több tengelyes útdíjköteles gépjárművek.
+
+(2)[^5] Az (1) bekezdéstől eltérően az autóbusz infrastruktúradíjának megállapítása során az autóbusz műszakilag megengedett legnagyobb össztömege alapján a következő díjkategóriák szerint differenciálva kell megállapítani az infrastruktúradíj mértékét:
+
+a) *M2 díjkategória:* a legfeljebb 5 tonna műszakilag megengedett legnagyobb össztömegű autóbusz,
+
+b) *M3 díjkategória:* olyan autóbusz, amelynek műszakilag megengedett legnagyobb össztömege meghaladja az 5 tonnát.
+
+### 2/A.[^6] Útdíjköteles gépjárművek vontatása
+
+#### 2/A. §
+
+(1) Ha az e rendelet hatálya alá tartozó gépjármű (a továbbiakban: útdíjköteles gépjármű) egy másik útdíjköteles gépjárművet vontat, akkor az útdíj megállapítása során a vontató és a vontatott útdíjköteles gépjármű tengelyszámát össze kell adni, az így megállapított útdíj bevallási és megfizetési kötelezettsége a szerelvény tekintetében pedig a vontató útdíjköteles gépjármű tekintetében áll fenn.
+
+(2) Az (1) bekezdéstől eltérően, ha útdíjköteles gépjármű részlegesen megemelve vontat egy másik útdíjköteles gépjárművet, akkor az útdíj megállapítása során a vontató útdíjköteles gépjármű összes tengelyét és a vontatott útdíjköteles gépjármű úttesttel érintkező tengelyeinek számát kell összeadni.
+
+(3) Az útdíjköteles gépjármű által rakományként szállított gépjármű nem útdíjköteles, ha a szállítás során a rakományként szállított gépjármű egyetlen tengelye sem érintkezik az úttesttel.
+
+(4) Ha útdíjköteles gépjármű a használati díj fizetése ellenében használható útszakaszokat használati díjfizetési kötelezettség teljesítése ellenében igénybe vevő gépjárművet vontat, akkor a vontató gépjármű e rendelet alapján, a vontatott gépjármű pedig a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet alapján teljesíti díjfizetési kötelezettségét.
+
+(5) Az (1)–(2) bekezdésben foglaltak alapján megállapított útdíj bevallási és megfizetési kötelezettsége a vontató és a vontatott útdíjköteles gépjárműből álló szerelvény tekintetében a vontató útdíjköteles gépjármű tekintetében áll fenn, a vontató és a vontatott útdíjköteles gépjárműből álló szerelvény által fizetendő külsőköltség-díj mértékének meghatározása során pedig a vontató útdíjköteles gépjármű környezetvédelmi besorolását kell figyelembe venni.
+
+### 3.[^7] Az útdíj mértékének megállapítására vonatkozó módszertan
+
+#### 3. §[^8]
+
+(1) Az infrastruktúradíj legmagasabb szintjét és az egyes díjkategóriákban alkalmazandó alapmértékét az 1. mellékletben előírt számítási alapelvek szerinti módszertan alapján kell meghatározni – a matematikai kerekítési szabályok alkalmazásával – két tizedesjegy pontossággal.
+
+(2) Az infrastruktúradíj 1. melléklet szerint megállapított alapmértéke a tárgyévet megelőző év augusztus hónapjára irányadó, a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző második év augusztusához viszonyított fogyasztói árindex emelkedése esetén, az emelkedéssel megegyező mértékben, a tárgyév első napjával – a matematikai kerekítési szabályok alkalmazásával – két tizedesjegy pontossággal módosul. Az infrastruktúradíj korrigált mértékének első alkalommal történő megállapítását követő tárgyévekben az alapmérték a tárgyévet megelőző évben megállapított mérték.
+
+#### 3/A. §
+
+(1) A külsőköltségdíj összegét differenciáltan és a 2. mellékletben meghatározott minimumkövetelményeknek és módszereknek megfelelően kell megállapítani. Az így megállapított külsőköltségdíj általános forgalmi adót nem tartalmazó összege nem haladhatja meg a 2. mellékletben meghatározott referenciaértékeket.
+
+(2) A 2. melléklet alkalmazásában az euró és a forint közötti átváltási árfolyam megállapítására a tárgyévet megelőző év október első munkanapján érvényes, az Európai Unió Hivatalos Lapjában kihirdetett árfolyamot kell alkalmazni. A külsőköltségdíj összegét forintban két tizedesjegy pontossággal kell meghatározni.
+
+(3) A (2) bekezdéstől eltérően a tárgyévet megelőző évben alkalmazott árfolyamot kell alkalmazni abban az esetben, ha az euróban kifejezett összegek (2) bekezdés szerinti átváltása a forintban kifejezett összegeknek legfeljebb 5 százalékos módosulását jelentené.
+
+(4) A külsőköltségdíj forintban meghatározott mértékét a közlekedésért felelős miniszter a (2)–(3) bekezdésben foglaltaknak megfelelően minden év november 30-ig felülvizsgálja.
+
+### 4. A beszedett útdíj és bírság központi költségvetésbe történő befizetésének rendje, valamint az útdíj elszámolásának számviteli szabályai
+
+#### 4. §
+
+(1)[^9] Az útdíjból származó bevételt
+
+a) a díjak nettó összege és
+
+b) általános forgalmi adó
+
+jogcímeken, infrastruktúra díj és külsőköltség-díj bontásban kell elszámolni és befizetni a központi költségvetésbe.
+
+(2)[^10] Az útdíjszedő a hozzá a tárgyhónapban az útdíjszolgáltatóktól beérkező útdíjakról a tárgyhónapot követő hónap 25-éig, ha az munkaszüneti napra esik, akkor az azt követő első munkanapig, adatot szolgáltat a miniszternek.
+
+(2a)[^11]
+
+(2b)[^12]
+
+(3)[^13] A miniszter a (2) bekezdés szerinti adatszolgáltatás alapján számlát állít ki az útdíjszedő részére, legkésőbb az adatszolgáltatás kézhezvételét követő 2. munkanapig a tárgyhavi útdíjbevétel összegéről. Az útdíjszedő a kiállított számla alapján, legkésőbb a számlakiállítás hónapjának utolsó munkanapjáig befizetést teljesít a számlán feltüntetett, a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett kincstári számlák javára. Az általános forgalmi adó összegének befizetésekor az útdíjszedő feltünteti a miniszter által vezetett minisztérium adószámát.
+
+(4)[^14] Az általános forgalmi adó tekintetében az állami adóhatóság felé a bevallást a miniszter teszi meg, a befizetést az útdíjszedő teljesíti a (3) bekezdésben foglaltak szerint.
+
+(5)[^15] Az útdíjszedő a (3) bekezdés szerint kiállított számla végösszegének pénzügyi teljesítéséről az átutalást igazoló bizonylat általa ellenjegyzett másolatát megküldi a miniszter részére. A Kincstár a számlakivonat megküldésével tájékoztatást ad a miniszternek az útdíjbevétel beérkezéséről.
+
+(6)[^16] Az ebben az alcímben nem szabályozott kérdésekben a miniszter és az útdíjszedő az 1. § (1) bekezdése alapján megkötött szerződésben rendelkezik.
+
+#### 5. §
+
+(1) Az útdíjszedő az általa az útdíjszolgáltatók felé kibocsátott számlák összegét elkülönített nyilvántartásban vezeti, mint állami követelést tartja nyilván.
+
+(2) Az útdíjszedő a kincstári elszámolások beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint analitikus nyilvántartóhelyként az állami követelésekről a Kincstár részére adatszolgáltatást köteles teljesíteni.
+
+#### 6. §[^17]
+
+A díjellenőrzésre kijelölt szervezet az általa kiszabott és számára megfizetett bírságot havonta legalább egy alkalommal köteles a jogszabályban megjelölt költségvetési előirányzat részére levonás és beszámítás nélkül átutalni.
+
+## III. Fejezet — AZ ÚTDÍJSZEDÉSBEN ÉRINTETT SZERVEZETEK TEVÉKENYSÉGÉRE, ÉS A KÖZÖTTÜK LÉTREJÖVŐ SZERZŐDÉSEKRE VONATKOZÓ SZABÁLYOK
+
+### 5. Az útdíjszedő feladatai
+
+#### 7. §
+
+(1) Az útdíjszedő az UD rendszer részeként olyan informatikai rendszert köteles folyamatosan fenntartani, amely képes az UD rendszerrel kapcsolatos valamennyi jogszabályi, illetve az útdíjszedővel kötött, útdíjszedői feladatok elvégzésére vonatkozó szerződésben rögzített követelményt teljesíteni, és biztosítani az útdíjszedői tevékenység jogszabályoknak megfelelő elvégzését.
+
+(2) Az útdíjszedő indokolatlan megkülönböztetésektől mentes módon működik együtt az útdíjszolgáltatókkal.
+
+#### 8. §
+
+(1)[^18] Az útdíjszedő területi nyilatkozatot készít, amelyben rögzíti azokat a területeket, amelyekre a díjszedési jogosultsága kiterjed, valamint megnevezi az alkalmazható technológiákat és azokat a pénzügyi feltételeket, amelyek teljesítésével az általa üzemeltetett UD rendszerhez az útdíjszolgáltató – ide nem értve az egyetemes útdíjszolgáltatót – csatlakozhat. A területi nyilatkozat nem írhat elő olyan műszaki megoldásokat vagy egyéb olyan eljárásokat, amelyek akadályozzák az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvben meghatározott átjárhatóságot.
+
+(1a)[^19] Az (1) bekezdésben meghatározott követelmények sérelme nélkül a területi nyilatkozatban az EETS szolgáltatónak nem minősülő útdíjszolgáltató számára a szolgáltatás és az ellátás biztonságával összefüggő egyéb feltételek is előírhatóak.
+
+(1b)[^20] Az útdíjszedő tesztelési környezetet biztosít az EETS-szolgáltató számára, amelyben az EETS-szolgáltató ellenőrizheti, hogy az általa az EETS-felhasználók részére biztosított fedélzeti eszköz alkalmas-e az UD rendszerben való használatra. A tesztelési környezetben több EETS-szolgáltató képviseletében egyetlen EETS-szolgáltató is ellenőrizheti az azonos típusú fedélzeti eszköz használatra való alkalmasságát. A tesztek sikeres végrehajtásáról az útdíjszedő tanúsítványt állít ki.
+
+(1c)[^21] Az (1b) bekezdésben meghatározott tesztelés költségét az azt kezdeményező EETS-szolgáltató viseli.
+
+(1d)[^22] Az UD rendszer lényeges módosítása esetén az útdíjszedő új területi nyilatkozatot készít, amelyet a hatálybalépését megelőzően olyan időben tesz közzé, hogy az lehetővé tegye az EETS-szolgáltatók legkésőbb egy hónappal a lényegesen módosított UD rendszer üzembe helyezése előtti újbóli akkreditációját.
+
+(1e)[^23] Új UD rendszer kialakítása esetén az útdíjszedő területi nyilatkozatot készít, amelyet a hatálybalépését megelőzően olyan időben tesz közzé, hogy az lehetővé tegye az EETS-szolgáltatók legkésőbb egy hónappal az új rendszer üzembe helyezése előtti akkreditációját.
+
+(2) A területi nyilatkozat kötelező tartalmi elemei:
+
+a)[^24] az útdíjszolgáltatóval, valamint az EETS szolgáltatókkal szemben támasztott – jogszabályban meghatározott – megkülönböztetéstől mentes követelmények,
+
+b) az útdíjszolgáltatótól kérhető pénzügyi biztosítékokra vonatkozó rendelkezések,
+
+c) a díjszedési politika ismertetése, így különösen az UD rendszerhez való csatlakozás engedélyezési paraméterei, az útdíj megállapításával összefüggő adatok, érvénytelen fedélzeti eszközök bejelentésével kapcsolatos eljárásrend,
+
+d) az útdíjszedő és az útdíjszolgáltató közötti szerződésben szabályozandó tárgykörök, így különösen az útdíjköteles útszakaszok használatára vonatkozó úthasználói adatok közlésére szolgáló formátum, ezek megküldésének ideje és rendszeressége, az adatok pontossága, hiányzó vagy hibás útdíjak százalékban kifejezett befogadási aránya, az operatív rendelkezésre állás teljesítménye,
+
+e) számlázásra vonatkozó szabályok,
+
+f) fizetési feltételek,
+
+g)[^25] alapvető kereskedelmi feltételek (különösen a szolgáltatási szintre vonatkozó követelmények, a felek között alkalmazandó díjak, a csatlakozási eljárás költségei, az útdíjszedő által kérhető pénzügyi garanciák),
+
+h)[^26] a szerződéskötés és a műszaki csatlakozás alapvető feltételei,
+
+i)[^27] a hatáskörrel rendelkező egyeztető szerv megnevezése,
+
+j)[^28] az útdíjszedő által az útdíjszolgáltatók részére fizetendő díjazás meghatározásának módja, valamint
+
+k)[^29] az (1d) bekezdésben meghatározott esetben az EETS-szolgáltató újbóli EETS-akkreditációjának tervezett ütemezése, az EETS-szolgáltató átjárhatósági rendszerelemei előírásoknak való megfelelőségének és használatra való alkalmasságának újbóli értékelését célzó eljárás részletes tervét is ideértve,
+
+l)[^30] az (1e) bekezdésben meghatározott esetben az EETS-szolgáltató átjárhatósági rendszerelemei előírásoknak való megfelelőségének és használatra való alkalmasságának értékelését célzó eljárás részletes ütemezése.
+
+(2a)[^31] A területi nyilatkozatnak tartalmaznia kell az egyetemes útdíjszolgáltató – jogszabályban meghatározott – azon feladat- és felelősségi köreit, amelyek kizárólag az egyetemes útdíjszolgáltatót terhelik.
+
+(2b)[^32] Az útdíjszedő a (2) bekezdés k) és l) pontjában meghatározott ütemezéstől csak különösen indokolt esetben térhet el.
+
+(2c)[^33] Az útdíjszedő által az útdíjszolgáltatók részére fizetendő díjazást valamennyi útdíjszolgáltató tekintetében azonos, átlátható és megkülönböztetésmentes módszertan szerint kell megállapítani.
+
+(3)[^34] A területi nyilatkozatra az általános szerződési feltételekre irányadó jogszabályi rendelkezéseket is megfelelően alkalmazni kell. A területi nyilatkozatot, továbbá annak valamennyi módosítását azok tervezett hatálybalépését megelőzően az útdíjszedő a felügyeleti szervnek jóváhagyásra benyújtja. Ha a felügyeleti szerv a területi nyilatkozat vagy a területi nyilatkozat módosításának benyújtását követő 15 napon belül nem nyilatkozik, jóváhagyását megadottnak kell tekinteni.
+
+(4) A felügyeleti szerv megvizsgálja, hogy a benyújtott területi nyilatkozat, illetve annak módosítása megfelel-e a jogszabályoknak. A vizsgálat eredményeként a felügyeleti szerv dönt arról, hogy a területi nyilatkozatot, illetve annak módosítását jóváhagyja, feltételekkel hagyja jóvá vagy megtagadja annak jóváhagyását.
+
+(5) A területi nyilatkozat csak a felügyeleti szerv jóváhagyásával lép hatályba. Amennyiben a felügyeleti szerv a jóváhagyását feltételhez köti, úgy a területi nyilatkozat csak a felügyeleti szerv által előírt valamennyi feltétel teljesülése esetén lép hatályba.
+
+(6) Az útdíjszedő honlapján köteles naprakészen közzétenni azoknak az útszakaszoknak a jegyzékét, amelynek használatáért útdíjat kell fizetni.
+
+(7) Az útdíjszedő köteles az érvénytelenített fedélzeti eszközökről az útdíjszolgáltatók által rendelkezésére bocsátott adatokat nyilvántartani és ellenőrzés-támogatási tevékenysége során ezen adatokat felhasználni.
+
+#### 9. §
+
+(1) Az útdíjszedő köteles a területi nyilatkozatában foglalt feltételeknek megfelelő, az útdíjszolgáltató által a díjfizetésre kötelezett rendelkezésére bocsátott fedélzeti eszközök használatát az UD rendszerben lehetővé tenni, kivéve, ha az adott fedélzeti eszköz szerepel az érvénytelenített fedélzeti eszközök listáján.
+
+(2) Amennyiben az útdíjszedő a 7. § (1) bekezdésében foglalt kötelezettségét az általa üzemeltett rendszer műszaki hibájára visszavezethető okból legalább két órán keresztül nem képes ellátni (a továbbiakban: üzemszünet) köteles arról tájékoztatni azokat, akiket a 7. § (1) bekezdésében foglalt feladatból kifolyólag jogok vagy kötelezettségek terhelnek. Az útdíjszedő köteles megállapítani, hogy az üzemszünet mely feladata vagy feladatai ellátását teszi lehetetlenné.
+
+(3) Amennyiben az útdíjszedő az UD rendszer használatáért fizetendő útdíj összegének megállapítására és kivetésére irányuló feladata lehetetlenül, köteles erről honlapján és az országos média útján azonnal tájékoztatást adni. A tájékoztatásnak ki kell terjednie az üzemszünet végének várható időpontjára, és amennyiben lehetséges, azon útdíjköteles utak, útdíjköteles elemi útszakaszok ismertetésére, amelyek vonatkozásában az üzemszünet okán az útdíjszedő nem képes a fizetendő útdíj összegének megállapítására, kivetésére (a továbbiakban: üzemszünettel érintett utak).
+
+(4) Az üzemszünettel érintett elemi útszakaszokon az üzemszünet ideje alatt, annak elhárításának bejelentett időpontjáig történő útdíjköteles elemi útszakasz használatáért nem bírságolható, aki az üzemszünet miatt nem tudja teljesíteni útdíjfizetési és bevallási kötelezettségét. Az útdíjszedő az üzemszünet elhárításáról annak felmerülésével azonos módon köteles tájékoztatást adni azzal, hogy az előzetesen bejelentett időpontnál korábban nem kezdheti meg útdíjellenőrzés-támogatási tevékenységét. Az üzemszünet végét óra pontossággal kell meghatározni oly módon, hogy a díjfizetésre kötelezetteknek módjuk legyen úthasználati jogosultság megszerzése érdekében eljárni.
+
+(5) Amennyiben az üzemszünet kizárólag útdíjellenőrzés-támogatási feladatának ellátását teszi lehetetlenné, annak tényéről, az üzemszünet elhárításának várható időpontjáról és az üzemszünet elhárításáról köteles a Rendőrséget azonnal tájékoztatni.
+
+(6)[^35] Ha az EETS szolgáltató az útdíjszedő üzemszünetét követően az útdíjbevallás küldési feltételeinek megfelelően teljesít útdíjbevallást az üzemszünettel érintett időszak vonatkozásában, azt az útdíjszedő köteles befogadni, és az útdíjat a bevallás alapján kivetni.
+
+#### 9/A. §[^36]
+
+(1)[^37] Az infrastruktúradíjnak a közlekedésért felelős miniszter által meghatározott – a 3. § (2) bekezdése szerinti – alapmérték alapján megállapított korrigált mértékét az útdíjszedő a honlapján közzéteszi. A közzététel és a hatálybalépés között legalább 30 napnak el kell telnie.
+
+(1a)[^38] A külsőköltségdíjnak a közlekedésért felelős miniszter által – a 3/A. § (4) bekezdése alapján – forintban meghatározott, általános forgalmi adóval terhelt mértékét az útdíjszedő a honlapján közzéteszi. A közzététel és a hatálybalépés között legalább 30 napnak el kell telnie.
+
+(2)[^39] Az infrastruktúradíj és a külsőköltségdíj mértékének közzététele során az útdíjszedő honlapjának felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. Az infrastruktúradíj és a külsőköltségdíj mértékének közzétételekor a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+
+(3)[^40] Az infrastruktúradíj és a külsőköltségdíj mértékének közzétett dokumentumai az útdíjszedő honlapjáról nem távolíthatóak el, azok archiválására a digitális archiválásról szóló miniszteri rendelet rendelkezéseit kell alkalmazni.
+
+(4) Az egyetemes útdíjszolgáltató az útdíjszedő által közzétett általános szerződési feltételben megállapított díjat alkalmazza a szerződött díjfizetővel fennálló szerződésében.
+
+### 6. Az útdíjszolgáltató
+
+#### 10. §
+
+(1) A felügyeleti szerv a kijelölt egyetemes útdíjszolgáltatót nyilvántartásba veszi.
+
+(1a)[^41]
+
+(2)[^42] A magyarországi székhellyel rendelkező útdíjszolgáltatót a nyilvántartásba vétel iránti kérelmének hiánytalan benyújtását követő 180 napon belül a felügyeleti szerv nyilvántartásba veszi, ha a következő feltételeknek eleget tesz:
+
+a) MSZ EN ISO 9001 tanúsítvánnyal rendelkezik, vagy annak megfelelő minőségbiztosítási rendszert üzemeltet,
+
+b) rendelkezik az útdíjbevallás megtételéhez szükséges technológiában való jártassággal, műszaki berendezésekkel, és az átjárhatósági rendszerelemek előírásoknak való megfelelőségét igazoló EK-nyilatkozattal vagy tanúsítvánnyal, amelyek révén az útdíjszedő területi nyilatkozatában, valamint az útdíjszedővel kötött szerződés előírásaiban foglalt feltételek teljesítését folyamatosan biztosítani tudja,
+
+c) rendelkezik megfelelő képzettséggel és gyakorlattal bíró szakszemélyzettel, akik jártasak az elektronikus útdíjszedési szolgáltatások nyújtásában vagy ezzel műszaki és gazdasági szempontból nagyfokú hasonlóságot mutató területen,
+
+d) a jogszabályban előírt útdíjszolgáltatói feladatok folyamatos ellátásához szükséges pénzügyi eszközök rendelkezésére állnak,
+
+e) rendelkezik átfogó kockázatkezelési tervvel, amelyet legalább kétévente független szakértő szervezet vizsgál felül, és
+
+f) üzleti jó hírnévvel rendelkezik.
+
+(2a)[^43] A (2) bekezdés e) pontjában meghatározott felülvizsgálat megállapításait – a felülvizsgálat eredményét tartalmazó dokumentum alapján – a felügyeleti szerv nyilvántartásba veszi.
+
+(2b)[^44] A nyilvántartás tartalmának valódiságáért és hitelességéért az útdíjszolgáltató felelős.
+
+(3) Az üzleti jó hírnévvel kapcsolatos követelménynek az a kérelmező felel meg,
+
+a) amely ellen jogerősen elrendelt csőd-, illetve felszámolási eljárás nincs folyamatban,
+
+b)[^45] amelyet szociális, egészségvédelmi, munkajogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt nem marasztaltak el jogerős határozatban,
+
+c) amelyet a felügyeleti szerv az útdíjszolgáltatók nyilvántartásából nem törölt,
+
+d)[^46] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségviselőjénél, egyéni cég ügyvezetését ellátó személynél, vagy az egyéni vállalkozónál (a továbbiakban: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
+
+(4) A vezető személyes megbízhatóságát kizárja, ha
+
+a)[^47] az egyéni vállalkozói tevékenység gyakorlásától eltiltották, amennyiben egyéni vállalkozóként végzi tevékenységét;
+
+b)[^48] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
+
+c)[^49] a korábban vezetése alatt álló gazdálkodó szervezetet vezetői megbízatása alatt szociális, egészségvédelmi, munkajogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt jogerősen elmarasztalták;
+
+d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetnél, amelyet a felügyeleti szerv a nyilvántartásból jogerősen törölt.
+
+(5) A (3) és (4) bekezdésben meghatározott kizáró okokat az ügyben eljáró hatóság, illetve bíróság határozatának jogerőre emelkedésétől számított öt évig kell a nyilvántartásba vétel iránti eljárás során figyelembe venni.
+
+(6) A személyes megbízhatóság követelményének nem felel meg az a vezető sem, akire nézve a (4) bekezdésben meghatározott kizáró okok valamelyike a kérelem benyújtását követően, és a nyilvántartásba vétel tárgyában hozott határozat közlését megelőzően következik be.
+
+(7) Nem magyar állampolgár esetében az érintett vezető személyes jogának rendelkezései, a (4) bekezdés c) pontja esetében pedig az ott írt okokból elmarasztalt gazdálkodó szervezet személyes jogának rendelkezései az irányadók.
+
+(8)[^50] Az EETS szolgáltatókról vezetett nyilvántartás tartalmazza
+
+a) az EETS szolgáltató azonosító adatait,
+
+b) a nyilvántartásba vételről szóló határozat számát és a nyilvántartásba vétel időpontját.
+
+(9)[^51] Az EETS szolgáltatók nyilvántartása a (8) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító adatok, a lakcím adatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+#### 11. §
+
+(1) Az útdíjszolgáltató nyomon követi fedélzeti eszközei és információs rendszerei működését, és olyan eljárásrendet dolgoz ki, amely lehetővé teszi a rendszer működési zavarai, illetve a rendszerbe történő illetéktelen beavatkozás esetén a szükséges intézkedések megtételét.
+
+(2)[^52] Az útdíjszolgáltató elektronikus nyilvántartást vezet az általa kiadott vagy az általa vezetett nyilvántartásba befogadott érvénytelenített fedélzeti eszközökről. A nyilvántartásban az útdíjszolgáltató a fedélzeti eszköz azonosítója mellett feltünteti a fedélzeti eszközhöz kapcsolt gépjármű rendszámát és regisztrált adatait, valamint a fedélzeti eszköz érvénytelenítésének okát és időpontját. Az útdíjszolgáltató nyilvántartását megismerhetővé teszi az útdíjszedő számára, amelyet az felhasznál az útdíjellenőrzés támogatói feladatainak ellátása során. A nyilvántartás vezetése során az útdíjszolgáltató felel a személyes adatok védelméért, különösen
+
+a) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben, valamint
+
+b) az elektronikus hírközlésről szóló törvényben
+
+meghatározott adatkezelésre vonatkozó szabályoknak való megfelelésért.
+
+(3) Az útdíjszolgáltató akkor veheti fel a (2) bekezdés szerinti nyilvántartásba a fedélzeti eszközt, ha
+
+a) az utólagos díjfizetésre jogosult szerződött díjfizetőnek az útdíjszolgáltató általános szerződési feltételei szerint meghatározott díjtartozása áll fenn az útdíjszolgáltatóval szemben,
+
+b)[^53]
+
+c) a fedélzeti eszköz működésébe olyan beavatkozás történik, amely nem teszi lehetővé az útdíjszolgáltató számára a szabályszerű bevallás elkészítését, vagy
+
+d) a fedélzeti eszközt elveszítik, eltulajdonítják, meghibásodik vagy megsemmisül.
+
+(3a)[^54] Az útdíjszolgáltató az útdíjszedő egyidejű tájékoztatása mellett felveszi a (2) bekezdés szerinti nyilvántartásba a fedélzeti eszközt, amennyiben az útdíj előre történő megfizetésére köteles szerződött díjfizetőnek nem áll rendelkezésére az úthasználattal érintett útdíjköteles elemi útszakasz vonatkozásában előre feltöltött egyenleg az útdíjszolgáltatónál.
+
+(3b)[^55] Az útdíszolgáltató az útdíjszedő egyidejű tájékoztatása mellett törli a (2) bekezdés szerinti nyilvántartásból az oda a (3a) bekezdés alapján felvett fedélzeti eszközt, amennyiben a díjfizetésre kötelezett egyenlege feltöltésre kerül olyan módon, hogy az úthasználattal érintett útdíjköteles úthasználat vonatkozásában az útdíj megfizetése biztosított, és az útdíj megfizetésre is kerül.
+
+(4) Az útdíjszolgáltató a fedélzeti eszköz (2) bekezdés szerinti nyilvántartásba vételéről azonnal értesíti a szerződött díjfizetőt és az útdíjszedőt.
+
+(5) Amennyiben az útdíjszedő vagy az útdíjszolgáltató hitelt érdemlően tudomást szerez a (3) bekezdés c) pontja szerinti esetről, az érintett fedélzeti eszközt az érvénytelenített fedélzeti eszközök nyilvántartásába fel kell venni.
+
+(6) Az útdíjszolgáltató a (2) bekezdés szerinti nyilvántartásból törli a fedélzeti eszközt, ha a (3) bekezdés a) és b) pontjában rögzített okok megszűnnek.
+
+(7) Amennyiben az útdíjszolgáltató az útdíjszedővel kötött szerződésben rögzített határidőben megküldte az útdíjszedőnek az általa kezelt, érvénytelennek nyilvánított fedélzeti eszközök jegyzékét, az útdíjszolgáltatótól az ezt követő időszakra nem követelhető az érvénytelen fedélzeti eszközök használata folytán felmerülő útdíj megfizetése.
+
+### 7. Az EETS szolgáltató
+
+#### 12. §
+
+(1) Az EETS szolgáltatóra az útdíjszolgáltatóra vonatkozó rendelkezéseket a jelen alcímben foglalt kiegészítésekkel kell alkalmazni.
+
+(2)[^56] Az EETS szolgáltató biztosítja, hogy
+
+a)[^57] a nyilvántartásba vételét követő 36 hónapon belül EETS nyújtására irányuló szerződéseket köt az Európai Unió legalább négy tagállamának összes EETS-területére kiterjedően, továbbá ha e lefedettsége már nem teljes, azt hat hónapon belül helyreállítja,
+
+b)[^58] szolgáltatása az Európai Unió tagállamában történő első EETS-szerződés megkötését követő 24 hónapon belül lefedje az adott tagállam EETS-szolgáltatásba bevont valamennyi útdíjköteles elemi útszakaszát (EETS-terület), továbbá az EETS-területet érintő változás esetén, vagy ha a lefedettség valamilyen okból már nem teljes, azt hat hónapon belül helyreállítja, kivéve, ha az útdíjszedő nem tesz eleget annak a kötelezettségének, hogy megkülönböztetésmentesen nyújt EETS-t valamennyi érintett EETS-területen.
+
+(2a)[^59] Ha a Magyarországon nyilvántartásba vett EETS szolgáltató a (2) bekezdés a) vagy b) pontjában meghatározott határidőt elmulasztja, a felügyeleti szerv észszerű határidő tűzésével felhívja a lefedettség helyreállítására. A felügyeleti szerv a felhívásában meghatározott határidő eredménytelen eltelte esetén felügyeleti eljárást indít.
+
+(2b)[^60] A Magyarországon nyilvántartásba vett EETS-szolgáltató biztosítja, hogy szolgáltatása mindenkor lefedje az összes EETS-területet, amelynek lefedésére szerződéses kötelezettséget vállalt. Ha az EETS-szolgáltató ezt a kötelezettségét nem teljesíti, a felügyeleti szerv határidő tűzésével felhívja a lefedettség minél hamarabb történő helyreállítására. A felügyeleti szerv a felhívásban meghatározott határidő eredménytelen eltelte esetén felügyeleti eljárást indít. Ha az EETS-szolgáltató az útdíjszedő mulasztására visszavezethető okból nem tudja fenntartani egy EETS-terület lefedettségét, az útdíjszedő minél hamarabb megteszi a szükséges intézkedéseket a lefedettség helyreállítása érdekében.
+
+(2c)[^61] Az EETS szolgáltató szükség esetén olyan fedélzeti eszközt biztosít az ügyfelei részére, amely megfelel
+
+a) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvben,
+
+b) a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvben, valamint
+
+c) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvben
+
+meghatározott követelményeknek.
+
+(2d)[^62] A felügyeleti szerv kötelezheti az EETS szolgáltatót a (2c) bekezdésben meghatározott követelmények teljesítésének igazolására.
+
+(3)[^63] Az EETS-szolgáltató a nyilvántartásba vételét követően haladéktalanul tájékoztatja honlapján a díjfizetésre kötelezetteket az általa nyújtott szolgáltatással ellátott területekről és minden, a területi lefedettséget érintő változásról, és a nyilvántartásba vételtől számított egy hónapon belül részletes tervet tesz közzé az általa nyújtott szolgáltatás további EETS-területekre történő kiterjesztéséről, amely tervet az EETS-szolgáltató évente felülvizsgál.
+
+(4) Amennyiben az EETS szolgáltató nem tudja teljesíteni a (2) bekezdésben meghatározott területi lefedettségre vonatkozó követelményeket, kérheti, hogy a felügyeleti szerv útdíjszolgáltatóként vegye nyilvántartásba, amennyiben az ezzel kapcsolatos feltételeknek megfelel.
+
+(5) Az alkalmazott EETS fedélzeti eszközöknek rendelkezniük kell a tanúsító szerv által kiállított tanúsítvánnyal.
+
+#### 12/A. §[^64]
+
+(1) Az EETS szolgáltatót teljes körű felelősség terheli az általa üzemeltetett informatikai és pénzügyi szolgáltatásért. E felelőssége alapján gondoskodik olyan eljárások kidolgozásáról, amelyek lehetővé teszik az üzemszünet azonnali észlelését és biztosítják a szolgáltatás tartós kiesésének kizárását.
+
+(2)[^65] AZ EETS-szolgáltató olyan fedélzeti eszközt helyezhet üzembe a saját rendszerében, amely alkalmas a műholdas helymeghatározás, a mobilkommunikáció és az 5,8 GHz-es mikrohullámú technológia együttes támogatására, azokkal kölcsönösen átjárható, és képes azokkal kommunikálni. Az EETS-szolgáltató folyamatosan ellenőrzi a helymeghatározó adatok rendelkezésre állását, és olyan körülmény fennállása esetén, amely az EETS-szolgáltatás ellátását veszélyezteti, haladéktalanul tájékoztatja az útdíjszedőt.
+
+(2a)[^66] A műholdas helymeghatározási technológiát alkalmazó, 2021. október 19-e után forgalomba hozott fedélzeti eszköznek kompatibilisnek kell lennie a Galileo és az európai geostacionárius navigációs lefedési szolgáltatás (EGNOS) rendszer által biztosított helymeghatározási szolgáltatásokkal.
+
+(2b)[^67] A fedélzeti eszköz használhat saját hardvert és szoftvert, vagy használhatja az útdíjköteles gépjárműben lévő egyéb hardverek és szoftverek elemeit, vagy használhatja mindkettőt. A fedélzeti berendezés a (2) bekezdésben meghatározott technológiákon túl eltérő technológiákat is használhat az útdíjköteles gépjármű egyéb hardverrendszereivel való kommunikáció céljára, ha az nem veszélyezteti a biztonságot, a szolgáltatás minőségét és a magánélet védelmét.
+
+(2c)[^68] Az EETS-szolgáltató legfeljebb 2027. december 31-ig – az olyan EETS-területen való használat céljára, amely esetében nincs szükség műholdas helymeghatározási vagy mobiltávközlési technológiák igénybevételére –, olyan fedélzeti eszközt bocsáthat a könnyűgépjárművek használói rendelkezésére, amely kizárólag 5,8 GHz-es mikrohullámú technológiával való használatra alkalmas.
+
+(3)[^69] Az EETS-szolgáltató olyan fedélzeti eszközt bocsát az EETS-felhasználó rendelkezésére, amelynek az üzemeltetéséhez szükséges tájékoztatást átadta az EETS-felhasználónak. Az EETS-szolgáltató felelőssége, hogy az EETS-felhasználó által a fedélzeti eszközön keresztül meghatározott gépjármű-osztályozási paraméterek az útdíjbevallásban az EETS-felhasználó által meghatározott módon kerüljenek benyújtásra. Az EETS-szolgáltató és az útdíjszedő által alkalmazott gépjármű-osztályozási paraméterek közötti eltérés esetén az útdíjszedő által alkalmazott gépjármű-osztályozási paramétereket kell alkalmazni, kivéve, ha azokban hiba mutatható ki.
+
+(4) Az EETS szolgáltató biztosítja, hogy ügyfelei a számlájukon vagy más felületen megismerhessék az EETS szolgáltató által bevallott úthasználatot, annak időpontját, annak az útdíjszedő által meghatározott összegét és a meghatározás során figyelembe vett paramétereket. E körben tájékoztatást ad a be nem vallott úthasználatról is, megjelölve a bevallás elmaradásának okát.
+
+(5) Az EETS szolgáltató a honlapján közzéteszi a szolgáltatásával lefedett EETS területet, az azzal kapcsolatos változásokat, EETS politikáját, valamint EETS stratégiáját, amelyet évente felülvizsgál.
+
+### 8. Az útdíjszedő és az útdíjszolgáltató közötti szerződés és elszámolás
+
+#### 13. §
+
+(1) Az útdíjszedő írásbeli kérelemre indokolatlan megkülönböztetés nélkül tájékoztatást ad az útdíjszolgáltatói feladatok ellátására vonatkozó jogviszony minden lényeges eleméről és az UD rendszerhez egyetemes útdíjszolgáltatónak nem minősülő útdíjszolgáltatóként (e § alkalmazásában a továbbiakban: útdíjszolgáltató) történő csatlakozás feltételeiről.
+
+(2)[^70] Az útdíjszedő a területi nyilatkozatában közzétett feltételeket teljesítő, az Európai Unió valamely tagállamában nyilvántartásba vett útdíjszolgáltató számára, annak kérelmére, indokolatlan megkülönböztetés nélkül szerződéses ajánlatot tesz az útdíjszedő által nyújtott szolgáltatás igénybevételére.
+
+(3)[^71]
+
+(4) Abban az esetben, ha az útdíjszolgáltató a (2) bekezdés szerinti kérelmével egyidejűleg nem bocsátott rendelkezésre minden, az ajánlat elkészítéséhez szükséges adatot, ideértve a pénzügyi biztosíték összegének meghatározásához szükséges adatokat is, az útdíjszedő a kérelem kézhezvételétől számított 30 napon belül köteles az útdíjszolgáltatót megfelelő határidő kitűzésével hiánypótlásra felszólítani a hiányok pontos megjelölésével.
+
+(5) Az útdíjszedő és az útdíjszolgáltató közötti szerződés kötelező tartalmi elemei:
+
+a) a szerződő felek megnevezése, a székhelyének és a cégjegyzékszámának vagy egyéb nyilvántartási számának feltüntetésével,
+
+b) a szolgáltatások megnevezése, azoknak a jogszabályban foglalt rendelkezésekkel összhangban felajánlott minőségi színvonala, valamint az ettől eltérő színvonalú szolgáltatás jogkövetkezménye,
+
+c) a szolgáltatás díja, valamint a számlázási és fizetési feltételek, továbbá biztosítékok,
+
+d) a szerződés időtartama, a szerződés feltételei, valamint az igénybe vett szolgáltatások, illetőleg a szerződés megszüntetésének, felmondásának feltételei,
+
+e) a szerződésszegés esetei és jogkövetkezményei,
+
+f) a díjfizetésre kötelezettek által az útdíjszolgáltató vagy az útdíjszedő által biztosított szolgáltatásra vonatkozó vagy annak hibájára visszavezethető panasz benyújtásának és ügyintézésének lehetőségéről és módjáról való tájékoztatás,
+
+g) adatszolgáltatási kötelezettségek a szerződő felek között,
+
+h) az útdíjszolgáltató által nyújtandó pénzügyi biztosíték mértéke.
+
+(6) Az útdíjszedő és az útdíjszolgáltató közötti szerződés érvényességéhez annak írásba foglalása szükséges.
+
+#### 14. §[^72]
+
+(1) Az útdíjszolgáltató az útdíjszedő által a (2) bekezdés alapján megállapított elszámolási időszakra kivetett útdíjat az erre vonatkozó számla kiállítását követő 8 napon belül megfizeti az útdíjszedő részére.
+
+(2) Az (1) bekezdésben meghatározott útdíjat az útdíjszedő az útdíjköteles elemi útszakaszoknak a 15. § alapján megállapított biztosíték összege alapján meghatározott időtartamú elszámolási időszakban történő használatára vonatkozó bevallás alapján veti ki.
+
+(3) Az (1) bekezdéstől eltérően az egyetemes útdíjszolgáltató az útdíjszedő által a tárgyhónapra vonatkozóan kivetett útdíjat a tárgyhónapot követő hónapban fizeti meg az útdíjszedő részére oly módon, hogy a megfizetett útdíj az útdíjszedő számláján legkésőbb a tárgyhónapot követő hónap 25. napjáig jóváírásra kerüljön.
+
+(4) A (3) bekezdés szerinti útdíj kivetésére az útdíjszedő részéről az útdíjköteles elemi útszakaszok tárgyhónapban történő használatára vonatkozó bevallás figyelembevételével kerül sor.
+
+(5) A (4) bekezdésben meghatározott bevallások alapján az egyetemes útdíjszolgáltató a tárgyhónapot követő hónap 20. napjáig az útdíjszedővel elszámol.
+
+#### 15. §[^73]
+
+(1) Az útdíjszedő által az útdíjszolgáltatótól kért pénzügyi biztosíték összege nem haladhatja meg az útdíjszedő által az útdíjszolgáltató ügyfelei közé tartozó teljes úthasználói kör egy naptári hónap átlagos útdíjköteles elemi útszakaszok használata alapján megállapított összes útdíj összegét. Az útdíjszedő ezt az összeget az előző naptári év során az útdíjszolgáltató ügyfelei közé tartozó úthasználókra az előző naptári év során az útdíjköteles elemi útszakaszok használatáért az útdíjszedő által ténylegesen kivetett útdíjak alapján állapítja meg. Új útdíjszolgáltató esetén a pénzügyi biztosíték kezdeti összegének alapja az útdíjszolgáltató által az útdíjköteles elemi útszakaszok használatáért fizetendő várható egyhavi becsült átlagösszeg, amelyet az útdíjszolgáltató üzleti tervében szereplő szerződések számának és a szerződésenkénti becsült átlagos útdíjnak megfelelően kell kiszámítani.
+
+(1a)[^74] Az (1) bekezdésben foglaltak nem érintik az útdíjszolgáltató azon jogát, hogy a biztosíték magasabb összegben történő megállapítását kezdeményezze a 14. § (2) bekezdésében meghatározott elszámolási időszak hosszabb időtartamban történő meghatározása érdekében.
+
+(2) Az útdíjszedő jogosult a pénzügyi biztosíték összegét évente felülvizsgálni az útdíjszolgáltató ügyfelei közé tartozó teljes úthasználói kör tényleges úthasználati bevallása alapján.
+
+### 9.[^75]
+
+### 9/A.[^76]
+
+### 10.[^77]
+
+### 10/A.[^78]
+
+### 11. Számviteli szétválasztás
+
+#### 20. §
+
+(1) Amennyiben az egyetemes útdíjszolgáltatói és az útdíjszedői feladatokat ugyanaz a személy látja el, az útdíjszedő köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkrimináció-mentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
+
+(2) Amennyiben az egyetemes útdíjszolgáltatói és az útdíjszedői feladatokat ugyanaz a személy látja el, az útdíjszedő számviteli éves beszámolója kiegészítő mellékletében köteles az útdíjszedői és az egyetemes útdíjszolgáltatói tevékenységét úgy bemutatni, mintha e tevékenységeket önálló vállalkozások keretében végezték volna. E tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+
+(3) Amennyiben az egyetemes útdíjszolgáltató a számvitelről szóló törvény szerinti összevont (konszolidált) számviteli éves beszámoló készítésére kötelezett, és az útdíjszedő szervezeti egységeként működik, az összevont (konszolidált) számviteli éves beszámolója kiegészítő mellékletében köteles az útdíjszedéssel kapcsolatos egyes tevékenységeket önállóan is bemutatni. E tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+
+(4) Az egyetemes útdíjszolgáltató, valamint az útdíjszedő köteles biztosítani a felügyeleti szerv számára, hogy annak munkatársai és megbízottai a társaság pénzügyi-számviteli kimutatásait, és az ahhoz kapcsolódó bizonylatokat és információkat megismerhessék, azokba betekinthessenek.
+
+#### 20/A. §[^79]
+
+(1) Az útdíjszedő és az útdíjszolgáltató olyan számviteli szétválasztási szabályokat alkalmaz, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezet, amely lehetővé teszi az útdíjszedési szolgáltatás nyújtásához kapcsolódó költségek és bevételek világos megkülönböztetését az egyéb tevékenységekhez kapcsolódó költségektől és bevételektől, és kizárja a keresztfinanszírozást.
+
+(2) Az útdíjszedő és az útdíjszolgáltató az útdíjszedési szolgáltatások nyújtásához kapcsolódó költségekről és bevételekről felhívásra tájékoztatja az egyeztető szervet vagy a hatáskörrel rendelkező más hatóságot.
+
+## IV. Fejezet — A DÍJFIZETÉSRE KÖTELEZETTEKRE ÉS AZ ÚTDÍJSZOLGÁLTATÁSRA VONATKOZÓ RENDELKEZÉSEK
+
+### 12. Az útdíjfizetési szerződés
+
+#### 21. §
+
+(1) Az útdíjszolgáltató, akinek az útdíjszedővel a 13. § szerinti hatályos szerződése áll fenn, közvetlenül vagy képviselője útján jogosult a díjfizetésre kötelezettel szerződést kötni, amelynek keretében az útdíjszolgáltató lehetővé teszi az úthasználó számára az UD rendszer igénybevételét (a továbbiakban: útdíjfizetési szerződés).
+
+(2)[^80]
+
+#### 22. §
+
+(1) Az útdíjszolgáltató a honlapján köteles a díjfizetésre kötelezettek számára térítésmentesen elérhetővé tenni az UD rendszer igénybevételére vonatkozó általános szerződési feltételeit.
+
+(2) A felügyeleti szerv az általános szerződési feltételeknek az útdíjszedéssel kapcsolatos jogszabályoknak való megfelelőségét legalább évente egy alkalommal hivatalból vizsgálja.
+
+(3) Az (1) bekezdés szerinti általános szerződési feltételeknek legalább az alábbiakat kell tartalmaznia:
+
+a) az útdíjszolgáltató neve, címe,
+
+b)[^81] internetes honlapjának címe (amelyet az általános szerződési feltételek elején, jól azonosítható módon kell feltüntetni),
+
+c) az útdíjszolgáltató által nyújtott szolgáltatások meghatározása,
+
+d) a szolgáltatások igénybevételére vonatkozó szerződés megkötésére vonatkozó eljárás, a szolgáltatások igénybevételének módja és feltételei, a szolgáltatás igénybevételének esetleges időbeli és földrajzi korlátai,
+
+e) a szolgáltatások igénybevételére vonatkozó szerződés megkötéséhez szükséges adatok listája, a jogviszony létrejötte, a legrövidebb szerződési időszak,
+
+f) a szerződés módosításának egyes esetei és a szerződésmódosítás feltételei, szerződésmódosítás esetén a díjfizetésre kötelezett tájékoztatásának módja, a díjfizetéshez kötött szerződésmódosítás esetei és a fizetendő díj mértéke, az átírás teljesítésének határideje, így különösen a már regisztrált fedélzeti eszköz más forgalmi rendszámmal közlekedő gépjárműre történő átvitele,
+
+g) a szerződés megszűnésének esetei és feltételei, azon határidő megjelölése, ameddig a díjfizetésre kötelezett a díjfizetési kötelezettségének eleget tehet anélkül, hogy az útdíjszolgáltató a szerződést felmondaná,
+
+h) a hibabejelentő elérhetősége, a hibabejelentések nyilvántartásba vételének menete,
+
+i) az ügyfélszolgálat működése, bejelentések, panaszok intézése,
+
+j) a díjfizetésre kötelezett jogai a szolgáltatás hibás teljesítése esetén a szolgáltatással kapcsolatos viták rendezésének módja,
+
+k) az útdíjszolgáltató által kezelt adatok fajtái, tárolásuk és esetleges továbbításuk célja és időtartama, az adatok továbbításának biztosítása, az adatbiztonság, valamint a díjfizetésre kötelezettek adatkezeléssel kapcsolatos jogairól és kötelezettségeiről szóló tájékoztatás,
+
+l) a díjfizetés és a számlázás módja és ideje, a díjnak a díjfizetésre kötelezett igénye szerinti előre történő megfizetésére vonatkozó szabályok,
+
+m) a felügyeleti szerv neve, címe, telefonszáma.
+
+n)[^82] Az utólagos díjfizetési rendből az előrefizetéses díjfizetési rendbe és az előrefizetéses díjfizetési rendből az utólagos díjfizetési rendbe történő átsorolás feltételeit, ha az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett is biztosítja.
+
+### 13. Az útdíj megfizetésének módjára vonatkozó részletes szabályok
+
+#### 23. §
+
+(1) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
+
+(1a)[^83] Amennyiben az (1) bekezdés szerinti szolgáltatást az útdíjszolgáltató nem utólagos fizetés keretében nyújtja, az (1b) bekezdésben foglalt kivétellel az úthasználati jogosultság az útdíjnak az úthasználat megkezdését megelőző megfizetésével állhat fenn.
+
+(1b)[^84] Amennyiben az útdíjköteles gépjármű vonatkozásában az úthasználati jogosultság keletkezéséhez szükséges kötelezettséget a díjfizetésre kötelezett a vele szerződésben álló bevallási közreműködő útján teljesíti, az útdíj mértékének megállapításához szükséges adatokat a bevallási közreműködő az útdíjszolgáltatóval kötött szerződésben meghatározott határidőn belül nyújtja be. Úthasználati jogosultság ezen a módon akkor keletkezik, ha a bevallási közreműködő által benyújtott adatszolgáltatás útdíjszolgáltatóhoz történő teljesítése időpontjában az adatszolgáltatás felhasználásával megállapított bevallás alapján megállapított útdíj megfizetése a szerződés szerint biztosított.
+
+(2) Az útdíjszolgáltató indokolatlan megkülönböztetéstől mentesen jogosult megvonni a díjfizetésre kötelezettől az útdíj utólagos megfizetésének lehetőségét késedelmes fizetés, vagy egyéb súlyos szerződésszegés esetén, valamint a díjfizetésre kötelezettet az utólagos díjfizetési rendből az előrefizetéses díjfizetési rendbe átsorolni az általános szerződési feltételeiben rögzítettek szerint.
+
+(3)[^85]
+
+#### 23/A. §[^86]
+
+(1) Az útdíjfizetési szolgáltatásokról a szerződött díjfizető részére kiállított számlán – ideértve az egyetemes útdíjszolgáltató által a viszonylati jegy vásárlása során kiállított bizonylatot is – el kell különíteni a szolgáltatási díjat, az útdíjat (feltüntetve az infrastruktúradíj és a külsőköltség-díj összegét), az útdíjat útkategóriánként és díjelemenként, valamint az útdíjnak a szerződött díjfizető szempontjából lényeges összetevőit.
+
+(2) Az (1) bekezdésben meghatározott adatokat az útdíjszolgáltató a szerződött díjfizető részére az útdíjfizetésre irányuló szerződésének hatálya alatt az UD-rendszerben is elérhetővé teszi.
+
+(3)[^87] Az útdíjszedő az EETS-szolgáltatóval kötött szerződésben rendelkezhet úgy, hogy az útdíjfizetési szolgáltatásokról készült számlát a nevében és megbízásából az EETS-szolgáltató állítsa ki az EETS-felhasználó részére. Ilyen rendelkezés hiányában az EETS-felhasználó részére az EETS-szolgáltató saját nevében állítja ki a számlát az útdíjfizetési szolgáltatásokról.
+
+### 14. A bevallással és a fedélzeti eszközzel összefüggő rendelkezések
+
+#### 24. §
+
+(1) Amennyiben a szerződött díjfizető az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíjtörvény) 6. § (2) bekezdés a) pontja szerint viszonylati jegy váltásával kíván úthasználati jogosultságot szerezni, bevallási kötelezettségének teljesítéséhez köteles az UD rendszer kezelőfelületén előre megtervezni az útvonalát, és a teljes útvonalra vonatkozóan az azonosításhoz és az útdíjszámításhoz szükséges adatokat megadni.
+
+(2)[^88] Az (1) bekezdés szerinti bevallás alapján az útdíjfizetési kötelezettségét a szerződött díjfizető közvetlen befizetéssel teljesítheti.
+
+(3)[^89] A viszonylati jegy egy útra, megszakítás nélkül, a megváltáskor megadott járműparaméterek vonatkozásában keletkeztet úthasználati jogosultságot. A viszonylati jegy nem ruházható át, a benne foglalt megváltáskor megadott útvonal és járműparaméterek nem változtathatóak meg.
+
+(4)[^90] A viszonylati jegy a megváltásának időpontjától 300 percig érvényes.
+
+(5)[^91] A viszonylati jegy nem váltható vissza.
+
+(6)[^92] Az UD rendszerben nyilvántartásba vett viszonylati jegyek elektronikus nyilvántartása minősül hitelesnek. Az egyetemes útdíjszolgáltató, az elektronikus viszonylati jegy megváltásáról a szerződött díjfizető kérésére papíralapú igazolást állít ki.
+
+#### 25. §
+
+(1) Amennyiben a szerződött díjfizető az Útdíjtörvény 6. § (2) bekezdés b) pontja szerint kíván úthasználati jogosultságot szerezni, bevallási kötelezettségét az útdíjfizetési szerződésben meghatározott útdíjköteles gépjárművek számának megfelelő, kizárólag a szerződésben rögzített útdíjköteles gépjárművekhez használható, az UD rendszer használatára alkalmas, az útdíjszolgáltató által biztosított fedélzeti eszköz útján köteles teljesíteni.
+
+(2) Az útdíjszolgáltató és a szerződött díjfizető jogosult az (1) bekezdéstől eltérően megállapodni, amennyiben a szerződött díjfizető az útdíjszolgáltatóval szerződésben álló bevallási közreműködőt vesz igénybe.
+
+(3) Az útdíjszolgáltató köteles annak lehetőségét biztosítani, hogy a díjfizetésre kötelezett az adott forgalmi rendszámú gépjárműhöz kötött, már regisztrált fedélzeti eszközt másik gépjárműre átvihesse, és a továbbiakban azzal kapcsolatos bevallások benyújtásához használhassa.
+
+(4) Amennyiben az útdíjszedő vagy az útdíjszolgáltató hitelt érdemlően tudomást szerez a 26. § (1) bekezdés b) pontjában foglalt szabály megsértéséről, az érintett fedélzeti eszközt az érvénytelenített fedélzeti eszközök nyilvántartásába fel kell venni.
+
+#### 26. §
+
+(1) Az útdíjköteles elemi útszakasz használatának megkezdését megelőzően a díjfizetésre kötelezett köteles gondoskodni arról, hogy az útdíjszolgáltatóval olyan jogviszonyban álljon, amely alapján ténylegesen képes az útdíjszedő által üzemeltetett UD rendszer használatára, ennek keretében
+
+a) a tényleges úthasználatnak megfelelő viszonylati jegy megváltása megtörténjen, vagy
+
+b) az útdíjszolgáltatóval fennálló szerződéses jogviszonya alá tartozó gépjármű rendelkezzen olyan működő és a tényleges úthasználatnak megfelelő gépjármű adatokat használó fedélzeti eszközzel, amely megfelel az útdíjszolgáltatóval kötött szerződés rendelkezéseinek, nem szerepel az érvénytelenné nyilvánított fedélzeti eszközök nyilvántartásában, és annak működésébe nem történt olyan beavatkozás, amely alkalmas az útdíjszedés és díjellenőrzés rendeltetésszerű működésének megváltoztatására.
+
+(2) Az útdíjköteles elemi útszakasz használata során az úthasználó köteles gondoskodni arról, hogy az (1) bekezdés b) pontjában foglalt feltételeknek megfelelő fedélzeti eszköz folyamatosan üzemképes legyen, és a fedélzeti eszköz a használat teljes tartama alatt a gépjármű valós, díjszedési szempontból jelentőséggel bíró paramétereivel működjön.
+
+(3) Az útdíjköteles elemi útszakaszok használatba vétele előtt a díjfizetésre kötelezett köteles:
+
+a) az útdíjszolgáltatóval kötött szerződése hatálya alá tartozó gépjármű regisztrálásához szükséges adatokat átadni az útdíjszolgáltatónak, illetve képviselőjének,
+
+b) biztosítani az útdíjszolgáltatóval kötött szerződésének megfelelő fedélzeti eszköz gépjárműbe történő beszerelését,
+
+c) az úthasználót felvilágosítani a fedélzeti eszköz kezelésére és használatára vonatkozó szabályokról.
+
+(4) Az úthasználó – e rendelet eltérő rendelkezése vagy az útdíjszolgáltató hozzájárulása hiányában – nem jogosult a fedélzeti eszközt a regisztrálttól eltérő gépjárművel használni, illetve ilyen használatot lehetővé tenni.
+
+### 15. Az egyetemes útdíjszolgáltatás
+
+#### 27. §
+
+(1) Az egyetemes útdíjszolgáltató köteles általános szerződési feltételeket készíteni és a felügyeleti szervhez jóváhagyásra benyújtani az útdíjszolgáltatóra vonatkozó szabályok megfelelő alkalmazásával.
+
+(2) Amennyiben az egyetemes útdíjszolgáltatói és az útdíjszedői feladatokat ugyanaz a személy látja el, az UD rendszer használatával összefüggésben a területi nyilatkozat útdíjszolgáltatókra vonatkozó feltételeit az egyetemes útdíjszolgáltatóra is megfelelően alkalmazni kell. Az útdíjszedő és az egyetemes útdíjszolgáltató között e bekezdés alapján alkalmazott feltételeket az útdíjszedő a 13. § (5) bekezdése megfelelő alkalmazásával köteles írásban rögzíteni.
+
+(3) Az egyetemes útdíjszolgáltató köteles viszonylati jegy alapú úthasználati jogosultságra vonatkozó egyedi szerződést kötni minden olyan személlyel, aki az egyetemes útdíjszolgáltató általános szerződési feltételeinek megfelelő szerződési ajánlatot tesz.
+
+#### 28. §
+
+(1) Az egyetemes útdíjszolgáltató köteles az UD rendszer alábbi szolgáltatásait biztosítani:
+
+a) viszonylati jegy megváltása,
+
+b)[^93]
+
+c)[^94] regisztráció,
+
+d)[^95]
+
+e) előzetes díjfizetés egyenleg feltöltése,
+
+f)[^96] egyenleg lekérdezése, tájékoztató a folyószámla változásairól,
+
+g)[^97]
+
+h) díjazással kapcsolatos bejelentések fogadása (hibás terhelés, számla stb.),
+
+i) panaszbejelentés fogadása,
+
+j) általános ügyfélkezelés, tájékoztatás,
+
+k) tájékoztató anyagok igénybevétele, átadása (letöltése) az ügyfelek számára,
+
+l) tájékoztatás az úthasználati tranzakciókról,
+
+m) szerződésmódosítás, megszüntetés,
+
+n) átjelentkezés az utólagos díjfizetési konstrukcióból az előzetes díjfizetési konstrukcióba,
+
+o) átjelentkezés az előzetes díjfizetési konstrukcióból az utólagos díjfizetési konstrukcióban az előírt feltételek teljesítése esetén.
+
+(2)[^98] Az egyetemes útdíjszolgáltató ügyfélszolgálati irodáiban biztosítja az (1) bekezdés c), e), f), valamint h)–n) pontjában meghatározott szolgáltatások elérhetőségét. Az egyetemes útdíjszolgáltató ügyfélszolgálati irodáiban igénybe vehető fizetési módokat az egyetemes útdíjszolgáltató az általános szerződési feltételeiben határozza meg.
+
+(3)[^99] Az egyetemes útdíjszolgáltató internetes ügyfélszolgálatán az (1) bekezdés a), c) és e), f), valamint h)–l) pontjaiban rögzített szolgáltatások elérhetőségét köteles biztosítani.
+
+(4) Az egyetemes útdíjszolgáltató telefonos ügyfélszolgálatán az (1) bekezdés h), i), j) pontjaiban rögzített szolgáltatások elérhetőségét köteles biztosítani.
+
+(5)[^100]
+
+### 16. [^101] Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetése, a felek közötti elszámolás
+
+#### 29. §[^102]
+
+(1) Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás szabályait – az ebben az alcímben foglaltak figyelembevételével – az egyetemes útdíjszolgáltató az általános szerződési feltételeiben állapítja meg.
+
+(2) A szerződés megszüntetése esetén a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeget az egyetemes útdíjszolgáltató – a (3)–(5) bekezdésben foglaltak figyelembevételével – visszatéríti.
+
+(3) Visszatérítésnek a befizetést igazoló számla bemutatása ellenében van helye annak a részére, akinek részére a számlát kiállították, vagy akire a követelést engedményezték, vagy aki az előbbiek jogutódja, illetve örököse.
+
+(4) A visszatérítés ügyintézési díj ellenében kérhető, amelynek összege a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg 1,9%-a, de legalább 15 000 Ft.
+
+(5) Visszatérítésnek a szerződött díjfizető által az egyenlegére történő megfizetéstől számított 5 éven belül van helye.
+
+#### 30. §[^103]
+
+Az egyetemes útdíjszolgáltató meghatározhatja azt az időtartamot, amelynek elteltével felmondhatja azon szerződött díjfizetővel hatályban lévő szerződését, akinek egyenlegén nem történik forgalmazás.
+
+## V. Fejezet — AZ ÚTDÍJJAL KAPCSOLATOS KÖZIGAZGATÁSI FELADATOK
+
+### 17. Az egyeztető szerv
+
+#### 31. §
+
+(1) Az egyeztető szerv a felügyeleti szerv mellett működő független testület.
+
+(2) Az állam a mindenkori éves központi költségvetésről szóló törvényben gondoskodik az egyeztető szerv működésének ügyszámarányos támogatásáról.
+
+(3) Az egyeztető szerv illetékessége az ország egész területére kiterjed, véleménye a felekre nézve kötelező erővel nem bír.
+
+#### 32. §
+
+(1) Az egyeztető szerv elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: tagok) áll.
+
+(2)[^104] A tagokat a közlekedésért felelős miniszter jelöli ki. A tagok száma legalább három, legfeljebb tíz fő. A kijelölés során biztosítani kell, hogy a testületnek legyen olyan tagja, aki jogi végzettséggel rendelkezik.
+
+(3) A tagok megbízatása három évre szól. A tagok ismételten kijelölhetőek.
+
+(4) A tagok tevékenységüket díjazás ellenében végzik.
+
+(5) Tag az lehet, aki felsőfokú iskolai végzettséggel és annak megfelelő, legalább kétéves igazolt szakmai gyakorlattal rendelkezik.
+
+(6) Nem lehet tag,
+
+a)[^105] aki a polgári jog szabályai szerint cselekvőképességet érintő gondnokság alatt áll,
+
+b) akit bűncselekmény elkövetése miatt jogerősen szabadságvesztés büntetésre ítéltek, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült, vagy
+
+c) akivel szemben a 35. § (2) bekezdésében meghatározott összeférhetetlenségi ok áll fenn.
+
+(7)[^106] Az elnököt – a tagok közül – az egyeztető szerv választja meg. A választás eredményéről az egyeztető szerv értesíti a közlekedésért felelős minisztert. Ha az elnök tagsági megbízatásának megszűnését követő hatvan napon belül az egyeztető szerv nem választ elnököt, az új elnököt a közlekedésért felelős miniszter bízza meg a tagok közül. Az elnök teljes jogkörrel képviseli a testületet.
+
+(8) Az egyeztető szerv elnöke – ha az egyeztető szerv munkaterhe azt indokolja – elnökhelyettest jelölhet ki a tagok közül. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
+
+#### 33. §
+
+(1)[^107] A tagokról az elnök listát vezet. A lista tartalmazza a tagok nevét és szakterületük megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a tagok listáját megküldi a közlekedésért felelős miniszternek.
+
+(2) Az egyeztető szerv tagjának megbízatása megszűnik
+
+a) a megbízatás időtartamának lejártával,
+
+b) a 35. § (2) bekezdésében foglalt kizáró okok valamelyikének bekövetkezése esetén,
+
+c) lemondásával,
+
+d) halálával.
+
+#### 34. §
+
+(1) Az egyeztető szerv háromtagú tanácsban jár el.
+
+(2) Az eljáró tanács egyik tagját az eljárást megindító fél, egy másik tagját pedig az eljárással érintett másik fél jelöli ki a testületi tagok 33. § (1) bekezdésében meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját az egyeztető szerv elnöke jelöli ki, figyelemmel a független és pártatlan tag kijelölésének szempontjára.
+
+#### 35. §
+
+(1) Az egyeztető szerv tagjainak függetlennek és pártatlannak kell lenniük, nem lehetnek képviselői a feleknek, eljárásuk során utasítást nem fogadhatnak el. A tagok teljes titoktartásra kötelezettek az egyeztető szerv működése során tudomásukra jutott tények és adatok tekintetében, az eljárás megszűnése után is. Minderről kijelölésük elfogadásakor írásbeli nyilatkozatot kötelesek tenni.
+
+(2) Az egyeztető szerv tagja az eljárásból ki van zárva, ha neki vagy a Polgári Törvénykönyv szerinti hozzátartozójának az eljárás tárgyát képező vitás ügy elintézése jogaira vagy kötelezettségeire kihatással lehet, vagy egyéb ok miatt elfogult.
+
+(3) A felek, illetve az elnök által az eljáró tanácsba kijelölt tag köteles az elnöknek haladéktalanul bejelenteni és a felek előtt feltárni minden olyan körülményt, amely jogos kétségeket ébreszthet függetlensége vagy pártatlansága tekintetében.
+
+(4) Az eljáró tanácsba kijelölt tag ellen a fél kizárási kérelmet terjeszthet elő, amennyiben olyan körülmények állnak fenn, amelyek jogos kétségeket ébresztenek függetlensége vagy pártatlansága tekintetében.
+
+(5) A fél az általa kijelölt tag ellen csak olyan okból élhet kizárási kérelemmel, amely a kijelölést követően vált előtte ismertté.
+
+(6) Az indokolással ellátott írásbeli kizárási kérelem attól a naptól számított három napon belül terjeszthető elő, amikor a fél az eljáró tanács összetételéről tudomást szerzett, vagy amikor a (4) bekezdésben említett körülmények előtte ismertté váltak.
+
+(7) A kizárási kérelemről az egyeztető szerv elnöke dönt, az érintett tag meghallgatása után. E döntés meghozataláig az eljáró tanács – a kizárással érintett tagot is beleértve – folytathatja az eljárást, de határozatot, illetve véleményt nem fogalmazhat.
+
+#### 36. §
+
+(1) Az egyeztető szerv eljárása megindításának feltétele, hogy a díjszedésben részt vevő szervezet az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
+
+(2) Az egyeztető szerv eljárása a díjszedésben részt vevő szervezet kérelmére indul.
+
+(3) A kérelmet az egyeztető szerv elnökéhez kell írásban benyújtani. A kérelemnek tartalmaznia kell
+
+a) a kérelmező nevét, székhelyét vagy érintett telephelyét,
+
+b) a jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
+
+c) a kérelmező álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
+
+d) a kérelmező nyilatkozatát a 35. §-ban előírt feltétel teljesítéséről,
+
+e) az egyeztető szerv döntésére irányuló indítványt.
+
+(4) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a kérelmező bizonyítékként hivatkozik, így különösen a kérelmező rendelkezésére álló írásos bizonyítékot az (1) bekezdésben előírt egyeztetés megkísérléséről. A kérelmező köteles továbbá a felkéréshez mellékelni a közvetlen egyeztetés során keletkezett valamennyi dokumentumot.
+
+(5) Ha a kérelmező meghatalmazott útján jár el, a kérelemhez csatolni kell a meghatalmazást.
+
+(6) Ha a kérelem nem felel meg a (3)–(5) bekezdésben foglaltaknak, az egyeztető szerv elnöke a kérelem beérkezésétől számított tizenöt napon belül a hiányok megjelölése mellett felszólítja a kérelmezőt azok pótlására.
+
+#### 37. §
+
+(1) Az eljárás megindulásától kezdődő határidők számításakor az eljárás megindulásának az minősül, amikor a hiánytalan kérelem az egyeztető szerv elnökéhez beérkezik.
+
+(2) Az egyeztető szerv elnöke az eljárás megindulásától számított nyolc napon belül megvizsgálja, hogy az ügy az egyeztető szerv hatáskörébe tartozik-e. Az egyeztető szerv hatáskörének hiánya esetén haladéktalanul tájékoztatja a kérelmezőt az egyeztető szerv hatáskörének hiányáról.
+
+(3) Az egyeztető szerv hatáskörének megállapítása esetén az elnök – a (4) és a (6) bekezdésben meghatározott kivételekkel – az eljárás megindulásától számított hatvan napon belüli meghallgatási időpontot tűz ki a felek számára.
+
+(4) Az elnök a kérelmet – meghallgatás kitűzése nélkül – elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban az egyeztető szerv előtt már eljárást indítottak, közvetítői eljárást indítottak, per van folyamatban vagy annak tárgyában már jogerős ítéletet hoztak.
+
+(5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának és a 33. § (1) bekezdése szerinti lista egyidejű megküldésével kellő időben előzetesen értesíti, azzal a felhívással, hogy az eljáró tanács általuk jelölhető tagjára vonatkozó javaslatukat legkésőbb az értesítés részükre történt kézbesítésétől számított nyolc napon belül tegyék meg, ellenkező esetben a kijelölésről az egyeztető szerv elnöke hivatalból gondoskodik.
+
+(6) Az elnök a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.
+
+(7) Az értesítésben a kérelmező által eljárás alá vont felet fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított nyolc napon belül írásban nyilatkozzék (válaszirat) a kérelmező igényének jogosságát és az ügy körülményeit illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és azok bizonyítékait, illetve csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a felet, hogy az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a tanács a rendelkezésére álló adatok alapján határoz.
+
+(8) Az eljárás alá vont fél válasziratának másolatát az elnök a kérelmezőnek haladéktalanul megküldi, ha pedig erre már nincs elegendő idő, azt a meghallgatáson adja át.
+
+(9) Az eljáró tanács az eljárás megindulásától számított egy hónapon belül köteles megállapítani, hogy a döntés meghozatalához szükséges valamennyi irat az egyeztető szerv rendelkezésére áll-e. Amennyiben nem áll rendelkezésre a döntés meghozatalához szükséges valamennyi dokumentum, úgy az eljáró tanács felszólítja a feleket a hiányzó dokumentumok haladéktalan benyújtására.
+
+(10) Ha az eljárás alá vont fél válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
+
+(11) Az eljáró tanács jogosult a véleménye kialakításához szükséges információkat bekérni az útdíjszedőtől, az útdíjszolgáltatótól, továbbá bármely, Magyarország területén működő, nyilvántartásba vett EETS szolgáltatótól.
+
+#### 38. §
+
+(1) Az egyeztető szerv eljárása során az iratokat a feleknek postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint kell kézbesíteni.
+
+(2) A felek meghatalmazott útján is eljárhatnak. Meghatalmazott lehet bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
+
+(3) Az eljárás során a tanács elnöke egyezséget kísérel meg létrehozni a felek között. Ha az egyezség megfelel a jogszabályoknak, a tanács azt határozattal jóváhagyja, ellenkező esetben, illetve egyezség hiányában az eljárást folytatja.
+
+(4) Az eljárás során a tanács köteles a feleket egyenlő elbánásban részesíteni. Köteles lehetőséget adni a felek számára álláspontjuk előadására, illetve beadványaik előterjesztésére.
+
+(5) Az eljárás nem nyilvános, kivéve, ha az eljárás nyilvánosságához mindkét fél hozzájárul.
+
+#### 39. §
+
+(1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha az eljáró tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja.
+
+(2) Ha a meghallgatáson bármelyik fél szabályszerű értesítés ellenére nem jelenik meg sem személyesen, sem képviselő útján, vagy nem terjeszti elő bizonyítékait, a tanács lefolytatja az eljárást, és a rendelkezésre álló adatok alapján dönt.
+
+(3) A tanács az eljárást megszünteti, ha
+
+a) a kérelmező a kérelmét visszavonja,
+
+b) a felek az eljárás megszüntetésében megállapodnak,
+
+c) az eljárás folytatása lehetetlen.
+
+(4) A tanács az ügy érdemében szótöbbséggel dönt.
+
+(5) A tanács az eljárást az annak megindulását követő hat hónapon belül befejezi.
+
+#### 40. §
+
+(1) Egyezség hiányában a tanács az ügy érdemében véleményt ad.
+
+(2) A véleménynek ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra.
+
+(3) A tanács véleményét annak meghozatala napján hirdeti ki. A kihirdetett vélemény írásba foglalt egy-egy példányát legkésőbb tizenöt napon belül meg kell küldeni a feleknek.
+
+(4) Az eljárás során, illetve azzal összefüggésben felmerült költségeiket a felek maguk viselik.
+
+#### 41. §
+
+(1) A vélemény részére történt kézbesítésétől számított tizenöt napon belül a fél kérheti a tanácstól, hogy a határozatban, illetve a véleményben előforduló bármely névcserét, névelírást, szám- vagy számítási hibát vagy más hasonló elírást javítson ki, vagy a vélemény meghatározott része tekintetében adjon értelmezést.
+
+(2) Ha a tanács a kérelmet indokoltnak tartja, annak beérkezésétől számított nyolc napon belül a kijavítást elvégzi, illetve az értelmezést megadja. Az értelmezés a vélemény részévé válik.
+
+(3) A tanács az (1) bekezdésben meghatározott hibát a határozat, illetve a vélemény kihirdetésétől számított harminc napon belül kérelem hiányában is kijavíthatja.
+
+#### 42. §
+
+(1)[^108] Az egyeztető szerv tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a közlekedésért felelős miniszternek.
+
+(2) Az egyeztető szerv az eljárására vonatkozó részletes szabályokat a jogszabályok keretei között szabadon állapíthatja meg.
+
+(3)[^109] Az egyeztető szerv a jogalkalmazással összefüggő tapasztalatok megosztása érdekében együttműködik az Európai Unió más tagállamainak egyeztető szerveivel.
+
+### 18. A felügyeleti szerv
+
+#### 43. §
+
+(1) A felügyeleti szerv felügyeli az útdíjszedő, az útdíjszolgáltatók, továbbá a Magyarországon szolgáltatást nyújtó EETS szolgáltatók tevékenységét, e körben
+
+a)[^110] nyilvántartásba veszi az útdíjszedőt, és a magyarországi tevékenységet végző EETS szolgáltatót,
+
+b) vizsgálja, hogy tevékenységük megfelel-e a díjszedésre vonatkozó jogszabályoknak,
+
+c) jogsértés esetén alkalmazza az Útdíjtörvényben meghatározott jogkövetkezményeket,
+
+d)[^111] vezeti a közlekedésért felelős miniszter rendelete szerinti nyilvántartásokat.
+
+(2) A felügyeleti szerv tájékoztatja az Európai Unió tagországainak illetékes szerveit, valamint az Európai Bizottságot az EETS-sel összefüggő intézkedéseiről.
+
+#### 44. §
+
+(1) A felügyeleti szerv jogosult határozatában rendszeres adatszolgáltatási kötelezettséget előírni a nyilvántartásba vett szervezetnek.
+
+(2)[^112] A miniszter minden év szeptember 30-ig felülvizsgálja az útdíjszolgáltatóknak és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a és a fizetési közreműködők részére fizetendő átalány-költségtérítés számításáról és mértékéről szóló miniszteri rendeletben meghatározott költségtérítés mértékét.
+
+#### 44/B. §[^113]
+
+(1) Ha az útdíjszedő a rendelkezésére álló adatok alapján okkal feltételezi, hogy egy vizsgálati tanúsítvánnyal rendelkező átjárhatósági rendszerelem a rendeltetésszerű használat során nem felel meg a megfelelőségi és használati alkalmassági követelményeknek, erről haladéktalanul tájékoztatja a tanúsító szervet.
+
+(2) A tanúsító szerv az átjárhatósági rendszerelem sikertelen működése esetén részletes indokolással ellátott jelentést készít, amelyet megküld a felügyeleti szervnek. A jelentés indokolásában ki kell térni arra, hogy a hibás működés
+
+a) a műszaki előírások helytelen alkalmazásának, vagy
+
+b) a műszaki előírások elégtelenségének
+
+következménye-e.
+
+(3) A felügyeleti szerv a vizsgálati jelentés alapján az átjárhatósági rendszerelem használatát korlátozza vagy megtiltja, és indokolással ellátott döntéséről – a tanúsító szerv jelentésének egyidejű megküldésével – értesíti az útdíjszedőt, az Európai Bizottságot, valamint az átjárhatósági rendszerelem gyártóját vagy annak képviselőjét. A felügyeleti szerv döntésében tájékoztatást kell adni a döntéssel szemben rendelkezésre álló jogorvoslati lehetőségekről, valamint azok határidejéről is.
+
+(4) Ha a tanúsító szerv megállapítja, hogy egy CE-jelöléssel ellátott átjárhatósági rendszerelem nem felel meg az átjárhatósági követelményeknek, erről indokolással ellátott jelentést készít, amelyet megküld a felügyeleti szervnek.
+
+(5) A felügyeleti szerv a (4) bekezdésben meghatározott jelentés alapján kötelezi az átjárhatósági rendszerelem gyártóját vagy annak képviselőjét, hogy állítsa helyre az átjárhatósági rendszerelem műszaki előírásoknak való megfelelőségét vagy a megállapított feltételek szerinti használatra való alkalmasságát, és erről a döntéséről értesíti az Európai Bizottságot és a többi tagállamot.
+
+(6)[^114] A (3) bekezdésben meghatározott kivétellel nem korlátozható vagy tiltható annak az átjárhatósági rendszerelemnek a használata, amely
+
+a) CE-jelöléssel van ellátva, vagy
+
+b) megfelelőségértékelési tanúsítással rendelkezik, vagy
+
+c) használatra való alkalmasságot igazoló tanúsítvánnyal rendelkezik.
+
+(7)[^115] A felügyeleti szerv tájékoztatja az Európai Bizottságot és az Európai Unió többi tagállamát minden – a megfelelőségértékelő szervezetek tevékenységéről szóló törvény alapján bejelentett szervezetnek minősülő – tanúsító szervről. A tájékoztatás kiterjed a tanúsító szerv hatáskörére és az Európai Bizottságtól kapott azonosítási számra is.
+
+(8)[^116] Ha a felügyeleti szerv a rendelkezésre álló adatok alapján okkal feltételezi, hogy az Európai Unió másik tagállama által bejelentett tanúsító szerv nem felel meg a gépjárművek osztályozásáról, az európai elektronikus útdíjszedési szolgáltatás felhasználóinak kötelezettségeiről, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a bejelentett szervekre vonatkozó minimális alkalmassági feltételekről szóló 2019. november 28-i (EU) 2020/203 felhatalmazáson alapuló bizottsági rendeletben meghatározott feltételeknek, erről tájékoztatja az Európai Bizottságot.
+
+(9)[^117] Az útdíjszedő az átjárhatósági rendszerelemek EETS-területeiken történő használatra való alkalmasságának értékelése során megkülönböztetésmentes módon együttműködik az EETS-szolgáltatókkal, a gyártókkal és a bejelentett szervezetekkel.
+
+(10)[^118] Az átjárhatósági rendszerelemek előírásoknak való megfelelőségére vagy használatra való alkalmasságára irányuló értékelésével összefüggésben hozott döntéshez indokolást kell fűzni, és tájékoztatást kell nyújtani a döntéssel szemben rendelkezésre álló jogorvoslati lehetőségekről, valamint azok határidejéről. A döntést a lehető leghamarabb közölni kell az érintett gyártóval, az EETS-szolgáltatóval vagy ezek képviselőjével.
+
+#### 44/A. §[^119]
+
+(1) A felügyeleti szerv 2025. március 25-ig, azt követően pedig ötévente összesített formában a honlapján jelentést tesz közzé az útdíjakról és a használati díjakról (jelen alcím alkalmazásában a továbbiakban együtt: díjak).
+
+(2) A felügyeleti szerv az (1) bekezdésben meghatározott jelentésben a következőkről ad tájékoztatást:
+
+a) a díjak alakulása, a mentességeket is beleértve;
+
+b) az infrastruktúradíjaknak a járműkategória és a nehézgépjármű típusa szerinti differenciálása;
+
+c) az infrastruktúradíjaknak a járművek környezetvédelmi besorolása szerinti differenciálása;
+
+d) a járműkategóriák és a közúttípusok minden egyes kombinációjára kiszabott külsőköltségdíj;
+
+e) a súlyozott átlagos infrastruktúradíj és az infrastruktúradíjból származó összbevétel;
+
+f) a külsőköltségdíjakból származó összbevétel;
+
+g) a díjakból származó összbevétel;
+
+h) a díjakból származó bevételek felhasználása, tájékoztatás a közúti közlekedési infrastruktúrára és a fenntartható közlekedési projektekre fordított kiadások mértékéről; valamint
+
+i) a különböző kibocsátási osztályokba tartozó járművek részarányának alakulása az útdíjköteles utakon.
+
+### 19. A Társadalmi Egyeztető Szervezet
+
+#### 45. §
+
+(1)[^120] A közlekedésért felelős miniszter felkérésére a díjpolitikai célok megvalósulásának ellenőrzésére szervezet jön létre. A szervezet tagjait a hazai autósok országos civil érdekvédelmi szervezete, a fuvarozók országos érdekvédelmi egyesülése, a helyi önkormányzatok országos érdekképviseleti szerve, valamint a környezetvédelmi szervezetek képviseleti szerve delegálják.
+
+(2) A Társadalmi Egyeztető Szervezet működési rendjét maga határozza meg.
+
+(3)[^121] Az útdíjból, valamint az útdíj megfizetésének elmaradása esetén fizetett bírságból származó bevételek felhasználására vonatkozó adatokat a díjpolitikai célok finanszírozását szolgáló költségvetési előirányzat kezelője a Társadalmi Egyeztető Szervezet felhívására megküldi a Társadalmi Egyeztető Szervezet részére.
+
+(4)[^122]
+
+(5)[^123] A Társadalmi Egyeztető Szervezet a megküldött adatokat véleményezi, amelyet jogosult az országos napilapokban, valamint az elektronikus médiában megjelentetni.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 20. Átmeneti rendelkezések
+
+#### 46. §[^124]
+
+(1) E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 466/2020. (X. 27.) Korm. rendelettel megállapított 3. § (5) bekezdését és 9/A. §-át első alkalommal a 2021. évre vonatkozó útdíjak megállapítása során kell alkalmazni.
+
+(2) E rendeletnek az egyes kormányrendeleteknek a közúti infrastruktúra fejlesztésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 67/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 29. §-át az egyetemes útdíjszolgáltató és a szerződött díjfizető között a Módr. hatálybalépését megelőzően létrejött szerződésekre is alkalmazni kell, azzal, hogy a felek között más módon – a Módr. hatálybalépését megelőzően – létrejött elszámolást e rendelkezések nem érintik.
+
+(3) E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 361/2022. (IX. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított 3. § (5) bekezdését, valamint 1. § (3) bekezdésével megállapított 9/A. § (1) bekezdését első alkalommal a 2023. évben kell alkalmazni.
+
+(4) A 24. § (3) bekezdés a) pontjától eltérően, ha a viszonylati jegy érvényességének kezdete és megváltásának napja 2023. december 31., akkor a viszonylati jegy a megváltás időpontjától e nap végéig érvényes.
+
+(5) A 24. § (3) bekezdés b) pontjától eltérően viszonylati jegy elővételben a 2024. évre nem váltható.
+
+(6)[^125] E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 196/2024. (VII. 8.) Korm. rendelet 1. § (1) és (2) bekezdésével módosított 3. §-át és 9/A. § (1) bekezdését első alkalommal a 2025. évre érvényes infrastruktúradíjak megállapítása során kell alkalmazni. A 2024. évre érvényes infrastruktúradíjak mértékét a közlekedésért felelős miniszter által megállapított alapmérték alapján kell meghatározni.
+
+(7)[^126] E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével módosított 24. § (4) bekezdését 2025. február 1-jén vagy azt követően megváltott viszonylati jegy esetén kell alkalmazni.
+
+(8)[^127] A 2026. évre érvényes infrastruktúradíj megállapítására a 3. § (2) bekezdését nem kell alkalmazni, a 2026. évre érvényes infrastruktúradíj mértéke a közlekedésért felelős miniszter által rendeletben megállapított alapmérték.
+
+(9)[^128] A 2027. évre megállapított infrastruktúradíj a 3. § (2) bekezdésének alkalmazásában az infrastruktúradíj korrigált mértékének első alkalommal történő megállapításának minősül.
+
+### 21. Hatályba léptető rendelkezés
+
+#### 47. §
+
+(1) Ez a rendelet – a (2)–(4) bekezdésekben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 7. § (2) bekezdése, a 8. § (1)–(6) bekezdése, a 10. §, a 12. §, a 13. §, a 15. §, a 17–18. §, a 19. § (2) bekezdése, a 20–22. §, a 24. § és a 27–28. § 2013. június 24-én lép hatályba.
+
+(3) A 4–6. §, a 7. § (1) bekezdése, a 8. § (7) bekezdése, a 9. §, a 11. §, a 19. § (1) bekezdése, a 26. § (1)–(3) bekezdése, a 44. §, a 48. §, az 50–51. §, valamint a 2. melléklet 2013. július 1-jén lép hatályba.
+
+(4) A 31–42. § és a 45. § 2013. október 1-jén lép hatályba.
+
+### 22. Módosuló rendelkezések
+
+### 23. Az Európai Unió jogának való megfelelés
+
+#### 52. §
+
+(1) Ez a rendelet
+
+1\. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló, 1999. június 17-i 1999/62/EK európai parlamenti és tanácsi irányelvnek,
+
+2\. a Közösségen belüli elektronikus útdíjszedési rendszerek átjárhatóságáról szóló, 2004. április 29-i 2004/52/EK európai parlamenti és tanácsi irányelvnek,
+
+3\. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról szóló, 2006. május 17-i 2006/38/EK európai parlamenti és tanácsi irányelvnek,
+
+4\. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról szóló, 2011. szeptember 27-i 2011/76/EU európai parlamenti és tanácsi irányelvnek
+
+5.[^133] az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
+
+6.[^134] Az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló, 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2)[^135] Ez a rendelet
+
+1\. az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK bizottsági határozat,
+
+2\. a gépjárművek osztályozásáról, az európai elektronikus útdíjszedési szolgáltatás felhasználóinak kötelezettségeiről, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a bejelentett szervekre vonatkozó minimális alkalmassági feltételekről szóló, 2019. november 28-i (EU) 2020/203 felhatalmazáson alapuló bizottsági rendelet,
+
+3\. az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló, 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) E rendelet 1. és 10. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
+
+#### 53. §[^136]
+
+A 3. alcím, valamint az 1. és a 2. melléklet tervezetének a járművekre egyes közúti infrastruktúrák használatáért kivetett díjakról szóló, 1999. június 17-i 1999/62/EK európai parlamenti és tanácsi irányelv 7h. cikk (1) bekezdés a) pontja és (3) bekezdése szerinti előzetes bejelentése megtörtént.
+
+## 1. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^137]
+
+**Módszertan az infrastruktúradíj mértékének megállapításához**
+
+1\. Infrastruktúra-költségek
+
+1.1. Beruházási költségek
+
+A beruházási költségek tartalmazzák az építési költségeket (beleértve a finanszírozási költségeket is) és az infrastruktúra fejlesztésének költségeit, valamint adott esetben a befektetett tőke hozamát vagy haszonkulcsot. Ide értendők a földvásárlás, tervezés és műszaki tervezés költségei, az építési szerződések és a projektgazdálkodás felügyeletének költségei, a régészeti feltárások és talajkutatások költségei, valamint egyéb járulékos költségek is.
+
+Az építési költségek megtérülése szempontjából vagy az infrastruktúra tervezett élettartamát vagy egyéb hasonló (legalább 20 éves) amortizációs időtartamot kell alapul venni, amely a koncessziós szerződés vagy egyéb megállapodás révén történő finanszírozás céljára megfelelőnek tekinthető. Az amortizáció időtartama a koncessziós szerződések megkötésére irányuló tárgyalások fő alkutényezője lehet, különösen akkor, ha a szerződés részeként meghatározásra kerül az alkalmazható súlyozott átlagos úthasználati díjtétel felső összeghatára.
+
+A beruházási költségek számításának sérelme nélkül a költségek megtérülése
+
+a) egyenletesen elosztható az amortizáció időtartamára vagy súlyozottan alkalmazható a kezdeti, közép- és utolsó időszakban, feltéve, hogy a súlyozást átlátható módszerrel végzik,
+
+b) az úthasználati díjak indexálását teheti lehetővé az amortizáció időtartamán belül.
+
+A költségek nehézgépjárművekre eső arányát objektív és átlátható módon kell megállapítani, figyelembe véve a hálózaton várható nehézgépjármű-forgalom arányát és a járulékos költségeket. Ebből a célból a nehézgépjárművek által megtett járműkilométereket objektíven igazolható, például a 4. pontban meghatározottak szerinti ekvivalenciafaktorok alkalmazásával ki lehet igazítani. Az ekvivalenciafaktorok alkalmazása során az elvégzett útépítés időszakos alapon vagy a hosszú életcikluson alapuló szemlélet felhasználásával vehető figyelembe.\
+Az állami vagy kormányzati befektetések finanszírozott kölcsönnek tekinthetők. A bekerülési költségekre alkalmazandó kamatként az adott időszakban az állami vagy kormányzati hitelfelvételekre érvényes kamatot kell figyelembe venni.\
+A várható tőkehozamra vagy haszonkulcsra képzett céltartaléknak a piaci feltételeknek megfelelően indokolt nagyságúnak kell lennie. Összege abból a célból változó lehet, hogy a szerződést elnyert harmadik felet a szolgáltatás minőségi követelményeinek teljesítésére ösztönözze. A tőkehozam olyan gazdasági mutatók használatával értékelhető, mint például a belső megtérülési ráta (IRR) vagy a tőke súlyozott átlagköltsége (WACC).
+
+1.2. Éves karbantartási költségek és a strukturális javítások költségei
+
+Ezek a költségek tartalmazzák egyrészt a hálózatfenntartás éves költségeit, másrészt a hálózat üzemelési alkalmassági szintjének hosszú távú fenntartása céljából végzett javítási, megerősítési és útfelszínjavító munkálatokhoz kapcsolódó időszakos költségeket.
+
+E költségeket a nehézgépjárművek és az egyéb forgalom között a járműkilométerek tényleges és előre jelzett megoszlása alapján kell megosztani, és objektíven igazolható, például a 4. pontban meghatározottak szerinti ekvivalenciafaktorok alkalmazásával ki lehet igazítani.
+
+2\. Üzemeltetési, kezelési és díjbeszedési költségek
+
+E költségek magukban foglalják az infrastruktúra üzemeltetőjénél felmerült összes olyan költséget, amely az 1. pontban nem szerepel, és amely az infrastruktúra és az útdíjrendszer alkalmazásához, üzemeltetéséhez és kezeléséhez kapcsolódik. Ezek közé különösen az alábbiak tartoznak:
+
+a) a díjfizető kapuk és egyéb fizetőrendszerek építésének, kialakításának és karbantartásának költségei,
+
+b) a díjbeszedő rendszer üzemeltetésének, igazgatásának és végrehajtásának napi költségei,
+
+c) a koncessziós szerződésekhez kapcsolódó igazgatási díjak és illetékek,
+
+d) az infrastruktúra üzemeltetéséhez kapcsolódó kezelési, igazgatási és szolgáltatási költségek.
+
+A költségek tartalmazhatnak az átruházott kockázat mértékét tükröző tőkehozamot vagy haszonkulcsot.Ezeket a költségeket méltányos és átlátható módon kell megosztani az útdíjrendszer által érintett valamennyi járműosztály között.
+
+<table><thead><tr><th rowspan="2">**Járműosztály**[^138]</th><th colspan="3">**Ekvivalenciafaktorok**</th></tr><tr><th>**Strukturális javítás**[^139]</th><th>**Beruházások**</th><th>**Éves karbantartás**</th></tr></thead><tbody><tr><td>3,5 t és 7,5 t között,<br>0. osztály</td><td>1</td><td>1</td><td>1</td></tr><tr><td>> 7,5 t, I. osztály</td><td>1,96</td><td>1</td><td>1</td></tr><tr><td>> 7,5 t, II. osztály</td><td>3,47</td><td>1</td><td>1</td></tr><tr><td>> 7,5 t, III. osztály</td><td>5,72</td><td>1</td><td>1</td></tr></tbody></table>
+
+Az előre jelzett forgalmi szintek alapján meghatározott útdíjrendszerben olyan korrekciós mechanizmust kell biztosítani, amellyel – az előrejelzési hibákból eredő alacsony vagy túlzott költség-visszatérülés kiküszöbölésére – az úthasználati díjakat időszakosan kiigazítják.
+
+<table><thead><tr><th colspan="5">**Gépjárművek**</th></tr><tr><th colspan="2">**Légrugós vagy azzal egyenértékű tengelyfelfüggesztés**[^140]</th><th colspan="2">**Egyéb tengelyfelfüggesztési rendszerek**</th><th>**Károsodási osztály**</th></tr><tr><th colspan="2">**Tengelyek száma és megengedett legnagyobb össztömeg (tonna)**</th><th colspan="2">**Tengelyek száma és megengedett legnagyobb össztömeg (tonna)**</th><th></th></tr><tr><th>**Legalább**</th><th>**Kevesebb, mint**</th><th>**Legalább**</th><th>**Kevesebb, mint**</th><th></th></tr></thead><tbody><tr><td colspan="4">Kéttengelyes</td><td></td></tr><tr><td>7,5<br>12<br>13<br>14<br>15</td><td>12<br>13<br>14<br>15<br>18</td><td>7,5<br>12<br>13<br>14<br>15</td><td>12<br>13<br>14<br>15<br>18</td><td>I.</td></tr><tr><td colspan="4">Háromtengelyes</td><td></td></tr><tr><td>15<br>17<br>19<br>21<br>23<br>25</td><td>17<br>19<br>21<br>23<br>25<br>26</td><td>15<br>17<br>19<br>21</td><td>17<br>19<br>21<br>23</td><td></td></tr><tr><td></td><td></td><td>23<br>25</td><td>25<br>26</td><td>II.</td></tr><tr><td colspan="4">Négytengelyes</td><td></td></tr><tr><td>23<br>25<br>27</td><td>25<br>27<br>29</td><td>23<br>25</td><td>25<br>27</td><td>I.</td></tr><tr><td></td><td></td><td>27<br>29<br>31</td><td>29<br>31<br>32</td><td>II.</td></tr><tr><td>29<br>31</td><td>31<br>32</td><td></td><td></td><td></td></tr></tbody></table>
+
+<table><thead><tr><th colspan="5">**Járműszerelvények (csuklós járművek és közúti vontatók)**</th></tr><tr><th colspan="2">**Légrugós vagy azzal egyenértékű tengelyfelfüggesztés**</th><th colspan="2">**Egyéb tengelyfelfüggesztési rendszerek**</th><th>**Károsodási osztály**</th></tr><tr><th colspan="2">**Tengelyek száma és műszakilag megengedett legnagyobb össztömeg (tonna)**</th><th colspan="2">**Tengelyek száma és műszakilag megengedett legnagyobb össztömeg (tonna)**</th><th></th></tr><tr><th>**Legalább**</th><th>**Kevesebb, mint**</th><th>**Legalább**</th><th>**Kevesebb, mint**</th><th></th></tr></thead><tbody><tr><td colspan="4">2+1 tengelyes</td><td></td></tr><tr><td>7,5<br>12<br>14<br>16<br>18<br>20<br>22<br>23<br>25</td><td>12<br>14<br>16<br>18<br>20<br>22<br>23<br>25<br>28</td><td>7,5<br>12<br>14<br>16<br>18<br>20<br>22<br>23<br>25</td><td>12<br>14<br>16<br>18<br>20<br>22<br>23<br>25<br>28</td><td>I.</td></tr><tr><td colspan="4">2+2 tengelyes</td><td></td></tr><tr><td>23<br>25<br>26<br>28</td><td>25<br>26<br>28<br>29</td><td>23<br>25<br>26<br>28</td><td>25<br>26<br>28<br>29</td><td></td></tr><tr><td>29</td><td>31</td><td>29</td><td>31</td><td>II.</td></tr><tr><td>31</td><td>33</td><td>31</td><td>33</td><td></td></tr><tr><td>33<br>36</td><td>36<br>38</td><td>33</td><td>36</td><td>III.</td></tr><tr><td colspan="4">2+3 tengelyes</td><td>II.</td></tr><tr><td>36<br>38</td><td>38<br>40</td><td>36</td><td>38</td><td></td></tr><tr><td></td><td></td><td>38</td><td>40</td><td>III.</td></tr><tr><td colspan="4">2+4 tengelyes</td><td>II.</td></tr><tr><td>36<br>38</td><td>38<br>40</td><td>36</td><td>38</td><td></td></tr><tr><td></td><td></td><td>38</td><td>40</td><td>III.</td></tr><tr><td colspan="4">3+1 tengelyes</td><td>II.</td></tr><tr><td>30<br>32</td><td>32<br>35</td><td>30</td><td>32</td><td></td></tr><tr><td></td><td></td><td>32</td><td>35</td><td>III.</td></tr><tr><td colspan="4">3+2 tengelyes</td><td>II.</td></tr><tr><td>36<br>38</td><td>38<br>40</td><td>36</td><td>38</td><td></td></tr><tr><td></td><td></td><td>38<br>40</td><td>40<br>44</td><td>III.</td></tr><tr><td>40</td><td>44</td><td></td><td></td><td></td></tr><tr><td colspan="4">3+3 tengelyes</td><td></td></tr><tr><td>36<br>38</td><td>38<br>40</td><td>36</td><td>38</td><td>I.</td></tr><tr><td></td><td></td><td>38</td><td>40</td><td>II.</td></tr><tr><td>40</td><td>44</td><td>40</td><td>44</td><td></td></tr><tr><td colspan="4">7 tengelyes</td><td></td></tr><tr><td>40</td><td>50</td><td>40</td><td>50</td><td>II.</td></tr><tr><td>50</td><td>60</td><td>50</td><td>60</td><td>III.</td></tr><tr><td>60</td><td></td><td>60</td><td></td><td></td></tr><tr><td colspan="4">Legalább 8 tengelyes</td><td></td></tr><tr><td>40</td><td>50</td><td>40</td><td>50</td><td>I.</td></tr><tr><td>50</td><td>60</td><td>50</td><td>60</td><td>II.</td></tr><tr><td>60</td><td></td><td>60</td><td></td><td>III.</td></tr></tbody></table>
+
+## 2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^141]
+
+**Módszertan a külsőköltségdíj mértékének megállapításához**
+
+1\. A külsőköltségdíj kivetésének minimumkövetelményei
+
+Ez a melléklet meghatározza a külsőköltségdíj kivetésének, valamint adott esetben a legnagyobb külsőköltségdíj kiszámításának minimumkövetelményeit.
+
+1.1. Az érintett közúthálózatrészek
+
+Pontosan meg kell jelölni, hogy közúthálózat mely részén vagy részein kerül kivetésre külsőköltségdíj.
+
+Amennyiben a transzeurópai közúthálózat magyarországi területéhez tartozó részéből és az autópályákból álló közúthálózatnak csak egy részén vagy bizonyos részein kerül kivetésre külsőköltségdíj, e rész vagy e részek kiválasztását olyan elemzésnek kell megelőznie, amelynek során megállapítást nyert, hogy a külsőköltségdíjnak az ilyen összetételű közúthálózat más részein való alkalmazása káros hatással lehet a környezetre, a közegészségre vagy a közúti közlekedésbiztonságra.
+
+2026\. március 25-től, ha az útdíjköteles úthálózatának meghatározott szakaszaira nem kerül kivetésre külsőköltségdíj a levegőszennyezésért, ezeket a meghatározott szakaszokat szintén a fenti elemzés alapján kell kiválasztani.
+
+1.2. Az érintett járművek, utak és időszak
+
+Ha a 2. vagy a 3. pontban meghatározott referenciaértékeknél nagyobb összegű külsőköltségdíj kerül alkalmazásra, tájékoztatni kell a Bizottságot a járművek osztályozásáról, amely alapján a külsőköltségdíj összege különbözik. Adott esetben tájékoztatni kell a Bizottságot azon közutak elhelyezkedéséről, amelyekre nagyobb összegű külsőköltségdíj kerül alkalmazásra [a továbbiakban: külvárosi utak (beleértve az autópályákat is)], valamint azon közutak elhelyezkedéséről, amelyekre kisebb összegű külsőköltségdíj kerül alkalmazásra [a továbbiakban: településeket összekötő utak (beleértve az autópályákat is)].
+
+Szükség szerint tájékoztatni kell a Bizottságot azokról a pontos időszakokról is, amelyek az éjszakai időszaknak felelnek meg, és amelyekben a nagyobb zajterhelésre való tekintettel nagyobb összegű külsőzajköltségdíj vethető ki.
+
+A közutak külvárosi utakként (beleértve az autópályákat is) vagy településeket összekötő utakként (beleértve az autópályákat is) történő osztályozásának, valamint az egyes időszakok meghatározásának olyan objektív kritériumokon kell alapulnia, amelyek a közút és a közút környezete szennyezéssel szembeni kitettségének szintjével állnak összefüggésben, így például figyelembe kell venni a népsűrűséget, a levegőszennyezés (különösen a PM<sub>10</sub> és az NO<sub>2</sub>) éves mediánját, és (a PM<sub>10</sub> esetében) a napok és (az NO<sub>2</sub> esetében) az órák számát, amelyek alatt a szennyezés mértéke meghaladja a 2008/50/EK irányelvben meghatározott értékhatárokat. Az alkalmazott kritériumokat a tájékoztatásban meg kell jelölni.
+
+1.3. A díj összege
+
+Ezt az alpontot akkor kell alkalmazni, ha a 2. vagy a 3. pontban meghatározott referenciaértékeknél nagyobb összegű külsőköltségdíjak kerülnek alkalmazásra.
+
+Adott esetben a közlekedésért felelős miniszter vagy szükség esetén egy független hatóság minden egyes járműosztályra, közúttípusra és időszakra egy egységes egyedi összeget határoz meg. Az így létrejövő díjstruktúrának átláthatónak kell lennie, azt nyilvánosságra kell hozni, és valamennyi úthasználó számára azonos feltételekkel hozzáférhetővé kell tenni. Gondoskodni kell arról, hogy a közzétételre a végrehajtás időpontja előtt kellő időben sor kerüljön. Minden olyan paramétert, adatot és egyéb információt, amely a különböző külsőköltség-elemek kiszámításának megértéséhez szükséges, nyilvánosságra kell hozni.
+
+A díjak megállapítása során a közlekedésért felelős miniszter vagy adott esetben egy független hatóság a hatékony árképzés elvét követve jár el, vagyis olyan árakat alakít ki, amelyek a díjfizetésre kötelezett jármű használatából fakadó társadalmi költséget közelítik.
+
+A díjak megállapítása előtt vizsgálni kell a forgalom más útra terelődésének kockázatát is, valamint a közúti közlekedésbiztonságra, a környezetre és a forgalmi torlódásokra gyakorolt káros hatásokat, továbbá az említett kockázatok enyhítésének lehetőségeit is.
+
+A közlekedésért felelős miniszter vagy adott esetben egy független hatóság figyelemmel kíséri, hogy a díjmegállapítási rendszer mennyire hatékony a közúti közlekedésből eredő környezetkárosítás mérséklésében. A közlekedés iránti kínálat és kereslet változásainak függvényében szükség esetén kétévente kiigazítja a díjstruktúrát és az adott járműosztályra, úttípusra és időszakra vonatkozó díjtételek összegét.
+
+1.4. Külsőköltség-elemek
+
+1.4.1. A közlekedésnek tulajdonítható levegőszennyezés költsége
+
+Ha a 2. pontban meghatározott referenciaértékeknél nagyobb összegű külsőköltségdíj kerül alkalmazásra, akkor a közlekedésért felelős miniszter vagy adott esetben egy független hatóság a közlekedésnek tulajdonítható levegőszennyezés kivethető költségét a következő képlet szerint határozza meg:
+
+PCV<sub>ij</sub> = Σ<sub>k</sub> EF<sub>ik</sub> × PC<sub>jk</sub>
+
+ahol:
+
+a) PCV<sub>ij</sub> = az i járműosztály által a j úttípuson okozott levegőszennyezés költsége (EUR/járműkilométer),
+
+b) EF<sub>ik</sub> = az i járműosztály k szennyező anyagra vonatkozó kibocsátási tényezője (gramm/járműkilométer),
+
+c) PC<sub>jk</sub> = a j úttípus esetében a k szennyező anyag pénzben kifejezett költsége (EUR/gramm).
+
+Az (EU) 2016/2284 európai parlamenti és tanácsi irányelvben előírt nemzeti emissziókataszter összeállítása során az alkalmazott értékkel azonos értéken kell figyelembe venni (ehhez az EMEP/EEA által a légszennyező anyagok emissziókataszterének összeállításához kiadott útmutatót kell használni). A szennyező anyagok pénzben kifejezett költségét a közlekedésért felelős miniszter vagy az erre a feladatra jogszabályban kijelölt független hatóság becsüli meg tudományosan igazolt módszerek alkalmazásával.\
+A közlekedésért felelős miniszter vagy adott esetben egy független hatóság – a levegőszennyező anyagokra vonatkozó mérési adatok és a levegőszennyező anyagok pénzben kifejezett költségének helyileg érvényes értéke felhasználásával – tudományosan igazolt alternatív módszereket is alkalmazhat a levegőszennyezés költségének kiszámítása során.
+
+1.4.2. A közlekedésnek tulajdonítható zajártalom költsége
+
+Ha a 2. pontban meghatározott referenciaértékeknél nagyobb összegű külsőköltségdíjak kerülnek alkalmazásra, a közlekedésért felelős miniszter vagy adott esetben egy független hatóság a közlekedésnek tulajdonítható zajártalom kivethető költségét a következő képletek szerint határozza meg:
+
+NCV<sub>j</sub> (napi) = e × ∑<sub>k</sub> NC<sub>jk</sub> × POP<sub>k</sub>/WADT
+
+NCV<sub>j</sub> (nappal) = a × NCV<sub>j</sub>
+
+NCV<sub>j</sub> (éjszaka) = b × NCV<sub>j</sub>
+
+ahol:
+
+a) NCV<sub>j</sub> = a j úttípuson egy nehéz tehergépjármű által okozott zajártalom költsége (EUR/járműkilométer),
+
+b) NC<sub>jk</sub> = a j úttípuson a k zajszint által okozott zajártalom lakosonkénti költsége (EUR/fő),
+
+c) POP<sub>k</sub> = a k napi zajszintnek kitett lakosok kilométerenkénti száma (fő/kilométer),
+
+d) WADT = a súlyozott átlagos napi forgalom (személygépkocsi-egyenérték),
+
+e) a és b = oly módon meghatározott súlyozó tényező, hogy az eredményként kapott, járműkilométerenkénti súlyozott átlagos zajártalmi díj egyezzen az NCV<sub>j</sub> (napi) értékével.
+
+A közlekedésnek tulajdonítható zajártalom a zajnak a közút környezetében lévő polgárok egészségére gyakorolt hatására vonatkozik.\
+A k zajszintnek kitett lakosok számát a 2002/49/EK európai parlamenti és tanácsi irányelv 7. cikke alapján elkészített stratégiai zajtérképekből vagy más egyenértékű adatforrásokból kell átvenni.\
+A k zajszintnek kitett személyekre jutó fejenkénti költséget a közlekedésért felelős miniszter vagy adott esetben független hatóság becsüli meg tudományosan igazolt módszerek alkalmazásával.\
+A súlyozott átlagos napi forgalom meghatározása során a nehéz tehergépjárművek és a személygépkocsik közötti „e” ekvivalenciafaktor alkalmazandó, amelyet az átlagos személygépkocsi és az átlagos nehéz tehergépjármű zajkibocsátási szintje alapján, valamint a gépjárművek zajszintjéről és a csere-hangtompítórendszerekről és az 540/2014/EU európai parlamenti és tanácsi rendelet figyelembevételével állapítanak meg.\
+A közlekedésért felelős miniszter vagy adott esetben egy független hatóság a kevésbé zajos járművek használatának ösztönzése érdekében differenciált zajártalmi díjakat állapíthat meg, feltéve, hogy ez nem vezet a külföldi járművek hátrányos megkülönböztetéséhez.
+
+1.4.3. A közlekedésnek tulajdonítható szén-dioxid-kibocsátás költsége
+
+Amennyiben a 3. pontban meghatározott referenciaértékeket meghaladó szén-dioxid-kibocsátásra külsőköltségdíj kerül alkalmazásra, a közlekedésért felelős miniszter vagy adott esetben egy független hatóság tudományos bizonyítékok alapján, a költségek elkerülését célzó megközelítés alkalmazásával számítja ki a kivethető költséget, figyelembe véve és kifejtve különösen a következő szempontokat:
+
+a) a kibocsátási célérték megválasztása;
+
+b) a kibocsátásmérséklési lehetőségekre vonatkozó becslés;
+
+c) alapkibocsátásokra vonatkozó becslés;
+
+d) kockázat- és veszteségkerülés;
+
+e) részvények súlyozása.
+
+A szén-dioxid-kibocsátásra kivetett külsőköltségdíj bevezetése előtt legalább hat hónappal értesíteni kell a Bizottságot.
+
+<table><thead><tr><th colspan="4">**Az útdíjköteles gépjárművekre vonatkozó külsőköltségdíjak referenciaértékei** **(eurocent/járműkilométer)**</th></tr><tr><th>**Járműosztály**</th><th>**Környezetvédelmi besorolás**</th><th>**Külvárosi utak**[^142]</th><th>**Településeket összekötő utak**[^143]</th></tr></thead><tbody><tr><td rowspan="8">Két tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>18,6</td><td>9,9</td></tr><tr><td>Euro I</td><td>12,6</td><td>6,4</td></tr><tr><td>Euro II</td><td>12,5</td><td>6,3</td></tr><tr><td>Euro III</td><td>9,6</td><td>4,8</td></tr><tr><td>Euro IV</td><td>7,3</td><td>3,4</td></tr><tr><td>Euro V</td><td>4,4</td><td>1,8</td></tr><tr><td>Euro VI</td><td>2,3</td><td>0,5</td></tr><tr><td>Euro VI-nál kevésbé szennyező, és kibocsátásmentes járművek</td><td>2,0</td><td>0,3</td></tr><tr><td rowspan="8">Három tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>24,6</td><td>13,7</td></tr><tr><td>Euro I</td><td>15,8</td><td>8,4</td></tr><tr><td>Euro II</td><td>15,8</td><td>8,4</td></tr><tr><td>Euro III</td><td>12,5</td><td>6,6</td></tr><tr><td>Euro IV</td><td>9,2</td><td>4,5</td></tr><tr><td>Euro V</td><td>5,6</td><td>2,7</td></tr><tr><td>Euro VI</td><td>2,8</td><td>0,7</td></tr><tr><td>Euro VI-nál kevésbé szennyező, és kibocsátásmentes járművek</td><td>2,3</td><td>0,3</td></tr><tr><td rowspan="8">Négy tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>27,8</td><td>15,8</td></tr><tr><td>Euro I</td><td>20,4</td><td>11,3</td></tr><tr><td>Euro II</td><td>20,4</td><td>11,2</td></tr><tr><td>Euro III</td><td>16,3</td><td>8,9</td></tr><tr><td>Euro IV</td><td>11,8</td><td>6,0</td></tr><tr><td>Euro V</td><td>6,6</td><td>3,4</td></tr><tr><td>Euro VI</td><td>3,1</td><td>0,8</td></tr><tr><td>Euro VI-nál kevésbé szennyező, és kibocsátásmentes járművek</td><td>2,5</td><td>0,3</td></tr><tr><td rowspan="8">5 vagy több tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>33,5</td><td>19,4</td></tr><tr><td>Euro I</td><td>25,0</td><td>14,1</td></tr><tr><td>Euro II</td><td>24,9</td><td>13,9</td></tr><tr><td>Euro III</td><td>20,1</td><td>11,1</td></tr><tr><td>Euro IV</td><td>14,2</td><td>7,5</td></tr><tr><td>Euro V</td><td>7,6</td><td>3,8</td></tr><tr><td>Euro VI</td><td>3,4</td><td>0,8</td></tr><tr><td>Euro VI-nál kevésbé szennyező, és kibocsátásmentes járművek</td><td>2,8</td><td>0,3</td></tr></tbody></table>
+
+A táblázatban található értékek hegyvidéki területeken és agglomerációk körül – az elszórt lakosság, az utak meredeksége, a tengerszint feletti magasság vagy a hőmérsékleti inverzió által indokolt mértékben – legfeljebb kétszeres szorzóval kiigazíthatók. Ha van tudományos bizonyíték a hegyvidéki területtel vagy agglomerációval összefüggő magasabb szorzóra, ez a referenciaérték részletes indokolás alapján növelhető.
+
+<table><thead><tr><th colspan="3">**Az útdíjköteles gépjárművekre vonatkozó, a szén-dioxid-kibocsátásokkal összefüggő külsőköltségdíjak referenciaértékei**</th></tr><tr><th>**Járműosztály**</th><th>**Környezetvédelmi besorolás**</th><th>**eurocent/járműkilométer**</th></tr></thead><tbody><tr><td rowspan="4">Két tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>4,5</td></tr><tr><td>Euro I<br>Euro II<br>Euro III<br>Euro IV<br>Euro V<br>Euro VI</td><td>4,0</td></tr><tr><td>alacsony kibocsátású jármű</td><td>2,0</td></tr><tr><td>kibocsátásmentes jármű</td><td>0</td></tr><tr><td rowspan="5">Három tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>6,0</td></tr><tr><td>Euro I<br>Euro II<br>Euro III</td><td>5,2</td></tr><tr><td>Euro IV<br>Euro V<br>Euro VI</td><td>5,0</td></tr><tr><td>alacsony kibocsátású jármű</td><td>2,5</td></tr><tr><td>kibocsátásmentes jármű</td><td>0</td></tr><tr><td rowspan="5">Négy tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>7,9</td></tr><tr><td>Euro I<br>Euro II<br>Euro III</td><td>6,9</td></tr><tr><td>Euro IV<br>Euro V<br>Euro VI</td><td>6,7</td></tr><tr><td>alacsony kibocsátású jármű</td><td>3,4</td></tr><tr><td>kibocsátásmentes jármű</td><td>0</td></tr><tr><td rowspan="5">5 vagy több tengellyel rendelkező útdíjköteles gépjárművek</td><td>Euro 0</td><td>9,1</td></tr><tr><td>Euro I<br>Euro II<br>Euro III</td><td>8,1</td></tr><tr><td>Euro IV<br>Euro V<br>Euro VI</td><td>8,0</td></tr><tr><td>alacsony kibocsátású jármű</td><td>4,0</td></tr><tr><td>kibocsátásmentes jármű</td><td>0</td></tr></tbody></table>
+
+## 3. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^144]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés a) pontja, az 579/2022. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés záró szövegrésze a 67/2022. (II. 28.) Korm. rendelet 10. § a) pontja, a 181/2025. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja a 336/2023. (VII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés d) pontját a 336/2023. (VII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § (2) bekezdését a 336/2023. (VII. 24.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte, újonnan a 44/2024. (II. 29.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A 2/A. alcímet (2/A. §-t) a 490/2023. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 3. alcím (3-3/A. §) a 336/2023. (VII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § a 196/2024. (VII. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdése az 579/2022. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (2) bekezdése a 490/2013. (XII. 18.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés b) pontja, a 67/2022. (II. 28.) Korm. rendelet 10. § b) pontja, az 579/2022. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (2a) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 181/2025. (VI. 30.) Korm. rendelet 3. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 4. § (2b) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 181/2025. (VI. 30.) Korm. rendelet 3. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 4. § (3) bekezdése a 181/2025. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 4. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^16]: A 4. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 232. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan az 579/2022. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^17]: A 6. § a 67/2022. (II. 28.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^19]: A 8. § (1a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^20]: A 8. § (1b) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^21]: A 8. § (1c) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^22]: A 8. § (1d) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 402/2025. (XII. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (1e) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^24]: A 8. § (2) bekezdés a) pontja a 67/2022. (II. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^25]: A 8. § (2) bekezdés g) pontja a 67/2022. (II. 28.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^26]: A 8. § (2) bekezdés h) pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^27]: A 8. § (2) bekezdés i) pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 150/2024. (VI. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^28]: A 8. § (2) bekezdés j) pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 150/2024. (VI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^29]: A 8. § (2) bekezdés k) pontját a 150/2024. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 402/2025. (XII. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^30]: A 8. § (2) bekezdés l) pontját a 402/2025. (XII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^31]: A 8. § (2a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 150/2024. (VI. 28.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^32]: A 8. § (2b) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A 8. § (2c) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^34]: A 8. § (3) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^35]: A 9. § (6) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^36]: A 9/A. §-t a 466/2020. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A 9/A. § (1) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^38]: A 9/A. § (1a) bekezdését a 336/2023. (VII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^39]: A 9/A. § (2) bekezdése a 361/2022. (IX. 19.) Korm. rendelet 3. § b) pontja és 2. §-a, a 336/2023. (VII. 24.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A 9/A. § (3) bekezdése a 361/2022. (IX. 19.) Korm. rendelet 3. § b) pontja és 2. §-a, a 336/2023. (VII. 24.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^41]: A 10. § (1a) bekezdését a 361/2014. (XII. 30.) Korm. rendelet 6. §-a iktatta be, a 67/2022. (II. 28.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^42]: A 10. § (2) bekezdése a 402/2025. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^43]: A 10. § (2a) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^44]: A 10. § (2b) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^45]: A 10. § (3) bekezdés b) pontja a 181/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^46]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^47]: A 10. § (4) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 118. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^48]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^49]: A 10. § (4) bekezdés c) pontja a 181/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^50]: A 10. § (8) bekezdését a 342/2025. (X. 31.) Korm. rendelet 25. §-a iktatta be.
+[^51]: A 10. § (9) bekezdését a 342/2025. (X. 31.) Korm. rendelet 25. §-a iktatta be.
+[^52]: A 11. § (2) bekezdése a 150/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^53]: A 11. § (3) bekezdés b) pontját a 422/2015. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^54]: A 11. § (3a) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^55]: A 11. § (3b) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A 12. § (2) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^57]: A 12. § (2) bekezdés a) pontja a 150/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^58]: A 12. § (2) bekezdés b) pontja a 402/2025. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^59]: A 12. § (2a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (8) bekezdése iktatta be.
+[^60]: A 12. § (2b) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (8) bekezdése iktatta be, szövege a 402/2025. (XII. 16.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^61]: A 12. § (2c) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 29. §-a iktatta be.
+[^62]: A 12. § (2d) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 29. §-a iktatta be.
+[^63]: A 12. § (3) bekezdése a 402/2025. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^64]: A 12/A. §-t a 67/2022. (II. 28.) Korm. rendelet 9. § (9) bekezdése iktatta be.
+[^65]: A 12/A. § (2) bekezdése a 402/2025. (XII. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^66]: A 12/A. § (2a) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^67]: A 12/A. § (2b) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^68]: A 12/A. § (2c) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^69]: A 12/A. § (3) bekezdése a 150/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^70]: A 13. § (2) bekezdése a 402/2025. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^71]: A 13. § (3) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^72]: A 14. § a 67/2022. (II. 28.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.
+[^73]: A 15. § a 386/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^74]: A 15. § (1a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (11) bekezdése iktatta be.
+[^75]: A 9. alcímet (16. §-t) a 490/2023. (XI. 2.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^76]: A 9/A. alcímet (16/A–16/C. §-t) a 490/2023. (XI. 2.) Korm. rendelet 3. §-a iktatta be, a 181/2025. (VI. 30.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^77]: A 10. alcímet (17–19. §-t) a 402/2025. (XII. 16.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^78]: A 10/A. alcímet (19/A. §-t) a 181/2025. (VI. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, a 181/2025. (VI. 30.) Korm. rendelet 3. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^79]: A 20/A. §-t a 402/2025. (XII. 16.) Korm. rendelet 6. §-a iktatta be.
+[^80]: A 21. § (2) bekezdését a 67/2022. (II. 28.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^81]: A 22. § (3) bekezdés b) pontja a 490/2023. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^82]: A 22. § (3) bekezdés n) pontját a 490/2023. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^83]: A 23. § (1a) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A 23. § (1b) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^85]: A 23. § (3) bekezdését a 490/2023. (XI. 2.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^86]: A 23/A. §-t a 490/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^87]: A 23/A. § (3) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 402/2025. (XII. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^88]: A 24. § (2) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^89]: A 24. § (3) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^90]: A 24. § (4) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 77/2026. (III. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^91]: A 24. § (5) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^92]: A 24. § (6) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^93]: A 28. § (1) bekezdés b) pontját a 490/2023. (XI. 2.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
+[^94]: A 28. § (1) bekezdés c) pontja a 490/2023. (XI. 2.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^95]: A 28. § (1) bekezdés d) pontját a 490/2023. (XI. 2.) Korm. rendelet 11. § f) pontja hatályon kívül helyezte.
+[^96]: A 28. § (1) bekezdés f) pontja a 490/2023. (XI. 2.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^97]: A 28. § (1) bekezdés g) pontját a 490/2023. (XI. 2.) Korm. rendelet 11. § f) pontja hatályon kívül helyezte.
+[^98]: A 28. § (2) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^99]: A 28. § (3) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^100]: A 28. § (5) bekezdését a 490/2023. (XI. 2.) Korm. rendelet 11. § i) pontja hatályon kívül helyezte.
+[^101]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, az alcím címet újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
+[^102]: A 29. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
+[^103]: A 30. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, újonnan a 490/2023. (XI. 2.) Korm. rendelet 8. §-a iktatta be.
+[^104]: A 32. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés f) pontja, a 67/2022. (II. 28.) Korm. rendelet 10. § d) pontja, a 336/2023. (VII. 24.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^105]: A 32. § (6) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^106]: A 32. § (7) bekezdése a 336/2023. (VII. 24.) Korm. rendelet 2. § c) pontja, a 336/2023. (VII. 24.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^107]: A 33. § (1) bekezdése a 336/2023. (VII. 24.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^108]: A 42. § (1) bekezdése a 336/2023. (VII. 24.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^109]: A 42. § (3) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^110]: A 43. § (1) bekezdés a) pontja a 67/2022. (II. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^111]: A 43. § (1) bekezdés d) pontja a 336/2023. (VII. 24.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^112]: A 44. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (1) bekezdésével megállapított, az 579/2022. (XII. 23.) Korm. rendelet 3. § b) pontja, a 490/2023. (XI. 2.) Korm. rendelet 10. § b) pontja és 11. § j) pontja szerint módosított szöveg.
+[^113]: A 44/B. §-t a 409/2023. (VIII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^114]: A 44/B. § (6) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^115]: A 44/B. § (7) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^116]: A 44/B. § (8) bekezdését a 150/2024. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^117]: A 44/B. § (9) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 8. §-a iktatta be.
+[^118]: A 44/B. § (10) bekezdését a 402/2025. (XII. 16.) Korm. rendelet 8. §-a iktatta be.
+[^119]: A 44/A. §-t a 336/2023. (VII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^120]: A 45. § (1) bekezdése a 336/2023. (VII. 24.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^121]: A 45. § (3) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (13) bekezdésével megállapított szöveg.
+[^122]: A 45. § (4) bekezdését a 67/2022. (II. 28.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^123]: A 45. § (5) bekezdése a 67/2022. (II. 28.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^124]: A 46. § a 490/2023. (XI. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^125]: A 46. § (6) bekezdését a 196/2024. (VII. 8.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^126]: A 46. § (7) bekezdését a 196/2024. (VII. 8.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^127]: A 46. § (8) bekezdését a 375/2025. (XI. 30.) Korm. rendelet 5. §-a iktatta be.
+[^128]: A 46. § (9) bekezdését a 375/2025. (XI. 30.) Korm. rendelet 5. §-a iktatta be.
+[^133]: Az 52. § (1) bekezdés 5. pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (15) bekezdése iktatta be.
+[^134]: Az 52. § (1) bekezdés 6. pontját a 336/2023. (VII. 24.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^135]: Az 52. § (2) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (16) bekezdésével megállapított szöveg.
+[^136]: Az 53. §-t a 336/2023. (VII. 24.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^137]: Az 1. melléklet a 336/2023. (VII. 24.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^138]: A járműosztály meghatározását a 4. pont tartalmazza.
+[^139]: Az egyes járműosztályok 5,5; 6,5; 7,5 és 8,5 tonnás tengelyterhelésnek felelnek meg.
+[^140]: A legutóbb a 2002/7/EK európai parlamenti és tanácsi irányelvvel (HL L 67., 2002.3.9., 47. o.) módosított, a Közösségen belül közlekedő egyes közúti járművek nemzeti és nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. július 25-i 96/53/EK tanácsi irányelv (HL L 235., 1996.9.17., 59. o.) II. mellékletének meghatározásával összhangban egyenértékűként elismert felfüggesztés.
+[^141]: A 2. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 1. § (8) bekezdése iktatta be.
+[^142]: A „külvárosi utak” a 150 és 900 fő/km2 népsűrűségű területeket jelöli (300 fő/km2 medián népsűrűség).
+[^143]: A „településeket összekötő utak” a 150 fő/km2-nél alacsonyabb népsűrűségű területeket jelöli.
+[^144]: A 3. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

@@ -1,0 +1,128 @@
+---
+title: "9/2013. (I. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött egyezmény kihirdetéséről"
+identifier: "9/2013. (I. 18.) Korm. rendelet"
+njt_id: "2013-9-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/9"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-01-18
+in_force_from: 2013-01-19
+last_amended: 2013-01-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-9-20-22"
+retrieved: 2026-10-12
+---
+
+# 9/2013. (I. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles angol nyelvű szövege és magyar nyelvű hivatalos fordítása a következő:
+
+A vietnami fél hiteles angol nyelvű jegyzéke a következő:
+
+„
+
+![](https://njt.jog.gov.hu/picture/68/688a2013_22__20000009A993_000_0.jpg)
+
+A magyar fél válaszjegyzékének hiteles angol nyelvű szövege a következő:
+
+The Ministry of Foreign Affairs of Hungary presents its compliments to the Embassy of the Socialist Republic of Viet Nam in Budapest and has the honor to state that the Hungarian Side agrees with the modifications proposed in the Note number 24/BNG-LPQT dated on 16 January 2013 sent by the Ministry of Foreign Affairs of the Socialist Republic of Viet Nam regarding the Agreement about the establisment of a framework programme for financial co-operation (further on Agreement), signed in Budapest, on 18 September 2009 between the Gorvernment of the Socialist Republic of Viet Nam and the Government of the Republic of Hungary as follows:
+
+„Ministry of Foreign Affairs
+
+Socialist Republic of Viet Nam
+
+The Ministry of Foreign Affairs of the Socialist Republic of Viet Nam presents its compliments to the Embassy of the Republic of Hungary in Ha Noi and has the honor to inform the latter as follows:
+
+The Government of the Socialist Republic of Viet Nam has the honor to propose that the Agreement between the Gorvernment of the Socialist Republic of Viet Nam and the Government of the Republic of Hungary, signed in Budapest, on 18 September 2009, is extended until 22 January 2014 and shall automatically renewed for 01 years up to 22 January 2015, unless either of the Parties informs the other of its intension to amend, supplement or terminate the Agreement.
+
+If the aforesaid proposal of the Government of the Socialist Republic of Viet Nam is acceptable to the Government of the Republic of Hungary, this Note and the Note of the Hungarian side in reply to that effect shall constitute an agreement between the Government of the Socialist Republic of Viet Nam and the Government of the Republic of Hungary on the extension of the above-mentioned Agreement.
+
+The Ministry of Foreign Affairs of the Socialist Republic of Viet Nam avails itself of this opportunity to renew to the Embassy of the Republic of Hungary in HA Noi the assurances of its highest consideration.
+
+Ha Noi, 16 January 2013”
+
+The Hungarian Side agrees that in accordance with the Article 11 of the Agreement, the Note of the Ministry of Foreign Affairs of the Socialist Republic of Viet Nam number 24/BNG-LPQT dated 16 January 2013 and the reply Note of the Hungarian Side to that effect shall constitute an agreement between the Government of the Socialist Republic of Viet Nam and the Government of Hungary on the extension of the above-mentioned Agreement. The present Agreement enters into force on the date of the reply Note of the Hungarian side.
+
+The Ministry of Foreign of Hungary avails itsself of this opportunity to renew to the Embassy of the Socialist Republic of Viet Nam in Budapest the assurances of its highest consideration.
+
+A Vietnami fél által küldött jegyzék hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+KÜLÜGYMINISZTÉRIUM
+
+VIETNÁMI SZOCIALISTA KÖZTÁRSASÁG
+
+— — — — — — — — — — — — — — — — —
+
+REFERENCIASZÁM: 24/BNG-LPQT
+
+A Vietnámi Szocialista Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Magyar Köztársaság Hanoi Nagykövetségének és van szerencséje a következőkről tájékoztatni:
+
+A Vietnámi Szocialista Köztársaság Kormánya tisztelettel javasolja, hogy a Vietnámi Szocialista Köztársaság és a Magyar Köztársaság között Budapesten, 2009. szeptember 18-án aláírt megállapodás meghosszabbításra kerüljön 2014. január 22-ig és további egy évvel automatikusan meghosszabbodjon 2015. január 22-ig, amennyiben egyik fél sem tájékoztatja a másik felet a megállapodás módosítására, kiegészítésére vagy megszüntetésére vonatkozó szándékáról.
+
+Amennyiben a Vietnámi Szocialista Köztársaság Kormányának fent említett javaslata elfogadható a Magyar Köztársaság Kormánya számára, jelen jegyzék és a magyar Fél válaszjegyzéke megállapodást képez a Vietnámi Szocialista Köztársaság Kormánya és a Magyar Köztársaság Kormánya között a fenti Megállapodás meghosszabbítására vonatkozóan.
+
+A Vietnámi Szocialista Köztársaság Külügyminisztériuma megragadja az alkalmat, hogy legnagyobb nagyrabecsüléséről biztosítsa a Magyar Köztársaság Hanoi Nagykövetségét.
+
+Hanoi, 2013. január 16.
+
+A Magyar Köztársaság Hanoi Nagykövetsége részére
+
+HANOI”
+
+A Magyar Fél a Vietnami Fél azonos tartalmú jegyzékére megküldött válaszjegyzékének hiteles magyar nyelvű szövege a következő:
+
+„Magyarország Külügyminisztériuma tiszteletét fejezi ki a Vietnami Szocialista Köztársaság budapesti nagykövetségének és van szerencséje a Vietnami Felet tájékoztatni arról, hogy a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodásban (a továbbiakban – Megállapodás) a Vietnami Fél által 2013. január 16-án kelt 24/BNG-LPQT számú jegyzékben javasolt módosításokkal egyetért a következők szerint:
+
+KÜLÜGYMINISZTÉRIUM
+
+VIETNÁMI SZOCIALISTA KÖZTÁRSASÁG
+
+— — — — — — — — — — — — — — — — —
+
+REFERENCIASZÁM: 24/BNG-LPQT
+
+A Vietnámi Szocialista Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Magyar Köztársaság Hanoi Nagykövetségének és van szerencséje a következőkről tájékoztatni:
+
+A Vietnámi Szocialista Köztársaság Kormánya tisztelettel javasolja, hogy a Vietnámi Szocialista Köztársaság és a Magyar Köztársaság között, Budapesten, 2009. szeptember 18-án aláírt megállapodás meghosszabbításra kerüljön 2014. január 22-ig és további egy évvel automatikusan meghosszabbodjon 2015. január 22-ig, amennyiben egyik fél sem tájékoztatja a másik felet a megállapodás módosítására, kiegészítésére vagy megszüntetésére vonatkozó szándékáról.
+
+Amennyiben a Vietnámi Szocialista Köztársaság Kormányának fent említett javaslata elfogadható a Magyar Köztársaság Kormánya számára, jelen jegyzék és a magyar Fél válaszjegyzéke megállapodást képez a Vietnámi Szocialista Köztársaság Kormánya és a Magyar Köztársaság Kormánya között a fenti Megállapodás meghosszabbítására vonatkozóan.
+
+A Vietnámi Szocialista Köztársaság Külügyminisztériuma megragadja az alkalmat, hogy legnagyobb nagyrabecsüléséről biztosítsa a Magyar Köztársaság Hanoi Nagykövetségét.
+
+Hanoi, 2013. január 16.”
+
+A Magyar Fél egyetért azzal, hogy a 2009. évi Megállapodás 11. cikkével összhangban a Vietnami Szocialista Köztársaság Külügyminisztériumának 2013. január 16-án kelt 24/BNG-LPQT számú jegyzéke jelen válaszjegyzékkel Megállapodást képeznek a Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról. Jelen Megállapodás a Magyar Fél válaszjegyzéke keltének napján lép hatályba.
+
+Magyarország Külügyminisztériuma megragadja az alkalmat, hogy ismételten tiszteletéről és legmélyebb nagyrabecsüléséről biztosítsa a Vietnami Szocialista Köztársaság budapesti nagykövetségét.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+(5) A Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2009. szeptember 18-án Budapesten létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás – az Egyezményben foglalt módosításokkal – egységes szerkezetbe foglalt hiteles magyar nyelvű szövegének az Egyezmény hatálybalépését követő haladéktalan közzétételéről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba. Az 5/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2013. január 21.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba. Az 5/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2013. január 21.
+[^3]: Az 5/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2013. január 21.
+[^4]: Lásd az 5/2013. (I. 21.) KüM közleményt.

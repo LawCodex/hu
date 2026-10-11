@@ -1,0 +1,906 @@
+---
+title: "13/2011. (II. 22.) Korm. rendelet a kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről"
+identifier: "13/2011. (II. 22.) Korm. rendelet"
+njt_id: "2011-13-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/13"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-02-22
+in_force_from: 2011-03-09
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-13-20-22"
+retrieved: 2026-10-12
+---
+
+# 13/2011. (II. 22.) Korm. rendelet a kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről
+
+A Kormány az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/E. § (1) és (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1) E rendelet hatálya kiterjed:
+
+a)[^1] az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó kettős felhasználású termékek kivitelére és az Európai Unión belüli transzferjére;
+
+b)[^2] az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó kettős felhasználású termékekkel végzett brókerügyletre;
+
+c)[^3] az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó kettős felhasználású termékeknek az Európai Unió vámterületén keresztül történő tranzitjára;
+
+d)[^4] az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó kettős felhasználású termékeknek az Európai Unión kívüli országokból Magyarország területére történő behozatalára, továbbá bármely egyéb kettős felhasználású termék behozatalára, amennyiben az exportáló ország illetékes hatósága a kivitel jóváhagyásának feltételeként az állam hivatalos garanciavállalását (Nemzetközi importigazolás) igényli, és
+
+e)[^5] a nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termékek kivitelére.
+
+(2)[^6] E rendelet együttesen alkalmazandó a 428/2009/EK tanácsi rendelettel.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában
+
+1\. *Behozatal:*
+
+a)[^7] olyan kereskedelmi ügylet, amelynek során az Európai Unió vámterületén kívüli területről nem uniós árut hoznak be Magyarország területére, ideértve a vámszabad területre, a tranzitterületre történő behozatalt is;
+
+b)[^8] az Európai Unió vámterületén kívüli területről az Uniós Vámkódex létrehozásáról szóló 952/2013/EU rendelet 201. cikk c) pontjában foglalt ideiglenes behozatalra kerülő áru, valamint a 210. cikk *d)* pontjában foglalt aktív feldolgozásra kerülő áru, a 210. cikk *d)* pontjában foglaltak szerint passzív feldolgozásra kivitt áru visszahozatala, valamint a 203. cikkében meghatározott tértiáru behozatala, vagy
+
+c)[^9] szoftver vagy technológia átvétele elektronikus eszközök, telefax vagy telefon útján az Európai Unió vámterületén kívülről Magyarország területére.
+
+2.[^10] *Behozatali vám-árunyilatkozat:* az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 5. cikk 12. pontja szerinti árunyilatkozat, amelyben egy személy a vámjogszabályokban meghatározott formában és módon kinyilvánítja szándékát, hogy kettős felhasználású terméket kíván behozatali vámeljárás alá vonni.
+
+3.[^11] *Címzett:* az a személy, aki a kereskedelmi ügylet jellegétől függetlenül a kettős felhasználású terméket az országba behozza vagy beviszi, vagy akinek a kettős felhasználású terméket ténylegesen elküldik, és rendelkezési joga van a termék felett.
+
+4.[^12] *Ellenőrzési jegyzékszám:* az (EU) 2021/821 európai parlamenti és tanácsi rendeletI. mellékletében felsorolt kettős felhasználású termékhez rendelt kódszám.
+
+5.[^13] *Importőr:* aki a 2. § 1. pont a) és b) alpontja szerinti esetekben az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 5. cikk 35. pontja alapján a vonatkozó vámeljárás jogosultjának minősül.
+
+6\. *Külkereskedelmi forgalom:* a vállalkozás külkereskedelmi ügyletének eredménye.
+
+7\. *Műszaki támogatás:* a javításhoz, fejlesztéshez, gyártáshoz, összeszereléshez, teszteléshez, karbantartáshoz és minden egyéb műszaki szolgáltatáshoz kapcsolódó műszaki tevékenység, amely lehet betanítás, képzés, munkatapasztalatok vagy készségek átadása vagy konzultációs szolgáltatások nyújtása és magukban foglalják a támogatás szóbeli formáit.
+
+8.[^14] *Nemzeti Általános Exportengedély:* az (EU) 2021/821 európai parlamenti és tanácsi rendelet 2. cikk 16. pontja szerint, meghatározott termékre és meghatározott célországra (célországokra) kiadott exportengedély, mely alapján az exportőr az abban foglaltak szerint, külön engedélyezési eljárás lefolytatása nélkül folytathat külkereskedelmi tevékenységet.
+
+9.[^15] *Nemzetközi non-proliferációs kötelezettség:* az Ausztrália Csoport, a Rakétatechnológia Ellenőrzési Rendszer, a Nukleáris Szállítók Csoportja, a Wassenaari Megállapodás, a Zangger-bizottság, valamint az 1997. évi CIV. törvénnyel kihirdetett, a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény (a továbbiakban: Vegyifegyver Tilalmi Egyezmény), az 1970. évi 12. törvényerejű rendelettel kihirdetett, az Egyesült Nemzetek Szervezete Közgyűlésének XXII. ülésszakán, 1968. június 12-én elhatározott, a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés, az 1975. évi 11. törvényerejű rendelettel kihirdetett, a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló, az Egyesült Nemzetek Szervezete XXVI. ülésszakán, 1971. december 10-én elfogadott egyezmény (a továbbiakban: Biológiai- és Toxin-fegyver Tilalmi Egyezmény).
+
+9a.[^16] *Nemzetközi szankció:* az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott kereskedelmi szankció.
+
+9b.[^17] *Nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék:* az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott nemzetközi szankcióban elrendelt kiviteli korlátozás alá eső kettős felhasználású és nem kettős felhasználású termék.
+
+10.[^18] *Nukleáris kettős felhasználású termék:* az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. melléklete „1–9 kategóriáiban” felsorolt a ..200-..299 végződésű sorszámok alatt szereplő termék.
+
+10a.[^19] *Nukleáris termék:* az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. melléklet „0. kategóriájában” szereplő termék.
+
+11\. *Szolgáltatás:* minden olyan műszaki támogató tevékenység, amely a kettős felhasználású termék javításával, fejlesztésével, gyártásával, összeszerelésével, minőségi vizsgálatával, üzemeltetésével, karbantartásával vagy bármely más műszaki szolgáltatással kapcsolatos.
+
+12.[^20] *Transzfer:* az (EU) 2021/821 európai parlamenti és tanácsi rendeletIV. mellékletében felsorolt kettős felhasználású terméknek az Európai Unió vámterületén belüli átadása.
+
+13\. *Vállalkozás:* az olyan jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, továbbá az egyéni vállalkozó; az állam, a helyi önkormányzat, a költségvetési szerv, az egyesület, a köztestület, valamint az alapítvány.
+
+14\. *Végfelhasználó:* az a személy, aki e rendelet hatálya alá tartozó ügylet eredményeképpen a kettős felhasználású terméket ténylegesen használja.
+
+15\. *Végfelhasználói Nyilatkozat:* az a nyilatkozat, amelyet a végfelhasználó, címzett tesz, és amelyben vállalja, hogy a kettős felhasználású terméket kizárólag a nyilatkozatban megjelölt feltételekkel és módon fogja felhasználni.
+
+### 3. Nyilvántartásra vonatkozó szabályok
+
+#### 3. §
+
+(1)[^21] E rendelet hatálya alá tartozó tevékenységet – ide nem értve az 1. § (1) bekezdés e) pontja szerinti tevékenységet – csak az végezhet, akit a nemzeti külkereskedelmi államigazgatási feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/A. és 140/B. §-a szerinti nyilvántartásba vett.
+
+(2) A nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania
+
+a)[^22] az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 25. §-ában meghatározott vámazonosító számát (a továbbiakban: EORI szám);
+
+b)[^23] a személyét hitelesen azonosító iratot: alapító okiratot vagy személyazonosító igazolványt vagy ezen iratok valamelyikének hiteles másolatát;
+
+c)[^24] – a (4a) bekezdés kivételével – a részéről kötelezettségvállalásra jogosult személy aláírásának hitelességét tanúsító iratot: közjegyzői aláírás-hitelesítéssel ellátott címpéldány, személyazonosító igazolvány másolatát, és
+
+d) az adóazonosító számát.
+
+(3)[^25] Az 1. § (1) bekezdés a) és b) pontja szerinti tevékenységekhez, az Európai Unión belüli transzfert kivéve, a (2) bekezdésben foglaltakon túl a nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania nem természetes személy esetében a törvényes képviselője által kijelölt exportellenőrzésért felelős vezető kijelöléséről szóló, illetve a Kormányhivatallal való kapcsolattartásra felhatalmazott személy kijelöléséről szóló, képviseleti jogosultságát igazoló iratot.
+
+(4)[^26]
+
+(4a)[^27] Ha a kérelmező cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Kormányhivatal az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+#### 4. §
+
+(1)[^28] A nyilvántartásba vett kérelmező a nyilvántartási adatokban bekövetkezett változást nyolc napon belül köteles bejelenteni a Kormányhivatalnak.
+
+(2)[^29] A Kormányhivatal törli a nyilvántartásból azt, aki
+
+a) öt naptári éven keresztül nem végez az e rendelet hatálya alá tartozó tevékenységet,
+
+b) az (1) bekezdésben meghatározott adatváltozási bejelentési kötelezettségének a Kormányhivatal felhívására sem tesz eleget, vagy
+
+c) a 10. § (5) bekezdésében vagy a 13. § (4) bekezdésében foglalt adatszolgáltatási kötelezettségének két egymást követő alkalommal nem tesz eleget.
+
+### 4. Közös eljárási szabályok
+
+#### 5. §
+
+(1)[^30] A kérelmeket a Kormányhivatal honlapján közzétett formanyomtatványok kitöltésével a Kormányhivatalhoz kell benyújtani.
+
+(2)[^31] A benyújtott kérelmekben, valamint az azokhoz csatolt okmányokban foglalt valamennyi adat valódiságáért, a kettős felhasználású termék ellenőrzési jegyzékszámának és a kérelemmel, valamint az ügylet körülményeivel kapcsolatos minden releváns információ megadásáért a kérelmező felel.
+
+(3)[^32] Az e rendelet hatálya alá tartozó ügyletekkel kapcsolatos, az (EU) 2021/821 európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdése szerinti okmányokat az ügyfélnek az adott ügylet lebonyolítási év utolsó napjától számított öt évig kell megőriznie és hatósági ellenőrzés során kérésre bemutatnia.
+
+(4)[^33] Az 1. § (1) bekezdésében meghatározott ügyletekkel összefüggő vámeljárásban, a kérelmezőnek az egységes vám-árunyilatkozat 44. rovatában fel kell tüntetnie az engedély vagy a Nemzetközi importigazolás számát, Uniós Általános Exportengedély használata esetén annak azonosító számát. Az egységes vám-árunyilatkozat 31. rovatában a kérelmezőnek az engedélyen vagy a Nemzetközi importigazoláson szereplő árumegnevezést, ellenőrzési jegyzékszámot, vegyi anyagok esetében a vegyületet egyedileg azonosító számot (a továbbiakban: CAS szám) is fel kell tüntetnie.
+
+(5)[^34] Az e rendelet szerinti eljárásokban az iratok az ügyfél nyilatkozatával nem pótolhatóak.
+
+(6)[^35] Az e rendelet szerinti engedélyezési eljárásokban az ügyintézési határidő 45 nap.
+
+(7)[^36] A vállalkozás az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó terméknek az Európai Unión belüli átadása esetén köteles feltüntetni az áruhoz kapcsolódó szerződésen, számlákon és fuvarokmányokon a kettős felhasználású termék exportellenőrzési jegyzékszámát, valamint azt a tényt, hogy a termék kivitele exportengedély-köteles.
+
+## II. Fejezet — A KETTŐS FELHASZNÁLÁSÚ TERMÉKEK KIVITELÉNEK, TRANSZFERJÉNEK, TRANZITJÁNAK ÉS A BRÓKERÜGYLET ENGEDÉLYEZÉSE, VALAMINT A TECHNIKAI SEGÍTSÉGNYÚJTÁS VÉGZÉSÉNEK ENGEDÉLYEZÉSE[^37]
+
+### 5.[^38] A kettős felhasználású termékek külkereskedelmére kiadható engedélyek
+
+#### 6. §
+
+Az export, a transzfer- és a tranzitengedélyek iránti kérelmet az 1. melléklet A) részében meghatározott tartalommal, a brókerügyleti engedély iránti kérelmet az 1. melléklet B) részében meghatározott tartalommal, a technikai segítségnyújtásra vonatkozó engedély iránti kérelmet az 1. melléklet C) részében meghatározott tartalommal kell a Kormányhivatalhoz benyújtani.
+
+#### 7. §
+
+Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdésén túl engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékek kivitele akkor is, ha az exportőr alappal feltételezheti, hogy ezt a terméket részben vagy egészben az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett célra szánják vagy szánhatják.
+
+#### 8. §
+
+Az (EU) 2021/821 rendelet 5. cikk (1) és (2) bekezdésén túl engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt „kibertér-megfigyelésre alkalmas termékek” kivitele akkor is, ha az exportőr alappal feltételezheti, hogy ezt a terméket részben vagy egészben az (EU) 2021/821 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdésében említett célra szánják vagy szánhatják.
+
+#### 8/A. §
+
+Engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékek kivitele akkor is, ha a kivitel engedélyezés alá vonását közbiztonsági – a terrorcselekmények megelőzését is beleértve – vagy emberi jogi szempontok indokolják.
+
+### 6. Egyedi Exportengedély
+
+#### 9. §
+
+(1)[^39] A 428/2009/EK tanácsi rendelet I. mellékletében felsorolt kettős felhasználású termék kiviteléhez egy exportőrre, valamint egy címzettre és egy végfelhasználóra hatályos Egyedi Exportengedély szükséges.
+
+(2) Az Egyedi Exportengedély egy évig hatályos és a lejárta előtt legalább harminc nappal benyújtott hosszabbítás iránti kérelemre, egy alkalommal, legfeljebb egy évvel meghosszabbítható.
+
+(3) A kérelemhez csatolni kell a végfelhasználó, a címzett cégjegyzésre jogosult képviselője által hitelesített Végfelhasználói Nyilatkozatot, melynek tartalmaznia kell:
+
+a) a végfelhasználó, a címzett pontos megnevezését, a székhely és a tevékenysége pontos meghatározását;
+
+b) az importált termék leírását, mennyiségét és értékét;
+
+c) a termék felhasználásának egyértelmű meghatározását és pontos rendeltetési helyét, és
+
+d) a kifejezett kötelezettségvállalást arról, hogy az importált termék a fuvarozás során nem kerül reexportálásra, átadásra vagy út közbeni eltérítésre.
+
+(4)[^40] A Kormányhivatal az exportőrtől kérhet Nemzetközi Importigazolást vagy a címzett, végfelhasználó megfelelő külföldi szervezete vagy a magyar külképviselet által érvényesített Végfelhasználói Nyilatkozatot vagy a végfelhasználást igazoló más dokumentumot.
+
+### 7. Globális Exportengedély
+
+#### 10. §
+
+(1)[^41] A 428/2009/EK tanácsi rendelet I. mellékletében felsorolt kettős felhasználású termékek kiviteléhez egy exportőrre és egy vagy több meghatározott rendeltetési országra hatályos Globális Exportengedély adható ki.
+
+(2) A Globális Exportengedély legfeljebb három évre adható és a lejárta előtt legalább harminc nappal benyújtott hosszabbítás iránti kérelemre, egy alkalommal, legfeljebb egy évvel meghosszabbítható.
+
+(2a)[^42] A Kormányhivatal az exportőrtől a 9. § (4) bekezdésében meghatározott dokumentumot kérhet.
+
+(3)[^43] Globális Exportengedély Belső Megfelelési Programmal rendelkező kérelmező részére adható, a Belső Megfelelési Programot legkésőbb a Globális Exportengedély kérelmezésekor be kell nyújtani a Kormányhivatalnak.
+
+(4) Az exportőr kérelméhez csatolni kell a cégjegyzésre jogosult személy azon nyilatkozatát, amelyben kötelezettséget vállal valamennyi exportügylet tekintetében az alábbi feltételek betartására:
+
+a) az engedélyt kizárólag az abban megjelölt kettős felhasználású termékekre és rendeltetési országokra használja fel;
+
+b) a számlákon és a szállítási okmányokon feltünteti a Globális Exportengedély azonosító adatait: engedélyszámot és hatályossági dátumot;
+
+c)[^44]
+
+(5)[^45] A globális exportengedélyek alapján lebonyolított ügyletekről – ha a globális exportengedélyről szóló határozat másképpen nem rendelkezik – az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Kormányhivatalnak, mely összesítés tartalmazza:
+
+a) az értékesített termék megnevezését, mennyiségét és értékét;
+
+b) a termék ellenőrzési jegyzékszámát;
+
+c) a kapcsolódó vámtarifa besorolást;
+
+d) a rendeltetési országot;
+
+e) a címzett, a végfelhasználó részletes adatait;
+
+f) az értékesítés dátumát; és
+
+g) a kivitel ideiglenes vagy végleges jellegét.
+
+(6)[^46] A (3) bekezdés, valamint az (EU) 2021/821 európai parlamenti és tanácsi rendelet 2. cikk 21. pontja szerinti Belső Megfelelési Program az (EU) 2021/821 európai parlamenti és tanácsi rendelet 27. cikk (1) és (2) bekezdésében foglaltakon túlmenően
+
+a) szabályozza az e rendelet hatálya alá eső tevékenységben részt vevő személyek feladatkörét és felelősségét,
+
+b)[^47] szabályozza az (EU) 2021/821 európai parlamenti és tanácsi rendelet és az e rendelet előírásainak vállalkozáson belüli betartatásának szabályait, valamint tartalmazza az exportügyletekre alkalmazott kockázatkezelés módját,
+
+c) intézkedési tervben rendelkezik az esetleges jogsértés következményeinek felszámolásáról.
+
+### 8. Nemzeti Általános Exportengedély
+
+#### 11. §
+
+(1)[^48] A Nemzeti Általános Exportengedély olyan az (EU) 2021/821 európai parlamenti és tanácsi rendeletI. mellékletében felsorolt – a II. melléklet 2. részében részletezettek kivételével – kettős felhasználású termékekre és célországokra adható ki, amelyek Magyarország és az Európai Unió szempontjából semmilyen módon nem jelentenek kül- és biztonságpolitikai veszélyt vagy kockázatot.
+
+(2)[^49] A Kormányhivatal a Nemzeti Általános Exportengedélyt hivatalból adja ki és azt a honlapján közzéteszi, legkésőbb a hatályossági idő kezdőnapját megelőző 8. napon.
+
+(3)[^50] A Kormányhivatal a Nemzeti Általános Exportengedély kiadásáról a (2) bekezdésben meghatározott közzététellel egyidejűleg a döntését közli a külpolitikáért felelős miniszterrel, az iparügyekért felelős miniszterrel, a rendészetért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, a katasztrófák elleni védekezésért felelős miniszterrel, a Nemzeti Adó- és Vámhivatal, az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetőivel.
+
+#### 12. §
+
+(1) A Nemzeti Általános Exportengedély – a tárgyától függően – években kifejezett határozott vagy határozatlan időtartamra adható ki.
+
+(2)[^51] A határozott időtartamra kiadott Nemzeti Általános Exportengedély hatályának időpontját a Kormányhivatal annak lejárata előtt hivatalból jogosult meghosszabbítani.
+
+(3) A határozott vagy határozatlan időtartamra kiadott Nemzeti Általános Exportengedély a hatályossági ideje alatt módosítható.
+
+(4)[^52] A kettős felhasználású termék Nemzeti Általános Exportengedély alapján lebonyolított kiviteléhez kapcsolódó fuvarokmányon vagy a szállítmányt végigkísérő kereskedelmi számlán a 2. melléklet szerinti nyilatkozatot kell feltüntetni.
+
+(5)[^53] A nemzeti általános exportengedély alapján lebonyolított ügyletekről az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Kormányhivatalnak, mely összesítés tartalmazza:
+
+a) a termék megnevezését, mennyiségét és értékét;
+
+b) a termék ellenőrzési jegyzékszámát;
+
+c) a kapcsolódó vámtarifa besorolásokat;
+
+d) a rendeltetési országot;
+
+e) a címzett, a végfelhasználó részletes adatait;
+
+f) az értékesítés dátumát; és
+
+g) a kivitel ideiglenes vagy végleges jellegét.
+
+### 9. [^54] Uniós Általános Exportengedély
+
+#### 13. §
+
+(1) Az Uniós Általános Exportengedély kiadására jogosult szervezet az Európai Unió.
+
+(2)[^55] A 428/2009/EK tanácsi rendelet II. mellékletében meghatározott kettős felhasználású termék, valamint rendeltetési országok esetében, az ott meghatározott feltételekkel és előírások figyelembevételével, a kivitel az Uniós Általános Exportengedély (Exportengedélyek) alapján bonyolítható le.
+
+(3) Az Uniós Általános Exportengedély alapján lebonyolított kettős felhasználású termék kiviteléhez kapcsolódó fuvarokmányon vagy a szállítmányt végigkísérő kereskedelmi számlán a 3. melléklet szerinti nyilatkozatot kell feltüntetni.
+
+(4)[^56] Az Uniós Általános Exportengedély alapján lebonyolított ügyletekről az exportőr minden év január 31. napjáig az előző naptári évben folytatott tevékenységéről megküldi összesítését a Kormányhivatalnak, mely összesítés tartalmazza:
+
+a) a termék megnevezését, mennyiségét és értékét;
+
+b) a termék ellenőrzési jegyzékszámát;
+
+c) a kapcsolódó vámtarifa besorolásokat;
+
+d) a rendeltetési országot;
+
+e) a címzett, a végfelhasználó részletes adatait;
+
+f) az értékesítés dátumát;
+
+g) az uniós exportengedély számát;
+
+h) a kivitel végleges vagy ideiglenes jellegét; és
+
+i) ideiglenes kivitel esetében a visszaszállítás dátumát.
+
+### 10. Az exportengedély iránti kérelem elbírálása
+
+#### 14. §
+
+(1)[^57] A Kormányhivatal az engedélyeket a külpolitikáért felelős miniszter állásfoglalása alapján és – a kérelem tárgyától függően – az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Nemzeti Adó- és Vámhivatal, az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetője véleményének ismeretében adja ki.
+
+(2)[^58] Amennyiben a külpolitikáért felelős miniszter megtagadja a hozzájárulást, a Kormányhivatal kezdeményezheti az (1) bekezdésben szereplők véleményegyeztető-ülésének összehívását.
+
+(3)[^59] A külpolitikáért felelős minisztert külön indokolási kötelezettség nem terheli, amennyiben a kül- és biztonságpolitikáért való felelőssége körében, az (EU) 2021/821/EU európai parlamenti és tanácsi rendelet 15. cikk (1) bekezdés c) pontjában foglalt megfontolások alapján tagadja meg hozzájárulását az engedély kiadásához.
+
+(4)[^60] Az engedélyben a termék kiszállítására vonatkozóan a Kormányhivatal a kérelem tárgyára vonatkozó összes körülmény figyelembevételével eseti feltételeket határozhat meg.
+
+#### 15. §
+
+(1)[^61] Az engedélykérelmeket a Kormányhivatal elutasítja, a hatályos engedélyeket visszavonja a 2021/821 európai parlamenti és tanácsi rendelet 15. cikk (1) és (2) bekezdése szerinti feltételek nem teljesülésén kívül abban az esetben, ha
+
+a) a Kormányhivatal tudomást szerez arról, hogy az exportőr vagy az üzleti partnere a kettős felhasználású termékre vonatkozó jogszabályokat vagy nemzetközi non-proliferációs kötelezettségeket megsérti, ezekkel ellentétes tevékenységet folytat;
+
+b) az exportőr az engedélyhez kapcsolódó bármely feltételt nem teljesíti, az engedélyezési eljárás során vagy az engedélyhez kapcsolódóan valótlan adatokat közöl;
+
+c) a kereskedelmi tevékenység Magyarország kül- és biztonságpolitikai érdekét, vagy nemzetbiztonsági érdekét sérti vagy veszélyezteti;
+
+d) az exportőr Globális Exportengedéllyel rendelkezik, és exportellenőrzési rendszerét a Kormányhivatalhoz benyújtott Belső Megfelelési Programban meghatározott feltételektől eltérően működteti, vagy
+
+e) az engedély használata a Büntető Törvénykönyvben meghatározott bűncselekmény elkövetését eredményezte.
+
+(2)[^62] A hatályos engedélyeket a Kormányhivatal az (EU) 2021/821 európai parlamenti és tanácsi rendelet 15. cikkeés az (1) bekezdés c) pontban meghatározott körülmények változása esetén módosítja, ha ezzel a visszavonás elkerülhető.
+
+(3)[^63] A hatályos engedélyeket a Kormányhivatal az (1) bekezdés a), b) és d) pontjában meghatározott orvosolható esetekben felfüggeszti és ezzel egyidejűleg felhívja az ügyfelet a feltételek határidőn belül történő teljesítésére.
+
+(4)[^64] A Kormányhivatal az (1) bekezdés c) pontjában meghatározott esetben a döntésének indokolását mellőzi.
+
+(5)[^65] A Kormányhivatal az (1)–(3) bekezdés szerint hozott döntéseit, annak indokaival együtt közli a Nemzeti Adó- és Vámhivatallal.
+
+(6)[^66] Az engedélyben a Kormányhivatal az ügylet lebonyolítására vonatkozóan egyedi feltételeket határozhat meg.
+
+### 11. Transzfer engedély
+
+#### 16. §
+
+(1)[^67] A 428/2009/EK tanácsi rendelet IV. mellékletében felsorolt termékeken kívül engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében felsorolt termékek más tagállam területére történő transzferje is, amennyiben fennállnak az (EU) 2021/821 európai parlamenti és tanácsi rendelet 11. cikk (2) bekezdésében foglalt feltételek.
+
+(2)[^68] Az engedély elbírálásánál az exportengedély iránti kérelem elbírálására vonatkozó szabályok irányadók azzal az eltéréssel, hogy a Kormányhivatal a döntését – az ügy tárgyától függően – a külpolitikáért felelős miniszter, az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Nemzeti Adó- és Vámhivatal, valamint az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetője véleményének ismeretében adja ki.
+
+(3)[^69]
+
+### 12. Brókerügyleti engedély
+
+#### 17. §
+
+(1)[^70] Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 6. cikk (1) és (2) bekezdése az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célokra szolgáló, az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékre is kiterjed.
+
+(2)[^71] Brókerügyleti engedélyre van szükség a kettős felhasználású termékkel folytatott brókerügylethez abban az esetben is, ha a bróker joggal feltételezi, hogy ezt a terméket az (EU) 2021/821 európai parlamenti és tanácsi rendelet4. cikk (1) bekezdésében foglalt felhasználási célokra szánják vagy szánhatják.
+
+(3) Az engedélykérelem elbírálásánál az exportengedély iránti kérelem elbírálására vonatkozó szabályok irányadók.
+
+### 13. Tranzit engedély
+
+#### 18. §[^72]
+
+Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 7. cikk (1) és (2) bekezdése alkalmazandó az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célokra szolgáló, az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékre is.
+
+#### 19. §
+
+(1)[^73] A Kormányhivatal a vámhatóság intézkedéséről való tudomásszerzését követően öt napon belül dönt a kettős felhasználású termék tranzitjának ellenőrzés alá vonásáról.
+
+(2)[^74] A Kormányhivatal azon döntése esetén, ha a kettős felhasználású termék tranzitját engedélyhez köti, az eljárásra az Egyedi Exportengedélyre vonatkozó szabályokat kell alkalmazni.
+
+(3) Tranzit-tevékenységre csak egyedi engedély adható.
+
+### 14.[^75] Technikai segítségnyújtás
+
+#### 20. §
+
+(1) Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése alkalmazandó az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célokra szolgáló, az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékre.
+
+(2) Technikai segítségnyújtás végzésére vonatkozó engedélyre van szükség, ha a technikai segítségnyújtást végző, aki kettős felhasználású termékek tekintetében technikai segítségnyújtás végzését tervezi, megalapozottan feltételezheti, hogy ezeket a termékeket az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célok valamelyikére szánják vagy szánhatják.
+
+(3) Az engedélykérelem elbírálásánál az Egyedi Exportengedélyre és az exportengedély iránti kérelem elbírálására vonatkozó szabályok irányadók.
+
+## III. Fejezet — A KETTŐS FELHASZNÁLÁSÚ TERMÉKEK BEHOZATALA
+
+### 15. Nemzetközi importigazolás
+
+#### 21. §
+
+(1)[^76] A kettős felhasználású termékek az Európai Unió vámterületén kívülről Nemzetközi importigazolással (a továbbiakban: Igazolás) hozhatók be Magyarország területére, ha:
+
+a) az 1. § (1) bekezdés d) pontjában említett termék behozatala esetén a származási ország hatósága igényli annak kiállítását;
+
+b)[^77]
+
+c)[^78] a termék az (EU) 2021/821 európai parlamenti és tanácsi rendeletI. melléklete „0. kategóriájában” szerepel.
+
+(2) Az Igazolás kiadása kérhető abban az esetben is, ha az Európai Unión belüli transzfer esetében annak kiállítását a származási tagállam hatósága igényli.
+
+(3) Az Igazolás kiadása iránti kérelmet a 4. melléklet A) részében meghatározott tartalommal kell benyújtani.
+
+#### 22. §
+
+(1)[^79] Amennyiben az 1. § (1) bekezdés d) pontjában említett terméket Magyarország területére az Európai Unión kívüli harmadik országból hozzák be, a Kormányhivatal az Igazolás kiadásával igazolja, hogy hatósági felügyeletet gyakorol a termék behozatala és felhasználása felett.
+
+(2) Az (1) bekezdés alapján kiadott Igazolás az exportáló ország hatóságai előtti eljárás során, kizárólag az abban megnevezett nevében használható fel, és másra nem ruházható át.
+
+(3)[^80] Az Igazolásban és a hozzá tartozó Címzetti és Végfelhasználói Nyilatkozatban, valamint Szállítási Tanúsítványban szereplő adatokkal kapcsolatban bekövetkező bármilyen változásról a kérelmezőnek nyolc napon belül értesítenie kell a Kormányhivatalt. Az adatok megváltozása esetén a Kormányhivatal jogosult az Igazolást visszavonni vagy a változás bejelentését új kérelemként kezelni.
+
+(4)[^81] Az Igazolás a kiállításától számított két éven belül megvalósuló behozatalhoz, szállításhoz használható fel.
+
+#### 23. §
+
+Az Igazolás iránti kérelemhez csatolni kell a 4. melléklet B) részében meghatározott tartalommal a Címzetti és Végfelhasználói Nyilatkozatot, amely szerint a terméket kizárólag a benne megjelölt feltételekkel és módon fogják felhasználni.
+
+#### 24. §
+
+(1)[^82] Amennyiben a szabad forgalomba helyezést a magyar vámhatóság végzi, a Kormányhivatal által kibocsátott Szállítási Tanúsítványt a vámhatóság érvényesíti, annak igazolására, hogy az abban foglalt termék Magyarország területére érkezett.
+
+(2)[^83] Ha a kettős felhasználású termék Magyarország területére történő behozatala esetén a szabad forgalomba helyezést a behozatalt megelőzően az Európai Unió más tagállamainak vámhatóságai elvégzik, az importőr kötelessége a Kormányhivatalnak negyvennyolc órán belül hivatalos bejelentést tenni a terméknek Magyarország területére való beérkezéséről.
+
+### 16. Az Igazolás iránti kérelem elbírálása
+
+#### 25. §
+
+(1)[^84] A kérelmet a Kormányhivatalhoz elektronikus úton, a Kormányhivatal honlapján közzétett formanyomtatványon, a kitöltési útmutató alapján kell benyújtani.
+
+(2)[^85] A Kormányhivatal a döntését – az ügy tárgyától függően – a külpolitikáért felelős miniszter, az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Nemzeti Adó- és Vámhivatal, valamint az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetője véleményének ismeretében adja ki.
+
+(3)[^86] A Kormányhivatal megtagadja az Igazolás kiadását, a kiadott Igazolást pedig visszavonja, ha
+
+a) a külföldi fél vagy a belföldi végfelhasználó a vonatkozó jogszabályokkal ellentétes tevékenységet folytat;
+
+b)[^87] az Igazolás kiadása Magyarország nemzetközi kötelezettségvállalásaival ellentétes lenne, e kötelezettségvállalás teljesítését sértené vagy veszélyeztetné;
+
+c) a kérelmező a termék forgalmazása kapcsán az *a)* pontban említett személyi körrel áll kapcsolatban;
+
+d)[^88] a termék forgalma sértené Magyarország nemzetbiztonsági érdekeit;
+
+e) a kérelmező valótlan adatot közöl, vagy
+
+f) a kérelmező eltér a termék felhasználásának az Igazolásban foglalt előírásaitól.
+
+## IV. Fejezet[^89] — A NEMZETKÖZI SZANKCIÓBAN ELRENDELT KÜLKERESKEDELMI KORLÁTOZÁS ALÁ ESŐ TERMÉK KIVITELÉNEK ELLENŐRZÉSE
+
+#### 26. §
+
+(1) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kiviteléhez engedély szükséges.
+
+(2) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelére csak egyedi exportengedély adható, mely legfeljebb hat hónapig hatályos.
+
+(3)[^90] A Kormányhivatal a kérelmet elutasítja, ha
+
+a) nemzetközi szankció a termék kivitelét tiltja vagy
+
+b) fennáll a 15. § (1) bekezdésében foglalt bármely feltétel.
+
+(4)[^91] A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelével kapcsolatos engedélyezési eljárásra az egyedi exportengedélyre vonatkozó szabályok irányadók, azzal, hogy az engedélykérelemhez a kérelmezőnek be kell nyújtania a 3. § (2) bekezdés b) pontjában és a 3. § (3) bekezdésében meghatározott iratot, valamint a cégjegyzésre jogosult személy azon nyilatkozatát, amelyben kötelezettséget vállal arra, hogy a vonatkozó nemzetközi szankcióban elrendelt kereskedelmi korlátozó intézkedést és a kapcsolódó exportellenőrzési szabályokat ismeri és betartja.
+
+#### 26/A. §[^92]
+
+(1) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termékekhez kapcsolódó finanszírozást, pénzügyi támogatást a Nemzeti Adó- és Vámhivatal Pénzmosás és Terrorizmusfinanszírozás Elleni Irodája engedélyezi.
+
+(2) Az (1) bekezdés szerinti eljárásban az egyedi exportengedélyezésre vonatkozó szabályok az irányadóak azzal, hogy a 3. §, az 5. § (1) bekezdése és a 9. § (3) bekezdése nem alkalmazandó, valamint az ügyintézési határidő 10 nap, és a kiadott engedély érvényességi ideje 1 év.
+
+(3) Az (1) és (2) bekezdés alkalmazásában, ahol e rendelet exportőrt említ, azon kérelmezőt, ahol terméket, azon finanszírozást vagy pénzügyi támogatást, ahol végfelhasználót, azon a finanszírozás vagy pénzügyi támogatás kedvezményezettjét kell érteni.
+
+#### 26/B. §[^93]
+
+A nemzetközi szankcióban elrendelt, jelentéstételi kötelezettséggel érintett külkereskedelmi korlátozás alá eső termék esetében a jelentéstételhez kapcsolódó követelményeket a Kormányhivatal a honlapján teszi közzé.
+
+## V. Fejezet — HATÓSÁGI ELLENŐRZÉS, BÍRSÁGOLÁS
+
+#### 27. §
+
+(1)[^94] A Kormányhivatal jogosult a kettős felhasználású termékek külkereskedelmi forgalmával kapcsolatos ügyletek és az e rendeletben foglalt kötelezettségek előzetes, folyamatos és utólagos ellenőrzésére.
+
+(2)[^95] Az ellenőrző szerv felhívására a származást az eladó ország illetékes szervezete által kiállított, az uniós vámszabályokban meghatározott okmányokkal kell igazolni.
+
+(3)[^96] Az e rendelet hatálya alá tartozó termékek behozatalának, kivitelének és tranzitjának vámjogszabályokban meghatározottak szerinti ellenőrzésére, továbbá a kapcsolódó engedélyek, Nemzetközi Importigazolások kezelésére a Nemzeti Adó- és Vámhivatal jogosult.
+
+(3a)[^97] Az e rendelet hatálya alá tartozó nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék és a kettős felhasználású termék esetében a Nemzeti Adó- és Vámhivatal indokolt esetben a Kormányhivatallal együttműködve a vámeljárás során ellenőrzi a szankciós rendelkezésekben előírt feltételek fennállását és a kapcsolódó kötelezettségek teljesítését.
+
+(4)[^98] A vállalkozás köteles az ellenőrzést végzők számára a telephelyére történő bejutást biztosítani és a vizsgált tevékenységhez tartozó dokumentumokat átadni.
+
+#### 28. §[^99]
+
+(1) A Kormányhivatal
+
+a) 50 ezer forinttól 3 millió forintig terjedő bírsággal sújtja azt, aki az e rendelet szerinti nyilvántartásban szereplő adatokkal vagy engedéllyel összefüggő változás-bejelentési, adatszolgáltatási, nyilatkozattételi, nyilvántartásvezetési kötelezettségét nem teljesíti, vagy valótlan adatot közöl,
+
+b) 300 ezer forinttól 4 millió forintig terjedő bírsággal sújtja azt, aki az e rendelet szerinti engedélyezési eljárás során a hatóság megtévesztésére alkalmas valótlan adatokat közöl,
+
+c) 300 ezer forinttól 4 millió forintig terjedő bírsággal sújtja azt, aki az e rendeletben meghatározott engedélyezés alá tartozó termékek külkereskedelmi forgalmát nem az engedélyben foglaltak szerint végzi,
+
+d) 400 ezer forinttól 5 millió forintig terjedő bírsággal sújtja azt, aki az e rendelet szerinti engedélyt jogosulatlanul felhasznál,
+
+e) 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja azt, aki az e rendelet szerinti engedélyköteles tevékenységét engedély nélkül végzi,
+
+f) 300 ezer forinttól 5 millió forintig terjedő bírsággal sújtja azt, aki Globális Exportengedéllyel rendelkezik, és exportellenőrzési rendszerét a Kormányhivatalhoz benyújtott Belső Megfelelési Programban meghatározott feltételektől eltérően működteti,
+
+g) 300 ezer forinttól 600 ezer forintig terjedő bírsággal sújtja azt, aki a nem engedélyköteles, de bejelentési kötelezettséghez kötött tevékenység során a tevékenység megkezdését követő két héten belül a bejelentést elmulasztja.
+
+(2) Aki nemzetközi szankcióban elrendelt külkereskedelmi korlátozásból eredő kötelezettségét egyéb módon, illetve szankcióban elrendelt külkereskedelmi korlátozásból eredő egyéb kötelezettségét megszegi, a Kormányhivatal 100 ezer forinttól 5 millió forintig terjedő bírsággal sújtja.
+
+(3) Az e § szerinti bírságot készpénz-átutalási megbízással vagy átutalással a kirovó határozatban megjelölt számlaszámra, a közlemény rovatban a határozat számára való utalással kell teljesíteni.
+
+#### 29. §[^100]
+
+A Kormányhivatal a bírság mértékének megállapításakor, valamint a bírság kiszabásakor és összegének mérséklésekor a kereskedelmi, valamint külkereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala által kiszabható bírság megállapításának, mértékének részletes szabályairól szóló kormányrendeletben foglalt szabályok alkalmazásával jár el.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 30. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+#### 31. §
+
+Az e rendelet hatálybalépésekor folyamatban levő ügyekben a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet rendelkezéseit kell alkalmazni.
+
+#### 31/A. §[^101]
+
+E rendeletnek az egyes kormányrendeleteknek a nemzetközi szankcióban elrendelt kereskedelmi korlátozás alá eső termékekhez kapcsolódó finanszírozás engedélyezésével összefüggő módosításáról szóló 65/2020. (III. 25.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 26/A. §-át a Módr. hatálybalépésekor[^102] folyamatban lévő eljárásokban is alkalmazni kell.
+
+#### 32. §
+
+(1)[^103] Ez a rendelet
+
+a) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet,
+
+b) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i 329/2007/EK tanácsi rendelet,
+
+c) a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és megerősítéséről, valamint a 817/2006/EK rendelet hatályon kívül helyezéséről szóló, 2008. február 25-i 194/2008/EK tanácsi rendelet, valamint az azt módosító, a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és megerősítéséről szóló 194/2008/EK tanácsi rendeletben meghatározott bizonyos korlátozó intézkedések alkalmazásának felfüggesztéséről szóló, 2012. május 14-i 409/2012/EU tanácsi rendelet,
+
+d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló, 2012. március 23-i 267/2012/EU tanácsi rendelet és
+
+e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
+
+f)[^104] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+
+g)[^105] a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) Ez a rendelet
+
+a) az egyes katonai célú végfelhasználásokkal kapcsolatos műszaki segítségnyújtás ellenőrzéséről szóló, 2000. június 22-i 401/2000/KKBP tanácsi együttes fellépésnek;
+
+b) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak
+
+c)[^106] az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek,
+
+d)[^107] az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU rendelet módosításáról szóló, 2024. június 24-i (EU) 2024/1745 tanácsi rendeletnek
+
+való megfelelést szolgálja.
+
+#### 33. §[^108]
+
+E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 25. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig a Hivatal vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## 1. melléklet a 13/2011. (II. 22.) Korm. rendelethez
+
+*A)* Engedélykérelem tartalmi elemei a kettős felhasználású termékek exportjához, transzferjéhez és tranzitjához
+
+1\. Exportőr neve, címe
+
+2\. Exportőr EORI száma
+
+3\. Kapcsolattartó neve, elérhetősége
+
+4\. Címzett neve, címe
+
+5\. Ügynökség, képviselet neve, címe (ha nem azonos az exportőrrel)
+
+6\. Származási ország
+
+7\. Feladási ország
+
+8\. Végfelhasználó neve, címe (ha nem azonos a címzettel)
+
+9\. A tétel jelenlegi vagy jövőbeli helye (tagállam)
+
+10\. A szándékolt kiviteli vámeljárás tagállama
+
+11\. A végső rendeltetési hely országa
+
+12\. A tételek leírása
+
+13\. Vámtarifaszám (CAS szám, ha alkalmazható)
+
+14\. Ellenőrzési jegyzékszám (listán szereplő termékeknél)
+
+15\. Pénznem és érték
+
+16\. A tételek mennyisége
+
+17\. Végfelhasználás
+
+18\. Szerződés dátuma (ha alkalmazható)
+
+19\. Kiviteli vámeljárás kódszáma
+
+20\. Kiegészítő információk (szállítási útvonal, szállítóeszköz)
+
+21\. A kérvényezett engedély jellege
+
+22.[^109]
+
+*B)* Engedélykérelem tartalmi elemei a kettős felhasználású termékek brókerügyletéhez
+
+1\. Bróker (kérelmező) neve, címe
+
+2\. Bróker (kérelmező) EORI száma
+
+3\. Kapcsolattartó neve, elérhetősége
+
+4\. Származási harmadik ország exportőrének neve, címe
+
+5\. Rendeltetési harmadik ország címzettjének neve, címe
+
+6\. A bróker lakó- vagy letelepedési helye szerinti tagállam
+
+7\. Származási harmadik ország (a termékek helye)
+
+8\. Rendeltetési harmadik ország végfelhasználójának neve, címe (ha nem azonos a címzettel)
+
+9\. Rendeltetési harmadik ország
+
+10\. Részt vevő harmadik felek (pl. ügynökök) neve, címe
+
+11\. Tételek leírása
+
+12\. Vámtarifaszám (CAS szám, ha alkalmazható)
+
+13\. Ellenőrzési jegyzékszám (listán szereplő termékeknél)
+
+14\. Pénznem és érték
+
+15\. A tételek mennyisége
+
+16\. Végfelhasználás
+
+17\. Kiegészítő információk (szállítóeszköz, szállítási útvonal, szállítás tervezett ideje)
+
+18.[^110]
+
+*C)*[^111] Engedélykérelem tartalmi elemei a kettős felhasználású termékekkel kapcsolatos technikai segítségnyújtáshoz
+
+1\. Technikai segítségnyújtás végző (kérelmező) neve, címe
+
+2\. Technikai segítségnyújtást végző (kérelmező) EORI száma
+
+3\. Kapcsolattartó neve, elérhetősége
+
+4\. Származási harmadik ország exportőrének neve, címe (adott esetben)
+
+5\. Rendeltetési harmadik ország címzettjének neve, címe
+
+6\. A technikai segítségnyújtást végző lakó- vagy letelepedési helye szerinti tagállam
+
+7\. Származási harmadik ország (a termékek helye)
+
+8\. Rendeltetési harmadik ország végfelhasználójának neve, címe (ha nem azonos a címzettel)
+
+9\. Rendeltetési harmadik ország
+
+10\. Részt vevő harmadik felek (pl. ügynökök) neve, címe
+
+11\. Termékek vagy technikai segítségnyújtás megnevezése, leírása
+
+12\. Vámtarifaszám (CAS szám, ha alkalmazható)
+
+13\. Ellenőrzési jegyzékszám (listán szereplő termékeknél)
+
+14\. Pénznem és érték
+
+15\. A tételek mennyisége (adott esetben)
+
+16\. Végfelhasználás
+
+17\. Kiegészítő információk (szállítóeszköz, szállítási útvonal, szállítás tervezett ideje, az ügyletben résztvevő további partnerek)
+
+## 2. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^112]
+
+**A kettős felhasználású termékeknek a Nemzeti Általános Exportengedély alapján megvalósuló exportját kísérő szállítási okmányokon feltüntetendő nyilatkozat [**12. § (4) bekezdése**]**
+
+Ezen termékek kivitele az EU .............. számú Nemzeti Általános Exportengedély alapján, az abban meghatározott országokba történik, kizárólag a hivatkozott Általános Exportengedélyben foglalt feltételeknek és követelményeknek megfelelő rendeltetéssel. A termékeknek ettől eltérő rendeltetéssel való kivitele a magyar hatóságok előzetes egyetértése nélkül nem megengedett, reexportálásukra pedig az adott ország nemzeti jogszabályai szerint kerülhet sor.
+
+Kelt ............................................
+
+..........................................................
+
+aláírás
+
+## 3. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^113]
+
+**A kettős felhasználású termékeknek az Uniós Általános Exportengedély alapján megvalósuló exportját kísérő szállítási okmányokon feltüntetendő nyilatkozat [**13. § (3) bekezdése**]**
+
+Ezen termékek kivitele az EU ......... számú Közösségi (Uniós) Általános Exportengedély alapján, az abban meghatározott országokba történik, kizárólag a hivatkozott Általános Exportengedélyben foglalt feltételeknek és követelményeknek megfelelő rendeltetéssel. A termékeknek ettől eltérő rendeltetéssel való kivitele a magyar hatóságok előzetes egyetértése nélkül nem megengedett, reexportálásukra pedig az adott ország nemzeti jogszabályai szerint kerülhet sor.
+
+These items are exported under the Community (Union) General Export Authorisation number EU .......... to the countries listed therein and shall be used exclusively for a purpose that is in compliance with the conditions and requirements set out in the above referenced General Export Authorisation. These items may not be exported for any other purpose without the prior consent of the Hungarian authorities, and may be re-exported according to the national legislation of the respective country.
+
+Kelt/Date ............................................
+
+..................................................
+
+aláírás/signature
+
+## 4. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^114]
+
+A) A Nemzetközi Importigazolás kibocsátása iránti kérelem tartalmi elemei
+
+1\. Magyar importőr adószáma
+
+EORI száma
+
+Neve
+
+Címe
+
+2\. Exportőr:
+
+Neve
+
+Címe
+
+3\. A termék:
+
+Leírása
+
+Ellenőrzési jegyzékszáma
+
+Vámtarifaszáma
+
+Mennyisége
+
+Összértéke
+
+4\. Dátum, cégszerű aláírás, bélyegző
+
+B) Címzetti és Végfelhasználói Nyilatkozat tartalmi elemei
+
+1\. Címzett:
+
+Neve
+
+Adószáma
+
+Cégjegyzék száma
+
+Címe
+
+Ügyintéző neve, telefonszáma:
+
+2\. Végfelhasználó:
+
+Neve
+
+Adószáma
+
+Cégjegyzék száma
+
+Címe
+
+Ügyintéző neve, telefonszáma:
+
+3\. Exportőr:
+
+Neve
+
+Cégjegyzék száma
+
+Címe
+
+Ügyintéző neve, telefonszáma:
+
+4\. A termék:
+
+Leírása
+
+Ellenőrzési jegyzékszáma
+
+Vámtarifaszáma
+
+Mennyisége
+
+Összértéke
+
+5\. Részletes nyilatkozat a termék felhasználásáról:
+
+6\. Kiegészítő információk (Minden egyéb tényező, ami figyelembe veendő az exportengedély-kérelem elbírálásánál.):
+
+7.[^115] A címzett, a végfelhasználó igazolása:
+
+Igazoljuk, hogy minden feltüntetett adat a valóságnak megfelel, és nem ismerünk semmilyen, velük ellentétes más információt. Azonnal kiegészítő nyilatkozatot küldünk a nemzeti külkereskedelmi államigazgatási feladatkörében eljáró Budapest Főváros Kormányhivatalának, amennyiben bármilyen ténybeli vagy tervezett változás merül fel a nyilatkozatban rögzítettekhez képest annak elkészítése után. Vállaljuk, hogy a 4. pontban leírt termék (termékek) nem kerül (kerülnek) reexportra, újraértékesítésre vagy eladásra (1) egyetlen olyan országba sem, ahová az export nem engedélyezett, vagy (2) egyetlen olyan személynek sem, amennyiben joggal feltételezhető, hogy a terméket (termékeket) közvetve vagy közvetlenül a fenti nyilatkozattal vagy vonatkozó jogszabállyal ellentétesen birtokolnák.
+
+8\. A címzett, a végfelhasználó aláírása, dátum
+
+## 5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^116]
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés d) pontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 540. § a) pontja, a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés e) pontja a 209/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: [A 360/2022. (IX. 9.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint az „a 428/2009/EK tanácsi rendelet” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet” szöveg lép, nem vezethető át.]
+[^7]: A 2. § 1. pont a) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 88/2016. (IV. 29.) Korm. rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg. [A 2. § 1. pont a) alpontban a 360/2022. (IX. 19.) Korm. rendelet 16. § b) pontja által elrendelt módosítás, amely szerint a „szóló 952/2013/EU rendelet” szövegrész helyébe a „szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet” szöveg lép, nem vezethető át.]
+[^8]: A 2. § 1. pont b) alpontja a 88/2016. (IV. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § 1. pont c) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § 2. pontja a 360/2022. (IX. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § 3. pontja a 360/2022. (IX. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § 4. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § 5. pontja a 360/2022. (IX. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A 2. § 8. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^15]: A 2. § 9. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: A 2. § 9a. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^17]: A 2. § 9b. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^18]: A 2. § 10. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^19]: A 2. § 10a. pontját a 360/2022. (IX. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^20]: A 2. § 12. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^21]: A 3. § (1) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: A 3. § (2) bekezdés a) pontja a 360/2022. (IX. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. § (2) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^24]: A 3. § (2) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^25]: A 3. § (3) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^26]: A 3. § (4) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^27]: A 3. § (4a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja, a 393/2017. (XII. 13.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^28]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^29]: A 4. § (2) bekezdése a 390/2025. (XII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 5. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) és e) pontja szerint módosított szöveg.
+[^31]: Az 5. § (2) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^32]: Az 5. § (3) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^33]: Az 5. § (4) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 3. §-ával megállapított, a 88/2016. (IV. 29.) Korm. rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^34]: Az 5. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^35]: Az 5. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be, szövege a 390/2025. (XII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^36]: Az 5. § (7) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^37]: Az II. fejezet címe a 360/2022. (IX. 19.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^38]: Az 5. alcím (6-8/A. §) a 360/2022. (IX. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: [A 360/2022. (IX. 9.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint az „a 428/2009/EK tanácsi rendelet” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet” szöveg lép, nem vezethető át.]
+[^40]: A 9. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: [A 360/2022. (IX. 9.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint az „a 428/2009/EK tanácsi rendelet” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet” szöveg lép, nem vezethető át.]
+[^42]: A 10. § (2a) bekezdését a 360/2022. (IX. 19.) Korm. rendelet 6. §-a iktatta be.
+[^43]: A 10. § (3) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 360/2022. (IX. 19.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^44]: A 10. § (4) bekezdés c) pontját a 80/2018. (IV. 20.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^45]: A 10. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^46]: A 10. § (6) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be, nyitó szövegrésze a 360/2022. (IX. 19.) Korm. rendelet 16. § h) pontjával megállapított szöveg.
+[^47]: A 10. § (6) bekezdés b) pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^48]: A 11. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^49]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^50]: A 11. § (3) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 239/2022. (VI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^51]: A 12. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^52]: A 12. § (4) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^53]: A 12. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^54]: A 9. alcím (13. §) a 209/2012. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^55]: [A 360/2022. (IX. 9.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint az „a 428/2009/EK tanácsi rendelet” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet” szöveg lép, nem vezethető át.]
+[^56]: A 13. § (4) bekezdés nyitó szövegrésze a 395/2025. (XII. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^57]: A 14. § (1) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 239/2022. (VI. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^58]: A 14. § (2) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 7. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^59]: A 14. § (3) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
+[^60]: A 14. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^61]: A 15. § (1) bekezdése a 390/2025. (XII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^62]: A 15. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja, a 360/2022. (IX. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
+[^63]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^64]: A 15. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^65]: A 15. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^66]: A 15. § (6) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^67]: A 16. § (1) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 16. § m) pontja szerint módosított szöveg. [Ugyanezen módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „a 428/2009/EK tanácsi rendelet IV mellékletében” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet IV. mellékletében” szöveg lép, nem vezethető át.]
+[^68]: A 16. § (2) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 239/2022. (VI. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^69]: A 16. § (3) bekezdését a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^70]: A 17. § (1) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^71]: A 17. § (2) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 16. § n) pontja szerint módosított szöveg.
+[^72]: A 18. § a 360/2022. (IX. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^73]: A 19. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 19. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^75]: A 14. alcím (20. §) a 360/2022. (IX. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^76]: A 21. § (1) bekezdés nyitó szövegrésze a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^77]: A 21. § (1) bekezdés b) pontját a 80/2018. (IV. 20.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^78]: A 21. § (1) bekezdés c) pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^79]: A 22. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^80]: A 22. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) és f) pontja szerint módosított szöveg.
+[^81]: A 22. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^82]: A 24. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^83]: A 24. § (2) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) és b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^84]: A 25. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) és e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 53. § (2) bekezdése szerint módosított szöveg.
+[^85]: A 25. § (2) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 239/2022. (VI. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^86]: A 25. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^87]: A 25. § (3) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^88]: A 25. § (3) bekezdés d) pontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^89]: A IV. Fejezet (26. §) a 209/2012. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^90]: A 26. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^91]: A 26. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^92]: A 26/A. §-t a 65/2020. (III. 25.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 26/B. §-t a 390/2025. (XII. 10.) Korm. rendelet 4. §-a iktatta be.
+[^94]: A 27. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^95]: A 27. § (2) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^96]: A 27. § (3) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 9. § (5) bekezdése iktatta be.
+[^97]: A 27. § (3a) bekezdését a 390/2025. (XII. 10.) Korm. rendelet 5. §-a iktatta be.
+[^98]: A 27. § (4) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 9. § (5) bekezdése iktatta be.
+[^99]: A 28. § a 390/2025. (XII. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^100]: A 29. § a 379/2016. (XII. 2.) Korm. rendelet 170. § (1) bekezdésével megállapított szöveg.
+[^101]: A 31/A. §-t a 65/2020. (III. 25.) Korm. rendelet 2. §-a iktatta be.
+[^102]: A hatálybalépés időpontja 2020. március 28.
+[^103]: A 32. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^104]: A 32. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 20. §-a iktatta be.
+[^105]: A 32. § (1) bekezdés g) pontját a 360/2022. (IX. 19.) Korm. rendelet 14. §-a iktatta be.
+[^106]: A 32. § (2) bekezdés c) pontját a 390/2025. (XII. 10.) Korm. rendelet 7. §-a iktatta be.
+[^107]: A 32. § (2) bekezdés d) pontját a 390/2025. (XII. 10.) Korm. rendelet 7. §-a iktatta be.
+[^108]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 53. § (1) bekezdése iktatta be.
+[^109]: Az 1. melléklet A) rész 22. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^110]: Az 1. melléklet B) rész 18. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^111]: Az 1. melléklet C) részét a 360/2022. (IX. 19.) Korm. rendelet 15. §-a iktatta be.
+[^112]: A 2. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^113]: A 3. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^114]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^115]: A 4. melléklet B) rész 7. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § o) pontja szerint módosított szöveg.
+[^116]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.

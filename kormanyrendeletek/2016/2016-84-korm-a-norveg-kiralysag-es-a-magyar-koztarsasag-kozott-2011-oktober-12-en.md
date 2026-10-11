@@ -1,0 +1,415 @@
+---
+title: "84/2016. (IV. 13.) Korm. rendelet a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló, levélváltással létrejött megállapodás kihirdetéséről"
+identifier: "84/2016. (IV. 13.) Korm. rendelet"
+njt_id: "2016-84-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/84"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-04-13
+in_force_from: 2016-04-14
+last_amended: 2016-04-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-84-20-22"
+retrieved: 2026-10-12
+---
+
+# 84/2016. (IV. 13.) Korm. rendelet a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló, levélváltással létrejött megállapodás kihirdetéséről
+
+*(A Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló megállapodás Magyarország vonatkozásában 2016. március 16-án lépett nemzetközi jogilag hatályba.)*
+
+## 1. §
+
+A Kormány a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás (a továbbiakban: Együttműködési Megállapodás) módosításáról szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+**LEVÉLVÁLTÁS**
+
+**az Együttműködési Megállapodás módosításáról**
+
+**A NORVÉG KÜLÜGYMINISZTÉRIUM LEVELE**
+
+Mr Zsigmond Perényi
+
+Deputy State Secretary for International Affairs
+
+State Secretariat for European Union Development Programmes
+
+Hungarian Prime Minister’s Office
+
+Wesselényi u. 20-22.
+
+1077 Budapest HUNGARY Brussels, 15 March 2016
+
+Subject: Amendment of Annex B to the MoU between the Kingdom of Norway and Hungary
+
+Dear Mr Perényi,
+
+In accordance with paragraphs 4 of Article 2.1 of the Regulation on the Implementation of the Norwegian Financial Mechanism 2009–2014, the Norwegian Ministry of Foreign Affairs (NMFA) proposes that B to the Memorandum of Understanding (MoU) between the Kingdom of Norway and the Republic of Hungary be amended as specified in the track changes version of B to the MoU attached to this letter.
+
+The suggested amendments reflect in the MoU the change of Programme Operator (PO) of the Programme HU12 ‘Public Health Initiatives’, from the ‘Ministry of Human Resources’ to the ‘National Healthcare Service Centre’.
+
+The NMFA agrees with the proposed change to the PO, with the following stipulations:
+
+1\. That in no case do delays caused by the change in the MoU, including any subsequent administrative procedures that may be required in Hungary, put at risk the ability of the new PO to award any project grants by 30 April 2016 (and insert the correct Project Level Information into DoRIS by 31 May 2016). As you are aware, adherence to these deadlines is a pre-requisite for extensions to the eligibility of expenditure at project level.
+
+2\. That approval of the new PO does not lead to renewed discussion concerning the pre-defined project concepts already submitted to and discussed with the FMO. It is expected that the new PO will take ownership of the proposals submitted and accept decisions taken and communicated to the NFP.
+
+The NMFA requests your agreement to the amendments by replying to this letter. This letter and your affirmative letter in reply shall result in the said amendments to Annex B to the MoU and they shall enter into force on the date of your letter in reply. Upon entry into force, the MoU with the amended Annex B shall be published on the websites of the National Focal Point and the Financial Mechanism Office.
+
+Yours sincerely,
+
+Anders Erdal,
+
+Deputy Director General
+
+Norwegian Ministry of Foreign Affairs
+
+Attachments:
+
+1) Track changes version of Annex B
+
+2) Final version of Annex B
+
+ANNEX B
+
+**Implementation framework**
+
+In accordance with Article 2.1 of the Regulation, the Parties to this Memorandum of Understanding have agreed on an implementation framework outlined in this annex.
+
+**1. Financial parameters of the implementation framework**
+
+<table><tbody><tr><td>**Hungary**</td><td rowspan="2">**Norwegian FM contribution**</td></tr><tr><td>**Programme area**</td></tr><tr><td>Green Industry Innovation</td><td>€ 22,880,000</td></tr><tr><td>Global fund for Decent Work and Tripartite Dialogue</td><td>€ 832,000</td></tr><tr><td>Bilateral Research Cooperation</td><td>€ 24,128,000</td></tr><tr><td>Capacity-building and Institutional Cooperation between Beneficiary State and Norwegian Public Institutions, Local and Regional Authorities</td><td>€ 10,816,000</td></tr><tr><td>Public Health Initiatives</td><td>€ 16,640,000</td></tr><tr><td>**Other allocations**</td><td></td></tr><tr><td>Technical assistance to the Beneficiary State (Art. 1.9)</td><td>€ 1,248,000</td></tr><tr><td>Fund for bilateral relations at national level (Art. 3.5.1)</td><td>€ 416,000</td></tr><tr><td>Net allocation to Hungary</td><td>€ 76,960,000</td></tr></tbody></table>
+
+**2. Specific concerns**
+
+Bilateral relations between the Donor States and Hungary shall be strengthened with the aim of stimulating long-term cooperation, in particular in the programme areas listed below with donor programme partners, as well as through other means such as partnership at project level in all programme areas supported.
+
+The appraisal of Programme Proposals will take due account of relevant human rights- and governance-related standards of the Council of Europe (such as those monitored by CPT, GRECO, GRETA, ECRI etc.), including the Convention for the Protection of Human Rights and Fundamental Freedoms.
+
+**3. Substantive parameters of the implementation framework**
+
+The programmes described below are to be prepared and, subject to NMFA approval, implemented in the Beneficiary State.
+
+**A. Programme Area: Green Industry Innovation**
+
+*Programme:* Green Industry Innovation
+
+*Objective:* Increased competitiveness of green enterprises, including greening of existing industries, green innovation and green entrepreneurship
+
+Outcomes: Reduced production of waste and reduced emissions to air, water and ground
+
+More use of environmentally friendly technologies
+
+Increased green job creation and entrepreneurship
+
+*Programme grant:* € 22,880,000
+
+*Programme Operator:* Szent István University
+
+*Donor programme partner:* Innovation Norway
+
+**B. Programme Area: Global Fund for Decent Work and Tripartite Dialogue**
+
+*Programme:* Decent work
+
+*Objective:* Decent work promoted and tripartite cooperation improved between employers’ organisations, trade unions and public authorities in supporting equitable and sustainable economic and social development
+
+*Programme grant:* € 832,000
+
+*Programme Operator:* Innovation Norway
+
+**C. Programme Area: Bilateral research cooperation**
+
+*Programme:* Norwegian-Hungarian Research Programme
+
+*Objective:* Enhanced research-based knowledge development in the Beneficiary States through enhanced research cooperation between Norway and the Beneficiary States
+
+*Programme grant:* € 24,128,000
+
+*Programme Operator:* National Research, Development and Innovation Office
+
+*Donor programme partner:* The Research Council of Norway
+
+*Specific concerns:* The main focus of the programme should be on environment and health. Research in the field of social sciences and humanities shall also be eligible for support. The programme shall include an allocation of € 1.0 million for gender-related research.
+
+**D. Programme Area: Capacity-building and Institutional Cooperation between Beneficiary State and Norwegian Public Institutions, Local and Regional Authorities**
+
+*Programme:* Capacity-Building and Institutional Cooperation between Beneficiary State and Norwegian Public Institutions, Local and Regional Authorities
+
+*Objective:* Strengthened institutional capacity and human resource development in public institutions, local and regional authorities in the Beneficiary States within the agreed priority sectors through cooperation and transfer of knowledge with similar institutions and authorities in Norway
+
+*Programme grant:* € 10,816,000
+
+*Programme Operator:* National Focal Point
+
+*Specific concerns:* At least 30 % of the allocation shall be targeted towards local and regional institutional development. 10% of the allocation will target gender issues. Lifelong learning will be included.
+
+Pre-defined project(s) shall be approved jointly by the NMFA and the National Focal Point and each pre-defined project will involve partnership with one or more institutions from Norway.
+
+**E. Programme Area: Public Health Initiatives**
+
+*Programme:* Public Health Initiatives
+
+*Objective:* Improved public health and reduced health inequalities.
+
+Outcomes: Reduced inequalities between user groups.
+
+Improved access to and quality of health services, including reproductive and preventive child health care.
+
+Life-style-related diseases prevented or reduced.
+
+Improved mental health services
+
+*Programme grant:* € 16,640,000
+
+*Programme Operator:* National Healthcare Service Centre
+
+*Donor programme partner:* Norwegian Institute of Public Health
+
+*Specific concerns:* The most vulnerable groups, including the Roma population shall be targeted within this programme
+
+The Cooperation committee shall include member(s) representing the relevant public institution(s) in charge of the policy area in question.
+
+**A MAGYAR HATÓSÁG LEVELE**
+
+Anders Erdal Reg.number: NEPVF/187/1/2016.
+
+Chairman of the FMC
+
+Financial Mechanism Office
+
+Rue Joseph II, 12-16
+
+B-1000 Brussels, Belgium Budapest, “16“ March, 2016
+
+Subject: Amendment of Annex B to the Memorandum of Understanding on the Implementation of the Norwegian Financial Mechanism 2009–2014 between the Kingdom of Norway and the Government of Hungary
+
+Dear Mr Chairman,
+
+I have the honour to refer to your letter dated 15 March, 2016 which reads as follows:
+
+“In accordance with paragraphs 4 of Article 2.1 of the Regulation on the Implementation of the Norwegian Financial Mechanism 2009–2014, the Norwegian Ministry of Foreign Affairs (NMFA) proposes that Annex B to the Memorandum of Understanding (MoU) between the Kingdom of Norway and the Republic of Hungary be amended as specified in the track changes version of Annexes B to the MoU attached to this letter.
+
+The suggested amendments reflect in the MoU the change of Programme Operator (PO) of the Programme HU12 ‘Public Health Initiatives’, from the ‘Ministry of Human Resources’ to the ‘National Healthcare Service Centre’.
+
+The NMFA agrees with the proposed change to the PO, with the following stipulations:
+
+1\. That in no case do delays caused by the change in the MoU, including any subsequent administrative procedures that may be required in Hungary, put at risk the ability of the new PO to award any project grants by 30 April 2016 (and insert the correct Project Level Information into DoRIS by 31 May 2016). As you are aware, adherence to these deadlines is a pre-requisite for extensions to the eligibility of expenditure at project level.
+
+2\. That approval of the new PO does not lead to renewed discussion concerning the pre-defined project concepts already submitted to and discussed with the FMO. It is expected that the new PO will take ownership of the proposals submitted and accept decisions taken and communicated to the NFP.
+
+The NMFA requests your agreement to the amendments by replying to this letter. This letter and your affirmative letter in reply shall result in the said amendments to Annex B to the MoU and they shall enter into force on the date of your letter in reply. Upon entry into force, the MoU with the amended Annex B shall be published on the websites of the National Focal Point and the Financial Mechanism Office.”
+
+I wish to inform you that the Hungarian Party shares the understanding set forth in your letter. Therefore, I have the honour to confirm that your letter and this reply letter shall constitute an agreement between the Parties.
+
+Thank you for your valuable cooperation in this matter.
+
+Yours sincerely,
+
+Zsigmond Perényi
+
+Deputy State Secretary
+
+**A LEVÉLVÁLTÁS hivatalos magyar nyelvű fordítása**
+
+**A NORVÉG KÜLÜGYMINISZTÉRIUM LEVELE**
+
+Perényi Zsigmond úr
+
+Nemzetközi Helyettes Államtitkár
+
+Európai Uniós Fejlesztésekért Felelős Államtitkárság
+
+Magyar Miniszterelnökség
+
+Wesselényi u. 20-22.
+
+1077 Budapest
+
+Magyarország Brüsszel, 2016. március 15.
+
+Tárgy: A Norvégia és Magyarország közötti együttműködési megállapodás B mellékletének módosítása
+
+Tisztelt Perényi Úr!
+
+A Norvég Finanszírozási Mechanizmus 2009–2014 végrehajtásáról szóló Szabályzat 2.1 cikke 4. bekezdéseivel összhangban a norvég Külügyminisztérium (NKM) javasolja, hogy a Norvég Királyság és Magyarország közötti együttműködési megállapodás (MoU) B Melléklete a B Mellékletnek e levélhez csatolt, változáskövetővel ellátott verziója szerint kerüljön módosításra.
+
+A javasolt módosítások az együttműködési megállapodásban tükrözik a HU12 „Népegészségügyi kezdeményezések” program Program Operátorának (PO) változását az „Emberi Erőforrások Minisztériumá”-ról az „Állami Egészségügyi Ellátó Központ”-ra.
+
+A NKM egyetért a PO javasolt változásával, a következő kikötésekkel:
+
+1\. Az MoU-ban bekövetkezett változás semmilyen körülmények között nem okozhat késedelmeket, beleértve bármilyen későbbi adminisztratív eljárást, ami szükséges lehet Magyarországon, és veszélyeztetheti az új PO projekttámogatás megítélésére vonatkozó képességét 2016. április 30-i határidővel (és a projektszintű információknak a DoRIS rendszerbe történő helyes feltöltését 2016. május 31-ig). Ahogy Ön is tisztában van vele, e határidők betartása a költségek elszámolhatóságára vonatkozó hosszabbítás projektszintű előfeltétele.
+
+2\. Az új PO jóváhagyása a már benyújtott és a Finanszírozási Mechanizmus Irodával megtárgyalt, nevesített projekt koncepciókról szóló tárgyalások újranyitását nem eredményezheti. Elvárás továbbá, hogy az új PO tekintse magáénak a benyújtott javaslatokat és fogadja el a már megtett és a Nemzeti Kapcsolattartóval közölt döntéseket.
+
+Az NKM kéri, hogy Ön erre a levélre válaszolva fejezze ki egyetértését a módosításokkal. E levél és az Ön egyetértő válaszlevele által az említett módosítások a B Mellékletben bekövetkeznek és az Ön válaszlevele keltezési dátumától hatályba lépnek. A hatályba lépést követően az együttműködési megállapodást a módosított B Melléklettel együtt meg kell jeleníteni a Nemzeti Kapcsolattartó és a Finanszírozási Mechanizmus Iroda honlapján.
+
+Tisztelettel:
+
+Anders Erdal
+
+Helyettes Főigazgató
+
+Norvég Külügyminisztérium
+
+Csatolmányok:
+
+1) A „B” Melléklet változáskövetővel ellátott verziója
+
+2) A „B” melléklet végső verziója
+
+B melléklet
+
+**Végrehajtási keretrendszer**
+
+A Szabályzat 2.1 cikke értelmében a Felek a jelen mellékletében felvázolt végrehajtási keretrendszerben állapodtak meg.
+
+**1. A Végrehajtási keretrendszer pénzügyi jellemzői**
+
+<table><tbody><tr><td>**Magyarország**</td><td rowspan="2">**Norvég FM hozzájárulás**</td></tr><tr><td>**Programterület**</td></tr><tr><td>Zöld ipari innováció</td><td>€ 22,880,000</td></tr><tr><td>Globális alap a méltányos munka és háromoldalú párbeszéd előmozdításáért</td><td>€ 832,000</td></tr><tr><td>Kétoldalú kutatási együttműködés</td><td>€ 24,128,000</td></tr><tr><td>Intézményfejlesztés és intézményközi együttműködés a magyar és norvég közintézmények, helyi és regionális hatóságok között</td><td>€10,816,000</td></tr><tr><td>Népegészségügyi kezdeményezések</td><td>€ 16,640,000</td></tr><tr><td>**További juttatások**</td><td></td></tr><tr><td>Technikai segítségnyújtás a Kedvezményezett ország részére (1.9 cikk)</td><td>€ 1,248,000</td></tr><tr><td>Kétoldalú kapcsolatok nemzeti alapja (3.5.1 cikk)</td><td>€ 416,000</td></tr><tr><td>Nettó juttatás Magyarország számára</td><td>€ 76,960,000</td></tr></tbody></table>
+
+**2. Különös rendelkezések**
+
+A Norvégia és Magyarország közti kétoldalú kapcsolatok erősítésének célja a hosszú távú együttműködések kialakításának ösztönzése, a felsorolt programterületek közül különösen azok esetében, melyekbe donor program partner kerül bevonásra, valamint egyéb eszközök által, mint például a projekt szintű partnerségek a támogatott programterületek mindegyikében.
+
+A program javaslatok értékelése során az Európa Tanács emberi jogokkal és kormányzással kapcsolatos standardjait figyelembe kell venni – így a Kínzást és az Embertelen vagy Megalázó Bánásmódot vagy Büntetést Megelőzni Hivatott Európai Bizottság (CPT), a Korrupció Ellenes Országok Csoportja (GRECO), az Emberkereskedelem elleni szakértői csoport (GRETA), az Európai Bizottság a Rasszizmus és Intolerancia Ellen (ECRI), stb. által nyomon követett alapelveket – beleértve az emberi jogok és alapvető szabadságok védelméről szóló egyezményt is.
+
+**3. A végrehajtási keretrendszer tartalmi jellemzői**
+
+A Kedvezményezett ország az alábbiakban meghatározott programokat dolgozza ki és hajtja végre a Norvég Királyság Külügyminisztériumának jóváhagyása esetén.
+
+**A. programterület: Zöld ipari innováció**
+
+*Program:* Zöld ipari innováció
+
+*Célkitűzés:* Zöld vállalkozások versenyképességének növelése, ideértve a működő ipar zöldítését, a zöld innovációt, és a zöld vállalati megoldások támogatását
+
+*Eredmények:* Hulladéktermelődés csökkenése, valamint a levegőbe, vízbe, talajba jutó szennyezőanyagok kibocsátásának mérséklése
+
+Környezetbarát technológiák növekvő mértékű használata
+
+Zöld munkahelyek teremtése és zöld vállalati megoldások alkalmazása
+
+*Program támogatási összeg:* € 22,880,000
+
+*Program operátor:* Szent István Egyetem
+
+*Donor program partner:* Innovation Norway
+
+**B. programterület: Globális alap a méltányos munka és háromoldalú párbeszéd előmozdításáért**
+
+*Program:* Méltányos munka
+
+*Célkitűzés:* Méltányos munka támogatása és a háromoldalú együttműködések erősítse a munkáltatók szervezeti, a szakszervezetek és az állami hatóságok között, az igazságos és fenntartható gazdasági és társadalmi fejlődés érdekében
+
+*Programtámogatási összeg:* € 832,000
+
+*Program operátor:* Innovation Norway
+
+**C. programterület: Kétoldalú kutatási együttműködés**
+
+*Program:* Kétoldalú kutatási együttműködés
+
+*Célkitűzés:* A kutatáson alapuló tudás-fejlesztés erősítése a Kedvezményezett országban a Norvégia és a Kedvezményezett ország közti fokozott kutatási együttműködés segítségével
+
+*Program támogatási összeg:* € 24,128,000
+
+*Program operátor:* Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+
+*Donor program partner:* Norvég Kutatási Tanács (RCN)
+
+*Különös rendelkezések:* A program fő célja a környezetvédelmi és egészségügyi tárgyú kutatások támogatása. A társadalomtudományi kutatások szintén jogosultak támogatásra. A programon belül 1 millió eurót a nemek közti esélyegyenlőség témájában folyó kutatásokra szükséges fordítani.
+
+**D. programterület:** **Intézményfejlesztés és intézményközi együttműködés a magyar és norvég közintézmények, helyi és regionális hatóságok között**
+
+*Program:* Intézményfejlesztés és intézményközi együttműködés a magyar és norvég közintézmények, helyi és regionális hatóságok között
+
+*Célkitűzés:* Megerősített intézményi kapacitások és humánerőforrás fejlesztése a Kedvezményezett ország közintézményeiben, helyi és regionális hatóságainál a közösen meghatározásra kerülő kiemelt támogatási területeken, a hasonló feladatokat ellátó norvég intézményekkel és hatóságokkal való együttműködés és tudásátadás által.
+
+*Program támogatási összeg:* € 10,816,000
+
+*Programoperátor:* Nemzeti Kapcsolattartó
+
+*Különös rendelkezések:* A program támogatási összeg legalább 30%-át a helyi és regionális hatóságok intézményfejlesztésére kell fordítani. A program támogatási összeg minimum 10%-át a nemek közti esélyegyenlőség előmozdítására szükséges fordítani. Az egész életen át tartó tanulás támogatásának meg kell jelenni a program céljai között.
+
+A kijelölt projekt(ek)et a Norvég Királyság Külügyminisztériuma és a Nemzeti Kapcsolattartó közösen fogadhatja el, és minden kijelölt projekt egy vagy több norvég intézménnyel partnerségben valósul meg.
+
+**E. programterület: Népegészségügyi kezdeményezések**
+
+*Program:* Népegészségügyi kezdeményezések
+
+*Célkitűzés:* Javuló népegészségügyi állapot és csökkenő egészségügyi egyenlőtlenségek
+
+*Eredmények:* Csökkenő egyenlőtlenségek a felhasználói csoportok között
+
+Az egészségügyi ellátások minőségének és hozzáférhetőségének javulása, beleértve a reproduktív és preventív gyermek-egészségügyi szolgáltatásokat
+
+Helytelen életmód okozta betegségek megelőzése és visszaszorítása
+
+Mentális egészségügyi szolgáltatások fejlesztése
+
+*Program támogatási összeg:* € 16,640,000
+
+*Program operátor:* Állami Egészségügyi Ellátó Központ
+
+*Donor program partner:* Norvég Népegészségügyi Intézet
+
+*Különös rendelkezések:* A program a leghátrányosabb helyzetű csoportok, köztük a roma népesség támogatását célozza.
+
+Az Együttműködési Bizottságba a szakterületen érintett államigazgatási intézmények képviselői is bevonásra kerülnek.
+
+**A MAGYAR HATÓSÁG LEVELE**
+
+Anders Erdal úr Iktatószám: NEPVF/187/1/2016.
+
+FMB elnöke
+
+Finanszírozási Mechanizmus Iroda
+
+Rue Joseph II, 12-16
+
+B-1000 Brussels, Belgium Budapest, 2016. március 16.
+
+Tárgy: A Norvég Finanszírozási Mechanizmus 2009–2014 megvalósítására vonatkozó, Norvég Királyság és Magyarország közötti együttműködési megállapodás B mellékletének módosítása
+
+Tisztelt Elnök Úr!
+
+Tisztelettel hivatkozom a 2016. március 15-i levelére, mely a következőket tartalmazza:
+
+„A Norvég Finanszírozási Mechanizmus 2009–2014 végrehajtásáról szóló Szabályzat 2.1 cikke 4. bekezdéseivel összhangban a norvég Külügyminisztérium (NKM) javasolja, hogy a Norvég Királyság és Magyarország közötti együttműködési megállapodás (MoU) B Melléklete a B Mellékletnek e levélhez csatolt, változáskövetővel ellátott verziója szerint kerüljön módosításra.
+
+A javasolt módosítások az együttműködési megállapodásban tükrözik a HU12 „Népegészségügyi kezdeményezések” program Program Operátorának (PO) változását az „Emberi Erőforrások Minisztériumá”-ról az „Állami Egészségügyi Ellátó Központ”-ra.
+
+A NKM egyetért a PO javasolt változásával, a következő kikötésekkel:
+
+1\. Az MoU-ban bekövetkezett változás semmilyen körülmények között nem okozhat késedelmeket, beleértve bármilyen későbbi adminisztratív eljárást, ami szükséges lehet Magyarországon, és veszélyeztetheti az új PO projekttámogatás megítélésére vonatkozó képességét 2016. április 30-i határidővel (és a projektszintű információknak a DoRIS rendszerbe történő helyes feltöltését 2016. május 31-ig). Ahogy Ön is tisztában van vele, e határidők betartása a költségek elszámolhatóságára vonatkozó hosszabbítás projektszintű előfeltétele.
+
+2\. Az új PO jóváhagyása a már benyújtott és a Finanszírozási Mechanizmus Irodával megtárgyalt, nevesített projekt koncepciókról szóló tárgyalások megújítását nem eredményezheti. Elvárás továbbá, hogy az új PO tekintse magáénak a benyújtott javaslatokat és fogadja el a már megtett és a Nemzeti Kapcsolattartóval közölt döntéseket.
+
+Az NKM kéri, hogy Ön erre a levélre válaszolva fejezze ki egyetértését a módosításokkal. E levél és az Ön egyetértő válaszlevele által az említett módosítások a B Mellékletben bekövetkeznek és az Ön válaszlevele keltezési dátumától hatályba lépnek. A hatályba lépést követően az együttműködési megállapodást a módosított B Melléklettel együtt meg kell jeleníteni a Nemzeti Kapcsolattartó és a Finanszírozási Mechanizmus Iroda honlapján.”
+
+Ezúton tájékoztatom, hogy a magyar fél egyetért az ön levelében megfogalmazottakkal. Ennek következtében ezúton tisztelettel megerősítem, hogy az ön levele és jelen válaszlevél a Felek közötti megállapodásnak tekintendő.
+
+Köszönöm az ügyben tanúsított értékes együttműködését.
+
+Tisztelettel:
+
+Perényi Zsigmond
+
+helyettes államtitkár
+
+”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az európai uniós források felhasználásáért felelős miniszter gondoskodik.
+
+(3) Az Együttműködési Megállapodás módosításokkal egységes szerkezetbe foglalt hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása közzétételéről az európai uniós források felhasználásáért felelős miniszter gondoskodik.

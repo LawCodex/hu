@@ -1,0 +1,212 @@
+---
+title: "350/2013. (X. 1.) Korm. rendelet Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti kulturális együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "350/2013. (X. 1.) Korm. rendelet"
+njt_id: "2013-350-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/350"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-10-01
+in_force_from: 2013-10-02
+last_amended: 2015-10-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-350-20-22"
+retrieved: 2026-10-12
+---
+
+# 350/2013. (X. 1.) Korm. rendelet Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti kulturális együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti kulturális együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+**„MAGYARORSZÁG KORMÁNYA ÉS A VIETNAMI SZOCIALISTA KÖZTÁRSASÁG KORMÁNYA KÖZÖTTI KULTURÁLIS EGYÜTTMŰKÖDÉSRŐL SZÓLÓ EGYEZMÉNY**
+
+Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya, a továbbiakban „A Felek”,
+
+annak érdekében, hogy továbbfejlesszék az országaik között meglévő barátságot, hogy elmélyítsék az emberek közötti kapcsolatokat, hogy fejlesszék az együttműködést a kulturális területen,
+
+abban a meggyőződésben, hogy a művészet mint az egymás országainak hagyományairól, kultúrájáról való tudás terjesztésének eszköze,
+
+felismerve azokat az előnyöket, amelyeket a két ország nyerhet a bilaterális együttműködés megerősítése révén az egyes országok jogi szabályozásának megfelelően, a következőkben állapodtak meg:
+
+**1. Cikk**
+
+A Felek ösztönzik a kulturális és művészeti együttműködést, hogy elősegítsék egymás kulturális értékeinek jobb megértését, és szorosabbra fűzzék az országaik közötti kapcsolatokat.
+
+**2. Cikk**
+
+A Felek ösztönzik a kapcsolatokat és cseréket az irodalom, képzőművészet, zene, tánc és más előadóművészetek terén, a filmművészet, televízió és rádió, építészet, könyvkiadás, múzeumok és gyűjtemények kapcsán, valamint a kreatív csoportok között, és a kultúra és művészetek további területein.
+
+A Felek kölcsönösen bátorítják könyvtáraikat a közvetlen együttműködésre és ösztönzik a másik Fél szerzői által alkotott és kiválasztott irodalmi művek fordítását és kiadását.
+
+A Felek ösztönzik és bátorítják (kutatási szervezeteiket) intézményeiket a közvetlen kulturális kapcsolatok létrehozására, valamint a kutatók és szakértők cseréjére.
+
+**3. Cikk**
+
+A Felek szorgalmazzák a kulturális hetek és napok szervezését a Felek oktatási és kulturális intézményeiben. Ezek magukban foglalják előadások és szemináriumok tartását, könyvkiállításokat és vásárokat, valamint a két ország eredményeinek bemutatását további más formákban.
+
+**4. Cikk**
+
+A Felek ösztönzik a különféle kulturális és művészeti tevékenységeket, különösen
+
+a kultúra különböző területei képviselőinek kölcsönös látogatásait az együttműködés, a gyakorlati ismeretek és cseretapasztalatok céljából,
+
+előadók és előadói csoportok koncertturnéjának, valamint más koncertek, előadások, kiállítások és egyéb kulturális események megszervezését,
+
+résztvevők meghívását fesztiválokra és hasonló nemzetközi rendezvényekre, amelyek országaikban kerülnek megrendezésre.
+
+**5. Cikk**
+
+A Felek bátorítják a kulturális tevékenységhez fűződő könyvek, kiadványok, magazinok, dokumentumok, filmek, továbbá egyéb anyagok és információs források cseréjét.
+
+**6. Cikk**
+
+A Felek bátorítják a helyi és nemzetközi konferenciákon, szemináriumokon, szimpóziumokon, tudományos és kulturális workshopokon való részvételt, és tájékoztatják egymást a hasonló eseményekről azok kezdete előtti megfelelő időben.
+
+**7. Cikk**
+
+A Felek együttműködnek a kulturális örökség területén a kulturális sokszínűség védelme és népszerűsítése érdekében, így különösen az UNESCO keretében, továbbá ösztönzik a kutatók cseréjét.
+
+**8. Cikk**
+
+A Felek bátorítják a két ország kulturális intézményei közötti egyéb együttműködési megállapodások kidolgozását.
+
+**9. Cikk**
+
+A jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen a jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**10. Cikk**
+
+A Felek megállapodnak abban, hogy szükség esetén a Felek illetékes képviselői konzultációkat folytatnak a végrehajtási programok aláírásával kapcsolatban, elővezetve az azok megvalósításához szükséges konkrét lépéseket és projekteket, valamint – ahol lehetséges – meghatározva az Egyezményben és a végrehajtási programokban vázolt események pénzügyi és szervezeti feltételeit.
+
+A konzultációk feltételeiről és az illetékes képviselők névsoráról a Felek diplomáciai úton egyeztetnek.
+
+**11. Cikk**
+
+A jelen Egyezmény értelmezése és végrehajtása során felmerülő vitás kérdéseket a Felek meghatalmazott képviselői diplomáciai úton rendezik.
+
+**12. Cikk**
+
+Ez az Egyezmény azon utolsó jegyzék kézhezvételétől számított harmincadik napon lép hatályba, melyben a felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek.
+
+Jelen Egyezmény öt évig hatályos, és automatikusan meghosszabbodik újabb ötéves időszakra. Az Egyezményt bármely szerződő fél írásban, diplomáciai úton felmondhatja. Ebben az esetben az Egyezmény a felmondásáról szóló értesítés átvételének napjától számított 6 hónap múlva veszti hatályát.
+
+Abban az esetben, ha a jelen Egyezmény hatályát veszti, előírásait a gyakorlatban továbbra is alkalmazni kell a még folyamatban lévő programok és projektek tekintetében mindaddig, amíg azokat teljes egészükben végre nem hajtják.
+
+Fentiek bizonyságául az alulírott képviselők, kormányaik megfelelő felhatalmazásának birtokában, aláírták a jelen Egyezményt.
+
+Készült Hanoi városban 2013. március 5-én magyar, vietnami és angol nyelven két eredeti példányban. Ezek mindegyike egyformán hiteles. Az értelmezésből származó bármely nézetkülönbség kialakulása esetén az angol nyelvű szöveg a mérvadó.
+
+Magyarország Kormánya nevében
+
+A Vietnami Szocialista Köztársaság Kormánya nevében
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF VIET NAM AND THE GOVERNMENT OF HUNGARY ON CULTURAL CO-OPERATION**
+
+The Government of the Socialist Republic of Viet Nam and the Government of Hungary, hereinafter referred to as „the Parties”;
+
+in order to enhance the bonds of friendship existing between their two countries, to widen the links binding their people, to develop co-operation in cultural domains,
+
+believing in the importance of art as a mean of enhancing the knowledge about our countries' customs and culture;
+
+recognizing the benefits each of the two countries may gain as a result of consolidating bilateral co-operation in accordance with the rules and regulations applied in each country, have agreed on the following:
+
+**Article 1**
+
+The Parties will promote cultural and artistic co-operation in order to enhance the better understanding of each other's cultural values and tighten the ties between their countries.
+
+**Article 2**
+
+The Parties will promote contacts and exchanges in the fields of literature, fine arts, music, dance, and other kinds of performing arts, cinematography, television and radio, architecture, book publishing, museum and archives, and also between creative groups and in other fields of culture and the arts.
+
+The Parties mutually encourage direct cooperation between their libraries and promote the translation and publishing of distinguished literary works produced by the authors of the other Party.
+
+The Parties will promote and encourage direct cultural relations between research establishments and the exchange of researchers and experts.
+
+**Article 3**
+
+The Parties will encourage the organization of cultural weeks and days in educational and cultural institutions of each country. These will include the giving of lectures and the holding of seminars, book exhibitions and fairs, other forms of presenting the achievements of both countries.
+
+**Article 4**
+
+The Parties will promote the arrangement of various cultural and artistic activities, especially
+
+organizing mutual visits of representatives of various fields of culture for the purposes of co-operation, internships, exchanging experience;
+
+organizing concert tours of individual artists and artistic groups, concerts, performances, exhibitions and other cultural events;
+
+inviting participants to festivals and similar international shows which are hosted by one of the Parties.
+
+**Article 5**
+
+The Parties will encourage the exchange of books, brochures, periodicals, documents, films and other materials and sources of information related to cultural activities in both countries.
+
+**Article 6**
+
+The Parties will encourage participation in local and international conferences, seminars, symposia, scientific and cultural workshops, and will inform one another about such events a sufficient period of time in advance of their start.
+
+**Article 7**
+
+The Parties will co-operate in the domain of cultural heritage and in the protection and promotion of cultural diversity in their respective countries especially under the aegis of UNESCO and will exchange experts in this domain.
+
+**Article 8**
+
+The Parties will encourage elaborating special agreements on co-operation between involved cultural institutions of the two countries.
+
+**Article 9**
+
+Commitments originating from the membership of Hungary in the European Union are not affected by the present Agreement. As a consequence of this, provisions of the present Agreement will not be interpreted in a way that it would annul, amend or have any other effect on the commitments of Hungary originating especially from the treaties forming the basis of the European Union, as well as those commitments originating from the primary and secondary legislation of the European Union.
+
+**Article 10**
+
+The Parties will agree whenever necessary to hold consultations between the authorized representatives of the Parties to sign the executive programs, foreseeing the concrete measures and projects for the fulfilment of this Agreement and defining, where it is possible, the financial and other organizational terms in order to carry out events, provided by this Agreement and executive programs.
+
+The terms of consultations and the list of authorized representatives will be agreed by the Parties through diplomatic channels.
+
+**Article 11**
+
+Any disputes between the two Parties arising from the interpretation and implemention of this Agreement shall be settled through consultation or negotiation.
+
+**Article 12**
+
+This Agreement will enter into force on the thirtieth day after the receipt of the latter written notification by the Parties through diplomatic channels confirming the completion of their respective internal procedures required for the entry into force of this Agreement.
+
+This Agreement is valid for five years, and will be renewed automatically for five years. The Agreement may be terminated by either of the Parties in written form, through diplomatic channels. In this case, the Agreement expires six months after receiving the notification about its termination.
+
+In the event this Agreement is terminated, its provisions will continue to be implemented with respect to existing programmes and projects until they are completed.
+
+In witness thereof, the undersigned, being duly authorized by their respective Governments, have signed this Agreement.
+
+Done in the city of Hanoi on 5 March 2013 in two originals in the Vietnamese, Hungarian, and English, all texts being equally valid. In case of divergence of interpretation, the English text will prevail.
+
+On behalf of the Government\
+of Hungary
+
+On behalf of the Government of Socialist Republic\
+of Viet Nam”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a kultúráért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba. A 32/2015. (X. 9.) KKM közlemény alapján a hatálybalépés időpontja 2015. október 6.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba. A 32/2015. (X. 9.) KKM közlemény alapján a hatálybalépés időpontja 2015. október 6.
+[^3]: A 32/2015. (X. 9.) KKM közlemény alapján a hatálybalépés időpontja 2015. október 6.
+[^4]: Lásd a 32/2015. (X. 9.) KKM közleményt.

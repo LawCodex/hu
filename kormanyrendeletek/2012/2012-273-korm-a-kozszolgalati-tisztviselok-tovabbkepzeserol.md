@@ -1,0 +1,665 @@
+---
+title: "273/2012. (IX. 28.) Korm. rendelet a közszolgálati tisztviselők továbbképzéséről"
+identifier: "273/2012. (IX. 28.) Korm. rendelet"
+njt_id: "2012-273-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/273"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-09-28
+in_force_from: 2012-09-29
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-273-20-22"
+retrieved: 2026-10-12
+---
+
+# 273/2012. (IX. 28.) Korm. rendelet a közszolgálati tisztviselők továbbképzéséről
+
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 16. pont a) alpontjában és a 17. pont *c)* alpontjában foglalt felhatalmazás alapján,
+
+a 29. § tekintetében a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1a) bekezdésében,
+
+a 30. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (5) bekezdés a) pontjában,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Hatály
+
+#### 1. §
+
+(1)[^1] E rendelet hatálya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre, továbbá az e szerveknél foglalkoztatott kormánytisztviselőkre és köztisztviselőkre, valamint a Nemzeti Közszolgálati Egyetemre, a nyilvántartásba vett továbbképzési programmal rendelkező képzőintézményekre, továbbá a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központra (a továbbiakban: személyügyi központ) terjed ki.
+
+(2)[^2] A rendelet hatálya – az (5) bekezdésben meghatározott kivétellel – kiterjed a kormányzati ügykezelőre, közszolgálati ügykezelőre abban az esetben, ha a munkáltató döntése alapján, vagy önként vállalt továbbképzésen vesz részt.
+
+(2a)[^3]
+
+(2b)[^4] A területi kormányzati igazgatási szerv kormánytisztviselőjére e rendelet előírásait a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
+
+(3)[^5]
+
+(4) A polgármester, helyi önkormányzati képviselő közszolgálati továbbképzése esetén e rendelet szabályait kell megfelelően alkalmazni.
+
+(5)[^6] A rendelet hatálya nem terjed ki a Nemzeti Adó- és Vámhivatalra, valamint a személyi állományába tartozó kormánytisztviselőkre és kormányzati ügykezelőkre.
+
+(6)[^7]
+
+## 2. Értelmező rendelkezések
+
+#### 2. §
+
+(1)[^8] E rendelet alkalmazásában:
+
+a)[^9]
+
+b)[^10] *belső továbbképzés:* közigazgatási szerv, felsőoktatási intézmény vagy felnőttképző által folytatott továbbképzés vagy szakmai képzés, amely a megrendelő közigazgatási szerv számára speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít;
+
+c) *egyéni továbbképzési terv:* a közszolgálati tisztviselő tárgyévre meghatározott tanulmányi kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
+
+d)[^11] *egyszerűsített nyilvántartásba vétel:* a belső továbbképzési program és az azt megvalósító közigazgatási szerv, felsőoktatási intézmény, felnőttképző nyilvántartásba vétele, amelynek eredményeként a továbbképzési program felkerül a továbbképzési programjegyzékre;
+
+e) *éves továbbképzési terv:* a munkáltatónál foglalkoztatott kormánytisztviselők, köztisztviselők egyéni továbbképzési terveinek összessége;
+
+f) *képzésfejlesztés:* a közszolgálati továbbképzési programokban felhasznált szakanyagok létrehozása, a képzés során alkalmazott oktatásmódszertan, a képzések követelményrendszerének megfelelő tanmenet és a képzésekben felhasznált tananyagok, oktatási segédanyagok fejlesztése;
+
+g) *közszolgálati továbbképzési program:* általános közigazgatási, szakmai és vezetői ismeretek megszerzésére irányuló, a közigazgatási szakvizsgára való felkészülést moduláris rendszerben szolgáló, továbbá a jogalkalmazás javítására irányuló továbbképzések, melyek fejlesztéséről és megvalósításáról a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) gondoskodik;
+
+h) *minőségirányítási szabályzat:* a továbbképzés minőségirányítási szempontból történő vezetésére és szabályozására szolgáló szabályzat, amely irányítási kézikönyvként tartalmazza a továbbképzés tervezésének, fejlesztésének, szervezésének, végrehajtásának és ellenőrzésének eljárásait;
+
+i) *tanulmányi pont:* a közszolgálati továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
+
+j) *továbbképzési időszak:* a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négy éves időszak;
+
+k) *továbbképzési modul:* a továbbképzési rendszerben meghatározott programot alkotó, logikailag összetartozó ismeretanyagok, önállóan is elsajátítható tanulási egységek;
+
+l) *továbbképzési programjegyzék:* a közszolgálati továbbképzési és belső továbbképzési programokat tartalmazó, az NKE által vezetett nyilvántartás;
+
+m) *továbbképzési programminősítés:* továbbképzési programok megfelelőségének vizsgálata a minőségirányítási szabályzat és a szakmai követelményrendszer feltételei alapján.
+
+(2)[^12] E rendeletben meghatározott továbbképzési programjegyzéken szereplő minősített programok a honvédelmi és rendvédelmi szerveknél foglalkoztatottak, valamint a polgári nemzetbiztonsági szolgálat személyi állományának képzése esetén igénybe vehetők.
+
+(3) A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, illetve nemzetközi konferenciára, tanulmányútra a belső továbbképzési programra vonatkozó szabályokat kell alkalmazni.
+
+## 3. [^13] A közszolgálati továbbképzés ágazati irányítása
+
+### A személyügyi központ vezetőjének feladatai
+
+#### 3. §
+
+(1) A kormánytisztviselő, köztisztviselő továbbképzése állami feladat.
+
+(2)[^14] A kormánytisztviselők, köztisztviselők továbbképzésének, vezetőképzésének ágazati irányítása a személyügyi központ vezetőjének a feladata.
+
+(3)[^15] A személyügyi központ vezetője irányítási és felügyeleti jogkörében különösen:
+
+a) irányítja a továbbképzés intézményrendszerét, kialakítja és működteti – az NKE közreműködésével – a továbbképzés minőségirányítási rendszerét;
+
+b) felügyeli az NKE továbbképzési tervezéssel összefüggő, valamint módszertani és minőségirányítási tevékenységét;
+
+c) felügyeli – az NKE bevonásával – a közigazgatási szervek éves továbbképzési tervezési tevékenységét, a tervek végrehajtását;
+
+d) az e rendelet alapján minősített továbbképzési programot központilag előírt továbbképzési programnak nyilváníthat;
+
+e) egyetértési jogot gyakorol minősített továbbképzési program – ágazati miniszter által az adott ágazatban dolgozó közszolgálati tisztviselők számára – kötelezően előírt továbbképzési programmá nyilvánításával kapcsolatban;
+
+f)[^16] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen jóváhagyja a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az NKE által elkészített jelentést;
+
+g)[^17] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen kiadja a közszolgálati továbbképzés egységes minőségirányítási szabályzatát az NKE – a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
+
+h)[^18] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
+
+## 4. A közszolgálati továbbképzés szervezetrendszere
+
+### Közigazgatási Továbbképzési Kollégium
+
+#### 4. §
+
+(1)[^19] A KTK a személyügyi központ vezetője közszolgálati továbbképzéssel, valamint a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter fővárosi és megyei kormányhivatalok kormánytisztviselőinek továbbképzésével összefüggő feladatait segítő szakmai tanácsadó és véleményező testülete.
+
+(2)[^20] A KTK elnöke az NKE rektora.
+
+(2a)[^21] A KTK tagjai az NKE rektorának javaslatára a személyügyi központ vezetője és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által – egyenlő arányban – felkért tagok, valamint a Magyar Kormánytisztviselői Kar által delegált tag.
+
+(2b)[^22] A KTK felkért tagjainak megbízatását – az NKE rektorának javaslatára – a személyügyi központ vezetője, illetve a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolás nélkül visszavonhatja.
+
+(3) A KTK működési rendjének szabályait ügyrendjében állapítja meg.
+
+(4)[^23] A KTK feladatai:
+
+a)[^24] meghatározza a minősített továbbképzési programok tartalmával kapcsolatos szakmai követelményeket, és dönt a továbbképzési programok minősítéséről, felfüggesztéséről vagy törléséről;
+
+b) véleményezi a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az NKE által elkészített jelentést;
+
+c)[^25]
+
+d)[^26] dönt a programminősítési szakértői névjegyzékbe és az oktatói névjegyzékbe való felvételről, illetve a névjegyzékből való törlésről;
+
+e)[^27] dönt a belső továbbképzési program egyszerűsített nyilvántartásba vételét elutasító döntéssel szemben benyújtott panaszról.
+
+(4a)[^28] A KTK – a személyügyi központ vezetője, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az ágazati irányítást, illetve felügyeletet ellátó intézmények, valamint a közigazgatási szervek által meghatározott képzési igények alapján – képzésfejlesztési feladatot határoz meg az NKE számára.
+
+(5)[^29] A KTK feladatainak ellátását a KTK Titkársága segíti. A KTK Titkársága a KTK ügyrendje alapján a KTK üléseinek előkészítésével, lebonyolításával, valamint dokumentálásával kapcsolatos döntés-előkészítési és adminisztratív feladatokat látja el.
+
+(6)[^30] A KTK Titkárság feladatait az NKE látja el.
+
+### A Nemzeti Közszolgálati Egyetem
+
+#### 6. §[^32]
+
+Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+
+a) a továbbképzési programok fejlesztésével összefüggő feladata körében kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
+
+b) a továbbképzési tervezéssel összefüggő feladatai körében:
+
+ba) működteti a közszolgálati tisztviselők továbbképzésének országos tervezési rendszerét,
+
+bb) kialakítja és működteti a továbbképzésekkel összefüggő tervkészítési feladatok ellátását támogató informatikai alkalmazást,
+
+bc) kidolgozza a tervkészítéshez és az értékeléshez szükséges módszertani eljárásokat,
+
+bd) elvégzi a továbbképzési tervek összesítését,
+
+be)[^33] a tervek végrehajtása alapján éves összefoglaló jelentést készít a személyügyi központ vezetője részére a tárgyévet követő év április 30-áig;
+
+c) a közszolgálati továbbképzési programok megvalósításával összefüggő feladatai körében:
+
+ca) az éves továbbképzési tervek alapján kialakítja oktatási programját, meghirdeti és megszervezi a továbbképzéseket,
+
+cb)[^34] a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ vezetője részére,
+
+cc)[^35] éves összefoglaló jelentést készít a személyügyi központ vezetője részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
+
+d) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében:
+
+da)[^36] fejleszti és működteti a továbbképzés minőségirányítási rendszerét a személyügyi központ vezetője által kiadott továbbképzés minőségirányítási szabályzata alapján,
+
+db) a továbbképzési programok minőségének megfelelősége érdekében minőségügyi ellenőrzéseket végez,
+
+dc) biztosítja a továbbképzésekkel összefüggő képzésmenedzsment feladatokhoz szükséges informatikai alkalmazást, valamint fejleszti és működteti az elektronikus képzési programok és vizsgák igénybevételéhez szükséges központi oktatásinformatikai rendszert,
+
+dd) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében módszertani irányelveket határoz meg, előkészíti a továbbképzés minőségirányítási szabályzatát;
+
+e) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
+
+f) közreműködik a továbbképzési programok minősítésében;
+
+g)[^37] gondoskodik a belső továbbképzési programok egyszerűsített nyilvántartásba vételéről és a továbbképzési programjegyzék kezeléséről.
+
+#### 6/A. §[^38]
+
+Az NKE által szervezett továbbképzésen kizárólag olyan természetes személy lehet továbbképzési oktató, aki a NKE által kiírt pályázat alapján a 4. § (4) bekezdés d) pontjában szereplő oktatói névjegyzékbe felvételt nyert, és a 6. § e) pontjában megjelölt továbbképzésen részt vett.
+
+### A belső továbbképzési programmal rendelkező képzőintézmények
+
+#### 7. §[^39]
+
+(1)[^40] Belső továbbképzési program folytatásának feltétele, hogy azt az NKE egyszerűsített nyilvántartásba vételi eljárás keretében felvegye a továbbképzési programjegyzékre.
+
+(2)[^41] A nyilvántartásba vételt a képzést igénylő közigazgatási szerv kezdeményezi. A kérelem elutasításával szemben a kezdeményező részéről a 15. § (5a) bekezdésben foglalt panasznak van helye.
+
+(3)[^42] A nyilvántartás a felsőoktatási intézmény és a felnőttképző adatait is tartalmazza.
+
+(4) A nyilvántartásba vett belső továbbképzési programot más közigazgatási szerv a (2) bekezdésben meghatározott nyilvántartásba vételi eljárás nélkül veheti igénybe. A közigazgatási szerv jogosult az általa megvalósított belső továbbképzést másik közigazgatási szervnél foglalkoztatott számára belső továbbképzésként nyújtani, feltéve, hogy a belső továbbképzési program a kormánytisztviselő, köztisztviselő egyéni továbbképzési tervében szereplő képzési igényhez illeszkedik.
+
+(5) A képzést igénylő közigazgatási szerv kezdeményezheti a belső továbbképzési program e rendelet szerinti minősítését (a továbbiakban: minősített belső továbbképzés).
+
+### A közigazgatási szerv feladatai
+
+#### 8. §[^43]
+
+(1) A közigazgatási szerv elkészíti a kormánytisztviselő, köztisztviselő éves egyéni továbbképzési tervét, valamint az egyéni tervek összesítésével elkészíti az intézmény éves továbbképzési tervét.
+
+(2) A közigazgatási szerv gondoskodik a kormánytisztviselő, köztisztviselő munkaköri feladataihoz illeszkedő belső, választható továbbképzésekről
+
+a) saját vagy más közigazgatási szerv, illetve a szervezetrendszert kiszolgáló belső képzőintézmény által nyilvántartásba vett, vagy minősített belső továbbképzés lebonyolításával,
+
+b)[^44] felsőoktatási intézmény vagy a felnőttképző képzési szolgáltatással.
+
+(3) A közigazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet, a képzések eredményét rögzíti az NKE által biztosított informatikai alkalmazásban.
+
+## 5. A kormánytisztviselő, köztisztviselő továbbképzési kötelezettsége
+
+#### 9. §
+
+(1)[^45] A kormánytisztviselő, köztisztviselő továbbképzési kötelezettsége a közszolgálati, valamint belső továbbképzési programokkal teljesíthető.
+
+(2) A továbbképzések teljesítésének mérése tanulmányi pontrendszerrel történik.
+
+(3)[^46] A felsőfokú végzettséggel rendelkező kormánytisztviselőnek, köztisztviselőnek a továbbképzési időszak alatt legalább 128 tanulmányi pontot, az érettségi végzettséggel rendelkező kormánytisztviselőnek, köztisztviselőnek legalább 64 pontot kell teljesíteni.
+
+(4)[^47] A kormánytisztviselő, köztisztviselő a munkáltató egyetértésével és támogatásával a (3) bekezdésben minimálisan előírtnál több pontot is teljesíthet a továbbképzési időszakban. A továbbképzési időszakra a kormánytisztviselő, köztisztviselő számára előírt pontértéken felül megszerzett tanulmányi pontokból felsőfokú végzettségűek esetében legfeljebb 32 pont, érettségi végzettségűek esetében legfeljebb 16 pont számítható be a következő továbbképzési időszakban előírt tanulmányi pontok javára, feltéve, ha a tanulmányi többletpontok megszerzése a továbbképzési időszak utolsó 12 hónapjában történt.
+
+(5)[^48] A továbbképzési kötelezettségek teljesítésébe – legfeljebb az előírt kötelezettség 25%-áig – beszámíthatóak a kormánytisztviselő, köztisztviselő által teljesített belső továbbképzési programok.
+
+(6) A kormánytisztviselő, köztisztviselő által teljesített tanulmányi pontokról a továbbképzést megvalósító képzőintézmény állítja ki a tanúsítványt.
+
+(7) A tanúsítványnak tartalmaznia kell különösen:
+
+a)[^49] a kormánytisztviselő, köztisztviselő nevét és születési nevét, születési helyét, idejét és anyja születési nevét,
+
+b) a program megnevezését,
+
+c) a megszerzett tanulmányi pontok számát,
+
+d) a tanúsítvány kiállításának dátumát,
+
+e) a tanúsítvány kiállítójának megnevezését.
+
+(8) A megszerzett tanulmányi pontokat a kormánytisztviselő, köztisztviselő munkáltatója tartja nyilván. A munkáltató a kormánytisztviselő, köztisztviselő által megszerzett tanulmányi pontokról, a tanulmányi kötelezettség teljesítéséről a személyügyi központ részére statisztikai célú adatszolgáltatást köteles nyújtani.
+
+#### 9/A. §[^50]
+
+A kormánytisztviselő, köztisztviselő továbbképzési időszakonként legalább egy, a korrupció-megelőzés témakörét érintő közszolgálati továbbképzést köteles teljesíteni.
+
+#### 9/B. §[^51]
+
+A kormánytisztviselő, köztisztviselő továbbképzési időszakonként legalább egy, az Alaptörvény értékeit bemutató közszolgálati továbbképzést köteles teljesíteni.
+
+#### 9/C. §[^52]
+
+Az a kormánytisztviselő, illetve köztisztviselő, aki a munkáltatói jogkör gyakorlója által kijelölt, jogszabály-előkészítési feladatok ellátását szolgáló álláshelyet, illetve munkakört tölt be (a továbbiakban együtt: jogszabály-előkészítési feladatok ellátását szolgáló munkakör), a jogszabályok preambulumával összefüggő követelményeket ismertető továbbképzést köteles teljesíteni.
+
+## 6. A továbbképzési időszak
+
+### A továbbképzési időszak kezdete, tartama
+
+#### 10. §
+
+(1) A kormánytisztviselő, köztisztviselő továbbképzési kötelezettsége a közigazgatási alapvizsga letételének napjával kezdődik. Amennyiben a kormánytisztviselő, köztisztviselő közigazgatási alapvizsga letétele alól mentesül, akkor a továbbképzési kötelezettség a próbaidő leteltét követő napon kezdődik.
+
+(1a)[^53] Az egységes államigazgatási telefonos és elektronikus ügyfélszolgálatnál ügyfélszolgálati munkakörben foglalkoztatott kormánytisztviselő továbbképzési kötelezettsége a próbaidő leteltét követő napon kezdődik.
+
+(1b)[^54]
+
+(2) A kormánytisztviselő, köztisztviselő továbbképzése továbbképzési időszakokban történik. A továbbképzési időszak időtartama négy év.
+
+(2a)[^55] A kormánytisztviselő, köztisztviselő a továbbképzési időszak egyes éveiben köteles megszerezni a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 15%-át úgy, hogy a továbbképzési időszak harmadik évének végére a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 75%-át elérje.
+
+(3) A kötelező részmunkaidőben foglalkoztatottak továbbképzési időszakát és az általuk teljesítendő tanulmányi pontok számát arányosan kell megállapítani.
+
+### A továbbképzési időszak megszakadása, megszűnése
+
+#### 11. §
+
+(1) A továbbképzési időszak megszakad, ha a továbbképzésre kötelezett kormánytisztviselő, köztisztviselő jogviszonya megszűnik. A továbbképzési időszak tovább folytatódik és a megszerzett pontokat a tanulmányi pontok teljesítésekor figyelembe kell venni, ha a volt kormánytisztviselő, köztisztviselő a továbbképzési időszak alatt ismételten kormányzati szolgálati, közszolgálati jogviszonyt létesít.
+
+(2)[^56] Amennyiben a továbbképzésre kötelezett csecsemőgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási díj igénybe vétele miatt, vagy egyéb okból három hónapot meghaladóan fizetés nélküli szabadságot vagy táppénz ellátást vesz igénybe, vagy tartós külszolgálatot teljesít a továbbképzési időszakban szerzendő tanulmányi pontokat időarányosan kell teljesíteni.
+
+(3) A kormánytisztviselő, köztisztviselő továbbképzési kötelezettsége megszűnik, ha a rá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra.
+
+## 7. A továbbképzési kötelezettség teljesítésének finanszírozása
+
+#### 12. §
+
+(1)[^57] A kormánytisztviselő, köztisztviselő számára előírt továbbképzési kötelezettségek teljesítéséhez szükséges pénzügyi forrást legalább az előírt tanulmányi kötelezettségek teljesítését biztosító mértékben a központi költségvetés biztosítja.
+
+(2)[^58] A közszolgálati továbbképzés, valamint a közigazgatási szakvizsgák költségei az NKE költségvetésében kerülnek tervezésre a közigazgatási szervek összesített foglalkoztatotti létszáma alapján. A költségvetési tervezés alapja az illetményalap 73%-a, a tervezéskor a közigazgatási szerveknél a költségvetési évet megelőző év január 1-jén foglalkoztatott kormánytisztviselők, köztisztviselők összesített létszámát alapul véve, amelyhez a Magyar Államkincstár szolgáltat adatot a Pénzügyminisztérium és az NKE részére a költségvetési évet megelőző év január 31-ig. Ha a közigazgatási szerveknél a költségvetési évet megelőző év január 1-jén foglalkoztatott kormánytisztviselők, köztisztviselők összesített létszáma eltér a közigazgatási szerveknél a tárgyév január 1-jén foglalkoztatott kormánytisztviselők, köztisztviselők létszámától, akkor a különbözetet el kell számolni az NKE tárgyévet követő évi költségvetésében.
+
+(3)[^59] Ha a kormánytisztviselő, köztisztviselő nem vesz részt a továbbképzésben, az NKE utólag nem számol el a központi költségvetésből biztosított keret összegével, a keletkezett többletet az NKE a továbbképzési rendszer működtetésére használja fel.
+
+(4)[^60] A közigazgatási szerv közszolgálati továbbképzési vagy közigazgatási szakvizsga igényei az év folyamán intézményi szinten legfeljebb 25%-kal haladhatják meg a továbbképzési kötelezettség időarányos teljesítéséhez szükséges tanulmányi pontszámot.
+
+(5)[^61] Ha a közigazgatási szervnél a tárgyév január 1-jét követően keletkezik továbbképzési kötelezettség, akkor a kormánytisztviselő, köztisztviselő után az NKE részére a központi költségvetésből biztosított összeg időarányosan kerül tervezésre többletként az NKE tárgyévet követő évi költségvetésében.
+
+(5a)[^62] Ha
+
+a) a munkáltató személyében bekövetkező jogutódlásra,
+
+b) végleges áthelyezésre,
+
+c) a Kttv. 72. § (10) bekezdése alapján jogviszonyváltás következtében a kormánytisztviselő kormányzati szolgálati jogviszonyának közszolgálati jogviszonnyá alakulására vagy
+
+d) a Kttv. 229. § (3) bekezdése alapján jogviszonyváltás következtében a köztisztviselő közszolgálati jogviszonyának kormányzati szolgálati jogviszonnyá alakulására
+
+kerül sor, akkor a kormánytisztviselő részére megszerezni ajánlott éves tanulmányi pontmennyiségből a tárgyévben még nem teljesített továbbképzési pontok a jogelőd vagy áthelyező közigazgatási szerv intézményi pontkeretéből levonásra, a jogutód vagy az áthelyezés szerinti közigazgatási szerv intézményi pontkeretébe jóváírásra kerül.
+
+(5b)[^63]
+
+(5c)[^64] Az NKE a tárgyév kezdetén intézményi éves tanulmányi pontkeretet számol.
+
+(5d)[^65]
+
+(5e)[^66]
+
+(5f)[^67]
+
+(6) A kormánytisztviselő, köztisztviselő továbbképzési kötelezettségeinek teljesítésére felhasznált költség kizárólag a programjegyzéken szereplő programok útján használható fel.
+
+(7)[^68] A kormánytisztviselő, köztisztviselő számára előírt továbbképzési kötelezettségek teljesítéséhez a központi költségvetésből biztosított forrásösszeg az NKE működési kiadásaira fedezetet biztosít.
+
+(8)[^69] A munkakörhöz kapcsolódó speciális szakmai továbbképzési igényeket a közigazgatási szerv a programjegyzékre felvett belső továbbképzésekkel teljesíti.
+
+(9)[^70]
+
+(10)[^71]
+
+## 8. A továbbképzési programok
+
+### A továbbképzési programjegyzék
+
+#### 13. §
+
+(1) A kormánytisztviselő, köztisztviselő továbbképzése kizárólag továbbképzési programjegyzéken szereplő, nyilvántartásba vett programok alapján végezhető.
+
+(2)[^72]
+
+### A továbbképzési programok minősítése
+
+#### 14. §[^73]
+
+(1)[^74] A közszolgálati továbbképzési program, illetve a 7. § (5) bekezdése szerinti belső továbbképzési program programminősítési eljárás alapján kerül a programjegyzékben nyilvántartásba vételre – az NKE által – a beérkezéstől számított 60 napon belül.
+
+(2) Az e rendelet szerinti szakértő a KTK-nak javaslatot tesz a program minősítésére és ennek részeként a továbbképzési programmal teljesíthető tanulmányi pontértékre vonatkozóan.
+
+(3) A KTK dönt a program minősítéséről, illetve annak elutasításáról. A minősített program a döntéssel válik a továbbképzési programjegyzék részévé.
+
+(4)[^75] Az elutasító döntéssel szemben a kérelmező a 7. § (5) bekezdése szerinti eljárásban a döntés közlésétől számított 5 munkanapon belül – jogsértésre hivatkozással – panasszal élhet. A panaszt a személyügyi központ vezetőjének címezve a KTK Titkárságához kell benyújtani, amely 15 napon belül javaslatot tesz a személyügyi központ vezetőjének a döntés megalapozottságáról.
+
+(5)[^76] A panasz megalapozottsága esetén a személyügyi központ vezetője a KTK-t a panaszban foglaltaknak megfelelő intézkedésre utasítja. A személyügyi központ vezetője a panasz megalapozatlansága esetén a panaszt elutasítja.
+
+(6) A KTK jogosult a továbbképzési program programjegyzékről való törlésére, amennyiben a továbbképzési program nem felel meg a minőségirányítási szabályzatban előírt feltételeknek.
+
+### A belső továbbképzések egyszerűsített nyilvántartásba vétele
+
+#### 15. §
+
+(1) A kormánytisztviselő, köztisztviselő tanulmányi kötelezettségének mérhetősége és a tanulmányi pontok megállapítása érdekében a belső továbbképzési programokat és a képző szervezetet is nyilvántartásba kell vetetni a továbbképzési programok jegyzékére.
+
+(2) A belső továbbképzési programok egyszerűsített nyilvántartásba vételi eljárása során a belső továbbképzési program alapadatait és a képzést végző szervezet adatait kell nyilvántartásba venni a továbbképzési programok jegyzékére, valamint meg kell állapítani a programhoz rendelt tanulmányi pontértéket is.
+
+(3)[^77] Az egyszerűsített nyilvántartásba vételi eljárást az NKE folytatja le.
+
+(4)[^78] A továbbképzési program akkor vehető nyilvántartásba, ha
+
+a) a nyilvántartásba vételt az arra jogosult intézmény kezdeményezi és
+
+b) a nyilvántartásba vételi kérelem megfelel a minőségirányítási szabályzat vonatkozó rendelkezéseinek.
+
+(5)[^79] Ha a belső továbbképzési program nyilvántartásba vételére irányuló eljárásban az NKE megállapítja, hogy a továbbképzési program nem felel meg a (4) bekezdésben foglaltaknak, a nyilvántartásba vételt elutasítja.
+
+(5a)[^80] A belső továbbképzési program egyszerűsített nyilvántartásba vételét elutasító döntéssel szemben a kérelmező a döntés közlésétől számított 5 munkanapon belül – jogsértésre hivatkozással – panasszal élhet. A panaszt a KTK elnökének címezve kell az NKE-nél benyújtani. Az NKE a panaszt az azzal kapcsolatos álláspontjával együtt 5 munkanapon belül a KTK titkárságán keresztül terjeszti fel a KTK-hoz, amely a döntés megalapozottságáról 15 napon belül dönt.
+
+(5b)[^81] A KTK a panasz megalapozatlansága esetén a panaszt elutasítja.
+
+(6) Ha a belső továbbképzésnek minősülő továbbképzési program adataiban változás áll be, a kérelmező köteles az NKE részére 15 napon belül a változás bejelentésére.
+
+(7) A belső továbbképzési program szakmai tartalmáért és minőségéért a nyilvántartásba vételt kérelmező szervezet felel.
+
+(8)[^82]
+
+### A programminősítésben közreműködő szakértők
+
+#### 16. §
+
+(1) A programminősítési eljárásban az NKE felkérésére szakértők működnek közre. A szakértőkről az NKE névjegyzéket vezet.
+
+(2) A szakértői névjegyzékre az a szakértő vehető fel, aki
+
+a) felsőfokú iskolai végzettséggel,
+
+b) általános közszolgálati ismeretek területén, valamely szakigazgatási területen, a vezetőképzési vagy a felnőttképzés területén szerzett legalább 5 éves szakmai gyakorlattal rendelkezik és
+
+c) az NKE által szervezett módszertani felkészítőn részt vett.
+
+(3)[^83] A névjegyzéken szereplés feltétele, hogy az NKE által szervezett rendszeres módszertani továbbképzéseken a szakértő részt vegyen. Amennyiben a szakértő az NKE felszólítására sem vesz részt a módszertani felkészítőkön, akkor az NKE törli a névjegyzékről.
+
+## 9. A közszolgálati továbbképzések ellenőrzése (minőségirányítás)
+
+#### 17. §[^84]
+
+(1) A minősített továbbképzések minőségi megfelelőségének biztosítása érdekében minőségirányítási rendszert kell működtetni.
+
+(2) A minősített továbbképzési programok minőségirányítási folyamatairól, így különösen a képzésfejlesztés, a képzésmegvalósítás folyamatáról, az ellenőrzés módjáról, az ellenőrzés végzésére jogosult személyekről, az ellenőrzési megállapítások következményeiről, a minőség értékelésének módjáról, a panaszkezelési eljárásról és az ellenőrzési jelentésről a minőségirányítási szabályzat rendelkezik.
+
+(3)[^85] A közszolgálati továbbképzés minőségirányítási szabályzatát – az NKE és a KTK közreműködésével – a személyügyi központ vezetője adja ki.
+
+## 10. A közszolgálati tisztviselők továbbképzésének tervezése
+
+### A tervszerű továbbképzés
+
+#### 18. §
+
+(1) A kormánytisztviselő, köztisztviselő továbbképzése tervszerűen, továbbképzési tervek alapján történik.
+
+(2) Kötelező továbbképzésnek minősül minden olyan képzés, ami a továbbképzési tervekben szerepel.
+
+(3) A közigazgatási szerv köteles a kormánytisztviselőnek, köztisztviselőnek biztosítani a éves továbbképzési tervvel összhangban a továbbképzésben való részvétel feltételeit.
+
+(4)[^86] A továbbképzési tervek tartalmazzák a tanulmányi kötelezettség teljesítésének alapjául szolgáló közszolgálati és belső továbbképzési programokat.
+
+(5)[^87] Az éves továbbképzési tervet a munkáltatói jogkör gyakorlója az év közben felmerülő továbbképzési igények alapján – a (6) bekezdésben foglaltak figyelembe vételével – módosíthatja. Az év közbeni módosítás során nincs lehetőség az intézmény éves tervének teljes körű, átfogó módosítására.
+
+(6)[^88] Az éves továbbképzési tervet az NKE által működtetett informatikai rendszer útján módosíthatja a munkáltatói jogkör gyakorlója.
+
+### Egyéni továbbképzési terv
+
+#### 19. §[^89]
+
+(1) Az egyéni továbbképzési tervek elkészítéséről a munkáltatói jogkör gyakorlója gondoskodik az éves teljesítményértékelés figyelembevételével, az NKE által biztosított informatikai alkalmazás használatával, tárgyév február 1-je és március 15-e között. Az egyéni továbbképzési terv elkészítéséhez szükséges útmutatót az NKE adja ki és teszi közzé.
+
+(2) Az egyéni továbbképzési tervben a közigazgatási szerv köteles szerepeltetni mindazon továbbképzéseket, amelyeket
+
+a) az adott munkakört betöltő kormánytisztviselő, köztisztviselő munkaköréhez és fejlesztéséhez a munkáltató szükségesnek ítél,
+
+b)[^90] a Kormány, a személyügyi központ vezetője vagy az ágazati miniszter elrendel.
+
+### A közigazgatási szerv éves továbbképzési terve
+
+#### 20. §
+
+A közigazgatási szerv éves továbbképzési terve a tárgyévben a közigazgatási szervnél foglalkoztatott kormánytisztviselők, köztisztviselők egyéni továbbképzési terveinek összesítésével keletkezik.
+
+### Az éves továbbképzési tervek összesítése
+
+#### 21. §[^91]
+
+(1) A közigazgatási szerv éves továbbképzési tervét tárgyév március 15-éig megküldi az NKE részére.
+
+(2)[^92]
+
+(3)[^93] A közigazgatási szervek az éves tervek végrehajtásának eredményeiről, tapasztalatairól, adatairól szóló értékelő jelentésüket a tárgyévet követő március 15-éig megküldik az NKE részére. Az értékelő jelentést a közigazgatási szervek az NKE által kiadott útmutató alapján állítják össze. Az NKE a beérkezett jelentések alapján a tárgyévet követő év április 30-áig a személyügyi központ vezetőjének jelentést készít.
+
+## 11. A kormánytisztviselők, köztisztviselők vezetői utánpótlás képzése, a vezető rendszeres továbbképzése és a vezető kiválósági képzése
+
+#### 22. §
+
+(1) A közszolgálati vezetőképzés rendszere a vezetői utánpótlás képzését, a vezető rendszeres továbbképzését és a vezető magas szintű kiválósági képzését (a továbbiakban: közszolgálati vezetőképzés) foglalja magában.
+
+(2)[^94] A közszolgálati vezetőképzés programjait a közszolgálati továbbképzési programkínálaton belül az NKE fejleszti és működteti. A közszolgálati vezetőképzési programok megvalósítására az NKE jogosult. A közszolgálati vezetőképzésben alkalmazott programot, minősítést követően a KTK felveszi a minősített programjegyzékre.
+
+(3) A közszolgálati vezetőképzésben teljesítendő programot fel kell tüntetni a vezető kormánytisztviselő, köztisztviselő éves egyéni beiskolázási tervében.
+
+## 12. A 2013. évre vonatkozó átmeneti rendelkezések
+
+### Átmeneti rendelkezések
+
+#### 23. §
+
+(1) A személyügyi központ a 2013. évi továbbképzések tervezésének támogatására 2012. november 15-ig módszertani útmutatót bocsát ki.
+
+(2)[^95] A közigazgatási szerv a 2013. évre vonatkozó éves továbbképzési terveit a továbbképzési programjegyzéken szereplő képzési programok kínálata alapján készíti el 2013. március 15-ig.
+
+(3)[^96] A közigazgatási szerv a 2013. éves továbbképzési tervét 2013. március 31-ig megküldi a személyügyi központ részére.
+
+(4)[^97] A továbbképzések minősítésére vonatkozó, a 14. § (6) bekezdésében megjelölt határidő 2013. évben 2013. szeptember 15-én kezdődik akkor is, ha ezen időpontot megelőzően nyújtja be a kérelmező szervezet a minősítési kérelmét.
+
+### Továbbképzési kötelezettség
+
+#### 24. §
+
+A továbbképzési kötelezettséget 2012–2013. évben
+
+a) a közigazgatási szakvizsgára kötelezett kormánytisztviselő, köztisztviselő a közigazgatási szakvizsga sikeres letételével teljesíti,
+
+b)[^98] a közigazgatási szakvizsgával rendelkező, vagy az alól mentesített kormánytisztviselő, köztisztviselő a továbbképzési programjegyzéken szereplő képzéseken való részvétellel teljesíti.
+
+## 13. Záró rendelkezések
+
+#### 25. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 32. § (2) és (3) bekezdése 2012. október 1-jén lép hatályba.
+
+(3) A 9–12. § és a 19–22. § 2014. január 1-jén lépnek hatályba.
+
+(4) A KTK tagjainak megbízatása a KTK új tagjainak felkérésével megszűnik. A KTK új tagjait a rendelet hatálybalépését követő 60 napon belül kell felkérni.
+
+#### 26. §
+
+Az első továbbképzési időszak 2014. január 1-jével indul és 2017. december 31-ig tart. A továbbképzési időszakban előírt tanulmányi pontokat időarányosan teljesítik azok a kormánytisztviselők, köztisztviselők, akiknek a továbbképzési időszak alatt keletkezik továbbképzési kötelezettségűk.
+
+#### 28. §[^100]
+
+Az egyes közszolgálati tárgyú kormányrendeletek módosításáról szóló 108/2016. (V. 18.) Korm. rendelettel megállapított 9/A. §-ban előírt továbbképzés a 2018. január 1-jén vagy azután indult továbbképzési időszak tekintetében alkalmazandó, azzal, hogy az a 2017. december 31-én foglalkoztatott kormánytisztviselő vagy köztisztviselő, aki a 2014. január 1. és 2017. december 31. közötti továbbképzési időszakban korrupció-megelőzés témakörét érintő közszolgálati továbbképzést nem teljesített, a 9/A. §-ban meghatározott továbbképzést 2019. december 31. napjáig köteles teljesíteni.
+
+#### 29. §[^101]
+
+E rendeletnek a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet, valamint a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet módosításáról szóló 443/2016. (XII. 16.) Korm. rendelettel megállapított 9/B. §-ában előírt továbbképzés a 2018. január 1-jén vagy azt követően indult továbbképzési időszak tekintetében alkalmazandó azzal, hogy az a 2017. december 31-én jogviszonyban álló kormánytisztviselő vagy köztisztviselő, aki – a 2014. január 1. és 2017. december 31. közötti továbbképzési időszakban – 2017. január 1. és 2017. december 31. között az Alaptörvény értékeit bemutató témakörben közszolgálati továbbképzést nem teljesített, a 9/B. §-ban meghatározott továbbképzést 2018. december 31. napjáig köteles teljesíteni.
+
+#### 30. §[^102]
+
+A kormánytisztviselő, köztisztviselő számára előírt továbbképzési kötelezettségek teljesítéséhez szükséges pénzügyi forrást legalább az előírt tanulmányi kötelezettségek teljesítését biztosító mértékben a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a közigazgatási szerv által az NKE részére megfizetett továbbképzési hozzájárulás összegét az NKE a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.) Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a közigazgatási szerv részére visszafizetni.
+
+#### 31. §[^103]
+
+(1) A 9/C. § szerinti továbbképzési kötelezettséget 2024. szeptember 1. napjától kell teljesíteni.
+
+(2) Az a kormánytisztviselő vagy köztisztviselő, aki 2024. szeptember 1. napján jogszabály-előkészítési feladatok ellátását szolgáló munkakört tölt be – függetlenül attól, hogy fennáll-e továbbképzési kötelezettsége –, a 9/C. § szerinti továbbképzést 2024. december 31. napjáig köteles teljesíteni.
+
+(3) A munkáltatói jogkör gyakorlója 2024. augusztus 15. napjáig köteles
+
+a) a jogszabály-előkészítési feladatok ellátását szolgáló munkakörök 9/C. § szerinti kijelölését végrehajtani, és
+
+b) a (2) bekezdés szerinti kormánytisztviselőt, illetve köztisztviselőt a (2) bekezdés szerinti kötelezettségéről és a kötelezettség teljesítése módjáról tájékoztatni.
+
+(4) A 9/C. § szerinti kötelezettség kizárólag 2024. szeptember 1-jétől elvégzett továbbképzéssel teljesíthető.
+
+(5) Az a kormánytisztviselő vagy köztisztviselő, aki a (2) bekezdés szerinti kötelezettségének akkor tesz eleget, amikor továbbképzési kötelezettsége nem áll fenn, az általa elvégzett továbbképzést a továbbképzési kötelezettsége kezdetét követően továbbképzési kötelezettség alatt teljesített továbbképzésként figyelembe kell venni.
+
+#### 32. §
+
+(1)[^104]
+
+(2) Hatályát veszti a Közigazgatási és Igazságügyi Hivatalról szóló 177/2012. (VII. 26.) Korm. rendelet 10. § e)–g) pontja.
+
+(3) A Közigazgatási és Igazságügyi Hivatalról szóló 177/2012. (VII. 26.) Korm. rendelet 10. § e)–g) pontjaiban foglalt feladatokat e rendelet 6. §-a alapján 2012. október 1-jétől a továbbiakban a Nemzeti Közszolgálati Egyetem látja el. E feladatok, valamint e feladatokkal érintett jogviszonyokban a Nemzeti Közszolgálati Egyetem a Közigazgatási és Igazságügyi Hivatal általános jogutódja, ide nem értve a foglalkoztatottak tekintetében a munkajogi jogutódlást.
+
+#### 35. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^107]
+
+## 2. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^108]
+
+## 3. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^109]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2a) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § a) pontja.
+[^4]: Az 1. § (2b) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdését a 338/2019. (XII. 23.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (5) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (6) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § a) pontja.
+[^8]: A 2. § (1) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (1) bekezdés a) pontját a 13/2020. (II. 7.) Korm. rendelet 76. § 1. pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 1. pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés d) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 2. pontja szerint módosított szöveg.
+[^12]: A 2. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^13]: A 3. alcím címe a 243/2022. (VII. 4.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított, a 243/2022. (VII. 4.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 243/2022. (VII. 4.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^16]: A 3. § (3) bekezdés f) pontja a 499/2021. (VIII. 18.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (3) bekezdés g) pontja a 321/2016. (X. 27.) Korm. rendelet 15. §-ával megállapított, a 90/2019. (IV. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^18]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdése a 499/2021. (VIII. 18.) Korm. rendelet 16. § (2) bekezdésével megállapított, nyitó szövegrésze a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^20]: A 4. § (2) bekezdése a 499/2021. (VIII. 18.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. § (2a) bekezdését a 499/2021. (VIII. 18.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^22]: A 4. § (2b) bekezdését a 499/2021. (VIII. 18.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^23]: A 4. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^24]: A 4. § (4) bekezdés a) pontja a 108/2016. (V. 18.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (4) bekezdés c) pontját a 108/2016. (V. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^26]: A 4. § (4) bekezdés d) pontja a 108/2016. (V. 18.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^27]: A 4. § (4) bekezdés e) pontját a 108/2016. (V. 18.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^28]: A 4. § (4a) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 499/2021. (VIII. 18.) Korm. rendelet 16. § (4) bekezdésével megállapított, a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^29]: A 4. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^30]: A 4. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 499/2021. (VIII. 18.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^32]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^33]: A 6. § b) pont be) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^34]: A 6. § c) pont cb) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^35]: A 6. § c) pont cc) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^36]: A 6. § d) pont da) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^37]: A 6. § g) pontját a 108/2016. (V. 18.) Korm. rendelet 24. §-a iktatta be.
+[^38]: A 6/A. §-t a 321/2016. (X. 27.) Korm. rendelet 16. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
+[^39]: A 7. § a 378/2014. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. A 7. §-t megelőző alcím a 378/2014. (XII. 31.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^40]: A 7. § (1) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^41]: A 7. § (2) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^42]: A 7. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 75. § 3. pontja szerint módosított szöveg.
+[^43]: A 8. § a 378/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^44]: A 8. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 4. pontja szerint módosított szöveg.
+[^45]: A 9. § (1) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^46]: A 9. § (3) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^47]: A 9. § (4) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^48]: A 9. § (2) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^49]: A 9. § (7) bekezdés a) pontja a 378/2014. (XII. 31.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^50]: A 9/A. §-t a 108/2016. (V. 18.) Korm. rendelet 25. §-a iktatta be.
+[^51]: A 9/B. §-t a 443/2016. (XII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 9/C. §-t a 200/2024. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^53]: A 10. § (1a) bekezdését a 321/2016. (X. 27.) Korm. rendelet 17. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
+[^54]: A 10. § (1b) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § b) pontja.
+[^55]: A 10. § (2a) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^56]: A 11. § (2) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 17. § c) pontja, a 397/2014. (XII. 31.) Korm. rendelet 78. §-a, a 417/2015. (XII. 23.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^57]: A 12. § (1) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^58]: A 12. § (2) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^59]: A 12. § (3) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^60]: A 12. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: A 12. § (5) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^62]: A 12. § (5a) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be, szövege a 140/2023. (IV. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^63]: A 12. § (5b) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be, a 140/2023. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^64]: A 12. § (5c) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be.
+[^65]: A 12. § (5d) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be. A 12. § (5d) bekezdését a 140/2023. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^66]: A 12. § (5e) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § c) pontja.
+[^67]: A 12. § (5f) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § c) pontja.
+[^68]: A 12. § (7) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^69]: A 12. § (8) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^70]: A 12. § (9) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 9. § (3) bekezdése iktatta be, a 140/2023. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^71]: A 12. § (10) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 9. § (3) bekezdése iktatta be, a 140/2023. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^72]: A 13. § (2) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^73]: A 14. § a 378/2014. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^74]: A 14. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 178. §-ával megállapított szöveg.
+[^75]: A 14. § (4) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^76]: A 14. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 406. §-a, a 243/2022. (VII. 4.) Korm. rendelet 6. § e) és g) pontja szerint módosított szöveg.
+[^77]: A 15. § (3) bekezdése a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^78]: A 15. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^79]: A 15. § (5) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított, a 108/2016. (V. 18.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^80]: A 15. § (5a) bekezdését a 108/2016. (V. 18.) Korm. rendelet 27. §-a iktatta be.
+[^81]: A 15. § (5b) bekezdését a 108/2016. (V. 18.) Korm. rendelet 27. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 406. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^82]: A 15. § (8) bekezdését a 108/2016. (V. 18.) Korm. rendelet 30. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^83]: A 16. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^84]: A 17. § a 378/2014. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^85]: A 17. § (3) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^86]: A 18. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^87]: A 18. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^88]: A 18. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2014. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^89]: A 19. § a 378/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^90]: A 19. § (2) bekezdés b) pontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^91]: A 21. § a 378/2014. (XII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^92]: A 21. § (2) bekezdését a 338/2019. (XII. 23.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
+[^93]: A 21. § (3) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^94]: A 22. § (2) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^95]: A 23. § (2) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^96]: A 23. § (3) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^97]: A 23. § (4) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^98]: A 24. § b) pontja a 298/2013. (VII. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^100]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 108/2016. (V. 18.) Korm. rendelet 28. §-a iktatta be.
+[^101]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 443/2016. (XII. 16.) Korm. rendelet 6. §-a iktatta be.
+[^102]: A 30. §-t újonnan a 140/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
+[^103]: A 31. §-t a 338/2019. (XII. 23.) Korm. rendelet 24. § f) pontja hatályon kívül helyezte, a 200/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^104]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

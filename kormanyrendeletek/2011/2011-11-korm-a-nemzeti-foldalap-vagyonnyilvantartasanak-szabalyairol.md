@@ -1,0 +1,183 @@
+---
+title: "11/2011. (II. 22.) Korm. rendelet a Nemzeti Földalap vagyonnyilvántartásának szabályairól"
+identifier: "11/2011. (II. 22.) Korm. rendelet"
+njt_id: "2011-11-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/11"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-02-22
+in_force_from: 2011-03-09
+last_amended: 2024-06-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-11-20-22"
+retrieved: 2026-10-12
+---
+
+# 11/2011. (II. 22.) Korm. rendelet a Nemzeti Földalap vagyonnyilvántartásának szabályairól
+
+A Kormány
+
+a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés a) pontjában,
+
+a 9. § és a 12. § a) pontja tekintetében a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdésének b) pontjában,
+
+a 10. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdésének b) pontjában,
+
+a 11. § és a 12. § b) pontja tekintetében a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdésének c) pontjában kapott felhatalmazás alapján,
+
+az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében
+
+a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 1. §-ában meghatározott földrészletekről, és az Nfatv. 3. § (3) bekezdésében meghatározott ingatlanokról vagyonnyilvántartást (a továbbiakban: nyilvántartás) vezet, amelynek alapjául az ingatlan-nyilvántartás, a földhasználati nyilvántartás, az Országos Erdőállomány Adattár adatállománya, a Természetvédelmi Információs Rendszer, valamint a régészeti lelőhelyek és a műemléki területek tekintetében a kulturális örökség védelméért felelős miniszter által vezetett nyilvántartás szolgál.
+
+(2)[^2] A nyilvántartás az e rendeletben meghatározott adatokat, jogokat, tényeket tartalmazza informatikai adatbázisban rögzített módon. A nyilvántartás részét képezi továbbá az okirattár, amely az e rendeletben meghatározott adatokhoz, jogokhoz, tényekhez kapcsolódó, az NFK-nál vagy jogelődjénél keletkezett, illetve hatóságoknál, vagy más szervnél keletkezett, és az NFK-nál rendelkezésre álló okiratokat tartalmazza, ideértve a kapcsolódó térképállományt is.
+
+(3)[^3] Ha a nyilvántartásban szereplő adatok, jogok, tények és az (1) bekezdésben meghatározott hatósági nyilvántartásokba bejegyzett adat, tény, jog között eltérés van, az NFK a hatósági nyilvántartásban foglaltakat tekinti irányadónak és a nyilvántartást haladéktalanul hozzáigazítja a hatósági nyilvántartásban szereplő adatokhoz, jogokhoz, tényekhez.
+
+## 2. §
+
+A nyilvántartást települések szerint, azon belül a földrészletek helyrajzi száma szerint kell vezetni.
+
+## 3. §
+
+(1) A nyilvántartás tartalmazza a földrészlet tulajdoni lapjának I. részén szereplő adatokat, ideértve az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket is.
+
+(2) Az (1) bekezdésben foglaltakon túl a nyilvántartás a földrészlet következő adatait, jellemzőit tartalmazza:
+
+a) művelés alól kivett terület esetében arra vonatkozó leírást, hogy az milyen mező-, erdőgazdálkodási tevékenységet szolgál, vagy milyen mező-, erdőgazdálkodási tevékenységhez szükséges;
+
+b) a földrészlet arra vonatkozó – helyszíni ellenőrzés alapján megállapított – jellemzőjét, hogy jövedelmező mezőgazdasági művelésre nem, vagy kevésbé alkalmas;
+
+c) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) alapján erdőnek, vagy erdőgazdálkodási tevékenységet szolgáló földterületnek minősülő földrészlet (alrészlet) esetében az Országos Erdőállomány Adattár szerinti erdészeti területazonosító adatokat;
+
+d) a földrészlet könyv szerinti értékét.
+
+## 4. §
+
+A nyilvántartás a földrészlethez kapcsolódó alábbi jogokat (terheket) és az ezekkel kapcsolatos adatokat tartalmazza:
+
+a)[^4] az állam tulajdonszerzésének jogcímét és időpontját;
+
+b)[^5] az államot megillető tulajdoni hányadot;
+
+c)[^6] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett (feljegyzett):
+
+ca) földhasználati jogot,
+
+cb) életjáradéki jogot,
+
+cc) elő- és visszavásárlási, valamint vételi jogot,
+
+cd) jelzálogjogot (önálló zálogjogot),
+
+ce) végrehajtási jogot;
+
+d) az ingatlant terhelő telki szolgalmi jogot;
+
+e)[^7] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési és terhelési tilalmat;
+
+f) ha a földrészleten vagyonkezelői jog áll fenn:
+
+fa) a vagyonkezelő megnevezését, székhelyét (telephelyét),
+
+fb) a vagyonkezelő kezelésében lévő hányadot vagy területet, és annak piaci értékét;
+
+fc) a vagyonkezelői jog kezdő és lejárati időpontját, vagy a határozatlan idejű vagyonkezelői jogra történő utalást,
+
+fd) a vagyonkezelői jog ellenértékének összegét, vagy az ingyenesség tényét,
+
+fe) az ellenérték megfizetésének esedékességét,
+
+ff) az esetleges tartozás tényét, a tartozás összegét, és a tartozás fennállásának kezdő időpontját;
+
+g) ha a földrészleten haszonbérlet áll fenn:
+
+ga) a haszonbérlő nevét, (megnevezését), lakcímét (székhelyét,telephelyét),
+
+gb) a haszonbérelt terület nagyságát, ha nem az egész földrészleten áll fenn a haszonbérlet,
+
+gc) a haszonbérlet kezdő és lejárati időpontját,
+
+gd) a haszonbérleti díj összegét,
+
+ge) a haszonbérleti díj megfizetésének esedékességét,
+
+gf) az esetleges díjtartozás tényét, a tartozás összegét, és a tartozás fennállásának kezdő időpontját;
+
+h) ha a földrészlet az Evt. alapján erdőnek, vagy erdőgazdálkodási tevékenységet szolgáló földterületnek minősül:
+
+ha) az erdőgazdálkodó megnevezését, székhelyét (telephelyét),
+
+hb) az erdőgazdálkodói kódot;
+
+i) ha a földrészletet érintően – az Nfatv. 18. § (5) bekezdésében meghatározott módon – megbízási szerződés áll fenn:
+
+ia) a megbízott nevét (megnevezését), lakcímét (székhelyét, telephelyét),
+
+ib) a megbízás kezdő és lejárati időpontját,
+
+ic) a megbízási szerződés szerinti ellenértéket.
+
+j)[^8] a földrészletekhez kapcsolódó egyéb vagyoni értékű jog megnevezését, annak jogosultját, a jog tartalmára vonatkozó lényeges információkat.
+
+## 5. §
+
+A nyilvántartás a földrészlethez kapcsolódó alábbi tényeket tartalmazza:
+
+a) az Nfatv. 18. § (1) bekezdésében meghatározott, valamelyik hasznosítási módra vonatkozó javaslatot;
+
+b) haszonbérleti, értékesítési pályázati felhívásban, árverési hirdetményben való közzététel tényét, és időpontját,
+
+c) a hasznosításhoz kapcsolódó gazdasági információkat, így különösen: melioráció, értéknövelő beruházás tényét, annak értékét;
+
+d) a földrészletet érintő peres eljárás esetében:
+
+da) a peres eljárás tárgyát és a bírósági ügyiratszámot,
+
+db)[^9] az NFK perbeli jogállását;
+
+e) a földrészlet tulajdonjogát vagy használatát, hasznosítását érintő hatósági döntések miatti korlátozásokat, szankciókat, a hatósági döntés ügyiratszámának megjelölésével;
+
+f) a földrészletnek – az Nfatv. 21. § (1) bekezdésében meghatározottak szerint – a részarány-tulajdonos részére történő felajánlhatóságára vonatkozó javaslatot;
+
+g) a földrészletnek a védett természeti területek védettségi szintjének helyreállítása érdekében, az érintett magántulajdonosok számára csereterületként történő felajánlhatóságára vonatkozó javaslatot;
+
+h)[^10] annak a kormányhatározatnak a számát, amely alapján a földrészlet szociális földprogram megvalósítása céljából került a települési (fővárosban: kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat vagyonkezelésébe;
+
+i) az Nfatv. 16. § (6) bekezdése vagy az Nfatv. 34. § (5) bekezdése alapján a társadalombiztosítás pénzügyi alapjai javára fennálló megtérítési vagy fizetési kötelezettség fennállásának tényét, a kötelezettség mértékét, és a jogosult megnevezését.
+
+## 6. §[^11]
+
+Ha a nyilvántartásban szereplő földrészlet a Nemzeti Földalapból kikerül, a földrészletet az NFK haladéktalanul törli a nyilvántartás számítógépes adatbázisából. Az NFK a törölt földrészletekről jegyzéket vezet. A jegyzék tartalmazza a törlés időpontjában fennálló, e rendelet szerint nyilvántartott adatokat, tényeket, jogokat (ide nem értve a haszonbérlőnek, vagyonkezelőnek, erdőgazdálkodónak, és a megbízottnak a személyes adatait), és a törlés alapjául szolgáló tény, körülmény leírását, oly módon, hogy a kapcsolódó okiratok az okirattárból visszakereshetők legyenek.
+
+## 6/A. §[^12]
+
+Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 6. § (1) bekezdés e) pontjától eltérően – az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés a) pontja szerint – a Nemzeti Földalapba sorolt vagyon tekintetében elkülönített éves beszámoló készül.
+
+## 7. §[^13]
+
+A vagyonnyilvántartás vezetésének részletes szabályait a miniszter szabályzatban határozza meg. A szabályzatot a miniszter által vezetett minisztérium a honlapján közzé kell tenni.
+
+## 8. §
+
+E rendelet a kihirdetését követő 15. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 24. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 169. §-a, a 159/2019. (VI. 28.) Korm. rendelet 43. § a) pontja, a 107/2024. (V. 9.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 43. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^3]: Az 1. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 43. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^4]: A 4. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § e) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § j) pontját a 161/2011. (VIII. 18.) Korm. rendelet 25. §-a iktatta be.
+[^9]: Az 5. § d) pont db) alpontja a 159/2019. (VI. 28.) Korm. rendelet 43. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^10]: Az 5. § h) pontja a 255/2013. (VII. 5.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^11]: A 6. § a 159/2019. (VI. 28.) Korm. rendelet 43. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^12]: A 6/A. §-t a 107/2024. (V. 9.) Korm. rendelet 12. §-a iktatta be.
+[^13]: A 7. § a 107/2024. (V. 9.) Korm. rendelet 13. §-ával megállapított szöveg.

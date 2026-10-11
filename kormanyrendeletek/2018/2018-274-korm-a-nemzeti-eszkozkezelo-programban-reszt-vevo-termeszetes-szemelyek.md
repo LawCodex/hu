@@ -1,0 +1,513 @@
+---
+title: "274/2018. (XII. 21.) Korm. rendelet a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról"
+identifier: "274/2018. (XII. 21.) Korm. rendelet"
+njt_id: "2018-274-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/274"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-21
+in_force_from: 2019-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-274-20-22"
+retrieved: 2026-10-12
+---
+
+# 274/2018. (XII. 21.) Korm. rendelet a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról
+
+A Kormány a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény 20. § a)–g) pontjában,
+
+a IV., VI., VII. és IX. fejezet tekintetében a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. CLXX. törvény 25. § a)–g) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §
+
+E rendelet alkalmazásában
+
+1.[^1]
+
+2.[^2]
+
+3.[^3]
+
+4\. *bérlő:* a hiteladós, a zálogkötelezett vagy az a természetes személy, akivel a bérbeadó e rendelet alapján lakásbérleti szerződést köt;
+
+4a.[^4] *részletvevő:* a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: Törvény) szerinti részletvevő;
+
+4b.[^5] *fizetésrendezési partneri program:* az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: MR Közösségi Lakásalap NKft.) által az 1. melléklet 3.1. pontja szerinti szociális, segítő-szolgáltatói, mentori feladatok ellátása keretében működtetett program, amelyben a részletvevő fizetésrendezési és együttműködési megállapodás megkötése útján vesz részt;
+
+4c.[^6] *fizetésrendezési és együttműködési megállapodás:* az MR Közösségi Lakásalap NKft. és a részletvevő között létrejött olyan megállapodás, amely tartalmazza az alkalmazott fizetési könnyítés részletszabályait, a tartozás megfizetésének ütemezését, a fizetési késedelemből származó jogkövetkezményeket, az MR Közösségi Lakásalap NKft.-vel, illetve megbízottjával való együttműködés formáját és az együttműködési kötelezettség megsértéséből eredő jogkövetkezményeket;
+
+5.[^7]
+
+6.[^8]
+
+7.[^9]
+
+## II. Fejezet — A LAKÓINGATLAN ÉS A TARTALÉK INGATLAN EGYÖSSZEGBEN TÖRTÉNŐ MEGVÁSÁRLÁSÁNAK RÉSZLETSZABÁLYAI
+
+### 1.[^10]
+
+### 2.[^11]
+
+### 3. A Magyar Állam javára szóló jelzálogjog és azt biztosító elidegenítési és terhelési tilalom
+
+#### 5. §
+
+(1)[^12] Az e rendelet szerint igénybe vett kedvezménnyel egyösszegben vásárolt ingatlanra a kedvezmény igénybevételéről is szóló adásvételi szerződés megkötését követő 5 évig terjedő időszakra a kedvezmény mértékének megfelelő összeg erejéig az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre.
+
+(2)[^13] Az (1) bekezdés szerinti jelzálogjog ranghelyét kizárólag a kedvezménnyel érintett ingatlan építése vagy vásárlása érdekében felvett lakáscélú hitelintézeti, lakás-takarékpénztári kölcsönt és a kedvezménnyel érintett ingatlan vásárlása, bővítése, korszerűsítése érdekében a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet vagy a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet szerint a Magyar Állam által nyújtott családi otthonteremtési kedvezményt biztosító jelzálogjog és a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti családok otthonteremtési kamattámogatását és az azzal érintett kölcsönhöz kapcsolódó gyermekvállalási támogatást biztosító jelzálogjog előzheti meg.
+
+(3)[^14] Az e rendeletben szabályozott, állam javára fennálló, egyösszegben megvásárolt ingatlanra vonatkozó jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozatok megtételére az állam nevében a Törvény 6. §-a szerinti Lebonyolító (a továbbiakban: Lebonyolító) jogosult.
+
+(4)[^15] Az e rendeletben szabályozott, állam javára fennálló, részletvétellel megvásárolt ingatlanra vonatkozó jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozatok megtételére az állam nevében az MR Közösségi Lakásalap NKft. jogosult. Az MR Közösségi Lakásalap NKft. képviseli az államot mindazon peres és nemperes eljárásokban, valamint hatósági eljárásokban, amelyekben az állam mint a jelzálogjog, valamint az elidegenítési és terhelési tilalom jogosultja érdekelt, és viseli az eljárások során felmerült költségeket.
+
+## III. Fejezet — A RÉSZLETVÉTEL RÉSZLETES SZABÁLYAI
+
+### 4. A vételár meghatározásának módja és a vételárkedvezmény
+
+#### 6. §
+
+(1)[^16] A lakóingatlanra és a tartalék ingatlanra vonatkozó (e fejezet tekintetében a továbbiakban együtt: ingatlan), a Törvény 7. § (1) bekezdése szerinti tulajdonváltozás esetén az ingatlan vételára a Lebonyolító által meghatározott, az ingatlanért fizetett vételárnak megfelelő összeg csökkentve a bérlő által 2018. december 31-ig megfizetett lakbér összegével.
+
+(2)[^17] Az (1) bekezdéstől eltérően az ingatlanra vonatkozó, a Törvény 13. § (1) bekezdése szerinti tulajdonváltozás esetén az ingatlan vételára a Lebonyolító által meghatározott, az ingatlanért fizetett vételárnak megfelelő összeg, csökkentve a bérlő által a Törvény 13. § (1) bekezdése szerinti átalakulás napját megelőző év utolsó napjáig megfizetett lakbér összegével.
+
+(3)[^18] A Lebonyolító az (1) és (2) bekezdés szerinti vételár meghatározásakor kamatot nem számít fel.
+
+### 5. A részletek összegének és megfizetési határidejének meghatározása, valamint a nemteljesítés esete
+
+#### 7. §
+
+(1)[^19] A 6. § szerinti vételárat a részletvevő a Lebonyolító által meghatározott összegű részletekben és havonta fizeti meg a Lebonyolító részére.
+
+(2)[^20] A Lebonyolító az (1) bekezdés szerinti részlet összegét a részletvevő által fizetett lakbérnek megfelelő összeg alapulvételével határozza meg azzal, hogy a részletek megfizetésének határideje nem haladhatja meg a 360 hónapot.
+
+#### 8. §
+
+(1) A Törvény 7. § (1) bekezdése szerinti tulajdonváltozás esetén az ingatlanra a 6. § szerinti vételár teljes összegének megfizetéséig a vételár teljes összege erejéig az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre.
+
+(2)[^21] Ha a részletvevő a vételár hátralévő összegét az állam javára megfizeti, a vételárat biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak a törléséről az MR Közösségi Lakásalap NKft. gondoskodik, az állam képviseletében kiállítja a törléshez szükséges engedélyt, és eljár a törlés iránti ingatlan-nyilvántartási eljárásban.
+
+(3)[^22] A jelzálogjog ranghelye tekintetében az 5. § (2) bekezdésében foglaltakat megfelelően kell alkalmazni.
+
+#### 9. §[^23]
+
+(1) A Lebonyolító és az MR Közösségi Lakásalap NKft. által a részletvételi jogviszony kapcsán ellátandó feladatok körét az 1. melléklet határozza meg. A Lebonyolító és az MR Közösségi Lakásalap NKft. a jogszabályban meghatározott feladataik hatékony ellátása érdekében egymással együttműködési megállapodást kötnek, amelyben szabályozzák a feladataik összehangolásának rendjét, a feladataik végrehajtásához szükséges adat- és iratátadás szabályait és az államot megillető vételárrészletek elszámolásának szabályait.
+
+(2)[^24] Ha a részletvevő a részletfizetés során hathavi késedelembe esik, a vételár hátralévő részének megfizetése egy összegben esedékessé válik. Amennyiben a vételár hátralévő része megfizetésének egy összegben történő esedékessé válását követően nem kerül sor a 9/A. § szerinti fizetésrendezési és együttműködési megállapodás megkötésére, vagy a megkötött fizetésrendezési és együttműködési megállapodást az MR Közösségi Lakásalap NKft. a 9/A. § (7) bekezdése szerint felmondja, vagy a fizetésrendezési és együttműködési megállapodás a megállapodásban meghatározott idő elteltével úgy szűnik meg, hogy az egy összegben esedékessé vált vételárhátralék és a kapcsolódó járulékok nem kerültek maradéktalanul megfizetésre, az MR Közösségi Lakásalap NKft. az állam képviseletében megteszi a követelés jogi úton történő érvényesítéséhez szükséges intézkedéseket. A követelés jogi úton történő érvényesítéséhez szükséges intézkedések keretében az MR Közösségi Lakásalap NKft. képviseli az államot a követelés érvényesítése iránt indított peres és nemperes eljárásokban, ideértve különösen a fizetési meghagyásos és végrehajtási eljárásokat. Az eljárások során felmerült minden eljárási és egyéb költséget az MR Közösségi Lakásalap NKft. visel.
+
+(3) Az MR Közösségi Lakásalap NKft. képviseli az államot a részletvevő elhalálozása következtében indult hagyatéki eljárásban, az ahhoz kapcsolódó peres és nemperes eljárásokban, és viseli az eljárások során felmerült eljárási és egyéb költséget.
+
+### 6.[^25] A fizetésrendezési és együttműködési megállapodásra vonatkozó rendelkezések
+
+#### 9/A. §
+
+(1) Ha a vételár hátralévő részének megfizetése egy összegben esedékessé válik, az erről szóló értesítés megküldésével egyidejűleg MR Közösségi Lakásalap NKft. a részletvevő számára fizetésrendezési és együttműködési megállapodás (a továbbiakban: megállapodás) megkötését ajánlja fel. A részletvevő a megállapodás megkötésének elfogadására vonatkozó nyilatkozatát az MR Közösségi Lakásalap NKft. értesítő levelének kézhezvételét követő 60 napon belül teheti meg. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a részletvevő a határidő utolsó napján az MR Közösségi Lakásalap NKft. székhelyén vagy telephelyén átadta vagy postára adta.
+
+(2) A megállapodás megkötésére a részletvevő nyilatkozatának az MR Közösségi Lakásalap NKft. általi kézhezvételétől számított 30 napon belül kerül sor. A megállapodás megkötésének pontos időpontjáról – annak meghatározását követően – az MR Közösségi Lakásalap NKft. tájékoztatja a részletvevőt, aki egy alkalommal kérheti az időpont legfeljebb 15 nappal történő elhalasztását. A részletvevő kérelme alapján elhalasztott időpont jogvesztő határidőnek minősül.
+
+(3) A részletvevő az egy összegben esedékessé vált hátralévő vételárat a megállapodásban meghatározott fizetési könnyítés alkalmazásával, fizetési halasztás vagy részletfizetési lehetőség biztosítása mellett, a megállapodásban foglaltak szerint köteles megfizetni. Fizetési halasztás esetén a megállapodásban a részletvevő és az MR Közösségi Lakásalap NKft. rendelkezhetnek a részletvevő ingatlan értékesítésében való közreműködésének feltételeiről is.
+
+(4) A megállapodásban meghatározott vételár megfizetésére vonatkozó határidő
+
+a) fizetési halasztás esetén
+
+aa) a 6 hónapot, vagy
+
+ab) amennyiben a részletvevő és az MR Közösségi Lakásalap NKft. egyúttal a részletvétellel megvásárolt ingatlannak a részletvevő és az MR Közösségi Lakásalap NKft. általi együttes értékesítésében is megállapodik, a 12 hónapot;
+
+b) részletfizetés esetén a részletvételi jogviszony létrejöttekor a vételárrészletek megfizetésére megállapított határidő – az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény szerinti – fizetési haladék időtartamával meghosszabbított határidejét
+
+nem haladhatja meg.
+
+(5) Több részletvevő esetén az (1) bekezdés szerinti megállapodást az érintett ingatlan bármely részletvevője megkötheti az MR Közösségi Lakásalap NKft.-vel, ha az érintett ingatlan többi részletvevője
+
+a) a megállapodás megkötésének elfogadására vonatkozó nyilatkozatát az (1) bekezdés szerinti határidőn belül nem teszi meg,
+
+b) az MR Közösségi Lakásalap NKft. részére rendelkezésre bocsátott címéről az (1) bekezdés szerinti értesítést tartalmazó postai küldemény azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, „ismeretlen”, „kézbesítés akadályozott” vagy „elköltözött”, vagy
+
+c) az (1) bekezdés szerinti értesítést tartalmazó küldemény átvételét megtagadta.
+
+(6) A részletvevők részletvételi jogviszonyból eredő lejárt tartozásokért való egyetemleges felelősségét a megállapodás (5) bekezdés szerinti megkötése nem érinti.
+
+(7) A megállapodás kötelező tartalmi eleme, hogy a részletvevő
+
+a) a részletvételi jogviszonnyal összefüggő, lejárt esedékességű tartozásainak megfizetését a fizetésrendezési és együttműködési megállapodás lejártáig vállalja, valamint
+
+b) pénzügyi helyzetének rendezése érdekében az MR Közösségi Lakásalap NKft.-vel, annak megbízottjával vagy a képviseletükben eljáró személlyel együttműködve,
+
+ba) ha a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés d) pontja szerinti álláskereső – az elhelyezkedése érdekében – hozzájárul ahhoz, hogy a területi foglalkoztatási szerv megismerje az MR Közösségi Lakásalap NKft., vagy annak megbízottja által az együttműködés keretében nyilvántartott, statisztikai célú adatokat, információkat, amelyek a megfelelő munkahely felajánlását elősegítik, továbbá
+
+bb) részt vesz a fizetésrendezési partneri programban.
+
+(8) Ha a részletvevő a megállapodás alapján fennálló fizetési kötelezettsége vonatkozásában háromhavi késedelembe esik, az a részletvevő részéről súlyos szerződésszegésnek minősül, amelyre tekintettel az MR Közösségi Lakásalap NKft. a megállapodást azonnali hatállyal felmondja, ha a megállapodás időtartamából legalább még három hónap hátra van. A felmondással a tartozás hátralévő részének megfizetése egy összegben esedékessé válik. Amennyiben a megállapodás időtartamából kevesebb, mint három hónap van hátra, a tartozás hátralévő részének megfizetése a megállapodás lejártát követően válik egy összegben esedékessé.
+
+(9) Az MR Közösségi Lakásalap NKft. a követelés 9. § (2) bekezdése szerinti jogi úton történő érvényesítésére
+
+a) az (1) és (2) bekezdésben foglalt jogvesztő határidők eredménytelen eltelte esetében a határidő utolsó napját követő naptól,
+
+b) a (8) bekezdés alapján történő felmondás hatálybalépését követő naptól, vagy
+
+c) ha a fizetésrendezési és együttműködési megállapodásban meghatározott idő elteltével az egy összegben esedékessé vált vételárhátralék és a kapcsolódó járulékok nem kerültek maradéktalanul megfizetésre, a fizetésrendezési és együttműködési megállapodás megszűnését követő naptól
+
+jogosult.
+
+## IV. Fejezet[^26]
+
+### 6.
+
+### 7.
+
+### 8.
+
+## V. Fejezet[^27]
+
+## VI. Fejezet[^28] — EGYES FELADATOK ELLÁTÁSÁRA KIZÁRÓLAGOS JOG ALAPJÁN TÖRTÉNŐ KIJELÖLÉS
+
+#### 10. §
+
+(1) Az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény (a továbbiakban: Karitatív tv.) 1. § (1)–(3) bekezdésében megjelölt ingatlanok vonatkozásában a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 10. § (1) bekezdésében meghatározott feladatait, valamint a 2. mellékletben felsorolt feladatokat kizárólagos jog alapján 2022. december 31. napjáig a KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
+
+(2) A Kijelölt Szolgáltató feladatát az MR Lakásalap Nkft.-vel kötött, az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozatnak megfelelő szolgáltatási szerződés alapján látja el. A szolgáltatási szerződésben meghatározásra kerül az (1) bekezdés alapján kötelezően ellátandó feladatok köre, az ellátásukra vonatkozó részletes rendelkezések és a szolgáltatás ellenértéke.
+
+(3) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
+
+#### 11. §
+
+(1)[^29] A Karitatív tv. 1/C. § (1) bekezdésében megjelölt ingatlanokhoz kapcsolódó bérleti jogviszonyból és jogcím nélküli lakáshasználatból, valamint a Törvény szerinti részletvételi jogviszonyokból eredő követelések számlázásával és az érintettek tömeges értesítésével kapcsolatos feladatokat kizárólagos jog alapján 2027. június 30. napjáig a Magyar Posta Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Posta Zrt.) látja el.
+
+(2)[^30] A Magyar Posta Zrt. által ellátandó feladatok körét a 3. melléklet határozza meg.
+
+(3)[^31] A Magyar Posta Zrt. feladatát a Lebonyolítóval kötött, az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozatnak megfelelő szolgáltatási szerződés alapján látja el. A szolgáltatási szerződésben meghatározásra kerülnek az (1) bekezdés alapján kötelezően ellátandó feladatok ellátására vonatkozó részletes rendelkezések és a szolgáltatás ellenértéke.
+
+### 9.[^37]
+
+### 10.[^38]
+
+### 11.[^39]
+
+### 12.[^40]
+
+## VII. Fejezet[^41]
+
+### 13.
+
+### 14.
+
+## VIII. Fejezet[^42] — A LEBONYOLÍTÓ MŰKÖDÉSÉVEL, FELADATAIVAL KAPCSOLATOS SZABÁLYOK
+
+### 15. A tájékoztató levél tartalma és kézbesítésének szabályai, valamint a tájékoztatás egyéb módja
+
+#### 26. §[^43]
+
+(1)[^44]
+
+(2)[^45]
+
+(3) A Törvény 6. § (10) bekezdése szerinti tájékoztató levél tartalmazza
+
+a) a részletvétel szabályait,
+
+b) az arról való tájékoztatást, hogy ha a Törvény 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlő nem él a nyilatkozattételi jogával, a lakóingatlan vagy a tartalék ingatlan feletti tulajdonjog megszerzésére a továbbiakban nincs lehetősége,
+
+c) a nyilatkozattételi határidőre szóló felhívást és
+
+d) a nyilatkozattétel formai és tartalmi követelményeit.
+
+#### 27. §[^46]
+
+A Törvény 13. § (3) bekezdése szerinti tájékoztató levél tartalmazza
+
+a) a részletvétel szabályait;
+
+b) a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeit;
+
+c) a bérlő által bérelt lakóingatlan vagy tartalék ingatlan vonatkozásában e rendelet alapján kiszámított vételár, részlet és bérleti díj összegeket;
+
+d) a nyilatkozattételi határidőre szóló felhívást;
+
+e)[^47] a nyilatkozattétel formai és tartalmi követelményeit.
+
+#### 28. §
+
+(1)[^48] A Lebonyolító
+
+a)[^49]
+
+b) a 26. § (3) bekezdése szerinti tájékoztató levelet a Törvényben foglalt határidőig, a Törvény 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlőnek a lakásbérleti szerződés megszűntetéséről szóló dokumentumban megadott értesítési címére,
+
+c) a 27. § szerinti tájékoztató levelet a Törvényben foglalt határidőig, a bérlő által bérelt lakóingatlan vagy tartalék ingatlan címére
+
+postai úton megküldi a (2) és (3) bekezdésben foglalt szabályok szerint.
+
+(2) A tájékoztató levél akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek tértivevény többletszolgáltatással feladott küldeményként kézbesítik.
+
+(3) A (2) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény többletszolgáltatással feladott küldeményként kézbesített tájékoztató levél, ha
+
+a) a címzett vagy a meghatalmazott a küldemény átvételét megtagadja,
+
+b) „elköltözött”, „címzett ismeretlen”, „nem kereste” vagy „kézbesítés akadályozott” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz,
+
+azon a napon tekintendő kézbesítettnek, amelyen a postai bélyegző alapján a szolgáltató a küldeményt a feladónak visszaküldte.
+
+#### 29. §[^50]
+
+A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+
+### 15/A. [^51] Tájékoztató a részletvétel egyéb szabályairól
+
+#### 29/A. §
+
+(1)[^52] Az e rendelet szerinti feladatok ellátása során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra, valamint a 9/A. § szerinti megállapodásra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
+
+a) a Lebonyolító részére a részletvételi jogviszony, továbbá a részletfizetésre irányuló megállapodás keretében havonta fizetendő részletek esedékességének napját,
+
+b) a részletvételi jogviszony, továbbá a részletfizetésre irányuló megállapodás keretében havonta fizetendő részletek teljesítésének, valamint a fizetési halasztásra irányuló megállapodás alapján történő teljesítés feltételeit, elszámolásának rendjét,
+
+c) a vételár, illetve a megállapodás szerinti tartozás előteljesítésének feltételeit, elszámolásának rendjét,
+
+d) a vételár hátralévő része egyösszegű megfizetésének esedékessé válása beállta esetén, illetve a megállapodás nemteljesítésből eredő megszűnése esetén a részletvevőnek szóló fizetési felszólítás megküldésének rendjét, valamint
+
+e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NKft. közötti kapcsolattartás formáját és rendjét.
+
+(2) Az MR Közösségi Lakásalap NKft. az (1) bekezdés szerinti tájékoztatót megküldi a részletvétellel érintett ingatlan címére, valamint a tájékoztatót közzéteszi a honlapján.
+
+(3) A Lebonyolító és az MR Közösségi Lakásalap NKft. a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító és az MR Közösségi Lakásalap NKft. jogosult a tájékoztató egyoldalú módosítására a részletvevők érdekeinek figyelembe vétele mellett.
+
+### 16.[^53]
+
+## IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 17. Hatályba léptető rendelkezés
+
+#### 31. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2019. január 1-jén lép hatályba.
+
+(2) A 34. § (2) bekezdése 2019. október 1-jén lép hatályba.
+
+### 18. Átmeneti rendelkezések
+
+#### 32. §
+
+(1)[^54]
+
+(2) A IV. fejezet rendelkezéseit
+
+a) 2019. október 1-jét követően
+
+aa) a Törvény 8. § (1) bekezdése és a 13. § (4) bekezdése szerint a lakásbérleti jogviszony fenntartására irányuló nyilatkozatot tevő fizetési kötelezettségeiknek eleget tevő bérlőre;
+
+ab) az egyösszegű vásárlásra irányuló adásvételi szerződés megkötéséig, de legkésőbb 2019. december 31-ig terjedő időszakban kizárólag az egyösszegű vásárlásra irányuló nyilatkozatot tevő fizetési kötelezettségeiknek eleget tevő azon bérlőre, akivel 2019. október 1-ig egyösszegű vásárlásra irányuló adásvételi szerződés megkötésére nem került sor;
+
+ac) kizárólag a 2020. január 1-jén határozott időtartamra szóló lakásbérleti szerződéssel rendelkező bérlőre vonatkozóan
+
+b) 2020. január 1-jét követően
+
+ba) a Törvény 8. § (1) bekezdése és a 13. § (4) bekezdése szerint a lakásbérleti jogviszony fenntartására irányuló nyilatkozatot tevő fizetési kötelezettségeiknek eleget tevő bérlőre;
+
+bb) a 2020. január 1-jén határozott időtartamra szóló lakásbérleti szerződéssel rendelkező bérlőre vonatkozóan
+
+kell alkalmazni.
+
+(3)[^55]
+
+(4)[^56] A Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaságnak (a továbbiakban: NET Zrt.) a Törvény 22/A. §-a szerinti megszüntetése esetén a tevékenységet lezáró számviteli beszámolóját és záró adóbevallásait a Lebonyolító a NET Zrt. megszűnésétől számított 90 napon belül köteles elkészíteni, és a legfőbb szerv által jóváhagyott beszámolónak a NET Zrt. állandó könyvvizsgálója által kiadott független könyvvizsgálói jelentéssel együtt történő letétbe helyezése és közzététele érdekében intézkedni.
+
+(5)[^57] A NET Zrt. zárómérlegében lévő eszközök – kivéve az állami tulajdonú vagyonkezelt eszközök, illetve azok elszámolásához kapcsolódó eszközök – Lebonyolító általi átvétele során, a számvitelről szóló 2000. évi C. törvény 36. § (1) bekezdés f) pontja alapján, a NET Zrt. könyveiben szereplő nyilvántartási értéken, a tőketartalék javára kerülnek elszámolásra.
+
+#### 32/A. §[^58]
+
+A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról szóló 274/2018. (XII. 21.) Korm. rendelet módosításáról szóló 761/2021. (XII. 23.)Korm. rendelet hatálybalépésének napján fennálló határozott idejű bérleti szerződéses jogviszonyokra e rendelet 2019. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+#### 32/B. §[^59]
+
+E rendeletnek a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról szóló 274/2018. (XII. 21.) Korm. rendelet módosításáról szóló 159/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 1. § 4a–4c. pontját, 9. § (2) bekezdését, 9/A. §-át, valamint 29/A. § (1) bekezdését abban az esetben is alkalmazni kell, ha a vételár hátralévő részének egy összegben történő megfizetése a Mód. R. hatálybalépésének[^60] napját megelőzően vált esedékessé, azzal, hogy a részletvevő a fizetésrendezési és együttműködési megállapodás megkötésére vonatkozó, 9/A. § szerinti nyilatkozatát a Mód. R. hatálybalépését követő 90 napon belül teheti meg függetlenül attól, hogy az MR Közösségi Lakásalap NKft. követelés jogi úton történő érvényesítése iránt intézkedett-e.
+
+### 19. Az Európai Unió jogának való megfelelés
+
+#### 33. §
+
+E rendelet 22. és 23. §-a az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) hatálya alá tartozó támogatást tartalmaz.
+
+#### 33/A. §[^61]
+
+(1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet 11. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
+
+### 20. Hatályon kívül helyező rendelkezés
+
+#### 34. §
+
+(1)[^62]
+
+(2)[^63]
+
+## 1. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^64]
+
+**I. A Lebonyolító által ellátandó feladatok**
+
+A Lebonyolító által a Törvény szerinti részletvételi jogviszony kapcsán ellátandó feladatok:
+
+1\. Részletvételi jogviszony létrejöttére irányuló nyilatkoztatás lebonyolítása, a beérkező nyilatkozatok feldolgozása, részletvevő tájékoztatása a részletvételi jogviszony létrejöttéről.
+
+2\. Vételárrészletek megfizetési és elszámolási rendjének meghatározása.
+
+3\. Részletvételi jogviszony, részletvevők és örököseik adatainak nyilvántartása, az államot megillető vételárrészlet hátralékok, befizetések számviteli, pénzügyi nyilvántartása, nyilvántartási feladatok teljes körű ellátása.
+
+4\. Havi rendszeres vételárrészlet-értesítők, havi és éves egyenlegközlők kiállítása és megküldése a részletvevők részére.
+
+5\. Eseti vételárrészlet-értesítők kiállítása, MR Közösségi Lakásalap NKft. részére történő átadása, esetleges visszautalások teljesítése a részletvevők részére.
+
+6\. Minden olyan adat és irat átadása az MR Közösségi Lakásalap NKft. részére, amely az MR Közösségi Lakásalap NKft. e rendelet szerinti lebonyolítói, követeléskezelői és szociális, segítő-szolgáltatói, mentori feladatainak ellátásához szükséges.
+
+7\. Minden olyan adat és irat átvétele az MR Közösségi Lakásalap NKft.-től és azok kezelése, amelyek a Lebonyolító részletvételi jogviszony kapcsán fennálló e rendelet szerinti feladatainak ellátásához szükséges.
+
+**II. Az MR Közösségi Lakásalap NKft. által ellátandó feladatok**
+
+1\. Az MR Közösségi Lakásalap NKft. által a Törvény szerinti részletvételi jogviszony kapcsán ellátandó követeléskezelői feladatok:
+
+1.1.[^65] Lebonyolítónál vezetett vételárrészlethátralék-nyilvántartás alapján követeléskezelési stratégia kidolgozása, ennek keretében a fizetési könnyítésekre, illetve a tartozások megfizetésére vonatkozó szabályok meghatározása.
+
+1.2. Lebonyolító által kiállított eseti vételárrészlet-értesítők megküldése a részletvevők részére.
+
+1.3. A követeléskezelési stratégián alapuló követeléskezelési tevékenységek teljes körű elvégzése.
+
+1.4. Írásbeli (postai és elektronikus) és szóbeli kapcsolattartás a részletvevőkkel a vételárrészlet hátralék követelése során, tájékoztatás nyújtása a követeléssel, hátralékfizetéssel összefüggésben, a részletvevők megkereséseinek teljes körű megválaszolása.
+
+1.5. A részletfizetés során hathavi késedelembe eső részletvevők tekintetében intézkedés az egyösszegben esedékessé vált vételárrészlet hátralék és kapcsolódó járulékok, perköltség, eljárási költségek jogi úton történő behajtása iránt.
+
+2\. Az MR Közösségi Lakásalap NKft. által a Törvény szerinti részletvételi jogviszony kapcsán ellátandó lebonyolítói feladatok:
+
+2.1. Részletvevők részére tájékoztatás küldése a részletvételi jogviszonnyal kapcsolatban felmerülő valamennyi kérdésben, kapcsolódó megkeresések megválaszolása írásban (postai és elektronikus) és szóban.
+
+2.2. Adminisztratív hibából az MR Közösségi Lakásalap NKft. részére teljesített vételárrészletek átutalása a Lebonyolító részére.
+
+2.3. Részletvevők tájékoztatása az előteljesítés feltételeiről, menetéről, kapcsolattartás a részletvevőkkel az előteljesítés folyamata során.
+
+2.4. Részletvevő elhalálozása esetén az öröklési jogi kérdések teljes körű rendezése az örökösökkel, részletvevőkkel.
+
+2.5. A részletvevők Lebonyolító által az I. pont szerint kezelt adataira, valamint az MR Közösségi Lakásalap NKft. által kezelt adataira vonatkozó adathelyesbítési, adatváltozási kérelmek teljes körű önálló kezelése, elbírálása, illetve általánosságban a részletvevők adatainak változásával kapcsolatos feladatok teljes körű önálló ellátása, ideértve a Lebonyolító által az I. pont szerint kezelt részletvevőkre vonatkozó nyilvántartás módosítását a részletvevői adatváltozások átvezetése érdekében.
+
+2.6. Minden olyan adat és irat átvétele a Lebonyolítótól és azok kezelése, amelyek az MR Közösségi Lakásalap NKft. e rendelet szerinti lebonyolítói, követeléskezelői és szociális, segítő-szolgáltató, mentori feladatainak ellátásához szükségesek.
+
+2.7. Minden olyan adat és irat átadása a Lebonyolító részére, amely a Lebonyolító részletvételi jogviszony kapcsán fennálló e rendelet szerinti feladatainak ellátásához szükséges.
+
+3\. Az MR Közösségi Lakásalap NKft. által a Törvény szerinti részletvételi jogviszony kapcsán ellátandó szociális, segítő-szolgáltatói, mentori feladat:
+
+3.1. Részletvevők lakhatása elvesztésének megakadályozása érdekében szociális, segítő szolgáltatás szervezése és fenntartása.
+
+## 2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^66]
+
+**A Kijelölt Szolgáltató által ellátandó feladatok**
+
+A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meghatározott kereteken belül, valamint a Karitatív tv. 1. § (1) bekezdés c) pontja szerinti üres ingatlanok tekintetében ellátandó feladatok:
+
+1\. Az ingatlanok műszaki állapotának részletes felmérése.
+
+2\. Az ingatlanokkal összefüggő műszaki hibabejelentések fogadására alkalmas telefonos ügyfélszolgálat működtetése.
+
+3\. Az ingatlanokkal összefüggésben bejelentett műszaki hibák rövid, ütemezett határidőn belüli – rendkívüli sürgősség esetén haladéktalan – elhárítása, javítása.
+
+4\. Az ingatlanok tekintetében szükségessé váló tervezett vagy eseti állagmegóvó, karbantartási munkálatok elvégzése az MR Lakásalap Nkft. utasításai alapján, valamint jogszabály által előírt, tulajdonost terhelő ellenőrzési, felülvizsgálati feladatok elvégzése az MR Lakásalap Nkft. utasításai alapján.
+
+5\. Az ingatlanok használatának, illetve műszaki állapotának időszakos helyszíni ellenőrzése az MR Lakásalap Nkft. utasításai alapján.
+
+6\. Eseti megbízás alapján az MR Lakásalap Nkft. képviselete társasházi közgyűléseken.
+
+7\. Az ingatlanokra vonatkozó adatoknak a Kijelölt Szolgáltató által üzemeltetett ingatlankezelést és üzemeltetést támogató számítógépes rendszerbe történő feltöltése és karbantartása.
+
+8\. Természeti csapás vagy emberi tevékenység okozta, a lakosságot vagy a környezetet veszélyeztető váratlan esemény bekövetkeztekor közreműködés a kiköltöztetendő lakók és vagyontárgyaik elszállításában és ideiglenes elhelyezésében.
+
+9\. A lakásbérleti szerződés megszűnése okán bekövetkező megüresedés esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
+
+## 3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^67]
+
+**A Magyar Posta Zrt. által ellátandó feladatok[^68]**
+
+1\. Az ingatlanokra és azok használóira (bérlők, jogcím nélküli lakáshasználók) vonatkozó adatoknak a követelések nyilvántartására alkalmas számítógépes rendszerbe történő feltöltése és karbantartása.
+
+2.[^69] A lakásbérleti jogviszonyban állókkal, az ingatlanokat jogcím nélkül használókkal, továbbá a Lebonyolítóval a Törvény szerint létrejött részletvételi jogviszonyban álló részletvevőkkel szembeni követelésekre vonatkozó számlák és vételárrészlet-értesítők, csekkes számlalevelek, valamint egyéb megszemélyesített iratok, értesítők, felszólító levelek, bizonylatok, egyenlegközlő levelek előállítása.
+
+3\. Az elkészített értesítők, számlák, vételárrészlet-értesítők, csekkes számlalevelek, felszólító levelek, bizonylatok, egyenlegközlő levelek, egyéb megszemélyesített iratok borítékolása, valamint a postai előírásoknak megfelelően előkészített küldemények postai feladása.
+
+4\. A Lebonyolító számláján jóváírt befizetések (postai csekken történő befizetések, banki átutalással teljesített befizetések, belföldi postautalványon érkező befizetések, egyéb számviteli bizonylatok fogadása) beazonosítása, ingatlanhoz rendelése, az előírásokkal történő összevetése, a befizetéseknek a Lebonyolító által meghatározott elszámolási sorrend szerinti elszámolása, késedelmes befizetés esetén késedelmi kamat számítása. A Lebonyolító által nyilvántartott óvadék terhére történő követelés elszámolás végrehajtása.
+
+5\. Az elkészített számlák, vételárrészlet-értesítők, illetve a beérkezett és feldolgozásra került befizetések adatainak átadása a Lebonyolító, illetve a részére számviteli szolgáltatást nyújtó szervezet részére.
+
+6\. A Lebonyolító részére információ szolgáltatása a követelésekről, a Lebonyolító által meghatározott paraméterek szerinti riportok, jelentések elkészítése.
+
+## 4. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^70]
+
+---
+
+[^1]: Az 1. § 1. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § 2. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § 3. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § 4a. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte, újonnan a 159/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § 4b. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte, újonnan a 159/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § 4c. pontját a 159/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. § 5. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § 6. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^9]: Az 1. § 7. pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^10]: Az 1. alcímet (2. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^11]: A 2. alcímet (3–4. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^12]: Az 5. § (1) bekezdése a 761/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (2) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 16. § (1) bekezdésével megállapított, az 518/2023. (XI. 30.) Korm. rendelet 62. § a) és b) pontja szerint módosított szöveg.
+[^14]: Az 5. § (3) bekezdése a 761/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 159/2024. (VI. 28.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (4) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 159/2024. (VI. 28.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § e) pontja szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 210/2019. (VIII. 27.) Korm. rendelet 7. §-ával megállapított, a 373/2020. (VII. 30.) Korm. rendelet 22. § e) pontja szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdését a 210/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^21]: A 8. § (2) bekezdése a 761/2021. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 8. § (3) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^23]: A 9. § a 761/2021. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 9. § (2) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A 6. alcímet (9/A. §-t) a 159/2024. (VI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^26]: A IV. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^27]: Az V. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^28]: A VI. fejezet (10–11. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^29]: A 11. § (1) bekezdése a 386/2023. (VIII. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^30]: A 11. § (2) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 11. § (3) bekezdése a 386/2023. (VIII. 14.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^37]: A 9. alcím (17–20. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^38]: A 10. alcím (21. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^39]: A 11. alcím (22. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^40]: A 12. alcím (23. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^41]: A VII. fejezetet (24–25. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^42]: A VIII. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^43]: A 26. § a 283/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^44]: A 26. § (1) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^45]: A 26. § (2) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^46]: A 27. § nyitó szövegrésze a 283/2019. (XI. 28.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^47]: A 27. § e) pontja a 283/2019. (XI. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^48]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^49]: A 28. § (1) bekezdés a) pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^50]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^51]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^52]: A 29/A. § (1) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^53]: A 16. alcímet (30. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^54]: A 32. § (1) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^55]: A 32. § (3) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^56]: A 32. § (4) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.
+[^57]: A 32. § (5) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.
+[^58]: A 32/A. §-t a 373/2020. (VII. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^59]: A 32/B. §-t a 159/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^60]: A hatálybalépés időpontja 2024. július 6.
+[^61]: A 33/A. §-t a 386/2023. (VIII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^62]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: Az 1. melléklet a 761/2021. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^65]: Az 1. melléklet II. Az MR Közösségi Lakásalap NKft. által ellátandó feladatok cím 1. pont 1.1. alpontja a 159/2024. (VI. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^66]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 761/2021. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^67]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 3. melléklet címe a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 2. pontja a 448/2024. (XII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^70]: A 4. mellékletet a 761/2021. (XII. 23.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.

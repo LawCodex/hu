@@ -1,0 +1,122 @@
+---
+title: "98/2012. (V. 15.) Korm. rendelet a határon túli költségvetési támogatások sajátos szabályairól"
+identifier: "98/2012. (V. 15.) Korm. rendelet"
+njt_id: "2012-98-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/98"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-05-15
+in_force_from: 2012-05-16
+last_amended: 2025-05-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-98-20-22"
+retrieved: 2026-10-12
+---
+
+# 98/2012. (V. 15.) Korm. rendelet a határon túli költségvetési támogatások sajátos szabályairól
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 31. pontjában kapott felhatalmazás alapján,
+
+az 5. § tekintetében a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 28. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] E rendelet hatálya a központi költségvetésről szóló törvényben meghatározott központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalap (a továbbiakban együtt: előirányzat) terhére a határon túli magyarság támogatásához kapcsolódóan, valamint a Kormány egyedi döntésén alapuló határon túli támogatásokhoz biztosított költségvetési támogatásokra (a továbbiakban együtt: határon túli költségvetési támogatás) terjed ki, ide nem értve a határon túli magyarok egészségügyi ellátásának támogatására szolgáló fejezeti kezelésű előirányzat terhére nyújtott támogatást.
+
+(2) A határon túli költségvetési támogatás felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+
+## 2. §
+
+(1)[^2] Határon túli költségvetési támogatás
+
+a) határon túli természetes személy, jogi személy és jogi személyiség nélküli szervezet,
+
+b)[^3] – ha a támogatás célja részben vagy egészben a határon túli magyarok szellemi, kulturális, anyagi gyarapodására, valamint a határon túli magyarság anyaországgal való sokoldalú kapcsolatai fenntartására és erősítésére irányul – Magyarországon székhellyel vagy telephellyel rendelkező jogi személy, valamint
+
+c) a határon túli gazdaságfejlesztési stratégiák megvalósítását összefogó szervezet
+
+[*a)–c)* pont a továbbiakban együtt: kedvezményezett] részére nyújtható.
+
+(2) A határon túli költségvetési támogatás az előirányzat felhasználását meghatározó jogszabályban és nemzetközi szerződésben meghatározott célok megvalósítására használható fel.
+
+(3) A kedvezményezett érdekkörében felmerülő elháríthatatlan külső ok esetén a határon túli költségvetési támogatás a támogató döntése alapján azonnali humanitárius segítségnyújtásra is felhasználható.
+
+(4)[^4]
+
+(5)[^5] Támogatási szerződés köthető arra is, hogy az (1) bekezdés c) pontja szerinti kedvezményezett a kapott támogatást más, e rendelet hatálya alá tartozó vagy – ha a támogatott tevékenység megvalósítására teljes egészében e rendelet szabályai szerint, határon túl kerül sor – Magyarországon bejegyzett személy vagy szervezet (a továbbiakban: végső kedvezményezett) részére továbbadja. A továbbadásra és a támogatás végső kedvezményezettnél történő felhasználására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), az Ávr. és e rendelet szabályait kell alkalmazni azzal, hogy
+
+a) a kedvezményezett ebben az esetben arra vállal a támogatási szerződésben kötelezettséget, hogy a támogatási szerződésben meghatározott céllal a végső kedvezményezett számára – a végső kedvezményezettel kötött támogatási szerződéssel – támogatást nyújt, majd annak felhasználásáról a végső kedvezményezettet az Áht., az Ávr. és e rendelet szabályai szerint beszámoltatja,
+
+b) a kedvezményezett támogató felé történő beszámolási kötelezettsége a támogatás továbbadására és a végső kedvezményezett beszámoltatására vonatkozik.
+
+## 3. §
+
+(1)[^6] Az előirányzat terhére a támogató annak céljával összhangban vállalhat kötelezettséget.
+
+(1a)[^7] A határon túli költségvetési támogatásra – az e rendeletben foglalt kivételekkel – az Ávr. 65. §-át, 65/A. § (1) bekezdés b) pont bb) alpontját, 65/B–65/C. §-át, 66–68. §-át, 69. § (1) bekezdés a) és c)–j) pontját – természetes személy esetén a 69. § (1) bekezdés a), c), d), i) és j) pontját –, 71–74. §-át, 75. § (1)–(4a) és (6)–(9) bekezdését, 76. § (1)–(3) bekezdését, 77. §-át, 81–82. §-át, 84. §-át, 85. § (3) és (5) bekezdését, 86. §-át és 87. §-át, 88. § (1) és (3) bekezdését, 89–91/A. §-át, 92. § (1) bekezdését, 93. § (1)–(3) és (5) bekezdését, 95. § (1) bekezdését, 95. § (2) bekezdés a)–d) pontját, 95. § (5) és (6) bekezdését, 96–98. §-át, 99. § (1) és (3) bekezdését, 100. § (1) és (2) bekezdését, 101–102/C. §-át, valamint 102/E–102/F. §-át kell alkalmazni. A határon túli költségvetési támogatásra az Ávr. 75. § (3) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy aláírásmintaként elfogadható külföldi jog szerint az aláírásminta hitelesítésére jogosult más személy által hitelesített másolat is.
+
+(1b)[^8] A támogató az Áht. 50/A. §-a szerinti biztosíték kikötésétől határon túli költségvetési támogatás esetén eltekinthet.
+
+(1c)[^9]
+
+(1d)[^10] A határon túli költségvetési támogatás a támogatási szerződésben meghatározott pénzügyi és időbeli ütemezésben vehető igénybe. A határon túli költségvetési támogatás folyósítása az Ávr. 88. § (1) bekezdésében meghatározottakon felül
+
+a) a finanszírozásba bevont pénzügyi intézmény vagy egyéb szervezet útján,
+
+b) rendkívül indokolt esetben a kedvezményezett címére fizetési számláról történő készpénz-kifizetés kézbesítése útján
+
+is történhet.
+
+(1e)[^11] Határon túli költségvetési támogatás esetén az Ávr. 98. § (4) bekezdése szerinti kamatszámítás utolsó napja a szerződés felbontásának napja, kivéve, ha a határon túli költségvetési támogatást gazdasági tevékenységhez kapták vagy használták fel. A kedvezményezett a követelés kamattal növelt összegét a fizetési felszólítás kézhezvételét követő 15 napon belül köteles megfizetni.
+
+(1f)[^12]
+
+(1g)[^13] Határon túli költségvetési támogatás esetén az Ávr. 93. § (3) bekezdése szerinti összesítő a kedvezményezett székhelye szerinti szabályozási környezet követelményeinek megfelelő és a pénzügyi teljesítést az összes körülmény figyelembevételével hitelt érdemlően igazoló számviteli bizonylatok sorszámát (ha van ilyen), típusát, a kiállításának keltét, a teljesítésének dátumát, a gazdasági esemény rövid leírását, a megfizetett adókat is tartalmazó, illetve az a nélküli összegét, a támogatás terhére elszámolt összeget, a számviteli bizonylat kiállítójának nevét, adószámát vagy (adószám hiányában) más azonosítóját, a pénzügyi teljesítés időpontját, valamint a kedvezményezett képviseletére jogosult vagy az általa meghatalmazott személy aláírását tartalmazza.
+
+(2) A határon túli költségvetési támogatással kapcsolatos feladatok ellátását végző határon túli lebonyolító szerv és más támogatásközvetítői feladatokat ellátó szervezet – jogszabály eltérő rendelkezése hiányában – legfeljebb a lebonyolítás céljából átadott összeg 8%-át használhatja fel a feladat ellátásával kapcsolatos saját működési és felhalmozási költségeinek fedezeteként.
+
+(2a)[^14] A 2. § (1) bekezdés c) pontja szerinti szervezet az általa lebonyolított támogatási jogviszonyok fenntartási időszaka során felmerülő feladatok költségei fedezetére indokolt esetben, a szükséges forrás rendelkezésre állása esetén, a fejezetet irányító szerv egyedi mérlegelés alapján meghozott ez irányú döntésével, a (2) bekezdésben meghatározott mértéken felül további 5%-ot is felhasználhat, elsődlegesen a lebonyolítás céljából átadott összeg terhére.
+
+(3)[^15] Az ötmilliárd forintot el nem érő összegű határon túli költségvetési támogatás esetén támogatási szerződés alapján is nyújtható támogatás, így különösen a támogatás lebonyolításában részt vevő, (2) bekezdés szerinti szervezet, zálogjog biztosíték alkalmazása, vagy az Ávr. 88. § (1) bekezdés b)–c) pontjában meghatározott támogatás folyósítása esetén.
+
+(4)[^16] Határon túli költségvetési támogatás esetén a támogatás nyújtásának feltételeként előírt ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzésének legkésőbb a jelzálogjoggal érintett ingatlanra vonatkozó hatósági használatbavételi engedély (vagy az ennek megfelelő, a helyi jog szerinti engedély) kiállításától vagy a biztosítékkal érintett ingatlanra vonatkozó tulajdonjog bejegyzésétől számított százhuszadik napon belül kell megtörténnie. A költségvetési támogatás folyósításának feltétele, hogy az ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzéséig az Ávr. 84. § (2) bekezdése szerinti biztosítékot kell nyújtani.
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendeletet a hatálybalépését megelőzően kötött támogatási szerződések alapján nyújtott határon túli költségvetési támogatás e rendelet hatálybalépését követő felhasználásának és elszámolásának eljárási rendjére is alkalmazni kell.
+
+## 8. §[^22]
+
+A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet és a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet módosításáról szóló 221/2019. (IX. 17.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 3. §-t a Módr5. hatálybalépésekor[^23] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 9. §[^24]
+
+E rendeletnek a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet módosításáról szóló 117/2025. (V. 29.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 3. § (2a) bekezdését a Módr6. hatálybalépésekor[^25] folyamatban lévő támogatási jogviszonyok tekintetében is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 41/2017. (III. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 198/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 294/2023. (VII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdését a 221/2019. (IX. 17.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (5) bekezdését a 198/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 3. § (1) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1a) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 221/2019. (IX. 17.) Korm. rendelet 6. §-ával megállapított, a 13/2020. (II. 7.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^8]: A 3. § (1b) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 282/2015. (IX. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (1c) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 221/2019. (IX. 17.) Korm. rendelet 8. § b) pontja.
+[^10]: A 3. § (1d) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 20/2015. (II. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^11]: A 3. § (1e) bekezdése a 388/2014. (XII. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 20/2015. (II. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^12]: A 3. § (1f) bekezdését a 264/2017. (IX. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 68. § 1. pontja.
+[^13]: A 3. § (1g) bekezdését a 264/2017. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 3. § (2a) bekezdését a 117/2025. (V. 29.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § (3) bekezdését a 20/2015. (II. 17.) Korm. rendelet 18. §-a hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A 3. § (4) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 8. §-t a 221/2019. (IX. 17.) Korm. rendelet 7. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2019. szeptember 18.
+[^24]: A 9. §-t a 117/2025. (V. 29.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2025. május 30.

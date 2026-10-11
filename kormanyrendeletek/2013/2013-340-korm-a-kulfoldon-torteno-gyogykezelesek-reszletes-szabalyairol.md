@@ -1,0 +1,464 @@
+---
+title: "340/2013. (IX. 25.) Korm. rendelet a külföldön történő gyógykezelések részletes szabályairól"
+identifier: "340/2013. (IX. 25.) Korm. rendelet"
+njt_id: "2013-340-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/340"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-09-25
+in_force_from: 2013-10-25
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-340-20-22"
+retrieved: 2026-10-12
+---
+
+# 340/2013. (IX. 25.) Korm. rendelet a külföldön történő gyógykezelések részletes szabályairól
+
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1)[^1] E rendelet alkalmazásában külföldi gyógykezelésre jogosult az a személy, aki a kérelem benyújtásának időpontjától az ellátás külföldi igénybevételének időpontjáig
+
+a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. §-a alapján biztosított,
+
+b) a Tbj. 22. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosult, ide nem értve a Tbj. 22. § (1) bekezdés u) pontja szerinti jogosultat.
+
+(2) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 27. § (3) bekezdése alkalmazásában az orvosilag szükséges ellátások külföldön történő igénybevételére jogosult az a személy, aki a külföldi ellátás igénybevételének időpontjában megfelelt az (1) bekezdés a) vagy b) pontjában írt feltételnek.
+
+(3) E rendelet szabályai alkalmazandóak az (1) bekezdés b) pontja szerint jogosult recipiens
+
+a) érdekében külföldi donoron külföldi egészségügyi szolgáltató által végrehajtott vizsgálat, szerv-, illetve szöveteltávolítás, továbbá a szerv- és szövet magyarországi egészségügyi szolgáltatóhoz történő szállításának, valamint
+
+b) külföldi, illetve nemzetközi várólistára helyezése költségeinek
+
+a finanszírozására.
+
+### 2. §
+
+(1) A külföldi gyógykezelésre jogosult személy külföldi gyógykezelést
+
+a) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) rendelkezései szerint,
+
+b) az Ebtv. 5/B. § s) pont sb) alpontja szerinti határon átnyúló egészségügyi ellátás (a továbbiakban: határon átnyúló egészségügyi ellátás) keretében, valamint
+
+c) az Ebtv. 28. § (1) bekezdése és a 9. § szerint méltányosságból
+
+vehet igénybe.
+
+(2) A külföldi gyógykezelésre jogosult személy külföldi gyógykezelést
+
+a) az (1) bekezdés a) pontja szerinti esetben az Európai Gazdasági Térség vagy Svájc területén letelepedett közfinanszírozott szolgáltatónál,
+
+b) az (1) bekezdés b) pontja szerinti esetben az Európai Unióban letelepedett szolgáltatónál,
+
+c) az (1) bekezdés c) pontja szerinti esetben bármely országban, de – figyelemmel a 9. § (5) bekezdésében foglaltakra – elsősorban az Európai Gazdasági Térség vagy Svájc területén letelepedett szolgáltatónál
+
+jogosult igénybe venni.
+
+### 3. §
+
+(1)[^2] A külföldi gyógykezelésre jogosult személy a 2. § (1) bekezdés a) és c) pontja szerinti külföldi gyógykezelést, valamint a 2. § (1) bekezdés b) pontja szerinti külföldi gyógykezelés esetén az 1. mellékletben szereplő ellátásokat a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) finanszírozásával tervezett módon kizárólag a NEAK által a külföldi gyógykezelést megelőzően kiadott engedéllyel veheti igénybe.
+
+(2)[^3] A külföldi gyógykezelés igénybevételéhez szükséges engedély megadását a külföldi gyógykezelésre jogosult személy, illetve törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal és finanszírozási szerződéssel rendelkező kezelőorvosa a NEAK-nál kezdeményezheti a 2. melléklet szerinti kérelem benyújtásával. A kérelemhez mellékelni kell a beteg vonatkozó egészségügyi dokumentációját.
+
+### 4. §
+
+(1)[^4] A külföldi gyógykezelés akkor engedélyezhető, ha a társadalombiztosítás által be nem fogadott gyógykezelés Magyarországon szakmailag elfogadott és reális egészségnyereséggel jár. A külföldi gyógykezelést akkor kell engedélyezni, ha a társadalombiztosítás által befogadott gyógykezelés Magyarországon a betegnek az engedély iránti kérelem benyújtása időpontjában fennálló egészségi állapotára és betegségének várható lefolyására tekintettel orvosszakmai szempontból elfogadható időn belül magyarországi közfinanszírozott egészségügyi szolgáltatónál nem biztosítható.
+
+(2)[^5] A külföldi gyógykezelésre szóló engedély a beteg egészségi állapotára és az igényelt külföldi gyógykezelésre való tekintettel a NEAK által meghatározott időszakon belül használható fel.
+
+## 2. Külföldi gyógykezelés az uniós rendeletek alapján
+
+### 5. §
+
+(1)[^6] Külföldi gyógykezelésre irányuló kérelem benyújtása esetén a NEAK a kérelem beérkezésétől számított 8 napon belül megvizsgálja, hogy az ellátás Magyarországon a társadalombiztosításba befogadott-e.
+
+(2)[^7] Ha az ellátás a társadalombiztosításba befogadott, a NEAK további 15 napon belül megvizsgálja, hogy a beteget Magyarországon a kérelemben megjelölt orvosilag indokolt időn belül el tudja-e látni közfinanszírozott egészségügyi szolgáltató. Ha szükséges, a NEAK szakértő igénybevételével a kérelemben feltüntetett adatokat felülvizsgálja; a szakértő az orvosszakmai véleményét a dokumentumok beérkezésétől számított 15 napon belül adja meg.
+
+(3)[^8] Ha a külföldi gyógykezelésre jogosult személyt Magyarországon közfinanszírozott egészségügyi szolgáltató el tudja látni a kérelemben megjelölt orvosilag indokolt időn belül, a NEAK elutasítja a kérelmet, és javaslatot tesz a hazai közfinanszírozott egészségügyi szolgáltatóra. A NEAK előzetesen tájékozódik a hazai közfinanszírozott egészségügyi szolgáltató fogadókészségéről, kivéve a területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltatót.
+
+(4)[^9] Ha az ellátás orvosilag indokolt időn belül hazai közfinanszírozott egészségügyi szolgáltatónál nem biztosítható, a NEAK megvizsgálja, hogy a kérelemben a beteg által megjelölt szolgáltatónál az ellátás biztosítható-e. Ennek keretében a NEAK vizsgálhatja az ellátás minőségét és biztonságát, illetve figyelembe veszi a költséghatékonysági szempontokat is. A költséghatékonysági szempontoknak akkor felel meg a külföldi egészségügyi szolgáltató, ha az ellátás költsége az ellátásra vonatkozó magyarországi belföldi költség mértékét jelentősen nem haladja meg. A költségmérték jelentős meghaladásának kell tekinteni, ha a költség több mint 30%-kal haladja meg az ellátásra vonatkozó magyarországi belföldi költség mértékét.
+
+(5)[^10] Ha a választott egészségügyi szolgáltatónál az ellátás minősége és biztonsága nem vet fel aggályokat, és az a költséghatékonysági szempontoknak is megfelel, a NEAK tájékozódik az intézmény fogadókészségéről és a gyógykezelés lehetséges időpontjáról. A NEAK annak megállapításától számított 8 napon belül, hogy a külföldi gyógykezelésre jogosult személy magyarországi közfinanszírozott egészségügyi szolgáltatónál nem látható el – figyelemmel az Ebtv. 27. § (3) bekezdésére is –, kiadja az uniós rendeletek szerinti jogosultság-igazolást.
+
+(6)[^11] Ha a külföldi gyógykezelésre jogosult személy által választott külföldi egészségügyi szolgáltatóval szemben az ellátás minőségével vagy biztonságával kapcsolatos súlyos és kifejezett aggályok merülnek fel, vagy az a költséghatékonysági szempontoknak nem felel meg, a NEAK az (5) bekezdés szerint folytatja le az engedélyezést, azzal, hogy a jogosultság-igazolásban az Európai Gazdasági Térség tagállamában vagy Svájcban letelepedett, a (4) bekezdésben foglalt feltételeknek megfelelő másik külföldi egészségügyi szolgáltatóra tesz javaslatot.
+
+(7)[^12] Az e § szerinti külföldi gyógykezelés megtérítésére az uniós rendeletek szabályai szerint kerül sor. A külföldi gyógykezelés költségei kötelezően meg nem térítendő részére vonatkozóan, ideértve az utazás és a kísérő költségeit is, a NEAK – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
+
+### 6. §[^13]
+
+Az orvosilag szükséges ellátások uniós rendeletek szerinti igénybevételekor azon esetekben, amikor a külföldi gyógykezelésre jogosult személy Európai Egészségbiztosítási Kártyára (a továbbiakban: EU-Kártya) jogosult lett volna, de a külföldi gyógykezelés igénybevételekor nem rendelkezett EU-Kártyával és maga fizette meg a külföldi gyógykezelés költségét, a költségeket olyan mértékig téríti meg az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal, amennyibe az ellátás EU-Kártya felmutatása mellett került volna. Ebben az esetben a külföldi gyógykezelésre jogosult személynek teljesítenie kell a 8. § (2) bekezdés b) pontja szerinti elszámolási feltételeket.
+
+## 3. Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében
+
+### 7. §
+
+(1)[^14] Ha a külföldi gyógykezelésre jogosult személy a külföldi gyógykezelést az uniós rendeletek hatálya alá nem tartozó szolgáltatónál, illetve bármilyen más okból nem az uniós rendeletek szabályai szerint kívánja igénybe venni, vagy olyan engedélyt kér, amely kizárólag az ellátás igénybevételére jogosít az egészségügyi szolgáltató megjelölése nélkül, erről kérelmében nyilatkoznia kell. A NEAK az 5. § (1)–(3) bekezdésében meghatározott eljárást folytatja le, figyelembe véve a sürgősséget és az egyéb egyedi körülményeket. A jogszabályban meghatározott feltételeknek megfelelő kérelmet a NEAK abban az esetben utasíthatja el, ha az ellátás orvosilag indokolt időn belül hazai közfinanszírozott egészségügyi szolgáltatónál biztosítható. Ha ez a feltétel nem áll fenn, a NEAK a külföldi gyógykezelést engedélyezi.
+
+(2)[^15] Határon átnyúló egészségügyi ellátás valósul meg akkor is, ha a külföldi gyógykezelésre jogosult személy által választott szolgáltatót a NEAK az 5. § (6) bekezdése szerint költséghatékonysági okból nem tartja elfogadhatónak, és más szolgáltatóra tesz javaslatot, a beteg azonban a külföldi gyógykezelést nem az engedélyben szereplő, hanem az Európai Unió más tagállamában letelepedett egészségügyi szolgáltatónál veszi igénybe.
+
+(3)[^16] Az (1) és a (2) bekezdés szerinti határon átnyúló egészségügyi ellátás igénybevétele esetén a külföldi gyógykezelésre jogosult személy az ellátás hitelt érdemlően igazolt tényleges költségének utólagos megtérítésére jogosult, azzal, hogy a NEAK által fizetendő térítés összege nem haladhatja meg az igénybevétel idején az ellátásra vonatkozó magyarországi közfinanszírozott ellátás belföldi költségének mértékét. Ebben az esetben a külföldi gyógykezelésre jogosult személynek teljesítenie kell a 8. § (2) bekezdés b) pontja szerinti elszámolási feltételeket. A belföldi költségmértéket az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben meghatározottak szerint kell megállapítani.
+
+### 8. §
+
+(1) Az engedélyhez nem kötött határon átnyúló egészségügyi ellátás, illetve a nem tervezett, orvosilag szükséges ellátás uniós rendeletek hatálya alá nem tartozó, az Európai Unióban letelepedett egészségügyi szolgáltatónál történő igénybevétele esetén felmerült költségek megtérítése a 7. § (3) bekezdése szerint történik.
+
+(2) Az (1) bekezdés szerinti megtérítés feltétele, hogy a külföldi gyógykezelésre jogosult személy a megtérítési kérelméhez csatolja
+
+a) a magyar jogszabályok szerint beutalóköteles ellátások esetében az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalót vagy annak másolatát, és
+
+b)[^17] a külföldi számlát vagy ennek másolatát, a számla fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapíthatóak meg az igénybe vett egészségügyi szolgáltatás hazai szabályok szerinti elszámolásához szükséges adatok az ellátott betegségre, az elvégzett szolgáltatásokra, az ellátás időtartamára vonatkozóan, akkor az ezen adatokat tartalmazó zárójelentést és ennek fordítását.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően, ha a belföldi költség mértékéig történő megtérítést gyógyszer és gyógyászati segédeszköz esetében nem egyéb egészségügyi szolgáltatás igénybevételéhez kapcsolódóan kérelmezik, a költségek megtérítésének feltétele, hogy a külföldi gyógykezelésre jogosult személy a megtérítési kérelméhez csatolja
+
+a) a kiváltás alapjául szolgáló orvosi rendelvényt vagy annak másolatát,
+
+b) a rendelés alapjául szolgáló egészségügyi dokumentációt és annak fordítását és
+
+c) a (2) bekezdés b) pontja szerinti dokumentumokat.
+
+(4)[^18] A kérelmező a felírt gyógyszer és gyógyászati segédeszköz külföldi kiváltását megelőzően kérheti a NEAK tájékoztatását arra vonatkozóan, hogy részére a (3) bekezdés alkalmazása során milyen mértékű költségtérítés jár. Ebben az esetben
+
+a) a tájékoztatás iránti kérelemhez kell mellékelni a (3) bekezdés a) és b) pontjában foglalt dokumentumokat és
+
+b) a (3) bekezdés szerinti kérelemhez a (3) bekezdés c) pontja szerinti dokumentumokat kell mellékelni.
+
+A NEAK a tájékoztatását a kérelem kézhezvételétől számított 8 napon belül küldi meg.
+
+(5)[^19]
+
+(6)[^20] A NEAK a (3) bekezdés szerinti kérelem elbírálásakor a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 24. § (6a) bekezdése és 33. § (6) bekezdése szerinti nyilvántartások adatainak, valamint a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról, a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről, valamint a finanszírozási eljárásrendekről szóló miniszteri rendeletek figyelembevételével jár el.
+
+(7)[^21]
+
+## 4. Külföldi gyógykezelés méltányosságból
+
+### 9. §
+
+(1)[^22] Ha a NEAK a külföldi gyógykezelés iránti kérelem beérkezésétől számított 8 napon belül megállapította, hogy az ellátás Magyarországon a társadalombiztosításba nem befogadott, ennek megjelölésével a kérelmet és az egészségügyi dokumentációt elektronikus úton továbbítja az Egészségügyi Szakmai Kollégium ügyben illetékes tagozatának (a továbbiakban: Tagozat) az ügy orvosszakmai megítélését szolgáló 5. melléklet kitöltése érdekében. A külföldön történő gyógykezelés indokoltságáról szóló szakmai javaslat meghozatalában nem vehet részt a Tagozat azon tagja, aki a beteg kezelőorvosaként vagy a kezelésben előzőleg részt vevő orvosként a beteg kezelésében részt vett.
+
+(2) A Tagozat az (1) bekezdés szerinti dokumentumok beérkezésétől számított 15 napon belül megvizsgálja a külföldi gyógykezelés indokoltságát, valamint megállapítja, hogy az ellátás szakmailag elfogadott-e és reális egészségnyereséggel jár-e, figyelembe véve a külföldi gyógykezelésre jogosult személy egészségi állapotát és betegségének várható lefolyását. A külföldi gyógykezelés akkor jár reális egészségnyereséggel, ha a beteg egészségi állapotának jelentős javulását vagy romlásának csökkenését eredményezi.
+
+(3)[^23] A Tagozat a külföldi gyógykezelésre jogosult személytől, hozzátartozójától vagy kezelőorvosától további dokumentumokat kérhet be. A Tagozat az 5. melléklet szerinti orvosszakmai véleményét a rendelkezésre álló iratok és a beteg szükség szerinti vizsgálata alapján, a (2) bekezdés szerinti határidőben adja meg, és egyidejűleg megküldi a NEAK-nak.
+
+(4)[^24] Ha a Tagozat az 5. melléklet szerint azt állapítja meg, hogy a külföldi gyógykezelés szakmailag elfogadott, de annak elvégzése a külföldi gyógykezelésre jogosult személy esetén nem jár reális egészségnyereséggel, vagy az ellátás szakmailag nem elfogadott, akkor a NEAK a kérelmet a Tagozat véleményének beérkezésétől számított 5 napon belül elutasítja.
+
+(5) Ha a Tagozat az 5. melléklet szerint azt állapítja meg, hogy a külföldi gyógykezelés elvégzése szakmailag elfogadott és a külföldi gyógykezelésre jogosult személy esetén reális egészségnyereséget eredményezhet, a költségek hatékony felhasználásának figyelembevételével megvizsgálja és dönt arról, hogy a gyógykezelés Magyarországon külföldi szakember meghívásos közreműködésével elvégezhető-e orvosi szempontból elfogadható időn belül, a beteg egészségi állapotára és betegségének várható lefolyására való tekintettel. Ha a Tagozat külföldi gyógykezelést lát szükségesnek, javaslatot tesz a külföldi egészségügyi szolgáltatóra, tájékozódik az intézmény fogadókészségéről, javaslatot tesz a szükséges kísérő személyek számára, megvizsgálja a betegszállítás szükségességét. A vizsgálat keretében a Tagozat figyelembe veszi a külföldi gyógykezelésre jogosult személy kérelmében feltüntetett szolgáltatót is. A Tagozat kizárólag abban az esetben tehet javaslatot az Európai Gazdasági Térségen és Svájcon kívül letelepedett egészségügyi szolgáltatóra, ha az ellátás
+
+a) az Európai Gazdasági Térség tagállamaiban és Svájcban nem érhető el,
+
+b) így a költségek hatékonyabb felhasználását eredményezi, vagy
+
+c) így reális egészségnyereség-többletet eredményez.
+
+(6)[^25] Ha a NEAK-nak a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor ezek tisztázása érdekében azt felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének. Az Egészségügyi Szakmai Kollégium elnöksége – ha indokoltnak tartja a felülvizsgálati eljárás során további információ bekérését, akkor annak tartalmát és módját meghatározva és dokumentálva – az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi a NEAK-nak. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért.
+
+(7)[^26] A NEAK – ha hiánypótlás nem szükséges – az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről – ide nem értve az önrészt – az eset valamennyi körülményének figyelembevételével. Az utazás és szükség esetén a kísérő utazási költségei tekintetében a NEAK – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
+
+(8)[^27] A NEAK a külföldi szakember meghívásos közreműködésével megvalósuló gyógykezeléseknél a támogatás megállapításakor a következő költségeket vállalhatja részben vagy egészben át:
+
+a) a külföldi szakember útiköltségét, magyarországi tartózkodási költségét, díjazását,
+
+b) a beavatkozáshoz szükséges eszközök, gyógyászati segédeszköz és gyógyszer költségét,
+
+c) a hazai, finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a hatályos finanszírozási szabályok szerinti díjon felüli, az ellátás nyújtásával összefüggő költséget.
+
+(9)[^28] Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, a NEAK – a külföldi intézettel való megállapodás esetén – előzetes kötelezettségvállaló nyilatkozatot ad és utólagos elszámolással rendezi a költségeket, illetve – szükség esetén – a támogatás mértékének megfelelő összeget előzetesen átutalja a gyógykezelést nyújtó külföldi gyógyintézetnek.
+
+(10)[^29] Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, a valamely EGT tagállam vagy Svájc területén letelepedett egészségügyi szolgáltatónál teljes térítéssel engedélyezett külföldi gyógykezelések esetén a NEAK kiadja az uniós rendeletek szerinti jogosultság-igazolást.
+
+(11)[^30] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
+
+## 5. Közös rendelkezések
+
+### 10. §
+
+Az engedélyezett külföldi gyógykezeléshez kapcsolódó, a külföldi egészségügyi szolgáltató által elrendelt kontrollvizsgálat a beavatkozást követő egy naptári éven belül egy alkalommal engedély nélkül igénybe vehető. További kontrollvizsgálatok igénybevételéhez engedélyezési eljárás lefolytatása szükséges, melynek keretében engedély kizárólag akkor adható, ha a kontrollvizsgálatoknak magyarországi közfinanszírozott egészségügyi szolgáltatónál nincsenek meg a feltételei.
+
+### 11. §
+
+(1)[^31] Ha az engedélyezett gyógykezeléshez kapcsolódóan a külföldi gyógykezelésre jogosult személynek, illetve orvos-szakmailag indokolt esetben a kísérőnek vagy kísérőknek a NEAK útiköltség megtérítését engedélyezte, az útiköltséget – legkorábban a gyógykezelés megkezdése előtt 12 nappal – megelőlegezi. Ha az utazás
+
+a)[^32] nem közforgalmú, menetrend szerinti személyszállító eszközzel történik, összesen 1 db II. osztályú menettérti vonatjegy árának megfelelő összeg, de legfeljebb az utazás tényleges költsége,
+
+b) menetrend szerinti repülőjárattal történik, 1 db turista osztályú oda-vissza irányú repülőjegy árának megfelelő összeg
+
+térítendő meg.
+
+(2)[^33] Ha a NEAK az útiköltség megtérítését engedélyezte, szükség szerint gondoskodik – orvosi javaslat alapján – a mentőszállítás biztosításáról is.
+
+### 12. §
+
+(1)[^34] A külföldi gyógykezelésre engedélyt kapott személy a külföldi gyógykezelése után a zárójelentése egy példányát, valamint a kezelőorvos 7. melléklet szerint kitöltött felülvizsgálatát a hazatérését követő 30 napon belül köteles megküldeni a NEAK-nak, illetve a 11. § (1) bekezdése esetén köteles elszámolni a felvett útiköltséggel. Az engedélyt kapott személynek a hazatérését követő 90 napon belül be kell nyújtania az engedélyezett gyógykezeléshez kapcsolódó számlákat a NEAK felé. A területileg és szakmailag illetékes egészségügyi szolgáltató a hazatért beteget gondozásba veszi.
+
+(2) A beutaló orvos a külföldi ellátást követően a beteg felülvizsgálata során az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletnek megfelelő adatszolgáltatást teljesíti a külföldi ellátásra vonatkozó térítési kategóriának és ellátási formának megfelelően.
+
+### 13. §
+
+(1)[^35] Ha a külföldi gyógykezelésre jogosult személy az 5. §, a 7. § és a 9. § szerinti külföldi gyógykezelést a NEAK engedélye nélkül veszi igénybe, a külföldi gyógykezelés költségei nem téríthetőek meg.
+
+(2) Ha a külföldi gyógykezelésre jogosult személy az ellátást az engedélyben meghatározott időszakon túl veszi igénybe, és akadályoztatását nem tudja annak megszűnését követő 15 napon belül megfelelő módon igazolni, a külföldi gyógykezelés költségei nem téríthetőek meg.
+
+### 14. §[^36]
+
+Ha engedélyezett külföldi gyógykezelés esetén a külföldi gyógykezelésre jogosult személy a gyógykezelést támogató javaslatban megjelölt időtartam alatt a gyógykezeléssel összefüggő ok miatt külföldön meghal, a NEAK a külföldi gyógykezelésre jogosult személy azon hozzátartozójának kérelmére, akit a holttest hazaszállításával kapcsolatos költségek terhelnek, a holttest hazaszállítási költségének fedezetéhez az Egészségbiztosítási Alap költségvetése terhére – méltányosságból – támogatás nyújtását engedélyezheti.
+
+### 14/A. §[^37]
+
+(1)[^38] Az Ebtv. 27. § (9a) bekezdése szerinti fellebbezést a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy kezelőorvosa a döntés közlésétől számított 15 napon belül nyújthatja be az Országos Kórházi Főigazgatósághoz (a továbbiakban: OKFŐ). Az OKFŐ haladéktalanul megkeresi az Egészségügyi Tudományos Tanácsot (a továbbiakban: ETT), amely 30 napon belül felülvizsgálja az orvosszakmai javaslatot, annak indokoltságát. Az OKFŐ az ETT szakhatósági állásfoglalása alapján, annak beérkezésétől számított 15 napon belül dönt.
+
+(2)[^39] Az Ebtv. 27. § (10) bekezdése szerinti döntés elleni fellebbezést az OKFŐ bírálja el.
+
+## 6. Monitoring
+
+### 16. §
+
+(1)[^41] A NEAK a kiadott engedélyekről és az azok alapján kifizetett költségekről, továbbá az engedélyhez nem kötött külföldi gyógykezelésekre kifizetett költségekről nyilvántartást vezet, és havonta jelentést készít az egészségügyért felelős miniszter részére, amelyben bemutatja az egyes ellátásfajtáknak a teljes költségeken belüli arányát.
+
+(2) Ha az (1) bekezdés szerinti költségek engedélyhez nem kötött ellátásokra költött része a tárgyévben eléri az Egészségbiztosítási Alap járóbeteg-szakellátás éves kiadási előirányzatának 1%-át, az egészségügyért felelős miniszter megteszi a szükséges intézkedéseket a járóbeteg-szakellátás előirányzat betarthatóságának a biztosítása érdekében.
+
+## 7. Adatgyűjtés
+
+### 17. §[^42]
+
+A NEAK a külföldi gyógykezelésekkel összefüggésben a következő adatok gyűjtéséről gondoskodik:
+
+a) benyújtott kérelmek száma, ellátások szerinti bontásban (OENO-kód szerint), valamint az 5. §, a 7. § és a 9. § szerinti bontásban,
+
+b) a külföldi gyógykezelést igénybe vevő személyek lakhelyének irányítószáma és születési ideje, a külföldi fogadó intézet neve és címe,
+
+c) a kiadott engedélyek száma az 5. § (5) és (6) bekezdése, a 7. § (1) bekezdése, valamint a 9. § (7) bekezdése szerinti bontásban,
+
+d) az elutasító döntések száma és indoka az 5. § (5) és (6) bekezdése, a 7. § (1) bekezdése, valamint a 9. § (7) bekezdése szerinti bontásban,
+
+e) az ETT felülvizsgálati kérelmet támogató vagy elutasító döntéseinek száma és indoka az 5. § (3), (5) és (6) bekezdése, illetve a 7. § (1) bekezdése szerinti bontásban,
+
+f) a 7. § (3) bekezdése szerinti megtérítések száma,
+
+g)[^43] a 8. § (4) bekezdése szerint benyújtott kérelmek száma és tárgya, valamint a 8. § szerinti megtérítések száma, és
+
+h) a 9. § (7) és (8) bekezdése szerinti megtérítések száma.
+
+## 8. Nemzetközi szervcsere-megállapodással összefüggő költségekkel kapcsolatos rendelkezések
+
+### 18. §
+
+(1)[^44] Nemzetközi megállapodásnak vagy a szolgáltatóval kötött eseti megállapodásnak megfelelően,
+
+a) az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ), vagy
+
+b) csontvelő vagy őssejt transzplantációja esetén az illetékes transzplantációs centrum
+
+igazolása alapján a NEAK megtéríti az 1. § (1) bekezdés b) pont szerint jogosult recipiensbe való átültetés céljából külföldi szolgáltató által külföldön végzett donor-kivizsgálás, továbbá a szerv- és szöveteltávolítás, valamint a szerv és szövet magyarországi egészségügyi szolgáltatóhoz történő szállításának költségeit.
+
+(2)[^45] Az OVSZ kezdeményezése alapján a NEAK megtéríti az 1. § (1) bekezdés b) pontja szerint jogosult recipiens külföldi vagy nemzetközi várólistára helyezésének regisztrációs díját.
+
+(3)[^46] Az OVSZ a 8. melléklet szerint igazolja a NEAK felé a szervátültetéssel kapcsolatban külföldön végzett donorkivizsgálással, a szerv- és szöveteltávolítással, valamint a szerv és szövet külföldről történő szállításával kapcsolatban felmerült költségek indokoltságát. A NEAK a számlával igazolt költségeket a vizsgálatot és a szerv-, illetve szöveteltávolítást végző külföldi szolgáltatónak, illetve a szerv- vagy szövetszállítást végző szolgáltatónak utalja át. Az (1) és a (2) bekezdésben felsorolt és az OVSZ által a szolgáltatónak kifizetett költségeket és díjakat a NEAK az OVSZ részére téríti meg utólagosan.
+
+(4)[^47] A nemzetközi szervcsere-megállapodással összefüggésben külföldi recipiens érdekében, magyar szolgáltató által végzett donorellátás költségeit a NEAK a donorellátást végző egészségügyi szolgáltató részére az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben meghatározottak szerint megtéríti.
+
+### 18/A. §[^48]
+
+A transzplantációs bizottságok (a továbbiakban: bizottságok) a nemzetközi várólistára helyezést megelőzően, valamint a szervek külföldről történő behozatalát megelőzően és a transzplantáció elvégzését megelőzően kötelesek a NEAK-tól jogviszony-ellenőrzést kérni. A NEAK a bizottságoknak tájékoztatást nyújt a beteg jogosultsági állapotjelzéséről. A bizottságok a NEAK tájékoztatása alapján regisztrálhatják a beteget a nemzetközi várólistán.
+
+### 19. §
+
+(1)[^49] Az EUROTRANSPLANT International Foundation alapítvánnyal (a továbbiakban: Eurotransplant) kötött szervcsere-megállapodás keretében előkészített és végrehajtott transzplantációk esetében a NEAK az OVSZ által igazolt regisztrációs díjat és szervszállítási költséget az Eurotransplant, illetve – a szervszállítás vonatkozásában, ha a szállítást a magyar fél rendeli meg – a szervet szállító szolgáltató részére a NEAK és az OVSZ által kötött és az egészségügyért felelős miniszter által jóváhagyott megállapodásban rögzített éves keretösszeg terhére és erejéig fizeti ki. A keretösszeg felhasználásáról a NEAK rendszeresen tájékoztatja az OVSZ-t. Az OVSZ a betegek várólistára helyezésével és a szervszállítás megrendelésével kapcsolatban a tárgyévben még rendelkezésre álló keretösszeg figyelembevételével jár el. A NEAK és az OVSZ által megállapított keretösszeget a felek a tárgyévet követő évben várható szervcsere-igénynek megfelelően évente felülvizsgálják.
+
+(2)[^50] Az (1) bekezdés szerinti szervcsere-megállapodás által előírt szervkivételi díj-különbözet elszámolására évente kerül sor a NEAK és az OVSZ között. Ha a tárgyévben az Eurotransplanttól kapott szervek száma meghaladja az Eurotransplant részére átadott szervek számát, a szervkivételi díj-különbözetet a NEAK az Eurotransplant részére utalja át az (1) bekezdés szerint megállapított keret terhére. Az (1) bekezdés szerinti szervcsere-megállapodás keretében magyar biztosítottba beültetendő szerv külföldön történő eltávolításáért a NEAK külföldi szolgáltató részére díjat nem fizet. Ha az Eurotransplant részére átadott szervek száma a tárgyévben meghaladja az Eurotransplanttól kapott szervek számát, a szervkivételi díj-különbözet az Egészségbiztosítási Alapot illeti.
+
+## 9. Záró rendelkezések
+
+### 20. §
+
+Ez a rendelet 2013. október 25-én lép hatályba.
+
+### 21. §
+
+(1) Ez a rendelet a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) Ez a rendelet a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^52]
+
+**Előzetes engedélyezési kötelezettség alá tartozó egészségügyi ellátások a határon átnyúló egészségügyi ellátás keretében végzett külföldi gyógykezeléseknél**
+
+| **A** | B |
+|---|---|
+| **I.** | Az előzetes engedélyezési kötelezettség alá tartoznak az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) alapján a következő ellátások: |
+| **1.** | Az R. *3. számú mellékletében* foglalt fekvőbeteg-szakellátás esetében valamennyi fekvőbeteg-szakellátás, valamint az ehhez kapcsolódó, az R. *1. számú mellékletében* felsorolt tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok, valamint az R. *1/A. számú mellékletében* felsorolt tételes elszámolású hatóanyagok. |
+| **2.** | Az R. *9. számú mellékletében* felsorolt egynapos ellátások abban az esetben, ha azokat az ellátás nyújtása szerinti európai uniós tagállamban fekvőbeteg-szakellátás keretében nyújtották. A következő egynapos ellátások – nagy értékük miatt – minden esetben engedélykötelesek: agyi gamma-sugár-sebészet (speciális intracranialis műtétek 18 év felett és alatt), a szív elektrofiziológiai vizsgálata, angioplastica arteriae subclaviae PTA, angioplastica extremitatis inferioris PTA, angioplastica aa. pelveos PTA, pacemaker és defibrillátor beültetése, prostata egyéb alternatív LASER műtétei. |
+| **3.** | Az R. *8. számú mellékletében* felsorolt nagy értékű, országosan nem elterjedt műtéti eljárások, beavatkozások – kivéve a szervátültetéshez kapcsolódó ellátásokat –, valamint az R. *10. számú mellékletében* meghatározott kúraszerű ellátások. |
+| **4.** | Az R. *2. számú mellékletében* felsorolt járóbeteg-szakellátások, valamint az R. *15.* és *15/a. számú mellékletében* felsorolt gondozási tevékenységek közül: a CT, MRI diagnosztikai és terápiás beavatkozások, a molekuláris biológiai diagnosztikai eljárások a kapcsolódó mintavételi eljárásokkal, továbbá Szomatostatin receptor szcintigráfia, Pajzsmirigy maradványszövet stimulációja rhTSH kezeléssel, Kezelés Sr-89 Metastronnal, Adrenerg receptor szcintigráfia I-123 MIBG-vel, Mellékvesekéreg szcintigráfia, Agyi receptor SPECT vizsgálat, Pharmacologiai neurectomia III., botulinum toxinnal, Mellékvese kéreg szcintigráfia + Dexamethason suppr., Szívizom receptor szcintigráfia I-123 MIBG-vel, Kezelés radioizotóppal jelzett csontaffin foszfonát radiofarmakonnal, Pharmacologiai neurctomia II., botulinum toxinnal, Szívizom FDG vizsgálat SPECT-el, Embolizáció/sclerotisatio - szuperszelektív - egy ág, Immunszcintigráfia jelzett antitesttel, a teljes testről. |
+
+## 2. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^53]
+
+<table><tbody><tr><td colspan="2">**Kérelem külföldi egészségügyi ellátásra**</td><td></td></tr><tr><td colspan="2">**Kérelem általános adatai:**</td><td></td></tr><tr><td colspan="2">A kérelem benyújtójának kategóriája (1 = külföldi gyógykezelésre jogosult személy, 2 = külföldi gyógykezelésre jogosult személy törvényes képviselője, 3 = a beteg Egészségbiztosítási Alappal szerződésben álló szolgáltatónál dolgozó kezelő orvosa)</td><td></td></tr><tr><td colspan="2">A beteg neve:</td><td></td></tr><tr><td colspan="2">Lakcíme: irányítószám:<br>postai cím:</td><td></td></tr><tr><td colspan="2">A beteg törvényes képviselőjének neve:</td><td></td></tr><tr><td colspan="2">Lakcíme (ha eltér a beteg lakcímétől):</td><td></td></tr><tr><td colspan="3">A beteg TAJ azonosítója:</td></tr><tr><td colspan="3">A beteg EU-Kártya azonosítója:</td></tr><tr><td colspan="3">Beutaló munkahely kódja:<br>megnevezése:</td></tr><tr><td colspan="3">Kezelőorvos kódja:<br>neve:</td></tr><tr><td colspan="3">**Kapcsolattartási adatok:**</td></tr><tr><td colspan="3">Levelezési cím:</td></tr><tr><td colspan="3">Telefonszám:</td></tr><tr><td colspan="3">E-mail cím:</td></tr><tr><td colspan="3">**A kérelmezett ellátáshoz kapcsolódó adatok:**</td></tr><tr><td colspan="3">Kérelmezett külföldi ellátás típusa:</td></tr><tr><td colspan="3">A beteg kérelmezi a saját utazási költségének megtérítését<br>kísérő utazási költségének megtérítését</td></tr><tr><td colspan="3">Saját utazási költség igényelt összege:<br>utazás módja:</td></tr><tr><td colspan="3">Kísérő utazási költségének igényelt összege:<br>utazás módja:</td></tr><tr><td colspan="3">A beteg által a külföldi gyógykezelésre választott intézmény [figyelemmel a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 2. § (2) bekezdésére]:<br>Intézmény országa:<br>Ellátó orvos:<br>Ellátás becsült költsége:<br>Egyéb releváns tény:</td></tr><tr><td colspan="3">**SZAKMAI ADATOK (kezelőorvos tölti ki, ha az alapul szolgáló vizsgálat óta 1 hónap eltelt és az egészségügyi dokumentációból ezek az adatok nem derülnek ki)**</td></tr><tr><td>A kérelemhez csatolt egészségügyi dokumentumok száma:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megállapító egészségügyi ellátásról: db<br>napló sorszám/törzsszám:<br>ellátás időpontja/felvétel dátuma:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megalapozó diagnosztikai vizsgálatok eredményéről (vizsgálati leletek)<br>vizsgálat kórházi ellátás alatt történt:<br>szolgáltató kódja, megnevezése:<br>napló sorszám/törzsszám:<br>ellátás kelte:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megalapozó diagnosztikai vizsgálatok eredményéről (vizsgálati leletek)<br>vizsgálat kórházi ellátás alatt történt:<br>szolgáltató kódja, megnevezése:<br>napló sorszám/törzsszám:<br>ellátás kelte:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megalapozó diagnosztikai vizsgálatok eredményéről (vizsgálati leletek)<br>vizsgálat kórházi ellátás alatt történt:<br>szolgáltató kódja, megnevezése:<br>napló sorszám/törzsszám:<br>ellátás kelte:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megalapozó diagnosztikai vizsgálatok eredményéről (vizsgálati leletek)<br>vizsgálat kórházi ellátás alatt történt:<br>szolgáltató kódja, megnevezése:<br>napló sorszám/törzsszám:<br>ellátás kelte:</td><td colspan="2"></td></tr><tr><td>Egészségügyi dokumentum az ellátás szükségességét megalapozó diagnosztikai vizsgálatok eredményéről (vizsgálati leletek)<br>vizsgálat kórházi ellátás alatt történt:<br>szolgáltató kódja, megnevezése:<br>napló sorszám/törzsszám:<br>ellátás kelte:</td><td colspan="2"></td></tr><tr><td>Ellátást indokló fő diagnózis kódja (BNO-10):</td><td colspan="2"></td></tr><tr><td>Ellátást indokló fő diagnózis megnevezése:</td><td colspan="2"></td></tr><tr><td>**Az ellátáshoz szükséges beavatkozás Magyarországon befogadott ellátás: igen/nem**</td><td colspan="2"></td></tr><tr><td>**I. Befogadott ellátás esetén az ellátáshoz szükséges beavatkozás(ok) Magyarországon**:</td><td colspan="2"></td></tr><tr><td>OENO kód (1)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (2)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (3)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (4)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>Beutaló azonosítója és időpontja:</td><td colspan="2"></td></tr><tr><td>Befogadott ellátás esetén az ellátásra a beutaló alapján a területi ellátási kötelezettséggel rendelkező szolgáltatónál biztosítható időpont:</td><td colspan="2"></td></tr><tr><td>Szakmailag megengedhető várakozási idő a beteg számára a kezelőorvos szerint figyelemmel a beteg egészségi állapotára és betegségének várható lefolyására:</td><td colspan="2"></td></tr><tr><td>Az eljárás Magyarországon várólistán nem nyilvántartott eljárás:</td><td colspan="2"></td></tr><tr><td>Ha várólistán nyilvántartott eljárás, a legkisebb várakozási idő a beutaló orvos tájékozódása alapján, a SOR-REND rendszer szerint:<br>tájékozódás időpontja:<br>szolgáltató megnevezése, kódja:<br>várakozási sor hossza:<br>várakozási idő várható hossza a szolgáltatónál az utolsó<br>kiadott, halasztható várakozási eset szerint:</td><td colspan="2"></td></tr><tr><td>A beteg kezelőorvosa szerint a külföldi gyógykezelés sürgős: igen nem.<br>Egyéb releváns, egyedi körülmények leírása: ……………………………………..</td><td colspan="2"></td></tr><tr><td>**II. Nem befogadott ellátás esetén az ellátástól várható eredmény:**</td><td colspan="2"></td></tr><tr><td>A beteg állapotára Magyarországon a befogadott egészségügyi szolgáltatásokkal biztosítható legkorszerűbb ellátás jelenleg:</td><td colspan="2"></td></tr><tr><td>OENO kód (1)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (2)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (3)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>OENO kód (4)<br>megnevezés<br>mennyiség</td><td colspan="2"></td></tr><tr><td>Kérelmet megalapozó egyéb információk, amelyek indokolják a hazai igénybevétel helyett a nemzetközi ellátást:</td><td colspan="2"></td></tr><tr><td colspan="3">**A BETEG/TÖRVÉNYES KÉPVISELŐJE NYILATKOZATA**</td></tr><tr><td>Nyilatkozom, hogy a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 27. § (3) bekezdés 2. mondata értelmében, a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 7. § (1) bekezdése szerinti határon átnyúló ellátásra vonatkozó engedélyt kívánok kapni. Tudomásul veszem, hogy a külföldi ellátás költségét meg kell előlegeznem, az ellátás díját az Országos Egészségbiztosítási Pénztár részemre utólagosan, legfeljebb a hazai ellátásban alkalmazott belföldi költség mértékéig téríti meg. [A külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 7. § (1) bekezdése.]<br>Igen* Nem**<br>A beteg/törvényes képviselője aláírása<br>* Akkor válassza ezt az opciót, ha külföldi magánszolgáltatónál kíván egészségügyi ellátást igénybe venni, vagy bármely uniós szolgáltatóra érvényes engedélyt kér, vagy bármilyen egyéb okból az uniós irányelv (a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelv) alapján kíván külföldi gyógykezelést igénybe venni. Ebben az esetben a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. § (4)-(7) bekezdése szerinti eljárás lefolytatására nem kerül sor.<br>** Ha ezt az opciót választja, a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. §-ában szereplő eljárás vonatkozik Önre, ha azonban nem fogadja el az engedélyezett szolgáltatót, a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25) Korm. rendelet 7. §-ának a hatálya alá kerül.</td><td colspan="2"></td></tr><tr><td>A kérelem benyújtásának időpontja:</td><td colspan="2"></td></tr></tbody></table>
+
+A kérelem benyújtójának aláírása
+
+## 3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^54]
+
+## 4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^55]
+
+## 5. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+**Tagozat véleménye külföldi gyógykezelés igénybevételére irányuló kérelemről**
+
+| Kiállító Tagozat: |
+|---|
+| **I. A külföldi gyógykezelésre jogosult személyre vonatkozó adatok** |
+| 1. Név: |
+| 2. Születési év: hó: nap: |
+| 3. TAJ: |
+| 4. Lakcím: |
+| 5. Diagnózis: |
+| 6. Ellátást indokoló betegség BNO-kódja: |
+| **II. A külföldi gyógykezelés orvos-szakmai indokoltsága** |
+| 1. A külföldi gyógykezelés |
+| □ szakmailag elfogadott és reális egészségnyereséggel jár |
+| □ szakmailag elfogadott, de nem jár reális egészségnyereséggel |
+| □ szakmailag nem elfogadott |
+| 2. Az indokoltságot alátámasztó információk, a gyógykezeléstől várható eredmény: |
+| 3. Az utazáshoz kísérő szükséges (a kísérők száma: ......), nem szükséges |
+| 4. Mentőszállítás nem szükséges – szükséges, formája: helikopter, repülőgép, mentőautó |
+| 5. A javasolt külföldi intézmény megnevezése és pontos címe: |
+| 6. Fogadási dátum: |
+| 7. A gyógykezelés várható időtartama: |
+| **III. Kapcsolatfelvételre vonatkozó adatok** |
+| a) Kezelőorvos neve: |
+| elérhetősége: (tel.) (email) |
+| b) Beteg és/vagy törvényes képviselő elérhetősége: (tel.) (email) |
+
+Budapest, ...........................................
+
+A Tagozat vezetőjének neve és aláírása:
+
+……………………………………………………….
+
+P. H.
+
+## 6. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^56]
+
+## 7. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^57]
+
+| **Felülvizsgálat külföldi ellátás eredményéről** **(a kezelőorvos tölti ki)** |
+|---|
+| **I. A külföldi gyógykezelésre jogosult személyre vonatkozó adatok** |
+| 1. Név: |
+| 2. Születési év: hó: nap: |
+| 3. TAJ: |
+| 4. Lakcím: |
+| 5. Diagnózis: |
+| **II. A külföldi gyógykezelés során elvégzett egészségügyi ellátás adatai** |
+| Igénybevett külföldi gyógykezelés típusa: |
+| Az ellátást elvégző szolgáltató ellátó helyének országa: |
+| Az ellátást elvégző szolgáltató megnevezése: |
+| Az igénybevett külföldi ellátás indikációja az ellátást végző külföldi szolgáltató zárójelentése alapján: BNO kódja: |
+| Igénybevett beavatkozások *: OENO és HBCs-kód (1) megnevezés mennyiség |
+| OENO és HBCs-kód (2) megnevezés mennyiség |
+| OENO és HBCs-kód (3) megnevezés mennyiség |
+| OENO és HBCs-kód (4) megnevezés mennyiség |
+| OENO és HBCs-kód (5) megnevezés mennyiség |
+| A felülvizsgáló orvos véleménye szerint az elvégzett külföldi ellátás a NEAK által engedélyezett ellátással megegyezett nem egyezett meg |
+| A beteg további kezelésének módja: |
+| További kezelés egészségügyi szolgáltatójának megnevezése: kódja: |
+| Az ellátás eredményének minősítése: |
+| Szöveges kiegészítés: |
+
+\* Méltányossági esetek kivételével.
+
+## 8. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+**Az Országos Vérellátó Szolgálat igazolja, hogy a mellékelt számlák az alábbi személyen végrehajtandó vagy elvégzett transzplantációval kapcsolatban felmerült jogszerű és célhoz kötött költségeket takarnak**
+
+Név:
+
+TAJ:
+
+Az alábbi jogcímen:
+
+□ Regisztrációs költség
+
+□ Szervkivétel költsége
+
+□ Donorvizsgálat költsége
+
+□ Szerv- és szövet szállítás költsége
+
+□ Az Országos Vérellátó Szolgálat kéri a mellékelt számlán/számlákon szereplő összeg átutalását a számlát kiállító szolgáltató részére.
+
+□ Az Országos Vérellátó Szolgálat a mellékelt számlával/számlákkal igazolt költségeket a számlát kiállító szolgáltatónak kifizette és kéri a költségek megtérítését.
+
+A fenti költségek az Eurotransplant International Foundation alapítvánnyal kötött megállapodás alapján merültek fel.
+
+Budapest, .............................................................................................
+
+A Országos Vérellátó Szolgálat nevében,
+
+aláírás
+
+P. H.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 114. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) és f) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^10]: Az 5. § (5) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^12]: Az 5. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 6. § a 360/2019. (XII. 30.) Korm. rendelet 120. §-a, a 616/2022. (XII. 29.) Korm. rendelet 165. §-a szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^15]: A 7. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^16]: A 7. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 115. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^17]: A 8. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 68. § a) pontja, a 172/2016. (VII. 1.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^18]: A 8. § (4) bekezdés nyitó szövegrésze a 413/2015. (XII. 23.) Korm. rendelet 68. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg. A 8. § (4) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^19]: A 8. § (5) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 70. § a) pontja hatályon kívül helyezte.
+[^20]: A 8. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 8. § (7) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 36. §-a hatályon kívül helyezte.
+[^22]: A 9. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^23]: A 9. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^24]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 9. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^26]: A 9. § (7) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^27]: A 9. § (8) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^28]: A 9. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^29]: A 9. § (10) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.
+[^31]: A 11. § (1) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^32]: A 11. § (1) bekezdés a) pontja a 659/2023. (XII. 28.) Korm. rendelet 45. § d) pontja szerint módosított szöveg.
+[^33]: A 11. § (2) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^34]: A 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés g) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § e) pontja szerint módosított szöveg.
+[^35]: A 13. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 14. § a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^37]: A 14/A. §-t a 464/2016. (XII. 23.) Korm. rendelet 34. §-a iktatta be.
+[^38]: A 14/A. § (1) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 15. § a) és b) pontja szerint módosított szöveg.
+[^39]: A 14/A. § (2) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^41]: A 16. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 95. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^42]: A 17. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^43]: A 17. § g) pontja a 413/2015. (XII. 23.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^44]: A 18. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^45]: A 18. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^46]: A 18. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) és f) pontja szerint módosított szöveg.
+[^47]: A 18. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^48]: A 18/A. §-t a 87/2018. (IV. 24.) Korm. rendelet 9. §-a iktatta be.
+[^49]: A 19. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) és f) pontja szerint módosított szöveg.
+[^50]: A 19. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet a 464/2016. (XII. 23.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^53]: A 2. melléklet a 364/2014. (XII. 30.) Korm. rendelet 117. §-a, a 413/2015. (XII. 23.) Korm. rendelet 69. § szerint módosított szöveg.
+[^54]: A 3. mellékletet a 155/2025. (VI. 23.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^55]: A 4. mellékletet a 155/2025. (VI. 23.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^56]: A 6. mellékletet a 155/2025. (VI. 23.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^57]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés m) pontja szerint módosított szöveg.

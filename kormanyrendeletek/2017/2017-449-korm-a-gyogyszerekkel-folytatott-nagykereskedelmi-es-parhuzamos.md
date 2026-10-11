@@ -1,0 +1,195 @@
+---
+title: "449/2017. (XII. 27.) Korm. rendelet a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének engedélyezéséről"
+identifier: "449/2017. (XII. 27.) Korm. rendelet"
+njt_id: "2017-449-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/449"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-27
+in_force_from: 2018-01-01
+last_amended: 2023-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-449-20-22"
+retrieved: 2026-10-12
+---
+
+# 449/2017. (XII. 27.) Korm. rendelet a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének engedélyezéséről
+
+A Kormány az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) A polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, továbbá a külföldi székhelyű vállalkozás magyarországi fióktelepe (a továbbiakban együtt: gazdálkodó szervezet) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről szóló miniszteri rendeletben felsorolt gyógyszerekkel (a továbbiakban: gyógyszer) nagykereskedelmi tevékenységet – a belkereskedelemről szóló jogszabályban foglaltakra figyelemmel – az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény, e rendelet, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről szóló miniszteri rendelet előírásai szerint folytathat.
+
+(2) Gazdálkodó szervezet gyógyszerek párhuzamos importját e rendelet előírásai szerint folytathatja.
+
+## 2. Gyógyszer-nagykereskedelem
+
+### 2. §
+
+A nagykereskedelmi tevékenység folytatására jogosító engedély (a továbbiakban: tevékenységi engedély) kiadását a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről szóló miniszteri rendeletben meghatározott gyógyszercsoportra vagy gyógyszercsoportokra lehet kérni.
+
+### 3. §
+
+(1)[^1] A tevékenységi engedély kiadása iránti kérelmet a Nemzeti Népegészségügyi és Gyógyszerészeti Központhoz (a továbbiakban: NNGYK) kell benyújtani. A kérelemnek tartalmaznia kell
+
+a) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok megnevezését, megjelölve azt is, ha a kérelmező különleges tárolási hőmérsékletet igénylő gyógyszereket kíván forgalmazni;
+
+b) a székhely, a telephely vagy telephelyek címét, pontosan megnevezve a létesítményeket, ahol a kérelmező a nagykereskedelmi tevékenységet folytatni kívánja;
+
+c) a beérkezett gyógyszerek minőségértékelését és eladható készletbe helyezését végző felelős személy – több telephely esetén személyek – nevét;
+
+d) a beérkezett gyógyszerek minőségértékelését és eladható készletbe helyezését végző felelős személy szakképesítését igazoló oklevél másolatát, munkaköri leírását, szakmai gyakorlatának igazolását;
+
+e) a kapcsolattartó személy nevét és elérhetőségét;
+
+f) a működés tervezett ügyrendjét, ennek keretében:
+
+fa) a szakmai dokumentálás módját,
+
+fb) a minőségbiztosítás rendjét,
+
+fc) az érvényes eljárás utasítások listáját,
+
+fd) a forgalomból való kivonás és a forgalmazás felfüggesztés végrehajtásának módját,
+
+fe) a be- és kiszállítás, továbbá a termékvisszavétel módját,
+
+ff) a telephely üzemidejét;
+
+g) a technikai felszereltség leírását;
+
+h) a nagykereskedelmi tevékenységnek helyet adó telephely és létesítmény alaprajzát;
+
+i) a kivonás végrehajtásához használt elektronikus levélcímet;
+
+j) a nagykereskedelmi tevékenységre vonatkozó felelősségbiztosítási szerződés másolatát.
+
+(2) Az (1) bekezdés f) pont fb) alpontjában említett minőségbiztosítási rendszernek a nagykereskedelmi tevékenység vonatkozásában meg kell határoznia a felelősségi köröket, a folyamatokat és a kockázatkezelési intézkedéseket.
+
+(3) A tevékenységi engedélyben meg kell jelölni a nagykereskedelmi tevékenységnek helyet adó telephelyet és létesítményt.
+
+### 4. §
+
+(1)[^2] A nagykereskedő a tevékenységét szüneteltetheti, amelynek tényéről – a szüneteltetés időtartamának megjelölésével – annak megkezdését megelőzően legalább 30 nappal köteles értesíteni az NNGYK-t. A nagykereskedő a tevékenységének a szünetelést követő újbóli megkezdését megelőzően legalább 30 nappal köteles értesíteni az NNGYK-t.
+
+(2)[^3] A nagykereskedő haladéktalanul köteles bejelenteni az NNGYK-nak, ha a 3. § (1) bekezdés e) pontjában, f) pont ff) alpontjában és i) pontjában felsoroltakban, valamint ha a nagykereskedő nevében vagy székhelyének címében változás történik.
+
+(3) A tevékenységi engedély módosítását kell kérelmezni
+
+a) új telephely létesítése,
+
+b) meglévő telephelyen új raktár építése,
+
+c) meglévő alapterület bővítése,
+
+d) a beérkezett gyógyszerek minőségértékelését és eladható készletbe helyezését végző felelős személy változása,
+
+e) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok változása
+
+esetén.
+
+(4)[^4] Az NNGYK a tevékenységi engedélyben szereplő adatokat rögzíti és naprakészen tartja az Európai Gyógyszerügynökség által működtetett európai uniós adatbázisban. Az Európai Bizottság vagy az Európai Gazdasági Térség bármely tagállama hatóságának kérésére az NNGYK tájékoztatást ad az egyedi engedélyekre vonatkozó információkról.
+
+(5)[^5] Az NNGYK a kiadott, a módosított, továbbá a visszavont tevékenységi engedélyekről, valamint a nagykereskedelmi tevékenység (1) bekezdés szerinti szüneteltetéséről nyilvántartást vezet, amelynek személyes adatot nem tartalmazó részét a honlapján közzéteszi.
+
+### 5. §
+
+(1)[^6] A nagykereskedő vagy a gyógyszerközvetítő helyszíni ellenőrzése esetén – ide nem értve azt az esetet, amikor az NNGYK az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 101. § (1) bekezdés a) pontja szerint megindítja a hatáskörébe tartozó eljárást – az NNGYK elkészíti az inspekciós jelentést, amelynek egy példányát a nagykereskedőnek vagy a gyógyszerközvetítőnek megküldi. A nagykereskedő vagy a gyógyszerközvetítő az inspekciós jelentésben foglaltakra annak kézhezvételétől számított 15 napon belül észrevételt tehet.
+
+(2)[^7] Az NNGYK a végleges inspekciós jelentést az észrevétel kézhezvételétől számított 15 napon belül megküldi a nagykereskedő vagy a gyógyszerközvetítő részére.
+
+(3)[^8] A nagykereskedő vagy a gyógyszerközvetítő az inspekciós jelentésben foglalt hiányosságok megszüntetésének módjáról és határidejéről a végleges inspekciós jelentés kézhezvételétől számított 30 napon belül értesíti az NNGYK-t.
+
+(4)[^9] A (2) bekezdésben említett inspekciós jelentés megküldését, vagy – ha arra sor kerül – a (3) bekezdésben említett értesítést követően, de legkésőbb az (1) bekezdésben említett ellenőrzés elvégzésétől számított 90 napon belül az NNGYK az ellenőrzött egység részére tanúsítványt állít ki arról, hogy az ellenőrzött egység helyes forgalmazási gyakorlatot alkalmaz, ha megállapítható, hogy az érintett betartja a helyes forgalmazási gyakorlat alapelveit és iránymutatásait. A tanúsítványokat az NNGYK rögzíti az Európai Gyógyszerügynökség által működtetett európai uniós adatbázisban.
+
+## 3. Gyógyszerek párhuzamos importja
+
+### 6. §
+
+A párhuzamos importtevékenység magában foglalja az ilyen módon behozni kívánt gyógyszer származási tagállamban történő beszerzését, a származási tagállamból kizárólag a hazai forgalomba hozatal érdekében történő behozatalát, átcsomagolását, minőségbiztosítását, minőségértékelését, eladható készletbe helyezését, tárolását, készletezését, a megrendelőhöz való eljuttatását, forgalomból történő kivonásának végrehajtását, nyilvántartását, továbbá a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos adatszolgáltatást és információátadást.
+
+### 7. §[^10]
+
+A párhuzamos importengedély iránti kérelmet az NNGYK-hoz kell benyújtani. A kérelemnek tartalmaznia kell
+
+a) a párhuzamos importtal behozni kívánt gyógyszer adatait:
+
+aa) a származási tagállam megnevezését,
+
+ab) a párhuzamos importtal behozni kívánt gyógyszer megnevezését, forgalomba hozatali engedélyének számát a származási tagállamban,
+
+ac) a párhuzamos importtal behozni kívánt gyógyszer gyártójának nevét (cégnevét), székhelye címét a származási tagállamban,
+
+ad) a párhuzamos importtal behozni kívánt gyógyszer forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét a származási tagállamban (ha az az előzőtől különbözik);
+
+b) a párhuzamos import engedély által érintett, Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszer adatait:
+
+ba) megnevezését, nyilvántartási számát,
+
+bb) gyártójának nevét (cégnevét), székhelye címét,
+
+bc) Magyarországra érvényes forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét (ha az az előzőtől különbözik);
+
+c) a párhuzamos importtal behozni kívánt gyógyszer betegtájékoztatóját és címkeszövegét a származási tagállamban és azok hiteles magyar nyelvű fordítását;
+
+d) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű betegtájékoztatójának tervezetét;
+
+e) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű címkeszövegének tervezetét;
+
+f) ha a párhuzamos importtal behozni kívánt gyógyszer átcsomagolásra kerül, a párhuzamos importőr gyártási engedélyének számát és
+
+fa) – Magyarországon történő átcsomagolás esetén – a Magyarországon átcsomagolást végző megbízott gyártási engedélyének számát, valamint a párhuzamos importőr és megbízottja között az átcsomagolásra kötött szerződés másolatát, vagy
+
+fb) – külföldön történő átcsomagolás esetén – a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről szóló miniszteri rendelet szerinti bizonylatot;
+
+g) a párhuzamos importtal behozni kívánt gyógyszer minden hatáserősségéből a legkisebb csomagolási egység egy mintáját;
+
+h) arra irányuló nyilatkozatot, hogy a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos minőségi hibajelentési, mellékhatás-bejelentési és a származási országban kiadott forgalomba hozatali engedély módosításra vonatkozó bejelentési kötelezettségeknek eleget tesz.
+
+### 8. §
+
+Ha a párhuzamos importengedélyben foglalt címkeszöveg és betegtájékoztató a gyógyszer Magyarországon hatályos forgalomba hozatali engedélyében meghatározott címkeszövegtől és betegtájékoztatótól eltérő, a párhuzamos importőrnek a módosítás iránti kérelem benyújtásával egyidejűleg csatolnia kell a Magyarországon hatályos forgalomba hozatali engedélyben meghatározott címkeszöveg, illetve betegtájékoztató megfelelő változatát.
+
+### 9. §
+
+(1)[^11] A kérelem elbírálása során az NNGYK vizsgálja és mérlegeli, hogy a párhuzamos importtal behozni kívánt és a Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszer minden szempontból azonos-e.
+
+(2)[^12] Ha az (1) bekezdésben foglaltak nem állnak fenn, az NNGYK vizsgálja, hogy a párhuzamos importtal behozni kívánt gyógyszer a Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszer olyan változatának minősíthető-e, amely a terápia során azonosan alkalmazható, illetve a várható terápiás és minőségbeli eltérések jelentenek-e egészségügyi veszélyt.
+
+(3) A (2) bekezdés szerinti terápiás és minőségbeli eltérés feltételét kielégíti, ha a Magyarországon forgalomba hozatalra engedélyezett és a párhuzamos importtal behozni kívánt gyógyszerek
+
+a) színe különböző, kivéve, ha ezáltal a különféle hatáserősségek összetéveszthetők,
+
+b) szilárd gyógyszerformáinak kopási vagy törési szilárdsága különböző, kivéve, ha ez a különbség az alkalmazást veszélyezteti,
+
+c) segédanyag-összetételében nincs olyan különbség, amely a terápiás alkalmazást várhatóan kedvezőtlenül befolyásolná.
+
+### 10. §[^13]
+
+Az NNGYK a 8–9. § szerinti eljárása során megkeresheti a származási tagállamban a kérdéses gyógyszer forgalomba hozatali engedélyének kiadására jogosult, hatáskörrel és illetékességgel rendelkező hatóságot (társhatóság) annak érdekében, hogy az átadja a párhuzamos import engedélyezése szempontjából jelentőséggel bíró, a gyógyszer gyártására és forgalmazására vonatkozó egyéb lényeges adatokat és okiratokat, így különösen a párhuzamos importtal behozni kívánt gyógyszer forgalomba hozatali engedélyezési kémiai-gyógyszerészeti dokumentációját.
+
+## 4. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 3. § (1) bekezdés nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § e) pontja szerint módosított szöveg.
+[^5]: A 4. § (5) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 45. §-ával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 56. § e) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § f) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § e) pontja szerint módosított szöveg.
+[^10]: A 7. § nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 56. § g) pontja szerint módosított szöveg.
+[^11]: A 9. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
+[^12]: A 9. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
+[^13]: A 10. § a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.

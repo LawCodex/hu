@@ -1,0 +1,414 @@
+---
+title: "238/2017. (VIII. 18.) Korm. rendelet a tartós külszolgálathoz kapcsolódó felkészítésről"
+identifier: "238/2017. (VIII. 18.) Korm. rendelet"
+njt_id: "2017-238-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/238"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-08-18
+in_force_from: 2017-08-19
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-238-20-22"
+retrieved: 2026-10-12
+---
+
+# 238/2017. (VIII. 18.) Korm. rendelet a tartós külszolgálathoz kapcsolódó felkészítésről
+
+A Kormány
+
+a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+a 15. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+
+a 16. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 3. pont b) alpontjában, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 8. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1)[^1] E rendelet hatálya
+
+a)[^2] a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: Minisztérium), valamint
+
+b)[^3] – a 3–4. §, a 12. §, a 13. § (3)–(6) bekezdése és a 15. § kivételével – az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériummal
+
+kormányzati szolgálati jogviszonyban álló, tartós külszolgálati pályázatot nyert kormánytisztviselőkre, kormányzati ügykezelőkre, valamint a külképviselet által foglalkoztatott házastársra (a továbbiakban együtt: felkészülő) terjed ki.
+
+(2)[^4] E rendelet 2. § 4. és 5. pontjának, 6. § (3) bekezdésének, 10. § (8) bekezdésének, valamint 12. § (1) és (2) bekezdésének hatálya a Minisztériummal kormányzati szolgálati jogviszonyban álló, belföldi feladatellátásban érintett foglalkoztatottakra is kiterjed.
+
+(3) E rendelet 6. § (2) bekezdésének, valamint 10. § (7) bekezdésének hatálya a felkészülőnek a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) 2. § 8. pontja szerinti házastársára (a továbbiakban: házastárs) is kiterjed.
+
+(4)[^5] A 12. § (1) és (2) bekezdésének hatálya a Minisztérium, a külpolitikáért felelős miniszter irányítása vagy felügyelete alatt álló központi hivatal, gazdasági társaság, a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervnek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó foglalkoztatottjára, valamint gazdasági társaság esetében munkavállalójára, azoknak a Külszoltv. 2. § 8. pontja szerinti hozzátartozójára (a továbbiakban: hozzátartozó), a Minisztériumban a nemzeti felsőoktatásról szóló törvény szerinti szakmai gyakorlatot teljesítő hallgatóra, valamint a Minisztériummal ösztöndíjas jogviszonyban álló, illetve szakmai gyakorlatát a Minisztériumban a Magyar Közigazgatási Ösztöndíjról szóló 52/2019. (III. 14.) Korm. rendelet szerint teljesítő ösztöndíjasra is kiterjed.
+
+(5)[^6] A 13. § (5) bekezdésének hatálya azon állami tulajdonú gazdasági társaság munkavállalóira is kiterjed, amely felett jogszabályi rendelkezés alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására a külpolitikáért felelős miniszter került kijelölésre.
+
+(6)[^7] A 13. § (6) bekezdésének hatálya a továbbképzési kötelezettsége keretében a Minisztérium által biztosított belső továbbképzési programot teljesítő kormánytisztviselőkre, köztisztviselőkre is kiterjed.
+
+(7)[^8] E rendelet 15. §-a – a Minisztériumhoz vezényelt hivatásos állomány tagja kivételével – a Minisztériummal kormányzati és politikai szolgálati jogviszonyban álló foglalkoztatottakra terjed ki.
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1.[^9] *általános külszolgálati felkészítő tanfolyam:* a felkészülés során aktuális külügyi-külszolgálati ismereteket átadó komplex szakmai képzés;
+
+2\. *európai uniós szakmai vizsga:* az európai uniós ismeretek elsajátítását mérő számonkérési forma, amelynek teljesítése feltétele a részben vagy egészben európai uniós ügyeket érintő feladatkörbe történő első kihelyezésnek;
+
+3.[^10] *felkészítés:* a felkészülő számára a Minisztérium által szervezett olyan gyakorlati és elméleti elemekből álló komplex képzési folyamat, amely a tartós külszolgálat során betöltendő, a tartós külszolgálati munkakör ellátásához szükséges ismeretek és készségek megszerzésére, megújítására, bővítésére és fejlesztésére szolgál;
+
+4.[^11] *felkészülés:* azon speciális szakmai és külügyi-külszolgálati munkavégzéshez szükséges ismereteknek és készségeknek a megszerzésére, megújítására, fejlesztésére és bővítésére szolgáló folyamat, amelyek szükségesek a tartós külszolgálat során ellátandó, tartós külszolgálati munkakör betöltéséhez, valamint tartós külszolgálat keretében a külképviseleten teljesített közszolgálat ellátásához;
+
+5.[^12] *felkészülési terv:* a felkészülési folyamat elemeit – ideértve a Minisztérium által meghatározott határidőre tervszerűen teljesítendő képzéseket, továbbképzéseket, illetve egyéb, szakmai kapcsolat felvételével összefüggő kötelezettségeket – tartalmazó dokumentum;
+
+6.[^13] *közeli hozzátartozó:* a Kit. hatálya alá tartozó foglalkoztatottal életvitelszerűen közös háztartásban élő házastárs, közjegyző által vezetett Élettársi Nyilatkozatok Elektronikus Nyilvántartásába vett élettárs vagy bejegyzett élettárs, valamint nagykorú gyermek, nagykorú örökbefogadott, mostoha- és nevelt gyermek;
+
+7\. *külügyi szakmai vizsgára felkészítő konzultáció:* a külügyi szakmai vizsgarészekhez kapcsolódó ismeret- és tananyagegység elsajátítását elősegítő felkészítő megbeszélés;
+
+8.[^14] *külügyi szakmai vizsga:* általános külpolitikai, külügyi igazgatási és külgazdasági ismeretek elsajátítását mérő számonkérési forma, amelynek teljesítése feltétele az első diplomáciai rangadományozásnak és a tartós külszolgálat megkezdésének;
+
+9.[^15] *külszolgálati munkaköri vizsga:* a tartós külszolgálat során ellátandó külszolgálati munkakörhöz kapcsolódó, a szakmai követelményeknek megfelelő szakmai és személyes kompetenciák átadását ellenőrző ismeret-ellenőrzési forma, amelynek teljesítése feltétele az adott külszolgálati munkakörbe történő kihelyezésnek;
+
+10.[^16] *speciális külszolgálati felkészítő tanfolyam:* a külképviselet-vezetők számára szervezett, külképviseleti vezetői munkavégzést támogató képzés.
+
+## 2. A külpolitikáért felelős miniszter tartós külszolgálatra történő felkészítéssel összefüggő feladatkörei
+
+### 3. §
+
+(1)[^17] A külpolitikáért felelős miniszter a Külszoltv.-ben meghatározott feladatainak ellátása keretében – a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: EU ÁK), továbbá a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó külképviseleti szervezeti egység kivételével –
+
+a) kidolgozza a külképviseleteken a tartós külszolgálat keretében közszolgálatot teljesítő felkészülő kormánytisztviselőkre vonatkozó speciális személyzetpolitika irányait és elveit, valamint gondoskodik azok megvalósításáról;
+
+b) felelős a külgazdasági és külügyi ágazati szakmai feladatok ellátásához, valamint a tartós külszolgálati munkakörök betöltéséhez és az ezekhez kapcsolódó munkatevékenységek végzéséhez szükséges speciális szakmai ismereteket közvetítő képzési rendszer működtetéséért, az ehhez kapcsolódó, a közszolgálati továbbképzési rendszerbe illesztett belső továbbképzések kidolgozásáért, megvalósításáért, biztosításáért, és a belső továbbképzési rendszer fejlesztéséért;
+
+c) gondoskodik az egyes külgazdasági és külügyi feladatok ellátásához, illetve tartós külszolgálathoz kapcsolódó speciális szakmai kompetenciákat és készségeket fejlesztő, illetve az alkalmazott szaktudást bővítő, a közszolgálati továbbképzési rendszerbe illesztett belső továbbképzések megvalósításáról és lebonyolításáról, az ezzel kapcsolatos képzés- és oktatásszervezési feladatok ellátásáról, továbbá az ehhez szükséges feltételek biztosításáról;
+
+d) gondoskodik a tartós külszolgálati felkészítéshez, valamint az ezzel összefüggő külügyi személyügyi folyamatokhoz kapcsolódó minőségbiztosítási követelmények, valamint eljárások kidolgozásáról és alkalmazásáról;
+
+e) gondoskodik a belső képzésszervezési folyamatokhoz kapcsolódó oktatásmódszertani és oktatásszakmai minőségbiztosítási követelmények, valamint eljárások kidolgozásáról és alkalmazásáról;
+
+f)[^18] gondoskodik a tartós külszolgálat ellátásához szükséges nyelvi kompetenciák fejlesztéséről, a külügyi szaknyelvi felkészítésről, és a Minisztériumon belül külügyi szaknyelvi vizsgaközpontot működtet;
+
+g)[^19] felelős a külügyi és külgazdasági területen foglalkoztatottaknak az általa vezetett Minisztériumban a Kit. 56. § (4) bekezdése szerinti álláshelyen és a külképviseleteken ellátandó külszolgálati munkakörök betöltéséhez, a munkatevékenység végzéséhez szükséges szakmai ismeretek bővítését és képességek fejlesztését elősegítő előadások szervezésével és lebonyolításával kapcsolatos feladatok ellátásáért;
+
+h) kiadja a külképviseleti felkészítési rendszer minőségirányítási szabályzatát;
+
+i) előkészíti a tartós külszolgálattal kapcsolatos fejlesztések szakmai koncepcióját és az azokhoz kapcsolódó szabályozási elveket;
+
+j) gondoskodik a magyar külügyi és diplomataképzés rendszerének megalapozása körében az ezzel kapcsolatos oktatásmódszertani és oktatásszakmai minőségbiztosítási követelmények, valamint eljárások kidolgozásáról és alkalmazásáról;
+
+k) felelős a magyar diplomataképzés rendszerébe illesztett, a diplomata-utánpótlást biztosító, illetve a diplomáciai munkába illesztő, illetve annak ellátását magasabb szintre emelő speciális képzések kidolgozásáért és fejlesztéséért;
+
+l) gondoskodik a *k)* pont szerinti képzések lebonyolításáról, az ezekkel kapcsolatos oktatás-, képzés-, valamint eseményszervezési, illetve kapcsolódó kiegészítő feladatok ellátásáról.
+
+(2)[^20] A magas szintű szakmai felkészültséggel rendelkező külügyi és külgazdasági állomány fenntartása, valamint az utánpótlás biztosítása érdekében a külpolitikáért felelős miniszter közreműködik a külpolitikát érintő kutatási és elemzőtevékenységek ellátásában, továbbá biztosítja a külügyi és külgazdasági folyamatok és azok eredményeinek szélesebb nyilvánossággal történő megismertetését.
+
+(3) A külpolitikáért felelős miniszter a tartós külszolgálat, illetve az arra történő felkészülés intézményi folyamatainak támogatására, a tartós külszolgálati álláspályázatok kezelésére, nyilvántartására, a pályázat folyamatainak elektronikus támogatására, a tartós külszolgálati felkészülés során felmerülő képzési és továbbképzési kötelezettségek eredményes teljesítésének elősegítésére, az oktatási és képzésszervezési feladatok ellátásának biztosítására komplex informatikai keretrendszert működtet.
+
+(4)[^21] A Minisztérium hivatali szervezetének vezetője normatív utasításban állapítja meg a tartós külszolgálati felkészítéshez szükséges képzések kidolgozásával kapcsolatos képzésfejlesztési, tananyag és egyéb szakanyag létrehozásával összefüggő oktatásmódszertani, képzésfejlesztési, a képzések biztosításával, lebonyolításával, oktatás- és képzéstechnikai feltételeinek biztosításával, belső minőségbiztosításával, oktatással, felkészítéssel és képzésszervezéssel, valamint kiegészítő tevékenységgel kapcsolatos költségek és díjazás mértékét.
+
+(5)[^22] A külpolitikáért felelős miniszter az (1) bekezdés c) és l) pontja szerinti feladatokat a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) közreműködésével látja el.
+
+(6)[^23] A külpolitikáért felelős miniszter az (5) bekezdés szerinti feladatok ellátására a Társasággal polgári jogi, közszolgáltatási vagy támogatási szerződést köthet.
+
+### 4. §
+
+(1) A külpolitikáért felelős miniszter gondoskodik a külgazdasági és külügyi működés során keletkező, a közigazgatásban hasznosítható gyakorlati ismertanyagok és meglévő jó gyakorlatok összegyűjtéséről, feldolgozásáról, értékeléséről, fejlesztéséről és az eredmények közzétételéről.
+
+(2)[^24] A külpolitikáért felelős miniszter, valamint a kihelyező vezető előírhatja a tartós külszolgálatot teljesítő kormánytisztviselő számára, hogy speciális külügyi, külgazdasági, illetve – az általa ellátott külszolgálati munkakörhöz kapcsolódó – szakmai ismeretmegújító továbbképzésen vegyen részt.
+
+(3) A külpolitikáért felelős miniszter az (1) bekezdésben meghatározott eredményeket a közigazgatásban foglalkoztatottak részére is megismerhetővé teheti.
+
+(4)[^25] A tartós külszolgálati felkészítés, valamint a felkészülő álláshelyen történő jogviszony fenntartás szempontjából ösztöndíjprogramnak minősül a külföldi diplomáciai, illetve szakdiplomáciai ösztöndíjprogram, valamint a miniszter által biztosított diplomáciai, illetve szakdiplomáciai ösztöndíjprogram, valamint a cserediplomata program is.
+
+## 3. A tartós külszolgálatra történő felkészítés általános szabályai
+
+### 5. §
+
+(1)[^26] A tartós külszolgálatra történő felkészítés célja a Külszoltv. 1. mellékletében foglalt tartós külszolgálati munkakörök ellátásához szükséges
+
+a) a külképviseleti hálózatra és a külügyi és külgazdasági szakpolitikai célkitűzésekre,
+
+b) a külképviseleti működésre, a külügyi és külgazdasági kormányzati, minisztériumi stratégiai, valamint szakpolitikai célkitűzésekre,
+
+c) nemzetpolitikai, valamint egyes szakdiplomáciai tevékenységre,
+
+d) a diplomáciai és nemzetközi protokollra,
+
+e) a biztonságra, nemzetbiztonságra és információbiztonságra,
+
+f) a fogadó állam szokásaira, jellegzetességeire, valamint
+
+g) egyéb, a munkáltatói jogkör gyakorlója által előírt felkészítési elemekre
+
+vonatkozó aktuális szakmai ismeretek átadása.
+
+(2) Az (1) bekezdésben meghatározottakon túl a felkészítés
+
+a)[^27] a tartós külszolgálat keretében ellátandó tartós külszolgálati munkakörökhöz szükséges szakmai, funkcionális elméleti és azok gyakorlati alkalmazását elősegítő ismeretek megszerzésére, fejlesztésére,
+
+b) a felkészülő személyes készségeinek fejlesztésére,
+
+c) a külgazdasági és külügyi feladatellátáshoz szükséges szakmai kompetenciák fejlesztésére,
+
+d) a felkészülő pszichológiai felkészítésére,
+
+e) az ügyfelekkel való kapcsolattartásra, valamint
+
+f) a külföldi életvezetésre vonatkozó gyakorlati tanácsadásra
+
+is kiterjed.
+
+### 6. §
+
+(1)[^28] A felkészülő köteles az előírt képzésen részt venni, valamint a képzésekhez kapcsolódó vizsgákon tudásáról számot adni. Az e rendeletben meghatározott képzéseket a Minisztérium biztosítja.
+
+(2) A külpolitikáért felelős miniszter külön képzést szervezhet a felkészülő házastársa, valamint a külképviselet által foglalkoztatott házastárs részére.
+
+(3)[^29] A tartós külszolgálati kihelyezést megelőző, a Külszoltv. 11. §-a szerinti külszolgálati felkészülés, valamint a tartós külszolgálatot követő átmeneti belső elhelyezésre szolgáló, a Külszoltv. 21. §-a szerinti felkészülés alatt a munkaidőnek minősülő felkészülési kötelezettség teljesítését, a szabadság munkáltató által kiadható részével való rendelkezést, valamint a pihenőidő felhasználását a kormánytisztviselő vonatkozásában a kihelyező szerv hivatali szervezetének vezetője, vagy az általa írásban kijelölt, a kihelyező szervvel jogviszonyban álló szakmai vezetői vagy szakmai felsővezetői álláshelyet betöltő kormánytisztviselő igazolhatja.
+
+### 7. §[^30]
+
+A felkészítés során teljesített képzések a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, átképzéséről, valamint a közigazgatási vezetőképzéséről szóló 338/2019. (XII. 23.) Korm. rendelet (a továbbiakban: Korm. rendelet) szerinti belső továbbképzés keretében valósulnak meg, és az abban meghatározott továbbképzési kötelezettség teljesítésébe az előírt kötelezettség 50%-áig beszámíthatóak.
+
+## 4. [^31] Általános és tartós külszolgálati munkaköri képzések és vizsgák
+
+### 8. §
+
+(1) A felkészülő a 6. § (1) bekezdésében meghatározott felkészülési kötelezettsége keretében
+
+a)[^32] a felkészülési tervében előírt, a tartós külszolgálat keretében betöltendő tartós külszolgálati munkaköréhez kapcsolódó elméleti és gyakorlati képzéseket,
+
+b) a munkáltatói jogkör gyakorlója által meghatározott egyéb elméleti és gyakorlati képzéseket,
+
+c) az *a)* és *b)* pont szerinti képzésekhez tartozó szakmai és vizsgakövetelményeket, valamint
+
+d)[^33] a felkészüléshez kapcsolódó egyéb feltételeket, ideértve különösen a szakmai kapcsolat felvételével és szakmai konzultációkkal összefüggő kötelezettségeket
+
+teljesíti.
+
+(2)[^34] A Külszoltv. 1. melléklet szerinti vezetői és diplomata munkakör betöltése esetén a felkészülő köteles – a külszolgálati felkészülés során – a Minisztérium által szervezett külügyi szakmai vizsgára felkészítő konzultációkon részt venni, valamint külügyi szakmai vizsgát és a tartós külszolgálati munkaköréhez kapcsolódó szakmai vizsgát tenni.
+
+(3) A munkáltatói jogkör gyakorlója a felkészülési tervben egyéb szakmai képzés vagy vizsgakövetelmény teljesítését, továbbá egyéb, a külszolgálat keretében ellátandó közszolgálat teljesítéséhez kapcsolódó kötelezettség végrehajtását is előírhatja.
+
+(4)[^35] Az egy adott tartós külszolgálati munkakörre előírt, kötelezően teljesítendő szakmai követelményeket jogszabály tartalmazza.
+
+(5) A tartós külszolgálatra történő kihelyezést megelőzően a felkészülőnek a Külszoltv. 1. mellékletében meghatározott munkakörök esetében a következő képzéseken kell részt venni, valamint az azokhoz kapcsolódó vizsgákat teljesíteni:
+
+a)[^36] külügyi szakmai vizsgára felkészítő konzultáció és vizsga
+
+aa) a Külszoltv. 1. melléklete szerinti vezetői munkaköri osztályba tartozó külszolgálati munkakör,
+
+ab) a Külszoltv. 1. melléklete szerinti diplomata munkaköri osztályba tartozó külszolgálati munkakör,
+
+ac) a Külszoltv. 1. melléklete szerinti adminisztratív munkaköri osztályba tartozó külszolgálati munkakör
+
+esetén;
+
+b)[^37] a Minisztérium által szervezett külképviseleti gazdálkodási ismereteket tartalmazó felkészítés, valamint az ahhoz kapcsolódó vizsga
+
+ba) a Külszoltv. 1. melléklete szerinti vezetői munkaköri osztályba tartozó külszolgálati munkakör,
+
+bb) a Külszoltv. 1. melléklete szerinti gazdasági vezető külszolgálati munkakör,
+
+bc) a Külszoltv. 1. melléklete szerinti gazdasági felelős külszolgálati munkakör,
+
+bd) a Külszoltv. 1. melléklete szerinti gazdasági ügyintézői külszolgálati munkakör
+
+esetén;
+
+c) titkos ügyiratkezelői képzés és vizsga a titkos ügyiratkezeléssel összefüggő – a Külszoltv. 23. § (2) bekezdése szerinti – kiegészítő feladatkör esetén;
+
+d) rejtjelezői képzés és vizsga – a Külszoltv. 23. § (2) bekezdése szerinti – rejtjelezői kiegészítő feladatkör esetén;
+
+e)[^38] konzuli szakmai tanfolyam és konzuli szakmai vizsga
+
+ea) a Külszoltv. 1. melléklete szerinti külképviselet-vezetői külszolgálati munkakör – a Külszoltv. 3. § (1) bekezdés b) pontja szerinti külképviseleten –, ha a külképviseleten vezető konzul nem dolgozik,
+
+eb) a Külszoltv. 1. melléklete szerinti első beosztott konzul külszolgálati munkakör,
+
+ec) a Külszoltv. 1. melléklete szerinti vezető konzul külszolgálati munkakör,
+
+ed) a konzuli feladatot ellátó diplomata külszolgálati munkakör
+
+esetén;
+
+f)[^39] konzuli ügyintézői képzés és vizsga a Külszoltv. 1. melléklete szerinti konzuli ügyintézői külszolgálati munkakör esetén.
+
+### 9. §
+
+(1) Az általános külszolgálati felkészítő tanfolyam teljesítése kötelező, ide nem értve a rendkívüli és pótpályázat keretében kihelyezésre kerülő felkészülőket. A felkészülési tervben meghatározott képzési elemek és vizsgakötelezettségek teljesítése kötelező. Ezek nem teljesítése esetén a felkészülő tartós külszolgálatra nem helyezhető ki.
+
+(2)[^40] Ha a kihelyezett tartós külszolgálati munkaköre megváltozik, kizárólag az új munkakör speciális követelményei tekintetében kell a képzési vizsgakötelezettségnek eleget tennie.
+
+(3)[^41] A (2) bekezdéstől eltérően, ha a kihelyezett külszolgálati munkakörére vonatkozó jogi vagy egyéb normatív szabályozói előírások, illetve a munkaköri feladatok ellátásának módja – ideértve különösen az információs technológiai előírások és alkalmazások használatának módját – jelentős mértékben megváltoznak, a munkáltatói jogkör gyakorlója előírhatja a korábbi külszolgálati munkakör speciális követelményei tekintetében is az ismételt képzési vagy vizsgakötelezettség teljesítését.
+
+## 5. Külszolgálati felkészítő tanfolyam
+
+### 10. §
+
+(1) A felkészülő – a felkészítés folyamán – általános külszolgálati felkészítő tanfolyamon vesz részt.
+
+(2) A felkészülő képviselet-vezetők részére – megfelelő számú résztvevő esetén – a külpolitikáért felelős miniszter speciális külszolgálati felkészítő tanfolyamot szervezhet. A speciális felkészítő tanfolyam – az 5. §-ban meghatározott elemeken túl – különösen kommunikációs és vezetőképzési ismeretek részekből áll.
+
+(3) Az általános külszolgálati felkészítő tanfolyamot a külpolitikáért felelős miniszter szervezi meg évenként legalább egy alkalommal, az éves pályázati rendben történő kihelyezést megelőzően.
+
+(4) Az (1) bekezdés szerinti általános külszolgálati felkészítő tanfolyamon való részvétel kötelezettsége a rendkívüli, valamint a pótpályázat keretében kihelyezésre kerülő felkészülőre nem vonatkozik.
+
+(5) A munkáltatói jogkör gyakorlója az általános és speciális külszolgálati felkészítő tanfolyam idejére mentesíti a felkészülőt munkavégzési kötelezettsége alól. A felkészülőnek a mentesítés idejére illetmény jár.
+
+(6) Ha a (2) bekezdés szerinti speciális felkészítő tanfolyam a kihelyezés évében nem valósul meg, a külképviselet-vezető az (1) bekezdés szerinti általános külszolgálati felkészítő tanfolyamon vesz részt.
+
+(7) Az általános külszolgálati felkészítő tanfolyamnak a külpolitikáért felelős miniszter által egyedileg meghatározott képzésein a felkészülőn kívül a Külszoltv. 2. § 8. pontja szerinti házastárs is részt vehet.
+
+## 6.[^42] A minisztériumok közötti együttműködés a tartós külszolgálatra történő felkészítés során
+
+### 11. §
+
+(1) A külpolitikáért felelős miniszter végzi az EU ÁK-ra kihelyezésre kerülő, az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériummal kormányzati szolgálati jogviszonyban álló felkészülő diplomáciai felkészítését, amely során együttműködik az európai uniós ügyek koordinációjáért felelős miniszterrel.
+
+(2)[^43] Az (1) bekezdésben foglalt együttműködés kiterjed a külügyi szakmai vizsgára felkészítő konzultációra és vizsgára, valamint a Külszoltv. 1. mellékletében meghatározott tartós külszolgálati munkakörök betöltéséhez előírt munkaköri vizsgákra.
+
+(3)[^44] A Minisztérium azon kihelyezésre kerülő diplomatáinak, akik részben vagy egészben európai uniós ügyeket érintő feladatokat látnak el, a kihelyezést megelőzően teljesíteniük kell az európai uniós ügyek koordinációjáért felelős miniszter által szervezett, jogszabályban meghatározott európai uniós szakmai vizsgát.
+
+(4) Az EU ÁK-ra kihelyezésre kerülő felkészülő adatait és a külügyi szakmai vizsga javasolt időpontját az európai uniós ügyek koordinációjáért felelős miniszter legkésőbb az EU ÁK-ra történő kihelyezést megelőző három hónappal megküldi a külpolitikáért felelős miniszternek.
+
+(5) A külpolitikáért felelős miniszter legkésőbb a vizsgát megelőző egy hónapon belül tájékoztatja a felkészülőt, valamint az európai uniós ügyek koordinációjáért felelős minisztert a vizsgára felkészítő konzultációk és a vizsgák időpontjáról. A külpolitikáért felelős miniszter a tájékoztatással egyidejűleg a vizsgákra történő felkészüléshez szükséges tananyagokat is megküldi a felkészülőnek.
+
+(6) A külpolitikáért felelős miniszter a vizsgák eredményéről öt munkanapon belül tájékoztatja az európai uniós ügyek koordinációjáért felelős minisztert és kiállítja a tanúsítványt.
+
+(7)[^45] A külpolitikáért felelős miniszter a részben vagy egészben európai uniós tartós külszolgálati munkakör betöltésére felkészülő adatait és az európai uniós szakmai vizsga javasolt időpontját legkésőbb a kihelyezést megelőző három hónappal megküldi az európai uniós ügyek koordinációjáért felelős miniszternek.
+
+(8) Az európai uniós ügyek koordinációjáért felelős miniszter a vizsgát megelőzően legalább egy hónappal tájékoztatja a felkészülőt, valamint a külpolitikáért felelős minisztert az európai uniós szakmai vizsga időpontjáról, és a tájékoztatással egyidejűleg a vizsgára történő felkészüléshez szükséges tananyagokat is megküldi a felkészülőnek.
+
+(9) Az európai uniós ügyek koordinációjáért felelős miniszter a vizsga eredményéről öt munkanapon belül tájékoztatja a külpolitikáért felelős minisztert, és kiállítja a tanúsítványt.
+
+## 7.[^46] Külügyi nyelvi-szaknyelvi felkészítés és vizsgaközpont
+
+### 12. §
+
+(1)[^47] A tartós külszolgálatra történő jelentkezés elősegítése, továbbá a tartós külszolgálat keretében történő közszolgálat magasabb szintű ellátása biztosításának céljából a Minisztérium gondoskodhat a nyelvi kompetenciák fejlesztéséről, valamint nyelvtanfolyamokat szervezhet.
+
+(2)[^48] A Minisztérium – külügyi szaknyelvi vizsgaközpontként –, illetve a külpolitikáért felelős miniszter irányítása, felügyelete vagy tulajdonosi, illetve alapítói joggyakorlása alatt álló kormányzati igazgatási szerv, gazdasági társaság és közalapítvány, továbbá a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervnek a Kit. hatálya alá tartozó foglalkoztatottja, valamint ezeknek a hozzátartozója, a Minisztériumban a nemzeti felsőoktatásról szóló törvény alapján szakmai gyakorlatot teljesítő hallgató, valamint a Minisztériummal ösztöndíjas jogviszonyban álló, illetve szakmai gyakorlatát a Minisztériumban a Magyar Közigazgatási Ösztöndíjról szóló 52/2019. (III. 14.) Korm. rendelet szerint teljesítő ösztöndíjas számára külügyi szaknyelvi nyelvvizsgát szervez és biztosít.
+
+(3) A (2) bekezdés szerinti szaknyelvi nyelvvizsga államilag elismert diplomáciai szaknyelvi vizsgának minősül.
+
+(4)[^49] A külpolitikáért felelős miniszter az (1) bekezdés szerinti nyelvtanfolyam biztosításával, valamint a (2) bekezdés szerinti külügyi szaknyelvi vizsgaközpont működtetésével kapcsolatos feladatokat a Társaság közreműködésével látja el.
+
+(5)[^50] A külpolitikáért felelős miniszter az (1) és (2) bekezdés szerinti feladatok ellátására a Társasággal közszolgáltatási vagy támogatási szerződést köt.
+
+## 8. Záró rendelkezések
+
+### 13. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 12. § 2018. január 1-jén lép hatályba.
+
+(3)[^51] A 12. § (2) bekezdését
+
+a)[^52] a Minisztérium állami vezetőire, közszolgálati tisztviselőire, munkavállalóira, a Kttv. hatálya alá tartozó foglalkoztatottjaira és a tartós külszolgálatra kihelyezettel a tartós külszolgálat helyén tartózkodó közeli hozzátartozóira, továbbá a szakdiplomatákra 2018. január 1-jétől,
+
+b)[^53] a Minisztérium állami vezetőinek, közszolgálati tisztviselőinek, munkavállalóinak, a Kttv. hatálya alá tartozó foglalkoztatottjainak közeli hozzátartozóira, a külpolitikáért felelős miniszter irányítása vagy felügyelete alatt álló központi hivatal és gazdasági társaság közszolgálati tisztviselőire, munkavállalóira, a Kttv. hatálya alá tartozó foglalkoztatottjaira 2018. július 1-jétől,
+
+c) a külpolitikáért felelős miniszter irányítása, felügyelete vagy tulajdonosi, illetve alapítói joggyakorlása alatt álló kormányzati igazgatási szerv, valamint gazdasági társaság és közalapítvány Kit. hatálya alá tartozó foglalkoztatottjainak és munkavállalóinak hozzátartozóira 2019. január 1-jétől,
+
+d) a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervek Kit. hatálya alá tartozó foglalkoztatottjaira 2019. július 1-jétől,
+
+e)[^54] a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervek Kit. hatálya alá tartozó foglalkoztatottjainak hozzátartozóira, továbbá a Minisztériumban a nemzeti felsőoktatásról szóló törvény alapján szakmai gyakorlatot teljesítő hallgatókra 2020. január 1-jétől
+
+kell alkalmazni.
+
+(4)[^55] A Minisztérium a Korm. rendelet 4. § (3) bekezdés b) pontja szerinti kötelezettségét a Minisztérium kezdeményezésére egyszerűsített nyilvántartásba vételi eljárással nyilvántartásba vett belső továbbképzés vonatkozásában olyan, az alapító okirata szerint a külpolitikáért felelős miniszter felelősségi körébe tartozó ágazati szakmai kutató-elemzői feladatokat ellátó közalapítvány közreműködésével is biztosíthatja, amely felett a Kormány az alapítói jogok gyakorolására a minisztert jelölte ki.
+
+(5)[^56] A Korm. rendeletben foglaltak szerint a Minisztérium által biztosított belső továbbképzést – a közszolgálati tisztviselők belső továbbképzésére vonatkozó szabályok megfelelő alkalmazásával – a jogszabályi kijelölés alapján a külpolitikáért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartozó, állami tulajdonban álló gazdasági társaságok, kormányzati igazgatási szerv és alapítói joggyakorlása alá tartozó közalapítvány, illetve költségvetési szervek munkavállalói, valamint az önkormányzati, állami tulajdonú gazdasági társaságok munkavállalói is teljesíthetik.
+
+(6)[^57] A továbbképzési kötelezettségek teljesítésébe tanulmányi pontértékük szerinti mértékben, az előírt kötelezettség teljes mértékéig beszámíthatóak a kormánytisztviselő, köztisztviselő által teljesített, a Minisztérium által a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet és a Korm. rendelet alapján – belső továbbképzésként – nyilvántartásba vett és biztosított, a KÖFOP-2.1.4-VEKOP-16-2016-00001 azonosító jelű kiemelt projekt keretében fejlesztetett belső továbbképzési programok.
+
+### 14. §
+
+(1) Az e rendelet hatálybalépését megelőzően teljesített képzések és vizsgák egyenértékűek az e rendeletben meghatározott képzésekkel és vizsgákkal.
+
+(2) A 12. § (2) bekezdésében meghatározott külügyi szaknyelvi vizsgaközpont az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 11. § (3) bekezdésében megállapított akkreditált nyelvvizsgaközpontnak minősül.
+
+(3)[^58] A 13. § (6) bekezdését a KÖFOP-2.1.4-VEKOP-16-2016-00001 azonosító jelű kiemelt projekt keretében fejlesztetett, kormánytisztviselők, köztisztviselők által már teljesített vagy teljesítés alatt álló továbbképzési programokra is alkalmazni kell.
+
+### 15. §[^59]
+
+(1) A Minisztériumnál lefolytatásra kerülő fegyelmi ügyben a kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet (a továbbiakban: Kit. vhr.) 101. § (1) bekezdése, 102. § (1) és (2) bekezdése, valamint 105. § (1) bekezdése szerinti határidőt a fegyelmi jogkör gyakorlója indokolt esetben valamennyi eljárási cselekmény, döntés meghozatala vonatkozásában egy alkalommal legfeljebb tíz munkanappal meghosszabbíthatja.
+
+(2) A Minisztériumnál lefolytatásra kerülő fegyelmi ügyben a Kit. vhr. 99. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a meghallgatásról szóló értesítést úgy kell közölni, hogy azt a kormánytisztviselő és képviselője a meghallgatást megelőzően legalább két munkanappal megkapják.
+
+(3) A Minisztériumnál lefolytatásra kerülő fegyelmi ügyben a Kit. vhr. 102. § (2) bekezdése szerinti meghallgatást a fegyelmi jogkör gyakorlója vagy az általa írásban kijelölt, a Minisztériummal kormányzati szolgálati jogviszonyban álló szakmai felsővezető vagy szakmai vezető folytathatja le. Akadályoztatás esetén a fegyelmi jogkör gyakorlója személyes meghallgatás lefolytatása helyett a kormánytisztviselő számára írásbeli nyilatkozattételt írhat elő.
+
+(4) A Minisztériumnál lefolytatásra kerülő fegyelmi ügyben a (3) bekezdés szerinti személyes meghallgatás a kép- és hangfelvétel folyamatos továbbítására alkalmas telekommunikációs eszköz útján is lefolytatható.
+
+### 17. §[^61]
+
+A képzések fejlesztéséhez, a külszolgálati felkészítő tanfolyamhoz, informatikai támogatáshoz szükséges forrás a 2017–2018. évben, valamint a 2019–2021. évben a KÖFOP-2.1.4-VEKOP-16 azonosító jelű, „A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése” című kiemelt projektből kerül biztosításra.
+
+---
+
+[^1]: [A 127/2019. (V. 30.) Korm rendelet 11. §-ával elrendelt módosítás, amely szerint hatályát veszti az „a kormányzati ügykezelőkre,” szövegrész, nem vezethető át.]
+[^2]: Az 1. § (1) bekezdés a) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 397/2024. (XII. 16.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdése a 17/2019. (II. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 694/2021. (XII. 9.) Korm. rendelet 3. § a) pontja, az 535/2023. (XII. 5.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdése a 238/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított, az 535/2023. (XII. 5.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
+[^6]: Az 1. § (5) bekezdését a 127/2019. (V. 30.) Korm rendelet 3. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be, szövege az 535/2023. (XII. 5.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.
+[^8]: Az 1. § (7) bekezdését a 397/2024. (XII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 2. § 1. pontja a 694/2021. (XII. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § 3. pontja a 127/2019. (V. 30.) Korm rendelet 10. § a) pontja, az 535/2023. (XII. 5.) Korm. rendelet 1. § 5. pontja szerint módosított szöveg.
+[^11]: A 2. § 4. pontja a 127/2019. (V. 30.) Korm rendelet 4. § (1) bekezdésével megállapított, a 694/2021. (XII. 9.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^12]: A 2. § 5. pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 6. pontja szerint módosított szöveg.
+[^13]: A 2. § 6. pontja a 694/2021. (XII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^14]: A 2. § 8. pontja a 694/2021. (XII. 9.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^15]: A 2. § 9. pontja a 127/2019. (V. 30.) Korm rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § 10. pontja a 694/2021. (XII. 9.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^17]: A 3. § (1) bekezdése a 694/2021. (XII. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^18]: A 3. § (1) bekezdés f) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 7. pontja szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdés g) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 8. pontja szerint módosított szöveg.
+[^20]: A 3. § (2) bekezdése a 694/2021. (XII. 9.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^21]: A 3. § (4) bekezdése az 535/2023. (XII. 5.) Korm. rendelet 1. § 9. pontja szerint módosított szöveg.
+[^22]: A 3. § (5) bekezdését a 694/2021. (XII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 3. § (6) bekezdését a 694/2021. (XII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 4. § (2) bekezdése a 127/2019. (V. 30.) Korm rendelet 6. §-ával megállapított szöveg.
+[^25]: A 4. § (4) bekezdését a 397/2024. (XII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^26]: Az 5. § (1) bekezdés nyitó szövegrésze a 127/2019. (V. 30.) Korm rendelet 10. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. § (2) bekezdés a) pontja a 127/2019. (V. 30.) Korm rendelet 10. § d) pontja szerint módosított szöveg.
+[^28]: A 6. § (1) bekezdése az 535/2023. (XII. 5.) Korm. rendelet 1. § 10. pontja szerint módosított szöveg.
+[^29]: A 6. § (3) bekezdését a 17/2019. (II. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 694/2021. (XII. 9.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^30]: A 7. § a 381/2020. (VII. 31.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^31]: A 4. alcím címe a 127/2019. (V. 30.) Korm rendelet 10. § e) pontja szerint módosított szöveg.
+[^32]: A 8. § (1) bekezdés a) pontja a 127/2019. (V. 30.) Korm rendelet 10. § f) pontja szerint módosított szöveg.
+[^33]: A 8. § (1) bekezdés d) pontja a 694/2021. (XII. 9.) Korm. rendelet 3. § i) pontja szerint módosított szöveg.
+[^34]: A 8. § (2) bekezdése a 127/2019. (V. 30.) Korm rendelet 10. § f) pontja, az 535/2023. (XII. 5.) Korm. rendelet 1. § 11. pontja szerint módosított szöveg.
+[^35]: A 8. § (4) bekezdése a 127/2019. (V. 30.) Korm rendelet 10. § g) pontja szerint módosított szöveg.
+[^36]: A 8. § (5) bekezdés a) pontja a 127/2019. (V. 30.) Korm rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: A 8. § (5) bekezdés b) pontja a 127/2019. (V. 30.) Korm rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze az 535/2023. (XII. 5.) Korm. rendelet 1. § 12. pontja szerint módosított szöveg.
+[^38]: A 8. § (5) bekezdés e) pontja a 127/2019. (V. 30.) Korm rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^39]: A 8. § (5) bekezdés f) pontja a 127/2019. (V. 30.) Korm rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^40]: A 9. § (2) bekezdése a 127/2019. (V. 30.) Korm rendelet 10. § h) pontja szerint módosított szöveg.
+[^41]: A 9. § (3) bekezdését a 694/2021. (XII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^42]: A 6. alcím címe az 535/2023. (XII. 5.) Korm. rendelet 1. § 13. pontja szerint módosított szöveg.
+[^43]: A 11. § (2) bekezdése a 127/2019. (V. 30.) Korm rendelet 10. § b) pontja szerint módosított szöveg.
+[^44]: A 11. § (3) bekezdése az 535/2023. (XII. 5.) Korm. rendelet 1. § 14. pontja szerint módosított szöveg.
+[^45]: A 11. § (7) bekezdése a 127/2019. (V. 30.) Korm rendelet 10. § i) pontja szerint módosított szöveg.
+[^46]: A 7. alcím címe a 397/2024. (XII. 16.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^47]: A 12. § (1) bekezdése az 535/2023. (XII. 5.) Korm. rendelet 1. § 15. pontja szerint módosított szöveg.
+[^48]: A 12. § (2) bekezdése a 238/2021. (V. 6.) Korm. rendelet 2. §-ával megállapított, az 535/2023. (XII. 5.) Korm. rendelet 1. § 16. pontja szerint módosított szöveg.
+[^49]: A 12. § (4) bekezdését a 17/2019. (II. 14.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 127/2019. (V. 30.) Korm rendelet 8. § (2) bekezdésével megállapított, a 694/2021. (XII. 9.) Korm. rendelet 3. § j)–k) pontja, a 397/2024. (XII. 16.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^50]: A 12. § (5) bekezdését a 17/2019. (II. 14.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 694/2021. (XII. 9.) Korm. rendelet 3. § k) pontja, a 397/2024. (XII. 16.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^51]: A 13. § (3) bekezdése a 127/2019. (V. 30.) Korm rendelet 9. §-ával megállapított szöveg.
+[^52]: A 13. § (3) bekezdés a) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 17. pontja szerint módosított szöveg.
+[^53]: A 13. § (3) bekezdés b) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 18. pontja szerint módosított szöveg.
+[^54]: A 13. § (3) bekezdés e) pontja az 535/2023. (XII. 5.) Korm. rendelet 1. § 19. pontja szerint módosított szöveg.
+[^55]: A 13. § (4) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 125. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § c) pontja, az 535/2023. (XII. 5.) Korm. rendelet 1. § 20. pontja szerint módosított szöveg.
+[^56]: A 13. § (5) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 127/2019. (V. 30.) Korm rendelet 10. § j) pontja, a 279/2019. (XI. 21.) Korm. rendelet 4. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § d) pontja, az 535/2023. (XII. 5.) Korm. rendelet 1. § 21. pontja, a 397/2024. (XII. 16.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^57]: A 13. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2021. (V. 6.) Korm. rendelet 3. §-ával megállapított, az 535/2023. (XII. 5.) Korm. rendelet 1. § 22. pontja szerint módosított szöveg.
+[^58]: A 14. § (3) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^59]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 397/2024. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 17. § a 127/2019. (V. 30.) Korm rendelet 10. § k) pontja, a 238/2021. (V. 6.) Korm. rendelet 4. §-a szerint módosított szöveg.

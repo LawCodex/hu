@@ -1,0 +1,66 @@
+---
+title: "19/2019. (II. 18.) Korm. rendelet a Széchenyi-díjjal elismert személyek tudományos alkotói járadékban részesítésének szabályairól"
+identifier: "19/2019. (II. 18.) Korm. rendelet"
+njt_id: "2019-19-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/19"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-02-18
+in_force_from: 2019-02-19
+last_amended: 2019-02-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-19-20-22"
+retrieved: 2026-10-12
+---
+
+# 19/2019. (II. 18.) Korm. rendelet a Széchenyi-díjjal elismert személyek tudományos alkotói járadékban részesítésének szabályairól
+
+A Kormány a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 8. § (4) bekezdésében kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Magyar Tudományos Akadémia (a továbbiakban: MTA) az MTA Titkársága (a továbbiakban: Titkárság) útján a kiemelkedő tudományos teljesítmény és tudományos életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: tudományos alkotói járadék) nyújt a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény (a továbbiakban: Díj tv.) 3/A. § (1) és (2) bekezdésében meghatározott személyek részére.
+
+## 2. §
+
+A nemzetpolitikáért felelős miniszter a Díj tv. 7/A. § (2) bekezdése alapján a díj adományozását követő 5 munkanapon belül megküldi a Titkárságnak az elismerésben részesült személynek a Díj tv. 7/A. § (1) bekezdése szerinti adatait.
+
+## 3. §
+
+(1) A tudományos alkotói járadék iránti igényt írásban kell kérelmezni a Titkárságon, az MTA honlapján elérhető nyomtatvány kitöltésével.
+
+(2) A kérelemnek tartalmaznia kell
+
+a) a kérelmező természetes személyazonosító adatait, állampolgárságát, lakóhelyét és tartózkodási helyét, fizetési számla számát és az azt vezető pénzforgalmi szolgáltató nevét, a Titkársággal való kapcsolattartását szolgáló telefonszámát, e-mail-címét, adóazonosító jelét, társadalombiztosítási azonosító jelét;
+
+b) a kérelmező nyilatkozatát, miszerint
+
+ba) kéri a tudományos alkotói járadék megállapítását és folyósítását,
+
+bb) kijelenti, hogy a tudományos alkotói járadék megállapítását kizáró ok a kérelem elbírálása tekintetében nem áll fenn, annak bekövetkezése esetén e tényről a Titkárságot 15 napon belül értesíti,
+
+bc) kijelenti, hogy a tudományos alkotói járadék megállapítását megalapozó elismerésről történő lemondása vagy visszavonás esetén e tényről a Titkárságot 15 napon belül írásban értesíti, valamint
+
+bd) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelmében foglaltak a valóságnak megfelelnek.
+
+## 4. §
+
+(1) A tudományos alkotói járadékot a Titkárság a kérelem benyújtásának időpontjára visszamenőleg, időarányosan állapítja meg azzal, hogy a jogosultság kezdete nem lehet korábbi a jogosult 65. életéve betöltésének napjánál. A Titkárság a tudományos alkotói járadékot az arról szóló határozata meghozatalát követő hónappal kezdődően, a tárgyhónap 10. napjáig folyósítja.
+
+(2) A tudományos alkotói járadékra jogosult köteles a Titkárságnak annak ismertté válásától, illetve a változás bekövetkezésétől számított 15 napon belül bejelenteni minden olyan tényt, adatot vagy ezekben történt változást, amely a juttatásra való jogosultságát érinti.
+
+(3) A tudományos alkotói járadék folyósítása megszűnik, ha a tudományos alkotói járadékra jogosult személy
+
+a) részéről kizáró ok merül fel, a bekövetkezést követő hónap első napjától,
+
+b) a tudományos alkotói járadékról lemond, a Titkárságnál írásban tett lemondását követő hónap első napjától,
+
+c) halála esetén, az elhalálozást követő hónap első napjától.
+
+(4) Aki a tudományos alkotói járadékot jogalap nélkül vette fel, köteles azt a jogalap nélkül felvett ellátás folyósításától számított 60 napon belül visszafizetni.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

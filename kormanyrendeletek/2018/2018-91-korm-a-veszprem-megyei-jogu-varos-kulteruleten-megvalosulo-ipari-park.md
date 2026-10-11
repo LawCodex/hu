@@ -1,0 +1,114 @@
+---
+title: "91/2018. (IV. 25.) Korm. rendelet a Veszprém megyei jogú város külterületén megvalósuló ipari park fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "91/2018. (IV. 25.) Korm. rendelet"
+njt_id: "2018-91-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/91"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-04-25
+in_force_from: 2018-04-26
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-91-20-22"
+retrieved: 2026-10-12
+---
+
+# 91/2018. (IV. 25.) Korm. rendelet a Veszprém megyei jogú város külterületén megvalósuló ipari park fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és f) pontjában,
+
+a 4. § (1) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 4. § (2) bekezdése tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § (3) bekezdése tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 11. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Veszprém közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0231/8, 0232/8, 0232/9, 0232/10, 0232/15, 0232/16, 0232/17, 0232/30, 0236/1, 0236/2, 0236/3, 0236/4, 0236/5, 0236/6, 0236/7, 0236/8, 0236/9, 0236/10, 0236/11, 0236/12, 0237/1, 0237/2 és 0237/3 helyrajzi számon nyilvántartott ingatlanokon, illetve az ezen ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokon megvalósításra kerülő ipari park, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Veszprém Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+## 4. §
+
+(1) A Kormány az 1. § (1) bekezdése szerinti beruházással összefüggő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésére a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(2) Az 1. § (1) bekezdése szerinti beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
+
+(3) Az 1. § (1) bekezdése szerinti beruházás esetében előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet végezni, ha a beruházó rendelkezésére állnak a próbafeltárás elvégzéséhez szükséges földrészletek, azzal, hogy a földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 91/2018. (IV. 25.) Korm. rendelethez
+
+**Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+7\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+8\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+9\. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. területrendezési hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15\. hírközlési hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. tűzvédelmi hatósági eljárások,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. erdővédelmi hatósági eljárások,
+
+20.[^2] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+21\. az építési, illetve a bontási hulladékok kezelésére és hulladékgazdálkodási előírásokra vonatkozó megfelelőségre irányuló hatósági eljárások,
+
+22\. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+23\. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 221. § a)-c) pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 296. §-a szerint módosított szöveg.

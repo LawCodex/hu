@@ -1,0 +1,566 @@
+---
+title: "474/2013. (XII. 12.) Korm. rendelet az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról"
+identifier: "474/2013. (XII. 12.) Korm. rendelet"
+njt_id: "2013-474-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/474"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-12-12
+in_force_from: 2013-12-15
+last_amended: 2025-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-474-20-22"
+retrieved: 2026-10-12
+---
+
+# 474/2013. (XII. 12.) Korm. rendelet az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról
+
+A Kormány
+
+a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § a) pontjában,
+
+a 17. § (3) bekezdése tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés a) pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében, a következőket rendeli el:
+
+### 1. §
+
+(1)[^1] E rendelet a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Földforgalmi tv.) meghatározott mező- és erdőgazdasági hasznosítású föld, valamint tanya (a továbbiakban együtt: föld) eladása, illetve haszonbérbe adása esetén a törvényen, vagy megállapodáson alapuló elővásárlási jog, továbbá a törvényen alapuló előhaszonbérleti jog gyakorlása érdekében az adásvételi, illetve a haszonbérleti szerződésnek a jogosultakkal való hirdetményi úton történő közlésének részletes szabályait állapítja meg.
+
+(2)[^2] E rendeletben meghatározott eljárása során a jegyző hatósági hatáskört nem gyakorol.
+
+(3)[^3]
+
+## 1. Az adás-vételi szerződés hirdetményi úton történő közlése
+
+### 2. §[^4]
+
+(1)[^5]
+
+(2)[^6]
+
+(3)[^7]
+
+(4)[^8]
+
+(5)[^9] A Földforgalmi tv. 36. § (1) bekezdése hatálya alá tartozó, a mezőgazdasági igazgatási szerv jóváhagyásához nem kötött adásvételi szerződést a tulajdonosnak, mint eladónak a föld fekvése szerint illetékes települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) jegyzője részére a Földforgalmi tv. 21. § (1c) bekezdése szerinti határidőn belül kérelmet (a továbbiakban: közzétételi kérelem) kell benyújtania a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározott egységes okiratba foglalt adásvételi szerződés hirdetményi úton történő közlése iránt. A közzétételi kérelmet a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A közzétételi kérelem adattartalmát az 1. melléklet tartalmazza. A közzétételi kérelemhez csatolni kell az egységes okiratba foglalt, az egyes földügyi eljárások részletes szabályairól szóló kormányrendeletben foglaltak szerint elektronikusan regisztrált adásvételi szerződés egy eredeti példányát.
+
+(6)[^10] Ha az adásvételi szerződés több, földnek minősülő ingatlant tartalmaz, az eladó a közzétételi kérelmet benyújthatja az adásvételi szerződésben szereplő bármelyik föld fekvése szerint illetékes települési önkormányzat jegyzőjénél.
+
+### 2/A. §[^11]
+
+Ha az adásvételi szerződés több településen fekvő földnek minősülő ingatlant tartalmaz, a mezőgazdasági igazgatási szerv az adásvételi szerződésben szereplő valamelyik föld fekvése szerint illetékes települési önkormányzat jegyzőjénél rendeli el a szerződés közzétételét valamennyi ingatlanra vonatkozóan.
+
+### 3. §
+
+(1)[^12] Ha a közzétételi kérelem hiányosan került benyújtásra, vagy annak mellékleteként nem került csatolásra az egységes okiratba foglalt, az egyes földügyi eljárások részletes szabályairól szóló kormányrendeletben foglaltak szerint elektronikusan regisztrált adásvételi szerződés, a jegyző az eladót legfeljebb 5 napos határidő tűzésével haladéktalanul felhívja a hiányosságok pótlására vagy a szerződés csatolására.
+
+(1a)[^13]
+
+(2) A jegyző megtagadja a közzétételi kérelem teljesítését, ha
+
+a) az eladó az (1) bekezdésben foglalt felhívásnak határidőn belül nem tett eleget,
+
+b)[^14] a közzétételi kérelem nem az eladótól származik, vagy
+
+c)[^15] a mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződést a közzétételi kérelemhez csatoltan közvetlenül a jegyzőhöz nyújtják be.
+
+(3) Ha a jegyző a (2) bekezdésben meghatározottak alapján megtagadja a közzétételi kérelem teljesítését, erről a kérelemhez csatolt iratok visszaküldésével egyidejűleg értesíti az eladót, illetve a (2) bekezdés b) pontjában meghatározott esetben a kérelmezőt is.
+
+(3a)[^16] Ha a jegyző a megtagadást elmulasztja és ezáltal a közzétételi kérelem alapján olyan adásvételi szerződés kerül közzétételre, amely a mezőgazdasági igazgatási szerv jóváhagyásához kötött, akkor a közzétételnek joghatása nincs.
+
+(4)[^17] A jegyző a közzétételi kérelem beérkezését követő 8 napon belül a részére megküldött adásvételi szerződésen felismerhetetlenné teszi a Földforgalmi tv. 21. § (2) bekezdésében előírtak szerinti természetes személyazonosító adatokat, az aláírásokat és egyéb, egyedi azonosításra alkalmas adatot. Ezt az anonimizált szerződéspéldányt kell a Földforgalmi tv. 21. § (2) bekezdésében foglaltak szerint közzétenni. Az adásvételi szerződés hirdetményi úton történő közlésének napja az a nap, amikor az adásvételi szerződés a kormányzati portálon közzétételre került. A jegyző a közzétételre kerülő adásvételi szerződésre rávezeti a közzététel időpontját és a Földforgalmi tv. 21. § (3) bekezdésében meghatározott, az elővásárlásra jogosult jognyilatkozatának megtételére nyitva álló határidő első és utolsó napját, azzal a figyelemfelhívással, hogy e határidő jogvesztő.
+
+(4a)[^18]
+
+(5)[^19] Az adásvételi szerződésnek a kormányzati portálon való közzététele céljából a jegyző a (4) bekezdésben előírtak szerint anonimizált adásvételi szerződést – jogszabályban meghatározott biztonságos elektronikus dokumentum továbbító segítségével – az adásvételi szerződés beérkezését követő 8 napon belül megküldi a kormányzati portált üzemeltető szervezetnek (a továbbiakban: működtető szervezet).
+
+(6)[^20] A működtető szervezet köteles az adásvételi szerződést a kormányzati portálon a jegyző által az adásvételi szerződésen megjelölt közzététel napján közzétenni, és ezzel egyidejűleg a közzététel időpontjáról és tartalmáról a jegyző részére elektronikus úton automatikus igazolást küld. A jegyző köteles meggyőződni arról, hogy az adásvételi szerződés a kormányzati portálon közzétételre került. Ennek elmaradását haladéktalanul, igazolt módon jeleznie kell a működtető szervezetnek. Ha a működtető szervezet nem teszi közzé az adásvételi szerződést a jegyző által az adásvételi szerződésen megjelölt közzététel napján, a jegyző javítja a közzétételre megküldött szerződésen a (4) bekezdésben meghatározott adatokat, és a javított szerződéspéldányt megküldi a működtető szervezetnek a kormányzati portálon való közzététel céljából.
+
+(7)[^21] Az adásvételi szerződés tájékoztató jelleggel történő kifüggesztése esetén a jegyző a (4) bekezdésben meghatározottak szerint anonimizált adásvételi szerződés másolatát függeszti ki a hirdetőtáblára. A jegyző a kifüggesztett adásvételi szerződésre rávezeti a kifüggesztés időpontját és a Földforgalmi tv. 21. § (3) bekezdésében meghatározott, az elővásárlásra jogosult jognyilatkozatának megtételére nyitva álló határidő első és utolsó napját, azzal a figyelemfelhívással, hogy e határidő jogvesztő. A jegyző a kifüggesztett adásvételi szerződésre rávezeti továbbá, hogy a kifüggesztés nem minősül az adásvételi szerződés közlésének.
+
+(8)[^22] Az adásvételi szerződés tájékoztató jellegű kifüggesztése közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtáblájára és a közös önkormányzati hivatalhoz tartozó önkormányzat hirdetőtáblájára való kifüggesztéssel történik. A közös önkormányzati hivatalhoz tartozó önkormányzat alatt a közös önkormányzati hivatalhoz tartozó, a föld fekvése szerint illetékes települési önkormányzatot kell érteni.
+
+(9)[^23] A mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződés esetén az e §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy a jegyző az anonimizálást a Földforgalmi tv. 21. § (1b) bekezdése alapján vele közölt döntés beérkezését követő 8 napon belül végzi el.
+
+### 4. §[^24]
+
+(1)[^25] Az eladó a közzétételi kérelmet az adásvételi szerződés kormányzati portálon való közzétételéig vonhatja vissza.
+
+(2)[^26]
+
+(3) A közzétételi kérelem visszavonását a jegyzőnek kell írásban bejelenteni. A kérelem visszavonása esetén a jegyző a közzétételi kérelemhez csatolt iratokat a visszavonásra irányuló bejelentést követő 8 napon belül visszaküldi az eladó részére.
+
+(4) Ha a kérelem visszavonásáról szóló nyilatkozat a szerződés kormányzati portálon való közzétételét követően érkezik be, vagy a hatósági jóváhagyás iránti kérelem visszavonásáról az eladó a jegyzőnél nyilatkozik, a visszavonásnak joghatása nincs, az a szerződés közlésének hatályát nem szünteti meg.
+
+### 5. §
+
+(1)[^27] A működtető szervezet a kormányzati portálról az adásvételi szerződést a jegyző által az elővásárlási jog gyakorlására nyitva álló határidő utolsó napjaként az adásvételi szerződésen megjelölt napot követő legközelebbi munkanapon veszi le, ezzel egyidejűleg a levétel időpontjáról a jegyző részére elektronikus úton automatikus igazolást küld. A működtető szervezet a befogadott adásvételi szerződéseket 5 évig köteles megőrizni. A jegyző a közzétételre megküldött adásvételi szerződésre a kormányzati portálról történő levétel napján rávezeti a levétel napját, valamint az elektronikus közzététel megtörténtének tényét. Az adásvételi szerződés tájékoztató jelleggel történő kifüggesztése esetén a jegyző a levétellel egy időben rávezeti a kifüggesztett szerződésre a levétel napját, és a kifüggesztett szerződéspéldányt az okirattárában helyezi el.
+
+(1a)[^28] Ha a Földforgalmi tv. 21. § (3) bekezdésében meghatározott határidő utolsó napja olyan nap, amelyen a polgármesteri hivatalnál a munka szünetel, a határidő a legközelebbi munkanapon jár le.
+
+(1b)[^29] Ha a Földforgalmi tv. 21. § (4) bekezdése alapján a jegyző megállapítja, hogy az elfogadó jognyilatkozat az azt átadó elővásárlásra jogosulttól származik, a jegyzőnek az elfogadó jognyilatkozaton rögzítenie kell annak tényét, hogy az elfogadó jognyilatkozat az azt átadó elővásárlásra jogosulttól származik, és az azon szereplő aláírást saját kezű aláírásának ismerte el.
+
+(2)[^30] A jegyző a Földforgalmi tv. 22. § (1) bekezdés a) pontja szerinti esetben az ott meghatározott dokumentumokat a földforgalmi hatósági eljárásokat támogató informatikai rendszer útján küldi meg a mezőgazdasági igazgatási szerv részére. A jegyző az irattovábbítás tényéről – azzal egyidejűleg – értesíti az eladót.
+
+(3)[^31] A Földforgalmi tv. 22. § (1) bekezdése szerinti iratjegyzéknek
+
+a) az elfogadó jognyilatkozatot benyújtó természetes személy
+
+aa) természetes személyazonosító adatait,
+
+ab) lakcímét,
+
+b) az államot, illetve az önkormányzatot megillető elővásárlási jog esetén az elővásárlási jog gyakorlására jogosult szervezet, illetve a képviseletében eljáró személy
+
+ba) megnevezését, illetve a képviselő családi és utónevét, valamint a képviselet jogcímét,
+
+bb) székhelyét, illetve a képviselő lakcímét, valamint
+
+c) a jognyilatkozat benyújtásának időpontját
+
+kell tartalmaznia.
+
+(4) Ha nem került elfogadó jognyilatkozat benyújtásra, az iratjegyzékben ennek tényét kell rögzíteni.
+
+(5)[^32] A (4) bekezdés szerinti esetben a jegyző az anonimizált szerződésmásolatot, valamint az átvett jognyilatkozatok eredeti példányát az okirattárában helyezi el.
+
+## 2. A haszonbérleti szerződés hirdetményi úton történő közlése
+
+### 6. §[^33]
+
+A haszonbérleti szerződés hirdetményi úton történő közlésére a 2–4. §-ban foglaltakat a 7. §-ban és a 9–11. §-ban foglalt eltérésekkel kell alkalmazni, azzal, hogy
+
+a) az eladó alatt a haszonbérbeadót,
+
+b) a vevő alatt a haszonbérlőt,
+
+c) az adásvételi szerződés alatt a haszonbérleti szerződést,
+
+d)[^34] a Földforgalmi tv. 20. §-a alatt a Földforgalmi tv. 48. §-át,
+
+e)[^35] a Földforgalmi tv. 21. § (1) bekezdése alatt a Földforgalmi tv. 49. § (1) bekezdését,
+
+f)[^36] a Földforgalmi tv. 21. § (1a) bekezdése alatt a Földforgalmi tv. 49. § (1a) bekezdését,
+
+g)[^37] a Földforgalmi tv. 21. § (1b) bekezdése alatt a Földforgalmi tv. 49. § (1b) bekezdését,
+
+h)[^38] a Földforgalmi tv. 21. § (1c) bekezdése alatt a Földforgalmi tv. 49. § (1c) bekezdését,
+
+i)[^39] a Földforgalmi tv. 21. § (2) bekezdése alatt a Földforgalmi tv. 49. § (2) bekezdését és
+
+j)[^40] az elővásárlási jogosultságot bizonyító okiratok alatt az előhaszonbérleti jogosultságot bizonyító okiratokat
+
+kell érteni.
+
+### 7. §
+
+(1)[^41] A közzétételi kérelmet a haszonbérbeadónak kell benyújtania a jegyzőhöz. Ha a haszonbérleti szerződés tárgyát osztatlan közös tulajdonban álló föld képezi, és a szerződés szerint a haszonbérlet
+
+a) a földrészlet területének egészére jött létre, vagy
+
+b) a földrészletnek csak egy meghatározott részére jött létre, de a Fétv. szerinti használati megosztásról szóló megállapodás alapján azt több tulajdonostárs adja haszonbérbe,
+
+a közzétételi kérelmet a tulajdonostársak döntése szerint kijelölt tulajdonostárs nyújthatja be.
+
+(1a)[^42]
+
+(1b)[^43] A közzétételi kérelemhez csatolni kell az egységes okiratba foglalt haszonbérleti szerződés egy eredeti példányát.
+
+(2)[^44] A közzétételi kérelem adattartalmát a 2. melléklet tartalmazza.
+
+(3)[^45]
+
+### 9. §[^47]
+
+A haszonbérleti szerződés hirdetményi úton történő közlése során figyelmen kívül kell hagyni e rendeletnek az elektronikusan regisztrált szerződésre vonatkozó rendelkezéseit.
+
+### 10. §[^48]
+
+(1)[^49]
+
+(2) Ha a haszonbérleti szerződés nem tartozik a mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződések közé, a Földforgalmi tv. 47. § (5) bekezdésében foglalt esetben a haszonbérbeadó a haszonbérleti szerződésben szereplő földek fekvése szerinti bármelyik illetékes települési önkormányzat jegyzője részére benyújthatja a közzétételi kérelmet.
+
+### 11. §
+
+(1)[^50] A jegyző a közzétételre kerülő haszonbérleti szerződésre rávezeti a közzététel időpontját és a Földforgalmi tv. 49. § (3) bekezdésében meghatározott, az előhaszonbérletre jogosult jognyilatkozatának megtételére nyitva álló 15 napos határidő első és utolsó napját, azzal a figyelemfelhívással, hogy e határidő jogvesztő.
+
+(2)[^51] A működtető szervezet a kormányzati portálról a haszonbérleti szerződést a jegyző által az előhaszonbérleti jog gyakorlására nyitva álló 15 napos határidő utolsó napjaként a haszonbérleti szerződésen megjelölt napot követő legközelebbi munkanapon veszi le, és ezzel egyidejűleg a levétel időpontjáról a jegyző részére elektronikus úton automatikus igazolást küld. A működtető szervezet a befogadott haszonbérleti szerződéseket 5 évig köteles megőrizni. A jegyző a közzétételre megküldött haszonbérleti szerződésre a kormányzati portálról történő levétel napján rávezeti a levétel napját, valamint az elektronikus közzététel megtörténtének tényét. A haszonbérleti szerződés tájékoztató jelleggel történő kifüggesztése esetén a jegyző a levétellel egy időben rávezeti a kifüggesztett szerződésre a levétel napját, és a kifüggesztett szerződéspéldányt az okirattárában helyezi el.
+
+(2a)[^52] Amennyiben a Földforgalmi tv. 49. § (3) bekezdésében meghatározott 15 napos határidő utolsó napja olyan nap, amelyen a polgármesteri hivatalnál a munka szünetel, a határidő a legközelebbi munkanapon jár le.
+
+(3)[^53] A jegyző a Földforgalmi tv. 50. § (1) bekezdés a) pontja szerinti esetben az ott meghatározott dokumentumokat a földforgalmi hatósági eljárásokat támogató elektronikus rendszer útján küldi meg a mezőgazdasági igazgatási szerv részére. A jegyző az irattovábbítás tényéről – azzal egyidejűleg – értesíti a kérelmező haszonbérbeadót.
+
+(4)[^54]
+
+(5)[^55] A Földforgalmi tv. 50. § (1) bekezdése szerinti iratjegyzéknek az elfogadó jognyilatkozatot benyújtó
+
+a) természetes személy
+
+aa) természetes személyazonosító adatait,
+
+ab) lakcímét,
+
+b) gazdálkodó szervezet
+
+ba) megnevezését,
+
+bb) székhelyét,
+
+bc) képviseletében eljáró személy családi és utónevét, képviselői minőségét és lakcímét, valamint
+
+c) a jognyilatkozat benyújtásának időpontját
+
+kell tartalmaznia.
+
+(6) Ha nem került elfogadó jognyilatkozat benyújtásra, az iratjegyzékben ennek tényét kell rögzíteni.
+
+## 3. Az osztatlan közös tulajdonban álló földet érintően megkötött haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó különös szabályok
+
+### 12. §
+
+(1)[^56] Ha az osztatlan közös tulajdonban álló földet érintően a Fétv. alapján az egységes okiratba foglalt haszonbérleti szerződés úgy jött létre, hogy a szerződés tartalmát tulajdonostársanként külön-külön okiratba foglalták, a tulajdonostársakkal önállóan kötött haszonbérleti szerződéseket együttesen, összefűzve kell a jegyző részére megküldeni. Ez esetben a haszonbérleti szerződéshez csatolni kell a haszonbérlő írásbeli nyilatkozatát arról, hogy a tulajdonostársakkal önállóan kötött haszonbérleti szerződések tartalmilag megegyeznek, az eltérés kizárólag a haszonbérbeadó tulajdonostársak személyében, és az őket megillető tulajdoni hányadnak megfelelő azon terület tekintetében áll fenn, amelyet haszonbérlő részére használatra átengednek.
+
+(1a)[^57]
+
+(2)[^58] A közzétételi kérelemnek a jegyző részére történő benyújtására, a hirdetményi úton történő közlésre, valamint az irattovábbításra a 6–11. §-ban foglaltakat a (3)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(3)[^59] A közzétételi kérelemhez csatolni kell a 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közleményt (a továbbiakban: közzétételi közlemény) is.
+
+(4)[^60] A közzétételi közlemény hiányos benyújtása esetén is alkalmazni kell a 3. § (1)–(3) bekezdésében foglaltakat.
+
+(5)[^61] A jegyzőnek a részére a mezőgazdasági igazgatási szerv által megküldött, illetve a hozzá benyújtott, hiánytalanul kitöltött közzétételi közlemény egyik példányán kell felismerhetetlenné tenni a Földforgalmi tv. 49. § (2) bekezdésében előírtak szerinti természetes személyazonosító adatokat, valamint az aláírásokat, és ezt kell a kormányzati portálon közzétenni.
+
+(6)[^62] A Földforgalmi tv. 50. § (1) bekezdése szerinti irattovábbítás során a közzétett közzétételi közleményt, a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást is meg kell küldeni a közzétételi kérelmet benyújtó haszonbérbeadó tulajdonostárs, illetve a mezőgazdasági igazgatási szerv részére.
+
+## 4. Elektronikus tájékoztató
+
+### 13. §[^63]
+
+(1) Az elővásárlásra, valamint az előhaszonbérletre jogosultak tájékoztatása céljából elektronikus tájékoztatót kell közzétenni a kormányzati portálon. Az elektronikus tájékoztató közzététele iránt a jegyzőnek az adásvételi vagy a haszonbérleti szerződés, illetve a közzétételi közlemény (e §-ban a továbbiakban együtt: szerződés) kormányzati portálon való közzététel céljából történő megküldésével egyidejűleg kell intézkednie, és a működtető szervezet részére megküldenie.
+
+(2) Az (1) bekezdés szerinti elektronikus tájékoztató a következő adatokat tartalmazza:
+
+a) a föld fekvése szerint illetékes települési önkormányzat,
+
+b) a szerződés kormányzati portálon való közzétételének időpontja és a Földforgalmi tv. 21. § (3) bekezdése, illetve a 49. § (3) bekezdése alapján az elővásárlási, illetve előhaszonbérleti jog gyakorlására nyitva álló határidő utolsó napja,
+
+c) annak megjelölése, hogy a szerződés föld adásvételére vagy haszonbérletére vonatkozik,
+
+d) a szerződésben szereplő
+
+da) földrészlet (földrészletek) adatai: település, helyrajzi szám, művelési ág, területnagyság, tulajdoni hányad,
+
+db) ellenszolgáltatásként megjelölt vételár vagy haszonbér megjelölése.
+
+(3) Az elektronikus adatlapnak a kormányzati portálon való közzététele céljából a jegyző a (2) bekezdésben foglalt adatokat – a földügyért felelős miniszter által erre a célra rendszeresített, a kormányzati portálon elérhető elektronikus űrlapon, jogszabályban meghatározott biztonságos elektronikus dokumentumtovábbító szolgáltatás segítségével – a szerződéssel egyidejűleg megküldi a működtető szervezetnek.
+
+(4) A működtető szervezet köteles az elektronikus tájékoztatót a szerződéssel együtt a kormányzati portálon közzétenni, és a közzététel időpontjáról és tartalmáról automatikus igazolást küldeni a jegyző részére. A jegyző köteles meggyőződni arról, hogy az elektronikus adatlap a kormányzati portálon közzétételre került. Ennek elmaradását haladéktalanul, igazolt módon jeleznie kell a működtető szervezetnek.
+
+(5) A működtető szervezet a kormányzati portálról az elektronikus tájékoztatót a jegyző által az elővásárlási, illetve előhaszonbérleti jog gyakorlására nyitva álló határidő utolsó napjaként megjelölt napot követő legközelebbi munkanapon veszi le – a szerződéssel egyidejűleg –, és a levétel időpontjáról automatikus igazolást küld a jegyző részére. A működtető szervezet a befogadott elektronikus űrlapok (2) bekezdésben foglalt adatait 5 évig köteles megőrizni.
+
+(6) Az elektronikus tájékoztató közzétételéhez szükséges elektronikus űrlap kitöltéséért, valamint a szerződés anonimizálásáért és a szerződésre rávezetett adatokért a jegyző, az elektronikus adatlap, valamint a szerződés közzétételéért a működtető szervezet felelős.
+
+## 5. Záró rendelkezések
+
+### 14. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2013. december 15-én lép hatályba.
+
+(2) A 17. § (2) és (3) bekezdése 2014. március 1-jén lép hatályba.
+
+(3) A 16. § 2014. március 1-jén hatályát veszti.
+
+### 15. §
+
+E rendelet rendelkezéseit
+
+a) a 2013. december 15-e és a Fétv. 52. § (2) bekezdésében meghatározott időpont között közzétett (közölt) haszonbérleti ajánlatokra,
+
+b) a 2013. december 15-én vagy azt követően közzétett (közölt) haszonbérleti szerződésekre és
+
+c) a 2014. március 1-jén vagy azt követően közzétett (közölt) adásvételi szerződésekre
+
+kell alkalmazni.
+
+### 16. §[^64]
+
+Az egyes földügyi tárgyú kormányrendeletek módosításáról szóló 341/2016. (XI. 17.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 2. § (1) és (1a) bekezdését, 3. § (4) és (4a) bekezdését, 5. § (1), (1a) és (1b) bekezdését, 6. § (1) és (2) bekezdését, 11. § (1), (2) és (2a) bekezdését a MódR. hatálybalépésének[^65] napján vagy azt követően közzétett vagy közölt adásvételi és haszonbérleti szerződésekre kell alkalmazni.
+
+### 17. §[^66]
+
+Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+### 18. §[^67]
+
+E rendeletnek az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló 474/2013. (XII. 12.) Korm. rendelet módosításáról szóló 593/2020. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésének[^68] napján vagy azt követően a jegyző részére megküldött adásvételi és haszonbérleti szerződésekre kell alkalmazni.
+
+### 19. §[^69]
+
+E rendeletnek a földügyi tárgyú rendeletek módosításáról szóló 170/2023. (V. 12.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 2. §-át, 2/A. §-át, 3. § (1), (3a), (4), (4a) és (5) bekezdését, 4. §-át, 5. § (2) bekezdését, 6. § d)–j) pontját, 7. § (1), (1a), (1b) és (2) bekezdését, 10. §-át, 11. § (3) bekezdését, 12. § (1), (1a), (2), (3), (4) és (5) bekezdését, valamint 4. és 5. mellékletét a Módr3. hatálybalépését[^70] követően benyújtott adásvételi és haszonbérleti szerződésekre kell alkalmazni.
+
+## 1. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^71]
+
+**Az adásvételi szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma**
+
+I. A kérelmező által megadandó tartalmi elemek:
+
+1\. A tulajdonos (eladó), mint kérelmező adatai:
+
+1.1. a természetes személy kérelmező
+
+a) természetes személyazonosító adatai,
+
+b)[^72] lakcíme.
+
+1.2. A gazdálkodó vagy egyéb szervezet kérelmező
+
+a) megnevezése,
+
+b) székhelye,
+
+c) képviseletében eljáró személy családi és utóneve, képviselői minősége, lakcíme.
+
+2\. Az adásvételi szerződés tárgyát képező földre vonatkozó adatok földrészletenkénti bontásban:
+
+a) a település neve,
+
+b) a földrészlet
+
+ba) helyrajzi száma,
+
+bb) területnagysága,
+
+bc) művelési ága,
+
+c) az átruházással érintett tulajdoni hányad.
+
+3\. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok:
+
+a kérelemhez csatolt eredeti adásvételi szerződések példányszáma, pótlapok száma.
+
+4\. A kérelmező közzététel iránti kérelme, a kérelmező aláírása, gazdálkodó szervezet, egyéb szervezet kérelmező esetében a bélyegzőlenyomata, és az aláírás dátuma.
+
+5\. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak és az adásvételi szerződésben foglaltaknak megfelelnek.
+
+**II. A jegyző által feltüntetendő tartalmi elemek:**
+
+1\. A postai vagy elektronikus úton érkező közzétételi kérelem esetén a kérelem érkezési ideje.
+
+2\. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
+
+3\. A jegyző aláírása, bélyegzője és az aláírás dátuma.
+
+4.[^73]
+
+## 2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^74]
+
+**A haszonbérleti szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma**
+
+I. A kérelmező által megadandó tartalmi elemek:
+
+1\. A haszonbérbeadó, mint kérelmező adatai:
+
+1.1. a természetes személy kérelmező
+
+a) természetes személyazonosító adatai,
+
+b)[^75] lakcíme.
+
+1.2. A gazdálkodó vagy egyéb szervezet kérelmező
+
+a) megnevezése,
+
+b) székhelye,
+
+c) képviseletében eljáró személy családi és utóneve, képviselői minősége, lakcíme.
+
+2\. A haszonbérleti szerződés tárgyát képező földre vonatkozó adatok földrészletenkénti bontásban:
+
+a) a település neve,
+
+b) a földrészlet helyrajzi száma.
+
+3\. A 2. pontban megjelölt földrészletek esetében földrészletenkénti bontásban
+
+a) a haszonbérlettel érintett terület nagysága,
+
+b) a haszonbérlettel érintett terület művelési ága alrészletenkénti bontásban,
+
+c) a haszonbér mértéke,
+
+d) a haszonbérlet kezdetének és befejezésének időpontja.
+
+4\. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok:
+
+a) a kérelemhez csatolt eredeti haszonbérleti szerződések példányszámának, pótlapok oldalszámának megjelölése,
+
+b) az osztatlan közös tulajdonban álló földet érintően, ha a haszonbérleti szerződés a haszonbérbeadó tulajdonostársanként külön okiratonként készült
+
+ba) a haszonbérlőnek a 12. § (1) bekezdés szerinti nyilatkozata,
+
+bb) 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közzétételi közlemény.
+
+5\. A kérelmező közzététel iránti kérelme, a kérelmező aláírása, gazdálkodó, vagy egyéb szervezet kérelmező esetében a bélyegzőlenyomata, és az aláírás dátuma.
+
+6\. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak és a haszonbérleti szerződésben foglaltaknak megfelelnek.
+
+**II. A jegyző által feltüntetendő tartalmi elemek:**
+
+1\. A postai vagy elektronikus úton érkező közzétételi kérelem esetén a kérelem érkezési ideje.
+
+2\. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
+
+3\. A jegyző aláírása, bélyegzője és az aláírás dátuma.
+
+4.[^76]
+
+## 3. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^77]
+
+**Tulajdonostársanként külön okiratba foglalt haszonbérleti szerződés esetében a közzétételre kerülő közzétételi közlemény tartalma**
+
+A kérelem benyújtására jogosult, haszonbérbeadó tulajdonostárs által megadandó tartalmi elemek:
+
+1\. A haszonbérbeadó tulajdonostársak adatai személyenként:
+
+1.1. természetes személy haszonbérbeadó esetében
+
+a) a természetes személyazonosító adatai,
+
+b)[^78] a lakcíme.
+
+1.2. A gazdálkodó vagy egyéb szervezet haszonbérbeadó esetében
+
+a) a megnevezése,
+
+b) a székhelye,
+
+c) a képviseletében eljáró személy családi és utóneve, képviselői minősége, lakcíme.
+
+2\. A haszonbérlő adatai:
+
+2.1. természetes személy haszonbérlő esetében
+
+a) a természetes személyazonosító adatai,
+
+b)[^79] lakcíme,
+
+c) állampolgársága.
+
+2.2. A gazdálkodó vagy egyéb szervezet haszonbérlő esetében a
+
+a) a megnevezése,
+
+b) a székhelye, telephelye,
+
+c) a képviseletében eljáró személy családi és utóneve, képviselői minősége, lakcíme.
+
+3\. A haszonbérleti szerződés tárgyát képező földre vonatkozó adatok földrészletenkénti bontásban:
+
+a) a település neve,
+
+b) a földrészlet helyrajzi száma.
+
+4\. A 3. pontban megjelölt földrészletek esetében földrészletenkénti bontásban
+
+a) a haszonbérlettel érintett terület nagysága,
+
+b) a haszonbérlettel érintett terület művelési ága alrészletenkénti bontásban,
+
+c) a haszonbér mértéke,
+
+d) a haszonbérlet kezdetének és befejezésének időpontja.
+
+5\. A kérelmező haszonbérbeadó tulajdonostárs aláírása, gazdálkodó szervezet haszonbérbeadó esetében a bélyegzőlenyomata, a képviselő aláírása, valamint az aláírás dátuma.
+
+6\. A kérelmező haszonbérbeadó tulajdonostárs nyilatkozata arról, hogy a közleményben feltüntetett adatok a valóságnak és a haszonbérleti szerződésben foglaltaknak megfelelnek.
+
+## 4. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^80]
+
+## 5. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^81]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdését a 91/2014. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte, újonnan a 103/2018. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdését a 91/2014. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^4]: A 2. § a 170/2023. (V. 12.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (2) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (3) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (4) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (5) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^10]: A 2. § (6) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^11]: A 2/A. §-t a 481/2024. (XII. 31.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte, újonnan a 420/2025. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^12]: A 3. § (1) bekezdése a 170/2023. (V. 12.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 481/2024. (XII. 31.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (1a) bekezdését az 593/2020. (XII. 17.) Korm. rendelet 2. §-a iktatta be, a 170/2023. (V. 12.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
+[^14]: A 3. § (2) bekezdés b) pontja a 481/2024. (XII. 31.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (2) bekezdés c) pontját a 481/2024. (XII. 31.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^16]: A 3. § (3a) bekezdését a 170/2023. (V. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege e a 481/2024. (XII. 31.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. § (4) bekezdése a 170/2023. (V. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 481/2024. (XII. 31.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
+[^18]: A 3. § (4a) bekezdését újonnan a 170/2023. (V. 12.) Korm. rendelet 19. § (3) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^19]: A 3. § (5) bekezdését az 593/2020. (XII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 170/2023. (V. 12.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § (6) bekezdését az 593/2020. (XII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^21]: A 3. § (7) bekezdését az 593/2020. (XII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 170/2023. (V. 12.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^22]: A 3. § (8) bekezdését az 593/2020. (XII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 3. § (9) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^24]: A 4. § a 170/2023. (V. 12.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^25]: A 4. § (1) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^26]: A 4. § (2) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § d) pontja hatályon kívül helyezte.
+[^27]: Az 5. § (1) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 4. §-ával megállapított, a 170/2023. (V. 12.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^28]: Az 5. § (1a) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 8. §-a iktatta be, szövege a 170/2023. (V. 12.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^29]: Az 5. § (1b) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 8. §-a iktatta be.
+[^30]: Az 5. § (2) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (3) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
+[^32]: Az 5. § (5) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^33]: A 6. § az 593/2020. (XII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^34]: A 6. § d) pontja a 170/2023. (V. 12.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^35]: A 6. § e) pontja a 170/2023. (V. 12.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^36]: A 6. § f) pontja a 170/2023. (V. 12.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^37]: A 6. § g) pontját a 170/2023. (V. 12.) Korm. rendelet 22. §-a iktatta be.
+[^38]: A 6. § h) pontját a 170/2023. (V. 12.) Korm. rendelet 22. §-a iktatta be.
+[^39]: A 6. § i) pontját a 170/2023. (V. 12.) Korm. rendelet 22. §-a iktatta be.
+[^40]: A 6. § j) pontját a 170/2023. (V. 12.) Korm. rendelet 22. §-a iktatta be.
+[^41]: A 7. § (1) bekezdés nyitó szövegrésze a 170/2023. (V. 12.) Korm. rendelet 28. § b)–c) pontja, a 481/2024. (XII. 31.) Korm. rendelet 29. § e)–f) pontja, záró szövegrésze a 170/2023. (V. 12.) Korm. rendelet 28. § b) pontja módosított szöveg.
+[^42]: A 7. § (1a) bekezdését a 170/2023. (V. 12.) Korm. rendelet 23. § (1) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § g) pontja hatályon kívül helyezte.
+[^43]: A 7. § (1b) bekezdését a 170/2023. (V. 12.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^44]: A 7. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 481/2024. (XII. 31.) Korm. rendelet 29. § h) pontja szerint módosított szöveg.
+[^45]: A 7. § (3) bekezdését a 170/2023. (V. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
+[^47]: A 9. § a 481/2024. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^48]: A 10. § a 170/2023. (V. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^49]: A 10. § (1) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 29. § j) pontja hatályon kívül helyezte.
+[^50]: A 11. § (1) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^51]: A 11. § (2) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^52]: A 11. § (2a) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 10. §-a iktatta be.
+[^53]: A 11. § (3) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^54]: A 11. § (4) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^55]: A 11. § (5) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
+[^56]: A 12. § (1) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
+[^57]: A 12. § (1a) bekezdését a 170/2023. (V. 12.) Korm. rendelet 26. § (1) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § k) pontja hatályon kívül helyezte.
+[^58]: A 12. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 481/2024. (XII. 31.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
+[^59]: A 12. § (3) bekezdése a 170/2023. (V. 12.) Korm. rendelet 28. § e) pontja, a 481/2024. (XII. 31.) Korm. rendelet 29. § l) pontja szerint módosított szöveg.
+[^60]: A 12. § (4) bekezdése a 170/2023. (V. 12.) Korm. rendelet 28. § f) pontja, a 481/2024. (XII. 31.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
+[^61]: A 12. § (5) bekezdése a 170/2023. (V. 12.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^62]: A 12. § (6) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított, a 481/2024. (XII. 31.) Korm. rendelet 28. § h) pontja szerint módosított szöveg.
+[^63]: A 13. § az 593/2020. (XII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^64]: A 16. §-t a 14. § (3) bekezdése hatályon kívül helyezte, újonnan a 341/2016. (XI. 17.) Korm. rendelet 12. §-a iktatta be.
+[^65]: A hatálybalépés napja 2016. december 2.
+[^66]: Az újabb 16. §-t a 477/2016. (XII. 27.) Korm. rendelet 72. § (2) bekezdése iktatta be, számozását 17. §-a változatta és szövegét megállapította az 593/2020. (XII. 17.) Korm. rendelet 10. §-a.
+[^67]: A 18. §-t az 593/2020. (XII. 17.) Korm. rendelet 11. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2020. december 25.
+[^69]: A 19. §-t a 170/2023. (V. 12.) Korm. rendelet 27. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2023. május 15.
+[^71]: Az 1. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § b) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 474. § (2) bekezdése, az 593/2020. (XII. 17.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet I. pont 1.1. alpont b) pontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet II. pont 4. alpontját a 170/2023. (V. 12.) Korm. rendelet 29. § d) pontja hatályon kívül helyezte.
+[^74]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése, a 103/2018. (VI. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^75]: A 2. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^76]: A 2. melléklet II. pont 4. alpontját a 170/2023. (V. 12.) Korm. rendelet 29. § e) pontja hatályon kívül helyezte.
+[^77]: A 3. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § f) pontja, az 593/2020. (XII. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^78]: A 3. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^79]: A 3. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^80]: A 4. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (1) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § n) pontja hatályon kívül helyezte.
+[^81]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (2) bekezdése iktatta be, a 481/2024. (XII. 31.) Korm. rendelet 29. § n) pontja hatályon kívül helyezte.

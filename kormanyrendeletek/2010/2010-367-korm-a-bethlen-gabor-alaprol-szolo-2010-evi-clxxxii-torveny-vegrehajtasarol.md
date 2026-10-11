@@ -1,0 +1,453 @@
+---
+title: "367/2010. (XII. 30.) Korm. rendelet a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról"
+identifier: "367/2010. (XII. 30.) Korm. rendelet"
+njt_id: "2010-367-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/367"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-12-30
+in_force_from: 2011-01-01
+last_amended: 2025-06-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-367-20-22"
+retrieved: 2026-10-12
+---
+
+# 367/2010. (XII. 30.) Korm. rendelet a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról
+
+A Kormány a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés a)–e) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+### I. AZ ALAP SZERVEZETE
+
+### 1. A Bizottság
+
+#### 1. §
+
+A Bizottság feladatai:
+
+a) a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) elvi iránymutatásai alapján irányítja az Alap működését,
+
+b)[^1] a költségvetési törvény elfogadását követő két hónapon belül meghatározza a pályázati keretek között nyújtott összeget, és az Alap rendelkezésére álló forrás megváltozása esetén annak bekövetkezését követő negyvenöt napon belül módosítja azt,
+
+c) támogatási döntést hoz a pályázatok után fennmaradt támogatásrész felhasználásáról,
+
+d) döntést hoz a Kollégium döntés-előkészítő javaslatai alapján,
+
+e) kinevezi és felmenti a Kollégium elnökét és tagjait,
+
+f) jóváhagyja a Kollégium ügyrendjét,
+
+g) a tagjai tanácskozási joggal részt vehetnek a Kollégium ülésein.
+
+#### 2. §
+
+A Bizottság a döntéseit egyhangúlag hozza.
+
+### 2. A Kollégium
+
+#### 3. §
+
+(1) A Kollégiumot a Bizottság úgy hozza létre, hogy annak összetétele a támogatási célokból eredő szakmai szempontoknak megfeleljen.
+
+(2) A Kollégium működésének részletes szabályait a kollégiumi tagok több mint felének szavazatával elfogadott és a Bizottság által jóváhagyott ügyrend határozza meg.
+
+#### 4. §
+
+(1)[^2] A Kollégium tagjává a Bizottság – a Bethlen Gábor Alapkezelő Nonprofit Zrt. (a továbbiakban: Alapkezelő) vezérigazgatójának javaslatára – a központi államigazgatási szerveknek az adott támogatási területeken gyakorlattal és szakértelemmel, továbbá a támogatások odaítélésénél a döntések meghozatalához szükséges ismeretekkel rendelkező, a Magyar Köztársaság területén lakóhellyel rendelkező szakértőit nevezi ki.
+
+(2) Az (1) bekezdés szerint kinevezett tagok feladatai és kötelezettségei, valamint jogai azonosak. A Kollégium minden tagja egy szavazattal rendelkezik.
+
+(3)[^3] A Kollégium elnökét a Kollégium tagjai közül – az Alapkezelő vezérigazgatójának javaslatára – a Bizottság nevezi ki és menti fel.
+
+(4)[^4] Ha a Kollégium elnökének megbízatása megszűnik, az új elnök kinevezéséről a Bizottság tizenöt napon belül dönt. Amennyiben az új elnök kinevezéséig az elnök hatáskörébe tartozó ügyben halaszthatatlan döntésre van szükség, és nincs az elnöknek ügyrendben kijelölt helyettese, úgy az elnöki teendőket ideiglenesen az Alapkezelő vezérigazgatójának javaslata alapján a Bizottság által a Kollégium tagjai közül megbízott személy látja el.
+
+(5) A Kollégium elnökének és tagjainak járó költségtérítés elszámolásának rendjét a Bizottság határozza meg.
+
+(6) A Kollégium elnöke és tagjai a feladatkörük ellátása során okozott kárért a polgári jog általános szabályai szerint felelnek.
+
+#### 5. §
+
+(1) A Kollégium az üléseit szükség szerint tartja az ügyrendjében meghatározott olyan időközönként, hogy a támogatások folyamatos elbírálása biztosítható legyen.
+
+(2)[^5] Az üléseket az elnök legalább az ülés előtt nyolc nappal, a napirend megjelölésével, írásban hívja össze. A Kollégiumot az elnök akadályoztatása esetén a napirend megjelölésével bármelyik tag összehívhatja.
+
+(3) A Kollégium elnöke köteles az ülést összehívni, ha azt a Bizottság elrendeli.
+
+(4) A Kollégium bármely tag indítványára, szótöbbséggel zárt ülésről vagy a napirend zárt tárgyalásáról határozhat, ha a személyiségi jogok védelme, adatvédelmi szempont azt szükségessé teszi, vagy azt a Kollégium indokoltnak tartja.
+
+(5)[^6] A Kollégium ülésén tanácskozási joggal részt vehetnek a Bizottság tagjai, az Alapkezelő vezérigazgatója vagy az általuk kijelölt személyek. A Kollégium az ügyrendjében egyéb tanácskozási joggal rendelkező állandó meghívottakat is meghatározhat. A Kollégium ülésén bármely tag indítványára, a tagok többségének támogatása mellett szakértő is részt vehet tanácskozási joggal.
+
+(6) A Kollégium ülésén az ügyrendben megállapított rend szerint helyettesítésnek van helye, de a szavazati jog a helyettesítő személyre át nem ruházható.
+
+(7) A Kollégium határozatképes, ha az összes tagjának több mint fele jelen van. A Kollégium a döntését a jelenlévő tagok több mint felének egybehangzó szavazatával hozza.
+
+(8)[^7] Ha a Kollégium nem határozatképes, az elnök a következő ülést öt napon belül köteles összehívni.
+
+#### 6. §
+
+(1) A Kollégium elnökének és tagjainak kinevezésüket megelőzően írásban kell nyilatkozniuk arról, hogy velük kapcsolatban nem áll fenn a törvényben meghatározott összeférhetetlenség.
+
+(2)[^8] Ha az összeférhetetlenség a kinevezést követően merül fel, úgy az érintett személy köteles azt a nemzetpolitikáért felelős államtitkárnak (a továbbiakban: államtitkár) az összeférhetetlenségi ok felmerülését követő 5 napon belül bejelenteni és harminc napon belül az összeférhetetlenségi okot megszüntetni. A megbízatás megszűnését a Bizottság állapítja meg, és erről – az államtitkár útján – a Kollégium elnökét értesíti, aki a megbízatás megszűnésének tényét a soron következő ülésen bejelenti.
+
+(3) Amíg az összeférhetetlenné vált személy az összeférhetetlenségi okot nem szünteti meg, addig a kollégiumi döntéshozatalban nem vehet részt.
+
+#### 7. §
+
+A Kollégium előkészíti
+
+a) a támogatási elveket figyelembevevő pályázati stratégiával,
+
+b) a pályázatok elbírálásával,
+
+c) a támogatás nyújtásával, valamint
+
+d) az ügyrendjével
+
+kapcsolatos döntéseket.
+
+### II. AZ ALAPKEZELŐ
+
+#### 8. §[^9]
+
+(1) Az Alapkezelő felelős az Alap költségvetésének megtervezéséért, a költségvetés végrehajtásáért és a költségvetés végrehajtásáról történő beszámolás teljesítéséért, továbbá az Alapból nyújtott támogatásokkal kapcsolatos pályázatok kezeléséért és más támogatáskezelési feladatok ellátásáért. Az Alapkezelő ennek keretében
+
+1\. biztosítja a Kollégium működési feltételeit,
+
+2\. előkészíti és végrehajtja a Bizottság döntéseit,
+
+3\. biztosítja az Alap kezeléséhez szükséges személyi és tárgyi feltételeket, az alapkezelésre átvett pénzeszközök elkülönített kezelését, beszámol az alapkezelés tárgyidőszakban felmerült költségeiről,
+
+4\. megtervezi és nyilvántartja az Alap előirányzatait, kezdeményezi az előirányzatok módosítását,
+
+5\. működteti a pályázati rendszert, ideértve a nem pályázati úton nyújtott támogatások lebonyolítását is,
+
+6\. előkészíti és megköti a pályázókkal és az Alapból nyújtott támogatás más kedvezményezettjével a támogatási szerződéseket, illetve előkészíti és kiadja a támogatói okiratokat, és azokról nyilvántartást vezet,
+
+7\. kifizeti a támogatásokat, nyilvántartásba veszi az azokkal összefüggő elszámolási kötelezettségeket,
+
+8\. ellenőrzi a támogatási szerződésekben, támogatói okiratokban foglalt kötelezettségek teljesítését,
+
+9\. ellenőrzi a kedvezményezettek által benyújtott beszámolókat, az elfogadott beszámoló alapján kiállítja a teljesítési igazolásokat, nyilvántartásba veszi és kezeli a felmerült követeléseket,
+
+10\. teljesíti az az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) meghatározott adatszolgáltatási kötelezettségeket,
+
+11\. összeállítja az Alap éves költségvetési beszámolóját, valamint a zárszámadáshoz kapcsolódó adatszolgáltatást,
+
+12\. biztosítja a jogszabályban az Alap működésével összefüggésben meghatározott nyilvánosságot, ideértve az Alap honlapjának működtetését is,
+
+13\. lebonyolítja és összehangolja a támogatásközvetítési feladatokat a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok tekintetében,
+
+14\. ellátja mindazokat a feladatokat, amelyeket jogszabály az Alapkezelő számára előír.
+
+(2) Az Alapkezelő az államtitkár felkérésére és iránymutatása szerint közreműködik a nemzetpolitikai támogatási stratégia kialakításában.
+
+(3) A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 4. § (6) bekezdése szerinti alapkezelői működési kiadások forrásait – az Alapnál jelentkező közvetlen bankköltség, illeték és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján kell átutalni. Az Alapkezelő az ekként átvett pénzeszközök felhasználásáról az éves beszámolója összeállítását követő 30 napon belül elszámolást terjeszt elő a Bizottság részére.
+
+(4) A Bgatv. 9/C. §-a szerinti, jogszabályban meghatározott egyes feladatai ellátásával összefüggő működési kiadásaihoz szükséges forrásokat az Alapkezelő részére a fejezetet irányító szervvel kötött kezelő szervi megállapodás alapján kell biztosítani. A kezelő szervi megállapodásban rögzíteni kell a felek közötti együttműködés rendjét, az Alapkezelő által ellátott feladat végzésével járó valamennyi működési költség finanszírozását, valamint az elszámolással kapcsolatos szabályokat.
+
+### III. A MÁÉRT
+
+#### 9. §
+
+(1) A MÁÉRT az Alap legfelsőbb javaslattevő fóruma.
+
+(2) A MÁÉRT elvi iránymutatásait a Bizottság és a Kollégium köteles figyelembe venni.
+
+(3) A MÁÉRT mellett szakbizottságok működnek. A szakbizottságok az egyes szakterületekre vonatkozóan elvi-szakmai iránymutatást adnak és ajánlásokat fogalmaznak meg a források elosztására.
+
+(4)[^10] A MÁÉRT mellett két szakbizottság működik:
+
+a) a Gazdasági, Digitális, Önkormányzati, Jogi, Védelmi és Biztonságpolitikai, valamint
+
+b) az Oktatási, Kulturális, Demográfiai és Ifjúsági Szakbizottság.
+
+(5)[^11]
+
+#### 10. §[^12]
+
+A MÁÉRT szakbizottságai évente előzetes javaslatot tesznek az Alapból nyújtható támogatások céljaira, prioritásaira, valamint a támogatás elveire. A szakbizottságok javaslataikat az államtitkárnak küldik meg, aki azokat továbbítja a Bizottságnak és a Kollégiumnak.
+
+### IV. AZ ALAP ÁLTAL BIZTOSÍTOTT TÁMOGATÁSOK RENDSZERE
+
+### 3.[^13]
+
+### 4. Az állami támogatásokra vonatkozó speciális szabályok
+
+#### 18. §[^19]
+
+Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 27. §-ával összhangban kulturális célú támogatás nyújtható
+
+a)[^20] a Bgatv. 3. § a) pont *aa)* és *ab)* alpontjában meghatározott jogcímeken egyéni vállalkozó részére,
+
+b) a Bgatv. 3. § b) pont ba) alpontjában felsorolt jogcímen a kutatást, fejlesztést végző intézmény és háttérintézmény, szociális, felzárkózást és szociális integrációt elősegítő szervezet, kulturális szervezet, tömegtájékoztatási szervezet, vallási szervezet, ifjúsági szervezet részére,
+
+c) a Bgatv. 3. § c) pont *ca)* és *cb)* alpontjában meghatározott jogcímeken,
+
+d) a Bgatv. 3. § d) pontjában felsorolt támogatottak részére a Bgatv. 3. § d) pont da) alpontjában meghatározott jogcímeken.
+
+### V. A PÁLYÁZATI RENDSZER
+
+#### 19. §
+
+(1)[^21]
+
+(2)[^22] Az Alapkezelő vezérigazgatója minden évre a Kollégiummal együttműködve pályázati stratégiát készít, amit a Bizottság hagy jóvá.
+
+(3)[^23] Az Alapkezelő – a Kollégium állásfoglalására figyelemmel – a (2) bekezdésben meghatározott stratégia alapján kidolgozza az egyes pályázati kiírásokat, és – a Bizottság jóváhagyását követően – gondoskodik azok közzétételéről.
+
+(4)[^24]
+
+(5)[^25] A pályázatok formai vizsgálatát az Alapkezelő végzi.
+
+(6)[^26] Az Alapkezelő befogadja és a Kollégium döntés-előkészítése érdekében a pályázatokban megjelölt határidő lejártát, illetve folyamatos elbírálás esetén a pályázat beérkezését követő negyvenöt napon belül feldolgozza a beérkezett pályázatokat úgy, hogy erről folyamatos tájékoztatást nyújt az államtitkár részére, valamint összesítőt és döntési javaslatot készít, melyet az államtitkár ellenjegyzésével a Kollégium ülése elé terjeszt. Az Alapkezelő gondoskodik arról, hogy a Kollégium valamennyi tagja az ülés előtt legalább nyolc nappal kézhez kapja az összesítőt.
+
+(7) A Kollégium a (6) bekezdésben foglaltak szerint elkészített összesítő alapján – az összesítő megérkezését követő ülésén – javaslatot tesz a Bizottságnak pályázatok elfogadásáról, a támogatás formájáról és összegéről, amelyhez az összesítés mellett az Alapkezelőtől magához kérheti a benyújtott pályázatot és annak mellékleteit is.
+
+(8)–(9)[^27]
+
+#### 20. §
+
+(1)[^28] A Kollégiumnak a pályázatok tárgyában készített döntés-előkészítő javaslatát az Alapkezelő a beérkezéstől számított nyolc napon belül felterjeszti a Bizottságnak jóváhagyásra.
+
+(2) A Bizottság a döntéséről az Alapkezelő útján értesíti a Kollégiumot, továbbá intézkedik a döntések végrehajtásáról.
+
+(3) A Bizottság elutasító döntéséről az Alapkezelő nyolc napon belül írásban értesíti a pályázat benyújtóját.
+
+### 5.[^30]
+
+### 6.[^32]
+
+### 7.[^33]
+
+### 8.[^35]
+
+### 9.[^36]
+
+### 10.[^39]
+
+## V/A. Fejezet[^43] — EGYEDI DÖNTÉSSEL BIZTOSÍTOTT TÁMOGATÁSOK
+
+### 10/A. [^44] A kérelem alapján biztosított támogatások szabályai
+
+#### 32/A. §
+
+(1)[^45] Az Alap terhére pályázati rendszeren kívül, kérelemre nyújtott támogatásról a Bizottság az Alapkezelő vezérigazgatójának az államtitkár által véleményezett javaslata alapján dönt.
+
+(2) Az Alapkezelő az (1) bekezdés szerinti döntés-előkészítése során meghívhatja véleményezésre az Alap támogatási céljai vonatkozásában feladat- és hatáskörrel rendelkező miniszter által vezetett minisztérium képviselőjét.
+
+(3)[^46]
+
+(4)[^47]
+
+## V/B. Fejezet[^48] — JOGSZABÁLY ALAPJÁN BIZTOSÍTOTT TÁMOGATÁSOK
+
+### 10/B. [^49] A normatív támogatások általános szabályai
+
+#### 32/B. §[^50]
+
+(1) Az Alap terhére a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) hatálya alá tartozó természetes személyek az e fejezetben meghatározottak szerinti, jogszabály alapján közvetlenül nyújtható támogatásban (a továbbiakban: normatív támogatás) részesülhetnek.
+
+(2) Normatív támogatás igénybevételére az Alapkezelő legalább évente a honlapján felhívást tesz közzé.
+
+(3) A normatív támogatásra irányuló kérelmet a felhívásban megállapított határnapig lehetséges benyújtani.
+
+(4) A normatív támogatásról a Bizottság az Alapkezelő javaslata alapján, annak elfogadásával dönt. Az Alapkezelő a támogatási döntés alapján támogatói okiratot bocsát ki. A normatív támogatás szempontjából támogatói okiratnak minősül a döntési lista alapján a kedvezményezettnek megküldött hivatalos értesítés is, ha abból a támogatásra vonatkozó döntés, a támogatás kedvezményezettje, valamint a támogatás célja és mértéke kitűnik.
+
+(5) A normatív támogatásokkal kapcsolatos egyes feladatok ellátására a támogató lebonyolító szervet vehet igénybe.
+
+(6)[^51] A normatív támogatás folyósítására – az adott állam sajátosságait figyelembe véve – lebonyolító szerv vagy az e célból kötött megállapodás alapján magyarországi székhelyű, az adott államban fiókteleppel rendelkező vagy az adott állam vonatkozásában határon átnyúló szolgáltatást nyújtó pénzügyi intézmény közreműködésével kerül sor.
+
+(7) Lebonyolító szerv igénybevétele esetén a támogatási döntést a lebonyolító szerv közli a támogatási kérelem benyújtójával. Az értesítésben közölni kell a támogatási döntést, a kedvezményezett megnevezését, a támogatás célját, a támogatás összegét és annak folyósítására vonatkozó tájékoztatást.
+
+(8)[^52] Az e fejezet szerinti normatív támogatásokra az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 51. § (1) bekezdését, 53/A. § (1) és (2) bekezdését, valamint az Ávr. 66. § (1) bekezdését, valamint (2) bekezdés 1–4., 8., 9., 11., 12., 16–18. pontját, 67. § (2) bekezdését, 68. §-át, 73. § (1) bekezdését, 77. §-át, 81. § c) és e) pontját, 88. § (3) bekezdését, 96. § b)–f) pontját, 97. § (1) és (3) bekezdését, 98. §-át, 99. § (1)–(3) bekezdését, 100. § (1) és (2) bekezdését kell megfelelően alkalmazni.
+
+(9)[^53] A normatív támogatásokkal kapcsolatos dokumentumokat a kedvezményezett és az Alapkezelő a támogatói okirat közlésétől vagy a (4) bekezdés szerinti hivatalos értesítés kézhezvételétől számított legalább három évig köteles megőrizni.
+
+### 10/C. [^54] Az oktatás-nevelési támogatások és a hallgatói támogatások
+
+#### 32/C. §[^55]
+
+(1) Az Alap terhére a Szátv.14. §-a szerinti oktatási támogatásként
+
+a) nevelési, oktatási, valamint tankönyv- és taneszköz-támogatást (a továbbiakban együtt: oktatás-nevelési támogatás) és
+
+b) a felsőoktatásban tanulók részére hallgatói támogatást (a továbbiakban: hallgatói támogatás)
+
+kell nyújtani.
+
+(2) Oktatás-nevelési támogatásra jogosult
+
+a) az az óvodáskorú gyermek, aki a felhívásban szereplő tanév kezdetétől az adott államban működő akkreditált óvodában magyar nyelvű nevelésben részesül,
+
+b) az az általános iskolai tanuló és a tizennyolcadik életévét be nem töltött vagy a tizennyolcadik életévét a felhívásban szereplő tanév végéig betöltő középiskolai tanuló, aki
+
+ba) az adott államban működő akkreditált oktatási intézményben alap- vagy középfokú tanulmányait magyar nyelven folytatja vagy – ha az állandó lakóhelyén, napi bejárással elérhető távolságon belül nem működik magyar nyelvű oktatási intézmény vagy magyar nyelvű tagozat – fakultatív oktatásban vesz részt, és
+
+bb) a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+
+c)[^56] az a középiskolai tanuló, aki a tanév megkezdéséig a felhívásban szereplő tizennyolcadik életévét betöltötte, de az adott állam oktatási rendszerének tanulmányi időszakra vonatkozó rendelkezései szerint kötelező képzésben részesül, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+
+d) az a sérült vagy halmozottan sérült magyar nemzetiségű kiskorú személy, aki nem akkreditált oktatási intézményben folytat magyar nyelvű tanulmányokat vagy egyéb magyar nyelvű nevelésben részesül és
+
+e) az a kiskorú személy, aki sajátos nevelési igényeinek megfelelő – részben vagy egészben magyar nyelvű – oktatásban vesz részt az adott államban működő akkreditált oktatási intézményben, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott.
+
+(3) Hallgatói támogatásra jogosult az a nappali tagozatos hallgató, aki tanulmányait az adott államban működő felsőoktatási intézményben, részben vagy egészben magyar nyelven folytatja.
+
+(4) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja meg.
+
+### 10/D. [^57] A szociális támogatások
+
+#### 32/D. §[^58]
+
+(1) Az Alap terhére a Szátv. hatálya alá tartozó természetes személyek az e § szerint szociális támogatásban részesülhetnek.
+
+(2)[^59] A szociális támogatás kedvezményezettje lehet a Szátv. szerinti szomszédos államban
+
+a) lakóhellyel rendelkező természetes személy, aki rendelkezik a tevékenységének ellátásához szükséges magyar nyelvtudással, és a szomszédos államban működő
+
+aa) köznevelési intézménnyel, szakképző intézménnyel, művészeti iskolával vagy a magyar nyelv oktatását végző egyéb oktatási-nevelési intézménnyel,
+
+ab) gyermekjóléti és gyermekvédelmi szolgáltatást és ellátást vagy javítóintézeti ellátást biztosító intézménnyel,
+
+ac) közművelődési intézménnyel,
+
+ad) egészségügyi intézménnyel,
+
+ae) sportegyesülettel, sportvállalkozással, sportiskolával vagy utánpótlás-nevelés fejlesztését végző alapítvánnyal vagy
+
+af) magyar nyelven publikáló nyomtatott vagy elektronikus médiummal
+
+foglalkoztatásra irányuló jogviszonyban áll [ideértve az *aa)–af)* alpont szerinti szervezetek alapfeladatainak ellátását segítő munkát végző természetes személyt is], vagy az *aa)–af)* alpont szerinti szervezettől ment nyugdíjba,
+
+b) lakóhellyel rendelkező szülő vagy egyéb törvényes képviselő, akinek gyermeke az adott szomszédos államban magyar nyelvű óvodai csoportba, illetve magyar tannyelvű köznevelési intézmény 1–4. osztályába jár, annak működési formájától függetlenül.
+
+(3) A (2) bekezdés a) pontja szerinti támogatás a felhívásban foglalt feltételeknek igazoltan megfelelő személy részére, az általa benyújtott kérelem alapján – a rendelkezésre álló támogatási keret kimerüléséig – nyújtható.
+
+(4) A (2) bekezdés b) pontja szerinti szociális támogatás a felhívásban foglalt feltételeknek igazoltan megfelelő gyermek étkeztetésének támogatása céljából, a gyermek szülője vagy más törvényes képviselője (gyámja, gondnoka stb.) kérelme alapján – a rendelkezésre álló támogatási keret kimerüléséig – nyújtható. Egy gyermek részére csak egy törvényes képviselői kérelem alapján nyújtható étkeztetési támogatás.
+
+## V/C. Fejezet[^60] — A KÖLTSÉGVETÉSI TÁMOGATÁSOK
+
+#### 32/E. §[^61]
+
+Az oktatási-nevelési céllal összefüggésben, a Bgatv. 1. § (2) bekezdés b) és d) pontja szerinti kedvezményezett részére nyújtott, beruházási célt szolgáló támogatásokra az Ávr. 75. § (1)–(3) és (3a) bekezdését, 76. § (1) bekezdését, 82. §-át, 87. §-át, 92. § (1) bekezdését, 93. § (1)–(3) és (5) bekezdését, valamint 98. §-át kell alkalmazni.
+
+#### 32/F. §[^62]
+
+(1) A Nemzeti Jelentőségű Intézmények és Programok körét a MÁÉRT iránymutatása alapján, az államtitkár javaslatára a Bizottság határozza meg minden évben.
+
+(2) Nemzeti Jelentőségű Intézmény olyan intézmény, illetve Program olyan program lehet, amely a határon túli magyarság közösségeiben nagy fokú szervezőerővel rendelkezik, továbbá a nemzeti identitás megőrzése érdekében nemzetstratégiai szempontból kiemelkedő szerepet tölt be oktatási, kulturális, egyházi és egyéb társadalomszervezési területeken.
+
+(3) A Nemzeti Jelentőségű Intézmények és Programok az Alap terhére éves támogatásban részesülhetnek.
+
+#### 32/G. §[^63]
+
+Az Alap terhére nyújtott határon túli költségvetési támogatásokkal kapcsolatos feladatokat az Áht. 49. §-a szerinti lebonyolító szerv az Alapkezelővel kötött megállapodás alapján látja el. A lebonyolító szerv további lebonyolító szervet nem bízhat meg. A lebonyolítási számlára és a lebonyolítás céljából rendelkezésre bocsátott összegre az Ávr. 65/C. § (2)–(5) bekezdését akkor kell alkalmazni, ha a lebonyolító szerv nem kincstári körbe tartozó vagy az Áht. 79. § (2)–(4d) bekezdése szerinti szervezet (a továbbiakban: határon túli szervezet). Ha a lebonyolító szerv határon túli szervezet, a lebonyolítás céljára rendelkezésre bocsátott összeget a lebonyolító szerv fizetési számlájára kell átutalni, a lebonyolítás céljából rendelkezésre bocsátott összeg felhasználására, elszámolására és visszafizetésére pedig az Ávr. 65/C. § (3) és (5) bekezdését kell alkalmazni azzal, hogy lebonyolítási számla alatt a lebonyolító szervnek azt a fizetési számláját kell érteni, amire a lebonyolítás céljából rendelkezésre bocsátott összeg átutalásra került.
+
+#### 32/H. §[^64]
+
+(1) A támogatási szerződés Bgatv. 3/A. §-ában foglaltak szerinti módosítása legfeljebb egy alkalommal abban az esetben lehetséges, ha a támogatás nyújtásának feltétele nem jogszabályon alapul, és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga van.
+
+(2) A támogatási szerződés (1) bekezdés szerinti módosítását a támogató vagy a kedvezményezett egyoldalúan, valamint a támogató és a kedvezményezett közösen is kezdeményezhetik.
+
+(3) A támogató a támogatási szerződésben meghatározott támogatási célt – ha az a kedvezményezett hátrányára történik – csak akkor módosíthatja, ha erről a felek a támogatási szerződésben megállapodtak, vagy a támogató általános szerződési feltételt alkalmaz, és az általános szerződési feltételben a támogató ezt kikötötte. A támogatói okiratban meghatározott támogatási cél támogató részéről történő módosítására az általános szerződési feltételekre történő kikötés szabálya irányadó.
+
+(4) A támogatási szerződés eredeti célja a kedvezményezett kezdeményezésére – az (1) bekezdésben foglaltakon túl – akkor is módosítható, ha a támogatott tevékenység eredeti célja meghiúsul, tartós akadályba ütközése a támogatási szerződésben meghatározott határidőhöz képest előreláthatóan eléri vagy meghaladja a három hónapos késedelmet, ideértve az ezen határidő-módosítások miatt változó támogatási intenzitás esetét is. A kedvezményezett által kezdeményezett támogatási szerződésben meghatározott eredeti cél módosításáról a támogató a kezdeményezés beérkezésétől számított negyvenöt napon belül dönt.
+
+(5) A támogató és a kedvezményezett a (3) és (4) bekezdésben foglaltaktól eltérően közösen is kezdeményezheti a támogatási szerződésben meghatározott támogatási cél módosítását, azzal, hogy a módosítás során a feleket nem köti a (4) bekezdésben foglalt határidő.
+
+(6) A támogatási szerződés (3)–(5) bekezdés szerinti módosítása esetén a kedvezményezett a támogatott tevékenység időtartama alatt felmerült, a támogatott tevékenység megvalósításához kapcsolódó költségekről az Ávr. 92–94. §-ában meghatározottak alapján elszámol a támogató felé.
+
+(7) A támogatási szerződés (3)–(5) bekezdés szerinti módosítása esetén a fel nem használt költségvetési támogatás összege az Ávr. 96. §-ában foglaltaktól eltérően nem minősül a támogatás jogosulatlan igénybevételének, ha azt a kedvezményezett – a támogató döntése alapján – egy összegben vagy részletekben visszatéríti.
+
+### VI.[^65] ZÁRÓ RENDELKEZÉSEK
+
+### 11.[^66]
+
+### 12. Záró rendelkezések
+
+#### 34. §
+
+(1) Ez a rendelet 2011. január 1-jén lép hatályba, rendelkezéseit a hatályba lépést megelőzően indult eljárásokban is alkalmazni kell.
+
+(2)[^68]
+
+#### 35. §[^69]
+
+A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet módosításáról szóló 500/2016. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 32/E. §-t a Módr. hatálybalépésekor[^70] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 36. §[^71]
+
+Az e rendelet 18. §-a szerinti támogatási kategória esetén 2018. szeptember 1-jéig lehet támogatási döntést hozni.
+
+#### 37. §[^72]
+
+A határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet, valamint a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet módosításáról szóló 264/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 32/B–32/D. §-t a Módr2. hatálybalépésekor[^73] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 38. §[^74]
+
+A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet és a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet módosításáról szóló 221/2019. (IX. 17.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 32/B. § (9) bekezdését és a Módr3.-mal módosított 32/B. § (8) bekezdését a Módr3. hatálybalépését[^75] megelőzően létrejött támogatási jogviszonyokban és a Módr3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § b) pontja a 20/2015. (II. 17.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg. [A 4. § (1) bekezdésében a 201/2011. (X. 7.) Korm. rendelet 6. § (4) bekezdésével elrendelt módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át, mivel e módosító rendelet 6. § (2) bekezdése alapján e módosítás 2012. január 1-jén lép hatályba, azonban e módosító rendelet a 6. § (1) bekezdése alapján már hatályát vesztette 2011. október 9. napjával.]
+[^3]: A 4. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 5. § (5) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^7]: Az 5. § (8) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdése a 359/2014. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 8. § a 153/2018. (VIII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 9. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (5) bekezdését a 13/2020. (II. 7.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.
+[^12]: A 10. § a 201/2011. (X. 7.) Korm. rendelet 1. §-ával megállapított, a 359/2014. (XII. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^13]: A 3. alcímet (11–12. §) a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 18. § a 20/2015. (II. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 18. § a) pontja a 153/2018. (VIII. 31.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^21]: A 19. § (1) bekezdését a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 19. § (2) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^23]: A 19. § (3) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 9. §-ával megállapított, a 128/2014. (IV. 10.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^24]: A 19. § (4) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^25]: A 19. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 19. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 2. §-ával megállapított, a 359/2014. (XII. 29.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^27]: A 19. § (8)–(9) bekezdését a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 20. § (1) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^30]: Az 5. alcímet (22. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^32]: A 6. alcímet (23–25. §) a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 7. alcímet (26. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^35]: A 8. alcímet (27. §) a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^36]: A 9. alcímet (28. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^39]: A 10. alcímet (30–32. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^43]: Az V/A. Fejezetet (32/A–32/D. §) a 128/2014. (IV. 10.) Korm.rendelet 4. §-a iktatta be.
+[^44]: A 10/A. alcím címe a 20/2015. (II. 17.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^45]: A 32/A. § (1) bekezdése a 359/2014. (XII. 29.) Korm. rendelet 2. § d) pontja, a 264/2017. (IX. 11.) Korm. rendelet 14. § c) pontja, a 221/2019. (IX. 17.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^46]: A 32/A. § (3) bekezdését a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^47]: A 32/A. § (4) bekezdését a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^48]: Az V/B. fejezetet a 264/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.
+[^49]: A 10/B. alcím címe a 264/2017. (IX. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^50]: A 32/B. § a 264/2017. (IX. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^51]: A 32/B. § (6) bekezdése a 125/2025. (VI. 2.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^52]: A 32/B. § (8) bekezdése a 221/2019. (IX. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^53]: A 32/B. § (9) bekezdését a 221/2019. (IX. 17.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A 10/C. alcímet a 264/2017. (IX. 11.) Korm. rendelet 7. §-a iktatta be.
+[^55]: A 32/C. § a 264/2017. (IX. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^56]: A 32/C. § (2) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^57]: A 10/D. alcím a 264/2017. (IX. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^58]: A 32/D. § a 264/2017. (IX. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^59]: A 32/D. § (2) bekezdése a 13/2020. (II. 7.) Korm. rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^60]: A V/C. fejezetet a 264/2017. (IX. 11.) Korm. rendelet 11. §-a iktatta be.
+[^61]: A 32/E. §-t az 500/2016. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 264/2017. (IX. 11.) Korm. rendelet 12. §-ával megállapított, a 153/2018. (VIII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^62]: A 32/F. §-t a 153/2018. (VIII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^63]: A 32/G. §-t a 221/2019. (IX. 17.) Korm. rendelet 3. §-a iktatta be.
+[^64]: A 32/H. §-t a 138/2025. (VI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^65]: A VI. Fejezet címe a 13/2020. (II. 7.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
+[^66]: A 11. alcímet (33. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^68]: A 34. § (2) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^69]: A 35. §-t a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés c) pontja hatályon kívül helyezte, újonnan az 500/2016. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2016. december 29.
+[^71]: A 36. § a 20/2015. (II. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^72]: A 37. §-t a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 264/2017. (IX. 11.) Korm. rendelet 13. §-a iktatta be.
+[^73]: A hatálybalépés időpontja 2017. szeptember 12.
+[^74]: A 38. §-t újonnan a 221/2019. (IX. 17.) Korm. rendelet 4. §-a iktatta be.
+[^75]: A hatálybalépés időpontja 2019. szeptember 18.

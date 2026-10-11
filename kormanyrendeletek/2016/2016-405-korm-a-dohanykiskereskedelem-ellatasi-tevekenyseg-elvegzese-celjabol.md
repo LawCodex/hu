@@ -1,0 +1,155 @@
+---
+title: "405/2016. (XII. 10.) Korm. rendelet a dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékéről"
+identifier: "405/2016. (XII. 10.) Korm. rendelet"
+njt_id: "2016-405-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/405"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-10
+in_force_from: 2016-12-21
+last_amended: 2020-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-405-20-22"
+retrieved: 2026-10-12
+---
+
+# 405/2016. (XII. 10.) Korm. rendelet a dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékéről
+
+A Kormány a koncesszióról szóló 1991. évi XVI. törvény 30. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben (a továbbiakban: Dohánytörvény) meghatározott megbízható dohánykereskedővel vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés (a továbbiakban: koncessziós szerződés) alapján e tevékenységet gyakorló társaság (a továbbiakban: koncessziós társaság) legalább az e rendeletben meghatározott koncessziós díjat fizeti.
+
+(2) E rendelet értelmezése során a magyar vagy nemzetközi számviteli meghatározások, illetve követelmények csak akkor alkalmazandóak, ha erről e rendelet kifejezetten rendelkezik, vagy az e rendelet általános céljaival nem ellentétes.
+
+## 2. §
+
+(1) A koncessziós díj mértékét a (2)–(6) bekezdésben foglaltak szerint kell meghatározni azzal, hogy az nem lehet kevesebb, mint 100 millió forint egyetlen évben sem.
+
+(2) Első lépésben meg kell állapítani, hogy mekkora a tárgyévben a koncessziós társaságnál fennmaradó, a Dohánytörvény alapján a dohánytermékek értékesítésére számított – a koncessziós szerződés teljesítésével összefüggésben felmerült – árréstömeg, amely egyenlő az adott évben értékesített dohánytermékek a számviteli törvény szerint elszámolt nettó árbevételének és az értékesítés kapcsán elszámolt költség (ELÁBÉ) különbözetével, ide nem értve a Dohánytörvény 15/E. § (8) bekezdése alapján nyújtott pénzbeli visszatérítést (a továbbiakban: árréstömeg).
+
+(3) Második lépésben meg kell állapítani a koncessziós társaság dohánytermék értékesítéséből származó üzemi eredményét úgy, hogy annak során a koncessziós díj összege nem vehető figyelembe (a továbbiakban: előzetes üzemi eredmény). A dohánytermékek értékesítéséből származó előzetes üzemi eredmény kiszámításánál a dohánytermékek értékesítésének nettó árbevétele csökkentendő a dohánytermékek beszerzésének költségeivel, valamint a dohánytermékek forgalmazásához hozzárendelhető valamennyi, az 1. mellékletben felsorolt közvetlen és közvetett költséggel.
+
+(4) Harmadik lépésben meg kell állapítani a koncessziós társaság dohánytermék értékesítéséből származó üzemi eredményét úgy, hogy az nem lehet több, mint a (2) bekezdés szerint számított árréstömeg 26%-a (a továbbiakban: maximált üzemi eredmény). A dohánytermékek értékesítéséből származó maximált üzemi eredmény kiszámításánál a dohánytermékek értékesítésének nettó árbevétele csökkentendő a dohánytermékek beszerzésének költségeivel, valamint a dohánykiskereskedelem-ellátási tevékenység elvégzéséhez hozzárendelhető valamennyi, az 1. mellékletben felsorolt közvetlen és közvetett költséggel.
+
+(5) A maximált üzemi eredmény nem biztosíthat a koncessziós társaság számára a tőkepiaci árfolyamok modellje (Capital Asset Pricing Model, a továbbiakban: CAPM-modell) alapján számított, a befektetett tőke 14,5%-át meghaladó tőkemegtérülést (a továbbiakban: tőkemegtérülési korlát) egyetlen üzleti évben sem a koncessziós szerződés hatálya alatt. A tőkemegtérülési korlát CAPM-modell szerinti kiszámításának módját a 2. melléklet tartalmazza, és az ennek alapjául kiszámolt, illetve feltételezett értékeket a koncessziós szerződés részévé kell tenni. A tőkemegtérülési korlát kiszámításának alapjául szolgáló feltételezéseket első alkalommal az e rendelet hatálybalépését követő 5. naptári évet követő év május 31-éig, ezt követően minden 3 naptári évet követő év május 31-éig a vonatkozó szabályozások és piaci folyamatok függvényében felül kell vizsgálni. A tőkemegtérülési korlát évi 14,5%-os mértéke nem módosítható.
+
+(6) Az előzetes üzemi eredmény és a maximált üzemi eredmény – ha az (5) bekezdés szerint számított tőkemegtérülés kisebb, mint a maximált üzemi eredmény, akkor az előzetes üzemi eredmény és a tőkemegtérülési korlát szerinti tőkemegtérülés – közötti különbözet a koncessziós díj, kivéve, ha a koncessziós társaság vállalása ennél nagyobb, mert ebben az esetben a koncessziós társaság vállalása lesz az irányadó.
+
+## 2/A. §[^1]
+
+## 3. §
+
+A koncessziós társaság legkésőbb a tárgyév 10. napjáig az általa megajánlott teljes koncessziós díjat, ennek hiányában legalább 100 millió forintot köteles koncessziós díj-előlegként megfizetni. A koncessziós díjat a tárgyévet követő év május 31-éig a koncessziós társaság köteles akként kiegészíteni, hogy a koncessziós díj összege megfeleljen a 2. §-ban meghatározottaknak, azzal, hogy az előlegként megfizetett összeg visszatérítésére a koncessziós társaság akkor sem jogosult, ha a 2. § alapján a fizetendő összeg kevesebb lenne.
+
+## 4. §
+
+Ez a rendelet 2016. december 21-én lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépését megelőzően megkötött koncessziós szerződésre is alkalmazni kell.
+
+## 1. melléklet a 405/2016. (XII. 10.) Korm. rendelethez
+
+**Elszámolható költségek**
+
+1\. Disztribúciós költségek, ideértve különösen a következőket:
+
+a) központi költségek, ideértve a jogi és egyéb tanácsadások költségét is,
+
+b) könyvvizsgálat és adótanácsadás költségei,
+
+c) költségként elszámolt adók és illetékek,
+
+d) egyéb eljárási díjak és illetékek,
+
+e) pénzügyi költségek, ideértve a garanciák költségeit és egyéb banki költségeket
+
+2\. Bérjellegű költségek
+
+3\. Szállítmányozási költségek (ideértve különösen a gépjárművek lízingjének költségét)
+
+4\. Raktárhálózattal kapcsolatos költségek (számítástechnikai költségek, ideértve a telekommunikáció költségeit)
+
+5\. Szoftverhasználati költségek
+
+6\. Licencdíjak
+
+7\. Szellemi tulajdonért (know-how-ért) járó díjak
+
+8\. Hálózatfejlesztési díjak
+
+9\. Adatelemzéssel összefüggő költségek
+
+10\. Dohánytermékek nyomonkövetése
+
+11\. Szállítóládákkal összefüggő költségek (ideértve különösen a csomagolással és göngyölegekkel kapcsolatos költségeket)
+
+12\. Értékesítés utáni szolgáltatásokkal összefüggő költségek (ideértve különösen leltárhiányokat és kártérítéseket)
+
+13\. Biztonságtechnika
+
+14\. Biztosítások
+
+15\. Állagmegóvás és karbantartás
+
+16\. Értékesítés és marketing
+
+17\. Oktatással, továbbképzéssel és személyüggyel kapcsolatos költségek
+
+18\. Kereskedelmi tevékenységgel összefüggő költségek
+
+19\. Vevőszolgálat
+
+20\. Eladáshelyi tevékenységekkel összefüggő költségek
+
+21\. Kutatásfejlesztés költségei
+
+22\. Központi költségek
+
+23\. Társadalmi felelősségvállalás költségei
+
+24\. Értékcsökkenés és amortizáció
+
+25\. A Dohánytörvény 15/E. § (8) bekezdése alapján nyújtott pénzbeli visszatérítés
+
+## 2. melléklet a 405/2016. (XII. 10.) Korm. rendelethez
+
+**A tőkemegtérülési korlát CAPM-modell szerinti kiszámítása**
+
+A CAPM-modell szerint a tőkemegtérülés (K*e*) megállapítására a következő képletet kell alkalmazni:
+
+K*e* = R*f* + βxMP
+
+ahol R*f* a kockázatmentes kamatláb, MP a piaci kockázati felár és β az a szisztematikus, nem diverzifikált kockázat, amely a dohánytermékek piaca tekintetében tükrözi a várható szabályozási, üzleti és pénzügyi kockázatot.
+
+A befektetett tőke meghatározható vagy a befektetett eszközök és működő tőke összegeként, vagy az eszközök és a rövidlejáratú kötelezettségek különbözeteként. Befektetett eszközök alatt a vállalat működését tartósan, legalább egy éven túl szolgáló befektetett eszközök és a vállalat által igénybe vett, IFRS (Nemzetközi Pénzügyi Beszámolási Standardok) szerinti lízingelt (bérelt) eszközök értékét (lízingelt vagy bérelt eszközök esetén az adott évre a számviteli törvény szerint költségként elszámolt lízingdíjaknak, illetve bérleti díjaknak a koncessziós szerződés teljes időtartamára történő kivetítését) kell érteni, így különösen a következőket:
+
+*a)* raktárak,
+
+*b)* raktárbázisok,
+
+*c)* logisztikai központok,
+
+*d)* gépjárművek,
+
+*e)* logisztikai anyagmozgató gépek,
+
+*f)* hordozható logisztikai terminálok,
+
+*g)* egyéb logisztikai eszközök,
+
+*h)* számítástechnikai infrastruktúra és annak működtetése,
+
+*i)* számítástechnikai alkalmazások és azok működtetése,
+
+*j)* számítástechnikai rendszerek és azok működtetése,
+
+*k)* számítástechnikai eszközök és azok működtetése.
+
+---
+
+[^1]: A 2/A. §-t az 1/2018. (I. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. §-a.

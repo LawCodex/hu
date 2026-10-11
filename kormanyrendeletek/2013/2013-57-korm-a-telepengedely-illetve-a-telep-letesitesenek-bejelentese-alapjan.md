@@ -1,0 +1,655 @@
+---
+title: "57/2013. (II. 27.) Korm. rendelet a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól"
+identifier: "57/2013. (II. 27.) Korm. rendelet"
+njt_id: "2013-57-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/57"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-02-27
+in_force_from: 2013-02-28
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-57-20-22"
+retrieved: 2026-10-12
+---
+
+# 57/2013. (II. 27.) Korm. rendelet a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 44. § (2) bekezdésében biztosított véleményezési jogkörében eljáró Országos Környezetvédelmi Tanács véleményének kikérésével a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya az 1. és 2. mellékletben felsorolt gazdasági (termelő vagy szolgáltató) tevékenység (a továbbiakban: ipari tevékenység) folytatására terjed ki.
+
+(2) E rendelet hatálya nem terjed ki a Magyar Honvédség szervezetei által folytatott ipari tevékenységekre, a külön jogszabály szerint környezetvédelmi engedélyköteles, illetve egységes környezethasználati engedélyköteles tevékenységekre, továbbá a működési engedélyköteles kereskedelmi tevékenységekre és a fémkereskedelmi engedélyköteles tevékenységekre.
+
+(3) Az 1. és 2. mellékletben meghatározott ipari tevékenységek tartalmára vonatkozóan a gazdasági tevékenységek egységes ágazati osztályozási rendszerében foglalt tartalmi meghatározások az irányadóak.
+
+## 2. §
+
+(1) Az 1. és 2. mellékletben meghatározott ipari tevékenység – a határon átnyúló szolgáltató tevékenység kivételével – csak a külön jogszabály szerinti telken, építményben vagy építményen belül önálló rendeltetési egységben (a továbbiakban együtt: telep) az e rendeletben meghatározottak szerint folytatható.
+
+(2) A tevékenység megkezdésére irányuló szándék bejelentését követően folytatható
+
+a) az 1. mellékletben meghatározott ipari tevékenység;
+
+b) a 2. mellékletben meghatározott ipari tevékenység
+
+ba) a külön jogszabályban ipari területként meghatározott területen, valamint
+
+bb)[^1] nem ipari területen akkor, ha a telepként szolgáló építmény vagy építményben az önálló rendeltetési egység a tevékenység végzésének megfelelő rendeltetésre 6 hónapnál nem régebbi véglegessé vált használatbavételi engedéllyel vagy tudomásulvétellel, illetve fennmaradási egyben használatbavételi engedéllyel rendelkezik.
+
+(3)[^2] A (2) bekezdésben nem említett esetekben az ipari tevékenységet csak jogerős vagy végleges telepengedély birtokában lehet folytatni.
+
+## 3. §
+
+(1)[^3] Bejelentéshez kötött ipari tevékenység esetében az ipari tevékenység folytatója az ipari tevékenység megkezdését megelőzően a 3. mellékletben meghatározott adattartalmú formanyomtatványon köteles a telep fekvése szerint illetékes település, Budapesten a kerületi önkormányzat jegyzőjénél, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnél (a továbbiakban: jegyző) írásban bejelenteni a folytatni kívánt ipari tevékenységet.
+
+(2)[^4] A telepengedély kiadására irányuló kérelmet a 3. mellékletben meghatározott adattartalmú formanyomtatványon a jegyzőhöz kell benyújtani.
+
+(3)[^5]
+
+## 4/A. §[^7]
+
+(1)[^8] Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 23. § (2) bekezdésében foglalt kizárási szabály alkalmazása esetén a telepengedély kiadása iránti eljárásban másodfokú hatóságként és felügyeleti szervként az 5/a. melléklet szerinti fővárosi és vármegyei kormányhivatal jár el.
+
+(2) Az e rendelet szerinti telepengedély kiadása iránti eljárásban az ügyintézési határidő 30 nap.
+
+## 5. §
+
+(1)[^9]
+
+(2)[^10] Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott szakkérdésben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a telepengedélyezési eljárás tekintetében szakhatóságként kijelölt hatóság hat hónapig felhasználható előzetes szakhatósági állásfoglalást ad ki.
+
+## 6. §
+
+(1)[^11] A jegyző a telepengedély iránti kérelem elbírálása során köteles meggyőződni arról, hogy a helyi építési szabályzat, illetve annak hiányában a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 83. §-a szerint a kérelemben feltüntetett telepen az adott tevékenység végezhető-e.
+
+(2)[^12] A telepengedélyezési eljárásban ügyfélnek minősül a teleppel közvetlenül szomszédos, a teleppel közös határvonalú, telekhatárú ingatlan – ide nem értve a települési önkormányzat tulajdonában lévő kivett utat – tulajdonosa, társasház esetében a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetében az elnök.
+
+(3)–(6)[^13]
+
+## 8. §
+
+(1) A jegyző a telepet – telepengedély-köteles tevékenység esetében a telepengedély megadásával egyidejűleg, bejelentés-köteles tevékenység esetében a (2) bekezdésben meghatározott feltétel fennállásának vizsgálatát követően haladéktalanul – a 6. melléklet szerint vezetett nyilvántartásba veszi. A jegyző az általa vezetett nyilvántartást az interneten közzéteszi.
+
+(2)[^15] Bejelentés-köteles tevékenység esetében a jegyző haladéktalanul köteles meggyőződni arról, hogy a helyi építési szabályzat, illetve annak hiányában a Méptv. 83. §-a szerint a kérelemben feltüntetett telepen az adott tevékenység végezhető-e. A jegyző, amennyiben megállapítja, hogy az adott tevékenység a telepen nem végezhető, az ipari tevékenység végzését megtiltja és a telepet bezáratja.
+
+## 10. §
+
+(1) Az ipari tevékenység végzője a telepengedély megadását, illetve a bejelentést követően a nyilvántartásban szereplő adatokban bekövetkezett változást – az ipari tevékenység változtatását ide nem értve – haladéktalanul, írásban köteles bejelenteni a jegyzőnek.
+
+(2) A jegyző az adatváltozást a nyilvántartásba bejegyzi. Telepengedély-köteles tevékenység esetében a jegyző a nyilvántartásba való bejegyzést követően, a korábban kiadott telepengedély bevonásával egyidejűleg a módosított adatoknak megfelelő telepengedélyt ad ki.
+
+(3) A telep használatára jogosult személyében történő változás esetén a (2) bekezdés szerinti eljárást kell alkalmazni, azzal, hogy a változást, annak megfelelő igazolása mellett az új jogosult köteles bejelenteni.
+
+(4) Az ipari tevékenység megszüntetését az ipari tevékenység végzője köteles a jegyzőnek a megszűnést követően haladéktalanul bejelenteni és – telepengedély-köteles tevékenység esetében – a telepengedélyt leadni. A telepet a jegyző törli a nyilvántartásból.
+
+(5)–(6)[^17]
+
+## 11. §
+
+(1)[^18]
+
+(2) Abban az esetben, ha az ipari tevékenység folytatója
+
+a) tevékenységére vonatkozó jogszabályi előírásoknak nem tesz eleget, vagy
+
+b) telepe a hatályos jogszabályi, valamint az engedély alapját képező feltételeknek nem felel meg,
+
+és felszólítás ellenére sem teszi meg a szükséges intézkedéseket, a jegyző hivatalból vagy a vonatkozó jogszabályi előírások megtartásának ellenőrzésére egyébként jogosult más hatóság kezdeményezésére, az észlelt hiányosságok megszüntetéséig, de legfeljebb 90 napra, a tevékenység telephelyen történő gyakorlását felfüggesztheti, valamint a napi üzemeltetési, nyitvatartási időtartam meghatározásával vagy más módon korlátozhatja, vagy a telepet ideiglenesen bezárathatja.
+
+(3) Amennyiben a tevékenység folytatója
+
+a) telepengedély-köteles tevékenységet folytat telepengedély nélkül vagy bejelentés-köteles tevékenységet folytat bejelentés nélkül, vagy
+
+b) a tevékenység gyakorlását felfüggesztő, korlátozó, illetve a telep ideiglenes bezárását elrendelő határozatban meghatározott időtartam alatt sem tesz eleget a határozatban foglaltaknak,
+
+a jegyző az ipari tevékenység folytatását megtiltja, illetve a telepengedélyt visszavonja, és a tevékenységet, illetve a telepet törli a nyilvántartásból.
+
+(4)[^19]
+
+(5) A (3) bekezdés a) pontja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény hatálya alá tartozó bejelentés-köteles ipari tevékenység tekintetében nem alkalmazható.
+
+## 12. §
+
+A telepek engedélyezésével, bejelentésével és a nyilvántartásban feltüntetett adatok módosításával kapcsolatos eljárásokért a kérelmező, illetve a bejelentő igazgatási szolgáltatási díjat köteles fizetni.
+
+## 13. §[^20]
+
+A fővárosi és vármegyei kormányhivatal e rendelet alapján ellátott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az iparügyekért felelős miniszter gyakorolja.
+
+## 14. §
+
+Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a telepek engedélyezésével, bejelentésével, a nyilvántartásban feltüntetett adatok módosításával kapcsolatos elsőfokú és jogorvoslati eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben szabályozza.
+
+## 15. §
+
+Ez a rendelet 2013. február 28-án lép hatályba.
+
+## 16. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
+
+## 17. §
+
+(1)–(2)[^21]
+
+(3)[^22] Nem kell telepengedély kiadására irányuló kérelmet benyújtani azon nem veszélyes és veszélyes hulladék gyűjtési tevékenység folytatása esetén, amelyet annak gyakorlója a telepengedély alapján gyakorolható ipari és szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről szóló 80/1999. (VI. 11.) Korm. rendelet alapján kiadott telepengedély, majd 2009. március 31-től a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 358/2008. (XII. 31.) Korm. rendelet szerint bejelentés alapján végzett. Ebben az esetben a tevékenység folytatását 2013. január 1-től telepengedély hiányában is jogszerűnek kell tekinteni.
+
+## 1. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^23]
+
+**Bejelentés-köteles tevékenységek**
+
+1\. alsóruházat gyártása
+
+2\. acél tárolóeszköz gyártása
+
+3\. ágybetét gyártása
+
+4\. áramelosztó, -szabályozó készülék gyártása
+
+5\. bányászati, építőipari gép gyártása
+
+6\. bőr, szőrme kikészítése
+
+7\. bőrruházat gyártása
+
+8\. csap, szelep gyártása
+
+9\. csapágy, erőátviteli elem gyártása
+
+10\. csiszolótermék gyártása
+
+11\. csomagolás-
+
+12\. egészségügyi kerámia gyártása
+
+13\. egyéb beton-, gipsz-, cementtermék gyártása
+
+14\. egyéb bútor gyártása
+
+15\. egyéb elektronikus, villamos vezeték, kábel gyártása
+
+16\. egyéb fa-, parafatermék, fonottáru gyártása
+
+17\. egyéb kerámiatermék gyártása
+
+18\. egyéb kötött, hurkolt ruházati termékek gyártása, kivéve a kézi kötésű, horgolású ruházati termékek gyártása
+
+19\. egyéb műanyagtermék gyártása
+
+20\. egyéb nem vas fém gyártása
+
+21\. egyéb papír-, kartontermék gyártása
+
+22\. egyéb ruházat, kiegészítők gyártása
+
+23\. egyéb szárazföldi személyszállítás vagy közúti áruszállítás, költöztetés alágazatba tartozó tevékenységek közül azon tevékenységek, amelyek esetében a tevékenységhez igénybe vett gépjárművet (gépjárműveket) külön jogszabály szerint telephelyen kell tárolni
+
+24\. egyéb textiláru gyártása m. n. s., kivéve a kéziszőttes-, necceltáru- és csipkekészítés, kézi hímzés
+
+25\. egyéb szivattyú, kompresszor gyártása
+
+26\. elektronikus orvosi berendezés gyártása
+
+27\. előre kevert beton gyártása
+
+28\. emelő-, anyagmozgató gép gyártása
+
+29\. evőeszköz gyártása
+
+30\. élelmiszer-, dohányipari gép gyártása
+
+31\. építési betontermék gyártása
+
+32\. építési gipsztermék gyártása
+
+33\. épületasztalos-ipari termék gyártása
+
+34\. falemezgyártás
+
+35\. felsőruházat gyártása (kivéve: munkaruházat)
+
+36\. fém épületelem gyártása
+
+37\. fémmegmunkálás
+
+38\. fémszerkezet gyártása
+
+39\. fémtartály gyártása
+
+40\. fűrészáru-gyártás
+
+41\. fűtőberendezés, kemence gyártása
+
+42\. gépi meghajtású hordozható kézi szerszámgép gyártása
+
+43\. gépjárműjavítás, -karbantartás
+
+44\. gépjármű-karosszéria, pótkocsi gyártása
+
+45\. gőzkazán gyártása
+
+46\. gumiabroncs újrafutózása, felújítása
+
+47\. hangszergyártás
+
+48\. háztartási kerámia gyártása
+
+49\. háztartási villamos készülék gyártása
+
+50\. háztartási, egészségügyi papírtermék gyártása
+
+51\. hidegen hajlított acélidom gyártása
+
+52\. hidegen hengerelt keskeny acélszalag gyártása
+
+53\. hidegen húzott acélhuzal gyártása
+
+54\. hidegen húzott acélrúd gyártása
+
+55\. hidraulikus, pneumatikus berendezés gyártása
+
+56\. kohászati gép gyártása
+
+57\. kötőelem, csavar gyártása
+
+58\. központi fűtési kazán, radiátor gyártása
+
+59\. közúti jármű, járműmotor alkatrészeinek gyártása
+
+60\. huzaltermék gyártása
+
+61\. illóolajgyártás
+
+62\. irodabútor gyártása
+
+63\. irodagép gyártása (kivéve: számítógép és perifériái)
+
+64\. irodai papíráru gyártása
+
+65\. járművillamossági, -elektronikai készülékek gyártása
+
+66\. játékgyártás
+
+67\. kerámiacsempe, -lap gyártása
+
+68\. kerámia szigetelő gyártása
+
+69\. kerékpár, mozgássérültkocsi gyártása
+
+70\. konfekcionált textiláru gyártása (kivéve: ruházat)
+
+71\. konyhabútorgyártás
+
+72\. kőmegmunkálás
+
+73\. könnyűfém csomagolóeszköz gyártása
+
+74\. kötéláru gyártása
+
+75\. kötött, hurkolt harisnyafélék gyártása, kivéve a kézi kötésű, horgolású harisnyafélék gyártása
+
+76\. kötött, hurkolt kelme gyártása
+
+77\. lábbeligyártás
+
+78\. lakat-, zárgyártás
+
+79\. máshová nem sorolt egyéb általános rendeltetésű gép gyártása
+
+80\. máshová nem sorolt egyéb fémfeldolgozási termék gyártása
+
+81\. máshová nem sorolt egyéb jármű gyártása
+
+82\. máshová nem sorolt egyéb nemfém ásványi termék gyártása
+
+83\. máshová nem sorolt egyéb speciális gép gyártása
+
+84\. mezőgazdasági, erdészeti gép gyártása
+
+85\. motorkerékpár gyártása
+
+86\. motor, turbina gyártása (kivéve: légi, közútijármű-motor)
+
+87\. munkaruházat gyártása
+
+88\. műanyag csomagolóeszköz gyártása
+
+89\. műanyag-, gumifeldolgozó gép gyártása
+
+90\. műszaki kerámia gyártása
+
+91\. műszaki textiláru gyártása
+
+92\. nem háztartási hűtő, légállapot-szabályozó gyártása
+
+93\. nem szőtt textília és termék gyártása (kivéve: ruházat)
+
+94\. nem villamos háztartási készülék gyártása
+
+95\. nyomdai tevékenység alágazatba tartozó tevékenységek
+
+96\. orvosi eszköz gyártása
+
+97\. papíripari gép gyártása
+
+98\. parkettagyártás
+
+99\. raktározás, tárolás (kivéve mezőgazdasági termények, mezőgazdasági vegyi termékek, műtrágya, nitrogénvegyület raktározása, tárolása)
+
+100\. síküveg továbbfeldolgozás
+
+101\. sportszergyártás, kivéve úszómedence gyártása
+
+102\. száloptikai kábel gyártása
+
+103\. számítógép, perifériás egység gyártása
+
+104\. szárazföldi szállítást kiegészítő szolgáltatások közül a parkoló, parkolóhely, garázs üzemeltetése, kivéve a közút kezelője által üzemeltetett, közút területén vagy a közút területén kívüli közterületen létesített, illetőleg kijelölt várakozóhely
+
+105\. szerszámgyártás
+
+106\. szőnyeggyártás
+
+107\. szőrmecikk gyártása
+
+108\. tároló fatermék gyártása
+
+109\. testápolási cikk gyártása
+
+110\. textil-, ruházati, bőripari gép gyártása
+
+111\. táskafélék, szíjazat gyártása
+
+112\. textilszálak fonása
+
+113\. textilszövés
+
+114\. textil, szőrme mosása, tisztítása
+
+115\. tűzálló termék gyártása
+
+116\. villamos motor, áramfejlesztő gyártása
+
+117\. villamos világítóeszköz gyártása
+
+118\. nem közművel összegyűjtött háztartási szennyvíz szállítása
+
+## 2. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^24]
+
+**Telepengedély-köteles tevékenységek**
+
+1\. acélcsőgyártás
+
+2\. alumínium gyártása, kivéve a timföld (alumínium-oxid) gyártása
+
+3\. dohánytermék gyártása
+
+4\. egyéb gumitermék gyártása
+
+5\. égetett agyag építőanyag gyártása
+
+6\. festék, bevonóanyag gyártása
+
+7\. fémalakítás, porkohászat
+
+8\. fémfelület-kezelés
+
+9\. fémöntés alágazatba tartozó tevékenységek
+
+10\. gumiabroncs, gumitömlő gyártása
+
+11\. habarcsgyártás
+
+12\. kőolaj-feldolgozás
+
+13\. máshová nem sorolt egyéb vegyi termék gyártása
+
+14\. mezőgazdasági vegyi termék gyártása, raktározása, tárolás
+
+15\. mész-, gipszgyártás
+
+16\. műanyag építőanyag gyártása
+
+17\. műanyag lap, lemez, fólia, cső, profil gyártása
+
+18\. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
+
+19\. nemesfémgyártás
+
+20\. papír csomagolóeszköz gyártása
+
+21\. papírgyártás
+
+22\. ólom, cink, ón gyártása
+
+23\. ragasztószergyártás
+
+24\. rézgyártás
+
+25\. szálerősítésű cement gyártása
+
+26\. szintetikus kaucsuk alapanyag gyártása
+
+27\. tapétagyártás
+
+28\. tisztítószer gyártása
+
+29\. vas-, acél-, vasötvözet-alapanyag gyártása
+
+30\. vegyi szál gyártása
+
+31\. nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
+
+32\. veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
+
+## 3. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^25]
+
+**Az ipari tevékenység folytatásához szükséges bejelentés / engedély iránti kérelem adattartalma**
+
+I. Az ipari tevékenység végzőjének adatai
+
+1\. Az ipari tevékenység végzőjének
+
+1.1. neve
+
+1.2. székhelye
+
+1.3. cégjegyzékszáma vagy vállalkozói nyilvántartási száma
+
+II. Telep adatai
+
+1\. Telep
+
+1.1. tulajdonosa
+
+1.2. címe
+
+1.3. helyrajzi száma
+
+1.4. használatának jogcíme
+
+2\. Telepen folytatni kívánt ipari tevékenység (tevékenységek)
+
+3\. Használnak-e a telepen az ipari tevékenységgel összefüggésben
+
+*a)* külön jogszabály alapján hatósági felügyelet alá tartozó nyomástartó berendezést: Igen/Nem
+
+*b)* külön jogszabály alapján hatósági felügyelet alá tartozó éghető vagy veszélyes folyadék tárolására szolgáló tartályt: Igen/Nem
+
+*c)* ipari vagy mezőgazdasági gázfogyasztó készüléket: Igen/Nem
+
+*d)* legalább 50 kVA beépített összteljesítményű, 0,4 kV vagy nagyobb feszültségű villamos berendezést, rendszert: Igen/Nem
+
+*e)* nem közforgalmú üzemanyagtöltő állomáson cseppfolyós vagy cseppfolyósított, illetve sűrítettgázüzemanyagtöltő-berendezést: Igen/Nem
+
+4\. Telep üzemeltetésének időtartama, műszakonként a napi munkavégzés idejének megjelölésével
+
+5\. Telepengedély-köteles ipari tevékenység esetén környezetvédelmi tervfejezet
+
+III. Keltezés, a bejelentő aláírása (bélyegzője), a kérelmező aláírása (bélyegzője)
+
+## 4. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^26]
+
+## 5. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^27]
+
+**Tűzvédelmi hatóság ellenőrzéséhez, illetve szakhatósági állásfoglalásához kötött tevékenységek**
+
+**I. Szakhatósági állásfoglaláshoz kötött tevékenységek**
+
+1\. egyéb gumitermék gyártása
+
+2\. festék, bevonóanyag gyártása
+
+3\. gumiabroncs, gumitömlő gyártása, kivéve gumiabroncs újrafutózása, felújítása
+
+4\. kőolaj-feldolgozás
+
+5\. máshová nem sorolt egyéb vegyi termék gyártása
+
+6\. mezőgazdasági vegyi termék gyártása, raktározása, tárolása
+
+7\. műanyag építőanyag gyártása
+
+8\. műanyag lap, lemez, fólia, cső, profil gyártása
+
+9\. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
+
+10\. papírgyártás
+
+11\. ragasztószergyártás
+
+12\. tapétagyártás
+
+13\. tisztítószer gyártása
+
+14\. szintetikus kaucsuk alapanyag gyártása
+
+15\. vegyi szál gyártása
+
+**II. Ellenőrzéshez kötött tevékenységek**
+
+1\. egyéb bútor gyártása
+
+2\. egyéb fa-, parafatermék, fonott áru gyártása
+
+3\. egyéb papír-, kartontermék gyártása
+
+4\. épületasztalos-ipari termék gyártása
+
+5\. falemezgyártás
+
+6\. fűrészárugyártás
+
+7\. gépjárműjavítás, karbantartás
+
+8\. gépjármű-karosszéria, pótkocsi gyártása
+
+9\. hangszergyártás
+
+10\. háztartási, egészségügyi papírtermék gyártása
+
+11\. közúti jármű, járműmotor alkatrészeinek gyártása
+
+12\. illóolajgyártás
+
+13\. irodabútor gyártása
+
+14\. irodai papíráru gyártása
+
+15\. játékgyártás
+
+16\. konfekcionált textiláru gyártása (kivéve: ruházat)
+
+17\. konyhabútorgyártás
+
+18\. kötött, hurkolt kelme gyártása
+
+19\. motorkerékpár gyártása
+
+20\. műanyag csomagolóeszköz gyártása
+
+21\. nyomdai tevékenység alágazatba tartozó tevékenységek
+
+22\. papír csomagolóeszköz gyártása
+
+23\. sportszergyártás, kivéve úszómedence gyártása
+
+24\. szőnyeggyártás
+
+25\. tároló fatermék gyártása
+
+26\. testápolási cikk gyártása
+
+27\. textilszálak fonása
+
+28\. textilszövés
+
+29\. textil, szőrme mosása, tisztítása
+
+## 5/a. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^28]
+
+**A telepengedélyezési eljárásban kizárás esetén másodfokon eljáró kormányhivatalok**
+
+|  | A | B |
+|---|---|---|
+|  | A telephely fekvése | A telepengedély kiadása iránti eljárásban másodfokú hatóságként eljáró fővárosi és vármegyei kormányhivatal |
+| **1.** | Budapest főváros | Komárom-Esztergom Vármegyei Kormányhivatal |
+| **2.** | Pest vármegye | Komárom-Esztergom Vármegyei Kormányhivatal |
+| **3.** | Bács-Kiskun vármegye | Tolna Vármegyei Kormányhivatal |
+| **4.** | Baranya vármegye | Somogy Vármegyei Kormányhivatal |
+| **5.** | Békés vármegye | Bács-Kiskun Vármegyei Kormányhivatal |
+| **6.** | Borsod-Abaúj-Zemplén vármegye | Heves Vármegyei Kormányhivatal |
+| **7.** | Csongrád-Csanád vármegye | Békés Vármegyei Kormányhivatal |
+| **8.** | Fejér vármegye | Veszprém Vármegyei Kormányhivatal |
+| **9.** | Győr-Moson-Sopron vármegye | Veszprém Vármegyei Kormányhivatal |
+| **10.** | Hajdú-Bihar vármegye | Heves Vármegyei Kormányhivatal |
+| **11.** | Heves vármegye | Nógrád Vármegyei Kormányhivatal |
+| **12.** | Jász-Nagykun-Szolnok vármegye | Bács-Kiskun Vármegyei Kormányhivatal |
+| **13.** | Komárom-Esztergom vármegye | Veszprém Vármegyei Kormányhivatal |
+| **14.** | Nógrád vármegye | Heves Vármegyei Kormányhivatal |
+| **15.** | Somogy vármegye | Tolna Vármegyei Kormányhivatal |
+| **16.** | Szabolcs-Szatmár-Bereg vármegye | Heves Vármegyei Kormányhivatal |
+| **17.** | Tolna vármegye | Somogy Vármegyei Kormányhivatal |
+| **18.** | Vas vármegye | Zala Vármegyei Kormányhivatal |
+| **19.** | Veszprém vármegye | Komárom-Esztergom Vármegyei Kormányhivatal |
+| **20.** | Zala vármegye | Somogy Vármegyei Kormányhivatal |
+
+## 6. melléklet az 57/2013. (II. 27.) Korm. rendelethez
+
+**Az 57/2013. (II. 27.) Korm. rendelet alapján a telepekről vezetett nyilvántartás**
+
+<table><tbody><tr><td rowspan="2">A jegyző által kiadott nyilvántartási szám</td><td rowspan="2">A bejegyzés oka*</td><td colspan="2">A bejegyzés időpontja</td><td colspan="4">A telep</td><td colspan="3">Az ipari tevékenység végzőjének</td><td rowspan="2">A telepen végzett ipari tevékenység</td></tr><tr><td>év</td><td>hó, nap</td><td>címe</td><td>helyrajzi száma</td><td>használatának jogcíme</td><td>üzemelte-<br>tésének időtartama, műszakonként a napi munkavégzés idejének megjelölésével</td><td>neve</td><td>cégjegyzék-<br>száma, illetve vállalkozói nyilvántartásba vételi száma</td><td>székhelye</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+\* 1. engedély kiadása; 2. tevékenység bejelentése; 3. adat módosítása; 4. tevékenység változása; 5. engedély visszavonása; 6. telep megszűnése.
+
+---
+
+[^1]: A 2. § (2) bekezdés b) pont bb) alpontja a 457/2017. (XII. 28.) Korm. rendelet 434. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: A 2. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 434. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 3. § (1) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 434. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 3. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 191. § (1) bekezdése iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 435. § a) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^7]: A 4/A. §-t a 70/2015. (III. 30.) Korm. rendelet 222. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 432. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^8]: A 4/A. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 156. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 432. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 6. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 88. § a) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdése a 151/2023. (IV. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 6. § (3)–(6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 8. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 88. § b) pontja szerint módosított szöveg.
+[^17]: A 10. § (5)–(6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 11. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 11. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 222. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 156. § a) pontja szerint módosított szöveg.
+[^21]: A 17. § (1)–(2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 17. § (3) bekezdését a 248/2013. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^23]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § a) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^24]: A 2. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § b) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: A 3. melléklet a 457/2017. (XII. 28.) Korm. rendelet 433. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 435. § j) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: Az 5. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § c) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^28]: Az 5/a. mellékletet a 70/2015. (III. 30.) Korm. rendelet 222. § (5) bekezdése iktatta be, szövege a 371/2020. (VII. 30.) Korm. rendelet 23. §-a, a 616/2022. (XII. 29.) Korm. rendelet 156. § a)-c) pontja szerint módosított szöveg.

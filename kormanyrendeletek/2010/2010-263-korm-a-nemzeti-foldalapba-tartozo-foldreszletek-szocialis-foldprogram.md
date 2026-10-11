@@ -1,0 +1,275 @@
+---
+title: "263/2010. (XI. 17.) Korm. rendelet a Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól"
+identifier: "263/2010. (XI. 17.) Korm. rendelet"
+njt_id: "2010-263-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/263"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-11-17
+in_force_from: 2010-12-02
+last_amended: 2025-07-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-263-20-22"
+retrieved: 2026-10-12
+---
+
+# 263/2010. (XI. 17.) Korm. rendelet a Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól
+
+A Kormány
+
+a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdésének c) pontjában kapott felhatalmazás alapján,
+
+a 15. § tekintetében az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdésében kapott felhatalmazás alapján,
+
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Nemzeti Földalapba tartozó földrészletek közül a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 1. § (1) bekezdés a) és c) pontjában meghatározott földrészletek (a továbbiakban: földrészlet) adhatók szociális földprogram (a továbbiakban: program) megvalósítása céljából önkormányzati vagyonkezelésbe.
+
+(1a)[^2]
+
+(2)[^3] A program céljára az állam kizárólagos tulajdonában álló földrészlet adható vagyonkezelésbe. A program céljára nem adható vagyonkezelésbe
+
+a) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerinti erdő, illetve az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
+
+b) az adott településen fekvő Nemzeti Földalapba tartozó földrészletek összterületének 50%-át meghaladó nagyságú terület,
+
+c) olyan földrészlet, amelyen harmadik személynek fennálló joga vagy követelése van.
+
+(3) A (2) bekezdés b) pontjában meghatározott 50%-os területi határ megállapításánál az erdőt, és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet figyelmen kívül kell hagyni.
+
+(4)[^4]
+
+(5)[^5]
+
+## 3. §
+
+(1)[^7] A települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat) a program céljára kizárólag a saját településén fekvő földrészleteket kaphat.
+
+(2)[^8] Az önkormányzat földrészlet – program céljára történő – vagyonkezelésbe adására irányuló írásbeli kérelmét a Nemzeti Földalap kezeléséért felelős szervnél (a továbbiakban: NFK) terjeszti elő.
+
+## 4. §
+
+(1)[^9] A földrészlet program céljára történő vagyonkezelésbe adásának feltétele, hogy a kérelmező önkormányzat a szociális földprogram megvalósítását olyan tartalmú, a kérelem benyújtásakor hatályos, a szociális igazgatásról és a szociális ellátásokról szóló törvény alapján megalkotott önkormányzati rendeletben szabályozza, amely szerint a településen legalább egy éve lakóhellyel rendelkező szociálisan hátrányos helyzetű személyek az önkormányzat részére átadott földrészlet hasznosításában, használatában kötelesek személyesen közreműködni. Az önkormányzat által támogatott, szociálisan hátrányos helyzetű személyek körébe nem tartozhat az egyéni vállalkozó, valamint gazdálkodó szervezetnek a tevékenységében személyesen közreműködő tagja.
+
+(2)[^10]
+
+(3)[^11] A program céljára nem szerezhet vagyonkezelői jogot az az önkormányzat,
+
+a)[^12] amely a tulajdonában álló földek területnagyságának több mint 50%-át vagyonkezelésbe vagy haszonbérbe adta;
+
+b)[^13] amellyel szemben a vagyonkezelésbe adás napját megelőző két évben a területileg illetékes ingatlanügyi hatóság földvédelmi bírságot szabott ki, valamint a vármegyei kormányhivatal parlagfű elleni közérdekű védekezést elrendelő határozatot hozott, vagy növényvédelmi, illetve erdőgazdálkodási bírságot szabott ki.
+
+## 5. §
+
+A program céljára nem adható földrészlet vagyonkezelésbe, annak az önkormányzatnak,
+
+a)[^14] amely a földhasználati nyilvántartás szerint más személy tulajdonát képező, száz hektárt meghaladó földet használ, és a bejegyzett földhasználat határozatlan időtartamú, vagy határozott időtartamú, de a földhasználat a kérelem benyújtására nyitva álló határidő utolsó napján még nem járt le; vagy
+
+b)[^15] amelynek száz hektárt meghaladó földön vagyonkezelői joga áll fenn, és a vagyonkezelés határozatlan időtartamú, vagy határozott időtartamú, de a kérelem benyújtására nyitva álló határidő utolsó napján még nem járt le.
+
+## 7. §
+
+(1) A vagyonkezelésbe adás iránti kérelemnek tartalmaznia kell:
+
+a)[^17] az önkormányzat által igényelt földrészletek helyrajzi számát;
+
+b) a 4. § (1) bekezdésében foglalt önkormányzati rendelet megjelölését;
+
+c) a programban részt vevő személyek tervezett létszámát, azon belül a jövedelemmel rendelkező és a jövedelemmel nem rendelkező személyek létszámát;
+
+d) a programhoz kapcsolódó képzési programok ismertetését;
+
+e) a program működtetéséhez rendelkezésre álló pénzügyi fedezet bemutatását, és az önkormányzat közreműködésének módját;
+
+f) a programban részt vevő agrár-szaktanácsadó, mezőgazdasági szakirányú képzettséggel rendelkező személyek megjelölését, valamint a program megvalósítását biztosító tényezőket;
+
+g)[^18] a kérelem benyújtásakor az önkormányzat tulajdonában, vagyonkezelésében, használatában álló földek használatára, hasznosítási módjára vonatkozó adatokat;
+
+h) arra vonatkozó nyilatkozatot, hogy a program keretében hasznosított földrészletek vonatkozásában a hasznosítással összefüggésben felmerülő költségeket, és kockázatot ki viseli;
+
+i) arra vonatkozó nyilatkozatot, hogy nem áll fenn a 4. § (3) bekezdés a) pontjában és az 5. §-ban meghatározott körülmény;
+
+j) a földrészlet vagyonkezelésbe adásának kérelmezett időtartamát.
+
+(1a)[^19] Amennyiben az önkormányzat a program keretében az általa hasznosított földrészleteken termesztett növényeket, és az ezekből előállított termékeket önkormányzati feladat ellátásához maga használja fel, úgy a vagyonkezelésbe adás iránti kérelemnek tartalmaznia kell az erre vonatkozó kifejezett nyilatkozatot is.
+
+(2) Az (1) bekezdés c) pontjában foglalt jövedelem megállapításánál a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott jövedelemszámítást kell alkalmazni.
+
+(3)[^20]
+
+(4)[^21] A vagyonkezelésbe adás iránti kérelemhez csatolni kell:
+
+a) a 4. § (1) bekezdése szerinti önkormányzati rendeletet;
+
+b)[^22] a területileg illetékes ingatlanügyi hatóság, és a vármegyei kormányhivatal 30 napnál nem régebbi igazolását arról, hogy a kérelmezett földrészleteket érintően nem került sor a 4. § (3) bekezdés b) pontjában foglalt intézkedésre;
+
+c)[^23] a hatályos helyi építési szabályzat és a szabályozási terv, amely szerint az önkormányzat által igényelt földrészlet a település igazgatási területén belül beépítésre nem szánt mezőgazdasági terület;
+
+d)[^24] a kérelmező önkormányzat képviselő-testületének a program céljára vonatkozó, jóváhagyó döntésének kivonatát.
+
+(5) Vagyonkezelésbe adás iránti kérelem esetén kötelezettséget vállaló nyilatkozatot kell csatolni a kérelemhez arról, hogy a földrészletet a vagyonkezelési szerződés időtartama alatt az önkormányzat:
+
+a) a termőföld védelméről szóló törvény szerinti más célra nem hasznosítja, és
+
+b)[^25] a (4) bekezdés c) pont szerinti építési övezetet, övezetet nem módosítja;
+
+(6)[^26]
+
+## 8. §
+
+(1) A program céljára olyan területnagyságú földrészlet adható, hogy 1 fő részére legfeljebb 1 hektár területnagyságú földrészlet jusson (a továbbiakban: területi korlát).
+
+(2)[^27] A program céljára földrészletet legfeljebb tizenöt évre lehet vagyonkezelésbe adni.
+
+(3)[^28] A programnak a már vagyonkezelésbe átadott földrészleteken túl további földrészletekre történő kiterjesztése új kérelemnek minősül.
+
+## 9. §
+
+(1)[^29] Az NFK a határidőben beérkezett önkormányzati kérelmet – a kérelem benyújtására nyitva álló határidő lejártát követő 30 napon belül – megvizsgálja és az e rendeletben foglalt követelményeknek megfelelően benyújtott, az általa támogatott kérelmekről szakmai javaslatot (a továbbiakban: javaslat) készít a Kormány részére a vagyonkezelésbe adásról.
+
+(2)[^30] Ha kérelem nem felel meg a 7. §-ban meghatározott követelményeknek, az NFK – határidő megjelölése mellett – hiánypótlásra hívja fel az önkormányzatot. Az (1) bekezdésben meghatározott határidőbe nem számít be a hiánypótlásra irányuló felhívás közlésétől a teljesítésig terjedő idő.
+
+(3)[^31]
+
+(4)[^32] Az NFK nem készít javaslatot, ha
+
+a)[^33] az önkormányzat nem a saját településén fekvő földrészletre nyújtott be kérelmet,
+
+b) az önkormányzat a hiánypótlási felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte,
+
+c)[^34] ellenőrzés alapján megállapításra kerül, hogy az önkormányzat kérelme nem felel meg a 4. § (1) bekezdésében, a 4. § (3) bekezdésében, az 5. §-ban foglaltaknak.
+
+(5)[^35] A (4) bekezdésben meghatározott esetekben a kérelem elutasításáról az NFK értesíti az önkormányzatot.
+
+(6)[^36] Az NFK javaslatának – indokolással ellátva – tartalmaznia kell azoknak a földrészleteknek a megjelölését, melyeknek a vagyonkezelésbe adását javasolja, továbbá a szerződés időtartamára vonatkozó javaslatot is.
+
+(7)[^37]
+
+## 10. §
+
+(1)[^38] A Kormánynak a vagyonkezelésbe adásról szóló döntésének a Magyar Közlönyben történő közzétételétől számított 30 napon belül az NFK és a jogosult önkormányzat ingatlan-nyilvántartási bejegyzésre alkalmas vagyonkezelési szerződést köt. A szerződés alapján az önkormányzat köteles gondoskodni a vagyonkezelői jogának az ingatlan-nyilvántartásba történő bejegyzéséről.
+
+(2)[^39]
+
+(3)[^40] A vagyonkezelői jogviszony fennállása alatt a vagyonkezelő önkormányzat évente január 31-ig a szerződésben foglaltak betartásáról, a program megvalósulásáról, valamint a vagyonkezelésbe vett földrészletek hasznosításáról beszámol az NFK-nak.
+
+(4)[^41] A (3) bekezdésben foglaltakon túl a vagyonkezelő önkormányzat köteles az NFK-t tájékoztatni a jogviszony körülményeinek minden olyan lényeges változásáról, mely a vagyonkezelési szerződés módosítását teszi indokolttá.
+
+(5) A vagyonkezelési szerződésben rögzíteni kell, hogy a vagyonkezelő önkormányzat a vagyonkezelésébe vett vagyon használatából, működtetéséből származó bevételeit, valamint közvetlen költségeit és ráfordításait elkülönítetten tartja nyilván.
+
+## 11. §
+
+(1)[^42] A vagyonkezelőt megillető jogok gyakorlását, annak szabályszerűségét, célszerűségét az NFK ellenőrzi. Ennek érdekében a használó és az NFK közötti, a földrészlet használatára, hasznosítására létesített szerződésben rögzíteni kell, hogy a tulajdonosi ellenőrzésnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendeletben foglaltak szerinti eljárásrendjét, a felek jogait, kötelezettségeit a felek a szerződés részének tekintik.
+
+(2) A tulajdonosi ellenőrzés célja a földrészlettel való gazdálkodás és a program működtetésének vizsgálata, ennek keretében a rendeltetésellenes, jogszerűtlen, szerződésellenes, vagy a tulajdonos érdekeit sértő intézkedések feltárása és a jogszerű állapot helyreállítása, továbbá a vagyonnyilvántartás hitelességének, teljességének és helyességének biztosítása.
+
+(3)[^43]
+
+## 13. §
+
+(1)[^45] Az NFK a vagyonkezelési szerződést azonnali hatállyal írásban felmondhatja, ha
+
+a) az önkormányzat a vagyonkezelői jogot továbbadta;
+
+b) az önkormányzat a földrészletben kárt okozott, vagy magatartása közvetlenül károkozással fenyeget;
+
+c) az önkormányzat a vagyonkezelési szerződésben foglalt kötelezettségének – figyelmeztetés ellenére – felróható módon nem tesz eleget;
+
+d) az önkormányzat a kérelmében vállalt, a programmal kapcsolatos feladatait – figyelmeztetés ellenére – nem látja el;
+
+e) az önkormányzat a földrészlet használatát, hasznosítását a programban részt nem vevő személynek átengedte;
+
+f) az önkormányzat a 7. § (5) bekezdésben meghatározott kötelezettségvállalását nem teljesíti;
+
+g) az önkormányzat a Nfatv. 23. § (1) bekezdésében foglalt előírást megsértve változtatja meg a földrészlet művelési ágát, vagy hajt végre rendes gazdálkodás körét meghaladó beruházást;
+
+h) az önkormányzat a beszámolási kötelezettségének határidőn belül nem tesz eleget;
+
+i) két egymást követő évben az 1 főre eső átlagos területnagyság meghaladja a területi korlát kétszeresét;
+
+j) az önkormányzat jogszabályból vagy a szerződésből eredő lényeges kötelezettségét felróható módon megszegte.
+
+(2)[^46] Ha az azonnali hatályú felmondást az önkormányzat 15 napon belül nem veszi tudomásul, az NFK további 15 napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
+
+(3)[^47] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFK a termőföld védelméről szóló törvényben előírtak szerint, az ott meghatározott termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
+
+(4) A vagyonkezelési szerződés közös megegyezéssel a gazdasági év végével szüntethető meg.
+
+(5)[^48] A vagyonkezelési szerződés módosítására irányuló kérelemnek minősül, ha az önkormányzat a vagyonkezelésébe került földrészletek egy részére a vagyonkezelési szerződés megszüntetését kezdeményezi. Ilyen kérelmet kizárólag önálló helyrajzi számú földrészletekre lehet előterjeszteni, mely kérelem elbírálásáról az NFK dönt. Egyéb esetekben a vagyonkezelési szerződés módosítására a vagyonkezelési szerződés megkötésére vonatkozó szabályokat kell alkalmazni.
+
+(6)[^49] Ha a vagyonkezelési szerződés az NFK felmondása következtében szűnt meg, az önkormányzat vagyonkezelői jogának ingatlan-nyilvántartásból történő törlését követő öt éven belül az önkormányzat részére a program céljára nem adható földrészletet.
+
+## 13/B. §[^51]
+
+(1)[^52] A közfoglalkoztatási program megvalósítása céljából az önkormányzatok részére történő vagyonkezelésbe adással összefüggő eljárásra e rendelet rendelkezéseit – ide nem értve az 1. § (2) bekezdés b) pontját, a 3. § (1) bekezdését, a 4. § (1) és (3) bekezdését, az 5. §-t, a 7. § (1) bekezdés b), g) és i) pontját, a 7. § (2) bekezdését és a (4) bekezdés a) és b) pontját, a 8. § (1) bekezdését, a 9. § (4) bekezdés a) és c) pontját, valamint a 13. § (1) bekezdés i) pontját – megfelelően alkalmazni kell.
+
+(2) A közfoglalkoztatási program megvalósítása céljából az önkormányzat más településen fekvő földrészlet vagyonkezelésbe adása iránt is benyújthat kérelmet, feltéve hogy az érintett földrészlet olyan településen fekszik, melynek közigazgatási határa a kérelmet előterjesztő önkormányzat településének közigazgatási határától közúton vagy közforgalomtól el nem zárt magánúton legfeljebb 30 km távolságra van.
+
+(3)[^53] A (2) bekezdésben meghatározott esetben a kérelemhez a földrészlet fekvése szerinti önkormányzat képviselő-testületének vagyonkezelésbe vételt támogató döntését is csatolni kell.
+
+## 14. §
+
+(1) E rendelet a kihirdetését követő 15. napon lép hatályba, azzal, hogy a már folyamatban lévő eljárásokat azok indulásakor hatályos rendelkezések szerint kell befejezni.
+
+(2) E rendeletet alkalmazni kell a hatálybalépése előtt – a program céljából – megkötött vagyonkezelési szerződés módosítására és megszüntetésére.
+
+## 15. §
+
+Hatályát veszti a termőföldnek és erdőnek a szociális földprogram folytatása céljából ingyenesen történő önkormányzati tulajdonba vagy vagyonkezelésbe adásának feltételeiről és eljárási rendjéről szóló 19/2006. (III. 14.) FVM rendelet.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 39. §-ával megállapított, a 107/2024. (V. 9.) Korm. rendelet 10. § a) pontja, a 188/2025. (VII. 3.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, a 188/2025. (VII. 3.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^4]: Az 1. § (4) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (5) bekezdését a 11/2011. (II. 22.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^7]: A 3. § (1) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 10. § b) pontja, a 188/2025. (VII. 3.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § a) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § b) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^17]: A 7. § (1) bekezdés a) pontja a 188/2025. (VII. 3.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^18]: A 7. § (1) bekezdés g) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (1a) bekezdését a 91/2014. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^20]: A 7. § (3) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^21]: A 7. § (4) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^22]: A 7. § (4) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^23]: A 7. § (4) bekezdés c) pontja a 420/2021. (VII. 15.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^24]: A 7. § (4) bekezdés d) pontját a 159/2019. (VI. 28.) Korm. rendelet 41. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^25]: A 7. § (5) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
+[^26]: A 7. § (6) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^27]: A 8. § (2) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^28]: A 8. § (3) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdése a 279/2011. (XII. 20.) Korm. rendelet 2. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^30]: A 9. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^31]: A 9. § (3) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.
+[^32]: A 9. § (4) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^33]: A 9. § (4) bekezdés a) pontja a 188/2025. (VII. 3.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
+[^34]: A 9. § (4) bekezdés c) pontja a 161/2011. (VIII. 18.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
+[^35]: A 9. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja, a 188/2025. (VII. 3.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^36]: A 9. § (6) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 21. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^37]: A 9. § (7) bekezdését a 107/2024. (V. 9.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^38]: A 10. § (1) bekezdése a 279/2011. (XII. 20.) Korm. rendelet 3. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja, a 188/2025. (VII. 3.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^39]: A 10. § (2) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § j) pontja hatályon kívül helyezte.
+[^40]: A 10. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^41]: A 10. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^42]: A 11. § (1) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^43]: A 11. § (3) bekezdését a 107/2024. (V. 9.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^45]: A 13. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^46]: A 13. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^47]: A 13. § (3) bekezdése a 91/2014. (III. 20.) Korm. rendelet 16. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^48]: A 13. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^49]: A 13. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^51]: A 13/B. §-t a 279/2011. (XII. 20.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 13/B. § (1) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^53]: A 13/B. § (3) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 17. § (2) bekezdése iktatta be.

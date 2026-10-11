@@ -1,0 +1,237 @@
+---
+title: "158/2010. (V. 6.) Korm. rendelet a mezőgazdasági és élelmiszer-ipari termékek exportjával összefüggő intézkedésekről"
+identifier: "158/2010. (V. 6.) Korm. rendelet"
+njt_id: "2010-158-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/158"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-05-06
+in_force_from: 2010-05-14
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-158-20-22"
+retrieved: 2026-10-12
+---
+
+# 158/2010. (V. 6.) Korm. rendelet a mezőgazdasági és élelmiszer-ipari termékek exportjával összefüggő intézkedésekről
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (1) bekezdés *d)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában:
+
+1\. *elektronikus exportbizonyítvány:* az ügyfél kérésére elektronikus felhasználási móddal nyilvántartásba vett exportengedély;
+
+2\. *exportadó:* adott termékek kiviteléhez kapcsolódóan a mennyiségi egységre vetített, közösségi jogszabály által meghatározott befizetési kötelezettség;
+
+3\. *exportbizonyítvány:* a kiviteli eljárást megindító ügyfél részére az Európai Közösség területéről kiszállítható árura, a meghatározott mennyiség – a feldolgozott mezőgazdasági termékek esetén az export-visszatérítés összegének – erejéig, a feltüntetett időbeli hatállyal kiállított okirat, valamint a visszatérítés előzetes rögzítés melletti igénybevételét szolgáló előzetes rögzítésű bizonyítvány;
+
+4\. *export-visszatérítés:* adott termékek kiviteléhez nyújtott, mennyiségi egységre vetített, közösségi jogszabály által meghatározott visszatérítési támogatás;
+
+5\. *non-Annex I. termékek:* az Európai Közösséget létrehozó Szerződés 1. számú mellékletében nem szereplő, egyes feldolgozott mezőgazdasági és élelmiszer-ipari termékek;
+
+6.[^1] *recept:* az ügyfél Non-Annex I. termékek vonatkozásában a feldolgozott termék gyártásakor használt, export-visszatérítésben részesíthető alaptermékek mennyiségéről szóló nyilatkozata alapján, a Magyar Államkincstár (a továbbiakban: Kincstár) által elfogadott és nyilvántartásba vett termékösszetétel-igazolás.
+
+## 2. §
+
+(1)[^2] Az exportbizonyítvány iránti kérelmet a Kincstárhoz a mezőgazdasági termékekre vonatkozó behozatali és kiviteli engedélyek és előzetes rögzítési igazolások rendszerének alkalmazására kialakított részletes közös szabályok meghatározásáról szóló, 2008. április 23-i 376/2008/EK bizottsági rendelet (a továbbiakban: 376/2008/EK bizottsági rendelet) I. számú mellékletében meghatározott adattartalmú, a Kincstár által rendszeresített és a Kincstár honlapján közzétett, valamint a kormányzati portálról is elérhető formanyomtatványon – a 376/2008/EK bizottsági rendelet 12. cikk (1) bekezdésére figyelemmel – postai úton, személyesen, telefaxon, vagy elektronikus kérelem formájában lehet benyújtani. A kérelem Kincstár általi elektronikus fogadásának tényét a központi elektronikus szolgáltató rendszerben az ügyfél értesítési tárhelyére történt feltöltés jelenti, beérkezésének időpontját pedig az értesítési tárhelyére kapott automatikus értesítés igazolja.
+
+(2) Az exportbizonyítvány iránti kérelmen fel kell tüntetni az ügyfél-regisztrációs számot.
+
+(3) Az exportbizonyítvány iránti kérelmen az ügyfél – az exportbizonyítvány felhasználási módjának megjelölésével – köteles megadni, hogy az engedélyt elektronikus vagy papír alapú okiratként kívánja-e használni.
+
+(4)[^3] Az exportbizonyítványokat és azok kivonatait a Kincstár állítja ki.
+
+## 3. §
+
+(1)[^4] A kiállított exportbizonyítvány adatait a Kincstár elektronikus úton közli a vámhatósággal.
+
+(2)[^5] A kiállított exportbizonyítványt a Kincstár elektronikus úton közli az ügyféllel, egyúttal értesítést küld az ügyfél Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben megadott elektronikus levelezési (e-mail) címére.
+
+(3)[^6]
+
+## 4. §
+
+(1)[^7] A Kincstár nyilvántartásában elektronikus felhasználási móddal szereplő exportbizonyítvány használata esetén az ügyfél nem köteles papír alapú engedély bemutatására a kiviteli irányú vámkezelés során.
+
+(2)[^8] Az exportbizonyítvány hatálya alatt az exportengedély tulajdonosának kérelmére a Kincstár dönt a korábban kiállított engedély felhasználási módjának megváltoztatásáról.
+
+## 5. §
+
+(1)[^9] Export-visszatérítés iránti kérelmet (a továbbiakban: visszatérítési kérelem) az árunyilatkozat – a Nemzeti Adó- és Vámhivatal által kiadott kitöltési útmutatóban (a továbbiakban: NAV útmutató) foglaltakra figyelemmel történő – kitöltésével kell benyújtani a vámeljárást végző adó- és vámigazgatósághoz a kiviteli vámeljárás alkalmával előírt egyéb okmányokkal együtt.
+
+(2)[^10] A vámhatóság az elektronikus visszatérítési kérelem és az elektronikus árunyilatkozat adatait – a vámeljárás során felmerült tények rögzítését követően – elektronikus úton megküldi a Kincstárnak.
+
+(3)[^11] Az árunyilatkozat 44. rovatában a NAV útmutatóban foglaltakra figyelemmel kell feltüntetni az adatokat, kódszámokat.
+
+(4)[^12] Ha a mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló, 2009. július 7-i 612/2009/EK bizottsági rendelet (a továbbiakban: 612/2009/EK bizottsági rendelet) 4. cikke, vagy más közösségi rendelet előírása szerint az export-visszatérítés igényléséhez nem kötelező exportbizonyítványt alkalmazni, akkor az exportőr a NAV útmutatóban foglaltakra figyelemmel köteles feltüntetni a megfelelő technikai kódot az elektronikus áru-nyilatkozaton.
+
+## 6. §
+
+(1)[^13] Az ügyfél az export-visszatérítés előzetes kifizetését az árunyilatkozat 44. rovatában feltüntetett, a NAV útmutatóban megadott megfelelő kód használatával igényelheti, a 612/2009/EK bizottsági rendeletben meghatározott mértékű biztosíték Kincstárnál történő nyújtásával.
+
+(2) Előzetes kifizetés nem teljesíthető, ha a kifizetendő összeg nem haladja meg a 2000 eurót.
+
+## 7. §
+
+Konténeres tengeri szállítás esetén megérkezési bizonyítékként a fuvarokmány helyett elfogadható az annak tartalmával megegyező, szállítási tevékenységre szakosodott fél által nyújtott információ, feltéve, hogy az általa működtetett információs rendszer, mint az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2006. június 21-i 885/2006/EK bizottsági rendelet (a továbbiakban: 885/2006/EK bizottsági rendelet) I. melléklet 3.B) pontjában meghatározott és az adott időszakra vonatkozóan érvényes nemzetközileg elfogadott szabványok egyikében definiált követelményeknek megfelel.
+
+## 8. §
+
+(1) A harmadik országokba történő megérkezés igazolása alól az ügyfél a 612/2009/EK bizottsági rendelet 24. cikkében meghatározott esetekben mentesül.
+
+(2) Távoli visszatérítési zónába történő export esetén, konténeres tengeri szállításkor megérkezési bizonyítékként a kirakodási okmány helyett elfogadható az annak tartalmával megegyező, szállítási tevékenységre szakosodott és a kirakodásért is felelős fél által nyújtott információ, feltéve, hogy az általa működtetett információs rendszer, mint a 885/2006/EK bizottsági rendelet I. melléklet 3.B) pontjában meghatározott és az adott időszakra vonatkozóan érvényes nemzetközileg elfogadott szabványok egyikében definiált követelményeknek megfelel.
+
+(3)[^14] Távoli visszatérítési zónába történő export esetén az (1) bekezdés szerinti mentesség tárgyában a Kincstár dönt.
+
+## 9. §
+
+Ha közvetlenül és kötelezően alkalmazandó uniós jogi aktus normatív exportadó megfizetését rendeli el, azt a vámkezeléssel egyidejűleg a vámhatóság részére kell megfizetni.
+
+## 10. §[^15]
+
+Az élő szarvasmarha közösségi vámterületről történő kivitelénél a 1254/1999/EK rendelete részletes szabályairól az export-visszatérítés feltételét képező, az élő szarvasmarha szállítás alatti jólétének betartása vonatkozásában szóló, 2003. április 9-i 639/2003/EK bizottsági rendelet által meghatározott hatósági állatorvosi jelentést az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal állítja ki. Az ügyfél köteles a kormányhivatalnak kiléptető ponton tartózkodó eljárásra jogosult képviselőjét 24 órával a szállítmány megérkezése előtt értesíteni.
+
+## 11. §[^16]
+
+(1)[^17] Kifejlett hímivarú szarvasmarhából származó friss vagy hűtött hús kivitele esetén a rendkívüli export-visszatérítés igényléséhez szükséges vágási bizonyítványt a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) állítja ki.
+
+(2)[^18] A vágási bizonyítvány iránti kérelmet a marha- és borjúhúsra vonatkozó rendkívüli export-visszatérítések feltételeinek megállapításáról szóló, 2007. április 20-i 433/2007/EK bizottsági rendelet I. melléklete szerinti formanyomtatványon kell a NÉBIH-hez benyújtani.
+
+## 12. §
+
+(1)[^19] Kifejlett hímivarú szarvasmarhából származó friss vagy hűtött hús kicsontozását legkésőbb a munkafolyamat megkezdése előtt nyolc nappal a NÉBIH-nél be kell jelenteni.
+
+(2)[^20] A Kicsontozott Hús Bizonyítvány iránti kérelmet az egyes csontozott marhahúsokra nyújtott különleges export-visszatérítésekre vonatkozó feltételek megállapításáról szóló, 2007. november 21-i 1359/2007/EK bizottsági rendelet I., illetve II. számú melléklete szerinti formanyomtatványon kell a NÉBIH-hez benyújtani. A bizonyítvány kiállítására a 11. § szerinti eljárás irányadó azzal, hogy a csontozás helyén helyszíni szemlét kell tartani.
+
+(3) A 11. § (1) és (2) bekezdése szerinti bizonyítványok együttesen állíthatók ki és nyújtandók be a vámhatósághoz.
+
+## 13. §
+
+(1)[^21] A 3448/93/EK tanácsi rendeletnek a Szerződés I. mellékletében nem szereplő áruk formájában exportált egyes mezőgazdasági termékekre vonatkozó export-visszatérítési rendszer és az ilyen visszatérítések összegének megállapítására szolgáló szempontok tekintetében történő végrehajtásáról szóló, 2005. június 30-i 1043/2005/EK bizottsági rendelet II. számú mellékletében szereplő Non-Annex I. termékek visszatérítéssel történő kivitele esetén a termék összetételéről a vámeljárás megkezdésekor a Kincstár által rendszeresített és a honlapján közzétett formanyomtatványon kell nyilatkozni, amely tartalmazza:
+
+a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Tv.) meghatározott ügyfél-azonosító adatokat;
+
+b) a vámokmány-azonosítót;
+
+c) a támogatott alap-, vagy származtatott összetevő mennyiségét; és
+
+d) a támogatott alap-, vagy származtatott összetevő termék-, vagy KN-kódját.
+
+(2)[^22] Az (1) bekezdésben meghatározott termékek esetében a recept nyilvántartásba vétel iránti kérelmet a Kincstárhoz az általa rendszeresített és a honlapján közzétett formanyomtatványon kell benyújtani, amely tartalmazza:
+
+a) a Tv-ben meghatározott ügyfél-azonosító adatokat;
+
+b) a támogatott alap-, vagy származtatott összetevő mennyiségét;
+
+c) a támogatott alap-, vagy származtatott összetevő termék-, vagy KN-kódját; és
+
+d) a gyártási receptúra adatokat.
+
+(3)[^23] Az ügyfél kérheti a termék összetételének meghatározása céljából hatósági analízis elvégzését. Hatósági analízis elvégzésére a NÉBIH akkreditált laboratóriumai jogosultak.
+
+(4)[^24] A Kincstár a nyilvántartásba vételről dönt és a receptet nyilvántartási számmal látja el. A nyilvántartási számot kiszállításkor fel kell tüntetni az elektronikus árunyilatkozat 44. rovatában.
+
+(5)[^25] A Kincstár a benyújtott termékösszetételről szóló nyilatkozatok valódiságát az alábbi módszerek alkalmazásával ellenőrizheti:
+
+a) készletnyilvántartások ellenőrzése,
+
+b) gyártási eljárás ellenőrzése,
+
+c) mintavételen alapuló laboratóriumi analízis alkalmazása.
+
+(6)[^26] A Kincstár abban az esetben, ha a bejelentett recept nem felel meg a valós helyzetnek, a recept nyilvántartásba vételt visszavonja. Az ügyfél köteles a receptről szóló nyilatkozatban foglaltakban történő bármely változást a Kincstár részére bejelenteni.
+
+## 14. §[^27]
+
+Ha a Non-Annex I. termékeket az Európai Unió valamely más tagállamát nem érintve, közvetlenül Magyarországról exportálják, a Kincstár a vonatkozó exportbizonyítványt elektronikus formában tárolja.
+
+## 15. §[^28]
+
+E rendelet hatálya alá tartozó eljárásokban a Magyarországról induló és az Európai Unió valamely más tagállamát nem érintő kiszállítás esetén a kivitelre vonatkozó kötelezettség teljesítésének bizonyítékául szolgál a kiviteli vámhivatal által az áru kilépésére vonatkozóan az exportőr vagy a nyilatkozattevő számára kiadott, az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2447/2015/EU bizottsági rendelet 334. cikkében említett igazolás. A vámhatóság a kilépés tényét igazoló okmányt továbbítja a Kincstár részére.
+
+## 16. §[^29]
+
+Az Orosz Föderáció területére szállított egyes marhahús-, borjúhús- és sertéshússzállítmányok kivitele esetén az Orosz Föderáció területére szállított egyes marhahús-, borjúhús- és sertéshús-szállítmányokra vonatkozó információközlési rendszer létrehozásáról szóló, 2008. november 28-i 1180/2008/EK bizottsági rendeletben meghatározott adatokat az ügyfélnek a Kincstár részére kell megküldeni.
+
+## 17. §[^30]
+
+Az 1902 11 00 és 1902 19 KN kódszám alá tartozó száraztészta Amerikai Egyesült Államokba irányuló kiviteléhez szükséges „P2” bizonyítványt a Kincstár állítja ki.
+
+## 18. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+## 19. §
+
+E rendelet
+
+a) a mezőgazdasági termékekre vonatkozó behozatali és kiviteli engedélyek és előzetes rögzítési igazolások rendszerének alkalmazására kialakított részletes közös szabályok meghatározásáról szóló, 2008. április 23-i 376/2008/EK bizottsági rendelet;
+
+b) a mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló, 2009. július 7-i 612/2009/EK bizottsági rendelet;
+
+c) a mezőgazdasági termékeket érintő biztosítéki rendszer alkalmazására vonatkozó közös részletes szabályok megállapításáról szóló, 1985. július 22-i 2220/85/EGK bizottsági rendelet;
+
+d) a mezőgazdasági termékekre vonatkozó exportlefölözések és terhek részletes közös alkalmazási szabályainak megállapításáról szóló, 1989. január 19-i 120/89/EGK bizottsági rendelet;
+
+e) a mezőgazdasági termékek export-visszatérítési nómenklatúrájának létrehozásáról szóló, 1987. december 17-i 3846/87/EGK bizottsági rendelet;
+
+f) a marha- és borjúhúsra vonatkozó rendkívüli export-visszatérítések feltételeinek megállapításáról szóló, 2007. április 20-i 433/2007/EK bizottsági rendelet;
+
+g) az egyes csontozott marhahúsokra nyújtott különleges export-visszatérítésekre vonatkozó feltételek megállapításáról szóló, 2007. november 21-i 1359/2007/EK bizottsági rendelet;
+
+h) az Orosz Föderáció területére szállított egyes marhahús-, borjúhús- és sertéshús-szállítmányokra vonatkozó információközlési rendszer létrehozásáról szóló, 2008. november 28-i 1180/2008/EK bizottsági rendelet;
+
+i) az 1254/1999/EK rendelete részletes szabályairól az export-visszatérítés feltételét képező, az élő szarvasmarha szállítás alatti jólétének betartása vonatkozásában szóló, 2003. április 9-i 639/2003/EK tanácsi rendelet;
+
+j) a 3448/93/EK tanácsi rendeletnek a Szerződés I. mellékletében nem szereplő áruk formájában exportált egyes mezőgazdasági termékekre vonatkozó export-visszatérítési rendszer és az ilyen visszatérítések összegének megállapítására szolgáló szempontok tekintetében történő végrehajtásáról szóló, 2005. június 30-i 1043/2005/EK bizottsági rendelet;
+
+k) az Európai Közösséget létrehozó Szerződés I. mellékletében felsorolt egyes alaptermékek meghatározott mennyiségeinek az aktív feldolgozással kapcsolatos intézkedések szerinti és a gazdasági feltételek előzetes vizsgálata nélküli kihelyezése tekintetében a 3448/93/EK tanácsi rendelet alkalmazási szabályainak megállapításáról szóló, 2001. július 19-i 1488/2001/EK bizottsági rendelet;
+
+l) a 19021100 és a 190219 KN-kód alá tartozó, száraztésztatermékek formájában exportált gabona export-visszatérítési rendszere alkalmazásának különleges részletes szabályai megállapításáról szóló, 2006. december 12-i 88/2007/EK bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 20. §[^31]
+
+## 21. §[^32]
+
+## 22. §[^33]
+
+---
+
+[^1]: Az 1. § 6. pontja a 328/2016. (X. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § b) és c) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 297. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 4. § (1) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 27. § b) pontja, a 328/2016. (X. 28.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^15]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 154. §-ával megállapított szöveg.
+[^16]: A 11. § a 351/2010. (XII. 30.) Korm. rendelet 278. § (2) bekezdésével megállapított szöveg.
+[^17]: A 11. § (1) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 11. § (2) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 12. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 278. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 54. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 12. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 278. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 54. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 13. § (1) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^22]: A 13. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
+[^23]: A 13. § (3) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 13. § (4) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^25]: A 13. § (5) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^26]: A 13. § (6) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) és e) pontja szerint módosított szöveg.
+[^27]: A 14. § a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^28]: A 15. § a 88/2016. (IV. 29.) Korm. rendelet 25. §-ával megállapított, a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^29]: A 16. § a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^30]: A 17. § a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^31]: A 20. §-t a 22. § (1) bekezdése hatályon kívül helyezte.
+[^32]: A 21. §-t a 22. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 22. §-t a (3) bekezdés hatályon kívül helyezte.

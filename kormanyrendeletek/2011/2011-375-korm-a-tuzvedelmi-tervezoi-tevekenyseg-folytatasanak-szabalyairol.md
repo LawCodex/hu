@@ -1,0 +1,346 @@
+---
+title: "375/2011. (XII. 31.) Korm. rendelet a tűzvédelmi tervezői tevékenység folytatásának szabályairól"
+identifier: "375/2011. (XII. 31.) Korm. rendelet"
+njt_id: "2011-375-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/375"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-31
+in_force_from: 2012-01-05
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-375-20-22"
+retrieved: 2026-10-12
+---
+
+# 375/2011. (XII. 31.) Korm. rendelet a tűzvédelmi tervezői tevékenység folytatásának szabályairól
+
+A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés i) pontjában kapott felhatalmazás alapján az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+(1)[^2] E rendelet hatálya kiterjed minden, a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 34. pontjában meghatározott építmény (építmény, építményrész, építményegyüttes), külön jogszabály szerinti építésügyi hatósági (létesítési) engedélyezéséhez és műszaki megvalósításához (kivitelezéséhez) szükséges tűzvédelmi dokumentáció, valamint a beépített tűzjelző és tűzoltó berendezés létesítéséhez, tűzvédelmi hatósági engedélyezéséhez szükséges tervdokumentáció készítésére.
+
+(2)[^3] A tűzvédelmi tervezői tevékenység folytatására és a tűzvédelmi tervezők továbbképzésére az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(3) E rendelet alkalmazásában:
+
+1\. beépített tűzjelző berendezés tervezői tevékenység: a beépített tűzjelző berendezés létesítésének, átalakításának engedélyezési eljárásához és a kivitelezéshez szükséges dokumentáció elkészítése,
+
+2\. beépített tűzoltó berendezés tervezői tevékenység: a beépített tűzoltó berendezés létesítésének, átalakításának engedélyezési eljárásához és a kivitelezéshez szükséges dokumentáció elkészítése,
+
+3\. építésügyi tűzvédelmi tervezői tevékenység: a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése,
+
+4\. országos szakmai kamara: a Magyar Mérnöki Kamara és a Magyar Építész Kamara,
+
+5.[^4] területi szakmai kamara: a területi mérnöki kamarának, illetve a területi építész kamarának a Méptv.-ben meghatározott közigazgatási ügyben eljáró szerve,
+
+6\. tűzvédelmi tervezői tevékenység: az 1., 2. és 3. pont szerinti tevékenység gyakorlása.
+
+7\. tűzvédelmi szakvizsga bizonyítvány: a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló 45/2011. (XII. 7.) BM rendeletben foglalt érvényes tűzvédelmi szakvizsga bizonyítvány.
+
+## 2. §
+
+(1)[^5] Építésügyi tűzvédelmi tervezői tevékenység végzéséhez
+
+a)[^6] tűzvédelmi mérnök, tűzvédelmi szakmérnök, építőmérnök, illetve építészmérnök tűz- és katasztrófavédelmi szakirányú végzettség, és,
+
+b) a területi mérnöki kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel, vagy a területi építész kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel
+
+szükséges.
+
+(2)[^7] Az építésügyi tűzvédelmi tervezői jogosultság megállapításánál a szakmai gyakorlati idő igazolása
+
+a) az (1) bekezdés a) pontja szerint meghatározott végzettség megszerzését követően
+
+aa) legalább ötéves tűzvédelmi szakterületen végzett, vagy
+
+ab) felsőoktatási intézményben legalább három éves tűzvédelmi szaktárgy-oktatói
+
+gyakorlattal, vagy
+
+b) az illetékes építész vagy mérnök kamarák valamelyikében építész, építési, tartószerkezeti, épületgépészeti, gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai szakmai névjegyzékben való szerepléssel
+
+bizonyítható.
+
+(3) A Ttv. 21. §-ban meghatározott tűzvédelmi dokumentációt kötelező készíteni, ha
+
+a) az általános és sajátos építményfajták szerinti, valamint a műemlékvédelmi építésügyi hatósági eljárásokban a vonatkozó jogszabály tűzvédelmi szakhatóság bevonását írja elő,
+
+b) az építmény kettő vagy több pinceszintet tartalmaz.
+
+## 2/A. §[^8]
+
+(1) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői tevékenység végzéséhez
+
+a)[^9] a felsőoktatásban szerezhető képesítések jegyzékéről és új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendelet 3. mellékletében megállapított műszaki képzési területen szerzett mérnöki szakképzettség;
+
+b) a szakterületnek megfelelő érvényes tűzvédelmi szakvizsga bizonyítvány,
+
+c) a területi mérnöki kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel
+
+szükséges.
+
+(2) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői jogosultság megállapításánál a szakmai gyakorlati idő igazolása a végzettség megszerzését követő legalább ötéves beépített tűzjelző vagy beépített tűzoltó berendezés tervezési szakterületen végzett gyakorlattal történhet.
+
+## 3. §
+
+(1)[^10] A tűzvédelmi tervező a bejegyzett adataiban bekövetkezett változást tíz napon belül írásban köteles bejelenteni a területi szakmai kamarának.
+
+(2) A szakmai továbbképzés szabadon választható témaköreiben tanfolyamot a tűzvédelmi tervezők tekintetében a hivatásos katasztrófavédelmi szerv központi szerve is indíthat.
+
+(3)[^11] A beszámolóval végződő kötelező továbbképzés követelményrendszerét az 1. melléklet tartalmazza.
+
+## 4. §[^12]
+
+(1) Nem folytathat tűzvédelmi tervezői tevékenységet a tűzvédelmi dokumentáció, valamint a beépített tűzjelző és tűzoltó berendezés tervdokumentációjának engedélyezésében, szakhatósági bírálatában vagy az annak alapján megvalósítandó építmény, berendezés kivitelezésében és annak használatbavétele során hatósági feladatot ellátó személy.
+
+(2) A tűzvédelmi tervezői tevékenységek körét a 2. melléklet tartalmazza.
+
+(3) A beépített tűzjelző vagy beépített tűzoltó berendezés tervezőnek az általa készített terveket, iratokat és számításokat, a tervezői nyilatkozatot alá kell írnia, és ezzel azonos helyen fel kell tüntetnie szakképesítését, értesítési címét, valamint a tervezői névjegyzékben szereplő nyilvántartási számát. A tűzvédelmi tervezőnek, szakértőnek a jogosultságát igazoló azonosító számmal és aláírásával kell ellátnia az általa készített tűzvédelmi dokumentációt.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+## 6. §[^13]
+
+(1) Aki a területi szakmai kamara által vezetett névjegyzékben szerepel és részt vesz az országos szakmai kamara által szervezett tűzvédelmi tervezői tanfolyamon, az eredményes vizsgát követően 2016. december 31-ig végezhet tűzvédelmi tervezői tevékenységet.
+
+(2) A tanfolyamon való részvételhez 5 évnél régebbi tervezői jogosultság szükséges.
+
+(3) Aki az (1) bekezdésben foglalt követelményeket teljesítette és igazolja, hogy a 2. § (1) bekezdés a) pontjában foglalt szakirányú végzettséget 2017. december 31-ig megszerzi, tűzvédelmi tervező tevékenységet a szakirányú végzettség megszerzéséig korlátozás nélkül végezhet.
+
+(4) Aki a 2. § (1) bekezdés a) pontjában foglalt szakirányú végzettséget 2017. december 31-ig nem szerzi meg, tűzvédelmi tervezői tevékenységet 2018. január 1-jétől a szakirányú végzettség megszerzéséig nem végezhet.
+
+## 1. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^14]
+
+*A beszámolóval végződő kötelező továbbképzés követelményrendszere*[^15]
+
+A beszámoló követelményei két főrészből állnak: általános és különös követelmények.
+
+Az általános rész a tűzvédelmi tervezői tevékenység közös ismeretanyagát tartalmazza.
+
+A különös rész külön tartalmazza az építésügyi tűzvédelmi tervezőre, a beépített tűzjelző vagy tűzoltó berendezés tervezőre vonatkozó speciális ismereteket.
+
+**1. Általános követelmények**
+
+1\. A vizsgázó ismerje:
+
+1\. a jogi környezet általános felépítését (jogszabályi hierarchia);
+
+2\. a kötelmi jogon belül a szerződésekre vonatkozó általános szabályokat (tartalmi és formai követelmények, érvényesség);
+
+3\. vállalkozási alapismereteket és az adózásra vonatkozó általános követelményeket, előírásokat;
+
+4\. a munkavállaló, és munkáltató alapjogait és kötelezettségeit;
+
+5.[^16] a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános szabályait (az eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
+
+6.
+
+6.1. a Ttv. szerkezetét,
+
+6.2. a Ttv. általános fogalmait,
+
+6.3. a tűzmegelőzési feladatokat,
+
+6.4. a magánszemélyek, a jogi személyek, valamint a magán- és jogi személyek jogi személyiséggel nem rendelkező szervezeteinek tűzvédelemmel és műszaki mentéssel kapcsolatos feladatait;
+
+7.
+
+7.1. az Országos Tűzvédelmi Szabályzat szerkezetét,
+
+7.2.[^17] a kockázati osztályba, valamint az anyagok tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
+
+7.3. a tűzállósági fokozatokat, és a telepítési,- tűztávolságokra vonatkozó előírásokat,
+
+7.4. az építmények tűzszakaszolási elveit,
+
+7.5. az építmények kiürítésére vonatkozó követelményeket, számítási elveit,
+
+7.6. tűzjelzés és az épületben tartózkodók riasztási rendszerének kialakítását,
+
+7.7. építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeit, azok összefüggéseit,
+
+7.8. az építmény használatára vonatkozó általános tűzvédelmi szabályokat;
+
+8\. a közbeszerzés általános (tevékenységével összefüggő) szabályait;
+
+9\. a minőségirányítás rendszerét;
+
+10\. a kötelező alkalmassági időre vonatkozó előírásokat;
+
+11\. a megfelelőség igazolására, megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat;
+
+12\. a szabványokra vonatkozó alapvető fogalmakat, a szabványok alkalmazására vonatkozó általános szabályokat, a szabványtípusokat.
+
+2\. Kapcsolódó jogszabályok:
+
+A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és szabályzatok a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
+
+**2. Különös követelmények**
+
+1\. Az építésügyi tűzvédelmi tervező ismerje a szakterületén
+
+*a)*[^18] a Méptv.
+
+*aa)* szerkezetét,
+
+*ab)* általános fogalmait,
+
+*ac)* építményekkel szemben támasztott általános követelményeit,
+
+*ad)* az építésügyi hatósági engedélyezésre vonatkozó előírásait,
+
+*ae)*[^19]
+
+*b)* az építésügyi hatóság szervezeti rendszerét (ideértve a sajátos építményfajtákat és a műemlékvédelmet is);
+
+*c)* a különleges szabályozás alá eső – így különösen az örökségi (műemléki) védelem alatt álló – épületekkel és építményekkel kapcsolatos jogi-szabályozási környezetet;
+
+*d)* a tűzvédelmi tervezői jogosultság feltételrendszerét;
+
+*e)* tervezői feladatait, felelősségi körét, jogait és kötelezettségeit;
+
+*f)* az összeférhetetlenségi és etikai-fegyelmi szabályokat;
+
+*g)* a tűzvédelmi tervezésre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
+
+*h)* a tűzvédelmi tervek és kivitelezési tervek tartalmi követelményeit;
+
+*i)* az ajánlati dokumentáció tartalmi követelményeit;
+
+*j)* a kamarai szabályzatokat.
+
+2\. A beépített tűzjelző vagy beépített tűzoltó berendezés tervező ismerje a szakterületén
+
+*a)* a tervezői jogosultság feltételrendszerét;
+
+*b)* feladatait, felelősségi körét, jogait és kötelezettségeit;
+
+*c)* az összeférhetetlenségi és fegyelmi szabályokat;
+
+*d)* a tevékenységre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
+
+*e)* a létesítési engedélyezési eljáráshoz és kivitelezéshez szükséges dokumentáció tartalmi követelményeit;
+
+*f)* az ajánlati dokumentáció tartalmi követelményeit;
+
+*g)* a kamarai szabályzatokat.
+
+3\. Kapcsolódó jogszabályok:
+
+A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
+
+## 2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^20]
+
+**I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK**\
+**ÉS A HOZZÁJUK TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG**
+
+1\. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+
+*a)* építmények tűzvédelmi koncepciójának átfogó tervezése;
+
+*b)* építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+
+*c)* épületek, építmények tűzszakaszolási rendszerének tervezése;
+
+*d)* építmények tűzgátló szerkezeteinek tervezése;
+
+*e)* építmények telepítési-, tűztávolságának tervezése;
+
+*f)*[^21] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+
+*g)* építmények tűzterhelésének, tűzidőtartamának tervezése;
+
+*h)* tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+
+*i)* építmények kiürítésének, kiürítési útvonalainak tervezése;
+
+*j)* hasadó, illetve hasadó-nyíló felületek tervezése;
+
+*k)* építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
+
+*l)* építmények tűzoltásának tűzoltási feltételeinek tervezése.
+
+2\. Beépített tűzjelző berendezés tervezői szakterület (betűjele: TUJ)
+
+*a)* rendszertervezési követelmények megállapítása;
+
+*b)* jelzési, riasztási zónák kiosztása;
+
+*c)* a tűzjelző rendszer elemeinek kiosztása, elhelyezése;
+
+*d)* tűz- és hibajelzések fogadásának tervezése;
+
+*e)* távkezelő és/vagy távkijelző egységek, átjelzések tervezése;
+
+*f)* vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése.
+
+3\. Beépített tűzoltó berendezés tervezői szakterület (betűjele: TUO)
+
+*a)* rendszertervezési követelmények megállapítása;
+
+*b)* a védett szakaszok besorolásának megállapítása;
+
+*c)* vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése;
+
+*d)* oltás- és hibajelzések fogadásának tervezése;
+
+*e)* méretezési eljárás készítése.
+
+**II. AZ ÉPÍTÉSZ KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLET**\
+**ÉS A HOZZÁ TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG**
+
+1\. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+
+*a)* építmények tűzvédelmi koncepciójának átfogó tervezése;
+
+*b)* építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+
+*c)* épületek, építmények tűzszakaszolási rendszerének tervezése;
+
+*d)* építmények tűzgátló szerkezeteinek tervezése;
+
+*e)* építmények telepítési-, tűztávolságának tervezése;
+
+*f)*[^22] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+
+*g)* építmények tűzterhelésének, tűzidőtartamának tervezése;
+
+*h)* tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+
+*i)* építmények kiürítésének, kiürítési útvonalainak tervezése;
+
+*j)* hasadó, illetve hasadó-nyíló felületek tervezése;
+
+*k)* építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
+
+*l)* építmények tűzoltásának tűzoltási feltételeinek tervezése.
+
+---
+
+[^1]: Az 1. § a 74/2012. (IV. 13.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 70. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés 5. pontja a 285/2024. (IX. 30.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés a) pontja az 522/2013. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2/A. §-t a 74/2012. (IV. 13.) Korm. rendelet 20. §-a iktatta be.
+[^9]: A 2/A. § (1) bekezdés a) pontja a 139/2015. (VI. 9.) Korm. rendelet 13. § (3) bekezdése, az 569/2022. (XII. 23.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § a 74/2012. (IV. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^13]: A 6. § az 522/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (1) bekezdésével megállapított, az 522/2013. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^15]: Az 1. melléklet címe az 522/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 1. pont 5. alpontja a 340/2024. (XI. 14.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet 1. pont 7.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpontja a 285/2024. (IX. 30.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpont ae) pontját a 285/2024. (IX. 30.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^20]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. melléklet I. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^22]: A 2. melléklet II. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.

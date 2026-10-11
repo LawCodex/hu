@@ -1,0 +1,71 @@
+---
+title: "32/2019. (III. 5.) Korm. rendelet a kormányzati igazgatásról szóló 2018. évi CXXV. törvény illetménykülönbözet-számítással összefüggő átmeneti rendelkezéseinek alkalmazásáról"
+identifier: "32/2019. (III. 5.) Korm. rendelet"
+njt_id: "2019-32-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/32"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-03-05
+in_force_from: 2019-03-06
+last_amended: 2019-03-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-32-20-22"
+retrieved: 2026-10-12
+---
+
+# 32/2019. (III. 5.) Korm. rendelet a kormányzati igazgatásról szóló 2018. évi CXXV. törvény illetménykülönbözet-számítással összefüggő átmeneti rendelkezéseinek alkalmazásáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotó hatáskörében, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (13) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 286. § (5) bekezdése alapján az érintettet megillető összeg az érintett számára a Kit. 286. § (3) bekezdése alapján megállapított havi bruttó illetmény kétszeresének és az érintett által a 2019. január és február hónapban kormányzati szolgálati jogviszonya alapján megszerzett bruttó jövedelme összegének a különbözete.
+
+## 2. §
+
+Az 1. § alkalmazásában érintettnek minősül
+
+a) a Kit. 2. § (1) bekezdés *a)* pontja szerinti szervnél foglalkoztatott kormánytisztviselő,
+
+b) a Kit. 3. § (2) bekezdés *c)* pontja szerinti tanácsadó,
+
+c) a Kit. 3. § (8) bekezdés *c)* és *d)* pontja szerinti – a Kit. 2. § (1) bekezdés *a)* pontja szerinti szervnél foglalkoztatott – szakmai vezető,
+
+d) a Kit. 3. § (7) bekezdés *a)–c)* pontja szerinti szakmai felsővezető és
+
+e) a Kit. 3. § (5) bekezdés *c)* pontja szerinti miniszteri biztos.
+
+## 3. §
+
+(1) Az 1. § alkalmazásában jövedelemnek minősül a 2019 januárjában és februárjában a kormányzati szolgálati jogviszonya alapján az érintettnek kifizetett vagy kifizetésre kerülő illetmény, ha ugyanazon kormányzati igazgatási szervvel állt fenn a jogviszonya.
+
+(2) Az (1) bekezdés alkalmazásában ugyanazon kormányzati igazgatási szervnek minősülnek azok a kormányzati igazgatási szervek, amelyek tekintetében az érintett jogviszonyát – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) alapján – 2019. január 1. és 2019. február 28. között folyamatosnak kell tekinteni.
+
+(3) Ha az érintett a 2019. január 1. és 2019. február 28. közötti időszak egy részét fizetés nélküli szabadságon vagy olyan távolléten tölti, amelyre nem vagy csökkentett összegben jár díjazás, az 1. § alkalmazása során az érintett számára a Kit. 286. § (3) bekezdése alapján megállapított illetménynek az érintett által munkában töltött, illetve a Kttv. 144. §-a szerinti díjazással érintett időtartammal arányos részét és összegét kell figyelembe venni.
+
+(4) Ha az érintett a 2019. január 1. és 2019. február 28. közötti időszak egészét fizetés nélküli szabadságon vagy olyan távolléten töltötte, amelyre nem járt díjazás, akkor az érintett számára nem állapítható meg a Kit. 286. § (5) bekezdése szerinti különbözet.
+
+(5) Ha az érintett jogviszonya 2019. január 1. és 2019. február 28. között jött létre, az 1. § alkalmazása során az érintett számára a Kit. 286. § (1) és (2) bekezdése alapján megállapított illetménynek az érintett által munkában töltött napok, illetve a Kttv. 144. §-a szerinti díjazással érintett időtartammal arányos részét kell figyelembe venni.
+
+## 4. §
+
+(1) Az 1. § alapján számított különbözet összegét az a kormányzati igazgatási szerv fizeti ki az érintett részére, amelyik az érintettet 2019. március 1-jén foglalkoztatja.
+
+(2) Ha az érintett foglalkoztatása 2019. március 1-jén határozott idejű áthelyezés vagy kirendelés keretében történik, az a kormányzati igazgatási szerv fizeti ki az 1. § alapján számított különbözet összegét az érintett részére, amelyik az áthelyezésről vagy a kirendelésről szóló megállapodás szerint a 2019. márciusi illetményt biztosítja. Megállapodás hiányában az (1) bekezdést kell alkalmazni.
+
+## 5. §
+
+A miniszteri biztos tekintetében a 1–4. §-t azzal az eltéréssel kell alkalmazni, hogy
+
+a) illetmény alatt díjazást,
+
+b) a 2019. március 1-jét megelőző kormányzati szolgálati jogviszony alatt miniszteri biztosi megbízatást,
+
+c) a 2019. március 1-jét követő kormányzati szolgálati jogviszony alatti biztosi jogviszonyt
+
+kell érteni.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

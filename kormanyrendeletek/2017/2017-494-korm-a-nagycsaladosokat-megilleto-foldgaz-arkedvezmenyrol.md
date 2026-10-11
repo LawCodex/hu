@@ -1,0 +1,253 @@
+---
+title: "494/2017. (XII. 29.) Korm. rendelet a nagycsaládosokat megillető földgáz árkedvezményről"
+identifier: "494/2017. (XII. 29.) Korm. rendelet"
+njt_id: "2017-494-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/494"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-29
+in_force_from: 2018-01-01
+last_amended: 2025-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-494-20-22"
+retrieved: 2026-10-12
+---
+
+# 494/2017. (XII. 29.) Korm. rendelet a nagycsaládosokat megillető földgáz árkedvezményről
+
+A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 13. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet hatálya a egyetemes földgázszolgáltatóra (a továbbiakban: egyetemes szolgáltató), az egyetemes szolgáltatást igénybe vevő felhasználóra (a továbbiakban: felhasználó), a földgázelosztóra (a továbbiakban: elosztó), valamint a Magyar Államkincstárra (a továbbiakban: Kincstár) és a fővárosi és vármegyei kormányhivatalokra terjed ki.
+
+## 2. §
+
+(1) E rendelet alkalmazásában
+
+1\. *fogyasztói közösség:* a közös gázmérővel rendelkező olyan lakóépületben vételezők összessége, ahol a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát,
+
+2\. *háztartás:* a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés f) pontja szerinti háztartás,
+
+3.[^2] *jogosult:* olyan természetes személy, aki a családok támogatásáról szóló törvény szerinti legalább három gyermek után, illetve figyelembevételével részesül családi pótlékban, vagy az e szerint családi pótlékban részesülő személlyel egy háztartásban él, és rendelkezik egyetemes földgázszolgáltatási szerződéssel lakossági fogyasztóként vagy közvetve fogyasztói közösség tagjaként,
+
+4\. *nagycsaládos kedvezmény:* a jogosult részére e rendelet szerint határozatban megállapított földgáz árkedvezmény.
+
+(2) Az (1) bekezdésben meg nem határozott fogalmakat a földgázellátásról szóló törvény, valamint a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
+
+## 3. §
+
+(1)[^3] A jogosult – a nagycsaládos kedvezményre vonatkozó jogosultság megállapítása esetén – három gyermek esetén a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló miniszteri rendeletben meghatározott kedvezményes lakossági sávhatáron felül további 22 086 MJ, valamint a negyedik gyermektől számítva gyermekenként további 11 043 MJ kedvezményes árú földgázmennyiségre jogosult naptári évenként.
+
+(2) A jogosult a nagycsaládos kedvezményt csak egy felhasználási helyen veheti igénybe. Fogyasztói közösség esetében egy felhasználási helyen több jogosult is igénybe vehet nagycsaládos kedvezményt.
+
+(3) Ha a jogosultnak a vele egy háztartásban élő, családi pótlékra jogosító személyre hivatkozással nagycsaládos kedvezményt állapítottak meg, a jogosulttal egy háztartásban élő más személy erre a személyre tekintettel további nagycsaládos kedvezményre nem jogosult.
+
+(4)[^4]
+
+(5)[^5] A nagycsaládos kedvezmény – a kérelem naptári év közben történő benyújtása esetén – a kérelem benyújtásának évében a naptári évből hátralévő időtartam fogyasztási jelleggörbe szerinti fogyasztásával arányos mértékben jár.
+
+## 4. §
+
+(1)[^6] A nagycsaládos kedvezményre való jogosultság tekintetében – az igénylő kérelmére – a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) jár el. A nagycsaládos kedvezményre való jogosultságot a kormányhivatal egyszerűsített határozattal állapítja meg. A jogosultakról a nyilvántartást a Kincstár vezeti.
+
+(2)[^7] Ha a nagycsaládos kedvezményre vonatkozó kérelem szerint a családi pótlékot a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendelet szerinti családtámogatási kifizetőhely folyósítja, a családi pótlékra való jogosultság igazolása érdekében a kormányhivatal megkeresi a Kincstárt és az igazolás alapján – a további jogosultsági feltételek fennállása esetén – az (1) bekezdés szerinti határozatot hoz.
+
+(3)[^8] A felhasználási hely, illetve fogyasztói közösség esetén a lakás megállapítása szempontjából a személyi adat- és lakcímnyilvántartás adatai, a nagycsaládos kedvezményre való jogosultság megállapítása szempontjából a Kincstárnál és a kormányhivatalnál a családi pótlékra való jogosultságra vonatkozó nyilvántartás adatai az irányadók.
+
+(4) A nagycsaládos kedvezményre való jogosultság megállapítása iránti kérelmet a 2. melléklet szerinti igénylőlapon kell benyújtani. Az igénylőlapot a Kincstár és a kormányhivatal, valamint az egyetemes szolgáltató honlapján elektronikusan hozzáférhetővé teszi.
+
+(5) A Kincstár az igénylőlaphoz útmutatót tesz közzé.
+
+(6)[^9] A kérelem benyújtásakor igazolni kell egyetemes földgázszolgáltatásra vonatkozó szerződéses jogviszonyt, vagy ha a egyetemes földgázszolgáltatási szerződés alapján történt már számlakibocsátás, akkor az utolsó számla teljesítését.
+
+(7) A kérelem benyújtásával az igénylő hozzájárul a kérelemben megadott személyes adatainak az egyetemes szolgáltató, valamint fogyasztói közösség esetén a fogyasztói közösség képviselője részére történő továbbításához.
+
+(8) A nagycsaládos kedvezményre való jogosultság megállapítására irányuló kérelem a naptári év folyamán bármikor benyújtható.
+
+(9) A nagycsaládos kedvezmény a családi pótlékra való jogosultságot megállapító végleges határozat szerinti időponttól, a nagycsaládos kedvezményre való jogosultság fennállásának idejéig jár. Ha a kérelem benyújtásakor a családi pótlékra való jogosultság két hónapnál hosszabb ideje áll fenn, a nagycsaládos kedvezmény visszamenőlegesen legfeljebb a kérelem benyújtását megelőző második hónap első napjától állapítható meg.
+
+## 5. §[^10]
+
+A nagycsaládos kedvezményre való jogosultságot megállapító döntésben a gyermekekre tekintettel adható nagycsaládos kedvezmény felső határáról MJ-ban kifejezve kell rendelkezni.
+
+## 6. §
+
+(1)[^11] A nagycsaládos kedvezményre való jogosultság megállapításáról vagy annak megszűnéséről a Kincstár az egyetemes szolgáltatót, a kormányhivatal a fogyasztói közösség képviselőjét a 3. melléklet szerinti adatok közlésével postai vagy elektronikus úton 5 napon belül értesíti.
+
+(2)[^12] Ha az (1) bekezdés szerinti értesítés hiányos, vagy hibás adatot tartalmaz, az egyetemes szolgáltató felhívására a kormányhivatal soron kívül gondoskodik az adatok helyesbítéséről és pótlásáról. A nagycsaládos kedvezmény csak a kormányhivatal által teljeskörűen és helyes adattartalommal átadott értesítés alapján érvényesíthető.
+
+(3)[^13] A jogosult a felhasználási helyében, illetve fogyasztói közösség esetén a lakásában történő változás esetében az adatváltozást a kormányhivatalnak bejelenti. A kormányhivatal az 5. § szerint az új felhasználási hely, illetve fogyasztói közösség esetén az új lakás tekintetében dönt a módosításról és az (1) bekezdés szerint értesíti az egyetemes szolgáltatót.
+
+(4)[^14] A jogosult a kérelemben foglalt adatok változását – ideértve a jogosultság feltételeinek megszűnését is – a változás bekövetkezésétől számított 15 napon belül bejelenti a kormányhivatalnak.
+
+## 7. §
+
+(1)[^15] A kormányhivatal a jogosultság feltételeinek a fennállására vonatkozóan ellenőrzést végezhet az igénylőnél és a jogosultnál. Ha az ellenőrzés megtartását az igénylő vagy a jogosult neki felróható okból akadályozza, a kormányhivatal a nagycsaládos kedvezményre való jogosultság megállapítására irányuló eljárást megszünteti vagy megvonja a fennálló jogosultságot.
+
+(2)[^16] A kormányhivatal minden év december 31-ig – a november 15-én hatályos adatok alapján – felülvizsgálja jogosultak a 4. § (3) bekezdése szerinti nyilvántartásban szereplő adatait a jogosultság fennállása szempontjából.
+
+(3)[^17] Ha a jogosultság feltételei nem állnak fenn, a kormányhivatal a nagycsaládos kedvezményre vonatkozó jogosultságot megvonja, amelyről az egyetemes szolgáltatót és fogyasztói közösség képviselőjét a határozat véglegessé válását követő 5 napon belül értesíti.
+
+(4)[^18] A nagycsaládos kedvezményt jogosulatlanul igénybe vevő a fogyasztott mennyiség kedvezmény nélkül számított ellenértékének és a kedvezményes mennyiség ellenértékének az általános forgalmi adóval és a törvényes késedelmi kamattal növelt különbözetét 30 napon belül köteles az egyetemes szolgáltatónak megfizetni.
+
+(5) Ha a nagycsaládos kedvezmény jogosulatlan igénybevételére az igénybevevőnek felróható okból került sor, a jogosulatlan igénybevevő a (4) bekezdés szerinti különbözet vagy a kedvezmény összegét a határozathozatal napján érvényes jegybanki alapkamat kétszeresével növelten köteles az egyetemes szolgáltatónak 30 napon belül megfizetni.
+
+## 8. §
+
+(1)[^19]
+
+(2)[^20]
+
+(3) A kiállított számlán a számlában érvényesített határozatok számát tájékoztató jelleggel szerepeltetni kell.
+
+(4) Ha a felhasználási helyen több fogyasztásmérő berendezés van, az egyetemes szolgáltató a fogyasztott összmennyiség alapján biztosítja a kedvezményt.
+
+## 9. §
+
+(1)[^21] A fogyasztói közösség képviselője a 3. melléklet szerinti értesítés birtokában, az egyetemes szolgáltató által kiállított számla alapján érvényesíti a 3. § (1) bekezdés szerinti nagycsaládos kedvezményt a fogyasztói közösségben vételező jogosult felé.
+
+(2)[^22] A fogyasztói közösség képviselője a kormányhivatal felhívására 15 napon belül köteles közölni az általa az elszámolások során kimutatott és érvényesített nagycsaládos kedvezmények összegét és időpontját.
+
+(3)[^23] Ha a fogyasztói közösség képviselője a 3. § (1) bekezdés szerinti nagycsaládos kedvezményt a jogosult vonatkozásában nem, vagy csak részben érvényesítette, a kormányhivatal kötelezi a kedvezmény érvényesítésére. A határozat egy példányát a jogosult részére is kézbesíteni kell.
+
+## 10. §
+
+(1)[^24]
+
+(2)[^25] Szolgáltatás szüneteltetése és szerződésszegés miatti kikapcsolás esetén a nagycsaládos kedvezmény nem érvényesíthető az érintett időszakra. A 3. § (1) bekezdése szerinti mennyiséget szolgáltatás szüneteltetése vagy szerződésszegés miatti kikapcsolás időtartamával arányosan csökkenteni kell.
+
+## 11. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+## 12. §[^26]
+
+(1) E rendeletnek az energetikai tárgyú kormányrendeletek módosításáról szóló 233/2025. (VII. 31.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) és (5) bekezdését, 5. §-át, 7. § (4) bekezdését, 9. § (1) és (3) bekezdését, továbbá 10. § (2) bekezdését a Módr. hatálybalépésekor[^27] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 494/2017. (XII. 29.) Korm. rendelethez[^28]
+
+## 2. melléklet a 494/2017. (XII. 29.) Korm. rendelethez[^29]
+
+**Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításához**
+
+1\. Az igénylőlapot felhasználási helyenként, illetve fogyasztói közösség esetén a lakásonként kell kitölteni.
+
+2\. Az igénylő személyi adatai:
+
+2.1. Családi és utóneve:
+
+2.2. Születési neve:
+
+2.3. Anyja neve:
+
+2.4. Születési hely, év, hó, nap:
+
+2.5. Lakóhelye: ....... irányítószám ................... település ............ utca/út/tér ..... házszám ..... lépcsőház ..... emelet ..... ajtó
+
+2.6. Társadalombiztosítási azonosító jel (TAJ):
+
+2.7. Telefonszáma és e-mail-címe (nem kötelező kitölteni):
+
+|  | Név | Születési idő | TAJ szám |
+|---|---|---|---|
+|  |  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  |  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  |  | □□□□-□□-□□ | □□□-□□□-□□□ |
+
+A táblázatban fel kell tüntetni minden olyan személyt, akinek az igénylővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családi pótlékban részesül, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembevételre kerülnek.
+
+4\. A kérelem benyújtása során igazolni kell:
+
+4.1. új felhasználási hely esetén a egyetemes földgázszolgáltatásra vonatkozó szerződéses jogviszonyt, vagy
+
+4.2. amennyiben a egyetemes földgázszolgáltatási szerződés alapján már történt számlakibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla teljesítését.
+
+5\. Fogyasztói közösség képviselőjére vonatkozó adatok
+
+5.1. Név, megnevezés:
+
+5.2. Cím, székhely:
+
+6\. Nyilatkozat
+
+6.1. Tudomásul veszem, hogy a kérelemben foglaltak valódiságát a kormányhivatal ellenőrizheti.
+
+6.2. Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt törvényes késedelmi kamattal növelten az érintett egyetemes földgázszolgáltató részére vagyok köteles egy összegben visszafizetni.
+
+6.3. A kormányhivatalnak és a Kincstárnak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes földgázszolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
+
+6.4. Kijelentem, hogy sem én, sem a háztartásomban élő személy más felhasználási helyen, valamint lakás tekintetében nagycsaládos kedvezményt nem vesz(ek) igénybe.
+
+6.5. Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben, vagy a felhasználási hely, illetve fogyasztói közösség esetén a lakás címe tekintetében történt változást – annak bekövetkeztétől számított 15 napon belül – a kormányhivatal részére.
+
+6.6. Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
+
+Dátum: ...................... év ........................... hó ........... nap
+
+.......................................................
+
+(az igénylő aláírása)
+
+## 3. melléklet a 494/2017. (XII. 29.) Korm. rendelethez
+
+**A kedvezményre jogosultakról szóló értesítés adatai**
+
+1\. A kedvezményre való jogosultságot megállapító szerv megnevezése
+
+2\. A kedvezményre való jogosultságot megállapító határozat száma
+
+3.[^30] A jogosult neve és lakóhelye (felhasználási hely, illetve fogyasztói közösség esetén a lakás címe):
+
+4\. A jogosultság kezdő és végső időpontja:
+
+5\. Adat jellege: új, módosító, törlő, jogosulatlan
+
+6.[^31] Egyetemes földgázszolgáltató kódja:
+
+7\. Területi földgázelosztó:
+
+8\. Település neve:
+
+9.[^32] A egyetemes földgázszolgáltatónál szereplő azonosító szám: ügyfél azonosító, felhasználási hely azonosító, szerződésszám, hivatkozási szám, mérő gyári száma
+
+10\. Jogosultság szempontjából figyelembe vett gyerekek száma
+
+11.[^33] Gyerekek után járó kedvezmény felső határa MJ-ban
+
+---
+
+[^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 279. §-a, a 233/2025. (VII. 31.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 3. pontja a 233/2025. (VII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (4) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (5) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 279. §-a szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: A 4. § (3) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^9]: A 4. § (6) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § a 233/2025. (VII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 6. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^13]: A 6. § (3) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^14]: A 6. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^15]: A 7. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^16]: A 7. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 7. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: A 7. § (4) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^19]: A 8. § (1) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^20]: A 8. § (2) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^21]: A 9. § (1) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^22]: A 9. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 9. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja, a 233/2025. (VII. 31.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^24]: A 10. § (1) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^25]: A 10. § (2) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^26]: A 12. §-t a 233/2025. (VII. 31.) Korm. rendelet 21. §-a iktatta be.
+[^27]: A hatálybalépés időpontja 2025. augusztus 1.
+[^28]: Az 1. mellékletet a 233/2025. (VII. 31.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^29]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) és e) pontja, a 233/2025. (VII. 31.) Korm. rendelet 22. § d)–j) pontja szerint módosított szöveg.
+[^30]: A 3. melléklet 3. pontja a 233/2025. (VII. 31.) Korm. rendelet 22. § k) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet 6. pontja a 233/2025. (VII. 31.) Korm. rendelet 22. § l) pontja szerint módosított szöveg.
+[^32]: A 3. melléklet 9. pontja a 233/2025. (VII. 31.) Korm. rendelet 22. § m) pontja szerint módosított szöveg.
+[^33]: A 3. melléklet 11. pontja a 233/2025. (VII. 31.) Korm. rendelet 22. § n) pontja szerint módosított szöveg.

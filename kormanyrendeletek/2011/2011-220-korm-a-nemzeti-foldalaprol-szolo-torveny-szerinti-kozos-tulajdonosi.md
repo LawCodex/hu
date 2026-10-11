@@ -1,0 +1,182 @@
+---
+title: "220/2011. (X. 20.) Korm. rendelet a Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról"
+identifier: "220/2011. (X. 20.) Korm. rendelet"
+njt_id: "2011-220-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/220"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-10-20
+in_force_from: 2011-11-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-220-20-22"
+retrieved: 2026-10-12
+---
+
+# 220/2011. (X. 20.) Korm. rendelet a Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról
+
+A Kormány a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés e) pontjában, a 14. § tekintetében a 32. § (1) bekezdés b) pontjában kapott felhatalmazás alapján az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet hatálya a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 3. § (3) bekezdésében meghatározott állami tulajdonban álló vagy állami tulajdonba kerülő ingatlanokra (a továbbiakban: ingatlan) terjed ki.
+
+## 2. §[^1]
+
+Az ingatlanok felett az államot megillető tulajdonosi jogokat a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) közösen, az Nfatv. és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vagyontv.), az államháztartásról szóló törvény és a nemzeti vagyonról szóló törvény, valamint a végrehajtásukra kiadott jogszabályok szerint gyakorolják (közös tulajdonosi joggyakorlás).
+
+## 3. §
+
+(1)[^2] Az ingatlan feletti közös tulajdonosi joggyakorlás érdekében előzetesen minősítési eljárást kell lefolytatni. A minősítési eljárás célja az ingatlan egésze elsődleges rendeltetésének, valamint a hasznosítással elérhető fő célkitűzések, és legkedvezőbb előnyök meghatározása. A minősítési eljárást az NFK és az MNV Zrt. közösen, a rendelkezésükre álló nyilvántartási adatok alapján és helyszíni szemle útján folytatja le.
+
+(2)[^3] A minősítési eljárás minősítési lap felvételével történik, amelyet az NFK és az MNV Zrt. minősítési eljárásban résztvevő képviselői aláírásukkal látnak el.
+
+(3) A minősítési lap tartalmazza:
+
+a) az ingatlannak az ingatlan-nyilvántartási és egyéb azonosító adatait,
+
+b)[^4] az állam tulajdonjogának terjedelmét, a Nemzeti Földalapba és az MNV Zrt. vagyoni körébe tartozó alrészlet funkcióját és jellemzőit, tényleges állapotát, művelési és használati viszonyait,
+
+c) a kulturális örökség védelméről szóló törvény szerinti központi hatósági nyilvántartás alapján az ingatlanon fennálló védettség tényét és jellegét,
+
+d) az esetleges peres vagy egyéb jogi eljárásokat, a tulajdonosi joggyakorlás vagy a hasznosítás érdekében szükséges további intézkedések körét,
+
+e) az alrészletek aktuális nyilvántartási értékét,
+
+f) ingatlan egésze elsődleges rendeltetését az állami tulajdonban álló alrészletek közül a jellegadó funkció meghatározásával,
+
+g) a hasznosítással elérhető fő célkitűzéseket és a hasznosításhoz fűződő legkedvezőbb előnyöket a Nemzeti Földalapra és az állami vagyonra vonatkozó jogszabályok szerint, és
+
+h) a minősítés szempontjából egyébként lényeges tényt, körülményt.
+
+(4) A minősítési laphoz a tulajdonosi joggyakorló szervezetek kölcsönösen csatolják az alrészlet hasznosítására vonatkozó, továbbá a tulajdonosi jogok gyakorlását vagy a hasznosítási célt érintő, rendelkezésükre álló okiratok másolatát.
+
+(5)[^5] Az állam tulajdonába kerülő ingatlan, vagy a már állami tulajdonban álló, de e rendelet hatálya alá tartozó ingatlanná alakuló vagyonelem esetében a minősítési eljárást az NFK és az MNV Zrt. ingatlan-nyilvántartásba való bejegyzéséről szóló döntés kézhezvételét követő 60 napon belül kell lefolytatni.
+
+(6)[^6] A minősítést időszakonként, de legalább 3 évente az NFK és az MNV Zrt. együttesen felülvizsgálja. Az NFK és az MNV Zrt. a közös tulajdonosi döntés meghozatala előtt a minősítést – szükség szerint – aktualizálják, különös tekintettel a várható hasznosítási döntés jellegére.
+
+## 4. §
+
+(1)[^7] Az ingatlan egészének, illetve az ingatlanon álló épület tulajdonjogának átruházása (különösen eladás, csere, az MNV Zrt. érdekkörében felmerülő apportálás, térítésmentes átadás) esetén az NFK és az MNV Zrt. a tulajdonosi jogokat – az Nfatv 3. § (3) bekezdés a) pontjában foglaltakra figyelemmel – együttesen az e §-ban foglaltak szerint gyakorolja.
+
+(2)[^8] Az NFK és az MNV Zrt. a bármelyiküknél felmerülő, illetve náluk kezdeményezett tulajdonjog átruházási javaslatról és kérelemről egymást kölcsönösen 15 napon belül tájékoztatják.
+
+(3)[^9] Az NFK és az MNV Zrt. munkaszervezete az ingatlan tulajdonjogának átruházására irányuló javaslatot vagy kérelmet 30 napon belül megvizsgálja, és kialakítja az átruházás teljesíthetőségére és feltételeire irányuló közös álláspontot. Ha az átruházást mindkét tulajdonosi joggyakorló szervezet indokoltnak és a vonatkozó jogszabályokkal összhangban okszerűnek és a rendes gazdálkodás követelményével összeegyeztethetőnek tartja, a közös álláspont kialakítását követő 15 napon belül egyeztetnek az ingatlan érték-meghatározásáról és az átruházás lebonyolításának eljárásrendjéről.
+
+(4)[^10] Ha az átruházásra vonatkozó összes feltétel teljesül, – az (5) bekezdésben meghatározott esetek kivételével – az Nfatv. és a Vagyontv. által meghatározott hatáskörében eljárva az NFK vagy a Birtokpolitikai Tanács (a továbbiakban: Tanács), valamint az MNV Zrt. döntéshozatalra jogosult szerve 30 napon belül együttesen hozza meg a tulajdonjog átruházásra vonatkozó döntést.
+
+(5)[^11] Ha a Vagyontv. alapján más szerv vagy személy jogosult dönteni az ingatlan átruházásáról, akkor a (4) bekezdés szerinti 30 napos határidőn belül a döntés kezdeményezésének kell megtörténnie. Ha a végleges döntés meghozatalára versenyeztetési eljárást követően kerül sor, a 30 napos határidőn belüli döntésen az eljárás megindításáról szóló döntést kell érteni.
+
+(6)[^12] Az ingatlan tulajdonjogának átruházása esetén a szerződést az állam nevében az NFK és az MNV Zrt. köti meg az általuk előzetesen egyeztetett – egy vagy több okiratba foglalt – szerződéses feltételekkel. Az NFK és az MNV Zrt. részéről ügyvédi közreműködés esetén közösen megbízott ellenjegyző jogi képviselő is eljárhat.
+
+## 5. §
+
+(1)[^13] Az ingatlannak, vagy az ingatlan alrészletének, illetve a természetben meghatározott részének a tulajdonjog átruházással együtt nem járó hasznosítása esetén (a továbbiakban: egyéb hasznosítás) – ha vagyongazdálkodási szempontból együttes tulajdonosi döntés, vagy jogszabályi előírásokra figyelemmel együttes tulajdonosi hozzájárulás kiadása szükséges –, az NFK és az MNV Zrt. a tulajdonosi jogaikat egymással együttműködve gyakorolják.
+
+(2)[^14] Az (1) bekezdésben foglalt esetben az NFK és az MNV Zrt. a bármelyiküknél felmerülő, illetve náluk kezdeményezett egyéb hasznosítási javaslatról és kérelemről egymást kölcsönösen 15 napon belül tájékoztatják.
+
+(3) Ha az Nfa tv. 3. §-a alapján valamelyik tulajdonosi joggyakorló szervezetnek a szerződő félként való részvétele, illetve közreműködése szükségtelen, akkor az erre vonatkozó egyoldalú nyilatkozatát az erre irányuló tájékoztatás kézhezvételét követő 15 napon belül megküldi az érintett tulajdonosi joggyakorló szervezetnek.
+
+(4)[^15] Az NFK és az MNV Zrt. munkaszervezete az ingatlan egyéb hasznosítására irányuló javaslatot, vagy kérelmet 30 napon belül megvizsgálja, és kialakítja az egyéb hasznosítás teljesíthetőségére és feltételeire irányuló közös álláspontot. Ha az egyéb hasznosítást mindkét tulajdonosi joggyakorló szervezet indokoltnak és a vonatkozó jogszabályokkal összhangban okszerűnek és a rendes gazdálkodás követelményével összeegyeztethetőnek tartja, a közös álláspont kialakítását követő 15 napon belül egyeztetnek az ingatlan érték-meghatározásáról és a hasznosítási folyamat lebonyolításának eljárásrendjéről.
+
+(5)[^16] Ha az egyéb hasznosításra vonatkozó összes feltétel teljesül, az Nfatv. és a Vagyontv. által meghatározott hatáskörében eljárva az NFK vagy a Tanács, valamint az MNV Zrt. döntéshozatalra jogosult szerve 30 napon belül egymással együttműködve hozza meg az egyéb hasznosításra vonatkozó döntést.
+
+(6)[^17] Az ingatlan egyéb hasznosítása esetén az állam nevében a szerződést – a (3) bekezdésben meghatározott esetet kivéve – az NFK és az MNV Zrt. köti meg az általuk előzetesen egyeztetett szerződéses feltételekkel.
+
+(7)[^18] Az ingatlan hasznosítására vonatkozóan létrejött szerződésekből eredő jogokat és kötelezettségeket az NFK és az MNV Zrt. feladatkörében a hasznosítási szerződés rendelkezéseinek megfelelően gyakorolja és teljesíti. A hasznosítási szerződésben résztvevő további fél vagy felek kötelezettségszegése vagy mulasztása esetén felmerülő, vagy jogszabályból és a szerződésből egyéb okból következő pénzügyi igények vagy a szerződéses jogkövetkezmények alkalmazása vonatkozásában az NFK és az MNV Zrt. 30 napon belül közös álláspontot alakít ki és megteszi a szükséges intézkedéseket. Ha jogszabály vagy a szerződés az igény érvényesítésére ennél rövidebb határidőt állapít meg, az NFK és az MNV Zrt. a közös álláspontot olyan határidőben köteles kialakítani, hogy az állami igény határidőben érvényesíthető legyen.
+
+(8)[^19] Az ingatlant érintő tulajdonosi hozzájárulások kibocsátása, a közérdekű használati- és telki szolgalmi jogi megállapodások megkötése során az NFK és az MNV Zrt. olyan határidőn belül köteles a jognyilatkozatokat megtenni, hogy a hozzájárulás megadását, a megállapodás megkötését kezdeményező fél ilyen kérelmének elbírálása ne vegyen hosszabb időt igénybe, mintha az ingatlan nem tartozna a közös tulajdonosi joggyakorlás alá.
+
+## 6. §
+
+(1)[^20] A 4–5. §-okban nem szabályozott esetekben az NFK és az MNV Zrt. az egyes alrészletekhez kapcsolódó joggyakorlásukban egymást nem korlátozhatják, és nem akadályozhatják, az érintett ingatlanok hasznosítása esetén a vonatkozó jogszabályi kötelezettségek betartása mellett, egymás érdekeit szem előtt tartva, önállóan jogosultak eljárni.
+
+(2) Ha végleges döntést megelőzően megállapításra kerül, hogy a másik tulajdonosi joggyakorló szervezet érintettsége, érdekeltsége fennáll, úgy azt a folyamatban lévő eljárásról haladéktalanul értesíteni kell. Az értesített tulajdonosi joggyakorló szervezet 15 napon belül közli érintettsége, érdekeltsége fennállását és az ügyre vonatkozó álláspontját.
+
+## 7. §
+
+(1)[^21] Ha az NFK és az MNV Zrt. bármely okból nem képes a tulajdonosi jogok együttes gyakorlása körében szükséges mértékben egyező tartalmú tulajdonosi döntést hozni, vagy a tulajdonosi joggyakorló szervezetek valamelyike a másik szervezet kezdeményezésére nem hoz ésszerű időn belül döntést ilyen kérdésben, az NFK az agrárpolitikáért felelős miniszter, az MNV Zrt. az állami vagyon felügyeletéért felelős miniszter útján a két miniszter egyeztetését kezdeményezi. Az agrárpolitikáért felelős miniszter, és az állami vagyon felügyeletéért felelős miniszter az egyeztetést 30 napon belül köteles lefolytatni, és megegyezésre jutni az állami tulajdon megóvásához és hasznosításához, az állam vagyonának védelméhez fűződő érdekek szem előtt tartásával.
+
+(2)[^22] Az NFK és az MNV Zrt. a miniszterek közötti egyeztetés eredményes lefolytatása érdekében haladéktalanul átadják a minisztereknek a döntéshez szükséges dokumentumokat és ismertetik álláspontjukat.
+
+(3)[^23] Az NFK és az MNV Zrt. az ügyben a miniszterek megegyezésének megfelelően kötelesek eljárni.
+
+## 8. §
+
+(1)[^24] Az NFK és az MNV Zrt. eltérő tartalmú megállapodásának hiányában, a tulajdonosi közös joggyakorlás alá tartozó ingatlannal, valamint a tulajdonosi jogok közös gyakorlásával kapcsolatos – el nem különíthető – bevételek és ráfordítások elszámolása, a pénzügyi jellegű jogosultságok érvényesítése vagy kötelezettségek teljesítése a tulajdonosi közös joggyakorlás tárgyát képező ingatlan részeinek elszámoláskori értéke arányában, ha az érték objektív okokból nem határozható meg, terület-arányosan történik, a vonatkozó hasznosítási szerződés rendelkezéseinek figyelembevételével.
+
+(2)[^25] Az NFK és az MNV Zrt. az ingatlanokkal kapcsolatos költségvetési elszámolási- és vagyon-nyilvántartási kötelezettségeket a rájuk bízott vagyonra vonatkozó jogszabályok szerint teljesíti.
+
+## 9. §
+
+(1)[^26] Az ingatlant érintő peres eljárások során az NFK és az MNV Zrt. biztosítja, hogy a másik tulajdonosi joggyakorló szervezet – egyező gazdasági- vagy egyéb érdek esetén – pertársaságban vagy perbeli beavatkozóként részt vegyen a perben. Ilyen perbeli együttműködés esetén az NFK és az MNV Zrt. az állam pernyertességéhez fűződő érdek szem előtt tartásával a peres stratégiát és a percselekményeket egymással egyeztetik. Pergazdaságossági megfontolásból az NFK és az MNV Zrt. azonos jogi képviselőt is meghatalmazhatnak.
+
+(2)[^27] A nemperes (elsődlegesen közjegyzői) eljárások vagy közigazgatási eljárások során a fél, ügyfél jogait az NFK vagy az MNV Zrt. a másik tulajdonosi joggyakorló szervezet érdekeit tiszteletben tartva, rendeltetésszerűen gyakorolja. Ilyen módon teljesíti a fél, ügyfél eljárási kötelezettségeit és eljárási nyilatkozatait is.
+
+(3) Bármely jogi eljárásban a tulajdonosi jogok közös gyakorlására jogosult szervezet az eljárásban fennálló közös érdekeltség esetén a jogorvoslati jogát csak a másik tulajdonosi joggyakorló szervezettel – a jogorvoslatra nyitva álló határidő figyelembevételével – az előzetes egyeztetés lehetőségét biztosítva gyakorolja.
+
+## 10. §
+
+(1)[^28] Az NFK és az MNV Zrt. a jogi és ingatlan-nyilvántartási helyzet rendezése érdekében a tevékenységük ellátása során folyamatosan, a minősítési eljárások lefolytatása során mindenkor közösen áttekintik az ingatlanokat, és kijelölik a vonatkozó szabályok szerint, valamint a hasznosíthatóság szempontjából önálló földrészletként kialakítható alrészleteket, továbbá ennek megfelelően kezdeményezik az adott földrészetek megosztását. A megosztás és a kapcsolódó ingatlan-nyilvántartási eljárások költségeit közösen viselik erre vonatkozó külön megállapodásuk szerint.
+
+(2)[^29] Ha az ingatlanokat érintően az ingatlan-nyilvántartásba történő jog, tény vagy adat bejegyzéséhez, feljegyzéséhez vagy annak változásához az NFK vagy az MNV Zrt. nyilatkozata, hozzájárulása vagy egyéb intézkedése szükséges, a tulajdonosi joggyakorló szervezetek egymás érdekeit kölcsönösen tiszteletben tartva, egymással egyeztetve járnak el. Egymás ilyen megkereséseit 15 napon belül teljesítik.
+
+## 11. §
+
+(1)[^30] Az NFK és az MNV Zrt. a tulajdonosi jogok közös gyakorlására vonatkozó döntést, a döntés előkészítésével és a döntés végrehajtásával kapcsolatos jogcselekményeket tartalmazó dokumentumokat külön-külön tartja nyilván a rá irányadó iratkezelési, megőrzési, valamint levéltári előírások szerint.
+
+(2)[^31] Ha jogszabály közzétételi kötelezettséget ír elő, és a közzétételi kötelezettség mindkét tulajdonosi gyakorló szervezetet terheli, az NFK és az MNV Zrt. a közzétételi kötelezettséget – egymást 8 napon belül tájékoztatva a közzététel módjáról és tartalmáról, annak fellelhetőségi helyéről – önállóan teljesítik.
+
+(3) Ha a jelen rendeletben szabályozott eljárásban szükségessé váló nyilatkozattételre nyitva álló határidőig a felek a javaslat, döntés ellen nem emelnek kifogást, nem tesznek észrevételt vagy más nyilatkozatot, úgy azt a nyilatkozatot kérő fél javaslatával, döntésével való egyetértésnek kell tekinteni.
+
+## 12. §
+
+(1)[^32] Az NFK, az MNV Zrt. tulajdonosi joggyakorlásának belső vagy külső ellenőrzésére feljogosított személy vagy szerv adatszolgáltatással kapcsolatos megkeresését a tulajdonosi jogok közös gyakorlására jogosult másik szervezet teljesíteni köteles.
+
+(2)[^33] Ha az ellenőrzési jogosultság jogalapját vagy az adatszolgáltatási kötelezettség fennállását a megkeresett, tulajdonosi jogok közös gyakorlására jogosult szervezet vitatja, akkor az ellenőrzésre jogosult személy vagy szerv az NFK esetében az agrárpolitikáért felelős miniszter, az MNV Zrt. esetében az állami vagyon felügyeletéért felelős miniszter jóváhagyását kérheti az ellenőrzés végrehajtásához.
+
+(3) Az ellenőrzésben való közreműködés nem tagadható meg, ha a vizsgálatban vagy ellenőrzésben való részvétel és adatszolgáltatás kötelezettségét jogszabály írja elő.
+
+## 13. §
+
+(1) Ez a rendelet 2011. november 1-jén lép hatályba.
+
+(2)–(4)[^35]
+
+---
+
+[^1]: A 2. § a 448/2024. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 577. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § b) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 577. § c) pontja, a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) és c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § b) pontja, a 107/2024. (V. 9.) Korm. rendelet 15. § b) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdése a 107/2024. (V. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (6) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 17. §-ával megállapított, a 448/2024. (XII. 23.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^16]: Az 5. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § b) pontja, a 107/2024. (V. 9.) Korm. rendelet 16. § b) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^17]: Az 5. § (6) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 18. §-ával megállapított, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^18]: Az 5. § (7) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § d) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^19]: Az 5. § (8) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^21]: A 7. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 577. § b) pontja, a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) és e) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) és c) pontja szerint módosított szöveg.
+[^22]: A 7. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja és 21. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^23]: A 7. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^24]: A 8. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^25]: A 8. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 577. § b) pontja, a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § d) és f) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § b) és e) pontja szerint módosított szöveg.
+[^27]: A 9. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § f) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^28]: A 10. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^29]: A 10. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § f) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^30]: A 11. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § c) pontja és 21. § b) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^31]: A 11. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § a) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^32]: A 12. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 44. § b) pontja, a 827/2021. (XII. 28.) Korm. rendelet 20. § g) pontja, a 448/2024. (XII. 23.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^33]: A 12. § (2) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 19. §-ával megállapított, a 448/2024. (XII. 23.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^35]: A 13. § (2)–(4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 578. §-a hatályon kívül helyezte.

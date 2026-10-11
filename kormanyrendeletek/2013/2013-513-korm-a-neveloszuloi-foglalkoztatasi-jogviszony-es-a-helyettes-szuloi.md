@@ -1,0 +1,664 @@
+---
+title: "513/2013. (XII. 29.) Korm. rendelet a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről"
+identifier: "513/2013. (XII. 29.) Korm. rendelet"
+njt_id: "2013-513-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/513"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-12-29
+in_force_from: 2014-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-513-20-22"
+retrieved: 2026-10-12
+---
+
+# 513/2013. (XII. 29.) Korm. rendelet a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről
+
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés h) pontjában,
+
+a 32. § és az 1. melléklet tekintetében a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény 2. § (3) bekezdésében
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya kiterjed
+
+a) a gyermekvédelmi szakellátás keretében otthont nyújtó ellátást és utógondozói ellátást biztosító nevelőszülőre, speciális nevelőszülőre és különleges nevelőszülőre,
+
+b) az átmeneti gondozás keretében teljes körű ellátást biztosító helyettes szülőre [az *a)* és a *b)* pontban foglaltak a továbbiakban együtt: befogadó szülő],
+
+c)[^1] a nevelőszülői hálózatot fenntartó állami, egyházi és nem állami szervre, gyermekotthonra, területi gyermekvédelmi szakszolgálatra, és
+
+d) a helyettes szülői hálózatot vagy az önálló helyettes szülői ellátást működtető gyermekjóléti szolgálatra, települési önkormányzatra, egyházi és nem állami szervre [a *c)* és a *d)* pontban foglaltak a továbbiakban együtt: működtető].
+
+### 1/A. §[^2]
+
+E rendelet alkalmazásában gyámhivatal: a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala.
+
+## 2. A befogadó szülőkre vonatkozó közös szabályok
+
+### 2. §
+
+(1)[^3] Az intézmény írásban tájékoztatást nyújt a befogadó szülőnek jelentkező személy részére a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony (ezen alcím alkalmazásában a továbbiakban együtt: jogviszony) létesítésének feltételeiről és a feladatellátásra való alkalmasság vizsgálatának folyamatáról.
+
+(2)[^4] A helyettes szülői hálózatot működtető szolgáltató, intézmény és a nevelőszülői hálózat a jogviszony létesítését megelőzően vizsgálja a befogadó szülőnek jelentkező személy feladatellátásra való alkalmasságát. Az alkalmasság vizsgálata helyettes szülő esetében kiterjed a pszichológiai alkalmasság vizsgálatára is.
+
+(3)[^5] Az intézmény környezettanulmányt készít annak megállapítása érdekében, hogy a befogadó szülőnek jelentkező személy körülményei alkalmasak-e a gyermek, nevelőszülő esetén a gyermek és a fiatal felnőtt fogadására.
+
+(4)[^6] A befogadó szülőnek jelentkező személy háziorvosi véleménnyel igazolja a nevelőszülői hálózat, helyettes szülői hálózat felé, hogy a saját és vele egy háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermeket, nevelőszülő esetén a gyermeket és a fiatal felnőttet.
+
+### 3. §[^7]
+
+Az intézmény a befogadó szülő feladatellátásának segítése érdekében szervezi, illetve biztosítja a befogadó szülőnek a személyes gondoskodást végző személyek továbbképzését szabályozó miniszteri rendeletben meghatározott továbbképzését, valamint a nevelőszülő 15. § szerinti nevelőszülői továbbképzését.
+
+### 4. §
+
+(1)[^8] Az intézmény a tárgyhónapra esedékes nevelési ellátmányt a tárgyhónap tizenötödik napjáig folyósítja a befogadó szülőnek.
+
+(2)[^9] A befogadó szülőnek akkor is jár a nevelési ellátmány, ha a gyermek – nevelőszülő esetén ideértve a fiatal felnőttet is – munkavégzésre irányuló jogviszonyt létesít és önálló keresettel rendelkezik.
+
+(3)[^10] Az intézmény szükség esetén segítséget nyújt a befogadó szülőnek a nevelési ellátmánnyal és a családi pótlékkal való gazdálkodáshoz.
+
+(4)[^11] Az intézmény és a befogadó szülő megállapodhatnak a befogadó szülő nem rendszeres, indokolt és igazolt költségeinek a megtérítésében, különösen akkor, ha a gyermek egészséges fejlődéséhez nagy összegű gyógyászati segédeszköz beszerzése szükséges, vagy a gyermek személyiségfejlődését és egészségét jelentősen elősegítő kezelésen, foglalkozáson való részvétel és az ehhez szükséges eszközök beszerzése válik indokolttá.
+
+(5)[^12] Az intézmény a befogadó szülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 48/A. § (7) bekezdése szerinti szakmai programjában meghatározottak szerint számoltatja el a gyermek, fiatal felnőtt ellátására járó juttatások felhasználásáról.
+
+(6)[^13] Ha a befogadó szülő
+
+a)[^14] a szakmai programban meghatározott elszámolásnak legalább 8 napos határidővel kitűzött felhívás ellenére nem tesz eleget, az intézmény a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondhatja, vagy ha az elszámolásra kitűzött újabb határidő eredménytelenül telt el, az intézmény a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondja,
+
+b)[^15] által a gyermek, fiatal felnőtt ellátására járó juttatásoknak nem az ellátás céljára történő felhasználását az intézmény megállapítja, a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondja.
+
+## 3. A nevelőszülőre, a speciális nevelőszülőre és a különleges nevelőszülőre vonatkozó közös szabályok
+
+### 5. §[^16]
+
+(1) Ezen alcím alkalmazása során nevelőszülő alatt a különleges és a speciális nevelőszülőt is érteni kell.
+
+(2) A nevelőszülői hálózat az 5/A–11. § és a 16. § szerinti feladatok elvégzését és a feladatellátáshoz kapcsolódó adatokat a Gyermekeink védelmében elnevezésű informatikai rendszer (a továbbiakban: GYVR) nevelőszülői alkalmassági alrendszerében rögzíti.
+
+(3) A nevelőszülőnek jelentkező személy alkalmasságának megállapítására irányuló eljárásban a nevelőszülői hálózat tizenöt napon belül személyesen meghallgatja a nevelőszülőnek jelentkező személyt.
+
+(4)[^17] A nevelőszülői hálózat a nevelőszülőnek jelentkező személy eredményes meghallgatása esetén a meghallgatástól számított tizenöt napon belül környezettanulmányt végez, amelynek mellékletét képezik az ingatlanról, annak külső homlokzatáról, a lakószobákról, a konyháról, a fürdőszobáról, az illemhelyről, az udvarról és a melléképületekről készült fényképek.
+
+(5) Ha a nevelőszülői hálózat a (4) bekezdés szerinti környezettanulmány alapján a nevelőszülő háztartását, körülményeit megfelelőnek tartja, haladéktalanul kezdeményezi a nevelőszülőnek jelentkező személy Gyvt. 10/E–10/H. §-a szerinti kifogástalan életvitel ellenőrzését.
+
+(6) Ha a nevelőszülőnek jelentkező személy kifogásolható életvitelének megállapítására nem kerül sor, a nevelőszülői hálózat haladéktalanul kezdeményezi a nevelőszülőnek jelentkező személy Gyvt. 10/D. §-a szerinti pszichológiai alkalmassági vizsgálatát.
+
+(7) Ha a kifogástalan életvitelt ellenőrző szerv arról tájékoztatja a nevelőszülői hálózatot, hogy a nevelőszülőnek jelentkező személy életvitele a Gyvt. 10/F. § (4) bekezdése alapján kifogásolható, a nevelőszülői hálózat az erről való tudomásszerzéstől számított nyolc napon belül, a Gyvt. 10/G. § (3) bekezdésében foglaltak szerint eljárva megállapítja, hogy a nevelőszülőnek jelentkező személy életvitele kifogásolható-e. A nevelőszülői hálózat írásban tájékoztatja a nevelőszülőnek jelentkező személyt a Gyvt. 10/G. § (1) bekezdésében foglaltakról, valamint kifogásolható életvitel megállapítása esetén arról, hogy nem javasolja a nevelőszülői tevékenység végzését.
+
+(8) A (7) bekezdésben foglaltakon túl a nevelőszülői hálózat arról, hogy nem javasolja a nevelőszülői tevékenység végzését, nyolc napon belül írásban tájékoztatja a nevelőszülőnek jelentkező személyt, ha
+
+a) a nevelőszülőnek jelentkező személy (3) bekezdés szerinti meghallgatása eredménytelen,
+
+b) a (4) bekezdés szerint lefolytatott környezettanulmány nem megfelelő eredménnyel zárul,
+
+c) a nevelőszülőnek jelentkező személy a pszichológiai alkalmassági vizsgálaton alkalmatlan minősítést kapott, vagy
+
+d) a nevelőszülőnek jelentkező személy a feladatellátásra a Gyvt. 54. § (1) bekezdés e) pontja szerint elvégzett egészségi állapot vizsgálat alapján nem alkalmas.
+
+### 5/A. §[^18]
+
+(1)[^19] A nevelőszülőnek jelentkező személy a Gyvt. 2. melléklete szerinti adatlapon nyilatkozik arról, hogy korábban állt-e már más nevelőszülői hálózattal nevelőszülői, hivatásos nevelőszülői vagy nevelőszülői foglalkoztatási jogviszonyban.
+
+(2) Ha a nevelőszülőnek jelentkező személy és a vele egy háztartásban élő nagykorú személy úgy nyilatkozik, hogy korábban más intézménnyel állt már nevelőszülői, hivatásos nevelőszülői vagy nevelőszülői foglalkoztatási jogviszonyban, az intézmény a nevelőszülőnek történő jelentkezéstől számított nyolc napon belül elektronikus úton keresi meg a korábbi intézményt a Gyvt. 66/B. § (8) bekezdésében meghatározott tartalmú szakmai vélemény kikérése céljából. A korábbi intézmény a megkeresés beérkezésétől számított nyolc napon belül elektronikus úton küldi meg szakmai véleményét a megkereső intézménynek.
+
+### 6. §[^20]
+
+(1) A nevelőszülői hálózat a nevelőszülő alkalmasságát a jogviszony létesítését követően a Gyvt. 48/A. § (7) bekezdésében meghatározott szakmai programban foglalt módon kétévente felülvizsgálja (a továbbiakban: rendszeres felülvizsgálat). A nevelőszülői hálózat a nevelőszülő
+
+a) pszichológiai alkalmassági vizsgálata vonatkozásában a gyermekvédelmi intézményben foglalkoztatott személyek pszichológiai alkalmassági vizsgálatáról szóló kormányrendeletben meghatározottak szerint jár el, és
+
+b) kifogástalan életvitelének ellenőrzését a Gyvt. 10/F. § (1) bekezdése szerint kezdeményezheti.
+
+(2)[^21] A nevelőszülői hálózat a nevelőszülő alkalmasságának rendszeres felülvizsgálata mellett szükség esetén rendkívüli felülvizsgálatot végez.
+
+(3) A nevelőszülő alkalmasságának rendkívüli felülvizsgálatát kezdeményezi a nevelőszülői hálózatnál a nevelőszülői tanácsadó, a gyermekvédelmi gyám, a vármegyei, fővárosi gyermekvédelmi szakértői bizottság vezetője, a területi gyermekvédelmi szakszolgálat vezetője és a gyámhivatal, ha ezt
+
+a)[^22]
+
+b) a nevelőszülő élethelyzetének megváltozása,
+
+c) a nevelőszülő egészségi állapotának, személyiségállapotának romlása vagy
+
+d) a nevelőszülő magatartása
+
+szükségessé teszi.
+
+(4) A rendkívüli felülvizsgálatra okot adó körülménytől függően a nevelőszülői hálózat a nevelőszülőt orvosi, pszichológiai vizsgálatra kötelezheti, valamint a Gyvt. 10/F. § (1) bekezdésében foglaltak figyelembevételével a nevelőszülő életvitelének ellenőrzését kezdeményezheti.
+
+(5)[^23] Ha a kifogástalan életvitelt ellenőrző szerv arról tájékoztatja a nevelőszülői hálózatot, hogy a nevelőszülő életvitele a Gyvt. 10/F. § (4) bekezdés a) vagy b) pontja alapján kifogásolható, a nevelőszülői hálózat az erről való tudomásszerzéstől számított 8 napon belül megállapítja a nevelőszülő kifogásolható életvitelét, és erről írásban tájékoztatja a nevelőszülőt.
+
+(6)[^24] Ha a nevelőszülő kifogásolható életvitelének megállapítására a Gyvt. 10/F. § (4) bekezdés c) pontja alapján kerül sor, a nevelőszülői hálózat az életvitel kifogásolására okot adó körülményekről, az azt alátámasztó tényekről és megállapításokról tájékoztatja a nevelőszülőt, egyúttal értesíti a Gyvt. 10/G. § (2) bekezdése szerinti meghallgatásról.
+
+(7) Ha a nevelőszülő a (6) bekezdés szerinti meghallgatáson nem jelenik meg vagy a meghallgatás eredményét is figyelembe véve a nevelőszülői hálózat megállapítja a nevelőszülő kifogásolható életvitelét, a nevelőszülői hálózat erről a meghallgatás időpontjától számított nyolc napon belül írásban értesíti a nevelőszülőt.
+
+### 6/A. §[^25]
+
+A nevelőszülő akkor felel meg a Gyvt. 54. § (1) bekezdés f) pontja szerinti képesítési előírásoknak, ha
+
+a) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítéssel rendelkezik, vagy
+
+b)[^26] a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyamot eredményesen elvégezte, és vállalja, hogy a nevelőszülői foglalkoztatási jogviszonya keretében a gondozásába kerülő első gyermek vagy fiatal felnőtt elhelyezésétől számított két éven belül a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott, a nevelőszülők számára szervezett központi oktatási programot eredményesen elvégzi.
+
+### 8. §
+
+(1)[^28] Határozott idejű nevelőszülői foglalkoztatási jogviszony kivételesen létesíthető a nevelőszülő beleegyezésével,
+
+a) helyettesítés céljából, ha a helyettesítendő nevelőszülőt előreláthatólag legalább egy hónap időtartamra helyettesíteni kell, továbbá
+
+b)[^29] egyéb méltányolható okból, így különösen a 9. § (1) és (3) bekezdése szerinti esetekben,
+
+feltéve, hogy a gyermek, fiatal felnőtt érdekét nem sérti a határozott idejű nevelőszülői foglalkoztatási jogviszony létesítése.
+
+(2) Az érintett gyermek, fiatal felnőtt gondozási helye megváltoztatása szükségességének vizsgálatát kell kérni a gyámhivataltól, ha a nevelőszülő
+
+a) helyettesítésére a saját háztartásában három hónapot meghaladóan kerül sor,
+
+b) helyettesítésére nem a saját háztartásában tizenöt napot meghaladóan kerül sor, vagy
+
+c) helyettesítése a gyermek számára óvoda- vagy iskolaváltással jár.
+
+(3)[^30] Ha a nevelőszülő a 9. § (3) bekezdés d) pontja szerinti határidőre nem szerzi meg a nevelőszülői képesítést, az intézmény a Gyvt. 80/B. § (1) bekezdése alapján a nevelőszülő által nevelt gyermek gondozási helyének és fiatal felnőtt ellátási helyének megváltoztatását kéri a gyámhivataltól. Az intézmény az intézkedésével egyidejűleg annak tényéről értesíti a gyermek gyermekvédelmi gyámját.
+
+### 9. §[^31]
+
+(1)[^32] A Gyvt. 54. § (1) bekezdés d) pontjában meghatározott, a nevelőszülő és a nevelt gyermek közötti korkülönbségre vonatkozó szabálytól az intézmény és a területi gyermekvédelmi szakszolgálat együttes nyilatkozata alapján lehet eltérni. Az eltérés a gyermek érdekében különösen akkor indokolt, ha
+
+a) a gyermeknek a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozói között van olyan személy, aki a gyermek nevelését vállalná, hozzá a gyermek kötődik, de a hozzátartozó a saját családja és a gyermek anyagi veszélyeztetése nélkül csak nevelőszülőként tudja vállalni a gyermek nevelését, vagy
+
+b) a nevelőszülő személyisége, egészségi állapota és körülményei alapján alkalmas a gyermek életkori, illetve ellátási szükségletéből adódó feladatoknak az ellátására, és más módon nem biztosítható a gyermek megfelelő nevelőszülőnél történő elhelyezése.
+
+(2)[^33] A Gyvt. 54. § (1) bekezdés f) pontjában meghatározott, a nevelőszülő képesítésére vonatkozó rendelkezéstől a gyermek érdekében kivételesen akkor indokolt eltérni, ha a gyermeknek a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozói között van olyan személy, aki a gyermek nevelését vállalná, hozzá a gyermek kötődik, de a hozzátartozó a saját családja és a gyermek anyagi veszélyeztetése nélkül csak nevelőszülőként tudja vállalni a gyermek nevelését. Ha a nevelőszülő nem kizárólag a saját hozzátartozójának minősülő gyermek nevelését vállalja, a nem hozzátartozónak minősülő gyermek tekintetében – a (3) bekezdésben foglalt kivétellel – a képesítési előírásra vonatkozó rendelkezésektől nem lehet eltérni.
+
+(3)[^34] Legfeljebb hat hónap időtartamra el lehet tekinteni a nevelőszülő képesítésére vonatkozó rendelkezéstől, ha az elhunyt vagy súlyos beteg nevelőszülő vele egy háztartásban élt, élő hozzátartozói között van olyan személy,
+
+a) aki a nevelőszülőnél elhelyezett gyermek nevelését nevelőszülői foglalkoztatási jogviszony létesítésével vállalná,
+
+b) akihez a gyermek kötődik,
+
+c) aki a nevelőszülői képesítés kivételével megfelel a nevelőszülővel szemben támasztott egyéb jogszabályi feltételeknek, és
+
+d) aki írásban nyilatkozik róla, hogy a nevelőszülői képesítés megszerzését a nevelőszülői foglalkoztatási jogviszony létesítésétől számított hat hónapon belül megszerzi.
+
+(4)[^35] A (3) bekezdés szerinti esetben az intézmény a nevelőszülővel a nevelőszülői képesítés megszerzéséig, de legfeljebb hat hónap időtartamra határozott idejű nevelőszülői foglalkoztatási jogviszonyt létesít.
+
+(5)[^36]
+
+### 10. §
+
+(1)[^37] Ha a nevelőszülő az utógondozói ellátásban részesülő fiatal felnőtt és annak átmeneti gondozásban lévő gyermeke számára együttesen biztosít ellátást, a nevelőszülőt foglalkoztató intézmény nem változik meg.
+
+(2)[^38] Az (1) bekezdés szerinti esetben a nevelőszülő tevékenységére a helyettes szülői jogviszonyra vonatkozó rendelkezéseket alkalmazni kell, azzal, hogy a gyermekjóléti szolgálat feladatait a nevelőszülőt foglalkoztató intézmény, a helyettes szülői tanácsadó feladatait a nevelőszülői tanácsadó látja el.
+
+### 11. §
+
+(1)[^39] Az intézmény és a nevelőszülő között a nevelőszülői foglalkoztatási jogviszony általános kérdéseit rendező, a Gyvt. 66/B. § (1) bekezdése szerinti keretmegállapodás tartalmazza
+
+a) a nevelőszülő
+
+aa)[^40] Gyvt. 5. § t) pontja szerinti személyazonosító adatait,
+
+ab) adóazonosító jelét,
+
+ac) társadalombiztosítási azonosító jelét,
+
+ad) lakcímét vagy annak az ingatlannak a címét, ahol a nevelőszülői tevékenységet végzi, ha az nem egyezik meg a lakcímével,
+
+ae) iskolai végzettségét,
+
+af) saját háztartásában élő gyermeke – ideértve a nagykorúvá vált gyermekét is – nevét és születésének időpontját,
+
+ag) házastársának vagy élettársának nevét és születésének időpontját,
+
+b) a nevelőszülő képesítése tekintetében
+
+ba) a nevelőszülő szakképesítés megszerzéséről szóló oklevél számát és keltét, valamint az oklevél kiállítójának nevét, címét,
+
+bb) – a *ba)* alpontban meghatározott oklevél hiányában – a nevelőszülő szakképesítés első modulzáró vizsgájának eredményes letételéről szóló igazolás számát, keltét, az igazolást kiállító szerv nevét és címét, vagy
+
+bc)[^41] – a *ba)* és a *bb)* alpontban meghatározott oklevél vagy igazolás hiányában – a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló 29/2003. (V. 20.) ESZCSM rendelet alapján a nevelőszülői tanfolyam sikeres elvégzéséről kiadott tanúsítvány számát és keltét, valamint a tanúsítvány kiállítójának nevét, címét vagy a szakképesítés megszerzése alóli felmentés tényét a felmentés alapjául szolgáló ok megjelölésével,
+
+c) a nevelőszülői hálózat fenntartójának nevét és címét,
+
+d)[^42] az intézmény nevét és címét,
+
+e) a nevelőszülői foglalkoztatási jogviszony határozatlan vagy határozott időtartamát, a határozott idejű nevelőszülői foglalkoztatási jogviszony kezdő és záró napját,
+
+f) a nevelőszülői foglalkoztatási jogviszony megszűnésének, megszüntetésének eseteiről szóló tájékoztatást,
+
+g) a nevelőszülői foglalkoztatási jogviszony alapján járó díjazásról szóló általános tájékoztatást,
+
+h)[^43]
+
+i) azt a bankszámlaszámot, ahova a nevelőszülő a foglalkoztatási jogviszonya alapján járó díjazását kéri folyósítani,
+
+j)[^44] a gyermek, fiatal felnőtt ellátására a nevelőszülőt megillető nevelési ellátmányról és családi pótlékról szóló általános tájékoztatást,
+
+k)[^45] azt a bankszámlaszámot vagy azt a postai címet, ahova a nevelőszülő a nevelési ellátmányt és a családi pótlékot kéri folyósítani,
+
+l) a nevelőszülő helyettesítésének és segítésének módját, eseteit,
+
+m) azt, hogy a nevelőszülő speciális vagy különleges nevelőszülő, valamint azt a tényt, hogy a nevelőszülő a 9. § (1) bekezdése alapján kizárólag hozzátartozója tekintetében lát el nevelőszülői feladatokat,
+
+n)[^46] a nevelőszülő és az intézmény megállapodását arról, hogy
+
+na) a nevelőszülőnél – saját gyermekeit is beszámítva – hány gyermek, fiatal felnőtt helyezhető el,
+
+nb) a nevelőszülő fogad-e ideiglenes hatállyal elhelyezett gyermeket, speciális szükségletű gyermeket, tartósan beteg, fogyatékos gyermeket, három év alatti gyermeket vagy kettős szükségletű gyermeket, és ha igen, hány ilyen szükségletű gyermek helyezhető el a 22. § (1) bekezdésében foglaltak vizsgálata alapján a nevelőszülőnél, és
+
+nc)[^47] a nevelőszülő – feltéve, hogy nem jogosult a Gyvt. 66/G. § (1) bekezdése alapján gyermekgondozó által nyújtott segítségre – ellát-e helyettesítést az intézménye által foglalkoztatott más nevelőszülő tekintetében,
+
+nd)[^48] a nevelőszülő hány férőhely erejéig fogadhatja be átmeneti gondozásra a gondozásában lévő kiskorú szülő, valamint utógondozói ellátásban részesülő fiatal felnőtt gyermekét,
+
+o)[^49] indokolt esetben az intézmény hozzájárulását ahhoz, hogy a nevelőszülő helyettes szülői feladatokat is elláthat,
+
+p)[^50] az intézmény hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,
+
+q)[^51] a nevelőszülő és az intézmény kapcsolattartásának módját,
+
+r) a nevelőszülő feladatait,
+
+s) a nevelőszülővel szemben a tevékenysége ellátásával kapcsolatban támasztott elvárásokat,
+
+t) a nevelőszülő képzési, továbbképzési kötelezettségét, a képzési kötelezettség teljesítésének határidejét, és
+
+u)[^52] a nevelőszülő, a nevelőszülő házastársa vagy élettársa és az intézmény képviselőjének az aláírását.
+
+(2)[^53]
+
+(3)[^54] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési ellátmányt és családi pótlékot lehet fogadni.
+
+(4)[^55] Ha az (1) bekezdésben meghatározott adatokban, tényekben változás következik be, vagy a nevelőszülői foglalkoztatási jogviszony megszűnik vagy megszüntetésre kerül, az intézmény a tudomásszerzést követő tizenöt napon belül rögzíti a változásokat a GYVR-ben.
+
+(5)[^56] A nevelőszülői foglalkoztatási jogviszony megszűnése vagy megszüntetése esetén az intézmény írásban haladéktalanul tájékoztatja a nevelőszülőt a nevelőszülői díjazás keretében megillető alapdíj folyósítása megszüntetésének időpontjáról.
+
+(6)[^57] Ha a nevelőszülő más intézménynél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi intézményénél végzett tevékenysége mellett kíván más intézménynél is nevelőszülői feladatokat ellátni, és azt a jelenlegi intézmény nem engedélyezi, az új intézménnyel a keretmegállapodást a jelenlegi intézménnyel fennálló jogviszonya megszüntetését követően kötheti meg.
+
+(7)[^58] Ha a nevelőszülő a jelenlegi intézményével kötött keretmegállapodását fel kívánja mondani, és a háztartásában gyermek ellátásáról gondoskodik, az intézmény értesíti a nevelőszülőnél elhelyezett gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a gyermekvédelmi gyámot a gyermek gondozási helyének megváltoztatása érdekében megteendő intézkedések vagy a fenntartó, intézmény személyében bekövetkező változásról szóló tájékoztatásnyújtás céljából. Az intézmény az értesítésében nyilatkozik arról, hogy a fenntartó- és intézményváltás kezdeményezésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 105/A. § (4a) bekezdése vagy (5) bekezdés b), illetve c) pontjában meghatározott körülmények között kerül sor.
+
+### 12. §
+
+(1) Az adott gyermek, fiatal felnőtt befogadásáról szóló, a Gyvt. 66/B. § (1) bekezdése szerinti kiegészítő megállapodás tartalmazza
+
+a) a nevelőszülő gondozásába ideiglenes hatállyal elhelyezett gyermek, a nevelőszülőnél elhelyezett nevelésbe vett gyermek és a nevelőszülőnél utógondozói ellátásban részesülő fiatal felnőtt
+
+aa) Gyvt. 5. § t) pontja szerinti személyazonosító adatait,
+
+ab)[^59]
+
+ac) társadalombiztosítási azonosító jelét és
+
+ad) adóazonosító jelét,
+
+b)[^60] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
+
+c) a gyermeknek járó teljes körű ellátás és a fiatal felnőttnek járó szükség szerinti ellátás biztosítására való felhívást, valamint az ellátás biztosításának kezdő időpontját a hatósági döntés alapján,
+
+d) a gyermek ellátási szükségletének megjelölését,
+
+e) a gyermek gyermekvédelmi gyámjának nevét, elérhetőségét,
+
+f)[^61] a gyermek, fiatal felnőtt ellátására szolgáló nevelési ellátmány havi, napi összegét,
+
+g)[^62] a nevelőszülőt a nevelőszülői díjazás keretében az adott gyermekre, fiatal felnőttre tekintettel megillető többletdíj havi és napi összegét, valamint
+
+h)[^63] a nevelőszülő és az intézmény képviselőjének aláírását.
+
+(2)[^64] Ha az (1) bekezdésben meghatározott adatokban, tényekben változás következik be, az intézmény a változást előidéző hatósági vagy fenntartói döntés általa történő kézhezvételét vagy az intézményi döntés megszületését követő tizenöt napon belül gondoskodik az új kiegészítő megállapodás elkészítéséről.
+
+(3)[^65] Ha az új kiegészítő megállapodás megkötésére a gyermek, fiatal felnőtt után járó juttatások vagy a nevelőszülői díjazás összegének megváltozása miatt került sor, az intézmény a változás napjával megállapítja az új összeget és azt a juttatás, nevelőszülői díjazás következő havi esedékes kifizetésekor kezdi el folyósítani a nevelőszülő részére.
+
+(4) Az (1) bekezdés f) és g) pontja szerinti napi összeget a havi összeg harminc nappal való elosztásával kell megállapítani.
+
+(5)[^66] Ha a gyámhivatal határozata alapján a gyermek, fiatal felnőtt kikerül a nevelőszülő gondozásából, az intézmény a határozat kézhezvételét követően haladéktalanul megszüntetési záradékkal látja el a kiegészítő megállapodást. A záradék tartalmazza a gyermek, fiatal felnőtt nevelőszülőnél töltött utolsó teljes napjának időpontját és a nevelőszülő tájékoztatását a 19. § (2) bekezdésében foglaltakról.
+
+(6)[^67] A megszüntetési záradékot az intézmény és a nevelőszülő aláírásával látja el.
+
+### 13. §[^68]
+
+Az intézmény tájékoztatja a nevelőszülőt a nevelőszülőnél elhelyezett gyermekkel kapcsolatban rendelkezésére álló adatokról, így különösen a gyermek egészségi állapotára, korábbi betegségeire és az egyéb orvosi beavatkozásokra vonatkozó adatokról. Ha a nevelőszülőnek a gyermek megfelelő gondozása érdekében további információkra, adatokra van szüksége, az intézmény – indokolt esetben a gyermekvédelmi gyám bevonásával – gondoskodik azok beszerzéséről.
+
+### 14. §[^69]
+
+A nevelőszülő tájékoztatja az intézményt és a gyermekvédelmi gyámot
+
+a) a bekövetkezésük időpontjától számított öt napon belül a gyermek óvodai nevelésben, fejlesztő nevelésben történő részvételének, valamint a gyermek és a fiatal felnőtt fejlesztő nevelés-oktatásban történő részvételének és iskolai tanulmányainak megkezdéséről, befejezéséről vagy megszakításáról,
+
+b) a bekövetkezése időpontjától számított öt napon belül arról, ha a gyermek és a fiatal felnőtt munkavégzésre irányuló jogviszonyt létesít, továbbá a fiatal felnőtt hozzájárulása esetén tájékoztatja a működtetőt a fiatal felnőtt keresetéről,
+
+c) azonnal a gyermekkel és a fiatal felnőttel kapcsolatos rendkívüli eseményről, így különösen az egészségi állapotában bekövetkezett jelentős változásról, iskolai, munkahelyi fegyelmi ügyéről és szabálysértési, büntetőjogi felelősségre vonás alapját képező cselekményéről, függetlenül a szabálysértési vagy a büntetőeljárás megindulásától,
+
+d) azonnal a gyermeknek a nevelőszülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
+
+e)[^70] azonnal a saját és a vele egy háztartásban élő személy életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
+
+ea)[^71] a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről,
+
+eb) a nevelőszülő családi állapotának megváltozásáról, a családstruktúrában történt változásról,
+
+ec) a nevelőszülői tevékenysége mellett folytatott keresőtevékenysége megszűnéséről,
+
+ed) az anyagi helyzetében bekövetkezett rendkívül kedvezőtlen változásról,
+
+ee) a vele szemben megindított végrehajtási eljárásról,
+
+ef) a lakóhely megváltoztatásának szándékáról,
+
+eg) a harminc napnál hosszabb időre történő külföldre utazás szándékáról,
+
+eh) az egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket,
+
+ei)[^72] ha más intézménynél kíván nevelőszülői feladatokat ellátni.
+
+ej)[^73] arról, ha a nevelőszülő saját gyermeke vonatkozásában válik indokolttá hatósági intézkedés,
+
+### 15. §
+
+(1)[^74] Az intézmény a nevelőszülő számára a személyes gondoskodást végző személyek továbbképzését szabályozó miniszteri rendeletben meghatározott továbbképzésen felül évente legalább hatórás, legfeljebb tizenkét órás továbbképzést tart (a továbbiakban: nevelőszülői továbbképzés).
+
+(1a)[^75] A nevelőszülői továbbképzés keretében az intézmény a gyermekjogi képviselő tevékenységét, az együttműködésre vonatkozó elvárásokat is ismerteti.
+
+(2)[^76] A nevelőszülő a nevelőszülői továbbképzésen köteles részt venni. A nevelőszülői továbbképzéssel összefüggésben felmerülő költségek – az utazási költség kivételével – az intézményt terhelik.
+
+(3)[^77] A nevelőszülői továbbképzés időpontjáról az intézmény legalább harminc nappal korábban írásban értesíti a nevelőszülőt.
+
+### 16. §
+
+(1)[^78] Ha az intézmény a Gyvt. 66/D. § (8) bekezdése alapján kéri a gyermek gondozási helyének megváltoztatását a gyámhivatalnál, egyidejűleg tájékoztatja a nevelőszülőt és a gyermekvédelmi gyámot, hogy erre a Gyvt. 66/D. § (8) bekezdésében felsorolt mely ok alapján kerül sor.
+
+(2)[^79] Ha a gyermekvédelmi gyám a gyermeket súlyos veszélyeztetettsége miatt a nevelőszülőtől másik, biztonságos gondozási helyre viszi, és kéri a gyermek gondozási helyének azonnali hatállyal történő megváltoztatását, erről a nevelőszülőt foglalkoztató intézményt egyidejűleg tájékoztatja.
+
+(3) Az (1) és a (2) bekezdés szerinti esetben a nevelőszülő a gyermek új gondozási helyét kijelölő gyámhivatali határozat meghozataláig a gyermekkel nem érintkezhet.
+
+### 18. §[^82]
+
+(1)[^83] Az intézmény negyedévente, minden év április 15-éig, július 15-éig, október 15-éig és a következő év január 15-éig a Gyvt. 66/F. § (2) bekezdése alapján megállapítja a nevelőszülőt az adott időszakra megillető szabadság mértékét, és arról írásban tájékoztatja a nevelőszülőt. Ha a nevelőszülői foglalkoztatási jogviszony létesítésére az adott negyedéven belül került sor, az intézmény a töredék időre járó szabadság mértékéről a következő negyedéves tájékoztatással együtt tájékoztatja a nevelőszülőt.
+
+(2)[^84] Az intézmény az adott negyedévben a nevelőszülőt megillető szabadságot a Gyvt. 66/F. § (2) bekezdése alapján a negyedévi átlagos gyermeklétszám alapján állapítja meg. A negyedévi átlagos gyermeklétszámot úgy kell kiszámítani, hogy azon napok számát, amikor a gyermek teljes napot a nevelőszülő gondozásában töltött, el kell osztani az adott negyedév összes napjainak számával. Amennyiben a negyedévi átlagos gyermeklétszám nem egész szám, a 0,5-öt meghaladó tört részt felfelé, a 0,5-öt meg nem haladó tört részt lefelé kell kerekíteni.
+
+(3)[^85] A nevelőszülő írásban kérheti az intézménytől szabadságának a Gyvt. 66/F. § (4) bekezdése alapján történő naptári éven belüli összevonását. A szabadság összevont kiadásáról az intézmény 15 napon belül írásban dönt. Az intézmény akkor tagadhatja meg a szabadság összevont kiadását, ha a nevelőszülő helyettesítése nem oldható meg.
+
+(4)[^86] Az intézmény a ki nem adott szabadság megváltásáért járó összeget
+
+a) a tárgyévet követő év április 10. napjáig az április hónapban járó nevelőszülői díjjal együtt,
+
+b) a nevelőszülői foglalkoztatási jogviszony megszűnése, megszüntetése esetén a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 80. § (2) bekezdésében meghatározott időpontban
+
+számítja és fizeti ki.
+
+(5) A szabadságmegváltás alapja a nevelőszülőt a szabadságra való jogosultság megszerzésének negyedévében megillető nevelőszülői díj napi átlaga.
+
+(6)[^87] Az intézménynek az Mt. 134. § (1) bekezdés c) pontja szerinti szabadságról vezetett nyilvántartása negyedévenkénti bontásban tartalmazza
+
+a) a nevelőszülőnek megállapított szabadságnapok számát,
+
+b) a nevelőszülő által kivett szabadságnapok számát,
+
+c) a szabadság naptári éven belüli összevonásának tényét és
+
+d) a naptári évben ki nem adott és megváltott szabadságnapok számát.
+
+(7)[^88] Az intézmény a (6) bekezdés szerinti nyilvántartást minden év december 31-én lezárja, és az adott évre vezetett szabadság-nyilvántartás adatait a lezárást követő öt évig megőrzi. Ezt követően az intézmény a nyilvántartásból haladéktalanul törli az érintett adatokat.
+
+(8) A (6) bekezdés szerinti nyilvántartás adatait a nevelőszülő, valamint a nevelőszülői foglalkoztatási jogviszonyból származó jogokkal és kötelezettségekkel összefüggésben keletkezett jogvitában eljáró szerv ismerheti meg.
+
+### 19. §
+
+(1)[^89] Az egyéb feltételek fennállása esetén a nevelőszülőt attól az időponttól illeti meg a nevelési ellátmány, továbbá a nevelőszülői tevékenység díjazása keretében az alapdíj és a többletdíj, amelytől kezdve a gyámhivatal a határozatában a gyermek gondozási helyeként a nevelőszülő háztartását határozta meg vagy elrendelte a fiatal felnőtt utógondozói ellátását. Ha a határozatban időpont meghatározására nem került sor, a határozat keltének időpontja az irányadó.
+
+(2)[^90] Az egyéb feltételek fennállása esetén a nevelési ellátmány és a többletdíj a nevelőszülőt arra a napra illeti meg utoljára, amikor a gyermek, fiatal felnőtt teljes napot a gondozásában töltött.
+
+(3)[^91] Az intézmény az adott gyermek, fiatal felnőtt után járó nevelési ellátmányt első alkalommal – a 4. § (1) bekezdésében foglaltaktól eltérően – a gyermek, fiatal felnőtt nevelőszülőnél történő elhelyezését követően haladéktalanul, de legkésőbb tizenöt napon belül folyósítja.
+
+(4)[^92] Ha a nevelőszülő gondozásából az összes gyermek, fiatal felnőtt kikerült, az egyéb feltételek fennállása esetén az intézmény az alapdíjat a nevelőszülő gondozásából utoljára kikerült gyermek, fiatal felnőtt nevelőszülőnél töltött utolsó teljes napjától számított három hónapig folyósítja a nevelőszülőnek.
+
+(5)[^93] A Gyvt. 56. § (2) bekezdésében foglalt magasabb összegű nevelési ellátmányt az intézmény először a gyermek ellátási szükségletének megváltozását követő hónapban folyósítja a nevelőszülőnek a gyámhivatali határozatban megjelölt időpontra vagy – ha a határozatban időpont meghatározására nem került sor – a határozat keltére visszamenő hatállyal.
+
+(6) Ha a Gyvt. 66/D. § (7) bekezdés a)–d) pontja alapján a nevelőszülői foglalkoztatási jogviszony azonnali hatályú felmondásának van helye, és emiatt a gyermek kikerült a nevelőszülő háztartásából, a gondozás tényleges megszűnését követő naptól a nevelőszülőt az érintett gyermekre tekintettel díjazás nem illeti meg.
+
+### 20. §[^94]
+
+Ha a kollégiumban, diákotthonban biztosított ellátásért térítési díjat kell fizetni, azt a nevelőszülő fizeti meg. Az ideiglenes hatállyal elhelyezett gyermek után az intézményi gyermekétkeztetés térítési díját a nevelőszülő – a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 13. §-ában foglaltak szerint – fizeti meg.
+
+## 4. A speciális nevelőszülőre és a különleges nevelőszülőre vonatkozó külön szabályok
+
+### 21. §
+
+A különleges nevelőszülő által nevelt gyermekek közül – saját gyermekeit is beszámítva – legfeljebb három gyermek lehet életkora alapján különleges ellátást igénylő gyermek.
+
+### 22. §
+
+(1)[^95] Annak megállapítása érdekében, hogy a nevelőszülő alkalmas-e speciális, különleges vagy kettős szükségletű gyermek ellátására, az intézmény megvizsgálja
+
+a) a nevelőszülő motivációját, alkalmasságát, ideértve a pszichológiai alkalmasságát is,
+
+b) a nevelés személyi és tárgyi feltételeit, és
+
+c) a nevelőszülő tevékenysége ellátásának helyén a gyermek számára elérhető szolgáltatásokat, ezen belül
+
+ca) a súlyos pszichés vagy disszociális tüneteket mutató, vagy pszichoaktív szert használó gyermek egészségügyi és mentálhigiénés ellátásához, oktatásához, képzéséhez való hozzájutás lehetőségét, feltételeit,
+
+cb) a tartósan beteg, a fogyatékos gyermek egészségügyi ellátásához, fejlesztéséhez, habilitációjához és rehabilitációjához, oktatásához, képzéséhez való hozzájutás lehetőségét, feltételeit, és
+
+cc) a három év alatti gyermek egészségügyi ellátásához és fejlesztéséhez való hozzájutás lehetőségét, feltételeit.
+
+(2)[^96] Az intézmény a nevelőszülővel kötött keretmegállapodásban rögzíti, hogy a nevelőszülő speciális, különleges nevelőszülő, feltéve, hogy
+
+a) a nevelőszülő vállalja speciális, különleges vagy kettős szükségletű gyermek ellátását, valamint
+
+b)[^97] az intézmény az (1) bekezdésben foglaltak vizsgálata alapján meggyőződik arról, hogy a nevelőszülő alkalmas a speciális vagy különleges nevelőszülői feladatok ellátására és a feladat ellátásához a feltételek biztosítottak.
+
+(3)[^98] Az intézmény a gondozási helyre vonatkozó javaslat kialakítása érdekében tájékoztatja a területi gyermekvédelmi szakszolgálatot arról, hogy a nevelőszülő az (1) bekezdés c) pontja alapján milyen ellátási szükségletű gyermek fogadására alkalmas.
+
+## 5. A helyettes szülői jogviszony
+
+### 23. §
+
+(1)[^99] A gyermek átmeneti gondozását ellátó helyettes szülőt a kiskorú törvényes képviselőjének kérelmére az intézmény jelöli ki. Az intézmény a helyettes szülővel kötött megállapodásról értesíti a gyermekjóléti szolgálatot.
+
+(2)[^100] A kijelölés során az intézmény a Gyvt. 66/J. § (1) bekezdésében meghatározottakon túl figyelembe veszi a törvényes képviselőnek a helyettes szülő személyére vonatkozó kérelmét, a helyettes szülő által a Gyvt. 49. § (3) bekezdése alapján gondozható gyermekek számát, valamint a helyettesítő védelem során a gyermeket a Gyvt. 7. § (3) bekezdése alapján megillető jogokat.
+
+(3) A kijelölés során törekedni kell arra, hogy a gyermek átmeneti gondozása lehetőség szerint óvoda- és iskolaváltás nélkül történjen.
+
+### 24. §[^101]
+
+Az intézmény tájékoztatja a helyettes szülőt a helyettes szülő gondozásában lévő gyermekkel kapcsolatban rendelkezésére álló adatokról, így különösen a gyermek egészségi állapotára, korábbi betegségeire és az egyéb orvosi beavatkozásokra vonatkozó adatokról. Ha a helyettes szülőnek a gyermek megfelelő gondozása érdekében további információkra, adatokra van szüksége, a gyermekjóléti szolgálaton keresztül felvilágosítást kér az átmeneti gondozásban lévő gyermek szülőjétől.
+
+### 25. §[^102]
+
+A helyettes szülő tájékoztatja az intézményt
+
+a) a bekövetkezésük időpontjától számított öt napon belül a gyermek óvodai nevelésben, fejlesztő nevelésben, fejlesztő nevelés-oktatásban történő részvételének és iskolai tanulmányainak megkezdéséről, befejezéséről vagy megszakításáról,
+
+b) azonnal a gyermekkel kapcsolatos rendkívüli eseményről, így különösen az egészségi állapotában bekövetkezett jelentős változásról, iskolai, munkahelyi fegyelmi ügyéről, valamint szabálysértési, büntetőjogi felelősségre vonás alapját képező cselekményéről, függetlenül a szabálysértési vagy a büntetőeljárás megindulásától,
+
+c) azonnal a gyermeknek a helyettes szülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
+
+d)[^103] azonnal a saját életkörülményeiben bekövetkezett lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa gondozott gyermek életében, így különösen a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről, a helyettes szülő családi állapotának megváltozásáról, a családstruktúrában történt változásról, munkanélkülivé válásáról, anyagi helyzetében bekövetkezett rendkívül kedvezőtlen változásról, lakóhely megváltoztatásának szándékáról, harminc napnál hosszabb időre történő külföldre utazás szándékáról, egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes gondozni a gyermeket.
+
+### 26. §[^104]
+
+A gyermeknek az átmeneti gondozás során felmerülő veszélyeztetettsége esetén az intézmény – a gyermekjóléti szolgálat szakmai véleménye és a gyermek törvényes képviselőjének hozzájárulása alapján – az új helyettes szülő kijelölésével egyidejűleg felmondja a helyettes szülővel kötött megállapodást.
+
+### 27. §
+
+(1)[^105] A helyettes szülő és az intézmény eltérő megállapodása hiányában a helyettes szülői díjat a tárgyhónapot követő hónap 10. napjáig kell kifizetni. Ha ez a nap munkaszüneti napra esik, a helyettes szülői díjat legkésőbb az ezt megelőző munkanapon kell kifizetni.
+
+(2) Ha a gyermek a 26. §-ban meghatározott intézkedés alapján került ki a helyettes szülő háztartásából, a gondozás megszűnésének időpontjától a helyettes szülőt helyettes szülői díj nem illeti meg.
+
+(3)[^106] A helyettes szülőt arra az időtartamra illeti meg a nevelési ellátmány, amely alatt – az intézménnyel kötött megállapodás alapján – a gyermek ideiglenes jellegű, teljes körű ellátását a saját háztartásában biztosítja.
+
+(4)[^107] Az intézmény az adott gyermek után járó nevelési ellátmányt első alkalommal – a 4. § (1) bekezdésében foglaltaktól eltérően – a gyermek tényleges gondozásának megkezdését követően haladéktalanul, de legkésőbb tizenöt napon belül folyósítja a helyettes szülőnek.
+
+(5)[^108] Az egyéb feltételek fennállása esetén a nevelési ellátmány a helyettes szülőt arra a napra illeti meg utoljára, amikor a gyermek teljes napot a gondozásában töltött.
+
+### 28. §
+
+Ha a kollégiumban, diákotthonban biztosított ellátásért térítési díjat kell fizetni, azt az átmeneti gondozásban lévő gyermek szülője fizeti meg. A gyermekek napközbeni ellátása keretében biztosított gyermekétkeztetés térítési díját a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 13. §-ában foglaltak szerint kell megfizetni.
+
+### 29. §
+
+A helyettes szülői jogviszony Gyvt. 66/J. § (9) bekezdése szerinti felmondását megalapozza különösen, ha a helyettes szülő
+
+a)[^109] az intézmény engedélye nélkül másik intézménnyel is megállapodást köt,
+
+b)[^110] az együttműködési kötelezettségének nem tesz eleget, így különösen nem tájékoztatja az intézményt a 25. §-ban foglaltakról,
+
+c)[^111] magatartásával ellehetetleníti az intézménnyel történő együttműködést,
+
+d) körülményei, magatartása a szakmai szabályok szerinti feladatellátást tartósan akadályozza vagy ellehetetleníti, vagy
+
+e) előzetes bejelentés nélkül harminc napnál hosszabb időre külföldre távozik anélkül, hogy ott szokásos tartózkodási helyet létesítene.
+
+## 6. Záró rendelkezések
+
+### 30. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2014. január 1-jén lép hatályba.
+
+(2) A 11. § (3) bekezdése 2015. január 1-jén lép hatályba.
+
+### 32. §[^114]
+
+(1) A nevelőszülő a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított – 165. § (2) bekezdés c) pontja szerinti nyilatkozatát 2019. február 28-áig juttatja el a működtetőnek.
+
+(2) A működtető a 2019. január 1-jén fennálló keretmegállapodásokat a keretmegállapodás 11. § (1) bekezdés t) pontja tekintetében 2019. március 31-éig módosítási záradékkal látja el, ha az a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított –
+
+a) 165. § (1) bekezdése szerinti, a nevelőszülő képesítés megszerzésére irányuló kötelezettség teljesítésére előírt határidő változása, vagy
+
+b) 165. § (2) bekezdés c) pontja szerinti, a nevelőszülő képesítés megszerzése alóli felmentési ok
+
+miatt szükséges.
+
+### 33. §[^115]
+
+A működtető a szakmai programnak a gyermekvédelmi és gyámügyi eljárással kapcsolatos egyes kormányrendeletek módosításáról szóló 311/2019. (XII. 18.) Korm. rendelettel megállapított 4. § (5) bekezdésének megfelelő kiegészítéséről és annak a Gyvt. 48/A. § (7) bekezdés szerinti elfogadásáról 2020. március 31-éig gondoskodik.
+
+### 34. §[^116]
+
+(1) Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 744/2021. (XII. 21.) Korm. rendelettel megállapított 9. §-t a gyermek gondozási helyének 2021. december 31-ét követő kijelölésekor kell alkalmazni.
+
+(2) A működtető a keretmegállapodásnak az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 744/2021. (XII. 21.) Korm. rendelettel megállapított 11. § (1) bekezdés a) pont aa) alpontja és *n)* pont *nd)* alpontja szerinti módosításáról 2022. március 31-éig gondoskodik.
+
+## 1. melléklet az 513/2013. (XII. 29.) Korm. rendelethez[^117]
+
+---
+
+[^1]: Az 1. § c) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 70/2015. (III. 30.) Korm. rendelet 239. § (1) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 175. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 193/2024. (VII. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 3. pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 89. §-a, a 194/2024. (VII. 8.) Korm. rendelet 43. § 4. pontja szerint módosított szöveg.
+[^7]: A 3. § a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 5. pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § a) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § c) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^13]: A 4. § (6) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^14]: A 4. § (6) bekezdés a) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 6. pontja szerint módosított szöveg.
+[^15]: A 4. § (6) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^16]: Az 5. § a 193/2024. (VII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: Az 5. § (4) bekezdése a 179/2025. (VI. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^18]: Az 5/A. §-t a 384/2017. (XII. 12.) Korm. rendelet 12. §-a iktatta be, szövege a 193/2024. (VII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^19]: Az 5/A. § (1) bekezdése a 455/2024. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^20]: A 6. § a 193/2024. (VII. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: [A 6. § (2) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 8. pontja által elrendelt módosítás, amely szerint az „a működtetőnél” szövegrész helyébe az „az intézménynél” szöveg, lép, nem vezethető át.]
+[^22]: A 6. § (3) bekezdés a) pontját a 179/2025. (VI. 30.) Korm. rendelet 37. §-a hatályon kívül helyezte.
+[^23]: [A 6. § (5) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja által elrendelt módosítás, amely szerint az „a működtető” szövegrész helyébe az „az intézmény" szöveg lép, nem vezethető át.]
+[^24]: [A 6. § (6) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja által elrendelt módosítás, amely szerint az „A működtető” szövegrész helyébe az „Az intézmény" szöveg lép, nem vezethető át.]
+[^25]: A 6/A. §-t a 448/2016. (XII. 19.) Korm. rendelet 57. §-a iktatta be.
+[^26]: A 6/A. § b) pontja a 744/2021. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^28]: A 8. § (1) bekezdés záró szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 44. § d) pontja szerint módosított szöveg.
+[^29]: A 8. § (1) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^30]: A 8. § (3) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 42. § (2) bekezdése iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^31]: A 9. § a 744/2021. (XII. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^32]: A 9. § (1) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 9. pontja szerint módosított szöveg.
+[^33]: A 9. § (2) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § e) pontja szerint módosított szöveg.
+[^34]: A 9. § (3) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 43. §-a iktatta be.
+[^35]: A 9. § (4) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 43. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^36]: A 9. § (5) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 43. §-a iktatta be, a 455/2024. (XII. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^37]: A 10. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 10. pontja szerint módosított szöveg.
+[^38]: A 10. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 11. pontja szerint módosított szöveg.
+[^39]: A 11. § (1) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^40]: A 11. § (1) bekezdés a) pont aa) alpontja a 744/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^41]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
+[^42]: A 11. § (1) bekezdés d) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^43]: A 11. § (1) bekezdés h) pontját a 629/2022. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^44]: A 11. § (1) bekezdés j) pontja a 629/2022. (XII. 30.) Korm. rendelet 44. § f) pontja szerint módosított szöveg.
+[^45]: A 11. § (1) bekezdés k) pontja a 629/2022. (XII. 30.) Korm. rendelet 44. § g) pontja szerint módosított szöveg.
+[^46]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított, nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^47]: A 11. § (1) bekezdés n) pont nc) alpontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 12. pontja szerint módosított szöveg.
+[^48]: A 11. § (1) bekezdés n) pont nd) alpontját a 744/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^49]: A 11. § (1) bekezdés o) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^50]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított, a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^51]: A 11. § (1) bekezdés q) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^52]: A 11. § (1) bekezdés u) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^53]: A 11. § (2) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^54]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított, a 629/2022. (XII. 30.) Korm. rendelet 44. § h) pontja szerint módosított szöveg.
+[^55]: A 11. § (4) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^56]: A 11. § (5) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^57]: A 11. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 14. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^58]: A 11. § (7) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^59]: A 12. § (1) bekezdés a) pont ab) alpontját a 194/2024. (VII. 8.) Korm. rendelet 44. §-a hatályon kívül helyezte.
+[^60]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^61]: A 12. § (1) bekezdés f) pontja a 629/2022. (XII. 30.) Korm. rendelet 44. § i) pontja szerint módosított szöveg.
+[^62]: A 12. § (1) bekezdés g) pontja a 427/2025. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^63]: A 12. § (1) bekezdés h) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^64]: A 12. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 13. pontja szerint módosított szöveg.
+[^65]: A 12. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^66]: A 12. § (5) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^67]: A 12. § (6) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^68]: A 13. § a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^69]: A 14. § nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 14. pontja szerint módosított szöveg.
+[^70]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított, nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 15. pontja szerint módosított szöveg.
+[^71]: A 14. § e) pont ea) alpontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^72]: A 14. § e) pont ei) alpontját a 306/2018. (XII. 27.) Korm. rendelet 15. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 43. § 16. pontja szerint módosított szöveg.
+[^73]: A 14. § e) pont ej) alpontját a 194/2024. (VII. 8.) Korm. rendelet 41. §-a iktatta be.
+[^74]: A 15. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 17. pontja szerint módosított szöveg.
+[^75]: A 15. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 85. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 17. pontja szerint módosított szöveg.
+[^76]: A 15. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 18. és 19. pontja szerint módosított szöveg.
+[^77]: A 15. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7., 17. és 20. pontja szerint módosított szöveg.
+[^78]: A 16. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 21. pontja szerint módosított szöveg.
+[^79]: A 16. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 21. és 22. pontja szerint módosított szöveg.
+[^82]: A 18. § a 353/2014. (XII. 29.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^83]: A 18. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^84]: A 18. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^85]: A 18. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2., 7. és 23. pontja szerint módosított szöveg.
+[^86]: A 18. § (4) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^87]: A 18. § (6) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 24. pontja szerint módosított szöveg.
+[^88]: A 18. § (7) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^89]: A 19. § (1) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja, a 427/2025. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^90]: A 19. § (2) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja, a 427/2025. (XII. 23.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^91]: A 19. § (3) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § j) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^92]: A 19. § (4) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^93]: A 19. § (5) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § k) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^94]: A 20. § a 194/2024. (VII. 8.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^95]: A 22. § (1) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^96]: A 22. § (2) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^97]: A 22. § (2) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^98]: A 22. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^99]: A 23. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^100]: A 23. § (2) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^101]: A 24. § a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^102]: A 25. § nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 19. pontja szerint módosított szöveg.
+[^103]: A 25. § d) pontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^104]: A 26. § a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^105]: A 27. § (1) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^106]: A 27. § (3) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 25. pontja szerint módosított szöveg.
+[^107]: A 27. § (4) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § j) pontja, a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^108]: A 27. § (5) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^109]: A 29. § a) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 26. pontja szerint módosított szöveg.
+[^110]: A 29. § b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 19. pontja szerint módosított szöveg.
+[^111]: A 29. § c) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 25. pontja szerint módosított szöveg.
+[^114]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 306/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^115]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 311/2019. (XII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^116]: A 34. §-t a 744/2021. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^117]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

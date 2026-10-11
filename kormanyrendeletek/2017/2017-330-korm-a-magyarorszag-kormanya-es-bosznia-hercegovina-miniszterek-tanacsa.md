@@ -1,0 +1,186 @@
+---
+title: "330/2017. (XI. 9.) Korm. rendelet a Magyarország Kormánya és Bosznia-Hercegovina Miniszterek Tanácsa között a turizmus területén történő együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "330/2017. (XI. 9.) Korm. rendelet"
+njt_id: "2017-330-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/330"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-11-09
+in_force_from: 2017-11-10
+last_amended: 2018-06-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-330-20-22"
+retrieved: 2026-10-12
+---
+
+# 330/2017. (XI. 9.) Korm. rendelet a Magyarország Kormánya és Bosznia-Hercegovina Miniszterek Tanácsa között a turizmus területén történő együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Bosznia-Hercegovina Miniszterek Tanácsa között a turizmus területén történő együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„MEGÁLLAPODÁS Magyarország Kormánya és Bosznia-Hercegovina Miniszterek Tanácsa között a turizmus területén történő együttműködésről**
+
+Magyarország Kormánya, és Bosznia-Hercegovina Miniszterek Tanácsa (továbbiakban: Szerződő Felek),
+
+azzal a szándékkal vezérelve, hogy tovább erősítik a két ország közötti baráti kapcsolatokat és megteremtik a turizmus területén történő együttműködés előmozdításának általános kereteit;
+
+elismerve az emberek törvényes jogát saját, illetve más népek kultúrájának élvezetéhez;
+
+figyelembe véve a turizmus társadalmi és gazdasági fejlődésben betöltött jelentőségét;
+
+az alábbiakban állapodnak meg:
+
+**1. Cikk**
+
+A Szerződő Felek vállalják, hogy együttműködnek a két ország turizmusának fejlesztésében és népszerűsítésében, annak érdekében, hogy jobban megértsék a két ország kultúráját, történelmét és életét.
+
+**2. Cikk**
+
+A Szerződő Felek vállalják, hogy kicserélik turisztikai információikat, illetve promóciós anyagaikat és kiadványaikat, valamint összehangolják a két ország turistaforgalmának növelését célzó programjaikat és egyéb tevékenységeiket (pl. kiállítások, stb.).
+
+**3. Cikk**
+
+A Szerződő Felek kicserélik turisztikai statisztikáikat, valamint a meglévő turisztikai jogszabályokra vonatkozó információikat.
+
+**4. Cikk**
+
+A Szerződő Felek lehetőségeik szerint könnyítik és egyszerűsítik az egymás közötti beutazó turizmusra vonatkozó követelményeket, csakúgy, mint a turizmust népszerűsítő dokumentumok és egyéb anyagok kicserélését.
+
+**5. Cikk**
+
+A Szerződő Felek ösztönzik a turisztikai szakértők és tanácsadók cseréjét, megteremtik a tapasztalatok és ismeretek egymás közötti megosztását a turizmus minden területén, valamint megvizsgálnak minden olyan javaslatot, amely az egymás rendelkezésére bocsátható ösztöndíjakra, szemináriumokra, illetve a turizmusban foglalkoztatottak munkahelyi képzésére vonatkozik.
+
+**6. Cikk**
+
+A Szerződő Felek ösztönzik az egymás országaiba irányuló turisztikai befektetéseket. A Szerződő Felek vállalják, hogy átadják egymásnak a beruházásokra – és különös tekintettel a turizmus területére – vonatkozó jogszabályokkal kapcsolatos adatokat.
+
+**7. Cikk**
+
+Jelen Megállapodás végrehajtása érdekében a Szerződő Felek Turisztikai Közös Munkacsoport felállításáról állapodtak meg, mely a turisztikai szektor releváns intézményeinek képviselőiből áll.
+
+A Közös Munkacsoport évente egyszer, a két országban felváltva ülésezik a Szerződő Felek által diplomáciai úton meghatározott időben. Amennyiben szükséges a munkacsoport – kölcsönös megegyezés szerint – korábban is ülésezhet.
+
+**8. Cikk**
+
+Jelen szerződés Magyarország Európai Uniós tagságából fakadó kötelezettségit semmilyen módon nem befolyásolja. Következésképpen a jelen Megállapodás rendelkezései nem alkalmazhatók, vagy nem értelmezhetőek sem egészben, sem részben oly módon, hogy érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarország azon kötelezettségeit, melyek különösen az Európai Unió alapjául szolgáló Szerződésekből vagy az Európai Unió jogrendjéből fakadnak.
+
+A jelen Megállapodás semmilyen módon nem érinti a Szerződő Felek azon jogait és kötelezettségeit, amelyek nemzetközi egyezményekben való részvételükből vagy nemzetközi szervezetekben való tagságukból fakadnak.
+
+**9. Cikk**
+
+Jelen Megállapodás a hatálybalépéshez szükséges belső jogi eljárások teljesüléséről szóló legutolsó írásbeli értesítés kézhezvételét követő harmincadik (30.) napon lép hatályba.
+
+**10. Cikk**
+
+1\. Szerződő Felek a jelen Megállapodást öt (5) évre kötik. A Megállapodás hatálya annak lejártakor további öt (5) évre automatikusan meghosszabbodik, annak lehetőségével, hogy a Felek bármelyike a folyamatban lévő öt (5) éves időszak lejárta előtt hat (6) hónappal a Megállapodást írásban, diplomáciai úton felmondhatja.
+
+2\. Jelen Megállapodás rendelkezései kölcsönös megegyezés szerint módosíthatók. A Megállapodás módosításait írásba kell foglalni.
+
+3\. A Megállapodás módosításai az e Megállapodásban meghatározott, a Megállapodás hatálybalépéséhez szükségessel azonos eljárást követően lépnek hatályba.
+
+Kelt New York, 2017. 09. hó 19. napján, két-két eredeti példányban, Bosznia-Hercegovina hivatalos nyelvein (bosnyák, szerb és horvát nyelven), valamint magyar és angol nyelven, mindegyik nyelv egyaránt hiteles.
+
+Eltérő értelmezés esetén az angol szövegváltozat az irányadó.
+
+Magyarország Kormánya részéről
+
+Bosznia-Hercegovina Miniszterek Tanácsa részéről”
+
+**“AGREEMENT on Cooperation in the Field of Tourism between the Government of Hungary and the Council of Ministers of Bosnia and Herzegovina**
+
+The Government of Hungary and the Council of Ministers of Bosnia and Herzegovina, hereinafter called the Contracting Parties,
+
+Seeking to further strengthen the friendly relations between the two countries and establishing a general framework for facilitating cooperation in the field of tourism,
+
+Recognizing the legitimate right of people to enjoy in their own, but also the cultures of other peoples,
+
+Bearing in mind the importance of tourism to the overall social and economic development,
+
+Have agreed as follows:
+
+**Article 1**
+
+The Contracting Parties undertake to cooperate in the development and promotion of tourism between both countries, in order to understand culture, history and life in both countries.
+
+**Article 2**
+
+The Contracting Parties undertake to exchange tourist information, materials and publications of promotional character, to coordinate programs and other activities (such as exhibitions, etc.), aiming at promoting tourist flow in both directions.
+
+**Article 3**
+
+The Contracting Parties will exchange statistics and information about existing laws and regulations in the field of tourism.
+
+**Article 4**
+
+The Contracting Parties shall facilitate and simplify the necessary formalities for the incoming of tourists in both countries as much as possible, as well as exchange of the documents and materials of tourism promotion.
+
+**Article 5**
+
+The Contracting Parties shall encourage the exchange of experts and advisers in the field of tourism, constitute the exchange of experience and knowledge in all sectors of tourism and study all proposals concerning the reciprocal provision of the scholarships, seminars and on – the – job training courses for the employees in tourism.
+
+**Article 6**
+
+The Contracting Parties will encourage investment in tourism in both countries. The Contracting Parties undertake to provide each other with data on legislation governing investments and in the field of tourism in particular.
+
+**Article 7**
+
+For the purpose of implementation of the Present Agreement, the Contracting Parties agreed to set up a Joint Working Group for Tourism, which consists of representatives of the relevant institutions in the tourism sector.
+
+The meetings of the Joint Working Group shall be held once a year alternatively in each country at a time agreed by the Contracting Parties through diplomatic channels. If necessary the Working Group can meet earlier upon mutual agreement.
+
+**Article 8**
+
+This Agreement shall in no way affect the obligations of Hungary as a member state of the European Union. Consequently, the provisions of this Agreement shall not be applied or interpreted neither in whole, nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from, in particular, the Treaties which the European Union is based on, as well as from the law of the European Union.
+
+The present Agreement shall in no way affect the rights and obligations of the Contracting Parties arising from either its participation in international treaties, or its membership in international organizations.
+
+**Article 9**
+
+This Agreement shall enter into force thirty (30) days after receipt of the last written notification of the fulfilment of all the internal legal procedures for the entry into force of this Agreement.
+
+**Article 10**
+
+1\. This Agreement is concluded for a period of five (5) years. On expiry of this period the Agreement shall be automatically extended for further period of five (5) years, with possibility that each party may cancel it in writing, through diplomatic channels, six (6) months prior to the expiration of current five (5) years period.
+
+2\. The provisions of the Agreement may be amended by mutual agreement. Amendments to the Agreement must be in writing.
+
+3\. Amendments to the Agreement shall enter into force following the same procedures, provided by the Agreement.
+
+This Agreement is signed in New York on 19.09.2017. in two (2) originals, each in the Hungarian, official languages of Bosnia and Herzegovina (Bosnian, Croatian and Serbian), and English, of which all texts are equally authentic.
+
+In case of any differences in interpretation of this Agreement, the English text shall prevail.
+
+FOR THE GOVERNMENT\
+of Hungary
+
+FOR THE COUNCIL OF MINISTERS\
+of Bosnia and Herzegovina”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetést követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 9. Cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a turizmusért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 9. Cikkében meghatározott időpontban lép hatályba. A 15/2018. (V. 31.) KKM közlemény alapján a hatálybalépés időpontja 2018. június 15.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 9. Cikkében meghatározott időpontban lép hatályba. A 15/2018. (V. 31.) KKM közlemény alapján a hatálybalépés időpontja 2018. június 15.
+[^3]: A 15/2018. (V. 31.) KKM közlemény alapján a hatálybalépés időpontja 2018. június 15.
+[^4]: Lásd a 15/2018. (V. 31.) KKM közleményt.

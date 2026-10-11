@@ -1,0 +1,135 @@
+---
+title: "201/2019. (VIII. 15.) Korm. rendelet a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatainak meghatározásáról"
+identifier: "201/2019. (VIII. 15.) Korm. rendelet"
+njt_id: "2019-201-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/201"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-08-15
+in_force_from: 2019-08-16
+last_amended: 2019-09-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-201-20-22"
+retrieved: 2026-10-12
+---
+
+# 201/2019. (VIII. 15.) Korm. rendelet a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatainak meghatározásáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében és az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A külgazdasági ügyekért felelős miniszter (a továbbiakban: miniszter) a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 1. pontjában foglalt külgazdasági ügyekért való felelőssége körében a befektetésösztönzési feladatokat a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HIPA NZrt.) útján vagy annak közreműködésével látja el.
+
+(2) A HIPA NZrt.
+
+a) javaslatot tesz a befektetésösztönzés rövid, közép- és hosszú távú céljainak kialakítására, a célok elérését biztosító gazdasági, szabályozási, intézményi és egyéb feltételrendszer kialakításának lehetséges irányaira;
+
+b) részt vesz a külgazdasági politikai koncepció és a külgazdasági stratégia végrehajtásában;
+
+c) segíti a miniszter hivatali szervezetének parlamenti államtitkárát a miniszter külügyi és külgazdasági stratégiájából eredő feladatainak előkészítésében;
+
+d) közreműködik a befektetésösztönzési szakmai anyagok összeállításában;
+
+e) közreműködik az üzleti delegációk szakmai programjainak megvalósításában;
+
+f) előkészíti a külföldi befektetők magyarországi befektetéseivel kapcsolatos egyedi döntési javaslatokat;
+
+g) részt vesz a befektetésösztönzési elképzelések, programok, koncepciók kidolgozásában, azok megvalósításában;
+
+h) előkészíti a kiemelt beruházási projektek támogatásával kapcsolatos kormányzati döntéseket;
+
+i) kapcsolatot tart fenn, illetve együttműködik a befektetésösztönzésben érintett kormányzati szervekkel;
+
+j) szakmai háttéranyagok kidolgozásával közreműködik a befektetésösztönzési szakmai kommunikáció szervezésében;
+
+k) segíti a két- és többoldalú nemzetközi gazdasági kapcsolatok fejlesztését;
+
+l) kapcsolatot tart a külföldi befektetőkkel, segíti azok befektetési döntéseinek meghozatalát;
+
+m) előkészíti és lebonyolítja a miniszter által a hatáskörébe utalt befektetésösztönzési tárgyalásokat, koordinálja a vállalt kötelezettségek végrehajtását;
+
+n) részt vesz a külgazdasági támogatási rendszerre vonatkozó javaslatok kidolgozásában;
+
+o) feladatkörét érintően együttműködik hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, illetve testületekkel.
+
+(3) A HIPA NZrt. a befektetésösztönzési tevékenysége körében
+
+a) információkat nyújt külföldiek számára a hazai befektetési, jogi, adózási és pénzügyi környezetről;
+
+b) egyablakos rendszert működtet, amely segíti a külföldiek tájékozódását a befektetési lehetőségeket illetően és segítséget nyújt a külföldi befektetői döntések meghozatalához;
+
+c) koordinálja a barna- és zöldmezős, valamint a vegyesvállalati befektetések előkészítését;
+
+d) befektetésösztönzési fókuszú beszállítófejlesztési tevékenységet végez, növelve ezzel a kis- és középvállalkozások nemzetközi versenyképességét;
+
+e) tájékoztatást nyújt a Kormány befektetéseket támogató programjairól;
+
+f) javaslatot tesz befektetési helyszín kiválasztására;
+
+g) közreműködik az egyedi kormánydöntéssel (EKD) biztosított támogatási rendszer működtetésében;
+
+h) felkészíti a helyi önkormányzatokat a befektetők fogadására;
+
+i) figyelemmel kíséri, és feladatkörében eljárva gondozza a már betelepült befektetők működési körülményeit, és közreműködik a magyar hozzáadottérték-hányad növelésében;
+
+j) feladatkörével összefüggésben részt vesz külföldi konferenciákon, rendezvényeken.
+
+## 2. §
+
+A miniszter az 1. §-ban meghatározott feladatok ellátására a HIPA NZrt.-vel a feladatok jellegétől függően közszolgáltatási vagy támogatási szerződést köt.
+
+## 3. §
+
+A Nemzeti Befektetési Ügynökség 2019. augusztus 31. napjával jogutód nélkül megszűnik.
+
+## 4. §
+
+(1) 2019. szeptember 1. napjától – az államháztartásról szóló 2011. évi CXCV. törvény 11. § (5) bekezdése szerinti kijelölt szervként – a HIPA NZrt. gyakorolja és teljesíti a Nemzeti Befektetési Ügynökség magánjogi jogait és kötelezettségeit.
+
+(2) Az (1) bekezdés szerinti jogok és kötelezettségek átszállása a Nemzeti Befektetési Ügynökséggel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(3) A 2019. augusztus 31. napján már fennálló, továbbá a Nemzeti Befektetési Ügynökség megszűnésével kapcsolatban keletkező számviteli és adózási kötelezettségeket a Nemzeti Befektetési Ügynökség által átadott iratok alapján a Külgazdasági és Külügyminisztérium teljesíti. A Nemzeti Befektetési Ügynökség megszűnéséhez kapcsolódó záró beszámolót a Külgazdasági és Külügyminisztérium készíti el az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 14. § (1) bekezdés *b)* pontjában foglaltak figyelembevételével.
+
+(4) A 2019. szeptember 1. napja előtt indult, folyamatban lévő közbeszerzési és beszerzési eljárásokban a Nemzeti Befektetési Ügynökség helyébe a HIPA NZrt. lép.
+
+(5) A 2019. szeptember 1. napja előtt indult, folyamatban lévő peres és nemperes eljárásokban a Nemzeti Befektetési Ügynökség helyébe a HIPA NZrt. lép.
+
+## 5. §
+
+(1) 2019. szeptember 1. napján annak a személynek, akinek 2019. augusztus 31. napján a Nemzeti Befektetési Ügynökséggel
+
+a) határozatlan idejű kormányzati szolgálati jogviszonya, illetve munkaviszonya áll fenn, e jogviszonya a HIPA NZrt.-vel fennálló határozatlan idejű munkaviszonnyá,
+
+b) határozott idejű kormányzati szolgálati jogviszonya, illetve munkaviszonya áll fenn, e jogviszonya a HIPA NZrt.-vel fennálló határozott idejű munkaviszonnyá
+
+alakul át.
+
+Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős munkaviszonnyá, részmunkaidőben történő foglalkoztatás esetén részmunkaidős munkaviszonnyá alakul át. A 2019. augusztus 31. napján a Nemzeti Befektetési Ügynökséggel fennállt kormányzati szolgálati jogviszonyban, illetve munkaviszonyban kikötött próbaidő mértéke a jogviszonyváltást követően változatlan marad.
+
+(2) A kormányzati szolgálati jogviszony munkaviszonnyá átalakulása tekintetében e rendeletben nem szabályozott kérdésekben a kormányzati igazgatásról szóló 2018. évi CXXV. törvény jogviszonyváltásra vonatkozó rendelkezéseit kell alkalmazni.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a kormányzati szolgálati jogviszony, illetve munkaviszony, ha az (1) bekezdésben meghatározott személlyel szemben összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló az átalakulást követő 30 napon belül intézkedik és ezt igazolja.
+
+(4) A Nemzeti Befektetési Ügynökség 2019. augusztus 31. napi megszűnését követő hat hónapon belül a HIPA NZrt. alkalmazottai munkaviszonyának felmondással történő megszüntetése tekintetében a munkáltató működésével összefüggő oknak minősül a költséghatékony létszámgazdálkodás megvalósítása érdekében a feladatellátáshoz nem szükséges munkakörök megszüntetése.
+
+(5) A Nemzeti Befektetési Ügynökséggel fennálló, (1) bekezdés szerinti jogviszony időtartamát – ideértve a jogviszonnyal kapcsolatosan elismert egyéb foglalkoztatási időtartamot is – az átalakulást követően a HIPA NZrt.-vel fennálló munkaviszonyban töltött időként kell elismerni és figyelembe venni.
+
+(6) A Nemzeti Befektetési Ügynökség 2019. augusztus 31. napján a Nemzeti Befektetési Ügynökségnél foglalkoztatott személyek számára közszolgálati igazolást vagy munkáltatói igazolást állít ki.
+
+## 6. §
+
+A Nemzeti Befektetési Ügynökség 3. § szerinti megszűnése előtt a feladatainak ellátásával összefüggésben keletkezett, a Nemzeti Befektetési Ügynökség nyilvántartásaiban kezelt adatokat, valamint irattárában 2019. augusztus 31. napján fellelhető iratokat a HIPA NZrt. jogosult kezelni.
+
+## 7. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 1–2. §-a, 4. §-a, 5. § (1)–(5) bekezdése, valamint 6. §-a és 8. §-a 2019. szeptember 1. napján lép hatályba.
+
+## 8. §[^1]
+
+---
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

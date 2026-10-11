@@ -1,0 +1,133 @@
+---
+title: "204/2011. (X. 7.) Korm. rendelet a gépjármű utópiacra vonatkozó megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről"
+identifier: "204/2011. (X. 7.) Korm. rendelet"
+njt_id: "2011-204-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/204"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-10-07
+in_force_from: 2011-10-22
+last_amended: 2011-10-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-204-20-22"
+retrieved: 2026-10-12
+---
+
+# 204/2011. (X. 7.) Korm. rendelet a gépjármű utópiacra vonatkozó megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről
+
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 96. §-ában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+1\. *független forgalmazó:*
+
+a) gépjármű-pótalkatrész olyan forgalmazója, amely nem az azon gépjárműszállító által létrehozott forgalmazási rendszer keretén belül működik, amelynek járműveihez pótalkatrészt forgalmaz, valamint
+
+b) egy adott szállító forgalmazási rendszerének keretén belül működő szerződéses forgalmazó az olyan gépjárművek pótalkatrészeinek forgalmazása tekintetében, amely gépjárművek vonatkozásában nem tagja az érintett szállító forgalmazási rendszerének;
+
+2\. *független javítóműhely:*
+
+a) olyan, gépjárművekkel kapcsolatos javítási vagy karbantartási szolgáltatásokat nyújtó vállalkozás, amely nem az azon gépjárműszállító által létrehozott forgalmazási rendszernek a keretén belül működik, amelynek járművei tekintetében a szolgáltatást nyújtja, valamint
+
+b) egy adott szállító forgalmazási rendszerének keretén belül működő szerződéses javítóműhely az olyan gépjárművek vonatkozásában nyújtott javítási vagy karbantartási szolgáltatásai tekintetében, amely gépjárművek vonatkozásában nem tagja az érintett szállító forgalmazási rendszerének;
+
+3\. *gépjármű:* közúti használatra szánt, három vagy annál több kerékkel rendelkező önjáró jármű;
+
+4\. *pótalkatrész:* olyan termék, amelyet egy adott gépjármű valamely alkatrészének pótlására a gépjárműbe beszerelnek, vagy a gépjárműre rászerelnek, ideértve a gépjármű használatához szükséges kenőanyagokat is, a hajtóanyag kivételével;
+
+5\. *szerződéses forgalmazó:* gépjárművek pótalkatrészeinek egy gépjárműszállító által létrehozott forgalmazási rendszer keretén belül működő forgalmazója;
+
+6\. *szerződéses javítóműhely:* a gépjárművekkel kapcsolatos javítási vagy karbantartási szolgáltatásokat nyújtó, egy gépjárműszállító által létrehozott forgalmazási rendszer keretén belül működő vállalkozás;
+
+7\. *utópiac:* az az érintett piac, amelyen gépjármű-pótalkatrészek vásárlása, értékesítése vagy viszonteladása, illetve gépjárművekkel kapcsolatos javítási vagy karbantartási szolgáltatások nyújtása történik;
+
+8\. *vállalkozás, gyártó, szállító, vevő:* a vertikális megállapodásban résztvevő vállalkozás, gyártó, szállító, vevő, továbbá a vertikális megállapodásban résztvevő vállalkozás, gyártó, szállító, vevő kapcsolt vállalkozásai.
+
+(2) Az (1) bekezdésben nem szereplő fogalmakra a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló kormányrendelet fogalommeghatározásai irányadóak.
+
+## 2. Mentesülés
+
+### 2. §
+
+(1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel, a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – a gépjármű utópiacra vonatkozó, vertikális korlátozást tartalmazó vertikális megállapodás mentesül a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól, ha megfelel a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló kormányrendeletben meghatározott feltételeknek.
+
+(2) Az (1) bekezdés szerinti mentesülés nem alkalmazható az olyan vertikális megállapodásra, amelynek célja közvetlenül vagy közvetetten, önmagában vagy más, a megállapodásban részt vevő vállalkozások ellenőrzése alatt álló tényezőkkel együtt
+
+a) a szelektív forgalmazási rendszer tagjainak korlátozása abban, hogy a gépjármű-pótalkatrészt olyan független javítóműhelynek értékesítsék, amely az ilyen alkatrészt gépjármű javításához vagy karbantartásához használja fel;
+
+b) a pótalkatrész, javítószerszám vagy diagnosztikai, illetve egyéb berendezés szállítója és a gépjárműgyártó közötti megállapodás révén a szállító korlátozása abban, hogy ezen termékeket szerződéses vagy független forgalmazónak, illetve szerződéses vagy független javítóműhelynek vagy végfelhasználónak értékesítse;
+
+c) az alkatrészt a gépjármű első összeszereléséhez felhasználó gépjárműgyártó és az ezen alkatrész szállítója közötti megállapodás révén a szállító korlátozása abban, hogy az általa szállított alkatrészen vagy pótalkatrészen védjegyét vagy logóját jól látható módon elhelyezze.
+
+## 3. Záró rendelkezések
+
+### 3. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+### 4. §
+
+(1) A gépjármű ágazatban a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alól való mentesítéséről szóló 19/2004. (II. 13.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E rendelet alapján – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel – mentesül a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól az új gépjárművek beszerzésére, eladására vagy viszonteladására vonatkozó vertikális megállapodás, amennyiben vertikális versenykorlátozást tartalmaz.”
+
+(2) Az R. 1. § (2) bekezdés *a)* pontja helyébe a következő rendelkezés lép:
+
+*[A mentesítés a vertikális megállapodások következő csoportjaira is alkalmazandó:]*
+
+„*a)* vállalkozások társulása és tagjai között, vagy ilyen társulás és szállítói között kötött vertikális megállapodásokra csak akkor, ha valamennyi tag gépjármű-forgalmazó, és a társulás egyetlen tagjának a hozzá kapcsolódó vállalkozásokkal együttes teljes éves forgalma sem lépi túl a 13 milliárd forintot; az ilyen társulások által kötött vertikális megállapodásokra e rendelet hatálya kiterjed anélkül, hogy ez érintené a Tpvt. 11. §-ának a társulás tagjai között kötött horizontális megállapodásokra vagy a társulás által hozott döntésekre való alkalmazását;”
+
+(3) Az R. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A (2)–(6) bekezdésben foglaltak mellett a mentesítés alkalmazásának feltétele, hogy a szállító piaci részesedése azon az érintett piacon, amelyen az új gépjárműveket eladja, ne haladja meg a 30%-ot. A mentesítés alkalmazásához tartozó piaci részesedési küszöb 40% az új gépjárművek eladására szolgáló mennyiségi szelektív forgalmazási rendszereket létrehozó megállapodásokra vonatkozóan. E piaci részesedési küszöbök nem vonatkoznak a minőségi szelektív forgalmazási rendszereket létrehozó megállapodásokra.”
+
+(4) Az R. 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A mentesítés alkalmazásának feltétele, hogy a forgalmazóval létrejött vertikális megállapodás úgy rendelkezzen, hogy a szállító hozzájárul a vertikális megállapodásból eredő jogok és kötelezettségek a forgalmazási rendszernek az előző forgalmazó által kiválasztott forgalmazójára átruházásához.”
+
+(5) Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Új gépjárművek értékesítése esetében a mentesítés nem alkalmazható azokra a vertikális megállapodásokra, amelyeknek célja közvetlenül vagy közvetve, önmagukban vagy a megállapodásban részt vevő vállalkozások ellenőrzése alatt álló más tényezőkkel összefüggésben
+
+*a)* a forgalmazó azon lehetőségének korlátozása, hogy eladási árát meghatározza, ide nem értve a szállítónak azt a lehetőségét, hogy legmagasabb eladási árat határozzon meg, vagy ajánlott eladási árat javasoljon, feltéve, hogy ez nem válik a megállapodásban részt vevő vállalkozások valamelyike által gyakorolt nyomás vagy alkalmazott ösztönzés következményeként rögzített vagy legkisebb eladási árrá;
+
+*b)* annak a területnek vagy vevőkörnek a korlátozása, amelyre, illetve amelynek a forgalmazó a szerződés szerinti árukat vagy szolgáltatásokat eladhatja; a mentesítés alkalmazandó azonban
+
+*ba)* a szállító számára fenntartott vagy a szállító által más forgalmazó számára juttatott kizárólagos területre vagy kizárólagos vevőcsoporthoz irányuló aktív eladások korlátozására, ha az ilyen korlátozás nem határolja be a forgalmazó vevőinek eladásait,
+
+*bb)* a nagykereskedelem szintjén működő forgalmazó végső felhasználókhoz irányuló eladásainak korlátozására,
+
+*bc)* szelektív forgalmazási rendszer tagjai nem szerződéses forgalmazók részére végzett új gépjármű eladásainak korlátozására az olyan piacokon, ahol szelektív forgalmazást alkalmaznak, a *ba)* alpontban foglalt feltételektől függően,
+
+*bd)* a vevő azon lehetőségeinek korlátozására, hogy beépítési célokra szállított elemeket olyan vevőknek értékesítsen, amelyek azokat a szállító által gyártottakkal azonos típusú áruk gyártására használnák fel;
+
+*c)* a szelektív forgalmazási rendszer forgalmazói – köztük a kereskedelem más-más szintjén működő forgalmazók – közti keresztszállítások korlátozása;
+
+*d)* szelektív forgalmazási rendszer a kiskereskedelem szintjén működő tagjainak korlátozása abban, hogy végső felhasználók részére új gépjárművek aktív vagy passzív eladását valósítsák meg az olyan piacokon, ahol szelektív forgalmazást alkalmaznak. A mentesülés kiterjed azokra a megállapodásokra, amelyek szelektív forgalmazási rendszer valamely tagjának megtiltják, hogy nem megállapodás szerinti letelepedési helyről működjön, feltéve, hogy e megállapodások mentesülését a 4. § (2) bekezdésének *b)* pontja nem zárja ki;
+
+*e)* szelektív forgalmazási rendszer a kiskereskedelem szintjén működő tagjainak korlátozása személygépkocsikon vagy könnyű haszongépjárműveken kívüli új gépjárművek végső felhasználóknak való aktív vagy passzív eladásában az olyan piacokon, ahol szelektív forgalmazást alkalmaznak anélkül, hogy ez érintené a szállítónak azt a lehetőségét, hogy a szóban forgó rendszer valamely tagjának a nem megállapodás szerinti letelepedési helyről való működést megtiltsa.”
+
+(6) Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az új gépjárművek értékesítése tekintetében a mentesülés nem terjed ki a vertikális megállapodások által tartalmazott következő kötelezettségekre:
+
+*a)* a közvetlen vagy közvetett versenytilalmi kötelezettségekre;
+
+*b)* azokra a közvetlen vagy közvetett kötelezettségekre, amelyek valamely forgalmazási rendszer tagjait arra kényszerítik, hogy bizonyos versenytárs szállítók gépjárműveit ne értékesítsék;
+
+*c)* azokra a közvetlen vagy közvetett kötelezettségekre, amelyek arra kényszerítik a forgalmazót, hogy a megállapodás lejártát követően ne gyártson, szerezzen be, adjon el vagy viszonteladjon gépjárműveket.”
+
+### 5. §
+
+(1) Hatályát veszti az R. 3. § (2) bekezdés *b)* pontja, 3. § (3)–(5) bekezdése, 4. § (3) bekezdése és 5. § (1) bekezdés *b)* és *c)* pontja.
+
+(2) Hatályát veszti az R. 2. § (2) bekezdésében a „vagy szolgáltatásokat” szövegrész, 2. § (4) bekezdésében a „vagy javítóműhellyel” szövegrészek, 2. § (5) bekezdésében a „vagy szerződéses javítóműhellyel” szövegrész és 4. § (2) bekezdés *b)* pontjában a „(vagy a további javítóműhelyek)” szövegrész.
+
+### 6. §
+
+Az R. 2013. június 1-jén hatályát veszti.

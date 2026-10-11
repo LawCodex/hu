@@ -1,0 +1,497 @@
+---
+title: "181/2017. (VII. 5.) Korm. rendelet a vizsgálóállomás engedélyezésének részletes eljárási szabályairól"
+identifier: "181/2017. (VII. 5.) Korm. rendelet"
+njt_id: "2017-181-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/181"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-07-05
+in_force_from: 2018-05-20
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-181-20-22"
+retrieved: 2026-10-12
+---
+
+# 181/2017. (VII. 5.) Korm. rendelet a vizsgálóállomás engedélyezésének részletes eljárási szabályairól
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 24. alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] Vizsgálóállomás csak járműfenntartó szervezetnél, annak telephelyén és csak a közlekedési hatóság által kiadott engedély és – az (1a) bekezdés kivételével – sikeres auditálás vagy a nemzeti akkreditálásról szóló törvény szerinti akkreditált státusz alapján működhet.
+
+(1a)[^2] A 40 km/h-nál nem nagyobb tervezési sebességű mezőgazdasági vontatók, lassújárművek és vontatmányaik vizsgálata, valamint a honosítási eljárások tekintetében audit nem szükséges, a vizsgálatokra, a honosítási eljárásokra a közlekedési hatóság engedélye alapján kerülhet sor.
+
+(2) Az auditálás 2 évig, az akkreditált státusz 5 évig hatályos.
+
+## 1/A. §[^3]
+
+(1)[^4] Az auditálási tevékenységet a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet végzi.
+
+(2) Az auditálási tevékenységet a közlekedési hatóság ellenőrzi.
+
+(3)[^5] Az 1. §-ban meghatározott engedélyezési és auditálási eljárást nem kell lefolytatni a Magyar Honvédség és a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek által üzemeltetett olyan vizsgálóállomásnál, amelynél kizárólag a szervezetük üzemeltetésében levő járművek műszaki vizsgálatát végzik, ha a vizsgálóállomás teljesíti az engedélyezéshez és az auditáláshoz szükséges, e rendeletben meghatározott feltételeket.
+
+(4)[^6] Az (1) bekezdés szerinti auditáló szerv által működtetett vizsgálóállomások tevékenységüket a közlekedési hatóság engedélye alapján végzik, ahhoz az 1. § (1) bekezdése szerinti auditálás vagy akkreditált státusz nem szükséges.
+
+## 2. §
+
+Az engedélyezési eljárás kérelemre indul, amelyet elbírálás céljából a kérelmező szervezet telephelyenként nyújt be. A kérelemről a telephely szerint illetékes közlekedési hatóság dönt.
+
+## 2/A. §[^7]
+
+(1) Az országos lefedettséget biztosító műszaki vizsgálóállomás elismerése iránti kérelemről a közlekedésért felelős miniszter dönt.
+
+(2) A kérelem legalább a következőket tartalmazza:
+
+a) a kérelmező szervezet megnevezését székhelyének címét, elektronikus levelezési címét, telefonos elérhetőségét, adószámát, valamint képviselőjének nevét,
+
+b) az országosan működtetett és a közlekedési hatóság érvényes engedélyével rendelkező műszaki vizsgáló állomásokat, azok címét,
+
+c) a kérelem benyújtását megelőző egy naptári év tekintetében a *b)* pont szerinti vizsgálóállomások tevékenysége szüneteltetésének napjait.
+
+(3)[^8] Ha az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet minden vármegyében és a fővárosban (a továbbiakban: közigazgatási terület) legalább egy, a közlekedési hatóság engedélyével rendelkező műszaki vizsgálóállomást működtet, – úgy, hogy egy időben legfeljebb két közigazgatási területen nem teljesíti a feltételt – a szervezetet országos lefedettséget biztosító műszaki vizsgálóállomásként kell elismerni.
+
+(3a)[^9] Az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet az elismeréshez kapcsolódó tevékenységét hatályos hatósági elismerés alapján, a 9. § (2) bekezdése szerinti engedélyezési eljárás lefolytatása nélkül végzi.
+
+(4) Az elismerés a döntés véglegessé válásától számított egy évig érvényes, amely évenként meghosszabbítható, ha az elismerésre vonatkozó feltételek nem változtak.
+
+(5) Az elismert országos lefedettséget biztosító műszaki vizsgálóállomás minden, az elismerés szempontjából jelentős adatváltozást nyolc napon belül bejelent a közlekedésért felelős miniszternek.
+
+(6) A közlekedési hatóság a lefolytatott ellenőrzése alapján, az országos lefedettséget biztosító műszaki vizsgálóállomáson elkövetett jogsértés esetén az ellenőrzés eredményéről tájékoztatja a közlekedésért felelős minisztert.
+
+(7) A közlekedésért felelős miniszter az elismerést visszavonja, ha
+
+a) az elismerés feltételei már nem állnak fenn,
+
+b) azt az országos lefedettséget biztosító műszaki vizsgálóállomás kéri,
+
+c) az (5) bekezdésben előírt bejelentési kötelezettségének az országos lefedettséget biztosító műszaki vizsgálóállomás nem tesz eleget,
+
+d)[^10] a közlekedési hatóság ellenőrzése során megállapítást nyert, hogy az országos lefedettséget biztosító műszaki vizsgálóállomások részét képező műszaki vizsgálóállomások bármelyike a 12. § a), c), d) vagy f) pontja szerinti jogsértést az első megszegéstől számított 2 éven belül további 4 esetben elkövette, vagy a vizsgálatok során a mérőműszereket jogellenesen befolyásolta, vagy szándékosan valótlan adatot rögzített.
+
+## 3. §
+
+(1) Az engedély iránti kérelem tartalmazza:
+
+a) annak a telephelynek a címét, amelyen a kérelmező szervezet a vizsgálóállomást működtetni kívánja,
+
+b) a kérelmező szervezet elektronikus levelezési címét, telefonos elérhetőségét, pénzforgalmi számlájának számát és az azt vezető pénzügyi intézmény nevét, valamint képviselőjének és telephelyvezetőjének a nevét,
+
+c)[^11] az 1. melléklet szerinti
+
+ca) műszaki vizsgálati eljárás megnevezését,
+
+cb) járműkategória megnevezését és
+
+cc) a közlekedési hatósági műszaki vizsgálatokhoz kapcsolódó egyéb eljárás (a továbbiakban: alvizsga) megjelölését,
+
+amelyre a kérelmező szervezet a vizsgálóállomást működtetni kívánja,
+
+d)[^12]
+
+e)[^13]
+
+(2) A díjat telephelyenként kell megfizetni.
+
+## 4. §
+
+(1)[^14] A kérelmező szervezetnek igazolnia kell, hogy megfelelő pénzügyi helyzettel rendelkezik.
+
+(2) A kérelmező szervezet pénzügyi helyzete abban az esetben megfelelő, ha a kérelem benyújtásának időpontjában köztartozásmentes adózónak minősül.
+
+(3)[^15] A megfelelő pénzügyi helyzet igazolható különösen
+
+a) a Magyar Könyvvizsgálói Kamaránál bejegyzett könyvvizsgáló nyilatkozatával;
+
+b) nyilvántartásba vett könyvvizsgálói társaság nyilatkozatával;
+
+c)[^16] harminc napnál nem régebbi, az állami adó- és vámhatóság által kiállított köztartozásmentes adózói minőségről szóló igazolással és a székhely szerinti helyi önkormányzati adóhatóság által kiállított nemleges adóigazolással.
+
+(4) A könyvvizsgálói nyilatkozatnak a gazdálkodó szervezet számvitelről szóló törvény alapján készített beszámolója (beszámoló hiányában nyitómérleg, vagyonmérleg vagy vagyonkimutatás) alapján kell tanúsítania a (2) bekezdésben foglaltak – egy évnél nem régebbi időpontban való – teljesülését. A közlekedési hatóság a kérelmező szervezettől kérheti a könyvvizsgálói nyilatkozat alapjául szolgáló bármely dokumentum bemutatását is.
+
+## 5. §[^17]
+
+A kérelem tartalmazza:
+
+a) a kérelmező szervezetnél rendelkezésre álló technikai eszközökre és az alkalmazni kívánt műszaki vizsgabiztosokra vonatkozó adatokat a 2. melléklet szerint,
+
+b) a telephelyvezetőre, kapcsolattartásra jogosult és az ügyintéző személyekre vonatkozó adatokat a 3. melléklet szerint,
+
+c) az alkalmazni kívánt műszaki vizsgabiztosoknak, a telephelyvezetőnek, a kapcsolattartásra jogosult és az ügyintéző személyeknek a személyes adataik kezeléséhez adott hozzájárulását a 4. melléklet szerint,
+
+d)[^18] annak igazolását, hogy a kérelmező szervezet rendelkezik auditált vagy akkreditált státusszal,
+
+e)[^19] a kérelmező szervezet által írásban meghatározott műszaki vizsgálattal kapcsolatos ügyviteli és vizsgálati technológiai eljárást, amely tartalmazza az ügyfélpanasz kezelését, továbbá a jótállási igény rendezésének leírását is.
+
+## 6. §[^20]
+
+A közlekedési hatóság a vizsgálóállomás engedélyezése iránti kérelmet elutasítja, ha a vállalkozás vezető tisztségviselője, képviseleti joggal rendelkező egyéb személy az engedély iránti kérelem benyújtását megelőző három éven belül vezető tisztséget töltött be olyan vállalkozásban, amelynek a közlekedési hatóság visszavonta az engedélyét – a vezetői tisztségviselés időtartama alatt – a 14. § (1) bekezdés e) vagy f) pontjában foglaltak miatt.
+
+## 7. §[^21]
+
+(1) A közlekedési hatóság az engedélyt akkor adja ki, ha a telephely megfelel a gépjárműfenntartó tevékenység személyi és dologi feltételeiről, továbbá a közúti járművek műszaki megvizsgálásáról szóló rendeletekben foglalt – a 3. § (1) bekezdés c) pontja szerinti tevékenység végzéséhez szükséges – személyi és tárgyi feltételeknek.
+
+(2) Az (1) bekezdésben meghatározott megfelelőséget – a vizsgálóállomások auditálásáról és akkreditált státuszának elfogadásáról szóló rendeletben foglaltak szerint –
+
+a) az auditált státusz vagy
+
+b) az akkreditált státusz
+
+tanúsítja.
+
+## 7/A. §[^22]
+
+(1) A közlekedésért felelős miniszter az engedély megadásához szükséges dologi feltételek tekintetében – a mérésügyi előírások megtartásával – eltérést engedélyezhet, ha a vizsgálóállomás igazolja, hogy az a technikai fejlődéshez történő igazodás céljából az új technológiát képviselő eszközök és berendezések valós körülmények közötti tesztelését szolgálja, és annak vizsgálatban történő használata megegyezik a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott eszközök használatának eredményével.
+
+(2) A közlekedésért felelős miniszter az engedélyt egy éves időtartamra adja ki. A kiadott engedély – annak feltételeinek fennállta esetén – további egy évvel meghosszabbítható.
+
+(3) A közlekedésért felelős miniszter az engedélyben az annak tárgyát képező eszköz, berendezés vonatkozásában további feltételeket írhat elő.
+
+## 7/B. §[^23]
+
+A vizsgálóállomást működtető vállalkozásvezető tisztségviselője, képviseleti joggal rendelkező egyéb személye nem lehet az, aki az engedély iránti kérelem benyújtását megelőző három éven belül vezető tisztséget töltött be olyan vállalkozásban, amelynek a közlekedési hatóság az engedélyét – a vezetői tisztségviselés időtartama alatt – a 14. § (1) bekezdés e) vagy f) pontjában foglaltak miatt vonta vissza.
+
+## 8. §[^24]
+
+Az engedély – az általános közigazgatási rendtartásról szóló törvény szerinti határozatban foglaltakon túl – tartalmazza:
+
+a) a vizsgálóállomás üzemeltetőjének megnevezését, székhelyét, a kérelemben megjelölt telephelyének címét, adószámát, cégjegyzékszámát, pénzforgalmi számlájának számát és a számláját vezető pénzügyi intézmény megnevezését, elektronikus levélcímét, valamint képviselőjének nevét,
+
+b) annak a 3. § (1) bekezdés c) pontja szerinti eljárásnak, járműkategóriának és alvizsgának a megjelölését, amelyre vonatkozóan a kérelmező szervezet vizsgálóállomásként kíván közreműködni a közlekedési hatóság eljárásában,
+
+c) az auditálás és az akkreditálás alapján megállapított járművizsgálati időszükségleteket.
+
+## 9. §
+
+(1) Az engedély jogosultja a vizsgálóállomással kapcsolatos – az engedélyben szereplő – bármely adat változását annak bekövetkezésétől számított 15 napon belül bejelenti a közlekedési hatóságnak. A közlekedési hatóság a változást átvezeti, és ennek megfelelően új engedélyt ad ki.
+
+(2)[^25] Ha olyan változás történik, amelynek következtében
+
+a) a vizsgálóállomás tevékenységi körébe tartozó eljárások, járműkategóriák vagy alvizsgák bővülnek – ide nem értve az országos lefedettséget biztosító műszaki vizsgálóállomás számára a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján biztosított eljárásokban való közreműködést, valamint a 7/A. § szerinti eltérési engedélyt –,
+
+b) a vizsgálóállomás a korábbi vizsgálati sorok számát növeli, vagy
+
+c) a vizsgálati soron olyan változást végez, amely a telepített eszközök (fékpad, lengéscsillapító vizsgáló próbapad, futómű mozgató) áthelyezését vagy a vizsgálóakna, illetve az emelőpad átépítését, cseréjét eredményezi,
+
+a vizsgálóállomás az engedélye módosítását köteles kérni.
+
+(3)[^26] A (2) bekezdésben meghatározott esetekben a 7. § (1) bekezdése szerinti megfelelőséget a vizsgálóállomás a 7. § (2) bekezdésében foglaltaknak megfelelően igazolja, az engedély egyéb változása, módosítása esetén a 7. § (2) bekezdés szerinti újbóli auditálás vagy akkreditálási eljárás lefolytatására nincs szükség.
+
+## 10. §
+
+(1) A vizsgálóállomás a kérelem benyújtásának és az engedélyezésnek a feltételeit folyamatosan biztosítja.
+
+(2)[^27]
+
+(3)[^28]
+
+(4)[^29] A vizsgálóállomás – az audit érvényességének lejárata előtt legalább 60 nappal – kérelmezheti az auditáló szervtől az auditált státusz felülvizsgálatát.
+
+(5)[^30] Ha a kérelemre indult auditálás során az auditáló szerv azt állapítja meg, hogy a vizsgálóállomás nem felel meg az auditálási feltételeknek, úgy – a tevékenység szüneteltetése és annak a közlekedési hatósághoz 3 munkanapon belüli bejelentése mellett – a vizsgálóállomás jogosult egyszeri alkalommal, 30 napon belül – a hiányosságok megszüntetése után – újbóli auditálást kérelmezni.
+
+## 11. §[^31]
+
+A közlekedési hatóság rendszeresen ellenőrzi, és az auditáló szerv kérelemre auditálja a vizsgálóállomás tevékenységét.
+
+## 12. §[^32]
+
+Ha a vizsgálóállomás
+
+a) akadályozza a hatósági ellenőrzést,
+
+b)[^33] az információs rendszerekben rögzítendő, vállalkozásokra vonatkozó adatokban bekövetkezett változást 15 napon belül nem jelenti be, vagy a bejelentést késedelmesen teljesíti,
+
+c) az engedélyben szereplőtől eltérő kategóriájú járművet tanúsít, vagy az engedélyben szereplőtől eltérő eljárástípussal működteti a vizsgálóállomást,
+
+d) műszerei mérésügyi szempontból nem megfelelőek,
+
+e) a pénzügyi helyzete nem megfelelő, vagy
+
+f) az auditált vagy akkreditált státusz megszűnése, visszavonása esetén a tevékenységét nem szünetelteti, vagy annak bejelentését elmulasztja,
+
+a közlekedési hatóság a vizsgálóállomás működését 30 napra, a *d)* pont esetében a hiányosság megszüntetéséig felfüggeszti.
+
+## 12/A. §[^34]
+
+(1) A közlekedési hatóság a vizsgálóállomás engedélyét a jogsértéssel érintett telephelyekre kiterjedően felfüggeszti, ha a vizsgálóállomással szemben a közúti járművek forgalomba helyezés előtti, valamint időszakos vizsgálatával, honosítási eljárásával, továbbá rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése miatt harmadik alkalommal kerül sor végleges döntésben közigazgatási bírság kiszabására. A felfüggesztésről a közigazgatási bírságot megállapító döntés véglegessé válásától számított 8 napon belül kell dönteni.
+
+(2) A felfüggesztés időtartama a közlekedési hatóság döntésétől függően 30 naptól 90 napig terjedhet, amelynek megállapítása során a közlekedési hatóság az alábbi szempontokat veszi figyelembe:
+
+a) jogsértések ismétlődésének gyakorisága,
+
+b) jogsértések súlyossága,
+
+c) jogsértések száma.
+
+## 13. §
+
+(1) Ha a vizsgálóállomás a kérelem benyújtásának és az engedélyezésnek a feltételeit már nem tudja biztosítani, a tevékenységét köteles szüneteltetni. A szüneteltetést a közlekedési hatósághoz 3 munkanapon belül – a szüneteltetés várható időtartamának megjelölésével – be kell jelentenie.
+
+(2) A közlekedési hatóság a vizsgálóállomás működését a feltételek teljesítéséig – de legfeljebb 6 hónapra – felfüggeszti.
+
+(3)[^35] Ha az auditált vagy akkreditált státusz megszűnése vagy az audit tanúsítvány visszavonása miatt került sor a tevékenység felfüggesztésére, úgy tevékenység csak sikeres auditálást vagy akkreditálást követően folytatható.
+
+## 14. §
+
+(1) A közlekedési hatóság az engedélyt visszavonja, ha
+
+a) az engedély jogosultja a vizsgálóállomásra vonatkozó engedély visszavonására irányuló kérelmet nyújt be,
+
+b)[^36] az engedély jogosultja tanúsító szervezetként jogutóddal vagy jogutód nélkül megszűnik – ide nem értve azt az esetet, amikor az egyéni vállalkozó vállalkozói tevékenységének folytatására a 2009. évi CXV. törvény 19/C. §-a alapján korlátolt felelősségű társaságot alapít, továbbá amikor országos, regionális, elővárosi autóbusszal végzett személyszállítási közszolgáltatási tevékenységet végző tanúsító szervezet tekintetében jogutódlás következik be –, vagy ellene felszámolási eljárás indult,
+
+c) a közlekedési hatóság megállapította, hogy az engedély jogosultja a korábbi engedélyezési feltételeknek nem felel meg, és az erre irányuló felszólításában meghatározott határidő eredménytelenül telik el,
+
+d)[^37] a közlekedési hatóság a vizsgálóállomás működését – annak kérelmére – szüneteltetés miatt felfüggesztette, és a vizsgálóállomás a felfüggesztés megkezdésétől számított 6 hónap elteltével sem tudja biztosítani a kérelem benyújtásának és az engedélyezésnek a feltételeit,
+
+e)[^38] a vizsgálóállomáson a közlekedési hatóság elektronikus rendszerében a rendszer használatára jogosult felhasználó személyes adatainak, felhasználó nevének és jelszavának illetéktelen használata valósul meg,
+
+f)[^39] az első véglegessé vált döntést követő három éven belül a közlekedési hatóság a vizsgálóállomás működését a 12. §-ban foglaltak alapján már 2 alkalommal végleges döntésében felfüggesztette,
+
+g)[^40] a közlekedési hatóság a vizsgálóállomás tevékenységével összefüggésben az első véglegessé vált döntést követő három éven belül 6 alkalommal szabott ki közigazgatási bírságot végleges döntésében, vagy
+
+h)[^41] két, egymást követő auditálás nem megfelelő minősítéssel zárult.
+
+(2)[^42] Amennyiben az engedélyt a közlekedési hatóság az (1) bekezdés e), f) vagy g) pontja alapján vonja vissza, a vizsgálóállomás részére újabb engedély a visszavonás napját követő 3 év elteltével adható.
+
+(3)[^43] Ha az országos, regionális, elővárosi autóbusszal végzett tevékenységet végző tanúsító szerv részére e rendelet alapján kiadott engedély időbeli hatályának tartama alatt az engedély jogosultja helyébe a polgári jog szerinti jogutódja lép, az engedély jogosultja a jogutódlás tényét a közlekedési hatóság felé – 8 napon belül – írásban bejelenti,
+
+## 15. §
+
+Ez a rendelet 2018. május 20-án lép hatályba.
+
+## 16. §[^44]
+
+E rendeletnek Magyarország versenyképességének javítása érdekében egyes kormányrendeletek módosításáról szóló 155/2025. (VI. 23.) Korm. rendelettel (a továbbiakban: Mód.R.) megállapított 4. § (3) bekezdés d) pontját a Mód.R. hatálybalépésekor[^45] folyamatban lévő eljárások során is alkalmazni kell.
+
+## 16. §[^46]
+
+(1) Azon, a közúti járművekkel, valamint a közúti közlekedési szakemberekkel összefüggő egyes kormányrendeletek módosításáról szóló 168/2025. (VI. 26.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^47] napján engedéllyel rendelkező vizsgálóállomás – ide nem értve az országos lefedettséget biztosító vizsgálóállomást –, amely honosítási eljárást is folytatni kíván, köteles ezt bejelenteni a közlekedési hatósághoz, amely a bejelentést követő 15 napon belül – a követelmények további vizsgálata nélkül – hivatalból módosítja az engedélyt.
+
+(2) E rendeletnek a Módr.-rel megállapított 12/A. §-át, 14. § (1) bekezdés f)–h) pontját és 14. § (2) bekezdését a Módr. hatálybalépését[^48] követően indult hatósági eljárásokban kell alkalmazni.
+
+## 17. §[^50]
+
+Ez a rendelet
+
+a) a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelv,
+
+b) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv
+
+rendelkezéseinek való megfelelést szolgálja.
+
+## 1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^52]
+
+**Az engedély iránti kérelem tartalmi elemei**
+
+1.[^53] Műszaki vizsgálati eljárások megnevezése:
+
+1.1. forgalomba helyezés előtti vizsgálat: érvényes általános forgalombahelyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki vizsgálat;
+
+1.2. időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, ha az adatmódosítás hatósági elírás következménye, és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül;
+
+1.3. korlátozott időszakos vizsgálat: új jármű kereskedelmi forgalomba hozatala során, a vonószerkezettel felszerelt jármű vontatásra való alkalmasságának megállapítását vagy a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének megállapítását követően a Műszaki adatlap adatainak módosításával új Műszaki adatlap kiadása;
+
+1.4. jármű-honosítási eljárás: a közösségi jármű egyedi forgalomba helyezésére irányuló engedélyezési eljárás, amelyben a Műszaki adatlap kiállítása a jármű forgalomban tartására a származási országban megszerzett jogosultság elismerése alapján történik;
+
+1.5. egyéb, az 1.1–1.4. alpontban nem nevesített műszaki vizsgálati eljárás.
+
+<table><thead><tr><th>**sorszám**</th><th>**A**</th><th>**B**</th></tr></thead><tbody><tr><td>**1.**</td><td colspan="2">1. Motor-kerékpárok</td></tr><tr><td>**2.**</td><td></td><td>L1e</td></tr><tr><td>**3.**</td><td></td><td>L3e, L4e</td></tr><tr><td>**4.**</td><td></td><td>L2e</td></tr><tr><td>**5.**</td><td></td><td>L5e</td></tr><tr><td>**6.**</td><td></td><td>L6e</td></tr><tr><td>**7.**</td><td></td><td>L7e</td></tr><tr><td>**8.**</td><td colspan="2">2. Személy-gépjárművek</td></tr><tr><td>**9.**</td><td>3 500 kg-ig</td><td>M1, M2</td></tr><tr><td>**10.**</td><td>> 3 500 kg</td><td>M1, M2</td></tr><tr><td>**11.**</td><td>> 3 500 kg</td><td>M2, M3</td></tr><tr><td>**12.**</td><td colspan="2">3. Teher-gépjárművek</td></tr><tr><td>**13.**</td><td>3 500 kg-ig</td><td>N1</td></tr><tr><td>**14.**</td><td>> 3 500 kg</td><td>N2, N3</td></tr><tr><td>**15.**</td><td colspan="2">4. Az N kategóriából származtatott különleges gépjárművek, valamint a 40 km/h feletti tervezési sebességű mezőgazdasági vontatók</td></tr><tr><td>**16.**</td><td>3 500 kg-ig</td><td>N1</td></tr><tr><td>**17.**</td><td>> 3 500 kg</td><td>N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5</td></tr><tr><td>**18.**</td><td colspan="2">5. Pótkocsik</td></tr><tr><td>**19.**</td><td>750 kg-ig</td><td>O1</td></tr><tr><td>**20.**</td><td>> 750–3 500 kg</td><td>O2, R1, R2, S1, lassú jármű pótkocsija</td></tr><tr><td>**21.**</td><td>> 3 500 kg</td><td>O3, O4, R3, R4, S2, lassú jármű pótkocsija</td></tr><tr><td>**22.**</td><td colspan="2">6. Mezőgazdasági vontatók legfeljebb 40 km/h tervezési sebességgel és lassú járművek</td></tr><tr><td>**23.**</td><td></td><td>T1-T4, lassú járművek</td></tr><tr><td>**24.**</td><td colspan="2">7. További, az 1–6. pontban nem szereplő járművek</td></tr></tbody></table>
+
+3\. A közlekedés hatósági műszaki vizsgálatokhoz kapcsolódó egyéb eljárásai (alvizsgák):
+
+1\. V4×4 (Összkerékhajtás vizsgálata);
+
+2\. V2T (2-nél több tengely);
+
+3\. MNK (Autóbusz minősítése nemzetközi forgalomra);
+
+4\. MKOZ (Autóbusz minősítése közforgalmú személyszállításra);
+
+5\. LVR (Légfékrendszer vizsgálata);
+
+6\. VTACHO (Menetíró, valamint sebességkorlátozó berendezés);
+
+7\. MADR (Veszélyesáru-szállításra minősítés, jóváhagyási igazolás kiadása, hosszabbítása);
+
+8\. VKÜL [Az 5/1990. (IV. 12.) KöHÉM rendelet 20. § (2) bekezdés szerinti különleges felépítmények vizsgálata, kivéve ADR hatálya alá tartozó, valamint az üzemeltetés szempontjából külön engedélyhez kötött járművek];
+
+9\. CEMT (Közlekedésbiztonsági igazolás);
+
+10\. NK (N2/N3 jármű minősítése nemzetközi forgalomra);
+
+11\. VÁE (Jóváhagyási igazolásra nem kötelezett veszélyes anyagot szállító / ADR hatálya alá tartozó jármű műszaki vizsgálata);
+
+12\. GAZ (Gáz-benzin kettős üzemű járművek vizsgálata);
+
+13\. MEGKÜL (megkülönböztető, illetve figyelmeztető jelzéssel ellátott járművek vizsgálata);
+
+14\. M100 (Autóbusz 100 km-es minősítése);
+
+15\. MOKT (Oktató jármű időszakos vizsgálata);
+
+16\. MOZG (Mozgássérült jármű időszakos vizsgálata);
+
+17\. BEÜT (Alvázszám beütés);
+
+18\. LA (lassulásméréssel végzett fékhatásmérés);
+
+19\. egyéb, jogszabályban nevesített, a közlekedési hatósági műszaki vizsgálathoz kapcsolódó eljárás.
+
+## 2. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
+
+1\. Vizsgabiztosok felsorolása
+
+Telephely címe:
+
+Név:
+
+Nyilvántartási szám:
+
+Név:
+
+Nyilvántartási szám:
+
+2\. A vizsgálóállomás tulajdonában álló technikai eszközök
+
+Telephely címe:
+
+Műszer rendeltetése:
+
+Gyártmány:
+
+Típus:
+
+Műszer rendeltetése:
+
+Gyártmány:
+
+Típus:
+
+## 3. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
+
+1\. A vizsgálóállomás részéről a közlekedési hatósággal történő kapcsolattartásra, ügyintézésre, illetve telephely vezetésére jogosult személyek:
+
+1.1. Székhely megnevezése:
+
+Kapcsolattartó neve:
+
+telefonszáma:
+
+Ügyintéző neve:
+
+telefonszáma:
+
+1.2. Telephely megnevezése:
+
+Telephelyvezető neve, telefonszáma:
+
+Kapcsolattartó neve, telefonszáma:
+
+Ügyintéző neve, telefonszáma:
+
+## 4. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
+
+**Hozzájáruló nyilatkozat**
+
+Alulírott XY (lakcím: ......................, szül. hely, idő: ..................) mint a telephelyű vizsgálóállomás vizsgabiztosa/kapcsolattartója/ügyintézője, hozzájárulok az alábbi személyes adataimnak a közlekedési hatóság Hatósági Keret Rendszerében (HKR) történő kezeléséhez.
+
+1\. Családi név:
+
+2\. Születési név:
+
+3\. Keresztnév:
+
+4\. Születési hely:
+
+5\. Születési idő:
+
+6\. Személyi igazolvány száma:
+
+7\. Telefonszám:
+
+8\. Faxszám:
+
+9\. E-mail-cím:
+
+Lakcímadatok:
+
+1\. Irányítószám:
+
+2\. Település:
+
+3\. Közterület neve:
+
+4\. Közterület típusa:
+
+5\. Házszám:
+
+6\. Épület:
+
+7\. Lépcsőház:
+
+8\. Emelet:
+
+9\. Ajtó:
+
+A hozzájáruló nyilatkozatom visszavonásig érvényes.
+
+Aláírás helye és ideje:
+
+Aláírás
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 222/2023. (VI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 222/2023. (VI. 2.) Korm. rendelet 1. §-a iktatta be, szövege a 168/2025. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1/A. §-t a 245/2020. (V. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^4]: Az 1/A. § (1) bekezdése a 141/2025. (VI. 19.) Korm. rendelet 9. §-a, a 442/2025. (XII. 29.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^5]: Az 1/A. § (3) bekezdése a 24/2025. (II. 27.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^6]: Az 1/A. § (4) bekezdését a 222/2023. (VI. 2.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 2/A. §-t a 722/2020. (XII. 31.) Korm. rendelet 37. §-a iktatta be.
+[^8]: A 2/A. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.
+[^9]: A 2/A. § (3a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 60. §-a iktatta be.
+[^10]: A 2/A. § (7) bekezdés d) pontja a 613/2023. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 613/2023. (XII. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 3. § (1) bekezdés d) pontját a 613/2023. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^13]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.
+[^14]: A 4. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 609. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 610. §-a szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdés c) pontja a 155/2025. (VI. 23.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 609. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § d) pontja a 722/2020. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^19]: Az 5. § e) pontja a 722/2020. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^20]: A 6. §-t a 722/2020. (XII. 31.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte, újonnan a 657/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 7. § a 425/2024. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^22]: A 7/A. §-t a 613/2023. (XII. 22.) Korm. rendelet 9. §-a iktatta be, szövege a 425/2024. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^23]: Az újabb 7/A. §-t a 657/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be, jelölését 7/B. §-ra változtatta és szövegét megállapította a 425/2024. (XII. 23.) Korm. rendelet 23. §-a.
+[^24]: A 8. § a 425/2024. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^25]: A 9. § (2) bekezdése a 613/2023. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^26]: A 9. § (3) bekezdését a 613/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^27]: A 10. § (2) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^28]: A 10. § (3) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^29]: A 10. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^30]: A 10. § (5) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 41. §-ával megállapított, a 613/2023. (XII. 22.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^31]: A 11. § a 722/2020. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^32]: A 12. § a 722/2020. (XII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^33]: A 12. § b) pontja a 613/2023. (XII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^34]: A 12/A. §-t a 168/2025. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 13. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 44. §-ával megállapított, a 613/2023. (XII. 22.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^36]: A 14. § (1) bekezdés b) pontja a 60/2023. (II. 28.) Korm. rendelet 38. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^37]: A 14. § (1) bekezdés d) pontja a 613/2023. (XII. 22.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^38]: A 14. § (1) bekezdés e) pontja a 613/2023. (XII. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^39]: A 14. § (1) bekezdés f) pontja a 168/2025. (VI. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 14. § (1) bekezdés g) pontja a 168/2025. (VI. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^41]: A 14. § (1) bekezdés h) pontját a 168/2025. (VI. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^42]: A 14. § (2) bekezdése a 168/2025. (VI. 26.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^43]: A 14. § (3) bekezdését a 425/2024. (XII. 23.) Korm. rendelet 24. §-a iktatta be.
+[^44]: A 16. §-t a 613/2023. (XII. 22.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^45]: A hatálybalépés időpontja 2025. július 1.
+[^46]: A második 16. §-t a 168/2025. (VI. 26.) Korm. rendelet 7. §-a iktatta be.
+[^47]: A hatálybalépés időpontja 2025. július 1.
+[^48]: A hatálybalépés időpontja 2025. július 1.
+[^50]: A 17. § a 722/2020. (XII. 31.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^53]: Az 1. melléklet 1. pontja a 168/2025. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,0 +1,299 @@
+---
+title: "6/2010. (I. 21.) Korm. rendelet a vasúti társaságok nem vasúti balesetből eredő károk fedezésére szolgáló kötelező kárfedezeti képességének biztosításáról"
+identifier: "6/2010. (I. 21.) Korm. rendelet"
+njt_id: "2010-6-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/6"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-01-21
+in_force_from: 2010-01-26
+last_amended: 2024-08-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-6-20-22"
+retrieved: 2026-10-12
+---
+
+# 6/2010. (I. 21.) Korm. rendelet a vasúti társaságok nem vasúti balesetből eredő károk fedezésére szolgáló kötelező kárfedezeti képességének biztosításáról
+
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet meghatározza az országos, a térségi, az elővárosi, a városi, a helyi, a keskeny nyomtávolságú vasút, a múzeumvasút által, valamint a függővasúton végzett vasúti személyszállítási tevékenységet végző vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó nem vasúti balesetből eredő károk, valamint a vasúti személyszállítási szerződésszegésből adódó igazolt károk megtérítésére való alkalmasságával kapcsolatos követelményeket.
+
+### 2. §
+
+(1) A rendeletben – a (2) bekezdésben meghatározott kiegészítésekkel – a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
+
+(2) E rendelet alkalmazásában
+
+a) *személyenkénti (utasonkénti) fedezeti összeghatár:* egy felelősségi káresetből egy személy részére nem vasúti baleseti kárra, illetve szerződésszegésből származó igazolt kárra a fedezet felső határa;
+
+b) *tervezett utaslétszám:* a folyó évet követő időszakra (évre) tervezett utasok száma;
+
+c) *nem vasúti balesetből származó, utasnak okozott kár:* a vasúti társaságok kötelező baleseti kárfedezetének biztosításáról szóló kormányrendelet hatálya alá nem tartozó olyan, a vasúti társaságnak felróható károkozás, amely az utasnak a vasúti járművön tartózkodása közben, fel-, illetve leszállása alkalmával, a vonat álló helyzetből történő hirtelen megrántása, megrándulása következtében az utas ruházatában, kézipoggyászában, útipoggyászában, utassal együtt utazó élő állatban következik be, valamint a szerződésszegésből (vonatkimaradás, késés) származó igazolt kár;
+
+d) *vonatkimaradás:* járat megszűnése esetén azonos vasúti társaság másik vonata az utast az eredeti érkezéstől számított 180 percnél hosszabb idő alatt juttatja el a célállomásra;
+
+e) *késés:* az utast a vasúti társaság igénybe vett járata a célállomásra a menetrendben meghirdetett érkezési időhöz képest több mint 30 perccel később tudja csak eljuttatni és ezt a tényt a vasúti társaság igazolja;
+
+f) *integrál (eléréses) önrészesedés:* a kárnak az a része, amit a vasúti társaság visel, ha a kár nagysága nem éri el az e rendeletben megadott értéket; amennyiben a kár a megadott értéket meghaladja, úgy az egész kár összegét a biztosító viseli.
+
+## Kárfedezeti képesség
+
+### 3. §
+
+(1) A vasúti társaság kötelező kárfedezeti képessége annak biztosítására szolgál, hogy a vasúti társaság a fedezeti összeghatárig terjedő értékben képes legyen az e minőségében, vagy a vasúti közlekedési tevékenység végzéséhez igénybe vett közreműködő személyek által nem vasúti balesetből származó, utasnak okozott kár megtérítésére.
+
+(2) A vasúti társaság megfelelő kárfedezeti képességgel rendelkezik, amennyiben a 4. § szerint rá irányadó fedezeti összeghatárt elérő értékben – az 5. §-ban meghatározott és a 6. § rendelkezéseinek megfelelő – vagyoni biztosítékkal rendelkezik.
+
+## A fedezeti összeghatár
+
+### 4. §[^2]
+
+A vasúti társaságra irányadó fedezeti összeghatárt az 1. mellékletben foglaltak szerint kell megállapítani.
+
+## A vagyoni biztosíték
+
+### 5. §
+
+(1) Vagyoni biztosíték lehet:
+
+a)[^3] garanciaszerződés,
+
+b)[^4] Magyarország területén biztosítási tevékenység végzésére jogosult biztosítóval kötött felelősségbiztosítási szerződés (a továbbiakban: biztosítás).
+
+(2) Az egyes vagyoni biztosítékformák külön-külön és együttesen is alkalmazhatók.
+
+### 6. §
+
+(1)[^5] A vagyoni biztosítékra vonatkozó szerződés rendelkezik a következőkről:
+
+a) a vagyoni biztosíték a 3. §-ban meghatározott valamennyi kárigény kielégítésére felhasználható,
+
+b)[^6] országos vasúti személyszállításra vonatkozó működési engedély esetében a vagyoni biztosíték területi hatálya valamennyi, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területére, egyéb vasúti személyszállításra vonatkozó működési engedély vagy bejelentés esetében a működési engedélyben vagy a tudomásul vett bejelentésben meghatározott működési területre terjed ki,
+
+c)[^7] a szerződés bármely okból történő megszűnése vagy megszüntetése esetén a biztosító a vasúti igazgatási szervet haladéktalanul elektronikus úton tájékoztatja, továbbá
+
+d) biztosítás esetén a biztosító – az esetlegesen előírt önrésztől függetlenül – a biztosítási összeg erejéig a teljes kárt megtéríti.
+
+(2)[^8] A vagyoni biztosítékra kötött szerződésnek legalább a tárgyév végéig kell szólnia.
+
+(3)[^9] A garanciaszerződés és a biztosítási összeg pénzneme forint vagy a Magyar Nemzeti Bank (a továbbiakban: MNB) által jegyzett deviza lehet. A devizában meghatározott összeget a fedezeti összeghatár megállapításakor a tárgyévet megelőző évben az MNB által közzétett utolsó devizaárfolyam szerinti értéken kell figyelembe venni.
+
+(4)[^10] Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökken, a vasúti társaság – amennyiben a vasúti személyszállítási tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről, legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet legalább tizenöt napon belül elektronikus úton értesíti.
+
+### 7. §
+
+(1)[^11] A garanciaszerződésben rögzíteni kell, hogy a hitelintézet bármely olyan személynek kifizetést teljesít a vagyoni biztosíték terhére, aki a vasúti társaság felelősségi körébe tartozóan elszenvedett kárának jogalapját és összegét
+
+a) a vasúti társaság írásbeli elismerő nyilatkozatával, vagy
+
+b) a bíróság végrehajtható határozatával
+
+igazolja.
+
+(2)[^12] A működési engedéllyel rendelkező vasúti társaság a garanciaszerződés hatályát a működési engedélye visszavonása esetén azt követően szüntetheti meg, hogy a vasúti igazgatási szerv felé igazolta:
+
+a) valamennyi, vele szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozata által megalapozott kárigényt kielégített, valamint
+
+b) az egyéb, jogvita tárgyává tett kárigények vonatkozásában az eljárás a vasúti társaság marasztalása nélkül jogerősen befejeződött.
+
+(3)[^13] Ha a vasúti közlekedési tevékenységét bejelentés alapján végző vasúti társaság a bejelentéshez kötött tevékenységével felhagy és ezt a vasúti igazgatási szerv részére bejelentette vagy a vasúti közlekedési tevékenység folytatását a vasúti igazgatási szerv megtiltotta, a garanciaszerződés hatályát csak azt követően szüntetheti meg, hogy a vasúti igazgatási szerv felé igazolta, hogy
+
+a) valamennyi, vele szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozata által megalapozott kárigényt és sérelemdíj iránti igényt kielégített, valamint
+
+b) az egyéb, jogvita tárgyává tett kárigények és sérelemdíj iránti igények vonatkozásában az eljárás a vasúti társaság marasztalása nélkül jogerősen befejeződött.
+
+## A kárfedezeti képesség igazolása, adatszolgáltatás
+
+### 8. §
+
+(1)[^14] A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
+
+a)[^15] a biztosítási szerződés általános és különös szerződési feltételeket tartalmazó része közjegyző által hitelesített másolat példányban, a biztosítási kötvény és a biztosítási díjjal rendezett időszakról (ideértve a díjhalasztást is) a biztosító által kiállított igazolás eredeti vagy közjegyző által hitelesített másolat példánya, vagy
+
+b)[^16] a garanciaszerződés eredeti vagy közjegyző által hitelesített másolati példánya
+
+tanúsítja.
+
+(2)[^17] Az (1) bekezdés szerinti igazolás tartalmazza:
+
+a) a szerződés azonosítóját (szerződésszám, kötvényszám),
+
+b) a biztosító nevét, székhelyét és elérhetőségeit,
+
+c) a szerződő biztosított teljes nevét, székhelyét és elérhetőségeit,
+
+d) a kockázatviselés kezdetét és a biztosítási időszakot,
+
+e) a biztosítási eseményt,
+
+f) a vállalt kockázatot, annak mértékét és területi hatályát,
+
+g) az önrész formáját és mértékét,
+
+h) a mentesüléseket, kizárásokat és záradékokat,
+
+i) a kárrendezés, valamint a kártérítés és a sérelemdíj kifizetésének módját,
+
+j) a szerződés keltét,
+
+k) a kötvényfeltételeket,
+
+l) a biztosított vasúti tevékenység megnevezését, valamint
+
+m) a rendelkezést arra vonatkozóan, hogy a biztosítási kötvény e rendelet előírásainak mindenben megfelel.
+
+(3)[^18] Az (1) bekezdésben foglaltaktól eltérően a vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását tanúsító iratokat a vasúti társaság másolatban is benyújthatja, ha a benyújtással egyidejűleg nyilatkozik arról, hogy a benyújtott másolat az eredetivel mindenben megegyezik.
+
+## Záró és átmeneti rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba, rendelkezéseit a hatálybalépésekor folyamatban lévő működési engedély kiadása iránti eljárásokban is alkalmazni kell.
+
+(2)[^20] Az egyes vasúti tárgyú kormányrendeletek módosításáról szóló 193/2016. (VII. 13.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^21] működési engedéllyel, illetve tudomásul vett bejelentéssel rendelkező vasúti társaságok a Módr. hatálybalépésétől számított 120 napon belül igazolják, hogy a Módr. szerinti kárfedezeti képességgel rendelkeznek. Azon vasúti társaságok esetében, amelyek e kötelezettségüknek nem tesznek eleget, a vasúti igazgatási szerv a működési engedélyt, illetve – a bejelentéssel rendelkező vasúti társaságok esetén – a tevékenység folytatását felfüggeszti. Ha a vasúti társaság kizárólag a kárfedezeti képesség Módr. szerinti igazolásához szükséges dokumentumokat nyújtja be a vasúti igazgatási szerv részére, a vasúti igazgatási szerv eljárása díjmentes.
+
+(3)[^22]
+
+(4)[^23]
+
+### 11. §[^24]
+
+Ez a rendelet a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet 14. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^25]
+
+**Vasúti társaságokra irányadó fedezeti összeghatárok**
+
+1\. Fedezeti összeghatárok számítása országos vasúti személyszállítási működési engedély esetében
+
+A felelősségi károk éves fedezeti összeghatára országos vasúti személyszállítási működési engedély esetében
+
+O = ol × 1,0 forint,
+
+de legalább évi 80 millió forint,
+
+ahol az
+
+O = az EGT-államok területén, a vasúti pályahálózaton a felelősségi károk fedezeti összeghatára a tárgyévben,
+
+ol = a tárgyévben tervezett utaslétszám.
+
+Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetén összesen 1 millió forint.
+
+2\. Fedezeti összeghatárok számítása elővárosi vasúti személyszállítási működési engedély esetében
+
+A felelősségi károk éves fedezeti összeghatára elővárosi vasúti személyszállítási működési engedély esetében
+
+E = el × 0,8 forint,
+
+de legalább évi 50 millió forint,
+
+ahol az
+
+E = az adott elővárosi vasúti pályahálózaton a felelősségi károk fedezeti összeghatára a tárgyévben,
+
+el = a tárgyévben tervezett utaslétszám.
+
+Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetén összesen 1 millió forint.
+
+3\. Fedezeti összeghatárok számítása helyi vagy városi vasúti személyszállítási működési engedély esetében
+
+A károk éves fedezeti összeghatára helyi vagy városi vasúti személyszállítási működési engedély esetében
+
+H = hl × 0,25 forint,
+
+de legalább évi 20 millió forint,
+
+ahol a
+
+H = az adott helyi vagy városi vasúti pályahálózaton a nem vasúti balesetből eredő felelősségi károk fedezeti összeghatára a tárgyévben,
+
+hl = a tárgyévben tervezett utaslétszám.
+
+Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetén összesen 1 millió forint.
+
+4\. Fedezeti összeghatárok számítása térségi vasúti személyszállítási működési engedély, valamint a keskeny nyomtávolságú vasút, múzeumvasút által, továbbá a függővasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
+
+A felelősségi károk éves fedezeti összeghatára térségi vasúti személyszállítási működési engedély, valamint a keskeny nyomtávolságú vasút, múzeumvasút által, továbbá a függővasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
+
+ST = stl × 0,2 forint,
+
+de legalább 5 millió forint, ha a vasúti társaság a tevékenységét 12 hónap (365 nap) időtartamig;
+
+legalább 3 millió forint, ha a vasúti társaság a tevékenységét 8 hónap (240 nap) időtartamig;
+
+legalább 1,5 millió forint, ha a vasúti társaság a tevékenységét 4 hónap (120 nap) időtartamig
+
+folytatja,
+
+ahol az
+
+ST = az adott térségi, keskeny nyomtávolságú vasút, múzeumvasút által működtetett pályahálózaton, függővasúton, valamint, saját célú vasúti pályahálózaton, valamint iparvágányon a nem vasúti balesetből eredő felelősségi károk fedezeti összeghatára a tárgyévben,
+
+stl = a tárgyévben tervezett utaslétszám.
+
+Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.
+
+## 2. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^26]
+
+**Kockázatértékelési adatlap**
+
+A. Az indított személyszállító vonatok és a szállított utasok száma az utolsó három évben
+
+Az adatokat az utolsó három évre kell megadni úgy, hogy az első oszlopban az utolsó három év kerüljön feltüntetésre soronként. A második oszlopban az adott évre vonatkozóan az indított személyszállító vonatok számát kell megadni. A harmadik oszlopban az adott évben szállított utasok összlétszámát kell megadni.
+
+B. A nem vasúti balesetből származó, utasnak okozott károk száma és összege az utolsó három évben
+
+Az adatokat az utolsó három évre kell megadni úgy, hogy az első oszlopban az utolsó három év kerüljön feltüntetésre soronként. A második oszlopban az adott évre vonatkozóan a nem vasúti balesetből származó, utasnak okozott károknak az adott évben előforduló összes számát kell megadni. A harmadik oszlopban a nem vasúti balesetből származó, utasnak okozott károk tekintetében az adott évben történt kifizetések összegét kell megadni forintban.
+
+C. A késések és vonatkimaradások száma és az ezek miatt kifizetett kártérítések összege az utolsó három évben
+
+Késések:
+
+Az adatokat az utolsó három évre kell megadni úgy, hogy az első oszlopban az utolsó három év kerüljön feltüntetésre soronként. A második oszlopban az adott évre vonatkozóan a 60–120 percet késett személyszállító vonatok számát kell megadni. A harmadik oszlopban az adott évre vonatkozóan a 120 percet meghaladóan késett személyszállító vonatok számát kell megadni.
+
+Vonatkimaradások:
+
+Az adatokat az utolsó három évre kell megadni úgy, hogy az első oszlopban az utolsó három év kerüljön feltüntetésre soronként. A második oszlopban az adott évre vonatkozóan a kimaradt személyvonatok számát kell megadni.
+
+Késésekre és vonatkimaradások miatt kifizetett kártérítések:
+
+Az adatokat az utolsó három évre kell megadni úgy, hogy az első oszlopban az utolsó három év kerüljön feltüntetésre soronként. A második oszlopban az adott évre vonatkozóan a személyvonatok késése és vonatkimaradás miatt kifizetett kártérítések számát kell megadni. A harmadik oszlopban az adott évre vonatkozóan a személyvonatok késése és vonatkimaradás miatt kifizetett kártérítések összegét kell megadni forintban.
+
+D. A tárgyévben üzemeltetni tervezett személyszállító vonatok száma és a tervezett utaslétszám
+
+Az adatokat a tárgyévre vonatkozóan kell megadni úgy, hogy az első oszlopban a tárgyév kerüljön feltüntetésre évszámmal. A második oszlopban a tárgyévben üzemeltetni tervezett személyszállító vonatok számát kell megadni. A harmadik oszlopban a tárgyévben tervezett utaslétszámot kell megadni.
+
+---
+
+[^1]: Az 1. § a 328/2013. (IX. 3.) Korm. rendelet 18. §-ával megállapított, a 193/2016. (VII. 13.) Korm. rendelet 24. § a) pontja, az 516/2017. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § a 328/2013. (IX. 3.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdés b) pontja a 304/2011. (XII. 23.) Korm. rendelet 41. §-a, a 193/2016. (VII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § (1) bekezdés b) pontja a 193/2016. (VII. 13.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés c) pontja az 516/2017. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 6. § (4) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 18. §-ával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^11]: A 7. § (1) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 7. § (2) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja, a 193/2016. (VII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^13]: A 7. § (3) bekezdését a 193/2016. (VII. 13.) Korm. rendelet 19. §-a iktatta be.
+[^14]: A 8. § (1) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^15]: A 8. § (1) bekezdés a) pontja a 193/2016. (VII. 13.) Korm. rendelet 20. §-ával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^16]: A 8. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 8. § (2) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^18]: A 8. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 282. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 10. § (2) bekezdését az 53/2014. (III. 3.) Korm. rendelet 25. § (3) bekezdése hatályon kívül helyezte, újonnan a 193/2016. (VII. 13.) Korm. rendelet 22. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2016. július 28.
+[^22]: A 10. § (3) bekezdését az 53/2014. (III. 3.) Korm. rendelet 25. § (3) bekezdése hatályon kívül helyezte.
+[^23]: A 10. § (4) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte az 53/2014. (III. 3.) Korm. rendelet 25. § (3) bekezdése.
+[^24]: A 11. § a 223/2023. (VI. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^26]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § b) pontjával megállapított szöveg.

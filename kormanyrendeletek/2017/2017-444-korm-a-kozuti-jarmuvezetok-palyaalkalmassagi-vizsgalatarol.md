@@ -1,0 +1,319 @@
+---
+title: "444/2017. (XII. 27.) Korm. rendelet a közúti járművezetők pályaalkalmassági vizsgálatáról"
+identifier: "444/2017. (XII. 27.) Korm. rendelet"
+njt_id: "2017-444-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/444"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-27
+in_force_from: 2018-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-444-20-22"
+retrieved: 2026-10-12
+---
+
+# 444/2017. (XII. 27.) Korm. rendelet a közúti járművezetők pályaalkalmassági vizsgálatáról
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pont 40. alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – azokra a gépjárművezetőkre és vezetési jogosultságot megszerezni szándékozókra terjed ki, akik gépjárművezetői tevékenység végzéséhez pályaalkalmassági minősítést kívánnak szerezni, továbbá azokra, akiket pályaalkalmassági minősítés megszerzésére köteleztek (a továbbiakban együtt: gépjárművezető).
+
+(2)[^1] A rendelet hatálya nem terjed ki a rendőrség, a hivatásos katasztrófavédelmi szervek, az önkormányzati tűzoltóság és a büntetés-végrehajtási szervezet állományába tartozó hivatásos szolgálati jogviszonyban álló azon személyekre, akik e szervek megkülönböztető jelzést használó gépjárműveinek vezetésére jogosultak és ilyen gépjárművet vezetnek.
+
+## 2. §
+
+(1) A pályaalkalmassági vizsgálat célja annak megállapítása, hogy a gépjárművezető
+
+a) rendelkezik-e azokkal az egyéni pszichológiai jellemzőkkel, amelyek szükségesek a biztonságos járművezetési tevékenységhez, a közlekedési helyzetekhez való alkalmazkodáshoz, a járművezetés közben jelentkező terhelés elviseléséhez,
+
+b) rendelkezik-e a jármű biztonságos vezetéséhez szükséges észlelési, döntési és cselekvési képességgel,
+
+c) képes-e elsajátítani a járművezetéshez szükséges ismereteket és készségeket.
+
+(2)[^2]
+
+(3)[^3]
+
+(4)[^4] A vizsgaközpont a pályaalkalmassági vizsgálatot a kérelem, illetve a megkeresés beérkezését követő naptól számított 60 napon belül folytatja le.
+
+## 3. §
+
+(1) Előzetes pályaalkalmassági vizsgálaton szerzett alkalmas minősítés szükséges
+
+a) a megkülönböztető jelzést használó gépjármű vezetéséhez,
+
+b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző gépjármű vezetéséhez,
+
+c) a (3) bekezdés b) pont *ba)* és *bb)* alpontjában meghatározott nemzetközi közúti személyszállítást végző autóbusz vezetéséhez,
+
+d) a (3) bekezdés c) pontjában meghatározott nemzetközi közúti áruszállítást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény vezetéséhez,
+
+e) a külön jogszabályban meghatározott veszélyes áru szállítását végző gépjármű vezetéséhez,
+
+f) ha azt a gépjárművezető előzetes orvosi vizsgálata során – a külön jogszabályban foglaltak szerint – elrendelték.
+
+(1a)[^5] Időszakos pályaalkalmassági vizsgálat szükséges a megkülönböztető jelzést használó gépjármű vezetésére megállapított pályaalkalmassági minősítés érvényesítéséhez.
+
+(2) Rendkívüli pályaalkalmassági vizsgálat szükséges:
+
+a) a gépjármű-vezetési gyakorlatból ötödik sikertelen vizsgát követő vizsga letételéhez,
+
+b) a rendőrhatóság, az ügyészség és a bíróság kezdeményezésére,
+
+c) a gépjárművezető előzetes, időszakos vagy soron kívüli vizsgálatát végző orvos, illetőleg orvosi bizottság megkeresésére,
+
+d)[^6] a gépjárművezető munkáltatójának írásban indokolt kezdeményezésére, amennyiben a gépjármű tevékenysége közúti közlekedésbiztonsági szempontból arra alapos indokot szolgáltat,
+
+e) a gépjárművezető kezdeményezésére.
+
+(3)[^7] A pályaalkalmassági vizsgálaton megállapított minősítés a következő alkalmassági kategóriákra vonatkozhat:
+
+a)[^8] I. alkalmassági kategória: a megkülönböztető jelzést használó gépjármű vezetése,
+
+b)[^9] II. alkalmassági kategória:
+
+ba) a közúti közlekedési szolgáltatás keretében személyszállítást végző autóbusz (trolibusz), személygépkocsi,
+
+bb) a nemzetközi közúti személyszállítást végző autóbusz, amelyben a vezetőülésen kívül legalább 17 állandó ülőhely van,
+
+bc) a veszélyes áru szállítását végző gépjármű
+
+vezetése,
+
+c)[^10] III. alkalmassági kategória:
+
+ca) a 7500 kg megengedett legnagyobb össztömeget meghaladó, közúti közlekedési szolgáltatást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény,
+
+cb) a 7500 kg megengedett legnagyobb össztömeget meghaladó, nemzetközi közúti áruszállítást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény
+
+vezetése,
+
+d)[^11] IV. alkalmassági kategória: az *a)–c)* pontban nem említett gépjármű vezetése.
+
+(4) Az I. pályaalkalmassági minősítés – az időszakos minősítés lejártát követően is – érvényes a II–IV. alkalmassági kategóriára, a II. pályaalkalmassági minősítés a III–IV. alkalmassági kategóriára, a III. pályaalkalmassági minősítés a IV. alkalmassági kategóriára.
+
+(5)[^12] A pályaalkalmassági minősítés – a 10/C. §-ban foglalt pályaalkalmasságot korlátozó vagy kizáró okok alapján – 1–5 évig terjedő időtartamra korlátozható, a korlátozás hiányában az érvényesség – a (7) bekezdésben foglalt kivétellel – az alkalmatlanság megállapításáig áll fenn.
+
+(6) A megkülönböztető jelzést használó gépjármű vezetésére az I. alkalmassági kategóriában megállapított pályaalkalmassági minősítés vagy időszakos minősítés legfeljebb öt évig érvényes.
+
+## 4. §
+
+(1)[^13] A pályaalkalmassági vizsgálat elvégzésére vonatkozó kérelmet a vizsgaközponthoz kell benyújtani, amely a 3. § (2) bekezdés b)–d) pontja kivételével a pályaalkalmassági vizsgálatot a gépjárművezető kérelmére végzi el.
+
+(1a)[^14] Pályaalkalmassági vizsgálatra jelentkezni a vizsgaközpont
+
+a) informatikai rendszerén keresztül elektronikus úton,
+
+b) informatikai rendszeréből letöltött kérelem kinyomtatásával és postai úton történő megküldésével, vagy
+
+c) informatikai rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
+
+lehet.
+
+(1b)[^15] Az előzetes és időszakos pályaalkalmassági vizsgálat, valamint a 3. § (2) bekezdés a) pontja szerinti rendkívüli pályaalkalmassági vizsgálat díját elektronikus úton, átutalással, vagy az (1a) bekezdés c) pontja szerinti esetben készpénz átutalási megbízással kell megfizetni. Előzetes és időszakos pályaalkalmassági vizsgálatra az időpontfoglalás a díj megfizetését követően lehet. A díj megfizetésének 60 napon túli elmulasztása esetén az ügyfél jelentkezését törölni kell.
+
+(1c)[^16] Amennyiben a gépjárművezető jelentkezését postai úton küldi meg, a vizsgálat időpontjáról a vizsgaközpont legalább tizenöt nappal a vizsgálat időpontja előtt írásban értesíti.
+
+(1d)[^17] Rendkívüli pályaalkalmassági vizsgálat a 3. § (2) bekezdés b)–e) pontja esetén a kezdeményező vagy a megkereső szerv írásbeli megkeresése alapján az ügyfél vizsgaközpont általi értesítésével indul.
+
+(2)[^18] Az I. és II. pályaalkalmassági minősítés megszerzése céljából pályaalkalmassági vizsgálatra az jelentkezhet, aki nem minősül – kezdő vezetőnek és rendelkezik érvényes vezetői engedéllyel „B” vagy „C” vagy „D” kategóriában.
+
+## 5. §
+
+(1) A pályaalkalmassági vizsgálat megkezdése előtt a gépjárművezetőnek igazolnia kell, hogy a közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 3. §-ában meghatározottak alapján gépjárművezetésre egészségi szempontból alkalmas. Rendkívüli pályaalkalmassági vizsgálat esetén legalább az alkalmasság alacsonyabb csoportú igazolása szükséges.
+
+(2) A pályaalkalmassági vizsgálat abban az esetben végezhető el, ha a gépjárművezető a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) 4. § (1) bekezdés b) és c) pontjában meghatározott személyi állapotra vonatkozó követelményeknek megfelel.
+
+## 6. §
+
+(1) A 3. § (1) bekezdés a)–e) pontja alapján végzett pályaalkalmassági vizsgálat során – figyelemmel a korábban megszerzett alkalmas minősítéseire – a gépjárművezető alkalmatlannak kizárólag arra az alkalmassági kategóriára minősíthető, amelyre a pályaalkalmassági vizsgálatot kérte.
+
+(2)[^19] Ha a pályaalkalmassági vizsgálat során a gépjárművezető egészségi alkalmatlanságának gyanúja merül fel, a vizsgaközpont a gépjárművezető soron kívüli orvosi vizsgálatát kezdeményezheti.
+
+(3)[^20] A rendkívüli pályaalkalmassági vizsgálaton a vizsgaközpont azt vizsgálja, hogy a gépjárművezető alkalmas-e gépjármű vezetésére, valamint azt, hogy a 3. § (4) bekezdésében foglaltakra figyelemmel melyik korábban megszerzett alkalmassági kategóriában alkalmas.
+
+(4)[^21] A vizsgaközpont a rendkívüli pályaalkalmassági vizsgálat során gyakorlati vezetés közben is vizsgálhatja a gépjárművezetőt (a továbbiakban: vezetési próba). A vezetési próba a járművezetés gyakorlati oktatásának minősül, ezért a KRESZ rendelkezéseit kell alkalmazni.
+
+## 7. §[^22]
+
+(1) A vizsgaközpont a pályaalkalmassági minősítésről kiállított – a (2) bekezdésben meghatározottak szerinti adattartalmú – pályaalkalmassági véleményt a vizsgálat lefolytatását követő 15 napon belül írásban közli a gépjárművezetővel és azzal, aki a gépjárművezető pályaalkalmassági vizsgálatát kezdeményezte.
+
+(2) A gépjárművezető a pályaalkalmassági vélemény kézhezvételétől számított 15 napon belül a vizsgaközpontnál kezdeményezheti a pályaalkalmassági minősítés felülvéleményezését, amelyről a jelentkezőt a pályaalkalmassági véleményben tájékoztatni kell.
+
+(3)[^23] A felülvizsgálati kérelmet a vizsgaközpont informatikai
+
+a) rendszerén keresztül elektronikus úton, vagy
+
+b) rendszeréből letöltött kérelem kinyomtatásával és postai úton történő megküldésével, vagy
+
+c) rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
+
+lehet benyújtani.
+
+(4) A felülvizsgálati kérelmet egy háromtagú bizottság (a továbbiakban: másodfokú bizottság) bírálja el, amelynek eljárására irányadóak az elsőfokú vizsgálatra vonatkozó szabályok. A pályaalkalmassági minősítés tekintetében a másodfokú véleményezésében nem vehet részt a pszichológus, aki a kérelmező pályaalkalmassági minősítését első fokon végezte vagy abban közreműködött.
+
+(5) A felülvizsgálati kérelem alapján indult eljárásban, a másodfokú bizottság a felülvizsgálati kérelem beérkezésétől számított 30 napon belül, amennyiben újabb vizsgálat lefolytatása vált szükségessé, úgy a vizsgálat lefolytatását követő 15 napon belül állítja ki a pályaalkalmassági véleményt. A véleményt közölni kell a gépjárművezetővel, valamint azzal, aki az eljárást kezdeményezte.
+
+## 8. §[^24]
+
+A vizsgaközpont – a 3. § (2) bekezdés a) pontja alapján megállapított alkalmas minősítést kivéve – a pályaalkalmassági vizsgálat során hozott vizsgálati eredményéről a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdés e) pont ea) alpontjában foglaltaknak megfelelően a közúti közlekedési nyilvántartó szervet elektronikus úton értesíti.
+
+## 9. §[^25]
+
+Ha a gépjárművezetőt a pályaalkalmassági vizsgálaton a vizsgált kategóriában alkalmatlannak minősítették, újabb pályaalkalmassági vizsgálatát, azonos vagy magasabb kategóriában, a pályaalkalmassági véleményben feltüntetett időpontot – amely nem haladhatja meg a határozat kiadását követő két évet – követően kérheti.
+
+## 10. §
+
+(1) A pályaalkalmassági minősítés az alábbi okmányokkal igazolható:
+
+a)[^26] PÁV vagy a közlekedési hatóság határozata, vizsgaközpont pályaalkalmassági véleménye,
+
+b) PÁV vagy a közlekedési hatóság igazolása a korábban megszerzett minősítésről,
+
+c)[^27] fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának szervezeti egységeként működő okmányiroda által kiállított, a megszerzett PÁV minősítés igazolását tartalmazó okirat.
+
+(2) A pályaalkalmassági minősítés alábbiakban felsorolt okiratok valamelyikével is igazolható:
+
+a) I. pályaalkalmassági kategóriának felel meg
+
+aa) az 1970. január 1-je előtti „C” kategóriás vezetői engedély,
+
+ab)[^28] az 1969. július 1-je és 1978. március 31-e közötti dátummal kiadott gépjárműkezelői bizonyítvány,
+
+b)[^29]
+
+c) III. pályaalkalmassági kategóriának felel meg az 1978. április 1-je után kiadott gépjárműkezelői bizonyítvány.
+
+## 10/A. §[^30]
+
+(1) A pályaalkalmassági minősítés során a vizsgaközpont a pályaalkalmassági vizsgálatot a jelentkezésnek megfelelő alkalmassági kategóriára meghatározott követelmények szerint végzi.
+
+(2) A pályaalkalmasságot megállapító pszichológusnak az egyéni adottságok figyelembevételével, minden esetben egyedi elbírálás alapján kell véleményt alkotnia a vizsgált személy pályaalkalmasságáról és a pályaalkalmassági minősítés során általános szabályként a következőket kell figyelembe vennie.
+
+(3) A pályaalkalmasság megítélésénél minden esetben mérlegelni kell, hogy a vizsgált személy – a nála esetleg észlelt kedvezőtlen egyéni jellemzők ellenére is – képes-e kellő biztonsággal és felelősséggel részt venni gépjárművezetőként a közúti közlekedésben.
+
+(4) Az I., II. és III. alkalmassági kategóriában a gépjárművezető pályaalkalmasságának megítélésénél figyelembe kell venni, hogy a gépjármű-vezetési tevékenység sajátos követelmények és feltételek között történik. Megkülönböztető jelzéseket használó, közúti közlekedési szolgáltatás keretében személy- és áruszállítást végző, nemzetközi közúti közlekedésben részt vevő, veszélyes árut szállító gépjármű vezetése. Olyan egyéni jellemző kombinációk esetében, amelyek a további kedvezőtlen változásra utalnak és így a jövőben a biztonságos közlekedést veszélyeztetik, alkalmatlanságot kell megállapítani. Figyelembe kell venni továbbá, hogy az ilyen gépjárművezetőnek az időjárástól, napszaktól, útviszonyoktól, közlekedési körülményektől függetlenül kell járművet vezetnie.
+
+(5) A IV. alkalmassági kategóriában a gépjárművezető pályaalkalmassági megítélésénél figyelembe kell venni, hogy a gépjárművezető nem az I–III. alkalmassági kategóriába tartozó, előzetes alkalmassági vizsgálati körbe sorolt, differenciált és fokozottabb pszichológiai követelményeket támasztó, gépjárművezetéssel kapcsolatos tevékenységeket végzi. Az alkalmasság megállapításához elégséges, ha a gépjárművezető az alapvető, a közlekedésben való biztonságos részvételhez szükséges, legfontosabb képességekkel, személyiségjegyekkel rendelkezik.
+
+(6) Az I. alkalmassági kategóriában a gépjárművezető pályaalkalmasságának megítélésénél figyelembe kell venni, hogy feladata ellátásának velejárója a közlekedési szabályoktól eltérő vezetési mód megválasztásának lehetősége, és így részvétele a közúti közlekedésben a megszokottnál nagyobb objektív kockázattal jár.
+
+(7) A II. alkalmassági kategóriában a gépjárművezető pályaalkalmasságának megítélésénél figyelembe kell venni a jelentkező speciális járulékos megterheléseket és a hibás gépjárművezetői magatartás következményeinek várható súlyosságát. Ennek keretében kiemelten vizsgálni kell, hogy
+
+a) a szállított személyek számának változása (növekedése) miként hat a gépjárművezető pszichés igénybevételére, megterhelésére (különösen autóbusz, trolibusz esetében),
+
+b) a gépjárművezető a biztonságos gépjárművezetés követelményeinek teljesítésén túlmenően képes-e az utasokkal megfelelően foglalkozni (különösen taxi, autóbusz, trolibusz esetében),
+
+c) a gépjárművezető hogyan alkalmazkodik a megszokottól eltérő közlekedési feltételekhez (különösen hosszú utak, monotónia, telítődési hatások esetében).
+
+(8) A vezetői engedéllyel már rendelkező gépjárművezető pályaalkalmasságának elbírálása során figyelembe kell venni a járművezetésben szerzett gyakorlatot, a közlekedési helyzetekhez, viszonyokhoz, a közlekedés egyéb résztvevőihez kialakult alkalmazkodást.
+
+(9) Az időszakos minősítésre irányuló pályaalkalmassági vizsgálatnál a közlekedési előéletre vonatkozó objektív adatokat is figyelembe kell venni.
+
+## 10/B. §[^31]
+
+(1) A pályaalkalmasság elbírálása során a gépjárművezető minősítésekor a 10/C. § (1) bekezdés *a)–e)* és 10/C. § (1) bekezdés i)–j) pontjaiban meghatározott korlátozó vagy kizáró okok megállapítása esetén az e célra kifejlesztett műszerekkel megállapított pályaalkalmassági vizsgálati eredményeket kell figyelembe venni.
+
+(2) A műszeres vizsgálati eredmények értékelésénél és értelmezésénél a vizsgálati eredmények eloszlása, a beválási adatokkal és a balesetezési gyakorisággal való kapcsolata alapján meghatározott veszélyeztetettségi szintek figyelembevételével kell eljárni, különösen a 10/C. § (1) bekezdés j) pontjában meghatározott esetben.
+
+(3) A 10/C. § (1) bekezdés f) pontjában meghatározott korlátozó vagy kizáró ok vizsgálatára előzetes szűrőeljárást kell alkalmazni. A járművezetésre való alkalmasságot kizáró szint gyanúja esetén kiegészítő vizsgálatokat kell végezni.
+
+(4) A 10/C. § (1) bekezdés g) pontjában meghatározott korlátozó vagy kizáró ok vizsgálata két szakaszban történik:
+
+a) előzetes szűrés,
+
+b) részletes személyiségvizsgálat.
+
+(5) A 10/C. § (1) bekezdés h) pontjában meghatározott korlátozó vagy kizáró ok vonatkozásában a gépjárművezető műszeres és személyiségvizsgálati eredményeit együttesen kell figyelembe venni.
+
+(6) A pályaalkalmassági vizsgálatoknak ki kell terjednie minden korlátozó vagy kizáró ok csoportra, kivéve, ha az alapképességek vizsgálata során egyértelműen azonosítható egy vagy több kizáró ok csoport.
+
+(7) A rendkívüli pályaalkalmassági vizsgálatok kiegészülnek a 10/C. § (1) bekezdés g) pontjában meghatározott korlátozó vagy kizáró ok feltárására irányuló részletes vizsgálattal.
+
+(8) A 10/C. § (1) bekezdés *g)* és a 10/C. § (1) bekezdés h) pontjában meghatározott korlátozó vagy kizáró okra irányuló vizsgálatok eredményeit a pszichológus a közlekedési magatartásra gyakorolt befolyásuk jellege és mértéke alapján értelmezi.
+
+(9) A pályaalkalmassági vizsgálatot végző pszichológus szélsőséges vagy ellentmondásos esetben az egyes részvizsgálatokat megismétli, illetőleg kiegészítő vizsgálatokat végez.
+
+(10) A pályaalkalmassági vizsgálatoknál figyelembe kell venni a gépjárművezető közlekedési előéletét, amely a vizsgálati módszer együttes – esetenkénti – egyéni meghatározását teszi szükségessé.
+
+(11) A pályaalkalmassági vizsgálatnak ki kell terjednie a gépjárművezető közlekedésbiztonság szempontjából releváns képességeinek, személyiségvonásainak és viselkedési beállítódásainak vizsgálatára. A közlekedéshez való alkalmazkodást befolyásoló személyiségjegyek feltárásához az e célra kifejlesztett közlekedés-specifikus kérdőíves és egyéb módszerek használhatók.
+
+## 10/C. §[^32]
+
+(1) A pályaalkalmasságot korlátozó vagy kizáró okok a következők:
+
+a) elégtelen észlelési teljesítmény,
+
+b) a közlekedési helyzetek biztonságos megoldásához szükséges felismerési és döntési képesség hiánya vagy nem kielégítő szintje,
+
+c) a jármű irányításához szükséges mozgási képességek hiánya vagy nem kielégítő szintje,
+
+d) a figyelmi teljesítmény nem kielégítő szintje
+
+e) az észlelési, a döntési és a mozgási tevékenység összerendezettségének hiánya,
+
+f) az értelmi működések nagymértékben csökkent szintje, ezen belül kiemelten ennek a gyakorlati gépjárművezetői tevékenységben való megnyilvánulása,
+
+g) a közlekedési magatartást befolyásoló személyiségvonások, amelyek fokozott baleseti veszélyeztetettségre utalnak,
+
+h) a gépjárművezetői teljesítmény szélsőséges ingadozása, terhelés, fáradtság vagy monotónia hatására,
+
+i) a jármű vezetéséhez szükséges jártasságok és készségek elsajátítására való képtelenség,
+
+j) a pszichés kifáradás,
+
+k) foglalkozási (életkori) sajátosságokból eredő, kedvezőtlen személyiségkép.
+
+## 11. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+## 12. §
+
+A rendelet hatálybalépése előtt megállapított
+
+a) pályaalkalmassági minősítés továbbra is érvényes,
+
+b) rendkívüli pályaalkalmassági, illetve a soron kívüli orvosi vizsgálati kötelezettség továbbra is érvényes.
+
+## 1. melléklet a 444/2017. (XII. 27.) Korm. rendelethez[^33]
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 200/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (3) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (4) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 10. §-a iktatta be.
+[^5]: A 3. § (1a) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdés d) pontja a 285/2018. (XII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^7]: [Nem vezethető át a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés a) pontjában foglalt módosítás, mely szerint a 3. § (3) bekezdésében „a pályaalkalmassági vizsgálaton megállapított minősítés a következő alkalmassági kategóriákra vonatkozhat” szövegrész helyébe „a gépjárművezető pályaalkalmassági szempontból:” szöveg lép.]
+[^8]: [Nem vezethető át a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés b) pontjában foglalt módosítás, mely szerint a 3. § (3) bekezdés a) pontjában a „vezetésre” szövegrész helyébe a „vezetésére”a szöveg lép.]
+[^9]: [Nem vezethető át a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés b) pontjában foglalt módosítás, mely szerint a 3. § (3) bekezdés b) pont záró szövegrészében a „vezetésre” szövegrész helyébe a „vezetésére”a szöveg lép.]
+[^10]: [Nem vezethető át a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés b) pontjában foglalt módosítás, mely szerint a 3. § (3) bekezdés c) pont záró szövegrészében a „vezetésre” szövegrész helyébe a „vezetésére”a szöveg lép.]
+[^11]: [Nem vezethető át a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés c) pontjában foglalt módosítás, mely szerint a 3. § (3) bekezdés d) pontjában a „vezetésre” szövegrész helyébe a „vezetésére alkalmasnak vagy alkalmatlannak minősíthető” szöveg lép.]
+[^12]: A 3. § (5) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 4. § (1a) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1b) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. § (1c) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (1d) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. § (2) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^20]: A 6. § (3) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^21]: A 6. § (4) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^22]: A 7. § a 285/2018. (XII. 21.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^23]: A 7. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^24]: A 8. § a 285/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^25]: A 9. § a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^26]: A 10. § (1) bekezdés a) pontja a 285/2018. (XII. 21.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^27]: A 10. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 274. §-a szerint módosított szöveg.
+[^28]: A 10. § (2) bekezdés a) pont ab) alpontja a 789/2021. (XII. 27.) Korm. rendelet 66. §-a szerint módosított szöveg.
+[^29]: A 10. § (2) bekezdés b) pontját a 789/2021. (XII. 27.) Korm. rendelet 67. § b) pontja hatályon kívül helyezte.
+[^30]: A 10/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^31]: A 10/B. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^32]: A 10/C. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^33]: Az 1. mellékletet a 285/2018. (XII. 21.) Korm. rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,0 +1,255 @@
+---
+title: "263/2016. (VIII. 31.) Korm. rendelet a fizetési számla váltásáról"
+identifier: "263/2016. (VIII. 31.) Korm. rendelet"
+njt_id: "2016-263-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/263"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-08-31
+in_force_from: 2016-10-29
+last_amended: 2016-10-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-263-20-22"
+retrieved: 2026-10-12
+---
+
+# 263/2016. (VIII. 31.) Korm. rendelet a fizetési számla váltásáról
+
+A Kormány a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 64/A. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet előírásait kell alkalmazni a pénzforgalmi szolgáltatók által fogyasztók részére Magyarországon nyitott vagy vezetett fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatásra (a továbbiakban: számlaváltás), ha a számlaváltással érintett fizetési számlákat azonos pénznemben vezetik és az érintett fizetési számlák legalább a következő fizetési módok lebonyolítását teszik lehetővé:
+
+a) fizetési számlához kötődő készpénzfizetés keretében készpénz befizetése fizetési számlára, valamint készpénz kifizetése fizetési számláról és
+
+b) fizetési számlák közötti fizetés keretében átutalás teljesítése, valamint jóváírása.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *átirányítás:* a korábbi számlavezető pénzforgalmi szolgáltató azon szolgáltatása, amelynek keretében a számlaváltással érintett beérkező átutalási megbízás összegét és a kísérő adatokat, valamint a beszedési megbízásokat külön fizetési megbízásként továbbítja az új számlavezető pénzforgalmi szolgáltató részére a fogyasztó fizetési számláján történő jóváírás vagy a fogyasztó fizetési számlájának megterhelése céljából;
+
+2\. *korábbi számlavezető pénzforgalmi szolgáltató:* az a pénzforgalmi szolgáltató, amely továbbítja a számlaváltáshoz szükséges információkat;
+
+3\. *központi átirányítási szolgáltatás:* fizetési rendszert működtető pénzügyi vállalkozás, pénzforgalmi szolgáltató vagy levelező bank szolgáltatása, amelynek keretében az átutalások és beszedési megbízások átirányításáról – külön fizetési megbízás nélkül – a fizetési rendszert működtető pénzügyi vállalkozás, pénzforgalmi szolgáltató vagy levelező bank gondoskodik;
+
+4\. *külföldi pénzforgalmi szolgáltató:* az a pénzforgalmi szolgáltató, amelynek székhelye nem Magyarországon van;
+
+5\. *levelező bank:* fizetési rendszerhez közvetlenül nem csatlakozó pénzforgalmi szolgáltató részére a fizetési rendszerhez hozzáférést biztosító pénzforgalmi szolgáltató;
+
+6\. *új számlavezető pénzforgalmi szolgáltató:* az a pénzforgalmi szolgáltató, amelynek a számlaváltáshoz szükséges információkat továbbítják.
+
+## 2. Számlaváltás belföldön vezetett fizetési számlák között
+
+### 3. §
+
+(1) A számlaváltást a fizetésiszámla-tulajdonos fogyasztónak számlaváltási meghatalmazással kell kezdeményeznie az új számlavezető pénzforgalmi szolgáltatónál írásban, magyar nyelven vagy a fogyasztóval történt megállapodás alapján kikötött más nyelven.
+
+(2) Ha a fizetési számlának több tulajdonosa van, akkor a számlatulajdonosok kizárólag együttes számlaváltási meghatalmazást adhatnak.
+
+(3) Az átvételi igazolással ellátott számlaváltási meghatalmazásból egy példányt az új számlavezető pénzforgalmi szolgáltató visszaad a fogyasztó részére.
+
+### 4. §
+
+(1) A számlaváltási meghatalmazásban lehetővé kell tenni a fogyasztó számára, hogy
+
+a) külön hozzájárulását adja
+
+aa) a korábbi számlavezető pénzforgalmi szolgáltató 7. §-ban meghatározott egyes feladatai, valamint
+
+ab) az új számlavezető pénzforgalmi szolgáltató 9. §-ban meghatározott egyes feladatai
+
+elvégzéséhez;
+
+b) meghatározza a számlaváltással érintett
+
+ba) beérkező ismétlődő átutalásokat,
+
+bb) rendszeres átutalási megbízásokat és
+
+bc) beszedési megbízásokat;
+
+c) nyilatkozzon arról, hogy az új számlavezető pénzforgalmi szolgáltató helyett inkább maga végzi a beérkező ismétlődő átutalások fizető feleinek, illetve a beszedések kedvezményezettjeinek 9. § (1) bekezdés *c)* és *d)* pontja szerinti értesítésével összefüggő feladatokat;
+
+d) meghatározza azt a munkanapot, amelytől kezdődően a rendszeres átutalási megbízásokat és a beszedési megbízásokat az új számlavezető pénzforgalmi szolgáltatónál nyitott vagy vezetett fizetési számláról kell teljesíteni;
+
+e) a korábbi számlavezető pénzforgalmi szolgáltató által vezetett fizetési számla keretszerződést – felmondási idő kikötése hiányában – legkorábban a *d)* pontban meghatározott munkanappal felmondja.
+
+(2) Az (1) bekezdés *d)* pontja szerinti munkanapot attól a munkanaptól kell számítani, amikor a korábbi számlavezető pénzforgalmi szolgáltatótól a 6. § *a)* és *b)* pontja alapján továbbított adatokat az új számlavezető pénzforgalmi szolgáltató megkapta (a továbbiakban: kezdő nap). Az (1) bekezdés *d)* pontja szerinti munkanap legkorábbi időpontja a kezdőnapot követő hatodik munkanap.
+
+(3) A számlaváltási meghatalmazásban a fogyasztó
+
+a) megadja az (1) bekezdés *b)* pont *ba)* alpontjában megjelölt átutalásokat kezdeményező felek postai vagy elektronikus elérését biztosító adatait, ideértve a kapcsolattartó személy eléréséhez szükséges adatokat, kivéve, ha az (1) bekezdés *c)* pontja szerinti nyilatkozatot tesz,
+
+b) ha ahhoz nem szükséges a kedvezményezett írásbeli hozzájárulása, akkor igényelheti a beszedési felhatalmazások számlavezető pénzforgalmi szolgáltató által betartandó feltételeinek a számlaváltással egyidejű módosítását.
+
+### 5. §
+
+Az új számlavezető pénzforgalmi szolgáltató
+
+a) levélmintát bocsát a 4. § (1) bekezdés *c)* pontjában meghatározott lehetőséget igénybe vevő fogyasztó rendelkezésére, amely tartalmazza a fizetési számla adatait és a meghatalmazásban megjelölt kezdő időpontot; valamint
+
+b) euró összeg beszedésére vonatkozó felhatalmazás esetén tájékoztatja a fogyasztót az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló, 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendelet 5. cikk (3) bekezdés *d)* pontja szerinti jogairól.
+
+### 6. §
+
+A számlaváltási meghatalmazás átvételét követő két munkanapon belül az új pénzforgalmi szolgáltató felkéri a korábbi számlavezető pénzforgalmi szolgáltatót a következő műveletek elvégzésére, amennyiben azt a számlaváltási meghatalmazás tartalmazza:
+
+a) a számlaváltással érintett valamennyi fennálló rendszeres átutalási megbízás teljesítéséhez szükséges adatok és a beszedési felhatalmazások adatainak átadása az új számlavezető pénzforgalmi szolgáltatónak és – amennyiben azt a fogyasztó külön igényelte – a fogyasztónak;
+
+b) a megelőző 13 hónapban a fogyasztó fizetési számlájára beérkező rendszeres átutalásokra és a beszedők által kezdeményezett ismétlődő beszedési megbízásokra vonatkozó adatok átadása az új számlavezető pénzforgalmi szolgáltatónak és – amennyiben azt a fogyasztó külön igényelte – a fogyasztónak;
+
+c) ha a korábbi számlavezető pénzforgalmi szolgáltató vagy a központi átirányítási szolgáltatás nem biztosít automatikus átirányítást, akkor a beszedési megbízások teljesítésének és a beérkező átutalások jóváírásának leállítása a meghatalmazásban megjelölt naptól kezdődő hatállyal;
+
+d) a rendszeres átutalási megbízások törlése a meghatalmazásban megjelölt naptól kezdődő hatállyal;
+
+e) a fogyasztó által meghatározott napon a fizetési számla pozitív egyenlegének átutalása az új számlavezető pénzforgalmi szolgáltatónál nyitott vagy vezetett fizetési számlára;
+
+f) a korábbi számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számla lezárása a fogyasztó által meghatározott munkanapon.
+
+### 7. §
+
+A korábbi számlavezető pénzforgalmi szolgáltató az új számlavezető pénzforgalmi szolgáltató felkérésének kézhezvételét követően a következő műveleteket végzi el, amennyiben azt a felkérés tartalmazza:
+
+a) a 6. § *a)* és *b)* pontjában meghatározott adatokat öt munkanapon belül megküldi az új számlavezető pénzforgalmi szolgáltatónak és szükség esetén a fogyasztónak;
+
+b) ha a korábbi számlavezető pénzforgalmi szolgáltató vagy a központi átirányítás szolgáltatás nem biztosít automatikus átirányítást, akkor a számlaváltási meghatalmazásban megjelölt naptól kezdődő hatállyal
+
+ba) a beérkező átutalásokat nem írja jóvá a fizetési számlán és
+
+bb) a beszedési megbízásokat nem teljesíti;
+
+c) a meghatalmazásban megjelölt naptól kezdődő hatállyal a rendszeres átutalási megbízásokat törli;
+
+d) a meghatalmazásban megjelölt napon a fizetési számlán fennmaradó pozitív egyenleget átutalja az új számlavezető pénzforgalmi szolgáltatónál nyitott és vezetett fizetési számlára;
+
+e) a fizetési számlát megszünteti a fizetésiszámla-szerződésben felmondási idő kikötése hiányában a meghatalmazásban megjelölt napon, felmondási idő kikötése esetén a megjelölt naptól számítottan a felmondási idő leteltekor, amennyiben
+
+ea) a fogyasztó a fizetésiszámla-szerződést a 4. § (1) bekezdés *e)* pontjában meghatározottaknak megfelelően felmondta,
+
+eb) a fogyasztónak nincs további fennálló kötelezettsége az adott fizetési számla tekintetében, valamint
+
+ec) az *a), b)* és *d)* pontban meghatározott feladatait teljesítette;
+
+f) bizonyítható módon haladéktalanul tájékoztatja a fogyasztót, amennyiben fennálló kötelezettségei akadályozzák fizetési számlájának megszüntetését.
+
+### 8. §
+
+(1) A fizetési-számlaszerződés megszüntetésének és a felek közötti elszámolásnak nem lehet akadálya, hogy a fogyasztó a fizetési számlát szolgáltatáscsomagban veszi igénybe, vagy a fogyasztó és a korábbi számlavezető pénzforgalmi szolgáltató között egyéb üzleti kapcsolat is fennáll, ide nem értve a jogszabályban kifejezetten megengedett árukapcsolás esetét.
+
+(2) A korábbi számlavezető pénzforgalmi szolgáltató a számlaváltási meghatalmazásban megadott dátumot megelőzően, a fogyasztó számára nyújtott pénzforgalmi szolgáltatás zökkenőmentessége érdekében a jogszabályban, uniós jogi aktusban vagy keretszerződésben meghatározott esetek kivételével nem tilthatja le a fizetési számlához tartozó készpénz-helyettesítő fizetési eszközöket.
+
+### 9. §
+
+(1) Az új számlavezető pénzforgalmi szolgáltató a korábbi pénzforgalmi szolgáltatótól a 6. § *a)* és *b)* pontja alapján kért adatok kézhezvételét követő öt munkanapon belül a számlaváltási meghatalmazásban meghatározott módon, illetve amennyiben a korábbi számlavezető pénzforgalmi szolgáltató vagy a fogyasztó által megadott információk azt számára lehetővé teszik:
+
+a) rögzíti és a számlaváltási meghatalmazásban megjelölt naptól kezdődő hatállyal teljesíti a fogyasztó által megjelölt rendszeres átutalási megbízásokat;
+
+b) megteszi az előkészületeket a beszedési megbízásoknak a beszedési felhatalmazásokban megjelölt naptól kezdődő teljesítésére;
+
+c) a fogyasztó fizetési számlájára ismétlődően átutalást teljesítő fizető feleket azok számlavezető pénzforgalmi szolgáltatói útján tájékoztatja a fogyasztónak az új számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számlájáról;
+
+d) a beszedőket tájékoztatja az új fizetési számláról és megjelöli azt az időpontot, amelytől kezdődően a beszedési megbízást a fizetési számla terhére teljesíti.
+
+(2) Ha az új pénzforgalmi szolgáltató nem rendelkezik az (1) bekezdés *c)* pontja szerinti ismétlődően átutalást teljesítő fizető fél vagy az (1) bekezdés *d)* pontja szerinti beszedés kedvezményezettjének tájékoztatásához szükséges adatokkal, felkéri a fogyasztót vagy a korábbi számlavezető pénzforgalmi szolgáltatót a hiányzó adatok megadására.
+
+### 10. §
+
+A 6. § *a)* és *b)* pontjában előírt adatcserét a korábbi és az új pénzforgalmi szolgáltatók között elektronikus üzenetváltással kell lebonyolítani
+
+a) védett, zárt hálózaton vagy
+
+b) nyílt hálózaton, titkosítással, fokozott biztonságú elektronikus aláírás vagy elektronikus bélyegző használatával.
+
+## 3. Számlanyitás megkönnyítése más EGT-államban
+
+### 11. §
+
+(1) Másik EGT-államban működő pénzforgalmi szolgáltatónál történő fizetési számla megnyitásának megkönnyítése érdekében a fizetési számlát vezető pénzforgalmi szolgáltató magyar nyelven vagy a fogyasztóval kötött megállapodás alapján kikötött más nyelven a fogyasztó kérésére kimutatást ad a fogyasztó részére:
+
+a) az érvényes rendszeres átutalási megbízásokról;
+
+b) az érvényes beszedési felhatalmazásokról;
+
+c) a megelőző 13 hónapban a fogyasztó fizetési számláján jóváírt ismétlődő beérkező átutalásokról, valamint a fogyasztó számlájának terhére teljesített beszedési megbízásokról.
+
+(2) Az (1) bekezdés szerinti kimutatást a pénzforgalmi szolgáltató díj- és költségmentesen bocsátja a fogyasztó rendelkezésére.
+
+(3) A fizetésiszámla-szerződés fogyasztó általi felmondása esetén a korábbi számlavezető pénzforgalmi szolgáltató a fizetési számlán fennmaradó pozitív egyenleget a fogyasztó kérésére
+
+a) átutalja a fogyasztó új számlavezető pénzforgalmi szolgáltatónál nyitott vagy vezetett fizetési számlájára;
+
+b) elszámol a fogyasztóval.
+
+(4) A (3) bekezdésben meghatározott feladatait a pénzforgalmi szolgáltató
+
+a) felmondási idő kikötésének hiányában a fogyasztó által megjelölt, legalább hat munkanappal a fogyasztó (1) bekezdés szerinti kérésének napja utáni munkanapon;
+
+b) felmondási idő kikötésekor a felmondási idő lejártát követő munkanapon
+
+végzi el.
+
+(5) A pénzforgalmi szolgáltatónak haladéktalanul tájékoztatnia kell a fogyasztót, amennyiben fennálló kötelezettségei akadályozzák a fizetési számlájának megszüntetését.
+
+## 4. Számlaváltás külföldön vezetett fizetési számláról Magyarországon vezetett számlára
+
+### 12. §
+
+A fogyasztó fizetési számla megnyitására vonatkozó kezdeményezése során a 11. § (1) bekezdésének megfelelő tartalmú, külföldi pénzforgalmi szolgáltató által kiállított dokumentumok bemutatása nem kötelezi az új számlavezető pénzforgalmi szolgáltatót arra, hogy általa egyébként nem nyújtott szolgáltatásokat biztosítson.
+
+## 5. A számlaváltáshoz kapcsolódó díjak
+
+### 13. §
+
+(1) A számlaváltással összefüggésben – a (2) és (3) bekezdésben meghatározott eltéréssel – a korábbi számlavezető pénzforgalmi szolgáltató, valamint az új számlavezető pénzforgalmi szolgáltató kizárólag tényleges ráfordításaival arányos, ésszerű díjat állapíthat meg.
+
+(2) A 7. § *a)* pontjában meghatározott adatszolgáltatásért a korábbi számlavezető pénzforgalmi szolgáltató sem a fogyasztónak, sem pedig az új számlavezető pénzforgalmi szolgáltatónak nem számíthat fel díjat vagy költséget.
+
+(3) A fogyasztó kérésére a korábbi számlavezető pénzforgalmi szolgáltató és az új számlavezető pénzforgalmi szolgáltató a 11. § (1) bekezdésében meghatározott tartalmú kimutatást a felhasználás céljától függetlenül díj- és költségmentesen bocsátja a fogyasztó rendelkezésére.
+
+## 6. A fogyasztó kárának megtérítése
+
+### 14. §
+
+(1) Az a pénzforgalmi szolgáltató, amely az e rendeletben meghatározott kötelezettségeit nem vagy nem megfelelően teljesíti, és ezzel a fogyasztónak kárt okoz, köteles a fogyasztó pénzügyi veszteségét – ideértve a díj- és kamatveszteségeit is – haladéktalanul megtéríteni.
+
+(2) A pénzforgalmi szolgáltató mentesül a felelősség alól, ha bizonyítja, hogy az e rendeletben meghatározott kötelezettségének teljesítését tevékenysége körén kívül eső elháríthatatlan ok (vis maior), vagy jogszabályban, közösségi jogi aktusban előírt rendelkezések zárták ki.
+
+## 7. A számlaváltásra vonatkozó tájékoztatás
+
+### 15. §
+
+(1) A pénzforgalmi szolgáltató a számlaváltási szolgáltatásra vonatkozóan a fogyasztók részére köteles tájékoztatást nyújtani az alábbiakról:
+
+a) a korábbi és az új számlavezető pénzforgalmi szolgáltató szerepe a számlaváltási eljárás egyes lépéseiben, a 6–12. §-ban meghatározottak szerint;
+
+b) az egyes lépések végrehajtására rendelkezésre álló határidő;
+
+c) a számlaváltási eljárásért felszámított díjak, ha vannak ilyenek;
+
+d) mindazon adat, amelyet a fogyasztónak kell megadnia és
+
+e) a Pénzügyi Békéltető Testület eljárása igénybevételének lehetősége és módja.
+
+(2) Az (1) bekezdés szerinti tájékoztatást papíron vagy más tartós adathordozón díjmentesen hozzáférhetővé kell tenni a pénzforgalmi szolgáltató minden olyan helyiségében, amelybe a fogyasztók beléphetnek, továbbá elektronikus formában mindenkor elérhetővé kell tenni a pénzforgalmi szolgáltató honlapján, és kérésre a fogyasztó rendelkezésére kell bocsátani.
+
+## 8. Számlaváltás korlátozásának tilalma
+
+### 16. §
+
+A korábbi számlavezető pénzforgalmi szolgáltató nem utasíthatja vissza a fogyasztó számlaváltási meghatalmazását.
+
+## 9. Záró rendelkezések
+
+### 17. §
+
+Ez a rendelet 2016. október 29-én lép hatályba.
+
+### 18. §
+
+Ez a rendelet a fizetési számlákhoz kapcsolódó díjak összehasonlíthatóságáról, a fizetésiszámla-váltásról és az alapszintű fizetési számla nyitásáról, illetve használatáról szóló, 2014. július 23-i 2014/92/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

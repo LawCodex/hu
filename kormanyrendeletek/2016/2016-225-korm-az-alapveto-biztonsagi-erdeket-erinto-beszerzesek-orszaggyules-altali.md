@@ -1,0 +1,156 @@
+---
+title: "225/2016. (VII. 29.) Korm. rendelet az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről"
+identifier: "225/2016. (VII. 29.) Korm. rendelet"
+njt_id: "2016-225-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/225"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-29
+in_force_from: 2016-08-01
+last_amended: 2026-07-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-225-20-22"
+retrieved: 2026-10-12
+---
+
+# 225/2016. (VII. 29.) Korm. rendelet az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről
+
+A Kormány a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. § (1) bekezdés b) pontjában,
+
+a 11. § vonatkozásában az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 28. pontjában,
+
+a 12. § a) pontja vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 21. pontjában,
+
+a 12. § b) pontja vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 14. pontjában,
+
+a 12. § c) pontja vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 12. pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet alkalmazási köre
+
+### 1. §[^1]
+
+Az e rendelet szerinti jóváhagyási eljárás szabályait a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) 6. §-a és 114. §-a szerinti ajánlatkérőknek a Vbt. 7. § (1) bekezdés 4. pontja szerinti, az Európai Unió Működéséről szóló Szerződés 346. cikke alapján történő azon beszerzéseire kell alkalmazni, amelyek esetében a Vbt. szabályainak alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes Magyarország biztonságához fűződő alapvető érdekeivel (a továbbiakban: alapvető biztonsági érdeket érintő beszerzés) és amelyek tekintetében az ajánlatkérő el kíván térni a Vbt.-ben meghatározott eljárási szabályoktól.
+
+## 2.[^2] A jóváhagyási eljárás
+
+### 2. §
+
+(1)[^3] A Vbt. 7. § (1) bekezdés 4. pontja szerinti kivételi kör alkalmazására vonatkozó ajánlatkérői döntés jóváhagyására irányuló kezdeményezést (a továbbiakban: kérelem) az ajánlatkérőnek
+
+a) a honvédelemmel összefüggő beszerzés esetén a honvédelemért felelős miniszterhez,
+
+b) az államháztartásról szóló törvény értelmében a Kormány irányítása alatt álló központi költségvetési szervnek minősülő ajánlatkérő esetében a költségvetési fejezetet irányító szerv vezetőjéhez,
+
+c) a Kormány irányítása alatt nem álló szervezetnek minősülő ajánlatkérő esetében ahhoz a miniszterhez, akinek a szakpolitikai vagy ágazati feladatkörébe tartozik a szervezet által ellátott közfeladat, vagy
+
+d) a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha nem állapítható meg, hogy a c) pont szerint melyik miniszter jogosult eljárni, a közbeszerzésekért felelős miniszterhez
+
+[az a)–d) pontban felsorolt miniszterek a továbbiakban együtt: előterjesztő miniszter] kell benyújtani.
+
+(2)[^4] A kérelemben meg kell jelölni a beszerzéssel összefüggő szerződés tárgyát és becsült értékét, valamint javaslatot kell tenni arra, hogy az Országgyűlés illetékes bizottsága (a továbbiakban: bizottság) a Vbt. 7. § (1) bekezdés 4. pontja szerinti kivételi kör alkalmazására irányuló ajánlatkérői döntést hagyja jóvá. Az ajánlatkérő a kérelemben indokolást ad a Vbt. 7. § (1) bekezdés 4. pontja szerinti kivételi kör alkalmazásának szükségességéről, a védendő alapvető biztonsági érdekekről és az intézkedés arányosságáról, továbbá ismerteti a beszerzés megvalósításának tervezett módját.
+
+(3)[^5] A kérelemhez csatolni kell a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 4–8. §-a alapján illetékes nemzetbiztonsági szolgálat – a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Alkotmányvédelmi Hivatal (a továbbiakban: AH) vagy az Információs Hivatal – szakmai állásfoglalását arra vonatkozóan, hogy a beszerzés milyen okból minősül alapvető biztonsági érdeket érintő beszerzésnek. Illetékességi összeütközés esetén az érintett nemzetbiztonsági szolgálatok főigazgatói egyeztetés útján jelölik ki az állásfoglalás kiadására jogosult nemzetbiztonsági szolgálatot.
+
+(4)[^6] Az illetékes nemzetbiztonsági szolgálat szakmai állásfoglalása a kérelemmel érintett beszerzés tekintetében tartalmazza, hogy fennáll-e az országnak olyan alapvető biztonsági érdeke, illetve az állam biztonságához fűződő alapvető érdek, amely a beszerzéssel összefüggő információk megőrzését indokolttá teszi.
+
+(5) Az illetékes nemzetbiztonsági szolgálat szakmai állásfoglalásában az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül nyilatkozik, hogy a (2) bekezdés szerinti javaslat és az ajánlatkérő által adott részletes indokolás megalapozott-e.
+
+(6) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot, nukleáris védettséget és a nukleáris biztosítéki területet érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell, amelyben az Országos Atomenergia Hivatal az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül nyilatkozik arról, hogy a beszerzés érinti-e a nukleáris biztonságot.
+
+(7)[^7] Ha az 1. § szerinti szerződést nemzetbiztonsági szolgálat kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a kérelemben ismerteti.
+
+(8)[^8] A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet [a továbbiakban: 329/2019. (XII. 20.) Korm. rendelet] hatálya alá tartozó beszerzés esetén a kérelemhez a 329/2019. (XII. 20.) Korm. rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv (a továbbiakban: VBÜ) beszerzés megvalósításának tervezett módjára vonatkozó szakmai véleményét is csatolni kell. A VBÜ az erre irányuló megkeresés kézhezvételétől és a beszerzési igény 329/2019. (XII. 20.) Korm. rendelet 6. § (1) bekezdés b) vagy c) pontja szerinti megküldésétől számított 5 munkanapon belül küldi meg szakmai véleményét.
+
+(9)[^9] Ha a 2. § (1) bekezdése szerinti kérelmet a VBÜ nyújtja be az előterjesztő miniszterhez, akkor a VBÜ külön szakmai véleményét nem kell beszerezni, hanem a (8) bekezdésében meghatározott körülményeket a kérelemben ismerteti.
+
+### 3. §
+
+(1)[^10] Az előterjesztő miniszter a kérelmet megvizsgálja, és ha az hiányos vagy nem egyértelmű, további kiegészítő információkat kérhet. Ha a beszerzés tárgya vagy az adott kérelemben meghatározott szerződés más minisztert is érint, az előterjesztő miniszter a kérelemről tájékoztatja az érintett minisztert. Az előterjesztő miniszter – az érintett miniszterrel együttműködve – a kérelemben foglaltakat megvizsgálja abból a szempontból, hogy
+
+a) a szerződés tárgya összefügg-e közvetlenül az ország alapvető biztonsági érdekeivel,
+
+b) a szerződés tárgya alapján helye van-e a Vbt. 7. § (1) bekezdés 4. pontja szerinti kivétel alkalmazására irányuló ajánlatkérői döntés jóváhagyásának, továbbá
+
+c) a Vbt. 7. § (1) bekezdés 4. pontja szerinti kivétel alkalmazása nem befolyásolja-e indokolatlanul és aránytalanul hátrányosan a gazdasági szereplők közötti versenyt.
+
+(2)[^11] Az előterjesztő miniszter az egyetértése esetén a kérelmet, valamint a 2. § (3), (6) és (8) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt az esetlegesen szükséges kiegészítő információk kézhezvételétől számított legkésőbb 15 napon belül megküldi egyetértő álláspontjának indokolásával együtt a Védelmi Tanácsnak (a továbbiakban: Tanács).
+
+(3)[^12] A nem a Kormány irányítása alatt álló szervezet által benyújtott kérelmet az előterjesztő miniszter egyet nem értése esetén is a Tanács elé terjeszti, ebben az esetben az előterjesztésben egyet nem értő véleményét az előterjesztésben indokolja.
+
+(4)[^13] Ha az 1. § szerinti szerződést az előterjesztő miniszter által vezetett minisztérium kívánja megkötni, a kérelmet annak indokolásával együtt az előterjesztő miniszter közvetlenül a Tanács elé terjeszti, amelyhez csatolja a 2. § (3) és (6) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt.
+
+### 4. §
+
+(1)[^14] A Tanács a kérelmet és annak mellékleteit, valamint az előterjesztő miniszter által a kérelem tárgyában készített előterjesztést megvizsgálja. Ha a kérelem vagy az előterjesztés hiányos vagy nem egyértelmű, a Tanács további kiegészítő információkat kérhet az ajánlatkérőtől vagy az előterjesztő minisztertől.
+
+(2)[^15] A Védelmi Tanács egyetértése esetén a kérelmet és annak mellékleteit, valamint a kérelemben foglaltakról kialakított véleményét 8 napon belül tájékoztatásul továbbítja a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszternek. A Tanács a véleményében javaslatot tesz a 2. § (2) bekezdése szerinti jóváhagyás megadására. A Kormány irányítása alatt nem álló szervezet által benyújtott kérelmet a Tanács – egyet nem értése esetén – véleményével ellátva továbbítja a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszternek.
+
+(3)[^16] A kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter – a Tanács döntésbe foglalt véleményével együtt – a bizottságnak felterjeszti döntéshozatalra a kérelmet és annak mellékleteit.
+
+### 5. §[^17]
+
+Az előterjesztő miniszter gondoskodik a kérelmek tárgyában hozott országgyűlési bizottsági határozatok, valamint a Tanács-döntések beszerzéséről, továbbá a beszerzett országgyűlési bizottsági határozatokról, valamint a Tanács-döntésekről nyilvántartást vezet. A nyilvántartásban szerepeltetni kell
+
+a) a kérelmet jóváhagyó és azt elutasító határozatot, valamint a határozat számát,
+
+b) a kérelmet benyújtó ajánlatkérő nevét,
+
+c) a jóváhagyott szerződések tárgyát és becsült értékét.
+
+## 3. Az alapvető biztonsági érdeket érintő beszerzés megvalósításakor az ajánlatkérő által érvényesítendő követelmények
+
+### 6. §[^18]
+
+Az ajánlatkérő a beszerzés megvalósítására az erre vonatkozó döntésének 2–4. § szerinti eljárás során történő jóváhagyását követően jogosult.
+
+### 7. §[^19]
+
+Az ajánlatkérő az alapvető biztonsági érdeket érintő beszerzést a kérelemben megjelölt módon és a kérelmet jóváhagyó határozatban meghatározott követelményeknek megfelelően köteles megvalósítani.
+
+### 7/A. §[^20]
+
+A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által rendeletben meghatározott, a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat érintő, e rendelet hatálya alá tartozó beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a minősített piaci szereplők jegyzékén szereplő gazdasági szereplő vehet részt.
+
+### 8. §
+
+(1) Az ajánlatkérő az alapvető biztonsági érdeket érintő beszerzést – annak előkészítésétől az eljárás alapján kötött szerződés teljesítéséig terjedően – írásban köteles dokumentálni.
+
+(2) Az alapvető biztonsági érdeket érintő beszerzés előkészítésével, lefolytatásával kapcsolatban keletkezett összes iratot – ide nem értve a minősített adatot – az alapvető biztonsági érdeket érintő beszerzés lezárulásától, a szerződés teljesítésével kapcsolatos összes iratot a szerződés teljesítésétől számított öt évig meg kell őrizni. Ha az alapvető biztonsági érdeket érintő beszerzéssel kapcsolatban jogorvoslati eljárás indult, az iratokat annak jogerős befejezéséig, de legalább öt évig kell megőrizni.
+
+## 4. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2016. augusztus 1-jén lép hatályba.
+
+### 10. §
+
+E rendeletet a hatálybalépését követően, a Vbt. 7. § (1) bekezdés 4. pontjára hivatkozással kezdeményezett mentesítési eljárásokra és az e rendelet alapján mentesített, alapvető biztonsági érdeket érintő beszerzések lefolytatására kell alkalmazni.
+
+---
+
+[^1]: Az 1. § a 105/2026. (VII. 1.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^2]: A 2. alcím címe a 105/2026. (VII. 1.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (7) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § (8) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 20. §-a iktatta be, szövege a 649/2020. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 105/2026. (VII. 1.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 183/2022. (V. 24.) Korm. rendelet 8. § (3) bekezdés a) pontja, a 105/2026. (VII. 1.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § a) pontja, a 183/2022. (V. 24.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 105/2026. (VII. 1.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^13]: A 3. § (4) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § b) pontja, a 183/2022. (V. 24.) Korm. rendelet 8. § (3) bekezdés c) pontja, a 105/2026. (VII. 1.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdése a 183/2022. (V. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 105/2026. (VII. 1.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdését a 157/2018. (IX. 3.) Korm. rendelet 5. §-a hatályon kívül helyezte, újonnan a 183/2022. (V. 24.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 105/2026. (VII. 1.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^17]: Az 5. § a 105/2026. (VII. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^18]: A 6. § a 105/2026. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^19]: A 7. § a 105/2026. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^20]: A 7/A. §-t a 118/2024. (V. 31.) Korm. rendelet 2. §-a iktatta be.

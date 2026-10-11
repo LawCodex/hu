@@ -1,0 +1,109 @@
+---
+title: "210/2018. (XI. 20.) Korm. rendelet az energiafogyasztást befolyásoló termék energiacímkézéséről és termékismertetővel való ellátásáról"
+identifier: "210/2018. (XI. 20.) Korm. rendelet"
+njt_id: "2018-210-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/210"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-11-20
+in_force_from: 2018-12-20
+last_amended: 2021-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-210-20-22"
+retrieved: 2026-10-12
+---
+
+# 210/2018. (XI. 20.) Korm. rendelet az energiafogyasztást befolyásoló termék energiacímkézéséről és termékismertetővel való ellátásáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,\
+a 6. § tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés *f)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1\. *piacfelügyeleti hatóság:* a fogyasztóvédelmi hatóság, a gazdasági célfelhasználású termékek tekintetében a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala;
+
+2\. *új modellazonosítóval ellátott termék:* az 518/2014/EU felhatalmazáson alapuló bizottsági rendeletben meghatározott időpontok szerinti új modellek és a meglévő modellek továbbfejlesztett változatai.
+
+## 2. Forgalomba hozatal és üzembe helyezés, tájékoztatásra vonatkozó előírások
+
+### 2. §
+
+(1) Energiafogyasztást befolyásoló termék akkor hozható forgalomba vagy helyezhető üzembe, ha megfelel az energiával kapcsolatos adott termék energiafogyasztásának címkézésére vonatkozó részletes követelményeket meghatározó, az energiacímkézés keretének meghatározásáról és a 2010/30/EU irányelv hatályon kívül helyezéséről szóló, 2017. július 4-i (EU) 2017/1369 európai parlamenti és tanácsi rendelet és a vonatkozó felhatalmazáson alapuló jogi aktusok rendelkezéseinek, és ezt a beszállító vagy a kereskedő a termékre vonatkozó adatlappal és a termékre helyezett címkével, távértékesítés esetén a termékre vonatkozó adatlap és a címke elektronikus változatának rendelkezésre bocsátásával igazolja.
+
+(2) Az energiafogyasztást befolyásoló termék adatlapján és címkéjén szereplő információkat igazoló műszaki dokumentáció tartalmát az 1. melléklet határozza meg.
+
+(3) A végfelhasználók tájékoztatására vonatkozóan előírt követelmények megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult, ha a jogsértés az Fttv. 2. § *a)* pontja értelmében vett fogyasztót érint.
+
+## 3. Piacfelügyelet
+
+### 3. §
+
+(1) A piacfelügyeleti hatóság ellenőrzi az e rendeletben és az energiafogyasztást befolyásoló termék energiafogyasztásának címkézésére vonatkozó részletes követelményeket meghatározó harmonizációs szabályozásban meghatározott követelmények betartását.
+
+(2) A piacfelügyeleti hatóság kérésére a szállító köteles a termékre vonatkozó adatlapon, a termékre helyezett címkén távértékesítés esetén a termékismertető adatlap és a címke elektronikus változatán közölt információ hitelességét igazolni.
+
+(3) Ha a piacfelügyeleti hatóság megállapítja valamely, az energiafogyasztást befolyásoló termékről, hogy az nem felel meg az e rendeletben és az energiával kapcsolatos adott termék energiafogyasztásának címkézésére vonatkozó részletes követelményeket meghatározó harmonizációs szabályozásban a címke és az adatlap tekintetében meghatározott valamennyi követelménynek, a szállítót kötelezi a termék forgalomból történő kivonására, a piacról vagy a végfelhasználóktól történő visszahívására.
+
+(4) A piacfelügyeleti hatóság a harmonizációs szabályozásban foglaltak teljesüléséig jogosult a szükséges intézkedéseket fenntartani és a forgalomba hozatalt megtiltani.
+
+(5) A piacfelügyeleti hatóság a (3) bekezdés szerinti intézkedéséről 3 napon belül értesíti az Európai Bizottságot és a többi tagállamot, megjelölve döntésének indokait.
+
+## 4. Záró rendelkezések
+
+### 4. §
+
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+### 5. §
+
+Ez a rendelet
+
+a) az energiacímkézés keretének meghatározásáról és a 2010/30/EU irányelv hatályon kívül helyezéséről szóló, 2017. július 4-i (EU) 2017/1369 európai parlamenti és tanácsi rendelet,
+
+b) az 1059/2010/EU, az 1060/2010/EU, az 1061/2010/EU, az 1062/2010/EU, a 626/2011/EU, a 392/2012/EU, a 874/2012/EU, a 665/2013/EU, a 811/2013/EU és a 812/2013/EU felhatalmazáson alapuló bizottsági rendeletnek az energiával kapcsolatos termékek internetes címkézése tekintetében történő módosításáról szóló, 2014. március 5-i 518/2014/EU felhatalmazáson alapuló bizottsági rendelet,
+
+c)[^1] az (EU) 2017/1369 európai parlamenti és tanácsi rendeletnek az elektronikus kijelzők energiacímkézése tekintetében történő kiegészítéséről és az 1062/2010/EU felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 11-i (EU) 2019/2013 felhatalmazáson alapuló bizottsági rendelet,
+
+d)[^2] az (EU) 2017/1369 európai parlamenti és tanácsi rendeletnek a háztartási mosógépek és a háztartási mosó-szárítógépek energiafogyasztásának címkézése tekintetében történő kiegészítéséről, valamint az 1061/2010/EU felhatalmazáson alapuló bizottsági rendelet és a 96/60/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2019. március 11-i (EU) 2019/2014 felhatalmazáson alapuló bizottsági rendelet,
+
+e)[^3] az (EU) 2017/1369 európai parlamenti és tanácsi rendeletnek a fényforrások energiacímkézése tekintetében való kiegészítéséről, valamint a 874/2012/EU felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 11-i (EU) 2019/2015 felhatalmazáson alapuló bizottsági rendelet,
+
+f)[^4] az (EU) 2017/1369 európai parlamenti és tanácsi rendeletnek a hűtőkészülékek energiacímkézése tekintetében történő kiegészítéséről, valamint az 1060/2010/EU felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 11-i (EU) 2019/2016 felhatalmazáson alapuló bizottsági rendelet,
+
+g)[^5] az (EU) 2017/1369 európai parlamenti és tanácsi rendeletnek a háztartási mosogatógépek energiacímkézése tekintetében történő kiegészítéséről és az 1059/2010/EU felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 11-i (EU) 2019/2017 felhatalmazáson alapuló bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 6. §[^6]
+
+### 7. §[^7]
+
+## 1. melléklet a 210/2018. (XI. 20.) Korm. rendelethez
+
+**Az energiafogyasztást befolyásoló termék adatlapján és címkéjén szereplő információkat igazoló műszaki dokumentáció**
+
+Az energiafogyasztást befolyásoló termékek adatlapján és címkéjén szereplő információkat igazoló műszaki dokumentációnak tartalmaznia kell:
+
+*a)* a termék általános leírását;
+
+*b)* az elvégzett tervezési számítások eredményeit, amennyiben azok rendelkezésre állnak;
+
+*c)* a vizsgálati jelentéseket – amennyiben rendelkezésre állnak –, beleértve az egyéb európai uniós jogszabályokban meghatározott, kijelölt szervezetek által készítetteket is;
+
+*d)* ha ugyanazon értékeket más, hasonló modellek esetében is felhasználják, akkor ezen modellek azonosítását lehetővé tevő hivatkozásokat.
+
+---
+
+[^1]: Az 5. § c) pontját a 712/2020. (XII.30.) Korm. rendelet 20. §-a iktatta be.
+[^2]: Az 5. § d) pontját a 712/2020. (XII.30.) Korm. rendelet 20. §-a iktatta be.
+[^3]: Az 5. § e) pontját a 712/2020. (XII.30.) Korm. rendelet 20. §-a iktatta be.
+[^4]: Az 5. § f) pontját a 712/2020. (XII.30.) Korm. rendelet 20. §-a iktatta be.
+[^5]: Az 5. § g) pontját a 712/2020. (XII.30.) Korm. rendelet 20. §-a iktatta be.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

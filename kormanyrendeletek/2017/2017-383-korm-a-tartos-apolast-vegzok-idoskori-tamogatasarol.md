@@ -1,0 +1,69 @@
+---
+title: "383/2017. (XII. 12.) Korm. rendelet a tartós ápolást végzők időskori támogatásáról"
+identifier: "383/2017. (XII. 12.) Korm. rendelet"
+njt_id: "2017-383-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/383"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-12
+in_force_from: 2018-01-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-383-20-22"
+retrieved: 2026-10-12
+---
+
+# 383/2017. (XII. 12.) Korm. rendelet a tartós ápolást végzők időskori támogatásáról
+
+A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés *m)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+A tartós ápolást végzők időskori támogatásának (a továbbiakban: támogatás) megállapításával kapcsolatos hatósági ügyekben a kérelmező öregségi nyugdíja ügyében illetékes általános hatáskörű nyugdíjmegállapító szerv jár el.
+
+## 2. §
+
+(1)[^2] A támogatás megállapítása és folyósítása iránti kérelmet az általános hatáskörű nyugdíjmegállapító szervnél, a központi nyugdíjbiztosítási szerv által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – e célra rendszeresített, és a központi nyugdíjbiztosítási szerv honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy az annak megfelelő adattartalommal rendelkező elektronikus űrlapon kell benyújtani.
+
+(2) Az (1) bekezdés szerinti adatlap és elektronikus űrlap tartalmazza a kérelmező
+
+a) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, lakóhelyét, tartózkodási helyét és elérhetőségét,
+
+b) nyilatkozatát arról, hogy részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) alapján megállapított ápolási díjat az Szt. 44/A. § (1) bekezdés *a)* pontjában meghatározott időszakban mely szervek határozata alapján folyósították, valamint
+
+c) nyilatkozatát arról, hogy a gyermekgondozási segélyről szóló 10/1982. (IV. 16.) MT rendelet 1. § (1) bekezdése, illetve a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése alapján, tartósan beteg, illetve súlyosan fogyatékos gyermekére tekintettel gyermekgondozási segélyben vagy gyermeknevelést segítő ellátásban részesült.
+
+(3)[^3] A támogatásra való jogosultságnak az Szt. 44/A. § (1) bekezdés *a)* pontja alapján történő megállapításához igazolni kell, hogy
+
+a) a kérelmező általa ápolt, gondozott gyermeke a jogosultsághoz szükséges 20 éves időtartam alatt az Szt. 41. § (3) bekezdés *a)* pontja szerint súlyosan fogyatékosnak vagy az Szt. 41. § (3) bekezdés *b)* pontja szerint tartósan betegnek minősült, és
+
+b) a kérelmező a jogosultsághoz szükséges 20 éves ápolási, gondozási időtartam alatt legfeljebb napi 4 órában végzett otthonán kívül keresőtevékenységet, vagy a keresőtevékenységet az otthonában végezte.
+
+## 3. §
+
+A támogatást a nyugdíjfolyósító szerv a központi költségvetés terhére folyósítja.
+
+## 4. §
+
+Ha törvény vagy kormányrendelet másként nem rendelkezik, a támogatás iránti igény érvényesítésére, a támogatás megállapítására és folyósítására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, az adatszolgáltatási és bejelentési kötelezettségre, a mulasztási bírságra, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon támogatást kell érteni.
+
+## 5. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+## 6. §
+
+Aki a támogatásra való jogosultság feltételeinek 2018. január 1-jén megfelel, a támogatást az öregségi nyugdíj iránti igény érvényesítésére vonatkozó szabályok szerint, de legkorábban 2018. január 1-jei időponttól kezdődően kérelmezheti.
+
+## 7. §[^4]
+
+A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet, valamint a tartós ápolást végzők időskori támogatásáról szóló 383/2017. (XII. 12.) Korm. rendelet módosításáról szóló 271/2019. (XI. 19.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (3) bekezdésében foglaltakat a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 177. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése a 271/2019. (XI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 7. §-t a 271/2019. (XI. 19.) Korm. rendelet 4. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2019. november 20.

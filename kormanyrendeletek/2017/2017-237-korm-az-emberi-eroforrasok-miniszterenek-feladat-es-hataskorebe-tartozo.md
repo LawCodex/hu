@@ -1,0 +1,200 @@
+---
+title: "237/2017. (VIII. 18.) Korm. rendelet az emberi erőforrások miniszterének feladat- és hatáskörébe tartozó európai uniós alapokból származó támogatások felhasználására vonatkozó központi beszerző, valamint krízismenedzsment feladatokat ellátó szerv feladat- és hatásköréről"
+identifier: "237/2017. (VIII. 18.) Korm. rendelet"
+njt_id: "2017-237-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/237"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-08-18
+in_force_from: 2017-08-19
+last_amended: 2020-02-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-237-20-22"
+retrieved: 2026-10-12
+---
+
+# 237/2017. (VIII. 18.) Korm. rendelet az emberi erőforrások miniszterének feladat- és hatáskörébe tartozó európai uniós alapokból származó támogatások felhasználására vonatkozó központi beszerző, valamint krízismenedzsment feladatokat ellátó szerv feladat- és hatásköréről
+
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 5. pontjában kapott felhatalmazás alapján,\
+a 3. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet szabályozza a hatálya alá tartozó szervezeteknek az 1. mellékletben meghatározott humánfejlesztési feladatokhoz kapcsolódó termékek és szolgáltatások tekintetében az emberi erőforrások miniszterének feladat- és hatáskörébe tartozó, részben vagy egészben az Emberi Erőforrás Fejlesztési Operatív Programból (a továbbiakban: EFOP) vagy a Rászoruló Személyeket Támogató Operatív Programból (a továbbiakban: RSZTOP) megvalósuló beszerzésével kapcsolatos feladatait, a beszerzések végrehajtásával összefüggésben fizetendő közbeszerzési díj mértékét, valamint meghatározza a központosított eljárás részletes szabályait.
+
+(2) E rendelet hatálya kiterjed minden olyan, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 31. § (1) bekezdésében meghatározott jogi személyre, amely az EFOP vagy az RSZTOP vonatkozásában a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) alapján támogatást igénylőnek vagy kedvezményezettnek minősül (a továbbiakban: Intézmény).
+
+(3) Az e rendelet szerinti központosított közbeszerzés hatálya alá tartozó humánfejlesztési feladatokhoz kapcsolódó termékek és szolgáltatások felsorolását az 1. melléklet tartalmazza.
+
+(4) E rendelet alkalmazásában
+
+1\. *beszerzés:* humánfejlesztési feladatok megvalósítására irányuló, részben vagy egészben EFOP- vagy RSZTOP-forrásból az 1. mellékletben meghatározott termékek és szolgáltatások tárgyában fizetési kötelezettség vállalására vonatkozó szerződés megkötésére irányuló eljárás;
+
+2\. *központosított közbeszerzési portál:* a központi beszerző szerv által működtetett, a (2) bekezdés szerinti érintett szervezetek e rendeletben meghatározott adatszolgáltatási és tájékoztatási kötelezettségének teljesítésére alkalmas adatbázis és az azt megjelenítő webes alkalmazások, amelyek elérési útvonala és címe: http://humankozbeszerzes.emmi.gov.hu;
+
+3\. *humánfejlesztési szolgáltatások:* az Intézmény által részben vagy egészben EFOP- vagy RSZTOP-forrásból megvalósított, az érintett operatív programokban meghatározott célkitűzések elérése érdekében a szakmai célokhoz közvetlenül kapcsolódó termékek vagy szolgáltatások;
+
+4\. *szállító:* a központosított közbeszerzési rendszer keretében lefolytatott eljárás eredményeképpen keretmegállapodást, egyedi közbeszerzési szerződést kötő vagy a központi beszerző szerv által működtetett dinamikus beszerzési rendszerhez csatlakozó ajánlattevő.
+
+## 2. A központi beszerző szerv kijelölése, feladatköre
+
+### 2. §
+
+(1) A Kormány a humánfejlesztési szolgáltatásokhoz kapcsolódó központosított közbeszerzések tekintetében ajánlatkérésre feljogosított szervezetként kizárólagos joggal a Központi Humánfejlesztési Nonprofit Kft.-t (a továbbiakban: Nkft.) jelöli ki.
+
+(2) Az Nkft. mint központi beszerző szerv ellátja a humánfejlesztési szolgáltatásokhoz kapcsolódó központosított közbeszerzési rendszer működtetésével kapcsolatos feladatokat, valamint az e rendeletben szabályozott módon és mértékben lebonyolítja a központosított közbeszerzési rendszer keretén belül megvalósítandó közbeszerzéseket.
+
+(3) Az Nkft. a (2) bekezdés szerinti tevékenysége körében a következő feladatokat látja el:
+
+a) az Intézmények által elektronikusan, a központosított közbeszerzési portálon keresztül szolgáltatott adatok alapján összesíti és adatbázisba rendszerezi az igénybejelentéseket,
+
+b) az igénybejelentésekre vonatkozó adatbázist folyamatosan frissíti, ennek figyelembevételével megtervezi és előkészíti a központosított közbeszerzési rendszer keretén belül megvalósítandó közbeszerzéseket és a lefolytatandó beszerzési, valamint közbeszerzési eljárásokat,
+
+c) kezeli és frissíti a központosított közbeszerzési adatbázisból történő lekérdezéseket,
+
+d) működteti a központosított közbeszerzési portált, azon közzéteszi a központosított közbeszerzési rendszer használata során teljesítendő adatszolgáltatás adatlapjait és mintáit,
+
+e) a központosított közbeszerzési rendszert érintő, az adatszolgáltatási és egyéb kötelezettségek teljesítéséhez szükséges adatokat a központosított közbeszerzési portálon folyamatosan közzéteszi,
+
+f) együttműködik a központosított közbeszerzési rendszer keretében feladatot ellátó egyéb szervezetekkel, valamint a kötelezettségvállalásokat nyilvántartó államháztartási szervekkel,
+
+g) az Intézmények adatszolgáltatása alapján figyelemmel kíséri a megrendelések teljesítését,
+
+h) a központosított közbeszerzési eljárások eredményeként létrejött keretszerződések és keretmegállapodások hatályos szövegét – összhangban a Kbt. 44. és 45. §-ában foglaltakkal – közzéteszi a központosított közbeszerzési portálon,
+
+i) ellátja a jogszabályok által központi beszerző szerv hatáskörébe utalt feladatokat,
+
+j) e rendelet szerinti feladataival összefüggésben a közbeszerzésekért felelős miniszter által vezetett minisztérium részére, lekérdezésre haladéktalanul adatot szolgáltat.
+
+### 3. §
+
+(1) Az Nkft. a részben vagy egészben EFOP- vagy RSZTOP-forrásból megvalósuló projektek esetén kizárólagos joggal – a Korm. rendelet 91. §-a szerinti projektfelügyeleti eljárás során megfogalmazott javaslat és az irányító hatóság erre irányuló döntése alapján mint a kedvezményezett konzorciumi partnere – a projektbe való belépéssel veheti át azon adminisztrációs vagy menedzsmentproblémákkal küzdő – nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projektek menedzsmenttevékenységét, amelyeknél a megvalósítás jelentős késedelmének, tartós akadályba ütközésének vagy meghiúsulásának veszélye felmerül.
+
+(2) Az (1) bekezdés szerinti esetben az Nkft. legfeljebb a projektben tervezett menedzsmentköltségek erejéig, a projektben ellátott tevékenysége során felmerült ráfordításai arányában jogosult támogatásra.
+
+(3) Az Nkft. projektbe való belépésére a Korm. rendeletben meghatározottak szerint támogatási szerződés módosításával kerülhet sor.
+
+## 3. A központosított közbeszerzési rendszerhez való csatlakozás
+
+### 4. §
+
+A központosított közbeszerzési rendszerhez való csatlakozás önkéntes. Az önkéntes csatlakozásra az 1. § (2) bekezdése szerinti érintett szervezetek jogosultak.
+
+### 5. §
+
+(1) Az 1. § (2) bekezdése szerinti érintett szervezet a csatlakozási igényét az Nkft. által meghatározott módon jelentheti be. Az Nkft. a hiánytalan csatlakozási igényt 15 napon belül visszaigazolja, nem megfelelően kitöltött csatlakozási igény esetén pedig a hiányok megjelölésével felhívja az 1. § (2) bekezdése szerinti érintett szervezetet a hiányok pótlására.
+
+(2) Azon 1. § (2) bekezdése szerinti érintett szervezet, melynek csatlakozási igényét az Nkft. visszaigazolta (a továbbiakban: csatlakozott szervezet), az adatának változása esetén a módosult adatot az adatváltozás bekövetkezésétől számított 15 napon belül köteles az Nkft. által meghatározott módon bejelenteni.
+
+## 4. A központosított közbeszerzési rendszerbe való igénybejelentés
+
+### 6. §
+
+(1) A csatlakozási igény elfogadását követően a csatlakozott szervezet – az Nkft. által jóváhagyott – igénybejelentése alapján jogosult az Nkft. által kötött keretszerződések terhére történő megrendelésre, az Nkft. által megkötött keretmegállapodások alapján a 9. § (3)–(5) bekezdése szerinti eljárások lefolytatására, valamint az Nkft. által működtetett dinamikus beszerzési rendszer használatára.
+
+(2) A csatlakozott szervezetek igénybejelentésének jóváhagyása során az Nkft. köteles figyelemmel lenni a Kbt. 104. § (4) bekezdésében foglaltakra, valamint arra, hogy az adminisztrációs vagy menedzsmentproblémákkal küzdő – különösen nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projekteket megvalósító kedvezményezettek folyamatos ellátottsága biztosított legyen. Ennek érdekében az Nkft. elutasítja a beszerzési igényt, ha
+
+a) a keretmegállapodás vagy keretszerződés megkötésére irányuló eljárás megindításának időpontjában a szervezet nem rendelkezett EFOP vagy RSZTOP projekt keretében megkötött támogatási szerződéssel,
+
+b) az igénybejelentéssel érintett keretmegállapodásban vagy keretszerződésben meghatározott mennyiség nyolcvan százaléka teljesült, vagy
+
+c) a bejelentett igény jóváhagyása veszélyeztetné az adminisztrációs vagy menedzsmentproblémákkal küzdő – különösen nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projekteket megvalósító kedvezményezettek igényeinek kielégítését.
+
+(3) Az Nkft. a bejelentett igény elutasítása esetén azt a csatlakozott szervezet felé 30 napon belül indokolni köteles.
+
+## 5. Az egyedi eljárásokra vonatkozó speciális rendelkezések
+
+### 7. §
+
+A csatlakozott szervezet az 1. mellékletben meghatározott termékekre és szolgáltatásokra vonatkozó beszerzéseire a Kbt.-t és az e rendeletben foglalt eljárási szabályokat köteles alkalmazni.
+
+### 8. §
+
+(1) A csatlakozott szervezet köteles az Nkft. által meghatározott útmutató alapján az 1. mellékletben meghatározott termékekkel és szolgáltatásokkal összefüggésben
+
+a) a részben vagy egészben EFOP- vagy RSZTOP-forrásból megvalósuló projektre vonatkozó, 1. melléklet szerinti szolgáltatásokat és termékeket tartalmazó beszerzési tervet a beszerzési terv elfogadásától, valamint a beszerzési terv módosításának elfogadásától számított 15 napon belül,
+
+b) a beszerzésre vonatkozó igényét a megvalósítás megkezdését megelőzően legalább 30 nappal,
+
+c) a rendkívüli sürgősséget igénylő beszerzésre vonatkozó igényét haladéktalanul,
+
+a központosított közbeszerzési portálon keresztül megküldeni.
+
+(2) Ha az Nkft. a rendkívüli sürgősségű eljárást az eset összes körülményei alapján nem tartja indokoltnak, a beszerzési igényt elutasítja. Az elutasítás nem akadálya a beszerzési igény (1) bekezdés *b)* pontja szerinti ismételt előterjesztésének. Az e bekezdésben foglaltak szerint elutasított beszerzési igényt csak akkor lehet az (1) bekezdés *c)* pontja alapján ismételten előterjeszteni, ha a rendkívüli sürgőséggel kapcsolatban olyan új körülmény merült fel, melyet az első előterjesztés során az Nkft. nem vizsgált.
+
+## 6. A központosított közbeszerzési rendszer működtetésével kapcsolatos feladatok
+
+### 9. §
+
+(1) A csatlakozott szervezet részére szükséges, az 1. mellékletben meghatározott humánfejlesztési feladatokhoz kapcsolódó termékek és szolgáltatások beszerzése érdekében az Nkft. közbeszerzési eljárást folytat le.
+
+(2) Az Nkft. keretmegállapodást, közbeszerzési szerződést köthet, valamint dinamikus beszerzési rendszert üzemeltethet.
+
+(3) Ha az Nkft. egy vagy több ajánlattevővel olyan keretmegállapodást kötött, amely
+
+a) az annak alapján adott közbeszerzés megvalósítására irányuló szerződés (szerződések) minden feltételét kötelező erővel tartalmazza, a csatlakozott szervezet a közbeszerzését a keretmegállapodásban meghatározott feltételeknek megfelelően a Kbt. 105. § (1) bekezdés *a)* pontja vagy 105. § (2) bekezdés *a)* pontja szerint közvetlen megrendeléssel, vagy ha a keretmegállapodásban ennek a lehetőségét az Nkft. kikötötte, akkor a Kbt. 105. § (1) bekezdés *b)* pontja szerinti írásbeli konzultációval vagy a Kbt. 105. § (2) bekezdés *b)* pontja szerinti verseny újranyitásával valósítja meg,
+
+b) nem tartalmazza az annak alapján adott közbeszerzés megvalósítására irányuló szerződés (szerződések) minden feltételét, vagy azokat nem kötelező erővel tartalmazza, a keretmegállapodásban rendelkezni kell arról, hogy annak alapján a Kbt. 105. § (1) bekezdés *c)* pontja szerinti írásbeli konzultációt vagy a Kbt. 105. § (2) bekezdés *c)* pontja szerinti verseny újranyitását az Nkft. bonyolítja le.
+
+(4) A verseny újranyitása esetén – ha erre lehetőség nyílik, és a rendelkezésre álló fedezet is biztosítja a lehetőségét – minden esetben meg kell jelölni a második legkedvezőbb ajánlattevőt is. Ha az az ajánlattevő, akitől a több ajánlattevővel kötött keretmegállapodás alapján az adott termék vagy szolgáltatás megrendelhető, a megrendelést határidőben nem tudja teljesíteni, a csatlakozott szervezet az ellátás biztonsága érdekében jogosult a soron következő legkedvezőbb ajánlattevőtől megrendelni az adott terméket vagy szolgáltatást. Ez nem érinti a nyertes ajánlattevő felelősségét a teljesítés elmaradásáért.
+
+(5) Ha az Nkft. dinamikus beszerzési rendszert üzemeltet, a csatlakozott szervezet köteles a Kbt. 107. § (7) bekezdése szerint eljárni a rendszer alkalmazása során.
+
+(6) A szállító köteles a megrendelésekre és a szállításokra vonatkozó dokumentumok megküldésével a keretmegállapodások alapján teljesített megrendelésekről, valamint a szállított humánfejlesztési szolgáltatások és az azokhoz kapcsolódó termékek mennyiségéről és értékéről az Nkft.-t értesíteni.
+
+(7) Ha az Nkft. a (2) és (3) bekezdés alapján keretmegállapodást köt, a Kbt. 37. § (4) bekezdése szerinti, a közbeszerzési eljárás eredményéről szóló tájékoztató hirdetményt az Nkft. teszi közzé.
+
+### 10. §
+
+Az Nkft. mint központi beszerző szerv által lebonyolított beszerzésekért a beszerzéssel érintett, a központosított beszerzéshez csatlakozott szervezet az Nkft. részére közbeszerzési díjat köteles fizetni. A központosított közbeszerzési díjat a feladatellátással összefüggő ráfordítások figyelembevételével kell megállapítani. A díj mértéke a központosított közbeszerzések keretében bármilyen formában – közvetlen megrendeléssel, írásbeli konzultációval, versenyújranyítással – megvalósított egyedi közbeszerzések, beszerzések általános forgalmi adó nélkül számított értékének 2%-a, de legfeljebb nettó kétmillió forint.
+
+## 7. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 237/2017. (VIII. 18.) Korm. rendelethez
+
+**Humánfejlesztési feladatokhoz kapcsolódó termékek és szolgáltatások**
+
+1\. Humánfejlesztéshez kapcsolódó szakmai
+
+a) kutatási feladatok,
+
+b) stratégiai tervezési, tanácsadási, folyamatszervezési feladatok,
+
+c) statisztikai, elemzési feladatok,
+
+d) közvéleménykutatási feladatok,
+
+e) felmérések, elemzések előállításával kapcsolatos feladatok,
+
+f) tartalomkészítési feladatok (szöveges),
+
+g) tartalomkészítési feladatok (online, vegyes),
+
+h) tanácsadási feladatok
+
+2\. Komplex rendezvényszervezési feladatok (humánfejlesztéshez kapcsolódó, kifejezetten szakmai rendezvények, szakmai műhelyek szervezése, az ehhez kapcsolódó szállodai és éttermi szolgáltatások, adott esetben helyszín és a helyszínhez kapcsolódó egyéb szolgáltatások beszerzésével)
+
+3.[^1] Képzésszervezési feladatok
+
+4.[^2]
+
+5\. Adatrögzítési feladatok
+
+6\. Szállítási, szállítmányozási feladatok
+
+7\. Raktározási feladatok
+
+8\. Az EFOP vagy RSZTOP operatív programokban meghatározott célkitűzések elérése érdekében, a szakmai célokhoz közvetlenül kapcsolódó termékek vagy immateriális javak beszerzése
+
+---
+
+[^1]: Az 1. melléklet 3. pontja a 13/2020. (II. 7.) Korm. rendelet 124. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet 4. pontját a 13/2020. (II. 7.) Korm. rendelet 124. § (2) bekezdése hatályon kívül helyezte.

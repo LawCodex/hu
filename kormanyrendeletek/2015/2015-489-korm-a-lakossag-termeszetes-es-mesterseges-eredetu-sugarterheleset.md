@@ -1,0 +1,418 @@
+---
+title: "489/2015. (XII. 30.) Korm. rendelet a lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről"
+identifier: "489/2015. (XII. 30.) Korm. rendelet"
+njt_id: "2015-489-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/489"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-30
+in_force_from: 2016-01-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-489-20-22"
+retrieved: 2026-10-12
+---
+
+# 489/2015. (XII. 30.) Korm. rendelet a lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről
+
+Az atomenergiáról szóló 1996. évi CXVI. törvény 67. § m) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 36. pontja alapján kiterjed a lakosság természetes és az orvosi sugárterhelésen kívüli mesterséges eredetű sugárterhelése meghatározásához szükséges
+
+a) kötelezően mérendő mennyiségekre,
+
+b) kötelezően mérendő mennyiségek meghatározását végző szervek tevékenységére,
+
+c) kötelezően mérendő mennyiségek, valamint egyéb mérésekből ismertté vált adatok központi gyűjtésére, feldolgozására, kezelésére, értékelésére, valamint
+
+d) az országos környezeti sugárzási helyzetre, a radioaktív szennyezettségre vonatkozó nemzetközi értesítési kötelezettségek teljesítéséhez, valamint a külön jogszabályban meghatározott országos nukleárisbaleset-elhárítási rendszer (a továbbiakban: ONER) működéséhez szükséges adatok szolgáltatására.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *ellenőrző adatszolgáltató központ:* a kiemelt létesítmények környezetében kialakult sugárzási helyzet független hatósági ellenőrzését végző mérőhálózat adatgyűjtő és szolgáltató központja;
+
+2.[^1] *abnormális észlelés:* olyan mesterséges radionuklid detektálása, amelyet általában nem detektálnak az adott mérési ponton, vagy az általában észlelt radionuklid mesterséges koncentrációja legalább egy nagyságrenddel magasabb a területre jellemző értékeknél (tartománynál), vagy az adott mérőhálózat egymástól távol (legalább 10 kilométerre) eső mérési pontjain közel egyszerre kerül detektálásra, és a radionuklid eredete nem ismert;
+
+3\. *minőségirányítási rendszer:* a vizsgáló- és kalibráló-laboratóriumok felkészültségének általános követelményeiről szóló MSZ EN ISO/IEC 17025:2005 szabvány követelményeinek megfelelő minőségirányítási rendszer;
+
+4\. *monitorozó adatszolgáltató központ:* a lakosság természetes és az orvosi sugárterhelésen kívüli mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási viszonyok, illetve a környezetben mérhető egyes radionuklidok aktivitáskoncentrációja meghatározását végző mérőhálózat vagy vizsgáló laboratórium adatgyűjtő és szolgáltató központja, az ellenőrző adatszolgáltató központ kivételével;
+
+5\. *indikatív dózis:* emberi fogyasztásra szánt ivóvíz ellátó rendszerében kimutatott természetes és mesterséges eredetű radionuklidoknak az egy év alatt beépült lekötött effektív dózisa a trícium, a kálium-40, a radon és a radon rövid felezési idejű bomlástermékei kivételével.
+
+## 3. Az Országos Környezeti Sugárvédelmi Ellenőrző Rendszer
+
+### 3. §
+
+(1)[^2] Az 1. § a) pontja szerinti mennyiségek körének a meghatározása és a környezeti sugárzást mérő szervek tevékenységének összehangolása, az országos sugárzási helyzetre vonatkozó adatok központi gyűjtése, feldolgozása, nyilvántartása és értékelése az Országos Atomenergia Hivatal (a továbbiakban: OAH) feladata.
+
+(2)[^3] A (1) bekezdés szerinti feladatok elvégzésben az országos tisztifőorvos működik közre az adatok gyűjtésében, feldolgozásában, nyilvántartásában és azok értékeléséhez szakmai támogatást nyújt az OAH részére.
+
+(3) A lakosság természetes és az orvosi sugárterhelésen kívüli mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási viszonyok és a környezetben mérhető egyes radionuklidok aktivitáskoncentrációja országos mérési eredményeinek (a továbbiakban: monitorozási adatok) gyűjtését, nyilvántartását és értékelését, valamint a kiemelt létesítmények környezetére vonatkozó sugárvédelmi hatósági ellenőrző programok koordinálását az OAH felügyeletével működő Országos Környezeti Sugárvédelmi Ellenőrző Rendszer (a továbbiakban: OKSER) végzi.
+
+(4) Az OKSER operatív szerve az OAH által működtetett Radiológiai Információs és Szolgáltató Központ (a továbbiakban: RISZK).
+
+(5) A kiemelt létesítmények környezetében kialakult sugárzási helyzetnek az engedélyes jogszabályban meghatározott környezet ellenőrzési tevékenységétől független hatósági ellenőrzését az egészségügyért felelős miniszter által vezetett minisztérium, a környezetvédelemért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium ellenőrző rendszerei, illetve ellenőrző hálózatai által szolgáltatott adatok alapján kell végezni.
+
+### 4. §
+
+Az OKSER feladatai
+
+a) az ország területén mérhető környezeti sugárzás dózisteljesítményére, illetve a környezeti elemekben, az élelmiszerekben, az ivóvízben, a takarmányokban található radioaktív izotópok, valamint a szabadban és épületekben kialakuló radon és radon leányelemek aktivitáskoncentrációira; továbbá radioaktív anyagoknak a környezetbe történő nem tervezett kibocsátását okozó rendkívüli esemény következtében az emberi szervezet belső radioaktív szennyezettségére vonatkozó eredmények gyűjtése, elemzése, nyilvántartása és értékelése,
+
+b) a kiemelt létesítmények környezetében kialakult sugárzási helyzet hatósági értékelése,
+
+c) az országos nukleárisbaleset-elhárítási rendszerről 167/2010. (V. 11.) Korm. rendelet szerinti országos nukleárisbaleset-elhárítási rendszer (a továbbiakban: ONER) működéséhez szükséges ellenőrzési és monitorozási adatok szolgáltatása,
+
+d) közreműködés a lakosságnak a környezeti sugárzási viszonyokról történő hiteles tájékoztatásában,
+
+e) közreműködés az országos környezeti sugárzási helyzetre, valamint a radioaktív szennyezettségre vonatkozó nemzetközi értesítési és tájékoztatási kötelezettségek teljesítésében, valamint
+
+f) az ellenőrzési és monitorozási eredmények éves és eseti jelentésekben történő közzététele az ellenőrző hatóságok, az Európai Bizottság és a lakosság tájékoztatása céljából.
+
+### 5. §
+
+(1)[^4] Az OKSER tevékenységében az 1. mellékletben meghatározott szervezetek (a továbbiakban együtt: az OKSER tagjai) vesznek részt.
+
+(2) Az OKSER tevékenységét az OAH koordinálásával működő Szakbizottság (a továbbiakban: OKSER SZB) irányítja, amely az OKSER tagjai által kijelölt személyekből, illetve a bizottsági elnökből és titkárból áll. Minden egyes OKSER tag egy-egy bizottsági tag jelölésére jogosult.
+
+(3)[^5] Az OKSER SZB elnöke az OAH elnöke.
+
+(4)[^6] Az OKSER működésének szabályait az OKSER Működési Rendje (a továbbiakban: Működési Rend) határozza meg, amelyet az OKSER SZB készít el és az OAH elnöke hagy jóvá.
+
+(5) A Működési Rend tartalmi követelményeit a 2. melléklet tartalmazza.
+
+(6) Az OKSER SZB az (1) bekezdésben meghatározott tagokon kívül környezeti monitorozást végző egyéb szervezetet is felkérhet, hogy az OKSER tevékenységében tanácskozási joggal részt vegyen és mérési eredményeket szolgáltasson.
+
+### 6. §
+
+(1) Az OKSER SZB feladatkörébe tartozik
+
+a)[^7] a Működési Rend kidolgozása és az OAH elnökéhez jóváhagyásra történő benyújtása,
+
+b)[^8] az OKSER 3. § (5) bekezdésében meghatározott tagjainak – az OKSER keretében végrehajtandó – éves mérési programjához iránymutatást nyújtó éves Országos Monitoring Program elfogadása, valamint a módosításának jóváhagyása.
+
+c) az éves jelentés szempontjainak kidolgozása,
+
+d) az éves jelentés és eseti jelentés jóváhagyása,
+
+e) a RISZK által készített jelentéstervezetek értékelése, elemzése és jóváhagyása,
+
+f) az OKSER SZB éves költségvetési tervének elkészítése és beterjesztése,
+
+g) a 8. § (3) bekezdése szerinti összehasonlító mérések éves programjának meghatározása, valamint
+
+h) az OKSER fejlesztésével kapcsolatos javaslatok elkészítése.
+
+(2) Az előző évre vonatkozó jelentést minden év június 30-ig kell elkészíteni.
+
+### 7. §
+
+(1) Az OKSER 3. § (5) bekezdésben nevesített tagjainak adatgyűjtő és szolgáltató központjait (a továbbiakban: ellenőrző adatszolgáltató központok), vizsgálatainak tárgyát, az alkalmazandó méréstípusokat és a kötelezően meghatározandó radionuklidok fajtáit a 3. melléklet 1. pontja határozza meg.
+
+(2) Az Európai Bizottság 2000/473/EURATOM ajánlásának megfelelő ritka és sűrű monitorozó mérőhálózat elemeit a 3. melléklet 2. pontja határozza meg.
+
+(3) Az OKSER 3. § (5) bekezdésben fel nem sorolt tagjainak adatgyűjtő és szolgáltató központjait (a továbbiakban: monitorozó adatszolgáltató központok) és az általuk végzett vizsgálatok tárgyát a 3. melléklet 3. pontja tartalmazza.
+
+(4)[^9] Az OKSER keretében végzendő vizsgálati programokra vonatkozó részletes előírásokat – a 6. § (1) bekezdés b) pontja szerint az éves Országos Monitoring Programot és az OKSER SZB javaslatát figyelembe véve – az OKSER tagjai a felelősségi területükön önállóan határozzák meg.
+
+(5) Az OKSER tagjai saját ellenőrzési programjaikat úgy állítják össze, hogy azok a vizsgált minták, a mérendő mennyiségek és azokra vonatkozó kimutatási határ tekintetében megfeleljenek a 4. mellékletben foglaltaknak is. A kimutatási határ számításának elfogadott módszerét az OKSER SZB határozza meg.
+
+(6) Az OKSER tagjai – a (7) és (8) bekezdésben foglalt kivétellel – belső szabályzatban határozzák meg az OKSER részére történő adatszolgáltatás szabályait.
+
+(7) Az egyes mérési eredmények szolgáltatását a minőségbiztosítási rendszer szerinti jóváhagyását követő legfeljebb 15 napon belül kell végrehajtani.
+
+(8)[^10] Az adott mérőhálózat szabályzatában és az SZB Működési Rendjében meghatározott kivizsgálási szint elérése esetében, továbbá nukleáris veszélyhelyzet vagy abnormális észlelés esetében az adatszolgáltatást haladéktalanul teljesíteni kell.
+
+### 8. §
+
+(1)[^11] Az ellenőrző és monitorozó adatszolgáltató központok az általuk gyűjtött mérési eredményeket az 5. melléklet szerinti adattartalommal, a 7. § (7) és (8) bekezdésében meghatározott gyakorisággal és az SZB által elfogadott adatformátumban küldik meg a RISZK-be.
+
+(2) A RISZK-be küldött adatok hitelességének biztosítására az ellenőrző adatszolgáltató központoknak a mintavételi és a mérési tevékenységükre is kiterjedő minőségirányítási rendszert kell működtetniük.
+
+(3) A mérési eredmények egységes minőségbiztosítása érdekében olyan rendszeres összehasonlító méréseket kell szervezni, vagy olyan nemzetközi összehasonlító mérési programokban részt venni, amelyekkel az alkalmazott mérési módszerek validálása elvégezhető.
+
+(4) A mérési eredményekkel a beküldő OKSER tag rendelkezik. A mérési eredményeket az OKSER tagjai nem kereskedelmi célú feldolgozások és elemzések készítéséhez felelősségi területükön a beküldő hozzájárulásával és megnevezésével térítésmentesen felhasználhatják.
+
+(5) Az OKSER SZB a mérési eredményeket feldolgozások és elemzések készítéséhez kizárólag a Működési Rendben meghatározott módon használhatja fel.
+
+(6)[^12] A következő évre vonatkozó Országos Monitoring Programot minden év december 31-ig el kell fogadni.
+
+### 9. §
+
+A RISZK feladatkörébe tartozik
+
+a) a mérési eredmények központi számítógépes gyűjtése, feldolgozása, értékelése és nyilvántartása,
+
+b) on-line hozzáférés biztosítása a tárolt adatokhoz és az értékelési eredményekhez az OKSER SZB, az ONER működtetésében részt vevő hivatásos katasztrófavédelmi szerv központi szerve és az ONER kormányzati szervei részére,
+
+c) az ország nemzetközi értesítési kötelezettségének teljesítése érdekében a környezeti sugárzási helyzetre, valamint a radioaktív szennyezettségre jellemző adatok megfelelő formátumú biztosítása,
+
+d) az éves jelentés összeállítása a Működési Rend által meghatározott tartalommal és formában, továbbá annak benyújtása az OSKER SZB-hez jóváhagyásra,
+
+e) az OKSER SZB felkérésére eseti jelentés összeállítása és benyújtása az OKSER SZB-hez jóváhagyásra,
+
+f) a RISZK ügyrendjének, valamint éves költségvetési tervének elkészítése és benyújtása,
+
+g) az OKSER SZB felkérésére eseti jelentés elkészítése az OKSER SZB által meghatározott tartalommal.
+
+h)[^13] nukleáris veszélyhelyzetben az eseti mérések, valamint az ideiglenes mérési programok alapján nyert mérési eredmények központi számítógépes gyűjtése, feldolgozása és adatszolgáltatás az ONER kormányzati szervei részére.
+
+### 10. §
+
+(1) Az OAH költségvetéséből kell biztosítani az OKSER SZB és a RISZK működtetésének a költségeit.
+
+(2) Az érintett szerveknek a tárgyévi költségvetését úgy kell előkészítenie, hogy az előírt feladatokkal kapcsolatos többletforrás biztosítva legyen.
+
+(3) Az ellenőrző adatszolgáltató központok működési és fejlesztési költségeit – beleértve a 8. § (3) meghatározott validálási célú méréseket is – az érintett minisztériumok költségvetéseikben szakmai fejezeti kezelésű előirányzatként biztosítják.
+
+## 4. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.
+
+### 13. §
+
+(1) Ez a rendelet az Európai Atomenergia Közösséget létrehozó szerződés 2. cím III. fejezetének 35. cikkével összeegyeztethető szabályozást tartalmaz.
+
+(2) Ez a rendelet az Európai Bizottság 2000/473/EURATOM ajánlásának I. és III. számú mellékletében foglaltakkal összeegyeztethető szabályozást tartalmaz.
+
+(3) Ez a rendelet a lakosság egészségének az emberi fogyasztásra szánt vízben található radioaktív anyagokkal szembeni védelmére vonatkozó követelmények meghatározásáról szóló, 2013. október 22-i 2013/51/EURATOM irányelv 2. cikk 3. pontjában, 6. cikkében, valamint a III. mellékletben foglaltakkal összeegyeztethető szabályozást tartalmaz.
+
+(4) Az 5. § (4) bekezdés szerinti működési rendet első alkalommal 2016. március 31-ig kell benyújtani.
+
+## 1. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^15]
+
+**Az OKSER tagjai**
+
+1\. a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium,
+
+2\. az egészségügyért felelős miniszter által vezetett minisztérium,
+
+3\. a környezetvédelemért felelős miniszter által vezetett minisztérium,
+
+4\. az agrárpolitikáért felelős miniszter által vezetett minisztérium,
+
+5\. az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium,
+
+6.[^16] a felsőoktatásért felelős miniszter által vezetett minisztérium,
+
+7\. a honvédelemért felelős miniszter által vezetett minisztérium,
+
+8\. a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium,
+
+9.[^17] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HungaroMet Nonprofit Zrt.),
+
+10\. a Magyar Tudományos Akadémia, (a továbbiakban: MTA),
+
+11\. az OAH,
+
+12\. az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság,
+
+13\. a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft (a továbbiakban: RHK Kft.),
+
+14\. a Mecsekérc Zártkörűen Működő Részvénytársaság,
+
+15.[^18] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
+
+16.[^19] a Magyar Kutatási Hálózat.
+
+17.[^20] IZOTÓP INTÉZET Kutató, Fejlesztő, Termelő és Szolgáltató Korlátolt Felelősségű Társaság,
+
+18.[^21] Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság.
+
+## 2. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
+
+**Az OKSER Működési Rendjére vonatkozó tartalmi előírások**
+
+1\. Az OKSER SZB működési szabályai, különös tekintettel az ülésezés rendjére, a határozatképesség, szavazati jog és döntéshozatal szabályozására, illetve a képviseleti, aláírási jog gyakorlására
+
+2\. Az OKSER SZB, illetve az OKSER SZB elnökének és titkárának feladatköre
+
+3\. A RISZK működési szabályai és feladatai
+
+4\. Az OKSER tagjainak az OKSER keretébe tartozó környezeti sugárvédelmi ellenőrzési feladatai
+
+5\. Az adatgyűjtő és szolgáltató központok adatszolgáltatási kötelezettségei és jogosultságai
+
+6\. A RISZK-nek az ellenőrzési eredmények gyűjtésére, feldolgozására, elemzésére, továbbá azok hozzáférhetőségét és közzétételét biztosító tevékenységére vonatkozó részletes szabályok
+
+7\. Az OKSER éves jelentésének tartalmi és formai előírásai
+
+## 3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^22]
+
+1\. **Ellenőrző adatszolgáltató központok, valamint**
+
+**az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya**
+
+**és a kötelezően mérendő mennyiségek köre**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1** | **OKSER tag** | **Adatszolgáltató központ** | **Vizsgálatok tárgya** |
+| **2** | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Nemzeti Népegészségügyi és Gyógyszerészeti Központ) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
+| **3** | az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium | Nemzeti Élelmiszerlánc-biztonsági Hivatal | levegő, ivóvíz, a talaj, a növényzet, a növényi és az állati eredetű élelmiszertermékek, takarmányok, mezőgazdasági tevékenységgel és erdőgazdálkodással összefüggő egyéb minták |
+| **4** | a környezetvédelemért felelős miniszter által vezetett minisztérium | Regionális Környezetvédelmi Mérőközpontok | levegő, szárazföldi környezet, vízi környezet, környezeti gamma-dózisteljesítmény |
+
+|  |  | **A** | B | C | D | E | F | G | H | I |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | 1 |  | **Gamma-** **dózis-** **teljesítmény** | **Összes béta** | **Gamma-** **spektrometria** | **Sr-90** | **H-3** | **I-131** | **Radon** | **Indikatív dózis** <sup>(a)</sup> |
+|  | 2 | levegő <sup>(b)</sup> |  | aeroszol | aeroszol |  |  | elemi és szerves | x |  |
+|  | 3 | környezeti sugárzási szint | x |  |  |  |  |  |  |  |
+|  | 4 | felszíni víz <sup>(c)</sup> |  | x | x |  |  |  |  |  |
+|  | 5 | ivóvíz <sup>(d)</sup> |  |  | x | x | x |  | x | x |
+|  | 6 | tej |  |  | x | x |  |  |  |  |
+|  | 7 | egyéb élelmiszerek és takarmányok |  |  | x | x |  |  |  |  |
+
+1.2.1. Megjegyzések:
+
+1.2.1.1.
+
+(a) = Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet szerint.
+
+1.2.1.2.
+
+(b) = A levegő mintavételezésére folyamatos üzemű mintavevőt kell alkalmazni.
+
+1.2.1.3.
+
+(c) = Folyóvíz mintavételezését lehetőleg ott kell végezni, ahol lehetőség van az áramlási sebesség mérésére is, melyet szintén közölni kell az aktivitáskoncentráció mérési eredménye mellett.
+
+1.2.1.4.
+
+(d) = Beleértve palackozott vizek is.
+
+2\. **A ritka és sűrű monitoring mérőhálózat felépítése**
+
+2.1. Az Európai Unió ritka mérőhálózatának célja, hogy az adott országra jellemző mintavételi helyen vételezett minták nagy érzékenységű - a 4. melléklet I. táblázatában megnevezett jellemzők mindenkori aktuális értékeinek kimutatását biztosító mérésével az ország területére minta típusonként jellemző mérési eredményeket lehessen nyerni, amelyekből a sugárzási helyzet változásai országos viszonylatban követhetőek. Az országot jellemző mintavételi helyet és mérőpontot az OKSER SZB jelöli ki.
+
+2.2. A sűrű mérőhálózat célja az ország területének olyan mintavételi helyekkel történő lefedése, amely minták mérésével nyerhető adatok alapján az ország területére jellemző átlagos sugárzási viszonyok számíthatók. A sűrű mérőhálózat alapját az ellenőrző adatszolgáltató hálózatok képezik, de a monitorozó adatszolgáltató hálózatok is bevonásra kerülnek.
+
+<table><tbody><tr><td></td><td></td><td>**A**</td><td>**B**</td><td>**C**</td></tr><tr><td></td><td>1</td><td>**OKSER tag**</td><td>**Adatszolgáltató központ**</td><td>**Vizsgálatok tárgya**</td></tr><tr><td></td><td>2</td><td>a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium</td><td>Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ</td><td><sup>(a)</sup>környezeti gamma-dózis-teljesítmény <sup>(b)</sup>levegő aeroszol</td></tr><tr><td></td><td>3</td><td rowspan="2">a felsőoktatásért felelős miniszter által vezetett minisztérium</td><td>a Budapesti Műszaki és Gazdaságtudományi Egyetem, Nukleáris Technikai Intézet Tanreaktora Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszere</td><td>levegő aeroszol, levegő fall-out, környezeti gammadózis-teljesítmény</td></tr><tr><td></td><td>4</td><td>Eötvös Loránd Tudományegyetem,<br>Debreceni Egyetem, Kaposvári Egyetem, Nyugat-magyarországi Egyetem (Sopron), Nyugat-magyarországi Egyetem (Székesfehérvár), Nyugat-magyarországi Egyetem (Szombathely), Pannon Egyetem,<br>Pécsi Tudományegyetem,<br>Semmelweis Egyetem,<br>Szegedi Tudományegyetem, Szent István Egyetem<br>környezeti ellenőrzési rendszere</td><td>környezeti gammadózis-teljesítmény</td></tr><tr><td></td><td>5</td><td>Magyar Kutatási Hálózat</td><td>Energiatudományi Kutatóközpont Környezetvédelmi Szolgálat</td><td>levegő, üzemi víz, környezeti gamma-dózisteljesítmény</td></tr><tr><td></td><td>6</td><td>Magyar Kutatási Hálózat</td><td>Atommagkutató Intézet környezeti sugárvédelmi ellenőrző rendszere</td><td>levegő, környezeti gamma-dózisteljesítmény</td></tr><tr><td></td><td>7</td><td>Magyar Kutatási Hálózat</td><td>Természettudományi Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere</td><td>levegő, környezeti gamma-dózisteljesítmény</td></tr><tr><td></td><td>8</td><td>Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság</td><td>Mecseki Környezetvédelmi Bázis, Kővágószőlősi Fióktelep</td><td>levegő, szárazföldi környezet, vízi környezet, környezeti gamma-dózisteljesítmény, radon</td></tr><tr><td></td><td>9</td><td>MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság</td><td>Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszer</td><td>levegő, vízi környezet, környezeti gamma-dózisteljesítmény</td></tr><tr><td></td><td>10</td><td>RHK Kft.</td><td>a Radioaktív Hulladék Feldolgozó és Tároló és az Nemzeti Radioaktív Hulladék Tároló Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszerei</td><td>levegő, szárazföldi környezet, vízi környezet, környezeti gamma-dózisteljesítmény</td></tr></tbody></table>
+
+3.1. Megjegyzések:
+
+3.1.1.
+
+(a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, a HungaroMet Nonprofit Zrt., az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+
+3.1.2.
+
+(b) = a levegő aeroszol mérése a HungaroMet Nonprofit Zrt. által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+
+## 4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^23]
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr></thead><tbody><tr><td>**1**</td><td rowspan="2">**Minta**</td><td colspan="2">**Mérendő mennyiségek**</td></tr><tr><td>**2**</td><td>**Sűrű hálózatos**</td><td>**Ritka hálózatos**</td></tr><tr><td>**3**</td><td>Levegő aeroszol</td><td>a) Cs-137 aktivitáskoncentráció<br>b) összes béta és Be-7 aktivitáskoncentráció</td><td>a) Cs-137<br>b) összes béta és Be-7 aktivitáskoncentráció<br>c) elemi és szerves I-131</td></tr><tr><td>**4**</td><td>Környezeti sugárzási szint</td><td>a) Környezeti gammadózis-teljesítmény</td><td>a) Környezeti gammadózis-teljesítmény</td></tr><tr><td>**5**</td><td>Felszíni víz</td><td>a) Cs-137 aktivitáskoncentráció,<br>b) maradék béta és gamma sugárzó izotópok aktivitás-<br>koncentrációja</td><td>a) Cs-137 aktivitáskoncentráció<br>b) maradék béta és gamma sugárzó izotópok aktivitás-koncentrációja</td></tr><tr><td>**6**</td><td>Ivóvíz</td><td>a) H-3, Sr-90, Cs-137 aktivitáskoncentráció<br>b) természetes radionuklidok aktivitáskoncentrációja az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló Korm. rendelet szerint<br>c) radon aktivitás-koncentrációja<br>d) indikatív dózis</td><td>a) H-3, Sr-90, Cs-137 aktivitáskoncentráció<br>b) természetes radionuklidok aktivitás-koncentrációja az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló Korm. rendelet szerint<br>c) radon aktivitás-koncentrációja<br>d) indikatív dózis</td></tr><tr><td>**7**</td><td>Tej</td><td>Cs-137, Sr-90 és K-40 aktivitáskoncentráció</td><td>Cs-137, Sr-90, K-40 aktivitáskoncentráció</td></tr><tr><td>**8**</td><td>Vegyes élelmiszer</td><td>Cs-137, Sr-90 aktivitáskoncentráció</td><td>Cs-137, Sr-90, aktivitáskoncentráció</td></tr></tbody></table>
+
+.
+
+2\. **Az alkalmazott mérések jelentési szintjei**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1** | **Minta típusa** | **Meghatározandó mennyiség** | **Jelentési szint** |
+| **2** | Levegő | Összes béta (Sr-90 ekvivalens aktivitáskoncentráció) Cs-137 aktivitáskoncentráció | 5 E–03 Bq/m<sup>3</sup>3 E–02 Bq/m<sup>3</sup> |
+| **3** | Felszíni vizek | Maradék béta (Sr-90 izotóp alapján) Cs-137 aktivitáskoncentráció | 6 E–01 Bq/l 1 E+00 Bq/l |
+| **4** | Ivóvíz | H-3 aktivitáskoncentráció Sr-90 aktivitáskoncentráció Cs-137 aktivitáskoncentráció Rn-222 | 1 E+01 Bq/l 4 E–01 Bq/l 5 E–01 Bq/l 1 E+01 Bq/l |
+| **5** | Tej | Sr-90 aktivitáskoncentráció Cs-137 aktivitáskoncentráció | 2 E–01 Bq/l 5 E–01 Bq/l |
+| **6** | Vegyes élelmiszer | Sr-90 aktivitáskoncentráció Cs-137 aktivitáskoncentráció | 1 E–01 *Bq/d.p <sup>(a)</sup>2 E–01 *Bq/d.p <sup>(b)</sup> |
+
+2.2. Magyarázat:
+
+2.2.1.
+
+(a) = Becquerel személyenként és naponta,
+
+2.2.2.
+
+(b) = Becquerel személyenként és naponta.
+
+## 5. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
+
+**A vizsgálatokhoz tartozó adatközlés megkövetelt tartalma**
+
+1\. Követelmények a mintavételi adatokra vonatkozóan:
+
+1.1. a minta jellemzői:
+
+1.1.1. a minta típusa
+
+1.1.2. érték típusa
+
+1.2. dátum és idő:
+
+1.2.1. a mintavétel időpontja
+
+1.2.2. dátum jellege
+
+1.2.3. a mintázási idő hossza (órában)
+
+1.3. mintavételi hely:
+
+1.3.1. helységnév
+
+1.3.2. mintavételi helyazonosító-kód vagy a mintavétel helyének megjelölése
+
+1.3.3. szélességi és hosszúsági adatok
+
+1.3.4. a felszíni vizekre a vízgyűjtő terület (folyó, tó, víztározó) neve
+
+2\. Követelmények a mérési adatokra vonatkozóan
+
+2.1. Laboratóriumi neve
+
+2.2. Radionuklid jele vagy kategóriája
+
+2.3. A mintafeldolgozás leírása
+
+2.4. Mérőkészülék típusa
+
+2.5. Mért aktivitás értéke
+
+2.6. Mérési bizonytalanság mértéke
+
+2.7. Mérési bizonytalanság típusa
+
+2.8. Mértékegység
+
+2.9. Referencia dátum (amelyre az aktivitásértékét megadják)
+
+2.10. Áramlási sebesség (folyóvíz esetén)
+
+2.11. Termelési ráta (tej és kitermelt ivóvíz)
+
+2.12. Gyártott vagy forgalmazott mennyiség egy év alatt (palackozott ivóvíz)
+
+---
+
+[^1]: A 2. § 2. pontját a 36/2020. (III. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte, újonnan a 209/2022. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^2]: A 3. § (1) bekezdése a 36/2020. (III. 5.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdése a 36/2020. (III. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^5]: Az 5. § (3) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 5. § (4) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés a) pontja a 767/2021. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés b) pontja a 209/2022. (VI. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^9]: A 7. § (4) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^10]: A 7. § (8) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^12]: A 8. § (6) bekezdése a 36/2020. (III. 5.) Korm. rendelet 17. § a) pontja, a 209/2022. (VI. 14.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^13]: A 9. § h) pontját a 209/2022. (VI. 14.) Korm. rendelet 8. § (5) bekezdése iktatta be.
+[^15]: [A 659/2023. (XII. 28.) Korm. rendelet 49. §-ával elrendelt módosítás, amely szerint hatályát veszti az 1. melléklet 1.2.1. pont 1.2.1.1. alpontjában a „201/2001. (X. 25.)” szövegrész, nem vezethető át.]
+[^16]: Az 1. § 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet 9. pontja az 591/2023. (XII. 20.) Korm. rendelet 20. § a) pontjával megállapított szöveg.
+[^18]: Az 1. melléklet 15. pontja a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^21]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^22]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja, az 591/2023. (XII. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^23]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja, a 659/2023. (XII. 28.) Korm. rendelet 48. §-a szerint módosított szöveg.

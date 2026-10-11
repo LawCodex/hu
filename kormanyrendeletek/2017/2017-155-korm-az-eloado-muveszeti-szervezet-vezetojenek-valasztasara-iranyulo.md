@@ -1,0 +1,138 @@
+---
+title: "155/2017. (VI. 15.) Korm. rendelet az előadó-művészeti szervezet vezetőjének választására irányuló pályázati eljárásról és a munkakör betöltésének szabályairól"
+identifier: "155/2017. (VI. 15.) Korm. rendelet"
+njt_id: "2017-155-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/155"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-06-15
+in_force_from: 2017-07-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-155-20-22"
+retrieved: 2026-10-12
+---
+
+# 155/2017. (VI. 15.) Korm. rendelet az előadó-művészeti szervezet vezetőjének választására irányuló pályázati eljárásról és a munkakör betöltésének szabályairól
+
+A Kormány az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (1) bekezdés *r)* és *s)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet hatálya az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény (a továbbiakban: Emtv.) alapján nyilvántartásba vett, költségvetési szervként működő vagy a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó, állami vagy önkormányzati irányítási, felügyeleti vagy tulajdonosi joggyakorlóval rendelkező előadó-művészeti szervezetnél a munkáltató vezetőjének (a továbbiakban: vezető) megválasztására irányuló pályázati eljárásra, valamint a munkakör betöltésének szabályaira terjed ki.
+
+## 2. §
+
+(1) A vezető megválasztására irányuló pályázatot a munkáltatói jogkör gyakorlója írja ki, és köteles a pályázati felhívást a kultúráért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium honlapján közzétenni. A közzététel napjának a minisztérium honlapján való megjelenést kell tekinteni.
+
+(2) A szakmai munka folytonossága érdekében a pályázatot a munkáltatói jogkör gyakorlója legalább hat hónappal a határozott idejű jogviszony megszűnése előtt hirdeti meg.
+
+(3) A pályázat benyújtásának határideje a közzétételtől számított harminc munkanap.
+
+(4) Ha a vezető munkaviszonya a határozott idejű jogviszony lejárta előtt megszűnik, a pályázatot a megszűnéstől számított hatvan napon belül ki kell írni.
+
+(5)[^1] A (4) bekezdésben meghatározott esetben, vagy ha a (2) bekezdésben meghatározott idő alatt a pályázatot nem lehet kiírni vagy lefolytatni, a korábbi vezető, annak helyettese, vagy akadályoztatásuk esetén a munkáltatói jogkör gyakorlója által meghatározott, a 8. § szerinti feltételeknek megfelelő személy határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.
+
+## 3. §
+
+(1) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott, így különösen az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival és a foglalkoztatással kapcsolatos elemeket.
+
+(2) A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció és személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
+
+## 4. §
+
+(1) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel, melynek tagjai:
+
+a) az érintett, Emtv. 5/A. § (2) bekezdése szerinti előadó-művészeti bizottság(ok) négy,
+
+b) a miniszter egy,
+
+c) a munkavállalók és az előadó-művészeti szervezetnél munkavégzésre irányuló jogviszonyban foglalkoztatottak által egyszerű többséggel választott egy,
+
+d) az előadó-művészeti szervezetnél a pályázati felhívás közzétételét megelőző hónap 1. napján legnagyobb létszámú tagsággal rendelkező szakszervezet egy, továbbá
+
+e) az előadó-művészeti szervezet fenntartójának két
+
+képviselője.
+
+(2) Az (1) bekezdés *c)* pontja szerinti tag felkérése érdekében szükséges eljárás lebonyolítását a közalkalmazotti tanács vagy üzemi tanács, ezek hiányában a szervezet munkaügyi alapnyilvántartásának vezetéséért felelős vezető végzi. Az eljárásról jegyzőkönyv készül. A választott képviselő személyéről az arra jogosult a munkáltatói jogkör gyakorlóját a pályázat benyújtásának határidejéig értesíti.
+
+(3) Az (1) bekezdés *d)* pontja szerinti tag felkérése érdekében a szakszervezet a pályázat közzétételét követő 15 napon belül köteles írásban a munkáltatói jogkör gyakorlójának tudomására hozni az előadó-művészeti szervezetnél foglalkoztatott szakszervezeti tagok létszámát. Ennek hiányában a szakszervezet képviselője nem kérhető fel a szakmai bizottság tagjának.
+
+## 5. §
+
+(1) A pályázatokat véleményező szakmai bizottság ülését a benyújtási határidőt követő harminc napon belül szükséges megtartani. A bizottság véleményének megfogalmazásához a tagok többségének jelenléte szükséges.
+
+(2) A pályázatok véleményezése a pályázók személyes meghallgatását követően, pályázatonként történik, a pályázat támogatottságára vonatkozó szavazás és összegző vélemény megfogalmazása keretében.
+
+(3) A szakmai bizottság több pályázatot is támogathat. Támogatottnak azt a pályázatot kell tekinteni, amely a jelen levő bizottsági tagok többségének támogató szavazatát megkapta.
+
+(4) A szakmai bizottság üléséről és a szavazás eredményéről írásbeli jegyzőkönyv készül, amelynek melléklete a pályázatonként elkészített összegző vélemény, melyet a szavazás részletes eredményével együtt ismertetni kell a döntéshozóval.
+
+(5) Önkormányzati fenntartó esetén a szakmai bizottság képviselői a pályázatonként elkészített összegző véleményt és a szavazás részletes eredményét a fenntartónak a pályázatokat véleményező illetékes önkormányzati bizottsági ülésén is ismertetik.
+
+(6) A szakmai bizottság tagjai közreműködésükért díjazásban nem részesülnek, de igazolt utazási költségeik megtérítésére jogosultak.
+
+## 6. §
+
+(1) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a kinevezési jogkör gyakorlója a szakmai bizottság ülését követő harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt.
+
+(2) A nemzetiségi előadó-művészeti szervezet esetében a kinevezési jogkör gyakorlója – ha az nem az érintett nemzetiségi önkormányzat – az érintett nemzetiségi önkormányzat egyetértésével dönt.
+
+(3) A döntést a szakmai bizottság pályázatonként elkészített összegző véleményével és a szavazás részletes eredményével együtt a helyben szokásos módon nyilvánosságra kell hozni.
+
+(4) A kinevezési jogkör gyakorlója a szakmai bizottság által nem támogatott pályázó kinevezésére vonatkozó döntését köteles megindokolni, az indokolást a döntéssel egyidejűleg nyilvánosságra kell hozni.
+
+(5) A kinevezési jogkör gyakorlója a sikeres pályázat egy példányát a döntést követő 15 napon belül megküldi az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokra kormányrendeletben kijelölt szerv részére, mely szerv gondoskodik a sikeres pályázat megismerhetőségéről, nyilvánosságának biztosításáról.
+
+(6) Ha a pályázat eredménytelen, úgy legkésőbb az eredménytelenségről szóló döntéstől számított hatvan napon belül újra ki kell írni a pályázatot.
+
+(7) Eredménytelen pályázati eljárás esetén a fenntartó a korábbi vezetőt, vagy annak akadályoztatása esetén a munkáltatói jogkör gyakorlója által meghatározott, a 8. § szerinti feltételeknek megfelelő személyt határozott időre, de legfeljebb az új vezető kinevezéséig megbízhatja a vezetői feladatok ellátásával.
+
+(8) A (7) bekezdés szerinti megbízás az előadó-művészeti szervezet nemzeti, vagy kiemelt előadó-művészeti szervezetté minősítését és az elnyert cím megtartását nem érinti.
+
+## 7. §
+
+(1) A benyújtott pályázat tartalmát – ide nem értve a személyes adatokat – a kinevezési jogkör gyakorlója a helyben szokásos módon közölheti harmadik személlyel. A pályázó sikeres pályázata a pályázat benyújtásakor megtett előzetes nyilatkozata alapján nyilvánosságra kerül.
+
+(2) Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Ha a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni, és személyes adatait törölni kell.
+
+## 8. §
+
+(1) A vezető munkakörének ellátásával
+
+a) (2) bekezdés szerinti szakirányú felsőfokú végzettséggel és
+
+b) legalább ötéves, a (4) bekezdés szerinti szakmai gyakorlattal vagy legalább hároméves előadó-művészeti szervezetben szerzett vezetői gyakorlattal
+
+rendelkező személy bízható meg.
+
+(2) Szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő felsőfokú végzettség és szakképzettség, vagy jogász vagy közgazdász szakképzettség.
+
+(3) Jogász vagy közgazdász szakképzettségű vezető foglalkoztatása esetén a szervezetnél művészeti vezetőt kell foglalkoztatni.
+
+(4) Szakmai gyakorlatnak minősül a valamely előadó-művészeti szervezetnél, a szervezet alaptevékenységének megfelelő és ahhoz közvetlenül kapcsolódó munkakörben, munkavégzésre irányuló egyéb jogviszony esetében pedig az ilyen feladatkörben eltöltött idő. Vezetői gyakorlatnak minősül a valamely előadó-művészeti szervezetnél vezetői vagy magasabb vezetői munkakörben, vagy e feladatkörben munkavégzésre irányuló egyéb jogviszonyban eltöltött idő.
+
+(5) A (2) bekezdésben meghatározott szakirányú felsőfokú végzettség és szakképzettség megszerzésének követelménye alól
+
+a) a Kossuth-díjban, a Magyar Köztársaság Kiváló Művésze és a Magyar Köztársaság Érdemes Művésze, valamint a Magyarország Kiváló Művésze és Magyarország Érdemes Művésze díjban részesített,
+
+b) a művészet tudományterületen színházművészet, zeneművészet, tánc- és mozdulatművészet tudományágban tudományos (PhD vagy DLA) fokozatot szerzett
+
+személy mentesül.
+
+(6)[^2] A miniszter eredménytelen pályázat esetén, a kinevezési jogkör gyakorlójának javaslatára az (1) bekezdés *b)* pontjában meghatározott szakmai, illetve vezetői gyakorlat és a (2) bekezdésben meghatározott szakirányú felsőfokú végzettség, szakképzettség megszerzésének követelménye alól egyedi esetben mentesítést adhat. A mentesítésben meg kell határozni az előadó-művészeti szervezet felelős gazdálkodását biztosító minimális képesítési követelményeket, valamint a minimálisan elvárt szakmai vagy vezetői gyakorlat idejét.
+
+## 9. §
+
+A miniszter a pályázati eljárásról az előadó-művészeti szervezet fenntartójától tájékoztatást kérhet.
+
+## 10. §
+
+Ez a rendelet 2017. július 1-jén lép hatályba.
+
+---
+
+[^1]: A 2. § (5) bekezdése a 308/2018. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^2]: A 8. § (6) bekezdése a 308/2018. (XII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

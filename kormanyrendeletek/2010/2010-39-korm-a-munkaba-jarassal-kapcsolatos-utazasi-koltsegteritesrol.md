@@ -1,0 +1,140 @@
+---
+title: "39/2010. (II. 26.) Korm. rendelet a munkába járással kapcsolatos utazási költségtérítésről"
+identifier: "39/2010. (II. 26.) Korm. rendelet"
+njt_id: "2010-39-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/39"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-02-26
+in_force_from: 2010-05-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-39-20-22"
+retrieved: 2026-10-12
+---
+
+# 39/2010. (II. 26.) Korm. rendelet a munkába járással kapcsolatos utazási költségtérítésről
+
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 153. § (2) bekezdésében – e rendelet 6. § (2) bekezdésében foglalt rendelkezések vonatkozásában a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 43. § (4)–(5) bekezdésében, a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés g) és k) pontjában, a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 66. § (3) bekezdésében, az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdésében – foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A rendelet hatálya kiterjed a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóra és munkavállalóra.
+
+(2)[^2] Jogszabály eltérő rendelkezésének hiányában e rendeletet megfelelően alkalmazni kell a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a bírák jogállásáról és javadalmazásáról szóló törvény, a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény, a honvédelmi alkalmazottak jogállásáról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény, az egészségügyi szolgálati jogviszonyról szóló törvény, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó munkáltatóra és munkavállalóra.
+
+(3)[^3] E rendelet hatálya nem terjed ki a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatra kihelyezettekre, a tartós külszolgálati kihelyezés előtt álló, a Külszoltv. 11. §-a szerinti külszolgálati felkészülőkre, a tartós külszolgálatot követő átmeneti belső elhelyezéssel érintett, a Külszoltv. 21. §-a szerinti belföldi felkészülőkre, valamint a Külszoltv. 2. § 15. és 16. pontjában meghatározott személyekre.
+
+## 2. §
+
+E rendelet alkalmazásában:
+
+a) *munkába járás:*
+
+aa) a közigazgatási határon kívülről a lakóhely vagy tartózkodási hely, valamint a munkavégzés helye között munkavégzési célból történő helyközi (távolsági) utazással, illetve átutazás céljából helyi közösségi közlekedéssel megvalósuló napi munkába járás és hazautazás, továbbá
+
+ab)[^4] a közigazgatási határon belül, a lakóhely vagy tartózkodási hely, valamint a munkavégzés helye között munkavégzési célból történő napi munkába járás és hazautazás is, amennyiben a munkavállaló a munkavégzés helyét – annak földrajzi elhelyezkedése miatt – sem helyi, sem helyközi közösségi közlekedéssel nem tudja elérni, vagy olyan helyi közösségi közlekedési eszközzel tudja elérni, amelynek közlekedési útvonalát kifejezetten a település külterületén lévő munkáltató elérhetőségének biztosítása miatt létesítették, vagy módosították;
+
+b) *napi munkába járás:* a lakóhely vagy a tartózkodási hely és a munkavégzés helye közötti napi, valamint a munkarendtől függő gyakoriságú rendszeres vagy esetenkénti oda- és visszautazás;
+
+c)[^5] *hazautazás:* a munkahelyről legfeljebb hetente egyszer – az általános munkarendtől eltérő munkaidő-beosztás esetén legfeljebb havonta négyszer – a lakóhelyre történő oda- és visszautazás;
+
+d)[^6] *lakóhely:* annak a lakásnak a címe, amelyben a munkavállaló él, illetve amelyben életvitelszerűen lakik;
+
+e)[^7] *tartózkodási hely:* annak a lakásnak a címe, amelyben a munkavállaló – lakóhelye végleges elhagyásának szándéka nélkül – munkavégzési célból ideiglenesen tartózkodik;
+
+f)[^8]
+
+g) *hosszú várakozás:* az az időtartam, amely a munkavállaló személyi, családi vagy egyéb körülményeire tekintettel aránytalanul hosszú, és amely az út megtételéhez szükséges időt meghaladja;
+
+h)[^9] *gyermek:* az Mt. 294. § (1) bekezdés c) pontjában meghatározott személy.
+
+## 3. §
+
+(1) A munkáltató megtéríti a munkavállaló munkába járását szolgáló teljes árú, valamint a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerinti utazási kedvezménnyel megváltott, illetve az üzletpolitikai kedvezménnyel csökkentett árú bérlet vagy menetjegy árának (2)–(3) bekezdésben foglalt mértékét, amennyiben a munkavállaló
+
+a) belföldi vagy határon átmenő országos közforgalmú vasút 2. kocsiosztályán,
+
+b)[^10] menetrend szerinti országos, regionális és elővárosi autóbuszjáraton,
+
+c)[^11] elővárosi vasúton (HÉV-en),
+
+d) menetrend szerint közlekedő hajón, kompon, vagy réven
+
+utazik a munkavégzés helyére, továbbá, ha hazautazás céljából légi közlekedési járművet vesz igénybe.
+
+(1a)[^12] A munkáltató a munkavállalóval való megállapodás szerint nem téríti meg az (1) bekezdésben meghatározott költségeket, ha a munkavállalóinak lakóhelyük (tartózkodási helyük) és a munkahelyük között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
+
+(1b)[^13] A munkáltató az (1) bekezdés a)–d) pontjában foglaltak figyelembevételével a következő menetjegyek és bérletek árának a (2) és (3) bekezdésben foglalt mértékét megtéríti a munkavállaló számára:
+
+a) bármely menetjegy vagy bérlet, amelyről a feltüntetett viszonylat alapján megállapítható, hogy alkalmas napi munkába járásra és hazautazásra,
+
+b)[^14] helyközi országbérlet, helyközi vármegyebérlet, valamint egyéb olyan, az országosnál kisebb területi érvényességű bérlet, amely meghatározott területen érvényes, továbbá alkalmas és szükséges a napi munkába járásra és hazautazásra történő felhasználásra.
+
+(2) A munkáltató által fizetett napi munkába járással kapcsolatos költségtérítés a bérlettel vagy menetjeggyel való elszámolás ellenében azok árának legalább 86%-a.
+
+(3) A munkáltató által fizetett hazautazással kapcsolatos költségtérítés a bérlettel vagy menetjeggyel való elszámolás ellenében azok árának legalább 86%-a, legfeljebb havonta
+
+a) 2010-ben 30 000 forint,
+
+b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^15]
+
+(3a)[^16] Ha a munkába járáshoz a bérletet vagy menetjegyet elektronikus úton és papírra ki nem nyomtatható módon váltották meg, a (2) és (3) bekezdés szerinti elszámolás a bérlet vagy menetjegy vásárlásáról kiállított elektronikus számla és a szolgáltató által ahhoz kiadott igazolás alapján történik.
+
+(4)[^17] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^18]
+
+## 4. §[^19]
+
+(1) A munkavállaló részére a 3. § szerinti térítés helyett a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 25. § (2) bekezdésében munkába járás költségtérítése címén meghatározott összeg 60 százaléka akkor jár, ha
+
+a) a munkavállaló lakóhelye vagy tartózkodási helye, valamint a munkavégzés helye között nincsen közösségi közlekedés;
+
+b) a munkavállaló munkarendje miatt nem vagy csak hosszú várakozással tudja igénybe venni a közösségi közlekedést;
+
+c) ha a munkavállaló mozgáskorlátozottsága, illetve a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerinti súlyos fogyatékossága miatt nem képes közösségi közlekedési járművet igénybe venni, ideértve azt az esetet is, ha a munkavállaló munkába járását az Mt. 294. § (1) bekezdés b) pontjában felsorolt hozzátartozója biztosítja;
+
+d) a munkavállalónak bölcsődei ellátást igénybe vevő vagy tíz év alatti köznevelési intézményben tanuló gyermeke van.
+
+(2) A költségtérítést az Szja tv. 25. § (2) bekezdésében meghatározott összeg és az (1) bekezdésben meghatározott összeg különbözetéig a munkáltató mérlegelési jogkörben nyújthatja az (1) bekezdésben foglalt feltételeknek megfelelő munkavállaló számára.
+
+## 5. §[^20]
+
+A munkáltató a 4. § c) és d) pontjában említett munkavállaló esetében a közigazgatási határon belül történő munkába járást is e rendelet szerinti munkába járásnak minősítheti.
+
+## 6. §
+
+(1) E rendelet a kihirdetését követő harmadik hónap első napján lép hatályba.
+
+(2)[^21]
+
+(3)[^22]
+
+## 7. §
+
+A munkavállaló a munkába járás címén járó utazási költségtérítés igénybevételével egyidejűleg nyilatkozik a lakóhelyéről és a tartózkodási helyéről, valamint arról, hogy a napi munkába járás a lakóhelyéről vagy a tartózkodási helyéről történik-e.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 21. §-ával megállapított, a 47/2019. (III. 12.) Korm. rendelet 6. §-a, a 671/2020. (XII. 28.) Korm. rendelet 14. §-a, a 286/2023. (VI. 30.) Korm. rendelet 37. §-a, a 24/2025. (II. 27.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését a 223/2017. (VIII. 11.) Korm. rendelet 51. §-a iktatta be, szövege a 17/2019. (II. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^4]: A 2. § a) pont ab) alpontja a 335/2016. (XI. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § c) pontja a 265/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: A 2. § d) pontja a 144/2012. (VII. 3.) Korm. rendelet 11. §-a, a 273/2018. (XII. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § e) pontja a 144/2012. (VII. 3.) Korm. rendelet 11. §-a, a 273/2018. (XII. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § f) pontját a 273/2018. (XII. 20.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^9]: A 2. § h) pontját a 193/2015. (VII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^10]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 3. § (1b) bekezdését a 134/2022. (IV. 7.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 3. § (1b) bekezdés b) pontja a 91/2023. (III. 23.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^15]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja a 2021. évben 39 730 forint.
+[^16]: A 3. § (3a) bekezdését a 91/2023. (III. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^17]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^18]: Lásd a Hivatalos Értesítő 2021. évi 7. számában megjelent ITM közleményt.
+[^19]: A 4. § a 4/2017. (I. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 5. § a 193/2015. (VII. 21.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^22]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

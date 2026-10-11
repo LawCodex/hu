@@ -1,0 +1,133 @@
+---
+title: "111/2009. (V. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között,  a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között  a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló  Megállapodás kihirdetéséről"
+identifier: "111/2009. (V. 27.) Korm. rendelet"
+njt_id: "2009-111-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/111"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-05-27
+in_force_from: 2009-09-26
+last_amended: 2009-09-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-111-20-22"
+retrieved: 2026-10-12
+---
+
+# 111/2009. (V. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hivatalos magyar nyelvű szövege a következő:
+
+„Megállapodás\
+a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között,\
+a Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya között\
+a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény\
+végrehajtásáról szóló Megállapodás módosításáról
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Szerződő Felek) azon szándéktól vezérelve, hogy a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Budapesten, 2003. szeptember 29. napján aláírt Megállapodás (a továbbiakban: Megállapodás) egyes rendelkezéseit módosítsák, az alábbiakban állapodtak meg.
+
+*1. cikk*
+
+A Megállapodás 6. Cikke az alábbiak szerint módosul:
+
+„
+
+6\. Cikk
+
+Letenye–Goričan (Muracsány) I.
+
+(1) Letenye–Goričan (Muracsány) I. közúti határátkelőhely használata kiterjed a nemzetközi személyforgalomra az autóbusz kivételével, a nemzetközi áruforgalomra, az autópályáról letiltott járműforgalomra, valamint a gyalogos és kerékpáros forgalomra.
+
+(2) Nemzetközi személyforgalomban a jelen határátkelőhelyet
+
+*a)* a Horvát Köztársaság állampolgárai,
+
+*b)* az Európai Unió tagállamainak állampolgárai, az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgárai, valamint a Svájci Államszövetség állampolgárai, valamint
+
+*c)* a *b)* pontban meghatározott személyek családtagjai, akik harmadik ország állampolgárai és az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei
+
+használhatják, feltéve, hogy a határmenti térségben – nevezetesen, a Magyar Köztársaságban Zala megyében, a Horvát Köztársaságban Međimurska és Varaždinska megyében – bejelentett lakóhellyel vagy tartózkodási hellyel rendelkeznek.
+
+(3) A (2) bekezdésben meghatározott személyeknek az államhatár átlépésekor a határmenti térségben található bejelentett lakóhelyüket vagy tartózkodási helyüket érvényes okmánnyal – útlevéllel, személyazonosító igazolvánnyal vagy lakcímigazolvánnyal – igazolniuk kell.
+
+(4) A nemzetközi személyforgalom vonatkozásában június 1. és augusztus 31. között a (2) bekezdésben foglalt korlátozás nem érvényesül.
+
+(5) A nyitvatartási idő 00.00–24.00 óráig tart.
+
+(6) A határforgalom ellenőrzése a Szerződő Felek államának területén külön-külön történik.
+
+”
+
+*2. cikk*
+
+A Megállapodás 18. Cikkének (1) bekezdése az alábbiak szerint módosul:
+
+„(1) A Duna folyamon és a Dráva folyón a nemzetközi vízi határforgalom ellenőrzését a Szerződő Felek szolgálati személyei külön-külön végzik.”
+
+*3. cikk*
+
+A Megállapodás 19. Cikke (1) bekezdésének első mondata az alábbiak szerint módosul:
+
+„(1) A Duna folyam 1449 folyamkilométerénél a Mohácsi Kikötőben a vízi járművek ellenőrzése céljából magyar határátkelőhely működik.”
+
+*4. cikk*
+
+A Megállapodás 20. Cikkének (1) bekezdése az alábbiak szerint módosul:
+
+„(1) A Dráva folyó D-78 folyamkilométerénél a Drávaszabolcsi Kikötőben a vízi járművek ellenőrzése céljából határátkelőhely működik. A határátkelőhelyen a Magyar Köztársaság államterületén magyar és horvát határforgalom-ellenőrző szolgálati hely létesül, ahol a magyar és a horvát szolgálati személyek ellenőrzést végeznek.
+
+*a)* A határátkelőhely használata kiterjed a sport és kedvtelési célú vízi járművek, valamint a nemzetközi személyforgalomban közlekedő személyhajók forgalmára;
+
+*b)* a határforgalom ellenőrzése 07.00–19.00 óra között, a határt átlépő személyek külön bejelentési kötelezettsége mellett történik.”
+
+*5. cikk*
+
+A Megállapodás 23. Cikke (3) bekezdésének második mondata az alábbiak szerint módosul:
+
+„A módosítás azon utolsó diplomáciai jegyzék kézhezvételét követő tizedik napon lép hatályba, amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.”
+
+*6. cikk*
+
+(1) A jelen Megállapodás azon utolsó diplomáciai jegyzék kézhezvételét követő tizedik napon lép hatályba, amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.
+
+(2) A jelen Megállapodás 2009. június 1-jétől ideiglenesen alkalmazásra kerül.
+
+Készült Zágrábban, 2009. május 25-én, két eredeti példányban, magyar, horvát és angol nyelven, mindegyik szöveg egyaránt hiteles. A Megállapodás értelmezésével kapcsolatos vita esetén az angol nyelvű szöveg az irányadó.
+
+Aláírások”
+
+## 4. §[^3]
+
+## 5. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2)[^4] E rendelet 2–3. §-a a Megállapodás 6. cikk (2) bekezdésében meghatározott időpontban lép hatályba.
+
+(3) E rendelet 4. §-a, valamint 5. § (4) bekezdése a Megállapodás 6. cikk (1) bekezdésében meghatározott időpontban hatályát veszti.
+
+(4)[^5]
+
+(5) A Megállapodás hatálybalépésének naptári napját, valamint a (2)–(4) bekezdésben meghatározott időpontok naptári napját a külügyminiszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^6]
+
+(6) E rendelet végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 5. § (2) bekezdése alapján a Megállapodás 6. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 21/2010. (IV. 29.) KüM határozat alapján a hatálybalépés időpontja 2009. szeptember 26.
+[^2]: A 3. § e rendelet 5. § (2) bekezdése alapján a Megállapodás 6. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 21/2010. (IV. 29.) KüM határozat alapján a hatálybalépés időpontja 2009. szeptember 26.
+[^3]: A 4. §-t az 5. § (3) bekezdése hatályon kívül helyezte.
+[^4]: A 21/2010. (IV. 29.) KüM határozat alapján a hatálybalépés időpontja 2009. szeptember 26.
+[^5]: Az 5. § (4) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^6]: Lásd a 21/2010. (IV. 29.) KüM határozatot.

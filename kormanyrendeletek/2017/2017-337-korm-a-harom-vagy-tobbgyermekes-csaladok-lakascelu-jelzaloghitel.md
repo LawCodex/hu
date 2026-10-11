@@ -1,0 +1,674 @@
+---
+title: "337/2017. (XI. 14.) Korm. rendelet a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről"
+identifier: "337/2017. (XI. 14.) Korm. rendelet"
+njt_id: "2017-337-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/337"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-11-14
+in_force_from: 2018-01-01
+last_amended: 2025-01-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-337-20-22"
+retrieved: 2026-10-12
+---
+
+# 337/2017. (XI. 14.) Korm. rendelet a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Alapvető rendelkezések
+
+### 1. §
+
+(1)[^1] A második vagy további gyermek születésére vagy örökbefogadására tekintettel az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: támogatás) vehető igénybe a Magyarország területén lévő lakást, lakóházat, tanyát, birtokközpontot vagy építési tevékenység megvalósításának helyszínéül szolgáló telket, illetve annak tulajdoni hányadát (a továbbiakban együtt: ingatlan) terhelő lakáscélú jelzáloghitel-tartozás, illetve ilyen ingatlanhoz kapcsolódó lakáscélú pénzügyi lízingszerződés alapján fennálló tartozás csökkentése érdekében.
+
+(2)[^2] A támogatás költségvetési fedezetét a központi költségvetés „Lakástámogatások” előirányzata biztosítja.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+1\. *gyermek:* az igénylőnek, illetve házastársának vagy élettársának vér szerinti gyermeke, ideértve a magzatot a várandósság betöltött 12. hetét követően (a továbbiakban: magzat), valamint az igénylő, illetve házastársa vagy élettársa által a támogatás iránti kérelem (a továbbiakban: kérelem) benyújtásának időpontját megelőzően örökbefogadott gyermek;
+
+2.[^3] *igénylő:* a lakáscélú jelzáloghitel-szerződés adósa, továbbá a házastársa vagy élettársa, aki a kormányhivatalnál kérelmet nyújt be;
+
+3.[^4] *kormányhivatal:* a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan esetén Budapest Főváros Kormányhivatala; ha az előbbiek alapján ugyanazon kérelem ügyében egyidejűleg több kormányhivatal illetékessége is megállapítható lenne, akkor közülük az a kormányhivatal, amelyhez az igénylő a kérelmét először benyújtja;
+
+4.[^5] *lakáscélú jelzáloghitel:* az e rendelet kihirdetését
+
+a) megelőzően kötött szerződés alapján folyósított olyan forintalapú jelzáloghitel, amelynek fedezete Magyarország területén lévő, az 1. §-nak megfelelő ingatlan, illetve
+
+b) követően kötött, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 76. pontja szerinti forintalapú lakáscélú hitel- vagy kölcsönszerződés,
+
+ideértve a Hpt. 6. § (1) bekezdés 77. pontja szerinti olyan lakáscélú pénzügyi lízingszerződést is, amelynek tárgya az 1. §-nak megfelelő ingatlan, azzal, hogy ez esetben ahol e rendelet jelzáloghitelt vagy kölcsönt említ, azon a pénzügyi lízinget, ahol adóst említ, ott a lízingbevevőt, ahol kölcsöntartozást említ, azon a lízingtartozást (lízingdíjat és – ha van – maradványértéket), ahol pedig törlesztőrészletet említ, azon a lízingdíjat is érteni kell; továbbá ideértve a pénzügyi intézményen keresztül folyósított, a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 1. § (2) bekezdés d) pontja szerinti munkáltatói hitelt is;
+
+5.[^6] *pénzügyi intézmény:* a lakáscélú jelzáloghitelt nyújtó vagy munkáltatói hitel esetén azt folyósító, magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet és pénzügyi vállalkozás és a munkáltatói hitelt folyósító Magyar Államkincstár;
+
+6.[^7] *támogatott személy:* az igénylő, akinek a kormányhivatal véglegessé vált közigazgatási hatósági határozatával (a továbbiakban: támogatást megállapító határozat) a támogatásra való jogosultságát és a támogatás összegét megállapította, valamint az állami igény érvényesítése tekintetében a károsult állammal szemben a büntetőbíróság által jogerősen megállapított felelősséget viselő terhelt.
+
+(2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvényben, valamint a Hpt.-ben meghatározottak szerint kell értelmezni.
+
+## 3. A támogatásra jogosult személyek
+
+### 3. §
+
+(1) Házastársak és élettársak – ideértve azt az esetet is, ha a lakáscélú jelzáloghitel-szerződésnek kizárólag az egyik fél az alanya – a támogatást kizárólag együttesen igényelhetik (a továbbiakban: együttes igénylés).
+
+(2)[^8] Együttes igénylés esetén az igénylési feltételeket – a (2a) bekezdésben foglalt kivétellel – mindkét igénylőnek teljesítenie kell, és a nyilatkozatokat mindkét igénylőnek meg kell tennie.
+
+(2a)[^9] Együttes igénylés esetén a 4. § (2) bekezdése szerinti feltételnek az igénylők legalább egyikének meg kell felelnie.
+
+(3) A támogatást igényelheti:
+
+a) magyar állampolgár és az a személy, akit a magyar állampolgárságról szóló törvény alapján magyar állampolgárnak kell tekinteni,
+
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja,
+
+c)[^10] harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
+
+d)[^11] hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, valamint
+
+e) a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy.
+
+(4) Nem magyar állampolgár részére a támogatás a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható.
+
+### 4. §
+
+(1)[^12] A támogatás a kérelem benyújtásának időpontjában fennálló, fel nem mondott lakáscélú jelzáloghitel-szerződés esetén igényelhető. Már megszületett gyermekre tekintettel történő igénylés esetén további feltétel, hogy a kölcsönkérelmet legkésőbb a gyermek születését, vagy örökbefogadás esetén az örökbefogadást engedélyező határozat véglegessé válását megelőző napon benyújtsák.
+
+(1a)[^13] Az olyan lakáscélú jelzáloghitel-szerződés vonatkozásában is igényelhető a támogatás, amelynél a szerződéses cél lakóépület építése vagy lakás vásárlása, azonban a támogatási kérelem benyújtásáig a lakóépület, a közös tulajdonban álló telken külön tulajdoni lapon nyilvántartott lakás, illetve a tulajdoni különlapon nyilvántartott társasházi vagy szövetkezeti házi lakás ingatlan-nyilvántartásba való bejegyzése még nem történt meg.
+
+(2)[^14] A lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlanban az igénylőnek – együttes igénylés esetén az igénylőknek összesen – legalább 50%-os mértékű, az ingatlan-nyilvántartásban bejegyzett tulajdoni hányaddal kell rendelkeznie. Az (1a) bekezdés szerinti lakáscélú jelzáloghitel-szerződés esetén e feltételt teljesítettnek kell tekinteni, ha annak fedezetét, illetve célját közös tulajdonban álló telek képezi, amelyen az igénylőnek – vagy az együttes igénylőknek közösen – a tulajdoni hányada nem éri el az 50%-ot, de a támogatás megállapítását követő 2 éven belül a telken olyan lakás vagy lakóház tulajdonjogát szerzi meg, amelyre vonatkozóan kizárólagos használati jogát igazolni tudja.
+
+(3)[^15] A támogatás a (2) bekezdésben foglalt feltétel hiányában is igényelhető, ha a lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan tekintetében a (2) bekezdésben foglalt feltétel az igénylő elhunyt házastársa vagy élettársa esetében fennállt, és a lakásban az elhunyt házastárs vagy élettárs kiskorú gyermeke örökléssel – az igénylő esetlegesen meglévő tulajdoni hányadával együttesen legalább 50%-ot elérő mértékben – tulajdonjogot szerzett.
+
+(4)[^16] Ha ugyanazon gyermek után az igénylők
+
+a) az e rendelet szerinti támogatásra és
+
+b) a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti gyermekvállalási támogatásra is egyaránt jogosulttá válhatnak, akkor a választásuk szerint vagy az a) vagy a b) pont szerinti egyik támogatást vehetik igénybe. Az e rendelet szerinti támogatás iránti kérelem benyújtásakor az igénylő teljes bizonyító erejű magánokiratba foglaltan nyilatkozik arról, hogy a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti gyermekvállalási támogatást ugyanazon gyermek után nem vette igénybe.
+
+### 5. §[^17]
+
+A támogatás elsősorban az igénylő jelzáloghitel-szerződéséből eredő tőketartozása csökkentésére használható fel, amennyiben pedig a tőketartozás összege nem éri el a támogatás összegét, úgy a támogatás a tőketartozás járulékai – ide nem értve a késedelmi kamatot – csökkentésére használható fel. Lakáscélú pénzügyi lízingszerződés esetében az igénylés feltétele, hogy a támogatás igénybevétele által a teljes lízingdíj, valamint – amennyiben van – a maradványérték, azaz a pénzügyi lízingszerződés alapján fennálló teljes tartozás megfizetése megtörténjen, és ezzel a lakóház vagy a lakás tulajdonjogát az igénylő – legalább a 4. § (2) vagy (3) bekezdésében foglaltaknak megfelelő mértékben – megszerezze.
+
+### 6. §
+
+(1)[^18] A támogatásra való jogosultság feltétele az igénylőnek vagy együttes igénylés esetén az igénylők egyikének
+
+a) az e rendelet hatálybalépését követően
+
+aa) született vér szerinti gyermeke vagy
+
+ab) örökbefogadott gyermeke vagy
+
+b) a kérelem benyújtásának időpontjában meglévő, a várandósság legalább 12. hetét betöltött magzata.
+
+(1a)[^19] A támogatásra való jogosultság az igénylő vagy − együttes igénylés esetén − az igénylők egyike (1) bekezdés a) pontja szerinti élve született vagy örökbefogadott gyermekének a támogatási kérelem benyújtását megelőzően bekövetkezett halála esetén is fennáll, ha az igénylő az egyéb jogosultsági feltételeknek megfelel.
+
+(2)[^20] Az e rendelet hatálybalépését követően született, illetve örökbefogadott ugyanazon gyermek támogatására kizárólag egy alkalommal igényelhető a támogatás.
+
+(3)[^21] Az igénylőn kívül más adós – az igénylő volt házastársát vagy volt élettársát ide nem értve, ha az a támogatási kérelemben figyelembe vett valamely gyermek vér szerinti vagy örökbefogadó szülője – a jelzáloghitel-szerződésben nem szerepelhet.
+
+(4) Ugyanazon igénylő a támogatást – több (1) bekezdés szerinti gyermek esetén – egy kérelemben is igényelheti.
+
+(5) A (4) bekezdés esetén, ha a támogatás korábbi igénybevétele során az igénylők egyike volt csak a jelzáloghitel-szerződés adósa, az igénylőnek a következő igénylés során a korábban igénybe vett támogatásnál számításba vett gyermekek vonatkozásában is igazolnia kell, hogy a gyermekek az igénylővel közös háztartásban élnek.
+
+(6) A gyermekszám számításánál a következő szempontokat kell figyelembe venni:
+
+a)[^22] gyermeknek – a (7) bekezdésben foglalt kivétellel – az igénylővel közös háztartásban élő gyermek, a várandósság betöltött 12. hetét követően elhalt vagy halva született magzat, továbbá az élve született és időközben elhalálozott gyermek minősül,
+
+b) a gyermek csak ugyanazon igénylő által több (1) bekezdés szerinti gyermekre tekintettel benyújtott külön kérelem vonatkozásában vehető ismételten figyelembe,
+
+c) a más személy által igényelt támogatásnál már számításba vett gyermek az igénylő támogatásánál nem vehető figyelembe, és
+
+d) házastársak, illetve élettársak együttes igénylése esetén a velük közös háztartásban élő közös, valamint nem közös gyermekeket együttesen kell figyelembe venni.
+
+(7)[^23] Annak tényét, hogy a gyermek az igénylővel közös háztartásban él,
+
+a) a gyermek nagykorúvá válását követően és
+
+b)[^24] a várandósság 12. hetét betöltött magzat elhalása, halva születése vagy az élve született gyermek elhalálozása esetében
+
+nem kell figyelembe venni.
+
+(8)[^25] Ha az (1) bekezdés szerinti örökbefogadott gyermek vonatkozásában az örökbefogadást a támogatást megállapító határozat véglegessé válását követő két éven belül felbontják, a felbontás tényét a támogatott személy a határozat jogerőre emelkedését követő 30 napon belül köteles a kormányhivatalnak bejelenteni. A kormányhivatal intézkedik a támogatás Ptk. szerinti késedelmi kamattal növelten történő visszafizetése érdekében.
+
+## 4. A támogatás mértéke
+
+### 7. §
+
+(1)[^26] A támogatás összege
+
+a) a második – a 29. § (1) bekezdése szerinti – gyermek esetén 1 000 000 forint,
+
+b) a harmadik vagy további,
+
+ba) a 6. § (1) bekezdése szerinti gyermek esetén – ide nem értve a bb) alpont szerinti esetet – 1 000 000 forint, vagy
+
+bb) a 29. § (1) bekezdése szerinti gyermek esetén – ide nem értve a c) pont szerinti esetet – 4 000 000 forint,
+
+c)[^27] a b) pont bb) alpontja szerinti összegű támogatás igénybevételét követően született, illetve örökbefogadott minden egyes további gyermek esetén 1 000 000 forint.
+
+(2)[^28] Ha a kérelem benyújtásának időpontjában az igénylő lakáscélú jelzáloghitel-tőketartozása és annak járulékai összege alacsonyabb az igénybe vehető támogatás összegénél, az igénylő legfeljebb a tőketartozás és annak járulékai összegének megfelelő támogatásra jogosult. Ha a kérelem benyújtása időpontjában az igénylő már folyósított lakáscélú jelzáloghitel-tőketartozása és annak járulékai összege valamely okból – különösen építési célú jelzáloghitel kölcsönösszegének szakaszos folyósítása miatt – alacsonyabb, mint a megkötött jelzáloghitel-szerződésben meghatározott teljes kölcsönösszeg, akkor az igénylő a szerződés szerinti teljes kölcsönösszeg tekintetében jogosult az (1) bekezdés szerinti támogatási összegre, a 14. § (1a) bekezdése szerinti folyósítási szabály alkalmazásával.
+
+(3) A (2) bekezdésben foglaltak esetén az igénybe vett támogatás és az (1) bekezdés szerinti összeg különbözetének igénylésére a támogatott személy későbbi időpontban nem jogosult.
+
+## 5. A támogatás igénylésének feltételei
+
+### 8. §
+
+Az igénylő a következő feltételek teljesítése esetén jogosult a támogatásra:
+
+a) az igénylő büntetőjogi felelősségét a bíróság az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet [a továbbiakban: 16/2016. (II. 10.) Korm. rendelet] 1. melléklete szerinti bűncselekmény elkövetése miatt jogerősen
+
+aa) nem állapította meg, vagy
+
+ab) megállapította, de a támogatás igénylésének időpontjában az igénylő e bűncselekmények vonatkozásában a büntetett előélethez fűződő hátrányos jogkövetkezmények alól már mentesült,
+
+b)[^29] az igénylőnek az állami adó- és vámhatóságnál nincs nyilvántartott, az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meghaladó köztartozása, azzal, hogy ha a kormányhivatal megállapítja, hogy az igénylőnek van a kérelem benyújtása és elbírálása napján is fennálló, a jelen pont szerinti mértéket meghaladó köztartozása, akkor 14 napos határidő tűzésével – amely az ügyintézési határidőbe nem számít be – felhívja az igénylőt arra, hogy köztartozásának a felhívás kézhezvételétől számított 14 napon belül történő megfizetését és annak igazolását követően válhat a támogatásra jogosulttá,, és
+
+c) az igénylő teljes bizonyító erejű magánokiratban tudomásul veszi, hogy a más személy által igényelt támogatásnál már számításba vett gyermek a támogatás igénylésénél nem vehető figyelembe.
+
+### 9. §
+
+(1)[^30] Az igénylő a kérelemben hozzájárul ahhoz, hogy a támogatásra vonatkozó információkat, valamint
+
+a) az alábbi saját adatait:
+
+aa) természetes személyazonosító adatok,
+
+ab) állampolgárság vagy hontalan jogállás,
+
+ac) lakcím,
+
+ad) értesítési cím,
+
+ae) személyi azonosító jel és
+
+af) adóazonosító jel, továbbá
+
+b) a támogatás alapjául szolgáló és a gyermekszám számításánál figyelembe vett gyermekek alábbi adatait:
+
+ba) születési név,
+
+bb) anyja neve,
+
+bc) lakcím,
+
+bd) személyi azonosító jel és
+
+be) adóazonosító jel
+
+a támogatás szabályszerű igénybevételének ellenőrzése céljából a kormányhivatal kezelje és továbbítsa a pénzügyi intézmény, Budapest Főváros Kormányhivatala, a Magyar Államkincstár (a továbbiakban: Kincstár), a Belügyminisztérium, valamint az állami adó- és vámhatóság részére.
+
+(2)[^31] Az igénylő a kérelemben – az a) pont ac) alpontja szerinti adatkérés tekintetében a kérelemhez mellékelt közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozattal – hozzájárul ahhoz, hogy a kormányhivatal a támogatásra jogosultság alábbi feltételeinek meglétét a következők szerint:
+
+a) hivatalból, megkeresés útján ellenőrizze
+
+aa)[^32] a köztartozás-mentességet vagy a fennálló köztartozásának a 8. § b) pontja szerinti mértéket meg nem haladó összege tényét – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – az állami adó- és vámhatóságtól megkért adóigazolással,
+
+ab) a büntetlen előéletet a Belügyminisztérium által vezetett, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti bűnügyi nyilvántartásokból történő adatkéréssel, és
+
+ac) a lakáscélú jelzáloghitel tekintetében a (3) bekezdés szerinti adatokat a kérelemben megjelölt pénzügyi intézménytől történő adatkéréssel,
+
+b) hivatalból ellenőrizze a tulajdonjog fennállását a tulajdoni lapról elektronikus dokumentumként szolgáltatott nem hiteles másolatnak a számítógépes ingatlan-nyilvántartási rendszerből történő közvetlen lekérdezésével.
+
+(3)[^33] A pénzügyi intézmény a kormányhivatal megkeresésének kézhezvételét követő 5 napon belül köteles igazolni a kormányhivatal részére
+
+a) annak tényét, hogy
+
+aa)[^34] az igénylő által benyújtott kérelemben szereplő tartozás e rendelet szerint lakáscélú jelzáloghitelnek minősül, és
+
+ab)[^35] az igénylő, illetve együttes igénylés esetén legalább az igénylők egyike a kölcsönszerződés adósa, és a kölcsönszerződésben az igénylőn kívül – ide nem értve az igénylő volt házastársát vagy volt élettársát, ha az a támogatási kérelemben figyelembe vett valamely gyermek vér szerinti vagy örökbefogadó szülője – más adós nem szerepel,
+
+b)[^36] a kölcsönkérelem benyújtásának, valamint a kölcsönszerződés megkötésének időpontját, valamint
+
+c) a kérelem benyújtásának napján fennálló tőketartozás és – az esetleges késedelmi kamatot külön feltüntetve – annak járulékai összegét.
+
+(4)[^37] A pénzügyi intézmény a kormányhivatal megkeresését az igénylő előtörlesztési szándéka bejelentésének tekinti.
+
+### 10. §
+
+(1)[^38] A magzat után igényelt támogatás esetén az igénylő a kormányhivatal részére
+
+a) a gyermek születését, lakcímét, adóazonosító jelét vagy
+
+b) a várandósság 12. hetét betöltött magzat elhalását, halva születését vagy az élve született gyermek elhalálozását
+
+legfeljebb 30 napon belül igazolja.
+
+(2) A támogatás magzatra tekintettel történő igénybevétele esetén a támogatást megállapító határozatban meg kell jelölni a szülés várható időpontját.
+
+(3)[^39] Ha a kormányhivatal a magzatra tekintettel történő igénybevétel esetén a gyermek megszületéséről a szülésnek a támogatást megállapító határozatban rögzített várható időpontját követő 30 napon belül az (1) bekezdés szerint nem értesül, a kormányhivatal a támogatott személyt felszólítja az (1) bekezdés szerinti adatok igazolására.
+
+(4)[^40] Ha a támogatott személy a (3) bekezdés szerinti igazolási kötelezettségét elmulasztja, a kormányhivatal a 15. § (1) bekezdésében foglaltak szerint jár el.
+
+### 11. §
+
+A támogatásra való jogosultság feltételeinek meglétét a következők szerint kell igazolni:
+
+a)[^41] elvált szülők kiskorú gyermekeinek elhelyezését vagy szülői felügyeletének rendezését és lakóhelyének kijelölését jogerős bírósági határozattal és a lakcímet igazoló hatósági igazolvánnyal,
+
+b)[^42] a várandósság 12. hetét betöltött magzat elhalását egészségügyi intézmény által kiállított, a magzat elhalásának naptári időpontját és a várandósság hetének pontos megjelölését is tartalmazó igazolással, a magzat halva születését a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendelet szerinti okirattal, az élve született gyermek halálát halotti anyakönyvi kivonattal,
+
+c)[^43] a magzatok számát, a várandósság betöltött 12. hetét és a szülés várható időpontját a várandósgondozásról szóló miniszteri rendelet szerinti várandósgondozási könyv ezt tartalmazó részével, a 4. § (1) bekezdés b) pontja szerinti igénylés esetén a gyermek születését a születési anyakönyvi kivonattal,
+
+d) a közös háztartásban élést, valamint élettársak esetében ennek időtartamát teljes bizonyító erejű magánokiratba foglalt nyilatkozattal és a lakcímet igazoló hatósági igazolvánnyal.
+
+e)[^44] az örökbefogadást a gyámhatóság engedélyező határozatával.
+
+## 6. A támogatás igénylése
+
+### 12. §
+
+(1)[^45] A kérelmet a kormányhivatalnál kell benyújtani. A támogatásra való jogosultság feltételeit igazoló dokumentumok hiánytalan meglétét a kormányhivatal, illetve – ha a kérelmet a kormányablaknál nyújtották be – a kormányablak ellenőrzi. A kormányablak a kérelmet mellékleteivel együtt a benyújtást követő napon továbbítja a kormányhivatalnak. A kormányhivatal vagy – ha a kérelmet a kormányablaknál nyújtották be – a kormányablak a kérelem benyújtásáról és a becsatolt dokumentumokról igazolást ad az igénylőnek.
+
+(1a)[^46] A kérelem
+
+a)[^47] vér szerinti gyermek esetén a várandósság betöltött 12. hetét követő naptól kezdődően, a gyermek vagy ikergyermekek születését,
+
+b) örökbefogadott gyermek esetén az örökbefogadást engedélyező határozat véglegessé válását
+
+követő 1 éves jogvesztő határidőn belül nyújtható be.
+
+(1b)[^48] A 6. § (1a) bekezdése szerinti gyermekre tekintettel igényelt támogatás esetén a kérelem a gyermek halálát követő 180 napos jogvesztő határidőn belül nyújtható be.
+
+(2) A támogatás igénybevételéhez szükséges feltételeket a kérelem benyújtásának időpontjában kell teljesíteni.
+
+(3) A kérelemben az igénylő megjelöli a támogatás alapjául szolgáló lakáscélú jelzáloghitelt nyilvántartó pénzügyi intézményt.
+
+(3a)[^49] Ha az igénylő ugyanazon gyermek után egyidejűleg több lakáscélú jelzáloghitel-szerződésre igényli a támogatást, a kérelmében – a 7. §-ban foglaltak figyelembevételével – megjelöli a támogatással csökkenteni kívánt lakáscélú jelzáloghitel-szerződések sorrendjét.
+
+(4)[^50] A támogatásra való jogosultság szempontjából a kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet és az igénylési feltételek igazolásához szükséges dokumentumokat hiánytalanul benyújtja a kormányhivatal részére vagy a kormányablaknál.
+
+(5)[^51] A kormányhivatal a kérelem elbírálása során a támogatás valamennyi feltételének fennállását teljeskörűen köteles ellenőrizni.
+
+(6)[^52] A kormányhivatal a kérelem elbírálásáért díjat és egyéb költséget az igénylő részére nem számíthat fel.
+
+### 13. §
+
+(1)[^53] Ha a lakástámogatási szakmai informatikai rendszer nyilvántartása alapján korábbi,
+
+a) még el nem bírált támogatás iránti kérelem benyújtása vagy
+
+b) támogatás igénybevétele
+
+a jelenlegi igénylés alapjául szolgáló gyermekre tekintettel nem történt, és a támogatás igénybevételének e rendelet szerinti további feltételei is fennállnak, a kormányhivatal határozattal dönt a támogatásról.
+
+(2)[^54] A kormányhivatal a támogatásra jogosító feltételek fennállásáról és a támogatás összegéről a támogatást megállapító határozat megküldésével értesíti az igénylőt, valamint a támogatást megállapító határozatot annak véglegessé válását követő napon megküldi a pénzügyi intézmény részére.
+
+(3)[^55] Ha a lakástámogatási szakmai informatikai rendszer nyilvántartása szerint ugyanazon igénylő vagy másik igénylő által ugyanazon gyermek tekintetében korábbi időpontban – a 6. § (6) bekezdés b) pontjában foglaltak kivételével – a támogatás igénybevétele már megtörtént, a kormányhivatal az igénylő kérelmét határozattal elutasítja.
+
+## 7. A támogatás folyósítása
+
+### 14. §
+
+(1)[^56] A pénzügyi intézmény a támogatást megállapító határozat beérkezését követő – az (1a) bekezdésben foglalt kivétellel – 4 napon belül egy összegben, előtörlesztésként a támogatott személy pénzügyi intézménynél vezetett hitelszámlájára, illetve lízingtartozásához kapcsolódó számlájára teljesít.
+
+(1a)[^57] A 7. § (2) bekezdése szerinti esetben, ha a határozat pénzügyi intézményhez történő beérkezése időpontjában a folyósított kölcsönösszeg tőketartozása és annak járulékai összege még alacsonyabb, mint a támogatást megállapító határozat szerint igénybe vehető támogatás összege, akkor a támogatás összegét a pénzügyi intézmény a támogatásnak megfelelő összeg eléréséhez még szükséges kölcsönrészlet folyósítását követő 4 napon belül teljesíti előtörlesztésként a támogatott személy pénzügyi intézménynél vezetett hitelszámlájára.
+
+(2) A pénzügyi intézmény az előtörlesztésért a támogatott személy terhére díjat és egyéb költséget nem számíthat fel.
+
+(3) Az előtörlesztés – a pénzügyi intézmény legfeljebb a kérelem benyújtásakor hatályos üzletszabályzata szerinti mértékének megfelelő – díját az állam téríti meg a pénzügyi intézmény részére.
+
+(4) Amennyiben a támogatás folyósításának időpontjában a tőketartozás és annak járulékai összege alacsonyabb a támogatást megállapító határozat szerint igénybe vehető támogatás összegénél, a különbözetet a pénzügyi intézmény a támogatott személy részére megfizeti a támogatott személy által megjelölt bankszámlára, ennek hiányában postai úton.
+
+(5)[^58] A támogatás igénybevételével történő előtörlesztés esetén a folyósítást követő 10 napon belül a pénzügyi intézmény köteles változatlan futamidő mellett a támogatott személy havi törlesztőrészleteit újraszámolni és arról a támogatott személyt és a kormányhivatalt értesíteni.
+
+(6)[^59] Az (5) bekezdés szerinti értesítésben és azt követően évente legalább egy alkalommal a pénzügyi intézmény tájékoztatja a támogatott személyt arról, hogy az e rendelet szerinti előtörlesztéssel összefüggésben – megjelölve a támogatás összegét és az előtörlesztés díját is – a támogatott személy mekkora összegű támogatásban részesült, a támogatás igénybevétele nélkül mekkora lenne a fennálló tartozásának az összege, továbbá hogy a támogatást Magyarország Kormánya biztosította.
+
+### 15. §
+
+(1)[^60] Ha a kormányhivatal a támogatás jogosulatlan igénybevételre utaló adat birtokába jut – ideértve a 4. § (4) bekezdésében foglalt esetet is –, a támogatott személyt írásban felszólítja a támogatás összegének az igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelten történő visszatérítésére.
+
+(2)[^61] Az (1) bekezdés szerinti esetben a kormányhivatal intézkedik a jogosulatlanul igénybe vett támogatás visszafizetése érdekében.
+
+(3)[^62] A kormányhivatal a jogosulatlanul igénybe vett támogatással összefüggésben, az általa végzett hatósági ellenőrzés befejezését követően csak abban az esetben alkalmaz jogkövetkezményt, ha a támogatásban részesült személy részéről a jogszabályban foglalt előírások megsértése a jogszerű állapot helyreállításával nem orvosolható, vagy a támogatott személy a kormányhivatal erre irányuló felhívásának – a jogszerű állapot helyreállításának orvosolhatósága esetén – határidőben nem tett eleget.
+
+### 15/A. §[^63]
+
+(1)[^64] A 4. § (1a) bekezdése szerinti lakáscélú jelzáloghitel-szerződés, valamint az 5. § szerinti lakáscélú pénzügyi lízingszerződés vonatkozásában folyósított támogatás esetében a kormányhivatal a támogatást megállapító hatósági határozat keltétől számított 2 év elteltével ellenőrzi annak az ingatlannak a tulajdoni lapját – társasházi vagy szövetkezeti házi lakás esetében tulajdoni különlapját –, amelyen lakóépület felépítésére vagy lakás megvásárlására a támogatással érintett jelzáloghitel-szerződés célja irányult, valamint a 4. § (2) bekezdése szerinti közös tulajdonú telek esetén az azon létesített lakóingatlan kizárólagos használati jogát igazoló használati megosztási szerződést, a tulajdonostársak határozatát vagy bírósági ítéletet.
+
+(2)[^65] Ha a tulajdoni lapon vagy a tulajdoni különlapon a jelzáloghitel-szerződés célja szerinti lakóingatlan és a támogatott személy tulajdonjoga nem került feltüntetésre, vagy a támogatott személy a kormányhivatal – az (1) bekezdés szerinti okirat benyújtására vonatkozó – felszólításának határidőben nem tett eleget, illetve az abban foglaltak alapján nem teljesül a 4. § (2) bekezdésében foglalt feltétel, a kormányhivatal intézkedik a támogatás – a folyósítás napjától számított – Ptk. szerinti késedelmi kamattal növelten történő visszafizettetése érdekében.
+
+### 15/B. §[^66]
+
+(1) Ha a támogatás visszafizetésére kötelezett személy igazolja, hogy tartozásának azonnali vagy egy összegben való megfizetése családi, jövedelmi, vagyoni és szociális körülményeire való tekintettel számára aránytalanul súlyos anyagi megterhelést jelentene, részére a kormányhivatal méltányosságból a kérelemben megjelölt időtartamú, de legfeljebb
+
+a) 12 hónapos fizetési halasztást vagy
+
+b) 36 hónapos időtartamra szóló részletfizetést
+
+engedélyezhet.
+
+(2) Az (1) bekezdés szerinti fizetési kedvezmény érvényét veszti és a tartozás egy összegben esedékessé válik, ha a fizetésre kötelezett a kedvezményes fizetési feltételeknek nem vagy csak részben tett eleget.
+
+## 8.[^67]
+
+## 9. [^68] A támogatás központi költségvetéssel való elszámolásának szabályai
+
+### 17. §
+
+(1)[^69] A támogatásra való jogosultság megállapítását a kormányhivatal, a támogatás központi költségvetéssel való elszámolását a pénzügyi intézmény végzi.
+
+(2)[^70] A pénzügyi intézményt az általa jogszerűen folyósított támogatás összege után 10 ezer forint egyszeri költségtérítés illeti meg, amelyet az előtörlesztés megtörténtét követően a támogatással és a 14. § (3) bekezdése szerinti előtörlesztési díjjal együtt számol el a központi költségvetéssel.
+
+(3) A pénzügyi intézmény legfeljebb az előtörlesztésként ténylegesen folyósított támogatásra, valamint az ahhoz kapcsolódó előtörlesztési díjra és költségtérítésre vonatkozó elszámolását a Kincstár honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat) található elszámolási nyomtatvány szerinti formában és a Kincstár által meghatározott tartalommal, havonta egy alkalommal készíti el, és elektronikusan hiteles formában – legalább minősített tanúsítványon alapuló fokozott elektronikus aláírással vagy minősített tanúsítványon alapuló elektronikus bélyegzővel ellátva – az eAdaton megküldi a következő hónap 20. napjáig a Kincstár részére.
+
+### 18. §
+
+A támogatást az állam nevében a pénzügyi intézmény elszámolása alapján a Kincstár nyújtja.
+
+### 19. §
+
+(1) A pénzügyi intézmény e rendelet szerinti elszámolását a Kincstár ellenőrzi.
+
+(2) A pénzügyi intézménynek regisztrálnia kell az eAdaton.
+
+(3) A Kincstár az elszámolás ellenőrzése során megvizsgálja, hogy a pénzügyi intézmény által az egyes támogatást megállapító határozatokhoz kapcsolódóan az elszámolással érintett hónapban folyósított – a 21. §-ban rögzített pénzügyi adatszolgáltatásban szereplő – támogatások összege megegyezik-e a pénzügyi intézmény által az elszámolással érintett naptári hónapra vonatkozóan igényelt támogatás összegével. Ha a Kincstár eltérést tapasztal, az utalványozást nem hajtja végre, elektronikus úton tájékoztatja a pénzügyi intézményt, és az elszámolás, illetve a 21. § (1) bekezdése szerinti adatszolgáltatás keretében rögzített adatok javítását kezdeményezi.
+
+(4) A Kincstár a pénzügyi intézmény által jogszerűen igényelt és utalványozásra befogadott támogatás kifizetését – az (5) bekezdésben és a 22. § (3) bekezdésében foglalt esetet kivéve – az elszámolás beérkezésének napját követő 8 munkanapon belül indítja az 10032000-01457106 számú, a „Magánlakás-építéshez nyújtott támogatások” elnevezésű kiadási számla terhére, a pénzügyi intézmény az eAdaton történő regisztráció során megjelölt számlája javára.
+
+(5) Az elszámolás késedelmes – de legkésőbb a tárgyhónapot követő hónap 22. napjáig – vagy hibásan történő megküldése esetén az utalási határidő az elkésett vagy a Kincstár észrevétele alapján javított elszámolás eAdaton történő beérkezésének napjától számított 8 munkanap. Ha a Kincstár az elszámolás javítását tartja szükségesnek, arról a pénzügyi intézményt soron kívül, elektronikus úton az eAdaton értesíti. A tárgyhónapot követő hónap 22. napját követően megküldött elszámolás esetén az utalás a következő havi elszámolás szerinti utalással egyidejűleg történik.
+
+### 20. §
+
+(1) Ha a Kincstár a pénzügyi intézmény ellenőrzése során a pénzügyi intézmény terhére jogosulatlan támogatáslehívást állapít meg, a pénzügyi intézmény azt a Kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelt összegben köteles a Kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni.
+
+(2) A Kincstár a 19. § (1) bekezdése szerinti, a pénzügyi intézménynél végzett ellenőrzése során a szükséges információk, dokumentumok bekérésére vagy a helyszínen azokba történő betekintésre jogosult.
+
+(3) Ha a Kincstár a 19. § (1) bekezdése szerinti ellenőrzés során a pénzügyi intézmény elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a pénzügyi intézménnyel szemben a polgári jog szabályai szerint érvényesíti.
+
+## 10. [^71] A támogatás folyósításával kapcsolatos adatszolgáltatás
+
+### 21. §
+
+(1) A pénzügyi intézmény elektronikus úton megküldi a Kincstárnak – ellenőrzési céllal, támogatást megállapító határozatok szerint, a Kincstár által készített, az eAdaton található útmutatóban rögzített formában – a naptári hónapban folyósított támogatások alábbi adatait:
+
+a) a támogatást megállapító határozat száma,
+
+b) a folyósított támogatás összege,
+
+c) a folyósított támogatáshoz kapcsolódó előtörlesztési díj és költségtérítés összege, valamint
+
+d) a támogatás folyósításának időpontja.
+
+(2) A pénzügyi intézmény az e § szerinti adatszolgáltatási kötelezettségét az (1) bekezdés szerinti útmutató szerinti formában, havonta egy alkalommal, a naptári hónapot követő 5. napon teljesíti. Az ezt követően teljesített adatszolgáltatásban szereplő tételeket a pénzügyi intézmény kizárólag a következő havi elszámolásban szerepeltetheti.
+
+### 22. §
+
+(1) A pénzügyi intézmény a 21. § szerinti adatszolgáltatását a Kincstár által küldött hibaüzenetek alapján felülvizsgálja, és a javított adatszolgáltatását soron kívül, ismételten megküldi.
+
+(2) A Kincstár a 21. § szerinti adatszolgáltatás
+
+a) nem teljesítése esetén a támogatásnak vagy
+
+b) hiányos vagy hibás teljesítése esetén a hiányos adatszolgáltatással érintett támogatásnak
+
+a pénzügyi intézmény részére történő folyósítását – felfüggeszti.
+
+(3) A (2) bekezdés b) pontja szerinti felfüggesztés esetén a támogatás folyósítása a hiányos vagy hibás adatszolgáltatás pótlását követő havi elszámolás szerinti folyósítással egyidejűleg történik.
+
+(4) A (2) bekezdés b) pontja szerinti felfüggesztés nem érinti a pénzügyi intézmény adatszolgáltatási hiánnyal nem érintett támogatásra vonatkozó elszámolási jogosultságát.
+
+### 22/A. §
+
+(1) Az e rendelet szerinti elszámolást és adatszolgáltatásokat három vagy annál több pénzügyi intézmény helyett, megbízási szerződés alapján egy másik pénzügyi intézmény (a továbbiakban: összesítő pénzügyi intézmény) összesítve is benyújthatja a Kincstár részére.
+
+(2) Az e rendelet szerinti elszámolásra és adatszolgáltatásra vonatkozó szabályokat az összesítő pénzügyi intézményre is alkalmazni kell azzal, hogy
+
+a) az összesített elszámolás és adatszolgáltatás az összesítéssel érintett pénzügyi intézmények székhelyét, cégjegyzékszámát és adószámát is tartalmazza,
+
+b) az elszámolás és adatszolgáltatás teljesítésére vonatkozó határidők és határnapok az összesítő pénzügyi intézmény tekintetében irányadóak,
+
+c) az összesítő pénzügyi intézmény felel a pénzügyi intézmények által megküldött elszámolások és adatszolgáltatások adatainak hibásan történő összesítéséből eredő kárért,
+
+d) az összesítő pénzügyi intézményt az összesített elszámolás és adatszolgáltatás teljesítéséért a pénzügyi intézmények tárgyhavi elszámolásában lehívott – a Kincstár által az elszámolás ellenőrzése alapján jóváhagyott – támogatási összeg 1,5‰-ének megfelelő összegű költségtérítés illeti meg, melyet az összesített tárgyhavi elszámolásban, külön jogcímen feltüntetve igényelhet a Kincstártól.
+
+## 11. Felelősség
+
+### 23. §
+
+(1) A pénzügyi intézmény felelős az állammal szemben minden olyan jogszerűtlenül folyósított támogatásért, amely az e rendelet alapján őt terhelő kötelezettség megszegésével keletkezett. Mentesül a pénzügyi intézmény a felelősség alól, ha bizonyítja, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
+(2) A pénzügyi intézmény nem felel azért a jogszerűtlenül folyósított támogatásból eredő kárért, amely a támogatott személy felróható magatartása miatt keletkezett.
+
+(3) Az (1) bekezdés szerinti jogszerűtlenül folyósított támogatás esetén a pénzügyi intézmény a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelten köteles megtéríteni a kárt az állam részére.
+
+(4) A pénzügyi intézmény a neki felróható okból eredő kár esetén a támogatott személlyel szemben köteles helytállni, e kötelezettségét az államra nem háríthatja át.
+
+(5)[^72] A támogatásra való jogosultság vizsgálatakor az igénylő által benyújtott nyilatkozatok, okiratok valódiságát – ha a kormányhivataltól, illetve pénzügyi intézménytől elvárható gondosság tanúsítása mellett annak hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
+
+## 12. Vegyes rendelkezések
+
+### 24. §[^73]
+
+A kormányhivatal e rendeletben szabályozott hatósági eljárása során
+
+a) az igénylőt hiánypótlásra legfeljebb két alkalommal felhívhatja,
+
+b) az igénylő az eljárás szünetelését nem kérheti, és
+
+c) az igénylő az iratot másolatban az eredeti irat egyidejű bemutatása mellett nyújthatja be.
+
+### 25. §[^74]
+
+Az e rendelet szerinti támogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszerek üzemeltetéséről és fejlesztéséről – a szakmai irányítást ellátó lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter) utasítása és felügyelete mellett – a Kincstár gondoskodik.
+
+### 26. §
+
+(1)[^75] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján
+
+a) ellátott feladatkörei gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja,
+
+b) a hatáskörébe tartozó közigazgatási hatósági ügyekkel a Ksztv. 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket a miniszter gyakorolja.
+
+(2)[^76] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján a hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti eljárást folytató felügyeleti szerv a miniszter.
+
+(3)[^77] A szakmai irányító miniszter szakmai képzéseket, vizsgákat, valamint szakmai (koordinációs) értekezleteket szervez a kormányhivatal lakástámogatásokkal foglalkozó munkatársai részére.
+
+### 27. §[^78]
+
+Az e rendelet szerinti támogatás lakáscélú állami támogatásnak minősül, amelyet a 16/2016. (II. 10.) Korm. rendelet 12. § (2) bekezdése, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 3. § (2) bekezdése, továbbá a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet 3. § (3) bekezdése alkalmazása során nem kell figyelembe venni.
+
+## 13. Záró rendelkezések
+
+### 28. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+### 29. §[^79]
+
+(1)[^80] Az egyes otthonteremtési tárgyú kormányrendeletek módosításáról szóló 46/2019. (III. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 7. § (1) bekezdés a) pontja és b) pont bb) alpontja szerinti támogatási összeg
+
+a) a Módr. hatálybalépésének[^81] napján és azt követően
+
+aa) született vér szerinti gyermekre vagy
+
+ab) örökbefogadott gyermekre vagy
+
+b) a Módr. hatálybalépésének[^82] napján és azt követően benyújtott kérelem benyújtásának időpontjában a várandósság legalább 12. hetét betöltött magzatra
+
+tekintettel igényelhető.
+
+(2) Ha az igénylő a 2019. június 30-án hatályos 7. § (1) bekezdése szerinti összegű támogatást a Módr. hatálybalépésének[^83] napját megelőzően már igénybe vette, a Módr.-rel megállapított 7. § (1) bekezdés b) pontja szerinti támogatási összeg és az igénybe vett támogatási összeg különbözetére jogosult, feltéve, hogy az (1) bekezdés szerinti feltétel fennáll. Az igénylő 2019. június 30-án hatályos 7. § (1) bekezdése szerinti összegű támogatás iránti, a Módr. hatálybalépésének napján folyamatban lévő kérelme esetén a Módr.-rel megállapított 7. § (1) bekezdés b) pontját kell alkalmazni.
+
+### 30. §[^84]
+
+Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését[^85] követően a Módr1. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.
+
+### 31. §[^86]
+
+(1) A gyermekvállalás és az otthonteremtés támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 252/2020. (V. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseket – a (3) bekezdés szerinti kivétellel – a Módr2. hatálybalépését[^87] megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, a véglegessé vált támogatást megállapított határozatok alapján folyósított támogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
+
+(2) A Módr2.-vel megállapított 3. § (2) bekezdését, 6. § (1) és (3) bekezdését, (6) bekezdés a) pontját, (7) bekezdés b) pontját, 7. § (1) bekezdés a) és b) pontját, 9. § (3) bekezdés a) pont ab) alpontját, valamint 11. § b) és c) pontját a Módr2. hatálybalépése[^88] előtt megkezdett eljárási cselekményekre is alkalmazni kell.
+
+(3) A Módr2.-vel megállapított 12. § (1a) és (1b) bekezdését csak a 2020. június 30-át követően született vagy örökbefogadott gyermekekre tekintettel benyújtott kérelmekre kell alkalmazni.
+
+### 31/A. §[^89]
+
+A családok otthonteremtésével összefüggő egyes kormányrendeletek módosításáról szóló 183/2021. (IV. 16.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését a Módr3. hatálybalépését[^90] megelőzően keletkezett tényekre és jogviszonyokra, illetve megkezdett eljárási cselekményekre is alkalmazni kell.
+
+### 31/B. §[^91]
+
+(1) Azok a korábbi támogatási kérelmük benyújtásakor több, a 4. § (1) bekezdésében foglaltaknak megfelelő lakáscélú jelzáloghitel-tartozással rendelkező támogatott személyek, akiknek a kérelmét az egyes otthonteremtési tárgyú kormányrendeletek módosításáról szóló 686/2020. (XII. 29.) Korm. rendelet hatálybalépését[^92] megelőzően hatályos 6. § (2) bekezdése alapján bírálták el, és ennek következtében kizárólag az egyik fennálló lakáscélú jelzáloghitel-tartozásukra tudták – a rájuk a 7. § (1) bekezdése szerint egyébként vonatkozó összegnél alacsonyabb összegű – támogatást érvényesíteni, a 6. § (2) bekezdésében és a 7. § (3) bekezdésében foglaltaktól eltérően még egy alkalommal, a családok támogatásaival összefüggő egyes kormányrendeletek módosításáról szóló 530/2021. (IX. 14.) Korm. rendelet (a továbbiakban: Módr4.) hatálybalépésétől[^93] számított 60 napon belül jogosultak – legfeljebb a korábbi támogatási kérelmük benyújtásának időpontjában fennálló egy vagy több további, támogatással még nem érintett lakáscélú jelzáloghitel-tartozásuk erejéig – az általuk már igénybe vett támogatás és – az annak kérelmezésekor hatályos – 7. § (1) bekezdése szerinti összeg különbözetének igénylésére.
+
+(2) Amennyiben az (1) bekezdés szerinti újabb kérelem benyújtásakor az annak tárgyát képező lakáscélú jelzáloghitel-tartozás már megszűnt, vagy annak összege alacsonyabb az (1) bekezdés szerint a támogatásból még fennmaradt összegnél, akkor ezek különbözetének kifizetésére is a 14. § (4) bekezdését kell alkalmazni.
+
+(3) A Módr4.-gyel megállapított 8. § b) pontját a Módr4. hatálybalépését[^94] megelőzően megkezdett eljárásokra is alkalmazni kell.
+
+### 32. §[^95]
+
+(1) Ha
+
+a) a 6. § (8) bekezdésében vagy
+
+b) a 10. § (1) vagy (3) bekezdésében
+
+foglalt határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) kezdetét követően jár le, az a veszélyhelyzet megszűnését követő 30. napig meghosszabbodik.
+
+(2) A veszélyhelyzet megszűnését követő 30. napig benyújtott kérelmek esetén a 8. § b) pontjában foglalt feltétel fennállását – ha az az igénylő számára kedvezőbb – a 2020. március 10-én fennállt állapot szerint kell vizsgálni.
+
+(3) Az (1) bekezdés a) pontját a veszélyhelyzet megszűnését megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, meghozott támogatási határozatokra, folyósított támogatásokra, folyamatban lévő eljárásokra, valamint megkezdett eljárási cselekményekre kell alkalmazni.
+
+### 33. §[^96]
+
+E rendeletnek az állam által fizetett költségtérítéssel kapcsolatban egyes kormányrendeletek módosításáról szóló 150/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 17. § (2) bekezdését a Módr5. hatálybalépését[^97] követően benyújtott támogatás iránti kérelmekre kell alkalmazni.
+
+### 34. §[^98]
+
+(1) Az egyes családtámogatási tárgyú kormányrendeletek módosításáról szóló 406/2023. (VIII. 30.) Korm. rendelettel (a továbbiakban: Módr6.)
+
+a) megállapított 2. § (1) bekezdés 3. pontját, 11. § a) pontját, 14. § (1) és (1a) bekezdését, 15/A. § (1) bekezdését és 15/B. §-át – a (2)–(4) bekezdésben foglalt kivétellel – a Módr6. hatálybalépésekor[^99] fennálló támogatási jogviszonyokra és folyamatban lévő eljárásokra is alkalmazni kell,
+
+b) hatályon kívül helyezett 4. § (1) bekezdés b) pontjának szövegrésze és 12. § (1a) bekezdésének szövegrésze a Módr6. hatálybalépésekor[^100] fennálló támogatási jogviszonyokra és megkezdett eljárásokra sem alkalmazhatók.
+
+(2) A Módr6. 34. § c) pontjával megállapított 12. § (1a) bekezdését és 30. §-ával megállapított 12. § (1b) bekezdését csak a 2020. június 30-át követően született vagy örökbefogadott gyermekekre tekintettel benyújtott kérelmekre kell alkalmazni. A Módr6. 28. §-ával megállapított 6. § (1a) bekezdésére tekintettel azon igénylő, akinek a Módr6. hatálybalépését[^101] megelőzően hatályos 6. §-a alapján a támogatásra való jogosultsága nem állt fenn, a kérelmét a Módr6. hatálybalépésének napjától számított 180 napon belül benyújthatja.
+
+(3) Azok a korábbi támogatási kérelmüknek a Módr6. hatálybalépését[^102] megelőző benyújtásakor a 4. § (1) bekezdésében foglaltaknak egyébként megfelelő lakáscélú jelzáloghitellel rendelkező igénylők, akik számára e kérelmük benyújtásáig a kölcsönszerződésben meghatározott kölcsönösszeg nem teljes egészét folyósították, és emiatt a Módr6. hatálybalépését megelőzően hatályos 7. § (2) bekezdése alkalmazásával a 7. § (1) bekezdésében foglaltaknál alacsonyabb összegű támogatást állapítottak meg a részükre, a 6. § (2) bekezdésében és a 7. § (3) bekezdésében foglaltaktól eltérően még egy alkalommal, a Módr6. hatálybalépésétől számított 60 napon belül jogosultak annak a különbözeti összegnek az igénylésére, amely a Módr6. 29. §-ával megállapított 7. § (2) bekezdésének a korábbi kérelembenyújtás időpontjában való alkalmazhatósága esetén a ténylegesen igénybe vett támogatási összegen felül őket – a 7. § korábbi kérelembenyújtás időpontjában hatályos (1) bekezdése szerinti mértékben – megillette volna.
+
+(4) Amennyiben a (3) bekezdés szerinti újabb kérelem benyújtásakor az annak tárgyát képező lakáscélú jelzáloghitel-tartozás már megszűnt, vagy annak összege alacsonyabb a (3) bekezdés szerint a támogatásból még fennmaradt összegnél, akkor ezek különbözetének kifizetésére is a 14. § (4) bekezdését kell alkalmazni.
+
+### 35. §[^103]
+
+A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint a babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosításáról szóló 303/2023. (VII. 11.) Korm. rendelet eltérő szöveggel történő hatálybaléptetéséről, továbbá egyes kapcsolódó kormányrendeletek módosításáról szóló 649/2023. (XII. 28.) Korm. rendelet (a továbbiakban: Módr7.) 21. § (2) bekezdés a) pontjával megállapított 4. § (2) bekezdését a Módr7. hatálybalépésekor[^104] fennálló támogatási jogviszonyokra és folyamatban lévő eljárásokra is alkalmazni kell.
+
+### 36. §[^105]
+
+Az egyes családügyi tárgyú kormányrendeletek módosításáról szóló 388/2024. (XII. 11.) Korm. rendelet (a továbbiakban: Módr8.) 15. §-ával megállapított 4. § (1) bekezdését, továbbá a 17. § a) pontjával megállapított 2. § (1) bekezdés 4. pont b) alpontját, b) pontjával megállapított 2. § (1) bekezdés 5. pontját és e) pontjával megállapított 12. § (1a) és (1b) bekezdését a Módr8. kihirdetését[^106] követő 30. napon folyamatban lévő, végleges döntéssel le nem zárt eljárásokra is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 2. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 2. § (1) bekezdés 3. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (1) bekezdésével megállapított, a 686/2020. (XII. 29.) Korm. rendelet 35. § b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 262. §-a, a 406/2023. (VIII. 30.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 4. pontja az 530/2021. (IX. 14.) Korm. rendelet 19. §-ával megállapított, záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 5. pontja a 388/2024. (XII. 11.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 6. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: A 3. § (2) bekezdése a 252/2020. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^10]: A 3. § (3) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 325. §-ával megállapított szöveg.
+[^11]: A 3. § (3) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 325. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^13]: A 4. § (1a) bekezdését a 686/2020. (XII. 29.) Korm. rendelet 30. §-a iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^14]: A 4. § (2) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 20. §-ával megállapított, az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja, a 649/2023. (XII. 28.) Korm. rendelet 21. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 20. §-a iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (4) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 61. § (1) bekezdése iktatta be.
+[^17]: Az 5. § az 530/2021. (IX. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^18]: A 6. § (1) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^19]: A 6. § (1a) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 28. §-a iktatta be.
+[^20]: A 6. § (2) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 36. §-a, az 530/2021. (IX. 14.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 252/2020. (V. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^22]: A 6. § (6) bekezdés a) pontja a 46/2019. (III. 12.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 252/2020. (V. 29.) Korm. rendelet 15. § a) pont ab) alpontja szerint módosított szöveg.
+[^23]: A 6. § (7) bekezdése a 46/2019. (III. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (7) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 15. § a) pont ac) alpontja szerint módosított szöveg.
+[^25]: A 6. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^26]: A 7. § (1) bekezdése a 252/2020. (V. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^27]: A 7. § (1) bekezdés c) pontja a 686/2020. (XII. 29.) Korm. rendelet 35. § d) pontja, az 530/2021. (IX. 14.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^29]: A 8. § b) pontja az 530/2021. (IX. 14.) Korm. rendelet – a Magyar Közlöny 2021. évi 170. számában helyesbített – 23. § d) pontja szerint módosított szöveg.
+[^30]: A 9. § (1) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^31]: A 9. § (2) bekezdés nyitó szövegrésze a 30/2020. (II. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdés a) pont aa) alpontja az 530/2021. (IX. 14.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^33]: A 9. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^34]: A 9. § (3) bekezdés a) pont aa) alpontja az 530/2021. (IX. 14.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^35]: A 9. § (3) bekezdés a) pont ab) alpontja a 252/2020. (V. 29.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^36]: A 9. § (3) bekezdés b) pontja a 388/2024. (XII. 11.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^37]: A 9. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^38]: A 10. § a 252/2020. (V. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^39]: A 10. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^40]: A 10. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^41]: A 11. § a) pontja a 406/2023. (VIII. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^42]: A 11. § b) pontja a 252/2020. (V. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^43]: A 11. § c) pontja a 252/2020. (V. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^44]: A 11. § e) pontját a 183/2021. (IV. 16.) Korm. rendelet 21. §-a iktatta be.
+[^45]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés a)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^46]: A 12. § (1a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 13. §-a iktatta be, záró szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 34. § c) pontja és 35. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^47]: A 12. § (1a) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^48]: A 12. § (1b) bekezdését a 252/2020. (V. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 406/2023. (VIII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^49]: A 12. § (3a) bekezdését a 686/2020. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^50]: A 12. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^51]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^52]: A 12. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^53]: A 13. § (1) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^54]: A 13. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A 13. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 14. § (1) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 23. § g) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
+[^57]: A 14. § (1a) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 31. §-a iktatta be.
+[^58]: A 14. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^59]: A 14. § (6) bekezdése a 46/2019. (III. 12.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^60]: A 15. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja, az 518/2023. (XI. 30.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
+[^61]: A 15. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^62]: A 15. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^63]: A 15/A. §-t a 686/2020. (XII. 29.) Korm. rendelet 33. §-a iktatta be.
+[^64]: A 15/A. § (1) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 23. § h) pontja és 24. §-a, a 786/2021. (XII. 27.) Korm. rendelet 12. §-a, a 406/2023. (VIII. 30.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
+[^65]: A 15/A. § (2) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
+[^66]: A 15/B. §-t a 406/2023. (VIII. 30.) Korm. rendelet 32. §-a iktatta be.
+[^67]: A 8. alcímet (16. §) a 360/2019. (XII. 30.) Korm. rendelet 175. § (4) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^68]: A 9. alcím (17–20. §) a 101/2019. (V. 2.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^69]: A 17. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^70]: A 17. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^71]: A 10. alcím (21–22/A. §) a 101/2019. (V. 2.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^72]: A 23. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^73]: A 24. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^74]: A 25. § a 101/2019. (V. 2.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 175. §-a szöveg.
+[^75]: A 26. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^76]: A 26. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^77]: A 26. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^78]: A 27. § a 649/2023. (XII. 28.) Korm. rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A 29. §-t a 46/2019. (III. 12.) Korm. rendelet – a 118/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított – 17. §-a iktatta be.
+[^80]: A 29. § (1) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 34. §-ával megállapított, nyitó szövegrésze az 530/2021. (IX. 14.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.
+[^81]: A hatálybalépés időpontja 2019. július 1.
+[^82]: A hatálybalépés időpontja 2019. július 1.
+[^83]: A hatálybalépés időpontja 2019. július 1.
+[^84]: A 30. §-t a 101/2019. (V. 2.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^85]: A hatálybalépés időpontja 2019. október 1.
+[^86]: A 31. §-t a 252/2020. (V. 29.) Korm. rendelet 14. §-a iktatta be.
+[^87]: A hatálybalépés időpontja 2020. június 13.
+[^88]: A hatálybalépés időpontja 2020. június 13.
+[^89]: A 31/A. §-t a 183/2021. (IV. 16.) Korm. rendelet 22. §-a iktatta be.
+[^90]: A hatálybalépés időpontja 2021. április 21.
+[^91]: A 31/B. §-t az 530/2021. (IX. 14.) Korm. rendelet 22. §-a iktatta be.
+[^92]: A hatálybalépés időpontja 2021. január 1.
+[^93]: A hatálybalépés időpontja 2021. szeptember 29.
+[^94]: A hatálybalépés időpontja 2021. szeptember 29.
+[^95]: A 32. §-t a 284/2020. (VI. 17.) Korm. rendelet 85. §-a iktatta be.
+[^96]: A 33. §-t a 150/2022. (IV. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^97]: A hatálybalépés időpontja 2022. április 29.
+[^98]: A 34. §-t a 406/2023. (VIII. 30.) Korm. rendelet 33. §-a iktatta be.
+[^99]: A hatálybalépés időpontja 2023. szeptember 1.
+[^100]: A hatálybalépés időpontja 2023. szeptember 1.
+[^101]: A hatálybalépés időpontja 2023. szeptember 1.
+[^102]: A hatálybalépés időpontja 2023. szeptember 1.
+[^103]: A 35. §-t a 649/2023. (XII. 28.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^104]: A hatálybalépés időpontja 2024. január 1.
+[^105]: A 36. §-t a 388/2024. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
+[^106]: A kihirdetés időpontja 2024. december 11.

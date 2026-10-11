@@ -1,0 +1,300 @@
+---
+title: "119/2011. (VII. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "119/2011. (VII. 13.) Korm. rendelet"
+njt_id: "2011-119-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/119"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-07-13
+in_force_from: 2011-07-14
+last_amended: 2011-07-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-119-20-22"
+retrieved: 2026-10-12
+---
+
+# 119/2011. (VII. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+**„AGREEMENT**
+
+**between the Government of the Republic of Hungary and the Government of the Republic of Macedonia on Economic Cooperation**
+
+The Government of the Republic of Hungary and the Government of the Republic of Macedonia (hereinafter referred to as the ”Contracting Parties”),
+
+– Desirous of enhancing the long-standing relationship between their countries,
+
+– Wishing to continue and reinforce their existing traditional economic relations,
+
+– With the intention of developing and intensifying their economic, industrial, technical and technological cooperation on the basis of mutual benefit,
+
+– With the conviction that the deepening of the contractual framework establishes favourable conditions and suitable basis for further cooperation,
+
+– Within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations,
+
+have agreed as follows:
+
+**Article 1**
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, the expansion and diversification of mutually advantageous economic cooperation in all fields relevant to economic development.
+
+**Article 2**
+
+The Contracting Parties, considering the current state and perspectives of their economic relation, agreed that favourable conditions for long-term cooperation exist, inter alia, in the following areas:
+
+– Primary agricultural production, food processing industry, processing and storage of agricultural products especially foodstuff;
+
+– Building of new energy facilities and rehabilitation of the existing power plants;
+
+– Electrical equipment and appliances;
+
+– Electronic and electrotechnical industry;
+
+– Exploration, production, preparation, treatment and further processing as well as marketing of minerals and mining products;
+
+– Chemical and petrochemical industry;
+
+– Packaging technology;
+
+– Environment;
+
+– Water and waste management;
+
+– Forestry and wood processing industry;
+
+– Health care, medical technology, medical and pharmaceutical industry;
+
+– Human resource development;
+
+– Labour policy and employment;
+
+– Cooperation between small and medium-sized businesses;
+
+– Info communication technology;
+
+– Transport, especially transport management and development of the transport infrastructure;
+
+– Communal infrastructure;
+
+– Research and development.
+
+The Contracting Parties upon mutual interest may extend the application of this Agreement on new areas of cooperation e.g. tourism on suggestion of respective institutions.
+
+**Article 3**
+
+The Contracting Parties shall endeavour to broaden and intensify their cooperation through appropriate means, such as:
+
+– Cooperation in the field of European integrations, with the aim of fulfilling the economic criteria from acquis communautaire;
+
+– Promoting the links and strengthening the cooperation between the economic policy-makers, government institutions, professional organizations, business federations, chambers, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their representatives and other economic and technical delegations;
+
+– Exchanging information on development priorities and facilitating the participation of business operators in development projects;
+
+– Expediting the establishment of new contacts and broadening the existing ones between the business communities of the two countries, encouraging the visits, meetings and other interactions between individuals and enterprises;
+
+– Exchanging business information, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences;
+
+– Promoting the stronger participation of small and medium-sized enterprises in bilateral economic relations;
+
+– Encouraging the cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+– Encouraging the financial institutions and banking sector to establish closer contacts and strengthen their cooperation respectively;
+
+– Encouraging investment activities, the foundations of joint ventures, establishment of company representations and branch offices;
+
+– Promoting of interregional cooperation and cooperation on international level in issues of mutual interest.
+
+**Article 4**
+
+Upon conclusion of this Agreement a “Joint Commission” shall be established and upon request of the Contracting Parties shall meet regularly and alternately in the Republic of Hungary and in the Republic of Macedonia.
+
+The duties of the Joint Commission shall comprise, in particular, the following:
+
+– Discussion of the development of the bilateral economic relations;
+
+– Identifying new possibilities for the further development of the future economic cooperation;
+
+– Drawing up suggestions and finding solutions for the improvement of the terms for the economic cooperation;
+
+– Making proposals for the application of the Agreement;
+
+– Reviewing the implementation of the Agreement.
+
+Differences of opinion between the Contracting Parties on the implementation or interpretation of this Agreement are to be settled within the framework of the Joint Commission.
+
+**Article 5**
+
+This Agreement shall in no way prejudice the obligations of the Republic of Hungary as a member state of the European Union, and is subject to those obligations. Consequently the provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of the Republic of Hungary arising from the Treaty of Accession, the Treaties on which the European Union is founded, as well as from the primary and secondary law of the European Union.
+
+The provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations imposed by the agreements between the Republic of Macedonia and the European Community and membership of the Republic of Macedonia in international groupings.
+
+**Article 6**
+
+This Agreement shall enter into force upon the thirtieth day following the receipt of the last notification, through diplomatic channels, by which the Contracting Parties have informed each other that all internal legal procedures for its entry into force have been fulfilled.
+
+This Agreement is concluded for a period of three years and shall be automatically extended for successive one year periods unless either Contracting Party notifies the other, in writing, of its intention to terminate it three months before expiry of the initial or any subsequent period.
+
+This Agreement may be modified by written mutual consent of the Contracting Parties. The amendments shall enter into force in accordance with the procedures established in the first paragraph of this Article.
+
+Done at Skopje, on 12<sup>th</sup> of May 2011, in two originals in the Hungarian, Macedonian and English languages, all texts being equally authentic. In case of divergences in interpretation the English text shall prevail.
+
+FOR THE GOVERNMENT\
+OF THE REPUBLIC OF HUNGARY
+
+FOR THE GOVERNMENT\
+OF THE REPUBLIC OF MACEDONIA
+
+**MEGÁLLAPODÁS**
+
+**a Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya között gazdasági együttműködésről**
+
+A Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya (a továbbiakban: a „Szerződő Felek”),
+
+– Attól az óhajtól vezérelve, hogy továbberősítsék az országaik között fennálló hosszú távú kapcsolatot,
+
+– Arra törekedve, hogy a már meglévő hagyományos gazdasági kapcsolataikat fenntartsák és megerősítsék,
+
+– A gazdasági, ipari, műszaki és technológiai együttműködés kölcsönös előnyökön nyugvó fejlesztésének és megerősítésének szándékával,
+
+– Azzal a meggyőződéssel, hogy a szerződéses keret elmélyítése a további együttműködéshez kedvező feltételeket és megfelelő alapot teremt,
+
+– A két országban hatályos vonatkozó jogi kereteken belül és a nemzetközi kötelezettségeknek maradéktalanul eleget téve,
+
+a következőkben állapodnak meg:
+
+**1. cikk**
+
+A Szerződő Felek a vonatkozó hatályos jogi kereteken belül a gazdasági fejlődés szempontjából minden lényeges területen elősegítik a kölcsönösen előnyös gazdasági együttműködés kibővítését és változatossá tételét.
+
+**2. cikk**
+
+Gazdasági kapcsolatuk jelenlegi helyzetét és kilátásait figyelembe véve a Szerződő Felek egyetértettek abban, hogy a hosszú távú együttműködés számára kedvező feltételek kínálkoznak többek között a következő területeken:
+
+– Elsődleges mezőgazdasági termelés, élelmiszer-feldolgozó ipar, mezőgazdasági termékek, különösen élelmiszerek feldolgozása és tárolása;
+
+– Új energialétesítmények építése és már működő erőművek felújítása;
+
+– Elektromos berendezések és készülékek;
+
+– Elektronikai és elektrotechnikai ipar;
+
+– Ásványi anyagok és bányászati termékek feltárása, kitermelése, előkészítése, kezelése és további feldolgozása, illetve forgalmazása;
+
+– Vegyipar és petrokémiai ipar;
+
+– Csomagolástechnika;
+
+– Környezetvédelem;
+
+– Víz- és hulladékgazdálkodás;
+
+– Erdészet és fafeldolgozó ipar;
+
+– Egészségügy, orvostechnológia, gyógyászat és gyógyszeripar;
+
+– Humánerőforrás-fejlesztés;
+
+– Munkaügyi politika és foglalkoztatás;
+
+– Kis- és közepes vállalkozások együttműködése;
+
+– Infokommunikációs technológia;
+
+– Közlekedés, különösen közlekedésirányítás és közlekedési infrastruktúra fejlesztés;
+
+– Közmű infrastruktúra;
+
+– Kutatás-fejlesztés.
+
+Kölcsönös érdeklődés esetén a Szerződő Felek a jelen Megállapodás alkalmazását az illetékes intézmények javaslatára új együttműködési területekre, például a turizmusra is kiterjeszthetik.
+
+**3. cikk**
+
+A Szerződő Felek igyekeznek a közöttük meglévő együttműködést megfelelő eszközökkel szélesíteni és fokozni, úgymint:
+
+– A közösségi vívmányokból következő gazdasági kritériumok teljesítése céljából együttműködés az európai integrációk területén;
+
+– A gazdasági döntéshozók, a kormányzati szervek, a szakmai szervezetek, az érdekképviseletek, a kamarák, a regionális és a helyi szervezetek közötti kapcsolatok építése és együttműködésük erősítése, a kölcsönös érdeklődésre számot tartó gazdasági információcsere, valamint a felek képviselői és egyéb, gazdasági és szakmai küldöttségek által tett látogatások ösztönzése;
+
+– Információcsere a fejlesztési prioritásokról, valamint az üzleti szereplők részvételének elősegítése a fejlesztési projektekben;
+
+– A két ország üzleti körei között épülő új kapcsolatok elősegítése és a már meglévők szélesítése, valamint az egyének és a vállalkozások látogatásainak, találkozóinak és egyéb együttműködési lehetőségeinek ösztönzése;
+
+– Üzleti információk cseréje, vásárokon és kiállításokon való részvétel, üzleti rendezvények, szemináriumok, szimpóziumok és konferenciák szervezésének ösztönzése;
+
+– A kis- és közepes vállalakozások fokozottabb részvételének elősegítése a kétoldalú gazdasági kapcsolatokban;
+
+– A konzultációs, marketing, tanácsadói és szakértői szolgáltatásokban az együttműködés ösztönzése a kölcsönös érdeklődésre számot tartó területeken;
+
+– A pénzintézetek és a bankszektor ösztönzése szorosabb kapcsolatok létesítésére, illetve az együttműködés megerősítésére;
+
+– Beruházási tevékenységek, vegyesvállalat alapítások, vállalati képviselet és fiókiroda nyitások ösztönzése;
+
+– A kölcsönös érdeklődésre számot tartó kérdésekben a régióközi együttműködés és a nemzetközi szintű együttműködés elősegítése.
+
+**4. cikk**
+
+A jelen Megállapodás megkötését követően „Vegyesbizottság” létrehozására kerül sor, amely rendszeresen, a Szerződő Felek kérésére a Magyar Köztársaságban és a Macedón Köztársaságban felváltva ülésezik.
+
+A Vegyesbizottság feladataiba tartoznak különösen a következők:
+
+– A kétoldalú gazdasági kapcsolatok alakulásának megvitatása;
+
+– A jövőbeli gazdasági együttműködés továbbfejlesztésére vonatkozó új lehetőségek meghatározása;
+
+– A gazdasági együttműködés feltételeinek javítására vonatkozó javaslatok kidolgozása és megoldások keresése;
+
+– A Megállapodás alkalmazására vonatkozó javaslattétel;
+
+– A Megállapodás végrehajtásának áttekintése.
+
+A jelen Megállapodás végrehajtása vagy értelmezése során felmerülő véleménykülönbségeket a Szerződő Felek a Vegyesbizottság keretében rendezik.
+
+**5. cikk**
+
+A Magyar Köztársaság európai uniós tagságából fakadó kötelezettségeit nem befolyásolja a jelen Megállapodás, így rá is vonatkoznak ezek a kötelezettségek. Következésképpen a jelen Megállapodás rendelkezéseit sem együttesen, sem részben nem lehet úgy idézni vagy értelmezni, mintha a Magyar Köztársaság által vállalt, a Csatlakozási Szerződésből, az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeket érvénytelenítenék, módosítanák, vagy egyéb módon befolyásolnák.
+
+A jelen Megállapodás rendelkezéseit sem együttesen, sem részben nem lehet úgy idézni vagy értelmezni, mintha a Macedón Köztársaság és az Európai Közösség között létrejött megállapodásokban meghatározott, illetve nemzetközi csoportosulásokban a Macedón Köztársaság tagságával járó kötelezettségeket érvénytelenítenék, módosítanák, vagy egyéb módon befolyásolnák.
+
+**6. cikk**
+
+A jelen Megállapodás harminc nappal azt követően lép hatályba, hogy diplomáciai csatornákon az utolsó értesítés is beérkezett, amelyben a Szerződő Felek tájékoztatják egymást, miszerint a hatálybaléptetéshez szükséges belső jogi eljárások megtörténtek.
+
+A jelen megállapodás hároméves időtartamra szól és újabb egy-egy évvel automatikusan meghosszabbodik, kivéve, ha az első vagy bármely későbbi időtartam lejárta előtt három hónappal valamelyik Szerződő Fél a másikat a felmondási szándékáról értesíti.
+
+A jelen Megállapodást a Szerződő Felek kölcsönös írásbeli hozzájárulásával lehet módosítani. A módosítások a jelen cikk első bekezdésében meghatározott eljárás szerint lépnek hatályba.
+
+Készült Szkopjéban, 2011. május hó 12. napján két-két magyar, macedón és angol nyelvű eredeti példányban, amelyek szövege egyaránt hiteles. Eltérő értelmezés esetén az angol szövegváltozat az irányadó.
+
+*A MAGYAR KÖZTÁRSASÁG KORMÁNYA RÉSZÉRŐL*
+
+*A MACEDÓN KÖZTÁRSASÁG KORMÁNYA RÉSZÉRŐL”*
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a megállapodás 6. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a megállapodás 6. cikkében meghatározott időpontban lép hatályba. A 30/2011. (XI. 21.) KüM határozat alapján a hatálybalépés időpontja 2011. december 9.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a megállapodás 6. cikkében meghatározott időpontban lép hatályba. A 30/2011. (XI. 21.) KüM határozat alapján a hatálybalépés időpontja 2011. december 9.
+[^3]: A 30/2011. (XI. 21.) KüM határozat alapján a hatálybalépés időpontja 2011. december 9.
+[^4]: Lásd a 30/2011. (XI. 21.) KüM határozatot.

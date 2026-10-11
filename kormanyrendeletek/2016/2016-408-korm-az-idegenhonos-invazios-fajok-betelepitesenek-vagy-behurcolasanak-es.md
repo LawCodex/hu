@@ -1,0 +1,312 @@
+---
+title: "408/2016. (XII. 13.) Korm. rendelet az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről"
+identifier: "408/2016. (XII. 13.) Korm. rendelet"
+njt_id: "2016-408-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/408"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-13
+in_force_from: 2017-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-408-20-22"
+retrieved: 2026-10-12
+---
+
+# 408/2016. (XII. 13.) Korm. rendelet az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről
+
+A Kormány
+
+a természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 14. pontjában,
+
+a 2. alcím tekintetében a természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 15. pontjában,
+
+a 3. alcím tekintetében a természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 13. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az 1143/2014/EU európai parlamenti és tanácsi rendelet szerinti feladatokat ellátó szervek
+
+### 1. §
+
+(1) A természetvédelemért felelős miniszter (a továbbiakban: miniszter) ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 4. cikk (4) bekezdése,
+
+b) 12. cikk (2) bekezdése,
+
+c) 13. cikk (5) bekezdése,
+
+d) 16. cikk (2) bekezdése,
+
+e) 17. cikk (4) bekezdése,
+
+f) 19. cikk (5) bekezdése és
+
+g) 22. cikke,
+
+h)[^1] 9. cikk (3) bekezdése
+
+szerinti feladatokat.
+
+(2) A miniszter feladata az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 5. cikk (2) bekezdése szerinti kockázatelemzés elkészítése a természetvédelmi és élelmiszerlánc-felügyeleti szervek és tudományos intézetek bevonásával,
+
+b) 13. cikk (1) bekezdése szerinti elemzés és a 13. cikk (2) bekezdése szerinti cselekvési terv kidolgozása a természetvédelmi és élelmiszerlánc-felügyeleti szervek és tudományos intézetek, szervezetek bevonásával,
+
+c) 14. cikke szerinti felmérés, monitorozás és egységes adatgyűjtő rendszer országos koordinációja,
+
+d) 17. cikk (1) bekezdése szerinti bejelentés és tájékoztatás,
+
+e) 18. cikk (1) bekezdése szerinti értesítés,
+
+f) 19. cikk (2) bekezdése szerinti kezelési intézkedések országos koordinációja és a 19. cikk (5) bekezdése szerinti értesítés,
+
+g) 20. cikke szerinti, a sérült ökológiai rendszerek helyreállításának országos koordinációja, valamint
+
+h) 24. cikk (1) bekezdése szerinti jelentéstétel, valamint a 24. cikk (2) bekezdése szerinti bejelentés és tájékoztatás.
+
+### 2. §
+
+(1)[^2] Az országos illetékességgel eljáró természetvédelmi hatóság ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a)[^3]
+
+b) 10. cikk (1), (5), (6) és (7) bekezdése
+
+szerinti feladatokat.
+
+(2)[^4] Az országos illetékességgel eljáró természetvédelmi hatóság ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 14. cikke szerinti korai észlelés hatósági felügyeleti rendszerének üzemeltetésével, a hatósági adatgyűjtés országos koordinációjával és az ezzel kapcsolatos intézkedések elrendelésével, valamint
+
+b) 15. cikk (7) bekezdése szerinti hatósági ellenőrzések országos koordinációjával,
+
+c)[^5] a 8. cikk (1) bekezdése szerinti ex situ engedélyezéssel
+
+kapcsolatos feladatokat.
+
+### 3. §
+
+(1)[^6] Az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság és halgazdálkodási hatóság közreműködik
+
+a) az 1. § (2) bekezdés a) és b) pontja, valamint
+
+b) a 2. § (2) bekezdése
+
+szerinti feladatok ellátásában.
+
+(2)[^7] Az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság és halgazdálkodási hatóság közreműködik az 1143/2014/EU európai parlamenti és tanácsi rendelet 17. és 19. cikke szerinti intézkedések koordinációjában.
+
+### 4. §[^8]
+
+A természetvédelmi, környezetvédelmi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, erdészeti, vadászati és halgazdálkodási feladatkörében eljáró vármegyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság, halgazdálkodási hatóság és természetvédelmi hatóság – a hatáskörébe tartozó ügyekben – ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 8. cikke szerinti engedélyezéssel,
+
+b) 9. cikk (1) bekezdése szerinti engedélyezéssel,
+
+c) 14. cikke szerinti adatgyűjtéssel és adatrögzítéssel,
+
+d) 17. cikk (1) és (3) bekezdése szerinti, az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó intézkedések elrendelésével és ellenőrzésével,
+
+e) 19. cikk (2) bekezdése szerinti kezelési intézkedések elrendelésével,
+
+f) 20. cikke szerinti helyreállítási intézkedésekkel,
+
+g) 31. cikke szerinti eljárásokkal és
+
+h) 32. cikke szerinti engedélyezéssel
+
+kapcsolatos feladatokat.
+
+### 5. §
+
+(1) A nemzeti park igazgatóság közreműködik az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 14. cikke szerinti korai észlelés felügyeleti rendszerével kapcsolatos adatgyűjtési és adatrögzítési feladatok végrehajtásában,
+
+b) 17. cikk (1)–(3) bekezdése szerinti, az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó intézkedések végrehajtásában,
+
+c) 19. cikke szerinti kezelési intézkedések végrehajtásában – ha az nem tartozik más hatóság feladat- és hatáskörébe –, valamint
+
+d) 20. cikke szerint a sérült ökológiai rendszerek helyreállításában és a helyreállítás végrehajtásának ellenőrzésében.
+
+(2) A nemzeti park igazgatóság kezdeményezheti az 1143/2014/EU európai parlamenti és tanácsi rendelet 17. cikk (1)–(3) bekezdése szerinti, az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó intézkedéseket.
+
+### 6. §
+
+A vízügyi és vízvédelmi igazgatási szervek feladat- és hatáskörükbe tartozó ügyekben, alaptevékenységüket nem veszélyeztető módon közreműködnek az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 14. cikke szerinti korai észlelés felügyeleti rendszerével kapcsolatos adatgyűjtési és adatrögzítési feladatok végrehajtásában,
+
+b) 17. cikk (1)–(3) bekezdése szerinti, az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó intézkedések kezdeményezésében és – indokolt esetben – azok végrehajtásában, valamint
+
+c) 19. cikke szerinti kezelési intézkedések végrehajtásában.
+
+### 7. §
+
+A területi vízügyi hatóság a feladat- és hatáskörébe tartozó ügyekben alaptevékenységét nem veszélyeztető módon közreműködik az 1143/2014/EU európai parlamenti és tanácsi rendelet
+
+a) 17. cikk (1) és (3) bekezdése szerinti, az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó intézkedések foganatosításában és azok ellenőrzésében, valamint
+
+b) 19. cikke szerinti kezelési intézkedések érvényesítésében.
+
+### 8. §
+
+(1)[^9] Az 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtása érdekében a kormányhivatal, az országos illetékességgel eljáró természetvédelmi hatóság, az országos illetékességgel eljáró növénytermesztési hatóság, a területi vízügyi hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv hatósági ellenőrzést végez.
+
+(2) A Nemzeti Adó- és Vámhivatal a hatósági ellenőrzés keretében ellenőrzi az 1143/2014/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti engedély meglétét.
+
+### 9. §
+
+(1)[^10] Az 1143/2014/EU európai parlamenti és tanácsi rendeletben előírt bejelentési és tájékoztatási kötelezettség alá tartozó információt annak megismerését követően haladéktalanul a kormányhivatalhoz kell továbbítani.
+
+(2)[^11] Ha az 1143/2014/EU európai parlamenti és tanácsi rendelet 10. cikkével kapcsolatos információ más eljáró hatóság tudomására jut, azt haladéktalanul az országos illetékességgel eljáró természetvédelmi hatóságnak továbbítja.
+
+(3)[^12] Az 1143/2014/EU európai parlamenti és tanácsi rendelet 24. cikke szerinti kötelezettségek teljesítése érdekében az eljáró hatóság megküldi az engedélyezéshez, ellenőrzéshez, szankcionáláshoz és az európai uniós jelentéstételi kötelezettséghez kapcsolódó információkat az országos illetékességgel eljáró természetvédelmi hatóság részére.
+
+(4)[^13] A jelentéstételi kötelezettségek ellátása érdekében az országos illetékességgel eljáró természetvédelmi hatóság a miniszter által vezetett minisztérium részére továbbítja az 1143/2014/EU európai parlamenti és tanácsi rendelet 24. cikke szerinti rendelkezésére álló adatokat az 1143/2014/EU európai parlamenti és tanácsi rendelet 25. cikke szerinti formában.
+
+## 2. Szankciók
+
+### 10. §
+
+(1) A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 10. § (4) bekezdése szerinti hatóság által az idegenhonos inváziós fajjal kapcsolatban kiszabott, a Tvt. 80/A. §-a szerinti bírság (a továbbiakban: inváziós bírság) mértéke:
+
+a) adminisztrációs kötelezettségek megsértése esetén 10 000 Ft – 200 000 Ft,
+
+b) engedélytől eltérően folytatott tevékenység esetén 100 000 Ft – 500 000 Ft,
+
+c) engedély nélkül végzett tevékenység esetén 100 000 Ft – 2 000 000 Ft,
+
+d) ha a jogsértés jelentős mértékű kárt okoz, 500 000 Ft – 20 000 000 Ft.
+
+(2) Az inváziós bírság összegének meghatározása során figyelembe kell venni
+
+a)[^14]
+
+b)[^15]
+
+c)[^16]
+
+d) a jogsértő magatartás veszélyességét vagy károsító hatását,
+
+e) az ország, illetve a térség őshonos élővilágának állapotára gyakorolt hatását,
+
+f) a jogsértő magatartással érintett területnek az ökológiai hálózat koherenciájában betöltött szerepét,
+
+g) a jogsértő magatartással érintett élőhelyek, fajok, illetve területek kedvező ökológiai állapotának elérését vagy fenntartását befolyásoló hatások jelentőségét,
+
+h) a bekövetkezett kár mértékét,
+
+i) a helyreállíthatóság lehetőségét, a terület természetes megújulási képességét, illetve az élőhelytípus regenerálódási képességét,
+
+j) a biodiverzitás védelmét sértő további magatartástól való visszatartást, valamint
+
+k) a cselekmény engedély nélkül vagy engedélytől eltérően végzett jellegét.
+
+(2a)[^17] Az inváziós bírság megfizetésére a bírságoló szerv a teljesítési határidő lejárta előtt előterjesztett kérelemre, határozatban legfeljebb 12 havi részletfizetést engedélyezhet, ha az inváziós bírság megfizetésére kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
+
+(3) Az 1143/2014/EU európai parlamenti és tanácsi rendelet érvényesítése érdekében a Tvt. 10. § (4) bekezdése szerinti hatóság a feladat- és hatáskörébe tartozó ügyekben – a (2) bekezdésben foglalt mérlegelési szempontok figyelembevételével – az alábbi intézkedéseket rendelheti el:
+
+a)[^18] az idegenhonos inváziós fajok egyedeinek zár alá vétele vagy elkobzása,
+
+b) az engedély hatályának felfüggesztése vagy az engedély visszavonása,
+
+c) a zavaró, veszélyeztető, károsító tevékenység korlátozása, felfüggesztése vagy megtiltása,
+
+d) helyreállítási kötelezettség elrendelése,
+
+e) védőzónák kijelölése,
+
+f) az idegenhonos inváziós fajok terjedését lehetővé tevő tárgyak szállításának, forgalomba hozatalának és tárolásának korlátozása vagy megtiltása,
+
+g) az idegenhonos inváziós fajok egyedei szaporításának, termesztésének, tenyésztésének, tartásának, valamint igénybevételének korlátozása vagy megtiltása,
+
+h) az idegenhonos inváziós fajok elterjedésének megakadályozására, előfordulásának, felszaporodásának figyelemmel kísérésére és a védekezési intézkedések megtételére kötelezés,
+
+i) az idegenhonos inváziós fajok terjedése által veszélyeztetett területeken meghatározott idegenhonos inváziós fajoktól való mentesítésre, illetve annak fenntartására kötelezés,
+
+j) idegenhonos inváziós fajok tárolására, raktározására szolgáló földterületek, épületek, építmények, helyiségek vagy tartályok fertőtlenítésének, mentesítésének vagy megtisztításának előírása, és ennek érdekében meghatározott anyagok, eszközök vagy technológiai eljárások használatának előírása vagy megtiltása,
+
+k) inváziós faj elleni közérdekű védekezés vagy inváziós faj elleni állami védekezés elrendelése.
+
+(4) A (3) bekezdés szerinti intézkedések együttesen is elrendelhetők.
+
+## 3. Inváziós szakkérdés
+
+### 11. §
+
+(1) Az idegenhonos inváziós fajjal kapcsolatos engedélyezési, ellenőrzési, szankcionálási eljárásban vizsgálni kell, hogy
+
+a) a tevékenység megfelel-e az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve a jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírásokban foglaltaknak,
+
+b) mindent megtettek-e az idegenhonos inváziós fajok új helyeken történő megjelenésének, behurcolásának, terjedésének megakadályozása érdekében,
+
+c) elhárították-e az idegenhonos inváziós fajok által okozott károkat.
+
+(2) Ha az 1143/2014/EU európai parlamenti és tanácsi rendelet szerinti, az Európai Unió, a régió vagy a tagállam számára veszélyt jelentő idegenhonos inváziós fajok jegyzékében nem szereplő faj inváziós tulajdonságának vizsgálata szükséges, az inváziós szakkérdés keretében vizsgálni kell, hogy
+
+a) megállapítható-e a faj, illetve fajta inváziós tulajdonsága a szaporodására, növekedésére és terjedőképességére vonatkozó információk alapján, a nemzetközi, régiós és nemzeti inváziós listák figyelembevételével,
+
+b) jelent-e a faj az őshonos fajokra, valamint a természetes és természetszerű élőhelyekre kockázatot,
+
+c) jelent-e a faj általános ökológiai kockázatot.
+
+## 3/A. [^19] A kedvtelésből tartott idegenhonos inváziós fajok példányainak bejelentő- és információs rendszere
+
+### 11/A. §
+
+(1) Az 1143/2014/EU európai parlamenti és tanácsi rendelet 31. cikk (1) bekezdése szerinti tulajdonosok az általuk tartott idegenhonos inváziós fajok jegyzékén szereplő kedvtelésből tartott állatokat kötelesek bejelenteni. A bejelentés tartalmazza a tulajdonos nevét, az egyedek faját, darabszámát, nemét (amennyiben ismert), életkorát, a tulajdonba kerülés időpontját, valamint tartási körülményeinek leírását.
+
+(2) A területi természetvédelmi hatóság a bejelentett példányokról és a velük összefüggésben közölt adatokról nem közhiteles hatósági nyilvántartást vezet.
+
+(3) A területi természetvédelmi hatóság a bejelentéssel érintett faj jogszerű tartásának feltételeiről a bejelentőt tájékoztatja.
+
+(4) A bejelentési kötelezettség elmulasztása miatt a természetvédelmi hatóság a 10. § a) pontja alapján inváziós bírságot szab ki.
+
+## 3/B. [^20] Befogadó létesítmények kijelölése
+
+### 11/B. §
+
+Az Unió számára veszélyt jelentő idegenhonos inváziós faj ex situ megőrzésére csak az az állami vagy önkormányzati fenntartású intézmény kaphat engedélyt, amely elsődlegesen a természet- és állatvédelmet szolgálja, az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával és tájékoztatással biztosítja, és biztosítani tudja az egyedek tartására vonatkozóan a 1143/2014/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében foglalt előírásokat, és az eljáró hatósággal kötött írásos megállapodásban vállalja az adott faj kedvtelésből tartott példányainak az átvételét és elhelyezését (a továbbiakban: befogadás), melyeket a tulajdonosuk nem tud az 1143/2014/EU európai parlamenti és tanácsi rendelet előírásainak megfelelően tartani, vagy jogellenesen tart.
+
+## 4. Záró rendelkezések
+
+### 12. §
+
+Ez a rendelet 2017. január 1-jén lép hatályba.
+
+### 13. §
+
+E rendeletet a folyamatban lévő és megismételt eljárásokban is alkalmazni kell.
+
+### 14. §
+
+Ez a rendelet az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. § (1) bekezdés h) pontját a 360/2019. (XII. 30.) Korm. rendelet 164. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^3]: A 2. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 2. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: A 2. § (2) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 164. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: A 3. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: A 4. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 248. §-a szerint módosított szöveg.
+[^9]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 9. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^11]: A 9. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 9. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^13]: A 9. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: A 10. § (2) bekezdésé a) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 10. § (2) bekezdésé b) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 10. § (2) bekezdésé c) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 10. § (2a) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+[^18]: A 10. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 599. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 3/A. alcímet (11/A. §) a 360/2019. (XII. 30.) Korm. rendelet 164. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 3/B. alcímet (11/B. §) a 360/2019. (XII. 30.) Korm. rendelet 164. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

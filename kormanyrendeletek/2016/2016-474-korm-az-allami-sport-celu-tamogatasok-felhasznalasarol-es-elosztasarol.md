@@ -1,0 +1,1333 @@
+---
+title: "474/2016. (XII. 27.) Korm. rendelet az állami sport célú támogatások felhasználásáról és elosztásáról"
+identifier: "474/2016. (XII. 27.) Korm. rendelet"
+njt_id: "2016-474-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/474"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-27
+in_force_from: 2016-12-28
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-474-20-22"
+retrieved: 2026-10-12
+---
+
+# 474/2016. (XII. 27.) Korm. rendelet az állami sport célú támogatások felhasználásáról és elosztásáról
+
+A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bn) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §
+
+(1) E rendelet hatálya
+
+a)[^1] a Magyarország központi költségvetéséről szóló törvénynek a sportpolitikáért, a sportlétesítmény-fejlesztésért és gazdálkodásért, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó állami sport célú támogatásokra vonatkozó előirányzatokra,
+
+b) az állami sport célú támogatás nyújtásának költségvetési évét megelőző évekről áthúzódó, a miniszter irányítása alá tartozó fejezeti kezelésű előirányzatok költségvetési maradványára, tekintet nélkül annak eredeti előirányzathoz való kapcsolódására vagy annak hiányára, valamint
+
+c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján év közben megállapított, az *a)* pont szerinti fejezetbe tartozó, állami sport célú támogatásokra vonatkozó új fejezeti kezelésű előirányzatokra
+
+[az *a)–c)* pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
+
+(2) E rendelet alkalmazásában
+
+1\. *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
+
+2.[^2]
+
+3.[^3]
+
+4.[^4]
+
+5.[^5]
+
+6.[^6]
+
+7.[^7]
+
+8.[^8]
+
+9.[^9]
+
+10\. *immateriális javak:* a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
+
+10a.[^10]
+
+11.[^11]
+
+12.[^12]
+
+13.[^13]
+
+14.[^14]
+
+15.[^15]
+
+16.[^16]
+
+17\. *saját forrás:* a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
+
+18.[^17]
+
+19.[^18]
+
+20\. *tárgyi eszköz:* a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
+
+#### 1/A. §[^19]
+
+Ha az e rendelet alapján nyújtott költségvetési támogatás az EUMSZ 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, a támogatás a sportcélú fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának a rendjéről szóló 49/2023. (XII. 28.) HM rendeletben meghatározott uniós állami támogatási szabályokkal összhangban nyújtható.
+
+## II. Fejezet[^20]
+
+### 1.
+
+### 2.
+
+### 3.
+
+### 3/A.
+
+### 3/B.
+
+## III. Fejezet — AZ ÁLLAMI SPORT CÉLÚ TÁMOGATÁSOKRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
+
+### 4. Az előirányzatok kezelésével kapcsolatos szabályok
+
+#### 9. §[^21]
+
+(1) Az előirányzatokból nyújtott költségvetési támogatások tekintetében – a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 41. § c) pontjában a Magyar Olimpiai Bizottság (a továbbiakban: MOB), az Stv. 46/A. § (6) bekezdés c) pontjában a Magyar Paralimpiai Bizottság, az Stv. 46/G. § (5) bekezdés c) pontjában a Nemzeti Versenysport Szövetség, az Stv. 46/M. § (6) bekezdés c) pontjában a Nemzeti Diák, Hallgatói és Szabadidősport Szövetség (a továbbiakban együtt: sportköztestület) tekintetében meghatározott feladatra is tekintettel – az előirányzatok kezelő szerve – a (2) bekezdésben foglaltak kivételével – a miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
+
+(2)[^22] A Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a Nemzeti Sportinfrastruktúra Ügynökség tulajdonosi joggyakorlásával kapcsolatos ügyleteket biztosító központi kezelésű előirányzatok kezelő szerve a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NSÜ NZrt.).
+
+(3)[^23] Az (1) bekezdés szerint kezelt előirányzatokból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátásával a minisztérium lebonyolító szervet bízhat meg.
+
+#### 10. §
+
+(1)[^24] A kommunikációs feladatok ellátására legfeljebb a kedvezményezettnek nyújtott támogatás tíz százaléka fordítható, kivéve a sport népszerűsítésével, diák- és szabadidősporttal, a Sportoló Nemzet Programmal kapcsolatos támogatásokat, valamint a Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok, valamint kiemelt hazai rendezésű sportesemények támogatását biztosító előirányzat terhére nyújtott támogatásokat.
+
+(2) Az előirányzatokon összesen rendelkezésre álló összeg öt százaléka az előirányzatok pályázat útján történő felhasználására, a pályáztatás lebonyolítására, valamint a költségvetési támogatások szerződésszerű felhasználásának ellenőrzésére is fordítható.
+
+(3)[^25] Valamennyi előirányzat terhére nyújtható támogatás sportszakmai feladatok ellátására és az azokkal összefüggő működési költségekre.
+
+(4)[^26] Valamennyi előirányzat forrást biztosít az előirányzatok felhasználásával kapcsolatos kincstári díjak, jutalékok fedezetére.
+
+#### 11. §[^27]
+
+A kedvezményezett részére – ha e rendelet, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) vagy az Ávr. eltérően nem rendelkezik – vissza nem térítendő költségvetési támogatás nyújtható támogatási kérelem, pályázat vagy egyedi döntés alapján, az e rendeletben meghatározott szervezetek javaslatára.
+
+### 5. A pályázat útján nyújtott költségvetési támogatások eljárási rendje
+
+#### 12. §
+
+(1)[^28] A pályázati úton nyújtott költségvetési támogatásokkal kapcsolatosan a pályázati kiírás honlapon történő közzétételével, a pályázati kiírás és a támogatási döntés előkészítésével, a támogatási szerződés megkötésével vagy a támogatói okirat kiadásával (a továbbiakban együtt: támogatási szerződés), a támogatási szerződés módosításával, nyilvántartásával, a támogatási szerződés teljesítésének ellenőrzésével, valamint a tájékoztatással kapcsolatos feladatokat pályázatkezelő szervezet is elláthatja.
+
+(2)[^29] Ha a pályázati kiírás előírja, a pályázó a pályázat benyújtásakor pályázati díjat fizet, amelynek mértékét a pályázati kiírás határozza meg.
+
+#### 13. §
+
+(1)[^30] A pályázatot a pályázati kiírásban megjelölt címre, módon és formában kell benyújtani.
+
+(2) Érvénytelen a pályázat, ha
+
+a) azt a pályázati kiírás alapján pályázni nem jogosult pályázó nyújtotta be,
+
+b) a pályázat határidőn túl érkezett, vagy
+
+c) a pályázati kiírás nem biztosít lehetőséget hiánypótlásra és a pályázat hiányosan került benyújtásra.
+
+(3) Ha a pályázat érvénytelen, erről az érvénytelenség okának megjelölésével a pályázat, a hiánypótlás beérkezésétől számított nyolc napon belül a pályázót értesíteni kell.
+
+(4) A pályázat értékelésének és elbírálásának szempontjait a pályázati kiírás tartalmazza.
+
+#### 14. §
+
+A támogatási szerződéseket a támogatási döntésről szóló értesítés kézhezvételét követő hatvan napon belül kell megkötni.
+
+### 6. Az egyedi döntéssel nyújtott költségvetési támogatások eljárási rendje
+
+#### 15. §
+
+(1)[^31] A nem pályázati úton biztosított költségvetési támogatás iránt támogatási kérelmet írásban kell benyújtani a miniszternek, vagy a támogatás kérelem nélkül, egyedi döntés alapján is nyújtható.
+
+(2) A támogatási kérelem tartalmazza a költségvetési támogatásból megvalósítani tervezett tevékenységek, feladatok, beszerzések részletes ismertetését, azok tervezett szakmai hatásait, összefüggéseit.
+
+(3) Ha a támogatási kérelem nem tartalmazza a (2) bekezdésben foglaltakat, a miniszter a támogatási kérelem kézhezvételétől számított nyolc napon belül a költségvetési támogatás igénylőjét legfeljebb tizenöt napos határidő kitűzésével írásban hiánypótlásra hívja fel. Ha a költségvetési támogatás igénylője a hiánypótlási felhívásnak határidőben nem vagy nem megfelelően tesz eleget, a miniszter a támogatási kérelmet elutasítja és erről a költségvetési támogatás igénylőjét – az elutasítás indokának megjelölésével – írásban értesíti.
+
+#### 16. §
+
+(1)[^32] A miniszter a támogatási kérelemről – kivéve a tárgyévet követő évekre benyújtott, kiemelt nemzetközi és egyéb hazai rendezésű sport- és sportdiplomáciai események megrendezésére irányuló támogatási kérelmeket – annak kézhezvételétől számított huszonegy napon belül dönt.
+
+(2) A támogatási döntés meghozatalában a miniszternek mérlegelési joga van, amely során vizsgálja a költségvetési támogatás forrásául szolgáló előirányzat által finanszírozott közfeladat – a költségvetési támogatás igénylője által történő – ellátásának szervezeti célszerűségét, valamint a kérelemnek a közfeladat ellátását szolgáló megfelelését.
+
+(3) Költségvetési támogatás a támogatási kérelemben megjelöltnél kisebb összegben is megállapítható azzal, hogy ez esetben a kedvezményezettnek a tényleges támogatási összegnek megfelelő költségtervet kell benyújtania.
+
+### 7.[^33] A támogatási szerződés előkészítése, megkötése és módosítása
+
+#### 17. §
+
+(1)[^34] A kedvezményezett a támogató részére a támogatási szerződés előkészítése érdekében a következő adatokat, valamint dokumentumokat nyújtja be:
+
+1.[^35] gazdasági társaság esetén teljes – cégnyilvántartás szerinti – cégnevét, székhelyét, cégjegyzékszámát, adószámát, valamennyi fizetési számlaszámát, képviselőjének nevét és közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, amennyiben a gazdasági társaság a megjelölt képviselő aláírás-mintáját a cégbírósághoz nem nyújtotta be, vagy a benyújtás tényét a cégjegyzék nem tartalmazza,
+
+2.[^36] gazdasági társaságnak nem minősülő gazdálkodó szervezet esetén hatályos létesítő okiratának egyszerű másolatát, vagy a civil szervezet közokirati formájú nyilvántartási adatait tartalmazó papír alapú vagy elektronikus kivonatát, képviselőjének nevét és közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, helyi önkormányzatok társulása esetén a társulási megállapodás másolatát.
+
+3.[^37] egyéni vállalkozó esetén nevét, székhelyét, nyilvántartási számát vagy vállalkozói igazolvány számát, adószámát, valamennyi fizetési számlaszámát, az egyéni vállalkozó hatályos adatait tartalmazó hatósági igazolás másolatát vagy az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt,
+
+4.[^38] az 1–3. pontban meghatározottaktól eltérő egyéb jogi személy adószámát, valamennyi fizetési számlaszámát, harminc napnál nem régebbi igazolást az egyéb jogi személyt nyilvántartó szervezettől az egyéb jogi személy nyilvántartásban szereplő adatairól, képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát. A nyilvántartásban szereplő adatokra vonatkozó igazolás a nyilvántartó szervezet által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából történő lekérdezés útján beszerzett, a kedvezményezett által hitelesített dokumentummal is teljesíthető;
+
+5\. az 1–4. pont szerinti szervezet működési engedélyét, ha a szervezet tevékenysége működésiengedély-köteles,
+
+6.[^39] természetes személy esetén születési nevét, anyja születési nevét, lakcímét, adóazonosító jelét, fizetési számlaszámát,
+
+7.[^40]
+
+8.[^41] a sportköztestületnek nyújtott működési célú költségvetési támogatás kivételével a felhasználás részletes leírását, azaz a tervezett program szakmai és költségtervét,
+
+9\. a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket, az építésiengedély-köteles tevékenységekhez szükséges jogerős építésügyi hatósági engedély kivételével,
+
+10.[^42] építésiengedély-köteles tevékenység esetén a jogerős építési engedélyt – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a beruházás kivitelezésének megkezdéséhez szükséges támogatási részösszeg átutalásáig, annak feltételeként –, vagy építéshatósági vagy tervezői nyilatkozatot arról, hogy a beruházás nem építésiengedély-köteles,
+
+11.[^43] beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett, valamint a tulajdonos vagy – amennyiben van – a vagyonkezelő nyilatkozatát arról, hogy a 11a. pont szerint tizenöt évig vagy a 11b. pont szerint öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
+
+11a.[^44] sportcélú ingatlanra irányuló építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
+
+a) a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
+
+b) ha a kedvezményezett nem az ingatlan tulajdonosa vagy vagyonkezelője, a létesítmény a) pont szerinti fenntartásának igazolásához
+
+ba) a tulajdonos nyilatkozatát,
+
+bb) a vagyonkezelő nyilatkozatát azzal, hogy a vagyonkezelő felelőssége az a) pont szerinti fenntartási kötelezettség tulajdonos általi biztosítása érdekében eljárni – figyelemmel a (2a) bekezdésben foglaltakra is – a vagyonkezelési szerződésnek az a) pontban foglalt időtartam letelte előtti megszűnése esetére vonatkozóan,
+
+bc) a használó vagy a kedvezményezett és a tulajdonos között létrejött, a fenti feltételeket biztosító szerződést vagy egyéb jognyilatkozatot vagy
+
+bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejött, továbbá a vagyonkezelő és a tulajdonos között létrejött fenti feltételeket tartalmazó szerződést vagy egyéb jognyilatkozatot,
+
+11b.[^45] sportcélú ingatlanra irányuló nem építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
+
+a) a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
+
+b) ha a kedvezményezett nem az ingatlan tulajdonosa vagy vagyonkezelője, a létesítmény a) pont szerinti fenntartásának igazolásához
+
+ba) a tulajdonos nyilatkozatát,
+
+bb) a vagyonkezelő nyilatkozatát azzal, hogy a vagyonkezelő felelőssége az a) pont szerinti fenntartási kötelezettség tulajdonos általi biztosítása érdekében eljárni – figyelemmel a (2a) bekezdésben foglaltakra is – a vagyonkezelési szerződésnek az a) pontban foglalt időtartam letelte előtti megszűnése esetére vonatkozóan,
+
+bc) a használó vagy a kedvezményezett és a tulajdonos között létrejött, a fenti feltételeket biztosító szerződést vagy egyéb jognyilatkozatot vagy
+
+bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejött, továbbá a vagyonkezelő és a tulajdonos között létrejött fenti feltételeket tartalmazó szerződést vagy egyéb jognyilatkozatot,
+
+12\. a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján a doppingellenes tevékenységet végző kedvezményezett nyilatkozatát, igazolását arról, hogy doppingellenes feladatainak eleget tesz,
+
+13\. a kedvezményezett nyilatkozatát arról, hogy a nemzeti sportinformációs rendszer részére történő adatszolgáltatási kötelezettségének a jogszabályban foglaltaknak megfelelően eleget tesz,
+
+14\. a kedvezményezett sportszövetség nyilatkozatát, igazolását arról, hogy az Stv. 23. § (1) bekezdésében meghatározott szabályzatalkotási kötelezettségének eleget tett,
+
+15\. a kedvezményezett nyilatkozatát arról, hogy a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott, a sportrendezvények biztonságos lebonyolításával összefüggő kötelezettségeinek eleget tesz,
+
+16.[^46] a kedvezményezett igazolását arról, hogy a saját forrás – ha az előírásra került –, rendelkezésére áll,
+
+17\. a kedvezményezett nyilatkozatát az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatásról.
+
+18.[^47] beruházási célú költségvetési támogatás esetén a forrás felhasználására vonatkozó ütemtervet (negyedéves bontásban) tartalmazó kedvezményezetti nyilatkozatot.
+
+(1a)[^48] Támogatási szerződés ötmilliárd forintot el nem érő összegű költségvetési támogatás esetén is köthető.
+
+(1b)[^49] Az (1) bekezdésben meghatározott dokumentumok – az (1) bekezdés 1–4. pontjában foglaltak kivételével – elektronikus úton is benyújthatóak.
+
+(1c)[^50] A támogató a gazdasági társaság cégkivonatát és a megjelölt képviselő közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját elektronikus úton hivatalból szerzi be a cégnyilvántartásból, amennyiben a gazdasági társaság a megjelölt képviselő aláírásmintáját a cégbírósághoz benyújtotta, és a benyújtás tényét a cégjegyzék tartalmazza.
+
+(2) Az (1) bekezdés 6. pontjában meghatározott személyes adatok kedvezményezett részéről történő szolgáltatása önkéntes, de azok támogató részére való rendelkezésre bocsátása és a kezelésükhöz való hozzájárulás a költségvetési támogatás feltételét képezi.
+
+(2a)[^51] Az (1) bekezdés 11–11b. pontja szerinti tulajdonosi nyilatkozatot a tulajdonos a kedvezményezett kérelmének beérkezését követő 60 napon belül köteles a kedvezményezett részére kiadni vagy a kérelmet elutasítani. Ha a tulajdonos a kérelem beérkezését követő 60 napon belül nem válaszol a kedvezményezettnek, a tulajdonosi nyilatkozatot megadottnak kell tekinteni. A kedvezményezett ebben az esetben a tulajdonoshoz benyújtott kérelmének tértivevénnyel kézbesített másolatát, valamint a tulajdonos válaszának hiányáról büntetőjogi felelőssége tudatában tett nyilatkozatát csatolja a támogató felé.
+
+(3)[^52] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
+
+(4)[^53] A 38/A. § (3) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
+
+(5)[^54] A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált, és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett benyújtja a támogató részére a Nemzeti Adó- és Vámhivataltól (a továbbiakban: adóhatóság) származó vagy az adóhatóság által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából lekérdezett harminc napnál nem régebbi igazolást.
+
+#### 18. §
+
+(1)[^55] A 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat – a szervezet képviselője aláírási címpéldányának, valamint a fizetési számlákra vonatkozó nyilatkozat kivételével – nem kell benyújtani, ha a kedvezményezett
+
+a) a miniszter irányítása alá tartozó központi költségvetési szerv,
+
+b) az államháztartás központi alrendszerébe sorolt és nem a miniszter irányítása alá tartozó központi költségvetési szerv,
+
+c) olyan gazdasági társaság, amelynek vonatkozásában a miniszter jogszabály vagy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött szerződés alapján tulajdonosi jogokat gyakorol és a miniszter a támogató,
+
+d) olyan közalapítvány, alapítvány, amely tekintetében a miniszter alapítói jogokat gyakorol és a miniszter a támogató,
+
+e) helyi önkormányzat, nemzetiségi önkormányzat, jogi személyiségű társulás, térségi fejlesztési tanács.
+
+(1a)[^56] Ha a kedvezményezett képviseletére jogosult személy közjegyző által hitelesített aláírási címpéldánya vagy ügyvéd által ellenjegyzett aláírás mintája egy korábbi támogatási jogviszonyból eredően a támogató rendelkezésére áll, és a képviselő személye nem változott, a támogató e korábban benyújtott aláírási címpéldányról, aláírás mintáról készített egyszerű másolatot csatolhat az ügyirathoz.
+
+(1b)[^57] Nem szükséges aláírási címpéldányt csatolni, ha a kedvezményezett a cégnyilvántartásba bejegyzett gazdasági társaság, amennyiben a gazdasági társaság a megjelölt képviselő aláírásmintáját a cégbírósághoz benyújtotta, és a benyújtás tényét a cégjegyzék tartalmazza.
+
+(2) Ha az (1) bekezdés hatálya alá nem tartozó kedvezményezettről a kincstár törvényben meghatározott közhiteles és nyilvános nyilvántartást vezet, a kedvezményezettnek a 17. § (1) bekezdés 2. pontjában meghatározott dokumentumot nem kell benyújtania. Ez esetben a kedvezményezett létezését a támogató ellenőrzi a nyilvántartásban.
+
+(3) Ha a kedvezményezett a köznevelés információs rendszerébe bejelentkezett, OM azonosítóval nyilvántartott intézmény vagy a felsőoktatás információs rendszerének intézménytörzsében nyilvántartott szervezet, a 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat nem kell benyújtania. A kedvezményezett létezését és egyéb nyilvántartott adatait a támogató ellenőrzi a nyilvántartásokban.
+
+(4) Ha a támogató részére a támogatási szerződés előkészítése érdekében
+
+a) a civil szervezet, közhasznú szervezet nem csatolta adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
+
+b) az egyéni vállalkozó nem csatolta az egyéni vállalkozó hatályos adatait tartalmazó hatósági igazolás másolatát vagy az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi,
+
+c) a gazdasági társaság nem csatolta harminc napnál nem régebbi cégkivonatát, a miniszter az adatokat a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+
+(5)[^58] Támogatói okirattal történő támogatásnyújtáskor a miniszter a támogatói okiratot a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is kiadhatja. Ha a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok a támogatói okirat kiadását követő tizenöt napon belül nem kerülnek benyújtásra, akkor a támogató a támogatói okiratot visszavonja.
+
+(6)[^59] A támogatási szerződés előkészítése során a támogató arra figyelemmel dönt a támogatási igények jóváhagyásáról, hogy a költségtervben szereplő egyes támogatási igények nem haladhatják meg a miniszter által az egyes költségterv rovatokon nyújtható költségvetési támogatási tételekkel kapcsolatban meghatározott minőségbiztosítási rendszerben (a továbbiakban: benchmark-rendszer) foglaltakat és annak követelményeit. A miniszter a kedvezményezett – támogatási szerződés megkötése vagy módosítása során tett – egyedi írásbeli kérelme alapján, különös méltánylást érdemlő esetben engedélyezheti a benchmark-rendszertől és követelményeitől való eltérést.
+
+#### 19. §[^60]
+
+Az Ávr. 84. § (1) bekezdésének figyelembevételével a kedvezményezett az Ávr. 84. § (2) bekezdésében meghatározott biztosítékként köteles benyújtani a támogatóhoz valamennyi, jogszabály alapján beszedési megbízással megterhelhető fizetési számlájára vonatkozóan, a támogató javára szóló, csak a támogató írásbeli hozzájárulásával visszavonható beszedési megbízásra felhatalmazó nyilatkozatát pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt. Több fizetési számla esetén a kedvezményezettnek meg kell adnia a felhatalmazó nyilatkozatok érvényesítésének sorrendjét is. A kedvezményezett biztosítékként egyéb olyan eszközt is felajánlhat a támogatónak, amely lehetővé teszi, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen érvényesítse. A biztosítékadási kötelezettség elmulasztása esetén a költségvetési támogatás folyósítását annak pótlásáig fel kell függeszteni.
+
+#### 20. §
+
+(1)[^61] A támogatási szerződés módosítását bármelyik fél – a költségvetési támogatás célja, összege, az azt alátámasztó költségterv, továbbá a költségvetési támogatás tárgyát képező támogatott tevékenység kezdő időpontja és véghatárideje tekintetében – a támogatott tevékenység időtartamaként az eredeti vagy a korábban módosított támogatási szerződésben meghatározott véghatáridő leteltéig írásban kezdeményezheti. A költségvetési támogatás összegének módosítása az Ávr. 95. § (2) bekezdésében meghatározott esetekben többlet költségvetési támogatás biztosítására is kiterjedhet, ha azt az uniós állami támogatási szabályok lehetővé teszik. A költségvetési támogatás felhasználásáról történő beszámolás határidejének módosítása írásban kezdeményezhető az eredeti vagy a korábban módosított támogatási szerződésben meghatározott beszámolási határidő leteltéig. A támogatási szerződés módosítására irányuló kezdeményezés tartalmazza a módosítás indokát is. Az elszámolási határidő módosítása esetén a kedvezményezett köteles a 19. §-ban meghatározott, a módosított elszámolási határidőnek megfelelő biztosítékot benyújtani, legkésőbb az általa történő támogatási szerződés módosítás aláírásakor. Az e bekezdésben szereplő kérelmek elektronikus úton is benyújthatóak.
+
+(2) Ha a támogatási szerződés megkötését követően eltérő finanszírozást megalapozó indok merül fel, a támogatási szerződést módosítani kell.
+
+(3)[^62] A támogatási szerződésben meghatározott módon – a kedvezményezett írásbeli indokolási kötelezettsége mellett – a költségtervben rögzített összegek – a bérköltség és egyéb személyi jellegű kifizetések, a munkaadókat terhelő járulékok, a dologi kiadások, végső kedvezményezettnek továbbítandó működési célú támogatás, a beruházás, a felújítás, a végső kedvezményezettnek továbbítandó felhalmozási célú támogatás rovatok (a továbbiakban együtt: a költségterv rovatai) szintjén – a költségvetési támogatás és – ha az előírásra került – a saját forrás főösszegén belül eltérhetnek.
+
+(4)[^63] A költségvetési támogatás terhére történő felhasználás esetében a (3) bekezdés szerinti, a támogatási szerződésben meghatározott mértéket, de a költségterv rovatai szintjén pozitív irányban külön-külön legfeljebb húsz százalékot meghaladó eltérés elfogadására, vagy a költségterv olyan rovatának a módosítására, amelyen kiadás nem került tervezésre, csak a támogatási szerződés módosítása keretében kerülhet sor az (1) bekezdésben foglaltak figyelembevételével.
+
+(5)[^64]
+
+#### 21. §
+
+A költségvetési támogatás folyósítására a támogató részéről akkor kerülhet sor, ha
+
+a)[^65] a kedvezményezettnek az olimpiai központok működtetését és fejlesztését végző szervezettel, vagy a NSÜ NZrt.-vel szemben kilencven napnál régebbi, esedékessé vált és meg nem fizetett tartozása nem áll fenn, vagy arra részletfizetési megállapodást kötött, és
+
+b) a kedvezményezett a társasági adóról és az osztalékadóról szóló törvény alapján igénybe vehető látvány-csapatsport támogatásból nincs kizárva.
+
+### 8. A költségvetési támogatás felhasználása, elszámolása és a felhasználás ellenőrzése
+
+#### 22. §
+
+(1) A költségvetési támogatás – a támogató és a kedvezményezett közötti támogatási szerződésben foglalt célra és feltételekkel – e rendelet és a támogatási szerződés előírásainak megfelelő harmadik személy által is felhasználható.
+
+(2)[^66] A költségvetési támogatás felhasználásáról történő szakmai és pénzügyi beszámolót a támogató által előírt formában kell benyújtani. A költségvetési támogatás felhasználását igazoló összesített elszámolási táblázatot és a szöveges szakmai beszámolót papír alapon eredetiben kell benyújtani, és a támogatási szerződésben a támogató részéről megjelölt kapcsolattartó személy részére elektronikus úton is mellékelni kell szerkeszthető változatban.
+
+#### 23. §
+
+(1)[^67] Ha a költségvetési támogatás végső felhasználója nem a kedvezményezett, a kedvezményezett köteles a költségvetési támogatásról a költségvetési támogatás végső felhasználóját az összesített elszámolási táblázat szerint elszámoltatni, és a kedvezményezett és a támogatás végső felhasználója közötti, a támogatás felhasználására vonatkozó szerződés, valamint annak lezárását vagy megszűnését igazoló okirat kedvezményezett által hitelesített másolatát a támogatónak átadni a támogató által előírt formában benyújtott elszámolással egyidejűleg. A kedvezményezett köteles továbbá csatolni a támogatás végső felhasználójától egy nyilatkozatot, miszerint a kedvezményezett a fizetési kötelezettségének eleget tett.
+
+(2) Az (1) bekezdésben meghatározott esetben az elszámoltatás költségei a kedvezményezettet terhelik.
+
+#### 24. §
+
+(1)[^68] A beszámoló benyújtására előírt határidőt a támogatott tevékenység megvalósításával kapcsolatos pénzügyi teljesítés utolsó napját követő hatvan napon belüli időpontra kell a támogatási szerződésben meghatározni.
+
+(2)[^69] A pénzügyi elszámolást a támogatási szerződés mellékletét képező költségtervvel összehasonlítható módon kell elkészíteni. Pénzügyi elszámolásként a támogatott tevékenység megvalósításához kapcsolódó költségeket igazoló számviteli bizonylatokról készített számlaösszesítőt kell benyújtani, amely alapján a támogató szúrópróbaszerűen választja ki és vizsgálja a költségvetési támogatás, valamint – ha előírásra került – a saját forrás felhasználását igazoló számviteli bizonylatok, kifizetést igazoló bizonylatok, a költségvetési támogatás jogszerű és a céljának megfelelő felhasználását igazoló egyéb dokumentumok létezését és az összesítővel való egyezőségét. A támogató a költségvetési támogatás, valamint a saját forrás felhasználásának ellenőrzése során a 18. § (6) bekezdése szerinti benchmark-rendszer és követelményei, valamint az elszámolási útmutató előírásait figyelembe véve dönt az elszámolás elfogadásáról. Az ellenőrzést az eredeti bizonylatok, dokumentumok vagy azok hiteles másolatának bekérésével vagy helyszíni ellenőrzés során kell lefolytatni. Az ellenőrzés során a bizonylatok legkevesebb 10%-át kell vizsgálni úgy, hogy az ellenőrzött számlák összege elérje az összesítőben szereplő érték legalább 10%-át. Ha a számlaösszesítőn tíz darab vagy annál kevesebb bizonylat szerepel, a teljes, tételes elszámolás benyújtása és ellenőrzése szükséges. A költségek felmerülését igazoló, eredeti számviteli bizonylatokat a kedvezményezett záradékkal látja el, amelyben jelzi, hogy a számviteli bizonylaton szereplő összegből mennyit számolt el a szerződésszámmal hivatkozott támogatási szerződés terhére.
+
+(3)[^70] Ha a szúrópróbaszerűen kiválasztott dokumentumok ellenőrzése során a támogató azt állapítja meg, hogy a támogatás felhasználása nem a támogatási szerződésnek megfelelően történt, vagy az nem megfelelően alátámasztott, a teljes, tételes elszámolási dokumentáció benyújtására kötelezi a kedvezményezettet.
+
+(4) A beszámolót a támogató az annak kézhezvételétől számított kilencven napon belül megvizsgálja és dönt annak elfogadásáról vagy elutasításáról. A támogató döntéséről, továbbá az esetleges visszafizetési kötelezettségről a döntést követő tíz napon belül írásban értesíti a kedvezményezettet. A támogató a beszámoló elbírálására vonatkozó határidőt annak lejárta előtt, indokolt esetben egy alkalommal legfeljebb negyven nappal meghosszabbíthatja hiánypótlás esetén.
+
+(5) Ha a kedvezményezett a hiánypótlási határidőt elmulasztja, vagy a hiánypótlást második alkalommal is hibásan vagy hiányosan teljesíti, a beszámoló vagy annak érintett része nem fogadható el. A hiánypótlás eredménytelenségét követően a támogató érvényesítheti a beszedési megbízás benyújtására vonatkozó felhatalmazást.
+
+#### 25. §
+
+(1) Ha a kedvezményezettnek nyújtott költségvetési támogatás végső felhasználója nem a kedvezményezett, a kedvezményezett képviselője a költségvetési támogatás végső felhasználójának a költségvetési támogatás felhasználását igazoló beszámolóját annak kézhezvételétől számított hatvan napon belül megvizsgálja és tájékoztatja a költségvetési támogatás végső felhasználóját a beszámoló elfogadásáról vagy annak hiányosságáról. Hiánypótlásra két alkalommal, megfelelő, de alkalmanként legfeljebb tizenöt napos határidő tűzésével kerülhet sor, és a felhívásban meg kell jelölni a beszámoló hiányosságát.
+
+(2)[^71] Ha a költségvetési támogatás végső felhasználója az (1) bekezdés szerinti hiánypótlási határidőt elmulasztja, vagy a hiánypótlást második alkalommal is hibásan vagy hiányosan teljesíti, a beszámoló vagy annak érintett része nem fogadható el. A hiánypótlás eredménytelenségét követően a kedvezményezett érvényesítheti a beszedési megbízás benyújtására vonatkozó felhatalmazást.
+
+#### 26. §
+
+(1) A költségvetési támogatás felhasználását és elszámolását a minisztérium, valamint a jogszabályban, a pályázati felhívásban és a támogatási szerződésben meghatározott szervek ellenőrizhetik.
+
+(2)[^72] A támogató – a felhasználási időszakban vagy a beszámoló benyújtását követően, legkésőbb a beszámoló elfogadását követő öt éven belül, de a 17. § (1) bekezdés 11a. pontjában meghatározott beruházási célú költségvetési támogatás esetén tizenöt évig bármikor – a felhasználás helyszínén ellenőrizheti a költségvetési támogatás felhasználását. Ha költségvetési támogatás ellenőrzése során a támogató megállapítja, hogy a kedvezményezett a támogatási szerződésben foglaltaknak – továbbá beruházási célú költségvetési támogatás esetén a 17. § (1) bekezdés 11. pontja szerint vállalt sportcélú használatnak – nem tesz eleget, a támogatási összeg teljes vagy részleges visszafizetését, ügyleti kamattal együtt előírhatja. Az ügyleti kamat számításának kezdő időpontja a költségvetési támogatás folyósításának napja.
+
+(3) A támogató a beszámoltatás során ellenőrzi, hogy a költségvetési támogatás felhasználása során a kedvezményezett a közbeszerzési értékhatárt elérő beszerzések, beruházások, szolgáltatás megrendelések kapcsán a közbeszerzést lebonyolította-e. Az ennek megállapításához szükséges dokumentumokat a kedvezményezett a közbeszerzési eljárás befejezését követően – legkésőbb az elszámolással egyidejűleg – nyújtja be a támogató részére. A kedvezményezett e kötelezettségéhez kapcsolódóan benyújtandó dokumentumok körét és a benyújtás határidejét a támogatási szerződésben kell meghatározni.
+
+(4)[^73] Beruházási vagy felújítási célú támogatás esetén a kedvezményezett köteles fényképpel igazolni, hogy jól látható módon elhelyezte a kommunikációs táblát, amelyhez az elszámolás előtt a logót a támogató elektronikus levél útján a rendelkezésére bocsátja. A kommunikációs tábla mérete legalább 40×20 cm, a megjelenés részleteit a felek a támogatási szerződésben rögzíthetik.
+
+(5)[^74] Ha a (3) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy a kedvezményezett a költségvetési támogatás felhasználása során a közbeszerzésekre vonatkozó jogszabályok megsértésével járt el, de a támogatás összegét a támogatási szerződés szerinti célra használta fel, és a támogatás összegével a támogatási szerződésben foglaltaknak megfelelően elszámol, a támogató a támogatási összeg közbeszerzést érintő részösszege legfeljebb 15%-ának ügyleti kamattal történő visszafizetését írhatja elő. Az ügyleti kamat számításának kezdő időpontja a költségvetési támogatás folyósításának napja.
+
+(6)[^75] Az (5) bekezdés szerinti visszafizetendő támogatási összeg meghatározásánál a támogató figyelembe veszi
+
+a) a szerződésszegés súlyát,
+
+b) a szükséges közbeszerzés tárgyát és értékét,
+
+c) a szerződésszegés esetleges ismételt tanúsítását és
+
+d) a szerződésszegés nyilvánvalóan szándékos voltát.
+
+(7)[^76] Ha a támogatás nem kerül teljes mértékben felhasználásra, a fel nem használt összeget a kedvezményezett legkésőbb a szakmai és pénzügyi beszámoló benyújtásával egyidejűleg visszafizeti a támogató részére a támogatási szerződés nyilvántartási- vagy iktatószámára és a támogatási szerződésben meghatározott államháztartási azonosítóra (a továbbiakban: Áht. azonosító) történő hivatkozással, valamint az Egységes Rovat Azonosító feltüntetésével és a 29. § (1) bekezdése szerinti lemondó nyilatkozat megküldésével.
+
+#### 26/A. §[^77]
+
+(1) A támogató a 26. § (2) bekezdése szerinti időpontig utóellenőrzés lefolytatásáról dönthet, ha olyan tényt, körülményt észlel, amely az általa lefolytatott ellenőrzés megállapításainak megváltoztatását eredményezheti. Az utóellenőrzés keretében a költségvetési támogatás felhasználásának – ideértve a támogatott cél és feladat megvalósítását – utólagos ellenőrzésére kerül sor.
+
+(2) A támogató az eredeti bizonylatok, dokumentumok bekérésével vagy a lefolytatott helyszíni ellenőrzés alapján 60 napon belül dönt az utóellenőrzés lefolytatásáról. A támogatónak a döntésében meg kell határoznia az utóellenőrzés lefolytatásának kezdő időpontját. Az utóellenőrzés lefolytatásának az utóellenőrzéssel érintett, visszafizetési kötelezettséget előíró támogatói döntésre halasztó hatálya van.
+
+(3) Amennyiben a támogató az utóellenőrzés lefolytatásáról dönt, a (4) bekezdés szerinti döntését az utóellenőrzés lefolytatásának kezdő időpontjától számított 180 napon belül hozza meg. Ez a határidő egy alkalommal további 180 nappal meghosszabbítható.
+
+(4) A támogató az utóellenőrzés megállapításai alapján az elszámolás ellenőrzésének eredményét változatlanul hagyja, módosítja, vagy a támogatási szerződést egyoldalúan módosíthatja, ha a támogatás céljával összhangban megvalósult a támogatott tevékenység.
+
+### 9. A költségvetési támogatás felfüggesztése, visszavonása
+
+#### 27. §
+
+(1) A támogató
+
+a) felfüggeszti vagy visszavonja a Gerevich Aladár-sportösztöndíját annak
+
+aa)[^78] a versenyzőnek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor – ideértve a versenyző pozitív vizsgálati eredményről szóló értesítését is –, vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a válogatott kerettagsága megszűnik,
+
+ab) a sportszakembernek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a versenyzőt felkészítő jogosultsága megszűnik,
+
+b) felfüggeszti vagy – a meghatározott időszakra vonatkozó költségvetési támogatás esetén – visszavonja annak a sportszervezetnek, vagy sportszervezet jogi személyiséggel rendelkező szervezeti egységének a költségvetési támogatását,
+
+ba) amellyel az *a)* pontban meghatározott versenyző vagy sportszakember tagsági, illetve szerződéses jogviszonyban áll, és
+
+bb) amellyel szemben az országos sportági szakszövetség, országos sportági szövetség vagy a fogyatékosok országos sportszövetsége a doppingszabályzatának az *a)* pontban meghatározott versenyző vagy sportszakember általi megsértésével összefüggésben jogerős sportfegyelmi büntetést szab ki,
+
+c) felfüggeszti vagy – a meghatározott időszakra vonatkozó költségvetési támogatás esetén – visszavonja annak a sportszövetségnek a költségvetési támogatását,
+
+ca)[^79] amelynek a b) pontban meghatározott sportszervezet a tagja, illetve amelynek versenyrendszerében részt vesz, és
+
+cb) amely sportszövetség – a nemzeti doppingellenes szervezet vezetőjének tájékoztatása szerint – nem tesz eleget a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott feladatainak.
+
+(2) Az (1) bekezdés a) és b) pontjában meghatározott, a kedvezményezettre vonatkozó jogerős büntetést kiszabó határozat egy példányát az eljáró doppingbizottság a határozat jogerőre emelkedésétől számított öt napon belül továbbítja a támogatónak.
+
+(3) A nemzeti doppingellenes szervezet vezetője az (1) bekezdés c) pont cb) alpontjában foglaltakról szóló tájékoztatását a tudomásszerzéstől számított öt napon belül továbbítja a támogatónak.
+
+(4) A költségvetési támogatás teljes összegének – (1) bekezdés szerinti – felfüggesztésére vagy visszavonására akkor van lehetőség, ha:
+
+a) a doppingszabályzat megsértése, a doppingellenes feladatok teljesítésének elmulasztása kiemelt nemzetközi sporteseményen történik,
+
+b) a doppingvétséget a sportág utánpótláskorú versenyzőjének sérelmére követik el, vagy
+
+c) a doppingvétséget a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló kormányrendeletben foglalt, tiltott szereket és módszereket meghatározó jegyzékben szereplő anabolikus szerekkel, peptid hormonokkal (ennek mimetikumaival és analógjaival) vagy antiösztrogén szerekkel összefüggésben követik el.
+
+#### 28. §
+
+(1) A költségvetési támogatás visszavonásáról vagy felfüggesztésének időtartamáról, a visszafizetendő költségvetési támogatás összegéről a támogató a 27. § (1) bekezdésében meghatározott magatartások, a 27. § (4) bekezdése, valamint a (2) és a (3) bekezdés figyelembevételével, a határozat vagy a tájékoztatás kézhezvételétől számított nyolc napon belül dönt.
+
+(2) A költségvetési támogatás felfüggesztésének kezdő időpontja a Gerevich Aladár-sportösztöndíj esetében a felfüggesztésről szóló döntést követő hónap első napja, egyébként a költségvetési támogatás felfüggesztéséről szóló döntés meghozatalának napja.
+
+(3) A költségvetési támogatás felfüggesztésének időtartama
+
+a) a 27. § (1) bekezdés a) pontja esetén nem lehet hosszabb, mint a versenyzővel vagy sportszakemberrel szemben kiszabott jogerős döntésben meghatározott eltiltás büntetés időtartama, más büntetés alkalmazása esetén legfeljebb egy év,
+
+b) a 27. § (1) bekezdés b) és c) pontja esetén legfeljebb egy év.
+
+(4) A költségvetési támogatás felfüggesztésének időtartama alatt állami sport célú támogatás a sportág szakmai feladatainak ellátásával összefüggésben – az (5) bekezdésben foglaltak kivételével – nem nyújtható.
+
+(5) A költségvetési támogatás visszavonásáról, illetve felfüggesztéséről való döntés nem veszélyeztetheti a sportszervezet vagy a sportszövetség utánpótlás-nevelési feladatainak ellátását.
+
+(6)[^80] A visszavont költségvetési támogatást a kedvezményezett – a visszavonásról szóló értesítés kézhezvételétől, amennyiben elektronikus úton kerül értesítésre, úgy attól a naptól számítva számított harminc napon belül – visszafizeti a minisztérium által megjelölt számlára az átutalási megbízás közlemény rovatában az Áht. azonosító és a szerződésszám megjelölésével.
+
+(7) A támogató a költségvetési támogatás visszavonásáról vagy felfüggesztéséről a döntés meghozatalát követő öt napon belül értesíti a nemzeti doppingellenes szervezet vezetőjét.
+
+#### 29. §
+
+(1) Ha a kedvezményezett neki fel nem róható okból nem teljesíti a támogatási szerződésben vállalt kötelezettségeit vagy a támogatási szerződés meghiúsul, köteles azt az okról való tudomásszerzéstől számított nyolc napon belül írásban bejelenteni a támogatónak, és a fel nem használt költségvetési támogatásról írásban lemondani, azt visszafizetni, valamint a költségvetési támogatás felhasznált részéről elszámolni.
+
+(2) A vissza nem térítendő céllal nyújtott költségvetési támogatás esetén bármely okból visszafizetésre kötelezett kedvezményezettnek a visszafizetési határidő lejárta előtt írásban benyújtott, részletes indokolást tartalmazó kérelmére biztosított részletekben történő teljesítés a tizenkét hónapot nem haladhatja meg. A részletfizetési kedvezmény biztosítására a támogató és a kedvezményezett külön megállapodást kötnek.
+
+#### 29/A. §[^81]
+
+Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
+
+#### 29/B. §[^82]
+
+(1) Beruházási célú támogatás esetén, ha
+
+a) a kedvezményezett a költségvetési támogatás folyósításától számított egy éven belül a feladat megvalósítását nem kezdi meg,
+
+b) – kivitelezési munkálatok támogatása esetén – a beruházás készültségi mértéke a költségvetési támogatás folyósításától számított három éven belül nem haladja meg az 50%-ot,
+
+a kedvezményezett a fel nem használt költségvetési támogatást köteles visszafizetni a támogató részére.
+
+(2) A támogató az (1) bekezdés szerinti esetekben – valamennyi, többek között a kedvezményezett érdekkörében felmerülő körülmények mérlegelésével – dönt arról, hogy a támogatási szerződést megszünteti, vagy azt hatályában fenntartja. Ha a támogató a támogatási szerződést hatályában fenntartja, a támogatási szerződést úgy szükséges módosítani, hogy a feladatok megvalósítására elegendő idő álljon rendelkezésre.
+
+(3) A Kormány egyedi döntése alapján központi költségvetési forrásból megvalósuló beruházások esetén a beruházás finanszírozása érdekében kötött támogatási szerződés abban az esetben is megszüntethető vagy módosítható a támogató által, ha a kivitelezési munkálatok – tervezési feladatok finanszírozása esetén a tervezési munkálatok – nem kezdődtek meg és a Kormány az egyedi döntését visszavonja vagy azt a támogatási szerződés lényeges körülményeit érintő módon változtatja meg.
+
+## IV. Fejezet — A SPORTTEVÉKENYSÉG TÁMOGATÁSÁNAK ÁLTALÁNOS SZABÁLYAI
+
+#### 30. §
+
+(1)[^83] Az előirányzatok terhére nyújtott támogatások felhasználására és az elszámolható költségekre az V. Fejezet további különös szabályokat állapít meg.
+
+(2)[^84] Az előirányzatokon rendelkezésre álló források – az V. Fejezetben szereplő különös szabályokon kívül – az alábbiakra használhatók fel:
+
+a) bérköltség, egyéb személyi jellegű kifizetések,
+
+b) munkaadókat terhelő járulékok és szociális hozzájárulási adó,
+
+c) adott feladathoz kapcsolódó működési, dologi kiadások támogatása,
+
+d) a feladat megvalósításához szükséges eszközök, felszerelések,
+
+e) beruházási és felújítási célú kiadások.
+
+(3)[^85] Az előirányzatokon rendelkezésre álló források harmadik személy részére továbbadhatóak, amelynek elszámolásáért a költségvetési forrás kedvezményezettje felel.
+
+(4)[^86] Az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége részére edzőtábor tartása és sportszakmai felkészülés céljából nyújtott szakmai támogatás olimpiai központokban történő igénybevételére közvetlenül az olimpiai központok működtetését és fejlesztését végző szervezeten keresztül kerülhet sor, amelynek során az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége erre irányuló jogosultságának helyszínéről és időtartamáról a miniszter dönt.
+
+## V. Fejezet — A SPORTTEVÉKENYSÉG TÁMOGATÁSÁNAK KÜLÖNÖS SZABÁLYAI
+
+#### 31. §
+
+E fejezet tartalmazza a 10–19. alcímekhez tartozó egyes fejezeti kezelésű előirányzatokra vonatkozó, a támogatás igénybevételének feltételeiként előírt eljárási és előirányzat gazdálkodási szabályokat.
+
+### 10.[^87] Versenysport és szakmai feladatok támogatása
+
+#### 32. §
+
+Az előirányzat terhére történik a Magyar Sportcsillagok Ösztöndíjról szóló kormányrendelet szerinti ösztöndíjprogram finanszírozása.
+
+#### 33. §
+
+(1) Az előirányzat terhére támogathatóak a sportakadémiákról szóló kormányrendelet szerinti, államilag elismert sportakadémiák, módszertani központok, kiemelt régiós alközpontok, továbbá országos sportági szakszövetségek, jogi személyek és a működésükkel összefüggő sportlétesítmény-fejlesztési és fenntartási feladatok ellátása, a minőségi élutánpótlás-nevelést megalapozó tehetség-kiválasztáshoz, és gondozáshoz, folyamatos nyomon követéshez, sportszakmai felkészítéshez, versenyeztetéshez, és a felkészüléshez szükséges sportegészségügyi, sporttudományi háttér, valamint komplex módon a tankötelezettség teljesítésén keresztül a sportolói kettős életpálya modell.
+
+(2) Az előirányzat terhére támogathatóak az államilag elismert sportakadémiai rendszer minőségbiztosítás alapú működése érdekében az államilag elismert sportakadémiai rendszerrel együttműködésben álló határon túli sportszervezetek, jogi személyek.
+
+(3) Az előirányzat terhére támogatható a sportolói életpálya bevezetése és fenntartása, a sporttehetségek kiválasztásának és folyamatos nyomon követési rendszerének kiépítése érdekében a kiemelt utánpótlás-nevelési központok akadémiai rendszerű fejlesztése, az ezzel összefüggő sportlétesítmény-fejlesztési és fenntartási feladatok ellátása, mindezek keretében biztosítva az emelt szintű szakmai képzést és a felkészüléshez szükséges sportegészségügyi, sporttudományi hátteret, a minőségi élutánpótlás-nevelést megalapozó tehetség-kiválasztást és gondozást, sportszakmai felkészítést, versenyeztetést, továbbá intézményesített kapcsolatot, átjárhatóságot a köznevelés intézményrendszerével a fokozott sporttevékenységgel együtt járó terhelés, időbeosztás rugalmas kialakítása céljából.
+
+#### 34. §
+
+A sportiskolák részére nyújtott költségvetési támogatás a következő célokra fordítható:
+
+a) a köznevelési típusú sportiskolákban használandó, sportszövetségi jóváhagyással rendelkező sportági tantervek elkészítése,
+
+b) a sportági sportnevelési modultantervek nyomtatott és elektronikus formában történő kiadása,
+
+c) a sportági tantervekhez kapcsolódó módszertani kézikönyvek nyomtatott és elektronikus formában történő kiadása,
+
+d) a sportiskolai rendszer köznevelési intézménytípusaiban alkalmazandó sportpedagógiai és sportpszichológiai koncepció kidolgozása,
+
+e) kiemelt és modelliskolák (referenciaiskolák), valamint a rendszerbe folyamatosan bekapcsolódó intézmények és szakmai műhelyek munkája,
+
+f) a sportiskolai kerettanterv megvalósításához kapcsolódó versenyeztetéssel, edzőtáboroztatással kapcsolatos költségek támogatása,
+
+g) a sportiskolai kerettanterv megvalósításában közreműködő pedagógusok programmal kapcsolatos többletfeladatainak – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai,
+
+h) a sportiskolai kerettanterv megvalósítását segítő eszközbeszerzés,
+
+i) egyéb, a sportiskolai programhoz közvetlenül kapcsolódó feladatok,
+
+j) egységes informatikai rendszer működtetése, fejlesztése, valamint
+
+k) egyesületi jellegű sportiskolák szakmai feladatainak ellátása.
+
+#### 35. §
+
+(1)[^88] Az olimpiai felkészülés, az olimpiai kvalifikációt eredményező versenyekre történő felkészülés és részvétel, valamint az ezekkel összefüggő szakmai feladatok ellátását szolgáló költségvetési támogatás felhasználása során a következő tételek számolhatók el:
+
+a) a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel, továbbá a felkészülés szakmai költségei,
+
+b) a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok rendezésének költségei,
+
+c) a sportdiplomáciai feladatokkal összefüggő költségek,
+
+d) a sportegészségügyi ellátással (különösen válogatott vagy olimpiai kerettagok sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok vásárlása) összefüggő költségek,
+
+e) doppingellenes tevékenységgel összefüggő költségek,
+
+f) sportfelszerelés, sporteszközök, sportág-specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával, valamint a sporttevékenységbe bevont állatok vásárlásával és tartásával kapcsolatos, valamint állategészségügyi költségek,
+
+g) a sportszövetség, sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
+
+h) a munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, a sportolók felkészítésében közvetlenül közreműködő sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai és megbízási díja,
+
+i) sportszakmai kiadványok elkészítésének, megjelentetésének, beszerzésének költségei, valamint
+
+j) sportszakemberek képzésének és továbbképzésének költségei.
+
+(2)[^89] A sportköztestület, az olimpiai sportágak országos sportági szakszövetsége, az országos sportági szövetség, a sportszervezet szakmai programjai és feladatai megvalósítását szolgáló költségvetési támogatás felhasználása során – az (1) bekezdésben meghatározottak mellett – a következő tételek számolhatók el:
+
+a) a nemzeti és a nemzetközi szervezetek tagdíjai, a regisztrációs és licencdíjak,
+
+b) a sportszövetségi, sportszervezeti iroda működésével kapcsolatos költségek,
+
+c) a sporttevékenységgel közvetlenül összefüggő szakmai, kommunikációs és marketing kiadványok megjelentetésének, beszerzésének költségei,
+
+d) a munkaviszonyban, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai és megbízási díja,
+
+e) a pénzügyi tevékenységgel és könyveléssel kapcsolatos költségek, szakértői díjak, valamint
+
+f) a sportszövetség, sportszervezet sporttevékenységével kapcsolatos belföldi utazási költségek.
+
+(3)[^90] A (2) bekezdés szerinti költségvetési támogatásban részesülő országos sportági szakszövetség, országos sportági szövetség sportköztestület a költségvetési támogatást az Stv.-ben, valamint az alapszabályában meghatározott feladatokra köteles fordítani. A szövetségi költségvetési támogatások összegének meghatározásakor az országos sportági szakszövetségek, országos sportági szövetségek következő szövetségi adatait kell figyelembe venni:
+
+a) a sportágban kiadott belföldi versenyengedélyek száma több mint ötszáz,
+
+b) a szövetségi tagszervezetek száma több mint húsz,
+
+c) a sportági eredményesség (Olimpián, Paralimpián, IWGA Világjátékokon, világbajnokságon elért 1–8. helyezés; Európa-bajnokságon elért 1–6. helyezés).
+
+(4)[^91] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a (2) bekezdés szerinti költségvetési támogatása az adott évben nem lehet több ötmillió forintnál.
+
+(5) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, a támogatási döntéskor az országos sportági szakszövetség, országos sportági szövetség sportági eredményességét, valamint az országos sportági szakszövetség, országos sportági szövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igényét, továbbá a MOB szakmai javaslatát kell figyelembe venni.
+
+(6) Az országos sportági szakszövetség, országos sportági szövetség tagszervezeteként működő sportszervezet részére a versenysport és olimpiai felkészülés szakmai feladataihoz nyújtandó költségvetési támogatás összegét a sportági eredményesség figyelembevételével kell meghatározni oly módon, hogy a pontokat az eredményt elérő sportoló sportszervezeténél kell érvényesíteni. Amennyiben az eredményt elérő sportoló a pontszámot adó világversenyre történő felkészülés során sportszervezetet váltott, az általa elért sporteredmény pontértékét a sportszervezetek között a felkészüléssel eltöltött idővel arányosan kell megosztani.
+
+#### 36. §
+
+(1) A Sport XXI. Utánpótlás-nevelési Program (a továbbiakban: Sport XXI. Program) koordinációs feladatai keretében a költségvetési támogatás a következő célokra fordítható:
+
+a) a Sport XXI. Programban részt vevő sportszervezetek, valamint országos sportági szakszövetségek szakmai feladatainak támogatása,
+
+b) testnevelők, edzők, csoportvezetők és szervezők, valamint a program szakszövetség általi irányítását, felügyeletét, koordinációját végzők – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai, – a személyi jövedelemadóról szóló törvény szerinti – béren kívüli juttatásai, a béren kívüli juttatások kifizetői közterhei és megbízási díja,
+
+c) sportesemények, versenyrendszerek támogatása,
+
+d) a Sport XXI. Programhoz kapcsolódó működési kiadások támogatása,
+
+e) egységes informatikai rendszer működtetése, fejlesztése,
+
+f) átfogó teljesítménymérési rendszer működtetésének támogatása,
+
+g) a Sport XXI. Program működtetéséhez kapcsolódó létesítményszükségletek támogatása,
+
+h) hazai és nemzetközi versenyeken való részvétel támogatása,
+
+i) eszközök és felszerelések beszerzésének támogatása, valamint
+
+j) egyéb, a Sport XXI. Program koordinációjával összefüggő feladatok támogatása.
+
+(2) A Héraklész Program megvalósítása érdekében nyújtott költségvetési támogatás a következő célokra fordítható:
+
+a) hazai és nemzetközi edzőtáborokban való részvétel támogatása,
+
+b) hazai és nemzetközi versenyen, mérkőzésen való részvétel, valamint versenyrendezés támogatása,
+
+c) a Héraklész Programban részt vevő válogatott kerettagok részvételével megtartott edzések szervezésének támogatása,
+
+d) sportlétesítmény-használat kiadásainak támogatása,
+
+e) sportszakemberek díjazása,
+
+f) bevizsgált táplálék-kiegészítők beszerzésének támogatása,
+
+g) sportegészségügyi háttér biztosításával összefüggő kiadások támogatása,
+
+h) sportszer, sporteszköz, sportruházat beszerzésének támogatása,
+
+i) egyéb, a Héraklész Programmal szorosan összefüggő feladatok, valamint
+
+j) egységes informatikai rendszer működtetése, fejlesztése.
+
+(3)[^92] A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére támogatja az egyéb utánpótlás-nevelési feladatok ellátását, a következők szerint:
+
+a) az Olimpiai Reménységek Versenyén (a továbbiakban: ORV) történő részvételt,
+
+b) az ORV magyarországi megrendezését,
+
+c) a sportegyesületek utánpótlás-nevelési műhelyeinek szakmai munkáját,
+
+d) a Duna-Kupa versenyrendszerében történő részvételt, valamint a Duna Kupa versenysorozat magyarországi megrendezését,
+
+e) kiemelt jelentőségű nemzetközi utánpótlás-sportesemény hazai rendezését,
+
+f) sportiskolai sporteseményeket, sportrendezvényeket,
+
+g) az Utánpótlás Edzők Életút Programját, valamint
+
+h) az utánpótlás-nevelés színvonalának fejlesztésére irányuló szakmai programok megvalósítását.
+
+#### 37. §
+
+(1)[^93] A nem olimpiai sportágak szakszövetségei és országos sportági szövegségei, valamint az olimpiai sportágak szakszövetségei és országos sportági szövetségei nem olimpiai szakágai, továbbá a Nemzeti Versenysport Szövetség szakmai programjainak és az Stv.-ben, valamint az alapszabályában meghatározott feladatainak megvalósításával összefüggő működését szolgáló költségvetési támogatás felhasználása során a következő tételek számolhatók el:
+
+1\. a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel, továbbá a felkészülés szakmai költségei,
+
+2\. a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok rendezésének költségei,
+
+3\. a sportdiplomáciai feladatokkal összefüggő költségek,
+
+4\. a sportegészségügyi ellátással (különösen válogatott kerettagok sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatásokkal, táplálkozási tanácsadással, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok vásárlásával) kapcsolatos költségek,
+
+5\. a válogatott kerettag versenyzők doppingvizsgálatával, doppingellenes tevékenységgel kapcsolatos felvilágosításával összefüggő költségek,
+
+6\. sportfelszerelés, sporteszközök, sportág-specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával, valamint a sporttevékenységbe bevont állatok vásárlásával és tartásával kapcsolatos, valamint állategészségügyi költségek,
+
+7\. a sportszövetség, sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
+
+8\. a munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, a sportolók felkészítésében közvetlenül közreműködő sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai és megbízási díja,
+
+9\. sportszakmai kiadványok elkészítésének, megjelentetésének, beszerzésének költségei,
+
+10\. a nemzeti és a nemzetközi szervezetek tagdíjai, a regisztrációs és licencdíjak,
+
+11\. a sportszövetségi, sportszervezeti iroda működésével kapcsolatos költségek,
+
+12\. a sporttevékenységgel közvetlenül összefüggő szakmai, kommunikációs és marketing kiadványok megjelentetésének, beszerzésének költségei,
+
+13\. a munkaviszonyban, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai és megbízási díja,
+
+14\. a pénzügyi tevékenységgel és könyvelési szolgáltatásokkal kapcsolatos költségek, szakértői díjak,
+
+15\. a sportszövetség, sportszervezet, sporttevékenységével kapcsolatos belföldi utazási költségek, valamint
+
+16\. sportszakemberek képzésének és továbbképzésének díjai.
+
+(2)[^94] A Nemzetközi Világjátékok Szövetségének (GAIFS) IWGA Világjátékaira, a Küzdősportok Világjátékaira, a nem olimpiai sportágak részére rendezett sport világeseményekre való felkészülés szakmai feladatainak ellátását, az e versenyeken való részvételt, továbbá az Európai Olimpiai Bizottság által rendezett Európai Játékokon, és a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC) által megrendezett versenyeken részt vevő nem olimpiai sportágak felkészülését szolgáló költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
+
+(3)[^95]
+
+(4)[^96]
+
+(5)[^97]
+
+(6)[^98] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
+
+#### 38. §
+
+(1)[^99] A sportinformációs rendszer működtetésével, üzemeltetésével, szakmai ügyvitel- és rendszerszervezésével, továbbfejlesztésével kapcsolatos feladatok keretében támogatható a rendszer adattörzs bővítéséhez és frissítéséhez kapcsolódó feladatok folyamatos ellátása, ennek keretében
+
+a) a funkcionalitás javítása és az esetleges redundanciák kiküszöbölését célzó informatikai-paraméterezési feladatok elvégzése,
+
+b) a rendszer használatába bevont szervezetek adminisztrátori struktúrájának kialakítása,
+
+c) a rendszer széles körben történő megismeréséhez és használatához szükséges kommunikációs és disszeminációs, különösen médiakampányok lebonyolítása, és
+
+d) a sportinformációs rendszer támogatása, valamint jogszabálykövetési feladatok ellátása.
+
+#### 38/A. §[^100]
+
+(1)[^101] A 38/B. § szerinti állami feladatokat a miniszter a Nemzeti Sportfejlesztési és Módszertani Intézet (a továbbiakban: Intézet) bevonásával látja el. A 38/D–38/F. § szerinti állami feladatokat a miniszter, a Nemzeti Kommunikációs Hivatal (a továbbiakban: NKOH) és a Nemzeti Rendezvényszervező Ügynökség (a továbbiakban: NRÜ) az Intézet bevonásával látja el.
+
+(2) A 38/B. § (1) bekezdése és a 38/D. § szerinti sportesemények esetén, ha a miniszter vagy a Kormány 100 millió forintot meghaladó támogatási összegről döntött és a kedvezményezett szervezetnek közvetlenül a támogatásnak, vagy egy részének felhasználásából a támogatott tevékenység megvalósításának időtartama alatt bármilyen jövedelme keletkezik, azt tételesen kimutatja – beleértve a pénzügyi műveletek egyéb bevételeit is –, a támogatási célra fordítja, és a felhasználásáról elszámol.
+
+(3) Ha a sportszövetség előzetes jóváhagyását követően a sportszövetség jogi személyiséggel felruházott szervezeti egysége vagy a sportszövetséggel tagsági viszonyban álló sportszervezet nyeri el a 38/B. § (1) bekezdése szerinti sportesemény rendezési jogát, a regisztrációs kérelem és a támogatási kérelem benyújtására, valamint sikeres pályázat esetén a sportesemény költségvetési támogatására a sportszövetség bevonásával kerülhet sor a sportszövetség kezesi felelőssége mellett.
+
+(4)[^102] A (3) bekezdés szerinti regisztrációs kérelem és támogatási kérelem, valamint a 38/D–38/F. § szerinti regisztrációskérelem-tervezet az Intézet honlapján közzétett formanyomtatvány alkalmazásával nyújtható be.
+
+#### 38/B. §[^103]
+
+(1) A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére költségvetési támogatást nyújthat a hazai rendezésű nemzetközi sport- és sportdiplomáciai események megrendezésével összefüggő költségek fedezetéhez:
+
+a) nemzetközi jelentőségű és turisztikai vonzerővel bíró sportesemény,
+
+b) olimpiai sportág sportszakmai jelentőséggel bíró felnőtt korosztályú nemzetközi sporteseménye,
+
+c) olimpiai sportág felnőtt és utánpótlás korosztályainak világbajnoksága, Európa-bajnoksága,
+
+d) nem olimpiai sportág hazai népszerűsítése okán fontossággal bíró sportesemény,
+
+e) nemzetközi sportszövetség, a Nemzetközi Olimpiai Bizottság, a Nemzetközi Olimpiai Bizottság által elismert és a honlapján „Recognised Organisation”-ként feltüntetett szervezet által rendezett kongresszus, konferencia, valamint szövetség irányító és szakmai szerveinek ülése,
+
+f) külföldön megrendezendő magyar sportdiplomáciai esemény,
+
+g) egyéb, az a)–f) pontba nem tartozó jelentős esemény,
+
+ha az adott sport- és sportdiplomáciai eseményhez 500 millió forintot meg nem haladó költségvetési támogatást kíván igénybe venni a kérelmező.
+
+(2)[^104] Az Intézet a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet [a továbbiakban: 162/2020. (IV. 30.) Korm. rendelet] szerinti szponzorációs igényt bejelenti az NKOH felé.
+
+(3)[^105] Ha a miniszter 15 millió forintot elérő támogatási összegről döntött, úgy a kérelmező a 162/2020. (IV. 30.) Korm. rendelet szerint jár el. A támogatási szerződés e bekezdés szerinti kötelezettséget tartalmazza.
+
+#### 38/C. §[^106]
+
+(1)[^107] A kérelmező a 38/B. § (1) bekezdése szerinti sportesemény rendezésére történő pályázati szándéka esetén, a sportrendezvény rendezési jogára vonatkozó pályázat benyújtási határidejét megelőzően legalább kilencven nappal, de legkésőbb a sportrendezvény időpontját megelőző év január 31-ig, a rendezési szándékát tartalmazó regisztrációs kérelmet és előzetes költségtervet nyújt be az Intézet részére. A regisztrációs kérelmet és az előzetes költségtervet elektronikus úton kell megküldeni.
+
+(2)[^108] A miniszter az Intézet szakmai állásfoglalása figyelembevételével a regisztrációs kérelmet annak kézhezvételétől számított harminc napon belül elbírálja, dönt annak nyilvántartásba vételéről vagy elutasításáról, amelyről a kérelmezőt az Intézet útján értesíti. Ha a regisztrációs kérelem kiegészítésre vagy kijavításra szorul, azt a miniszter az Intézet útján legfeljebb tizenöt napos határidő tűzésével hiánypótlásra visszaküldi.
+
+(3)[^109] A miniszter az Intézet útján a regisztrációs kérelem nyilvántartásba vételét elutasítja, ha
+
+a)[^110] nem az arra jogosult szervezet nyújtotta be,
+
+b)[^111] nem a 38/B. § (1) bekezdése szerinti sportesemény megrendezésének szándékát tartalmazza, vagy
+
+c)[^112] a regisztrációs kérelem a kérelmező hibájából hiányosan került benyújtásra és a hiánypótlás nem vezetett eredményre.
+
+(4) A miniszter – egyedi kérelemre – a 38/B. § (1) bekezdése szerinti sportesemény esetén eltekinthet a regisztrációs kérelem benyújtásától, és a támogatási kérelem az (1) bekezdés szerinti határidőt követően is benyújtható, ha:
+
+a) a sportesemény rendezési jogára vonatkozó pályázat az (1) bekezdés szerinti határidő lejártát követően kerül kiírásra,
+
+b)[^113] az adott nemzetközi szövetség vagy az adott esemény jogtulajdonosa (a továbbiakban együtt: jogtulajdonos) előzetes írásbeli egyeztetést követően a sportesemény megrendezésére kéri fel a kérelmezőt, vagy
+
+c) a sportesemény kiemelkedő sportszakmai jelentőségű.
+
+(5) A regisztrációs kérelem nyilvántartásba vétele a miniszter részéről fizetési kötelezettségvállalást nem jelent.
+
+(6)[^114] A kérelmező a 38/B. § (1) bekezdése szerinti sportesemény rendezési jogának elnyerése esetén a rendezési jog elnyerését követő 90 napon belül, de legkésőbb a sportesemény időpontját megelőző év január 31-ig támogatási kérelmet és részletes költségtervet nyújthat be az Intézet részére. A támogatási kérelmet és a részletes költségtervet elektronikus úton kell megküldeni.
+
+(7)[^115] Az Intézet eltekinthet a (6) bekezdésben előírt határidőtől, ha azt a sportesemény kiemelkedő sportszakmai jelentősége indokolja.
+
+(8)[^116] A miniszter az Intézet szakmai állásfoglalásának figyelembevételével egyedi mérlegelési jogkörében dönt a beérkezett támogatási kérelmekről. Ha a támogatási kérelem kiegészítésre vagy kijavításra szorul, azt a miniszter az Intézet útján legfeljebb tizenöt napos határidő tűzésével hiánypótlásra visszaküldi a kérelmező szervezetnek.
+
+(9)[^117] A 100 millió forintot meghaladó, de 500 millió forintot el nem érő költségvetési támogatási igényű, a 38/B. § (1) bekezdése szerinti sportesemény megrendezésére felállított szervezőbizottságban a támogatott szervezet biztosítja a miniszter képviseletében eljáró Intézet képviselői számára a részvételt.
+
+(10)[^118] Jogszabály vagy a Kormány egyedi döntése alapján az Intézet az e § szerinti eljárásban kérelmezőként is eljárhat, valamint ellátja a 38/B. § (1) bekezdése szerinti sporteseményhez kapcsolódó rendezvényszervezési és koordinálási tevékenységet.
+
+### 10/A.[^119] Kiemelt hazai rendezésű nemzetközi sportesemények támogatása
+
+#### 38/D. §[^120]
+
+A miniszter a Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok, valamint kiemelt hazai rendezésű sportesemények támogatása előirányzat terhére költségvetési támogatást nyújthat a kiemelt hazai rendezésű nemzetközi sport- és sportdiplomáciai események – kivéve az autó-, ejtőernyős, motorcsónak- és repülősportágak sportrendezvényeit – megrendezésével összefüggő költségek fedezetéhez
+
+a) kiemelt nemzetközi jelentőségű és turisztikai vonzerővel bíró sportesemény,
+
+b) olimpiai sportág kiemelt sportszakmai jelentőséggel bíró felnőtt korosztályú nemzetközi sporteseménye,
+
+c) olimpiai sportág felnőtt és utánpótlás korosztályainak világbajnoksága, Európa-bajnoksága,
+
+d) nem olimpiai sportág hazai népszerűsítése okán fontossággal bíró sportesemény,
+
+e) nemzetközi sportszövetség, a Nemzetközi Olimpiai Bizottság, a Nemzetközi Olimpiai Bizottság által elismert és a honlapján „Recognised Organisation”-ként feltüntetett szervezetek által rendezett kongresszus, konferencia, valamint szövetség irányító és szakmai szerveinek ülése,
+
+f) külföldön megrendezendő magyar sportdiplomáciai esemény, valamint
+
+g) egyéb, az a)–f) pontba nem tartozó jelentős esemény
+
+kapcsán, ha az adott sport- és sportdiplomáciai eseményhez 500 millió forintot elérő vagy meghaladó költségvetési támogatást kíván igénybe venni a kérelmező.
+
+#### 38/E. §
+
+(1)[^121] Ha a kérelmező által megpályázandó esemény kezdő napjáig tartó időtartam a 2 évet meghaladja, abban az esetben a kérelmező a 38/D. § szerinti esemény rendezési jogára vonatkozó pályázat benyújtási határidejét megelőzően legalább kettőszázhetven nappal az esemény megrendezésének szándékát tartalmazó regisztrációskérelem-tervezetet nyújt be az Intézet részére. A regisztrációskérelem-tervezet mellékletét képezi a 4. mellékletben foglalt táblázat G:11 mezőben meghatározott szervezet nyilatkozata az esemény 500 millió forintot meghaladó állami forrásigényéről.
+
+(2)[^122] Az Intézet a regisztrációskérelem-tervezet benyújtását követő 30 napon belül az (1) bekezdés szerinti iratokat, valamint az esemény sportszakmai célját és koncepcióját is tartalmazó műszaki leírását, sportszakmai kommunikációs tervét, a jogtulajdonos által rendelkezésre bocsátott rendezési feltételeket tartalmazó iratokat, továbbá az esemény rendezési szerződésének Intézet által véleményezett tervezetét, mint a regisztrációskérelem-tervezet mellékleteit elektronikus úton megküldi az NRÜ részére. A miniszter kezdeményezése esetén kérelmezőként az Intézet jár el.
+
+(3) Ha az esemény rendezési jogára vonatkozó pályázathoz a Kormány döntését igénylő létesítményfejlesztés, beruházás szükséges, a kérelemhez az esemény tervezett helyszínéül szolgáló létesítmény vezetőjének az esemény megrendezéséhez szükséges előzetes és részletes beruházási és fejlesztési költségtervét tartalmazó írásbeli nyilatkozatát is csatolni kell. A beruházási és fejlesztési költségterv nem képezi részét a rendezvény előzetes, valamint részletes költségtervének.
+
+(4)[^123] Az NRÜ a (2) bekezdés szerinti iratokat a megküldésüktől számított 15 napon belül véleményezi, és az iratok teljeskörűségéről szóló állásfoglalását az Intézet részére megküldi. Ha a regisztrációskérelem-tervezet, vagy melléklete kiegészítésre vagy kijavításra szorul, azt az NRÜ az Intézet útján legfeljebb tizenöt napos határidő tűzésével hiánypótlásra a kérelmező szervezetnek visszaküldi.
+
+(5)[^124] Az Intézet a pályázat benyújtási határidejét megelőzően legalább kettőszáztíz nappal a (2) bekezdés szerinti iratokat, valamint az NRÜ állásfoglalását az iratok teljeskörűségéről megküldi a miniszter részére.
+
+(6)[^125] A miniszter az Intézet és az NRÜ szakmai állásfoglalása figyelembevételével 30 napon belül dönt a regisztrációs kérelem nyilvántartásba vételéről vagy elutasításáról, amelyről a kérelmezőt az Intézet útján értesíti. Ha a regisztrációs kérelem kiegészítésre vagy kijavításra szorul, azt a miniszter az Intézet útján legfeljebb tizenöt napos határidő kitűzésével hiánypótlásra a kérelmező szervezetnek visszaküldi.
+
+(7) A regisztrációs kérelem nyilvántartásba vétele a miniszter részéről támogatással kapcsolatos kötelezettségvállalást nem jelent.
+
+(8) A miniszter – egyedi kérelemre – az (1) bekezdésben foglaltaktól eltérően a pályázat benyújtási határidejét megelőzően legfeljebb százhúsz nappal benyújtott kérelmet is regisztrálhat, ha
+
+a) az esemény rendezési jogára vonatkozó pályázat kiírásának időpontja miatt a regisztrációra az e rendeletben előírt határidőben nem kerülhetett sor,
+
+b) ha az adott nemzetközi szövetség vagy az adott esemény jogtulajdonosa az esemény megrendezésére közvetlenül kéri fel a kérelmet benyújtó szervezetet, és
+
+ba) a felkérés időpontja vagy
+
+bb) egyéb, a kérelmező érdekkörén kívüli ok
+
+miatt a regisztrációra az e rendeletben előírt határidőben nem kerülhetett sor, vagy
+
+c) a sportesemény megrendezése sportszakmai szempontból különös jelentőséggel bír.
+
+(9) [^126] Az NRÜ az esemény nyilvántartásba vételét követően egyeztet a kérelmezővel és az Intézettel, amely alapján elkészíti az esemény előzetes költségtervét, a pályázat benyújtási határidejét megelőző legkésőbb 60 nappal. Az NRÜ benyújtja az előzetes költségtervet az NKOH részére állásfoglalás kiadása céljából. Az NKOH 15 napon belül a sportesemény előzetes költségtervére vonatkozó állásfoglalását megküldi az Intézet útján a miniszter részére.
+
+(10) [^127] A miniszter az NKOH előzetes költségtervre vonatkozó állásfoglalása alapján az Intézet bevonásával előterjesztést készít a Kormány részére a pályázattal kapcsolatban. Az előterjesztés tartalmazza az NKOH által jóváhagyott előzetes költségtervet, valamint sportesemény esetén a sportesemény tervezett évében megrendezésre kerülő támogatási igényű kiemelt nemzetközi sporteseményekről szóló összefoglaló táblázatot is. Az előterjesztés mellékletét képezi a garancianyilatkozatok magyar és a pályázat hivatalos nyelvű szövege is. Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló kormányrendelet szabályait a garanciák kiadása tekintetében nem kell alkalmazni. A miniszter az előterjesztés tervezetét az Intézet útján véleményezésre megküldi az NRÜ részére.
+
+(11) [^128] Az esemény pályázati dokumentációját a kérelmező az Intézet részvételével állítja össze a (10) bekezdésben meghatározott kormány-előterjesztésben foglaltaknak megfelelően. Az esemény megrendezésére irányuló pályázat a kérelmező, az Intézet és az NRÜ által jóváhagyott tartalommal és formában nyújtható be. A rendezési jog elnyerése esetén az esemény rendezési szerződésének szerződő felei a jogtulajdonos, a pályázatot benyújtó szervezet, valamint a pályázati feltételektől függően az NRÜ.
+
+(12) [^129] A pályázatot benyújtó szervezet a benyújtott pályázat eredményéről annak kihirdetését követő három napon belül elektronikus úton tájékoztatja a minisztert, az Intézetet és az NRÜ-t.
+
+(13) [^130] Sikeres pályázat esetén az NRÜ egyeztet a pályázatot benyújtó szervezettel, valamint az Intézettel, és a rendezési szerződés rendelkezéseit figyelembe véve elkészíti az esemény részletes költségtervét. Az előzetes költségtervben bemutatott költségek főösszegétől a részletes költségterv legfeljebb 30%-kal térhet el az eltérés részletes indokolása mellett. Az NRÜ legkésőbb a (14) bekezdés szerinti támogatási kérelem benyújtása előtt 30 nappal benyújtja a részletes költségtervet az NKOH részére elfogadó nyilatkozat kiadása céljából.
+
+(14) Az NKOH a sportesemény részletes költségtervének elfogadása esetén, legkésőbb az esemény kezdőnapját megelőző 2 évvel a részletes költségtervet is tartalmazó támogatási kérelmet nyújt be a miniszter részére.
+
+(15) A támogatási kérelem benyújtását követő 30 napon belül a miniszter előterjesztést készít a Kormány részére a támogatási kérelem alapján az esemény magyarországi megrendezésével kapcsolatos további kormányzati intézkedésekről, valamint a rendezéshez szükséges – az NKOH részére történő – forrásbiztosításról. A miniszter az előterjesztés tervezetét véleményezésre megküldi az NKOH részére.
+
+(16) A 38/D. § szerinti sportesemény megrendezése érdekében az operatív irányító testület – függetlenül annak elnevezésétől, valamint formájától – szervezésével és döntéshozatalával kapcsolatos feladatokat az érintett sportszövetség delegáltjainak sportszakmai közreműködésével az NRÜ látja el.
+
+#### 38/F. §
+
+(1)[^131] Ha a megpályázandó esemény kezdő napjáig tartó időtartam kevesebb, mint 2 év, az eljárásban a 38/E. § (1)–(8) bekezdése megfelelően alkalmazandó. A regisztrációs kérelem nyilvántartásba vétele esetén az eljárásban a 38/E. § (9) és (10) bekezdésétől eltérően a (2)–(4) bekezdés alkalmazandó. Az eljárás további részei tekintetében a 38/E. § (11), (12) és (16) bekezdése megfelelően alkalmazandó.
+
+(2)[^132] Az NRÜ az esemény nyilvántartásba vételét követően egyeztet a kérelmezővel és az Intézettel, amely alapján elkészíti az esemény költségtervét. Az NRÜ benyújtja a költségtervet az NKOH részére elfogadó nyilatkozat kiadása céljából.
+
+(3) Az NKOH a sportesemény költségtervének elfogadása esetén a költségtervet is tartalmazó támogatási kérelmet nyújt be a miniszter részére.
+
+(4) A miniszter a támogatási kérelem alapján előterjesztést készít a Kormány részére a pályázattal kapcsolatban, valamint a (3) bekezdésben nevesített dokumentumok alapján az esemény magyarországi megrendezésével kapcsolatos további kormányzati intézkedésekről, valamint a rendezéshez szükséges – az NKOH részére történő – forrásbiztosításról. Az előterjesztés tartalmazza a költségtervet, valamint sportesemény esetén a sportesemény tervezett évében megrendezésre kerülő támogatási igényű kiemelt nemzetközi sporteseményekről szóló összefoglaló táblázatot is. Az előterjesztés mellékletét képezi a garancianyilatkozatok magyar és a pályázat hivatalos nyelvű szövege is. Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló kormányrendelet szabályait a garanciák kiadása tekintetében nem kell alkalmazni. A miniszter az előterjesztés tervezetét véleményezésre megküldi az NKOH részére.
+
+### 11.[^136] A Magyar Labdarúgó Szövetség feladatainak támogatása
+
+#### 42. §[^137]
+
+A Magyar Labdarúgó Szövetség feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
+
+a) a szabadidős labdarúgás fejlesztésével és népszerűsítésével,
+
+b) versenyszervezéssel,
+
+c) nemzeti válogatottak felkészítésével és versenyeztetésével,
+
+d) utánpótlás-neveléssel és tehetségképzéssel,
+
+e) sportegészségüggyel és sporttudománnyal,
+
+f) digitalizációs fejlesztésekkel,
+
+g) sportszakember képzéssel,
+
+h) sportlétesítmény-fejlesztési és -fenntartási feladatokkal,
+
+i) köznevelés intézményekkel történő együttműködések kialakításával és működtetésével és
+
+j) az *a)–i)* pontok szerinti feladatok ellátásával összefüggő irányítási, koordinációs és adminisztratív tevékenységek ellátásával
+
+összefüggő költségekre használható fel.
+
+### 12.[^138]
+
+### 13.[^139] A Sporteredmények, sportszakmai tevékenység, sportteljesítmények elismerése
+
+#### 44. §
+
+(1) A miniszter Gerevich Aladár-sportösztöndíjként kiemelt sportösztöndíjat és szövetségi sportösztöndíjat adományozhat az olimpiai, paralimpiai, sakkolimpiai, speciális világjáték-válogatott kerettag versenyző, valamint a felkészítésében közreműködő edző, szövetségi kapitány, válogatott vezetőedző és a versenyző felkészítésében közvetlenül részt vevő egyéb sportszakember [a (8)–(17) bekezdés alkalmazásában, a továbbiakban együtt: edző] részére.
+
+(2)[^140] A sportösztöndíj tárgyévi keretösszegét, a sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A kiemelt és a szövetségi sportösztöndíj feltételeit, kategóriáit és azok díjazását a miniszter szabályzat keretében határozza meg. A szövetségi sportösztöndíj keretét a miniszter a sportági eredményesség figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
+
+(3) A (8)–(17) bekezdésben meghatározott jogosultsági feltételek mellett sportösztöndíjra
+
+a) csak válogatott kerettag versenyző jogosult, amely feltétel meglétét a szövetség igazolja,
+
+b) csak olyan, az *a)* pontban meghatározott versenyzőt felkészítő edző jogosult, aki
+
+ba) a sport területén képesítéshez kötött tevékenység szabályairól szóló kormányrendeletben meghatározott legalább középfokú edzői képesítéssel, vagy más, a közvetlen sportszakmai felkészítéssel összefüggő képesítéssel, továbbá
+
+bb) a versenyző sporttevékenységének feltételeit, felkészítését biztosító sportszervezettel vagy a versenyző részére versenyengedélyt kiadó sportszövetséggel fennálló, foglalkoztatásra irányuló jogviszonnyal
+
+rendelkezik, és e feltételek fennállását igazolja.
+
+(4) Külföldi állampolgárságú edző sportösztöndíjra jogosultságának – kivéve az (5) bekezdésben foglaltakat – a (3) bekezdés b) pontjában foglaltakon kívül további feltétele, hogy az edző
+
+a) az edzői tevékenység végzésére jogosító okirat honosított példányának másolatát,
+
+b) a társadalombiztosítási jogviszony fennállásának igazolására alkalmas okirat másolatát,
+
+c)[^141] annak igazolását, hogy fizetési számlával rendelkezik, továbbá
+
+d) a tartózkodási engedélye másolatát – amelyből megállapítható, hogy legalább a munkaszerződés, munkavégzésre irányuló egyéb szerződés időtartamával megegyező időtartamban Magyarország területén jogszerűen tartózkodik –
+
+csatolja.
+
+(5) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 1. § (1) bekezdés a) pontja szerinti EGT-állampolgárságú edzők esetében a sportösztöndíjra jogosultság feltételei azonosak a magyar állampolgárságú edzőkre a (3) bekezdés b) pontjában meghatározott feltételekkel.
+
+(6) A sportösztöndíjban részesülőkről a miniszter a (8)–(17) bekezdésben meghatározottak szerint dönt és gondoskodik a havi sportösztöndíjak tárgyhónapot követő hónap 15. napjáig történő folyósításáról.
+
+(7) Ha a versenyzővel, edzővel szemben doppingvétség elkövetésének megalapozott gyanúja miatt doppingeljárás indul, a sportösztöndíj folyósítását fel kell függeszteni.
+
+(8) Kiemelt sportösztöndíjban részesíthető
+
+a) az előző négy évben olimpiai játékokon érmes vagy világbajnokságon kizárólag olimpiai versenyszámban világbajnok versenyző,
+
+b) az *a)* pont szerinti versenyzőt felkészítő edző,
+
+c) az előző négy évben paralimpián érmes vagy világbajnokságon paralimpiai versenyszámban világbajnok versenyző,
+
+d) a *c)* pont szerinti versenyzőt felkészítő edző.
+
+(9)[^142]
+
+(10) A kiemelt sportösztöndíjban részesülő személyekről a miniszter
+
+a) versenyző esetén az elért eredményekre,
+
+b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége és az edző szakmai pályafutásának értékelésére
+
+figyelemmel dönt.
+
+(11)[^143] Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
+
+(12) Szövetségi sportösztöndíjban részesíthető a (8) bekezdés hatálya alá nem tartozó felnőtt, valamint utánpótlás korosztályban induló versenyző, és a felkészítését végző edző.
+
+(13)[^144]
+
+(14)[^145]
+
+(15) A Magyar Speciális Olimpiai Szövetség részére biztosítandó sportösztöndíj-keret kizárólag edzők támogatására fordítható.
+
+(16)[^146] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
+
+(17)[^147] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
+
+(18)[^148] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
+
+(19)[^149] A Gerevich Aladár-sportösztöndíjban részesülő edzőnek – az ösztöndíjra jogosultságának időtartama alatt – részt kell vennie a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben. Amennyiben az edző a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben történő részvételt megtagadja, vagy annak felszólítás ellenére nem tesz eleget, a sportösztöndíjat a miniszter megvonhatja.
+
+(20)[^150]
+
+### 14.[^151]
+
+### 15.[^152]
+
+### 16.[^153] Sportegészségügy, sporttudomány támogatása
+
+#### 47. §[^154]
+
+A Sportegészségügy, sporttudomány támogatása előirányzat terhére a sportegészségügyi ellátással összefüggésben nyújtott támogatás az alábbi költségekre fordítható:
+
+a) az egyes válogatott keretek mellett tevékenykedő orvosok (keretorvosok), sportpszichológusok, masszőrök, gyógytornászok tevékenységének szakmai felügyeletéhez,továbbá orvosok (keretorvosok), gyógytornászok, sportpszichológusok, masszőrök foglalkoztatásához,
+
+b) a keretorvossal nem rendelkező válogatott keretek sporttevékenységének támogatására szolgáló keretorvosi csoport működtetéséhez,
+
+c) a válogatott kerettagok szűrővizsgálatainak elvégzéséhez, táplálkozási tanácsadáshoz,
+
+d) teljesítmény-élettani laboratórium, valamint sportgenomikai laboratórium működtetéséhez,
+
+e) intézményi műszeres fejlesztéshez, eszközbeszerzéshez,
+
+f) sportegészségügyi kiadványok vásárlásához, megjelentetéséhez,
+
+g) edzőtáborokban, olimpiai központokban, valamint az országos sportegészségügyi hálózat keretében a sportorvosi ellátáshoz,
+
+h) sportorvosi szakrendelések, valamint a keretorvosi hálózat online regisztrációs rendszerének kialakítására, fejlesztésére,
+
+i) a sportegészségügy és a sportegészségügyi szakemberek tevékenysége keretében megelőző, felvilágosító, nevelő, ellenőrző tevékenységhez,
+
+j) orvosi eszközök, berendezések, műszerek, gépek beszerzéséhez, javításához, karbantartásához, működtetéséhez,
+
+k) gyógyszerek, gyógyászati segédeszközök beszerzéséhez, szolgáltatások igénybevételéhez,
+
+l) az olimpiai, paralimpiai és a Speciális Világjátékokra való felkészüléssel, az élsportolók kiemelt ellátásával kapcsolatos sportegészségügyi feladatok megvalósításához, különös tekintettel a betegirányítási feladatokat ellátó telefonos ügyfélszolgálati rendszer működtetésére,
+
+m) egyéb, a sportegészségüggyel összefüggő feladatok ellátásához.
+
+### 17.[^155] Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások
+
+#### 48. §
+
+(1)[^156] A Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások előirányzat terhére nyújtott költségvetési támogatás tekintetében
+
+a) a szabadidősport-rendezvény megrendezésével közvetlenül összefüggő kiadások,
+
+b) sportegészségügyi ellátással (a rendezvényeken részt vevő személyek sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás, sportegészségügyi eszközök, műszerek, gyógyszerek, bevizsgált étrend-kiegészítők, vitaminok vásárlása) összefüggő költségek,
+
+c) sportfelszerelés, sporteszközök, sportág-specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával összefüggő költségek,
+
+d) sporttevékenységhez közvetlenül kapcsolódó bérleti díj,
+
+e) szabadidősport céljára szolgáló sporttelepek, sportpályák építésével, fejlesztésével, korszerűsítésével, felújításával közvetlenül összefüggő költségek,
+
+f) a sportszövetség, sportszervezet, sporttevékenységével kapcsolatos belföldi utazás költségei,
+
+g) a munkaviszonyban, a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai, megbízási díja, valamint a számviteli kötelezettségek teljesítésével összefüggő költségek,
+
+h) a sportrendezvény szervezésével összefüggő étkezés és frissítők költségei,
+
+i) a sportrendezvény résztvevőinek díjazásával kapcsolatos közvetlen költségek,
+
+j) a sportrendezvény kommunikációjával kapcsolatos költségek – a (2) bekezdésben foglalt korlátozással –,
+
+k) a versenyrendezés (ideértve a jogdíjakat is) és más szakmai rendezvények, képzések, továbbképzések rendezésének költségei,
+
+l) a hazai és külföldi szakmai programokon való részvétel költségei (ideértve a sportdiplomáciai feladatokkal összefüggő költségeket is)
+
+m)[^157] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
+
+n)[^158] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
+
+számolhatók el.
+
+(2) A költségvetési támogatás legfeljebb tíz százalékáig a sportrendezvény kommunikációjával kapcsolatos költségek elszámolhatók.
+
+### 18.[^159]
+
+#### 49. §[^160]
+
+A Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások előirányzat terhére a diák- és hallgatói sporttal összefüggésben nyújtott költségvetési támogatás tekintetében:
+
+a) a sportegészségügyi ellátás (a rendezvényeken, eseményeken részt vevő személyek sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok vásárlása) költségei,
+
+b) a munkaviszonyban, a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai, megbízási díja, valamint a számviteli kötelezettségek teljesítésével összefüggő költségek,
+
+c) sportfelszerelés, sporteszközök, sportág specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával kapcsolatos költségek,
+
+d)[^161] a kedvezményezett sporttevékenységével kapcsolatos belföldi utazás és külföldi versenyekre való utazás költségei,
+
+e) a sportesemény szervezésével összefüggő étkezés költségei,
+
+f) a sportesemény szervezésével összefüggő frissítők költségei,
+
+g)[^162] a Magyar Diáksport Szövetség által szervezett felmenő rendszerű diákolimpiai versenyeken és egyéb programokon kiemelkedően szereplő iskolák, szervezetek, pedagógusok, sportszakemberek és diákok, valamint a diáksport területén hosszú időn keresztül eredményes tevékenységet kifejtő személyek jutalmazásának költségei,
+
+h) a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel költségei,
+
+i)[^163] a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok, rendezvények, képzések, továbbképzések megrendezésének költségei,
+
+j) a sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt vagy más jogcímen használt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
+
+k) pálya- és létesítménybérleti, -használati díjak
+
+l)[^164] az iskolai sport monitoring és nevezési rendszer működtetésének és fejlesztésének költségei
+
+számolhatók el.
+
+### 19. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása
+
+#### 50. §
+
+(1) A miniszter a Kiemelt Edzői Program (a továbbiakban: KEP) keretében biztosítja a kiemelt edzők foglalkoztatásának, továbbképzésének költségeit. A KEP a legeredményesebb, legtehetségesebb edzők pályán tartását, továbbképzését, magyarországi foglalkoztatását, illetve munkavégzésük egységes követelményrendszerének kialakítását szolgálja. A KEP keretében foglalkoztatott kiemelt edző a hozzá kapcsolódó sportoló olimpiai sportágban elért eredménye alapján részesül állami támogatásban.
+
+(2) A KEP tárgyévi keretösszegét, valamint a támogatásban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A KEP tárgyi- és személyi hatályát, a jogosultsági feltételeket, a kiemelt edzői kategóriákat és azok díjazását a miniszter szabályzat keretében határozza meg.
+
+(3) A kiemelt edzők díjazásáról a miniszter a (2) bekezdésben hivatkozott szabályzatban meghatározottak szerint dönt és gondoskodik azok tárgyhónapot követő hónap 10. napjáig történő folyósításáról.
+
+(4) Ha a KEP keretében foglalkoztatott edzővel, valamint az edzőhöz kapcsolódó sportolóval szemben doppingvétség elkövetésének megalapozott gyanúja miatt doppingeljárás indul, a támogatás folyósítását fel kell függeszteni.
+
+(5) Vissza kell vonni a támogatást, ha
+
+a) az edzővel, valamint az edzőhöz kapcsolódó sportolóval szemben jogerős doppingbüntetésként eltiltás kerül kiszabásra,
+
+b) az edző sportolót felkészítő jogosultsága megszűnik.
+
+c)[^165] az edzővel szemben sportfegyelmi büntetésként sportszakmai tevékenységtől eltiltás kerül kiszabásra.
+
+(6)[^166] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
+
+(7)[^167]
+
+### 20.[^168]
+
+### 21.[^169]
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 51. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–50. § és az 52. § 2017. január 1-jén lép hatályba.
+
+#### 52. §
+
+E rendelet
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
+
+b) az EUMSz 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.)
+
+c)[^170] 3/A. alcíme az Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény,
+
+d)[^171] 3/B. alcíme az Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából című, 2022. március 23-i, 2022/C 131 I/01 számú európai bizottsági közlemény
+
+hatálya alá tartozó támogatást tartalmaz.
+
+#### 53. §[^172]
+
+E rendeletnek a sport tárgyú kormányrendeletek módosításáról szóló 279/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 17. § (1) bekezdés 10., 11a. és 11b. pontját a Módr. hatálybalépésekor[^173] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 54. §[^174]
+
+E rendeletnek az egyes sport és kulturális tárgyú kormányrendeletek módosításáról szóló 206/2019. (VIII. 23.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 17. § (1a) bekezdését, 18. § (5) bekezdését, 25. § (2) bekezdését, 26. § (5) és (6) bekezdését, valamint 30. § (4) bekezdését és módosított 4. mellékletét a Módr2. hatálybalépésekor[^175] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 55. §[^176]
+
+E rendeletnek az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet módosításáról szóló 472/2020. (X. 29.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^177] folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 56. §[^178]
+
+A Gazdaság újraindítását szolgáló sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, Sportlétesítmény fejlesztések támogatása alcím jogutód előirányzata 2023. január 1. napjától a XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 06. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása alcím. A Gazdaság újraindítását szolgáló sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, Sportlétesítmény fejlesztések támogatása alcím terhére kifizetett vagy azon kimutatott követelések és folyamatban lévő kötelezettségek összegei 2023. január 1. napjától a XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 06. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása alcímre átvezetésre kerülnek.
+
+#### 57. §[^179]
+
+E rendeletnek az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet módosításáról szóló 56/2023. (II. 27.) Korm. rendelettel megállapított 44. § (2) bekezdését, valamint 44. § (11) bekezdését a Gerevich Aladár-sportösztöndíj 2023. évi megállapítása során is alkalmazni kell.
+
+## 1. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^180]
+
+## 2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^181]
+
+## 3. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^182]
+
+## 4. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^183]
+
+## 4/a. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^184]
+
+## 5. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^185]
+
+## 5/A. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^186]
+
+## 6. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^187]
+
+## 7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^188]
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja az 552/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés 2. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdés 3. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés 4. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (2) bekezdés 5. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (2) bekezdés 6. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (2) bekezdés 7. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (2) bekezdés 8. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^9]: Az 1. § (2) bekezdés 9. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^10]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
+[^11]: Az 1. § (2) bekezdés 11. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^12]: Az 1. § (2) bekezdés 12. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^13]: Az 1. § (2) bekezdés 13. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^14]: Az 1. § (2) bekezdés 14. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^15]: Az 1. § (2) bekezdés 15. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^16]: Az 1. § (2) bekezdés 16. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^17]: Az 1. § (2) bekezdés 18. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^18]: Az 1. § (2) bekezdés 19. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^19]: Az 1/A. §-t a 765/2021. (XII. 23.) Korm. rendelet 41. §-a iktatta be, szövege a 658/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A II. Fejezetet (2–8/J. §-t) a 658/2023. (XII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^21]: A 9. § a 130/2022. (IV. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 9. § (2) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^23]: A 9. § (3) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 658/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^24]: A 10. § (1) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 658/2023. (XII. 28.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
+[^25]: A 10. § (3) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^26]: A 10. § (4) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^27]: A 11. § a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 12. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^29]: A 12. § (2) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A 13. § (1) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.
+[^31]: A 15. § (1) bekezdése a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^32]: A 16. § (1) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 7. alcím címe a 279/2018. (XII. 21.) Korm. rendelet 25. § a) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^34]: A 17. § (1) bekezdés nyitó szövegrésze a 279/2018. (XII. 21.) Korm. rendelet 25. § b) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
+[^35]: A 17. § (1) bekezdés 1. pontja a 395/2025. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^36]: A 17. § (1) bekezdés 2. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: A 17. § (1) bekezdés 3. pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § a) pontja, a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^38]: A 17. § (1) bekezdés 4. pontja a 472/2020. (X. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, az 552/2022. (XII. 22.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^39]: A 17. § (1) bekezdés 6. pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^40]: A 17. § (1) bekezdés 7. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^41]: A 17. § (1) bekezdés 8. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 658/2023. (XII. 28.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
+[^42]: A 17. § (1) bekezdés 10. pontja a 279/2018. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^43]: A 17. § (1) bekezdés 11. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^44]: A 17. § (1) bekezdés 11a. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^45]: A 17. § (1) bekezdés 11b. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^46]: A 17. § (1) bekezdés 16. pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 4. pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdés 18. pontját az 552/2022. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^48]: A 17. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^49]: A 17. § (1b) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^50]: A 17. § (1c) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^51]: A 17. § (2a) bekezdését a 472/2020. (X. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^52]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^53]: A 17. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
+[^54]: A 17. § (5) bekezdése a 472/2020. (X. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^55]: A 18. § (1) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^56]: A 18. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^57]: A 18. § (1b) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^58]: A 18. § (5) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^59]: A 18. § (6) bekezdését a 472/2020. (X. 29.) Korm. rendelet 4. §-a iktatta be.
+[^60]: A 19. § a 206/2019. (VIII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^61]: A 20. § (1) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^62]: A 20. § (3) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^63]: A 20. § (4) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^64]: A 20. § (5) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 206/2019. (VIII. 23.) Korm. rendelet 18. § (1) bekezdése.
+[^65]: A 21. § a) pontja a 279/2018. (XII. 21.) Korm. rendelet 25. § d) pontja, az 552/2022. (XII. 22.) Korm. rendelet 24. § i) pontja szerint módosított szöveg.
+[^66]: A 22. § (2) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 9. §-ával megállapított, az 552/2022. (XII. 22.) Korm. rendelet 24. § j) pontja szerint módosított szöveg.
+[^67]: A 23. § (1) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^68]: A 24. § (1) bekezdése a 472/2020. (X. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^69]: A 24. § (2) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^70]: A 24. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^71]: A 25. § (2) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^72]: A 26. § (2) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^73]: A 26. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^74]: A 26. § (5) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^75]: A 26. § (6) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^76]: A 26. § (7) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^77]: A 26/A. §-t a 472/2020. (X. 29.) Korm. rendelet 6. §-a iktatta be.
+[^78]: A 27. § (1) bekezdés a) pont aa) alpontja az 552/2022. (XII. 22.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^79]: A 27. § (1) bekezdés c) pont ca) alpontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 6. pontja szerint módosított szöveg.
+[^80]: A 28. § (6) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
+[^81]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^82]: A 29/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 11. §-a iktatta be.
+[^83]: A 30. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^84]: A 30. § (2) bekezdése a 130/2022. (IV. 5.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze az 552/2022. (XII. 22.) Korm. rendelet 25. § e) pontja, a 658/2023. (XII. 28.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^85]: A 30. § (3) bekezdése a 130/2022. (IV. 5.) Korm. rendelet 2. §-ával megállapított, az 552/2022. (XII. 22.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
+[^86]: A 30. § (4) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 14. §-a iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 24. § m) pontja szerint módosított szöveg.
+[^87]: A 10. alcím (32-38. §) az 552/2022. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^88]: A 35. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 7. pontja szerint módosított szöveg.
+[^89]: A 35. § (2) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
+[^90]: A 35. § (3) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^91]: A 35. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
+[^92]: A 36. § (3) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 19. pontja szerint módosított szöveg.
+[^93]: A 37. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
+[^94]: A 37. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
+[^95]: A 37. § (3) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^96]: A 37. § (4) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^97]: A 37. § (5) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^98]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
+[^99]: A 38. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^100]: A 38/A. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^101]: A 38/A. § (1) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^102]: A 38/A. § (4) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^103]: A 38/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^104]: A 38/B. § (2) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^105]: A 38/B. § (3) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
+[^106]: A 38/C. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^107]: A 38/C. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja, a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^108]: A 38/C. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 17. pontja, a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^109]: A 38/C. § (3) bekezdés nyitó szövegrésze a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^110]: A 38/C. § (3) bekezdés a) pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 18. pontja szerint módosított szöveg.
+[^111]: A 38/C. § (3) bekezdés b) pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 20. pontja szerint módosított szöveg.
+[^112]: A 38/C. § (3) bekezdés c) pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
+[^113]: A 38/C. § (4) bekezdés b) pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 17. pontja szerint módosított szöveg.
+[^114]: A 38/C. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja, a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^115]: A 38/C. § (7) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^116]: A 38/C. § (8) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^117]: A 38/C. § (9) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^118]: A 38/C. § (10) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^119]: A 10/A. alcímet (38/D-38/F. §-t) az 552/2022. (XII. 22.) Korm. rendelet 14. §-a iktatta be.
+[^120]: A 38/D. § a 18/2025. (II. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^121]: A 38/E. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 21. pontja szerint módosított szöveg. [E módosító rendelet 6. § e) pontja által elrendelt módosítás, amely szerint a 38/E. § (1) bekezdésében hatályát veszti a „4. mellékletben foglalt táblázat G:11 mezőjében meghatározott szervezet által” szövegrész, nem vezethető át.] A 38/E. § (1) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^122]: A 38/E. § (2) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^123]: A 38/E. § (4) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^124]: A 38/E. § (5) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^125]: A 38/E. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 22. pontja, a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^126]: A 38/E. § (9) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^127]: A 38/E. § (10) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^128]: A 38/E. § (11) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^129]: A 38/E. § (12) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^130]: A 38/E. § (13) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^131]: A 38/F. § (1) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^132]: A 38/F. § (2) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^136]: A 11. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^137]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított, nyitó szövegrésze az 552/2022. (XII. 22.) Korm. rendelet 24. § n) pontja szerint módosított szöveg.
+[^138]: A 12. alcímet (43. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.
+[^139]: A 13. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^140]: A 44. § (2) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^141]: A 44. § (4) bekezdés c) pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^142]: A 44. § (9) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^143]: A 44. § (11) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^144]: A 44. § (13) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^145]: A 44. § (14) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^146]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^147]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^148]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^149]: A 44. § (19) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
+[^150]: A 44. § (20) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be, az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^151]: A 14. alcímet (45. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.
+[^152]: A 15. alcímet (46. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.
+[^153]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^154]: A 47. § nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 23. pontja szerint módosított szöveg.
+[^155]: A 17. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^156]: A 48. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 24. pontja szerint módosított szöveg.
+[^157]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^158]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^159]: A 18. alcím címét az 552/2022. (XII. 22.) Korm. rendelet 25. § h) pontja hatályon kívül helyezte.
+[^160]: A 49. § nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 25. pontja szerint módosított szöveg.
+[^161]: A 49. § d) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (1) bekezdésével megálapított szöveg.
+[^162]: A 49. § g) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (2) bekezdésével megálapított szöveg.
+[^163]: A 49. § i) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (3) bekezdésével megálapított szöveg.
+[^164]: A 49. § l) pontját a 472/2020. (X. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^165]: Az 50. § (5) bekezdés c) pontját az 552/2022. (XII. 22.) Korm. rendelet 19. §-a iktatta be.
+[^166]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^167]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^168]: A 20. alcímet (50/A. §-t) a 298/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be, a 658/2023. (XII. 28.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.
+[^169]: A 21. alcímet (50/B. §-t) az 552/2022. (XII. 22.) Korm. rendelet 20. §-a iktatta be, a 658/2023. (XII. 28.) Korm. rendelet 6. § h) pontja hatályon kívül helyezte.
+[^170]: Az 52. § c) pontját a 240/2022. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^171]: Az 52. § d) pontját a 240/2022. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^172]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 279/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be.
+[^173]: A hatálybalépés napja 2018. december 22.
+[^174]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 206/2019. (VIII. 23.) Korm. rendelet 15. §-a iktatta be.
+[^175]: A hatálybalépés időpontja 2019. augusztus 24.
+[^176]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 472/2020. (X. 29.) Korm. rendelet 16. §-a iktatta be.
+[^177]: A hatálybalépés időpontja 2020. november 1.
+[^178]: Az 56. §-t az 552/2022. (XII. 22.) Korm. rendelet 21. §-a iktatta be.
+[^179]: Az 57. §-t az 56/2023. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^180]: Az 1. mellékletet a 658/2023. (XII. 28.) Korm. rendelet 6. § i) pontja hatályon kívül helyezte.
+[^181]: A 2. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^182]: A 3. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^183]: A 4. mellékletet a 658/2023. (XII. 28.) Korm. rendelet 6. § i) pontja hatályon kívül helyezte.
+[^184]: A 4/a. mellékletet a 130/2022. (IV. 5.) Korm. rendelet 3. §-a iktatta be, az 552/2022. (XII. 22.) Korm. rendelet 25. § i) pontja hatályon kívül helyezte.
+[^185]: Az 5. mellékletet az 552/2022. (XII. 22.) Korm. rendelet 25. § k) pontja hatályon kívül helyezte.
+[^186]: Az 5/A. mellékletet a 282/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be, az 552/2022. (XII. 22.) Korm. rendelet 25. § k) pontja hatályon kívül helyezte.
+[^187]: A 6. mellékletet az 552/2022. (XII. 22.) Korm. rendelet 25. § k) pontja hatályon kívül helyezte.
+[^188]: A 7. mellékletet az 552/2022. (XII. 22.) Korm. rendelet 25. § i) pontja hatályon kívül helyezte.

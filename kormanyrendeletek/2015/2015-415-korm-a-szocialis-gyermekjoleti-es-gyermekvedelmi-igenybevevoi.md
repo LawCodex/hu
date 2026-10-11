@@ -1,0 +1,545 @@
+---
+title: "415/2015. (XII. 23.) Korm. rendelet a szociális, gyermekjóléti és gyermekvédelmi igénybevevői nyilvántartásról és az országos jelentési rendszerről"
+identifier: "415/2015. (XII. 23.) Korm. rendelet"
+njt_id: "2015-415-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/415"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-23
+in_force_from: 2016-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-415-20-22"
+retrieved: 2026-10-12
+---
+
+# 415/2015. (XII. 23.) Korm. rendelet a szociális, gyermekjóléti és gyermekvédelmi igénybevevői nyilvántartásról és az országos jelentési rendszerről
+
+A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés j) és s) pontjában, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés o) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1)[^1] A Magyar Államkincstár központi szerve (a továbbiakban: Központ) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásának (a továbbiakban: szolgáltatói nyilvántartás) adatai alapján, egységes adatbázisban vezeti
+
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 20/C. §-a szerinti, a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 139. § (2) bekezdése szerinti, a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából vezetett nyilvántartást (a továbbiakban együtt: igénybevevői nyilvántartás),
+
+b) az Szt. 20/B. §-a és a Gyvt. 141/A. §-a szerinti országos jelentési rendszert és
+
+c) az Szt. 20. § (2a) bekezdése szerinti adatszolgáltatás rendszerét
+
+[az a)–c) pont szerinti nyilvántartások és rendszerek a továbbiakban együtt: nyilvántartások].
+
+(2)[^2]
+
+(3) A nyilvántartások nem minősülnek hatósági nyilvántartásnak.
+
+(4) A nyilvántartások adatainak módosítását az informatikai rendszer naplózza.
+
+(5) A nyilvántartásokhoz történt hozzáférést az informatikai rendszer naplózza, kivéve, ha az adatokat a Szociális Ágazati Portálon bárki számára hozzáférhető internetes felületen keresztül érik el.
+
+### 2. §
+
+(1)[^3] A nyilvántartásokba történő adatszolgáltatást – a 8/A. §-ban foglaltak kivételével – a nyilvántartások informatikai rendszerében kell teljesíteni.
+
+(2) A nyilvántartásokba történő adatszolgáltatásért a fenntartó felel.
+
+(3)[^4] A fenntartó az adatszolgáltatás teljesítésére – a Magyar Államkincstár honlapján közzétett formanyomtatványon – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal rendelkező személyt jelöl ki (a továbbiakban: e-képviselő). Az egyéni vállalkozó fenntartó és a fenntartó szervezet képviselője saját magát is kijelölheti e-képviselőnek.
+
+(4)[^5] A kijelölő okiratot a fenntartó elektronikus úton küldi meg a Központ részére. A fenntartó köteles a Központnak bejelenteni, ha az e-képviselő Központnak megküldött adatai megváltoztak vagy kijelölése megszűnt.
+
+(5)[^6] A Központ ellenőrizheti az e-képviselő a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásoknál megadott személyazonosító adatainak és a kijelölésben foglalt személyazonosító adatainak egyezőségét. Ha az adatok nem egyeznek meg, a Központ a kijelölést visszautasítja.
+
+(6)[^7] Az adatszolgáltatás teljesítésére az e-képviselő – az engedélyes vagy a fenntartó munkatársai közül – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal rendelkező személyt vagy személyeket jelölhet ki (a továbbiakban: adatszolgáltató munkatárs). Az adatszolgáltató munkatárs megfelelő felkészítéséről az e-képviselő gondoskodik.
+
+(6a)[^8] Az óvodai és iskolai szociális segítő tevékenységgel és a szociális diagnózissal kapcsolatos adatszolgáltatásra külön adatszolgáltató munkatársakat kell kijelölni.
+
+(7)[^9] Az adatszolgáltató munkatárs a nyilvántartások informatikai rendszerében jelölhető ki. A kijelöléshez meg kell adni az adatszolgáltató munkatárs a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások használatára jogosító személyazonosító adatait, és meg kell jelölni azokat az engedélyeseket, amelyek tekintetében az adatszolgáltató munkatárs adatszolgáltatásra jogosult.
+
+(8)[^10] Az e-képviselő köteles a nyilvántartások informatikai rendszerében bejelenteni, ha az adatszolgáltató munkatárs Központnak megküldött adatai megváltoztak. Az adatszolgáltató munkatárs kijelölése a nyilvántartások informatikai rendszerében vonható vissza.
+
+## 2. Az igénybevevői nyilvántartás
+
+### 3. §
+
+(1) Az igénybevevői nyilvántartásba történő adatszolgáltatási kötelezettség – a (2) bekezdésben meghatározott kivételekkel – arra az engedélyesre terjed ki,
+
+a) amelyet a Szociális és Gyermekvédelmi Főigazgatóság tart fenn,
+
+b)[^11] amelynek működéséhez a fenntartó részére – bármely szociális szolgáltatás vagy gyermekjóléti, gyermekvédelmi szolgáltató tevékenység, ide nem értve a gyermekétkeztetést (a továbbiakban együtt: szolgáltatás) után – a központi költségvetésről szóló törvény alapján támogatást állapítottak meg,
+
+c)[^12] amely jelzőrendszeres házi segítségnyújtást vagy családsegítést és gyermekjóléti szolgáltatást nyújt, ha e szolgáltatására a fenntartó hatályos ellátási szerződéssel rendelkezik, vagy
+
+d)[^13] amely fejlesztő foglalkoztatást vagy gyermekek esélynövelő szolgáltatását nyújt, ha e szolgáltatására a fenntartó hatályos – a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet szerinti – finanszírozási szerződéssel rendelkezik.
+
+(2) Nem terjed ki az igénybevevői nyilvántartásba történő adatszolgáltatási kötelezettség az engedélyesre, ha
+
+a) kizárólag az Szt. 20/C. § (2) bekezdése vagy a Gyvt. 139. § (3) bekezdése szerinti szolgáltatást nyújt,
+
+b) utána a fenntartó kizárólag az Szt. 20/C. § (2) bekezdése vagy a Gyvt. 139. § (3) bekezdése szerinti szolgáltatás működéséhez részesül támogatásban a központi költségvetésről szóló törvény alapján, vagy
+
+c) a családok átmeneti otthona titkos menedékházként működik.
+
+(3) Az adatszolgáltatási kötelezettség az (1) bekezdés szerinti engedélyesek által nyújtott valamennyi szolgáltatásra kiterjed az Szt. 20/C. § (2) bekezdésében és a Gyvt. 139. § (3) bekezdésében foglaltak kivételével.
+
+(3a)[^14] Ha a családi bölcsődére, munkahelyi bölcsődére az (1)–(3) bekezdés alapján nem terjed ki az adatszolgáltatási kötelezettség, de olyan gyermeket lát el, akinek törvényes képviselője a Kincstár feladatellátásába tartozó egyes továbbadott támogatási programok keretében a kisgyermeket nevelők munkaerő-piaci visszatérésének támogatására irányuló továbbadott térítésidíj-támogatásban részesül, e gyermekre adatot kell szolgáltatni az igénybevevői nyilvántartásba.
+
+(4)[^15] Az adatszolgáltatás az igénybevevők Szt., illetve Gyvt. szerinti adatainak a 4–6. § szerinti rögzítéséből, a 7. § szerinti időszakos jelentésből és a szolgáltatás tartalmával kapcsolatos, 7/A. § szerinti adatszolgáltatásból áll.
+
+### 4. §
+
+(1)[^16] Szociális szolgáltatás és gyermekjóléti alapellátás esetén az e-képviselő vagy az adatszolgáltató munkatárs (a továbbiakban együtt: adatszolgáltatásra jogosult) az Szt.-ben, illetve a Gyvt.-ben meghatározott adatokat az Szt. 94/C. §-a, illetve a Gyvt. 32. § szerinti megállapodás megkötését követően, illetve – ha a megállapodás megkötése nem kötelező – a szolgáltatás első igénybevételét követően, legkésőbb az igénybevétel első napját követő munkanap 24 óráig, óvodai és iskolai szociális segítő tevékenység esetén az igénybevétel első napját követő hónap 15-éig rögzíti az igénybevevői nyilvántartásban.
+
+(2) Ha házi segítségnyújtás esetén a megállapított gondozási szükséglet vagy az ellátott számára nyújtott szolgáltatás tartalmára vonatkozó adat megváltozik, azt az adatszolgáltatásra jogosult a változást követő 8 napon belül rögzíti az igénybevevői nyilvántartásban.
+
+(3)[^17]
+
+(4)[^18]
+
+(5) Ha az igénybevevő Társadalombiztosítási Azonosító Jellel (a továbbiakban: TAJ) nem rendelkezik, illetve a TAJ nem ismert vagy hibás, az igénybevevői nyilvántartás az igénybevevőnek – a TAJ rögzítéséig – technikai kódot képez.
+
+### 5. §
+
+(1) Ha szociális szolgáltatás és gyermekjóléti alapellátás esetén az igénybevevőnek nyújtott szolgáltatás formája, a szolgáltatás igénybevételének kezdő időpontja vagy a szolgáltatás megszűnésének várható időpontja megváltozik, azt az adatszolgáltatásra jogosult legkésőbb a módosított feltételek szerinti igénybevétel első napját követő munkanap 24 óráig módosítja.
+
+(2)[^19]
+
+(3)[^20] A szolgáltatás igénybevételének kezdő időpontja visszamenőlegesen csak későbbi időpontra módosítható. Az (1) bekezdés szerinti egyéb adatok visszamenőlegesen nem módosíthatók.
+
+(4)[^21] Ha az igénybevevői nyilvántartásban rögzített adat – a TAJ, az (1) bekezdés szerinti adatok és az időszakos jelentés kivételével – megváltozik, azt az adatszolgáltatásra jogosult a tudomásszerzést követő munkanap 24 óráig módosítja.
+
+### 6. §
+
+(1)[^22] Ha a szolgáltatás igénybevétele megszűnik, azt az adatszolgáltatásra jogosult a megszűnést követő munkanap 24 óráig, óvodai és iskolai szociális segítő tevékenység esetén a megszűnést követő hónap 15-éig rögzíti.
+
+(2)[^23] Ha az Szt. szerinti áthelyezés miatt az igénybevevő számára szolgáltatást nyújtó engedélyes megváltozik,
+
+a) a korábbi engedélyes az áthelyezést megelőző nappal az (1) bekezdésben foglaltak szerint rögzíti az igénybevétel megszűnését,
+
+b) az új engedélyes az áthelyezés napjával a 4. §-ban foglaltak szerint rögzíti az igénybevevő Szt. szerinti adatait.
+
+(3) A (2) bekezdés alkalmazása során
+
+a) az áthelyezés időpontjának az Szt. 94/C. §-a szerinti megállapodás módosításában meghatározott időpontot,
+
+b)[^24]
+
+kell tekinteni.
+
+(4)[^25] A (2) bekezdésben foglaltakat kell megfelelően alkalmazni akkor is, ha az igénybevevő az igénybevétel megszűnésének napjától ugyanazt a szolgáltatást vagy másik bentlakásos szociális intézményi ellátást másik engedélyestől veszi igénybe.
+
+### 7. §
+
+(1)[^26] Az időszakos jelentés keretében az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban nyilatkozik arról, hogy a 4. § szerint rögzített személy a szolgáltatást – ide nem értve az óvodai és iskolai szociális segítő tevékenységet – az adott napon igénybe vette-e, vagy – ha az az állami támogatás alapja – a 4. § szerint rögzített személlyel az adott napon fennállt-e a szolgáltatásra irányuló jogviszony.
+
+(2) Az időszakos jelentési kötelezettséget
+
+a) szociális étkeztetés,
+
+b) házi segítségnyújtás,
+
+c) támogató szolgáltatás,
+
+d) időskorúak nappali ellátása,
+
+e) fogyatékos személyek nappali ellátása,
+
+f) hajléktalan személyek nappali ellátása,
+
+g)[^27] éjjeli menedékhely,
+
+h)[^28] bölcsődei ellátás és
+
+i)[^29] fejlesztő foglalkoztatás
+
+j)–k)[^30]
+
+esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
+
+(3)[^31] Az időszakos jelentési kötelezettséget
+
+a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
+
+b) a (2) bekezdésben és az a) pontban nem említett, adatszolgáltatási kötelezettséggel érintett szolgáltatások esetén legalább havonta, az adott hónap minden napjára,
+
+az adott hónap utolsó napját követő harmadik munkanap 24 óráig kell teljesíteni.
+
+(4) Ha az igénybevevő nem rendelkezik TAJ-jal, és a TAJ igénylésére jogosult
+
+a) szociális szolgáltatás és gyermekjóléti alapellátás esetén a TAJ-t hatvan napon belül nem szerzi be,
+
+b)[^32]
+
+az érintett a határidő lejártát követő naptól az időszakos jelentésben nem tüntethető fel igénybevevőként.
+
+(5) A (4) bekezdésben foglaltak nem alkalmazhatók nappali melegedő, éjjeli menedékhely, valamint családsegítés és gyermekjóléti szolgáltatás esetén, továbbá arra az igénybevevőre, aki TAJ igénylésére nem köteles.
+
+(6)[^33]
+
+(7) Az időszakos jelentésben az igénybevételről szolgáltatott adat egyszer, az időszakos jelentés szerinti igénybevétel hónapját követő hónap tizenötödik napjáig módosítható (a továbbiakban: önellenőrzés). Az önellenőrzés során meg kell jelölni
+
+a) az igénybevételi napot,
+
+b) a hibás adatot,
+
+c) a helyes adatot és
+
+d) a hiba okát.
+
+### 7/A. §[^34]
+
+(1) A nyújtott óvodai és iskolai szociális segítő tevékenység tartalmával kapcsolatos adatszolgáltatást a következő hónap 15-éig kell teljesíteni.
+
+(2) A szociális diagnózis tartalmával kapcsolatos adatszolgáltatást a szociális diagnózis adatainak felvételétől számított 15 munkanapon belül kell teljesíteni.
+
+### 8. §
+
+(1) A rögzített adat a rögzítést követő egy éven belül az 5. §-ban és a 7. § (7) bekezdésében meghatározottakon túl is törölhető.
+
+(2) Az adatszolgáltatásnak az 5. §-ban, a 7. § (7) bekezdésében és az (1) bekezdésben meghatározottakon túli pótlására vagy módosítására akkor van lehetőség, ha
+
+a)[^35] az e-képviselő vagy az adatszolgáltató munkatárs számára az igénybevevői nyilvántartás – a Központ informatikai rendszerében, az elektronikus hírközlési szolgáltatónál vagy az e-képviselő, illetve az adatszolgáltató munkatárs informatikai eszközében fellépő üzemzavar miatt – az adatszolgáltatási határidőn belül nem volt elérhető, vagy
+
+b)[^36] a határidőn belül történő adatszolgáltatásra a működést engedélyező szerv késedelmes adatrögzítése vagy a Központ informatikai rendszerének hibája miatt nem volt lehetőség.
+
+(3)[^37] A (2) bekezdés szerinti adatszolgáltatást a Központ engedélyezi és rögzíti.
+
+(4) Ha az üzemzavar az elektronikus hírközlési szolgáltatónál lépett fel, az engedély iránti kérelemhez mellékelni kell az elektronikus hírközlési szolgáltató igazolását az üzemzavar fennállásáról.
+
+(5) Ha az üzemzavar az e-képviselő vagy az adatszolgáltató munkatárs informatikai eszközében lépett fel, az engedély iránti kérelemhez mellékelni kell az üzemzavart elhárító személy igazolását az üzemzavar fennállásáról, vagy informatikai eszköz vásárlása esetén a bizonylat másolatát.
+
+### 8/A. §[^38]
+
+(1)[^39] A gyermekjóléti szolgáltatásnak a Gyermekeink védelmében elnevezésű informatikai rendszerbe (a továbbiakban: GYVR) rögzítendő szolgáltatásai, a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátások esetén – a 4–8. §-ban foglaltaktól eltérően – a Gyvt. szerinti adatok rögzítése és az időszakos jelentés úgy történik, hogy a GYVR a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló kormányrendeletben (a továbbiakban: Ar.) foglaltak szerint elektronikus úton, napi rendszerességgel adatot szolgáltat az igénybevevői nyilvántartás részére.
+
+(2)[^40] Az (1) bekezdésben foglaltak érdekében
+
+a) gyermekjóléti szolgáltatás esetén az egyszemélyes szolgálat családsegítőjét, a család- és gyermekjóléti szolgálat vezetőjét, illetve a család- és gyermekjóléti központ vezetőjét, esetmenedzserét és asszisztensét,
+
+b) gyermekek átmeneti gondozása esetén az intézményvezetőt,
+
+c) gyermekvédelmi szakellátások esetén az Ar. szerinti gondozási hely vezetőjét
+
+adatszolgáltató munkatársnak kell kijelölni. Az igénybevevői nyilvántartásban szereplő adatok helyességének figyelemmel kísérése érdekében további adatszolgáltató munkatársak is kijelölhetők.
+
+(3)[^41] Az (1) bekezdés szerinti szolgáltatások esetén az e-képviselő és az adatszolgáltató munkatárs az igénybevevői nyilvántartásban közvetlenül nem rögzíthet vagy törölhet adatot, de folyamatosan figyelemmel kíséri a GYVR-ből az igénybevevői nyilvántartásba átkerülő adatok helyességét.
+
+(4) Ha az e-képviselő vagy az adatszolgáltató munkatárs az igénybevevői nyilvántartásban hibás vagy hiányos adatot észlel, az adatot az Ar.-ban foglaltak szerint a GYVR-ben kijavítja, vagy – ha az adat kijavítására nem jogosult – haladéktalanul értesíti az adat GYVR-ben történő kijavítására jogosultat és a Központot.
+
+### 9. §
+
+(1)[^42] A Központ az igénybevevői nyilvántartásban rögzített
+
+a)[^43] természetes személyazonosító és lakcímadatokat a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
+
+b)[^44] TAJ-t a Nemzeti Egészségbiztosítási Alapkezelő által vezetett nyilvántartásból
+
+c)[^45] köznevelési intézmény azonosító adatait a köznevelés információs rendszeréből
+
+történő elektronikus adatigénylés útján ellenőrzi, illetve – ha az adat nem vagy hibásan áll a Központ rendelkezésére – kéri meg.
+
+(2)[^46] Ha a működést engedélyező szerv vagy a Magyar Államkincstár területi szerve az igénybevevői nyilvántartásban olyan adatot észlel, amely a szolgáltatói nyilvántartásban foglaltakkal vagy a hatósági ellenőrzés megállapításaival ellentétes, soron kívül értesíti a Központot. Ha az adatok hatósági ellenőrzés során váltak ismertté, az értesítéshez mellékelni kell az ellenőrzésről készített jegyzőkönyv és az ellenőrzés eredményeképpen hozott határozat másolatát.
+
+(3)[^47]
+
+(4)[^48] A Központ a hibás adatot a tudomására jutástól számított nyolc munkanapon belül kijavítja vagy törli, és egyidejűleg a nyilvántartások informatikai rendszerén keresztül tájékoztatja erről az adatszolgáltatásra jogosultat. A javítás nem terjedhet ki az időszakos jelentésben igénybevevőként fel nem tüntetett személy igénybevevőként történő feltüntetésére.
+
+(5)[^49] Ha a Központ megállapítja, hogy az időszakos jelentésben foglaltak nem felelnek meg a valóságnak, a jogosulatlan adatrögzítést erre vonatkozó megjegyzéssel látja el, és erről a nyilvántartások informatikai rendszerén keresztül értesíti az adatszolgáltatásra jogosultakat.
+
+### 10. §
+
+(1)[^50] A Központ folyamatosan ellenőrzi, hogy az igénybevevő adott napon nem kerül-e egyidejűleg több olyan engedélyessel vagy szolgáltatással kapcsolatos napi jelentésben is feltüntetésre, amelyek esetében az állami támogatás szempontjából történő figyelembevételt jogszabály kizárja.
+
+(2)[^51] Ha a Központ megállapítja az (1) bekezdés szerinti adatrögzítést, az igénybevevői nyilvántartás rendszerén keresztül felhívja az érintett adatszolgáltatásra jogosultakat az időszakos jelentés adatainak módosítására, szükség esetén a szolgáltatás megszüntetésére.
+
+(3)[^52] Ha az adatszolgáltatásra jogosultak önellenőrzéssel, valamint szükség esetén a szolgáltatás megszüntetésével az (1) bekezdés szerinti adatrögzítést a felhívást követő három munkanapon belül nem szüntetik meg, a Központ az állami támogatás szempontjából figyelembe nem vehető időszakos jelentést erre vonatkozó megjegyzéssel látja el, és erről értesíti a Magyar Államkincstár illetékes területi szervét, valamint az igénybevevői nyilvántartás rendszerén keresztül az adatszolgáltatásra jogosultakat.
+
+### 11. §
+
+(1)[^53] A Központ az igénybevevői nyilvántartás adataiból készített összesítéseket és kimutatásokat – egyedi azonosításra alkalmatlan módon – a Szociális Ágazati Portálon bárki számára hozzáférhetővé teheti.
+
+(2)[^54] A Központ az igénybevevői nyilvántartás adatait egyedi azonosításra alkalmatlan módon statisztikai célra átadja a Központi Statisztikai Hivatalnak.
+
+(3)[^55] Ha az engedélyest törlik a szolgáltatói nyilvántartásból, az igénybevevői nyilvántartás adatait a Központ haladéktalanul történeti állományba helyezi, és az Szt.-ben, illetve a Gyvt.-ben meghatározott időpontban törli.
+
+## 3. Az országos jelentési rendszer
+
+### 12. §
+
+(1)[^56] Az országos jelentési rendszerbe
+
+a) óvodai és iskolai szociális segítő tevékenység esetén a jelentési időszakot követő hónap 15-éig,
+
+b) bölcsődei ellátás esetén évente kétszer, április 30-áig és szeptember 30-áig,
+
+c)[^57] az 1. melléklet 2.4. pontja szerinti adatok esetén havonta, a jelentési időpontot követő öt napon belül,
+
+d)[^58] az *a)–c)* pontban nem említett esetben évente kétszer, január 31-éig és július 31-éig
+
+be kell jelenteni az 1. melléklet szerinti adatokat.
+
+(2) Az országos jelentési rendszerbe – a megállapítást, illetve a módosítást követő nyolc napon belül – valamennyi, az Szt. vagy a Gyvt. alapján térítésidíj-köteles szolgáltatás esetén be kell jelenteni az intézményi térítési díjat és annak változását, ideértve az engedélyes által nyújtott gyermekétkeztetés intézményi térítési díját is.
+
+(3) A titkos menedékházként működő családok átmeneti otthonának adatait a fenntartó nem jelenti az országos jelentési rendszerbe.
+
+(4)[^59] Az országos jelentési rendszerbe bölcsődei ellátás esetén
+
+a) minden év március 15-éig be kell jelenteni a nyári zárva tartás várható idejét, és
+
+b)[^60] az elrendelés időpontját követő munkanap 24 óráig be kell jelenteni a Gyvt. 42/B. §-a szerinti zárva tartást, továbbá ha a rendkívüli zárva tartásra hatósági intézkedés miatt van szükség, a hatósági határozat iktatószámát, a hatósági határozatban elrendelt hatósági intézkedés típusát, időtartamát, az intézkedéssel érintett ellátotti létszámot, valamint a bölcsődei ellátás nyújtásában beállt egyéb változásokat.
+
+### 13. §
+
+(1)[^61] Ha a fenntartó vagy az engedélyes az országos jelentési rendszerben hibás vagy hiányos adatot észlel, köteles arról soron kívül – a jelentéssel megegyező módon – értesíteni a Központot.
+
+(2)[^62] Ha a működést engedélyező szerv vagy a Magyar Államkincstár területi szerve az országos jelentési rendszerben olyan adatot észlel, amely a szolgáltatói nyilvántartásban foglaltakkal vagy a hatósági ellenőrzés megállapításaival ellentétes, soron kívül értesíti a Központot. Ha az adatok hatósági ellenőrzés során váltak ismertté, az értesítéshez mellékelni kell az ellenőrzésről készített jegyzőkönyv, illetve az ellenőrzés eredményeképpen hozott határozat másolatát.
+
+(3)[^63] A Központ a hibás vagy hiányos adatot a tudomására jutástól számított nyolc munkanapon belül kijavítja, kiegészíti, illetve törli, és egyidejűleg a nyilvántartások informatikai rendszerén keresztül tájékoztatja erről az adatszolgáltatásra jogosultat.
+
+### 14. §
+
+(1) Az országos jelentési rendszer adatai a Szociális Ágazati Portálon bárki számára hozzáférhetők.
+
+(2)[^64] A Központ az országos jelentési rendszer adatait egyedi azonosításra alkalmas módon átadja
+
+a) az államháztartásért felelős miniszternek és
+
+b) a Központi Statisztikai Hivatalnak.
+
+(3)[^65] Ha az engedélyest törlik a szolgáltatói nyilvántartásból, az országos jelentési rendszer adatait a Központ haladéktalanul történeti állományba helyezi, és a szolgáltatói nyilvántartás történeti állományába helyezett adatok törlésével egyidejűleg törli.
+
+### 15. §[^66]
+
+Az Szt. 92/L. § (3) bekezdése alapján kiszabott szociális igazgatási bírságra a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 43. §-ában foglaltakat kell alkalmazni azzal, hogy ahol az működést engedélyező szervet említ, azon a Központot kell érteni.
+
+## 4. Adatszolgáltatás az egyes szolgáltatásokra várakozó személyekről
+
+### 16. §
+
+(1)[^67]
+
+(2)[^68] Az egyes szolgáltatásokra várakozó személyek számának az Szt. 20. § (2a) bekezdése szerinti összesítéseit a Központ megküldi a szociálpolitikáért felelős miniszternek.
+
+## 5. Záró rendelkezések
+
+### 17. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.
+
+### 18. §
+
+(1) A 2015. december 31-én házi segítségnyújtásban részesülő személyek esetén a 2016. január 1-jén hatályos rendelkezések szerint megállapított gondozási szükségletre és az ellátott számára nyújtott szolgáltatás tartalmára vonatkozó adatokat az adatszolgáltatásra jogosult 2016. január 15-éig rögzíti az igénybevevői nyilvántartásban.
+
+(2) 2016. január 1-je és 2016. április 30-a között a fenntartó nem köteles teljesíteni időszakos jelentési kötelezettségét családsegítés és gyermekjóléti szolgáltatás után.
+
+(3) A 12. § (1) bekezdés b) pontjában foglaltaktól eltérően a fenntartónak 2016. évben először 2016. április 30-áig kell jelentenie az országos jelentési rendszerbe.
+
+(4)[^69] Biztos Kezdet Gyerekház esetén az igénybevevői nyilvántartásba 2017. december 31-ét követően kell adatot szolgáltatni.
+
+(5)[^70] Tanoda esetén a szolgáltatói nyilvántartásba való bejegyzés véglegessé válását követő 30. naptól kell adatot szolgáltatni az igénybevevői nyilvántartásba.
+
+### 19. §[^71]
+
+(1) Az 1. melléklet 1.11. és 2.5. pontja szerinti adatokat első alkalommal valamennyi szolgáltatás esetén 2021. január 31-éig, 2020. december 31-ei jelentési időpontra kell bejelenteni.
+
+(2) Bölcsődei ellátás esetén az 1. melléklet 2.5. pontja szerinti adatokat 2021. április 1-jei jelentési időpontra nem kell bejelenteni.
+
+### 20. §[^72]
+
+Gyermekjóléti szolgáltatás és gyermekek átmeneti gondozása esetén
+
+a) 2021. június 30-áig az egyes kormányrendeleteknek a Gyermekeink védelmében elnevezésű informatikai rendszer továbbfejlesztésével összefüggő módosításáról szóló 205/2021. (IV. 29.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^73] megelőző napon hatályos rendelkezések szerint,
+
+b) 2021. július 1-jétől a Módr.-rel megállapított 8/A. §-ban foglalt rendelkezések szerint
+
+kell adatot szolgáltatni az igénybevevői nyilvántartásba.
+
+### 21. §[^74]
+
+E rendeletnek az egyes gyermekvédelmi, szociális és fogyatékosságügyi tárgyú kormányrendeletek módosításáról szóló 179/2025. (VI. 30.) Korm. rendelettel módosított 1. melléklete szerinti adatokkal kapcsolatos jelentési kötelezettséget első alkalommal a 2026. január 1-je és 2026. június 30-a közötti jelentési időszakra, valamint a 2026. június 30-ai jelentési időpontra vonatkozóan kell teljesíteni.
+
+## 1. melléklet a 415/2015. (XII. 23.) Korm. rendelethez[^75]
+
+**Az országos jelentési rendszerbe bejelentendő adatok**
+
+1\. Szociális szolgáltatások:
+
+1.1. Falugondnoki szolgáltatás és tanyagondnoki szolgáltatás:
+
+1.1.1. a jelentési időszakban a szolgáltatást igénybe vevők száma,
+
+1.1.2. a jelentési időszakban futott kilométer,
+
+1.1.3. a jelentési időpontban használt gépjármű rendszáma, forgalomba helyezésének időpontja és összes futott kilométere.
+
+1.2. Jelzőrendszeres házi segítségnyújtás:
+
+1.2.1. a jelentési időpontban az ellátottak szociális rászorultság szerinti megoszlása,
+
+1.2.2. a jelentési időszakban a riasztások száma.
+
+1.3. Pszichiátriai betegek részére nyújtott közösségi alapellátás, szenvedélybetegek részére nyújtott közösségi alapellátás:
+
+1.3.1. a jelentési időszakban a gondozási órák összes száma,
+
+1.3.2. a jelentési időszakban az egy gondozóra jutó gondozási órák száma.
+
+1.4. Szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás: a jelentési időszakban a szolgáltatást igénybe vevők száma.
+
+1.5. Utcai szociális munka: jelentési időszakban a szolgáltatást igénybe vevők száma.
+
+1.6. Bentlakásos intézményi ellátás:
+
+1.6.1. valamennyi tartós bentlakásos intézményi ellátás esetén a hajléktalanok otthona, a rehabilitációs intézmények és a rehabilitációs célú lakóotthon kivételével
+
+1.6.1.1. a jelentési időpontban a belépési hozzájárulással betölthető és betöltött férőhelyek száma,
+
+1.6.1.2. a jelentési időpontban a belépési hozzájárulás megállapított összege,
+
+1.6.1.3. a jelentési időszakban a belépési hozzájárulásból származó összes bevétel összege,
+
+1.6.2. idősek otthona esetén
+
+1.6.2.1. a jelentési időpontban az emelt szintű férőhelyekre történő bekerüléshez szükséges egyszeri hozzájárulás összege,
+
+1.6.2.2. a jelentési időpontban ellátásban részesülők közül térítési díjpótlékot fizetők száma és a térítési díjpótlék átlagos összege.
+
+1.7. Támogatott lakhatás:
+
+1.7.1. a jelentési időpontban a belépési hozzájárulással betölthető és betöltött férőhelyek száma,
+
+1.7.2. a jelentési időpontban a belépési hozzájárulás megállapított összege,
+
+1.7.3. a jelentési időszakban a belépési hozzájárulásból származó összes bevétel összege.
+
+1.8. Valamennyi szociális szolgáltatás:
+
+1.8.1. a jelentési időpontban az engedélyesnél szakmai munkakörben foglalkoztatottak száma,
+
+1.8.2. a jelentési időpontban az engedélyesnél technikai munkakörben foglalkoztatottak száma,
+
+1.8.3. a jelentési időpontban az engedélyesnél tartósan távollévő foglalkoztatottak száma.
+
+2\. Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységek:
+
+2.1. Családsegítés és gyermekjóléti szolgáltatás:
+
+2.1.1. az óvodai és iskolai szociális segítő tevékenységnek a jelentési időszakban történt igénybevétele feladatellátási helyek szerinti bontásban, valamint egyéni formában történő, első találkozást követően tett intézkedéssel lezárható, csoportos vagy közösségi óvodai és iskolai szociális segítő tevékenység esetén a jelentési időszakban az igénybe vevők száma a tevékenység típusa szerinti bontásban,
+
+2.1.2. óvodai és iskolai szociális segítő tevékenység kivételével a jelentési időszakban az igénybe vevők száma a tevékenység típusa szerinti bontásban.
+
+2.2. Bölcsődei ellátás:
+
+2.2.1. a jelentési időpontban a szabad férőhelyek száma,
+
+2.2.2. az engedélyesnél a sajátos nevelési igényű gyermekek ellátása
+
+biztosított-e.
+
+2.3. Családok átmeneti otthona: a jelentési időpontban a szolgáltatás igénybevételére várakozók száma.
+
+2.4. Nevelőszülői ellátás: a jelentési időpontban nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülők száma.
+
+2.5. Valamennyi gyermekjóléti és gyermekvédelmi szolgáltató tevékenység:
+
+2.5.1. a jelentési időpontban az engedélyesnél szakmai munkakörben foglalkoztatottak száma a nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülők kivételével,
+
+2.5.2. a jelentési időpontban az engedélyesnél technikai munkakörben foglalkoztatottak száma,
+
+2.5.3. a jelentési időpontban az engedélyesnél tartósan távollévő foglalkoztatottak száma.
+
+3\. Kiegészítő szabályok:
+
+3.1. Jelentési időpont:
+
+3.1.1. bölcsődei ellátás esetén április 1-je és szeptember 1-je,
+
+3.1.2. a 2.4. pont szerinti adatok esetén minden hónap utolsó napja,
+
+3.1.3. a 3.1.1. és 3.1.2. pontban nem említett esetben december 31-e és június 30-a.
+
+3.2. Jelentési időszak:
+
+3.2.1. óvodai és iskolai szociális segítő tevékenység esetén minden naptári hónap,
+
+3.2.2. a 3.2.1. pontban nem említett esetben a január 1-je és június 30-a, valamint a július 1-je és december 31-e közötti időszak.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 311/2017. (X. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését a 311/2017. (X. 31.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 20. §-a, a 205/2021. (IV. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 27. § a) pontja, a 408/2024. (XII. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) és c) pontja, a 477/2016. (XII. 27.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés d) pontja, a 408/2024. (XII. 20.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (6) bekezdése a 408/2024. (XII. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (6a) bekezdését a 312/2019. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
+[^9]: A 2. § (7) bekezdése a 408/2024. (XII. 20.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^10]: A 2. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 59. §-a iktatta be, szövege a 226/2018. (XII. 4.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § (3a) bekezdését a 322/2018. (XII. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 202/2024. (VII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^15]: A 3. § (4) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^16]: A 4. § (1) bekezdése a 226/2018. (XII. 4.) Korm. rendelet 19. § b) pontja, a 312/2019. (XII. 18.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdését a 447/2020. (X. 1.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^18]: A 4. § (5) bekezdését a 447/2020. (X. 1.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^19]: Az 5. § (2) bekezdését a 447/2020. (X. 1.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^20]: Az 5. § (3) bekezdése a 447/2020. (X. 1.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^21]: Az 5. § (4) bekezdése a 447/2020. (X. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^22]: A 6. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^23]: A 6. § (2) bekezdése a 447/2020. (X. 1.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^24]: Az 5. § (3) bekezdés b) pontját a 447/2020. (X. 1.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^25]: A 6. § (4) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^26]: A 7. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^27]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^29]: A 7. § (2) bekezdés i) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 60. §-a iktatta be.
+[^30]: A 7. § (2) bekezdés j)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^31]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.
+[^32]: A 7. § (4) bekezdés b) pontját a 447/2020. (X. 1.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.
+[^33]: A 7. § (6) bekezdését a 447/2020. (X. 1.) Korm. rendelet 21. § f) pontja hatályon kívül helyezte.
+[^34]: A 7/A. §-t a 312/2019. (XII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^35]: A 8. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 8. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^37]: A 8. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 8/A. §-t a 447/2020. (X. 1.) Korm. rendelet 19. §-a iktatta be.
+[^39]: A 8/A. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^40]: A 8/A. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^41]: A 8/A. § (3) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^42]: A 9. § (1) bekezdés nyitó és záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^43]: A 9. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^44]: A 9. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^45]: A 9. § (1) bekezdés c) pontját a 312/2019. (XII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^46]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés h) és i) pontja, a 311/2017. (X. 31.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^47]: A 9. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 312. § (3) bekezdése hatályon kívül helyezte.
+[^48]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^49]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^50]: A 10. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^51]: A 10. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^52]: A 10. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja, a 311/2017. (X. 31.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^53]: A 11. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^55]: A 11. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 12. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^57]: A 12. § (1) bekezdés c) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^58]: A 12. § (1) bekezdés d) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^59]: A 12. § (4) bekezdését a 612/2020. (XII. 18.) Korm. rendelet 9. §-a iktatta be.
+[^60]: A 12. § (4) bekezdés b) pontja a 195/2022. (V. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^61]: A 13. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^62]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés h) és i) pontja, a 311/2017. (X. 31.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^63]: A 13. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^64]: A 14. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^65]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^66]: A 15. § a 457/2015. (XII. 28.) Korm. rendelet 556. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: A 16. § (1) bekezdését a 312/2019. (XII. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^68]: A 16. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 154. §-a szerint módosított szöveg.
+[^69]: A 18. § (4) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 26. §-a iktatta be.
+[^70]: A 18. § (5) bekezdését a 226/2018. (XII. 4.) Korm. rendelet 18. §-a iktatta be.
+[^71]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 85. § (1) bekezdése iktatta be, szövege a 612/2020. (XII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^72]: A 20. §-t a 205/2021. (IV. 29.) Korm. rendelet 21. §-a iktatta be.
+[^73]: A hatálybalépés időpontja 2021. május 14.
+[^74]: A 21. §-t a 179/2025. (VI. 30.) Korm. rendelet 38. §-a iktatta be.
+[^75]: Az 1. melléklet a 179/2025. (VI. 30.) Korm. rendelet 39. §-ával megállapított szöveg.

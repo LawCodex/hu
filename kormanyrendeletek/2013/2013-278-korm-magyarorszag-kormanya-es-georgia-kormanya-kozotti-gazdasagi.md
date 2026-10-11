@@ -1,0 +1,296 @@
+---
+title: "278/2013. (VII. 24.) Korm. rendelet Magyarország Kormánya és Georgia Kormánya közötti gazdasági együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "278/2013. (VII. 24.) Korm. rendelet"
+njt_id: "2013-278-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/278"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-07-24
+in_force_from: 2013-07-25
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-278-20-22"
+retrieved: 2026-10-12
+---
+
+# 278/2013. (VII. 24.) Korm. rendelet Magyarország Kormánya és Georgia Kormánya közötti gazdasági együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Georgia Kormánya közötti gazdasági együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„MAGYARORSZÁG KORMÁNYA ÉS GEORGIA KORMÁNYA KÖZÖTTI GAZDASÁGI EGYÜTTMŰKÖDÉSRŐL SZÓLÓ MEGÁLLAPODÁS**
+
+Magyarország Kormánya és Georgia Kormánya, a továbbiakban „Felek”,
+
+attól az óhajtól vezérelve, hogy erősítsék az országaik között fennálló baráti kapcsolatokat;
+
+attól a szándéktól vezérelve, hogy fejlesszék és intenzívebbé tegyék a kölcsönös előnyökön nyugvó gazdasági, ipari, tudományos és műszaki együttműködést;
+
+abban a meggyőződésben, hogy a jogi (szerződéses) keretek bővítése kedvező feltételeket és megfelelő alapot teremt a további együttműködéshez,
+
+az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+A Felek előmozdítják a kölcsönösen előnyös gazdasági együttműködés bővítését és diverzifikálását a Felek államaiban hatályos jogszabályokkal és azon nemzetközi szerződésekkel összhangban, amelyekben a Felek államai részesek.
+
+**2. cikk**
+
+Figyelembe véve a gazdasági kapcsolataik jelenlegi helyzetét és azok fejlesztésének perspektíváit, a Felek egyetértenek abban, hogy a hosszú távú együttműködés feltételei többek között, de nem kizárólag, a következő területeken kedvezőek:
+
+*a)* energetikai szektor;
+
+*b)* mezőgazdaság, élelmiszer- és feldolgozóipar;
+
+*c)* építőipar, valamint építőanyag- és berendezésgyártás;
+
+*d)* településfejlesztés;
+
+*e)* közlekedés és kapcsolódó infrastruktúra, logisztika;
+
+*f)* bányászat;
+
+*g)* vegyipar;
+
+*h)* textilipar;
+
+*i)* környezetvédelem, víz- és hulladékgazdálkodás;
+
+*j)* oktatás;
+
+*k)* egészségügyi szolgáltatások nyújtása, gyógyászati technológiák és a gyógyszeripar;
+
+*l)* turizmus és sport;
+
+*m)* együttműködés a kis- és középvállalkozási szektor terén;
+
+*n)* infokommunikációs technológia;
+
+*o)* közmű infrastruktúra;
+
+*p)* kutatás-fejlesztés;
+
+*q)* kultúra.
+
+**3. cikk**
+
+A Felek arra törekednek, hogy együttműködésüket bővítsék és intenzívebbé tegyék a megfelelő eszközökkel, úgymint:
+
+*a)* az illetékes kormányzati szervek, szakmai szövetségek, kereskedelmi és iparkamarák, valamint regionális szervek képviselőinek kölcsönös látogatásai;
+
+*b)* a két ország üzleti körei közötti kapcsolatok létrejöttének és javításának elősegítése, vállalkozók látogatásainak és találkozóinak támogatása;
+
+*c)* vásárok és kiállítások megtartásának, valamint szemináriumok, szimpóziumok, konferenciák és egyéb találkozók megszervezésének támogatása;
+
+*d)* a kis- és közepes vállalkozások ösztönzése a kétoldalú gazdasági kapcsolatokban történő részvételre;
+
+*e)* az együttműködés elősegítése a konzultációs, marketing célú és szakértői szolgáltatások nyújtása terén;
+
+*f)* a pénzügyi intézmények és a bankszektor ösztönzése szorosabb kapcsolatok létesítésére, illetve az együttműködésük megerősítésére;
+
+*g)* a Felek országaiban a beruházási tevékenység ösztönzése, vegyesvállalatok, vállalati képviseletek és fiókirodák létrehozásának elősegítése;
+
+*h)* együttműködési lehetőségek áttekintése az ipari parkok terén, különös tekintettel a szabályozási környezettel kapcsolatos tapasztalatcserére és a betelepülő vállalkozások versenyképességének fokozására;
+
+*i)* a régióközi és a nemzetközi szintű együttműködés előmozdítása a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**4. cikk**
+
+Jelen Megállapodás megvalósítása céljából a Felek létrehozzák a Magyar-Georgiai Gazdasági Együttműködési Kormányközi Bizottságot (a továbbiakban: a „Bizottság”), amely a Felek illetékes állami szerveinek képviselőiből áll. A Bizottság üléseire a Szerződő Felek egyeztetései alapján, Magyarországon és Georgiában felváltva kerül sor.
+
+A Bizottság feladatai a következők:
+
+*a)* a kétoldalú gazdasági kapcsolatok fejlesztésének megvitatása,
+
+*b)* új lehetőségek meghatározása a gazdasági együttműködés továbbfejlesztésére,
+
+*c)* javaslatok kidolgozása a két ország vállalatai közötti gazdasági együttműködés feltételeinek javítására,
+
+*d)* a kétoldalú gazdasági együttműködés helyzetének elemzése és értékelése,
+
+*e)* javaslatok kidolgozása a jelen Megállapodás végrehajtása tekintetében.
+
+Amennyiben szükséges, a Bizottság az együttműködés meghatározott területeivel foglalkozó munkacsoportokat hoz létre.
+
+A Bizottság munkarendje annak első ülésén kerül meghatározásra. A Felek államaik hatályos jogszabályaival összhangban a Bizottság tevékenységével kapcsolatos költségeket önállóan viselik.
+
+**5. cikk**
+
+Jelen Megállapodás nem befolyásolhatja Magyarország Európai Uniós tagságából fakadó kötelezettségeit. Ennek megfelelően a Megállapodás rendelkezései sem együttesen, sem önmagukban nem alkalmazhatók, illetve értelmezhetők olyan módon, mint amelyek érvénytelenítik, módosítják vagy bármely más módon befolyásolják Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió jogából származó kötelezettségeit.
+
+Jelen Megállapodás rendelkezései nem érintik a Felek nemzetközi szerződésekben való részvételéből, valamint nemzetközi szervezetekben való tagságából eredő jogait és kötelezettségeit.
+
+**6. cikk**
+
+A jelen Megállapodáshoz a Felek kölcsönös egyetértésével lehet módosításokat és kiegészítéseket tenni, melyek külön dokumentumban kerülnek rögzítésre és a 8. cikkben foglaltak szerint lépnek hatályba. Az így keletkezett dokumentum a jelen Megállapodás elválaszthatatlan részét képezi.
+
+**7. cikk**
+
+A jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatban felmerülő vitákat a Felek tárgyalás útján rendezik.
+
+**8. cikk**
+
+Jelen Megállapodás a Felek saját belső jogrendje szerint a Megállapodás hatálybalépéséhez szükséges eljárási követelmények teljesítéséről szóló, diplomáciai úton eljuttatott utolsó írásbeli értesítés kézhezvételét követő harmincadik napon lép hatályba.
+
+Jelen Megállapodás határozatlan időre szól. A jelen Megállapodást bármelyik Fél felmondhatja, e szándékáról a másik Felet írásban értesíti. Ebben az esetben a jelen Megállapodás a felmondásról szóló értesítés átvételétől számított hat hónap elteltével szűnik meg.
+
+Kelt Budapesten, 2013. május 14. napján két példányban, magyar, georgiai és angol nyelven, mindegyik szöveg egyaránt hiteles. A jelen Megállapodás rendelkezéseinek eltérő értelmezése esetén a Felek az angol változatot tekintik irányadónak.
+
+MAGYARORSZÁG KORMÁNYA\
+RÉSZÉRŐL
+
+GEORGIA KORMÁNYA\
+RÉSZÉRŐL
+
+AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF GEORGIA\
+ON ECONOMIC CO-OPERATION
+
+The Government of Hungary and the Government of Georgia, hereinafter referred to as „the Parties”,
+
+desiring to promote the existing friendship between their countries;
+
+intending to develop and intensify their economic, industrial, scientific and technological cooperation on the basis of mutual benefit;
+
+convinced that the deepening of the legal (contractual) framework establishes favourable conditions and suitable basis for further cooperation,
+
+have agreed as follows:
+
+**Article 1**
+
+The Parties shall promote the expansion and diversification of mutually advantageous economic cooperation in accordance with the Parties' respective national legislation in force and the provisions of those international treaties in which the states of the Parties participate.
+
+**Article 2**
+
+Considering the current state and perspectives of developing their economic relations, the Parties agree that favourable conditions for long-term cooperation exist, inter alia, but not exclusively, in the following areas:
+
+*a)* energy sector;
+
+*b)* agriculture, food and processing industry;
+
+*c)* construction industry and manufacturing of building materials and equipment;
+
+*d)* urban development;
+
+*e)* transport and related infrastructure, logistics;
+
+*f)* mining;
+
+*g)* chemical industry;
+
+*h)* textile industry;
+
+*i)* environmental protection, water and waste management;
+
+*j)* education;
+
+*k)* health services, medical technologies and pharmaceutical industry;
+
+*l)* tourism and sport;
+
+*m)* cooperation in the small and medium-sized enterprise sector;
+
+*n)* info communication technology;
+
+*o)* communal infrastructure;
+
+*p)* research and development;
+
+*q)* culture.
+
+**Article 3**
+
+The Parties shall endeavour to broaden and intensify their cooperation through appropriate means, such as:
+
+*a)* mutual visits of representatives of competent government institutions, professional associations, chambers of commerce and industry, as well as regional bodies;
+
+*b)* promoting the establishment and strengthening of contacts between the business communities of the two countries, encouraging the visits and meetings of entrepreneurs;
+
+*c)* encouraging the organisation of fairs and exhibitions, as well as seminars, symposia, conferences and other meetings;
+
+*d)* encouraging small and medium-sized enterprises to participate in bilateral economic relations;
+
+*e)* promoting cooperation in the area of providing consulting, marketing, and expert services;
+
+*f)* encouraging the financial institutions and the banking sector to establish closer contacts and strengthen their cooperation;
+
+*g)* encouraging investment activities in the countries of both Parties, as well as the foundation of joint ventures, establishment of company representations and branch offices;
+
+*h)* discussing cooperation opportunities in the field of industrial parks, with special focus on exchanging experiences in the regulatory environment and enhancing competitiveness of settled enterprises;
+
+*i)* promoting of interregional cooperation and international cooperation in issues of mutual interest.
+
+**Article 4**
+
+For the purpose of the implementation of this Agreement, the Parties shall establish a Hungarian-Georgian Intergovernmental Commission on Economic Cooperation (hereinafter referred to as “Commission”), comprising the representatives of the competent national bodies of the Parties. The Commission shall meet alternately in Hungary and Georgia, as agreed by the Parties.
+
+The duties of the Commission shall be the following:
+
+*a)* discussing the development of bilateral economic relations;
+
+*b)* identifying new possibilities for the further development of economic cooperation;
+
+*c)* drawing up suggestions for improving the terms of economic cooperation between enterprises of both countries;
+
+*d)* examining and evaluating the actual state of the bilateral economic cooperation;
+
+*e)* drawing up proposals for the application of the present Agreement.
+
+If necessary, the Commission will establish working groups dealing with certain areas of the cooperation.
+
+The rules of procedure of the Commission shall be defined at its first meeting. In accordance with their respective national legislations, the Parties shall bear the expenses related to the activity of the Commission independently.
+
+**Article 5**
+
+This Agreement shall in no way affect the obligations of Hungary as a member state of the European Union. Consequently, the provisions of this Agreement shall not be applied or interpreted neither in whole, nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from, in particular, the Treaties which the European Union is based on, as well as from the law of the European Union.
+
+The present Agreement shall in no way affect the rights and obligations of the Parties arising from either its participation in international treaties, or its membership in international organizations.
+
+**Article 6**
+
+Changes and additions maybe introduced to the Agreement upon mutual consent of the Parties, which shall be formed as a separate document and enter into force in accordance with the Article 8 of the present Agreement. The document formed thereby, shall constitute an integral part of this Agreement.
+
+**Article 7**
+
+Disputes concerning the application or interpretation of the present Agreement shall be settled by negotiations between the Parties.
+
+**Article 8**
+
+The present Agreement shall enter into force on the thirtieth day following the receipt of the last notification, delivered through diplomatic channels, by which the Parties notify each other of the fulfillment of all internal legal procedures for the entry into force of this Agreement.
+
+The present Agreement shall be valid for an indefinite period of time. Either Party may terminate the Agreement by giving written notice to the other Party. If such notice is given, the Agreement shall be terminated six months following the receipt of the notice.
+
+Done and signed at Budapest, on 14 of May 2013, in two originals for each party, in Hungarian, Georgian and English languages, all of which being authentic. In case of different interpretations, the English version shall prevail.
+
+FOR THE\
+GOVERNMENT OF HUNGARY
+
+FOR THE\
+GOVERNMENT OF GEORGIA”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 8. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikk első bekezdésében meghatározott időpontban lép hatályba. A 36/2013. (VIII. 30.) KÜM közlemény alapján a hatálybalépés időpontja 2013. augusztus 31.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikk első bekezdésében meghatározott időpontban lép hatályba. A 36/2013. (VIII. 30.) KÜM közlemény alapján a hatálybalépés időpontja 2013. augusztus 31.
+[^3]: A 36/2013. (VIII. 30.) KÜM közlemény alapján a hatálybalépés időpontja 2013. augusztus 31.
+[^4]: Lásd a 36/2013. (VIII. 30.) KÜM közleményt.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 742. §-a szerint módosított szöveg.

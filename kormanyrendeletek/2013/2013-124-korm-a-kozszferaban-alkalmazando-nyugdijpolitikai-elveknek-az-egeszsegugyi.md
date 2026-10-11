@@ -1,0 +1,299 @@
+---
+title: "124/2013. (IV. 26.) Korm. rendelet a közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról"
+identifier: "124/2013. (IV. 26.) Korm. rendelet"
+njt_id: "2013-124-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/124"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-04-26
+in_force_from: 2013-04-29
+last_amended: 2025-10-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-124-20-22"
+retrieved: 2026-10-12
+---
+
+# 124/2013. (IV. 26.) Korm. rendelet a közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról
+
+A Kormány az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 28. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében megállapított feladatkörében eljárva a következő rendeletet alkotja:
+
+## 1. §
+
+(1) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 16/D. § (1) bekezdése szerinti támogatást az Eütev. 16/A. § c) pontja szerinti munkáltató (a továbbiakban: munkáltató) a – (2) bekezdésben meghatározottak alapján – jövedelemkiegészítésre jogosult egészségügyi dolgozójára tekintettel igényelhet.
+
+(2) Az (1) bekezdés szerinti igénylés feltétele
+
+a)[^1] az egészségügyért felelős miniszter (a továbbiakban: miniszter), a honvédelemért felelős miniszter, valamint a rendészetért felelős miniszter irányítása vagy felügyelete alá tartozó egészségügyi szolgáltatóval egészségügyi szolgálati, honvédelmi alkalmazotti vagy kormányzati szolgálati jogviszonyban álló, az öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati idővel rendelkező, az Eütev. 16/A. § a) pontja szerinti pénzellátásban (a továbbiakban: pénzellátás) részesülő egészségügyi dolgozó esetében az, hogy foglalkoztatása tárgyában rendelkezésre áll a Kormány véleménye;
+
+b) az *a)* pont hatálya alá nem tartozó, pénzellátásban részesülő egészségügyi dolgozó esetében az, hogy a miniszter az egészségügyi dolgozó jövedelemkiegészítésre való jogosultságát jóváhagyta.
+
+(3)[^2] Az egészségügyi dolgozónak a jövedelemkiegészítésre irányuló, az 1. melléklet szerinti tartalmú kérelmét, valamint a személyes adatai kezeléséhez történő hozzájáruló nyilatkozatát – egyetértése esetén – a (2) bekezdés a) és b) pontja szerinti jogcímenkénti bontásban a munkáltató továbbítja a miniszter részére.
+
+(4)[^3] A miniszter a (2) bekezdés b) pontja szerinti kérelmek esetén megvizsgálja a jogszabályban foglalt feltételek teljesülését, és az egészségügyi humánerőforrás területi, illetve szakma szerinti megoszlásának figyelembevételével dönt a kérelemről.
+
+(5) A (2) bekezdés b) pontja szerinti esetben a miniszter jóváhagyásának feltétele, hogy a kérelemmel érintett egészségügyi dolgozónak az adott munkáltatónál történő további egészségügyi tevékenységvégzését a munkáltató különösen fontos érdeke vagy költségvetési szerv alaptevékenysége indokolja.
+
+(6) Az (5) bekezdésben foglaltakon túlmenően a honvédelemért, valamint a rendészetért felelős miniszter irányítása vagy felügyelete alá tartozó egészségügyi szolgáltató esetén a miniszter (2) bekezdés b) pontja szerinti jóváhagyásának feltétele az érintett miniszterek támogató véleménye. Az érintett miniszterek a véleményüket az (5) bekezdésben foglalt szempontokra tekintettel alakítják ki.
+
+(7)[^4] Az egészségügyi dolgozó jövedelemkiegészítésre való jogosultságát megszünteti a jövedelemkiegészítés megállapításának alapjául szolgáló egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati jogviszony megszűnése.
+
+## 2. §
+
+(1)[^5] Az e rendeletben foglalt támogatás fedezetéül – a 7. §-ban foglaltak kivételével – az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti Célelőirányzatok jogcímen belül Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése előirányzat szolgál.
+
+(2)[^6] A támogatás igénybe vétele érdekében a munkáltató az általa foglalkoztatott, jövedelemkiegészítésre jogosult egészségügyi dolgozók nevét, Társadalombiztosítási Azonosító Jelét és nyugdíjfolyósítási törzsszámát összesítve megküldi a miniszter részére.
+
+(3)[^7] Az egészségügyi szolgálati, honvédelmi alkalmazotti,, kormányzati szolgálati jogviszony fennállása miatt történő szüneteltetésre tekintettel az egészségügyi dolgozót egyébként megillető pénzellátás havi összegének megállapítása érdekében a miniszter
+
+a) minden év január 31-ig,
+
+b) amennyiben az adott évben a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 62. § (3) bekezdése alapján kiegészítő nyugdíjemelésre került sor, az adott év november 30-ig
+
+a (2) bekezdés szerinti adatok megküldésével megkeresi a nyugdíjfolyósító szervet, amely a megkeresést öt munkanapon belül teljesíti.
+
+(4)[^8] A miniszter a nyugdíjfolyósító szerv által közölt adatokat a (3) bekezdés szerinti tájékoztatást követő öt munkanapon belül megküldi a munkáltató részére.
+
+(5)[^9] A munkáltató az általa foglalkoztatott egészségügyi dolgozó jövedelemkiegészítésre való jogosultságában bekövetkező változásokról az érintett egészségügyi dolgozók megjelölésével havonta, összesítve tájékoztatja a minisztert.
+
+(6)[^10] Amennyiben az egészségügyi dolgozó nyugdíjának összege a nyugdíjfolyósító szerv határozata alapján módosult, ennek tényéről a jogerős határozat kézhezvételét követő tizenöt napon belül tájékoztatja a munkáltatót.
+
+(7)[^11] Az (5) és a (6) bekezdés szerinti változásokra tekintettel a miniszter megkeresése alapján a nyugdíjfolyósító szerv havonta, a megkeresésétől számított öt munkanapon belül szolgáltat adatot a miniszter részére az egészségügyi dolgozót egyébként megillető pénzellátás havi összegéről. A miniszter az adatokat a (4) bekezdésben foglaltak szerint megküldi a munkáltató részére.
+
+(8)[^12] A (3) és a (7) bekezdés alkalmazása során a nyugdíjfolyósító szerv az egészségügyi dolgozót egyébként megillető pénzellátás havi összegéről ad tájékoztatást, függetlenül attól, hogy az egészségügyi dolgozó részére megállapított pénzellátás összegére a bírósági végrehajtásról szóló 1994. évi LIII. törvény 67. §-a alapján végrehajtás elrendelésére került sor.
+
+## 3. §
+
+(1)[^13] Az Eütev. 16/D. § (1) bekezdése szerinti támogatásigénylés a miniszter által a munkáltatók rendelkezésére bocsátott, 2. melléklet szerinti tartalmú, elektronikusan kitöltendő kérelemnek a miniszter részére elektronikus úton való benyújtásával történik.
+
+(2)[^14] Az Eütev. 16/D. § (2) bekezdése szerinti havonta utalványozandó támogatási összegekre vonatkozó adatokat szolgáltatónkénti bontásban a miniszter továbbítja a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére.
+
+(3)[^15] Az igénylésnek megfelelő támogatási összeget – a miniszter tájékoztatása alapján – a NEAK havonta utalványozza a munkáltatónak.
+
+(3a)[^16] A munkáltató a havi igénylést követő hónap végéig tájékoztatja a minisztert az igénylési hónapra vonatkozóan ténylegesen kifizetett összegekről.
+
+(4)[^17] A munkáltató a megelőző év október hónapjától a tárgyév szeptember hónapjáig tartó időszakra ténylegesen kifizetett összegekkel a tárgyév október 15-éig a 3. melléklet szerinti tartalommal elszámol a miniszter felé.
+
+(4a)[^18] A munkáltató támogatásának megszűnése esetén a részére utalványozott utolsó havi támogatást követő 30 napon belül a 3. melléklet szerinti tartalommal elszámol a miniszter felé a (4) bekezdés alapján el nem számolt, részére ténylegesen kifizetett összegekkel.
+
+(5)[^19] A NEAK a miniszter tájékoztatása alapján a munkáltató által igényelt, de a jövedelemkiegészítés biztosítására fel nem használt támogatási összeget a (3a) bekezdés szerinti tájékoztatást követő vagy a (4) bekezdés szerinti elszámolási időpontot követő hónapban esedékes támogatási összegből levonja. A (4a) bekezdés szerinti fel nem használt összeget a munkáltató a NEAK felszólítására 15 napon belül visszafizeti.
+
+## 4. §[^20]
+
+(1) A miniszter a támogatás iránti igényt – az igénylés adattartalmát is ideértve –, valamint a támogatás felhasználását folyamatosan ellenőrzi. A miniszter az ellenőrzés keretében az igénylés adattartalmát érintően kiegészítő adatokat kérhet a munkáltatótól.
+
+(2) A miniszter az ellenőrzéseinek megállapításait, valamint a támogatási összeg tekintetében fennálló változásokat összesítve, intézményi bontásban küldi meg a NEAK részére.
+
+(3) Ha a miniszter ellenőrzése során megállapítja, hogy a munkáltató jogosulatlanul vett igénybe vagy használt fel támogatást, akkor a jogosulatlan igénybevételről vagy felhasználásról értesíti a NEAK-ot. A NEAK a jogosulatlanul igénybe vett vagy felhasznált támogatást
+
+a) ha az értesítés az adott hónap 20-áig beérkezik, a tárgyhónapot követő hónapban,
+
+b) ha az értesítés az adott hónap 20-át követően érkezik be, a tárgyhónapot követő második hónapban
+
+esedékes, a jövedelem-kiegészítéssel összefüggő támogatási összegből levonja.
+
+## 5. §
+
+Ez a rendelet 2013. április 29-én lép hatályba.
+
+## 6. §
+
+(1)[^21]
+
+(2)[^22]
+
+(3)[^23] A miniszter az egészségügyi dolgozó jövedelem-kiegészítése, valamint annak az Eütev. szerinti adó- és járulékterhei után e rendelet szerint igényelhető támogatás rendelkezésre bocsátása érdekében szerződést köt a NEAK-kal megkötött, hatályos finanszírozási szerződéssel nem rendelkező, jövedelem-kiegészítésre jogosult egészségügyi dolgozót foglalkoztató költségvetési szerv munkáltatóval.
+
+## 7. §[^24]
+
+Az a jövedelemkiegészítésre jogosult egészségügyi dolgozó, akit a munkáltatója 2025 júliusában az Eütev. 16/B. § (1) bekezdésére tekintettel jövedelemkiegészítésben részesített, jogosult – a nyugellátásokban és egyes más ellátásokban részesülő személyek részére juttatandó nyugdíjas élelmiszer-utalvány különös szabályairól szóló kormányrendeletben meghatározottak szerint – a nyugdíjas élelmiszer-utalványra.
+
+## 1. melléklet a 124/2013. (IV. 26.) Korm. rendelethez[^25]
+
+**Kérelem jövedelemkiegészítés megállapítása iránt**\
+**és nyilatkozat egészségügyi dolgozó jövedelemkiegészítéséhez kapcsolódó személyes adatainak kezeléséhez történő hozzájárulásról**
+
+1\. Alulírott egészségügyi dolgozó
+
+a) neve:
+
+b) születési neve:
+
+c) születési helye, ideje:
+
+d) anyja neve:
+
+e) alapnyilvántartási száma:
+
+f) Társadalombiztosítási Azonosító Jele:
+
+g) nyugdíjfolyósítási törzsszáma:
+
+az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) szerinti jövedelemkiegészítés megállapítása, folyósítása és ellenőrzése érdekében kifejezett hozzájárulásomat adom ahhoz, hogy a munkáltatóm ……………………………………… (intézmény megnevezése), valamint az egészségügyért felelős miniszter az a)–g) pont szerinti adataimat, valamint a szüneteltetésre kerülő pénzellátásom összegére vonatkozó adatot a jövedelemkiegészítésre való jogosultságom megszűnésétől számított 3 évig kezelje.
+
+2\. Az Eütev. 16/B. § (3) bekezdésében foglalt feltételek tekintetében nyilatkozom a következőkről:
+
+a) Jövedelemkiegészítésre jogosító jogviszonyban egy/több<sup>1</sup> egészségügyi szolgáltatónál állok.
+
+b) Több munkáltatónál jövedelemkiegészítésre jogosító jogviszonyban történő foglalkoztatás esetén<sup>2</sup>:
+
+ba) teljes munkaidős foglalkoztatásomra való tekintettel a jövedelemkiegészítést kizárólag az 1. pontban megnevezett munkáltatónál veszem igénybe: ……………;
+
+bb) több, kizárólag részmunkaidős jogviszony fennállása esetén:
+
+− a jövedelemkiegészítést kizárólag az 1. pontban nevesített munkáltatónál kívánom igénybe venni ……………,
+
+− a jövedelemkiegészítést megosztva, több munkáltatónál kívánom igénybe venni …………….
+
+További munkáltatóm megnevezése, címe:
+
+3\. Ezúton kérem munkáltatómtól az Eütev. 16/A. §-a szerinti jövedelemkiegészítés megállapítását.
+
+Dátum:
+
+Aláírás
+
+_______________________
+
+<sup>1</sup> A megfelelő aláhúzandó.
+
+<sup>2</sup> Kitöltendő, amennyiben az a) pontban a „több” választási lehetőség került megjelölésre. A ba) és bb) alpontban meghatározott lehetőségek közül a megfelelőt kérjük „X”-szel megjelölni.
+
+## 2. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
+
+**Igénylőlap a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz**
+
+1\. A munkáltatóra vonatkozó adatok
+
+1.1. neve,
+
+1.2. címe,
+
+1.3. törzsszáma,
+
+1.4. adószáma,
+
+1.5. pénzforgalmi jelzőszáma,
+
+1.6. KSH kódja,
+
+1.7.[^26]
+
+1.8.[^27] NEAK finanszírozási kód,
+
+1.9. bankszámlaszám, bankszámlát vezető pénzintézet neve.
+
+2\. A támogatásra vonatkozó adatok
+
+2.1. azon személyek száma, akikre tekintettel a munkáltató támogatást igényel,
+
+2.2. a támogatás igényelt összesített bruttó összege/hónap,
+
+2.2.1. a kifizetőt terhelő közterhek összege/hónap.
+
+3\. A foglalkoztatottra vonatkozó adatok (jogviszonyonként)
+
+3.1. a foglalkoztatott munkáltató általi azonosítására szolgáló jogviszony-azonosító kód,
+
+3.2. a foglalkoztatott adóazonosító jele,
+
+3.3. a foglalkoztatás teljes vagy részmunkaidős jellege, részmunkaidő esetén annak a teljes munkaidőhöz viszonyított aránya,
+
+3.4. nyilatkozat más munkáltatónál fennálló, egészségügyi tevékenység végzésére irányuló jogviszonyáról,
+
+3.5. nyilatkozat a jövedelem-kiegészítéssel összefüggő személyes adatainak kezelésére való jogosultság megadásáról.
+
+4\. Záró rész
+
+4.1. dátum,
+
+4.2. az adatlap kitöltéséért felelős neve, telefonszáma,
+
+4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
+
+4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+## 3. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
+
+**Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról**
+
+1\. A munkáltatóra vonatkozó adatok
+
+1.1. neve,
+
+1.2. címe,
+
+1.3. törzsszáma,
+
+1.4. adószáma,
+
+1.5. pénzforgalmi jelzőszáma,
+
+1.6. KSH kódja,
+
+1.7.[^28]
+
+1.8.[^29] NEAK finanszírozási kód,
+
+1.9. bankszámlaszám, bankszámlát vezető pénzintézet neve.
+
+2\. A támogatásra vonatkozó adatok
+
+2.1.[^30] az igényelt támogatás összesített bruttó összege/hónap,
+
+2.2. a kifizetőt terhelő közterhek összege/hónap.
+
+3.[^31] A kifizetett támogatásra vonatkozó adatok
+
+3.1. a kifizetőt terhelő, közterhekkel növelt bruttó összeg,
+
+3.2.[^32] a foglalkoztatottaknak kifizetett nettó összeg/hónap,
+
+3.3. a foglalkoztatottak által igénybe vett személyi jövedelemadó kedvezmény jövedelem-kiegészítésre jutó összege,
+
+3.4. a saját jogú nyugdíjas vagy a társadalombiztosítási nyugellátásról szóló jogszabályban meghatározott reá irányadó öregségi nyugdíjkorhatárt betöltött foglalkoztatottak esetében a foglalkoztatottakat nem terhelő munkaerő-piaci járulék jövedelem-kiegészítésre jutó összege.
+
+4\. Záró rész
+
+4.1. dátum,
+
+4.2. az adatlap kitöltéséért felelős neve, telefonszáma,
+
+4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
+
+4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+---
+
+[^1]: Az 1. § (2) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^4]: Az 1. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 289/2025. (IX. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdés nyitó szövegrésze a 464/2016. (XII. 23.) Korm. rendelet 32. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^9]: A 2. § (5) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.
+[^10]: A 2. § (6) bekezdése a 256/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^11]: A 2. § (7) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § c) és e) pontja szerint módosított szöveg.
+[^12]: A 2. § (8) bekezdését a 256/2013. (VII. 5.) Korm. rendelet 19. §-a iktatta be.
+[^13]: A 3. § (1) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § e) és f) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 80. § a) pontja hatályon kívül helyezte, újonnan a 464/2016. (XII. 23.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^15]: A 3. § (3) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^16]: A 3. § (3a) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^17]: A 3. § (4) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 54. §-ával megállapított, a 464/2016. (XII. 23.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
+[^18]: A 3. § (4a) bekezdését a 309/2025. (X. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^19]: A 3. § (5) bekezdése a 309/2025. (X. 9.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. § a 464/2016. (XII. 23.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^21]: A 6. § (1) bekezdését a 30/2015. (II. 25.) Korm. rendelet 80. § c) pontja hatályon kívül helyezte.
+[^22]: A 6. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 80. § c) pontja hatályon kívül helyezte.
+[^23]: A 6. § (3) bekezdése a 256/2013. (VII. 5.) Korm. rendelet 20. §-ával megállapított, a 464/2016. (XII. 23.) Korm. rendelet 32. § c) és h) pontja szerint módosított szöveg.
+[^24]: A 7. §-t a 289/2025. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
+[^25]: Az 1. melléklet a 30/2015. (II. 25.) Korm. rendelet 79. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet 1.7. pontját a 413/2015. (XII. 23.) Korm. rendelet 57. § a) pontja hatályon kívül helyezte.
+[^27]: A 2. melléklet 1. pont 1.8. alpontja a 464/2016. (XII. 23.) Korm. rendelet 32. § j) pontja szerint módosított szöveg.
+[^28]: A 3. melléklet 1.7. pontját a 413/2015. (XII. 23.) Korm. rendelet 57. § b) pontja hatályon kívül helyezte.
+[^29]: A 3. melléklet 1. pont 1.8. alpontja a 464/2016. (XII. 23.) Korm. rendelet 32. § j) pontja szerint módosított szöveg.
+[^30]: A 3. melléklet 2.1. pontja a 413/2015. (XII. 23.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^32]: A 3. melléklet 3. pont 3.2. alpontja a 464/2016. (XII. 23.) Korm. rendelet 32. § k) pontja szerint módosított szöveg.

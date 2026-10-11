@@ -1,0 +1,273 @@
+---
+title: "208/2015. (VII. 23.) Korm. rendelet a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "208/2015. (VII. 23.) Korm. rendelet"
+njt_id: "2015-208-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/208"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-07-23
+in_force_from: 2015-07-31
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-208-20-22"
+retrieved: 2026-10-12
+---
+
+# 208/2015. (VII. 23.) Korm. rendelet a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), e) és f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény 1. § (1) bekezdésében meghatározott beruházásnak és az ahhoz kapcsolódó beruházásoknak (a továbbiakban együtt: Beruházás) a Paksi Atomerőmű telephelyén és a telephelyen kívüli előkészítésével, megvalósításával (ideértve a megvalósítás feltételeinek megteremtését is), valamint használatbavételével összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2)[^1] Az (1) bekezdés alkalmazásában a Paksi Atomerőmű telephelyén a 2. mellékletben meghatározott ingatlanokat, valamint az ezen ingatlanokból telekalakítási eljárás jogerős befejezését és a telekalakítási engedély alapján az ingatlan adataiban, valamint az ingatlanra bejegyzett jogoknak és a feljegyzett tényeknek az ingatlan-nyilvántartásban való átvezetésével kialakított, illetve kialakításra kerülő ingatlanokat, továbbá a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat kell érteni.
+
+(3) A Beruházás – figyelemmel az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39/B. §-ára – nemzetgazdasági szempontból kiemelt jelentőségű építési beruházásnak minősül.
+
+## 1/A. §[^2]
+
+(1)[^3] A Kormány az 1. melléklet 17. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+
+(2)[^4]
+
+(3)[^5] A Kormány az 1. melléklet 5. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+
+(4)[^6] A Kormány az 1. melléklet 17/A. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+
+(5)[^7]
+
+## 2. §[^8]
+
+(1) Az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban, ha jogszabály rövidebb határidőt nem állapít meg, a szakhatósági eljárásokra vonatkozó ügyintézési határidő – a (2) bekezdésben foglalt kivétellel – tíz nap.
+
+(2) Az 1. melléklet 1–4. és 6–19. pontjában meghatározott közigazgatási hatósági eljárásokban a vízügyi és vízvédelmi szakhatósági eljárásra vonatkozó ügyintézési határidő tizenöt nap.
+
+## 2/A. §[^9]
+
+(1) A Beruházás során megvalósuló, az ingatlan-nyilvántartás szerinti Paks belterület 8802/35, 8802/36, 8802/37, 8802/38, 8802/39 és 8802/45 helyrajzi számú ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg azzal, hogy
+
+a) a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben meghatározott eltérésekkel kell alkalmazni, és
+
+b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanokon szállás jellegű, szolgáltató, kereskedelmi és azokat kiegészítő egyéb rendeltetésű építmények, irodaépület, sportépítmény, parkoló rendeltetésű építmények, továbbá azok kiszolgáló építményei helyezhetők el, a következő sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telek legkisebb zöldfelületi aránya 15%,
+
+b) az elő-, az oldal- és hátsókert legkisebb mérete 5 méter,
+
+c) az elő-, az oldal- és hátsókertben épület és építmény elhelyezhető,
+
+d) az épületek megengedett legnagyobb épületmagassága 22 méter,
+
+e) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-ában, valamint 4. és 7. számú mellékletében előírt személygépkocsi- és autóbusz-várakozóhelyet, motorkerékpár-parkolóhelyet és kerékpártárolót nem kell biztosítani,
+
+f) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához legfeljebb kettő elektromos gépjármű töltőállomást kell biztosítani,
+
+g) a felszíni parkolófelületek árnyékolását biztosító, és egyéb kötelezően előírt fásítást az OTÉK által előírt mennyiségű legalább 150 db fa telepítésével kell megoldani, azzal, hogy a telken belüli kötelező fasor telepítése nem írható elő,
+
+h) az OTÉK akadálymentes használathoz szükséges feltételekre vonatkozó előírásait nem kell alkalmazni,
+
+i) a csapadékvíz elvezető rendszerbe vagy azzal egyenértékű más élővízbe való bevezetés megvalósulásáig a szikkasztásos csapadékvíz elhelyezés csak abban az esetben alkalmazható, ha a csapadékvíz elhelyezésre geotechnikai vizsgálatokkal, talajmechanikai és geotechnikai szakvéleménnyel alátámasztott dokumentáció készül, amely nem korlátozódik a lokális elszikkasztás tárgykörére, hanem a talajvízáramlást figyelembe véve a befogadóig rögzíti a kockázatokat és ez alapján szakértői nyilatkozat igazolja, hogy a szikkasztás nem jelent kockázatot az érintett területre, a létesülő és a meglévő nukleáris létesítményekre és Paks város közigazgatási területére sem,
+
+j) a többlet csapadékvíz közvetlenül, a víz visszatartását szolgáló medence kialakítása nélkül a közhálózatba vezethető,
+
+k) főutak és egyéb határoló utak felé alárendelt homlokzat kialakítása megengedett,
+
+l) országos közút 100 méteres védőtávolságán belül épület, építmény és sportpálya feltétel nélkül elhelyezhető,
+
+m) a közmű- és energiaszolgáltató, valamint a közút- és a vízilétesítmény-kezelő a benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított három munkanapon belül köteles nyilatkozni, ha az eljáró közmű- és energiaszolgáltató, a közút- vagy vízilétesítmény- kezelő három munkanapon belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal,
+
+n) a hagyományostól eltérő tömegformálás, anyaghasználat, egyedien karakteres színezés megengedett, valamint
+
+o) a hatályos településrendezési terv szerinti szabályozási vonalat nem kell alkalmazni, a telken szabályozási tervlapon rögzített közlekedési célú területet nem kell kialakítani, a telekalakítás az övezeti határokra tekintet nélkül megengedett, továbbá az új építmény a telken belül jelölt építési övezeti határ figyelembevétele nélkül elhelyezhető.
+
+(3) Az (1) bekezdéssel összefüggésben az épületek energetikai jellemzőinek meghatározásáról szóló 9/2023. (V. 25.) ÉKM rendelet 4. §-át, 5. §-át és 4. mellékletét nem kell alkalmazni.
+
+(4) Az (1) bekezdéssel összefüggésben településkép-védelmi tájékoztatásnak és szakmai konzultációnak, településképi bejelentésnek nincs helye, településképi véleményezési eljárást nem kell lefolytatni, építészeti-műszaki tervtanácsi véleményt, valamint az Országos Építészeti Tervtanács véleményét nem kell beszerezni.
+
+## 2/B. §[^10]
+
+(1) A Beruházás során megvalósuló, az ingatlan-nyilvántartás szerinti Paks belterület 8802/47 és Paks külterület 024 és 023/50 helyrajzi számú ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon közmű infrastruktúra, azok műtárgyai és kapcsolódó létesítményei helyezhetőek el.
+
+(2) A Kormány a 2/A. § és 2/B. § (1) bekezdése szerinti beruházásokkal összefüggő kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Tolna Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 2/C. §[^11]
+
+(1) A 2/A. § (1) bekezdésében és a 2/B. §-ban meghatározott ingatlanokon kívüli, a Beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg azzal, hogy
+
+a) a hatályos településrendezési terv, településképi rendelet és a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2) bekezdésben foglalt eltéréssel kell alkalmazni és
+
+b) ha a hatályos településrendezési terv, településképi rendelet vagy a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és a TÉKA-t nem lehet alkalmazni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanokon megvalósuló Beruházásra vonatkozó sajátos építési szabályok:
+
+a) az épületmagasság megállapítása során a párkányvonal magassága, a párkánymagasság és az épület homlokzati síkjának folytatásában a párkányvonal fölé nyúló attika magasság együttes összege számítandó, amelybe nem kell beszámítani a ba)–bc) és be)–bi) alpontokban meghatározott szerkezetek magasságait,
+
+b) a párkányvonalra illesztett 45 fokos síkok fölé nyúlhat magassági és felületi méretkorlátozás nélkül
+
+ba) kémény, szellőzőkürtő,
+
+bb) tetőszerelvény,
+
+bc) reklámhordozó,
+
+bd) attika,
+
+be) az épület homlokzati síkjának folytatásában túlnyúló épületrész, tetőkiemelés,
+
+bf) tetőfelépítmény,
+
+bg) torony, kupola vagy egyéb tetőrész, díszítőelem,
+
+bh) helyi építési szabályzatban meghatározott egyéb épületrész és
+
+bi) technológiai berendezés,
+
+c) a Beruházás építményei vonatkozásában az épület legmagasabb pontjának értéke a párkányvonaltól mért 7,00 méter és 50,00 m között is lehet, továbbá az épület legmagasabb pontjával meghatározott vízszintes magassági sík fölé nyúlhatnak a b) pontban felsorolt építményrészek,
+
+d) a Beruházás területén a telek legnagyobb beépítettsége meghatározásánál a TÉKA 5. § 145. pontját kell figyelembe venni,
+
+e) a Beruházás építményeinek a telek terepszint alatti beépített területe 100% is lehet,
+
+f) egyvágányú vasút elhelyezése esetén 0,5–10 méter között is helyezhető el építmény,
+
+g) az üzemi területen – őrzött zónán és fokozottan őrzött zónán – belüli iroda rendeltetésű vagy iroda rendeltetést is tartalmazó épületeket a sajátos építmény technológiájára és nem közhasználatú jellegére tekintettel nem szükséges akadálymentesen kialakítani,
+
+h) ha a huzamos emberi tartózkodásra szolgáló helyiség légcseréjét szellőztető rendszer biztosítja, akkor a helyiség relatív páratartalma lehetőség szerint 20–80% közötti legyen,
+
+i) a helyiség legkisebb alaprajzi méretét úgy kell tervezni és megvalósítani, hogy
+
+ia) nem huzamos tartózkodás céljára szolgáló helyiség szabad szélessége 0,8 méternél kevesebb nem lehet,
+
+ib) a huzamos tartózkodás céljára szolgáló helyiség szabad mérete 2,00 méternél kisebb nem lehet,
+
+j) a helyiség belmagasságát a rendeltetésének és a lehetséges legnagyobb befogadóképességének megfelelően kell meghatározni, de a helyiség átlagos belmagassága legalább
+
+ja) 2,50 méter az irodai munkahelyen, ahol az építmény 300 m<sup>2</sup> összes hasznos alapterületet meg nem haladó irodarendeltetést tartalmaz,
+
+jb) 2,75 méter azon irodai munkahelyeknél, ahol az építmény 300 m<sup>2</sup> összes hasznos alapterületet meghaladó irodarendeltetést tartalmaz,
+
+jc) 2,50 méter a ja) és jb) alpontba és a TÉKA 111. § (3) bekezdés a) pontjába nem tartozó, huzamos tartózkodás céljára szolgáló helyiségben,
+
+jd) 2,20 méter a nem huzamos tartózkodásra szolgáló helyiségben,
+
+k) a szabad belmagasság a tetőtéri helyiségek kivételével
+
+ka) a nem huzamos tartózkodásra szolgáló helyiségekben – a kb) alpontban foglalt kivétellel – legalább 2,20 méter,
+
+kb) a tároló helyiségekben legalább 1,90 méter.
+
+(3) Az (1) bekezdéssel összefüggésben településkép-védelmi tájékoztatásnak és szakmai konzultációnak, településképi bejelentésnek nincs helye, településképi véleményezési eljárást nem kell lefolytatni, építészeti-műszaki tervtanácsi véleményt, valamint az Országos Építészeti Tervtanács véleményét nem kell beszerezni.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+## 4. §
+
+E rendelet rendelkezéseit az e rendelet hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 5. §[^12]
+
+(1) E rendeletnek a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet módosításáról szóló 201/2017. (VII. 10.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1/A. § (3)–(5) bekezdését és 1. melléklet 17/A. pontját a MódR. hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
+
+(2)[^14] Az illetékes vármegyei katasztrófavédelmi igazgatóság a MódR. hatálybalépését[^15] megelőzően nála indult, elsőfokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz.
+
+## 6. §[^16]
+
+E rendeletnek a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet módosításáról szóló 224/2024. (VII. 31.) Korm. rendelettel (a továbbiakban: MódR2.) módosított 1. § (2) bekezdését, valamint megállapított 2. mellékletét a MódR2. hatálybalépésekor[^17] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 7. §[^18]
+
+E rendeletnek a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet módosításáról szóló 488/2024. (XII. 31.) Korm. rendelettel (a továbbiakban: MódR3.) megállapított 2/A. és 2/B. §-át, valamint módosított 2. mellékletét a MódR3. hatálybalépésekor[^19] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 8. §[^20]
+
+E rendeletnek a MódR3.-mal megállapított 2/C. §-át a 2025. július 1-jén folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 208/2015. (VII. 23.) Korm. rendelethez
+
+**A Beruházással összefüggésben kiemelt jelentőségű üggyé nyilvánított hatósági eljárások**
+
+1\. az atomenergia-felügyeleti szerv hatáskörébe tartozó, az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 3. pontja, valamint 17. § (2b) bekezdése szerinti építésügyi hatósági eljárások
+
+2\. az Atv.-ben meghatározott sugárvédelmi engedélyezési eljárások
+
+3\. villamosenergia-ipari tevékenységek végzéséhez szükséges engedélyezési eljárások
+
+4\. környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezeti hatásvizsgálati eljárás kivételével
+
+5\. vízügyi és vízvédelmi engedélyezési eljárások
+
+6\. bányahatósági engedélyezési eljárások
+
+7\. örökségvédelmi hatósági eljárások
+
+8\. építésügyi hatósági eljárások
+
+9\. műszaki biztonsági és mérésügyi hatósági eljárások
+
+10\. talajvédelmi hatósági eljárások
+
+11\. ingatlan-nyilvántartási hatósági eljárások
+
+12\. földmérési hatósági eljárások
+
+13\. útügyi hatósági eljárások
+
+14\. vasúti hatósági eljárások
+
+15\. hajózási hatósági eljárások
+
+16\. légügyi hatósági eljárások
+
+17\. tűzvédelmi hatósági eljárások
+
+17/A.[^21] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
+
+18.[^22] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
+
+19\. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
+
+## 2. melléklet a 208/2015. (VII. 23.) Korm. rendelethez[^23]
+
+**Az 1. § (2) bekezdése szerinti ingatlanok**
+
+**Paks közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint**
+
+a) [^24] belterület 4703/2, 4703/3, 4703/4, 4703/6, 4703/7, 4703/8, 4703/11, 4703/13, 4703/15, 4703/17, 4703/19, 4703/43, 4703/57, 4703/61, 4703/67, 4710/34, 4710/58, 4710/59, 5346, 5347, 5348/4, 5348/6, 5352, 5353, 8801, 8802/9, 8802/14, 8802/18, 8802/20, 8802/21, 8802/23, 8802/28, 8802/29, 8802/30, 8802/31, 8802/32, 8802/33, 8802/34, 8802/35, 8802/36, 8802/37, 8802/38, 8802/39, 8802/40, 8802/41, 8802/42, 8802/43, 8802/44, 8802/45, 8802/46, 8802/47, 8802/48, 8802/49, 8802/50, 8802/52, 8802/53, 8803/2, 8803/4, 8803/11, 8803/12, 8803/13, 8803/14, 8803/16, 8803/17, 8803/19, 8803/20, 8803/21, 8803/3, 8803/16/A, 8803/16/B, 8803/16/C, 8803/16/D, 8803/16/F, 8803/16/G, 8803/16/H, 8803/16/J, 8803/16/K, 8803/16/L, 8803/14/A, 8803/9, 8806/3, 8809, 8810, 8811, 8812;
+
+b) [^25] külterület 021/3, 021/9, 021/12, 021/18, 021/20, 023/23, 023/25, 023/39, 023/48, 023/49, 023/50, 024, 0276/3, 0288/1, 0288/2, 0288/3, 0288/4, 0290/2, 0290/3, 0296, 0307, 0308/1, 0309, 0311, 0312/7, 0312/8, 0312/10, 0312/11, 0312/12, 0312/13, 0312/14, 0313/1, 0314, 0315/3, 0315/4, 0315/5, 0323/2, 0324/1, 0324/2, 0324/3, 0324/4, 0324/5, 0324/6, 0324/7, 0324/8, 0328, 0336/13, 0336/18, 0336/19, 0339/2, 0342/2, 0345/8, 050/4, 050/12, 050/13, 050/14, 050/20, 051/3, 051/5, 051/11, 051/12, 051/13, 051/15, 051/17, 054, 055/3, 056/2, 057/11, 057/8, 057/9, 059, 090, 0102/2, 0119/3, 0153, 0156/11, 0181/1, 0187/4, 0194/2, 0254
+
+helyrajzi számú ingatlanok
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 224/2024. (VII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 271/2016. (IX. 1.) Korm. rendelet 73. §-a iktatta be.
+[^3]: Az 1/A. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
+[^4]: Az 1/A. § (2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 198. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1/A. § (3) bekezdését a 201/2017. (VII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 458/2017. (XII. 28.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
+[^6]: Az 1/A. § (4) bekezdését a 201/2017. (VII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 458/2017. (XII. 28.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
+[^7]: Az 1/A. § (5) bekezdését a 201/2017. (VII. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 198. § b) pontja.
+[^8]: A 2. § a 114/2025. (V. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: A 2/A. §-t a 488/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 2/B. §-t a 488/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 2/C. §-t a 488/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^12]: Az 5. §-t a 201/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2017. július 11.
+[^14]: Az 5. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 79. §-a szerint módosított szöveg.
+[^15]: A hatálybalépés időpontja 2017. július 11.
+[^16]: A 6. §-t a 224/2024. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2024. augusztus 15.
+[^18]: A 7. §-t a 488/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2025. január 1.
+[^20]: A 8. §-t a 488/2024. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
+[^21]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^22]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^23]: A 2. mellékletet a 224/2024. (VII. 31.) Korm. rendelet 2. §-a iktatta be. A 2. melléklete a 488/2024. (XII. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet a) pontja a 488/2024. (XII. 31.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet b) pontja a 488/2024. (XII. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

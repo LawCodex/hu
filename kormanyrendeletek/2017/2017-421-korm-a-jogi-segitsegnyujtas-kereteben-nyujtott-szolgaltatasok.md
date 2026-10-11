@@ -1,0 +1,913 @@
+---
+title: "421/2017. (XII. 19.) Korm. rendelet a jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése iránti eljárások részletes szabályairól"
+identifier: "421/2017. (XII. 19.) Korm. rendelet"
+njt_id: "2017-421-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/421"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-19
+in_force_from: 2018-01-01
+last_amended: 2026-02-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-421-20-22"
+retrieved: 2026-10-12
+---
+
+# 421/2017. (XII. 19.) Korm. rendelet a jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése iránti eljárások részletes szabályairól
+
+A Kormány
+
+a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 74. § b) pontjában kapott felhatalmazás alapján,
+
+a XI. fejezet tekintetében az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 205. §-ában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## ELSŐ RÉSZ — BEVEZETŐ RENDELKEZÉSEK
+
+### I. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
+
+##### 1. §
+
+E rendelet alkalmazásában:
+
+1.[^1] *büntetőeljárásban biztosított támogatás:* büntetőeljárásban pártfogó ügyvédi képviselet biztosítása, a pártfogó ügyvéd díjának és költségeinek (a továbbiakban együtt: pártfogó ügyvédi díj) állam általi előlegezése és – jogszabályban meghatározott esetben – viselése a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt és az egyéb érdekelt esetében, továbbá a kirendelt védő díjának és költségeinek állam általi előlegezése és viselése a terhelt esetében;
+
+2.[^2] *értesítés:* a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 101. § (3) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 2017. évi XC. törvény 577. § (1) bekezdése szerinti adatokat tartalmazó irat vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata;
+
+3\. *fél:* a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet, ideértve azt a felet is, akinek a határon átnyúló tartási ügyében pártfogó ügyvéd kirendelése érdekében a központi hatóság keresi meg a jogi segítségnyújtó szolgálatot;
+
+4.[^3] *idegenrendészeti hatóság:* a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 98. § (1), illetve (3) bekezdése alapján kiutasító döntést hozó hatóság;
+
+5\. *jogi segítő:* a jogi segítők névjegyzékében szereplő ügyvéd vagy jogi segítő szervezet;
+
+6\. *jogi segítségnyújtás:* a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény (a továbbiakban: Jst.) szerinti peren kívüli támogatás, polgári és közigazgatási, valamint büntetőeljárásban biztosított támogatás;
+
+7.[^4] *jogi segítségnyújtó szolgálat:* a jogi segítségnyújtási feladatkörében eljáró fővárosi és vármegyei kormányhivatal és az igazságügyért felelős miniszter által vezetett minisztérium
+
+8.[^5] *kiutasított külföldi:* a Btátv. 98. § (1), illetve (3) bekezdése alapján véglegessé vált határozattal kiutasított személy;
+
+9\. *közös háztartás:* azon személyek összessége, akik – függetlenül a rokoni kapcsolatoktól – egy jövedelmi, illetve fogyasztói közösséget képeznek és folyamatos életviteli költségeiket részben vagy egészben közösen viselik;
+
+10\. *központi hivatal:* az igazságügyért felelős miniszter által vezetett minisztérium;
+
+11\. *per:* a Jst. 11. § (1) bekezdésében meghatározott eljárás;
+
+12\. *peren kívüli támogatás:* a jogi segítő jogi szolgáltatásának igénybevétele jogi tanácsadás, iratbetekintés vagy okiratszerkesztés céljából;
+
+13\. *polgári és közigazgatási eljárásban biztosított támogatás:* közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárásban, valamint polgári peres és nemperes eljárásban pártfogó ügyvédi képviselet biztosítása;
+
+14.[^6] *területi hivatal:* a jogi segítségnyújtási feladatkörében eljáró fővárosi és vármegyei kormányhivatal támogatást engedélyező szerve;
+
+15\. *tolmács:* az a jogi segítségnyújtó szolgálattal szerződött természetes vagy jogi személy, aki a kiutasított külföldi számára biztosított peren kívüli támogatás igénybevétele során a kiutasított külföldi fél és a jogi szolgáltatást nyújtó jogi segítő közötti kommunikáció során nyelvi segítséget nyújt.
+
+## MÁSODIK RÉSZ — PEREN KÍVÜLI JOGI SEGÍTSÉGNYÚJTÁS
+
+### II. Fejezet — A TÁMOGATÁS ENGEDÉLYEZÉSE IRÁNTI KÉRELEM ELŐTERJESZTÉSE
+
+#### 1. A kérelem előterjesztésének általános szabályai
+
+##### 2. §
+
+(1) A félnek a kérelmét elsősorban az erre a célra rendszeresített nyomtatvány (a továbbiakban: nyomtatvány) kitöltésével kell előterjesztenie.
+
+(2) Nem kell a kérelmet a nyomtatványon előterjeszteni, ha a fél a kérelmét az Európai Bizottságnak a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló 2003/8/EK tanácsi irányelv alapján a költségmentesség iránti kérelem benyújtásához használandó formanyomtatvány kidolgozásáról szóló, 2004. november 9-i 2004/844/EK európai bizottsági határozat szerinti nyomtatványon terjesztette elő, és azt az Európai Unió másik tagállamának (a továbbiakban: másik tagállam) továbbító hatósága a 2003/8/EK tanácsi irányelv alapján a költségmentesség iránti kérelem továbbításához használandó formanyomtatvány kidolgozásáról szóló, 2005. augusztus 26-i 2005/630/EK európai bizottsági határozatával megállapított nyomtatvánnyal együtt küldte meg a területi hivatal részére. Ebben az esetben a kérelem benyújtása időpontjának a másik tagállam továbbító hatóságához történt benyújtás időpontját kell tekinteni.
+
+(3) Ha a jogi segítő közreműködik a kérelem előterjesztésében, a nyomtatványt és mellékleteit továbbítja, a kérelemmel kapcsolatos egyéb olyan iratokat, amelyek a támogatás engedélyezéséhez és a jogi segítő díjának megállapításához szükségesek, továbbíthatja a területi hivatalnak.
+
+##### 3. §
+
+(1) A területi hivatal a személyesen megjelent felet azonosítja.
+
+(2) A Jst. 5. § (2) bekezdés d) pontja alapján rászorult fél személyazonosítás nélkül is előterjesztheti kérelmét.
+
+##### 4. §
+
+(1)[^7] A fél és a féllel közös háztartásban élő személy jövedelmét a nyomtatványban szereplő adatokra kiterjedő tartalommal kell igazolni.
+
+(2) A jövedelemigazolás nem lehet harminc napnál régebbi keltezésű.
+
+(3) Ha a nyomtatványon vagy a jövedelemigazolásban feltüntetett adataiban változás következett be, a fél a változás tényét, illetve a változások igazolását a területi hivatalnak egyidejűleg jelenti be.
+
+##### 5. §
+
+A Jst. 43. §-a szerinti, támogatás utólagos engedélyezésére irányuló kérelmet is a nyomtatvány kitöltésével kell előterjeszteni, amelyet a jogi segítő küld meg a területi hivatalnak. E kérelem a kitöltéstől számított harminc napon túl, de három hónapon belül is benyújtható a területi hivatalhoz, azonban kizárólag a kitöltésének időpontjához képest harminc napnál nem régebbi igazolással.
+
+##### 6. §
+
+(1) Ha a támogatás engedélyezése iránti kérelem szerződés készítésére irányul és az érintett felek kérelmei elbírálására más-más területi hivatal lenne illetékes, a felek – a (2) bekezdésben foglaltak kivételével – a közös kérelmüket megegyezésük szerint valamelyikük személye alapján illetékes területi hivatalnál terjeszthetik elő. A közös kérelmet a felek a nyomtatvány személyi és jövedelemre vonatkozó adatokat tartalmazó részének külön-külön példányon történő kitöltésével és megküldésével, míg az igényelt támogatásra vonatkozó adatokat tartalmazó részének legalább egyikük példányán, mindkettőjük aláírásával történő ellátásával terjeszthetik elő.
+
+(2) A Jst. 3. § (1) bekezdés i) pontja alá tartozó félnek kérelmét az általános szabályok szerint kell előterjeszteni.
+
+### III. Fejezet — A KÉRELEM ELINTÉZÉSE
+
+#### 2. A támogatás engedélyezése
+
+##### 7. §
+
+(1) Szerződés készítésére irányuló jogi szolgáltatás esetén a támogatást engedélyező határozatban – a 6. § (2) bekezdésében foglaltak kivételével – ugyanazon jogi szolgáltatást kell engedélyezni a jogi szolgáltatás nyújtására meghatározott óraszám felek közötti egyenlő megosztásával.
+
+(2) A 6. § (2) bekezdésben foglaltak szerint előterjesztett, szerződés készítésére irányuló kérelmet önállóan kell elbírálni a jogi szolgáltatás nyújtására vonatkozó teljes óraszám meghatározása mellett.
+
+##### 8. §
+
+(1) Ha a fél a támogatás engedélyezésével arra szerzett jogosultságot, hogy a jogi segítő díját az állam a Jst. 2. § (2) bekezdésének megfelelően megelőlegezze, a támogatást engedélyező határozat a díj visszatérítésére vonatkozó kötelezettségét, a jogi szolgáltatás igénybevétele esetén a visszatérítendő legmagasabb összeget és azt az időtartamot tartalmazza, amely alatt a visszatérítést teljesíteni kell.
+
+(2) A területi hivatal a jogi segítő díjának visszatérítésére kötelező határozatát – a Jst. 44. § (1) bekezdésében foglalt eset kivételével – a díj jogi segítő részére történő kifizetését követő harminc napon belül hozza meg.
+
+(3) A támogatás utólagos engedélyezése esetén a visszatérítési kötelezettség előírása külön döntést nem igényel, azt – a visszatérítendő összeg, valamint a teljesítési határidő kezdetének és lejáratának megjelölésével – a támogatást engedélyező határozatba kell foglalni.
+
+##### 9. §
+
+(1) A támogatást engedélyező határozatot két példányban kell közölni a féllel.
+
+(2) A határozat egyik kiadmányának mellékletét képezi a területi hivatal – a határozat bíróság előtti megtámadása esetén a bíróság – e célra rendszeresített, a jogi szolgáltatás nyújtásának igazolására szolgáló nyomtatványa (a továbbiakban: teljesítésigazolás).
+
+(3) Ha a fél részére a Jst. 9/A. §-a alapján engedélyeztek támogatást, a területi hivatal a támogatást engedélyező határozat másolatát annak véglegessé válásától számított tíz napon belül megküldi annak az áldozatsegítő szolgálatnak, amely megállapította azt, hogy a fél bűncselekmény áldozataként jogosult az áldozatsegítési szolgáltatások igénybevételére.
+
+#### 3. Támogatások nyilvántartása
+
+##### 10. §
+
+A területi hivatal a támogatások elektronikus nyilvántartásába (a továbbiakban: támogatások nyilvántartása) a Jst. 34. §-ában meghatározott adatokat a bejegyzés alapját képező irat kézhezvételét követően legkésőbb öt napon belül jegyzi be.
+
+##### 11. §
+
+A támogatások nyilvántartásában biztosítani kell a nyilvántartott adatok szerinti keresés lehetőségét.
+
+### IV. Fejezet — A TÁMOGATÁS IGÉNYBEVÉTELÉVEL KAPCSOLATOS ELJÁRÁS
+
+#### 4. Hosszabbítás
+
+##### 12. §
+
+(1) Ha a jogi segítő a jogi szolgáltatás nyújtására a területi hivatal által engedélyezett időtartamot (óraszámot) felhasználta, de a jogi szolgáltatást igénybe vevő féllel közös álláspontja szerint további közreműködése szükséges a jogi szolgáltatás nyújtásának befejezéséhez, az addig nyújtott jogi szolgáltatás teljesítésének igazolása mellett az újabb időtartam engedélyezése iránti közös kérelmet kell előterjeszteni a területi hivatalhoz. Ugyanabban az ügyben az eredeti engedélyező határozatban foglalttól eltérő peren kívüli támogatás is engedélyezhető.
+
+(2) A támogatást engedélyező határozat véglegessé válásától számított három hónapon belül előterjesztett közös kérelemhez a nyomtatványt nem kell kitölteni, az ezt követően előterjesztett kérelemben a félnek nyilatkoznia kell, hogy vagyoni, jövedelmi helyzete nem változott, változás esetén rászorultságát ismételten igazolnia kell.
+
+(3) A jogi segítőnek a kérelemben részletesen nyilatkoznia kell az engedélyezett időtartam alatt tett intézkedéseiről, azok időigényességéről és javaslatot kell tennie arra, hogy milyen további intézkedések szükségesek a jogi szolgáltatás nyújtásának befejezéséhez és e célból milyen időtartamú jogi szolgáltatás engedélyezése szükséges.
+
+(4) A közös kérelmet a támogatás engedélyezésére vonatkozó szabályok szerint kell elbírálni azzal az eltéréssel, hogy a támogatás meghosszabbítása esetén csak a korábban engedélyezett jogi szolgáltatás nyújtásának befejezéséhez szükséges további engedélyezett óraszámot és a jogi szolgáltatás igénybevételének határidejét kell meghatározni. A döntésben a jogi szolgáltatást nyújtó jogi segítőt is meg kell jelölni.
+
+(5) A jogi segítő a jogi szolgáltatás befejezését követően az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltak szerint igazolja a (4) bekezdés szerint engedélyezett jogi szolgáltatás teljesítését.
+
+(6) E § szerint kell eljárni akkor is, ha a jogi segítő az engedélyezett időtartam (óraszám) eltelte után – az (1) bekezdésben foglalt okból – a támogatás utólagos engedélyezésére vonatkozó szabályok szerint legfeljebb további két óra időtartamban folytatja a jogi szolgáltatás nyújtását. A teljesítésigazolásban ebben az esetben a jogi szolgáltatás nyújtására fordított összes órát kell feltüntetni.
+
+### V. Fejezet — A JOGI SEGÍTŐI DÍJ KIFIZETÉSE ÉS VISSZATÉRÍTÉSE
+
+#### 5. A jogi segítő díjának kifizetésével kapcsolatos eljárás
+
+##### 13. §
+
+(1) Ha a jogi segítő által a jogi szolgáltatás nyújtásáért járó díjról a miniszter rendeletében megállapítottak szerint kiállított és megküldött számla végösszege nem felel meg a támogatást engedélyező határozatban foglaltaknak és a teljesítésigazolásban feltüntetett adatoknak, a területi hivatal a jogi segítőnek a jogszabály alapján járó, kifizethető díját tizenöt napon belül állapítja meg.
+
+(2) Az (1) bekezdés szerinti döntésével együtt a területi hivatal visszaküldi a jogi segítő részére a díjról kiállított számlát is.
+
+(3) A jogi segítő a döntés ellen a támogatás engedélyezéséről szóló határozat elleni jogorvoslatra vonatkozó szabályok szerint élhet jogorvoslattal. Jogorvoslati kérelem előterjesztése esetén a jogi segítő a jogerőssé vált határozat alapján kiállított újabb számlát küldi meg a területi hivatalnak, amely ezt követően a jogi segítő díjazásáról szóló rendeletben foglaltak szerint jár el.
+
+(4) Ha a jogi segítő a Jst. 50. § (3) bekezdésében foglalt határidő lejártát követően küldi meg a számlát, díjigényét el kell utasítani. A területi hivatal ezzel kapcsolatos eljárására az (1)–(3) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+##### 14. §
+
+(1) A Jst 43. §-a szerinti, támogatás utólagos engedélyezése mellett nyújtott jogi szolgáltatás igénybevétele esetén a jogi segítő a jogi szolgáltatás nyújtásának befejezését követően a támogatás engedélyezése iránti kérelemmel együtt küldi meg a területi hivatal részére a teljesítésigazolást, amelyben arról is nyilatkozik, hogy fennállnak-e a Jst. 44. § (2) bekezdésében foglalt feltételek. A jogi segítő a feltételek fennállását a kérelem megküldésekor igazolja.
+
+(2) Ha a területi hivatal a teljesítésigazolásban megjelölt, a jogi szolgáltatás nyújtására fordított órák számát – a jogi szolgáltatás keretében elvégzendő feladatokra, az ügy bonyolultságára és egyéb körülményeire tekintettel – eltúlzottnak tartja, határidő tűzésével felszólíthatja a jogi segítőt a jogi segítői tevékenység időigényének részletes indokolására. Ugyanígy kell eljárni akkor is, ha a jogi segítő a Jst. 44. § (2) bekezdésére hivatkozással terjeszti elő díjigényét, de annak jogosságát nem igazolja megfelelően.
+
+(3) A területi hivatal a támogatást engedélyező határozatában dönt a jogi segítőnek járó, kifizethető díjról. Ha a jogi segítő a (2) bekezdés szerinti felszólításnak nem tett eleget, vagy a területi hivatal a részletes indokolás alapján sem látja megalapozottnak a jogi szolgáltatás nyújtására megjelölt időtartamot, a területi hivatal a rendelkezésére álló adatok figyelembevételével állapítja meg a jogi segítői munkadíj kiszámításának alapjául szolgáló óraszámot.
+
+(4) A területi hivatal a támogatás engedélyezéséről szóló határozatát megküldi a jogi segítőnek, aki a kérelem elutasítása esetén a támogatás engedélyezéséről szóló határozat elleni jogorvoslatra vonatkozó szabályok szerint élhet jogorvoslattal. A kérelem elutasításának kell tekinteni azt is, ha a területi hivatal a munkadíj kiszámításának alapjául szolgáló órák számát a jogi segítő által az igazolásban megjelölt óraszámtól eltérően állapítja meg.
+
+(5) A jogi segítő a véglegessé vált vagy jogerőre emelkedett támogatást engedélyező határozat alapján küldi meg a számlát a területi hivatalnak. A további eljárásra a 13. § előírásai irányadóak.
+
+#### 6. Eljárás a támogatás visszatérítése esetén
+
+##### 15. §
+
+(1) A visszatérítési kötelezettséget készpénzátutalási megbízással kell teljesíteni.
+
+(2) A területi hivatal a támogatás visszatérítésére kötelező határozat közlésével egyidejűleg megküldi a félnek a teljesítésre szolgáló, a (3) bekezdésben foglaltak szerint kitöltött készpénzátutalási megbízást.
+
+(3) A készpénzátutalási megbízáson a területi hivatal feltünteti a visszatérítendő összeget (részlet összegét), a teljesítési határidőt és a támogatás visszatérítésére kötelező határozat sorszámát.
+
+(4) A (2) és (3) bekezdés megfelelő alkalmazásával kell eljárni akkor is, ha a területi hivatal a visszatérítésre kötelezést követően halasztást vagy részletfizetést engedélyez a félnek.
+
+(5) A méltányossági eljárás során a területi hivatal a tartozás mérsékléséről, elengedéséről vagy a mérséklés mértékéről:
+
+a) a fél élethelyzetének kedvezőtlenebbé válása,
+
+b) a fél élethelyzetének kedvezőtlenebbé válásának mértéke, valamint
+
+c) a visszatérítendő támogatás összege
+
+alapján dönt.
+
+##### 16. §[^8]
+
+Az e rendelet szerinti beazonosíthatatlan befizetést a központi hivatal a befizetés beazonosításáig, de legfeljebb öt évig függő tételként kezeli. Ha öt év elteltével a befizetés továbbra is beazonosíthatatlan, a központi hivatal azt jóváírja az „Igazságügyi miniszter feladatkörébe tartozó jogszabályok alapján teljesítendő fizetési kötelezettségek” elnevezésű előirányzat (a továbbiakban: előirányzat) javára.
+
+#### 7. A követelés végrehajtásra történő átadása
+
+##### 17. §
+
+(1)[^9] A területi hivatal a visszatérítési kötelezettség elmulasztása esetén harminc napos határidő tűzésével felhívja a felet a támogatás visszatérítésére, e határidő eredménytelen elteltét követően – ha nem kerül sor részletfizetés vagy halasztás engedélyezésére – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben foglaltak szerint a végrehajtás érdekében megkeresi az illetékes adóhatóságot.
+
+(2) Ha a csődeljárásról és a felszámolási eljárásról szóló törvény hatálya alá tartozó gazdálkodó szervezet adós ellen a követelés végrehajtásra történő átadását megelőzően felszámolási eljárás indult a területi hivatal haladéktalanul intézkedik a felszámolónál a hitelezői igény bejelentése vagy a behajthatatlansági igazolás beszerzése iránt.
+
+### VI. Fejezet — A KIUTASÍTOTT KÜLFÖLDIEK RÉSZÉRE BIZTOSÍTOTT PEREN KÍVÜLI TÁMOGATÁSI ELJÁRÁS
+
+#### 8. Általános szabályok
+
+##### 18. §
+
+(1) A Jst. 41. § (2) bekezdése szerinti támogatási eljárásokban e rész szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(2) E fejezet hatálya alá tartozó eljárások során a jogi segítségnyújtó szolgálat és jogi segítő, illetve a tolmács között elsősorban az elektronikus kapcsolattartást kell igénybe venni.
+
+##### 19. §
+
+(1) A kiutasított külföldi számára az idegenrendészeti hatóság segítséget nyújt a nyomtatvány kitöltésében. A kiutasított külföldi kérésére az idegenrendészeti hatóság alkalmazottja a nyomtatványt – a kiutasított külföldi jelenlétében – helyette kitöltheti; ennek tényére a nyomtatvány közlemény rovatában utalni kell. Az idegenrendészeti hatóság alkalmazottja aláírás előtt ismerteti a kiutasított külföldivel a nyomtatvány tartalmát.
+
+(2) Ha a kiutasított külföldi – az (1) bekezdésben foglalt tájékoztatás ellenére – a nyomtatványban nem adja meg magyarországi értesítési címét, illetve olyan elektronikus levélcímet vagy telefaxszámot, amelyen a neki kézbesítendő iratokat fogadni tudja, úgy a területi hivatal az eljárást megszünteti.
+
+(3) A kiutasított külföldi Jst. 5. § (2) bekezdés h) pontja szerinti rászorultságát az idegenrendészeti hatóság véglegessé vált kiutasító határozata igazolja.
+
+(4) A kiutasított külföldinek a nyomtatványban jeleznie kell, hogy a véglegessé vált kiutasító határozat elleni keresetlevél előterjesztéséhez szükséges peren kívüli jogi szolgáltatás igénybevétele során tolmács közreműködésére igényt tart-e. Ha a kiutasított külföldi tolmács közreműködését kéri, akkor azt a nyelvet is meg kell jelölnie, amelyen a szolgáltatást igénybe kívánja venni.
+
+#### 9. Jogi segítő és tolmács kirendelése
+
+##### 20. §
+
+(1) A területi hivatal a Jst. 41. § (2) bekezdése szerinti kirendelő végzésben megjelöli:
+
+a) a kiutasított külföldi adatait,
+
+b) a támogatást engedélyező határozat számát,
+
+c) az eljárás tárgyát,
+
+d) a véglegessé vált kiutasító határozat számát,
+
+e) az idegenrendészeti hatóságot,
+
+f) a kirendelt jogi segítő nevét, címét, telefonszámát, faxszámát és e-mail-címét,
+
+g) szükség szerint a kirendelt tolmács nevét, címét, telefonszámát, faxszámát és e-mail-címét.
+
+(2) A kirendelő végzéshez mellékelni kell a támogatást engedélyező határozatot és az idegenrendészeti hatóság véglegessé vált kiutasító döntését.
+
+##### 21. §
+
+(1) A területi hivatal jogi segítőként, illetve tolmácsként elsősorban a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyén, vagy ha ezt a kiutasított külföldi körülményei indokolják, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti településen működő tolmácsot, illetve a szolgáltatási szerződésben polgári és közigazgatási szakterületet, azon belül idegenrendészeti tevékenységi kört vállalt jogi segítőt rendel ki.
+
+(2) Az (1) bekezdés szerinti jogi segítő, illetve tolmács hiányában a területi hivatal
+
+a)[^10] a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyéhez, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti településhez közeli, azonos vármegyén belüli településen működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt,
+
+b)[^11] az a) pont szerinti jogi segítő vagy tolmács hiányában a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyén, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti település szerinti vármegyén kívül működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt rendel ki.
+
+(3) Ha a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság a kiutasított külföldi tartózkodási helyének megváltozásáról értesíti a területi hivatalt, a területi hivatal haladéktalanul tájékoztatja a jogi segítőt és a tolmácsot a tartózkodási hely megváltozásáról. Ha a tartózkodási hely megváltozása már a támogatási kérelem benyújtásakor ismert, az idegenrendészeti hatóság a kérelem továbbításával egyidejűleg értesíti a területi hivatalt, aki az új tartózkodási helynek megfelelően rendeli ki a jogi segítőt és a tolmácsot.
+
+(4) A közreműködés megtagadása esetén a területi hivatal felmentheti az idegenrendészeti tevékenységet vállalt jogi segítőt a kirendelés alól, ha
+
+a)[^12] a kiutasított külföldi tartózkodási helyének kirendelést követő változása miatt a jogi segítőnek a székhelye szerinti vármegyén kívüli vármegyében kellene eljárnia, vagy
+
+b) a jogi segítő igazolja, hogy egyéb elháríthatatlan akadály merül fel.
+
+(5) A közreműködés megtagadása esetén a területi hivatal felmentheti a tolmácsot a kirendelés alól, ha a tolmács igazolja, hogy a kirendelés ellátása elháríthatatlan akadályba ütközik.
+
+(6) A kirendelő végzés visszavonásáról, új jogi segítő, illetve tolmács kirendeléséről a támogatás engedélyezésének ügyében eljárt területi hivatal dönt.
+
+(7) Az idegenrendészeti tevékenységi körben is eljáró jogi segítőnek rövid úton történő elérhetőséget kell biztosítania a jogi segítségnyújtó szolgálat részére és vállalnia kell, hogy az e fejezetben szabályozott kirendelés esetén három napon belül visszajelzi a kirendelő végzés kézhezvételének tényét és azt is, ha a közreműködés megtagadásának oka áll fenn.
+
+(8) Az idegenrendészeti őrizetben lévő kiutasított külföldit a véglegessé vált kiutasító határozat elleni keresetlevél megszerkesztéséhez szükséges jogi segítségnyújtási eljárásban a jogi segítő keresi fel személyesen, egyébként pedig rövid úton értesíti a kiutasított külföldit arról, hogy hogyan veheti fel a kapcsolatot a jogi segítővel.
+
+#### 10. A jogi segítő működése
+
+##### 22. §
+
+(1) Ha a kiutasított külföldi részére tolmácsot is kirendeltek, a jogi segítőnek a kirendelés kézhezvételét követően haladéktalanul fel kell vennie a kapcsolatot a tolmáccsal.
+
+(2) A jogi segítőnek a Jst. 47/A. § (1) bekezdése szerinti kézbesítést úgy kell teljesítenie, hogy a részére elektronikus úton továbbított kézbesítendő iratokról papíralapú másolatot készít, amelyet átad – a személyes kapcsolatfelvétellel egyidejűleg – a kiutasított külföldi részére.
+
+(3) Ha a jogi segítő a kézbesítés érdekében a szükséges és elvárható intézkedéseket megtette és a kézbesítés ennek ellenére sikertelen, akkor ezt a tényt a jogi segítő haladéktalanul jelzi a területi hivatalnak. A területi hivatal ezt követően a hirdetményi kézbesítésre vonatkozó szabályok alapján jár el. Sikertelen kézbesítés esetén a jogi segítő részére egy órányi tevékenységért járó díj állapítható meg.
+
+(4) A kiutasított külföldinek a teljesítésigazoláson aláírásával kell igazolnia a személyes kapcsolatfelvétel megtörténtét, illetve a jogi segítő általi kézbesítés esetén a kézbesítés tényét.
+
+(5) A jogi segítő a kiutasított külföldiek peren kívüli támogatási eljárásaiban – a jogi szolgáltatás nyújtásának befejezését követően – a teljesítésigazolás aláírt, valamint a keresetlevél egy érkeztetett példányának bemutatásával igazolja a támogatást engedélyező területi hivatalnak azt, hogy a jogi szolgáltatás nyújtását elvégezte. A kereseti kérelem benyújtását a postai feladóvevény és a kérelem egy másolati példányának együttes bemutatása is igazolhatja.
+
+#### 11. A tolmács díjának megfizetése
+
+##### 23. §
+
+A peren kívüli támogatás igénybevételéhez biztosított tolmács díjának megfizetésére a szakfordítói díj megfizetésére vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a tolmácsolási tevékenység, a várakozás és a készenlét időtartamát a jogi segítő, az utazási költséget a tolmács igazolja.
+
+## HARMADIK RÉSZ — A HATÁRON ÁTNYÚLÓ JOGVITÁK RENDEZÉSÉHEZ BIZTOSÍTOTT TÁMOGATÁSOK
+
+### VII. Fejezet — A JOGI SEGÍTSÉGNYÚJTÁS IRÁNTI KÉRELEM TOVÁBBÍTÁSA, A SZAKFORDÍTÓ KIRENDELÉSE ÉS DÍJÁNAK MEGFIZETÉSE
+
+#### 12. A kérelem továbbítása a másik tagállamba
+
+##### 24. §
+
+(1) A jogi segítségnyújtás iránti kérelemnek a Jst. 60. §-a szerinti, a másik tagállamba történő továbbítása iránti eljárás során az e rendeletben foglalt rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2)[^13] A kérelem benyújtása céljából a félfogadáson személyesen megjelent felet a területi hivatal tájékoztatja az eljárás menetéről, a kérelem lefordításával járó fordítási költségek várható nagyságrendjéről, és arról, hogy a fordítási költségek viselésére mely esetben kötelezhető.
+
+(3) Az eljárás lefolytatása iránti kérelmet a 2. § (2) bekezdése szerinti nyomtatványon és a nyomtatvány szerinti mellékletek benyújtásával kell előterjeszteni az illetékes területi hivatalnál.
+
+(4) Ha a fél a kérelmét a másik tagállam által a kérelmek fogadására megjelölt nyelven kívánja benyújtani és ahhoz kifejezetten ilyen nyelvű nyomtatványt kér, a területi hivatal azt a fél rendelkezésére bocsátja, ebben az esetben a kérelmet és mellékleteit a területi hivatal nem fordítja le.
+
+(5)[^14] A területi hivatal a fél szabályosan kitöltött kérelmét és mellékleteit a kézhezvételüktől számított 15 napon belül továbbítja a másik tagállam illetékes fogadó hatósága részére.
+
+#### 13. Szakfordító kirendelése
+
+##### 25. §
+
+(1) Ha a kérelemnek és a mellékleteinek a másik tagállam által a kérelmek fogadására megjelölt nyelvre történő lefordítása válik szükségessé, a területi hivatal szakfordítót rendel ki, azonban ha van megfelelő nyelvtudású alkalmazottja, azokat maga is lefordíthatja. A szakfordító kirendeléséről szóló végzésben a területi hivatal határidőt szab a fordítás elkészítésére, a végzéssel együtt megküldi a szakfordítónak a kitöltött nyomtatványt és mellékleteit, valamint tájékoztatja a szakfordítót a fordítási költségek kifizetésének rendjéről.
+
+(2) A fordítást egy példányban kell elkészíteni, azt – a továbbításra szolgáló, kitöltött nyomtatvánnyal együtt – a területi hivatal a kézhezvételét követő tizenöt napon belül megküldi a másik tagállam fogadó hatóságához, másolatát az ügy iratai között helyezi el.
+
+(3) Szakfordító kirendelése esetén a területi hivatal a fél és a részére nyújtott támogatás adatait – a Jst. 33. és 34. §-ában és a 10. §-ában foglaltak megfelelő alkalmazásával – bejegyzi a támogatások nyilvántartásába.
+
+#### 14. A szakfordító díjának megfizetése
+
+##### 26. §
+
+(1) A szakfordító díját a központi hivatal fizeti meg, a kifizetés érdekében a területi hivatalt kell a szakfordítónak megkeresnie. A szakfordító díjának kifizetése a szakfordító által a fordítás elkészítésével egyidejűleg kiállított számla kézhezvételét, számlaadásra nem köteles szakfordító esetében a kifizetés iránti igényének előterjesztését követő harminc napon belül történik meg. Hiányosan vagy pontatlanul benyújtott számla, illetve kifizetés iránti igény esetén a kifizetésre rendelkezésre álló időtartamot a hiánypótlás teljesítésétől kell számítani.
+
+(2) A számlán fel kell tüntetni a kirendelő végzés számát is, ha a szakfordító számlaadásra nem köteles, a következő adatok megjelölésével kell a díja kifizetése iránt írásban megkeresnie a területi hivatalt:
+
+a) a szakfordító neve,
+
+b) a kirendelő végzés száma,
+
+c) a díj összege,
+
+d) a díjat terhelő adóelőleg levonásához szükséges adatok,
+
+e) átutalás esetén a szakfordító fizetési számlájának száma, kiutalás esetén pedig a címe.
+
+(3) A területi hivatal ellenőrzi a kiállított számlán, illetve a kifizetés iránti igényben feltüntetett adatokat. A számlán, a megkeresésen szereplő összeg elfogadásáról a területi hivatal határozatot nem hoz, ha a kifizetés teljesíthető, a területi hivatal – a kifizetés alapjául szolgáló bizonylatokon felül – megküldi a központi hivatalnak a kifizetendő összegre vonatkozó következő adatokat:
+
+a) a kifizetendő összeget, ha adóelőleg levonására kerül sor, a levonást követően fennmaradó összeget,
+
+b) a jogosult nevét,
+
+c) a számla sorszámát,
+
+d) átutalás esetén a jogosult fizetési számlájának számát, kiutalás esetén címét,
+
+e) a kirendelő végzés számát.
+
+(4)[^15] A központi hivatal a szakfordító díját az előirányzat terhére utalja át vagy utalja ki, a kifizetésről a (3) bekezdésben foglalt adatok feltüntetésével értesítést küld a területi hivatalnak.
+
+(5) Ha a fél a másik tagállam hatóságának a jogi segítségnyújtást engedélyező határozatát vagy annak másolatát benyújtja a területi hivatalhoz, a területi hivatal a támogatások nyilvántartásába történő bejegyzéssel megállapítja azt, hogy a fordítási költséget az állam viseli.
+
+(6) Ha a fél a szakfordító díjának visszatérítésére köteles, a területi hivatal a visszatérítési kötelezettségről határozatot hoz. Ha a fél nem igazolja a másik tagállam hatósága által hozott, a fél jogi segítségnyújtás iránti kérelmét elutasító döntés kézhezvételének időpontját, a területi hivatal a késedelmi pótlékot a másik tagállam hatósága által hozott döntés véglegessé válásától számított hatvanadik naptól számítja fel.
+
+## NEGYEDIK RÉSZ — JOGI SEGÍTSÉGNYÚJTÁS POLGÁRI ÉS KÖZIGAZGATÁSI ÜGYBEN
+
+### VIII. Fejezet — A TÁMOGATÁS ENGEDÉLYEZÉSE IRÁNTI KÉRELEM ELŐTERJESZTÉSE
+
+#### 15. Polgári és közigazgatási eljárásban biztosított támogatások
+
+##### 27. §
+
+A bíróság, valamint a jogi segítségnyújtó szolgálat a polgári és közigazgatási eljárásban biztosított támogatással (a továbbiakban e részben: támogatás) kapcsolatos ügyben e rendelet szerint jár el.
+
+#### 16. A nyomtatványok használata
+
+##### 28. §
+
+(1) A nyomtatvány kitöltésére megfelelően alkalmazni kell a 3–5. §-ban foglalt rendelkezéseket.
+
+(2) A határon átnyúló tartási ügyben pártfogó ügyvéd kirendelése érdekében a területi hivatalt megkereső központi hatóság a fél helyett kitölti és bélyegzőlenyomatával, aláírásával látja el a nyomtatványt, a közlemény rovatban nyilatkozik arról, hogy központi hatóságként eljárva a fél nevében terjeszt elő kérelmet.
+
+### IX. Fejezet — A TÁMOGATÁS ENGEDÉLYEZÉSE ÉS NYILVÁNTARTÁSA
+
+#### 17. A támogatás iránti kérelem elbírálása
+
+##### 29. §
+
+(1) Ha a fél ugyanazon (összefüggő) ügyben peren kívüli és polgári vagy közigazgatási eljárásban biztosított támogatás engedélyezését is kéri, a kérelmet két ügyként kell kezelni és csatoltan elintézni.
+
+(2) Ha az (1) bekezdésben foglalt kérelem peren kívüli támogatásként per előtti tanácsadás nyújtására vagy keresetlevél készítésére irányul, a területi hivatal a peren kívüli támogatás engedélyezése esetén a külön számon kezelt, polgári vagy közigazgatási eljárásban biztosított támogatás tárgyú ügyben legfeljebb negyvenöt napos határidő tűzésével felhívja a felet, hogy a peren kívüli támogatás igénybevételét követően kérelmét a miniszter rendeletében foglaltaknak megfelelően egészítse ki.
+
+(3) A határidő elmulasztása esetén a polgári vagy közigazgatási eljárásban biztosított támogatás iránt a félnek az általános szabályok szerint új kérelmet kell benyújtania.
+
+##### 30. §
+
+Ha a fél határon átnyúló tartási ügyében a központi hatóság a per megindítása előtt keresi meg a jogi segítségnyújtó szolgálatot támogatás engedélyezése érdekében, a fél részére engedélyezett támogatás a pártfogó ügyvédi képviseleten túl magában foglalja a keresetlevél pártfogó ügyvéd általi elkészítésére és benyújtására vonatkozó szolgáltatást is.
+
+##### 31. §
+
+(1) A területi hivatal a tárgyi költségmentesség, illetve tárgyi költségfeljegyzési jog fennállását hivatalból vizsgálja, tekintet nélkül arra, hogy a fél a kérelmében hivatkozik-e arra.
+
+(2) Ha a felet a tárgyi költségfeljegyzési jog mellett rászorultsága alapján kedvezőbb támogatási forma is megilletheti a rendelkezésre álló adatok alapján, a területi hivatal a fél részére a kedvezőbb támogatási formát engedélyezi, ha a rendelkezésre álló adatok alapján kizárólag valószínűsíthető a személyes jogosultság feltételeinek fennállta, felhívja a felet vagyoni, jövedelmi viszonyainak igazolására.
+
+##### 32. §
+
+(1) Ha a rendelkezésre álló okiratokból nem állapíthatóak meg a támogatással érintett ügyre vonatkozó adatok és a kibocsátott hiánypótlás sem vezetett eredményre, továbbá az ügy összes körülményére tekintettel alaposan feltehető, hogy azok pótlása csak jogi segítő közreműködésével lehetséges, a területi hivatal a fél részére ebből a célból – kérelmétől eltérően, az egyéb jogszabályi feltételek megléte esetén – peren kívüli támogatást engedélyezhet, amelynek igénybevételi határideje nem lehet hosszabb harminc napnál.
+
+(2) Az (1) bekezdés szerinti jogi szolgáltatás igénybevételét követő tizenöt napon belül a fél újabb nyomtatvány kitöltése és igazolások beszerzése nélkül kérheti a támogatás engedélyezését, ha a nyomtatványban foglalt adataiban változás nem következett be. A kérelemben a peren kívüli támogatás engedélyezésére utalni kell.
+
+#### 18. A támogatást engedélyező határozat
+
+##### 33. §
+
+A támogatást engedélyező határozatban meg kell jelölni azt, hogy a támogatás hatálya
+
+a)[^16] csak az elismerés vagy a végrehajthatóvá nyilvánítás iránti eljárásra terjed ki, ha csak a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet 50. cikke vagy az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet 56. cikke, vagy a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet 50. cikke,
+
+b)[^17] csak az elismerés, a végrehajthatóvá nyilvánítás vagy a végrehajtás iránti eljárásra terjed ki, ha csak a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK rendelet 47. cikk (2)–(3) bekezdése vagy a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény 17. cikk *b)* pontja, vagy
+
+c)[^18] csak az elismerés és az elismerés megtagadása iránti eljárásra terjed ki a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet 74. cikke
+
+alapján engedélyezhető támogatás a kérelmező vagy a végrehajtást kérő fél részére.
+
+##### 34. §
+
+Ha a kérelemhez bíróság által érkeztetett, ügyszámmal ellátott keresetlevél (kérelem, beavatkozást tartalmazó nyilatkozat, perbehívó, perbevonó, perbeállító nyilatkozat, végrehajtási kérelem) került csatolásra, a támogatást engedélyező határozat tartalmazza azt is, hogy a támogatást melyik perben engedélyezik a félnek, egyéb esetekben a per a kérelemben megjelölt bíróság, a felek és ügy tárgyának megjelölésével kerül meghatározásra.
+
+#### 19. A támogatás nyilvántartása
+
+##### 35. §
+
+A támogatás engedélyezése iránti ügyben eljárt területi hivatal a támogatás engedélyezése iránti kérelmek intézéséről a 10. és 11. § alkalmazásával vezet nyilvántartást.
+
+##### 36. §
+
+A támogatások nyilvántartása a Jst. 34. és 59. §-ában meghatározott adatok mellett tartalmazza
+
+a) a meghatalmazást elfogadó jogi segítő nevét és nyilvántartási számát, a képviselet ellátásának kezdő időpontját,
+
+b) kirendelés esetén a kirendelt ügyvéd, ügyvédi iroda nevét és a kirendelés időpontját,
+
+c) ha a támogatás hatálya alatt szűnik meg a pártfogó ügyvédi képviselet, a megszűnés időpontját,
+
+d) a támogatás módosítása esetén a módosított támogatás formáját, mértékét és a támogatás hatályát.
+
+#### 20. Intézkedések a támogatás engedélyezését követően
+
+##### 37. §
+
+(1) Pártfogó ügyvédi képviselet engedélyezése esetén a területi hivatal – a példányszámok feltüntetésével – két példányban közli a féllel a támogatást engedélyező határozatot, az e célra rendszeresített, a pártfogó ügyvéd meghatalmazására szolgáló nyomtatványt (a továbbiakban: meghatalmazás-nyomtatvány) a (2) bekezdés szerint, három példányban küldi meg.
+
+(2) A területi hivatal a meghatalmazás-nyomtatványt
+
+a) a támogatást engedélyező határozat véglegessé válását követően, vagy
+
+b) a támogatást engedélyező határozat elleni keresetlevél benyújtása esetén a bíróság határozatának kézhezvételét követően
+
+haladéktalanul kézbesíti a fél részére.
+
+### X. Fejezet — A TÁMOGATÁS IGÉNYBEVÉTELÉVEL KAPCSOLATOS ELJÁRÁS
+
+#### 21. Pártfogó ügyvéd kirendelése
+
+##### 38. §
+
+(1) A pártfogó ügyvéd kirendelésére irányuló kérelem, vagy a Jst. 61. § (3) bekezdése szerinti hozzájáruló nyilatkozat beérkezését követően a területi hivatal soron kívül, de legfeljebb öt napon belül dönt a kirendelésről. A területi hivatal a kirendelő végzésben megjelöli:
+
+a) a fél adatait,
+
+b) a támogatást engedélyező, véglegessé vált határozat számát,
+
+c) ha ismert, az eljáró bíróságot és a bírósági ügyszámot,
+
+d) a bírósági eljárás tárgyát,
+
+e) a kirendelt pártfogó ügyvéd nevét és irodájának címét,
+
+f) ha a támogatás engedélyezése nem a bíróság által engedélyezett költségmentességen alapul, az engedélyezett támogatás formáját.
+
+(2) A kirendelő végzést a félnek, a kirendelt pártfogó ügyvédnek, valamint a bíróságnak – ha a bíróság vagy a bírósági ügyszám csak később válik ismertté, az ismertté válást követően – haladéktalanul kézbesíteni kell.
+
+(3) Ha a fél határon átnyúló tartási ügyében a támogatás engedélyezése érdekében a központi hatóság keresi meg a jogi segítségnyújtó szolgálatot, a pártfogó ügyvéd kirendeléséhez külön kérelem vagy hozzájáruló nyilatkozat nem szükséges, a területi hivatal a támogatás engedélyezésére vonatkozó döntés véglegessé válásával egyidejűleg hozza meg a kirendelő végzést.
+
+##### 39. §
+
+(1) A területi hivatal pártfogó ügyvédként elsősorban a bíróság székhelyén, vagy ha ezt a fél körülményei indokolják, lakóhelyén, tartózkodási helyén működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt rendel ki.
+
+(2) Az (1) bekezdés szerinti jogi segítő hiányában a területi hivatal
+
+a)[^19] a bíróság székhelyéhez közeli, azonos vármegyén belüli településen működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
+
+b)[^20] kivételesen indokolt esetben a bíróság székhelye szerinti vármegyén kívül működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
+
+c) ha a bíróság székhelyéhez legközelebbi jogi segítő is aránytalanul messze működik, a bíróság székhelyén működő, az ügyvédi kamara nyilvántartása szerint kirendelhető ügyvédet, ügyvédi irodát
+
+rendel ki.
+
+#### 22. Eljárás a támogatás módosítása és megvonása esetén
+
+##### 40. §
+
+(1) A támogatás megvonása esetén az erről szóló véglegessé vált határozatról a területi hivatal – a Jst. 58. §-ában foglaltakon túl – értesíti a bírósági végrehajtót, ha a bírósági végrehajtás foganatosítása már folyamatban van.
+
+(2) A területi hivatal a támogatások nyilvántartásában a támogatás megvonása körében feltünteti
+
+a) a támogatást megvonó hatóságot és határozatának számát,
+
+b) a támogatás megvonásának időpontját,
+
+c) a megvonás visszamenőleges hatályát és azt, ha annak oka valótlan adatok szolgáltatása.
+
+##### 41. §
+
+A támogatás módosítása iránti kérelem benyújtásakor a félnek igazolnia kell, hogy a bíróság jogerős határozatában költségmentességet engedélyezett számára.
+
+##### 42. §
+
+(1) A pártfogó ügyvéd által képviselt fél költségmentességének vagy költségfeljegyzési jogának a megvonásáról, a tárgyi költségmentesség vagy a tárgyi költségfeljegyzési jog fenn nem állásáról szóló bírósági határozat kézhezvételét követően a területi hivatal haladéktalanul felhívja a felet rászorultságának a Jst. 5–9. §-a szerinti igazolására.
+
+(2) Ha a fél a rászorultságát nem igazolja, vagy az igazolt jövedelmi, vagyoni viszonyai alapján rászorultnak nem minősül, a jogi segítségnyújtó szolgálat a támogatást megvonja.
+
+### XI. Fejezet[^21] — A PÁRTFOGÓ ÜGYVÉDI DÍJ ÉS AZ ELJÁRÁSI ELŐLEG MEGÁLLAPÍTÁSA ÉS KIFIZETÉSE
+
+#### 23.[^22] A pártfogó ügyvédi díj és a pártfogó ügyvédi díj eljárási előlege iránti kérelem
+
+##### 43. §
+
+(1) A pártfogó ügyvédi díjat a pártfogó ügyvéd kérelmére a jogi segítségnyújtó szolgálat e rendeletben és a pártfogó ügyvéd részére megállapítható díjról és költségekről szóló rendeletben foglaltak szerint állapítja meg. A pártfogó ügyvédnek díjigényét – a támogatás megvonásának esetét kivéve – az eljárást jogerősen befejező határozat kézhezvételét követően kell írásban bejelentenie a területi hivatalnak. Bejelentésében meg kell jelölni azt, hogy mely időszakban képviselte a felet, indítványt tehet a készkiadásai megállapítására és igazolnia kell az időarányostól eltérő munkadíjmegosztás iránti igényének alaposságát.
+
+(2)[^23] A pernyertes felet képviselő pártfogó ügyvéd részére, kérelmére a jogi segítségnyújtó szolgálat az állam által kifizetendő pártfogó ügyvédi díjnak megfelelő összegű díjelőleget fizet, ebben az esetben a pártfogó ügyvéd a jogi segítségnyújtó szolgálat által megállapított díjnak a díjelőlegen felüli részét követelheti az ellenérdekű féltől. A díjelőleg megállapítására az (1) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+(3)[^24] A felet
+
+a) a perben
+
+aa) az eljárást befejező elsőfokú érdemi határozat elleni fellebbezés benyújtása esetén a fellebbezés benyújtásáig,
+
+ab) az eljárás félbeszakadása esetén az eljárás félbeszakadását megállapító végzés jogerőre emelkedéséig, valamint
+
+b) határon átnyúló tartási ügyekben a végrehajtás elrendelése esetén a végrehajtás elrendeléséig
+
+képviselő pártfogó ügyvéd az addig végzett pártfogó ügyvédi tevékenységéért kérelmére a pártfogó ügyvédi díj eljárási előlegére (a továbbiakban: eljárási előleg) jogosult.
+
+(4)[^25] A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg
+
+a) a (3) bekezdés a) pont aa) alpontja esetén a fellebbezés benyújtását igazoló okiratot,
+
+b) a (3) bekezdés a) pont ab) alpontja esetén az eljárást félbeszakadását megállapító jogerős végzés másolatát,
+
+c) a (3) bekezdés b) pontja esetén a végrehajtás elrendeléséről szóló okiratot
+
+megküldi a jogi segítségnyújtó szolgálatnak.
+
+(5)[^26] A területi hivatal a pártfogó ügyvéd kérelmére határozatban állapítja meg az eljárási előleg összegét. Az eljárási előleg megállapítására az (1) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+#### 24. Bírósági értesítés
+
+##### 44. §
+
+A bíróság a támogatás engedélyezése iránti ügyben eljárt területi hivatalnak küldi meg az 1. § 2. pont szerinti értesítést.
+
+#### 25.[^27] Az állam által kifizetendő pártfogó ügyvédi díj és az eljárási előleg megállapítása
+
+##### 45. §
+
+(1) Ha a Jst. 11/A. §-a szerinti támogatásban részesült felet képviselő pártfogó ügyvéd díjának viselésére az értesítés szerint a fél perbeli ellenfele sem köteles, a támogatás engedélyezése ügyében eljárt területi hivatal – a pártfogó ügyvéd kérelmére – megállapítja a párfogó ügyvéd díját, és a határozatot közli a pártfogó ügyvéddel. Ha az ügyben több pártfogó ügyvéd járt el, díjukat egy határozatban kell megállapítani.
+
+(2) Ha a Jst. 11/B. §-a szerinti támogatásban részesült felet képviselő pártfogó ügyvéd díjának viselésére az értesítés szerint a fél köteles, a területi hivatal az (1) bekezdésben foglaltak szerint jár el azzal, hogy a pártfogó ügyvédi díjat megállapító határozatát a félnek is megküldi.
+
+(3)[^28] A pártfogó ügyvéd díjának és eljárási előlegének megállapítása során a jogi segítségnyújtó szolgálat a díj, illetve az eljárási előleg összegét indokolt esetben mérsékelheti, ha az nem áll arányban a ténylegesen elvégzett ügyvédi tevékenységgel.
+
+#### 26. A pernyertes felet képviselő pártfogó ügyvéd díjának megállapítása
+
+##### 46. §
+
+(1) Ha a Jst. 11/A. §-a szerinti támogatásban részesült felet képviselő pártfogó ügyvéd díjának viselésére az értesítés szerint részben vagy egészben a fél perbeli ellenfele köteles, a támogatás engedélyezése ügyében eljárt területi hivatal a pártfogó ügyvéd kérelmére határozattal állapítja meg a pártfogó ügyvéd díját, és a határozatot a pártfogó ügyvédnek és a perbeli ellenfélnek is megküldi.
+
+(2) Az (1) bekezdésben foglaltak szerint kell eljárni akkor is, ha a pártfogó ügyvéd díjának viselésére az értesítés szerint a fél perbeli ellenfele köteles, és a fél a Jst. 11/B. §-a szerinti támogatásban részesült azzal, hogy ha a pártfogó ügyvédi díj viselésére részben a fél, részben a fél perbeli ellenfele köteles, a határozatot a félnek is meg kell küldeni.
+
+##### 47. §
+
+A területi hivatal a pernyertes felet képviselő pártfogó ügyvéd díját megállapító határozatban
+
+a) megállapítja a pártfogó ügyvédi díjelőleg összegét is,
+
+b) kötelezi a fél perbeli ellenfelét, hogy a döntés véglegessé válását követő harminc napon belül a pártfogó ügyvédi díj díjelőleget meghaladó részét, díjelőleg hiányában a pártfogó ügyvédi díj teljes összegét a pártfogó ügyvéd számára fizesse meg.
+
+#### 27.[^29] A pártfogó ügyvédi díj és az eljárási előleg kifizetése
+
+##### 48. §
+
+(1)[^30] A pártfogó ügyvéd a díját, díjelőlegét, illetve eljárási előlegét megállapító véglegessé vált határozat kézhezvételét követő harminc napon belül köteles az állam által kifizetendő pártfogó ügyvédi díjról (díjelőlegről), illetve eljárási előlegről kiállított számlát a területi hivatalnak megküldeni.
+
+(2)[^31] A számlán fel kell tüntetni a pártfogó ügyvédi díjat, díjelőleget, illetve eljárási előleget megállapító területi hivatalt és a határozat számát.
+
+##### 49. §[^32]
+
+A területi hivatal a pártfogó ügyvéd által kiállított számla kézhezvételét követően intézkedik a pártfogó ügyvédi díj, díjelőleg, illetve eljárási előleg harminc napon belüli kifizetése iránt. Hiányosan vagy pontatlanul benyújtott számla esetén a kifizetésre rendelkezésre álló időtartamot a hiánypótlás teljesítésétől kell számítani.
+
+##### 50. §
+
+(1)[^33] A területi hivatal ellenőrzi a kiállított számlán feltüntetett adatokat. A számlán szereplő összeg elfogadásáról a területi hivatal külön nem dönt, ha az ellenőrzés eredményeként a számla vagy a megkeresés alapján a kifizetés teljesíthető, a területi hivatal a számlát rögzíti a támogatások nyilvántartásába, majd – a számla és az annak kiállítására alapul szolgáló dokumentumokon felül – megküldi a központi hivatalnak a kifizetendő összegre vonatkozó következő adatokat:
+
+a)[^34] a kifizetendő pártfogó ügyvédi díj, díjelőleg, illetve eljárási előleg összegét, ha adóelőleg levonására kerül sor, a levonást követően fennmaradó összeget,
+
+b) a jogosult nevét,
+
+c) a számla sorszámát,
+
+d) a jogosult fizetési számlájának számát, ennek hiányában címét,
+
+e) a támogatás engedélyezése iránti eljárás ügyszámát.
+
+(2) A területi hivatal az (1) bekezdés szerinti adatokat hetente egy alkalommal összevontan küldi meg a központi hivatalnak.
+
+##### 50/A. §[^35]
+
+Ha a jogi segítségnyújtó szolgálat a pártfogó ügyvéd részére eljárási előleget fizetett, a pártfogó ügyvéd az eljárás jogerős befejezését követően a részére megállapított pártfogó ügyvédi díjnak csak az eljárási előlegen felüli részére tarthat igényt.
+
+### XII. Fejezet — A PÁRTFOGÓ ÜGYVÉDI DÍJ VISELÉSE ÉS VISSZATÉRÍTÉSE
+
+#### 28. Általános szabályok
+
+##### 51. §
+
+(1) A területi hivatal a pártfogó ügyvédi díj és díjelőleg visszatérítésére kötelező határozatát a díj pártfogó ügyvéd részére történő kifizetését követően, de legkorábban a pártfogó ügyvédi díjat megállapító határozat véglegessé válását követő negyvenötödik nap után hozza meg.
+
+(2) Ha a területi hivatal azt a felet kötelezi pártfogó ügyvédi díj vagy díjelőleg visszatérítésére, akinek a részére határon átnyúló tartási ügyben a központi hatóság megkeresésére rendeltek ki pártfogó ügyvédet, a visszatérítésre kötelező határozatot és a fizetési felszólítást a központi hatóság részére kell továbbítani, amely gondoskodik a fél részére történő kézbesíttetéséről.
+
+##### 52. §
+
+Ha a fél vagy ellenfele a pártfogó ügyvédi díj valamely hányadának visszatérítésére köteles, vagy az állam viseli annak valamely hányadát, e hányadot összegszerűen, szükség esetén forintra kerekítve kell meghatározni.
+
+##### 53. §
+
+Az engedélyezett támogatásnak a Jst. 56. § (1) bekezdés c) vagy d) pontjában foglaltak szerinti módosítása esetén a pártfogó ügyvéd díjának viselésére a Jst. 11/A. és 11/B. §-ában foglalt rendelkezéseket kell alkalmazni azzal, hogy a módosítás csak a költségmentesség engedélyezését követő időszakra vonatkozóan alkalmazható, a díj ennek megfelelő megosztását pedig időarányosan kell megállapítani.
+
+#### 29. Kötelezés az államot terhelő pártfogó ügyvédi díj és pártfogó ügyvédi díjelőleg visszatérítésére
+
+##### 54. §
+
+A Jst. 11/A. §-a szerinti támogatásban részesült felet a területi hivatal akkor sem kötelezi a helyette, vagy az ugyancsak támogatásban részesült perbeli ellenfele helyett kifizetett, államot terhelő pártfogó ügyvédi díj visszatérítésére, ha az értesítés szerint a fél perbeli ellenfele sem köteles a pártfogó ügyvédi díj viselésére.
+
+##### 55. §
+
+A Jst. 11/B. §-a szerinti támogatásban részesült, az értesítés szerint a pártfogó ügyvédi díj viselésére köteles felet a területi hivatal – a perköltségviselés arányában – kötelezi a helyette, továbbá az ugyancsak támogatásban részesült perbeli ellenfele helyett kifizetett, államot terhelő pártfogó ügyvédi díj legfeljebb egy éven belül történő visszatérítésére.
+
+##### 56. §
+
+(1) A Jst. 11/B. §-ában foglaltak szerinti támogatásban részesülő fél a visszatérítési kötelezettség alóli mentesítésre irányuló kérelmét a díjmegállapító határozat véglegessé válását követő harminc napon belül, az erre a célra rendszeresített nyomtatvány kitöltésével, a kérelem előterjesztésére irányadó általános szabályok megfelelő alkalmazásával terjesztheti elő a területi hivatalnál.
+
+(2) A visszatérítési kötelezettség alóli mentesítésről szóló döntést a területi hivatal a következő szempontok mérlegelésével hozza meg:
+
+a) a fél élethelyzetének kedvezőtlenebbé válása milyen mértékű,
+
+b) a fél élethelyzetének kedvezőtlenebbé válása, a visszatérítési kötelezettség biztosítható határidejére figyelemmel is tartósnak tekinthető-e,
+
+c) a visszatérítendő pártfogó ügyvédi díj összege.
+
+##### 57. §
+
+Ha a felet képviselő pártfogó ügyvéd díjának viselésére az értesítés szerint a perbeli ellenfél köteles, a területi hivatal határozattal kötelezi őt a kifizetett pártfogó ügyvédi díjelőleg visszatérítésére.
+
+##### 58. §
+
+Ha a kifizetett pártfogó ügyvédi díj visszatérítésére más személyt kötelezni nem lehet, azt az állam viseli, ha a kifizetett pártfogó ügyvédi díj egy részének visszatérítésére más személy kötelezhető, csak a visszatérítendő összegen felüli összeget viseli az állam.
+
+#### 30. A visszatérítési kötelezettség bejegyzése a támogatások nyilvántartásába
+
+##### 59. §
+
+(1) Ha a területi hivatal senkit sem kötelez visszatérítésre, a pártfogó ügyvédi díj állam általi viseléséről – az 56. § (2) bekezdésében foglaltak kivételével – határozatot nem kell hozni. Ennek tényét a területi hivatal bejegyzi a támogatások nyilvántartásába.
+
+(2) Ha a perben több fél is részesült támogatásban, a támogatások félre vonatkozó nyilvántartásába annak az összegnek az állam általi viselését kell bejegyezni, amelynek előlegezésére a fél helyett került sor.
+
+##### 60. §
+
+A pártfogó ügyvédi díj visszatérítésének kötelezettségét a területi hivatal bejegyzi a támogatások nyilvántartásába az összegnek, a visszatérítésre kötelező határozat számának, a visszatérítési határidőnek, és ha a visszatérítésre nem a fél köteles, a visszatérítésre köteles személy adatainak feltüntetésével.
+
+##### 61. §
+
+Ha az ügyben a pártfogó ügyvédi díj egy részének visszatérítésére kerül sor, másik részét az állam viseli, ezekről a területi hivatal egy határozatban dönt és mind a díj érintett részének állam általi viselését, mind a visszatérítési kötelezettséget bejegyzi a támogatások nyilvántartásába.
+
+#### 31. Eljárás a támogatás megvonása esetén
+
+##### 62. §
+
+(1) Ha a támogatás megvonására azért kerül sor, mert az engedélyezés feltételei utóbb szűntek meg, a területi hivatal határozatában dönt a támogatás megvonásáról, de nem kötelezi a felet a helyette kifizetett pártfogó ügyvédi díj visszatérítésére.
+
+(2) Ha a támogatás megvonására azért kerül sor, mert az igénybevételének feltételei már a támogatási kérelem előterjesztésekor sem álltak fenn, a területi hivatal a támogatást megvonó határozatban kötelezi a felet a helyette kifizetett pártfogó ügyvédi díj visszatérítésére.
+
+##### 63. §
+
+(1) A támogatást megvonó határozatban a területi hivatal tájékoztatja a felet arról, hogy ha később kerül sor a pártfogó ügyvédi díj kifizetésére, annak visszatérítéséről külön határozatban fog rendelkezni.
+
+(2) A támogatás bírósági eljárás befejezése előtt történő megvonása esetén a pártfogó ügyvéd az államot terhelő pártfogó ügyvédi díjra jogosult. A területi hivatal a támogatás megvonásáról szóló értesítésben felhívja a pártfogó ügyvédet a díjigénye bejelentésére. A díjigény alapján, a bírósági eljárás befejezése előtt megállapított pártfogó ügyvédi díjat annak kifizetését követően a területi hivatal a támogatás-nyilvántartásba bejegyzi, és határozattal kötelezi a felet a visszatérítésére.
+
+#### 32. A támogatás visszatérítése
+
+##### 64. §
+
+A támogatás visszatérítése, visszatérítésének vagy elmaradásának visszaigazolása és behajtása során a 15–17. § rendelkezéseit megfelelően alkalmazni kell.
+
+## ÖTÖDIK RÉSZ — JOGI SEGÍTSÉGNYÚJTÁS BÜNTETŐÜGYBEN
+
+### XIII. Fejezet — A KÉRELEM ELŐTERJESZTÉSE ÉS A TÁMOGATÁS ENGEDÉLYEZÉSE
+
+#### 33. A büntetőeljárásban biztosított támogatások
+
+##### 65. §[^36]
+
+A bíróság, az ügyészség, a nyomozó hatóság, valamint a jogi segítségnyújtó szolgálat a büntetőeljárásban biztosított támogatással (a továbbiakban e részben: támogatás) kapcsolatos ügyben e rendelet szerint jár el.
+
+#### 34. A nyomtatványok használata
+
+##### 66. §
+
+A nyomtatvány kitöltésére megfelelően alkalmazni kell a 3–5. §-ban foglalt rendelkezéseket.
+
+#### 35. A támogatás engedélyezése
+
+##### 67. §
+
+A támogatás engedélyezése során – a Jst.-ben foglalt eltérésekkel – megfelelően alkalmazni kell a IX. Fejezetben foglalt rendelkezéseket.
+
+##### 68. §[^37]
+
+A kiskorú sértett és magánfél részére a pártfogó ügyvédi képviseletet további bizonyítás nélkül – ide nem értve azt, hogy a jogi képviselet költségeit vagy a tényleges jogi képviseletet más állami támogatási rendszerben már megkapta-e – engedélyezni kell.
+
+### XIV. Fejezet — A TÁMOGATÁS IGÉNYBEVÉTELÉVEL KAPCSOLATOS ELJÁRÁS
+
+#### 36. Pártfogó ügyvéd kirendelése
+
+##### 69. §
+
+(1) A pártfogó ügyvéd büntetőeljárásban történő kirendelésére a 38. § rendelkezését ebben az alcímben meghatározott eltérésekkel kell alkalmazni.
+
+(2)[^38] A területi hivatal a kirendelő végzésben az eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, a büntetőeljárás ügyszámát és azt a bűncselekményt is megjelöli, amely miatt a büntetőeljárás folyik.
+
+(3)[^39] A kirendelő végzést a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak is kézbesíteni kell.
+
+##### 70. §[^40]
+
+(1) A területi hivatal pártfogó ügyvédként elsősorban a bíróság, az ügyészség vagy a nyomozó hatóság székhelyén vagy ha ezt a fél körülményei indokolják, a fél lakcímén vagy tényleges tartózkodási helyén működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt rendel ki.
+
+(2) Az (1) bekezdés szerinti jogi segítő hiányában a területi hivatal
+
+a)[^41] a bíróság, az ügyészség vagy a nyomozó hatóság székhelyéhez közeli, azonos vármegyén belüli településen működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt,
+
+b)[^42] kivételesen indokolt esetben a bíróság, az ügyészség vagy a nyomozó hatóság székhelye szerinti vármegyén kívül működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt vagy
+
+c) ha a bíróság, az ügyészség vagy a nyomozó hatóság székhelyéhez legközelebbi jogi segítő is aránytalanul messze működik, a bíróság, az ügyészség vagy a nyomozó hatóság székhelyén működő, az ügyvédi kamara nyilvántartása szerint kirendelhető ügyvédet, ügyvédi irodát
+
+rendel ki.
+
+#### 37. A támogatás megvonása
+
+##### 71. §
+
+(1) A támogatás megvonása esetén az erről szóló véglegessé vált határozatról a területi hivatal haladéktalanul értesíti
+
+a)[^43] az eljáró bíróságot, ügyészséget, nyomozó hatóságot,
+
+b) a fél képviseletét ellátó pártfogó ügyvédet.
+
+(2) A területi hivatal a támogatások nyilvántartásában a támogatás megvonása körében feltünteti
+
+a) a támogatást megvonó hatóságot és határozatának számát,
+
+b) a támogatás megvonásának időpontját,
+
+c) a megvonás visszamenőleges hatályát és azt, ha annak oka valótlan adatok szolgáltatása.
+
+### XV. Fejezet — A PÁRTFOGÓ ÜGYVÉDI DÍJ MEGÁLLAPÍTÁSA, KIFIZETÉSE, VISELÉSE ÉS VISSZATÉRÍTÉSE
+
+#### 38. [^44] A pártfogó ügyvédi díj és az eljárási előleg megállapítása és kifizetése
+
+##### 72. §
+
+A pártfogó ügyvéd jogszabály szerinti, az államot terhelő pártfogó ügyvédi díjra jogosult. Ha a pártfogó ügyvéd díját nem az állam viseli, azt az állam a pártfogó ügyvéd részére megelőlegezi.
+
+##### 73. §[^45]
+
+(1) A pártfogó ügyvéd díjának megállapítására és kifizetésére a polgári perben képviseletet ellátó pártfogó ügyvéd díjának megállapítására és kifizetésére vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy ha a büntetőeljárásban vádemelésre nem kerül sor, akkor a támogatás engedélyezése iránti ügyben eljárt területi hivatal a pártfogó ügyvédi díj viseléséről az ügyészség vagy a nyomozó hatóság eljárást megszüntető vagy az ügyészség feltételes ügyészi felfüggesztésről szóló határozatában foglalt költségviselési rendelkezés alapján határoz.
+
+(2) Ha a büntetőeljárásban vádemelésre nem kerül sor, akkor a pártfogó ügyvéd a pártfogó ügyvédi díj megállapítása iránti kérelmével egyidejűleg megküldi a területi hivatalnak az ügyészség vagy a nyomozó hatóság eljárást megszüntető vagy az ügyészség feltételes ügyészi felfüggesztésről szóló határozatát.
+
+##### 74. §
+
+(1)[^46] Ha a büntetőeljárásban vádemelésre kerül sor, a pártfogó ügyvéd az addig végzett pártfogó ügyvédi tevékenységéért – kérelmére – eljárási előlegre jogosult.
+
+(2)[^47] A felet a büntetőeljárás vádemelésig terjedő szakaszában képviselő pártfogó ügyvéd részére a vádemelést követően előterjesztett kérelmére a jogi segítségnyújtó szolgálat eljárási előleget fizet. A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg a vádiratot is megküldi a jogi segítségnyújtó szolgálatnak.
+
+(3)[^48] Az eljárási előleg megállapítására, mérséklésére és kifizetésére a polgári és közigazgatási ügyben képviseletet ellátó pártfogó ügyvéd eljárási előlegére vonatkozó szabályokat megfelelően alkalmazni kell, azzal, hogy ha a jogi segítségnyújtó szolgálat a pártfogó ügyvéd részére eljárási előleget fizetett, a pártfogó ügyvéd a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését követően a részére megállapított pártfogó ügyvédi díjnak csak az eljárási előlegen felüli részére tarthat igényt.
+
+(4)[^49]
+
+(5)[^50]
+
+#### 39. A pártfogó ügyvédi díj viselése és visszatérítése
+
+##### 76. §
+
+(1) Ha a pártfogó ügyvéd díjának viselésére a terhelt köteles, a területi hivatal határozattal kötelezi a kifizetett pártfogó ügyvédi díj visszatérítésére. A visszatérítésre kötelezésre és a visszatérítési kötelezettségre megfelelően alkalmazni kell az V. Fejezetben foglalt szabályokat.
+
+(2) A bűnügyi költségek körébe tartozó pártfogó ügyvédi díj visszatérítésének elmulasztása esetén a területi hivatal megkeresi a bűnügyi költség behajtására hatáskörrel rendelkező hatóságot.
+
+##### 77. §
+
+(1) Ha a terhelt vagy a büntetőeljárásban részt vevő egyéb személy nem köteles a pártfogó ügyvédi díj viselésére, a területi hivatal – a (2) bekezdésben foglaltak kivételével – a pártfogó ügyvédi díj állam általi viselésének tényét bejegyzi a támogatások nyilvántartásába.
+
+(2)[^52] Pótmagánvádló, illetve magánvádló fellépése esetén, ha a terhelt nem köteles a pótmagánvádlót, illetve a magánvádlót képviselő pártfogó ügyvédi díj viselésére, a területi hivatal a pótmagánvádlót, illetve a magánvádlót határozattal kötelezi a pártfogó ügyvédi díj visszatérítésére.
+
+## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+### XVI. Fejezet — HATÁLYBALÉPÉS, ÁTMENETI RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
+
+#### 40. Hatálybalépés
+
+##### 78. §
+
+Ez a rendelet 2018. január 1. napján lép hatályba.
+
+#### 41. Átmeneti rendelkezések
+
+##### 79. §
+
+(1) E rendeletet a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(2) Az e rendelet hatálybalépésekor folyamatban lévő ügyekben az 1. § 2. pontjában meghatározott értesítésnek a polgári perrendtartásról szóló 1952. évi III. törvény 87. § (2) bekezdésében meghatározott adatokat kell tartalmaznia.
+
+#### 42. Az Európai Unió jogának való megfelelés
+
+##### 80. §
+
+Ez a rendelet
+
+a) a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
+
+b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelvnek,
+
+d)[^53] a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek,
+
+e) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+##### 80/A. §[^54]
+
+Ez a rendelet a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. § 1. pontja a 109/2018. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 109/2018. (VI. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 4. pontja a 35/2024. (II. 29.) Korm. rendelet 326. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 7. pontja a 360/2019. (XII. 30.) Korm. rendelet 183. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 271. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 8. pontja a 35/2024. (II. 29.) Korm. rendelet 326. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 14. pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^8]: A 16. § a 350/2023. (VII. 27.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^10]: A 21. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^11]: A 21. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^12]: A 21. § (4) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § c) pontja szerint módosított szöveg.
+[^13]: A 24. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^14]: A 24. § (5) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 8. §-a iktatta be.
+[^15]: A 26. § (4) bekezdése a 350/2023. (VII. 27.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^16]: A 33. § a) pontja a 764/2021. (XII. 23.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^17]: A 33. § b) pontja a 764/2021. (XII. 23.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^18]: A 33. § c) pontját a 764/2021. (XII. 23.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^19]: A 39. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^20]: A 39. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^21]: A XI. fejezet címe a 347/2020. (VII. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^22]: A 23. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^23]: A 43. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^24]: A 43. § (3) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 764/2021. (XII. 23.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^25]: A 43. § (4) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^26]: A 43. § (5) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^27]: A 25. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^28]: A 45. § (3) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 2. §-ával megállapított, a 350/2023. (VII. 27.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^29]: A 27. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^30]: A 48. § (1) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 5. § d)–e) pontja szerint módosított szöveg.
+[^31]: A 48. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^32]: A 49. § a 347/2020. (VII. 15.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^33]: Az 50. § (1) bekezdés nyitó szövegrésze a 33/2019. (III. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^34]: Az 50. § (1) bekezdés a) pontja a 347/2020. (VII. 15.) Korm. rendelet 5. § h) pontja szerint módosított szöveg.
+[^35]: Az 50/A. §-t a 347/2020. (VII. 15.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 65. § a 109/2018. (VI. 25.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^37]: A 68. § a 109/2018. (VI. 25.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^38]: A 69. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^39]: A 69. § (3) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^40]: A 70. § a 109/2018. (VI. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^41]: A 70. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^42]: A 70. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^43]: A 71. § (1) bekezdés a) pontja a 109/2018. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^44]: A 38. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
+[^45]: A 73. § a 109/2018. (VI. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^46]: A 74. § (1) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^47]: A 74. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^48]: A 74. § (3) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 4. §-ával megállapított, a 764/2021. (XII. 23.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^49]: A 74. § (4) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^50]: A 74. § (5) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^52]: A 77. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^53]: A 80. § d) pontját a 155/2018. (IX. 3.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 388/2025. (XII. 10.) Korm. rendelet 6. §-a iktatta be.
+[^54]: A 80/A. §-t a 764/2021. (XII. 23.) Korm. rendelet 31. §-a iktatta be.

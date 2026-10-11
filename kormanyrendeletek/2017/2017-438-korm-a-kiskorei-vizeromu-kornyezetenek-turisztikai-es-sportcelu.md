@@ -1,0 +1,137 @@
+---
+title: "438/2017. (XII. 22.) Korm. rendelet a Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztését szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "438/2017. (XII. 22.) Korm. rendelet"
+njt_id: "2017-438-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/438"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-22
+in_force_from: 2017-12-23
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-438-20-22"
+retrieved: 2026-10-12
+---
+
+# 438/2017. (XII. 22.) Korm. rendelet a Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztését szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában kapott felhatalmazás alapján,
+
+a 4. § a) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján,
+
+a 4. § b) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában kapott felhatalmazás alapján,
+
+a 4. § c) és d) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+az 5. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés b), h) és k) pontjában kapott felhatalmazás alapján,
+
+a 6. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a külterület Kisköre 0680/5, külterület Abádszalók 0910, külterület Tiszabura 0348 helyrajzi szám alatt nyilvántartott ingatlanokon, illetve az ezen ingatlanokból telekalakítási eljárás jogerős befejezését követően kialakított ingatlanokon megvalósuló, a Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztésével kapcsolatos beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) az útépítési és közmű-csatlakozási munkák érdekében az (1) bekezdés szerinti ingatlanokkal szomszédos ingatlanokat érintik, és
+
+b) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Heves Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+(1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki.
+
+(2)[^2]
+
+## 4. §
+
+A Beruházással összefüggésben
+
+a) a Központi Építészeti-Műszaki Tervtanács véleményét be kell szerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni és
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 5. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentumok egyike sem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 7. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 9. § 2018. január 1-jén lép hatályba.
+
+## 8. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 438/2017. (XII. 22.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:**
+
+1\. Általános építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+4\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+5\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. hírközlési hatósági eljárások,
+
+9\. környezetvédelmi hatósági eljárások,
+
+10\. természetvédelmi hatósági eljárások,
+
+11\. útügyi hatósági eljárások,
+
+12\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. élelmiszerlánc-felügyeleti eljárás,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. területrendezési hatósági eljárások,
+
+20.[^5] iparbiztonsági hatósági eljárások,
+
+21\. rendészeti hatósági eljárások,
+
+22\. erdővédelmi hatósági eljárások,
+
+23\. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24\. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 201. § a)-c) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdését a 9. § hatályon kívül helyezte.
+[^5]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 275. §-a szerint módosított szöveg.

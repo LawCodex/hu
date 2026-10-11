@@ -1,0 +1,2309 @@
+---
+title: "229/2012. (VIII. 28.) Korm. rendelet a nemzeti köznevelésről szóló törvény végrehajtásáról"
+identifier: "229/2012. (VIII. 28.) Korm. rendelet"
+njt_id: "2012-229-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/229"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-08-28
+in_force_from: 2012-09-01
+last_amended: 2026-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-229-20-22"
+retrieved: 2026-10-12
+---
+
+# 229/2012. (VIII. 28.) Korm. rendelet a nemzeti köznevelésről szóló törvény végrehajtásáról
+
+A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés *e), g), h), j), l), o)* és *p)* pontjában kapott felhatalmazás alapján, a – 10. alcím tekintetében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az 51. §, az 52. § és az 56. § a) pontja tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés c) pontjában kapott felhatalmazás alapján, az 55. § és az 57. § tekintetében az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — A KÖZNEVELÉS INFORMÁCIÓS RENDSZERE
+
+### 1. A köznevelés információs rendszerének létrehozása és működtetése
+
+#### 1. §
+
+(1)[^1] A köznevelés információs rendszere (a továbbiakban: KIR) hatósági és szakmai tevékenységeket kiszolgáló, az Oktatási Hivatal (a továbbiakban: Hivatal) által működtetett elektronikus alkalmazások, adatállományok, dokumentációk adatbázisa, valamint országos statisztikai és jogosultság alapú adatszolgáltatási rendszer. A KIR szakmai rendszerekből, azokat kiszolgáló, támogató segédprogramokból és alrendszerekből, továbbá a köznevelésért felelős (a továbbiakban: miniszter) által használt alkalmazásokból épül fel.
+
+(2)[^2] A Hivatal a KIR részeként rendszerként működteti
+
+1.[^3] a köznevelési intézmény, továbbá azok fenntartóinak közérdekű adatait és közérdekből nyilvános adatait (a továbbiakban: intézménytörzs),
+
+2\. a gyermek, a tanuló, az alkalmazott és az óraadó személyes adatait (a továbbiakban: személyi nyilvántartás),
+
+3\. a köznevelési intézmény fenntartásával kapcsolatos pénzügyi és gazdálkodási adatokat,
+
+4\. a hátrányos és a halmozottan hátrányos helyzetű gyermekkel, tanulóval kapcsolatos statisztikai adatokat,
+
+5\. a kötelező köznevelési közfeladatot ellátó köznevelési intézmény körzethatárait,
+
+6.[^4] a köznevelési közfeladat ellátásában részt vevő köznevelési intézményre vonatkozó adatokat,
+
+7\. a köznevelési intézmény információs tájékoztató rendszerét,
+
+8.[^5] a köznevelési intézményt és fenntartóját ellenőrző közigazgatási hatóságok, szervek, ideértve a központi hivatalként működő tankerületi központ köznevelési intézményekre vonatkozó fenntartói ellenőrzését és a Klebelsberg Központ (a továbbiakban: oktatási központ) tankerületi központokra vonatkozó ellenőrzési munkatervét és ellenőrzéseik eredményeit,
+
+9\. a rendkívüli szünet elrendelésével kapcsolatos jelentéseket,
+
+10.[^6] az Országos Statisztikai Adatfelvételi Program keretében a köznevelési intézményektől begyűjtött adatokat (a továbbiakban: OSAP-jelentés),
+
+11\. a középfokú felvételi eljárás lebonyolításához szükséges adatokat, a középfokú iskolák tanulmányi területeit (a továbbiakban: KIFIR),
+
+12\. az érettségi vizsgák lebonyolításához szükséges adatokat, az érettségi vizsgák alapján kiadott bizonyítványok adatait, a tanúsítványok és a törzslapkivonatok adatait,
+
+13\. a köznevelési diákigazolvány és a pedagógusigazolvány igénylési felületét és a köznevelési igazolványok adatainak nyilvántartását,
+
+14\. a tankönyvjegyzékkel és a tankönyvrendeléssel kapcsolatos adatokat,
+
+15\. az adatszolgáltatásra kötelezettekkel történő kommunikációra szolgáló felületet,
+
+16\. a tanulói teljesítménymérések lebonyolításához szükséges adatokat, a tanulók teljesítményével kapcsolatos mérési eredményeket,
+
+17.[^7] a köznevelési intézmény köznevelési feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
+
+18.[^8] az országos szakértői és érettségi vizsgaelnöki névjegyzéket,
+
+19\. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását,
+
+20.[^9] a tankerületi központ keretében működő köznevelési intézmények nyilvántartását,
+
+21.[^10] a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszert a nappali rendszerű oktatást folytató, illetve a felnőttoktatást nappali munkarend szerint folytató nevelési-oktatási intézményektől begyűjtött személyazonosításra alkalmatlan, összesített statisztikai adatok alapján.
+
+(3) A KIR-t úgy kell felépíteni és fejleszteni, hogy
+
+a)[^11] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
+
+b) segítse a hatósági döntéshozatalt, a szakmai feladatok ellátását, az ágazati és a fenntartói tervezés feladatait,
+
+c)[^12] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
+
+d) a begyűjtött és tárolt adatokból különböző lekérdezésekkel összehasonlító elemzéseket lehessen készíteni,
+
+e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott statisztikai adatszolgáltatási kötelezettségek teljesíthetők legyenek.
+
+(4) A KIR adatbázisában tárolt valamennyi adat statisztikai célra feldolgozható, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadható. Az adatkérés módját, a közérdekű adatokat a KIR honlapján közzé kell tenni. A statisztikai céllal készült adatok a KIR honlapján megjeleníthetők.
+
+(5)[^13] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
+
+### 2. A KIR részére történő adatszolgáltatás módjai
+
+#### 2. §[^14]
+
+Az adatokat és az okiratokat a fenntartó vagy a köznevelési intézmény képviseletére jogosult személy, a közigazgatási szerv képviselője és a jegyző (a továbbiakban együtt: adatszolgáltató) a Hivatal honlapján keresztül elérhető KIR szakrendszerekbe, a biztosított jogosultság alapján a webes alapú rendszerbe történő bejelentkezést követően elektronikusan küldi meg. Az adatokat az adott szakrendszer által elvárt szerkezetben és tartalommal kell rögzíteni.
+
+#### 3. §
+
+(1)[^15] A Hivatal – a fenntartó kérelmére – a KIR valamennyi rendszere tekintetében abban az esetben engedélyezheti a kizárólagosan papír alapú adatküldést, ha az internet-hozzáférés sem a fenntartó, sem a köznevelési intézmény székhelye szerinti településen nem biztosított.
+
+(2) Papír alapú adatszolgáltatás esetén fel kell tüntetni az adatszolgáltató fenntartó vagy az adatszolgáltató köznevelési intézmény
+
+a) képviseletére jogosult személy aláírását az aláírási címpéldány alapján és a
+
+b) körbélyegzőjének lenyomatát.
+
+(3) A Hivatal az adatszolgáltatási kötelezettség teljesítéséhez szükséges formanyomtatványokat a papír alapú adatszolgáltatásra vonatkozó engedéllyel együtt küldi meg az adatszolgáltató részére, és egyidejűleg tájékoztatást ad az adatszolgáltatónak az adatszolgáltatási kötelezettségéről és annak határidejéről. A Hivatal az engedély érvényességének ideje alatt megküldi az adatszolgáltatás teljesítéséhez szükséges valamennyi formanyomtatványt.
+
+(4)[^16] Az intézménytörzsbe történő bejelentkezés papír alapon történő teljesítése esetén csatolni kell a fenntartó és a köznevelési intézmény képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát. Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(5) A papír alapú adatküldésre vonatkozó engedély annak visszavonásáig érvényes. A Hivatal a papír alapú adatszolgáltatásra vonatkozó engedélyt évente június és július hónapban felülvizsgálja, amelynek keretében tájékozódik a fenntartó és a köznevelési intézmény székhelye szerinti település internet-lefedettségéről, és beszerzi a fenntartó erre vonatkozó nyilatkozatát.
+
+#### 3/A. §[^17]
+
+A KIR-ből adatok, elemzések – a jogszabályban megállapított állami feladat ellátásához szükséges adatokat kivéve – az adatok előállításával és közlésével kapcsolatban felmerült, a Hivatalnak megtérített költségek befizetése esetén kérhetők. A KIR teljes működési és üzemeltetési költségét a Hivatalnak elkülönítetten kell nyilvántartani. A Hivatal nyilvántartása elkülönítetten tartalmazza a KIR működtetésével, üzemeltetésével összefüggő személyi és dologi költségeket, valamint az egyéb működési célú kiadásokat.
+
+### 3. Az intézménytörzs
+
+#### 4. §
+
+(1) Az intézménytörzs tartalmazza
+
+1\. a köznevelési intézmény hivatalos nevét, a tagintézmény hivatalos nevét,
+
+2.[^18] a köznevelési intézmény székhelyét és a köznevelési alapfeladatot ellátó telephelyeit,
+
+3.[^19] a köznevelési intézmény székhelyén az igazgató, telephelyen működő tagintézmény esetén a tagintézmény igazgatójának nevét, elérhetőségeit,
+
+4.[^20] feladatellátási helyenként – az oktatás munkarendje szerinti bontásban – a köznevelési és egyéb alapfeladatokat, az alapfokú művészetoktatás esetén a művészeti ágat, a tanszakok nevét, az évfolyamok számát,
+
+5.[^21] nevelési-oktatási intézmény esetén feladatellátási helyenként az óvodai csoportszobák, kollégiumi háló és tantermek, a férőhelyek maximális számát, közismereti képzést nyújtó és a gyakorlati képzésben részt vevő iskola esetén a tantermek számát, a nappali rendszerben és a gyakorlati képzésben felvehető legmagasabb tanulólétszámot,
+
+6\. azt, hogy mely telephelyen működik tagintézmény,
+
+7.[^22] feladatellátási helyenként a tornaterem, uszoda, konyha, iskolai könyvtár, természetlabor, tanműhely, sportpálya meglétét,
+
+8\. az alapító nevét, székhelyét, típusát,
+
+9\. a fenntartó telefonszámát, e-mail címét, faxszámát (a továbbiakban együtt: elérhetőség), nevét, székhelyét, típusát, adószámát, KSH statisztikai számjelét, valamint a fenntartó képviseletére jogosult nevét és beosztását,
+
+10.[^23] feladatellátási helyenként a köznevelésialapfeladat-ellátásba bevont épület működtetőjének nevét, székhelyét, típusát, adószámát, KSH statisztikai számjelét, elérhetőségeit, valamint a működtető képviseletére jogosult nevét és beosztását,
+
+11\. a köznevelési intézmény honlapjának címét, adószámát,
+
+12\. költségvetési szerv esetén a törzskönyvi azonosító számot (PIR szám),
+
+13\. az alapító okirat keltét,
+
+14.[^24] a működést megalapozó végleges működési engedélyt, a nyilvántartásba vételről szóló dokumentumot, a működéshez szükséges határozat számát, keltét és az engedélyező hatóság nevét.
+
+15.[^25] a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozat számát és a döntést tartalmazó határozatot.
+
+(2) Az intézménytörzsben a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 21. § (1) bekezdése szerinti nyilvántartásból átvett adatokat és okiratokat változatlan tartalommal kell nyilvántartani.
+
+#### 5. §
+
+(1)[^26] Az intézménytörzsben a köznevelési intézmény hat számjegyből álló OM azonosítóval szerepel, mely adat tekintetében a nyilvántartás közhitelesnek minősül.
+
+(2) A köznevelési intézménynek egy OM azonosítója lehet.
+
+(3) A köznevelési intézmény OM azonosítója, hivatalos neve, címe, a képviselőjének neve és elérhetőségei a KIR honlapjáról bárki számára térítésmentesen hozzáférhető.
+
+(4)[^27] Az intézménytörzsben az (1) bekezdés szerinti OM azonosítóval szerepel a szünetelő köznevelési intézmény, a szünetelő, a megszűnt köznevelési alapfeladat, a szünetelő, a megszűnt feladatellátási hely, továbbá a megszűnés ideje, a szünetelés időtartama, valamint a változással kapcsolatban a hatálybalépés, a változás jogcíme.
+
+(5)[^28] Ha a köznevelési intézmény megszűnt, a Hivatal intézkedik arról, hogy az intézménytörzsből való törléssel egyidejűleg törlésre kerüljön a KIR honlapján keresztül nyilvánosan elérhető rendszerekből a megszűnt köznevelési intézmény valamennyi adata.
+
+#### 6. §
+
+(1) A Hivatal minden év október 31-ig az intézménytörzs adatai alapján a KIR honlapján táblázatos formában közzéteszi a köznevelési intézmények hivatalos jegyzékét.
+
+(2)[^29] A köznevelési intézmények hivatalos jegyzéke vármegyei bontásban tartalmazza a megszűnt, szünetelő és működő köznevelési intézmények
+
+a) nevét, székhelyét, OM azonosítóját,
+
+b) fenntartójának nevét, székhelyét, képviselőjét, a fenntartó típusát,
+
+c) a jegyzék közzétételekor működő
+
+ca) köznevelési intézmény és fenntartó valamennyi elérhetőségét,
+
+cb)[^30] köznevelési intézmény esetén feladatellátási helyenként az ellátott köznevelési alapfeladatokat,
+
+cc) tagintézmény címét és képviselőjét,
+
+cd) köznevelési intézmény képviselőjének nevét.
+
+### 4. Bejelentkezés a KIR-be, az OM azonosító igénylése, a változás-bejelentés
+
+#### 7. §
+
+(1) Az újonnan létesített köznevelési intézmény számára az OM azonosító kiadását, ha a köznevelési intézmény
+
+a)[^31] működéséhez engedély szükséges, az illetékes kormányhivatal,
+
+b) törzskönyvi nyilvántartásba vétellel kezdheti meg a működését, a Magyar Államkincstár (a továbbiakban: kincstár),
+
+c) nemzetközi, külföldi nevelési-oktatási intézmény vagy a miniszter egyedi engedélyével rendelkezik, a miniszter
+
+a KIR-en keresztül kezdeményezi.
+
+(2)[^32] A tankerületi központ által fenntartott köznevelési intézmény OM azonosítójának kiadása iránt a Hivatal – a köznevelési intézmény alapító okiratának kézhezvételét követő tizenöt napon belül – intézkedik.
+
+(3)[^33] Az illetékes kormányhivatal és a miniszter a köznevelési intézmény működési engedélyét a véglegessé válását követő öt napon belül küldi meg a Hivatal számára, egyúttal csatolja
+
+a) a köznevelési intézmény
+
+aa)[^34] végleges nyilvántartásba vételéről szóló határozatot, költségvetési szerv esetén a törzskönyvi bejegyzésről szóló törzskönyvi igazolást,
+
+ab) egységes szerkezetű alapító okiratát,
+
+ac)[^35] nem köznevelési alapfeladatát engedélyező végleges működési engedélyét,
+
+b) a fenntartónak a köznevelési intézmény alapítására, fenntartására jogosító okiratait, ha a fenntartó e tevékenységet nem jogszabály felhatalmazása alapján látja el.
+
+(4) A kincstár a köznevelési intézmény egységes szerkezetű alapító okiratát a nyilvántartásba vételt követő öt napon belül juttatja el a KIR részére.
+
+#### 8. §
+
+(1)[^36] Az új fenntartó a köznevelési intézmény működéséhez szükséges engedély véglegessé válását követő öt napon belül a KIR honlapján keresztül megadja a fenntartó hivatalos nevét, adószámát, KSH statisztikai számjelét, székhelyét, képviseletére jogosult személy nevét, beosztását, elérhetőségeit, az új köznevelési intézmény hivatalos nevét és székhelyét, elérhetőségeit. A fenntartó ezzel az adatszolgáltatással tesz eleget az Nkt.-ban előírt, a KIR-be történő bejelentkezési kötelezettségének.
+
+(2) Ha a fenntartó az (1) bekezdés szerinti kötelezettségének nem tesz eleget, a Hivatal a 7. § (3) és (4) bekezdése szerinti adatok és okiratok közlését követő öt napon belül felhívja a fenntartó képviselőjét, hogy a KIR honlapján keresztül, az ott meghatározott módon adja meg a fenntartó, valamint a köznevelési intézmény közérdekű és közérdekből nyilvános, de még nem közölt adatait. A köznevelési intézmény adatait a fenntartó helyett a köznevelési intézmény képviseletére jogosult személy is megküldheti. A fenntartó ezzel az adatszolgáltatással tesz eleget az Nkt.-ban előírt, a KIR-be történő bejelentkezési kötelezettségének.
+
+#### 8/A. §[^37]
+
+(1)[^38] Ha a tankerületi központ az Nkt. 21. § (2) bekezdése alapján nyilvántartásba vétel céljából megküldi a Hivatal számára a köznevelési intézményének alapító okiratát, a Hivatal – figyelemmel a 4. § (1) bekezdésben foglaltakra – megkeresi a köznevelési intézményt, illetve a köznevelési intézmény székhelye szerint illetékes tankerületet közérdekű és közérdekből nyilvános, de még nem ismert adataik közlése céljából.
+
+(2) Változás-bejelentéskor az (1) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a fenntartó a köznevelési intézmény módosított alapító okiratát és a bejelentés okát tartalmazó döntést küldi meg.
+
+(3)[^39] A tankerületi központ alapító okiratát – beleértve annak módosítását is – a kincstár küldi meg a Hivatalnak.
+
+#### 9. §
+
+(1) A KIR-be szolgáltatott adatokat és a 7. § (3) és (4) bekezdése szerinti okiratokat a Hivatal megvizsgálja, és ha a bejelentés formai szempontból megfelel az e rendeletben foglaltaknak, a köznevelési intézménynek és fenntartójának adatait az azok közlésétől számított nyolc napon belül a KIR honlapján hozzáférhetővé teszi.
+
+(2) A Hivatal a KIR-ben nyilvántartott okiratok alapján és a köznevelési intézmény vagy fenntartójának tájékoztatása mellett jogosult a köznevelési intézmény vagy fenntartója által közölt adatok helyesbítésére.
+
+(3)[^40] A Hivatal a kiadott OM azonosítót megküldi a köznevelési intézménynek és fenntartójának, az illetékes kormányhivatalnak és a kincstárnak.
+
+#### 10. §
+
+(1) A fenntartó vagy annak megbízásából a köznevelési intézmény képviselője a szünetelést elrendelő fenntartói döntés kézhezvételétől számított öt napon belül köteles a KIR-en keresztül bejelenteni a köznevelési intézmény működésének szüneteltetését.
+
+(2) A Hivatal az október 1-jei OSAP-jelentés alapján hivatalból határoz a köznevelési intézmény szüneteléséről.
+
+(3) Ha a köznevelési intézmény az (1) bekezdés szerinti szünetelést követően a bejelentést követő nevelési évben vagy tanévben folytatja működését, a köznevelési intézmény képviselője legkésőbb augusztus 25-ig köteles a Hivataltól az OM azonosító visszaállítását kérni.
+
+#### 11. §
+
+A 7. § és a 9. § rendelkezéseit a változás-bejelentéssel kapcsolatos eljárás során is alkalmazni kell.
+
+### 5. Az adatszolgáltatási kötelezettség a köznevelési intézmény átszervezése, átalakulása, megszűnése és más változás esetén
+
+#### 12. §
+
+(1) A köznevelési intézmény megszüntetésekor, átszervezésekor, nevének megváltoztatásakor, átalakításakor, a fenntartói jog átadásakor, a fenntartó átalakulásakor (a továbbiakban együtt: változás) az OM azonosítóval kapcsolatban a Hivatal a következők szerint jár el:
+
+a) ha a fenntartó a köznevelési intézményt jogutód nélkül szüntette meg vagy az beolvadt egy másik köznevelési intézménybe, a Hivatal az OM azonosítót bevonja,
+
+b)[^41] a köznevelési intézmény szétválása a kiadott OM azonosító érvényességét nem érinti, a Hivatal új OM azonosítót kizárólag abban az esetben állít ki, ha a jogelőd köznevelési intézmény mellett a kiváló köznevelési intézmény vagy a különváló köznevelési intézmény is ellát köznevelési alapfeladatot,
+
+c) a Hivatal két vagy több köznevelési intézmény összeolvadásakor a jogutód köznevelési intézményt a jogutód köznevelési intézmény székhelye szerinti jogelőd köznevelési intézmény OM azonosítóján tartja nyilván, az összeolvadással érintett további köznevelési intézmény vagy köznevelési intézmények OM azonosítóját bevonja,
+
+d) az *a)–c)* pontban nem szabályozott egyéb változás a köznevelési intézmény kiadott OM azonosítójának érvényességét nem érinti.
+
+(2) A Hivatal az OM azonosító bevonásáról haladéktalanul értesíti a kincstárt és a minisztert. Bevont OM azonosító ismételten nem adható ki.
+
+(3) A Hivatal az OM azonosítót – legfeljebb egy nevelési évre, tanévre – visszavonja, ha
+
+a) az OM azonosítóval rendelkező köznevelési intézmény jogutóddal vagy anélkül megszűnt, de ennek bizonyítása az e rendeletben előírtak szerint nem történt meg,
+
+b) az OSAP-jelentés vagy a 10. § (1) bekezdése szerinti bejelentés alapján a köznevelési intézmény működése szünetel.
+
+(4)[^42] Az OM azonosító visszavonásáról – a döntés véglegessé válását követő öt napon belül – a Hivatal értesíti az illetékes kormányhivatalt, a kincstárt és a minisztert. Ha az e rendeletben előírt módon az adatszolgáltatás megtörtént, a Hivatal az (1) bekezdésben és a 13. § (3) bekezdésében meghatározottak szerint jár el, és értesíti az e bekezdésben felsorolt szerveket az OM azonosító visszaállításáról vagy bevonásáról.
+
+#### 13. §
+
+(1) A köznevelési intézményt az intézménytörzsből a Hivatal
+
+a) költségvetési szerv esetén a megszüntető okirat és a törzskönyvi nyilvántartásból való törlésről szóló határozat,
+
+b)[^43] nem költségvetési szerv esetén a nyilvántartásból való törlésről szóló végleges határozat, vagy
+
+c)[^44] a működési engedély visszavonásáról szóló végleges határozat
+
+alapján törli.
+
+(2) A köznevelési intézmény törlését
+
+a) a kincstár az (1) bekezdés a) vagy c) pontjában meghatározott okirat,
+
+b)[^45] az illetékes kormányhivatal az (1) bekezdés b) vagy c) pontjában meghatározott okirat,
+
+c)[^46] a miniszter az (1) bekezdés b) vagy c) pontjában meghatározott okirat
+
+megküldésével – a döntés jogerőre emelkedését követő öt napon belül – kezdeményezi.
+
+(3) A köznevelési intézmény megszűnésekor, átalakításakor, megszűnés nélküli, több köznevelési intézményt érintő átszervezésekor a Hivatal az átalakítással, megszüntetéssel, átszervezéssel érintett, egymással összefüggő ügyeket együtt kezeli.
+
+### 6. Az oktatási azonosító szám igénylése, kiadása és a változás-bejelentés
+
+#### 14. §
+
+(1)[^47] A köznevelési intézmény képviselője a KIR honlapján keresztül az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1. melléklet I. és II. alcímében meghatározott adatok megküldésével a gyermek, a tanuló, az óraadó, a pedagógus-munkakörben, a pedagógiai előadói és a pedagógiai szakértői munkakörben, valamint a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott részére a jogviszony létesítésének napját követő öt napon belül tizenegy jegyű azonosító szám (a továbbiakban: oktatási azonosító szám) kiadását kezdeményezi. A pedagógiai szakszolgálat képviselője azon pedagógiai szakszolgálati ellátásban részesülő személy részére is kezdeményezi oktatási azonosító szám kiadását a KIR honlapján keresztül az Onytv. 2. melléklet 1. pontjában meghatározott adatok megküldésével, aki nem áll jogviszonyban nevelési-oktatási intézménnyel és nincs oktatási azonosító száma.
+
+(2) A Hivatal az igénylés befogadása napjától számított tizenöt napon belül adja ki az oktatási azonosító számot, amelyet a kiadással egyidejűleg a KIR zárt rendszerén keresztül a köznevelési intézmény számára elérhetővé tesz. A köznevelési intézmény képviselője gondoskodik arról, hogy az érintett megismerje a részére kiadott oktatási azonosító számot.
+
+(3) Az oktatási azonosító szám a KIR-ben való megjelenésének időpontjától kezdve kezelhető és használható fel.
+
+(4) Ha az érintett tájékoztatást kér az oktatási azonosító számáról és a KIR-ben róla nyilvántartott adatokról, a köznevelési intézmény képviselője a kérelem napján, térítésmentesen a KIR-ből nyomtatható tájékoztatást állít ki. A Hivatal az oktatási azonosító szám kiadásával egyidejűleg a KIR-en keresztül biztosítja a tájékoztatás céljául szolgáló formátumhoz való hozzáférést.
+
+(5) A köznevelési intézmény képviselője – az érintett kérelemére – a (4) bekezdés szerint új tájékoztatást állít ki az elveszett, megsemmisült vagy megrongálódott tájékoztatás helyett.
+
+#### 15. §
+
+(1) Ha a köznevelési intézmény olyan gyermekkel, tanulóval, óraadóval vagy a 14. § (1) bekezdésében meghatározott más alkalmazottal létesített jogviszonyt, aki rendelkezik oktatási azonosító számmal, a jogviszony létesítését követő öt napon belül köteles a jogviszony létrejöttét bejelenteni a KIR-en keresztül. A bejelentéskor az érintett részére nem lehet új oktatási azonosító számot kérni és kiadni.
+
+(2) A Hivatal felel azért, hogy a természetes személynek csak egy oktatási azonosító száma legyen.
+
+#### 16. §
+
+A köznevelési intézmény képviselője a KIR-ben az oktatási azonosító számmal kapcsolatosan nyilvántartott adatok változását a változást követő öt napon belül köteles bejelenteni. A 14. § (4) bekezdése szerinti tájékoztatás tartalmát érintő adatváltozás átvezetése után a köznevelési intézmény képviselője az érintettnek a 14. § (4) bekezdése szerinti tájékoztatást a megváltozott adatok alapján állítja ki.
+
+#### 17. §
+
+(1) Ha az oktatási azonosító számmal rendelkező személy jogviszonya megszűnik, a köznevelési intézmény képviselője a jogviszony megszűnését – a megszűnés időpontjától számított – öt napon belül jelenti be a KIR-en keresztül.
+
+(2) Ha a gyermek, tanuló jogviszonya a nevelési-oktatási intézménnyel megszűnik, a nevelési-oktatási intézmény képviselője statisztikai céllal közli a KIR-en keresztül, hogy a jogviszony milyen jogcím alapján szűnt meg, továbbá tanuló esetén közli, hogy az érintett az adott köznevelési alapfeladatban szerzett-e iskolai végzettséget, szakképesítést, valamint – iskolai végzettség hiányában – hány évfolyamot végzett el.
+
+#### 18. §[^48]
+
+A 14–17. § alkalmazásában tanulói jogviszonyon érteni kell az egyéni munkarenddel rendelkező tanulói, a vendégtanulói jogviszonyt, az externátusi, kollégiumi tagsági jogviszonyt, továbbá a fejlesztő felkészítésben, a fejlesztő nevelés-oktatásban való részvételt is.
+
+### 7. A köznevelési intézmények fenntartásával kapcsolatos pénzügyi és gazdasági adatok nyilvántartása
+
+#### 19. §
+
+(1)[^49] A fenntartó minden év április 1. és május 31. között a KIR honlapján keresztül köznevelési intézményenként és feladatonként az adatszolgáltatás évét megelőző naptári évről statisztikai célra a 20. § szerinti közérdekű pénzügyi és gazdálkodási adatokat közöl.
+
+(2) A megszűnt köznevelési intézményről a fenntartó az OM azonosító bevonása előtt közli az (1) bekezdés szerinti adatokat. Ha a fenntartó az általa fenntartott köznevelési intézményt megszünteti vagy fenntartói tevékenységével felhagy, a köznevelési intézmény megszüntetését vagy a fenntartói tevékenység megszűnését követő tizenöt napon belül pénzügyi záró statisztikát szolgáltat. Ha a fenntartó e kötelezettségének nem tesz eleget, az adatszolgáltatási kötelezettségének teljesítésére a Hivatal felhívja a fenntartót.
+
+(3) Fenntartói jog év közbeni átadása esetén az új fenntartó külön megállapodás alapján átveheti a korábbi fenntartó (1) bekezdés szerinti adatszolgáltatási kötelezettségét.
+
+#### 20. §
+
+(1) Az adatszolgáltatás évét megelőző naptári évről a fenntartó köznevelési intézményenként rögzíti a február 1-jei és az október 1-jei állapot szerint
+
+a) az engedélyezett álláshelyek számát,
+
+b) a szeptemberi tanévkezdéskor szakmai alapfeladatokra számított folyó kiadások alapján az egy tanulóra jutó térítési díj és tandíj összegét,
+
+c) köznevelési intézményenkénti és feladatok szerinti bontásban a fenntartási kifizetések (kiadások, költségek, ráfordítások) és bevételek összegét,
+
+d) a gazdasági feladatok ellátásának módját.
+
+(2) A teljes fenntartási költségen belül feladatonként kell rögzíteni a bevételek közül
+
+a) az állami támogatás, költségvetési hozzájárulás összegét, állami támogatási típusok szerint,
+
+b) a gyermek, tanuló által igénybe vett szolgáltatások után befizetett összegeket, ebből
+
+ba) a térítési díj,
+
+bb) a tandíj,
+
+bc) az étkezési díj,
+
+bd) az egyéb befizetések
+
+összegét,
+
+c) az *a)* és *b)* pont alá nem tartozó fenntartói hozzájárulások összegét,
+
+d) a köznevelési intézmény más saját bevételének összegét.
+
+(3) A teljes fenntartási kifizetésen belül feladatonként kell rögzíteni
+
+a) a személyi jellegű kifizetéseket:
+
+aa) bérköltséget, ebből pedagógus-, nevelő-oktató munkát közvetlenül segítő-, pedagógiai előadó-, pedagógiai szakértő-munkakört, gazdasági, ügyviteli, műszaki, kisegítő munkakört betöltőkre vonatkozó kifizetéseket,
+
+ab)[^50] munkaadókat terhelő járulékokat, ebből a pedagógusokra, valamint a szociális hozzájárulási adóra vonatkozó kifizetéseket,
+
+ac) személyi jellegű egyéb kifizetéseket, ebből a pedagógusokra vonatkozó kifizetéseket,
+
+ad) egyéb, különösen az adatszolgáltatás évét megelőző naptári évben létszámcsökkenést kimondó fenntartói döntésekkel kapcsolatos kifizetéseket,
+
+b) az óraadó tanárok számára történő kifizetéseket,
+
+c)[^51] a dologi, anyagi jellegű kifizetéseket, felújításokat, beruházásokat, a köznevelésialapfeladat-ellátást szolgáló épület karbantartásával kapcsolatos kiadásokat,
+
+d) az étkezésre, a könyvtári állomány gyarapítására, a tartós tankönyvek beszerzésére fordított kifizetéseket.
+
+(4) A dologi, anyagi jellegű kifizetéseken belül külön ki kell mutatni a közneveléssel összefüggő szakmai célú eszközbeszerzéseket, a tanügyi nyilvántartásokkal, a nyomtatványokkal, az intézményi adminisztrációs feladatokkal kapcsolatos kifizetéseket.
+
+(5) A KIR-ben nyilván kell tartani a feladatellátást szolgáló ingatlan tulajdoni jogviszonyát, a használat jogcímét, idejét és egyéb köznevelési jellemzőjét. A köznevelési közfeladat-ellátás céljait szolgáló ingatlant működtető a fenntartó útján közli az (3) bekezdés c) pontjára figyelemmel az ingatlan működtetésével kapcsolatos költségeit.
+
+(6) A nyilvántartást úgy kell felépíteni, hogy az alkalmas legyen a korábban gyűjtött adatok tárolására, összehasonlító elemzések készítésére, valamint a fenntartó által megadott adatok alapján megállapítható legyen az egy gyermekre, tanulóra jutó állami támogatás összege, továbbá az, hogy az egyes köznevelési intézmények feladatainak ellátásához igénybe vett állami támogatás intézményegységenként a teljes intézményi költségvetés hány százalékát fedezte.
+
+### 8. [^52] Az esélyegyenlőségi intézkedési terv
+
+#### 21. §
+
+(1)[^53] A tankerületi központ a települési önkormányzat – az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény alapján elkészített – helyi esélyegyenlőségi programját is figyelembe véve megalkotja a tankerületi szintű esélyegyenlőségi intézkedési tervet az állami köznevelésialapfeladat-ellátás vonatkozásában, melyet megküld az oktatási központnak.
+
+(2)[^54] Ha a tankerületi központ a települési önkormányzat esélyegyenlőségi programjának módosításáról kap tájékoztatást, az (1) bekezdés szerinti esélyegyenlőségi intézkedési tervét harminc napon belül – de tájékoztatás hiányában is legalább háromévente – felülvizsgálja. Ha a tankerületi központ a felülvizsgálat alapján az intézkedési tervét módosította, a módosított intézkedési tervét tizenöt napon belül megküldi a települési önkormányzatnak, az oktatási központnak.
+
+### 9. A köznevelési közszolgálati feladatok megvalósításában részt vevő köznevelési intézmények körzethatárait tartalmazó nyilvántartás
+
+#### 22. §
+
+(1)[^55] Az illetékes tankerületi központ a köznevelési intézmény körzethatárai, a települési önkormányzat vagy az önkormányzati társulás székhelye szerinti település jegyzője az óvodai felvételi körzethatárok megállapításáról vagy megváltoztatásáról szóló döntést követő tizenöt napon belül a körzethatárokat tartalmazó döntést megküldi a KIR-be, és megadja a következő adatokat:
+
+a) a tankerületi központ vagy polgármesteri hivatal nevét, irányítószámát, a település nevét és a közterület címét,
+
+b) a beküldő felelős személy nevét, beosztását, elérhetőségeit.
+
+(2) A körzethatárokkal kapcsolatban a Hivatal a KIR honlapján közzéteszi
+
+a) az intézménytörzsből átvett és az adatszolgáltató által kijelölt köznevelési intézményi adatokat,
+
+b) a körzethatárokat megállapító döntést tartalmazó határozatot vagy jegyzőkönyvi kivonatot, annak számát, az elfogadás idejét,
+
+c) az adott köznevelési intézmény működési körzetét településenként, településrészenként, a közterület címével,
+
+d)[^56] a pedagógiai szakszolgálat feladattípus szerinti, vármegyei, települési körzethatárait,
+
+e) iskola és óvoda esetén a hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekekkel és tanulókkal összefüggő statisztikai adatokat,
+
+ea) a településen élő összes hátrányos helyzetű és halmozottan hátrányos helyzetű gyermek, tanuló létszámát, külön nyilvántartva az óvodával jogviszonyban álló gyermekek, az alapfokú és középfokú iskolával tanulói jogviszonyban álló tanulók létszámát,
+
+eb)[^57] az óvoda és az iskola felvételi körzetében élő hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekek és tanköteles tanulók létszámát, feladatellátási helyenként,
+
+f)[^58]
+
+(3)[^59] Az illetékes tankerületi központ és a jegyző az (1) és (2) bekezdés alapján megküldött adatokban bekövetkezett változást a változást követő tizenöt napon belül jelenti be.
+
+(4) A Hivatal a KIR honlapján mindenki számára térítésmentes hozzáférést biztosít az (1)–(3) bekezdés szerinti adatokhoz.
+
+### 10. A tájékoztató rendszer és a köznevelési intézmények közzétételi listája
+
+#### 23. §
+
+(1) A nevelési-oktatási intézményi közzétételi lista
+
+a) a felvételi lehetőségről szóló tájékoztatót,
+
+b) a beiratkozásra meghatározott időt, a fenntartó által engedélyezett osztályok, csoportok számát,
+
+c)[^60] köznevelési alapfeladatot ellátó intézményegységenként a térítési díj, a tandíj, egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) jogcímét és mértékét, továbbá tanévenként, nevelési évenként az egy főre megállapított díjak mértéket, a fenntartó által adható kedvezményeket, beleértve a jogosultsági és igénylési feltételeket is,
+
+d) a fenntartó nevelési-oktatási intézmény munkájával összefüggő értékelésének nyilvános megállapításait és idejét, a köznevelési alapfeladattal kapcsolatos – nyilvános megállapításokat tartalmazó – vizsgálatok, ellenőrzések felsorolását, idejét, az Állami Számvevőszék ellenőrzéseinek nyilvános megállapításait, egyéb ellenőrzések, vizsgálatok nyilvános megállapításait,
+
+e) a nevelési-oktatási intézmény nyitva tartásának rendjét, éves munkaterv alapján a nevelési évben, tanévben tervezett jelentősebb rendezvények, események időpontjait,
+
+f) a pedagógiai-szakmai ellenőrzés megállapításait a személyes adatok védelmére vonatkozó jogszabályok megtartásával,
+
+g) a szervezeti és működési szabályzatot, a házirendet és a pedagógiai programot tartalmazza.
+
+(2) Az óvodai közzétételi lista az (1) bekezdésben meghatározottakon kívül tartalmazza az óvodapedagógusok számát, iskolai végzettségüket, szakképzettségüket, a dajkák számát, a dajkák iskolai végzettségét, szakképzettségét, az óvodai csoportok számát, az egyes csoportokban a gyermekek létszámát.
+
+(3) Az iskolai közzétételi lista az (1) bekezdésben meghatározottakon kívül tartalmazza
+
+a) a betöltött munkakörök alapján a pedagógusok iskolai végzettségét és szakképzettségét,
+
+b) a betöltött munkakörök alapján a nevelő és oktató munkát segítők számát, iskolai végzettségét és szakképzettségét,
+
+c) az országos mérés-értékelés évenkénti eredményeit,
+
+d) a tanulók le- és kimaradásával, évfolyamismétlésével kapcsolatos adatokat,
+
+e) középiskolákban – évenként feltüntetve – az érettségi vizsgák átlageredményeit,
+
+f) a tanórán kívüli egyéb foglalkozások igénybevételének lehetőségét,
+
+g) a hétvégi házi feladatok és az iskolai dolgozatok szabályait,
+
+h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét,
+
+i) az iskolai osztályok számát és az egyes osztályokban a tanulók létszámát.
+
+(4) A kollégiumi közzétételi lista az (1) bekezdésben meghatározottakon kívül tartalmazza
+
+a) a betöltött munkakörök alapján a pedagógusok iskolai végzettségét és szakképzettségét,
+
+b) a szabadidős foglalkozások körét,
+
+c) az externátusi ellátás igénybevételének lehetőségét,
+
+d) a kollégiumi csoportok számát és az egyes csoportokban a tanulói létszámát.
+
+(5) Az alapfokú művészeti iskolai közzétételi lista az (1) bekezdésben meghatározottakon kívül tartalmazza
+
+a) a betöltött munkakörök alapján a pedagógusok iskolai végzettségét és szakképzettségét,
+
+b) a betöltött munkakörök alapján a nevelő és oktató munkát segítők számát, iskolai végzettségét és szakképzettségét,
+
+c) az első minősítés évéhez viszonyítva az előképző, az alapfokú és a továbbképző évfolyamok számát,
+
+d) az országos, nemzetközi és egyéb szakmai bemutatókon, rendezvényeken, versenyeken, fesztiválokon, kiállításokon való részvételt,
+
+e)[^61] a vármegyei, területi szakmai bemutatókon, versenyeken elért eredményeket,
+
+f) az alapfokú művészeti iskola rendezvényeit, hagyományait,
+
+g) a helyi kulturális életben történő szerepvállalást,
+
+h) művészeti áganként a csoportok számát és a csoportok tanulói létszámát.
+
+(6) A pedagógiai-szakmai szolgáltatói és a pedagógiai szakszolgálati közzétételi lista tartalmazza
+
+a) az alapfeladat ellátásához létesített munkaköröket, valamint azt, hogy a munkaköröket milyen iskolai végzettséggel, szakképzettséggel töltötték be,
+
+b) a működés rendjét,
+
+c) a nevelési-oktatási intézményekkel, pedagógiai szakszolgálat esetén a szülőkkel való kapcsolattartás formáját és módját,
+
+d) tanévenkénti bontásban a díjfizetés mellett igénybe vehető szolgáltatásokat, azok díjtételeit.
+
+#### 24. §
+
+(1) A köznevelési intézmény a tájékoztató rendszerben az október 1-jei állapotnak megfelelően közzéteszi a 23. § szerinti adatokat és dokumentumokat. A köznevelési intézmény képviselője a közzétételi lista tartalmát szükség szerint, de legalább nevelési évenként, tanévenként egyszer, az OSAP-jelentés megküldését követő tizenöt napon belül felülvizsgálja. A közzétételi lista kizárólag közérdekű statisztikai adatokat tartalmazhat.
+
+(2)[^62] Ha a közzétételi lista adata az OSAP-jelentésben vagy a KIR más rendszerében szerepel, az adatot a Hivatal az OSAP-jelentésből megismerhető formában és tartalommal teszi közzé.
+
+(3) Az újonnan létrejött köznevelési intézmény képviselője a működés megkezdését követő két hónapon belül, iskola esetében október 31-ig köteles a tájékoztató rendszerbe a közzétételi listát és dokumentumokat megküldeni.
+
+(4) A Hivatal a közzétételi listát – a köznevelési intézmény kérelemére – elektronikus formában átadja a köznevelési intézménynek, az intézmény saját honlapján történő megjelenítése céljából.
+
+### 11. Egyes adatszolgáltatási kötelezettségek teljesítésének rendje
+
+#### 25. §
+
+(1) A fenntartó minden év június 30-ig köznevelési intézményenként tájékoztatást ad arról, hogy
+
+a) munkakör-típusonként hány álláshely létesítésére, megszüntetésére került sor,
+
+b) hány köznevelési intézmény alapításáról, átalakításáról, jogutód nélküli megszűnéséről döntött,
+
+c) hány köznevelési intézmény fenntartói jogát adta át, a köznevelési intézmény fenntartói jogát milyen típusú fenntartónak adta át, és egyúttal közli az átadott intézmény OM azonosítóját is.
+
+(2)[^63] Az illetékes tankerületi központ, a jegyző a rendkívüli szünet elrendelését, az elrendelés okát, a nevelési év, tanév várható kezdésének idejét és a település, településrész nevét az elrendelést követő öt napon belül a KIR-en keresztül közli. Működő nevelési-oktatási intézmény képviselője vagy annak fenntartója minden év augusztus 25. és szeptember 5. között köteles jelezni és egyben indokolni, ha a nevelési-oktatási intézmény a nevelési évet, tanévet nem vagy a tanév rendjéről szóló miniszteri rendeletben előírtaknál később kezdi meg.
+
+(3) A köznevelési intézmény képviselője a köznevelési intézmény október 1-jei állapot szerinti közérdekű adatairól minden év október 15-ig – a KIR-en keresztül és az ott meghatározott formában – statisztikai céllal az OSAP keretében adatokat közöl.
+
+(4)[^64] A jogutóddal megszűnt vagy átalakult köznevelési intézményről a jogutód köznevelési intézmény, a jogutód nélkül megszűnt köznevelési intézményről a volt fenntartó záró statisztikát készít. A köznevelési intézmény képviselője – fenntartójának egyidejű értesítése mellett – október 15. és november 15. között egy alkalommal kérheti a minisztertől az adott tanévi lezárt statisztikájának módosítását.
+
+(5) A Hivatal a KIR-ben tárolt adatok megadásával segíti a köznevelési intézmény (3) és (4) bekezdésben meghatározott kötelezettségének teljesítését.
+
+#### 25/A. §[^65]
+
+Az illetékes járási hivatal az óvodába járni köteles gyermek óvodába járás alóli felmentése tényéről és hatályáról az adatszolgáltatási kötelezettségét tárgyév szeptember 1-jéig teljesíti.
+
+#### 26. §
+
+(1)[^66] A Hivatal a köznevelési intézmény és fenntartója ellenőrzésére jogosult szervek, valamint az oktatási központ és a tankerületi központ által folytatott ellenőrzések dokumentumai számára a KIR honlapján zárt rendszert biztosít annak érdekében, hogy a miniszter koordinálhassa és adatokkal segíthesse a köznevelési intézményeket és a fenntartói tevékenység jogszerűségét ellenőrző hatóságok, szervek munkáját.
+
+(2)[^67] Az ellenőrzésre jogosult hatóság, az oktatási központ, a tankerületi központ
+
+a) a munkaterve alapján az ellenőrzésre kijelölt köznevelési intézmény és fenntartójának nevét, az ellenőrzés idejét, az ellenőrzés típusát, az ellenőrzés jogcímét minden év január 31-ig,
+
+b) az ellenőrzés eredményét az ellenőrzés befejezését követő tizenöt napon belül, és
+
+c) a munkaterven felüli ellenőrzéssel érintett köznevelési intézmény és fenntartójának nevét és az ellenőrzés eredményét minden év november 15-ig
+
+rögzíti a KIR-ben.
+
+(3)[^68] A miniszter az illetékes kormányhivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes kormányhivatalnak az együttes ellenőrzésre.
+
+(4)[^69] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
+
+### 11/A. [^70] A lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer és a rendszerbe történő adatszolgáltatás rendje
+
+#### 26/A. §
+
+(1) A lemorzsolódás megelőzését szolgáló korai jelző- és pedagógiai támogató rendszer (a továbbiakban: támogató rendszer) a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatása céljából a tanulói előrehaladás iskolai szintű nyomon követését szolgáló informatikai rendszer.
+
+(2) A nevelési-oktatási intézmény a lemorzsolódással veszélyeztetett tanulók létszámát a 44/J. §-ban foglalt adatok szerint összesítve, valamint az alkalmazott intézkedéseket feladatellátási helyenként összesített formában, évfolyamonkénti és tantárgyankénti bontásban az adott tanév első félévére vonatkozóan február 10-éig és az adott tanév második félévére vonatkozóan június 30-áig továbbítja a pedagógiai-szakmai szolgáltatást végző Hivatal számára.
+
+(3) A feladatellátási helyi és intézményi szintű összesített adatokat a pedagógiai-szakmai szolgáltatást végző Hivatal a nevelési-oktatási intézmény fenntartója számára is megtekinthetővé teszi, nyomon követi, azok alapján javaslatot tesz a pedagógiai eredményességet javító intézkedésekre és biztosítja a nevelési-oktatási intézmény és fenntartója számára szükséges pedagógiai-szakmai támogatást, valamint március 31-éig, a második félév tekintetében augusztus 10-éig értékeli az intézményi szintű beavatkozások előrehaladását, és arról április 30-áig, illetve a második félév tekintetében augusztus 31-ig tájékoztatja a nevelési-oktatási intézményt és fenntartóját.
+
+(4)[^71] A támogató rendszer segítségével azonosított figyelmeztető jelek alapján és a pedagógiai-szakmai szolgáltatás javaslatainak figyelembevételével a nevelési-oktatási intézmény olyan, az iskolai lemorzsolódás megelőzését támogató pedagógiai rendszerben megvalósuló pedagógiai intézkedéseket alkalmaz, amelyek keretében korszerű, tanulóközpontú nevelési-oktatási eszközökkel, az iskolai sikerességet támogató együttműködésekkel segíti a tanuló előrehaladását, kiemelt figyelemmel a képességek, készségek kibontakoztatására, az esélyteremtést szolgáló tevékenységekre.
+
+(5) A Hivatal október 30-áig tájékoztatást ad a miniszternek a megelőző tanév járási szintű adatainak megoszlásáról, és áttekintést ad az intézményi, valamint a pedagógiai-szakmai szolgáltatás részéről megtett intézkedésekről.
+
+(6)[^72]
+
+### 12. A halmozottan hátrányos helyzet megállapítása, a hátrányos helyzetű és a halmozottan hátrányos helyzetű gyermekek, tanulók létszámával összefüggő adatszolgáltatási kötelezettség
+
+#### 27. §[^73]
+
+(1) A gyermek, a tanuló hátrányos, halmozottan hátrányos helyzete fennállásának megállapítását a szülő, a családbafogadó gyám a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint kérheti.
+
+(2) A nevelési-oktatási intézmény tájékoztatást ad a hátrányos, halmozottan hátrányos helyzetű gyermeket, tanulót a nevelési-oktatási intézménnyel fennálló jogviszonyával összefüggésben megillető kedvezményekről, juttatásokról, pályázati lehetőségekről.
+
+(3)[^74] A nevelési-oktatási intézmény képviselője a felvételi naplóban és az osztálynaplóban feltünteti, hogy a gyermek, a tanuló hátrányos, halmozottan hátrányos helyzetű.
+
+(4) A települési önkormányzat jegyzője által a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendelet alapján a nevelési-oktatási intézmény részére a gyermek, a tanuló hátrányos, halmozottan hátrányos helyzetével összefüggésben megküldött döntésben foglalt adatokat a nevelési-oktatási intézmény az Nkt. 41. § (4) bekezdés d) pont de) alpontja alapján kizárólag
+
+a) az óvodai, iskolai körzethatárok kialakításával,
+
+b) a köznevelést érintő, a hátrányos, halmozottan hátrányos helyzetű tanulók számára működtetett programok megvalósításával,
+
+c) az óvodai, tanulói, kollégiumi jogviszonyhoz kapcsolódó kedvezmények, juttatások folyósításával
+
+összefüggésben használhatja fel.
+
+#### 29. §
+
+(1)[^76] A jegyző összesíti a települési önkormányzat illetékességi területén a hátrányos és a halmozottan hátrányos helyzetű gyermekek és tanulók számát, és az így előálló statisztikai adatokat – a körzethatárok megállapítása, felülvizsgálata érdekében – minden év október 31-ig az illetékes tankerületi központ számára továbbítja.
+
+(2) A jegyző az adott év január 15-én és október 1-jén rendelkezésre álló adatok feldolgozása után minden év január 31-ig és október 31-ig a KIR-be rögzíti a 22. § (2) bekezdés e) pontja szerinti adatokat.
+
+## I/A. Fejezet[^77] — A KÖZNEVELÉSI SZERZŐDÉS TARTALMA, ÉRVÉNYESSÉGI IDEJE ÉS MEGKÖTÉSÉNEK SZABÁLYAI
+
+#### 29/A. §
+
+(1) A köznevelési szerződés tartalmazza:
+
+a) a köznevelési alapfeladatokat,
+
+b) a felvehető, ellátandó gyermekek, tanulók számát,
+
+c) az óvodai nevelési feladatokban, a tankötelezettség teljesítésével és az iskolai neveléssel-oktatással, a pedagógiai szakszolgálatok ellátásával összefüggő feladatokban való részvételt,
+
+d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azokat a szolgáltatásokat, amelyek a megállapodás alapján a gyermekek, tanulók, szülők részére térítésmentessé válnak, továbbá amelyeket térítési díjért vehetnek igénybe,
+
+e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
+
+(2)[^78] A köznevelési szerződés érvényességi ideje legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyv megbízásra vonatkozó rendelkezéseit kell alkalmazni.
+
+(3)[^79]
+
+## II. Fejezet[^80]
+
+## III. Fejezet — A KÖZNEVELÉSI INTÉZMÉNYBEN TÉRÍTÉSMENTESEN, VALAMINT TÉRÍTÉSI DÍJ, TANDÍJ ELLENÉBEN BIZTOSÍTOTT KÖZNEVELÉSI KÖZFELADATOK
+
+### 13. A térítésmentesen biztosított köznevelési közfeladatok köre
+
+#### 33. §
+
+(1)[^81] Az állami szerv, a tankerületi központ, az állami felsőoktatási intézmény, a települési önkormányzat, a nemzetiségi önkormányzat (a települési és a nemzetiség önkormányzat a továbbiakban együtt: önkormányzat) és az önkormányzati társulás által fenntartott köznevelési intézményben térítésmentesen biztosított köznevelési közfeladat:
+
+a) óvodában
+
+aa) az óvodai foglalkozás és a heti kötelező időkeret terhére a beilleszkedési, tanulási és magatartási nehézséggel küzdő, a tartósan beteg és a sajátos nevelési igényű gyermek számára megszervezett felzárkóztató foglalkozás,
+
+ab) a gyermekek – rendeletben meghatározott – egészségfejlesztése, a kötelező rendszeres egészségügyi felügyelet,
+
+ac)[^82] a krízisközpontban, titkos menedékházban, illetve védett szálláshelyen történő elhelyezés időtartamára létesített ideiglenes óvodai jogviszony,
+
+b)[^83] általános iskolában, középiskolában és középfokú iskolában
+
+ba) a tanórai foglalkozás, a heti kötelező időkeret terhére a beilleszkedési, tanulási, magatartási nehézséggel küzdő, a tartósan beteg és a sajátos nevelési igényű gyermek számára megszervezett felzárkóztató foglalkozás,
+
+bb)[^84]
+
+bc) a tanköteles korú tanulót kivéve, ugyanazon évfolyam második és további alkalommal történő megismétlése abban az esetben, ha arra nem azért van szükség, mert a tanuló a tanulmányi követelményeket nem teljesítette,
+
+bd) az osztályok heti időkerete terhére megszervezett kötelező és a nem kötelező egyéb foglalkozás,
+
+be)[^85]
+
+bf) az iskola nyitva tartása és a jogszerű benntartózkodás ideje alatti, valamint az étkezés ideje alatti felügyelet,
+
+bg)[^86]
+
+bh) a tanulmányok alatti vizsga, kivéve a független vizsgát,
+
+bi) a tanulók – rendeletben meghatározott – egészségfejlesztése, a kötelező rendszeres egészségügyi felügyelet,
+
+bj) a közismereti képzés elsajátítására irányuló vagy a tartós gyógykezelés miatt létesített vendégtanulói jogviszony,
+
+bk)[^87] a pedagógiai program végrehajtásához kapcsolódó, a minden tanuló számára előírt tananyag megismerését, feldolgozását, a mindennapi testedzést szolgáló, intézményen kívüli kulturális, művészeti, sport- vagy más foglalkozás, kirándulás, erdei iskola,
+
+bl)[^88] a krízisközpontban, titkos menedékházban, illetve védett szálláshelyen történő elhelyezés időtartamára létesített ideiglenes vendégtanulói jogviszony,
+
+c)[^89] kollégiumban – a (3) bekezdés szerinti kollégiumi tagsági jogviszony keretében –
+
+d) a nevelési-oktatási intézmény létesítményeinek, eszközeinek használata a térítésmentes szolgáltatás igénybevételekor,
+
+e)[^90] sajátos nevelési igényű, beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve tartós gyógykezelés alatt álló gyermek, tanuló esetén az állapotának megfelelő köznevelési intézményi ellátás,
+
+f)[^91] pedagógiai szakszolgálati feladatellátás.
+
+(2)[^92]
+
+(3)[^93] A tanulónak a kollégiumi tagsági jogviszony térítésmentes, ha
+
+a) a tanuló nappali rendszerű iskolai oktatásban vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban vesz részt, mindaddig, amíg számára az iskolai oktatás – jogszabály rendelkezése alapján – ingyenes, vagy
+
+b) a tanuló nem a nappali oktatás munkarendje szerint szervezett felnőttoktatás keretében vesz részt iskolai oktatásban, tizenkilenc éven aluli és az iskolai szolgáltatást – jogszabály rendelkezése alapján – ingyenesen veszi igénybe.
+
+#### 33/A. §[^94]
+
+A köznevelési intézmény fenntartójától függetlenül térítésmentes az érettségi vizsga a tanulói jogviszony ideje alatt az érettségi bizonyítvány megszerzéséig és az adott vizsgatárgyból az érettségi bizonyítvány megszerzése előtti, tanulói jogviszonyban tett sikertelen érettségi vizsga első javító- és pótló vizsgája.
+
+### 14. Térítési díj ellenében igénybe vehető szolgáltatások
+
+#### 34. §
+
+(1)[^95] Az állami szerv, a tankerületi központ, az állami felsőoktatás intézmény, az önkormányzat, az önkormányzati társulás által fenntartott köznevelési intézményekben térítési díj ellenében igénybe vehető szolgáltatások:
+
+a) a 33. §-ban meg nem határozott egyéb foglalkozások,
+
+b) alapfokú művészetoktatásban a heti hat tanórai foglalkozás a főtárgy gyakorlatának és elméletének elsajátításához, valamint tanévenkénti egy meghallgatás és egy művészi előadás, valamint e szolgáltatások körében az iskola létesítményeinek, felszereléseinek használata, továbbá az állami vizsga és a tanulmányok alatti vizsga,
+
+c) a nem tanköteles tanulónak az iskolában a tanulmányi követelmények nem teljesítése miatt az évfolyam második alkalommal történő megismétlésekor a 33. § (1) bekezdés b) és c) pontjában meghatározott köznevelési közfeladatok,
+
+d) a független vizsga,
+
+e) az érettségi bizonyítvány megszerzése vagy a tanulói jogviszony megszűnése után az érettségi vizsga, továbbá az adott vizsgatárgyból a tanulói jogviszony fennállása alatt az érettségi bizonyítvány megszerzése előtti sikertelen érettségi vizsga második vagy további javító- és pótló vizsgája,
+
+f)[^96]
+
+(2)[^97] Az iskolai bizonyítványnyomtatványok – a középfokú felvételi eljáráshoz kapcsolódó bizonyítványmásolatok, másodlatok kivételével – másolatainak, másodlatainak kiadásával összefüggésben nyújtott szolgáltatásokért nyomtatványonként 3000 forint térítési díjat kell megfizetni nem önálló költségvetéssel rendelkező köznevelési intézmény esetén a fenntartó, önálló vagy részben önálló költségvetéssel rendelkező köznevelési intézmény esetén a köznevelési intézmény számára.
+
+(2a)[^98] A digitális bizonyítvány díszpéldányának ugyanazon évfolyamra vonatkozó második másolatáért, valamint iskolatípusonként a díszpéldány tartótokjának második és további darabjaiért 1000-1000 forint térítési díjat kell megfizetni a nem önálló költségvetéssel rendelkező köznevelési intézmény esetén a fenntartó, önálló vagy részben önálló költségvetéssel rendelkező köznevelési intézmény esetén a köznevelési intézmény számára.
+
+(3) Az iskolaszék, az óvodaszék, a kollégiumi szék – annak hiányában a szülői szervezet (közösség) az intézményi tanács és iskolában az iskolai diákönkormányzat véleményének kikérésével – meghatározhatja azt a legmagasabb összeget, amelyet a nevelési-oktatási intézmény által szervezett, nem ingyenes szolgáltatások körébe tartozó program megvalósításánál nem lehet túllépni.
+
+(4)[^99] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai közszolgáltatási feladatellátást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
+
+#### 35. §
+
+(1) Az állami szerv, az állami felsőoktatási intézmény, az önkormányzat és az önkormányzati társulás által fenntartott köznevelési intézményekben a térítési díj összege tanévenként, a tanévkezdéskor a szakmai feladatra számított folyó kiadások egy tanulóra jutó hányadának
+
+a) tizenöt–húsz százaléka a 34. § (1) bekezdés a) pontjában meghatározott esetben,
+
+b)[^100] öt–húsz százaléka a 34. § (1) bekezdés b) és c) pontjában meghatározott esetben tizennyolc éven aluli tanulóknál,
+
+c) tizenöt–negyven százaléka a 34. § (1) bekezdés b) pontjában meghatározott esetben tizennyolc éven felüli, de huszonkettő éven aluli tanulóknál,
+
+d) húsz–negyven százaléka a 34. § (1) bekezdés c) pontjában meghatározott esetben.
+
+(2) Vendégtanulói jogviszony – a 33. § (1) bekezdés b) pont bj) alpontjában foglaltakat kivéve – térítési díj fizetése mellett létesíthető. A vendégtanulói jogviszony esetén a térítési díj mértéke legfeljebb a szakmai feladatra a tanévkezdéskor számított folyó kiadások egy tanulóra jutó hányadának három–harminc százaléka lehet.
+
+(3) A térítési díjat – a fenntartó által meghatározottak szerint – a tanulmányi eredménytől függően csökkenteni kell, azonban egy tanítási évben a térítési díj összege nem lehet kevesebb az (1) bekezdésben meghatározott alsó határértéknél.
+
+(4)[^101] A 33/A. §-ban meghatározott vizsgák körén túl az érettségi vizsga az alábbiak szerint díjköteles:
+
+a) a vizsgázónak a középszintű érettségi vizsgáért – ha a vizsgázó a jelentkezését nem egy adott középiskolába nyújtja be – az adott évre érvényes kötelező legkisebb munkabér (minimálbér) 15%-ának megfelelő,
+
+b) a vizsgázónak az emelt szintű érettségi vizsgáért az adott évre érvényes kötelező legkisebb munkabér (minimálbér) 25%-ának megfelelő,
+
+ezer forintra kerekített összeget kell fizetnie a Hivatal számára.
+
+(5)[^102] Ha a 34. § (1) bekezdés e) pontja szerinti esetben a középszintű érettségi vizsgára jelentkező a vizsgaszervező nevelési-oktatási intézménybe nyújtja be a jelentkezési lapját, a (4) bekezdésben meghatározottakat azzal az eltéréssel kell alkalmazni, hogy a középszintű vizsga térítési díj összegét a jelentkező a vizsgaszervező nevelési-oktatási intézmény számára fizeti meg.
+
+(6)[^103]
+
+(7) A 34. § (1) bekezdés d) pontja szerinti független vizsga díját tantárgyanként kell megállapítani úgy, hogy tantárgyanként a vizsgadíj összege nem lehet magasabb, mint az adott évre érvényes kötelező legkisebb munkabér (minimálbér) 3,75%-a.
+
+### 15. Tandíj megfizetése mellett igénybe vehető szolgáltatások
+
+#### 36. §
+
+(1)[^104] Az állami szerv, a tankerületi központ, az állami felsőoktatási intézmény, az önkormányzat és az önkormányzati társulás által fenntartott köznevelési intézményekben tandíj megfizetése mellett igénybe vehető szolgáltatások:
+
+a)[^105] alapfokú művészetoktatásban a heti hat tanórát meghaladó tanórai foglalkozás, a tanulmányi követelmények nem teljesítése miatt az évfolyam második vagy további alkalommal történő megismétlése, továbbá minden tanórai foglalkozás annak, aki nem áll tanulói jogviszonyban a nappali rendszerű vagy nappali oktatás munkarendje szerinti oktatásban, valamint annak, aki a huszonkettedik életévét betöltötte,
+
+b) a nevelési-oktatási intézményben a pedagógiai programhoz nem kapcsolódó nevelés és oktatás, valamint az ezzel összefüggő más szolgáltatás,
+
+c) középfokú iskolában a tanulmányi követelmények nem teljesítése miatt az évfolyam harmadik és további alkalommal történő megismétlése,
+
+d)[^106]
+
+(1a)[^107] A kollégiumi szolgáltatás igénybevételéért a tanuló tandíjat fizet, ha
+
+a) az iskolai alapszolgáltatást tandíj fizetése mellett veszi igénybe, vagy
+
+b) a tanuló nem a nappali oktatás munkarendje szerint szervezett felnőttoktatás keretében vesz részt iskolai oktatásban és tizenkilenc éven felüli.
+
+(1b)[^108] Az óvodás gyermek a kollégiumi szolgáltatást – ha törvény eltérően nem rendelkezik – tandíj megfizetése mellett veheti igénybe.
+
+(2) A tandíj mértéke – a kötelező feladatellátásban részt nem vevő, a külföldi nevelési-oktatási intézmény és a nemzetközi iskola kivételével – tanévenként nem haladhatja meg a tanévkezdéskor a szakmai feladatra számított folyó kiadások egy tanulóra jutó hányadát. A tandíj a tanulmányi eredménytől függően vagy a tanuló szociális helyzete alapján csökkenthető.
+
+(3)[^109] Az (1) bekezdés d) pontja szerinti esetben az egy tanulóra jutó tandíj mértékét a nevelési-oktatási intézmény igazgatója a (2) bekezdésre figyelemmel állapítja meg.
+
+(4)[^110] A fenntartó határozhatja meg azokat a szabályokat, amelyek alapján a nevelési-oktatási intézmény igazgatója dönt az e rendeletben meghatározottakon kívüli további térítésmentes ellátásról, a térítési díj és a tandíj összegéről, a tanulmányi eredmények alapján járó és a szociális helyzet alapján adható kedvezményekről és a befizetés módjáról.
+
+### 15/A.[^111] A működésben veszélyeztetett köznevelési intézményre vonatkozó szabályok
+
+#### 36/A. §
+
+(1) Az Nkt. 89/B. §-a szerinti veszélyeztetettség (a továbbiakban: veszélyeztetettség) időtartama alatt a fenntartó és a fenntartói jogokat gyakorló tankerületi központ a 37/C. és 37/D. § szerinti kérelmeket, valamint a 37/L. § szerinti elszámolást nem nyújthatja be.
+
+(2) A kincstár fenntartó székhelye szerint illetékes területi igazgatósága a veszélyeztetettség megállapítását követő hónap első napjától – a veszélyeztetettség megállapítását megelőző október 1-jei intézményi létszámadatok szerint – a tárgyévi költségvetési törvény alapján állapítja meg a fenntartót megillető támogatást.
+
+(3) A kincstár fenntartó székhelye szerint illetékes területi igazgatósága a veszélyeztetettség tárgyévében a (2) bekezdés szerinti létszámadatok alapján hivatalból állapítja meg a támogatást. A fenntartó a veszélyeztetettség megszűnéséről szóló értesítést követő hatvan napon belül számol el a támogatással.
+
+### 16. [^112] Az egyházi köznevelési intézmény és a magán köznevelési intézmény által nyújtott szolgáltatásokra vonatkozó sajátos szabályok
+
+#### 37. §
+
+(1)[^113] Az egyházi köznevelési intézmény és a magán köznevelési intézmény szolgáltatásainak igénybevételét az Nkt. 31. § (2) bekezdés c) pontja szerinti fizetési kötelezettséghez kötheti, kivéve, ha az egyházi köznevelési intézmény vagy a magán köznevelési intézmény közoktatási megállapodás, köznevelési szerződés vagy egyoldalú nyilatkozat alapján részt vesz a köznevelési közszolgálati feladatok ellátásában, ebben az esetben a kötelező feladatellátásban érintettek vonatkozásában a 33–36. §-ban foglaltakat kell alkalmazni.
+
+(2) A külföldi nevelési-oktatási intézmény és a nemzetközi iskola szolgáltatásainak igénybevételét tandíjfizetéshez kötheti. Ha az Nkt. 90. § (7) bekezdése alapján a miniszter köznevelési szerződést kötött a külföldi nevelési-oktatási intézmény vagy a nemzetközi iskola fenntartójával, a fenntartó a megállapodásban rögzítettek szerint csökkenteni köteles a tandíj mértékét.
+
+(3)[^114] Az egyházi köznevelési intézmény és a magán köznevelési intézmény fenntartója – az (1) bekezdésben foglaltakra figyelemmel – meghatározza azokat a szabályokat, amelyek alapján a köznevelési intézmény igazgatója dönt a tandíj mértékéről, az adható kedvezményekről és a befizetés módjáról.
+
+(4)[^115] Az egyházi köznevelési intézmény és a magán köznevelési intézmény, ha a tanuló alapfokú művészetoktatásban vesz részt, beiratkozáskor köteles beszerezni a tanuló, kiskorú tanuló esetén a szülő írásbeli nyilatkozatát azzal összefüggésben, hogy meg lehessen állapítani, hogy a tanuló az érintett képzést ingyenesen, térítési díj vagy tandíj megfizetése mellett jogosult igénybe venni.
+
+(5)[^116]
+
+## III/A. Fejezet[^117] — A NEM ÁLLAMI KÖZNEVELÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ TÁMOGATÁSOK IGÉNYLÉSE, FOLYÓSÍTÁSA, ELSZÁMOLÁSA ÉS ELLENŐRZÉSE
+
+### 16/A. Értelmező rendelkezések
+
+#### 37/A. §
+
+E Fejezet alkalmazásában
+
+a) *tárgyév:* az a naptári év, amelyre tekintettel a támogatást megállapítják, illetve folyósítják,
+
+b)[^118] *új köznevelési intézmény, új feladatellátási hely:* az a köznevelési intézmény, illetve új feladatellátási hely, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést támogatásokra.
+
+### 16/B.[^119] Az átlagbéralapú támogatás, gyermek- és tanulóétkeztetéshez nyújtott támogatás igénylése
+
+#### 37/B. §
+
+(1)[^120] Az átlagbéralapú támogatás az után a nevelési-oktatási intézményben vagy pedagógiai szakszolgálati intézményben (a továbbiakban együtt: köznevelési intézmény), a gyermek- és tanulóétkeztetéshez nyújtott támogatás a nevelési-oktatási intézményben nevelt, oktatott olyan gyermek, tanuló után vehető igénybe,
+
+a) aki szerepel a felvételi és mulasztási vagy beírási naplóban,
+
+b)[^121] aki szerepel a tanulmányi rendszer nyilvántartásában, illetve aki óvoda esetében szerepel a felvételi előjegyzési naplóban,
+
+c)[^122] akinek jelenlétéről, távolmaradásáról külön jogszabályban meghatározott nyilvántartást vezetnek,
+
+d)[^123] aki szakképzési feladatellátás esetén az adott tanévre vonatkozó szakképzési megállapodásban meghatározott keretlétszámban szerepel, és
+
+e)[^124] aki rendelkezik oktatási azonosító számmal.
+
+(2)[^125] Az átlagbéralapú támogatás, a gyermek- és tanulóétkeztetéshez nyújtott támogatás (a továbbiakban: támogatások) igénybevételének feltétele, hogy
+
+a) a köznevelési intézmény
+
+aa) rendelkezzen OM azonosítóval,
+
+ab) működési engedélyében szerepeljen az igényjogosultságot megalapozó alapfeladat,
+
+ac)[^126] ne lépje túl a működési engedélyében feladatellátási helyenként meghatározott maximális gyermek- és tanulólétszámot és
+
+ad) alkalmazottja és óraadója szerepeljen a KIR személyi nyilvántartásában,
+
+b)[^127] – nevelési-oktatási intézmény esetében – a nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszony a működési engedélye szerinti feladatellátási helyenként szerepeljen a KIR személyi nyilvántartásában,
+
+c)[^128] az intézmény rendelkezzen a 37. § (4) bekezdése szerinti szülői nyilatkozattal,
+
+d) – pedagógiai szakszolgálati intézmény esetében – az átlagbér alapú támogatás feltétele, hogy a pedagógiai szakszolgálati intézményben ellátott gyermek, tanuló szerepeljen a pedagógiai szakszolgálati intézmények működéséről szóló 15/2013. (II. 26.) EMMI rendelet (a továbbiakban: EMMI rendelet) szerinti nyilvántartásban.
+
+(3)[^129] Az (1) bekezdést és a (2) bekezdés a)–c) pontját a külföldi nevelési-oktatási intézményre és a nemzetközi nevelési-oktatási intézményre is alkalmazni kell.
+
+(4)[^130] Átlagbéralapú támogatást igényelhet az egyházi és magán köznevelési intézmény fenntartója – ide nem értve a közérdekű vagyonkezelő alapítványt – azon tanuló után, akivel az Nkt. 21. § (9) bekezdésében foglalt – kormányhivatal által történt – intézménykijelölés alapján létesített az adott tanév október 1-je után tanulói jogviszonyt (a továbbiakban: pótlólagos támogatás). A pótlólagos támogatás azok után a tanulók után igényelhető, akik a nyilvántartásból törölt köznevelési intézménnyel az adott tanév október 1-jén tanulói jogviszonyban álltak. A fenntartó a pótlólagos támogatásra vonatkozó igénylést az érintett tanulókkal történő tanulói jogviszony létesítését követő 15 napon belül nyújthatja be az intézmény székhelye szerint illetékes Igazgatósághoz. A fenntartó a pótlólagos támogatásra a tanulói jogviszony létesítését követő hónap első napjától az adott tanév augusztusáig jogosult. A pótlólagos támogatásra vonatkozó igénylés benyújtására, megállapítására, folyósítására, elszámolására és ellenőrzésére egyebekben e fejezet szabályait kell alkalmazni.
+
+#### 37/C. §
+
+(1)[^131] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig kizárólag a kincstár fenntartó székhelye szerint területileg illetékes vármegyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
+
+(2)[^132] A kérelmet
+
+a)[^133] az átlagbéralapú támogatásra vonatkozóan
+
+aa) nevelési-oktatási intézmény esetében a tárgyévet megelőző év október 1-jei gyermek, tanulói ténylétszám, valamint a tárgyév október 1-jei becsült gyermek, tanulói létszám,
+
+ab) a pedagógus minősítési eljárás eredményeként magasabb fizetési fokozatba átsorolt pedagógus, illetve pedagógus szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő – a Pedagógus I. fokozatba átsorolt gyakornokok kivételével – (a továbbiakban: együtt minősített pedagógus) átsorolásával járó bérnövekmény esetében az előmeneteli rendszerben megállapított fokozatok szerinti bontásban becsült átlaglétszáma,
+
+ac) a pedagógiai szakszolgálati intézmény esetében az ellátott gyermekek, tanulók egy évre számított havonkénti átlaglétszámának éves összesített, tízzel elosztott becsült létszáma,
+
+ad) a nemzetiségi pótlékban részesülő pedagógusok becsült átlaglétszáma,
+
+ae) a diabétesz ellátási pótlékban részesülő pedagógusok vagy a legalább érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak becsült átlaglétszáma,
+
+af) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: új életpálya törvény) 98. § (5) bekezdés a) pontja alapján esélyteremtési illetményrészre jogosult pedagógusok és a nevelő-oktató munkát közvetlenül segítők, az új életpálya törvény 98. § (5) bekezdése b) pontja alapján az esélyteremtési illetményrészre jogosult pedagógusok létszáma,
+
+b)[^134]
+
+c) a gyermek és tanulóétkeztetéshez nyújtott támogatásra vonatkozóan a központi költségvetésről szóló törvényben meghatározott létszám
+
+alapján, a miniszter és a kincstár által közösen meghatározottak szerint és a kincstár honlapján közzétett adatlapon kell benyújtani köznevelési intézményi, fenntartói szinten összesített formában, feladatellátási helyenként, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak esetében intézményenként.
+
+(2a)[^135] A fenntartó a minősített pedagógusok és a nemzetiségi pótlékban részesülő pedagógusok létszámát köznevelési intézményenként adja meg. A részmunkaidőben foglalkoztatott pedagógus esetében a pedagógus munkaidejének a teljes munkaidőhöz viszonyított arányában egy tizedesre kerekítve kell megállapítani a pedagógus létszámot.
+
+(2b)[^136] A fenntartó a diabétesz ellátási pótlékban részesülő vagy esélyteremtési illetményrészre jogosult pedagógusok, nevelő-oktató munkát közvetlenül segítők létszámát feladatellátási helyenként adja meg. A részmunkaidőben foglalkoztatott pedagógusok és segítők esetében a munkaidejük teljes munkaidőhöz viszonyított arányában egy tizedesre kerekítve kell megállapítani az átlaglétszámot.
+
+(3)[^137] A (2) bekezdés a) pont ac) alpontja szerinti éves átlaglétszámot feladattípusonként, a hetente ellátott gyermek-, tanulólétszám alapján kell megállapítani. A heti ellátotti létszám megállapításánál egy gyermek, tanuló csak egyszer vehető figyelembe, tekintet nélkül arra, hogy a hét egy vagy több napján, egyéni vagy csoportos foglalkozás keretében biztosították számára az Nkt.-ban és az EMMI rendeletben foglalt követelményeknek megfelelő időkeretekben az ellátást.
+
+(4)[^138] A fenntartó a (2) bekezdés szerinti kérelemben szereplő létszámokban bekövetkező változás miatti lemondásra vagy pótigénylésre vonatkozó bejelentését a tárgyév június 30-áig vagy október 31-éig teszi meg.
+
+(5)[^139] A minősített pedagógusok esetén a pótigény benyújtásához meg kell adni a minősített pedagógus előző munkáltatója OM azonosítóját, nevét és székhelyét.
+
+(6)[^140] A kérelem benyújtásával egyidejűleg a fenntartó az Igazgatóság rendelkezésére bocsátja a nyilatkozatát arról, hogy
+
+a) megfelel a költségvetési támogatás igénybevételére vonatkozó, az államháztartásról szóló törvényben meghatározott feltételeknek,
+
+b) az intézmény működésével összefüggésben vagy a költségvetési támogatás jogosulatlan igénybevételével összefüggésben büntetőeljárás nem folyik ellene, és a kérelem benyújtását megelőző öt évben ilyen eljárásban nem marasztalták el,
+
+c) a köznevelés területén alkalmazandó diszkriminációellenes intézkedésekről szóló 2023. évi XCII. törvény (a továbbiakban: diszkriminációellenes törvény) rendelkezései alapján csökkentett támogatásra jogosult feladatellátási hely esetén a minősített pedagógusok, a nemzetiségi pótlékban, diabétesz ellátási pótlékban, továbbá esélyteremtési illetményrészben részesülő pedagógusok, illetve a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott segítők közül hány fő kerül foglalkoztatásra az érintett feladatellátási helyen a munkaidejük teljes munkaidőhöz viszonyított arányában egy tizedesre kerekítve.
+
+(7)[^141] Az (1)–(4) és (6) bekezdésben, valamint a 37/D. § (1) bekezdésében foglaltakat a pedagógusok és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak minősítéséből eredő többletkiadás, a differenciált nemzetiségi pótlék, a diabétesz ellátási pótlék és az esélyteremtési illetményrész fedezetére szolgáló tárgyévi központi költségvetési törvény szerinti kiegészítő támogatás igénylésére is alkalmazni kell.
+
+(8)[^142]
+
+#### 37/D. §
+
+(1)[^143] Új köznevelési intézmény, új feladatellátási hely alapításával, köznevelési intézmény szüneteltetést követő újraindításával, új köznevelési alapfeladat ellátásával összefüggő kérelmet a tárgyév augusztus 31-éig, év közben létesített óvoda, kollégium, pedagógiai szakszolgálat esetén a működés megkezdését követő tizenötödik napig lehet benyújtani. E határidő elmulasztása jogvesztő.
+
+(2)[^144] A költségvetési támogatási kérelmet az új köznevelési intézmény, új feladatellátási hely
+
+a)[^145] alapítása, létrehozása esetén a működési engedély véglegessé válását követően, a tényleges működés első teljes hónapjának első napján az intézménnyel jogviszonyban álló,
+
+b) átvétele esetén az átadó fenntartó által jogcímenként összeállított és hitelesített, a lemondással vagy átcsoportosítással érvényesített vagy az augusztus havi támogatások alapjául szolgáló létszámokról szóló kimutatást, valamint az új nevelési évre, tanévre az új nevelési év, tanév első napján a köznevelési intézménnyel jogviszonyban álló
+
+gyermekek, tanulók létszáma alapján, a 37/C. § (2) bekezdése szerinti adatlapon kell benyújtani.
+
+(3) A fenntartó az (1) bekezdés szerinti kérelemhez csatolja
+
+a) a képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát – az (5) bekezdés kivételével –, adószámát, valamennyi fizetési számlája bankszámlaszerződésének hiteles másolatát, több fizetési számla esetén annak a fizetési számlának a megjelölésével, amelyre a támogatások folyósítását kéri,
+
+b)[^146] alapító okiratot, fizetési számlaszámot, adószámot,
+
+c) valamennyi fizetési számlájára vonatkozó felhatalmazó nyilatkozatát beszedési megbízás benyújtására,
+
+d) nyilatkozatát arról, hogy sem neki, sem a köznevelési intézménynek nincs harminc napon túli köztartozása,
+
+e)[^147] szakképzési feladatellátás esetén a megkötött szakképzési megállapodást,
+
+f) pedagógiai szakszolgálati feladat ellátása esetén a miniszterrel kötött köznevelési szerződést.
+
+(4) Ha a fenntartó a (3) bekezdésben meghatározott okiratokat a támogatásokkal összefüggésben korábban az Igazgatósághoz benyújtotta, a kérelemhez azokat az okiratokat kell csatolnia, amelyeket változás érintett.
+
+(5)[^148] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot közvetlenül szerzi meg.
+
+(6)[^149]
+
+#### 37/E. §
+
+(1)[^150] A kincstár a 37/C. § (1) bekezdése és 37/D. § (1) bekezdése szerinti kérelem adatairól a tárgyév május 15-éig fenntartó típusonkénti bontásban, egyházi jogi személyek esetében egyházanként összesítve, országos, fővárosi, vármegyei összesítésben, kormányzati funkció szerinti részletezéssel tájékoztatja a minisztert.
+
+(2)[^151] A kincstár az (1) bekezdés szerinti részletezéssel küldi meg a miniszter részére
+
+a) a keretigényt
+
+aa) a tárgyév január–április hónapjára vonatkozóan a tárgyévet megelőző év december tizenötödikéig,
+
+ab) a tárgyév május–augusztus hónapjára vonatkozóan április tizenötödikéig és
+
+ac) a tárgyév szeptember–december hónapjára vonatkozóan augusztus tizenötödikéig,
+
+b) a keretigényen felül jelentkező pótigényt a tárgyhót megelőző hónap tizenötödik napjáig.
+
+### 16/C. A támogatások megállapítása, folyósítása és a fenntartói változás-bejelentés
+
+#### 37/F. §
+
+(1)[^152] Az Igazgatóság a rendelkezésére álló okiratok alapján
+
+a) – a b) pontban meghatározott kivétellel –
+
+aa) a gyermek, tanulói létszám alapján járó átlagbér alapú támogatást a tárgyév január–augusztus és szeptember– december hónapjára 8/12 és 4/12 arányban, a minősített pedagógusok után járó bérnövekményt előmeneteli rendszerben megállapított fokozat szerinti bontásban a tárgyév 1–12 hónapra éves átlaglétszámként, a nemzetiségi pótlékban, diabétesz ellátási pótlékban, illetve esélyteremtési illetményrészben részesülő pedagógusok után járó kiegészítő támogatást a tárgyév 1–12 hónapra éves átlaglétszámként,
+
+ab) a gyermek- és tanulóétkeztetéshez nyújtott támogatást a központi költségvetésről szóló törvényben foglaltak szerint a tárgyév 1–12 hónapra éves átlaglétszámként,
+
+b) az év közben létesített óvoda, kollégium esetén a működési engedély véglegessé válását követő működés első teljes hónapjától kezdve
+
+állapítja meg a fenntartót megillető támogatásokat.
+
+(1a)[^153] A támogatások igénylésénél és megállapításánál, ha a finanszírozott pedagógus létszám megállapításához szükséges gyermek- és tanulólétszám nem egész szám, a létszámot feladatellátási helyenként egy tizedesjegyre kerekítve kell megállapítani.
+
+(2)[^154] A támogatást az Igazgatóság a diszkriminációellenes törvény hatálya alá tartozó általános iskola feladatellátási helyéhez kapcsolódóan az ott meghatározott mértékben határozza meg.
+
+(3) A támogatásokat megállapító határozat a támogatásokkal összefüggésben tartalmazza
+
+a)[^155] az igényléssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként, azon belül feladatellátási helyenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagóguslétszámot, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak, továbbá a minősített pedagógusok átlaglétszámát az előmeneteli rendszerben megállapított fokozat szerinti bontásban, a nemzetiségi pótlékban, a diabétesz ellátási pótlékban és esélyteremtési illetményrészben részesülő pedagógusok létszámát, valamint a köznevelési intézmény működési engedélyének a számát,
+
+b) a megállapított támogatások körét, mértékét jogcímenként és köznevelési intézményenként,
+
+c) a fenntartónak megállapított támogatások teljes, valamint az egyes jogcímekre meghatározott összegét,
+
+d) a folyósítás ütemét,
+
+e) a támogatások elszámolásának határidejét és módját, valamint
+
+f) a támogatások felhasználásának elszámolása és ellenőrzése rendjéről, a tartozás és a köztartozás esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
+
+g)[^156] a (2) bekezdés szerint csökkentett támogatások köréről, a csökkentés mértékéről szóló tájékoztatást jogcímenként, valamint a csökkentéssel érintett feladatellátási hely megnevezését.
+
+#### 37/G. §
+
+(1) A fenntartó a támogatások felhasználását, az ingyenesség, tandíj, térítési díj megállapításával, beszedésével kapcsolatos rendelkezéseket, okiratokat alapfeladatonkénti bontásban elkülönítetten és naprakészen tartja nyilván. Az adatok valódiságát az egyes fenntartónál, köznevelési intézménynél megfelelő nyilvántartással, szakmai és pénzügyi dokumentációval kell alátámasztani. A fenntartó a nyilvántartás kialakításáról akként gondoskodik, hogy abból megállapítható legyen, hogy a támogatások milyen határnappal kerültek átadásra és milyen célra kerültek felhasználásra.
+
+(2) A fenntartó az ellenőrzésre feljogosított szervek megkeresésére – az ellenőrzésre nyitva álló határidő leteltéig – az ellenőrzés lefolytatásához szükséges tájékoztatást köteles megadni, a kért dokumentumokat rendelkezésre bocsátani, a helyszíni ellenőrzést lehetővé tenni. A betekintést akkor is biztosítani kell, ha az intézményi és a köznevelési intézmény fenntartásával összefüggő fenntartói könyvvezetési, beszámoló-készítési kötelezettséget a köznevelési intézményen és fenntartón kívüli más szervezet látja el.
+
+#### 37/H. §
+
+(1)[^157] A fenntartó nyolc napon belül változás-bejelentést küld az Igazgatóság részére, ha a 37/C. § (6) bekezdése szerinti nyilatkozatában, a köznevelési intézmény feladataiban vagy más nyilvántartott adataiban változás következett be. Ha a változás a KIR adattartalmát is érinti, az Igazgatóság erről – az eltérés okának bemutatásával – tájékoztatja a Hivatalt.
+
+(2) Ha az Igazgatóság a nyilvántartásában szereplő adatokban a támogatásokra való jogosultságot érintő változtatást tapasztal, adategyeztetést kezdeményez a fenntartóval és szükség esetén a Hivatallal. Ha a változtatás a támogatások jogosulatlan igénybevételéhez vezethet, az Igazgatóság az igénylés módosítására hívja fel a fenntartót. Ha a fenntartó az igénylést nem módosítja, az Igazgatóság a rendelkezésére álló adatok alapján állapítja meg az esetleges eltérést.
+
+(2a)[^158] Ha az Igazgatóság a fenntartói, intézményi adatokban a támogatásokra való jogosultságot érintő változást tapasztal és ez a fenntartó 37/C. § (6) bekezdés a) pontja szerint megtett nyilatkozatában foglalt tényeket érinti, akkor az Igazgatóság
+
+a)[^159] a 37/C. § (6) bekezdés a) pontjában tanúsított tényektől való eltérés esetén a támogatások folyósítását haladéktalanul felfüggeszti,
+
+b)[^160] a nyilatkozat megtételét követően a 37/C. § (6) bekezdés b) pontjában foglaltak miatt indult büntetőeljárás esetén a támogatások folyósítását a büntetőeljárás jogerős befejezéséig hivatalból felfüggesztheti.
+
+(3)[^161] Ha a fenntartó székhelye év közben megváltozik, akkor a korábbi székhely szerint illetékes Igazgatóság folyósítja a költségvetési támogatást december 31-éig, és a fenntartó a korábbi székhely szerint illetékes Igazgatósághoz nyújtja be – a 37/L. § (1)–(4) bekezdésében foglaltaknak megfelelően – az elszámolását. Az új székhely szerint illetékes Igazgatóság a következő költségvetési év január 1-jétől kezdi meg a költségvetési támogatás folyósítását a korábbi székhely szerint illetékes Igazgatóság 37/F. § (1) bekezdése szerint hozott határozata alapján. A tárgyévben és az azt megelőzően igénybe vett támogatások ellenőrzésére az új székhely szerint illetékes Igazgatóság jogosult.
+
+#### 37/I. §
+
+(1)[^162] A fenntartó a csődeljárás, végelszámolás, felszámolási eljárás megindítását követő nyolc napon belül köteles bejelenteni az Igazgatóságnak az eljárás megindítását. A bejelentéshez csatolni kell az eljárás megindításáról a hivatalos lapban közzétett közleményt. Amennyiben az Igazgatóság tudomására jut, hogy a fenntartó csődeljárás, végelszámolás vagy felszámolási eljárás alatt áll, és a fenntartó nem tett eleget nyolc napon belül a bejelentési kötelezettségnek, az Igazgatóság a csődeljárás, végelszámolás, felszámolási eljárás befejezéséig felfüggeszti a támogatás folyósítását.
+
+(2)[^163] A fenntartó a köznevelési alapfeladat-ellátás megszűnésére, megszüntetésére, a köznevelési intézménye, feladatellátási helye megszűnésére, megszüntetésére, szüneteltetésére, fenntartói jogának átadására (a továbbiakban e bekezdés tekintetében: megszűnés) vonatkozó döntéséről és a megszűnés kezdő időpontjáról a döntést követő nyolc napon belül értesíti az Igazgatóságot, és ha a megszűnés a fenntartó minden köznevelési tevékenységre vonatkozik, akkor a megszűnés napjától számított nyolc napon belül a kincstár honlapján közzétett évközi elszámoló adatlap alapján elszámol az igénybe vett támogatásokkal. Évközi elszámolás esetén a fenntartót a megszűnés hónapjának utolsó napjáig illeti meg támogatás.
+
+(3)[^164] Az illetékes kormányhivatal tájékoztatja a fenntartó székhelye szerinti Igazgatóságot, ha hivatalos tudomása van köznevelési intézmény megszűnéséről, köznevelési alapfeladat-ellátás szüneteltetéséről vagy fenntartóváltásról. Az illetékes kormányhivatal a tájékoztatással egyidejűleg közli az Igazgatósággal a köznevelési intézmény megszűnéséről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a nyilvántartásból való törlésről vagy a fenntartó-váltás tudomásulvételéről szóló végleges döntését.
+
+#### 37/J. §
+
+(1) A támogatásokat az Igazgatóság havi ütemezésben, a tárgyhó hetedik napjáig folyósítja.
+
+(2)[^165] Új fenntartó esetén, valamint a 37/D. § (1) bekezdése szerinti esetben a támogatások folyósítására a kérelem benyújtására meghatározott határidő lejártát követő harmadik hónaptól kezdődően kerül sor.
+
+(3)[^166] A fenntartót megillető költségvetési támogatás megállapításáig az Igazgatóság előleget folyósít január–április hónapokra. A januárban folyósított előleg összege a tárgyévet megelőző év utolsó érvényes létszámadata és a tárgyévet megelőző évi központi költségvetésről szóló törvény alapján a tárgyévet megelőző évre megállapított támogatás december hónapra jutó összeg figyelembevételével kerül meghatározásra. A február–április hónapokban folyósított előleg összege a tárgyévet megelőző év utolsó érvényes létszámadata és a tárgyévi központi költségvetésről szóló törvény alapján megállapított támogatási jogcímek éves összegeinek 1/12 része. Az előleg folyósításánál nem lehet figyelembe venni a tárgyévben megszűnt, valamint a tárgyévre megállapított új támogatási jogcímet, továbbá a tárgyévet megelőző évben megszűnt intézmény és feladatellátási hely létszámadatait.
+
+(3a)[^167] Ha a tárgyévi központi költségvetési törvény felhatalmazása alapján a központi költségvetési törvény szerinti támogatási jogcímek összegeit az államháztartásért felelős miniszter év közben megemeli, az Igazgatóság a döntést követő hónaptól az (1) bekezdés szerinti havi ütemezés során, külön határozat meghozatala nélkül folyósítja. A visszamenőleges hatállyal megállapított emelt összegű támogatás és az érintett hónapokban ténylegesen folyósított támogatás különbözetét a megemelt fajlagos összegű támogatás első alkalommal történő folyósításával egy időben folyósítja, kivéve, ha arról a fenntartó az Igazgatósághoz intézett írásbeli nyilatkozatával lemondott.
+
+(3b)[^168] A (3a) bekezdés szerint folyósított támogatásra az e rendelet elszámolásra, ellenőrzésre és visszafizetésre vonatkozó szabályait kell alkalmazni.
+
+(4)[^169] A határozatban megállapított költségvetési támogatás és a folyósított előleg közötti különbözet rendezésére a tárgyév május hónapjában kerül sor.
+
+(5)[^170] A 37/C. § (4) bekezdése szerinti esetben, a korábban folyósított és a pótigény vagy a lemondás alapján módosított támogatás – a módosítás alapján történő folyósítás idejét megelőző hónapokra számított – különbözetének összegét egy összegben kell folyósítani, illetve levonni. Ha a visszafizetendő támogatás összege nem éri el az ezer forintot, a tartozást a lemondással egyidejűleg nem kell megfizetni.
+
+(6)[^171] A fenntartó a lemondással egyidejűleg a 37/N. § (4) bekezdése szerinti részletfizetésre vonatkozó szabályok megfelelő alkalmazásával kérheti a tartozás több részletben történő levonását. A levonásnak a tárgyévben meg kell történnie. Ha levonásra a tárgyévben folyósítandó támogatás már nem nyújt fedezetet, a fenntartó köteles a különbözetet a lemondás tárgyában hozott határozat véglegessé válását követő 8 napon belül visszafizetni. A visszafizetésről a lemondás tárgyában hozott határozatban rendelkezni kell. Az október 31-ig benyújtható lemondással keletkező tartozásra nem kérhető részletfizetés.
+
+### 16/D. A támogatások elszámolása és ellenőrzése
+
+#### 37/L. §
+
+(1)[^173] A fenntartó a 37/C. § (2)–(3) bekezdése szerinti létszámadatok alapján igénybe vett támogatásokkal – a 37/C. § (2) bekezdés a) pont ab) alpontja kivételével – a ténylétszám adatok figyelembevételével, a kincstár és a miniszter által közösen meghatározott és a kincstár honlapján közzétett adatlapon köznevelési intézményi, feladatellátási helyenkénti, valamint fenntartói szinten összesített módon számol el az Igazgatóságnak. A 37/C. § (2) bekezdés a) pont ab) alpontja szerinti támogatás esetében a fenntartó a tárgyévben a a minősített pedagógusok, a nemzetiségi pótlékban, a diabétesz ellátási pótlékban, esélyteremtési illetményrészben részesülő pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak esetében a tárgyévi tényleges foglalkoztatási idejét figyelembe véve a teljes munkaidőre számított éves átlaglétszáma alapján számol el.
+
+(1a)[^174] Az évközbeni megszűnés elszámolása időarányosan történik, a támogatás a megszűnés hónapjának utolsó napjáig illeti meg a fenntartót. A fenntartó az igénybe vett költségvetési támogatással a tárgyév augusztus 31-éig történő megszűnés esetén az előző év október 1-jei ténylétszám, a szeptember hónapban történő megszűnés esetén a tárgyév szeptember 1-jei létszám, október 1-jét követő megszűnés esetén a tárgyév októberi 1-jei ténylétszám alapján számol el.
+
+(2)[^175] Az elszámoláshoz csatolni kell a 37/C. § (6) bekezdése szerinti nyilatkozatokat, valamint a pedagógus- és nevelő-oktató munkát közvetlenül segítő munkakörben a tárgyévben foglalkoztatottakkal, továbbá a minősített pedagógusokkal, segítőkkel, illetve az esélyteremtési illetményrészben részesülő pedagógusokkal, segítőkkel kapcsolatban a fenntartói nyilatkozatot arról, hogy az illetmények, bérek és ezek járulékai teljes mértékben megfizetésre kerültek. A 37/C. § (6) bekezdés a) pontjára vonatkozó nyilatkozat hiányában vagy eltérő tartalmú nyilatkozat esetén az Igazgatóság a fenntartót a tárgyévben igénybe vett támogatás – a 37/M. § szerinti – igénybevételi kamattal növelt visszafizetésére kötelezi.
+
+(3)[^176] Ha jogszabály előírja, hogy a köznevelési intézmény fenntartója részére biztosított központi költségvetési többlettámogatást a fenntartó kizárólag az új életpálya törvény 98. §-a szerinti havi illetményben részesülő foglalkoztatott (a továbbiakban: kötelező béremelésben érintettek) személyi juttatásaira és az azokhoz kapcsolódó, munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez szükséges finanszírozásra használhatja fel, akkor az elszámoláshoz csatolni kell a fenntartó nyilatkozatát arról, hogy az így biztosított többlettámogatás alapján köznevelési intézményenként a központi költségvetési támogatást kizárólag a kötelező béremelésben érintettek személyi juttatásaira és az azokhoz kapcsolódó, munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez szükséges finanszírozásra használta fel.
+
+(3a)[^177] A (3) bekezdésben foglaltakat a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő foglalkoztatottak minősítéséből eredő többletkiadás, a differenciált nemzetiségi pótlék és a diabétesz ellátási pótlék, esélyteremtési illetményrész fedezetére szolgáló tárgyévi központi költségvetési törvény szerinti kiegészítő támogatás elszámolására is alkalmazni kell.
+
+(4)[^178] Ha az elszámolással érintett évet megelőző év október 2-a és december 31-e között – az adott évre vonatkozó központi költségvetési törvényben meghatározott életkorú – első alkalommal óvodai jogviszonyt létesített gyermekek után az óvodai fenntartót az október 1-jei ténylétszám alapján igényeltnél több pedagógus után illetné meg átlagbér alapú támogatás, akkor a fenntartó a többlettámogatásra vonatkozó igényét az elszámolás benyújtásával egyidejűleg érvényesítheti.
+
+(5)[^179] Ha a fenntartó az elszámolási kötelezettségének nem tesz eleget, az Igazgatóság nyolc napos határidő kitűzésével felhívja az elszámolási kötelezettség teljesítésére. Ha a fenntartó a felhívásnak határidőben nem teljes körűen tesz eleget, a támogatások folyósítását az Igazgatóság felfüggeszti és az elszámolással érintett évben, valamint a tárgyévben folyósított támogatások visszafizetésére és igénybevételi kamat megfizetésére kötelezi.
+
+(6)[^180] A támogatások elszámolásával és ellenőrzésével kapcsolatos hatósági eljárásokban az eljárás szünetelése nem kérhető.
+
+#### 37/M. §
+
+(1)[^181] A fenntartó igénybevételi kamatot fizet az általa jogosulatlanul igénybe vett támogatások után. A jogosulatlan igénybevétel kezdő napja a támogatások fenntartó fizetési számláján történő jóváírásának napja, utolsó napja a fizetési kötelezettség teljesítésének napja.
+
+(2) Jogosulatlan igénybevételnek minősül, ha
+
+a) a fenntartó a támogatások igénybevételéhez valótlan adatot szolgáltatott,
+
+b) a fenntartó az igénybe vett támogatásokat nem a jogszabályban meghatározott célra használta fel,
+
+c) a fenntartó által igénybe vett támogatások legalább három százalékkal meghaladják a fenntartót ténylegesen megillető támogatások összegét,
+
+d)[^182] a fenntartó a támogatásokra vonatkozóan jogszabályban meghatározott valamely feltételt megszegett, vagy azok teljesülése a jogszabályban meghatározott módon nem igazolható.
+
+(3)[^183] Az igénybevételi kamat mértéke a jegybanki alapkamat
+
+a) ha az igényelt támogatásokról a fenntartó a tárgyév június 30-áig vagy október 31-éig lemond,
+
+b) kétszerese, ha
+
+ba) a visszafizetési kötelezettség az elszámolás során keletkezik, vagy
+
+bb) a jogosulatlan igénybevételt az Igazgatóság a 37/O. § szerinti ellenőrzés során vagy az Állami Számvevőszék által végzett ellenőrzés alapján állapítja meg.
+
+(4)[^184]
+
+(5)[^185]
+
+(6)[^186] E § alkalmazásában jegybanki alapkamaton a támogatások jogosulatlan igénybevételét megállapító döntés napját magában foglaló naptári félév első napján érvényes jegybanki alapkamatot kell érteni.
+
+#### 37/N. §
+
+(1) Az elszámolás alapján hozott határozat tartalmazza
+
+a)[^187] a 37/F. § (3) bekezdés a)–d) és g) pontjában meghatározott adatokat,
+
+b) fenntartói szinten összesítve, jogcímenként az igénylési és elszámolási létszám és az összegbeli változások kimutatását,
+
+c) a részletfizetési kedvezmény lehetőségéről szóló tájékoztatást,
+
+d) arra vonatkozó utalást, hogy mikor és milyen jogcímekre vonatkozóan került sor lemondásra, pótlólagos igénylés benyújtására, valamint
+
+e) a támogatások ellenőrzése rendjéről, visszafizetés esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
+
+(2)[^188] Az Igazgatóság által határozatban megállapított
+
+a)[^189] fizetési kötelezettséget a fenntartó a határozat véglegessé válásától számított nyolc napon belül köteles teljesíteni,
+
+b) többlettámogatást az Igazgatóság a többlettámogatásra való jogosultságot megállapító döntését követő második havi támogatások folyósításával egyidejűleg utalja a fenntartó részére.
+
+(2a)[^190] Ha a (2) bekezdés szerint megállapított összeg az ezer forintot nem haladja meg, azt nem kell teljesíteni.
+
+(3)[^191] Ha a fenntartó visszafizetési kötelezettségének határidőben nem tesz eleget, a késedelembe esés napjától a jegybanki alapkamat kétszeresének 365-öd részével megegyező mértékű késedelmi kamatot fizet addig a napig, amíg fizetési kötelezettségét nem teljesíti. Késedelmi kamat számításakor a jegybanki alapkamaton a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamatot kell érteni.
+
+(4)[^192] Az Igazgatóság a fenntartó teljesítési határidő lejárta előtt benyújtott kérelmére a fizetési kötelezettség teljesítésére legfeljebb tizenkét havi részletfizetést engedélyezhet. A részletfizetéssel érintett összeget a kérelem benyújtásának napját magában foglaló naptári félév első napján érvényes jegybanki alapkamat terheli. A részletfizetésben engedélyezett havi összeg nem lehet kevesebb, mint a fenntartó havi támogatásának 20%-a, amely a fenntartó kérelmére a folyósítandó támogatásból is levonható. A részletfizetési kérelemről az Igazgatóság soron kívül dönt. Köznevelési tevékenységének megszüntetése vagy szüneteltetése miatt támogatásban nem részesülő fenntartó részére részletfizetés nem engedélyezhető.
+
+(4a)[^193] A részletfizetés iránti kérelemben részletesen be kell mutatni, hogy az egy összegben történő visszafizetés a köznevelési intézmény működtetését súlyosan veszélyeztetné, ennek keretében ki kell térni az intézményi kötelezettségvállalás jogcímenkénti összegére, a tervezett fenntartói intézkedésekre, továbbá mellékelni kell a köznevelési intézmény elfogadott éves költségvetését és a bankszámlakivonatot a visszafizetési kötelezettséget megállapító határozathozatal napjára, valamint az azt megelőző harminc napra vonatkozóan valamennyi – a fenntartó saját és a köznevelési intézmény – fizetési számlájáról.
+
+(5)[^194] Ha a fenntartó a részletfizetést engedélyező döntésben foglalt fizetési kötelezettségének határidőben nem tesz eleget, a visszafizetési és igénybevételi kamatfizetési kötelezettség, valamint az eredeti esedékességtől felszámított, (3) bekezdésnek megfelelő késedelmi kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik.
+
+(6)[^195] Ha a fenntartó a (2) bekezdés a) pont, valamint az (5) bekezdés alapján esedékessé vált tartozása
+
+a)[^196] nem haladja meg a fenntartót megillető egy havi támogatások összegét és az esedékessé válás határidejéig a fenntartó nem tesz eleget fizetési kötelezettségének, az Igazgatóság a fenntartót megillető soron következő havi támogatások összegéből levonja a tartozás és a késedelmi kamat összegét,
+
+b)[^197] meghaladja a fenntartót megillető egy havi támogatások összegét és az esedékessé válás határidejéig a fenntartó nem tesz eleget fizetési kötelezettségének, az Igazgatóság felfüggeszti a támogatások kifizetését és beszedési megbízást nyújt be a fenntartó fizetési számlájára.
+
+#### 37/O. §
+
+(1)[^198] Az Igazgatóság felülvizsgálja a támogatások igénylésének és elszámolásának jogszerűségét.
+
+(1a)[^199] Ha a fenntartó befizetési kötelezettsége 10%-kal meghaladja az őt ténylegesen megillető támogatások összegét, az Igazgatóság helyszíni ellenőrzést tart.
+
+(1b)[^200] A felülvizsgálat megszervezése során biztosítani kell, hogy legalább négyévenként valamennyi fenntartónál sor kerüljön helyszíni ellenőrzésre, amely a Polgári Törvénykönyv szerinti általános elévülési időn belül, a korábban helyszínen nem vizsgált időszakra, támogatásokra és köznevelési intézményekre kiterjeszthető.
+
+(2)[^201] Az Igazgatóság a felülvizsgálat keretében ellenőrzi az igénybevételi jogosultság jogszabályi feltételeinek teljesülését, a kérelemben, a változás-bejelentésben és az elszámoláskor közölt adatok megalapozottságát, valamint a támogatások felhasználásának jogszerűségét. A felülvizsgálat kiterjed a fenntartónál és a köznevelési intézményben a támogatások igénylésének alapjául szolgáló – a köznevelési intézményben és a fenntartónál vezetett – nyilvántartások meglétének, vezetésének, a tanügy-igazgatási dokumentumoknak és ezek alapján az igénylés és az elszámolás megalapozottságának vizsgálatára. A felülvizsgálat eredménye alapján az Igazgatóság a kormányhivatalnál hatósági vagy törvényességi ellenőrzést kezdeményezhet.
+
+(3) Ha az Igazgatóság a felülvizsgálat során megállapítja, hogy a támogatásokat megalapozó gyermek-, tanulólétszám nem egyezik meg a KIR-ben az október 1-jei állapot szerint nyilvántartott létszámadatokkal, az Igazgatóság adategyeztetés céljából megkeresi a fenntartót, szükség esetén a Hivatalt.
+
+(3a)[^202] Az (1) bekezdés szerinti eljárásban hozott határozat tartalmazza:
+
+a) a helyszíni ellenőrzéssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként és feladatellátási helyenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagógus-, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak létszámát, továbbá a köznevelési intézmény működési engedélyének számát,
+
+b) köznevelési intézményenként és feladatellátási helyenként a minősített pedagógusok létszámát előmeneteli rendszerben megállapított fokozat szerinti bontásban,
+
+c) a megállapított támogatások körét, mértékét jogcímenként és köznevelési intézményenként, azon belül feladatellátási helyenként,
+
+d) a fenntartónak megállapított támogatások teljes, valamint az egyes jogcímekre meghatározott összegét,
+
+e) a részletfizetési kedvezmény lehetőségéről szóló tájékoztatást,
+
+f) a visszafizetés esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
+
+(4)[^203] A felülvizsgálat során az Igazgatóság által megállapított, a fenntartót megillető támogatások és a fenntartó által ténylegesen igénybe vett támogatások közötti különbözetet az Igazgatóság határozatának véglegessé válását követő második hónapban kell kifizetni.
+
+(4a)[^204] Ha a felülvizsgálat eredményeként a fenntartót fizetési, visszafizetési kötelezettség terheli, alkalmazni kell a 37/N. § fizetésre, visszafizetésre, késedelmi kamat megállapítására, a részletfizetés szabályaira, valamint a nem teljesítés esetére vonatkozó rendelkezéseit.
+
+(5) Az Igazgatóság a helyszíni ellenőrzésről készített jegyzőkönyvet és az ellenőrzés alapján hozott határozatot a működést engedélyező szervvel is közli.
+
+(6)[^205] A kincstár minden év januárjában megküldi a miniszter részére a tárgyévre vonatkozó ellenőrzési munkatervét. A miniszter koordinálja a kormányhivatal, a kincstár és a Hivatal – köznevelési intézmények és fenntartók ellenőrzését megalapozó – munkaterveit, a munkatervek alapján javaslatot tehet a hatóságok együttes ellenőrzésének lefolytatására.
+
+#### 37/P. §[^206]
+
+A kincstár a támogatások elszámolásának feldolgozása után, a jóváhagyott és az előző évi ténylegesen igénybe vett támogatásokról a tárgyévet követő év július 20-áig adatszolgáltatást nyújt a miniszter és az államháztartásért felelős miniszter részére az általuk meghatározott és a kincstár részére június 1-jéig megküldött formában. Az adatszolgáltatást intézményfenntartó-típusonkénti bontásban kell elkészíteni, egyházi intézmények esetében egyházanként is összesítve, továbbá országos, fővárosi, vármegyei összesítésben, jogcím szerinti részletezéssel, megadva a fenntartó részére kiutalt támogatások mértékét, a fenntartók, a köznevelési intézmények, a feladatellátási helyek, az alkalmazottak, a gyermekek és a tanulók számát.
+
+### 16/E. A működési támogatás
+
+#### 37/Q. §
+
+(1)[^207] A működési támogatás megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstár adatszolgáltatására a 37/A–37/P. §-nak az átlagbéralapú támogatásra vonatkozó szabályait az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2)[^208] A működési támogatást
+
+a) a nemzetiségi önkormányzat részére az Igazgatóság feladatonkénti bontásban,
+
+b) az egyház részére az egyházi jogi személy fenntartó székhelye szerinti Igazgatóság adatszolgáltatása alapján a kincstár Budapesti és Pest Vármegyei Igazgatósága feladatonkénti és egyházi jogi személyek fenntartójakénti bontásban, a fenntartók 37/C. és 37/D. §-a szerinti igénylése, pótigénylése, lemondása alapján hivatalból
+
+állapítja meg.
+
+(3)[^209] A működési támogatást megállapító határozat a támogatással összefüggésben tartalmazza a 37/F. § (3) bekezdés b)–g) pontjában foglaltakat, és az Igazgatóság által közölt adatok közül köznevelési intézményenként az intézmény hivatalos nevét, OM azonosítóját, a székhelyét, fenntartója nevét, alapfeladatonként a megállapított támogatási összegeket és a gyermek-, tanulólétszámot.
+
+(4)[^210] A nemzetiségi önkormányzat és a bevett egyház nyilvántartást vezet arról, hogy mely fenntartótól, milyen köznevelési intézményt, milyen feladatot, mennyi időre és hány fővel vett át. Az egyházi nyilvántartás a belső egyházi jogi személy által átvett köznevelési intézményeket is tartalmazza. A nyilvántartás részét képezi a köznevelési szerződés, bevett egyház esetén az egyoldalú nyilatkozat is. Az Igazgatóság és a kincstár Budapesti és Pest Vármegyei Igazgatósága a működési támogatás megállapítása, elszámolása és ellenőrzése során bekérheti a nyilvántartásban szereplő adatokat ellenőrzés céljából.
+
+(5)[^211] A működési támogatásra első alkalommal jogosulttá váló bevett egyház, illetve az erre megállapodás alapján jogosult nyilvántartásba vett egyház vagy bejegyzett egyház, ha nem tart fenn köznevelési intézményt, a 37/C. § (1) bekezdésében meghatározott határnapig megküldi a kincstár Budapesti és Pest Vármegyei Igazgatósága számára a nyilvántartásba vételéről szóló igazolást, képviselőjének aláírási címpéldányát, adószámát, a működési támogatással összefüggő valamennyi fizetésiszámla-szerződésének hiteles másolatát, fizetési számla számát, valamint felhatalmazó levelet beszedési megbízás benyújtására azon fizetési számlaszámára vonatkozóan, amelyre e támogatás folyósításra kerül.
+
+(6)[^212] A nemzetiségi önkormányzat és a bevett egyház, illetve az erre megállapodás alapján jogosult nyilvántartásba vett egyház, vagy bejegyzett egyház, a működési támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét közneveléssel összefüggő feladatokra fordítani.
+
+(7)[^213] A működési támogatást az Igazgatóság a diszkriminációellenes törvény hatálya alá tartozó általános iskola feladatellátási helyéhez kapcsolódóan az ott meghatározott mértékben határozza meg.
+
+### 16/F.[^214] Az átlagbéralapú támogatás és a működési támogatás összesített egyenlegének rendezése
+
+#### 37/R. §
+
+(1)[^215] Az átlagbéralapú támogatás és a működési támogatás összesített egyenlegének rendezése során előálló korrekció összegét bevett egyház esetén a kincstár Budapesti és Pest Vármegyei Igazgatósága a központi költségvetés végrehajtásáról szóló törvény alapján folyósítja.
+
+(2)[^216] A korrekcióra, illetve – ha a korrekció mértéke negatív – a korrekció megfizetésére a tárgyévben működési támogatásban részesült bevett egyház jogosult, illetve köteles. Ha a köznevelési intézmény, tagintézmény működési engedélyét visszavonták, vagy ha a köznevelési intézményt, tagintézményt, köznevelési alapfeladatot nem egyházi jogi személy vette át, a korrekció időarányosan a jogosultság fennállásáig és a ráfordítás arányában folyósítható, a bevett egyház – ha a korrekció mértéke negatív – köteles időarányosan a korrekció megfizetésére.
+
+(3)[^217] A bevett egyház a korrekciót a központi költségvetés végrehajtásáról szóló törvényben meghatározott időpontig köteles megfizetni. Késedelmes teljesítés esetén a visszafizetendő összeg után a 37/N. § (3) bekezdése szerinti mértékű késedelmi kamatot kell felszámolni, és korrekciót a késedelmi kamattal együtt a fizetési határidő lejártát követően folyósítandó támogatásból le kell vonni. Ha a visszafizetendő támogatás és a késedelmi kamat együttes összege nem éri el az ezer forintot, azt nem kell megfizetni.
+
+(4) A korrekcióból eredő visszafizetési kötelezettségre – a központi költségvetés végrehajtásáról szóló törvény eltérő rendelkezése hiányában – fizetési kedvezmény nem engedélyezhető.
+
+(4a)[^218] A korrekció eredményeként a bevett egyházat megillető vagy terhelő összeget a kincstár Budapesti és Pest Vármegyei Igazgatósága a bevett egyházi fenntartó részére, a korrekcióval érintett évre végleges döntéssel megállapított támogatás alapjául szolgáló létszámadatok figyelembevétel számított működési támogatás arányában hivatalból állapítja meg.
+
+(5) A korrekcióról elszámolást nem kell benyújtani.
+
+### 16/G. [^219] A hit- és erkölcstanoktatás, valamint a hittanoktatás támogatása
+
+#### 37/S. §[^220]
+
+(1)[^221] A hit- és erkölcstanoktatáshoz kapcsolódó átlagbéralapú és tankönyvtámogatás, valamint a hittanoktatás átlagbéralapú támogatásának igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbéralapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
+
+(2)[^222]
+
+(3)[^223] A hit- és erkölcstanoktatásra beiratkozott tanulók tárgyév október 1-jei becsült létszáma módosítása miatt a bevett egyház a támogatásra vonatkozó pótigényét vagy lemondását október 31-éig nyújthatja be.
+
+(4)[^224] A (2) bekezdésben foglalt igénylés alapján
+
+a) január–augusztus hónapokra a tárgyévet megelőző év október 1-jei ténylétszám szerint 8/12 arányban,
+
+b) szeptember–december hónapokra a tárgyév október 1-jei becsült létszám alapján 4/12 arányban
+
+állapítja meg az Igazgatóság a támogatást.
+
+(5)[^225]
+
+(6)[^226]
+
+(7)[^227] A hit- és erkölcstanoktatás támogatására vonatkozó kérelmet a bevett egyház a kincstár Budapesti és Pest Vármegyei Igazgatóságához nyújtja be.
+
+(8)[^228] A bevett egyház a hit- és erkölcstanoktatás megszüntetésére, szüneteltetésére vonatkozó döntéséről és a megszüntetés, szüneteltetés tervezett kezdő időpontjáról a döntést követő nyolc napon belül értesíti a kincstár Budapesti és Pest Vármegyei Igazgatóságát és az állami iskola fenntartóját.
+
+(9)[^229] Az állam, a nemzetiségi önkormányzat, a bevett egyház és annak belső egyházi jogi személye mint az iskola fenntartója a hit- és erkölcstanoktatás, valamint a hittanoktatás megtartását igazoló nyilatkozatát január 15-éig, a (8) bekezdés szerinti esetben a megszüntetéstől, szüneteltetéstől számított 15 napon belül az érintett iskolák szerinti bontásban küldi meg a bevett egyháznak. A nyilatkozat tartalmazza az érintett iskola hivatalos nevét, OM azonosítóját, az oktatásban részt vett tanulók számát feladatellátási hely, évfolyamonkénti és csoportonkénti bontásban és a ténylegesen megtartott hit- és erkölcstanórák számát.
+
+(10)[^230]
+
+(11)[^231] A hit- és erkölcstanoktatáshoz, valamint a hittanoktatáshoz kapcsolódó támogatás igénylésekor és az elszámolásakor nem kell alkalmazni a 37/B. § (1) bekezdés d) pontjában meghatározottakat.
+
+## III/B. Fejezet — A KÖZNEVELÉSI INTÉZMÉNYBEN IDEIGLENES VÉDELEMRE JOGOSULT TANULÓK FEJLESZTÉSÉNEK, NEVELÉSÉNEK-OKTATÁSÁNAK MEGVALÓSÍTÁSÁRA VONATKOZÓ SZABÁLYOK[^232]
+
+#### 37/T. §
+
+(1) A nemzetiségi önkormányzati, az egyházi és magán köznevelési intézmény fenntartója (e § alkalmazásában a továbbiakban együtt: fenntartó) részére az ideiglenes védelemre jogosult tanulók (e § alkalmazásában a továbbiakban: tanuló) fejlesztésének, nevelésének-oktatásának megvalósítására havonta 130 000 forint/hó/tanuló fajlagos összeg (a továbbiakban: kiegészítő támogatás) kerül megállapításra.
+
+(2) A kiegészítő támogatás akkor illeti meg a fenntartót, ha a tanítási évben a tanuló számára az adott hónapban az alapellátáson felül heti öt óra egyéni felkészítést biztosított.
+
+(3) A kiegészítő támogatás igénylése, elszámolása során, ha egy tanuló nem a teljes hónapban részesül nevelésben-oktatásban, egy tizedes számra kerekítve kell megállapítani az adott havi tanulói átlaglétszámot.
+
+(4) A fenntartó egy tanuló után a kiegészítő támogatást a tanítási év időszakában, tanulónként legfeljebb 10 hónapig veheti igénybe. A fenntartó a kiegészítő támogatást – a 37/C. § (1) bekezdésében foglaltaktól eltérően – havonta, az egyéni felkészítést követő hónap ötödik napjáig igényelheti az Igazgatóságtól az általa fenntartott köznevelési intézménnyel jogviszonyban álló, az adott hónapban egyéni felkészítésben részesített tanulók (3) bekezdés szerinti átlaglétszáma alapján.
+
+(5) A fenntartó a kiegészítő támogatás iránti kérelem benyújtásakor igazolja, hogy az általa fenntartott köznevelési intézménnyel a tanuló jogviszonyban áll.
+
+(6) A kiegészítő támogatás iránti igény elbírálásának ügyintézési határideje tíz nap. Az Igazgatóság a kérelemnek jogszerű hallgatással is helyt adhat.
+
+(7) A fenntartót megillető kiegészítő támogatást havonta utólag, az igénylést követő hónap hetedik napjáig kell folyósítani. Az október-december havi támogatásokat egy összegben, december hónapban kell folyósítani.
+
+(8) A kiegészítő támogatás elszámolására, ellenőrzésére és visszafizetésére a III/A. Fejezet rendelkezéseit kell alkalmazni. A fenntartó a kiegészítő támogatásra vonatkozó igényét a tárgyévre vonatkozó elszámolás keretében is érvényesítheti.
+
+## IV. Fejezet[^233] — A KÖZNEVELÉSI INTÉZMÉNYEK HATÓSÁGI ELLENŐRZÉSÉNEK TÁRGYKÖREI
+
+#### 38. §
+
+(1)[^234]
+
+(2)[^235] Az illetékes kormányhivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+
+## IV/A. Fejezet[^236] — A KÖZNEVELÉSI FELADATOKAT ELLÁTÓ HATÓSÁGOK
+
+#### 38/A. §[^237]
+
+(1)[^238] A Kormány a kormányhivatalt jelöli ki az Nkt. 21. § (2), (4a), (9) bekezdésében, 23. § (3) és (6) bekezdésében, 32. § (2) bekezdésében, 33. § (1) és (5) bekezdésében, 34. §-ában, 38. § (7) bekezdésében, 39. § (3) bekezdésében, 58. § (5) bekezdésében, 77. § (4) bekezdésében, 79. § (2), (6) és (7) bekezdésében, 83. § (2) bekezdés e) pontjában, 84. § (6) bekezdésében, 93. §-ában a köznevelési feladatokat ellátó hatóság feladatainak ellátására.
+
+(2)[^239] A fővárosi és vármegyei kormányhivatalok hatósági és törvényességi ellenőrzési eljárásával és döntésével összefüggésben a felügyeleti szerv számára a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvényben (a továbbiakban: Ksztv.) meghatározott jogköröket a miniszter gyakorolja.
+
+#### 38/B. §[^240]
+
+Az Nkt. 8. § (2) bekezdése és 45. § (8) bekezdése szerinti felmentést engedélyező szerv a fővárosi és vármegyei kormányhivatal általános illetékességgel eljáró járási hivatala.
+
+#### 38/C. §[^241]
+
+A kormányhivatal az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 2. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
+
+## V. Fejezet[^242] — A KÖZNEVELÉSI HATÓSÁGI ELJÁRÁSOK KIEGÉSZÍTŐ ELJÁRÁSI SZABÁLYAI
+
+### 16/H. Az egyházi, magán és nemzetiségi önkormányzati fenntartású köznevelési intézmények nyilvántartásba vételével és működési engedély kiadásával kapcsolatos eljárási szabályok
+
+#### 39. §
+
+(1)[^243] Ha a köznevelési intézmény székhelye megváltozik, az Nkt. 21. § (2) bekezdésében foglaltak szerint újra nyilvántartásba kell venni, feltéve, hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
+
+(2) Az egyházi, magán és nemzetiségi önkormányzati fenntartású köznevelési intézmények működéséhez szükséges engedély iránti kérelmet az intézmény nyilvántartásba vételét vagy annak módosítását követő hat hónapon belül lehet benyújtani.
+
+(3)[^244] Ha a köznevelési intézménynek a székhelyén kívül telephelye is van, a telephelyre az Nkt. 23. §-a szerint működési engedélyt kell kérni. A telephely szerint illetékes kormányhivatal a kérelem benyújtásáról 8 napon belül értesíti az intézmény székhelye szerint illetékes kormányhivatalt. A telephelyre vonatkozó működési engedély kiadása iránti kérelmet a telephely szerint illetékes kormányhivatal bírálja el. A véglegessé vált határozatot meg kell küldeni a székhely szerint illetékes kormányhivatalnak, amely a működési engedélyt a telephelyre vonatkozó működési engedélyre tekintettel egységes döntésbe foglalja.
+
+(4)[^245] A telephely szerint illetékes kormányhivatal gyakorolja a fenntartó, valamint az intézmény működésének törvényességi és hatósági ellenőrzésével kapcsolatos hatásköröket, azzal az eltéréssel, hogy a nyilvántartásból történő törlésről – megkeresésre – a székhely szerinti kormányhivatal intézkedik.
+
+(5)[^246] Új iskola indítása esetén, valamint – a fenntartói jog átadása kivételével – az Nkt. 84. § (7) bekezdése szerinti esetekben a tervezett indítás vagy a megszüntetés, az átszervezés évének május utolsó munkanapjáig, fenntartói jog átadása esetén június 20-ig nyújthatja be a fenntartó a kormányhivatalhoz az intézmény működésének megkezdéséhez szükséges engedély iránti kérelmet. A kérelem benyújtására meghatározott határidő elmulasztása jogvesztő.
+
+#### 40. §
+
+(1)[^247] Az eljáró hatóság az egyházi, magán és nemzetiségi önkormányzati alapítású, fenntartású köznevelési intézmény működési engedélyének kiadásával kapcsolatos eljárása keretében vizsgálja, hogy a köznevelési intézmény működéséhez rendelkezésre állnak vagy felmenő rendszerben megteremthetőek a személyi, tárgyi, munkavédelmi, tűzvédelmi, közegészségügyi, pénzügyi feltételek, és azok biztosítják-e a nevelő, oktató munka, vagy a pedagógiai-szakmai szolgáltatás és pedagógiai szakszolgálati feladat folyamatos, hosszú távú, biztonságos, egészséges, szakszerű megszervezését.
+
+(2)[^248] Az eljáró hatóság határozatában feltünteti
+
+a) az alapító, a fenntartó nevét, székhelyét,
+
+b) a köznevelési intézmény nevét, típusát, működő intézmény esetén OM azonosítóját, adószámát, székhelyét, valamennyi telephelyét, tagintézményét,
+
+c) feladatellátási helyenként az ellátott köznevelési alapfeladatokat jogszabály szerinti megnevezéssel, valamint alapfeladatonként és munkarendenként azt a legmagasabb gyermek- és tanulólétszámot, amelyet köznevelési, valamint a pedagógiai szakszolgálati intézmény fogadni képes,
+
+d)[^249] iskola esetén az oktatás munkarendjét,
+
+e) köznevelési intézmény esetében a gyermekétkeztetés ellátásának módját,
+
+f)[^250] sajátos nevelési igényű gyermekek, tanulók ellátása esetén a sajátos nevelési igényt megalapozó fogyatékosságnak a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve és a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve szerinti meghatározását, a tartós gyógykezelés alatt álló gyermekek, tanulók ellátása esetén – a nevelési igényt megalapozó – tartós gyógykezelés alatt álló gyermekek, tanulók köznevelési ellátásának irányelve szerinti meghatározását,
+
+g)[^251] szakgimnázium esetén feladatellátási helyenként és munkarendenként a programkövetelményben meghatározottak szerint a szakmai képzés megnevezését és azonosító számát, szakiskola esetén feladatellátási helyenként és munkarendenként a szakma megnevezését, a hozzá kapcsolódó szakmairányt, a szakmajegyzékben meghatározott azonosító számot, a szakma szintjét, valamint azt, hogy a szakmai oktatás megszervezéséhez iskolai tanműhely rendelkezésre áll-e,
+
+h) alapfokú művészetoktatás esetén feladatellátási helyenként a művészeti ágakat, azon belül a tanszakok megnevezését, valamint művészeti áganként azt a legmagasabb tanulólétszámot, amelyet az alapfokú művészeti iskola fogadni képes,
+
+i) a köznevelési intézmény gazdálkodásának módját,
+
+j) nemzetiségi óvodai nevelés, nemzetiségi iskolai nevelés-oktatás esetén a nemzetiség óvodai nevelésének irányelve és a Nemzetiség iskolai oktatásának irányelvében meghatározott óvodai nevelési formát, iskolai oktatási formát.
+
+(3) Ha az engedélyezési eljárás arra irányul, hogy a köznevelési intézmény székhelye vagy telephelye másik köznevelési intézmény által használt épületben legyen, az engedélyezési eljárásban
+
+a) be kell szerezni az épületet átadó intézmény fenntartójának, továbbá, ha nem a fenntartó az épület tulajdonosa vagy vagyonkezelői jogának jogosultja, akkor a tulajdonos vagy a vagyonkezelői jog gyakorlójának hozzájáruló nyilatkozatát,
+
+b) meg kell vizsgálni, hogy az engedélyezni kért tevékenységre az adott épület használatba vételi engedélye kiterjed-e,
+
+c) meg kell vizsgálni, hogy az épület befogadóképessége alapján biztosított-e a köznevelési intézmények együttes zavartalan működése, és
+
+d) a köznevelési intézmények esetében meg kell vizsgálni, hogy nem lépik-e át a befogadó intézmény alapító okiratában engedélyezett maximális létszámot.
+
+(4)[^252]
+
+(5)[^253] A kormányhivatal az Nkt. 21. § (8) bekezdésében foglaltakon túl a köznevelési intézményt törli a nyilvántartásból, ha elutasítja a működési engedély kiadását.
+
+(6)[^254] Az eljáró hatóság a köznevelési intézmény nyilvántartásba vételéről, adatainak megváltozásáról, illetve az általa vezetett nyilvántartásból való törléskor 15 napon belül értesítést küld a KIR számára, továbbá értesíti a költségvetési hozzájárulást folyósító szervet.
+
+#### 41. §
+
+(1) A működési engedély iránti kérelemnek intézmény-specifikusan tartalmaznia kell:
+
+1\. az alapító nevét, székhelyét, értesítési címét,
+
+2\. a fenntartó nevét, székhelyét, értesítési címét,
+
+3\. a köznevelési intézmény hivatalos nevét, az intézmény típusát, székhelyét,
+
+4\. a köznevelési intézmény székhelyére és minden telephelyére vonatkozóan külön-külön
+
+4.1. az ott ellátott alapfeladatokat,
+
+4.2. amennyiben nem a fenntartó az épület tulajdonosa, az épület feletti rendelkezési jog időtartamának kezdő és befejező dátumát,
+
+4.3.[^255] a köznevelésialapfeladat-ellátás megkezdésének tervezett dátumát,
+
+4.4. az épületbe felvehető maximális gyermek- és tanulólétszámot,
+
+4.5. a tantermek számát,
+
+4.6. a tantermek alapterületét,
+
+4.7. a tervezett évfolyamok felsorolását,
+
+4.8. az óvodai csoportszobák számát,
+
+4.9. az óvodai csoportszobák alapterületét,
+
+4.10. a tervezett óvodai csoportok számát,
+
+4.11. az óvoda napi nyitvatartási idejét, a nyitás és a zárás időpontját,
+
+4.12.[^256] szakgimnázium és szakiskola esetén a 40. § (2) bekezdés g) pontjában meghatározottakat,
+
+4.13. alapfeladatonként és munkarendenként a legmagasabb gyermek- és tanulói létszámot,
+
+4.14. pedagógiai szakszolgálati feladatonként az ellátható maximális gyermek-, tanulólétszámot, továbbá a feladatok ellátását biztosító helyiségek számát, alapterületét,
+
+4.15. nevelési-oktatási intézmény esetében a gyermekétkeztetés ellátásának módját.
+
+(2) A működési engedély iránti kérelemhez csatolni kell
+
+a) a köznevelési intézmény pedagógiai programját,
+
+b)[^257] pedagógiai szakszolgálati intézmény esetében a miniszter szándéknyilatkozatát a pedagógiai szakszolgálati tevékenységre irányuló köznevelési szerződés megkötéséről,
+
+c) a fenntartói igazolást arról, hogy a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek feletti rendelkezési jog a köznevelési intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított (megállapodás, hozzájáruló nyilatkozat),
+
+d) annak igazolását, hogy a helyiségek a köznevelési intézmény feladatainak ellátására alkalmasak,
+
+e)[^258]
+
+f)[^259] a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket a kötelező (minimális) helyiség- és eszközjegyzékben, valamint a kötelező (minimális) felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket , valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét,
+
+g) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön az óvodai nevelésben, az iskolai nevelésben-oktatásban, a pedagógiai szakmai szolgáltatást nyújtó intézményben és a pedagógiai szakszolgálati intézményben foglalkoztatott pedagógusok, pedagógiai előadók, pedagógiai szakértők, óraadók listáját, feltüntetve a nevüket, végzettségüket és szakképzettségüket, iskola esetén tantárgyi bontásban, valamint a pedagógus,a pedagógiai előadó, a pedagógiai szakértő munkakör betöltésére jogosító végzettséget és szakképzettséget tanúsító oklevél kiállítóját és az oklevélszámát, a tantárgyfelosztást, továbbá a működéshez szükséges többi alkalmazott nevét, végzettségét és szakképzettségét, foglalkoztatásuk módját és időtartamát, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott személyi feltételek biztosítottak,
+
+h) a pénzügyi feltételek teljesítésének igazolásához
+
+ha) a köznevelési intézmény egészére vonatkozóan a székhelyre és valamennyi telephelyre vonatkozóan együttesen részletes kimutatást arról, hogy az intézmény tevékenységét milyen forrásokból finanszírozzák, a források között feltüntetve a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és forgóeszközök értékét, a tervezett bevételi forrásokat,
+
+hb) a fenntartó által jóváhagyott egy évre szóló költségvetést, amely tartalmazza a működéshez szükséges befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba beleértve az alkalmazottak bérét, annak közterheit és a tanulói juttatások költségeit, valamint
+
+hc) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
+
+### 16/I. [^260] A sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, illetve a szakértői véleményben foglaltakkal összefüggő eljárási szabályok
+
+#### 42. §
+
+(1)[^261] Az illetékes tankerületi központ közigazgatási hatósági eljárás keretében hoz döntést a beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény megállapításával, illetve a szakértői véleményben foglaltakkal összefüggésben.
+
+(2) Az eljárás megindítását a szülő kérheti, ha nem ért egyet a szakértői véleményben foglaltakkal, illetve a szakértői bizottság eljárásával.
+
+(3) Az eljárás megindítását köteles kérni
+
+a)[^262] a nevelési-oktatási, a szakképző a gyermekjóléti, gyermekvédelmi, szociális intézmény, vagy a gyámhatóság, ha a szülő a szakértői vizsgálat szükségességével nem ért egyet, illetve a kérelmet nem írja alá,
+
+b) a szakértői bizottság, ha a szülő a gyermekével a szakértői vizsgálaton ismételt felhívás ellenére nem jelenik meg vagy a szakértői vizsgálatban nem működik közre, illetve a szakértői véleményben foglaltakkal vagy annak továbbításával nem ért egyet,
+
+c) a szakszolgálati-esélyegyenlőségi szakértő, ha a szakértői bizottság eljárásában megszegték a vizsgálat eljárási szabályait,
+
+d)[^263] a kijelölt intézmény igazgatója, ha a gyermeket a szakértői vélemény alapján a kijelölt intézménybe nem íratják be, vagy az ellátásban a szülő gyermekével önhibájából nem vesz részt.
+
+(4)[^264] Az eljárásra az a tankerületi központ illetékes, amelynek a működési területén a gyermek, tanuló lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek, tanuló tartózkodási helye található.
+
+(5)[^265] Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a tankerületi központ illetékességét a gyermek tartózkodási helye határozza meg.
+
+(6)[^266] A tankerületi központ az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A tankerületi központ az (1) bekezdés szerinti döntés egy példányát a döntés véglegessé válását követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
+
+#### 43. §
+
+(1) A szakértői vizsgálaton való részvételre kötelező döntés rendelkező részének tartalmaznia kell:
+
+a) a szakértői bizottság megkeresését szakértői vizsgálat elvégzésére,
+
+b) a felhívást, hogy a szülő gyermekével a szakértői bizottság által megadott időpontban és helyen szakértői vizsgálat céljából jelenjen meg és a szakértői vizsgálatban működjön közre,
+
+c) a szülő tájékoztatását arról, hogy a szakértői vizsgálatra utazás költségeinek megtérítésére igényt tarthat, továbbá a szülő tájékoztatását a szakértői vizsgálatra utazás költségei megtérítésének módjáról.
+
+(2) Az óvodai foglalkozáson való kötelező részvételt elrendelő határozatnak, valamint a tankötelezettség kijelölt iskolában való teljesítését elrendelő határozat rendelkező részének tartalmaznia kell:
+
+a) óvodába, illetve iskolába járó gyermek esetén a nevelési-oktatási intézmény megnevezését és címét,
+
+b) az óvoda megkeresését a gyermek felvétele céljából,
+
+c) az iskola, a kollégium megkeresését a gyermek, tanuló felvétele céljából,
+
+d) a kijelölt iskolába való beíratás idejét,
+
+e) a tankötelezettség teljesítési módjának a meghatározását,
+
+f)[^267] az iskolai, óvodai fejlesztések javasolt heti óraszámát és a pedagógiai szakszolgálat keretében javasolt szolgáltatásokat, továbbá annak megjelenítését, ha a gyermek a tankötelezettségét kizárólag egyéni munkarendben teljesítheti,
+
+g) az arról szóló tájékoztatást, hogy a gyermek, tanuló fejlődését a szakértői bizottság hivatalból megvizsgálja.
+
+(3)[^268]
+
+(4)[^269] A tankerületi központ eljárásában szakértőként – a tankerületi központ kirendelése alapján – az ELTE Gyakorló Országos Pedagógiai Szakszolgálat (a továbbiakban: Gyakorló Szakszolgálat) vagy az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
+
+(5) Az eljárásban szakértőként nem vehet részt az a szakértő, aki a (4) bekezdésben meghatározott szakértői bizottság részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
+
+(6)[^270]
+
+#### 44. §[^271]
+
+(1) A 42. §-ban és 43. §-ban foglaltaktól eltérően az EMMI rendelet szerinti szakértői bizottságként eljáró Gyakorló Szakszolgálat szakértői véleményében foglaltakkal és eljárásával kapcsolatban a (2)–(4) bekezdés rendelkezései alkalmazandóak.
+
+(2) Az eljárást az a kormányhivatal folytatja le, amelynek a működési területén a Gyakorló Szakszolgálat vizsgálatát kezdeményező személy lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, tartózkodási helye található.
+
+(3) A kormányhivatal az eljárása megindításáról nyolc napon belül értesíti a Gyakorló Szakszolgálatot.
+
+(4) A kormányhivatal eljárásában diagnosztikai kérdésekben szakértőként – a kormányhivatal kirendelése alapján – a Gyakorló Szakszolgálat jár el azzal, hogy az eljárásban nem vehet részt az a szakértő, aki a Gyakorló Szakszolgálat részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
+
+## V/A. Fejezet[^272] — A TANKÖTELEZETTSÉG MEGKEZDÉSE ALÓLI FELMENTÉSSEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK
+
+#### 44/A. §
+
+(1) A (2) és (3) bekezdésben foglalt kivétellel a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a Hivatal általi kirendelés esetén szakértőként az EMMI rendelet szerinti azon járási szakértői bizottság jár el, amelynek a működési területén a gyermek lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek tartózkodási helye található, vagy amelynek a területén a gyermek intézményes ellátásban részesül.
+
+(2)[^273] Ha a kérelem benyújtását megelőzően megállapításra került a sajátos nevelési igény ténye, akkor a hatósági eljárásban szakértőként az EMMI rendelet szerinti azon vármegyei szakértői bizottság jár el, amelynek a működési területén a gyermek lakóhelye, ennek hiányában vagy ha az nem állapítható meg, a gyermek tartózkodási helye található, vagy amelynek a területén a gyermek intézményes ellátásban részesül.
+
+(3) A hatósági eljárásban szakértőként az az EMMI rendelet szerinti mozgásszervi, érzékszervi (látási, hallási), illetve beszédfogyatékosság megállapítására jogosult szakértői bizottság jár el, amely a sajátos nevelési igény tényét a kérelem benyújtását megelőzően megállapította.
+
+#### 44/B. §
+
+(1) A szakértői vizsgálat időpontjáról szóló értesítést a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított öt napon belül meg kell küldeni a szülőnek. A szakértői vizsgálat időpontját a szakértői bizottság a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított tizenöt napon belüli időpontra tűzi ki.
+
+(2) Ha a szülő a szakértői vizsgálat időpontjában önhibájából nem jelenik meg, további vizsgálati időpont biztosításának mellőzésével a szakértői bizottság a vizsgálat elmaradásáról és annak okáról értesíti a Hivatalt.
+
+(3) Ha a szülő a szakértői vizsgálat időpontjában önhibáján kívül nem jelenik meg, további egy alkalommal kell számára vizsgálati időpontot biztosítani az elmulasztott vizsgálati időpontot követő naptól számított öt napon belüli időpontra.
+
+(4) A szakértőként kirendelt szakértői bizottság szakértői véleményét a Hivatal eljárásának megindításától számított 30 napon belül megküldi a Hivatalnak.
+
+## V/B. Fejezet[^274] — A NEMZETI KÖZNEVELÉSRŐL SZÓLÓ TÖRVÉNY SZERINTI EGYES NYILVÁNTARTÁSOKKAL ÖSSZEFÜGGŐ BIZONYÍTÁSI ESZKÖZÖK
+
+#### 44/D. §[^275]
+
+(1)[^276] A szaktanácsadói névjegyzékbe történő felvétel iránti kérelemnek tartalmaznia kell az Nkt. 3. mellékletében meghatározott végzettséget és szakképzettséget és a pedagógus szakvizsga követelményeinek teljesítését igazoló oklevél számát, keltét, a kibocsátó intézmény (szak, kar) megnevezését, a végzettség, szakképzettség megnevezésével, illetve a nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismeréséről szóló határozat számát.
+
+(2) A kérelemhez csatolni kell a munkáltató által kiállított igazolást a tíz év gyakorlati idő meglétéről, nyugdíjas kérelmező esetén, az utolsó munkáltató vagy annak jogutódja, jogutód nélkül megszűnt munkáltató esetén a munkáltató fenntartója általi, ennek hiányában más, hitelt érdemlő igazolást.
+
+#### 44/E. §
+
+(1) Az Országos szakértői névjegyzékbe történő felvételhez a bejelentésnek tartalmaznia kell az Nkt. 82. § (2) bekezdésében a szakértői tevékenység folytatásának feltételeként előírt adatokon kívül a végzettséget és szakképzettséget igazoló oklevél számát, keltét, a kibocsátó intézmény (szak, kar) megnevezését, a végzettség, szakképzettség megnevezésével, illetve a nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismeréséről szóló határozat számát kell tartalmaznia.
+
+(2) A bejelentéshez csatolni kell:
+
+a) a munkáltató által kiállított igazolást a tíz év gyakorlati idő meglétéről, nyugdíjas bejelentő esetén a gyakorlati időnek az utolsó munkáltató vagy annak jogutódja, jogutód nélkül megszűnt munkáltató esetén a munkáltató fenntartója általi, ennek hiányában más, hitelt érdemlő igazolást,
+
+b) az igazgatási szolgáltatási díj befizetését igazoló készpénz átutalási megbízás másolatát, amennyiben a befizetés elektronikusan történt, az összeg átutalását igazoló bankkivonatot,
+
+c) az esélyegyenlőségi szakterület megjelölése esetén az esélyegyenlőségi szakterületen szervezett továbbképzésen való részvételt igazoló oklevelek, bizonyítványok, tanúsítványok másolatát,
+
+d) nemzetiségi nevelés és oktatás szakterület esetén nemzetiségi nevelési-oktatási intézményben szerzett tíz év gyakorlati idő meglétéről szóló, munkáltató által kiállított igazolást.
+
+#### 44/F. §
+
+(1) Az Országos szakértői névjegyzékbe történő, az Nkt. 82. § (2) bekezdés szerinti engedélyezési eljárás megindításához a kérelemnek tartalmaznia kell az Nkt.-ban előírt végzettséget és szakképzettséget igazoló oklevél számát, keltét, a kibocsátó intézmény (szak, kar) megnevezését, a végzettség, szakképzettség megnevezésével, illetve a nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismeréséről szóló határozat számát.
+
+(2) A kérelemhez csatolni kell:
+
+a) a 44/E. § (2) bekezdés a)–d) pontjában meghatározottakat,
+
+b) részletes szakmai önéletrajzot,
+
+c) a publikációk jegyzékét,
+
+d) a szakterület elismert képviselőjeként kapott szakmai díjak, címek, kitüntetések jegyzékét,
+
+e) a kérelmet benyújtó szakmai tevékenységét tartalmazó – legalább két – szakmai ajánlást.
+
+(3) A kérelem a Hivatal által rendszeresített adatlapon nyújtható be.
+
+#### 44/G. §
+
+Az Országos érettségi vizsgaelnöki névjegyzékbe történő felvétel iránti kérelemhez csatolni kell
+
+a) a végzettséget és szakképzettséget igazoló oklevél számát, keltét, a kibocsátó intézmény (szak, kar) megnevezését, a végzettség, szakképzettség megnevezésével,
+
+b) a munkáltató által kiállított igazolást a tíz év pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben töltött gyakorlati idő meglétéről,
+
+c) a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben, továbbképzésen történő részvétel igazolását.
+
+## V/C. Fejezet[^277] — A PEDAGÓGIAI SZAKSZOLGÁLATI TEVÉKENYSÉG SORÁN ALKALMAZOTT INTEGRÁLT NYOMON KÖVETŐ RENDSZER MŰKÖDTETÉSE, AZ INFORMÁCIÓS RENDSZER RÉSZÉRE TÖRTÉNŐ ADATSZOLGÁLTATÁS RENDJE
+
+#### 44/H. §
+
+(1) Az integrált nyomon követő rendszerbe (a továbbiakban: INYR) való adatrögzítéssel történő adatszolgáltatás a Hivatal által e célból kialakított, központi szerverén működtetett, webes kezelőfelületen történő adatrögzítéssel valósul meg.
+
+(2)[^278] A Hivatal az Onytv. 2. melléklet 1.1. pont *b)* pontjában meghatározott adatokat a pedagógiai szakszolgálati intézmények megkeresésére interfész kapcsolaton, biztonságos csatornán keresztül megküldi az INYR részére.
+
+(3) Az INYR-be történő adatszolgáltatásért, valamint a szolgáltatott adatok hitelességéért a pedagógiai szakszolgálatnak a gyermeket, tanulót közvetlenül ellátó munkatársa felel.
+
+(4) A Hivatal az INYR működtetése során biztosítja, hogy jogosulatlan személyek az INYR-ben szereplő adatokhoz ne férjenek hozzá.
+
+(5) A Hivatal a központi szerverén folyamatosan naplózza az INYR-rel kapcsolatos nyilvántartási, adatrögzítési eseményeket, az adatkezeléssel nem járó adatlekérdezéseket, valamint gondoskodik ezek visszakereshetőségéről.
+
+#### 44/I. §
+
+(1) Az adatok INYR-ben történő rögzítése a pedagógiai szakszolgálati ellátás része.
+
+(2)[^279] Az adatrögzítésért felelős munkatárs részére az INYR-be történő belépéshez a Hivatal belépési azonosítót képez, amelyet az igazgató útján megküld az érintett részére.
+
+(3)[^280] A pedagógiai szakszolgálati intézmény igazgatója haladéktalanul köteles a Hivatalnak bejelenteni, ha az adatrögzítésre jogosult munkatárs adataiban változás következett be, vagy a pedagógiai szakszolgálati intézménnyel fennálló jogviszonya megszűnt.
+
+## V/D. Fejezet[^281] — A TÁMOGATÓ RENDSZER
+
+#### 44/J. §
+
+(1)[^282] A támogató rendszer nevelési-oktatási intézményenként, telephelyenként és évfolyamonként az iskolai nevelés-oktatás ötödik–tizenkettedik évfolyamán a lemorzsolódással veszélyeztetett tanulók vonatkozásában a (2) bekezdésben meghatározott statisztikai adatokat tartalmazza.
+
+(2) A statisztikai adatok magukban foglalják azon lemorzsolódással veszélyeztetett tanulók létszám szerint összesített adatát, akik számára pedagógiai támogatás indokolt az alábbi okokból:
+
+a)[^283] tudásuknak a tanév végi vagy félévi értékelésekor és minősítésekor az egy tizedesjegyig számított tanulmányi átlageredmény a magatartás és szorgalom értékelését, minősítését nem beleszámítva nem éri el a közepes (3) szintet ha az alapfokú nevelés-oktatásban vesznek részt, és a 2,5 szintet, amennyiben a középfokú nevelés-oktatásban vesznek részt, vagy egy félév alatt vagy a megelőző tanévhez képest legalább 1,1 mértékű romlást mutat;
+
+b) félévkor vagy a tanítási év végén tudásuk értékelésekor és minősítésekor egy vagy több tantárgyból elégtelen (1) osztályzatot kaptak;
+
+c) félévkor vagy a tanítási év végén a magatartás minősítésekor rossz (2) minősítést kaptak;
+
+d) félévkor vagy a tanítási év végén a szorgalom minősítésekor hanyag (2) minősítést kaptak;
+
+e) évismétlésre kötelezettek;
+
+f) a 26/A. § (2) bekezdésében foglalt adatszolgáltatási időszakra vonatkoztatva 50 tanítási órát és egyéb foglalkozást elérő igazolatlan hiányzással rendelkeznek;
+
+g)[^284] szülői kérésre egyéni munkarenddel rendelkező tanulók vagy akiknek szülői kérésre a az egyéni munkarend megállapítása folyamatban van;
+
+h) a menedékjogról szóló 2007. évi LXXX. törvény szerint menekültek, oltalmazottak, menedékesek;
+
+i) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerint veszélyeztetettnek minősülnek;
+
+j) a Gyvt. szerint ideiglenes hatállyal elhelyezettek vagy nevelésbe vettek vagy
+
+k) az alábbi feltételek közül legalább kettő fennáll:
+
+ka) a 26/A. § (2) bekezdésében foglalt adatszolgáltatási időszakra vonatkoztatva a 100 tanítási órát és egyéb foglalkozást elérő igazolt mulasztással rendelkeznek,
+
+kb) kiemelt figyelmet igénylő tanulók a kiemelten tehetséges tanulók kivételével,
+
+kc) rendszeres gyermekvédelmi kedvezményben részesülnek,
+
+kd) általános iskolai nevelés-oktatásban vesznek részt, és betöltötték a tizenhatodik életévüket,
+
+ke) a középfokú nevelés-oktatásba tizenhatodik életévük betöltését követően léptek be.
+
+(3) A (2) bekezdés b) és e) pontja szerinti esetekben a tantárgyat is meg kell adni.
+
+## V/E. Fejezet[^285] — TÖBBCÉLÚ KÖZNEVELÉSI INTÉZMÉNYRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
+
+#### 44/K. §
+
+A többcélú köznevelési intézményre, alkalmazottaira és tanulóira az Nkt. rendelkezéseit kell alkalmazni azzal, hogy a többcélú köznevelési intézmény által ellátott, nem köznevelési alapfeladat tekintetében az alapfeladatot szabályozó jogszabálynak kizárólag az alapfeladat megszervezése szakmai tartalmát és annak oktatásához szükséges végzettségi, képesítési és munkaköri követelményeket meghatározó rendelkezéseit kell alkalmazni.
+
+## V/F. Fejezet[^286] — A KÖZNEVELÉS TANKÖNYVELLÁTÁSA
+
+#### 44/L. §[^287]
+
+(1) A Kormány
+
+a) az Nkt. 93/A. § (3) bekezdés b) pontjában meghatározott állami tankönyvfejlesztésért és kiadásért felelős szerv feladatait ellátó szervként a Hivatalt,
+
+b) az Nkt. 93/A. § (4) bekezdésében meghatározott könyvtárellátó feladatait ellátó szervként a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Könyvtárellátó)
+
+jelöli ki.
+
+(2) A Könyvtárellátó az iskolában alkalmazott tankönyvek terjesztésével kapcsolatos feladatok ellátása során bizományosként is eljárhat.
+
+#### 44/M. §
+
+(1) A tankönyvellátási szerződés a Könyvtárellátó és
+
+a) abban az esetben, ha az Nkt. 7. § (1) bekezdés b)–j) pontjában meghatározott nevelési-oktatási intézményt (a továbbiakban: iskola) tankerületi központ tartja fenn, a tankerületi központ,
+
+b) nem tankerületi központ fenntartásában működő iskola esetén az iskola
+
+között jön létre.
+
+(2)[^288] Az iskola a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket a (3) bekezdés szerinti közreműködőtől a Könyvtárellátó bevonásával szerzi be, amelyről a Könyvtárellátó és a közreműködő külön megállapodást köt.
+
+(3)[^289] A Könyvtárellátó a Magyar Vakok és Gyengénlátók Országos Szövetsége (a továbbiakban: közreműködő) bevonásával biztosítja a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket.
+
+(4)[^290] A közreműködő a kiadó által átadott tankönyveket a vak vagy gyengénlátó tanuló részére átalakítja.
+
+(5)[^291]
+
+(6)[^292] A kiadó jogosult ellenőrizni, hogy a közreműködő a tankönyvet kizárólag a vak és gyengénlátó tanulók iskolai tankönyvellátására – beleértve az iskolai könyvtári ellátást is – használta-e fel.
+
+(7) A tanuló részére, ha sajátos nevelési igénye vagy egészségi állapota indokolja, a kiadó a tankönyvjegyzéken szereplő tankönyv digitális változatát biztosítja.
+
+#### 44/N. §
+
+(1) A tankönyvvé nyilvánítási eljárás kérelemre vagy hivatalból indul.
+
+(2) A Hivatal az általa fejlesztett dokumentumokat – e rendelet megfelelő alkalmazásával – hivatalból tankönyvvé nyilváníthatja.
+
+(3) A kérelmet írásban, a KIR részeként Tankkönyvvé nyilvánítási adminisztrációs rendszer alkalmazásával lehet benyújtani.
+
+(4) A tankönyvvé nyilvánítási kérelemhez – a 44/P. § szerinti eljárás kivételével – csatolni kell:
+
+a) azt a dokumentumot, amely tartalmazza
+
+aa) közismereti nyomtatott könyv esetén a kiadó adatait, a könyv adatait és jellemzőit, a nevelés-oktatás típusát,
+
+ab) digitális tananyag, elektronikus könyv, digitálisan rögzített könyv esetén a felhasználási jog jogosultjának adatát, a digitális tananyag vagy az elektronikus könyv, digitálisan rögzített könyv adatait, jellemzőit, az oktatás típusát,
+
+b) azt a könyvet kettő példányban, amelynek tankönyvvé nyilvánítását kérik,
+
+c) a kérelmező nyilatkozatát arról, hogy a tankönyvvé nyilvánítás időtartama alatt folyamatosan rendelkezni fog a könyv teljes körű felhasználási jogaival,
+
+d) a kérelmező nyilatkozatát arról, hogy a könyv tartalmaz-e átvett szerzői művet vagy kapcsolódó jogi teljesítményt, és ha igen, akkor a nyilatkozatnak ki kell terjednie arra is, hogy a kérelmező a tankönyvvé nyilvánítás időtartama alatt folyamatosan rendelkezni fog az átvett szerzői mű vagy szomszédos jogi teljesítmény felhasználási jogaival.
+
+(5) A tankönyvvé nyilvánítás eljárás tartama alatt a könyvnek – az eljárás során a szakértők által feltárt hibák javításának kivételével – a tartalma, illetve a kivitele nem változtatható meg.
+
+(6) Ha a tankönyvvé nyilvánítási kérelem benyújtásakor nem áll rendelkezésre papíralapú könyv, akkor lehetőség van a könyvet digitális formában mellékelni a kérelemhez, azzal, hogy
+
+a) a kiadó nyilatkozik a papíralapú könyv belíve, borítója fizikai megjelenésének paramétereiről és kötészeti módjáról, valamint
+
+b) legkésőbb a tankönyvvé nyilvánítási kérelem benyújtása évének augusztus 15-éig a könyv papíralapú változatát is be kell nyújtani a Hivatalhoz.
+
+#### 44/O. §
+
+(1) A könyv különböző kötésmódban megjelenő változatainak tankönyvvé nyilvánítása iránt változatonként külön kérelmet kell benyújtani.
+
+(2) Tankönyvvé nyilvánítási kérelmet kell benyújtani, ha a könyv borítója, impresszuma változik.
+
+#### 44/P. §
+
+(1) Ha a tankönyvet tartalmában vagy kivitelében megváltoztatták – ide nem értve a (3) bekezdésben meghatározott esetet, valamint a 44/Q. § (6) bekezdése szerint egybeszerkesztett könyveket – a tankönyvvé nyilvánítási eljárást ismételten le kell folytatni.
+
+(2) Nem jelenti a könyv tartalmi változtatását a benne szereplő helyesírási és nyomdahibáknak, továbbá a tankönyvvé nyilvánítás eljárásának ideje alatt megváltozott tényeknek, adatoknak a tankönyv adott oldalain történő javítása, feltéve, hogy a javítás miatt nem változik meg a lapok számozása, és a javításról készült jegyzéket a kérelmező – saját költségén – megküldi a Hivatalnak, a Könyvtárellátónak és a Könyvtárellátón keresztül azoknak az iskoláknak, amelyek az adott tankönyvből a javítás évét megelőző három évben rendeltek.
+
+(3) Javítási kérelmet kell benyújtani akkor, ha a Hivatal által jóváhagyott tankönyvben helyesírási és nyomdahibának nem minősülő hibákat javítani kívánják, ha azok nem haladják meg a tankönyv terjedelmének 10%-át, továbbá ha a tartós tankönyvvé nyilvánított tankönyv tartós jellegének megszüntetését kezdeményezik. Javítási kérelmet a könyv tankönyvvé nyilvánítási engedélyének időbeli hatálya alatt egy alkalommal lehet benyújtani.
+
+(4) A (3) bekezdés szerinti kérelemhez – a hibák jellegétől, mennyiségétől függően – csatolni kell:
+
+a) a jóváhagyott, javítandó könyvet egy példányban,
+
+b) a könyv javított oldalait, részeit vagy a javított könyvet kettő példányban,
+
+c) a javítások tételes felsorolását, továbbá
+
+d) nyilatkozatot arról, hogy a jóváhagyott tankönyvet – a javításokon túl – sem tartalmában, sem kivitelében nem változtatták meg.
+
+(5) A javítás tényét a benyújtott tankönyvben fel kell tüntetni.
+
+#### 44/Q. §
+
+(1) Ha a jogosult – a tankönyvvé nyilvánítás ideje alatt – a könyv felhasználási jogait másnak átengedi, erről a Hivatalt harminc napon belül értesíti.
+
+(2) A tankönyvvé nyilvánítás folyamatossága érdekében az új jogosultnak a jogok átengedésétől számított harminc napon belül a tankönyv felhasználási jogainak átengedése tárgyában kérelmet kell benyújtania.
+
+(3) A (2) bekezdés szerinti kérelemhez csatolni kell az új jogosult kérelmező nyilatkozatát arról, hogy
+
+a) a tankönyvet – ide nem értve a tankönyv borítójának, impresszumának, kötésmódjának a megváltoztatását – sem tartalmában, sem kivitelében nem változtatták meg,
+
+b) a tankönyvvé nyilvánítás időtartamára az új jogosult kérelmező rendelkezik a könyv kiadói szerződésben rögzített felhasználási jogaival,
+
+c) a tankönyv tartalmaz-e átvett szerzői művet vagy kapcsolódó jogi teljesítményt, és amennyiben tartalmaz, a nyilatkozatnak ki kell terjedni arra is, hogy a tankönyvvé nyilvánítás időtartama alatt az új jogosult kérelmező folyamatosan rendelkezni fog az átvett szerzői mű vagy szomszédos jogi teljesítmény felhasználási jogaival.
+
+(4) A tankönyvvé nyilvánítás folyamatossága érdekében az új jogosultnak a jogok átengedésétől számított harminc napon belül a tankönyv borítójának vagy a kötésmódjának megváltoztatása tárgyában kérelmet kell benyújtania a Hivatalhoz a jóváhagyott tankönyv megváltozó borítójára, impresszumára, kötésmódjára tekintettel is.
+
+(5) A (4) bekezdés szerinti kérelemhez csatolni kell
+
+a) a megváltoztatott borítójú tankönyv esetében az eredeti és a megváltozott borítót PDF-formátumban elkészítve, kinyomtatva papír alapon egy-egy példányban, a megváltoztatott kötésmódú tankönyv esetében az eredeti és a megváltozott könyvet egy példányban, valamint a nyilatkozatot arról, hogy a jóváhagyott tankönyvet – a borítón, az impresszumon, a kötésmódon kívül – sem tartalmában, sem kivitelében nem változtatták meg; a változtatás tényét a benyújtott tankönyvben fel kell tüntetni,
+
+b) ha a tankönyv borítója, impresszuma, kötésmódja kizárólag a (2) bekezdésben foglaltak miatt változott meg, az eredeti és a megváltozott tankönyv borítójának, impresszumának PDF-formátumú digitális változatát.
+
+(6) A tankönyvvé nyilvánítás időtartama alatt a felhasználási jog tulajdonosa jogosult a tulajdonában álló egyes tankönyvek egy tankönyvvé történő egybeszerkesztésére.
+
+#### 44/R. §
+
+(1) A tankönyvvé nyilvánítási eljárásban vizsgálni kell különösen, hogy
+
+a) a könyv alkalmas-e a Nemzeti alaptanterv rendelkezéseinek megfelelően az adott műveltségi terület, tantárgy tananyagtartalmának oktatására,
+
+b) a könyv biztosítja-e a szaktudományok megfelelő szintű, tudományos, hiteles, tárgyilagos feldolgozását,
+
+c) a könyv biztosítja-e az ismereteknek, fejlesztési feladatoknak az érintett tanulói korosztályoknak megfelelő pedagógiai módszerekkel és nyelvezettel történő közvetítését, tartalmaz-e részletes bibliográfiai hivatkozást,
+
+d) a könyv technológiai kivitelezése megfelel-e a könyvészeti, egészségügyi követelményeknek, továbbá alkalmas-e a tankönyvvé nyilvánítás időtartama alatt történő felhasználásra,
+
+e) a könyv alkalmas-e
+
+ea) a tankönyv előállításának alapjául szolgáló kerettantervek tananyagtartalmának a kerettantervben meghatározott időkeretben történő elsajátítására abban az esetben, ha a miniszter az adott könyv által lefedett pedagógiai szakaszra és tantárgyra kerettantervet adott ki és tett közzé,
+
+eb) a tantárgyi, tanulási területi követelmények elsajátítására az adott iskolatípusban és évfolyamon,
+
+ec) középiskolai tankönyv esetén a tankönyv által érintett tantárgynak megfelelő érettségi vizsgatárgy részletes követelményeire való felkészítésre,
+
+f) a könyv
+
+fa) a tanítási-tanulási folyamatban a szaktudományok eredményeit az adott évfolyamon vagy évfolyamokon a tanulók fejlettségi szintjéhez igazodóan, a kognitív fejlődés törvényszerűségeinek figyelembevételével a Nemzeti alaptanterv összefüggésrendszerében jeleníti-e meg, és az ismeretek elsajátítását az életkornak megfelelően differenciált didaktikai eszköztárral segíti-e,
+
+fb) segíti-e a tanulói képességek, készségek kialakítását, valamint
+
+fc) a könyvhöz tartozó munkafüzet idegen nyelvi könyvek esetében 1–8. évfolyamon tartalmaz-e kétnyelvű szószedetet a köteten belül mellékletként.
+
+(2) A tankönyvvé nyilvánítás érdekében az (1) bekezdésben foglaltakra vonatkozó részletes javaslatait a Hivatal a honlapján közzéteszi.
+
+(3) Az eljárásban közreműködő szervezet és a döntéshozó szerv tagjaként nem járhat el az, aki a könyv elkészítésében – különösen annak írásában, szerkesztésében, szakmai vagy nyelvi lektorálásában vagy fordításában – részt vett, vagy a könyv kiadójával közvetlenül vagy gazdasági társaságon keresztül az eljárást megindító kérelem benyújtásának évét megelőző három éven belül munkavégzésre irányuló jogviszonyban vagy megbízási jogviszonyban állt.
+
+(4) Ha a nemzetiségi nevelés-oktatás céljaira készült könyv tankönyvvé nyilvánítási eljárása során szakértőt kell igénybe venni – a 44/Q. § (2)–(4) bekezdésében foglalt eljárások kivételével –, akkor az Országos Nemzetiségi Tanács rendelhető ki.
+
+#### 44/S. §
+
+(1) A könyv tankönyvvé nyilvánítási engedélyének időbeli hatálya annak a tanévnek az utolsó napjáig tart, amelyik a határozat véglegessé válását követő ötödik naptári évben fejeződik be. A tankönyv borítójának, impresszumának, kötésmódjának a 44/P. § szerinti megváltozása miatt indult, valamint a 44/Q. § (4) bekezdése szerinti eljárásban a könyv megváltozott borítójú, impresszumú, kötésmódú, valamint a 44/P. § (3) bekezdése szerinti javításokat tartalmazó változatának tankönyvvé nyilvánítása a megváltoztatott kivitelű és javított könyv tankönyvvé nyilvánításáról rendelkező végleges határozatban megjelölt időpontig tart.
+
+(2) A nevelési-oktatási program, pedagógiai rendszer részeként jóváhagyott információhordozó tankönyvvé nyilvánításáról szóló határozat tartalmazza a nevelési-oktatási programnak, pedagógiai rendszernek a megnevezését, továbbá azt a rendelkezést, hogy a tankönyv kizárólag a nevelési-oktatási program, pedagógiai rendszer részeként alkalmazható.
+
+#### 44/T. §
+
+A tankönyvben feltüntetendő, a tankönyvre vonatkozó adatokat a Hivatal a honlapján közzéteszi.
+
+#### 44/U. §
+
+Hatályát veszti a könyv tankönyvvé nyilvánítási engedélye, ha
+
+a) lejárt az az időszak, amelyre a tankönyvvé nyilvánítás szólt, és annak lejárta előtt legfeljebb százötven, de legalább százhúsz nappal a kiadó nem kérte a tankönyvvé nyilvánítási engedély meghosszabbítását,
+
+b) a 44/Q. § (4) bekezdésében meghatározott kérelem benyújtását elmulasztották, a kérelem benyújtására nyitva álló határidő lejártát követő harmincadik napon,
+
+c) a tankönyvet tartalmában vagy kivitelében megváltoztatták – a 44/P. § (3) bekezdésében meghatározott kivétellel – és azt külön eljárás lefolytatása nélkül tankönyvként forgalmazzák, a tankönyvvé nyilvánításának megszűnését kimondó határozat véglegessé válásának napján.
+
+#### 44/V. §
+
+(1) A tankönyvvé nyilvánítás meghosszabbítására kizárólag
+
+a) a tankönyvfejlesztésért és kiadásért felelős szerv által kiadott tankönyvek,
+
+b) a nemzetiségi nyelv és irodalom, népismeret tantárgyakhoz készült, az önálló fejlesztésű nemzetiségi nyelvű közismereti tankönyvek, a magyar nyelven jóváhagyott tankönyvek nemzetiségi nyelvre történő fordítása, valamint
+
+c) a sajátos nevelési igényű tanulók neveléséhez-oktatásához készített tankönyvek
+
+esetében van lehetőség.
+
+(2) A tankönyvvé nyilvánítás meghosszabbítására vonatkozó tankönyvvé nyilvánítási eljárást a tankönyvvé nyilvánítás határidejének lejártát megelőző legfeljebb százötven, de legalább százhúsz nappal korábban kell kérelmezni, és a kérelemhez a tankönyvet egy példányban kell megküldeni a Hivatalnak.
+
+(3) A tankönyvvé nyilvánítás meghosszabbítása legfeljebb három alkalommal kérelmezhető, a meghosszabbítás alkalmanként legfeljebb öt évre szól.
+
+#### 44/W. §
+
+(1) A tankönyvnek tankönyvjegyzékre történő felvétele iránti kérelmet a Hivatalhoz kell benyújtani a Hivatal által a KIR rendszereként működtetett elektronikus rendszeren keresztül, az ott meghatározott adattartalommal. Ettől eltérően a Hivatalnak az általa kiadott és általa hivatalból tankönyvnek nyilvánított tankönyvek vonatkozásában nem kell tankönyvjegyzékre történő felvétel iránt kérelmet benyújtania. A Hivatal a KIR rendszereként működtetett elektronikus rendszeren keresztül adatlapon rögzíti a tankönyvjegyzékre vonatkozó adattartalmat.
+
+(2) A tankönyvnek a következő tanévben alkalmazott tankönyvjegyzékre történő felvételi kérelmét a kiadó február 1-jétől március 25-éig nyújthatja be a Hivatalhoz.
+
+(3) Az 1. melléklet tartalmazza
+
+a) a köznevelési közismereti tankönyvekre vonatkozó legmagasabb iskolai terjesztési árakat (a továbbiakban: árkorlát),
+
+b) a sajátos nevelési igényű tanulók neveléséhez-oktatásához készített tankönyvekre vonatkozó árkorlátot,
+
+c) az adott tanévet megelőző tanévben 1000 példánynál kisebb példányszámban rendelt nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvekre vonatkozó árkorlátot,
+
+d) a digitális tananyagokra vonatkozó árkorlátot azzal a kivétellel, hogy a digitálisan rögzített könyv formátumú digitális tananyagra vonatkozó árkorlát a köznevelési közismereti tankönyv egyszínnyomású, adott terjedelemkategória árának 70%-a.
+
+(4)[^293] A művészeti, pedagógiai, közművelődési képzést folytató nevelési-oktatási intézményben, továbbá a szakiskolában és a készségfejlesztő iskolában alkalmazott tankönyv legmagasabb iskolai terjesztési árára a közismereti tankönyvekre vonatkozó árkorlátot kell alkalmazni.
+
+(5) A nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvek tekintetében a (3) bekezdésben nem szabályozott esetekben a köznevelési közismereti tankönyvekre meghatározott árkorlát az irányadó.
+
+(6) A tankönyvjegyzékre az a tankönyv vehető fel,
+
+a) amelynek tankönyvvé nyilvánítási engedélyének időbeli hatálya legalább a rendelési időszak kezdeti időpontjában fennáll;
+
+b) amelynek kérelmezője vállalja, hogy a tankönyv megfelel az árkorlátnak, függetlenül attól, hogy a tankönyv többszörözése és terjesztése üzletszerű vagy sem, azzal, hogy e rendelkezés alkalmazásában a tankönyv többszörözése és terjesztése akkor üzletszerű, ha annak célja a nyereség elérése vagy a vagyonszerzés;
+
+c)[^294] amelynek kérelmezője vállalja a tankönyv, valamint az elektronikus úton rögzített tananyag (a továbbiakban: digitális tananyag) elektronikus úton történő átadását a közreműködő részére, annak megkeresésére.
+
+(7) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről a Hivatal dönt. A Hivatal évente összeállítja a tankönyvek adott tanévre vonatkozó tankönyvjegyzékét, és minden év március 30-áig megküldi a miniszter részére. A tankönyvjegyzéket a Hivatal közzéteszi a honlapján.
+
+(8) A Hivatal elutasítja az adott tanévi tankönyvjegyzékre történő felvételre benyújtott kérelmet, ha
+
+a) az Nkt. 93/C. § (3) bekezdésében meghatározott kettő tankönyv az adott tanévi tankönyvjegyzékre már felvételre került;
+
+b) a könyvkiadást folytató jogi személy
+
+ba) a tankönyv árát az előző tanévben alkalmazott árhoz képest változatlan közgazdasági feltételek mellett a Központi Statisztikai Hivatal által előző naptári évre közzétett ipari termelői árindex száz százalékát meghaladóan meg kívánja növelni,
+
+bb) nem vállalja a (6) bekezdés b) és c) pontjában meghatározott kötelezettség teljesítését.
+
+(9) A Hivatal törli a tankönyvet a tankönyvjegyzékről, ha
+
+a) a tankönyvjegyzékre történő felvétel iránti kérelmet el kellett volna utasítani, vagy
+
+b) a könyvkiadást folytató jogi személy a (6) bekezdésben vállalt kötelezettségeit megszegte.
+
+#### 44/X. §
+
+(1) A digitális tananyag jóváhagyására a könyv tankönyvvé nyilvánítására vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A digitális tananyag jóváhagyása iránti kérelemhez – a 44/N. § (4) bekezdés a), c) és d) pontjában meghatározottakon kívül – csatolni kell
+
+a) online digitális tananyag esetén
+
+aa) az elérési útvonalát,
+
+ab) a véleményezéshez szükséges hozzáférési jogokat biztosító információt,
+
+ac) azt a nyilatkozatot, amelyben a kérelmező garantálja az anyag elérhetőségét és változatlanságát,
+
+ad) HTML-alapú online digitális tananyag esetén a szöveges átiratát és a videó- és hangzóanyagokat adathordozón,
+
+b) nem online digitális tananyag esetén a jóváhagyandó tananyagot.
+
+(3) A tankönyvvé nyilvánítási engedéllyel rendelkező vagy a tankönyvjegyzékre felvehető tankönyv a digitális tanulás támogatása érdekében digitálisan rögzített könyv formátumban vagy online digitális tananyag formában közzétehető, amely esetekben tankönyvvé nyilvánítási eljárást nem kell lefolytatni.
+
+(4) A (3) bekezdés szerinti online digitális tananyag legfeljebb tíz százalékban eltérhet a tankönyvvé nyilvánítási engedéllyel rendelkező tankönyv tananyagtartalmától.
+
+(5) A (4) bekezdés szerinti digitális tananyag további interaktív vagy audiovizuális kiegészítő tananyagot tartalmazhat, az ilyen kiegészítő tananyagok esetében nem kell lefolytatni tankönyvvé nyilvánítási eljárást.
+
+(6) A (4) és az (5) bekezdésben meghatározott digitális tananyagnak összhangban kell lennie az alapjául szolgáló tankönyv tananyagtartalmával.
+
+(7) A digitálisan rögzített könyv formátumú tankönyv papíralapú változata is tankönyvvé nyilvánítható.
+
+#### 44/Y. §
+
+(1) Ha az egyházi jogi személy az Nkt. 35. §-a alapján a nevelési-oktatási intézményben fakultatív hitoktatást, hit- és erkölcstanoktatást szervez, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény szerinti egyház kezdeményezésére a fakultatív hitoktatásban, a hit- és erkölcstanoktatásban alkalmazott könyv az e rendeletben szabályozott eljárás mellőzésével az egyháznak a Hivatalhoz tett bejelentése alapján tankönyvnek minősül, és az adott tanévre vonatkozó tankönyvjegyzékre történő felvétel lezárásáig teljesített bejelentés esetén fel kell venni az adott tanévi tankönyvjegyzékbe, ha a tankönyv ára az adott tanév vonatkozásában megfelel az árkorlátnak. A fakultatív hitoktatásban, továbbá a hit- és erkölcstanoktatásban alkalmazandó tankönyvek jegyzékét a tankönyvjegyzék külön-külön részeként kell közzétenni.
+
+(2) A nemzetiségi oktatás nyelvének megfelelő, a nemzetiségi iskolai oktatáshoz külföldről behozott tankönyv tankönyvjegyzékre vételét az érintett országos nemzetiségi önkormányzat kérelmezi.
+
+(3) Ha nincs a tankönyvjegyzéken a két tanítási nyelvű oktatáshoz alkalmazható tankönyv, és a Hivatal által fejlesztett tankönyv előállítására sincs lehetőség, akkor a tankönyvellátást az oktatás nyelvének megfelelő, külföldről behozott tankönyvvel is biztosítani lehet az adott tanévben.
+
+(4) A kiadó kérelmére és az Országos Nemzetiségi Tanács szakértői véleménye alapján a tankönyvjegyzékre fel kell venni azokat a nemzetiségi nevelés-oktatás céljára készített tankönyveket, amelyek tankönyvvé nyilvánítási engedélyének időbeli hatálya lejárt, és az adott oktatási formában, évfolyamon az adott tantárgyhoz nem áll rendelkezésre más tankönyv.
+
+(5) A sajátos nevelési igényű tanulók nevelésében, oktatásában alkalmazandó tankönyvek esetében tankönyvjegyzékre felvehetők azok a sajátos nevelési igényű tanulók nevelésének, oktatásának céljára készített tankönyvek, amelyek tankönyvvé nyilvánításának időbeli hatálya lejárt, és az adott oktatási formában, évfolyamon az adott tantárgyhoz nem áll rendelkezésre más tankönyv.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 17. Hatályba léptető rendelkezések
+
+#### 45. §
+
+(1) Ez a rendelet – (2) és (3) bekezdésben meghatározott kivételekkel – 2012. szeptember 1-jén lép hatályba.
+
+(2)–(4)[^295]
+
+### 18. Átmeneti rendelkezések
+
+#### 46. §[^296]
+
+(1) E rendeletnek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzet során kiadott egyes veszélyhelyzeti kormányrendeleti szabályok kivezetéséről szóló 196/2025. (VII. 8.) Korm. rendelet (a továbbiakban: Módr1.) által megállapított 36/A. §-át a már folyamatban lévő, veszélyeztetett státuszú köznevelési intézmények tekintetében is alkalmazni kell, azzal, hogy a kincstár fenntartó székhelye szerint illetékes területi igazgatósága a fenntartó által 2023. január 31-ig benyújtott és a 37/C. § (4) bekezdése szerint június 30-ig módosított kérelmében szereplő létszámadatok figyelembevételével, az intézményenként rögzített gyermek-, tanulólétszám arányában – a köznevelésért felelős miniszter eltérő rendelkezése hiányában – folyósítja a támogatást.
+
+(2) E rendeletnek a Módr1. által megállapított 37/T. §-át a köznevelési és szakképző intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozásról szóló 299/2022. (VIII. 9.) Korm. rendelet [a továbbiakban: 299/2022. (VIII. 9.) Korm. rendelet] alapján megállapított kiegészítő támogatásokra is alkalmazni kell, azzal, hogy a 299/2022. (VIII. 9.) Korm. rendelet szerint megállapított kiegészítő támogatást úgy kell tekinteni, hogy e rendelet szerint került megállapításra.
+
+#### 47. §
+
+(1)[^297]
+
+(2)[^298]
+
+(3)[^299]
+
+#### 50. §[^302]
+
+A 2023. évben a III/A. Fejezet szerint a fenntartó
+
+a) a 37/C. § (4) bekezdés a) és b) pontja szerinti bejelentését,
+
+b) a 37/C. § (5) bekezdése szerinti kezdeményezését,
+
+c) a 37/M. § (3) bekezdés a) pontja szerinti támogatásról lemondását,
+
+d) a 37/S. § (3) bekezdése szerinti támogatásra vonatkozó pótigényét vagy lemondását
+
+a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 157. § (10) és (13) bekezdésében rögzített bérintézkedések 2023. évi végrehajtása okán 2023. október 15-éig nyújthatja be.
+
+#### 53. §[^312]
+
+E rendeletnek a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelettel megállapított 38/A. § (2) bekezdése hatálybalépése[^313] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
+
+#### 54. §[^314]
+
+E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^315] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+
+#### 54/A. §[^316]
+
+E rendeletnek az egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 403/2023. (VIII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 44/L–44/Y. § rendelkezéseit a Módr. hatálybalépését[^317] követően a megismételt eljárásokban is alkalmazni kell.
+
+### 19.[^318] Az Európai Unió jogának való megfelelés
+
+#### 55. §
+
+E rendelet 33. § (1) bekezdés a) pont ac) alpontja és b) pont bl) alpontja az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló, 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdésének való megfelelést szolgálja.
+
+#### 56. §[^319]
+
+(1) E rendelet 44/L. §-a és 44/W. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet 44/L. §-ának és 44/W. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+### 20.[^320]
+
+### 21.[^322]
+
+## 1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^324]
+
+****A) KÖZNEVELÉSI KÖZISMERETI TANKÖNYVEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA****
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th></tr><tr><th>**1.**</th><th colspan="3">**Technológia**</th><th rowspan="2">**A tankönyv ára** **(bruttó Ft)**</th></tr><tr><th>**2.**</th><th>**Kötészet**</th><th>**Színek**</th><th>**A tankönyv terjedelme** **(A/5 ívben)**</th></tr></thead><tbody><tr><td>**3.**</td><td rowspan="12">Kartonált, irkafűzött vagy ragasztott kötés</td><td rowspan="4">Egyszínnyomás</td><td>1–10 ív</td><td>1070</td></tr><tr><td>**4.**</td><td>10,1–20 ív</td><td>1480</td></tr><tr><td>**5.**</td><td>20,1–30 ív</td><td>1740</td></tr><tr><td>**6.**</td><td>30,1–50 ív</td><td>1880</td></tr><tr><td>**7.**</td><td rowspan="4">Kétszínnyomás</td><td>1–10 ív</td><td>1340</td></tr><tr><td>**8.**</td><td>10,1–20 ív</td><td>1740</td></tr><tr><td>**9.**</td><td>20,1–30 ív</td><td>2140</td></tr><tr><td>**10.**</td><td>30,1–50 ív</td><td>2550</td></tr><tr><td>**11.**</td><td rowspan="4">Többszínnyomás</td><td>1–10 ív</td><td>1610</td></tr><tr><td>**12.**</td><td>10,1–20 ív</td><td>2010</td></tr><tr><td>**13.**</td><td>20,1–30 ív</td><td>2410</td></tr><tr><td>**14.**</td><td>30,1–50 ív</td><td>2810</td></tr><tr><td>**15.**</td><td colspan="4">A megfelelő kategória felára</td></tr><tr><td>**16.**</td><td colspan="3">Kartonált, cérnafűzött kötés</td><td rowspan="2">410</td></tr><tr><td>**17.**</td><td colspan="3">Kartonált, szálfelsütéses kötés</td></tr><tr><td>**18.**</td><td colspan="3">Táblakötés (kemény, flexibilis vagy megerősített kartonált borító)</td><td rowspan="5">810</td></tr><tr><td>**19.**</td><td colspan="3">Dosszié</td></tr><tr><td>**20.**</td><td colspan="3">Spirálozott kötés</td></tr><tr><td>**21.**</td><td colspan="3">Laponként zsugorfóliázott</td></tr><tr><td>**22.**</td><td colspan="3">Speciális kötés</td></tr><tr><td>**23.**</td><td colspan="3">Melléklet (nyomtatott vagy digitális vagy önálló adathordozó)</td><td>1340</td></tr></tbody></table>
+
+****B) A SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓK TANKÖNYVEINEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA (BRUTTÓ FT)****
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th><th>**F**</th></tr><tr><th>**1.**</th><th>**A tankönyv típusa**</th><th>**A tankönyv nyomása, gyártása**</th><th>**A tankönyv terjedelme** **(A/5 ívben)**</th><th>**1–500*** **példány**</th><th>**501–1000*** **példány**</th><th>**1001*** **példány felett**</th></tr></thead><tbody><tr><td>**2.**</td><td rowspan="9">Kartonált, irkafűzött vagy ragasztott kötés</td><td rowspan="3">Egyszínnyomás</td><td>1–10 ív</td><td>2 550</td><td>1 740</td><td>1070</td></tr><tr><td>**3.**</td><td>10,1–20 ív</td><td>4 150</td><td>2 410</td><td>1 480</td></tr><tr><td>**4.**</td><td>20,1 ív felett</td><td>4 420</td><td>3 080</td><td>1 740</td></tr><tr><td>**5.**</td><td rowspan="3">Kétszínnyomás</td><td>1–10 ív</td><td>3 880</td><td>2 410</td><td>1 740</td></tr><tr><td>**6.**</td><td>10,1–20 ív</td><td>5 750</td><td>3 210</td><td>2 140</td></tr><tr><td>**7.**</td><td>20,1 ív felett</td><td>8 290</td><td>4 820</td><td>3 480</td></tr><tr><td>**8.**</td><td rowspan="3">Négyszínnyomás</td><td>1–10 ív</td><td>6 820</td><td>4 680</td><td>2 680</td></tr><tr><td>**9.**</td><td>10,1–20 ív</td><td>12 040</td><td>7 360</td><td>4 150</td></tr><tr><td>**10.**</td><td>20,1 ív felett</td><td>13 910</td><td>8 830</td><td>5 490</td></tr><tr><td>**11.**</td><td colspan="6">A megfelelő kategória felára</td></tr><tr><td>**12.**</td><td colspan="3">Kartonált, cérnafűzött kötés</td><td colspan="3" rowspan="2">410</td></tr><tr><td>**13.**</td><td colspan="3">Kartonált, szálfelsütéses kötés</td></tr><tr><td>**14.**</td><td colspan="3">Táblakötés (kemény, flexibilis vagy megerősített kartonált borító)</td><td colspan="3" rowspan="5">810</td></tr><tr><td>**15.**</td><td colspan="3">Dosszié</td></tr><tr><td>**16.**</td><td colspan="3">Spirálozott kötés</td></tr><tr><td>**17.**</td><td colspan="3">Laponként zsugorfóliázott</td></tr><tr><td>**18.**</td><td colspan="3">Speciális kötés</td></tr><tr><td>**19.**</td><td colspan="3">Melléklet (nyomtatott vagy digitális) vagy önálló adathordozó</td><td colspan="3">1 340</td></tr></tbody></table>
+
+*Előző évi rendelési szám alapján
+
+****C) A NEMZETISÉGI TANKÖNYVEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA (BRUTTÓ FT)****
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th></tr><tr><th>**1.**</th><th>**Kötészet**</th><th>**Színek**</th><th>**A tankönyv terjedelme** **(A/5 ívben)**</th><th>**1–500 példány***</th><th>**501–1000 példány***</th></tr></thead><tbody><tr><td>**2.**</td><td rowspan="12">Kartonált, irkafűzött vagy ragasztott kötés</td><td rowspan="4">Egyszínnyomás</td><td>1–10 ív</td><td>4 680</td><td>3 350</td></tr><tr><td>**3.**</td><td>10,1–20 ív</td><td>7 360</td><td>5 090</td></tr><tr><td>**4.**</td><td>20,1–30 ív</td><td>9 360</td><td>6 420</td></tr><tr><td>**5.**</td><td>30,1–50 ív</td><td>11 370</td><td>8 430</td></tr><tr><td>**6.**</td><td rowspan="4">Kétszínnyomás</td><td>1–10 ív</td><td>5 350</td><td>3 750</td></tr><tr><td>**7.**</td><td>10,1–20 ív</td><td>8 700</td><td>5 490</td></tr><tr><td>**8.**</td><td>20,1–30 ív</td><td>11 370</td><td>6 820</td></tr><tr><td>**9.**</td><td>30,1–50 ív</td><td>14 040</td><td>8 830</td></tr><tr><td>**10.**</td><td rowspan="4">Többszínnyomás</td><td>1–10 ív</td><td>8 700</td><td>6 020</td></tr><tr><td>**11.**</td><td>10,1–20 ív</td><td>12 040</td><td>8 700</td></tr><tr><td>**12.**</td><td>20,1–30 ív</td><td>14 710</td><td>11 370</td></tr><tr><td>**13.**</td><td>30,1–50 ív</td><td>18 720</td><td>14 040</td></tr><tr><td>**14.**</td><td colspan="5">A megfelelő kategória felára</td></tr><tr><td>**15.**</td><td colspan="3">Kartonált, cérnafűzött kötés</td><td colspan="2" rowspan="2">410</td></tr><tr><td>**16.**</td><td colspan="3">Kartonált, szálfelsütéses kötés</td></tr><tr><td>**17.**</td><td colspan="3">Táblakötés (kemény, flexibilis vagy megerősített kartonált borító)</td><td colspan="2" rowspan="5">810</td></tr><tr><td>**18.**</td><td colspan="3">Dosszié</td></tr><tr><td>**19.**</td><td colspan="3">Spirálozott kötés</td></tr><tr><td>**20.**</td><td colspan="3">Laponként zsugorfóliázott</td></tr><tr><td>**21.**</td><td colspan="3">Speciális kötés</td></tr><tr><td>**22.**</td><td colspan="3">Melléklet (nyomtatott vagy digitális) vagy önálló adathordozó</td><td colspan="2">1 340</td></tr></tbody></table>
+
+*Előző évi rendelési szám alapján
+
+****D) A DIGITÁLIS TANANYAG TÍPUSAINAK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA****
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr><tr><th>**1.**</th><th>**A digitális tananyag fizikai megjelenése**</th><th>**A digitális tananyag felhasználójának száma**</th><th>**A digitális tananyag ára** **(bruttó)**</th></tr></thead><tbody><tr><td>**2.**</td><td rowspan="2">Online</td><td>legfeljebb 100 fő felhasználói létszámig<br>egyéni hozzáférés egy évre</td><td>540 Ft</td></tr><tr><td>**3.**</td><td>legalább 100 fő felhasználói létszámtól kezdve korlátlan iskolai hozzáférés egy évre</td><td>53 480 Ft</td></tr><tr><td>**4.**</td><td>Adathordozó</td><td>–</td><td>1610 Ft/db</td></tr></tbody></table>
+
+## 2. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^325]
+
+**A kormányhivatal hatósági engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1** | **Hatósági eljárás** | **Szakkérdés** | **Szakkérdés vizsgálatának feltétele** |
+| **2** | A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 40. § (1) bekezdése szerinti köznevelési intézmény működési engedélyének kiadásával kapcsolatos eljárások. | Köznevelési intézmény feladatellátási helyén szükséges tűzvédelmi előírások betartásával, a gyermekek, tanulók biztonságos neveléséhez, oktatásához való feltételek teljesítésével kapcsolatos szakkérdés, döntés. | Minden esetben. |
+
+## 3/a. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^326]
+
+## 3/b. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^327]
+
+## 3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^328]
+
+## 4. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^329]
+
+## 5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^330]
+
+## 6. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^331]
+
+## 7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^332]
+
+## 8. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^333]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 112. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés 6. pontja a 307/2017. (X. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés 8. pontja a 201/2024. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^6]: Az 1. § (2) bekezdés 10. pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés 17. pontja a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
+[^9]: Az 1. § (2) bekezdés 20. pontja a 486/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja, a 457/2017. (XII. 28.) Korm. rendelet 403. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^10]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
+[^12]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
+[^13]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.
+[^14]: A 2. § a 307/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 3. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^16]: A 3. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 51. §-ával megállapított, a 393/2017. (XII. 13.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^17]: A 3/A. §-t a 73/2013. (III. 8.) Korm. rendelet 19. §-a iktatta be.
+[^18]: A 4. § (1) bekezdés 2. pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 1. pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdés 3. pontja a 402/2023. (VIII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés 4. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont da) alpontja, a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdés 5. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont db) alpontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés 7. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dc) alpontja szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdés 10. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dd) alpontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 2. pontja szerint módosított szöveg.
+[^24]: A 4. § (1) bekezdés 14. pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 4. § (1) bekezdés 15. pontját a 403/2023. (VIII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^26]: Az 5. § (1) bekezdése a 342/2025. (X. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^27]: Az 5. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § e) pont ea) alpontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 3. pontja, a 403/2023. (VIII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § e) pont eb) alpontja szerint módosított szöveg.
+[^29]: A 6. § (2) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^30]: A 6. § (2) bekezdés c) pont cb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.
+[^31]: A 7. § (1) bekezdés a) pontja a 486/2016. (XII. 28.) Korm. rendelet 11. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja, a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^33]: A 7. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^34]: A 7. § (3) bekezdés a) pont aa) alpontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^35]: A 7. § (3) bekezdés a) pont ac) alpontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 4. pontja szerint módosított szöveg.
+[^36]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: A 8/A. §-t a 73/2013. (III. 8.) Korm. rendelet 20. §-a iktatta be.
+[^38]: A 8/A. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § b) pontja, a 403/2023. (VIII. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^39]: A 8/A. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^40]: A 9. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^41]: A 12. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 5. pontja szerint módosított szöveg.
+[^42]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^43]: A 13. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^44]: A 13. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^45]: A 13. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^46]: [A 13. § (2) bekezdés c) pontjában a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontjával elrendelt módosítás, amely szerint a „jogerőre emelkedését” szövegrész helyébe a „véglegessé válását” szöveg lép, nem vezethető át.]
+[^47]: A 14. § (1) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 1. §-ával megállapított, a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
+[^48]: A 18. § a 196/2019. (VIII. 1.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^49]: A 19. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § h) pontja szerint módosított szöveg.
+[^50]: A 20. § (3) bekezdés a) pont ab) alpontja a 307/2017. (X. 27.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^51]: A 20. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § i) pontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 6. pontja szerint módosított szöveg.
+[^52]: A 8. alcím (21. §) a 307/2017. (X. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^53]: A 21. § (1) bekezdése a 122/2018. (VII. 10.) Korm. rendelet 14. § a) pontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 7. pontja, a 201/2024. (VII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^54]: A 21. § (2) bekezdése a 122/2018. (VII. 10.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^55]: A 22. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 22. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^57]: A 22. § (2) bekezdés e) pont eb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.
+[^58]: A 22. § (2) bekezdés f) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^59]: A 22. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^60]: A 23. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 8. pontja szerint módosított szöveg.
+[^61]: A 23. § (5) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^62]: A 24. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.
+[^63]: A 25. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § l) pont la–lb) alpontja, a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 11. pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés f) pontja, a 403/2023. (VIII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^64]: A 25. § (4) bekezdése a 102/2016. (V. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^65]: A 25/A. §-t a 321/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^66]: A 26. § (1) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^67]: A 26. § (2) bekezdés nyitó szövegrésze a 201/2024. (VII. 29.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^68]: A 26. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^69]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
+[^70]: A 11/A. alcímet (26/A. §-t) a 354/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
+[^71]: A 26/A. § (4) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^72]: A 26/A. § (6) bekezdését a 354/2016. (XI. 18.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 278/2019. (XI. 21.) Korm. rendelet 6. §-a.
+[^73]: A 27. § a 257/2013. (VII. 5.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^74]: A 27. § (3) bekezdése a 36/2026. (III. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^76]: A 29. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 177. §-a, a 102/2016. (V. 13.) Korm. rendelet 7. § b) pontja, a 122/2018. (VII. 10.) Korm. rendelet 13. § a) pontja és 14. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^77]: Az I/A. fejezetet (29/A. §) a 143/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^78]: A 29/A. § (2) bekezdése a 122/2018. (VII. 10.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^79]: A 29/A. § (3) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
+[^80]: A II. fejezetet (30-32. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^81]: A 33. § (1) bekezdés nyitó szövegrésze a 486/2016. (XII. 28.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.
+[^82]: A 33. § (1) bekezdés a) pont ac) alpontját a 389/2023. (VIII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^83]: A 33. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 9. pontja szerint módosított szöveg.
+[^84]: A 33. § (1) bekezdés b) pont bb) alpontját a 102/2016. (V. 13.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^85]: A 33. § (1) bekezdés b) pont be) alpontját a 102/2016. (V. 13.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^86]: A 33. § (1) bekezdés b) pont bg) alpontját a 102/2016. (V. 13.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^87]: A 33. § (1) bekezdés b) pont bk) alpontját a 73/2013. (III. 8.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^88]: A 33. § (1) bekezdés b) pont bl) alpontját a 102/2016. (V. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 389/2023. (VIII. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^89]: A 33. § (1) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^90]: A 33. § (1) bekezdés e) pontja a 102/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^91]: A 33. § (1) bekezdés f) pontját a 102/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^92]: A 33. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^93]: A 33. § (3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^94]: A 33/A. §-t a 102/2016. (V. 13.) Korm. rendelet 2. §-a iktatta be.
+[^95]: A 34. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.
+[^96]: A 34. § (1) bekezdés f) pontját a 102/2016. (V. 13.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^97]: A 34. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte, újonnan a 201/2024. (VII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^98]: A 34. § (2a) bekezdését a 454/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^99]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be, szövege a 102/2016. (V. 13.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^100]: A 35. § (1) bekezdés b) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^101]: A 35. § (4) bekezdés nyitó szövegrésze a 102/2016. (V. 13.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^102]: A 35. § (5) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^103]: A 35. § (6) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
+[^104]: A 36. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.
+[^105]: A 36. § (1) bekezdés a) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § b) pontja, a 122/2018. (VII. 10.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^106]: A 36. § (1) bekezdés d) pontját a 102/2016. (V. 13.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
+[^107]: A 36. § (1a) bekezdését a 73/2013. (III. 8.) Korm. rendelet 26. §-a iktatta be.
+[^108]: A 36. § (1b) bekezdését a 73/2013. (III. 8.) Korm. rendelet 26. §-a iktatta be.
+[^109]: A 36. § (3) bekezdése a 102/2016. (V. 13.) Korm. rendelet 8. § j) pontja, a 402/2023. (VIII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^110]: A 36. § (4) bekezdése a 402/2023. (VIII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^111]: A 15/A. alcímet (36/A. §-t) a 196/2025. (VII. 8.) Korm. rendelet 26. §-a iktatta be.
+[^112]: A 16. alcím címe a 297/2013. (VII. 29.) Korm. rendelet 81. § e) pontja szerint módosított szöveg.
+[^113]: A 37. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § n) pontja, a 297/2013. (VII. 29.) Korm. rendelet 81. § e)–f) pontja, a 307/2017. (X. 27.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^114]: A 37. § (3) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § e) pontja, a 402/2023. (VIII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^115]: A 37. § (4) bekezdését a 353/2013. (X. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 102/2016. (V. 13.) Korm. rendelet 8. § k) pontja szerint módosított szöveg.
+[^116]: A 37. § (5) bekezdését a 3/2015. (I. 28.) Korm. rendelet 1. §-a iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^117]: A III/A. Fejezetet (37/A–37/S. §) a 353/2013. (X. 4.) Korm. rendelet 2. §-a iktatta be.
+[^118]: A 37/A. § b) pontja a 394/2025. (XII. 11.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^119]: A 16/B. alcím címe a 417/2020. (VIII. 30.) Korm. rendelet 15. § a) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
+[^120]: A 37/B. § (1) bekezdés nyitó szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 15. § b) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
+[^121]: A 37/B. § (1) bekezdés b) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 36/2026. (III. 5.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^122]: A 37/B. § (1) bekezdés c) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^123]: A 37/B. § (1) bekezdés d) pontja a 65/2021. (II. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^124]: A 37/B. § (1) bekezdés e) pontját a 65/2021. (II. 15.) Korm. rendelet 15. §-a iktatta be.
+[^125]: A 37/B. § (2) bekezdés nyitó szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 15. § c) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
+[^126]: A 37/B. § (2) bekezdés a) pont ac) alpontja a 3/2015. (I. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 3. pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^127]: A 37/B. § (2) bekezdés b) pontja a 394/2025. (XII. 11.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^128]: A 37/B. § (2) bekezdés c) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 394/2025. (XII. 11.) Korm. rendelet 29. § 3. pontja szerint módosított szöveg.
+[^129]: A 37/B. § (3) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 29. § 4. pontja szerint módosított szöveg.
+[^130]: A 37/B. § (4) bekezdését a 102/2016. (V. 13.) Korm. rendelet 3. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 5. pontja szerint módosított szöveg.
+[^131]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 402. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^132]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^133]: A 37/C. § (2) bekezdés a) pontja a 394/2025. (XII. 11.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^134]: A 37/C. § (2) bekezdés b) pontját a 417/2020. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^135]: A 37/C. § (2a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 26. § c)–d) pontja szerint módosított szöveg.
+[^136]: A 37/C. § (2b) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.
+[^137]: A 37/C. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 3. §-ával megállapított, a 394/2025. (XII. 11.) Korm. rendelet 29. § 7. pontja szerint módosított szöveg.
+[^138]: A 37/C. § (4) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^139]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^140]: A 37/C. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^141]: A 37/C. § (7) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^142]: A 37/C. § (8) bekezdését újonnan a 201/2024. (VII. 29.) Korm. rendelet 6. §-a iktatta be, a 394/2025. (XII. 11.) Korm. rendelet 30. § 1. pontja hatályon kívül helyezte.
+[^143]: A 37/D. § (1) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^144]: A 37/D. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 790/2021. (XII. 27.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
+[^145]: A 37/D. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^146]: A 37/D. § (3) bekezdés b) pontja a 212/2023. (VI. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^147]: A 37/D. § (3) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 65/2021. (II. 15.) Korm. rendelet 18. §-a iktatta be.
+[^148]: A 37/D. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 393/2017. (XII. 13.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^149]: A 37/D. § (6) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^150]: A 37/E. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § b)–c) pontja, a 232/2019. (X. 4.) Korm. rendelet 13. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^151]: A 37/E. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^152]: A 37/F. § (1) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^153]: A 37/F. § (1a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^154]: A 37/F. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § l) pontja hatályon kívül helyezte, újonnan a 394/2025. (XII. 11.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^155]: A 37/F. § (3) bekezdés a) pontja a 3/2015. (I. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 65/2021. (II. 15.) Korm. rendelet 26. § e) és f) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 2. pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 8. pontja szerint módosított szöveg.
+[^156]: A 37/F. § (3) bekezdés g) pontját a 394/2025. (XII. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^157]: A 37/H. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § d) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 9. pontja szerint módosított szöveg.
+[^158]: A 37/H. § (2a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be, nyitó szövegrésze a 394/2025. (XII. 11.) Korm. rendelet 29. § 10. pontja szerint módosított szöveg.
+[^159]: A 37/H. § (2a) bekezdés a) pontja a 394/2025. (XII. 11.) Korm. rendelet 29. § 11. pontja szerint módosított szöveg.
+[^160]: A 37/H. § (2a) bekezdés b) pontja a 394/2025. (XII. 11.) Korm. rendelet 29. § 12. pontja szerint módosított szöveg.
+[^161]: A 37/H. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^162]: A 37/I. § (1) bekezdése a 65/2021. (II. 15.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^163]: A 37/I. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 9. §-ával megállapított, a 790/2021. (XII. 27.) Korm. rendelet 20. § 3. pontja szerint módosított szöveg.
+[^164]: A 37/I. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^165]: A 37/J. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^166]: A 37/J. § (3) bekezdését a 3/2015. (I. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^167]: A 37/J. § (3a) bekezdését a 32/2024. (II. 22.) Korm. rendelet 11. §-a iktatta be.
+[^168]: A 37/J. § (3b) bekezdését a 32/2024. (II. 22.) Korm. rendelet 11. §-a iktatta be.
+[^169]: A 37/J. § (4) bekezdését a 3/2015. (I. 28.) Korm. rendelet 10. §-a iktatta be.
+[^170]: A 37/J. § (5) bekezdését a 3/2015. (I. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 29. § 13. pontja szerint módosított szöveg.
+[^171]: A 37/J. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^173]: A 37/L. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 6. §-ával megállapított, a 790/2021. (XII. 27.) Korm. rendelet 20. § 4. pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 14. pontja szerint módosított szöveg.
+[^174]: A 37/L. § (1a) bekezdését a 102/2016. (V. 13.) Korm. rendelet 5. §-a iktatta be.
+[^175]: A 37/L. § (2) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 24. §-ával megállapított szöveg. A 37/L. § (2) bekezdése az 57/2026. (III. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^176]: A 37/L. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte, újonnan a 201/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 29. § 15. pontja szerint módosított szöveg.
+[^177]: A 37/L. § (3a) bekezdését a 201/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 29. § 16. pontja szerint módosított szöveg.
+[^178]: A 37/L. § (4) bekezdése a 3/2015. (I. 28.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^179]: A 37/L. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § f) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
+[^180]: A 37/L. § (6) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 11. §-a iktatta be.
+[^181]: A 37/M. § (1) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^182]: A 37/M. § (2) bekezdés d) pontja a 394/2025. (XII. 11.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^183]: A 37/M. § (3) bekezdése a 790/2021. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^184]: A 37/M. § (4) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^185]: A 37/M. § (5) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^186]: A 37/M. § (6) bekezdése a 65/2021. (II. 15.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^187]: A 37/N. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § h) pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 17. pontja szerint módosított szöveg.
+[^188]: A 37/N. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^189]: A 37/N. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^190]: A 37/N. § (2a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^191]: A 37/N. § (3) bekezdése a 65/2021. (II. 15.) Korm. rendelet 23. §-ával megállapított, a 790/2021. (XII. 27.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
+[^192]: A 37/N. § (4) bekezdése a 65/2021. (II. 15.) Korm. rendelet 23. §-ával megállapított, a 790/2021. (XII. 27.) Korm. rendelet 20. § 7. pontja szerint módosított szöveg.
+[^193]: A 37/N. § (4a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 790/2021. (XII. 27.) Korm. rendelet 20. § 8. pontja szerint módosított szöveg.
+[^194]: A 37/N. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § i) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 9. pontja szerint módosított szöveg.
+[^195]: A 37/N. § (6) bekezdés nyitó szövegrésze a 65/2021. (II. 15.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
+[^196]: A 37/N. § (6) bekezdés a) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § h) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 10. pontja szerint módosított szöveg.
+[^197]: A 37/N. § (6) bekezdés b) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
+[^198]: A 37/O. § (1) bekezdése a 65/2021. (II. 15.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^199]: A 37/O. § (1a) bekezdését a 65/2021. (II. 15.) Korm. rendelet 24. §-a iktatta be.
+[^200]: A 37/O. § (1b) bekezdését a 65/2021. (II. 15.) Korm. rendelet 24. §-a iktatta be.
+[^201]: A 37/O. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^202]: A 37/O. § (3a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^203]: A 37/O. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^204]: A 37/O. § (4a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^205]: A 3/O. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^206]: A 37/P. § a 3/2015. (I. 28.) Korm. rendelet 19. § j)–k) pontja, a 232/2019. (X. 4.) Korm. rendelet 13. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^207]: A 37/Q. § (1) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
+[^208]: A 37/Q. § (2) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^209]: A 37/Q. § (3) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 29. § 19. pontja szerint módosított szöveg.
+[^210]: A 37/Q. § (4) bekezdése a 232/2019. (X. 4.) Korm. rendelet 12. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 141. § d) pontja szerint módosított szöveg.
+[^211]: A 37/Q. § (5) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^212]: A 37/Q. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 15. §-a iktatta be, szövege a 232/2019. (X. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^213]: A 37/Q. § (7) bekezdését a 394/2025. (XII. 11.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^214]: A 16/F. alcím címe a 394/2025. (XII. 11.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
+[^215]: A 37/R. § (1) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^216]: A 37/R. § (2) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^217]: A 37/R. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 20. §-a, a 790/2021. (XII. 27.) Korm. rendelet 20. § 6., 10. és 11. pontja szerint módosított szöveg.
+[^218]: A 37/R. § (4a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 12. pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § d) pontja szerint módosított szöveg.
+[^219]: A 16/G. alcím címe a 790/2021. (XII. 27.) Korm. rendelet 20. § 13. pontja szerint módosított szöveg.
+[^220]: A 37/S. § a 3/2015. (I. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^221]: A 37/S. § (1) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 15. § g) pontja, a 65/2021. (II. 15.) Korm. rendelet 26. § i) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 14. pontja, a 394/2025. (XII. 11.) Korm. rendelet 29. § 21. pontja szerint módosított szöveg.
+[^222]: A 37/S. § (2) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^223]: A 37/S. § (3) bekezdése a 65/2021. (II. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^224]: A 37/S. § (4) bekezdése a 65/2021. (II. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^225]: A 37/S. § (5) bekezedését a 65/2021. (II. 15.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^226]: A 37/S. § (6) bekezedését a 65/2021. (II. 15.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^227]: A 37/S. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 141. § d) pontja szerint módosított szöveg.
+[^228]: A 37/S. § (8) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 141. § d) pontja szerint módosított szöveg.
+[^229]: A 37/S. § (9) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 29. § 22. pontja szerint módosított szöveg.
+[^230]: A 37/S. § (10) bekezdését a 417/2020. (VIII. 30.) Korm. rendelet 15. § i) pontja hatályon kívül helyezte.
+[^231]: A 37/S. § (11) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^232]: A III/B. Fejezetet (37/T. §-t) a 196/2025. (VII. 8.) Korm. rendelet 27. §-a iktatta be.
+[^233]: A IV. fejezet címe a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja, a 790/2021. (XII. 27.) Korm. rendelet 20. § 15. pontja szerint módosított szöveg.
+[^234]: A 38. § (1) bekezdését a 403/2023. (VIII. 30.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^235]: A 38. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^236]: A IV/A. fejezetet (38/A. §) a 486/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^237]: A 38/A. § a 360/2019. (XII. 30.) Korm. rendelet 107. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^238]: A 38/A. § (1) bekezdése a 196/2020. (V. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 65/2021. (II. 15.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^239]: A 38/A. § (2) bekezdése a 196/2020. (V. 12.) Korm. rendelet 3. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^240]: A 38/B. §-t a 275/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^241]: A 38/C. §-t a 258/2024. (VIII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^242]: Az V. fejezetet (39–42. §) újonnan a 457/2017. (XII. 28.) Korm. rendelet 401. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^243]: A 39. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^244]: A 39. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés c)–d) és g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^245]: A 39. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^246]: A 39. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^247]: A 40. § (1) bekezdése a 790/2021. (XII. 27.) Korm. rendelet 20. § 17. pontja szerint módosított szöveg.
+[^248]: A 40. § (2) bekezdés nyitó szövegrésze a 790/2021. (XII. 27.) Korm. rendelet 20. § 17. pontja szerint módosított szöveg.
+[^249]: A 40. § (2) bekezdés d) pontja a 417/2020. (VIII. 30.) Korm. rendelet 15. § j) pontja szerint módosított szöveg.
+[^250]: A 40. § (2) bekezdés f) pontja a 403/2023. (VIII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^251]: A 40. § (2) bekezdés g) pontja a 13/2020. (II. 7.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
+[^252]: A 40. § (4) bekezdését a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 3. pontja hatályon kívül helyezte. [A 40. § (4) bekezdésében a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés b) pontjával elrendelt módosítás, amely szerint a „megyeszékhely szerinti járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg lép, nem vezethető át.]
+[^253]: A 40. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^254]: A 40. § (6) bekezdése a 790/2021. (XII. 27.) Korm. rendelet 20. § 17. és 18. pontja szerint módosított szöveg.
+[^255]: A 41. § (1) bekezdés 4. pont 4.3. alpontja a 13/2020. (II. 7.) Korm. rendelet 73. § 11. pontja szerint módosított szöveg.
+[^256]: A 41. § (1) bekezdés 4. pont 4.12. alpontja a 13/2020. (II. 7.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^257]: A 41. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 12. pontja szerint módosított szöveg.
+[^258]: A 41. § (2) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^259]: A 41. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 4. pontja, a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^260]: A 16/I. alcím címe a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^261]: A 42. § (1) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^262]: A 42. § (3) bekezedés a) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
+[^263]: A 42. § (3) bekezdés d) pontja a 201/2024. (VII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^264]: A 42. § (4) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés d) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^265]: A 42. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^266]: A 42. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^267]: A 43. § (2) bekezdés f) pontja a 196/2019. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^268]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^269]: A 43. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^270]: A 43. § (6) bekezdését a 31/2020. (II. 29.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte. [A 43. § (6) bekezdésében a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés b) pontjával elrendelt módosítás nem vezethető át.]
+[^271]: A 44. §-t a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 275/2019. (XI. 21.) Korm. rendelet – a 321/2019. (XII. 19.) Korm. rendelet 5. §-a szerint módosított – 2. §-a iktatta be.
+[^272]: Az V/A. fejezetet (44/A–44/B. §) újonnan a 275/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^273]: A 44/A. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^274]: A V/B. fejezetet (44/D–44/G. §) a 257/2013. (VII. 5.) Korm. rendelet 27. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 403. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^275]: A 44/D. § (1) bekezdése a 365/2014. (XII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^276]: A 44/D. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 403. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^277]: Az V/C. Fejezetet (44/H–44/I. §) a 268/2014. (XI. 3.) Korm. rendelet 2. §-a iktatta be.
+[^278]: A 44/H. § (2) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^279]: A 44/I. § (2) bekezdése a 402/2023. (VIII. 30.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^280]: A 44/I. § (3) bekezdése a 402/2023. (VIII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^281]: Az V/D. Fejezetet (44/J. §-t) a 354/2016. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
+[^282]: A 44/J. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 9. § 4. pontja, a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^283]: A 44/J. § (2) bekezdés a) pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^284]: A 44/J. § (2) bekezdés g) pontja a 196/2019. (VIII. 1.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^285]: Az V/E. fejezetet (44/K. §-t) a 13/2020. (II. 7.) Korm. rendelet 72. § (3) bekezdése iktatta be.
+[^286]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^287]: A 44/L. § a 454/2025. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^288]: A 44/M. § (2) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^289]: A 44/M. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^290]: A 44/M. § (4) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^291]: A 44/M. § (5) bekezdését a 454/2025. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^292]: A 44/M. § (6) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^293]: A 44/W. § (4) bekezdése a 620/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^294]: A 44/W. § (6) bekezdés c) pontja a 454/2025. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^295]: A 45. § (2)–(4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^296]: A 46. §-t a 307/2017. (X. 27.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 196/2025. (VII. 8.) Korm. rendelet 28. §-a iktatta be.
+[^297]: A 47. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 202. § (3) bekezdése hatályon kívül helyezte.
+[^298]: A 47. § (2) bekezdését a 403/2023. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^299]: A 47. § (3) bekezdését a 403/2023. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^302]: Az 50. §-t a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 5. pontja hatályon kívül helyezte, újonnan a 428/2023. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
+[^312]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^313]: A hatálybalépés időpontja 2017. március 21.
+[^314]: Az 54. §-t újonnan a 171/2017. (VI. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^315]: A hatálybalépés időpontja 2017. július 1.
+[^316]: Az 54/A. §-t a 403/2023. (VIII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^317]: A hatálybalépés időpontja 2024. január 1.
+[^318]: A 19. alcímet (55. §-t) újonnan a 389/2023. (VIII. 14.) Korm. rendelet 2. §-a iktatta be.
+[^319]: Az újabb 56. §-t a 403/2023. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^320]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^322]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^324]: Az 1. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 403/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be, szövege a 620/2023. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^325]: A 2. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 258/2024. (VIII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^326]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^327]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^328]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^329]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^330]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^331]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^332]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^333]: A 8. mellékletet a 26/2013. (II. 12.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 354/2016. (XI. 18.) Korm. rendelet 6. §-a.

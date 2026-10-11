@@ -1,0 +1,175 @@
+---
+title: "45/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről"
+identifier: "45/2009. (III. 4.) Korm. rendelet"
+njt_id: "2009-45-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/45"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-03-04
+in_force_from: 2009-03-05
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-45-20-22"
+retrieved: 2026-10-12
+---
+
+# 45/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya közötti tudományos és technológiai együttműködésről szóló, Budapesten, 2005. szeptember 8. napján aláírt megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„Megállapodás a Magyar Köztársaság Kormánya\
+és a Chilei Köztársaság Kormánya között\
+a tudományos és technológiai együttműködésről
+
+A Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya (a továbbiakban „Szerződő Felek”),
+
+abban a meggyőződésben, hogy a nemzetközi tudományos és technológiai együttműködés erősíteni fogja a két ország népei közötti barátság és megértés kötelékeit,
+
+elismerve az eddig a Magyar Köztársaság és a Chilei Köztársaság által 1995. április 26-án aláírt kulturális, oktatási és tudományos együttműködés keretében folytatott sikeres tudományos és technológiai együttműködést,
+
+kifejezve azon törekvésüket, hogy eleget tegyenek a tudományos és technológiai kihívásoknak, valamint a tudásvezérelt társadalom követelményeinek,
+
+attól a szándéktól vezérelve, hogy elősegítsék és támogassák a két ország közötti együttműködést a tudomány és technológia területein az egyenlőség és a kölcsönös előnyök alapján,
+
+a következőkben állapodtak meg:
+
+*ELSŐ CIKK*
+
+1\. A Szerződő Felek fejlesztik, támogatják és elősegítik a két ország szervezeteinek az egyenlőség és a kölcsönös előnyök alapján mindkét ország javára folytatott kétoldalú tudományos és technológiai együttműködését.
+
+2\. Együttműködő szervezet lehet kutatóintézet, egyetem, kormányintézmény, vállalat és egyéb jogi személy, mely tudományos és technológiai tevékenységet folytat.
+
+*MÁSODIK CIKK*
+
+1\. A jelen Egyezmény alapján, valamint a pénzügyi és egyéb eszközök elérhetőségétől függően, a kétoldalú együttműködési tevékenység az alábbi formákban valósulhat meg:
+
+*a)* közös tudományos és technológiai fejlesztési programok és projektek;
+
+*b)* tanulmányok és kutatások közösen meghatározott területeken;
+
+*c)* kutatók és szakértők cseréje;
+
+*d)* tudományos és technológiai információk és dokumentációk cseréje az együttműködési tevékenységekkel összefüggésben;
+
+*e)* tudományos workshop-ok, konferenciák, szimpóziumok;
+
+*f)* kutató képzés;
+
+valamint a tudományos és technológiai együttműködésnek egyéb formái, melyekről a vegyes bizottság a kilencedik cikk alapján döntést hozhat.
+
+2\. A Szerződő Felek elősegítik országaik vállalkozásai, valamint kutató és technológiai fejlesztési egységei közötti technológia-cserét.
+
+*HARMADIK CIKK*
+
+A Szerződő Felek elősegítik és támogatják az együttműködést és a közös részvételt többoldalú nemzetközi tudományos és technológiai fejlesztési programokban különös tekintettel az Európai Unió programjaira.
+
+*NEGYEDIK CIKK*
+
+1\. A Felek a jelen Megállapodás keretében folyó együttműködésüket vonatkozó nemzetközi törvényeikkel és jogszabályaikkal, valamint azon nemzetközi szervezetek előírásaival összhangban folytatják, amelyeknek tagjai, csakúgy mint a személyi és pénzügyi források rendelkezésre állásának függvényében.
+
+2\. A jelen Megállapodás nem módosítja a Felek egyéb kétoldalú és többoldalú egyezményből eredő jogait és kötelezettségeit.
+
+*ÖTÖDIK CIKK*
+
+A jelen Megállapodás keretében folyó együttműködés vonatkozásában a Felek – nemzeti törvényeikkel és jogszabályaikkal összhangban – megkönnyítik
+
+*a)* a gyors és hatékony be- és kiutazást területükön;
+
+*b)* a belföldi utazást és munkát a jelen Megállapodás megvalósításában résztvevő személyek részére;
+
+*c)* a gyors és hatékony be- és kiszállítását a jelen Megállapodás keretében folyó közös tevékenység végrehajtásához szükséges felszerelésnek, műszereknek, anyagoknak, mintáknak és dokumentációnak;
+
+*d)* a biztosítását és elérhetőségét a jelen Egyezmény végrehajtásában résztvevő vonatkozó földrajzi területeknek, adatoknak, anyagoknak, intézményeknek és személyeknek.
+
+*HATODIK CIKK*
+
+Harmadik országbeli tudósok, szakértők és szervezetek vagy nemzetközi szervezetek is meghívhatók a Felek egyetértésével arra, hogy saját költségükön – ha a Felek másképp nem állapodnak meg – részt vegyenek a jelen Megállapodás keretében folytatott tevékenységekben.
+
+*HETEDIK CIKK*
+
+1\. A Felek biztosítják a jelen Megállapodás végrehajtása során keletkező szellemi tulajdon megfelelő védelmét összhangban a két Fél által aláírt nemzetközi egyezmények rendelkezéseivel.
+
+2\. Az együttműködési tevékenység során keletkező szellemi tulajdon védelméről az együttműködő szervezetek által létrehozott végrehajtási megállapodások alapján kell gondoskodni, mely megfelelő és hatékony védelmet kell, hogy biztosítson. A közös kutatási és fejlesztési tevékenységből származó szellemi tulajdon jog, az érintett együttműködő intézmények közös tulajdonába kerül.
+
+3\. A jelen Megállapodás keretében folyó együttműködésből keletkező, iparjogvédelem alá nem eső tudományos és technológiai információk, az együttműködő szervezetek közös tulajdonává válnak. Ezek az információk harmadik félnek csak az említett információt szolgáltató fél előzetes írásos hozzájárulásával adhatók át.
+
+4\. A Felek nemzeti törvényeikkel és jogszabályaikkal összhangban gondoskodnak a szellemi tulajdon jog védelméről, megfelelő időben értesítik egymást a jelen Megállapodásból származó szellemi tulajdonra hatást gyakorló változásokról, különös tekintettel a találmányokra, formatervezési mintákra, új növényfajtákra és a szerzői jogvédelem alá eső művekre.
+
+*NYOLCADIK CIKK*
+
+A jelen Megállapodás keretében folytatott tevékenység végrehajtását és koordinálását végző nemzeti intézmény magyar részről a Nemzeti Kutatási és Technológiai Hivatal (NKTH), chilei részről a Tudományos és Technológiai Kutatásért felelős Nemzeti Bizottság (National Commission for Scientific and Technological Research – CONICYT).
+
+*KILENCEDIK CIKK*
+
+1\. A jelen Megállapodás végrehajtása céljából a Felek Tudományos és Technológiai Együttműködési Vegyes Bizottságot hoznak létre (a továbbiakban: Vegyes Bizottság), melyet a Felek által kijelölt kormányzati képviselők és szakértők alkotnak.
+
+2\. A Vegyes Bizottsági Ülések során a Felek
+
+*a)* meghatározzák saját belső működési és eljárási szabályaikat;
+
+*b)* tervezik és koordinálják a tudományos és technológiai együttműködést;
+
+*c)* munkaterveket dolgoznak ki;
+
+*d)* meghatározzák az együttműködési programok és projektek végrehajtásának eljárási szabályait;
+
+*e)* ellenőrzik és értékelik az együttműködés végrehajtását, és az eredmények felhasználását;
+
+*f)* kedvező körülményeket teremtenek a jelen Megállapodás végrehajtásához;
+
+*g)* meghatározzák és rendszeresen felülvizsgálják kölcsönös egyetértés alapján az együttműködési programok tematikus prioritásait, a Felek nemzeti prioritásaival összhangban, és
+
+*h)* szükség esetén magas szintű találkozókat készítenek elő.
+
+3\. A Vegyes Bizottsági Üléseket a projektek kiválasztásakor tartják, de legalább kétévente egyszer, felváltva a Magyar Köztársaságban és a Chilei Köztársaságban.
+
+4\. Szükség esetén időszakos munkacsoportok is létrehozhatók egyes specifikus tudományos és technológiai terület vagy probléma tanulmányozására vagy ajánlások kidolgozására.
+
+*TIZEDIK CIKK*
+
+A jelen Megállapodás végrehajtása során a tudósok és a szakértők 2. cikk 1. paragrafusa alapján folytatott cseréje kapcsán felmerült költségek megosztása – ha a Felek másképp meg nem állapodnak – az alábbi rendelkezéseknek megfelelően történik:
+
+*a)* a küldő Fél fedezi a két ország közötti nemzetközi utazás, valamint a betegbiztosítás költségeit;
+
+*b)* a fogadó Fél fedezi az együttműködő tevékenység megvalósításához szükséges belföldi utazás költségeit saját területén, valamint
+
+*c)* a szállás és az étkezés költségeit.
+
+*d)* A *c)* pont alattiak szabályozásának részleteit és irányadó mértékét a Vegyes Bizottság határozza meg, és szükség esetén felülvizsgálja azokat.
+
+*TIZENEGYEDIK CIKK*
+
+1\. A jelen Megállapodás rendelkezései csak a Felek egyetértésével változtathatók, vagy módosíthatók.
+
+2\. A jelen Megállapodás értelmezésével vagy alkalmazásával kapcsolatos nézetkülönbségek és viták a Szerződő Felek közötti konzultációk útján rendezendők.
+
+*TIZENKETTEDIK CIKK*
+
+1\. A jelen Megállapodás akkor lép hatályba, amikor a Szerződő Felek diplomáciai jegyzékváltással értesítették egymást a jelen Megállapodás hatálybalépéséhez szükséges nemzeti eljárásuk befejezéséről. A hatálybalépés dátuma az utolsó értesítés kézhezvételének napja.
+
+2\. A jelen Megállapodás öt évig marad hatályban, és ezt követően további öt éves időszakokra automatikusan meghosszabbodik, hacsak valamelyik Szerződő Fél írásban diplomáciai úton nem értesíti a másik Szerződő Felet felmondási szándékáról. A Megállapodás az értesítés kézhezvétele után hat hónappal veszti hatályát.
+
+3\. A jelen Megállapodás megszűnése nem érinti a Megállapodás szerint és annak keretében indított, a megszűnés időpontjában még be nem fejezett projekteket és programokat.
+
+Fentiek tanúsításaként alulírottak – rendelkezve Kormányaik felhatalmazásával – aláírták a Megállapodást.
+
+Készült Budapesten, 2005. szeptember 8. napján, két eredeti példányban, magyar, spanyol és angol nyelven, valamennyi szöveg egyaránt hiteles. A Megállapodással kapcsolatos bármely értelmezési eltérés esetén az angol szöveg az irányadó.
+
+*(Aláírások)”*
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2)[^1] A Megállapodás végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 15. §-a szerint módosított szöveg.

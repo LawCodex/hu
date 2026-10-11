@@ -1,0 +1,199 @@
+---
+title: "202/2018. (XI. 5.) Korm. rendelet a Magyarország Kormánya és az Ugandai Köztársaság Kormánya közötti oktatási együttműködési egyezmény kihirdetéséről"
+identifier: "202/2018. (XI. 5.) Korm. rendelet"
+njt_id: "2018-202-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/202"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-11-05
+in_force_from: 2018-11-06
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-202-20-22"
+retrieved: 2026-10-12
+---
+
+# 202/2018. (XI. 5.) Korm. rendelet a Magyarország Kormánya és az Ugandai Köztársaság Kormánya közötti oktatási együttműködési egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Ugandai Köztársaság Kormánya közötti oktatási együttműködési egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+**„Együttműködési Egyezmény Magyarország Kormánya és az Ugandai Köztársaság Kormánya között az oktatás területén**
+
+Magyarország Kormánya és az Ugandai Köztársaság Kormánya, a továbbiakban együtt: a „Felek”, illetve külön-külön: a „Fél”
+
+ATTÓL AZ ÓHAJTÓL VEZÉRELVE, hogy továbbfejlesszék Magyarország és az Ugandai Köztársaság közötti együttműködést, amely által tovább erősödnek a Magyarország és Uganda közötti szoros és baráti kapcsolatok, különösen az oktatás területén;
+
+FELISMERVE az oktatás és a hallgatói mobilitás hozzájárulását a gazdasági és társadalmi fejlődésben betöltött szerephez, valamint azokat az előnyöket, amelyek a Felek kiterjedt és szoros együttműködése eredményez e területeken;
+
+Az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+A Felek a kölcsönös tisztelet és partnerség elvei mentén és országaik hatályos jogszabályai alapján ösztönzik és elősegítik az együttműködés különböző formáit az oktatás területén.
+
+**2. cikk**
+
+A Felek megállapodnak, hogy létrehoznak egy Magyar–Ugandai Ösztöndíjprogramot (a továbbiakban: Program) annak érdekében, hogy támogatást nyújtsanak magyar, illetve ugandai állampolgárságú hallgatók részére alap- és mesterfokú, valamint doktori és posztdoktori képzésekre a másik Fél országában.
+
+A Program célja az emberi erőforrások minőségi fejlesztése az által, hogy a kiemelkedő hallgatókat arra ösztönzi, hogy rövid vagy hosszú távú képzéseken, illetve közös kutatásokban vegyenek részt egymás felsőoktatási intézményeiben, a Felek közötti akadémiai és kutatói hálózatok erősítése érdekében.
+
+**3. cikk**
+
+A magyarországi és ugandai felsőoktatási intézményekben, széleskörű területeken megvalósuló tanulmányi és kutatói lehetőségek előmozdítása mellett a Program célja:
+
+a. A két ország népei és kormányai közötti ismeretek, egyetértés és barátság előmozdítása;
+
+b. A nemzetközi felsőoktatási intézményekkel való akadémiai és oktatási kapcsolatok kiterjesztésének lehetővé tétele;
+
+c. A globális társadalom kihívásainak megfelelő kiváló szakemberek és szakértők képzése;
+
+d. A tudományos kutatás területén történő együttműködések előmozdítása, illetve a technológiaterjesztés és innováció lehetőségeinek vizsgálata.
+
+**4. cikk**
+
+A Program keretében Magyarország lehetőséget biztosít ugandai hallgatók részére, hogy felvételt nyerhessenek felsőoktatási intézményeibe, illetve ösztöndíjakat és pénzügyi támogatást nyújt számukra.
+
+**5. cikk**
+
+Uganda megvizsgálja annak lehetőségét, hogy magyar hallgatók és tanárok részére lehetőséget biztosítson tanulmányi látogatásokra, tanulmányok és kutatások folytatására Uganda vezető egyetemén és felsőoktatási intézményeiben, bármely kölcsönös érdeklődésre számot tartó területen.
+
+**6. cikk**
+
+A Felek elősegítik országaik felsőoktatási intézményei, tudományos akadémiái és egyéb tudományos kutatóintézetei közötti közvetlen kapcsolatok kialakítását.
+
+**7. cikk**
+
+A Felek megteszik a szükséges lépéseket a jelen Együttműködési Egyezmény végrehajtása érdekében, különös tekintettel a Program részleteire, amelyről a Felek külön végrehajtási megállapodásokban, diplomáciai úton állapodnak meg.
+
+**8. cikk**
+
+A jelen Együttműködési Egyezmény alkalmazásában a Felek Magyarország Emberi Erőforrások Minisztériumát, illetve az Ugandai Köztársaság Oktatási és Sportminisztériumát jelölik ki kapcsolattartókként annak érdekében, hogy előmozdítsák és koordinálják a jelen Együttműködési Egyezmény végrehajtását.
+
+**9. cikk**
+
+A Felek egyetértenek, hogy a jelen Együttműködési Egyezmény végrehajtásának összhangban kell állnia a Felek jogszabályaival, ezért a jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogalkotásából származó kötelezettségeit.
+
+**10. cikk**
+
+A Felek a jelen Együttműködési Egyezményt teljes egészében vagy részben felülvizsgálhatják, módosíthatják vagy kiegészíthetik. E módosítások vagy kiegészítések a Felek által meghatározott időpontban lépnek hatályba, és nem lehetnek visszamenőleges hatályúak.
+
+**11. cikk**
+
+Jelen Együttműködési Egyezmény rendelkezéseinek értelmezése, végrehajtása, illetve alkalmazása során felmerülő vitás kérdéseket a Felek egyeztetések és tárgyalások útján rendezik.
+
+**12. cikk**
+
+Jelen Együttműködési Egyezményt a Felek aláírással erősítik meg, és attól számított harmincadik napon lép hatályba, hogy Magyarország diplomáciai úton tájékoztatja Ugandát arról, hogy eleget tett a jelen Együttműködési Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek. Jelen Egyezmény 5 évig marad hatályban, és automatikusan meghosszabbodik újabb öt éves időszakokra, kivéve, ha valamelyik fél felmondja azt.
+
+A jelen cikk 1. bekezdésében foglaltak mellett a jelen Együttműködési Egyezményt bármely szerződő fél bármikor felmondhatja a másik fél 3 hónappal korábban történő írásos tájékoztatásával.
+
+Jelen Együttműködési Egyezmény felmondása vagy lejárta nem befolyásolja azon folyamatban lévő tevékenységek végrehajtását, amelyekről a Felek a jelen Együttműködési Egyezmény felmondása előtt állapodtak meg.
+
+Készült Budapesten, 2018. szeptember 14-én két eredeti példányban, magyar és angol nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.”
+
+**“Cooperation Agreement between the Government of Hungary and the Government of the Republic of Uganda on Education Cooperation**
+
+The Government of Hungary and the Government of the Republic of Uganda, hereinafter referred to collectively as “the Parties” and individually as “Party”;
+
+DESIRING to further promote cooperation between Hungary and the Republic of Uganda that will further strengthen the close and friendly relations between Hungary and Uganda, especially in the field of Education;
+
+RECOGNIZING the contribution of education and student mobility to economic and social development and the mutual benefits resulting from the Parties' extensive and close cooperation in these fields;
+
+Have reached the following understanding:
+
+**Article 1**
+
+The Parties shall encourage and facilitate diverse forms of cooperation in the field of cooperation in education, based on the principles of mutual respect and partnership and subject to the legislation in force in their respective countries.
+
+**Article 2**
+
+The Parties agree to establish a Hungary – Uganda Scholarship Programme, hereinafter referred to as the “Programme”, to provide support to students who are nationals of Hungary and Uganda for pursuing Bachelor, Master, Doctorate or Postdoctoral education outside of each other's home country.
+
+The aim of the Programme is to increase the quality of Human Resources, by encouraging outstanding students to undertake short-term or full-term study visits or to conduct collaborative research in each other's higher education institutions, in order to strengthen academic and research network between the Parties.
+
+**Article 3**
+
+While providing study/research opportunities for a wide range of disciplines in higher education institutions of Hungary and Uganda, this Programme also aims to:
+
+a. Promote knowledge, understanding and friendship between the Peoples and the Governments of the two countries;
+
+b. Provide opportunities to expand academic and educational contacts with international institutions of higher education;
+
+c. Develop outstanding professionals and experts to meet the global society;
+
+d. Promote collaborations in scientific research, and explore opportunities for technology uptake and innovation.
+
+**Article 4**
+
+Under this Programme, Hungary will provide opportunities for students from Uganda to access to its higher education institutions, and offer scholarships and funding assistance for them.
+
+**Article 5**
+
+Uganda will look into possibility of providing opportunities to Hungarian students and professors to undertake studies, study visits, or research at the leading university and institutions of higher education in Uganda in any field of mutual interest.
+
+**Article 6**
+
+The Parties shall encourage direct cooperation between higher education institutions, academies of science and other scientific research institutions.
+
+**Article 7**
+
+The Parties will carry out necessary steps to implement this Cooperation Agreement, in particular the details of the Programme through separate implementation agreements to be agreed upon by the Parties through diplomatic channels.
+
+**Article 8**
+
+For the purpose of this Cooperation Agreement, the Parties will assign the Ministry of Human Capacities of Hungary and the Ministry of Education and Sports of the Republic of Uganda to be the Focal Points to facilitate and coordinate the implementation of this Cooperation Agreement.
+
+**Article 9**
+
+The Parties agree that the implementation of this Cooperation Agreement shall be in accordance with the laws and other regulations of the respective Parties:
+
+Commitments originating from the membership of Hungary in the European Union are not affected by this Cooperation Agreement. As a consequence of this, provisions of this Cooperation Agreement shall not be interpreted in a way that it would annul, amend or have any other effect on the commitments of Hungary originating especially from the treaties forming the basis of the European Union, as well as those commitments originating from the primary and secondary legislation of the European Union.
+
+**Article 10**
+
+The Parties may revise, amend or modify all or part of this Cooperation Agreement, subject to the Parties' mutual consent in writing. Such revision, amendment or modification, will become effective on the date as determined by the Parties, and will not have retrospective effect.
+
+**Article 11**
+
+Any dispute or differences arising out of the interpretation/implementation/application of the provisions of this Cooperation Agreement shall be settled by the Parties through discussion and negotiation.
+
+**Article 12**
+
+The Cooperation Agreement shall be subject to signature by the Parties and shall enter into force on the thirtieth day, after Hungary has notified Uganda through diplomatic channels of the completion of its internal procedures required for the entry into force of this Cooperation Agreement. This Cooperation Agreement shall remain in force for a period of 5 years and shall be automatically renewed for successive five-year periods unless terminated by either Party.
+
+Notwithstanding Paragraph 1 of this Article, either Party may terminate this Cooperation Agreement at any time by giving the other Party the advance written notice at least 3 months prior to the date of its termination.
+
+The termination or expiration of this Cooperation Agreement will not affect the implementation of ongoing activities, which have been agreed upon prior to the date of termination of this Cooperation Agreement.
+
+DONE at Budapest, on the 14th of September 2018, in two original copies, in the Hungarian and the English language, all texts being equally authentic. In the event of divergence of interpretation, the English text shall prevail.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §[^5]
+
+E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba. A 41/2018. (XI. 20.) KKM közlemény alapján a hatálybalépés időpontja 2018. december 9.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 12. cikk első bekezdésében meghatározott időpontban lép hatályba. A 41/2018. (XI. 20.) KKM közlemény alapján a hatálybalépés időpontja 2018. december 9.
+[^3]: A 41/2018. (XI. 20.) KKM közlemény alapján a hatálybalépés időpontja 2018. december 9.
+[^4]: Lásd a 41/2018. (XI. 20.) KKM közleményt.
+[^5]: Az 5. § a 238/2022. (VI. 30.) Korm. rendelet 186. §-a szerint módosított szöveg.

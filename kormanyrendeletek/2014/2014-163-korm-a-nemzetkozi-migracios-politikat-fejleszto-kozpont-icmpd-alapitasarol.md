@@ -1,0 +1,120 @@
+---
+title: "163/2014. (VII. 10.) Korm. rendelet a Nemzetközi Migrációs Politikát Fejlesztő Központ (ICMPD) alapításáról és működéséről szóló, Bécsben 1993. június 1. napján aláírt Megállapodásnak az ICMPD belső adórendszere bevezetésével kapcsolatos negyedik módosítása kihirdetéséről szóló Megállapodás kihirdetéséről"
+identifier: "163/2014. (VII. 10.) Korm. rendelet"
+njt_id: "2014-163-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/163"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-07-10
+in_force_from: 2014-07-11
+last_amended: 2015-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-163-20-22"
+retrieved: 2026-10-12
+---
+
+# 163/2014. (VII. 10.) Korm. rendelet a Nemzetközi Migrációs Politikát Fejlesztő Központ (ICMPD) alapításáról és működéséről szóló, Bécsben 1993. június 1. napján aláírt Megállapodásnak az ICMPD belső adórendszere bevezetésével kapcsolatos negyedik módosítása kihirdetéséről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Nemzetközi Migrációs Politikát Fejlesztő Központ (ICMPD) alapításáról és működéséről szóló, Bécsben 1993. június 1. napján aláírt Megállapodásnak az ICMPD belső adórendszere bevezetésével kapcsolatos negyedik módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„Agreement\
+on the Fourth Modification of the Agreement regarding the Establishment and Functioning of the International Centre for Migration Policy Development (ICMPD) in Vienna regarding the Introduction of an Internal Tax System
+
+The Signatories of this Agreement, Member States of ICMPD,
+
+Having regard to paragraph 15 of the Rules Governing the Financial Framework of ICMPD, as amended by the Steering Group on 30 May 2008 and 10 October 2008,
+
+Noting that the Headquarters Agreement between the International Centre for Migration Policy Development and the Kingdom of Belgium, signed on 21 May 2008, foresees in its Article 18 paragraph 1 subparagraph (a) the introduction of an internal tax system of ICMPD,
+
+Have agreed as follows:
+
+**Article 1**
+
+(1) The Director General is authorised to establish an internal tax system to be applied throughout the organisation.
+
+(2) The internal tax rate to be applied is a flat rate of 25% of established gross taxable salary levels.
+
+(3) The Director General shall propose to the Steering Group at the yearly meetings approving the budget a salary scale reflecting both gross taxable and net salaries for both single staff and staff with dependents.
+
+**Article 2**
+
+The introduction and application of an internal tax system shall not have any consequences on the level of membership contributions to ICMPD's budget.
+
+**Article 3**
+
+(1) This Agreement is open for signature for Member States of ICMPD until 30.06.2014.
+
+(2) The Signatories shall inform the Austrian Federal Ministry for European and International Affairs that the conditions of their internal law for the entry into force of this Agreement have been fulfilled. The Agreement is open to Member States of ICMPD not having signed the Agreement who may accede by informing the Austrian Federal Ministry for European and International Affairs that the conditions of their internal law for the entry into force of this Agreement have been fulfilled.
+
+(3) This Agreement shall enter into force on the first day of the second month following the third notification submitted in accordance with paragraph 2 above.
+
+(4) The provisions of this Agreement shall take effect as of 1 June 2008.
+
+(5) For each State notifying the Austrian Federal Ministry for European and International Affairs after the entry into force of the Agreement in accordance with paragraph 3, the Agreement shall enter in to force on the first day of the second month following their notification in accordance with paragraph 2.
+
+Done in Sarajevo on 26 May 2014 in one original copy in the English language.”
+
+„Megállapodás\
+a Nemzetközi Migrációs Politikát Fejlesztő Központ (ICMPD) alapításáról és működéséről szóló Bécsben, 1993. június 1. napján aláírt Megállapodásnak az ICMPD belső adórendszere bevezetésével kapcsolatos negyedik módosításáról
+
+A Megállapodást aláíró Felek, az ICMPD tagállamai,
+
+tekintettel az ICMPD Pénzügyi Keretet Meghatározó Szabályzatának, 2008. május 30. napján és 2008. október 10. napján a Kormányzó Csoport által módosított 15. bekezdésére,
+
+figyelemmel arra, hogy a Nemzetközi Migrációs Politikát Fejlesztő Központ és a Belga Királyság által 2008. május 21. napján aláírt Székhely-megállapodás 18. cikk 1. bekezdés *a)* pontja előirányozza az ICMPD belső adórendszerének bevezetését,
+
+az alábbiakban állapodtak meg:
+
+**1. Cikk**
+
+(1) Az Igazgató jogosult belső adórendszer létrehozására, annak az egész szervezeten belüli alkalmazása érdekében.
+
+(2) Az alkalmazandó belső adókulcs a megállapított bruttó adóköteles bérszint 25%-ának átalánya.
+
+(3) Az Igazgató a költségvetést jóváhagyó éves ülésen javaslatot tesz a Kormányzó Csoportnak mind az egyedülálló, mind az eltartottakkal rendelkező személyzet adóköteles bruttó és nettó bérét is tükröző bértáblára.
+
+**2. Cikk**
+
+A belső adórendszer bevezetése és alkalmazása nem érinti az ICMPD költségvetéséhez való tagállami hozzájárulások szintjét.
+
+**3. Cikk**
+
+(1) Jelen Megállapodás aláírására 2014. június 30. napjáig van lehetősége az ICMPD tagállamoknak.
+
+(2) Az Aláíró Felek értesítik az osztrák Európai és Nemzetközi Ügyek Szövetségi Minisztériumát a jelen Megállapodás hatálybalépéséhez szükséges belső jogi előírásainak teljesítéséről. A Megállapodás nyitott minden, a Megállapodást eddig még alá nem írt ICMPD tagállam számára, amelyek az osztrák Európai és Nemzetközi Ügyek Szövetségi Minisztériumának a hatálybalépéséhez szükséges belső jogi előírásainak teljesítéséről szóló értesítésével csatlakozhatnak a Megállapodáshoz.
+
+(3) Jelen Megállapodás a (2) bekezdésben foglaltak szerinti harmadik értesítés beérkezését követő második hónap első napján lép hatályba.
+
+(4) Jelen megállapodás rendelkezéseit 2008. június első napjától kell alkalmazni.
+
+(5) A Megállapodás azon Államok esetében, amelyek a Megállapodás (3) bekezdés szerinti hatálybalépését követően értesítik az osztrák Európai és Nemzetközi Ügyek Szövetségi Minisztériumát, a (2) bekezdés szerinti értesítésüket követő második hónap első napján lép hatályba.
+
+Készült Szarajevóban, 2014. május 26-án, egy eredeti példányban angol nyelven.”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 3. cikk (3) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter, valamint az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 3. cikk (3) bekezdésében meghatározott időpontban lép hatályba. A 23/2015. (VII. 10.) KKM közlemény alapján a hatálybalépés időpontja 2015. augusztus 1.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 3. cikk (3) bekezdésében meghatározott időpontban lép hatályba. A 23/2015. (VII. 10.) KKM közlemény alapján a hatálybalépés időpontja 2015. augusztus 1.
+[^3]: A 23/2015. (VII. 10.) KKM közlemény alapján a hatálybalépés időpontja 2015. augusztus 1.
+[^4]: Lásd a 23/2015. (VII. 10.) KKM közleményt.

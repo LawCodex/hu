@@ -1,0 +1,390 @@
+---
+title: "183/2016. (VII. 13.) Korm. rendelet a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításáról szóló, levélváltással létrejött egyezmény kihirdetéséről"
+identifier: "183/2016. (VII. 13.) Korm. rendelet"
+njt_id: "2016-183-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/183"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-13
+in_force_from: 2016-07-14
+last_amended: 2016-09-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-183-20-22"
+retrieved: 2026-10-12
+---
+
+# 183/2016. (VII. 13.) Korm. rendelet a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításáról szóló, levélváltással létrejött egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás (a továbbiakban: Keretmegállapodás) módosításáról szóló, levélváltással létrejött egyezmény (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Módosítást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**LEVÉLVÁLTÁS**
+
+**a Keretmegállapodás módosításáról**
+
+A SVÁJCI HATÓSÁG LEVELE
+
+CH-3003 Bern
+
+A Post
+
+Mr. Perényi Zsigmond
+
+Deputy State Secretary
+
+Prime Minister’s Office
+
+Kossuth Lajos tér 1–3
+
+H-1055 Budapest
+
+Hungary
+
+Bern, 1.6.2016
+
+Subject: Amendment to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20th December 2007, and its modifications entered into force on 3 April 2010 and 13 June 2012.
+
+Dear Mr Perényi
+
+I have the honour to refer to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20 December 2007, and based on Article 11, paragraph 3 of the Framework Agreement, to propose on behalf of the Federal Department of Foreign Affairs and of the Federal Department of Economy, Education and Science of the Swiss Confederation, that the competent authorities defined under Article 9 of the Framework Agreement agree to amend Article 9, Annex 1 Article 5, Annex 2 Article 3-5 and Annex 3 Section C to the aforementioned Agreement.
+
+Based on negotiations between the Swiss Agency for Development and Cooperation (SDC) and the State Secretariat for Economic Affairs (SECO) and the Prime Minister’s Office as acting National Coordination Unit the Swiss Party hereby proposes to modify the above mentioned parts of the Framework Agreement as follows:
+
+Main text
+
+Article 9 „Competent Authorities”
+
+Section 1 shall be deleted entirely and replaced with the following provisions: „Hungary has authorized the Prime Minister’s Office to act on its behalf as the NCU for the Swiss-Hungarian Cooperation Programme. The NCU shall have the overall responsibility for the management of the Contribution in Hungary, including the responsibility for financial control and audit.”
+
+Article 9 „Competent Authorities” shall be completed with a new point as follows: „4. The Parties retain the right to unilaterally revise the competent authorities or decide on the reassignment of tasks based consultation with the other Party.”
+
+Annex 1, Article 5 „Thematic Focus and Indicative Financial Allocations”
+
+Table 5 „Special Allocations”: The wording in the column headed „Content” of the Item „Twinning and Partnerships” under „Types of eligible projects” shall be changed to „Block Grant for the financing of small joint projects in the frame of partnerships.”
+
+Annex 2, Article 3 „Project Implementation Procedures”
+
+Table of „Project implementation procedures”: The wording in the column headed „Organisation” of the Item „No.6 Audit” shall be changed to „Responsible: Directorate General for Audit of European Funds”.
+
+Annex 2, Article 4 „Payment and Reimbursement Procedures”
+
+The first sentence shall be deleted entirely and replaced with the following sentence:
+
+„The Hungarian State Treasury is the Paying Authority for the Contribution.”
+
+The penultimate paragraph shall be deleted entirely and replaced with the following provisions:
+
+„The final date for eligibility of costs shall be specified in the Project Agreement. Unless otherwise specified in the Project Agreement, it shall be 12 months after the scheduled date for Project completion, but shall not be later than ten years after the approval of the Contribution by the Swiss Parliament according to Article 3 of the Framework Agreement (referred to as „disbursement period”). Final reimbursement requests must be received by Switzerland not later than six months after the final date of eligibility. In duly justified exceptional cases the parties may decide on exceptions.
+
+Annex 2, Article 5 „Roles and Responsibilities”
+
+The provision under Article 5.2 „Intermediate Body” shall be completed with a new task item as follows: „– Provide translations at the level of the management of the Swiss Contribution”.
+
+In the provision under Article 5.5 „Government Audit Office” the name of the institution responsible for ensuring effective functioning of audit systems as well as frauds and irregularities prevention in the Cooperation Programme between Switzerland and Hungary shall be changed from „Government Audit Office” to „Directorate General for Audit of European Funds”.
+
+Annex 3, Section C: Technical Assistance Fund
+
+The provision under Article C.1 „Definition and purpose” shall be changed to „A Technical Assistance Fund may be established to contribute to some additional costs incurred by Hungary for the efficient and effective implementation of the Contribution, including the costs of tasks defined in Annex 2 Article 5.2 „Intermediate Body” and the tasks delegated to the Intermediate Body by the NCU based on the provision of Annex 2 Article 5.1.”
+
+The provision under Article C.2 „Eligible Costs” shall be completed with a new letter as follows:
+
+„j) Costs of the Intermediate Body related to the Contribution (inter alia personal costs, travelling costs, equipment/IT development, services, general costs).”
+
+All other provisions to the Framework Agreement between the Swiss Federal Council and the Government of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union remain unchanged.
+
+Once the proposed amendments are accepted by the Hungarian Party, the present letter and the reply letter will be considered as an agreement on the amendment of the abovementioned parts of the Framework Agreement. The Agreement shall enter into force on the 30<sup>th</sup> day after the receipt of the Hungarian reply.
+
+Yours sincerely,
+
+Swiss Agency for Development State Secretariate for
+
+And Cooperation (SDC) Economic Affairs (SECO)
+
+Manuel Sager Marie-Gabrielle Ineichen-Fleisch
+
+Director General State Secretary Director
+
+A MAGYAR HATÓSÁG LEVELE
+
+Manuel Sager Marie-Gabrielle Ineichen-Fleisch
+
+Director General State Secretary
+
+Swiss Agency for Development Director
+
+And Cooperation (SDC) State Secretariate for Economic Affairs (SECO)
+
+Freiburgstrasse 130, CH-3003 Berne CH-3003 Berne Holzikofenweg 36
+
+Budapest, „ „ July, 2016
+
+Subject: Amendment to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20<sup>th</sup> December 2007, and its modifications entered into force on 3 April 2010 and 13 June 2012.
+
+Dear Mr Sager,
+
+Dear Mrs Ineichen-Fleisch,
+
+I have the honour to refer to your letter of 01.06.2016 which reads as follows:
+
+„I have the honour to refer to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20 December 2007, and based on Article 11, paragraph 3 of the Framework Agreement, to propose on behalf of the Federal Department of Foreign Affairs and of the Federal Department of Economy, Education and Science of the Swiss Confederation, that the competent authorities defined under Article 9 of the Framework Agreement agree to amend Article 9, Annex 1 Article 5, Annex 2 Article 3-5 and Annex 3 Section C to the aforementioned Agreement.
+
+Based on negotiations between the Swiss Agency for Development and Cooperation (SDC) and the State Secretariat for Economic Affairs (SECO) and the Prime Minister’s Office as acting National Coordination Unit the Swiss Party hereby proposes to modify the above mentioned parts of the Framework Agreement as follows:
+
+Main text
+
+Article 9 „Competent Authorities”
+
+Section 1 shall be deleted entirely and replaced with the following provisions: „Hungary has authorized the Prime Minister’s Office to act on its behalf as the NCU for the Swiss-Hungarian Cooperation Programme. The NCU shall have the overall responsibility for the management of the Contribution in Hungary, including the responsibility for financial control and audit.”
+
+Article 9 „Competent Authorities” shall be completed with a new point as follows: „4. The Parties retain the right to unilaterally revise the competent authorities or decide on the reassignment of tasks based consultation with the other Party.”
+
+Annex 1, Article 5 „Thematic Focus and Indicative Financial Allocations”
+
+Table 5 „Special Allocations”: The wording in the column headed „Content” of the Item „Twinning and Partnerships” under „Types of eligible projects” shall be changed to „Block Grant for the financing of small joint projects in the frame of partnerships.”
+
+Annex 2, Article 3 „Project Implementation Procedures”
+
+Table of „Project implementation procedures”: The wording in the column headed „Organisation” of the Item „No.6 Audit” shall be changed to „Responsible: Directorate General for Audit of European Funds”.
+
+Annex 2, Article 4 „Payment and Reimbursement Procedures”
+
+The first sentence shall be deleted entirely and replaced with the following sentence:
+
+„The Hungarian State Treasury is the Paying Authority for the Contribution.”
+
+The penultimate paragraph shall be deleted entirely and replaced with the following provisions:
+
+„The final date for eligibility of costs shall be specified in the Project Agreement. Unless otherwise specified in the Project Agreement, it shall be 12 months after the scheduled date for Project completion, but shall not be later than ten years after the approval of the Contribution by the Swiss Parliament according to Article 3 of the Framework Agreement (referred to as „disbursement period”). Final reimbursement requests must be received by Switzerland not later than six months after the final date of eligibility. In duly justified exceptional cases the parties may decide on exceptions.
+
+Annex 2, Article 5 „Roles and Responsibilities”
+
+The provision under Article 5.2 „Intermediate Body” shall be completed with a new task item as follows: „– Provide translations at the level of the management of the Swiss Contribution”.
+
+In the provision under Article 5.5 „Government Audit Office” the name of the institution responsible for ensuring effective functioning of audit systems as well as frauds and irregularities prevention in the Cooperation Programme between Switzerland and Hungary shall be changed from „Government Audit Office” to „Directorate General for Audit of European Funds”.
+
+Annex 3, Section C: Technical Assistance Fund
+
+The provision under Article C.1 „Definition and purpose” shall be changed to „A Technical Assistance Fund may be established to contribute to some additional costs incurred by Hungary for the efficient and effective implementation of the Contribution, including the costs of tasks defined in Annex 2 Article 5.2 „Intermediate Body” and the tasks delegated to the Intermediate Body by the NCU based on the provision of Annex 2 Article 5.1.”
+
+The provision under Article C.2 „Eligible Costs” shall be completed with a new letter as follows:
+
+„j) Costs of the Intermediate Body related to the Contribution (inter alia personal costs, travelling costs, equipment/IT development, services, general costs).”
+
+All other provisions to the Framework Agreement between the Swiss Federal Council and the Government of Hungary concerning the implementation of the Swiss-Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union remain unchanged.
+
+Once the proposed amendments are accepted by the Hungarian Party, the present letter and the reply letter will be considered as an agreement on the amendment of the abovementioned parts of the Framework Agreement. The Agreement shall enter into force on the 30<sup>th</sup> day after the receipt of the Hungarian reply.”
+
+I wish to inform you that the Hungarian Party shares the understandings set forth in the Swiss Party’s letter. Therefore, I have the honour to confirm that the Swiss Party’s letter and this reply letter shall constitute an agreement between the Parties. The Agreement shall enter into force on the 30<sup>th</sup> day after the receipt of this Hungarian reply letter.
+
+Thank you for your valuable cooperation in this matter.
+
+Yours sincerely,
+
+Zsigmond Perényi
+
+Deputy State Secretariat
+
+A LEVÉLVÁLTÁS hivatalos magyar nyelvű fordítása
+
+A SVÁJCI HATÓSÁG LEVELE
+
+CH-3003 Bern
+
+A Post
+
+Perényi Zsigmond úr
+
+Helyettes Államtitkár
+
+Miniszterelnökség
+
+Kossuth Lajos tér 1–3
+
+H-1055 Budapest
+
+Magyarország
+
+Bern, 2016.06.01.
+
+Tárgy: A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt és 2010. április 3-ai, valamint 2012. június 13-ai hatállyal módosított Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosítása
+
+Tisztelt Perényi úr!
+
+Hivatkozva A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodásra, valamint a Keretmegállapodás 11. cikkének 3. bekezdése alapján, a Szövetségi Külügyminisztérium és a Gazdasági ügyekért, Oktatásért és Kutatásért felelős Szövetségi Minisztérium nevében ezúton tisztelettel kezdeményezzük a Keretmegállapodás 9. cikkében meghatározott hatáskörrel rendelkező hatóságok hozzájárulását az említett megállapodás 9. cikkének, 1. melléklete 5. cikkének, 2. melléklete 3–5. cikkeinek, valamint 3. melléklete C részének módosításához.
+
+A Svájci Fejlesztési és Együttműködési Ügynökség (SFEÜ) és a Gazdasági Államtitkárság (GÁ), valamint a Miniszterelnökség, mint megbízott Nemzeti Koordinációs Egység között zajlott egyeztetések alapján a svájci fél ezúton javasolja a Keretmegállapodás fent említett részeinek módosítását az alábbiak szerint:
+
+Törzsszöveg
+
+9\. cikk „Hatáskörrel rendelkező hatóságok”
+
+Az 1. pont teljes mértékben törlésre kerül és helyébe a következő rendelkezés lép: „Magyarország felhatalmazza a Miniszterelnökséget, hogy a Svájci–Magyar Együttműködési Program kapcsán mint NKE a nevében eljárjon. Magyarországon a Hozzájárulás irányításának teljes körű felelőssége az NKE-t terheli, beleértve a pénzügyi felügyeletet és ellenőrzést is.”
+
+A 9. „Hatáskörrel rendelkező hatóságok” cikk az alábbi új ponttal egészül ki:
+
+„4. A Felek fenntartják a jogot, hogy a hatáskörrel rendelkező hatóságokat egyoldalúan felülvizsgálják, vagy a másik féllel történt egyeztetések alapján döntsenek a feladatok újraelosztásáról.”
+
+1\. Melléklet 5. cikk „Tematikus koncentráció és indikatív keretösszegek”
+
+5\. Táblázat „További allokáció”: A „Tartalom” oszlopban a „Twinning és partnerség” tétel sorban szereplő „A támogatható projektek típusai” meghatározás alatt a szöveg az alábbira módosul: „Pályázati Alap partnerségi keretben végrehajtott, kis, közös projektek részére”
+
+2\. Melléklet 3. cikk „Projekt végrehajtási eljárások”
+
+„Projekt végrehajtási eljárások” tábla: A „Szervezetek” oszlopban a „6. Pénzügyi ellenőrzés” sorban szereplő szöveg az alábbira módosul: „Felelős: Európai Támogatásokat Auditáló Főigazgatóság”.
+
+2\. Melléklet 4. cikk „A kifizetési és visszatérítési eljárás”
+
+Az első mondat teljes mértékben törlésre kerül, helyébe az alábbi szöveg lép:
+
+„A Magyar Államkincstár a Hozzájárulás Kifizető Hatósága.”
+
+Az utolsó előtti bekezdés teljes mértékben törlésre kerül, helyébe az alábbi rendelkezés lép:
+
+„A Projekt Megállapodásban meg kell határozni a költségek elszámolhatóságának végső határidejét. Amennyiben a Projekt Megállapodás eltérően nem rendelkezik, ez a határidő a projekt tervezett befejezését követő 12 hónapon belül, de nem később, mint 10 évvel (a vonatkozó cikkekben mint „kifizetési időszak”) a Hozzájárulás Svájci Parlament általi, a Keretmegállapodás 3. cikkének megfelelően történő jóváhagyása után lehetséges. A végső visszatérítési igények Svájchoz történő beérkezésének határideje az elszámolhatóság végső határidejét követő hat hónap. Kellően indokolt, kivételes esetekben a felek ettől eltérően rendelkezhetnek.”
+
+2\. Melléklet 5. cikk „Feladatok és kötelezettségek”
+
+Az 5.2 „Közreműködő Szervezet” cikk Közreműködő Szervezet feladatait felsoroló rendelkezései az alábbi új ponttal egészülnek ki: „– Fordítás biztosítása a Svájci Hozzájárulás irányításának érdekében”.
+
+Az 5.5 „Kormányzati Ellenőrzési Hivatal” cikk rendelkezéseiben a pénzügyi ellenőrzési rendszer hatékony működtetéséért és a csalás és szabálytalanság megelőzéséért felelős intézmény neve „Kormányzati Ellenőrzési Hivatal”-ról „Európai Támogatásokat Auditáló Főigazgatóság”-ra változik.
+
+3\. Melléklet
+
+C rész: Technikai Segítségnyújtási Alap
+
+A C rész 1. „Meghatározás és célkitűzés” cikke az alábbira változik: „Technikai segítségnyújtási alap a Hozzájárulás hatékony és eredményes végrehajtása során a magyar félnél felmerült járulékos költségek fedezésére hozható létre, beleértve a 2. Melléklet 5.2 „Közreműködő Szervezet” cikkében felsorolt, valamint a 2. Melléklet 5.1 cikke alapján a NKE által a Közreműködő Szervezetre delegált feladatok ellátásához szükséges költségeket is.”
+
+A C rész 2. „Elszámolható költségek” cikke az alábbi új ponttal egészül ki:
+
+„j) A Közreműködő Szervezet Hozzájáruláshoz kapcsolódó költségei (többek között: személyi költségek, utazási költségek, eszközök/IT fejlesztés, szolgáltatás, általános költségek)”
+
+A Svájci Szövetségi Tanács és a Magyar Kormány közötti, a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás összes többi rendelkezése változatlan marad.
+
+Amint a magyar fél a javasolt módosításokat elfogadja, a jelen levél és a válaszlevél a felek közötti, a Keretmegállapodás fent említett részeinek módosításáról szóló megállapodásnak tekintendő. A megállapodás a magyar fél válaszlevelének kézhezvételétől számított 30. napon lép hatályba.
+
+Tisztelettel,
+
+Svájci Fejlesztési és Együttműködési Gazdasági Államtitkárság (GÁ)
+
+Ügynökség (SFEÜ)
+
+Manuel Sager Marie-Gabrielle Ineichen-Fleisch
+
+Főigazgató Államtitkár
+
+Igazgató
+
+A MAGYAR HATÓSÁG LEVELE
+
+Manuel Sager Marie-Gabrielle Ineichen-Fleisch
+
+Főigazgató Államtitkár
+
+Svájci Fejlesztési és Együttműködési Igazgató
+
+Ügynökség (SFEÜ) Gazdasági Államtitkárság (GÁ)
+
+Freiburgstrasse 130, CH-3003 Berne CH-3003 Berne Holzikofenweg 36
+
+Budapest, 2016. július „ ”
+
+Tárgy: A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt és 2010. április 3-ai, valamint 2012. június 13-ai hatállyal módosított Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosítása
+
+Tisztelt Sager Úr!
+
+Tisztelt Ineichen-Fleisch Asszony!
+
+Tisztelettel hivatkozom a 2016. 06. 01.-én kelt levelére, amely a következőket tartalmazza:
+
+„Hivatkozva A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodásra, valamint a Keretmegállapodás 11. cikkének 3. bekezdése alapján, a Szövetségi Külügyminisztérium és a Gazdasági ügyekért, Oktatásért és Kutatásért felelős Szövetségi Minisztérium nevében ezúton tisztelettel kezdeményezzük a Keretmegállapodás 9. cikkében meghatározott hatáskörrel rendelkező hatóságok hozzájárulását az említett megállapodás 9. cikkének, 1. melléklete 5. cikkének, 2. melléklete 3–5. cikkeinek, valamint 3. melléklete C részének módosításához.
+
+A Svájci Fejlesztési és Együttműködési Ügynökség (SFEÜ) és a Gazdasági Államtitkárság (GÁ), valamint a Miniszterelnökség, mint megbízott Nemzeti Koordinációs Egység között zajlott egyeztetések alapján a svájci fél ezúton javasolja a Keretmegállapodás fent említett részeinek módosítását az alábbiak szerint:
+
+Törzsszöveg
+
+9\. cikk „Hatáskörrel rendelkező hatóságok”
+
+Az 1. pont teljes mértékben törlésre kerül és helyébe a következő rendelkezés lép: „Magyarország felhatalmazza a Miniszterelnökséget, hogy a Svájci–Magyar Együttműködési Program kapcsán mint NKE a nevében eljárjon. Magyarországon a Hozzájárulás irányításának teljes körű felelőssége az NKE-t terheli, beleértve a pénzügyi felügyeletet és ellenőrzést is.”
+
+A 9. „Hatáskörrel rendelkező hatóságok” cikk az alábbi új ponttal egészül ki:
+
+„4. A Felek fenntartják a jogot, hogy a hatáskörrel rendelkező hatóságokat egyoldalúan felülvizsgálják, vagy a másik féllel történt egyeztetések alapján döntsenek a feladatok újraelosztásáról.”
+
+1\. Melléklet 5. cikk „Tematikus koncentráció és indikatív keretösszegek”
+
+5\. Táblázat „További allokáció”:
+
+A „Tartalom” oszlopban a „Twinning és partnerség” tétel sorban szereplő „A támogatható projektek típusai” meghatározás alatt a szöveg az alábbira módosul: „Pályázati Alap partnerségi keretben végrehajtott, kis, közös projektek részére”.
+
+2\. Melléklet 3. cikk „Projekt végrehajtási eljárások”
+
+„Projekt végrehajtási eljárások” tábla: A „Szervezetek” oszlopban a „6. Pénzügyi ellenőrzés” sorban szereplő szöveg az alábbira módosul: „Felelős: Európai Támogatásokat Auditáló Főigazgatóság”.
+
+2\. Melléklet 4. cikk „A kifizetési és visszatérítési eljárás”
+
+Az első mondat teljes mértékben törlésre kerül, helyébe az alábbi szöveg lép:
+
+„A Magyar Államkincstár a Hozzájárulás Kifizető Hatósága.”
+
+Az utolsó előtti bekezdés teljes mértékben törlésre kerül, helyébe az alábbi rendelkezés lép:
+
+„A Projekt Megállapodásban meg kell határozni a költségek elszámolhatóságának végső határidejét. Amennyiben a Projekt Megállapodás eltérően nem rendelkezik, ez a határidő a projekt tervezett befejezését követő 12 hónapon belül, de nem később, mint 10 évvel (a vonatkozó cikkekben mint „kifizetési időszak”) a Hozzájárulás Svájci Parlament általi, a Keretmegállapodás 3. cikkének megfelelően történő jóváhagyása után lehetséges. A végső visszatérítési igények Svájchoz történő beérkezésének határideje az elszámolhatóság végső határidejét követő hat hónap. Kellően indokolt, kivételes esetekben a felek ettől eltérően rendelkezhetnek.”
+
+2\. Melléklet 5. cikk „Feladatok és kötelezettségek”
+
+5.2 „Közreműködő Szervezet” cikk Közreműködő Szervezet feladatait felsoroló rendelkezései az alábbi új ponttal egészülnek ki: „– Fordítás biztosítása a Svájci Hozzájárulás irányításának érdekében”.
+
+Az 5.5 „Kormányzati Ellenőrzési Hivatal” cikk rendelkezéseiben a pénzügyi ellenőrzési rendszer hatékony működtetéséért és a csalás és szabálytalanság megelőzéséért felelős intézmény neve „Kormányzati Ellenőrzési Hivatal”-ról „Európai Támogatásokat Auditáló Főigazgatóság”-ra változik.
+
+3\. Melléklet
+
+C rész: Technikai Segítségnyújtási Alap
+
+A C rész 1. „Meghatározás és célkitűzés” cikke az alábbira változik: „Technikai segítségnyújtási alap a Hozzájárulás hatékony és eredményes végrehajtása során a magyar félnél felmerült járulékos költségek fedezésére hozható létre, beleértve a 2. Melléklet 5.2 „Közreműködő Szervezet” cikkében felsorolt, valamint a 2. Melléklet 5.1 cikke alapján a NKE által a Közreműködő Szervezetre delegált feladatok ellátásához szükséges költségeket is.”
+
+A C rész 2. „Elszámolható költségek” cikke az alábbi új ponttal egészül ki:
+
+„j) A Közreműködő Szervezet Hozzájáruláshoz kapcsolódó költségei (többek között: személyi költségek, utazási költségek, eszközök/IT fejlesztés, szolgáltatás, általános költségek)”
+
+A Svájci Szövetségi Tanács és a Magyar Kormány közötti, a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás összes többi rendelkezése változatlan marad.
+
+Amint a magyar fél a javasolt módosításokat elfogadja, a jelen levél és a válaszlevél a felek közötti, a Keretmegállapodás fent említett részeinek módosításáról szóló megállapodásnak tekintendő. A megállapodás a magyar fél válaszlevelének kézhezvételétől számított 30. napon lép hatályba.”
+
+Ezúton tájékoztatom, hogy a magyar fél egyetért a svájci fél levelében foglaltakkal. Ennek következtében ezúton tisztelettel megerősítem, hogy a svájci fél levele és jelen válaszlevél a Felek közötti megállapodásnak tekintendő. A megállapodás a magyar fél válaszlevelének kézhezvételétől számított 30. napon lép hatályba.
+
+Köszönöm az ügyben tanúsított értékes együttműködését.
+
+Tisztelettel,
+
+Perényi Zsigmond
+
+helyettes államtitkár
+
+## 4. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Módosítás utolsó bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Módosítás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az európai uniós források felhasználásáért felelős miniszter gondoskodik.
+
+(5) A Keretmegállapodásnak a 66/2010. (III. 18.) Korm. rendelettel és a 101/2012. (V. 18.) Korm. rendelettel, valamint e rendelettel kihirdetett módosításokkal egységes szerkezetbe foglalt szövegének a Módosítás hatálybalépését követően történő haladéktalan közzétételéről az európai uniós források felhasználásáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Módosítás utolsó bekezdésében meghatározott időpontban lép hatályba. A 35/2016. (VIII. 31.) KKM közlemény alapján a hatálybalépés időpontja 2016. szeptember 2.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Módosítás utolsó bekezdésében meghatározott időpontban lép hatályba. A 35/2016. (VIII. 31.) KKM közlemény alapján a hatálybalépés időpontja 2016. szeptember 2.
+[^3]: A 35/2016. (VIII. 31.) KKM közlemény alapján a hatálybalépés időpontja 2016. szeptember 2.
+[^4]: Lásd a 35/2016. (VIII. 31.) KKM közleményt.

@@ -1,0 +1,488 @@
+---
+title: "257/2016. (VIII. 31.) Korm. rendelet az önkormányzati ASP rendszerről"
+identifier: "257/2016. (VIII. 31.) Korm. rendelet"
+njt_id: "2016-257-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/257"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-08-31
+in_force_from: 2016-09-03
+last_amended: 2025-06-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-257-20-22"
+retrieved: 2026-10-12
+---
+
+# 257/2016. (VIII. 31.) Korm. rendelet az önkormányzati ASP rendszerről
+
+A Kormány a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés h) pontjában kapott felhatalmazás alapján,
+
+a 18. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1\. *alapinfrastruktúra:* az önkormányzati ASP rendszer működését biztosító adatközponti és hálózati informatikai infrastruktúra, valamint a szakrendszeri átjárhatóságot és a külső rendszerkapcsolatok kiépítésének lehetőségét biztosító integrációs platformszolgáltatás;
+
+2.[^1] *alkalmazásüzemeltetés:* az alkalmazások elérhetővé tétele és működtetése, az alkalmazásokkal kapcsolatos képzési feladatok elvégzése, hibakezelés; a rendszertámogatási szerződések megkötése;
+
+3.[^2] *csatlakozás:* az az aktus, amivel a helyi önkormányzat – a képviselő-testület, illetve a képviselő-testület szervei –, valamint a csatlakozásra jogosult megkezdi a szolgáltatások tényleges használatát;
+
+3a.[^3] *elektronikus fizetési és elszámolási rendszer:* az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 15. pontjában meghatározott központi elektronikus ügyintézési szolgáltatás;
+
+4\. *interfész:* adatok automatizált módon, elektronikus úton történő átadását lehetővé tevő kapcsolódási felület;
+
+5.[^4] *központi szolgáltató:* a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.), valamint az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.);
+
+5a.[^5] *minimumkövetelmények:* az önkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások;
+
+6.[^6] *önkormányzati ASP rendszer:* az önkormányzati feladatellátást támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
+
+7\. *rendszertámogatás:* a fejlesztési időszakot követő hibajavítás, verziófrissítés, jogszabálykövetés;
+
+8\. *szakrendszer:* az önkormányzati ASP rendszer által nyújtott, igazgatási feladatokat támogató szakalkalmazás;
+
+9\. *ügyféltámogatás:* a működéssel kapcsolatos felhasználói segítségkérelmek megválaszolása.
+
+## 2. Az önkormányzati ASP rendszer működtetése és elemei
+
+### 2. §
+
+(1) A Kormány az önkormányzati ASP rendszert a Magyar Államkincstár (a továbbiakban: Kincstár) útján működteti.
+
+(2) A Kincstár működtetési feladatai:
+
+a) a csatlakozás-, és szolgáltatás-menedzsment ellátása,
+
+b) a szolgáltatási szerződések csatlakozó szervezetekkel való megkötése és módosítása,
+
+c) ügyfélszolgálat biztosításával a szolgáltatással kapcsolatos ügyfél-kapcsolattartási, tájékoztatási és adminisztratív feladatok ellátása, biztosítva a hibabejelentés lehetőségét,
+
+d)[^7] a szolgáltatásokkal kapcsolatos kommunikációs és képzési feladatok koordinációja.
+
+(3)[^8] A Kincstár a 3. § (2) bekezdésében foglalt szakrendszerek, a keretrendszer és a támogató rendszerek tekintetében a csatlakozott önkormányzatok, valamint az önkormányzat által alapított költségvetési szervek adatfeldolgozójaként
+
+a) az elektronikus ügyintézés biztosítása céljából elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti ügyfél (a továbbiakban: ügyfél) személyes adatait az E-ügyintézési tv. szerinti központi elektronikus ügyintézési szolgáltatástól vagy szabályozott elektronikus ügyintézési szolgáltatástól (a továbbiakban együtt: SZEÜSZ) vagy annak közreműködésével átveszi, és a csatlakozott, az E-ügyintézési tv. szerinti elektronikus ügyintézést biztosító szerv részére továbbítja,
+
+b) a csatlakozott elektronikus ügyintézést biztosító szerv részére szóló küldeményeket az ügyféltől vagy más elektronikus ügyintézést biztosító szervtől elektronikusan átveszi, és az önkormányzat részére továbbítja,
+
+c) a csatlakozott elektronikus ügyintézést biztosító szervtől az ügyfél vagy más elektronikus ügyintézést biztosító szerv részére küldött küldeményeket elektronikusan átveszi, és a címzettnek továbbítja.
+
+(4)[^9] Az önkormányzati ASP rendszer – a 3. § (2) bekezdés c) pontja szerinti szakrendszer szolgáltatásainak igénybevétele esetén – a csatlakozott önkormányzat vonatkozásában az E-ügyintézési tv. 25. § (3) bekezdése szerinti követelményeknek megfelelő, elektronikus ügyintézést biztosító információs rendszernek minősül.
+
+(5)[^10] A 3. § (2) bekezdése szerinti szakrendszerek, a keretrendszer és a támogató rendszerek működtetéséhez szükséges SZEÜSZ-ök szolgáltatója a SZEÜSZ-öket, valamint a földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlannyilvántartási rendszerből történő teljes tulajdoni lap adattartalmára vonatkozó adatszolgáltatását a csatlakozott önkormányzatok részére a Kincstár útján nyújtja. Ez nem zárja ki azt, hogy az önkormányzat – ha az önkormányzati ASP rendszer által nem támogatott feladatok ellátásához ez szükséges – a SZEÜSZ-öket vagy a földmérési és térinformatikai államigazgatási szerv számítógépes ingatlannyilvántartási rendszerből történő teljes tulajdoni lap adattartalmára vonatkozó adatszolgáltatását közvetlenül is igénybe vegye.
+
+### 3. §
+
+(1) Az önkormányzati ASP rendszer elemei:
+
+a) szakrendszerek,
+
+b) keretrendszer,
+
+c) támogató rendszerek és
+
+d)[^11] a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 114. § (4) bekezdése szerinti önkormányzati adattárház.
+
+(2) Az önkormányzati ASP rendszer szakrendszerei:
+
+a) iratkezelő rendszer,
+
+b) önkormányzati települési portál rendszer,
+
+c) az elektronikus ügyintézési portál rendszer, ideértve az elektronikus űrlap-szolgáltatást,
+
+d) gazdálkodási rendszer,
+
+e) ingatlanvagyon-kataszter rendszer,
+
+f) önkormányzati adórendszer,
+
+g) ipar- és kereskedelmi rendszer,
+
+h) hagyatéki leltár rendszer.
+
+(3) A keretrendszer a szakrendszerek számára egységes felületet és hozzáférést, az egységes felhasználó-, és jogosultságkezelést, valamint a rendszerszintű menedzsment (üzleti) funkciók elérését biztosítja.
+
+(4) A támogató rendszerek az önkormányzati ASP rendszer napi adminisztratív, ügyfélszolgálati és működtetési feladatait segítő alkalmazások.
+
+(5)[^12] Az iratkezelő rendszer – a Kincstár által közzétett formátumban – fogadja a helyi önkormányzatnak az iratkezelő rendszerhez történő csatlakozását megelőző napon használt iratkezelő rendszerében tárolt teljes adatállományt.
+
+(6)[^13] A (2) bekezdés c) pontja szerinti szakrendszerhez kapcsolódó elektronikus ügyintézési portál használatát érintő lakossági ügyfélszolgálati feladatok ellátását az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 40. § 3. pontja szerinti Kormányzati Ügyfélvonal (a továbbiakban: ügyfélszolgálat) biztosítja. Az ügyfélszolgálat ennek keretében a következő szolgáltatások ellátását biztosítja:
+
+a) segítségnyújtás a rendszerbe való belépéshez;
+
+b) technikai segítség az oldalon megjelenő szolgáltatások kapcsán;
+
+c) ügyfelek támogatása az ASP rendszer használata során;
+
+d) kapcsolattartás a központi szolgáltatóval, valamint az ügyféltámogatói feladatokat ellátó szervezetekkel;
+
+e) intézhető ügyekkel kapcsolatos tájékoztatás;
+
+f) SZEÜSZ-szel kapcsolatos panaszok, közérdekű bejelentések, észrevételek fogadása, kivizsgálása, továbbítása, megválaszolása.
+
+### 3/A. §[^14]
+
+A 3. § (1) bekezdés b) pontja szerinti keretrendszer – a 4. mellékletben meghatározott esetekben és adatkörökben – biztosíthatja más szakrendszerek felé a jegyző, valamint a jegyző nevében eljáró önkormányzati tisztviselő azonosítását, valamint jogosultságát.
+
+## 3. Az önkormányzati ASP rendszer működtetése (fenntartás, üzemeltetés, rendszertámogatás)
+
+### 4. §
+
+(1) A 3. § (2) bekezdés
+
+a) *a)* pontja szerinti szakrendszer esetében a köziratok kezelésének szakmai irányításáért felelős miniszter,
+
+b) *b)–c)* pontja szerinti szakrendszer esetében az e-közigazgatásért felelős miniszter,
+
+c) *d)–e)* pontja szerinti szakrendszer esetében az államháztartásért, valamint az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter a helyi önkormányzatokért felelős miniszter egyetértésével,
+
+d) *f)* pontja szerinti szakrendszer esetében az adópolitikáért felelős miniszter,
+
+e) *g)* pontja szerinti szakrendszer esetében az iparügyekért felelős miniszter a kereskedelemért felelős miniszter egyetértésével,
+
+f) *h)* pontja szerinti szakrendszer esetében az igazságügyért felelős miniszter
+
+ellenőrzi a szakrendszer működését és meghatározza a szakrendszer fejlesztésének irányait.
+
+(2)[^15] Az önkormányzati ASP rendszer szakrendszereiben tárolt adatokat helyi önkormányzatonként, a gazdálkodási szakrendszer esetén önkormányzat által alapított költségvetési szervenként elkülönítve, az átjárhatóság kizárásával kell tárolni.
+
+(3)[^16] Az önkormányzati ASP rendszert úgy kell kialakítani, hogy az egyes szakrendszerekben tárolt adatokhoz csak az adatkezelő önkormányzat, valamint a képviselő-testület és annak szervei, gazdálkodási szakrendszer esetén az önkormányzat, a képviselő-testület és annak szervei vagy az önkormányzat által alapított költségvetési szerv férjen hozzá, azzal, hogy a 3. § (2) bekezdés f) pontja szerinti szakrendszerben tárolt adatokhoz kizárólag az önkormányzati adóhatóság férhet hozzá.
+
+(4) A szakrendszerekben tárolt adatok védelméről a Kincstár, a NISZ Zrt. és az IdomSoft Zrt. – az általuk ellátott feladatok körében – gondoskodik.
+
+(5)[^17] A 3. § (2) bekezdés g) pontja szerinti szakrendszer személyes adatot nem tartalmazó adattartalmát az önkormányzati ASP rendszerhez a 6. § (1) bekezdés a) pontja szerint csatlakozott önkormányzat jegyzője közvetlen adatkapcsolat útján továbbíthatja a kereskedelmi nyilvántartásokat tartalmazó országos nyilvántartás részére.
+
+(6)[^18] A kereskedelemről szóló 2005. évi CLXIV. törvény 6/H. §-a szerinti adatátadás a 3. § (2) bekezdés g) pontja szerinti szakrendszeren keresztül is teljesíthető. A statisztikai célra térítésmentesen leválogatott adatokat a Kincstár továbbítja a Központi Statisztikai Hivatal számára.
+
+### 5. §
+
+(1)[^19] Az önkormányzati ASP rendszer alapinfrastruktúra – ideértve az alapinfrastruktúra üzemeltetésével összefüggő adatfeldolgozási feladatellátást is – üzemeltetője a NISZ Zrt.
+
+(2)[^20] Az önkormányzati ASP rendszer ügyféltámogatói feladatait, valamint az egyes elemei, szakrendszerei alkalmazásüzemeltetési – ideértve az alkalmazás üzemeltetésével összefüggő adatfeldolgozási feladatellátást is –, alkalmazásüzemeltetés-támogatási és alkalmazásfejlesztési feladatait a Kincstár és a központi szolgáltató, valamint a KINCSINFO Nonprofit Kft. látják el az 1. mellékletben meghatározottak szerint.
+
+(3) A központi szolgáltató által ellátott feladatokra vonatkozóan a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 4. §-a alapján központi szolgáltatási megállapodást köt, a központi szolgáltató által ellátott feladatok finanszírozása e megállapodás keretein belül történik. Az egyes szolgáltatási szintek részletes tartalmát a központi szolgáltatási szerződés határozza meg.
+
+(4) A (3) bekezdés alapján a központi szolgáltató részére nyújtott ellentételezés az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (a továbbiakban: 2012/21/EU bizottsági határozat) szabályai szerint nyújtható.
+
+## 4. Az önkormányzati ASP rendszerhez való csatlakozás módja
+
+### 6. §
+
+(1) A helyi önkormányzat az önkormányzati ASP rendszerhez
+
+a) a keretrendszer és a szakrendszerek igénybevételével (a továbbiakban: rendszercsatlakozás) vagy
+
+b) – az önkormányzati ASP rendszer által támogatott feladatok önálló informatikai támogatása mellett – az önkormányzati adattárház számára a 3. mellékletben meghatározott adatok átadását lehetővé tevő interfész kiépítésével (a továbbiakban: interfészes csatlakozás)
+
+csatlakozhat.
+
+(2)[^21]
+
+(3) Rendszercsatlakozás esetén
+
+a) a keretrendszer és a szakrendszer által támogatott feladatainak informatikai támogatását a helyi önkormányzat a keretrendszer és a szakrendszer útján látja el,
+
+b) a közös önkormányzati hivatalhoz tartozó minden helyi önkormányzat esetében a szakrendszerek használatának önkormányzatonkénti elkülönítését biztosítani kell,
+
+c) az általa használt szakrendszerekben tárolt adatok adatfelelőse a helyi önkormányzat.
+
+(4) Interfészes csatlakozás esetén
+
+a) az interfész kiépítéséhez szükséges fejlesztésekről a helyi önkormányzat saját erőből gondoskodik a Kincstár által meghatározott informatikai specifikációk alapján,
+
+b) az interfész technológiai megfelelőségét a csatlakozás előtt az e-közigazgatásért felelős miniszter ellenőrzi.
+
+(4a)[^22] Az interfészes csatlakozás a 3. melléklet szerinti adatoknak az önkormányzati adattárház számára történő automatizált elektronikus átadhatóságának biztosításával valósul meg.
+
+(4b)[^23] Az önkormányzati ASP rendszer működtetője interfészes csatlakozás esetén a csatlakozó önkormányzatnak a 3. § (2) bekezdés c) pontja szerinti szakrendszert biztosítja, ha az interfészes önkormányzat az arra vonatkozó igényét bejelenti a Kincstár felé.
+
+(4c)[^24] Az önkormányzati ASP rendszerhez interfészen keresztül csatlakozó önkormányzat a (4b) bekezdés szerinti igénybejelentését bármikor megteheti, azzal, hogy a szakrendszerhez való hozzáférés biztosításának kezdő időpontjáról, valamint annak módjáról a Kincstárral külön megállapodást köt.
+
+(5) Azon polgármesteri hivatal, illetve közös önkormányzati hivatali székhely esetében, ahol a Nemzeti Távközlési Gerinchálózat kiépítésre kerül, az önkormányzati ASP rendszerhez való csatlakozás ezen hálózaton keresztül valósul meg.
+
+### 6/A. §[^25]
+
+Azon önkormányzat esetében, ahol a polgármesteri hivatal vagy a közös önkormányzati hivatal, a nemzetiségi önkormányzat vagy az önkormányzati társulás számára olyan gazdálkodási, illetve adminisztrációs feladatot lát el, amelyet az önkormányzati ASP rendszer támogatni képes, e feladat ellátását az önkormányzat az önkormányzati ASP rendszer szakrendszerein keresztül is elláthatja.
+
+## 5. A szolgáltatási szerződés
+
+### 7. §
+
+(1) Csatlakozását megelőzően a helyi önkormányzat szolgáltatási szerződést (a továbbiakban: szerződés) köt a Kincstárral.
+
+(2) A szerződésben a helyi önkormányzat vállalja, hogy
+
+a) – interfészes csatlakozás esetén – az interfész kiépítéséről gondoskodik,
+
+b)[^26] – rendszercsatlakozás esetén – a szerződés megkötésétől legkésőbb az első szakrendszerhez való csatlakozás időpontjáig tartó felkészülési idő alatt biztosítja az önkormányzati ASP rendszerhez történő csatlakozáshoz szükséges, a minimumkövetelményeknek való megfelelést, valamint azok folyamatos fenntartását;
+
+c) – a Kincstár útján, a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 44. § (2) bekezdésével érintett helyi önkormányzatok esetében a Kincstár közreműködésével – gondoskodik az önkormányzati adórendszer esetében a csatlakozási időpontot megelőző, el nem évült adókötelezettségre vonatkozó adatállomány migrálásáról.
+
+(3)[^27] A szerződésben a Kincstár vállalja, hogy a csatlakozók önkormányzati ASP rendszerben tárolt adatai biztonságát technológiai és adminisztratív eszközökkel biztosítja és garantálja, hogy azokat csak törvényben meghatározott esetben, valamint a 3. § (2) bekezdés f) pontja szerinti szakrendszer kivételével, az e rendeletben meghatározott szerveknek teszi hozzáférhetővé.
+
+(4)[^28]
+
+(5) Az önkormányzati ASP rendszer szolgáltatásainak igénybevétele a helyi önkormányzat számára térítésmentes.
+
+### 7/A. §[^29]
+
+(1) A Kincstár a honlapján közzéteszi a rendszercsatlakozáshoz szükséges minimumkövetelményeket.
+
+(2) A Kincstár a minimumkövetelmények változását megelőzően legalább 180 nappal korábban köteles a változást és annak időpontját közzétenni.
+
+### 8. §
+
+(1) A szerződés tartalmazza legalább
+
+a)[^30] a minimumkövetelmények, valamint a folyamatos működés biztosításához szükséges feladatok teljesítésének helyi önkormányzat általi vállalását,
+
+b) a helyi önkormányzat által igénybe vett szakrendszereket, ezek szolgáltatási szintjét, és a csatlakozási időpontot szakrendszerenként,
+
+c) a szolgáltatás igénybevételével kapcsolatos jogokat és kötelezettségeket,
+
+d) a kapcsolattartók adatait,
+
+e) az elektronikus ügyintézési szolgáltatások bevezetésére vonatkozó önkormányzati kötelezettségvállalást,
+
+f) az adatfeldolgozásra vonatkozó rendelkezéseket, valamint
+
+g)[^31] a csatlakozáshoz és az egyes szakrendszerek igénybevételéhez szükséges feladatok technikai, valamint informatikai meghatározását.
+
+(2) Az interfész kiépítése tekintetében kötött szerződésnek legalább a helyi önkormányzat 7. § (2) bekezdés a) pontja szerinti vállalását, valamint az (1) bekezdés a), c)–g) pontja szerinti elemeket kell tartalmaznia.
+
+## 5/A. [^32] Az önkéntes csatlakozásra vonatkozó különös szabályok
+
+### 8/A. §
+
+(1)[^33] Az önkormányzat vagy az önkormányzat társulása által alapított, gazdasági szervezettel
+
+a) rendelkező költségvetési szerv (a továbbiakban: önkormányzati költségvetési szerv) csatlakozására e § rendelkezéseit kell alkalmazni,
+
+b) nem rendelkező költségvetési szerv feladatellátását az önkormányzati ASP rendszer a csatlakozott önkormányzat vagy a csatlakozott önkormányzati költségvetési szerv útján támogatja.
+
+(2)[^34] Az önkormányzati költségvetési szerv csatlakozása önkéntes azzal, hogy ahhoz az alapító önkormányzat vagy önkormányzati társulás egyetértése is szükséges.
+
+(3)[^35] Az önkormányzati költségvetési szervnek – csatlakozását megelőzően – a minimumkövetelményeknek való megfelelést biztosítania kell.
+
+(4) Csatlakozását megelőzően az (1) bekezdés a) pontja szerinti önkormányzati költségvetési szerv szolgáltatási szerződést köt a Kincstárral. A szolgáltatási szerződés
+
+a)[^36] alapján az önkormányzati költségvetési szerv a 3. § (2) bekezdés d) pontja szerinti szakrendszerhez csatlakozik, illetve a 3. § (2) bekezdés a) pontja szerinti szakrendszerhez csatlakozhat,
+
+b)[^37] aláírója a Kincstár képviselője és az önkormányzati költségvetési szerv vezetője mellett az alapító önkormányzat polgármestere vagy önkormányzati társulás tanácsának elnöke,
+
+c) felmondási ideje három hónap, és csak a naptári év végével mondható fel.
+
+(5) Az önkormányzati ASP rendszer szolgáltatásainak igénybevétele az önkormányzati költségvetési szerv számára térítésmentes.
+
+(6)[^38] Az önkormányzati költségvetési szerv az önkormányzati ASP rendszerhez a csatlakozás kezdeményezését követő év január 1-jével csatlakozhat, a csatlakozást a megelőző év július 31-éig kezdeményezheti. Az önkormányzati költségvetési szerv a csatlakozás időpontjáról és módjáról a Kincstárral – ha az önkormányzati költségvetési szerv csatlakozása az önkormányzati ASP rendszerhez kötelezően csatlakozók ellátását nem veszélyezteti – megállapodik.
+
+(7)[^39] Az önkormányzati költségvetési szerv a (6) bekezdéstől eltérően az önkormányzati ASP rendszerhez – a Kincstárral kötött megállapodás alapján – év közben is csatlakozhat. A megállapodásnak tartalmaznia kell a csatlakozás időpontját és módját. A csatlakozás időpontját a Kincstár határozza meg a központi szolgáltató véleményének figyelembevételével.
+
+### 8/B. §[^40]
+
+(1) A térségi fejlesztési tanács – a feladatellátást végző költségvetési szerven keresztül – az önkormányzati ASP rendszerhez önként csatlakozhat.
+
+64bek = (2) A csatlakozás tekintetében a 8/A. § rendelkezései irányadóak, azzal, hogy a szolgáltatási szerződés aláírója a Kincstár képviselője és a térségi fejlesztési tanács vezetője, továbbá a 8/A. § (2) bekezdését nem kell alkalmazni.
+
+## 6. Önkormányzati adattárház
+
+### 9. §
+
+(1) Az önkormányzati adattárház adattartalma a kormányzati és önkormányzati döntések előkészítését szolgálja.
+
+(2) Az önkormányzati adattárház működtetője a Kincstár.
+
+(3) Az önkormányzati adattárház adatainak forrása
+
+a) a szakrendszerekben képződött,
+
+b) a 6. § (1) bekezdés b) pontja szerinti interfészen átadott, valamint
+
+c) a Kincstár rendszereiben az önkormányzati körre vonatkozóan rendelkezésre álló
+
+személyes adatnak és adótitoknak nem minősülő, a 3. mellékletben meghatározott adat.
+
+(4) Az interfészen keresztül történő csatlakozás esetén a helyi önkormányzat a csatlakozást követően az önkormányzati adattárházba – a (3) bekezdésben foglaltakra figyelemmel – a 3. mellékletben meghatározott adatköröknek megfelelő adatokat köteles feltölteni.
+
+(5)[^41] Az önkormányzati adattárházba feltöltött adatok adatfelelőse – függetlenül attól, hogy interfésszel vagy rendszercsatlakozással csatlakozott az önkormányzati ASP rendszerhez – a rá vonatkozó adatok tekintetében a helyi önkormányzat, vagy az önkormányzati költségvetési szerv.
+
+(6) A Kincstár az önkormányzati adattárházban tárolt adatok tekintetében adatkezelői feladatokat lát el. Ennek keretében a Kincstár
+
+a) saját feladatainak ellátásához,
+
+b)[^42] az érintett helyi önkormányzat számára a saját álnevesített adatai, valamint a helyi önkormányzat és az önkormányzati érdekszövetségek számára más helyi önkormányzatok álnevesített adataiból összesített és átlagolt, így összehasonlításra és elemzésre alkalmas adatai vonatkozásában,
+
+c) a helyi önkormányzatokért, az adópolitikáért, az államháztartásért, valamint a gazdaságpolitikáért felelős miniszter, a Központi Statisztikai Hivatal és az Állami Számvevőszék számára jogszabályban rögzített feladataik ellátása céljából
+
+rendszeres és eseti adatlekérdezést, adatösszegzést és adatszolgáltatást végez.
+
+(7)[^43] Az önkormányzati adattárházban tárolt álnevesített adatok ismételt megszemélyesítését a saját adataik tekintetében kizárólag a helyi önkormányzatok végezhetik el.
+
+## 7. Záró rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+(2)[^44]
+
+### 11. §
+
+(1) Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) hatálya alá tartozó támogatást tartalmaz.
+
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 12. §[^45]
+
+(1) A 2018. január 1. napjáig az önkormányzati ASP rendszerhez már csatlakozott önkormányzatokon túl
+
+a)[^46]
+
+b) 2019. június 1-jéig csatlakoznak az interfészes csatlakozók, a (2) bekezdésben meghatározott kivétellel.
+
+(2) Ha a helyi önkormányzat nem a Kincstár adófeldolgozó programrendszerét használja, akkor a 3. § (2) bekezdés f) pontja szerinti szakrendszerhez csak a Htv. 44. § (2) bekezdésében rögzített határnaptól csatlakozik; 2019. június 1-jétől azonban a 3. mellékletben foglalt táblázat 2. sora szerinti adatok teljes körének automatizált elektronikus átadását biztosítania kell az önkormányzati adattárház számára.
+
+(3) A 3. § (2) bekezdés b) pontja szerinti települési portál rendszer használata a helyi önkormányzat számára nem kötelező. A rendszer használatával vagy használatának mellőzésével kapcsolatos igényét a helyi önkormányzat évente egyszer, a tárgyévet megelőző év június 30-áig jelezheti a Kincstár számára. Az önkormányzati ASP rendszer a portálszolgáltatást az igény jelzését követő év január 1-jétől biztosítja vagy szünteti meg. A települési portál felületére feltöltött tartalmakért az önkormányzati települési portál rendszer igénybevétele esetén is a helyi önkormányzat felel.
+
+(4)[^47]
+
+(5) Az e §-ban megjelölt végső csatlakozási időpontnál korábbi csatlakozásra a Kincstár és a helyi önkormányzat megállapodása alapján kerülhet sor.
+
+### 13. §[^48]
+
+(1) Interfésszel az a helyi önkormányzat csatlakozhat, amelynek interfészes csatlakozására az e-közigazgatásért felelős miniszter legkésőbb 2018. május 31-ig az engedélyt megadta.
+
+(2)[^49]
+
+(3) Ha az e-közigazgatásért felelős miniszter álláspontja szerint valószínűsíthető, hogy a teljes körű interfész kiépítésével a helyi önkormányzat a csatlakozási határidőre nem készül el, vagy az interfész technikai megvalósítása nem megfelelő, az e-közigazgatásért felelős miniszter az interfészes csatlakozáshoz történő hozzájárulását visszavonja. Ebben az esetben a helyi önkormányzat rendszercsatlakozással csatlakozik az önkormányzati ASP rendszerhez. A rendszercsatlakozás időpontjára a (7) bekezdést kell alkalmazni.
+
+(4) Az interfésszel csatlakozó helyi önkormányzatok a 3. mellékletben foglalt táblázat 1. sora szerinti, a 2018. évre vonatkozó végleges adataikat a Kincstár által meghatározott interfész-specifikációnak megfelelően 2019. augusztus 1-jéig az önkormányzati adattárházba feltöltik.
+
+(5) A (4) bekezdésben megjelölt időpontig a 2017. és 2018. évben rendszercsatlakozással csatlakozott helyi önkormányzatok 2018. évre vonatkozó végleges adatainak adattárházba töltését is el kell végezni.
+
+(6)[^50]
+
+(7)[^51] 2019. június 1-jét követően az interfésszel csatlakozott helyi önkormányzat az e-közigazgatásért felelős miniszternél kezdeményezheti a rendszercsatlakozásra történő csatlakozást. A rendszercsatlakozás időpontját az e-közigazgatásért felelős miniszter – a helyi önkormányzatokért felelős miniszter véleményének beszerzését követően – a Kincstárral együtt állapítja meg.
+
+(8) A Kincstár – a 3. melléklet szerinti adatok nyilvántartását szabályozó előírások 2019. évi módosításokhoz kapcsolódó adatstruktúra-változásokat is figyelembe véve – az interfész-specifikáció teljes körű, végleges változatát legkésőbb 2019. március 15-ig az érintett önkormányzatok rendelkezésére bocsátja.
+
+### 14. §[^52]
+
+(1) Az önkormányzati ASP központról és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 62/2015. (III. 24.) Korm. rendelet alapján az önkormányzati ASP központhoz csatlakozott önkormányzatokat e rendelet alkalmazásában csatlakozott önkormányzatnak kell tekinteni.
+
+(2) Az Mötv. 114. § (3) bekezdése alkalmazásában a csatlakozás végső időpontjának a rendszercsatlakozás határidejét kell tekinteni.
+
+(3) A Htv. 44. §-a alkalmazásában az önkormányzati ASP rendszer önkormányzati adórendszerét a Kincstár által rendelkezésre bocsátott számítógépes programrendszernek kell tekinteni.
+
+(4) A csatlakozási időpontot megelőző év vonatkozásában a zárási, évváltási, adatszolgáltatási és beszámolási feladatokat a korábban alkalmazott szoftverrel kell elvégezni.
+
+### 17. §
+
+Ha a szerződés a csatlakozási határidőig a helyi önkormányzat mulasztása miatt nem lép hatályba, a Kincstár a mulasztásról a törvényességi felügyeleti eljárás lefolytatása érdekében – az Mötv. 132. § (1) bekezdés e) pontjára tekintettel – értesíti a fővárosi és megyei kormányhivatalt.
+
+### 18. §[^56]
+
+E rendelet alapján az önkormányzati ASP rendszerhez csatlakozott önkormányzat tekintetében az 1. § 3a. pontja szerinti központi elektronikus ügyintézési szolgáltatáshoz csatlakozott szervezet a Kincstár, amely az informatikai rendszerén keresztül biztosítja az elektronikus fizetési és elszámolási rendszer szolgáltatásaihoz szükséges fizetési feltételeket.
+
+## 1. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^57]
+
+**Az önkormányzati ASP rendszer szolgáltatásainak üzemeltetési és rendszertámogatási feladatainak ellátása**
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td colspan="2">D</td><td>E</td></tr><tr><td></td><td></td><td colspan="3">szolgáltatási szint</td><td colspan="2"></td></tr><tr><td></td><td>Az önkormányzati ASP rendszer eleme</td><td>ügyféltámogatás</td><td>alkalmazásüzemeltetés</td><td colspan="2">alkalmazásüzemeltetés- támogatás</td><td>alkalmazásfejlesztési feladatok</td></tr><tr><td>**1.**</td><td>iratkezelő rendszer</td><td>Kincstár</td><td>NISZ Zrt.</td><td colspan="2">NISZ Zrt.</td><td>NISZ Zrt.</td></tr><tr><td>**2.**</td><td>önkormányzati települési portál rendszer</td><td>Kincstár</td><td>NISZ Zrt.</td><td colspan="2">NISZ Zrt.</td><td>NISZ Zrt</td></tr><tr><td>**3.**</td><td>elektronikus ügyintézési portál rendszer</td><td>Kincstár</td><td>NISZ Zrt</td><td colspan="2">NISZ Zrt.</td><td>NISZ Zrt</td></tr><tr><td>**4.**</td><td>elektronikus űrlapkezelő rendszer</td><td>Kincstár</td><td>NISZ Zrt</td><td colspan="2">IdomSoft Zrt.[^58]</td><td>IdomSoft Zrt.[^59]</td></tr><tr><td>**5.**</td><td>gazdálkodási rendszer</td><td>Kincstár</td><td>IdomSoft Zrt.</td><td colspan="2">IdomSoft Zrt.</td><td>IdomSoft Zrt.</td></tr><tr><td>**6.**</td><td>önkormányzati naplóelemző rendszer</td><td>Kincstár</td><td>IdomSoft Zrt.</td><td colspan="2">IdomSoft Zrt.</td><td>IdomSoft Zrt.</td></tr><tr><td>**7.**</td><td>ingatlanvagyon-kataszter rendszer</td><td>Kincstár</td><td>Kincstár</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr><tr><td>**8.**</td><td>önkormányzati adórendszer</td><td>Kincstár</td><td>KINCSINFO Nonprofit Kft.</td><td colspan="2">KINCSINFO Nonprofit Kft.</td><td>KINCSINFO Nonprofit Kft.</td></tr><tr><td>**9.**</td><td>ipar- és kereskedelmi rendszer</td><td>Kincstár</td><td>Kincstár</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr><tr><td>**10.**</td><td>támogató rendszerek</td><td>Kincstár</td><td>Kincstár</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr><tr><td>**11.**</td><td>önkormányzati adattárház</td><td>Kincstár</td><td>Kincstár<br>(az adatbetöltő és adatfeldolgozási folyamatok működtetését is beleértve)</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr><tr><td>**12.**</td><td>keretrendszer</td><td>Kincstár</td><td>Kincstár</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr><tr><td>**13.**</td><td>hagyatéki leltár rendszer</td><td>Kincstár</td><td>Kincstár</td><td colspan="2">Kincstár</td><td>Kincstár</td></tr></tbody></table>
+
+## 2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^60]
+
+## 3. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^61]
+
+**Az önkormányzati adattárház forrásai és adatkörei**
+
+|  | A | B |
+|---|---|---|
+|  | Adatforrás | Adatkör |
+| **1.** | gazdálkodási rendszer | Az államháztartás számviteléről szóló Korm. rendeletben előírt adattartalom |
+| **2.** | önkormányzati adórendszer | A települési önkormányzatok által nyilvántartott, az önkormányzati adóhatóság hatáskörébe tartozó adók és adók módjára behajtandó köztartozások nyilvántartásának, kezelésének, elszámolásának, valamint az önkormányzati adóhatóság adatszolgáltatási eljárásának szabályairól szóló NGM rendelet (a továbbiakban: NGM rendelet) alapján az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett útmutató szerinti adatok |
+| **3.** | ingatlanvagyon-kataszter rendszer | Az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló Korm. rendeletben meghatározott adatok |
+| **4.** | iratkezelő rendszer | Ügyiratforgalmi adatok |
+| **5.** | ipar- és kereskedelmi szakrendszer | Az önkormányzati hatáskörbe utalt ipari és kereskedelmi igazgatási ügyek egyes adatai: a) a kereskedelmi tevékenységek végzésének feltételeiről szóló Korm. rendelet, b) a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló Korm. rendelet, c) a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló Korm. rendelet, d) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló Korm. rendelet, e) a vásárokról, a piacokról és a bevásárlóközpontokról szóló Korm. rendelet, f) a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló Korm. rendelet szerinti adatok |
+| **6.** | Kincstár Közhiteles Törzskönyvi Nyilvántartása | Az államháztartásról szóló törvény (a továbbiakban: Áht.), az államháztartásról szóló törvény végrehajtásáról szóló Korm. rendelet (a továbbiakban: Ávr.) és a Magyar Államkincstárról szóló Korm. rendelet szerinti adatok |
+| **7.** | Kincstár Önkormányzati Előirányzat Gazdálkodási Modul | Önkormányzatok állami támogatásának nyilvántartó rendszere az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló Korm. rendelet, az Áht., az Ávr., az NGM rendelet szerinti adatok |
+
+## 4. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^62]
+
+**Egyéb, az önkormányzati ASP rendszer szolgáltatásait igénybe vevő szakrendszerek**
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>1.</td><td>Rendszer megnevezése</td><td>Rendszer üzemeltetője</td><td>A rendszerek közötti kapcsolat terjedelme</td><td>Átadott adatok</td></tr><tr><td rowspan="6">2.</td><td rowspan="6">Nemzeti Turisztikai Adatszolgáltató Központ (NTAK)</td><td rowspan="6">Visit Hungary Nemzeti Turisztikai Szervezet Nonprofit Zártkörűen Működő Részvénytársaság[^63]</td><td rowspan="6">Az önkormányzat jegyzője, valamint a jegyző nevében eljáró önkormányzati tisztviselő azonosítása és a jogosultság ellenőrzése az ASP Keretrendszerében</td><td>Az önkormányzat Kincstár által kiadott törzskönyvi nyilvántartási azonosítószám (PIR szám)</td></tr><tr><td>önkormányzat neve</td></tr><tr><td>A felhasználó bejelentkezési neve</td></tr><tr><td>A felhasználó teljes neve</td></tr><tr><td>A felhasználó email-címe</td></tr><tr><td>A felhasználó NTAK jogosultsági szintje és szerepköre</td></tr></tbody></table>
+
+## 5. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^64]
+
+---
+
+[^1]: Az 1. § 2. pontja a 100/2017. (IV. 28.) Korm. rendelet 1. §-ával megállapított, a 148/2018. (VIII. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 3. pontja a 75/2019. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 3a. pontját a 179/2018. (X. 2.) Korm. rendelet 3. §-a iktatta be.
+[^4]: Az 1. § 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 4. § a) pontja, a 338/2023. (VII. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § 5a. pontját a 717/2021. (XII. 20.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^6]: Az 1. § 6. pontja a 75/2019. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés d) pontja a 100/2017. (IV. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 2. § (4) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 75/2019. (IV. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 310/2023. (VII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 3. § (1) bekezdés d) pontja a 75/2019. (IV. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 3. § (6) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 84. §-a iktatta be.
+[^14]: A 3/A. §-t a 235/2019. (X. 15.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^15]: A 4. § (2) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^16]: A 4. § (3) bekezdése a 148/2018. (VIII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (5) bekezdését a 445/2020. (X. 1.) Korm. rendelet 21. §-a iktatta be.
+[^18]: A 4. § (6) bekezdését a 662/2021. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^19]: Az 5. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (2) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 680/2020. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^22]: A 6. § (4a) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 6. § (4b) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 6. § (4c) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 6/A. §-t a 75/2019. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^26]: A 7. § (2) bekezdés b) pontja a 75/2019. (IV. 9.) Korm. rendelet 10. § c) pontja, a 717/2021. (XII. 20.) Korm. rendelet 19. a) pontja szerint módosított szöveg.
+[^27]: A 7. § (3) bekezdése a 75/2019. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A 7. § (4) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^29]: A 7/A. §-t a 717/2021. (XII. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^30]: A 8. § (1) bekezdés a) pontja a 717/2021. (XII. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^31]: A 8. § (1) bekezdés g) pontja a 75/2019. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: Az 5/A. alcímet (8/A. §) a 361/2017. (XI. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be, az alcím címe a 75/2019. (IV. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 8/A. § (1) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^34]: A 8/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^35]: A 8/A. § (3) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^36]: A 8/A. § (4) bekezdés a) pontja a 75/2019. (IV. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^37]: A 8/A. § (4) bekezdés b) pontja a 179/2018. (X. 2.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^38]: A 8/A. § (6) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^39]: A 8/A. § (7) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 25. §-a iktatta be.
+[^40]: A 8/B. §-t a 75/2019. (IV. 9.) Korm. rendelet 8. §-a iktatta be.
+[^41]: A 9. § (5) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^42]: A 9. § (6) bekezdés b) pontja a 148/2018. (VIII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^43]: A 9. § (7) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^44]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 12. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^46]: A 12. § (1) bekezdés a) pontját a 75/2019. (IV. 9.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^47]: A 12. § (4) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^48]: A 13. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^49]: A 13. § (2) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^50]: A 13. § (6) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^51]: A 13. § (7) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^52]: A 14. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^56]: A 18. §-t újonnan a 179/2018. (X. 2.) Korm. rendelet 4. §-a iktatta be.
+[^57]: Az 1. melléklet a 680/2020. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^58]: Az 1. mellékletben foglalt táblázat D:4 mezője a 338/2023. (VII. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^59]: Az 1. mellékletben foglalt táblázat E:4 mezője a 338/2023. (VII. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^60]: A 2. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^61]: A 3. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 75/2019. (IV. 9.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^62]: A 4. mellékletet a 148/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 235/2019. (X. 15.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^63]: A 4. mellékletben foglalt táblázat B:2 mezője a 157/2025. (VI. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^64]: Az 5. mellékletet a 235/2019. (X. 15.) Korm. rendelet 18. § (3) bekezdése hatályon kívül helyezte.

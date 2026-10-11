@@ -1,0 +1,245 @@
+---
+title: "24/2011. (III. 9.) Korm. rendelet a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóknál működő szakszervezetek reprezentativitásának megállapításáról"
+identifier: "24/2011. (III. 9.) Korm. rendelet"
+njt_id: "2011-24-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/24"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-03-09
+in_force_from: 2011-03-12
+last_amended: 2019-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-24-20-22"
+retrieved: 2026-10-12
+---
+
+# 24/2011. (III. 9.) Korm. rendelet a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóknál működő szakszervezetek reprezentativitásának megállapításáról
+
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 15. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 6/A. § (2) bekezdés *a)* pontja alkalmazása [a továbbiakban: területi (megyei) vagy települési szintű reprezentativitás egyszerű megállapítása] érdekében a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámát az adott fenntartó területi (megyei) vagy települési szintű fenntartásában működő munkáltatókra vonatkozó adatok összesítésével kell megállapítani.
+
+(2) A Kjt. 6/A. § (2) bekezdés *b)* pontja alkalmazása [a továbbiakban: területi (megyei) vagy települési szintű reprezentativitás ágazati adatokból történő megállapítása] érdekében a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban, alágazatban vagy szakágazatban (a továbbiakban: ágazat) foglalkoztatott közalkalmazottak létszámát az adott fenntartó területi (megyei) vagy települési szintű fenntartásában működő, főtevékenysége szerint az adott ágazatba tartozó munkáltatókra vonatkozó adatok összesítésével kell megállapítani.
+
+(3) A Kjt. 6/A. § (3) bekezdés alkalmazása (a továbbiakban: ágazati szintű reprezentativitás megállapítása) érdekében az ágazatban bármely fenntartónál foglalkoztatott közalkalmazottak létszámát az adott ágazatban közalkalmazotti jogviszonyban állók létszámával azonosan kell megállapítani.
+
+(4) A Kjt. 6/A. § (4) bekezdés alkalmazása (a továbbiakban: országos reprezentativitás megállapítása) érdekében a közalkalmazottak országos létszámát a közalkalmazotti jogviszonyban állók összlétszámával azonosan kell megállapítani.
+
+(5)[^2] A Kjt. 6/B. §-ára tekintettel kizárólag az országos reprezentativitás megállapításánál – a Közalkalmazottak Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történő részvétel céljából – kell figyelembe venni a rendvédelmi feladatokat ellátó szerveknél foglalkoztatott közalkalmazottak létszámát.
+
+(6)[^3] A Kjt. 7. § (2) bekezdésének alkalmazása tekintetében az ágazati szintű reprezentativitás megállapítása során a tankerületi központoknál foglalkoztatott közalkalmazottak létszámát a gazdasági tevékenységek egységes ágazati osztályozási rendszere szerint a 85 Oktatás ágazatban, azon belül a 850 Tankerületek közoktatási kódja elnevezésű technikai kód alatt, a tankerületi központok szervezeti egységeként működő köznevelési intézményeknél foglalkoztatott közalkalmazottakra vonatkozó létszámadatok összesítésével kell megállapítani.
+
+(7)[^4] Az (1)–(6) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.
+
+## 2. §
+
+(1) Az 1. §-ban szereplő adatok tekintetében adatszolgáltatásra köteles:
+
+a)[^5] a Magyar Államkincstár a központosított illetmény-számfejtési rendszerben (a továbbiakban: KIRA) nyilvántartott adatokból,
+
+b)[^6] ha a munkáltató nem kapcsolódik a KIRA-hoz, a munkáltató fenntartója.
+
+(2)[^7] Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+
+a)[^8] a munkáltató megnevezését, székhelyét, adószámát vagy Magyar Államkincstár Törzskönyvi nyilvántartási számát (a továbbiakban: törzskönyvi azonosító szám), a munkáltató fenntartója megnevezését, az államháztartás szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti tankerületi központ szervezeti egységeként működő köznevelési intézmények OM azonosítóját, az intézmény megnevezését, feladatellátási helyének megjelölését, KSH települési azonosítóját, megyekódját;
+
+b)[^9] a munkáltatóknál foglalkoztatottak munkajogi létszámát, valamint ebből a közalkalmazotti jogviszonyban állók összlétszámát, valamint az összlétszám bontását
+
+ba) munkáltatók szerint;
+
+bb) ha a munkáltatói létszám megadása nemzetbiztonsági szabályok miatt nem lehetséges, a létszám szakágazatok szerinti összesítését;
+
+c) az adatok kezelésére adott felhatalmazást;
+
+d) a kitöltő személy nevét, telefonszámát, e-mail címét;
+
+e) a kiállítás dátumát.
+
+## 3. §[^10]
+
+(1)[^11] A reprezentativitás megállapítása érdekében a munkáltatóval közalkalmazotti jogviszonyban álló szakszervezeti tagok létszámát
+
+a) a munkavállalói tagdíjfizetés önkéntességéről szóló törvény alapján a munkavállalónak a szakszervezeti tagdíj munkabérből való levonására a munkáltatónak adott megbízása alapján összesített taglétszám, valamint
+
+b) a szakszervezeti tagdíjat közvetlenül a (munkahelyi, ágazati vagy országos) szakszervezeti pénztárba befizető tagok összesített létszámát tartalmazó szakszervezeti igazolás
+
+alapján kell megállapítani.
+
+(2) Az (1) bekezdésben foglalt adatokat a Kjt. 6/A. § (5) bekezdésében meghatározott év január, február vagy március hónapjai közül sorsolással kiválasztott hónapra vonatkozóan (igazolás hónapja) kell megadni. A sorsolást a KOMT alapszabályában meghatározott eljárási rend alapján, a KOMT plenáris ülésén kell megtartani.
+
+(3) A területi (megyei) vagy települési szintű reprezentativitás egyszerű, illetve ágazati adatokból történő megállapítása érdekében
+
+a) a területi (megyei) szintű reprezentativitás esetén a megyei székhellyel,
+
+b) a települési szintű reprezentativitás esetén a települési székhellyel
+
+rendelkező munkáltatóknál közalkalmazotti jogviszonyban foglalkoztatott szakszervezeti tagok létszámára vonatkozó adatokat kell összesíteni a reprezentativitás egyszerű megállapítása esetén fenntartó szerint, a reprezentativitás ágazati adatokból történő megállapítása esetén a fenntartóhoz tartozó munkáltatók főtevékenysége szerinti ágazatok szerint.
+
+(4)[^12] Az ágazati szintű reprezentativitás megállapítása érdekében a szakszervezetnek az adott ágazatban foglalkoztatott közalkalmazott tagjai létszámát az adott ágazatban működő munkáltatóknál foglalkoztatott közalkalmazott tagok létszámának összesítésével kell meghatározni.
+
+(5) Az országos reprezentativitás megállapítása érdekében a szakszervezeti tagok létszámát szakszervezeti konföderációk szerint kell összesíteni.
+
+(6)[^13] A rendvédelmi feladatokat ellátó szerveknél foglalkoztatott szakszervezeti tag közalkalmazottak létszámát az 1. § (5) bekezdésében foglaltakra tekintettel kell megállapítani.
+
+(7)[^14] A tankerületi központok szervezeti egységeként működő köznevelési intézményeknél foglalkoztatott szakszervezeti tag közalkalmazottakra vonatkozó létszámadatokat az 1. § (6) bekezdésében foglaltakkal azonos módon kell megállapítani
+
+## 4. §
+
+(1) A 3. §-ban szereplő adatok tekintetében adatszolgáltatásra köteles:
+
+a) a munkáltatónál működő szakszervezet, vagy
+
+b) a területi, ágazati szakszervezet, illetve szakszervezeti konföderáció (a továbbiakban együtt: szakszervezeti központ).
+
+(2)[^15] Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+
+a)[^16] a munkáltató megnevezését, székhelyét, adószámát vagy törzskönyvi azonosító számát, fenntartója megnevezését, az államháztartás szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti tankerületi központ szervezeti egységeként működő köznevelési intézmények OM azonosítóját;
+
+b) a munkáltatói szintű szakszervezet megnevezését, székhelyét, adószámát, továbbá annak megjelölését, hogy a szakszervezet mely ágazati szakszervezet, valamint országos szakszervezeti szövetség tagja, továbbá az ágazati szakszervezet, országos szakszervezeti szövetség székhelyét és adószámát;
+
+c) a munkabérből történő levonással, valamint szakszervezeti pénztárba szakszervezeti tagdíjat fizető, közalkalmazotti jogviszonyban álló tagok számát;
+
+d) az adatok kezelésére adott felhatalmazást;
+
+e) a kitöltő személy nevét, telefonszámát, e-mail címét;
+
+f) a kiállítás dátumát.
+
+## 5. §[^17]
+
+(1) A 2. és 4. §-ban meghatározott adatszolgáltatási kötelezettségnek a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) honlapján elérhető Munkaügyi Kapcsolatok Információs Rendszerben működő „Közalkalmazotti szakszervezeti taglétszám elektronikus adatgyűjtő rendszer”-en (a továbbiakban: MKIR rendszer) keresztül kell eleget tenni.
+
+(2) Az elektronikus úton történő adatszolgáltatás érdekében az MKIR rendszert üzemeltető miniszter az adatszolgáltatásra kötelezettet a bejelentkezésétől számított 5 napon belül elektronikusan, az internetes felület felhasználására jogosító, 8 számjegyből álló, véletlenszerűen generált belépési azonosító kóddal látja el.
+
+(3) Az adatokat legkésőbb a reprezentativitás megállapítása évének május 31. napjáig
+
+a) az adatszolgáltatásra kötelezett
+
+aa) fenntartó,
+
+ab) munkáltatónál működő szakszervezet, szakszervezeti központ
+
+a miniszternek elektronikus úton,
+
+b) az adatszolgáltatásra kötelezett munkáltatónál működő szakszervezet, szakszervezeti központ a fenntartónak, önkormányzati fenntartású intézmény esetén az önkormányzat jegyzőjének,
+
+c) a munkáltatónál működő adatszolgáltatásra kötelezett szakszervezet saját felettes szakszervezeti központjának
+
+küldi meg.
+
+(4) Az (1)–(3) bekezdéstől eltérően a Magyar Államkincstár
+
+a) a 2. § (2) bekezdés *a)* pontjában foglalt adatszolgáltatási kötelezettségét legkésőbb a megállapítás évének március 15. napjáig,
+
+b) a (2) bekezdés *b)* pontjában rögzített adatszolgáltatási kötelezettségét legkésőbb a megállapítás évének április 20. napjáig
+
+elektronikus adathordozó alkalmazásával teljesíti.
+
+## 6. §[^18]
+
+(1)[^19] A taglétszám megállapításával kapcsolatos adatfeldolgozási, adatösszesítési feladatokat – az adatkezelési felhatalmazás alapján – a miniszter végzi. Az általa megállapított, összesített ágazati, illetve országos adatokról a reprezentativitás megállapítása évének június 30. napjáig, elektronikusan tájékoztatja az Országos Reprezentativitást Megállapító Bizottságot (a továbbiakban: ORMB).
+
+(2)[^20] A beérkezett adatokat a következő reprezentativitás megállapítására irányuló eljárás lezárásáig meg kell őrizni, és ennek napjával archiválni kell. Az adatok nem nyilvánosak. Az illetékességi körébe tartozó adatokba kérelmére a fenntartó, a munkáltatónál működő szakszervezet, saját tagszervezeteinek az adatai tekintetében a szakszervezeti központ, valamint a területi (megyei) vagy települési reprezentativitást megállapító bizottságok (a továbbiakban: TRMB) és az ORMB tagja tekinthetnek be. A miniszter érintett munkatársai és a miniszter által az ORMB-be delegált képviselő valamennyi nyilvántartott adatba betekinthetnek. Az adatok harmadik személy részére nem adhatóak át.
+
+(3)[^21] A nyilvántartott adatokba történő betekintési jog gyakorlása céljából a miniszter a kérelmezőt önálló azonosító kóddal látja el.
+
+## 7. §[^22]
+
+(1)[^23] A közalkalmazotti szakszervezetek országos és ágazati szintű reprezentativitását a miniszter által átadott adatok alapján az ORMB állapítja meg.
+
+(2)[^24] Az ORMB tagjai a miniszter, valamint a KOMT önkormányzati oldala által delegált egy-egy képviselő, a KOMT-ban részt vevő országos szakszervezeti konföderációk és az érintett ágazati szakszervezetek egy-egy képviselője.
+
+(3)[^25] Az ORMB-ben részt venni kívánó országos szakszervezeti konföderációnak és ágazati szakszervezetnek a miniszter számára írásban kell bejelentenie részvételi szándékát, legkésőbb a Kjt. 6/A. § (5) bekezdésében meghatározott időpontig. A bejelentésnek tartalmaznia kell, hogy az országos szakszervezeti konföderáció és ágazati szakszervezet tevékenységét mely ágazatban vagy ágazatokban (alágazatban, szakágazatban) fejti ki. A bejelentéshez csatolni kell az országos szakszervezeti konföderáció és ágazati szakszervezet bírósági nyilvántartásba vételéről szóló határozat egy hónapnál nem régebben hitelesített másolatát és az ORMB-be delegált képviselőjének (helyettesének) nevét, és cégszerű aláírással ellátott megbízólevelét.
+
+(4) Az ORMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
+
+(5)[^26] Az ORMB mandátuma a 9. § (1) bekezdésében meghatározott – a Hivatalos Értesítőben való – közzététel időpontjáig tart.
+
+(6) Az ORMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.
+
+## 8. §[^27]
+
+(1) A közalkalmazotti szakszervezet reprezentativitását területi (megyei) vagy települési szinten a fenntartók szerint létrehozott TRMB állapítja meg.
+
+(2) Önkormányzati fenntartónál létrehozott TRMB esetén:
+
+a) A TRMB tagjai a jegyző, főjegyző, valamint a területi (megyei) vagy települési szintű érdekegyeztetésben résztvevő szakszervezetek és részvételük esetén az országos szakszervezeti konföderációk egy-egy kijelölt képviselője.
+
+b) A TRMB-ben részt venni kívánó szakszervezetnek az illetékes jegyző, főjegyző számára írásban kell bejelentenie részvételi szándékát, legkésőbb a Kjt. 6/A. § (5) bekezdésében meghatározott időpontig. A bejelentéshez csatolni kell a szakszervezet TRMB-be delegált képviselőjének (helyettesének) nevét, és cégszerű aláírással ellátott megbízólevelét.
+
+c) A TRMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
+
+d) A TRMB mandátuma a 9. § (2) bekezdésében meghatározott közzététel időpontjáig tart.
+
+e) A TRMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.
+
+(3)[^28] A Kjt. 7. §-a szerinti tankerületi központ tekintetében a Kjt. 7. § (1) bekezdés *b)* pontjában szabályozott járási és megyei szintű reprezentativitást a tankerület járási és megyei szintű vezetője az illetékességi körében működő szakszervezetekkel együtt kialakított eljárási rend szerint állapítja meg.
+
+(4) A (2)–(3) bekezdésben nem szereplő fenntartó esetében a területi (megyei) vagy települési szintű reprezentativitást a fenntartó az általa fenntartott munkáltatóknál működő szakszervezetekkel együtt kialakított eljárási rend szerint állapítja meg.
+
+## 9. §[^29]
+
+(1)[^30] Az ORMB legkésőbb a reprezentativitás megállapítása évének augusztus 31. napjáig a Hivatalos Értesítőben, valamint a miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi az országosan és ágazati szinten reprezentatív szakszervezetek névsorát.
+
+(2)[^31] Az illetékes jegyző, illetve főjegyző legkésőbb a reprezentativitás megállapítása évének augusztus 31. napjáig közzéteszi a helyben szokásos módon az önkormányzat illetékességi körében reprezentatív szakszervezetek névsorát.
+
+(3)[^32] A (2) bekezdésben nem szabályozott esetben a fenntartó legkésőbb a reprezentativitás megállapítása évének augusztus 31. napjáig közzéteszi a helyben szokásos módon a saját illetékességi körében reprezentatív szakszervezetek névsorát.
+
+## 10. §
+
+E rendelet alkalmazásában:
+
+1\. ágazat: a tevékenységek egységes ágazati osztályozási rendszerében (TEÁOR) két számjegyű kóddal jelzett tevékenységi terület,
+
+2\. alágazat: három számjegyű TEÁOR-kóddal jelzett tevékenységi terület,
+
+3.[^33] *szakágazat:* négy számjegyű TEÁOR-kóddal jelzett tevékenységi terület, költségvetési szerv esetében az államháztartásért felelős miniszter rendeletében szabályozott, az államháztartás szakágazati rendje szerinti hat számjegyű kóddal jelzett államháztartási szakfeladat négy számjegyű TEÁOR-kódnak való megfeleltetése.
+
+## 11. §
+
+(1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+(2)[^34]
+
+(3)[^35]
+
+---
+
+[^1]: Az 1. § a 89/2014. (III. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (5) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^3]: Az 1. § (6) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (7) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés a) pontja a 345/2017. (XI. 16.) Korm. rendelet 9. § a) pontja, a 273/2018. (XII. 20.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontja a 345/2017. (XI. 16.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdés a) pontja a 486/2016. (XII. 28.) Korm. rendelet 7. § a) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdés b) pont nyitó szövegrésze a 273/2018. (XII. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § a 89/2014. (III. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés nyitó szövegrésze a 345/2017. (XI. 16.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^12]: A 3. § (4) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (6) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^14]: A 3. § (7) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 17. §-a iktatta be.
+[^15]: A 4. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^16]: A 4. § (2) bekezdés a) pontja a 486/2016. (XII. 28.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^17]: Az 5. § a 273/2018. (XII. 20.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^18]: A 6. § a 89/2014. (III. 20.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^19]: A 6. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § d) pontja, a 345/2017. (XI. 16.) Korm. rendelet 9. § c) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^20]: A 6. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § d)–e) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^22]: A 7. § a 89/2014. (III. 20.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^25]: A 7. § (3) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^26]: A 7. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 541. §-a szerint módosított szöveg.
+[^27]: A 8. § a 89/2014. (III. 20.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^28]: A 8. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 7. § c) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § d) pontja szerint módosított szöveg. [A 486/2016. (XII. 28.) Korm. rendelet 7. § c) pontjával elrendelt módosítás, amely szerint a „tankerület megyei és járási szintű vezetője” szövegrész helyébe a „tankerületi központ vezetője” szöveg lép, nem vezethető át.]
+[^29]: A 9. § a 89/2014. (III. 20.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^30]: A 9. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 541. §-a, a 318/2014. (XII. 13.) Korm. rendelet 16. § e) pontja, a 345/2017. (XI. 16.) Korm. rendelet 9. § d) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^31]: A 9. § (2) bekezdése a 345/2017. (XI. 16.) Korm. rendelet 9. § d) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^32]: A 9. § (3) bekezdése a 345/2017. (XI. 16.) Korm. rendelet 9. § d) pontja, a 273/2018. (XII. 20.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^33]: A 10. § 3. pontja a 345/2017. (XI. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 11. § (2) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 542. §-a hatályon kívül helyezte.

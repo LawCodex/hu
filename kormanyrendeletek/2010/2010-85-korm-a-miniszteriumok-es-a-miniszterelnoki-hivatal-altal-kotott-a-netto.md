@@ -1,0 +1,56 @@
+---
+title: "85/2010. (III. 25.) Korm. rendelet a minisztériumok és a Miniszterelnöki Hivatal által kötött, a nettó ötmillió forintot el nem érő értékű szerződésekre vonatkozó adatok közzétételéről"
+identifier: "85/2010. (III. 25.) Korm. rendelet"
+njt_id: "2010-85-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/85"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-03-25
+in_force_from: 2010-03-26
+last_amended: 2018-06-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-85-20-22"
+retrieved: 2026-10-12
+---
+
+# 85/2010. (III. 25.) Korm. rendelet a minisztériumok és a Miniszterelnöki Hivatal által kötött, a nettó ötmillió forintot el nem érő értékű szerződésekre vonatkozó adatok közzétételéről
+
+A Kormány az elektronikus információszabadságról szóló 2005. évi XC. törvény 22. § (1) bekezdés *a)* pontjában foglalt felhatalmazás alapján, valamint az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés *a)* és *b)* pontjában megállapított feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A minisztérium, illetve a Miniszterelnöki Kormányiroda által kötött, az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő – a nettó ötmillió forintot el nem érő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 1. melléklet III. rész 4. pontja szerint számított értékű – árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezését, tárgyát, a szerződést kötő felek nevét, a szerződés értékét, határozott időre kötött szerződés esetében annak időtartamát, valamint az említett adatok változásait a szerv vezetője a szerződés létrejöttét követő hatvan napon belül a szerv honlapján közzéteszi.
+
+(2)[^2] Az (1) bekezdés, valamint az Infotv. 1. melléklet III. rész 4. pontja alapján közzéteendő adatokat a minisztérium, illetve a Miniszterelnöki Kormányiroda szerződéstípusonként csoportosítva teszi közzé.
+
+(3) Az (1) bekezdés szerinti közzétett adat a szerv honlapjáról öt évig nem távolítható el.
+
+(4) A nyilvánosságra hozatali kötelezettség nem vonatkozik a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzésekre, valamint a minősített adatra.
+
+## 2. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 3. §-a 2010. április 1-jén lép hatályba.
+
+(3) Az e rendelet 1. §-ában meghatározott kötelezettséget a rendelet hatálybalépésekor fennálló, legalább az egyik fél által nem teljesített szerződések tekintetében is alkalmazni kell azzal, hogy a szerződéseket haladéktalanul közzé kell tenni.
+
+(4) E rendelet rövidítése: 5mr.
+
+## 3. §
+
+A közérdekű adatok elektronikus közzétételére, az egységes közadatkereső rendszerre, valamint a központi jegyzék adattartalmára, az adatintegrációra vonatkozó részletes szabályokról szóló 305/2005. (XII. 25.) Korm. rendelet a következő 6/A. §-sal egészül ki:
+
+„6/A. § (1) Az Eitv. vagy más jogszabály alapján a szerv honlapján közzéteendő közérdekű adatokat és közérdekből nyilvános adatokat a szerv honlapjának nyitólapjáról közvetlenül, a „Közérdekű adatok” hivatkozás alatt elérhető oldalon kell közzétenni.
+
+(2) Az általános közzétételi listában meghatározott adatokat a „Közérdekű adatok” hivatkozás alatt elérhető oldalon az Eitv. melléklete szerinti szerkezetben kell közzétenni.
+
+(3) A minisztérium, illetve a Miniszterelnöki Hivatal honlapján közzéteendő jogszabálytervezeteket tartalmazó oldalra mutató hivatkozást „Jogszabálytervezetek” címmel külön is el kell helyezni a szerv honlapjának nyitólapján.
+
+(4) A közbeszerzésekről szóló 2003. évi CXXIX. törvény 17/C. §-a szerint közzéteendő adatokat tartalmazó oldalra mutató hivatkozást „Közbeszerzések” címmel külön is el kell helyezni a „Közérdekű adatok” hivatkozás alatt elérhető oldalon.”
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 56/2014. (III. 4.) Korm. rendelet 4. § a) pontja, a 101/2018. (VI. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése az 56/2014. (III. 4.) Korm. rendelet 4. § b) pontja, a 101/2018. (VI. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.

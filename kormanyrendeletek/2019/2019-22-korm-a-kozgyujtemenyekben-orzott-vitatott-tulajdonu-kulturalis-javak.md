@@ -1,0 +1,75 @@
+---
+title: "22/2019. (II. 25.) Korm. rendelet a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről"
+identifier: "22/2019. (II. 25.) Korm. rendelet"
+njt_id: "2019-22-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/22"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-02-25
+in_force_from: 2019-02-26
+last_amended: 2022-10-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-22-20-22"
+retrieved: 2026-10-12
+---
+
+# 22/2019. (II. 25.) Korm. rendelet a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről
+
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (1) bekezdés m) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében a következőket rendeli el:
+
+## 3. §
+
+(1) A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: állami tulajdonjog gyakorlója) az igénylő által előterjesztett okiratokat és egyéb bizonyítékokat megvizsgálja. Ennek során azokat a tényeket és körülményeket veszi figyelembe, amelyek alapján az igénylő tulajdonjoga kétséget kizáróan bizonyítható.
+
+(2) Az állami tulajdonjog gyakorlója az igény bejelentését követő 10 napon belül megkeresi az érintett közgyűjteményt, továbbá a Magyar Nemzeti Levéltárat, amely 30 napon belül szolgáltatja az igényelt, őrzésében lévő vagyontárgyak listáját, az azokra vonatkozó, a kezelésében lévő – továbbá, ha a közgyűjtemény tudomása szerint más közgyűjtemény további bizonyítékokkal rendelkezik, az ezektől beszerzett –, az állami tulajdonjog fennállását bizonyító vagy az őrzés ettől eltérő egyéb jogcímére vonatkozó iratokat.
+
+(3) Ha az igénylő állampolgárságától való megfosztására és vagyona elkobzására az eljárás során adat merül fel, akkor az állami tulajdonjog gyakorlója az illetékes kormányhivatalt is megkeresi a szükséges okiratok beszerzése érdekében.
+
+## 4. §
+
+(1) Az állami tulajdonjog gyakorlója az igénylő által előterjesztett okiratokról, valamint egyéb bizonyítékokról és a 3. § (2) és (3) bekezdésében beszerzett adatokról, valamint az általa kezelt adatokról összesítést készít, amelyet az igény kézhezvételétől számított 100 napon belül a kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter) részére megküld. Az összesítésben – a 3. §-ban foglaltakon túl – a vagyontárgy történetére vonatkozóan feltárható szakirodalmi adatok is feltüntethetőek. Ha a megküldés határidejéig a közgyűjtemény nem szolgáltatta az állami tulajdonjog gyakorlója részére a 3. § (2) bekezdésében meghatározott adatokat, és emiatt ezeket nem volt mód az összesítésben szerepeltetni, ennek tényét az állami tulajdonjog gyakorlója az összesítésben feltünteti.
+
+(2) Ha a miniszter az összesítést nem tartja alkalmasnak, illetve elegendőnek a döntés meghozatalához, 30 napos határidővel a 3. §, valamint az (1) bekezdés szerinti adatok kiegészítését írhatja elő.
+
+(3) Ha az összesítés alapján megállapítható, hogy az igénylő kérelme az igényelt vagyontárgy vonatkozásában
+
+a) kétséget kizáróan megalapozott, a miniszter 15 napon belül dönt a vagyontárgynak az igénylő részére történő visszaadásról, vagy
+
+b) nem megalapozott, a miniszter dönt az igény elutasításáról
+
+az állami vagyon felügyeletéért felelős miniszternek a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:405. § (2) bekezdése alapján kiadott meghatalmazása alapján.
+
+(4) A (3) bekezdés a) pontja szerinti visszaadás nem eredményezi a tulajdonjogi igény eldöntését.
+
+(5) A (3) bekezdés b) pontja szerinti döntést követően a vagyontárgy a közgyűjtemény őrzésében marad. Az igény elutasítása nem akadálya annak, hogy az igénylő a vagyontárgyra vonatkozó tulajdoni igényének érvényesítése és a vagyontárgy kiadása iránt a bíróságnál keresetet terjesszen elő.
+
+(6) Ha a miniszter az összesítés alapján az igényt elutasítja, arról az állami tulajdonjog gyakorlóját tájékoztatja.
+
+(7) A miniszter (3) bekezdés szerinti döntését az állami tulajdonjog gyakorlója haladéktalanul közli
+
+a) az igénylővel,
+
+b) a közgyűjteménnyel,
+
+c) a közgyűjtemény fenntartójával és
+
+d) – valószínű örökösi bizonyítvány kiállítása esetén – a bizonyítványt kiállító közjegyzővel.
+
+(8) A miniszter (3) bekezdés a) pontja szerinti döntését követően haladéktalanul megvizsgálja, hogy indokolt-e a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 47. §-a szerinti védetté nyilvánítási eljárást megindítani.
+
+## 5. §
+
+(1) Ha a miniszter döntést hozott a vagyontárgynak az igénylő részére történő visszaadásáról, a közgyűjtemény köteles a vagyontárgyat – az igénylővel egyeztetett időpontban – az igénylő részére birtokba adni, az időpontban való megegyezés hiányában pedig 3 napon belül lehetőséget biztosítani arra, hogy a vagyontárgyat az igénylő birtokba vegye.
+
+(2) Ha az (1) bekezdés szerint a vagyontárgyat több, igényüket együttesen előterjesztő igénylő részére kell visszaadni, a közgyűjteménynek azt az igénylők mindegyike által meghatalmazott személy részére, ennek hiányában az igénylők közös birtokába kell adnia.
+
+(3) A miniszteri döntéssel visszaadott vagyontárgy átvételére az igénylő a visszaadásról szóló miniszteri döntés kézbesítésétől számított 6 hónapos – jogvesztő – határidőn belül jogosult.
+
+## 6. §
+
+A közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályvesztésének időpontjában miniszteri döntéssel befejezett, de az igénylőnek birtokba nem adott vagyontárgyak átvételére az igénylő 6 hónapos – jogvesztő – határidőn belül jogosult akkor, ha az igénylő a birtokbavételt e rendelet hatálybalépéséig nem kezdeményezte. Az igénylő halála esetén az örökös kérheti a birtokbaadást, ebben az esetben a 6 hónapos jogvesztő határidő a hagyatéki eljárás időtartamával meghosszabbodik.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

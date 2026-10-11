@@ -1,0 +1,89 @@
+---
+title: "221/2018. (XI. 29.) Korm. rendelet a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítéséről"
+identifier: "221/2018. (XI. 29.) Korm. rendelet"
+njt_id: "2018-221-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/221"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-11-29
+in_force_from: 2019-01-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-221-20-22"
+retrieved: 2026-10-12
+---
+
+# 221/2018. (XI. 29.) Korm. rendelet a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítéséről
+
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (3) bekezdés j) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya kiterjed
+
+a) a Magyar Honvédség (a továbbiakban: MH) légvédelmi készenléti valós repüléseinek végrehajtásában, biztosításában vagy szervezésében közreműködésre kötelezett szervezetre, személyre,
+
+b) Magyarország légterében, a polgári légiforgalomban részt vevő magyar polgári légijárműre, a légijármű üzemben tartójára és az azzal összefüggő tevékenységekben részt vevő személyekre,
+
+c) Magyarország légterében, a polgári légiforgalomban részt vevő külföldi állami és polgári légijárműre, a légijármű üzemben tartójára és az azzal összefüggő tevékenységekben részt vevő személyekre.
+
+(2) E rendelet hatálya nem terjed ki a bajba jutott légijárműnek nyújtandó segítségnyújtás érdekében végrehajtott légvédelmi készenléti valós repülésre.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+a) *légijármű elfogása:* légvédelmi készenléti valós repülés során a légteret megsértő vagy jogosulatlanul igénybe vevő, az azonosítatlan, ismeretlen szándékkal repülést végző vagy ott ellenséges tevékenységet folytató, repülési szabályt sértő légijármű elfogása,
+
+b) *légvédelmi készenléti szolgálat riasztásából eredő költség:* a légvédelmi készenléti valós repülés végrehajtásában részt vett légijármű a légvédelmi készenléti valós repülés végrehajtásából eredő üzemanyagköltsége,
+
+c) *légvédelmi készenléti valós repülés:* a Magyar Honvédség légvédelmi készenléti repüléseiről szóló 7/2009. (VI. 11.) HM rendelet 2. § a) pontja szerinti repülés.
+
+## 3. §[^1]
+
+A légvédelmi készenléti valós repülés végrehajtásáról az MH légi vezetéséért és irányításáért felelős szerve a katonai légügyi hatóságot azonnal tájékoztatja. Ha az elfogott légijármű magyarországi repülőtéren történő leszállítása indokolt, az MH légi vezetéséért és irányításáért felelős szerve a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok kiértesítésére haladéktalanul intézkedik.
+
+## 4. §
+
+(1) A légvédelmi készenléti szolgálat riasztásból eredő költség megtérítésének a légiközlekedési hatóság által hatósági eljárásban megállapított légiközlekedési szabályok megszegése esetén van helye.
+
+(2) A légiközlekedési hatóság a légiközlekedésre vonatkozó szabályok megsértése miatt indult eljárásában hozott döntéséről a katonai légügyi hatóságot tájékoztatja, továbbá az eljárás lezárását követően az ügy érdemében keletkezett alábbi iratokat, adatokat azok rendelkezésre állása esetén megküldi:
+
+a) az érintett légijármű esetében a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) azonosító szerinti típusa,
+
+b) az érintett légijármű hívójele,
+
+c) a riasztást kiváltó légijármű lajstromjele,
+
+d) az egyezményes koordinált világidő (a továbbiakban: UTC idő) meghatározott riasztás ideje,
+
+e) a légijármű elfogása esetén annak pontos helye és magassága,
+
+f) a riasztás kiváltó légijármű repülési tervét, a repülési terv szerinti indulási és érkezési repülőtér ICAO azonosító szerinti adatai,
+
+g) az ICAO azonosító vagy Világszintű Geodéziai Rendszer szerinti (WGS) koordináta szerinti magyar légtérbe történő be- és kilépés helye,
+
+h) a magyar légtérbe történő UTC időben meghatározott be- és kilépés ideje,
+
+i) a rádióösszeköttetés közleményváltásai,
+
+j) a riasztás kiváltó légijármű útvonaltérképe és
+
+k) a légijármű üzembentartójának székhelye és elérhetősége.
+
+(3) A katonai légügyi hatóság a légvédelmi készenléti szolgálat riasztásából eredő költség megállapítására irányuló eljárásban döntést hoz arról, hogy a légvédelmi készenléti szolgálat riasztására a légiközlekedési hatóság 4. § (1) bekezdése szerinti döntése alapján a légiközlekedési szabályok megsértése miatt került sor.
+
+## 5. §
+
+(1) A légiközlekedési szakszemélyzet általi légiközlekedési szabályok megszegése miatt bekövetkezett riasztás esetén a katonai légügyi hatóság véglegessé vált döntésének végrehajtását a Honvédelmi Minisztérium rendeli el.
+
+(2) A légvédelmi készenléti szolgálat riasztásából eredő költséget a légijármű üzembentartója téríti meg, ha a riasztást eredményező eseményt a légiközlekedési szabályok megszegése eredményezte.
+
+## 6. §
+
+Ez a rendelet 2019. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 3. § a 24/2025. (II. 27.) Korm. rendelet 74. §-a szerint módosított szöveg.

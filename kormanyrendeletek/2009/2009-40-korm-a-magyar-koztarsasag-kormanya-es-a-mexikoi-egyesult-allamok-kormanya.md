@@ -1,0 +1,190 @@
+---
+title: "40/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti oktatási és kulturális együttműködési egyezmény jóváhagyásáról és kihirdetéséről"
+identifier: "40/2009. (III. 4.) Korm. rendelet"
+njt_id: "2009-40-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/40"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-03-04
+in_force_from: 2009-03-05
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-40-20-22"
+retrieved: 2026-10-12
+---
+
+# 40/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti oktatási és kulturális együttműködési egyezmény jóváhagyásáról és kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti oktatási és kulturális együttműködési egyezményt (a továbbiakban: egyezmény) e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+„Oktatási és kulturális együttműködési egyezmény\
+a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya között
+
+A Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya,
+
+a továbbiakban a „Felek”,
+
+attól az óhajtól vezérelve, hogy erősítsék a két nép között fennálló baráti kapcsolatokat,
+
+attól a törekvéstől vezérelve, hogy erősítsék és fejlesszék az oktatási és kulturális együttműködést és cseréket
+
+elismerve a kölcsönös érdeklődésre számot tartó területeken való együttműködés erősítéséhez hozzájáruló mechanizmusok létesítésének fontosságát, valamint az új nemzetközi környezet dinamikájának megfelelő olyan, meghatározott oktatási és kulturális együttműködési programok és cserék megvalósításának szükségességét, amelyek hozzájárulnak a két ország kölcsönös megismerésének elmélyítéséhez,
+
+az alábbiakban állapodtak meg:
+
+*I. cikk*
+
+1\. A Felek fejlesztik a megfelelő intézményeik együttműködését az oktatás, a művészetek, a kultúra és a sport területein, a két ország közötti kölcsönös ismeretek elmélyítését szolgáló tevékenységek megvalósítása érdekében. E célból a Felek közös megegyezés alapján, az említett területeken együttműködési programokat és terveket dolgoznak ki és valósítanak meg.
+
+2\. E programok és tervek végrehajtása során a Felek elősegítik a köz- és magánszektor szervezeteinek és testületeinek, köz- és felsőoktatási intézmények, kutatási központok, levéltárak, múzeumok, valamint az üdülés, az ifjúság, a testnevelés és a sport területén illetékes intézmények, és a nem kormányzati szervek részvételét.
+
+3\. A jelen Egyezmény céljainak elérése érdekében a Felek támogatják a közös tanulmányi tervek, és a közvetlen együttműködési megállapodások létrejöttét, figyelembe véve a nemzeti fejlesztési terek és oktatásmodernizációs programok végrehajtásának, a programok tervezésének és az alkalmazott módszerek értékelésének fontosságát.
+
+4\. A Felek jelen Egyezmény alapján kiegészítő oktatási és kulturális együttműködési megállapodásokat köthetnek.
+
+*II. cikk*
+
+A Felek folytatják és erősítik a kölcsönös ösztöndíjas csereprogramot, hogy állampolgáraik posztgraduális, szakképesítési tanulmányokat, vagy kutatásokat folytassanak a másik ország állami felsőoktatási intézményeiben.
+
+*III. cikk*
+
+A Felek erőfeszítéseket tesznek annak érdekében, hogy javítsák és emeljék az egymás országairól való ismeretek, a nyelv, az irodalom és az általános kultúra oktatásának színvonalát.
+
+*IV. cikk*
+
+A Felek elősegítik tapasztalataik gazdagítását a képző- és színpadi művészetek területén.
+
+*V. cikk*
+
+A Felek támogatják a két ország irodalmának jobb és alaposabb megismerését, fejlesztik a kiadók közötti kapcsolatokat irodalmi tevékenységük gazdagítása céljából.
+
+*VI. cikk*
+
+A Felek az érvényes belső jogszabályaiknak és a nemzetközi egyezményeknek megfelelően védik az illető országból származó szerzők irodalmi, didaktikai, tudományos és művészeti alkotásainak jogait.
+
+*VII. cikk*
+
+A Felek erősítik a levéltáraik, könyvtáraik és múzeumaik közötti kapcsolatokat és elősegítik a tapasztalatcserét a kulturális örökség megóvása és megismertetése terén.
+
+*VIII. cikk*
+
+A Felek az érvényes belső jogszabályaiknak és a nemzetközi egyezmények rendelkezéseinek megfelelően együttműködnek a kulturális javak tiltott importjának, exportjának és átruházásának megakadályozásában.
+
+A Felek támogatják az illegálisan exportált és importált kulturális javak visszaszolgáltatását.
+
+*IX. cikk*
+
+A Felek támogatják az együttműködést a rádió, a televízió és a film területén illetékes intézményeik között.
+
+A Felek erősítik a kultúriparra vonatkozó információcserét, valamint olyan közös tervek megvalósítását, amelyeket a két ország társadalmi szervezetei és/vagy vállalkozói csoportjai kezdeményeznek.
+
+*X. cikk*
+
+A Felek erősítik megfelelő intézményeik együttműködését, az ifjúság, az időskorúak, az üdülés, a testnevelés és a sport területein.
+
+*XI. cikk*
+
+1\. A jelen Egyezményben foglalt célok megvalósítása érdekében a Felek két- vagy hároméves Oktatási és Kulturális Együttműködési Programokat dolgoznak ki, és a két ország oktatási, kulturális és társadalomfejlesztési programjainak és stratégiáinak területén meglévő prioritásoknak megfelelően.
+
+2\. Minden programnak tartalmaznia kell a kitűzött célt, a pénzügyi és technikai forrásokat, az elvégzendő feladatok időrendjét, valamint azokat a területeket, amelyeken a tervek megvalósulnak. A programoknak tartalmazniuk kell a Felek kötelezettségeit, beleértve a pénzügyi kötelezettségeket is.
+
+3\. A Felek időszakonként értékelik a programot, a XIV. cikkben szereplő koordináló szervezetek javaslatára.
+
+*XII. cikk*
+
+A Felek, amennyiben szükségesnek vélik, úgy a program végrehajtásába bevonják az oktatással és kultúrával kapcsolatos multilaterális és regionális szervezeteket, valamint harmadik országbeli intézményeket is.
+
+*XIII. cikk*
+
+A jelen Egyezményben foglalt célok elérése érdekében, a Felek közötti oktatási és kulturális együttműködés az alábbi módozatok szerint mehet végbe:
+
+*a)* közös vagy koordinált kutatási programok végrehajtása;
+
+*b)* szakemberek, oktatók, kutatók, írók, alkotók és művészeti csoportok küldése;
+
+*c)* meghatározott tervek megvalósításához szükséges felszerelés és anyagok küldése;
+
+*d)* tanfolyamok szervezése szakemberek képzésére és továbbképzésére;
+
+*e)* kongresszusok, szemináriumok, előadások és más tanulmányi programok szervezése, amelyeken a két ország szakértői vesznek részt azzal a céllal, hogy hozzájáruljanak a tapasztalatok gazdagításához az ismeretek valamennyi területén;
+
+*f)* részvétel az országaikban megrendezésre kerülő nemzetközi fesztiválokon és kulturális eseményeken, valamint könyvvásárokon és irodalmi találkozókon;
+
+*g)* reprezentatív művészeti és kulturális kiállítások rendezése és bemutatása a másik Fél országában;
+
+*h)* a két ország irodalmi alkotásainak fordítása és közös kiadása;
+
+*i)* információs, dokumentációs és audiovizuális anyagok cseréje az oktatás, a művészetek és a kultúra területén;
+
+*j)* oktatási és kulturális célú audiovizuális anyagok, rádiós és televíziós programok cseréje;
+
+*k)* oktatási és kulturális együttműködési tevékenység fejlesztése harmadik országokban;
+
+*l)* bármely más, a Felek által meghatározott módozat.
+
+*XIV. cikk*
+
+1\. A jelen Egyezményben előirányzott együttműködési tevékenységek figyelemmel kísérése és koordinálása céljából a Felek Oktatási és Kulturális Együttműködési Vegyes Bizottságokat hoznak létre, a Magyar Köztársaság Oktatási Minisztériumának és a Mexikói Egyesült Államok Külügyminisztériumának koordinálásával. A két ország képviselőiből álló Vegyes Bizottság a Felek által meghatározott időpontokban, felváltva ülésezik Budapesten és Mexikóvárosban, és működési rendjét maga határozza meg.
+
+2\. Az Oktatási és Kulturális Együttműködési Vegyes Bizottság:
+
+*a)* értékeli és kijelöli azokat a prioritást élvező területeket, amelyeken megvalósíthatóak az oktatás, a művészetek, a kultúra, az ifjúság és a sport területein tervezett együttműködési programok, valamint a megvalósításukhoz szükséges eszközöket;
+
+*b)* elemzi, ellenőrzi, jóváhagyja, felülvizsgálja és értékeli az Oktatási és Kulturális Együttműködési Programokat;
+
+*c)* ellenőrzi jelen Egyezmény működését, valamint az elfogadott tervek végrehajtását, biztosítja a megfelelő eszközöket azok határidőn belüli megvalósításához;
+
+*d)* amennyiben szükségesnek tartja, ajánlásokat tesz a Feleknek.
+
+3\. Jelen cikk 1. pontjában foglaltakat fenntartva, a Felek bármikor átadhatnak egymásnak oktatási és kulturális együttműködési terveket, tanulmányozás, és a Vegyes Bizottság egy későbbi időpontban történő jóváhagyása céljából.
+
+*XV. cikk*
+
+Jelen Egyezmény keretében tervezett programok és tevékenységek megvalósításához a Felek, amennyiben szükségesnek ítélik, kérhetik külső források anyagi támogatását és részvételét, mint például nemzetközi szervezetekét és más országokét.
+
+*XVI. cikk*
+
+Mindkét Fél megadja a szükséges könnyítéseket az együttműködési programokban hivatalosan résztvevő személyeknek, az országba történő belépéshez, tartózkodáshoz és kilépéshez. Ezek a személyek alávetik magukat a fogadó országban érvényes bevándorlási, egészségügyi és biztosítási rendelkezéseknek, és nem folytathatnak semmiféle, a funkciójuktól idegen tevékenységet az illetékes hatóságok előzetes jóváhagyása nélkül.
+
+*XVII. cikk*
+
+A Felek belső jogszabályaiknak megfelelően megadnak minden szükséges adminisztratív és pénzügyi könnyítést a tervek megvalósításához szükséges eszközök és anyagok be- és kiviteléhez.
+
+*XVIII. cikk*
+
+Jelen Egyezmény azon a napon lép hatályba, amelyen a Felek diplomáciai úton tájékoztatják egymást arról, hogy a hatálybalépéshez szükséges alkotmányos előírások teljesültek.
+
+Jelen Egyezmény hatálybalépésével az 1975. szeptember 19-én aláírt, a Magyar Népköztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti Kulturális Együttműködési Egyezmény rendelkezései hatályukat vesztik.
+
+*XIX. cikk*
+
+Jelen Egyezmény a Felek írásos egyetértése révén módosítható. A módosítások azon a napon lépnek hatályba, amelyen a Felek diplomáciai jegyzékváltás révén közlik egymással, hogy az alkotmányok előírásoknak megfelelő eljárásoknak eleget tettek.
+
+*XX. cikk*
+
+Jelen Egyezmény tíz évig marad hatályban, és automatikusan újabb tíz-tíz évre meghosszabbodik, amennyiben egyik Fél sem közli diplomáciai úton a másik Féllel felmondási szándékát, hat hónapos előrejelzéssel. A felmondás az arról szóló diplomáciai értesítést követő harmadik napon lép érvénybe.
+
+Az Egyezmény felmondása nem érinti az érvényességi időn belül egyeztetett programok és tervek befejezését.
+
+Készült Budapesten, 1998. október hó 26. napján két eredeti példányban, magyar és spanyol nyelven. Mindkét szöveg egyaránt hiteles.
+
+*Aláírások”*
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2)[^1] A rendelet végrehajtásáról a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
+
+(3) E rendelet hatálybalépésével egyidejűleg hatályát veszti a Magyar Népköztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti kulturális együttműködésről szóló, Budapesten, az 1975. évi szeptember hó 19. napján aláírt Egyezmény kihirdetéséről szóló 19/1977. (VI. 23.) MT rendelet.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 89. §-a szerint módosított szöveg.

@@ -1,0 +1,237 @@
+---
+title: "32/2014. (II. 14.) Korm. rendelet Magyarország Kormánya és a Jordán Hásimita Királyság Kormánya közötti gazdasági és műszaki együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "32/2014. (II. 14.) Korm. rendelet"
+njt_id: "2014-32-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/32"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-02-14
+in_force_from: 2014-02-15
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-32-20-22"
+retrieved: 2026-10-12
+---
+
+# 32/2014. (II. 14.) Korm. rendelet Magyarország Kormánya és a Jordán Hásimita Királyság Kormánya közötti gazdasági és műszaki együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Jordán Hásimita Királyság Kormánya közötti gazdasági és műszaki együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„GAZDASÁGI ÉS MŰSZAKI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS A JORDÁN HÁSIMITA KIRÁLYSÁG KORMÁNYA ÉS MAGYARORSZÁG KORMÁNYA KÖZÖTT**
+
+A Jordán Hásimita Királyság Kormánya és Magyarország Kormánya, a továbbiakban a „Szerződő Felek”;
+
+felismerve azt, hogy a gazdasági és műszaki együttműködés a szilárd, hosszú távú kétoldalú kapcsolatok fejlesztésének, valamint a Szerződő Felek és népeik közötti kölcsönös bizalomnak elengedhetetlen és nélkülözhetetlen eleme;
+
+meggyőződve arról, hogy a jelen Megállapodás ténylegesen hozzájárul a Szerződő Felek közötti gazdasági és kereskedelmi kapcsolatok fejlődéséhez, különösen a kölcsönösen előnyös gazdasági és technológiai együttműködés továbbfejlesztéséhez;
+
+a Szerződő Felek kétoldalú gazdasági, üzleti és műszaki együttműködésének előmozdítását és további erősítését óhajtva népeik javára;
+
+az alábbiakban állapodtak meg:
+
+**1. Cikk**
+
+A Szerződő Felek, a hatályos jogszabályok által nyújtott kereteken belül, megfelelő intézkedések meghozatalával támogatják a kölcsönösen előnyös gazdasági és műszaki együttműködés fejlődését.
+
+**2. Cikk**
+
+A jelen Megállapodásban említett együttműködési területek többek között az alábbiakat foglalják magukban:
+
+1\. A két ország közötti együttműködés és közös projektek létrehozásának előmozdítása gazdasági, üzleti, pénzügyi, banki, ipari, idegenforgalmi szolgáltatási, műszaki, mezőgazdasági, fuvarozási, humánerőforrás-fejlesztési, vegyipari és petrolkémiai ipari, csomagolástechnikai, oktatási, távközlési és információs társadalmi, valamint vízgazdálkodási területeken.
+
+2\. A műszaki kutatással kapcsolatos információcsere előmozdítása.
+
+3\. A konkrét együttműködési programokhoz szükséges szakemberek cseréjének és képzésének előmozdítása.
+
+**3. Cikk**
+
+A Szerződő Felek törekednek arra, hogy az alább felsorolt eszközökkel szélesítsék és intenzívebbé tegyék együttműködésüket:
+
+1\. elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, regionális és helyi szervek, a kereskedelmi és ipari kamarák között, valamint bátorítják ezen szervek képviselőinek kölcsönös látogatásait, így elősegítve a gazdasági, üzleti és technológiai együttműködés végrehajtását,
+
+2\. üzleti információkat cserélnek a megállapodás végrehajtásával kapcsolatban, bátorítják a vásárokon és kiállításokon történő részvételt, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezését,
+
+3\. elősegítik a két ország kis- és középvállalkozásainak nagyobb mértékű bevonását a bilaterális gazdasági kapcsolatok területén,
+
+4\. bátorítják az együttműködést konzultációs, marketing, tanácsadói és szakértői szolgáltatások nyújtásában a kölcsönös érdeklődésre számot tartó területeken,
+
+5\. bátorítják a beruházási tevékenységet, vegyesvállalatok alapítását, vállalati képviseletek és fiókirodák létesítését a Szerződő Felek területén alkalmazandó jogszabályoknak megfelelően,
+
+6\. elősegítik a régiók közötti együttműködést és a nemzetközi szintű együttműködést a kölcsönös érdeklődésre számot tartó ügyekben,
+
+7\. a Szerződő Felek által a későbbiekben elfogadott egyéb eszközök útján kiterjesztik és erősítik együttműködésüket.
+
+**4. Cikk**
+
+Szükség esetén a Szerződő Felek konkrét megállapodásokat kötnek a jelen Megállapodás alapján a fent említett együttműködési területekkel és más, egymás között esetlegesen egyeztetendőn speciális projektekkel kapcsolatban.
+
+**5. Cikk**
+
+1\. A jelen Megállapodás végrehajtásának biztosítása céljából a Szerződő Felek képviselőinek részvételével Vegyes Bizottság alakul. A Bizottság – közös egyetértés alapján – a Szerződő Felek országaiban felváltva ülésezik. A Jordán Hásimita Királyság Tervezési és Nemzetközi Együttműködési Minisztériuma, és a magyar nemzetközi gazdasági kapcsolatokért felelős minisztérium kijelölt képviselői töltik be a Vegyes Bizottság elnöki tisztét.
+
+2\. A Vegyes Bizottság többek között az alábbi kérdések áttekintésére jogosult:
+
+*a)* a Szerződő Felek közötti gazdasági és műszaki együttműködés bátorítása és koordinálása;
+
+*b)* a jelen Megállapodás végrehajtását, valamint a jelen Megállapodásból eredő megállapodások végrehajtását célzó javaslatok előmozdítása és mérlegelése;
+
+*c)* ajánlások kidolgozása a jelen Megállapodással összhangban létrejövő megállapodások vagy projektek végrehajtása során esetlegesen felmerülő akadályok megszüntetése céljából;
+
+*d)* a kétoldalú gazdasági kapcsolatok új fejlesztési lehetőségeinek feltárása.
+
+**6. Cikk**
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatban a Szerződő Felek között felmerülő viták rendezése békés úton, konzultációk és tárgyalások révén, diplomáciai csatornákon keresztül történik.
+
+**7. Cikk**
+
+1\. A jelen Megállapodás semmilyen módon nem sértheti Magyarországnak mint az Európai Unió tagállamának a kötelezettségeit, és e kötelezettségek hatálya alá tartozik. Következésképpen a jelen Megállapodás rendelkezései sem egészben, sem részben nem idézhetők vagy értelmezhetők úgy, hogy azok érvénytelenítik, módosítják vagy más módon befolyásolják Magyarországnak az Európai Unió alapját képező Szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából eredő kötelezettségeit.
+
+2\. A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok a Szerződő Feleket arra kötelezik, hogy bármelyik olyan meglévő vagy jövőbeni közös piaci, szabadkereskedelmi, vámuniós vagy hasonló nemzetközi megállapodásból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni előnyeit kiterjesszék a másik félre, amelynek a Szerződő Felek jelenleg tagjai vagy a későbbiekben tagjai lehetnek.
+
+**8. Cikk**
+
+A jelen Megállapodás rendelkezései és szövege a Szerződő Felek közötti írásos megállapodás alapján módosítható a felek közös megegyezése alapján. A jelen Megállapodásra vonatkozó bármilyen módosítás a jelen Megállapodás 9. Cikke értelmében lép hatályba.
+
+**9. Cikk**
+
+1\. Jelen Megállapodás az utolsó értesítést követő 30. (harmincadik) napon lép hatályba, mikor a Szerződő Fél diplomáciai csatornákon keresztül írásban értesíti a másik Szerződő Felet a Megállapodás belső jogszabályok szerinti jóváhagyásáról.
+
+2\. Jelen Megállapodás hatálybalépésének időpontjától számított öt (5) évig marad hatályban, valamint automatikusan megújul újabb 5 év hosszúságú időszakokra, kivéve, ha bármely Szerződő Fél a diplomáciai csatornákon keresztül írásban minimum hat (6) hónappal hatályának lejárta előtt arról tájékoztatja a másik Szerződő Felet, hogy a jelen Megállapodást meg kívánja szüntetni.
+
+**10. Cikk**
+
+A jelen Megállapodás megszüntetése nem befolyásolja a jelen Megállapodás alapján kötött, illetve végzett konkrét megállapodások, projektek, vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek vagy tevékenységek befejezéséig, hacsak a Szerződő Felek másképp nem döntenek.
+
+FENTIEK HITELÉÜL, az alulírottak Kormányuktól kapott kellő felhatalmazás birtokában kézjegyükkel látták el a Megállapodást.
+
+Készült Ammán városában 1430 H. Jumada l-Ula 6-án, ami 2013. március 18-ának felel meg, két eredeti példányban, magyar, arab és angol nyelven, mindegyik szöveg egyformán hiteles. Eltérés esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország\
+Kormánya részéről
+
+Jordán Hásimita Királyság\
+Kormánya részéről
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF THE HASHEMITE KINGDOM OF JORDAN AND THE GOVERNMENT OF HUNGARY FOR ECONOMIC AND TECHNICAL CO-OPERATION**
+
+The Government of The Hashemite Kingdom of Jordan and the Government of Hungary hereinafter referred to as “the Contracting Parties”.
+
+Recognizing that economic and technical co-operation is an essential and indispensable component of the development of bilateral relations on a firm, long-term basis and of mutual confidence between the Contracting Parties and their respective peoples;
+
+Convinced that this Agreement will contribute to the development of the economic and commercial relations between them in the new reality and in particular to the enhancement of the mutually beneficial economic, technical and technological cooperation;
+
+Desiring to promote and further strengthen their bilateral economic and technical cooperation, in the interest of their peoples;
+
+Have agreed on the following:
+
+**Article (1)**
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, by taking proper measures the further development of mutually advantageous economic and technical cooperation.
+
+**Article (2)**
+
+The fields of cooperation mentioned in this Agreement include, inter alia, the following items:
+
+1\. Encouragement of establishing cooperation and joint projects between the two countries in the field of economy, business, finance, banking, industry, touristic services, technical development, agriculture, transport, human resource development, chemical and petrochemical industry, packaging technology, education, telecommunications and information society, and water management.
+
+2\. Encouragement of exchange of information relating to technical research.
+
+3\. Encouragement of exchange and training of specialists required for specific cooperation programs.
+
+**Article (3)**
+
+The Contracting Parties shall endeavor to broaden and intensify their cooperation through the following means:
+
+1\. Promoting the links and strengthening the cooperation between the private sectors, government institutions, regional and local entities, chambers of commerce and industry, and promoting the visits of their representatives aiming to implement bilateral economic and technical cooperation;
+
+2\. Exchange of business information related to the implementation of this agreement, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences;
+
+3\. Promoting the stronger participation of small and medium size private sector enterprises in bilateral economic relations;
+
+4\. Encouraging the cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+5\. Encouraging the investment activities, the foundation of joint ventures; establishment of company representatives and branch offices in the countries of the Contracting Parties according to their laws and regulations;
+
+6\. Promoting of inter-regional cooperation and cooperation on international level in issues of mutual interest;
+
+7\. Any other means agreed upon by the Contracting Parties later, to expand and strengthen their cooperation.
+
+**Article (4)**
+
+If deemed necessary, the Contracting Parties shall conclude specific agreements to be based on this Agreement concerning the fields of cooperation referred above and other special projects that may be agreed upon between them.
+
+**Article (5)**
+
+1\. With a view to ensuring the implementation of this Agreement, a Joint Committee shall be established composing of representatives from the Contracting Parties. The Committee shall meet on mutual consent alternately in the countries of the Contracting Parties. The appointed representatives of the Jordanian Ministry Planning and International Cooperation and the Hungarian Ministry responsible for international economic affairs shall chair the Joint Committee.
+
+2\. The Joint Committee shall have the authority, inter alia, to consider the following:
+
+*a)* Encouraging and coordinating the economic and technical cooperation between the Contracting Parties;
+
+*b)* Promoting and considering proposals aimed at the implementation of this Agreement and specific agreements resulting therefrom;
+
+*c)* Working out recommendations for the purposes of removing obstacles that may arise during the execution of any agreement or project that may be established in accordance with this Agreement;
+
+*d)* Identifying new development opportunities for the bilateral economic relations.
+
+**Article (6)**
+
+Any dispute that may arise from the interpretation or the implementation of this Agreement shall be settled amicably through consultations and negotiations or through diplomatic channels between the Contracting Parties.
+
+**Article (7)**
+
+1\. This Agreement shall in no way prejudice to the obligations of Hungary as the member state of the European Union, and is subject to those obligations. Consequently, the provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from the Treaties on which the European Union is founded, as well as from the primary and secondary law of the European Union.
+
+2\. Nothing in this Agreement shall be construed as to oblige the Contracting Parties to extend to the other present, or future benefit of any treatment, preference or privilege resulting from any existing or future common market, free trade area, Customs Union or similar international agreement to which any of the countries of the Contracting Parties is or may become a member.
+
+**Article (8)**
+
+The provisions or any texts of this Agreement may be amended by written agreement between the Contracting Parties, on the basis of mutual consent; any amendment to this Agreement shall enter into force in accordance with Article (9) of this Agreement.
+
+**Article (9)**
+
+1\. This Agreement shall enter into force on the 30th (thirtieth) day following the receipt of the last notification when a Contracting Party notifies the other in writing through the diplomatic channels of the completion of the internal requirements necessary for the implementation of this Agreement.
+
+2\. This Agreement shall remain in force for a period of five (5) years and shall automatically be renewed for successive 5 year periods, unless either Contracting Party notifies the other in writing about its intention to terminate this Agreement at least six (6) months prior to its expiry.
+
+**Article (10)**
+
+The termination of this Agreement shall not affect the validity or the duration of any specific agreement or projects or activities made under the present Agreement until the completion of such specific agreements, projects or activities, unless the Contracting Parties agree on otherwise.
+
+IN WITNESS WHEREOF the undersigned duly authorized thereto by their respective Governments, have signed this Agreement.
+
+Done at Amman on the 6 Jumada l-Ula of 1434 H; corresponding to the 18 March of 2013, in two originals each, in the Arabic, Hungarian and English languages, all texts being equally authentic. In case of divergency the English text shall prevail.
+
+for the Government of Hungary
+
+for the Governmentof the Hashemite Kingdom of Jordan”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 9. Cikk 1. pontjában meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 9. Cikk 1. pontjában meghatározott időpontban lép hatályba. A 8/2014. (III. 7.) KÜM közlemény alapján a hatálybalépés időpontja 2014. március 17.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 9. Cikk 1. pontjában meghatározott időpontban lép hatályba. A 8/2014. (III. 7.) KÜM közlemény alapján a hatálybalépés időpontja 2014. március 17.
+[^3]: A 8/2014. (III. 7.) KÜM közlemény alapján a hatálybalépés időpontja 2014. március 17.
+[^4]: Lásd a 8/2014. (III. 7.) KÜM közleményt.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 808. §-a szerint módosított szöveg.

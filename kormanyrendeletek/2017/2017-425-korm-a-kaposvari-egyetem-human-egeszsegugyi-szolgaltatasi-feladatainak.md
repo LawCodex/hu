@@ -1,0 +1,63 @@
+---
+title: "425/2017. (XII. 19.) Korm. rendelet a Kaposvári Egyetem humán-egészségügyi szolgáltatási feladatainak átadásáról"
+identifier: "425/2017. (XII. 19.) Korm. rendelet"
+njt_id: "2017-425-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/425"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-19
+in_force_from: 2017-12-20
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-425-20-22"
+retrieved: 2026-10-12
+---
+
+# 425/2017. (XII. 19.) Korm. rendelet a Kaposvári Egyetem humán-egészségügyi szolgáltatási feladatainak átadásáról
+
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kaposvári Egyetem humán-egészségügyi szolgáltatást ellátó szervezeti egységei 2018. február 1. napjával az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3b) bekezdés a) pontja alapján beolvadásos kiválással a Somogy Vármegyei Kaposi Mór Oktató Kórházba beolvadnak.
+
+(2)[^2] A humán-egészségügyi szolgáltatást ellátó szervezeti egységek tekintetében a Kaposvári Egyetem általános jogutóda a Somogy Vármegyei Kaposi Mór Oktató Kórház. A jogutódlás tárgyát képezi valamennyi jogosultság és kötelezettség, valamint
+
+a) az átvett feladatok ellátásával összefüggő vagyoni jogok és kötelezettségek,
+
+b) az átvételre kerülő feladatok ellátásához szükséges könyv szerinti ingó és ingatlan eszközállomány,
+
+c) az átvételre kerülő feladatokat ellátó közalkalmazottak, illetve munkavállalók feletti munkáltatói jogok gyakorlása és kötelezettségek teljesítése, valamint közalkalmazotti jogviszonyuk és munkaviszonyuk.
+
+(3)[^3] A jogutódlás keretében történő feladatátadásról, az ahhoz kapcsolódó vagyon-, létszám- és forrásátcsoportosításról, az (1) bekezdés szerinti feladathoz kapcsolódó kutatási tevékenység átadásáról, továbbá a hazai és európai uniós pályázatok és egyéb kötelezettségvállalások tekintetében a Kaposvári Egyetem és a Somogy Vármegyei Kaposi Mór Oktató Kórház 2018. február 1-ig átadás-átvételi megállapodást köt.
+
+## 2. §
+
+(1)[^4] A következő európai uniós forrásból finanszírozott projektek megvalósítása és fenntartása tekintetében a Kaposvári Egyetem jogutóda a Somogy Vármegyei Kaposi Mór Oktató Kórház:
+
+a) a TIOP-2.2.8.A-15/1 2016-0062 „A Kaposvári Egyetemen Humán Egészségügyi és Kutató Imaging Centrum létrehozása” című projekt,
+
+b) a KEOP-5.6.0/E15-2015-0022 „CT-berendezés cseréje a Kaposvári Egyetem Egészségügyi Centruma részére” című projekt,
+
+c)[^5] a TIOP-2.2.6-12/1A-2013-0010 „A Somogy megyei Komplex Onkológiai Centrum sugárterápiás és patológiai eszközparkjának fejlesztése” című projekt,
+
+d) a TIOP-2.2.8-14-2015-00002 „Infrastrukturális fejlesztések megvalósítása” című projekt,
+
+e) az EFOP-3.6.2-16-2017-00008 „A neuroinflammáció vizsgálata a neurodegeneratív folyamatokban: a molekulától a betegágyig” című projekt.
+
+(2) Az európai uniós forrásból finanszírozott, 2018. február 1-jén folyamatban lévő és fenntartási kötelezettséggel terhelt projektek tekintetében a projektet átvevő jogutód szerv köteles a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 36. § (1) bekezdése, továbbá a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 86. § (1) bekezdése szerint eljárni.
+
+(3) A (2) bekezdésen túli, egyéb forrásból finanszírozott, 2018. február 1-jén folyamatban lévő projektek vagy pályázatok esetében a projektet átvevő jogutód szerv az adott projektre vagy pályázatra vonatkozó szerződésben foglaltak szerint jár el.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 272. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 272. §-a szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 272. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 272. §-a szerint módosított szöveg.
+[^5]: [A 2. § (1) bekezdés c) pontban a 616/2022. (XII. 29.) Korm. rendelet 272. §-a által elrendelt módosítás, amely szerint a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép, nem vezethető át.]

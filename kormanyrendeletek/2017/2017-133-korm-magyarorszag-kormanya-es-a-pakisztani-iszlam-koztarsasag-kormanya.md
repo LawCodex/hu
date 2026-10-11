@@ -1,0 +1,306 @@
+---
+title: "133/2017. (VI. 9.) Korm. rendelet Magyarország Kormánya és a Pakisztáni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési megállapodás kihirdetéséről"
+identifier: "133/2017. (VI. 9.) Korm. rendelet"
+njt_id: "2017-133-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/133"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-06-09
+in_force_from: 2017-06-10
+last_amended: 2017-10-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-133-20-22"
+retrieved: 2026-10-12
+---
+
+# 133/2017. (VI. 9.) Korm. rendelet Magyarország Kormánya és a Pakisztáni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Pakisztáni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol nyelvű szövege és hivatalos magyar nyelvű fordítása a következő:
+
+„AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND\
+THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN ON ECONOMIC COOPERATION
+
+The Government of Hungary and the Government of the Islamic Republic of Pakistan (hereinafter referred to individually as a “Party” and collectively as the “Parties”),
+
+Desiring to enhance the economic cooperation based on the long-standing bilateral relations between the two countries,
+
+Wishing to continue and reinforce their existing bilateral economic cooperation, with a view to develop and intensify their economic, industrial, technical and technological cooperation on long-term and mutual beneficial basis,
+
+Convinced of the necessity of deepening the bilateral legal framework in order to establish favourable conditions and suitable basis for further cooperation,
+
+Have agreed as follows:
+
+**Article (1)**
+
+**SCOPE OF THE AGREEMENT**
+
+The Parties undertake to promote the expansion and diversification of mutually advantageous economic cooperation in accordance with their respective national laws and in conformity with the provisions of those international treaties to which they are Parties.
+
+**Article (2)**
+
+**AREAS OF COOPERATION**
+
+The Parties agree to create favourable conditions for long-term economic cooperation, inter alia in the following areas:
+
+*a)* agriculture and food industry;
+
+*b)* machine industry;
+
+*c)* electronics industry
+
+*d)* water management;
+
+*e)* environmental and energy sector;
+
+*f)* chemical and petrochemical industry;
+
+*g)* construction industry;
+
+*h)* infrastructure development;
+
+*i)* transport and logistics;
+
+*j)* vehicle industry and automotive manufacturing;
+
+*k)* protection of natural resources and environment;
+
+*l)* information technology and telecommunications;
+
+*m)* research and development;
+
+*n)* healthcare, health industry and medical technologies; and
+
+*o)* education and human resource development.
+
+**Article (3)**
+
+**MEANS OF COOPERATION**
+
+The Parties shall endeavor to broaden and intensify their cooperation inter alia, through the following means:
+
+*a)* promotion of cooperation between economic policy-makers, governmental institutions, professional organizations, business federations, chambers of commerce and industry, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their official, expert and business delegations;
+
+*b)* exchange of information on development priorities, national development programmes and projects, facilitating the participation of business operators in development projects;
+
+*c)* encouragement of establishing new contacts and broadening the existing ones between the business circles of the two countries through visits, meetings and other interactions between individuals and enterprises;
+
+*d)* exchange of business information, encouragement of participation in fairs and exhibitions, organisation of business events, seminars, symposia and conferences;
+
+*e)* promotion of the participation of small- and medium-sized private sector enterprises in the bilateral economic cooperation undertakings;
+
+*f)* encouragement of cooperation in consultancy, marketing, advisory and expert services in the areas of mutual interest;
+
+*g)* promotion of cooperation between financial institutions and banking sectors;
+
+*h)* promotion of investment cooperation, establishment of joint ventures and company representation offices;
+
+*i)* promotion of inter-regional cooperation and cooperation at international level in issues of mutual interest.
+
+**Article (4)**
+
+**JOINT COMMISSION**
+
+(1) The Parties agree to establish the Hungarian-Pakistani Joint Commission on Economic Cooperation (the Commission) through diplomatic channels.
+
+(2) The Commission shall monitor the effective implementation of this Agreement and propose recommendations for the development of bilateral economic cooperation.
+
+(3) When establishing the Commission, each Party shall appoint a Co-chair.
+
+(4) The Commission shall establish its own rules of working procedures, which shall be defined during its first meeting.
+
+**Article (5)**
+
+**OBSERVANCE OF OTHER OBLIGATIONS**
+
+(1) The Parties agree that cooperation, pursuant to this Agreement, shall be carried out in accordance with their respective national laws and regulations, while observing the generally recognized norms and principles of international law and without prejudice to the fulfillment of the obligations of each Party under other bilateral, regional or multilateral agreements, to which they are a Party.
+
+(2) The provisions of this Agreement shall not be applied or interpreted either in whole, or in part in such a way as to invalidate, amend or otherwise affect the obligations under these agreements, including those of Hungary arising from the Treaties on which the European Union is based, as well as from the law of the European Union.
+
+**Article (6)**
+
+**AMENDMENT**
+
+The provisions of this Agreement may be amended at any time through mutual written consent of the Parties and such amendments shall enter into force in accordance with Article (8) of this Agreement.
+
+**Article (7)**
+
+**DISPUTES SETTLEMENT**
+
+All disputes arising from or concerning the application or interpretation of this Agreement shall be amicably settled through negotiation between the Parties.
+
+**Article (8)**
+
+**ENTRY INTO FORCE DURATION AND TERMINATION**
+
+(1) This Agreement is subject to ratification. This Agreement shall enter into force on the 30th (thirtieth) day following the receipt of the last notification by which the Parties notify each other, in writing, through diplomatic channels of the completion of the procedure required by domestic laws necessary for the entry into force of this Agreement.
+
+(2) It shall remain in force for a period of five (5) years and shall be automatically renewed for similar periods, unless terminated.
+
+(3) Either Party may terminate this Agreement by giving a written notice to the other Party of its intention to terminate the Agreement at least six (6) months prior to the expiration of the original or the renewed period of five (5) years.
+
+(4) The termination of this Agreement shall not affect the validity or the duration of any specific agreement, project or activity made under this Agreement until the completion of such specific agreements, projects or activities unless the Parties agree otherwise.
+
+In witness thereof, the duly authorized representatives of the Parties have signed this Agreement in Islamabad, on 11th (day) of April (month) 2017 (year) in the English language.
+
+FOR THE GOVERNMENT OF HUNGARY
+
+FOR THE GOVERNMENT OF THE\
+ISLAMIC REPUBLIC OF PAKISTAN”
+
+„GAZDASÁGI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS\
+A PAKISZTÁNI ISZLÁM KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+
+Magyarország Kormánya és a Pakisztáni Iszlám Köztársaság Kormánya (a továbbiakban rövid megnevezésük külön-külön a “Fél”, és együttesen a “Felek”),
+
+Attól a szándéktól vezérelve, hogy fejlesszék a gazdasági együttműködést a két ország közti, régóta fennálló kétoldalú kapcsolatok alapján,
+
+Folytatni és fokozni kívánva a köztük létező kétoldalú gazdasági kooperációt azzal a céllal, hogy hosszú távon és a kölcsönös előnyök alapján fejlesszék gazdasági, ipari, műszaki és technológiai együttműködésüket,
+
+Abban a meggyőződésben, hogy szükséges a kétoldalú jogi keret elmélyítése a további együttműködés kedvező körülményeinek és megfelelő alapjának megteremtése érdekében,
+
+Megállapodtak a következőkben:
+
+**(1) cikk**
+
+**A MEGÁLLAPODÁS HATÓKÖRE**
+
+A Felek vállalják, hogy összhangban nemzeti jogrendjeikkel és azoknak a nemzetközi szerződéseknek a rendelkezéseivel, amelyeknek a Felek részesei, elősegítik és támogatják a kölcsönösen előnyös gazdasági együttműködés bővülését és sokrétűbbé válását.
+
+**(2) cikk**
+
+**EGYÜTTMŰKÖDÉSI TERÜLETEK**
+
+A Felek megállapodnak abban, hogy kedvező feltételeket teremtenek a hosszú távú gazdasági együttműködés számára, egyebek közt a következő területeken:
+
+*a)* mezőgazdaság és élelmiszeripar;
+
+*b)* gépipar;
+
+*c)* elektronikai ipar;
+
+*d)* vízgazdálkodás;
+
+*e)* környezetvédelmi és energiaügyi szektor;
+
+*f)* vegyipar és petrolkémiai ipar;
+
+*g)* építőipar;
+
+*h)* infrastrukturális fejlesztés;
+
+*i)* szállításügy és logisztika;
+
+*j)* járműipar és gépjárműgyártás;
+
+*k)* a természeti erőforrások és a környezet védelme;
+
+*l)* információtechnológia és távközlés;
+
+*m)* kutatás és fejlesztés;
+
+*n)* egészségügy, egészségügyi ipar és gyógyászati technológiák; valamint
+
+*o)* oktatás és az emberi erőforrások fejlesztése.
+
+**(3) cikk**
+
+**EGYÜTTMŰKÖDÉSI ESZKÖZÖK**
+
+A Felek egyebek közt a következő eljárások révén törekszenek együttműködésük szélesítésére és erősítésére:
+
+*a)* az együttműködés előmozdítása a gazdaságpolitika formálói, kormányzati intézmények, szakmai szervezetek, üzleti szövetségek, kereskedelmi és iparkamarák, térségi és helyi szervezetek között, ösztönözve a kölcsönös érdeklődésre számot tartó gazdasági információk cseréjét, valamint hivatalos, szakértői és üzleti küldöttségek látogatásait;
+
+*b)* információcsere a fő fejlesztési célokról, nemzeti fejlesztési programokról és projektekről, elősegítve az üzleti élet szereplőinek részvételét fejlesztési projektekben;
+
+*c)* új kapcsolatok létesítésének ösztönzése és a meglevő kapcsolatok szélesítése a két ország üzleti körei között látogatások, találkozók révén, valamint egyének és vállalkozások közti egyéb érintkezések útján;
+
+*d)* üzleti információk kicserélése, vásárokon és kiállításokon történő részvétel, valamint üzleti események, szemináriumok, tanácskozások és konferenciák szervezésének ösztönzése;
+
+*e)* a kis és közepes méretű magánvállalatok részvételének elősegítése a kétoldalú gazdasági együttműködési vállalkozásokban;
+
+*f)* a kölcsönös érdeklődésre számot tartó területeken az együttműködés ösztönzése a konzultációs, marketing, tanácsadási és szakértői szolgáltatásokban;
+
+*g)* az együttműködés előmozdítása a pénzintézeti és banki szektorok között;
+
+*h)* befektetési együttműködések ösztönzése, közös vállalkozások és vállalati képviseleti irodák létesítésének támogatása;
+
+*i)* térségek közti együttműködés és nemzetközi szintű együttműködés elősegítése kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**(4) cikk**
+
+**VEGYES BIZOTTSÁG**
+
+(1) A Felek megállapodnak abban, hogy diplomáciai csatornák útján létrehozzák a Magyar-Pakisztáni Gazdasági Együttműködési Vegyes Bizottságot (a Bizottság).
+
+(2) A Bizottság figyelemmel kíséri a jelen Megállapodás tényleges megvalósítását és ajánlásokat terjeszt elő a kétoldalú gazdasági együttműködés fejlesztése érdekében.
+
+(3) A Bizottság létrehozása során mindkét Fél kinevez egy társelnököt.
+
+(4) A Bizottság határozza meg saját működési eljárásainak szabályait, amelyekről az első ülésén határoz.
+
+**(5) cikk**
+
+**MÁS KÖTELEZETTSÉGEK TISZTELETBEN TARTÁSA**
+
+(1) A Felek megállapodnak abban, hogy a jelen Megállapodás szerinti együttműködést a Felek országaiban hatályos nemzeti jogrenddel és szabályozásokkal összhangban valósítják meg, tiszteletben tartva a nemzetközi jog általánosan elismert normáit és elveit, és anélkül, hogy a megvalósítás csorbítaná bármelyik Fél azon kötelezettségeinek teljesítését, amelyek az adott Félre más kétoldalú, regionális vagy multilaterális megállapodások alapján hárulnak.
+
+(2) A jelen Megállapodás rendelkezései sem egészükben, sem részben nem alkalmazhatók vagy értelmezhetők olyan módon, hogy az hatálytalanítsa, módosítsa vagy másképpen érintse az említett más megállapodások alapján fennálló kötelezettségeket, beleértve Magyarországnak azokat a kötelezettségeit, amelyek az Európai Unió alapját képező szerződésekből, valamint az Európai Unió jogrendjéből erednek.
+
+**(6) cikk**
+
+**MÓDOSÍTÁS**
+
+A jelen Megállapodás rendelkezései bármely időpontban módosíthatók a Felek kölcsönös, írásbeli jóváhagyásával, és ezek a módosítások a jelen Megállapodás (8) cikkével összhangban lépnek hatályba.
+
+**(7) cikk**
+
+**VITÁK RENDEZÉSE**
+
+Mindennemű vitát, amely a jelen Megállapodás alkalmazásából vagy értelmezéséből ered vagy ezzel összefüggésben alakul ki, a Felek baráti megegyezéssel, tárgyalások útján rendezik.
+
+**(8) cikk**
+
+**HATÁLYBA LÉPÉS, IDŐTARTAM ÉS FELBONTÁS**
+
+(1) A jelen Megállapodást meg kell erősíteni. A Megállapodás a Felek belső joga szerint szükséges hatálybalépési követelmények teljesüléséről szóló későbbi írásos diplomáciai értesítés kézhezvételétől számított 30. (harmincadik) napon lép hatályba.
+
+(2) Jelen Megállapodás hatálybalépésének időpontjától számított öt (5) évig marad hatályban, valamint automatikusan megújul újabb azonos hosszúságú időszakokra, amennyiben nem szüntetik meg.
+
+(3) Bármelyik Fél megszüntetheti a jelen Megállapodást oly módon, hogy legalább hat (6) hónappal az eredeti vagy a megújított öt (5) éves időszak lejárta előtt a másik Felet írásban értesíti a Megállapodás megszüntetésére vonatkozó szándékáról.
+
+(4) A jelen Megállapodás felbontása nem érinti a jelen Megállapodás alapján létrejövő egyetlen konkrét megállapodás, projekt vagy tevékenység hatályát vagy tartamát sem a szóban forgó konkrét megállapodások, projektek vagy tevékenységek teljes megvalósulásáig, ha csak nem egyeznek meg a Felek ettől eltérő feltételben.
+
+A fentiek hitelének tanúsításául a Felek megfelelő felhatalmazással rendelkező képviselői Iszlámábádban, 2017. (év) április (hónap) 11. (nap) napján aláírták a jelen Megállapodást angol nyelven.
+
+MAGYARORSZÁG KORMÁNYA NEVÉBEN
+
+A PAKISZTÁNI ISZLÁM KÖZTÁRSASÁG\
+KORMÁNYA NEVÉBEN”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás (8) cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás (8) cikk (1) bekezdésében meghatározott időpontban lép hatályba. Az 5/2018. (II. 6.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 19.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás (8) cikk (1) bekezdésében meghatározott időpontban lép hatályba. Az 5/2018. (II. 6.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 19.
+[^3]: Az 5/2018. (II. 6.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 19.
+[^4]: Lásd az 5/2018. (II. 6.) KKM közleményt.

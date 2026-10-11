@@ -1,0 +1,169 @@
+---
+title: "392/2013. (XI. 12.) Korm. rendelet a szociális és gyermekvédelmi ellátások országos nyilvántartásáról"
+identifier: "392/2013. (XI. 12.) Korm. rendelet"
+njt_id: "2013-392-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/392"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-11-12
+in_force_from: 2013-11-15
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-392-20-22"
+retrieved: 2026-10-12
+---
+
+# 392/2013. (XI. 12.) Korm. rendelet a szociális és gyermekvédelmi ellátások országos nyilvántartásáról
+
+A Kormány
+
+a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés z) pontjában, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés zs) pontjában kapott felhatalmazás alapján,
+
+a 9–13. §, a 14. § a)–d) és f) pontja, valamint az 1–4. melléklet és a 6. melléklet tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés d) pontjában kapott felhatalmazás alapján,
+
+a 14. § e) pontja, a 15. § és az 5. melléklet tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+a 16. §, a 19. § és a 20. §, valamint a 7. melléklet tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés m) pontjában kapott felhatalmazás alapján,
+
+a 17. § és a 18. § tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés a) és m) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §[^1]
+
+(1)[^2] A szociális és gyermekvédelmi ellátásoknak a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 18/B. §-ában meghatározott országos nyilvántartását (a továbbiakban: Nyilvántartás) a Magyar Államkincstár központi szerve (a továbbiakban: Központ) vezeti.
+
+(2)[^3] A Központ e rendelet szerinti feladat- és hatásköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja.
+
+(3)[^4] A Nyilvántartás fejlesztésével kapcsolatos feladatokat a Központ a Slachta Margit Nemzeti Szociálpolitikai Intézet szakmai közreműködésével látja el.
+
+### 2. §
+
+(1)[^5] A települési önkormányzat jegyzőjének (a továbbiakban: jegyző) és a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) a Nyilvántartásba való adatrögzítéssel történő adatszolgáltatása a Központ által e célból kialakított és a központi szerverén működtetett webes kezelőfelületen történő adatrögzítéssel, vagy a Központ által meghatározott formátumú és adattartalmú interfész kapcsolaton keresztül zajló elektronikus adatátadással valósul meg.
+
+(2)[^6] A Nyilvántartás adatait a Központ az (1) bekezdés szerinti adatszolgáltatás összesítésével, egységes adatbázisban kezeli.
+
+### 3. §
+
+(1) A Nyilvántartásba történő adatszolgáltatásért, valamint az általa szolgáltatott adatok hitelességéért a jegyző, illetve a járási hivatal vezetője (a továbbiakban együtt: adatszolgáltatásért felelős személy) felel.
+
+(2)[^7] A Központ a Nyilvántartás üzemeltetése során biztosítja, hogy az arra jogosulatlan személyek a nyilvántartásba vett adatokhoz ne férjenek hozzá.
+
+(3)[^8] A Központ a központi szerverén folyamatosan naplózza a Nyilvántartással kapcsolatos nyilvántartási eseményeket – ide értve az adatrögzítéssel nem járó adatlekérdezéseket is –, valamint gondoskodik arról, hogy azok visszakereshetőek legyenek.
+
+(4)[^9]
+
+## 2. A Nyilvántartás működtetése
+
+### 4. §
+
+(1) A Nyilvántartás részére történő adatszolgáltatást a (2), a (4), valamint a (6) bekezdés szerinti személyek (a továbbiakban együtt: adatszolgáltatásra jogosult személy) teljesítik.
+
+(2)[^10] Az adatszolgáltatásért felelős személy a Nyilvántartás részére történő adatszolgáltatás teljesítésére a polgármesteri hivatal vagy közös önkormányzati hivatal, illetve a járási hivatal (a továbbiakban együtt: hatóság) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal rendelkező, és közszolgálati, illetve kormányzati szolgálati jogviszonyban álló munkatársai közül – a Központ honlapján közzétett formanyomtatvány szerinti kijelölő okirat kitöltésével – egy e-képviselőt jelöl ki. A kijelölő okiratot elektronikus úton meg kell küldeni a Központ részére.
+
+(3)[^11] Az adatszolgáltatásért felelős személy haladéktalanul köteles a Központnak bejelenteni, ha az e-képviselő nyilvántartásba vett adatai megváltoztak vagy megbízása megszűnt.
+
+(4)[^12] A nyilvántartásba vett e-képviselő a hatóság a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal rendelkező, és közszolgálati, illetve kormányzati szolgálati jogviszonyban álló munkatársai közül a Nyilvántartás részére történő adatszolgáltatásra további személyt vagy személyeket jelölhet ki (a továbbiakban: e-ügyintéző). Az e-ügyintéző kijelölése elektronikus úton, a Központ által erre a célra rendszeresített webes kezelőfelületen történik. A kijelöléshez meg kell adni az e-ügyintézőnek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások használatára jogosító személyazonosító adatait.
+
+(5) Az e-képviselő a hatóság e-ügyintézői közül kiemelt felhasználót jelölhet ki. A kiemelt felhasználó a hatóságnál dolgozó valamennyi adatszolgáltatásra jogosult személy Nyilvántartáshoz kapcsolódó tevékenységének nyomon követésére jogosult.
+
+(6)[^13] Az e-ügyintéző kijelölésére vonatkozó szabályok szerint az e-képviselő a hatóság munkatársai közül az Szt. 18/B. § (1) bekezdése szerinti ellátásokkal összefüggő hatósági ügyben eljárási cselekményeket egyébként nem végző adatrögzítőt is kijelölhet. Adatrögzítőként közszolgálati jogviszonyban vagy kormányzati szolgálati jogviszonyban álló személy jelölhető ki.
+
+(7)[^14] Az e-képviselő köteles a Központ felé elektronikus úton bejelenteni, ha a (4) vagy a (6) bekezdés szerinti személyek nyilvántartásba vett adatai megváltoztak. Az e-ügyintéző, a kiemelt felhasználó, valamint az adatrögzítő kijelölése a Központ felé elektronikus úton, a webes kezelőfelületen tett bejelentéssel vonható vissza.
+
+(8) Az e-ügyintéző, a kiemelt felhasználó és az adatrögzítő megfelelő felkészítéséről az e-képviselő gondoskodik.
+
+### 5. §
+
+(1)[^15] Az adatszolgáltatásra jogosult személy az Szt. 18/B. § (2) bekezdése szerinti adatokat – a döntés véglegessé válásának időpontját kivéve – legkésőbb az ellátással összefüggő döntés meghozatalát követő öt munkanapon belül rögzíti a Nyilvántartás működtetésének alapjául szolgáló adatrögzítő felületen. A rögzített adatok akkor válnak a Nyilvántartás részévé, amikor az ellátással kapcsolatos döntés véglegessé válására vonatkozó adatot az adatszolgáltatásra jogosult személy rögzíti. A véglegessé válás időpontját legkésőbb az arról való tudomásszerzést követő munkanapon kell rögzíteni.
+
+(2)[^16] Az (1) bekezdésben meghatározott határidőn túl akkor lehet adatot rögzíteni, ha az adatszolgáltatásra jogosult személy számára a Nyilvántartás – a Központ informatikai rendszerében, az elektronikus hírközlési szolgáltatónál vagy a hatóság informatikai eszközében fellépő üzemzavar miatt – az adatrögzítési határidőn belül munkaidőben legalább két egymást követő munkanapon keresztül nem volt elérhető.
+
+(3)[^17] Ha az Szt. 18/B. § (1) bekezdése szerinti ellátást kérelmező személy vagy az ellátás megállapítása során figyelembe vett személy Társadalombiztosítási Azonosító Jellel nem rendelkezik vagy a Társadalombiztosítási Azonosító Jele nem ismert, a Nyilvántartás a részére – a Társadalombiztosítási Azonosító Jele rögzítéséig – ideiglenes azonosítót képez.
+
+(4) Ha a Nyilvántartásban rögzített adat akként változik meg, hogy azzal összefüggésben hatósági döntéshozatalra nem kerül sor, az adatot az adatszolgáltatásra jogosult személy legkésőbb az adatváltozásról való tudomásszerzést követő munkanapon módosítja.
+
+### 6. §
+
+(1)[^18] Az eljáró hatóság a Nyilvántartásban rögzített
+
+a)[^19] természetes személyazonosító és lakcímadatokat a személyi adat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
+
+b)[^20] Társadalombiztosítási Azonosító Jelet a Magyar Államkincstár TAJ szám nyilvántartásából
+
+való adatigénylés útján ellenőrzi.
+
+(2) Ha az eljáró hatóság azt állapítja meg, hogy a kérelmet benyújtó személy vagy az adott ellátás megállapítása során figyelembe vett más személy már szerepel a Nyilvántartásban, és az ellátásra való jogosultság feltételei fennállnak, az új ellátásra vonatkozó adatokat a Nyilvántartásban már szereplő adatokhoz kapcsoltan rögzíti.
+
+(3)[^21] A Nyilvántartásban szereplő személyre vonatkozó, az Szt. 18. § a), b) és g) pontja, 18/A. § a), b) és g) pontja, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 138. § (1) bekezdés a) és b) pontja szerinti adatokat – a (4) bekezdésben meghatározott kivétellel – akkor kell törölni a nyilvántartásból, amikor az Szt. 23. §-a szerint minden olyan ellátás Nyilvántartásból való törlésére sor került, amelyre való jogosultság vizsgálatánál a személyt figyelembe vették. A törlést az utolsóként törölt ellátással összefüggő adatok törlésével egyidejűleg kell elvégezni.
+
+(4)[^22] A szolgálati időre jogosító ellátások esetében a jogosultra irányadó nyugdíjkorhatár betöltését, vagy ha az ellátásra való jogosultság a nyugdíjkorhatár betöltését követően szűnik meg, a megszűnés dátumát követő öt év elteltével kell törölni az adatokat a Nyilvántartásból.
+
+### 6/A. §[^23]
+
+A Központ a fővárosi és vármegyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára az Szt. 19. § (1c) bekezdése szerinti közvetlen hozzáférést az e célból kialakított és a központi szerverén működtetett webes kezelőfelületen vagy a Központ által meghatározott formátumú és adattartalmú interfész kapcsolaton keresztül zajló elektronikus adatátadással teljesíti.
+
+## 3. Záró rendelkezések
+
+### 7. §
+
+(1) Ez a rendelet – a (2) és a (3) bekezdésben foglalt kivétellel – 2013. november 15-én lép hatályba.
+
+(2) Az 5. § (3) bekezdése és a 6. § (3) bekezdése 2013. december 16-án lép hatályba.
+
+(3) A 11. § és a 21. § 2014. július 1-jén lép hatályba.
+
+### 9. §[^25]
+
+Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## 1. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^38]
+
+## 2. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^39]
+
+## 3. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^40]
+
+## 4. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^41]
+
+## 5. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^42]
+
+## 6. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^43]
+
+## 7. melléklet a 392/2013. (XI. 12.) Korm. rendelethez[^44]
+
+---
+
+[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 250. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 311/2017. (X. 31.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 135. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 23. §-a, a 448/2021. (VII. 26.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 169. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 461. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: A 4. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés a) pontja, a 477/2016. (XII. 27.) Korm. rendelet 71. § (2) bekezdése, a 303/2018. (XII. 27.) Korm. rendelet 27. §-a, a 102/2019. (V. 6.) Korm. rendelet 13. §-a, a 408/2024. (XII. 20.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 4. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja, a 102/2019. (V. 6.) Korm. rendelet 13. §-a, a 408/2024. (XII. 20.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^13]: A 4. § (6) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § c) pontja, a 102/2019. (V. 6.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^14]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 460. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^17]: Az 5. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^18]: A 6. § (1) bekezdése a 21. §-al megállapított szöveg.
+[^19]: A 6. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdés b) pontja a 147/2019. (VI. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^22]: A 6. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 25. §-a iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^23]: A 6/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 459. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 169. §-a szerint módosított szöveg.
+[^25]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 71. § (1) bekezdése iktatta be.
+[^38]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

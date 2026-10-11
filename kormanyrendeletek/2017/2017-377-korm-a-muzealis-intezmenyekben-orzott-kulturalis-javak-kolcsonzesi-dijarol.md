@@ -1,0 +1,189 @@
+---
+title: "377/2017. (XII. 11.) Korm. rendelet a muzeális intézményekben őrzött kulturális javak kölcsönzési díjáról, valamint a kijelölési eljárásról"
+identifier: "377/2017. (XII. 11.) Korm. rendelet"
+njt_id: "2017-377-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/377"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-11
+in_force_from: 2018-01-01
+last_amended: 2018-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-377-20-22"
+retrieved: 2026-10-12
+---
+
+# 377/2017. (XII. 11.) Korm. rendelet a muzeális intézményekben őrzött kulturális javak kölcsönzési díjáról, valamint a kijelölési eljárásról
+
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (1) bekezdés *r)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+A kultúráért felelős miniszter (a továbbiakban: miniszter) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) 38/B. §-a szerinti eljárás (a továbbiakban: kijelölési eljárás) során a nemzeti kulturális érdek fennállásának vizsgálata során a következő szempontokat mérlegeli:
+
+a) a muzeális intézmény raktárában őrzött, kiállításon nem szereplő kulturális javaknak a látogatók számára történő hozzáférhetővé tétele,
+
+b) a kulturális javak tudományos vagy szakmai véleményezése, vizsgálata, restaurálása, preparálása, valamint
+
+c) a kulturális javak közfeladat-ellátásával összefüggő reprezentációs célú bemutatása.
+
+## 2. Kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentesség iránti kérelem
+
+### 2. §
+
+(1) Az állami tulajdonú kulturális javak állami vagy önkormányzati fenntartású muzeális intézmények közötti, országhatáron belüli kölcsönzése mentes a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól.
+
+(2) Az állami tulajdonú kulturális javak (1) bekezdés hatálya alá nem tartozó kölcsönzése esetén a kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentesség iránti kérelem (a továbbiakban: mentesítési kérelem) a kölcsönzési szerződés megkötése előtt nyújtható be a miniszternél.
+
+(3) A mentesítési kérelem tartalmazza a kölcsönzés céljának és indokoltságának bemutatását, a kölcsönzési díj, illetve a pénzügyi biztosíték összegét és a mentesítés kérelmezett mértékét.
+
+(4) A mentesítési kérelemhez csatolni kell
+
+a) az elhelyezési dokumentációt, valamint
+
+b) a kölcsönzési díj, illetve a pénzügyi biztosíték összegét igazoló dokumentumot vagy a kölcsönzési szerződés tervezetét.
+
+(5) A miniszter a mentesítési kérelem elbírálása során vizsgálja
+
+a) a kölcsönzéshez fűződő nemzeti kulturális érdek fennállását, valamint
+
+b) az elhelyezési dokumentációban megállapított feltételek megfelelőségét.
+
+(6) Az (1) bekezdés vagy a miniszter mentesítése alapján létrejött kölcsönzési szerződés megkötésével elengedésre kerülő kölcsönzési díj és pénzügyi biztosíték összege az Európai Bizottság SA.34770 (2012/N-2). számú határozata szerinti kulturális célú állami támogatásnak minősül.
+
+(7) A kölcsönvevő a (6) bekezdés szerinti összegről a kölcsönzési szerződés megkötését követő 30 napon belül írásban értesíti a minisztert.
+
+## 3. Kijelölési eljárás
+
+### 3. §
+
+(1) A kijelölési eljárás írásbeli kérelemre indul. A kérelmet az nyújtja be, aki a kulturális javakat őrizni vagy bemutatni kívánja. Az eljárásban a tulajdonosi joggyakorló ügyfélnek minősül.
+
+(2) A kérelemnek tartalmaznia kell
+
+a) a kérelemmel érintett kulturális javak azonosításra alkalmas megjelölését,
+
+b) a kijelölés kérelmezett időtartamát, valamint
+
+c) a kérelemmel érintett kulturális javak őrzési vagy bemutatási helye kijelölésének indokait.
+
+(3) A kérelemhez csatolni kell
+
+a) a kérelmezett őrzési vagy bemutatási hely meghatározását és az arra vonatkozó elhelyezési dokumentációt,
+
+b) a kérelmező nyilatkozatát arra vonatkozóan, hogy a kérelmezett őrzési vagy bemutatási helyen a kulturális javak kölcsönzés, múzeumi letét vagy egyéb jogcímen történő elhelyezésére nem volt mód, valamint
+
+c) a kérelmezőnek a 6. § (2) bekezdése szerinti költségek vállalásáról szóló nyilatkozatát.
+
+(4) Ha a kérelem a kulturális javak tudományos vagy szakmai véleményezésére, vizsgálatára irányul, a kérelemhez csatolni kell az ehhez szükséges feltételek igazolását.
+
+### 4. §
+
+(1) A miniszter a kérelem elbírálása során vizsgálja
+
+a) a nemzeti kulturális érdek fennállását,
+
+b) az elhelyezési dokumentációban megállapított állományvédelmi és vagyonbiztonsági feltételek megfelelőségét,
+
+c) a kérelemmel érintett kulturális javak vagyonkezelője által biztosított állományvédelmi, vagyonbiztonsági és látogatói hozzáférési feltételeket,
+
+d) a 3. § (3) bekezdés *b)* pontja szerinti nyilatkozat megalapozottságát, valamint
+
+e) nem természetes személy ügyfél esetén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 3. § (1) bekezdés 1. pontja szerinti átlátható szervezetek számára meghatározott feltételek teljesítését.
+
+(2) A miniszter döntéséhez a kérelemmel érintett kulturális javak vagyonkezelőjétől beszerzi
+
+a) a kérelemmel érintett kulturális javak leltári számmal ellátott jegyzékét, a fizikai állapotot dokumentáló szakleírását és képi ábrázolását,
+
+b) az (1) bekezdés *c)* pontja szerinti feltételek biztosításának részletes dokumentációját, valamint
+
+c) az (1) bekezdés *b)* és *d)* pontjában foglaltakkal kapcsolatos álláspontját.
+
+(3) A miniszter a kérelemnek helyt adó döntésében meghatározza
+
+a) az őrzésre vagy bemutatásra kijelölt személyt vagy szervezetet (a továbbiakban együtt: kijelölt személy) és a kulturális javak őrzési vagy bemutatási helyét,
+
+b) a kijelöléssel érintett kulturális javak körét, a kijelöléskor fennálló fizikai állapotuk rögzítésével,
+
+c) a kijelölés időtartamát,
+
+d) a kijelöléssel érintett kulturális javak állományvédelme és vagyonbiztonsága érdekében biztosítandó feltételeket,
+
+e) a kijelöléssel érintett kulturális javakra vonatkozó széles körű látogatói hozzáférés, tudományos kutatás és szakmai vizsgálat biztosításának feltételeit, valamint
+
+f) a *d)* és *e)* pontban foglaltaknak a kijelöléssel érintett kulturális javak vagyonkezelője (a továbbiakban: vagyonkezelő) által történő ellenőrzésének eljárásrendjét.
+
+(4) A miniszter a kérelemnek helyt adó döntését megküldi a kijelöléssel érintett kulturális javak feletti tulajdonosi joggyakorló számára is.
+
+### 5. §
+
+(1) A kulturális javak őrzési vagy bemutatási helyének kijelölése legfeljebb 15 évre szólhat. A kijelölés – az Nvtv. 11. § (10) bekezdésében foglaltakra is figyelemmel – új eljárás keretében meghosszabbítható.
+
+(2) A kijelölés meghosszabbítását a kijelölés időtartamának lejáratát megelőzően legalább 3 hónappal kell kezdeményezni.
+
+(3) A kijelölés meghosszabbítására irányuló eljárás során a kijelölési eljárásra meghatározott rendelkezések irányadók azzal, hogy nem kell alkalmazni a 3. § (2) bekezdés *a)* pontjában, valamint a 4. § (2) bekezdés *a)* és *b)* pontjában foglalt előírásokat.
+
+(4) A miniszter a kijelölés meghosszabbítására irányuló kérelem elbírálása során vizsgálja a kérelemben megjelölt kulturális javak fizikai állapotát.
+
+### 6. §
+
+(1) A kijelölt személy a kijelöléssel érintett kulturális javakért sajátjaiként felel, azokat másnak át nem engedheti, köteles azokat épségben fenntartani, őrzésükről, szakszerű kezelésükről és megóvásukról gondoskodni.
+
+(2) A kijelölés időtartama alatt a kijelölt személy viseli a kijelöléssel érintett kulturális javak állományvédelmét és vagyonbiztonságát szolgáló, valamint a kulturális javakban bekövetkezett károsodásából adódó, másra át nem hárítható költségeket.
+
+(3) A kijelöléssel érintett kulturális javak fizikai állapotában bekövetkezett változásról a kijelölt személy haladéktalanul, de legkésőbb a tudomására jutástól számított 3 napon belül köteles tájékoztatni a tulajdonosi joggyakorlót, a vagyonkezelőt és a minisztert.
+
+(4) A kijelöléssel érintett kulturális javakkal kapcsolatos tisztítási, konzerválási vagy restaurálási munkák elvégzéséhez a vagyonkezelő előzetes egyetértése szükséges.
+
+### 7. §
+
+A kijelöléssel érintett kulturális javak fizikai állapotát és a 4. § (3) bekezdése szerinti döntésben foglaltak betartását a miniszter szükség szerint, de évente legalább egyszer ellenőrzi.
+
+### 8. §
+
+(1) A miniszter a kijelölést hivatalból visszavonja, ha
+
+a) a kijelölt személy meghal, vagy jogutód nélkül megszűnik,
+
+b) nem teljesül a 4. § (3) bekezdés *d)* vagy *e)* pontjában meghatározott feltétel, vagy
+
+c) a kijelölt személy nem felel meg az Nvtv. 3. § (1) bekezdés 1. pontja szerinti átlátható szervezetek számára meghatározott feltételeknek.
+
+(2) A miniszter a kijelölést visszavonja
+
+a) a kijelölt személy vagy
+
+b) az (1) bekezdés *b)* pontjában foglalt esetben a vagyonkezelő
+
+kérelmére.
+
+(3) A kulturális javak visszaszállításának költségeit
+
+a) kérelemre történő visszavonás esetében a kérelmező,
+
+b) a kijelölés időtartamának lejártakor és az (1) bekezdés *b)–c)* pontja szerinti esetben a kijelölt személy, valamint
+
+c) az (1) bekezdés *a)* pontja szerinti esetben a vagyonkezelő
+
+viseli.
+
+(4) A kijelölés időtartamának lejárta előtti visszavonás esetében a kijelölt személy viseli a vagyonkezelőnél a visszavonással kapcsolatban felmerült költséget, kivéve az (1) bekezdés *a)* pontja szerinti esetet, valamint ha az eljárás a vagyonkezelő kérelmére indul.
+
+## 4. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+### 10. §
+
+E rendelet rendelkezéseit a hatálybalépését követően indult és megismételt eljárásokban kell alkalmazni.
+
+### 11. §[^1]
+
+---
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

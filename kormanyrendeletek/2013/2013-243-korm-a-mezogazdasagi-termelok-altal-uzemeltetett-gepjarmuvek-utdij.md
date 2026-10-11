@@ -1,0 +1,140 @@
+---
+title: "243/2013. (VI. 30.) Korm. rendelet a mezőgazdasági termelők által üzemeltetett gépjárművek útdíj fizetése alóli mentesülésének részletes szabályairól"
+identifier: "243/2013. (VI. 30.) Korm. rendelet"
+njt_id: "2013-243-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/243"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-30
+in_force_from: 2013-07-02
+last_amended: 2026-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-243-20-22"
+retrieved: 2026-10-12
+---
+
+# 243/2013. (VI. 30.) Korm. rendelet a mezőgazdasági termelők által üzemeltetett gépjárművek útdíj fizetése alóli mentesülésének részletes szabályairól
+
+A Kormány az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés q) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet alkalmazásában mezőgazdasági termelő:
+
+a) aki családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő vagy az az egyéni vállalkozó, akinek a legutolsó lezárt évi eredménykimutatása szerinti árbevételének legalább 50%-a mezőgazdasági tevékenység főtevékenységként való folytatásából származik,
+
+b) jogi személy, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, amelynek a legutolsó lezárt évi beszámolója vagy az egyszerűsített éves beszámolója szerinti konszolidált nettó árbevétele legalább 50%-a mezőgazdasági tevékenység főtevékenységként való folytatásából származik,
+
+c) szövetkezet vagy korlátolt felelősségű társaság, amelyet az agrárpolitikáért felelős miniszter jogszabály alapján termelői csoportként vagy termelői szervezetként elismert.
+
+## 2. §
+
+(1)[^2] A mezőgazdasági termelő (a továbbiakban: kérelmező) a székhelye vagy lakóhelye szerinti települési önkormányzat jegyzőjétől kérelmezheti a 3. mellékletben meghatározott mezőgazdasági termények vagy élőállat (a továbbiakban együtt: termék) szállítására vonatkozó, a jegyző illetékességi területén található vagy azon kívül eső, a kérelmező székhelye vagy lakóhelye és a használatában álló termőföld, tanya vagy telephely közötti főúti útdíjköteles elemi útszakaszra vonatkozó, élőállat esetén legfeljebb 30 napig, mezőgazdasági termény esetén – a június 15-e és december 15-e közötti időszakban – a kérelemben meghatározott termény betakarításának időtartamáig, de legfeljebb 30 napig érvényes, díjmentes viszonylati jegy kiváltására jogosító hatósági bizonyítvány kiadását.
+
+(2)[^3] A jegyző által kiállított hatósági bizonyítvány az abban meghatározott időtartamban érvényes.
+
+(3) A (2) bekezdés szerinti hatósági bizonyítvány kiállítása iránti eljárás illetékmentes.
+
+## 3. §
+
+A hatósági bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
+
+a) a kérelmező
+
+aa) családi és utónevét vagy megnevezését,
+
+ab) lakcímét vagy székhelyét,
+
+b) kérelmező belföldi kézbesítési címét,
+
+c) a kérelmező arra vonatkozó nyilatkozatát, hogy az 1. § szerinti mezőgazdasági termelőnek minősül,
+
+d)[^4] a termékkör megjelölését, amelyre vonatkozóan a hatósági bizonyítvány kiállítását kéri,
+
+e) az útdíjköteles elemi útszakasz megjelölését,
+
+f) a kérelmező által üzemeltetett gépjármű forgalmi rendszámát, valamint
+
+g) a kérelmező saját kezű vagy cégszerű aláírását.
+
+## 4. §
+
+A kérelmező felelős a kérelemben meghatározott adatok valódiságáért.
+
+## 5. §
+
+(1) A hatósági bizonyítványt a jegyző a kérelem beérkezésétől számított 3 napon belül, 2 példányban állítja ki.
+
+(2) A hatósági bizonyítvány tartalmazza
+
+a) a kérelmező által üzemeltetett gépjármű forgalmi rendszámát,
+
+b) a díjkategóriát,
+
+c) az arra vonatkozó rendelkezést, hogy a kérelmező mely útdíjköteles elemi útszakaszra vonatkozóan jogosult díjmentes viszonylati jegy kiváltására,
+
+d)[^5] az arra vonatkozó rendelkezést, hogy mely terméket szállíthatja, valamint
+
+e)[^6] mezőgazdasági termény szállítása esetén a termény betakarításának legfeljebb 30 napos időtartamának kezdő- és végnapját.
+
+(3)[^7] A közlekedésért felelős miniszter a honlapján történő közzététel útján a jegyző rendelkezésére bocsátja a települési önkormányzatok e rendelet hatálya alá tartozó útdíjköteles útszakaszokra vonatkozó hatályos jegyzékét.
+
+## 6. §
+
+A jegyző által kiállított hatósági bizonyítvánnyal az egyetemes útdíjszolgáltató a hatósági bizonyítványban megjelölt útdíjköteles elemi útszakaszokra díjmentes viszonylati jegyet állít ki a kérelmező részére.
+
+## 7. §
+
+Ez a rendelet 2013. július 2-án lép hatályba.
+
+## 1. melléklet a 243/2013. (VI. 30.) Korm. rendelethez[^8]
+
+## 2. melléklet a 243/2013. (VI. 30.) Korm. rendelethez[^9]
+
+## 3. melléklet a 243/2013. (VI. 30.) Korm. rendelethez[^10]
+
+**Termékek**
+
+1\. Zöldségek
+
+2\. Gyümölcs
+
+3\. Gabonafélék (pl. búza, rozs, árpa, zab) és vetőmag
+
+4\. Kukorica
+
+5\. Rizs
+
+6\. Cirokmag
+
+7\. Olajos magvak (pl. szójamag, repcemag, napraforgómag)
+
+8\. Takarmány
+
+9\. Cukorrépa
+
+10\. Más élő növény
+
+11\. Élő szarvasmarhafélék
+
+12\. Élő sertés
+
+13\. Élő juh és kecske
+
+14\. Élő baromfi
+
+15\. Egyéb élőállat
+
+---
+
+[^1]: Az 1. § a 77/2026. (III. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 77/2026. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 77/2026. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3. § d) pontja a 77/2026. (III. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdés d) pontja a 77/2026. (III. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdés e) pontja a 77/2026. (III. 27.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 235. §-a szerint módosított szöveg.
+[^8]: Az 1. mellékletet a 77/2026. (III. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^9]: A 2. mellékletet a 77/2026. (III. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^10]: A 3. melléklet a 77/2026. (III. 27.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,0 +1,241 @@
+---
+title: "31/2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselőkkel szembeni fegyelmi eljárásról"
+identifier: "31/2012. (III. 7.) Korm. rendelet"
+njt_id: "2012-31-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/31"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-03-07
+in_force_from: 2012-03-10
+last_amended: 2022-08-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-31-20-22"
+retrieved: 2026-10-12
+---
+
+# 31/2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselőkkel szembeni fegyelmi eljárásról
+
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 11. pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — HATÁLY
+
+#### 1. §[^1]
+
+(1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott kormányzati szolgálati jogviszonyban állókra, valamint a közszolgálati jogviszonyban állókra terjed ki.
+
+(2) E rendelet hatálya nem terjed ki
+
+a)[^2]
+
+b) a polgármesterre és az alpolgármesterre.
+
+## II. Fejezet — A FEGYELMI ELJÁRÁS SZABÁLYAI A KORMÁNYTISZTVISELŐK KORMÁNYZATI SZOLGÁLATI JOGVISZONYÁBAN
+
+### 1. A fegyelmi eljárásra vonatkozó közös szabályok
+
+#### 2. §
+
+(1) A munkáltatói jogkör gyakorlójának személye, a vizsgálóbiztos személye, valamint a fegyelmi tanács összetétele a fegyelmi eljárás alá vont kormánytisztviselőnek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (kormánytisztviselő vagy vezetői munkakört betöltő kormánytisztviselő) és besorolásához igazodik.
+
+(2) A rendelet 4. § (1) bekezdésében, az 5. § (1), (7) és (9) bekezdéseiben, valamint a 7. § (1) és (6) bekezdéseiben meghatározott határidők – indokolt esetben, figyelemmel a rendeltetésszerű joggyakorlás követelményére, egy alkalommal – meghosszabbíthatók. A meghosszabbításról a munkáltatói jogkör gyakorlója dönt.
+
+(3) A fegyelmi eljárással összefüggésben lényeges eljárási szabálysértésnek minősül,
+
+a) ha a fegyelmi eljárást nem a fegyelmi jogkör gyakorlója rendeli el,
+
+b) ha a fegyelmi tanács elnökének, valamint a tagjának a jogkörét nem az arra jogosult gyakorolja,
+
+c) ha a 6. § (5) bekezdése szerinti összeférhetetlenségi szabályokat megsértik,
+
+d) ha a 3. §-ban meghatározott értesítési kötelezettséget megsértik,
+
+e) ha olyan kötelezettségszegés miatt szabnak ki fegyelmi büntetést, amelyet a munkáltatói jogkör gyakorlója nem közölt írásban a kormánytisztviselővel a vizsgálat során,
+
+f) ha a fegyelmi tanács nem a zárt ülésén hozza meg a határozatot,
+
+g) ha a fegyelmi tanács zárt ülésén a tanács tagjain és a jegyzőkönyvvezetőn kívül más is részt vesz,
+
+h) ha a fegyelmi határozat nem jelöli meg az elkövetett konkrét kötelezettségszegéseket, illetve a határozat nem tartalmaz indokolást, vagy indokolása nem tartalmazza a tényállás leírását, továbbá
+
+i) ha a vizsgálat során az 5. § (4) bekezdésében foglaltakat nem tartják be.
+
+(4) A fegyelmi eljárás lefolytatásával összefüggő költségeket mindenki maga előlegezi és az államigazgatási szerv viseli. Ha azonban a kormánytisztviselő fegyelmi felelősségét jogerősen megállapították, a kormánytisztviselő viseli az általa indítványozott eljárási cselekmények, illetve a részéről igénybe vett jogi képviselő költségeit. A munkáltatói jogkör gyakorlója méltányosságból mérsékelheti vagy elengedheti a kormánytisztviselőt terhelő költségek viselését.
+
+(5) Ha a fegyelmi eljárás során a vizsgálóbiztos, illetve a fegyelmi tanács tekintetében személycsere válik szükségessé, a munkáltatói jogkör gyakorlójának e rendelet szabályainak megfelelő alkalmazásával kell az új személyeket kijelölnie.
+
+(6) A munkáltatói jogkör gyakorlója – a vizsgálóbiztos javaslatára – a fegyelmi eljárást felfüggesztheti
+
+a) – legfeljebb az akadály megszűnéséig –, ha a kormánytisztviselő önhibáján kívüli okból védekezését az 5. § (7) bekezdésben meghatározottak szerint nem tudja előterjeszteni,
+
+b) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult – legfeljebb az eljárás jogerős befejezéséig –, feltéve, ha enélkül a tényállás nem tisztázható.
+
+Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a munkáltatói jogkör gyakorlója haladéktalanul elrendeli az eljárás folytatását.
+
+(7) A fegyelmi tanács elnöke a fegyelmi eljárást az akadályoztatás okának megszűnéséig felfüggesztheti, ha a kormánytisztviselő tartós akadályoztatása miatt önhibáján kívül nem tud részt venni a tárgyaláson. Ha a felfüggesztés indoka megszűnik, a fegyelmi tanács elnöke haladéktalanul elrendeli az eljárás folytatását.
+
+(8) Ha a kormánytisztviselő elháríthatatlan ok miatt tartósan nem tud munkavégzésre rendelkezésre állni, illetve munkavégzési kötelezettségét teljesíteni, az ok megszűnéséig nem lehet a kormánytisztviselőt a Kttv. 157. § szerint állásából felfüggeszteni.
+
+### 2. Az eljárás megindítása
+
+#### 3. §
+
+A kormánytisztviselőt a fegyelmi eljárás megindításáról – a fegyelmi eljárás megindításával egyidejűleg – a munkáltatói jogkör gyakorlója írásban értesíti. Az írásbeli értesítésnek tartalmaznia kell, hogy mely kötelezettségszegéssel gyanúsítják.
+
+### 3. A vizsgálat
+
+#### 4. §
+
+(1)[^3] A fegyelmi eljárás első szakasza a vizsgálat, amelynek lefolytatására a munkáltatói jogkör gyakorlója az eljárás megindításától számított három munkanapon belül írásban vizsgálóbiztost jelöl ki az államigazgatási szervnek a fegyelmi eljárás alá vontnál magasabb besorolású, ennek hiányában vezetői munkakört betöltő kormánytisztviselői közül. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű vezetői munkakört betöltő kormányzati szolgálati jogviszonyban álló foglalkoztatottjai közül kell kijelölni a vizsgálóbiztost.
+
+(2)[^4] Ha az államigazgatási szervnél az (1) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselő nincs, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közszolgálati életpálya kidolgozásáért felelős miniszter – az (1) bekezdésben foglalt feltételeknek megfelelő kormányzati szolgálati jogviszonyban álló foglalkoztatottját jelölheti ki a vizsgálóbiztosi feladatok ellátására.
+
+(3) Nem lehet vizsgálóbiztos az, akivel szemben a 6. § (5) bekezdés *b)–d)* pontjában meghatározott összeférhetetlenségi ok áll fenn.
+
+(4) Testület által kinevezett kormánytisztviselő fegyelmi ügyében a testület jelöli ki az (1)–(3) bekezdésben foglaltaknak megfelelően a vizsgálóbiztost.
+
+(5) A vizsgálóbiztosnak a vizsgálóbiztosi feladatai ellátásáért külön nem jár díjazás.
+
+#### 5. §
+
+(1) A vizsgálóbiztos a kijelölésétől számított tíz munkanapon belül köteles a vizsgálatot lefolytatni.
+
+(2) A vizsgálat időtartama alatt a munkáltatói jogkör gyakorlója a fegyelmi eljárás tárgyát képező eredeti kötelezettségszegés mellett – az eredeti kötelezettségszegéssel összefüggő – egyéb kötelezettségszegésre is kiterjesztheti a fegyelmi eljárást. A kötelezettségszegést írásban kell közölni a kormánytisztviselővel. Ebben az esetben a (3) és (4) bekezdések megfelelően alkalmazandóak.
+
+(3) A vizsgálat során a vizsgálóbiztos köteles a kötelezettségszegés elkövetésével alaposan gyanúsított kormánytisztviselőt meghallgatni. A vizsgálóbiztos a tényállás tisztázása céljából tanúkat hallgathat meg, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat.
+
+(4) A vizsgálat során a kormánytisztviselővel közölni kell a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait. Módot kell részére adni, hogy azokra észrevételt tehessen és további bizonyítást javasolhasson. Lehetővé kell számára tenni, hogy az ügy iratait megtekinthesse. A kormánytisztviselő védekezéséről, a lefolytatott bizonyításról, valamint arról, ha a kormánytisztviselő valamely eljárási cselekményen nem jelenik meg, jegyzőkönyvet kell felvenni.
+
+(5) Nem akadálya a fegyelmi eljárás lefolytatásának, ha a kormánytisztviselő – a Kttv. 21. § (3) bekezdése szerint közölt értesítés ellenére – nem jelenik meg a (3), illetve a (4) bekezdés szerinti eljárási cselekményen.
+
+(6)[^5] A kormánytisztviselő a vizsgálat folyamán jogi képviselőt vehet igénybe. A kormánytisztviselő kérelmére a fegyelmi eljárás során az államigazgatási szervnél működő munkavállalói érdekképviseleti szerv képviselőjének részvételét, képviseleti jogának gyakorlását lehetővé kell tenni. A kormánytisztviselő meghallgatását úgy kell kitűzni, hogy azon jogi képviselője, valamint – a kormánytisztviselő ilyen irányú kérését követően – az érdekképviseleti szerv képviselője is jelen lehessen.
+
+(7) Ha a kormánytisztviselő meghallgatására tartós akadályoztatása miatt a vizsgálat időtartama alatt nem kerülhet sor, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni, és nyolc napos határidő kitűzésével fel kell szólítani, hogy védekezését terjessze elő. Nem akadálya a fegyelmi eljárás lefolytatásának, ha a kormánytisztviselő védekezését határidőben nem terjeszti elő.
+
+(8) A vizsgálatot – a 2. § (6) bekezdésében foglalt eseteket kivéve – a fegyelmi eljárás megindításától számított hatvan napon belül be kell fejezni.
+
+(9) A vizsgálóbiztos a vizsgálat lezártától számított nyolc napon belül köteles megküldeni az ügy összes iratát saját véleményével ellátva a munkáltatói jogkör gyakorlójának.
+
+(10) A munkáltatói jogkör gyakorlója – a vizsgálóbiztos javaslatára – a vizsgálóbiztos előterjesztésétől számított három munkanapon belül – a Kttv. 155. § (2) bekezdés *a)–e)* pontjai szerinti fegyelmi büntetést a tárgyalás nélkül is kiszabhat, ha
+
+a) a kormánytisztviselő a kötelezettségszegést a vizsgálat során elismeri és a tárgyalásról lemond és
+
+b) a tényállás megítélése egyszerű, valamint
+
+c) a büntetés célja tárgyalás nélkül is elérhető.
+
+### 4. A tárgyalás
+
+#### 6. §
+
+(1) A fegyelmi eljárás második szakasza a tárgyalás, amely során az ügy érdeméről háromtagú fegyelmi tanács határoz.
+
+(2) A fegyelmi tanács elnöke a munkáltatói jogkör gyakorlója.
+
+(3)[^6] A fegyelmi tanács elnöke a vizsgálóbiztos előterjesztésétől számított három munkanapon belül írásban kijelöli a tanács tagjait, akik a fegyelmi eljárás alá vonttal legalább azonos besorolású, illetve vezetői munkakört betöltő kormánytisztviselők lehetnek. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű vezetői munkakört betöltő kormányzati szolgálati jogviszonyban álló foglalkoztatottjai közül kell kijelölni a fegyelmi tanács tagjait.
+
+(4)[^7] Ha az államigazgatási szervnél nincs a (3) bekezdésben foglaltaknak megfelelő kormánytisztviselő, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közszolgálati életpálya kidolgozásáért felelős miniszter – a (3) bekezdésben foglalt feltételeknek megfelelő kormányzati szolgálati jogviszonyban álló foglalkoztatottját jelölheti ki fegyelmi tanácstagnak.
+
+(5) A fegyelmi tanács eljárásában és döntéshozatalában elnökként, tagként, illetve jegyzőkönyvvezetőként nem vehet részt:
+
+a) az ügyben vizsgálatot folytatott vizsgálóbiztos, illetve annak hozzátartozója,
+
+b) az eljárás alá vont kormánytisztviselő hozzátartozója,
+
+c) akit a vizsgálat során mint tanút vagy szakértőt meghallgattak, illetve meghallgatása szükséges, valamint
+
+d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el.
+
+(6)[^8] Ha a munkáltatói jogkör gyakorlójával szemben áll fenn az (5) bekezdés szerinti valamely összeférhetetlenségi ok, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közszolgálati életpálya kidolgozásáért felelős miniszter – saját vezetői munkakört betöltő kormánytisztviselőjét jelöli ki a fegyelmi tanács elnökének.
+
+(7) Testület által kinevezett kormánytisztviselő fegyelmi ügyében a testület gyakorolja a fegyelmi tanács jogkörét vagy – választása szerint – e rendelet szabályaira figyelemmel a testület tagjaiból háromtagú fegyelmi tanácsot alakít. Ez utóbbi esetben a testület a fegyelmi tanács határozatát nem változtathatja meg.
+
+#### 7. §
+
+(1) A fegyelmi tanács a tanács kijelölésétől számított tizenöt napon belül tárgyalást tart. A tárgyalásról jegyzőkönyvet kell vezetni.
+
+(2) A fegyelmi tanács tárgyalását úgy kell kitűzni, hogy arról a felek az értesítést a tárgyalás előtt legalább három munkanappal korábban megkapják.
+
+(3)[^9] A tárgyaláson az államigazgatási szervet az ügy vizsgálóbiztosa képviseli, a kormánytisztviselő jogi képviselőt is igénybe vehet, vagy kérelmére az államigazgatási szervnél működő munkavállalói érdek-képviseleti szerv képviselőjének a részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni.
+
+(4) Ha a kormánytisztviselő vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha a kormánytisztviselőt vagy képviselőjét szabályszerűen értesítették. Az eljárás akkor is lefolytatható, ha a kormánytisztviselő vagy képviselője előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni.
+
+(5) A fegyelmi tanács a tényállás tisztázása céljából tanúkat hallgathat meg, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat.
+
+(6) Amennyiben az ügy a tárgyaláson nem volt tisztázható, további nyolc napon belül újabb tárgyalást kell tartani.
+
+#### 8. §
+
+(1) A fegyelmi tanács – a 2. § (6) és (7) bekezdésekben foglalt eseteket kivéve – az első tárgyalástól számított legkésőbb harminc napon belül, zárt ülésen, szótöbbséggel határoz, döntését indokolt írásbeli határozatba foglalja.
+
+(2) A Kttv. 158. §-ban foglaltak esetén az eljárást megszüntető határozatot kell hozni.
+
+(3) Nem kell fegyelmi büntetést kiszabni, ha a körülményekre tekintettel a legenyhébb fegyelmi büntetés kiszabása is indokolatlan.
+
+## III. Fejezet — A FEGYELMI ELJÁRÁS SZABÁLYAI A KORMÁNYZATI ÜGYKEZELŐK KORMÁNYZATI SZOLGÁLATI JOGVISZONYÁBAN
+
+#### 9. §
+
+(1) A kormányzati ügykezelők kormányzati szolgálati jogviszonyára e rendelet kormánytisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(2) A kormányzati ügykezelők fegyelmi eljárásában a 4. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkáltatói jogkör gyakorlója a vizsgálóbiztost az államigazgatási szervnek a kormánytisztviselői közül jelöli ki.
+
+(3) A kormányzati ügykezelők fegyelmi eljárásában a 6. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a fegyelmi tanács tagjai a munkáltatói jogkör gyakorlója által kijelölt kormánytisztviselők.
+
+## IV. Fejezet[^10]
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+## V. Fejezet — A FEGYELMI ELJÁRÁS SZABÁLYAI A KÖZSZOLGÁLATI JOGVISZONYBAN
+
+#### 13. §
+
+(1) A köztisztviselők, közszolgálati ügykezelők, jegyzők közszolgálati jogviszonyára e rendelet kormánytisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(2)[^11] A 4. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha az ott meghatározottak szerint nincs olyan köztisztviselő, akit ki lehetne jelölni vizsgálóbiztosnak, akkor az önkormányzati képviselő-testület hivatalában a polgármester képviselő-testületi tagot kér fel.
+
+(2a)[^12] Ha nincs a (2) bekezdés szerint felkérhető vizsgálóbiztos, akkor a vizsgálóbiztost az illetékes fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) vezető főispán jelöli ki a kormányhivatal 4. § (1) bekezdésében foglalt feltételeknek megfelelő kormánytisztviselői közül.
+
+(3)[^13] Ha az önkormányzati képviselő-testület hivatalában nincs elegendő, a 6. § (3) bekezdése szerint meghatározott köztisztviselő, a polgármester a képviselő-testület tagjai közül kér fel a fegyelmi tanácsba tagokat.
+
+(3a)[^14] Ha a helyi önkormányzatnál indult fegyelmi eljárásban a munkáltatói jogkör gyakorlójával szemben áll fenn a 6. § (5) bekezdése szerinti valamely összeférhetetlenségi ok, a polgármester a képviselő-testület tagjai közül kéri fel a fegyelmi tanács elnökét.
+
+(3b)[^15] Ha nincs elegendő, a (3) bekezdés szerint a fegyelmi tanácsba felkérhető tag, illetve, ha nincs a (3a) bekezdés szerint felkérhető elnök, akkor a fegyelmi tanács valamennyi tagját – ideértve a fegyelmi tanács elnökét is – az illetékes kormányhivatalt vezető főispán jelöli ki saját vezetői munkakört betöltő kormánytisztviselői közül.
+
+(4) A közszolgálati ügykezelők fegyelmi eljárásában a 4. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkáltatói jogkör gyakorlója a vizsgálóbiztost a közigazgatási szervnek a köztisztviselői közül jelöli ki.
+
+(5) A közszolgálati ügykezelők fegyelmi eljárásában a 6. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a fegyelmi tanács tagjai a munkáltatói jogkör gyakorlója által kijelölt köztisztviselők.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 14. §
+
+(1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+(2) A rendelet szabályait a 2012. március 10-én és azt követően indult fegyelmi eljárásokban kell alkalmazni, függetlenül a kötelezettségszegés elkövetésének időpontjától.
+
+(3)[^16] E rendeletnek a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 516/2013. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit – függetlenül a kötelezettségszegés elkövetésének időpontjától – a Módr. hatálybalépését[^17] követően indult fegyelmi eljárásokban kell alkalmazni.
+
+---
+
+[^1]: Az 1. § a 338/2017. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontját a 671/2020. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^3]: A 4. § (1) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.
+[^4]: A 4. § (2) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 643. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (6) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § (3) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.
+[^7]: A 6. § (4) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 643. § a) pontja szerint módosított szöveg.
+[^8]: A 6. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 643. § a) pontja szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^10]: A IV. fejezetet (10–12. §) a 88/2019. (IV. 23.) Korm. rendelet 114. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^11]: A 13. § (2) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^12]: A 13. § (2a) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^13]: A 13. § (3) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^14]: A 13. § (3a) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^15]: A 13. § (3b) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^16]: A 14. § (3) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^17]: A hatálybalépés időpontja 2014. január 1.

@@ -1,0 +1,238 @@
+---
+title: "192/2011. (IX. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és Kuvait Állam Kormánya között a gazdasági és műszaki együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről"
+identifier: "192/2011. (IX. 22.) Korm. rendelet"
+njt_id: "2011-192-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/192"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-09-22
+in_force_from: 2011-09-23
+last_amended: 2011-09-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-192-20-22"
+retrieved: 2026-10-12
+---
+
+# 192/2011. (IX. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és Kuvait Állam Kormánya között a gazdasági és műszaki együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Kuvait Állam Kormánya között a gazdasági és műszaki együttműködésről szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+GAZDASÁGI ÉS MŰSZAKI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS A MAGYAR KÖZTÁRSASÁG KORMÁNYA ÉS KUVAIT ÁLLAM KORMÁNYA KÖZÖTT
+
+A Magyar Köztársaság Kormánya és Kuvait Állam Kormánya (a továbbiakban: a Szerződő Felek)
+
+felismerve azt, hogy a gazdasági és a műszaki együttműködés a szilárd, hosszú távú kétoldalú kapcsolatok fejlesztésének, valamint a Szerződő Felek és népeik közötti kölcsönös bizalomnak elengedhetetlen és nélkülözhetetlen eleme;
+
+meggyőződve arról, hogy a jelen megállapodás ténylegesen hozzájárul a Szerződő Felek közötti gazdasági kapcsolatok fejlődéséhez, különösen a kölcsönösen előnyös gazdasági, kereskedelmi, műszaki és technológiai együttműködés továbbfejlesztéséhez;
+
+a Szerződő Felek kétoldalú gazdasági és műszaki együttműködésének előmozdítását és további erősítését óhajtva népeik javára;
+
+a Kereskedelmi Világszervezetet létrehozó, 1994. április 15-én aláírt Marrakeshi Egyezmény elvei melletti elkötelezettségüket, valamint a Világszervezettel szembeni kötelezettségeik alapján az abból származó megállapodásaikat figyelembe véve,
+
+az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+A Szerződő Felek megfelelő intézkedések meghozatalával elősegítik a gazdasági és műszaki együttműködés további fejlesztését.
+
+**2. cikk**
+
+Az ebben a megállapodásban említett együttműködési területek többek között elsősorban az alábbiakat foglalják magukban:
+
+1\. Gazdasági, pénzügyi, banki, ipari, turisztikai, szolgáltatási, műszaki, fejlesztési projektek létrehozásának előmozdítása, mezőgazdaság, közlekedés, humánerőforrás-fejlesztés, olaj- és gázipar, vegyipar és petrolkémiai ipar, csomagolástechnika, oktatás, távközlés és információs társadalom, valamint vízgazdálkodás a két ország között.
+
+2\. A műszaki kutatással kapcsolatos információcsere előmozdítása.
+
+3\. A konkrét együttműködési programokhoz szükséges szakemberek cseréjének és képzésének előmozdítása.
+
+4\. Programokkal és projektekkel kapcsolatos információcsere a vállalkozóknak a programok és projektek megvalósításába történő bevonásával.
+
+**3. cikk**
+
+A Szerződő Felek erőfeszítéseket tesznek együttműködésük kiszélesítésére és erősítésére olyan megfelelő lépések megtételével, mint például:
+
+– a kereskedelmi szövetségek, az állami intézmények, a regionális és a helyi szervek, a kamarák közötti kapcsolatok előmozdítása és az együttműködés erősítése, az említett szervezetek képviselőinek látogatása, valamint más gazdasági és műszaki együttműködés elősegítése;
+
+– üzleti információk cseréje, vásárokon és kiállításokon való részvétel ösztönzése, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezése;
+
+– a kis és közepes méretű magánvállalkozások erőteljesebb részvételének előmozdítása a kétoldalú gazdasági kapcsolatokban;
+
+– az együttműködés ösztönzése a tanácsadás, a marketing, a tanácsadói és szakértői szolgáltatások terén, a kölcsönös érdeklődésre számot tartó területeken;
+
+– beruházási tevékenységek, vegyes vállalatok alapításának, vállalati képviseletek és fiókirodák létrehozásának ösztönzése;
+
+– a régiók közötti együttműködés és a nemzetközi szintű együttműködés ösztönzése a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**4. cikk**
+
+A jelen megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok valamelyik Szerződő Felet arra kötelezik, hogy bármelyik nemzetközi, regionális vagy szubregionális megállapodásból vagy más, egészében vagy nagyrészt az adózással, vagy a tőke mozgásával kapcsolatos megállapodásból, vagy az egészében vagy nagyrészt az adózással kapcsolatos hazai jogszabályokból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjessze a másik félre.
+
+**5. cikk**
+
+Szükség esetén a Szerződő Felek konkrét megállapodásokat kötnek a jelen megállapodás alapján a fent említett együttműködési területekkel és más, egymás között esetlegesen egyeztetendő speciális projektekkel kapcsolatban.
+
+**6. cikk**
+
+1\. A jelen megállapodás végrehajtásának biztosítása céljából a Szerződő Felek képviselőinek részvételével Vegyes Bizottság alakul. A Bizottság – közös egyetértés alapján – a Szerződő Felek országaiban felváltva ülésezik. A nemzetközi gazdasági kapcsolatokért felelős magyar minisztérium és Kuvait Állam Pénzügyminisztériumának kijelölt képviselői töltik be a Vegyes Bizottság elnöki tisztét.
+
+2\. A Vegyes Bizottság többek között az alábbi kérdések áttekintésére jogosult:
+
+– a Szerződő Felek közötti gazdasági és műszaki együttműködés ösztönzése és koordinálása;
+
+– a jelen megállapodás végrehajtását, valamint a jelen megállapodásból eredő megállapodások végrehajtását célzó javaslatok támogatása és mérlegelése;
+
+– ajánlások kidolgozása a jelen megállapodással összhangban létrejövő megállapodások vagy projektek végrehajtása során esetlegesen felmerülő akadályok megszüntetése céljából;
+
+– a kétoldalú gazdasági kapcsolatok új fejlesztési lehetőségeinek feltárása.
+
+**7. cikk**
+
+A jelen megállapodás értelmezésével vagy végrehajtásával kapcsolatban a Szerződő Felek között felmerülő viták rendezése békés úton, konzultációk vagy tárgyalások révén történik.
+
+**8. cikk**
+
+A jelen megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek a Magyar Köztársaság európai uniós tagságából fakadnak. Következésképpen jelen megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyar Köztársaságnak az Európai Unió alapját képező Szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából eredő kötelezettségeit.
+
+A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok a Szerződő Feleket arra kötelezik, hogy bármelyik olyan meglévő vagy jövőbeni közös piaci, szabadkereskedelmi, vámuniós vagy hasonló nemzetközi megállapodásból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjesszék a másik félre, amelynek a Szereződő Felek jelenleg tagjai vagy a későbbiekben tagjai lehetnek, mint például Kuvait esetében a GCC.
+
+**9. cikk**
+
+1\. A jelen megállapodás azon a napon lép hatályba, amelyen valamelyik Szerződő Fél utoljára értesíti diplomáciai csatornákon keresztül írásban a másik felet a jelen megállapodás végrehajtásához szükséges alkotmányos követelmények teljesítéséről.
+
+2\. A jelen megállapodás a Szerződő Felek közös egyetértésével módosítható vagy változtatható a Szerződő Felek közötti, diplomáciai csatornákon keresztül történő jegyzékváltás révén. A módosítások vagy a változtatások a 9. cikk 1. bekezdése szerint lépnek hatályba.
+
+3\. A jelen megállapodás öt (5) évig marad érvényben, és hasonló időszakra vagy időszakokra újul meg automatikusan, amennyiben valamelyik Szerződő Fél a jelen megállapodás lejárta előtt legalább hat (6) hónappal nem tájékoztatja írásban a másik felet a jelen megállapodás általa történő megszüntetésének szándékáról.
+
+**10. cikk**
+
+A jelen megállapodás megszüntetése nem befolyásolja a jelen megállapodás alapján kötött illetve végzett konkrét megállapodások, projektek, vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek vagy tevékenységek befejezéséig.
+
+Készült Kuvaitvárosban 1432 H. Safar hó 19-én, ami 2011. január 23-ának felel meg, két eredeti példányban, magyar, arab, és angol nyelven, mindegyik szöveg egyformán hiteles. Eltérés esetén az angol nyelvű szöveg az irányadó.
+
+a Magyar Köztársaság kormánya részéről
+
+Kuvait Állam kormánya részéről
+
+AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF HUNGARY AND THE GOVERNMENT OF THE STATE OF KUWAIT FOR THE ECONOMIC AND TECHNICAL CO-OPERATION
+
+The Government of the Republic of Hungary and the Government of the State of Kuwait (hereinafter referred to as the Contracting Parties).
+
+Recognizing that the economic and technical co-operation is an essential and indispensable component of the development of bilateral relations on a firm, long-term basis and of mutual confidence between the Contracting Parties and their respective peoples;
+
+Convinced that this Agreement will contribute to the development of the economic relations between them in the new reality and in particular to the enhancement of the mutually beneficial economic, trade, technical and technological cooperation.
+
+Desiring to promote and further strengthen their bilateral economic and technical cooperation, in the interest of their peoples;
+
+Taking into account their Commitment to the principles of the Marrakesh Agreement establishing the World Trade Organization signed on 15 April, 1994, and the agreements steming thereof by virtue of their obligations to the Organization,
+
+Have agreed on the following:
+
+**Article (1)**
+
+The Contracting Parties shall promote, by taking proper measures to further develop the economic and technical cooperation.
+
+**Article (2)**
+
+The fields of cooperation mentioned in this agreement include in particular, but are not limited to, the following items:
+
+1\. Encouragement of establishing economic, financial, banking, industrial, touristic, services, technical, development projects, agriculture, transport, human resource development, oil and gas industry, chemical and petrochemical industry, packaging technology, education, telecommunications and information society, and water management between the two countries.
+
+2\. Encouragment of exchange of information relating to technical research;
+
+3\. Encouragment of exchange and training of specialists required for specific cooperation programmes.
+
+4\. Information exchange on programmes and projects through the involvement of entrepreneurs in their implementation.
+
+**Article (3)**
+
+The Contracting Parties shall endeavor to broaden and intensify their cooperation through appropriate means, such as:
+
+– Promoting the links and strengthening the cooperation between the business federation, government institutions, regional and local entities, chambers, and visits of their representatives and other economic and technical cooperation;
+
+– Exchange of business information, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences;
+
+– Promoting stronger participation of small and medium size private sector enterprises in bilateral economic relations;
+
+– Encouraging cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+– Encouraging investment activities, the foundation of joint ventures, establishment of company representations and branch offices;
+
+– Promoting of inter-regional cooperation and cooperation on international level in issues of mutual interest.
+
+**Article (4)**
+
+Nothing in this Agreement shall be construed as to oblige either Contracting Party to extend to the other present or future benefit of any treatment, preference or privilege resulting from any international, regional or sub-regional agreement or other arrangement relating wholly or mainly to taxation, or movement of capital or any domestic legislation relating wholly or mainly to taxation.
+
+**Article (5)**
+
+If deemed necessary, the Contracting Parties shall conclude specific agreements to be based on this Agreement concerning the fields of cooperation referred above and other special projects that may be agreed upon between them.
+
+**Article (6)**
+
+1\. With a view to ensuring the implementation of this Agreement, a Joint Committee shall be established composing of representatives from the Contracting Parties. The Committee shall meet on mutual consent alternately in the countries of the Contracting Parties. The appointed representatives of the Ministry of Finance of the State of Kuwait and the Hungarian Ministry responsible for international economic affairs shall chair the Joint Committee.
+
+2\. The Joint Committee shall have the authority, inter alia, to consider the following:
+
+– Encouraging and coordinating the economic and technical cooperation between the Contracting Parties;
+
+– Promoting and considering proposals aimed at the implementation of this Agreement and those agreements resulting therefrom;
+
+– Working out recommendations for the purposes of removing obstacles that may arise during the execution of any agreement and project that may be established in accordance with this Agreement.
+
+– Identifying new development opportunities for the bilateral economic relations.
+
+**Article (7)**
+
+Any dispute between the Contracting Parties concerning the interpretation or the implementation of this Agreement shall be settled amicably through consultations or negotiations.
+
+**Article (8)**
+
+This Agreement shall in no way prejudice to the obligations of the Republic of Hungary as a member state of the European Union, and is subject to those obligations. Consequently, the provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of the Republic of Hungary arising from the Treaties which the European Union is based on, as well as from the primary and secondary law of the European Union.
+
+Nothing in this Agreement shall be construed as to oblige the Contracting Parties to extend to the other present, or future benefit of any treatment, preference or privilege resulting from any exsting or future common market, free trade area, customs union or similar international agreements to which any of the Contracting Parties is or may become a member, such as the GCC for Kuwait.
+
+**Article (9)**
+
+This Agreement shall enter into force on the date of last notification when a Contracting Party notifies the other in writing through diplomatic channels of the completion of the constitutional requirements necessary for the implementation of this Agreement.
+
+This Agreement may be amended or revised by mutual consent of the Contracting Parties through an exchange of Notes between the Contracting Parties through diplomatic channels. The amendments or revisions shall come into force according to paragraph (1) of Article (9).
+
+This Agreement shall remain in force for a period of five (5) years and shall automatically be renewed for similar period or periods, unless either Contracting Party notifies the other in writing about its intention to terminate this Agreement at least six (6) months prior to its termination.
+
+**Article (10)**
+
+The termination of this Agreement shall not affect the validity or the duration of any specific agreement or projects or activities made under the present Agreement until the completion of such specific agreements, projects or activities.
+
+Done at Kuwait on the 19 of Safar 1432 H; corresponding to the 23 January of 2011, in two originals each, in the Arabic, Hungarian and English languages, all texts being equally authentic. In case of divergency the English text shall prevail.
+
+for the Government of the Republic of Hungary
+
+for the Government of the State of Kuwait
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a megállapodás 9. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtáshoz szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a megállapodás 9. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 26/2011. (X. 7.) KüM határozat alapján a hatálybalépés időpontja 2011. szeptember 27.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a megállapodás 9. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 26/2011. (X. 7.) KüM határozat alapján a hatálybalépés időpontja 2011. szeptember 27.
+[^3]: A 26/2011. (X. 7.) KüM határozat alapján a hatálybalépés időpontja 2011. szeptember 27.
+[^4]: Lásd a 26/2011. (X. 7.) KüM határozatot.

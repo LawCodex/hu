@@ -1,0 +1,222 @@
+---
+title: "261/2010. (XI. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "261/2010. (XI. 17.) Korm. rendelet"
+njt_id: "2010-261-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/261"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-11-17
+in_force_from: 2010-11-18
+last_amended: 2011-12-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-261-20-22"
+retrieved: 2026-10-12
+---
+
+# 261/2010. (XI. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol nyelvű szövege és hivatalos magyar nyelvű fordítása a következő:
+
+„**AGREEMENT**\
+**on Economic Co-operation between**\
+**the Government of the Republic of Hungary and**\
+**the Government of the Syrian Arab Republic**
+
+The Government of the Republic of Hungary and the Government of the Syrian Arab Republic, hereinafter referred to as „the Contracting Parties”,
+
+– Desirous of enhancing the long-standing relationship between their countries,
+
+– Wishing to continue and reinforce their existing traditional economic relations,
+
+– With the intention of developing and intensifying their economic, industrial, technical and technological co-operation on the basis of mutual benefit,
+
+– Convinced that the deepening of the contractual framework establishes favourable conditions and suitable basis for further co-operation,
+
+– Within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations,
+
+have agreed as follows:
+
+**ARTICLE 1**
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, the expansion and diversification of mutually advantageous economic co-operation in all fields relevant to economic and social development.
+
+**ARTICLE 2**
+
+The Contracting Parties, considering the current state and perspectives of economic relations, agree that favourable conditions for long-term co-operation exist, inter alia, in the following areas:
+
+– Agriculture, irrigation, power, industries, health, tourism, education, transport, science and technology, human resource development and environment, in addition to the cooperation in the field of small and medium sized enterprises and many fields of mutual interest.
+
+– The Contracting Parties shall facilitate and promote the participation of each Contracting Party and its companies in the international exhibitions and fairs held by them as well as the national exhibition held on the territory of the other Contracting Party.
+
+**ARTICLE 3**
+
+The Contracting Parties shall endeavour to broaden and intensify their co-operation through appropriate means, such as:
+
+*a)* Promoting the links and strengthening the co-operation between the economic policy-makers, government institutions, professional organizations, business federations, chambers, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their representatives and other economic and technical delegations,
+
+*b)* Exchanging information on development priorities and facilitating the participation of business operators in development projects,
+
+*c)* Expediting the establishment of new contacts and broadening the existing ones between the business circles of the two countries, encouraging the visits, meetings and other interactions between individuals and enterprises,
+
+*d)* Exchanging business information, organizing business events, seminars, symposia and conferences,
+
+*e)* Promoting the stronger participation of small- and medium-size private sector enterprises in bilateral economic relations,
+
+*f)* Encouraging the co-operation in providing consulting, marketing, advisory and expert services in the areas of mutual interest,
+
+*g)* Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their co-operation respectively,
+
+*h)* Encouraging investment activities, the foundation of joint ventures, establishment of company representations and branch offices,
+
+*i)* Promotion of inter-regional co-operation and co-operation on international level in issues of mutual interest.
+
+**ARTICLE 4**
+
+1\. A Joint Commission is hereby established. It shall be convened upon request of each of the Contracting Parties alternatively in Hungary and Syria.
+
+2\. The duties of the Joint Commission shall comprise, in particular, the following:
+
+*a)* Discussion of the development of bilateral economic relations,
+
+*b)* Identifying new possibilities for the further development of future economic co-operation,
+
+*c)* Drawing up suggestions for the improvement of terms for the economic co-operation between enterprises of both countries,
+
+*d)* Making proposals for the application of this Agreement.
+
+3\. Differences of opinion between the Contracting Parties on the application or interpretation of this Agreement are to be settled within the framework of the Joint Commission.
+
+**ARTICLE 5**
+
+This Agreement shall apply without prejudice to the obligations flowing from Hungary's membership in the European Union, and subject to those obligations. Consequently the provisions of the Agreement may not be invoked or interpreted in such a way as to invalidate or otherwise affect the obligations imposed by the Treaty on European Union or by the Co-operation Agreement between the European Economic Community and the Syrian Arab Republic, signed in Brussels on January 18, 1977.
+
+**ARTICLE 6**
+
+1\. This Agreement shall enter into force on the date of receipt of the second written notification whereby the Contracting Parties inform each other that they have completed all national requirements for its entry into force.
+
+2\. This Agreement shall remain in force for an initial period of three years, thereafter it shall be extended for successive one year periods unless either Contracting Party notifies the other, in writing, of its intention to terminate it three months prior expiry.
+
+3\. This Agreement may be amended at any time by written agreement of the Contracting Parties. Any amendment to this Agreement shall enter into force in accordance with paragraph 1.
+
+Done and signed in Budapest, on 20<sup>th</sup> October 2010, in two originals in English language.
+
+*FOR THE GOVERNMENT OF THE REPUBLIC*\
+*OF HUNGARY*
+
+*FOR THE GOVERNMENT*\
+*OF THE SYRIAN ARAB REPUBLIC*
+
+**MEGÁLLAPODÁS**\
+**a Magyar Köztársaság Kormánya és**\
+**a Szíriai Arab Köztársaság Kormánya között**\
+**a gazdasági együttműködésről**
+
+A Magyar Köztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+– attól az óhajtól vezérelve, hogy elmélyítsék az országaik között már régóta fennálló kapcsolatokat,
+
+– kifejezve törekvésüket, hogy fenntartsák és megerősítsék hagyományos gazdasági kapcsolataikat,
+
+– azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék és erősítsék az országaik közötti gazdasági, ipari, műszaki és technológiai együttműködést,
+
+– azzal a meggyőződéssel, hogy a szerződéses keretek elmélyítése kedvező feltételeket és megfelelő alapot teremt a további együttműködéshez,
+
+– a két országban érvényben lévő jogszabályi kereteken belül, és országaik nemzetközi kötelezettségeivel teljes összhangban
+
+az alábbiakban állapodnak meg:
+
+**1. CIKK**
+
+A Szerződő Felek, az érvényben lévő jogszabályi kereteken belül, elősegítik a kölcsönösen előnyös gazdasági együttműködés kibővítését és diverzifikálását a gazdasági és társadalmi fejlődéssel kapcsolatos valamennyi területen.
+
+**2. CIKK**
+
+A Szerződő Felek, gazdasági kapcsolataik jelenlegi helyzetét, illetve kilátásait figyelembe véve, egyetértenek abban, hogy hosszú távú együttműködésre kedvező feltételek, többek között, az alábbi területeken állnak fenn:
+
+– mezőgazdaság, öntözés, energia, különböző iparok, egészségügy, idegenforgalom, oktatás, szállítás, tudomány és technológia, az emberi erőforrások fejlesztése, környezetvédelem, a kis és középvállalkozások együttműködése és sok más, közös érdeklődésre számot tartó terület mellett,
+
+– a Szerződő Felek megkönnyítik és elősegítik mindkét Szerződő Fél, illetve vállalataik részvételét az általuk szervezett nemzetközi kiállításokon és vásárokon, valamint a másik Szerződő Fél területén tartott országos kiállításokon.
+
+**3. CIKK**
+
+A Szerződő Felek arra törekednek, hogy megfelelő eszközök segítségével kiszélesítsék és erősítsék együttműködésüket; ilyen eszközök például
+
+*a)* a gazdaságpolitikusok, a kormányhivatalok, a szakmai szervezetek, az üzleti szövetségek, a kamarák, a regionális és helyi hatóságok közötti kapcsolatok elősegítése, illetve közöttük az együttműködés erősítése, a kölcsönös érdeklődésre számot tartó gazdasági információk cseréje, valamint képviselőik, illetve különböző gazdasági és műszaki delegációk látogatásai,
+
+*b)* a fejlesztési prioritásokkal kapcsolatos információk cseréje, valamint üzleti szakemberek részvétele a fejlesztési projektekben,
+
+*c)* új kapcsolatok létrehozásának előmozdítása, illetve a meglévő kapcsolatok kiszélesítése a két ország üzleti körei között, az egyének, illetve az üzleti vállalkozások közötti látogatások, megbeszélések és egyéb kapcsolatok ösztönzése,
+
+*d)* az üzleti információk cseréje, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezése,
+
+*e)* támogatás nyújtása a magánszektor kis és középvállalkozásainak a bilaterális gazdasági kapcsolatokban való fokozottabb részvételhez,
+
+*f)* a konzultációs, marketing, tanácsadási és szakértői szolgáltatások nyújtásában történő együttműködés ösztönzése a kölcsönös érdeklődésre számot tartó területeken,
+
+*g)* a pénzintézetek és a bankszektor ösztönzése szorosabb kapcsolattartásra, illetve az együttműködés erősítésére,
+
+*h)* a beruházási tevékenység ösztönzése, vegyes vállalatok alapítása, vállalati képviseletek és fiókirodák létesítése,
+
+*i)* a régiók közötti együttműködés, illetve a nemzetközi szintű együttműködés elősegítése a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**4. CIKK**
+
+1\. A Szerződő Felek Vegyes Bizottságot hoznak létre. A Vegyes Bizottság ülésének megtartására a Szerződő Felek valamelyikének kérésére kerül sor, felváltva Magyarországon és Szíriában.
+
+2\. A Vegyes Bizottság feladatait elsősorban az alábbiak jelentik:
+
+*a)* a bilaterális gazdasági kapcsolatok alakulásának megvitatása,
+
+*b)* a jövőbeli gazdasági együttműködés továbbfejlesztésében új lehetőségek meghatározása,
+
+*c)* a két ország üzleti vállalkozásai közötti gazdasági együttműködés feltételeinek javításához javaslatok összeállítása,
+
+*d)* javaslatok kidolgozása a jelen Megállapodás alkalmazásához.
+
+3\. A Szerződő Felek közötti, a jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatos véleménykülönbségeket a Vegyes Bizottság keretein belül kell rendezni.
+
+**5. CIKK**
+
+A jelen Megállapodás nem befolyásolhatja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak, illetve ezen kötelezettségektől függően kell alkalmazni. Következésképpen jelen Megállapodás rendelkezései nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik vagy más módon befolyásolják az Európai Unióról szóló Szerződés szerinti, vagy az Európai Gazdasági Közösség és a Szíriai Arab Köztársaság között Brüsszelben, 1977. január 18-án aláírt Együttműködési Megállapodás szerinti kötelezettségeket.
+
+**6. CIKK**
+
+1\. A jelen Megállapodás azon írásbeli diplomáciai jegyzékek közül a második kézhezvételének napján lép hatályba, amelyben a Szerződő Felek tájékoztatják egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges valamennyi belső jogi lépés teljesítése megtörtént.
+
+2\. Jelen Megállapodás három éves kezdő időtartamra marad hatályban, majd azt követően hatálya további, egymást követő egy éves időszakokra meghosszabbodik mindaddig, amíg a lejárat előtt három hónappal valamelyik Szerződő Fél írásban nem értesíti a másik Szerződő Felet felmondási szándékáról.
+
+3\. A jelen Megállapodást a Szerződő Felek írásbeli egyezmény megkötésével bármikor módosíthatják. A jelen Megállapodás valamennyi módosítása az 1. bekezdésben foglaltakkal összhangban lép hatályba.
+
+Készült és aláírva Budapesten, 2010. október 20-án, két eredeti példányban, angol nyelven.
+
+*A MAGYAR KÖZTÁRSASÁG KORMÁNYA NEVÉBEN*
+
+*A SZÍRIAI ARAB KÖZTÁRSASÁG KORMÁNYA NEVÉBEN*”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 6. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 6. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 24/2012. (V. 8.) KÜM közlemény alapján a hatálybalépés időpontja: 2011. december 13.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 6. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 24/2012. (V. 8.) KÜM közlemény alapján a hatálybalépés időpontja: 2011. december 13.
+[^3]: A 24/2012. (V. 8.) KÜM közlemény alapján a hatálybalépés időpontja: 2011. december 13.
+[^4]: Lásd a 24/2012. (V. 8.) KÜM közleményt.

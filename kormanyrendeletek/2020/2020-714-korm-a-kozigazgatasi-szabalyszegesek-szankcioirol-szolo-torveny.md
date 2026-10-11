@@ -1,0 +1,61 @@
+---
+title: "714/2020. (XII. 30.) Korm. rendelet a közigazgatási szabályszegések szankcióiról szóló törvény végrehajtásáról"
+identifier: "714/2020. (XII. 30.) Korm. rendelet"
+njt_id: "2020-714-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/714"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-30
+in_force_from: 2021-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-714-20-22"
+retrieved: 2026-10-12
+---
+
+# 714/2020. (XII. 30.) Korm. rendelet a közigazgatási szabályszegések szankcióiról szóló törvény végrehajtásáról
+
+A Kormány a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 15. § (1) és (2) bekezdésében – a 3. § (1) bekezdése tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (2) bekezdés 5. pontjában – kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Kormány a Közigazgatási Szankciók Nyilvántartása (a továbbiakban: Nyilvántartás) vezetésére és az ezzel összefüggő adatfeldolgozói feladatok ellátására a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: nyilvántartó szerv) jelöli ki.
+
+## 2. §
+
+(1) A nyilvántartó szerv az adatkezelő számára az adatkezelés megkezdését megelőzően a Nyilvántartáson keresztül igazolja az adatkezelés jogszerűségének és az érintettek jogai védelmének biztosítására alkalmas műszaki és szervezési intézkedések végrehajtására megfelelő garanciák nyújtását.
+
+(2) A nyilvántartó szerv a közigazgatási szankciót alkalmazó hatóság adatfeldolgozójaként
+
+a) a Nyilvántartásba bejegyzett személyes adatokat kizárólag a közigazgatási szankciót alkalmazó hatóság írásbeli utasítása alapján kezeli,
+
+b) tevékenysége során biztosítja azt, hogy a Nyilvántartás vezetésével összefüggő feladatkörében eljáró személyek – ha jogszabályon alapuló megfelelő titoktartási kötelezettség hatálya alatt egyébként nem állnak – az általuk megismert személyes adatok vonatkozásában titoktartási kötelezettséget vállaljanak,
+
+c) meghozza a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 32. cikkében meghatározott intézkedéseket,
+
+d) a közigazgatási szankciót alkalmazó hatóság által előzetesen írásban tett eseti vagy általános felhatalmazása nélkül további adatfeldolgozót nem vehet igénybe,
+
+e) az adatkezelés jellegének figyelembevételével megfelelő technikai és szervezési intézkedésekkel a lehetséges mértékben segíti a közigazgatási szankciót alkalmazó hatóságot abban, hogy az teljesíteni tudja az érintettet az általános adatvédelmi rendelet III. fejezete szerint megillető jogok gyakorlásával összefüggésben fennálló kötelezettségeit,
+
+f) segíti a közigazgatási szankciót alkalmazó hatóságot – az adatkezelés jellegét és a rendelkezésére álló információkat is figyelembe véve – az adatkezelés biztonságára, valamint az esetleges incidensek kezelésére vonatkozó kötelezettségek teljesítésében,
+
+g) az adatfeldolgozói jogviszony megszűnését követően a kezelt személyes adatokkal és azok másolataival kapcsolatban a közigazgatási szankciót alkalmazó hatóság rendelkezése szerint jár el, kivéve, ha törvény vagy az Európai Unió kötelező jogi aktusa a személyes adatok további tárolását írja elő,
+
+h) a közigazgatási szankciót alkalmazó hatóság rendelkezésére bocsát minden olyan információt, amely az adatfeldolgozói jogviszonyban meghatározott kötelezettségek teljesítésének igazolásához szükséges, továbbá amely lehetővé teszi és elősegíti a közigazgatási szankciót alkalmazó hatóság által vagy az általa megbízott személy által végzett ellenőrzéseket, beleértve a helyszíni vizsgálatokat is,
+
+i) haladéktalanul tájékoztatja a közigazgatási szankciót alkalmazó hatóságot arról, ha úgy véli, hogy annak valamely utasítása sérti a személyes adatok védelmére vonatkozó rendelkezéseket.
+
+## 3. §
+
+(1) Az ügyfél részére személyes ügyintézés során, az erre irányuló kérelme alapján, a Nyilvántartásban tárolt rá vonatkozó döntés adatairól vagy arról, hogy rá vonatkozóan a Nyilvántartásban adat nem szerepel, a kormányablak azonnal tájékoztatást nyújt.
+
+(2) A nyilvántartó szerv természetes személy és gazdálkodó szervezet ügyfél részére az elektronikus ügyintézés részletszabályairól szóló kormányrendeletben meghatározott módon hozzáférést biztosít a Nyilvántartás (1) bekezdés szerinti adataihoz, valamint az arra vonatkozó adatokhoz, hogy melyik hatóság mely időpontban kérdezett le a Nyilvántartásból rá vonatkozó adatokat.
+
+## 4. §
+
+Ha hivatalból indított jogorvoslati eljárás vagy rendkívüli perorvoslat eredményeként a Nyilvántartásba bejegyzett szankciót alkalmazó határozat visszavonásra kerül, vagy más szankció kerül alkalmazásra, a közigazgatási szankciót alkalmazó hatóság azonnal intézkedik a Nyilvántartásba bejegyzett adatok törléséről vagy módosításáról.
+
+## 5. §
+
+Ez a rendelet 2021. január 1-jén lép hatályba.

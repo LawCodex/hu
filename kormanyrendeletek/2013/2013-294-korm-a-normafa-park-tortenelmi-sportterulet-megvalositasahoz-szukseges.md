@@ -1,0 +1,127 @@
+---
+title: "294/2013. (VII. 26.) Korm. rendelet a Normafa Park történelmi sportterület megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "294/2013. (VII. 26.) Korm. rendelet"
+njt_id: "2013-294-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/294"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-07-26
+in_force_from: 2013-07-27
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-294-20-22"
+retrieved: 2026-10-12
+---
+
+# 294/2013. (VII. 26.) Korm. rendelet a Normafa Park történelmi sportterület megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d), e) és f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya a következő földrészleteken, illetve ezen földrészletekből a telekalakítási eljárás jogerős befejezését követően kialakított földrészleteken megvalósuló, a Normafa Park történelmi sportterület beruházás (a továbbiakban: Beruházás) megvalósításához szükséges hatósági ügyekre terjed ki:
+
+a)[^1] Budapest Főváros XII. kerület: 6835/19, 6835/11, 6835/21, 6835/22, 8862/1, 8888/3, 9114/4, 9114/5, 9116/3, 9121/21, 9121/22, 9122/1, 9123/1, 9123/2, 9124/3, 9124/4, 9124/5, 9126/4, 9128/3, 9128/4, 9129/6, 9129/7, 9131/2, 9132/1, 9132/2, 9132/3, 9133/6, 9133/7, 9133/8, 9134/3, 9134/4, 9134/5, 9135/3, 9135/4, 9136, 9137, 9138/7, 9138/8, 9139/11, 9139/12, 9139/14, 9139/15, 9140/6, 9140/10, 9140/12, 9144/2, 9145, 9150/4, 9150/5, 9151/5, 9153/1, 9154/2, 9155/3, 9240/1, 9240/2, 9240/4, 9240/14, 9240/16, 9269/35, 9305/3, 9309/1, 9309/2, 9568/1, 9886/1, 9886/14, 10468/1, 10492, 10496/23, 10496/25, 10496/26 10497/6, 10497/7, 10500/3, 10500/5, 10500/6, 10500/7, 10500/8, 10500/9, 10500/10, 10500/11, 10500/12, 10501/6, 10502, 10503/6, 10503/8, 10503/9, 10503/10, 10503/12, 10503/13, 10503/14, 10503/15, 10503/16, 10503/19, 10503/21, 10503/24, 10503/25, 10503/26, 10503/27, 10503/28, 10503/29, 10505/1, 10505/2, 10505/3, 10517/1, 10517/2, 10522, 10523, 10524/1, 10525/1, 10525/2, 10527/2, 10760/3, 10760/6, 10760/10, 10837/3, 10846/5, 10875/2, 10875/3, 10886/53, 10886/66, 10886/67,
+
+b) Budapest Főváros II. kerület: 13143/2
+
+helyrajzi számú területek.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházás megvalósításához szükségesnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a beruházás megvalósításához, használatbavételéhez és működéséhez szükségesek.
+
+(3)[^2] Az (1) bekezdésben meghatározott földrészletek esetében, amennyiben a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény nagy kiterjedésű zöldterületi települési térséget jelöl, ott a településrendezési eszközben beépítésre nem szánt nagy kiterjedésű zöldterületi rekreációs területet kell kijelölni.
+
+## 2. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Beruházás megvalósításával összefüggő, az 1. mellékletben nevesített közigazgatási hatósági ügyeket.
+
+(2) A Kormány az (1) bekezdés szerinti beruházásokkal összefüggő közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
+
+(3)[^3]
+
+## 3. §[^4]
+
+A Kormány a 2. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 4. §
+
+(1)[^5]
+
+(2)[^6] A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(3)[^7] A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap
+
+(4)[^8]
+
+## 4/A. §[^9]
+
+(1) A Budapest Főváros XII. kerület 9568/1 helyrajzi számú telekre, valamint az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg azzal, hogy
+
+a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b) amennyiben a hatályos településrendezési eszközök a beépítés és az egyedi építési követelmények (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési eszközt nem lehet alkalmazni.
+
+(2) A Budapest Főváros XII. kerület 9568/1 helyrajzi számú telekre, valamint az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított telekre meghatározott sajátos beépítési szabályok és az egyedi építési követelmények a következők:
+
+a) a beépítettség megengedett legnagyobb mértéke 20%,
+
+b) a zöldfelület megengedett legkisebb mértéke 60%,
+
+c) az oldalkert mérete 1 méter,
+
+d) a hatályos településrendezési eszköz szerinti szabályozási vonalat nem kell alkalmazni.
+
+## 5. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+## 6. §[^10]
+
+(1) E rendeletnek a tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet, valamint egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló kormányrendeletek módosításáról szóló 229/2014. (IX. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^11] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(2)[^12] Az illetékes vármegyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság a Módr. hatályba lépését[^13] megelőzően nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz.
+
+## 7. §[^14]
+
+(1) E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű ügyekben eljáró hatóságok kijelöléséről szóló kormányrendeletek módosításáról szóló 271/2016. (IX. 1.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^15] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(2)[^16] A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr2. hatálybalépését[^17] megelőzően nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi az illetékes vármegyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.
+
+## 8. §[^18]
+
+E rendeletnek a Normafa Park történelmi sportterület megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 294/2013. (VII. 26.) Korm. rendelet módosításáról szóló 719/2020. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdés a) pontját és (3) bekezdését, 4. § (2) és (3) bekezdését, 4/A. §-át, valamint 1. mellékletében foglalt táblázat A:2–19 mező e) és f) pontját a Módr3. hatálybalépésekor[^19] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^20]
+
+**A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr></thead><tbody><tr><td>**1.**</td><td>**Beruházás megnevezése**</td><td>**A Beruházás megvalósításával kapcsolatos hatósági eljárások**</td><td>**Eljáró hatóság**</td></tr><tr><td>**2.**</td><td rowspan="18">a) Normafa Park történelmi sportterület kialakításához szükséges építmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása;<br>b) A Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése;<br>c) Közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése;<br>d) Fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása;<br>e) Lombkorona Sétány és kiszolgáló létesítmények létesítése, üzembe helyezése;<br>f) Budapest Főváros XII. kerület 9568/1 helyrajzi számú telken megvalósuló ingatlanfejlesztés.</td><td>általános építésügyi és építésfelügyeleti hatósági eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**3.**</td><td>környezetvédelmi hatósági eljárások</td><td>Pest Megyei Kormányhivatal</td></tr><tr><td>**4.**</td><td>természetvédelmi hatósági eljárások</td><td>Pest Megyei Kormányhivatal</td></tr><tr><td>**5.**</td><td>területrendezési hatósági eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**6.**</td><td>útügyi hatósági eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**7.**</td><td>műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**8.**</td><td>hírközlési hatósági eljárások</td><td>Nemzeti Média- és Hírközlési Hatóság Hivatala</td></tr><tr><td>**9.**</td><td>örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**10.**</td><td>földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**11.**</td><td>talajvédelmi hatósági eljárások</td><td>Pest Megyei Kormányhivatal</td></tr><tr><td>**12.**</td><td>erdészeti hatósági eljárások, erdő igénybevétele és fakitermelés bejelentése</td><td>Pest Megyei Kormányhivatal</td></tr><tr><td>**13.**</td><td>vízügyi hatósági eljárások</td><td>illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal</td></tr><tr><td>**14.**</td><td>beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások</td><td>illetékes fővárosi és vármegyei kormányhivatal</td></tr><tr><td>**15.**</td><td>tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások</td><td>illetékes fővárosi és vármegyei kormányhivatal</td></tr><tr><td>**16.**</td><td>jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások</td><td>illetékes fővárosi és vármegyei kormányhivatal</td></tr><tr><td>**17.**</td><td>tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások</td><td>Budapest Főváros Kormányhivatala</td></tr><tr><td>**18.**</td><td>kötött pályás közlekedési létesítmények engedélyezési eljárása</td><td>közlekedésért felelős miniszter</td></tr><tr><td>**19.**</td><td>üzletek működési engedélyezési eljárása</td><td>Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője</td></tr></tbody></table>
+
+## 2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^21]
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 719/2020. (XII. 30.) Korm. rendelet 1. § (1) bekezdése megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 719/2020. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 97. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § a 72/2015. (III. 30.) Korm. rendelet 56. § (1) bekezdésével megállapított, az 546/2022. (XII. 22.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 97. § b) pontja hatályon kívül helyezte.
+[^6]: A 4. § (2) bekezdése a 719/2020. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (3) bekezdését újonnan a 719/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. § (4) bekezdését a 72/2015. (III. 30.) Korm. rendelet 56. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 4/A. §-t a 719/2020. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 6. § a 229/2014. (IX. 5.) Korm. rendelet 141. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2014. szeptember 13.
+[^12]: A 6. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^13]: A hatálybalépés időpontja 2014. szeptember 13.
+[^14]: A 7. §-t a 271/2016. (VIII. 31.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^15]: A hatálybalépés napja 2016. szeptember 9.
+[^16]: A 7. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^17]: A hatálybalépés napja 2016. szeptember 9.
+[^18]: A 8. §-t a 719/2020. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2020. december 31.
+[^20]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 42. §-ával megállapított, a 719/2020. (XII. 30.) Korm. rendelet 5. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 94. és 95. §-a szerint módosított szöveg. [Az 1. mellékletben az 546/2022. (XII. 22.) Korm. rendelet 39. § b) pontja által elrendelt módosítás, amely szerint az 1. mellékletben foglalt táblázat D:13 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, illetve 39. § c) pontja által elrendelt módosítás, amely szerint az 1. mellékletében foglalt táblázat D3, D:4 és D:11, D:12 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép, nem vezethető át.]
+[^21]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 97. § d) pontja hatályon kívül helyezte.

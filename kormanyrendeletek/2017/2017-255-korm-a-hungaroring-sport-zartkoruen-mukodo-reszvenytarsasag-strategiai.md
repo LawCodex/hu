@@ -1,0 +1,161 @@
+---
+title: "255/2017. (IX. 5.) Korm. rendelet a HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "255/2017. (IX. 5.) Korm. rendelet"
+njt_id: "2017-255-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/255"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-09-05
+in_force_from: 2017-09-06
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-255-20-22"
+retrieved: 2026-10-12
+---
+
+# 255/2017. (IX. 5.) Korm. rendelet a HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában kapott felhatalmazás alapján,
+
+a 4. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában kapott felhatalmazás alapján,
+
+a 4. § b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+az 5. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörben eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Mogyoród közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0222/3, 0222/9, 0222/12, 0222/14, 0242/24, 0242/25 és 0242/26 helyrajzi számú ingatlanokon, illetve ezen ingatlanokból telekalakítási eljárás véglegessé válását követően kialakított ingatlanokon, a Stratégiai Fejlesztési Program megvalósításával (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2)[^2] Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákkal kapcsolatosak.
+
+## 2. §[^3]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalt vezető főispánt jelöli ki.
+
+## 2/A. §[^4]
+
+A Kormány az 1. melléklet 3. és 10. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+## 3. §[^5]
+
+Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha a jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – 15 nap.
+
+## 4. §
+
+A Beruházással összefüggésben
+
+a) – a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet hatálya alá tartozó építési tevékenység esetében – a központi építészeti-műszaki tervtanács véleményét be kell szerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni, és
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 4/A. §[^6]
+
+A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság, a szükséges további régészeti előkészítés – megelőző feltárás, régészeti megfigyelés – elvégzésére a Budapesti Történeti Múzeum jogosult.
+
+## 4/B. §[^7]
+
+(1) Az 1. § (1) bekezdése szerinti ingatlanokon a beépítés szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+
+a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b) ha a hatályos településrendezési terv és az OTÉK a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) Az 1. § (1) bekezdése szerinti ingatlanokon az autó-motorsporttal és járművezetéssel összefüggésben oktatási, kutatás-fejlesztési, kereskedelmi, szolgáltató-, rekreációs és szállás rendeltetésű épületek és építmények, továbbá az azokhoz tartozó kiszolgálóhelyiségeket magukba foglaló épületek helyezhetők el.
+
+(3) Az előírt legkisebb zöldfelület mértékébe beszámítandóak a könnyűszerkezetes ideiglenes és állandó lelátók alatti területek.
+
+(4) Az OTÉK 42. §-ában meghatározott, gépjárművek elhelyezésére vonatkozó követelményeket azzal az eltéréssel kell alkalmazni, hogy a gépkocsi-parkolóhelyek kialakításánál az 1. § (1) bekezdése szerinti ingatlanok együttesén létesülő építmények és önálló rendeltetési egységek közül csak az állandó üzemű, épület- és pályaüzemeltetéssel közvetlenül összefüggő területek rendeltetésszerű használatához előírt számú parkolóhelyet kell biztosítani. A kizárólag autó-motorsport versenyekkel és a versenypálya hasznosításával kapcsolatos gépkocsiparkolóhely-igényt a kialakult állapotnak megfelelően ideiglenes parkolóhelyekkel, az 1. § (1) bekezdése szerinti ingatlanokon kívüli területek bevonásával is ki lehet elégíteni, továbbá autóbusz-várakozóhelyet nem kell biztosítani.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 8. §[^9]
+
+E rendeletnek a HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 255/2017. (IX. 5.) Korm. rendelet módosításáról szóló 522/2021. (IX. 6.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (2) bekezdését, 3. §-át, 4/A. és 4/B. §-át a Módr. hatálybalépésekor[^10] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 9. §[^11]
+
+E rendeletnek a HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 255/2017. (IX. 5.) Korm. rendelet módosításáról szóló 125/2023. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. §-át a Beruházással összefüggő, a Módr2. hatálybalépésekor[^12] folyamatban lévő eljárásokban is alkalmazni kell.
+
+## 10. §[^13]
+
+E rendeletnek a beruházásokkal összefüggő kormányrendeletek módosításáról szóló 415/2023. (VIII. 31.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 2/A. §-át és módosított 1. mellékletét a Beruházással összefüggő, a Módr3. hatálybalépésekor[^14] folyamatban lévő eljárásokban is alkalmazni kell.
+
+## 1. melléklet a 255/2017. (IX. 5.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. környezetvédelmi hatósági eljárások, különös tekintettel a zajvédelmi hatósági eljárásokra,
+
+2\. természetvédelmi hatósági eljárások,
+
+3.[^15] általános építésügyi és építésfelügyeleti hatósági eljárások,
+
+4\. területrendezési hatósági eljárások,
+
+5\. vízügyi és vízvédelmi hatósági eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7.[^16] iparbiztonsági hatósági eljárások,
+
+8\. rendészeti hatósági eljárások,
+
+9\. műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. örökségvédelmi hatósági eljárások,
+
+11\. műszaki biztonsági engedélyezési eljárások,
+
+12\. hírközlési hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. földmérési hatósági eljárások,
+
+16\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+17\. erdővédelmi hatósági eljárások,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
+
+20\. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 397. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése az 522/2021. (IX. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 186. § a)-b) pontja, a 125/2023. (IV. 14.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2/A. §-t a 415/2023. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 398. §-a hatályon kívül helyezte, újonnan az 522/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 4/A. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 4/B. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 8. §-t az 522/2021. (IX. 6.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2021. szeptember 7.
+[^11]: A 9. §-t a 125/2023. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2023. április 17.
+[^13]: A 10. §-t a 415/2023. (VIII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A hatálybalépés időpontja 2023. szeptember 3.
+[^15]: Az 1. melléklet 3. pontja a 415/2023. (VIII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.

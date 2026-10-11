@@ -1,0 +1,299 @@
+---
+title: "174/2017. (VI. 30.) Korm. rendelet az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről"
+identifier: "174/2017. (VI. 30.) Korm. rendelet"
+njt_id: "2017-174-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/174"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-06-30
+in_force_from: 2017-07-01
+last_amended: 2025-08-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-174-20-22"
+retrieved: 2026-10-12
+---
+
+# 174/2017. (VI. 30.) Korm. rendelet az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről
+
+A Kormány az anyakönyvi eljárásról szóló 2010. évi I. törvény 94. § a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az anyakönyvvezető és az anyakönyvi szervek
+
+### 1. §
+
+(1) A Kormány anyakönyvvezetőként
+
+a) a polgármestert,
+
+b) a jegyzőt,
+
+c) a polgármesteri hivatal és a közös önkormányzati hivatal köztisztviselőjét,
+
+d) – a (2) bekezdésben foglalt kivétellel – a hivatásos konzuli tisztviselőt,
+
+e)[^1] – a (10) bekezdésben meghatározott esetben – a külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselőjét
+
+f)[^2] – a (11) bekezdésben meghatározott esetben – az eskütételi igazgatási szervet
+
+jelöli ki.
+
+(2)[^3] A hivatásos konzuli tisztviselő nem minősül anyakönyvvezetőnek az anyakönyvi eljárásról szóló 2010. évi I. törvény (a továbbiakban: At.) II. és III. Fejezetében, valamint – a házassági névviselési forma módosítására irányuló eljárás kivételével – IV. Fejezetében meghatározott feladatok esetében, továbbá, ha a nem önálló külképviselet felhatalmazása nem terjed ki anyakönyvezési feladatok ellátására.
+
+(3)[^4]
+
+(4)[^5]
+
+(5)[^6] Az anyakönyvvezető illetékességi területe a kinevezése és megbízása szerinti
+
+a) képviselő-testület hivatalához tartozó fővárosi kerület vagy település, vagy
+
+b) külképviselet
+
+illetékességi területére terjed ki.
+
+(6)[^7] A fővárosi önkormányzat által közvetlenül igazgatott területen történt anyakönyvi esemény anyakönyvezésére a Budapest XIII. kerületi önkormányzat képviselő-testülete hivatalának anyakönyvvezetője illetékes.
+
+(7)[^8] A házasságkötésnél és a bejegyzett élettársi kapcsolat létesítésénél az anyakönyvvezető csak az illetékességi területén járhat el.
+
+(8)[^9] A házasságkötésnél vagy bejegyzett élettársi kapcsolat létesítésénél a település polgármestere kizárólag a település közigazgatási határain belül működhet közre.
+
+(9)[^10] Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása vagy az anyakönyvvezetői feladatokat ellátó személyek hiánya miatt nem láthatóak el, a jegyző kérelmére az anyakönyvi szerv az illetékességi területén működő más anyakönyvvezetőt jelöl ki az anyakönyvi igazgatási feladatok ellátására.
+
+(9a)[^11] A kijelölés feltétele a helyettesítést kérő és a helyettesítő anyakönyvvezetőt biztosító polgármesteri hivatal, közös önkormányzati hivatal munkáltatóinak a helyettesítésről szóló megállapodása (a továbbiakban: Megállapodás). A Megállapodásnak ki kell terjednie a helyettesítés időtartamára, a helyettesítésre kijelölt anyakönyvvezető illetményének, valamint a feladatellátással összefüggő költségeinek a megtérítésére is. A (9) bekezdés szerinti kérelemhez mellékelni kell a Megállapodást és a helyettesítésre felkért anyakönyvvezetőnek a helyettesítést vállaló nyilatkozatát.
+
+(9b)[^12] A helyettesítés eseti vagy legfeljebb hat hónap időtartamra szóló, határozott időtartamú lehet.
+
+(10)[^13] A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője jogosult az anyakönyvi kivonat kiállítására irányuló kérelem esetén eljárni.
+
+(11)[^14] Az eskütételi igazgatási szerv a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben foglalt eskü- és fogadalomtétellel kapcsolatos feladatai ellátása tekintetében jogosult anyakönyvvezetőként eljárni.
+
+(12)[^15] Az eskütételi igazgatási szerv az elektronikus anyakönyvben nyilvántartott valamennyi adatot az At. 84. § (2) bekezdés a) pontjában foglalt adatok megadásával jogosult megtekinteni.
+
+### 2. §
+
+(1) A Kormány az e rendeletben meghatározottak szerint anyakönyvi szervként
+
+a) az anyakönyvi ügyekért felelős minisztert,
+
+b)[^16] a fővárosi és vármegyei kormányhivatalt,
+
+c) a hivatásos konzuli tisztviselőt
+
+jelöli ki.
+
+(2)[^17] E rendelet eltérő rendelkezése hiányában anyakönyvi szervként a fővárosi és vármegyei kormányhivatal jár el.
+
+### 3. §
+
+Az At. 44. § (4) bekezdése szerinti anyakönyvi szervként az anyakönyvi ügyekért felelős miniszter jár el.
+
+### 4. §
+
+(1) A Kormány anyakönyvi szervként
+
+a)[^18] az 5. §-ban meghatározott esetek kivételével a hazai anyakönyvezés végzésére,
+
+b) a névváltoztatási eljárás lefolytatására,
+
+c)[^19] az At. 14. § (2a) bekezdésében meghatározott államok körének a honlapján történő közzétételére,
+
+d)[^20] az elektronikusan benyújtott házassági névviselési forma módosítására irányuló kérelem alapján indult automatikus döntéshozatali eljárás lefolytatására,
+
+e) az anyakönyvvezetőként eljáró hivatásos konzuli tisztviselő felügyeleti szerveként, valamint
+
+f) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendeletben meghatározott feladatokra
+
+Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^21]
+
+(3)[^22]
+
+### 5. §[^23]
+
+(1)[^24] A Kormány az 1. mellékletben meghatározott külképviselet konzuli tisztviselőjét, valamint a felügyelete alatt működő nem önálló külképviselet hivatásos konzuli tisztviselőjét hazai anyakönyvezés végzésére, valamint a házasság vagy bejegyzett élettársi kapcsolat külföldön történt megszűnésére vonatkozó adatváltozás bejegyzésére anyakönyvi szervként jelöli ki, amennyiben a külképviselet felügyelete alá tartozó, nem önálló külképviselet felhatalmazása kiterjed a hazai anyakönyvezési feladatok ellátására.
+
+(2)[^25] A hazai anyakönyvezési eljárást, valamint a házasság vagy bejegyzett élettársi kapcsolat külföldön történt megszűnésére vonatkozó adatváltozás bejegyzésére irányuló eljárást, annak az 1. mellékletben meghatározott külképviseletnek vagy a felügyelete alatt működő, hazai anyakönyvezési feladatokat ellátó nem önálló külképviseletnek a hivatásos konzuli tisztviselője folytatja le, amely külképviseleten a kérelmet benyújtották.
+
+(3) A külpolitikáért felelős miniszter az 1. mellékletben meghatározott külképviselet felügyelete alatt működő, hazai anyakönyvezési feladatokat ellátó nem önálló külképviseleteket közzéteszi.
+
+## 2. Az anyakönyvezéshez szükséges képesítési feltételek
+
+### 6. §
+
+(1) Az anyakönyvezést
+
+a) a polgármester és a jegyző anyakönyvi szakvizsgával vagy a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben az anyakönyvi feladatkörre meghatározott képesítéssel,
+
+b) az anyakönyvi szerv kormánytisztviselője, a polgármesteri hivatal és a közös önkormányzati hivatal köztisztviselője a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben meghatározott képesítéssel,
+
+c)[^26]
+
+d) a hivatásos konzuli tisztviselő anyakönyvi szakvizsgával
+
+láthatja el.
+
+(2)[^27] A felsőoktatásban szerzett közszolgálati szakképzettséggel vagy jogi területen szerzett szakképzettséggel rendelkező, de anyakönyvi szakvizsgával nem rendelkező köztisztviselőt és kormánytisztviselőt a kinevezésekor a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendelet szerint képesítettnek kell tekinteni, azzal, hogy az anyakönyvi szakvizsgát a kinevezésétől számított egy éven belül köteles megszerezni.
+
+(3)[^28] A (2) bekezdésben meghatározott időtartamba nem számít bele
+
+a) a rendkívüli jogrend időtartama, valamint
+
+b) a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség.
+
+(4)[^29] A (2) bekezdésben foglalt határidőt kivételes méltánylást érdemlő esetben egy alkalommal az anyakönyvi ügyekért felelős miniszter meghosszabbíthatja.
+
+## 3. Az utónév utónévjegyzékbe történő felvétele
+
+### 7. §
+
+(1)[^30] Az érintett az általa választott, azonban a magyar utónévjegyzékben (a továbbiakban: utónévjegyzék) nem szereplő utónév utónévjegyzékbe történő felvételét az anyakönyvi szerv által rendszeresített, a 2. mellékletben meghatározott adattartalmú kérelemmel – írásban vagy elektronikus úton – kezdeményezheti.
+
+(2)[^31] A kérelem benyújtható bármely anyakönyvvezetőnél vagy a kijelölt anyakönyvi szervnél.
+
+### 8. §[^32]
+
+(1) Az anyakönyvi szerv a Nyelvtudományi Kutatóközpont megkeresését mellőzi, ha az utónévjegyzékbe felvenni kért utónevet a benyújtást megelőző fél éven belül már kérelmezték.
+
+(2) Az anyakönyvi szerv a kezdeményezés továbbításának mellőzéséről tájékoztatja az érintettet.
+
+## 4. Záró rendelkezések
+
+### 9. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2017. július 1. napján lép hatályba.
+
+(2) A rendelet
+
+a) 1. § (1) bekezdés d) pontja és (2) bekezdése,
+
+b) 2. § c) pontja,
+
+c) 4. § (1) bekezdés e) pontja,
+
+d) 5. §-a,
+
+e) 6. § (1) bekezdés d) pontja és (2) bekezdés c) pontja, valamint
+
+f) 1. melléklete
+
+2017\. október 1. napján lép hatályba.
+
+## 1. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
+
+1\. Bécsi Nagykövetség
+
+2\. Beregszászi Konzulátus
+
+3\. Berlini Nagykövetség
+
+4\. Berni Nagykövetség
+
+5\. Brüsszeli Nagykövetség
+
+6\. Csíkszeredai Főkonzulátus
+
+7\. Dublini Nagykövetség
+
+8\. Düsseldorfi Főkonzulátus
+
+9\. Hágai Nagykövetség
+
+10\. Kolozsvári Főkonzulátus
+
+11\. Koppenhágai Nagykövetség
+
+12\. Londoni Nagykövetség
+
+13\. Madridi Nagykövetség
+
+14\. Milánói Főkonzulátus
+
+15\. Müncheni Főkonzulátus
+
+16\. Oslói Nagykövetség
+
+17\. Párizsi Nagykövetség
+
+18\. Stockholmi Nagykövetség
+
+19\. Stuttgarti Főkonzulátus
+
+20\. Szabadkai Főkonzulátus
+
+21\. Ungvári Főkonzulátus
+
+22.[^34] Manchesteri Főkonzulátus
+
+23.[^35] Innsbrucki Főkonzulátus
+
+24.[^36] Edinburgh-i Főkonzulátus
+
+## 2. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
+
+**Az utónév utónévjegyzékbe történő felvétele iránti kérelem adattartalma[^37]**
+
+1\. Kérelmező
+
+1.1. neve
+
+1.2. lakóhelye
+
+1.3. tartózkodási helye[^38]
+
+1.4. elektronikus levél (e-mail) címe*
+
+2\. Kért utónév
+
+3\. Az utónév női/férfi (A nemnek megfelelően kiválasztandó.)
+
+4\. Kezdeményezés indoka
+
+5\. Az utónév eredete*
+
+6\. Az utónév jelentése*
+
+7\. Keltezés
+
+8\. Kérelmező aláírása
+
+---
+
+[^1]: Az 1. § (1) bekezdés e) pontját a 429/2017. (XII. 20.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés f) pontját a 174/2024. (VII. 7.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (5) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 745/2021. (XII. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (6) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (7) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (8) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (9) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (9a) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^12]: Az 1. § (9b) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^13]: Az 1. § (10) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (3) bekezdése iktatta be.
+[^14]: Az 1. § (11) bekezdését a 174/2024. (VII. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (12) bekezdését a 174/2024. (VII. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 257. §-a szerint módosított szöveg.
+[^17]: A 2. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 257. §-a szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés a) pontja a 745/2021. (XII. 21.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés c) pontja a 745/2021. (XII. 21.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdés d) pontját a 745/2021. (XII. 21.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet 5. § (6) bekezdése iktatta be, szövege a 304/2023. (VII. 11.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^22]: A 4. § (3) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^23]: Az 5. § a 745/2021. (XII. 21.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (1) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^25]: Az 5. § (2) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^26]: A 6. § (1) bekezdés c) pontját a 315/2020. (VII. 1.) Korm. rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^27]: A 6. § (2) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^28]: A 6. § (3) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^29]: A 6. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^30]: A 7. § (1) bekezdése a 212/2025. (VII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^31]: A 7. § (2) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^32]: A 8. § a 212/2025. (VII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^35]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^36]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A 2. melléklet címe a 212/2025. (VII. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^38]: \* Nem kötelező megadni.

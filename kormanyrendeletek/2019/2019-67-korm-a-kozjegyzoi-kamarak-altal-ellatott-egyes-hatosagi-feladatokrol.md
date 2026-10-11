@@ -1,0 +1,117 @@
+---
+title: "67/2019. (IV. 3.) Korm. rendelet a közjegyzői kamarák által ellátott egyes hatósági feladatokról"
+identifier: "67/2019. (IV. 3.) Korm. rendelet"
+njt_id: "2019-67-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/67"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-04-03
+in_force_from: 2019-04-15
+last_amended: 2024-10-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-67-20-22"
+retrieved: 2026-10-12
+---
+
+# 67/2019. (IV. 3.) Korm. rendelet a közjegyzői kamarák által ellátott egyes hatósági feladatokról
+
+A Kormány a közjegyzőkről szóló 1991. évi XLI. törvény 183/A. § a)–d) pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A közjegyzői, közjegyzőjelölti és közjegyzőhelyettesi névjegyzék, valamint a közjegyzői irodai ügyintézők nyilvántartása
+
+### 1. §
+
+A közjegyzői, közjegyzőjelölti és közjegyzőhelyettesi névjegyzéket, valamint a közjegyzői irodai ügyintézők nyilvántartását elektronikusan kell vezetni.
+
+### 2. §
+
+(1) A közjegyzőjelöltként vagy közjegyzőhelyettesként történő névjegyzékbe vétel iránti eljárásban a kérelmezőnek
+
+a) igazolnia kell a névjegyzékbe vételhez szükséges adatokat és tényeket,
+
+b) nyilatkoznia kell arról, hogy nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt, valamint
+
+c) ha a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 26. § (1) bekezdés b) pontjában, valamint (2) bekezdésében foglalt feltételek igazolása céljából a kérelmező kérte, hogy a Kjtv. 17. § (3) bekezdés a)–d) pontjában meghatározott tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére továbbítsa, erre hivatkoznia kell.
+
+(2) A közjegyzői irodai ügyintézők nyilvántartásába való bejegyzés iránti eljárásban a kérelmezőnek
+
+a) igazolnia kell a nyilvántartásba vételhez szükséges adatokat és tényeket, valamint
+
+b) nyilatkoznia kell arról, hogy nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
+
+(3) A közjegyzőhelyettessel, a közjegyzőjelölttel vagy a közjegyzői irodai ügyintézővel szemben a nyilvántartásba vételt követően keletkezett összeférhetetlenség esetén a területi kamara elnöksége a Kjtv. 22. § (3a) bekezdése szerinti összeférhetetlenségről történő miniszteri döntés véglegessé válását követően törli a közjegyzőhelyettest, a közjegyzőjelöltet vagy a közjegyzői irodai ügyintézőt a nyilvántartásból.
+
+## 2. A közjegyzői, közjegyzőjelölti és közjegyzőhelyettesi igazolvány, valamint az elnöki igazolvány
+
+### 3. §
+
+(1) A közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt igazolványa, valamint az elnöki igazolvány ID/1 méretű, laminált műanyag kártya.
+
+(2) Az igazolványokat a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) bocsátja ki, a kibocsátott igazolványokról elektronikus nyilvántartást vezet.
+
+(3) Az igazolványt hivatalból vagy írásbeli kérelemre kell kiadni. Az igazolvány kiadása iránti kérelemhez adatváltozás esetén meg kell jelölni a megváltozott adatot, amelynek beszerzése iránt az országos kamara intézkedik.
+
+(4) Az országos kamara
+
+a) ha új igazolvány kiadásának alapjául szolgáló körülmény bekövetkezéséről tudomást szerez, hivatalból, egyébként kérelem alapján gondoskodik az igazolvány bevonásáról és új igazolvány kiadásáról,
+
+b) a kiállított igazolványt a személyazonosság és az átvétel igazolása mellett az érintettnek átadja,
+
+c) az érvénytelen igazolványt visszavonja, és intézkedik az érvénytelen igazolvány sorszámának, valamint az érvénytelenség tényének a Hivatalos Értesítőben, illetve az országos kamara honlapján történő közzététele iránt.
+
+(5) Az igazolványt a közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt, valamint az országos kamara és a területi kamara elnöke köteles megőrizni és eljárása során magánál tartani. Az igazolvány másra át nem ruházható, letétbe nem helyezhető, biztosítékul nem adható és nem fogadható el.
+
+### 4. §
+
+(1) Az igazolvány érvénytelenné válik, ha a közjegyzői szolgálat megszűnik, az igazságügyért felelős miniszter a közjegyzői kinevezés érvénytelenségét állapítja meg, a közjegyzőhelyettest és a közjegyzőjelöltet törlik a névjegyzékből, az országos kamara vagy a területi kamara elnökének megbízatása lejár, továbbá ha az igazolvány megrongálódott, elveszett, eltulajdonították, vagy megsemmisült. Az érvénytelen igazolványt vissza kell vonni.
+
+(2) A közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt, valamint az országos kamara és a területi kamara elnöke köteles az igazolvány megrongálódását, elvesztését, eltulajdonítását, megsemmisülését és az igazolványban feltüntetett adatokban bekövetkezett változás tényét haladéktalanul, de legkésőbb 5 napon belül bejelenteni az országos kamarának, és ezzel egyidejűleg új igazolvány kiállítását kérni.
+
+(3) Az igazolványt be kell vonni, ha visszavonták, vagy ha az igazolvány adataiban változás következett be. A bevont igazolványt az országos kamara szabályzatában foglaltak szerint meg kell semmisíteni.
+
+## 3. A közjegyzői irodai tagság létesítésének engedélyezése
+
+### 5. §[^1]
+
+A nem közjegyző, közjegyzőhelyettes vagy nyugalmazott közjegyző természetes személy kérelmezőnek a közjegyzői irodai tagság létesítésének engedélyezése iránti eljárásban
+
+a) igazolnia kell, hogy megfelel Kjtv. 31/B. § (5) bekezdés a) pontjában meghatározott követelményeknek, valamint
+
+b) ha a Kjtv. 31/B. § (5) bekezdés b) pontjában foglalt feltételek igazolása céljából a kérelmező kérte, hogy a Kjtv. 17. § (3) bekezdés a)–d) pontjában meghatározott tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére továbbítsa, erre hivatkoznia kell.
+
+## 4. A közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző további munkaviszonyának létesítésével kapcsolatos eljárás
+
+### 6. §
+
+(1) A közjegyzőhelyettes és a közjegyzőjelölt névjegyzékbe vétele, valamint a közjegyzői irodai ügyintéző nyilvántartásba vétele iránti eljárást mindkét munkaviszony tekintetében le kell folytatni.
+
+(2) A területi kamara elnöksége a munkáltatókat és a munkavállalót meghallgathatja. A munkavállaló meghallgatása nem mellőzhető, ha sem a közjegyzőhelyettesek, sem a közjegyzőjelöltek névjegyzékében, sem a közjegyzői irodai ügyintézők nyilvántartásában nem szerepel.
+
+(3) A területi kamara elnöksége a névjegyzékbe, illetve nyilvántartásba vétel iránti eljárás lefolytatása során azt is mérlegeli, hogy a Kjtv., egyéb jogszabályok, valamint az országos kamara iránymutatásai által a munkavállaló alkalmazásával és működésével szemben támasztott követelmények mindkét munkáltatónál történő alkalmazás tekintetében teljesíthetőek-e.
+
+(4) A közjegyzőhelyettesnek az utóbb létesített munkaviszony alapján történő bejegyzés esetén ismételten nem kell esküt tennie.
+
+(5) A bejegyzést a névjegyzékbe, illetve a nyilvántartásba nem külön bejegyzésként kell foganatosítani, hanem a területi kamara elnöksége
+
+a) az utóbb létesült munkaviszony alapján történő bejegyzés esetén a korábbi bejegyzést kiegészítve a munkavállaló adatainál az alkalmazó közjegyző neve, székhelye, valamint szükség esetén az alkalmazás megszűnésének időpontjára, módjára vonatkozó adatokat az utóbb létesített munkaviszonnyal érintett közjegyző tekintetében is feltünteti,
+
+b) egyidejűleg létesített munkaviszonyok esetén egy bejegyzésben tünteti fel a munkavállaló adatainál az alkalmazó közjegyző neve, székhelye, valamint szükség esetén az alkalmazás megszűnésének időpontjára, módjára vonatkozó adatokat mindkét közjegyző tekintetében.
+
+(6) A munkavállalónak a névjegyzékbe, illetve a nyilvántartásba vételkor nyilatkoznia kell, hogy áll-e munkaviszonyban más közjegyzővel, illetve közjegyzői irodával.
+
+(7) A munkaviszony létesítését és megszűnését, illetve megszüntetését az alkalmazó közjegyzők, illetve közjegyzői irodák kötelesek bejelenteni a területi közjegyzői kamarának. Ez a bejelentési kötelezettség a korábban létesült és fennálló munkaviszony tekintetében is fennáll a további munkaviszony létesítése esetén.
+
+## 5. Záró rendelkezések
+
+### 7. §
+
+Ez a rendelet 2019. április 15-én lép hatályba.
+
+### 8. §
+
+E rendelet rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+---
+
+[^1]: Az 5. § nyitó szövegrésze a 276/2024. (IX. 26.) Korm. rendelet 8. §-a szerint módosított szöveg.

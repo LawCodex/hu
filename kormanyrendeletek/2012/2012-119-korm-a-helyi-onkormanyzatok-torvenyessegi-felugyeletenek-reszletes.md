@@ -1,0 +1,378 @@
+---
+title: "119/2012. (VI. 26.) Korm. rendelet a helyi önkormányzatok törvényességi felügyeletének részletes szabályairól"
+identifier: "119/2012. (VI. 26.) Korm. rendelet"
+njt_id: "2012-119-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/119"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-06-26
+in_force_from: 2012-06-27
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-119-20-22"
+retrieved: 2026-10-12
+---
+
+# 119/2012. (VI. 26.) Korm. rendelet a helyi önkormányzatok törvényességi felügyeletének részletes szabályairól
+
+A Kormány a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § a) pontjában, valamint Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés e) pontjában foglalt felhatalmazás alapján az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — A TÖRVÉNYESSÉGI FELÜGYELETI ELJÁRÁS
+
+### 1. A törvényességi felügyeleti eljárás vizsgálati szakasza
+
+#### 1. §
+
+(1)[^1] A vizsgálati szakasz a fővárosi és vármegyei kormányhivatal hivatali hatáskörében tudomására jutott adatok alapján vagy bejelentésre indul meg.
+
+(2)[^2] A vizsgálati szakasz során a fővárosi és vármegyei kormányhivatal által lefolytatott vizsgálat a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 132. § (3)–(5) bekezdéseiben meghatározottakra (a továbbiakban: önkormányzati intézkedés) terjedhet ki.
+
+(3)[^3] Amennyiben a lefolytatott vizsgálat során a fővárosi és vármegyei kormányhivatal jogszabálysértést nem észlel, a vizsgálati szakasz külön döntés meghozatala nélkül lezárul.
+
+(4)[^4] Szükség esetén a fővárosi és vármegyei kormányhivatal a korábban már vizsgált önkormányzati intézkedést új törvényességi felügyeleti eljárás keretében ismételten vizsgálat alá vonhatja.
+
+### 2. A törvényességi felügyeleti eljárás intézkedési szakasza
+
+#### 2. §
+
+(1)[^5] Amennyiben a fővárosi és vármegyei kormányhivatal egy önkormányzati intézkedéssel összefüggésben egy vagy több jogszabálysértést észlel, vagy az Mötv. 132. § (2) bekezdése szerinti érintett (a továbbiakban: érintett) nem tesz eleget a fővárosi és vármegyei kormányhivatal információkérésre irányuló megkeresésének, a fővárosi és vármegyei kormányhivatal haladéktalanul megkezdi a törvényességi felügyeleti eszközök alkalmazását.
+
+(2)[^6] A fővárosi és vármegyei kormányhivatal a törvényességi felügyeleti eszközök közül – a (3) bekezdésben és a 15. § (5) bekezdésében meghatározott kivétellel – elsőként a törvényességi felhívást alkalmazza.
+
+(3)[^7] A fővárosi és vármegyei kormányhivatal törvényességi felhívás kibocsátása nélkül kezdeményezheti az Állami Számvevőszéknél a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását, mellyel egyidejűleg a kezdeményezés másolatát az érintett helyi önkormányzatnak megküldi.
+
+(4)[^8] Amennyiben a törvényességi felhívás nem vezet eredményre, a fővárosi és vármegyei kormányhivatal a jogszabálysértés megszüntetése érdekében más törvényességi felügyeleti eszközt alkalmaz. Ebben az esetben a fővárosi és vármegyei kormányhivatal a jogszabálysértés mielőbbi megszüntetése érdekében egyidejűleg több törvényességi felügyeleti eszközt is alkalmazhat, ha az alkalmazni kívánt törvényességi felügyeleti eszközök jellege azok egyidejű alkalmazását lehetővé teszi.
+
+(5)[^9] A fővárosi és vármegyei kormányhivatal a törvényességi felügyeleti eszközök alkalmazását addig folytatja, ameddig a jogszabálysértés nem kerül megszüntetésre.
+
+(6)[^10] Ha törvény vagy e kormányrendelet másként nem rendelkezik, a fővárosi és vármegyei kormányhivatal a törvényességi felügyeleti eszközt
+
+a) a törvényességi felhívás vagy
+
+b) más törvényességi felügyeleti eszköz alkalmazásának
+
+eredménytelenné válását követő 30 napon belül alkalmazza.
+
+(7)[^11] Amennyiben a fővárosi és vármegyei kormányhivatal elmulasztja a törvényességi felügyeleti eszköz határidőben történő alkalmazását, ismételten törvényességi felhívást bocsát ki.
+
+#### 3. §[^12]
+
+A jogszabálysértés megszűnésével a vizsgált intézkedés alapján indult törvényességi felügyeleti eljárást a fővárosi és vármegyei kormányhivatal lezárja és erről az érintettet 30 napon belül értesíti.
+
+### 3.[^13] [^14] A fővárosi és vármegyei kormányhivatal információkérési és javaslattételi joga
+
+#### 4. §
+
+(1)[^15] A fővárosi és vármegyei kormányhivatal az információkérési jogával összefüggésben jogosult az érintettől iratot bekérni.
+
+(2)[^16] A fővárosi és vármegyei kormányhivatalnak az érintett működésére, szervezetére, döntéshozatali eljárására vonatkozó javaslatát a helyi önkormányzat képviselő-testülete, illetve a társulási tanács – amennyiben a megkeresés más határidőt nem tartalmaz – a soron következő ülésén köteles megtárgyalni, és arról döntést hozni.
+
+(3)[^17] A (2) bekezdésben meghatározott javaslat elutasításának indokát a polgármester, illetve a társulási tanács elnöke köteles a döntést követő 8 napon belül a fővárosi és vármegyei kormányhivatallal ismertetni.
+
+### 4. Kapcsolattartás a törvényességi felügyelet során
+
+#### 5. §[^18]
+
+(1)[^19] A törvényességi felügyeleti eljárás során és az Mötv. 133. § (2) bekezdése szerinti javaslattétel esetén az írásbeli kapcsolattartás – a (2) bekezdésben meghatározott kivétellel – jogszabályban meghatározott informatikai rendszerbe (a továbbiakban: informatikai rendszer) történő feltöltés útján valósul meg. Az információkérés és a szakmai segítségnyújtás során az írásbeli kapcsolattartás papír alapon, elektronikus úton vagy az informatikai rendszerbe történő feltöltéssel valósul meg. Az informatikai rendszerbe történő feltöltéssel az iratot kézbesítettnek kell tekinteni.
+
+(2)[^20] Az Mötv. 132. § (1) bekezdés d), e), g), h) és j) pontjában, továbbá 136. § (2) bekezdésében, valamint 137. és 138. §-ában meghatározott törvényességi felügyeleti eszközök alkalmazásakor az írásbeli kapcsolattartás papír alapon és amennyiben lehetséges tájékoztatásul
+
+a) elektronikus úton vagy
+
+b) az informatikai rendszerbe történő feltöltéssel
+
+történik.
+
+(3) A szóbeli kapcsolattartás módjai a törvényességi felügyeleti eljárás során:
+
+a) személyesen vagy
+
+b) hangkapcsolatot biztosító elektronikus úton, ideértve a telefont.
+
+(4) Az írásbelinek nem minősíthető elektronikus úton történő kapcsolattartás módjai a törvényességi felügyeleti eljárás során:
+
+a) kizárólag elektronikus úton, minősített elektronikus aláírás nélkül vagy
+
+b) rövid szöveges üzenet útján.
+
+(5)[^21] A (3) és (4) bekezdésben meghatározott kapcsolattartási formák kizárólag a fővárosi és vármegyei kormányhivatal információkérési jogával és a szakmai segítségnyújtásával összefüggésben alkalmazhatóak.
+
+(6)[^22] Az informatikai rendszerbe feltöltött iratról a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium, az érintett helyi önkormányzat vagy a törvényességi felügyeleti eljárást lefolytató fővárosi és vármegyei kormányhivatal hitelesített másolatot adhat ki, mely tanúsítja azt, hogy a másolat az informatikai rendszerbe feltöltött irattal mindenben megegyező.
+
+(7) A (6) bekezdés szerinti hitelesített másolaton a másolatot kiadó szerv a következőket tünteti fel:
+
+a) az informatikai rendszerbe történő feltöltés időpontja;
+
+b) a másolat kiadásának időpontja;
+
+c) a másolatot kiadó aláírása;
+
+d) a másolatot kiadó szerv hivatalos bélyegző lenyomata;
+
+e) arra történő utalás, hogy a másolat az eredetivel mindenben megegyező.
+
+### 5. A határidő számítása a törvényességi felügyelet során
+
+#### 6. §
+
+(1) A napokban vagy munkanapokban megállapított határidőbe nem számít bele a közlésnek vagy a kézbesítésnek a napja.
+
+(2) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
+
+(3) Ha a határidő utolsó napja olyan nap, amelyen a munka szünetel, a határidő az azt követő munkanapon jár le.
+
+(4) A postán küldött irat előterjesztési ideje a postára adás napja.
+
+(5) Az elektronikus irat előterjesztésének időpontja az irat elküldésének napja, de az ügyintézési határidő a következő munkanapon kezdődik.
+
+(6) A határidő elmulasztásának jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
+
+(7) A határidőt kétség esetén megtartottnak kell tekinteni.
+
+### 5/A. [^23] Illetékességi szabályok
+
+#### 6/A. §
+
+(1)[^24] A törvényességi felügyeleti eljárást – a (2) bekezdésben foglalt kivétellel – a helyi önkormányzat fekvése szerint illetékes fővárosi és vármegyei kormányhivatal folytatja le.
+
+(2)[^25] Társulások esetén a törvényességi felügyeleti eljárást a társulás székhelye szerint illetékes fővárosi és vármegyei kormányhivatal folytatja le.
+
+(3)[^26] A Kormány az országos nemzetiségi önkormányzat és szervei törvényességi felügyeletére az országos nemzetiségi önkormányzat székhelye szerint illetékes fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+## II. Fejezet — EGYES TÖRVÉNYESSÉGI FELÜGYELETI ESZKÖZÖK RÉSZLETES SZABÁLYAI
+
+### 6. A törvényességi felhívás
+
+#### 7. §[^27]
+
+A törvényességi felhívás tartalmáról
+
+a) települési önkormányzat esetén a polgármester tájékoztatja a képviselő-testületet,
+
+b)[^28] vármegyei önkormányzat esetén a vármegyei közgyűlés elnöke tájékoztatja a közgyűlést,
+
+c) fővárosi önkormányzat esetén a főpolgármester tájékoztatja a közgyűlést,
+
+d)[^29] társulás esetén a társulási tanács elnöke tájékoztatja a társulási tanácsot.
+
+#### 8. §
+
+(1)[^30] A fővárosi és vármegyei kormányhivatal által kibocsátott törvényességi felhívás tartalmazza legalább
+
+a) az érintett által elkövetett jogszabálysértés megjelölését,
+
+b) az érintett által megsértett jogszabályhely konkrét megjelölését;
+
+c) az indokolást, amely miatt a jogszabálysértést megállapíthatónak találja és
+
+d) az érintett számára a jogszabálysértés megszüntetésére biztosított határidőt.
+
+(2) A jogszabálysértés megszüntetésére biztosított határidőt úgy kell megállapítani, hogy a jogellenes állapot mielőbb megszüntetésre kerüljön és a törvényességi felhívásban foglaltak megvizsgálására a megfelelő idő biztosítva legyen.
+
+(3)[^31] A jogszabálysértés megszüntetésére – amennyiben jogszabályi rendelkezésből adódóan eltérő határidő megadása nem szükséges – a fővárosi és vármegyei kormányhivatal
+
+a) jogalkotási kötelezettség elmulasztása esetén legfeljebb 60 napos,
+
+b) határozathozatali és feladat-ellátási kötelezettség elmulasztása esetén legfeljebb 45 napos
+
+határidőt állapíthat meg.
+
+(4) Amennyiben jogszabálysértés megszüntetésére biztosított határidő alatt a jogszabálysértés nem szüntethető meg, a határidő az érintett indokolt kérelmére további 30 nappal meghosszabbítható.
+
+#### 9. §[^32]
+
+A fővárosi és vármegyei kormányhivatal törvényességi felhívása eredménytelen, ha az érintett
+
+a) a törvényességi felhívásban foglalt határidő lejártáig nem tesz intézkedést a jogszabálysértés megszüntetése érdekében,
+
+b) által a törvényességi felhívásban foglaltak alapján tett intézkedés nem szünteti meg a jogszabálysértést, vagy újabb jogszabálysértést idéz elő,
+
+c)[^33] nem ért egyet a törvényességi felhívásban foglaltakkal, és az erről szóló tájékoztatást követően a fővárosi és vármegyei kormányhivatal megítélése szerint a jogszabálysértés továbbra is fennáll,
+
+d)[^34] a törvényességi felhívásban foglalt határidő lejártáig a fővárosi és vármegyei kormányhivatalt nem tájékoztatja.
+
+### 7. [^35] A képviselő-testület és a társulási tanács ülésének összehívása
+
+#### 10. §
+
+(1)[^36] A fővárosi és vármegyei kormányhivatal az Mötv. 135. § (1) bekezdésén alapuló kezdeményezésében megjelöli azokat a napirendi pontokat, amelyek megtárgyalása a helyi önkormányzat, illetve a társulás törvényes működésének biztosítása érdekében indokolt.
+
+(2)[^37] Az Mötv. 135. § (1) bekezdése szerinti ülésről és a helyi önkormányzat, illetve a társulás törvényes működésének biztosítása érdekében hozott intézkedésekről a jegyző, illetve a társulási tanács elnöke az ülést követő öt napon belül a jegyzőkönyv-kivonat megküldésével tájékoztatja a fővárosi és vármegyei kormányhivatalt.
+
+### 8. Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotmánybírósági felülvizsgálat kezdeményezése
+
+#### 11. §[^38]
+
+(1)[^39] A fővárosi és vármegyei kormányhivatal az önkormányzati rendelet alkotmánybírósági felülvizsgálatának kezdeményezése iránti javaslatával kapcsolatos indítvány tervezetet (a továbbiakban: indítvány) – a 2. § (6) bekezdésében meghatározott határidőtől eltérően – 45 napon belül terjeszti elő a miniszternek.
+
+(2)[^40] A miniszter az indítvány kiegészítésére, módosítására hívhatja fel az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és vármegyei kormányhivatalt.
+
+(3)[^41] Az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és vármegyei kormányhivatal – az indítvány megküldését követően – haladéktalanul tájékoztatja a minisztert, ha az Alaptörvénnyel ellentétesnek talált önkormányzati rendeletet hatályon kívül helyezték, vagy oly módon módosították, hogy az a továbbiakban nem minősül Alaptörvénnyel ellentétesnek. Erről a miniszter az alkotmánybírósági eljárás során az Alkotmánybíróságot tájékoztatja.
+
+#### 12. §
+
+(1)[^42] A miniszter tájékoztatja az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és vármegyei kormányhivatalt és az önkormányzati rendeletet megalkotó önkormányzatot, ha a fővárosi és vármegyei kormányhivatal javaslatának megvizsgálását követően a javaslattal nem ért egyet, és ezért nem kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását.
+
+(2) Az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatára indult alkotmánybírósági eljárásban a Kormányt a miniszter képviseli.
+
+### 9. A helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége pótlása
+
+#### 13. §[^43]
+
+A helyi önkormányzat törvényen alapuló jogalkotási kötelezettségének fővárosi és vármegyei kormányhivatal általi pótlásáról a Kúria ezt elrendelő határozatának közlését követően kell gondoskodni.
+
+#### 14. §
+
+(1)[^44] A fővárosi és vármegyei kormányhivatal vezetője által az Mötv. 138. §-a alapján alkotott önkormányzati rendelet módosítását kezdeményezheti az a helyi önkormányzat, amely helyett az önkormányzati rendeletet megalkották.
+
+(2)[^45] A fővárosi és vármegyei kormányhivatal az (1) bekezdés szerinti kezdeményezéssel kapcsolatos döntését – egyet nem értés esetén indokolással ellátva – a kezdeményezés kézhezvételétől számított 30 napon belül megküldi a kezdeményező helyi önkormányzatnak és a miniszternek. Amennyiben a fővárosi és vármegyei kormányhivatal egyetért az (1) bekezdés szerinti kezdeményezéssel, az általa megalkotott önkormányzati rendeletet a döntés meghozatalát követő 60 napon belül módosítja.
+
+(3)[^46] A fővárosi és vármegyei kormányhivatal az Mötv. 138. §-a alapján alkotott önkormányzati rendeletet és az azt módosító, a fővárosi és vármegyei kormányhivatal által megalkotott önkormányzati rendeletet legkésőbb az aláírást követő munkanapon megküldi a Magyar Közlönyben történő kihirdetés céljából az igazságügyért felelős miniszternek.
+
+### 10. Törvényességi felügyeleti bírság megállapítása
+
+#### 15. §
+
+(1)[^47] A törvényességi felügyeleti bírságot (a továbbiakban: bírság) a fővárosi és vármegyei kormányhivatal az Mötv. 141. § (1) bekezdés a)–d) pontjaiban meghatározott kötelezettségszegések esetén – a 2. § (6) bekezdésében meghatározott időponttól eltérően – 45 napon belül határozattal szabja ki.
+
+(2)[^48] A fővárosi és vármegyei kormányhivatal jogosult
+
+a) a bírságot megállapító döntés kézhezvételétől számított 15 napon belül vagy
+
+b)[^49] a bírságot megállapító döntés közigazgatási perben történő megtámadása esetén a közigazgatási per jogerős lezárásáig
+
+a polgármester méltányossági kérelme alapján a bírságot a bírság legkisebb összegéig mérsékelni.
+
+(3)[^50] A bírságot ugyanazon kötelezettség ismételt megszegése esetén a fővárosi és vármegyei kormányhivatal újabb határozattal – törvényességi felhívás kibocsátása nélkül – a legutolsó bírság kiszabásától számított 15 nap elteltével legfeljebb a bírság kiszabásától számított 45. napig ismételten kiszabhatja.
+
+(4)[^51] A bírságot ugyanazon kötelezettség ismételt megszegése esetén a fővárosi és vármegyei kormányhivatal nem szabhatja ki, ha az érintett a bírságot megállapító döntést közigazgatási perben megtámadta.
+
+(5)[^52] Az Mötv. 141. § (1) bekezdés e) pontja szerinti kötelezettségszegés esetén a bírság a törvényességi felhívással korábban jelzett jogszabályi kötelezettség ismételt megsértése esetén – külön törvényességi felhívás kibocsátása nélkül – szabható ki.
+
+#### 15/A. §[^53]
+
+(1)[^54] A bírságot megállapító határozat (a továbbiakban: határozat) – az Mötv. 141. § (5) bekezdésében foglaltakon túlmenően – tartalmazza
+
+a) a határozat végrehajtásával összefüggésben
+
+aa) a bírság teljesítésének határidejét,
+
+ab) a bírság megfizetésének módját és az
+
+ac) önkéntes teljesítés elmaradásának jogkövetkezményeit;
+
+b) a határozat elleni jogorvoslattal összefüggésben a jogorvoslat benyújtásának helyét és határidejét, valamint az eljáró bíróság megnevezését;
+
+c) a döntést megalapozó tényekkel összefüggésben
+
+ca) a megállapított tényállást és az annak alapjául szolgáló bizonyítékokat,
+
+cb) a bírság kiszabásánál figyelembe vett körülmények kifejtését,
+
+cc) azokat a jogszabályhelyeket, amelyek alapján a határozatot hozták, és
+
+cd) a határozatot hozó hatáskörét és illetékességét megállapító jogszabályra történő utalást;
+
+d) a kiadmányozással összefüggésben
+
+da) a döntéshozatal helyét és idejét,
+
+db) a hatáskör gyakorlójának nevét, hivatali beosztását,
+
+dc) a döntés kiadmányozójának nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával és
+
+dd) a döntés kiadmányozójának aláírását és
+
+de) hivatalos bélyegzőlenyomatát.
+
+### 11. Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatásának kezdeményezése
+
+#### 16. §
+
+(1)[^55] A fővárosi és vármegyei kormányhivatal az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatásának kezdeményezésére (a továbbiakban: kezdeményezés) irányuló javaslatát részletes indokolással ellátva és a kapcsolódó iratanyag másolatának megküldésével terjeszti elő a miniszternél.
+
+(2) A miniszter a javaslat megvizsgálását követően dönt a kezdeményezés Kormány elé terjesztéséről.
+
+(3)[^56] Amennyiben a miniszter a javaslattal nem ért egyet, vagy ha a Kormány a kezdeményezést elutasítja, erről a miniszter tájékoztatja a javaslatot tevő fővárosi és vármegyei kormányhivatalt.
+
+(4)[^57] A miniszter tájékoztatja a javaslatot tevő fővárosi és vármegyei kormányhivatalt és az érintett helyi önkormányzatot, ha a Kormány indítványozza az alaptörvény-ellenesen működő képviselő-testület Országgyűlés általi feloszlatását.
+
+(5) Az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatásával kapcsolatos elvi vélemény nyilvánítása iránti alkotmánybírósági eljárásban a Kormányt a miniszter képviseli.
+
+### 12. [^58] A központi költségvetés terhére nyújtott támogatás felülvizsgálatának kezdeményezése
+
+#### 17. §
+
+(1)[^59] A fővárosi és vármegyei kormányhivatal a központi költségvetés terhére a helyi önkormányzatnak nyújtott támogatás felülvizsgálatára irányuló kezdeményezésnek a Magyar Államkincstár vagy a támogató részére történő megküldésével egyidejűleg a kezdeményezésről tájékoztatja a helyi önkormányzatot.
+
+(2)[^60] A Magyar Államkincstár és a támogató a fővárosi és vármegyei kormányhivatal kezdeményezésére a kezdeményezés átvételétől számított 30 napon belül érdemben válaszol.
+
+## III. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 18. §
+
+Ez a rendelet a kihirdetést követő napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 61/2015. (III. 24.) Korm. rendelet 2. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (6) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^13]: A 3. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^14]: A 3. alcím a 127/2013. (IV. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdése a 61/2015. (III. 24.) Korm. rendelet 3. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdése a 61/2015. (III. 24.) Korm. rendelet 3. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^18]: Az 5. § a 492/2013. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. §-át.
+[^19]: Az 5. § (1) bekezdése a 61/2015. (III. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: Az 5. § (2) bekezdés nyitó szövegrésze a 61/2015. (III. 24.) Korm. rendelet 7. § a) és b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (6) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § c) pontja szerint módosított, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^23]: Az 5/A. alcímet (6/A. §) a 492/2013. (XII. 18.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A 6/A. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^25]: A 6/A. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^26]: A 6/A. § (3) bekezdését a 61/2015. (III. 24.) Korm. rendelet 5. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^27]: A 7. § a 492/2013. (XII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^28]: A 7. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^29]: A 7. § d) pontja a 61/2015. (III. 24.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^30]: A 8. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^31]: A 8. § (3) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^32]: A 9. § nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^33]: A 9. § c) pontja a 61/2015. (III. 24.) Korm. rendelet 7. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^34]: A 9. § d) pontja a 61/2015. (III. 24.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^35]: A 7. alcím a 127/2013. (IV. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^36]: A 10. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 6. § d) pontja és 7. § (2) bekezdése, a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^37]: A 10. § (2) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 1. §-ával megállapított, a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^38]: A 11. § a 127/2013. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^39]: A 11. § (1) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^41]: A 11. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^42]: A 12. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 3. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^43]: A 13. § a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^44]: A 14. § (1) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^45]: A 14. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^46]: A 14. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 671. §-a, a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja szerint módosított, a 616/2022. (XII. 29.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^47]: A 15. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^48]: A 15. § (2) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^49]: A 15. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 396. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: A 15. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^51]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 396. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^52]: A 15. § (5) bekezdését a 127/2013. (IV. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^53]: A 15/A. §-t a 127/2013. (IV. 30.) Korm. rendelet 5. §-a iktatta be.
+[^54]: A 15/A. § (1) bekezdés nyitó szövegrésze a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^55]: A 16. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^56]: A 16. § (3) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 6. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^57]: A 16. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^58]: A 12. alcím (17. §) a 61/2015. (III. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^59]: A 17. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^60]: A 17. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.

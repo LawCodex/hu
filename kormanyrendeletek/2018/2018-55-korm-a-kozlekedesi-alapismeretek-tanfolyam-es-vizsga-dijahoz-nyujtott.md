@@ -1,0 +1,147 @@
+---
+title: "55/2018. (III. 23.) Korm. rendelet a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról"
+identifier: "55/2018. (III. 23.) Korm. rendelet"
+njt_id: "2018-55-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/55"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-03-23
+in_force_from: 2018-07-01
+last_amended: 2024-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-55-20-22"
+retrieved: 2026-10-12
+---
+
+# 55/2018. (III. 23.) Korm. rendelet a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *„B” kategóriás közúti járművezetői engedély:* a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 2. mellékletében foglalt, „Nemzetközi kategóriák a 2006/126/EK irányelvnek megfelelően 2013. január 19-től” című táblázat 9. sorában meghatározott, „B” kategóriába sorolt gépjármű vezetésére jogosító engedély;
+
+2\. *közlekedési alapismeretek tanfolyam:* a „B” kategóriás vezetői engedély megszerzéséhez szükséges, a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti elméleti tantárgyhoz kapcsolódó tanfolyam;
+
+3\. *közlekedési alapismeretek vizsga:* a „B” kategóriás vezetői engedély megszerzéséhez szükséges, a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti elméleti vizsga.
+
+## 2. A támogatásra való jogosultság
+
+### 2. §
+
+A közlekedési alapismeretek tanfolyam és közlekedési alapismeretek vizsga díjának megfizetéséhez az állam támogatást (a továbbiakban: támogatás) nyújt. A támogatást az a magyar állampolgár vagy a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a) és c)–h) pontjában meghatározott személy veheti igénybe, aki az e rendelet hatálybalépését követően letett sikeres közlekedési alapismeretek vizsga napján a 20. életévét még nem töltötte be.
+
+### 2/A. §[^1]
+
+A támogatást – a 2. §-ban foglaltakon túl – az a magyar állampolgár vagy a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a) és c)–h) pontjában meghatározott személy is igénybe veheti, aki a sikeres közlekedési alapismeretek vizsga napján a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti csecsemőgondozási díjban, gyermekgondozási díjban vagy a családok támogatásáról szóló törvény szerinti gyermekgondozást segítő ellátásban részesült, feltéve hogy a 2. § alapján a támogatást még nem vette igénybe.
+
+### 3. §
+
+A támogatás mértéke a közlekedési alapismeretek tanfolyam díjának és a sikeres közlekedési alapismeretek vizsga igazgatási szolgáltatási díjának ténylegesen megfizetett összege, de legfeljebb 25 000 forint.
+
+## 3. A támogatás megállapítására irányuló eljárás
+
+### 4. §
+
+(1) A támogatás megállapítására irányuló eljárás írásbeli kérelemre indul. A kérelmet a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságnál (a továbbiakban: NYUFIG) a „B” kategóriás vezetői engedély megszerzéséhez szükséges közlekedési alapismeretek vizsga sikeres letétele napjától számított egy éven belül elektronikus űrlapon vagy formanyomtatványon kell benyújtani.
+
+(2) Az (1) bekezdésben meghatározott határidő jogvesztő.
+
+(3) A támogatás megállapítására irányuló közigazgatási hatósági ügyekben a NYUFIG országos illetékességgel jár el.
+
+(4)[^2] A Magyar Államkincstár (a továbbiakban: Kincstár) a gyermek- és ifjúságpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített elektronikus űrlapot és formanyomtatványt a honlapján közzéteszi.
+
+(5) Az elektronikus űrlap és a formanyomtatvány tartalmazza a kérelmező
+
+a) természetes személyazonosító adatait,
+
+b) lakóhelyét, tartózkodási helyét és elérhetőségét,
+
+c) állampolgárságát,
+
+d) belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlájának számlaszámát,
+
+e) „B” kategóriás vezetői engedélyének megszerzéséhez szükséges sikeres közlekedési alapismeretek vizsga naptári napját,
+
+f) törvényes képviselőjének *a), b)* és *d)* pontokban meghatározott adatait, ha a kérelmező nevében a támogatás megállapítására irányuló kérelmet a törvényes képviseletét ellátó személy nyújtja be.
+
+(6) A kérelmezőnek hitelt érdemlően igazolnia kell a támogatással érintett díjak megfizetését és a megfizetett díj összegét.
+
+(7) A támogatás megállapítására irányuló eljárás költségmentes.
+
+### 5. §
+
+(1)[^3] A támogatás megállapítására irányuló eljárás határideje teljes eljárásban 20 nap.
+
+(2) A támogatás megállapítására irányuló eljárásban a jogosultsági feltételek tekintetében a kérelmező nyilatkozatával a hiányzó bizonyíték nem pótolható.
+
+(3)[^4] A támogatás megállapítására irányuló eljárásban a NYUFIG megkeresi a közlekedési hatóságot annak igazolása céljából, hogy a kérelmező e rendelet hatálybalépését követően sikeresen letette a „B” kategóriás vezetői engedély megszerzésére irányuló tanfolyamhoz kapcsolódó, a 2. § vagy a 2/A. § szerinti vizsgát.
+
+(4) A közlekedési hatóság a NYUFIG megkeresésére a kérelmező vonatkozásában közli a „B” kategóriás vezetői engedély megszerzéséhez szükséges sikeres közlekedési alapismeretek vizsga letételének tényét és a vizsga napját.
+
+### 6. §
+
+(1) A támogatást a NYUFIG a megállapító határozat kiadását követő 13 napon belül a kérelemben megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára utalással folyósítja.
+
+(2) A támogatások fedezetéül szolgáló előirányzat kezelő szerve a Kincstár. A támogatások fedezetét és a kezelésével összefüggő működési költségeket a gyermek- és ifjúságpolitikáért felelős miniszter felügyelete alá tartozó költségvetési fejezetből kell biztosítani.
+
+### 7. §
+
+(1) Ha a támogatás alapjául szolgáló vizsgát a közlekedési hatóság érvénytelenítette, a támogatást vissza kell fizetni, ha erre a NYUFIG az ügyfelet kötelezte.
+
+(2) A vizsga érvénytelenítése esetén – a visszafizetésre kötelezés érdekében – a közlekedési hatóság 15 napon belül tájékoztatja a NYUFIG-ot.
+
+(3) Az (1) és (2) bekezdés, valamint az 5. § (4) bekezdése szerinti adatok átadásának rendjét a közlekedési hatóság és a Kincstár együttműködési megállapodásban határozza meg.
+
+## 3/A.[^5] A támogatásra való jogosultság a középiskolai tanfolyam és vizsga esetén
+
+### 7/A. §
+
+(1) A támogatást igénybe veheti az a közúti közlekedésről szóló törvény szerinti középiskolás járművezető, aki a szakképzésről szóló törvény vagy a nemzeti köznevelésről szóló törvény szerinti online közlekedési alapismeretek és elsősegélynyújtási tanfolyamon és vizsgán azért nem tud részt venni, mert
+
+a) a közlekedési alapismeretek vizsgát és az elsősegélynyújtási vizsgát nemzetiségi nyelvén szeretné letenni,
+
+b) az egészségi állapotából következően – a tanulási képességet vizsgáló magyar szakértői és rehabilitációs bizottság által kiállított szakértői szakvéleménnyel igazoltan – szövegértési vagy szövegolvasási nehézséggel küzd, vagy
+
+c) – szakorvosi igazolással rendelkező – hallássérült személy, aki a magyar jelnyelvet használja.
+
+(2) Az (1) bekezdés szerinti jogosult esetén a támogatás mértéke a közlekedési alapismeretek tanfolyam díjának, a sikeres közlekedési alapismeretek vizsga igazgatási szolgáltatási díjának, az elsősegélynyújtási tanfolyam díjának, valamint az elsősegélynyújtás vizsga díjának ténylegesen megfizetett összege, de legfeljebb 50 000 forint.
+
+### 7/B. §
+
+A 7/A. § szerinti jogosult esetében a 4–7. §-t kell alkalmazni, azzal, hogy
+
+a) a 4. § (4) bekezdése szerinti elektronikus űrlap és formanyomtatvány tartalmazza a kérelmező Magyar Vöröskeresztnél (a továbbiakban: Vöröskereszt) tett elsősegélynyújtási vizsgájának naptári napját,
+
+b) a 7/A. § (1) bekezdés a) pontja esetében a kérelmező igazolja azt, hogy a közlekedési alapismeretek vizsgát és az elsősegélynyújtási vizsgát nemzetiségi nyelven tette le,
+
+c) a 7/A. § (1) bekezdés b) vagy c) pontja esetében a kérelmező igazolja a 7/A. § (1) bekezdés b) vagy c) pontja szerinti körülmény fennállását, valamint
+
+d) a NYUFIG megkeresi a Vöröskeresztet annak igazolása céljából, hogy a jogosult 2024. augusztus 31-ét követően sikeresen letette a Vöröskeresztnél az elsősegélynyújtási vizsgáját, amely a NYUFIG megkeresésére a kérelmező vonatkozásában közli a „B” kategóriás vezetői engedély megszerzéséhez szükséges elsősegélynyújtási vizsgája letételének tényét és a vizsga napját.
+
+## 4. Záró rendelkezések
+
+### 8. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2018. július 1-jén lép hatályba.
+
+(2) A 9. § 2019. január 1-jén lép hatályba.
+
+### 9. §[^6]
+
+E rendeletnek a Gazdaságvédelmi Akcióterv keretében az első sikeres nyelvvizsga, az első emelt szintű idegen nyelvből tett érettségi vizsga, továbbá a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásra való jogosultság családok védelme érdekében történő kiterjesztéséről szóló 146/2020. (IV. 22.) Korm. rendelettel megállapított 2/A. §-a alapján támogatás csak akkor vehető igénybe, ha a támogatás alapjául szolgáló sikeres közlekedési alapismeretek vizsganapra a Módr. hatálybalépését[^7] követően került sor.
+
+---
+
+[^1]: A 2/A. §-t a 146/2020. (IV. 22.) Korm. rendelet 3. §-a iktatta be.
+[^2]: A 4. § (4) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése a 9. § szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 146/2020. (IV. 22.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^5]: A 3/A. alcímet (7/A–7/B. §-t) a 260/2024. (VIII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 146/2020. (IV. 22.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2020. július 1.

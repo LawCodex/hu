@@ -1,0 +1,81 @@
+---
+title: "198/2018. (X. 25.) Korm. rendelet az olvasási képességet érintő fogyatékossággal élő kedvezményezett személyek javára végezhető szabad felhasználás részletes szabályairól"
+identifier: "198/2018. (X. 25.) Korm. rendelet"
+njt_id: "2018-198-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/198"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-10-25
+in_force_from: 2018-10-26
+last_amended: 2024-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-198-20-22"
+retrieved: 2026-10-12
+---
+
+# 198/2018. (X. 25.) Korm. rendelet az olvasási képességet érintő fogyatékossággal élő kedvezményezett személyek javára végezhető szabad felhasználás részletes szabályairól
+
+A Kormány a szerzői jogról szóló 1999. évi LXXVI. törvény 112. § (8) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában:
+
+1\. *Hozzáférhető formátumú példány:* a mű vagy kapcsolódó jogi teljesítmény olyan formátumú példánya, amely az olvasási képességet érintő fogyatékossággal élő személy számára lehetővé teszi a műhöz vagy kapcsolódó jogi teljesítményhez történő, számára annak érzékelését biztosító hozzáférést, különösen oly módon, hogy az a 3. pontban említett valamely fogyatékossággal vagy nehézséggel nem küzdő személyekéhez hasonló szintű kényelem mellett legyen megvalósítható.
+
+2\. *Jogosított szervezet:* olyan szervezet, amelynek bevételszerzési tevékenysége – ha van ilyen – kizárólag a költségeinek megtérítését célozhatja, és a kedvezményezett személyek számára oktatási vagy speciális képzési tevékenységet végez, továbbá hozzáférhető módon olvasási lehetőségeket nyújt, és biztosítja az információkhoz való hozzáférést, és e tevékenység ellátására engedéllyel rendelkezik, vagy e tevékenysége egyébként államilag elismert. Ide tartoznak azok a közintézmények és nonprofit szervezetek is, amelyek ugyanezen szolgáltatásokat fő tevékenységükként, a szervezet számára előírt kötelezettségként vagy közérdekű feladataik ellátása keretében nyújtják a kedvezményezett személyek számára.
+
+3\. *Olvasási képességet érintő fogyatékossággal élő személy (a továbbiakban: kedvezményezett személy):* az a személy,
+
+a) aki vak,
+
+b) akinek látássérülése nem javítható olyan mértékben, hogy látásfunkciója lényegében megegyezzen az ilyen károsodással nem küzdő személyek látásfunkciójával, és aki ennek következtében képtelen nyomtatott műveket az ilyen károsodással nem küzdő személyekkel lényegében megegyező módon olvasni,
+
+c) aki érzékelési vagy olvasási nehézséggel küzd, és ennek következtében képtelen nyomtatott műveket az ilyen nehézséggel nem küzdő személyekkel megegyező módon olvasni, vagy
+
+d) aki fogyatékossága miatt képtelen könyvet tartani vagy lapozni, valamint a szemét olyan mértékben mozgatni vagy fókuszálni, amely az olvasást lehetővé tenné.
+
+## 2. §
+
+(1) A jogosított szervezet a szerzői jogról szóló 1999. évi LXXVI. törvény 41. § (1)–(1f) bekezdéseiben foglalt szabad felhasználás keretében megteszi az ilyen szervezettől az adott helyzetben általában elvárható intézkedéseket annak érdekében, hogy hozzáférhető formátumú példányt kizárólag kedvezményezett személy vagy más jogosított szervezet használhasson fel, és hogy megakadályozza a hozzáférhető formátumú példánynak a szerzői jogról szóló törvényben meghatározott szabad felhasználás körét meghaladó jogellenes felhasználását. Ennek érdekében kétség esetén a kedvezményezett személytől kérheti, hogy az 1. § 3. pontja szerinti állapotát okirattal – így különösen a vakok személyi járadékát megállapító határozattal, fogyatékossági támogatást megállapító határozattal, szakvéleménnyel, szakorvosi igazolással vagy egyéb hatósági bizonyítvánnyal vagy igazolvánnyal – igazolja.
+
+(2) A jogosított szervezet a műveket és más kapcsolódó jogi teljesítményeket, továbbá azok hozzáférhető formátumú példányait az ilyen szervezettől az adott helyzetben általában elvárható gondossággal kezeli, és e tevékenységéről nyilvántartást vezet.
+
+(3) A jogosított szervezet az (1)–(2) bekezdésben foglalt kötelezettségei teljesítéséről legalább évente beszámolót készít, és azt a honlapján nyilvánosan elérhetővé teszi.
+
+## 3. §
+
+(1) A jogosított szervezet a kedvezményezett személy, más jogosított szervezet vagy bármely szerzői vagy kapcsolódó jogi jogosult kérelmére köteles tájékoztatást adni
+
+a) azon művekről és kapcsolódó jogi teljesítményekről, amelyekről hozzáférhető formátumú példánnyal rendelkezik, valamint
+
+b) azon jogosított szervezetekről és elérhetőségükről, amelyektől hozzáférhető formátumú példányt szereztek be, vagy amely részére ilyen példányt juttattak el.
+
+(2)[^1] A jogosított szervezet köteles a nevét, elérhetőségét, valamint az (1) bekezdés a) pontja szerinti információt a Magyar Nemzeti Múzeum Közgyűjteményi Központ részére bejelenteni, továbbá ezek változásáról minden év december 31-ig a Magyar Nemzeti Múzeum Közgyűjteményi Központ részére tájékoztatást adni.
+
+## 4. §
+
+(1)[^2] A Magyar Nemzeti Múzeum Közgyűjteményi Központ nyilvántartást vezet
+
+a) a Magyarországon letelepedett jogosított szervezetekről, valamint
+
+b) a jogosított szervezetek által előállított hozzáférhető formátumú művekről és más kapcsolódó jogi teljesítményekről legalább egy olyan jogosított szervezet megjelölésével, amely ilyen példánnyal rendelkezik.
+
+(2)[^3] A Magyar Nemzeti Múzeum Közgyűjteményi Központ az (1) bekezdés a) pontjában szereplő adatokat minden év április 30-ig az Európai Bizottság rendelkezésére bocsátja, annak központi nyilvánosságra hozatala érdekében.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+(1) Ez a rendelet a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-i (EU) 2017/1564 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) Ez a rendelet a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről szóló, 2017. szeptember 13-i (EU) 2017/1563 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 106/2024. (V. 9.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 106/2024. (V. 9.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 106/2024. (V. 9.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

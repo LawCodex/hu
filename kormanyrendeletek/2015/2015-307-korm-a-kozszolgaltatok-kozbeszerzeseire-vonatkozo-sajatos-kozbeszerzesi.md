@@ -1,0 +1,463 @@
+---
+title: "307/2015. (X. 27.) Korm. rendelet a közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról"
+identifier: "307/2015. (X. 27.) Korm. rendelet"
+njt_id: "2015-307-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/307"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-10-27
+in_force_from: 2015-11-01
+last_amended: 2024-03-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-307-20-22"
+retrieved: 2026-10-12
+---
+
+# 307/2015. (X. 27.) Korm. rendelet a közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról
+
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 4. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+#### 1. §
+
+(1) E rendelet hatálya a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti közszolgáltatói szerződés megkötésére irányuló közbeszerzési eljárásokra terjed ki.
+
+(2)[^1] A közszolgáltatói szerződések megkötésére irányuló közbeszerzési eljárásokra a Kbt. Második és Ötödik Részének szabályait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(3)[^2] E rendeletben foglaltakat megfelelően alkalmazni kell akkor is, ha a közszolgáltatói szerződés megkötésére – ide értve a Kbt. 21. § (2) bekezdését is – a Kbt. Harmadik Részében meghatározott nemzeti eljárásrendben kerül sor, és az ajánlatkérő a Kbt. 112. § (2) bekezdése szerint jár el. Ebben az esetben a Kbt. 114–117. §-ában foglalt eltérő szabályok is alkalmazandók.
+
+(4) E rendelet szabályait nem kell alkalmazni, ha az ajánlatkérő a Kbt. Negyedik Része szerinti koncessziós beszerzési eljárást alkalmaz.
+
+(5)[^3] A közszolgáltatói szerződések megkötésére irányuló közbeszerzési eljárásokra a Kbt. Első és Hatodik Részében foglaltak is alkalmazandóak.
+
+## 2. A közbeszerzési eljárások különös szabályai
+
+### Általános rendelkezések
+
+#### 2. §
+
+(1) A közbeszerzési eljárás lehet:
+
+a) nyílt eljárás,
+
+b) meghívásos eljárás,
+
+c) tárgyalásos eljárás,
+
+d) versenypárbeszéd,
+
+e) innovációs partnerség vagy
+
+f) hirdetmény közzététele nélküli tárgyalásos eljárás.
+
+(2) Tárgyalásos eljárás és versenypárbeszéd az ajánlatkérő választása szerint bármikor alkalmazható. Hirdetmény közzététele nélküli tárgyalásos eljárás csak az e rendeletben meghatározott feltételek fennállása esetén folytatható le. Az innovációs partnerség a Kbt.-ben meghatározott célra alkalmazható.
+
+(3) Az ajánlatkérő az e rendeletben foglalt eltérésekkel alkalmazhatja a Kbt. XVI. Fejezetében szabályozott sajátos beszerzési módszereket is.
+
+(4)[^4] A Kbt. 6–7. §-a szerinti ajánlatkérők közszolgáltató tevékenységük biztosításához szükséges közszolgáltatói szerződések megkötése érdekében központi beszerző szervet hozhatnak létre a Kbt. 31. §-ában foglalt szabályok alkalmazásával. Ebben az esetben a központi beszerző szerv által megvalósított beszerzés az ajánlatkérők közszolgáltató tevékenységének biztosítsa érdekében végzett tevékenységnek minősül. A központi beszerző szerv esetében a Kbt. 10. § (2) és (4) bekezdése nem alkalmazandó.
+
+#### 3. §
+
+(1) Meghívásos és tárgyalásos eljárás esetében az eljárás az ajánlatkérő döntése szerint időszakos előzetes tájékoztatóval is meghirdethető.
+
+(2) Meghívásos és tárgyalásos eljárás, valamint versenypárbeszéd és innovációs partnerség esetén az eljárás az ajánlatkérő döntése szerint előminősítési rendszer létrehozataláról szóló hirdetménnyel (a továbbiakban: előminősítési hirdetmény) is meghirdethető.
+
+(3) A Kbt. 51. §-a, 82. § (3) bekezdése, valamint 86. § (2) bekezdése az e rendelet szerinti eljárások esetében nem alkalmazhatóak.
+
+(4) Az időszakos előzetes tájékoztató közzététele nem jelent kötelezettséget a közbeszerzési eljárás lefolytatására abban az esetben sem, ha a tájékoztató közbeszerzési eljárás meghirdetésére irányult. Ez utóbbi esetben az eljárás megindításának elmaradásáról az ajánlatkérő köteles hirdetményt feladni, valamint értesíteni azon gazdasági szereplőket, amelyek szándéknyilatkozatukat az ajánlatkérőnél benyújtották.
+
+(5) Az előminősítési hirdetmény közzététele nem vonja maga után az abban megadott közbeszerzésre vonatkozó eljárás lefolytatásának kötelezettségét.
+
+#### 4. §
+
+(1) Az ajánlatkérő kérésre az ajánlattevők, illetve a részvételre jelentkezők rendelkezésére bocsátja az általa rendszeresen hivatkozott közbeszerzési műszaki leírásokat, ideértve az időszakos előzetes tájékoztatót tartalmazó hirdetményben hivatkozott közbeszerzési műszaki leírásokat is. A közbeszerzési műszaki leírásokat – a Kbt. 39. § (2) bekezdésében meghatározott esetek kivételével – elektronikus úton, korlátlanul és teljes körűen, térítésmentesen kell a gazdasági szereplők rendelkezésére bocsátani.
+
+(2) Ha az (1) bekezdésben meghatározott közbeszerzési műszaki leírásokat az ajánlatkérő elektronikus úton, korlátlanul és teljes körűen, térítésmentesen hozzáférhetővé tette az ajánlattevők, illetve a részvételre jelentkezők számára, az ajánlatkérőnek elegendő ezen dokumentumokra hivatkoznia.
+
+(3) Az ajánlatkérő köteles megvizsgálni, hogy a beszerzés tárgyának jellege és a szerződéshez kapcsolódó további körülmények lehetővé teszik-e a közbeszerzés egy részére történő ajánlattételt. A részekre történő ajánlattétel lehetőségének biztosítása során a Kbt. 61. § (5) és (6) bekezdése alkalmazandó.
+
+(4) Az ajánlatkérő a közbeszerzési eljárásban az alkalmasság és a kizáró okok igazolásának módjáról szóló jogszabályban meghatározottakon kívül egyéb objektív alapú alkalmassági feltételt és ahhoz tartozó igazolási módot is előírhat, de ennek során is megfelelően alkalmaznia kell a Kbt. 65. § (3) és (5) bekezdésében foglaltakat.
+
+(5) Kutatási és fejlesztési szolgáltatások megrendelése esetében az eljárás eredményéről szóló tájékoztatóban a szolgáltatások jellegére és mennyiségére vonatkozó adatok köre korlátozható. Ha a kutatási és fejlesztési szolgáltatás megrendelésére e rendelet szerinti, nyilvánosan közzétett hirdetménnyel megindított vagy meghirdetett eljárásban került sor, az eljárás eredményéről szóló tájékoztatóban elegendő az eljárást megindító vagy meghirdető felhívásban megadott adatokat közölni. A 15. § (1) bekezdés b) pontja szerinti esetben az eljárás eredményéről szóló tájékoztatóban elegendő a „K+F szolgáltatások” megjelölést alkalmazni.
+
+(6) Az ajánlatkérő a közbeszerzési műszaki leírás megadásával, az alkalmasság megítélésével, az ajánlatok, részvételi jelentkezések elbírálásával, vagy a szerződés megkötésével összefüggésben követelményeket határozhat meg arra vonatkozóan, hogy az általa rendelkezésre bocsátott információk bizalmas jellegét az érintettek megőrizzék. Ez a rendelkezés nem érinti a Kbt. 44. §-ában meghatározott, az üzleti titok védelmére vonatkozó rendelkezések alkalmazhatóságát.
+
+#### 5. §
+
+(1) Az ajánlatkérő kizárhatja az eljárásból azt az ajánlattevőt is, aki árubeszerzés esetében ajánlatában – az áruk összértéke tekintetében – 50%-ot meghaladóan olyan származású árut ajánl, amely számára nem kell nemzeti elbánást nyújtani.
+
+(2) Árubeszerzés esetében, ha az értékelési szempont szerinti értékelés során több ajánlat azonos, az ajánlatkérő köteles előnyben részesíteni azt az ajánlatot, amely – az áruk összértéke tekintetében – 50%-ot elérően vagy meghaladóan olyan származású árut ajánl, amely számára nemzeti elbánást kell nyújtani.
+
+(3) Az (1) és (2) bekezdés alkalmazásában
+
+a) azonosnak minősül az előnyben részesítendő ajánlat, ha az árkülönbözet – az (1) bekezdés szerinti, előnyben nem részesítendő ajánlat árához képest – nem haladja meg a 3%-ot;
+
+b) az elektronikus hírközlő hálózati berendezésekben használt szoftvereket árunak kell tekinteni.
+
+(4)[^5] A (2) bekezdés szerinti esetben az eljárás nyertese az előnyben részesített ajánlatot tevő, ha pedig több előnyben részesítendő ajánlat van, az az ajánlattevő, amelynek ajánlata alacsonyabb árat tartalmaz. Azonos árajánlat esetében – a Kbt. 77. § (5) bekezdésének megfelelően – az eljárás nyertese az az ajánlattevő, akinek az ajánlata a nem egyenlő értékelési pontszámot kapott szempontok közül a legmagasabb súlyszámú szempontra nagyobb értékelési pontszámot kapott.
+
+(5) Az ajánlatkérőnek nem kell alkalmaznia a (2) bekezdést, ha az ajánlat előnyben részesítése azzal a következménnyel járna, hogy műszaki-technikai szempontból eltérő és nem illeszkedő dolgokat kellene beszerezni, vagy az ilyen beszerzés aránytalan műszaki-technikai nehézséget eredményezne a működtetésben és a fenntartásban vagy aránytalan költségtöbblettel járna.
+
+### Nyílt eljárás
+
+#### 6. §
+
+Ha az ajánlatkérő az ajánlati felhívást tartalmazó hirdetmény feladásának napját legalább harmincöt nappal megelőzően, de legfeljebb tizenkét hónapon belül időszakos előzetes tájékoztatót tartalmazó hirdetményt adott fel, és az tartalmazta az időszakos előzetes tájékoztatót tartalmazó hirdetmény mintája szerinti, a tájékoztatót tartalmazó hirdetmény feladásának időpontjában rendelkezésre álló adatokat is, a nyílt eljárásban harmincöt napnál rövidebb ajánlattételi határidőt is meg lehet határozni. Ebben az esetben az ajánlattételi határidő nem lehet rövidebb az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított tizenöt napnál.
+
+### Meghívásos és tárgyalásos eljárás
+
+#### 7. §
+
+(1) A meghívásos és a tárgyalásos eljárásban a részvételi határidőt a részvételi felhívás feladásának napjától számított legalább harminc napban kell meghatározni. A részvételi határidő sürgősség esetében sem határozható meg tizenöt napnál rövidebb időtartamban. A Kbt. 83. § (2) bekezdése szerinti gyorsított eljárás nem alkalmazható.
+
+(2) Az ajánlattételi határidőt az ajánlatkérő és az alkalmasnak minősített részvételre jelentkezők megállapodásban rögzíthetik, feltéve, hogy valamennyi kiválasztott részvételre jelentkezőnek azonos időtartam áll rendelkezésére az ajánlat összeállítására és benyújtására.
+
+(3) Ha a (2) bekezdés értelmében az ajánlatkérő és az alkalmasnak minősített részvételre jelentkezők nem tudnak megállapodni az ajánlattételi határidőben, az ajánlattételi határidőt az ajánlatkérő állapítja meg, azzal, hogy az nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított tíz napnál.
+
+(4) A (2) bekezdés szerinti megállapodásban az ajánlatkérő és az alkalmasnak minősített részvételre jelentkezők tíz napnál rövidebb ajánlattételi határidőt is megállapíthatnak, azzal, hogy a határidőt úgy kell megállapítani, hogy elegendő idő álljon rendelkezésre az ajánlatok elkészítéséhez.
+
+(5) Ha az ajánlatkérő egyes közbeszerzési dokumentumok esetében nem biztosítja a Kbt. 39. § (2) bekezdése szerint a teljes körű, korlátlan, elektronikus hozzáférést, az ajánlattételi határidőt a (3) bekezdésben foglaltaknál öt nappal hosszabb időtartamban kell meghatározni, kivéve, ha az ajánlatkérő és az alkalmasnak minősített részvételre jelentkezők a (2) bekezdésben foglaltak szerint más határidőben állapodnak meg.
+
+(6) Az ajánlatkérő a részvételi felhívásban – a 8. §-ban foglalt esetben az időszakos előzetes tájékoztatóban vagy a közvetlen részvételi felhívásban – keretszámot határozhat meg arra vonatkozóan, hogy a részvételre jelentkezők közül az eljárás második szakaszában legfeljebb e keretszám felső határáig terjedő számú alkalmas, egyben érvényes jelentkezést benyújtó részvételre jelentkezőnek küld majd ajánlattételi felhívást. A keretszámnak minden esetben biztosítania kell a valódi versenyt.
+
+(7) Az ajánlatkérő a (6) bekezdésben meghatározotton kívül egyéb objektív alapú szabályokat és szempontokat is alkalmazhat az ajánlattételre, illetve tárgyalásra meghívandó részvételre jelentkezők számának csökkentésére, azzal, hogy annak során minden esetben biztosítania kell a valódi versenyt.
+
+### Időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás
+
+#### 8. §
+
+(1) A 3. § (1) bekezdése szerinti, időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás esetében a hirdetmények mintájáról és egyes tartalmi elemeiről szóló jogszabályban meghatározott minta szerinti tartalommal kell elkészíteni és közzétenni az időszakos előzetes tájékoztatót tartalmazó hirdetményt, amelyben meg kell jelölni
+
+a) a szerződés pontos tárgyát, úgy, hogy az alapján a gazdasági szereplők meg tudják ítélni, hogy az eljárásban részt kívánnak-e venni,
+
+b) azt a tényt, hogy az ajánlatkérő időszakos előzetes tájékoztatót tartalmazó hirdetménnyel megindított meghívásos vagy tárgyalásos eljárást alkalmaz, amelyben az érdeklődésüket kifejező gazdasági szereplők számára a részvételi felhívást közvetlenül küldi meg,
+
+c) azt a határidőt, amely időpontig a gazdasági szereplők érdeklődésüket kifejező írásbeli nyilatkozatot (a továbbiakban: szándéknyilatkozat) nyújthatnak be,
+
+d) a gazdasági szereplőknek szóló felhívást, hogy a meghatározott határidőig szándéknyilatkozatukat nyújtsák be, és
+
+e) az eljárás (eljárások) indításának tervezett napját.
+
+(2) Az (1) bekezdésben meghatározott esetben az ajánlatkérő a részvételi felhívást nem teszi hirdetményben közzé, hanem egyidejűleg és közvetlenül küldi meg azon gazdasági szereplőknek, amelyek az előírt határidőben szándéknyilatkozatukat az ajánlatkérőnél benyújtották és felhívja őket szándéknyilatkozatuk megerősítésére (a továbbiakban: közvetlen részvételi felhívás). Az eljárás a közvetlen részvételi felhívás megküldésével indul.
+
+(3)[^6] A közvetlen részvételi felhívást legkorábban az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított harmincöt nap, legkésőbb az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított tizenkét hónapon belül lehet megküldeni. A Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások esetén az időszakos előzetes tájékoztató által érintett időszak tizenkét hónapnál hosszabb is lehet.
+
+(4) A – szándéknyilatkozatok megerősítését tartalmazó részvételi jelentkezések benyújtására meghatározott – részvételi határidő 7. § (1) bekezdésében előírt minimális időtartama a közvetlen részvételi felhívás megküldésének napjától számítandó.
+
+(5) A közvetlen részvételi felhívás tartalmára a Kbt. 50. § (2) bekezdésének a részvételi felhívásra vonatkozó rendelkezései megfelelően alkalmazandóak, azzal, hogy annak – a Kbt. 50. § (3) bekezdésére tekintettel – hivatkozást kell tartalmaznia a közzétett időszakos előzetes tájékoztatóra és közzétételének napjára, valamint a közvetlen részvételi felhívás megküldésének napját. Az ajánlattételi felhívásnak is tartalmaznia kell hivatkozást a közzétett időszakos előzetes tájékoztatóra és közzétételének napjára.
+
+(6) A 7. § (1)–(5) bekezdése megfelelően alkalmazandó.
+
+(7) Az ajánlatkérő az eljárás eredményéről szóló tájékoztatóban feltünteti, ha az időszakos előzetes tájékoztatóban meghatározott időszak alatt további szerződést nem kíván kötni.
+
+### Versenypárbeszéd
+
+#### 9. §
+
+(1) A versenypárbeszédben a részvételi határidőt a részvételi felhívás feladásának napjától számított legalább harminc napban kell meghatározni. A részvételi határidő sürgősség esetében sem határozható meg tizenöt napnál rövidebb időtartamban. A Kbt. 83. § (2) bekezdése szerinti gyorsított eljárás nem alkalmazható.
+
+(2) Az ajánlatkérő a részvételi felhívásban keretszámot határozhat meg arra vonatkozóan, hogy a részvételre jelentkezők közül az eljárás párbeszéd szakaszában legfeljebb e keretszám felső határáig terjedő számú alkalmas, egyben érvényes jelentkezést benyújtó részvételre jelentkezőnek küld majd ajánlattételi felhívást. A keretszámnak minden esetben biztosítania kell a valódi versenyt.
+
+(3) Az ajánlatkérő a (2) bekezdésben meghatározotton kívül egyéb objektív alapú szabályokat és szempontokat is alkalmazhat az eljárás párbeszéd szakaszára meghívandó részvételre jelentkezők számának csökkentésére, azzal, hogy annak során minden esetben biztosítania kell a valódi versenyt.
+
+### Innovációs partnerség
+
+#### 10. §
+
+(1) Az innovációs partnerségben a részvételi határidőt a részvételi felhívás feladásának napjától számított legalább harminc napban kell meghatározni. A részvételi határidő sürgősség esetében sem határozható meg tizenöt napnál rövidebb időtartamban. A Kbt. 83. § (2) bekezdése szerinti gyorsított eljárás nem alkalmazható.
+
+(2) Az ajánlatkérő a részvételi felhívásban keretszámot határozhat meg arra vonatkozóan, hogy a részvételre jelentkezők közül az eljárás ajánlattételi szakaszában legfeljebb e keretszám felső határáig terjedő számú alkalmas, egyben érvényes jelentkezést benyújtó részvételre jelentkezőnek küld majd ajánlattételi felhívást. A keretszámnak minden esetben biztosítania kell a valódi versenyt.
+
+(3) Az ajánlatkérő a (2) bekezdésben meghatározotton kívül egyéb objektív alapú szabályokat és szempontokat is alkalmazhat az ajánlattételre meghívandó részvételre jelentkezők számának csökkentésére, azzal, hogy annak során minden esetben biztosítania kell a valódi versenyt.
+
+### Előminősítési hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás, versenypárbeszéd, illetve innovációs partnerség
+
+#### 11. §
+
+(1) A meghívásos vagy a tárgyalásos eljárás, a versenypárbeszéd, illetve az innovációs partnerség meghirdetésére előminősítési hirdetmény is közzétehető. Hirdetmény nélküli tárgyalásos eljárás esetében előminősítési hirdetmény nem alkalmazható.
+
+(2) Ha az ajánlatkérő az eljárást előminősítési hirdetménnyel hirdette meg, a meghívásos vagy a tárgyalásos eljárást, a versenypárbeszédet, illetve az innovációs partnerséget megindító részvételi felhívást nem teszi hirdetményben közzé, hanem közvetlen részvételi felhívást küld azon gazdasági szereplőknek, amelyeket az előminősített gazdasági szereplők listájára (a továbbiakban: lista) felvett. Az eljárás a közvetlen részvételi felhívás megküldésével indul.
+
+(3) Az eljárásban az ajánlatkérő kizárólag a listára felvett előminősített gazdasági szereplőket hívhatja fel részvételi jelentkezés benyújtására. Az ajánlatkérő az összes előminősített gazdasági szereplőnek köteles közvetlen részvételi felhívást küldeni, kivéve, ha a lista a közbeszerzés tárgya, vagy azon belüli csoportja szerinti bontásban készült. Ebben az esetben csak a bontás szerinti előminősített gazdasági szereplőknek kell közvetlen részvételi felhívást küldeni.
+
+(4) Az ajánlatkérő az előminősítési hirdetménnyel meghirdetett közbeszerzésre más hirdetménnyel induló eljárást is alkalmazhat, különösen, ha az előminősített gazdasági szereplők száma nem teszi lehetővé a valódi versenyt. Ebben az esetben az ajánlatkérőnek az új hirdetményben utalnia kell erre a körülményre. Az új hirdetmény közzétételéről az ajánlatkérő – a közzétételt követően haladéktalanul – egyidejűleg, írásban értesíti az előminősített gazdasági szereplőket.
+
+(5) A közvetlen részvételi felhívás tartalmára a Kbt. 50. § (2) bekezdésének a részvételi felhívásra vonatkozó rendelkezései megfelelően alkalmazandóak, azzal, hogy annak a Kbt. 50. § (3) bekezdésére tekintettel tartalmaznia kell hivatkozást a közzétett előminősítési hirdetményre és közzétételének napjára, valamint a közvetlen részvételi felhívás megküldésének napját. Az ajánlattételi felhívásnak szintén tartalmaznia kell hivatkozást a közzétett előminősítési hirdetményre és közzétételének napjára, valamint – ha arra az eljárás során korábban nem került sor – abban meg kell jelölni az értékelési szempontokat és azok súlyszámát vagy a Kbt. 76. § (10) bekezdése szerinti esetben azok fontossági sorrendjét.
+
+(6) A közvetlen részvételi felhívás a Kbt. 50. § (2) bekezdés m) és n) pontjától eltérően – ha szükséges – tartalmazza:
+
+a) a részvételi jelentkezéshez az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására a Kbt. 69. § szerint csatolandó azon igazolások, nyilatkozatok, dokumentumok meghatározását, amelyek igazolják, hogy az előminősített gazdasági szereplő a részvételi szakaszban sem tartozik – a jelentkező gazdasági szereplők listára vételének feltételei (a továbbiakban: előminősítési szempontok) szerinti – kizáró okok hatálya alá;
+
+b) az adott szerződés teljesítéséhez – az előminősítési szempontokhoz képest – szigorúbb alkalmassági követelményeket és azok igazolási módját.
+
+(7) Több előminősített gazdasági szereplő közösen is benyújthat részvételi jelentkezést és közösen is tehet ajánlatot.
+
+(8) A 7. § (1)–(5) bekezdése, 9. § (1) bekezdése, vagy 10. § (1) bekezdése megfelelően alkalmazandó, azzal, hogy a részvételi határidő minimális időtartama a közvetlen részvételi felhívás megküldésének napjától számítandó.
+
+(9) A részvételi jelentkezések és az ajánlatok értékelésére a Kbt. 69. §-ában foglaltakat megfelelően alkalmazni kell, azzal, hogy az ajánlatkérő nem követelheti meg olyan igazolások benyújtását a gazdasági szereplőktől, amelyek az előminősítési rendszer keretében már rendelkezésére állnak, és amelyek a kizáró okok fenn nem állását, vagy a gazdasági szereplő alkalmasságát megfelelően bizonyítják.
+
+### Az ajánlatkérők által létrehozható előminősítési rendszer
+
+#### 12. §
+
+(1) Az ajánlatkérő a gazdasági szereplők előminősítésére szolgáló rendszert hozhat létre és működtethet, amelynek célja, hogy meghatározott közbeszerzések megvalósítása érdekében lefolytatandó meghívásos vagy tárgyalásos eljárásokban, illetve versenypárbeszédben vagy innovációs partnerségben részvételre jogosultakat előre kiválassza.
+
+(2) Az előminősítési hirdetményt a hirdetmények mintájáról és egyes tartalmi elemeiről szóló jogszabályban meghatározott minta szerint kell elkészíteni és közzétenni. Az előminősítési hirdetmény tartalmazza különösen
+
+a) az előminősítési rendszer célját és időtartamát,
+
+b) az előminősítési rendszer működésére vonatkozó információk – Kbt. 39. §-ára és 57. §-ára tekintettel meghatározott – hozzáférési lehetőségeit,
+
+c) a közbeszerzés(ek) tárgyának leírását,
+
+d) az előminősítési szempontokat és azok igazolási módjait, vagy azok összegező leírását.
+
+(3) Az ajánlatkérő köteles biztosítani, hogy a gazdasági szereplők az előminősítési hirdetmény közzétételét követően a rendszer működtetésének időtartama alatt bármikor kérhessék előminősítésüket.
+
+(4) Az ajánlatkérőnek meg kell határoznia – adott esetben a közbeszerzési műszaki leírásra vonatkozó jogszabályi rendelkezésekkel összhangban – az előminősítési rendszer működtetésének részleteit, valamint az előminősítési szempontokat és azok igazolási módjait. Az előminősítési rendszer különböző minősítési fokozatokból állhat.
+
+(5) Az előminősített gazdasági szereplőkről az ajánlatkérőnek listát kell vezetnie. A lista elkészíthető a közbeszerzés tárgya vagy azon belüli csoportok szerinti bontásban is. A listának tartalmaznia kell legalább az előminősített gazdasági szereplő nevét, címét (elérhetőségét), elektronikus levelezési címét, valamint a listára vételének időpontját. A lista adatai nyilvánosak, kivéve a személyes adatnak minősülő adatokat. A lista nyilvános adatait az ajánlatkérő a honlapján közzéteszi.
+
+#### 13. §
+
+(1) Az előminősítési szempontokat és azok igazolási módjait az ajánlatkérő a Kbt. XI. Fejezetében foglaltakkal összhangban – a közbeszerzési eljárásban az alkalmasság és a kizáró okok igazolásának módjáról szóló külön jogszabályban meghatározottak szerint – köteles meghatározni, azzal, hogy az alkalmasság vizsgálata körében egyéb objektív alapú előminősítési szempontot és igazolási módot is előírhat, de ennek során is megfelelően alkalmaznia kell a Kbt. 65. § (3) és (5) bekezdésében foglaltakat.
+
+(2) Az előminősítési szempontok meghatározása során nem lehet különbséget tenni a gazdasági szereplők között székhelyük vagy letelepedési helyük szerint, sem olyan adminisztratív, pénzügyi vagy műszaki feltételek előírása révén, amelyek csak egyes gazdasági szereplőkre érvényesek. Az ajánlatkérő nem követelheti meg olyan igazolások benyújtását a gazdasági szereplőktől, amelyek már rendelkezésére állnak.
+
+(3) Az ajánlatkérő köteles az előminősítési rendszer működésének részleteit és az előminősítési szempontokat, valamint azok igazolási módját is tartalmazó közbeszerzési dokumentumokat előkészíteni és rendelkezésre bocsátani, amelyekben meg kell adnia a 12. § (4) bekezdésében foglaltak mellett az előminősítési kérelem elbírálási határidejét is. Az elbírálási határidő hat hónapnál hosszabb nem lehet. Ha az elbírálás előreláthatólag négy hónapnál hosszabb időt vesz igénybe, az ajánlatkérő az előminősítési kérelem benyújtásától számított két hónapon belül köteles tájékoztatni a gazdasági szereplőt az elbírálás hosszabb időtartamát indokoló körülményekről, valamint kérelme elbírálásának várható időpontjáról.
+
+(4) Ha az ajánlatkérő egy másik ajánlatkérő előminősítési rendszerét – figyelemmel az előminősítési szempontokra – egyenértékűnek tartja, erről és e másik ajánlatkérő nevéről, címéről, illetve a hivatkozott előminősítés elfogadásáról tájékoztatást ad az előminősítési dokumentációban.
+
+(5) Az ajánlatkérő köteles a (3) bekezdés szerinti közbeszerzési dokumentumokat az előminősítési hirdetmény közzétételének napjától kezdve rendelkezésre bocsátani a Kbt. 39. §-ában foglalt módon.
+
+(6) Ha az ajánlatkérő módosítja az előminősítési rendszer működtetésére vonatkozó szabályokat, vagy az előminősítési szempontokat és azok igazolási módjait, köteles új előminősítési hirdetményt közzétenni, valamint a már listára vett előminősített gazdasági szereplőket és az előminősítési kérelmet benyújtókat egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(7) Az előminősítési rendszer megszűnéséről vagy megszüntetéséről az ajánlatkérő az eljárás eredményéről szóló tájékoztatóban ad tájékoztatást.
+
+#### 14. §
+
+(1) A gazdasági szereplő bármikor kérheti előminősítését és a listára vételét a 13. § (3) bekezdése szerinti közbeszerzési dokumentumokban előírt adatok, tények bemutatása, a szükséges igazolások, nyilatkozatok vagy egyéb dokumentumok, valamint az – előminősítési szempontokra tekintettel megfelelően kitöltött – egységes európai közbeszerzési dokumentum csatolása mellett.
+
+(2) Az előminősítési kérelmet és a gazdasági szereplő előminősítését kizárólag a megadott előminősítési szempontok alapján lehet elbírálni.
+
+(3) Ha az előminősítési kérelem hiányos, az ajánlatkérő a gazdasági szereplőt a hiányok megjelölése mellett hiánypótlásra hívja fel.
+
+(4) Az előminősítési kérelem elbírálását követően az ajánlatkérő haladéktalanul, de legkésőbb 15 napon belül értesíti a gazdasági szereplőt döntéséről, elutasítás esetében annak indokairól is.
+
+(5) Ha az ajánlatkérő módosítja az előminősítési szempontokat, a már listára vett előminősített gazdasági szereplőknek is igazolniuk kell az előírt módon megfelelőségüket az új vagy a módosult előminősítési szempont tekintetében. Erre – a 13. § (6) bekezdés szerinti tájékoztatás során – fel kell hívni az előminősített gazdasági szereplőket. Benyújtott kérelem folyamatban levő elbírálása esetén az ajánlatkérő a kérelemnek a módosítás miatt szükséges kiegészítésére hívja fel a jelentkező gazdasági szereplőt.
+
+(6) Az előminősített gazdasági szereplő köteles az ajánlatkérőnek bejelenteni, ha az előminősítési szempontok szerinti adataiban, körülményeiben változás állt be, a változást követően haladéktalanul, de legkésőbb a változástól számított öt munkanapon belül. Ha a változás következtében az előminősített gazdasági szereplő nem felel meg az előminősítési szempontoknak, az ajánlatkérő haladéktalanul töröli a listáról.
+
+(7) Az ajánlatkérő maga is kezdeményezheti az előminősített gazdasági szereplő listáról való törlését, ha a rendelkezésére álló adatok szerint az előminősített gazdasági szereplő már nem felel meg az előminősítési szempontoknak.
+
+(8) A listáról való törlés előtt legalább 15 nappal az érintett előminősített gazdasági szereplőket az ajánlatkérő írásban tájékoztatja a tervezett intézkedéséről és annak indokáról. Az érintett előminősített gazdasági szereplő az ajánlatkérő által meghatározott határidőn belül írásban közölheti észrevételeit az ajánlatkérővel.
+
+(9) Az előminősítési kérelem benyújtásával vagy a minősítés megújításával kapcsolatban – ha díj felszámítására sor kerül – legfeljebb a ténylegesen felmerült költségekkel arányos díjat lehet felszámítani.
+
+(10) Az előminősítési kérelem elutasítása és a listáról való törlés ellen jogorvoslatnak van helye a Közbeszerzési Döntőbizottság előtt.
+
+### Hirdetmény nélküli tárgyalásos eljárás
+
+#### 15. §
+
+(1) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást akkor alkalmazhat, ha
+
+a) a közszolgáltatói szerződés megkötésére irányuló közbeszerzési eljárás azért volt eredménytelen, mert az eljárásban nem nyújtottak be ajánlatot vagy részvételi jelentkezést, vagy csak alapvetően nem megfelelő ajánlatot vagy részvételi jelentkezést nyújtottak be, feltéve, hogy a közbeszerzés feltételei időközben lényegesen nem változtak meg. Alapvetően nem megfelelőnek kell tekinteni az ajánlatot, ha az olyan okból érvénytelen, amely alapján a szakmai ajánlat jelentős változtatások nélkül nyilvánvalóan nem képes teljesíteni az ajánlatkérő által meghatározott igényeket és követelményeket, míg a részvételi jelentkezést akkor kell alapvetően nem megfelelőnek tekinteni, ha az a Kbt. 73. § (1) bekezdés b) vagy d) pontja alapján érvénytelen;
+
+b) a közbeszerzés kizárólag kutatási, kísérleti, tanulmányi vagy fejlesztési célból szükséges; ez az eset azonban nem alkalmazható, ha a beszerzés nyereségszerzési célra irányul, vagy a kutatásfejlesztés költségeinek fedezését szolgálja, továbbá nem sértheti az olyan későbbi hirdetménnyel induló közbeszerzési eljárások lefolytatását, amelyek ez utóbbi célok megvalósítására szolgálnak;
+
+c) a szerződés műszaki-technikai sajátosságok, vagy kizárólagos jogok védelme miatt kizárólag egy meghatározott gazdasági szereplővel köthető meg, feltéve, hogy az ajánlatkérő számára nem létezik reális alternatíva beszerzési igényének kielégítésére, és a verseny hiánya nem annak a következménye, hogy a közbeszerzés tárgyát a versenyt indokolatlanul szűkítő módon határozták meg;
+
+d) a szerződés egy meghatározott gazdasági szereplővel köthető meg, mivel annak célja egyedi művészeti alkotás vagy művészi előadás létrehozása vagy ajánlatkérő általi megszerzése;
+
+e) az feltétlenül szükséges, mivel az ajánlatkérő által előre nem látható okból előállt rendkívüli sürgősség miatt a nyílt, a meghívásos vagy a tárgyalásos eljárásra előírt határidők nem lennének betarthatóak; a rendkívüli sürgősséget indokoló körülmények azonban nem eredhetnek az ajánlatkérő mulasztásából, vagy az ajánlatkérő által előidézett okból.
+
+(2) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást alkalmazhat továbbá árubeszerzés esetében, ha
+
+a) a korábban beszerzett dolog részbeni kicserélése vagy bővítése során a korábbi nyertes ajánlattevőnek másikkal történő helyettesítése azzal a következménnyel járna, hogy műszaki-technikai szempontból eltérő és nem illeszkedő dolgokat kellene beszerezni vagy az ilyen beszerzés aránytalan műszaki-technikai nehézséget eredményezne a működtetésben és a fenntartásban;
+
+b) az áru árutőzsdén jegyzett és beszerzett;
+
+c) a beszerzés kivételesen kedvező feltételei csak rövid ideig állnak fenn, és az ellenszolgáltatás a piaci árakhoz képest lényegesen alacsonyabb, továbbá e kedvező feltételek igénybevétele más eljárás alkalmazása esetén meghiúsulna;
+
+d) az árut kivételesen kedvező feltételekkel felszámolási eljárás, végelszámolás vagy bírósági végrehajtás, vagy az érintett szervezet személyes joga szerinti hasonló eljárás során történő értékesítés keretében szerzi be.
+
+(3) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást alkalmazhat továbbá építési beruházás vagy szolgáltatás megrendelése esetében, ha olyan új építési beruházásra vagy szolgáltatás megrendelésére kerül sor, amelyet a korábbi nyertes ajánlattevővel köt meg ugyanazon ajánlatkérő azonos vagy hasonló építési beruházás vagy szolgáltatás teljesítésére. Ennek feltétele, hogy az új építési beruházás vagy szolgáltatás összhangban van azzal az alapprojekttel, amelyre a korábbi szerződést e rendelet szerinti, nyilvánosan közzétett hirdetménnyel megindított vagy meghirdetett eljárásban megkötötték, és a korábbi eljárást megindító vagy meghirdető hirdetményben az ajánlatkérő jelezte, hogy tárgyalásos eljárást alkalmazhat, megjelölte a lehetséges további építési beruházások és szolgáltatások tárgyát és azok beszerzésének feltételeit, valamint a korábbi eljárásban az építési beruházás vagy a szolgáltatás becsült értékének meghatározásakor figyelembe vette az újabb építési beruházás vagy szolgáltatás becsült értékét is (az uniós értékhatár elérésének meghatározása szempontjából).
+
+(4) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást alkalmazhat továbbá szolgáltatás megrendelése esetében, ha arra közszolgáltatói tevékenységével összefüggő tervpályázati eljárást követően kerül sor, és a nyertessel vagy – a bírálóbizottság ajánlása alapján – nyertesek vagy díjazottak valamelyikével kell szerződést kötni.
+
+#### 16. §
+
+(1) A hirdetmény nélküli tárgyalásos eljárás – a 15. § (2) bekezdés b) és d) pontja szerinti eset kivételével – ajánlattételi felhívás megküldésével kezdődik. Az ajánlatkérő a 15. § (1) bekezdés e) pontjában foglalt esetben a tárgyalást megelőzően – ha ajánlattételi felhívás készítésére nincs mód – tárgyalási meghívót küld.
+
+(2) A Közbeszerzési Hatóságot az eljárás megkezdéséről a 17. § (2) bekezdés szerint kell tájékoztatni. A 15. § (2) bekezdés b) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles a Közbeszerzési Hatósághoz benyújtani a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a 15. § (2) bekezdés d) pontja szerinti esetben továbbá az érintett szervezet nevét és címét.
+
+(3) A hirdetmény nélküli tárgyalásos eljárás 15. § (1) bekezdés a)–b) pontja szerinti esetében, valamint, ha a rendkívüli sürgősséget előidéző helyzetben az ésszerűen lehetséges, a 15. § (1) bekezdés e) pontja szerinti esetében az ajánlatkérőnek lehetőség szerint legalább három ajánlattevőt kell ajánlattételre felhívnia.
+
+(4) Az ajánlattételi határidőt minden esetben úgy kell meghatározni, hogy elegendő időtartam álljon rendelkezésre a megfelelő ajánlattételhez.
+
+(5) A 15. § (4) bekezdése szerinti hirdetmény nélküli tárgyalásos eljárás esetében az ajánlatok értékelési szempontja csak az összességében legelőnyösebb ajánlat kiválasztása lehet.
+
+(6) A 15. § (1) bekezdés e) pontja szerinti tárgyalásos eljárásra a Kbt. 102. §-át kell alkalmazni.
+
+(6a)[^7] A 15. § (1) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásnak a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer üzemzavara esetén az elektronikus úttól eltérő kommunikáció használatával történő lefolytatására a Kbt. és végrehajtási rendeleteinek a Kbt. 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásra vonatkozó rendelkezéseit kell alkalmazni.
+
+(7) A Kbt. 62. § (1) bekezdés c) pontját nem kell alkalmazni olyan esetben, ha az ajánlatkérő a 15. § (2) bekezdés d) pontja alapján folytat le hirdetmény nélküli tárgyalásos eljárást.
+
+#### 17. §
+
+(1) A 15. § (2) bekezdés c) pontja szerinti hirdetmény nélküli tárgyalásos eljárásban az ajánlatkérő a kedvező feltételekről való tudomásszerzést követően haladéktalanul ajánlattételi felhívást küld a kedvező feltételeket felajánlónak és lehetőség szerint még legalább két ismert ajánlattevőnek. A felhívottakkal a kedvező feltételek fennállásának időtartamán belül kell tárgyalni, és a nyertessel – a szerződéskötési moratóriumra vonatkozó szabályok figyelmen kívül hagyásával – írásban szerződést kötni.
+
+(2)[^8] Az eljárás megkezdéséről az ajánlatkérőnek haladéktalanul tájékoztatnia kell a Közbeszerzési Hatóságot a Kbt. 103. §-ának megfelelően.
+
+(3) Az ajánlatkérőnek a kedvező feltételeket felajánló dokumentumot is a Kbt. 46. § (2) bekezdésében foglaltak szerint kell megőriznie.
+
+(4) A szerződés a Kbt. 131. § (6) bekezdésétől eltérően az ott rögzített tíz-, illetve ötnapos időtartam letelte előtt is megköthető, ha a hirdetmény nélküli tárgyalásos eljárást a 15. § (1) bekezdés c)–d) pontja, a (2) bekezdés a)–b) vagy d)–e) pontja, vagy a (3)–(4) bekezdés alapján indították és a Kbt. 152. § (3) bekezdése szerinti határidőben a Közbeszerzési Hatóság elnöke nem élt a jogorvoslati eljárás megindításának jogával.
+
+## 3. Sajátos beszerzési módszerek
+
+### Keretmegállapodások
+
+#### 18. §
+
+(1) Az ajánlatkérő közbeszerzését e rendeletben meghatározott eljárás eredményeként kötött keretmegállapodás útján is megvalósíthatja.
+
+(2) Az eljárást megindító felhívásban az ajánlatkérő megjelöli, hogy az eljárás egy vagy több ajánlattevővel kötendő keretmegállapodás megkötésére irányul, és hogy – a (3) bekezdésben foglaltakra tekintettel – az adott keretmegállapodás alapján beszerzés megvalósítására milyen módon vagy módokon kerülhet sor. Ennek során a keretmegállapodásban részes ajánlattevőket ajánlattételi, illetve szerződéskötési kötelezettség terheli.
+
+(3)[^9]
+
+(4) Több ajánlattevővel kötendő keretmegállapodás esetében az eljárást megindító felhívásban az ajánlatkérő köteles megadni az értékelési szempontok szerint a legkedvezőbb ajánlatot tevők keretszámát, amelynek legfeljebb a felső határáig terjedő számú ajánlattevővel köt majd keretmegállapodást. A keretszámnak a közbeszerzés tárgyához, az eljárás sajátos jellemzőihez kell igazodnia, és minden körülmény között biztosítania kell a valódi versenyt. A keretmegállapodást akkor kell a keretszám felső határáig terjedő számú ajánlattevővel megkötni, ha az eljárásban legalább a keretszám felső határának megfelelő számú érvényes ajánlatot benyújtó ajánlattevő vesz részt. Ha a legkedvezőbb ajánlatot tevők keretszámának felső határán több ajánlat azonos, az ajánlatkérő a Kbt. 77. § (5) bekezdés alkalmazása helyett úgy is dönthet, hogy az összes ilyen azonos ajánlatot tevővel keretmegállapodást köt. Több ajánlattevővel kötendő keretmegállapodás esetében az eljárás akkor is eredménytelennek nyilvánítható, ha csak egy érvényes ajánlatot nyújtottak be. Több ajánlattevővel kötendő keretmegállapodás esetén a Kbt. 69. § (5) bekezdés második mondata minden, a keretmegállapodásban részes ajánlattevőre alkalmazandó.
+
+(5)[^10] Keretmegállapodás legfeljebb nyolc évre köthető, kivéve a kellően – különösen a keretmegállapodás tárgyára tekintettel – indokolt kivételes eseteket. Ennek során mérlegelni kell, hogy az adott keretmegállapodáshoz kapcsolódó sajátosságok szükségessé teszik-e a hosszabb határozott időtartam meghatározását, és az nem aránytalanul korlátozza-e a versenyt. A nyolc évnél hosszabb tartamú keretmegállapodás megkötésére irányuló közbeszerzési dokumentumokban fel kell tüntetni a hosszabb időtartam meghatározásának indokolását.
+
+### Dinamikus beszerzési rendszer
+
+#### 19. §
+
+(1) A dinamikus beszerzési rendszer felállításakor a részvételi határidőt a részvételi felhívás feladásának napjától számított legalább harminc napban kell meghatározni. A részvételi határidő sürgősség esetében sem határozható meg tizenöt napnál rövidebb időtartamban. A Kbt. 83. § (2) bekezdése nem alkalmazandó.
+
+(2) Az ajánlattételi határidő meghatározása tekintetében a 7. § (2)–(5) bekezdése megfelelően alkalmazandó.
+
+### Elektronikus árlejtés
+
+#### 20. §
+
+Az ajánlatkérő az eljárást megindító felhívásban, vagy időszakos előzetes tájékoztatóval meghirdetett eljárás esetén a közvetlen részvételi felhívásban, illetve előminősítési hirdetménnyel meghirdetett eljárás esetén legkésőbb az ajánlattételi felhívásban jelzi, ha a nyertes ajánlattevő kiválasztása érdekében elektronikus árlejtést kíván alkalmazni.
+
+### Elektronikus katalógusok
+
+#### 21. §
+
+Az ajánlatkérő az eljárást megindító felhívásban, vagy időszakos előzetes tájékoztatóval meghirdetett eljárás esetén a közvetlen részvételi felhívásban, illetve előminősítési hirdetménnyel meghirdetett eljárás esetén legkésőbb az ajánlattételi felhívásban jelzi, ha az ajánlatokat elektronikus katalógus formájában kell benyújtani, vagy hogy az ajánlattevőnek elektronikus katalógust kell csatolnia ajánlatához.
+
+## 3/A. [^11] A szerződés biztosítékaira vonatkozó különös szabályok
+
+#### 21/A. §
+
+Ha a biztosítéknak a Kbt. 134. § (2)–(4) bekezdésében foglaltaknál magasabb mértékben történő meghatározása a teljesítés biztonsága érdekében – az ajánlatkérő számára az adott szerződéshez szükséges finanszírozás követelményeire is tekintettel – szükséges,
+
+a) a közszolgáltatói szerződés teljesítésének elmaradásával kapcsolatos igények biztosítékaként legfeljebb a szerződés szerinti, tartalékkeret és általános forgalmi adó nélkül számított ellenszolgáltatás 15%-át elérő biztosíték köthető ki,
+
+b) a közszolgáltatói szerződés hibás teljesítésével kapcsolatos igények biztosítékaként legfeljebb a szerződés szerinti, tartalékkeret és általános forgalmi adó nélkül számított ellenszolgáltatás 15%-át elérő biztosíték köthető ki, és
+
+c) a szerződés hibás teljesítésével kapcsolatos igények biztosítéka esetében a biztosíték összegének az ajánlatkérő követelésének kielégítése esetén bekövetkező csökkenése esetére az ajánlatkérő előírhatja az ajánlattevőként szerződő fél számára a biztosíték meghatározott mértékű folyamatos fenntartására vonatkozó kötelezettséget.
+
+#### 21/B. §
+
+(1) A biztosítéknak a 21/A. §-ban foglaltak szerinti magasabb mértékben történő meghatározásához
+
+a) a Kormány egyedi határozatában foglalt hozzájárulása szükséges, vagy
+
+b) annak lehetőségéről a Kormánynak a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény alapján nemzetgazdasági szempontból kiemelt jelentőségűnek minősített beruházásra vonatkozó rendelete rendelkezhet.
+
+(2) A Kormány az (1) bekezdés a) pontja szerinti esetben megtagadja a hozzájárulást, ha az adott szerződésben foglalt beruházás gazdasági jelentősége nem indokolja a magasabb mértékű biztosíték előírását.
+
+(3) Az előző évben meghozott, az (1) bekezdés a) pontja szerinti hozzájárulást tartalmazó egyedi határozatok szövegét a Kormány minden év március 31-ig, a Magyar Közlönyben egy tájékoztatóban egyszerre is közzéteszi.
+
+## 4. Szerződésmódosítás
+
+#### 22. §
+
+(1) A közszolgáltatói szerződések módosítása során a Kbt. 141. § (4) bekezdés b)–c) pontja nem alkalmazandó.
+
+(2) A Kbt. 141. § (2) bekezdésben, valamint (4) bekezdés a) pontjában szabályozott esetek mellett a szerződés – a Kbt. 141. § (6) bekezdésben foglalt feltételek vizsgálata nélkül – új közbeszerzési eljárás lefolytatása nélkül módosítható, illetve módosulhat az alábbiak közül bármely esetben:
+
+a) az eredeti szerződő féltől további építési munkák, szolgáltatás vagy áruk beszerzése szükséges, amelyek nem szerepeltek az eredeti szerződésben, amennyiben a szerződő fél személyének változása
+
+aa) nem megvalósítható gazdasági vagy műszaki okból, különösen az eredeti szerződéssel beszerzett, meglévő berendezésekkel, szolgáltatásokkal vagy létesítményekkel való felcserélhetőség vagy együttműködés miatt, és
+
+ab) az ajánlatkérő számára jelentős hátránnyal vagy a költségek megsokszorozódásával járna;
+
+b) a következő feltételek együttes teljesülése esetén:
+
+ba) a módosítást olyan körülmények tették szükségessé, amelyeket az ajánlatkérő kellő gondossággal eljárva nem láthatott előre;
+
+bb) a módosítás nem változtatja meg a szerződés általános jellegét.
+
+(3) A Kbt. 141. § (5)–(8) bekezdése megfelelően alkalmazandó.
+
+## 5. Eljárás adott tevékenység valódi versenyfeltételek mellett történő végzésének megállapítására
+
+#### 23. §
+
+(1) A Kbt. 13. §-ának alkalmazhatóságát az Európai Unió Működéséről szóló Szerződés versenyre vonatkozó szabályaival összhangban kell megállapítani. Vizsgálni kell különösen a Kbt. 6. § (1)–(2) bekezdésében meghatározott tevékenység jellemzőit, a helyettesítő szolgáltatások esetleges létezését, az árakat, valamint azt, hogy van-e ténylegesen vagy potenciálisan a vizsgált tevékenység tekintetében egynél több szolgáltató az adott piacon. Az adott piac magában foglalja azt a területet, amelyen az ajánlatkérő a vizsgált tevékenységét végzi és ahol a hasonló tevékenységet végző gazdasági szereplők befolyásolják a piac keresleti-kínálati viszonyait, valamint a piaci verseny feltételei homogének azonban más szomszédos területektől élesen eltérőek. Vizsgálni kell továbbá a piacra történő belépés korlátait, a fogyasztói preferenciákat, valamint a gazdasági szereplők piaci részesedését.
+
+(2) Az (1) bekezdés alkalmazásában akkor tekinthető úgy, hogy valamely piacra történő belépés nem korlátozott, ha az adott tagállam végrehajtotta és alkalmazza a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2014/25/EU irányelv) III. mellékletében felsorolt uniós jogszabályok rendelkezéseit. Ha ez alapján nem vélelmezhető az adott piacra történő szabad belépés, bizonyítani kell, hogy az ténylegesen és jogilag is szabad.
+
+(3) Az ajánlatkérő, amennyiben úgy ítéli meg, hogy a Kbt. 6. § (1)–(2) bekezdésében meghatározott valamely tevékenysége az adott piacon közvetlenül ki van téve a versenynek, és erre tekintettel indokolt a Kbt. 13. §-a szerinti kivétel alkalmazása, kérelmet nyújthat be az Európai Bizottsághoz ennek megállapítására, valamint arra, hogy emiatt a vizsgált tevékenység folytatásával kapcsolatos szerződések megkötésére a közbeszerzési szabályok nem alkalmazandók. A kérelemhez a Gazdasági Versenyhivatal indokolással ellátott állásfoglalását is csatolni kell. Az eljárást a Gazdasági Versenyhivatal, illetve a közbeszerzésekért felelős miniszter is kezdeményezheti. Az eljárás kezdeményezéséről a Közbeszerzési Hatóságot értesíteni kell. Az Európai Bizottság az eljárást hivatalból is megindíthatja.
+
+(4) A kérelemben az Európai Bizottságot tájékoztatni kell az adott tevékenység valódi versenyfeltételek mellett történő végzésével összefüggő minden lényeges tényről, különösen az (1)–(2) bekezdésben meghatározott feltételeknek való megfeleléssel kapcsolatos jogszabályi rendelkezésekről, hatósági határozatokról, megállapodásokról.
+
+(5) Ha az Európai Bizottság eljárását az ajánlatkérő vagy a közbeszerzésekért felelős miniszter kezdeményezi, és a kérelemmel együtt a Gazdasági Versenyhivatal indokolással ellátott állásfoglalása nem kerül benyújtásra, a kérelmező a (4) bekezdés szerinti információkról az Európai Bizottságot kérésére köteles tájékoztatni. A tájékoztatáshoz a Gazdasági Versenyhivatal indokolással ellátott állásfoglalását is csatolni kell.
+
+(6) Ha az eljárást az Európai Bizottság hivatalból kezdeményezi, az ajánlatkérő vagy a közbeszerzésekért felelős miniszter a (4) bekezdés szerinti információkról az Európai Bizottságot kérésére köteles tájékoztatni. A tájékoztatáshoz a Gazdasági Versenyhivatal indokolással ellátott állásfoglalását is csatolni kell.
+
+(7) A kérelem a benyújtást követően az Európai Bizottság beleegyezésével módosítható. A módosított kérelem vizsgálatára az Európai Bizottság és kérelmező a 2014/25/EU irányelv IV. mellékletében meghatározott határidőnél rövidebb határidőben is megállapodhatnak.
+
+(8) Ha az Európai Bizottság a 2014/25/EU irányelv IV. mellékletében meghatározott határidőn belül nem hoz döntést, úgy kell tekintetni, hogy a vizsgált tevékenység az adott piacon közvetlenül ki van téve a versenynek, és ezért az annak folytatásával kapcsolatos szerződések megkötésére a közbeszerzési szabályokat nem kell alkalmazni.
+
+## 6. Záró rendelkezések
+
+#### 24. §
+
+Ez a rendelet 2015. november 1-jén lép hatályba.
+
+#### 25. §[^12]
+
+(1) E rendelet rendelkezéseit a hatálybalépése után megkezdett, közszolgáltatói szerződés megkötésére irányuló közbeszerzési eljárásokra kell alkalmazni.
+
+(2) E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 487/2016. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése[^13] után indult közbeszerzési eljárások esetében kell alkalmazni.
+
+(3)[^14] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által megállapított rendelkezéseit a Módr. hatálybalépését[^15] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+#### 26. §
+
+Ez a rendelet a Kbt.-vel együtt
+
+a) a koncessziós szerződésekről szóló 2014. február 26-i 2014/23/EU európai parlamenti és tanácsi irányelvnek,
+
+b) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek,
+
+c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 317/2022. (VIII. 16.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 9/2020. (I. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdése a 317/2022. (VIII. 16.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^5]: Az 5. § (4) bekezdése az 53/2024. (III. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 8. § (3) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 16. § (6a) bekezdését a 66/2019. (III. 27.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 17. § (2) bekezdése a 66/2019. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 18. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^10]: A 18. § (5) bekezdése a 9/2020. (I. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 3/A. alcímet (21/A–21/B. §) a 317/2022. (VIII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 25. § a 487/2016. (XII. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^13]: A hatálybalépés időpontja 2017. január 1.
+[^14]: A 25. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 4. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2019. április 1.

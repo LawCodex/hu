@@ -1,0 +1,188 @@
+---
+title: "150/2019. (VI. 25.) Korm. rendelet a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "150/2019. (VI. 25.) Korm. rendelet"
+njt_id: "2019-150-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/150"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-06-25
+in_force_from: 2019-06-26
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-150-20-22"
+retrieved: 2026-10-12
+---
+
+# 150/2019. (VI. 25.) Korm. rendelet a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+az 1. § (3) bekezdése tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a) pontjában,
+
+a 4. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 4. § b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § d) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+az 5. § tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés b) pontjában,
+
+a 9. § és a 2. melléklet tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a Budapest VIII. kerület, belterület 38820/3, 38820/4, 38821/8 és 38831 helyrajzi számú ingatlanon, illetve az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja keretében megvalósuló, sportlétesítmények és környezetük fejlesztésére irányuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkák megvalósításához szükségesek.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
+
+## 2. §
+
+(1)[^2] A Kormány az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^3]
+
+## 3. §[^4]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 4. §
+
+A Beruházással összefüggésben
+
+a) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
+
+b) nincs helye településképi véleményezési eljárásnak,
+
+c) nem kell településképi bejelentési eljárást lefolytatni,
+
+d) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni.
+
+## 5. §[^5]
+
+Az 1. § (1) bekezdése szerinti valamennyi ingatlan vonatkozásában az országos településrendezési és építési követelményekről szóló kormányrendeletet és a hatályos településrendezési tervet a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+
+a) a tervezett területek vonatkozásában lehetséges sport, illetve szálláshely-szolgáltató rendeltetéssel bíró épületek elhelyezése,
+
+b) a tervezett épületek épületszerkezettel történő összekötése során az építési helyre vonatkozó szabályokat figyelmen kívül kell hagyni,
+
+c) a legnagyobb beépítési mérték: 45%,
+
+d) a szintterületi mutató legnagyobb mértéke: 1,0 m<sup>2</sup>/m<sup>2</sup>,
+
+e) a terepszint alatti beépítettség megengedett legnagyobb mértéke: 40%,
+
+f) a zöldfelület legkisebb mértéke: 25%,
+
+g) az építménymagasság megengedett legkisebb mértéke: 3 méter,
+
+h) az építménymagasság megengedett legnagyobb mértéke: 20 méter,
+
+i) az építési telek határvonalai által körülhatárolt területén az övezeti előírások szerinti telekbeépítettség mértékéig az épületek bárhol elhelyezhetők.
+
+## 6. §
+
+(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+## 6/A. §[^6]
+
+A Beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 8. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 9. §[^7]
+
+E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 10. §[^9]
+
+E rendeletnek a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet módosításáról szóló 51/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^10] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 150/2019. (VI. 25.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. a mérésügyi és a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. környezetvédelmi hatósági eljárások,
+
+11\. természetvédelmi hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. telekalakításra irányuló hatósági eljárások,
+
+16\. földmérési hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. bányahatósági engedélyezési eljárások,
+
+19\. élelmiszerlánc-felügyeleti eljárás,
+
+20\. közegészségügyi hatósági eljárások,
+
+21\. területrendezési hatósági eljárások,
+
+22\. erdészeti hatósági eljárások,
+
+23\. földvédelmi hatósági eljárások,
+
+24.[^11] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+25\. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+26\. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 150/2019. (VI. 25.) Korm. rendelethez[^12]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 51/2021. (II. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 94. §-a hatályon kívül helyezte, újonnan a 196/2020. (V. 12.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^3]: A 2. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 305. §-a hatályon kívül helyezte.
+[^4]: A 3. § az 546/2022. (XII. 22.) Korm. rendelet 231. § a)-b) pontja szerint módosított szöveg.
+[^5]: Az 5. § nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 104. §-a szerint módosított szöveg.
+[^6]: A 6/A. §-t az 51/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 196/2020. (V. 12.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^8]: A hatálybalépés időpontja 2020. május 13.
+[^9]: A 10. §-t az 51/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2021. február 6.
+[^11]: Az 1. melléklet 24. pontja a 257/2024. (VIII. 29.) Korm. rendelet 304. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

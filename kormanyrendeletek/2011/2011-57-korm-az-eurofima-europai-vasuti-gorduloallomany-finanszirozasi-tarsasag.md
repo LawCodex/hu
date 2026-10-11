@@ -1,0 +1,147 @@
+---
+title: "57/2011. (IV. 12.) Korm. rendelet az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állam által vállalt kezesség szabályairól"
+identifier: "57/2011. (IV. 12.) Korm. rendelet"
+njt_id: "2011-57-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/57"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-04-12
+in_force_from: 2011-04-27
+last_amended: 2011-04-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-57-20-22"
+retrieved: 2026-10-12
+---
+
+# 57/2011. (IV. 12.) Korm. rendelet az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állam által vállalt kezesség szabályairól
+
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés *j)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+Az e rendeletben nem szabályozott kérdések tekintetében az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendeletnek (a továbbiakban: R.) – a 8/C. §-ában foglaltak kivételével – a jogszabályi állami kezességvállalásra vonatkozó rendelkezéseit kell alkalmazni.
+
+## 2. §
+
+E rendelet alkalmazásában:
+
+1\. *forrásbevonás:* a jogszabályi állami kezességvállalással történő EUROFIMA-finanszírozási ügylet;
+
+2\. *adósságszolgálati fedezeti ráta:* a kötelezett adott évre vonatkozó nettó árbevételének és az adóssága utáni tőkét, kamatot, járulékokat magába foglaló fizetési kötelezettség hányadosa;
+
+3\. *vasúti személyszállítási működési fedezetráta:* az EUROFIMA-finanszírozással érintett személyszállítási tevékenység, üzletág, fogyasztói árkiegészítés nélkül számított, adott évre vonatkozó nettó közlekedési árbevétele és a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénynek (a továbbiakban: Vtv.) megfelelő, a közszolgáltatási szerződésben meghatározott közszolgáltatás indokolt, a finanszírozási költségeket és az értékcsökkenési leírást nem tartalmazó költségének hányadosa;
+
+4\. *közszolgáltatási ellentételezés:* a Vtv. 27/A. § (2) bekezdése szerinti pénzügyi ellentételezés.
+
+## 3. §
+
+(1) A forrásbevonás érdekében a közlekedésért felelős miniszter az államháztartásért felelős miniszterrel együttesen – finanszírozási ügyletenként külön – előterjesztést nyújt be a Kormányhoz.
+
+(2) Az előterjesztés legalább a következőket tartalmazza:
+
+a) a forrásbevonással elérni kívánt cél bemutatását;
+
+b) a forrásbevonás részletes indokolását;
+
+c) a forrásbevonás összegét (forintban és devizanemben is);
+
+d) a forrásbevonás feltételeit;
+
+e) a kezesség beváltásának valószínűségéről szóló tájékoztatást;
+
+f) a kötelezett javára az előző 5 évben történt kezességvállalás tényéről szóló tájékoztatást;
+
+g) a tárgyévi költségvetési törvényben meghatározott kezességvállalási keretnek az előterjesztés benyújtásakor rendelkezésre álló részéről szóló tájékoztatást;
+
+h) a Támogatásokat Vizsgáló Irodának az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti álláspontjának feltüntetését;
+
+i) javaslatot a kezességvállalási díj mértékére és a díj mértékének indokolását;
+
+j) a (3) bekezdés szerinti mutatóknak a finanszírozás futamideje alatt tervezett mértékét, amelyekből megítélhető
+
+ja) a fejlesztés külső forrásból történő megvalósításának indoka,
+
+jb) az EUROFIMA gördülőállomány-finanszírozásból megvalósítandó fejlesztés megtérülése, különös tekintettel az üzemeltetési és fenntartási költségmegtakarításra (kamat, értékcsökkenési leírás és felosztott költségek kivételével) az új és a kiváltott eszközök vonatkozásában,
+
+jc) a közszolgáltatási ellentételezés vonatkozásában a fejlesztés eredményeként elérhető megtakarítás mértéke és
+
+jd) az EUROFIMA gördülőállomány-finanszírozás visszafizetésének forrása;
+
+k) személykocsik esetében azt a tényt, hogy a finanszírozással érintett járművek végső felhasználója rendelkezik hatályos közszolgáltatási szerződéssel, és a járműveket közszolgáltatási tevékenysége körében hasznosítja;
+
+l) a fejlesztéssel elérhető magasabb szolgáltatási színvonal, műszaki korszerűség bemutatását, a környezetvédelmi és energiahatékonysági szempontoknak való megfelelőséget, az interoperabilitás teljesülését;
+
+m) személykocsik esetében a férőhely-kilométer kihasználtságot elővárosi viszonylatban, ülőhely-kilométer kihasználtságot egyéb viszonylatban;
+
+n) mozdonyok és egyéb járművek esetében üzemképesség, üzemidő-kihasználás javulását, menetidő-csökkenést; valamint
+
+o) motorkocsik esetében az *m)* és az *n)* pont szerinti mutatókat.
+
+(3) A kötelezett pénzügyi helyzetével kapcsolatos adatokra vonatkozó mutatók a következők:
+
+a) az EUROFIMA finanszírozás költségeinek bemutatása és összehasonlítása a hasonló futamidejű magyar államkötvény hozamával, amennyiben ilyen nincs, akkor az Államadósság Kezelő Központ Zrt. véleménye alapján, a főbb kondícióiban (futamidő, devizanem, kamatozás módja) egyező finanszírozás költségével,
+
+b) a fejlesztéssel elérhető bevételi és kiadási változások bemutatása és összehasonlítása a fejlesztés elmaradása esetére tervezhető pénzügyi adatokkal,
+
+c) a beruházásnak a vasúti személyszállítási működési fedezetrátára gyakorolt hatása változatlan vasúti személyszállítási menetrend, szolgáltatási teljesítmény és társasági-szervezeti struktúra mellett,
+
+d) a kötelezett adósságszolgálati fedezeti rátája,
+
+e) a kötelezettnél az utolsó lezárt üzleti év végén fennálló, hitelviszonyon alapuló tartozások állománya, külön bemutatva az állami kezesség melletti állományokat.
+
+## 4. §
+
+(1) A Kormány az előterjesztés alapján határozatában – a Vtv. 29/A. § (2) bekezdésében foglaltakon túlmenően – a következőkről dönt:
+
+a) a kötelezett személyéről,
+
+b) a forrásbevonás összegéről,
+
+c) a forrásbevonás céljáról.
+
+(2) A kezességvállalási díj megfizetésének idejéről és módjáról – a Kormány határozatában foglaltaknak megfelelő tartalommal – a kötelezettel kötött szerződésben az államháztartásért felelős miniszter állapodik meg.
+
+## 5. §
+
+A kötelezett
+
+a) a finanszírozási szerződés megkötéséről – az abban általa vállalt visszafizetési és járulékfizetési kötelezettség mértékének, esedékességének megjelölésével –, továbbá
+
+b) a finanszírozási jogviszony megszűnéséről – a megszűnés okának megjelölésével –
+
+a megkötést, valamint a megszűnést követő 15 naptári napon belül tájékoztatja a közlekedésért felelős minisztert és az államháztartásért felelős minisztert.
+
+## 6. §
+
+(1) Az R. 8. § (1) bekezdésében foglalt adatszolgáltatási kötelezettséget a kötelezett teljesíti.
+
+(2) Az állami kezességvállalásból származó beváltás várható időpontjáról és a beváltás mértékéről a kötelezett a közlekedésért felelős minisztert és az államháztartásért felelős minisztert, a várható beváltást megelőzően legalább 15 naptári nappal, előre nem látható esetben a beváltást indokoló körülmények bekövetkezésével egyidejűleg vagy a beváltásról való tudomásszerzésről haladéktalanul értesíteni köteles.
+
+(3) Ha a kötelezett a finanszírozási szerződés alapján visszafizetési kötelezettségének időben nem tesz eleget, az EUROFIMA az állami kezességvállalásból eredő jogait az államháztartásért felelős miniszternél jogosult írásban érvényesíteni
+
+a) a kötelezett megnevezésének,
+
+b) az igényelt összeg (tőkeösszeg és járulékok szerinti bontásban),
+
+c) a kezességérvényesítés indokának, és
+
+d) az EUROFIMA fizetési számla számának
+
+feltüntetésével.
+
+(4) A jogosult a (3) bekezdés szerinti állami kezességbeváltáshoz mellékletként csatolja:
+
+a) a finanszírozásról szóló szerződést és annak mellékletét képező dokumentumokat,
+
+b) a finanszírozásról szóló szerződés módosításait és azok mellékletét képező dokumentumokat,
+
+c) a finanszírozásról szóló szerződést felmondó iratot vagy a finanszírozásról szóló szerződésben meghatározott törlesztő részlet-, kamatfizetési vagy egyösszegű fizetési kötelezettség teljesítésére nyitva álló fizetési határidő eredménytelen leteltére vonatkozó iratot, és
+
+d) a folyósítási feltételek teljesítésének dokumentumait.
+
+(5) Az államháztartásért felelős miniszter a (3) és (4) bekezdés szerinti dokumentumok kézhezvételét követő 30 napon belül intézkedik a kifizetésről, amennyiben az állami kezesség alapjául szolgáló ügylet megfelel a hozzá kapcsolódó, a 4. § (1) bekezdés szerinti kormányhatározatban foglaltaknak.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.

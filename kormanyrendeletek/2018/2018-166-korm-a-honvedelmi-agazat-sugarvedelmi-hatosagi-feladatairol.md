@@ -1,0 +1,313 @@
+---
+title: "166/2018. (IX. 17.) Korm. rendelet a honvédelmi ágazat sugárvédelmi hatósági feladatairól"
+identifier: "166/2018. (IX. 17.) Korm. rendelet"
+njt_id: "2018-166-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/166"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-09-17
+in_force_from: 2018-10-01
+last_amended: 2024-07-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-166-20-22"
+retrieved: 2026-10-12
+---
+
+# 166/2018. (IX. 17.) Korm. rendelet a honvédelmi ágazat sugárvédelmi hatósági feladatairól
+
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § z) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet hatálya kiterjed
+
+a) a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium vagyonkezelésében lévő ingatlanon honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes munkahelyre,
+
+b) azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a miniszter (a továbbiakban: gazdasági társaság) és
+
+c)[^1] a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezetekre (a továbbiakban: honvédelmi szervezet).
+
+(2) E rendelet rendelkezéseit az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet (a továbbiakban: Svr.) rendelkezéseivel összhangban kell értelmezni.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1.[^2] *honvédségi jármű:* a rendeltetésszerű használat során közutat is igénybe vevő, a Magyar Honvédségben (a továbbiakban: MH) rendszeresített és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) kivételével a honvédelmi szervezetnél üzemeltetett közúti és terepjáró gépjármű;
+
+2.[^3] *katonai engedélyes:* az atomenergia alkalmazását a katonai sugárvédelmi hatóság engedélyével végző gazdasági társaság, illetve KNBSZ kivételével a honvédelmi szervezet;
+
+3\. *katonai védőeszköz:* az MH-ra, illetve a katonai nemzetbiztonsági szolgálatokra vonatkozó eltérő munkavédelmi követelményekről, eljárási szabályokról szóló honvédelmi miniszteri rendelet szerinti, az ionizáló sugárzás és radioaktív szennyezés elleni védőeszköz;
+
+4.[^4] *kiképzési célt szolgáló radioaktív anyag:* a KNBSZ kivételével a honvédelmi szervezet kiképzéséhez szükséges vagy kifejezetten e célra rendszeresített radioaktív anyag, kivéve a műszerekbe épített vagy azok kalibrálására szolgáló sugárforrásokat;
+
+5\. *rendszeresítés:* olyan szabályozott eljárás, amelynek eredményeként a kiképzési célt szolgáló radioaktív anyag, radioaktív sugárforrást tartalmazó, vagy ionizáló sugárzást létrehozó hadfelszerelés, valamint az ionizáló sugárzás és radioaktív szennyezés ellen védelmet nyújtó katonai védőeszköz felvételre kerül az MH rendszerébe.
+
+### 3. §
+
+(1) A Kormány az 1. § (1) bekezdése szerinti szervezetek vonatkozásában a sugárvédelmi hatósági jogkör gyakorlójaként országos illetékességgel a minisztert (a továbbiakban: katonai sugárvédelmi hatóság) jelöli ki.
+
+(2) A katonai sugárvédelmi hatóság – az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. § (2) bekezdése alapján – az Atv. 17. § (2) bekezdés 26–42. pontjában meghatározott feladatokat mint engedélyező és ellenőrző hatóság gyakorolja.
+
+## 2. Engedélyezési eljárások
+
+### 4. §
+
+(1) A katonai sugárvédelmi hatóság engedélye szükséges
+
+a) a radioaktív anyag alkalmazásához,
+
+b) az ionizáló sugárzást létrehozó berendezés
+
+ba) létesítéséhez és
+
+bb) üzembe helyezéséhez,
+
+c) az *a)* pont szerinti anyaggal, illetve a *b)* pont szerinti berendezéssel végzett tevékenységet szolgáló, nem nukleáris létesítmény létesítéséhez,
+
+d) az *a)* pont szerinti anyaggal, illetve a *b)* pont szerinti berendezéssel végzett tevékenységet szolgáló, nem nukleáris létesítmény üzembe helyezéséhez és az üzemeltetés megszüntetéséhez,
+
+e) a radioaktív anyag alkalmazása befejezését követően a munkahely inaktívvá nyilvánításához,
+
+f) a nyitott radioaktív sugárforrás izotóplaboratóriumon kívüli felhasználásához,
+
+g) a rendszeresítéshez és a rendszerből történő kivonáshoz,
+
+h) a radioaktív anyag honvédségi járművel történő szállításához,
+
+i) a fizikai védelem kialakításához és üzemeltetéséhez és
+
+j) a radioaktív anyag használatával járó kiképzés végrehajtásához.
+
+(2) A katonai sugárvédelmi hatóság eltérési engedélye szükséges a létesítésre vonatkozó – az (1) bekezdés b) pont ba) alpontja és *c)* pontja szerinti – hatályos engedély alapját képező engedélykérelemben foglaltaktól való eltéréshez.
+
+(3) A katonai sugárvédelmi hatóság átalakítási engedélye szükséges az üzembe helyezésre vonatkozó – az (1) bekezdés b) pont bb) alpontja és *d)* pontja szerinti – hatályos engedély alapját képező engedélykérelemben foglaltaktól való eltéréshez.
+
+(4) Az engedélykérelem elbírálásakor a katonai sugárvédelmi hatóság megvizsgálja
+
+a) az (1) bekezdés a)–e) pontja, valamint a (2) és (3) bekezdés szerinti engedélykérelem esetében az Svr.-ben,
+
+b) az (1) bekezdés f) pontja szerinti engedélykérelem esetében az Svr.-ben, valamint az atomenergiáról szóló törvény honvédségi alkalmazásáról szóló honvédelmi miniszteri rendeletben (a továbbiakban: HM rendelet),
+
+c) az (1) bekezdés g)–j) pontja szerinti engedélykérelem esetében a HM rendeletben
+
+foglalt követelményeknek való megfelelést.
+
+(5) Az (1) bekezdés a) és d) pontja, továbbá az (1) bekezdés b) pont bb) alpontja szerinti engedélyezési eljárások keretében a sugárvédelmi hatóság helyszíni szemlét tarthat, amely során ellenőrzi az Atv.-ben, az Atv. végrehajtására kiadott jogszabályokban és a sugárvédelemre vonatkozó szabványokban (a továbbiakban együtt: sugárvédelemre vonatkozó szabályok) foglalt követelmények teljesülését, továbbá az Svr. 7. melléklete szerinti Sugárvédelmi Leírásban foglaltak megvalósítását.
+
+## 3. Engedélykérelmek
+
+### 5. §
+
+(1) Az engedélykérelemnek tartalmaznia kell az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 36. § (1) bekezdésében, továbbá a (2)–(10) bekezdésben meghatározottak mellett az engedélyezni kívánt tevékenység megjelölését.
+
+(2) A 4. § (1) bekezdés a) és d) pontja, továbbá a 4. § (1) bekezdés b) pont bb) alpontja szerinti engedélykérelemnek tartalmaznia kell
+
+a) az Svr. 8. mellékletének megfelelő Munkahelyi Sugárvédelmi Szabályzatot és
+
+b) új radioaktív anyag alkalmazása, valamint új berendezés üzembe helyezése esetén az Svr. 7. mellékletének megfelelő Sugárvédelmi Leírást.
+
+(3) A 4. § (1) bekezdés b) pont ba) alpontja és *c)* pontja szerinti engedélykérelemnek tartalmaznia kell az Svr. 7. mellékletének megfelelő Sugárvédelmi Leírást.
+
+(4) A 4. § (1) bekezdés e) pontja szerinti engedélykérelemnek tartalmaznia kell az inaktívvá nyilvánítandó munkahelyre vonatkozó, az Svr. 10. melléklete szerinti sugárzási adatokat.
+
+(5) A 4. § (1) bekezdés f) pontja szerinti engedélykérelemnek tartalmaznia kell az Svr. 7. melléklete szerinti Sugárvédelmi Leírást és a kiképzési levezetési terv sugárveszélyes tevékenységre vonatkozó részének kivonatát.
+
+(6) A 4. § (1) bekezdés g) pontja szerinti engedélykérelemnek tartalmaznia kell
+
+a) az ionizáló sugárzást létrehozó hadfelszerelés esetében az Svr. 54. § (5) bekezdése szerinti adatokat és információkat,
+
+b) a kiképzési célt szolgáló radioaktív anyag vagy radioaktív sugárforrást tartalmazó hadfelszerelés esetében a radioaktív anyag műbizonylatának adatait.
+
+(7) A 4. § (1) bekezdés h) pontja szerinti engedélykérelemnek tartalmaznia kell a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 178/2017. (VII. 5.) Korm. rendelet 2. melléklet 5.4.1 és 7.5.11 pontjában, valamint 8.1 és 8.5 fejezetében foglalt követelmények teljesítéséről szóló nyilatkozatot.
+
+(8) A 4. § (1) bekezdés h) és i) pontja szerinti engedélykérelemnek tartalmaznia kell a fizikai védelmi tervet.
+
+(9) A 4. § (1) bekezdés j) pontja szerinti engedélykérelemnek tartalmaznia kell a kiképzés levezetési terve sugárvédelmi részének kivonatát.
+
+(10) A 4. § (2) bekezdése szerinti eltérés és a 4. § (3) bekezdése szerinti átalakítás iránti engedélykérelemnek – az (1) bekezdésben meghatározottak mellett – tartalmaznia kell
+
+a) a tervezett módosítás és a tervezett módosítás szükségességének leírását és
+
+b) a tervezett módosítással érintett, az engedélyezési eljárás során benyújtott dokumentumok átalakított változatát a tervezett módosítások megjelölésével együtt.
+
+(11) Az engedélykérelem benyújtásával egyidejűleg az elvégzett sugárvédelmi vizsgálatok és mérések eredménye alapján igazolni kell a sugárvédelemre vonatkozó szabályok vonatkozó előírásainak való megfelelést.
+
+(12) A engedélykérelem benyújtásával egyidejűleg igazolni kell a kiképzési célt szolgáló radioaktív anyag vagy radioaktív sugárforrást tartalmazó hadfelszerelés esetében a zárt sugárforrás érvényes zártságvizsgálatának megtörténtét.
+
+(13) A katonai védőeszköz esetében az engedélykérelem benyújtásával egyidejűleg igazolni kell
+
+a) a termékre meghatározott szabályok szerinti megfelelőséget,
+
+b) a rendeltetésszerű használatra vonatkozó magyar nyelvű tájékoztató meglétét.
+
+(14) Az engedélykérelem benyújtásával egyidejűleg igazolni kell a honvédségi jármű személyzetének sugárvédelmi képzettségét.
+
+### 6. §
+
+(1) Az engedélykérelmet a katonai sugárvédelmi hatóság részére írásban kell előterjeszteni.
+
+(2) Az engedélykérelem kormányablaknál nem terjeszthető elő.
+
+### 7. §
+
+(1) A katonai sugárvédelmi hatóság az engedélyt
+
+a) a 4. § (1) bekezdés a)–d) pontja és *i)* pontja szerinti esetben legfeljebb 5 évre,
+
+b) a 4. § (1) bekezdés f), h) és j) pontja szerinti esetben legfeljebb 3 évre,
+
+c) a 4. § (1) bekezdés e) pontja szerinti esetben határozatlan időre
+
+adja ki.
+
+(2) A 4. § (1) bekezdés g) pontja szerinti engedély a rendszerből történő kivonásig hatályos.
+
+(3) A katonai sugárvédelmi hatóság az engedélyt visszavonja, ha azok a feltételek és követelmények már nem állnak fenn, amelyekre tekintettel az engedélyt megadta.
+
+## 4. Bejelentési kötelezettség
+
+### 8. §
+
+(1) A katonai engedélyes köteles bejelenteni
+
+a) a radioaktív anyag alkalmazásának vagy az ionizáló sugárzást létrehozó berendezés üzemeltetésének megszüntetését, legkésőbb a megszüntetést követő 8 napon belül,
+
+b) radioaktív anyag, ionizáló sugárzást létrehozó berendezés, továbbá a tevékenységet szolgáló, nem nukleáris létesítmény tulajdonjoga megszerzését, a használati jogának bármilyen jogcímen való átengedését és a tulajdonosi névváltozást, a megszerzést, az átengedést, a névváltozást követő 8 napon belül,
+
+c) az atomenergia-felügyeleti szerv hatáskörébe tartozó eljárás kezdeményezésének tényét a kezdeményezést követő 8 napon belül,
+
+d) minden rendkívüli eseményt, továbbá az engedélyes helyi nyilvántartásában szereplő radioaktív anyagra, vagy birtokában lévő ionizáló sugárzást létrehozó berendezésre elkövetett bűncselekmény gyanúját vagy előkészületét, az észlelést követően haladéktalanul
+
+a katonai sugárvédelmi hatósághoz.
+
+(2) A bejelentések tartalmát a katonai sugárvédelmi hatóság a 9. § (1) és (2) bekezdése szerinti ellenőrzés keretében vizsgálja.
+
+## 5. Hatósági ellenőrzés
+
+### 9. §
+
+(1) A katonai sugárvédelmi hatóság – a fokozatosság elvével összhangban – rendszeresen és tervszerűen ellenőrzi az Atv. 2. § 2. pontja szerinti atomenergia alkalmazójánál
+
+a) a munkavállalók és a lakosság sugárvédelme érdekében végzett tevékenységet,
+
+b) az alkalmazott radioaktív anyagok és üzemeltett berendezések állapotát és
+
+c) a munkavállalóira kötelező sugárvédelmi előírások megtartását.
+
+(2) A katonai sugárvédelmi hatóság – az (1) bekezdésben foglaltakon túl – rendszeresen és tervszerűen ellenőrzi a katonai engedélyesnél
+
+a) az által igénybe vett sugárvédelmi megbízott vagy szervezet működését,
+
+b) az „A” kategóriába tartozó munkavállalók tekintetében a sugárvédelmi méréseken alapuló rendszeres személyi monitorozás kiértékelt eredményeit és
+
+c) az általa kialakított és működtetett fizikai védelmi rendszert.
+
+(3) A katonai sugárvédelmi hatóság a sugárvédelmet befolyásoló tényezők szempontjából jogosult megvizsgálni vagy megvizsgáltatni a katonai engedélyes működését és a sugárvédelemre hatást gyakorló tevékenységet végző személyek – beleértve a beszállítók személyzetének – alkalmasságát a feladatuk ellátására.
+
+(4) A katonai sugárvédelmi hatóság az ellenőrzés során jogosult a katonai engedélyessel a tevékenysége rendszeres végzését bemutattatni.
+
+(5) A katonai sugárvédelmi hatóság ellenőrzése nem mentesíti a katonai engedélyest a belső ellenőrzési tevékenység végzésének kötelezettsége alól.
+
+(6) A katonai sugárvédelmi hatóság köteles ellenőrzést tartani, ha a katonai engedélyesnél foglalkoztatott személy
+
+a) személyi dózisának növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban,
+
+b) tekintetében az adott naptári év folyamán összegzett dózis meghaladja a 20 mSv effektív dózist, vagy
+
+c) tekintetében az adott év során összegződő sugárterhelés az engedélyezett bármelyik szervdózis-korlát 30 százalékát túllépi.
+
+### 10. §
+
+(1) Ha a katonai sugárvédelmi hatóság a hiányzó vagy a talált anyaggal kapcsolatos bejelentés vételét követően helyszíni ellenőrzést folytat le – figyelemmel a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedésekről szóló kormányrendelet rendelkezéseire –, intézkedik
+
+a) az atomenergia-felügyeleti szerv, a KNBSZ, az Országos Rendőr-főkapitányság, és a hivatásos katasztrófavédelmi szerv illetékes szervének értesítése,
+
+b) a szükség szerinti műszeres vizsgálatok elvégzése,
+
+c) a hiányzó vagy talált anyag helyszínről történő elszállítása, tárolása és
+
+d) – a radioaktív és a nukleáris anyagok központi nyilvántartásáról szóló jogszabályok alapján – a központi nyilvántartásba történő bevezetéshez szükséges adatok meghatározása
+
+érdekében.
+
+(2) A katonai sugárvédelmi hatóság az (1) bekezdés szerinti helyszíni ellenőrzés eredményéről tájékoztatja az atomenergia-felügyeleti szervet és a KNBSZ-t.
+
+### 11. §
+
+(1) Ha a katonai sugárvédelmi hatóság a hatósági ellenőrzés során megállapítja, hogy az ügyfél a sugárvédelemre vonatkozó szabályokban, hatósági döntésben foglalt előírásokat megsértette, a katonai sugárvédelmi hatóság lefolytatja a 12. § (1) bekezdése szerinti eljárást.
+
+(2) A katonai sugárvédelmi hatósági ellenőrzés eszközei különösen
+
+a) az adatszolgáltatás, az iratbemutatás, valamint egyéb tájékoztatás kérése és
+
+b) a helyszíni ellenőrzés.
+
+## 6. Hivatalbóli eljárás
+
+### 12. §
+
+(1) A katonai sugárvédelmi hatóság a 9. § (1) és (2) bekezdése szerinti ellenőrzése során feltárt, az Atv. vagy az Atv. végrehajtására kiadott jogszabály megsértése, vagy az általa kiadott határozatban foglaltak betartásának elmulasztása és megsértése esetén hivatalból eljárást indít.
+
+(2)[^5] A katonai sugárvédelmi hatóság az (1) bekezdés szerint eljárásban – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény szerint –
+
+a) csekély sugárvédelmi jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyest írásban figyelmeztetheti, amelynek során azonosítja az előírássértés jellemzőit és jogi alapját, valamint rögzíti a javító intézkedés végrehajtására engedélyezett időtartamot,
+
+b) lényeges sugárvédelmi jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyezett tevékenységet korlátozhatja, vagy az engedélyt visszavonhatja.
+
+(3) A katonai sugárvédelmi hatóság az (1) bekezdés szerint eljárásban ideiglenes intézkedésként elrendelheti
+
+a) a „B” kategóriába tartozó munkavállalók körében is a személyi monitorozást és – szükség esetén – a személyi méréseket,
+
+b) rendkívüli esemény bekövetkezése esetén a doziméterek soron kívüli kiértékelését és
+
+c) a katonai engedélyesnél nyilvántartott radioaktív anyagok leltározását.
+
+(4) A katonai sugárvédelmi hatóság minden esetben kötelezi a katonai engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására annak érdekében, hogy a rendkívüli események bekövetkezését megelőzzék, vagy az ismételt bekövetkezését megakadályozzák.
+
+## 7. A katonai sugárvédelmi hatóság belső nyilvántartási feladatai
+
+### 13. §
+
+A katonai sugárvédelmi hatóság – a radioaktív és a nukleáris anyagok nyilvántartásáról szóló jogszabályokra figyelemmel – belső nyilvántartási feladatai keretében
+
+a) a katonai engedélyes helyi nyilvántartása és adatszolgáltatása alapján vezeti a honvédelmi ágazat radioaktív anyagaira vonatkozó központi belső nyilvántartást, és
+
+b) vezeti a katonai engedélyesek „A” kategóriába tartozó munkavállalói, továbbá az erre kötelezett „B” kategóriába tartozó munkavállalói vonatkozásában a sugárterhelésnek kitett munkavállalókra vonatkozó korlát 10 százalékát meghaladó eredmények ágazati belső nyilvántartását.
+
+## 8. A katonai sugárvédelmi hatóság más hatóságokkal való együttműködése, adatszolgáltatási feladatai
+
+### 14. §
+
+(1) A katonai sugárvédelmi hatóság feladatai ellátása során együttműködik az atomenergia-felügyeleti szervvel, továbbá a feladatkörében érintett közegészségügyi szervekkel.
+
+(2) A katonai sugárvédelmi hatóság a 12. § (1) bekezdése szerinti eljárásai tárgyát képező minden olyan eseményről, amely a lakosságnak a lakossági dózismegszorítást meghaladó sugárterhelését okozhatta, haladéktalanul tájékoztatja az atomenergia-felügyeleti szervet. Az eljárás tárgyát képező jelentősebb eseményekből és az azt követő vizsgálatokból levont, sugárvédelemre vonatkozó következtetéseket, tapasztalatokat a katonai sugárvédelmi hatóság megküldi az atomenergia-felügyeleti szerv részére.
+
+(3) A katonai sugárvédelmi hatóság az ágazati központi nyilvántartás adatait minden naptári évben egyszer, a katonai engedélyesek leltárfelvételét követő 15 napon belül megküldi az atomenergia-felügyeleti szerv részére.
+
+### 15. §
+
+Az atomenergia-felügyeleti szerv által vezetett Országos Személyi Dozimetriai Nyilvántartás, a katonai engedélyesek „A” kategóriába tartozó munkavállalóinak, továbbá az erre kötelezett, „B” kategóriába tartozó munkavállalóira elvégzett személyi monitorozás eredményét haladéktalanul megküldi a katonai sugárvédelmi hatóság részére, ha a munkavállalók személyi dózisának növekménye egy kiértékelési periódusban meghaladja a sugárterhelésnek kitett munkavállalókra vonatkozó éves korlát 10 százalékát.
+
+## 9. Záró rendelkezések
+
+### 16. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
+
+(2) A 17. § 2019. január 1-jén lép hatályba.
+
+### 18. §
+
+Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom tanácsi irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom irányelvnek való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § (1) bekezdés c) pontja a 176/2024. (VII. 7.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^2]: A 2. § 1. pontja a 176/2024. (VII. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 2. pontja a 176/2024. (VII. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 4. pontja a 176/2024. (VII. 7.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^5]: A 12. § (2) bekezdés nyitó szövegrésze a 17. § szerint módosított szöveg.

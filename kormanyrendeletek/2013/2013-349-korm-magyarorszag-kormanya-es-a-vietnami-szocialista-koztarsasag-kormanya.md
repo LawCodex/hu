@@ -1,0 +1,222 @@
+---
+title: "349/2013. (X. 1.) Korm. rendelet Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti oktatási együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "349/2013. (X. 1.) Korm. rendelet"
+njt_id: "2013-349-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/349"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-10-01
+in_force_from: 2013-10-02
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-349-20-22"
+retrieved: 2026-10-12
+---
+
+# 349/2013. (X. 1.) Korm. rendelet Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti oktatási együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti oktatási együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+**„Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti oktatási együttműködésről szóló egyezmény**
+
+Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya (a továbbiakban: a Felek)
+
+a két ország közötti baráti kötelékek megerősítése, a népeiket összekötő kapcsolatok megszilárdítása, valamint az oktatási együttműködés fejlesztése érdekében,
+
+meggyőződve az oktatás mint olyan eszköz fontosságáról, amely elősegíti országaik kultúrájának és szokásainak megismerését,
+
+felismerve azokat az előnyöket, amelyek a kétoldalú együttműködés megszilárdításából származnak a két ország számára, az egyes országokban alkalmazandó nemzetközi jogi alapelvekkel és rendelkezésekkel összhangban, a következőkben állapodnak meg:
+
+**1. Cikk**
+
+A Felek elősegítik a felsőoktatási tisztségviselők, egyetemi oktatók és kutatók cserelátogatásait és tanulmányútjait, és ösztönzik a tudományos munkát egymás országában a közös érdeklődésre számot tartó területeken.
+
+A Felek ösztönzik felsőoktatási intézményeik között létrejövő közvetlen kapcsolatokat és fokozzák közös törekvéseiket kettős diplomát adó képzések és közös képzések létrehozására.
+
+**2. Cikk**
+
+A Felek ösztönzik és elősegítik az oktatási és tudományos kutatóintézetek közötti közvetlen tudományos kapcsolatokat, valamint az egyetemi oktatók és kutatók cseréjét.
+
+**3. Cikk**
+
+A Felek a felsőoktatási és kutatóintézményekben és központokban szakmai tudás- és tapasztalatcserét folytatnak a tudomány, a technika és a közigazgatás területein. A Felek együttműködnek a pedagógia, sajátos nevelési igényű gyerekek oktatása és gyógypedagógia területén, valamint ösztönzik a pedagógiai szakszolgálataik közötti közvetlen kapcsolatokat.
+
+**4. Cikk**
+
+A Felek bővítik a két ország felsőoktatási intézményeiben a másik fél számára rendelkezésre álló képzési lehetőségeket, főként doktori és kutatói szinteken, valamint a tanárképzés területén.
+
+**5. Cikk**
+
+A Felek támogatják a két ország egyetemei közötti tudományos együttműködést, és megosztják egymással az iskolai bizonyítványok, oklevelek és diplomák egyenértékűségének megteremtésével kapcsolatos információkat azok kölcsönös elismerése feltételeinek megteremtése érdekében.
+
+**6. Cikk**
+
+A Felek kölcsönösen informálják egymást oktatási rendszereikről, elősegítik szakértők részvételét műhelymunkákban, előadásokon, szimpóziumokon a Felek által közösen meghatározott területeken. A Felek elősegítik továbbá küldöttségek cseréjét a tudomány területén.
+
+**7. Cikk**
+
+A Felek ösztönzik oktatási hetek és napok szervezését a két ország oktatási és kulturális intézményeiben. Ezek magukban foglalják előadások, szemináriumok, könyvvásárok és egyéb olyan rendezvények lebonyolítását, melyek bemutatják a két ország eredményeit.
+
+**8. Cikk**
+
+A Felek ösztönzik könyvek, kiadványok, szórólapok, füzetek, folyóiratok, dokumentumok, filmek, és minden, a két országban folyó oktatással és tudományos kutatással kapcsolatos szakirodalom és forrásanyag egymás közti cseréjét.
+
+**9. Cikk**
+
+A Felek ösztönzik a helyi és nemzetközi oktatási konferenciákon, szemináriumokon, szimpóziumokon és tudományos műhelymunkákban való részvételt, és kellő időben tájékoztatják egymást ezekről az eseményekről.
+
+**10. Cikk**
+
+A Felek ösztönzik a magyar nyelv Vietnami Szocialista Köztársaság területén történő és a vietnami nyelv Magyarország területén történő elsajátításához szükséges módszertani, pedagógiai programok megvalósítását, és a megfelelő oktatási és módszertani irodalom fordítását.
+
+**11. Cikk**
+
+A Felek támogatják külön együttműködési megállapodások megkötését a két ország érintett oktatási intézményei között.
+
+**12. Cikk**
+
+A jelen Egyezmény nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen a jelen Egyezmény rendelkezései nem értelmezhetőek úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják a Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**13. Cikk**
+
+A jelen Egyezmény értelmezése és végrehajtása során felmerülő vitás kérdéseket a Felek meghatalmazott képviselői diplomáciai úton rendezik.
+
+A Felek megállapodnak abban, hogy szükség esetén a Felek illetékes képviselői konzultációkat folytatnak a végrehajtási programok aláírásával kapcsolatban, elővezetve az azok megvalósításához szükséges konkrét lépéseket és projekteket, valamint – ahol lehetséges – meghatározva az Egyezményben és a végrehajtási programokban vázolt események pénzügyi és szervezeti feltételeit.
+
+A konzultációk feltételeiről és az illetékes képviselők névsoráról a Felek diplomáciai úton egyeztetnek.
+
+**14. Cikk**
+
+Ez az Egyezmény azon utolsó jegyzék kézhezvételétől számított harmincadik napon lép hatályba, melyben a Felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek.
+
+Jelen Egyezmény a hatálybalépésének napjától számított öt éven belül hatályos, és automatikusan meghosszabbodik újabb ötéves időszakra. Az Egyezményt bármely szerződő fél írásban, diplomáciai úton felmondhatja. Ebben az esetben az Egyezmény a felmondásáról szóló értesítés átvételének napjától számított 6 hónap múlva veszti hatályát.
+
+Abban az esetben, ha a jelen Egyezmény hatályát veszti, előírásait a gyakorlatban továbbra is alkalmazni kell a még folyamatban lévő programok és projektek tekintetében mindaddig, amíg azokat teljes egészükben végre nem hajtják.
+
+Fentiek bizonyságául az alulírott képviselők, kormányaik megfelelő felhatalmazásának birtokában, aláírták a jelen Egyezményt.
+
+Készült Hanoi városban 2013. március 4-én magyar, vietnami és angol nyelven két eredeti példányban. Ezek mindegyike egyformán hiteles. Az értelmezésből származó bármely nézetkülönbség kialakulása esetén az angol nyelvű szöveg a mérvadó.
+
+Magyarország Kormánya\
+nevében
+
+Vietnami Szocialista Köztársaság Kormánya\
+nevében
+
+AGREEMENT\
+BETWEEN THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF VIET NAM AND THE GOVERNMENT\
+OF HUNGARY ON EDUCATIONAL CO-OPERATION
+
+The Government of the Socialist Republic of Viet Nam and the Government of Hungary, hereinafter referred to as „the Parties”;
+
+in order to enhance the bonds of friendship existing between their two countries, to widen the links binding their people, to develop co-operation in educational domains,
+
+believing in the importance of education as a mean of enhancing the knowledge about our countries' customs and culture;
+
+recognizing the benefits each of the two countries may gain as a result of consolidating bilateral co-operation in accordance with the basic principles of international laws and regulations applied in each country, have agreed on the following:
+
+**Article 1**
+
+The Parties will encourage exchange of visits and study trips of higher education officials, faculty members and scholars and will promote the academic work in each other's countries in fields of common interest.
+
+The Parties will promote direct co-operation between their higher education institutions and enhance mutual efforts on developing joint degree programmes and common trainings.
+
+**Article 2**
+
+The Parties will promote and encourage direct scientific relations between educational, scientific research establishments and the exchange of researchers and experts.
+
+**Article 3**
+
+The Parties will exchange expertise and knowledge in the scientific, methodological and administrative fields between higher education institutions and scientific research institutions and centers. The Parties will co-operate in the field of pedagogy, therapy and special education and promote direct contacts between their pedagogical professional services.
+
+**Article 4**
+
+The Parties will increase opportunities for training of the nationals of the other Party in higher education institutions in both countries notably on postgraduate and academic levels and in teacher training.
+
+**Article 5**
+
+The Parties will promote academic co-operation between higher education institutions in both countries and exchange of information in the field of establishing equivalences between school certificates and diplomas, graduate and postgraduate academic degrees for purposes of mutual recognition of these degrees.
+
+**Article 6**
+
+The Parties will exchange information and data on their respective educational systems, and encourage participation of experts in workshops, lectures, symposia in domains defined on a mutual basis. The Parties will also encourage the exchange of delegations in scientific fields.
+
+**Article 7**
+
+The Parties will encourage the organization of educational weeks and days in educational and cultural institutions of each country. These will include the giving of lectures and the holding of seminars, book exhibitions and fairs, other forms of presenting the achievements of both countries.
+
+**Article 8**
+
+The Parties will encourage the exchange of books, brochures, periodicals, documents, films and other materials and sources of information related to educational, scientific research activities in both countries.
+
+**Article 9**
+
+The Parties will encourage participation in local and international educational conferences, seminars, symposia, scientific workshops, and will inform one another about such events a sufficient period of time in advance of their start.
+
+**Article 10**
+
+The Parties will encourage the realization of methodological and pedagogical programmes necessary for the acquisition of the Vietnamese language on the territory of Hungary and the Hungarian language on the territory of Viet Nam, and the translation and publication of the corresponding educational and methodological literature.
+
+**Article 11**
+
+The Parties will encourage elaborating special agreements on co-operation between involved educational institutions of the two countries.
+
+**Article 12**
+
+Commitments originating from the membership of Hungary in the European Union are not affected by the present Agreement. As a consequence of this, provisions of the present Agreement will not be interpreted in a way that it would annul, amend or have any other effect on the commitments of Hungary originating especially from the treaties forming the basis of the European Union, as well as those commitments originating from the primary and secondary legislation of the European Union.
+
+**Article 13**
+
+Any disputes between the two Parties arising from the interpretation and implementation of this Agreement will be settled through consultation or negotiation between the authorized representatives of the Parties.
+
+The Parties will agree whenever necessary to hold consultations between the authorized representatives of the Parties to sign the executive programs, foreseeing the concrete measures and projects for the fulfilment of this Agreement and defining, where it is possible, the financial and other organizational terms in order to carry out events, provided by this Agreement and executive programs.
+
+The terms of consultations and the list of authorized representatives will be agreed by the Parties through diplomatic channels.
+
+**Article 14**
+
+This Agreement will enter into force on the thirtieth day after the receipt of the latter written notification by the Parties through diplomatic channels confirming the completion of their respective internal procedures required for the entry into force of this Agreement.
+
+This Agreement is valid for five years, and will be renewed automatically for five years. The Agreement may be terminated by either of the Parties in written form, through diplomatic channels. In this case, the Agreement expires six months after receiving the notification about its termination.
+
+In the event this Agreement is terminated, its provisions will continue to be implemented with respect to existing programmes and projects until they are completed.
+
+In witness thereof, the undersigned, being duly authorized by their respective Government, have signed this Agreement.
+
+Done in Hanoi on 4 March 2013 in two originals, each in the Vietnamese, Hungarian and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text will prevail.
+
+On behalf of the Government\
+of Socialist Republic\
+of Viet Nam
+
+On behalf of the Government\
+of Hungary”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény 14. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 14. cikk első bekezdésében meghatározott időpontban lép hatályba. A 23/2017. (VI. 28.) KKM közlemény alapján a hatálybalépés időpontja 2016. január 28.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 14. cikk első bekezdésében meghatározott időpontban lép hatályba. A 23/2017. (VI. 28.) KKM közlemény alapján a hatálybalépés időpontja 2016. január 28.
+[^3]: A 23/2017. (VI. 28.) KKM közlemény alapján a hatálybalépés időpontja 2016. január 28.
+[^4]: Lásd a 23/2017. (VI. 28.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 130. §-a szerint módosított szöveg.

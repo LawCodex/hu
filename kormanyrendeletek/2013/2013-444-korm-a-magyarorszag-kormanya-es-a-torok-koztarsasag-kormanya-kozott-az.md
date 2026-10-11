@@ -1,0 +1,172 @@
+---
+title: "444/2013. (XI. 28.) Korm. rendelet a Magyarország Kormánya és a Török Köztársaság Kormánya között az egészségügy és az orvostudományok területén történő együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "444/2013. (XI. 28.) Korm. rendelet"
+njt_id: "2013-444-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/444"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-11-28
+in_force_from: 2013-11-29
+last_amended: 2013-12-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-444-20-22"
+retrieved: 2026-10-12
+---
+
+# 444/2013. (XI. 28.) Korm. rendelet a Magyarország Kormánya és a Török Köztársaság Kormánya között az egészségügy és az orvostudományok területén történő együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya között az egészségügy és az orvostudományok területén történő együttműködésről szóló megállapodás (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Szerződést e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Szerződés hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**„AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON COOPERATION IN THE FIELDS OF HEALTH AND MEDICAL SCIENCES**
+
+The Government of Hungary and the Government of the Republic of Turkey (hereinafter referred to as the „Parties”),
+
+Guided by the wish to enhance the cooperation between the two countries in the fields of health and medical sciences,
+
+Recognizing that this cooperation shall contribute to the improvement of the health of their people,
+
+have agreed as follows:
+
+**ARTICLE 1**
+
+The Parties, based on the principles of equality and reciprocity, in conformity with their mutual benefits and in accordance with their national legislation, shall promote cooperation in the fields of health and medical sciences.
+
+**ARTICLE 2**
+
+The Parties shall cooperate in the fields of health and medical sciences, upon mutual approval, by means of:
+
+*a)* Strengthening of health systems,
+
+*b)* Mutual encouragement of investments in health sector,
+
+*c)* Enhancing health tourism,
+
+*d)* Cooperation on enhancing hospital management systems, informatics and health statistics,
+
+*e)* Organization of healthcare services in case of emergency and disasters,
+
+*f)* Cooperation on research and development activities in the field of health,
+
+*g)* Cooperation on medical devices and pharmaceuticals.
+
+**ARTICLE 3**
+
+The Parties shall cooperate by mutual exchange of experts, and by encouragement of attending national and international meetings to cooperate on areas stated in the Article 2 of this agreement.
+
+The Parties shall establish a Joint Working Committee with a view to determining and evaluating cooperation activities between them. The Committee shall meet once a year on alternating basis.
+
+**ARTICLE 4**
+
+For visits of experts and other personnel of both countries within the framework of this Agreement, The Sending Party shall cover the cost of international travel, accommodation and internal travel in connection with the visits.
+
+**ARTICLE 5**
+
+The Ministry of Human Resources of Hungary and the Ministry of Health of the Republic of Turkey shall provide for the implementation of this Agreement.
+
+**ARTICLE 6**
+
+This Agreement shall enter into force on the date of receipt of last written notification by which the Parties notify each other, through diplomatic channels, of the completion of their internal legal procedures required for the entry into force of this Agreement.
+
+This Agreement shall remain in force for a period of 1 (one) year from the date of its entry into force and shall be renewable for one-year periods unless one of the Parties notifies the other in writing through diplomatic channels of its intention to terminate the Agreement 6 months prior to the date of expiration. The termination of this Agreement shall not affect the activities and projects already in progress or executed.
+
+This Agreement may be amended by mutual written consent of the Parties at any time. The amendments shall enter into force in accordance with the same legal procedure prescribed under the first paragraph of this Article.
+
+**ARTICLE 7**
+
+Done in Budapest, on 23 January 2013, in two original copies in Hungarian, Turkish and English, all texts being equally authentic. In case of any divergence of interpretation, the English text shall prevail.
+
+On behalf of the Government of Hungary
+
+On behalf of the Government of the Republic of Turkey
+
+**MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A TÖRÖK KÖZTÁRSASÁG KORMÁNYA KÖZÖTT AZ EGÉSZSÉGÜGY ÉS AZ ORVOSTUDOMÁNYOK TERÜLETÉN TÖRTÉNŐ EGYÜTTMŰKÖDÉSRŐL**
+
+Magyarország Kormánya és a Török Köztársaság Kormánya (a továbbiakban a „Felek”),
+
+Attól az óhajtól vezérelve, hogy elmélyítsék az együttműködést a két ország között az egészségügy és az orvostudományok területén,
+
+Felismerve, hogy az együttműködés hozzájárul lakosságuk egészségi állapotának javításához,
+
+a következőkben állapodtak meg:
+
+**1. cikk**
+
+A Felek az egyenlőség, a kölcsönösség elve alapján, a kölcsönös előnyöknek megfelelően és összhangban nemzeti szabályozásukkal előmozdítják az együttműködést az egészségügy és az orvostudományok területén.
+
+**2. cikk**
+
+A Felek együttműködnek az egészségügy és az orvostudományok területén, kölcsönös megállapodás alapján, a következők szerint:
+
+*a)* Egészségügyi rendszerek megerősítése;
+
+*b)* Az egészségügyi szektorba történő befektetés kölcsönös ösztönzése;
+
+*c)* Egészségturizmus előmozdítása;
+
+*d)* Együttműködés a kórházi menedzsment rendszer, az informatika és az egészségügyi statisztika fejlesztése érdekében;
+
+*e)* Sürgősségi és katasztrófa egészségügyi ellátási szolgálatok szervezése;
+
+*f)* Együttműködés az egészségügyi kutatás és fejlesztés területén;
+
+*g)* Együttműködés az orvostechnika és a gyógyszerek témájában.
+
+**3. cikk**
+
+A Felek szakértők kölcsönös cseréjével és bátorítva a részvételt nemzeti és nemzetközi találkozókon együttműködnek e Megállapodás 2. cikkében meghatározott területeken.
+
+A Felek Közös Munkabizottságot hoznak létre, hogy meghatározzák és értékeljék a közös együttműködési tevékenységeket. A Bizottság évente egy alkalommal ülésezik, váltakozó helyszínen.
+
+**4. cikk**
+
+A két ország szakértői és más személyek ezen Megállapodás keretén belül megvalósuló látogatása esetén a Küldő Fél fedezi a látogatással kapcsolatos nemzetközi utazás, szállás és belföldi utazás költségeit.
+
+**5. cikk**
+
+Magyarország Emberi Erőforrások Minisztériuma és a Török Köztársaság Egészségügyi Minisztériuma gondoskodik jelen Megállapodás végrehajtásáról.
+
+**6. cikk**
+
+Jelen Megállapodás azon utolsó írásbeli értesítés kézhezvételének napján lép hatályba, melyben a felek diplomáciai úton értesítik egymást jelen Megállapodás életbe lépéséhez szükséges belső jogi eljárásuk befejezéséről.
+
+A Megállapodás a hatályba lépésétől számított 1 (egy) évig marad hatályban és további egy éves időszakokra megújítható, ha egyik Fél sem értesíti diplomáciai úton írásban a másikat a Megállapodás megszüntetésére vonatkozó szándékáról, 6 hónappal a lejárat előtt. Ezen Megállapodás megszüntetése nem befolyásolja a folyamatban lévő vagy elvégzett tevékenységeket és projekteket.
+
+Ezen Megállapodás bármikor módosítható a Felek kölcsönös írásos hozzájárulásával. A módosítások azon jogi eljárásnak megfelelően lépnek hatályba, amelyet ezen cikk első bekezdése említ.
+
+**7. cikk**
+
+Készült Budapesten, 2013. január 23-án, két eredeti példányban, magyar, török és angol nyelven, valamennyi szöveg egyaránt hiteles. Értelmezési eltérés esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország Kormánya\
+részéről
+
+a Török Köztársaság Kormánya\
+részéről”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Szerződés 6. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Szerződés, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Szerződés 6. cikkében meghatározott időpontban lép hatályba. A 47/2013. (XII. 16.) KüM közlemény alapján a hatálybalépés időpontja 2013. december 16.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Szerződés 6. cikkében meghatározott időpontban lép hatályba. A 47/2013. (XII. 16.) KüM közlemény alapján a hatálybalépés időpontja 2013. december 16.
+[^3]: A 47/2013. (XII. 16.) KüM közlemény alapján a hatálybalépés időpontja 2013. december 16.
+[^4]: Lásd a 47/2013. (XII. 16.) KüM közleményt.

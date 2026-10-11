@@ -1,0 +1,385 @@
+---
+title: "55/2009. (III. 13.) Korm. rendelet a vásárokról, a piacokról, és a bevásárlóközpontokról"
+identifier: "55/2009. (III. 13.) Korm. rendelet"
+njt_id: "2009-55-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/55"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-03-13
+in_force_from: 2010-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-55-20-22"
+retrieved: 2026-10-12
+---
+
+# 55/2009. (III. 13.) Korm. rendelet a vásárokról, a piacokról, és a bevásárlóközpontokról[^1]
+
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés h) és l) pontjában, valamint az 5. § (1) bekezdés j) pontjában foglaltak tekintetében a rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^2] E rendelet hatálya a Magyarország területén rendezett, illetve tartott vásárokra, piacokra és üzemeltetett bevásárlóközpontokra, valamint a vásárokon, a piacokon és a bevásárlóközpontokban folytatott kereskedelmi tevékenységre terjed ki. Nem tartozik e rendelet hatálya alá a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerint közterületen a húsvéti, adventi, karácsonyi és szilveszteri ünnepeken, valamint évente egy alkalommal, kizárólag az adott ünnepen és az azt megelőző 20 napban folytatott kereskedelmi tevékenység.
+
+(2) E rendelet alkalmazásában
+
+a) *vásár, piac:* a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.) meghatározott értékesítési forma, értékesítési hely;
+
+b)[^3] *alkalmi (ünnepi) vásár:* ünnepekhez, rendezvényekhez, eseményekhez kapcsolódó alkalomszerű – legfeljebb 30 napig, indokolt esetben 45 napig tartható – vásár;
+
+c) *állandó vásár, illetve piac:* a *b)* pontban meghatározott időtartamot meghaladó ideig működő értékesítési forma, értékesítési hely, ideértve az ugyanazon helyszínen, nyitva tartása szerint csak meghatározott napokon és meghatározott időben, de rendszeresen működő vásárt, piacot is, ide nem értve a nagybani piaci tevékenységet;
+
+d) *használtcikk-vásár, illetve -piac:* olyan helyi jellegű, általában időszaki értékesítési hely, ahol az eredeti célra még rendeltetésszerűen használható terméket (használt cikk) árusítanak;
+
+e)[^4] *fenntartó:* a vásár, piac, illetve a bevásárlóközpont helyszínéül szolgáló terület, ingatlan tulajdonosa, bérlője vagy más jogcímen használója, aki a vásáron, piacon, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a helyhasználatot biztosítja, és aki a vásár, piac, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a kereskedelmet kiszolgáló szolgáltatási tevékenység folytatásáért felelős;
+
+f)[^5] *üzemeltető:* a fenntartó vagy a fenntartó által kijelölt, a vásár, piac, illetve a bevásárlóközpont vezetését, illetve annak működtetésével kapcsolatos feladatokat ellátó személy, aki a fenntartó nevében eljárni jogosult;
+
+g)[^6] állatvásár: olyan időszaki értékesítési hely – ideértve az állatbörzét és az állatárverést is –, ahol nem kizárólag egy állattartási helyről származó élő állatot – ide nem értve a fogyasztási célra szánt halat és más hasznos vízi állatot – árusítanak.
+
+h)[^7] *helyi termelői piac:* a kereskedelemről szóló törvényben meghatározott fogalom.
+
+(3)[^8] Nem kell alkalmazni a helyi termelői piacok esetében a 2. § (3) és (4) bekezdését, a 7. §-t, valamint a 8. § (2) és (3) bekezdését.
+
+## 2. §[^9]
+
+(1)[^10] Vásár és piac olyan területen rendezhető, illetve tartható, amelyen a településrendezési terv a vásárrendezést, piactartást lehetővé teszi, vagy amely vásár rendezése, helyi termelői piac működése céljából területhasználati hozzájárulással rendelkezik. A területnek, a vásár, illetve piac jellegétől, az ott értékesített termékkörtől, illetve a folytatott tevékenységtől függően, meg kell felelnie a jogszabályban előírt építésügyi, közegészségügyi, élelmiszerlánc-biztonsági, élelmiszer-higiéniai, állat-egészségügyi, növény-egészségügyi, környezetvédelmi, kulturális örökségvédelmi, munkavédelmi és tűzvédelmi követelményeknek, valamint rendelkeznie kell a tevékenység során képződő hulladékok elkülönített gyűjtését biztosító hulladéktárolókkal.
+
+(2)[^11]
+
+(3)[^12] Az egyidejűleg 300 főnél nagyobb befogadó képességű vásár, piac, bevásárlóközpont, továbbá a szabadtéren tartott vásár, piac esetében, amennyiben az egyidejűleg résztvevők létszáma az 1000 főt várhatóan meghaladja, a vásár, piac, bevásárlóközpont üzemeltetője köteles az emberek életét, egészségét és környezetét, anyagi értékeit súlyosan veszélyeztető vagy károsító esemény bekövetkeztére vonatkozó biztonsági tervet készíteni. Ha a vásár, piac biztonságát veszély fenyegeti, az üzemeltető a vásár, piac működését felfüggeszti.
+
+(4)[^13] A biztonsági terv tartalmazza:
+
+a) a vásár, piac, bevásárlóközpont helyszínének baleset, elemi csapás, közveszéllyel fenyegetés, tömeges rendbontás esetére vonatkozó kiürítési, menekítési tervét;
+
+b) szabadtéri vásár, piac esetén az időjárás változásának folyamatos nyomon követésének kötelezettségét.
+
+## 4. §
+
+(1)[^15] A Kormány a Kertv. 6/A. §-a és 6/G. § c) pontja, valamint e rendelkezésekkel összefüggésben a Kertv. 9. § (1), (4) és (5) bekezdése tekintetében kereskedelmi hatóságként, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) tekintetében a szolgáltatás felügyeletét ellátó hatóságként a vásár, a piac, a helyi piac, valamint a bevásárlóközpont helye szerinti települési, Budapesten a kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki.
+
+(2)[^16] A vásár vagy a piac üzemeltetését a vásár vagy piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző engedélyezi.
+
+(3)[^17] A vásár-, illetve piacüzemeltetési engedély iránti kérelemben – a Szolgtv.-ben meghatározottakon túl – meg kell jelölni, illetve csatolni kell:
+
+a)[^18] a fenntartó nevét, címét, illetve székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik;
+
+b) a fenntartó vállalkozó nyilvántartásba vételi számát vagy cégjegyzékszámát, illetve a bírósági nyilvántartásba vételi számát;
+
+c)[^19] az üzemeltető nevét, címét, elektronikus levelezési címét, amennyiben azzal rendelkezik;
+
+d) a vásár, piac elnevezését, (szak)jellegét;
+
+e) a vásár, piac címét, helyrajzi számát;
+
+f) a vásár, piac számára kijelölt területet, alapterületét, méretarányos helyszínrajzát az üzletek, árusítóhelyek, valamint az egyéb létesítmények és nem árusítási célra kiképzett területrészek tervezett rendeltetés, és szám szerinti meghatározásával, a vevőforgalmi és árubeszállítási, -feltöltési útvonalak kijelölésével;
+
+g) a területhasználatának jogcímét (saját tulajdon, bérlet stb.), a tulajdoni lap kivételével a jogcímre vonatkozó igazoló okirattal, továbbá haszonélvezet esetében a haszonélvező, illetve közös tulajdon esetében a tulajdonostárs, hozzájárulását igazoló okirattal együtt;
+
+h) a vásár rendezésének, piac tartásának időpontját, időtartamát, illetve a vásár, piac napi/heti nyitvatartási idejét;
+
+i) a vásár, piac működésének rendjét;
+
+j)[^20] élelmiszer felhasználása, forgalmazása, továbbá termény, takarmány, élő állat, illetve állatgyógyászati készítmény és növényvédő szer értékesítése esetén a kérelmező nyilatkozatát arról, hogy a vásár vagy a piac területén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási hivatal, továbbá növény- és talajvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatal részére állandó jelleggel ingyenes helyiséghasználatot biztosít.
+
+(4)[^21]
+
+(4a)[^22]
+
+(5)[^23] Az engedélyezési eljárás ügyintézési határideje húsz nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi.
+
+(5a)[^24] A (6) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, azzal, hogy a (6) bekezdés c) pontja tekintetében csak a fenntartó és az üzemeltető neve közhiteles.
+
+(6)[^25] A vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+
+a) az engedély kiadása és a nyilvántartásba vétel időpontját;
+
+b) az engedély és a nyilvántartás sorszámát;
+
+c)[^26] a fenntartó által a kérelemben a (3) bekezdés a)–c) pontja alapján megadott adatokat;
+
+d)–e)[^27]
+
+f) a vásár, piac elnevezését, (szak)jellegét;
+
+g) a vásár, piac címét;
+
+h) a vásár rendezésének, piac tartásának időpontját, időtartamát, illetve a vásár, piac napi/heti nyitvatartási idejét;
+
+i) a vásár, piac alapterületét, a vásár, piac számára kijelölt területet és a kijelölt árusítóhelyek számát;
+
+j)[^28] a működéssel összefüggő feltételeket, korlátozást;
+
+k) az ellenőrző hatóságoknak a vásár, piac működését érintő intézkedéseit;
+
+l) a nyilvántartásból való törlés tényét, annak időpontját.
+
+(7)[^29] A (6) bekezdés c)–i) pontjában foglalt adatokban történő változásról a fenntartó köteles a jegyzőt haladéktalanul értesíteni. A jegyző a változást a nyilvántartásba bejegyzi.
+
+(8)[^30] A (3) bekezdésben felsorolt adatok és dokumentumok, valamint a (7) bekezdésben foglalt értesítés elektronikus úton is benyújthatók.
+
+## 4/A. §[^31]
+
+(1) A fenntartónak a bevásárlóközpont üzemeltetésre irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
+
+a) a fenntartó nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
+
+b) a fenntartó cégjegyzékszámát, egyéni vállalkozó nyilvántartási számát vagy bírósági nyilvántartásba vételi számát,
+
+c) az üzemeltető nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
+
+d) a bevásárlóközpont elnevezését,
+
+e) a bevásárlóközpont címét, az ingatlan helyrajzi számát,
+
+f) a területhasználatának jogcímét,
+
+g) a bevásárlóközpont nyitvatartási, üzemeltetési idejét, továbbá
+
+h) az üzletek, más árusítóhelyek számát.
+
+(2)[^32] A jegyző a bevásárlóközpontot nyilvántartásba veszi.
+
+(2a)[^33] A (3) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, azzal, hogy a (3) bekezdés a) pontja tekintetében csak a fenntartó és az üzemeltető neve közhiteles.
+
+(3)[^34] A bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+
+a) a fenntartó által a bejelentésben az (1) bekezdés a)–c) pontja alapján megadott adatokat,
+
+b) a bevásárlóközpont elnevezését,
+
+c) a bevásárlóközpont címét, az ingatlan helyrajzi számát,
+
+d) a bevásárlóközpont nyitvatartási, üzemeltetési idejét,
+
+e) az üzletek, illetve más árusítóhelyek számát.
+
+(4)[^35] A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi
+
+a)[^36] a fogyasztóvédelmi hatóságnak,
+
+b)[^37] a munkavédelmi hatóságnak,
+
+c) az illetékes rendőrkapitányságnak.
+
+(5)[^38] A bevásárlóközpont fenntartója a bejelentés (1) bekezdés szerinti adataiban bekövetkezett változást haladéktalanul köteles bejelenteni a jegyzőnek.
+
+(6)[^39] A jegyző a bejelentett adatok változásának a nyilvántartásba történő bejegyzéséről haladéktalanul tájékoztatja a (4) bekezdésben megjelölteket.
+
+## 4/B. §[^40]
+
+(1)[^41] A helyi termelői piac üzemeltetésére irányuló szándékot a fenntartónak a piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzőjénél, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnél kell bejelentenie.
+
+(2) A fenntartónak a helyi termelői piac üzemeltetésére irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
+
+a) a fenntartó nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
+
+b) a fenntartó cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát, vagy bírósági nyilvántartásba vételi számát,
+
+c) az üzemeltető nevét, címét, székhelyét,
+
+d) elektronikus levelezési címét, amennyiben azzal rendelkezik,
+
+e) a helyi termelői piac címét, helyrajzi számát,
+
+f) a területhasználatának jogcímét,
+
+g) a piac nyitva tartási idejét.
+
+(3)[^42] A jegyző a helyi termelői piacot nyilvántartásba veszi.
+
+(3a)[^43] A (4) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, azzal, hogy a (2) bekezdés a) és c) pontja tekintetében csak a fenntartó és az üzemeltető neve közhiteles, a (2) bekezdés b), d) és f) pontja tekintetében pedig nem közhiteles a nyilvántartás.
+
+(4)[^44] A bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a fenntartó által a (2) bekezdés alapján megadott adatokat.
+
+(5)[^45] A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi:
+
+a)[^46] a népegészségügyi, valamint élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási hivatalának, illetve a növény- és talajvédelmi, valamint fogyasztóvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak,
+
+b)[^47] a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatalának,
+
+c) az illetékes rendőrkapitányságnak és
+
+d) a Nemzeti Adó- és Vámhivatalnak.
+
+(6)[^48] A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a jegyzőnek. A jegyző a változást a nyilvántartásba bejegyzi.
+
+## 4/C. §[^49]
+
+(1)[^50] Ha a helyi termelői piac üzemeltetéséhez – a forgalmazott termékekre tekintettel – külön hatóság engedélye (a továbbiakban: külön engedély) szükséges, a külön engedély kiadására irányuló eljárás az általános közigazgatási rendtartásról szóló törvény szerinti megelőző eljárásnak minősül.
+
+(2)[^51]
+
+(3)[^52] Hiánypótlásnak az igazgatási szolgáltatási díj vagy illeték megfizetésének pótlására való felhívás kivételével nincs helye.
+
+(4)[^53] Az ügyfél – a külön engedély iránti kérelem benyújtásával egyidejűleg – a külön engedély kiadására hatáskörrel rendelkező illetékes hatóságnál is teljesítheti a helyi termelői piac bejelentését és a bejelentésért fizetendő illeték megfizetését. A külön engedély kiadására hatáskörrel rendelkező illetékes hatóság a bejelentést a Szolgtv. 23. §-a szerinti intézkedések megtétele érdekében haladéktalanul továbbítja a jegyzőnek.
+
+## 5. §[^54]
+
+(1)[^55] Az egyéni vállalkozónak vagy mezőgazdasági kistermelőnek nem minősülő, valamely EGT-államban lakóhellyel vagy székhellyel rendelkező magánszemély a tulajdonát képező vagyontárgyakat használtcikk-piacon és -vásáron alkalomszerűen értékesítheti. Nem tekinthető használt cikknek a kozmetikai termék, az élelmiszer, a takarmány, az élvezeti cikk.
+
+(2) Gyűjtött, szedett gomba vásáron, piacon csak ott árusítható, ahol a gombaértékesítési engedély kiadására és az értékesítés ellenőrzésére a vásár, piac területén a teljes nyitvatartási idő alatt gombavizsgáló szakellenőr működik.
+
+(3)[^56] Szeszes ital vásáron, piacon a jövedéki adóról szóló törvényben meghatározott feltételek teljesítése mellett árusítható.
+
+(4)[^57] Az (1) bekezdés szerinti magánszemély a tulajdonát képező élő állatot állatvásáron alkalomszerűen értékesítheti.
+
+## 6. §[^58]
+
+(1) A vásár, a piac, illetve a bevásárlóközpont működésének rendjét az üzemeltető határozza meg, és arról jól látható helyen közzétett hirdetményben tájékoztatja a kereskedőket és a vásárlókat. Fel kell tüntetni továbbá az üzemeltető nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik.
+
+(2) A vásár és piac esetében a hirdetményben ismertetni kell a helyfoglalás, a telepítés szakmai szabályok figyelembevételével kialakított sorrendjét is.
+
+(3) Az üzemeltető az (1) bekezdésben meghatározott, a tevékenységével kapcsolatban beérkező írásbeli panaszt köteles megvizsgálni, és az intézkedéséről, valamint annak indokairól a vásárlót a panasz kézhezvételétől, illetve beérkezésétől számított harminc napon belül postai úton vagy elektronikus levélben tájékoztatni. A válaszlevélben tájékoztatni kell a vásárlót arról, hogy amennyiben nem ért egyet az abban foglaltakkal, úgy panaszával a jegyzőhöz fordulhat. Az írásbeli vásárlói panaszra adott válasz másodpéldányát az üzemeltető köteles az ellenőrzés során az ellenőrző hatóságoknak bemutatni.
+
+(4)[^59] A helyi termelői piac üzemeltetője a piacon árusító kistermelő
+
+a) nevéről és címéről,
+
+b) gazdasága, illetve a termelés és előállítás helyéről,
+
+c) regisztrációs számáról, és
+
+d) által árusított termékekről
+
+napi nyilvántartást vezet, amelyet köteles 60 napig megőrizni és az ellenőrző hatóság kérésére bemutatni.
+
+## 7. §
+
+(1) A vásár, illetve piac esetében az üzemeltető köteles az üzleteket, árusítóhelyeket, valamint az egyéb létesítményeket és a nem árusítási célra kiképzett területrészeket, a vásárlók számára is jól látható módon sorszámmal ellátni.
+
+(2) Az állandó vásár, piac esetében az üzemeltető köteles az állandó vásár, piac bejáratánál a vásár, piac térképét, helyszínrajzát tartalmazó táblát elhelyezni, amelyen köteles feltüntetni naprakészen a sorszámmal ellátott kereskedelmi egységeket, helyszíneket.
+
+(3) Az üzemeltető köteles a vásáron, piacon kereskedelmi tevékenységet végzőkről, bérlőkről naprakész, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek megfelelő nyilvántartást vezetni, és azt a piac területén ellenőrzést végző hatóság felhívására, a hatóság számára bemutatni, illetve hozzáférhetővé tenni. A nyilvántartásnak tartalmaznia kell:
+
+a)[^60] a (2) bekezdés szerinti térképet a sorszámmal ellátott kereskedelmi egységek, helyszínek, illetve azok rendeltetésének (üzlet, egyéb értékesítő hely, tárolóhely stb.) pontos megjelölésével,
+
+b) a sorszám szerint a kereskedelmi tevékenységet végzők, bérlők nevét, címét, illetve székhelyét, telefonszámát, elektronikus levelezési címét, amennyiben azzal rendelkezik, cégjegyzékszámát, egyéni vállalkozó nyilvántartásba vételi számát, őstermelői igazolványának számát, kistermelői regisztrációs számát.
+
+## 8. §
+
+(1)[^61] A vásár, piac nyitva tartásának idejét az üzemeltető 5 és 22 óra között határozza meg. A 22 óra utáni nyitva tartást az illetékes rendőrkapitányság véleményének kikérésével a jegyző a 4. § (1) bekezdésben meghatározott feladatkörében eljárva engedélyezheti. Az üzemeltető köteles a vásár, piac nyitva tartásáról a vásárlókat tájékoztatni.
+
+(2)[^62] A vásár, piac nyitva tartási ideje alatt az ott működő üzletek nyitva tartási idejét a külön jogszabályban foglaltak szerint fel kell tüntetni. A nyitva tartási idő alatt a kereskedő köteles az ellenőrző hatóságok rendelkezésére állni.
+
+(3) Az üzemeltető az általa tartandó vásárról, piacról, annak időpontjáról, gyakoriságáról, (szak)jellegéről, az értékesítésre kerülő termékek köréről a megrendezést megelőzően legalább 60 nappal a vásár, piac helye szerint illetékes területi kereskedelmi és iparkamarát írásban tájékoztathatja, amelynek alapján a kamarák vásárnaptárt tehetnek közzé.
+
+## 9. §
+
+(1) Az üzemeltető köteles a vásár, piac nyitva tartási ideje alatt a vásár, piac területén tartózkodni, a vásár, piac rendjét folyamatosan ellenőrizni és a jogszabályokban, valamint a hatóságok határozataiban foglalt feltételeknek megfelelő működés érdekében a szükséges intézkedéseket megtenni. Köteles továbbá a hatóságok rendelkezésének megfelelően eljárni, és a hatósági ellenőrzésben közreműködni.
+
+(2) Az üzemeltető felel azért, ha a vásár, piac területén jogszabály által tiltott tevékenység, vagy tiltott termékértékesítés történik.
+
+(3)[^63] A vásárok és piacok, valamint a bevásárlóközpontok üzemeltetésére e rendeletben előírt feltételek meglétét a jegyző a 4. § (1) bekezdésében meghatározott feladatkörében eljárva ellenőrzi. A jegyzőn kívül a vásárok és piacok, illetve a bevásárlóközpontok működésére, az ott végzett kereskedelmi tevékenységre, forgalomba hozott termékekre vonatkozó jogszabályokban foglalt rendelkezések betartását a népegészségügyi, valamint élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a fogyasztóvédelmi, munkavédelmi, valamint foglalkoztatás-felügyeleti hatósági hatáskörében eljárva a fővárosi és vármegyei kormányhivatal, a Nemzeti Adó- és Vámhivatal, továbbá a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatala a külön jogszabályban foglalt hatáskörükben eljárva jogosultak ellenőrizni, illetve hatósági jogkörüket gyakorolni. A 2. § (3) és (4) bekezdésében meghatározott kötelezettség teljesítését és a biztonsági tervben foglaltak megfelelőségét a vásár, piac fekvése szerint illetékes katasztrófavédelmi szerv jogosult ellenőrizni.
+
+(4)[^64] A jegyző a 4. § (1) bekezdésben meghatározott feladatkörében eljárva az engedélyt visszavonja, illetve a tevékenység folytatását megtiltja, és a vásárt, piacot bezáratja és a nyilvántartásból törli, ha
+
+a) az engedély kiadásának, vagy a nyilvántartásba vételnek a feltételei már nem állnak fenn,
+
+b) a vásár, piac megszűnik,
+
+c) a vásár, piac működése a jogszabályban előírt feltételeknek, az annak teljesítésére vonatkozó, a (3) bekezdésben meghatározott hatóságok felszólítása ellenére sem felel meg.
+
+(5)[^65] A jegyző az engedély megadásáról, az engedély (4) bekezdés szerinti visszavonásáról, illetve a tevékenység folytatásának megtiltásáról szóló határozatát a fenntartóval, a (3) bekezdésben megjelölt hatóságokkal, valamint a rendőrkapitánysággal közli. A jegyző a helyi termelői piac nyilvántartásba vételéről, a nyilvántartás adatainak 4. § (7) bekezdése vagy 4/B. § (6) bekezdése szerint bejelentett változásáról értesíti a (3) bekezdésben megjelölt hatóságokat, valamint a rendőrkapitányságot. A (4) bekezdés alapján hozott, az engedély visszavonásáról, illetve a tevékenység folytatásának megtiltásáról szóló határozatot egyéni vállalkozó esetén az egyéni vállalkozó székhelye szerint illetékes jegyzővel, gazdasági társaság esetén az illetékes cégbírósággal is közölni kell.
+
+(6) A fenntartó az adott területen a vásár, piac befejezését vagy megszűnését, illetve megszűntetését követően köteles gondoskodni a terület eredeti környezeti állapotának visszaállításáról.
+
+## 9/A. §[^66]
+
+(1) A fővárosi és vármegyei kormányhivatalok e rendelet alapján ellátott feladatköreinek gyakorlásával összefüggő feladat- és hatásköre tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 40. § (2) bekezdése szerinti szakmai irányító miniszterként, valamint – a (2) bekezdésben meghatározott kivétellel – a Kit. 40. § (4) bekezdés a) pontja szerinti hatáskörök gyakorlására a Kormány a kereskedelemért felelős minisztert jelöli ki.
+
+(2) A fővárosi és vármegyei kormányhivatalok e rendelet alapján ellátott feladatköreinek gyakorlásával összefüggő közigazgatási hatósági ügyekben a Kit. 40. § (4) bekezdés c) pontja szerinti hatáskörök gyakorlására a Kormány a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóságot jelöli ki.
+
+## 10. §
+
+(1) Ez a rendelet, a (2) bekezdésben meghatározott kivétellel, a kihirdetését követő 30. napon lép hatályba, egyidejűleg hatályát veszti a vásárokról és piacokról szóló 35/1995. (IV. 5.) Korm. rendelet.
+
+(2) Az e rendelet 4. § (8) bekezdése 2009. december 28-án lép hatályba.
+
+(3) E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban lévő eljárásokban is kell alkalmazni.
+
+(4)[^67]
+
+## 11. §
+
+(1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
+
+b) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 8., 9. és 16. cikk.
+
+(2) E rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+
+## 1. melléklet az 55/2009. (III. 13.) Korm. rendelethez[^68]
+
+---
+
+[^1]: A rendelet címe a 212/2009. (IX. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 395/2025. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^5]: Az 1. § (2) bekezdés f) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^6]: Az 1. § (2) bekezdés g) pontját a 41/2010. (II. 26.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (2) bekezdés h) pontját a 260/2011. (XII. 7.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (3) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § a 212/2009. (IX. 29.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^10]: A 2. § (1) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 2. § (2) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^12]: A 2. § (3) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 2. § (4) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^15]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdés bevezető szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^18]: A 4. § (3) bekezdés a) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^19]: A 4. § (3) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^20]: A 4. § (3) bekezdés j) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^21]: A 4. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 239. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 4. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 131. § (3) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 130. § (3) bekezdés a) pontja.
+[^23]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 238. § a) pontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^24]: A 4. § (5a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 342/2025. (X. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^25]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^26]: A 4. § (6) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni. [A 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja alapján a „ , telefonszámát” szövegrész hatályát veszti; a módosítás nem vezethető át.]
+[^27]: A 4. § (6) bekezdés d)–e) pontját a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^28]: A 4. § (6) bekezdés j) pontja a 457/2017. (XII. 28.) Korm. rendelet 237. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 4. § (7) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^30]: A 4. § (8) bekezdése e rendelet 10. § (2) bekezdése alapján 2009. december 28-án lép hatályba.
+[^31]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^32]: A 4/A. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^33]: A 4/A. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 342/2025. (X. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^34]: A 4/A. § (3) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^35]: A 4/A. § (4) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^36]: A 4/A. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 4/A. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 131. § (4) bekezdésével megállapított szöveg.
+[^38]: A 4/A. § (5) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^39]: A 4/A. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^40]: A 4/B. §-t a 260/2011. (XII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A 4/B. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^42]: A 4/B. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^43]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 2. § c) pontja, a 342/2025. (X. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^44]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^45]: A 4/B. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 131. § (5) bekezdésével megállapított szöveg.
+[^46]: A 4/B. § (5) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^47]: A 4/B. § (5) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 130. § (1) bekezdésével megállapított szöveg.
+[^48]: A 4/B. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^49]: A 4/C. §-t a 260/2011. (XII. 7.) Korm. rendelet 5. §-a iktatta be.
+[^50]: A 4/C. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 237. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^51]: A 4/C. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 239. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^52]: A 4/C. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 237. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^53]: A 4/C. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja szerint módosított szöveg.
+[^54]: Az 5. § a 212/2009. (IX. 29.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^55]: Az 5. § (1) bekezdése a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^56]: Az 5. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^57]: Az 5. § (4) bekezdését a 41/2010. (II. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^58]: A 6. § a 212/2009. (IX. 29.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^59]: A 6. § (4) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 7. §-a iktatta be.
+[^60]: A 7. § (3) bekezdés a) pontja a 212/2009. (IX. 29.) Korm. rendelet (3) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^61]: A 8. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gc) alpontja, a 395/2025. (XII. 16.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^62]: A 8. § (2) bekezdés harmadik mondatát a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^63]: A 9. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 68. § (3) bekezdésével megállapított, a 116/2021. (III. 10.) Korm. rendelet 7. §-a, a 616/2022. (XII. 29.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^64]: A 9. § (4) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gc) alpontja szerint módosított szöveg.
+[^65]: A 9. § (5) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^66]: A 9/A. §-t a 70/2015. (III. 30.) Korm. rendelet 131. § (7) bekezdése iktatta be, szövege a 328/2024. (XI. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^67]: A 10. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^68]: Az 1. mellékletet a 70/2015. (III. 30.) Korm. rendelet 131. § (8) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 130. § (3) bekezdés b) pontja.

@@ -1,0 +1,497 @@
+---
+title: "491/2017. (XII. 29.) Korm. rendelet a beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól"
+identifier: "491/2017. (XII. 29.) Korm. rendelet"
+njt_id: "2017-491-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/491"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-29
+in_force_from: 2018-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-491-20-22"
+retrieved: 2026-10-12
+---
+
+# 491/2017. (XII. 29.) Korm. rendelet a beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól
+
+A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés a) és k) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A jogszabályi rendelkezés, hatósági előírás vagy a tűzvédelmi hatósággal engedélyeztetni kívánt önkéntes vállalás alapján létesülő vagy telepített beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés (a továbbiakban együtt: berendezés)
+
+a) létesítése, átalakítása, bővítése (a továbbiakban együtt: létesítés),
+
+b)[^1]
+
+c)[^2]
+
+iránti kérelmet írásban kell a tűzvédelmi hatósághoz benyújtani.
+
+(2) A kérelem tartalmazza:
+
+a) a kérelmezett engedélyezési eljárás megjelölését,
+
+b)[^3] a berendezés megnevezését, a védett építmény, építményrész megnevezését, címét, valamint tűzoltó berendezés esetén az oltóanyag megnevezését,
+
+c)[^4] a létesítési engedély iránti kérelem esetén a tervező nevét, kamarai névjegyzéki jelölését, a berendezés létesítésének okát,
+
+d)[^5]
+
+(3)[^6] A kérelem elbírálásakor
+
+a) új tűzjelző berendezés létesítése esetén a tervező és a megrendelő közös döntése alapján az 1. melléklet vagy a 2. melléklet szerinti, új tűzoltó berendezés létesítése esetén az 1. melléklet szerinti,
+
+b) meglévő berendezés átalakításának, bővítésének létesítési engedélyezése esetén az 1. melléklet szerinti
+
+tartalmi követelményeket vizsgálja az engedélyező hatóság.
+
+(4)[^7] A kérelem papír alapon vagy elektronikusan nyújtható be. Elektronikusan vagy a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelv 2. cikk 10. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.
+
+(5)[^8]
+
+## 2. §
+
+(1)[^9] A tűzvédelmi hatóság engedélyező határozatának rendelkező része tartalmazza
+
+a) a berendezés megnevezését,
+
+b) a védett építmény, építményrész megnevezését, címét,
+
+c) a berendezés létesítésének okát,
+
+d) a létesítési engedély megadása esetén
+
+da) a tervező nevét, kamarai névjegyzéki jelölését,
+
+db) a létesítési engedély hatályát,
+
+e)[^10]
+
+f)[^11]
+
+(2)[^12] A berendezés létesítési engedélye a véglegessé válásától számított három évig hatályos, amely időtartam alatt a berendezés használatbavételét be kell jelenteni. Ha a létesítési engedély véglegessé válását követő három éven belül a berendezés használatbavételét nem jelentették be, a létesítés engedélyezését ismételten kérelmezni kell.
+
+(3) A tűzvédelmi hatóság a létesítési engedély iránti kérelmet elutasítja, ha
+
+a) a tervező nem rendelkezik megfelelő jogosultsággal vagy képesítéssel, vagy
+
+b) az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendeletben meghatározott biztonsági szint nem teljesül, vagy annak teljesülését a kérelemhez mellékelt dokumentáció vagy annak hiánypótlási felhívásra benyújtott kiegészítése nem támasztja alá.
+
+(4)[^13]
+
+(5)[^14]
+
+## 2/A. §[^15]
+
+(1)[^16] A meglévő berendezés átalakítását, bővítését nem kell engedélyeztetni, ha
+
+a) a beépített tűzjelző berendezés eszközeinek száma módosul, és a jelzési, riasztási zóna határa nem változik,
+
+b) a zárt szórófejes vízzel oltó berendezés szórófejeinek száma a naptári évben legfeljebb 50 darabbal módosul, vagy
+
+c) megváltozik a tűzjelző vagy oltásvezérlő központ állandó felügyeletének helye vagy módja,
+
+és a változás a tűzvédelmi hatóság számára bejelentésre kerül.
+
+(2) Az (1) bekezdésben meghatározott esetekben a tervezőnek a változtatást a megvalósulási tervben át kell vezetnie, és le kell folytatni az üzembe helyezési eljárást.
+
+## 2/B. §[^17]
+
+(1) A berendezés használatbavételét a tűzvédelmi hatóságnál a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint előzetesen be kell jelenteni.
+
+(2) A használatbavétel iránti bejelentés tartalmazza
+
+a) a berendezés megnevezését, a védett építmény, építményrész megnevezését, címét, valamint tűzoltó berendezés esetén az oltóanyag megnevezését,
+
+b) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nevét, a létesítési engedély számát.
+
+(3) A bejelentés esetén a tűzvédelmi hatóság a 3. melléklet szerinti tartalmi követelményeket vizsgálja.
+
+(4) A tűzvédelmi hatóság a bejelentés megtételétől számított 8 napon belül helyszíni ellenőrzést tart.
+
+(5) A tűzvédelmi hatóság a használatbavétel bejelentését elutasítja, ha
+
+a) ha a kivitelezés során a tervektől oly mértékben eltértek, ami a tűzbiztonságot kedvezőtlenül befolyásolja,
+
+b) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező, illetve az üzembe helyező mérnök nem rendelkezik megfelelő jogosultsággal vagy képesítéssel,
+
+c) az előírt oltóanyag-mennyiség nem biztosított,
+
+d) a berendezés állandó felügyelete nem biztosított,
+
+e) a riasztás megjelenítése nem biztosított a védett építményben, építményrészben tartózkodó személyek számára beazonosítható módon,
+
+f) a berendezés részegységeinek megfelelőségét, teljesítményét nem igazolták, vagy
+
+g) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nyilatkozata, az üzembe helyező mérnök nyilatkozata vagy az üzembehelyezési jegyzőkönyv nem áll rendelkezésre.
+
+(6) A tűzvédelmi hatóság a bejelentés tudomásulvételéről szóló tájékoztatóban a bejelentőt tájékoztatja
+
+a) a berendezés folyamatos üzemeltetésének szükségességéről,
+
+b) tűzoltó berendezés esetén az oltóanyag megnevezéséről,
+
+c) tűzjelző berendezés és oltásvezérlő központtal létesülő tűzoltó berendezés esetén a tűzjelző központ és az oltásvezérlő központ típusáról.
+
+## 2/C. §[^18]
+
+(1) A berendezés megszüntetését a tűzvédelmi hatóságnál előzetesen be kell jelenteni.
+
+(2) A használatbavételi engedéllyel rendelkező berendezés bejelentés alapján akkor szüntethető meg, ha
+
+a) a berendezés létesítési kötelezettségét a megszüntetési engedély iránti kérelem benyújtásakor hatályban lévő jogszabályi rendelkezés nem írja elő,
+
+b) jogszabályi rendelkezés vagy hatósági előírás alapján létesített berendezés esetén a létesítést megalapozó körülmény nem áll fenn, és
+
+c) a berendezés további üzemeltetését a védett építmény, építményrész tűzvédelmi helyzete, a fennálló veszélyhelyzet, az építmény, építményrész nemzetgazdasági, műemlékvédelmi vagy adatvédelmi jellege, az építményben, építményrészben tartózkodók biztonsága vagy a tűzoltóság vonulási távolsága nem indokolja.
+
+(3) Az (1) bekezdés szerinti bejelentés tartalmazza
+
+a) a berendezés megnevezését, a védett építmény, építményrész megnevezését, címét, valamint tűzoltó berendezés esetén az oltóanyag megnevezését,
+
+b) a használatbavételi engedéllyel rendelkező berendezés esetén a kivitelező nevét, a létesítési engedély számát.
+
+(4) Az (1) bekezdés szerinti bejelentés vizsgálatakor a tűzvédelmi hatóság a 4. melléklet szerinti tartalmi követelményeket vizsgálja. A tűzvédelmi hatóság – ha a megszüntetés megfelel a jogszabályokban meghatározott tűzvédelmi követelményeknek – az (1) bekezdés szerinti
+
+a) bejelentést tudomásul veszi, és ezt a bejelentővel közli, vagy
+
+b) bejelentés vizsgálata során azt észleli, hogy
+
+ba) a berendezés létesítését az (1) bekezdés szerinti bejelentés benyújtásakor hatályban lévő jogszabályi rendelkezés előírja,
+
+bb) a megszüntetés feltételeinek teljesülését nem igazolták, vagy
+
+bc) a berendezés további üzemeltetésére okot adó körülmény áll fenn
+
+a berendezés nem szüntethető meg, erről és a szükséges eljárási cselekményekről tájékoztatja a bejelentőt.
+
+## 3. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+## 4. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^19]
+
+**A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma**
+
+*A)* A beépített tűzjelző berendezés esetében vizsgálja a hatóság:
+
+1\. a műszaki leírást, ami tartalmazza:
+
+1.1. a kiindulási adatokat, így különösen
+
+1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
+
+1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
+
+1.2. a berendezés tervezési alapelveit, így különösen
+
+1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
+
+1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
+
+1.2.3. a jelzési és a riasztási zónák kialakításának elveit,
+
+1.2.4. az alkalmazott érzékelők kiválasztásának elveit, a téves jelzések kiküszöbölésének megoldását,
+
+1.2.5. a hibák hatásainak korlátozására vonatkozó elveket,
+
+1.3. a berendezés felépítésének és működésének ismertetését, így különösen
+
+1.3.1. a berendezés részegységeinek, elemeinek megnevezését, típusnevét, a tervezés szempontjából lényeges jellemzőit, valamint a megfelelőséget, teljesítményt igazoló irat megnevezését, azonosító számát és érvényességi idejét,
+
+1.3.2. a berendezés részegységeinek, elemeinek elhelyezését, a tűzjelző központ megközelíthetőségének módját,
+
+1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét, megoldását,
+
+1.3.4. a normál és a biztonsági tápellátás biztosításának módját, a tápellátást alátámasztó méretezést,
+
+1.3.5. a berendezés felügyeletének, kezelésének megoldását,
+
+1.3.6. az automatikus átjelzés jellemzőit,
+
+1.3.7. a tűzriasztás megoldását, a riasztás észlelhetőségének, hallhatóságának, láthatóságának biztosítását,
+
+1.3.8. a vezérlések és jelzésfogadások felsorolását, jellemzőit, összefüggéseit,
+
+1.3.9. a berendezés és más berendezések, rendszerek közötti kapcsolat biztosításának megoldását;
+
+2\. rajzmellékletet, ami tartalmaz:
+
+2.1. jelmagyarázatot,
+
+2.2.[^20] méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a jelzésadók, hang- és fényjelzők azonosító számát, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
+
+2.3. metszetrajzot,
+
+2.4. helyszínrajzot, ha a berendezés több épület védelmét biztosítja,
+
+2.5. összefüggési rajzot;
+
+3\. tervezői nyilatkozatot arról, hogy a berendezés terve
+
+3.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
+
+3.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
+
+4\. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
+
+*B)* A beépített tűzoltó berendezés esetében vizsgálni kell:
+
+1\. műszaki leírást, ami tartalmazza:
+
+1.1. a kiindulási adatokat, így különösen
+
+1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
+
+1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építészeti kialakítást, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
+
+1.2. a berendezés felépítésének és működésének ismertetését, így különösen
+
+1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
+
+1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
+
+1.2.3. a tűzérzékelés, az oltásindítás és az oltás módját,
+
+1.2.4. a méretezést meghatározó alapadatokat, besorolásokat, a méretezés eredményét,
+
+1.2.5. az oltóanyagigényt és biztosításának megoldását,
+
+1.2.6. a berendezésre vonatkozó műszaki követelmények meghatározását,
+
+1.2.7. szükség szerint a tervezési segédleteket, a vonatkozó tűzteszteket, a gyártói előírásokat,
+
+1.2.8. a berendezés kapcsolatát más tűzvédelmi berendezésekkel, az épületfelügyeleti rendszerrel és az egyéb berendezésekkel,
+
+1.2.9. az esetleges vezérlési funkciókat,
+
+1.2.10. az oltóanyag kedvezőtlen élettani hatása esetén a védett térben az oltás megkezdése előtt tartózkodó személyek védelmét biztosító megoldásokat,
+
+1.2.11. a berendezés részegységeinek, elemeinek megnevezését, típusnevét, a tervezés szempontjából lényeges jellemzőit, valamint a megfelelőséget, teljesítményt igazoló irat megnevezését, azonosító számát és érvényességi idejét,
+
+1.2.12. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét, megoldását,
+
+1.2.13. a normál és a biztonsági tápellátás biztosításának módját,
+
+1.2.14. a berendezés felügyeletének, kezelésének megoldását;
+
+2\. a berendezés részegységeinek, elemeinek adatlapjait;
+
+3\. rajzmellékletet, ami tartalmaz:
+
+3.1. jelmagyarázatot,
+
+3.2. kapcsolási vázlatot,
+
+3.3.[^21] a telepítés helyét képező szintek méretekkel ellátott alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát, az oltási zónákat (M=1:50-1:250 méretarányban), a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
+
+3.4. metszetrajzot,
+
+3.5. helyszínrajzot, ha a berendezés több épület védelmét biztosítja;
+
+4\. tervezői nyilatkozatot arról, hogy a berendezés terve
+
+4.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
+
+4.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
+
+5\. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
+
+## 2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^22]
+
+**A beépített tűzjelző berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező elvi jellegű dokumentáció tartalma**
+
+A) A beépített tűzjelző berendezés esetében vizsgálja a hatóság:
+
+1\. műszaki leírást, ami tartalmazza:
+
+1.1. a kiindulási adatokat, így különösen
+
+1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
+
+1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
+
+1.2. a berendezés tervezési alapelveit, így különösen
+
+1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
+
+1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
+
+1.2.3. a jelzési és a riasztási zónák kialakításának elveit,
+
+1.2.4. az alkalmazott érzékelők kiválasztásának elveit, a téves jelzések kiküszöbölésének megoldását,
+
+1.2.5. a hibák hatásainak korlátozására vonatkozó elveket,
+
+1.3. a berendezés felépítésének és működésének ismertetését, így különösen
+
+1.3.1. a berendezés részegységeinek, elemeinek megnevezését, a tervezés szempontjából lényeges jellemzőit,
+
+1.3.2. a berendezés részegységeinek, elemeinek elhelyezését, a tűzjelző központ megközelíthetőségének módját,
+
+1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét,
+
+1.3.4. a normál és a biztonsági tápellátás biztosításának szükségességét,
+
+1.3.5. a berendezés felügyeletének, kezelésének megoldását,
+
+1.3.6. az automatikus átjelzés szükségességét,
+
+1.3.7. a tűzriasztás elveit, a riasztás észlelhetőségére, hallhatóságára, láthatóságára vonatkozó követelményt,
+
+1.3.8. a vezérlések és jelzésfogadások felsorolását, összefüggéseit,
+
+1.3.9. a berendezés és más berendezések, rendszerek közötti kapcsolat biztosítására vonatkozó követelményt;
+
+2\. rajzmellékletet, ami tartalmaz:
+
+2.1. jelmagyarázatot,
+
+2.2.[^23] méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
+
+2.3. metszetrajzot,
+
+2.4. helyszínrajzot, ha a berendezés több épület védelmét biztosítja;
+
+3\. tervezői nyilatkozatot arról, hogy a berendezés terve elvi jellege miatt a tervezési elvek vonatkozásában
+
+3.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
+
+3.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
+
+4\. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
+
+## 3. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^24]
+
+**A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés használatbavételére irányuló bejelentés mellékletét képező dokumentáció tartalma**
+
+**A) Valamennyi berendezés esetében:**
+
+1\. a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nyilatkozata arról, hogy a berendezés
+
+1.1. kivitelezése során az engedélyezett tervtől, a létesítési engedélytől eltértek-e,
+
+1.2. az 1.1. alpont szerinti esetleges eltérésekkel együtt a vonatkozó előírásoknak megfelel,
+
+1.3. a megvalósulási tervnek megfelel,
+
+1.4. az elvégzett üzemi próbák alapján üzemképes állapotban van;
+
+2\. üzembehelyezői nyilatkozat és üzembehelyezési jegyzőkönyv;
+
+3\. a 3.1. alpont vagy a 3.2. alpont szerinti megvalósulási tervdokumentáció,
+
+3.1. a kivitelezést követően elkészített megvalósulási tervdokumentáció, ami a berendezés tűzvédelmi hatóság által engedélyezett létesítési engedélyezési tervdokumentációjának tartalmát a kivitelezéshez szükséges részletességgel, a ténylegesen beépített műszaki megoldások ismertetésével kibővítve tartalmazza, így különösen
+
+3.1.1. a beépített részegységek, elemek, anyagok, vezetékek típusát és jellemzőit,
+
+3.1.2. a normál és a biztonsági tápellátást biztosító megoldásokat, a tápellátást alátámasztó méretezést,
+
+3.1.3. a vezérlések és a jelzésfogadás tényleges megoldását,
+
+3.1.4. a tűzriasztás tényleges megoldását,
+
+3.1.5. beépített tűzjelző berendezés esetében az összefüggési rajzot, a telepítési jegyzéket és szükség szerint a bekötési rajzokat,
+
+3.1.6. beépített gázzal oltó berendezés esetében a túlnyomás-levezetés megoldását, méretezését,
+
+3.1.7. beépített tűzoltó berendezés esetén a hidraulikai, méretezési számításokat,
+
+3.2. kivitelezési tervdokumentáció, ami
+
+3.2.1. a berendezés tűzvédelmi hatóság által engedélyezett létesítési engedélyezési tervdokumentációjának tartalmát a kivitelezéshez szükséges részletességgel, a ténylegesen beépített műszaki megoldások ismertetésével kibővítve tartalmazza – így különösen a 3.1.1–3.1.7. pontban foglaltakat,
+
+3.2.2. tartalmazza a kivitelező nyilatkozatát arról, hogy a kivitelezés során nem tért el a kivitelezési tervdokumentációban foglaltaktól;
+
+4\. a beépített részegységek, elemek, anyagok, vezetékek megfelelősége, teljesítményét igazoló iratok;
+
+5\. a berendezéssel összefüggésben kivitelezett, a tűzterjedés elleni védelmet, valamint a villamos vezetékek tűzhatás elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratok, így különösen
+
+5.1. a védelemből kihagyott és a védelembe bevont terek között az előírt tűzterjedés elleni védelmet biztosító megoldások megfelelőségét, teljesítményét igazoló iratok,
+
+5.2. a villamos és a gépészeti vezetékek határoló építményszerkezeten való átvezetési helyein előírt tűzgátló lezárások megfelelőségét, teljesítményét igazoló iratok,
+
+5.3. az előírt tűzálló kábelek, kábelrendszerek és tartószerkezeteik megfelelőségét, teljesítményét igazoló iratok,
+
+5.4. az 5.1–5.3. alpontban foglalt megoldások megfelelő beépítését igazoló beépítési nyilatkozatok;
+
+6\. a megrendelő vagy az üzemeltető állandó felügyelet biztosítására vonatkozó nyilatkozata;
+
+7\. az átjelző berendezéssel kapcsolatos szolgáltatási szerződés megléte;
+
+8\. a kezelőszemélyzet oktatását igazoló oktatási napló, jegyzőkönyv;
+
+9\. egyéb, a berendezés megfelelőségét alátámasztó irat, dokumentáció; valamint
+
+10\. a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező és az üzembe helyező mérnök tűzvédelmi szakvizsga-bizonyítványának megléte.
+
+**B) A beépített tűzjelző berendezés esetében vizsgálja a hatóság:**
+
+1\. a vezetékhálózat megfelelőségét igazoló, a hurokellenállás-mérésről és a szigetelési ellenállásmérésről készített jegyzőkönyvet,
+
+2\. a hangnyomás-mérési jegyzőkönyvet.
+
+**C) A beépített tűzoltó berendezés esetében vizsgálja a hatóság:**
+
+1\. a berendezés csővezetékei tisztításának, átmosásának elvégzését igazoló iratot,
+
+2\. a berendezés helyszíni nyomáspróbájáról készített jegyzőkönyvet,
+
+3\. a helyiség teljes elárasztásával működő gázzal oltó berendezés esetében az oltási koncentráció-megtartási idő, a kialakuló túlnyomás és a szükség szerint beépített túlnyomás-levezetés ellenőrzéséről készített jegyzőkönyvet,
+
+4\. az oltóközpont helyiségét határoló építményszerkezetek előírt tűzterjedés elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratokat.
+
+## 4. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^25]
+
+**A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés megszüntetésére irányuló bejelentés mellékletét képező nyilatkozat tartalma**
+
+Valamennyi berendezés esetében vizsgálja a hatóság:
+
+1\. az üzemeltető nyilatkozatát
+
+1.1. arról, hogy a berendezést jogszabályi kötelezés, hatósági előírás vagy önkéntes vállalás alapján létesítették,
+
+1.2. jogszabályi kötelezés alapján létesített berendezés esetén a berendezéssel védett építmény, építményrész azon jellemzőiről, amelyek miatt a létesítést a jogszabály előírta,
+
+1.3. hatósági előírás alapján létesített berendezés esetén a hatósági előírást megalapozó körülmény tűzvédelmi szempontból kedvező megváltozásáról,
+
+1.4. arról, hogy a berendezés létesítését a megszüntetésre irányuló bejelentés benyújtásakor hatályban lévő jogszabályi rendelkezés nem írja elő, azon jellemzők ismertetésével, amelyek alapján a hatályos jogszabályi rendelkezés meghatározza a kötelezettséget,
+
+1.5. arról, hogy tudomásul veszi a berendezés megszüntetésével kialakuló tűzvédelmi biztonsági szintet és annak következményeit.
+
+---
+
+[^1]: Az 1. § (1) bekezdés b) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés c) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdés b) pontja a 176/2019. (VII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés c) pontja a 176/2019. (VII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés d) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (3) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (4) bekezdése a 408/2024. (XII. 20.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^8]: Az 1. § (5) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés e) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés f) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. § (2) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § (4) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.
+[^14]: A 2. § (5) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.
+[^15]: A 2/A. §-t a 6/2020. (I. 31.) Korm. rendelet 26. §-a iktatta be.
+[^16]: A 2/A. § (1) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^17]: A 2/B. §-t a 340/2024. (XI. 14.) Korm. rendelet 21. § (4) bekezdése iktatta be.
+[^18]: A 2/C. §-t a 340/2024. (XI. 14.) Korm. rendelet 21. § (4) bekezdése iktatta be.
+[^19]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés a) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet A) pont 2.2. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet B) pont 3.3. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.
+[^23]: A 2. melléklet A) pont 2.2. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^24]: A 3. melléklet a 340/2024. (XI. 14.) Korm. rendelet 21. § (5) bekezdésével megállapított szöveg.
+[^25]: A 4. mellékletet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés d) pontja iktatta be, szövege a 340/2024. (XI. 14.) Korm. rendelet 21. § (6) bekezdésével megállapított szöveg.

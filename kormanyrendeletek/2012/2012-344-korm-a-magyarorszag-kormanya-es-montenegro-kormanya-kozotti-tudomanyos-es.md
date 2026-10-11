@@ -1,0 +1,245 @@
+---
+title: "344/2012. (XII. 6.) Korm. rendelet a Magyarország Kormánya és Montenegró Kormánya közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről"
+identifier: "344/2012. (XII. 6.) Korm. rendelet"
+njt_id: "2012-344-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/344"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-12-06
+in_force_from: 2012-12-07
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-344-20-22"
+retrieved: 2026-10-12
+---
+
+# 344/2012. (XII. 6.) Korm. rendelet a Magyarország Kormánya és Montenegró Kormánya közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Montenegró Kormánya közötti tudományos és technológiai együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„MAGYARORSZÁG KORMÁNYA ÉS MONTENEGRÓ KORMÁNYA KÖZÖTTI TUDOMÁNYOS ÉS TECHNOLÓGIAI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS**
+
+Magyarország Kormánya és Montenegró Kormánya (a továbbiakban: a Szerződő Felek),
+
+abban a meggyőződésben, hogy a kétoldalú együttműködés a tudomány és a technológia területén megszilárdítja a baráti viszonyt és egyetértést Magyarország és Montenegró között,
+
+felismerve a kétoldalú tudományos és technológiai együttműködés fontosságát a két ország közötti gazdasági és társadalmi fejlődés előmozdítása szempontjából,
+
+a következőkben állapodtak meg:
+
+**1. cikk**
+
+Felek közreműködnek a kétoldalú tudományos és technológiai együttműködés előmozdításában a kölcsönös előnyök és egyenlőség alapján, összhangban jelen Megállapodás rendelkezéseivel, Felek nemzeti jogszabályaival, valamint azon nemzetközi szervezetek szabályaival, melynek a Szerződő Felek tagjai.
+
+**2. cikk**
+
+A tudományos és technológiai együttműködés a Szerződő Felek tudományos intézetei, gazdasági és egyéb szerveik között az alábbiak útján valósul meg:
+
+*a)* tudományos, technológiai és fejlesztési programok, projektek közösen elfogadott területeken;
+
+*b)* tudósok, kutatók és szakértők cseréje;
+
+*c)* tudományos és technológiai információk, dokumentáció cseréje;
+
+*d)* ideiglenes hozzájárulás létesítmények, tudományos berendezések és eszközök használatához az együttműködési kötelezettség teljesítéséhez szükséges mértékben;
+
+*e)* közös tudományos konferenciák, szimpóziumok, előadások és kutatócsoportok szervezése;
+
+*f)* közös tudományos kutatóközpontok és ideiglenes tudományos – és kutató csoportok felállítása;
+
+*g)* a tudományos és technológiai együttműködésnek, Felek által kölcsönösen elfogadott egyéb módjai.
+
+A felsoroltakon túl, a Szerződő Felek a lehetőségeikhez mérten ösztönzik a gazdasági és más szervek közötti technológiák cseréjét, ide értve a technológiai együttműködéseket is.
+
+**3. cikk**
+
+A Szerződő Felek előmozdítják és támogatják a többoldalú tudományos és technológiai, valamint fejlesztési programokban és projekteken való együttműködést és részvételt.
+
+A Szerződő Felek előmozdítják az elsődleges célkitűzéseikhez kapcsolódó információk cseréjét európai szintű tudományos és technológiai együttműködések keretein belül, és ösztönzik a tudományos-kutatóintézeteik közös felhívásokban való együttes részvételét.
+
+**4. cikk**
+
+Más országok vagy nemzetközi szervezetek tudósai, kutatói, szakértői és intézetei mindkét együttműködő fél hozzájárulásával, meghívást kaphatnak a jelen Megállapodás alapján megvalósuló tevékenységekbe, mindazon programok és projektek finanszírozására, valamint megvalósítására, melyek a jelen Megállapodás alapján létrejött együttműködésekből erednek.
+
+Az ilyen együttműködés költségeit a harmadik fél viseli, kivéve, ha a Szerződő Felek írásban másképp nem állapodnak meg.
+
+**5. cikk**
+
+A jelen Megállapodásból eredő együttműködés kapcsán felmerült szellemi tulajdonjogok hasznosítását a közreműködő felek bevonásával kötött végrehajtási megállapodások szabályozzák biztosítva a szellemi tulajdonjogok megfelelő és hatékony védelmét, összhangban a két Fél nemzeti jogszabályaival és azokkal a szellemi tulajdonjoggal kapcsolatos nemzetközi egyezményekkel, melyeknek a Szerződő Felek tagjai.
+
+**6. cikk**
+
+Tudományos és technológiai eredmények, úgy mint a jelen Megállapodásból eredő együttműködés kapcsán felmerült tudományos újítások, melyek nem esnek az iparjogvédelem hatálya alá és nem tartalmaznak olyan adatot, melyek a Szerződő Felek nemzeti joga szerint üzleti titoknak minősülnek, mindkét Fél írásbeli egyetértése nélkül nem hozhatók harmadik fél tudomására, kivéve ha az egyes projektekben résztvevő szervezetek írásban másképp nem döntenek.
+
+**7. cikk**
+
+A jelen Megállapodás rendelkezéseinek végrehajtásáért felelős hatóságok – Magyarország részéről – a Nemzeti Innovációs Hivatal, illetve – Montenegró részéről – a Tudományos Minisztérium.
+
+**8. cikk**
+
+Jelen Megállapodás rendelkezéseinek végrehajtására az ezért felelős hatóságok egy tudományos és technológiai együttműködési vegyes bizottságot hoznak létre (Vegyes Bizottság, VB), melynek képviselőit és szakértő tagjait a két felelős hatóság egyenlő arányban jelöli ki.
+
+A Vegyes Bizottság feladata a tudományos és technológiai együttműködés szervezeti és financiális alapjainak biztosítása. A Vegyes Bizottság a tudományos és technológiai együttműködés közösen kivitelezett programjaira javaslatot tesz, összehangolja azokat és végrehajtásukat ellenőrzi.
+
+A Vegyes Bizottság két évet felölelő közös projekteket fogad be, ellenőrzi végrehajtásukat, és – szükség esetén – konkrét intézkedésekkel járul hozzá az együttműködés eredményeinek megvalósulásához.
+
+A Vegyes Bizottság kétévente ülésezik, opcionálisan Magyarország és Montenegró területén, ugyanakkor szükség esetén gyakrabban is összehívható ülés Felek bármelyikének kérésére.
+
+**9. cikk**
+
+Jelen Megállapodás rendelkezései semmilyen körülmények között nem befolyásolhatják a Szerződő Felek meglévő, vagy jövőben kötendő bilaterális és multilaterális nemzetközi szerződésekben rögzített jogait és vállalt kötelezettségeit.
+
+A jelen Megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország Európai Uniós tagságából fakadnak. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarországnak különösen a Csatlakozási Szerződéssel vállalt, az Európai Közösséget létrehozó Szerződésből, az Európai Unióról szóló Szerződésből, valamint általában véve az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+**10. cikk**
+
+Jelen Megállapodás öt évre szól. A Megállapodás az öt év leteltét követően automatikusan meghosszabbításra kerül újabb öt éves periódusra, kivéve, ha a Szerződő Felek egyike írásban jelzi a Megállapodás megszüntetésére irányuló szándékát hat hónappal annak lejárta előtt.
+
+Jelen Megállapodás rendelkezéseinek módosítása kizárólag mindkét Szerződő Fél előzetes hozzájárulásával lehetséges. A módosításokra vonatkozó javaslatokat írásban kell megtenni.
+
+A Megállapodás rendelkezéseinek módosítása, vagy a Megállapodás megszüntetése nincs befolyással a már folyamatban lévő, de a Megállapodás rendelkezései módosításának elfogadása vagy a Megállapodás megszüntetésének idején még le nem zárult programok és projektek végrehajtására.
+
+**11. cikk**
+
+A jelen Megállapodás rendelkezéseinek végrehajtásából vagy értelmezéséből eredő véleménykülönbségeket a Vegyes Bizottság tagjai, vagy a felelős Hatóságok közötti egyeztetések során kell feloldani.
+
+**12. cikk**
+
+Jelen Megállapodás azon a napon lép hatályba, amikor mindkét Fél hivatalosan tájékoztatta a másikat a Megállapodás kihirdetéséhez saját belső jogszabályai szerint szükséges eljárásainak lezárultáról.
+
+Az aláírásra Podgorica városában/területén 2012. szeptember 25. napján, két eredeti példányban, mindegyik szöveg egyaránt hiteles, magyar és montenegrói, valamint angol nyelven kerül sor. Amennyiben fordításból eredő értelmezési véleménykülönbség alakul ki, az angol szövegváltozatot kell alapul tekinteni.
+
+MAGYARORSZÁG\
+KORMÁNYÁNAK NEVÉBEN
+
+MONTENEGRÓ\
+KORMÁNYÁNAK NEVÉBEN
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF MONTENEGRO ON SCIENTIFIC AND TECHNOLOGICAL COOPERATION**
+
+The Government of Hungary and the Government of Montenegro, hereinafter referred to as „The Contracting Parties”,
+
+In the belief that bilateral cooperation in the field of science and technology shall strengthen friendly relations and understanding between Hungary and Montenegro,
+
+Aware of the importance of bilateral scientific and technological cooperation for the improvement of economic and social development of the two countries,
+
+Have agreed as follows:
+
+**Article 1**
+
+The Contracting Parties shall contribute to the development of bilateral scientific and technological cooperation on the basis of mutual benefit and equality, in accordance with the provisions of the present Agreement, national laws and regulations of each Party, and regulations of international organizations, each Contracting party being its member.
+
+**Article 2**
+
+The scientific – technological cooperation, between scientific institutions and economic and other entities of the Contracting parties, will be realized through:
+
+*a)* scientific-technological and development programs and projects, in mutually agreed fields;
+
+*b)* exchange of scientists, researchers and experts;
+
+*c)* exchange of scientific and technological information and documentation;
+
+*d)* approval of temporary use of facilities, scientific equipment and consumable materials, necessary for conducting cooperation;
+
+*e)* organization of joint scientific conferences, symposia, seminars, workshops, exhibitions;
+
+*f)* setting up of joint scientific research centers and temporary scientific and research groups,
+
+*g)* other forms of scientific and technological cooperation, mutually agreed upon by the Contracting parties.
+
+Besides mentioned, the Contracting parties shall in the best possible way, encourage technology exchange between economic and other entities, including technical cooperation as well.
+
+**Article 3**
+
+The Contracting parties shall encourage and support cooperation and participation in multilateral scientific and technological, and developmental programs and projects.
+
+The Contracting parties shall encourage the exchange of information on their priorities, in the framework of scientific and technological cooperation at European level and stimulate their scientific-research institutions to participate together in the joint calls.
+
+**Article 4**
+
+Scientists, researchers, experts and institutions from other countries or international organizations may be invited, upon consent of both cooperating partners, to participate in activities carried out under the present Agreement, for both, financing and realization of programs and projects, which result from the cooperation under the present Agreement.
+
+The cost of such cooperation shall normally be borne by such third party, unless the Contracting parties agree otherwise in writing.
+
+**Article 5**
+
+Exploitation of the intellectual property rights, arising from the cooperation activities under the present Agreement, shall be regulated through agreements on implementation between the participating organizations, which ensure proper and efficient protection of the intellectual property rights, according to the national legislation of the two Parties and international conventions in the field of intellectual property rights, whose members are the Contracting parties.
+
+**Article 6**
+
+Scientific and technological results, i.e. scientific inventions arising from the cooperation activities under the present Agreement, which do not fall under the industrial property rights and do not contain data which are, according to the national legislation of each Contracting Party, subject to confidentiality, shall not be made known to the third party, without prior consent of both parties in writing, unless the participating organizations for each project agree otherwise in writing.
+
+**Article 7**
+
+Authorities responsible for implementation of the provisions of this Agreement are: for Hungary – the National Innovation Office, for Montenegro – Ministry of Science.
+
+**Article 8**
+
+For the purpose of implementation of the present Agreement, a joint committee for scientific and technological cooperation shall be established by the responsible authorities (hereinafter: the Joint Committee), composed of equal number of representatives and experts, appointed by each responsible authority.
+
+The work of the Joint Committee shall be based on creating organizational and financial conditions for provision of scientific-technological cooperation. The Joint Committee proposes, harmonizes and monitors implementation of joint programs of scientific-technological cooperation.
+
+The Joint Committee shall adopt cooperation programs for a two-year period, monitor their implementation and, shall the need occur, propose concrete measures for fulfillment of the cooperation results.
+
+The Joint Committee shall meet every 2 (two) years, alternatively in Hungary and Montenegro, or more often if the need occurs, upon request of one of the Contracting parties.
+
+**Article 9**
+
+Provisions of this Agreement shall, under no circumstances, influence rights and obligations that the Contracting parties have under existing bilateral and multilateral agreements or future ones that the Contracting parties sign.
+
+This Agreement shall apply without prejudice to the obligations deriving from the membership of Hungary in the European Union. Consequently, the provisions of this Agreement may not be invoked or be interpreted neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from the Accession Treaty, the Treaty establishing the European Community, the Treaty on European Union and generally from the primary and secondary legislation of the European Union.
+
+**Article 10**
+
+The present Agreement shall remain in force for a period of five years. The Agreement shall be automatically renewed for successive five years periods, unless one Contracting Party notifies the other in writing of its intention to terminate the Agreement at least six months in advance.
+
+The amendments of provisions of the present Agreement shall not be made, without prior consent of the two Contracting Parties. Amendments shall be provided in written form.
+
+The amendments or termination of the present Agreement shall not affect the projects or programmes being undertaken under the present Agreement but not completed at the time of the adoption of amendments or termination of the present Agreement.
+
+**Article 11**
+
+Any divergences relating to the interpretation or implementation of the present Agreement shall be settled through consultations of the Joint Committee members, or between responsible authorities.
+
+**Article 12**
+
+The present Agreement shall enter into force on the date both Contracting Parties have officially notified each other that the internal legal procedures required for its entry into force have been accomplished.
+
+Signed in Podgorica, on 25 September 2012., in two original copies, in Hungarian, Montenegrin and English languages, all texts being equally authentic. In case of divergences of interpretation, the English text shall prevail.
+
+FOR\
+THE GOVERNMENT OF\
+HUNGARY
+
+FOR\
+THE GOVERNMENT OF\
+MONTENEGRO”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. §-a a Megállapodás 12. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba. A 4/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2012. december 28.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba. A 4/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2012. december 28.
+[^3]: A 4/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2012. december 28.
+[^4]: Lásd a 4/2013. (I. 21.) KüM közleményt.
+[^5]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 24. §-a szerint módosított szöveg.

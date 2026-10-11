@@ -1,0 +1,561 @@
+---
+title: "442/2012. (XII. 29.) Korm. rendelet a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről"
+identifier: "442/2012. (XII. 29.) Korm. rendelet"
+njt_id: "2012-442-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/442"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-12-29
+in_force_from: 2013-01-01
+last_amended: 2026-08-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-442-20-22"
+retrieved: 2026-10-12
+---
+
+# 442/2012. (XII. 29.) Korm. rendelet a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 5. és 11. pontjában, valamint
+
+a 14. § (2) és (3) bekezdése tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+#### 1. §
+
+(1) A rendelet hatálya kiterjed
+
+a)[^1] a Magyarország területén forgalmazott csomagolásra, termék csomagolására és a csomagolási hulladékra,
+
+b) a csomagolás visszavételére, valamint
+
+c) a csomagolási hulladék átvételére.
+
+(2) Nem terjed ki a rendelet hatálya a radioaktív anyagok csomagolására és csomagolásának hulladékára.
+
+## 2. Értelmező rendelkezések
+
+#### 2. §
+
+(1) E rendelet alkalmazásában
+
+1.[^2]
+
+2.[^3]
+
+3.[^4]
+
+4.[^5]
+
+4a.[^6]
+
+4b.[^7]
+
+4c.[^8]
+
+4d.[^9]
+
+5.[^10]
+
+5a.[^11]
+
+5b.[^12]
+
+5c.[^13]
+
+5d.[^14]
+
+5e.[^15]
+
+6\. *nehézfém:* az ólom, a kadmium, a higany és a hat vegyértékű króm;
+
+7.[^16] *nehézfém szándékos hozzáadása:* valamely nehézfémet tartalmazó anyag szándékos felhasználása egy csomagolás vagy csomagolási alkotóelem kialakításában, ahol annak jelenléte kívánatos a végső csomagolásban vagy csomagolási összetevőben egy meghatározott jellemző, megjelenés vagy minőség biztosítása érdekében, ide nem értve a csomagolóanyagok javításához nyersanyagként alkotóelemeiben nehézfémet is tartalmazó újrafeldolgozott anyag felhasználását;
+
+8.[^17]
+
+9.[^18]
+
+9a.[^19] *társított (kompozit) csomagolás:* a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2025/40 rendelet] szerinti kompozit csomagolás;
+
+10.[^20]
+
+(2)[^21] E rendeletben az (EU) 2025/40 rendeletben meghatározott fogalmak is alkalmazandóak.
+
+(3)[^22]
+
+(4)[^23]
+
+(5)[^24]
+
+(6)[^25]
+
+### 2a.[^26] Csomagolási hulladék a körforgásos gazdaságban
+
+#### 2/A. §
+
+(1) A csomagolási hulladék képződésének megelőzését és a csomagolás környezetre gyakorolt hatásának minimálisra csökkentését a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 5. mellékletével összhangban kell elérni.
+
+(2) A hulladékká vált társított csomagolást elkülönítetten kell gyűjteni.
+
+## 3. A csomagolás létrehozására, jelölésére és forgalomba hozatalára vonatkozó követelmények
+
+#### 3. §
+
+(1)[^27]
+
+(2)[^28] Az (EU) 2025/40 rendelet 5. cikk (4) bekezdésében ólom, kadmium, higany és hat vegyértékű króm koncentrációinak összegére meghatározott határérték a következő csomagolásokra nem vonatkozik:
+
+a) az üveg csomagolásra, ha a határérték túllépését kizárólag az előállításhoz felhasznált anyagában hasznosított üvegcserép nehézfémtartalma okozza, és az üveggyártási folyamat során nehézfém szándékos hozzáadására nem került sor; valamint
+
+b) a műanyag rekeszre, raklapra, a (3) bekezdésben meghatározott esetben.
+
+(3)[^29] Ha a műanyag rekesz, raklap javításra vagy a csomagolási hulladékká vált műanyag rekesz, raklap újrafeldolgozásra kerül, az (EU) 2025/40 rendelet 5. cikk (4) bekezdése szerinti tilalom nem áll fenn akkor, ha a javítás vagy újrafeldolgozás céljából felhasznált egyéb anyag műszakilag szükséges mértékben válik a megjavított vagy újrafeldolgozott műanyag rekesz vagy raklap részévé, de a megjavított vagy újrafeldolgozott műanyag rekesz, raklap tömegének 20%-át nem haladja meg, és nehézfém szándékos hozzáadására nem kerül sor.
+
+(4)[^30] Ha a (2) bekezdés a) pontja szerinti esetben az átlagos nehézfém-koncentráció – az egyes üvegolvasztó kemencékben végzett, a normális és rendszeres tevékenységre jellemző, bármely 12 egymást követő havi ellenőrző mérés alapján – túllépi a 0,02 tömegszázalékot, a gyártó erről a hatóságnak jelentést küld.
+
+(5) A (4) bekezdés szerinti jelentésnek tartalmaznia kell:
+
+a) a mért értékeket,
+
+b) az alkalmazott mérési módszerek leírását,
+
+c) a jelen lévő nehézfém-koncentráció feltételezett forrását, valamint
+
+d) a nehézfém-koncentráció csökkentésére tervezett intézkedések részletes leírását.
+
+(6) Ha a csomagolási célú üveget nem az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén állították elő, a (4) bekezdés szerinti jelentéstételi kötelezettség a csomagolási célú üveg első hazai forgalmazóját terheli. Más EGT-államból történt behozatal esetén a forgalmazó az érintett államban a 94/62/EK európai parlamenti és tanácsi irányelvben meghatározott nehézfémkoncentráció-szintekkel kapcsolatban a 2001/171/EK bizottsági határozat 5. cikke alapján megtett bejelentés másolatát a hatóság kérésére bemutatja.
+
+(7)[^31] A (4) bekezdés szerinti ellenőrző mérések eredményeit és az alkalmazott mérési módszereket az egészségügyi államigazgatási szerv kérésére a csomagolás gyártója, továbbá a (6) bekezdés szerinti esetben az első forgalmazó az egészségügyi államigazgatási szerv rendelkezésére bocsátja.
+
+#### 4. §
+
+(1) A gyártó a csomagolás anyagára, a csomagolási hulladék kezelésének módjára utaló azonosító jelölést alkalmazhat. Ha a gyártó azonosító jelölést alkalmaz – a külön jogszabályban meghatározottak szerint a csomagolás anyagára, a csomagolási hulladék kezelésének módjára vonatkozóan előírt azonosító jelölésen vagy más jelölésen kívül – kizárólag a 2. mellékletben meghatározott azonosítási rendszert és módokat alkalmazhatja.
+
+(2)[^32] Ha a csomagoláson a gyártó azonosító jelölésként címkét rögzít, a címkén az azonosításnak
+
+a) jól láthatónak,
+
+b) tartósnak, valamint
+
+c) a csomagolás megbontása után is jól olvashatónak
+
+kell lennie.
+
+(3)[^33] A gyártó a 3. § (3) bekezdés szerinti megjavított vagy újrafeldolgozott, az (EU) 2025/40 rendelet 5. cikk (4) bekezdésében ólom, kadmium, higany és hat vegyértékű króm koncentrációinak összegére meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszt, raklapot jól látható, olvasható módon a nehézfémtartalomra utaló azonosító jelöléssel úgy látja el, hogy a jelölés tartós és sérthetetlen legyen.
+
+(4)[^34] A gyártó és a forgalmazó biztosítja, hogy a (3) bekezdés szerinti azonosító jelöléssel ellátott műanyag rekeszek és raklapok olyan elosztó, visszavételi, újrahasználati rendszerbe kerüljenek, amelyben a visszavett vagy újrafeldolgozott műanyag rekeszeknek és raklapoknak a hasznos élettartama a lehető leghosszabb, és a termelési-fogyasztási láncban maradásuk feltételei legalább 90%-os arányban biztosítottak.
+
+(5)[^35] A koncessziós társaság biztosítja, hogy a (3) bekezdés szerinti azonosító jelöléssel ellátott csomagolási hulladékká vált műanyag rekeszek és raklapok olyan hasznosító rendszerbe kerüljenek, amelyben a termelési-fogyasztási láncban maradásuk feltételei legalább 90%-os arányban biztosítottak.
+
+#### 5. §
+
+(1)[^36] Csak olyan csomagolás hozható forgalomba, amely megfelel a 3. mellékletben foglalt lényeges követelményeknek.
+
+(2)[^37]
+
+(3)[^38] A csomagolásra a 3. melléklet 4. pontjában meghatározott nemzeti szabványokban foglaltak alkalmazása akkor felel meg az e rendeletben meghatározott követelményeknek, ha azokra egyúttal a lényeges követelmények is teljesülnek.
+
+## 4.[^39] Hasznosítási kötelezettség
+
+#### 9. §
+
+(1)[^43] A koncessziós társaság az újra nem használt, az (EU) 2025/40 rendelet 5. cikk (4) bekezdésében ólom, kadmium, higany és hat vegyértékű króm koncentrációinak összegére meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó és hulladékká vált műanyag rekesz, raklap hasznosításáról a hulladékhierarchia szerinti követelményekre figyelemmel gondoskodik.
+
+(2)[^44] El kell érni, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás teljes tömegének – legalább 55% anyagában történő hasznosítása mellett – legalább 60%-át hasznosítsák úgy, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás anyagfajtáinak teljes tömegéhez viszonyítva anyagfajtánként az újrafeldolgozási arány a következő legyen:
+
+a) üveg esetében 60%,
+
+b) papír és karton esetében 60%,
+
+c) fém esetében 50%,
+
+d) fa esetében 15%,
+
+e) műanyag esetében 22,5%, kizárólag azokat az anyagokat figyelembe véve, amelyeket újból műanyagokká dolgoznak fel.
+
+(2a)[^45]
+
+(2b)[^46]
+
+(3)[^47] A (2) bekezdésben, valamint az (EU) 2025/40 rendelet 52. cikk (1) bekezdésében meghatározottak teljesítése érdekében a koncessziós társaságnak gondoskodnia kell a hasznosítási arányok teljesítéséről az Országos Hulladékgazdálkodási Tervvel összhangban.
+
+(4)[^48] A hasznosítási kötelezettség teljesítésének minősül a Magyarországon képződött, átvett és gyűjtött csomagolási hulladék külföldön megvalósított hasznosítása is. Az EGT-államok területéről kivitt csomagolási hulladék csak akkor minősül teljesítésnek, ha annak hasznosítása igazoltan olyan körülmények között történt meg, amelyek általános értelemben egyenértékűek a vonatkozó jogszabályokban és a közvetlenül alkalmazandó uniós jogi aktusokban előírtakkal. A teljesítés igazolása érdekében az országos hulladékgazdálkodási hatóság kötelezheti a koncessziós társaságot az egyenértékűség bizonyítására az igénybe vett hasznosítási technológia, valamint annak engedélyei bemutatásával.
+
+### 4a.[^49] Eltérés a célértékektől
+
+#### 9/A. §
+
+(1)[^50] A hulladékgazdálkodásért felelős miniszter az (EU) 2025/40 rendelet 52. cikk (2) bekezdés d) pontja szerint kezdeményezheti az Európai Bizottságnál (a továbbiakban: Bizottság) a határidő elhalasztását az (EU) 2025/40 rendelet 52. cikk (2) bekezdésében meghatározott feltételek fennállása esetén.
+
+(2)[^51] Az (EU) 2025/40 rendelet 52. cikk (2) bekezdés d) pontja szerint elkészített végrehajtási terv a Ht. 92/C. § (1) bekezdés c) pontja szerinti végrehajtási tervvel egyesítve is összeállítható.
+
+(3)[^52]
+
+(4)[^53] A Bizottság felkérése esetén a végrehajtási tervet a hulladékgazdálkodásért felelős miniszter az (EU) 2025/40 rendelet 52. cikk (3) bekezdése szerint felülvizsgálja, és a felülvizsgált végrehajtási tervet benyújtja a Bizottság részére.
+
+(5)[^54]
+
+### 4b.[^55] A célérték számításának szabályai
+
+#### 9/B. §[^56]
+
+A 9. § (2) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
+
+## 5. A csomagolás forgalmazójának kötelezettségei
+
+#### 10. §
+
+(1)[^57] A csomagolt termék forgalmazója, amely üzletenként – a Ht. 12. § (2b) bekezdésében meghatározott kivétellel – legalább 500 m<sup>2</sup> alapterületű üzlethelyiséggel rendelkezik, a fogyasztó által felajánlott használt csomagolást visszaveszi, a hulladékbirtokos által felajánlott csomagolási hulladékot átveszi. E kötelezettség a helyben fogyasztásra kínált termék csomagolására nem vonatkozik.
+
+(2)[^58] A forgalmazó a használt csomagolás visszavételét vagy a csomagolási hulladék átvételét akkor tagadhatja meg, ha az ártalmas az emberi egészségre vagy a környezetre.
+
+(3)[^59] A forgalmazó az (1) bekezdés szerinti átvételt, visszavételt – a Ht. 12. § (2b) bekezdése szerint gyűjtött üveghulladék esetén a (3a) bekezdésben meghatározottak figyelembevételével – a csomagolt termék forgalmazásának feltételeivel azonos módon, folyamatosan, teljes nyitvatartási időben a csomagolt termék forgalmazásának helyén biztosítja.
+
+(3a)[^60] A legalább 300 m<sup>2</sup> alapterületű üzlettel rendelkező forgalmazó a Ht. 12. § (2b) bekezdése szerinti, üveghulladékra vonatkozó kötelezettségét az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendelet előírásainak megfelelően kialakított átvételi helyen teljesíti.
+
+(4) A forgalmazó átvételi kötelezettségének teljesítéséért a hulladékbirtokostól ellenértéket nem kérhet, azonban a fogyasztó vagy a hulladékbirtokos visszavitelre ösztönzése érdekében díjat fizethet.
+
+(5) Ha a forgalmazó által forgalmazott termék gyűjtőcsomagolása, szállítási csomagolása éves szinten
+
+a) műanyag vagy fém esetén összesen az 500 kilogrammot,
+
+b) papír vagy fa esetén összesen az 1000 kilogrammot,
+
+c) üveg esetén a 2000 kilogrammot
+
+meghaladja, a gyűjtőcsomagolási, továbbá a szállítási csomagolási hulladék átvételét – jogszabály eltérő rendelkezése hiányában – a forgalmazó nem tagadhatja meg.
+
+(6) A hulladékbirtokos kérésére a forgalmazó – a (7) bekezdésben meghatározott kivétellel – az általa forgalmazott terméket a fogyasztónak gyűjtőcsomagolás, szállítási csomagolás nélkül adja át, továbbá biztosítja annak lehetőségét, hogy az értékesítés helyszínén a termék kicsomagolását követően a csomagolási hulladékot a hulladékbirtokos a forgalmazónál hagyhassa.
+
+(7) A hulladékbirtokos (6) bekezdés szerinti kérését a forgalmazó csak abban az esetben utasíthatja el, ha
+
+a) annak teljesítése veszélyeztetné a termék biztonságos üzembe helyezését,
+
+b) annak teljesítése veszélyeztetné a termék használatának biztonságosságát,
+
+c) a termék a csomagolás nélkül biztonságosan nem szállítható, vagy
+
+d) annak teljesítését jogszabály kizárja.
+
+## 5/a.[^61] A kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedély
+
+#### 10/A. §
+
+A koncessziós társaság a kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedély iránti kérelmet terjeszt elő az országos hulladékgazdálkodási hatóságnál a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló kormányrendeletben meghatározott tartalommal.
+
+## 6. [^62] Nyilvántartás, adatszolgáltatás, informatikai rendszer
+
+#### 11. §
+
+(1)[^63]
+
+(2)[^64] A csomagolást újrahasználó gyártó nyilvántartást vezet az újrahasználható csomagolás és újrahasználható fogyasztói csomagolás éves forgási ciklusának anyagkategória és típus szerinti számáról (db), valamint az újrahasználható csomagolás és újrahasználható fogyasztói csomagolás egységnyi tömegéről anyagkategória és típus szerint (kg).
+
+(3)–(4)[^65]
+
+(5)[^66] A gyártó, a forgalmazó az (EU) 2025/40 rendelet 5. cikk (4) bekezdésében ólom, kadmium, higany és hat vegyértékű króm koncentrációinak összegére meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszről, raklapról az alábbi tartalommal nyilvántartást vezet:
+
+a) az évente forgalomba hozott műanyag rekesz, raklap mennyiségéről,
+
+b) az évente visszavett műanyag rekesz, raklap mennyiségéről,
+
+c)[^67] az újrahasznált műanyag rekesz, raklap mennyiségéről, valamint
+
+d)[^68]
+
+e)[^69]
+
+f)[^70]
+
+g) a gyártó nevében eljáró meghatalmazott képviselője személyét érintő esetleges változásokról.
+
+(5a)[^71] A koncessziós társaság és a koncesszori alvállalkozó az (EU) 2025/40 rendelet 5. cikk (4) bekezdésében ólom, kadmium, higany és hat vegyértékű króm koncentrációinak összegére meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszről, raklapról az alábbi tartalommal nyilvántartást vezet:
+
+a) az évente átvett és gyűjtött, csomagolási hulladéknak minősülő műanyag rekesz, raklap mennyiségéről,
+
+b) az újrafeldolgozott, ártalmatlanított csomagolási hulladéknak minősülő műanyag rekesz, raklap mennyiségéről, valamint
+
+c) a 4. § (5) bekezdése szerinti rendszer működéséről és annak változásáról.
+
+(6)[^72] A gyártó, a forgalmazó, a koncessziós társaság és a koncesszori alvállalkozó az e § szerinti nyilvántartást legalább 5 éven keresztül megőrzi.
+
+(7)[^73]
+
+#### 12. §
+
+(1)[^74]
+
+(2)[^75]
+
+(3)[^76] A gyártó a 11. § (5) bekezdése, a koncessziós társaság és a koncesszori alvállalkozó a 11. § (5a) bekezdése szerinti nyilvántartás szerinti adattartalommal a tárgyévet követő év január 31-ig az országos hulladékgazdálkodási hatóság részére adatot szolgáltat a 2009/292/EK bizottsági határozatnak való megfelelésről.
+
+(4)[^77] Az adatszolgáltatási kötelezettséget elektronikus űrlapon kell teljesíteni. Az elektronikus űrlapot az országos hulladékgazdálkodási hatóság honlapján és a kormányzati portálon kell közzétenni.
+
+(5) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint saját nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezésért az adatszolgáltatásra kötelezett felel.
+
+(6)[^78]
+
+## 7. Eljáró hatóságok
+
+#### 14. §
+
+(1)[^80] A 3. §-ban és az (EU) 2025/40 rendelet 5. cikkében foglalt rendelkezések megsértése esetén az egészségügyi államigazgatási szerv jár el.
+
+(2) A 4. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
+
+(3)[^81] A 4. § (4) bekezdésében, az 5. §-ban, és a 10. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv.-ben meghatározott szabályok szerint jár el.
+
+(4) A (2) és a (3) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(5)[^82] A gyártó, a koncessziós társaság és a koncesszori alvállalkozó 6. alcím szerinti kötelezettségeinek teljesítését az országos hulladékgazdálkodási hatóság, az e rendelet szerinti, az (1)–(3) bekezdés hatálya alá nem tartozó egyéb tevékenységeket a tevékenység tekintetében hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóság ellenőrzi.
+
+## 8. Záró rendelkezések
+
+#### 15. §
+
+(1) Ez a rendelet 2013. január 1. napján lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépést követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+
+#### 16. §
+
+Azt a terméket és csomagolást, amelyet nem e rendeletnek megfelelően állítottak elő, a forgalomból ki kell vonni.
+
+#### 17. §
+
+(1) Ez a rendelet
+
+a) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelvnek;
+
+b) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv módosításáról szóló, 2004. február 11-i 2004/12/EK európai parlamenti és tanácsi irányelvnek;
+
+c)[^83]
+
+d) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek
+
+e)[^84]
+
+f)[^85]
+
+g)[^86] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/852 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet
+
+a)[^87] a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet;
+
+b) a csomagolóanyagok azonosítási rendszerének a csomagolásról és a csomagolási hulladékról szóló, 94/62/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 1997. január 28-i 97/129/EK bizottsági határozat;
+
+c) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelvben meghatározott nehézfémkoncentráció-szintekkel kapcsolatban az üvegcsomagolásra vonatkozó eltérés feltételeinek meghatározásáról szóló, 2001. február 19-i 2001/171/EK bizottsági határozat;
+
+d)[^88]
+
+e) az Európai Parlament és a Tanács a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelve szerinti adatbázisrendszerre vonatkozó formátumok létrehozásáról szóló, 2005. március 22-i 2005/270/EK bizottság határozat;
+
+f) a 2001/171/EK határozatnak a 94/62/EK irányelvben meghatározott nehézfémkoncentráció-szintekkel kapcsolatban az üvegcsomagolásra vonatkozó eltérés érvényességének meghosszabbítása érdekében történő módosításáról szóló, 2006. május 8-i 2006/340/EK bizottsági határozat;
+
+g) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelvben meghatározott nehézfém-koncentráció határértéktől a műanyag rekeszek és a műanyag raklapok esetében való eltérés feltételeinek meghatározásáról szóló, 2009. március 24-i 2009/292/EK bizottsági határozat
+
+h)[^89] a könnyű műanyag hordtasakok éves felhasználásának számítási módszeréről és a 2005/270/EK határozat módosításáról szóló, 2018. június 19-i (EU) 2018/896 bizottsági végrehajtási határozat;
+
+i)[^90]
+
+j)[^91] a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozat
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^93]
+
+## 2. melléklet a 442/2012. (XII. 29.) Korm. rendelethez
+
+**Azonosítási rendszer**
+
+Az azonosítási rendszer az anyag tekintetében rövidítést is használhat. Az anyagokat számozási rendszerrel, valamint rövidítéssel lehet azonosítani. Az azonosító jelet a csomagolás újrahasználható vagy hasznosítható jellegére utaló grafikus jel alá kell besorolni.
+
+<table><tbody><tr><td colspan="2">Műanyag</td></tr><tr><td>01</td><td>polietilén-tereftalát (PET)</td></tr><tr><td>02</td><td>nagysűrűségű polietilén (HDPE)</td></tr><tr><td>03</td><td>polivinilklorid (PVC)</td></tr><tr><td>04</td><td>kissűrűségű polietilén (LDPE)</td></tr><tr><td>05</td><td>polipropilén (PP)</td></tr><tr><td>06</td><td>polisztirol (PS)</td></tr><tr><td>07</td><td>poliamid</td></tr><tr><td>08</td><td>poliuretán</td></tr><tr><td>09</td><td>polivinil alkohol</td></tr><tr><td>18</td><td>megújuló nyersanyagból előállított biopolimer</td></tr><tr><td>19</td><td>más műanyag (műanyag/műanyag)</td></tr><tr><td colspan="2">Papír és karton</td></tr><tr><td>20</td><td>hullámpapírlemez (PAP)</td></tr><tr><td>21</td><td>nem hullámpapírlemez jellegű karton (PAP)</td></tr><tr><td>22</td><td>papír (PAP)</td></tr><tr><td colspan="2">Fém</td></tr><tr><td>40</td><td>acél (FE)</td></tr><tr><td>41</td><td>alumínium (ALU)</td></tr><tr><td>49</td><td>más fém</td></tr><tr><td colspan="2">Fa</td></tr><tr><td>50</td><td>fa (FOR)</td></tr><tr><td>51</td><td>parafa (FOR)</td></tr><tr><td>59</td><td>más természetes anyag</td></tr><tr><td colspan="2">Textil</td></tr><tr><td>60</td><td>gyapot (TEX)</td></tr><tr><td>61</td><td>juta, kender (TEX)</td></tr><tr><td>69</td><td>más természetes alapú anyag</td></tr><tr><td colspan="2">Üveg</td></tr><tr><td>70</td><td>színtelen üveg (GL)</td></tr><tr><td>71</td><td>zöld üveg (GL)</td></tr><tr><td>72</td><td>barna üveg (GL)</td></tr><tr><td>79</td><td>más üveg</td></tr><tr><td colspan="2">Társított anyagok (kompozitok)*</td></tr><tr><td>80</td><td>társított: papír és karton/különböző fémek</td></tr><tr><td>81</td><td>rétegzett italkarton: papír és karton/műanyag</td></tr><tr><td>82</td><td>társított: papír és karton/alumínium</td></tr><tr><td>83</td><td>társított: papír és karton/ónozott lemez</td></tr><tr><td>84</td><td>rétegzett italkarton: papír és karton/műanyag/alumínium</td></tr><tr><td>85</td><td>társított: papír és karton/műanyag/alumínium/ónozott lemez</td></tr><tr><td>86</td><td>társított: papír és karton/más anyag</td></tr><tr><td>90</td><td>társított: műanyag/alumínium</td></tr><tr><td>91</td><td>társított: műanyag/ónozott lemez</td></tr><tr><td>92</td><td>társított: műanyag/különböző fémek</td></tr><tr><td>93</td><td>társított: műanyag/más anyag</td></tr><tr><td>95</td><td>társított: üveg/műanyag</td></tr><tr><td>96</td><td>társított: üveg/alumínium</td></tr><tr><td>97</td><td>társított: üveg/ónozott lemez</td></tr><tr><td>98</td><td>társított: üveg/különböző fémek</td></tr></tbody></table>
+
+\* Társított anyagok (kompozitok) esetében a következő jelölést kell alkalmazni: C/a jellemző anyag megnevezésének rövidítése.
+
+## 3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^94]
+
+**A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényeges követelmények**
+
+1\. **A csomagolás előállítására és összetételére vonatkozó követelmények:**
+
+1.1. A csomagolást úgy kell előállítani, hogy a csomagolás térfogata és tömege arra a minimálisan elégséges mennyiségre korlátozódjék, amely fenntartja a csomagolt termék és a felhasználó számára a biztonságosság, higiénia és elfogadhatóság szükséges szintjét.
+
+1.2.
+
+1.3.
+
+2.
+
+3.
+
+<table><tbody><tr><td>ESzSz<sup>(1)</sup></td><td colspan="2">Az összehangolt szabvány hivatkozása és címe<br>(és referenciadokumentum)</td><td>A helyettesített szabvány<br>hivatkozása</td><td>A helyettesített szabvány<br>megfelelőségére vonatkozó<br>vélelem megszűnésének<br>időpontja<sup>(3)</sup></td></tr><tr><td>CEN<sup>(2)</sup></td><td colspan="2">MSZ EN 13427:2005<br>Csomagolás – A csomagolásra és a csomagolási hulladékra vonatkozó európai szabványok alkalmazásának követelményei</td><td>–</td><td></td></tr><tr><td>CEN</td><td colspan="2">MSZ EN 13428:2004<br>Csomagolás – Külön követelmények a gyártásra és összetételre – Megelőzés anyagfelhasználás-csökkentéssel</td><td>EN 13428:2000</td><td>Ennek a közzétételnek<br>a napja</td></tr><tr><td>CEN</td><td colspan="2">MSZ EN 13429:2004<br>Csomagolás – Újrahasználat</td><td>–</td><td></td></tr><tr><td>CEN</td><td colspan="2">MSZ EN 13430:2004<br>Csomagolás – Az alapanyagként hasznosítható csomagolás követelményei</td><td>–</td><td></td></tr><tr><td>CEN</td><td colspan="2">MSZ EN 13431:2004<br>Csomagolás – Energetikailag hasznosítható csomagolás követelményei, beleértve a legkisebb alsó fűtőérték meghatározását is</td><td>–</td><td></td></tr><tr><td>CEN</td><td colspan="2">MSZ EN 13432:2002<br>Csomagolás – Komposztálással és biológiai lebomlással hasznosítható csomagolás követelményei – Vizsgálati program és a csomagolás végleges elfogadásának értékelési feltételei</td><td>–</td><td></td></tr><tr><td colspan="2"><sup>(1)</sup> ESzSz: Európai Szabványügyi Szervezetek.</td><td colspan="3"></td></tr><tr><td colspan="5"><sup>(2)</sup> CEN: Európai Szabványügyi Bizottság.</td></tr><tr><td colspan="5"><sup>(3)</sup> A megfelelőségre vonatkozó vélelem megszűnésének időpontja általában megegyezik az Európai Szabványügyi Szervezet által meghatározott visszavonás időpontjával.</td></tr></tbody></table>
+
+4a. **Eltérés a célértékektől**
+
+9/A. § (1) A hulladékgazdálkodásért felelős miniszter a 9. § (2a), illetve (2b) bekezdés a)–f) pontja szerinti célértékek elérésére előírt teljesítési határidő legfeljebb 5 évvel való elhalasztását – végrehajtási terv megküldésével – a 9. § (2a) és (2b) bekezdésében meghatározott határidőt megelőző 2. év végéig kezdeményezheti az Európai Bizottságnál (a továbbiakban: Bizottság).
+
+(2) Az (1) bekezdés szerint elkészített végrehajtási terv a Ht. 92/C. § (1) bekezdés b) és c) pontja szerinti végrehajtási tervvel egyesítve is összeállítható.
+
+(3) A végrehajtási tervben foglalt célértéktől való eltérés feltételei a következők:
+
+a) az országosan képződő hulladékká vált csomagolás teljes tömegére előírt minimális újrafeldolgozási aránytól lefelé nem lehet eltérni,
+
+b) az eltérés legfeljebb 15 százalékpont lehet egyetlen célértéktől vagy két célérték között megosztva,
+
+c) az eltérés eredményeként az egyes célértékre vonatkozó újrafeldolgozási arány nem csökkenhet 30% alá, és
+
+d) az eltérés eredményeként az üveg, illetve a papír és karton vonatkozásában a célértékre vonatkozó újrafeldolgozási arány nem csökkenhet 60% alá.
+
+(4) Ha a Bizottság a végrehajtási tervet nem fogadja el, a Bizottság tájékoztatásának kézhezvételétől számított három hónapon belül a tervet a hulladékgazdálkodásért felelős miniszter felülvizsgálja, és újból benyújtja a Bizottság részére.
+
+(5) Az (1) bekezdés szerinti végrehajtási terv legalább az alábbiakat kell, hogy tartalmazza:
+
+a) a csomagolási hulladék újrafeldolgozására, hulladéklerakókban való elhelyezésére és egyéb kezelésére vonatkozó korábbi, jelenlegi és várható arányok, valamint a csomagolási hulladékot alkotó hulladékáramok értékelése;
+
+b) az érvényben levő hulladékgazdálkodási tervek és hulladékmegelőzési programok végrehajtásának értékelése;
+
+c) azon okok megjelölése, amelyek alapján úgy ítélhető meg, hogy nem érhető el a 9. § (2a) és (2b) bekezdésében meghatározott célérték az előírt határidőn belül, valamint az e célértékek eléréséhez szükséges határidő-hosszabbítás értékelése;
+
+d) az ahhoz szükséges intézkedések megjelölése, melyek azt valószínűsítik, hogy a határidő-hosszabbítással a 9. § (2a) és (2b) bekezdésében meghatározott célérték az (1) bekezdés szerinti halasztási határidőn belül elérhető, ideértve a hulladékhierarchia alkalmazását ösztönző megfelelő gazdasági eszközöket és más intézkedéseket;
+
+e) a d) pontban meghatározott intézkedések végrehajtására vonatkozó ütemterv, a végrehajtásukért felelős szerv meghatározása, valamint a határidő-hosszabbítás esetén alkalmazandó célértékek eléréséhez való egyedi hozzájárulásuk értékelése;
+
+f) a hulladékgazdálkodás finanszírozására vonatkozó információk a „szennyező fizet” elvvel összhangban;
+
+g) ha szükséges, az adatminőség javítására irányuló intézkedések meghatározása a hulladékgazdálkodási teljesítmény jobb tervezése és nyomon követése érdekében.
+
+4b. **A célérték számításának szabályai**
+
+9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
+
+## 4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^95]
+
+**A célértéknek való megfelelés számítási szabályai**
+
+1\. A tárgyévben országosan képződött és újrafeldolgozott csomagolási hulladék mennyiségét az adatszolgáltatás alapján gyűjtött adatokból ki kell számítani oly módon, hogy az országosan képződött csomagolási hulladékot egyenlőnek lehet tekinteni a tárgyévben országosan forgalomba hozott csomagolás mennyiségével. Az újrafeldolgozott csomagolási hulladékként azon hulladékká vált csomagolásmennyiséget lehet elszámolni, amely – miután átesett valamennyi szükséges ellenőrzésen, válogatáson és egyéb, az újrafeldolgozásra nem szánt hulladék eltávolítására és a minőségi újrafeldolgozás biztosítására irányuló előzetes műveleten – bekerül az újrafeldolgozási műveletbe, amely során a hulladékot ténylegesen termékké vagy más, hulladéknak nem minősülő anyaggá alakítják át.
+
+2\. Az újrafeldolgozott csomagolási hulladék mennyiségét a hulladék újrafeldolgozási műveletbe való bekerülésekor kell megmérni, vagy az újrafeldolgozott csomagolási hulladék mennyiségét a válogatási művelet kimeneti oldalánál kell megmérni, ha a kimeneti oldalon megjelenő hulladék ezt követően újrafeldolgozásra került, de ebben az esetben azoknak a termékeknek vagy anyagoknak a mennyisége, amelyeket az újrafeldolgozási műveletet megelőzően további műveletekkel eltávolítottak, és ezt követően nem kerültek újrafeldolgozásra, nem számítanak bele az újrafeldolgozottként számított hulladék mennyiségébe.
+
+3.[^96]
+
+4\. Ha a csomagolási hulladék az újrafeldolgozás előtti előkészítő művelet eredményeként már nem minősül hulladéknak, az ilyen anyagot újrafeldolgozottnak lehet tekinteni, ha azt eredeti vagy más célú termékké vagy anyaggá történő újrafeldolgozásra szánják. A tüzelőanyagként vagy más módon energia előállítására vagy elégetés, feltöltés vagy lerakóban való elhelyezés útján használt anyagok, amelyek esetében megszűnt a hulladékstátusz, az újrafeldolgozási célértékek elérésének szempontjából nem vehetők figyelembe.
+
+5.[^97]
+
+6\. Az újrafeldolgozás céljából más tagállamban hasznosított csomagolási hulladék a célértékek elérése szempontjából az országosan képződött hulladék tekintetében figyelembe vehető.
+
+7.[^98] Az Európai Unión kívüli harmadik államba exportált csomagolási hulladék a célértékek elérése szempontjából figyelembe vehető, ha az e rendeletben és a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott adatszolgáltatási és nyilvántartási szabályok teljesülnek, továbbá az exportőr a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-ei (EU) 2024/1157 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2024/1157 rendelet] foglalt előírásoknak megfelelően bizonyítani tudja, hogy a hulladék szállítása megfelel az (EU) 2024/1157 rendelet követelményeinek, valamint hogy az Európai Unió területén kívül a csomagolási hulladék kezelése a vonatkozó uniós környezetvédelmi jog követelményeivel lényegében egyenértékű feltételek mellett történt.
+
+8.[^99]
+
+9.[^100]
+
+10.[^101]
+
+11.[^102]
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 412/2025. (XII. 22.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 1. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 2. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 3. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 4. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 4a. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 4b. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 4c. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés 4d. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 5. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés 5a. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § (1) bekezdés 5b. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § (1) bekezdés 5c. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^16]: A 2. § (1) bekezdés 7. pontja a 412/2025. (XII. 22.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
+[^17]: A 2. § (1) bekezdés 8. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^18]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^19]: A 2. § (1) bekezdés 9a. pontját a 158/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 412/2025. (XII. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^21]: A 2. § (2) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^22]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^23]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^24]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
+[^25]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
+[^26]: A 2a. alcímet (2/A. §) a 158/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^27]: A 3. § (1) bekezdését a 412/2025. (XII. 22.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^28]: A 3. § (2) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 3. § (3) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^30]: A 3. § (4) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^31]: A 3. § (7) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^32]: A 4. § (2) bekezdés nyitó szövegrésze a 412/2025. (XII. 22.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^33]: A 4. § (3) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
+[^34]: A 4. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 412/2025. (XII. 22.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
+[^35]: A 4. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 465/2024. (XII. 30.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^36]: Az 5. § (1) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
+[^37]: Az 5. § (2) bekezdését a 412/2025. (XII. 22.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^38]: Az 5. § (3) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
+[^39]: A 4. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^43]: A 9. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 465/2024. (XII. 30.) Korm. rendelet 12. § b) pontja, a 412/2025. (XII. 22.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
+[^44]: A 9. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^45]: A 9. § (2a) bekezdését a 158/2021. (III. 31.) Korm. rendelet 4. §-a iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § f) pontja hatályon kívül helyezte.
+[^46]: A 9. § (2b) bekezdését a 158/2021. (III. 31.) Korm. rendelet 4. §-a iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § f) pontja hatályon kívül helyezte.
+[^47]: A 9. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 465/2024. (XII. 30.) Korm. rendelet 13. § a) pontja, a 412/2025. (XII. 22.) Korm. rendelet 11. § 10. pontja szerint módosított szöveg.
+[^48]: A 9. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 465/2024. (XII. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^49]: A 4a. alcímet (9/A. §) a 158/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^50]: A 9/A. § (1) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^51]: A 9/A. § (2) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^52]: A 9/A. § (3) bekezdését a 412/2025. (XII. 22.) Korm. rendelet 12. § g) pontja hatályon kívül helyezte.
+[^53]: A 9/A. § (4) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^54]: A 9/A. § (5) bekezdését a 412/2025. (XII. 22.) Korm. rendelet 12. § g) pontja hatályon kívül helyezte.
+[^55]: A 4b. alcímet (9/B. §) a 158/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^56]: A 9/B. § a 412/2025. (XII. 22.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
+[^57]: A 10. § (1) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § b) pontja, a 412/2025. (XII. 22.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
+[^58]: A 10. § (2) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 13. pontja szerint módosított szöveg.
+[^59]: A 10. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^60]: A 10. § (3a) bekezdését a 82/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
+[^61]: Az 5/a. alcímet (10/A. §-t) a 412/2025. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
+[^62]: A 6. alcím címe a 158/2021. (III. 31.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^63]: A 11. § (1) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^64]: A 11. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^65]: A 11. § (3)–(4) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^66]: A 11. § (5) bekezdés nyitó szövegrésze a 412/2025. (XII. 22.) Korm. rendelet 11. § 14. pontja szerint módosított szöveg.
+[^67]: A 11. § (5) bekezdés c) pontja a 465/2024. (XII. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^68]: A 11. § (5) bekezdés d) pontját a 465/2024. (XII. 30.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^69]: A 11. § (5) bekezdés e) pontját a 465/2024. (XII. 30.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^70]: A 11. § (5) bekezdés f) pontját a 465/2024. (XII. 30.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^71]: A 11. § (5a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be, nyitó szövegrésze a 412/2025. (XII. 22.) Korm. rendelet 11. § 15. pontja szerint módosított szöveg.
+[^72]: A 11. § (6) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^73]: A 11. § (7) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^74]: A 12. § (1) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte.
+[^75]: A 12. § (2) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^76]: A 12. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^77]: A 12. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^78]: A 12. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^80]: A 14. § (1) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 16. pontja szerint módosított szöveg.
+[^81]: A 14. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^82]: A 14. § (5) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^83]: A 17. § (1) bekezdés c) pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § i) pontja hatályon kívül helyezte.
+[^84]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § i) pontja hatályon kívül helyezte.
+[^85]: A 17. § (1) bekezdés f) pontját a 30/2017. (II. 13.) Korm. rendelet 3. §-a iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § i) pontja hatályon kívül helyezte.
+[^86]: A 17. § (1) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^87]: A 17. § (2) bekezdés a) pontja a 412/2025. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^88]: A 17. § (2) bekezdés d) pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § j) pontja hatályon kívül helyezte.
+[^89]: A 17. § (2) bekezdés h) pontját a 724/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^90]: A 17. § (2) bekezdés i) pontját a 724/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be, a 412/2025. (XII. 22.) Korm. rendelet 12. § j) pontja hatályon kívül helyezte.
+[^91]: A 17. § (2) bekezdés j) pontját a 158/2021. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^93]: Az 1. mellékletet a 412/2025. (XII. 22.) Korm. rendelet 12. § k) pontja hatályon kívül helyezte.
+[^94]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése, a 465/2024. (XII. 30.) Korm. rendelet 11. §-a, a 412/2025. (XII. 22.) Korm. rendelet 11. § 17. pontja és 12. § l) pontja szerint módosított szöveg.
+[^95]: A 4. mellékletet újonnan a 158/2021. (III. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^96]: A 4. melléklet 3. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.
+[^97]: A 4. melléklet 5. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.
+[^98]: A 4. melléklet 7. pontja a 412/2025. (XII. 22.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^99]: A 4. melléklet 8. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.
+[^100]: A 4. melléklet 9. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.
+[^101]: A 4. melléklet 10. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.
+[^102]: A 4. melléklet 11. pontját a 412/2025. (XII. 22.) Korm. rendelet 12. § m) pontja hatályon kívül helyezte.

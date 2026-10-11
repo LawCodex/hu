@@ -1,0 +1,787 @@
+---
+title: "530/2017. (XII. 29.) Korm. rendelet a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami szerv kijelöléséről, valamint a népi iparművészeti és a népművészeti alkotások minősítéséről"
+identifier: "530/2017. (XII. 29.) Korm. rendelet"
+njt_id: "2017-530-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/530"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-29
+in_force_from: 2018-01-01
+last_amended: 2018-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-530-20-22"
+retrieved: 2026-10-12
+---
+
+# 530/2017. (XII. 29.) Korm. rendelet a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami szerv kijelöléséről, valamint a népi iparművészeti és a népművészeti alkotások minősítéséről
+
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (1) bekezdés s) és *t)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1\. *hagyományos tárgyalkotó népművészet:* a népművészet tárgyi örökség részét képező népművészeti ágban az autentikus tárgyalkotó hagyományok mentén végzett kézműves tevékenység;
+
+2\. *népi előadó-művészet:* a népművészet szellemi örökség részét képező népművészeti ágban az autentikus folklórhagyományok mentén végzett előadó-művészeti tevékenység.
+
+## 2. A hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos szerv kijelölése és feladatellátásának szabályai
+
+### 2. §
+
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) 87/B. §-ában meghatározott állami feladatok ellátására a Hagyományok Házát jelöli ki.
+
+### 3. §
+
+(1) A Hagyományok Háza főigazgatója (a továbbiakban: főigazgató) mellett, a 6. és 9. §-ban meghatározott feladatok ellátása segítésének érdekében
+
+a) a népi előadó-művészet területén, valamint
+
+b) a hagyományos tárgyalkotó népművészet és a népi iparművészet területén
+
+tanácsadó testület (a továbbiakban együtt: testület) működik.
+
+(2) A testület véleményezi a minősítő cím adományozására irányuló kérelemhez mellékelt alkotásokat, és javaslatot tesz a főigazgatónak a minősítő címek adományozására.
+
+(3) A testület 9 tagból áll, tagjait és tagjai közül az elnökét a főigazgató, a népi iparművészet és a népművészet országos civil szervezeteivel történt egyeztetést követően, a népi iparművészettel és a népművészettel foglalkozó elméleti és gyakorlati szakemberek közül kéri fel öt év határozott időre. A testületi tagság a felkérés elfogadásával, az abban meghatározott feltételekkel jön létre, és a tag főigazgató általi felmentésével, a tag halálával vagy lemondásával szűnik meg.
+
+(4) A testület feladatkörében véleményezési és javaslattételi jogkörrel rendelkezik.
+
+(5) A testület akkor határozatképes, ha tagjainak több mint a fele jelen van, döntéseit szótöbbséggel hozza meg. Szavazategyenlőség esetén a testület elnökének szavazata dönt. A testület ügyrendjét a főigazgató állapítja meg, és a Hagyományok Háza honlapján közzé teszi.
+
+### 4. §
+
+(1) Az 5., 7. és 8. §-ban meghatározott feladatok ellátása segítésének érdekében a főigazgató eseti jelleggel minősítő zsűrit (a továbbiakban: zsűri) kér fel. A zsűri véleményezi a népi iparművészeti, a hagyományos tárgyalkotó népművészeti és a népi előadó-művészeti minősíttetés céljából megküldött vagy bejelentett alkotásokat, és javaslatot tesz a főigazgatónak az alkotás minősítési besorolására.
+
+(2) A zsűri létszáma nem lehet kevesebb 5 főnél, tagjait és tagjai közül az elnökét a főigazgató a népi iparművészet és a népművészet országos szakmai szervezeteivel történt egyeztetést követően a népi iparművészettel és a népművészettel foglalkozó elméleti és gyakorlati szakemberek közül kéri fel. A zsűritagság a felkérés elfogadásával, az abban meghatározott feltételekkel jön létre, és a tag főigazgató általi felmentésével, a tag halálával vagy lemondásával szűnik meg.
+
+(3) A zsűri feladatkörében véleményezési és javaslattételi jogkörrel rendelkezik.
+
+(4) A zsűri akkor határozatképes, ha tagjainak több mint a fele jelen van, döntéseit szótöbbséggel hozza meg. Szavazategyenlőség esetén a zsűri elnökének szavazata dönt.
+
+(5) A zsűri működésére vonatkozó részletes szabályokat a főigazgató állapítja meg.
+
+## 3. A népi előadó-művészeti alkotások minősítése és minősítő cím adományozása
+
+### 5. §
+
+(1) A népművészeti alkotás a népi előadó-művészet terén nyújtott alkotói teljesítményre tekintettel a (2)–(4) bekezdésben meghatározott feltételeknek történő megfelelése esetén Nagy Páva vagy Páva minősítési besorolást kaphat.
+
+(2) A népi előadó-művészeti alkotások minősítésének kritériumai a szakmai, művészeti teljesítményen alapuló közösségteremtés, a népi előadó-művészet továbbéltetésében betöltött szerep, a magyar nemzeti, illetve magyarországi nemzetiségi kulturális identitás és népművészeti hagyományok őrzésének komplexitása, a kulturális érték- és mintaközvetítés jelentősége, az előadóművészi színvonal és a folklorisztikai hitelesség.
+
+(3) Nagy Páva minősítési besorolást kap az a népi előadó-művészeti alkotás, amely egyedi jellegű, kiemelkedő művészi értéken és magas színvonalon jeleníti meg a magyar, illetve valamely magyarországi nemzetiséghez köthető népművészet hagyományait, a hagyományos stíluselemeket, technikai megvalósítása, előadói színvonala és folklorisztikai hitelessége kifogástalan.
+
+(4) Páva minősítési besorolást kap az a népi előadó-művészeti alkotás, amely esztétikai és technikai szempontból is színvonalasan, folklorisztikailag hitelesen jeleníti meg a hagyományos stíluselemeket.
+
+### 6. §
+
+(1) Annak a természetes személynek vagy szervezetnek, aki vagy amely a népi előadó-művészeti alkotását az 1. melléklet A) pontja szerinti foglalkozási ágakban az 5. § szerint minősítteti, a (2)–(5) bekezdés szerinti minősítő cím adományozható.
+
+(2) Nagy Pávás Népi Előadóművész minősítő cím adományozható annak a kiemelkedő népi előadó-művészeti teljesítményt felmutató természetes személynek, aki népi előadó-művészeti teljesítményére Nagy Páva minősítést kapott, és
+
+a) Népművészet Mestere vagy Népművészet Ifjú Mestere kitüntető címmel rendelkezik,
+
+b) Kossuth-díjban, állami díjban vagy a kultúráért felelős miniszter (a továbbiakban: miniszter) által adományozható művészeti díjban részesült, vagy
+
+c) országos szakmai szervezet által szervezett és a testület ügyrendjében elismert – a minősítő cím adományozására irányuló kérelmet megelőző három éven belül szerzett – minősítés két legmagasabb fokozatának egyikével rendelkezik.
+
+(3) Nagy Pávás Népi Előadó-művészeti Együttes minősítő cím adományozható annak a kiemelkedő népi előadó-művészet teljesítményt felmutató szervezetnek, amely népi előadó-művészeti teljesítményére Nagy Páva minősítést kapott, és
+
+a) legalább két tagja Népművészet Mestere vagy Népművészet Ifjú Mestere kitüntető címmel rendelkezik,
+
+b) Kossuth-díjban, állami díjban vagy a miniszter által adományozható művészeti díjban részesült, vagy
+
+c) országos szakmai szervezet által szervezett és a testület ügyrendjében elismert – a minősítő cím adományozására irányuló kérelmet megelőző három éven belül szerzett – minősítés két legmagasabb fokozatának egyikével rendelkezik.
+
+(4) Pávás Népi Előadóművész minősítő cím adományozható annak a jelentős népi előadó-művészet teljesítményt felmutató természetes személynek, aki
+
+a) előadó-művészeti teljesítményére Páva minősítést kapott, és
+
+b) országos szakmai szervezet által szervezett és a testület ügyrendjében elismert – a minősítő cím adományozására irányuló kérelmet megelőző három éven belül szerzett – minősítéssel rendelkezik.
+
+(5) Pávás Népi Előadó-művészeti Együttes minősítő cím adományozható annak jelentős népi előadó-művészet teljesítményt felmutató szervezetnek, amely
+
+a) előadó-művészeti teljesítményére Páva minősítést kapott, és
+
+b) országos szakmai szervezet által szervezett és a testület ügyrendjében elismert – a minősítő cím adományozására irányuló kérelmet megelőző három éven belül szerzett – minősítéssel rendelkezik.
+
+## 4. A hagyományos tárgyalkotó népművészeti alkotások minősítése
+
+### 7. §
+
+(1) A népművészeti alkotás a hagyományos tárgyalkotó népművészet terén végzett alkotói tevékenységre tekintettel a (3) és (4) bekezdésben meghatározott feltételeknek történő megfelelés esetén Hagyományos Mesterremek vagy Hagyományos Míves Termék kategóriájú minősítési besorolást kaphat.
+
+(2) A hagyományos tárgyalkotó népművészeti alkotások minősítésének kritériuma a tárgy tartalma, néprajzi hagyománya és esztétikai értékei, egykori és a jelenlegi funkciója, valamint az alkalmazott technika és a kivitel minősége, az autentikus tárgyalkotó hagyományok mentén megvalósult alkotótevékenység. A kritériumok mérlegelése alapján a 2. melléklet szerinti hagyományos tárgyalkotó népművészeti alkotás a (3)–(5) bekezdés szerint minősíthető.
+
+(3) Hagyományos Mesterremek kategóriába kell sorolni az olyan egyedi jellegű, kiemelkedő művészi értékű hagyományos tárgyalkotó népművészeti alkotást, amely magas esztétikai színvonalon jeleníti meg a magyar, illetve a magyarországi nemzetiségi népművészet hagyományait, a hagyományos stíluselemeket, technikai megvalósítása kifogástalan.
+
+(4) Hagyományos Míves Termék kategóriába kell sorolni a magyar, illetve a magyarországi nemzetiségek népművészeti jellegzetességeit magán viselő, a hagyományos tárgyalkotó népművészeti tárgyak minősítési kritériumának megfelelő, technikai szempontból is színvonalas hagyományos tárgyalkotó népművészeti alkotást, amely megjeleníti a hagyományos stíluselemeket.
+
+(5) Jelölés nélküli zsűriszámot kap a színvonalas ajándéktárgynak minősülő hagyományos tárgyalkotó népművészeti alkotás, amely sokszorosításra alkalmas, kevés kézi erejű munkával előállítható, ugyanakkor technikájában, stílusában és gondolkodásmódjában egyértelműen az autentikus hagyományokat követi.
+
+## 5. A népi iparművészeti alkotások minősítése
+
+### 8. §
+
+(1) A népi iparművészet terén nyújtott teljesítményre tekintettel a népi iparművészeti alkotás, a (3) és (4) bekezdésben meghatározott feltételeknek történő megfelelés esetén Modern Mesterremek vagy Modern Míves Termék kategóriájú minősítési besorolást kaphat.
+
+(2) A népi iparművészeti alkotások minősítésének kritériuma a tárgy tartalma, néprajzi hagyománya és esztétikai értékei, egykori és a jelenlegi funkciója, valamint az alkalmazott technika és a kivitel minősége. A kritériumok mérlegelése alapján a 2. melléklet szerinti népi iparművészeti alkotás a (3)–(5) bekezdés szerint minősíthető.
+
+(3) Modern Mesterremek kategóriába kell sorolni az olyan egyedi jellegű, kiemelkedő művészi értékű népi iparművészeti alkotást, amely magasabb esztétikai színvonalon fejleszti tovább a magyar, illetve a magyarországi nemzetiségi népművészet hagyományait, technikai megvalósítása kifogástalan, és megfogalmazásában hangsúlyosak az újítások, a modern törekvések, ugyanakkor az iparművészeti jelleg ellenére a gyökerei egyértelműen a népművészet hagyományaihoz köthetők.
+
+(4) Modern Míves Termék kategóriába kell sorolni a magyar, illetve a magyarországi nemzetiségi népművészet jellegzetességeit magán viselő, a népi iparművészeti tárgyak minősítési kritériumának megfelelő, technikai szempontból is színvonalas népi iparművészeti alkotást, amely megfogalmazásában hangsúlyosak az újítások, a modern törekvések, ugyanakkor az iparművészeti jelleg ellenére a gyökerei egyértelműen a népművészet hagyományaihoz köthetők.
+
+(5) Jelölés nélküli zsűriszámot kap a színvonalas ajándéktárgynak minősülő népi iparművészeti alkotás, amely sokszorosításra alkalmas, kevés kézi erejű munkával előállítható, ugyanakkor technikájában, stílusában és gondolkodásmódjában egyértelműen a népművészet hagyományait viszi tovább újragondolt formában.
+
+## 6. A hagyományos tárgyalkotó népművészeti és népi iparművészeti alkotásokhoz kapcsolódó minősítő cím adományozása
+
+### 9. §
+
+(1) Népi Tárgyalkotó Iparművész minősítő cím adományozható annak a természetes személynek, aki népi iparművészeti, illetve hagyományos tárgyalkotó népművészeti alkotásait az 1. melléklet B) pontja szerinti foglalkozási ágakban, a 7., illetve 8. §-ban meghatározott eljárásban minősítteti.
+
+(2) A Népi Tárgyalkotó Iparművész minősítés feltétele, hogy az alkotó a minősítést megelőző három évben a 3. mellékletben meghatározott számú és besorolású minősített népi iparművészeti alkotással vagy hagyományos tárgyalkotó népművészeti alkotással rendelkezzen.
+
+(3) Népi Tárgyalkotó Iparművész Szervezet minősítő cím adományozható annak a szervezetnek, amely a Népi Tárgyalkotó Iparművész minősítő címmel rendelkező természetes személy tulajdonosa, tagja vagy alkalmazottja által előállított, az (1) bekezdésben foglalt feltételeknek megfelelő hagyományos tárgyalkotó népművészeti, népi iparművészeti alkotásokat állít elő.
+
+## 7. A minősítési és a minősítő cím adományozási eljárások közös eljárási szabályai
+
+### 10. §
+
+(1) Az 5–9. §-ban meghatározott eljárásokban a főigazgató országos hatáskörű hatóságként jár el.
+
+(2) A kérelmet a főigazgatónál kell benyújtani.
+
+(3) A népi iparművészeti alkotás, a hagyományos tárgyalkotó népművészeti alkotás és a népi előadó-művészeti alkotás minősítési eljárása esetén a benyújtott kérelem szakmai szempontú értékelését a zsűri végzi. A zsűri a kérelem benyújtását követő 30 napon belül javaslatát megküldi a főigazgató részére.
+
+(4) A zsűri szakmai értékeléséről készült jegyzőkönyv kötelező adatait népi iparművészeti alkotás és hagyományos tárgyalkotó népművészeti alkotás esetében a 4. melléklet, népi előadó-művészeti alkotás esetében az 5. melléklet tartalmazza.
+
+(5) A Népi Tárgyalkotó Iparművész, a Népi Tárgyalkotó Iparművész Szervezet, a Nagy Pávás Népi Előadóművész, a Nagy Pávás Népi Előadó-művészeti Együttes, a Pávás Népi Előadóművész, valamint a Pávás Népi Előadó-művészeti Együttes minősítő cím (a továbbiakban együtt: minősítő cím) adományozási eljárás esetén a benyújtott kérelem szakmai szempontú értékelését a testület végzi. A testület a kérelmet értékeli, és a kérelemről annak benyújtását követő 30 napon belül rövid, szöveges értékelést készít a főigazgató részére.
+
+(6) A minősítő cím adományozásáról a testület véleményének figyelembevételével a főigazgató határoz.
+
+## 8. Az egyes minősítési és minősítő cím adományozási eljárások különös eljárási szabályai
+
+### 11. §
+
+(1) A népi előadó-művészeti alkotás minősítését a 6. mellékletben meghatározott adattartalmú kérelemben kell kezdeményezni. A kérelemhez mellékelni kell a minősíttetni kívánt alkotás videófelvételét. A minősíttetni kívánt alkotások személyes gyakorlati bemutatására a főigazgató – az illetékes testület javaslatára – évente legalább két alkalommal minősítő zsűrit szervez.
+
+(2) A népi előadó-művészeti teljesítmény minősítése tárgyában a zsűri javaslata figyelembevételével a főigazgató határoz. A határozat tartalmazza a népi előadó-művészeti alkotás azonosítását lehetővé tevő zsűriszámot.
+
+### 12. §
+
+(1) A hagyományos tárgyalkotó népművészeti alkotás és a népi iparművészeti alkotás minősítését a 7. mellékletben meghatározott adattartalmú kérelemben kell kezdeményezni. A kérelemhez mellékelni kell a minősíttetni kívánt alkotást, vagy ha annak a helyszínre történő szállítása és bemutatása fizikai nehézségbe ütközik, úgy a minősítendő alkotásról készített fotódokumentációt. Indokolt esetben a zsűri a helyszínen is megtekintheti az alkotást.
+
+(2) A hagyományos tárgyalkotó népművészeti alkotás és a népi iparművészeti alkotás minősítése tárgyában a zsűri javaslata figyelembevételével a főigazgató határoz. A határozat tartalmazza a népi iparművészeti alkotás vagy a hagyományos tárgyalkotó népművészeti alkotás azonosítását lehetővé tevő zsűriszámot, valamint a „népi iparművészeti alkotás” vagy a „hagyományos tárgyalkotó népművészeti alkotás” jelölés használati jogára vonatkozó megállapítást.
+
+(3) A zsűriszámmal rendelkező termék értékesítésénél az általános forgalmi adóról szóló törvényben foglaltak szerint kell eljárni, és a minősített alkotást el kell látni a népi iparművészeti vagy a hagyományos tárgyalkotó népművészeti védjeggyel.
+
+### 13. §
+
+(1) A Nagy Pávás Népi Előadóművész és a Pávás Népi Előadóművész minősítő cím adományozását a 8. mellékletben, a Nagy Pávás Népi Előadó-művészeti Együttes és a Pávás Népi Előadó-művészeti Együttes minősítő cím adományozását a 9. mellékletben meghatározott adattartalommal kell kérelmezni.
+
+(2) A Népi Tárgyalkotó Iparművész minősítő cím adományozását a 8. mellékletben, a Népi Tárgyalkotó Iparművész Szervezet minősítő cím adományozását a 9. mellékletben meghatározott adattartalommal kell kérelmezni.
+
+## 9. A minősítő címek hatósági igazolványa
+
+### 14. §
+
+(1) A főigazgató a minősítő címről hivatalból hatósági igazolványt (a továbbiakban: igazolvány) állít ki.
+
+(2) Természetes személy esetén az igazolvány tartalmazza:
+
+a) az igazolvány számát,
+
+b) a jogosult nevét,
+
+c) a jogosult anyja születési családi és utónevét,
+
+d) a jogosult lakóhelyét,
+
+e) a foglalkozási ágat,
+
+f) a Népi Tárgyalkotó Iparművésznek, Nagy Pávás Népi Előadóművésznek vagy Pávás Népi Előadóművésznek való elismerés tényét,
+
+g) a minősítés megszerzésének dátumát,
+
+h) a főigazgató aláírását és Hagyományok Háza hivatalos bélyegzőjének lenyomatát,
+
+i) az igazolvány hatályosságának dátumát.
+
+(3) Szervezet esetén az igazolvány tartalmazza:
+
+a) az igazolvány számát,
+
+b) a szervezet nevét, cégnevét,
+
+c) a szervezet azonosítására alkalmas bírósági végzés, cégbejegyzés, alapító okirat számát,
+
+d) a szervezet székhelyét és bejegyzett telephelyét,
+
+e) a minősítés alapjául szolgáló foglalkozási ágat,
+
+f) a Népi Tárgyalkotó Iparművész Szervezetnek, Nagy Pávás Népi Előadó-művészeti Együttesnek vagy Pávás Népi Előadó-művészeti Együttesnek való elismerés tényét,
+
+g) a 6. § (3) bekezdése vagy a 9. § (3) bekezdése szerinti természetes személy nevét, a szervezetben betöltött tulajdonosi, tagi vagy alkalmazotti pozícióját, a (2) bekezdés szerinti igazolványának számát és hatályosságának idejét,
+
+h) a minősítés megszerzésének dátumát,
+
+i) a főigazgató aláírását és a Hagyományok Háza hivatalos bélyegzőjének lenyomatát,
+
+j) az igazolvány hatályosságának dátumát.
+
+(4) Az igazolvány – a (6) bekezdésben meghatározott kivétellel – öt évre adható ki, érvényességi ideje legfeljebb három alkalommal öt-öt évre meghosszabbítható. A meghosszabbításra irányuló eljárásra az igazolvány kiadására vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(5) Az igazolvány meghosszabbításának feltétele, hogy a minősítő cím jogosultja az igazolvány kiállítását követő öt évben alkotásait minősítteti, amelynek során
+
+a) népi iparművészeti alkotás vagy hagyományos tárgyalkotó népművészeti alkotás esetén legalább két alkotás Modern Mesterremek vagy Hagyományos Mesterremek és négy alkotás Modern Míves Termék vagy Hagyományos Míves Termék minősítést kapott, vagy
+
+b) népi előadó-művészet esetén előadó-művészeti alkotása legalább egy alkalommal Nagy Páva és két alkalommal Páva minősítést kapott.
+
+(6) Természetes személy részére az igazolványt a negyedik alkalommal történő meghosszabbítás esetén határozatlan időre kell kiadni.
+
+(7) Az ezen alcímben nem szabályozott eljárási kérdések tekintetében az általános közigazgatási rendtartásról szóló törvény rendelkezéseit alkalmazni kell.
+
+## 10. A minősítő címek nyilvántartása
+
+### 15. §
+
+(1) A minősítő címek Kultv. 87/C. §-a szerinti nyilvántartását (a továbbiakban: nyilvántartás) a főigazgató vezeti.
+
+(2) A főigazgató a nyilvántartást a Hagyományok Háza honlapján közzéteszi.
+
+### 16. §
+
+(1) A minősítő cím jogosultja a nyilvántartás tekintetében rá vonatkozó adatok megváltozását köteles a főigazgatónak a változást követő 30 napon belül bejelenteni.
+
+(2) A nyilvántartásból a főigazgató törli
+
+a) a természetes személyt vagy szervezetet, az erre irányuló kérelme esetén,
+
+b) a természetes személyt vagy szervezetet az igazolvány érvényességi ideje lejártával hivatalból,
+
+c) a szervezetet a megszűnése esetén.
+
+## 11. Záró rendelkezések
+
+### 17. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+### 18. §
+
+(1) A népi iparművészettel kapcsolatos állami feladatokról szóló 31/2011. (III. 17.) Korm. rendelet (a továbbiakban: R1.) és a népi iparművészettel és a népmesekincs gondozásával kapcsolatos állami feladatokról szóló 83/2017. (IV. 10.) Korm. rendelet (a továbbiakban: R2.) alapján kiállított „Népi Iparművész” minősítő címről szóló hatósági igazolvány a benne foglalt időtartamig hatályos.
+
+(2) Az R1. és az R2. alapján minősített népi iparművészeti alkotásokat a 3. melléklet szerinti darabszám számítása során figyelembe kell venni.
+
+(3) Az R1. és az R2. alapján adományozott Népi Iparművész minősítő címet a 9. § (3) bekezdése szerinti minősítő címre jogosító feltételként figyelembe kell venni.
+
+### 19. §[^1]
+
+## 1. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A hagyományos tárgyalkotó népművészet, a népi iparművészet és a népi előadó-művészet foglalkozási ágai**
+
+*A)* Foglalkozási ágak a népi előadó-művészet területén:
+
+1\. Néptáncos (szóló és együttesi formában)
+
+2\. Vokális népi énekes (szóló és együttesi formában)
+
+3\. Hangszeres népzenész (szóló és együttesi formában)
+
+4\. Népmesemondó
+
+*B)* Foglalkozási ágak a népi iparművészet és a hagyományos tárgyalkotó népművészet területén:
+
+1\. Bocskorkészítő
+
+2\. Bognár
+
+3\. Bőrműves
+
+4\. Cserépkályha- és kemencekészítő
+
+5\. Csipkekészítő
+
+6\. Csizmadia
+
+7\. Csuhéfonó
+
+8\. Faműves
+
+9\. Fafaragó
+
+10\. Faszobrász
+
+11\. Fazekas
+
+12\. Festettbútor-készítő
+
+13\. Fonottbútor-készítő
+
+14\. Gyertyamártó
+
+15\. Gyékényfonó
+
+16\. Gyöngyfűző
+
+17\. Halászháló-készítő
+
+18\. Hímestojás-festő
+
+19\. Hímző
+
+20\. Kalapos
+
+21\. Kádár
+
+22\. Kékfestő
+
+23\. Késes
+
+24\. Kosárfonó
+
+25\. Kovács
+
+26\. Kötélverő
+
+27\. Mézeskalács-készítő
+
+28\. Nemezkészítő
+
+29\. Népihangszer-készítő
+
+30\. Népijáték-készítő
+
+31\. Népviseleti baba-készítő
+
+32\. Népiékszer-készítő
+
+33\. Papucskészítő
+
+34\. Paszománykészítő és gombkötő
+
+35\. Pintér
+
+36\. Rézműves
+
+37\. Szalmafonó
+
+38\. Szíjgyártó-nyerges
+
+39\. Szűcs
+
+40\. Szűrhímző
+
+41\. Szűrrátét-készítő
+
+42\. Szövő
+
+43\. Viselet-készítő
+
+44\. Tetőfedő: nádazó, fazsindely-, zsúptető-készítő
+
+## 2. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**Hagyományos tárgyalkotó népművészeti alkotássá, népi iparművészeti alkotássá minősíthető termékek**
+
+1\. Bognármunkák, kerék és kocsi
+
+2\. Bőrműves-tárgyak
+
+3\. Cserépkályha és kemence
+
+4\. Csipke
+
+5\. Építmények és köztéri alkotások: épületdísz, kapu, kerítés, játszótér, emlékoszlop, síremlék, nád, zsúpszalma-, fazsindelytető stb.
+
+6\. Festett, faragott bútor
+
+7\. Faragott fa, csont, szaru
+
+8\. Fazekas munka
+
+9\. Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma
+
+10\. Halászháló, kötél
+
+11\. Hímes tojás
+
+12\. Hímzés
+
+13\. Kádár és pintér munkák
+
+14\. Kékfestő textíliák
+
+15\. Kalap
+
+16\. Kés
+
+17\. Kovács- és rézműves termékek
+
+18\. Lószerszámok, nyergek
+
+19\. Mártott gyertya
+
+20\. Mézeskalács
+
+21\. Naiv szobrok
+
+22\. Nemez
+
+23\. Népi ékszer (rekesz zománc, gyöngy)
+
+24\. Népi hangszer
+
+25\. Népi játék
+
+26\. Népviseleti baba
+
+27\. Papucs, bocskor, csizma, cipő
+
+28\. Paszomány és kötött gomb
+
+29\. Szűcs- és szűrmunkák
+
+30\. Szűrrátét
+
+31\. Szőttes
+
+32\. Viselet
+
+33\. Ajándéktárgyak
+
+## 3. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A Népi Tárgyalkotó Iparművész minősítő címhez szükséges alkotások kategóriánkénti megoszlása**
+
+Népi Tárgyalkotó Iparművész minősítő cím feltétele 5 db Hagyományos Mesterremek vagy Modern Mesterremek kategóriába besorolt alkotás, valamint Hagyományos Míves Termék vagy Modern Míves Termék kategóriában a következő darabszámú alkotás:
+
+1\. Bognármunkák, kerék- és kocsi – 15 db
+
+2\. Bőrműves-tárgyak – 30 db
+
+3\. Cserépkályha és kemence – 15 db
+
+4\. Csipke – 30 db
+
+5\. Építmények és köztéri alkotások: épületdísz, kapu, kerítés, játszótér, emlékoszlop, síremlék, nád-, zsúpszalma-, fazsindelytető stb. – 20 db
+
+6\. Festett, faragott bútor – 20 db
+
+7\. Faragott fa, csont, szaru – 30 db
+
+8\. Fazekas munka – 30 db
+
+9\. Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma – 30 db
+
+10\. Halászháló, kötél – 15 db
+
+11\. Hímes tojás – 30 db
+
+12\. Hímzés – 30 db
+
+13\. Kádár és pintér munkák – 15 db
+
+14\. Kékfestő textíliák – 30 db
+
+15\. Kalap – 20 db
+
+16\. Kés – 30 db
+
+17\. Kovács- és rézműves termékek – 30 db
+
+18\. Lószerszámok, nyergek – 15 db
+
+19\. Mártott gyertya – 30 db
+
+20\. Mézeskalács – 30 db
+
+21\. Naiv szobrok – 30 db
+
+22\. Nemez – 30 db
+
+23\. Népi ékszer (rekesz zománc, gyöngy) – 30 db
+
+24\. Népi hangszer – 15 db
+
+25\. Népi játék – 30 db
+
+26\. Népviseleti baba – 25 db
+
+27\. Papucs, bocskor, csizma, cipő – 20 db
+
+28\. Paszomány és kötött gomb – 20 db
+
+29\. Szűcs és szűr munkák – 15 db
+
+30\. Szűrrátét – 30 db
+
+31\. Szőttes – 30 db
+
+32\. Viselet – 25 db
+
+Az ajándéktárgy nem Népi Tárgyalkotó Iparművész minősítő címre jogosító kategória, azonban 10 db jelölés nélküli zsűriszám kivált 1 db Hagyományos Míves Termék, illetve Modern Míves Termék besorolást.
+
+## 4. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A Hagyományos Tárgyalkotó Népművészeti és Népi Iparművészeti Zsűri minősítési jegyzőkönyvének adattartalma**
+
+1\. Adatok:
+
+1.1. a kérelmező neve
+
+1.2. a kérelmező címe
+
+1.3. a tervező neve
+
+1.4. a tervező címe
+
+1.5. a kérelmező megjegyzése
+
+1.6. a benyújtott alkotás
+
+1.6.1. megnevezése
+
+1.6.2. mérete
+
+1.6.3. alapanyaga
+
+1.6.4. színállása
+
+1.6.5. díszítménye, stílusa
+
+1.6.6. szakága
+
+2\. Javaslat:
+
+2.1. zsűriszám
+
+2.2. éves előállítható példányszám
+
+2.3. a zsűri javaslata az alkotás minősítésére
+
+2.4. dátum és a kérelem benyújtójának aláírása
+
+2.5. dátum, pecsétnyomat, a zsűri nevében aláírás
+
+## 5. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A Népi Előadó-művészeti Zsűri minősítési jegyzőkönyvének adattartalma**
+
+1\. Adatok:
+
+1.1. a kérelmező neve
+
+1.2. a kérelmező címe
+
+1.3. a koreográfus/szerző (zenei) neve
+
+1.4. a koreográfus/szerző (zenei) címe
+
+1.5. a kérelmező megjegyzése
+
+1.6. a produkció címe, megnevezése
+
+1.7. a produkció szakági besorolása
+
+2\. Javaslat:
+
+2.1. a zsűri javaslata, a produkció minősítési besorolása
+
+2.2. dátum és a kérelem benyújtójának aláírása
+
+2.3. dátum, pecsét, a zsűri nevében aláírás
+
+## 6. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A népi előadó-művészeti alkotás minősítés iránti kérelem adattartalma**
+
+1\. A kérelmező/kérelmező szervezet neve
+
+2\. A kérelmező születési helye, ideje/benyújtó szervezet létrehozásának éve, helye
+
+3\. A kérelmező anyja neve
+
+4\. A kérelmező/kérelmező szervezet lakcíme/székhelye
+
+4.1. település
+
+4.2. közterület neve és típusa, házszám
+
+4.3. irányítószám
+
+5\. Szervezet esetén a képviselő neve, elérhetősége
+
+6\. Telefonszám (munkaidőben elérhető)
+
+7\. Koreográfus/szerző (zenei) neve
+
+8\. Koreográfus/szerző (zenei) címe
+
+8.1. település
+
+8.2. közterület neve és típusa, házszám
+
+8.3. irányítószám
+
+9\. A kérelmező esetleges megjegyzése
+
+10\. Szakág
+
+11\. Az alkotás (produkció) címe
+
+12\. A benyújtott alkotás részletezése, tájegységi, etnikai jellemzők tekintetében is
+
+13\. Nyilatkozat a szerzői jogokról
+
+14\. Dátum
+
+15\. A kérelmező aláírása/szervezet esetén a képviselő aláírása, szervezet bélyegzője
+
+## 7. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A hagyományos tárgyalkotó népművészeti alkotás vagy népi iparművészeti alkotás minősítése iránti kérelem adattartalma**
+
+1\. Tárgykör: népi iparművészet/hagyományos tárgyalkotó népművészet (a megfelelő rész aláhúzandó)
+
+2\. Adatok:
+
+2.1. A kérelmező/kérelmező szervezet neve
+
+2.2. A kérelmező születési helye, ideje
+
+2.3. A kérelmező anyja neve
+
+2.4. A kérelmező/kérelmező szervezet lakcíme/székhelye
+
+2.4.1. település
+
+2.4.2. közterület neve és típusa, házszám
+
+2.4.3. irányítószám
+
+2.5. Telefonszám (munkaidőben elérhető)
+
+2.6. Tervező neve
+
+2.7. Tervező címe
+
+2.7.1. település
+
+2.7.2. közterület neve és típusa, házszám
+
+2.7.3. irányítószám
+
+2.8. A kérelmező esetleges megjegyzése
+
+2.9. Szakág
+
+2.10. Benyújtott alkotás részletezése, tájegységi, etnikai jellemzők tekintetében is
+
+2.10.1. megnevezése
+
+2.10.2. mérete (cm-ben)
+
+2.10.3. alapanyaga
+
+2.10.4. színe
+
+2.10.5. díszítmény stílusa
+
+2.10.6. forrása
+
+2.10.7. éves előállítható példányszáma
+
+2.11. Nyilatkozat a szerzői jogokról
+
+2.12. Nyilatkozat arról, hogy a kérelmező a minősítést követő 30 napon belül gondoskodik a benyújtott alkotás elszállításáról.
+
+2.13. Dátum
+
+2.14. A kérelmező aláírása
+
+## 8. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A Nagy Pávás Népi Előadóművész és Pávás Népi Előadóművész, valamint Népi Tárgyalkotó Iparművész minősítő cím iránti kérelem adattartalma**
+
+1\. A kérelmező természetes személyazonosító adatai:
+
+1.1. Név
+
+1.2. Születési név
+
+1.3. Születési hely
+
+1.4. Születési idő
+
+1.5. Anyja neve
+
+2\. A kérelmező elérhetősége:
+
+2.1. Értesítési cím (irányítószámmal)
+
+2.2. Telefonszám
+
+2.3. E-mail-cím
+
+3\. A minősítő címhez szükséges adatok:
+
+3.1. Foglalkozási ág
+
+3.2. Nagy Pávás Népi Előadóművész és Pávás Népi Előadóművész minősítő cím esetén a 6. § (2) bekezdés *a)–c)* pontja szerinti és (4) bekezdés *b)* pontja szerinti további elismerés, díj felsorolása
+
+4\. Kérelemhez csatolandó dokumentumok:
+
+4.1. Szakmai önéletrajz egy példányban
+
+4.2. Személyazonosításra alkalmas igazolvány és lakcímkártya másolata
+
+4.3. Két db 3,5×4,5 cm-es igazolványkép
+
+4.4. Nagy Pávás Népi Előadóművész és Pávás Népi Előadóművész minősítő cím esetén a 3.2. pont szerinti díjak, minősítések igazolása
+
+## 9. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+**A Nagy Pávás Népi Előadó-művészeti Együttes, Pávás Népi Előadó-művészeti Együttes, valamint Népi Tárgyalkotó Iparművész Szervezet minősítő cím iránti kérelem adattartalma**
+
+1\. A kérelmező szervezet azonosító adatai:
+
+1.1. Név, cégnév
+
+1.2. Szervezeti forma
+
+1.3. Nyilvántartásba vételi szám, cégjegyzék szám, alapító okirat szám
+
+1.4. Székhely
+
+1.5. Bejegyzett telephely
+
+2\. A kérelmező elérhetősége:
+
+2.1. Képviseletre jogosult neve
+
+2.2. Telefonszám
+
+2.3. E-mail-cím
+
+3\. A minősítő címhez szükséges adatok:
+
+3.1. Foglalkozási ág
+
+3.2. Nagy Pávás Népi Előadó-művészeti Együttes és Pávás Népi Előadó-művészeti Együttes minősítő cím esetén a 6. § (3) bekezdés *a)–c)* pontja szerinti és (5) bekezdés *b)* pontja szerinti további elismerés, díj felsorolása
+
+4\. Kérelemhez csatolandó dokumentumok:
+
+4.1. a szervezet tevékenységének bemutatása a képviseletre jogosult által aláírva
+
+4.2. a kérelmező szervezet hivatalos logójának fényképe (amennyiben van)
+
+4.3. Nagy Pávás Népi Előadó-művészeti Együttes és Pávás Népi Előadó-művészeti Együttes minősítő cím esetén a 3.2. pont szerinti díjak, minősítések igazolása
+
+---
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

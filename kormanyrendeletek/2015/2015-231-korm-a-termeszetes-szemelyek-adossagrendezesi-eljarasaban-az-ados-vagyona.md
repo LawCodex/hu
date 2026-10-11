@@ -1,0 +1,105 @@
+---
+title: "231/2015. (VIII. 12.) Korm. rendelet a természetes személyek adósságrendezési eljárásában az adós vagyona forgalmi értékének meghatározásáról"
+identifier: "231/2015. (VIII. 12.) Korm. rendelet"
+njt_id: "2015-231-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/231"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-08-12
+in_force_from: 2015-09-01
+last_amended: 2015-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-231-20-22"
+retrieved: 2026-10-12
+---
+
+# 231/2015. (VIII. 12.) Korm. rendelet a természetes személyek adósságrendezési eljárásában az adós vagyona forgalmi értékének meghatározásáról
+
+A Kormány a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (1) bekezdés *d)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.) 5. § 23. pontja szerinti forgalmi érték az adós vagyonának egyes elemeire vonatkozó, pénzben kifejezett érték, amely a vagyontárgy eladása esetén az átlagos piaci viszonyok között, független felek között általában elérhető piaci ár, amelynek meghatározásakor a 2–4. §-ban foglaltakat kell figyelembe venni.
+
+## 2. §
+
+(1) Forgalmi érték
+
+a) ingatlan esetén a forgalmi értékbecslésben vagy a települési önkormányzat jegyzője által jogszabályban meghatározott módon kiadott adó- és értékbizonyítványban meghatározott érték, amelynek megállapítása során azt a pénzösszegben kifejezett értéket kell meghatározni, amely összegért eladási szándék esetén az ingatlan az értékelés időpontjában értékesíthető lenne vagy múltbeli időpontra vonatkozó értékelés esetén ezen múltbéli időpontban értékesíthető lett volna, figyelembe véve az összehasonlításra alkalmas hasonló jellemzőkkel bíró ingatlanok helyben kialakult forgalmi értékét, azzal, hogy
+
+aa) ha az ingatlan pénzügyi intézménnyel kötött kölcsön- vagy hitelszerződéssel összefüggésben jelzálogjoggal terhelt,
+
+1\. a forgalmi érték az adósságrendezés kezdeményezése iránti kérelem beérkezésekor a pénzügyi intézmény által nyilvántartott forgalmi érték, ennek hiányában a pénzügyi intézmény rendelkezésére álló, az ingatlanról készült legutolsó értékbecslésben meghatározott forgalmi érték,
+
+2\. az ingatlan építése vagy bővítése céljából folyósított kölcsön vagy hitel esetén a használatbavételi engedéllyel még nem rendelkező ingatlan forgalmi értéke a pénzügyi intézmény által végeztetett legutolsó ellenőrzés során megállapított forgalmi érték,
+
+3\. a hitelkihelyezéskor megállapított forgalmi érték vagy hitelkihelyezéskori forgalmi érték a kölcsön- vagy hitelszerződés megkötésekor a pénzügyi intézmény által az ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló jogszabályok alapján megállapított hitelbiztosítéki érték;
+
+ab) pénzügyi lízing tárgyát képező ingatlan esetén a 4. § (1) és (2) bekezdés szerint számított könyv szerinti érték;
+
+b) ingó dolog esetén – kivéve a gépjárművet – az azonos rendeltetésű és hasonló műszaki, fizikai jellemzőkkel rendelkező ingó dolog kereskedelmi, illetve piaci ára, figyelembe véve
+
+ba) az avulással, a használatból adódó értékcsökkenéssel, a rendkívüli állagromlással összefüggő árcsökkentő tényezőket,
+
+bb) az állagmegóvással, az értéknövelő felszereltséggel, felújítással, magasabb minőségi jellemzőkkel összefüggő árnövelő tényezőket;
+
+c) gépjármű esetén a nemzetközi kereskedelmi járműadatbázissal rendelkező, Európában és Magyarországon is a teljes gépjárműszegmens által használt és elfogadott gépjármű értékelő rendszer felhasználásával számított eladási érték, amelyet a *b)* pont *bb)* alpontbeli szempont szerint, illetve a rendkívüli állagromlást eredményező, ki nem javított károkra tekintettel az adós értelemszerűen módosítva ad meg;
+
+d) szabályozott piacon forgalomba hozott tagsági jogviszonyt megtestesítő értékpapír esetén az érvényes tőzsdei átlagár alapján számított érték;
+
+e) a *d)* pontban nem említett egyéb részesedés esetén, ha a részesedés szerzése egy üzleti éven belül történt, akkor a bekerülési érték, egyéb esetben a gazdálkodó szervezet arra feljogosított döntéshozó szerve által elfogadott utolsó számviteli beszámoló mérlegében szereplő saját tőke mérleg szerinti értékének az értékpapírra, üzletrészre, vagyoni betétre vagy egyéb társasági részesedésre jutó hányada;
+
+f) egyéb értékpapír és pénzpiaci eszköz esetén
+
+fa) a szabályozott piacon történő kereskedéskor az aktuális piaci ár,
+
+fb) szabályozott piacra be nem vezetett értékpapír esetén a befektetési szolgáltató nyilvántartása szerint kialakult aktuális piaci ár,
+
+amelyekre vonatkozóan a befektetési szolgáltató az adós kérésére díjmentesen 8 napon belül igazolást köteles kiállítani;
+
+g) szerződés vagy jogszabály alapján keletkezett vagyoni értékű jog esetén
+
+ga) ha az határozott időre szól, az erre az időszakra szóló érték az egyévi érték és a kikötött évek szorzata, a jog így számított értéke azonban nem haladhatja meg az egyévi érték 20-szorosát; a jog egyévi értéke a vagyoni értékkel terhelt dolog – terhekkel nem csökkentett – forgalmi értékének egyhuszad része,
+
+gb) a határozatlan időre szóló vagyoni értékű jog esetében a jog értéke az egyévi érték ötszöröse;
+
+h) pénzbeli követelés esetén az okirattal, számlával igazolt, elismert vagy nem vitatott, illetve jogerősen megítélt pénzbeli követelés összege, továbbá az esedékessé válás időpontjától annak kamatai, egyéb járulékai;
+
+i) pénzben kifejezett értékű szolgáltatás nyújtására irányuló követelés esetén a szolgáltatás számlával vagy okirattal igazolt, pénzben kifejezhető értéke;
+
+j) vagyontárgy kiadása iránti követelés esetén az elismert vagy nem vitatott, illetve jogerősen megítélt vagyontárgy forgalmi értéke, ahol az e §-ban meghatározott módon kell a vagyontárgy forgalmi értékét megállapítani.
+
+(2) A hitelezői igények Are. tv. 46. § (2) bekezdése szerinti besorolása során a forgalmi érték
+
+a) pénzügyi intézménnyel kötött kölcsön- vagy hitelszerződéssel összefüggésben jelzálogjoggal terhelt ingatlan esetén az (1) bekezdés *a)* pont *aa)* alpont 3. alpontja szerint megállapított forgalmi érték,
+
+b) egyéb jelzálogjoggal terhelt ingatlan esetén a jelzálogjog keletkezésének napjára számított forgalmi érték mint piaci érték alapján az ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló jogszabályok szerint a hitelbiztosítéki érték számítására irányadó szabályoknak megfelelően számított érték.
+
+## 3. §
+
+(1) Pénzügyi intézménnyel kötött kölcsön- vagy hitelszerződéssel összefüggésben jelzálogjoggal terhelt ingatlan esetén az adós kérésére a pénzügyi intézmény az adósságrendezési eljárás céljára díjmentesen, az adós ez irányú kérelmének átvételétől számított 8 napon belül igazolást állít ki a 2. § (1) bekezdés *a)* pont *aa)* alpont 1–3. alpontja szerinti forgalmi értékről és a hitelkihelyezéskor megállapított forgalmi értékről. Ha hitelkihelyezéskor megállapított forgalmi érték nem állapítható meg, akkor erről a tényről és ennek okáról kell nyilatkozni, továbbá az adósságrendezési eljárás kezdeményezésekor nyilvántartott hitelbiztosítéki értékről kell az igazolást kiállítani.
+
+(2) Ha az adós az (1) bekezdés szerint kiállított igazolásban meghatározott forgalmi értéket nem fogadja el, a költségek előlegezésével kérheti a jelzálog jogosult pénzügyi intézményt, hogy független, államilag elismert szakképesítéssel rendelkező személlyel új értékbecslést végeztessen. Az értékbecslésre vonatkozó megbízást a pénzügyi intézménynek úgy kell kiadnia, hogy az értékbecslő az értékbecslést az adós kérésének kézhezvételétől számított 10 napon belül elkészítse és egy-egy példányban a pénzügyi intézmény, valamint az adós rendelkezésére bocsássa. Ha az értékbecslést az adós az említett határidőn belül nem kapja kézhez, a pénzügyi intézmény értesítése mellett jogosult arra, hogy az értékbecslést független, államilag elismert szakképesítéssel rendelkező személlyel elvégeztesse vagy a települési önkormányzat jegyzőjétől adó- és értékbizonyítványt kérjen, továbbá a pénzügyi intézménytől az általa előlegezett költség visszatérítését igényelhesse. Forgalmi értéknek az e bekezdés szerint elkészült értékbecslésben vagy adó- és értékbizonyítványban meghatározott forgalmi értéket kell tekinteni.
+
+(3) Jelzálogjoggal nem terhelt ingatlan esetén, továbbá az olyan ingóság esetén, amelynek a 2. § szerint számított forgalmi értéke meghaladja az 500 000 Ft-ot, független, az adott vagyoni típus értékbecslésére államilag elismert szakképesítéssel rendelkező személy által az adósságrendezési eljárás kezdeményezését megelőzően 30 napnál nem régebben készített értékbecslésben vagy adó- és értékbizonyítványban szereplő összeget kell forgalmi értéknek tekinteni.
+
+(4) A (2) és (3) bekezdésben meghatározott értékbecslés készítése során figyelembe kell venni az ingatlan használatából, avulásából eredő értékcsökkenést, másfelől az állagmegóvási munkáknak, a felújításnak, valamint az értéknövelő felszereltségnek a piaci értékre gyakorolt hatását is.
+
+## 4. §
+
+(1) Pénzügyi lízing tárgyát képező ingatlan esetén a lízingtárgy forgalmi értéke a lízingszerződésben meghatározott teljes lízingdíj tőkerészének
+
+a) a lízingbe adó által elszámolt értékcsökkenéssel és a használatból adódó értékcsökkenéssel csökkentett,
+
+b) a felújítás, valamint az értéknövelő felszereltség piaci értékre gyakorolt hatásával növelt
+
+értéke (a továbbiakban: könyv szerinti érték).
+
+(2) A használatból adódó értékcsökkenés számításánál figyelembe kell venni az állagmegóvási munkáknak a piaci értékre gyakorolt hatását.
+
+(3) A lízingbe vevő kérésére a lízingbe adó pénzügyi intézmény az adósságrendezési eljárás céljára díjmentesen, a lízingbe vevő ez irányú kérelmének átvételétől számított 8 napon belül igazolást ad ki a lízingtárgynak minősülő ingatlan (1) és (2) bekezdés szerint számított könyv szerinti értékéről. Ha a lízingbe vevő a lízingbe adó által kiállított igazolásban meghatározott forgalmi értéket nem fogadja el, a 3. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+## 5. §
+
+Ez a rendelet 2015. szeptember 1-jén lép hatályba.

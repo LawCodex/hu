@@ -1,0 +1,197 @@
+---
+title: "208/2013. (VI. 17.) Korm. rendelet a Magyar Művészeti Akadémia tagjainak életjáradékáról, valamint életjáradékban részesített tagjának elhalálozása esetén megállapítható hozzátartozói ellátásokról"
+identifier: "208/2013. (VI. 17.) Korm. rendelet"
+njt_id: "2013-208-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/208"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-17
+in_force_from: 2013-07-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-208-20-22"
+retrieved: 2026-10-12
+---
+
+# 208/2013. (VI. 17.) Korm. rendelet a Magyar Művészeti Akadémia tagjainak életjáradékáról, valamint életjáradékban részesített tagjának elhalálozása esetén megállapítható hozzátartozói ellátásokról
+
+A Kormány a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 28/A. §-ában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+A rendelet hatálya kiterjed
+
+a) a Magyar Művészeti Akadémia (a továbbiakban: MMA) rendes és levelező tagjaira (a továbbiakban együtt: tag),
+
+b) az *a)* pontban megjelölt, elhunyt tag házastársára, élettársára, árváira (a továbbiakban együtt: hozzátartozó) és
+
+c) az MMA Titkárságára (a továbbiakban: Titkárság) mint folyósító szervre.
+
+## 2. Az életjáradék és az akadémiai hozzátartozói ellátások
+
+### 2. §
+
+(1)[^1] A tagok a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény (a továbbiakban: MMA tv.) alapján havi életjáradékban részesülnek, amelynek összege:
+
+a) rendes tag esetében 2022. január 1-jétől 455 000 forint/hó,
+
+b) levelező tag esetében 2022. január 1-jétől 353 900 forint/hó.
+
+(2) Az MMA tv. 11. § (1) bekezdésén alapuló hozzátartozói ellátások:
+
+a) az ideiglenes özvegyi ellátás és
+
+b) az árvaellátás
+
+(a továbbiakban együtt: akadémiai hozzátartozói ellátás).
+
+### 3. §
+
+(1) A tag részére folyósított életjáradék után – függetlenül a tagsági jogviszony fennállásának időtartamától – az elhunyt taggal a halálakor (ténylegesen) együtt élő
+
+a) házastárs,
+
+b)[^2] a Polgári Törvénykönyv szerinti élettárs,
+
+c) bejegyzett élettárs
+
+[a *b)* és *c)* pontokban meghatározottak a továbbiakban együtt: élettárs] – életkorára tekintet nélkül – ideiglenes özvegyi ellátást kaphat.
+
+(2) Az ideiglenes özvegyi ellátás havi összege a Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló 4/1995. (I. 20.) Korm. rendelet (a továbbiakban: R.) 2. § (1) bekezdésében meghatározott összegnek az R. 4. § (2) bekezdése szerinti hányada.
+
+(3) Az ideiglenes özvegyi ellátást öt évig kell folyósítani.
+
+(4) Az elhunyt tag házastársát vagy élettársát akkor is megilleti az ideiglenes özvegyi ellátás, ha az MMA tagjaként életjáradékban részesül.
+
+### 4. §
+
+(1) Árvaellátásra jogosult az elhunyt tag gyermeke, mostohagyermeke, örökbe fogadott és nevelt gyermeke (a továbbiakban együtt: gyermek).
+
+(2) Az árvaellátás havi összege árvánként az ideiglenes özvegyi ellátás 3. § (2) bekezdésben meghatározott havi összegének a fele.
+
+(3) Az árvaellátást a Titkárság a gyermek 16. életévének betöltése napjáig folyósítja. Ha a gyermek nevelési-oktatási intézményben a nappali oktatás rendje szerint, vagy felsőoktatási intézményben nappali képzésben tanul, az árvaellátás a tanulmányok tartamára, de legfeljebb a gyermek 25. életévének betöltéséig jár.
+
+(4) Az árvaellátás a (3) bekezdés szerinti tanulmányok utolsó hónapjának végéig a tanulmányi szünet tartamára is megilleti a gyermeket.
+
+(5) A gyermek 16. életévének betöltését követően a (3) bekezdés szerinti tanulmányok létesítéséről, fennállásáról az árvaellátás jogosultja, kiskorú esetében törvényes képviselője köteles nyilatkozni a Titkárság részére, középiskolai tanulmányok esetén évente, felsőfokú tanulmányok esetén félévente. A tanév vagy tanulmányi időszak kezdetétől számított tíz munkanapon belül igazolni kell a tanulmányok létesítését, fennállását a nevelési-oktatási intézmény vagy a felsőoktatási intézmény által kiállított igazolással.
+
+(6) Nem érinti az árvaellátásra való jogosultságot, ha a gyermek vagy életben maradt szülője házasságot köt, vagy ha a gyermeket örökbe fogadják.
+
+### 5. §
+
+(1) Az akadémiai hozzátartozói ellátásra való jogosultság szempontjából halálesetnek kell tekinteni a holtnak nyilvánítást, valamint a halál tényének bírósági megállapítását, a bíróság jogerős határozata alapján.
+
+(2) Nem állapítható meg akadémiai hozzátartozói ellátás azon elhunyt tag után, akinek az elhalálozása tagsági jogviszonyának az MMA alapszabálya alapján történő felfüggesztése vagy szünetelése idején következik be.
+
+### 6. §
+
+Az akadémiai hozzátartozói ellátás az igényjogosult hozzátartozónak a társadalombiztosítási jogszabályok alapján megállapított ellátásoktól függetlenül jár.
+
+### 7. §
+
+(1) Az akadémiai hozzátartozói ellátásra való jogosultság a következő esetekben szűnik meg:
+
+a) az ideiglenes özvegyi ellátás
+
+aa) a 3. § (3) bekezdésében megjelölt idő elteltével,
+
+ab) az ellátás jogosultjának a 3. § (3) bekezdésében megjelölt idő eltelte előtt bekövetkezett halála esetén,
+
+ac) az ellátás jogosultjának az ideiglenes özvegyi ellátásról való lemondása esetén, a lemondást követő hónap első napjától;
+
+b) az árvaellátás
+
+ba) a 4. § (3) bekezdésében meghatározott életkor betöltésével vagy a 4. § (5) bekezdésében meghatározott igazolás benyújtásának elmulasztásával,
+
+bb) az ellátás jogosultjának a 4. § (3) bekezdésében megjelölt idő eltelte előtt bekövetkezett halála esetén,
+
+bc) az ellátás nagykorú jogosultjának az árvaellátásról való lemondása esetén, a lemondást követő hónap első napjától.
+
+(2) Az (1) bekezdés *a)* pont *ac)* alpontja és az (1) bekezdés *b)* pont *bc)* alpontja szerinti lemondás a Titkársághoz benyújtott írásbeli nyilatkozattal történik. Az akadémiai hozzátartozói ellátásról lemondó jognyilatkozat nem vonható vissza.
+
+## 3. Az életjáradék folyósítása, az akadémiai hozzátartozói ellátások igénylése, megállapítása és folyósítása
+
+### 8. §
+
+(1) A tag életjáradékra való jogosultságáról – az MMA közgyűlésének a tag megválasztásáról szóló határozata alapján – az MMA elnöke (a továbbiakban: elnök) tájékoztatja a Titkárságot.
+
+(2) Az életjáradék folyósításának teljesítése érdekében a Titkárság a tagot felhívja az életjáradék folyósításához szükséges adatok közlésére.
+
+(3) Az életjáradék folyósítása szünetel, ha
+
+a) a tag tagsági jogviszonya az MMA alapszabálya alapján, saját kérésére szünetel,
+
+b) a tag tagsági jogviszonya az MMA alapszabálya szerint felfüggesztésre kerül, vagy
+
+c) az életjáradékról a tag az MMA alapszabálya szerint lemond,
+
+az *a)–c)* pontok szerinti esetek időtartama alatt.
+
+### 9. §
+
+(1) Az akadémiai hozzátartozói ellátást a Titkárságon írásban kell igényelni – a 14. §-ban meghatározott eset kivételével – a tag elhalálozásától számított 5 hónapon belül.
+
+(2) Az igénybejelentéshez csatolni kell az özvegynek a hozzátartozói jogviszony 3. § (1) bekezdése szerinti fennállására vonatkozó nyilatkozatát, a 16. életévét betöltött árvaellátásra jogosult esetén a 4. § (3) bekezdése szerinti tanulmányok folytatásának igazolására szolgáló iratot.
+
+(3) Hiányosan benyújtott igénybejelentés esetén a Titkárság az igénybejelentés beérkezésétől számított 15 munkanapon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra szólítja fel az igénybejelentőt.
+
+(4) A Titkárság az igénybejelentésről annak beérkezésétől számított 15 munkanapon belül határozattal dönt. A határozatot annak meghozatalától számított 8 napon belül megküldi az igénybejelentőnek. A Titkárság ügyintézésének határidejébe nem számít bele a hiánypótlásra, illetve a döntéshez szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(5) Az akadémiai hozzátartozói ellátást megállapító vagy az igénybejelentést elutasító határozat ellen az, akire a határozat vonatkozik – kiskorú esetében törvényes képviselője –, jogszabálysértés miatt, a határozat kézhezvételétől számított 15 munkanapon belül írásban kifogást terjeszthet elő az elnöknél.
+
+(6) A kifogást az elnök a kézhezvételtől számított 15 munkanapon belül megvizsgálja, és ha azt alaposnak tartja, a Titkárság döntését megváltoztatja, ellenkező esetben a kifogást elutasítja. Az elnök a határozatáról 8 napon belül értesíti a Titkárságot és a kifogás előterjesztőjét.
+
+(7) Az igénybejelentő az (1) bekezdés szerinti határidő elmulasztása esetén, a tag halálát követő egy éven belül méltányossági kérelemmel fordulhat az elnökhöz, akinek a kérelem beérkezésétől számított 15 munkanapon belül meghozott, és a Titkárságnak továbbított támogató határozata esetén a Titkárság a (3) és (4) bekezdés szerint jár el. A méltányossági kérelem elutasításáról szóló határozatát az elnök 8 napon belül megküldi a méltányossági kérelem előterjesztőjének.
+
+### 10. §
+
+(1) Az akadémiai hozzátartozói ellátást a tag elhalálozását követő hónap első napjától számítva, teljes hónapra kell megállapítani.
+
+(2) Az akadémiai hozzátartozói ellátás visszamenőleg legfeljebb öt hónapra, az igénybejelentés Titkárság általi kézhezvételének napját megelőző ötödik hónap első napjától állapítható meg, ha a jogosultsági feltételek ettől az időponttól kezdve fennállnak.
+
+### 11. §
+
+(1) Az életjáradékot és az akadémiai hozzátartozói ellátást a Titkárság folyósítja.
+
+(2) Az életjáradékot és az akadémiai hozzátartozói ellátást utólag, a tagsági jogviszony létrejöttét, illetve az akadémiai hozzátartozói ellátás megállapítását követő hónap 10. napjáig kell folyósítani.
+
+(3) Az életjáradék, valamint az akadémiai hozzátartozói ellátás összegéből a Titkárság mint kifizető a személyi jövedelemadóról szóló törvény szerint adóelőleget von.
+
+(4) Az életjáradékra és az akadémiai hozzátartozói ellátásra jogosult köteles a Titkárságnak bejelenteni minden olyan tényt, adatot, amely az ellátásra való jogosultságát érinti.
+
+## 4. Visszafizetési és megtérítési kötelezettség
+
+### 12. §
+
+(1) Aki az életjáradékot vagy az akadémiai hozzátartozói ellátást jogalap nélkül vette fel, köteles azt visszafizetni, ha arra őt a Titkárság a jogalap nélkül felvett ellátás folyósításától számított 60 napon belül írásban kötelezi.
+
+(2) Az életjáradék és az akadémiai hozzátartozói ellátás jogalap nélküli felvétele okán a Titkárság által az (1) bekezdés szerint követelt tartozás összegét – kérelemre – az elnök kivételes esetben, a jogalap nélkül felvett életjáradék vagy akadémiai hozzátartozói ellátás felvételének összes körülményére tekintettel, méltányosságból mérsékelheti vagy elengedheti.
+
+## 5. Záró rendelkezések
+
+### 13. §
+
+Ez a rendelet 2013. július 1-jén lép hatályba.
+
+### 14. §
+
+Akadémiai hozzátartozói ellátás igényelhető – legfeljebb az e rendelet hatálybalépését követő 30 napon belül – a 2012. július 1. napját követően és az e rendelet hatálybalépését megelőzően elhalálozott tag után is, függetlenül attól, hogy a hozzátartozói ellátásra jogosult az MMA alapszabálya alapján kiadott, az özvegyi és árvasági juttatások odaítélésével, folyósításával kapcsolatos rendelkezéseket tartalmazó szabályzat (a továbbiakban: szabályzat) alapján kegyeleti támogatásban részesült. Az akadémiai hozzátartozói ellátás folyósításának 3. § (3) bekezdése és 4. § (3) bekezdése szerinti időtartamába a szabályzat alapján megállapított havi juttatás folyósításának időtartamát be kell számítani.
+
+### 15. §
+
+(1) Az életjáradék és az akadémiai hozzátartozói ellátás fedezetét az MMA költségvetésében kell megtervezni.
+
+(2) Az életjáradék összegét a Kormány – az MMA-val együttműködésben, az elnöknek a kultúráért felelős miniszter útján előterjesztett javaslata alapján – évente felülvizsgálja a (3) bekezdésben foglalt elvek szerint, annak érdekében, hogy a tagok részére az MMA tv. alapján biztosított életjáradék mértéke 2022. január 1-jétől elérje a Magyar Tudományos Akadémia (a továbbiakban: MTA) által a Magyar Tudományos Akadémiáról szóló törvény (a továbbiakban: MTA tv.) alapján a tagok részére tudományos teljesítményük és köztestületi munkájuk elismeréseként folyósított havi juttatás (tiszteletdíj) összegét.
+
+(3) A (2) bekezdésben meghatározott felülvizsgálat során a Kormány az MTA által az MTA tv. alapján a tagok részére folyósított havi juttatás és az MMA tv. alapján a tagok részére folyósított havi juttatás mindenkor hatályos különbözetét évente a (2) bekezdésben meghatározott határidőre vetítve határoz az MMA tv.-ben meghatározott életjáradék összegéről – az MMA tv. 4. § (2) bekezdés *p)* pontjában foglaltakra is figyelemmel – a 2. § (1) bekezdése szerinti havi juttatás fejlesztését tartva szem előtt.
+
+### 16. §[^3]
+
+---
+
+[^1]: A 2. § (1) bekezdése az 578/2021. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés b) pontja a 73/2014. (III. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

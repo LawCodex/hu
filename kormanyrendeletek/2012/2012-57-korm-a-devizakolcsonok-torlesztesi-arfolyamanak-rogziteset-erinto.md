@@ -1,0 +1,541 @@
+---
+title: "57/2012. (III. 30.) Korm. rendelet a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról"
+identifier: "57/2012. (III. 30.) Korm. rendelet"
+njt_id: "2012-57-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/57"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-03-30
+in_force_from: 2012-04-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-57-20-22"
+retrieved: 2026-10-12
+---
+
+# 57/2012. (III. 30.) Korm. rendelet a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról
+
+A Kormány a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 11. § c) és d) pontjában, a 23. § tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés a) pontjában, és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+a) *gyermek:* a közszférában dolgozóval közös háztartásban élő, általa eltartott vér szerinti, örökbe fogadott vagy gyámsága alatt álló és legalább egy éve vele együttélő gyermek, ha
+
+aa) a 16. életévét még nem töltötte be,
+
+ab) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul, és a 25. életévét még nem töltötte be, vagy
+
+ac) a 16. életévét már betöltött olyan megváltozott munkaképességű személy, akinek ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
+
+b) *megváltozott munkaképességű személy:* az a személy,
+
+ba) aki munkaképességét legalább 67 százalékban elvesztette,
+
+bb) aki legalább 50 százalékos mértékű egészségkárosodást szenvedett, vagy
+
+bc) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50 százalékos mértéket;
+
+c) *támogatott:* az a természetes személy, aki a támogatás személyi és egyéb feltételeinek megfelel és a pénzügyi intézménnyel gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést köt vagy e rendelet hatálybalépését megelőzően gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést kötött;
+
+d)[^1] *kormányhivatal:* a támogatott lakóingatlan fekvése szerint illetékes, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakóingatlan esetén Budapest Főváros Kormányhivatala.
+
+(2)[^2] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, valamint a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvényben meghatározottak szerint kell értelmezni.
+
+## 2. A támogatások fajtái
+
+### 2. §
+
+Az e rendeletben meghatározott feltételekkel a központi költségvetésből
+
+a)[^3] a mentesített követelésrész megtérítése,
+
+b) a legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítése,
+
+c) a közszférában dolgozók kamattámogatása (a továbbiakban: kamattámogatás) és
+
+d) a közszférában dolgozók vissza nem térítendő támogatása (a továbbiakban: vissza nem térítendő támogatás)
+
+[az *a)–d)* pont a továbbiakban együtt: támogatás] vehető igénybe.
+
+## 3. [^4] A mentesített követelésrész és a legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítése
+
+### 3. §
+
+(1)[^5] A mentesített követelésrész és a legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítését az a gyűjtőszámlahitelt folyósító pénzügyi intézmény veheti igénybe, amely teljesíti az e rendeletben foglaltakat.
+
+(2)[^6] Az (1) bekezdés szerinti támogatás igénybevételének feltétele, hogy az igénylő írásban hozzájárul ahhoz, hogy természetes személyazonosító adatait, lakcímét és postacímét, személyazonosító igazolványának, úti okmányának vagy kártyaformátumú vezetői engedélyének számát, saját és – kamattámogatás esetén – gyermeke adóazonosító jelét, a támogatásra vonatkozó információkat – a támogatás szabályszerű igénybevételének ellenőrzése céljából – a pénzügyi intézmény a Magyar Államkincstár központja (a továbbiakban: kincstár), valamint a kormányhivatal részére átadja.
+
+(3) A pénzügyi intézmény nyilvántartásaiban támogatásonként elkülönítve kimutatja a mentesített követelésrész és a legmagasabb árfolyamot meghaladó törlesztési kötelezettség összegét.
+
+## 4. A kamattámogatás szabályai
+
+### 4. §
+
+(1) Az e rendeletben meghatározott feltételekkel a közszférában dolgozó a gyűjtőszámlahitele ügyleti kamatainak megfizetéséhez kamattámogatást igényelhet.
+
+(2) A kamattámogatás olyan pénzügyi intézmény által folyósított gyűjtőszámlahitel kamatainak megfizetéséhez nyújtható, amely teljesíti az e rendeletben foglaltakat.
+
+(3) A közszférában dolgozó támogatott egy gyűjtőszámlahitele ügyleti kamatainak megfizetéséhez veheti igénybe a kamattámogatást. A kamattámogatásra ugyanazon lakóingatlanhoz kapcsolódó gyűjtőszámlahitelek vonatkozásában egy közszférában dolgozó jogosult.
+
+(4) A kamattámogatásra a közszférában dolgozó támogatott – az (5) bekezdésben meghatározott kivétellel – a rögzített árfolyam alkalmazási időszaka kezdő időpontjától legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjáig jogosult.
+
+(5) Az e rendelet hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó, a törvény erejénél fogva módosuló hitelkeret-szerződés esetén a kamattámogatás a 9. § (2) bekezdés b) pont bb) alpontjában meghatározott kérelem benyújtását követően a devizakölcsön törlesztésére vonatkozó soron következő második törlesztés esedékességi napjától legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjáig jár.
+
+### 5. §
+
+(1) A közszférában dolgozó támogatott a munkáltatói jogkör gyakorlójának bejelenti a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését követő öt napon belül
+
+a) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést kötő pénzügyi intézmény nevét és címét,
+
+b) a rögzített árfolyam alkalmazási időszakának várható záró időpontját és
+
+c) a kamattámogatás iránti kérelem benyújtásának időpontját.
+
+(2) Az (1) bekezdés b) pontja szerinti adatban bekövetkezett változásokról a közszférában dolgozó támogatott a változás bekövetkezését követő 5 napon belül tájékoztatja a munkáltatói jogkör gyakorlóját.
+
+(3)[^7] Ha a támogatott közszférában való foglalkoztatási jogviszonya megszűnik és a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon belül a hitelintézet részére
+
+a) az újabb, közszférában való foglalkoztatási jogviszony létesítését nem igazolja, és
+
+b) a munkáltató 16. § (1) bekezdés g) pontja szerinti adatait nem jelenti be
+
+az állam – a (4) és (5) bekezdés szerinti kivétellel – az eredeti devizakölcsön közszférában való foglalkoztatási jogviszony megszűnésétől számított 60 napos határidő lejártát követő első törlesztési esedékességének napjától az újabb, közszférában való foglalkoztatási jogviszony létesítéséig nem nyújt kamattámogatást.
+
+(3a)[^8] Amennyiben a (3) bekezdés esetén a támogatott a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon túl a közszférában újabb foglalkoztatási jogviszony létesítését a hitelintézet részére igazolja, az állam az eredeti devizakölcsönnek az újabb foglalkoztatási jogviszony bejelentését követő második törlesztő részlete esedékessége napjától kamattámogatást nyújt.
+
+(4) A közszférában dolgozó foglalkoztatási jogviszonya megszűnését követően is jogosult a kamattámogatásra, ha
+
+a) megváltozott munkaképességű személynek minősül és közszférában való foglalkoztatási jogviszonya a megváltozott munkaképessége miatt szűnt meg,
+
+b) részére a társadalombiztosítási szabályok alapján öregségi nyugdíjat állapítottak meg, vagy
+
+c) munkáltatója jogutód nélkül megszűnt.
+
+(5) Ha a foglalkoztatási jogviszony a közszférában dolgozó halála miatt szűnik meg, a kamattámogatásra az elhunyt közszférában dolgozó olyan örököse jogosult, aki
+
+a) a devizakölcsön fedezetéül szolgáló lakóingatlanát – a pénzügyi lízingszerződés esetét kivéve – megörökölte és
+
+b) a devizakölcsönért helytállni köteles.
+
+(6) Az örökös az (5) bekezdés szerinti ingatlanon öröklés jogcímén szerzett tulajdonjogát és a kölcsön visszafizetésére vonatkozó kötelezettségét az ezen adatokat tartalmazó jogerős teljes hatályú hagyatékátadó végzéssel (ide értve a rész-hagyatékátadó végzést, valamint a végzés kivonatát is), annak kézhezvételétől számított 8 napon belül a pénzügyi intézmény részére történő bejelentéssel igazolja.
+
+(7) A munkáltatói jogkör gyakorlója a közszférában dolgozó támogatott foglalkoztatási jogviszonyának megszűnése esetén – a (4) és (5) bekezdésben foglalt eseteket kivéve – 8 napon belül írásban értesíti a támogatott által az (1) bekezdés alapján bejelentett pénzügyi intézményt. Ha a közszférában dolgozó foglalkoztatási jogviszonyát közszférán belül másik munkáltatónál folytatja, a munkáltató 8 napon belül írásban értesíti a pénzügyi intézményt az új munkáltató 16. § (1) bekezdés g) pontja szerinti adatairól.
+
+(8)[^9] Ha a közszférában dolgozó támogatott az eredeti devizakölcsön rögzített árfolyamon való törlesztéséből eredő fizetési kötelezettségeinek 180 napot meghaladóan nem tesz eleget, ezt követően részére a kamattámogatás nem nyújtható. A kamattámogatás folyósításának megszüntetéséről a pénzügyi intézmény 8 napon belül írásban értesíti a közszférában dolgozó munkáltatóját.
+
+## 5. A kamattámogatás mértéke
+
+### 6. §
+
+(1) A kamattámogatás mértéke, ha a közszférában dolgozó támogatott
+
+a) gyermeket nem nevel, évente 3 százalékpont,
+
+b) gyermeket nevel, az *a)* pont szerinti kamattámogatáson felül gyermekenként további 1 százalékpont.
+
+(2) A kamattámogatás (1) bekezdés szerinti mértéke nem haladhatja meg a gyűjtőszámlahitel ügyleti kamatának mértékét.
+
+(3) A közszférában dolgozó támogatott a 4. § (4) vagy (5) bekezdése szerinti időszakban a 9. § (2) bekezdése szerinti időpontban megállapított mértékű kamattámogatásra jogosult.
+
+(4) A közszférában dolgozó támogatott gyűjtőszámláján a 4. § (4) vagy (5) bekezdése szerinti időszakban az (1) bekezdésben meghatározott mértékű kamattámogatással csökkentett mértékű ügyleti kamat kerül tőkésítésre.
+
+(5) A kamattámogatás számításánál az osztószám 360 nap.
+
+(6) A pénzügyi intézmény annak tényét, hogy a kölcsön kamattámogatott és a kamattámogatás mértékét
+
+a) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésbe foglaltan feltünteti, vagy
+
+b) az e rendelet hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó, a törvény erejénél fogva módosuló hitelkeret-szerződés esetén a közszférában dolgozóval közli.
+
+## 6. A vissza nem térítendő támogatás szabályai
+
+### 7. §
+
+(1) A vissza nem térítendő támogatás a rögzített árfolyam alkalmazási időszakának kezdő időpontját megelőző napon fennálló devizakölcsön-tartozás összegéből kerül előtörlesztésre.
+
+(2) Az (1) bekezdés szerinti előtörlesztés összegének kiszámításakor a Magyar Nemzeti Bank által meghirdetett, 2012. április 1. és 2012. április 30. között irányadó hivatalos devizaárfolyamok átlagát kell alkalmazni.
+
+(3) A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésbe foglaltan feltünteti a vissza nem térítendő támogatás kiszámításának módját.
+
+## 7. A kamattámogatásra és a vissza nem térítendő támogatásra vonatkozó közös szabályok
+
+### 8. §
+
+(1) Kamattámogatás és vissza nem térítendő támogatás (a továbbiakban együtt: közszférában dolgozók támogatása) akkor vehető igénybe, ha a közszférában dolgozó
+
+a) a munkáltatói igazolás kiállításának időpontjában fennálló foglalkoztatási jogviszonnyal rendelkezik, és nem áll felmentés, lemondás vagy felmondás hatálya alatt,
+
+b) az eredeti devizakölcsön és a gyűjtőszámlahitel adósa vagy adóstársa,
+
+c) a devizakölcsön fedezetét vagy a lízing tárgyát képező lakóingatlanban 2011. december 1-jén és a kérelem benyújtásának időpontjáig
+
+ca) bejelentett lakóhellyel rendelkezik, és
+
+cb) életvitelszerűen lakik,
+
+d) – a pénzügyi lízingszerződés esetét kivéve – a devizakölcsön fedezetét képező lakóingatlanban legalább 50 százalékos tulajdoni hányaddal rendelkezik,
+
+e) saját maga és vele közös háztartásban élő közeli hozzátartozója 2011. december 1-jén és a kérelem benyújtásának időpontjáig – a (2) bekezdésben foglaltak kivételével –
+
+ea) a *d)* pont szerinti lakóingatlanon kívül más lakás- vagy lakóingatlan-tulajdonnal, vagy
+
+eb) – pénzügyi lízingszerződés esetén – lakás- vagy lakóingatlan-tulajdonnal
+
+nem rendelkezett, és
+
+f) saját maga és adóstársa írásban hozzájárul ahhoz, hogy
+
+fa)[^10] a 3. § (2) bekezdésében meghatározott adatokat, továbbá a munkáltatójának nevét, címét és adószámát, valamint a kamattámogatás szempontjából figyelembe vett gyermek adóazonosító jelét a pénzügyi intézmény a kincstár, valamint a kormányhivatal részére átadja, és
+
+fb) az 5. § (1) bekezdése szerinti adatokat a munkáltatója kezelje.
+
+(2) Az (1) bekezdés e) pontjában foglaltaktól eltérően a közszférában dolgozók támogatása akkor is igényelhető, ha az igénylőnek és vele közös háztartásban élő közeli hozzátartozójának
+
+a) együttesen legfeljebb 50 százalékos tulajdoni hányada van egy olyan lakóingatlanban, amely tulajdonközösség megszüntetése vagy öröklés útján került a tulajdonukba,
+
+b) a tulajdonukban lévő lakóingatlan lebontását az építésügyi hatóság elrendelte vagy engedélyezte, vagy
+
+c) a lakóingatlan több mint két éve öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonukba és a haszonélvező bent lakik.
+
+### 9. §
+
+(1) A közszférában dolgozók támogatása iránti kérelmet a devizakölcsönt folyósító pénzügyi intézménynél kell benyújtani.
+
+(2) A kérelemben
+
+a) a vissza nem térítendő támogatásra való jogosultság megállapítását és összegének meghatározását a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés iránti kérelem benyújtásával egyidejűleg, és
+
+b) a kamattámogatásra való jogosultság megállapítását és mértékének meghatározását
+
+ba) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés iránti kérelem benyújtásával egyidejűleg, vagy
+
+bb) e rendelet hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés esetén legkésőbb 2012. május 15-éig
+
+lehet kérni a pénzügyi intézménytől.
+
+(3) A pénzügyi intézmény a kérelem átvételéről igazolást ad az igénylőnek. A pénzügyi intézmény a kérelmet annak átvételétől számított 30 napon belül bírálja el. Ha a kérelem benyújtása hiányosan történt, a pénzügyi intézmény az igénylőt a kérelem benyújtásától számított 15 napon belül 8 napos határidő kitűzésével hiánypótlásra szólítja fel. Hiánypótlásra történő felszólítás esetén a kérelem elbírálására irányadó határidő a hiánypótlásra biztosított időtartammal meghosszabbodik. Ha az igénylő a hiánypótlásra történő felszólításban foglaltaknak határidőben nem tesz eleget, a pénzügyi intézmény a kérelmet elutasítja.
+
+(4) A kérelem benyújtásakor a közszférában dolgozók támogatására való jogosultságot a pénzügyi intézmény a kérelem benyújtásakor fennálló körülmények alapján ellenőrzi.
+
+(5) A pénzügyi intézmény a közszférában dolgozók támogatása éves összegét évente legalább egyszer, éves kimutatás keretében közli a közszférában dolgozó támogatottal.
+
+### 10. §
+
+(1) A közszférában dolgozók támogatására való jogosultság feltételeinek meglétét az közszférában dolgozó igénylő a pénzügyi intézmény részére következők szerint igazolja:
+
+a) a személyazonosságot személyazonosító igazolvánnyal, érvényes úti okmánnyal vagy kártyaformátumú vezetői engedéllyel,
+
+b) a bejelentett lakóhelyet a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal,
+
+c)[^11] a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős ítélet bemutatásával, az örökbefogadást a gyámhatóság végleges engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
+
+d) teljes bizonyító erejű magánokiratba foglalt nyilatkozattal
+
+da) a közös háztartásban történő együttélést és
+
+db) annak tényét, hogy az adóstárs a közszférában dolgozó közeli hozzátartozója,
+
+e) a továbbtanulást az oktatási intézmény által kiállított igazolással, a megváltozott munkaképességű személlyé válást az orvos szakértői szerv igazolásával,
+
+f) a közszférában dolgozó foglalkoztatási jogviszonyának fennállását és annak tényét, hogy az igénylő nem áll felmentés, lemondás vagy felmondás hatálya alatt a munkáltatói jogkör gyakorlója által kiállított, a kamattámogatás iránti kérelem benyújtásának időpontjától számított 10 napnál nem régebbi, a munkáltató nevét, címét és adószámát is tartalmazó igazolással,
+
+g) annak tényét, hogy a közszférában dolgozó végtörlesztési szándékáról a munkáltatóját tájékoztatta, a munkáltatói jogkör gyakorlója által kiállított igazolással,
+
+h) a 8. § (1) bekezdés c) pont cb) alpontjában és *e)* pontjában foglaltakat az 1. melléklet szerinti nyilatkozat megtételével,
+
+i)[^12] a 8. § (1) bekezdés d) pontjában foglaltakat ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatával,
+
+j) a 4. § (3) bekezdésében foglaltakat a közszférában dolgozó teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
+
+k)[^13] az adóazonosító jelet adóigazolvánnyal.
+
+(2)[^14] Ha az igénylő a pénzügyi intézménynek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott a közszférában dolgozók támogatásához, a folyósított összeget az igénybevétel napjától felszámított, a Ptk. szerint számított késedelmi kamattal növelt összegben köteles a pénzügyi intézményen keresztül visszafizetni.
+
+(3) A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésbe foglalja a 11. § (1) bekezdésében meghatározott jogorvoslat lehetőségére vonatkozó, valamint a 12. § (4) bekezdése és a 13. § (2) bekezdése szerinti jogkövetkezményekre való figyelmeztetést.
+
+### 11. §
+
+(1)[^15] Ha a pénzügyi intézmény elutasítja a kérelmet, a közszférában dolgozó igénylőt írásban tájékoztatja a kérelem elutasításának indokáról, a nem teljesülő igénybevételi feltételek megjelölésével, továbbá arról, hogy ha az igénylő a kérelem elutasításával nem ért egyet, a közszférában dolgozók támogatására jogosító feltételeknek való megfelelés megállapítását kérheti a kormányhivataltól.
+
+(2)[^16] A kérelem elutasítása esetén az igénylő a közszférában dolgozók támogatására jogosító feltételeknek való megfelelés megállapítása iránt kérelmet nyújthat be a kormányhivatalhoz az írásbeli elutasítás igénylő általi kézhezvételétől számított 15 napon belül.
+
+(2a)[^17] Az igénylő támogatásra jogosító feltételeknek való megfelelés megállapítása iránti kérelme esetén igazolja a hitelintézet támogatási igény elutasításával kapcsolatos döntését.
+
+(2b)[^18] A támogatásra jogosító feltételeknek való megfelelés megállapítása iránti hatósági eljárás megindításának feltétele, hogy a hitelintézet az igénylést teljeskörűen, a támogatási szerződés megkötéséhez szükséges valamennyi feltételt megvizsgálva elbírálja.
+
+(3)[^19] A kormányhivatalhoz benyújtott kérelem alapján – a kormányhivatal megkeresésére – a pénzügyi intézmény 8 napon belül csatolni köteles a kérelem elutasítását megalapozó iratok másolatát.
+
+(4)[^20] Ha a végleges határozat megállapítja, hogy a közszférában dolgozó igénylő a kérelem pénzügyi intézményhez történő benyújtásakor az igénybevételi feltételeknek megfelelt, a pénzügyi intézmény e feltételek fennállásának hiányára hivatkozással a közszférában dolgozók támogatását is tartalmazó gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés igénylővel történő megkötését és a közszférában dolgozók támogatásának folyósítását, vagy az e rendelet hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó, a törvény erejénél fogva módosuló hitelkeret-szerződés esetén a kamattámogatás folyósítását nem tagadhatja meg. Az igénylő a pénzügyi intézmény bírálati eljárásában felmerülő mulasztásait a hatósági eljárás során nem pótolhatja.
+
+## 8. A támogatás pénzügyi lebonyolításának közös szabályai
+
+### 12. §
+
+(1) A támogatásra való jogosultság megállapítását és – a 2. § a) és b) pontja szerinti támogatás kivételével – folyósítását, valamint a támogatásnak a központi költségvetéssel való elszámolását a pénzügyi intézmény végzi. Egy pénzügyi intézménynek minősülnek az egy összevont alapú felügyelet alá tartozó pénzügyi intézmények.
+
+(1a)[^21] Ha az igénylő e rendelet szerinti támogatást kíván igénybe venni, a befogadott kérelmek tekintetében a támogatási feltételek meglétét a folyósító hitelintézet az összes feltétel vonatkozásában, teljeskörűen köteles ellenőrizni.
+
+(2)[^22] Ha a pénzügyi intézmény a támogatás jogosulatlan igénybevételre utaló bizonyíték birtokába jut, a támogatottat írásban felszólítja a támogatás összegének az igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelten történő visszatérítése iránt. A visszatérítés iránti felhívást – annak eredménytelensége esetén – a pénzügyi intézmény legfeljebb egy alkalommal köteles megismételni. A felhívást oly módon kell közölni, hogy annak megtörténte bizonyítható legyen.
+
+(3)[^23] Ha a támogatott a pénzügyi intézmény kétszeri visszafizetési felszólításában foglaltaknak nem tesz eleget, és így a jogosulatlanul igénybevett támogatást részben vagy egészben nem fizeti vissza, a pénzügyi intézmény a támogatott támogatás iránti kérelmét, támogatásra való jogosultságáról szóló 10. § (1) bekezdése szerinti nyilatkozatát, a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésének másolatát, valamint az eredménytelen visszafizetési felszólítást igazoló iratokat megküldi a kormányhivatalnak.
+
+(4)[^24] A (3) bekezdés szerinti esetben a kormányhivatal a 13. § (2) bekezdésben foglaltak szerint intézkedik a jogosulatlanul igénybe vett támogatás visszafizetése érdekében.
+
+### 13. §
+
+(1)[^25] A kormányhivatal, illetve a kincstár a pénzügyi intézmény 16. § szerinti adatszolgáltatásának megküldését követően a támogatás igénybevételének jogszerűségét ellenőrzés keretében vizsgálhatja.
+
+(2)[^26] Ha a kormányhivatal, illetve a kincstár az ellenőrzés során megállapítja, hogy a támogatás igénybevétele jogosulatlanul történt, határozatban intézkedik a támogatás – igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.
+
+(2a)[^27] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján a hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti eljárást folytató felügyeleti szerv a lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter).
+
+(2b)[^28] A kormányhivatal e rendeletben szabályozott hatósági eljárása során az ügyfelet hiánypótlásra két alkalommal is felhívhatja.
+
+(2c)[^29] A kormányhivatal e rendeletben szabályozott hatósági eljárása során az ügyfél az eljárás szünetelését nem kérheti.
+
+(2d)[^30] A kormányhivatal e rendeletben szabályozott hatósági eljárásaiban az ügyintézési határidő 30 nap.
+
+(3)[^31] A közigazgatási hatósági eljárásra a kormányhivatal az illetékes. A kormányhivatal a jogosulatlan igénybevétel tényéről a pénzügyi intézményt írásban tájékoztatja.
+
+(4)[^32] A támogatás (2) bekezdés, valamint a 12. § (2) bekezdése szerinti visszatérítése részletekben történő teljesítését kérelemre a kormányhivatal engedélyezheti, ha a támogatott igazolja, hogy a támogatás azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire tekintettel aránytalanul súlyos terhet jelentene.
+
+(5) A (4) bekezdés szerinti részletfizetés esetén a támogatás (2) bekezdés vagy 12. § (2) bekezdése szerinti összegének visszafizetését közvetlenül a kincstár részére teljesíti.
+
+## 9. Felelősség
+
+### 14. §
+
+(1) A pénzügyi intézmény felelős az állammal szemben minden olyan kárért, amely e rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. Mentesül a pénzügyi intézmény a felelősség alól, ha bizonyítja, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
+(2)[^33] Az (1) bekezdés szerinti károkozás esetén a pénzügyi intézmény a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelten köteles megtéríteni a kárt az állam részére.
+
+(3) A pénzügyi intézmény a neki felróható okból eredő kár esetén a támogatottal szemben köteles helytállni, e kötelezettségét az államra nem háríthatja át.
+
+(4) A támogatásra való jogosultság vizsgálatakor az igénylő által benyújtott nyilatkozatok, okiratok valódiságát – ha a pénzügyi intézménytől elvárható gondosság tanúsítása mellett annak hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
+
+## 10. [^34] A támogatás központi költségvetéssel való elszámolásának szabályai
+
+### 15. §
+
+(1) A támogatást az állam nevében a kincstár nyújtja a pénzügyi intézmény utólagos elszámolása alapján.
+
+(2) A pénzügyi intézmény az elszámolást a kincstár honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat) található útmutató szerint, a kincstár által meghatározott formában és tartalommal,
+
+a) – a 2. § a) és b) pontja szerinti támogatás esetén – naptári negyedévre vonatkozóan, negyedévente,
+
+b) – a kamattámogatás és a vissza nem térítendő támogatás esetén – a (4) bekezdés szerinti kivétellel naptári hónapra vonatkozóan, havonta
+
+egy alkalommal készíti el.
+
+(3) A pénzügyi intézmény az elszámolást elektronikusan hiteles formában – legalább minősített tanúsítványon alapuló fokozott elektronikus aláírással vagy minősített tanúsítványon alapuló elektronikus bélyegzővel – az eAdaton megküldi
+
+a) – a 2. § a) és b) pontja szerinti támogatás esetén – a naptári negyedévet vagy
+
+b) – a kamattámogatás és a vissza nem térítendő támogatás esetén – a (4) bekezdés szerinti kivétellel a tárgyhónapot
+
+követő hónap 20. napjáig a kincstár részére.
+
+(4) Ha a kamattámogatás és a vissza nem térítendő támogatás naptári hónapra vonatkozó elszámolni kívánt összege nem éri el az ezer forintot, a pénzügyi intézmény a támogatást naptári negyedévre összesítve, a naptári negyedévet követő hónap 20. napjáig benyújtott elszámolás keretében igényli.
+
+(5) A kincstár a pénzügyi intézmény által jogszerűen igényelt és utalványozásra befogadott támogatás kifizetését – a (6) bekezdésben és a 18. § (5) bekezdésében foglalt esetet kivéve – az elszámolás beérkezésének napját követő 8 munkanapon belül indítja az 10032000-01457106 számú, a „Magánlakás-építéshez nyújtott támogatások” elnevezésű kiadási számla terhére, a pénzügyi intézmény által az eAdaton történő regisztráció során megjelölt számlája javára. Az elszámolás akkor tekinthető beérkezettnek, amikor az elszámolás az eAdaton beérkezik a kincstárhoz.
+
+(6) Az elszámolás késedelmes, de legkésőbb a tárgyhónapot vagy tárgynegyedévet követő hónap 22. napjáig történő megküldése esetén az utalási határidő az elkésett elszámolás kincstárhoz történő beérkezésének napjától számított 8 munkanap. A tárgyhónapot vagy tárgynegyedévet követő hónap 22. napját követően megküldött elszámolás esetén az utalás a következő elszámolás szerinti utalással egyidejűleg történik.
+
+(7) A támogatás a pénzügyi intézmény részére vagy a pénzügyi intézmény által történő visszafizetését a pénzügyi intézmény az elszámolás keretében, jogcímenként, a (2) bekezdés szerinti módon elszámolja, és a visszafizetéssel csökkentett összeg átutalását igényli.
+
+(8) Ha a kincstár a pénzügyi intézmény utólagos ellenőrzése során a pénzügyi intézmény terhére jogosulatlan támogatáslehívást állapít meg, a pénzügyi intézmény azt a kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelt összegben köteles a kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni.
+
+(9) A pénzügyi intézmény elszámolását a kincstár ellenőrzi. A kincstár a havonta beküldött elszámolás ellenőrzésének eredményéről – így különösen az elszámolás tételeinek befogadásáról, illetve azzal egyidejűleg a fellelt hibákról – a hitelintézetet az eAdaton értesíti. A hibás tételek javítás utáni ismételt beküldésére a következő havi elszámolás keretében kerülhet sor.
+
+(10) A kincstár a (9) bekezdés szerinti ellenőrzése során a pénzügyi intézménynél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
+
+(11) Ha a kincstár a (9) bekezdés szerinti ellenőrzés során a pénzügyi intézmény elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a pénzügyi intézménnyel szemben a polgári jog szabályai szerint érvényesíti.
+
+## 11. [^35] Adatszolgáltatás szabályai
+
+### 16. §
+
+(1) A pénzügyi intézmény havi rendszerességgel, elektronikus úton megküldi a kincstárnak ellenőrzési céllal a közszférában dolgozók támogatását is tartalmazó gyűjtőszámlahitelre vonatkozó hitelkeret-szerződések megkötése, módosítása vagy megszűnése adatait, valamint a támogatás új igénybevevőinek következő adatait:
+
+a) természetes személyazonosító adatok,
+
+b) lakcím,
+
+c) adóazonosító jel,
+
+d) – a kamattámogatás esetén – a gyermek adóazonosító jele és
+
+e) – a kamattámogatás és a vissza nem térítendő támogatás esetén – munkáltató neve, címe és adószáma.
+
+(2)[^36] Az e rendelet szerinti támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
+
+(3) A pénzügyi intézmény az e § szerinti adatszolgáltatási kötelezettségét a kincstár honlapjáról elérhető adatszolgáltatási felületén található útmutató szerinti formában teljesíti
+
+a) a 2. § a) és b) pontja szerinti támogatás esetén negyedévente egy alkalommal, a tárgynegyedévet követő hónap 10. napjáig,
+
+b) a kamattámogatás és a vissza nem térítendő támogatás esetén havonta egy alkalommal, a tárgyhónapot követő hónap 10. napjáig.
+
+(4) Legkésőbb az első adatszolgáltatási kötelezettség határidejét 20 nappal megelőzően a pénzügyi intézménynek a kincstártól kérnie kell az adatszolgáltatóként történő nyilvántartásba vételt a kincstár honlapján elérhető igénylőlap beküldésével. A kincstár az igénylőlap beérkezésétől számított 5 munkanapon belül megküldi az adatszolgáltatás teljesítéséhez szükséges azonosítót és az adatszolgáltatás módjáról szóló részletes tájékoztatást.
+
+(5) A pénzügyi intézmény az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott hozzájárulása alapján – elektronikus úton tájékoztatja a kincstárt a megkötött, a megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésekről és a visszafizetett támogatásokról.
+
+### 17. §
+
+(1) A pénzügyi intézmény a miniszter által vezetett minisztérium honlapján található adatszolgáltatási nyomtatvány szerint negyedévente, a negyedévet követő hónap 20. napjáig személyes adatokat nem tartalmazó adatszolgáltatást teljesít a (2) bekezdés szerint a miniszter részére.
+
+(2) Az e § szerinti adatszolgáltatás kiterjed a pénzügyi intézmény által megkötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződések számára, összegére, fennálló állományára és a pénzügyi intézmény által a 15. § szerinti elszámolás keretében lehívott támogatások összegeire.
+
+(3) A pénzügyi intézmény az e § szerinti adatszolgáltatást elektronikus úton megküldi a miniszter részére.
+
+## 12. [^37] Elszámolás és adatszolgáltatás közös szabályai
+
+### 18. §
+
+(1) A pénzügyi intézmény a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
+
+(2) Az (1) bekezdés szerinti tájékoztató eléréséhez és a 16. § szerinti adatszolgáltatás teljesítéséhez az eAdaton történő regisztráció szükséges.
+
+(3) A pénzügyi intézmény az adatszolgáltatását a 16. § szerinti adatszolgáltatás esetén a kincstár, a 17. § szerinti adatszolgáltatás esetén a miniszter kérésére felülvizsgálja, és szükség esetén a javított adatszolgáltatását ismételten megküldi.
+
+(4) A kincstár a 16. § szerinti, valamint – a miniszter kezdeményezésére – a 17. § szerinti adatszolgáltatás
+
+a) nem teljesítése esetén a támogatás vagy
+
+b) hibás vagy hiányos teljesítése esetén a hibás vagy hiányos adatszolgáltatással érintett támogatás
+
+15\. § (5) és (6) bekezdése szerinti, pénzügyi intézmény részére történő folyósítását felfüggeszti.
+
+(5) A támogatás folyósítása a (4) bekezdés b) pontja szerinti felfüggesztése esetén a hibás vagy hiányos adatszolgáltatást követő
+
+a) – a 2. § a) és b) pontja szerinti támogatás esetén – negyedéves vagy
+
+b) – a kamattámogatás és a vissza nem térítendő támogatás esetén – havi
+
+elszámolás szerinti folyósítással egyidejűleg történik.
+
+(6) A (4) bekezdés b) pontja szerinti felfüggesztés nem érinti a pénzügyi intézmény adatszolgáltatási hiánnyal nem érintett támogatásra vonatkozó elszámolási jogosultságát.
+
+### 19. §
+
+(1) Az e rendelet szerinti elszámolást és adatszolgáltatásokat három vagy annál több hitelintézet helyett, megbízási szerződés alapján egy másik hitelintézet (a továbbiakban: összesítő hitelintézet) összesítve is benyújthatja a kincstár részére.
+
+(2) Az e rendelet szerinti elszámolásra és adatszolgáltatásra vonatkozó szabályokat az összesítő hitelintézetre is alkalmazni kell azzal, hogy
+
+a) az összesített elszámolás és adatszolgáltatás az összesítéssel érintett hitelintézetek székhelyét, cégjegyzékszámát és adószámát is tartalmazza,
+
+b) az elszámolás és adatszolgáltatás teljesítésére vonatkozó határidők és határnapok az összesítő hitelintézet tekintetében irányadóak,
+
+c) az összesítő hitelintézet felel a hitelintézeti elszámolások és adatszolgáltatások adatainak hibásan történő összesítéséből eredő kárért,
+
+d) az összesítő hitelintézetet az összesített elszámolás és adatszolgáltatás teljesítéséért a hitelintézetek tárgyhavi elszámolásában lehívott – a kincstár által az elszámolás ellenőrzése alapján jóváhagyott – támogatási összeg 1,5‰-ének megfelelő összegű költségtérítés illeti meg, melyet az összesített tárgyhavi elszámolásban, külön jogcímen feltüntetve igényelhet a kincstártól.
+
+### 20. §[^38]
+
+Az e rendeletben meghatározott támogatásokat a központi költségvetés „Lakástámogatások” előirányzatából kell finanszírozni.
+
+### 21. §
+
+(1) Az e rendeletből eredő valamennyi polgári jogi jogviszonyban az államot – ha törvény másként nem rendelkezik – a kincstár képviseli.
+
+(2)[^39] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján ellátott feladatkörei gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint, a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket a miniszter gyakorolja.
+
+(3)[^40] A szakmai irányító miniszter szakmai képzéseket, vizsgákat, valamint szakmai (koordinációs) értekezleteket szervez a kormányhivatal lakástámogatásokkal foglalkozó munkatársai részére.
+
+## 13. Záró rendelkezések
+
+### 22. §
+
+Ez a rendelet 2012. április 1-jén lép hatályba.
+
+### 23. §[^41]
+
+E rendeletnek az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 379/2012. (XII. 19.) Korm. rendelet (a továbbiakban: Módr.)
+
+a) 45. §-ával megállapított 5. § (3) és (3a) bekezdését a Módr. hatálybalépését[^42] megelőzően megkötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésekre is alkalmazni kell azzal, hogy a hitelintézet a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződéseket egyoldalúan, írásban módosítja,
+
+b) 46. §-ával megállapított 15. § (3a) bekezdését, 47. §-ával megállapított 19. § (8) bekezdését valamint 49. § a)–c) pontjával megállapított 15. § (2) bekezdés b) pontját, 15. § (3) bekezdés b) pontját és 15. § (4) és (5) bekezdését a Módr. hatálybalépését[^43] követően benyújtott elszámolásokra és adatszolgáltatásokra kell alkalmazni,
+
+c) 50. §-ával megállapított 2. § a) pontját, 3. alcímét és 3. § (1) bekezdését, 2. melléklet 1.1. pontját, 2. melléklet 2.1. pontját és 2. melléklet 3.1. pontját a 2012. április 1-jét követően mentesített követelésrészekre kell alkalmazni.
+
+### 24. §[^44]
+
+E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 537/2013. (XII. 30.) Korm. rendelet 78. § c) pontjával megállapított 5. § (8) bekezdését az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 537/2013. (XII. 30.) Korm. rendelet hatálybalépését megelőzően megkötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésekre is alkalmazni kell.
+
+### 25. §[^45]
+
+E rendeletnek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseit a 2015. április 1-jét megelőzően benyújtott támogatás iránti kérelmekre, folyósított kamattámogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
+
+### 26. §[^46]
+
+(1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését[^47] követően a Módr1. által megállapított 10–12. alcímben foglaltak szerint kell teljesíteni.
+
+(2) A hitelintézet 2020. június 30. napjáig a 2. § a) és b) pontja szerinti támogatás és az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr1. hatálybalépésének[^48] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a kincstárnak.
+
+## 1. melléklet az 57/2012. (III. 30.) Korm. rendelethez
+
+**Nyilatkozat**
+
+<table><tbody><tr><td colspan="6">1. A közszférában dolgozó igénylő természetes személy azonosító adatai:</td></tr><tr><td colspan="6">Családi és utónév: ........................................................................................................................................................................</td></tr><tr><td colspan="6">Születési családi és utónév: ..........................................................................................................................................................</td></tr><tr><td colspan="6">Anyja születési családi és utóneve: ..............................................................................................................................................</td></tr><tr><td colspan="6">Születési hely és idő (év, hó, nap): ...............................................................................................................................................</td></tr><tr><td colspan="6">Adóazonosító jel: ..........................................................................................................................................................................</td></tr><tr><td colspan="6">Lakcíme: □□□□ irányítószám ................................................................................................................................ település<br>........................................................................................ közterület neve, jellege ............................... házszám ........................ épület .................................. lépcsőház .................................. emelet ....................... ajtó</td></tr><tr><td colspan="6">2. A közszférában dolgozó igénylővel közös háztartásban élő közeli hozzátartozók azonosító adatai<br>és nyilatkozata:</td></tr><tr><td colspan="6">A táblázatban fel kell tüntetni minden, a közszférában dolgozó igénylővel közös háztartásban élő közeli hozzátartozót, aki 2011. december 1-jén és a kérelem benyújtásának időpontjáig életvitelszerűen a devizakölcsön fedezetét vagy a lízing tárgyát képező lakóingatlanban lakik</td></tr><tr><td>Születési családi és utónév</td><td>Anyja születési családi és utóneve</td><td>Születési hely</td><td>Születési idő</td><td>Adóazonosító jel</td><td>Aláírás</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6">A táblázat vonatkozó sorát – a beírt adatok valódiságának és annak igazolására, hogy 2011. december 1-jén és a kérelem benyújtásának időpontjáig a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet 8. § (2) bekezdése szerinti eseteket kivéve devizakölcsön fedezetét képező lakóingatlanon kívül nem rendelkezik más lakóingatlannal vagy pénzügyi lízingszerződés esetén lakás- vagy lakóingatlan-tulajdonnal nem rendelkezik – minden személynek aláírásával kell ellátnia; cselekvőképtelen személy esetén a törvényes képviselő aláírása, korlátozottan cselekvőképes személy esetén a törvényes képviselő aláírása is szükséges.</td></tr><tr><td colspan="6">3. A nyilatkozat aláírásával a közszférában dolgozó igénylő kijelenti, hogy 2011. december 1-jén<br>és a kérelem benyújtásának időpontjáig<br>– a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet 8. § (2) bekezdése szerinti eseteket kivéve a devizakölcsön fedezetét képező lakóingatlanon kívül nem rendelkezik más lakóingatlannal vagy pénzügyi lízingszerződés esetén lakás- vagy lakóingatlan-tulajdonnal nem rendelkezik, valamint<br>– életvitelszerűen a devizakölcsön fedezetét vagy a lízing tárgyát képező lakóingatlanban lakik.</td></tr><tr><td colspan="6">4. A nyilatkozat aláírásával a közszférában dolgozó igénylő büntetőjogi felelőssége tudatában kijelenti, hogy a nyilatkozatban feltüntetett adatok a valóságnak megfelelnek.</td></tr></tbody></table>
+
+| Kelt: ......................................................................... | .................................................................................. |
+|---|---|
+|  | aláírás |
+
+## 2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^49]
+
+---
+
+[^1]: Az 1. § (1) bekezdés d) pontját a 70/2015. (III. 30.) Korm. rendelet 195. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 137. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 78. § a) pontja, a 80/2014. (III. 14.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § a) pontja a 379/2012. (XII. 19.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^4]: A 3. alcím címe a 379/2012. (XII. 19.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 78. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: Az 5. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (3a) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 45. § (2) bekezdése ikatta be.
+[^9]: Az 5. § (8) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 78. § c) pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdés f) pont fa) alpontja a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^11]: A 10. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 389. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 10. § (1) bekezdés i) pontja az 537/2013. (XII. 30.) Korm. rendelet 78. § d) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 76. §-a iktatta be.
+[^14]: A 10. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^16]: A 11. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 11. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 11. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 11. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) és c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 11. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 389. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^21]: A 12. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 12. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^23]: A 12. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 12. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^26]: A 13. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^27]: A 13. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés d) pontja, a 238/2022. (VI. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^28]: A 13. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^29]: A 13. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^30]: A 13. § (2d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^31]: A 13. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^32]: A 13. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés k) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^33]: A 14. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^34]: A 10. alcím (15. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^35]: A 11. alcím (16–17. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^36]: A 16. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 11. alcím (18–21. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^38]: A 20. § a 686/2020. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^39]: A 21. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^40]: A 21. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Akalmazására lásd e módosító rendelet 203. §-át.
+[^41]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 379/2012. (XII. 19.) Korm. rendelet 48. §-a ikatta be.
+[^42]: A hatálybalépés napja: 2013. január 1.
+[^43]: A hatálybalépés napja: 2013. január 1.
+[^44]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 537/2013. (XII. 30.) Korm. rendelet 77. §-a iktatta be.
+[^45]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 195. § (4) bekezdése iktatta be.
+[^46]: A 26. §-t a 101/2019. (V. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^47]: A hatálybalépés időpontja 2019. október 1.
+[^48]: A hatálybalépés időpontja 2019. október 1.
+[^49]: A 2. mellékletet a 101/2019. (V. 2.) Korm. rendelet 4. § (3) bekezdése hatályon kívül helyezte.

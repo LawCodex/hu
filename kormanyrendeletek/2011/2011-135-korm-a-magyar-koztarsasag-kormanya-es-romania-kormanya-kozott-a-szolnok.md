@@ -1,0 +1,216 @@
+---
+title: "135/2011. (VII. 19.) Korm. rendelet a  Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó)–Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás kihirdetéséről"
+identifier: "135/2011. (VII. 19.) Korm. rendelet"
+njt_id: "2011-135-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/135"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-07-19
+in_force_from: 2011-07-20
+last_amended: 2012-09-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-135-20-22"
+retrieved: 2026-10-12
+---
+
+# 135/2011. (VII. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó)–Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó)–Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+**„AGREEMENT**
+
+**between the Government of the Republic of Hungary and the Government of Romania on the establishment of the motorway connection between Szolnok–Nagykereki (H) and Santăul Mare–Cluj Napoca (RO)**
+
+The Government of the Republic of Hungary and the Government of Romania (hereinafter: the Contracting Parties),
+
+– aiming at the mutual promotion and the further strengthening of good neighbourly and friendly relationships, as well as the widening of cooperation in the area of bilateral business connections, international trade, tourism and transport,
+
+– with special regard to their intention to establish the necessary conditions for a fluent international and bilateral road traffic in the area of the common State border,
+
+– taking into account the EU legislation with respect to the development of road infrastructure and the necessity of securing the conditions for sustainable development, through this to decrease the negative influences on the environment, and increase the continuity and safety of road traffic,
+
+– with view to the development of the Trans-European Network – Transport (TEN-T),
+
+– taking into consideration the international treaties and agreements between the two States,
+
+have agreed as follows:
+
+**Article 1**
+
+(1) The Contracting Parties establish a link between the two countries by a direct connection of the following motorways:
+
+– from the Hungarian side: Szolnok–Berettyóújfalu–Nagykereki–State border,
+
+– from the Romanian side: Cluj Napoca–Santăul Mare–State border.
+
+(2) The two motorways intersect the common state border between border markers G34.1 and G34.2 and connect with each other, with the characteristic features that ensure road traffic safety and security, laid down by the competent bodies and authorities, respectively and by the experts of the Contracting Parties.
+
+**Article 2**
+
+The connection of the two motorways mentioned in paragraph (1) of Article 1 of this Agreement is established with the aim to ensuring the necessary conditions for a fluent international road traffic.
+
+**Article 3**
+
+(1) The Contracting Parties build the motorways with a dual-dual (2x2) traffic lane profile including all their corresponding facilities on the territory of their respective States in compliance with their national legislation harmonised with the legal acts of the EU, for which the required financing will be provided from the available funds identified by each Contracting Party.
+
+(2) The Contracting Parties shall carry out the transboundary environmental impact assessment of the joining motorway sections, as defined by the Convention on Environmental Impact Assessment in a Transboundary Context, done in Espoo, on 26 February 1991.
+
+**Article 4**
+
+(1) For the implementation of the present Agreement:
+
+– the competent body for the Hungarian side is the Ministry led by the minister in charge of transport,
+
+– the competent authority for the Romanian side is the Ministry of Transport and Infrastructure
+
+(hereinafter: the Ministries).
+
+(2) The tasks related to the implementation of the present Agreement will be coordinated by the bilateral expert working group (hereinafter: the Working Group) established by the Ministries.
+
+(3) For the management of the activity of the Working Group, each Ministry designates a leader of the Working Group and appoints its members and informs thereof the other Ministry, in writing.
+
+(4) The Working Group lays down its rules of procedure and may involve other experts in its activity as well, as needed.
+
+(5) The Working Group meetings shall take place, alternatively, on the territory of the state of each Contracting Party.
+
+**Article 5**
+
+The Contracting Parties determine the construction conditions of the two motorways' connection mentioned in paragraph (1) of Article 1 of this Agreement, as well as the date of the commencement of its operation and the method of operation, on the basis of the recommendation of the Working Group.
+
+**Article 6**
+
+Any disputes resulting from the interpretation and application of the present Agreement shall be solved by the Contracting Parties, within the Working Group. In case of failure, the Contracting Parties settle their disputes through diplomatic channels.
+
+**Article 7**
+
+(1) The Contracting Parties conclude the present Agreement for an indefinite term.
+
+(2) The Contracting Parties should approve the present Agreement in accordance with their national legal regulations.
+
+(3) The present Agreement will enter into force on the 30th (thirtieth) day after the receipt of the latest diplomatic notification, by which the Contracting Parties shall notify each other about fulfilment of the internal procedures required by their national legislations for its entry into force.
+
+(4) Based on the consent of the Contracting Parties, the present Agreement can be modified in writing, at any time. Any amendment to the present Agreement shall enter into force in a manner identical with the entering into force of the present Agreement.
+
+(5) The present Agreement may be terminated by either Contracting Party, in writing, through diplomatic channels. In this case, the present Agreement shall cease to be in force 6 (six) months after the receipt of the diplomatic notification of the termination of the Agreement by the other Contracting Party.
+
+IN WITNESS THEREOF, the undersigned, duly authorised by the respective Governments, have signed the present Agreement.
+
+Done in Budapest, on the 5th day of the month of July, in the year 2011, in 2 (two) originals, each of them in the Hungarian, Romanian and English languages, all texts are being equally authentic. In case of divergence of interpretation, the English text shall prevail.
+
+FOR THE GOVERNMENT\
+OF THE REPUBLIC OF HUNGARY
+
+FOR THE GOVERNMENT\
+OF ROMANIA
+
+**MEGÁLLAPODÁS**
+
+**a Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó)–Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről**
+
+A Magyar Köztársaság Kormánya és Románia Kormánya (a továbbiakban: a Szerződő Felek)
+
+– törekedve a jószomszédi és baráti kapcsolatok további fejlesztésére és erősítésére, valamint az együttműködés szélesítésére a kétoldalú üzleti kapcsolatok, a nemzetközi kereskedelem, a turizmus és a közlekedés területén,
+
+– különös tekintettel azon szándékukra, hogy megteremtsék a zavartalan nemzetközi és kétoldalú közúti közlekedés feltételeit a közös államhatár körzetében,
+
+– figyelembe véve a közúti infrastruktúra fejlesztése során az Európai Unió jogszabályait, illetve a fenntartható fejlődés feltételeit a környezetre gyakorolt káros hatások csökkentése, valamint a közúti forgalom folyamatosságának és biztonságának fokozása céljából,
+
+– figyelemmel a Trans-European Network – Transport (TEN-T) hálózat fejlesztésére,
+
+– tekintettel a két állam közötti nemzetközi szerződésekre és megállapodásokra,
+
+az alábbiakban állapodnak meg:
+
+**1. Cikk**
+
+(1) A Szerződő Felek közvetlen kapcsolatot létesítenek a két ország között az alábbi autópályák összekötésével:
+
+– magyar részről: Szolnok–Berettyóújfalu–Nagykereki–országhatár,
+
+– román részről: Cluj Napoca (Kolozsvár)–Santaul Mare (Nagyszántó)–országhatár.
+
+(2) A két autópálya a G34.1 és G34.2 számú határjelek között metszi a közös államhatárt, és a Szerződő Felek illetékes szervei, illetve hatóságai, valamint szakértői által a közbiztonság és a közlekedésbiztonság szem előtt tartásával meghatározott jellemzőkkel kapcsolódik egymáshoz.
+
+**2. Cikk**
+
+A jelen Megállapodás 1. Cikk (1) bekezdésében meghatározott autópálya-kapcsolat azzal a céllal jön létre, hogy biztosítsa a szükséges feltételeket az akadálymentes nemzetközi közúti forgalom számára.
+
+**3. Cikk**
+
+(1) A Szerződő Felek a saját államuk területére eső kétszer két (2x2) sávos autópályát és annak minden tartozékát az uniós jogi aktusokkal harmonizált saját jogszabályaik szerint építik meg, amelyhez az egyes Szerződő Felek a szükséges finanszírozást a számukra elérhető forrásokból biztosítják.
+
+(2) A Szerződő Felek elvégzik a csatlakozó autópálya-szakaszok határon túlnyúló környezeti hatásvizsgálatát az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espoo-ban, 1991. február 26-án aláírt egyezmény alapján.
+
+**4. Cikk**
+
+(1) Jelen Megállapodás végrehajtásában
+
+– illetékes szerv a Magyar Köztársaságban a közlekedésért felelős miniszter által vezetett minisztérium,
+
+– illetékes hatóság Romániában a Közlekedési és Infrastruktúra Minisztérium
+
+(a továbbiakban: a minisztériumok).
+
+(2) A jelen Megállapodás végrehajtásával kapcsolatos feladatokat a minisztériumok által létrehozott kétoldalú szakértői munkacsoport (a továbbiakban: Munkacsoport) koordinálja.
+
+(3) A Munkacsoport tevékenységének irányítására a minisztériumok mindegyike egy-egy vezetőt és tagokat delegál, akiknek személyéről írásban értesítik egymást.
+
+(4) A Munkacsoport ügyrendjét maga határozza meg, és tevékenységébe szükség szerint további szakértőket is bevonhat.
+
+(5) A Munkacsoport az üléseit a Szerződő Felek államának területén felváltva tartja meg.
+
+**5. Cikk**
+
+Az ezen Megállapodás 1. Cikk (1) bekezdésében meghatározott autópálya-kapcsolat megépítésének feltételeit, működése megkezdésének időpontját, valamint az üzemeltetés módját a Szerződő Felek a Munkacsoport javaslata alapján határozzák meg.
+
+**6. Cikk**
+
+A jelen Megállapodás értelmezésével és végrehajtásával összefüggő esetleges vitákat a Szerződő Feleknek kell rendezniük a Munkacsoport keretén belül. A Szerződő Felek a vitás kérdéseket megegyezés hiányában diplomáciai úton rendezik.
+
+**7. Cikk**
+
+(1) Jelen Megállapodást a Szerződő Felek határozatlan időre kötik.
+
+(2) A Szerződő Feleknek jelen Megállapodást belső jogszabályaiknak megfelelően jóvá kell hagyniuk.
+
+(3) A Megállapodás annak a későbbi, diplomáciai úton kapott értesítésnek a kézhezvételétől számított harmincadik (30.) napon lép hatályba, amelyben a Szerződő Felek tájékoztatják egymást, hogy a belső jogszabályaik által a Megállapodás hatálybalépéséhez meghatározott eljárás befejeződött.
+
+(4) Jelen Megállapodás a Szerződő Felek megegyezése alapján írásban bármikor módosítható. A módosítások a Megállapodás hatálybalépéséhez szükséges eljárások szerint lépnek hatályba.
+
+(5) Jelen Megállapodást a másik félhez diplomáciai úton intézett írásos értesítéssel bármelyik Szerződő Fél felmondhatja. Ebben az esetben a Megállapodás a felmondásról szóló diplomáciai értesítés kézhezvételének napjától számított hat (6) hónap elteltével hatályát veszti.
+
+ENNEK HITELÉÜL alulírottak, akiket erre Kormányuk megfelelően felhatalmazott, a jelen Megállapodást aláírják.
+
+Készült Budapesten, 2011. július hó 5. napján, két (2) eredeti példányban, magyar, román és angol nyelven, mindegyik szöveg egyaránt hiteles. A Megállapodás rendelkezéseinek eltérő értelmezése esetén az angol nyelvű szöveg az irányadó.
+
+A MAGYAR KÖZTÁRSASÁG KORMÁNYA NEVÉBEN
+
+ROMÁNIA KORMÁNYA NEVÉBEN”
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 7. Cikk (3) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 7. Cikk (3) bekezdésében meghatározott időpontban lép hatályba. A 33/2013. (VIII. 23.) KüM közlemény alapján a hatálybalépés időpontja 2012. szeptember 27.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 7. Cikk (3) bekezdésében meghatározott időpontban lép hatályba. A 33/2013. (VIII. 23.) KüM közlemény alapján a hatálybalépés időpontja 2012. szeptember 27.
+[^3]: A 33/2013. (VIII. 23.) KüM közlemény alapján a hatálybalépés időpontja 2012. szeptember 27.
+[^4]: Lásd a 33/2013. (VIII. 23.) KüM közleményt.

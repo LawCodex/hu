@@ -1,0 +1,86 @@
+---
+title: "39/2019. (III. 7.) Korm. rendelet a látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról"
+identifier: "39/2019. (III. 7.) Korm. rendelet"
+njt_id: "2019-39-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/39"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-03-07
+in_force_from: 2019-03-08
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-39-20-22"
+retrieved: 2026-10-12
+---
+
+# 39/2019. (III. 7.) Korm. rendelet a látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról
+
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (14) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva – a látvány-csapatsportban működő országos sportági szakszövetségeknek azon kérésére tekintettel, hogy a szabályozás ne csak a fejlesztésre fordítható támogatások legmagasabb összegét, hanem a működésre fordítható keretet is meghatározza – a következőket rendeli el:
+
+## 1. §[^1]
+
+A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a szerint a 2026. évben kiállított igazolások és támogatási igazolások együttes összege – ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/A. §-a szerinti kiegészítő sportfejlesztési támogatást – nem haladhatja meg a 125 200 000 000 forintot, amelyen belül
+
+a)[^2] az építési beruházások megvalósítására irányuló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 9. pont c)–f) alpontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 25 900 000 000 forint lehet,
+
+b)[^3] az egyéb, alapvetően működési célt szolgáló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 3., 4. pontjában, 9. pont a), b), g), h) alpontjában, 11., 12. és 13. pontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 99 000 000 000 forint lehet.
+
+c)[^4] 300 000 000 forint kizárólag a Magyar Olimpiai Bizottság jóváhagyott sportfejlesztési programjának megvalósítására használható fel.
+
+## 1/A. §[^5]
+
+A sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet 2. § (1) bekezdés a) pontja szerinti sportakadémiák részére kiállított igazolás és támogatási igazolás összege az 1. § szerinti keretösszegbe nem számít bele.
+
+## 2. §
+
+(1) A sportpolitikáért felelős miniszter (a továbbiakban: miniszter)
+
+a) a látvány-csapatsportban működő országos sportági szakszövetségeknek (a továbbiakban: szakszövetség) minőségbiztosítási rendszerre (benchmark-rendszer) és követelményeire a Korm. rendelet szerint tett javaslatainak értékelésével,
+
+b) az államháztartásért felelős miniszter véleményének kikérésével, valamint
+
+c)[^6] a szakszövetségeknek az 1. § a) és b) pontja szerinti keretösszegből a működésükkel érintett látvány-csapatsportág részesedésének arányára vonatkozó javaslatai, a látvány-csapatsportágak adott időszakra vonatkozó stratégiai fejlesztési koncepciója, terve, valamint a Kormány álláspontja figyelembevételével
+
+megállapítja az 1. § a) és b) pontja szerinti keretösszegnek a látvány-csapatsportágak közötti felosztásának arányát.
+
+(2)[^7] A miniszter az 1. § a) és b) pontja szerinti keretösszegnek a látvány-csapatsportágak közötti felosztásának arányáról értesíti a szakszövetségeket. A szakszövetség honlapján közzéteszi a működésével érintett látvány-csapatsportágra vonatkozó, az igazolások és támogatási igazolások együttes összegét.
+
+## 3. §
+
+(1)[^8] A szakszövetség a miniszternél írásban, indokolással kezdeményezheti az 1. § a) vagy b) pontja szerinti támogatásnak a működésével érintett látvány-csapatsportágra vonatkozóan megállapított összegének növelését az 1. § a) vagy b) pontja szerinti, növeléssel nem érintett másik támogatás összegének azonos mértékű csökkentésével egyidejűleg.
+
+(2) A miniszter a szakszövetség (1) bekezdés szerinti kezdeményezését véleményezés céljából megküldi az államháztartásért felelős miniszter részére.
+
+(3) A miniszter a szakszövetség (1) bekezdés szerinti kezdeményezését az államháztartásért felelős miniszter egyetértésével hagyhatja jóvá.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §[^9]
+
+E rendeletnek a látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról szóló 39/2019. (III. 7.) Korm. rendelet módosításáról szóló 26/2020. (II. 25.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át a Módr. hatálybalépését[^10] megelőzően a 2020. évben kiállított igazolásokra és támogatási igazolásokra is alkalmazni kell.
+
+## 6. §[^11]
+
+E rendeletnek a látvány-csapatsportok támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 397/2021. (VII. 6.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § a) pontjában rögzített összegből 5 976 689 000 forint támogatás kizárólag a 2021. évi sportfejlesztési program benyújtása előtt megkezdett beruházás megvalósítására használható fel.
+
+## 7. §[^12]
+
+E rendeletnek a látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról szóló 39/2019. (III. 7.) Korm. rendelet módosításáról szóló 185/2023. (V. 19.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. § b) pontjában szereplő összegből a Módr2.-vel megnövelt 300 000 000 forint támogatási összeg kizárólag a Magyar Olimpiai Bizottság 2023. évben jóváhagyott sportfejlesztési programjának megvalósítására használható fel.
+
+---
+
+[^1]: Az 1. § a 663/2020. (XII. 24.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 185/2023. (V. 19.) Korm. rendelet 2. § a) pontja, a 419/2025. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 419/2025. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § b) pontja a 215/2025. (VII. 22.) Korm. rendelet 12. §-a, a 419/2025. (XII. 23.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § c) pontját a 623/2023. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1/A. §-t a 215/2025. (VII. 22.) Korm. rendelet 10. §-a iktatta be, szövege a 215/2025. (VII. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés c) pontja a 623/2023. (XII. 22.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 623/2023. (XII. 22.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdése a 663/2020. (XII. 24.) Korm. rendelet 2. §-ával megállapított, a 623/2023. (XII. 22.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^9]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 26/2020. (II. 25.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2020. február 26.
+[^11]: A 6. §-t a 397/2021. (VII. 6.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A 7. §-t a 185/2023. (V. 19.) Korm. rendelet 1. §-a iktatta be.

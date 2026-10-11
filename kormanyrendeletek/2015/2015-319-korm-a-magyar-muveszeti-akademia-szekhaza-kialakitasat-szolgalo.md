@@ -1,0 +1,145 @@
+---
+title: "319/2015. (X. 30.) Korm. rendelet a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "319/2015. (X. 30.) Korm. rendelet"
+njt_id: "2015-319-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/319"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-10-30
+in_force_from: 2015-10-31
+last_amended: 2022-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-319-20-22"
+retrieved: 2026-10-12
+---
+
+# 319/2015. (X. 30.) Korm. rendelet a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d), e) és f) pontjában,
+
+a 4. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2., 17. és 24. pontjában,
+
+az 5. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 6. és 27. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Budapest VI. kerület, Andrássy út 101. és Bajza utca 31. szám alatt található, az ingatlan-nyilvántartás szerinti Budapest 29634 és 29635 helyrajzi szám alatt nyilvántartott ingatlanokon, illetve az ezen ingatlanokból telekalakítási eljárás jogerős befejezését követően kialakított ingatlanon megvalósuló, a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással (a továbbiakban: Beruházás) függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek
+
+a) az útépítési és közmű csatlakozási munkák érdekében az (1) bekezdés szerinti ingatlanokkal szomszédos ingatlanokat érintik,
+
+b) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+(1)[^2]
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(3)[^3]
+
+## 4. §
+
+Az 1. § (1) bekezdése szerinti
+
+a) építésügyi hatósági ügyekben építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b)[^4] építésügyi hatósági ügyekben településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+c)[^5] Beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
+
+d)[^6]
+
+## 4/A. §[^7]
+
+(1)[^8] Az 1. § (1) bekezdése szerinti építésügyi hatósági eljárásokban – a (2) bekezdésben foglaltak figyelembevételével – a Beruházással érintett telkeket rendezettnek kell tekinteni abban az esetben is, amennyiben az 1. § (1) bekezdése szerinti ingatlanokat érintő telekegyesítés, illetve a Budapest VI. kerület 29634 és 29636 helyrajzi számú ingatlant érintő, a településrendezési tervnek megfelelő telekhatár-rendezés még nem történt meg.
+
+(2)[^9] A Beruházás megvalósításához kapcsolódó használatbavételi engedély kiadásának feltétele az (1) bekezdés szerinti ingatlanok tekintetében a telekegyesítés és a településrendezési tervnek megfelelő telekhatár-rendezés végrehajtása, valamint annak az ingatlan-nyilvántartásba történő bejegyzése.
+
+## 5. §
+
+A Beruházás vonatkozásában a beépítési szabályok az 1. § (1) bekezdésében megjelölt ingatlanok esetében a következők:
+
+a)[^10] a beépítettség mértéke – terepszint alatt és felett egyaránt – legfeljebb 65%,
+
+b) a szintterületi mutató legfeljebb 2,6.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 8. §[^11]
+
+A Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézetének megvalósítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről, valamint a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet módosításáról szóló 131/2016. (VI. 7.) Korm. rendelettel megállapított 4/A. §-át a folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 319/2015. (X. 30.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+4\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+5\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. hírközlési hatósági eljárások,
+
+9\. környezetvédelmi hatósági eljárások,
+
+10\. természetvédelmi hatósági eljárások,
+
+11\. útügyi hatósági eljárások,
+
+12\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. élelmiszerlánc-felügyeleti eljárás,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
+
+20\. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 89. § a) és b) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 211. §-a hatályon kívül helyezte.
+[^3]: A 3. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 211. §-a hatályon kívül helyezte.
+[^4]: A 4. § b) pontja a 40/2016. (III. 3.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § c) pontja a 40/2016. (III. 3.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § d) pontját a 40/2016. (III. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^7]: A 4/A. §-t a 131/2016. (VI. 7.) Korm. rendelet 9. §-a iktatta be, a 8. § alapján a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+[^8]: A 4/A. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^9]: A 4/A. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^10]: Az 5. § a) pontja a 40/2016. (III. 3.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^11]: A 8. §-t a 131/2016. (VI. 7.) Korm. rendelet 10. §-a iktatta be.

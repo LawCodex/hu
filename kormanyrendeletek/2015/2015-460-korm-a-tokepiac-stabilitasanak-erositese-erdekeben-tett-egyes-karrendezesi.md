@@ -1,0 +1,265 @@
+---
+title: "460/2015. (XII. 29.) Korm. rendelet a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedések során a csekély összegű támogatások szabályainak alkalmazásáról"
+identifier: "460/2015. (XII. 29.) Korm. rendelet"
+njt_id: "2015-460-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/460"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-29
+in_force_from: 2016-01-01
+last_amended: 2016-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-460-20-22"
+retrieved: 2026-10-12
+---
+
+# 460/2015. (XII. 29.) Korm. rendelet a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedések során a csekély összegű támogatások szabályainak alkalmazásáról
+
+A Kormány a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény 18. § *a)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet célja, hogy a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi. CCXIV. törvényben (a továbbiakban: Kárrendezési törvény) foglalt kárrendezés során biztosítsa az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. és 108. cikkében, valamint az uniós jog további rendelkezéseiben foglalt állami támogatásokra vonatkozó szabályok érvényesülését.
+
+(2) E rendelet hatálya arra a kérelmezőre terjed ki, aki vagy amely a Kárrendezési törvény 4. § 4. pontja alapján vállalkozásnak minősül.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+a) *egy és ugyanazon vállalkozás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 5a. pontja szerinti vállalkozás,
+
+b) *csekély összegű támogatás:* az Atr. 2. § 1. pont *a), c)* és *d)* pontja szerinti csekély összegű támogatás,
+
+c) *gazdasági tevékenység:* bármely, egy adott piacon termékek és szolgáltatások nyújtásával járó tevékenység, amely feltételezi az ellenszolgáltatásért vállalt kockázatot,
+
+d) *kérelem:* a Kárrendezési törvény 13. §-ában foglalt kérelem,
+
+e) *mezőgazdasági termék:* az EUMSz I. mellékletében felsorolt termékek, a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1379/2013/EU európai parlamenti és tanácsi rendelet I. Mellékletében felsorolt termékek kivételével,
+
+f) *támogatás:* az Atr. 2. § 1. pontja szerinti támogatás.
+
+## 2. Általános csekély összegű támogatás
+
+### 3. §
+
+(1) Az egy és ugyanazon vállalkozás részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozás esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás mértékének megállapítása során az adott pénzügyi évben, valamint az előző két pénzügyi év (a továbbiakban: pénzügyi időszak) alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A támogatás a csekély összegű közszolgáltatási támogatással a 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+
+(4) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(5) A Kárrendezési törvény szerint kárrendezésre jogosult kérelmezőnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a kárrendezés iránti kérelmének a Kárrendezési Alaphoz történt beérkezésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról. Amennyiben a kárrendezésre jogosult kérelmét a Kárrendezési törvény 21. § (2) bekezdése alapján kell benyújtottnak tekinteni, a kárrendezés iránti kérelmének a Kárrendezési Alaphoz történt beérkezése időpontjának 2016. január 1-jét kell tekinteni.
+
+## 3. Mezőgazdasági csekély összegű támogatás
+
+### 4. §
+
+(1) Az egy és ugyanazon vállalkozás részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás odaítélése során a pénzügyi időszak alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint a halászati és akvakultúra ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelő ágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások a 717/2014/EU bizottsági rendeletben rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel a 717/2014/EU bizottsági rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(6) A kárrendezés összegének megállapítását megelőzően a Kárrendezési Alap a kérelmező szabad mezőgazdasági csekély összegű támogatási keretének ellenőrzése céljából adatokat kér a Mezőgazdasági és Vidékfejlesztési Hivataltól a kérelmező ügyfél-azonosító száma alapján.
+
+## 4. Halászati csekély összegű támogatás
+
+### 5. §
+
+(1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére a 717/2014/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 30 000 eurónak megfelelő forintösszeget, figyelembe véve a 717/2014/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás odaítélése során a pénzügyi időszak alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A halászati és akvakultúra-ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a halászati és akvakultúra-ágazatra tekintettel a 717/2014/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy a halászati és akvakultúra-ágazati tevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) A halászati és akvakultúra ágazatban, valamint a mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban egyaránt tevékenységet folytató vállalkozások esetében a halászati és akvakultúra ágazatra tekintettel a 717/2014/EU bizottsági rendelet alapján nyújtott támogatások az 1408/2013/EU bizottsági rendeletben rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel a 717/2014/EU bizottsági rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy a halászati és akvakultúra ágazati tevékenység ne részesüljön az 1408/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(6) A kárrendezés összegének megállapítását megelőzően a Kárrendezési Alap a kérelmező szabad halászati csekély összegű támogatási keretének ellenőrzése céljából adatokat kér a Mezőgazdasági és Vidékfejlesztési Hivataltól a kérelmező ügyfél-azonosító száma alapján.
+
+## 5. Kárrendezés
+
+### 6. §
+
+(1) A kérelemben adószámot feltüntető kérelmező az 1. melléklet szerinti nyilatkozatnak 2016. február 15. napjáig történő megküldésével tesz eleget a csekély összegű támogatás szabályainak alkalmazásával kapcsolatos nyilatkozattételi és adatszolgáltatási kötelezettségének.
+
+(2) Ha a kérelmező az (1) bekezdés szerinti határidőn belül az 1. melléklet szerinti nyilatkozatot nem küldi meg, a Kárrendezési Alap a nyilatkozat megküldésére a kérelmezőt felszólítja.
+
+(3) A kérelmező által megfelelő módon kitöltött nyilatkozat megküldését követően a Kárrendezési Alap megvizsgálja a csekély összegű támogatásra vonatkozó előírásokat és a kérelemnek a Kárrendezési törvénybe foglalt feltételeknek való megfelelését és a Kárrendezési törvény 16. §-a szerint megállapítja az ellenértéket.
+
+### 7. §
+
+(1) Ha a kérelmező az 1. melléklet szerinti nyilatkozat 2. pontjának a) vagy *b)* alpontját jelölte meg, úgy a kérelmező e rendelet szerint vállalkozásnak, és részére a kárrendezés során kifizetendő ellenérték állami támogatásnak minősül.
+
+(2) A Kárrendezési Alap vállalkozás esetén a Kárrendezési törvény alapján történő kifizetés összegét az 1. melléklet szerinti nyilatkozatban foglalt adatok alapján állapítja meg, úgy, hogy a kérelmező részére teljesítendő kifizetést – a pénzügyi időszakot figyelembe véve – legfeljebb e rendeletben foglalt összeghatárig teljesíti. Amennyiben a Kárrendezési Alap a Mezőgazdasági és Vidékfejlesztési Hivatalnál ügyfél-azonosítóval rendelkező kérelmező részére teljesít kifizetést, a kifizetés tényéről és annak összegéről a teljesítéstől számított nyolc napon belül a Mezőgazdasági és Vidékfejlesztési Hivatalt értesíti.
+
+(3) A Kárrendezési Alap vállalkozás esetén a Kárrendezési törvény 15. § (2) bekezdése szerinti értesítésben rögzíti, hogy a kifizetés csekély összegű támogatásnak minősül, továbbá felhívja a kérelmező figyelmét arra, hogy a csekély összegű támogatási jogcímen nyújtott támogatáshoz kapcsolódó minden iratot az értesítés megküldését követő 10 évig meg kell őriznie.
+
+## 6. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.
+
+### 9. §
+
+E rendelet
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 9. o.),
+
+c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190., 2014.6.28., 45. o.)
+
+hatálya alá tartozó támogatásokkal kapcsolatos szabályokat tartalmaz.
+
+### 10. §[^1]
+
+## 1. melléklet a 460/2015. (XII. 29.) Korm. rendelethez
+
+**Nyilatkozat**
+
+**a csekély összegű támogatások megállapítása érdekében**
+
+| Kérelmező neve: |
+|---|
+| Székhely: |
+| Levelezési cím (ha eltér a székhelytől): |
+| Adószám: |
+| Cégjegyzékszám: |
+| Jogi személy képviselője: |
+| Jogi személy ügyintézője: |
+
+2\. Gazdasági tevékenység végzése
+
+(jelölje X-szel )
+
+a) Nyilatkozom, hogy gazdasági társaság, európai részvénytársaság, vállalat, erdőbirtokossági társulat, végrehajtói iroda, közjegyzői iroda, ügyvédi iroda, szabadalmi ügyvivői iroda, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, vagy egyéni vállalkozó vagyok □
+
+b) Nyilatkozom, hogy nem tartozom az a) alpontban felsorolt gazdálkodó szervezetek közé, de gazdasági tevékenységet végzek □
+
+c) Nyilatkozom, hogy nem tartozom az a) alpontban felsorolt gazdálkodó szervezetek közé, és gazdasági tevékenységet sem végzek, és ezt az alábbiakkal támasztom alá: □
+
+Kelt: 2016.
+
+Kérelmező\
+(aláírásra jogosult képviselő)
+
+<table><tbody><tr><td colspan="2">3.1. Kérelmező adatai</td></tr><tr><td>Név:</td><td></td></tr><tr><td>Adószám:</td><td></td></tr><tr><td>Ügyfél-azonosító:<sup>1</sup></td><td></td></tr><tr><td colspan="2">(jelölje X-szel )<br>□ Egyesülés a folyamatban lévő és az azt megelőző két pénzügyi év során<br>□ Szétválás a folyamatban lévő és az azt megelőző két pénzügyi év során</td></tr><tr><td>Egyesülés, szétválás ideje:</td><td>_________ ___________ _________<br>(év) (hónap) (nap)</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">3.2. Adatok az egy és ugyanazon vállalkozásokról</td></tr><tr><td colspan="2">Nyilatkozom, hogy a kedvezményezett az alábbi vállalkozásokkal minősül egy és ugyanazon vállalkozásnak.</td></tr><tr><td>Vállalkozás neve</td><td>Adószáma</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+a) csekély összegű támogatásban nem részesültek
+
+<table><tbody><tr><td colspan="11">3.3. Csekély összegű támogatások<sup>2</sup></td></tr><tr><td rowspan="2">Ssz.</td><td rowspan="2">Támogatás jogalapja (bizottsági rendelet száma)<sup>3</sup></td><td rowspan="2">Támogatást nyújtó szervezet</td><td rowspan="2">Támogatás kedvezménye-zettje és célja</td><td rowspan="2">A támogatást ellenszolgáltatás fejében végzett közúti kereskedelmi árufuvarozáshoz vette igénybe?</td><td rowspan="2">Kérelem benyúj-tásának dátuma<sup>4</sup></td><td rowspan="2">Odaítélés dátuma</td><td colspan="2">Támogatás összege</td><td colspan="2">Támogatás bruttó támogatástartalma<sup>5</sup></td></tr><tr><td>Forint</td><td>Euró</td><td>Forint</td><td>Euró</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 2. melléklet a 460/2015. (XII. 29.) Korm. rendelethez
+
+**Kitöltési útmutató**
+
+**Általános tájékoztató**
+
+Az 1407/2013/EU bizottsági rendelet szerinti, egy és ugyanazon vállalkozás részére a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során az 1407/2013/EU bizottsági rendelet alapján odaítélt csekély összegű támogatások bruttó támogatástartalma tagállamonként nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozások esetében a 100 000 eurónak megfelelő forintösszeget, figyelemmel az egyesülésre, valamint a szétválásra vonatkozó szabályokra is. Az átváltásnál az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 35. §-a alapján kell eljárni. Ennek értelmében az uniós támogatási szabályokban euróban meghatározott összegek forintra történő átszámításánál a támogatási döntés napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
+
+1\. Kik minősülnek vállalkozásnak?
+
+Az uniós versenyjogban a „vállalkozás” fogalma minden gazdasági tevékenységet folytató jogalanyra kiterjed, függetlenül azok jogállásától és finanszírozási módjától.
+
+2\. Mi a bruttó támogatástartalom?
+
+A több részletben, éven átnyúlóan fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni az odaítélés idején érvényes referenciaráta alkalmazásával.
+
+3\. Milyen esetekben tekintendő a támogatást igénylő egy másik vállalkozással egy és ugyanazon vállalkozásnak?
+
+– Egyik a másikban a részvényesek vagy tagok szavazati jogának többségével rendelkezik, vagy
+
+– egyik a másik igazgatási, irányítási vagy felügyeleti testülete tagjainak többségét jogosult kinevezni vagy elmozdítani, vagy
+
+– egyik a másik felett szerződés, vagy alapító okiratban vagy társasági szerződés alapján meghatározó befolyást gyakorolhat, vagy
+
+– egyik a másik részvényese vagy tagja, a többi részvényessel vagy taggal kötött megállapodás alapján egyedül birtokolja a szavazati jogok többségét.
+
+Amennyiben a támogatást igénylő a fenti kapcsolatok bármelyikével egy vagy több másik vállalkozáson keresztül rendelkezik, úgy azok vonatkozásában is egy és ugyanazon vállalkozásnak kell tekinteni.
+
+4\. Milyen esetben kell alkalmazni a támogatást igénylőre az egyesülés, illetve a szétválás szabályait?
+
+Abban az esetben, ha az egyesülésre vagy szétválásra a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során került sor.
+
+Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód támogatást igénylő csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad.
+
+Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
+
+Annak meghatározásához, hogy az újabb csekély összegű támogatás meghaladja-e az alkalmazandó felső határt, figyelembe kell venni az azon vállalkozások részére nyújtott csekély összegű támogatásokat is, amelyek a kedvezményezettel egy és ugyanazon vállalkozásnak minősülnek.
+
+5\. Mi a halmozódás?
+
+Az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással [pl. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 9. o.) alapján nyújtott mezőgazdasági csekély összegű támogatással] az 1407/2013/EU bizottsági rendeletben meghatározott 200 000 eurónak, a közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozások esetében a 100 000 eurónak megfelelő forintösszegig halmozható.
+
+Az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletnek (HL L 114, 2012.4.26., 8-13. o.; a továbbiakban: 360/2012/EU bizottsági rendelet) megfelelően nyújtott közszolgáltatási csekély összegű támogatással a 360/2012/EU bizottsági rendeletben meghatározott 500 000 eurónak megfelelő forintösszegig halmozható.
+
+Amennyiben a halászati és akvakultúra-ágazatban működő valamely vállalkozás az 1407/2013/EU rendelet hatálya alá tartozó egy vagy több ágazatban vagy egyéb tevékenységi körökben is folytat tevékenységet, a halászati és akvakultúra-ágazatba tartozó tevékenységek tekintetében az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendeletnek (HL L 190., 2014.06.28., 45.o.) megfelelően nyújtott halászati csekély összegű támogatás az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatással az 1407/2013/EU bizottsági rendeletben meghatározott 200 000 eurónak, a közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozások esetében a 100 000 eurónak megfelelő forintösszegig halmozható.
+
+Az euróban meghatározott összegek forintra történő átszámításánál a támogatási döntés napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
+
+A kérelmezőknek a támogatáshoz kapcsolódó iratokat a kifizetéssel kapcsolatos tájékoztatást követő 10 évig meg kell őrizniük, és a Kárrendezési Alapnak ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
+
+**1. A kérelmező adatai**
+
+Kérelmező a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló törvény alapján kárrendezést igénylő vállalkozás.
+
+A kérelmezőre vonatkozó adatokat a cégnyilvántartásban vagy egyéb közhiteles nyilvántartásban szereplő kérelmező esetében a nyilvántartásban foglaltakkal egyezően kell kitölteni.
+
+**2. Gazdasági tevékenység végzése**
+
+A 2. pontban szükséges nyilatkozni arról, hogy a kérelmező gazdasági tevékenységet végez-e.
+
+Gazdasági tevékenységet végez valamennyi, az *a)* alpontban megjelölt gazdálkodó szervezet, ezen felül azonban gazdasági tevékenységet végezhet olyan magánszemély vagy szervezet is, mely nem üzletszerű gazdasági tevékenység végzése céljából jön létre.
+
+Mit jelent a gazdasági tevékenység végzése?
+
+A gazdasági tevékenységet adott piacon termékek vagy szolgáltatások kínálásának ténye jellemzi.
+
+Aki a 2. pontban az *a)* vagy a *b)* alpont alá tartozik, az az uniós jog értelmében vállalkozásnak minősül, és vonatkoznak rá a csekély összegű támogatások szabályai.
+
+Aki a 2. pont *c)* alpontjába tartozik, azokra nem vonatkoznak a kifizetési korlátozások, a kárrendezés összegének megállapítása során nem kell az uniós előírásokat figyelembe venni.
+
+**3. Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló nyilatkozat**
+
+A nyilatkozatot abban az esetben kell kitölteni, ha a kérelmező a 3. pontban az *a)* vagy *b)* alpontot jelölte meg.
+
+A 3.1. pontban ismételten ki kell tölteni a kérelmező nevét és adószámát, ezen felül nyilatkozni kell a nem magánszemélynek arról, hogy a tárgyévet megelőző két évben sor került-e a szervezet szétválására vagy más szervezettel való egyesülésére.
+
+Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad.
+
+Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
+
+A 3.3. pontban foglalt táblázatot az egyesülésre és szétválásra vonatkozó szabályok, valamint az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.
+
+A csekély összegű támogatásokkal kapcsolatos adatokat a támogatási döntések tartalmazzák. A csekély összegű támogatások vonatkozásában fel kell tüntetni a támogatás jogalapját. A támogatás jogalapja három uniós rendelet lehet, ezek a következőek:
+
+– az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+
+– az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet, valamint
+
+– az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+
+A támogatás összegének meghatározásakor az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet alapján az uniós támogatási szabályokban euróban meghatározott összegek forintra történő átszámításánál a támogatási döntés napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
+
+A bruttó támogatástartalom kiszámításának érdekében a több részletben, éven átnyúlóan fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni az odaítélés idején érvényes referencia ráta alkalmazásával.
+
+Az 1407/2013/EU bizottsági rendelet szerint csekély összegű támogatás nem halmozható azonos elszámolható költségek vonatkozásában nyújtott támogatással vagy olyan kockázatfinanszírozási célú intézkedéssel, amelyhez az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatást nyújtják, amennyiben az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság határozatában meghatározott maximális támogatási intenzitást vagy összeget. Itt kizárólag a kérelmező tekintetében kell nyilatkozni, az egyesülésre és szétválásra vonatkozó szabályok, valamint az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében nem.
+
+---
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

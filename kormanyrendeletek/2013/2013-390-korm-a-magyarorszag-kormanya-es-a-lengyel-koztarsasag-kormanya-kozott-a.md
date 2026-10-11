@@ -1,0 +1,379 @@
+---
+title: "390/2013. (XI. 12.) Korm. rendelet a Magyarország Kormánya és a Lengyel Köztársaság Kormánya között, a védelem területén történő együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "390/2013. (XI. 12.) Korm. rendelet"
+njt_id: "2013-390-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/390"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-11-12
+in_force_from: 2013-11-13
+last_amended: 2016-02-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-390-20-22"
+retrieved: 2026-10-12
+---
+
+# 390/2013. (XI. 12.) Korm. rendelet a Magyarország Kormánya és a Lengyel Köztársaság Kormánya között, a védelem területén történő együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Lengyel Köztársaság Kormánya között, a védelem területén történő együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+**„AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF POLAND CONCERNING COOPERATION IN THE FIELD OF DEFENCE**
+
+The Government of Hungary and the Government of the Republic of Poland, hereinafter collectively referred to as “the Contracting Parties” and individually as “a Contracting Party”;
+
+Considering the Agreement between the Republic of Hungary and the Republic of Poland on the friendly and good-neighbourly co-operation signed on the 6<sup>th</sup> of October, 1991 in Cracow;
+
+Recognizing cooperation in the field of defence to be a vital element of security having particular significance in improving the global security system;
+
+Acknowledging the fundamental role of the North Atlantic Treaty Organisation, hereinafter referred to as “the NATO”, in ensuring international peace and security;
+
+Taking into consideration the provisions of the North Atlantic Treaty signed in Washington on the 4<sup>th</sup> of April, 1949;
+
+Noting the Agreement between the Parties to the North Atlantic Treaty regarding the status of their forces signed in London on the 19<sup>th</sup> of June, 1951, hereinafter referred to as “the NATO SOFA Agreement”;
+
+Recognizing the role of Common Security and Defence Policy of the European Union in international crisis management;
+
+Having regard to the Treaty on European Union and the Treaty on the functioning of the European Union, which serve as the primary legal basis of the Common Security and Defence Policy;
+
+Have agreed on the following:
+
+**ARTICLE 1**
+
+**Objective and Scope of this Agreement**
+
+1\. This Agreement outlines general provisions concerning cooperation in the field of defence between the Contracting Parties, based on the principles of equality, partnership and mutual benefits.
+
+2\. The cooperation between the Contracting Parties within the framework of this Agreement shall be carried out in accordance with their competences, national laws, generally recognised principles of international law, as well as international commitments of Hungary and the Republic of Poland.
+
+3\. In cases not regulated by this Agreement, provisions of the NATO SOFA Agreement shall be applied.
+
+**ARTICLE 2**
+
+**Supervision of application of this Agreement**
+
+The organs responsible for supervision of application of this Agreement are: the Minister of Defence and the minister competent for economy matters on behalf of Hungary, and the Minister of National Defence and the minister competent for economy matters on behalf of the Republic of Poland.
+
+**ARTICLE 3**
+
+**Definitions**
+
+For the purpose of this Agreement, the expression:
+
+1) “Military personnel” means members of the Defence Forces of Hungary or the Armed Forces of the Republic of Poland;
+
+2) “Civilian personnel” means civilian employees of the Defence Forces of Hungary or the Armed Forces of the Republic of Poland and ministries competent for defence matters of Hungary or the Republic of Poland.
+
+**ARTICLE 4**
+
+**Areas of Cooperation**
+
+The cooperation between the Contracting Parties shall include the following areas:
+
+1) defence planning;
+
+2) functioning of armed forces in democratic societies, including application of the international treaties in fields of defence, security and arms control;
+
+3) peacekeeping and humanitarian relief missions and other operations of international organisations regarding peace support and fighting terrorism;
+
+4) organization of the armed forces, including military units structure and personnel management policy;
+
+5) logistic support for the needs of the armed forces;
+
+6) military education;
+
+7) military training;
+
+8) military exercises, including the use of military training areas on the territories of Hungary and the Republic of Poland;
+
+9) Combat Search and Rescue (CSAR) services;
+
+10) science and research in the field of defence;
+
+11) military geography, cartography, geodesy, metrology and meteorology;
+
+12) initiatives in the field of armament and military equipment, including provision of modern armament and military equipment to the Defence Forces of Hungary or the Armed Forces of the Republic of Poland, as well as research and development, modernisation, maintenance and overhaul of armament and military equipment;
+
+13) defence industries of Hungary and the Republic of Poland;
+
+14) military information and communication systems and technologies;
+
+15) environment protection in relation to pollution resulting from the activities of military units;
+
+16) military medicine;
+
+17) law and economics in the field of defence;
+
+18) military history and museums, including exchange of exhibits;
+
+19) cultural, sport and tourist activities of the military and civilian personnel, including exchange of vacationers;
+
+20) management and modernization of military infrastructure, including common NATO infrastructure.
+
+**ARTICLE 5**
+
+**Forms of Cooperation**
+
+1\. The cooperation between the Contracting Parties shall be carried out in the following forms:
+
+1) official visits and meetings of the organs mentioned in article 2 or their representatives;
+
+2) exchange of experience on expert level;
+
+3) political-military consultations, conferences and seminars;
+
+4) studies and practical trainings in military educational institutions and military research and development institutions, including exchange of lecturers and trainees;
+
+5) expert and technical advisory in research and development, modernisation, maintenance and overhaul of armament and military equipment;
+
+6) participation of military units, staff officers and observers in military exercises;
+
+7) exchange of information, documentation and training materials;
+
+8) organisation of and participation in cultural, sports and tourist activities.
+
+2\. The cooperation between the Contracting Parties may be also carried out in other forms than those mentioned in paragraph 1, as agreed.
+
+**ARTICLE 6**
+
+**Annual Cooperation Plans**
+
+1\. The competent and authorised representatives of the ministers competent for defence matters of Hungary and the Republic of Poland may prepare, negotiate and sign annual cooperation plans.
+
+2\. The agreed and signed annual cooperation plans may be amended in writing at any time by mutual consent of the representatives mentioned in paragraph 1.
+
+**ARTICLE 7**
+
+**Financial issues**
+
+1\. The Contracting Parties shall fully cover their own expenditures related to the cooperation, unless otherwise agreed.
+
+2\. The cost-sharing formulas for official visits and meetings shall be agreed in advance by competent and authorised representatives of the ministers competent for defence matters of Hungary and the Republic of Poland.
+
+3\. Financial arrangements related to specific areas of cooperation mentioned in article 4 shall be defined in separate agreements, if needed.
+
+**ARTICLE 8**
+
+**Protection of exchanged classified information**
+
+The provisions of a separate agreement, which shall be concluded by the Contracting Parties, and also the respective NATO and European Union regulations, shall apply to protection of classified information exchanged for the purposes of this Agreement.
+
+**ARTICLE 9**
+
+**Resolution of Disputes**
+
+Disputes between the Contracting Parties regarding the interpretation or application of this Agreement shall be resolved by mutual consultations.
+
+**ARTICLE 10**
+
+**Final Provisions**
+
+1\. This Agreement shall enter into force thirty (30) days after the receipt of the second of the two notifications by which the Contracting Parties inform each other on the completion of their national legal procedures necessary for this Agreement to enter into force.
+
+2\. This Agreement is concluded for an indefinite period of time.
+
+3\. This Agreement may be terminated by each Contracting Party by written notification. In such case, the Agreement expires one hundred and eighty (180) days after the receipt of the termination notification.
+
+4\. This Agreement may be amended at any time by a written consent of the Contracting Parties. In such case, the paragraph 1 shall be applied adequately.
+
+Done in Warsaw on 24 October 2013 in two originals, each in the Hungarian, Polish and English languages, all texts being equally authentic. In case of any discrepancy in their interpretation, the English text shall prevail.
+
+FOR THE GOVERNMENT\
+OF HUNGARY
+
+FOR THE GOVERNMENT OF THE REPUBLIC\
+OF POLAND
+
+MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A LENGYEL KÖZTÁRSASÁG KORMÁNYA KÖZÖTT\
+A VÉDELEM TERÜLETÉN TÖRTÉNŐ EGYÜTTMŰKÖDÉSRŐL
+
+Magyarország Kormánya és a Lengyel Köztársaság Kormánya, a továbbiakban együttesen a Szerződő Felek és külön-külön a Szerződő Fél,
+
+tekintettel a Magyar Köztársaság és a Lengyel Köztársaság közötti, Krakkóban, 1991. október 6-án a baráti és jószomszédsági együttműködésről aláírt Szerződésre,
+
+elismerve, hogy a védelmi együttműködés a biztonság létfontosságú eleme, amely a globális biztonsági rendszer erősítése szempontjából különös jelentőséggel bír,
+
+elismerve az Észak-atlanti Szerződés Szervezetének, a továbbiakban a „NATO” alapvető szerepét a nemzetközi béke és biztonság szavatolásában,
+
+tekintettel az 1949. április 4-én Washingtonban aláírt Észak-atlanti Szerződés rendelkezéseire,
+
+figyelembe véve az Észak-atlanti Szerződés tagállamai között fegyveres erőik jogállásáról 1951. június 19-én Londonban létrejött Megállapodást, a továbbiakban ”NATO SOFA Megállapodás”,
+
+elismerve az Európai Unió Közös Biztonság- és Védelempolitikájának nemzetközi válságkezelésben betöltött szerepét,
+
+tekintettel az Európai Unióról szóló szerződésre és az Európai Unió működéséről szóló szerződésre, mely az EU Közös Biztonság- és Védelempolitikájának elsődleges jogi alapját képezi;
+
+az alábbiakban állapodnak meg:
+
+**1. CIKK**
+
+**A megállapodás célja és keretei**
+
+1\. Jelen Megállapodás a Szerződő Felek közötti védelmi együttműködésnek az egyenlő jogok, a partnerség és kölcsönös előnyök elvén alapuló általános szabályait rögzíti.
+
+2\. A Szerződök Felek között jelen Megállapodás keretében az együttműködés megvalósítására hatásköreikkel, nemzeti jogukkal, a nemzetközi jog általánosan elismert elveivel, valamint Magyarország és a Lengyel Köztársaság nemzetközi kötelezettségvállalásaival összhangban kerül sor.
+
+3\. Jelen Megállapodás által nem szabályozott kérdésekre a NATO SOFA Megállapodás rendelkezéseit kell alkalmazni.
+
+**2. CIKK**
+
+**A Megállapodás végrehajtásának felügyelete**
+
+A jelen Megállapodás végrehajtásának felügyeletéért felelős szervek a következőek: Magyarország részéről a honvédelmi miniszter és a gazdasági ügyekért felelős miniszter, a Lengyel Köztársaság részéről a nemzetvédelmi miniszter és a gazdasági ügyekért felelős miniszter.
+
+**3. CIKK**
+
+**Értelmező rendelkezések**
+
+A jelen Megállapodás alkalmazásában az alábbi fogalmak a következőket jelentik:
+
+1) „Katona állomány” Magyarország vagy a Lengyel Köztársaság fegyveres erőinek tagjai,
+
+2) „Polgári állomány” Magyarország vagy a Lengyel Köztársaság fegyveres erőinek és védelmi ügyekért felelős minisztériumainak polgári alkalmazottjai.
+
+**4. CIKK**
+
+**Az együttműködés területei**
+
+A Szerződő Felek közötti együttműködés az alábbi területekre terjed ki:
+
+1) védelmi tervezés;
+
+2) a fegyveres erők működése a demokratikus társadalmakban, beleértve a védelmi, biztonság és fegyverzetellenőrzés területén létrejött nemzetközi szerződések alkalmazását is;
+
+3) békefenntartás és humanitárius segítségnyújtás és a nemzetközi szervezetek egyéb béketámogatáshoz és a terrorizmus elleni harchoz kapcsolódó műveletei;
+
+4) a fegyveres erők szervezete, beleértve a katonai alakulatok struktúráját és a humánerőforrás gazdálkodás szabályozóit is;
+
+5) a fegyveres erők igényeinek biztosítását szolgáló logisztikai támogatás;
+
+6) katonai képzés;
+
+7) katonai kiképzés;
+
+8) katonai gyakorlatok, beleértve a Lengyel Köztársaság és Magyarország területén található katonai gyakorlóterek igénybevételét is;
+
+9) harci kutatás és mentés (CSAR);
+
+10) tudományos és kutatási együttműködés a védelem területén;
+
+11) katonaföldrajz, térképészet, geodézia, mérésügy és meteorológia;
+
+12) Magyarország és a Lengyel Köztársaság fegyveres erőinek korszerű fegyverzettel és hadfelszereléssel való ellátását is magukban foglaló fegyverzeti és hadfelszerelési kezdeményezések, valamint együttműködés a fegyverzeti és hadfelszerelési kutatásban és fejlesztésben, korszerűsítésben, karbantartásban és javításban;
+
+13) Magyarország és a Lengyel Köztársaság védelmi ipari szereplőinek együttműködése;
+
+14) katonai informatikai és híradó rendszerek és technológiák;
+
+15) a katonai szervezetek tevékenysége eredményeképpen kialakult környezetszennyezéssel kapcsolatos környezetvédelmi tevékenység;
+
+16) katona egészségügy;
+
+17) jogi szabályozás és gazdálkodás a védelem területén;
+
+18) hadtörténelmi és múzeumi együttműködés, beleértve a kiállítási tárgyak cseréjét is;
+
+19) a katona és polgári állomány kulturális, sport és turisztikai tevékenységei, beleértve a csereüdülést is;
+
+20) a katonai infrastruktúra kezelése és korszerűsítése, beleértve a közös NATO infrastruktúrát is.
+
+**5. CIKK**
+
+**Az együttműködés formái**
+
+1\. A Szerződő Felek közötti együttműködés az alábbi formák révén valósul meg:
+
+1) a 2. cikkben felsorolt szervek vagy azok képviselőinek hivatalos látogatásai és találkozói;
+
+2) szakértői szintű tapasztalatcserék;
+
+3) politikai-katonai konzultációk, konferenciák és szemináriumok;
+
+4) tanulmányok folytatása és gyakorlati felkészítés katonai oktatási és katonai kutatási és fejlesztési intézményekben, beleértve az oktatók és hallgatók cseréjét is;
+
+5) szakértői és műszaki tanácsadás a fegyverzeti és hadfelszerelési kutatásban és fejlesztésben, korszerűsítésben, karbantartásban és javításban;
+
+6) katonai alakulatok, törzstisztek és megfigyelők részvétele katonai gyakorlatokon;
+
+7) információk, dokumentációk és kiképzési anyagok cseréje;
+
+8) kulturális, sport és turisztikai tevékenységek szervezése és a részvétel azokban.
+
+2\. Megállapodás esetén a Szerződő Felek közötti együttműködés megvalósulhat az 1. bekezdésben felsoroltakon kívüli formák révén is.
+
+**6. CIKK**
+
+**Éves együttműködési tervek**
+
+1\. Magyarország és a Lengyel Köztársaság védelmi ügyekért felelős minisztereinek illetékes és felhatalmazott képviselői előkészíthetik, megvitathatják és aláírhatják az éves együttműködési terveket.
+
+2\. A jóváhagyott és aláírt éves együttműködési tervek bármikor kiegészíthetőek írásban az 1. bekezdésben felsorolt képviselők kölcsönös hozzájárulásával.
+
+**7. CIKK**
+
+**Pénzügyi rendelkezések**
+
+1\. A Szerződő Felek eltérő rendelkezés hiányában teljes mértékben maguk fedezik az együttműködéssel kapcsolatos kiadásaikat.
+
+2\. A hivatalos látogatások és találkozók költségmegosztási szabályairól Magyarország és a Lengyel Köztársaság védelmi ügyekért felelős minisztereinek illetékes és felhatalmazott képviselői előzetesen állapodnak meg.
+
+3\. Az együttműködésnek a 4. cikkben felsorolt meghatározott formáival kapcsolatos pénzügyi rendelkezéseket szükség esetén külön megállapodásokban kell szabályozni.
+
+**8. CIKK**
+
+**A kicserélt minősített információk védelme**
+
+A jelen Megállapodás kapcsán kicserélt minősített információk védelmére a Szerződő Felek között létrejött külön Megállapodás rendelkezéseit és a vonatkozó NATO és EU előírásokat kell alkalmazni.
+
+**9. CIKK**
+
+**A viták rendezése**
+
+A Szerződő Felek jelen Megállapodás értelmezéséből vagy alkalmazásából eredő vitáikat kölcsönös konzultációk útján rendezik.
+
+**10. CIKK**
+
+**Záró rendelkezések**
+
+1\. Jelen Megállapodás a jelen Megállapodás hatálybalépéséhez szükséges valamennyi nemzeti jogi követelmény Szerződő Felek általi teljesítéséről szóló két értesítés közül a második kézhezvételét követő harmincadik (30.) napon lép hatályba.
+
+2\. Jelen Megállapodás határozatlan időre jön létre.
+
+3\. Jelen Megállapodást bármelyik Szerződő Fél írásban felmondhatja. A Megállapodás a felmondásról szóló értesítés kézhezvételét követő száznyolcvan (180) nap múlva hatályát veszti.
+
+4\. Jelen Megállapodás a Szerződő Felek írásos hozzájárulásával bármikor módosítható. Ilyen esetekben az (1) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+
+Kelt: Varsóban, 2013. október 24-én, két eredeti példányban, valamennyi magyar, lengyel és angol nyelven, valamennyi szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg irányadó.
+
+MAGYARORSZÁG\
+KORMÁNYA NEVÉBEN
+
+A LENGYEL KÖZTÁRSASÁG\
+KORMÁNYA NEVÉBEN”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 6/2016. (III. 4.) KKM közlemény alapján a hatálybalépés időpontja 2016. február 26.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 6/2016. (III. 4.) KKM közlemény alapján a hatálybalépés időpontja 2016. február 26.
+[^3]: A 6/2016. (III. 4.) KKM közlemény alapján a hatálybalépés időpontja 2016. február 26.
+[^4]: Lásd a 6/2016. (III. 4.) KKM közleményt.

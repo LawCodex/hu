@@ -1,0 +1,354 @@
+---
+title: "195/2016. (VII. 13.) Korm. rendelet a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről"
+identifier: "195/2016. (VII. 13.) Korm. rendelet"
+njt_id: "2016-195-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/195"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-13
+in_force_from: 2016-09-01
+last_amended: 2026-08-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-195-20-22"
+retrieved: 2026-10-12
+---
+
+# 195/2016. (VII. 13.) Korm. rendelet a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről
+
+A Kormány a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet alkalmazási köre
+
+### 1. §
+
+(1)[^1] A térségi, az elővárosi, a városi és a helyi működési engedély alapján végzett, valamint a kisvasút és a múzeumvasút által nyújtott vasúti személyszállításra (a továbbiakban együtt: személyszállítás) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet (a továbbiakban: EU rendelet) 11., 13., 14., 21., 27. cikke, továbbá 22. cikk (1) bekezdése e rendelet rendelkezéseivel együttesen alkalmazandóak.
+
+(2) Ha személyszállítást végző vasúti társaság (a továbbiakban: vasúti társaság) a személyszállítást más (közúti, vízi, légi közlekedési) szolgáltatóval együttesen végzi, eltérő rendelkezés hiányában a vasúti szakaszon végzett személyszállításra – ideértve a vonatpótló autóbusszal végzett szállítást is – e rendelet előírásait kell alkalmazni.
+
+(3)[^2] E rendeletben – a (3a) bekezdésben meghatározott kivétellel – az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
+
+(3a)[^3] E rendelet alkalmazásában kisvasút az a keskeny nyomtávolságú vasút, amely végez személyszállítási tevékenységet.
+
+(4)[^4] Ha a személyszállítási szolgáltatásokról szóló törvényben meghatározott feltételekkel létrehozott közlekedésszervező vagy országos közlekedésszervező a személyszállítási szolgáltatásokról szóló törvényben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján vasúti társaság feladatkörébe tartozó valamely tevékenységet ellát, úgy e rendelet előírásait e feladatkör tekintetében a közlekedésszervezőre vagy országos közlekedésszervezőre is megfelelően alkalmazni kell.
+
+(5)[^5] Az EU rendeletben foglaltakat a szigorúan történelmi vagy turisztikai céllal működtetett személyszállítási szolgáltatásokra – az EU rendelet 13. és 14. cikke kivételével – nem kell alkalmazni.
+
+(6)[^6] A városi, elővárosi és helyi szolgáltatásokra az EU rendeletet – az 5., 11., 13., 14., 21., 22., 27., 28. cikke kivételével – nem kell alkalmazni.
+
+(7)[^7] A térségi szolgáltatásokra az EU rendeletet – az 5., 6., 11., 12., 13., 14., 18. cikk (3) bekezdése, 21., 22., 27., 28. cikke és V. fejezete kivételével – nem kell alkalmazni.
+
+## 2. A személyszállítási üzletszabályzat
+
+### 2. §[^8]
+
+(1) A vasúti társaság a személyszállítási üzletszabályzatban (a továbbiakban: üzletszabályzat) az EU rendelettel és e rendelettel összhangban meghatározza különösen
+
+a) a díj ellenében végzett személyszállítási szolgáltatások körét,
+
+b) a személyszállítási szolgáltatás igénybevételének feltételeit,
+
+c) az utasok tájékoztatására vonatkozó részletes szabályokat,
+
+d) a menetjegyek és az utazásra jogosító okmányok felhasználásának részletes szabályait,
+
+e) a felek jogait és kötelezettségeit, valamint az utazási feltételek alapját képező részletes szabályokat,
+
+f) a kézipoggyász, az élő állat, az útipoggyász és az egyéb tárgyak szállításának részletes szabályait,
+
+g) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
+
+h) a vasúti társaság felelősségviselésének részletes szabályait,
+
+i) azoknak az elektronikus adathordozóknak a felsorolását és tulajdonságait, amelyekre a menetjegyet és a felárbizonylatot ki lehet állítani,
+
+j) a személyszállításhoz kapcsolódó kiegészítő szolgáltatások részletes szabályait, valamint
+
+k) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
+
+(2) A vasúti társaság az üzletszabályzat tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
+
+(3) A vasúti társaság az üzletszabályzatot – módosítás esetén a módosítással érintett rendelkezéseket, a módosítás okát, továbbá az üzletszabályzat módosításokkal egységes szerkezetű tervezetét – a (2) bekezdés szerinti határidő lejártát követő 15 napon belül a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja az üzletszabályzat tervezetére érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
+
+(4) A vasúti társaság az üzletszabályzatot – módosítás esetén az üzletszabályzat módosításokkal egységes szerkezetét – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül a hivatalos honlapján közzéteszi, valamint biztosítja, hogy az utas – arra irányuló kérése esetén – a jegypénztárban megtekinthesse.
+
+## 3. A díjszabás
+
+### 3. §
+
+(1) A vasúti társaság által végzett szolgáltatások díját, a díj megállapításának módját és feltételeit – a szolgáltatások díjaira vonatkozó külön jogszabályok figyelembevételével – a díjszabás tartalmazza.
+
+(2)[^9] Ha a vasúti társaság üzletszabályzatának nem része a díjszabás, azt honlapján közzéteszi, továbbá biztosítja, hogy az utas – arra irányuló kérése esetén – a díjszabást a jegypénztárban megtekinthesse.
+
+(3)[^10] A díjszabás nem tartalmazhat az üzletszabályzattal ellentétes rendelkezéseket.
+
+## 4. A közforgalmú menetrend
+
+### 4. §
+
+(1) A közforgalmú menetrend (a továbbiakban: menetrend) tartalmazza a közforgalmú személyszállítás legfontosabb tájékoztató adatait, így különösen:
+
+a) a járatok induló és végállomását, továbbá azokat az állomásokat és megállóhelyeket (a továbbiakban együtt: állomás), ahol a járat megáll,
+
+b) az érkezési és indulási időpontokat vagy a járatok gyakoriságát a napi első és utolsó járat indulási időpontjának feltüntetésével, a nem mindennap közlekedő járatoknál a közlekedési napokat, továbbá a különböző korlátozásokat,
+
+c) a csatlakozási, átszállási lehetőségeket,
+
+d) a legfontosabb kiegészítő szolgáltatásokat, a személyszállításhoz kapcsolódó szolgáltatásokat, valamint
+
+e) a menetrendi időszak kezdetének és végének időpontját vagy azt, hogy a menetrend határozatlan időtartamra szól.
+
+(2) A vasúti társaság a menetrendet a honlapján közzéteszi és annak az adott állomást érintő adatokat tartalmazó kivonatát az állomásokon jól látható helyen kifüggeszti, és a menetrendről az utasokat az üzletszabályzatban meghirdetett módokon is tájékoztatja.
+
+(3)[^11] A menetrend ideiglenes vagy végleges megváltoztatásáról az utazóközönséget a (2) bekezdésben meghatározott módokon legalább 3 nappal a változás végrehajtását megelőzően tájékoztatni kell. A vasúti társaság a változás közzétételét megelőző 5 nappal a menetrendváltozás tényéről a vasúti igazgatási szervet elektronikus úton tájékoztatja. Ha a változásra előre nem látható ok miatt kerül sor vagy kizárólag új vonat forgalomba állását jelenti a többi vonat menetrendjének, közlekedési időszakának változása nélkül, a tájékoztatási időközre vonatkozó rendelkezést nem kell alkalmazni.
+
+(4) A közszolgáltatási menetrend jóváhagyására jogosult az üzemeltetési és a szerződéskötési kötelezettséget közérdekből, továbbá a vasúti társaság kezdeményezésére kényszerítő üzemi okból korlátozhatja vagy felfüggesztheti.
+
+## 5. Utazáshoz való jog
+
+### 5. §
+
+(1) A vasúti társaság a közforgalmú személyszállítási szolgáltatás igénybevételét valamennyi utazni kívánó személy számára hátrányos megkülönböztetés nélkül lehetővé teszi, ha
+
+a)[^12] az utas az üzletszabályzat feltételeit elfogadja, és
+
+b) a szolgáltatás a menetrendben meghirdetett járattal lehetséges.
+
+(2)[^13] A vasúti társaság a személyszállítást megtagadhatja, vagy az utast a személyszállításból kizárhatja, ha az utas
+
+a) botrányosan viselkedik, vagy más módon a többi utast magatartásával zavarja,
+
+b) magatartásával vagy ittas, bódult, zavart állapotával a közlekedés biztonságát, önmagát vagy utastársai testi épségét, egészségét, a járműnek vagy berendezéseinek az épségét veszélyezteti,
+
+c) a szolgáltatást jogosulatlanul veszi igénybe, és menetjegyet az ellenőrzéskor sem vált,
+
+d) menetjegyét, illetve kedvezmény igénybevételére jogosító igazolványát – felhívás ellenére – nem mutatja fel,
+
+e) a járműbe kézipoggyászként be nem vihető tárgyat vitt be vagy kísérel meg bevinni,
+
+f) a kézipoggyász, az élő állat, az útipoggyász és az egyéb tárgyak szállítására vonatkozó szabályokat megszegi,
+
+g) a menetdíj, a viteldíj, a felár vagy a pótdíj megfizetését megtagadja, vagy
+
+h) a vasúti társaság üzletszabályzatában foglalt utazással kapcsolatos feltételeket – az a) és b) pont szerinti esetek kivételével felhívás ellenére – nem tartja be.
+
+(3) A vasúti társaságot abban az esetben is megilleti a már megtett útra járó menetdíj és pótdíj, ha az utast – a (2) bekezdésben meghatározottak alapján – az utazásból kizárta. Ha a felszállási állomás kétséget kizáróan nem bizonyítható, az utas szempontjából felszállási állomásnak a járat indulási állomását kell tekinteni.
+
+(4) A vasúti társaság – a 14. §-ban meghatározott kivétellel – a (2) bekezdésben meghatározottak ellenére is köteles biztosítani a továbbutazás lehetőségét az útközben orvosi ellátásra szoruló személy részére a legközelebbi olyan állomásig, ahol a szükséges egészségügyi ellátásban részesülhet.
+
+(5)[^14] A magatehetetlen vagy a szolgáltatás igénybevételére kísérő nélkül nem képes személy, valamint a hat éven aluli gyermek a személyszállítási szolgáltatás igénybevételére cselekvőképes kísérő (a továbbiakban: kísérő) nélkül nem jogosult. Hat éven aluli gyermekek csoportos szállítása esetében minden tíz gyermekre legalább egy kísérőnek kell jutnia. A kísérővel utazó utasok járműben való elhelyezéséről, valamint folyamatos felügyeletéről a személyszállítási szolgáltatás igénybevétele alatt a kísérő gondoskodik. A kísérő – kísérőifeladat-ellátásra alkalmas állapotban – a kísért személy utazásának megkezdésétől az utazása végéig a járművön tartózkodik.
+
+## 6. Menetjegy
+
+### 6. §
+
+(1)[^15] A menetjegyen az EU rendelet I. melléklet 7. cikk (2) bekezdésében felsoroltakon túl fel kell tüntetni:
+
+a) az igénybe vehető személyszállítási szolgáltatás megnevezését,
+
+b)[^16] a fizetett menetdíj összegét, pénznemét,
+
+c) az elszámolásnál alkalmazott kedvezmény mértékét vagy jogcímét,
+
+d) érvényességének tartamát,
+
+e) több személy részére kiadott menetjegy esetében az utasok számát, valamint
+
+f) többszöri utazásra kiadott menetjegy esetében az utazási lehetőségek jellegét, számát vagy időtartamát.
+
+(2) Az utazási igazolványra az (1) bekezdés b)–c) és e)–f) pontjában meghatározott előírásokat nem kell alkalmazni.
+
+(3) A meghatározott járatra érvényesített menetjegy csak a rajta feltüntetett járaton érvényes. Az egyszeri vagy többszöri utazásra kiadott menetjegy csak arra az utazási viszonylatra és időtartamra érvényes, amelyre kiadták vagy érvényesítették.
+
+(4)[^17] A különböző menetjegyfajták kezelésére, érvényesítésére, felhasználhatóságának időbeli és térbeli hatályára, illetve a kedvezmények igénybevételének szabályaira vonatkozó részletes feltételeket a vasúti társaság az üzletszabályzatban állapítja meg.
+
+(5)[^18] Az utasnak a menetjegyet az EU rendelet I. melléklet 9. cikk (1) bekezdésében meghatározottakon túl a vasúti társaság által az utazási jogosultság ellenőrzése céljából kijelölt területen való tartózkodás tartama alatt meg kell őriznie, és a vasúti társaság által jegyvizsgálatra és menetjegy-ellenőrzésre feljogosított személy részére – a kedvezményes jegyváltásra jogosító igazolvánnyal együtt – fel kell mutatnia, kérésre át kell adnia.
+
+(6) A névre szóló menetjeggyel csak az arra jogosult utazhat. A nem névre szóló menetjegy mindaddig másra átruházható, ameddig azzal az utazást nem kezdték meg.
+
+(7) Ha az utas – annak ellenére, hogy a felszállási állomáson a menetjegyváltási lehetőséget a vasúti társaság biztosítja vagy a menetjegyváltást a járművön lehetővé teszi – érvényes menetjegy nélkül utazik, továbbá ha a járaton az üzletszabályzatban meghatározott utazási szabályokat megszegi, a menetdíjon felül pótdíjat is köteles fizetni.
+
+(8) A (7) bekezdés alkalmazása szempontjából egy felszállási állomásnak tekintendő a különböző helyi járatok által igénybe vett, azonos elnevezésű megállóhelyeket magába foglaló közlekedési csomópont.
+
+(9) A 14. § (2) bekezdésében meghatározottak kivételével, ha a vasúti társaság a járműre történő fel- és leszállásra kijelölt peronon vagy a járművön nem biztosítja a menetjegyvásárlás lehetőségét, köteles a közlekedési csomóponton belüli legközelebbi jegyváltási lehetőségről az utasokat a helyszínen tájékoztatni.
+
+## 7. Az utasok tájékoztatása
+
+### 7. §
+
+(1) A vasúti társaság – Budapesten a vasúti társaság vagy a közlekedésszervező – az utasok tájékoztatását kiadványokkal, hirdetményekkel – ideértve a hivatalos honlapján, mobiltelefonos alkalmazással, sms-szolgáltatás útján közzétett hirdetményeket is –, a kiszolgáló személyzet szóbeli tájékoztatásával, információs berendezésekkel, szükség szerint információs szolgálattal biztosítja.
+
+(2) A vasúti társaság – Budapesten a vasúti társaság vagy a közlekedésszervező – az utasokat jogaikról, kötelezettségeikről, az igénybe vehető szolgáltatásokról, különösen az esetleges forgalmi zavarokról tájékoztatja. Ennek érdekében az állomásokon vagy a járműveken jól látható helyen kifüggeszti az utazási feltételeket és a menetrendi kivonatot. A vasúti társaság a járatok érkezési, indulási és tartózkodási idejéről, továbbá a járat kimaradásáról vagy késéséről a kiszolgáló személyzet, illetőleg az állomási tájékoztatási rendszer útján folyamatos tájékoztatást nyújt.
+
+(3)[^19] Az e rendeletben meghatározott személyszállítás esetén, ha a pályahálózat-működtető a műszaki, technológiai feltételek hiánya miatt nem képes a valós idejű adatszolgáltatásra az utasok tájékoztatása érdekében, akkor az EU rendelet 10. cikk (1) bekezdését nem kell alkalmazni.
+
+## 8. A felek jogai és kötelezettségei
+
+### 8. §
+
+(1)[^20] A vasúti társaság az EU rendelet I. melléklet 6. cikk (1) bekezdésében meghatározottakon túl köteles az utast az üzletszabályzatban meghatározottak feltételek szerint a célállomásra szállítani.
+
+(2) Az utas jogosult a járaton utazni, a kiszolgáló létesítményeket, berendezéseket használni, valamint a személyszállításhoz kapcsolódó szolgáltatásokat igénybe venni.
+
+(3)[^21] Az utas a menetrendben meghatározottak és az üzletszabályzat előírásainak megfelelő szolgáltatások igénybevételére jogosult.
+
+(4) Ha a vasúti társaság az utazást egyes járatokon felár megfizetéséhez köti, utazásra csak az jogosult, aki az adott járatra érvényesített pótjeggyel vagy helyjeggyel rendelkezik.
+
+(5) Az utas csak az állomásokon szállhat fel és le a járműről.
+
+(6) Az utas a személyszállítás – így különösen fel- és leszállás, várakozás, utazás – során tartózkodni köteles a közlekedés biztonságát, a közlekedési eszközök, az utaskiszolgáló létesítmények és berendezések épségét veszélyeztető, az utastársak kényelmét és nyugalmát zavaró magatartástól.
+
+(7) Az állomáson való tartózkodásra, a járművön való elhelyezkedésre és az utazás alatti magatartásra vonatkozó szabályokat a vasúti társaság az üzletszabályzatba foglalja, amelynek kivonatát – utazási feltételként – a járműben vagy az állomásokon jól látható helyen kifüggeszti.
+
+(8)[^22]
+
+(9)[^23]
+
+## 9. A személyszállítási szolgáltatás akadályoztatása
+
+### 9. §
+
+(1) A 14. § (4) bekezdésében meghatározott kivétellel a forgalmi akadályról az utazóközönséget az érintett állomásokon a vasúti társaság – Budapesten a vasúti társaság vagy a közlekedésszervező – tájékoztatni köteles. Az utas kérésére, a térségi, helyi és elővárosi járatok 15 percet meghaladó késéséről, valamint az akadály tényéről és időtartamáról a vasúti társaság igazolást ad.
+
+(2)[^24] A vasúti társaság a forgalmi akadály során követendő eljárást, a menetjegy érvényessége módosításának vagy érvénytelenítésének, továbbá az igazolás kiadásának részletes szabályait az üzletszabályzatban határozza meg.
+
+## 10. Szerződéstől való elállás
+
+### 10. §
+
+(1) E § rendelkezéseit a térségi működési engedély alapján végzett vasúti személyszállításra kell alkalmazni.
+
+(2)[^25] Az utas menetjegyének visszaváltását
+
+a) annak érvényességi idejének kezdete előtt bármely állomáson vagy
+
+b) annak érvényességi idején belül – ha az utazást nem kezdte meg – az indulási állomáson
+
+kezdeményezheti.
+
+(3)[^26] A felárbizonylat, valamint a meghatározott járatra érvényesített menetjegy visszaváltására az utas a vonat menetrend szerinti indulásáig jogosult.
+
+(3a)[^27] A (2) és a (3) bekezdés szerinti visszaváltás esetén a vasúti társaság a menetjegy árát az utasnak – az (5) és (6) bekezdésben foglaltakra is figyelemmel – visszatéríti.
+
+(4)[^28]
+
+(5)[^29] A visszatérítésekor a vasúti társaság az üzletszabályzatban meghatározott mértékű, de a visszatérítés összegének 20%-át meg nem haladó mértékű kezelési költséget számíthat fel.
+
+(6)[^30] A visszaváltás és a visszatérítés részletes feltételeit – ideértve a megítélt visszatérítés teljesítésének határidejét is, ami nem haladhatja meg a visszatérítési igény megítélésétől számított 30 napot – a vasúti társaság az üzletszabályzatban állapítja meg.
+
+## 11. Kézipoggyász, babakocsi, kerékpár
+
+### 11. §
+
+(1)[^31] A vasúti társaság az üzletszabályzatban meghatározza a kézipoggyász, a babakocsi, a roller és a kerékpár mérethatárait, valamint a járművön való elhelyezésük módját. A vasúti társaság az üzletszabályzatban a személyes használat körébe közvetlenül nem tartozó, túlméretes, a vasúti közlekedés biztonságát, az utasok ruházatának, a jármű berendezéseinek tisztaságát, épségét veszélyeztető, továbbá különösen értékes tárgyak szállítását kizárhatja, vagy további feltételekhez, illetve díjfizetéshez kötheti.
+
+(2)[^32] A fogyatékossággal élő vagy csökkent mozgásképességű személy kerekesszékére és egyéb mozgást segítő eszközére a mérethatárokra, valamint a díjmegállapításra vonatkozó rendelkezéseket nem kell alkalmazni.
+
+(3)[^33] A vasúti társaság az EU rendelet 6. cikk (5) bekezdése szerinti kerékpárszállítási tervet készít, amelyet megküld a vasúti igazgatási szervnek.
+
+## 12. Élő állat szállítása
+
+### 12. §
+
+(1) Élő állat kézipoggyász méretet meg nem haladó zárt szállítóeszközben szállítható, amely biztosítja, hogy az élő állat az utazás során nem szabadul ki.
+
+(2) Az (1) bekezdésben meghatározottaktól eltérően, a kutya zárt szállítóeszköz nélkül, szájkosárral és pórázon vezetve szállítható. Az utasnak rendelkeznie kell a kutya oltási bizonyítványával, és kérésre azt a vasúti személyzetnek fel kell mutatnia.
+
+(2a)[^34] A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A segítő kutya szállítása során a szájkosár és a póráz használata indokolt esetben mellőzhető.
+
+(3)[^35] Az élő állat szállítására vonatkozó egyéb szabályokat a vasúti társaság az üzletszabályzatban állapítja meg, és indokolt esetben az élő állat szállítását további feltételekhez kötheti.
+
+## 13. Különvonat
+
+### 13. §
+
+(1) A vasúti társaság köteles a különvonatokat a tájékoztató hirdetményben vagy a megrendelővel írásban megkötött szerződésben közölt indulási állomásra kiállítani, és az utasokat a célállomásra szállítani.
+
+(2)[^36] A különvonat közlekedtetésének szabályait a vasúti társaság az üzletszabályzatban határozza meg.
+
+## 14. Városi működési engedély alapján végzett vasúti személyszállítási szolgáltatásra vonatkozó eltérő rendelkezések
+
+### 14. §
+
+(1) A vasúti társaság lakott területen kívül az 5. § (2) bekezdésben meghatározottak ellenére is köteles biztosítani a továbbutazás lehetőségét az útközben orvosi ellátásra szoruló személy részére a legközelebbi olyan állomásig, ahol a szükséges egészségügyi ellátásban részesülhet. Lakott területen belül a járművezető közvetlenül vagy a diszpécser szolgálaton keresztül mentőt hív az útközben orvosi ellátásra szoruló személyhez és a járművezető – vagy metró esetében a helyszínen szolgálatot teljesítő diszpécser – a mentőt a helyszínen megvárja. A továbbutazás a legközelebbi állomásra csak akkor kötelező, ha a mentő kiérkezése a rosszullét helyszínére nem biztosítható.
+
+(2) A 6. § (9) bekezdésétől eltérően, ha a vasúti társaság a járműre történő fel- és leszállásra kijelölt peronon vagy a járművön nem biztosítja a menetjegyvásárlás lehetőségét, köteles a legközelebbi jegyváltási lehetőségről az utasokat a helyszínen tájékoztatni.
+
+(3) A 8. § (5) bekezdésében meghatározott eseteken túl, ha forgalmi akadály miatt a villamos hosszabb ideig nem tud a megállóhelyre beállni és az utasok biztonságos leszállása a megállóközben is megoldható, akkor a járművezető vagy a helyszíni zavarelhárító felügyelete alatt az utasok elhagyhatják a járművet és gyalog folytathatják útjukat vagy átszállhatnak a pótlásra érkezett másik járműre.
+
+(4) A 9. § (1) bekezdésétől eltérően a forgalmi akadályról az utazóközönséget az elektronikus kijelzővel vagy hangosítással felszerelt megállóhelyeken a vasúti társaság tájékoztatni köteles.
+
+## 15. Záró rendelkezések
+
+### 15. §
+
+Ez a rendelet 2016. szeptember 1-jén lép hatályba.
+
+### 15/A. §[^37]
+
+A 7. § (3) bekezdése 2030. június 7-én hatályát veszti.
+
+### 16. §
+
+(1) E rendelet rendelkezéseit a hatálybalépését követően jóváhagyásra benyújtott személyszállítási üzletszabályzatokra kell alkalmazni.
+
+(2) A vasúti társaság e rendelet rendelkezéseinek megfelelő személyszállítási üzletszabályzatát vagy annak módosítását legkésőbb 2016. december 1-jéig köteles jóváhagyásra benyújtani a vasúti igazgatási szervhez. Ha a személyszállítási üzletszabályzat módosítására csak e rendelet előírásainak való megfelelés érdekében kerül sor, az eljárás díjtalan.
+
+### 16/A. §[^38]
+
+A vasúti társaság az e rendeletnek a vasúti közlekedési tárgyú kormányrendeletek jogharmonizációs célú módosításáról szóló 223/2023. (VI. 6.) Korm. rendelettel (a továbbiakban: Módr.2) megállapított 11. § (3) bekezdése szerinti kerékpárszállítási tervet első alkalommal a Módr.2 hatálybalépését[^39] követő egy éven belül készíti el és küldi meg a vasúti igazgatási szervnek.
+
+### 16/B. §[^40]
+
+(1) Ha az üzletszabályzat módosítására csak e rendeletnek a személyszállítási feltételekre vonatkozó egyes kormányrendeletek módosításáról szóló 255/2025. (VIII. 11.) Korm. rendelet (a továbbiakban: Módr.3) előírásainak való megfelelés érdekében kerül sor, az eljárás díjtalan.
+
+(2) A Módr.3-mal megállapított 10. § (2) és (3) bekezdése szerinti menetjegy-visszaváltási szabályokat kizárólag a Módr.3 hatálybalépését[^41] követően megvásárolt menetjegyek esetében kell alkalmazni.
+
+### 17. §[^42]
+
+Ez a rendelet a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3a) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (4) bekezdése a 119/2026. (VIII. 5.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^5]: Az 1. § (5) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (6) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (7) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^8]: A 2. § a 255/2025. (VIII. 11.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés a) pontja a 255/2025. (VIII. 11.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (5) bekezdését a 255/2025. (VIII. 11.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^15]: A 6. § (1) bekezdés nyitó szövegrésze a 223/2023. (VI. 6.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdés b) pontja a 255/2025. (VIII. 11.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^17]: A 6. § (4) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.
+[^18]: A 6. § (5) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 14. §-a iktatta be.
+[^20]: A 8. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 20. § d) pontja, a 255/2025. (VIII. 11.) Korm. rendelet 36. § e) pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § f) pontja szerint módosított szöveg.
+[^22]: A 8. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 15. §-a iktatta be, a 409/2023. (VIII. 30.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^23]: A 8. § (9) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 15. §-a iktatta be, a 409/2023. (VIII. 30.) Korm. rendelet 32. §-a hatályon kívül helyezte. [Nem vezethető át a 223/2023. (VI. 6.) Korm. remdelet 20. § e) pontjában foglalt azon módosítás, amely szerint a 8. § (9) bekezdésben a „36 óra” szövegrész helyébe a „24 óra” szöveg lép.]
+[^24]: A 9. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § g) pontja szerint módosított szöveg.
+[^25]: A 10. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^26]: A 10. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^27]: A 10. § (3a) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdése iktatta be, szövege a 255/2025. (VIII. 11.) Korm. rendelet 36. § h) pontja szerint módosított szöveg.
+[^28]: A 10. § (4) bekezdését a 255/2025. (VIII. 11.) Korm. rendelet 37. §-a hatályon kívül helyezte.
+[^29]: A 10. § (5) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § i) pontja szerint módosított szöveg.
+[^30]: A 10. § (6) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 36. § (2) bekezdésével megállapított, a 255/2025. (VIII. 11.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
+[^31]: A 11. § (1) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^32]: A 11. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^33]: A 11. § (3) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 16. §-a iktatta be.
+[^34]: A 12. § (2a) bekezdését a 255/2025. (VIII. 11.) Korm. rendelet 34. §-a iktatta be.
+[^35]: A 12. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § k) pontja szerint módosított szöveg.
+[^36]: A 13. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 36. § l) pontja szerint módosított szöveg.
+[^37]: A 15/A. §-t a 223/2023. (VI. 6.) Korm. rendelet 17. §-a iktatta be.
+[^38]: A 16/A. §-t a 223/2023. (VI. 6.) Korm. rendelet 18. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2023. június 7.
+[^40]: A 16/B. §-t a 255/2025. (VIII. 11.) Korm. rendelet 35. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2025. szeptember 11.
+[^42]: A 17. § a 223/2023. (VI. 6.) Korm. rendelet 19. §-ával megállapított szöveg.

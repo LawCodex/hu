@@ -1,0 +1,275 @@
+---
+title: "285/2013. (VII. 26.) Korm. rendelet a Stipendium Hungaricumról"
+identifier: "285/2013. (VII. 26.) Korm. rendelet"
+njt_id: "2013-285-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/285"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-07-26
+in_force_from: 2013-08-03
+last_amended: 2023-12-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-285-20-22"
+retrieved: 2026-10-12
+---
+
+# 285/2013. (VII. 26.) Korm. rendelet a Stipendium Hungaricumról
+
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában, a 10. § tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés c) pontjában, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 8. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva, a következőket rendeli el:
+
+## 1. §[^1]
+
+(1)[^2] A Stipendium Hungaricum (a továbbiakban: ösztöndíjprogram) a Kormány által alapított ösztöndíj, amelynek célja a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó kormányközi megállapodások végrehajtása érdekében a külföldi hallgatók magyar felsőoktatási intézményekben folytatandó tanulmányainak kiemelt támogatása. Az ösztöndíjprogram végrehajtásának részleteit a külpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a külföldi partner illetékes szervével (a továbbiakban: küldő fél) kötött megállapodása szabályozza az e rendelet és a vonatkozó kormányközi megállapodás előírásainak megfelelően.
+
+(2) Az ösztöndíjprogram végrehajtása során a miniszter érvényesíti hazánk közép- és hosszú távú külpolitikai és külgazdasági stratégiai célkitűzéseit, valamint nemzetközi fejlesztési együttműködési célkitűzéseit.
+
+## 2. §
+
+(1)[^3] Az ösztöndíjprogram működtetéséért a miniszter felel. A felsőoktatásért felelős miniszter közreműködik az ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai szempontok érvényesítése révén.
+
+(2)[^4] Az ösztöndíjprogram lebonyolítását a Tempus Közalapítvány (a továbbiakban: Közalapítvány) látja el. A miniszter az ösztöndíjprogram működtetésével összefüggő szakmai irányítási feladatkörében a Közalapítvány kuratóriumába tagot delegál.
+
+(3)[^5] Az ösztöndíjak és az ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetési fejezetében kell tervezni. A minisztérium a minisztérium költségvetési fejezete terhére a programban részt vevő felsőoktatási intézmények (a továbbiakban: intézmények) rendelkezésére bocsátja támogatói okirat vagy fejezetek közötti megállapodás formájában az ösztöndíjak, a külföldi hallgatói helyek önköltsége, a lakhatási támogatás, az egészségügyi hozzájárulás, a szervezési átalány, és a 7. § (4) bekezdés c) pontja esetén a magyar nyelvi képzési átalány összegét, illetve biztosítja az ösztöndíjprogram működtetésének költségeit a Közalapítvány számára, továbbá biztosítja a minisztérium által közvetlenül ellátandó feladatok végrehajtását.
+
+(3a)[^6]
+
+(3b)[^7]
+
+(3c)[^8] Az intézmények a részükre az e rendelet alapján megállapított és rendelkezésre bocsátott támogatás rendeltetésszerű felhasználásáról – az ösztöndíjprogram megvalósításához kapcsolódó költségeket igazoló számviteli bizonylatok benyújtása nélkül – a költségvetési évre vonatkozó jogosult hallgatói létszám alapján számolnak be a támogatói okiratban vagy fejezetek közötti megállapodásban meghatározott tartalommal és határidőben.
+
+(3d)[^9] Az e rendelet alapján nyújtott költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 93. § (1a) bekezdését és (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az ösztöndíjprogram megvalósításához kapcsolódó költségekről készített összesítő kötelező tartalmi elemeit a támogatói okiratban vagy fejezetek közötti megállapodásban kell meghatározni.
+
+(4)[^10] Az ösztöndíjast az ösztöndíjszerződés időtartamára az alábbi juttatások illetik meg:
+
+a) mentesség az oktatás önköltségének megtérítése alól,
+
+b) ösztöndíj, melynek mértékét – az államháztartásért felelős miniszter egyetértésével – és feltételeit a miniszter határozza meg, és az ösztöndíjprogram működési szabályzatában teszi közzé,
+
+c) kollégiumi elhelyezés vagy lakhatási támogatás,
+
+d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 81. § (1) bekezdése szerinti szolgáltatások és (2) bekezdésében foglalt előírások,
+
+e)[^11] egészségügyi szolgáltatás a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont id) alpontja alapján, valamint
+
+f)[^12] egészségügyi hozzájárulás.
+
+## 3. §[^13]
+
+(1)[^14] A Közalapítvány kuratóriuma
+
+a) dönt az ösztöndíj odaítéléséhez szükséges hallgatói és az ösztöndíjasok fogadásához szükséges intézményi pályázat eredményéről,
+
+b) jóváhagyja a program végrehajtási útmutatóját, a hallgatói és intézményi pályázati felhívást,
+
+c) elfogadja az ösztöndíjprogram működési szabályzatát.
+
+(2) A miniszter jóváhagyja
+
+a) az ösztöndíjprogram működési szabályzatát,
+
+b) az ösztöndíjprogram végrehajtásával kapcsolatos éves beszámolót.
+
+## 4. §[^15]
+
+Az ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
+
+a) a miniszterrel előzetesen egyeztetett iránymutatások alapján kidolgozza a hallgatói és intézményi pályázati felhívást, az ösztöndíjprogram működési szabályzatát, valamint a program végrehajtási útmutatóját,
+
+b) a honlapján közzéteszi a hallgatói és intézményi pályázati felhívást és az ösztöndíjprogram működési szabályzatát,
+
+c) lefolytatja a hallgatói pályázati eljárásokat,
+
+d) gondoskodik az ösztöndíjprogram részét képező egyéb programok megszervezéséről és lebonyolításáról,
+
+e) lefolytatja az intézményi pályázati eljárást, amely során a felsőoktatási intézmények – a küldő fél által meghatározott igényeknek megfelelően kidolgozott – intézményi pályázatokat nyújtanak be,
+
+f) kapcsolatot tart az ösztöndíjprogramban részt vevő intézményekkel.
+
+## 5. §[^16]
+
+Az ösztöndíjprogram működési szabályzata magában foglalja
+
+a) az ösztöndíjasok képzésének, előmenetelének monitorozását,
+
+b) az ösztöndíjasok havi ösztöndíj mértékének meghatározási rendszerét,
+
+c) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésminta kötelező elemeit,
+
+d) az intézményi és hallgató pályáztatás, valamint kiválasztás alapelveit, beleértve a pályázók körét,
+
+e) az ösztöndíjas számára nyújtandó hallgatói szolgáltatások körét,
+
+f) az intézményekkel kötendő keretmegállapodás-minta kötelező elemeit,
+
+g) a programban alkalmazandó külföldi hallgatói helyek önköltsége meghatározásának rendszerét,
+
+h) az ösztöndíjasok jogait és kötelezettségeit,
+
+i) az intézmények jogait és kötelezettségeit,
+
+j) a miniszteri jelölés rendjét,
+
+k)[^17] az ösztöndíjas jogviszony megszűnésének és megszüntetésének eseteit.
+
+l)[^18] a kötelező egészségügyi protokollt.
+
+## 6. §
+
+(1)[^19] A Közalapítvány az ösztöndíjra a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján hallgatói pályázatot hirdet meg magyar felsőoktatási intézményben folytatandó tanulmányokra önköltséges helyre.
+
+(2)[^20] A hallgatói pályázati felhívás tartalmazza a pályázati feltételeket, a pályázat benyújtásának határidejét, az értékelés szempontrendszerét, a hallgatóknak biztosított ösztöndíj aktuális mértékét és a tanulmányi előmenetellel összefüggő követelményeket.
+
+(3)[^21] Érvényes hallgatói pályázatot az a pályázó nyújthat be:
+
+a)[^22] akit a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján a küldő fél vagy az arra felhatalmazott szervezet arra jelöl, vagy aki a miniszter – az ösztöndíjprogram működési szabályzatában meghatározott eljárás szerint a Közalapítvány kuratóriuma részére megadott – egyedi hozzájárulása esetén az ösztöndíjprogramban részt vevő intézmény támogatott képzésére felvételt nyer,
+
+b) aki vállalja, hogy az ösztöndíj elnyerését követően ösztöndíjszerződést köt, és
+
+c)[^23] aki korábban ugyanazon a képzési szinten nem vett részt az ösztöndíjprogramban.
+
+d)[^24] aki vállalja az 5. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségek teljesítését.
+
+(4)[^25] A pályázat benyújtásakor a pályázónak csatolnia kell nyilatkozatát arra vonatkozóan, hogy hozzájárul személyes adatainak a pályázati eljárás során és az ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez.
+
+(5)[^26] A hallgatói pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát és a végrehajtási útmutatót a Közalapítvány hivatalos honlapján kell közzétenni.
+
+(6)[^27] Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. Az ösztöndíjat a miniszter megbízásából a Közalapítvány adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.
+
+(7)[^28] Az ösztöndíjassal a fogadó intézmény (a továbbiakban: felek) ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
+
+(8)[^29] Az Nftv. 80. § (2) bekezdés h) pont hc) alpontja alapján a miniszter az általa működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
+
+## 7. §[^30]
+
+(1)[^31] A külföldi hallgatói helyek önköltségének mértéke az intézményi pályázat alapján – az 5. § g) pontjában meghatározott rendszer figyelembevételével – meghatározott összeg, mely tartalmazza az Nftv. 81. § (1) bekezdése szerinti szolgáltatásokat.
+
+(2) Az ösztöndíj a hallgatói jogviszonyban álló ösztöndíjas részére tanulmányai során folyósítandó, ha az adott tanulmányi időszakban aktív hallgatói jogviszonnyal rendelkezik.
+
+(2a)[^32] Annak az ösztöndíjasnak, aki a program keretében oklevelet szerez a tavaszi félév végén, és az adott évi új pályázati eljárásban magasabb képzési szinten ösztöndíjat nyer, az oklevélszerzés félévében hatályos ösztöndíjas szerződése az adott év augusztus 31-ig meghosszabbodik, és megilletik az ösztöndíjas juttatások.
+
+(3)[^33] Az ösztöndíjast a fogadó felsőoktatási intézmény hallgatói követelményrendszerében, valamint az ösztöndíjprogram működési szabályzatában, a végrehajtási útmutatóban, az ösztöndíjas szerződésben, a vonatkozó jogszabályokban és a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában rögzített jogok és kötelezettségek illetik meg, illetve terhelik.
+
+(4)[^34] Ösztöndíjas hallgatók fogadásának feltétele, hogy
+
+a)[^35] az intézmény intézményi pályázatot nyújtson be és nyerjen el, és ez alapján az intézmény és a Közalapítvány keretmegállapodást kössön, kivéve a *d)* pontban meghatározott képzéseket,
+
+b)[^36] az intézmény az ösztöndíjprogram működési szabályzatában és a végrehajtási útmutatóban meghatározottak szerint tájékoztassa az ösztöndíjast, mentori és tanácsadási szolgáltatásokat nyújtson számukra, továbbá az ösztöndíjas időszak végén adatszolgáltatást adjon a Közalapítvány Stipendium Hungaricum alumni és nemzetköziesedési rendszere számára, valamint teljeskörűen együttműködjön a Közalapítvány által szervezett alumni és nemzetköziesedési tevékenységekben a 6. § (4) bekezdése alapján,
+
+c)[^37] a magyar nyelvű egyéves felsőoktatási előkészítő képzésen részt vett, és ezt követően magyar nyelvű felsőoktatási képzésre felvételt nyert ösztöndíjasok esetében a felsőoktatási intézmény vállalja az ösztöndíjas magyar nyelvi képzésének folytatását az ösztöndíjas felsőoktatási tanulmányai alatt az Nftv. 80. § (2) bekezdés d) pontja alapján,
+
+d)[^38] a minisztérium vagy az általa ezen közfeladat ellátásával megbízott intézmény által szervezett magyar nyelvi előkészítő képzés esetében a minisztérium vagy az általa ezen közfeladat ellátásával megbízott intézmény és a Közalapítvány, illetve a felsőoktatási intézmények által indított magyar nyelvű képzések esetében az intézmény és a Közalapítvány keretmegállapodást kössön.
+
+(5) Az intézmény a 7. § (4) bekezdés c) pontja esetén jogosult a képzési költségén felül magyar nyelvi képzési átalány támogatásra.
+
+## 8. §
+
+(1) Az ösztöndíjas szerződésnek tartalmaznia kell:
+
+a)[^39] az adott szakra vonatkozó képzési és kimeneti követelményben meghatározott képzési időt, illetve az Nftv. 80. § (2) bekezdés d) pontja szerinti előkészítő tanulmányok időtartamát;
+
+b)[^40] az ösztöndíjnak a program működési szabályzatában meghatározott havi összegét és annak kifizetése időpontját, módját;
+
+c) a más felsőoktatási intézménybe történő átvétel rendjét;
+
+d) az adatkezeléshez való hozzájárulást;
+
+e) azt a feltételt, hogy az ösztöndíjas szerződés abban az időpontban lép hatályba, amikor az ösztöndíjas hallgatói jogviszonyt létesít;
+
+f)[^41] az ösztöndíjas jogviszony, valamint a felsőoktatási tanulmányok szüneteltetésének és megszűnésének rendjét, valamint
+
+g)[^42] az 5. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségeket.
+
+(2)[^43] Az ösztöndíjas szerződés – az Nftv. 59. § (1) bekezdés a) pontjában, valamint a 7. § (2a) bekezdésében foglalt kivétellel – megszűnik, ha az ösztöndíjas hallgatói jogviszonya megszűnik.
+
+(2a)[^44] Doktori képzésben abszolutóriumot szerzett, de doktori fokozatot még nem szerzett ösztöndíjasnak az ösztöndíjas szerződése és jogviszonya szünetel, a doktori fokozat megszerzése hiányában 1 év után megszűnik. Amennyiben az erre vonatkozó külön pályázati eljárásban ösztöndíjat nyer, az abszolutórium megszerzését követően maximum 12 hónapra szóló ösztöndíjban részesíthető.
+
+(3)[^45]
+
+## 9. §
+
+(1) Az ösztöndíjas az ösztöndíjas szerződésben foglaltak szerint köteles a felvételi vagy átvételi határozatban érintett felsőoktatási intézménnyel hallgatói jogviszonyt létesíteni és azt az ösztöndíj folyósítási idejének megfelelő időtartamban fenntartani.
+
+(2)[^46] Ha az ösztöndíjas hallgatói jogviszonya megszűnik, részére a továbbiakban – a 7. § (2a) bekezdésében foglalt kivétellel – az ösztöndíj nem folyósítható. Ha az ösztöndíjas a hallgatói jogviszonyát szünetelteti, a szüneteltetés ideje alatt részére az ösztöndíj nem folyósítható.
+
+(3)[^47] A felsőoktatási intézmény az Nftv. 3. melléklet I/B. fejezet 1. pont h) alpontja szerinti, az ösztöndíjjal kapcsolatos adatszolgáltatási kötelezettségének a felsőoktatási információs rendszer útján tesz eleget.
+
+## 10. §
+
+(1)–(2)[^48]
+
+(3)–(4)[^49]
+
+(5)[^50]
+
+## 11. §
+
+(1) E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
+
+(2) A 10. § (1), (2) és (5) bekezdése 2013. szeptember 1-jén lép hatályba.
+
+(3)[^51] E rendeletnek a Magyar Állami Eötvös Ösztöndíjról szóló 54/1994. (IV. 13.) Korm. rendelet, valamint a Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet módosításáról szóló 81/2015. (III. 31.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit első alkalommal a 2015/2016. őszi félévre meghirdetett pályázatokra kell alkalmazni. Az R. hatálybalépésekor[^52] folyamatban lévő pályázati eljárásokat a Magyar Ösztöndíj Bizottságnak 2015. április 15-ig kell jóváhagynia.
+
+(4)[^53] E rendeletnek a Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet módosításáról szóló 282/2017. (IX. 22.) Korm. rendelettel megállapított 2. § (4) bekezdés f) pontját első alkalommal a 2018/2019. tanévtől tanulmányaikat megkezdő ösztöndíjasokra kell alkalmazni.
+
+(5)[^54] E rendeletnek a Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet módosításáról szóló 282/2017. (IX. 22.) Korm. rendelettel megállapított 8. § (1) bekezdés f) pontját első alkalommal a 2018/2019. őszi félévre meghirdetett pályázatokra kell alkalmazni.
+
+## 1. melléklet a 285/2013. (VII. 26.) Korm. rendelethez[^55]
+
+---
+
+[^1]: Az 1. § a 351/2019. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése az 581/2021. (X. 12.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 138/2019. (VI. 13.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdését a 81/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 138/2019. (VI. 13.) Korm. rendelet 3. §-ával megállapított, a 351/2019. (XII. 23.) Korm. rendelet 14. § a) pontja, az 581/2021. (X. 12.) Korm. rendelet 7. § b) pontja, az 548/2023. (XII. 12.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (3a) bekezdését a 203/2020. (V. 14.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte az 581/2021. (X. 12.) Korm. rendelet 8. § a) pontja.
+[^7]: A 2. § (3b) bekezdését a 203/2020. (V. 14.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte az 581/2021. (X. 12.) Korm. rendelet 8. § a) pontja.
+[^8]: A 2. § (3c) bekezdését a 203/2020. (V. 14.) Korm. rendelet 14. §-a iktatta be, szövege az 581/2021. (X. 12.) Korm. rendelet 7. § c)–d) pontja, az 548/2023. (XII. 12.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § (3d) bekezdését a 203/2020. (V. 14.) Korm. rendelet 14. §-a iktatta be, szövege az 581/2021. (X. 12.) Korm. rendelet 7. § d) pontja, az 548/2023. (XII. 12.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § (4) bekezdését a 81/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 351/2019. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 2. § (4) bekezdés e) pontja az 581/2021. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. § (4) bekezdés f) pontja az 581/2021. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 3. § a 282/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 3. § (1) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 4. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: Az 5. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^17]: [Az 5. § k) pontjának az 581/2021. (X. 12.) Korm. rendelet 7. § e) pontjával elrendelt módosítása, amely szerint az „eseteit,” szövegrész helyébe az „eseteit, valamint” szöveg lép, nem vezethető át.]
+[^18]: Az 5. § l) pontját az 581/2021. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 6. § (1) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § d) pontja, a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^20]: A 6. § (2) bekezdése a 282/2017. (IX. 22.) Korm. rendelet 10. § d) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 27. § (1) bekezdésével megállapított, nyitó szövegrésze a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^22]: A 6. § (3) bekezdés a) pontja a 282/2017. (IX. 22.) Korm. rendelet 6. §-ával megállapított, a 351/2019. (XII. 23.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^23]: [A 6. § (3) bekezdés c) pontjának az 581/2021. (X. 12.) Korm. rendelet 7. § f) pontjával elrendelt módosítása, amely szerint az „ösztöndíjprogramban,” szövegrész helyébe az „ösztöndíjprogramban, és” szöveg lép, nem vezethető át.]
+[^24]: A 6. § (3) bekezdés d) pontját az 581/2021. (X. 12.) Korm. rendelet 3. §-a iktatta be.
+[^25]: A 6. § (4) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 282/2017. (IX. 22.) Korm. rendelet 10. § e) pontja, az 581/2021. (X. 12.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^26]: A 6. § (5) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 6. § (6) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A 6. § (7) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^29]: A 6. § (8) bekezdését az 581/2021. (X. 12.) Korm. rendelet 4. §-a iktatta be.
+[^30]: A 7. § a 282/2017. (IX. 22.) Korm. rendelet 7. §-ával megálapított szöveg.
+[^31]: A 7. § (1) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^32]: A 7. § (2a) bekezdését a 351/2019. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^33]: A 7. § (3) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^34]: A 7. § (4) bekezdés nyitó szövegrésze a 351/2019. (XII. 23.) Korm. rendelet 14. § e) pont ea) alpontja szerint módosított szöveg.
+[^35]: A 7. § (4) bekezdés a) pontja a 351/2019. (XII. 23.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^36]: A 7. § (4) bekezdés b) pontja a 351/2019. (XII. 23.) Korm. rendelet 14. § e) pont eb)–ec) alpontja, az 581/2021. (X. 12.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^37]: A 7. § (4) bekezdés c) pontja a 351/2019. (XII. 23.) Korm. rendelet 14. § e) pont ed) alpontja szerint módosított szöveg.
+[^38]: A 7. § (4) bekezdés d) pontját a 351/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege az 581/2021. (X. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 8. § (1) bekezdés a) pontja a 282/2017. (IX. 22.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^40]: A 8. § (1) bekezdés b) pontja a 351/2019. (XII. 23.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^41]: A 8. § (1) bekezdés f) pontját a 81/2015. (III. 31.) Korm. rendelet 6. §-a iktatta be, szövege a 351/2019. (XII. 23.) Korm. rendelet 11. §-ával megállapított, az 581/2021. (X. 12.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^42]: A 8. § (1) bekezdés g) pontját az 581/2021. (X. 12.) Korm. rendelet 6. §-a iktatta be.
+[^43]: A 8. § (2) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^44]: A 8. § (2a) bekezdését a 351/2019. (XII. 23.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege az 581/2021. (X. 12.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^45]: A 8. § (3) bekezdését az 581/2021. (X. 12.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^46]: A 9. § (2) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^47]: A 9. § (3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^48]: A 10. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 10. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 10. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 11. § (3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 37. §-a hatályon kívül helyezte, újonnan a 81/2015. (III. 31.) Korm. rendelet 7. §-a iktatta be.
+[^52]: A hatálybalépés időpontja 2015. április 1.
+[^53]: A 11. § (4) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 37. §-a hatályon kívül helyezte, újonnan a 282/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^54]: A 11. § (5) bekezdését a 282/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^55]: Az 1. mellékletet a 81/2015. (III. 31.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte az 581/2021. (X. 12.) Korm. rendelet 8. § c) pontja.

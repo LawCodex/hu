@@ -1,0 +1,2019 @@
+---
+title: "169/2010. (V. 11.) Korm. rendelet a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről"
+identifier: "169/2010. (V. 11.) Korm. rendelet"
+njt_id: "2010-169-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/169"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-05-11
+in_force_from: 2010-05-14
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-169-20-22"
+retrieved: 2026-10-12
+---
+
+# 169/2010. (V. 11.) Korm. rendelet a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről
+
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés v) pontjában,
+
+a 47. § tekintetében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés b) pontjában,
+
+a 48. § tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) pontjában,
+
+a 49. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában,
+
+az 50. § tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés c) pontjában
+
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+
+a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1)[^1] E rendelet hatálya kiterjed:
+
+a) a légiközlekedési hatóságra,
+
+b) az általános rendőrségi feladatok ellátására létrehozott szervre,
+
+c)[^2]
+
+d) az Alkotmányvédelmi Hivatalra (a továbbiakban: AH),
+
+e) a vámhatóságra,
+
+f) a hivatásos katasztrófavédelmi szervre,
+
+g) a repülőtér tűzoltóvédelmi kategóriáját és polgári védelmi feladatait biztosító szervezetre,
+
+h) a légiközlekedési szállítási tevékenységben részt vevő, vagy ilyet felajánló személyre, szervezetre vagy vállalkozásra,
+
+i) működési engedéllyel vagy azzal egyenértékű okmánnyal rendelkező légiközlekedési vállalkozásra (a továbbiakban: légi fuvarozó) [a továbbiakban a h)–i) pontok együtt: légitársaság],
+
+j) a repülőtér üzemben tartójára,
+
+k) a légiforgalmi irányító szolgálatot ellátó szervezetre (a továbbiakban: légiforgalmi irányító szolgálat),
+
+l) a repülőtér légi oldalán belül telephellyel rendelkező légijármű karbantartó, és javító szervezetre, valamint a légiközlekedési szállítási tevékenységben részt vevő légijármű karbantartó, légijármű és javító szervezetre (a továbbiakban együtt: karbantartó és javító szervezet),
+
+m)[^3] a földi kiszolgálási tevékenységet végző gazdálkodó szervezetekre, meghatalmazott ügynökre, ismert szállítóra, a 100 főnél több munkavállalót foglalkoztató vámmentes boltra, biztonsági vállalkozásra, fedélzeti ellátmány meghatalmazott beszállítójára, fedélzeti ellátmány ismert beszállítójára (a továbbiakban együtt: egyéb jogalany),
+
+n) a légitársasággal személyszállítási szerződést kötött, a magáncélú repülést vagy a vállalati célú repülést igénybe vevő személyre (a továbbiakban: utas)
+
+na) a repülőtér valamennyi területére belépés, valamint a légijármű fedélzetére lépésre vonatkozó szabályok,
+
+nb) az utas, a feladott poggyász és a kézipoggyász átvizsgálásra vonatkozó szabályok és
+
+nc) a légijármű fedélzetén tartózkodás szabályai
+
+tekintetében,
+
+o)[^4] a katonai légügyi hatóságra.
+
+p)[^5] a Nemzetbiztonsági Szakszolgálatra.
+
+q)[^6] a Katonai Nemzetbiztonsági Szolgálatra,
+
+r)[^7] a Nemzeti Információs Központra.
+
+(2) A légiközlekedés védelmi tevékenységre a 46. §-ban felsorolt uniós jogi aktusok a légiközlekedésről szóló 1995. évi XCVII. törvényben, valamint az e rendeletben foglaltakkal együttesen alkalmazandóak.
+
+## 2. Értelmező rendelkezések
+
+### 2. §[^8]
+
+E rendelet alkalmazásában
+
+1\. *ATM rendszer:* a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 7. pontja szerinti ATM/ANS rendszer;
+
+2\. *biztonsági vállalkozás:* a 7. pont szerinti védelmi ellenőrzések végzésével, repülőgép átvizsgálásával, őrzési tevékenységgel foglalkozó vállalkozás;
+
+3\. *együttműködő hatóság:* az 1. § (1) bekezdés a)–f) és o)–r) pontjában felsorolt, a légiközlekedés elleni jogellenes cselekmények megelőzésében és felszámolásában közreműködő hatóságok;
+
+4\. *hoax:* olyan információ, amely alkalmas arra, hogy az információ címzettjét megtévessze, és ezzel a légiközlekedés védelmébe vetett bizalmat csorbítsa;
+
+5\. *ICAO Szerződő Állam:* a Chicagóban, 1944. december 7-én aláírt Egyezmény részes állama;
+
+6\. *kibertámadás:* információbiztonsági-rendszerbe történő jogellenes beavatkozás;
+
+7\. *légiközlekedés védelmében közreműködő szervezet:* az 1. § (1) bekezdés g)–m) pontjában felsorolt szervezetek;
+
+8\. *légiközlekedés védelmi ellenőrzés:* az utas, a kézipoggyász, az utastól különböző személy és személyes tárgyai, a feladott poggyász, a járművek, az áru és postai küldemények, a légifuvarozói postai küldemények és légifuvarozói anyagok, a fedélzeti ellátmány és a repülőtéri készletek átvizsgálása tiltott tárgyak bevitelének megakadályozása céljából;
+
+9\. *légiszállítási tevékenység:* gazdálkodó szervezet tulajdonát képező, általa bérelt, lízingelt légijármű nem közvetlenül gazdasági célból folytatott légiközlekedési tevékenysége és személyek, áruk és postai küldemények ellenérték fejében légi úton történő továbbítása;
+
+10\. *védelmi szakértő:* olyan személy, aki légiközlekedési védelmi szakértőként szerepel a közlekedési területeken végzett szakértői tevékenység folytatásának részletes feltételeiről, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokról szóló 14/2010. (II. 5.) Korm. rendelet szerinti nyilvántartásban.
+
+## 3. A Légiközlekedés Védelmi Bizottság összetétele, jogköre, feladatai és működési rendje
+
+### 3. §
+
+(1)[^9] A Légiközlekedés Védelmi Bizottság (a továbbiakban: LVB) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. § (1) bekezdése alapján működő testület, amelynek tagja a közlekedésért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a külpolitikáért felelős miniszter, az adópolitikáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, továbbá az LVB titkára.
+
+(2)[^10] A tagok helyettesíthetőek. A tagokat az általuk kijelölt állami vezető, kormánytisztviselő, vagy
+
+a) a honvédelemért felelős miniszter esetében a Magyar Honvédség hivatásos és szerződéses állományú tagja,
+
+b)[^11] a rendészetért felelős miniszter esetében a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
+
+c) a polgári nemzetbiztonsági szolgálatokat irányító miniszter esetében a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja
+
+helyettesíti.
+
+(3)[^12] Az LVB munkájában a közlekedésért felelős miniszter, a katonai légügyi hatóság vezetője, az országos rendőrfőkapitány, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a Nemzetbiztonsági Szakszolgálat főigazgatója és az AH főigazgatója vehet részt. Az LVB ülésén az LVB titkárának – az ülés napirendjének összeállítását megelőző – javaslatára meghívottként részt vehet az LVB elnöke által meghívott személy vagy szervezet képviselője.
+
+(4)[^13] Az LVB elnöke a rendészetért felelős miniszter, titkára a közlekedésért felelős miniszter által kijelölt kormánytisztviselő.
+
+(5) Az LVB az ügyrendje alapján jogosult munkáját segítő szakértői munkacsoportot létrehozni.
+
+### 4. §
+
+Az LVB
+
+a) rendszeresen áttekinti a polgári légiközlekedés és létesítményei biztonságának helyzetét,
+
+b) javaslatot tesz a légiközlekedés védelme érdekében szükséges jogszabály-módosításokra és egyéb intézkedésekre,
+
+c)[^14]
+
+d) tájékoztatást kér a honvédelemről és a Magyar Honvédségről szóló törvény szerinti műveleti rendszer működésében közreműködő, annak végrehajtása miatt esetlegesen bekövetkező hatások megelőzésében, felszámolásában és semlegesítésében hatáskörrel rendelkező szervektől a feladatkörükben végrehajtott felkészülésükről, az alkalmazni kívánt intézkedési tervükről és a végrehajtott gyakorlatokról.
+
+## 4. A légiközlekedés védelmének követelményei
+
+### 5. §[^15]
+
+(1) Az együttműködő hatóságok és a légiközlekedés védelmében közreműködő szervezetek a nemzeti légiközlekedés védelmi programokban a részükre előírt feladatokat kötelesek végrehajtani.
+
+(2) A repülőtér üzemben tartója, a légitársaság, az egyéb jogalany és a légiforgalmi irányító szolgálat légiközlekedés védelmi feladatai ellátása során a légiközlekedés védelmét szabályozó nemzetközi szerződésben foglalt kötelezettségek, továbbá az európai uniós jogi aktusok és azok végrehajtására kiadott hazai jogszabályok alkalmazása során keletkező hiányosságokkal összefüggő információkról soron kívül tájékoztatja
+
+a) a légiközlekedési hatóságot,
+
+b) az általános rendőrségi feladatok ellátására létrehozott szervet,
+
+c) az AH-t,
+
+d)[^16]
+
+e) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
+
+f) a hivatásos katasztrófavédelmi szervet, ha az információ a 16/A. § szerinti feladatát érinti.
+
+## 5. A Nemzeti Polgári Légiközlekedés Védelmi Program
+
+### 6. §
+
+(1) A Nemzeti Polgári Légiközlekedés Védelmi Program célja a légiközlekedés védelme és jogellenes cselekmények megelőzése érdekében szükséges stratégiai döntések meghatározása, valamint az 1. § (1) bekezdés szerinti szervezetek együttműködésének összehangolását biztosító intézkedések kidolgozása.
+
+(2)[^17] A légiközlekedés védelmében közreműködő szervezetnek
+
+a) a Nemzeti Polgári Légiközlekedés Védelmi Programban foglaltak alapján kidolgozott és jóváhagyott védelmi programmal (a továbbiakban: védelmi program),
+
+b) a védelmi programon alapuló belső védelmi minőségbiztosítási programmal és
+
+c) védelmi képzési programmal
+
+kell rendelkeznie, amelyek hiánya esetén légiközlekedési tevékenység ellátásához szükséges engedély nem adható ki.
+
+(2a)[^18] A védelmi program az uniós légiközlekedés védelmi jogszabályokban, valamint a nemzeti légiközlekedés védelmi programokban foglalt előírások adott szervezetnél történő végrehajtásának részletes eljárási rendjét tartalmazza.
+
+(2b)[^19] A védelmi programot a 300/2008/EK európai parlamenti és tanácsi rendelet mellékletében meghatározott közös alapkövetelményi pontok alapján, az ott feltüntetett sorrendben kell meghatározni a légiközlekedés védelmében közreműködő szervezetre vonatkozó végrehajtási feladatokat is részletezve. A Repülőtéri Kézikönyv a légiközlekedés védelmi vonatkozású eljárásait a repülőtéri védelmi program jóváhagyása után, annak megfelelően tartalmazza.
+
+(2c)[^20] A védelmi program 5 évig érvényes.
+
+(3)[^21]
+
+(4)[^22] A Nemzeti Polgári Légiközlekedés Védelmi Program
+
+a) a 300/2008/EK európai és tanácsi rendeletből,
+
+b) a 300/2008/EK rendelet az ehhez kapcsolódó bizottsági végrehajtási rendeletekből,
+
+c) e rendeletből,
+
+d) a polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervről,
+
+e) a polgári légiközlekedésben alkalmazandó nemzeti vészhelyzeti tervről és a légitársasági segítségnyújtási tervről szóló 455/2022. (XI. 9.) Korm. rendelet 3. § (1) bekezdése alapján létrehozott nemzeti vészhelyzeti tervből és
+
+f) a légiközlekedési hatóság által a légiközlekedésről szóló 1995. évi XCVII. törvény 3/C. § (4) bekezdése alapján kiadott nemzeti légiközlekedés védelmi határozatokból
+
+áll.
+
+(5)[^23]
+
+## 6. A Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program
+
+### 7. §
+
+(1) A Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légiközlekedés-védelem terén végrehajtandó nemzeti minőségbiztosítási programokra vonatkozó követelmények tekintetében való módosításáról szóló, 2010. január 8-i 18/2010/EU bizottsági rendelet (a továbbiakban: 18/2010/EU rendelet) mellékletének végrehajtását biztosítja.
+
+(2)[^24] A légiközlekedés védelmében közreműködő szervezetek a légiközlekedés védelmi feladataik ellátására a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján belső minőségbiztosítási rendszert dolgoznak ki és működtetnek.
+
+(3)[^25] A légiközlekedés védelmében közreműködő szervezet a légiközlekedési hatóság által jóváhagyott védelmi programon alapuló belső védelmi minőségbiztosítási programját jóváhagyásra benyújtja a légiközlekedési hatóságnak, amelyet a légiközlekedési hatóság akkor hagy jóvá, ha az megfelel a 300/2008/EK rendelet, valamint e rendelet előírásainak.
+
+(4) A Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program végrehajtása minden légiközlekedés védelmében érintett szervezet feladata.
+
+(5) A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján elkészíti az éves minőségbiztosítási ellenőrzési programját.
+
+(6)[^26]
+
+(7) A minőségbiztosítási ellenőrzésről készült jelentéseket a légiközlekedési hatóság kezeli, értékeli és megteszi a hiányosságok felszámolása érdekében szükséges intézkedéseket. Az ellenőrzések során feltárt légiközlekedés védelmét közvetlenül veszélyeztető vagy összefüggő hiányosságokról a légiközlekedési hatóság soron kívül, írásban tájékoztatja
+
+a)[^27] az általános rendőrségi feladatok ellátására létrehozott szervet,
+
+b)[^28] az AH-t,
+
+c)[^29] a vámhatóságot a nemzetközi személy-, vagy áruforgalom számára megnyitott repülőtereken feltárt hiányosságokról és
+
+d) az illetékes katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotechnikai anyagok kezelésével kapcsolatos hiányosságokról,
+
+e)[^30]
+
+### 8. §
+
+(1) A légiközlekedési hatóság a 18/2010/EU rendelet alapján elkészített akciótervet megvizsgálja, hogy az a feltárt hiányosságok megszüntetésére hatásos és időben elfogadható intézkedéseket tartalmaz-e.
+
+(2) Az a légiközlekedés védelmében közreműködő szervezet, amelynél hiányosságot tártak fel, a feltárt hiányosság kijavításáról folyamatosan tájékoztatja a légiközlekedési hatóságot.
+
+(3)[^31] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program helyzetéről, a minőségbiztosítási ellenőrök ellenőrzéseiről a 18/2010/EU rendelet melléklete alapján a tárgyévet követő március 1-jéig jelentést készít, amelyet megküld a Bizottságnak.
+
+(4)[^32] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program keretén belül gyűjti, értékeli a légiközlekedés védelmével kapcsolatos bejelentéseket. A bejelentéseket a légiközlekedési hatóságnak kell megküldeni.
+
+## 7. A Nemzeti Polgári Légiközlekedés Védelmi Képzési Program
+
+### 9. §
+
+(1) A Nemzeti Polgári Légiközlekedés Védelmi Képzési Program tartalmazza a védelmi személyzet kiválasztására, az állandó repülőtéri belépő kártyával rendelkező, valamint védelmi tevékenységet ellátó személy képzésére, oktatására, vizsgáztatására, tanúsítására vonatkozó szabályokat.
+
+(2) Az Európai Gazdasági Térségről szóló Megállapodásban részes államban megszerzett képesítéssel rendelkező kérelmező személynek a védelmi tevékenységének megkezdését megelőzően a helyi sajátosságok és a nemzeti előírások ismeretéről – az őt alkalmazó szervezet által használt hivatalos nyelven –, a Nemzeti Polgári Légiközlekedési Védelmi Képzési Programban előírt honosító képzésen kell részt vennie és vizsgáznia.
+
+(3)[^33] Védelmi feladatok – ideértve a védelmi tiszti, a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program alapján védelmi oktatói tevékenység végzésére jogosult személy (a továbbiakban: védelmi oktató) és a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján minőségbiztosítási ellenőr tevékenység végzésére jogosult személy (a továbbiakban: minőségbiztosítási ellenőr) – elvégzésére az a személy, oktatási tevékenység esetében az a szervezet (a továbbiakban: oktató szervezet) jogosult, aki a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott követelménynek megfelel.
+
+(4)[^34] A légiközlekedési hatóság az (EU) 2015/1998 bizottsági végrehajtási rendeletben előírt feltételek teljesítése esetén engedélyezi a védelmi oktató és oktató szervezet tevékenységét, valamint az e-learning rendszer üzemeltetését. A kiadott engedélyekről a légiközlekedési hatóság nyilvántartást vezet, valamint honlapján közzéteszi azon személyek, szervezetek elérhetőségét, amelyek harmadik fél részére is vállalnak oktatást, és nyilatkozatukban engedélyt adnak adataik közzétételére. A kiadott védelmi oktatói engedély és az oktató szervezeti engedély két évig hatályos.
+
+(5)[^35] A légiközlekedés védelmében közreműködő szervezetek a légiközlekedés védelmi feladataik ellátására a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program alapján a légiközlekedési hatóság által jóváhagyott védelmi programhoz kapcsolódó védelmi képzési programot dolgoznak ki és működtetnek. A védelmi képzési program jóváhagyására irányuló hatósági eljárás során a légiközlekedési hatóság azt vizsgálja, hogy a képzési program megfelel-e a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott követelményeknek.
+
+(6)[^36] A Nemzeti Polgári Légiközlekedés Védelmi Képzési Programot az 1. melléklet tartalmazza.
+
+## 8. Légiközlekedés védelmi események jelentése
+
+### 10. §
+
+(1)[^37] Az együttműködő hatóságok, a légiközlekedés védelmében közreműködő szervezetek továbbá a repülőtéri állandó belépő kártyával vagy repülőszemélyzeti azonosító kártyával rendelkező személyek haladéktalanul értesítik a szervezet védelmi tisztjét, ha észlelik, hogy a védelmi programban, az azon alapuló belsővédelmi minőségbiztosítási programban, a védelmi képzési programban vagy a repülőtérrendben foglalt, a légiközlekedés védelmére vonatkozó előírásokat megsértették, vagy azokat nem az előírás szerint hajtották végre. A védelmi tiszt az előírások megsértésének súlyosságától függően haladéktalanul, de legkésőbb 24 órán belül értesíti a légiközlekedési hatóságot és a közlekedésbiztonsági szervet (a továbbiakban: légiközlekedés-védelmi esemény).
+
+(2) Ha a légiközlekedés védelmi esemény a légiközlekedés védelmét veszélyezteti, és azonnali intézkedés megtételét igényli, az ilyen esemény (1) bekezdésben meghatározott észlelőjének a repülőtér fekvése szerint illetékes rendőri szervet vagy a repülőtér védelmi szolgálatát is azonnal értesíteni kell.
+
+## 9. A közlekedésért felelős miniszter védelmi feladata
+
+### 11. §
+
+A közlekedésért felelős miniszter
+
+a) jelentéseket készít a nemzetközi kötelezettségeknek megfelelően,
+
+b)[^38]
+
+c)[^39] képviseli Magyarországot a Bizottság szakértői Munkabizottságban,
+
+d)[^40]
+
+e)[^41]
+
+f)[^42]
+
+## 10. Az együttműködő hatóságok védelmi feladatai
+
+### 12. §
+
+Az együttműködő hatóságok
+
+a)[^43] végrehajtják a nemzeti légiközlekedés védelmi programokban, a 13. § 27. és 28. pontjában megjelölt intézkedéseket és az eljárásokban meghatározott, részükre előírt feladatokat,
+
+b) részt vesznek a légiközlekedés védelmét veszélyeztető események kivizsgálásában,
+
+c)[^44] részt vesznek a Repülőtéri Védelmi Bizottság, a Repülőtéri Kényszerhelyzeti Központ munkájában,
+
+d)[^45] összehangolják a védelmi programokat,
+
+e) a légiközlekedés védelme érdekében hozott intézkedések során megvizsgálják a kockázati szint, a várt eredmény és a ráfordítás arányosságát,
+
+f) a jogellenes cselekmény során a repülőtér és légijármű utasainak, személyzetének védelme érdekében, a veszélyeztetettség mértékével arányban megteszik a repülőtér védelmi programban meghatározott intézkedéseket,
+
+g)[^46] végrehajtják a részükre a repülőtéri védelmi programban és a Kényszerhelyzeti Tervben meghatározott feladatokat,
+
+h)[^47] haladéktalanul tájékoztatják egymást a rendelkezésükre álló, a légiközlekedés védelmével kapcsolatos információkról, különösen a fenyegetettségről, új elkövetési módokról és azok megelőzésére szolgáló eljárásokról és berendezésekről. A vámhatóság tájékoztatása a 16. § szerinti feladatait érintő információkra, a hivatásos katasztrófavédelmi szerv tájékoztatása a tiltott eszköznek minősített pirotechnikai anyagok kezelésével kapcsolatos hiányosságokra terjed ki.
+
+### 13. §[^48]
+
+A légiközlekedési hatóság
+
+1\. jóváhagyja a légiközlekedés védelmében közreműködő szervezetek által készített védelmi programot, valamint – szükség esetén az együttműködő hatóságokkal előzetesen egyeztetett módon közösen – rendszeresen ellenőrzi azok betartását;
+
+2\. koordinálja és végrehajtja a légiközlekedés védelmében közreműködő szervezetek külső, a Nemzeti Légiközlekedés Védelmi Minőségbiztosítási Programban meghatározottak szerinti légiközlekedés védelmi minőségbiztosítási ellenőrzését;
+
+3\. irányítja és felügyeli a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök tevékenységét;
+
+4\. elrendeli azonnali intézkedések bevezetését a légiközlekedés védelmi minőségbiztosítási ellenőrzések alapján feltárt hiányosságok megszüntetése érdekében, ezekről tájékoztatja a légiközlekedés védelmében közreműködő szervezeteket;
+
+5\. lefolytatja a légiközlekedés védelmét közvetlenül veszélyeztető szervezetek és személyek légiközlekedési tevékenységtől való eltiltásával vagy légiközlekedési tevékenység ellátásához szükséges engedélyének visszavonásával kapcsolatos eljárást;
+
+6\. jóváhagyja és ellenőrzi a légiközlekedési védelmi eszközök és védelmi rendszerek, valamint az (EU) 2015/1998 bizottsági végrehajtási rendelet melléklet 12. fejezetében meghatározott légiközlekedés védelmi berendezések üzembe helyezését, működtetését;
+
+7\. jóváhagyja a légiközlekedés védelmében közreműködő szervezetek belső védelmi minőségbiztosítási programját és védelmi képzési programját;
+
+8\. a tevékenységre vonatkozó jogszabályi feltételek teljesülése esetén jóváhagyja a légiközlekedés védelmében közreműködő szervezetek
+
+a) légiközlekedés védelmi tisztjének kijelölését,
+
+b) védelmi felelősének kijelölését;
+
+9\. minősíti a meghatalmazott ügynököt, az ismert feladót, a fedélzeti ellátmány meghatalmazott beszállítóját, a harmadik ország repülőteréről az Európai Unió területére árut vagy postai küldeményt szállító légifuvarozót, kiadja az e tevékenység végzéséhez szükséges engedélyt, nyilvántartást vezet azok nevéről és lakcíméről (telephelyéről), valamint felügyeli tevékenységüket, és ezen adatokat feltölti az (EU) 2015/1998 bizottsági végrehajtási rendelet mellékletében meghatározott adatbázisba;
+
+10\. továbbítja a nemzetközi dokumentumokat a légiközlekedés védelmében közreműködő szervezeteknek és a végrehajtó területeknek,
+
+11\. kivizsgálja a légiközlekedés védelmi eseményeket;
+
+12\. gyűjti, elemzi és értékeli a védelmi intézkedéseket és eljárásokat, továbbá javaslatokat tesz az ismételt előfordulás megelőzése és a hiányosságok megszüntetése érdekében;
+
+13\. a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságaival összefüggő információkról soron kívül tájékoztatja
+
+a) a rendőrséget,
+
+b) az AH-t,
+
+c) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti, és
+
+d) a katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotechnikai anyagok kezelésével kapcsolatos hiányosságokról;
+
+14\. elrendeli szigorúbb intézkedések alkalmazását, és erről haladéktalanul tájékoztatja a Bizottságot;
+
+15\. a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program, valamint a 300/2008/EK rendeletnek megfelelően – az általános rendőrségi feladatok ellátására létrehozott szerv által vizsgáztatott védelmi ellenőrök kivételével – tanúsítja a védelmi személyeket, vagy engedélyezi a tanúsítást harmadik félnek;
+
+16\. értékeli a 72/2010/EU bizottsági rendelet alapján a Bizottság által végzett ellenőrzések eredményeiről készített jelentést;
+
+17\. az (EU) 2015/1998 bizottsági végrehajtási rendelet melléklet 1.2.2.2. pont b) alpontjában megjelölt repülőszemélyzeti azonosító kártyát kiadja, vagy kiadását a légitársaságnak engedélyezi;
+
+18\. jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket;
+
+19\. a nemzeti légiközlekedés védelmi programok és a C (2015) 8005 bizottsági végrehajtási határozat alapján légiközlekedés védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait;
+
+20\. a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatkozó fenyegetettségről szóló értesítés vétele után haladéktalanul megteszi a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvénnyel kihirdetett 17. számú Függelék 5.2.5. pontjában megjelölt tájékoztatásokat;
+
+21\. jóváhagyja a repülőtereken a kockázatértékelés alapján a megfigyelés és az őrjárat ellátásának gyakoriságát és módját;
+
+22\. végzi az (EU) 2015/1998 bizottsági végrehajtási rendelet mellékletének 6.4.1.2. pontjában felsorolt, az ismert szállítóval kapcsolatos jóváhagyást;
+
+23\. kezeli az ICAO Szerződő Államoktól érkező, fenyegetettségre vonatkozó kérelmeket és tájékoztatást, valamint megosztja az érintett Szerződő Állammal az őt érintő fenyegetettségi információt;
+
+24\. részt vesz a berakodás előtti előzetes áruinformációkkal kapcsolatos védelmi kockázatértékelésben és berakodást megtiltó javaslat esetén értesíti az együttműködő hatóságokat;
+
+25\. lefolytatja az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) és d) alpontja, valamint 11.1.4. pont b) alpontja szerinti védelmi háttérellenőrzési eljárást, továbbá a 72/2010/EU bizottsági rendelet 8. cikk (3) bekezdése alapján nemzeti koordinátort jelöl ki;
+
+26\. tájékoztatja a 72/2010/EU bizottsági rendelet alapján a Bizottságot a kiegyenlítő intézkedésekről,
+
+27\. tájékoztatja a 18/2010/EU bizottsági rendelet melléklet 17. pontja alapján a Bizottságot a minőségbiztosítási program gyakorlati tapasztalatairól, az alkalmazott ellenőrzési módszerekről;
+
+28\. folyamatosan értékeli a polgári légiközlekedést érintő kockázatokat és megállapítja fenyegetettségi szintjét, illetve eljárásokat alakít ki, valamint tájékoztatja az együttműködő hatóságokat és szükség esetén intézkedést kér;
+
+29\. eljárást dolgoz ki, valamint megteszi a szükséges intézkedéseket a gyalogosan hordozható légvédelmi rakétarendszerek és egyéb fegyveres támadások megelőzése érdekében, amely fenyegetést jelenthet a repülőtér és a légijárművek közelében.
+
+### 14. §[^49]
+
+Az általános rendőrségi feladatok ellátására létrehozott szerv
+
+1.[^50] irányítja a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
+
+2\. gondoskodik a kockázatelemzés alapján az 1. § (1) bekezdés b) és c) pontjában megjelölt hatóság által veszélyeztetett légijárműnek minősített légijármű (a továbbiakban: veszélyeztetett légijármű) rendőri biztosításáról a repülőtér területén,
+
+3\. elvégzi a potenciálisan rendzavaró utasok szállításának kockázati elemzését, és az ilyen utasok szállításáról tájékoztatja a légitársaságot,
+
+4\. elvégzi a megtagadott belépés miatt visszafordított személyek kockázatelemzését és a szállítást végző légitársaság részére kiszámlázott, ténylegesen felmerülő költségek térítése ellenében biztosítja azok kíséretét,
+
+5\. gondoskodik a kísérővel utaztatott személyek részére kíséret biztosításának a megszervezéséről,
+
+6.[^51] az AH-val és a légiközlekedési hatósággal együttműködve irányítja, végrehajtja és értékeli a légiközlekedés védelmében érintett szervezetek védelmi rendszereinek rejtett légiközlekedés-védelmi tesztelését, és megküldi az értékelés eredményét az ellenőrzött szervezet részére,
+
+7\. végzi a veszélyeztetett légijármű repülés előtti védelmi ellenőrzését, a légiközlekedés védelme tekintetében tiltott tárgyak felkutatását és szükség esetén annak hatástalanítását,
+
+8\. végzi a nem azonosított, elhagyott poggyász, csomag észlelése esetén a biztonsági ellenőrzés befejezéséig az utasok, és az utastól különböző személyek távoltartását a nem azonosított, elhagyott poggyász, csomag helyétől,
+
+9\. végzi a kereskedelmi repülőterek nyilvános és korlátozott belépésű területeinek rendőri biztosítását,
+
+10\. elrendeli a légiközlekedés védelme érdekében a repülőtéren és a repülőtér közvetlen körzetében a szükséges korlátozások bevezetését, kivéve az európai uniós jogi aktusokban szereplő intézkedésektől szigorúbb intézkedéseket,
+
+11\. ellenőrzi – veszélyeztetett időszakban fokozottan – a légiközlekedés védelme érdekében a repülőtér közvetlen körzetében lévő nyilvános területeket,
+
+12.[^52] végzi az utasok, kézipoggyászaik, feladott poggyászaik és az utastól különböző személyek és azok személyes tárgyainak légiközlekedés védelmi ellenőrzésének, továbbá az áruk, postai küldemények, légifuvarozói posta, légifuvarozói anyagok, fedélzeti ellátmány, repülőtéri készlet légiközlekedés védelmi ellenőrzésének szakmai felügyeletét, valamint az utasok és kézipoggyászaik légiközlekedés védelmi ellenőrzésének fegyveres biztosítását, valamint a rendőri szerv döntése alapján végzi az utasok és kézipoggyászaik légiközlekedés védelmi ellenőrzését.
+
+13\. a nyilvános repülőtéren és közvetlen környezetében gyűjti és elemzi a bűncselekmények elkövetésének megelőzése, felderítése, megakadályozása és megszakítása érdekében felhasználható információkat,
+
+14.[^53] szakhatóságként részt vesz az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja és 11.1.4. pont b) alpontja szerinti védelmi háttérellenőrzési eljárásban, valamint terrorfelderítésért felelős szervezeti egysége útján terrorkockázati szempontból szakhatóságként részt vesz az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont d) alpontja szerinti védelmi háttérellenőrzési eljárásban.
+
+15\. ellenőrzi a személyek részére a hatóságok által engedélyezett, a repülőtéri állandó és ideiglenes belépőkártyákban rögzített zónajogosultságok betartását (beleértve a hatóságok kockázatelemzése alapján bevezetett korlátozást), a személyes adatok védelmére vonatkozó törvényi előírások érvényesülését, a repülőtéri belépőkártyák nyilvántartására, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló adatbázisokból való adatszolgáltatások, lekérdezések jogszerűségét,
+
+16.[^54] a légiközlekedés védelmi kockázatok felderítése érdekében a repülőtereken és a légiközlekedés védelmi tevékenység végzésére kötelezett jogalanynál – amennyiben az általános rendőrségi feladatok ellátására létrehozott szerv indokoltnak tartja az AH bevonásával – ellenőrzést hajt végre, amelynek eredményéről a felelős hatóságot soron kívül értesíti.
+
+17.[^55] folyamatosan értékeli a polgári légiközlekedés terrorveszélyeztetettségi szintjét, valamint megállapítja a terrorfenyegetettséget,
+
+18.[^56] az együttműködő hatóságokkal megteszi a szükséges intézkedéseket a terrorveszélyeztetett, terrorfenyegetett légijárművek, repülőtéri létesítmények védelme érdekében,
+
+19.[^57] az együttműködő hatóságokkal ellátja a hatáskörébe tartozó állami és kormányzati szempontból védett vezetők, személyek repülőtéri mozgásának biztosítását, szükség esetén korlátozó intézkedéseket rendelhet el,
+
+20.[^58] ellenőrzi a repülőtéri személyazonosító kártyák, szigorított védelmi területre jogosító behajtási engedélyek rendeltetésszerű használatát és a vonatkozó előírások betartását, kockázatelemzés alapján kezdeményezi azok visszavonását vagy korlátozását.
+
+### 15. §[^60]
+
+Az AH
+
+a)[^61] a feladatai ellátása során tudomására jutott információkból értékeli – a terrorveszélyeztetettségi szintjének kivételével – a polgári légiközlekedés fenyegetettségi és veszélyeztetettségi szintjét, és tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet és a légiközlekedési hatóságot a feladatkörük ellátásához szükséges adatokról,
+
+b) gyűjti és értékeli a polgári légiközlekedés védelmét érintő minősített és nyílt információkat, amelyeket haladéktalanul eljuttat a feladat- és hatáskörrel rendelkező szervezeteknek,
+
+c)[^62] intézkedéseket kezdeményez a terrorcselekmény, valamint a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekmény kivételével a polgári légiközlekedés elleni jogellenes cselekmények megelőzése, elhárítása érdekében,
+
+d) gyűjti, elemzi és értékeli – az ismételt előfordulás megelőzése és az esetleges biztonsági kockázatok megszüntetése érdekében – a jogellenes cselekményekben érintett légijárművekre vonatkozó védelmi intézkedéseket és eljárásokat, azok alapján javaslatot tesz a szükséges intézkedések bevezetésére,
+
+e)[^63] nemzetbiztonsági szempontból szakhatóságként részt vesz az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont d) alpontja szerinti védelmi háttérellenőrzési eljárásban,
+
+f) ellátja a veszélyeztetett légijárművek hatáskörébe tartozó műveleti biztosítását,
+
+g)[^64]
+
+h)[^65] ellenőrzi a repülőtéri személyazonosító kártyák, szigorított védelmi területre jogosító behajtási engedélyek rendeltetésszerű használatát és a vonatkozó előírások betartását, kockázatelemzés alapján kezdeményezi azok visszavonását vagy korlátozását,
+
+i)[^66]
+
+### 16. §[^67]
+
+A vámhatóság a nemzetközi személy-, vagy áruforgalom számára megnyitott repülőtereken
+
+a) együttműködik a légiközlekedés ellen irányuló jogellenes cselekmény vagy arra irányuló kísérlet esetén a többi együttműködő hatósággal és a légiközlekedés védelmében közreműködő szervezetekkel,
+
+b) engedélyezi a személyek vámterületre történő belépését,
+
+c)[^68] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) hatáskörébe tartozó bűncselekmény elkövetésének gyanúja esetén repülés előtt – a rendőrséggel együttműködve – ellenőrzi a légijárművek fedélzetét és a repülőtéri vámterületet,
+
+d)[^69]
+
+### 16/A. §[^70]
+
+A hivatásos katasztrófavédelmi szerv
+
+a) együttműködik a légiközlekedés elleni jogellenes cselekmény vagy arra irányuló kísérlet esetében annak felszámolásban az együttműködő hatóságokkal és a légiközlekedés védelmében közreműködő szervezetekkel,
+
+b) együttműködik a légiközlekedés védelmét ellátó szervezetek részére előírt eljárási tervek készítése során a katasztrófavédelmi vonatkozású eljárások kidolgozásában,
+
+c)[^71] részt vesz a Repülőtéri Kényszerhelyzeti Központ és a Repülőtéri Védelmi Bizottság (a továbbiakban: RVB) munkájában,
+
+d)[^72] irányítja a Repülőtéri Kényszerhelyzeti Központ mentést koordináló feladatait kényszerhelyzet esetében, valamint, ha légiközlekedés elleni jogellenes cselekmények során keletkezett tűz, robbanás következményeinek felszámolása vagy műszaki mentés válik szükségessé,
+
+e) részt vesz a tűzoltási és műszaki mentési feladatokban, ha a légiközlekedés elleni jogellenes cselekmények során keletkezett tűz, robbanás következményeinek felszámolása vagy műszaki mentése válik szükségessé.
+
+### 16/B. §[^73]
+
+A Nemzetbiztonsági Szakszolgálat szakhatóságként részt vesz a légiközlekedés-védelemben közreműködő szervezetek által készített védelmi program, az ahhoz kapcsolódó belső minőségbiztosítási program és a védelmi képzési program kibervédelemmel kapcsolatos követelmények megfelelőségének vizsgálatában.
+
+## 11. A repülőtér üzemben tartója
+
+### 17. §
+
+(1) A repülőtér üzemben tartója alaptevékenységével összefüggésben
+
+a)[^74] kialakítja a 300/2008/EK rendelet I. melléklet 1.1.2. pontjában meghatározott területeket, amelyeknek a leírását a védelmi terv vagy a repülőtér rend tartalmazza,
+
+b) tranzitterületet létesít a repülőtéren a nemzetközi személyforgalom számára megnyitott útvonalon, a közvetlen felügyeletet ellátó hatóságok engedélyei alapján,
+
+c) erre irányuló megállapodás alapján biztosítja a légiközlekedés védelmében közreműködő szervezetek működési feltételeit,
+
+d) gondoskodik arról, hogy a repülőtér szigorított védelmi területére belépő személyek, járművek, utasok, poggyász-, áru-, postai és egyéb küldemények, ellátmányok kezelése zárt, felügyelt, dokumentált és biztonságos minőségbiztosítási technológia alapján történjen,
+
+e)[^75] végzi a repülőtér szigorított védelmi területére belépő utasok, azok kézipoggyászaik, feladott poggyászaik és az utastól különböző személyek és azok személyes tárgyainak járművek, és egyéb küldemények, ellátmányok védelmi átvizsgálását, valamint meggyőződik arról, hogy az áru-, postai küldemények, fedélzeti ellátmányok esetében az átvizsgálás megtörtént,
+
+f) a repülőtér megfelelő kialakításával biztosítja a védelmi átvizsgáláson átesett személyek elkülönítését a védelmi szempontból még nem ellenőrzött személyektől,
+
+g)[^76] védelmi ellenőrző rendszert működtet annak érdekében, hogy megakadályozza személyek vagy járművek jogosulatlan vagy ellenőrzés nélküli behatolását a repülőtér nem nyilvános vagy a repülőtér működése szempontjából kritikus infrastruktúrák területeire (különös tekintettel a légiközlekedés szempontjából kiemelt fontosságú szigorított védelmi területre),
+
+h) gondoskodik arról, hogy légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmazza,
+
+i) az új vagy meglévő repülőtéri létesítmények átalakítása során érvényesíti a légiközlekedés védelmi előírásokat, biztosítja a légiközlekedés védelméhez szükséges technikai eszközök tervezését, beszerzését és üzemeltetését,
+
+j)[^77] saját maga vagy meghatalmazottja útján kiállítja a repülőterek légi oldali területeire történő belépési és járművel történő behajtási engedélyeket,
+
+k)[^78]
+
+l)[^79] biztosítja az általános rendőrségi feladatok ellátására létrehozott szerv részére, hogy a légiközlekedés védelme és a hatáskörébe utalt esetekben a kiadott kártyák használatának ellenőrzése érdekében a repülőtéri belépőkártyák, továbbá a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló adatbázisokhoz számítástechnikai rendszeren keresztül korlátlanul, folyamatosan és közvetlenül hozzáférhessenek, és azokból adatot átvehessenek,
+
+m)[^80] ellenőrzi a repülőtér légi oldalán tartózkodó személyek tartózkodási jogosultságát
+
+n)[^81] a légitársaság megbízása esetén ellátja a légijárművek őrzését és közreműködik az általános rendőrségi feladatok ellátására létrehozott szerv ezirányú feladatellátásában,
+
+o) közreműködik a veszélyeztetett légjárművek rendőri biztosításában,
+
+p)[^82] közreműködik a nem azonosított, elhagyott poggyásszal, csomaggal kapcsolatos rendőrségi intézkedések végrehajtásában és végzi a lemaradt és az elirányított poggyászok raktározás előtti dokumentált védelmi ellenőrzését,
+
+q)[^83] saját maga vagy meghatalmazottja útján ellátja a belterületi gépjárművezetői engedélyekkel kapcsolatos kibocsátói feladatokat,
+
+r)[^84] végzi a repülőtér szigorított védelmi területére belépő utastól különböző személyek és azok személyes tárgyainak járművek, és egyéb küldemények, ellátmányok védelmi átvizsgálásának fegyveres biztosítását.
+
+(2) A repülőtér üzemben tartója a légiközlekedés védelmével összefüggésben
+
+a)[^85] a Nemzeti Polgári Légiközlekedés Védelmi Programmal összhangban elkészíti és a repülőtér működése előtt vagy a módosítás bevezetése előtt jóváhagyásra benyújtja a légiközlekedési hatóságnak a repülőtér rendet, a repülőtéri védelmi programot, a belső védelmi minőségbiztosítási programot, a védelmi képzési programot, a légiközlekedési esemény felszámolására szolgáló programot, valamint azok módosítását, továbbá gondoskodik az azokban foglaltak végrehajtásáról,
+
+b) a repülőtéren lévő együttműködő hatóságok bevonásával évente legalább egyszer végrehajtja a repülőtéri védelmi programban foglalt feladatok gyakoroltatását, önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat,
+
+c)[^86] adminisztratív és technikai eszközökkel segíti az RVB munkáját,
+
+d)[^87] a nemzetközi kereskedelmi repülőtéren a repülőtéri védelmi programban foglaltak szerint kialakítja az állandó objektumú Repülőtéri Kényszerhelyzeti Központot,
+
+e)[^88] részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
+
+f) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságaival összefüggő információkról soron kívül tájékoztatja
+
+fa) a légiközlekedési hatóságot,
+
+fb) a rendőrséget,
+
+fc)[^89] az AH-t és
+
+fd) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti.
+
+(3)[^90] A repülőtér üzemben tartója biztosítja, hogy a nem a repülőtéren vagy más szervezet által végrehajtott védelmi ellenőrzésen igazoltan megfelelt és a vizsgálat helyszínétől a repülőtéri ellenőrzési pontig történő szállítása során illetéktelen hozzáféréstől biztosított poggyász-, áru-, postai és egyéb küldemények, ellátmányok a repülőtér rend és repülőtéri védelmi programban leírt eljárás szerint juthassanak át a repülőtér ellenőrző pontjain.
+
+(4)[^91] Az (1) bekezdés e) pontjában meghatározott, a repülőtér szigorított védelmi területére belépő utasok, utastól különböző személyek átvizsgálása során biztosítani kell, hogy az utas vagy utastól különböző személyek – azok kérelme esetén – kézi átvizsgálására a személyiségi jogok védelmében elkülönítetten kerüljön sor. A kézi átvizsgálást csak az átvizsgálttal azonos nemű személy végezheti.
+
+(5)[^92] Az (1) bekezdés e) pontjában megjelölt utasok és utasoktól eltérő személyek részére a védelmi ellenőrzést végző szervezetnek biztosítani kell, hogy az érintett személyek panasszal élhessenek az átvizsgálás végrehajtásával kapcsolatban.
+
+(6)[^93] A nemzetközi kereskedelmi repülőtér üzemben tartója éves statisztikát készít az előző év légiforgalmi adatairól, amelyet a tárgyévet követő év január 31. napjáig elektronikus úton megküld a légiközlekedési hatóságnak az alábbi adattartalommal:
+
+a) menetrend szerinti európai uniós légitársaságok,
+
+b) menetrend szerinti harmadik országbeli légitársaságok,
+
+c) nem menetrend szerinti európai uniós és harmadik országbeli légitársaságok évente minimum 5 légijármű mozgással,
+
+d) éves utasforgalom száma összesen és légitársaságonkénti bontásban,
+
+e) éves légiáru forgalom tonnában (t) és légitársaságonkénti bontásban,
+
+f) a tárgyévre vonatkozóan a légijármű mozgások száma összesen és légitársaságonkénti bontásban.
+
+## 12. A légitársaság
+
+### 18. §
+
+A légitársaság
+
+a)[^94] ha a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelettel (a továbbiakban: 1008/2008/EK rendelet) összhangban kiadott magyar működési engedéllyel rendelkezik, a Nemzeti Polgári Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra a működésének megkezdése előtt vagy a módosítás bevezetése előtt a légiközlekedési hatóságnak benyújtja a védelmi programot, a belső védelmi minőségbiztosítási programot és a védelmi képzési programot, valamint azok módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról,
+
+b)[^95] amennyiben a 1008/2008/EK rendelettel összhangban kiadott nem magyar működési engedéllyel rendelkezik,
+
+ba) a 300/2008/EK rendelet 13. cikkében foglaltak szerint a védelmi tervét, vagy
+
+bb) ha a működési engedélyt kiadó tagállam felelős hatósága által jóváhagyott közösségi légifuvarozói védelmi programmal rendelkezik, akkor a szolgáltatást nyújtó repülőtéren alkalmazandó helyi eljárások végrehajtását tartalmazó tervét (az állomáshelyre vonatkozó védelmi programot)
+
+működése előtt vagy a módosítás bevezetése előtt 20 nappal jóváhagyásra megküldi a légiközlekedési hatóság részére és gondoskodik az abban foglaltak végrehajtásáról,
+
+c) a repülőtér rendben vagy a repülőtér védelmi programban meghatározottak alapján
+
+ca) a légijármű védelme és a jogellenes cselekmény során a légijármű utasainak és személyzetének biztonsága érdekében intézkedéseket tesz,
+
+cb) felelős a jogellenes cselekmény elkövetésére alkalmas, a közbiztonságra és a légiközlekedés biztonságára veszélyes anyagoknak és tárgyaknak a légijármű fedélzetére való feljuttatásának megakadályozásáért,
+
+cc) technológiai feltételek kialakításával és a közreműködői szerződések útján felelős, hogy az utasok, a poggyász-, áru-, postai és egyéb küldemények, ellátmányok kezelése zárt, felügyelt, dokumentált és biztonságos minőségbiztosítási technológia alapján történjen a repülőtér kijelölt területein,
+
+cd) védelmi intézkedéseket tesz a kényszerből vagy védelmi okokból kísérővel utaztatott személyek esetén,
+
+ce) részt vesz a veszélyeztetett légijárművek biztosításában,
+
+cf) felelős azért, hogy a légijármű fedélzetére csak védelmi ellenőrzésen átesett és megfelelően dokumentált személy, poggyász-, áru-, postai és egyéb küldemény, vagy fedélzeti ellátmány jusson fel,
+
+cg) felelős a feladott poggyászt az átvizsgálás helyétől vagy a légi fuvarozó általi átvételtől – amelyikre hamarabb kerül sor – a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai, légifuvarozói posta és légifuvarozói anyagok és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek biztonsági ellenőrzéséért, felügyeletéért,
+
+ch) felelős a légjármű repülés előtti műszaki, védelmi ellenőrzéséért, beleértve az idegen eszközök, tárgyak felkutatását célzó átvizsgálását,
+
+ci) felelős a légijármű védelméért,
+
+cj) felelős azért, hogy a légijárműhöz illetéktelen személyek ne férjenek hozzá,
+
+ck) kidolgozza a védelmi feladatok oktatását, gyakorlását, továbbá értékeli az eredményeket és javaslatokat tesz,
+
+cl) felelős az utasok és kézipoggyászaik, az átvizsgálás helyétől az őket szállító légijármű indulásáig történő illetéktelen beavatkozás elleni védeleméért,
+
+cm) felelős a feladott poggyász azonosításáért, a poggyász státuszának megfelelő intézkedések, eljárások alkalmazásáért,
+
+d)[^96] a belső védelmi minőségbiztosítási programja alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet és az AH-t,
+
+e)[^97] érintettsége esetén részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
+
+f) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságaival összefüggő információkról soron kívül tájékoztatja
+
+fa) a légiközlekedési hatóságot,
+
+fb) a rendőrséget,
+
+fc)[^98] az AH-t és
+
+fd) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
+
+g) gondoskodik arról, hogy légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmazzon,
+
+h) gondoskodik arról, hogy védelmi programja vagy állomáshelyi terve tartalmazza a légijármű fedélzetén maradó tranzitáru és tranzit postai küldemény ellenőrzésére vonatkozó eljárásokat.
+
+i)[^99] elkészíti a légiközlekedésről szóló 1995. évi XCVII. törvény 67/A. § (2) bekezdésében meghatározott előzetes éves felhasználási tervet, amelyet jóváhagyásra minden év november 30-ig megküld az általános rendőrségi feladatok ellátására létrehozott szerv részére. A tervben meghatározottak végrehajtásáról negyedévente, a negyedévet követő hónap 10. napjáig tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet.
+
+## 13. Egyéb jogalanyok
+
+### 19. §
+
+Az egyéb jogalany
+
+a)[^100] a Nemzeti Polgári Légiközlekedés Védelmi Programmal összhangban elkészíti és működésének megkezdése előtt vagy a módosítás bevezetése előtt jóváhagyásra a légiközlekedési hatóságnak benyújtja a védelmi programját, a belső védelmi minőségbiztosítási programját és a védelmi képzési programját, valamint azok módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról,
+
+b) a repülőtér rend, a repülőtér védelmi program, továbbá – ha a légitársaság megbízásából hajt végre légiközlekedés védelmi feladatot – a légitársaság védelmi terve alapján
+
+ba) a földi kiszolgálási vagy egyéb szerződés alapján közreműködik a jogellenes cselekmény elkövetésére alkalmas, a közbiztonságra és a légiközlekedés biztonságára veszélyes anyagoknak és tárgyaknak a légijármű fedélzetére való feljuttatásának megakadályozásában, valamint az utasok és a földi személyzet által igénybe vett utasterminálokon, az előtereken, az utashidakon, a földi utasszállító járműveken a biztonságot veszélyeztető cselekmények megelőzésében,
+
+bb) földi kiszolgálási vagy egyéb szerződés alapján közreműködik abban, hogy a kiszolgált légijármű fedélzetén csak a védelmi átvizsgáláson átesett és megfelelően dokumentált személy, poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készlet legyen,
+
+bc)[^101] a földi kiszolgálási vagy egyéb szerződés alapján ellátja a feladás pontjától a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek légiközlekedés védelmi ellenőrzését, felügyeletét,
+
+bd) a technológiai feltételek kialakításával és a közreműködői szerződés alapján közreműködik az utasok, a poggyász-, áru-, postai és egyéb küldemények, ellátmányok kezelésében oly módon, hogy az zárt, felügyelt, dokumentált és biztonságos minőségbiztosítási technológia alapján történjen a repülőtér kijelölt területein,
+
+c)[^102] a belső védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet és az AH-t,
+
+d)[^103] felkérésre részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
+
+e)[^104]
+
+f) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságaival összefüggő információkról soron kívül tájékoztatja
+
+fa) a légiközlekedési hatóságot,
+
+fb) a rendőrséget,
+
+fc)[^105] az AH-t és
+
+fd) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
+
+g) védelmi feladatait saját állománnyal látja el, vagy e feladatra feljogosított más, olyan önálló jogi személyiséggel rendelkező szervezettel végezteti el, amely a légiközlekedési hatóság által kiadott érvényes tevékenységi engedéllyel rendelkezik,
+
+h) gondoskodik arról, hogy légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmazzon.
+
+i)[^106] ha fél éven belül nem szerez földi kiszolgálói, meghatalmazott ügynöki, ismert szállítói vagy meghatalmazott beszállítói engedélyt, a légiközlekedési hatóság a légiközlekedés védelmi tiszt engedélyét, valamint jóváhagyott légiközlekedés védelmi tervét visszavonja.
+
+## 14. [^107] A légiforgalmi irányító szolgálat védelmi feladatai
+
+### 20. §[^108]
+
+(1)[^109] A légiforgalmi irányító szolgálat a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatkozó fenyegetettség esetében
+
+a) a légiforgalom irányításának szabályairól szóló miniszteri rendelet szerint biztosítja a kapcsolattartást a levegőben vagy a földön lévő légijárművel, és
+
+b)[^110] haladéktalanul tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet és az AH-t.
+
+(2)[^111] A légiforgalmi irányító szolgálat a légiközlekedés védelmi feladatai ellátásának részletes szabályait – a nemzeti légiközlekedés védelmi programokban foglalt követelmények és az általános rendőrségi feladatok ellátására létrehozott szerv által előzetesen a terrorizmussal kapcsolatban elvégzett kockázatelemzés, valamint az általános rendőrségi feladatok ellátására létrehozott szerv iránymutatása alapján – a légiközlekedés védelmi tervében határozza meg. A légiközlekedés védelmi terv részét képezik a részletes légiközlekedés védelmi eljárások és a légiközlekedés védelmi képzési és minőségbiztosítási programok.
+
+(3)[^112] A légiforgalmi irányító szolgálat légiközlekedés védelmi tervét vagy annak módosítását jóváhagyásra megküldi a légiközlekedési hatóságnak.
+
+(4)[^113] A légiforgalmi irányító szolgálat
+
+a) a működési területén a fenyegetettséggel arányosan, különböző szintű védelmi zónákat hoz létre, és a védelmi zónáknak megfelelő, a személyek belépésére és személyes tárgyaik bevitelére is kiterjedő korlátozásokat vezet be,
+
+b) gondoskodik arról, hogy megakadályozza
+
+ba) jogosulatlan személy vagy jármű behatolását a légiforgalmi irányító szolgálat létesítményeibe, az általa üzemben tartott földi navigációs berendezések nem nyilvános területeire, így különösen a légiközlekedés szempontjából kiemelt fontosságú létesítményekbe,
+
+bb) a jogosulatlan hozzáférést az általa üzemben tartott, a légiközlekedést kiszolgáló rádió-berendezésekhez,
+
+c) gondoskodik létesítményeinek, az általa üzemben tartott földi navigációs berendezéseknek és légiközlekedést kiszolgáló rádió-berendezéseknek a légiközlekedési hatóság által megfelelő szintűnek minősített védelmi berendezésekkel való ellátásáról,
+
+d)[^114] belső kockázatelemzés és a belső légiközlekedés védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges intézkedéseket, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet és az AH-t, és
+
+e) légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmaz.
+
+(5)[^115] A légiforgalmi irányító szolgálat
+
+a) részt vesz az általa kiszolgált repülőtereken működő RVB munkájában,
+
+b)[^116] részt vesz az általa kiszolgált repülőterek Repülőtéri Kényszerhelyzeti Központjának munkájában.
+
+(6) A 41. § (4) bekezdésében foglaltak esetében, amennyiben a légiforgalmi berendezések telephelyének mérete nem indokolja, nem szükséges telephelyenként külön védelmi személyt kijelölni, azokért a légiforgalmi irányító szolgálat védelmi tisztje felelős.
+
+## 15. [^117] A repülőtér tűzoltóvédelmi kategóriáját és a polgári védelmi feladatait biztosító szervezet légiközlekedés védelmi feladatai
+
+### 21. §[^118]
+
+A repülőtér tűzoltóvédelmi kategóriáját és a polgári védelmi feladatait biztosító szervezet
+
+a) együttműködik a légiközlekedés elleni jogellenes cselekmény, illetve arra irányuló kísérlet esetében az együttműködő hatóságokkal és a légiközlekedés védelmében közreműködő szervezetekkel,
+
+b) együttműködik a légiközlekedés védelmét ellátó szervezetek részére előírt eljárási tervek készítése során a tűzoltói vonatkozású eljárások kidolgozásában,
+
+c)[^119] részt vesz a Repülőtéri Kényszerhelyzeti Központ és az RVB munkájában,
+
+d)[^120] irányítja a Repülőtéri Kényszerhelyzeti Központ mentést koordináló feladatait, ha a légiközlekedés elleni jogellenes cselekmények során keletkezett tűz, robbanás következményeinek felszámolása válik szükségessé.
+
+## 16. Repülőtéri Védelmi Bizottság
+
+### 22. §
+
+(1)[^121] Közforgalom számára nyitva álló repülőtéren RVB-t kell létrehozni és működtetni.
+
+(2)[^122] Az RVB tagjai a légiközlekedés védelmében együttműködő hatóságok, a repülőtér üzemben tartója, a repülőteret kiszolgáló légiforgalmi irányító szolgálat vezetője, a repülőteret bázis repülőtérként használó és a repülőtér forgalmának legalább 40%-át lebonyolító légitársaság, valamint a repülőtér tűzoltóvédelmi kategóriáját és a polgári védelmi feladatait biztosító szervezet. Az RVB elnöke a repülőtér fekvése szerint illetékes általános rendőrségi feladatok ellátására létrehozott szerv vezetője (e § alkalmazásában a továbbiakban: illetékes rendőri szerv vezetője), az RVB társelnöke a repülőtér üzemben tartója által kijelölt személy, aki az illetékes rendőri szerv vezetőjének, vagy szervezetszerű helyettesének távollétében ellátja az RVB elnöki feladatait. Az RVB titkári feladatokat az illetékes rendőri szerv vezetője által kijelölt személy végzi.
+
+(3)[^123] Az RVB ülésén a tagok vagy a kijelölt állandó helyetteseik vehetnek részt. Az RVB elnökének meghívása alapján, tanácskozási joggal jelen lehetnek a védelmi programban feladatokkal felruházott egyéb szervezetek, így a repülőtéren lévő földi kiszolgáló, karbantartó és javító szervezetek, vagy egyéb, a légiközlekedés védelmében kötelezettségekkel rendelkező szervezetek is. Az RVB ügyrendjét maga állapítja meg, és szükség szerint, de legalább hathavonta ülésezik.
+
+(4) Az RVB
+
+a) ellátja a légiközlekedés elleni jogellenes cselekmények megelőzésének szervezését és koordinálását, elbírálja és felügyeli a védelmi beruházásokat, információ-áramlást biztosít tagjai között, döntéseket hoz a szükséges védelmi intézkedésekről, értékeli a repülőtér külső és belső minőségbiztosítási programja által keletkezett információkat, amely alapján javaslatot tesz a védelmi rendszer vagy eljárások módosítására,
+
+b) a légiközlekedési hatóság védelmi határozata alapján elrendeli a védelmi programban foglaltaknak megfelelően magasabb védelmi intézkedések bevezetését vagy megszüntetését,
+
+c) figyelemmel kíséri a védelmi program, a Légiközlekedés Védelmi és Kényszerhelyzeti Terv és a repülőtér rend elkészítését és módosítását,
+
+d)[^124] jogosult az ügyrendje alapján munkáját segítő szakértői munkacsoportot létrehozni.
+
+## 16/A.[^125] Védelmi háttérellenőrzés
+
+### 22/A. §
+
+(1) A légiközlekedés védelme érdekében az (EU) 2015/1998 bizottsági végrehajtási rendelet szerint standard vagy fokozott védelmi háttérellenőrzést kell végrehajtani.
+
+(2) A védelmi háttérellenőrzés lefolytatására kötelezett szervezetek:
+
+a) légiközlekedés védelmében közreműködő szervezetek;
+
+b) az a) pontba tartozó szervezetek esetén kibervédelmi feladatokat ellátó harmadik fél vagy szerződött partner és
+
+c) a nem az a) pontban felsorolt szervezetek alkalmazásában álló, az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 6-E. Függelékében megjelölt fuvarozó esetében az első olyan jogalany, amellyel fuvarozói megállapodást köt.
+
+d)[^126] légiközlekedés védelmében együttműködő hatóságok,
+
+e)[^127] védelmi szakértők.
+
+(3) A védelmi háttérellenőrzést az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.7. pont b) alpontjában foglalt időtartamon belül kell elvégezni.
+
+(4) Standard védelmi háttérellenőrzést kell végezni
+
+a) a repülőterek szigorított védelmi területein kívül, továbbá a repülőtereken kívül
+
+aa) a meghatalmazott ügynök, ismert szállító, meghatalmazott beszállító telephelyein a légiáruhoz és légipostai küldeményekhez, légifuvarozói anyagokhoz, fedélzeti ellátmányhoz és repülőtéri készletekhez közvetlenül, kíséret nélkül hozzáférő személyek esetében és
+
+ab) a védelmi ellenőrzést, belépés-ellenőrzést végző vagy az átvizsgálástól eltérő védelmi intézkedéseket végrehajtó személyek esetében,
+
+b) az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.2. pont c) alpontjában foglalt személyek esetében, valamint
+
+c) a repülőtér szigorított védelmi területein kívüli légi oldali területére jogosító állandó belépési engedéllyel rendelkező légijármű javító és karbantartó szervezetek személyzeténél.
+
+(5) Fokozott védelmi háttérellenőrzést kell végrehajtani
+
+a) a repülőtér szigorított védelmi területére kíséret nélküli belépést lehetővé tévő kártyával rendelkező személyek esetében,
+
+b) a Magyarországon működési engedéllyel rendelkező légitársaság által az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 1.2. pontjában meghatározott uniós repülőszemélyzeti azonosító CREW jelöléssel ellátott kártyával (a továbbiakban: uniós repülőszemélyzeti azonosító) rendelkező személyek esetében,
+
+c) a légiforgalmi irányító szolgálatot ellátó szervezet létesítménye korlátozott hozzáférési területére rendszeres belépésre jogosító személyazonosító kártyát igénylő személy esetében, valamint
+
+d) a védelmi oktatók, védelmi tisztek, védelmi felelősök és nemzeti légiközlekedés-védelmi minőségbiztosítási ellenőrök esetében.
+
+e)[^128] az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.2. pont c) alpontjában foglalt személyek esetében.
+
+(6) Mentesülnek a védelmi háttérellenőrzés alól azok a rendvédelmi szervek, nemzetbiztonsági szolgálatok, amelyek írásban igazolják a légiközlekedési hatóság részére, hogy saját védelmi háttérellenőrzésük egyenértékű az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1. pontjában meghatározott követelményekkel.
+
+(7) A védelmi háttérellenőrzések során a (2) bekezdésben megjelölt szervezetek dokumentáltan végrehajtják az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontjában foglalt kötelezettségeket.
+
+(8)[^129] A (2) bekezdésben megjelölt szervezetek a háttérellenőrzés érdekében kérelmezik a légiközlekedési hatóságtól a védelmi háttérellenőrzés elvégzését az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja és 11.1.4. pont b) és d) alpontja vonatkozásában. Amennyiben egy szervezet nem rendelkezik védelmi tiszttel, a kérelmeket az a repülőtéri üzemeltető/közreműködő szervezet nyújtja be a légiközlekedési hatóság felé, amellyel az adott cég szerződéses jogviszonyban áll és rendelkezik védelmi tiszttel.
+
+(8a)[^130] A standard védelmi háttérellenőrzés kérelemhez csatolni kell
+
+a) a védelmi háttérellenőrzött személy által aláírt beleegyező nyilatkozatát a védelmi háttérellenőrzés lefolytatására,
+
+b) személyi igazolványának vagy útlevelének másolatát,
+
+c) a díjtétel befizetéséről szóló igazolást, továbbá
+
+d) a külföldi állampolgár védelmi háttérellenőrzött személyek 3 hónapnál nem régebbi külföldi erkölcsi bizonyítványának hiteles magyar nyelvű fordítását is.
+
+(8b)[^131] A fokozott védelmi háttérellenőrzési kérelemhez a (8a) bekezdésben foglaltakon túl csatolni kell a védelmi háttérellenőrzött személy önéletrajzát.
+
+(8c)[^132] A légiközlekedési hatóság a kérelmet megküldi
+
+a) standard háttérellenőrzés keretében az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.4. pont b) alpontjában és 11.1.3. pont b) alpontjában foglalt esetben az általános rendőrségi feladatok ellátására létrehozott szervnek, vagy
+
+b)[^133] fokozott háttérellenőrzés keretében az a) ponton túl az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont d) alpontjában foglalt esetben az általános rendőrségi feladatok ellátására létrehozott szervnek és az AH-nak.
+
+(9) Ha védelmi háttérellenőrzésre több okból is kötelezett az érintett személy, abban az esetben elegendő egyszer elvégezni a védelmi háttérellenőrzést az érvényességi időn belül. A fokozott védelmi háttérellenőrzési kötelezettséget a standard védelmi háttérellenőrzés megléte nem váltja ki.
+
+(10) Ha az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontjában foglaltak ellenőrzése nem zárul kielégítő eredménnyel, vagy valamelyik hatóság nem tudja végrehajtani a háttérellenőrzést hiányzó dokumentumok vagy egyéb ok miatt, a védelmi háttérellenőrzést sikertelennek kell tekinteni, ezért a légiközlekedési hatóság a kérelmet elutasítja.
+
+(11) A légiközlekedés védelmi tiszti, légiközlekedés védelmi oktatói, nemzeti auditori, EU validátori kérelem benyújtásával egyidejűleg a kérelmező igazolja a védelmi háttérellenőrzés meglétét. A kiadott engedélyhez évente szükséges a sikeres fokozott védelmi háttérellenőrzésről igazolást benyújtani a légiközlekedési hatóság részére. Ha az igazolást az engedéllyel rendelkező személy nem nyújtja be, a légiközlekedési hatóság az engedélyét haladéktalanul visszavonja.
+
+## 17. [^134] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
+
+### 23. §[^135]
+
+(1) A repülőterek szigorított védelmi területeire
+
+a) repülőtéri azonosító kártyával,
+
+b) látogató kártyával,
+
+c) uniós repülőszemélyzeti azonosítóval, továbbá annak igazolásával, hogy az adott napon és járaton való tartózkodása indokolt,
+
+d) nem uniós repülőszemélyzeti azonosító kártyával, továbbá érvényes repülési paranccsal és repülési tervvel, valamint kísérettel az igénybe vett légijárműhöz vagy annak fedélzetére vagy
+
+e) a légiközlekedési hatóság által kiadott légiközlekedés védelmi ellenőrzésre vagy légiközlekedés védelmi felügyeleti tevékenységre jogosító igazolvánnyal
+
+lehet belépni.
+
+(2) Utasként érvényes beszállókártyával vagy azzal egyenértékű utazási jogosultsággal kizárólag az utazáshoz igénybe vett légijárműhöz és annak fedélzetére lehet belépni.
+
+(3) A repülőtéri személyazonosító kártya iránti kérelem tartalmazza, hogy a kérelmező a repülőtér meghatározott zónáiban milyen tevékenységet végez. A repülőtéri személyazonosító kártya kiadásának feltétele a sikeres védelmi háttérellenőrzés megléte, valamint a tevékenység ellátásához szükséges légiközlekedés védelmi képzés teljesítésének igazolása. A kérelemhez csatolni kell a 22/A. § (6) és (7) bekezdésében megjelölt védelmi háttérellenőrzés sikeres elvégzéséről szóló nyilatkozatot és a légiközlekedési hatóság által kiállított engedélyt.
+
+(4) A repülőtéri személyazonosító kártya érvényességi ideje – az (5) bekezdésben foglalt kivétellel – három év.
+
+(5) Ha az uniós repülőszemélyzeti azonosító kártyát Magyarországon a működési engedéllyel rendelkező légitársaság állítja ki, annak érvényességi ideje öt év.
+
+(6) A gépjárművek a repülőtér légi oldalán vagy SRA területen az üzemben tartó által vagy a nevében – a hatáskörrel rendelkező hatóságok hozzájárulásával, korlátozás nélkül vagy korlátozással – kiállított állandó vagy ideiglenes behajtási engedéllyel tartózkodhatnak. A behajtási engedélyt kiállító ellenőrzi az ott tartózkodás indokoltságát. A behajtási engedély legfeljebb ötéves időtartamra adható ki.
+
+(7) A repülőtérre történő belépés és a repülőtér SRA-n történő kísérés részletes szabályait a repülőtér üzemben tartója a repülőtér védelmi programban és a repülőtér rendben határozza meg. A belépésre vonatkozó korlátozásoknak arányban kell állniuk a biztonsági kockázattal.
+
+(8) A repülőtér védelmi programjában ki kell jelölni a belépés során ellenőrzést végző szervezetet, szabályozni kell a személyazonosság ellenőrzését, a személy, csomag és gépjármű átvizsgálását. A tevékenységet részletesen leíró technológiai utasításokat a védelmi program tartalmazza.
+
+(9)[^136] Az egyszerre csak egy személy belépését lehetővé tévő korlátozás nem alkalmazandó azokon a belépési pontokon, amelyeket kizárólag a bűnüldöző szervek tisztviselői használnak.
+
+### 24. §
+
+(1)[^137] A repülőtér üzemben tartója végzi a repülőtéren a légiközlekedés védelmi ellenőrzéseket. A repülőtér üzemben tartója a felelősségébe tartózó légiközlekedés védelmi ellenőrzést a légiközlekedési hatóság előzetes hozzájárulásával átadhatja az e tevékenység ellátására a légiközlekedési hatóságtól engedéllyel rendelkező szervezetnek. A védelmi ellenőrzést végző szervezetnek rendelkeznie kell a légiközlekedési hatóság által jóváhagyott védelmi programmal, védelmi képzési programmal és belső védelmi minőségbiztosítási programmal.
+
+(2)[^138] A légiközlekedés védelmében együttműködő hatóságok tagjainak, valamint gépjárműveinek védelmi átvizsgálása alóli részleges vagy teljes mentességet a légiközlekedési hatóság ad. Az engedély megadása esetén az érintett személyek besorolásáról és számáról a C (2015) 8005 bizottsági végrehajtási határozat 1.3.2.2. pontja szerinti tájékoztatást ad a légiközlekedési hatóság a Bizottságnak.
+
+(3)[^139] Kényszerhelyzetben a rendőrség által lezárt területre történő bejutás lehetővé tétele érdekében a Repülőtéri Kényszerhelyzeti Tervben meghatározott személy belépési jogosultságát a rendőrség igazolja. A belépési jogosultsággal rendelkező személy személyazonosságának igazolását követően jogosult – a repülőtéren alkalmazott beléptetési szabályoknak megfelelően – a Repülőtéri Kényszerhelyzeti Központba vagy a rendőrség által lezárt területre belépni.
+
+(4) A légiközlekedési hatóság a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére országos jogosítású személyazonosító kártyát ad ki.
+
+(5)[^140] Az országos jogosítású személyazonosító kártya a légiközlekedési hatóság megbízólevelének bemutatásával együtt jogosít a légiközlekedés védelmi felügyeleti, ellenőrzési tevékenység végzésére. A légiközlekedés védelmi felügyeleti, ellenőrzési tevékenység végzéséhez – az állami repülések céljára szolgáló repülőtér kivételével – a repülőtér üzemben tartója a repülőtéren alkalmazott beléptetési szabályok figyelembevételével biztosítja Magyarország területén lévő repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére való – a tiltott tárgyak bevitelének tilalmát nem érintve – korlátozás nélküli belépést.
+
+(6)[^141] A repülőtéri belépésre kíséret nélküli jogosultsággal rendelkező személy, vagy a légijármű fedélzetére lépő személy részére a repülőtéri létesítmény, vagy légijármű üzemeltetése vagy repülés közben felmerülő feladatai ellátására a tiltott tárgyak listájába tartozó tárgyak, eszközök beviteléhez a repülőtér szigorított védelmi területére és a légijármű fedélzetére a légiközlekedési hatóság engedélye szükséges.
+
+### 25. §
+
+(1) A belépés szabályait a repülőtér üzemben tartójának a személyazonosító kártyát kérelmező személlyel írásban ismertetnie kell.
+
+(2)[^142]
+
+(3) Ha a repülőtéren ideiglenes vagy eseti jelleggel a légiközlekedés védelme szempontjából nagyobb kockázattal járó tevékenységet (kereskedelmi, nemzetközi üzemeltetést) végeznek, a tevékenység tartamára a magasabb védelmi szintnek megfelelő előírásokat is teljesíteni kell.
+
+(4)[^143] A 300/2008/EK rendeletben meghatározott esetekben a szigorított védelmi területre történő belépés során a C (2015) 8005 bizottsági végrehajtási határozat 1.3.2. pontjában meghatározott személyek vagy csoportok részére a légiközlekedési hatóság felmentést adhat a tiltott tárgyak bevitelének tilalma alól.
+
+(5)[^144] A 2015/1998 bizottsági (EU) végrehajtási rendelet melléklet 5.1.5. pontja alapján a feladott poggyász esetén létrehozott kategóriákról a légiközlekedési hatóság a közlekedésért felelős miniszter útján tájékoztatja a Bizottságot.
+
+(6)[^145] A tiltott tárgyak bevitelének tilalma nem vonatkozik a repülőtéren szolgálatot teljesítő rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok és a NAV, valamint a repülőtér őrzését ellátó fegyveres biztonsági őrségnek a szerv illetékes vezetője által kirendelt, szolgálatban lévő, a repülőtér szigorított védelmi területére belépésre jogosító személyazonosító kártyával rendelkező személyek szolgálati felszerelésére.
+
+### 26. §[^146]
+
+A tiltott tárgyak bevitelének tilalma alól felmentést kapott személyek számáról, pontos beosztásáról mind a repülőtér üzemben tartója, mind a NAV, mind a polgári nemzetbiztonsági szolgálat, mind pedig a rendvédelmi szerv tájékoztatja a légiközlekedési hatóságot. A légiközlekedési hatóság a tiltott tárgyak bevitelének tilalma alól felmentést kapott személyek számáról, beosztásáról szóló tájékoztatást a közlekedésért felelős miniszter útján továbbítja a Bizottsághoz.
+
+### 27. §[^147]
+
+(1)[^148] A 300/2008/EK rendelet I. melléklet 4.1. pontja, valamint a 2015/1998 bizottsági (EU) végrehajtási rendelet melléklet 4.1.1.7. pontja szerinti utasok esetében a felmentést a légiközlekedési hatóság adja meg.
+
+(2)[^149] A feladott poggyászok ellenőrzésének szakmai felügyeletét az általános rendőrségi feladatok ellátására létrehozott szerv látja el. Amennyiben tiltott tárgyra utaló gyanú merül fel, a repülőtér üzemben tartója a repülőtér infrastrukturális lehetőségein belül valamennyi rendelkezésre álló módon hívja az utast és a feladott poggyász az utas jelenlétében nyitható fel. Utas jelenléte nélkül a feladott poggyászt erre felhatalmazott, repülőtéri állandó belépő kártyával rendelkező, védelmi ellenőrzés felügyeletére kiképzett és ilyen munkakörben szolgálatot teljesítő rendőr jelenlétében a feladott poggyász védelmi ellenőrzésére jogosult személy nyithatja ki a poggyász állagsérelme nélkül.
+
+(3) Ha a poggyász felnyitására az utas jelenléte nélkül került sor, a poggyászba angol és magyar nyelvű értesítést kell helyezni, amely tartalmazza a nyitás helyét és idejét, valamint a védelmi ellenőr és a szolgálatban lévő rendőr azonosítására alkalmas adatokat. A poggyász felnyitásáért, a dokumentáció elkészítéséért, valamint a poggyász biztonságos és szakszerű visszazárásáért a védelmi átvizsgálást végző szervezet felelős.
+
+(4) A védelmi ellenőrzést végző személynek védelmi ellenőri vizsgával kell rendelkeznie.
+
+## 18. Megfigyelés, őrjárat
+
+### 28. §[^150]
+
+A repülőtér területén a megfigyelést, őrjáratot és egyéb fizikai ellenőrzést a repülőtér üzemben tartója hajtja végre.
+
+## 18/A.[^151] A légiközlekedés védelmi fenyegetettségre vonatkozó szabályok
+
+### 28/A. §
+
+(1) A légiközlekedési hatóság folyamatosan elemzi a polgári légiközlekedés fenyegetettségének szintjét, amelyet negyedévente felülvizsgál. A kockázatelemzés során ki kell térni különösen az alábbi lehetséges fenyegetéstípusokra:
+
+a) személy által szállított improvizált robbanószerkezet (személyre szerelt, kézipoggyászban vagy feladott poggyászban);
+
+b) gépjárművel szállított improvizált robbanószerkezet;
+
+c) improvizált robbanószerkezet vagy egyéb tiltott tárgy feljuttatása a légijármű fedélzetére;
+
+d) légiáruban szállított improvizált robbanószerkezet;
+
+e) a gyalogosan hordozható légvédelmi rakétarendszerek;
+
+f) repülés során kialakuló fenyegetések:
+
+fa) légijármű mint elkövetési eszköz;
+
+fb) légijármű eltérítés, légijármű hatalomba kerítés;
+
+fc) távolról vezérelt légijármű rendszer ellen elkövetett fenyegetés;
+
+fd) egyéb repülés során kialakuló fenyegetések;
+
+g) kibertámadás:
+
+ga) ATM rendszer,
+
+gb) légijármű rendszer,
+
+gc) repülőtéri rendszer ellen;
+
+h) kémiai, biológiai és radiológiai fenyegetések;
+
+i) földi oldalon kialakuló fenyegetések;
+
+j) improvizált robbanószerkezet vagy fegyver vagy mérgező anyagok a fedélzeti ellátmányban vagy más szolgáltatásokban;
+
+k) hoaxok.
+
+(2) A kockázatértékelési módszertannak ki kell térnie a kockázat három összetevőjére, a fenyegetésre, a következményre és a sebezhetőségre.
+
+(3) A légiközlekedési hatóság a minden fenyegetéstípushoz kidolgozott kockázatértékelés alapján megállapítja a fenyegetettségi szintet.
+
+(4) A légiközlekedési hatóság a különböző fenyegetettségi szintekre külön eljárásokat dolgoz ki annak érdekében, hogy mérsékelje a lehetséges események bekövetkezésének valószínűségét.
+
+(5) Az együttműködő hatóságok és a légiközlekedésben közreműködő szervezetek a fenyegetettséggel kapcsolatos feladatokban együttműködnek a légiközlekedési hatósággal, illetve a fenyegetettség szintjének meghatározása érdekében a szükséges információkat a légiközlekedési hatóság részére átadják.
+
+## 19. [^152] Eljárás alternatív légiközlekedés védelmi intézkedéseket alkalmazó repülőterek esetében
+
+### 29. §
+
+(1)[^153] A légijármű vezetője, amennyiben az 1254/2009/EU rendeletben meghatározott repülőtérről (a továbbiakban: kis repülőtér) kezdte meg a repülést, köteles a fogadó repülőteret még az elindulást megelőzően erről tájékoztatni, amennyiben a fogadó repülőtér nem az e rendeletben meghatározott kis repülőtér. A fogadó repülőtér a repülőtér rendjében és védelmi programjában szabályozza a kis repülőtérről érkező légijárművek, azon lévő személyek és csomagjaik kezelését. A jelentés elmulasztása esetén a légiközlekedési hatóság eljárást indít.
+
+(1a)[^154] A légiközlekedésről szóló törvény szerinti polgári repülőterek esetében a légi oldalon elkülönített területeket lehet kijelölni, amelyet a védelmi tervben kell szabályozni. Az elkülönített területeknél a jól beazonosítható határokat a védelmi terv térképmellékletében fel kell tüntetni, valamint az elkülönített területekre való belépés szabályait és az alternatív intézkedéseket az üzemeltetőnek részleteznie kell.
+
+(2)[^155] A légiközlekedési törvény szerinti üzleti célú, a polgári célú speciális és közös felhasználású repülőtéren nem kell szigorított védelmi területet kijelölni, elegendő a repülőtér rendben a 300/2008/EK bizottsági rendelet szerinti légi oldal és földi oldal kijelölése azzal a feltétellel, hogy
+
+a)[^156] az induló légijárművön a beszállás megkezdése előtt a légitársaság a légijármű védelmi átvizsgálását végrehajtotta,
+
+b)[^157] a repülőtér üzemben tartója biztosítja, hogy a légi oldalnak a légijármű állóhely és annak mozgása során igénybe vett területén, – amíg azon induló vagy érkező légijármű tartózkodik – nincs tiltott tárgy, továbbá
+
+c)[^158] a légitársaság biztosítja, hogy a repülés tartama alatt és a repülőtér légi oldalának a beszállásra vagy berakodásra várakozó légijármű parkolására kijelölt részén – amíg a légijármű ellenőrzése, illetve az utasok beszállítása folyamatban van – az oda belépő személyeknél engedély nélkül tiltott tárgy ne legyen, vagy ennek megakadályozására kíséretet biztosít.
+
+(3)[^159] A légiközlekedési törvény szerinti üzleti célú, polgári célú speciális és közös felhasználású repülőtér esetében a repülőtér rendben kell szabályozni:
+
+a) a repülőtér üzemben tartója által a légi oldalra történő belépés engedélyezését,
+
+b) személynek és járműnek a repülőtér légi oldalán tartózkodása indokoltságának igazolását és ellenőrzését,
+
+c) a légi és a földi oldal határának elkülönítésére használt jelöléseket, és annak repülés üzem közbeni felügyeletét,
+
+d)[^160] a (2) bekezdés c) pontjában megjelölt területre, illetve a légitársaság által üzemben tartott légijármű fedélzetére lépés előtt az oda belépő személyek, utasok, személyzet, kézipoggyász, feladott poggyász végrehajtott ellenőrzésének módját, illetve átvizsgálás helyett a 2015/1998 bizottsági (EU) végrehajtási rendelet 1.2.7.3. pontjában meghatározott kíséretre vonatkozó követelményeket,
+
+e)[^161] a légitársaság által üzemben tartott légijármű védelmét, a 2015/1998 bizottsági (EU) végrehajtási rendelet 3.2.1.1. pontjában megjelölt valamelyik eljárás, vagy a légitársaság által üzemben tartott légijármű fajtájának és a kis repülőtér adottságának megfelelően.
+
+(4)[^162] A (3) bekezdés d) pontjában hivatkozott követelményeknek megfelelő kísérő legfeljebb öt személyt kísérhet egyidejűleg a repülőtéren azzal, hogy a kísérőnek a 2015/1998 bizottsági (EU) végrehajtási rendelet 1.2.2.2. c)*,* d) vagy e) pontban említett érvényes azonosító kártya helyett a repülőtér rend alapján kiadott engedéllyel kell rendelkeznie.
+
+(5)[^163] Az uniós jogi aktusokban megjelölt tiltott eszközök a (2) bekezdés c) pontjában megjelölt területre vagy az innen induló légitársaság által üzemben tartott légijármű fedélzetére történő felvitelére az e rendeletben meghatározott szabályok az irányadóak azzal, hogy a korlátozás nem vonatkozik a 2015/1998 bizottsági (EU) végrehajtási rendelet 4.1.3. pontjában megjelölt folyadékra, aeroszolra és gélre.
+
+(6)[^164]
+
+### 30. §
+
+(1)[^165] A légiközlekedési törvény szerinti üzleti célú, polgári célú speciális és közös felhasználású, valamint az 1254/2009/EU rendelet hatálya alá tartozó repülőtér esetében a repülőtér üzemben tartója a kis repülőtérré történő minősítésre vonatkozó kérelmet legkésőbb az üzemben tartási engedély iránti kérelemmel egyidejűleg nyújtja be a légiközlekedési hatósághoz. A kérelemben nyilatkozni kell az átminősítés objektív indokairól, továbbá be kell mutatni a légiközlekedés védelmi szintjének fenntartása érdekében javasolt intézkedéseket. A kérelemhez mellékelni kell
+
+a) a repülőtér előző évi forgalmáról készült statisztikát,
+
+b) a repülőtér üzemben tartója által készített kockázati elemzést és
+
+c) a javasolt repülőtéri védelmi programot és repülőtér rendet.
+
+(2)[^166] Ha a repülőtér üzemben tartója a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság tizenöt napon belül hiánypótlásra hívja fel.
+
+(3)[^167] A légiközlekedési hatóság az engedély kiadását követően ötévente felülvizsgálja a kis repülőtérré minősítés indokait és a kis repülőtéren alkalmazott intézkedéseket, eljárásokat. Tapasztalatai, az elvégzett kockázatelemzés és szakhatósági állásfoglalás alapján szigorúbb, vagy további enyhébb intézkedések bevezetését rendelheti el.
+
+(4) A kis repülőtérré minősítésről és az elfogadott intézkedésekről a légiközlekedési hatóság a közlekedésért felelős miniszter útján tájékoztatja a Bizottságot. A kis repülőtérré minősített repülőterek listáját a légiközlekedési hatóság a honlapján közzéteszi.
+
+(5)[^168] A légiközlekedési törvény szerinti feltöltőhely és mentőhelikopter leszállóhely teljeskörűen mentesül a polgári légi közlekedés védelméről szóló 300/2008/EK európai parlamenti és tanácsi rendelet 4. cikk 1. pontjában meghatározott közös alapkövetelmények végrehajtása alól.
+
+## 20. Szigorúbb intézkedések bevezetése
+
+### 31. §
+
+(1)[^169] A légiközlekedési hatóság nemzeti légiközlekedés-védelmi határozatban rendeli el a szigorúbb intézkedések bevezetését, amelyről haladéktalanul tájékoztatja a Bizottságot.
+
+(2)[^170] Az egy járatra, egy időpontban történő szigorúbb intézkedések alkalmazását adott járatra az általános rendőrségi feladatok ellátására létrehozott szerv és az AH kockázatelemzése alapján a légiközlekedési hatóság rendeli el, vagy a légitársaság erre irányuló kérelmére a légiközlekedési hatóság az általános rendőrségi feladatok ellátására létrehozott szerv és az AH véleményének kikérésével engedélyezheti.
+
+(3)[^171]
+
+(4) A 72/2010/EU rendelet 15. cikke szerinti értesítés esetén a légiközlekedési hatóság védelmi határozatban rendeli el a szükséges intézkedések bevezetését.
+
+## 21. A harmadik ország által megkövetelt védelmi intézkedések
+
+### 32. §
+
+(1)[^172] A harmadik ország által megkövetelt, magyar repülőtéren alkalmazandó szigorúbb védelmi intézkedések alkalmazására irányuló kérelmet a légiközlekedési hatóság juttatja el a Bizottságnak.
+
+(2)[^173] Az egy járatra, egy időpontban történő szigorúbb intézkedések alkalmazását adott járatra az általános rendőrségi feladatok ellátására létrehozott szerv és az AH kockázatelemzése alapján a légiközlekedési hatóság rendeli el, vagy a légitársaság kérelmére a légiközlekedési hatóság az általános rendőrségi feladatok ellátására létrehozott szerv és az AH véleményének kikérésével engedélyezheti.
+
+## 22. A légiközlekedési hatóság intézkedései
+
+### 33. §
+
+(1)[^174] A 72/2010/EU rendelet szerinti bizottsági vagy a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján végrehajtott ellenőrzés során, továbbá az együttműködő hatóságok által tapasztalt hiányosságok észlelése, vagy légiközlekedés védelmi eseményről szóló értesítés esetén a légiközlekedési hatóság – az általános közigazgatási rendtartásról szóló törvényben foglalt hatósági intézkedéseket megelőzően, ha annak feltételei fennállnak – a légiközlekedési tevékenységgel összefüggően tanácsot adhat és ajánlást fogalmazhat meg.
+
+(2) A nemzeti légiközlekedés védelmi programokban előírt feladatok végrehajtását a légiközlekedési hatóság ellenőrzi.
+
+## 23. [^176] Áru, postai küldemény, légifuvarozói posta és légifuvarozói anyag légiközlekedési védelmi ellenőrzése és védelme
+
+### 34. §
+
+(1)[^177] Amennyiben nem a légitársaság hajtja végre az áru- és postai küldemény, légifuvarozói posta és a légifuvarozói anyag légiközlekedés védelmi ellenőrzését,, és erre a repülőtéren kívül lévő telephelyen kerül sor, a védelmi ellenőrzés elvégzésére jogosított szervezet köteles a repülőtér üzemben tartóját tájékoztatni azokról a jelzésekről, amelyek alapján beazonosítható, hogy az ellenőrzés megtörtént, valamint azt ki és hol hajtotta végre.
+
+(2)[^178] A repülőtér üzemben tartója a repülőtér rendben és védelmi programjában az (1) bekezdésben meghatározott azonosítási eljárásokat naprakészen tartja, az (1) bekezdésben meghatározott tevékenységet mindaddig elfogadja, amíg védelmi határozatban ennek ellenkezőjére nem kap kötelezést a légiközlekedési hatóságtól.
+
+(3) A légijármű fedélzetén maradó tranzitáru és tranzit postai küldemény ellenőrzésének szabályait a légitársaság védelmi programja állapítja meg.
+
+(4)[^179] Az olyan árut és postai küldeményt, légifuvarozói posta és a légifuvarozói anyagot, amelyet a védelmi ellenőrzések elvégzése után az illetéktelen beavatkozástól nem védtek megfelelően, vagy arra utaló jel van, hogy illetéktelen beavatkozástól nem védték megfelelően, ismételten át kell vizsgálni az e rendeletben foglaltak szerint.
+
+(5)[^180] A C (2015) 8005 bizottsági végrehajtási határozat 6.2.1. pontja alapján meghatározott mentességeket a légiközlekedési hatóság adja ki. A 2015/1998/EU bizottsági végrehajtási rendelet 6.8.2.2. és 6.8.5. pontjában említett uniós légiközlekedés védelmi ellenőrzéseket a légiközlekedési hatóság vagy az uniós adatbázisban jóváhagyott uniós védelmi ellenőr hajtja végre. Az ACC3, az RA3 és KC3 kijelölés eljárása során a légiközlekedési hatóság az uniós védelmi ellenőr jelentését figyelembe veszi.
+
+(6)[^181] Ha a jóváhagyott meghatalmazott ügynök, ismert szállító, meghatalmazott beszállító két éven belül nem folytat az e jogkörhöz kapcsolódó tevékenységet, a légiközlekedési hatóság az engedélyét visszavonja.
+
+### 35. §[^182]
+
+A kérelemhez csatolni kell a meghatalmazott ügynök védelmi tisztjének kinevezését, valamint a védelmi programot. A védelmi programban foglaltak teljesülését a légiközlekedési hatóság ellenőrzi.
+
+### 36. §
+
+(1)[^183]
+
+(2)[^184] A kérelemhez csatolni kell az ismert szállító védelmi tisztjének kinevezését, az ismert szállító védelmi programját és a légiközlekedési védelmi feladatok ellátásával összefüggő uniós előírásokban meghatározott információkat, nyilatkozatokat. A védelmi programban foglaltak teljesülését a légiközlekedési hatóság ellenőrzi. Az ismert szállító a szállítmány átadásakor köteles meggyőződni arról, hogy azt egy meghatalmazott ügynöknek adja át.
+
+### 36/A. §[^185]
+
+Ha az első belépési vámhatóság által kiadott berakodást megtiltó értesítés után a légijármű már felszállt, a légiközlekedési hatóság értesíti az együttműködő hatóságokat, valamint a repülőtér üzembentartóját. A repülőtér üzembentartója életbe lépteti a repülőtéri kényszerhelyzeti tervben meghatározott vészhelyzeti eljárásokat.
+
+### 36/B. §[^186]
+
+A légiközlekedési hatóság végrehajtja a nemzeti polgári légiközlekedés védelmi programjában szereplő biztonsági vészhelyzeti terveket.
+
+### 36/C. §[^187]
+
+Ha az 1008/2008/EK rendelettel összhangban a légitársaság légiáru fuvarozásra kiadott magyar működési engedéllyel rendelkezik, a nemzeti vészhelyzeti tervben szereplő berakodást megtiltó értesítés esetére eljárást dolgoz ki, valamint végrehajtja a nemzeti vészhelyzeti tervben foglaltakat.
+
+### 36/D. §[^188]
+
+A légiközlekedési hatóság által jóváhagyott meghatalmazott ügynöki minősítéssel rendelkező jogalany a Légiközlekedés Védelmi Programjában a nemzeti vészhelyzeti tervben szereplő berakodást megtiltó értesítés esetére eljárást dolgoz ki, valamint végrehajtja a nemzeti vészhelyzeti tervben foglaltakat.
+
+### 37. §[^189]
+
+(1)[^190] A fedélzeti ellátmány meghatalmazott beszállítója a tevékenység megkezdése előtt benyújtott kinevezési kérelméhez csatolni kell a meghatalmazott beszállító védelmi tisztjének kinevezését, valamint a védelmi programot. A védelmi programban foglaltak teljesülését a légiközlekedési hatóság ellenőrzi.
+
+(2)[^191] A fedélzeti ellátmány ismert beszállítóját az a légitársaság vagy jogi személy jelöli ki és ellenőrzi az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 8.1.4.4. pontja szerint, amely részére az szállít. A meghatalmazott ügynökök, ismert szállítók, meghatalmazott beszállítók listáját a légiközlekedési hatóság a honlapján közzéteszi.
+
+### 37/A. §[^192]
+
+A légifuvarozói posta és légifuvarozói anyag légiközlekedés-védelmi ellenőrzéséért a légitársaság felelős.
+
+## 24. Repülőtéri készletek
+
+### 38. §[^193]
+
+(1) A repülőtér szigorított védelmi területeire, az árusításra vagy használatra szánt készletek – beleértve a vámmentes boltok és éttermek készleteit is – védelmi ellenőrzését a repülőtér üzemben tartója látja el, kivéve a repülőtéri készletek ismert beszállítóját. A repülőtéri készletek ismert beszállítója repülőtéri készletek légiközlekedés védelmi ellenőrzésére utaló jelzésekről szóló tájékoztatást a repülőtér üzemben tartója részére megadja.
+
+(2)[^194] A repülőtéri készletek ismert beszállítóinak elfogadását és az (EU) 2015/1998 bizottsági végrehajtási rendelet mellékletének 9.1.3. pontja szerinti ellenőrzését a repülőtér üzemben tartója végzi, valamint valamely másik az Európai Unió területén fekvő repülőtér által jóváhagyott repülőtéri készlet ismert beszállítója helyszíni ellenőrzésének jelentését a repülőtér üzemeltető figyelembe veheti. Ebben az esetben a repülőtér védelmi programjának tartalmaznia kell az ismert beszállító kinevezésének eljárását, légiközlekedés védelmi minőségbiztosítási ellenőrzését és tevékenységének felügyeletét, valamint a repülőtéri készlet légiközlekedés védelmi ellenőrzésére utaló jelzések leírását.
+
+## 25. Repülés tartama alatti védelmi intézkedések
+
+### 39. §[^195]
+
+(1) A légitársaság a védelmi programjában eljárást dolgoz ki és alkalmaz a repülés tartama alatti védelmi intézkedésekre.
+
+(2)[^196] A nemzetközi egyezmények alapján tiltott eszközöknek a légijármű fedélzetére történő felvitelére a 2015/1998 bizottsági (EU) végrehajtási rendelet melléklet 4.4.2. pontja alapján a légiközlekedési hatóság ad engedélyt. A szakhatóságok az engedélyben foglaltak esetleges kockázatait a légiközlekedés védelme szempontjából vizsgálják.
+
+(3)[^197] A 2015/1998 bizottsági (EU) végrehajtási rendelet melléklet 4.4.2.b. pontja alapján a légitársaságot és a légijármű parancsnokát a légiközlekedési hatóság írásban tájékoztatja az engedélyezett tiltott eszköz fajtájáról és az utasok légijárművön történő elhelyezéséről.
+
+## 26. A vészhelyzetben való tevékenység
+
+### 40. §
+
+(1)[^198] A repülőtér üzemben tartója, a légitársaság, a légiforgalmi irányító szolgálat, az egyéb jogalanyok a légiközlekedés ellen irányuló várható, vagy bekövetkezett jogellenes cselekmény megelőzésére, vagy arra irányuló kísérlet megakadályozására irányuló eljárásaikat a Kényszerhelyzeti Tervben rögzíti, amely tartalmazza az adott szervezet vészhelyzetben való tevékenységét és a repülőtéri szolgálatokkal történő együttműködését.
+
+(2)[^199] A Kényszerhelyzeti Tervben foglalt feladatok gyakorlására és az eredmények értékelésére a 2 millió fő feletti utasforgalommal rendelkező kereskedelmi repülőtér esetében évente, ezt az utasforgalmat el nem érő kereskedelmi repülőterek esetén kétévente kell végrehajtani. A védelmi gyakorlat irányítója az a szervezet, amely éles kényszerhelyzet esetén az irányító. A védelmi gyakorlat időpontjáról a légiközlekedési hatóságot legalább a védelmi gyakorlat időpontja előtt egy hónappal tájékoztatni kell.
+
+(3) Ha a repülőtér nemzetközi légi forgalom számára történő ideiglenes megnyitása megszakítás nélkül a tíz napot meghaladja, a tervezett megnyitást egy héttel megelőzően védelmi gyakorlatot kell végrehajtani. A gyakorlat értékeléséről szóló jegyzőkönyvet a repülőtér üzemben tartója megküldi a légiközlekedési hatóságnak.
+
+(4)[^200] A nemzetközi kereskedelmi repülőtér és a kereskedelmi repülőtér üzemben tartójának állandó objektumú, a nemzetközi légi forgalom számára ideiglenes vagy eseti jelleggel megnyitott repülőtér üzemben tartójának – a megnyitás időtartamára – ideiglenes Repülőtéri Kényszerhelyzeti Központot kell kialakítania.
+
+(5)[^201] A Repülőtéri Kényszerhelyzeti Központ kialakításának, berendezésének és felszerelésének biztosítania kell
+
+a) az RVB és a légiközlekedés elleni jogellenes cselekmény felszámolásában közreműködő egyéb szervek képviselőinek elhelyezését, a tervező, szervező, döntés-előkészítő munka feltételeit,
+
+b) többcsatornás, közvetlen (rádió-, telefon-, fax-, internet-) összeköttetést az RVB, a mentő- és katasztrófavédelmi, valamint a légiközlekedés elleni jogellenes cselekmény felszámolásában közreműködő egyéb szervek között,
+
+c) közvetlen összeköttetést a légiforgalmi irányító központtal, valamint a veszélyeztetett légijárművel,
+
+d) a veszélyeztetett területről képi információk továbbításának lehetőségét, a tervezés és a végrehajtás dokumentálását segítő irodatechnikai, rögzítő és másoló berendezéseket és
+
+e) az elektronikus berendezések szünetmentes áramellátását.
+
+(6)[^202] Vészhelyzetben a vészhelyzet felszámolását végző személy és járműve – amennyiben a repülőtér erre az esetre kijelölt belépőpontjától a vészhelyzet helyszínéig kísérettel rendelkezik – mentesül az átvizsgálás alól. A vészhelyzet elmúltával a repülőtér vészhelyzetben érintett szigorított védelmi területét a repülőtér üzemben tartója átvizsgálja, annak érdekében, hogy ott tiltott tárgyak ne maradjanak.
+
+## 26/A. [^203] Kibervédelmi intézkedések
+
+### 40/A. §
+
+(1) A nemzetbiztonsági szakszolgálat elektronikus úton tájékoztatja az együttműködő hatóságokat és a légiközlekedés védelmében közreműködő szervezeteket az aktuális, releváns információkról, fenyegetettségről és kockázatokról, a kiberkockázatokat is beleértve, annak érdekében, hogy azok megfelelő kockázatelemzést tudjanak végrehajtani feladataik ellátásához.
+
+(2) A légiközlekedés védelmében közreműködő szervezetek kialakítják a tevékenységük ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerüket (kibervédelmi intézkedések), melyet a védelmi programban kell rögzíteni.
+
+(3) A légiközlekedés védelmében közreműködő szervezetek kibervédelmi intézkedések keretében, azonosítják és védik a kritikus információkat és adatokat, kommunikációs rendszereket, és megelőző intézkedéseket tesznek az informatikai rendszer kockázatokkal arányos védelmére, a sebezhetőség kiküszöbölésére, amelyek biztosítják a megfelelő reagálást az esetleges kibertámadások elhárítására. Az intézkedések magukban foglalják a védelmet, a felderítést, a választ és a helyreállítást.
+
+(4) Kritikus elektronikus információnak vagy rendszernek minősülnek különösen a következők:
+
+a) a meghatalmazott ügynökök, ismert szállítók, meghatalmazott beszállítók adatbázisa,
+
+b) az utasoktól különböző személyek által használt beléptető rendszerek beleértve az elektronikus kapukat és egyéb ajtókat, valamint a riasztó rendszerek,
+
+c) a kártyaleolvasók,
+
+d) az E-útlevél leolvasók,
+
+e) a kamerás megfigyelőrendszer,
+
+f) az utas és poggyász összeegyeztető rendszer,
+
+g) a védelmi átvizsgálásra használt rendszerek és robbanóanyag felderítő rendszerek,
+
+h) a repülőtéri azonosító kártya adatbázis, ideértve a foglalkoztatásra és a védelmi háttérellenőrzésre vonatkozó adatokat is,
+
+i) a személyek védelmi képzésére vonatkozó adatbázis.
+
+(5) A kibervédelmi intézkedéseket a légiközlekedés védelmében közreműködő szervezetek szervezetükön belül közzéteszik, és legalább kétévente vagy jelentős változások esetén felülvizsgálják abból a célból, hogy az alkalmassága, megfelelősége és hatékonysága biztosított legyen.
+
+(6) A kibervédelmi intézkedések magukban foglalják a szervezeten belüli kockázatelemzési és kockázatkezelési eljárást, az üzletmenet- folytonosságra vonatkozó eljárást, valamint az eseménykezelési eljárást. A védelmi program részét képező kibervédelmi intézkedések meghatározzák az egyes munkakörök betöltéséhez szükséges informatikai ismereteket, valamint tartalmazzák a felhasználók kibervédelmi tudatossági képzésérére vonatkozó kötelezettségét.
+
+(7) A légiközlekedés védelmében közreműködő szervezetek kizárólag olyan szoftvereket és kapcsolódó dokumentációt használnak, melyek megfelelnek a rájuk vonatkozó szerződésben foglalt elvárásoknak és a szerzői jogi és más jogszabályoknak.
+
+(8) A kockázatelemzési és kockázatkezelési eljárás kiterjed a lehetséges kockázatok felmérésére, a kockázatok kezelésének felelősségére, valamint a kockázatok kezelésének elvárt minőségére. A légiközlekedésben közreműködő szervezetek végrehajtják a biztonsági kockázatelemzéseket és rögzítik a kockázatelemzések eredményét.
+
+(9) Az üzletmenet folytonosságra vonatkozó eljáráshoz kapcsolódóan a kibervédelmi intézkedések tartalmazzák:
+
+a) a biztosítandó szolgáltatásokkal kapcsolatos alapfeladatok és alapfunkciók meghatározását, az ezekhez kapcsolódó vészhelyzeti követelményeket;
+
+b) a helyreállítási feladatokról, a helyreállítási prioritásokról és mértékekről történő rendelkezést;
+
+c) a vészhelyzeti szerepkörök, felelősségi területek, a kapcsolattartó személyek kijelölését;
+
+d) az alapfunkciók újrakezdése időpontjának az üzletmenet-folytonossági eljárás aktiválását követő meghatározásával kapcsolatos szabályokat;
+
+e) az elektronikus információs rendszer alapfunkciót támogató kritikus rendszerelemek meghatározását;
+
+f) a folyamatos működést szolgáló információ-feldolgozó, infokommunikációs és környezeti képességek biztosításához szükséges kapacitás megtervezésére vonatkozó kötelezettséget; valamint
+
+g) az összes funkció újrakezdése időpontjának az üzletmenet-folytonossági eljárás aktiválását követő meghatározásával kapcsolatos szabályokat.
+
+(10)[^204] A kiberbiztonsági incidenskezelési eljárás magában foglalja az előkészületet, az észlelést, a vizsgálatot, az elszigetelést, a megszüntetést és a helyreállítást, továbbá összehangolja a kiberbiztonsági incidenskezelést az üzletmenet-folytonossági eljáráshoz tartozó tevékenységekkel.
+
+(11) A biztonsági kockázatelemzés eredményének értékelése alapján a biztonsági kockázattal arányos módon gondoskodni kell legalább a következőkről:
+
+a) az információs vagyonelemek és az információ-feldolgozó eszközök azonosításáról, nyilvántartásáról;
+
+b) a rendszer szabályozott, ellenőrizhető és rendszeresen ellenőrzött felhasználói adminisztrációjáról, beleértve a hozzáférési szinteket, az egyedi jogosultságokat, ezek engedélyezését, a felelősségi köröket, a hozzáférés naplózását, a rendkívüli eseményeket;
+
+c) a felhasználók egyedi azonosításának és hitelesítésének biztosításáról;
+
+d) a jogosult felhasználók számára a rendszerekhez és szolgáltatásokhoz való hozzáférés biztosításáról és a jogosulatlan hozzáférés megelőzéséről;
+
+e) a felhasználók olyan hálózati és hálózati szolgáltatási hozzáféréssel történő ellátásáról, amelyek használatára felhatalmazással bírnak;
+
+f) rendszeres biztonsági mentések készítéséről és ezek rendszeres teszteléséről az elfogadott mentési szabályzatnak megfelelően;
+
+g) a felhasználói, rendszergazdai és rendszerüzemeltetői tevékenységek, hibák és információbiztonsági események eseménynaplóban rögzítéséről, a naplóbejegyzések megőrzéséről és rendszeres értékeléséről;
+
+h) a használt információs rendszerek műszaki sebezhetőségeire vonatkozó információk, nyomon követéséről, a rendszer kitettségének értékeléséről,a kapcsolódó kockázatok kezeléséről;
+
+i) az adathordozók szabályozott és biztonságos kezeléséről; valamint
+
+j) a felderítő, megelőző és helyreállító intézkedések bevezetéséről a rosszindulatú program elleni védelem érdekében.
+
+(12) A légiközlekedési hatóság a (2)–(11) bekezdésben foglaltak végrehajtásához szükséges szakmai szabályokat a honlapján útmutatóban teszi közzé.
+
+(13)[^205] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
+
+## 27. Védelmi személyzet
+
+### 41. §[^206]
+
+(1)[^207] A nemzetközi kereskedelmi repülőtér üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légitársaság, a földi kiszolgáló, a karbantartó és javító szervezet, a légiforgalmi irányító szolgálat, a meghatalmazott ügynök, a fedélzeti ellátmány meghatalmazott beszállítója, az ismert szállító a légiközlekedés védelmi intézkedési rendszer irányítása érdekében védelmi tisztet jelöl ki.
+
+(2)[^208] A légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (1) bekezdés a) pont ac) alpontja és 37. § (1) bekezdés b) pontja szerinti repülőtér üzemben tartója védelmi kapcsolattartót, a repülőtéri készletek ismert beszállítója, a fedélzeti ellátmány ismert beszállítója a légiközlekedés védelmi intézkedési rendszer biztosítása érdekében védelmi felelőst jelöl ki.
+
+(3)[^209] A védelmi tiszt közvetlenül az adott szervezet vezetőjének alárendeltségébe tartozik, és felelős azért, hogy a szervezet naprakész légiközlekedés védelmi információkkal rendelkezzen és a légiközlekedés védelmi szabályokat betartsák. A védelmi tiszt felel a szervezet védelmi tervének aktualizálásáért, amelyet rendszeresen, de legalább ötévente felülvizsgál. A védelmi tiszt felelős a hatóságokkal való kapcsolattartásért. Védelmi tisztnek magyar nyelven kommunikálni képes, a légiközlekedés védelmében együttműködő hatóságok számára folyamatosan elérhető személy jelölhető ki. A védelmi tiszt akadályoztatása esetére köteles helyettesről gondoskodni. A helyettes csak olyan személy lehet, aki megfelel a védelmi tiszt alkalmazási feltételeinek. A védelmi tiszt és a védelmi felelős a szervezetnél légiközlekedés védelmi feladatot végrehajtó munkavállalók tekintetében intézkedési jogkörrel rendelkezik.
+
+(3a)[^210] A védelmi tiszt védelmi tiszti utasítást adhat ki, amely objektív okból a jóváhagyott védelmi tervben foglaltaktól eltérő ideiglenes szabályzat vagy eljárási rend. A védelmi tiszti utasítást a légiközlekedési hatóság hagyja jóvá, ha az biztosítja a jogszabályban meghatározott követelményeknek megfelelő biztonsági szintet.
+
+(4) Egy szervezetnél egy időben csak egy kinevezett védelmi tiszt foglalkoztatható. Ha a szervezet új személyt jelöl ki, a korábbi személy megbízatása megszűnik. A védelmi tiszt más szervezetnél nem tölthet be védelmi tiszti pozíciót. A védelmi tiszt olyan más munkakört nem tölthet be, továbbá olyan egyéb vagy további munkaviszonnyal nem rendelkezhet, amely a feladatai objektív és pártatlan, valamint szakmailag megfelelő ellátását akadályozhatja.
+
+(5) Több telephellyel rendelkező szervezet esetén minden telephelyre védelemért felelős személyt kell kijelölni, aki a védelmi tiszt szakmai irányítása alá tartozik.
+
+## 28. Információk megosztása
+
+### 42. §
+
+(1) A repülőtér üzemben tartója, a légitársaság, a légijármű földi kiszolgáló, karbantartó és javító szervezet, a légiforgalmi irányítói szolgálat a légiközlekedés védelmével összefüggő információkat, adatokat bizalmasan kezeli, és biztosítja, hogy azokhoz illetéktelen személyek ne férhessenek hozzá. E rendelkezés nem érinti a közérdekű adatok nyilvánosságát.
+
+(2) A védelmi intézkedésekkel, szabályokkal kapcsolatos információt – a légiközlekedés védelmében közreműködő szervezetek kivételével – külső szerv, személy részére csak az illetékes szerv vezetője által erre felhatalmazott, kijelölt személy adhat.
+
+(3) A védelemben érintett személyeknek a tevékenység ellátásához szükséges mértékben az előírásokat, követelményeket ismerniük kell.
+
+### 42/A. §[^211]
+
+(1) A légiközlekedési hatóság a rendelkezésére álló, más ICAO Szerződő Államokat érintő, légiközlekedési fenyegetettségre vonatkozó információt haladéktalanul, de legkésőbb a tudomására jutástól számított 5 napon belül a szükséges mértékben megosztja az érintett ICAO Szerződő Állammal.
+
+(2)[^212] Az ICAO Szerződő Államoktól érkező, légiközlekedési fenyegetettségre vonatkozó kérelmeket az AH, a Rendőrség, a Katonai Nemzetbiztonsági Szolgálat és a Nemzeti Információs Központ bevonásával megvizsgálja, és a légiközlekedési fenyegetettségre vonatkozó információt szükséges mértékben megosztja a kérelmező ICAO Szerződő Állammal.
+
+(3)[^213] Az ICAO Szerződő Államtól érkező, légiközlekedési fenyegetettségre vonatkozó információt megosztja az AH-val, a Rendőrséggel, a Katonai Nemzetbiztonsági Szolgálattal és a Nemzeti Információs Központtal.
+
+## 29. Költségek viselése
+
+### 43. §
+
+(1) A nemzetközi kereskedelmi repülőtéren az együttműködő hatóságok légiközlekedés védelmi feladatának ellátásához szükséges elhelyezéséről, repülőtéri műszaki-technikai eszközök, berendezések létesítéséről és fejlesztéséről a repülőtér üzemben tartója saját költségén gondoskodik.
+
+(2)[^214] Az együttműködő hatóságokat a légiközlekedés védelmével összefüggő feladataik ellátásához szükséges ingatlanok, helyiségek és parkolás használatáért bérleti díj-fizetési kötelezettség nem terheli. Az ingatlanok berendezésével és a műszaki-technikai felszereltséggel, a közműszolgáltatással (energia, víz, csatorna) járó költségeket a hatóságok saját költségvetésükből fedezik.
+
+(3) Az együttműködő hatóságok a légiközlekedés védelmi feladataik és az ahhoz szükséges szervezet működtetéséhez szükséges költségeiket saját költségvetésükből fedezik.
+
+(4) A nemzetközi légi forgalom számára ideiglenes vagy eseti jelleggel megnyitott repülőtéren az együttműködő hatóságok ideiglenes elhelyezéséről és működési feltételeiről, valamint a műszaki-technikai eszközök és berendezések ideiglenes telepítéséről a repülőtér üzemben tartója saját költségén gondoskodik.
+
+(5)[^215] A repülőtér üzemben tartója és a légitársaság a légiközlekedés védelmi intézkedések végrehajtása érdekében az utastól díjat szedhet. A beszedett díjat kizárólag az érintett repülőtéren, vagy az adott légitársaságnál légiközlekedés védelmi feladatokra, a védelmi rendszer fenntartására, fejlesztésére lehet fordítani, amelyről elkülönített elszámolást kell készíteni. A díj felhasználásáról a repülőtér üzemben tartója és a légitársaság a tárgyévet követő március 1-jéig jelentést készít az általános rendőrségi feladatok ellátására létrehozott szerv részére.
+
+(6)[^216] Az (5) bekezdés szerinti jelentésben foglaltakat, valamint a felhasználás jogszerűségét az általános rendőrségi feladatok ellátására létrehozott szerv ellenőrzi. Ha a repülőtér védelmi költségei felhasználására beruházási fejlesztési terv kerül jóváhagyásra, úgy a költségek a beruházási fejlesztési terv időtartamára arányosan eloszthatóak.
+
+## 30. Záró rendelkezések
+
+### 44. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő harmadik napon lép hatályba.
+
+(2) E rendelet 52. § (1)–(2) bekezdése 2010. július 1-jén lép hatályba.
+
+### 46. §
+
+Ez a rendelet – a polgári légiközlekedés elleni jogellenes cselekmények megakadályozásával, vagy az ilyen cselekményekre irányuló kísérlettel összefüggésben, a légiközlekedésről szóló 1995. évi XCVII. törvénnyel együtt –
+
+a) a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet,
+
+b) a polgári légi közlekedés védelméről szóló 300/2008/EK európai parlamenti és tanácsi rendelet mellékletében foglalt közös alapkövetelmények kiegészítéséről szóló, 2009. április 2-i 272/2009/EK bizottsági rendelet és az azt módosító 297/2010/EU bizottsági rendelet,
+
+c) a polgári légi közlekedés védelmére irányuló közös alapkövetelményektől való eltérést és alternatív védelmi intézkedések elfogadását a tagállamok számára lehetővé tevő feltételek meghatározásáról szóló, 2009. december 18-i 1254/2009/EU bizottsági rendelet,
+
+d) a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légiközlekedés-védelem terén végrehajtandó nemzeti minőségbiztosítási programokra vonatkozó követelmények tekintetében való módosításáról szóló, 2010. január 8-i 18/2010/EU bizottsági rendelet,
+
+e) a légiközlekedés védelmével kapcsolatos bizottsági ellenőrzések eljárásainak megállapításáról szóló, 2010. január 26-i 72/2010/EU bizottsági rendelet,
+
+f)[^218] a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 5-i 2015/1998 bizottsági (EU) végrehajtási rendelet,
+
+g)[^219] a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 16-i C (2015) 8005 bizottsági végrehajtási határozat,
+
+h)[^220]
+
+végrehajtásához szükséges rendelkezéseket állapítja meg,
+
+### 47. §[^221]
+
+Ez a rendelet az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 52. §
+
+(1)–(2)[^226]
+
+(3)–(7)[^227]
+
+## 1. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^229]
+
+**Nemzeti Polgári Légiközlekedés Védelmi Képzési Program**
+
+****Védelmi képzési program****
+
+1\. Általános rendelkezések
+
+1.1. A légiközlekedés védelmében közreműködő szervezet felelős a légiközlekedés védelmi képzési programjában meghatározott oktatások tematikáinak, képzési anyagainak aktualizálásáért.
+
+2\. A védelmi képzési program elemei
+
+2.1. A védelmi képzési program legalább az alábbi elemeket tartalmazza:
+
+a) vonatkozó jogszabályok;
+
+b) képzési program célja;
+
+c) a képzéssel kapcsolatos feladatok, szervezeti felelősségi körök részletezése;
+
+d) munkaerő felvételi folyamatok ismertetése az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.1. pontja alapján;
+
+e) a védelmi háttérellenőrzés kifejtése, végrehajtása az érintett munkavállalók tekintetében;
+
+f) szükséges képzések fajtái és azok részletezése munkakörökre lebontva;
+
+g) részletes oktatási tematikák;
+
+h) a képzési rendszer leírása (e-learning/oktató);
+
+i) oktatások gyakorisága;
+
+j) időszakos oktatások részletezése;
+
+k) az oktatások időtartama;
+
+l) vizsga menete, a nem megfelelt vizsgázókkal kapcsolatos további intézkedések;
+
+m) dokumentálás (jelenléti ív, tesztlapok, vizsga jegyzőkönyv, tanúsítvány);
+
+n) e-learning rendszer esetében a tanúsítványt aláíró személyének meghatározása és
+
+o) képzések nyilvántartása.
+
+2.2. A képzési program mellékletében szükséges feltüntetni a képzéssel kapcsolatos mintákat.
+
+****Tanfolyamok jóváhagyása****
+
+3\. Általános rendelkezések
+
+3.1. Az oktató, valamint az oktató szervezet minden tanfolyam és oktatás előtt köteles legalább 5 nappal elektronikus úton értesíteni a légiközlekedési hatóságot a hatóság által megadott elérhetőségen a tanfolyam típusáról, időpontjáról és a célközönségről.
+
+3.2. A védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának rendjéről szóló 69/2014. (XII. 18.) BM rendelet (a továbbiakban: BM rendelet) alapján a védelmi ellenőrök éves alap- és ismeretmegújító képzés tematikáját a légiközlekedési hatóság hagyja jóvá. A tanfolyamok tartalmának jóváhagyását a légiközlekedési hatóság végzi.
+
+4\. Tantermi tanfolyamok
+
+4.1. A tanfolyam tartalmának jóváhagyása az oktatói engedély kérelmek benyújtásával egyidejűleg történik az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti oktatás kivételével.
+
+4.2. A kérelemhez csatolni kell a részletes tematikát, illetve a tanórák teljes anyagát.
+
+4.3. Tantermi képzés esetén a maximális létszám 20 fő.
+
+4.4. A tantermi oktatást úgy kell kialakítani, hogy a képzés oktatásra alkalmas helyiségben történjen.
+
+5\. E-learning képzés
+
+5.1. A kérelemhez csatolni kell az e-learning rendszer légiközlekedés védelmével kapcsolatos teljes tananyagát, valamint a légiközlekedési hatóság részére hozzáférést kell biztosítani a rendszerhez ellenőrzés céljából.
+
+5.2. Részletezni szükséges, hogy ki felel az e-learning rendszer felügyeletéért, valamint szakmai tartalmáért.
+
+5.3. Az e-learning rendszer engedélyének időbeli hatálya 5 év.
+
+5.4. A rendszert szakmailag és informatikailag is felügyelni kell.
+
+5.5. A rendszer felügyeletére ki kell jelölni egy felelős személyt.
+
+5.6. Az informatikai felügyeletet külső szervezet is elláthatja.
+
+5.7. A szakmai felelős személy a légiközlekedési hatóság által jóváhagyott védelmi oktató lehet, aki felel a szakmai tartalom folyamatos aktualizálásáért.
+
+5.8. Az e-learning rendszerhez való hozzáférést védeni kell a jogosulatlan beavatkozástól.
+
+5.9. A résztvevőknek egyéni belépési kóddal kell rendelkezniük.
+
+5.10. A rendszerhez csak megfelelő háttérellenőrzés után lehet hozzáférni.
+
+****Képzések fajtái****
+
+6\. Általános rendelkezések
+
+6.1. A védelmi ellenőrzést végzők vizsgáztatását a rendőrség szervezi és végzi a BM rendelet alapján.
+
+7\. Alapszintű képzés (11.2.2.)
+
+7.1. Alapszintű képzést kell tartani
+
+a) a BM rendelet alapján a VÉD-I, VÉD-IV, FEL képzettségű védelmi ellenőröknek, valamint
+
+b) a repülőtéri belépés-ellenőrzést végző, a megfigyelésben és az őrjáratokban közreműködő személyeknek, a védelmi tiszteknek és védelmi felelősöknek.
+
+7.2. A 7.1. alpont b) pontja esetében az alapszintű képzés időtartama legalább 3 × 45 perc.
+
+8\. Munkakör-specifikus képzések
+
+8.1. Általános rendelkezések
+
+8.1.1. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.1–11.2.3.4., valamint a 11.2.4. pontja szerinti képzéseit a BM rendelet szabályozza.
+
+8.1.2. A képzések kompetenciáit az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2. pontja határozza meg.
+
+8.2. A repülőtéri belépés-ellenőrzést végző, valamint a megfigyelésben és az őrjáratokban közreműködő személyek speciális képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.5.]
+
+8.2.1. A képzés azoknak a személyeknek szükséges, akik belépés-ellenőrzést, járőrözést végeznek a repülőtéren vagy egyéb jogalanynál.
+
+8.2.2. A képzés időtartama az alapképzéssel együtt legalább 4 × 45 perc.
+
+8.3. A légi járművek védelmi célú átvizsgálását végző személyek képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.6.]
+
+8.3.1. A képzés azoknak a személyeknek szükséges, akik légijármű átvizsgálást végeznek.
+
+8.3.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.4. A légi járművek védelmét biztosító személyek képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.7.]
+
+8.4.1. A képzés azoknak a személyeknek szükséges, akik a légijármű fizikai védelméért felelősek.
+
+8.4.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.5. A poggyász-egyeztetést végző személyek képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.8.]
+
+8.5.1. A képzés azoknak a személyeknek szükséges, akik a poggyász összeegyeztetést végzik.
+
+8.5.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.6. Az áru és a postai küldemények esetében az átvizsgálástól eltérő védelmi ellenőrzéseket végző személyek képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.9.]
+
+8.6.1. A képzés azoknak a személyeknek szükséges, akik a légiáru és postai küldemények egyéb védelmi ellenőrzését végzik.
+
+8.6.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.7. A légifuvarozói postai küldemények, a légifuvarozói anyagok, a fedélzeti ellátmány és a repülőtéri készletek esetében az átvizsgálástól eltérő védelmi ellenőrzéseket végző személyek képzése [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.10.]
+
+8.7.1. A képzés azoknak a személyeknek szükséges, akik a légifuvarozói postai küldemények/fuvarozói anyagok, valamint fedélzeti ellátmány, repülőtéri készlet egyéb védelmi ellenőrzését végzik.
+
+8.7.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.8. Védelmi tisztek és védelmi felelősök képzése
+
+8.8.1. A képzés a védelmi tiszteknek szükséges, valamint a több telephellyel rendelkező meghatalmazott ügynökök, ismert szállítók vagy meghatalmazott beszállítók védelmi felelőseinek, illetve a repülőtéri készletek ismert beszállítói védelmi felelőseinek.
+
+8.8.2.[^230] A védelmi tisztek alapképzését e-learning rendszer keretében a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI) szervezi és tartja a légiközlekedési hatóság által jóváhagyott tananyag alapján. A védelmi felelősök képzésének időtartama 20 óra.
+
+8.8.3.[^231]
+
+8.8.4. A védelmi felelősöknek szükséges 11.2.5. pont szerinti képzést védelmi oktató is megtarthatja, amennyiben megfelel a 12.4. alpont feltételeinek. A tanfolyam megtartását külön kérelmezni kell a légiközlekedési hatóságtól.
+
+8.8.5.[^232] Nemzetközi szervezet által tartott védelmi menedzseri képzés is elfogadható, amennyiben a kompetenciák megegyeznek az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontjával.
+
+8.9. A védelmi tudatosságnövelő képzés [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.6.]
+
+8.9.1. A képzés azoknak a személyeknek szükséges, akik a repülőtér szigorított védelmi területére önállóan beléphetnek, valamint az uniós repülőszemélyzeti azonosítóval rendelkezőknek.
+
+8.9.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.9.3.[^233] A védelmi tudatosság növelő képzést a védelmi háttérellenőrzés előtt is végre lehet hajtani, amennyiben az oktatás nem tartalmaz biztonsági szempontból érzékeny, nyilvánosan nem hozzáférhető információkat.
+
+8.10. Általános védelmi tudatosság képzés [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.7.]
+
+8.10.1. A képzés a szállítási láncban érintett azon résztvevőknek szükséges, akik légiáruhoz hozzáférhetnek.
+
+8.10.2. A képzés időtartama legalább 2 × 45 perc.
+
+8.11. Kiberfenyegetésekhez kapcsolódó feladatokkal és felelősségi körökkel rendelkező személyek képzése
+
+8.11.1. Kibervédelmi tudatosság képzés
+
+8.11.1.1. A képzés azoknak a személyeknek szükséges,
+
+a) akik olyan munkakörben dolgoznak, ahol egy esetleges kibervédelmi incidenst okozhatnak (pl. fizikailag be tudnak avatkozni az elektronikus rendszerekbe);
+
+b) akik rendelkeznek belépési kóddal bármely elektronikus rendszerhez; vagy
+
+c) akik elektronikus információs rendszert kezelnek, de nincs adminisztrációs jogosultságuk.
+
+8.11.1.2. A képzés időtartama legalább 4 × 45 perc.
+
+8.11.2. Kibervédelmi tudatosság oktatás tematikája:
+
+a) tudatossági ismeretek kialakítása a kibervédelmi kockázatokról és sebezhetőségről;
+
+b) a kibertámadások módszereinek ismerete;
+
+c) a kibertámadások megelőzésére alkalmazott eljárások ismerete, a következmények csökkentésének ismerete és
+
+d) a lehetséges kibertámadások, gyanús tevékenységek felismerésének ismerete.
+
+8.11.3.[^234] A kibervédelmi felelős oktatására vonatkozó követelményeket a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 11. § (3) bekezdése tartalmazza.
+
+9\. Robbanóanyag-kereső kutyák képzése
+
+9.1. Kötelező általános képzés
+
+9.1.1. A kiképzés tartalmát a légiközlekedési hatóság hagyja jóvá robbanóanyag-kereső kutyák képzési terv formájában.
+
+9.1.2. A kiképzés gyakorlati és munkahelyi elemének oktatását a légiközlekedési hatóság által az (EU) 2015/1998 bizottsági végrehajtási rendelet 12.9.3. pontjára jóváhagyott légiközlekedés védelmi oktató vagy oktató szerv végezheti, amely rendelkezik az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.5. pontja szerinti jóváhagyott oktatóval/kiképzővel.
+
+9.2. Alapkiképzés
+
+9.2.1. A képzési terv tematikája legalább a 2015/8005/EU bizottsági végrehajtási határozat Mellékletének 12.9.4.1. pontjában előírt kompetenciákat tartalmazza.
+
+9.3. Szinten tartó képzés
+
+9.3.1. A szinten tartó képzések kompetenciái azonosak az alapkiképzés kompetenciáival.
+
+9.4. Robbanóanyag-kereső kutyák képzésének adminisztrációja
+
+9.4.1. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 12.9.3.13. pontja szerinti nyilvántartást összesítő táblázat formájában kell elkészíteni, amely tartalmazza a teljesített képzések óraszámát munkakörnyezetre lebontva.
+
+9.5. Vizsgáztatás
+
+9.5.1. A robbanóanyag-kereső kutyás team vizsgáztatását a légiközlekedési hatóság által kiadott Vizsgaszabályzat alapján kell végrehajtani.
+
+****Szinten tartó képzés****
+
+10\. Általános rendelkezések
+
+10.1. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.1–11.2.3.4. pontja szerinti képzésekről a BM rendelet rendelkezik.
+
+11\. Részletes követelmények
+
+11.1. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.5–11.2.8. pontja szerinti képzéseket legalább 3 évente meg kell ismételni.
+
+11.2. A szinten tartó képzések időtartama legalább 2 × 45 perc.
+
+11.3.[^235] Az e-learning típusú alapképzésben részesült védelmi tiszteknek részt kell venni a KTI szervezésében tartott ismétlő képzésen, amely a légiközlekedési hatóság által kiadott tantervi és vizsgakövetelmények alapján kerül végrehajtásra a légiközlekedési hatóság bevonásával. A képzés időtartama 40 óra.
+
+11.4.[^236] Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti szinten tartó képzésen valamennyi jóváhagyott védelmi tisztnek részt kell venni, amelynek időtartama 8 óra, amelyet a védelmi tisztek esetében a légiközlekedési hatóság tart 3 évente. A képzés időtartama védelmi felelősök esetében 2 óra, amelyet szintén legalább 3 évente meg kell ismételni.
+
+11.5.[^237] A védelmi tiszteknek szinten tartó vizsgát kell tenniük az aktuális légiközlekedés védelmi ismeretekből 2 évente, amelyet a légiközlekedési hatóság nevében a KTI végez.
+
+****Oktatók****
+
+12\. Általános követelmények
+
+12.1.[^238] Az oktató felsőfokú végzettségű, legalább 3 éves légiközlekedés védelemben eltöltött tapasztalattal rendelkezik, különös tekintettel az oktatni kívánt területre. Egy tanfolyamon az egyes szakmai részterületeket felsőfokú végzettség nélkül, legalább 6 év szakmai tapasztalattal is lehet oktatni. Az elvégzett tanórát ilyen esetben a felelős oktatóval vagy oktató szervezettel közösen kell leigazolni.
+
+12.2. Óraadó oktató az lehet, aki egy tanfolyamon belül egyes részterületeket oktat, de legfeljebb a tanfolyam óraszámának egy harmadában.
+
+12.3.[^239] Oktató az lehet, aki a légiközlekedési hatóság által vagy a nevében eljáró jóváhagyott légiközlekedés védelmi oktató szervezet / oktató által megtartott védelmi oktatói tanfolyamot végzett, vagy a légiközlekedési hatóság által elfogadott nemzetközi légiközlekedési szervezet által tartott védelmi oktatói tanfolyamot végzett, vagy pedagógusi vagy andragógiai végzettséggel rendelkezik.
+
+12.4. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzést olyan oktató tarthat, aki rendelkezik maga is a légiközlekedési hatóság által tartott (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzéssel.
+
+12.5. Az oktató a kérelemmel egyidejűleg benyújtja a légiközlekedési hatósághoz az oktatni kívánt területre vonatkozó tematikát, amely tartalmazza a teljes tananyagot, részletes ismertetést a kompetenciákról, óratervet, valamint a sikeres védelmi háttérellenőrzésről szóló igazolást.
+
+12.6. Az óraterv az alábbiakat tartalmazza:
+
+a) cím, tárgy, téma;
+
+b) az óra célja;
+
+c) referenciaanyagok;
+
+d) bevezetés;
+
+e) órák tananyagainak vázlata;
+
+f) tanítási stratégia;
+
+g) tanítási segédeszközök;
+
+h) összegzés;
+
+i) tesztek;
+
+j) értékelés és
+
+k) a foglalkozás egyes részeinek időtartamai.
+
+12.7. Saját szervezeten belül légiközlekedés védelmi oktató az a jóváhagyott védelmi tiszt lehet, aki elvégezte az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzést, és legalább 1 éves védelmi tiszti tapasztalattal rendelkezik. Ebben az esetben a légiközlekedés védelmi oktató az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.6., 11.2.7., valamint 11.2.3.9. pontja szerinti képzésekre szerezhet oktatói engedélyt.
+
+12.8. Az együttműködő hatóságok esetében légiközlekedés védelmi oktató mentesülhet az oktatói tanfolyam elvégzésének követelménye alól, amennyiben elvégezte az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzést, és kizárólag saját szervezeten belüli oktatásokat tart. Ebben az esetben a légiközlekedés védelmi oktató az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.6.2. pontja szerinti képzésre szerezhet oktatói engedélyt.
+
+12.9. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.3.1–11.2.3.4. és 11.2.4. pontja szerinti képzések esetében az oktatónak rendelkeznie kell az adott területre szóló védelmi ellenőri vizsgával.
+
+12.10. Az oktató köteles tananyagát folyamatosan aktualizálni.
+
+13\. Oktatók képzése
+
+13.1.[^240] Hazai oktatói tanfolyamot a légiközlekedési hatóság nevében a KTI tart.
+
+13.2. Az oktatói tanfolyam időtartama legalább 32 óra.
+
+13.3. Az oktatók szinten tartó képzését 5 évente kell megtartani, amelynek időtartama legalább 1 nap.
+
+14\. Oktatói tanfolyam tematikája:
+
+a) oktatás tervezése (felkészülés az oktatásra, óravázlat elkészítése),
+
+b) oktatás lebonyolítása (oktatási technikák ismertetése, oktatási segédeszközök használata),
+
+c) hatékony kommunikáció és nyilvános beszéd,
+
+d) légiközlekedés védelem oktatása és
+
+e) kiértékelés.
+
+15\. Légiközlekedés védelmi oktató szervezetek
+
+15.1. Az oktató szervezet jóváhagyását helyszíni szemle előzi meg.
+
+15.2. Az oktató szervezetnek rendelkeznie kell:
+
+a) oktatási területért felelős személlyel;
+
+b) képzési tervvel, oktatási tananyaggal;
+
+c) legalább 2 fő légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi oktatóval a kérelmezett légiközlekedés védelmi területek jogosultságai tekintetében: oktató szervezettel munka vagy megbízási jogviszonyban áll, és más oktató szervezetnél nem oktat, illetve egyéni oktatási tevékenységet nem végez;
+
+d) legalább 1 darab 20 fő befogadására alkalmas oktatóteremmel;
+
+e) gyakorlati oktatás esetén konkrét helyszínnel, oktatáshoz szükséges védelmi berendezésekkel;
+
+f) oktatási segédeszközökkel (pl. tábla, kivetítő stb.) és
+
+g) az összes általa szervezett képzésről nyilvántartással.
+
+16\. Uniós légiközlekedés védelmi ellenőr
+
+16.1. Az Uniós légiközlekedés védelmi ellenőrre vonatkozó képesítési követelményeket a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programról szóló 22/2013. (V. 16.) NFM rendelet 7. és 10. §-a tartalmazza.
+
+16.2. Az Uniós légiközlekedés védelmi ellenőr kijelölését a légiközlekedési hatóság hagyja jóvá.
+
+16.3. Az Uniós légiközlekedés védelmi ellenőri kijelölés 5 évig érvényes.
+
+16.4. Az Uniós légiközlekedés védelmi ellenőrnek legalább 5 évente szinten tartó képzésen kell részt vennie.
+
+16.5. A légiközlekedési hatóság nyilvántartást vezet az Uniós légiközlekedés védelmi ellenőri képzésekről, és tájékoztatja azokról az Uniós légiközlekedés védelmi ellenőröket.
+
+****Egyéb légiközlekedés-védelmi tanfolyamok****
+
+17\. Minőségbiztosítási ellenőri (nemzeti auditor) tanfolyamok
+
+17.1. Általános rendelkezések
+
+17.1.1. Auditori tanfolyamot a légiközlekedési hatóság tart vagy a nevében eljáró jóváhagyott légiközlekedés védelmi oktató szervezet / oktató.
+
+17.1.2. Auditori képzés keretében elfogadható a nemzetközi szervezet által szervezett auditori vagy a légi közlekedés védelmével kapcsolatos bizottsági ellenőrzések eljárásainak megállapításáról szóló, 2010. január 26-i 72/2010/EU bizottsági rendelet szerinti tanfolyam.
+
+17.2. Általános minőségbiztosítási ellenőr (auditor) tanfolyam
+
+17.2.1. Célja: a légiközlekedés védelmi jogszabályok átfogó ismerete, auditálási technikák és jelentési ismeretek elsajátítása.
+
+17.2.2. A tanfolyam kompetenciái
+
+a) légiközlekedés védelmével, valamint légiközlekedés védelmi minőségbiztosítással kapcsolatos jogszabályi környezet ismerete hazai és nemzetközi szinten;
+
+b) auditálási technikák, ajánlott gyakorlatok;
+
+c) a repülőterek védelme (repülőtér területei, belépés ellenőrzése, a különböző személyek és személyes tárgyaik átvizsgálása, járművek átvizsgálása, megfigyelés, őrjárat és egyéb fizikai ellenőrzések, tiltott tárgyak);
+
+d) a repülőterek elkülönített területei;
+
+e) a légijárművek védelme (légijármű-átvizsgálás, fizikai védelem);
+
+f) utasok és kézipoggyász átvizsgálása;
+
+g) feladott poggyászok (átvizsgálás, fizikai védelem);
+
+h) légifuvarozói postai küldemények és légifuvarozói anyagok;
+
+i) fedélzeti ellátmány;
+
+j) repülőtéri készletek;
+
+k) légiközlekedés védelmi képzés;
+
+l) védelmi berendezések és
+
+m) gyakorlati képzés.
+
+17.2.3. A tanfolyam időtartama legalább 40 óra.
+
+17.3. Áru és postai küldemények minőségbiztosítási ellenőr (Cargo auditor) tanfolyam
+
+17.3.1. Célja: a légiáruval kapcsolatos jogszabályok átfogó ismerete, auditálási technikák és jelentési ismeretek elsajátítása.
+
+17.3.2. A tanfolyam kompetenciái
+
+a) légiáruval, valamint légiközlekedés védelmi minőségbiztosítással kapcsolatos jogszabályi környezet ismerete hazai és nemzetközi szinten;
+
+b) auditálási technikák, ajánlott gyakorlatok;
+
+c) szállítási lánc ismerete;
+
+d) árufogadási eljárások;
+
+e) légiáruval kapcsolatos dokumentálás, kísérő dokumentumok;
+
+f) átvizsgálási eljárások;
+
+g) védelmi státusz;
+
+h) légiáru fizikai védelme;
+
+i) harmadik ország repülőteréről az Unió területére árut vagy postai küldeményt szállító légijármű (ACC3) eljárások és
+
+j) gyakorlati képzés.
+
+17.3.3. A tanfolyam időtartama legalább 32 óra.
+
+17.3.4. Minőségbiztosítási ellenőrök időszakos képzését 5 évente kell megtartani, amelyet a légiközlekedési hatóság szervez vagy a nevében eljáró jóváhagyott légiközlekedés védelmi oktató szervezet / oktató.
+
+****Tanúsítás****
+
+18\. Részletes szabályok
+
+18.1. A légiközlekedés védelmi tisztek, minőségbiztosítási auditorok, valamint oktatók vizsgájának lebonyolítását vizsgabizottság felügyeli.
+
+18.2. A vizsgabizottságba legalább 1 főt a légiközlekedési hatóság delegál.
+
+18.3. A vizsgabizottság legalább 1 tagja rendelkezik nemzeti vagy nemzetközi auditori végzettséggel.
+
+18.4. Az oktatói tanfolyam vizsgaelőadással zárul.
+
+18.5.[^241] A 11.2.3.1–11.2.3.5. pontban, valamint a 11.2.5. pontban meghatározott képzések nyújtására jogosult oktatók vizsgáztatását a KTI végzi a légiközlekedési hatóság nevében.
+
+18.6.[^242] A 11.2.3.5. pont szerinti, repülőtéri belépés-ellenőrzést végző, valamint a megfigyelésben és az őrjáratokban közreműködő személyek vizsgáztatását a légiközlekedési hatóság nevében eljáró KTI végzi. Amennyiben ezen személyek rendelkeznek a védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának rendjéről szóló 69/2014. (XII. 18.) BM rendelet szerinti 11.2.3.1. vagy 11.2.4. pont szerinti képzéssel és tanúsítással, abban az esetben képzésük és vizsgájuk megfelel a 11.2.3.5. pont szerinti képzésnek és tanúsításnak is.
+
+****Mentességek****
+
+19\. Részletes szabályok
+
+19.1. A BM rendelet szerinti VÉD-II. képzéssel rendelkező személyek esetében a 11.2.3.9. pont szerinti képzést megadottnak kell tekinteni.
+
+19.2. A BM rendelet szerinti VÉD-III. képzéssel rendelkező személyek esetében a 11.2.3.10. pont szerinti képzést megadottnak kell tekinteni.
+
+19.3. A védelmi oktatók mentesülnek a 11.2.6.2. pont szerinti képzés alól.
+
+****Képzések adminisztrációja****
+
+20\. Általános szabályok
+
+20.1. Az oktató és az oktatáson részt vevő szervezet köteles regisztrációt vezetni a megtartott képzésről, amelyben szerepelnie kell az oktatott tematikáknak/tantárgyaknak.
+
+20.2. Az oktató és az oktatáson részt vevő szervezet köteles jelenléti ívet vezetni, amelyre fel kell tüntetni az adott képzés pontos nevét az (EU) 2015/1998 bizottsági végrehajtási rendelet szerint.
+
+20.3. Az oktató köteles tesztet kitöltetni a képzésen résztvevőkkel, valamint az e-learning rendszerben vizsgázni kell.
+
+20.4. A vizsgakérdéseket legalább 2 évente felül kell vizsgálni, és legalább 20%-át új kérdésekre kell cserélni.
+
+20.5. A teszten megfelelt vagy nem megfelelt eredményt lehet elérni.
+
+20.6. A megfelelési határ 80%.
+
+20.7. A teszt sikertelensége esetén újbóli vizsgázásra van lehetőség 1 alkalommal, amennyiben ez is sikertelen, ismételt oktatást kell tartani.
+
+20.8. A védelmi tiszt felelőssége a képzések nyilvántartása, amelyek elektronikus formában is kezelhetőek.
+
+21\. Tanúsítvány
+
+21.1. Az oktató a jelenléti ív és teszt alapján tanúsítványt állít ki a megfelelt nevére.
+
+21.2. Az e-learning rendszer esetében a tanúsítványt az adott szervezet légiközlekedés védelmi programjában meghatározott személy írhatja alá.
+
+21.3. A tanúsítványok elektronikusan is tárolhatók.
+
+21.4. A tanúsítványon legalább az alábbi adatoknak kell szerepelnie:
+
+a) a kiállító oktató szervezet logója (ha releváns);
+
+b) a résztvevő neve, születési helye, ideje, anyja neve;
+
+c) a képzés pontos megnevezése az (EU) 2015/1998 bizottsági végrehajtási rendelet 11. fejezete alapján;
+
+d) oktató nyomtatott neve, a légiközlekedési hatóság által kiadott engedély száma;
+
+e) a kiállítás dátuma és
+
+f) oktató / felelős személy aláírása vagy elektronikus aláírás.
+
+22\. Átmeneti rendelkezés
+
+22.1. A 12.2. pontban hivatkozott oktatói tanfolyam elvégzését 2024. július 1-ig kell igazolni.
+
+## 2. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^243]
+
+**Testkamera alkalmazására kötelezett munkakörök:**
+
+1\. Minden olyan munkakörben foglalkoztatott személy, aki a légijárműbe a poggyászok ki- és berakodását végzi.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pontját a 176/2026. (IX. 21.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés m) pontja a 251/2024. (VIII. 22.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés o) pontját a 379/2016. (XII. 2.) Korm. rendelet 158. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (1) bekezdés p) pontját a 789/2021. (XII. 27.) Korm. rendelet 33. §-a iktatta be.
+[^6]: Az 1. § (1) bekezdés q) pontját a 251/2024. (VIII. 22.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (1) bekezdés r) pontját a 251/2024. (VIII. 22.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^8]: A 2. § a 251/2024. (VIII. 22.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés nyitó szövegrésze a 722/2020. (XII. 31.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 158. § (3) bekezdése, a 409/2023. (VIII. 30.) Korm. rendelet 24. § b) pontja, a 176/2026. (IX. 21.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^14]: A 4. § c) pontját a 389/2014. (XII. 31.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^15]: Az 5. § a 240/2011. (XI. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^16]: Az 5. § (2) bekezdés d) pontját a 176/2026. (IX. 21.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^17]: A 6. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^18]: A 6. § (2a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^19]: A 6. § (2b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^20]: A 6. § (2c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^21]: A 6. § (3) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 1. pontja hatályon kívül helyezte.
+[^22]: A 6. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^23]: A 6. § (5) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 2. pontja hatályon kívül helyezte.
+[^24]: A 7. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
+[^25]: A 7. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^26]: A 7. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^27]: A 7. § (7) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított szöveg.
+[^28]: A 7. § (7) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^29]: A 7. § (7) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 26. § a) pontjával megállapított szöveg.
+[^30]: A 7. § (7) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 4. §-a iktatta be, a 176/2026. (IX. 21.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^31]: A 8. § (3) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^32]: A 8. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 5. §-a iktatta be.
+[^33]: A 9. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 9. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^35]: A 9. § (5) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^36]: A 9. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 409/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^37]: A 10. § (1) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 37. §-ával megállapított, a 40. § b) pontja szerint módosított szöveg.
+[^38]: A 11. § b) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^39]: A 11. § c) pontja a 304/2011. (XII. 23.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^41]: A 11. § e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^42]: A 11. § f) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^43]: A 12. § a) pontja a 251/2024. (VIII. 22.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^44]: A 12. § c) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^45]: A 12. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^46]: A 12. § g) pontja a 389/2014. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^47]: A 12. § h) pontját a 240/2011. (XI. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^48]: A 13. § a 251/2024. (VIII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^49]: A 14. § a 240/2011. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^50]: A 14. § 1. pontja a 256/2015. (IX. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^51]: A 14. § 6. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^52]: A 14. § 12. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^53]: A 14. § 14. pontja a 176/2026. (IX. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^54]: A 14. § 16. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^55]: A 14. § 17. pontját a 176/2026. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^56]: A 14. § 18. pontját a 176/2026. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^57]: A 14. § 19. pontját a 176/2026. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^58]: A 14. § 20. pontját a 176/2026. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^60]: A 15. § a 240/2011. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^61]: A 15. § a) pontja a 389/2014. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^62]: A 15. § c) pontja a 389/2014. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^63]: A 15. § e) pontja a 409/2023. (VIII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^64]: A 15. § g) pontját a 389/2014. (XII. 31.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^65]: A 15. § h) pontja a 409/2023. (VIII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^66]: A 15. § i) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 9. pontja hatályon kívül helyezte.
+[^67]: A 16. § nyitó szövegrésze a 88/2016. (IV. 29.) Korm. rendelet 26. § b) pontjával megállapított szöveg.
+[^68]: A 16. § c) pontja a 273/2010. (XII. 9.) Korm. rendelet 135. §-a szerint módosított szöveg.
+[^69]: A 16. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 10. pontja hatályon kívül helyezte.
+[^70]: A 16/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 12. §-a iktatta be.
+[^71]: A 16/A. § c) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^72]: A 16/A. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^73]: A 16/B. §-t a 409/2023. (VIII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^74]: A 17. § (1) bekezdés a) pontja a 722/2020. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^75]: A 17. § (1) bekezdés e) pontja a 240/2011. (XI. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^76]: A 17. § (1) bekezdés g) pontja a 240/2011. (XI. 18.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^77]: A 17. § (1) bekezdés j) pontja a 409/2023. (VIII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^78]: A 17. § (1) bekezdés k) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^79]: A 17. § (1) bekezdés l) pontja a 240/2011. (XI. 18.) Korm. rendelet 13. § (3) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^80]: A 17. § (1) bekezdés m) pontja a 722/2020. (XII. 31.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^81]: A 17. § (1) bekezdés n) pontja a 240/2011. (XI. 18.) Korm. rendelet 13. § (3) bekezdésével megállapított, a 176/2026. (IX. 21.) Korm. rendelet 3. § i) pontja szerint módosított szöveg.
+[^82]: A 17. § (1) bekezdés p) pontja a 240/2011. (XI. 18.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^83]: A 17. § (1) bekezdés q) pontja a 409/2023. (VIII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^84]: A 17. § (1) bekezdés r) pontját a 240/2011. (XI. 18.) Korm. rendelet 13. § (5) bekezdése iktatta be.
+[^85]: A 17. § (2) bekezdés a) pontja a 789/2021 (XII. 27.) Korm. rendelet 44. § e) pontja szerint módosított szöveg.
+[^86]: A 17. § (2) bekezdés c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^87]: A 17. § (2) bekezdés d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^88]: A 17. § (2) bekezdés e) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^89]: A 17. § (2) bekezdés f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^90]: A 17. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 13. § (6) bekezdése szerint megállapított szöveg.
+[^91]: A 17. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 13. § (7) bekezdése iktatta be.
+[^92]: A 17. § (5) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 13. § (7) bekezdése iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^93]: A 17. § (6) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 30. §-a iktatta be.
+[^94]: A 18. § a) pontja a 409/2023. (VIII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^95]: A 18. § b) pontja a 240/2011. (XI. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 25. § 12. pontja szerint módosított szöveg.
+[^96]: A 18. § d) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés e) pontja, a 176/2026. (IX. 21.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^97]: A 18. § e) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés e) pontja, a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^98]: A 18. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^99]: A 18. § i) pontját a 240/2011. (XI. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^100]: A 19. § a) pontja a 789/2021 (XII. 27.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
+[^101]: A 19. § b) pont bc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^102]: A 19. § c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja, a 176/2026. (IX. 21.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^103]: A 19. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^104]: A 19. § e) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.
+[^105]: A 19. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^106]: A 19. § i) pontját a 409/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^107]: A 14. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^108]: A 20. § a 240/2011. (XI. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^109]: A 20. § (1) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
+[^110]: A 20. § (1) bekezdés b) pontja a 176/2026. (IX. 21.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^111]: A 20. § (2) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba. A 20. § (2) bekezdése a 789/2021 (XII. 27.) Korm. rendelet 44. § f) pontja, a 176/2026. (IX. 21.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
+[^112]: A 20. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 303. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^113]: A 20. § (4) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
+[^114]: A 20. § (4) bekezdés d) pontja a 176/2026. (IX. 21.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
+[^115]: A 20. § (5) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
+[^116]: A 20. § (5) bekezdés b) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^117]: A 15. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^118]: A 21. § a 240/2011. (XI. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^119]: A 21. § c) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^120]: A 21. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^121]: A 22. § (1) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^122]: A 22. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^123]: A 22. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^124]: A 22. § (4) bekezdés d) pontját a 240/2011. (XI. 18.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^125]: A 16/A. alcímet (22/A. §-t) a 409/2023. (VIII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^126]: A 22/A. § (2) bekezdés d) pontját a 251/2024. (VIII. 22.) Korm. rendelet 31. § (1) bekezdése iktatta be.
+[^127]: A 22/A. § (2) bekezdés e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 31. § (1) bekezdése iktatta be.
+[^128]: A 22/A. § (5) bekezdés e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^129]: A 22/A. § (8) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^130]: A 22/A. § (8a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 31. § (3) bekezdése iktatta be.
+[^131]: A 22/A. § (8b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 31. § (3) bekezdése iktatta be.
+[^132]: A 22/A. § (8c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 31. § (3) bekezdése iktatta be.
+[^133]: A 22/A. § (8c) bekezdés b) pontja a 176/2026. (IX. 21.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.
+[^134]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^135]: A 23. § a 409/2023. (VIII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^136]: A 23. § (9) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 32. §-a iktatta be.
+[^137]: A 24. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 789/2021. (XII. 27.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
+[^138]: A 24. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 13. §-ával megállapított szöveg. [Nem vezethető át a 409/2023. (VIII. 30.) Korm. rendelet 24. § d) pontjában foglalt azon módosítás, amely szerint a „2015/8005/EU” szövegrész helyébe a „C (2015) 8005” szöveg lép.]
+[^139]: A 24. § (3) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 20. § e) pontja, a 722/2020. (XII. 31.) Korm. rendelet 22. § j) pontja szerint módosított szöveg.
+[^140]: A 24. § (5) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^141]: A 24. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 389/2014. (XII. 31.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^142]: A 25. § (2) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 14. pontja hatályon kívül helyezte.
+[^143]: A 25. § (4) bekezdése a 219/2016. (VII. 22.) Korm. rendelet 5. § d) pontja, a 722/2020. (XII. 31.) Korm. rendelet 22. § k) pontja szerint módosított szöveg.
+[^144]: A 25. § (5) bekezdése a 219/2016. (VII. 22.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^145]: A 25. § (6) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 33. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^146]: A 26. § a 251/2024. (VIII. 22.) Korm. rendelet 34. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^147]: A 27. § a 240/2011. (XI. 18.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^148]: A 27. § (1) bekezdése a 219/2016. (VII. 22.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^149]: A 27. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 304. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^150]: A 28. § a 409/2023. (VIII. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^151]: A 18/A. alcímet (28/A. §-t) a 251/2024. (VIII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^152]: A 19. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^153]: A 29. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^154]: A 29. § (1a) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 17. §-a iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^155]: A 29. § (2) bekezdés nyitó szövegrésze a 722/2020. (XII. 31.) Korm. rendelet 22. § l) pontja, a 251/2024. (VIII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^156]: A 29. § (2) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^157]: A 29. § (2) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^158]: A 29. § (2) bekezdés c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^159]: A 29. § (3) bekezdés nyitó szövegrésze a 251/2024. (VIII. 22.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
+[^160]: A 29. § (3) bekezdés d) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja, a 219/2016. (VII. 22.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^161]: A 29. § (3) bekezdés e) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja, a 219/2016. (VII. 22.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^162]: A 29. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés d) pontja, a 219/2016. (VII. 22.) Korm. rendelet 5. § h) pontja szerint módosított szöveg.
+[^163]: A 29. § (5) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés h) pontja, a 219/2016. (VII. 22.) Korm. rendelet 5. § h) pontja szerint módosított szöveg.
+[^164]: A 29. § (6) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 42. § c) pontja hatályon kívül helyezte.
+[^165]: A 30. § (1) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^166]: A 30. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (147) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^167]: A 30. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés i) és p) pontja, a 457/2017. (XII. 28.) Korm. rendelet 304. § b) pontja, a 722/2020. (XII. 31.) Korm. rendelet 22. § m) pontja szerint módosított szöveg.
+[^168]: A 30. § (5) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 37. §-a iktatta be.
+[^169]: A 31. § (1) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^170]: A 31. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés j) pontja, a 176/2026. (IX. 21.) Korm. rendelet 2. § i) pontja szerint módosított szöveg.
+[^171]: A 31. § (3) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 15. pontja hatályon kívül helyezte.
+[^172]: A 32. § (1) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^173]: A 32. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés k) és q) pontja, a 176/2026. (IX. 21.) Korm. rendelet 2. § j) pontja szerint módosított szöveg.
+[^174]: A 33. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 304. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^176]: A 23. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^177]: A 34. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^178]: A 34. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^179]: A 34. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^180]: A 34. § (5) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^181]: A 34. § (6) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^182]: A 35. § a 722/2020. (XII. 31.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^183]: A 36. § (1) bekezdését a 389/2014. (XII. 31.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.
+[^184]: A 36. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^185]: A 36/A. §-t a 789/2021. (XII. 27.) Korm. rendelet 40. §-a iktatta be.
+[^186]: A 36/B. §-t a 409/2023. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^187]: A 36/C. §-t a 409/2023. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^188]: A 36/D. §-t a 409/2023. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^189]: A 37. § a 389/2014. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^190]: A 37. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 304. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^191]: A 37. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^192]: A 37/A. §-t a 722/2020. (XII. 31.) Korm. rendelet 20. §-a iktatta be.
+[^193]: A 38. § a 389/2014. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^194]: A 38. § (2) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^195]: A 39. § a 240/2011. (XI. 18.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^196]: A 39. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 303. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^197]: A 39. § (3) bekezdése a 219/2016. (VII. 22.) Korm. rendelet 5. § k) pontja szerint módosított szöveg.
+[^198]: A 40. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés n) pontja, a 409/2023. (VIII. 30.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^199]: A 40. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 21. §-ával megállapított, a 25. § 16. pontja szerint módosított szöveg.
+[^200]: A 40. § (4) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
+[^201]: A 40. § (5) bekezdés nyitó szövegrésze a 389/2014. (XII. 31.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
+[^202]: A 40. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 29. §-a iktatta be.
+[^203]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
+[^204]: A 40/A. § (10) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
+[^205]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.
+[^206]: A 41. § a 389/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^207]: A 41. § (1) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^208]: A 41. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^209]: A 41. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^210]: A 41. § (3a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 43. §-a iktatta be.
+[^211]: A 42/A. §-t a 251/2024. (VIII. 22.) Korm. rendelet 39. §-a iktatta be.
+[^212]: A 42/A. § (2) bekezdése a 176/2026. (IX. 21.) Korm. rendelet 3. § j) pontja szerint módosított szöveg.
+[^213]: A 42/A. § (3) bekezdése a 176/2026. (IX. 21.) Korm. rendelet 2. § k) pontja szerint módosított szöveg.
+[^214]: A 43. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.
+[^215]: A 43. § (5) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés o) pontja és a (2) bekezdés d) pontja szerint módosított szöveg.
+[^216]: A 43. § (6) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^218]: A 46. § f) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § l) pontjával megállapított szöveg.
+[^219]: A 46. § g) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § m) pontja szerint módosított szöveg.
+[^220]: A 46. § h) pontját a 389/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, a 219/2016. (VII. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^221]: A 47. §-t az 53. § (1) bekezdése hatályon kívül helyezte, újonnan a 418/2024. (XII. 23.) Korm. rendelet 123. §-a iktatta be.
+[^226]: Az 52. § (1)–(2) bekezdését az 53. § (2) bekezdése hatályon kívül helyezte.
+[^227]: Az 52. § (3)–(7) bekezdését az 53. § (1) bekezdése hatályon kívül helyezte.
+[^229]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte, újonnan a 409/2023. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^230]: Az 1. melléklet 8. pont 8.8. alpont 8.8.2. pontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 141/2025. (VI. 19.) Korm. rendelet 2. §-a, a 442/2025. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^231]: Az 1. melléklet 8. pont 8.8. alpont 8.8.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § f) pontja hatályon kívül helyezte.
+[^232]: Az 1. melléklet 8. pont 8.8. alpont 8.8.5. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^233]: Az 1. melléklet 8. pont 8.9. alpont 8.9.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^234]: Az 1. melléklet 8.11.3. pontja a 418/2024. (XII. 23.) Korm. rendelet 124. § b) pontja szerint módosított szöveg.
+[^235]: Az 1. melléklet 11. pont 11.3. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^236]: Az 1. melléklet 11. pont 11.4. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^237]: Az 1. melléklet 11. pont 11.5. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^238]: Az 1. melléklet 12. pont 12.1. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^239]: Az 1. melléklet 12. pont 12.3. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^240]: Az 1. melléklet 13. pont 13.1. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^241]: Az 1. melléklet 18. pont 18.5. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^242]: Az 1. melléklet 18. pont 18.6. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^243]: A 2. mellékletet a 251/2024. (VIII. 22.) Korm. rendelet 40. § (2) bekezdése iktatta be.

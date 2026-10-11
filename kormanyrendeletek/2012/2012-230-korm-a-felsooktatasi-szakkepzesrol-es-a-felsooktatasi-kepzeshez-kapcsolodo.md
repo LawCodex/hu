@@ -1,0 +1,443 @@
+---
+title: "230/2012. (VIII. 28.) Korm. rendelet a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről"
+identifier: "230/2012. (VIII. 28.) Korm. rendelet"
+njt_id: "2012-230-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/230"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-08-28
+in_force_from: 2012-09-01
+last_amended: 2025-04-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-230-20-22"
+retrieved: 2026-10-12
+---
+
+# 230/2012. (VIII. 28.) Korm. rendelet a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről
+
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 7. pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva, a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya kiterjed a Magyarország területén működő, és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 1. mellékletében felsorolt felsőoktatási intézmények felsőoktatási szakképzési tevékenységére, a képzésben részt vevő hallgatókra, továbbá felsőoktatási szakképzésben, alapképzésben, mesterképzésben a szakmai gyakorlatra és az abban együttműködő szervezetekre, a szakmai gyakorlóhelyekre.
+
+### 3. §
+
+(1) A képzésben a szakmai gyakorlat követelményeit a felsőoktatási szakképzés, az alapképzési, mesterképzési szakok képzési és kimeneti követelményei határozzák meg.
+
+(2) A 14–18. §-ban foglaltakat az alapképzés és a mesterképzés részeként megszervezett szakmai gyakorlat tekintetében is alkalmazni kell.
+
+### 4. §
+
+E rendelet alkalmazásában
+
+1.[^2] *belső gyakorlóhely:* a felsőoktatási intézménynek egybefüggő szakmai gyakorlat biztosítására alkalmas szervezeti egysége;
+
+2\. *feladatprofil:* a felsőoktatási szakképzettséggel ellátható legjellemzőbb tevékenység, feladatkör, munkaterület;
+
+3\. *képzettségi szint:* az oktatás egységes nemzetközi osztályozási rendszerre (ISCED) az ENSZ gazdasági és szociális osztályozási rendszereinek csoportjához tartozó besorolási rendszer, amely osztályozási referenciakeretül szolgál az oktatási programok és az ezekkel összefüggő képesítések rendszerezéséhez;
+
+4.[^3]
+
+5.[^4] *szakmai gyakorlóhely:* az a jogi személy vagy a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, amely felsőoktatási szakképzésben, alapképzésben vagy mesterképzésben – a felsőoktatási intézménnyel kötött együttműködési megállapodás, a hallgatóval az Nftv. 44. § (1) bekezdés a) pontja szerint kötött hallgatói munkaszerződés, vagy az Nftv. 44. § (3a) bekezdése szerinti megállapodás alapján – az egybefüggő szakmai gyakorlatot biztosítja.
+
+## 2. A felsőoktatási szakképzés rendje, a képzés szerkezete, a szakmai követelmények meghatározása
+
+### 5. §
+
+(1) A felsőoktatási szakképzés modulokból épül fel. Ezek:
+
+a) a valamennyi felsőoktatási szakképzés közös kompetencia modulja legfeljebb 12 kreditértékben;
+
+b) a képzési terület szerinti közös modul legfeljebb 21 kreditértékben, amelyből a képzési ág szerinti közös modul legfeljebb 15 kreditértékben;
+
+c) a szakképzés modulja, szakirányok esetén a szakirányok szakképzési modulja legfeljebb 87 kreditértékben, amelyből
+
+ca) a gyakorlati képzés kreditértéke 30 kredit;
+
+cb)[^5]
+
+cc) a specializáló kreditértéke legfeljebb 15 kredit.
+
+(2)[^6]
+
+### 6. §
+
+(1)[^7] Felsőoktatási szakképzésben legalább egy félév szakmai gyakorlatot kell szakmai gyakorlóhelyen szervezni. A szakmai gyakorlat egybefüggő gyakorlat, amely több részben csak akkor szervezhető meg, ha arról a felsőoktatási szakképzés képzési és kimeneti követelményei – szakmai indokok alapján – úgy rendelkeznek.
+
+(2) Az (1) bekezdés szerinti szakmai gyakorlat időtartama egy képzési időszaknak megfelelő időtartam, de legalább tizennégy hét, amelyben a gyakorlat öt napos munkahétnek megfelelő időszakokra tagolódik.
+
+(3) Részidős vagy távoktatási képzésben szervezett képzés esetén a szakmai gyakorlat legalább 240 óra, amely időtartam alatt legalább három hét gyakorlatot egybefüggően kell megszervezni. A korábbi munkatapasztalat a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint tanulmányi követelmény teljesítéseként elismerhető.
+
+(4) A hallgatót a szakmai gyakorlóhelyen a felsőfokú szakképzettséggel betölthető munkakörben foglalkoztatottak részére biztosított, a munkavégzéshez szükséges eszközök, munka- és védőruha, baleset- és munkavédelmi felszerelések illetik meg.
+
+### 8. §
+
+(1) A felsőoktatási szakképzés a képzési és kimeneti követelmények alapján meghatározott – a felsőoktatási intézmény képzési programjának részét képező – felsőoktatási szakképzési program alapján folyik.
+
+(2) A felsőoktatási szakképzési programnak a képzési és kimeneti követelmények szerinti alapadatai:
+
+a) a felsőoktatási szakképzés megnevezése;
+
+b) a megszerezhető szakképzettség megnevezése;
+
+c) szakirányok esetén a szakirány megnevezése;
+
+d)[^9] a képzési terület, határterületi képzés esetén a további képzési terület;
+
+e)[^10]
+
+f) összegyűjtendő kreditek száma;
+
+g) a szakképzettség célja (a specializáció vagy szakirány estén szakirányok képzési célja is), a feladatprofil meghatározása, a felsőoktatási szakképzettséggel ellátható tevékenységkör, munkaterület leírása;
+
+h) a szakképzettség szakmai kompetenciái, a képzési és kimeneti követelményekben meghatározott kompetencia területekre vonatkozóan az alábbi bontásban:
+
+ha) valamennyi szakképzés közös kompetencia modulja és kreditértéke,
+
+hb) a képzési terület szerinti közös modul és kreditértéke,
+
+hc)[^11] a szakképzési (a közös képzési terület, a gyakorlati képzés, a specializáció vagy a szakirányok szerinti) modul és kreditértéke,
+
+hd) a hallgatói szakmai gyakorlat időtartama heti öt munkanap és heti negyven munkaóra figyelembevételével;
+
+i)[^12]
+
+(3) A felsőoktatási szakképzési program (2) bekezdésen túli tartalmi elemei:
+
+a) a szakképzettség szempontjából a felsőoktatási szakképzésbe történő belépés sajátos feltételei, különösen:
+
+aa) az egészségügyi alkalmassági követelmények,
+
+ab) a szakmai, pályaalkalmassági követelmények;
+
+b) a szakmai gyakorlat szakmai követelményei;
+
+c) az idegen nyelvi követelmények;
+
+d) a felsőoktatási szakképzés képzési módszerei;
+
+e) a felsőoktatási szakképzés értékelési rendszere, az értékelés módszerei modulonként;
+
+f) a képzési szakon való továbbtanulás esetén a beszámítandó kreditek száma, továbbá a szakmai követelmény teljesítéseként elismerhető előzetesen megszerzett tudás, munkatapasztalat beszámításának egyéb feltételei;
+
+g) a teljes idejű képzésre (részidős képzésre, távoktatásra) vonatkozó tanterv, óra-, vizsgaterv, továbbá tantárgyi programok;
+
+h) a szakmai gyakorlat szervezésének sajátos követelményei, különösen:
+
+ha) a szakmai gyakorlóhely meghatározása,
+
+hb) a felsőoktatási szakképzésben, a 15. §-ban meghatározott együttműködési megállapodás alapján részt vevő szakmai gyakorlóhelyek szándéknyilatkozata,
+
+hc) a gyakorlati képzés ajánlott tanterve, tantervi egységei, moduljai, ezek időtartama,
+
+hd) a hallgató szakmai gyakorlatának értékelési módszerei,
+
+he) a részidős, távoktatási képzési formában a szakmai gyakorlatra vonatkozó előírások, és a szakmai gyakorlat alóli részbeni felmentésre, illetve a munkatapasztalat beszámítására vonatkozó szabályok,
+
+hf) a szorgalmi időszakon belüli és a szorgalmi időszakon kívüli szakmai gyakorlatok időbeosztása, heti öt munkanap és negyven munkaóra figyelembevételével;
+
+i) a felsőoktatási szakképzés eszközei, segédeszközei, tananyagai;
+
+j) a képzési és kimeneti követelményekben meghatározottak szerint a felsőoktatási szakképzéshez szükséges speciális épület és egyéb infrastrukturális kapacitásigények, tárgyi feltételek és azok biztosítása;
+
+k) teljes idejű képzésre (részidős képzésre, távoktatásra) vonatkozó tanterv, óra- és vizsgaterv, továbbá tantárgyi program;
+
+l) a felsőoktatási intézmény minőségbiztosítási rendszerének részeként a felsőoktatási szakképzés minőségbiztosításának bemutatása.
+
+## 3. A felsőoktatási szakképzés indításának eljárási rendje
+
+### 11. §[^15]
+
+(1)[^16] A felsőoktatási intézmény felsőoktatási szakképzés indítására azon képzési területen szerezhet jogosultságot, amelyen alapító okirata és működési engedélye szerint a felsőoktatási szakképzés képzési területén alap- vagy osztatlan képzésben, székhelyén vagy telephelyén képzést folytat.
+
+(2)[^17]
+
+(3)–(5)[^18]
+
+### 12. §
+
+(1)–(2)[^19]
+
+(3)[^20]
+
+(4) A Magyar Felsőoktatási Akkreditációs Bizottság a felsőoktatási szakképzési programról készített szakértői véleményében azt vizsgálja, hogy a felsőoktatási intézmény felsőoktatási szakképzési programja összhangban van-e a képzési és kimeneti követelményekkel, a szakképzettség szakmai kompetenciái megfelelnek-e a képzési és kimeneti követelményekben meghatározott kompetencia területek szerinti követelményeknek, a szakmai gyakorlat követelményei megfelelnek-e a szakképzettség feladatprofiljának.
+
+### 13. §[^21]
+
+A felsőoktatási intézmény szakképzési tevékenységét az Oktatási Hivatal a felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásában, a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményének megkérésével ötévente vizsgálja.
+
+## 4. A szakmai gyakorlat, az együttműködési megállapodás feltételei és tartalma
+
+### 14. §
+
+(1) A szakmai gyakorlat célja a szakképzettségnek megfelelő munkahelyen, munkakörben az elméleti és gyakorlati ismeretek összekapcsolása, a szakma gyakorlásához szükséges munkavállalói kompetenciák munkafolyamatokban történő fejlesztése, az anyag-eszköz-technológia ismeretek és gyakorlati jártasságok, valamint a munkafolyamatokban a személyi kapcsolatok és együttműködés, feladatmegoldásokban az értékelő és önértékelő magatartás, az innovációs készség fejlesztése.
+
+(2) A szakmai gyakorlat a felsőoktatási intézmény vagy az intézmény és a szakmai gyakorlóhely által közösen meghatározott képzési tevékenység, amelyet a képzési és kimeneti követelményekben meghatározottak szerint a felsőoktatási szakképzési programnak, illetve a szak tantervének megfelelően terveznek, szerveznek és értékelnek.
+
+### 15. §
+
+(1) A felsőoktatási intézmény és a szakmai gyakorlóhely együttműködési megállapodást köthet a felsőoktatási intézmény hallgatóinak szakmai gyakorlata biztosítására.
+
+(2)[^22] Az (1) bekezdésben meghatározott együttműködési megállapodást – a pedagógusképzés köznevelési intézményben végzett egyéni összefüggő gyakorlatát kivéve – meg kell kötni, ha a szak, felsőoktatási szakképzés képzési és kimeneti követelményei hat hét vagy annál hosszabb szakmai gyakorlatot határoznak meg.
+
+(3) Az együttműködési megállapodást írásba kell foglalni. Az együttműködési megállapodásra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni azzal, hogy a 16. §-ban foglalt elemek a megállapodás lényeges tartalmának minősülnek.
+
+(4)[^23] A felsőoktatási intézmény gyakorlatigényes szakján és felsőoktatási szakképzésén a (2) bekezdés szerinti és a tanév rendjéhez igazodóan legalább egy évre megkötött együttműködési megállapodásaiban foglalt, valamint a belső gyakorlóhelyei által biztosított hallgatói létszámkapacitás nem lehet kevesebb, mint a felsőoktatási intézmény adott szakja utolsó évfolyamán tanulmányokat folytató hallgatók száma.
+
+(5)[^24]
+
+(6)[^25]
+
+(7)[^26]
+
+### 16. §[^27]
+
+(1) Az együttműködési megállapodás tartalmazza:
+
+a) az együttműködési megállapodást kötő felek nevét (cégnevét), székhelyét, elérhetőségét, adószámát, statisztikai számjelét, cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát vagy nyilvántartási számát, képviseletére jogosult személy nevét, intézményi azonosító számot;
+
+b) az együttműködési megállapodás tárgyát, célját;
+
+c) az együttműködés módját, a szakmai gyakorlat kereteit, különösen:
+
+ca) a szakmai gyakorlat helyszínét, időtartamát (kezdő és befejező időpontját), esetleges szakaszait, azok kezdő és befejező időpontját,
+
+cb)[^28]
+
+cc) a hallgatók Nftv. 44. § (3) bekezdés a) pontja szerint megállapított díjazását, illetve annak hiányát,
+
+cd) a szakmai gyakorlat felsőoktatási intézményi felelősét és a szakmai gyakorlatot biztosító gyakorlóhely szakmai felelősét;
+
+ce) amennyiben a szakmai gyakorlóhely duális képzéshez kapcsolódik, az erre való utalást;
+
+d) a felsőoktatási intézmény kötelezettségeit és jogait, különösen:
+
+da) felelősségét a hallgatók teljes képzéséért, annak részét képező szakmai gyakorlatért,
+
+db) a szakmai gyakorlat megszervezését a szakmai gyakorlóhellyel,
+
+dc) a szakmai gyakorlathoz szükséges adatok, információk szakmai gyakorlóhely számára történő megküldését,
+
+dd) a szakmai készségek, képességek komplex fejlesztési folyamatában a szakmai gyakorlóhely értékelése alapján a gyakorlati kompetenciák értékelését;
+
+e) a szakmai gyakorlatot biztosító szakmai gyakorlóhely kötelezettségeit és jogait, különösen:
+
+ea) a hallgatói munkaszerződés hallgatóval történő megkötésének kötelezettségét,
+
+eb) a hallgató tanulmányainak megfelelő szakterületen történő foglalkoztatást,
+
+ec) a szakmai gyakorlat folytatásához szükséges hely, eszköz, védőfelszerelés biztosítását,
+
+ed) a szakmai gyakorlati tevékenység szakmai felügyeletét, irányítását,
+
+ee) a hallgatók elsajátított szakmai tudásának, kompetenciáinak írásban történő értékelését;
+
+f) az együttműködési megállapodás időtartamát (határozott idejű vagy határozatlan);
+
+g) az együttműködési megállapodás megszűnésének eseteit;
+
+h) duális képzés esetén továbbá a jelentkezők kiválasztásának módját, időbeli ütemezését.
+
+(1a)[^29] Ha a duális képzési gyakorlatra belső gyakorlóhelyen kerül sor, együttműködési megállapodás helyett a felsőoktatási intézmény határozza meg és foglalja írásba az elméleti képzésért és a duális gyakorlati képzésért felelős szervezeti egységek közötti együttműködés rendjét az (1) bekezdés szerinti kérdések tekintetében.
+
+(2)[^30] A duális képzésben részt vevő szervezet vagy belső gyakorlóhely a felsőoktatási felvételi eljárásban legkésőbb a jelentkezési sorrend módosításának határidejét három nappal megelőzően tájékoztatja a jelentkezőket a kiválasztás eredményéről. Ha a kiválasztási eljárás a felvételi döntést követően kezdődik meg, akkor a duális képzésben részt vevő szervezet vagy belső gyakorlóhely a jelentkezőket a 17. § (5) bekezdésében meghatározott határidőt legkésőbb hét nappal megelőzően értesíti.
+
+## 5. [^31] A szakmai gyakorlaton történő hallgatói munkavégzés feltételei, a hallgatói munkaszerződés és megállapodás tartalma
+
+### 17. §
+
+(1)[^32] Szakmai gyakorlatra kötelezett hallgató az Nftv. 44. § (1) bekezdés a) pontja szerinti, a szakmai gyakorlóhellyel vagy belső gyakorlóhely esetében a felsőoktatási intézménnyel kötött hallgatói munkaszerződés vagy a 14. § (1) és (2) bekezdésében meghatározott rendelkezéseknek megfelelő munkaszerződés alapján végezhet munkát.
+
+(2) A szakmai gyakorlaton történő munkavégzés során munkavállalón a hallgatót, munkáltatón a szakmai gyakorlatot biztosítót, munkaviszonyon a hallgatói munkaszerződés alapján létrejött munkaviszonyt kell érteni.
+
+(3) A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatása során
+
+a)[^33] rendkívüli munkaidő nem rendelhető el,
+
+b)[^34]
+
+c) a hallgató számára legalább tizenkét óra tartalmú napi pihenőidőt kell biztosítani,
+
+d) próbaidő nem köthető ki,
+
+e) a munka törvénykönyve 105. § (2) bekezdésében és 106. § (3) bekezdésében foglaltak nem alkalmazhatók.
+
+(4)[^35] Duális képzés esetén a hallgatói munkaszerződés a képzés – legkésőbb annak második félévétől kezdődően megkezdett – teljes duális formában folytatott idejére szól.
+
+(4a)[^36] A (4) bekezdéstől eltérően duális formában folytatott képzésnek minősül az olyan képzés is, amelynek során a hallgató munkaszerződése a munkáltatónak a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) időtartama alatt közölt felmondása miatt szűnt meg, feltéve, hogy a képzésnek a veszélyhelyzeten kívüli időszakában a hallgató duális képzésben való részvételével kapcsolatos előírások teljesültek.
+
+(4b)[^37] A veszélyhelyzet ideje alatt hallgatói munkaszerződéssel rendelkező, duális képzésben részt vevő hallgató esetében a veszélyhelyzet időtartamát akkor is duális képzésben eltöltött időszaknak kell tekinteni, ha ezen időszak alatt a duális képzési programban való részvételre a hallgató részéről a veszélyhelyzet miatt nem kerülhetett, vagy nem a veszélyhelyzet előtti rendben és időtartamban került sor, feltéve, hogy hallgatói jogviszonya ezen időszak alatt nem szünetelt.
+
+(4c)[^38] Duális képzésbe a hallgató a (4) bekezdésben foglalt időtartamot követően is bekapcsolódhat, feltéve, hogy a hallgató ebben az esetben is duális képzésben folytatja a képzési idő féléveinek több mint felét.
+
+(4d)[^39] A hallgató a felsőoktatási intézmény és szakmai gyakorlóhely egyetértésével tanulmányainak duális formában történő folytatását – az utolsó félév kivételével – legfeljebb egy félévig szüneteltetheti, feltéve, hogy a hallgató ebben az esetben is duális képzésben folytatja a képzési idő féléveinek több mint felét.
+
+(5)[^40] Duális képzés esetén a hallgatói munkaszerződést őszi félévben kezdődő duális képzési tanulmányok esetén szeptember 30-ig, tavaszi félévben kezdődő duális képzési tanulmányok esetén február 28-ig kell megkötni.
+
+(5a)[^41] Ha a hallgató tanulmányait a 2019/2020. tanévben kezdte, a képzést annak harmadik félévétől kezdődően is folytathatja duális formában. A hallgatói munkaszerződést ilyen esetben 2020. szeptember 30-ig kell megkötni.
+
+(6)[^42] Külső szakmai gyakorlóhellyel kötött megállapodás alapján megvalósuló duális képzés esetében a szakmai gyakorlatnak a felsőoktatási intézmény épületében megvalósuló részét is külső szakmai gyakorlóhely telephelyén megvalósuló gyakorlatnak kell tekinteni.
+
+### 18. §
+
+(1) A hallgatói munkaszerződésnek tartalmaznia kell különösen:
+
+a)[^43] a szakmai gyakorlóhely vagy a belső gyakorlóhely adatait (nevét, székhelyét, elérhetőségét, adószámát, statisztikai számjelét, cégjegyzékszámát vagy egyéni vállalkozói nyilvántartási számát, törvényes képviselőjének nevét);
+
+b) a hallgató természetes személyazonosító adatait (nevét, születési nevét, születési helyét és idejét, anyja születési nevét, lakcímét, hallgatói azonosító számát, elérhetőségét, adóazonosító jelét, társadalombiztosítási azonosító jelét, bankszámlaszámát, külföldi hallgató esetén állampolgárságát, tartózkodási címét);
+
+c) a hallgatóval hallgatói jogviszonyt létesített felsőoktatási intézmény adatait (nevét, székhelyét, elérhetőségét, intézményi azonosító számát, törvényes képviselőjének nevét);
+
+d) a képzési és kimeneti követelményekben meghatározottakkal azonos módon a szakképzettség megnevezését és a képzési időt;
+
+e) a hallgató munkakörét;
+
+f) a szakmai gyakorlat helyét (munkahely), időtartamát (kezdő és befejező időpontját), szükség esetén szakaszait, a hallgató napi munkaidejét, a hallgatót az Nftv. 44. § (3) bekezdés a) pontja alapján megillető díjazás összegét, illetve a díjazás hiányát;
+
+g)[^44] a hallgató szakmai gyakorlata felsőoktatási intézményi felelősének és a szakmai gyakorlóhely vagy a belső gyakorlóhely szakmai felelősének személyét;
+
+h)[^45] a szakmai gyakorlóhelyen vagy a belső gyakorlóhelyen a hallgató számára – a jogszabály alapján járó juttatásokon és kedvezményeken felül – biztosított egyéb juttatások és kedvezmények megjelölését, azok mértékét és nyújtásának feltételeit.
+
+(2)[^46] A hallgatói munkaszerződés tartalmazza a szakmai gyakorlóhely vagy a belső gyakorlóhely arra vonatkozó kötelezettségvállalását, hogy a hallgató számára – egészségvédelmi és munkavédelmi szempontból biztonságos munkahelyen – a szakképzési programnak, illetve a tantervnek megfelelő szakmai gyakorlatról gondoskodik.
+
+(2a)[^47] Belső gyakorlóhely esetében a hallgatói munkaszerződés a felsőoktatási intézmény (2) bekezdés szerinti kötelezettségvállalását tartalmazza.
+
+(3) A hallgatói munkaszerződés tartalmazza a hallgató arra vonatkozó kötelezettségvállalását, hogy
+
+a)[^48] a szakmai gyakorlóhely vagy a belső gyakorlóhely képzési rendjét megtartja, a szakmai gyakorlatot a követelmények alapján elvégzi;
+
+b) a szakmai gyakorlati ismereteket a képességeinek megfelelően elsajátítja;
+
+c) a biztonsági, az egészségügyi és a munkavédelmi előírásokat megtartja;
+
+d)[^49] nem tanúsít olyan magatartást, amellyel a szakmai gyakorlóhely vagy a belső gyakorlóhely jogos gazdasági érdekeit veszélyeztetné.
+
+### 18/A. §[^50]
+
+Az Nftv. 44. § (3a) bekezdésében meghatározott szakmai gyakorlatra a 17. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+### 18/B. §[^51]
+
+(1) A hallgatóval kötendő megállapodásnak tartalmaznia kell különösen:
+
+a)[^52] a szakmai gyakorlóhely vagy a belső gyakorlóhely adatait (nevét, székhelyét, elérhetőségét, vezetőjének nevét);
+
+b) a hallgató természetes személyazonosító adatait (nevét, születési nevét, születési helyét és idejét, anyja születési nevét, lakcímét, hallgatói azonosító számát, elérhetőségét, külföldi hallgató esetén állampolgárságát, tartózkodási címét);
+
+c) a hallgatóval hallgatói jogviszonyt létesített felsőoktatási intézmény adatait (nevét, székhelyét, elérhetőségét, intézményi azonosító számát, törvényes képviselőjének nevét);
+
+d) a képzési és kimeneti követelményekben meghatározottakkal azonos módon a szakképzettség megnevezését és a képzési időt;
+
+e) a hallgató számára a szakmai gyakorlat időtartamára kijelölt feladatokat;
+
+f) a szakmai gyakorlat helyét, időtartamát (kezdő és befejező időpontját), szükség esetén szakaszait, a hallgató napi szakmai gyakorlata idejét;
+
+g)[^53] a hallgató szakmai gyakorlata felsőoktatási intézményi felelősének és a szakmai gyakorlóhely vagy a belső gyakorlóhely szakmai felelősének személyét.
+
+(2)[^54] A megállapodás tartalmazza a szakmai gyakorlóhely vagy a belső gyakorlóhely arra vonatkozó kötelezettségvállalását, hogy a hallgató számára – egészségvédelmi és munkavédelmi szempontból biztonságos munkahelyen – a szakképzési programnak, illetve a tantervnek megfelelő szakmai gyakorlatról gondoskodik.
+
+(3) A megállapodás tartalmazza a hallgató arra vonatkozó kötelezettségvállalását, hogy
+
+a)[^55] a szakmai gyakorlóhely vagy a belső gyakorlóhely képzési rendjét megtartja, a szakmai gyakorlatot a követelmények alapján elvégzi;
+
+b) a szakmai gyakorlati ismereteket a képességeinek megfelelően elsajátítja;
+
+c) a biztonsági, az egészségügyi és a munkavédelmi előírásokat megtartja.
+
+## 6.[^56]
+
+### 19. §[^57]
+
+A nemzeti felsőoktatásról szóló törvény szerinti duális képzés esetén a szociális hozzájárulásról szóló 2018. évi LII. törvény 17/A. § (1) bekezdés c) pontja szerinti alapnormatíva alkalmazandó súlyszorzója
+
+a) duális képzés esetén
+
+aa)[^58] a diakónia és szociális munka alapképzési szakon és a gazdaságtudományok képzési területen 3,90,
+
+ab) a műszaki, az informatika, az agrártudomány, a természettudomány és az egészségtudomány képzési területen 5,30,
+
+b) gyakorlatigényes alapképzési szak esetén az *a)* pont *aa)* és *ab)* alpontja szerinti képzési területen az *a)* pont *aa)* és *ab)* alpontjában meghatározott mérték, minden más gyakorlatigényes alapképzési szak esetén 3,90.
+
+## 7. Záró rendelkezések
+
+### 20. §
+
+(1) E rendelet 2012. szeptember 1-jén lép hatályba.
+
+(2) Azok a hallgatók, akik tanulmányaikat a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: 2005. évi törvény), valamint az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet szerinti felsőfokú szakképzésben kezdték meg, azt a korábbi szakmai és vizsgakövetelmények alapján fejezhetik be és szerezhetnek bizonyítványt, vagy szakváltással e rendelet szerint indított felsőoktatási szakképzésben folytathatják tanulmányaikat és szerezhetnek oklevelet. A 2005. évi törvény szerinti felsőfokú szakképzésben tanulmányaikat megkezdett hallgatók szakmai gyakorlatára a 2005. évi törvény, valamint a szakképzésről szóló 1993. évi LXXIX. törvény rendelkezései irányadók.
+
+(3)[^59]
+
+(4)[^60]
+
+(5)[^61] Az Oktatási Hivatal 2016. április 30-át követően vizsgálhatja a 15. § (4) bekezdésében foglalt követelmények teljesülését.
+
+(6)[^62]
+
+(7)[^63] E rendelettől az államtudományi képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
+
+---
+
+[^2]: A 4. § 1. pontja a 345/2015. (XI. 19.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § 4. pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 1. pontja hatályon kívül helyezte.
+[^4]: A 4. § 5. pontja a 345/2015. (XI. 19.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés c) pont cb) alpontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 2. pontja hatályon kívül helyezte.
+[^6]: Az 5. § (2) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 2. pontja hatályon kívül helyezte.
+[^7]: A 6. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^9]: A 8. § (2) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
+[^10]: A 8. § (2) bekezdés e) pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^11]: A 8. § (2) bekezdés h) pont hc) alpontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdés i) pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^15]: A 11. §-t megelőző alcímet a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cc) alpontja hatályon kívül helyezte.
+[^16]: A 11. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg.
+[^17]: A 11. § (2) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 7. pontja hatályon kívül helyezte.
+[^18]: A 11. § (3)–(5) bekezdését a 87/2015. (IV. 9.) Korm. rendelet 76. § a) pontja hatályon kívül helyezte.
+[^19]: A 12. § (1)–(2) bekezdését a 87/2015. (IV. 9.) Korm. rendelet 76. § a) pontja hatályon kívül helyezte.
+[^20]: A 12. § (3) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^21]: A 13. § a 610/2023. (XII. 22.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^22]: A 15. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^23]: A 15. § (4) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^24]: A 15. § (5) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 17. §-a iktatta be, a 191/2019. (VII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^25]: A 15. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 17. §-a iktatta be, a 84/2025. (IV. 22.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^26]: A 15. § (7) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be, a 84/2025. (IV. 22.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^27]: A 16. § a 345/2015. (XI. 19.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^28]: A 16. § (1) bekezdés c) pont cb) alpontját a 610/2023. (XII. 22.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^29]: A 16. § (1a) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^30]: A 16. § (2) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. alcím címe a 345/2015. (XI. 19.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^32]: A 17. § (1) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^33]: A 17. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^34]: A 17. § (3) bekezdés b) pontját a 406/2024. (XII. 18.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^35]: A 17. § (4) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 19. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^36]: A 17. § (4a) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 58. § (1) bekezdése iktatta be.
+[^37]: A 17. § (4b) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 58. § (1) bekezdése iktatta be.
+[^38]: A 17. § (4c) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^39]: A 17. § (4d) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^40]: A 17. § (5) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 19. §-a iktatta be, szövege a 610/2023. (XII. 22.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^41]: A 17. § (5a) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^42]: A 17. § (6) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 610/2023. (XII. 22.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^43]: A 18. § (1) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^44]: A 18. § (1) bekezdés g) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^45]: A 18. § (1) bekezdés h) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^46]: A 18. § (2) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^47]: A 18. § (2a) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 14. §-a iktatta be.
+[^48]: A 18. § (3) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^49]: A 18. § (3) bekezdés d) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^50]: A 18/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
+[^51]: A 18/B. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
+[^52]: A 18/B. § (1) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja és 16. § c) pontja szerint módosított szöveg.
+[^53]: A 18/B. § (1) bekezdés g) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^54]: A 18/B. § (2) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^55]: A 18/B. § (3) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^56]: A 6. alcímet (19. §) a 380/2021. (VI. 30.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^57]: A 19. §-t újonnan a 800/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^58]: A 19. § a) pont aa) alpontja a 610/2023. (XII. 22.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^59]: A 20. § (3) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
+[^60]: A 20. § (4) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 8. pontja hatályon kívül helyezte.
+[^61]: A 20. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^62]: A 20. § (6) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
+[^63]: A 20. § (7) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 9. §-a szerint módosíott szöveg.

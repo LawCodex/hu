@@ -1,0 +1,70 @@
+---
+title: "100/2019. (V. 2.) Korm. rendelet a Magyarország Kormánya és Mongólia Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött megállapodás kihirdetéséről"
+identifier: "100/2019. (V. 2.) Korm. rendelet"
+njt_id: "2019-100-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/100"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-05-02
+in_force_from: 2019-05-03
+last_amended: 2019-05-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-100-20-22"
+retrieved: 2026-10-12
+---
+
+# 100/2019. (V. 2.) Korm. rendelet a Magyarország Kormánya és Mongólia Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Mongólia Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Megállapodás) módosításáról szóló jegyzékváltással létrejött megállapodás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Módosítást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+“The Ministry of Foreign Affairs and Trade of Hungary presents its compliments to the Ministry of Finance of Mongolia and has the honour to initiate, through an exchange of notes, the following amendment of the Agreement between the Government of Hungary and the Government of Mongolia about the Establishment of a Framework Programme for Financial Co-operation signed on 25 January 2016 (hereinafter referred to as the “Agreement”).
+
+The Hungarian Party has the honour to propose to the Mongolian Party an amendment to the first sentence of Article 3 as follows: “The total value of the project financed under the tied aid credit is 57 million USD.”
+
+The Hungarian Party has the honour to propose to the Mongolian Party an amendment to the point a) of Article 11 as follows: “This Agreement shall be valid for four (4) years from the date of its coming into force.”
+
+If the aforesaid proposals of the Hungarian Party are acceptable to the Mongolian Party, this Note and the Note of the Mongolian Party in reply to that effect shall constitute an agreement between the Government of Hungary and the Government of Mongolia on the amendment of the first sentence of Article 3 and the point a) of Article 11 of the above-mentioned Agreement, which amendment shall enter into force on 10 May 2019, depending on the acceptance of the Mongolian Party.
+
+The Ministry of Foreign Affairs and Trade of Hungary avails itself of this opportunity to renew to the Ministry of Finance of Mongolia the assurances of its highest consideration.”
+
+„Magyarország Külgazdasági és Külügyminisztériuma tiszteletét fejezi ki Mongólia Pénzügyminisztériuma felé és tisztelettel kezdeményezi a 2016. január 25-én aláírt, a Magyarország Kormánya és Mongólia Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló Megállapodás (a továbbiakban: Megállapodás) jegyzékváltás útján történő módosítását.
+
+A Magyar Fél javasolja a Mongol Fél számára a Megállapodás 3. cikk első mondatának módosítását a következőképpen: „A kötött segélyhitelkeretből finanszírozható projektek összértéke 57 millió USD, azaz ötvenhét millió amerikai dollár.”
+
+A Magyar Fél javasolja a Mongol Fél számára a Megállapodás 11. cikk *a)* pontjának módosítását a következőképpen: „A Megállapodás a hatálybalépésétől számított négy évig érvényes.”
+
+Amennyiben a Magyar Fél említett javaslatai elfogadhatók a Mongol Fél számára, abban az esetben jelen jegyzék és a Mongol Fél jelen jegyzékre küldött válaszjegyzéke megállapodást képeznek Magyarország Kormánya és Mongólia Kormánya között, a fent említett Megállapodás 3. cikke első mondatának, valamint a fent említett Megállapodás 11. cikke *a)* pontjának módosításáról, amely a Mongol Fél beleegyezésétől függően 2019. május 10-én lép hatályba.
+
+Magyarország Külgazdasági és Külügyminisztériuma ismételten megragadja az alkalmat, hogy nagyrabecsüléséről biztosítsa Mongólia Pénzügyminisztériumát.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Módosítás negyedik bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Módosítás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+(1) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+(2) A Megállapodás Módosítással egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának a hatálybalépését követő haladéktalan közzétételéről a külgazdaságért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszterrel egyetértésben – gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Módosítás negyedik bekezdésében meghatározott időpontban lép hatályba. A 30/2019. (V. 10.) KKM közlemény alapján a hatálybalépés időpontja 2019. május 10.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Módosítás negyedik bekezdésében meghatározott időpontban lép hatályba. A 30/2019. (V. 10.) KKM közlemény alapján a hatálybalépés időpontja 2019. május 10.
+[^3]: A 30/2019. (V. 10.) KKM közlemény alapján a hatálybalépés időpontja 2019. május 10.
+[^4]: Lásd a 30/2019. (V. 10.) KKM közleményt.

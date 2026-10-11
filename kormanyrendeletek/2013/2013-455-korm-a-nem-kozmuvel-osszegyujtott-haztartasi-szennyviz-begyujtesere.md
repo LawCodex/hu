@@ -1,0 +1,380 @@
+---
+title: "455/2013. (XI. 29.) Korm. rendelet a nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó közszolgáltatási tevékenység részletes szabályairól"
+identifier: "455/2013. (XI. 29.) Korm. rendelet"
+njt_id: "2013-455-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/455"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-11-29
+in_force_from: 2013-12-30
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-455-20-22"
+retrieved: 2026-10-12
+---
+
+# 455/2013. (XI. 29.) Korm. rendelet a nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó közszolgáltatási tevékenység részletes szabályairól
+
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés *x)* pontját követő *y)* pontjában,\
+az 1. § (1) bekezdése tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § *a)* pontjában,\
+a 22. § tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés *e)* pontjában kapott felhatalmazás alapján, továbbá\
+a 23. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében\
+– az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva – a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) A nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó közszolgáltatási tevékenység (a továbbiakban: közszolgáltatás) tekintetében a begyűjtés helye szerint illetékes vízügyi hatóság jár el a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény (a továbbiakban: Szolg. tv.) szerinti szolgáltatás felügyeletét ellátó hatóságként (a továbbiakban: felügyeletet ellátó hatóság).
+
+(2) Az ingatlanon történő vízfelhasználás esetén az ingatlan tulajdonosa, vagyonkezelője, vagy egyéb jogcímen használója (a továbbiakban: ingatlantulajdonos) évente legalább egy alkalommal köteles a közszolgáltatás igénybe vételére, kivéve ha jogszabály eltérően rendelkezik.
+
+### 1/A. §[^1]
+
+Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
+
+## 2. A felhívás, illetve a dokumentáció tartalma
+
+### 2. §
+
+Ha több települési önkormányzat önkormányzati társulás vagy együttműködési megállapodás keretében közösen kívánja a közszolgáltatást megszervezni, a közbeszerzési eljárást megindító felhívásukat (a továbbiakban: felhívás) a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) vonatkozó rendelkezései szerint közösen készítik el.
+
+### 3. §
+
+(1) A felhívásnak vagy a dokumentációnak tartalmaznia kell a közszolgáltatás ellátása során kötelezően és kizárólagosan igénybe vehető szennyvíztisztító telepek, szennyvíz-bebocsátási pontok megnevezését és azok – közbeszerzési eljárás megkezdése időpontjának megfelelő – állapotát.
+
+(2) A felhívásnak vagy a dokumentációnak tartalmaznia kell, hogy az ajánlattevőnek legkésőbb a közszolgáltatás megkezdésekor rendelkeznie kell a közszolgáltatás ellátásához szükséges – legalább telefon alapú – ügyfélszolgálattal és ügyeleti rendszerrel.
+
+(3) A közszolgáltatási jellemzők részletezése érdekében a közbeszerzési műszaki leírásnak tartalmaznia kell a közszolgáltatás szempontjából jellemző adatokat, így
+
+a) a közszolgáltatásba bevont terület települési, földrajzi és közlekedési jellemzőit;
+
+b) az érintett terület lakosságának számát;
+
+c) a közszolgáltatást igénybe vevő gazdálkodó szervezetek számát;
+
+d) a nem közművel összegyűjtött háztartási szennyvíz várható mennyiségét;
+
+e) a kijelölt szennyvíztisztító telepekre, szennyvíz-bebocsátási pontokra vonatkozó hatósági engedélyek főbb előírásait, ezek kapacitását, üzemeltetőjét, a vízjogi üzemeltetési engedély hatályát, a műszaki előírásokat; továbbá
+
+f) a közszolgáltatás megkezdésének tervezett időpontját és a közszolgáltatás ellátásának tervezett időtartamát.
+
+(4) A felhívásban vagy a dokumentációban – a közszolgáltatás tartalmára és területi kiterjedésére figyelemmel – a járművek, gépek, berendezések és eszközök szükséges mennyisége és a közszolgáltatás teljesítése szempontjából azok lényeges műszaki és technológiai tulajdonságai is meghatározhatóak.
+
+(5) A közszolgáltatási jellemzők teljesülése érdekében a felhívásnak vagy a dokumentációnak tartalmaznia kell a közszolgáltatással kapcsolatos korábban szerzett tapasztalatok általános ismertetését és a közszolgáltatás fejlesztésére vonatkozó elképzelések bemutatását.
+
+(6) A felhívásban az ajánlatkérő előírja, hogy a közös ajánlatot benyújtó ajánlattevők jelöljék meg maguk közül azt a vállalkozást, amelyet – nyertességük esetén – a települési önkormányzat közszolgáltatónak minősít.
+
+## 3. Az ajánlattevő
+
+### 4. §
+
+(1) A közszolgáltatási feladatok ellátására ajánlatot tevőnek legkésőbb a közszolgáltatás megkezdésének időpontjában rendelkeznie kell
+
+a) a közszolgáltatás ellátásához szükséges, hatósági engedéllyel rendelkező járművekkel, gépekkel, berendezésekkel és eszközökkel;
+
+b) olyan, a tulajdonában, kezelésében vagy hatályos szerződéssel a bérleményében lévő, hatóságilag engedélyezett telephellyel, amely alkalmas a közszolgáltatás végzéséhez szükséges járművek, gépek, berendezések és eszközök tárolására, valamint azok tisztítására, fertőtlenítésére engedéllyel rendelkező vállalkozással kötött szerződéssel;
+
+c) olyan felszerelésekkel és eszközökkel, amelyek a közszolgáltatás ellátása során esetlegesen keletkező környezeti károk azonnali beavatkozást igénylő elhárításához szükségesek;
+
+d) a közszolgáltatás ellátásához szükséges létszámú – köztisztasági munkagép- és járműkezelő településtisztasági szippantógép-kezelő szakképesítéssel rendelkező – szakemberrel; továbbá
+
+e) a nyilvántartási, információs, valamint adatkezelési és adatszolgáltatási rendszer létrehozásához és folyamatos működtetéséhez szükséges feltételekkel.
+
+(2) Több ajánlattevő közös ajánlattétele esetén a közös ajánlatot benyújtó ajánlattevőknek szerződésben kell rögzíteniük
+
+a) az együttműködésük részletes szabályait, feltételeit és biztosítékait,
+
+b) a képviseletükben eljáró vállalkozás megnevezését és képviseleti meghatalmazását, valamint
+
+c) az ajánlat tárgyát képező közszolgáltatási tevékenységek egymás közötti megosztását.
+
+(3) A közös ajánlatot benyújtó ajánlattevőknek a (2) bekezdés szerinti szerződését az ajánlathoz csatolniuk kell.
+
+## 4. Az ajánlat
+
+### 5. §
+
+A felhívásban meghatározottak szerint az ajánlattevő ajánlatának – adatokkal és leírásokkal alátámasztott módon – tartalmaznia kell
+
+a) a közszolgáltatás ellátásának módjára és szervezésére,
+
+b) a közszolgáltatás teljesítése során alkalmazni tervezett járművekre, gépekre, felszerelésekre, eszközökre, berendezésekre,
+
+c) a közszolgáltatás teljesítéséhez alkalmazni tervezett módszerekre, technológiákra és eljárásokra,
+
+d) a közszolgáltatással összefüggő fejlesztések elvégzésére,
+
+e) a közszolgáltatás körébe tartozó tevékenységek belső ellenőrzésének rendjére,
+
+f) a fogyasztói érdekek érvényesülésének és védelmének biztosítékaira és módszereire,
+
+g) a közszolgáltatás finanszírozásának feltételeire, módjára és a közszolgáltatás díjának meghatározására, valamint beszedésének módjára,
+
+h) az ügyfélszolgálati és tájékoztatási, valamint a nyilvántartási, adatkezelési és adatszolgáltatási rendszer működtetésére, valamint
+
+i) a közszolgáltatás végzéséhez rendelkezésre álló szakemberek létszámára
+
+vonatkozó javaslatot.
+
+## 5. A közszolgáltatási szerződés
+
+### 6. §
+
+(1) A közszolgáltatási szerződést a közbeszerzési eljárás nyertesével vagy a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 44/F. § (3) bekezdés *c)* pontja szerint közszolgáltatásra kijelölttel a települési önkormányzat képviselő-testülete köti meg.
+
+(2) A közszolgáltatási szerződésnek tartalmaznia kell a közszolgáltatás megnevezését, minőségi ismérveit, teljesítésének területi kiterjedését, a közszolgáltatás megkezdésének időpontját és időtartamát.
+
+(3) A közszolgáltatási szerződésben a közszolgáltató kötelességeként kell meghatározni
+
+a) a közszolgáltatás folyamatos és teljes körű ellátását;
+
+b) a közszolgáltatás meghatározott rendszer, módszer szerinti teljesítését;
+
+c) a közszolgáltatás teljesítéséhez szükséges mennyiségű és minőségű jármű, gép, eszköz, berendezés biztosítását, valamint a szükséges létszámú és képzettségű szakember alkalmazását;
+
+d) a közszolgáltatás folyamatos, biztonságos és bővíthető teljesítéséhez szükséges fejlesztés és karbantartás elvégzését;
+
+e) a közszolgáltatás körébe tartozó nem közművel összegyűjtött háztartási szennyvíz ártalmatlanítására a felügyeletet ellátó hatóság által kijelölt helyek és létesítmények igénybevételét;
+
+f) a közszolgáltató által alkalmazott közszolgáltatási díj mértékéről és az alkalmazás tapasztalatairól a települési önkormányzat képviselő-testületének történő legalább évenkénti egyszeri tájékoztatását;
+
+g) a fogyasztók számára hozzáférhető ügyfélszolgálat és tájékoztatási rendszer működtetését és
+
+h) a fogyasztói kifogások és észrevételek elintézési rendjének megállapítását.
+
+(4) A közszolgáltatási szerződésben a települési önkormányzat kötelességeként kell meghatározni
+
+a) a közszolgáltatás hatékony és folyamatos ellátásához a közszolgáltató számára szükséges információk szolgáltatását, a Vgtv. 44/C. § (2) bekezdés *g)* pontjában foglaltak betartásával;
+
+b) a településen működtetett különböző közszolgáltatások összehangolásának elősegítését és
+
+c) a közszolgáltató kizárólagos közszolgáltatási jogának biztosítását a 3. § (3) bekezdés *a), b)* és *f)* pontjaiban foglaltakra figyelemmel.
+
+### 7. §
+
+(1) A közszolgáltatási szerződésben meg kell határozni a közszolgáltatás finanszírozásának elveit és módszereit.
+
+(2) A települési önkormányzatnak a közszolgáltatás finanszírozásában vállalt kötelezettsége esetén a közszolgáltatási szerződésben meg kell határozni a kötelezettség teljesítésének feltételeit és biztosítékait.
+
+(3) A közszolgáltatási szerződés tartalmazza a közszolgáltatás díjának megállapítására és beszedésére vonatkozó módszer leírását, a díjnak a szerződés megkötésekor érvényesíthető legmagasabb mértékét és a díj megváltoztatása érdekében alkalmazandó eljárást.
+
+(4) A közszolgáltatási szerződésnek tartalmaznia kell az igazolt díjhátralék kiegyenlítésére vonatkozó eljárást.
+
+### 8. §
+
+A közszolgáltatási szerződés tartalmazza azokat a feltételeket, amelyek mellett a közszolgáltató – közbeszerzési eljárás esetén a Kbt. 128. §-ában meghatározottakra figyelemmel – a közszolgáltatás teljesítésére közreműködőt vagy teljesítési segédet vehet igénybe. A közszolgáltató közreműködőért vagy teljesítési segédért való felelőssége a közszolgáltatási szerződésben nem korlátozható.
+
+### 9. §
+
+(1) A közszolgáltatási szerződés megszűnik
+
+a) a szerződésben meghatározott időtartam lejártával;
+
+b) a közszolgáltató jogutód nélküli megszűnésével;
+
+c) elállással, ha a teljesítés még nem kezdődött meg; vagy
+
+d) felmondással.
+
+(2) A közszolgáltatási szerződés megszűnése esetén a közszolgáltatás ellátásával kapcsolatos valamennyi dokumentumot, nyilvántartást a folyamatban lévő ügyek irataival együtt a közszolgáltató a települési önkormányzatnak a közszolgáltatási szerződés megszűnése napján átadja.
+
+(3) A települési önkormányzat a birtokában lévő és a közszolgáltatással kapcsolatos valamennyi dokumentumot, nyilvántartást a folyamatban lévő ügyek irataival együtt a közszolgáltatási szerződés hatálybalépésének napján az új közszolgáltatónak átadja.
+
+(4) A közszolgáltató a közszolgáltatási szerződést hathónapos felmondási határidővel mondhatja fel, és a közszolgáltatást a felmondási határidő végéig változatlan feltételekkel biztosítani köteles.
+
+## 6. A nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos tevékenység végzésének feltételei
+
+### 10. §
+
+(1) Közszolgáltatást gazdasági társaság, egyéni vállalkozó vagy egyéni cég akkor végezhet, ha
+
+a) rendelkezik a környezetbiztonságra, illetve a havária elhárítására vonatkozó – a felügyeletet ellátó hatóság által jóváhagyott – tervvel és
+
+b) a felügyeletet ellátó hatóságnál a közszolgáltatót bejelentették.
+
+(2) A közszolgáltató a havária eseményt – a havária tervben meghatározott módon – a felügyeletet ellátó hatóság felé köteles haladéktalanul bejelenteni. Havária eseménynek minősül a szennyvíz olyan mértékű kifolyása, amely a közszolgáltató által nem összegyűjthető és környezetveszélyeztetést okoz.
+
+(3) Ha a közszolgáltató a bejelentéstől eltérően működik, vagy az e rendeletben, valamint a vonatkozó környezetvédelmi, természetvédelmi, vízügyi és közegészségügyi jogszabályokban foglaltakat megsérti és a felügyeletet ellátó hatóság által kiszabott közszolgáltatási bírság megfizetését követően sem tesz eleget kötelezettségeinek, akkor a felügyeletet ellátó hatóság megtiltja a közszolgáltatási tevékenység folytatását és a közszolgáltatót töröli a nyilvántartásából. A felügyeletet ellátó hatóság a törlésről értesíti a települési önkormányzatot.
+
+(4) A közszolgáltatás végzéséhez szükséges eszközöket kizárólag az engedélyezett telephelyen szabad tárolni.
+
+### 11. §
+
+(1) A közszolgáltatás végzéséhez szükséges bejelentést – a Szolg. tv.-ben meghatározottakat figyelembe véve – az 1. melléklet szerinti tartalommal kell benyújtani.
+
+(2) A bejelentéshez csatolni kell:
+
+a) a közszolgáltatás végzéséhez szükséges befogadói nyilatkozat másolatát, amely tartalmazza, hogy a kijelölt szennyvíztisztító telep, szennyvíz-bebocsátási pont szabad kapacitása terhére fogadni képes a közszolgáltatás során gyűjtött háztartási szennyvizet,
+
+b) a bejelentőnek a közszolgáltatás ellátását szolgáló műszaki és pénzügyi eszközeit, személyi feltételeit, a járművek számát, a szállítás szabályozását bemutató dokumentumokat,
+
+c) a járművek parkolására szolgáló telephely kialakításának leírását és a telephely hatósági bejelentésének másolatát, valamint
+
+d) a járművek tisztítását végző, engedéllyel rendelkező vállalkozással kötött szerződést.
+
+### 12. §
+
+(1) A felügyeletet ellátó hatóság által vezetett hatósági nyilvántartás a Szolg. tv.-ben meghatározottak alapján a 11. §-ban meghatározott közhiteles adatokat tartalmazza.
+
+(2) A felügyeletet ellátó hatóság a közszolgáltatót 5 évre veszi nyilvántartásba. A közszolgáltatónak a nyilvántartásba vétel lejártát megelőzően legalább 15 nappal kezdeményeznie kell az ismételt nyilvántartásba vételt.
+
+## 7. A közszolgáltatás végzése
+
+### 13. §
+
+(1) A közszolgáltatás keretében a közszolgáltatónak a nem közművel összegyűjtött háztartási szennyvizet az ingatlantulajdonostól, a begyűjtés helyéről, az ingatlantulajdonos előzetes bejelentése alapján, az ideiglenes tárolásra szolgáló létesítmény kapacitásától függően kell elszállítania.
+
+(2) A felügyeletet ellátó hatóság meghatározza:
+
+a) a szennyvízelvezető mű erre kijelölt elemén keresztül elhelyezhető mennyiséget és minőséget, az ürítés módját és időpontját, valamint
+
+b) a jegyző véleményének kikérésével, valamint a rendelkezésre álló szennyvíztisztító telepek üzemeltetőinek nyilatkozattételre való felhívását követően azt, hogy az elhelyezésre az üzemeltető rendelkezésére álló szennyvíztisztító telepek közül melyik vehető igénybe.
+
+(3) A nem közművel összegyűjtött háztartási szennyvíz minőségét az átvevő az átadási helyen ellenőrizheti.
+
+(4) A nem közművel összegyűjtött háztartási szennyvíz ürítő helyeket (kivéve a közvetlen szennyvízcsatorna aknába ürítést) úgy kell kialakítani, hogy biztonsági tárolókapacitással rendelkezzenek, lehetőséget biztosítva egyúttal az ellenőrzésre is.
+
+(5) A veszélyes anyagokat nem tartalmazó, 2000. január 1. előtt létesített tavas szennyvízleürítő hely esetében a felszín alatti vizek védelméről szóló kormányrendeletben, továbbá a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott rendelkezéseket kell alkalmazni.
+
+## 8. A közszolgáltatási díj megállapításának részletes szakmai szabályai
+
+### 14. §
+
+(1) A közszolgáltatási díj megállapítása során költségnek és ráfordításnak minősül különösen
+
+a) a nem közművel összegyűjtött háztartási szennyvíz begyűjtéséhez szükséges járműveknek, gépeknek, berendezéseknek és eszközöknek a közszolgáltatással kapcsolatos üzemeltetési költsége és ráfordítása, ideértve a fenntartással, karbantartással, visszapótlással és fejlesztéssel kapcsolatosan felmerülő költségeket és ráfordításokat is;
+
+b) a számlázás és díjbeszedés költsége;
+
+c) a környezetvédelmi kiadás és ráfordítás, a jogszabályon alapuló környezetvédelmi kötelezettségek teljesítése érdekében végzett beruházások, illetve mérések és vizsgálatok költsége; továbbá
+
+d) a közszolgáltatás biztosításához szükséges eszközök elhasználódásából eredő, azok felújítását, pótlását, korszerűsítését, rekonstrukcióját szolgáló kiadás és ráfordítás.
+
+(2) Az (1) bekezdésben foglaltakkal kapcsolatos adatokat a közszolgáltató évente a települési önkormányzat rendelkezésére bocsátja.
+
+### 15. §
+
+(1) Ha a közszolgáltató a közszolgáltatás mellett más gazdasági tevékenységet is folytat, a költségtervben a Vgtv. 44/H. § (2) bekezdése szerint a költségek szigorú elkülönítésének módszerét is alkalmaznia kell.
+
+(2) A közszolgáltatási díj számítására szolgáló kalkulációs séma vagy díjképlet alkalmazása esetén a kalkulációs sémát, illetve a díjképletet, továbbá a díjszámítás módszertanát és a díjképlet elemeit részletesen meg kell határozni és a közszolgáltatási szerződés hatálybalépését követő 30 napon belül a helyben szokásos módon közzé kell tenni.
+
+### 16. §
+
+(1) Az ingatlanon keletkező nem közművel összegyűjtött háztartási szennyvíz mennyiségének kiszámításánál a szennyvízmennyiség meghatározásához, illetve az egységnyi díjtétel megállapításához
+
+a) az ingatlanról elszállított szennyvízmennyiséget,
+
+b) hiteles vízmérővel rendelkező ingatlanon a vízmérő alapján mért vízfogyasztást, vagy
+
+c) hiteles vízmérővel nem rendelkező egyedi kutas vízellátás esetén a településnek, illetve településrésznek a fajlagos fogyasztási adatok és a létszám figyelembevételével számított vízmennyiségét
+
+kell alapul venni.
+
+(2) A Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programról szóló kormányrendelet hatálya alá tartozó azon településeken, ahol a közműves szennyvíz-elvezetés és a szennyvizek biológiai szennyvíztisztítása, illetve a települési szennyvizek ártalommentes elhelyezése az ott meghatározott határidőre nem valósult meg, ott a határidőtől kezdve az egységnyi díjtétel megállapításához a nem közművel összegyűjtött háztartási szennyvíz egységnyi térfogatának kezelési díját kell alapul venni, ha a közműves szennyvíz elvezetéséhez és tisztításához szükséges beruházás
+
+a)[^2] vízjogi létesítési engedélye véglegessé vált vagy
+
+b) támogatásáról a Környezet és Energia Operatív Program Irányító Hatósága által jóváhagyott döntés megszületett.
+
+(3) Az (1) és (2) bekezdésben meghatározott esetekben, ha az ingatlanon keletkező nem közművel összegyűjtött háztartási szennyvíz mennyisége nem haladja meg az 500 m<sup>3</sup>/év mennyiséget, akkor a települési önkormányzat a rendeletében átalánydíjat is megállapíthat.
+
+(4) Az (1) bekezdés szerinti esetben a nem közművel összegyűjtött háztartási szennyvíz mennyiségének meghatározásánál nem vehető figyelembe:
+
+a) az a szennyvízmennyiség, amely a vízügyi hatóság engedélye alapján önálló szennyvízelhelyező műben vagy befogadóban nyert elhelyezést; továbbá
+
+b) az a szennyvízmennyiség, amelynek a közműves szennyvízelvezetést szolgáló vízilétesítménybe vezetését a vízügyi hatóság nem engedélyezte vagy megtiltotta, és elhelyezését az ingatlantulajdonos számlával igazolta;
+
+c) az a vízmennyiség, amely az ivóvízvezeték meghibásodása következtében a környezetben elszivárgott;
+
+d) a locsolási célú felhasználásra figyelembe vett ivóvízmennyiség, amely nem lehet több, mint az állami tulajdonú víziközmű igénybevételével összefüggő locsolási kedvezményről szóló miniszteri rendeletben, illetve a települési önkormányzat rendeletében meghatározott locsolási időszakhoz tartozó vízhasználat 10%-a;
+
+e) a házi ivóvízvezeték-hálózatra a víziközmű-szolgáltató és a fogyasztó ingatlantulajdonos írásbeli megállapodása, illetve a víziközmű-szolgáltató hozzájárulása szerint telepített mellékvízmérőn mért elkülönített locsolási célra fordított vízhasználat, ha a *d)* pont szerinti kedvezmény igénybevételére nem kerül sor.
+
+(5) A vízjogi üzemeltetési engedéllyel rendelkező, a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egyedi szennyvíztisztító berendezés üzemeltetője mentesül a díjfizetési kötelezettség alól.
+
+### 17. §
+
+(1) A közszolgáltatási díjat a közszolgáltatási díj fizetésére kötelezett – számla ellenében – a szolgáltatás igénybevételét követően a települési önkormányzat rendeletében meghatározott módon köteles megfizetni. A számlát a közszolgáltató állítja ki.
+
+(2) Ha a közműves ivóvíz-ellátási szolgáltatást, valamint a közszolgáltatást ugyanaz a szolgáltató nyújtja, akkor egy számlán érvényesíthető a közszolgáltatás díja.
+
+## 9. A közszolgáltatási bírság megállapítása
+
+### 18. §
+
+(1) A felügyeletet ellátó hatóság a bírságot – figyelemmel a (2) bekezdésben meghatározottakra – 10 000 forint és 150 000 forint között állapítja meg.
+
+(2) A bírság megállapítása során figyelembe kell venni:
+
+a) a jogsértő magatartás veszélyességét vagy környezetkárosító hatását,
+
+b) a bekövetkezett környezeti kár mértékét és a helyreállíthatóság lehetőségét, továbbá
+
+c) környezeti kár hiányában a jogsértéssel esetlegesen szerzett előnyt.
+
+(3) Ha a bírság megfizetésére kötelezett a kiszabott bírság megfizetésére előírt határidő lejárta előtt az eredeti állapotot helyreállítja, illetve a szabálytalanságot megszünteti, a felügyeletet ellátó hatóság a bírságot kérelemre csökkenti. Egyéb esetekben a kiszabott bírság nem mérsékelhető.
+
+## 10. Az adatszolgáltatás teljesítése
+
+### 19. §
+
+(1) Ha a jogszabály eltérően nem rendelkezik, a rendszeres adatszolgáltatásra kötelezett közszolgáltató évente, a tárgyévet követő év március 1. napjáig az elszállított és tisztítás céljára átadott nem közművel összegyűjtött háztartási szennyvíz mennyiségéről
+
+a) a felügyeletet ellátó hatóságnak és
+
+b) ingatlanonkénti bontásban a települési önkormányzatnak
+
+adatot szolgáltat.
+
+(2) A felügyeletet ellátó hatóság az (1) bekezdés szerint szolgáltatott adatokat minden év augusztus 1. napjáig dolgozza fel.
+
+(3)[^3] Az adatok a Központi Statisztikai Hivatal részére statisztikai célra átadhatóak.
+
+(4) Ha a közszolgáltató az (1) bekezdés szerinti adatszolgáltatási kötelezettségét nem, vagy hiányosan vagy késedelmesen teljesíti, akkor a felügyeletet ellátó hatóság – az adatszolgáltatási kötelezettség nem jogszabályszerű teljesítésének ismétlődésére is figyelemmel – a bírság összegét 10 000 forint és 150 000 forint között állapítja meg.
+
+## 11. Záró rendelkezések
+
+### 20. §
+
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+
+### 21. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 22–23. §[^4]
+
+## 1. melléklet a 455/2013. (XI. 29.) Korm. rendelethez
+
+**A közszolgáltatás bejelentése**
+
+<table><tbody><tr><td colspan="3">E nyomtatvány kitöltését a nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó közszolgáltatási tevékenység részletes szabályairól szóló 455/2013. (XI. 29.) Korm. rendelet írja elő</td></tr><tr><td>Bejelentés<br>□<br>Nyilvántartásba-vétel<br>hosszabbítás:<br>□<br>Módosítás<br>□<br>Törlés<br>□</td><td>A KÖZSZOLGÁLTATÁS BEJELENTÉSE</td><td>Mellékletek:<br>□□ db</td></tr></tbody></table>
+
+**Gazdálkodó szervezet:**
+
+<table><tbody><tr><td>Neve:</td><td></td></tr><tr><td>KÜJ-azonosító:<br>□ □ □ □ □ □ □ □ □</td><td>KSH-statisztikai számjel:<br>□□□□□□□□-□□□□-□□□</td></tr><tr><td colspan="2">Székhely:<br>□□□□<br>Irányítószám város, község<br>utca, út, tér házszám<br>(vagy helyrajzi szám)</td></tr><tr><td colspan="2">Adószám: □□□□□□□□.□.□□</td></tr></tbody></table>
+
+**Telephely:**
+
+<table><tbody><tr><td>KTJ-azonosító:</td><td></td></tr><tr><td colspan="2">Cím:<br>□□□□<br>Irányítószám város, község<br>utca, út, tér házszám<br>(vagy helyrajzi szám)</td></tr><tr><td colspan="2">Adatszolgáltatás formája: (N/S/I)<br>(nyomtatvány/számítógépes adathordozó/Internet):</td></tr><tr><td colspan="2">A közszolgáltatásra vonatkozó információk:</td></tr><tr><td colspan="2">1. A nem közművel összegyűjtött háztartási szennyvíz mennyisége (m<sup>3</sup>/év):<br>2. A tervezett közszolgáltatással érintett települési önkormányzatok megnevezése:</td></tr><tr><td colspan="2">3. Ártalmatlanítás céljából történő átadás, illetve szennyvíztisztító telep, szennyvíz-bebocsátási pont helye és a szennyvíz mennyisége évente, ürítési pontonként (m<sup>3</sup>/év):<br>Leürítési hely (település és helyrajzi szám, hatósági engedély száma) m<sup>3</sup>/év<br>................................................... ................<br>................................................... ................<br>................................................... ................</td></tr><tr><td colspan="2">4. A szállítójármű(-vek) kapacitása:<br>............................................................................................................................................ m<sup>3</sup></td></tr></tbody></table>
+
+| Szervezet képviseletére jogosult: |  |  |
+|---|---|---|
+| Név: | Cím: | Beosztás: |
+| Telefonszám: | Faxszám: | E-mail: |
+
+<table><tbody><tr><td>A bejelentésért felelős:</td><td></td><td></td></tr><tr><td>Név:</td><td>Cím:</td><td>Beosztás:</td></tr><tr><td>Telefonszám:</td><td>Faxszám:</td><td>E-mail:</td></tr><tr><td colspan="3">A kitöltés dátuma: □□□□. □□. □□.</td></tr></tbody></table>
+
+P. H.
+
+.....................................\
+cégszerű aláírás
+
+---
+
+[^1]: Az 1/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 472. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: A 16. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 473. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 19. § (3) bekezdése a 147/2015. (VI. 12.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^4]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

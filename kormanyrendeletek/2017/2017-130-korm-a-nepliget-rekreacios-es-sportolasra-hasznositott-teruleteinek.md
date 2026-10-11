@@ -1,0 +1,140 @@
+---
+title: "130/2017. (VI. 8.) Korm. rendelet a Népliget rekreációs és sportolásra hasznosított területeinek rekonstrukciójával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "130/2017. (VI. 8.) Korm. rendelet"
+njt_id: "2017-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-06-08
+in_force_from: 2017-06-09
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/2017. (VI. 8.) Korm. rendelet a Népliget rekreációs és sportolásra hasznosított területeinek rekonstrukciójával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d), e) és f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) és c) pontjában,
+
+az 5. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés b), h) és k) pontjában,
+
+a 6. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2 alpontjában és 17. pontjában,
+
+a 6. § b) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest X. kerület belterületén elhelyezkedő, az ingatlan-nyilvántartás szerint a 38440/23, 38440/25, 38440/27, 38440/38, 38440/39, 38440/40, 38440/46, 38440/47, 38440/48, 38440/49, 38440/51, 38440/52, 38440/53, 38440/54, 38440/57, 38440/58, 38440/59, 38440/60, 38440/63, 38440/64, 38440/65, 38442/3, 38442/7, 38442/9 38442/10, 38442/11, 38442/12, 38442/13, 38442/14 és 38442/15 helyrajzi számokon nyilvántartott földrészleteken megvalósuló, a Népliget rekreációs és sportolásra hasznosított területeinek rekonstrukciójára irányuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákra vonatkoznak.
+
+## 2. §[^1]
+
+(1)[^2] A Kormány az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+(2)[^3]
+
+(3) A Kormány az 1. melléklet 13. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a közlekedésért felelős minisztert jelöli ki.
+
+## 3. §[^4]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 5. §
+
+A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére és a szükséges megelőző feltárás, próbafeltárás, mentő feltárás és régészeti feltárás elvégzésére a Budapesti Történeti Múzeum jogosult.
+
+## 6. §
+
+A Beruházással összefüggésben
+
+a) a központi építészeti-műszaki tervtanács véleményét be kell szerezni,
+
+b) településképi bejelentési eljárásnak nincs helye.
+
+## 7. §
+
+(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, valamint a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével – nyolc nap.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 10. §[^6]
+
+E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 130/2017. (VI. 8.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. mérésügyi és a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. környezetvédelmi hatósági eljárások,
+
+11\. természetvédelmi hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. vasúti és szalagpálya hatósági eljárások,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. telekalakításra irányuló hatósági eljárások,
+
+16\. földmérési hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. bányahatósági engedélyezési eljárások,
+
+19\. élelmiszerlánc-felügyeleti eljárás,
+
+20\. közegészségügyi hatósági eljárások,
+
+21\. régészeti feltárásokkal kapcsolatos eljárások,
+
+22\. területrendezési hatósági eljárások,
+
+23\. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24\. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § a 458/2017. (XII. 28.) Korm. rendelet 367. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 90. §-a hatályon kívül helyezte, újonnan a 196/2020. (V. 12.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^3]: A 2. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 245. §-a hatályon kívül helyezte.
+[^4]: A 3. § az 546/2022. (XII. 22.) Korm. rendelet 169. § a)-b) pontja szerint módosított szöveg.
+[^6]: A 10. §-t a 196/2020. (V. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^7]: A hatálybalépés időpontja 2020. május 13.

@@ -1,0 +1,130 @@
+---
+title: "46/2010. (II. 26.) Korm. rendelet az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat 2009. október 28-án, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 18/09. számú határozatával megállapított módosításának kihirdetéséről"
+identifier: "46/2010. (II. 26.) Korm. rendelet"
+njt_id: "2010-46-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/46"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-02-26
+in_force_from: 2011-01-01
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-46-20-22"
+retrieved: 2026-10-12
+---
+
+# 46/2010. (II. 26.) Korm. rendelet az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat 2009. október 28-án, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 18/09. számú határozatával megállapított módosításának kihirdetéséről
+
+A Kormány az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegének kihirdetéséről szóló 2007. évi CXXX. törvény 3. § (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában foglalt feladatkörében a következőket rendeli el:
+
+## 1. §
+
+A Kormány az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzatnak – az Európai Szabadalmi Szervezet Igazgatótanácsának 2009. október 28-án kelt, CA/D 18/09. számú határozatával megállapított – módosítását (a továbbiakban: a Végrehajtási Szabályzat módosítása) e rendelettel kihirdeti.
+
+## 2. §
+
+A Végrehajtási Szabályzat módosításának angol nyelven hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„DECISION OF THE ADMINISTRATIVE COUNCIL\
+of 28 October 2009 amending the Implementing Regulations to the European Patent Convention
+
+THE ADMINISTRATIVE COUNCIL OF THE EUROPEAN PATENT ORGANISATION,
+
+Having regard to the European Patent Convention (EPC), and in particular Article 33(1)(c) thereof,
+
+On a proposal from the President of the European Patent Office,
+
+Having regard to the opinion of the Committee on Patent Law,
+
+HAS DECIDED AS FOLLOWS:
+
+**Article 1**
+
+The Implementing Regulations to the EPC shall be amended as follows:
+
+1\. Rule 141 shall be amended to read as follows:
+
+„Rule 141
+
+Information on prior art
+
+(1) An applicant claiming priority within the meaning of Article 87 shall file a copy of the results of any search carried out by the authority with which the previous application was filed together with the European patent application, in the case of a Euro-PCT application on entry into the national phase, or without delay after such results have been made available to him.
+
+(2) The copy referred to in paragraph 1 shall be deemed to be duly filed if it is available to the European Patent Office and to be included in the file of the European patent application under the conditions determined by the President of the European Patent Office.
+
+(3) Without prejudice to paragraphs 1 and 2, the European Patent Office may invite the applicant to provide, within a period of two months, information on prior art within the meaning of Article 124, paragraph 1.”
+
+2\. The following new Rule 70b shall be inserted in Part IV, Chapter IV:
+
+„Rule 70b
+
+Request for a copy of search results
+
+(1) Where the European Patent Office notes, at the time the Examining Division assumes responsibility, that a copy referred to in Rule 141, paragraph 1, has not been filed by the applicant and is not deemed to be duly filed under Rule 141, paragraph 2, it shall invite the applicant to file within a period of two months, the copy or statement that the results of the search referred to in Rule 141, paragraph 1, are not available to him.
+
+(2) If the applicant fails to reply in due time to the invitation under paragraph 1, the European patent application shall be deemed to be withdrawn.”
+
+**Article 2**
+
+(1) The provisions mentioned in Article 1 of this decision shall enter into force on 1 January 2011.
+
+(2) Rule 141 as amended by Article 1, paragraph 1, of this decision and new Rule 70b as inserted by this decision shall apply to European patent applications and international applications filed on or after that date.”
+
+„AZ IGAZGATÓTANÁCS HATÁROZATA\
+(2009. október 28.) az Európai Szabadalmi Egyezmény Végrehajtási Szabályzatának módosításáról
+
+AZ EURÓPAI SZABADALMI SZERVEZET IGAZGATÓTANÁCSA,
+
+tekintettel az Európai Szabadalmi Egyezményre (ESZE) és különösen annak 33. cikke (1) bekezdésének *c)* pontjára,
+
+az Európai Szabadalmi Hivatal elnökének javaslatára,
+
+tekintettel a Szabadalmi Jogi Bizottság állásfoglalására,
+
+A KÖVETKEZŐKÉPPEN HATÁROZOTT:
+
+**1. cikk**
+
+Az Európai Szabadalmi Egyezmény Végrehajtási Szabályzata a következőképpen módosul:
+
+1\. A 141. szabály a következőképpen módosul:
+
+„141. szabály
+
+A technika állásával kapcsolatos tájékoztatás
+
+(1) A 87. cikk szerinti elsőbbséget igénylő bejelentőnek az európai szabadalmi bejelentéssel együtt, euro-PCT bejelentés esetén az európai szakaszba lépéskor, vagy amint azok a rendelkezésére állnak, haladéktalanul be kell nyújtania valamennyi olyan kutatás eredményének másolatát, amelyet az a hatóság végzett el, amelynél a korábbi bejelentést megtették.
+
+(2) Az (1) bekezdés szerinti másolatot szabályszerűen benyújtottnak kell tekintetni, ha az az Európai Szabadalmi Hivatal számára hozzáférhető és azt az Európai Szabadalmi Hivatal elnöke által meghatározott feltételek szerint az európai szabadalmi bejelentés iratai közé fel kell venni.
+
+(3) Az Európai Szabadalmi Hivatal – az (1) és (2) bekezdésben foglaltak sérelme nélkül – felhívhatja a bejelentőt, hogy két hónapon belül a 124. cikk (1) bekezdésében meghatározottak szerint adjon tájékoztatást a technika állásáról.”
+
+2\. A IV. Rész IV. Fejezete a következő új 70b. szabállyal egészül ki:
+
+„70b. szabály
+
+Kutatási eredmények benyújtására vonatkozó felhívás
+
+(1) Ha az Európai Szabadalmi Hivatal – abban az időpontban, amikor a bejelentéssel összefüggésben a vizsgálati osztály válik felelőssé – megállapítja, hogy a 141. szabály (1) bekezdése szerinti másolatot a bejelentő nem nyújtotta be, és az a 141. szabály (2) bekezdése értelmében sem tekinthető szabályszerűen benyújtottnak, az Európai Szabadalmi Hivatal felhívja a bejelentőt, hogy a másolatot vagy azon nyilatkozatot, miszerint a 141. szabály (1) bekezdése szerinti kutatási eredmények nem állnak rendelkezésére, két hónapon belül nyújtsa be..
+
+(2) Ha a bejelentő az (1) bekezdésben megállapított felhívásra kellő időben nem válaszol, az európai szabadalmi bejelentést visszavontnak kell tekinteni.”
+
+**2. cikk**
+
+(1) Az e határozat 1. cikkében meghatározott rendelkezések 2011. január 1-jén lépnek hatályba.
+
+(2) A 141. szabály e határozat 1. cikk (1) bekezdésével módosított rendelkezéseit és az e határozat által beillesztett új 70b. szabály rendelkezéseit azokra az európai és nemzetközi szabadalmi bejelentésekre kell alkalmazni, amelyeket ezen a napon vagy ezt követően nyújtottak be.”
+
+## 3. §
+
+(1) Ez a rendelet 2011. január 1-jén lép hatályba.
+
+(2)[^1] Az e rendelet végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
+
+(3)[^2] Az igazságügyért felelős miniszter az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzatnak a Végrehajtási Szabályzat módosításaival egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzéteszi.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 460. §-a szerint módosított szöveg.

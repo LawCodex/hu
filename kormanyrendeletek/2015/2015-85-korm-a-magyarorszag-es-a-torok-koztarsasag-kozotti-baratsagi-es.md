@@ -1,0 +1,270 @@
+---
+title: "85/2015. (IV. 9.) Korm. rendelet a Magyarország és a Török Köztársaság közötti barátsági és együttműködési szerződés kihirdetéséről"
+identifier: "85/2015. (IV. 9.) Korm. rendelet"
+njt_id: "2015-85-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/85"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-04-09
+in_force_from: 2015-04-10
+last_amended: 2016-04-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-85-20-22"
+retrieved: 2026-10-12
+---
+
+# 85/2015. (IV. 9.) Korm. rendelet a Magyarország és a Török Köztársaság közötti barátsági és együttműködési szerződés kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország és a Török Köztársaság közötti barátsági és együttműködési szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Szerződést e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Szerződés hiteles magyar és angol nyelvű szövege a következő:
+
+**„MAGYARORSZÁG ÉS A TÖRÖK KÖZTÁRSASÁG KÖZÖTTI BARÁTSÁGI ÉS EGYÜTTMŰKÖDÉSI SZERZŐDÉS**
+
+Magyarország és a Török Köztársaság,
+
+figyelembe véve a két ország közötti, mélyen gyökerező történelmi és kulturális kapcsolatokat, valamint szoros szövetségesi viszonyt,
+
+kifejezést adva azon meggyőződésüknek, hogy a két ország közötti baráti viszony és meglévő együttműködés kellő alapot képez kétoldalú kapcsolataik magyar és a török nép számára kölcsönösen előnyös további fejlesztésére,
+
+megerősítve elkötelezettségüket a jelen Szerződés által megtestesített együttműködési területek tekintetében korábban aláírt és hatályba lépett kétoldalú dokumentumok mellett, különös tekintettel az 1923. december 18-án aláírt barátsági Szerződésre,
+
+tudatában az európai és a nemzetközi béke megőrzésében viselt felelősségüknek,
+
+határozottan elkötelezvén magukat az igazságos, békés és demokratikus nemzetközi rend felépítése mellett,
+
+megállapodtak a következőkben:
+
+**1. cikk**
+
+Magyarország és a Török Köztársaság (a továbbiakban: „Felek”) a két állam közötti hagyományos barátság által vezettetve, újólag megerősítik elhatározásukat, hogy tovább mélyítik és erősítik kapcsolataikat a bizalom, az együttműködés és a kölcsönös előnyök alapján, valamint összhangban a szuverenitás, a területi sérthetetlenség és a belügyekbe történő be nem avatkozás elveivel.
+
+**2. cikk**
+
+A Felek olyan Európa kialakítására törekszenek, ahol tiszteletben tartják és védelmezik a demokrácia, az alkotmányosság, az emberi jogok és alapvető szabadságok alapelveit, összhangban azon kétoldalú és nemzetközi megállapodásokkal, valamint regionális jogi instrumentumokkal, melyeknek a Felek részesei és, különösen az Európai Emberi Jogi Egyezmény előírásaival.
+
+**3. cikk**
+
+Felek közös céljuknak tekintik a transzatlanti térséget érő kihívások kezelését a stabilitás megerősítésén és a biztonság fokozásán keresztül.
+
+**4. cikk**
+
+(1) A Felek rendszeres párbeszédet folytatnak minden közös érdeklődésre számot tartó ügyben, továbbá konzultációkat folytatnak kétoldalú kapcsolataik erősítése céljából, valamint álláspontjuk egyeztetésére nemzetközi és regionális ügyekben.
+
+(2) A Felek egyetértettek abban, hogy folytatják rendszeres politikai konzultációikat.
+
+(3) A Felek parlamenti képviselői és a parlamentek munkatársai rendszeres konzultációkat tartanak a parlamentközi együttműködés bővítése érdekében.
+
+(4) A külügyminiszterek figyelemmel kísérik a jelen Szerződés végrehajtásának helyzetét.
+
+**5. cikk**
+
+A Felek aktívan együttműködnek és, amennyiben szükséges, egyeztetik álláspontjaikat a nemzetközi szervezetekben folytatott tevékenységük során, különösen az Egyesült Nemzetek Szervezete és az Észak-atlanti Szerződés Szervezete keretében, beleértve a nemzetközi és regionális szervezetekbe, bizottságokba és posztokra történő jelölések kölcsönös támogatását.
+
+**6. cikk**
+
+A Felek egyeztetést folytatnak az európai integrációs folyamatok kiemelkedő fontosságú területeiről. A Felek intenzív együttműködést alakítanak ki a Török Köztársaság és az Európai Unió kapcsolatainak még szorosabbá tétele érdekében.
+
+**7. cikk**
+
+(1) A Felek támogatják a kölcsönös előnyökön alapuló gazdasági kapcsolataik továbbfejlesztését. A Felek – összhangban nemzeti jogszabályaikkal, valamint kétoldalú és nemzetközi kötelezettségeikkel, a jelen Szerződés céljai érdekében – elősegítik az üzleti és a gazdasági tevékenység folytatását magánszektoraik között.
+
+(2) A Felek, nemzetközi kötelezettségeiknek megfelelően, erőfeszítéseket tesznek a modern technológia és tudomány lehetőségeinek kiaknázásában történő együttműködésük fejlesztéséhez szükséges feltételek megteremtésére.
+
+**8. cikk**
+
+A Felek az együttműködés szellemében fejlesztik kapcsolataikat katonai és védelmi ügyekben. Ennek érdekében előmozdítják a cserekapcsolatokat és konzultációkat e téren.
+
+**9. cikk**
+
+A Felek együttműködnek a szervezett bűnözés, a terrorizmus, a kábítószerek és a fegyverek tiltott forgalmazása, az embercsempészet, az illegális migráció, a történelmi és kulturális örökséghez tartozó tárgyak csempészete, a tömegpusztító fegyverek elterjedése, valamint a nukleáris és vegyi anyagok csempészete elleni harcban.
+
+**10. cikk**
+
+Figyelemmel arra, hogy a fenntartható fejlődés igényli a környezet védelmét a jelen és jövendő nemzedékek egészsége és jóléte érdekében, és a természeti erőforrások ésszerű kihasználását, a Felek szorosan együttműködnek a környezet- és természetvédelem területén a kölcsönösség és a kölcsönös előnyök alapján a helyi, a regionális és a globális környezeti problémák megfelelő kezelése céljából.
+
+**11. cikk**
+
+A Felek törekednek az együttműködésre az energetika területén. A Felek törekednek a kölcsönös érdekeket szolgáló fejlesztések előmozdítására, többek között a villamos energia- és a földgázprojektek területén. A Felek ugyancsak törekednek megosztani az atomenergetika területén a jogi és más szabályozással kapcsolatos tapasztalataikat, ismereteiket.
+
+**12. cikk**
+
+(1) A Felek nagy jelentőséget tulajdonítva a kulturális örökség megmentésének és megóvásának, erősítik együttműködésüket a kultúra területén és e célból kölcsönösen támogatást nyújtanak a kapcsolódó állami és magánkezdeményezéseknek.
+
+(2) A Felek bátorítják a felső- és más oktatási intézményeik és kutatási központjaik közötti együttműködést, továbbá a közös tudományos tervek kidolgozását, összhangban a megfelelő európai programokkal.
+
+(3) A Felek megerősítik arra irányuló kívánságukat, hogy megkönnyítsék mindkét ország lakossága számára a másik ország nyelvének és kultúrájának megismerését és ebben a tekintetben támogatják a vonatkozó állami és magánkezdeményezéseket.
+
+(4) A Felek egyetértenek abban, hogy kívánatos a média kapcsolatok területén az együttműködés fejlesztése a magyar és a török nép közötti jobb megértés érdekében, és támogatják a művészeti előadások és alkotások cseréjét, kölcsönös megjelenítését célzó kezdeményezéseket.
+
+**13. cikk**
+
+A Felek kölcsönös megállapodás esetén együttműködnek az egészségügy és az orvostudomány terén, az egészségügyi rendszer erősítése, az egészségügyi szektorba történő befektetések kölcsönös ösztönzése, a gyógyturizmus fejlesztése, a kórház irányítási rendszer fejlesztése, az informatika és az egészségügyi statisztika, a veszélyhelyzetekben és katasztrófa esetén nyújtandó egészségügyi szolgáltatások szervezése, az egészségügyi kutatás és fejlesztés, valamint az orvosi eszközöket és gyógyszerkészítményeket érintő együttműködések révén.
+
+**14. cikk**
+
+(1) A Felek minden erőfeszítést megtesznek a kétoldalú turisztikai tevékenység fejlesztésére és a két ország közötti utazások és turizmus támogatására.
+
+(2) A Felek bátorítják az állampolgáraik, civil szervezetek, társadalmi testületeik és helyi igazgatási szerveik közötti kapcsolatokat, beleértve a „testvér-városok” közötti kapcsolatok létesítését.
+
+(3) A Felek ugyancsak bátorítják a két ország sport- és ifjúsági szervezetei közötti cserekapcsolatokat.
+
+**15. cikk**
+
+(1) Jelen Szerződés nem érinti a Felek harmadik államokkal, vagy nemzetközi szervezetekkel korábban kötött, két- vagy többoldalú szerződéseiből eredő jogait és kötelezettségeit.
+
+(2) Jelen Szerződés nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából fakadnak. Következésképpen jelen Szerződés rendelkezései nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik vagy bármilyen más módon befolyásolják Magyarországnak az Európai Unió alapját képező szerződésekből származó kötelezettségeit.
+
+**16. cikk**
+
+(1) A jelen Szerződés az utolsó értesítést követő harmincadik (30) napon lép hatályba, amikor a Felek diplomáciai úton tájékoztatják egymást a hatálybalépéshez szükséges belső jogi követelmények teljesítéséről.
+
+(2) Jelen Szerződést tíz évre kötötték és további öt éves időszakokra meghosszabbodik, kivéve, ha a Felek egyike azt írásban a lejárat előtt egy évvel felmondja.
+
+(3) Jelen Szerződés hatálybalépésének napján a Magyar Köztársaság és a Török Köztársaság között 1994. szeptember 7-én, Budapesten aláírt Barátsági és Együttműködési Megállapodás hatályát veszti.
+
+(4) Jelen Szerződést a Felek kölcsönös írásos hozzájárulás esetén bármikor kiegészíthetik. A kiegészítések hatályba lépése a 16. cikk első bekezdésében foglalttal megegyező eljárás szerint történik.
+
+Készült Ankarában, 2015. március hó 12. napján, két eredeti példányban, magyar, török és angol nyelven, minden szöveg egyaránt hiteles. A szövegekben lévő eltérés esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország részéről
+
+A Török Köztársaság részéről
+
+**TREATY OF FRIENDSHIP AND COOPERATION BETWEEN HUNGARY AND THE REPUBLIC OF TURKEY**
+
+Hungary and the Republic of Turkey,
+
+Considering the deeply rooted historical and cultural ties, and the close alliance relationship between the two countries,
+
+Expressing their conviction that the friendly relations and cooperation existing between the two countries constitute the necessary base for further development of their bilateral relations towards the mutual benefit of the Hungarian and Turkish nations,
+
+Confirming their commitments to all bilateral documents previously signed and in force that embody the areas of cooperation in this Treaty, particularly to the Treaty of Friendship signed on 18 December 1923,
+
+Convinced of their responsibilities in preserving the European and international peace,
+
+Firmly committed to building an international order based on justice, peace and democracy,
+
+Have agreed as follows:
+
+**Article 1**
+
+Hungary and the Republic of Turkey (hereinafter referred to as „the Parties”), guided by the traditional ties of friendship between the two States, reaffirm their determination to further deepen and strengthen their relations on the basis of confidence, cooperation and mutual benefits and in conformity with the principles of sovereignty, territorial integrity and non-interference in internal affairs.
+
+**Article 2**
+
+The Parties shall endeavour to create a Europe where the basic principles of democracy, constitutionalism, human rights and fundamental freedoms are protected and respected in accordance with the bilateral and international agreements as well as regional instruments to which they are party and, in particular, with the provisions of the European Convention on Human Rights.
+
+**Article 3**
+
+The Parties' common aim is to address the challenges concerning the Trans-Atlantic region by strengthening stability and enhancing security.
+
+**Article 4**
+
+(1) The Parties shall conduct regular dialogue on all matters of mutual interest as well as consultations with a view to strengthening their bilateral relations and coordinating their positions on international and regional issues.
+
+(2) The Parties have agreed to continue their political consultations regularly.
+
+(3) Parliamentarians and the staff of the Parliaments of the Parties shall hold regular consultations with a view to develop inter-parliamentary cooperation.
+
+(4) The Ministers of Foreign Affairs shall supervise the implementation of this Treaty.
+
+**Article 5**
+
+The Parties shall actively cooperate and, as appropriate, coordinate their policies in the course of their activities in international organizations, particularly within the framework of the United Nations Organisation and the North Atlantic Treaty Organization, including reciprocal support for candidacies in international and regional organizations, committees, and posts.
+
+**Article 6**
+
+The Parties shall consult about the areas of particular importance of the European integration process. The Parties will enter into intensive cooperation in order to make the relations of the Republic of Turkey and the European Union even closer.
+
+**Article 7**
+
+(1) The Parties shall support the further development of their economic relations based on mutual benefits. The Parties shall seek – in accordance with their national legislation and their international obligations as well as in pursuance of the objectives of this Treaty – encourage business and economic activities between their private sectors.
+
+(2) The Parties shall, in accordance with their international obligations, make efforts to create the necessary conditions for developing cooperation for exploring the possibilities of modern technology and science.
+
+**Article 8**
+
+The Parties shall develop their relations in the field of military and defence issues in the spirit of cooperation. To that end, they shall encourage exchanges and consultations in this field.
+
+**Article 9**
+
+The Parties shall cooperate in the fight against organized crime, terrorism, illicit drug and arms trafficking, trafficking of human beings, illegal migration and trafficking of items belonging to the historical and cultural heritage, proliferation of weapons of mass destruction and trafficking of nuclear or radioactive materials.
+
+**Article 10**
+
+Considering that sustainable development requires the protection of the environment for the health and well-being of present and future generations as well as rational management of natural resources, the Parties shall closely cooperate in the field of environment and nature protection on the basis of reciprocity and mutual benefit in order to address local, regional and global environmental challenges.
+
+**Article 11**
+
+The Parties shall spend efforts to enhance cooperation in the field of energy. The Parties shall encourage development of projects to the mutual interest of both sides inter alia in the fields of electricity and natural gas. The Parties shall also aim to exchange experience and knowledge on legislative and regulatory issues in the field of nuclear energy.
+
+**Article 12**
+
+(1) The Parties, attaching great importance to preserving and protecting the cultural heritage, shall strengthen their cooperation in the field of culture and to that end shall mutually support relevant state and private initiatives.
+
+(2) The Parties shall encourage cooperation between their higher and other educational institutions and research centres as well as elaboration of joint scientific projects in accordance with corresponding European programmes.
+
+(3) The Parties reaffirm their desire to encourage the people of both countries to get acquainted with the language and culture of the other country and, in this regard, shall support related state and private initiatives.
+
+(4) The Parties agree that it is desirable to develop cooperation in the field of media relations with a view to contributing to a better understanding between Hungarian and Turkish peoples and promote initiatives aiming at mutual presentation and exchange of artistic performances and arts.
+
+**Article 13**
+
+The Parties shall cooperate in the fields of health and medical sciences, upon mutual agreement, by means of; strengthening health system, mutual encouragement of investments in health sector, enhancing health tourism, cooperation on enhancing hospital management systems, informatics and health statistics, organization of healthcare services in case of emergency and disasters, cooperation on research and development activities in the field of health, cooperation on medical devices and pharmaceuticals.
+
+**Article 14**
+
+(1) The Parties shall make all effort to develop bilateral tourism activities and do their utmost to facilitate and support travel and tourism between their two countries.
+
+(2) The Parties shall encourage relations between their citizens, NGOs, social bodies and local administrations, including the support of the establishment of „twin-city” relations.
+
+(3) The Parties shall also encourage exchanges between the sport and youth organisations of the respective countries.
+
+**Article 15**
+
+(1) The Treaty will not affect the rights and obligations of the Parties arising from the existing bilateral and multilateral agreements concluded previously with third states or international organisations.
+
+(2) This Treaty shall in no way prejudice the obligations of Hungary as a member state of the European Union. Consequently the provisions of this Treaty shall not be invoked or interpreted in such a way as to invalidate or otherwise affect the obligations of Hungary imposed by the Treaties on which the European Union is founded.
+
+**Article 16**
+
+(1) This Treaty shall enter into force on the thirtieth (30) day following the receipt of the last notification when the Parties notify each other through diplomatic channels that the internal legal requirements for entry into force have been fulfilled.
+
+(2) This Treaty is concluded for a period of ten years and shall be tacitly extended for successive periods of five years unless one of the Parties cancels it in writing, by one year notice prior to its expiry.
+
+(3) On the date this Treaty enters into force, the Treaty of Friendship and Cooperation between the Republic of Hungary and the Republic of Turkey, signed on 7 September 1994 in Budapest, will cease to be in force.
+
+(4) This treaty may be amended by mutual written consent of the Parties at any time. The amendments shall enter into force in accordance with the same legal procedure defined under the first paragraph of this 16 Article.
+
+Done in Ankara, on 12 March 2015, in two original copies in Hungarian, Turkish, and English languages, all texts being equally authentic. In case of discrepancy the English text shall prevail.
+
+For Hungary
+
+For the Republic of Turkey”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Szerződés 16. Cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Szerződés, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Szerződés 16. Cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 15/2016. (IV. 7.) KKM közlemény alapján a hatálybalépés időpontja 2016. április 9.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Szerződés 16. Cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 15/2016. (IV. 7.) KKM közlemény alapján a hatálybalépés időpontja 2016. április 9.
+[^3]: A 15/2016. (IV. 7.) KKM közlemény alapján a hatálybalépés időpontja 2016. április 9.
+[^4]: Lásd a 15/2016. (IV. 7.) KKM közleményt.

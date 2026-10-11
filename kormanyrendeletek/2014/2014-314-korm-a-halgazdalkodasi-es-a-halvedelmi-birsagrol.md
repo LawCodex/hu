@@ -1,0 +1,334 @@
+---
+title: "314/2014. (XII. 12.) Korm. rendelet a halgazdálkodási és a halvédelmi bírságról"
+identifier: "314/2014. (XII. 12.) Korm. rendelet"
+njt_id: "2014-314-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/314"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-12-12
+in_force_from: 2014-12-15
+last_amended: 2021-03-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-314-20-22"
+retrieved: 2026-10-12
+---
+
+# 314/2014. (XII. 12.) Korm. rendelet a halgazdálkodási és a halvédelmi bírságról
+
+A Kormány\
+a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 2. pontjában,\
+a 15. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdésében\
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A halvédelmi bírság mértéke
+
+### 1. §
+
+(1) A nyilvántartott halgazdálkodási vízterületen jogosulatlanul horgászó személlyel szemben kiszabható halvédelmi bírság mértéke:
+
+a)[^1] az állami horgászjegy vagy turista állami horgászjegy hiánya esetén: 30 000–50 000 forint,
+
+b) a területi jegy hiánya esetén: 25 000–50 000 forint,
+
+c)[^2] a horgász fogási napló hiánya esetén: 10 000 forint.
+
+(2)[^3] A jogosulatlanul horgászó személlyel szemben kiszabható halvédelmi bírság mértéke:
+
+a) nem nyilvántartott halgazdálkodási vízterületen vagy
+
+b) olyan nyilvántartott halgazdálkodási vízterületen, amelyen a halgazdálkodási jogot az állam nem engedte át,
+
+az állami horgászjegy és fogási napló vagy turista állami horgászjegy és fogási napló hiánya esetén 10 000–30 000 forint.
+
+### 1/A. §[^4]
+
+Haltermelési létesítményben jogosulatlanul horgászó vagy haltermelési létesítmény partján halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő horgászkészséggel tartózkodó és jogosultságát a halgazdálkodási hatóságnál 15 napon belül nem igazoló személlyel szemben kiszabható halvédelmi bírság mértéke az állami horgászjegy vagy turista állami horgászjegy hiánya esetén: 10 000–30 000 forint.
+
+### 1/B. §[^5]
+
+Az egy időben horgászatot és rekreációs halászatot folytató személlyel szemben kiszabható halvédelmi bírság mértéke 20 000–50 000 forint.
+
+### 2. §
+
+A jogosulatlanul halászó személlyel szemben kiszabható halvédelmi bírság mértéke
+
+a) a halászati engedély vagy az állami halászjegy hiánya esetén: 50 000–300 000 forint,
+
+b)[^6] a területi jegy hiánya esetén: 50 000–300 000 forint,
+
+c)[^7] a halász fogási napló hiánya esetén: 10 000 forint.
+
+d)[^8] nem nyilvántartott halgazdálkodási vízterületen – a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 35. § (2) bekezdésében foglalt kivétellel – folytatott halászati tevékenység esetén: 50 000–500 000 forint.
+
+### 3. §
+
+A fogási naplónak a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendelet szerinti vezetését elmulasztó személlyel szemben kiszabható halvédelmi bírság mértéke
+
+a) horgászat esetén: 10 000–50 000 forint,
+
+b) rekreációs célú halászat esetén: 10 000–50 000 forint,
+
+c)[^9] ökológiai célú szelektív halászat esetén: 20 000–100 000 forint.
+
+### 4. §[^10]
+
+A Hhvtv. által tiltott vagy nem megengedett eszközzel vagy módon, vagy tilalmi időben történő horgászat vagy halászat esetén a halvédelmi bírság mértéke
+
+a) elektromos eszköz engedély hiányában történő vagy attól eltérő használata esetén: 500 000 forint,
+
+b) mérgező vagy kábító hatású anyag alkalmazása esetén: 500 000 forint,
+
+c) robbanóanyag alkalmazása esetén: 500 000 forint,
+
+d) szúrószerszám alkalmazása esetén: 100 000–500 000 forint,
+
+e) búvárszigony vagy más, halfogásra alkalmas búváreszköz használata esetén: 100 000–500 000 forint,
+
+f) gereblyézés alkalmazása esetén: 100 000–500 000 forint,
+
+g)[^11] hurokvető halászati módszer, sorhoroggal, fenékhoroggal, csapóhoroggal történő halfogási módszer alkalmazása esetén: 100 000–500 000 forint,
+
+h) nyakzó hálónak a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben meghatározott engedély nélküli alkalmazása esetén: 200 000–500 000 forint,
+
+i) a Hhvtv. 47. § (1) bekezdésében meghatározott felmentés hiányában halgazdálkodási vízterületen az adott élőhelyen előforduló halfajok fajlagos tilalmi idejével egyező naptári időszakban olyan halászeszköz alkalmazása esetén, amelynél nem biztosítható a fajlagos tilalommal érintett egyedek kíméletes visszaengedése: 50 000–200 000 forint,
+
+j) a Hhvtv. 47. § (1) bekezdésében meghatározott felmentés hiányában halgazdálkodási vízterületen olyan halfogó eszköz vagy készülék, továbbá olyan fogási mód alkalmazása esetén, amely az aktuális vízállás esetén a vízfolyás, az állóvíz, valamint ezek időszakos kapcsolódásaiban létrejövő halátjárók mederszelvényének felénél többet hossz- vagy keresztirányban elzár: 50 000–300 000 forint,
+
+k) a megengedettnél több horog vagy több horgászkészség alkalmazása esetén, darabonként: 10 000–20 000 forint,
+
+l)[^12] az állami halászjegyhez kötött halászeszközzel történő halászat esetén, a területi jegyen feltüntetett eszköztől vagy eszközöktől az eszközben, a méretben vagy a darabszámban történő eltérés, továbbá a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló miniszteri rendeletben meghatározott jelölés nélküli vagy nem a halászati tevékenység végzésére jogosult jelölésével ellátott eszköz használata esetén, valamint kihelyezett varsák esetén az eszközök között mért, minimálisan előírt távolság be nem tartása esetén: 50 000–200 000 forint,
+
+m)[^13] a halászati engedélyhez kötött halászeszközzel történő halászat esetén, a halászati engedélyben feltüntetett eszköztől vagy eszközöktől az eszközben, a méretben vagy a darabszámban történő eltérés, továbbá a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló miniszteri rendeletben meghatározott jelölés nélküli vagy nem a halászati tevékenység végzésére jogosult jelölésével ellátott eszköz használata esetén: 50 000–500 000 forint,
+
+n) a horgászkészséggel a nyilvántartott halgazdálkodási vízterületre vonatkozó halfogási tilalmi időben történő hal kifogása esetén: 20 000–100 000 forint,
+
+o) az állami halászjegyhez kötött halászeszközökkel történő halászat során, a nyilvántartott halgazdálkodási vízterületre vonatkozó halfogási tilalmi időben történő hal kifogása esetén: 20 000–100 000 forint,
+
+p) a halászati engedélyhez kötött halászeszközökkel történő halászat során, a nyilvántartott halgazdálkodási vízterületre vonatkozó halfogási tilalmi időben történő hal kifogása esetén: 50 000–200 000 forint,
+
+q)[^14] a nem nyilvántartott halgazdálkodási vízterületen őshonos hal kifogása esetén: 10 000–100 000 forint,
+
+r)[^15] a halfogásra alkalmas horgászkészség vagy aktív halászeszköz halfogási célú használata során annak folyamatos felügyelet nélkül hagyása esetén: 10 000–30 000 forint,
+
+s)[^16] a Hhvtv. 46. § (4) bekezdésében nem szereplő egyéb, a Hhvtv. 46. § (1) bekezdése szerinti tiltott fogási eszköz vagy mód alkalmazása esetén: 10 000–100 000 forint,
+
+t)[^17] a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló miniszteri rendeletben foglaltnál nagyobb testhosszúságú, jogszerűen kifogott halnak a vízpartról nem leölve történő elszállítása esetén: 10 000–500 000 forint,
+
+u)[^18] a kifogott halat korábban kifogottal történő kicserélése esetén: 10 000–30 000 forint,
+
+v)[^19] a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló miniszteri rendeletben foglalt meghatározás szerint kívülről akasztott hal megtartása esetén: 10 000–200 000 forint,
+
+x)[^20] a Hhvtv. 38. § (2) bekezdése alapján kiadott halászati engedély Hhvtv. 38. § (3) bekezdésében meghatározott rendelkezésének megsértése esetén: 100 000–500 000 forint.
+
+### 5. §[^21]
+
+A nem fogható őshonos hal jogosulatlan kifogását megvalósító személlyel szemben kiszabható halvédelmi bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel. Amennyiben a halvédelmi bírság mértéke az egyedenként számított és összesített érték alapján nem éri el a 15 000 forintot, akkor a bírság mértékét 15 000 forintban kell megállapítani. A bírság nem haladhatja meg a Hhvtv. 67. § (3) bekezdése szerinti legmagasabb összeget.
+
+### 6. §[^22]
+
+Halgazdálkodási kíméleti területen a tilalom feloldásáig
+
+a) halászati tevékenységet végző személlyel szemben kiszabható halvédelmi bírság mértéke: 100 000–500 000 forint,
+
+b) horgászati tevékenységet végző személlyel szemben kiszabható halvédelmi bírság mértéke: 30 000–100 000 forint,
+
+c) az *a)* és *b)* pontban foglaltaktól eltérő, egyéb tevékenységet – ideértve gépi meghajtású vízi jármű használatát –, vadászatot, fürdőzést végző személlyel szemben kiszabható halvédelmi bírság mértéke: 10 000–100 000 forint.
+
+### 7. §
+
+A halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó és jogosultságának igazolását a halgazdálkodási hatóságnál az előírt határidőn belül nem pótló személlyel szemben horgászkészség esetén az 1. §-ban, halászeszköz esetén a 2. §-ban foglalt halvédelmi bírságtétel megállapításának van helye.
+
+### 8. §[^23]
+
+A Hhvtv.-ben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó személlyel szemben a 4. §-ban foglalt – az alkalmazni kívánt eszköz fajtájára megállapított – halvédelmi bírság és az ahhoz rendelhető eltiltás megállapításának van helye.
+
+### 9. §[^24]
+
+A horgász regisztráció, a halászati engedély, állami horgászjegy, turista állami horgászjegy, állami halászjegy igénylése, halfogásra jogosító okmány kiváltása során valótlan adatot szolgáltató személlyel szemben kiszabható halvédelmi bírság mértéke:
+
+a) a halászattal, horgászattal vagy hal fogásával (gyűjtésével) összefüggésben szabálysértési vagy büntetőjogi felelősség tárgyában valótlan nyilatkozat tétele vagy valótlan adat szolgáltatása esetén: 100 000 forint,
+
+b) az érvényes állami horgászjeggyel – ideértve a turista állami horgászjegyet is –, állami halászjeggyel vagy halászati engedéllyel való rendelkezésre vonatkozó valótlan nyilatkozat tétele vagy valótlan adat szolgáltatása esetén: 50 000 forint,
+
+c) a fogási napló leadására vonatkozó valótlan nyilatkozat tétele vagy valótlan adat szolgáltatása esetén: 10 000 forint.
+
+### 9/A. §[^25]
+
+Halfogásra jogosító okmány kiváltására nem jogosult személy részére halfogásra jogosító okmányt értékesítő személlyel szemben kiszabható halvédelmi bírság mértéke:
+
+a) állami horgászjegy vagy területi jegy kiadása esetén: 100 000 forint,
+
+b) állami halászjegy kiadása esetén: 200 000 forint.
+
+### 10. §[^26]
+
+Az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben kiszabható halvédelmi bírság mértéke az igazolatlan eredetű hal vagy más hasznos víziállat fajától és mennyiségétől, illetve a haltermék mennyiségétől függően: 100 000–500 000 forint.
+
+### 10/A. §[^27]
+
+(1) Nem nyilvántartott halgazdálkodási vízterületre területi jegyet kiadó, ott horgászatot engedélyező vagy onnan térítés nélkül vagy térítésért őshonos halfaj egyedének elvitelét engedélyező személlyel szemben kiszabható halvédelmi bírság mértéke 10 000–500 000 forint.
+
+(2) A Hhvtv. 21. § (1a) bekezdésében meghatározott tilalmat megszegő személlyel szemben kiszabható halvédelmi bírság mértéke 10 000–500 000 forint.
+
+(3) Idegen és nem honos fajok egyedeit haltermelési létesítménybe engedély nélkül telepítő személlyel szemben a kiszabható halvédelmi bírság mértéke 50 000–500 000 forint.
+
+(4) Halászati engedély birtokában kifogott törzsállomány egyedét kereskedelmi forgalomba hozó személlyel szemben a kiszabható halvédelmi bírság mértéke 200 000–500 000 forint.
+
+### 11. §
+
+A hal élőhelyén kialakult természeti egyensúly megbontására alkalmas szervezet, táplálékanyag, szennyezőanyag halgazdálkodási vízterületre való kijuttatása esetén kiszabható halvédelmi bírság mértéke: 20 000–500 000 forint.
+
+### 12. §
+
+(1)[^28] Méret- vagy mennyiségi korlátozással vagy tilalmi idővel védett hal jogosulatlan kifogását megvalósító személyre kiszabható halvédelmi bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel. Amennyiben a halvédelmi bírság mértéke az egyedenként számított és összesített érték alapján nem éri el a 20 000 forintot, akkor a bírság mértékét 20 000 forintban kell megállapítani. A bírság összege nem haladhatja meg a Hhvtv. 67. § (3) bekezdése szerinti legmagasabb összeget.
+
+(2) Méret- vagy mennyiségi korlátozással vagy tilalmi idővel védett más hasznos víziállat jogosulatlan kifogása esetén kiszabható halvédelmi bírság mértéke 10 000–100 000 forint.
+
+### 13. §
+
+A vízilétesítmény üzemeltetőjére kiszabható halvédelmi bírság mértéke, ha a vízilétesítmény üzemeltetője a Hhvtv. 19. § (1) vagy (3) bekezdésében foglaltaknak ismétlődő jelleggel nem tesz eleget és emiatt jelentős halpusztulás következik be: 50 000–500 000 forint.
+
+### 13/A. §[^29]
+
+A Hhvtv. 34. § (1) bekezdése szerinti bejelentési kötelezettségét nem teljesítő személyre kiszabható halvédelmi bírság mértéke 50 000–500 000 forint.
+
+## 2. A halgazdálkodási bírság mértéke
+
+### 14. §
+
+(1) A halgazdálkodásra jogosulttal szemben kiszabható halgazdálkodási bírság mértéke, ha a halgazdálkodásra jogosult
+
+a)[^30] a halgazdálkodási terv benyújtására vonatkozó kötelezettségének vagy a halgazdálkodási terv teljesítésére vonatkozó kötelezettségének a halgazdálkodási hatóság figyelmeztetése ellenére nem tesz eleget: 250 000– 5 000 000 forint,
+
+b) a halgazdálkodási tervtől a halgazdálkodási hatóság engedélye nélkül eltér, a cselekmény súlyától függően: 50 000–2 500 000 forint,
+
+c) a halgazdálkodási hatóság hozzájárulása nélkül olyan fajú vagy korosztályú halat telepít, amelyet jogszabály tilt, vagy a halgazdálkodási terv nem tartalmaz, ha egyidejűleg a Hhvtv. 52. § (3) bekezdésében foglalt valamely intézkedésre is sor került: 500 000–5 000 000 forint,
+
+d) a nyilvántartási és az adatszolgáltatási kötelezettségének nem tesz eleget: 50 000–500 000 forint,
+
+e) állami horgászjeggyel, turista állami horgászjeggyel, állami halászjeggyel nem rendelkező személy számára területi jegyet ad ki, a kiadott területi jegyenként: 50 000 forint,
+
+f)[^31] megszegi a halőrök alkalmazásával és bejelentésével kapcsolatos előírásokat: 50 000–500 000 forint,
+
+g) a Hhvtv. 8. § (2) bekezdését megszegve, a veszélyeztetett őshonos halállományoknak a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben meghatározott mérlegelési szempontok szerinti indokolt mentését önhibájából elmulasztja, a mentéssel érintett becsült halállománynak – a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított – az őshonos halfajok halgazdálkodási értéke alapján számított összege, de legalább 50 000 forint,
+
+h) határidőben nem kérelmezi a halgazdálkodási kíméleti terület kijelölését: 50 000–500 000 forint,
+
+i)[^32] a Hhvtv. 10. § (1) vagy (3) bekezdésében foglalt kötelezés végrehajtását elmulasztja, illetve a Hhvtv. 10. § (3) bekezdése szerint előírt kötelezettségének teljesítését a határozat kézhezvételétől számított 60 napon belül nem kezdi meg: 50 000–500 000 forint,
+
+j) a Hhvtv. 11. § (1) bekezdés *b)* pontja alapján, a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendelet szerinti tömeges hal- vagy más hasznos víziállat pusztulás esetére vonatkozó kötelezettségét megszegi: 100 000–2 500 000 forint,
+
+k) a Hhvtv. 13. § (1) bekezdésében foglaltakat megszegi, a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított, az őshonos halfajok halgazdálkodási értéke alapján számított összeg, de legalább 50 000 forint,
+
+l) a Hhvtv. 13. § (2) bekezdésében foglaltakat megszegi: 100 000–1 000 000 forint,
+
+m) a Hhvtv. 14. § (1) bekezdésében foglaltakat megszegi: 500 000–5 000 000 forint,
+
+n) a Hhvtv. 14. § (4) bekezdésében foglaltakat megsértve, engedély nélkül vagy az engedélytől eltérő telepítési tevékenységet végez: 500 000–5 000 000 forint,
+
+o) a Hhvtv. 14. § (5) bekezdésében foglalt igazolásokkal nem rendelkező vagy az igazolásnak meg nem felelő halat vagy más hasznos víziállatot halgazdálkodási vízterületre telepít: 250 000–5 000 000 forint,
+
+p) a Hhvtv. 16. § (4) bekezdésében előírt jelentéstételi kötelezettségnek nem tesz eleget: 50 000–100 000 forint,
+
+q) a Hhvtv. 18. § (1) bekezdése szerinti bejelentési kötelezettségét elmulasztja: 100 000–500 000 forint.
+
+r)[^33] a Hhvtv. 52. § (1) bekezdése szerinti bejelentési kötelezettségének nem tesz eleget: 50 000–100 000 forint,
+
+s)[^34] olyan területi jegy funkciójú okmányt ad ki, mely nem tartalmazza a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló miniszteri rendeletben a területi jegy esetében meghatározott kötelező tartalmi elemeket: 10 000–100 000 forint.
+
+(2) A halgazdálkodási hatóság által a halgazdálkodási vízterülettel érintett ingatlan tulajdonosára, használójára kiszabható halgazdálkodási bírság mértéke, ha az ingatlan tulajdonosa, használója a halgazdálkodási szolgalmi jog gyakorlását jelentős mértékben akadályozza: 50 000–500 000 forint.
+
+(3)[^35] A halgazdálkodási hatóság által a halgazdálkodásra nem jogosult természetes vagy jogi személyre kiszabható halgazdálkodási bírság mértéke, ha a halgazdálkodási vízterületen halgazdálkodási tevékenységet folytat – ideértve különösen a horgászat lehetővé tételét állami horgászjegy és horgász fogási napló vagy turista állami horgászjegy és fogási napló nélkül –, továbbá ha jogosulatlan haltelepítést végez: 500 000–5 000 000 forint.
+
+## 3. [^36] Az eltiltás
+
+### 15. §
+
+(1) Az állami horgászjegy, turista állami horgászjegy, állami halászjegy váltásától, illetve a halászati engedély kérelmezésétől való eltiltás (a továbbiakban együtt: eltiltás) időtartama:
+
+a) az 1. § (2) bekezdésében, a 3. § *a)* pontjában, a 4. § *k)* és *r)* pontjában meghatározott esetekben: 3–6 hónap,
+
+b)[^37] az 1. § (1) bekezdésében, az 1/A. §-ban, az 1/B. §-ban, a 3. § *b)* pontjában, a 4. § *q)* és *u)* pontjában, a 12. § (2) bekezdésében meghatározott esetekben: 3–12 hónap,
+
+c)[^38] a 4. § *s), t)* és *v)* pontjában, a 6. § *c)* pontjában meghatározott esetekben: 3–18 hónap,
+
+d) a 9. § *c)* pontjában meghatározott esetekben: 6 hónap,
+
+e)[^39] a 3. § *c)* pontjában, a 4. § *l)* és *n)* pontjában, a 6. § *b)* pontjában meghatározott esetekben: 6–18 hónap,
+
+f) a 9. § *b)* pontjában meghatározott esetben: 12 hónap,
+
+g) a 9.§ *a)* pontjában meghatározott esetben: 18 hónap,
+
+h) a 4. § *o)* pontjában meghatározott esetben: 1–2 év,
+
+i)[^40] a 2. §-ban, a 4. § *d)–g), i), m), p)* és *x)* pontjában, a 6. § *a)* pontjában, a 10. §-ban meghatározott esetekben: 1–3 év,
+
+j) a 4. § *h)* és *j)* pontjában meghatározott esetekben: 2–3 év, továbbá
+
+k) a 4. § *a)–c)* pontjában meghatározott esetekben: 3 év.
+
+(2)[^41] Az 5. §-ban, a 10/A. §-ban, a 11. §-ban, a 12. § (1) bekezdésében, a 13. §-ban meghatározottak esetében a halgazdálkodási hatóság az eltiltás időtartamát a Hhvtv. 43. § (3) bekezdésében foglaltak figyelembevételével, különösen a kiszabott halvédelmi bírság mértékéhez arányosítva 3 hónap és 3 év közötti időtartamban állapítja meg.
+
+(3) Az eltiltás időtartama a 7. §-ban meghatározottak teljesülésekor
+
+a) horgászkészség esetén:
+
+aa) az 1. § (1) bekezdésében meghatározott bírságtétel megállapításakor 3–12 hónap,
+
+ab) az 1. § (2) bekezdésében meghatározott bírságtétel megállapításakor 3–6 hónap,
+
+b) halászeszköz esetén: 1–3 év.
+
+## 4. Záró rendelkezés
+
+### 16. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő harmadik napon lép hatályba.
+
+(2) Az 1–14. § a kihirdetését követő 31. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 110/2021. (III. 5.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pontját a 271/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdés záró szövegrésze a 271/2017. (IX. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^4]: Az 1/A. §-t a 110/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1/B. §-t a 110/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § b) pontja a 271/2017. (IX. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^7]: A 2. § c) pontját a 271/2017. (IX. 13.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 2. § d) pontját a 110/2021. (III. 5.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 3. § c) pontja a 110/2021. (III. 5.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^10]: A 4. § nyitó szövegrésze a 271/2017. (IX. 13.) Korm. rendelet 8. § b) pontja, a 110/2021. (III. 5.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § g) pontja a 110/2021. (III. 5.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^12]: A 4. § l) pontja a 110/2021. (III. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § m) pontja a 110/2021. (III. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 4. § q) pontja a 223/2015. (VIII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: A 4. § r) pontját a 223/2015. (VIII. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 271/2017. (IX. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § s) pontját a 223/2015. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 4. § t) pontját a 271/2017. (IX. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 110/2021. (III. 5.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^18]: A 4. § u) pontját a 271/2017. (IX. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^19]: A 4. § v) pontját a 271/2017. (IX. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^20]: A 4. § x) pontját a 271/2017. (IX. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^21]: Az 5. § a 223/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 6. § a 271/2017. (IX. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 8. § a 223/2015. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 9. § a 110/2021. (III. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 9/A. §-t a 110/2021. (III. 5.) Korm. rendelet 5. §-a iktatta be.
+[^26]: A 10. § a 271/2017. (IX. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^27]: A 10/A. §-t a 110/2021. (III. 5.) Korm. rendelet 6. §-a iktatta be.
+[^28]: A 12. § (1) bekezdése a 223/2015. (VIII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^29]: A 13/A. §-t a 110/2021. (III. 5.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 14. § (1) bekezdés a) pontja a 110/2021. (III. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^31]: A 14. § (1) bekezdés f) pontja a 110/2021. (III. 5.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^32]: A 14. § (1) bekezdés i) pontja a 271/2017. (IX. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 14. § (1) bekezdés r) pontját a 110/2021. (III. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^34]: A 14. § (1) bekezdés s) pontját a 110/2021. (III. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^35]: A 14. § (3) bekezdését a 110/2021. (III. 5.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^36]: A 3. alcím (15. §) a 223/2015. (VIII. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 15. § (1) bekezdés b) pontja a 110/2021. (III. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^38]: A 15. § (1) bekezdés c) pontja a 271/2017. (IX. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^39]: A 15. § (1) bekezdés e) pontja a 271/2017. (IX. 13.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^40]: A 15. § (1) bekezdés i) pontja a 271/2017. (IX. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^41]: A 15. § (2) bekezdése a 110/2021. (III. 5.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

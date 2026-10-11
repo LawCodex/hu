@@ -1,0 +1,202 @@
+---
+title: "216/2011. (X. 19.) Korm. rendelet a háziorvosi, házi gyermekorvosi és fogorvosi alapellátási vállalkozások támogatásáról"
+identifier: "216/2011. (X. 19.) Korm. rendelet"
+njt_id: "2011-216-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/216"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-10-19
+in_force_from: 2011-10-20
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-216-20-22"
+retrieved: 2026-10-12
+---
+
+# 216/2011. (X. 19.) Korm. rendelet a háziorvosi, házi gyermekorvosi és fogorvosi alapellátási vállalkozások támogatásáról
+
+A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 109. § (1) bekezdés *k)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya kiterjed azon
+
+a)[^1] területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi, valamint az alapellátás körében fogorvosi ellátást nyújtó egészségügyi szolgáltatóra, továbbá az alapellátás körében teljes munkaidős iskolaorvossal ellátott iskola-egészségügyi ellátást biztosító és a gyermek, ifjúsági fogászati ellátást nyújtó egészségügyi szolgáltatóra, és
+
+b) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: R.) 14. § (5) bekezdése értelmében kiegészítő díjra jogosult, területi ellátási kötelezettség nélküli háziorvosi, házi gyermekorvosi ellátást nyújtó egészségügyi szolgáltatóra,
+
+amely a tevékenységét egyéni egészségügyi vállalkozóként, társas vállalkozásként vagy egyéni cégként végzi (e rendelet alkalmazásában a továbbiakban együtt: háziorvosi szolgáltató).
+
+(2) A háziorvosi szolgáltató az általa működtetett praxisban az 1. melléklet szerinti, közvetlenül a betegellátást szolgáló eszközök beszerzése érdekében igényelhet praxisonként legfeljebb 1,5 millió Ft összegű támogatást, amelynek havi mértéke – az esetleges járulékterhekkel együtt – 50 000 Ft/hónap (a továbbiakban: támogatás).
+
+(3) Amennyiben a háziorvosi szolgáltató az 1. melléklet szerinti eszköz beszerzéséhez hitelintézeti kölcsönt vesz fel vagy az eszközt lízingbe veszi, a támogatást jogosult a törlesztéshez vagy a lízingdíj fizetéséhez is felhasználni.
+
+(4) A lízingszerződéssel biztosított eszköz lízingdíj fizetéséhez akkor adható támogatás, ha az eszköz tulajdonjoga a lízingszerződés lejáratakor a háziorvosi szolgáltató tulajdonába megy át.
+
+(5) A támogatással beszerzett eszközt a beszerzésétől számított három évig csak abban az esetben lehet elidegeníteni, ha az – a beszerzésétől számított három évig – az elidegenítését követően is az adott praxis betegeinek ellátását szolgálja.
+
+(6)[^2] A támogatás fedezetét a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) által kezelt elkülönített előirányzat tartalmazza.
+
+## 2. §
+
+(1)[^3] A háziorvosi szolgáltató a támogatás folyósításához az igénylést a NEAK-hoz nyújtja be.
+
+(2) Az igényléshez csatolni kell:
+
+a) a háziorvosi szolgáltató nyilatkozatát arról, hogy köztartozással nem rendelkezik,
+
+b) a háziorvosi szolgáltató nyilatkozatát arról, hogy az általa működtetett praxis az 1. melléklet szerinti, beszerezni kívánt eszközök beszerzésére, cseréjére európai uniós forrásból nem kapott támogatást,
+
+c) területi ellátási kötelezettséggel működő háziorvosi szolgáltató esetén az adott körzet alapellátásáért felelős települési önkormányzat nyilatkozatát arról, hogy a helyi önkormányzat alapellátás fejlesztését célzó európai uniós támogatásban részesült-e, és ha igen, akkor a fejlesztés az 1. melléklet szerinti, a háziorvosi szolgáltató által beszerezni kívánt eszközök tekintetében milyen mértékben és összetételben irányult a helyi önkormányzat felelősségi körébe tartozó, területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatokra,
+
+d) a háziorvosi szolgáltató nyilatkozatát arról, hogy az 1. melléklet szerinti, beszerezni kívánt eszközök beszerzésére, cseréjére a *b)* és *c)* pontban foglaltakon túl más, közpénzből származó forrásból sem kapott támogatást,
+
+e) a hitelintézettel kötött szerződés, illetve a lízingbe adóval kötött szerződés másolatát, valamint a hitelintézet nyilatkozatát a hitel éves átlagos törlesztési terhéről, amennyiben a háziorvosi szolgáltató az eszköz beszerzéséhez hitelintézeti kölcsönt vesz fel vagy az eszközt lízingbe veszi.
+
+(3)[^4] A NEAK a háziorvosi szolgáltatóval az igénylést követően az igényelt támogatásra szerződést köt.
+
+(4)[^5] A NEAK a háziorvosi szolgáltató részére a támogatást havonta utalványozza.
+
+(5) A háziorvosi szolgáltató a támogatásra a támogatási igény benyújtását követő hónap első napjától jogosult.
+
+(6) A támogatás folyósításának megkezdésétől számított 1 éven belül a háziorvosi szolgáltatónak az adott eszköz beszerzéséről gondoskodnia kell.
+
+(7) A támogatásra való jogosultság annak a hónapnak az utolsó napjával megszűnik, amelyben a háziorvosi szolgáltató R. szerinti fix díjra, illetve kiegészítő díjra való jogosultsága bármely okból megszűnik. Ha a fix díjra való jogosultság megszűnésekor a beszerzett eszközök fedezetét biztosító hitel- vagy lízingszerződések futamideje még tart, akkor ugyanezen hitel- vagy lízingszerződések átruházását követően egy másik háziorvosi szolgáltató is fordíthatja ezek költségeire a részére folyósított támogatást.
+
+(8) Amennyiben a támogatásra való jogosultság azért szűnik meg, mert a háziorvosi szolgáltató által ellátott körzet megszüntetésre vagy átszervezésre kerül, illetve a háziorvosi szolgáltatóval más, a települési önkormányzat érdekkörében felmerülő okból a háziorvosi feladatok ellátására kötött szerződést a települési önkormányzat felmondja, az 1. § (5) bekezdésében foglaltakat nem kell alkalmazni, azonban az eszköznek annak beszerzésétől számított három évig továbbra is a betegellátást kell szolgálnia.
+
+## 3. §
+
+(1)[^6] A háziorvosi szolgáltató – a NEAK által meghatározott időpontban – évente elszámol a NEAK-kal az előző évben felhasznált támogatásról. A háziorvosi szolgáltatót az esedékes elszámolásról 30 nappal korábban értesíteni kell. Az elszámolás során az 1. melléklet szerinti eszközök vehetők figyelembe azzal, hogy nem vehető figyelembe olyan eszköz, amelynek beszerzésére, cseréjére a háziorvosi szolgáltató által működtetett praxis európai uniós vagy más, közpénzből származó forrásból támogatást kapott.
+
+(2) Az (1) bekezdés szerinti elszámoláshoz mellékelni kell:
+
+a) a beszerzett eszközről kiállított számlának – amelyen a háziorvosi szolgáltató nyilatkozik arról, hogy az eszköz az e rendelet szerinti támogatásból kerül beszerzésre – a kiállító által hitelesített másolatát, valamint
+
+b) a hitelintézeti kölcsön, illetve a lízingdíj költségeire vonatkozó, a hitelintézet vagy a lízingbe adó által igazolt adatokat.
+
+(3)[^7] A háziorvosi szolgáltató által az 1000 Ft-ot meghaladó, nem e rendeletben meghatározottak szerint felhasznált, vagy fel nem használt támogatást a NEAK-kal történő elszámolást követő 15 napon belül kell visszafizetni a mindenkori jegybanki alapkamat kétszeresének megfelelő összeggel együtt a NEAK által kezelt elkülönített előirányzat számlájára. Szabályszerű felhasználásnak kell tekinteni, ha a háziorvosi szolgáltató által beszerzett eszköz értéke meghaladja a támogatás során folyósított összeget, de a támogatást teljes egészében az adott eszköz beszerzésére fordították.
+
+(4)[^8] A jogosulatlanul igénybe vett támogatást a háziorvosi szolgáltató a NEAK erre irányuló felszólítását követő 15 napon belül köteles visszafizetni a mindenkori jegybanki alapkamat kétszeresének megfelelő összeggel együtt a NEAK által kezelt elkülönített előirányzat számlájára. A visszafizetéssel kapcsolatos igényt a NEAK érvényesíti a háziorvosi szolgáltatóval szemben.
+
+(5)[^9] Az (1) bekezdés szerint elszámolás keretében a NEAK megvizsgálja, hogy
+
+a) a 2. § (2) bekezdés *a)–d)* pontja szerinti nyilatkozatok megfelelnek-e a valóságnak,
+
+b) a háziorvosi szolgáltató az e rendeletben foglaltaknak megfelelően használta-e fel a támogatást,
+
+c) ténylegesen megvalósult-e az eszköz beszerzése, és az eszköz a háziorvosi szolgáltató tulajdonában van-e,
+
+d) a támogatási összeget a megjelölt eszköz beszerzésére használták-e fel,
+
+e) az eszközt indokoltan és dokumentáltan a praxisba bejelentett betegek vizsgálatára, kezelésére használták-e fel.
+
+(6)[^10] Az (5) bekezdésben foglaltakat – a támogatás megszűnését követő három hónapon belül – a NEAK helyszíni ellenőrzés keretében is ellenőrizheti.
+
+(7)[^11] Amennyiben az ellenőrzés megállapítja, hogy a háziorvosi szolgáltató a támogatást nem az e rendeletben foglaltaknak megfelelően használta fel, a NEAK intézkedik a támogatásra kötött szerződés felmondása iránt.
+
+(8)[^12] A háziorvosi szolgáltató a támogatást lemondhatja a NEAK-nak a lemondani szándékozott támogatás folyósítását megelőző hónap 10-éig megküldött lemondó nyilatkozattal.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+(1) A támogatás iránti kérelem 2012. május 31-éig nyújtható be.
+
+(2) Az a támogatásra jogosult, aki a támogatás iránti igényét 2011. október hónapban benyújtja, a támogatásra – a 2. § (5) bekezdésétől eltérően – 2011. október 1-jétől jogosult.
+
+(3) A 3. § szerinti elszámolásra első ízben a támogatás folyósításának megkezdésétől számított 1 év elteltével kerülhet sor.
+
+## 6. §[^13]
+
+Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 1. § (1) bekezdés *a)* pontjában foglaltakat a 2012. január 1-jét megelőzően már benyújtott kérelmek esetében is alkalmazni kell.
+
+## 1. melléklet a 216/2011. (X. 19.) Korm. rendelethez[^14]
+
+**A támogatással beszerezhető eszközök listája**
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Eszközök | Az eszközért maximálisan elszámolható összeg |
+|  | 2. | Doppler-készülék | 140 ezer Ft |
+|  | 3. | CRP vizsgáló készülék | 400 ezer Ft |
+|  | 4. | hordozható kislabor-készülék (vércukor, lipidek, coagulometer stb.) | 200 ezer Ft |
+|  | 5. | vérkép és/vagy vizelet analizáló kislabor gép | 1,5 millió Ft |
+|  | 6. | peak flow meter | 20 ezer Ft |
+|  | 7. | inhalátor | 44 ezer Ft |
+|  | 8. | spirometer | 310 ezer Ft |
+|  | 9. | pulzoximéter | 80 ezer Ft |
+|  | 10. | kilégzett levegő CO mérő | 70 ezer Ft |
+|  | 11. | EKG készülékek* | 1 millió Ft |
+|  | 12. | praxis Holter | 1,5 millió Ft |
+|  | 13. | Defibrillátor | 1 millió Ft |
+|  | 14. | ABPM* | 400 ezer Ft |
+|  | 15. | Szűrőaudiometer | 310 ezer Ft |
+|  | 16. | Tens-készülék | 100 ezer Ft |
+|  | 17. | rendelői számítógép rendszer** | 600 ezer Ft |
+|  | 18. | többfunkciós vezetékes és mobiltelefon* | 200 ezer Ft |
+|  | 19. | sürgősségi táska | 400 ezer Ft |
+|  | 20. | 2 l-es oxigénpalack * | 50 ezer Ft |
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Eszközök | Az eszközért maximálisan elszámolható összeg |
+|  | 2. | mennyezeti lámpa, fogászati műtőlámpa | 600 ezer Ft |
+|  | 3. | fogászati kezelő egység | 1,5 millió Ft |
+|  | 4. | fogászati kézidarabok | 600 ezer Ft/db |
+|  | 5. | kompressor, exhaustor | 1,5 millió Ft |
+|  | 6. | kéziműszer*, fogó* | 30 ezer Ft/db |
+|  | 7. | műszertartó fiók betét | 20 ezer Ft |
+|  | 8. | higiénés berendezés* (mechanikus és automata kézmosó) | 200 ezer Ft |
+|  | 9. | műszerkocsi* | 200 ezer Ft |
+|  | 10. | fogászati rtg. (digitális), OP | 1,5 millió Ft |
+|  | 11. | rtg. film és szenzortartó | 60 ezer Ft |
+|  | 12. | rtg. kötény | 70 ezer Ft |
+|  | 13. | rtg. szék | 60 ezer Ft |
+|  | 14. | rtg.-film digitalizáló | 1 millió Ft |
+|  | 15. | hőlégsterilizátor, autokláv | 1,5 millió Ft |
+|  | 16. | Gyorssterilizáló | 1,5 millió Ft |
+|  | 17. | UH tisztító berendezés | 200 ezer Ft |
+|  | 18. | automata kézidarab tisztító | 600 ezer Ft |
+|  | 19. | sterilizáló konténer | 60 ezer Ft |
+|  | 20. | desztillált víz előállító | 150 ezer Ft |
+|  | 21. | fóliahegesztő | 250 ezer Ft |
+|  | 22. | rendelői mélyhúzógép | 300 ezer Ft |
+|  | 23. | lenyomatkeverő gép | 500 ezer Ft |
+|  | 24. | tömőanyag-keverőgép | 450 ezer Ft |
+|  | 25. | apexlocator | 400 ezer Ft |
+|  | 26. | intraorális kamera | 300 ezer Ft |
+|  | 27. | endomotor (multifunkciós) | 700 ezer Ft |
+|  | 28. | gépi depurátor | 900 ezer Ft |
+|  | 29. | kéziműszerélező gép | 400 ezer Ft |
+|  | 30. | rendelői homokfúvó | 400 ezer Ft |
+|  | 31. | polimerizációs lámpa | 700 ezer Ft |
+|  | 32. | elektrokauter/UH radiosebészet | 1,5 millió Ft |
+|  | 33. | Diódalézer | 1,5 millió Ft |
+|  | 34. | caries és plakk dg. készülék | 1,5 millió Ft |
+|  | 35. | digitális fogszín meghatározó készülék | 450 ezer Ft |
+|  | 36. | ózonkészülék | 600 ezer Ft |
+|  | 37. | orvosi nagyító szemüveg és fejlámpa | 100 ezer Ft |
+|  | 38. | éberszedáló berendezés | 1,5 millió Ft |
+|  | 39. | rendelői számítógép rendszer** | 600 ezer Ft |
+|  | 40. |  |  |
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 98. §-ával megállapított szöveg.
+[^2]: Az 1. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § d)–e) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § d)–e) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § f) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 181. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § (6) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 15. §-ával megállapított, az 520/2013. (XII. 30.) Korm. rendelet 86. §-a, a 379/2016. (XII. 2.) Korm. rendelet 181. § d) pontja szerint módosított szöveg.
+[^11]: A 3. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § d) pontja szerint módosított szöveg.
+[^12]: A 3. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § g) pontja szerint módosított szöveg.
+[^13]: A 6. §-t a 325/2011. (XII. 28.) Korm. rendelet 99. §-a iktatta be.
+[^14]: Az 1. melléklet a 325/2011. (XII. 28.) Korm. rendelet 100. §-a szerint módosított szöveg.

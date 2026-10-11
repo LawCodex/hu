@@ -1,0 +1,97 @@
+---
+title: "1/2013. (I. 4.) Korm. rendelet Magyarország Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között 2010. február 23-án, Chisinauban aláírt Gazdasági Együttműködési Megállapodás módosításáról szóló jegyzőkönyv kihirdetéséről"
+identifier: "1/2013. (I. 4.) Korm. rendelet"
+njt_id: "2013-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-01-04
+in_force_from: 2013-01-05
+last_amended: 2013-03-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/2013. (I. 4.) Korm. rendelet Magyarország Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között 2010. február 23-án, Chisinauban aláírt Gazdasági Együttműködési Megállapodás módosításáról szóló jegyzőkönyv kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között 2010. február 23-án, Chisinauban aláírt Gazdasági Együttműködési Megállapodás módosításáról szóló jegyzőkönyv (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+„PROTOCOL\
+between the Government of Hungary and the Government of the Republic of Moldova on the amendments to the Agreement on economic cooperation between the Government of the Republic of Hungary and the Government of the Republic of Moldova, signed on February 23, 2010 in Chisinau
+
+The Government of Hungary and the Government of the Republic of Moldova (hereinafter referred to as “the Contracting Parties”) have agreed to amend the Agreement on economic cooperation between the Government of the Republic of Hungary and the Government of the Republic of Moldova (hereinafter referred to as “the Agreement”) as follows
+
+**ARTICLE 1**
+
+Article 4 of the Agreement will read as follows:
+
+**“Article 4**
+
+For the purpose of the implementation of this Agreement the Hungarian–Moldavian Joint Commission on Economic Cooperation (hereinafter referred to as “the Commission”) could/can be established.
+
+The Commission shall monitor the implementation of this Agreement and make recommendations for the development of the bilateral economic cooperation.
+
+The Commission shall meet alternately in Moldova and Hungary on mutual consent of the Parties. If deemed necessary, the Commission will establish working groups dealing with certain areas of the cooperation. The rules of procedure of the Commission shall be defined during its first meeting.”
+
+**ARTICLE 2**
+
+The Protocol shall enter into force on the thirtieth day after the receipt of the latter notification, through diplomatic channels, indicating the completion of all internal legal procedures of both countries.
+
+Done in Chisinau, on 20. 12. 2012., in two originals in the Hungarian, Moldavian and English languages respectively, all texts being equally authentic. In case of divergence of interpretation, the English version shall prevail.
+
+(signatures)
+
+JEGYZŐKÖNYV\
+Magyarország Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság Kormánya\
+és a Moldovai Köztársaság Kormánya között 2010. február 23-án, Chisinauban aláírt Gazdasági Együttműködési Megállapodás módosításáról
+
+Magyarország Kormánya és a Moldovai Köztársaság Kormánya (a továbbiakban: a „Szerződő Felek”) megállapodnak a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya közötti Gazdasági Együttműködési Megállapodás (a továbbiakban: „a Megállapodás”) módosításáról az alábbiak szerint:
+
+**1. CIKK**
+
+A Megállapodás 4. cikke az alábbiak szerint módosul:
+
+**„4. CIKK**
+
+A jelen Megállapodás végrehajtásának biztosítása céljából Magyar–Moldovai Gazdasági Együttműködési Vegyes Bizottság (a továbbiakban: „Bizottság”) hozható létre.
+
+A Bizottság figyelemmel kíséri a jelen Megállapodás teljesítését, és ajánlásokat fogalmaz meg a kétoldalú gazdasági együttműködés fejlesztése céljából.
+
+A Felek egyetértésével a Bizottság felváltva ülésezik Magyarországon és Moldovában. Amennyiben szükséges, a Bizottság az együttműködés meghatározott területeivel foglalkozó munkacsoportokat hoz létre. A Bizottság eljárásrendje az első ülésen kerül meghatározásra.”
+
+**2. CIKK**
+
+Jelen Jegyzőkönyv a mindkét országban szükséges belső jogrendi eljárások teljesítéséről szóló későbbi, diplomáciai úton eljuttatott jegyzék kézhezvételét követő harmincadik napon lép hatályba.
+
+Készült Chisinauban, 2012. 12. 20. napján két eredeti példányban, magyar, moldovai és angol nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű változat az irányadó.
+
+(aláírások)”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 2. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 2. cikkében meghatározott időpontban lép hatályba. A 8/2013. (III. 8.) KüM közlemény alapján a hatálybalépés időpontja 2013. március 7.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 2. cikkében meghatározott időpontban lép hatályba. A 8/2013. (III. 8.) KüM közlemény alapján a hatálybalépés időpontja 2013. március 7.
+[^3]: A 8/2013. (III. 8.) KüM közlemény alapján a hatálybalépés időpontja 2013. március 7.
+[^4]: Lásd a 8/2013. (III. 8.) KüM közleményt.

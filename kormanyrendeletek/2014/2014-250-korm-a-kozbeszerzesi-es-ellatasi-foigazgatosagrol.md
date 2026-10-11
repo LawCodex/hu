@@ -1,0 +1,507 @@
+---
+title: "250/2014. (X. 2.) Korm. rendelet a Közbeszerzési és Ellátási Főigazgatóságról"
+identifier: "250/2014. (X. 2.) Korm. rendelet"
+njt_id: "2014-250-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/250"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-10-02
+in_force_from: 2014-10-03
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-250-20-22"
+retrieved: 2026-10-12
+---
+
+# 250/2014. (X. 2.) Korm. rendelet a Közbeszerzési és Ellátási Főigazgatóságról
+
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: Főigazgatóság) az államháztartásért felelős miniszter irányítása alá tartozó központi költségvetési szerv.
+
+(2)[^1] A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: R.) 6. § k) pontjában meghatározott ügyek tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott hatásköröket a Főigazgatóság tekintetében a Miniszterelnöki Kormányiroda közigazgatási államtitkára gyakorolja.
+
+(3)[^2] Az államháztartásért felelős miniszter, a Miniszterelnöki Kormányiroda közigazgatási államtitkára, valamint a Főigazgatóság a (2) bekezdésben meghatározott hatáskörök gyakorolásának és a feladatok végrehajtásának részletes szabályairól megállapodást köthet.
+
+## 2. §
+
+A Főigazgatóságot főigazgató vezeti.
+
+## 3. §
+
+(1)[^3] A Főigazgatóság a kormányzat központi logisztikai szerveként, illetve központi beszerző szervként:
+
+a)[^4] – a honvédelemért felelős miniszter által vezetett minisztérium, a külpolitikáért felelős miniszter és az európai uniós ügyek koordinációjáért felelős miniszter irányítása alá tartozó külképviseletek, valamint a b) pontban foglaltak kivételével – biztosítja a minisztériumok, valamint a Miniszterelnöki Kormányiroda és a Nemzeti Fejlesztési Központ működéséhez szükséges munkakörnyezetet, ennek keretében az 1. melléklet II. és III. pontjában és – az (1a) és (1b) bekezdésben foglaltak figyelembevételével – a 2. mellékletben megjelölt szolgáltatásokat nyújtja,
+
+b)[^5] a Miniszterelnökség, a Miniszterelnöki Kormányiroda, a Nemzeti Fejlesztési Központ és a Miniszterelnöki Kabinetiroda Budapest I. kerület, belterület 6459 helyrajzi számon nyilvántartott, természetben a Színház u. 1–3., 5–11. szám alatti, valamint a Budapest I. kerület, belterület 6516 helyrajzi számon nyilvántartott, természetben a Dísz tér 1–2. szám alatti ingatlanokon történő működése vonatkozásában az 1. melléklet II. és III. pontjában és – az (1a) és (1b) bekezdésben foglaltak figyelembevételével – a 2. mellékletben megjelölt szolgáltatásokat nyújtja,
+
+c)[^6] a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) az állami vagyonról szóló 2007. évi CVI. törvény 28/A. § (8) bekezdés a) pontja alapján kötött megállapodás keretei között gondoskodik az *a)*, *d)*, *f)* pont és a 3. § (4) bekezdése hatálya alá tartozó központi költségvetési szervek használatában, valamint a saját használatában álló állami elhelyezési célú ingatlanok vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról, továbbá gondoskodik az MNV Zrt.-vel kötött vagyonkezelési szerződések keretei között a vagyonkezelésében lévő ingatlanok vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról;
+
+d)[^7] biztosítja a Nemzeti Egészségbiztosítási Alapkezelő működéséhez szükséges munkakörnyezetet, ennek keretében az 1. melléklet II. és III. pontjában és – az (1a) és (1b) bekezdésben foglaltak figyelembevételével – a 2. mellékletben megjelölt szolgáltatásokat nyújtja,
+
+e) gondoskodik a Médiaszolgáltatás-támogató és Vagyonkezelő Alap használatában lévő ingatlanok őrzésvédelméről, ennek keretében az 1. melléklet I. pont 4. alpontjában megjelölt szolgáltatásokat nyújtja,
+
+f)[^8] ellátja a (3c) bekezdés szerinti szolgáltatási megállapodásban meghatározott feladatokat
+
+fa)[^9]
+
+fb)[^10] a Nemzeti Adó- és Vámhivatal, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, a fővárosi és vármegyei kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Védelmi Igazgatási Hivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
+
+g)[^11] végzi a jogszabályban meghatározott, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 26. pont b) alpontja szerinti központosított közbeszerzési feladatokat,
+
+h) ellátja a jogszabályban foglalt elektronikus közbeszerzéssel kapcsolatos végrehajtási feladatokat,
+
+i)[^12] jogszabályban meghatározottak szerint vagy erre vonatkozó megállapodás alapján a Kbt. hatálya alá tartozó közbeszerzési eljárásokat bonyolít le az *a)* és *b)* pontban meghatározott szerv, a Kormány irányítása vagy felügyelete alá tartozó más költségvetési szerv, az azok vagyonkezelésébe tartozó, többségi állami tulajdonban álló gazdasági társaság és a Kormány által alapított közalapítvány mint ajánlatkérő részére,
+
+j) végzi a központosított közbeszerzés normatívarendszerének meghatározásával, módosításával összefüggő előkészítő feladatokat,
+
+k) végzi az 1. § (2) és (3) bekezdésében meghatározottak figyelembevételével az állami vezetői juttatásokról szóló kormányrendeletben meghatározott feladatokat,
+
+l)[^13] ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat, az alapító okirat, az irányító szerv vezetője, az 1. § (2) bekezdése alapján irányítási jogokat gyakoroló Miniszterelnöki Kormányiroda közigazgatási államtitkára vagy az 1. § (3) bekezdésében meghatározott megállapodás, valamint a *c)* pont szerint megkötött megállapodás a hatáskörébe utal,
+
+m)[^14] a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény, és a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, továbbá a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével azon állami tulajdonú gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol, valamint a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány részére biztosítja az 1. melléklet II. pont, 3.2.1. alpontjában meghatározott szolgáltatásokat.
+
+n)[^15] az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi és vármegyei költségvetési intézmények (a továbbiakban: kórház) részére a 3. mellékletben meghatározott ingatlanüzemeltetési szolgáltatásokat biztosítja.
+
+o)[^16] az MNV Zrt.-vel kötött megállapodás keretei között gondoskodik
+
+oa) a Budapest XIV. kerület, belterület 32707/1 és 32707/7 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Dürer Kert Irodapark),
+
+ob) a Budapest XIV. kerület, belterület 31267/140, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149 és 31267/150 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Zugló Városközpont Irodakomplexum), valamint
+
+oc) a Budapest XI. kerület, belterület 4042/114, 4042/137, 4042/139, 4042/151, 4042/178 és 4042/180 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Kopaszi-gát Irodakomplexum) vonatkozásában
+
+az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról, azzal, hogy az oa)–oc) alpont szerinti ingatlanokban elhelyezésre kerülő szervezetek évenként, megállapodáson alapuló előirányzat-átcsoportosítás útján vagy a szolgáltatások részletezését és igénybevételének rendjét szabályozó megállapodás alapján, számla ellenében közvetlenül a Főigazgatóság részére térítik meg az üzemeltetéssel összefüggésben felmerülő költségeket.
+
+(1a)[^17] A Főigazgatóság az (1) bekezdés a), b) és d) pontjában meghatározott szervezeteknek a 2. mellékletben meghatározott szolgáltatásokat abban az esetben nyújtja, ha azt az (1) bekezdés a), b) és d) pontjában meghatározott szerv kifejezetten igényli, és biztosítja az ahhoz szükséges költségvetési fedezetet.
+
+(1b)[^18] A Főigazgatóság az (1) bekezdés a), b) és d) pontjában meghatározott szervezeteknek az (1a) bekezdésben foglaltak hiányában is biztosítja mindazon szolgáltatásokat, amelyek költségvetési fedezetét az érintett szervezet korábban a Főigazgatóságnak tartós jelleggel már átadta.
+
+(2)[^19] A Főigazgatóság az általa nyújtott szolgáltatások részletezését és igénybevételének rendjét szabályozó megállapodás esetén általános szerződési feltételeket alkalmaz, melyeket kizárólag a megállapodás megkötésére jogosult szervezetek részére tesz megismerhetővé.
+
+(3)[^20] A Főigazgatóság és az (1) bekezdés a) és b) pontjában meghatározott szerv megállapodásban rendezi az 1. mellékletben – valamint az (1a)–(1b) bekezdésben foglalt feltételek fennállása esetén a 2. mellékletben – meghatározott szolgáltatások részletezését és igénybevételének rendjét. A megállapodás tartalmazza különösen
+
+a) a megállapodás megkötésének időpontjában ellátandó intézményi létszámot,
+
+b)[^21] az adott intézmény elhelyezésére szolgáló ingatlanokat, megjelölve az általuk használt – nem közös használatú – területet,
+
+c) az intézmény által használt – nem az állami vezetők személyes használatában lévő – gépjárműveket,
+
+d) a Főigazgatóság által nyújtott szolgáltatások részletezését, valamint a szolgáltatási igény bejelentésére történő – a teljesítés várható idejéről is tájékoztató – visszajelzés határidejét.
+
+(3a)[^22] A Miniszterelnöki Kormányirodával kötött szolgáltatási megállapodás az állami vezetők személyes használatában lévő gépjárművek adatait is tartalmazza. Ezen gépjárművek használatának költségeit a Főigazgatóság az adott állami vezetőt foglalkoztató minisztériumra fordított kiadások között mutatja ki.
+
+(3b)[^23] A (3) bekezdés a)–c) pontjában megjelölt mennyiségi mutatók növekedése esetén a többletfeladatok költségvetési fedezetét – mind a dologi és felhalmozási kiadások, mind a személyi juttatások tekintetében – a Főigazgatóság részére biztosítani kell. E rendelkezés nem vonatkozik a minisztériumok közötti olyan feladatátadásra, amelynek során a feladatot átadó, illetve az azt átvevő minisztériumok összesített ellátási igénye nem változik.
+
+(3c)[^24] A Főigazgatóság az (1) bekezdés d)–f) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott – az 1. és 2. mellékletben meghatározott – szolgáltatások részletezését és igénybevételének rendjét. A megállapodásra – a nyújtott szolgáltatás jellegétől függően – a (3) bekezdésben foglaltakat, továbbá a (3b) bekezdésben foglaltakat kell megfelelően alkalmazni. Az (1) bekezdés f) pont fb) alpontjában meghatározott szervezetek abban az esetben valósíthatják meg az 1. és 2. mellékletben meghatározott valamely szolgáltatás saját hatáskörben történő beszerzését, ha a Főigazgatóság nem tudja vállalni annak nyújtását.
+
+(3d)[^25] A Főigazgatóság az (1) bekezdés m) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott szolgáltatások részletezését és igénybevételének rendjét, valamint a szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezését.
+
+(4)[^26] A Főigazgatóság az 1–3. mellékletben meghatározott szolgáltatások nyújtására – az (1) bekezdésben meghatározott személyi, illetve szolgáltatási kört meghaladóan – szabad kapacitás rendelkezésre állása esetén
+
+a) központi költségvetési szervekkel,
+
+b)[^27] a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő, legalább részben központi költségvetési forrásból vagy európai uniós forrásból finanszírozott más szervezetekkel,
+
+c) a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokkal, a tulajdonukban álló gazdálkodó szervezetekkel, gazdasági társaságokkal, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekkel,
+
+d) a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványokkal, a tulajdonukban álló gazdálkodó szervezetekkel, gazdasági társaságokkal, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekkel,
+
+e) egyházi jogi személy által fenntartott felsőoktatási intézményekkel,
+
+f) az Nvtv. 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő, Magyarország területén székhellyel rendelkező gazdasági társaság vagy Magyarországon nyilvántartásba vett alapítvány, közalapítvány által fenntartott felsőoktatási intézményekkel,
+
+g)[^28] a 100%-ban a Magyar Állam tulajdonában álló gazdasági társasággal vagy az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társasággal, valamint
+
+h) az Országgyűlés felügyelete alá tartozó más szervekkel
+
+megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
+
+(5)[^29] A (3) és (4) bekezdés alapján a Kbt. szerinti ajánlatkérővel kötött megállapodás a Kbt. 3. § 26. pont a) alpontja szerinti továbbértékesítésnek minősül.
+
+## 4. §
+
+(1)[^30] Kivételes esetben a 3. § (1) bekezdés a) és b) pontjában meghatározott szervek jogosultak az 1. melléklet II. és III. pontjában meghatározott szolgáltatásokra irányuló beszerzéseiket saját hatáskörben megvalósítani, ha
+
+a) a kiemelt biztonsági védelmet igénylő eszközök beszerzése és üzemeltetése ezt szükségessé teszi,
+
+b) a Főigazgatóság igénybevétele a jogszabályban előírt feladatok határidőben történő teljesítését veszélyezteti, vagy
+
+c) jogszabályban meghatározott közfeladat ellátásához szükséges speciális szolgáltatási szint biztosítása egyedi esetben más módon hatékonyabban megvalósítható.
+
+(2)[^31] A saját hatáskörben megvalósított beszerzés (1) bekezdésben meghatározott jogalapját az érintett szerv köteles dokumentálni, valamint a megelőző naptári félévben megvalósított ilyen beszerzéseiről minden év január 31-ig és július 31-ig a közbeszerzésekért felelős minisztert és az államháztartásért felelős minisztert tájékoztatni.
+
+(3)[^32] A Miniszterelnöki Kormányiroda közigazgatási államtitkára az R. 6. § k) pontjában meghatározott ügyek tekintetében saját hatáskörben beszerzéseket valósíthat meg.
+
+## 5. §
+
+A 4. § (3) bekezdése szerint beszerzett eszközök üzemeltetéséről a Főigazgatóság gondoskodik a 3. § (3) bekezdésében foglaltak alapján.
+
+## 5/A. §[^33]
+
+A Főigazgatóság látja el a tiszta közúti járművek beszerzésének az alacsony kibocsátású mobilitás támogatása érdekében történő előmozdításáról szóló 397/2022. (X. 20.) Korm. rendeletben koordináló szervként részére meghatározott feladatokat.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^35]
+
+**Alapfeladatként nyújtott szolgáltatások**
+
+**I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK**
+
+1\. Közüzemi szolgáltatások (villamos energia, földgázenergia, távhőszolgáltatás, vízszolgáltatás és szennyvízelvezetési szolgáltatás, szelektívhulladék-elszállítás, kommunálishulladék-elszállítás) biztosítása
+
+2\. Műszaki üzemeltetés, karbantartás
+
+2.1. Gondnoki feladatok ellátása
+
+2.2. Épületgépészeti üzemeltetés, karbantartás, hibaelhárítás
+
+2.3. Épületvillamossági üzemeltetés, karbantartás, hibaelhárítás
+
+2.4. Építészeti karbantartás, hibaelhárítás
+
+2.5. Televíziós műsorszolgáltatások előfizetése, belső elosztóhálózat karbantartása
+
+3\. Higiénés szolgáltatások
+
+3.1. Takarítás (épületen belüli napi és időszakos takarítás, épületen kívüli takarítás, hóeltakarítás, csúszásmentesítés)
+
+3.2. Vizesblokkok higiénés termékeinek biztosítása
+
+3.3. Épületen belüli szelektívhulladék-gyűjtés
+
+3.4. Épületen belüli kommunálishulladék-gyűjtés
+
+3.5. Rovarirtás
+
+4\. Biztonsági szolgáltatások
+
+4.1. Épület élőerős őrzés-védelem
+
+4.2. Recepciós és egyéb élőerős szolgáltatások
+
+5\. Biztonságtechnikai berendezések üzemeltetése
+
+5.1. Beépített tűzjelző és oltórendszerek üzemeltetése, karbantartása, javítása
+
+5.2. Beépített hő- és füstelvezető rendszerek üzemeltetése, karbantartása, javítása
+
+5.3. Beléptető-, behatolásjelző és videomegfigyelő rendszerek üzemeltetése, karbantartása, javítása
+
+5.4. Beléptetőrendszerrel kapcsolatos egyéb szolgáltatások (belépőkártya biztosítása, adatszolgáltatás mozgási időadatokról)
+
+6\. Épületekkel kapcsolatos, üzemeltetőt terhelő tűz- és munkavédelmi, valamint egyéb veszélyelhárítási feladatok ellátása
+
+6.1. Tűzoltó készülékek karbantartása, üzembentartói ellenőrzése
+
+6.2.[^36] Tűzoltó vízforrások (tűzcsapok, oltóvíztárolók) karbantartása, üzembentartói ellenőrzése
+
+6.3. Tűz- és munkavédelmi szemle végzése
+
+6.4. Üzemeltetői tűzvédelmi szabályzat készítése, felülvizsgálata
+
+6.5.[^37]
+
+6.6. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
+
+7\. Parkolóhelyek biztosítása, ügyintézése (a rendelkezésre álló parkolókapacitás erejéig)
+
+8\. Épületekkel kapcsolatos építési beruházások lebonyolítása, építési beruházással kapcsolatos egyéb feladatok ellátása
+
+9.[^38] Bontás, építési terület előkészítése
+
+10.[^39] Üzemi és munkabalesetek kivizsgálása
+
+**II. ELLÁTÁSI SZOLGÁLTATÁSOK**
+
+1\. Költöztetés, egyéb szállítási feladatok
+
+2\. Irodaszer-ellátás
+
+3\. Nyomtatványellátás
+
+3.1. Nyomdai termékek biztosítása (levélpapír, névjegy, boríték stb.)
+
+3.2.[^40] Újság, folyóirat biztosítása
+
+3.2.1. Belföldi újság és folyóiratok
+
+3.2.2. Külföldi újság és folyóiratok
+
+4\. Irodaberendezés biztosítása
+
+4.1. Irodabútor biztosítása
+
+4.2. Szobadíszítés (függöny, árnyékolók és kiegészítői, kép, valamint állami vezetők számára szobanövény és növényápolás biztosítása)
+
+5\. Műszaki, irodatechnikai és konyhatechnikai eszközök biztosítása, karbantartása, hibaelhárítása, javítása
+
+6\. Teakonyhai felszerelések, porcelán- és üvegáruk, konyhai textíliák biztosítása
+
+7\. Sokszorosítás
+
+7.1. Fénymásolás, sokszorosítás
+
+7.2. Tűzés, spirálozás, laminálás, egyéb kötészeti feladatok
+
+8\. Jóléti, szociális szolgáltatások
+
+8.1. Étel- és italautomata biztosítása
+
+8.2. Ásványvíz-adagoló automata és ballonos ásványvíz biztosítása teakonyhákban, folyosókon elhelyezve
+
+9\. Tisztítószerek biztosítása teakonyhai feladatokhoz
+
+10\. Rendezvények audiovizuális támogatása
+
+10.1.[^41] Hangosítás biztosítása
+
+10.2.[^42] Hangfelvétel-készítés
+
+11\. Iratmegsemmisítés
+
+12\. Névtáblák, információs táblák, zászlók és kiegészítőik biztosítása
+
+13.[^43] Egyetemes postai szolgáltatás és az ahhoz kapcsolódó egyéb szolgáltatások
+
+14.[^44] Ügyféltámogatás, ügyfélszolgálat
+
+**III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK**
+
+1\. Gépjárműhasználattal kapcsolatos szolgáltatások
+
+1.1. Gépjárműhasználat biztosítása
+
+1.1.1. Személyes gépjárműhasználat biztosítása jogszabály alapján
+
+1.1.2.[^45] Állandó használatú, feladatorientált gépjármű biztosítása jogszabály alapján
+
+1.1.3. Eseti gépjárműhasználat biztosítása
+
+1.1.3.1. Taxiszolgáltatás a Főigazgatóság üzemeltetésében lévő gépjárművel
+
+1.1.3.2.[^46] Eseti, feladatorientált gépjármű szolgáltatás
+
+1.1.3.3.[^47] Tárgyalóbusz, mikrobusz és protokoll gépjármű szolgáltatás
+
+1.1.3.4. Taxiszolgáltatás, külső szolgáltató bevonásával
+
+1.2. Gépjárművezető biztosítása
+
+1.2.1. A Főigazgatóság azon gépjárműveihez, melyek használói jogszabály alapján gépjárművezető igénybevételére jogosultak, a Főigazgatóság – amennyiben az ellátott intézmény a feladatot nem saját személyi állománnyal oldja meg – hivatásos gépjárművezetőt biztosít
+
+1.2.2.[^48] Egyes eseti gépjárműhasználathoz gépjárművezető biztosítása
+
+1.3. Diszpécserszolgálat
+
+1.3.1. Gépjármű átvétele és átadása munkaidőben
+
+1.3.2. Gépjármű és szállítási igények koordinálása, menedzselése
+
+1.4. Garázsmesteri szolgálat
+
+1.4.1. Menetlevél kiadása, visszavétele
+
+1.4.2. Gépjármű átvétele és átadása
+
+1.4.3. A továbbhaladáshoz szükséges anyagok (motorolaj, szélvédőmosó folyadék stb.) kiadása
+
+1.4.4. 24 órás szolgálat
+
+1.5. Szerviz-ügyfélszolgálat
+
+1.5.1. Műszaki vizsgáztatás elvégzése, időszakos karbantartás, garanciális és garanciaidőn túli javítás, karambolos javítás lebonyolítása
+
+1.6. Gépjárműápolás
+
+1.6.1. Gépjárműmosás, -takarítás, -ápolás, gépjármű-kozmetika
+
+1.7. Autómentés biztosítása
+
+1.7.1. Üzemképtelen gépjármű szállításának biztosítása 0–24 óráig
+
+1.8. Cseregépjármű biztosítása
+
+1.8.1. Az állandó használatra kiadott gépjármű helyett, annak javítása idejére vagy eltulajdonítása esetén, cseregépjármű biztosítása a rendelkezésre álló készlet erejéig
+
+1.9. Gumiabroncs biztosítása
+
+1.9.1.[^49] Téli és nyári gumiabroncs biztosítása
+
+1.10. Úthasználat biztosítása
+
+1.10.1.[^50] Belföldi autópálya-használat biztosítása
+
+1.10.2.[^51] Eseti külföldi autópálya- és úthasználat biztosítása
+
+1.11. Parkolás biztosítása
+
+1.11.1.[^52] A felmerülő parkolási költségek megtérítése a parkolást igazoló számla leadása mellett, vagy mobiltelefonos parkolási lehetőség esetén ennek költségei biztosításával
+
+1.12. Behajtási engedélyek biztosítása
+
+1.12.1. Kizárólag fizetés ellenében megközelíthető vagy engedélyköteles területekre szóló behajtási engedélyek biztosítása adott alkalomra vagy időszakra
+
+1.13. Üzemanyag biztosítása
+
+1.13.1. Üzemanyag biztosítása belföldön, üzemanyagkártya használatával
+
+1.13.2. Üzemanyag biztosítása külföldön, eseti jelleggel, üzemanyagkártya használatával
+
+1.14. Biztosítás
+
+1.14.1. Kötelező felelősségbiztosítás és Casco biztosítás megkötése és folyamatos biztosítása
+
+1.15. Tartozékok
+
+1.15.1. Egyedi igények (telefonkihangosító, GPS navigáció, tetőcsomagtartó stb.) eszközigénylő formanyomtatvány kézhezvétele utáni, egyedi elbírálást követően történő biztosítása
+
+2\. Gépjárműbérlés
+
+2.1. Speciális igény esetén bérelt gépjármű biztosítása
+
+## 2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^53]
+
+**Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások**
+
+1\. Nem irodafunkciójú ingatlanok üzemeltetése
+
+2\. A munkáltatót terhelő tűz- és munkavédelmi feladatok ellátása (szabályzatok elkészítése, oktatások szervezése, munkavédelmi felelős biztosítása stb.)
+
+3\. Postai küldemények épületen belüli és épületek közötti kézbesítése
+
+4\. Protokoll konyhai szolgáltatás, felszolgálás
+
+5\. Protokoll ajándékbeszerzés, készletraktározás
+
+## 3. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^54]
+
+**Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások**
+
+1\. Közüzemi szolgáltatások (villamos energia, földgázenergia, távhőszolgáltatás, vízszolgáltatás és szennyvízelvezetési szolgáltatás, szelektívhulladék-elszállítás, kommunálishulladék-elszállítás, kivéve veszélyes hulladék kezelése és elszállítása) biztosítása
+
+2\. Műszaki üzemeltetés, karbantartás – kivéve orvostechnikai eszközök – és az ezekkel összefüggő épületfelújítás
+
+2.1. Gondnoki feladatok ellátása
+
+2.2. Épületgépészeti üzemeltetés, karbantartás, hibaelhárítás és az ezekkel összefüggő épületfelújítási feladatok
+
+2.3. Épületvillamossági üzemeltetés, karbantartás, hibaelhárítás és az ezekkel összefüggő épületfelújítási feladatok
+
+2.4. Építészeti karbantartás, hibaelhárítás és az ezekkel összefüggő épületfelújítási feladatok
+
+2.5.[^55]
+
+3.[^56] Higiénés szolgáltatások, ide nem értve a gyógyászati célú fürdőkben a medence takarítását, a gyógyászati víz kezelését és kötelező rendszeres laborvizsgálatát
+
+3.1. Takarítás (épületen belüli napi és időszakos takarítás, épületen kívüli takarítás, hóeltakarítás, csúszásmentesítés, kertgondozás és -ápolás)
+
+3.2.[^57] Vizesblokkok higiénés termékeinek kihelyezése
+
+3.2a.[^58] Betegforgalom részére megnyitott vizesblokkokban kézmosószer és toalettpapír biztosítása
+
+3.3. Épületen belüli szelektívhulladék-gyűjtés
+
+3.4. Épületen belüli kommunálishulladék-gyűjtés
+
+3.5. Rovar- és rágcsálóirtás
+
+4\. Biztonsági szolgáltatások
+
+4.1. Épület élőerős őrzés-védelme
+
+4.2. Recepciós és egyéb élőerős szolgáltatások
+
+5\. Biztonságtechnikai berendezések üzemeltetése
+
+5.1. Beépített tűzjelző és oltórendszerek üzemeltetése, karbantartása, javítása
+
+5.2. Beépített hő- és füstelvezető rendszerek üzemeltetése, karbantartása, javítása
+
+5.3.[^59] A létesítmény külső határoló elemeinek védelmét (héjvédelem) biztosító beléptető-, behatolásjelző és videomegfigyelő rendszerek műszaki infrastrukturális üzemeltetése, karbantartása, javítása
+
+5.4.[^60]
+
+6\. Épületekkel kapcsolatos, üzemeltetőt terhelő tűz- és munkavédelmi, valamint egyéb veszélyelhárítási feladatok ellátása
+
+6.1. Tűzoltó készülékek karbantartása, üzembentartói ellenőrzése
+
+6.2. Tűzcsapok karbantartása, üzembentartói ellenőrzése
+
+6.3. Tűz- és munkavédelmi szemle végzése
+
+6.4.[^61] Tűzvédelmi szabályzat készítésének üzemeltetői támogatása és felülvizsgálata
+
+6.5. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
+
+7.[^62]
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 95/2018. (V. 22.) Korm. rendelet 8. § 1. pontja, a 238/2022. (VI. 30.) Korm. rendelet 145. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 95/2018. (V. 22.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 168/2018. (IX. 17.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 771/2021. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés a) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a, a 218/2024. (VII. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés b) pontja a 206/2025. (VII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés c) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés d) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés f) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdés f) pont fa) alpontját a 206/2025. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^10]: A 3. § (1) bekezdés f) pont fb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 41. §-ával megállapított, az 539/2023. (XII. 6.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés g) pontja a 771/2021. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1) bekezdés i) pontja a 771/2021. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § (1) bekezdés m) pontját a 72/2019. (IV. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 644/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: A 3. § (1) bekezdés n) pontját a 83/2023. (III. 16.) Korm. rendelet 4. §-a iktatta be, szövege ugyanezen módosító rendelet 6. §-a szerint módosított szöveg.
+[^16]: A 3. § (1) bekezdés o) pontját a 206/2025. (VII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 452/2025. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 3. § (1a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: A 3. § (1b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^19]: A 3. § (2) bekezdését a 293/2017. (X. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 206/2025. (VII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^20]: A 3. § (3) bekezdése a 293/2017. (X. 10.) Korm. rendelet 1. § (3) bekezdésével megállapított, nyitó szövegrésze a 168/2018. (IX. 17.) Korm. rendelet 2. § c) pontja, a 703/2020. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^21]: A 3. § (3) bekezdés b) pontját a 384/2020. (VIII. 7.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 703/2020. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: A 3. § (3a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 95/2018. (V. 22.) Korm. rendelet 8. § 4. pontja szerint módosított szöveg.
+[^23]: A 3. § (3b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^24]: A 3. § (3c) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^25]: A 3. § (3d) bekezdését a 72/2019. (IV. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^26]: A 3. § (4) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, nyitó szövegrésze a 206/2025. (VII. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^27]: A 3. § (4) bekezdés b) pontja a 206/2025. (VII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^28]: A 3. § (4) bekezdés g) pontja a 206/2025. (VII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^29]: A 3. § (5) bekezdését a 771/2021. (XII. 23.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^30]: A 4. § (1) bekezdés nyitó szövegrésze a 168/2018. (IX. 17.) Korm. rendelet 2. § e) pontja, a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^31]: A 4. § (2) bekezdése a 293/2017. (X. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: A 4. § (3) bekezdése a 95/2018. (V. 22.) Korm. rendelet 8. § 1. pontja, a 238/2022. (VI. 30.) Korm. rendelet 145. § b) pontja szerint módosított szöveg.
+[^33]: Az 5/A. §-t a 397/2022. (X. 20.) Korm. rendelet 13. §-a iktatta be.
+[^35]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^36]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK pont 6.2. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 6.5. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^38]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 9. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^39]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 10. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^40]: Az 1. melléklet II. pont 3.2. alpontja a 72/2019. (IV. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^41]: Az 1. melléklet II. ELLÁTÁSI SZOLGÁLTATÁSOK pont 10.1. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet II. ELLÁTÁSI SZOLGÁLTATÁSOK pont 10.2. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet II. ELLÁTÁSI SZOLGÁLTATÁSOK pont 13. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^44]: Az 1. melléklet II. ELLÁTÁSI SZOLGÁLTATÁSOK pont 14. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^45]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^46]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.3.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.3.3. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.2.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^49]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.9.1. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^50]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1. pont 1.10. alpont 1.10.1. pontja a 771/2021. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^51]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1. pont 1.10. alpont 1.10.2. pontja a 771/2021. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.11.1. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^53]: A 2. mellékletet a 293/2017. (X. 10.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^54]: A 3. mellékletet a 83/2023. (III. 16.) Korm. rendelet 5. §-a iktatta be.
+[^55]: A 3. melléklet 2.5. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^56]: A 3. melléklet 3. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^57]: A 3. melléklet 3.2. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^58]: A 3. melléklet 3. pont 3.2a. alpontját a 315/2025. (X. 17.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A 3. melléklet 5.3. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^60]: A 3. melléklet 5.4. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^61]: A 3. melléklet 6.4. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^62]: A 3. melléklet 7. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.

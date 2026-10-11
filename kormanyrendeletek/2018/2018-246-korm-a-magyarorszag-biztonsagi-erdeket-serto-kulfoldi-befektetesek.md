@@ -1,0 +1,394 @@
+---
+title: "246/2018. (XII. 17.) Korm. rendelet a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról"
+identifier: "246/2018. (XII. 17.) Korm. rendelet"
+njt_id: "2018-246-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/246"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-17
+in_force_from: 2019-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-246-20-22"
+retrieved: 2026-10-12
+---
+
+# 246/2018. (XII. 17.) Korm. rendelet a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról
+
+A Kormány
+
+a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § a) pontjában kapott felhatalmazás alapján,
+
+a 2. alcím és az 1. melléklet tekintetében a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § b) pontjában kapott felhatalmazás alapján,
+
+a 3–7. alcím tekintetében a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § c) pontjában kapott felhatalmazás alapján,
+
+a 8. alcím és a 2. melléklet tekintetében a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § d) pontjában kapott felhatalmazás alapján,
+
+a 9. alcím tekintetében a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § e) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A bejelentéssel összefüggő eljárás lefolytatására jogosult miniszter kijelölése
+
+### 1. §[^1]
+
+A Kormány
+
+a) a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvényben (a továbbiakban: Törvény) meghatározott bejelentéssel (a továbbiakban: bejelentés) összefüggő eljárás lefolytatására, valamint
+
+b) a Törvény tekintetében az (EU) 2019/452 európai parlamenti és tanácsi rendeletben a tagállamok számára meghatározott jogosultságok gyakorlására, illetve kötelezettségek teljesítésére
+
+a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+
+## 2. A bejelentési kötelezettség alá tartozó tevékenységek köre
+
+### 2. §
+
+A Törvényben meghatározott bejelentési kötelezettség alá – a Törvény 2. § (4) bekezdése szerinti tevékenységi körökön belül – az 1. mellékletben meghatározott tevékenységek tartoznak.
+
+## 3. A bejelentés és a miniszter bejelentéssel összefüggő eljárásának részletes szabályai
+
+### 3. §
+
+A tulajdonszerzésre vagy az üzemeltetési jog megszerzésére irányuló jogügyletet az arra irányuló szerződés, előszerződés vagy az ezek megkötésére irányuló megállapodás létrejöttétől, az újonnan felvett tevékenység cégnyilvántartásba történt bejegyzését a bejegyzés megtörténtétől számított tíz napon belül, – jogszabály eltérő rendelkezésének hiányában – magyar nyelven kell bejelenteni a miniszternél.
+
+### 4. §
+
+(1) A bejelentésnek tartalmaznia kell
+
+a) a külföldi befektető természetes személy
+
+aa) természetes személyazonosító adatait és magyarországi lakcím adatát vagy szálláshelyét, valamint – magyarországi lakcímadat vagy szálláshely hiányában – külföldi lakó- vagy tartózkodási helyét,
+
+ab) állampolgárságát,
+
+ac) írásbeli kapcsolattartásra szolgáló elérhetőségét,
+
+b) a külföldi befektető jogi személy vagy egyéb szervezet
+
+ba) nevét, székhelyét és magyarországi fióktelepének címét,
+
+bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
+
+bc) írásbeli kapcsolattartásra szolgáló elérhetőségét,
+
+c)[^2] a külföldi befektető képviseletében eljáró természetes személy *a)* pontban megjelölt adatait,
+
+d)[^3] a külföldi befektető képviseletében eljáró jogi személy vagy egyéb szervezet *b)* pontban megjelölt adatait, valamint.
+
+e)[^4] az (EU) 2019/452 európai parlamenti és tanácsi rendelet 9. cikk (2) bekezdése szerinti adatokat.
+
+(2) A bejelentéshez csatolni kell a Törvény 5. § (2) bekezdésében meghatározott, valamint – jogszabály eltérő rendelkezésének hiányában – a tulajdonszerzésre vagy az üzemeltetési jog megszerzésére irányuló jogügylettel, illetve az újonnan felvett tevékenység cégjegyzékbe történt bejegyzésével összefüggésben keletkezett okiratokat, ideértve a tulajdonszerzésre vagy az üzemeltetési jog megszerzésére irányuló jogügyletre irányuló szerződést, előszerződést vagy az ezek megkötésére irányuló megállapodást is.
+
+(3) A bejelentéshez mellékelni kell az e rendelet előírásai szerint csatolandó valamennyi okirat eredeti példányát vagy hiteles másolatát, valamint – jogszabály eltérő rendelkezésének hiányában – a nem magyar nyelven kiállított okiratok hiteles magyar nyelvű fordítását.
+
+### 5. §
+
+A bejelentéssel összefüggő eljárása során a miniszter a külföldi befektetővel, valamint az annak képviseletében eljáróval a bejelentésben megjelölt elérhetőségeken tart kapcsolatot. Ha a bejelentésben megjelölt elérhetőségen a külföldi befektető, illetve az annak képviseletében eljáró nem elérhető, ennek következményeit – jogszabály eltérő rendelkezésének hiányában – a külföldi befektető viseli.
+
+### 6. §
+
+A bejelentésre – a Törvényben, valamint az e rendeletben foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit, azzal, hogy ahol az általános közigazgatási rendtartásról szóló törvény ügyfelet említ, azon a bejelentést tevő külföldi befektetőt kell érteni.
+
+### 7. §
+
+(1) A bejelentés megérkezéséről a miniszter írásbeli értesítést küld, amely – a (2) bekezdésben foglaltakra is figyelemmel – tartalmazza
+
+a) a bejelentés megérkezésének napját,
+
+b) a bejelentő külföldi befektető nevét,
+
+c) annak megjelölését, hogy tulajdonszerzés, üzemeltetési jog megszerzése vagy újonnan felvett tevékenység bejelentésére került-e sor, valamint
+
+d) az arra vonatkozó figyelemfelhívást, hogy az értesítés csak a bejelentés megérkezésének tényéről szól és nem tekinthető a Törvény szerinti, a bejelentés tudomásulvételéről szóló visszaigazolásnak.
+
+(2) Ha a bejelentéssel összefüggésben a miniszter megállapítja, hogy az nem felel meg a Törvényben vagy az e rendeletben meghatározott követelményeknek, ennek tényéről és okairól az (1) bekezdés szerinti értesítésben tájékoztatja a külföldi befektetőt, valamint szükség esetén felhívja a hiánypótlásra.
+
+### 7/A. §[^5]
+
+A bejelentés megérkezését követően a miniszter haladéktalanul az (EU) 2019/452 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdése szerinti kapcsolattartó pont (a továbbiakban: nemzeti kapcsolattartó pont) rendelkezésére bocsátja az (EU) 2019/452 európai parlamenti és tanácsi rendeletben az átvilágítást végző tagállam számára meghatározott kötelezettségek teljesítése érdekében szükséges adatokat.
+
+### 8. §
+
+(1) A bejelentéssel összefüggő eljárása során a miniszter a bejelentéssel összefüggő eljárás lefolytatásához szükséges, a bejelentésben meg nem jelölt további adatok és információk közlésére, illetve a bejelentéshez nem mellékelt további okiratok becsatolására hívhatja fel a külföldi befektetőt, legfeljebb 45 napos határidő kitűzése mellett.
+
+(2)[^6] Az (1) bekezdés szerinti felhívás eredménytelen volta esetén a miniszter a felhívást egy alkalommal megismétli. Ha a második felhívás is eredménytelen marad, a határidő elteltét követően a miniszter a bejelentéssel összefüggő eljárást – a Törvény 6. § (4) bekezdése szerinti visszaigazolást vagy döntéshozatalt mellőzve – megszünteti.
+
+(3) A bejelentéssel összefüggő eljárás (2) bekezdés szerinti megszüntetése a Törvény 9. § (1) bekezdése szerinti ellenőrzés lefolytatásának nem akadálya.
+
+(4) A bejelentéssel összefüggő eljárás (2) bekezdés szerinti megszüntetése esetén a külföldi befektető tájékoztatására az 5. §-ban foglalt rendelkezést megfelelően alkalmazni kell.
+
+### 9. §
+
+(1) Ha a bejelentés tudomásulvételéről szóló visszaigazolásának vagy a tiltó döntésnek a kézhezvételéig a miniszterhez előterjesztett kérelmében a bejelentést a külföldi befektető írásban visszavonja, a miniszter a Törvény 6. § (4) bekezdésének alkalmazását mellőzi és a bejelentéssel összefüggő eljárást megszünteti, vagy a Törvény 6. § (4) bekezdés a) pontja szerinti tudomásulvételt, illetve a Törvény 6. § (4) bekezdés b) pontja szerinti tiltó döntést visszavonja. A bejelentéssel összefüggő eljárás megszüntetése a Törvény 9. § (1) bekezdése szerinti ellenőrzés lefolytatásának nem akadálya.
+
+(2) A bejelentéssel összefüggő eljárás (1) bekezdés szerinti megszüntetése esetén az 5. §-ban foglalt rendelkezést megfelelően alkalmazni kell.
+
+### 10. §
+
+(1) A bejelentés tudomásulvételéről szóló visszaigazolásokról, valamint a tiltó döntésekről a miniszter nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartásban rögzített adatokat a Törvény 6. § (10) bekezdésében megjelölt határidő elteltével törölni kell.
+
+## 4. A bejelentéssel összefüggő eljárásba bevonható szervek köre és a bevont szervek eljárásának részletes szabályai
+
+### 11. §
+
+(1) A bejelentéssel összefüggő eljárásba – a miniszter döntése szerint – a törvényben meghatározott feladatköre szerint érintett állami szerv bevonható (a továbbiakban: eljárásba bevont szerv).
+
+(2) Az eljárásba bevont szervnek címzett megkeresésben meg kell jelölni a (3) bekezdés szerinti javaslattétel szempontjából lényeges adatokat és információkat, valamint ki kell tűzni a válaszadás határidejét.
+
+(3) A (2) bekezdés szerinti megkeresésre adandó válaszában az eljárásba bevont szerv – kellő részletességű indokolással ellátott – javaslatot tesz a bejelentés tudomásulvételére vagy a tiltó döntés meghozatalára, amely javaslat nem köti a minisztert.
+
+(4) Ha a (3) bekezdés szerinti javaslattétel érdekében a megkeresésben meg nem jelölt további adatok és információk beszerzése, vagy a törvényben meghatározott feladatköre szerint érintett állami szervnek a bejelentéssel összefüggő eljárásba történő bevonása válik szükségessé, az eljárásba bevont szerv erről haladéktalanul tájékoztatja a minisztert.
+
+(5) A válaszadásra kitűzött határidő elmulasztása, illetve az eljárásba bevont szerv válaszának hiánya a bejelentés tudomásulvételének vagy a tiltó döntés meghozatalának nem akadálya.
+
+## 5. A külföldi befektető adatszolgáltatási kötelezettségének részletes szabályai
+
+### 12. §
+
+(1) A bejelentéssel összefüggő eljárás időtartama alatt, valamint a bejelentés tudomásulvételét követően a bejelentésben, illetve az ahhoz csatolt okiratokban rögzített adatok megváltozását a külföldi befektető a változásról való tudomásszerzést követő öt napon belül köteles bejelenteni a miniszternek.
+
+(2) Az adatszolgáltatási kötelezettséget a 4. §-ban foglaltak megfelelő alkalmazásával kell teljesíteni azzal, hogy az azonosítására szolgáló adatok mellett a külföldi befektető mindazon adatokat köteles bejelenteni, amelyeket az adatváltozás érinti, továbbá köteles csatolni az adatváltozással kapcsolatos dokumentumokat.
+
+## 6. A tiltó döntéshez fűzött egyszerűsített indokolásra vonatkozó követelmények
+
+### 13. §
+
+(1) A Törvény 6. § (4) bekezdés b) pontja szerinti tiltó döntéshez fűzött egyszerűsített indokolás
+
+a)[^7] a bejelentési kötelezettség alá tartozó tulajdonszerzésben, üzemeltetésijog-megszerzésben, illetve újonnan felvett tevékenység folytatásában (e § alkalmazásában a továbbiakban együtt: jogügylet) érintett külföldi befektető megnevezését,
+
+b) a jogügylettel érintett tevékenység 1. melléklet szerinti megjelölését,
+
+c) a jogügylettel sértett biztonsági érdek vagy érdekkör megjelölését,
+
+d) a Törvény 6. § (5) bekezdése szerinti esetben az ellenőrzés időtartamának meghosszabbítását szükségessé tevő körülmények bemutatását,
+
+e) – szükség esetén – a Törvény 6. § (6) bekezdése szerinti minősítést magalapozó, valamint az ott meghatározott visszaélést valószínűsítő körülmények bemutatását, továbbá
+
+f) a bejelentéssel összefüggő eljárás során alkalmazott jogszabályi rendelkezésekre való hivatkozást
+
+tartalmazza.
+
+(2) Ha a tiltó döntés meghozatalára a Törvény 9. § (2) bekezdés b) pontja alapján kerül sor, az egyszerűsített indokolás
+
+a) a külföldi befektetői minőséget és a bejelentési kötelezettségnek a Törvény 2. § (1) vagy (2) bekezdése, illetve 4. § (1) bekezdése szerinti fennálltát megalapozó körülményeket, valamint
+
+b) az (1) bekezdés a)–f) pontjában meghatározott elemeket
+
+tartalmazza.
+
+(3) A tiltó döntéshez fűzött egyszerűsített indokolás minősített adatot nem tartalmazhat.
+
+## 7. A Törvény 9. § (1) bekezdése szerinti ellenőrzés részletes szabályai
+
+### 14. §
+
+(1) A Törvény 9. § (1) bekezdése szerinti ellenőrzést (ezen alcím alkalmazásában a továbbiakban: ellenőrzés) az Alkotmányvédelmi Hivatal végzi.
+
+(2) Az ellenőrzésbe a törvényben meghatározott feladatköre szerint érintett állami szerv – az Alkotmányvédelmi Hivatal döntése szerint – bevonható.
+
+### 15. §
+
+Az ellenőrzés a cégnyilvántartásban, illetve a részvénykönyvben rögzített adatok nyomon követésére is kiterjed.
+
+### 16. §
+
+(1) Ha az ellenőrzés lefolytatását az ügyfél kéri, az erre irányuló kérelem (e § alkalmazásában a továbbiakban: kérelem) az Alkotmányvédelmi Hivatalnál, kizárólag írásban terjeszthető elő.
+
+(2) A kérelem a kormányablaknál nem terjeszthető elő.
+
+### 17. §
+
+Ha a Törvény alapján a miniszter hatáskörébe utalt jogkörök gyakorlása érdekében szükséges, az ellenőrzés során feltárt tényekről az Alkotmányvédelmi Hivatal haladéktalanul, írásban tájékoztatja a minisztert, amelyben szükség szerint a Törvény 9. § (2), (3), illetve (5) bekezdésében meghatározott intézkedés megtételére is javaslatot tesz. Az Alkotmányvédelmi Hivatal javaslata nem köti a minisztert.
+
+### 18. §
+
+Az ellenőrzés eredményeképpen hozott – a Törvény 9. § (2) bekezdés a) vagy b) pontja szerinti – visszaigazolásokról vagy döntésekről a miniszter nyilvántartást vezet. A Törvény 6. § (10) bekezdésében megjelölt határidő elteltével a nyilvántartásban rögzített adatokat törölni kell.
+
+### 19. §
+
+Ha jogszabály előírásából kifejezetten más nem következik, e rendeletnek a bejelentés tudomásulvételéről szóló visszaigazolásra vagy a tiltó döntésre vonatkozó előírásait a Törvény 9. § (2) bekezdés a) vagy b) pontja szerinti visszaigazolások vagy döntések tekintetében is megfelelően alkalmazni kell.
+
+## 8. A Törvény 7. § (2) bekezdésével érintett tevékenységek engedélyezésére irányuló eljárások
+
+### 20. §
+
+A Törvény 7. § (2) bekezdésével érintett tevékenységek engedélyezésére irányuló eljárásokat a 2. melléklet tartalmazza.
+
+## 9. A bírság megállapításának szempontrendszere és a kiszabásának eljárására vonatkozó részletes szabályok
+
+### 21. §
+
+A Törvény 10. § (1) bekezdése szerinti bírság összegének megállapítása során
+
+a) az annak kiszabására okot adó jogsértés
+
+aa) tárgyi súlyát,
+
+ab) Magyarország biztonságára gyakorolt hatását, továbbá
+
+b) a bírságfizetésre kötelezettnek
+
+ba) az 1. melléklet hatálya alá tartozó tevékenységének mibenlétét, valamint
+
+bb) a Törvényben, illetve az e rendeletben meghatározott eljárások során vagy más hivatalos forrásból megismert vagyoni helyzetét
+
+kell figyelembe venni.
+
+## 9/A. [^8] Az (EU) 2019/452 európai parlamenti és tanácsi rendeletben a tagállamok számára biztosított egyes jogosultságok gyakorlása és kötelezettségek teljesítésére vonatkozó részletes szabályok
+
+### 21/A. §
+
+A más tagállam által végzett átvilágítással, illetve a más tagállamban tervezett vagy megvalósult közvetlen külföldi befektetéssel összefüggésben a tagállamok számára biztosított jogosultságokat – az (EU) 2019/452 európai parlamenti és tanácsi rendeletben meghatározott követelményeknek megfelelően – a miniszter a nemzeti kapcsolattartó ponton keresztül gyakorolja.
+
+### 21/B. §
+
+A miniszter haladéktalanul a nemzeti kapcsolattartó pont rendelkezésére bocsátja az Európai Bizottságot megillető magyarázat megadása érdekében szükséges adatokat abban az esetben, ha a Törvény 9. § (3)–(6) bekezdése szerinti intézkedések megtételére vagy mellőzésére az Európai Bizottságnak az (EU) 2019/452 európai parlamenti és tanácsi rendelet 8. cikke szerinti véleménye ellenében került sor.
+
+## 9/B. [^9] A nemzeti kapcsolattartó pont kijelölése és a feladatellátására vonatkozó részletes szabályok
+
+### 21/C. §
+
+(1) A Törvény tekintetében nemzeti kapcsolattartó pontként a Kormány a külgazdasági ügyekért felelős miniszter által vezetett minisztériumot jelöli ki.
+
+(2) A nemzeti kapcsolattartó pont haladéktalanul
+
+a) tájékoztatja – az Alkotmányvédelmi Hivatal útján – a minisztert az (EU) 2019/452 európai parlamenti és tanácsi rendelet 11. cikk (2) bekezdése szerinti információs rendszeren (a továbbiakban: információs rendszer) keresztül beérkező adatokról és megkeresésekről, valamint
+
+b) továbbítja az információs rendszeren keresztül a számára a miniszter által e célból megküldött adatokat és megkereséseket.
+
+## 10. Záró rendelkezések
+
+### 22. §
+
+Ez a rendelet 2019. január 1-jén lép hatályba.
+
+### 23. §[^10]
+
+Az 1. § b) pontja, a 4. § (1) bekezdés e) pontja, a 7/A. §, valamint a 9/A. és a 9/B. alcím az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 246/2018. (XII. 17.) Korm. rendelethez
+
+**A TÖRVÉNYBEN MEGHATÁROZOTT TEVÉKENYSÉGI KÖRÖKÖN BELÜL BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ TEVÉKENYSÉGEK**
+
+**1. A fegyver- és lőszergyártás, valamint az engedélyköteles haditechnikai eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1\. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvényben (a továbbiakban: Ftv.) meghatározott lőfegyvernek, lőfegyverdarabnak, a muzeális lőszer kivételével a lőszernek, valamint a flóberttölténynek az Ftv. 2. § 20. pontja szerinti gyártása.
+
+2\. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet (a továbbiakban: Hkr.) 1. mellékletében meghatározott – az 1. pont, valamint a 3. alcím 1. pontjának hatálya alá nem tartozó – eszköznek a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) 1. § d) pontja szerinti gyártása, ide nem értve a Hkr. 1. melléklet XXV. Fejezet „1. Kényszerítő eszközök:” pontjában meghatározott eszközök gyártását.
+
+**2. A kettős felhasználású termék előállítása körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1.[^11] A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló 13/2011. (II. 22.) Korm. rendelet hatálya alá tartozó termék előállítása.
+
+**3. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló kormányrendeletben meghatározott titkosszolgálati eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1\. A Hkr. 1. melléklet XXVI. FEJEZETÉBEN meghatározott eszköznek a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 1. § d) pontja szerinti gyártása.
+
+**4. A hitelintézetekről és pénzügyi vállalkozásokról szóló** törvény**ben meghatározott pénzügyi szolgáltatás nyújtása és a kiegészítő pénzügyi szolgáltatások közül a fizetési rendszer működtetése körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1\. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés k) pontja szerinti hitelreferencia-szolgáltatások közül a Hpt. 6. § (1) bekezdés 42. pont b) alpontja szerinti, a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert kezelő pénzügyi vállalkozás által történő adatkezelés.
+
+2\. A Hpt. 3. § (2) bekezdés b) pontja szerinti fizetési rendszer működtetése, ide nem értve a kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében történő működtetést.
+
+**5.**[^12] **A villamos energiáról szóló** törvény **hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Kszetv.) 3. § 28. pontja szerinti kritikus infrastruktúra közvetlen igénybevétele útján végzik.
+
+1\. A villamos energiának a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. § 1. pontja szerinti átvitele.
+
+2\. A villamos energiának a VET 3. § 8. pontja szerinti elosztása.
+
+3\. A VET 3. § 51. pontja szerinti rendszerirányítás.
+
+4\. A villamos energiának a legalább 50 MW névleges teljesítőképességű erőműre vonatkozó működési engedéllyel rendelkező termelési engedélyes részéről történő, a VET 3. § 57. pontja szerinti termelése.
+
+**6.**[^13] **A földgázellátásról szóló** törvény **hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a Kszetv. 3. § 28. pontja szerinti kritikus infrastruktúra közvetlen igénybevétele útján végzik.
+
+1\. A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 24. pontja szerinti földgázelosztás.
+
+2\. A GET 3. § 31. pontja szerinti földgáztárolás.
+
+3\. A GET 3. § 34. pontja szerinti földgázszállítás.
+
+4\. A GET 3. § 52. pontja szerinti rendszerirányítás.
+
+**7.**[^14] **A víziközmű-szolgáltatásról szóló** törvény **hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a Kszetv. 3. § 28. pontja szerinti kritikus infrastruktúra közvetlen igénybevétele útján végzik.
+
+1\. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vszktv.) 2. § 13. pontja szerinti kiszervezés.
+
+2\. A Vszktv. 2. § 21. pontja szerinti víziközmű-fejlesztés.
+
+**8. Az elektronikus hírközlésről szóló** törvény **hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1.[^15] Olyan – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 16. pontja szerinti – elektronikus hírközlési szolgáltatás nyújtása, amely szolgáltatás nyújtása érdekében üzemeltetett elektronikus hírközlő hálózatban a Kszetv. 3. § 28. pontja szerinti kritikus infrastruktúra vagy a Kszetv. 3. § 13. pontja szerinti európai kritikus infrastruktúra található.
+
+**9.**[^16] **Magyarország kiberbiztonságáról szóló** 2024. évi LXIX. törvény 1. § (1) bekezdés a)–c) pont**ja szerinti szervezet, a** Kszetv. **alapján kritikus szervezetként kijelölt szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló** 2021. évi XCIII. törvény **alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában bejelentési kötelezettség alá tartozó tevékenységek**
+
+1\. A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában a Kiberbiztonsági tv. 6. § (5) bekezdés d) pontja szerinti tevékenység végzése vagy az abban való közreműködés.
+
+2\. A Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában a Kiberbiztonsági tv. szerinti sérülékenységvizsgálat elvégzése.
+
+**10.**[^17] **A biztosítási tevékenységről szóló** 2014. évi LXXXVIII. törvény **szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek**
+
+1\. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosítási és viszontbiztosítási tevékenység.
+
+2\. A Bit. 40. § (3) bekezdés a) és e) pontja szerinti biztosítással közvetlenül összefüggő tevékenységek.
+
+## 2. melléklet a 246/2018. (XII. 17.) Korm. rendelethez
+
+**A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉRE IRÁNYULÓ ELJÁRÁSOK**
+
+**1. A fegyver- és lőszergyártás, valamint az engedélyköteles haditechnikai eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységekkel összefüggésben**
+
+1\. A lőfegyver Ftv. 3. § (1) bekezdés a) pontja szerinti gyártásának engedélyezésére irányuló eljárás.
+
+2\. A lőfegyverdarab Ftv. 3. § (1) bekezdés a) pontja szerinti gyártásának engedélyezésére irányuló eljárás.
+
+3\. A muzeális lőszer kivételével a lőszer Ftv. 3. § (1) bekezdés a) pontja szerinti gyártásának engedélyezésére irányuló eljárás.
+
+4\. A flóberttöltény Ftv. 3. § (1) bekezdés a) pontja szerinti gyártásának engedélyezésére irányuló eljárás.
+
+5.[^18] A Hkr. 1. mellékletében meghatározott – a 2. alcím 1. pontjának hatálya alá nem tartozó – eszköznek a Httv. 1. § d) pontja szerinti gyártása, ide nem értve a Hkr. 1. melléklet XXV. Fejezet „1. Kényszerítő eszközök:” pontjában meghatározott eszközök gyártását.
+
+**2. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló kormányrendeletben meghatározott titkosszolgálati eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységekkel összefüggésben**
+
+1\. A Hkr. 1. melléklet XXVI. FEJEZETÉBEN meghatározott – az 1. alcím 1. pontjának hatálya alá nem tartozó – eszköz gyártásának a Httv. 2. § (1) bekezdése szerinti engedélyezésére irányuló eljárás.
+
+**3. A víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységekkel összefüggésben**
+
+1\. A víziközmű-szolgáltatónak a Polgári Törvénykönyvről szóló törvény szerinti egyesüléséhez, szétválásához, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához történő hozzájárulás.
+
+2\. A víziközmű-szolgáltatóban a szavazatok huszonöt vagy ötven százalékát meghaladó, illetve hetvenöt százalékát elérő befolyás szerzéséhez, és az ehhez fűződő jogok gyakorlásához történő hozzájárulás.
+
+3\. A kiszervezés előzetes engedélyezése.
+
+---
+
+[^1]: Az 1. § a 802/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdés c) pontja a 802/2021. (XII. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés d) pontja a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés e) pontját a 802/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 7/A. §-t a 802/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 8. § (2) bekezdése a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 13. § (1) bekezdés a) pontja a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 9/A. alcímet (21/A–21/B. §) a 802/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 9/B. alcímet (21/C. §) a 802/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 23. §-t a 802/2021. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^11]: Az 1. melléklet 2. alcím 1. pontja a 610/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 5. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés d) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § a) pontja, a 474/2024. (XII. 31.) Korm. rendelet 159. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 6. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § b) pontja, a 474/2024. (XII. 31.) Korm. rendelet 159. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 7. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § c) pontja, a 474/2024. (XII. 31.) Korm. rendelet 159. § c) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 8. alcím 1. pontja a 610/2022. (XII. 28.) Korm. rendelet 2. § d) pontj, a 474/2024. (XII. 31.) Korm. rendelet 159. § d) pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 9. alcíme (1–2. pont) a 418/2024. (XII. 23.) Korm. rendelet 134. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^18]: A 2. melléklet 1. alcím 5. pontja a 610/2022. (XII. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.

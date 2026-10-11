@@ -1,0 +1,307 @@
+---
+title: "281/2011. (XII. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "281/2011. (XII. 20.) Korm. rendelet"
+njt_id: "2011-281-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/281"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-20
+in_force_from: 2011-12-21
+last_amended: 2012-04-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-281-20-22"
+retrieved: 2026-10-12
+---
+
+# 281/2011. (XII. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és orosz nyelvű szövege a következő:
+
+„GAZDASÁGI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS\
+A MAGYAR KÖZTÁRSASÁG KORMÁNYA\
+ÉS AZ ÜZBÉG KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+
+A Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya, a továbbiakban Felek,
+
+attól az óhajtól vezérelve, hogy erősítsék az országaik között fennálló baráti kapcsolatokat és fejlesszék gazdasági és egyéb kapcsolataikat;
+
+törekedve arra, hogy folytassák és tökéletesítsék hagyományos gazdasági kapcsolataikat, valamint attól a szándéktól vezetve, hogy fejlesszék és intenzívebbé tegyék a kölcsönös előnyökön nyugvó gazdasági, ipari, tudományos és műszaki együttműködésüket;
+
+azzal a meggyőződéssel, hogy a szerződéses keretek bővítése megfelelő és kedvező alapot teremt a további együttműködéshez;
+
+az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+A Felek előmozdítják az együttműködés bővítését és annak diverzifikálását a gazdasági és szociális fejlesztések terén a Felek államaiban hatályos jogszabályokkal és azon nemzetközi szerződésekkel összhangban, amelyekben a Felek államai részesek.
+
+**2. cikk**
+
+Figyelembe véve a gazdasági kapcsolataik jelenlegi helyzetét és azok fejlesztésének perspektíváit, a Felek egyetértenek abban, hogy a hosszú távú együttműködés feltételei többek között, de nem kizárólag, a következő területeken kedvezőek:
+
+*a)* energetikai szektor;
+
+*b)* ásványi nyersanyag-készletek és bányászati termékek feltárása, kitermelése és feldolgozása, valamint értékesítése;
+
+*c)* mezőgazdaság, élelmiszer- és feldolgozóipar;
+
+*d)* építőipar, valamint építőanyag- és berendezésgyártás;
+
+*e)* vegyipar;
+
+*f)* textilipar;
+
+*g)* csomagolástechnológia;
+
+*h)* környezetvédelem, a vízkészletek racionális felhasználása és védelme;
+
+*i)* fafeldolgozó-ipar;
+
+*j)* oktatás;
+
+*k)* humánerőforrás-fejlesztés;
+
+*l)* egészségügyi szolgáltatások nyújtása, gyógyászati technológiák és a gyógyszeripar;
+
+*m)* turizmus, sport és üdültetés;
+
+*n)* együttműködés a kis- és középvállalkozási szektor terén;
+
+*o)* kommunikáció;
+
+*p)* számítástechnika és információs technológia;
+
+*q)* közlekedés és logisztika;
+
+*r)* együttműködés a tudomány és technológia terén.
+
+**3. cikk**
+
+A Felek támogatják az együttműködés bővítését és intenzívebbé tételét az alábbiak segítségével:
+
+*a)* az üzleti szektor képviselői közötti kapcsolatok erősítése, beleértve a kölcsönös érdeklődésre számot tartó gazdasági kérdésekkel kapcsolatos nyilvános információk cseréjét;
+
+*b)* a jelen Megállapodás 2. cikkében felsorolt kérdésekben illetékes kormányzati szervek képviselői, szakmai szövetségek és üzleti körök, kereskedelmi és iparkamarák, valamint regionális szervek képviselőinek kölcsönös látogatásai;
+
+*c)* a két ország üzleti körei közötti kapcsolatok létrejöttének és javításának elősegítése természetes személyek, illetve üzletemberek látogatásainak és találkozóinak támogatásával;
+
+*d)* információk cseréje, vásárok és kiállítások megtartásának, valamint szemináriumok, szimpóziumok, konferenciák és egyéb találkozók megszervezésének támogatása;
+
+*e)* a kis- és közepes magánvállalkozások ösztönzése a kétoldalú gazdasági kapcsolatokban történő részvételre;
+
+*f)* az együttműködés támogatása a konzultációs, marketing célú és szakértői szolgáltatások nyújtása terén;
+
+*g)* a pénzügyi intézmények és a bankszektor tevékenységének elősegítése kapcsolataik szorosabbá tétele, valamint az együttműködésük megerősítése érdekében;
+
+*h)* a Felek országaiban a beruházási tevékenység ösztönzése, vegyesvállalatok, vállalati képviseletek és fiókirodák létrehozásának elősegítése;
+
+*i)* a régióközi és a nemzetközi szintű együttműködés előmozdítása a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+**4. cikk**
+
+Jelen Megállapodás megvalósítása céljából a Felek Gazdasági Együttműködési Kormányközi Bizottságot hozhatnak létre a Magyar Köztársaság és az Üzbég Köztársaság között (a továbbiakban: a „Kormányközi Bizottság”), mely a Felek illetékes állami szerveinek és vállalatainak képviselőiből áll. A Kormányközi Bizottság üléseire a Felek egyeztetései alapján a Magyar Köztársaságban és az Üzbég Köztársaságban felváltva kerül sor.
+
+A Bizottság feladatai a következők:
+
+– a kétoldalú gazdasági kapcsolatok fejlesztésének megvitatása,
+
+– új lehetőségek meghatározása a gazdasági együttműködés továbbfejlesztésére,
+
+– javaslatok kidolgozása a két ország vállalatai közötti gazdasági együttműködés feltételeinek javítására,
+
+– a kétoldalú gazdasági együttműködés helyzetének elemzése és értékelése,
+
+– javaslatok kidolgozása a jelen Megállapodás végrehajtása tekintetében.
+
+Amennyiben szükséges, a Bizottság az együttműködés meghatározott területeivel foglalkozó munkacsoportokat hoz létre.
+
+A Bizottság munkarendje annak első ülésén kerül meghatározásra. A Felek államaik hatályos jogszabályaival összhangban a Bizottság tevékenységével kapcsolatos költségeket önállóan viselik.
+
+**5. cikk**
+
+Jelen Megállapodás nem befolyásolhatja a Magyar Köztársaság Európai Uniós tagságából fakadó kötelezettségeit. Ennek megfelelően a Megállapodás rendelkezései sem együttesen, sem önmagukban nem alkalmazhatók, illetve értelmezhetők olyan módon, mint amelyek érvénytelenítik, módosítják vagy bármely más módon befolyásolják Magyarországnak különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+Jelen Megállapodás rendelkezései nem érintik az Üzbég Köztársaság nemzetközi szerződésekben való részvételéből, valamint nemzetközi szervezetekben való tagságából eredő jogait és kötelezettségeit.
+
+**6. cikk**
+
+A jelen Megállapodás a Felek kölcsönös egyetértésével módosítható és kiegészíthető, a módosítások és kiegészítések a jelen Megállapodás elválaszthatatlan részét képező jegyzőkönyvekben kerülnek rögzítésre.
+
+**7. cikk**
+
+A jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatban felmerülő vitákat a Felek tárgyalás útján rendezik.
+
+**8. cikk**
+
+Jelen Megállapodás a Felek saját belső jogrendje szerint a Megállapodás hatálybalépéséhez szükséges eljárási követelmények teljesítéséről szóló, diplomáciai úton eljuttatott utolsó írásbeli értesítés kézhezvételét követő harmincadik napon lép hatályba.
+
+Jelen Megállapodás határozatlan időre szól. A jelen Megállapodást bármelyik Fél felmondhatja, e szándékáról a másik Felet írásban értesíti. Ebben az esetben a jelen Megállapodás a felmondásról szóló értesítés átvételétől számított hat hónap elteltével szűnik meg.
+
+Kelt Taskent, 2011. év november hó 7. napján két példányban, magyar, üzbég és orosz nyelven, mindegyik szöveg egyaránt hiteles. A jelen Megállapodás rendelkezéseinek eltérő értelmezése esetén a Felek az orosz változatot tekintik irányadónak.
+
+A MAGYAR KÖZTÁRSASÁG\
+KORMÁNYA RÉSZÉRŐL
+
+AZ ÜZBÉG KÖZTÁRSASÁG\
+KORMÁNYA RÉSZÉRŐL
+
+**СОГЛАШЕНИЕ**
+
+**МЕЖДУ**
+
+**ПРАВИТЕЛЬСТВОМ ВЕНГЕРСКОЙ РЕСПУБЛИКИ**
+
+**И**
+
+**ПРАВИТЕЛЬСТВОМ РЕСПУБЛИКИ УЗБЕКИСТАН**
+
+**ОБ ЭКОНОМИЧЕСКОМ СОТРУДНИЧЕСТВЕ**
+
+Правительство Венгерской Республики и Правительство Республики Узбекистан, именуемые в дальнейшем Сторонами,
+
+желая укрепить дружественные отношения и развивать экономические и другие отношения между государствами Сторон;
+
+стремясь продолжить и улучшить свои традиционные экономические отношения, а также намереваясь развить и интенсифицировать свое экономическое, индустриальное, промышленное и научно-техническое сотрудничество на взаимовыгодной основе;
+
+будучи убежденными, что расширение договорных условий обеспечит надлежащие и благоприятные основы для дальнейшего сотрудничества;
+
+согласились о нижеследующем:
+
+**Статья 1**
+
+Стороны содействуют расширению и диверсификации сотрудничества в области экономического и социального развития в соответствии с национальными законодательствами своих государств и положениями международных договоров, участниками которых являются государства Сторон.
+
+**Статья 2**
+
+Учитывая состояние и перспективы развития экономических отношений Стороны соглашаются, что благоприятные условия для долгосрочного сотрудничества существуют, включая, но не ограничиваясь в таких сферах как:
+
+а) энергетический сектор;
+
+б) разведка, добыча и переработка, а также продажа минерально-сырьевых ресурсов и продуктов горнодобывающей промышленности;
+
+в) сельское хозяйство, пищевая и перерабатывающая промышленность;
+
+г) строительство и производство строительных материалов и оборудования;
+
+д) химическая промышленность;
+
+е) текстильная промышленность;
+
+ж) упаковочная технология;
+
+з) охрана окружающей среды, рациональное использование и охрана водных ресурсов;
+
+и) деревообрабатывающая промышленность;
+
+й) образование;
+
+к) развитие человеческих ресурсов;
+
+л) предоставление услуг в сфере здравоохранения, медицинские технологии, фармацевтическая промышленность;
+
+м) туризм, спорт и курортное дело;
+
+н) сотрудничество в сфере малого и среднего бизнеса;
+
+о) коммуникация;
+
+п) компьютерные и информационные технологии;
+
+р) транспорт и логистика;
+
+с) сотрудничество в научно-технической области.
+
+**Статья 3**
+
+Стороны поддерживают расширение и интенсификацию сотрудничества, путем:
+
+а) укрепления связей между представителями бизнес сектора, включая обмен общедоступной информацией по экономическим вопросам, представляющим взаимный интерес;
+
+б) обмена визитами представителей правительственных организаций, профессиональных ассоциаций и бизнес кругов, торгово-промышленных палат, а также представителей региональных органов, курирующих вопросы, отмеченные в статье 2 настоящего Соглашения;
+
+в) содействия в установлении и улучшении связей между деловыми кругами двух стран, поддерживая визиты и встречи физических лиц и бизнесменов;
+
+г) обмена информацией, оказания поддержки в проведении ярмарок и выставок, организации семинаров, симпозиумов, конференций и других встреч;
+
+д) поощрения участия малых и средних предприятий частного сектора в двусторонних экономических отношениях;
+
+е) оказания поддержки сотрудничеству в сфере консалтинговых, маркетинговых и экспертных услуг;
+
+ж) поощрения деятельности финансовых институтов и банковского сектора в установлении тесных контактов и укреплении сотрудничества;
+
+з) оказания поддержки инвестиционной деятельности в государствах сторон, создания совместных предприятий, представительств и филиалов компаний;
+
+и) развития межрегионального и международного сотрудничества, представляющего взаимный интерес.
+
+**Статья 4**
+
+В целях реализации настоящего Соглашения, Сторонами может быть создана Межправительственная Комиссия по экономическому сотрудничеству между Венгерской Республикой и Республикой Узбекистан (именуемая в дальнейшем – Межправительственная Комиссия), состоящая из представителей соответствующих государственных органов и компаний государств Сторон. Заседания Межправительственной Комиссии будут проходить по согласованию Сторон поочередно в Венгерской Республике и Республике Узбекистан.
+
+Задачами Комиссии являются:
+
+\- обсуждение развития двусторонних экономических отношений;
+
+\- определение новых возможностей для дальнейшего развития экономического сотрудничества;
+
+\- подготовка предложений, направленных на улучшение условий экономического сотрудничества между предприятиями двух стран;
+
+\- проведение анализа и оценок состояния двустороннего экономического сотрудничества;
+
+\- подготовка предложений по вопросам, связанным с выполнением положений настоящего Соглашения.
+
+Комиссия, по необходимости, создает рабочие группы, занимающиеся определенными вопросами сотрудничества.
+
+Порядок работы Комиссии определяется во время проведения первого заседания. Стороны, в соответствии с национальными законодательствами своих государств, самостоятельно несут расходы, связанные с деятельностью Комиссии.
+
+**Статья 5**
+
+Настоящее Соглашение никаким образом не должно наносить ущерб обязательствам Венгерской Республики, вытекающим из ее членства в Европейском Союзе. Положения настоящего Соглашения не могут быть применены или интерпретированы, ни в целом, ни частично, как лишающие силы, изменяющие или еще каким-либо образом затрагивающие обязательства Венгерской Республики, вытекающие из Договоров, на которых основан Европейский Союз, а также из основных и второстепенных законов ЕС.
+
+Положения настоящего Соглашения не затрагивают прав и обязательств Республики Узбекистан, вытекающих из международных договоров, участницей которых она является, а также ее членства в международных организациях.
+
+**Статья 6**
+
+По взаимному согласию Сторон в настоящее Соглашение могут вноситься изменения и дополнения, которые оформляются отдельными протоколами, являющимися неотъемлемыми частями настоящего Соглашения.
+
+**Статья 7**
+
+Любые споры, возникающие в связи с применением или толкованием настоящего Соглашения, будут разрешаться между Сторонами путем переговоров.
+
+**Статья 8**
+
+Настоящее Соглашение вступает в силу на тридцатый день после получения последнего письменного уведомления о выполнении Сторонами внутригосударственных процедур, необходимых для его вступления в силу.
+
+Настоящее Соглашение заключается на неопределенный срок. Каждая из Сторон может прекратить действие настоящего Соглашения, направив письменное уведомление другой Стороне о таком намерении. В таком случае настоящее Соглашение утратит силу по истечении шести месяцев с даты получения одной из Сторон такого уведомления.
+
+Совершено в г. Ташкент «_7_» ноября 2011, в двух экземплярах, каждый на венгерском, узбекском и русском языках, причем все тексты имеют одинаковую силу. В случае возникновения разногласий между Сторонами при толковании положений настоящего Соглашения, Стороны будут обращаться к тексту на русском языке.
+
+| **За ПравителЬство** **ВеНгерскоЙ РеспУБлики** | **За ПравителЬство** **РеспУБлики УзБекистаН** |
+|---|---|
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2. és 3. §-a a Megállapodás 8. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2. és 3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 22/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpntja: 2012. április 27.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 22/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpntja: 2012. április 27.
+[^3]: A 22/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpntja: 2012. április 27.
+[^4]: Lásd a 22/2012. (IV. 13.) KÜM közleményt.

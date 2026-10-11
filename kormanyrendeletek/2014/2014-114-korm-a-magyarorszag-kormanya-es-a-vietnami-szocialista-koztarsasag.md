@@ -1,0 +1,260 @@
+---
+title: "114/2014. (IV. 3.) Korm. rendelet a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti, a vízgazdálkodás területén való együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "114/2014. (IV. 3.) Korm. rendelet"
+njt_id: "2014-114-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/114"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-04-03
+in_force_from: 2014-04-04
+last_amended: 2014-11-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-114-20-22"
+retrieved: 2026-10-12
+---
+
+# 114/2014. (IV. 3.) Korm. rendelet a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti, a vízgazdálkodás területén való együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti, a vízgazdálkodás területén való együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+„MEGÁLLAPODÁS\
+Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya között a vízgazdálkodás területén való együttműködésről
+
+Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya (a továbbiakban: Felek)
+
+meggyőződve arról, hogy a szoros és a kölcsönös bizalmon alapuló együttműködés a vízügy területén jelentősen hozzájárul a Felek közötti kapcsolatok fejlesztéséhez, és jó eredményekre vezet a vízügyi projektek megvalósításában,
+
+attól a szándéktól vezérelve, hogy ezt az együttműködést a nemzetközi vízügyi jog normái szerint fejlesszék,
+
+figyelembe véve a két ország vízgazdálkodásban érintett szervezetei és intézményei közötti együttműködés megerősítésének jelentőségét,
+
+elismerve, hogy a Felek egyaránt fejleszteni kívánják a két ország közötti gazdasági, tudományos és technológiai együttműködést a vízgazdálkodás terén, valamint a vízügy minden olyan területén, amelyhez kölcsönös érdekek fűződnek,
+
+az alábbiakban állapodnak meg:
+
+**1. CIKK**
+
+**A Megállapodás célja**
+
+1\. A Felek megvizsgálják és egyetértésben megoldják mindazokat a vízgazdálkodási kérdéseket, amelyek mindkét Fél érdekeit érintik, valamint az egyik Fél érdekében lehetővé tesznek a másik Fél részvételével megvalósuló beruházásokat.
+
+**2. CIKK**
+
+**Az együttműködés területei**
+
+A Felek együttműködnek a következő területeken:
+
+1\. Együttműködés megerősítése a két ország azon intézményei között, amelyek oktatási, képzési és kutatási feladatokat folytatnak a vízgazdálkodás területén;
+
+2\. Tudományos információk, publikációk, oktatók, diákok és szakértők kölcsönös cseréje;
+
+3\. Információ és tapasztalatcsere
+
+– az integrált vízgazdálkodási stratégiák, vízgyűjtő-gazdálkodási tervek, valamint jogi és gazdasági szabályok, ösztönzők kidolgozása és megvalósítása területén,
+
+– a vízkészletek védelme és fenntartható fejlesztése területén, beleértve a termál- és öntözővíz kitermelést és felhasználást,
+
+– a víz minőségi és mennyiségi állapotának megfigyelése területén,
+
+– a klímaváltozás hatásainak csökkentése területén,
+
+– az árvízvédelem területén,
+
+– a felső és szakoktatás területén;
+
+4\. Közös akcióprogramok és projektek kidolgozása és megvalósítása
+
+– a korszerű öntözési technológiák területén,
+
+– a vidéki és városi ivóvízellátás, szennyvízkezelés, csapadékvíz-gazdálkodás területén,
+
+– vízkezelési technológiák kutatása területén,
+
+– vízgazdálkodásban használt berendezések kutatása, tervezése és gyártása, kiemelt tekintettel a vidéki és városi települések problémáira,
+
+– az ivóvízvesztés megakadályozását segítő eszközök és anyagok kutatása, alkalmazása, valamint erre a célra irányuló beruházások területén,
+
+– a kezelt szennyvizek felhasználásával kapcsolatban.
+
+5\. Mindkét országból származó vállalkozások ösztönzése a jelen Cikkben meghatározott témájú közös projektekben történő részvételre.
+
+**3. CIKK**
+
+**Költségek**
+
+1\. Mindegyik Fél maga viseli a jelen Megállapodás végrehajtása során saját részéről felmerülő költségeket.
+
+2\. Azokat a költségeket, amelyek olyan építmények és berendezések építésével, fenntartásával és üzemeltetésével, valamint olyan intézkedésekkel és munkálatokkal kapcsolatosak, amelyek az egyik Fél területén vannak, illetve azokat ott végzik, és kizárólag az egyik Fél érdekeit szolgálják, teljes egészében az adott Fél viseli.
+
+**4. CIKK**
+
+**A Megállapodás végrehajtása**
+
+1\. A Megállapodás rendelkezéseiből eredő kérdések megtárgyalása, továbbá a Megállapodás egyes rendelkezései végrehajtásának egyeztetése a Magyar–Vietnami Gazdasági Vegyesbizottság (a továbbiakban: GVB) keretei között történik.
+
+2\. A GVB szükség esetén munkacsoportot hoz létre a gyakorlati megvalósítás elősegítésére.
+
+**5. CIKK**
+
+**Vitarendezés**
+
+Jelen Megállapodás rendelkezéseinek értelmezésére vagy alkalmazására vonatkozó minden vita a Felek közötti kölcsönös tárgyalásokon keresztül vagy diplomáciai úton kerül rendezésre.
+
+**6. CIKK**
+
+**A Megállapodás módosítása**
+
+A jelen Megállapodás a Felek kölcsönös egyetértése alapján írásban módosítható. A módosítások a jelen Megállapodás 7. Cikkének 1. bekezdésében foglalt eljárás szerint lépnek hatályba.
+
+**7. CIKK**
+
+**Záró rendelkezések**
+
+1\. A Felek jelen Megállapodást határozatlan időre kötik. Jelen Megállapodás azon későbbi jegyzék kézhezvételétől számított harmincadik napon lép hatályba, amelyben a Felek diplomáciai úton tájékoztatják egymást arról, hogy eleget tettek jelen Megállapodás hatálybalépéséhez szükséges belső jogi előírásaiknak.
+
+2\. A Megállapodást a Felek bármelyike diplomáciai úton, bármikor felmondhatja. A Megállapodás az írásos értesítés másik Félnek történő kézbesítése napjától számított hat hónap múlva veszti hatályát.
+
+3\. A Megállapodás megszüntetése nem befolyásolja a jelen Megállapodásból származó azon folyamatban lévő projekt tevékenységek/programok végrehajtását, amelyekről a Felek a jelen Megállapodás megszüntetését megelőzően egyeztek meg.
+
+Készült Budapesten 2013. év szeptember hónap 16. napján két-két példányban magyar, vietnami és angol nyelven, amely szövegek mindegyike egyaránt hiteles. Jelen Egyezmény rendelkezéseinek eltérő értelmezése esetén az angol nyelvű szöveg az irányadó.
+
+Magyarország\
+Kormánya részéről
+
+A Vietnami Szocialista Köztársaság\
+Kormánya részéről
+
+AGREEMENT\
+BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF VIETNAM ON COOPERATION IN THE FIELD OF WATER MANAGEMENT
+
+The Government of Hungary and the Government of the Socialist Republic of Vietnam (hereinafter referred to as Parties),
+
+Being aware of the important role of cooperation based on close and mutual trust in the area of water management, which promotes development of relation between the Parties and eventuates great results in water management projects,
+
+Recognizing that the Parties intend to develop cooperation of water management in accordance with the norms of international water law,
+
+Taking into account the importance of strengthening cooperation between organizations and institutions of the two countries involved in water management,
+
+Recognizing that the Parties intend to develop economic, scientific and technological cooperation as well between the two countries in the field of water management, just as in any related field regarding water management according to their mutual interests,
+
+Have agreed as follows:
+
+**ARTICLE 1**
+
+**Goals of the Agreement**
+
+1\. The Parties shall examine and solve solidly those issues which relate to the interest of both Party in the field of water management and enable to perform investments on one Party's behalf with the participation of the other Party.
+
+**ARTICLE 2**
+
+**Fields of Cooperation**
+
+The Parties agree to cooperate in the fields set below:
+
+1\. Strengthening cooperation between institutions of the two countries which conduct education, training and research activities in the field of water management;
+
+2\. Mutual exchange of scientific information, publications, professors, students and experts;
+
+3\. Exchanging information and experiences in the fields of
+
+– elaboration and implementation of integrated water management strategies, river basin management plans, legal and economic regulations, incentives
+
+– protection and sustainable development of water resources, including abstraction and utilization of thermal and irrigation waters,
+
+– qualitative and quantitative monitoring of waters,
+
+– mitigation of the effect of climate change,
+
+– flood management,
+
+– higher and technical education.
+
+4\. Elaboration and implementation of mutual action programs and projects in the fields of
+
+– application of modern irrigation technologies,
+
+– drinking/clean water supply, waste water treatment, rainwater management for both municipal and rural areas,
+
+– research for water treatment technologies,
+
+– research, design and production of structures used in water management with special regard to the problem of municipal and rural settlements,
+
+– research, application of materials and equipment, investment projects concerning the prevention of clean water loss,
+
+– reutilization of treated waste water.
+
+5\. Encouraging enterprises of both countries to participate in cooperation programs/projects in the fields described in this Article.
+
+**ARTICLE 3**
+
+**Expenses**
+
+1\. Each Party shall bear its own expenses incurred in the course of the implementation of this Agreement.
+
+2\. The expenses arising from the construction, maintenance and operation of build-ups and equipment, as well as expenses related to provisions and operation which are carried out in the territory of one Party, and provide solely the interests of one Party, shall be fully financed by the interested Party.
+
+**ARTICLE 4**
+
+**The Implementation of the Agreement**
+
+1\. The negotiation of any question arising from this Agreement, as well as the implementation of provisions of this Agreement shall be considered and consulted under the framework of a Hungarian-Vietnamese Joint Economic Committee (hereinafter referred to as: JEC).
+
+2\. If it is necessary the JEC establishes working groups to help the implementation of this Agreement.
+
+**ARTICLE 5**
+
+**Dispute Resolution**
+
+Any dispute regarding the interpretation or application of this Agreement shall be settled by direct consultations between the Parties or through diplomatic channels.
+
+**ARTICLE 6**
+
+**Amendments**
+
+This Agreement may be amended by written mutual consent of both Parties. Amendments shall enter into force in accordance with paragraph 1, Article 7.
+
+**ARTICLE 7**
+
+**Final Provisions**
+
+1\. This Agreement is concluded for an indefinite period of time and shall enter into force on 30th day after the date of receipt of the later notification, through diplomatic channels, by which the Parties notify each other of the completion of the internal procedures necessary for the entry into force of this Agreement.
+
+2\. Each Party may terminate this Agreement through diplomatic channels at any time. In such a case this Agreement shall expire six months after the receipt of the termination notice by the other Party.
+
+3\. The termination of this Agreement shall not affect the implementation of ongoing project activities/programs agreed upon prior to the date of the termination of this Agreement.
+
+Done in Budapest on 16 of September 2013 in duplicate in Hungarian, Vietnamese and English languages, all texts being equally authentic. Should any differences and conflicts arise while interpreting any of the Provisions of this Agreement, the English version shall prevail.
+
+For the Government\
+of Hungary
+
+For the Government of the Socialist Republic\
+of Vietnam”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a vízgazdálkodásért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 16/2014. (XI. 13.) KKM közlemény alapján a hatálybalépés időpontja 2014. november 26.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 16/2014. (XI. 13.) KKM közlemény alapján a hatálybalépés időpontja 2014. november 26.
+[^3]: A 16/2014. (XI. 13.) KKM közlemény alapján a hatálybalépés időpontja 2014. november 26.
+[^4]: Lásd a 16/2014. (XI. 13.) KKM közleményt.

@@ -1,0 +1,413 @@
+---
+title: "192/2017. (VII. 10.) Korm. rendelet a Magyarország Kormánya és a Kenyai Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "192/2017. (VII. 10.) Korm. rendelet"
+njt_id: "2017-192-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/192"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-07-10
+in_force_from: 2017-07-11
+last_amended: 2017-10-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-192-20-22"
+retrieved: 2026-10-12
+---
+
+# 192/2017. (VII. 10.) Korm. rendelet a Magyarország Kormánya és a Kenyai Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Kenyai Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+**„AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF KENYA ON ECONOMIC AND TECHNICAL COOPERATION**
+
+The Government of Hungary and the Government of the Republic of Kenya hereinafter jointly referred to as “the Parties” and singularly as “the Party”.
+
+Recognizing that economic and technical co-operation is essential and indispensable for the development of bilateral relations on long term basis and the deepening of mutual confidence between the Parties and their respective peoples;
+
+Convinced that this Agreement will contribute to the enhancement of relations between the Parties and, in particular, the enhancement of the mutually beneficial economic, technical and technological cooperation;
+
+Have agreed upon the following:
+
+**ARTICLE 1**
+
+**OBJECTIVES**
+
+The Parties shall take the appropriate measures, within the framework of their respective legislation in force, to promote the further development of mutually advantageous economic and technical co-operation.
+
+**ARTICLE 2**
+
+**SCOPE OF THE COOPERATION**
+
+The scope of co-operation mentioned in this Agreement includes, inter alia, the following areas:
+
+*a)* Energy sector;
+
+*b)* Trade;
+
+*c)* Finance and banking;
+
+*d)* Agriculture, food and processing industry;
+
+*e)* Construction industry and manufacturing of building materials and equipment;
+
+*f)* Urban development;
+
+*g)* Transport and related infrastructure, logistics;
+
+*h)* Mining;
+
+*i)* Chemical and petrochemical industry;
+
+*j)* Textile industry;
+
+*k)* Environmental protection, water and waste management;
+
+*l)* Education, vocational training;
+
+*m)* Health services, medical technologies and pharmaceutical industry;
+
+*n)* Tourism;
+
+*o)* Sports;
+
+*p)* Co-operation in the small and medium-sized enterprise sector;
+
+*q)* Information communication technology;
+
+*r)* Defense industry;
+
+*s)* Research and development;
+
+*t)* Culture;
+
+*u)* Exchange of information and expertise relating to scientific and technical research;
+
+*v)* Exchange and training of specialists, scientists, technicians and students required for specific co-operation programs.
+
+**ARTICLE 3**
+
+**MODALITIES OF IMPLEMENTATION**
+
+The Parties shall endeavor to broaden and intensify their co-operation through the following means:
+
+1\. Promoting development of contacts and co-operation between the business communities, government institutions, regional and local entities, chambers of commerce and industry, and promoting exchange visits by their representatives aimed at implementing bilateral economic and technical cooperation;
+
+2\. Exchange of information related to the implementation of this Agreement,
+
+3\. Organizing and encouraging participation in economic and business events, such as forums, seminars, symposia and conferences, fairs and exhibitions;
+
+4\. Promoting stronger participation of small and medium size enterprises (SMEs) in bilateral economic activities, and encouraging the establishment of joint programs and projects involving SMEs from both countries;
+
+5\. Promoting exchange of experts from public and private sector and mutual co-operation in providing consulting, marketing, training and expert services;
+
+6\. Any other means agreed upon by the Parties later, to expand and strengthen their cooperation.
+
+**ARTICLE 4**
+
+**GENERAL PROVISION**
+
+Nothing in this Agreement shall be construed as affecting any rights and obligations arising under any existing treaty, convention or agreement entered into by either of the Parties prior to the conclusion of this Agreement.
+
+**ARTICLE 5**
+
+**SPECIFIC AGREEMENTS**
+
+The Parties or the relevant organs of the Parties may, when deemed necessary, conclude specific agreements or such other arrangements in the areas stated in Article 2 of this Agreement.
+
+**ARTICLE 6**
+
+**JOINT ECONOMIC AND TECHNICAL COMMITTEE**
+
+1\. With a view to ensuring the implementation of this Agreement, a Joint Economic and Technical Committee (hereinafter referred to as “the Committee”) shall be established composing of representatives of government and business community from the Parties. Each Party shall appoint a Co-Chair of the Committee.
+
+2\. The Committee shall meet biennially alternately in Hungary and Kenya or at any other time at the request of either Party on dates mutually agreed upon between the Parties, which will be communicated through diplomatic channels.
+
+3\. The Committee shall establish its own rules of working procedures.
+
+4\. The Agenda of each meeting shall be drawn up by the Party hosting the meeting in consultation with the other Party.
+
+5\. The Agenda shall be communicated to the other Party, through diplomatic channels, at least one month prior to the meeting.
+
+6\. The Committee shall have the authority to, inter alia, undertake the following:
+
+*a)* Hold consultations on specific modalities for the implementation of this Agreement;
+
+*b)* Identify opportunities for strengthening the economic and technical cooperation between the Parties;
+
+*c)* Encouraging and coordinating the economic and technical co-operation activities between the Parties;
+
+*d)* Promoting and considering proposals aimed at the implementation of this Agreement and specific agreements resulting therefrom;
+
+*e)* Consider and make recommendations for the purposes of removing obstacles that may arise during the execution of any agreement or project that may be established in accordance with this Agreement;
+
+*f)* Establish working groups in specific sectors and assign a clear mandate to each of them.
+
+**ARTICLE 7**
+
+**CONFIDENTIALITY**
+
+Each Party undertakes to use the technical documents and information received from the other Party only for the purpose approved by both Parties and will not disclose them to a third party without the prior consent of the other Party. In the event of termination of this Agreement the Parties agree that the preservation of confidentiality shall continue to apply between the Parties.
+
+**ARTICLE 8**
+
+**OBLIGATIONS OF THE CONTRACTING PARTIES**
+
+1\. This Agreement shall in no way affect the obligations of Hungary as the member state of the European Union and the Republic of Kenya as a member of the African Union and any other regional and international organizations respectively. Consequently, the provisions of this Agreement shall not be quoted or interpreted, either in whole or in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from the Treaties on which the European Union is founded as well as from the primary and secondary law of the European Union.
+
+2\. Consequently, the provisions of this Agreement shall not be quoted or interpreted, either in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of the Republic of Kenya arising from the Treaties on which the African Union and membership in other regional and international organizations is founded as well as from the primary and secondary law of the African Union and any other regional and international organizations.
+
+3\. Nothing in this Agreement shall be construed as to oblige the Contracting Parties to extend to the other present, or future benefit of any treatment, preference or privilege resulting from any existing or future common market, free trade area, customs union or similar international agreement to which any of the countries of the Contracting Parties is or may become a member.
+
+**ARTICLE 9**
+
+**DISPUTE RESOLUTION**
+
+Any dispute that may arise from the interpretation or the implementation of this Agreement shall be settled amicably through consultations and negotiations within the Committee or, if those consultations or negotiations fail to resolve the dispute, through diplomatic channels between the Parties.
+
+**ARTICLE 10**
+
+**AMENDMENT**
+
+This Agreement may be amended as may be required by mutual written consent of the Parties. Such amendments shall form part of this Agreement and shall enter into force in accordance with Article 13 of this Agreement.
+
+**ARTICLE 11**
+
+**DURATION**
+
+This Agreement shall be valid for a period of five (5) years and shall be automatically renewed for successive periods of five (5) years unless the Agreement is terminated in accordance with Article 12 of this Agreement.
+
+**ARTICLE 12**
+
+**TERMINATION**
+
+1\. Either Party may terminate this Agreement at any time by giving the other Party a written notice of six (6) months through diplomatic channels of its intention to terminate this Agreement.
+
+2\. The termination of this Agreement shall not affect the validity or the duration of any specific agreement, projects, contracts, activities or commitments made under the present Agreement until the completion of such specific agreements, projects, contracts, activities or commitments unless otherwise agreed by the Parties.
+
+**ARTICLE 13**
+
+**ENTRY INTO FORCE**
+
+This Agreement shall enter into force on the 30<sup>th</sup> (thirtieth) day following the receipt of the last notification by which a Party notifies the other in writing through diplomatic channels of the completion of the procedure required by domestic laws necessary for the entry into force of this Agreement.
+
+IN WITNESS WHEREOF the undersigned, have signed this Agreement in duplicate, in Hungarian and English languages, both texts being equally authentic. In case of divergence of interpretation of this Agreement, the English text shall prevail.
+
+DONE at Budapest on the 29-th Day of May 2017
+
+FOR THE GOVERNMENT OF HUNGARY
+
+FOR THE GOVERNMENT OF THE REPUBLIC OF KENYA”
+
+„GAZDASÁGI ÉS MŰSZAKI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA\
+ÉS A KENYAI KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+
+Magyarország Kormánya és a Kenyai Köztársaság Kormánya, a továbbiakban a „Felek” illetve egyes számban „Fél”
+
+Felismerve azt, hogy a gazdasági és műszaki együttműködés a szilárd, hosszú távú kétoldalú kapcsolatok fejlesztésének, valamint a Felek és népeik közötti kölcsönös bizalomnak elengedhetetlen és nélkülözhetetlen eleme;
+
+Meggyőződve arról, hogy a jelen Megállapodás ténylegesen hozzájárul a Felek közötti kapcsolatok megerősítéséhez, különösen a kölcsönösen előnyös gazdasági, műszaki és technológiai együttműködés továbbfejlesztéséhez;
+
+az alábbiakban állapodtak meg:
+
+**1. Cikk**
+
+**A MEGÁLLAPODÁS CÉLJA**
+
+A Felek, a hatályos jogszabályaik által nyújtott kereteken belül, megfelelő intézkedések meghozatalával támogatják a kölcsönösen előnyös gazdasági és műszaki együttműködés fejlődését.
+
+**2. Cikk**
+
+**AZ EGYÜTTMŰKÖDÉS HATÁLYA**
+
+A jelen Megállapodásban említett együttműködési területek többek között az alábbiakat foglalják magukban:
+
+*a)* energetikai szektor;
+
+*b)* kereskedelem;
+
+*c)* pénzügyi és banki szolgáltatások;
+
+*d)* mezőgazdaság, élelmiszer- és feldolgozóipar;
+
+*e)* építőipar, valamint építőanyag- és berendezésgyártás;
+
+*f)* településfejlesztés;
+
+*g)* közlekedés és kapcsolódó infrastruktúra, logisztika;
+
+*h)* bányászat;
+
+*i)* vegyipar és petrolkémiai ipar;
+
+*j)* textilipar;
+
+*k)* környezetvédelem, víz- és hulladékgazdálkodás;
+
+*l)* oktatás, szakképzés;
+
+*m)* egészségügyi szolgáltatások, gyógyászati technológiák és a gyógyszeripar;
+
+*n)* turizmus;
+
+*o)* sport;
+
+*p)* együttműködés a kis- és közepes méretű vállalkozási szektor terén;
+
+*q)* információ-kommunikációs technológia;
+
+*r)* védelmi ipar;
+
+*s)* kutatás-fejlesztés;
+
+*t)* kultúra;
+
+*u)* tudományos és műszaki területtel kapcsolatos információk és szakértők cseréje;
+
+*v)* speciális együttműködési programokkal kapcsolatos szakértők, tudósok, műszaki szakemberek, diákok cseréje és képzése.
+
+**3. Cikk**
+
+**A VÉGREHAJTÁS MÓDJA**
+
+A Felek törekednek arra, hogy az alább felsorolt eszközökkel szélesítsék és intenzívebbé tegyék együttműködésüket:
+
+1\. elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, regionális és helyi szervek, a kereskedelmi és iparkamarák között, valamint bátorítják ezen szervek képviselőinek kölcsönös látogatásait, így elősegítve a gazdasági és műszaki együttműködés végrehajtását;
+
+2\. információkat cserélnek a Megállapodás végrehajtásával kapcsolatban;
+
+3\. gazdasági és üzleti eseményeket, úgymint fórumokat, szemináriumokat, szimpóziumokat, konferenciákat, vásárokat és kiállításokat szerveznek, illetve bátorítják az azokon való részvételt;
+
+4\. elősegítik a két ország kis- és közepes méretű vállalkozásainak (KKV) nagyobb mértékű bevonását a bilaterális gazdasági kapcsolatok területén, ideértve a két ország KKV-i közötti programok, projektek létrehozását;
+
+5\. elősegítik az állami és magánszektor szakértőinek cseréjét és a kölcsönös együttműködést konzultációs, marketing, képzési és szakértői szolgáltatások nyújtásában;
+
+6\. a Felek által a későbbiekben elfogadott egyéb eszközök útján kiterjesztik és erősítik együttműködésüket.
+
+**4. Cikk**
+
+**ÁLTALÁNOS RENDELKEZÉS**
+
+A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy az valamelyik Fél által korábban megkötött bármely nemzetközi, regionális vagy szubregionális megállapodásból eredő bármilyen kedvezményt vagy kötelezettséget érintene.
+
+**5. Cikk**
+
+**KÜLÖN MEGÁLLAPODÁSOK**
+
+Szükség esetén a Felek, illetve azok illetékes szervei konkrét megállapodásokat kötnek vagy egyéb megfelelőnek tartott intézkedéseket hoznak a jelen Megállapodás 2. Cikkében foglalt területeken.
+
+**6. Cikk**
+
+**GAZDASÁGI ÉS MŰSZAKI VEGYES BIZOTTSÁG**
+
+1\. A jelen Megállapodás végrehajtásának biztosítása céljából Gazdasági és Műszaki Vegyes Bizottság (a továbbiakban: „Bizottság”) alakul a Felek kormányainak képviselőiből és a két ország üzleti életének szereplőiből. A Bizottság élére mindkét Fél társelnököt nevez ki.
+
+2\. A Bizottság felváltva Magyarországon és Kenyában ülésezik, kétévente, illetve bármelyik Fél kérésére bármely, a Felek közös megegyezésével meghatározott, diplomáciai úton közölt időpontban.
+
+3\. A Bizottság munkarendjének szabályait maga állapítja meg.
+
+4\. Az ülés Napirendjét az ülésnek otthont adó Fél határozza meg, a másik Féllel egyeztetve.
+
+5\. A Napirendről a másik Felet diplomáciai úton tájékoztatja, az ülés előtt legalább egy hónappal.
+
+6\. A Bizottság többek között az alábbi feladatok elvégzésére jogosult:
+
+*a)* egyeztetések folytatása jelen Megállapodás végrehajtásának módjáról;
+
+*b)* a lehetőségek beazonosítása a Felek közötti gazdasági és műszaki együttműködés erősítése érdekében;
+
+*c)* a Felek közötti gazdasági és műszaki együttműködési tevékenységek ösztönzése és koordinálása;
+
+*d)* a jelen Megállapodás végrehajtását, valamint a jelen Megállapodásból eredő megállapodások végrehajtását célzó javaslatok támogatása és mérlegelése;
+
+*e)* ajánlások mérlegelése és kidolgozása a jelen Megállapodással összhangban létrejövő megállapodások vagy projektek végrehajtása során esetlegesen felmerülő akadályok elhárítása céljából;
+
+*f)* munkacsoportok létrehozása az egyes szektorokban, és azok feladatkörének pontos meghatározása.
+
+**7. Cikk**
+
+**BIZALMAS INFORMÁCIÓK**
+
+A Felek az egymástól kapott technikai dokumentumokat és információt kizárólag a mindkét Fél által megengedett célra használják fel, és nem fedik fel azokat harmadik fél előtt a másik Fél előzetes engedélye nélkül. A Felek megállapodnak abban, hogy a bizalmas információk megőrzésének kötelezettsége a jelen Megállapodás megszűnése esetén is fennmarad.
+
+**8. Cikk**
+
+**A FELEK KÖTELEZETTSÉGEI**
+
+1\. Jelen Megállapodás semmilyen módon nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország európai uniós tagságából, valamint Kenya afrikai uniós és nemzetközi szervezetekben betöltött tagságából fakadnak. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Magyarországnak különösen az Európai Uniót létrehozó Szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeit.
+
+2\. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják Kenyának különösen az Afrikai Uniót és más szervezeteket létrehozó Szerződésekből, valamint általában véve az Afrikai Unió és nemzetközi szervezetek elsődleges és másodlagos jogából származó kötelezettségeit.
+
+3\. Jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok a Feleket arra kötelezik, hogy bármelyik olyan meglévő vagy jövőbeni közös piaci, szabadkereskedelmi, vámuniós vagy hasonló nemzetközi megállapodásból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjesszék a másik félre, amelynek a Felek jelenleg tagjai vagy a későbbiekben tagjai lehetnek.
+
+**9. Cikk**
+
+**VITARENDEZÉS**
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatban a Felek között felmerülő viták rendezése békés úton, konzultációk és tárgyalások révén a Bizottságban, azok eredménytelensége esetén diplomáciai csatornákon keresztül történik.
+
+**10. Cikk**
+
+**MÓDOSÍTÁS**
+
+Jelen Megállapodás rendelkezései és szövege a Felek közötti írásos megállapodás alapján módosítható a felek közös megegyezése alapján. A jelen Megállapodásra vonatkozó bármilyen módosítás a jelen Megállapodás 13. Cikke értelmében lép hatályba.
+
+**11. Cikk**
+
+**A MEGÁLLAPODÁS IDŐTARTAMA**
+
+Jelen Megállapodás öt (5) évig marad hatályban, valamint automatikusan megújul újabb öt (5) év hosszúságú időszakokra kivéve, ha valamelyik Fél a Megállapodást a 12. Cikk szerint felmondja.
+
+**12. Cikk**
+
+**FELMONDÁS**
+
+1\. Bármely Fél jogosult felmondani ezt a Megállapodást bármely időpontban, feltéve, hogy felmondási szándékáról hat (6) hónappal megelőzően írásban, diplomáciai csatornákon keresztül tájékoztatja a másik Felet.
+
+2\. A Megállapodás megszüntetése nem befolyásolja a jelen Megállapodás alapján kötött illetve végzett konkrét megállapodások, projektek, szerződések vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek, szerződések vagy tevékenységek teljesítéséig, amennyiben a Felek másképp nem döntenek.
+
+**13. Cikk**
+
+**HATÁLYBALÉPÉS**
+
+Jelen Megállapodás az utolsó olyan értesítés kézhezvételét követő 30. (harmincadik) napon lép hatályba, amelyben az egyik Fél diplomáciai csatornákon keresztül írásban értesíti a másik Felet a Megállapodás hatálybalépéséhez szükséges belső eljárás lefolytatásáról.
+
+Ennek hiteléül alulírottak két példányban, magyar és angol nyelvű változatban aláírták ezen Megállapodást, mindkét szöveg egyformán hitelesnek minősül. A Megállapodás eltérő értelmezése esetén az angol nyelvű szöveg az irányadó.
+
+Készült Budapesten, 2017. május 29-én
+
+MAGYARORSZÁG KORMÁNYA NEVÉBEN
+
+A KENYAI KÖZTÁRSASÁG KORMÁNYA NEVÉBEN”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 13. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
+
+## 6. §
+
+A rendeletnek a 74/393/EKG tanácsi határozat 1. cikk (2) bekezdése szerinti konzultációs eljárás alá helyezése, az Európai Bizottsághoz és az Európai Unió többi tagállamához tájékoztatási és észrevételezési célból való eljuttatása megtörtént, sikerrel lezárult.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 13. cikkében meghatározott időpontban lép hatályba. A 42/2017. (X. 11.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 12.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 13. cikkében meghatározott időpontban lép hatályba. A 42/2017. (X. 11.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 12.
+[^3]: A 42/2017. (X. 11.) KKM közlemény alapján a hatálybalépés időpontja 2017. október 12.
+[^4]: Lásd a 42/2017. (X. 11.) KKM közleményt.

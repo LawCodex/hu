@@ -1,0 +1,210 @@
+---
+title: "225/2018. (XI. 29.) Korm. rendelet a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról"
+identifier: "225/2018. (XI. 29.) Korm. rendelet"
+njt_id: "2018-225-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/225"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-11-29
+in_force_from: 2018-11-30
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-225-20-22"
+retrieved: 2026-10-12
+---
+
+# 225/2018. (XI. 29.) Korm. rendelet a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+az 1. § (3) bekezdése tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a) pontjában,
+
+a 4. § (1) bekezdés a) pontja, valamint a 4. § (4) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában, 17., 24. és 27. pontjában,
+
+a 4. § (1) bekezdés b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § (1) bekezdés d) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+a 4. § (1) bekezdés e) pontja, a 4. § (2) bekezdése és az 5–7. § tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés b) pontjában,
+
+a 10. § és a 2. melléklet tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest I. kerület, belterület 6531, 6588, 6590, 6592, 6593, 6634 helyrajzi számú ingatlanokon, illetve az ezen ingatlanokból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokon, – az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – Fellner Sándor 1903-as tervei alapján történő homlokzat- és tetőrekonstrukció, a Szentháromság tér (Budapest I. kerület, belterület 6531 helyrajzi szám), valamint a Fortuna köz (Budapest I. kerület, belterület 6592 helyrajzi szám) területén az elbontott rizalitok visszaépítése, valamint ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint, továbbá a szükséges biztonsági és közlekedési rendszerek egyetlen épületegyüttesbe való integrálásával megvalósuló, a Pénzügyminisztérium budai Várnegyedben történő új elhelyezését szolgáló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához és használatbavételéhez szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közmű-csatlakozási és -fejlesztési, valamint egyéb munkák megvalósításához szükségesek.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
+
+## 2. §[^2]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 4. §
+
+(1) A Beruházással összefüggésben
+
+a) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
+
+b) nincs helye településképi véleményezési eljárásnak,
+
+c) nem kell településképi bejelentési eljárást lefolytatni,
+
+d) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+e) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye.
+
+(2) A Beruházással érintett műemlék épület azon részeinek bontása (ideiglenes építés, ideiglenes bontás), mely épületrészek, illetve szerkezetek helyébe a Beruházás megvalósításához szükséges épületrészek, illetve szerkezetek kerülnek beépítésre, engedély, tudomásulvétel, illetve bejelentés nélkül végezhető.
+
+(3) A Beruházás megvalósításával összefüggő közigazgatási hatósági eljárásokban az ügyintézési határidő – a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, valamint a 7. § l) pontja szerinti eljárás kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(4) A Beruházással érintett közmű- és energiaszolgáltató, közútkezelő az építtető által benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt napon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, közútkezelő öt napon belül nem nyilatkozik, a jóváhagyásra benyújtott terv szerinti tartalommal hozzájárulását megadottnak kell tekinteni.
+
+## 5. §
+
+(1) Az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 18. § (1) bekezdés b) pontja és 18. § (3) bekezdése szempontjából a Beruházással érintett, az 1. § (1) bekezdésében meghatározott telkeket rendezettnek kell tekinteni abban az esetben is, amennyiben az e telkeket érintő – a (2) bekezdésre figyelemmel – telekhatár-rendezés még nem történt meg.
+
+(2) A Beruházás és a későbbi közfeladat-ellátáshoz szükséges épületvédelem megvalósításához kapcsolódó használatbavételi engedély kiadásának feltétele az (1) bekezdés szerinti ingatlanok tekintetében a vonatkozó jogszabályi előírásoknak, így különösen a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 43. § (5) bekezdésében foglaltaknak megfelelő telekhatár-rendezés végrehajtása, valamint annak az ingatlan-nyilvántartásba történő bejegyzése.
+
+## 6. §
+
+A Beruházás megvalósítása keretében
+
+a) a Budapest I. kerület, belterület 6590 helyrajzi számú ingatlanon álló építmények esetében azon épületrészek és építmények építhetők át, illetve bonthatók, amelyek műszaki, különösen, de nem kizárólagosan tartószerkezeti, tűzvédelmi, környezetvédelmi, biztonságtechnikai, élet-, és egészségvédelmi, akadálymentesítési, valamint üzemeltetési okokból az új funkcionális igényeknek nem tudnak eleget tenni,
+
+b) a fa homlokzati nyílászárók energetikai jellemzőinek meg kell felelni az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben foglalt előírásoknak, függetlenül az épület műemléki jellegétől,
+
+c) az épületek energetikai jellemzőire, illetve a munkahelyek természetes megvilágításának biztosítására vonatkozó előírásokat csak abban az esetben lehet alkalmazni, ha azok a *d)* pontban és a 7. §-ban meghatározott követelményekkel nem ellentétesek, illetve ezen követelmények érvényesítését nem akadályozzák,
+
+d) az építmény funkciójához kapcsolódó és a működéshez szükséges technikai elemek, berendezések a tető udvari oldalára eső síkjára kerülhetnek,
+
+e) az építmény funkciójához kapcsolódó épületbiztonsági, biztonságtechnikai védelemhez szükséges elemek, berendezések az építményen és a környezetében elhelyezhetők,
+
+f) a meglévő épületrészek az építmény funkciójához és működéséhez szükséges belső udvari új épületrésszel kiegészíthetők,
+
+g) a szükséges homlokzat- és tetőrekonstrukció és a rizalitok visszaépítése során a Fellner Sándor 1903-as tervei alapján megépült homlokzatot és tetőt a Kötv. 43. § (5c) bekezdés b) pontja tekintetében a korábbi és jelentős korszak maradványának és hiteles állapotnak kell tekinteni,
+
+h)[^4] a Beruházás egyes építési fázisainak költséghatékony lebonyolítása érdekében az anyagszállítás az arra alkalmas eszközök, járművek számától, össztömegétől függetlenül megvalósítható, ha azok elhelyezése, parkolása az építési területen belül történik,
+
+i)[^5] az épület műemléki jellegének megóvására figyelemmel a díszkivilágítási és biztonsági kamera rendszerelemek az épületen kívül, közterületen is elhelyezhetőek.
+
+## 7. §[^6]
+
+Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – Fellner Sándor 1903-as tervei alapján történő homlokzat- és tetőrekonstrukció, a Szentháromság tér (Budapest I. kerület, belterület 6531 helyrajzi szám), valamint a Fortuna köz (Budapest I. kerület, belterület 6592 helyrajzi szám) területén az elbontott rizalitok visszaépítése –, valamint ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló kormányrendeletet és a hatályos településrendezési tervet a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+
+a) a Beruházás keretében megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani,
+
+b) a Budapest I. kerület, belterület 6590 helyrajzi számú ingatlanon álló főépület eredeti építészeti arculatának kialakítása és a hozzá kapcsolódó Beruházás során nem kell a helyi építési szabályzat szerinti funkcióvizsgálatot, illetve rehabilitációs tervet készíteni,
+
+c) a Budapest I. kerület, belterület 6590 helyrajzi számú ingatlanon álló valamennyi épület tetőtere akár több szintben beépíthető, és a beépítés során változhat az építmény belső udvari homlokzatmagassága, a gerincmagassága és a tetőidom hajlásszöge,
+
+d) a Budapest I. kerület, belterület 6590 helyrajzi számú ingatlanon álló valamennyi épület esetében a terepszint feletti beépítettség legnagyobb mértéke: 100%,
+
+e) a Beruházással a telekalakítás során kialakítható telek legkisebb területe: 300 m<sup>2</sup>,
+
+f) a Beruházással a telekalakítás során kialakítható telek legnagyobb területe: 15000 m<sup>2</sup>,
+
+g) a telekhatárok megváltoztatásához az örökségvédelmi hatóság egyetértése nem szükséges,
+
+h) a terepszint alatti beépítettség megengedett legnagyobb mértéke: 100%,
+
+i) az építménymagasság megengedett legnagyobb mértéke megegyezik az e § szerint megvalósítandó építmény magasságával,
+
+j) a zöldfelület legkisebb mértéke: 0%,
+
+k) építmény, építményrész terepszinten, illetve terepszint alatt közterületre legfeljebb 6 méterrel nyúlhat be, a terepszint alatti közlekedési célú építmény esetében a benyúlás a 6 métert meghaladhatja,
+
+l) az 1. § (1) bekezdése szerinti valamennyi ingatlan vonatkozásában a terepszint alatt ezen ingatlanok által érintett barlangrendszerben az épületrekonstrukcióval összefüggő tartószerkezeti megerősítések elvégezhetők, azzal, hogy az ehhez kapcsolódó engedélyezés határideje öt nap,
+
+m) terepszint feletti parkolóhely a belső udvaron létesíthető,
+
+n) az 1. § (1) bekezdése szerinti ingatlanokon álló építmény gépjárművel való megközelítése nem korlátozott,
+
+o)[^7] a szintterületi mutató megengedett legnagyobb mértékére és a közhasználat céljára átadandó területekre vonatkozó, településrendezési tervben rögzített előírásokat nem kell alkalmazni,
+
+p) az 1. § (1) bekezdése szerinti ingatlanokon álló valamennyi épületen tetőablak és tetőbevilágítási lehetőség létesíthető,
+
+q) közterületről látható távközlési, adatátviteli berendezés, antenna az épületen elhelyezhető,
+
+r) az 1. § (1) bekezdése szerinti ingatlanokon a burkolt felületek aránya nem illeszkedik a megszűnő belső kertek méretéhez,
+
+s) az 1. § (1) bekezdése szerinti ingatlanok vonatkozásában építési helynek kell tekinteni a telekhatár- rendezéssel kialakuló telket.
+
+## 7/A. §[^8]
+
+A Beruházás megvalósításához feltétlenül szükséges közterület használat időtartama a Beruházás használatbavételi engedélye véglegessé válásának napjáig tart.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 225/2018. (XI. 29.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi és építésfelügyeleti hatósági eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+7\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+8\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+9\. telekalakításra irányuló hatósági eljárások,
+
+10\. földmérési hatósági eljárások,
+
+11\. hírközlési hatósági eljárások,
+
+12\. bányahatósági engedélyezési eljárások,
+
+13\. tűzvédelmi hatósági eljárások,
+
+14\. élelmiszerlánc-felügyeleti eljárás,
+
+15\. közegészségügyi hatósági eljárások,
+
+16\. vízügyi és vízvédelmi hatósági eljárások,
+
+17\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos engedélyezési eljárások,
+
+18\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+19\. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
+
+20\. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 225/2018. (XI. 29.) Korm. rendelethez[^11]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 396/2020. (VIII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 226. § a)-b) pontja szerint módosított szöveg.
+[^4]: A 6. § h) pontját a 396/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 6. § i) pontját a 396/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 7. § nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § o) pontja a 420/2021. (VII. 15.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.
+[^8]: A 7/A. §-t a 396/2020. (VIII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

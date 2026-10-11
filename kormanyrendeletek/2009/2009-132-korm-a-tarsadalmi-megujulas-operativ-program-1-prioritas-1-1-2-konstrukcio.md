@@ -1,0 +1,313 @@
+---
+title: "132/2009. (VI. 19.) Korm. rendelet a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható támogatásokról"
+identifier: "132/2009. (VI. 19.) Korm. rendelet"
+njt_id: "2009-132-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/132"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-06-19
+in_force_from: 2009-12-31
+last_amended: 2020-07-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-132-20-22"
+retrieved: 2026-10-12
+---
+
+# 132/2009. (VI. 19.) Korm. rendelet a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható támogatásokról
+
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 43. § (5) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában foglalt feladatkörében eljárva a következő rendeletet alkotja:
+
+#### 1. §[^1]
+
+A rendelet hatálya kiterjed
+
+a) a foglalkoztatáspolitikáért felelős miniszterre,
+
+b)[^2] az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalra (a továbbiakban: kormányhivatal) és az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalra (a továbbiakban: járási hivatal), valamint
+
+c) arra a természetes és jogi személyre aki, illetőleg amely
+
+ca) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.2. Program), továbbá
+
+cb) Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1./08/1 konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.1./08/1 Program)
+
+vesz részt.
+
+#### 1/A. §[^3]
+
+A foglalkoztatáspolitikáért felelős miniszter az 1.1.1. Programmal kapcsolatos feladatait a Nemzeti Rehabilitációs és Szociális Hivatallal együttműködésben valósítja meg.
+
+## I.
+
+### A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”
+
+#### 2. §
+
+(1) Az 1.1.2. Program olyan személyek munkához jutását segíti elő, akiknek elhelyezkedésére a Programban történő részvétele hiányában nincs kilátás, vagy akiknek elhelyezése érdekében a korábban alkalmazott intézkedések eredménytelennek bizonyultak.
+
+(2)[^4] Az (1) bekezdésben foglaltaknak megfelelően az 1.1.2. Program egyik célcsoportjába azok az álláskeresők tartoznak, akik:
+
+a) legfeljebb alapfokú iskolai végzettséggel rendelkeznek, vagy
+
+b) a programban történő részvétel kezdő időpontjában 25. életévüket be nem töltött fiatal álláskeresők, valamint a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. § (5) bekezdés *k)* pontjában meghatározott, a 30. életévüket be nem töltött pályakezdő álláskeresők, vagy
+
+c) a programban történő részvétel kezdő időpontjában az ötvenedik életévüket betöltötték, vagy
+
+d)[^5] a programban történő részvétel kezdő időpontját megelőző 12 hónapon belül gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, csecsemőgondozási díjban, gyermekgondozási díjban vagy ápolási díjban részesültek, vagy
+
+e)[^6] tartósan munkanélküliek vagy tartós munkanélküliséggel veszélyeztetettek, vagy
+
+f)[^7] foglalkoztatást helyettesítő támogatásban részesülnek.
+
+(2a)[^8] A (2) bekezdésben foglaltakon kívül – álláskeresőként való nyilvántartásba vétel hiányában is –, az 1.1.2. Programba bevonható az a személy is, aki a Programba való jelentkezéskor gyermekgondozást segítő ellátásban, gyermekgondozási díjban, gyermeknevelési támogatásban, valamint ápolási díjban részesül, feltéve, hogy kereső tevékenysége alapjául szolgáló jogviszonya az előzőekben felsorolt ellátások folyósításának megkezdését megelőzően, vagy az ellátás folyósítása alatt szűnt meg, és a Programba történő bevonásának időpontjában nem folytat kereső tevékenységet.
+
+(3)[^9] A kormányhivatal a tartós munkanélküliséggel veszélyeztetett célcsoport meghatározásánál figyelembe veszi:
+
+a) a megye (főváros) munkaerő-keresletének és -kínálatának jellemzőit,
+
+b) a megye (főváros) foglalkoztatási helyzetét és munkanélküliségi mutatóit,
+
+c) a megye (főváros) lakosságának iskolai végzettség szerinti összetételét,
+
+d) a megyében (fővárosban) jellemző hiányszakmák körét.
+
+(3a)[^10] A Programba a (2) bekezdésben foglaltakon kívül kizárólag munkaerőpiaci szolgáltatások igénybevétele céljából álláskeresőként nem nyilvántartott 25. életévét be nem töltött fiatal is bevonható.
+
+(4) Az 1.1.2. Programba nem vonható be az a személy,
+
+a)[^11] aki a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének decentralizált keretéből, valamint képzési keretéből támogatásban részesül,
+
+b)[^12] akinek a kormányhivatal által folyósított és végleges határozattal visszakövetelt támogatással összefüggő fizetési kötelezettsége áll fenn,
+
+c)[^13] aki másik kormányhivatal által bonyolított programban vesz részt,
+
+d)[^14] akivel összefüggésben a kormányhivatal által korábban indított bármely programot, illetőleg programszakaszt érintően a nyomonkövetés nem zárult le,
+
+e)[^15] aki a Társadalmi Megújulás Operatív Program keretében szakképesítést vagy munkakör betöltéséhez szükséges képesítést szerzett, és munkatapasztalat-szerzés céljából nyújtható bérköltség támogatásban vagy bértámogatásban vagy álláskeresők vállalkozóvá válását elősegítő támogatásban részesült.
+
+#### 3. §
+
+Az 1.1.2. Program alapján a következő támogatások nyújthatók:
+
+a) képzések elősegítését célzó támogatások:
+
+aa) a teljes képzési díj megtérítése,
+
+ab) a képzéshez kapcsolódó költségek (szállás, élelmezés, helyi, illetőleg helyközi utazás költségének) megtérítése,
+
+ac)[^16] a képzés időtartama alatti keresetpótló juttatás és az azt terhelő közterhek,
+
+ad) hozzájárulás a képzés időtartama alatt igénybe vett gyermekfelügyelet költségeihez,
+
+ae) hozzájárulás a képzés időtartama alatt a hozzátartozó ápolásával, gondozásával felmerült költségekhez;
+
+b)[^17] elhelyezkedést segítő támogatások:
+
+ba) a bértámogatás,
+
+bb)[^18] a munkakipróbálás, munkatapasztalat-szerzés és munkagyakorlat-szerzés (a továbbiakban együtt: munkatapasztalat-szerzés) céljából nyújtható bérköltség-támogatás,
+
+bc) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó utazási költségekhez nyújtott támogatás,
+
+bd) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó csoportos személyszállítás támogatása,
+
+be)[^19] lakhatási támogatás;
+
+c) az önfoglalkoztatás támogatása;
+
+d) a munkaerőpiaci szolgáltatások igénybevételével kapcsolatos támogatások:
+
+da) a szolgáltatás díjának megtérítése,
+
+db) a szolgáltatás igénybevételéhez kapcsolódó utazási költségekhez nyújtott támogatás,
+
+dc)[^20] a szolgáltatáshoz igénybevétele alatti keresetpótló juttatás és az azt terhelő közterhek,
+
+dd) hozzájárulás a szolgáltatás időtartama alatt igénybe vett gyermekfelügyelet költségeihez,
+
+de) hozzájárulás a szolgáltatás időtartama alatt a hozzátartozó ápolásával, gondozásával felmerült költségekhez;
+
+e) a foglalkozás-egészségügyi vizsgálatok költségének megtérítése;
+
+f) a képzéssel kapcsolatos alkalmassági vizsgálat költségének megtérítése.
+
+### Az 1.1.2. Program keretében nyújtható támogatásokra vonatkozó részletes szabályok
+
+### Képzésben történő részvétel elősegítését célzó támogatások
+
+#### 4. §
+
+(1)[^21] Az 1.1.2. Program keretében támogatható képzések körére, a képző intézmények kiválasztására, a képzésben történő részvétel elősegítését célzó támogatásokra az Flt., valamint a végrehajtására kiadott jogszabály – a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének decentralizált keretéből, a foglalkoztatás elősegítő képzésben történő részvétel támogatására vonatkozó – rendelkezéseit kell megfelelően alkalmazni a (2)–(5) bekezdésekben foglaltak figyelembevételével.
+
+(2) Az 1.1.2. Program keretében informatikai képzésben, vállalkozói ismereteket és készségeket fejlesztő képzésben, továbbá képességfejlesztő és motivációs tréningen történő részvételhez, valamint betanító képzésben, meghatározott feladatkör ellátáshoz felkészítő képzésben történő részvétel is támogatható.
+
+(3) A képzéshez kapcsolódó szállásköltség támogatás legfeljebb ***-os szállodában vagy kereskedelmi szálláshelyen történő elhelyezéshez nyújtható. A képzéshez kapcsolódó szállásköltség támogatás a napi 4000 Ft-ot, étkezési költség támogatás a napi 1000 Ft-ot nem haladhatja meg.
+
+(4)[^22] A képzésben részt vevő személy számára támogatásként megtéríthető a képzés időtartama alatt gyermeke(i) felügyeletére, gondozásának biztosítására fordított, számlával alátámasztott indokolt kiadás, feltéve, hogy a gyermekfelügyelet, illetve a gyermekgondozás igénybevétele a képzésben történő részvétel lehetőségének biztosítása érdekében történik. A támogatás napi összege gyermekenként nem haladhatja meg a 4000 Ft-ot. Nem nyújtható támogatás abban az esetben, ha a képzésben részt vevő személlyel egy háztartásban élő gyermeke a támogatás iránti kérelem benyújtásának időpontjában bölcsődei, óvodai, napközi otthonos elhelyezésben részesül.
+
+(5)[^23] A képzésben részt vevő személy számára a képzés időtartamára támogatásként megtéríthető az arra rászoruló hozzátartozója ápolására, gondozására fordított, számlával alátámasztott indokolt kiadás, feltéve, hogy a gondozás, ápolás igénybevétele a képzésben történő részvétel lehetőségének biztosítása érdekében történik. A támogatás napi összege nem haladhatja meg a 4000 Ft-ot. Nem nyújtható támogatás abban az esetben, ha a képzésben részt vevő személy érintett hozzátartozójára tekintettel ápolási díjat vesz igénybe, illetve ha a hozzátartozó a támogatás iránti kérelem benyújtásának időpontjában fekvőbeteg-gyógyintézeti ellátásban, illetőleg nappali ellátásban vagy ápolást, gondozást nyújtó szociális intézményben történő átmeneti vagy tartós elhelyezésben részesül.
+
+### Elhelyezkedést segítő támogatások
+
+#### 5. §
+
+(1) Az 1.1.2. Program keretében nyújtható bértámogatásra az Flt. és a végrehajtására kiadott jogszabály foglalkoztatás bővítését szolgáló támogatásra vonatkozó szabályait kell megfelelően alkalmazni a (2) bekezdésben foglaltak figyelembevételével.
+
+(2)[^24] Az 1.1.2. Program keretében bértámogatás nem nyújtható olyan személy foglalkoztatásához, aki nem minősül a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtott foglalkoztatást bővítő támogatás szempontjából, külön jogszabályban meghatározott hátrányos helyzetű személynek.
+
+(3)[^25] A bértámogatás időtartama legfeljebb 8 hónap, 4 hónap továbbfoglalkoztatási kötelezettség mellett.
+
+(4)[^26] A bértámogatás mértéke a foglalkoztatót terhelő bér és közterheinek, 2012. január 1-jétől a szociális hozzájárulási adó, legfeljebb 70%-áig terjedhet.
+
+#### 6. §
+
+(1) Az 1.1.2. Program keretében, munkatapasztalat-szerzés céljából nyújtható bérköltség-támogatásra az Flt. és a végrehajtására kiadott jogszabálynak a bérköltség támogatásra vonatkozó rendelkezéseit kell megfelelően alkalmazni a (2) bekezdésekben foglaltak figyelembevételével.
+
+(2)[^27] A 3. § *b)* pontjának *bb)* alpontja, valamint az (1) bekezdés alkalmazásában munkatapasztalat-szerzés:
+
+a) a munkavállaló munkabírásának, illetőleg – képzettségének, képességeinek, esetleges korábbi szakmai tapasztalatainak figyelembevételével – a valós munkafeltételek között zajló munkavégzésre való alkalmasságának felmérésére szolgáló foglalkoztatás;
+
+b) az első alkalommal munkába álló személyek számára nyitva álló foglalkoztatási lehetőség;
+
+c) a programban résztvevő személy korábbi munkakörétől eltérő új munkakörben, vagy a korábbihoz hasonló, de magasabb képzettségi fokot igénylő másik munkakörben történő foglalkoztatása.
+
+#### 7. §
+
+(1)[^28] A munkaadó, valamint az általa foglalkoztatott személy részére – tömegközlekedési eszköz igénybevétele esetén – az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt megtéríthető a munkába járással kapcsolatos helyi és helyközi utazási költségnek a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^29] (a továbbiakban: Korm. rendelet) alapján őt terhelő része. A munkaadó részére megtéríthető továbbá a Korm. rendelet alapján kifizetett, a saját gépjárművel történő munkába járás költségtérítése címen elszámolható összeggel azonos költségtérítés.
+
+(2) Az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt támogatás nyújtható annak a munkaadónak, aki munkavállalóinak a lakóhelye (tartózkodási helye) és a munkahelye között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
+
+(3) Az (1)–(2) bekezdésben meghatározott támogatásra a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet szabályait kell megfelelően alkalmazni.
+
+(4)[^30] A Program célcsoportjába tartozó, a 4. §-ban meghatározott támogatott képzésben résztvevő álláskeresők, a képzés időtartama alatt a lakóhelyük (tartózkodási helyük) és a képzés helye közötti utazásra – a területileg illetékes kormányhivatal által kiadott igazolás alapján – a közforgalmi személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 5. §-a szerint meghatározott utazási kedvezmény igénybevételére jogosultak.
+
+### Önfoglalkoztatás támogatása
+
+#### 8. §
+
+Az 1.1.2. Program keretében nyújtható önfoglalkoztatás támogatására az Flt. valamint a végrehajtására kiadott jogszabály – álláskeresők vállalkozóvá válását elősegítő támogatásokra vonatkozó – rendelkezéseit kell alkalmazni azzal, hogy
+
+a) kérelem alapján,
+
+b) a támogatásként legfeljebb hat hónapra, havonta legfeljebb a kötelező legkisebb munkabér összegének megfelelő támogatás nyújtható, továbbá
+
+c) az álláskeresőként történő nyilvántartás időtartamára vonatkozó feltételt nem kell figyelembe venni.
+
+### Munkaerőpiaci szolgáltatások igénybevétele
+
+#### 9. §
+
+(1) Az 1.1.2. Program. keretében a következő munkaerőpiaci szolgáltatások igénybevétele támogatható:
+
+a) az Flt.-ben, valamint végrehajtásáról szóló jogszabályban meghatározott munkaerőpiaci szolgáltatások,
+
+b)[^31] az *a)* pontban foglaltakon kívül azok a programba vonást és programban tartást elősegítő szolgáltatások, amelyeket a kormányhivatal – a támogatást nyert programja alapján – a térségi sajátosságoknak megfelelően alakít ki vagy vásárol meg.
+
+(2) Az 1.1.2. Program keretében nyújtható szolgáltatásokra megfelelően alkalmazni kell az Flt. és a végrehajtására kiadott, a munkaerőpiaci szolgáltatásokról, valamint az azokhoz kapcsolódóan nyújtható támogatásokról szóló jogszabály rendelkezéseit.
+
+(3) Az 1.1.2. Program keretében a szolgáltatást igénybe vevő személy részére megtéríthető a lakóhelye (tartózkodási helye) és a szolgáltatás igénybevételének helyszíne közötti, tömegközlekedési eszközzel történő helyi és helyközi utazás költsége részben vagy egészben.
+
+(4)[^32] A szolgáltatás igénybevételének időtartamára keresetpótló juttatás nyújtható, amelynek összegének megállapítására a kormányhivatal által támogatott képzésben résztvevők részére nyújtható keresetpótló juttatásra vonatkozó szabályok az irányadók. A keresetpótló juttatás akkor állapítható meg, ha a szolgáltatásban való folyamatos részvétel időtartama legalább az öt munkanapot eléri.
+
+(5) A szolgáltatás igénybevételének időtartama alatt megtéríthető az igénybe vett gyermekfelügyelettel, valamint a hozzátartozó ápolásával, gondozásával kapcsolatban felmerült költség, amelyre a 4. § (4)–(5) bekezdésben foglaltakat kell megfelelően alkalmazni.
+
+### Az egészségügyi vizsgálatok költségének megtérítése
+
+#### 10. §[^33]
+
+Ha a 3. § *e)–f)* pontjai szerinti vizsgálatot a munkaadó, illetve a képző intézmény kezdeményezi, a kormányhivatal a vizsgálat költségeit közvetlenül a vizsgálatot végző szervnek téríti meg.
+
+## [^34] II.
+
+#### 11–16. §
+
+## III.
+
+### Az 1.1.2. Program, valamint az 1.1.1. program keretében nyújtható támogatások közös szabályai
+
+#### 17. §
+
+(1)[^35] Az 1.1.2. Programot, valamint az 1.1.1. Programot (a továbbiakban: Programok) a foglalkoztatáspolitikáért felelős miniszter koordinálásával kedvezményezettként a kormányhivatal hajtja végre. A Programok keretében nyújtott támogatással kapcsolatos ügyekben a Program célcsoportjába tartozó személy lakóhelye, tartózkodási helye vagy ennek hiányában szálláshelye szerint illetékes járási hivatal jár el.
+
+(2)[^36] A Programok keretében, e rendeletben meghatározott támogatás nyújtásával kapcsolatos mérlegelésre, a támogatások visszakövetelésére, a kormányhivatalnak a támogatások odaítélésével, és visszakövetelésével kapcsolatos eljárására megfelelően alkalmazni kell az Flt., valamint a végrehajtására kiadott jogszabály – a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtott támogatásokra vonatkozó szabályait, valamint az általános közigazgatási rendtartásról szóló törvény rendelkezéseit.
+
+(2a)[^37] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben az ügyintézési határidő 25 nap.
+
+(3)[^38] Az e rendelet által szabályozott támogatások nyújtása során az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait alkalmazni kell.
+
+(4)[^39] A Programok keretében támogatás – a Társadalmi Megújulás Operatív Program irányító hatósága, a foglalkoztatáspolitikáért felelős miniszter és a kormányhivatalok között létrejött – támogatási szerződésekkel összhangban nyújthatók.
+
+(5)[^40] Az 5. §-ban meghatározott támogatás a 651/2014/EU bizottsági rendelet alapján nyújtható.
+
+(6)[^41] A 6. §-ban, a 7. § (1)–(3) bekezdésében meghatározott támogatások az 1407/2013/EU bizottsági rendelet 3. cikke, valamint az 1408/2013/EU bizottsági rendelet 3. cikke szerinti csekély összegű (de minimis) támogatásoknak minősülnek.
+
+(7)[^42] A Programok keretében meghatározott csoportos személyszállítással kapcsolatos ügyekben a munkaadó székhelye szerint illetékes járási hivatal jár el.
+
+(8)[^43] Az (5)–(6) bekezdésben meghatározott támogatások esetében támogatási döntés 2021. június 30-ig hozható.
+
+### Záró rendelkezés
+
+#### 18. §
+
+(1) Ez a rendelet a – (2) bekezdésben foglalt kivétellel – kihirdetést követő harmadik napon lép hatályba.
+
+(2)[^44] Ahol e rendelet gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
+
+(3)[^45] E rendelet
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1–8. o.),
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 9–17. o.), valamint
+
+c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.)
+
+hatálya alá tartozó támogatást tartalmaz.
+
+---
+
+[^1]: Az 1. § a 318/2014. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^2]: Az 1. § b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1/A. §-t a 332/2010. (XII. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés nyitó szövegrésze a 272/2012. (IX. 28.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés d) pontja a 364/2014. (XII. 30.) Korm. rendelet 127. §-a, a 417/2015. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés e) pontja a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés f) pontját a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^8]: A 2. § (2a) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 417/2015. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3a) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 272/2012. (IX. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (4) bekezdés a) pontja a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 247. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^13]: A 2. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 2. § (4) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 2. § (4) bekezdés e) pontja a 272/2012. (IX. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^16]: A 3. § a) pont ac) alpontja a 337/2020. (VII. 9.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^17]: A 3. § b) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 3. § b) pont bb) alpontja a 324/2011. (Xii. 28.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^19]: A 3. § b) pont be) alpontját a 272/2012. (IX. 28.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^20]: A 3. § d) pont dc) alpontja a 337/2020. (VII. 9.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^22]: A 4. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 16. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 4. § (5) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 16. § (7) bekezdés b) pontja, a 80/2014. (III. 14.) Korm. rendelet 20. § (2) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 248. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^24]: Az 5. § (2) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^25]: Az 5. § (3) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^26]: Az 5. § (4) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 16. § (6) bekezdése iktatta be, szövege a 337/2020. (VII. 9.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^27]: A 6. § (2) bekezdése a 359/2009. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^28]: A 7. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^29]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
+[^30]: A 7. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 10. § a 359/2009. (XII. 30.) Korm. rendelet 2. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^34]: A II. alcímet (11–16. §) a 354/2014. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^35]: A 17. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 48. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a)–b) pontja szerint módosított szöveg.
+[^36]: A 17. § (2) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 247. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^37]: A 17. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 246. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 17. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (7) bekezdésével megállapított szöveg.
+[^39]: A 17. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 47. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^40]: A 17. § (5) bekezdése a 354/2014. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^41]: A 17. § (6) bekezdése a 354/2014. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^42]: A 17. § (7) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 272/2012. (IX. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 17. § (8) bekezdését a 354/2014. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^44]: A 18. § (2) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés b) pontja hatályon kívül helyezte, újonnan a 417/2015. (XII. 23.) Korm. rendelet 32. §-a iktatta be.
+[^45]: A 18. § (3) bekezdése a 354/2014. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

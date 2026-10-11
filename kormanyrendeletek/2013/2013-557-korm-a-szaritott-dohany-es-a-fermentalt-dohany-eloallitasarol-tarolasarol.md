@@ -1,0 +1,244 @@
+---
+title: "557/2013. (XII. 31.) Korm. rendelet a szárított dohány és a fermentált dohány előállításáról, tárolásáról és kereskedelméről"
+identifier: "557/2013. (XII. 31.) Korm. rendelet"
+njt_id: "2013-557-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/557"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-12-31
+in_force_from: 2014-01-01
+last_amended: 2026-02-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-557-20-22"
+retrieved: 2026-10-12
+---
+
+# 557/2013. (XII. 31.) Korm. rendelet a szárított dohány és a fermentált dohány előállításáról, tárolásáról és kereskedelméről
+
+A Kormány a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) A jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti, a szárított és fermentált dohány belföldre történő behozatalához, tárolásához, értékesítéséhez és külföldre történő kiszállításához szükséges regisztrációt a regisztrációra kötelezettnek a vámhatóság honlapjáról letölthető, elektronikus regisztrációs adatlap kitöltésével a központi elektronikus szolgáltató rendszeren keresztül, legkésőbb a szárított dohánnyal és a fermentált dohánnyal kapcsolatos tevékenység megkezdését megelőző 15. napig kell kérelmezni. A regisztrációs adatlap adattartalmát az 1. melléklet tartalmazza.
+
+(2) A vámhatóság a nyilvántartásba vételről a 2. mellékletben meghatározott adattartalmú igazolást ad ki.
+
+(3) A Jöt. szerinti, a dohányimportáló és dohánykereskedő által teljesítendő bejelentést a vámhatóság honlapjáról letölthető, elektronikus bejelentő adatlap kitöltésével a központi elektronikus szolgáltató rendszeren keresztül kell megtenni. A bejelentő adatlap adattartalmát a 3. melléklet tartalmazza.
+
+(4) A regisztráció és a bejelentés elmulasztása esetén igazolásnak nincs helye.
+
+## 1/A. §[^2]
+
+(1) A regisztrációra kötelezett termelő a megtermelt dohányt az 1. melléklet szerinti regisztrációs adatlapon megadott helyen tárolhatja fajtánként elkülönítetten, a mennyiségi számbavételt lehetővé tevő módon.
+
+(2) A termelőnek a dohány jogszerű birtokban tartását a termelői, értékesítési szerződésben foglalt utolsó átvételi időpontot követően a megsemmisítésig az átvevő által kiállított olyan dokumentummal kell igazolnia, amely tartalmazza az át nem vett dohány mennyiségét és az átvétel megtagadásának okát.
+
+(3) A termelő a (2) bekezdés szerinti megsemmisítés helyszínét, időpontját, a megsemmisíteni tervezett dohány mennyiségét legkésőbb a megsemmisítést 3 munkanappal megelőzően bejelenti a vámhatóságnak.
+
+(4) A tárolt dohány mennyiségéről a vámhatóság kérésére a termelő adatot szolgáltat.
+
+## 1/B. §[^3]
+
+A Jöt. 39. § (6) bekezdésében meghatározott nyilvántartás minimális adattartalmát a 4. melléklet tartalmazza.
+
+## 2. §
+
+Ez a rendelet 2014. január 1-jén lép hatályba.
+
+## 1. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^5]
+
+**KÉRELEM**
+
+**a szárított dohány és a fermentált dohány vámhatósági regisztrációjához**
+
+I. Személyi adatok
+
+1\. Természetes személy esetében
+
+1.1. Neve:
+
+1.2. Születési helye, ideje:
+
+1.3. Anyja neve:
+
+1.4. Állandó lakcíme (tartózkodási helye):
+
+1.5. Adóazonosító jele:
+
+1.6. Vámazonosító száma (a továbbiakban: VPID):
+
+1.7. Regisztrációs száma (változásbejelentés esetén):
+
+2\. Egyéni vállalkozó esetében
+
+2.1. Neve:
+
+2.2. Születési helye, ideje:
+
+2.3. Anyja neve:
+
+2.4. Állandó lakcíme (tartózkodási helye):
+
+2.5. Székhelye:
+
+2.6. Adószáma:
+
+2.7. VPID száma:
+
+2.8. Regisztrációs száma (változásbejelentés esetén):
+
+3\. Jogi személy, jogi személyiséggel nem rendelkező szervezet, belföldön nyilvántartásba vett gazdálkodó esetében
+
+3.1. Neve (elnevezése):
+
+3.2. Székhelye (belföldön nyilvántartásba vett gazdálkodó esetén nem kötelező):
+
+3.3. Adószáma:
+
+3.4. VPID száma:
+
+3.5. Regisztrációs száma (változásbejelentés esetén):
+
+II. A regisztrációköteles tevékenység:
+
+1\. 1. Típusa a Jöt. szerint:
+
+2\. Kezdő dátuma:
+
+3\. Befejező dátuma (tevékenység megszüntetése esetén):
+
+4\. Földterület/Telephely címe/helyrajzi száma:
+
+5\. Földterület/Telephely használati jogcíme:
+
+6\. A dohánytermesztésre használt földterület nagysága (hektár, két tizedesjegy pontossággal):
+
+III. A dohány típusa(i) és altípusa(i), szárított és/vagy fermentált volta
+
+IV. A bejelentő adóazonosító jele:
+
+V. Az 1/A. § szerinti
+
+1\. külföldi partner neve:
+
+2\. Magyarország területén kívüli teljesítési hely címe:
+
+3\. szerződés megkötésének ideje:
+
+## 2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^6]
+
+**IGAZOLÁS**\
+**szárított dohánnyal, fermentált dohánnyal kapcsolatos tevékenység regisztrálásáról**\
+I. Vámhatóság megnevezése:\
+A jövedéki adóról szóló törvény szerinti regisztrációs kérelem alapján a szárított dohánnyal, illetve fermentált dohánnyal kapcsolatban végzett tevékenységét az alábbi számon regisztráltam:\
+II. Regisztrációs szám:\
+III. Regisztrált személy:
+
+1\. Neve (elnevezése):
+
+2\. Székhelye/Lakcíme (ennek hiányában telephelye, tartózkodási helye):
+
+3\. Adószáma/adóazonosító jele:
+
+IV. A tevékenység végzésének típusa, helye, címe:
+
+V. A dohány típusa(i) (szárított és/vagy fermentált):
+
+A vámhatósági regisztrációs számot minden módosításnál, illetve bejelentésnél kötelező feltüntetni.
+
+VI. Külföldi partner neve:
+
+Kelt: ………………………………
+
+## 3. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^7]
+
+**Bejelentés**
+
+**szárított dohány, fermentált dohány szállításáról**
+
+I. A regisztrált személy
+
+1\. Neve (elnevezése):
+
+2\. Székhelye (belföldön nyilvántartásba vett gazdálkodó esetén nem kötelező):
+
+3\. Adószáma/adóazonosító jele:
+
+4\. VPID száma:
+
+5\. Regisztrációs száma:
+
+II. A Jöt. szerinti tevékenység típusa:
+
+III. A dohány típusa(i) (szárított és/vagy fermentált):
+
+IV. A bejelentett termék mennyisége (kg):
+
+V. A szállításra vonatkozó adatok:
+
+1\. Indulási hely:
+
+2\. Indulás időpontja:
+
+3\. Érkezési hely címe/helyrajzi száma:
+
+4\. Érkezés várható időpontja:
+
+5\. Címzett:
+
+6\. Szállító jármű forgalmi rendszáma:
+
+VI. A bejelentő adóazonosító jele:
+
+## 4. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^4]
+
+**A dohányimportáló és dohánykereskedő által vezetett nyilvántartás adattartalma**
+
+1\. A termékre vonatkozó alapvető adatok: a termék típusa (szárított vagy fermentált dohány), a termék altípusa, a termék KN-kódja, a termék mennyisége kg-ban kifejezve
+
+2\. A nyitókészlet mennyisége (naponként feltüntetve)
+
+3\. Nyitókészlet növekedése:
+
+3.1. Átvett mennyiség a telephely címe szerinti bontásban: időpont, szállítási okmány száma, feladó megnevezése, adószáma
+
+3.1.1. belföldről [a Jöt. 39. § (2) bekezdés f) pontja szerinti dohánykereskedő esetében]
+
+3.1.2. tagállamból [a Jöt. 39. § (2) bekezdés e) pontja szerinti dohányimportáló esetében]
+
+3.1.3. harmadik országból [a Jöt. 39. § (2) bekezdés e) pontja szerinti dohányimportáló esetében]
+
+3.2. Egyéb növekedés: időpont, bizonylat száma, jogcím
+
+4\. Nyitókészlet csökkenése:
+
+4.1. Értékesített vagy szállított mennyiség a telephely címe szerinti bontásban: az értékesítés vagy szállítás időpontja, a szállítási okmány száma, a vevő megnevezése, adószáma, jövedéki engedélyszáma vagy nyilvántartási száma
+
+4.1.1. belföldre
+
+4.1.1.1. dohánygyártmány előállítását végző adóraktár részére
+
+4.1.1.2. fermentáló üzem részére
+
+4.1.1.3. dohánykereskedő részére
+
+4.1.1.4. dohányfelhasználó részére
+
+4.1.2. tagállamba
+
+4.1.3. harmadik országba
+
+4.2. Egyéb csökkenés: időpont, bizonylat száma, jogcím
+
+5\. A zárókészlet mennyisége (naponként feltüntetve)
+
+---
+
+[^1]: Az 1. § a 419/2016. (XII. 14.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1/A. §-t a 21/2014. (II. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 419/2016. (XII. 14.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1/B. §-t a 466/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (1) bekezdése, a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés a) pontja, a 466/2025. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése, a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. melléklet a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 4. mellékletet a 466/2025. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

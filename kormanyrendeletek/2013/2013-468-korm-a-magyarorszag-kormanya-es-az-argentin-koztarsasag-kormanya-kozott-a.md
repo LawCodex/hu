@@ -1,0 +1,356 @@
+---
+title: "468/2013. (XII. 9.) Korm. rendelet a Magyarország Kormánya és az Argentin Köztársaság Kormánya között a kétoldalú gazdasági együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "468/2013. (XII. 9.) Korm. rendelet"
+njt_id: "2013-468-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/468"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-12-09
+in_force_from: 2013-12-10
+last_amended: 2015-09-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-468-20-22"
+retrieved: 2026-10-12
+---
+
+# 468/2013. (XII. 9.) Korm. rendelet a Magyarország Kormánya és az Argentin Köztársaság Kormánya között a kétoldalú gazdasági együttműködésről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Argentin Köztársaság Kormánya között a kétoldalú gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+„KÉTOLDALÚ GAZDASÁGI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA\
+ÉS AZ ARGENTIN KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+
+Magyarország Kormánya és az Argentin Köztársaság Kormánya (a továbbiakban: „Felek”);
+
+ösztönözve a hosszú ideje fennálló baráti kapcsolatok és a Magyarország és az Argentin Köztársaság közötti kapcsolatoknak az elmúlt évtizedben történt kedvező fejlődése által;
+
+felismerve, hogy a gazdasági együttműködés a Felek és állampolgáraik közötti erős és hosszú távú kétoldalú kapcsolatok fejlesztésének és a kölcsönös bizalomnak nélkülözhetetlen eleme;
+
+tudatában annak, hogy a két ország hatályos jogszabályaival összhangban szükséges a kétoldalú kapcsolatok megfelelő keretének kialakítása;
+
+attól a szándéktól vezérelve, hogy előmozdítsák és tovább erősítsék kétoldalú gazdasági együttműködésüket állampolgáraik érdekében;
+
+érdekelve a Felek közötti folyamatos párbeszéd megfelelő keretének kialakításában azzal a céllal, hogy a gazdasági és együttműködési kapcsolatokat erősítő és fejlesztő intézkedéseket elemezzenek és hagyjanak jóvá;
+
+az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+**Célok**
+
+A Felek egyetértenek abban, hogy jelen Megállapodás céljai – a két ország hatályos jogszabályaival összhangban – az alábbiak:
+
+1\. A kétoldalú kapcsolatok megerősítését célzó tevékenységek támogatása.
+
+2\. A kapcsolatok támogatása és fejlesztése az állami- és magánszektorban, valamint az üzleti és befektetési szférában.
+
+3\. A kétoldalú befektetések bővítésének előmozdítása, elősegítése, továbbá a gazdasági és befektetési lehetőségek beazonosítása az adott országokban, elsőbbséget biztosítva azoknak, amelyek magukban foglalják a technológia transzfert és támogatják a kutatás-fejlesztést.
+
+4\. A két ország és régió közötti gazdasági kapcsolatok fejlesztése érdekében az információcsere és az együttműködés erősítése.
+
+5\. A Felek exportalapjának támogatása és növelése.
+
+**2. cikk**
+
+**Együttműködési területek**
+
+Jelen Megállapodásban említett együttműködés elsősorban – azonban nem kizárólag – az alábbi területekre terjed ki:
+
+1\. Mezőgazdaság és élelmiszer-feldolgozás.
+
+2\. Környezetvédelem.
+
+3\. Ipar.
+
+4\. Egészségügy.
+
+5\. Energiaipar.
+
+6\. Turizmus.
+
+7\. Kis- és középvállalatok közötti együttműködés.
+
+8\. Befektetések ösztönzése és fejlesztése.
+
+9\. Telekommunikáció.
+
+10\. Számítástechnika és információs technológia.
+
+11\. Közlekedés.
+
+12\. Tudomány és technológia.
+
+13\. Kőolaj- és gázipar.
+
+14\. Vas- és acélgyártás.
+
+15\. Ház- és útépítés.
+
+16\. Vízgazdálkodás és folyószabályozás.
+
+**3. cikk**
+
+**A gazdasági együttműködés fejlesztését szolgáló eszközök**
+
+A Felek szélesebb körű és fokozottabb együttműködésre törekszenek az alábbiakban meghatározott módon:
+
+1\. Az üzleti szövetségek, kormányintézmények, regionális és helyi szervezetek, kamarák közötti kapcsolatok és együttműködés megerősítésével, valamint ezen intézmények képviselői látogatásainak előmozdításával, továbbá a gazdasági és műszaki együttműködés egyéb formáinak támogatásával és erősítésével.
+
+2\. Jelen Megállapodás megvalósításához kapcsolódó üzleti információk megosztásával, a szakkiállításokon és -vásárokon történő részvétel, valamint üzleti rendezvények, szemináriumok, szimpóziumok és konferenciák szervezésének ösztönzésével.
+
+3\. A magánszektorban működő kis- és középvállalkozásoknak a kétoldalú gazdasági kapcsolatokban történő fokozottabb részvételének ösztönzésével.
+
+4\. A kölcsönös érdeklődésre számot tartó területeken a konzultációs, marketing, tanácsadási és szakértői szolgáltatások nyújtásában történő együttműködés ösztönzésével.
+
+5\. Befektetői küldöttségek és szemináriumok szervezésével, a befektetés-ösztönzési politika fejlődésével és közös vállalatok létrehozásával kapcsolatos információ- és tapasztalatcserével.
+
+6\. A régiók közötti és nemzetközi együttműködés előmozdításával a kölcsönös érdeklődésre számot tartó területeken.
+
+7\. Az együttműködés kiterjesztése és erősítése érdekében a Felek által a későbbiekben meghatározott egyéb módszerekkel.
+
+**4. cikk**
+
+**Különleges megállapodások és további egyedi projektek**
+
+Szükség esetén a Felek kölcsönös egyetértés alapján jelen Megállapodás alapján a fent meghatározott együttműködési területeken külön megállapodásokat, valamint további egyedi projekteket hozhatnak létre.
+
+**5. cikk**
+
+**Gazdasági Vegyes Bizottság**
+
+A Felek jelen Megállapodás végrehajtásának biztosítása érdekében a külgazdaságért felelős magyar minisztérium, valamint az Argentin Köztársaság Külügy- és Kultuszminisztériuma, illetve Gazdasági és Államháztartási Minisztériuma képviselőiből álló Gazdasági Vegyes Bizottságot hoznak létre.
+
+A Gazdasági Vegyes Bizottság diplomáciai úton egyeztetett időpontban felváltva ülésezik Magyarországon és az Argentin Köztársaságban.
+
+A Gazdasági Vegyes Bizottság ülésein a vendéglátó küldöttség készíti elő a jegyzőkönyvet, amelyet a Felek küldöttségvezetői kölcsönös egyetértésükkel összhangban írnak alá.
+
+A Gazdasági Vegyes Bizottság hatásköre többek között az alábbi területekre terjed ki:
+
+1\. A Felek közötti gazdasági együttműködés ösztönzése és koordinálása.
+
+2\. Jelen Megállapodás és az annak alapján kötött egyedi megállapodások megvalósítására tett javaslatok elősegítése és mérlegelése.
+
+3\. Ajánlások kidolgozása jelen Megállapodás értelmében létrejött megállapodások és projektek végrehajtását akadályozó tényezők elhárítására.
+
+4\. Szükség szerint támogatás kérése a Felek más kormányzati szerveinek tisztségviselőitől, ezen kormányzati szervek, munkacsoportok és szakértői csoportok részvételével ad hoc vagy állandó albizottságok létrehozása, és részükre felelősségi kör delegálása, valamint nem kormányzati személyektől és intézményektől igényelt tanácsadás.
+
+5\. A kétoldalú gazdasági kapcsolatok tekintetében új fejlesztési lehetőségek beazonosítása.
+
+**6. cikk**
+
+**A Felek nemzetközi kötelezettségei**
+
+Jelen Megállapodás nem érintheti a Felek más nemzetközi egyezményekből eredő jogait és kötelezettségeit.
+
+**7. cikk**
+
+**Módosítások**
+
+Jelen Megállapodást a Felek közös megegyezéssel írásbeli megállapodás formájában, diplomáciai úton bármikor módosíthatják. Bármely, jelen Megállapodást érintő változtatás jelen Megállapodás 9. cikkének megfelelően lép hatályba.
+
+**8. cikk**
+
+**Viták rendezése**
+
+Jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatban felmerülő vitákat közvetlen egyeztetések és tárgyalások útján rendezik egymással a Felek.
+
+**9. cikk**
+
+**Végső rendelkezések**
+
+Jelen Megállapodás az annak hatálybalépéséhez szükséges alkotmányos követelmények teljesüléséről az egyik Fél által a másiknak diplomáciai úton megküldött utolsó írásbeli értesítés kézhezvételétől számított 30. (harmincadik) napon lép hatályba.
+
+Jelen Megállapodás 5 (öt) évig érvényes, amely további öt éves időszakra automatikusan megújul mindaddig, amíg valamelyik Fél a megszűnés előtt legalább 6 (hat) hónappal írásban nem értesíti a másik felet arról, hogy meg kívánja szüntetni jelen Megállapodást.
+
+Jelen Megállapodás megszűnése nincs hatással a jelen Megállapodás értelmében született más külön megállapodások, projektek vagy tevékenységek érvényességére vagy időtartamára azok teljesítéséig, hacsak a Felek másként nem állapodnak meg.
+
+Az 1974. május 13-án a Magyar Népköztársaság és az Argentin Köztársaság között létrejött Gazdasági és Műszaki Együttműködési Megállapodás jelen Megállapodás életbelépésével hatályát veszti.
+
+Készült 2013. év november hó 29. napján két eredeti példányban magyar, spanyol és angol nyelven. Az okirat valamennyi nyelven hiteles. Jelen Megállapodás rendelkezéseinek eltérő értelmezése esetén az angol nyelvű változat az irányadó.
+
+MAGYARORSZÁG KORMÁNYA RÉSZÉRŐL
+
+AZ ARGENTIN KÖZTÁRSASÁG KORMÁNYA RÉSZÉRŐL
+
+**AGREEMENT ON BILATERAL ECONOMIC COOPERATION BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE ARGENTINE REPUBLIC**
+
+The Government of Hungary and the Government of the Argentine Republic (hereinafter referred to as “the Parties”);
+
+Inspired by the long-standing bonds of friendship and the positive evolution of relations between the Argentine Republic and Hungary in the last decade;
+
+Recognizing that economic cooperation is an essential and indispensable element for the development of bilateral relations on a firm, long-term basis that rests upon mutual confidence between the Parties and their respective peoples;
+
+Aware of the need to create an appropriate framework for bilateral relations in accordance with the laws and regulations applicable in their respective countries;
+
+Desiring to promote and strengthen bilateral economic cooperation for the benefit of their peoples;
+
+Interested in establishing an appropriate framework for continuous dialogue between the Parties, with a view to analyzing and agreeing upon measures to strengthen and increase their economic and business cooperation relations;
+
+Have agreed as follows:
+
+**Article 1**
+
+**Objectives**
+
+The Parties agree that the objectives of this Agreement, pursuant to the laws and regulations applicable in their respective countries, are:
+
+1\. To promote activities aimed at strengthening their bilateral relations.
+
+2\. To support and develop contacts in the public and private sectors and in the business and investment spheres.
+
+3\. To promote and facilitate the expansion of bilateral investments and the identification of economic and investment opportunities in their respective countries, giving priority to those that incorporate technology transfer and foster research and development.
+
+4\. To strengthen the exchange of information and cooperation to increase economic relations between both countries and regions.
+
+5\. To promote and expand the export basis of the Parties.
+
+**Article 2**
+
+**Fields of Cooperation**
+
+The fields of cooperation mentioned in this Agreement especially include, but are not limited to:
+
+1\. Agriculture and food processing;
+
+2\. Environment;
+
+3\. Industry;
+
+4\. Health care;
+
+5\. Energy;
+
+6\. Tourism;
+
+7\. Cooperation between Small and Medium-Sized Enterprises;
+
+8\. Promotion and development of investments;
+
+9\. Communication;
+
+10\. Computer science and information technology;
+
+11\. Transport;
+
+12\. Science and technology;
+
+13\. Oil and gas industry;
+
+14\. Iron and steel production;
+
+15\. Construction of houses and roads;
+
+16\. Water management and river control.
+
+**Article 3**
+
+**Means to Increase Economic Cooperation**
+
+The Parties shall endeavour to broaden and intensify their cooperation through the following means:
+
+1\. Promoting bonds and strengthening cooperation between business federations, government institutions, regional and local entities and chambers, as well as encouraging visits from their representatives and other types of economic cooperation;
+
+2\. Exchanging business information related to the implementation of this Agreement, by encouraging participation in fairs and exhibitions and organizing business events, seminars, symposia and conferences;
+
+3\. Promoting greater participation by small and medium-sized enterprises from the private sector in bilateral economic relations;
+
+4\. Encouraging cooperation in the provision of consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+5\. Organizing investment missions and seminars, exchanging information and experiences with regard to the development of investment promotion policies, and forming joint ventures;
+
+6\. Promoting inter-regional and international cooperation in matters of mutual interest;
+
+7\. Any other means subsequently agreed upon by the Parties with a view to expanding and strengthening cooperation.
+
+**Article 4**
+
+**Specific Agreements and Other Special Projects**
+
+If deemed necessary, the Parties shall execute agreements based on this Agreement, concerning the fields of cooperation referred to above and such other special projects as may be agreed upon between them.
+
+**Article 5**
+
+**Joint Economic Committee**
+
+The Parties shall establish a Joint Economic Committee comprising representatives of the Ministry of Foreign Affairs and Worship and the Ministry of Economy and Public Finance of the Argentine Republic and of the Ministry in charge of Foreign Economic Affairs of Hungary, with a view to ensuring implementation of this Agreement.
+
+The Joint Economic Committee shall meet alternately in the Argentine Republic and in Hungary at such dates as may be agreed upon through the usual diplomatic channels.
+
+At each meeting of the Joint Economic Committee, the host Delegation shall prepare Minutes to be agreed upon and signed by the Heads of Delegation of both Parties.
+
+The Joint Economic Committee shall have the authority, inter alia, to consider the following matters:
+
+1\. Encouraging and coordinating economic cooperation between the Parties;
+
+2\. Promoting and considering proposals aimed at the implementation of this Agreement and specific agreements resulting therefrom;
+
+3\. Preparing recommendations for the purpose of removing such obstacles as may arise during the performance of any agreement and project established in accordance with this Agreement;
+
+4\. Requesting the assistance of officials from other governmental agencies of the Parties when deemed convenient, establishing and delegating responsibilities to ad hoc or permanent sub-committees of these governmental agencies, working groups and expert working groups, and requesting the advice of non-governmental persons and institutions;
+
+5\. Identifying new development opportunities for bilateral economic relations.
+
+**Article 6**
+
+**International obligations of the Parties**
+
+This Agreement shall not affect the rights and obligations of the Parties under other international treaties to which they are a party.
+
+**Article 7**
+
+**Amendments**
+
+This Agreement may be amended at any time by mutual written agreement between the Parties and through diplomatic channels. Any amendment to this Agreement shall enter into force in accordance with Article 9 of this Agreement.
+
+**Article 8**
+
+**Settlement of Disputes**
+
+Any divergence in the interpretation and implementation of this Agreement shall be settled through direct negotiations and consultations between the Parties.
+
+**Article 9**
+
+**Final Provisions**
+
+This Agreement shall enter into force 30 (thirty) days after receipt of the last notification in which either Party informs the other, in writing and through diplomatic channels, that it has fulfilled the necessary constitutional requirements for entry into force hereof.
+
+This Agreement shall remain in force for a period of 5 (five) years and shall be automatically renewed for similar periods, unless either Party notifies the other in writing of its intention to terminate this Agreement, at least 6 (six) months before termination.
+
+Termination of this Agreement shall not affect the validity or duration of any specific agreement, project or activity established under this Agreement until completion thereof, unless the Parties agree otherwise.
+
+The Agreement on Economic and Technical Cooperation between the Government of the Argentine Republic and the Government of the People's Republic of Hungary, executed on 13 May 1974, shall be terminated as from the entry into force of this Agreement.
+
+Done in Buenos Aires on 29 of November 2013, in two originals in the Hungarian, Spanish and English languages, all texts being equally authentic. In case of divergence in the interpretation of this Agreement, the English text shall prevail.
+
+FOR THE GOVERNMENT OF HUNGARY
+
+FOR THE GOVERNMENT OF THE ARGENTINE REPUBLIC”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 9. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 9. cikk első bekezdésében meghatározott időpontban lép hatályba. A 30/2015. (IX. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. szeptember 13.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 9. cikk első bekezdésében meghatározott időpontban lép hatályba. A 30/2015. (IX. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. szeptember 13.
+[^3]: A 30/2015. (IX. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. szeptember 13.
+[^4]: Lásd a 30/2015. (IX. 18.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 770. §-a szerint módosított szöveg.

@@ -1,0 +1,928 @@
+---
+title: "320/2014. (XII. 13.) Korm. rendelet az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról"
+identifier: "320/2014. (XII. 13.) Korm. rendelet"
+njt_id: "2014-320-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/320"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-12-13
+in_force_from: 2014-12-15
+last_amended: 2025-12-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-320-20-22"
+retrieved: 2026-10-12
+---
+
+# 320/2014. (XII. 13.) Korm. rendelet az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+
+a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. § (1) bekezdésében,
+
+a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában,
+
+a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 9. § (5) bekezdésében,
+
+a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § b)–d) pontjában,
+
+az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 357. § (1) bekezdés a) pontjában,
+
+a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## I. KIJELÖLÉSEK ÉS AZ IRÁNYÍTÁS SZABÁLYAI
+
+## 1. Az állami foglalkoztatási szerv kijelölése
+
+### 1. §[^1]
+
+(1)[^2] A Kormány állami foglalkoztatási szervként a foglalkoztatáspolitikáért felelős minisztert (a továbbiakban: miniszter), a fővárosi és vármegyei kormányhivatalt (a továbbiakban: kormányhivatal), a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal) jelöli ki. Ha kormányrendelet másként nem rendelkezik, az állami foglalkoztatási szerv hatáskörébe tartozó közigazgatási hatósági ügyekben a járási hivatal jár el.
+
+(2)[^3]
+
+(3) A Kormány az állami foglalkoztatási szerv azon feladataira, amelyre kormányrendelet más szervet nem jelölt ki, a kormányhivatalt jelöli ki.
+
+(4)[^4] A Nemzeti Foglalkoztatási Szolgálat szervezetrendszere – munkaerőpiaci feladataik ellátása során végzett tevékenységük tekintetében – a miniszter által vezetett minisztériumból, a fővárosi és vármegyei kormányhivatal foglalkoztatási, munkaerő-piaci feladatokat ellátó szervezeti egységéből, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának foglalkoztatási, munkaerő-piaci feladatokat ellátó szervezeti egységeiből áll.
+
+## 2. [^5] A munkavédelmi és foglalkoztatás-felügyeleti hatóságki jelölése
+
+### 2. §[^6]
+
+A Kormány a munkavédelemmel és a foglalkoztatás-felügyeleti hatósági tevékenységgel kapcsolatos közigazgatási feladatok ellátására munkavédelmi hatóságként, valamint foglalkoztatás-felügyeleti hatóságként a minisztert, továbbá a fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+## 3. Az irányítás szabályai
+
+### 3. §[^7]
+
+(1)[^8] A kormányhivatal, valamint a járási hivatal állami foglalkoztatási feladatköreinek gyakorlásával összefüggésben – ideértve a Gazdaság-újraindítási Foglalkoztatási Alap (a továbbiakban: GFA) pénzeszközeinek működtetésével összefüggő feladatok ellátását is – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket – a (2) bekezdésben foglaltak kivételével – szakmai irányító miniszterként a miniszter gyakorolja.
+
+(2)[^9] A kormányhivatal, valamint a járási hivatal állami közfoglalkoztatási feladatköreinek gyakorlásával összefüggésben – ideértve a GFA közfoglalkoztatási előirányzatának működtetését – az (1) bekezdésben foglalt irányítási hatásköröket, valamint a törvényességi, szakszerűségi és hatékonysági ellenőrzési hatásköröket a közfoglalkoztatásért felelős miniszter gyakorolja.
+
+(3)[^10] A kormányhivatal harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatköreinek gyakorlásával kapcsolatban az (1) bekezdésben foglalt irányítási hatásköröket, valamint a törvényességi, szakszerűségi és hatékonysági ellenőrzési hatásköröket a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter gyakorolja.
+
+## II. A MINISZTER ÉS A KÖZFOGLALKOZTATÁSÉRT FELELŐS MINISZTER FELADAT- ÉS HATÁSKÖRE
+
+## 4. A miniszter munkaerőpiaci feladat- és hatásköre
+
+### 4. §
+
+(1) A miniszter munkaerőpiaci feladatkörében
+
+a) ellát egyes munkaerőpiaci programokkal kapcsolatos feladatokat, amelyek keretében
+
+aa)[^11] dönt a foglalkoztatáshoz kapcsolódó több vármegyére kiterjedő vagy országos szintű munkaerőpiaci programok indításáról, munkaerőpiaci programokat dolgoz ki, valamint figyelemmel kíséri és irányítja azok végrehajtását,
+
+ab)[^12] kezdeményezi munkaerőpiaci programok kidolgozását és indítását, egyetértést gyakorol az állami foglalkoztatási szervként eljáró kormányhivatal által előkészített munkaerőpiaci program kapcsán,
+
+ac)[^13] a munkaerőpiaci programokat országos szinten egyezteti az érdekelt felekkel,
+
+b)[^14] követelményeket határoz meg a számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában, biztosítja a független jelentések közzétételét és ajánlásokat fogalmaz meg a *p)* pontban jelölt problémákról,
+
+c)[^15] az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően irányítja a GFA felhasználásával kapcsolatos tervezési, pénzügyi-számviteli és beszámolási feladatok végrehajtását,
+
+d)[^16] figyelemmel kíséri a GFA foglalkoztatási alaprésze decentralizált keretének az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal, valamint az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal által történő felhasználását,
+
+e)[^17] megállapítja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal kötelező szakmai szabályzatainak, az állami foglalkoztatási szervként ellátott feladatokat érintő rendelkezéseinek elveit és főbb tartalmi követelményeit,
+
+f)[^18] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal foglalkoztatást elősegítő szolgáltató tevékenységére vonatkozó szakmai követelményeket, a foglalkoztatást elősegítő szolgáltatást nyújtó szervezetként nyilvántartásba vett szervezetekkel kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat, a foglalkoztatást elősegítő szolgáltatást nyújtó szervezetek nyilvántartásba vételével kapcsolatos feladatokat,
+
+g)[^19] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatósági, támogatási és szolgáltató tevékenységének ellátásához szükséges informatikai és számítógépes rendszerek szakmai, tartalmi követelményeit, javaslatot tesz e számítógépes rendszerek fejlesztésére,
+
+h)[^20] eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatósági és szolgáltató tevékenységét,
+
+i)[^21] fejleszti a foglalkoztatást elősegítő szolgáltatásokat,
+
+j)[^22] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal, hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez,
+
+k)[^23] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal GFA működtetésével kapcsolatos tevékenységének szakmai és pénzügyszakmai ellenőrzését,
+
+l) hatósági jogkört gyakorol, amelynek keretében
+
+la)[^24]
+
+lb) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
+
+lc)[^25] dönt az EURES-tagként, valamint EURES-partnerként történő nyilvántartásba vételről vagy a nyilvántartásból való törlésről,
+
+ld)[^26]
+
+m) adatokat gyűjt és elemez
+
+ma) az egyéni bérek és keresetek alakulására vonatkozóan,
+
+mb) a magán-munkaközvetítők és -kölcsönzők éves tevékenységéről,
+
+mc)[^27] a szabad mozgás és tartózkodás jogával rendelkező személyek bejelentésköteles magyarországi foglalkoztatásáról,
+
+n) nemzetközi feladatokat lát el, amelynek keretében
+
+na)[^28] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal nemzetközi tevékenységét,
+
+nb) elősegíti az ILO, WAPES és EU tagságból adódó feladatok végrehajtását,
+
+nc)[^29] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal – a személyek szabad áramlásához kapcsolódó – feladatainak végrehajtását,
+
+nd)[^30] ellátja az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) magyarországi rendszere működtetésének és fejlesztésének feladatait, ügyfélszolgálatot működtet, az EURES Nemzeti Koordinációs Iroda útján kapcsolatot tart az EURES európai intézményeivel, az Európai Unió szervei által működtetett információs hálózatokkal, valamint az egyenlő bánásmódot népszerűsítő és az uniós munkavállalókat és családtagjaikat támogató szervekkel,
+
+ne) együttműködik az Európai Gazdasági Térségről szóló Megállapodásban részes tagállamok foglalkoztatási szolgálataival,
+
+o) ellátja a jogszabályok által meghatározott nyilvántartások vezetésével kapcsolatos feladatokat,
+
+p)[^31] munkaügyi kutatásokat kezdeményez, amelynek keretében független felméréseket és elemzéseket készít vagy rendel meg az uniós munkavállalók és családtagjaik szabad mozgáshoz való joga gyakorlásának indokolatlan korlátozása és akadályozása vagy az állampolgárság alapján történő megkülönböztetése tárgyában,
+
+q)[^32] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal európai uniós támogatással megvalósuló tevékenységeit,
+
+r)[^33] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal munkaerőpiaci feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
+
+s)[^34]
+
+(1a)[^35] Az állami foglalkoztatási szerv feladatkörében eljáró kormányhivatal által lefolytatott hatósági ügyben – ideértve a GFA pénzeszközeinek működtetésével összefüggő feladatok ellátását is – felügyeleti szervként a miniszter jár el.
+
+(2) A miniszter a munkaügyi kapcsolatok feladatkörében
+
+a) meghatározza a kollektív szerződések regisztrálásának szabályait, nyilvántartja és elemzi a kollektív szerződéseket, dönt a kollektív szerződés hatályának az ágazatra (alágazatra) történő kiterjesztéséről, illetve a kiterjesztés visszavonásáról,
+
+b) támogatja az ágazati párbeszéd bizottság, valamint az ágazati részvételt megállapító bizottság intézményrendszerének működését,
+
+c) nyilvántartja az üzemi tanács (európai üzemi tanács) választási eredményeket,
+
+d) működteti a Munkaügyi Kapcsolatok Információs Rendszerét (MKIR),
+
+e)[^36] kialakítja a kollektív munkaügyi érdekviták és békéltetés esetén a kollektív munkaügyi jogviták – országos, egységes elveken nyugvó – szakmailag független támogató rendszerét, valamint koordinálja a munkaügyi alternatív vitarendezési szolgáltatás működését.
+
+f)[^37] működteti a munkaügyi tanácsadó és vitarendező szolgálatot.
+
+(3) Az (1)–(2) bekezdésben meghatározott feladatainak ellátása érdekében együttműködik
+
+a) a hatósági és szolgáltató tevékenységében érintett társhatóságokkal,
+
+b) a munkaadók és a munkavállalók érdekképviseleti szerveivel,
+
+c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét érintő nemzetközi szervezetekkel, valamint
+
+d) egyéb szervezetekkel.
+
+(4) A miniszter foglalkoztatáspolitikai, munkavédelmi, munkaügyi feladat- és hatáskörében tervezi és szervezi az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósítását, illetve támogatást vagy ösztöndíjat folyósít.
+
+## 5. [^38] A miniszter munkavédelmi és foglalkoztatás-felügyeleti feladat- és hatásköre
+
+### 5. §[^39]
+
+A miniszter ellátja a munkavédelmi hatósági hatáskörében és foglalkoztatás-felügyeleti hatósági hatáskörében eljáró kormányhivatal munkavédelmi hatóságként, valamint foglalkoztatás-felügyeleti hatóságként folytatott tevékenységének szakmai irányítását. Ennek keretében
+
+a)[^40] a kormányhivatal e tevékenységei tekintetében a közigazgatás-szervezésért felelős miniszter közreműködésével hatékonysági ellenőrzést folytathat le,
+
+b)[^41] normatív utasítások, módszertani útmutatók, szakmai ajánlások és tájékoztató anyagok kiadásával, konzultációk tartásával, továbbá a szakmai munka értékelésével szabályozza, illetve támogatja a kormányhivatal szakmai feladatainak ellátását,
+
+c)[^42] szervezi a kormányhivatal munkavédelmi hatósági és foglalkoztatás-felügyeleti hatósági tevékenységével kapcsolatos szakmai képzést és továbbképzést, továbbá a hatósági ellenőrzésre jogosító vizsga lebonyolítását,
+
+d)[^43] elemzi és értékeli a kormányhivatal munkavédelmi hatósági, valamint foglalkoztatás-felügyeleti hatósági tevékenységével kapcsolatos panaszokat,
+
+e)[^44] irányelvet ad ki a munkavédelmi ellenőrzésről és a foglalkoztatás-felügyeleti hatósági ellenőrzésről,
+
+f)[^45] a kormányhivatalok bevonásával működteti a munkavédelmi és a foglalkoztatás-felügyeleti feladatok ellátásához, az adatok nyilvántartásához szükséges egységes informatikai rendszert,
+
+g) ellátja a rendkívüli állapot idején szükséges munkaerő meghagyásával kapcsolatosan jogszabály által hatáskörébe utalt feladatokat,
+
+h)[^46]
+
+i) jogszabály alapján ellátja az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésével és bejelentésével kapcsolatosan hatáskörébe utalt feladatokat és működteti a Kijelölést Előkészítő Bizottságot,
+
+j)[^47] kijelölt hatóságként ellátja a 96/71/EK irányelv és a 2014/67/EU irányelv végrehajtásával összefüggő, a hatóság részére megállapított feladatokat, továbbá gondoskodik a kapcsolattartói feladatok ellátásáról,
+
+k)[^48] kijelölt hatóságként fogadja és a végrehajtás foganatosítására jogosult hatósághoz továbbítja a külföldi határozat magyarországi végrehajtására irányuló megkeresést.
+
+### 6. §
+
+A miniszter ellátja a munkavédelem nemzetgazdasági szintű irányításával kapcsolatos feladatokat. Ennek keretében
+
+a) ellátja a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 14. §-ában meghatározott állami irányítási feladatokat,
+
+b) részt vesz a munkavédelemben érintett nemzetközi szervezetek munkájában, együttműködik más államok szerveivel a munkavédelmi feladatok összehangolása végett, figyelemmel kíséri a nemzetközi munkavédelmi kutatási eredményeket, azok hazai hasznosításának elősegítése érdekében,
+
+c) mint kijelölt nemzeti hatóság, ellátja az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség Nemzeti Fókuszpontja feladatait,
+
+d)[^49] ellátja az Mvt. 78. §-ában megjelölt Országos Munkavédelmi Bizottság titkársági, adminisztratív teendőit,
+
+e)[^50]
+
+f) külön jogszabályban meghatározottak szerint részt vesz egyéb bizottságok, testületek, tevékenységek végzésében, működésében, különösen a szabványosítás, az akkreditálás, a nukleáris balesetelhárítás és a kémiai biztonság területén.
+
+g)[^51] ellátja a munkavédelmi szakmai képesítéssel rendelkező személyek nyilvántartásával és továbbképzésével kapcsolatosan a hatáskörébe utalt feladatokat.
+
+### 7. §[^52]
+
+(1)[^53] A miniszter a foglalkoztatás-felügyeleti hatósági ellenőrzéssel kapcsolatos állami irányítási feladatai keretében
+
+a) együttműködik az Európai Unió, valamint az EGT-tagállamok munkaügyi feladatokat ellátó hatóságaival,
+
+b) ellátja az illetékes kapcsolattartó feladatait, ennek keretében kijelöli az illetékes kapcsolattartó személyét és biztosítja a működéséhez szükséges feltételeket.
+
+(2) A miniszter az (1) bekezdésben meghatározott feladata végrehajtásával összefüggésben tiszteletben tartja a más tagállamoknak az illetékes hatóságok kijelölése tárgyában hozott döntését.
+
+(3)[^54] A miniszter a foglalkoztatás-felügyeleti hatósági ellenőrzéssel kapcsolatos állami irányítási feladatok keretében a foglalkoztatás-felügyeleti hatósági hatáskörében eljáró kormányhivatal közreműködésével részt vesz a munkaügyi jogszabályok alkalmazásának elősegítését szolgáló tájékoztató és felvilágosító tevékenység ellátásában.
+
+## 5/A. [^55] A miniszter, mint kapcsolattartó feladatai és hatásköre
+
+### 7/A. §
+
+A miniszter, mint a 7. § (1) bekezdés b) pontja szerinti kapcsolattartó – a kijelölt kapcsolattartó személy útján –
+
+a) biztosítja, hogy a foglalkoztatási szabályokra és feltételekre vonatkozó jogszabályok, kollektív szerződések – ideértve a munkahelyi egészségvédelemre és biztonságra vonatkozó rendelkezéseket is – az Európai Unió más tagállamából származó szolgáltatók és a Magyarország területére kiküldött munkavállalók számára hozzáférhető és átlátható módon rendelkezésre álljanak,
+
+b) tájékoztatást nyújt a munkavállalók és vállalkozások számára azokról a szervekről és hatóságokról, amelyekhez a Magyarország területén fennálló jogaikra és kötelességeikre alkalmazandó nemzeti joggal és gyakorlattal kapcsolatos információkért fordulhatnak,
+
+c) egységes hivatalos nemzeti honlapot működtet, összefoglaló kiadványokat készít magyar és a munkaerő-piaci kereslet szempontjából legfontosabb nyelveken annak érdekében, hogy a Magyarország területére kiküldött munkavállalókra vonatkozó foglalkoztatási szabályokról és szociális feltételekről díjmentes tájékoztatást nyújtson, továbbá a fontos és naprakész információkhoz való hozzáférés lehetőségét növelje,
+
+d)[^56] a nemzetközi együttműködés keretében, megkeresésre a foglalkoztatás-felügyeleti hatóság hatáskörébe tartozó feladatokat érintően tájékoztatást nyújt az elvégzett hatósági ellenőrzések megállapításairól, valamint a munkaügyi jogszabályok tartalmáról.
+
+## 6. A közfoglalkoztatásért felelős miniszter feladatai
+
+### 8. §[^57]
+
+(1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
+
+a) követelményeket határoz meg a közfoglalkoztatással kapcsolatos számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
+
+b)[^58] az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően közreműködik a GFA közfoglalkoztatási előirányzat felhasználásával kapcsolatos tervezési feladatok végrehajtásában, javaslatokat tesz a pénzügyi nyilvántartásokra vonatkozóan,
+
+c)[^59] figyelemmel kíséri a GFA közfoglalkoztatási előirányzat keretének felhasználását,
+
+d) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a közfoglalkoztatással kapcsolatos hatósági és szolgáltató tevékenység szakmai követelményeit, meghatározza az azok ellátásához szükséges informatikai és számítógépes rendszereket,
+
+e) közfoglalkoztatással összefüggő kutatásokat kezdeményez és végez,
+
+f) megállapítja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal kötelező belső szakmai szabályzatainak a közfoglalkoztatást érintő rendelkezéseire vonatkozó elveit és főbb tartalmi követelményeit,
+
+g) ellátja a közfoglalkoztatási támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
+
+h) meghatározza a közfoglalkoztatásra vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
+
+i) javaslatot tesz az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos tevékenysége informatikai rendszerének fejlesztésére,
+
+j) ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
+
+k) ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal közfoglalkoztatással kapcsolatos szakmai és pénzügyszakmai tevékenységének ellenőrzését,
+
+l) hatósági jogkört gyakorol, amelynek keretében
+
+la) ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok által, a közfoglalkoztatással kapcsolatban kötött hatósági szerződésben foglaltak teljesítését,
+
+lb) ellenőrzi a munkavégzés közfoglalkoztatási szerződésben foglaltak szerinti teljesítését,
+
+lc) ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
+
+ld)[^60]
+
+m) adatokat gyűjt és elemez a közfoglalkoztatási bérek és keresetek alakulására vonatkozóan,
+
+n) adatokat gyűjt és elemez a közfoglalkoztatottakat kölcsönzők éves tevékenységéről,
+
+o) vizsgálja a közfoglalkoztatással kapcsolatos és az azzal összefüggő jogi szabályozás gyakorlati tapasztalatait, javaslatot tesz a jogszabályok módosítására,
+
+p) közreműködik a közfoglalkoztatással kapcsolatos és az azzal összefüggő jogi szabályozás előkészítésében,
+
+q) együttműködik
+
+qa) a hatósági és szolgáltató tevékenységében érintett társhatóságokkal,
+
+qb) a közfoglalkoztatók és közfoglalkoztatottak érdekképviseleti szerveivel,
+
+qc) más államok hasonló feladatot ellátó szerveivel és a feladatkörét érintő nemzetközi szervezetekkel, valamint
+
+qd) egyéb szervezetekkel,
+
+r) a közfoglalkoztatáshoz kapcsolódó képzésekkel összefüggő feladatai keretében
+
+ra) a felnőttképzésért felelős miniszterrel együttműködve koordinálja, ellenőrzi, értékeli az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal felnőttképzéssel összefüggő tevékenységét,
+
+rb) a felnőttképzésért felelős miniszter egyetértésével meghatározza a közfoglalkoztatással kapcsolatos képzési irányokat,
+
+rc) a felhasználás irányelveire tekintettel szervezi a képzési programok megvalósítását és koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatát,
+
+rd) összegyűjti, tanulmányozza az egyes képzési programok főbb követelményeit, ellenőrző munkája során vizsgálja azok megvalósítását,
+
+re) a felnőttképzésért felelős miniszterrel együttműködve koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatottak képzéséhez kapcsolódó, európai uniós támogatással megvalósuló tevékenységét,
+
+s)[^61] tervezi, szervezi, koordinálja és nyomon követi a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal humánszolgáltatásokkal kapcsolatos feladatait a miniszterrel együttműködve,
+
+t) ellátja a jogszabályban meghatározott egyéb feladatokat.
+
+(2)[^62] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
+
+a) a 4. § (1) bekezdés g) pontjával összhangban a miniszterrel egyeztetve fejleszti a miniszter, az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
+
+b) a miniszterrel egyeztetve fejleszti a munkaerőpiaccal, a közfoglalkoztatással kapcsolatos programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
+
+c) fejleszti és működteti az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladatainak ellátásával kapcsolatos informatikai és számítógépes rendszereket, továbbá ennek körében telepíti, teszteli és módosítja a programrendszereket,
+
+d) a *c)* pontban meghatározott informatikai rendszerekkel összefüggésben teljesíti a miniszter, valamint az adatok igénylésére jogosult más szervek megkereséseit.
+
+(3)[^63] A közfoglalkoztatásért felelős miniszter előkészíti, koordinálja, nyomon követi, valamint közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok és humánszolgáltatások megvalósításának tervezésében és szervezésében.
+
+## 6/A. [^64] A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter feladat- és hatásköre
+
+### 8/A. §
+
+A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter
+
+a) meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal harmadik országbeli állampolgárok magyarországi foglalkoztatásához kapcsolódó hatósági tevékenységének ellátásához szükséges informatikai és számítógépes rendszerek szakmai, tartalmi követelményeit, javaslatot tesz e számítógépes rendszerek fejlesztésére,
+
+b) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal harmadik országbeli állampolgárok foglalkoztatásához kapcsolódó hatósági tevékenységét,
+
+c) adatokat gyűjt és elemez a harmadik országbeli állampolgárok magyarországi foglalkoztatásáról és a minősített kölcsönbeadók éves tevékenységéről.
+
+## [^65] III. AZ ÁLLAMI FOGLALKOZTATÁSI SZERV HATÁSKÖRÉBEN ELJÁRÓ KORMÁNYHIVATAL ÉS A JÁRÁSI HIVATAL FELADAT- ÉS HATÁSKÖRE
+
+## 7. [^66] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal feladat- és hatásköre
+
+### 9. §[^67]
+
+Az állami foglalkoztatási szervként eljáró
+
+a) Budapest Főváros Kormányhivatala a bérgarancia támogatással,
+
+b)[^68] Békés Vármegyei Kormányhivatal a munkáltatói kérelem alapján történő munkaidőkeret vagy elszámolási időszak engedélyezésével
+
+kapcsolatos feladatokat át nem ruházható hatáskörben országos illetékességgel látja el.
+
+### 10. §[^69]
+
+(1) Az állami foglalkoztatási szervként eljáró kormányhivatal
+
+a) szakmailag irányítja és ellenőrzi az állami foglalkoztatási szervként eljáró járási hivatal tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatait ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú hatósági és szolgáltató tevékenységét,
+
+b)[^70] ellátja a GFA pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
+
+c)[^71] dönt a GFA foglalkoztatási alaprészének és a közfoglalkoztatási támogatások előirányzat decentralizált kerete felhasználásáról,
+
+d)[^72] ellátja a GFA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkaerőpiaci programok, pályázatok, valamint a közfoglalkoztatási támogatások előirányzat központi keretéből finanszírozott támogatásokkal kapcsolatos feladatokat,
+
+e) működteti az álláskeresők ellátási rendszerét, az álláskeresők részére saját hatáskörben nyújtott támogatások rendszerét és gondoskodik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal támogatási rendszere szakmai működtetéséről,
+
+f) felelős a szakmai munkát támogató szoftverek működtetéséért és használatáért,
+
+g) ellátja az európai uniós források felhasználásával kapcsolatos szakmai és pénzügyi feladatokat,
+
+h)[^73] az előzetes csoportos munkavállalási jóváhagyás kiadására irányuló eljárás során vizsgálja a térség munkaerőpiaci helyzetét, az eljárás időpontjában rendelkezésre álló munkaerőt,
+
+i) állami foglalkoztatási szervként ellátandó feladatai eredményességének elősegítése érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi nemzetiségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel, ennek keretében szakmailag irányítja és koordinálja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal – a szociális igazgatásról és szociális ellátásokról szóló törvényből adódó – feladatai végrehajtását,
+
+j) ellátja az EURES-sel kapcsolatos szervezési, tanácsadási és koordinációs feladatokat, valamint kapcsolatot tart a munkaerő-piaci szereplőkkel,
+
+k) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat,
+
+l)[^74] részt vesz a munkaerőpiaci programban meghatározottak szerint a munkaerőpiaci program végrehajtásában, valamint a miniszter egyetértésével munkaerőpiaci programot hirdet meg,
+
+m) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket,
+
+n) nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket,
+
+o)[^75]
+
+p)[^76] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol.
+
+(2) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi kormányhivatal nyilvántartja azon munkaadók csoportos létszámcsökkentésére vonatkozó bejelentéseit, amelyek csoportos létszámcsökkentésessel érintett székhelye vagy telephelye a főváros területén van.
+
+(3) Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal közfoglalkoztatási feladatai körében
+
+a) szakmailag irányítja és szakmailag ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos feladatokat ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos hatósági és szolgáltató tevékenységet,
+
+b)[^77] ellátja a GFA közfoglalkoztatási előirányzat pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
+
+c)[^78] dönt a GFA közfoglalkoztatási támogatások előirányzat decentralizált keretének felhasználásáról,
+
+d) ellátja a pénzeszközök visszakövetelésével kapcsolatos pénzügyi feladatokat,
+
+e) felelős a közfoglalkoztatással kapcsolatos szakmai munkát támogató szoftverek működtetéséért és használatáért,
+
+f) ellátja az európai uniós források felhasználásával megvalósuló közfoglalkoztatáshoz kapcsolódó képzésekkel kapcsolatos szakmai és pénzügyi feladatokat,
+
+g) feladatainak ellátása érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi nemzetiségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel,
+
+h) előkészíti a kormányhivatal és a járási hivatal belső szakmai szabályzatainak közfoglalkoztatással kapcsolatos rendelkezéseit,
+
+i) ellátja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá a közfoglalkoztatással kapcsolatos szakmai és pénzügyszakmai tevékenységének ellenőrzését,
+
+j) hatósági jogkört gyakorol, amelynek keretében
+
+ja) jogszabályban meghatározottak szerint hatósági szerződést köt a hatáskörébe tartozó közfoglalkoztatáshoz nyújtható támogatásokra vonatkozóan,
+
+jb) ellenőrzi az általa vagy az illetékességi területén található, az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal által kötött, a *ja)* alpontban meghatározott hatósági szerződésben foglaltak teljesítését,
+
+jc) ellenőrzi a munkavégzés közfoglalkoztatási szerződésben foglaltak szerinti teljesítését,
+
+jd) ellenőrzi a hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
+
+je) az általa kötött hatósági szerződések tekintetében ellátja a pénzeszközök visszakövetelésével kapcsolatos hatósági feladatokat,
+
+jf)[^79]
+
+k) ellátja a hatáskörébe tartozó közfoglalkoztatási támogatási eljárással kapcsolatos szakmai és pénzügyi feladatokat,
+
+l) a közfoglalkoztatáshoz kapcsolódó képzési feladatok ellátásának keretében
+
+la) gondoskodik a rendszer szakmai működtetéséről, valamint koordinálja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok tevékenységét és képzéseket szervez,
+
+lb) ellátja azokat a feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
+
+(4)[^80] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol
+
+a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
+
+b)[^81]
+
+c)[^82] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény felhatalmazása alapján kiadott kormányrendelet által hatáskörébe utalt foglalkoztatást elősegítő támogatás megállapításával,
+
+d)[^83] a hatáskörébe tartozó ügyekben a pénzeszközök visszakövetelésével,
+
+e)[^84]
+
+f)[^85]
+
+g)[^86]
+
+h)[^87]
+
+i) az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe utalt nyilvántartásba vétellel, valamint
+
+j)[^88] vállalkozóvá válást elősegítő támogatással
+
+kapcsolatos ügyekben.
+
+(4a)[^89] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+
+(5) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalt jelöli ki.
+
+(6)[^90] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal a foglalkoztatást elősegítő szolgáltatási feladatok ellátásának keretében
+
+a) gondoskodik a foglalkoztatást elősegítő szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok foglalkoztatást elősegítő szolgáltatási tevékenységét, foglalkoztatást elősegítő szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
+
+b) elkészíti az éves szolgáltatási tervet,
+
+c) ellátja azokat a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
+
+(7)[^91] A harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala
+
+a) a minősített kölcsönbeadó nyilvántartásba vételével, ellenőrzésével és nyilvántartásból törlésével,
+
+b) a regisztrációs és foglalkoztatási díj fizetésére kötelezett kedvezményes foglalkoztatók és minősített kölcsönbeadók nyilvántartásba vételével, valamint a regisztrációs és foglalkoztatási díj kiszabásával és beszedésével
+
+összefüggő ügyekkel kapcsolatos feladatokat át nem ruházható hatáskörben, országos illetékességgel látja el.
+
+(8)[^92] Az állami foglalkoztatási szervként eljáró kormányhivatal a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében hatósági jogkört gyakorol
+
+a) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához szükséges munkavállalási engedély,
+
+b)[^93] az idegenrendészeti szerv által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás
+
+kiadásával.
+
+## 8. [^94] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
+
+### 11. §[^95]
+
+(1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
+
+a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
+
+b) ellátja a hatáskörébe tartozó ügyekben a pénzeszközök visszakövetelésével kapcsolatos feladatokat,
+
+c)[^96] közreműködik a foglalkoztatást elősegítő szolgáltatások szervezésében és bonyolításában, ellátja a szolgáltatást kérők nyilvántartásba vételével kapcsolatos feladatokat,
+
+d) a fővárosi illetékességi területtel rendelkező járási hivatalok kivételével nyilvántartja azon munkaadók csoportos létszámleépítésre vonatkozó bejelentéseit, amelyek csoportos létszámcsökkentéssel érintett székhelye vagy telephelye a járási hivatal illetékességi területén van,
+
+e) munkaközvetítést végez,
+
+f)[^97] fogadja a munkaerőigényekre vonatkozó bejelentéseket, ellátja a munkaerőigénnyel összefüggő feladatokat,
+
+g) információt nyújt, tanácsadást végez,
+
+h) az általa ellátott feladatokkal kapcsolatos ügyfélszolgálati tevékenységet végez,
+
+i) közreműködik a csoportos létszámleépítések hátrányos következményeinek enyhítésében,
+
+j) ellátja az EURES-sel kapcsolatos tájékoztatási és tanácsadási feladatokat,
+
+k)[^98] munkaerőpiaci programokat kezdeményez, részt vesz a munkaerőpiaci programban meghatározottak szerint a munkaerőpiaci program végrehajtásában,
+
+l)[^99] kapcsolatot tart a vármegye (főváros), a járás gazdasági életében részt vevő munkaadókkal, a helyi önkormányzatokkal és a vármegyében működő más szervezetekkel, közreműködik a gazdasági szerkezet átalakítását, valamint a foglalkoztatási helyzet javítását célzó programokban,
+
+m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat,
+
+n)[^100]
+
+o)[^101] hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+
+(2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
+
+a) közreműködik a közfoglalkoztatáshoz kapcsolódó képzések szervezésében és bonyolításában,
+
+b) munkaközvetítést végez közfoglalkoztatási célból,
+
+c) fogadja a közfoglalkoztatási munkaerőigényekre vonatkozó bejelentéseket,
+
+d) információt nyújt, tanácsadást végez,
+
+e) az általa ellátott feladatokkal kapcsolatos ügyfélszolgálati tevékenységet végez,
+
+f) ellátja a nem hatáskörébe tartozó közfoglalkoztatási programokkal kapcsolatos tájékoztatással, véleményezéssel, döntés-előkészítéssel kapcsolatos feladatokat,
+
+g)[^102] kapcsolatot tart a vármegye (főváros), a járás (fővárosi kerület) területén található közfoglalkoztatókkal, a helyi önkormányzatokkal és a vármegyében működő más szervezetekkel,
+
+h)[^103] át nem ruházható hatáskörben, jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol, amelynek keretében
+
+ha) jogszabályban meghatározottak szerint hatósági szerződést köt a hatáskörébe tartozó közfoglalkoztatáshoz nyújtható támogatásokra vonatkozóan,
+
+hb) ellenőrzi az általa kötött hatósági szerződésben foglaltak teljesítését,
+
+hc) ellenőrzi a munkavégzés közfoglalkoztatási szerződésben foglaltak szerinti teljesítését,
+
+hd) ellenőrzi a hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
+
+he) az általa kötött hatósági szerződések tekintetében ellátja a pénzeszközök visszakövetelésével kapcsolatos hatósági feladatokat,
+
+hf) dönt a közfoglalkoztatásból történő kizárásról,
+
+i) feltárja a közfoglalkoztatási munkalehetőségeket,
+
+j) szervezi a közfoglalkoztatást.
+
+## [^104] IV. A MUNKAVÉDELMI ÉS FOGLALKOZTATÁS-FELÜGYELETI HATÓSÁGI HATÁSKÖRBEN ELJÁRÓ KORMÁNYHIVATALRA VONATKOZÓ SZABÁLYOK
+
+## 9.[^105]
+
+## 10. Munkavédelmi hatósági feladatok és eljárás
+
+### 13. §[^106]
+
+(1)[^107] A miniszter mint munkavédelmi hatóság és a munkavédelmi feladatkörében eljáró kormányhivatal mint munkavédelmi hatóság ellátják az általános munkavédelmi hatósági feladatokat. A munkavédelmi feladatkörében eljáró a kormányhivatal az illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
+
+(2)[^108] A miniszter, mint munkavédelmi hatóság, valamint a munkavédelmi hatósági hatáskörben eljáró kormányhivatal teljesíti az Mvt. 82/A. §-ában, 83/A. §-ában, 83/B. §-ában, 83/C. §-ában, továbbá az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés t) pontjában és 15/A. §-ában meghatározott beszámolási, nyilvántartási és adatkezelési kötelezettséget.
+
+### 14. §
+
+(1)[^109] A miniszter munkavédelmi hatósági jogkörében
+
+a)[^110]
+
+b)[^111] a munkavállalók rákkeltő, mutagén vagy reprodukciót károsító anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szembeni védelmének elősegítése érdekében az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat látja el, és elektronikus nyilvántartást vezet,
+
+c) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogszabály szerinti eljárásban történő igazolása céljából az Mvt. 83/B. §-ában meghatározott módon és tartalommal hatósági nyilvántartást vezet.
+
+(2)[^112] A miniszter külön jogszabályban meghatározottak szerint ellátja az Mvt. 84. § (2) bekezdésében meghatározott foglalkozási megbetegedésekkel kapcsolatos feladatokat.
+
+(3)[^113] A munkavédelmi hatósági hatáskörben eljáró kormányhivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró kormányhivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési, engedélyezési és nyilvántartás vezetési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
+
+(4)[^114] A munkavédelmi bírság kiszabására az a munkavédelmi hatósági hatáskörben eljáró kormányhivatal jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+
+(5)[^115] Az egyéni védőeszközök és a munkaeszközök tekintetében a munkavédelmi hatósági hatáskörben eljáró kormányhivatal a munkavédelmi hatósági ellenőrzés során saját hatáskörben látja el a piacfelügyeleti hatósági feladatokat.
+
+(6)[^116] A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló hatósági eljárás lefolytatására az a munkavédelmi hatóság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+
+(7)[^117] A munkavédelmi feladatkörében eljáró kormányhivatal által lefolytatott hatósági ügyben felügyeleti szervként a miniszter jár el.
+
+### 14/A. §[^118]
+
+(1) A munkavédelmi feladatkörében eljáró kormányhivatal kormánytisztviselője a hatósági ellenőrzésre jogosító önálló munkavégzéshez a kinevezésétől számított hat hónapon belül vizsgát tesz, valamint évenként részt vesz szakmai továbbképzésen.
+
+(2) A vizsgára való felkészítés, a záróvizsga, valamint a vizsgakötelezettség alóli mentesülés részletes szabályait a miniszter vizsgaszabályzatban állapítja meg.
+
+## 11. [^119] Foglalkoztatás-felügyeleti hatósági feladatok és eljárás
+
+### 15. §[^120]
+
+(1) A miniszter mint foglalkoztatás-felügyeleti hatóság, valamint a foglalkoztatás-felügyeleti hatósági feladatkörében eljáró kormányhivatal általános hatáskörű foglalkoztatás-felügyeleti hatóságként ellátják a foglalkoztatás-felügyeleti hatóságról szóló jogszabályokban meghatározott feladatokat.
+
+(2) A miniszter megállapítja és évenként, a tárgyév kezdetét megelőzően legalább negyvenöt nappal közzéteszi a foglalkoztatás-felügyeleti hatóság tevékenységét meghatározó ellenőrzési irányelvet, amelynek végrehajtásáról időszakos és éves tájékoztatást készít, és a miniszter hivatalos honlapján közzéteszi.
+
+(3) A miniszter hatósági jogkörében a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabályok foglalkoztatók általi megtartásának, valamint a foglalkoztatók munkaügyi kapcsolatai rendezettségének igazolása céljából hatósági nyilvántartást vezet.
+
+(4) A foglalkoztatás-felügyeleti hatósági feladatkörében eljáró kormányhivatal által lefolytatott hatósági ügyben felügyeleti szervként a miniszter jár el.
+
+(5) Szakmai irányítási feladatkörében a miniszter – a jogalkalmazás egységességének elősegítése érdekében – a foglalkoztatás-felügyeleti hatósági hatáskörében eljáró kormányhivatal számára a közigazgatási per vitelére és felülvizsgálati kérelem benyújtására vonatkozóan kötelező érvényű iránymutatást adhat.
+
+(6) A miniszter adja ki az Európai Munkaügyi Hatóság hatáskörébe tartozó területeken végzett összehangolt vagy közös ellenőrzésekben való részvételre jogosító megbízólevelet.
+
+(7)[^121] A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló hatósági eljárás lefolytatására az a foglalkoztatás-felügyeleti hatóság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+
+(8)[^122] A foglalkoztatás-felügyeleti hatósági hatáskörében eljáró kormányhivatal ellátja a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény (a továbbiakban: Fftv.) 7–10. §-ában, valamint a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet 3. §-ában, 4. §-ában, 8–20. §-ában, 23. §-ában és 25–27. §-ában meghatározott feladatokat.
+
+(9)[^123] A foglalkoztatás-felügyeleti hatáskörében eljáró kormányhivatal ellátja
+
+a)[^124] a magyar építészetről szóló 2023. évi C. törvény 219–223. §-ában, a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendeletben és
+
+b) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény II. fejezetében
+
+a foglalkoztatás-felügyeleti hatóság számára meghatározott feladatokat is.
+
+### 15/A. §[^125]
+
+(1) A foglalkoztatás-felügyeleti feladatkörében eljáró kormányhivatal kormánytisztviselője a hatósági ellenőrzésre jogosító önálló munkavégzéshez a kinevezésétől számított hat hónapon belül vizsgát tesz, valamint évenként részt vesz szakmai továbbképzésen.
+
+(2) A vizsgára való felkészítés, a záróvizsga, valamint a vizsgakötelezettség alóli mentesülés részletes szabályait a miniszter vizsgaszabályzatban állapítja meg.
+
+### 15/B. §[^126]
+
+(1) Az Fftv. 11. § (1) bekezdése, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. § (2)–(3) bekezdése szerinti adatokat tartalmazó nyilvántartást a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a miniszter által létrehozott szakmai informatikai rendszerben (a továbbiakban: szakmai informatikai rendszer) kezeli.
+
+(2) A nyilvántartások az egyes szabályszegések vonatkozásában a végleges és végrehajtható közigazgatási döntéseknek a jogszabályokban meghatározott adatait tartalmazzák, a jogszabályokban meghatározott időtartamig.
+
+(3) A döntések adatait a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a honlapján az egyes eljárásokból való kizárási feltételt képező szabályszegésenként teszi közzé. A kizárási időszak leteltével a kizáró feltételt képező szabályszegés nem jeleníthető meg.
+
+(4) A közigazgatási döntés ellen benyújtott keresetről, valamint a bírósági döntésről a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a kapcsolódó peres irat mellékelésével elektronikus úton haladéktalanul tájékoztatja a minisztert.
+
+(5) A foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a bírósági döntés tartalmától függően kezdeményezi a nyilvántartás adatainak javítását vagy módosítását.
+
+(6) A szakmai informatikai rendszer felügyeletét a miniszter látja el. A felügyelet kiterjed a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság által hozott közigazgatási döntések adattartalmára, a döntés véglegesítésének gyakorlatára, az információáramlás menetére, valamint az adatfeltöltés rendjére.
+
+(7) A szakmai informatikai rendszer kezelésével, valamint a munkaügyi nyilvántartásokhoz való hozzáférésre vonatkozó részletes feladatokat a miniszter felhasználói kézikönyvben állapítja meg.
+
+## 12. Egyéb feladatok
+
+### 16. §
+
+(1) A miniszter a szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében ellátja a termékek megfelelőség értékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
+
+(2)[^127] A miniszter ellátja a munkavédelmi, illetve foglalkoztatás-felügyeleti hatósági hatáskörben eljáró kormányhivatal szakmai irányításával összefüggő, az egyéni védőeszközökkel és a munkaeszközökkel kapcsolatos piacfelügyeleti feladatokat.
+
+## V. ZÁRÓ RENDELKEZÉSEK
+
+## 13. Hatályba léptető rendelkezés
+
+### 17. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2014. december 15-én lép hatályba.
+
+(2) A 1–16. §, 18. § (3)–(4) és (6)–(12) bekezdése, 19. § (1), (3)–(4) és (6) bekezdése, 20. §, 21. §, 22. § (3) bekezdése, valamint a 24. § 2015. január 1-jén lép hatályba.
+
+## 14. Átmeneti rendelkezések
+
+### 18. §
+
+(1) A Nemzeti Munkaügyi Hivatal (a továbbiakban: NMH) – közfeladatainak eredményesebb ellátása céljából – 2014. december 31-én jogutód nélkül megszűnik.
+
+(2)[^128]
+
+(3) 2015. január 1-jétől a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium gyakorolja és teljesíti az NMH magánjogi jogait és kötelezettségeit.
+
+(4) A (3) bekezdés szerinti jogok és kötelezettségek átszállása az NMH-val szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(5)[^129]
+
+(6) A 2014. december 31-én még fennálló, továbbá az NMH megszűnésével kapcsolatban keletkező számviteli és adózási kötelezettségeket az NMH által átadott iratok alapján a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium teljesíti.
+
+(7) Az NMH foglalkoztatási, munkaügyi és munkavédelmi szakterület munkavégzéséhez szükséges tárgyi eszközeihez – ide nem értve az informatikai-telekommunikációs eszközöket, ingatlanokat – kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a Közbeszerzési és Ellátási Főigazgatóságot (a továbbiakban: KEF) illetik meg az MNV Zrt.-vel külön megkötendő vagyonkezelési szerződés alapján.
+
+(8) Az NMH foglalkoztatási, munkaügyi és munkavédelmi szakterület munkavégzéséhez szükséges – ide nem értve a munkavégzéshez szükséges szakmai rendszereket, adatbázisokat – informatikai-telekommunikációs eszközeihez kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a Nemzeti Infokommunikációs és Szolgáltató Zártkörűen Működő Részvénytársaságot (a továbbiakban: NISZ Zrt.) illeti meg, a Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) külön megkötendő vagyonkezelési szerződés alapján.
+
+(9) Az NMH foglalkoztatási, munkaügyi és munkavédelmi szakterület munkavégzéséhez szükséges informatikai szakmai rendszerekhez, adatbázisokhoz – ideértve az ezekhez tartozó alkalmazásokat, szoftver és hardver eszközöket, licenszeket is – kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: KEK KH) illeti meg az MNV Zrt.-vel külön megkötendő vagyonkezelési szerződés alapján.
+
+(10) Az NMH megszűnésével a KEK KH-hoz kerülő személyi állomány munkavégzéséhez szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a KEK KH-t illetik meg.
+
+(11)[^130] A NISZ Zrt. az informatikai szakmai rendszerekből és adatbázisokból térítésmentesen szolgáltat adatot a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére.
+
+(12) A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium és a közfoglalkoztatásért felelős miniszter által vezetett minisztérium a munkaügyi és munkavédelmi ellenőrzési, valamint a szak- és felnőttképzési szakterületet támogató, e területek munkavégzéséhez szükséges informatikai szakmai rendszerek, adatbázisok leválasztásáról, az ezekhez kapcsolódó vagyonkezelői jogokról és kötelezettségekről 2015. március 31. napjáig külön megállapodásban rendelkezik.
+
+(13)[^131]
+
+### 19. §
+
+(1) A 2015. január 1-jét megelőzően az NMH foglalkoztatási, munkaügyi és munkavédelmi szakterületével, valamint az európai uniós finanszírozású pályázataival és projektjeivel kapcsolatban kiírt közbeszerzési eljárásokban az NMH helyébe a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép.
+
+(2)[^132]
+
+(3) A 2015. január 1-je előtt indult, az NMH foglalkoztatási szakterületével kapcsolatos peres és nemperes eljárásokban az NMH helyébe a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép.
+
+(4) A 2015. január 1-je előtt indult, az NMH munkaügyi és munkavédelmi szakterületével kapcsolatos peres és nemperes eljárásokban az NMH Munkavédelmi és Munkaügyi Igazgatósága helyébe a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép.
+
+(5)[^133]
+
+(6) Az NMH által 2014. december 31-én, vagy azt megelőzően hozott foglalkoztatási, munkaügyi és munkavédelmi szakterületével kapcsolatos hatósági döntésével szemben bírósági felülvizsgálati eljárás megindítására irányuló keresetet 2015. január 1-jétől a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium ellen kell benyújtani.
+
+### 20. §
+
+A 2014. december 31-én folyamatban lévő, az NMH foglalkoztatási, munkaügyi és munkavédelmi szakterületével kapcsolatos közigazgatási hatósági eljárásokban, valamint hatósági szerződésekben az NMH helyébe a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép.
+
+### 21. §
+
+(1) Az NMH európai uniós finanszírozású pályázatai és projektjei tekintetében 2015. január 1-jétől az NMH helyébe a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép. A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium a projektekkel kapcsolatosan szükséges szerződésmódosításokat 2015. január 20-ig kezdeményezi. A támogató, illetve a közreműködő szervezet a szerződésmódosítások végrehajtásáról a kezdeményezéstől számított húsz napon belül intézkedik. Az európai uniós finanszírozású pályázatok és projektek átadás-átvétele során az NMH és foglalkoztatáspolitikáért felelős miniszter a hatályos jogszabályoknak, valamint a Miniszterelnökség által kiadott eljárási rendnek megfelelően jár el.
+
+(2) A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium – függetlenül az érintett gazdasági esemény fizikai teljesítésének, valamint a támogatási szerződés módosításának dátumától – az NMH által elszámolásra be nem nyújtott, vagy ismételten benyújtandó számlákat, bizonylatokat benyújthatja elszámolásra a támogatóhoz. Az ilyen módon, illetve az NMH által elszámolásra benyújtott számlákra, bizonylatokra jutó, de az NMH részére ki nem fizetett támogatást a támogató, illetve a közreműködő szervezet a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére fizeti meg.
+
+(3)[^134] Az NMH európai uniós finanszírozású pályázataiból és projektjeiből beszerzett tárgyi eszközeihez – ide nem értve az informatikai-telekommunikációs eszközöket, ingatlanokat – kapcsolódó, a KEF által átvett vagyonkezelői jogok és kötelezettségek – a (4a) bekezdésben meghatározott kivétellel – az európai uniós finanszírozású projektek fenntartási kötelezettségét ellátó költségvetési szervet illetik meg az MNV Zrt.-vel külön megkötendő vagyonkezelési szerződés alapján.
+
+(4)[^135] Az NMH európai uniós finanszírozású pályázataiból és projektjeiből beszerzett informatikai-telekommunikációs eszközeihez – ide nem értve a munkavégzéshez szükséges szakmai rendszereket, adatbázisokat – kapcsolódó, a NISZ Zrt. által átvett vagyonkezelői jogok és kötelezettségek – a (4a) bekezdésben meghatározott kivétellel – az európai uniós finanszírozású projektek fenntartási kötelezettségét ellátó költségvetési szervet illetik meg az MNV Zrt.-vel külön megkötendő vagyonkezelési szerződés alapján.
+
+(4a)[^136] Ha az európai uniós finanszírozású projektek fenntartási kötelezettségét ellátó költségvetési szerv a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium, a (3) bekezdésben meghatározott tárgyi eszközökhöz kapcsolódó vagyonkezelői jogokat és kötelezettségeket a KEF, a (4) bekezdésben meghatározott informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogokat és kötelezettségeket a NISZ Zrt. gyakorolja és teljesíti.
+
+(5) Az NMH helyébe a belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló 354/2013. (X. 7.) Korm. rendelet szerinti a foglalkoztatási, munkaügyi és munkavédelmi, szakterületével kapcsolatos feladataival összefüggésben a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium lép.
+
+### 22. §
+
+(1) Az NMH fizetési számláit 2014. december 31-e napján történő zárással meg kell szüntetni, az NMH megszűnését követően az NMH fizetési számláin lévő pénzeszközök, az NMH javára szóló fizetési megbízás alapján az NMH fizetési számláin még jóvá nem írt összegek és az NMH e napon fennálló készpénzállománya a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumot illetik meg.
+
+(2) Az NMH számláit vezető szerv az NMH megszűnését követően a NMH rendelkezése alapján átutalja valamennyi, az NMH fizetési számláján lévő pénzeszközt a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára.
+
+(3) Az NMH megszűnését követően esedékessé váló, az NMH javára fizetendő felügyeleti díjat, igazgatási szolgáltatási díjat és bírságot 2015. január 1-jétől a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumnak kell befizetni.
+
+(4)[^137]
+
+### 23. §
+
+(1) Az NMH 2014. december 31-én hivatalban lévő főigazgatója, illetve az általa adott meghatalmazás alapján az NMH más vezetője vagy vezetői 2014. december 31-ig jegyzőkönyv felvétele mellett személyesen adják át a foglalkoztatáspolitikáért felelős miniszternek, illetve az általa adott meghatalmazás alapján a minisztérium más vezetőjének az NMH valamennyi iratát, a feladat- és hatáskörébe tartozó, folyamatban lévő ügyeit, a foglalkoztatottak személyi anyagát, vagyonnyilatkozatait és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített szakvéleményeket, továbbá mindazon dokumentumokat, melyek a minisztériumot terhelő kötelezettségvállalás gyakorlásához és a jogok érvényesítéséhez szükségesek.
+
+(2) Az NMH 2014. december 31-én hivatalban lévő főigazgatója, illetve az általa adott meghatalmazás alapján az NMH más vezetője vagy vezetői 2014. december 31-ig jegyzőkönyv felvétele mellett személyesen adják át a foglalkoztatáspolitikáért felelős miniszternek, illetve az általa adott meghatalmazás alapján a minisztérium más vezetőjének az NMH folyamatban lévő, lezárt vagy fenntartási időszak alatt lévő európai uniós finanszírozású pályázatokhoz és projektekhez kapcsolódó valamennyi dokumentumot.
+
+(3)[^138]
+
+(4)[^139]
+
+(5) A 18. § (7) bekezdés szerinti vagyon tekintetében az NMH-nak és a KEF-nek átadás-átvételi megállapodást kell kötni 2014. december 31-ig.
+
+(6) A 18. § (8) bekezdés szerinti vagyon tekintetében az NMH-nak és a NISZ Zrt.-nek átadás-átvételi megállapodást kell kötni 2014. december 31-ig.
+
+## 14/A.[^140]
+
+### 23/A. §[^141]
+
+A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^142] megelőzően keletkezett bérgarancia támogatással kapcsolatos ügyek esetében a támogatást folyósító állami foglalkoztatási szerv jár el.
+
+## 15. [^143] Az Európai Unió jogának való megfelelés
+
+### 24. §[^144]
+
+(1)[^145] Ez a rendelet
+
+a) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelvnek,
+
+b) a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak biztosított jogok gyakorlását megkönnyítő intézkedésekről szóló, 2014. április 16-ai 2014/54/EU európai parlamenti és tanácsi irányelvnek,
+
+c) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló, 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek
+
+d)[^146] az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i (EU) 2016/589 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(3)[^147] Ez a rendelet az Európai Munkaügyi Hatóság létrehozásáról, a 883/2004/EK, a 492/2011/EU és az (EU) 2016/589 rendelet módosításáról, valamint az (EU) 2016/344 határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1149 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 320/2014. (XII. 13.) Korm. rendelethez[^148]
+
+---
+
+[^1]: Az 1. § a 70/2015. (III. 30.) Korm. rendelet 258. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 135. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 197. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 517. § a) hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: Az 1. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 197. § a) pontja szerint módosított szöveg.
+[^5]: A 2. alcím a 457/2017. (XII. 28.) Korm. rendelet 516. § a) pontja szerint módosított szöveg. A 2. alcím címe a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 135. § (2) bekezdésével megállapított, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 197. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 258. § (3) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A 4. § (1) bekezdés a) pont aa) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 197. § c) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdés a) pont ab) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés a) pont ac) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg [A 4. § (1) bekezdés a) pont ac) alpontjában a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^14]: A 4. § (1) bekezdés b) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^16]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^18]: A 4. § (1) bekezdés f) pontja a 101/2021. (II. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^21]: A 4. § (1) bekezdés i) pontja a 101/2021. (II. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
+[^23]: A 4. § (1) bekezdés k) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^24]: A 4. § (1) bekezdés l) pont la) alpontját a 273/2018. (XII. 20.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^25]: A 4. § (1) bekezdés l) pont lc) alpontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés a) pontja hatályon kívül helyezte, újonnan a 130/2018. (VII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^26]: A 4. § (1) bekezdés l) pont ld) alpontját a 227/2022. (VI. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte. [A 4. § (1) bekezdés l) pont ld) alpontjában a 35/2024. (II. 29.) Korm. rendelet 313. §-a által elrendelt módosítás nem vezethető át.]
+[^27]: A 4. § (1) bekezdés m) pont mc) alpontja a 227/2022. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^28]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
+[^29]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.
+[^30]: A 4. § (1) bekezdés n) pont nd) alpontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^31]: A 4. § (1) bekezdés p) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^32]: A 4. § (1) bekezdés q) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (9) bekezdésével megállapított szöveg.
+[^33]: A 4. § (1) bekezdés r) pontját a 70/2015. (III. 30.) Korm. rendelet 258. § (10) bekezdése iktatta be.
+[^34]: A 4. § (1) bekezdés s) pontját a 273/2018. (XII. 20.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezte a 101/2021. (II. 27.) Korm. rendelet 9. § a) pontja.
+[^35]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 515. § (1) bekezdése iktatta be, a 356/2021. (VI. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^36]: A 4. § (2) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^37]: A 4. § (2) bekezdés f) pontját a 335/2016. (XI. 11.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^38]: Az 5. alcím címe a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^39]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 258. § (11) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^40]: Az 5. § a) pontja a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^41]: Az 5. § b) pontja a 457/2017. (XII. 28.) Korm. rendelet 515. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^42]: Az 5. § c) pontja a 457/2017. (XII. 28.) Korm. rendelet 515. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^43]: Az 5. § d) pontja a 337/2020. (VII. 9.) Korm. rendelet 14. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^44]: Az 5. § e) pontja a 116/2021. (III. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^45]: Az 5. § f) pontja a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés b) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^46]: Az 5. § h) pontját a 356/2021. (VI. 24.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^47]: Az 5. § j) pontját a 335/2016. (XI. 11.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^48]: Az 5. § k) pontját a 335/2016. (XI. 11.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^49]: A 6. § d) pontja a 337/2020. (VII. 9.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^50]: A 6. § e) pontját a 24/2024. (II. 14.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^51]: A 6. § g) pontját a 24/2024. (II. 14.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 7. § a 335/2016. (XI. 11.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^53]: A 7. § (1) bekezdés nyitó szövegrésze a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^54]: A 7. § (3) bekezdése a 116/2021. (III. 10.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^55]: Az 5/A. alcímet (7/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^56]: A 7/A. § d) pontja a 116/2021. (III. 10.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^57]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
+[^58]: A 8. § b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^59]: A 8. § c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^60]: A 8. § (1) bekezdés l) pont ld) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^61]: A 8. § (1) bekezdés s) pontja a 297/2024. (X. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^62]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 8. § (3) bekezdése a 297/2024. (X. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^64]: A 6/A. alcímet (8/A. §) a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^65]: A III. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (14) bekezdésével megállapított szöveg.
+[^66]: A 7. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (15) bekezdésével megállapított szöveg.
+[^67]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte, újonnan a 360/2019. (XII. 30.) Korm. rendelet 135. § (3) bekezdése iktatta be, szövege a 356/2021. (VI. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^68]: A 9. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 197. § d) pontja szerint módosított szöveg.
+[^69]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
+[^70]: A 10. § (1) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^71]: A 10. § (1) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^72]: A 10. § (1) bekezdés d) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^73]: A 10. § (1) bekezdés h) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 35/2024. (II. 29.) Korm. rendelet 314. § (1) bekezdése iktatta be.
+[^74]: A 10. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan a 101/2021. (II. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^75]: A 10. § (1) bekezdés o) pontját a 13/2020. (II. 7.) Korm. rendelet 97. §-a hatályon kívül helyezte.
+[^76]: A 10. § (1) bekezdés p) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^77]: A 10. § (3) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^78]: A 10. § (3) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^79]: A 10. § (3) bekezdés j) pont jf) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^80]: A 10. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^81]: A 10. § (4) bekezdés b) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^82]: A 10. § (4) bekezdés c) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^83]: A 10. § (4) bekezdés d) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^84]: A 10. § (4) bekezdés e) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^85]: A 10. § (4) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^86]: A 10. § (4) bekezdés g) pontját a 227/2022. (VI. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^87]: A 10. § (4) bekezdés h) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (3) bekezdése hatályon kívül helyezte.
+[^88]: A 10. § (4) bekezdés j) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^89]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.
+[^90]: A 10. § (6) bekezdése a 101/2021. (II. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^91]: A 10. § (7) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 314. § (2) bekezdésével megállapított szöveg.
+[^92]: A 10. § (8) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^93]: A 10. § (8) bekezdés b) pontja a 35/2024. (II. 29.) Korm. rendelet 315. §-a szerint módosított szöveg.
+[^94]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^95]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^96]: A 11. § (1) bekezdés c) pontja a 101/2021. (II. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^97]: A 11. § (1) bekezdés f) pontja a 101/2021. (II. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^98]: A 11. § (1) bekezdés k) pontja a 101/2021. (II. 27.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^99]: A 11. § (1) bekezdés l) pontja a 616/2022. (XII. 29.) Korm. rendelet 197. § e) és f) pontja szerint módosított szöveg.
+[^100]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^101]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.
+[^102]: A 11. § (2) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 197. § e) és f) pontja szerint módosított szöveg.
+[^103]: A 11. § (2) bekezdés h) pont nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^104]: A IV. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (19) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés c) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^105]: A 9. alcímet (12. §) a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés b) pontja hatályon kívül helyezte.
+[^106]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 258. § (20) bekezdésével megállapított szöveg.
+[^107]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 135. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^108]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 356/2021. (VI. 24.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^109]: A 14. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 515. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^110]: A 14. § (1) bekezdése a) pontját a 356/2021. (VI. 24.) Korm. rendelet 24. § c) pontja hatályon kívül helyezte.
+[^111]: A 14. § (1) bekezdés b) pontja a 24/2024. (II. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^112]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 515. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^113]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 337/2020. (VII. 9.) Korm. rendelet 14. § c) pontja, a 408/2025. (XII. 19.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^114]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 457/2017. (XII. 28.) Korm. rendelet 516. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^115]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^116]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^117]: A 14. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^118]: A 14/A. §-t az 534/2022. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^119]: A 11. alcím címe a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^120]: A 15. § a 116/2021. (III. 10.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^121]: A 15. § (7) bekezdése a 24/2024. (II. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^122]: A 15. § (8) bekezdését a 707/2021. (XII. 15.) Korm. rendelet 13. §-a iktatta be, szövege a 24/2024. (II. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^123]: A 15. § (9) bekezdését a 24/2024. (II. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^124]: A 15. § (9) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 103. §-a szerint módosított szöveg.
+[^125]: A 15/A. §-t a 116/2021. (III. 10.) Korm. rendelet 28. §-a iktatta be.
+[^126]: A 15/B. §-t a 116/2021. (III. 10.) Korm. rendelet 29. §-a iktatta be.
+[^127]: A 16. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (26) bekezdésével megállapított, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^128]: A 18. § (2) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
+[^129]: A 18. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
+[^130]: A 18. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^131]: A 18. § (13) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
+[^132]: A 19. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés e) pontja hatályon kívül helyezte.
+[^133]: A 19. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés e) pontja hatályon kívül helyezte.
+[^134]: A 21. § (3) bekezdése a 469/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^135]: A 21. § (4) bekezdése a 469/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^136]: A 21. § (4a) bekezdését a 469/2015. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^137]: A 22. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés f) pontja hatályon kívül helyezte.
+[^138]: A 23. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
+[^139]: A 23. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
+[^140]: A 14/A. alcímet (23/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés h) pontja.
+[^141]: A 23/A. §-t újonnan a 360/2019. (XII. 30.) Korm. rendelet 135. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^142]: A hatálybalépés időpontja 2019. december 31.
+[^143]: A 15. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 283. § (8) bekezdésével megállapított szöveg.
+[^144]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 379/2016. (XII. 2.) Korm. rendelet 283. § (9) bekezdése iktatta be. [A 308/2024. (X. 24.) Korm. rendelet 15. §-ában foglalt azon módosítás, amely szerint a 24. § e) ponttal egészül ki, nem vezethető át.]
+[^145]: A 24. § (1) bekezdése a 337/2020. (VII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^146]: A 24. § (1) bekezdés d) pontját a 116/2021. (III. 10.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^147]: A 24. § (3) bekezdését a 116/2021. (III. 10.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^148]: Az 1. mellékletet a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés c) pontja hatályon kívül helyezte.

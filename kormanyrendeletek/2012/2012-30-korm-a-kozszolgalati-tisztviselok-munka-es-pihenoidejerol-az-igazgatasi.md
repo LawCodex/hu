@@ -1,0 +1,334 @@
+---
+title: "30/2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselők munka- és pihenőidejéről, az igazgatási szünetről, a közszolgálati tisztviselőt és a munkáltatót terhelő egyes kötelezettségekről, valamint a távmunkavégzésről"
+identifier: "30/2012. (III. 7.) Korm. rendelet"
+njt_id: "2012-30-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/30"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-03-07
+in_force_from: 2012-03-10
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-30-20-22"
+retrieved: 2026-10-12
+---
+
+# 30/2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselők munka- és pihenőidejéről, az igazgatási szünetről, a közszolgálati tisztviselőt és a munkáltatót terhelő egyes kötelezettségekről, valamint a távmunkavégzésről
+
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 10. pont a)–c) alpontjaiban, valamint a 12. pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — HATÁLY
+
+#### 1. §
+
+(1)[^1] A rendelet hatálya – a (2)–(4) bekezdésekben foglalt kivétellel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott közszolgálati tisztviselőre, valamint munkavállalóra terjed ki.
+
+(2) A rendelet II–IV. fejezeteinek hatálya a Kttv. 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott közszolgálati tisztviselőre terjed ki.
+
+(3)[^2] A 13. és 14. § hatálya a Kormány által intézményfenntartásra kijelölt szervre és az ott foglalkoztatott kormánytisztviselőre, kormányzati ügykezelőre, munkavállalóra terjed ki.
+
+## II. Fejezet — A MUNKA- ÉS PIHENŐIDŐRE VONATKOZÓ RÉSZLETSZABÁLYOK
+
+### 1. Eljárás a jogviszony munkaidőkeret lejárta előtti megszűnése esetén
+
+#### 2. §
+
+(1) A kormányzati szolgálati jogviszony vagy a közszolgálati jogviszony (a továbbiakban együtt: szolgálati jogviszony) megszűnésekor a közszolgálati tisztviselő illetményét az általános munkaidő-beosztás, a napi munkaidő és a teljesített munkaidő alapulvételével el kell számolni.
+
+(2) E rendelet alkalmazásában általános munkaidő-beosztásnak minősül a munkaidő heti öt napra, hétfőtől péntekig való beosztása.
+
+(3) A rendkívüli munkaidőre vonatkozó szabályokat kell megfelelően alkalmazni, ha a szolgálati jogviszony a munkaidőkeret lejárta előtt
+
+a) a Kttv. 60. § (1) bekezdés a), b), d)–h) és j) pontjai szerint,
+
+b) a Kttv. 60. § (2) bekezdés a) és b) pontja szerint,
+
+c) a munkáltató által, a próbaidő alatt indokolás nélküli azonnali hatályú megszüntetésével [Kttv. 60. § (2) bekezdés e) pontja],
+
+d) a Kttv. 63. § (1) bekezdésében foglalt okok, valamint a Kttv. 63. § (2) bekezdés c), d) és f) pontjában foglalt ok miatti felmentéssel
+
+szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél többet dolgozott.
+
+(4) Az állásidőre vonatkozó szabályokat kell megfelelően alkalmazni, ha a szolgálati jogviszony a munkaidőkeret lejárta előtt
+
+a) a Kttv. 60. § (1) bekezdés a), b), d)–h) és j) pontjai szerint,
+
+b) a Kttv. 60. § (2) bekezdés a) és b) pontja szerint,
+
+c) a munkáltató által, a próbaidő alatt indokolás nélküli azonnali hatályú megszüntetésével [Kttv. 60. § (2) bekezdés e) pontja],
+
+d) a Kttv. 63. § (1) bekezdésében foglalt okok, valamint a Kttv. 63. § (2) bekezdés c), d) és f) pontjában foglalt ok miatti felmentéssel
+
+szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél kevesebbet dolgozott.
+
+(5) Az előlegnyújtásból eredő követelésre vonatkozó szabályokat kell megfelelően alkalmazni, ha a szolgálati jogviszony a munkaidőkeret lejárta előtt
+
+a) a Kttv. 60. § (2) bekezdés c) pontja szerint,
+
+b) a közszolgálati tisztviselő által, a próbaidő alatt indokolás nélküli azonnali hatályú megszüntetésével [Kttv. 60. § (2) bekezdés e) pontja],
+
+c) a Kttv. 60. § (1) bekezdés i) pontja szerint, vagy
+
+d) a Kttv. 63. § (2) bekezdés a), b), vagy e) pontjaiban foglalt okok miatti felmentéssel
+
+szűnik meg és a közszolgálati tisztviselő a beosztás szerinti munkaidőre járó illetményénél magasabb összegű illetményben részesült.
+
+### 2. Egyenlőtlen munkaidő-beosztás, a munkaidő vasárnapra történő beosztása
+
+#### 3. §
+
+(1) Munkaidőkeret alkalmazása esetén – a 4. §-ban, valamint a Kttv. 93. §-ában foglaltakra is tekintettel – a munkáltató a munkaidőt a hét minden napjára vagy az egyes munkanapokra egyenlőtlenül is beoszthatja (egyenlőtlen munkaidő-beosztás).
+
+(2) A munkaidő-beosztást legalább tizennégy nappal korábban, legalább egy hétre előre írásban kell közölni. Ennek hiányában az utolsó munkaidő-beosztás az irányadó.
+
+#### 4. §
+
+(1) Vasárnapra rendes munkaidő
+
+a) a rendeltetése folytán e napon is működő munkáltatónál vagy munkakörben,
+
+b) az idényjellegű munkavégzés esetén,
+
+c) a kizárólag szombaton és vasárnap részmunkaidőben,
+
+d) társadalmi közszükségletet kielégítő, vagy külföldre történő szolgáltatás nyújtásához – a szolgáltatás jellegéből eredően – e napon szükséges munkavégzés esetén,
+
+e) külföldön történő munkavégzés során
+
+foglalkoztatott közszolgálati tisztviselő számára osztható be.
+
+(2) Az (1) bekezdés a) pontja tekintetében a Kttv. 93. § (4) bekezdése megfelelően irányadó.
+
+### 3. A heti pihenőnap, a heti pihenőidő
+
+#### 5. §
+
+(1) Egyenlőtlen munkaidő-beosztás esetén a heti pihenőnapok egyenlőtlenül is beoszthatók.
+
+(2) Az (1) bekezdésben foglaltak alkalmazásakor – az idényjellegű tevékenység keretében foglalkoztatott közszolgálati tisztviselőt kivéve – a közszolgálati tisztviselő számára hat munkanapot követően heti egy pihenőnapot be kell osztani.
+
+(3) A közszolgálati tisztviselő számára – a kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatott közszolgálati tisztviselő kivételével – havonta legalább heti egy pihenőnapot vasárnapra kell beosztani.
+
+#### 6. §
+
+(1) Egyenlőtlen munkaidő-beosztás esetén a közszolgálati tisztviselő részére – a heti pihenőnapok helyett – hetenként legalább negyvennyolc órát kitevő, megszakítás nélküli heti pihenőidő is biztosítható.
+
+(2) A közszolgálati tisztviselő számára a heti pihenőidőt – a kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatott közszolgálati tisztviselő kivételével – havonta legalább egy alkalommal vasárnapra kell beosztani.
+
+(3) Egyenlőtlen munkaidő-beosztás esetén – az (1) bekezdésben meghatározott heti pihenőidő helyett és a (2) bekezdésben foglaltak megfelelő alkalmazásával – a közszolgálati tisztviselőnek hetenként legalább negyven órát kitevő és egy naptári napot magába foglaló, megszakítás nélküli heti pihenőidő is biztosítható. A közszolgálati tisztviselőnek a munkaidőkeret átlagában legalább heti negyvennyolc óra heti pihenőidőt kell biztosítani.
+
+## III. Fejezet — A KÖZSZOLGÁLATI TISZTVISELŐT ÉS A MUNKÁLTATÓT TERHELŐ EGYES KÖTELEZETTSÉGEK
+
+### 4. A közszolgálati tisztviselőt a szolgálati jogviszony létesítésével összefüggésben terhelő kötelezettségek
+
+#### 7. §
+
+(1)[^3] A szolgálati jogviszony létesítéséhez és a közszolgálati tisztviselő besorolásához szükséges, illetve a jogviszony fennállása alatt, azzal összefüggésben keletkezett adatokat és tényeket – a (3) bekezdésben meghatározott kivétellel – a közszolgálati tisztviselőnek igazolnia kell. Amennyiben az igazolás a közszolgálati tisztviselő számára jogosultságot igazol, a jogosultság fennállása csak az igazolás munkáltató részére történő átadás napjától vehető figyelembe. A közszolgálati tisztviselő legkésőbb a munkába lépése napján köteles átadni a közigazgatási szervnek a korábbi foglalkoztatási jogviszonyának megszűnésekor részére kiállított igazolásokat.
+
+(2)[^4] Ha a közszolgálati tisztviselő nem kapja meg az (1) bekezdés szerinti igazolásokat a munkába lépése napjáig, a Kttv. 74. § (2) bekezdése szerinti határidőn belül kell – a (3) bekezdésben meghatározott kivétellel – átadnia a közigazgatási szervnek az igazolásokat.
+
+(3)[^5] A közszolgálati tisztviselőnek nem kell igazolnia azokat az adatokat és tényeket, amelyeket a munkáltató szerv nyilvántartástól közvetlen megkeresés útján megismerhet.
+
+### 5.[^6] A munkáltatót terhelő tájékoztatási kötelezettség és az atipikus foglalkoztatási formára való áttérés
+
+#### 8. §
+
+(1) A kinevezéssel egyidejűleg a munkáltatói jogkör gyakorlója a közszolgálati tisztviselőt tájékoztatja:
+
+a)[^7] az irányadó munkarendről, a napi munkaidő tartamáról, a hét napjairól, amelyekre munkaidő osztható be, a beosztás szerinti napi munkaidő lehetséges kezdő és befejező időpontjáról, a rendkívüli munkaidő lehetséges tartamáról,
+
+b) a jubileumi jutalomra jogosító szolgálati idő kezdő időpontjáról, valamint a soron következő besorolási, fizetési fokozat elérésének várható időpontjáról,
+
+c) az egyéb juttatásokról és azok mértékéről,
+
+d)[^8] az illetménykifizetés módjáról és gyakoriságáról, a kifizetés napjáról,
+
+e) a munkába lépés napjáról,
+
+f)[^9] a szolgálati jogviszony megszüntetésének alapvető szabályairól, ideértve a felmentési idő megállapításának szabályait,
+
+g)[^10] a rendes szabadság mértékéről és kiadásának rendjéről,
+
+h) a munkáltatói jogkör gyakorlójáról.
+
+i)[^11] a munkáltató által biztosított képzésekre való jogosultságról, a közszolgálati tisztviselőt terhelő továbbképzési kötelezettségről,
+
+j)[^12] a hatóság megnevezéséről, amely részére a munkáltató a szolgálati jogviszonnyal kapcsolatos közterhet megfizeti.
+
+(2)[^13] A munkáltatói jogkör gyakorlója az (1) bekezdésben előírt tájékoztatást legkésőbb a kinevezéstől számított hét napon belül írásban is köteles a közszolgálati tisztviselő részére átadni. Az írásbeli tájékoztatás jogszabály vagy belső szabályozás rendelkezésére történő hivatkozással kiegészítve is megadható.
+
+(3)[^14] Az (1) bekezdésben foglaltak változásáról a munkáltatói jogkör gyakorlója legkésőbb a változás hatálybalépésének időpontjában köteles írásban tájékoztatni a közszolgálati tisztviselőt. Nem terheli a munkáltatót tájékoztatási kötelezettség, ha a tájékoztatást – a (2) bekezdés szerint – jogszabály vagy belső szabályozás rendelkezésére hivatkozással adta meg.
+
+#### 9. §
+
+(1) A közigazgatási szerv évente, illetve – ha a foglalkoztatás feltételei ezt indokolják – szükség szerint köteles megvizsgálni, hogy – különös figyelemmel a feladatok hatékony, szakszerű és a jogszabályoknak megfelelő ellátására – mely munkakörben van lehetőség a részmunkaidőben történő munkavégzésre.
+
+(2) A munkáltató a helyben szokásos módon köteles tájékoztatni a közszolgálati tisztviselőket azokról a munkakörökről, amelyeknél – közszolgálati tisztviselői kezdeményezés esetén – a kinevezés módosításával
+
+a) teljes vagy részmunkaidős,
+
+b) távmunkavégzésre irányuló, illetve távmunkavégzés helyett munkahelyi foglalkoztatásra irányuló, valamint
+
+c) határozott, illetve határozatlan idejű szolgálati jogviszony keretében történő
+
+foglalkoztatás köthető ki.
+
+(3)[^15] A (2) bekezdés szerinti tájékoztatást évente egy alkalommal a közszolgálati tisztviselő is kérheti és – ha ez a tájékoztatásban foglaltak alapján lehetséges – kezdeményezheti a kinevezésének módosítását a (2) bekezdésben foglaltakra figyelemmel. A kérelemről a munkáltatói jogkör gyakorlója a kérelem benyújtását követő harminc napon belül indokolással ellátott írásbeli döntést hoz.
+
+#### 9/A. §[^16]
+
+(1) A közszolgálati tisztviselő gyermeke nyolcéves koráig, valamint a gondozást végző közszolgálati tisztviselő kérheti
+
+a) a munkavégzés helyének módosítását,
+
+b) a munkarendjének módosítását,
+
+c) távmunkavégzésben való foglalkoztatását,
+
+d) részmunkaidőben való foglalkoztatását.
+
+(2) A közszolgálati tisztviselő írásbeli kérelmében köteles megjelölni
+
+a) a kérelmét megalapozó indokokat és
+
+b) az (1) bekezdés szerinti atipikus foglalkoztatásra való áttérés általa javasolt kezdő időpontját.
+
+(3) A közszolgálati tisztviselő kérelmének elfogadásáról vagy elutasításáról a munkáltatói jogkör gyakorlója tizenöt napon belül írásban köteles nyilatkozni. A kérelem elutasítását a munkáltatói jogkör gyakorlója köteles írásban megindokolni.
+
+### 6. A kinevezéstől eltérő ideiglenes foglalkoztatáshoz kapcsolódó szabályok
+
+#### 10. §
+
+(1) A kinevezéstől eltérő ideiglenes foglalkoztatásról – ide nem értve az átirányítást – szóló írásbeli munkáltatói intézkedésben legalább meg kell határozni:
+
+a) munkavégzés helyét, időtartamát,
+
+b) a közszolgálati tisztviselő illetményét, külön és egyéb juttatását,
+
+c) az intézkedéssel felmerült egyéb költségeket,
+
+d) munkáltatói jogkör gyakorlójának személyét,
+
+e) a közszolgálati tisztviselő által ellátandó feladatokat.
+
+(2) Amennyiben az (1) bekezdés szerinti kinevezéstől eltérő ideiglenes foglalkoztatás tizenöt munkanapot meghaladó külföldi munkavégzésre irányul, a munkáltatói intézkedésben az (1) bekezdésben foglaltakon túl meg kell határozni
+
+a) a díjazás és az egyéb juttatások pénznemét,
+
+b) a hazatérésre irányadó szabályokat is.
+
+(3) A munkáltató legkésőbb a külföldre való kiutazást megelőző hét nappal korábban írásban tájékoztatja a közszolgálati tisztviselőt a kinevezéstől eltérő ideiglenes foglalkoztatásról szóló munkáltatói intézkedés tartalmáról.
+
+## IV. Fejezet — A TÁVMUNKAVÉGZÉS
+
+#### 11. §
+
+(1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet információtechnológiai vagy számítástechnikai eszközzel (együtt: számítástechnikai eszköz) végeznek és eredményét elektronikusan továbbítják.
+
+(2) Távmunkavégzés esetén a kinevezésnek tartalmaznia kell
+
+a) a közszolgálati tisztviselő távmunkavégzés keretében történő foglalkoztatását,
+
+b) a munkáltató és a távmunkát végző közszolgálati tisztviselő közötti, a szolgálati jogviszonyból származó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges kapcsolattartás (a továbbiakban: kapcsolattartás) feltételeit,
+
+c) a távmunkavégzéssel összefüggésben a távmunkát végző közszolgálati tisztviselőnél szükségesen és indokoltan felmerült költség elszámolásának módját.
+
+(3) Eltérő megállapodás hiányában a munkavégzéshez, valamint a kapcsolattartáshoz szükséges eszközöket a munkáltató biztosítja.
+
+(4) A munkáltató – a 8. §-ban foglaltakon túlmenően – írásban tájékoztatja a közszolgálati tisztviselőt
+
+a) a munkáltató általi ellenőrzés szabályairól,
+
+b) a számítástechnikai vagy elektronikus eszköz használata korlátozásának szabályairól, valamint
+
+c) arról a szervezeti egységről, amelyhez a közszolgálati tisztviselő munkája kapcsolódik.
+
+(5) A munkáltató a távmunkát végző közszolgálati tisztviselőnek minden olyan tájékoztatást köteles megadni, amelyet más közszolgálati tisztviselőnek biztosít.
+
+(6) A távmunkát végző közszolgálati tisztviselő köteles a kinevezés elfogadásával egyidejűleg tájékoztatni a munkáltatót a kapcsolattartáshoz szükséges elektronikus eszköz elérhetőségének adatairól, ha az elektronikus eszközt nem a munkáltató biztosítja.
+
+(7) A munkáltató biztosítja, hogy a közszolgálati tisztviselő a munkáltató területére beléphessen és más közszolgálati tisztviselővel kapcsolatot tartson.
+
+#### 12. §
+
+(1) A munkáltató utasítási joga – eltérő megállapodás hiányában – kizárólag a közszolgálati tisztviselő által ellátandó feladatok meghatározására terjed ki.
+
+(2) A munkáltató írásban előírhatja, hogy az általa biztosított számítástechnikai vagy elektronikus eszközt a közszolgálati tisztviselő kizárólag a munkavégzéshez használhatja.
+
+(3) A munkavégzés ellenőrzése során a munkáltató nem tekinthet be a közszolgálati tisztviselőnek a munkavégzéshez használt számítástechnikai eszközön tárolt, nem a szolgálati jogviszonyból származó kötelezettséggel összefüggő adataiba. A betekintési jogosultság tekintetében a szolgálati jogviszonyból származó kötelezettséggel összefüggő adatnak minősül a (2) bekezdés alapján előírt tilalom vagy korlátozás betartásának ellenőrzéséhez szükséges adat.
+
+(4) Eltérő megállapodás hiányában a munkáltató állapítja meg az ellenőrzés módját és a munkavégzés helyeként szolgáló ingatlan területén történő ellenőrzés esetén annak bejelentése és megkezdése közötti legrövidebb időtartamot. Az ellenőrzés nem jelenthet a közszolgálati tisztviselő, valamint a munkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.
+
+(5) Eltérő megállapodás hiányában a munkáltató a napi munkaidő legalább fele beosztásának jogát – a távmunkavégzés sajátos jellegére tekintettel – a közszolgálati tisztviselő számára írásban átengedi (kötetlen munkarend).
+
+## V. Fejezet — AZ IGAZGATÁSI SZÜNET
+
+#### 13. §
+
+(1) Az igazgatási szünet időtartama
+
+a) nyáron öt egybefüggő naptári hét, amely augusztus 20-át közvetlenül követő vasárnapig tart,
+
+b) télen két egybefüggő naptári hét, amely január 1-jét közvetlenül követő vasárnapig tart.
+
+(2) Az (1) bekezdésben meghatározott igazgatási szünet időszaka alatt az esedékessége évében ki nem adott szabadság teljes egésze kiadható.
+
+(3) A munkáltató az igazgatási szünet időszakára figyelemmel határozza meg a szabadságolási terv alapján kiadásra kerülő szabadságot.
+
+#### 14. §
+
+Az államigazgatási szerv hivatali szervezetének vezetője az igazgatási szünet alatt a szabadságot úgy adja ki, hogy biztosítsa a zavartalan ügymenetet és feladatellátást, valamint a lakossági ügyfélszolgálattal rendelkező szervek esetében a folyamatos feladatellátást.
+
+#### 15. §
+
+A Kormány a Kttv. 232. § (3) bekezdése alapján a helyi önkormányzat képviselő-testülete, valamint a Kttv. 2. §-ában felsorolt szervek vezetője számára ajánlja igazgatási szünet elrendelése esetén az e rendeletben foglaltak figyelembevételét.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 16. §
+
+(1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+(2)[^17]
+
+#### 16/A. §[^18]
+
+(1) E rendeletnek az egyes foglalkoztatási tárgyú kormányrendeletek módosításáról szóló 534/2022. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^19] szolgálati jogviszonyban álló közszolgálati tisztviselőkre is alkalmazni kell.
+
+(2) A 8. § (1) bekezdés a), d), f), i) és j) pontjában foglaltakról szóló tájékoztatást a Módr. hatálybalépését[^20] követő három hónapon belül a közszolgálati tisztviselő írásban kérheti. A munkáltató a tájékoztatást a kérelem beérkezésétől számított 30 napon belül köteles megadni.
+
+#### 17. §
+
+E rendelet az Európai Unió alábbi jogi aktusainak való megfelelést szolgálja:
+
+a) az 5. és 6. § a munkaidő-szervezés egyes szempontjairól szóló, az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) 5. cikkének való megfelelést szolgálják,
+
+b)[^21] a 8., a 9. és a 10. § az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv 4–7. és 12. cikkének való megfelelést szolgálja,
+
+c)[^22] a 9/A. § a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv 9. cikkének való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 111. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 111. § (2) bekezdésével megállapított szöveg.
+[^3]: A 7. § (1) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (3) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 27. §-a iktatta be.
+[^6]: Az 5. alcím címe az 534/2022. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^7]: A 8. § (1) bekezdés a) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 8. § (1) bekezdés d) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^9]: A 8. § (1) bekezdés f) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^10]: A 8. § (1) bekezdés g) pontja az 534/2022. (XII. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^11]: A 8. § (1) bekezdés i) pontját az 534/2022. (XII. 21.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^12]: A 8. § (1) bekezdés j) pontját az 534/2022. (XII. 21.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^13]: A 8. § (2) bekezdése az 534/2022. (XII. 21.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^14]: A 8. § (3) bekezdését az 534/2022. (XII. 21.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^15]: A 9. § (3) bekezdését az 534/2022. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^16]: A 9/A. §-t az 534/2022. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^17]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16/A. §-t az 534/2022. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2023. január 1.
+[^20]: A hatálybalépés időpontja 2023. január 1.
+[^21]: A 17. § b) pontja az 534/2022. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^22]: A 17. § c) pontját az 534/2022. (XII. 21.) Korm. rendelet 9. §-a iktatta be.

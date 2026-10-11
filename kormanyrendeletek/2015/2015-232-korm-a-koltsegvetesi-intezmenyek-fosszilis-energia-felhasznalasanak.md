@@ -1,0 +1,169 @@
+---
+title: "232/2015. (VIII. 20.) Korm. rendelet a költségvetési intézmények fosszilis energia felhasználásának csökkentése érdekében napelemes villamosenergia-termelő erőmű működtetéséről"
+identifier: "232/2015. (VIII. 20.) Korm. rendelet"
+njt_id: "2015-232-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/232"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-08-20
+in_force_from: 2015-08-23
+last_amended: 2024-11-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-232-20-22"
+retrieved: 2026-10-12
+---
+
+# 232/2015. (VIII. 20.) Korm. rendelet a költségvetési intézmények fosszilis energia felhasználásának csökkentése érdekében napelemes villamosenergia-termelő erőmű működtetéséről
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A költségvetési intézmények e rendeletben foglaltak szerint részesülhetnek kedvezményesen fotovoltaikus napelemes erőműben megtermelt villamos energiából.
+
+## 2. §
+
+E rendelet alkalmazásában:
+
+a) *fenntartási időszak:* a napelemes villamosenergia-termelő erőmű fejlesztésére vonatkozó támogatási szerződésben vállalt fenntartási időszak;
+
+b) *költségvetési intézmény:* az államháztartásról szóló törvény szerint az államháztartás központi vagy önkormányzati alrendszerébe tartozó szervezet és ezek által alapított, közfeladatot ellátó gazdasági társaság;
+
+c) *végfelhasználó:* a Kormány által határozattal kijelölt azon költségvetési intézmény, amely jogosult az e rendelet szerinti feltételekkel villamos energia megvételére.
+
+## 3. §
+
+(1)[^1] A költségvetési intézmények fosszilis energia felhasználásának – a megújuló forrásból előállított energia felhasználásának növelésén, valamint az energiahatékonyság javításán keresztül történő – csökkentése közfeladat. E közfeladat ellátásában – európai uniós támogatásból létrehozott napelemes villamosenergia-termelő erőmű által villamos energia termelésével és költségvetési intézmények részére e rendeletben foglalt feltételek szerinti átadásával – a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti termelői engedélyesként az MVM Zöld Generáció Zártkörűen Működő Részvénytársaság (székhely: 1031 Budapest, Szentendrei út 207–209.; cégjegyzékszám: 01-10-142594) (a továbbiakban: Társaság) közreműködik.
+
+(2)[^2] A Társaság a napelemes villamosenergia-termelő erőmű által termelt villamos energiát a fenntartási időszakban kizárólag végfelhasználónak értékesítheti vagy a végfelhasználó számára közvetlenül vagy közvetetten értékesítő villamosenergia-kereskedő és egyetemes szolgáltató (a továbbiakban együtt: közreműködő kereskedő) számára adhatja át. A közreműködő kereskedő köteles együttműködni e rendelet végrehajtásában és köteles lehetővé tenni a napelemes villamosenergia-termelő erőmű által termelt villamos energia e rendelet szerinti értékesítését a végfelhasználó számára.
+
+(3) A Társaság a fenntartási időszakban saját költségére köteles a napelemes villamos energiatermelő erőmű működtetésére; a megtermelt villamos energia értékesítése során működési költséget nem érvényesíthet, kizárólag az értékesített energiamennyiség általános forgalmi adójának megfelelő összegre tarthat igényt.
+
+(4)[^3] A Társaság a fenntartási időszakban akkor nem köteles a 4. § (3) bekezdés b) pontja szerinti, minimálisan értékesítendő energiamennyiség (3) bekezdés szerinti értékesítésére, ha elháríthatatlan külső okból nem képes villamos energia termelésére.
+
+(5) A Társaság az erőmű létesítését követő húsz évig köteles az e rendeletből eredő tevékenysége, gazdálkodása vonatkozásában elkülönített nyilvántartás vezetésére.
+
+## 4. §[^4]
+
+(1)[^5] Az egyes miniszterek minden év február 1-ig tájékoztatják az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) azon irányításuk alá tartozó, nem budapesti vagy Pest vármegyei, Vet. szerinti felhasználási hellyel rendelkező költségvetési intézményekről, amelyeknek a tárgyévet megelőző második és harmadik évének éves villamosenergia-fogyasztási átlaga az adott felhasználási helyen elérte a 100 MWh villamosenergia-mennyiséget. Az egyes miniszterek a tájékoztatásukban az össztársadalmi hasznosság legteljesebb érvényesülésének figyelembe vételével javaslatot tesznek azokra a kijelölendő végfelhasználókra, amelyek vállalják a villamos energia e rendelet szerinti átvételét és az ehhez fűződő, e rendelet szerinti kötelezettségeket.
+
+(2) A miniszter előterjesztésére a Kormány a tárgyévet megelőző év március 31-ig határozattal jelöli ki a kijelölést, valamint az e rendelet szerinti kötelezettségeket vállaló
+
+a) az (1) bekezdés szerint javasolt költségvetési intézmények,
+
+b) a miniszter irányítása alá tartozó, az (1) bekezdésben meghatározott feltételeknek megfelelő költségvetési intézmények és
+
+c) a végfelhasználók számára tárgyévben minimálisan értékesítendő villamos energia összesített mennyiségének legfeljebb 10%-a erejéig az (1) bekezdésben meghatározott villamosenergia-fogyasztási feltételeknek megfelelő egyéb költségvetési intézmények
+
+közül a végfelhasználókat.
+
+(3) A Kormány a (2) bekezdés szerinti kijelölésben meghatározza
+
+a) a napelemes villamosenergia-termelő erőmű által a tárgyévben megtermelt villamosenergia-mennyiség egyes végfelhasználókra jutó arányát, valamint
+
+b) az egyes végfelhasználóknak a tárgyévben e rendelet szerint minimálisan értékesítendő villamos energia mennyiségét (MWh).
+
+(4) Ha a tárgyévben megtermelt villamos energia mennyisége meghaladja a minimálisan értékesítendő villamos energia összesített mennyiségét, akkor a fennmaradó villamosenergia-mennyiséget a (3) bekezdés a) pontja szerinti arányszám alapján kell a végfelhasználók között szétosztani.
+
+(5) Ha a 8. § (1) bekezdése szerinti szerződés megkötése ellehetetlenül, a felszabaduló villamosenergia-mennyiséget és a (4) bekezdés alapján az érintett végfelhasználóra eső villamosenergia-mennyiséget egyenlő arányban kell a többi végfelhasználó között szétosztani.
+
+(6) A végfelhasználóknak a tárgyévben e rendelet szerint minimálisan értékesítendő villamos energia összesített mennyisége a kijelölésben nem haladhatja meg a napelemes villamosenergia-termelő erőmű fejlesztésére vonatkozó támogatási szerződésben vállalt éves villamosenergia-termelés 90%-át.
+
+(7) A végfelhasználó gazdasági tevékenységéhez igénybe vett villamos energia mennyiség tekintetében a tárgyévben e rendelet keretén kívül vásárolt villamos energia átlagárának és a 8. § (2) bekezdésében meghatározott költségek arányos részének a különbsége állami támogatásnak minősül és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályainak alkalmazásával vehető igénybe.
+
+(8) A (7) bekezdés szerinti állami támogatás vonatkozásában az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendeletben foglalt támogatást nyújtót terhelő kötelezettségekért a Társaság felel.
+
+## 5. §[^6]
+
+(1) A végfelhasználó számára a kijelölés szerint minimálisan értékesítendő villamos energia mennyisége nem haladhatja meg a végfelhasználó tárgyévet megelőző második és harmadik évi átlagos villamos energia felhasználása 50%-ának megfelelő mennyiségű villamosenergia-mennyiséget.
+
+(2) A 8. § (1) bekezdése szerinti szerződést megkötő végfelhasználó a tárgyévet követő évben köteles energetikai számítással igazolt, energiamegtakarítással járó energiahatékonyság javító intézkedést tenni és annak eredményét 5 éven keresztül fenntartani.
+
+(3) Az (1) bekezdés szerinti átlagos villamosenergia-felhasználás kiszámításánál a végfelhasználó által megújuló energiából előállított villamosenergia-mennyiség nem vehető figyelembe.
+
+(4) A (2) bekezdés szerinti energiahatékonyság javító intézkedésként kizárólag a végfelhasználó saját költségvetéséből finanszírozott energiahatékony beszerzés, energiahatékonysági célú szolgáltatás vagy bármely egyéb, igazoltan energiamegtakarítással járó energiahatékonyság javító intézkedés fogadható el, amelynek megvalósítására a végfelhasználó a számára tárgyévben e rendelet alapján értékesített villamosenergia-mennyiség 8. § (2) bekezdésében meghatározott költségekkel csökkentett árának megfelelő értékben köteles. E bekezdésben az e rendelet alapján értékesített villamos energia áraként a tárgyévben e rendelet keretén kívül vásárolt villamos energia átlagárát kell figyelembe venni.
+
+(5) A végfelhasználó a megvalósítandó energiahatékonyság javító intézkedés által elért energiamegtakarítás igazolására szolgáló energetikai számításokat az épületek energetikai jellemzőinek meghatározásáról szóló rendelet, valamint a vonatkozó magyar szabványok előírásai szerint köteles elvégezni.
+
+(6) A végfelhasználó köteles a kijelölést követő 60 napon belül a Társaság számára megküldeni az adott felhasználási helyre vonatkozóan a tárgyévet megelőző három év átlagos havi villamosenergia-felhasználás mennyiségi adatait.
+
+## 8. §
+
+(1)[^9] A Társaságot vagy a közreműködő kereskedőt (a továbbiakban együtt: értékesítő) a végfelhasználókkal a tárgyévre szerződéskötési kötelezettség terheli a villamos energia e rendelet szerinti értékesítésére.
+
+(2) A végfelhasználó köteles megfizetni
+
+a) az e rendelet szerinti villamos energiával történő ellátásához kapcsolódóan felmerült, Vet. szerinti rendszerhasználati díjakat és pénzeszközöket, valamint
+
+b) az értékesítő részére a mérlegkörére terhelt kiegyenlítő energia költségének arányos részét, valamint az értékesített energiamennyiség általános forgalmi adójának megfelelő összeget.
+
+(3)[^10] A végfelhasználót a kijelölés alapján részére járó villamosenergia-mennyiség megvásárlása során az értékesítő felé a (2) bekezdésben foglaltakon túl további összeg megfizetése nem terheli.
+
+## 9. §
+
+(1) Az értékesítő az e rendelet szerint végzett tevékenységét köteles elkülönülten nyilvántartani.
+
+(2)[^11] Az e rendelet szerinti általános forgalmi adó alapjának meghatározása – a végfelhasználó által fizetendő díjai szempontjából neki kedvezőbb módon – a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendelet szerinti közintézményi árszabás alapján, vagy a végfelhasználó által a közte és a villamosenergia-kereskedő között létrejött villamosenergia-kereskedelmi szerződésben meghatározott villamos energia értékesítési ára alapján történik.
+
+## 10. §
+
+(1)[^12] A végfelhasználó az 5. § (4) bekezdése szerinti energiahatékonysági intézkedés megvalósulását igazoló iratokat köteles legkésőbb a tárgyévet követő második év március 31-ig a miniszterhez benyújtani. A miniszter az energiahatékonysági intézkedés megvalósulását a benyújtott iratok vizsgálatával és azok alapján szükség szerint helyszíni ellenőrzés végzésével ellenőrzi.
+
+(2) A végfelhasználó köteles a számára e rendelet szerint kedvezményesen átadott villamos energia mennyiség után a villamos energia egyetemes szolgáltatáshoz kapcsolódó árakról szóló miniszteri rendeletben megállapított közintézményi árszabás szerinti árat megfizetni az állam számára, ha
+
+a) az (1) bekezdés szerinti iratokat a határidő lejártát követő 3 hónapon belül sem nyújtja be a miniszterhez,
+
+b) az energiahatékonysági intézkedés nem vagy nem teljes körűen valósult meg, vagy
+
+c) az energiahatékonyság javító intézkedés eredményét 5 éven keresztül nem tartotta fenn.
+
+(3) A (2) bekezdés szerinti összeg megfizetésére a végfelhasználót a miniszter határozattal kötelezi. Az összeget a központi költségvetés számára kell befizetni.
+
+## 11. §[^13]
+
+(1) A Társaság a napelemes villamosenergia-termelő erőmű üzemeltetését az erőmű létesítését követő húsz évig biztosítja. A Társaság általi működtetés körébe a villamosenergia-értékesítés is beletartozik. A Társaság viseli a folyamatos üzemeltetéshez szükséges beruházások, különösen a műszakilag indokolt invertercsere költségeit.
+
+(2) Az erőmű élettartamának lejártát követően a Társaság az erőművet a mindenkori jogszabályoknak megfelelő módon saját költségére elbontja.
+
+(3) A Társaság a napelemes villamosenergia-termelő erőmű működéséhez kapcsolódóan realizált bevételeinek
+
+a) a felmerült, a Társaságot terhelő működési költségeinek,
+
+b) a Társaság által elvégzett, a folyamatos üzemeltetéshez szükséges felújítások és beruházások költségeinek és
+
+c) az erőmű elbontási, rekultivációs költségeinek
+
+összegét meghaladó részét a központi költségvetés számára befizeti.
+
+## 12. §
+
+Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+## 13. §[^14]
+
+(1) A 4. § (1) bekezdése szerinti tájékoztatásra a 2017. évi villamosenergia-felhasználás tekintetében legkésőbb a megújuló energiák alkalmazásával kapcsolatos egyes kormányrendeletek módosításáról szóló 312/2016. (X. 19.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépését[^15] követő 30 napon belül kerül sor.
+
+(2) A 4. § (2) bekezdése szerinti kijelölésre a 2017. évi villamosenergia-felhasználás tekintetében legkésőbb a Mód. rendelet hatálybalépését[^16] követő 45 napon belül kerül sor.
+
+## 14. §[^17]
+
+E rendelet 4. § (8) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
+
+---
+
+[^1]: A 3. § (1) bekezdése a 336/2024. (XI. 14.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 312/2016. (X. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (4) bekezdése a 312/2016. (X. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 218. §-a szerint módosított szöveg.
+[^6]: Az 5. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 8. § (1) bekezdése a 312/2016. (X. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 8. § (3) bekezdése a 312/2016. (X. 19.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 9. § (2) bekezdése a 498/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 10. § (1) bekezdése a 312/2016. (X. 19.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^13]: A 11. § a 336/2024. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 13. § a 312/2016. (X. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^15]: A hatálybalépés időpontja 2016. október 20.
+[^16]: A hatálybalépés időpontja 2016. október 20.
+[^17]: A 14. §-t a 312/2016. (X. 19.) Korm. rendelet 7. §-a iktatta be.

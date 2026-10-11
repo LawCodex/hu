@@ -1,0 +1,254 @@
+---
+title: "155/2015. (VI. 25.) Korm. rendelet a jegyző társasházak feletti törvényességi felügyeletének eljárási szabályairól"
+identifier: "155/2015. (VI. 25.) Korm. rendelet"
+njt_id: "2015-155-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/155"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-06-25
+in_force_from: 2015-07-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-155-20-22"
+retrieved: 2026-10-12
+---
+
+# 155/2015. (VI. 25.) Korm. rendelet a jegyző társasházak feletti törvényességi felügyeletének eljárási szabályairól
+
+A Kormány a társasházakról szóló 2003. évi CXXXIII. törvény 65. § 2. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A törvényességi felügyeleti eljárás (a továbbiakban: eljárás) megindítására a társasház címe szerint illetékes jegyző jogosult.
+
+(2) Az eljárás lefolytatásában nem vehet részt az a személy,
+
+a) akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, vagy
+
+b) akitől az ügynek tárgyilagos megítélése egyéb okból nem várható.
+
+(3) A jegyző nem vehet részt abban az eljárásban, amelyben
+
+a) a jegyző illetékességi területén működő helyi önkormányzat, képviselő-testület, azok szerve vagy érdekeltségi körébe tartozó gazdálkodó szervezet társasházi tulajdonostársként, vagy
+
+b) a jegyző illetékességi területén működő helyi önkormányzatnak, illetve képviselő-testületnek szerve vagy érdekeltségi körébe tartozó gazdálkodó szervezete közös képviselőként vagy a társasház társasházkezelőjeként
+
+az eljárás érintettje.
+
+(4)[^1] A jegyző a kizárási okról történő tudomásszerzést követő 5 munkanapon belül az ügy iratait – a kizárással kapcsolatos álláspontjával együtt – megküldi az illetékes fővárosi és vármegyei kormányhivatal részére.
+
+(5)[^2] A fővárosi és vármegyei kormányhivatal az iratok kézhezvételét követő 15 munkanapon belül dönt a kizárásról, szükség esetén – az ügy iratainak megküldésével egyidejűleg – más jegyzőt jelöl ki, továbbá arról is dönt, hogy a már lefolytatott eljárási cselekményeket szükséges-e megismételni.
+
+## 2. §
+
+(1)[^3] Ha a jegyző az eljárást a 3. § (2) bekezdése szerinti határidőn belül nem indítja meg, az illetékes fővárosi és vármegyei kormányhivatal – az arról történő tudomásszerzést követő 15 munkanapon belül – kivizsgálja a mulasztás okát, és a mulasztó jegyzőt az eljárás soron kívüli lefolytatására utasítja. Az 1. § (2) és (3) bekezdésében foglaltak esetén nincs helye az eljárás lefolytatására történő utasításnak.
+
+(2)[^4] Ha a fővárosi és vármegyei kormányhivatal által megállapított újabb határidő eredménytelenül telt el, a fővárosi és vármegyei kormányhivatal az eljárásra határozatával haladéktalanul másik jegyzőt jelöl ki, és ezzel egyidejűleg fegyelmi eljárást kezdeményez a mulasztó jegyző ellen a polgármesternél.
+
+(3)[^5] A mulasztó jegyző az ügy iratait a fővárosi és vármegyei kormányhivatalnak az erre irányuló megkeresés kézhezvételétől számított 3 munkanapon belül megküldi. A fővárosi és vármegyei kormányhivatal az ügy iratait a kijelölő határozattal együtt továbbítja a kijelölt jegyző részére.
+
+(4) A kijelölt jegyző vonatkozásában az eljárási határidő a kijelölő határozat és az ügy iratainak átvételét követő napon kezdődik.
+
+(5) Ha a határidő utolsó napja olyan nap, amelyen a jegyző által vezetett polgármesteri hivatalnál vagy közös önkormányzati hivatalnál a munka szünetel, a határidő a következő munkanapon jár le.
+
+## 3. §
+
+(1) A jegyző köteles az eljárást hivatalból megindítani, ha az eljárásra okot adó körülményről hivatalból vagy bejelentés alapján tudomást szerez.
+
+(2) A jegyző az eljárást az arra okot adó körülményről való tudomásszerzéstől számított 30 napon belül, de legfeljebb az eljárásra okot adó körülmény bekövetkezésétől számított egyéves határidőn belül indíthatja meg.
+
+(3) Az eljárás a (2) bekezdésben meghatározott jogvesztő határidőn túl is megindítható, ha az eljárásra okot adó körülmény
+
+a) folyamatosan fennáll, vagy
+
+b) a közgyűlési határozat végrehajtását érintő mulasztásban nyilvánul meg.
+
+## 4. §
+
+(1) A jegyző a társasház működésével összefüggésben történt bejelentés esetén a bejelentést megvizsgálja.
+
+(2) Bejelentéssel
+
+a) a társasházi tulajdonostárs, valamint
+
+b) a közös képviselő vagy az intézőbizottság elnöke (a továbbiakban együtt: közös képviselő)
+
+élhet.
+
+(3) A bejelentés során a tulajdonostárs helyett meghatalmazott is eljárhat.
+
+(4) A bejelentő
+
+a) a (2) bekezdés a) pontjában és a (3) bekezdésben foglaltakat legalább nem hiteles és 30 napnál nem régebbi tulajdonilap-másolat, illetve a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti meghatalmazás,
+
+b) a (2) bekezdés b) pontjában foglaltakat a közös képviselő megválasztásáról szóló közgyűlési határozatot tartalmazó közgyűlési jegyzőkönyv-kivonat
+
+bejelentéssel egyidejűleg történő benyújtásával igazolja.
+
+(5) Ha a bejelentő a (2) és a (3) bekezdésben foglaltakat igazolja és a bejelentés alapján az eljárásra okot adó körülmény fennállása valószínűsíthető, a jegyző az eljárást megindítja.
+
+(6) Ha a jegyző az (5) bekezdés szerint nem indít eljárást, a bejelentőt – a bejelentésében foglalt erre irányuló kérelme esetén – az írásbeli bejelentés kézhezvételétől, vagy a szóbeli bejelentés napjától számított 30 napon belül írásban tájékoztatja az eljárás elmaradásának indokairól.
+
+## 5. §
+
+Az eljárás nem irányulhat a társasház működésének gazdaságossági vagy célszerűségi szempontból való ellenőrzésére.
+
+## 6. §
+
+(1) A jegyző az eljárás megindításáról 3 munkanapon belül, írásban értesíti a közös képviselőt, valamint a bejelentőt.
+
+(2) Az értesítésnek tartalmaznia kell:
+
+a) az ügy tárgyát, iktatási számát, az eljárás megindításának napját,
+
+b) a hivatalból indult eljárásra történő utalást és
+
+c) a közös képviselő esetében a 7. § (1) bekezdése szerinti megkeresést.
+
+(3) A közös képviselő elérhetőségének megismerése céljából a jegyző szükség esetén megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a cégbíróságot.
+
+## 7. §
+
+(1) A jegyző az eljárás során postai vagy elektronikus úton bekérheti vagy a helyszínen megtekintheti a társasház működésével kapcsolatos iratokat.
+
+(2) Az iratokat a közös képviselő a jegyző értesítésének kézhezvételétől számított 10 munkanapon belül köteles a jegyző rendelkezésére bocsátani.
+
+(3) A közös képviselőnek a (2) bekezdés szerinti időtartamon belül a jegyzőhöz eljutatott, indokolással ellátott írásbeli kérelmére a (2) bekezdés szerinti időtartam egy alkalommal, 10 munkanappal meghosszabbítható.
+
+(4) A társasházi alapító okirat és annak módosításai, valamint a szervezeti-működési szabályzat megismerése érdekében a jegyző az ingatlanügyi hatóságot is megkeresheti.
+
+## 8. §
+
+Ha az eljárásra okot adó körülmény mulasztásban nyilvánul meg és a jegyző szükségesnek tartja, a jegyző a közös képviselőt személyesen meghallgathatja, illetve tőle írásbeli nyilatkozatot kérhet.
+
+## 9. §
+
+(1) A jegyző az eljárásra okot adó körülmény fennállását a helyszínen is ellenőrizheti.
+
+(2) A helyszíni ellenőrzés során a jegyző a társasház közös tulajdonba tartozó épületrészeibe beléphet, ott az eljárással összefüggő bármely iratot, tárgyat vagy munkafolyamatot megvizsgálhat, az ott tartózkodó személytől tájékoztatást, felvilágosítást kérhet, valamint az ellenőrzés dokumentálása céljából a helyszínről, a megvizsgált iratokról, tárgyakról képfelvételt készíthet.
+
+(3) A (2) bekezdésben foglaltak – a tulajdonostárs vagy a külön tulajdonban bentlakó személy hozzájárulását követően – külön tulajdon esetén is alkalmazhatóak.
+
+## 10. §
+
+(1) A jegyző az egyes eljárási cselekményekről jegyzőkönyvet készít.
+
+(2) A jegyzőkönyv tartalmazza:
+
+a) a készítésének helyét, időpontját,
+
+b) az eljáró jegyző vagy a nevében és megbízásából eljáró személy megnevezését,
+
+c) az ügy tárgyát, ügyiratszámát,
+
+d) az ügyre vonatkozó lényeges megállapításokat, az ügy eldöntése szempontjából lényeges körülmények megjelölését.
+
+(3) A jegyzőkönyv szükség szerint tartalmazza:
+
+a) az ügyre vonatkozó lényeges nyilatkozatot,
+
+b) a nyilatkozatot tevő személy nevét, továbbá lakcímét,
+
+c) a nyilatkozatot tevő személy, valamint a jegyzőkönyvvezető oldalankénti aláírását.
+
+## 11. §[^6]
+
+Az eljárás során az adatkezelésre az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) adatkezelésre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy ahol az Ákr. ügyfelet említ, azon a társasházat, illetve a közös képviselőt kell érteni.
+
+## 12. §
+
+(1) A jegyző az eljárást felhívás kibocsátása nélkül lezárja, ha az ellenőrzés során megállapítja, hogy a társasház törvényes működését sértő körülmény nem, vagy már nem áll fenn.
+
+(2) Az eljárás lezárásáról a jegyző a közös képviselőt és a bejelentőt írásban tájékoztatja.
+
+(3) Ha új körülmény merül fel, a jegyző a társasház korábban már vizsgált intézkedését új törvényességi felügyeleti eljárás keretében ismételten vizsgálat alá vonhatja.
+
+## 13. §
+
+Ha a jegyző az eljárás alapján a társasház működésének társasházakról szóló 2003. évi CXXXIII. törvény (a továbbiakban: Tt.) 27/A. § (2) bekezdésébe ütközését állapítja meg, a Tt. 27/A. § (4) bekezdésének megfelelően írásbeli felhívást (a továbbiakban: felhívás) bocsát ki, amely tartalmazza
+
+a) az eljáró szerv nevét, az eljáró ügyintéző nevét és az ügy számát,
+
+b) a társasház nevét és címét,
+
+c) a társasház közös képviselőjének nevét, lakóhelyét, gazdálkodó szervezet esetén nevét, székhelyét és képviseletére jogosult személy nevét, lakóhelyét,
+
+d) az ügy tárgyának megjelölését,
+
+e) a rendelkező részben
+
+ea) a kötelezést a törvényes működés helyreállítására,
+
+eb) a kötelezettség teljesítése elmaradásának jogkövetkezményeit,
+
+f) az indokolásban
+
+fa) a megállapított tényállást és az annak alapjául szolgáló tényeket, adatokat,
+
+fb) azokat a jogszabályhelyeket, amelyek alapján a jegyző a felhívást kibocsátotta,
+
+fc) a jegyző hatáskörét és illetékességét megállapító jogszabályra történő utalást,
+
+g) a felhívás kibocsátásának helyét és idejét, és
+
+h) a felhívás kiadmányozójának nevét, aláírását, és az eljáró szerv bélyegzőlenyomatát.
+
+## 14. §
+
+(1)[^7] A jegyző a felhívást hivatalos iratként postai úton, személyesen átadott iratként, elektronikusan vagy saját kézbesítője útján közli a közös képviselővel.
+
+(2) A felhívás közlésének napja, amikor a felhívást a közös képviselővel írásban közölték, vagy hivatalos iratként kézbesítették. Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni. Ha az irat a jegyzőhöz „nem kereste” jelzéssel érkezik vissza, az iratot – az ellenkező bizonyításáig – a postai kézbesítés második megkísérlésének napját követő 5. munkanapon kézbesítettnek kell tekinteni.
+
+(3) A közös képviselő a felhívásról annak közlését követő 3 napon belül a társasházban jól látható helyen kifüggesztett hirdetmény formájában értesíti a tulajdonostársakat.
+
+## 15. §
+
+A felhívásban foglaltak teljesítését a jegyző a 7–11. §-ban foglaltak szerint ellenőrzi.
+
+## 16. §
+
+(1) Ha a jegyző a felhívás közlését követően megállapítja, hogy felhívása jogszabályt sért, a felhívást a jegyző a jogszabálysértés tudomására jutásától számított 5 munkanapon belül módosítja vagy visszavonja.
+
+(2) A felhívás visszavonásáról szóló tájékoztatás, illetve a módosított felhívás közlésére a felhívás közlésére vonatkozó szabályok irányadóak.
+
+(3) A törvényes működés helyreállítására biztosított 60 napos határidő a módosított felhívás közlését követő napon újrakezdődik.
+
+## 17. §
+
+(1) A jegyző az eljárást megszünteti, ha megállapítja, hogy a társasház
+
+a) a felhívásban foglaltaknak megfelelően a törvényes működését helyreállította, vagy
+
+b) törvényes működését sértő körülmény már nem áll fenn.
+
+(2) Az eljárás megszüntetéséről a jegyző a közös képviselőt és a bejelentőt írásban tájékoztatja.
+
+(3) Ha a törvényes működés a közgyűlés határozatával állítható helyre, a társasház törvényes működése akkor állapítható meg, ha a társasház a közgyűlését a felhívástól számított 60 napon belül a Tt. rendelkezéseinek megfelelően megtartotta és a törvényes működést sértő körülmény megszüntetéséhez szükséges határozatot meghozta vagy módosította.
+
+## 18. §
+
+Ha az eljárás a 17. § (1) bekezdésében foglaltak szerint nem szüntethető meg, a jegyző a Tt. 27/A. § (4) bekezdésének megfelelően bírósághoz fordulhat.
+
+## 19. §
+
+Ha a bíróság a jegyzőt jogosította fel a közgyűlés összehívására, a jegyző a döntés jogerőre emelkedésétől számított 15 napon belül a társasházban jól látható helyen kifüggesztett hirdetmény útján gondoskodik a közgyűlés összehívásáról, valamint a hirdetményként kifüggesztett meghívóban megjelöli a közgyűlés összehívásának okát, továbbá azokat a napirendi pontokat és közgyűlési határozati javaslatokat, amelyek megtárgyalása a törvényes működés biztosítása érdekében indokolt.
+
+## 20. §
+
+Ez a rendelet 2015. július 1-jén lép hatályba.
+
+## 21. §[^8]
+
+E rendeletnek az egységes elektronikus ügyintézési kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 14. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+---
+
+[^1]: Az 1. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 213. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 213. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 213. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 213. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 213. § b) pontja szerint módosított szöveg.
+[^6]: A 11. § a 457/2017. (XII. 28.) Korm. rendelet 353. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 14. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.
+[^8]: A 21. §-t a 477/2016. (XII. 27.) Korm. rendelet 80. § (2) bekezdése iktatta be.

@@ -1,0 +1,134 @@
+---
+title: "284/2018. (XII. 21.) Korm. rendelet a Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról"
+identifier: "284/2018. (XII. 21.) Korm. rendelet"
+njt_id: "2018-284-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/284"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-21
+in_force_from: 2018-12-22
+last_amended: 2024-08-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-284-20-22"
+retrieved: 2026-10-12
+---
+
+# 284/2018. (XII. 21.) Korm. rendelet a Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 8. alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 18. § (8) bekezdése szerinti vizsgaközponti feladatok ellátására 2019. január 1. napjától a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: vizsgaközpont) jelöli ki, amely országos működési területtel jár el.
+
+(2)[^1] A vizsgaközpont főtevékenységként az alábbi közfeladatokat látja el:
+
+a) végzi a közúti járművezetők vizsgáztatását, utánképzését és képzésfelügyeletét,
+
+b) végzi a közúti közlekedési szakemberek vizsgáztatását és képzésfelügyeletét,
+
+c) végzi a közúti járművezetők pályaalkalmassági vizsgálatát,
+
+d) közreműködik az *a)* és *b)* pontban meghatározott képzésfelügyeleti tevékenysége révén a közúti járművezetők és közúti közlekedési szakemberek tanfolyami és szaktanfolyami képzése, továbbképzése és utánképzése ellenőrzésében,
+
+e) végzi a közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése, utánképzése és vizsgáztatása, továbbá az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység szakfelügyeletét,
+
+f) részt vesz a közúti járművezetők és a közúti közlekedési szakemberek képzésének engedélyeztetésével kapcsolatos jogszabálytervezetek véleményezésében,
+
+g) részt vesz a közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével, vizsgáztatásával, továbbá a közúti járművezetők pályaalkalmassági vizsgálatával kapcsolatos jogszabálytervezetek véleményezésében,
+
+h) feladatkörét érintően együttműködik hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, testületekkel.
+
+(2a)[^2] A vizsgaközpont elektronikus ügyintézés biztosítására kötelezett
+
+a) a közúti közlekedési nyilvántartás engedély-nyilvántartásával való kapcsolattartása és a vizsgára, vizsgálatra és utánképzésre jelentkezők adatainak ellenőrzése során a (2) bekezdés a)–c) pontja szerinti közfeladatai ellátása keretében, valamint
+
+b) a vizsgára, vizsgálatra és utánképzésre jelentkezők által közvetlenül a vizsgaközponthoz – képző szerv közreműködése nélkül – benyújtható jelentkezés és nyilatkozattétel biztosítása vonatkozásában.
+
+(3) A vizsgaközpont a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ában meghatározott adatokat – díjmentesen – igényelheti a közúti közlekedési nyilvántartásból a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához. A vizsgaközpont a közúti közlekedési nyilvántartásból átvett személyes adatot az érintett személlyel kapcsolatban ellátott feladatának befejezését követő 6 hónapig kezelheti.
+
+## 2. §
+
+(1)[^3] A közúti gépjármű-közlekedési hatóságként eljáró vármegyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest vármegyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala, valamint a közlekedésért felelős miniszter, közúti közlekedésről szóló 1988. évi I. törvény 18. § (8) bekezdésében meghatározott feladatait – a 8. §-ban foglaltak figyelembevételével – 2019. január 1. napjától a vizsgaközpont látja el. A feladatátadás kiterjed az átvételre kerülő feladat- és hatáskörök tekintetében az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra, kötelezettségekre, továbbá valamennyi, az átvételre kerülő feladat ellátását szolgáló jogviszonyra és a feladat ellátása során keletkezett iratanyagra.
+
+(2) Az (1) bekezdés szerinti feladatátvétel a feladatátadással érintett szervek által e rendelet hatálybalépését megelőzően kiadott engedélyek, hatósági jogkörben hozott döntések és keletkezett dokumentumok érvényességét nem érintik.
+
+(3)[^4] A 2018. december 31. napján fennálló kormányzati, állami szolgálati jogviszony munkaviszonnyá átalakulása tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 72. §-ában foglaltakat – a 8. § (2) bekezdésében foglalt eltéréssel – kell alkalmazni.
+
+## 3. §[^5]
+
+A közúti gépjármű-közlekedési hatóságként eljáró vármegyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest vármegyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala, valamint a közlekedésért felelős miniszter, közúti közlekedésről szóló 1988. évi I. törvény 18. § (8) bekezdésében meghatározott feladatainak ellátásával összefüggésben keletkezett, a hatósági nyilvántartásaiban kezelt adatokat, valamint irattárában 2018. december 31. napján fellelhető iratokat a vizsgaközpont jogosult kezelni.
+
+## 4. §
+
+(1) A 2018. december 31. napján folyamatban lévő közigazgatási hatósági eljárások tekintetében
+
+a)[^6] a közúti gépjármű-közlekedési hatóságként eljáró vármegyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest vármegyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala előtt folyamatban lévő ügyek vonatkozásában a hatósági eljárás lefolytatására a közlekedésért felelős miniszter,
+
+b) a pályaalkalmassági vizsgálatok tekintetében folyamatban lévő hatósági eljárások tekintetében a vizsgaközpont
+
+jogosult 2019. január 1. napjától eljárni.
+
+(2) A folyamatban lévő pályaalkalmassági hatósági eljárások lezárása, valamint azok – elsőfokú ügyekben – a vizsgaközponthoz, a másodfokú ügyek tekintetében a másodfokú bizottsághoz történő áttétele iránt a közlekedési hatósági ügyekért felelős helyettes államtitkár intézkedik.
+
+(3) A folyamatban lévő – különösen a vizsgáztatással összefüggő, illetve pályaalkalmassági – hatósági eljárásokban megfizetett igazgatási szolgáltatási díjakat a feladat átadás-átvétel nem érinti, az ügyfelek részéről ezzel kapcsolatban újabb kötelezettség nem keletkezik, ezen díjbevételek a vizsgaközpont bevételét képezik, azzal, hogy a 2018. december 31. napjáig az átadó szerv előtti eljárással kapcsolatban befizetett díjak tekintetében a közlekedésért felelős miniszter és a vizsgaközpont 2019. február 28. napjáig egymással elszámol. A 2019. január 1. napját követően indult és a vizsgaközpont által lefolytatandó eljárásokért fizetendő díjak a vizsgaközpont bevételét képezik.
+
+(4) A 2019. január 1. előtt az átadással érintett feladatok tárgyában indult, folyamatban lévő peres és nemperes eljárásokban jogutód a közlekedésért felelős miniszter.
+
+## 4/A. §[^7]
+
+(1) A közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásáért, a közúti járművezetők utánképzéséért és a pályaalkalmassági vizsgálatáért, az okmány kiállításért, az okmánypótlásért, utólagos igazolás kiállításért, valamint a szakértői vizsgálatért díjat kell fizetni. A vizsgaközpont a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának, a közúti járművezetők utánképzésének és a pályaalkalmassági vizsgálatának díját szabályzatban állapítja meg, amelyet évente felülvizsgál.
+
+(2) A díjat a tevékenységgel összefüggő, a vizsgaközpont részéről felmerülő közvetlen, valamint közvetett költségek alapján kell meghatározni. E tekintetben közvetlen költségnek minősülnek a tevékenységgel kapcsolatos személyi és dologi költségek – ideértve a tevékenység fejlesztésével összefüggő költségeket is – a tényleges, valamint – a szabályzattal érintett időszakban – tervezett költségek, kiadások. A közvetett költséget a vizsgaközpont számviteli politikája szerint kell meghatározni. Ha a számviteli politika erre nem tartalmaz adatot, úgy a költségek felosztása a funkcionális (nem alap feladatot ellátó) létszám és a teljes létszám arányában történhet.
+
+(3) A vizsgaközpont a szabályzatot annak tervezett hatálybalépését legalább 30 nappal megelőzően – első alkalommal 2023. szeptember 15. napjáig – a közlekedési hatóság részére jóváhagyás céljából benyújtja.
+
+(4) A közlekedési hatóság a díj tekintetében ellenőrzi, hogy annak képzése, kialakítása megfelel-e a (2) bekezdésben foglaltaknak.
+
+(5) A vizsgaközpont a szabályzatot nyilvánosan közzéteszi.
+
+(6)[^8] A vizsgaközpont részére a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásáért, a közúti járművezetők utánképzéséért és a pályaalkalmassági vizsgálatért befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a tárgyhónapot követő hónap utolsó napjáig a vizsgaközpont az 10032000-00003582-06020015 számlára történő átutalással teljesíti.
+
+## 5. §
+
+(1) A vizsgaközponthoz kerülő feladatok ellátásához szükséges, a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló miniszteri rendelet hatálya alá tartozó szakrendszerek használatát a közlekedésért felelős miniszter biztosítja a vizsgaközpont részére.
+
+(2) A feladatátadó szerv 2019. július 31. napjáig köteles a vizsgaközpont számára a feladatainak maradéktalan ellátása érdekében, az ahhoz szükséges eszközök – ideértve különösen az informatikai eszközök, hálózatok, használatát, annak ellátásához szükséges irodai eszközöket, a vizsgáztatás lefolytatásához szükséges eszközöket, utóbbi körében a tanpálya – használatát biztosítani. A használatból eredő költségek tekintetében a vizsgaközpont az informatikai szolgáltatások esetén a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet, míg egyéb beszerzés estén a Közbeszerzési és Ellátási Főigazgatóságról szóló kormányrendelet rendelkezései alapján a központi szolgáltatóval, illetve a Közbeszerzési és Ellátási Főigazgatósággal elszámol.
+
+(2a)[^9] A vizsgaközpont az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet 1. § (3) bekezdésében megjelölt, a közlekedésért felelős miniszter által állami feladatellátás keretében a vizsgaközpont részére biztosított szolgáltatások költségei tekintetében a közlekedésért felelős miniszterrel elszámol, az elszámolás feltételeinek rögzítésére minden tárgyév február 15. napjáig a közlekedésért felelős miniszter és a vizsgaközpont elszámolási megállapodást köt.
+
+(2b)[^10] A közlekedésért felelős miniszter és a vizsgaközpont a (2a) bekezdés szerinti, 2024. január 1. napjától 2024. december 31. napjáig tartó időszakra vonatkozó megállapodást e rendeletnek a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelettel történő módosításának hatálybalépésétől számított 31 napon belül kötik meg.
+
+(3)[^11] A vizsgaközpont 2023. december 31. napjáig jogosult a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti szolgáltatások igénybevételére.
+
+(4)[^12] A vizsgaközpont és a közlekedésért felelős miniszter 2019. december 31. napjáig elszámol egymással az utánképzési tevékenységgel összefüggő díjak tekintetében, azzal, hogy a közlekedésért felelős miniszter az utánképzési rendszer szakmai irányítására és fejlesztésére fordítandó összeget a vizsgaközpont részére visszahagyja.
+
+## 6. §
+
+Az 1. § (2) bekezdésében foglalt közfeladatainak ellátásával összefüggésben a vizsgaközpont jogosult a feladatok ellátását szolgáló ingatlanok, tárgyi eszközök – ideértve a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet hatálya alá tartozó szolgáltatások – 2019. július 31. napjáig történő használatára, a használatból adódóan felmerülő költségek 2019. november 30. napjáig történő utólagos elszámolásával. Ennek érdekében az átadó szerv 2018. december 31-ei fordulónappal tételes leltárt köteles készíteni az átvevő szerv részére, amelyet legkésőbb 2019. január 31. napjáig köteles az átvevő szerv részére átadni. A feladat átadás-átvétellel összefüggő ingatlanok, tárgyi eszközök végleges átadására, azok vagyonjogi kérdéseinek rendezésére vonatkozó megállapodást az érintettek legkésőbb 2019. július 31. napjáig megkötik.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 8. §
+
+(1) A 2. § (1) bekezdésében foglalt átadás-átvételi eljárás lezárásáig a közúti közlekedésről szóló 1988. évi I. törvény 18. § (8) bekezdésében a vizsgaközpont számára meghatározott feladatok ellátása feltételeinek a megteremtésében a megyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest megyében az Érdi Járási Hivatal, valamint Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala közreműködik.
+
+(2) A 2. § (3) bekezdésében foglalt jogviszonyváltásra a 2. § (1) bekezdésében foglalt átadás-átvételi eljárás lezárását, illetve az (1) bekezdés szerinti közreműködői feladatok átadását követően, 2019. február 28. napján kerül sor.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^2]: Az 1. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 122. §-a iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 291. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 248/2019. (X. 24.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^5]: A 3. § a 616/2022. (XII. 29.) Korm. rendelet 291. §-a szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 291. §-a szerint módosított szöveg.
+[^7]: A 4/A. §-t a 410/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^8]: A 4/A. § (6) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 79. §-a szerint módosított szöveg.
+[^9]: Az 5. § (2a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 78. §-a iktatta be.
+[^10]: Az 5. § (2b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 78. §-a iktatta be.
+[^11]: Az 5. § (3) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 53. §-ával megállapított, a 410/2023. (VIII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be.

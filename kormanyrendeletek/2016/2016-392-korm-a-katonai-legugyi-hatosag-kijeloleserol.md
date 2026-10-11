@@ -1,0 +1,150 @@
+---
+title: "392/2016. (XII. 5.) Korm. rendelet a katonai légügyi hatóság kijelöléséről"
+identifier: "392/2016. (XII. 5.) Korm. rendelet"
+njt_id: "2016-392-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/392"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-05
+in_force_from: 2017-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-392-20-22"
+retrieved: 2026-10-12
+---
+
+# 392/2016. (XII. 5.) Korm. rendelet a katonai légügyi hatóság kijelöléséről
+
+A Kormány\
+a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (2) bekezdés *b)* pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 3. § (2) bekezdése szerinti katonai légügyi hatóságként országos illetékességgel a honvédelemért felelős minisztert jelöli ki.
+
+## 2. §
+
+A katonai légügyi hatóság hatásköre kiterjed:
+
+a) az állami célú légiközlekedési szakszemélyzetekre és azok tevékenységével,
+
+b) az állami légijárművekkel, és a pilóta nélküli állami légijárművekkel,
+
+c) az állami repülések céljára szolgáló repülőterekkel és a közös felhasználású repülőterekkel,
+
+d) a kizárólag az állami repülések céljára szolgáló repülési létesítményekkel és léginavigációs földi berendezésekkel, valamint
+
+e) az állami légiközlekedéssel és légiközlekedéssel összefüggő tevékenységekkel
+
+kapcsolatos hatósági tevékenységre.
+
+## 3. §
+
+A katonai légügyi hatóság feladatai:
+
+a) az állami célú légiközlekedési szakszemélyzetek szakszolgálati engedélyezésével összefüggő közigazgatási hatósági eljárások lefolytatása:
+
+aa) érvényes szakszolgálati engedéllyel és oktatói képesítéssel rendelkező légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzéséhez, meghosszabbításához, illetve kiterjesztéséhez szükséges elméleti és gyakorlati vizsgáztatás végrehajtása;
+
+ab)[^1] a légiközlekedési szakszemélyzet részére szakszolgálati engedélyek kiadása, indokolt esetben a szakszolgálati engedély helyszíni elvétele, a szakszolgálati engedélyhez kötött tevékenység végzésétől történő eltiltás vagy a szolgálati engedély visszavonása, a szakszolgálati engedélyekről nyilvántartás vezetése;
+
+ac) a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek kiadásához, meghosszabbításához előírt repülőegészségi alkalmasság hatósági minősítése, a hatósági repülőorvosi igazolványok kiadása;
+
+ad) az állami célú légiközlekedés szakszemélyzeteinek alapellátását végző egészségügyi szolgálatok adatszolgáltatása alapján a szakszemélyzetek egészségügyi alkalmassági vizsgálatával, felülvizsgálatával és gondozásával kapcsolatos adatokról nyilvántartás vezetése;
+
+ae) a légiközlekedési szakszemélyzetek feletti hatósági felügyelet ellátása;
+
+af)[^2] a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzése, meghosszabbítása, illetve kiterjesztése érdekében szervezett képzés tematikájának jóváhagyása, a képzésre vonatkozó engedély kiadása, indokolt esetben visszavonása, vagy a képzési tevékenység végzésétől történő eltiltása;
+
+ag) a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzése, meghosszabbítása, illetve kiterjesztése érdekében szervezett képzés hatósági felügyeletének ellátása;
+
+b) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel kapcsolatos közigazgatási hatósági eljárások lefolytatása:
+
+ba) a Magyar Állami Légijármű Nyilvántartás vezetése, az állami légijárművek nyilvántartásba való felvétele, illetve abból történő törlése;
+
+bb) az állami célú légiközlekedésben a fedélzeti azonosító jel használatának engedélyezése;
+
+bc) az állami légijárművek és egyes légiközlekedéssel kapcsolatos eszközök gyártásának, karbantartásának, javításának, illetve felújításának hatósági engedélyezése, az erről szóló működési engedély kiadása;
+
+bd)[^3] az állami légijárművet, pilóta nélküli állami légijárművet, és az egyes légiközlekedéssel kapcsolatos eszközöket gyártó, karbantartó, javító, illetve felújító szervezetek hatósági felügyeletének ellátása, indokolt esetben a működési engedély módosítása, visszavonása, vagy a működési engedélyhez kötött tevékenység végzésétől történő eltiltása;
+
+be) az állami légijárművek típusalkalmassági- és légialkalmassági eljárásának lefolytatása, így különösen a típusalkalmassági és légialkalmassági bizonyítvány kiadása, indokolt esetben érvénytelenítése, visszavonása, módosítása;
+
+bf) az állami légijárművek légialkalmassági vizsgálatának keretében a hatósági berepülés, beugrás programjának jóváhagyása, a berepülés, beugrás végrehajtása;
+
+bg) az állami légijármű polgári célú igénybevételének engedélyezése;
+
+bh) tárgy állami légijárműből történő kidobásának, szórásának engedélyezése, az állami célú légiközlekedésben dipolkötegek, infracsapdák légtérbe juttatásának engedélyezése gyakorlás céljából;
+
+bi) egyedi légialkalmassági engedéllyel nem rendelkező állami légijármű egyszeri átrepülésének engedélyezése;
+
+bj) az állami légijármű légialkalmassági bizonyítvány nélküli kísérleti, próba- vagy műszaki célú repülésének engedélyezése;
+
+bk) berendezés állami légijármű fedélzetén történő használatának engedélyezése;
+
+bl) külföldi légijármű szakszemélyzetének magyar állami légijármű önálló légi üzemeltetésére vonatkozó együttműködési megállapodásának jóváhagyása;
+
+bm) a pilóta nélküli állami légijárművek nyilvántartásba vétele, és típusalkalmassági és légialkalmassági vizsgálata;
+
+c)[^4] az állami repülések céljára szolgáló repülőterek, közös felhasználású repülőterek, valamint a kizárólag állami repülések céljára szolgáló földi léginavigációs berendezések üzembentartásának engedélyezése, hatósági felügyelete, indokolt esetben az üzembentartási engedély visszavonása, vagy az üzembentartási engedélyhez kötött tevékenység végzésétől történő eltiltása, a repülőtérrendek jóváhagyása;
+
+d) az állami repülések céljára szolgáló repülőterekről, leszállóhelyekről nyilvántartás vezetése;
+
+e) az állami célú légiközlekedésben a Repülőtéri Kényszerhelyzeti Terv jóváhagyása;
+
+f) az állami repülések céljára szolgáló repülőterek repülőtéri navigációs berendezései hatósági mérésének (kalibrálásának) és hitelesítésének hatósági ellenőrzése;
+
+g) éjszakai hajtóműpróba engedélyezése az állami célú légiközlekedésben;
+
+h) az állami repülések céljára szolgáló repülőterek, valamint a közös felhasználású repülőterek közvetlen környezetében zajgátló védőövezetek kijelölése;
+
+i) az állami repülések céljára szolgáló repülőtér és az állami célú légiközlekedéssel összefüggő berendezések meghatározott körzetében lévő építmény engedélyezési eljárásában szakhatóságként való közreműködés;
+
+j) a kiemelt jelentőségű ügyekhez tartozó egyes építmények engedélyezési eljárásaiban – állami légiközlekedési szakkérdésekben – szakhatóságként való közreműködés;
+
+k) az állami célú légiközlekedésben bekövetkezett légiközlekedési események közigazgatási hatósági eljárás keretében történő vizsgálata;
+
+l) a Katonai Légügyi Hatósági Készenléti Szolgálat működtetése;
+
+m) az állami célú légiközlekedés területén működő repülésbiztonsági szervezet fenntartásának ellenőrzése (felügyelete), az engedély kiadása;
+
+n) nyilvános repülőrendezvény megtartásának engedélyezése, a rendezvény tervének jóváhagyása, illetve hatósági felügyeletének ellátása;
+
+o)[^5] a bajba jutott vagy eltűnt légijármű megsegítésére, illetve a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló légi kutató-mentő tevékenység engedélyezése, indokolt esetben az engedély visszavonása, vagy az engedélyhez kötött tevékenység végzésétől történő eltiltása, valamint a légi kutató-mentő tevékenység hatósági felügyeletének ellátása;
+
+p) eseti légtér kijelölése;
+
+q) külföldi állami légijárművek magyar légtérbe való be- és átrepülésének engedélyezéséhez történő hozzájárulás;
+
+r) a Katonai Légiforgalmi Tájékoztató Kiadvány (MILAIP), illetve annak módosításának (kiegészítésének) jóváhagyása;
+
+s) a katonai légiforgalmi szolgálatok, a katonai légiforgalmi tájékoztató szolgálatok és a légvédelmi irányító szolgálatok által kötött együttműködési megállapodások (LoA) jóváhagyása;
+
+t) az állami célú légiközlekedésben a repülésmeteorológiai szolgálatok, illetve szolgáltatások hatósági felügyeletének ellátása;
+
+u) repülésmeteorológiai fejlesztések, korszerűsítések engedélyezése, megvalósításának ellenőrzése;
+
+v) a repülésmeteorológiai tárgyú képzési tervek jóváhagyása az állami célú légiközlekedésben;
+
+w) veszélyes áruk állami légijárművel történő szállításának ellenőrzése a szállítás előtt;
+
+x) állami célú légiközlekedéssel összefüggő intézkedések, kézikönyvek és egyéb szabályozások jóváhagyása;
+
+y) részvétel az állami célú légiközlekedéssel összefüggő hazai és külföldi szakmai rendezvényeken.
+
+## 4. §[^6]
+
+## 5. §
+
+Ez a rendelet 2017. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 3. § a) pont ab) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § a) pont af) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § b) pont bd) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § c) pontja a 713/2020. (XII. 30.) Korm. rendelet 48. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § o) pontja a 713/2020. (XII. 30.) Korm. rendelet 48. § e) pontja szerint módosított szöveg.
+[^6]: A 4. §-t a 457/2017. (XII. 28.) Korm. rendelet 598. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

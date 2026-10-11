@@ -1,0 +1,223 @@
+---
+title: "299/2018. (XII. 27.) Korm. rendelet az állami magasépítési beruházásokról"
+identifier: "299/2018. (XII. 27.) Korm. rendelet"
+njt_id: "2018-299-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/299"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-27
+in_force_from: 2019-01-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-299-20-22"
+retrieved: 2026-10-12
+---
+
+# 299/2018. (XII. 27.) Korm. rendelet az állami magasépítési beruházásokról
+
+A Kormány az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 12. § a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS SZABÁLYOK
+
+### 1. A Beruházási Ügynökség kijelölése
+
+#### 1. §[^1]
+
+A Kormány Beruházási Ügynökségként az Építési és Közlekedési Minisztériumot jelöli ki.
+
+### 2. A Beruházási Ügynökség feladatai az állami magasépítési beruházások megvalósítása során
+
+#### 2. §
+
+(1)[^2] A Beruházási Ügynökség a megvalósítója azoknak a kormányzati magasépítési beruházásoknak, amelyek kivitelezési becsült értéke – figyelemmel a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot.
+
+(2) A becsült kivitelezési értéktől függetlenül a Beruházási Ügynökség a megvalósítója a Kormány által elfogadott, programszerűen megvalósítandó kormányzati magasépítési beruházásoknak.
+
+(3) Az (1) és a (2) bekezdés szerinti kormányzati magasépítési beruházások esetén a 4. § e), j), l)–n) és p) pontja szerinti dokumentumok elkészítésére irányuló, illetve e dokumentumok elkészítését magába foglaló beszerzési és közbeszerzési eljárások járulékos közbeszerzési szolgáltatója kizárólagos joggal a Beruházási Ügynökség.
+
+(4)[^3] A központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházások esetén, amelyek kivitelezési becsült értéke – figyelemmel a Kbt. 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot, a beruházás tervellenőre, beruházás-lebonyolítója és építési műszaki ellenőre, valamint járulékos közbeszerzési szolgáltatója kizárólagos joggal a Beruházási Ügynökség.
+
+(5) Az (1) bekezdésben foglaltak alól kivételt képeznek:
+
+a) azok az állami magasépítési beruházások, amelyek előkészítésének és megvalósításának részletszabályait külön törvény határozza meg, ideértve a kapcsolódó térségfejlesztéssel összefüggő magasépítési beruházásokat,
+
+b)[^4] a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő beruházások, azaz a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 1. § (1) bekezdés a), d) és e) pontjában meghatározott építmény létrehozására, felújítására vagy átalakítására irányuló beruházások,
+
+c) a külképviseleteken, illetve a diplomáciai célú építményeken megvalósuló állami magasépítési beruházások,
+
+d) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése szerinti beruházások.
+
+(6) A Beruházási Ügynökség az (1)–(3) bekezdésben foglalt feladatai ellátása során együttműködik a kormányzati magasépítési beruházás előkészítőjével, illetve a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházással érintett helyi önkormányzattal.
+
+(7) Abban az esetben, ha a Beruházási Ügynökség a kormányzati magasépítési beruházás előkészítője és megvalósítója is egyben, a Beruházási Ügynökség együttműködik a beruházás tárgya szerint érintett miniszterrel.
+
+### 3. Az állami magasépítési beruházások szakaszai
+
+#### 3. §
+
+Az állami magasépítési beruházás előkészítési és megvalósítási szakaszból áll.
+
+#### 4. §
+
+Az állami magasépítési beruházás előkészítésének fázisai:
+
+a) megvalósíthatósági tanulmány készítése,
+
+b) fenntartási és üzemeltetési modell kidolgozása,
+
+c) hatástanulmány, szakvélemények, szakértői tanulmányok készítése,
+
+d) beruházási terv készítése,
+
+e) tervezési program elkészítése,
+
+f) költség- és időkalkuláció elkészítése,
+
+g) helyszínvizsgálat lefolytatása,
+
+h) beruházási program elkészítése,
+
+i) beruházási alapokmány és program elfogadása,
+
+j) tervpályázat lebonyolítása,
+
+k)[^5] településrendezési terv elkészítése, a beruházással érintett ingatlan jogi helyzetének rendezése,
+
+l) vázlatterv készítése,
+
+m) jóváhagyási terv készítése,
+
+n) engedélyezési dokumentáció készítése,
+
+o) engedélyeztetés lefolytatása,
+
+p) kivitelezési dokumentáció elkészítése.
+
+#### 5. §
+
+Az állami magasépítési beruházás megvalósításának fázisai:
+
+a) az állami magasépítési beruházás megvalósítására vonatkozó közbeszerzési eljárások előkészítése és lefolytatása,
+
+b) az állami magasépítési beruházás megvalósítására vonatkozó szerződések előkészítése és megkötése,
+
+c) az építési műszaki ellenőri tevékenység ellátása,
+
+d) az üzempróbák lefolytatása, üzembe helyezés,
+
+e) megvalósulási dokumentáció készíttetése,
+
+f) a műszaki átadás-átvétel lebonyolítása,
+
+g) a használatbavételi engedélyezési, illetve tudomásulvételi eljárásban való közreműködés,
+
+h) a szavatossági és jótállási jogok érvényesítése.
+
+## II. Fejezet — A KORMÁNYZATI MAGASÉPÍTÉSI BERUHÁZÁSOK KORMÁNYZATI DÖNTÉS-ELŐKÉSZÍTÉSI RENDJE
+
+### 4. Eljárási szabályok
+
+#### 6. §
+
+A Kormány a megfelelően előkészített, kivitelezési dokumentációval rendelkező kormányzati magasépítési beruházások megvalósítását hagyja jóvá.
+
+#### 7. §
+
+A kormányzati magasépítési beruházás előkészítőjének személyére, az előkészítésére irányuló kormány-előterjesztés tartalmára, az előkészítéséről szóló kormánydöntésre a Beruházás Előkészítési Alap felhasználásáról szóló kormányrendeletben foglaltakat kell alkalmazni.
+
+#### 8. §
+
+A Kormány a kormányzati magasépítési beruházás előkészítéséről szóló döntése szerinti határozatában rendelkezhet arról, hogy a kormányzati magasépítési beruházás előkészítési fázisának befejezését követően a kivitelezési dokumentációt jóvá kívánja hagyni.
+
+#### 9. §
+
+(1) A kormányzati magasépítési beruházás előkészítője (előkészítő, építtető) együttműködik a kormányzati magasépítési beruházás előkészítése során a Beruházási Ügynökséggel, valamint a Kormány határozatában megjelölt, a beruházás eredményeként megvalósuló létesítmény leendő vagyonkezelőjével, üzemeltetőjével (a továbbiakban együtt: vagyonkezelő).
+
+(2) Az együttműködés keretében a Beruházási Ügynökség, a leendő vagyonkezelő és üzemeltető véleményezi a beruházás előkészítési dokumentációit, illetve a Beruházási Ügynökség jóváhagyja az engedélyes dokumentációt, valamint a kivitelezési dokumentációt.
+
+(3) A kormányzati magasépítési beruházás tervellenőre kizárólagos joggal a Beruházási Ügynökség. A Beruházási Ügynökség a tervellenőri tevékenység során ellenőrzi a beruházás terveinek, dokumentációjának tartalmát az építés minőségének, a szakszerű kivitelezés biztosításának, valamint az egyéb jogszabályokban meghatározott követelményeknek az érvényre juttatása érdekében.
+
+#### 10. §
+
+Ha a kormányzati magasépítési beruházás előkészítése során állapítható meg, hogy a beruházás becsült kivitelezési értéke meghaladja a 2. § (1) bekezdésében meghatározott értéket, a kormányzati magasépítési beruházás előkészítője haladéktalanul bevonja a Beruházási Ügynökséget az előkészítésbe.
+
+#### 11. §
+
+(1) A kormányzati magasépítési beruházás előkészítője
+
+a) az engedélyes dokumentációt, valamint
+
+b) a kivitelezési dokumentációt
+
+azok elkészültét követő 3 napon belül véleményezés és jóváhagyás céljából megküldi a Beruházási Ügynökség részére.
+
+(2) A Beruházási Ügynökség 15 napon belül
+
+a) jóváhagyja az (1) bekezdés szerinti dokumentumokat, vagy
+
+b) egyet nem értése esetén kéri a megküldött dokumentáció átdolgozását vagy kiegészítését a dokumentáció vitatott pontjainak és indokainak megjelölésével.
+
+(3) Ha a kormányzati magasépítési beruházás előkészítője a (2) bekezdés b) pontja szerinti esetben
+
+a) egyetért a Beruházási Ügynökség véleményével, átdolgozza a (1) bekezdés szerinti dokumentációt és ismételt jóváhagyásra megküldi a Beruházási Ügynökség részére,
+
+b) nem ért egyet a Beruházási Ügynökség véleményével, kezdeményezheti a Kormány döntését a beruházás érintett dokumentációjának jóváhagyása érdekében, azzal, hogy a Kormány döntését kezdeményező előterjesztésben a beruházással érintett miniszter bemutatja a Beruházási Ügynökség álláspontját.
+
+(4) A kivitelezési dokumentációhoz szükséges költségvetést a Beruházási Ügynökség költségszakértő útján véleményezteti, és azt a kivitelezési dokumentáció keretében hagyja jóvá.
+
+#### 12. §
+
+Ha a kormányzati magasépítési beruházás kivitelezési dokumentációjához készült költségvetés alapján haladja meg a kivitelezés becsült értéke a 2. § (1) bekezdésében meghatározott értéket, a kormányzati magasépítési beruházás előkészítője haladéktalanul tájékoztatja a Beruházási Ügynökséget, és a 11. § alapján jóváhagyásra megküldi az előkészítés dokumentációját a Beruházási Ügynökség részére.
+
+#### 13. §[^6]
+
+(1) A kormányzati magasépítési beruházás előkészítője által elkészített és a Beruházási Ügynökség által jóváhagyott kivitelezési dokumentációja alapján a Beruházási Ügynökség a Kbt. 53. § (5) bekezdése szerint – külön kormánydöntés nélkül – feltételes közbeszerzési eljárást folytat le a beruházás megvalósítására.
+
+(2) Az (1) bekezdés szerint lefolytatott feltételes közbeszerzési eljárás alapján az állami beruházásokért felelős miniszter a Kormány döntését kezdeményezi a kormányzati magasépítési beruházás megvalósítása érdekében. A Kormány egyedi határozatban dönt a kormányzati magasépítési beruházás megvalósításáról, az ahhoz szükséges kötelezettségvállalás összegéről, továbbá minden olyan kérdésről, amely a kormányzati magasépítési beruházás megvalósítása érdekében szükséges.
+
+#### 14. §[^7]
+
+(1) A 8. § szerinti kormányzati magasépítési beruházás esetén, ha a Beruházási Ügynökség egyetért a beruházás előkészítési dokumentációjával, az állami beruházásokért felelős miniszter a kivitelezési dokumentációt jóváhagyás céljából a Kormány elé terjeszti.
+
+(2) A Kormány (1) bekezdés szerinti jóváhagyása esetén a Beruházási Ügynökség és az állami beruházásokért felelős miniszter a 13. § szerint jár el.
+
+#### 15. §
+
+A Beruházási Ügynökség az általa megvalósított kormányzati magasépítési beruházás műszaki átadás-átvételét követően gondoskodik a beruházás átadásáról.
+
+#### 16. §[^8]
+
+(1) A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 17. § (3) bekezdésében meghatározott beruházások előkészítése tekintetében a 2. § (3) bekezdését nem kell alkalmazni.
+
+(2) Az (1) bekezdés hatálya alá tartozó beruházások tekintetében az előkészítésért felelős személy és a Beruházási Ügynökség köteles együttműködni. Ennek keretében az előkészítésért felelős személy az előkészítést elrendelő kormánydöntést követően negyedévente tájékoztató jelentést készít a Beruházási Ügynökség számára az előkészítés helyzetéről, továbbá tájékoztatás céljából megküldi a Beruházási Ügynökség részére a tervezési programot és a végleges építési engedélyt.
+
+(3) Az együttműködés keretében a Beruházási Ügynökség a kivitelezés során negyedévente tájékoztató jelentést készít az előkészítésért felelős személy részére, illetve külön is tájékoztatja, ha a teljesítési határidőt befolyásoló körülmény merül fel. A Beruházási Ügynökség továbbá a döntéshozatal előtt kikéri az előkészítésért felelős személy indokolt véleményét a műszaki tartalom változására, illetve a szerződés módosítására vonatkozó döntés meghozatalát megelőzően.
+
+#### 17. §
+
+A Kormány e rendelete szerinti eljárásrend alkalmazása alól egyedi határozatában felmentést adhat.
+
+## III. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 18. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2019. január 1-jén lép hatályba.
+
+(2) A 2. § (4) bekezdése 2020. január 1-jén lép hatályba.
+
+#### 19. §[^9]
+
+E rendeletnek az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet módosításáról szóló 320/2020. (VII. 1.) Korm. rendelettel megállapított 16. §-át nem kell alkalmazni azon beruházások esetében, amelyek előkészítésének megkezdéséről a Kormány 2020. február 27. napját megelőzően határozott.
+
+---
+
+[^1]: Az 1. § az 523/2022. (XII. 15.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 10/2020. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdése a 10/2020. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (5) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 142. §-a szerint módosított szöveg.
+[^5]: A 4. § k) pontja a 420/2021. (VII. 15.) Korm. rendelet 102. §-a szerint módosított szöveg.
+[^6]: A 13. § a 238/2022. (VI. 30.) Korm. rendelet 188. §-ával megállapított szöveg.
+[^7]: A 14. § a 238/2022. (VI. 30.) Korm. rendelet 188. §-ával megállapított szöveg.
+[^8]: A 16. § a 320/2020. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 19. §-t a 320/2020. (VII. 1.) Korm. rendelet 2. §-a iktatta be.

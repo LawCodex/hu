@@ -1,0 +1,151 @@
+---
+title: "46/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a budapesti Bolgár Kulturális Intézet és a szófiai Magyar Kulturális Intézet státusáról és tevékenységéről szóló megállapodás kihirdetéséről"
+identifier: "46/2009. (III. 4.) Korm. rendelet"
+njt_id: "2009-46-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/46"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-03-04
+in_force_from: 2009-03-05
+last_amended: 2009-03-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-46-20-22"
+retrieved: 2026-10-12
+---
+
+# 46/2009. (III. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a budapesti Bolgár Kulturális Intézet és a szófiai Magyar Kulturális Intézet státusáról és tevékenységéről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között Budapesten, 2002. évi március hó 7. napján aláírt, a budapesti Bolgár Kulturális Intézet és a szófiai Magyar Kulturális Intézet státusáról és tevékenységéről szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„Megállapodás\
+amely létrejött a Magyar Köztársaság Kormánya\
+és a Bolgár Köztársaság Kormánya között a szófiai Magyar Kulturális Intézet és a budapesti Bolgár Kulturális Intézet státusáról és tevékenységéről
+
+A Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya (továbbiakban: Szerződő Felek)
+
+– összhangban a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között 1994. május 5-én Budapesten aláírásra került kulturális, oktatási és tudományos együttműködésről szóló egyezménnyel;
+
+– figyelemmel az Európai Biztonsági és Együttműködési Értekezlet 1975. augusztus 1-jén Helsinkiben aláírt Záródokumentumában foglaltakra;
+
+– szem előtt tartva a Magyar Népköztársaság Kormánya és a Bolgár Népköztársaság Kormánya között, a budapesti és a szófiai kulturális és tájékoztatási központok tevékenysége tárgyában Budapesten 1980. április 24-én aláírt megállapodás rendelkezéseit;
+
+– tekintettel a két állam között régóta fennálló baráti viszonyra;
+
+– a kölcsönösség és kétoldalú együttműködés szándékától vezéreltetve;
+
+– a kulturális, tudományos kapcsolatok ápolása és fejlesztése érdekében az alábbiak szerint állapodnak meg.
+
+*1. cikk*
+
+*Általános rendelkezések*
+
+A Szerződő Felek a kölcsönösség elve alapján támogatni kívánják egymás országaiban kulturális intézetek működését, amelyek elnevezése Magyar Kulturális Intézet, Szófia – bolgár elnevezés: УНГАРСКИ КУЛТУРЕН ИНСТИТУТ СОФИЯ – és Bolgár Kulturális Intézet, Budapest – bolgár elnevezés: БЪЛГАРСКИ КУЛТУРЕН ИНСТИТУТ ВУДАПЕЩА – (a továbbiakban: Kulturális Intézetek).
+
+*2. cikk*
+
+A Kulturális Intézetek irányítása és felügyelete
+
+1\. A szófiai Magyar Kulturális Intézet irányítását és felügyeletét a Magyar Kormány képviseletében a Nemzeti Kulturális Örökség Minisztere, míg a budapesti Bolgár Kulturális Intézet irányítását és felügyeletét a Bolgár Kormány képviseletében Bulgária Kulturális Minisztere látja el.
+
+2\. A kulturális intézetek irányításában bekövetkező esetleges változásokat a Felek közlik egymással.
+
+*3. cikk*
+
+*A Kulturális Intézetek tevékenysége*
+
+1\. A kulturális intézetek – a fogadó ország hatályos jogszabályaival és előírásaival összhangban – az alábbi tevékenységeket fejtik ki az intézmény székházán belüli és kívüli helyszíneken, a fogadó ország egész területén:
+
+*a)* tájékoztatást adnak országuk művészeti, tudományos, kulturális és társadalmi-politikai életéről;
+
+*b)* látogatásokat és rendezvényeket szerveznek a kultúra, az oktatás, a tudomány és technológia terén;
+
+*c)* konferenciákat, előadásokat, szemináriumokat, szimpóziumokat és kollokviumokat szerveznek a tudomány és kultúra területén;
+
+*d)* hangversenyeket, irodalmi esteket, kiállításokat rendeznek;
+
+*e)* filmvetítéseket tartanak és audiovizuális anyagokat mutatnak be;
+
+*f)* fogadják a két kulturális intézet programjában résztvevő tudományos kutatókat és művészeket, közéleti személyiségeket, ösztöndíjasokat és szakértőket;
+
+*g)* könyvtárat, olvasótermet, audiovizuális és médiatárat tartanak fenn, illetve működtetnek, biztosítva a könyvek, újságok, folyóiratok, audiovizuális anyagok és más kulturális, oktatási, tudományos és műszaki jellegű anyagok kölcsönzését és a minél szélesebb körű közönség számára való hozzáférést;
+
+*h)* gyermek- és ifjúsági találkozókat, rendezvényeket szerveznek;
+
+*i)* tájékoztató anyagokat, katalógusokat, egyéb kulturális, oktatási, tudományos és műszaki jellegű kiadványokat és információs anyagokat adnak ki és terjesztenek;
+
+*j)* nyelvtanfolyamokat, nyelvvizsgákat, posztgraduális nyelvi továbbképzéseket szerveznek a közönség és a nyelvoktatás terén dolgozó személyek és intézmények számára, pedagógiai és módszertani, oktatási anyagokat állítanak elő, azokról tájékoztatással szolgálnak;
+
+*k)* e célból felhasználják az internet adta lehetőségeket is.
+
+2\. A Kulturális Intézetek közreműködnek a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között kötött Kulturális, Oktatási és Tudományos Együttműködési Egyezmény végrehajtására készített, a Magyar Köztársaság Nemzeti Kulturális Örökség Minisztériuma és a Bolgár Köztársaság Kulturális Minisztériuma között kötött Együttműködési Megállapodás megvalósításában.
+
+3\. Jelen Megállapodás céljával összhangban a Kulturális Intézetek szervezőként vagy irányítóként más olyan tevékenységet is folytathatnak, ami országaik szellemi értékeinek felmutatását célozza. A Kulturális Intézetek – a küldő és a fogadó ország hatályos jogszabályaival és előírásaival összhangban – kulturális diplomáciai tevékenységet is folytathatnak.
+
+*4. cikk*
+
+*A kulturális intézetek személyzete és e személyzet státusza*
+
+1\. A kulturális intézet vezetőjének a küldő Fél diplomáciai rangot adományozhat, az igazgató a fogadó Fél területén működő diplomáciai testület tagja lehet. Az intézetekben dolgozó, diplomáciai ranggal nem rendelkező, kiküldött munkatársak ugyanazokat a kiváltságokat és mentességeket élvezik, mint amelyeket a küldő állam fogadó államban működő diplomáciai képviseletének igazgatási és műszaki személyzete.
+
+Az intézetek kiküldött munkatársai mentesek a munkavállalási engedély beszerzésének kötelezettsége alól.
+
+2\. A kulturális intézeteket a küldő fél által kinevezett igazgató vezeti, aki képviseli a kulturális intézetet a fogadó országban.
+
+3\. A küldő ország állampolgárságával rendelkező alkalmazottak a küldő ország joghatósága alá tartoznak, így rájuk ezen ország munkajogi, társadalombiztosítási rendelkezései lesznek irányadók.
+
+4\. A kulturális intézeteknek a fogadó állam állampolgárságával rendelkező alkalmazottai a fogadó állam joghatósága alá tartoznak és rájuk a fogadó állam munkajogi, társadalombiztosítási rendelkezései lesznek irányadók.
+
+5\. A Felek diplomáciai úton kölcsönösen tájékoztatják egymást a kulturális intézetek kiküldött személyzetének létszámáról, amelyről szükség esetén a fogadó ország illetékeseivel egyeztetést tartanak, továbbá értesítést küldenek a külszolgálati tevékenység megkezdésének és megszűnésének időpontjáról.
+
+*5. cikk*
+
+*Ingatlanok és jogi helyzetük*
+
+1\. A szófiai Magyar Kulturális Intézet a magyar állam tulajdonát képező ingatlanban, míg a budapesti Bolgár Kulturális Intézet a bolgár állam tulajdonát képező ingatlanban működik és fejti ki tevékenységét.
+
+2\. A rendelkezésre bocsátott ingatlanok karbantartása, fenntartásának költsége, biztosítása és berendezése a használatba vevő felet terheli.
+
+*6. cikk*
+
+*Adó-, vám- és illetékkedvezmények*
+
+1\. A Szerződő Felek a területükön hatályban lévő törvényekkel és vámszabályokkal összhangban a másik Fél számára minden lehetséges kedvezményt megadnak a Kulturális Intézetek létesítéséhez és felszereléséhez, illetve a jelen Megállapodás előírásai szerinti működéséhez szükséges anyagok behozatalához.
+
+2\. Adójogi és vámjogi vitás kérdésekben a Felek országaiban illetékes hatóságok és szervek jogosultak eljárni és állást foglalni.
+
+3\. A kulturális intézetek a fogadó országban a fogadó ország hivatalos pénznemében és más valutában is rendelkezhetnek bank folyószámlával.
+
+*7. cikk*
+
+*Az Egyezmény hatálya*
+
+1\. A Felek diplomáciai úton értesítik egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges alkotmányos feltételeknek eleget tettek. A Megállapodás az utolsó jegyzék kézhezvételének napján lép hatályba.
+
+Jelen Megállapodás a hatálybalépése napjától számított 5 évig marad hatályban, amely határidő – arra vonatkozó kifejezett megállapodás hiányában is – mindig további öt évi időtartamra meghosszabbodik, ha a Megállapodást annak lejárta előtt hat hónappal a Felek egyike sem mondja fel.
+
+2\. Jelen Megállapodás hatálybalépésével egyidejűleg hatályát veszti a Magyar Népköztársaság Kormánya és a Bolgár Népköztársaság Kormánya között a budapesti és a szófiai kulturális és tájékoztatási központok tevékenysége tárgyában Budapest 1980. április 24-én aláírt Megállapodás.
+
+*8. cikk*
+
+*Záró rendelkezések*
+
+1\. Felek a jelen Megállapodás értelmezésével, alkalmazásával és végrehajtásával kapcsolatos kérdéseket tárgyalással, illetve diplomáciai úton igyekeznek rendezni.
+
+A Megállapodásban foglaltak zavartalan végrehajtása végett a kulturális intézetek felügyeleti szervei rendszeres kapcsolatot tartanak fenn.
+
+Jelen Megállapodás készült Budapesten, 2002. március hó 7. napján, két eredeti példányban, magyarul és bolgárul, amelyekből mindkét szöveg egyaránt hiteles.
+
+*Aláírások”*
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) A rendelet végrehajtásáról a kultúráért felelős miniszter gondoskodik.

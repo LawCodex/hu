@@ -1,0 +1,225 @@
+---
+title: "366/2015. (XII. 2.) Korm. rendelet a vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról"
+identifier: "366/2015. (XII. 2.) Korm. rendelet"
+njt_id: "2015-366-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/366"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-02
+in_force_from: 2015-12-03
+last_amended: 2024-12-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-366-20-22"
+retrieved: 2026-10-12
+---
+
+# 366/2015. (XII. 2.) Korm. rendelet a vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110/A. § a) pont ad) alpontjában,
+
+a 10. § tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés e) pontjában,
+
+a 11. § tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (11) bekezdésében kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A vízvédelmi igazgatási szervek kijelölése
+
+### 1. §
+
+(1)[^1] A Kormány
+
+a) az Országos Vízügyi Főigazgatóságot (a továbbiakban: OVF),
+
+b) a területi vízügyi igazgatóságot (a továbbiakban: vízügyi igazgatóság),
+
+c) a vízvédelmi hatáskörrel rendelkező vármegyei kormányhivatalt (a továbbiakban együtt: területi vízvédelmi hatóság)
+
+jelöli ki vízvédelmi igazgatási feladatok ellátására [az a)–c) pontban felsorolt szervek a továbbiakban együtt: vízvédelmi igazgatási szervek].
+
+(2) Vízvédelmi igazgatási szervként – ha jogszabály másként nem rendelkezik – a vízügyi igazgatóság jár el.
+
+## 2. A vízvédelmi igazgatási szervek működési területe
+
+### 2. §
+
+(1) Az e rendeletben meghatározott vízvédelmi igazgatási feladatait az OVF országos illetékességgel látja el.
+
+(2) A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet (a továbbiakban: R1.) 1. melléklete szerinti vízügyi igazgatóság az e rendeletben meghatározott vízvédelmi igazgatási feladatait az R1. 1. mellékletben megjelölt működési területén látja el.
+
+### 3. §[^2]
+
+Az e rendeletben meghatározott vízvédelmi igazgatási feladatokat az R1. 2. melléklete szerinti területi vízvédelmi hatóságok az R1. 2. mellékletében meghatározott illetékességi területen látják el.
+
+## 3. Az OVF vízvédelmi igazgatási feladatai
+
+### 4. §
+
+Az OVF vízvédelmi igazgatási feladatai ellátása során
+
+a) a vízgazdálkodásról szóló 1995. évi LVII. törvényben (a továbbiakban: Vgtv.) előírtakkal összhangban, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) előírásai alapján elemzi és értékeli a vizek állapotát az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) vízminőségi adatainak felhasználásával, továbbá feltérképezi a víz, mint környezeti elem terhelésének, igénybevételének, szennyezésének helyzetét, közreműködik a vízi környezet kölcsönhatásainak vizsgálatában, elemzésében,
+
+b) előkészíti a nemzeti és nemzetközi adatszolgáltatási feladatok végrehajtásához szükséges dokumentumokat, elektronikus jelentéseket,
+
+c) közreműködik a nyilvánosság rendszeres tájékoztatásában a Kvt. 51. és 51/A. §-a szerint,
+
+d) – szükség esetén a vízügyi igazgatóság bevonásával – szolgáltatja a vízvédelemért felelős miniszter (a továbbiakban: miniszter) által kért, a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett vízvédelmi adatokat, információkat,
+
+e)[^3] ellátja a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: VKI) végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi vonatkozású feladatokat,
+
+f) végzi az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelv végrehajtásával kapcsolatos, szakterületét érintő feladatokat,
+
+g) közreműködik a két- és többoldalú nemzetközi együttműködések, különösen a Duna védelmére és fenntartható használatára irányuló együttműködésről szóló 1994. június 29-én, Szófiában létrehozott Egyezmény és egyéb nemzetközi vízvédelmi feladatok ellátásában,
+
+h)[^4] szakterülete vonatkozásában közreműködik az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország) 1991. február 26. napján aláírt egyezmény (a továbbiakban: Espoo-i Egyezmény), valamint az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv (a továbbiakban: hatásvizsgálati irányelv) szerinti nemzetközi eljárásokban,
+
+i) vízvédelmi szakterületi feladatok ellátását támogató hatástanulmányokat, elemzéseket végez, jelentéseket készít,
+
+j) szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez háttéranyagokat készít, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít,
+
+k) közreműködik a vízvédelmi jogszabályokhoz kapcsolódó előzetes és utólagos hatásvizsgálatok, valamint háttéranyagok elkészítésében,
+
+l) szakmai segédanyagokat készít és szakmai képzéseket szervez a vízvédelmi hatóságok számára a vízgyűjtő-gazdálkodási terv végrehajtásával kapcsolatban, valamint ezzel összefüggésben oktatási, környezeti nevelési programokat dolgoz ki és hajt végre,
+
+m)[^5] a kormányhivatal regionális környezetvédelmi laboratóriumaival és a területi vízvédelmi hatósággal együttműködve ellátja az OKIR működtetéséhez kapcsolódóan a vízvédelmi alrendszerek szakmai rendszergazda feladatkörét,
+
+n) végzi a víz, mint környezeti elem állapotának és használatának figyelemmel kísérése céljából működtetett monitoring rendszerek szakmai támogatását, közreműködik az adatok megbízhatóságának növelésében, a környezetvédelmi laboratóriumok tevékenységének szakmai koordinációjában,
+
+o) közreműködik az EU tagországi feladatok ellátásában, különösen a VKI követelményeivel kapcsolatos szakértői feladatok ellátásában, részt vesz a módszertani fejlesztések, így a vízminősítési rendszer továbbfejlesztésének meghatározásában, a vízi környezet kölcsönhatásainak vizsgálatában, elemzésében,
+
+p) közreműködik a külön jogszabályban meghatározott, a kibocsátásokkal kapcsolatos adatbázisok elemzésében, fejlesztésében,
+
+q) közreműködik a szennyezés csökkentési feladatok ellátásában, akcióprogramok megvalósításában,
+
+r)[^6] együttműködik a területi vízvédelmi hatósággal,
+
+s)[^7] a Kvt. 101., 102., 102/A., 102/B., és 102/C. §-ában rögzített környezetért való jogi felelősségi szabályokra (a továbbiakban: Kvt. felelősségi szabályai) tekintettel ellátja a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelv (a továbbiakban: felelősségi irányelv) végrehajtását szolgáló, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben meghatározott vízminőség-védelmi kárelhárítási feladatokat,
+
+t)[^8] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban,
+
+u)[^9] folyamatosan működő ügyeleti szolgálat fenntartása mellett irányítja a vízügyi igazgatóságok vízminőség-védelmi kárelhárítási tevékenységét és szükség esetén intézkedik más vízügyi igazgatóság erőforrásainak igénybevételére,
+
+v)[^10] közreműködik az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága által az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló jogszabály szerinti vizsgálat lefolytatásában és a jelentés elkészítésében,
+
+w)[^11] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
+
+### 4/A. §[^12]
+
+Az OVF a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti, azonnali beavatkozást igénylő vízminőségi károsodás elleni védekezési feladatait az Országos Vízügyi Irányító Törzs útján látja el, a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerint.
+
+## 4. A vízügyi igazgatóság vízvédelmi igazgatási feladatai
+
+### 5. §
+
+A vízügyi igazgatóság
+
+a) a Vgtv.-ben előírtakkal összhangban, a Kvt. előírásai alapján elemzi és értékeli a vizek állapotát és védelmének helyzetét az OKIR vízminőségi adatainak felhasználásával,
+
+b) szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett adatokat, információkat,
+
+c)[^13] ellátja a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokat,
+
+d) közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásából származó feladatokban,
+
+e)[^14] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+
+f) közreműködik a vízvédelmi szakterületi feladatok ellátását támogató hatástanulmányok, elemzések, jelentések készítésében,
+
+g) közreműködik a szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez szükséges háttéranyagok elkészítésében, helyzetelemzések, felmérések és statisztikai elemzések készítésében,
+
+h) közreműködik a vízvédelmi jogszabályokhoz kapcsolódó előzetes és utólagos hatásvizsgálatok, valamint háttéranyagok elkészítésében,
+
+i) közreműködik a szakmai segédanyagok elkészítésében, szakmai képzések szervezésében a vízvédelmi hatóságok számára a vízgyűjtő-gazdálkodási terv végrehajtásával kapcsolatban, valamint ezzel kapcsolatban oktatási, környezeti nevelési programok kidolgozásában és végrehajtásában,
+
+j) észrevételeivel, javaslataival támogatja az OKIR működtetéséhez kapcsolódó, a szakmai rendszergazda feladatkörének ellátását,
+
+k) közreműködik a szennyezés csökkentési feladatok ellátásában, akcióprogramok megvalósításában,
+
+l) együttműködik a területi vízvédelmi hatósággal a vízvédelmi igazgatási feladatai ellátása során,
+
+m)[^15] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi irányelv végrehajtását szolgáló, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben meghatározott vízminőség-védelmi kárelhárítási feladatokat,
+
+n)[^16] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
+
+## 5.[^17]
+
+## 6.[^18] A területi vízvédelmi hatóság vízvédelmi igazgatási feladatai
+
+### 8. §[^19]
+
+A területi vízvédelmi hatóság
+
+a) összegyűjti, ellenőrzi, értékeli és az OKIR rendelkezésére bocsátja az annak működéséhez szükséges – a vízvédelmi feladatkörével összefüggő – adatokat, továbbá együttműködik más ellenőrző és információs rendszerek működtetőivel,
+
+b) végzi a kibocsátásokkal, terhelésekkel kapcsolatos adatbázisok kezelését, közreműködik az adatok elemzésében, az adatbázis fejlesztésében,
+
+c) közreműködik a szennyezés csökkentési feladatok ellátásában, akcióprogramok megvalósításában,
+
+d) összegyűjti és nyilvántartja a települési önkormányzatok által végzett, a település közigazgatási területén lévő felszín alatti víz mennyiségi és minőségi állapotára kiterjedő monitoring eredményeket,
+
+e) közreműködik az egyes tervek, illetve programok környezeti vizsgálatáról szóló kormányrendelet szerint a környezeti vizsgálati eljárásban és véleményezi a környezeti értékelést,
+
+f) kapcsolatot tart a vízminőség-védelmi, kármegelőzési és kárelhárítási feladatok ellátása során a társszervekkel, és kiemelten az illetékes kormányhivatallal az általa, környezetvédelmi igazgatási szervként működtetett regionális laboratóriumok igénybevételére vonatkozóan,
+
+g) a kiemelt üdülőterületekre vonatkozó vízminőség-védelmi információs rendszert üzemeltethet,
+
+h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során,
+
+i)[^20] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
+
+j)[^21] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+
+k)[^22] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
+
+l)[^23] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
+
+## 7. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 12. §
+
+Ez a rendelet
+
+a) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelvnek,
+
+b) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelvnek, valamint
+
+c) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelvnek,
+
+d)[^26] a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 366/2015. (XII. 2.) Korm. rendelethez[^27]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 169. §-ával megállapított szöveg.
+[^2]: A 3. § a 257/2024. (VIII. 29.) Korm. rendelet 170. §-ával megállapított szöveg.
+[^3]: A 4. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § h) pontja a 289/2016. (IX. 22.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^5]: A 4. § m) pontja a 257/2024. (VIII. 29.) Korm. rendelet 171. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § r) pontja a 257/2024. (VIII. 29.) Korm. rendelet 171. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § s) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^8]: A 4. § t) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^9]: A 4. § u) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^10]: A 4. § v) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 825/2021. (XII. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^11]: A 4. § w) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^12]: A 4/A. §-t az 576/2021. (X. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 383/2024. (XII. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^13]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^14]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^16]: Az 5. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^17]: Az 5. alcímet (6–7. §-t) a 257/2024. (VIII. 29.) Korm. rendelet 172. §-a hatályon kívül helyezte.
+[^18]: A 6. alcím címe a 257/2024. (VIII. 29.) Korm. rendelet 171. § c) pontja szerint módosított szöveg.
+[^19]: A 8. § nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 171. § d) pontja szerint módosított szöveg.
+[^20]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^21]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^22]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^23]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.
+[^26]: A 12. § d) pontját a 289/2016. (IX. 22.) Korm. rendelet 18. §-a iktatta be.
+[^27]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

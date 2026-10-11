@@ -1,0 +1,85 @@
+---
+title: "178/2018. (X. 2.) Korm. rendelet az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel kapcsolatban közreműködő egyes szervek kijelöléséről és feladatairól"
+identifier: "178/2018. (X. 2.) Korm. rendelet"
+njt_id: "2018-178-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/178"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-10-02
+in_force_from: 2018-10-15
+last_amended: 2018-10-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-178-20-22"
+retrieved: 2026-10-12
+---
+
+# 178/2018. (X. 2.) Korm. rendelet az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel kapcsolatban közreműködő egyes szervek kijelöléséről és feladatairól
+
+A Kormány\
+a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (1) bekezdés *f)* pontjában kapott felhatalmazás alapján, valamint\
+a 2. alcím tekintetében a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (1) bekezdés *g)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Azon szerv vagy szervezetek körének és feladatainak meghatározása, amelyek segítségnyújtása az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés vonatkozásában együttműködésnek minősül
+
+### 1. §
+
+A szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 178/B. §-a szerinti, az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetése esetén a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) szerinti szociális szolgáltatók vagy szociális intézmények segítsége fogadható el a Szabs. tv. 178/B. § (2) bekezdés *b)* pontja szerinti segítségnyújtásként.
+
+### 2. §
+
+(1) Az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének (a továbbiakban: elkövető) együttműködési szándéka esetén az intézkedő rendőr megkeresésére az Szt. 65/E. § (2) bekezdése szerinti diszpécserközpont (a továbbiakban: diszpécserközpont) tájékoztatást nyújt az elkövetés helye szerinti ellátási területen szabad férőhellyel rendelkező hajléktalanellátó intézményekről.
+
+(2) Az intézkedő rendőr kérésére a diszpécserközpont megkeresi az elkövetés helye szerint illetékes, utcai szociális munkát biztosító szervezetet vagy a modellprogram keretében megszervezett hajléktalanellátó helyet, amelynek munkatársa (a továbbiakban: munkatárs) segítséget nyújt az elkövető hajléktalanellátó intézménybe való eljutásának megszervezése érdekében, ha az elkövető az őt fogadni képes, szabad férőhellyel rendelkező hajléktalanellátó intézménybe állapotánál fogva önállóan nem képes eljutni.
+
+(3) Ha az elkövető az intézkedő rendőrnek tett, hajléktalan ellátások igénybevételére vonatkozó együttműködő nyilatkozatát nem tartja fenn, és a munkatárs (2) bekezdés szerinti segítségét nem fogadja el, erről a diszpécserközpont – a munkatárs tájékoztatása alapján – a rendőrséget értesíti.
+
+## 2. Az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szerv kijelöléséről, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályok
+
+### 3. §[^1]
+
+(1) Az ingóságok ideiglenes tárolásba vételének folyamatáról az előkészítő eljárást folytató szerv az intézkedés helyszínén a Rendőrségről szóló 1994. évi XXXIV. törvény 42. §-ában meghatározottak szerint köteles kép- és hangfelvételt készíteni. A kép- és hangfelvételt úgy kell elkészíteni, hogy az alkalmas legyen az ingóságok későbbi, egyedi azonosítására.
+
+(2) Az ideiglenes tárolásba vett ingóságot – több ingóság esetén azok csomagolását – azonosításra alkalmas jellel kell ellátni. Az azonosításra alkalmas jel tartalmazza
+
+a) a kijelölt ideiglenes tárolást végző szerv megnevezését és a tárolás helyét,
+
+b) az elkövető rendelkezésre álló természetes személyazonosító adatait (családi és utóneve, születési családi és utóneve, születési helye, születési ideje és anyja születési családi és utóneve),
+
+c) a helyszíni intézkedés helyét és időpontját,
+
+d) az eljáró szerv megnevezését.
+
+(3) Az azonosításra alkalmas jel egy példányát át kell adni az elkövetőnek, egy példányát az előkészítő eljárást folytató szerv őrzi meg.
+
+(4) Az ideiglenes tárolásba vett ingóságok őrzéséről az ideiglenes tárolást végző szerv gondoskodik. Az ideiglenes tárolásba vett ingóságok tárolását biztonságosan és úgy kell végezni, hogy az változatlan állapotban megmaradjon, az azonosság biztosított és könnyen megállapítható legyen.
+
+(5) Ha az ideiglenes tárolásba vett ingóság gyorsan romló, bomló, tárolhatatlan dolog, azok megsemmisítésére a Szabs. tv. 178/B. § (10) bekezdésében meghatározottak alapján az elkobzott dolgok megsemmisítésére vonatkozó szabályok megfelelő alkalmazásával kell intézkedni.
+
+### 4. §[^2]
+
+(1) A Szabs. tv. 178/B. §-a szerinti, az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés esetében azon ingóságok ideiglenes tárolásának helyéről,
+
+a) amelyeket az elkövető az előállítása során nem vesz magához, de úgy nyilatkozik, hogy azokra igényt tart, valamint
+
+b) amelyek vonatkozásában az *a)* pont szerinti nyilatkozat a helyszíni intézkedés során nem szerezhető be,
+
+– a rendelkezésre álló tárolási és szállítási kapacitásokra figyelemmel – a diszpécserközpont tájékoztatást nyújt az előkészítő eljárást folytató szerv részére.
+
+(2) Az állami szervek és a helyi önkormányzat, valamint az 1. §-ban meghatározott szolgáltatók és intézmények által rendelkezésre bocsátott tárolási és szállítási kapacitások a felajánlott tárolási hely szerint illetékes diszpécserközpontnak jelenthetők be. Bejelentett tároló- és szállítási kapacitás hiányában az ideiglenesen tárolásba vett ingóságok tárolásáról és elszállításáról az előkészítő eljárást folytató szerv gondoskodik.
+
+(3) Az ideiglenes tárolásba vett ingóságok helyszíni őrzésében szükség szerint azok elszállításáig a polgárőrség is közreműködhet.
+
+(4) Az ideiglenes tárolással összefüggő feladatok végrehajtása során az eljárásban részt vevő szervek az ideiglenes tárolásba vett ingóságok szállítására, tárolására, őrzésére, megsemmisítésére közreműködőt vehetnek igénybe.
+
+## 3. Záró rendelkezések
+
+### 5. §
+
+Ez a rendelet 2018. október 15-én lép hatályba.
+
+---
+
+[^1]: A 3. § a 191/2018. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § a 191/2018. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

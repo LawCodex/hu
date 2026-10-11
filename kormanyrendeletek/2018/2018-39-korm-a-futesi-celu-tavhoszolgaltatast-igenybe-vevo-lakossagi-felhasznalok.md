@@ -1,0 +1,87 @@
+---
+title: "39/2018. (III. 12.) Korm. rendelet a fűtési célú távhőszolgáltatást igénybe vevő lakossági felhasználók részére biztosított téli rezsicsökkentésről"
+identifier: "39/2018. (III. 12.) Korm. rendelet"
+njt_id: "2018-39-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/39"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-03-12
+in_force_from: 2018-03-13
+last_amended: 2018-03-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-39-20-22"
+retrieved: 2026-10-12
+---
+
+# 39/2018. (III. 12.) Korm. rendelet a fűtési célú távhőszolgáltatást igénybe vevő lakossági felhasználók részére biztosított téli rezsicsökkentésről
+
+A Kormány a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés *g)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A távhőszolgáltató a távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet 3. melléklet 2.1.2.1. pontja szerinti fűtési célú távhőszolgáltatást az e rendelet hatálybalépésekor igénybe vevő,
+
+a) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § *b)* pontja szerinti díjfizetők közül a lakossági díjfizető,
+
+b) – épületrészenkénti díjmegosztás esetén – a Tszt. 3. § *g)* pont *ga)* alpontja szerinti lakossági felhasználók közül az egyes épületrészek tulajdonosa vagy
+
+c) – ha a távhőszolgáltatás díja díjszétosztás nélkül kerül megfizetésre – a Tszt. 3. § *g)* pont *ga)* alpontja szerinti lakossági felhasználó
+
+[az *a)–c)* pont a továbbiakban együtt: fogyasztó] részére az 1. mellékletben meghatározott mértékű, a téli fogyasztási időszakban bekövetkező fogyasztásnövekedés finanszírozását segítő árkompenzációt (a továbbiakban: juttatás) ír jóvá az e rendeletben meghatározott feltételek szerint.
+
+(2) A juttatás csak a lakás céljára használt ingatlanban, lakossági díjszabással igénybe vett távhőszolgáltatás után jár.
+
+## 2. §
+
+(1) A juttatásról, annak jóváírása módjáról és (2) bekezdés szerinti időpontjáról a távhőszolgáltató az e rendelet hatálybalépését követő 15 napon belül a 2. melléklet szerinti tájékoztatásban értesíti a fogyasztót.
+
+(2) A távhőszolgáltató a juttatást a 2018. április havi számlában írja jóvá. Ha a számla összege alacsonyabb, mint a juttatás összege, a távhőszolgáltató a korábban jóvá nem írt juttatást a következő hónapokban kibocsátott számlában írja jóvá úgy, hogy az legkésőbb 2018. június 30-áig teljes összegében jóváírásra kerüljön.
+
+(3) A lakóépület fogyasztói közössége esetében, ha a fűtési célú távhőszolgáltatás díja díjszétosztás nélkül kerül megfizetésre, a juttatást az arra jogosult felé a fogyasztói közösség megbízottja – a távhőszolgáltató által a fogyasztói közösség részére kiállított számlában jóváírt juttatás alapján – lakás céljára szolgáló épületrészenként azonos mértékben érvényesíti.
+
+(4) A juttatás összegét az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 5–7. melléklete szerint kiállított számla egyéb tétel részében kell feltüntetni.
+
+## 3. §
+
+(1) A juttatás ellenértékét az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium fejezetében e célra létrehozott költségvetési kiadási előirányzat terhére – a távhőszolgáltatónak az e rendelet hatálybalépését követő 15 napos jogvesztő határidőn belüli, fogyasztói kategóriák szerinti bontást tartalmazó, a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére benyújtott adatszolgáltatása alapján – 2018. április 15-éig fizeti meg a távhőszolgáltató részére. A Hivatal a juttatás fedezeteként elismert összeget távhőszolgáltatónként megjelölve közli a miniszterrel.
+
+(2) A távhőszolgáltató által a fogyasztó számlájában ténylegesen jóváírt juttatásról és az azzal összefüggésben felmerült indokolt költségről és ráfordításról a távhőszolgáltató elkülönített nyilvántartást vezet, amely alapján a Hivatal részére az e rendelet hatálybalépését követő 120 napon belül elszámolást nyújt be.
+
+(3) Az (1) bekezdés szerinti adatszolgáltatás és a (2) bekezdés szerinti elszámolás formáját és adattartalmát a Hivatal állapítja meg és az e rendelet hatálybalépését követő 8 napon belül teszi közzé a honlapján.
+
+## 4. §
+
+(1) Ha a távhőszolgáltató
+
+a) a juttatás ellenértékének megállapításához valótlan adatot szolgáltatott,
+
+b) az igénybe vett juttatást nem a megjelölt célra használta fel, illetve
+
+c) a juttatásra vonatkozóan az e rendeletben meghatározott valamely feltételt megszegett
+
+[az *a)–c)* pont a továbbiakban együtt: jogosulatlanul igénybe vett támogatás], a jogosulatlanul igénybe vett támogatást a Hivatal által lefolytatott ellenőrzés és az az alapján indított hatósági eljárásban hozott döntés alapján egy összegben a központi költségvetés számára visszafizeti.
+
+(2) A visszafizetési kötelezettség elmulasztása esetén a távhőszolgáltató által igényelt távhőszolgáltatási támogatást a jogosulatlanul igénybe vett támogatással csökkentett mértékben lehet kifizetni.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 39/2018. (III. 12.) Korm. rendelethez
+
+**A téli rezsicsökkentésként, a fűtési célú távhőszolgáltatást igénybe vevő fogyasztók részére biztosított juttatás mértéke**
+
+1\. Az 1. § (1) bekezdés *a)* és *b)* pontja szerinti fogyasztó részére jóváírandó juttatás mértéke fogyasztónként 12 000 Ft.
+
+2\. Az 1. § (1) bekezdés *c)* pontja szerinti fogyasztó részére jóváírandó juttatás mértéke az 1. pontban meghatározott összeg és a lakás céljára szolgáló épületrészek számának szorzata.
+
+## 2. melléklet a 39/2018. (III. 12.) Korm. rendelethez
+
+**A juttatásról, annak jóváírása módjáról és időpontjáról szóló tájékoztatás tartalma**
+
+Tájékoztatjuk, hogy Magyarország Kormánya téli rezsicsökkentésről döntött. A 2018. március 12. napján kihirdetett, a fűtési célú távhőszolgáltatást igénybe vevő lakossági felhasználók részére biztosított téli rezsicsökkentésről szóló 39/2018. (III. 12.) Korm. rendelet alapján Ön a rendkívüli hideg időjárás miatt a társaságunk által kiállított számlában szereplő fűtési célú költségekből árkompenzációra jogosult.
+
+A Kormány döntése alapján az árkompenzáció mértéke 12 000 Ft, amelyet társaságunk a 2018. áprilisi számlában érvényesít. Az Ön eddig megszokott ütemezés szerint érkező következő fűtésszámlája ennek megfelelő mértékben csökken. Ha a számla összege alacsonyabb, mint az érvényesítendő árkompenzáció összege, a fennmaradó rész a legkésőbb 2018. június 30. napjáig kibocsátandó számlákban kerül érvényesítésre.
+
+A téli rezsicsökkentésről további részleteket a Magyar Energetikai és Közmű-szabályozási Hivatal honlapján, a http://www.mekh.hu címen olvashat.

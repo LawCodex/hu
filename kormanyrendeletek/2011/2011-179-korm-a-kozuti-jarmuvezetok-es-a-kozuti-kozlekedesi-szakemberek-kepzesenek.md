@@ -1,0 +1,389 @@
+---
+title: "179/2011. (IX. 2.) Korm. rendelet a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól"
+identifier: "179/2011. (IX. 2.) Korm. rendelet"
+njt_id: "2011-179-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/179"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-09-02
+in_force_from: 2011-09-03
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-179-20-22"
+retrieved: 2026-10-12
+---
+
+# 179/2011. (IX. 2.) Korm. rendelet a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 8. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet alkalmazási köre
+
+### 1. §
+
+E rendelet hatálya kiterjed:
+
+a) a közúti járművezetők képzésére és vizsgáztatására,
+
+b) a szakoktató, az iskolavezető és a járművezetői vizsgabiztos képzésére, továbbképzésére és vizsgáztatására, és
+
+c) a *b)* pontban nem említett, egyéb közúti közlekedési szakemberek képzésére, továbbképzésére és vizsgáztatására.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában:
+
+1.[^1] *képzés:* a közúti járművezetők alap-, és középfokú oktatási intézményben (a továbbiakban: köznevelési intézmény), vagy tanfolyamon történő, valamint a közúti közlekedési szakemberek szaktanfolyamon történő oktatása;
+
+2\. *közúti járművezető:* a gépjármű, a mezőgazdasági vontató, a segédmotoros kerékpár, lassú jármű és a kerti traktor vezetője, továbbá az állati erővel vont jármű hajtója;
+
+3.[^2]
+
+4\. *tansegédlet:* a közúti járművezetők és a közúti közlekedési szakemberek oktatásához alkalmazott tankönyv, szemléltető eszköz, zárt rendszerű elektronikus távoktatásban alkalmazott digitális tananyag és zárt rendszerű távoktatási képzésmenedzsment rendszer;
+
+5\. *vezetői engedély:* a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló rendeletben meghatározott közúti jármű vezetésére jogosító okmány;
+
+6.[^3] *képző szerv:* a képzési engedéllyel rendelkező gazdasági társaság vagy egyéni vállalkozó vagy egyéni cég, vagy a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény;
+
+7.[^4] *Átlagos Képzési Óraszám (ÁKÓ):* adott időszakra, tanfolyamtípusra és képzési részre (elmélet, gyakorlat) és képző szervre vonatkozó, a közlekedési hatóság által meghatározottak szerint számított mutatószám, amely azt mutatja, hogy a képző szerv átlagosan hány oktatási óra alatt készítette fel a sikeres vizsgára a tanulóit;
+
+8.[^5] *Képzési Költség (KK):* a képző szerv által ismert minden – a mutató számításánál a közlekedési hatóság által meghatározottak szerint figyelembe veendő – olyan ellenszolgáltatás, amelyet a tanuló az adott képzés során megfizet;
+
+9.[^6] *Vizsga Sikerességi Mutató (VSM):* meghatározott időszakban a képző szervek által lejelentett és megvalósult vizsgaesemények sikerességét jellemző, a közlekedési hatóság által meghatározottak szerint számított mutatószám;
+
+10.[^7] *szakfelügyelet:* a személyi és tárgyi feltételek, az ügyvitel, valamint a tevékenység végzésére meghatározott előírások betartásának ellenőrzése, továbbá a szakmai módszertani iránymutatás;
+
+11.[^8] *ellenőrzés:* a személyi és tárgyi feltételek, az ügyvitel, valamint a tevékenység végzésére meghatározott előírások megtartásának vizsgálata.
+
+(2) E rendeletben meg nem határozott fogalmak tekintetében a közúti közlekedésről szóló 1988. évi I. törvény rendelkezései az irányadóak.
+
+## 3. A képzés engedélyezése
+
+### 3. §
+
+(1)[^9] A közúti járművezetők képzése, valamint a közúti közlekedési szakemberek képzése és továbbképzése – a (2)–(3a) bekezdésben foglalt kivétellel – képzési engedély alapján, iskolavezető szakmai irányítása mellett végezhető.
+
+(2)[^10] Közúti járművezetők képzése végezhető köznevelési intézményben is köznevelési tevékenység keretében, amennyiben
+
+a)[^11] az adott képzésre vonatkozóan a közlekedési hatóság által meghatározott tanterv beépült az intézménynek a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti helyi tantervébe, pedagógiai programjába,
+
+b)[^12] a köznevelési intézmény a képzés jogszabályban meghatározott feltételeit és ügyvitelét teljesíti,
+
+c)[^13] az a) pont szerinti helyi tantervet, pedagógiai programot az Nkt. 44. § (1) bekezdés rendelkezései szerint a nevelő testület elfogadta és a fenntartó jóváhagyta, továbbá a képzés indítása előtt a közlekedési hatóság részére előzetesen benyújtotta, és
+
+d)[^14] a köznevelési intézmény a képzés indítását a közlekedési hatóságnak előzetesen bejelentette.
+
+(3)[^15] Az Nkt. 30/B. §-a, valamint a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 35/B. §-a szerinti gépjárművezetői elméleti tanfolyam (a továbbiakban együtt: középiskolai tanfolyam) és vizsga esetében a képzés az (1) és (2) bekezdésben foglaltaktól eltérően a 8/A. alcímben meghatározottak szerint végezhető.
+
+(3a)[^16] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
+
+(4) A képzési engedély alapján az ország egész területén végezhető képzés.
+
+(5) Képzési engedély adható a tanfolyami vagy a szaktanfolyami képzés csak elméleti vagy csak gyakorlati tantárgyainak oktatására is. Elméleti képzésre vonatkozó engedélyben meg kell jelölni, hogy az engedély tantermi vagy zárt rendszerű elektronikus távoktatási képzésre vagy mindkét képzési formára vonatkozik.
+
+(6) A képző szervnek a képzési engedélyben foglaltak szerinti – elméleti vagy gyakorlati – képzés feltételeit folyamatosan biztosítania kell. A csak elméleti képzést végző képző szervnek a tanuló számára biztosítania kell a gyakorlati képzésben történő részvétel lehetőségét is az erre jogosult képző szervvel kötött szerződés útján. A csak gyakorlati képzést végző képző szervnek a tanuló számára biztosítania kell az elméleti képzésben történő részvétel lehetőségét is az erre jogosult képző szervvel kötött szerződés útján.
+
+## 4. Képzés
+
+### 4. §
+
+(1) A közúti járművezetők képzését a tevékenység végzésére engedéllyel rendelkező szakoktató végezheti, valamint a közúti közlekedési szakemberek képzésében, továbbképzésében oktatóként az adott szakterületre vonatkozó jogszabályban meghatározott képesítéssel rendelkező személy vehet részt.
+
+(2)[^17] A szakoktató és az iskolavezető a tevékenységét abban az esetben folytathatja, ha kétévente továbbképzésen vesz részt és sikeres vizsgát tesz.
+
+(3) Az elméleti képzés tanteremben vagy zárt rendszerű elektronikus távoktatással végezhető.
+
+(4) Képzésre az vehető fel, aki a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben (a továbbiakban: képzési rendelet) meghatározott feltételeknek megfelel.
+
+(5)[^18] A (4) bekezdésben foglaltakon túlmenően a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló tanfolyamra az vehető fel, aki az Nkt. szerinti alapfokú iskolai végzettsége meglétéről a képzési rendeletben meghatározott módon nyilatkozik.
+
+(6)[^19] Az engedéllyel rendelkező, névjegyzékben szereplő szakoktatók részére a közlekedési hatóság igazolványt állít ki. Az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén a közlekedési hatóság kérelemre új igazolványt állít ki.
+
+## 5. Vizsgáztatás
+
+### 5. §
+
+(1)[^20] A járművezetői vizsgabiztos a tevékenységét abban az esetben folytathatja, ha kétévente továbbképzésen vesz részt és sikeres vizsgát tesz.
+
+(2)[^21] A képzési rendeletben meghatározott esetben a vizsga a vizsgaközpont által megbízott tolmács közreműködésével történik. A tolmácsolás költségeit a vizsgázó viseli.
+
+(3) Vizsgára az bocsátható, aki az adott szakterületre vonatkozó jogszabályban meghatározott feltételeknek megfelel.
+
+(4)[^22] A köznevelési intézmény által végzett képzés esetén nem bocsátható vizsgára az, akinek képzése nem a 3. § (2) bekezdésnek megfelelően történt.
+
+(5)[^23] A gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló, a közúti közlekedésről szóló törvény szerinti vizsgaigazolás annak adható ki, aki az Nkt. szerinti alapfokú iskolai végzett megszerezte. Az alapfokú iskolai végzettség meglétét a képzési rendeletben meghatározott módon kell igazolni.
+
+(6)[^24] A névjegyzékben szereplő vizsgabiztosok részére a közlekedési hatóság igazolványt állít ki. Az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén a közlekedési hatóság kérelemre új igazolványt állít ki.
+
+(7)[^25] A középiskolai tanfolyam elméleti vizsgáin nincs lehetőség szóbeli vizsgára.
+
+### 5/A. §[^26]
+
+A vizsgaközpont vizsgaszabályzatban határozza meg
+
+a) a képző szervek tanuló részére készített írásos tájékoztatójának tartalmi követelményeit,
+
+b) a vizsgára jelentkezés rendjét,
+
+c) a vizsgázó értesítési rendjét,
+
+d) a vizsgák szervezési rendjét,
+
+e) a vizsgán meg nem jelenés következményeit.
+
+## 6. Ellenőrzés, szakfelügyelet
+
+### 6. §
+
+(1)[^27] A közlekedési hatóság a közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése, utánképzése és vizsgáztatása, továbbá az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység ellenőrzése során a tevékenység megkezdéséhez, valamint a végzéséhez szükséges feltételek meglétét ellenőrzi. A vizsgaközpont a képzés-, valamint szakfelügyelete során a tevékenység végzéséhez meghatározott szakmai előírások megtartását vizsgálja.
+
+(1a)[^28]
+
+(2)[^29] A vizsgaközpont a 6. § (1) bekezdése szerinti képzésfelügyelettel, szakfelügyelettel összefüggésben jogosult a tevékenység megfigyelésére, a tevékenységgel összefüggésben iratok megismerésére, azokról másolat készítésére, további tájékoztatás kérésére.
+
+(2a)[^30] A közúti közlekedési szakemberek, valamint a vizsgaközpont a 6. § (1) bekezdése szerinti képzésfelügyeleti, szakfelügyeleti tevékenysége során együttműködnek. Amennyiben a közúti közlekedési szakember nem együttműködő magatartást tanúsít a képzésfelügyelet, szakfelügyelet során, a vizsgaközpont írásban jelzéssel él a közlekedési hatóság felé.
+
+(2b)[^31] A (2) bekezdéssel összefüggően megtett intézkedésekről a vizsgaközpont jegyzőkönyvet, feljegyzést készít, amelynek egy példányát a képzésfelügyelettel, szakfelügyelettel érintett részére átad.
+
+(2c)[^32] Amennyiben a vizsgaközpont a képzésfelügyelet, szakfelügyeleti tevékenysége folytán rendelkezésre álló adatok alapján úgy ítéli meg, hogy hatósági eljárás lefolytatása szükséges, az ahhoz szükséges és rendelkezésére álló adatokat 8 napon belül a hatósági eljárás lefolytatására illetékes közlekedési hatóság részére megküldi.
+
+(2d)[^33]
+
+(2e)[^34]
+
+(2f)[^35]
+
+(2g)[^36]
+
+(3)[^37] A vizsgáztatás rendszeresen és folyamatosan ellátandó ellenőrzéséhez szükséges, a vizsgáztatással kapcsolatos információkat – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet alapján meghatározottak szerint – a vizsgaközpont az ellenőrzésre jogosult hatóság rendelkezésére bocsátja.
+
+(3a)[^38]
+
+(4)[^39] A közlekedési hatóság a képző szerv, az iskolavezető, a szakoktató engedélyét visszavonja, a vizsgabiztosi tevékenység végzését megtiltja, továbbá a képző szervet, az iskolavezetőt, a szakoktatót és a vizsgabiztost a nyilvántartásból törli, ha a képző szerv, a vizsgabiztos, a szakoktató nem teljesíti az engedélyezésre vagy a bejelentésre vonatkozó jogszabályi feltételeket, és az erre irányuló hatósági felszólításnak az abban foglalt határidőig nem tesz eleget.
+
+(5)[^40] A közlekedési hatóság a képző szervet, az iskolavezetőt, a szakoktatót, valamint a vizsgabiztost a tevékenység végzésétől eltilthatja, ha a tevékenységre vonatkozó jogszabályi rendelkezéseket megsérti.
+
+(6)[^41] Az eltiltás időtartamát napokban kell meghatározni. Az eltiltás időtartama legalább 15, legfeljebb 400 nap lehet.
+
+(7)[^42] Az iskolavezető tevékenységtől történő eltiltása esetén a képző szervnek – gazdasági társaság esetén a vezető tisztségviselő, egyéni vállalkozás esetén az egyéni vállalkozó, egyéni cég esetén az ügyvezetést ellátó személy felelősségre vonásától függetlenül – 30 nap áll rendelkezésre a jogszerű működés helyreállítására, ennek elmulasztása esetén a közlekedési hatóság az iskolavezető engedélyét visszavonja. Az eltiltást kimondó határozatban erre figyelmeztetni kell az iskolavezetőt.
+
+(8)[^43] A közlekedési hatóság a képző szerv, az iskolavezető, a szakoktató engedélyét visszavonja, a vizsgabiztost a tevékenység végzésétől eltiltja, továbbá a képző szervet, az iskolavezetőt, a szakoktatót és a vizsgabiztost a nyilvántartásból törli, ha a képző szerv, a szakoktató, az iskolavezető, valamint a vizsgabiztos a jogszabályban meghatározott rendelkezéseket, előírásokat súlyosan vagy ismételten megsérti.
+
+(9)[^44] A (8) bekezdés szerinti súlyos jogsértésnek kell tekinteni, ha az ott megjelöltek
+
+a) olyan magatartást tanúsítanak, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartás ellenőrizhetőségét befolyásolja;
+
+b) a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti eljárás során a vizsga rendjét megzavarják;
+
+c) kijelölt biztosító személy feladatainak ellátásán túlmenően a szakoktató a járművezetéssel járó gyakorlati oktatás vagy a vizsga során nem tartózkodik a járműben, kivéve az „AM”, az „A1”, az „A2”, az „A” kategóriás gyakorlati oktatást, és az „AM”, az „A1”, az „A2”, az „A” és a „T” kategóriás gyakorlati vizsgát, illetve az „AM”, az „A1”, az „A2”, az „A” kategóriás gyakorlati oktatást nem felügyeli;
+
+d) a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet előírásait megszegve határozzák meg;
+
+e) a képző szervvel, az iskolavezetővel, a szakoktatóval, a vizsgabiztossal szemben a közlekedési hatóság két éven belül három alkalommal véglegessé vált határozatában jogsértést állapított meg; vagy
+
+f) a közúti közlekedési szakember vizsgára bocsátás nélküli továbbképzése esetén a képző szerv vagy az iskolavezető a jogszabályban, a közlekedési hatóság vagy a közlekedésért felelős miniszter által előírt rendelkezéseket szándékosan vagy ismételten megsérti.
+
+(10)[^45] Az engedély (9) bekezdés a) és e) pontján alapuló visszavonása esetén a tevékenység ismételt megkezdése nem engedélyezhető a visszavonást kimondó határozat véglegessé válásától számított 5 évig. A tevékenység ismételt megkezdése tekintetében nem vehető figyelembe azon végleges döntésben meghozott marasztalás, amelynek alapját képező jogsértés a tevékenység ismételt megkezdéséhez kapcsolódó névjegyzékbe vételi iránti kérelem benyújtásának vagy elbírálásának időpontjában már nem minősül súlyos jogsértésnek.
+
+(11)[^46] A képzés engedélyezését végző közlekedési hatóság az e-learning rendszerű oktatásban alkalmazható digitális tananyagokat – kötelező jelleggel, díjmentesen – kibővítheti, továbbá kérheti annak kibővítését közlekedésbiztonsági célzatú, SCORM formátumú kiegészítő ismeretanyagokkal.
+
+(12)[^47] A képzési engedély visszavonásáról szóló döntésben meghatározott, a tevékenység megszűnésének időpontját megelőzően a képző szerv köteles a képzést még be nem fejezett tanulóira vonatkozóan képzési igazolást kiállítani és átadni a tanulónak, valamint a vizsgaközpontnak.
+
+## 6/A. [^48] Fogyasztóvédelem
+
+### 6/A. §
+
+(1) A közlekedési hatóság meghatározza és honlapján közzéteszi a 2. § (1) bekezdés 7–9. pontja szerinti mutatószámok kiszámításának módját, amely kiterjed a mutatószám alapjául szolgáló időszakra, a számítandó képzésekre, képzési részekre, továbbá a számítási műveletre.
+
+(2)[^49] A vizsgaközpont negyedéves frissítéssel honlapján közzéteszi az érvényes képzési engedéllyel rendelkező képző szervekre vonatkozóan a 2. § (1) bekezdés 7. és 9. pontja szerinti mutatószámokat. A vizsgaközpont a 2. § (1) bekezdés 9. pontja szerinti mutatószámot a szakoktatók vonatkozásában évente egyszer közzéteheti.
+
+(3)[^50] A képző szerv honlapot működtet, melyen negyedéves frissítéssel közzéteszi a 2. § (1) bekezdés 7–9. pontja szerinti mutatószámokat. E mutatószámokat a képzési tevékenységét népszerűsítő felhívásokban is megjeleníti.
+
+## 6/B. [^51] A Közlekedési Szakértői Testület
+
+## 7. Adatváltozás bejelentésre vonatkozó szabályok
+
+### 7. §
+
+(1) A vizsgabiztos, szakoktató és az iskolavezető a névjegyzékben nyilvántartott adatainak változását az adatváltozást követő 15 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+
+(2) A képző szerv a nyilvántartott adatainak változását az adatváltozást követő 15 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+
+## 8.[^53] Vizsga érvénytelenítése, vizsgától való eltiltás
+
+### 8. §
+
+(1) A vizsgázó a vizsgaközpont közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti, a vizsgától való eltiltó, valamint a vizsga érvénytelenítéséről hozott döntése tárgyában, a döntés kézhezvételétől számított 15 napon belül a közlekedési hatósághoz fordulhat.
+
+(2) A közlekedési hatóság a hatósági eljárása eredményeként dönt a vizsgaközpont döntésének jogszerűsége kérdésében, ennek során a vizsgaközpont döntését meg is változtathatja, vagy a döntést megsemmisítheti.
+
+## 8/A.[^54] A középiskolai tanfolyam és vizsga különleges szabályai
+
+### 8/A. §
+
+(1) A középiskolai tanfolyam biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges közlekedési alapismeretek, járművezetés elmélete, szerkezeti és üzemeltetési ismeretek, valamint az elsősegélynyújtási ismeretek átadását. A középiskola a középiskolai tanfolyam és vizsga tekintetében ellátja a képző szerv és a vizsgaközpont e rendeletben meghatározott feladatait. A középiskolai tanfolyam esetén a 3. § (6) bekezdése szerinti szerződéskötési kötelezettség nem áll fenn.
+
+(2) A középiskola a tanulmányi rendszeren keresztül biztosítja
+
+a) a szükséges tananyagok elsajátításához szükséges informatikai feltételeket,
+
+b) a közlekedési alapismeretek és az elsősegélynyújtási ismeretek online számítógépes elméleti vizsgához szükséges informatikai feltételeket,
+
+c) az online elsősegélynyújtási ismeretek tanfolyam e-learning tananyagát,
+
+d) az online közúti járművezetői tanfolyam elméleti tantárgyainak e-learning tananyagát,
+
+e) az orvosi alkalmassági vizsgálat alkalmassági adatait,
+
+f) az elsősegélynyújtási demonstrációs alkalmon való részvétel nyilvántartását,
+
+g) a vizsgaközpont, valamint a Magyar Vöröskereszt részére átadandó adatok átadásához szükséges technikai feltételeket.
+
+(3) A (2) bekezdésben foglaltakat az állam a középiskola számára az Nkt. 83. § (2b) bekezdése szerinti oktatási központ útján biztosítja.
+
+(4) A (2) bekezdés d) pontja szerinti tananyag rendelkezik a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti tananyagokra vonatkozó akkreditációval.
+
+(5) A felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2) bekezdése szerinti hatósági adatszolgáltatási kötelezettséget a Klebelsberg Központ és a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a Magyar Honvédség teljesíti.
+
+### 8/B. §
+
+(1) A középiskolai tanfolyamot a középiskola a közúti közlekedésről szóló 1988. évi I. törvény szerinti zárt rendszerű elektronikus távoktatással végzi.
+
+(2) Az (1) bekezdés szerinti középiskolai tanfolyam során az állam akkreditált, zárt rendszerű elektronikus képzésmenedzsment rendszerben hozzáférhető digitális tananyagokkal biztosítja a 8/A. § (1) bekezdése szerinti ismeretek átadását a tanulók a részére.
+
+(3) A tanuló a tanulmányi rendszer felületén jelentkezik az online közlekedési alapismeretek, valamint az elméleti elsősegélynyújtási képzésre. Kiskorú tanuló esetén a jelentkezéshez a szülő beleegyező nyilatkozata szükséges.
+
+(4) A középiskola a képzés szervezésével összefüggésben
+
+a) a tanulmányi rendszeren keresztül tájékoztatja a képzésre jogosult tanulót – kiskorú tanuló esetében a szülőt is – a képzésről, a képzésre jelentkezés módjáról,
+
+b) összegyűjti a képzésre jelentkezők által a tanulmányi rendszeren keresztül benyújtott és kitöltött jelentkezési lapot és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott nyilatkozatokat (a továbbiakban együtt: jelentkezési lap),
+
+c) a jelentkezési lapot ellenőrzi aszerint, hogy a jelentkezők megfelelnek-e a közúti közlekedésről szóló 1988. évi I. törvény és végrehajtási rendeletei szerinti, valamint az Nkt.-ban és az Szkt.-ban meghatározott feltételeknek.
+
+(5) Középiskolai tanfolyam esetén nem szükséges az alapfokú iskolai végzettségről külön nyilatkozni, illetve azt igazolni.
+
+### 8/C. §
+
+(1) Az 5/A. § szerinti vizsgaszabályzatot a köznevelési intézmény esetében a köznevelésért felelős miniszter, szakképző intézmény esetében a szakképzésért felelős miniszter adja ki. A köznevelésért felelős miniszter a szakképzésért felelős miniszter egyetértésével, a szakképzésért felelős miniszter a köznevelésért felelős miniszter egyetértésével adja ki a vizsgaszabályzatot.
+
+(2) Az online közlekedési alapismeretek és az online elsősegélynyújtási elméleti vizsga szervezését és lebonyolítását a középiskola végzi, amelynek keretében
+
+a) kijelöli a vizsga időpontját és helyszínét, valamint
+
+b) biztosítja a vizsgázáshoz szükséges helyszínt és a vizsgafelügyeletet ellátó vizsgabiztost.
+
+(3) A vizsgát megzavaró esemény bekövetkezésekor a vizsga felügyeletét ellátó vizsgabiztos dönt a vizsga felfüggesztéséről. A középiskola igazgatója a vizsgázóval szemben a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben foglalt intézkedéseket hozhatja.
+
+### 8/D. §
+
+(1) A középiskola igazgatója tekintetében nem kell alkalmazni a 4. § iskolavezetőre vonatkozó előírásait.
+
+(2) A középiskolai vizsgabiztos tekintetében nem kell alkalmazni az 5. § (1) bekezdése előírásait.
+
+(3) A 6. §-t a középiskolai tanfolyam és vizsga esetén a (4) és (5) bekezdés szerinti eltérésekkel kell alkalmazni.
+
+(4) A középiskolai tanfolyam és vizsga során a középiskola fenntartója ellenőrizheti a tevékenység végzéséhez meghatározott feltételek és előírások megtartását, amelyet az ellenőrzés alá vont szervezet, személy köteles tűrni, azt nem gátolhatja, nem akadályozhatja.
+
+(5) A 6. § (4)–(10) és (12) bekezdését, valamint a 6/A. § (2) és (3) bekezdését a középiskolai tanfolyam és vizsga során nem kell alkalmazni.
+
+### 8/E. §
+
+A középiskolát – a közúti közlekedésről szóló 1988. évi I. törvény 18. § (2b) és (8b) bekezdése alapján – a középiskolai tanfolyam és vizsga ellátásával összefüggésben történő adatkezelése tekintetében képző szervnek és vizsgaközpontnak kell tekinteni.
+
+### 8/F. §[^55]
+
+A közúti közlekedésről szóló 1988. évi I. évi törvény 18. § (18) bekezdése szerinti vezetési gyakorlati képzés iskolavezetői névjegyzékben szereplő iskolavezető nélkül is folytatható.
+
+## 9. Záró rendelkezések
+
+### 9. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2)[^56]
+
+### 10. §
+
+Az e rendelet hatálybalépése előtt kiadott képzési engedély alapján – a képzési rendeletben foglaltak szerint – az ország egész területén végezhető gyakorlati, valamint tantermi elméleti oktatás.
+
+### 11. §[^57]
+
+A Közlekedési Szakértői Testületnek a közlekedési tárgyú kormányrendeletek módosításáról szóló 433/2025. (XII. 23.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépését[^58] megelőzően felkért elnöke és tagjainak megbízása a Módr2. hatálybalépésével[^59] megszűnik.
+
+### 12. §
+
+Ez a rendelet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvénnyel együtt – a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–11. cikke,
+
+b) a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet 8. cikk (3) és (4) bekezdése.
+
+### 13. §[^60]
+
+A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet, valamint a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet módosításáról szóló 260/2024. (VIII. 29.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 8/A. § (5) bekezdése szerinti adatszolgáltatási kötelezettség teljesítése érdekében a középiskolák első alkalommal a Klebelsberg Központ és a Nemzeti Szakképzési és Felnőttképzési Hivatal számára 2024. december 15. és 2025. február 28. között szolgáltatnak adatot.
+
+---
+
+[^1]: A 2. § (1) bekezdés 1. pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 3. pontját a 285/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 6. pontja a 118/2013. (IV. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 7. pontját a 118/2013. (IV. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 8. pontját a 118/2013. (IV. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 9. pontját a 118/2013. (IV. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 10. pontját a 118/2013. (IV. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 11. pontját a 118/2013. (IV. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § a) pontja, a 260/2024. (VIII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés nyitó szövegrésze a 118/2013. (IV. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés a) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § c) pontja, a 260/2024. (VIII. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés b) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés c) pontja a 260/2024. (VIII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdés d) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdését a 260/2024. (VIII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja, a 612/2023. (XII. 22.) Korm. rendelet 27. §-a, a 141/2025. (VI. 19.) Korm. rendelet 4. §-a, a 442/2025. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (5) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 4. §-ával megállapított, a 260/2024. (VIII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^19]: A 4. § (6) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: Az 5. § (1) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdés a) pontja, a 248/2019. (X. 24.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^22]: Az 5. § (4) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^23]: Az 5. § (5) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 5. §-ával megállapított, a 285/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdés b) pontja, a 260/2024. (VIII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg. [Nem vezethető át a 289/2018. (XII. 21.) Korm. rendelet 10. §-ában foglalt módosítás, mely szerint hatályát veszti az 5. § (5) bekezdésében az „és az elsősegélynyújtási ismeretek elsajátítását tanúsító igazolást” szövegrész.]
+[^24]: Az 5. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 143. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: Az 5. § (7) bekezdését a 260/2024. (VIII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^26]: Az 5/A. §-t a 248/2019. (X. 24.) Korm. rendelet 8. §-a iktatta be.
+[^27]: A 6. § (1) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (1a) bekezdésát a 285/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
+[^29]: A 6. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^30]: A 6. § (2a) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^31]: A 6. § (2b) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^32]: A 6. § (2c) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^33]: A 6. § (2d) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^34]: A 6. § (2e) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^35]: A 6. § (2f) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 25. §-a iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^36]: A 6. § (2g) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 25. §-a iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^37]: A 6. § (3) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^38]: A 6. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be, a 285/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^39]: A 6. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^40]: A 6. § (5) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^41]: A 6. § (6) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 612/2023. (XII. 22.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^42]: A 6. § (7) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^43]: A 6. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^44]: A 6. § (9) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^45]: A 6. § (10) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 43. § (3) bekezdésével megállapított szöveg.
+[^46]: A 6. § (11) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^47]: A 6. § (12) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^48]: A 6/A. alcímet (6/A. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^49]: A 6/A. § (2) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^50]: A 6/A. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^51]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^53]: A 8. alcímet (8. §-t) a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte. újonnan a 410/2023. (VIII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^54]: A 8/A. alcímet (8/A–8/E. §-t) a 260/2024. (VIII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^55]: A 8/F. §-t a 168/2025. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
+[^56]: A 9. § (2) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^57]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 118/2013. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 433/2025. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^58]: A hatálybalépés időpontja 2026. január 1.
+[^59]: A hatálybalépés időpontja 2026. január 1.
+[^60]: A 13. §-t a 260/2024. (VIII. 29.) Korm. rendelet 4. §-a iktatta be.

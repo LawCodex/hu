@@ -1,0 +1,131 @@
+---
+title: "77/2010. (III. 25.) Korm. rendelet a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről"
+identifier: "77/2010. (III. 25.) Korm. rendelet"
+njt_id: "2010-77-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/77"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-03-25
+in_force_from: 2010-04-09
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-77-20-22"
+retrieved: 2026-10-12
+---
+
+# 77/2010. (III. 25.) Korm. rendelet a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről
+
+A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (6) bekezdésében, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § a) pontjában,
+
+a 8. § tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés p) pontjában,
+
+a 9. § tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés d) pontjában és
+
+a 10. § (1) bekezdése tekintetében az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdésében
+
+kapott felhatalmazás alapján,
+
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] Területrendezési tervezési tevékenységet az végezhet, aki – a területfejlesztésről szóló 2023. évi CII. törvényben (a továbbiakban: Tftv.) foglaltakon túl – rendelkezik az e §-ban meghatározott végzettséggel és szakmai gyakorlattal.
+
+(2) Területrendezési tervezési tevékenységet az folytathat, aki rendelkezik
+
+a) egyetemi szintű vagy mesterfokozatú végzettséggel (a továbbiakban: egyetemi végzettség) és az 1. mellékletben meghatározott – legalább kétéves képzési programú, felsőoktatási intézményben megszerzett – szakirányú továbbképzésben kiállított oklevéllel, vagy
+
+b) okleveles tájépítészmérnöki, okleveles táj- és kertépítészmérnöki, okleveles táj- és kertépítész szakos kertészmérnöki, okleveles településmérnöki, okleveles építészmérnöki vagy ezekkel egyenértékű végzettséggel (a továbbiakban: részlegesen szakirányú végzettség).
+
+(3) Szakmai gyakorlati időként a következő, hazai vagy külföldi szakmai gyakorlatot lehet figyelembe venni:
+
+a) a területrendezési terv elfogadásra kerülő munkarészei, a területrendezési hatósági eljárás megindítására vonatkozó kérelemhez benyújtandó tervi javaslat vagy a területrendezési hatósági eljárás során készített területi (környezeti, társadalmi és gazdasági) hatásvizsgálat elkészítésében való, területrendezési tervezési jogosultsággal rendelkező tervező irányítása alatt végzett közreműködés,
+
+b) az államigazgatási szervek területrendezéssel kapcsolatos feladatainak ellátásában folytatott tevékenység,
+
+c) a területrendezési tervezési szakterületen végzett kutatói tevékenység,
+
+d) felsőoktatási intézményben a területi tervezéshez, a tájtervezéshez, a településtervezéshez vagy az urbanisztikához kapcsolódó tárgy oktatása, vagy
+
+e)[^2] az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti, településtervezési szakterületeken végzett tervezési tevékenység.
+
+(4) A területrendezési tervezési tevékenység folytatásához szükséges szakmai gyakorlat időtartama
+
+a) a (2) bekezdés a) pontja esetén 10 év,
+
+b) a részlegesen szakirányú végzettség esetén 7 év,
+
+c) a szakirányú végzettségnek minősülő, a részlegesen szakirányú végzettség és a (2) bekezdés a) pontja szerinti szakirányú továbbképzésben kiállított oklevél együttes megléte esetén 4 év.
+
+(5) A szakmai gyakorlat időtartamából
+
+a) a (4) bekezdés a) pontja esetén legalább 8 évet,
+
+b) a (4) bekezdés b) pontja esetén legalább 5 évet,
+
+c) a (4) bekezdés c) pontja esetén legalább 2 évet
+
+a (3) bekezdés a) vagy b) pontjában meghatározott szakmai gyakorlattal kell teljesíteni.
+
+(6) Szakmai gyakorlatként az egyetemi végzettség és a részlegesen szakirányú végzettség megszerzését követően teljesített szakmai gyakorlat időtartamát kell figyelembe venni.
+
+## 2. §[^3]
+
+A Kormány a területrendezési tervezési tevékenység felügyeletét ellátó hatóságként a Budapesti Építész Kamarát (a továbbiakban: kamara) jelöli ki. A kamarának az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szerveként a területrendezésért felelős miniszter jár el.
+
+## 3. §
+
+(1)[^4] A kamarának tett bejelentésnek – a Tftv. 34. § (3) bekezdésében foglaltakon túl – tartalmaznia kell az érintett személy részletes szakmai tevékenységet bemutató önéletrajzát is.
+
+(2)[^5] A szakmai gyakorlat időtartamát közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati, közalkalmazotti, hivatásos szolgálati vagy nemzetbiztonsági szolgálati szolgálati jogviszonyban vagy munkaviszonyban álló kérelmező esetén a munkáltatója igazolja.
+
+(3) A szakmai gyakorlat időtartamát munkavégzésre irányuló egyéb jogviszony, továbbá a kérelmező korábbi foglalkoztatójának jogutód nélküli megszűnése esetében szerződés vagy a munkavégzés igazolására alkalmas és a szakmai gyakorlat időtartamát alátámasztó egyéb dokumentum igazolja.
+
+(4) Az igazolás tartalmazza a kérelmező nevét, lakcímét, a munkakör részletes leírását, referencialistát az 1. § (3) bekezdése szerinti tevékenységek leírásával és időbeli meghatározásával, valamint a szakmai gyakorlat időtartamát.
+
+(5)[^6] A bejelentőnek a végzettségét és meglévő szakmai gyakorlatát igazolnia kell. A végzettség igazolására alkalmas különösen a végzettséget tanúsító oklevél másolata és a (2)–(4) bekezdés szerinti igazolás.
+
+## 4. §
+
+(1) A kamara a nyilvántartásba vétellel egyidejűleg TR minősítésű névjegyzéki besorolással, „területrendező tervező” megnevezéssel nyilvántartási számot ad.
+
+(2) A területrendező tervező köteles a nyilvántartási számot a tervezői szerződésen, a területrendezési terv munkarészein és a terv előlapján – az aláírása mellett – feltüntetni.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+## 6. §
+
+(1) A területrendezési és településrendezési tervezési jogosultságról szóló 53/2000. (VIII. 11.) FVM rendelet szerint az e rendelet hatálybalépését megelőző napig megállapított TR-1 minősítésű területrendező tervező névjegyzéki besorolás egyenértékű a TR minősítésű területrendező tervező névjegyzéki besorolással.
+
+(2)–(4)[^7]
+
+## 7. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
+
+## 1. melléklet a 77/ 2010. (III. 25.) Korm. rendelethez
+
+**Szakirányú továbbképzések**
+
+1\. Önkormányzati főépítész szakmérnöki
+
+2\. Terület- és településfejlesztési szakértői
+
+3\. Városépítési-városgazdasági szakmérnöki
+
+4\. Urbanista szakmérnöki
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 140/2024. (VI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: A 2. § a 457/2017. (XII. 28.) Korm. rendelet 287. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 3. § (1) bekezdése a 140/2024. (VI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 22. §-a, a 671/2020. (XII. 28.) Korm. rendelet 15. §-a, a 24/2025. (II. 27.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 287. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 6. § (2)–(4) bekezdését a 10. § (2) bekezdése hatályon kívül helyezte.

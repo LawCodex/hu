@@ -1,0 +1,1322 @@
+---
+title: "327/2011. (XII. 29.) Korm. rendelet a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról"
+identifier: "327/2011. (XII. 29.) Korm. rendelet"
+njt_id: "2011-327-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/327"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-29
+in_force_from: 2012-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-327-20-22"
+retrieved: 2026-10-12
+---
+
+# 327/2011. (XII. 29.) Korm. rendelet a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról
+
+A Kormány
+
+a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdés a)–c) pontjában és 28. § (2) bekezdésében,
+
+az 1. § (2) bekezdése tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában,
+
+a 30. § a) pontja tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva,
+
+a 24. §, a 26–29. §, valamint a 30. § b) pontja tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva
+
+a következőket rendeli el:
+
+## 1. Kijelölés
+
+### 1. §[^1]
+
+(1)[^2] A Kormány rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a fővárosi és vármegyei kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki.
+
+(1a)[^3]
+
+(2)[^4]
+
+(2a)[^5] A Kormány a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás tekintetében rehabilitációs hatóságként – az (1) bekezdésben foglaltakon túlmenően – a központi nyugdíjbiztosítási szervet is kijelöli.
+
+(3) A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásának folyósításával kapcsolatos feladatok ellátására a nyugdíjfolyósító szervet jelöli ki.
+
+(4)[^6] A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásainak megtérítésére, valamint a jogosulatlanul felvett ellátás visszafizetésére kötelező végleges határozatokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatok ellátására a központi nyugdíjbiztosítási szervet jelöli ki. A központi nyugdíjbiztosítási szerv az e bekezdés szerinti feladat ellátása során a társadalombiztosítási nyugellátásokra vonatkozó jogszabályok rendelkezései szerint jár el.
+
+(5)[^7]
+
+(6) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+
+a) a Rehabilitációs Orvosszakértői Névjegyzékkel és
+
+b) a Foglalkozási Rehabilitációs Szakértői Névjegyzékkel
+
+összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+
+(7) A Kormány
+
+a) a rehabilitációs orvosszakértők továbbképzésével és
+
+b) a foglalkozási rehabilitációs szakértők továbbképzésével
+
+összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+
+(8) A megváltozott munkaképességű személyek ellátásaival összefüggő, uniós tagságból adódó, valamint a szociális biztonsági tárgyú nemzetközi egyezmények végrehajtása során adódó koordinációs feladatokat Budapest Főváros Kormányhivatala látja el.
+
+(9)[^8] A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá nem tartozó ellátás esetén a kormányhivatal – a külföldi társadalombiztosítási szerv külön megkeresésére és térítési díj fizetése ellenében – szakvéleményt ad a Magyarországon lakó- vagy tartózkodási hellyel rendelkező,
+
+a) az Európai Unió tagállamában,
+
+b) az Európai Gazdasági Térségről szóló megállapodásban részes más államban, vagy abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+
+c) kétoldalú szociális biztonsági egyezménnyel érintett államban
+
+biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
+
+(10)[^9]
+
+(11)[^10]
+
+(12)[^11] A kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja.
+
+(13)[^12] A Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) közreműködik a szociálpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
+
+(14)[^13] Az NSZI közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá a képességvizsgálatokhoz kapcsolódó orvos-szakmai módszertani feladatokat lát el. E feladatai ellátásával összefüggésben az NSZI a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
+
+(15)[^14] Budapest Főváros Kormányhivatala orvos-szakmai feladatellátáshoz kapcsolódó képességvizsgálatokat, valamint tárolási, logisztikai tevékenységet végez.
+
+## 2.[^15] Illetékességi szabályok
+
+### 2. §[^16]
+
+(1)[^17]
+
+(2)[^18] A megváltozott munkaképességű személyek ellátásaival kapcsolatos hatósági ügyekben rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a kérelmező lakó- vagy tartózkodási helye szerint illetékes kormányhivatal jár el. A rehabilitációs hatóságként, rehabilitációs szakértői szervként vagy orvosszakértői szervként eljáró Budapest Főváros Kormányhivatalának illetékessége Budapest főváros és Pest vármegye területére terjed ki. Külföldön lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetén, vagy ha a vizsgálandó személy nem rendelkezik Magyarországon lakóhellyel vagy tartózkodási hellyel, Budapest Főváros Kormányhivatala jár el.
+
+(2a)[^19]
+
+(3)[^20] A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 20/A. § (2) bekezdése és a 22. § szerinti visszafizetési kötelezettséggel kapcsolatos ügyekben az elhunyt személy utolsó ismert lakó- vagy tartózkodási helye szerint illetékes kormányhivatal jár el.
+
+(4)[^21] A Magyar Honvédség hivatásos és szerződéses, a rendvédelmi feladatokat ellátó szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagjai és a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás mértékének meghatározásában rehabilitációs szakértői szervként és orvosszakértői szervként Budapest Főváros Kormányhivatala jár el.
+
+(5)[^22]
+
+### 4. §[^25]
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.)
+
+a)[^26] 66. §-a alapján hozott visszafizetésre kötelező, és az Ebtv. 68. § alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként a megváltozott munkaképességű személyek ellátásban részesülő személy lakó- vagy tartózkodási helye szerint illetékes kormányhivatal jár el,
+
+b)[^27] 66. §-a és 67. §-a alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes kormányhivatal jár el,
+
+c)[^28] 72. §-a szerinti méltányossági jogkörben hozott döntés esetén rehabilitációs hatóságként az a kormányhivatal jár el, amely a visszafizetésre vagy megtérítésre kötelező határozatot hozta.
+
+## 3. Az eljáró szervek együttműködése
+
+### 5. §[^29]
+
+(1) Az Mmtv.-ben és e rendeletben meghatározott feladatok végrehajtása érdekében Budapest Főváros Kormányhivatala, a központi nyugdíjbiztosítási szerv és a foglalkoztatáspolitikáért felelős miniszter az együttműködés, valamint az adatok kölcsönös átadásának a rendjét megállapodásban határozza meg.
+
+(2)[^30] A megváltozott munkaképességű személyek ellátásai megállapításához és a folyósítás tartama alatt a jogosultsági feltételek vizsgálatához szükséges adatok átadásának rendjét a központi nyugdíjbiztosítási szerv és a Nemzeti Adó- és Vámhivatal megállapodásban határozza meg.
+
+(3)[^31] Az (1) és (2) bekezdés szerinti megállapodások megkötéséhez a szociálpolitikáért felelős miniszter előzetes jóváhagyása szükséges.
+
+## 4. A megváltozott munkaképességű személyek ellátásainak megállapítása
+
+### 6. §[^32]
+
+(1)[^33] A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 19. § (1) bekezdésében és 33/B. § (1) bekezdésében foglaltak kivételével – kérelemre történik.
+
+(2)[^34] A szociálpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(3) Az adatlap és az elektronikus űrlap tartalmazza a kérelmező
+
+a) természetes személyazonosító adatait,
+
+b) lakóhelyét, tartózkodási helyét és elérhetőségét,
+
+c) társadalombiztosítási azonosító jelét,
+
+d)[^35]
+
+e) nyilatkozatait, amelyek a megváltozott munkaképességű személyek ellátásainak megállapításához szükségesek,
+
+f) erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmét.
+
+(3a)[^36] A közlekedőképesség vizsgálatára vonatkozó kérelemmel együtt a mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet szerinti mozgásában korlátozott személy parkolási igazolványa iránti kérelem is benyújtható.
+
+(4) A (3) bekezdés e) pontjában foglaltak keretében a kérelmező nyilatkozik arról, hogy
+
+a)[^37] a kérelem benyújtásának időpontjában iskolai tanulmányokat folytat-e, illetve a az iskolai tanulmányok megszűnésének időpontjáról,
+
+b) egészségkárosodása üzemi baleset vagy foglalkozási megbetegedés következménye-e,
+
+c) 2011. december 31-én az Mmtv. 2. § (2) bekezdés b) pontja szerinti ellátásban részesült-e, vagy az ellátásra jogosultságát megállapították, de annak folyósítása 2011. december 31-én szünetelt,
+
+d) rendszeres pénzellátásban részesül-e, ha igen, mely ellátásban,
+
+e)[^38] amennyiben a rendszeres pénzellátást és a megváltozott munkaképességű személyek ellátását nem lehet együttesen igénybe venni, a megváltozott munkaképességű személyek ellátásának megállapítása esetén a rendszeres pénzellátásról lemond-e.
+
+(4a)[^39] A hatóság a kérelmező (4) bekezdés e) pontja szerinti lemondó nyilatkozata alapján – az ellátás megállapításának feltételével – intézkedik az egyéb rendszeres pénzellátás folyósításának megszüntetéséről.
+
+(5) Az adatlaphoz csatolni kell
+
+a)[^40]
+
+b) az Mmtv. 2. § (2) bekezdés a) pontjában meghatározottak fennállása esetén az iskolai tanulmányok folytatását vagy megszűnésének időpontját igazoló okiratot vagy annak másolatát,
+
+c) a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratot,
+
+d)[^41] a kérelmező egészségi állapotával kapcsolatos dokumentumokat, és
+
+e) a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
+
+(6)[^42] Ha az Elektronikus Egészségügyi Szolgáltatási Tér nem tartalmazza, vagy a hozzáférést a kérelmező korlátozta, az (5) bekezdés d) pontja szerinti dokumentumok körében csatolni kell
+
+a) a kérelmező egészségi állapotára, gyógykezelésére, rehabilitációjára vonatkozó összefoglaló adatokat tartalmazó, a munkaképesség-változás vagy a súlyos fogyatékosság véleményezése céljából kiállított beutalót,
+
+b) a kérelmező folyamatos gondozását, gyógykezelését és az aktuális állapotát bemutató kezelőorvosi véleményt,
+
+c) az *a)* és *b)* pont szerinti iratokban feltüntetett körülményekkel összefüggő további egészségügyi dokumentációt, valamint
+
+d)[^43] ha a kérelmező foglalkoztatott, és a dokumentum rendelkezésre áll, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, álláshelyen ellátott feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében vagy álláshelyén (a továbbiakban együtt: munkakör) továbbfoglalkoztatható-e.
+
+(6a)[^44] Az Mmtv. 33/B. § (1) bekezdése szerinti nyilatkozatot a szociálpolitikáért felelős miniszter által rendszeresített formában kell megtenni. A nyilatkozatot a fővárosi és vármegyei kormányhivatalok, valamint a központi nyugdíjbiztosítási szerv honlapján közzé kell tenni.
+
+(6b)[^45] Ha az Mmtv. 33/B. § (1) bekezdése alapján az érintett személy nyilatkozik arról, hogy az ellátási összeg csökkenésével összefüggésben további igénye nincs, a kompenzációról a rehabilitációs hatóság hivatalból dönt.
+
+(6c)[^46] Az Mmtv. 33/B. § (2) bekezdése szerinti állapotvizsgálat iránti kérelemre a (3)–(6) bekezdésben foglaltakat nem kell alkalmazni.
+
+(7)[^47] A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
+### 6/A. §[^48]
+
+(1) Kivételes rokkantsági ellátás iránti kérelem esetén az adatlap és az elektronikus űrlap tartalmazza a kérelmező
+
+a) természetes személyazonosító adatait,
+
+b) lakóhelyét, tartózkodási helyét és elérhetőségét,
+
+c) társadalombiztosítási azonosító jelét,
+
+d)[^49]
+
+e)[^50] 6. § (4) bekezdés a) és d) pontjában felsorolt nyilatkozatait, és
+
+f) nyilatkozatát arra vonatkozóan, hogy melyek azok a különös méltánylást igénylő körülmények, amelyekre tekintettel a kivételes rokkantsági ellátás megállapítását kéri.
+
+(2) Kivételes rokkantsági ellátás iránti kérelem esetén az adatlaphoz csatolni kell
+
+a)[^51]
+
+b) ha a kérelmező nem rendelkezik hatályos komplex minősítéssel, az egészségi állapotával kapcsolatos 6. § (6) bekezdése szerinti dokumentumokat vagy ezek másolatát,
+
+c) az (1) bekezdés f) pontja alapján megjelölt különös méltánylást igénylő körülmények igazolásához szükséges dokumentumokat vagy ezek másolatát.
+
+### 7. §[^52]
+
+Ha kétség merül fel a 6. § (4) bekezdés d) pontja szerinti nyilatkozat valóságtartalmát illetően, a rehabilitációs hatóság megkeresi a rendszeres pénzellátás folyósítására jogosult szervet, hogy megállapítsa, a kérelmező részesül-e rendszeres pénzellátásban.
+
+### 7/A. §[^53]
+
+(1) A kivételes rokkantsági ellátás iránti kérelem elbírálásakor a mérlegelés során figyelemmel kell lenni
+
+a) az egészségi állapot komplex minősítésben meghatározott mértékére,
+
+b) az előzetes biztosítás időtartamára,
+
+c) a jövedelmi helyzetre, valamint
+
+d) az egyéb különös méltánylást igénylő körülményekre.
+
+(2) Kivételes rokkantsági ellátás iránti kérelem esetén az Mmtv. 2. § (1) bekezdés a) pontjában meghatározott előzetes biztosítási időként az Mmtv. 13/A. § (1) bekezdés c) pontja szerinti végleges döntésben meghatározott előzetes biztosításban töltött időt kell figyelembe venni.
+
+### 7/B. §[^54]
+
+(1)[^55] A kivételes rokkantsági ellátás megállapítására rendelkezésre álló keretösszeg megosztásáról a szociálpolitikáért felelős miniszter dönt.
+
+(2)[^56] A szociálpolitikáért felelős miniszter az (1) bekezdésben meghatározott döntéséről a tárgyévet megelőző év november 30-áig tájékoztatja a rehabilitációs hatóság vezetőjét. A rehabilitációs hatóság a szociálpolitikáért felelős miniszter által meghatározott összeget nem lépheti túl.
+
+(3)[^57]
+
+### 8. §[^58]
+
+A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásai megállapítása során a központi nyugdíjbiztosítási szerv által jóváhagyott központi szakmai informatikai rendszert köteles használni. A központi nyugdíjbiztosítási szerv – az NSZI szakmai közreműködésével – működteti és fejleszti a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszert.
+
+### 8/A. §[^59]
+
+A 2025. december 31-ét követő kezdő időponttól megállapított rokkantsági vagy rehabilitációs ellátásra való jogosultság esetén az Mmtv. 9. és 12. §-a szerinti alapösszeg 147 175 forint.
+
+### 9. §[^60]
+
+A rehabilitációs hatóságot a közigazgatási ügyekben eljáró bíróság határozatának rendelkező része és indokolása abban az esetben is köti, ha a bíróság a kereset elutasításáról döntött.
+
+### 10. §
+
+(1)[^61] A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátása megállapítása esetén a döntésében felhívja
+
+a) az ellátásban részesülő személyt az értesítési kötelezettség teljesítésére, egyben tájékoztatja az értesítési kötelezettség elmulasztásának jogkövetkezményeiről és
+
+b) a rehabilitációs ellátásban részesülő személyt az együttműködési kötelezettség – ennek keretében a 16. § (1) bekezdése szerinti kötelezettség – teljesítésére, egyben tájékoztatja az együttműködési kötelezettség megszegésének jogkövetkezményeiről.
+
+(2)[^62] A rokkantsági ellátásban részesülő személy az Mmtv. 17. § (1) bekezdésében foglalt értesítési kötelezettségét a rehabilitációs hatóság felé teljesíti.
+
+(3)[^63] A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak folyósítását, illetve a folyósítás felfüggesztését érintő döntését vagy a 14. § (1a) bekezdésében foglalt esetben az elektronikus adatállományt haladéktalanul megküldi a nyugdíjfolyósító szervnek.
+
+(4)[^64] A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatai alapján az ellátás jogosultjának adatairól, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
+
+### 10/A. §[^65]
+
+Az Mmtv. 7. § (6) bekezdése alapján a rehabilitációs ellátás akkor állapítható meg ismételten, ha a komplex minősítés során megállapítják, hogy a rehabilitáció lehetséges irányában vagy az orvosi, foglalkozási és szociális rehabilitációs szükségletek tekintetében a korábbi rehabilitációs ellátás megállapítását megalapozó komplex minősítésben foglaltakhoz képest változás következett be.
+
+## 5. [^66] A komplex minősítésre, valamint a rehabilitációs és orvosszakértői feladatok ellátására vonatkozó eljárási szabályok
+
+### 11. §
+
+Ezen alcímben foglalt rendelkezéseket akkor kell alkalmazni, ha az adott ügytípusra, eljárásra vagy vizsgálatra vonatkozóan jogszabály másként nem rendelkezik.
+
+### 12. §
+
+A rehabilitációs hatóság jogszabályban meghatározott esetben komplex minősítést végez. A rehabilitációs hatóság a komplex minősítést jogszabályban meghatározott esetben az érintett személy kérelmére végzi el, és hatósági bizonyítványt állít ki annak eredményéről. A rehabilitációs hatóság erre irányuló kérelem esetén a komplex minősítés keretében szakvéleményt ad a közlekedőképességről is.
+
+### 13. §
+
+(1) A rehabilitációs hatóság, a rehabilitációs szakértői szerv és az orvosszakértői szerv (ezen alcím alkalmazásában a továbbiakban együtt: szakértői szerv) bizottsági állásfoglalás alapján hozza meg döntését, szakvéleményét, illetve vizsgálja az e rendelet vagy más jogszabály alapján a feladatkörébe tartozó szakkérdést.
+
+(2)[^67] A szakértői bizottság tagjait és elnökét a szakértői szerv vezetője jelöli ki. A szakértői bizottság elnöke – amennyiben kormányzati szolgálati jogviszonyban áll – legalább az osztályvezetővel azonos illetményben és juttatásokban részesül.
+
+(3)[^68] A szakértői bizottság legalább két tagból áll. A szakértői bizottság komplex minősítés esetén legalább három tagból áll. A szakértői bizottságban a nem orvosszakértő tagok száma nem haladhatja meg az orvosszakértő tagok számát.
+
+(4) A komplex minősítés során a szakértői bizottság
+
+a) legalább két tagja orvosszakértő,
+
+b) legalább egy tagja foglalkozási rehabilitációs szakértő,
+
+c)[^69]
+
+(5) A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz a hatósági vagy szakértői eljárásba vont személy (a továbbiakban: érintett személy) gyógykezelésében, szociális gondozásában.
+
+(6)[^70] A szakértői szerv kormányzati szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
+
+(7)[^71] Ha a komplex minősítés során
+
+a) a szakértői bizottság orvosszakértő tagjai között az egészségi állapot vagy az önellátási képesség orvosszakmai szempontú megítélése, illetve
+
+b) a szakértői bizottság tagjai között a rehabilitáció lehetséges iránya, a rehabilitációs szükségletek vagy rehabilitációhoz szükséges időtartam
+
+tekintetében nincs egyetértés, a bizottság elnöke dönt.
+
+### 13/A. §
+
+(1)[^72] A megkereső hatóság a szakértői szerv rendelkezésére bocsátja a szakkérdés vizsgálatához szükséges 6. § (6) bekezdése szerinti iratokat vagy azok másolatát, továbbá a jogszabály vagy az eljáró hatóság által rendszeresített formanyomtatványt és nyilatkozatot.
+
+(2)[^73] A komplex minősítés során, valamint a 22/F. § szerinti esetben a szakértői szerv a települési önkormányzat jegyzőjétől tájékoztatást kérhet az érintett személy szociális helyzetére, szociális ellátásra való jogosultságára vonatkozó adatokról, körülményekről.
+
+### 13/B. §
+
+(1) A szakértői szerv a személyes vizsgálatot mellőzheti, ha
+
+a) a szakértői szerv vagy jogelődje által kiállított, az érintett személy rendelkezésére álló szakvéleményben, szakhatósági állásfoglalásban vagy határozatban foglaltak szerint az érintett személy állapota végleges,
+
+b) a szakértői szerv vagy jogelődje által kiállított, az érintett személy rendelkezésére álló szakvélemény, szakhatósági állásfoglalás vagy határozat időbeli hatálya alatt kerül sor az újabb minősítésre, vagy
+
+c) az érintett személy állapota a rendelkezésre álló orvosi dokumentáció, egyéb irat alapján megalapozottan megítélhető.
+
+(1a)[^74] Ha a komplex minősítés keretében az egészségi állapot, valamint az önellátási képesség orvosszakmai szempontú vizsgálata során megállapításra kerül, hogy a vizsgált személy
+
+a) egészségi állapota 1–30% között van, és orvosszakmai szempontból önellátásra képes, vagy orvosszakmai szempontból önellátásra nem vagy csak segítséggel képes, a rehabilitálhatóság foglalkozási és szociális szempontú vizsgálatát nem kell elvégezni,
+
+b)[^75] egészségi állapota 31–60% között van, a rehabilitálhatóság foglalkozási és szociális szempontú vizsgálatát a rendelkezésre álló iratok alapján is el lehet végezni, ha a vizsgált személy ehhez a szociálpolitikáért felelős miniszter által rendszeresített nyilatkozat kitöltésével hozzájárul.
+
+(1b)[^76] Ha a vizsgált személy rendelkezik olyan hatályos, 2011. december 31-ét követően kiállított határozattal, szakhatósági állásfoglalással vagy szakvéleménnyel,
+
+a) amely értelmében egészségkárosodásának mértéke legalább 40%-os, és
+
+b) amely alapján – és a csatolt orvosi dokumentumok figyelembevételével – az egészségi állapot megalapozottan megítélhető,
+
+az egészségi állapot, valamint az önellátási képesség orvosszakmai szempontú vizsgálatára vonatkozó minősítést a rendelkezésre álló iratok alapján kell elvégezni.
+
+(2) A személyes vizsgálatot a (3)–(5) bekezdésben meghatározott kivételekkel a szakértői szerv székhelyén vagy telephelyén kell elvégezni. Ha a minősítés az (1) bekezdésben foglaltak szerint a személyes vizsgálat mellőzésével történik, azt az ügyben illetékes szakértői szervtől eltérő szakértői szerv is elvégezheti.
+
+(3)[^77] A személyes vizsgálatot kivételesen, az érintett személy hozzájárulása esetén az illetékes szakértői szervvel szomszédos vármegyében működő szakértői szerv is elvégezheti, ha annak székhelyén vagy telephelyén történő megjelenés az érintett személy számára nem jelent aránytalan terhet.
+
+(3a)[^78] Amennyiben Budapest Főváros Kormányhivatala másodfokú hatóságként jár el, és az eljárás során az egészségi állapot, egészségkárosodás vagy fogyatékosság szakkérdését kell vizsgálni, a személyes vizsgálatot Budapest Főváros Kormányhivatala, vagy – Budapest Főváros Kormányhivatala megkeresése alapján – az az 5. melléklet szerinti kormányhivatal végzi el, amelynek székhelyén vagy telephelyén való megjelenés az érintett személy számára a legkedvezőbb.
+
+(4) A személyes vizsgálat az érintett személy lakó- vagy tartózkodási helyén is elvégezhető, ha a minősítéshez a lakhatási viszonyainak, környezetének, önellátási vagy önkiszolgálási képességének megismerése szükséges.
+
+(5) A személyes vizsgálatot az érintett személy lakó- vagy tartózkodási helyén kell elvégezni, ha a háziorvosa indoklással ellátott igazolást ad arról, hogy állapota nem teszi lehetővé a szakértői szerv székhelyén vagy telephelyén való megjelenést. A háziorvosnak az igazoláshoz mellékelnie kell a vizsgálati jogcím szerinti, az igény benyújtásakor fennálló egészségi állapotot igazoló szakorvosi leleteket is.
+
+(6) Ha a rendelkezésre álló orvosi dokumentáció, egyéb iratok között, vagy az iratok és a személyes vizsgálat megállapításai között ellentmondás merül fel, a komplex minősítés során eljáró orvosszakértő kiegészítő orvosi vizsgálatot rendelhet el.
+
+(7) Komplex minősítés esetén a rehabilitációs hatóság a rehabilitációs javaslat elkészítéséhez képességfelmérő vizsgálatot végezhet.
+
+(8) A kiegészítő egészségügyi és a képességfelmérő vizsgálat elvégzésére a szakértői szerv együttműködési megállapodást köthet a megfelelő személyi és tárgyi feltételekkel rendelkező szolgáltatóval.
+
+### 13/C. §
+
+A szakértői szerv által kiadott szakvéleményben, illetve a szakkérdés vizsgálata során rögzíteni kell
+
+a) az érintett személy azonosítására szolgáló, törvény alapján kezelhető azonosító adatokat,
+
+b) az érintett személy egészségi állapotára vonatkozó, törvény alapján kezelhető egészségügyi adatokat,
+
+c) a szakvélemény kiállításának, a szakkérdés vizsgálatának helyét, időpontját,
+
+d) a szakvéleményt kérő szerv megnevezését,
+
+e) a vizsgálat típusát, a vizsgált kérdéseket és az azokra adott válaszokat,
+
+f) a vizsgálat során felhasznált dokumentumok és az elvégzett vizsgálatok megjelölését, személyes vizsgálat és meghallgatás esetén annak időpontját és helyszínét,
+
+g) a felülvizsgálat szükségességét, időpontját, valamint
+
+h) a szakvélemény időbeli hatályát.
+
+## 6. [^79] A megváltozott munkaképességű személyek ellátásainak folyósítása és a folyósítás felfüggesztése
+
+### 14. §
+
+(1)[^80] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról az azonosítás célját szolgáló folyósítási törzsszám alatt, – az (1a) bekezdésben meghatározott kivételekkel – a döntés vele való közlését követő tíz munkanapon belül gondoskodik.
+
+(1a)[^81] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tíz munkanapon belül gondoskodik
+
+a)[^82] a rehabilitációs és rokkantsági ellátást megállapító határozat,
+
+b) az Mmtv. 16/A. §-a alapján előleg megállapításáról hozott végzés,
+
+c) a rehabilitációs ellátás folyósítását felfüggesztő határozat, valamint
+
+d) az Mmtv. 19. § (1a) bekezdése és 38/C. §-a alapján a rokkantsági ellátás továbbfolyósításáról hozott döntés
+
+esetében.
+
+(1b)[^83] A megváltozott munkaképességű személyek ellátásainak folyósítására egyebekben az öregségi nyugdíj folyósítására vonatkozó szabályokat kell alkalmazni azzal, hogy a folyósítással összefüggő döntéseket – a nyugdíjfolyósító szerv értesítése alapján – a rehabilitációs hatóság hozza meg.
+
+(2)[^84] A nyugdíjfolyósító szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 75/B. §-a szerinti tájékoztatással egyidejűleg értesítést küld a megváltozott munkaképességű személyek ellátásában részesülő személynek az ellátás tárgyév január hónapban járó összegéről és az előző évben kiutalt ellátás összegéről.
+
+### 15. §[^85]
+
+(1)[^86] A rehabilitációs pénzbeli ellátás folyósításának Mmtv. 7. § (4) bekezdése szerinti felfüggesztéséről a rehabilitációs hatóság dönt.
+
+(2)[^87] A nyugdíjfolyósító szerv az (1) bekezdésben meghatározott esetben a rehabilitációs pénzbeli ellátás folyósítását a döntésben meghatározott időtartamra felfüggeszti.
+
+(3) A rehabilitációs pénzbeli ellátás folyósításának felfüggesztését követően az ellátást az időközi emelésekkel növelt összegben kell ismételten folyósítani.
+
+## 7. A rehabilitációs ellátásban részesülő személy együttműködési kötelezettsége
+
+### 16. §
+
+(1)[^88] A rehabilitációs ellátásban részesülő személy a határozat közlésétől számított 10 napon belül megkeresi a rehabilitációs hatóságot az együttműködési kötelezettség teljesítése érdekében. A határidő elmulasztása esetén igazolási kérelem előterjeszthető.
+
+(2)[^89] A rehabilitációs ellátásban részesülő személy az Mmtv. 17. § (3) bekezdése szerinti értesítési kötelezettségét a rehabilitációs hatóság felé teljesíti. A keresőtevékenységről szóló értesítéssel egyidejűleg a rehabilitációs ellátásban részesülő személy a munkaszerződés bemutatásával igazolja a munkaadó, foglalkoztató megnevezését, székhelyét és telephelyét.
+
+(3)[^90] A rehabilitációs ellátásban részesülő személy 10 napon belül értesíti a rehabilitációs hatóságot a 90 napi egybefüggő keresőképtelenségéről, vagy ha rendszeres pénzellátásban részesül.
+
+(4)[^91] A rehabilitációs ellátásban részesülő személy 90 napi egybefüggő keresőképtelensége esetén a rehabilitációs hatóság elvégzi a jogosult felülvizsgálatát.
+
+## 8. [^92] A rehabilitációs hozzájáruláshoz kapcsolódó rehabilitációs mentori tevékenység
+
+### 17. §
+
+Az Mmtv. 22/A. § (2) bekezdésének alkalmazása során rehabilitációs mentori tevékenységnek a 2. melléklet 1.5. pontjában meghatározott feladatok ellátását kell tekinteni, feltéve, hogy a rehabilitációs mentor megfelel a 3. melléklet I. pont 1. alpontjában előírt képesítési előírásoknak.
+
+## 9. A rehabilitációs szolgáltatások
+
+### 19. §[^94]
+
+(1) A rehabilitációs szolgáltatások a megváltozott munkaképességű személyeknek nyújtott rehabilitációs célú orvosi és szociális szolgáltatások, valamint a megváltozott munkaképességű személyeknek nyújtott foglalkozási rehabilitációs szolgáltatások.
+
+(2) Az orvosi rehabilitációs szolgáltatások az egészségügyről szóló 1997. évi CLIV. törvény 100. § (4) és (5) bekezdésében foglalt szolgáltatások, figyelembe véve az Ebtv. által előírt, az orvosi rehabilitáció keretében nyújtható szolgáltatásokat.
+
+(3) A szociális rehabilitációs szükségleteket és a hozzájuk kapcsolódó, a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti szociális szolgáltatásokat az 1. melléklet tartalmazza.
+
+(4) A foglalkozási rehabilitációs szolgáltatások biztosítják a megváltozott munkaképességű személy egészségi állapotának, képességeinek és készségeinek, szükségleteinek megfelelő munkahelyen történő tartós munkavégzésre való felkészítését, a rehabilitációs célú munkaközvetítést, és segítik a megfelelő munkahely megtartását.
+
+(5) A foglalkozási rehabilitációs szolgáltatások formáit a 2. melléklet tartalmazza.
+
+(6)[^95] A foglalkozási rehabilitációs szolgáltatások koordinációjával, fejlesztésével kapcsolatos feladatokat az NSZI látja el, ennek keretében a foglalkozási rehabilitációval összefüggő oktatási – ide nem értve az 1. § (7) bekezdése szerinti tevékenységet –, innovációs, tárolási, logisztikai, nyilvántartási és informatikai tevékenységet is végez.
+
+### 20. §[^97]
+
+(1) A rehabilitációs mentori tevékenység
+
+a) a rehabilitációs hatóságnál foglalkoztatott mentor vagy
+
+b) az akkreditált foglalkozási rehabilitációs szolgáltatónál foglalkoztatott mentor
+
+bevonásával biztosítható.
+
+(2) Az (1) bekezdés a) pontja szerinti rehabilitációs mentor biztosítja
+
+a) a megváltozott munkaképességű személy számára
+
+aa) a rehabilitációs szolgáltatások igénybevételével és az önálló munkába állással összefüggő teljes körű információnyújtást,
+
+ab) az állásfeltárást,
+
+ac) a beilleszkedéshez történő segítségnyújtást,
+
+ad) a rendszeres kapcsolattartást, amely során figyelemmel kíséri a mentális, fizikai és egészségi állapotát, és közreműködik az akadályok elhárításában, és
+
+b) a munkaadókkal való együttműködést a megváltozott munkaképességű személyek munkaerő-piaci integrációja és a munkaadók befogadóvá válása érdekében.
+
+(3) Az (1) bekezdés a) pontja szerinti rehabilitációs mentort foglalkoztató rehabilitációs hatóság a mentori szolgáltatás biztosítása során – a szolgáltatások összehangolása érdekében – együttműködik a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló Korm. rendelet szerinti mentori szolgáltatást biztosító állami foglalkoztatási szervvel.
+
+(4) Ha az (1) bekezdés b) pontja szerinti rehabilitációs mentori tevékenység hazai vagy uniós forrásból finanszírozott, a mentor köteles a 2. mellékletben meghatározott feladatok ellátásáról rehabilitációs naplót vezetni, és tevékenységéről a szolgáltató útján a rehabilitációs hatóságnak, illetve a támogatást nyújtónak az általuk meghatározott formában és rendszerességgel beszámolni.
+
+(5) Ha a komplex minősítés során a foglalkozási rehabilitációs szakértő a rehabilitálhatónak minősített személy részére rehabilitációs mentori szolgáltatás biztosítását javasolja, a rehabilitációs hatóság az érintett, keresőtevékenységet nem végző személy kérésére rehabilitációs mentort jelöl ki.
+
+### 21. §[^98]
+
+(1)[^99] Az Mmtv. alapján a rehabilitációs szolgáltatást önként kérő megváltozott munkaképességű személy (a továbbiakban: a rehabilitációs szolgáltatást kérő személy) a lakóhelye vagy tartózkodási helye szerint illetékes rehabilitációs hatóságnál kérheti az Mmtv. szerinti nyilvántartásba vételét.
+
+(2)[^100] A rehabilitációs hatóság a rehabilitációs szolgáltatást kérő személyt nyilvántartásba veszi, és részére foglalkozási rehabilitációs szolgáltatást biztosít, ha vállalja a foglalkozási rehabilitációs szolgáltatás igénybevétele során a rehabilitációs hatósággal történő együttműködést.
+
+(2a)[^101] Ha a rehabilitációs szolgáltatást kérő, keresőtevékenységet nem végző személy a rehabilitációs szolgáltatás keretében mentori szolgáltatást kér, és ezt a komplex minősítés során a foglalkozási rehabilitációs szakértő javasolta, a rehabilitációs hatóság rehabilitációs mentort jelölhet ki, feltéve, hogy a rehabilitációs mentori szolgáltatást kérő személy vállalja vagy korábban vállalta a (2) és (4) bekezdés szerinti együttműködést.
+
+(3)[^102] A rehabilitációs hatóság a 2. melléklet szerinti rehabilitációs szolgáltatások közül a kizárólag foglalkozási rehabilitációs célú munkaközvetítést kérő személyt (a továbbiakban: rehabilitációs közvetítést kérő személy) közvetítést kérőként veszi nyilvántartásba.
+
+(4)[^103] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatósággal történő együttműködésre köteles, amelynek keretében
+
+a) igénybe veszi a rehabilitációját segítő, felajánlott foglalkozási rehabilitációs szolgáltatásokat és képzési lehetőséget – a rehabilitációs közvetítést kérő személy esetén a foglalkozási rehabilitációs célú munkaközvetítést –, tájékoztatást ad annak megvalósulásáról, illetve meghiúsulásának okairól,
+
+b) teljesíti az (5) bekezdés szerinti bejelentési kötelezettségét, valamint
+
+c)[^104] kapcsolatot tart a rehabilitációs hatósággal.
+
+(5)[^105] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatóságnak 10 napon belül bejelenti, ha
+
+a) a természetes személyazonosító adatai megváltoztak,
+
+b) keresőtevékenységet folytat,
+
+c) keresőtevékenysége megszűnt, vagy
+
+d) rajta kívülálló körülmények miatt az együttműködési kötelezettségének nem tud eleget tenni.
+
+(6) A rehabilitációs szolgáltatást kérő személy az együttműködési kötelezettségét az adatainak a nyilvántartásból való törléséig teljesíti.
+
+### 21/A. §[^106]
+
+(1) A foglalkozási rehabilitációs szolgáltatások igénybevételéhez a rehabilitációs ellátásban részesülő személy és a rehabilitációs szolgáltatást kérő személy (a továbbiakban együtt: rehabilitációs szolgáltatásban részesülő személy) számára támogatás nyújtható.
+
+(2)[^107] Az NSZI a rendelkezésre álló források és a támogatásra jogosultak foglalkozási rehabilitációs igényei – így különösen a tartós munkaerő-piaci visszailleszkedéshez szükséges foglalkozási rehabilitációs fejlesztések, támogatások és az egyéni foglalkozási rehabilitációs tervekben meghatározott rehabilitációs szolgáltatások – alapján minden év január 15-éig az általa üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható foglalkozási rehabilitációs szolgáltatások (a továbbiakban: támogatható szolgáltatás) és a támogatható szolgáltatás igénybevételének különböző feltételeit.
+
+(3)[^108] A rehabilitációs szolgáltatásban részesülő személy – a támogatási programtól függően – az NSZI-vel, vagy a rehabilitációs hatósággal együtt választja ki a rehabilitációs szolgáltatásban részesülő személy foglalkozási rehabilitációs szükségleteinek megfelelő, támogatható szolgáltatást. Az NSZI, illetve a rehabilitációs hatóság tájékoztatja a rehabilitációs szolgáltatásban részesülő személyt azokról az akkreditált, foglalkozási rehabilitációs szolgáltatókról (a továbbiakban: akkreditált szolgáltató), amelyek a kiválasztott támogatható szolgáltatást biztosítják. Ha a kiválasztott támogatható szolgáltatást több akkreditált szolgáltató is nyújtja, ezek közül a rehabilitációs szolgáltatásban részesülő személy választja ki a számára megfelelő akkreditált szolgáltatót.
+
+(4)[^109] Ha az NSZI a rehabilitációs szolgáltatásban részesülő személy által választott foglalkozási rehabilitációs szolgáltatás után – a rendelkezésre álló források, az igények területi eloszlása és a rehabilitációs szolgáltatás szükségessége alapján – támogatást állapít meg, arról a rehabilitációs szolgáltatásban részesülő személlyel támogatási szerződést köt. A támogatási szerződés mellékletét képezi a rehabilitációs szolgáltatásban részesülő személy és az akkreditált szolgáltató által aláírt engedményezési megállapodás, amelyben a részére megállapított támogatásra vonatkozó követelését engedményezi az általa kiválasztott akkreditált szolgáltatóra.
+
+(5)[^110] Ha legalább egy rehabilitációs szolgáltatásban részesülő személy az akkreditált szolgáltatótól támogatható szolgáltatást kíván igénybe venni, és ahhoz az NSZI támogatást állapított meg, az NSZI az akkreditált szolgáltatóval együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza különösen
+
+a) a támogatott szolgáltatásokat, azok időtartamát és feltételeit,
+
+b) a támogatás folyósításának feltételeit és ütemezését,
+
+c)[^111] az akkreditált szolgáltató és az NSZI egyéb kötelezettségvállalásait, és
+
+d) a megállapodás megszegésének következményeit.
+
+(6)[^112] Az NSZI a támogatást a rehabilitációs szolgáltatásban részesülő személy nevére kiállított számla alapján az együttműködési megállapodásban foglaltak szerint az akkreditált szolgáltatónak folyósítja.
+
+## 10. [^113] A foglalkozási rehabilitációs szolgáltatók akkreditációjának szabályai
+
+### 21/B. §
+
+(1)[^114] A foglalkozási rehabilitációs szolgáltatók akkreditációjával, az akkreditált szolgáltatók nyilvántartásával és az akkreditált szolgáltatók ellenőrzésével összefüggő hatósági feladatokat Budapest Főváros Kormányhivatala látja el. E feladatok tekintetében felügyeleti szervként a szociálpolitikáért felelős miniszter jár el.
+
+(2)[^115] Az egyéni vállalkozó, a gazdasági társaság, a szövetkezet, az egyesület és az alapítvány kérheti a foglalkozási rehabilitációs szolgáltatóként történő akkreditációját. Az akkreditáció feltételeit a 3. melléklet tartalmazza.
+
+(3)[^116] Az akkreditáció iránti kérelmet a Budapest Főváros Kormányhivatala által rendszeresített és a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületen közzétett adatlapon és elektronikus űrlapon kell benyújtani.
+
+(4) Az adatlap és az elektronikus űrlap tartalmazza
+
+a)[^117] a kérelmező nevét, székhelyét, telephelyét, cégjegyzékszámát, adószámát, pénzforgalmi jelzőszámát, egyéni vállalkozó esetén a nyilvántartási számát, a cégbejegyzésre nem kötelezett szervezet esetén a bírósági nyilvántartásba vételi számát,
+
+b) a kérelmező képviselőjének nevét, beosztását és elérhetőségét,
+
+c) a kérelmező által nyújtandó foglalkozási rehabilitációs szolgáltatások adatait,
+
+d) az akkreditációhoz szükséges feltételekről szóló nyilatkozatokat.
+
+(5) A kérelemhez csatolni kell
+
+a) valamennyi kérelmező esetén
+
+aa) a kiégés elleni programot, és
+
+ab) a 3. melléklet szerinti rehabilitációs szolgáltatási tervet, továbbá
+
+b) egyéni vállalkozó esetén az egyéni vállalkozó közjegyző által hitelesített aláírásmintáját, valamint
+
+ba)[^118]
+
+bb) az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változásbejelentésről kiadott, a kérelmező hatályos adatait tartalmazó igazolások másolatát, vagy
+
+bc) a kérelmezőnek az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, 3 hónapnál nem régebbi hatósági bizonyítványt,
+
+c) gazdasági társaság és szövetkezet esetén
+
+ca) az egységes szerkezetbe foglalt, hatályos létesítő okirat másolatát, és
+
+cb) a képviselő közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, a (7) bekezdésben foglaltak kivételével,
+
+d) egyesület és alapítvány esetén
+
+da) az egységes szerkezetbe foglalt, hatályos létesítő okirat másolatát, és
+
+db) a bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, és
+
+dc) az egyesület és az alapítvány írásbeli képviseletére jogosult személy közjegyző által hitelesített aláírásmintáját.
+
+(6) Ha a kérelmező nem csatolja
+
+a)[^119] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
+
+b)[^120] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
+
+szerzi be, illetve ellenőrzi.
+
+(7)[^121] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(8)[^122] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
+
+### 21/C. §
+
+(1)[^123] Az akkreditáció iránti kérelemről a Budapest Főváros Kormányhivatala dönt.
+
+(2)[^124] A Budapest Főváros Kormányhivatala a kérelemnek helyt ad, ha
+
+a) a kérelmező, valamint az általa benyújtott kérelem és mellékletei megfelelnek az e kormányrendeletben foglalt feltételeknek,
+
+b) a kérelmező köztartozásmentes adózónak minősül,
+
+c) nem áll fenn olyan körülmény, amely az akkreditáció visszavonását tenné szükségessé,
+
+d)[^125] a kérelmező biztosítja a 2. melléklet szerinti valamennyi foglalkozási rehabilitációs szolgáltatást,
+
+e) a kérelmező a kérelem benyújtását megelőzően legalább 1 éve nyújt munkaerőpiaci-szolgáltatást, és az általa nyújtott szolgáltatások igénybevevőinek éves elhelyezkedési mutatója (munkát vállaló megváltozott munkaképességű ügyfél és az összes megváltozott munkaképességű ügyfél aránya) az akkreditációt megelőző évben igazolható módon meghaladja a 30%-ot,
+
+f) a kérelmező tárgyévi rehabilitációs szolgáltatási tervét a 4. mellékletben meghatározott értékelési szempontok alapján megfelelőnek minősíti.
+
+(3)[^126] Budapest Főváros Kormányhivatala a kérelemnek helyt adó döntés esetén a határozat véglegessé válásával egyidejűleg az akkreditált szolgáltató számára külön okiratban akkreditációs tanúsítványt állít ki, amely visszavonásig érvényes. A szolgáltatói akkreditációs tanúsítvány tartalmazza az akkreditált szolgáltató nevét, székhelyét, telephelyét és nyilvántartási számát.
+
+### 21/D. §
+
+(1)[^127] Az akkreditált szolgáltató köteles 10 napon belül bejelenteni a Budapest Főváros Kormányhivatalának, ha
+
+a)[^128] az Mmtv. 21/B. § (1) bekezdésében meghatározott nyilvántartásban szereplő adatai megváltoznak,
+
+b) olyan körülmény következett be, amely az akkreditációt kizárja, az akkreditáció visszavonását teszi szükségessé, vagy az akkreditáció alapjául szolgáló feltételek egyébként lényegesen megváltoznak, vagy
+
+c) a foglalkozási rehabilitációs szolgáltatással felhagy.
+
+(2)[^129] A Budapest Főváros Kormányhivatala az (1) bekezdés a) pontja szerinti bejelentés alapján a nyilvántartás adatait módosítja, ha annak jogszabályi feltételei fennállnak. A Budapest Főváros Kormányhivatala új akkreditációs tanúsítványt állít ki, ha az akkreditációs tanúsítványban megjelölt adatok megváltoznak, és a Budapest Főváros Kormányhivatala az akkreditációt nem vonja vissza.
+
+(3)[^130] Az akkreditált szolgáltató a tárgyévet követő év január 15-éig megküldi a Budapest Főváros Kormányhivatalának
+
+a)[^131] az akkreditáció követelményeinek teljesítéséről, a támogatás felhasználásáról és a nyújtott foglalkozási rehabilitációs szolgáltatásokról a Budapest Főváros Kormányhivatala által meghatározott és az általa üzemeltetett elektronikus felületen közzétett szempontok alapján elkészített beszámolóját, és
+
+b) tárgyévi rehabilitációs szolgáltatási tervét.
+
+(4)[^132] A Budapest Főváros Kormányhivatala egy évközi beszámoló készítését is előírhatja.
+
+(5)[^133] A tárgyévi rehabilitációs szolgáltatási terv megfelelőségét a Budapest Főváros Kormányhivatala tárgyév február 15-éig a 4. mellékletben foglaltak szerint ellenőrzi. Ha a Budapest Főváros Kormányhivatala a tárgyévi rehabilitációs szolgáltatási tervet nem megfelelőnek minősíti, a felhívás kézhezvételétől számított 10 napos határidő kitűzésével felhívja az akkreditált szolgáltatót a tárgyévi rehabilitációs szolgáltatási terv módosítására.
+
+(6)[^134] A Budapest Főváros Kormányhivatala az akkreditáció alapjául szolgáló feltételek, valamint a foglalkozási rehabilitációs szolgáltatás nyújtásához szükséges feltételek fennállását, továbbá a szolgáltatás tartalmi elemeit az (5) bekezdésben foglaltakon túl is ellenőrizheti. Az ellenőrzés során az akkreditált szolgáltató köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat a Budapest Főváros Kormányhivatalának. Ha a Budapest Főváros Kormányhivatala jogszabálysértést vagy a foglalkozási rehabilitációs szolgáltatások nem megfelelő minőségét állapítja meg, megfelelő határidő kitűzésével felhívja az akkreditált szolgáltatót a jogszabálysértés megszüntetésére, illetve a megfelelő minőségű foglalkozási rehabilitációs szolgáltatások nyújtására.
+
+### 21/E. §
+
+(1)[^135] A Budapest Főváros Kormányhivatala visszavonja az akkreditációt, ha az akkreditált szolgáltató
+
+a) kérelmezi,
+
+b) foglalkozási rehabilitációs szolgáltatással felhagy,
+
+c) felszámolását a bíróság jogerősen elrendelte,
+
+d) végelszámolás, kényszer-végelszámolás vagy kényszertörlési eljárás hatálya alatt áll,
+
+e) az akkreditációra irányuló eljárás, illetve az ellenőrzés során olyan lényeges tényt, vagy körülményt hallgatott el, vagy olyan tényről nyilatkozott valótlan tartalommal, amely az akkreditációt kizárja, vagy visszavonását megalapozza,
+
+f) jogutód nélkül megszűnt,
+
+g) egyéni vállalkozói tevékenységre való jogosultsága megszűnt, vagy szünetel,
+
+h) körülményeiben a nyilvántartásba vételt követően olyan változás következett be, amely miatt nem felel meg az akkreditáció feltételeinek,
+
+i)[^136] ellenőrzése során feltárt hiányosságok következtében a Budapest Főváros Kormányhivatala az akkreditáció visszavonására okot adó körülményt állapít meg,
+
+j) a 21/D. § (1) bekezdés szerinti bejelentési kötelezettségének második alkalommal neki felróható okból nem, vagy késedelmesen tesz eleget,
+
+k) a 21/D. § (5) és (6) bekezdésében foglalt felszólításnak határidőben nem vagy nem megfelelően tesz eleget,
+
+l)[^137] nem köti meg az együttműködési megállapodást az NSZI-vel a 21/A. § (5) bekezdésében meghatározottak szerint.
+
+(2)[^138] A Budapest Főváros Kormányhivatala az akkreditációt
+
+a) az (1) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól,
+
+b) az (1) bekezdés b) pontja szerinti esetben a foglalkozási rehabilitációs szolgáltatás abbahagyását követő nappal,
+
+c) az (1) bekezdés c) és d) pontja szerinti esetben a bírósági döntés jogerőre emelkedésének napjával,
+
+d) az (1) bekezdés g) pontja szerinti esetben az egyéni vállalkozók nyilvántartásából való törlést követő nappal,
+
+e)[^139] az *a)–d)* pontban nem említett esetben az akkreditáció visszavonásáról rendelkező határozat véglegessé válásának napjával
+
+vonja vissza.
+
+(3)[^140] Ha az akkreditáció visszavonására az (1) bekezdés e) pontjában megjelölt okból kerül sor, az érintett foglalkozási rehabilitációs szolgáltató és jogutódja az akkreditáció iránt új kérelmet legkorábban az akkreditáció visszavonásáról rendelkező határozat véglegessé válásától számított 2 év elteltével nyújthatja be. Az ezt megelőzően benyújtott szolgáltatói akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
+
+## 10/A. [^141] A foglalkozási rehabilitációt elősegítő, képzési célú támogatások szabályai
+
+### 21/F. §
+
+(1)[^142] Az NSZI támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy foglalkozási rehabilitációt elősegítő képzéséhez (a továbbiakban: képzési célú támogatás).
+
+(2) Képzési célú támogatás a rehabilitációs szolgáltatásban részesülő személynek az elméleti és gyakorlati képzésére adható. A képzési célú támogatás a képzés megkezdéséhez szükséges felkészüléstől a képzés befejezését követő első záróvizsgára történő felkészülés időtartamáig, de legfeljebb a képzés befejezését követő 14 napig, valamint az első záróvizsga napjára adható. Javító-, utó- vagy pótvizsgához képzési célú támogatás nem adható.
+
+(3) A képzési támogatás
+
+a) a 21/G–21/I. §-ban foglaltak szerint a rehabilitációs szolgáltatásban részesülő személynek, és
+
+b) a 21/J. és 21/K. §-ban foglaltak szerint a munkaadónak
+
+nyújtható.
+
+### 21/G. §
+
+(1)[^143] Az NSZI a rehabilitációs szolgáltatásban részesülő személynek képzési célú támogatást nyújthat
+
+a)[^144] szakma megszerzéséhez,
+
+b) államilag elismert nyelvvizsga megszerzésére irányuló képzéshez,
+
+c) a szakképzés megkezdéséhez szükséges alapismereteket nyújtó oktatáshoz,
+
+d) kompetenciafejlesztő vagy munkaerő-piaci és álláskeresési ismeretek oktatásához,
+
+e) a C, D vagy E járműkategóriába vagy ezek alkategóriáiba, kombinált kategóriáiba tartozó közúti járművek vezetésére jogosító vezetői engedély, mezőgazdasági vontató vezetésére jogosító járművezetői igazolvány, továbbá II. kategóriára és trolibuszra érvényesített járművezetői engedély megszerzéséhez, tehergépkocsi és autóbuszvezetői alap- és továbbképzési képesítéshez, a veszélyes áruk szállításához szükséges engedély (ADR) kiadásához, továbbá az autóbusszal díj ellenében végzett személyszállításhoz, és az építőgép-kezelő engedély kiadásához szükséges képzéshez,
+
+f) vállalkozás indításához és működtetéséhez szükséges kompetenciák megszerzésére indított oktatáshoz, valamint vállalkozói kompetenciákat fejlesztő képzéshez.
+
+(2) Képzési célú támogatás a rehabilitációs szolgáltatásban részesülő személynek nem nyújtható
+
+a) az egyetemi, főiskolai továbbtanulásra felkészítő képzéshez, valamint
+
+b) az olyan iskolarendszerű képzéshez, amelyhez a központi költségvetési törvény normatív állami hozzájárulást állapít meg.
+
+### 21/H. §
+
+(1)[^145] Az NSZI a 21/G. § szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személynek a következő képzési célú támogatásokat nyújthatja:
+
+a) a képző intézmény által megállapított képzési költséghez nyújtott támogatás,
+
+b) költségtérítés a képzés megkezdéséhez szükséges szakmai alkalmassági vizsgálathoz,
+
+c) megélhetést biztosító támogatás,
+
+d) a képzéshez kapcsolódó helyi és a helyközi utazás költségének vagy a saját gépjárművel történő utazás költségének a megtérítése.
+
+(2)[^146] Az NSZI a képző intézmény által megállapított képzési költség egészéhez vagy annak egy részéhez képzési célú támogatást nyújthat
+
+a) az oktatók részére fizetett ellenértékre és annak járulékaira,
+
+b) az elméleti és gyakorlati képzés során felhasznált anyagok és energia költségeire,
+
+c) az amortizáció használattal arányosan elszámolható költségeire,
+
+d) a rehabilitációs szolgáltatásban részesülő személy számára biztosított munkaruha, védőfelszerelés költségeire,
+
+e) a tananyagfejlesztés arányos költségeire,
+
+f) a (3) bekezdésben nem említett alkalmassági vizsgálat költségeire,
+
+g) a gyakorlati képzést bonyolító munkaadónak a rehabilitációs szolgáltatásban részesülő személy megváltozott munkaképességéből adódó többletköltségeire,
+
+h)[^147] legfeljebb a teljes támogatott képzési költség 20 százalékáig egyéb, a képzés megszervezésével, lebonyolításával, értékelésével kapcsolatos költségekre, így különösen bérleti díjra, adminisztrációs költségekre,
+
+i) a jogszabályban meghatározott vizsga- és vizsgáztatási díjhoz, kivéve a pótvizsga díja,
+
+j)[^148] a képzés során felhasznált, a hallgatóknak véglegesen átadott tankönyvek, taneszközök költségéhez.
+
+(3)[^149] Az NSZI képzési célú támogatást nyújthat az általa kiállított beutalóban szereplő, a képzés megkezdéséhez szükséges – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletben meghatározott – képzést megelőző szakmai alkalmassági vizsgálat költségeinek egészéhez vagy annak egy részéhez.
+
+(4)[^150] Az NSZI megélhetést biztosító támogatást nyújthat, ha a megváltozott munkaképességű személy
+
+a) nem áll munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban,
+
+b) a képzés időtartama az elméleti és gyakorlati oktatás időszakában hetente átlagosan legalább a húsz órát eléri, és
+
+c) a képzésen igazolt módon részt vesz.
+
+(5)[^151] A megélhetést biztosító támogatás összege
+
+a)[^152] a 21/G. § (1) bekezdés a) és b) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 75%-a,
+
+b)[^153] a 21/G. § (1) bekezdés c)–f) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 50%-a,
+
+azzal, hogy a megélhetést biztosító támogatás és a rehabilitációs szolgáltatásban részesülő személy rehabilitációs ellátásának vagy rokkantsági ellátásának együttes összege nem haladhatja meg a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegét.
+
+(6) A megélhetést biztosító támogatás több részletben kerül folyósításra az alábbiak szerint:
+
+a) a képzés időtartamára járó teljes támogatás 60%-a havi egyenlő részletekben, továbbá
+
+b) a képzés sikeres elvégzését, lezárását követően a megállapított teljes támogatás 40%-a egy összegben.
+
+(7)[^154] Az NSZI képzési célú támogatást nyújthat a ténylegesen felmerülő és a képzéshez kapcsolódó helyi és a helyközi utazás költségének egészéhez vagy annak egy részéhez. Az NSZI az utazási időt és a várható költségeket figyelembe véve dönt az utazási költségek támogatásának a mértékéről.
+
+(8)[^155] Mozgásában korlátozott személy parkolási igazolványával rendelkező, rehabilitációs szolgáltatásban részesülő személy esetén az NSZI a rehabilitációs szolgáltatásban részesülő személy vagy házastársának, élettársának tulajdonában lévő gépjármű használatára is nyújthat képzési célú támogatást. A képzési célú támogatás a lakóhely, tartózkodási hely és a képzés helye közötti legrövidebb útvonal szerinti futásteljesítményre, a személyi jövedelemadóról szóló szabályok alkalmazásával meghatározott amortizációs normaköltség és üzemanyagköltség egészéhez vagy annak egy részéhez nyújtható.
+
+### 21/I. §
+
+(1)[^156] Az NSZI – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig az NSZI által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/G. és 21/H. § szerinti – képzések (a továbbiakban: támogatható képzések) adatait és a képzési célú támogatás igénybevételének feltételeit.
+
+(2)[^157] A képző intézmények az NSZI által üzemeltetett elektronikus felületen folyamatosan jelenthetik be, ha támogatható képzést nyújtanak. Az NSZI a bejelentkező, támogatható képzést nyújtó képző intézmények és az általuk nyújtott támogatható képzések adatait az NSZI által üzemeltetett elektronikus felületen közzéteszi.
+
+(3)[^158] A rehabilitációs szolgáltatásban részesülő személy és az NSZI együtt választja ki a rehabilitációs szolgáltatásban részesülő személy foglalkozási rehabilitációs szükségleteinek megfelelő képzési irányt. Ezt követően az NSZI tájékoztatja a megváltozott munkaképességű személyt azokról a képző intézményekről, amelyek a kiválasztott képzési iránynak megfelelő képzést folytatnak. Ha több az NSZI-hez bejelentkezett képző intézmény is nyújt a kiválasztott képzési iránynak megfelelő képzést, a rehabilitációs szolgáltatásban részesülő személy választja ki közülük a számára megfelelő képző intézményt.
+
+(4)[^159] Az NSZI a támogatható képzési irányoktól eltérő képzésben történő részvételt is támogathat, ha az a munkaadói igényekhez igazodik, és az ügyfél munkaerő-piaci helyzetének javításához a megszerzendő képesítés vagy új ismeret érdemben hozzájárulhat.
+
+(5)[^160] Ha az NSZI a rehabilitációs szolgáltatásban részesülő személy által választott képzés után – a rendelkezésre álló források, az igények területi eloszlása és a képzés szükségessége alapján, a (4) bekezdésben foglaltak figyelembevételével – támogatást állapít meg, arról a rehabilitációs szolgáltatásban részesülő személlyel támogatási szerződést köt. A képző intézmény által megállapított képzési költséghez nyújtott támogatás esetén a támogatási szerződés mellékletét képezi a rehabilitációs szolgáltatásban részesülő személy és a képző intézmény által aláírt engedményezési megállapodás, amelyben a személy a részére megállapított támogatásra vonatkozó követelését engedményezi az általa kiválasztott képző intézményre.
+
+(6)[^161] Ha legalább egy rehabilitációs szolgáltatásban részesülő személy a képző intézményben képzésben kíván részt venni, és ahhoz az NSZI támogatást állapított meg, az NSZI a képző intézménnyel együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza különösen
+
+a) a támogatott képzést, annak időtartamát és feltételeit,
+
+b) a támogatás folyósításának feltételeit és ütemezését,
+
+c)[^162] a képző intézmény és az NSZI egyéb kötelezettségvállalásait, és
+
+d) a megállapodás megszegésének következményeit.
+
+(7)[^163] Az NSZI a támogatást
+
+a) képző intézmény által megállapított képzési költséghez nyújtott támogatás esetén a rehabilitációs szolgáltatásban részesülő személy nevére kiállított számla alapján, az együttműködési megállapodásban foglaltak szerint a képző intézménynek,
+
+b) az *a)* pontban nem említett esetben a támogatási szerződésben foglaltak szerint a rehabilitációs szolgáltatásban részesülő személynek
+
+folyósítja.
+
+### 21/J. §
+
+(1)[^164] Az NSZI a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
+
+a) a rehabilitációs szolgáltatásban részesülő személy annak eredményeként alkalmassá válhat a munkaadó munkaerőigényében megjelölt munkakör betöltésére, és a munkakör foglalkozási rehabilitációs célú munkaerő-közvetítéssel nem tölthető be, vagy
+
+b) a rehabilitációs szolgáltatásban részesülő személy munkaviszonyban áll, de további foglalkoztatása képzés nélkül nem biztosítható, és
+
+c) a munkaadó vállalja a 21/K. § (3) bekezdésében foglalt feltételek teljesítését.
+
+(2) Munkaadónak képzési célú támogatás
+
+a) a munkakör betöltéséhez szükséges, állam által elismert szakképesítést nyújtó képzésre,
+
+b) a munkakör betöltéséhez, foglalkozás, tevékenység gyakorlásához szükséges képesítés megszerzésére irányuló képzéshez (betanító képzés), és
+
+c) a C, D vagy E járműkategóriába vagy ezek alkategóriáiba, kombinált kategóriáiba tartozó közúti járművek vezetésére jogosító vezetői engedély, mezőgazdasági vontató vezetésére jogosító járművezetői igazolvány, továbbá II. kategóriára és trolibuszra érvényesített járművezetői engedély megszerzéséhez szükséges képzéshez
+
+nyújtható.
+
+(3) Nem nyújtható támogatás olyan képzéshez, amelyről a munkaadónak jogszabály alapján kell gondoskodnia.
+
+(4) Munkaadónak csoportos képzésre is nyújtható támogatás.
+
+(5) Képzési célú támogatás a meghatározott költségekre, a képzés teljes elszámolható költségének 60 százalékáig, kis- és közepes vállalkozások esetén 70 százalékáig nyújtható. A képzési célú támogatás felsőkorlátjának kiszámítása során az európai uniós és a központi költségvetésből származó valamennyi támogatást figyelembe kell venni. A képzés fennmaradó költségei a munkaadót terhelik.
+
+(6) A képzésen részt vevőket a munkaadó választja ki a támogatásba bevonható, rehabilitációs szolgáltatásban részesülő személyek közül.
+
+### 21/K. §
+
+(1)[^165] Az NSZI – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig az NSZI által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/I. § szerinti – képzések adatait.
+
+(2)[^166] A támogatási igényt a munkaadók folyamatosan nyújthatják be. A benyújtott igényeket az NSZI a benyújtástól számított 21 napon belül bírálja el.
+
+(3)[^167] Ha az NSZI a támogatási igényt elfogadja, a munkaadóval támogatási szerződést köt. A támogatási szerződésben a munkáltató vállalja, hogy
+
+a) a 21/J. § (1) bekezdés a) pontja szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személlyel munkaviszonyt létesít, és a munkaviszonyt a képzés befejezését követően legalább a képzés időtartamának megfelelő időre fenntartja,
+
+b) a 21/J. § (1) bekezdés b) pontja szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személlyel a munkaviszonyt a képzés befejezését követően legalább a képzés időtartamának megfelelő időre fenntartja.
+
+(4)[^168] Az NSZI a képzési célú támogatást a támogatási szerződésben foglaltak szerint folyósítja a munkaadónak.
+
+## 11. [^169] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
+
+### 22. §[^170]
+
+A megváltozott munkaképességű személyek ellátásában részesülő személy halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla pozitív számlaegyenlege terhére és mértékéig történő visszafizetésére a pénzforgalmi szolgáltatót a rehabilitációs hatóság kötelezi, feltéve, hogy a fizetési számla feletti rendelkezésre más személy nem jogosult. Amennyiben a fizetési számla felett rendelkezésre jogosult személy ismert, a rehabilitációs hatóság a követelését – fizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt személy fizetési számlájáról még nem vették fel.
+
+### 22/A. §[^171]
+
+(1)[^172] Az Ebtv. 66. § (1) bekezdésének alkalmazása során a visszafizetési kötelezettséget az erről szóló határozat keltétől visszamenőleg számított 90 napon belül jogalap nélkül felvett ellátásra kell elrendelni.
+
+(2) A visszafizetésre kötelezés iránti eljárást hivatalból meg kell szüntetni, ha a megváltozott munkaképességű személyek ellátásában részesülő meghalt, és az örökös a Magyar Állam.
+
+### 22/B. §[^173]
+
+Az Ebtv. 66. § (2) bekezdése szerinti felróhatóságot a rehabilitációs hatóságnak kell bizonyítania.
+
+### 22/C. §[^174]
+
+(1)[^175] A késedelmi pótlékot a teljesítési határidő utolsó napját követő naptól a teljesítés napjáig kell felszámítani. Nem kell késedelmi pótlékot felszámítani, ha annak összege az 5000 forintot nem éri el.
+
+(2)[^176] Az Ebtv. 68/A. § (2) és (3) bekezdésében meghatározott kamatot az ellátás kifizetésének időpontjától kell felszámítani a határozathozatal időpontjában irányadó mértékben. Nem kell a kamatot felszámítani, ha annak összege az 5000 forintot nem éri el.
+
+### 22/D. §[^177]
+
+(1) Az Mmtv. 20/B. § (3) bekezdés b) pontja és (4) bekezdés b) pontja alkalmazásában a megtérítendő összeget a felszámolást, végelszámolást elrendelő végzés közzététele hónapjában az ellátottra irányadó öregségi nyugdíjkorhatár és a betöltött életkor figyelembevételével kell meghatározni.
+
+(2)[^178] A rehabilitációs hatóság az ellátás végleges határozattal elrendelt egyösszegű megtérítését a felszámolási, kényszertörlési vagy végelszámolási eljárásban hitelezői igényként érvényesíti.
+
+### 22/E. §[^179]
+
+(1)[^180] Az Ebtv. 68. § (1) bekezdése alapján a kötelező gépjármű-felelősségbiztosítás hatálya alá tartozó megtérítésre kötelezett helyett a gépjármű üzembentartójának kötelező felelősségbiztosításáról szóló rendelkezések alapján a biztosító áll helyt azzal, hogy e kötelezettségének átalányösszegben is eleget tehet. Az évenkénti átalányösszeg mértékét, az elszámolás ügyviteli rendjét Budapest Főváros Kormányhivatala a kötelező gépjármű-felelősségbiztosítást nyújtó biztosítókkal és a Magyar Biztosítók Szövetségével az adott év vonatkozásában megállapodásban rendezi.
+
+(2) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, az Ebtv. 67. § (1) bekezdése és 68. § (1) bekezdése alapján fennálló követelést a rehabilitációs hatóság – a kötelező gépjármű-felelősségbiztosításról szóló törvényben meghatározott Nemzeti Iroda közreműködésével – a kötelezett biztosítójával szemben érvényesíti. Ha a kötelezett biztosítója a fizetési kötelezettségének a felhívás kézhezvételét követő 90 napon belül nem tesz eleget, a rehabilitációs hatóság a követelését a Nemzeti Irodával szemben megtérítésre kötelező határozattal érvényesíti.
+
+### 22/F. §[^181]
+
+Az Ebtv. 72. §-a alapján előterjesztett kérelmet a szociálpolitikáért felelős miniszter által rendszeresített nyomtatványon kell benyújtani. A rehabilitációs hatóság a kérelem elbírálásánál megvizsgálja a magánszemély jövedelmi helyzetét és életkörülményeit, egyéb kötelezettnél annak pénzügyi helyzetét.
+
+## 12. Záró rendelkezések
+
+### 23. §
+
+Ez a rendelet 2012. január 1-jén lép hatályba.
+
+### 24. §
+
+Azon személy esetében, akinek rendszeres szociális járadékra való jogosultságát a 2008. január 1-jét megelőzően hatályos rendelkezések szerint állapították meg, vagy aki a rendszeres szociális járadék iránti igényét 2007. december 31-éig benyújtotta, a hozzátartozója után folyósított növelést a 2007. december 31-én hatályos rendelkezések szerint kell felülvizsgálni és folyósítani.
+
+### 24/A. §[^183]
+
+Ez a rendelet a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 24/B. §[^184]
+
+(1) Az 1. § (2a) bekezdését és a 3. §-t a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet módosításáról szóló 53/2013. (II. 25.) Korm. rendelet hatálybalépésének[^185] napján folyamatban lévő ügyekben is alkalmazni kell.
+
+(2)[^186]
+
+## 13.[^187]
+
+### 25. §[^188]
+
+A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
+### 25/A. §[^189]
+
+(1) A szociális, köznevelési és egészségügyi tárgyú kormányrendeletek módosításáról szóló 32/2024. (II. 22.) Korm. rendelet (a továbbiakban: Módr.) által megállapított 10/A. §-át, 13. § (3) és (4) bekezdését, 20. §-át és 21. § (2a) bekezdését a Módr. hatálybalépésének[^190] napján folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+
+(2) Ha a komplex minősítésre a Módr. hatálybalépését[^191] megelőzően került sor, a rehabilitációs hatóság a rehabilitálhatónak minősített személy kérésére – ha keresőtevékenységet nem végez – a Módr. által megállapított 20. § (5) bekezdése szerinti esetben rehabilitációs mentori szolgáltatás biztosítására vonatkozó javaslat hiányában is kijelöli, a Módr. által megállapított 21. § (2a) bekezdése szerinti esetben pedig kijelölheti a rehabilitációs mentort.
+
+## 14.[^192]
+
+### 26. §[^193]
+
+Ha a rehabilitációs pénzbeli ellátás folyósítása a 2015. december 31-éig hatályos rendelkezések alapján a keresőképtelenségre tekintettel szüneteltetésre került, a rehabilitációs hatóság a rehabilitációs ellátás időtartamának leteltét megelőzően a rehabilitációs ellátás meghosszabbításról határozatban intézkedik, és a határozatát haladéktalanul közli a nyugdíjfolyósító szervvel is.
+
+### 28. §[^195]
+
+(1)[^196]
+
+(2)[^197]
+
+(3) Az e rendelet szerinti, 2017. január 1-jétől más szerv feladat- és hatáskörébe kerülő, 2017. január 1-jén folyamatban lévő első- és másodfokú ügyekben az a szerv jár el, amelynek hatáskörébe a feladat ellátása a jogszabály rendelkezése szerint 2017. január 1-jétől kerül.
+
+(4) A Nemzeti Rehabilitációs és Szociális Hivatal, a rehabilitációs szakigazgatási szervek, valamint jogelődjeik által kiadott szakvélemények, szakhatósági állásfoglalások, hatósági bizonyítványok és határozatok – időbeli hatályuk alatt – 2016. december 31-ét követően is felhasználhatók, azokat a felhasználáskor hatályos jogszabályokban meghatározott bizonyítási eszköznek kell tekinteni.
+
+### 29. §[^198]
+
+(1) Az általános hatáskörű nyugdíj-megállapító szerv – ha az Mmtv. 38/G. § (3) bekezdés b) és c) pontja szerinti kizáró ok nem áll fenn – 2017. január 31-éig tájékoztatja az Mmtv. 38/G. § (1) bekezdésében meghatározott feltételeknek megfelelő megállapodást kötő személyt (a továbbiakban: megállapodást kötő személy) arról, hogy
+
+a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 8/B. §-ában foglaltak alapján kérheti a befizetett járulék visszafizetését, vagy
+
+b) amennyiben az *a)* pont szerinti lehetőséggel nem kíván élni, kezdeményezhető a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 34. § (1) bekezdése szerinti megállapodás megkötése, és ezzel összefüggésben az Mmtv. 38/G. §-ában foglalt feltételeknek megfelelő igénylő (a továbbiakban: igénylő) előzetes biztosítási idejébe az Mmtv. 38/G. § (1) bekezdésében meghatározott szolgálati idő beszámításra kerül.
+
+(2) Az általános hatáskörű nyugdíj-megállapító szerv az (1) bekezdés szerinti tájékoztatás megküldésével egyidejűleg a megállapodást kötő személyt – 2017. április 30-ai határidő tűzésével – nyilatkozattételre hívja fel arra vonatkozóan, hogy az (1) bekezdés a) vagy b) pontja szerinti lehetőségek valamelyikével kíván-e élni. Ha a megállapodást kötő személy határidőben nem nyilatkozik, az általános hatáskörű nyugdíj-megállapító szerv az eljárását döntés nélkül lezárja.
+
+(3) A (2) bekezdés szerinti nyilatkozathoz – a 2012. január 1-jén rokkantsági járadékban részesülő személy kivételével – csatolni kell a rehabilitációs hatóság vagy jogelődje határozatát, hatósági bizonyítványát vagy bizottsági állásfoglalását, amely igazolja, hogy 2012. január 1-jén az igénylő egészségkárosodása legalább 40 százalékos mértékű volt. A 2012. január 1-jén rokkantsági járadékban részesülő személyt – az egészségkárosodás mértékének igazolása nélkül – megváltozott munkaképességű személynek kell tekinteni.
+
+(4) Amennyiben a (3) bekezdés szerinti irat nem áll rendelkezésre, az igénylő a rehabilitációs hatóságnál 2017. február 28-áig kezdeményezheti az Mmtv. 26/A. §-a szerinti komplex minősítés elvégzését az erre a célra rendszeresített, az (1) bekezdés szerinti tájékoztatással egyidejűleg kiküldött formanyomtatványon. A határidő elmulasztása jogvesztő.
+
+(5) A komplex minősítés elvégzésére irányuló eljárást soron kívül kell lefolytatni. Az eljárásban vizsgálni kell azt is, hogy az igénylő egészségkárosodása 2012. január 1-jén valószínűsíthetően elérte-e a legalább 40 százalékos mértéket. Ha az igénylő a komplex minősítés eredményéről kiállított hatósági bizonyítvány ellen fellebbez, a (2) bekezdés szerinti nyilatkozattételre nyitva álló határidő 2017. május 31-éig meghosszabbodik.
+
+(6) Ha az igénylő, vagy rá tekintettel más személy a Tbj. 34. § (1) bekezdése szerinti megállapodást kíván kötni, a nyilatkozat a megállapodás megkötéséig módosítható.
+
+(7) A jogosultsági feltételek fennállása esetén
+
+a) az (1) bekezdés a) pontja szerinti visszafizetésről a befizetett járulék visszafizetésére vonatkozó igényt,
+
+b) a Tbj. 34. § (1) bekezdése szerinti megállapodás megkötéséről a megállapodás megkötésére vonatkozó szándékot
+
+tartalmazó nyilatkozat beérkezését követő 30 napon belül az általános hatáskörű nyugdíj-megállapító szerv gondoskodik.
+
+## 15.[^199]
+
+### 31. §[^201]
+
+(1) Annak a személynek, aki a kivételes rokkantsági ellátás iránti kérelmét az Mmtv. 38/I. §-ában meghatározottakra tekintettel nyújtja be – a 6/A. § (2) bekezdés b) pontjában foglaltaktól eltérően –, a kérelemhez csatolnia kell a hatályos komplex minősítését tartalmazó döntést.
+
+(2) A pénzbeli és természetbeni szociális ellátásokkal összefüggő egyes kormányrendeletek módosításáról szóló 402/2017. (XII. 15.) Korm. rendelettel megállapított 10/A. §-t a 2018. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+### 32. §[^202]
+
+A szociál- és nyugdíjpolitikáért felelős miniszter a kivételes rokkantsági ellátás megállapítására 2018. évben rendelkezésre álló keretösszeg megosztásáról a pénzbeli és természetbeni szociális ellátásokkal összefüggő egyes kormányrendeletek módosításáról szóló 402/2017. (XII. 15.) Korm. rendelet kihirdetését követő 30 napon belül dönt, és erről haladéktalanul tájékoztatja a rehabilitációs hatóság vezetőjét.
+
+### 33. §[^203]
+
+(1) Ha a megváltozott munkaképességű személy részére 2016. május 1-jét követően – az Mmtv. 1. § (2) bekezdés 3. pontjában foglalt rendelkezés alkalmazásával – az ellátás összege havi átlagjövedelem hiányában az Mmtv. 9. § (2) bekezdése vagy 12. § (2) bekezdése alapján került megállapításra, 2021. december 31-éig kérelmet nyújthat be a rehabilitációs hatósághoz az ellátási összeg felülvizsgálata céljából.
+
+(2) Ha az ellátási összeg felülvizsgálata során megállapítást nyer, hogy az Mmtv. 2021. január 1-jétől hatályos 1. § (2) bekezdés 3. pontjában foglalt rendelkezés alkalmazásával megállapítható ellátási összeg a kérelmező számára kedvezőbb, részére a magasabb ellátási összeget kell megállapítani. Ebben az esetben a megváltozott munkaképességű személy részére az így megállapított ellátási összeg és a ténylegesen kifizetett ellátás különbözete 2021. január 1-jéig visszamenőlegesen is jár.
+
+(3)[^204] Ahol e rendelet munkaerőpiaci szolgáltatást említ, ott 2021. március 1-je után a foglalkoztatást elősegítő szolgáltatást is érteni kell.
+
+## 1. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^205]
+
+**A komplex rehabilitációval összefüggésben felmerülő szociális rehabilitációs szükségletek és a hozzájuk kapcsolódó rehabilitációs szolgáltatások**
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td></tr><tr><td></td><td rowspan="2">Szociális rehabilitációs szükségletek</td><td colspan="8">A szükséglet kielégítését segítő szociális szolgáltatás típusa<sup>1</sup></td></tr><tr><td>**1.**</td><td>Házi segítségnyújtás</td><td>Családsegítés</td><td>Támogató szolgáltatás</td><td>Közösségi ellátások</td><td>Nappali ellátás</td><td>Átmeneti elhelyezést nyújtó intézmények</td><td>Rehabilitációs intézmények</td><td>Támogatott lakhatás</td></tr><tr><td>**2.**</td><td>Fizikai biztonság (étel, ruházat, átmeneti szállás esetén ezen felül hajlék, egészség) biztosítása</td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td><td></td><td>+</td></tr><tr><td>**3.**</td><td>Önellátási képesség (önálló életvitel és életvezetés) javítása</td><td></td><td>+</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td></tr><tr><td>**4.**</td><td>Érzelmi kapcsolatok erősítése, konfliktusok kezelése</td><td></td><td>+</td><td>+</td><td>+</td><td></td><td></td><td>+</td><td>+</td></tr><tr><td>**5.**</td><td>Közlekedési nehézségek megoldása</td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td>+</td></tr><tr><td>**6.**</td><td>Közösségi kapcsolatok kialakítása, erősítése</td><td></td><td>+</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td></tr></tbody></table>
+
+<sup>1</sup> A + jel azt mutatja, hogy az adott sorban írt szükséglet kielégítéséhez az adott oszlopban írt szolgáltatás általában szükséges. Az egyéni élethelyzetek mérlegelése alapján a bejelölt szolgáltatások bővíthetőek vagy szűkíthetőek.
+
+## 2. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^206]
+
+**A foglalkozási rehabilitációs szolgáltatások formái**
+
+1\. Az egyéni tanácsadás, amelynek típusai[^1.]
+
+1.1. a foglalkozási rehabilitációs információ nyújtása, amelynek keretében a tanácsadó széleskörű tájékoztatást nyújt a munkaerő-piaci intézményrendszerről és szereplőkről, a jogszabályi környezetről, a munkát keresőknek nyújtható támogatások, képzések és szolgáltatások lehetőségeiről és az igénybevétel feltételeiről annak érdekében, hogy az ügyfél információellátottságának növelése mellett hatékonyabbá váljon a munkaerő-piaci integráció folyamata;
+
+1.2. a foglalkozási rehabilitációs tanácsadás, amely során a megváltozott munkaképességű személyek megmaradt, fejleszthető képességeire épülő komplex rehabilitáció, munkaerő-piaci integráció és munkába állás elősegítése, a foglalkoztathatóság fejlesztése valósul meg. Ennek keretében a tanácsadó a
+
+1.2.1. foglalkozási rehabilitációs munkatanácsadás során felméri a munkaerő-piaci adottságokat, készségeket és képességeket, segíti az elhelyezkedést akadályozó körülmények feltárását és megszüntetését, valamint a megváltozott munkaképességű személlyel közösen meghatározza a foglalkozási rehabilitációs folyamat lépéseit és célját egy egyéni fejlesztési terv elkészítése során,
+
+1.2.2. foglalkozási rehabilitációs álláskeresési tanácsadás során hozzásegíti a megváltozott munkaképességű állást kereső személyt a megmaradt képességekkel, a korábbi munkaerő-piaci előzményekkel összeegyeztethető reális célállás megtalálásához, megosztja vele az álláskereséshez szükséges megfelelő ismereteket, valamint felkészíti az eredményes álláskeresésre, az egyénre szabott állásfeltárás során a célállásnak megfelelő munkaadókat keres fel;
+
+1.3. a foglalkozási rehabilitációs célú pályatanácsadás, amely során a tanácsadó elősegíti a pályaválasztás, a pályamódosítás megvalósítását, a megfelelő pályaterv és képzési cél meghatározását. Segítséget nyújt a pályamódosítást, vagy pályaválasztást célzó továbbtanulási lehetőségek kiválasztásában az egyéni igények, szükségletek, életcélok, munkavállalói készségek, képességek felmérése, továbbá a képzésre történő felkészítés, tanulási képességek és készségek vizsgálata módszerek alkalmazásával;
+
+1.4. a foglalkozási rehabilitációt elősegítő pszichológiai tanácsadás, amelynek keretében a megváltozott munkaképességű személy életvezetéséből, egészségi állapotából vagy a személyiségproblémákból eredő, az elhelyezkedést akadályozó körülmények feltárásra kerülnek, valamint a tanácsadó segíti a munkába állást akadályozó érzelmi nehézségek kezelését és a személyes problémák megértését, feldolgozását és megoldását;
+
+1.5. a foglalkozási rehabilitációs mentori szolgáltatás, amely során megvalósul a képzésben részesülők benntartásának segítése, a lemorzsolódás elkerülése, a munkahelyi környezetbe történő beilleszkedés elősegítése, a betanítás, a munkahelymegtartás segítése, az utókövetés, valamint az egyéni rehabilitációt támogató, segítő szolgáltatások szervezése, az életvitelt, munkavállalást segítő eszközök hozzáférésének szervezése a mentor által. Továbbá egyéb tanácsadási módszerek és eszközök felhasználásával segíti a mentor a munkaerő-piaci integrációt és a munkaadók befogadóvá válását a megváltozott munkaképességű személyek iránt.
+
+2\. A csoportos tanácsadás, amelynek típusai
+
+2.1. a foglalkozási rehabilitációt elősegítő álláskeresési technikák tréning, amelynek keretében az álláskeresési ismeretek elsajátításával a munkát kereső megváltozott munkaképességű személy felkészül az önálló álláskeresésre, az elhelyezkedéshez és a tartós munkavállaláshoz szükséges álláskeresési technikák elméletének és gyakorlatának megismerése és a munkavállalói kulcsképességeket és kulcskompetenciákat fejlesztése révén;
+
+2.2. a képzésre történő fejlesztő felkészítés, amelynek keretében a képzésbe kerülést nehezítő tényezők feltárásra és kezelésre kerülnek, fejlesztve a sikeres tanulást megalapozó kompetenciákat, a munkavállalói kulcsképességeket és kulcskompetenciákat annak érdekében, hogy az ügyfél nagyobb eséllyel kapcsolódhasson be képzési programba és eredményesebben sajátítsa el a képzés tananyagát;
+
+2.3. a foglalkozási rehabilitációt elősegítő újraorientáló foglalkozás, amelynek keretében a korábban megszerzett ismeretek, tudás és tapasztalatok feltárásával a tanácsadó segíti a munkanélküliség okozta negatív hatások feloldását, a résztvevők áttekintik a munkaerő- és a képzési piac elérhető lehetőségeit, összevetik azokat saját felkészültségükkel, képességeikkel és igényeikkel, gyakorolják az álláskereséshez és a munkahely megtartásához szükséges technikákat, készségeket. Az újraorientáló foglalkozás keretében motivációt erősítő csoportos foglalkozás, munkavállalói kulcsképességeket és kulcskompetenciákat fejlesztő csoportos foglalkozás, munkavállalásra felkészítő és munkavégzést támogató önsegítő csoportok létrehozása és működtetése, személyiségfejlesztést, beilleszkedést és önálló életvitelt segítő tréning, egyéni rehabilitációs támogató, segítő szolgáltatások szervezése valósítható meg.
+
+3\. A munkaadók részére nyújtható szolgáltatás, ezen belül
+
+3.1. a rehabilitációs foglalkoztatási tanácsadás, amelynek keretében információnyújtással, információközvetítéssel és kapcsolatépítéssel, valamint együttműködést elősegítő tevékenységekkel a tanácsadó hozzájárul az adott térségben, településen a megváltozott munkaképességű személyek foglalkoztatási helyzetének javításához, a gazdasági élet résztvevői közötti együttműködés kialakulásához. A szolgáltatás keretében a foglalkoztatást ösztönző munkaadói kapcsolattartás során rehabilitációs állásfeltárás valósul meg a munkaerő-piaci kereslet élénkítése érdekében az alábbi tanácsadások által: munkaerő-piaci információ nyújtása munkaadóknak, mikro-, kis- és középvállalkozásoknak nyújtott foglalkoztatási tanácsadás, atipikus foglalkoztatási tanácsadás, álláshelyek feltárása, munkaadói kapcsolatok erősítése;
+
+3.2. a foglalkozási rehabilitációs célú érzékenyítés, amelynek keretében a tanácsadó felkészíti a munkaadót a megváltozott munkaképességű munkavállalók fogadására, beillesztésére, sikeres foglalkoztatásuk elősegítésére az alábbi módszerek alkalmazásával: szervezet felmérése, érzékenyítő tréning, munkakörelemzés, információnyújtás, egyenlő esélyű hozzáférést biztosító munkahelyi környezet kialakítását támogató műszaki, technikai tanácsadás;
+
+3.3. a foglalkozási rehabilitációs állásbörze, amelynek keretében a munkaerő-piaci kereslet és kínálat összehangolásának elősegítése valósul meg, az állásbörzén részt vevő munkaadók és a megváltozott munkaképességű munkát kereső személyek közötti közvetlen kapcsolatfelvétel révén, ami nagymértékben növelheti az elhelyezkedés, illetve a munkahelyi megfelelés esélyét.
+
+4\. A foglalkozási rehabilitációs célú munkaközvetítés[^2,] amely a munkát kereső megváltozott munkaképességű személyek és a számukra állást kínáló munkaadók találkozását segíti elő annak érdekében, hogy közöttük foglalkoztatásra irányuló jogviszony jöjjön létre. A munkaközvetítés egyéni és csoportos közvetítés formájában valósulhat meg.
+
+## 3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^207]
+
+**Az akkreditációhoz szükséges működtetési feltételek**
+
+**I. Az akkreditált szolgáltatónál foglalkoztatott rehabilitációs tanácsadó és a rehabilitációs mentor képesítési előírásai (személyi feltételek)**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | Foglalkozási rehabilitációs szolgáltatás megnevezése | Felsőfokú képesítés |
+| **2.** | Foglalkozási rehabilitációs információk nyújtása | bármely felsőfokú végzettség |
+| **3.** | Foglalkozási rehabilitációs tanácsadás, foglalkozási rehabilitációs célú pályatanácsadás, és e rendelet szerint csoportos és munkaadóknak nyújtandó tanácsadás | okleveles szociális munkás, szociális munkás, szociálpolitikus, szociálpedagógus, okleveles egészségügyi szociális munkás, szociológus, jogász, konduktor, andragógus, gyógypedagógus, okleveles tanító, pedagógus, tanulási és pályatanácsadás-tanár, igazgatásszervező, pszichológus, viselkedéselemző, okleveles emberi erőforrás tanácsadó, okleveles rehabilitációs szakember, okleveles munkavállalási tanácsadó, mentálhigiénés szakember, szociális menedzser, személyügyi szervező, humánerőforrás szervező/szakember, rehabilitációs gazdasági menedzser, diáktanácsadó, munkaügyi kapcsolatok szaktanácsadó felnőttképzési és felnőttoktatási szervező, szakvizsgázott pedagógus (pályaorientáció szakterületen) |
+| **4.** | Pszichológiai tanácsadás | okleveles pszichológus |
+| **5.** | Foglalkozási rehabilitációs mentori szolgáltatás | bölcsészettudományi, társadalomtudományi, közgazdaságtudományi, orvostudományi, egészségtudományi, állam- és jogtudományi, közigazgatás-tudományi karon szerzett végzettség vagy tanítói/tanári/gyógypedagógiai végzettség, munkavállalási tanácsadó, munkaügyi kapcsolatok szaktanácsadó, személyügyi szervező, gyógypedagógiai rehabilitációs konzultáns, mentálhigiénés szakember, foglalkozási rehabilitációs szaktanácsadó végzettség, foglalkozási rehabilitációs humán és műszaki szaktanácsadó, rehabilitációs szakmérnök |
+
+2\. A foglalkozási rehabilitációs szolgáltatás nyújtásában legalább 3 éves gyakorlattal rendelkező szervezet esetében a táblázat 3. és 4. sorában foglalt szolgáltatások kivételével a rehabilitációs szolgáltatást nyújtó szakember a végzettséget előíró feltételek alól mentesül, amennyiben legalább középfokú végzettséggel és 3 éves igazolt munkaerőpiaci-szolgáltatás nyújtási tapasztalattal rendelkezik.
+
+3\. A mentori tevékenységet folytató új belépőknek, valamint a szervezetbe új belépő tanácsadást nyújtó szakembereknek, kötelező részt venniük a Budapest Főváros Kormányhivatala által meghatározott felkészítő képzésen.
+
+4\. A tanácsadást nyújtó szakembereknek és a mentori tevékenységet folytató szakembereknek évente legalább egy alkalommal a Budapest Főváros Kormányhivatala által szervezett szakmai képzésen való részvétele kötelező.
+
+**II. A foglalkozási rehabilitációs szolgáltatás nyújtásának tárgyi feltételei**
+
+1\. A szolgáltatás nyújtásának feltétele az egyenlő esélyű hozzáférést biztosító fizikai környezet biztosítása. A szolgáltatónak az ügyfélszámnak és a munkatársi létszámnak megfelelő szociális helyiséggel kell rendelkeznie (mosdó).
+
+2\. Az ügyfelekkel, az ügyfelek családtagjaival, szakemberekkel, munkaadókkal történő személyes beszélgetésekre, a tanácsadói tevékenység céljára olyan módon különálló helyiség biztosítása szükséges, hogy a tanácsadó és az ügyfél közötti, bizalmas adatokat is érintő kommunikáció valósulhasson meg.
+
+3\. A csoportos foglalkozások esetén a csoportlétszámnak megfelelő, bútorozott csoportszoba biztosítása szükséges.
+
+4\. A napi munkavégzéshez fénymásoló, a napi adminisztráció elvégzéséhez elégséges számú számítógép operációs rendszerrel és jogtiszta szoftverekkel, telefon, internet, nyomtató, szkenner és zárható szekrény szükséges az iratok, dokumentációk tárolására, továbbá honlap működtetése szükséges, ahol információt kaphatnak a megváltozott munkaképességű emberek az egyes szolgáltatásokról, a szolgáltatások igénybevételének módjáról.
+
+**III. A rehabilitációs szolgáltatási terv**
+
+1\. A foglalkozási rehabilitációs szolgáltatást nyújtó szervezet a szolgáltatás nyújtási tapasztalatait, eredményeit, valamint tervét a rehabilitációs szolgáltatási tervben rögzíti.
+
+2\. A rehabilitációs szolgáltatási terv tartalmazza:
+
+2.1. a foglalkozási rehabilitációs szolgáltatást nyújtó szervezet céljait,
+
+2.2. a foglalkozási rehabilitációs szolgáltatást nyújtó szervezet ügyfélkörének összetételét, bemutatását és jellemzőit,
+
+2.3. a szervezet által alkalmazott módszertani megközelítés rövid bemutatását,
+
+2.4. a szervezet szolgáltatási tevékenységét 3 naptári évre visszamenőleg (bevontak száma, szolgáltatási esetszámok, szolgáltatási alkalmak száma, szolgáltatások típus szerinti megoszlása, eredményességi mutatók, szolgáltatási típusok szerinti eredményesség), a tevékenységre vonatkozó adatokat a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületről letölthető mintatáblázat alapján szükséges benyújtani a szolgáltatási terv mellékleteként,
+
+2.5. a szolgáltatás nyújtáshoz rendelkezésre álló személyi, tárgyi és egyéb feltételek rövid bemutatását,
+
+2.6. a szolgáltatás nyújtással lefedett földrajzi területet,
+
+2.7. a szervezet tárgyévi munka- és ellenőrzési tervét,
+
+2.8. a szervezet által biztosított foglalkozási rehabilitációs szolgáltatások rövid leíró bemutatását,
+
+2.9. a szervezet által biztosított foglalkozási rehabilitációs szolgáltatásokhoz való hozzáférés módját és rendjét (ügyfélfogadási rend, kapcsolattartás módja),
+
+2.10. a szervezet rövid, közép- és hosszú távú fejlesztési céljait
+
+2.10.1. területi lefedettség bővítése,
+
+2.10.2. új szolgáltatás típusok bevezetése,
+
+2.10.3. célcsoport bővítése,
+
+2.10.4. új módszertanok bevezetése, vagy tevékenységi körében történő változások (különösen akkreditált rehabilitációs foglalkoztatás),
+
+2.10.5. egyéb.
+
+## 4. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^208]
+
+**A rehabilitációs szolgáltatási terv értékelésének szempontjai a szolgáltatási akkreditációs eljárásban**
+
+1\. A rehabilitációs szolgáltatási terv valamennyi, a 3. melléklet III. 2.1–2.10. szerinti szempontját külön kell értékelni és minősíteni.
+
+2\. Az értékelés során minden, a 3. melléklet III. 2.1–2.10. szerinti szempontra legfeljebb öt pont adható a következők szerint:
+
+2.1. egy pont adható, ha a foglalkozási rehabilitációs szolgáltató a szempontra nem adott választ, vagy válasza nem releváns, vagy a szakma szabályainak nem megfelelő, eredményei a működés ideje alatt nem mérhetők, tervei nem megalapozottak, nélkülözik a realitást,
+
+2.2. kettő pont adható, ha a foglalkozási rehabilitációs szolgáltató válasza nem tér ki megfelelően a feltett kérdésre, válaszai nem koherensek egymással, eredményei jelentősen elmaradnak az elvárt szinttől, tervei kevésbé megalapozottak,
+
+2.3. három pont adható, ha a foglalkozási rehabilitációs szolgáltató válasza elfogadható szakmai színvonalat mutat, a kérdésre adott válasza releváns, de nem minden esetben valósul meg a válaszok közötti koherencia, a tervei megalapozottsága nem igazolható teljes körűen,
+
+2.4. négy pont adható, ha a foglalkozási rehabilitációs szolgáltató válasza megfelelő szakmai színvonalat mutat, a többi válasszal a koherencia megvalósul, az eredményei meghaladják az elvárt szintet, tervei realitást tükröznek,
+
+2.5. öt pont adható, ha a foglalkozási rehabilitációs szolgáltató válasza kiemelkedő szakmai színvonalat mutat, a többi válasszal a koherencia megvalósul, az eredményei az elvárthoz képest kimagaslóak, a tervei reálisak, előremutatók, és elősegítik a foglalkozási rehabilitációs cél megvalósulását,
+
+2.6. amennyiben a rehabilitációs szolgáltatási terv szempontjainak értékelése során a Budapest Főváros Kormányhivatala az akkreditáció feltételeinek előírásaiba ütköző, vagy az akkreditációs kérelem elutasításával járó, vagy a tanúsítvány visszavonását eredményező szempontot talál, az adott szempontra X minősítést ad.
+
+3\. A Budapest Főváros Kormányhivatala a rehabilitációs szolgáltatási tervet megfelelőnek minősíti, ha az elérhető ötven pontból legalább harmincöt pontra értékelte.
+
+4\. Amennyiben a rehabilitációs szolgáltatási terv értékelése során a Budapest Főváros Kormányhivatala legalább egy X minősítést adott, abban az esetben a többi pont értéktől függetlenül a tervet nem megfelelőnek minősíti.
+
+## 5. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^209]
+
+---
+
+[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^4]: Az 1. § (2) bekezdését a 179/2025. (VI. 30.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (2a) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: Az 1. § (5) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (9) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^9]: Az 1. § (10) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: Az 1. § (11) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^11]: Az 1. § (12) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § (13) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 1. pontja, a 448/2021. (VII. 26.) Korm. rendelet 4. §-a, a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § (14) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § a) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^14]: Az 1. § (15) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: A 2. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 131. § b) pontja szerint módosított szöveg.
+[^19]: A 2. § (2a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (4) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés b) pontja. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 2. § (3) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja és (6) bekezdés c) pontja, a 179/2025. (VI. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^21]: A 2. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés c)–d) pontja, a 671/2020. (XII. 28.) Korm. rendelet 18. §-a, a 24/2025. (II. 27.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^22]: A 2. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 4. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés b) pontja hatályon kívül helyezte, újonnan a 117/2016. (VI. 6.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 4. § a) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: A 4. § b) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 4. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^29]: Az 5. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (3) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (2) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^31]: Az 5. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^32]: A 6. § a 117/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 6. § (1) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^34]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 17. §-a, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
+[^35]: A 6. § (3) bekezdés d) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^36]: A 6. § (3a) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^37]: A 6. § (4) bekezdés a) pontja a 32/2024. (II. 22.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^38]: A 6. § (4) bekezdés e) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte, újonnan a 104/2024. (V. 9.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^39]: A 6. § (4a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^40]: A 6. § (5) bekezdés a) pontját a 32/2024. (II. 22.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^41]: A 6. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^42]: A 6. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, nyitó szövegrésze a 104/2024. (V. 9.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^43]: A 6. § (6) bekezdés d) pontja a 102/2019. (V. 6.) Korm. rendelet 10. § c) pontja, a 179/2025. (VI. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^44]: A 6. § (6a) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
+[^45]: A 6. § (6b) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^46]: A 6. § (6c) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^47]: A 6. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 370. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^48]: A 6/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
+[^49]: A 6/A. § (1) bekezdés d) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § e) pontja hatályon kívül helyezte.
+[^50]: A 6/A. § (1) bekezdés e) pontja a 349/2023. (VII. 27.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^51]: A 6/A. § (2) bekezdés a) pontját a 32/2024. (II. 22.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^52]: A 7. § a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^53]: A 7/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 10. §-a iktatta be.
+[^54]: A 7/B. §-t a 402/2017. (XII. 15.) Korm. rendelet 10. §-a iktatta be.
+[^55]: A 7/B. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^56]: A 7/B. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
+[^57]: A 7/B. § (3) bekezdését a 179/2025. (VI. 30.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^58]: A 8. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés c) pontja hatályon kívül helyezte, újonnan a 70/2015. (III. 30.) Korm. rendelet 184. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (6) bekezdésével megállapított, a 610/2020. (XII. 18.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^59]: A 8/A. §-t a 416/2016. (XII. 14.) Korm. rendelet 8. §-a iktatta be, szövege a 410/2025. (XII. 22.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^60]: A 9. §-t a 441/2015. (XII. 28.) Korm. rendelet 159. § a) pontja hatályon kívül helyezte, újonnan a 117/2016. (VI. 6.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 10. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^62]: A 10. § (2) bekezdése a 612/2020. (XII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^63]: A 10. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^64]: A 10. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^65]: A 10/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 304/2018. (XII. 27.) Korm. rendelet 4. § c) pontja, a 32/2024. (II. 22.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^66]: Az 5. alcímet (11–13/C. §) újonnan a 379/2016. (XII. 2.) Korm. rendelet 187. § (7) bekezdése iktatta be.
+[^67]: A 13. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^68]: A 13. § (3) bekezdése a 32/2024. (II. 22.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^69]: A 13. § (4) bekezdés c) pontját a 32/2024. (II. 22.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^70]: A 13. § (6) bekezdése a 102/2019. (V. 6.) Korm. rendelet 10. § d) pontja, az 561/2023. (XII. 14.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^71]: A 13. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^72]: A 13/A. § (1) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^73]: A 13/A. § (2) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^74]: A 13/B. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^75]: A 13/B. § (1a) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^76]: A 13/B. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^77]: A 13/B. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 131. § c) pontja szerint módosított szöveg.
+[^78]: A 13/B. § (3a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (6) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^79]: A 6. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^80]: A 14. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 42. § (1) bekezdésével megállapított, a 464/2024. (XII. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^81]: A 14. § (1a) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be, nyitó szövegrésze a 464/2024. (XII. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^82]: A 14. § (1a) bekezdés a) pontja a 349/2023. (VII. 27.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^83]: A 14. § (1b) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^84]: A 14. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^85]: A 15. § a 117/2016. (VI. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^86]: A 15. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 44. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^87]: A 15. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^88]: A 16. § (1) bekezdése az 53/2013. (II. 25.) Korm. rendelet 7. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés i) pontja, a 117/2016. (VI. 6.) Korm. rendelet 16. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja és (6) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^89]: A 16. § (2) bekezdése a 117/2016. (VI. 6.) Korm. rendelet 6. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^90]: A 16. § (3) bekezdése a 117/2016. (VI. 6.) Korm. rendelet 6. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja, a 179/2025. (VI. 30.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^91]: A 16. § (4) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés j) pontja, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés g) pontja, a 441/2015. (XII. 28.) Korm. rendelet 158. §-a, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja, a 179/2025. (VI. 30.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^92]: A 8. alcímet (17–18. §) a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés i) pontja hatályon kívül helyezte, a 8. alcímet (17. §) újonnan a 414/2021. (VII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^94]: A 19. § a 117/2016. (VI. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^95]: A 19. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (8) bekezdése iktatta be, szövege a 610/2020. (XII. 18.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^97]: A 20. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 32/2024. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^98]: A 21. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.
+[^99]: A 21. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^100]: A 21. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^101]: A 21. § (2a) bekezdését a 32/2024. (II. 22.) Korm. rendelet 7. §-a iktatta be.
+[^102]: A 21. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^103]: A 21. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^104]: A 21. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^105]: A 21. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^106]: A 21/A. §-t a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.
+[^107]: A 21/A. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^108]: A 21/A. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés d) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^109]: A 21/A. § (4) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § f) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
+[^110]: A 21/A. § (5) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 8. pontja szerint módosított szöveg.
+[^111]: A 21/A. § (5) bekezdés c) pontja a 610/2020. (XII. 18.) Korm. rendelet 13. § 9. pontja szerint módosított szöveg.
+[^112]: A 21/A. § (6) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^113]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
+[^114]: A 21/B. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^115]: A 21/B. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^116]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^117]: A 21/B. § (4) bekezdés a) pontja a 668/2020. (XII. 28.) Korm. rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^118]: A 21/B. § (5) bekezdés b) pont ba) alpontját a 668/2020. (XII. 28.) Korm. rendelet 29. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^119]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^120]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^121]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja, a 393/2017. (XII. 13.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^122]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^123]: A 21/C. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^124]: A 21/C. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^125]: A 21/C. § (2) bekezdés d) pontja a 668/2020. (XII. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^126]: A 21/C. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^127]: A 21/D. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés h) pontja szerint módosított szöveg.
+[^128]: A 21/D. § (1) bekezdés a) pontja a 304/2018. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^129]: A 21/D. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^130]: A 21/D. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés h) pontja szerint módosított szöveg.
+[^131]: A 21/D. § (3) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^132]: A 21/D. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^133]: A 21/D. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^134]: A 21/D. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) és h) pontja szerint módosított szöveg.
+[^135]: A 21/E. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^136]: A 21/E. § (1) bekezdés i) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^137]: A 21/E. § (1) bekezdés l) pontja a 610/2020. (XII. 18.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^138]: A 21/E. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^139]: A 21/E. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 371. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^140]: A 21/E. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^141]: A 10/A. alcímet (21/F–21/K. §) a 117/2016. (VI. 6.) Korm. rendelet 11. §-a iktatta be.
+[^142]: A 21/F. § (1) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
+[^143]: A 21/G. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
+[^144]: A 21/G. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^145]: A 21/H. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^146]: A 21/H. § (2) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^147]: A 21/H. § (2) bekezdés h) pontja a 304/2018. (XII. 27.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^148]: A 21/H. § (2) bekezdés j) pontját a 304/2018. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^149]: A 21/H. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
+[^150]: A 21/H. § (4) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
+[^151]: A 21/H. § (5) bekezdés záró szövegrésze a 304/2018. (XII. 27.) Korm. rendelet 4. § h) és i) pontja szerint módosított szöveg.
+[^152]: A 21/H. § (5) bekezdés a) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^153]: A 21/H. § (5) bekezdés b) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^154]: A 21/H. § (7) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
+[^155]: A 21/H. § (8) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
+[^156]: A 21/I. § (1) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 20. pontja szerint módosított szöveg.
+[^157]: A 21/I. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^158]: A 21/I. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
+[^159]: A 21/I. § (4) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
+[^160]: A 21/I. § (5) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § j) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.
+[^161]: A 21/I. § (6) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 25. pontja szerint módosított szöveg.
+[^162]: A 21/I. § (6) bekezdés c) pontja a 610/2020. (XII. 18.) Korm. rendelet 13. § 26. pontja szerint módosított szöveg.
+[^163]: A 21/I. § (7) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
+[^164]: A 21/J. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 28. pontja szerint módosított szöveg.
+[^165]: A 21/K. § (1) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^166]: A 21/K. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 30. pontja szerint módosított szöveg.
+[^167]: A 21/K. § (3) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 31. pontja szerint módosított szöveg.
+[^168]: A 21/K. § (4) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.
+[^169]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^170]: A 22. § a 95/2012. (V. 15.) Korm. rendelet 46. § (9) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés h) pontja, a 117/2016. (VI. 6.) Korm. rendelet 17. § c) pontja, a 349/2023. (VII. 27.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^171]: A 22/A. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.
+[^172]: A 22/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^173]: A 22/B. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.
+[^174]: A 22/C. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.
+[^175]: A 22/C. § (1) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^176]: A 22/C. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^177]: A 22/D. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.
+[^178]: A 22/D. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^179]: A 22/E. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.
+[^180]: A 22/E. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés k) pontja szerint módosított szöveg.
+[^181]: A 22/F. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^183]: A 24/A. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
+[^184]: A 24/B. §-t az 53/2013. (II. 25.) Korm. rendelet 6. §-a iktatta be.
+[^185]: A hatálybalépés időpontja 2013. február 26.
+[^186]: A 24/B. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés b) pontja hatályon kívül helyezte.
+[^187]: A 13. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^188]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 184. § (3) bekezdése iktatta be.
+[^189]: A 25/A. §-t a 32/2024. (II. 22.) Korm. rendelet 8. §-a iktatta be.
+[^190]: A hatálybalépés időpontja 2024. február 23.
+[^191]: A hatálybalépés időpontja 2024. február 23.
+[^192]: A 14. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^193]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 441/2015. (XII. 28.) Korm. rendelet 157. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés m) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^195]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 379/2016. (XII. 2.) Korm. rendelet 187. § (9) bekezdése iktatta be.
+[^196]: A 28. § (1) bekezdését a 104/2024. (V. 9.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^197]: A 28. § (2) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 5. § g) pontja hatályon kívül helyezte.
+[^198]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 448/2016. (XII. 19.) Korm. rendelet 43. §-a iktatta be.
+[^199]: A 15. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^201]: A 31. §-t a 402/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^202]: A 32. §-t a 402/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^203]: A 33. §-t a 612/2020. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^204]: A 33. § (3) bekezdését a 101/2021. (II. 27.) Korm. rendelet 4. §-a iktatta be.
+[^205]: Az 1. melléklet a 117/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^206]: A 2. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^1.]: Az 1–3. pontokban szereplő szolgáltatások az Mmtv. 8. § (1) bekezdés a) pontja szerinti, a megváltozott munkaképességű személy megfelelő munkahelyen történő munkavégzésre való felkészítéshez szükséges szolgáltatások.
+[^2,]: A 4. pont szerinti szolgáltatás az Mmtv. 8. § (1) bekezdés b) pontjának megfelelően a megváltozott munkaképességű személy megfelelő munkahelyen történő elhelyezkedése érdekében a rehabilitációs célú munkaközvetítést célozza.
+[^207]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
+[^208]: A 4. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
+[^209]: Az 5. mellékletet a 20/2017. (II. 2.) Korm. rendelet 9. § (8) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés m) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

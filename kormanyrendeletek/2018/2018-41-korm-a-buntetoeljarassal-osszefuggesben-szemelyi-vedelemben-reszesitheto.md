@@ -1,0 +1,272 @@
+---
+title: "41/2018. (III. 13.) Korm. rendelet a büntetőeljárással összefüggésben személyi védelemben részesíthető személyekről és a személyi védelem ellátásának szabályairól"
+identifier: "41/2018. (III. 13.) Korm. rendelet"
+njt_id: "2018-41-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/41"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-03-13
+in_force_from: 2018-07-01
+last_amended: 2018-07-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-41-20-22"
+retrieved: 2026-10-12
+---
+
+# 41/2018. (III. 13.) Korm. rendelet a büntetőeljárással összefüggésben személyi védelemben részesíthető személyekről és a személyi védelem ellátásának szabályairól
+
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés *o)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *eljáró vagy eljárt szerv tagja:* a büntetőeljárásban eljáró vagy eljárt bíró, ügyész, a nyomozó hatóság nyomozási tevékenységet ellátó állományának eljáró vagy eljárt tagja, a bíróságnál, ügyészségnél szolgálatot teljesítő igazságügyi, illetve ügyészségi alkalmazott, a büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) azon tagja, valamint a javítóintézet igazgatója és azon dolgozója (a továbbiakban együtt: a javítóintézet tagja), akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+
+b) *személyi védelmi feladat:* az általános rendőrségi feladatok ellátására létrehozott szervnek (a továbbiakban: rendőrség), a Nemzeti Adó- és Vámhivatalnak, a Magyar Honvédségnek, valamint a bv. intézetnek, illetve a javítóintézetnek a fenyegetett helyzetben lévő személy, valamint a személyére tekintettel más személy személyének és tényleges tartózkodási helyének védelme, közlekedési útvonalának biztosítása érdekében – a büntetőeljárás tartama alatt vagy a büntetőeljárás befejezését követően – e rendelet alapján foganatosított intézkedéseinek az összessége.
+
+## 2. A személyi védelemben részesíthető személyek
+
+### 2. §
+
+Személyi védelemben részesíthető
+
+a) a büntetőeljárásról szóló törvényben meghatározott, büntetőeljárásban részt vevő vagy részt vett azon személy, akivel szemben a büntetőeljárásban való részvétele miatt vagy azzal összefüggésben, illetve a büntetőeljárási jogai érvényesítésének, kötelezettségei teljesítésének akadályozása, meghiúsítása végett,
+
+b) az eljáró vagy eljárt szerv azon tagja, akivel szemben a büntetőeljárással összefüggő tevékenysége miatt vagy tevékenysége jogszerű gyakorlásának akadályozása, illetve meghiúsítása végett,
+
+c) az *a)* és *b)* pontban meghatározottak valamelyikére tekintettel más olyan személy, akivel szemben az *a)* és *b)* pontban meghatározott személyhez fűződő kapcsolata miatt
+
+az életét, testi épségét közvetlenül fenyegető jogellenes cselekményt, így különösen személy elleni erőszakos vagy közveszélyt okozó bűncselekményt követtek el, illetve valószínűsíthető, hogy ilyen cselekményt követnek el [a továbbiakban az *a)–c)* pontban meghatározottak együtt: fenyegetett helyzetben lévő személy].
+
+## 3. A személyi védelem elrendelésének kezdeményezése
+
+### 3. §
+
+(1) A személyi védelem elrendelése iránt az alábbiak terjeszthetnek elő kérelmet:
+
+a) a büntetőeljárás tartama alatt feladat- és hatáskörében vagy a fenyegetett helyzetben lévő személy indítványára a büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság,
+
+b) a büntetőeljárás befejezése után a fenyegetett helyzetben lévő személy.
+
+(2) Fogvatartott személy esetén a személyi védelem elrendelése iránti kérelmet – feladat- és hatáskörében vagy a fenyegetett helyzetben lévő személy indítványára – a büntetőeljárás tartama alatt a büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság egyetértésével
+
+a) a bv. intézet parancsnoka,
+
+b) a fogda parancsnoka,
+
+c) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény alapján törvényességi felügyeletet gyakorló ügyész,
+
+d) a büntetés-végrehajtási bíró, valamint
+
+e) a javítóintézet igazgatója
+
+is előterjesztheti.
+
+(3) A rendőrségen belül a Védelmi Program ellátására létrehozott szervezeti egység (a továbbiakban: Tanúvédelmi Szolgálat) vezetője terjeszti elő a kérelmet annak a személynek a személyi védelme elrendelése iránt, akivel szemben a Védelmi Program megszűnt, de fenyegetett helyzete miatt személyi védelme indokolt.
+
+### 4. §
+
+A személyi védelem elrendelése iránt feladat- és hatáskörében a 3. §-ban meghatározott szerv akkor terjeszthet elő kérelmet, ha ahhoz a fenyegetett helyzetben lévő személy hozzájárult.
+
+### 5. §
+
+A személyi védelem elrendelése iránt előterjesztett kérelemnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon túl – tartalmaznia kell
+
+a) a személyi védelem elrendelését megalapozó adatokat, körülményeket,
+
+b) a fenyegetett helyzetben lévő személynek a büntetőeljárásban betöltött szerepét, a fenyegetettség mértékét és a fenyegetés formáját, módját,
+
+c) a személyi védelem ellátásának eszközeire vonatkozó javaslatot.
+
+## 4. A személyi védelem elrendelése
+
+### 6. §
+
+(1) A személyi védelem elrendeléséről – a (2)–(6) bekezdésben foglalt kivétellel – annak a nyomozó hatóságnak a vezetője dönt, amely előtt a nyomozás folyamatban van vagy folyamatban volt.
+
+(2) A büntetőügyben bíróként, illetve ügyészként eljáró vagy eljárt személy, valamint a bíróságnál, ügyészségnél szolgálatot teljesítő igazságügyi vagy ügyészségi alkalmazott személyi védelmét a büntetőeljárást folytató vagy folytatott bíróság elnöke, illetve ügyészség vezetője rendeli el.
+
+(3) Ha a személyi védelem elrendelése a bíró, ügyész, igazságügyi vagy ügyészségi alkalmazott szolgálati viszonyának megszűnését követően válik indokolttá, a (2) bekezdés megfelelően irányadó.
+
+(4) A nyomozó hatóság, a bv. intézet, valamint a javítóintézet fenyegetett helyzetben lévő tagja esetén a személyi védelmet a fenyegetett helyzetben lévő személy állományilletékes parancsnoka, illetve a javítóintézet igazgatója rendeli el.
+
+(5) Ha a személyi védelem elrendelése a nyomozó hatóság tagja, a bv. intézet, illetve a javítóintézet tagja szolgálati viszonyának megszűnését követően válik indokolttá, a (4) bekezdés megfelelően irányadó.
+
+(6) A személyi védelmet törvényben meghatározott esetben – sürgősségi intézkedésként – a Tanúvédelmi Szolgálat vezetője rendeli el.
+
+## 5. A személyi védelem elbírálására irányuló eljárás
+
+### 7. §
+
+(1) A személyi védelemmel kapcsolatos eljárás során az Ákr. rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+(2) A személyi védelem elrendelésére irányuló eljárásokban hiánypótlásra történő felhívásnak legfeljebb két ízben van helye.
+
+(3) A hiánypótlásra legfeljebb 48 órás határidő tűzhető.
+
+(4) Az elrendelésre jogosult – a Védelmi Program keretében különleges óvintézkedésként igénybe vett személyi védelem kivételével – a személyi védelem elrendeléséről, elutasításáról és a személyi védelem megszüntetéséről öt napon belül dönt, amelyet a kezdeményezőnek, valamint a fenyegetett helyzetben lévő személynek kézbesít.
+
+(5) A személyi védelem elbírálására irányuló eljárás szünetelésének nincs helye.
+
+(6) A bíróság, az ügyészség vagy a javítóintézet esetében az Ákr. 24. § (4) bekezdése alkalmazásának nincs helye, ha a fenyegetett helyzetben lévő személy azonos a személyi védelem elrendelésére jogosult személlyel.
+
+(7) A nyomozó hatóság vezetőjének fenyegetettsége esetén a személyi védelmet a felettes szerv vezetője, a bv. intézet vezetőjének fenyegetettsége esetén a személyi védelmet a büntetés-végrehajtás országos parancsnoka rendeli el.
+
+(8) Ha a Tanúvédelmi Szolgálat – a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény alapján – sürgősségi intézkedésként rendeli el a személyi védelmet, a személyi védelmi feladatok ellátását haladéktalanul megkezdi, és az elrendelésről szóló határozatot 24 órán belül meghozza.
+
+## 6. A személyi védelmi feladatok ellátása
+
+### 8. §
+
+(1) A személyi védelmi feladatokat – a (2)–(6) bekezdésben foglalt kivétellel –
+
+a) a személyi védelmet elrendelő rendőri szerv a rendőrségről szóló törvény, illetve
+
+b) a Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló kormányrendeletben erre kijelölt szerv a Nemzeti Adó- és Vámhivatalról szóló törvény
+
+alapján látja el.
+
+(2) Az ügyészség és a bíróság által elrendelt személyi védelem esetén a személyi védelmi feladatokat a rendőrség látja el. A személyi védelmi feladat ellátására jogosult rendőri szerv illetékességét a fenyegetett helyzetben lévő személy lakóhelye, tényleges tartózkodási helye, beosztási helye vagy szolgálati helye alapozza meg.
+
+(3) A fogvatartott, illetve szabadságvesztés büntetését töltő személy esetében a személyi védelmi feladatokat a bv. intézet, illetve a rendőrségnek vagy a Magyar Honvédségnek a fogvatartást foganatosító rendőrségi, katonai fogdát üzemeltető szerve látja el.
+
+(4) A nyomozó hatóság, a bv. intézet, valamint a javítóintézet fenyegetett helyzetben lévő tagjának személyi védelmét az (1) és (3) bekezdés megfelelő alkalmazásával az a szerv látja el, amelynél a fenyegetett helyzetben lévő személy szolgálatot teljesít vagy teljesített.
+
+(5) A javítóintézetben javítóintézeti nevelésre utalt vagy letartóztatásban lévő fiatalkorú személy személyi védelmét a javítóintézet látja el.
+
+(6) A személyi védelmi feladatok ellátásában – felkérésre – az (1), (3) és (5) bekezdés megfelelő alkalmazásával a 8. alcímben foglaltak szerint más szerv is közreműködhet.
+
+## 7. A személyi védelmi feladatok ellátásának eszközei
+
+### 9. §
+
+(1) A személyi védelmi feladatok ellátása során a fenyegetett helyzetben lévő személy védelméhez szükséges, azzal arányos bármely intézkedés alkalmazható, így különösen
+
+a) rendszeres járőrszolgálat,
+
+b) technikai eszköz,
+
+c) folyamatos hírösszeköttetés,
+
+d) védőruházat biztosítása,
+
+e) őrszemélyzet,
+
+f) a rendőrségről szóló törvény, valamint a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti titkos információgyűjtés.
+
+(2) Ha a személyi védelem az (1) bekezdésben meghatározott eszközökkel nem biztosítható, a személyi védelmi feladatokat a személyi védelmet elrendelő vagy ellátó szerv által meghatározott őrszemélyzettel biztosított helyen kell ellátni.
+
+### 10. §
+
+(1) A személyi védelmi feladatok ellátásának eszközei a személyi védelmet ellátó szerv – a veszélyeztetettség mértékét mérlegelve, a fenyegetett helyzetben lévő személy, illetve a személyi védelmet kezdeményező és elrendelő szerv véleményét is figyelembe véve – határozza meg. A személyi védelmi feladatok ellátásának eszközei közül egyidejűleg több is alkalmazható.
+
+(2) A fenyegetett helyzetben lévő személy biztonságát közvetlenül fenyegető és másként el nem hárítható veszély esetét kivéve nem alkalmazható a személyi védelmi feladatok ellátásának olyan eszköze, amely ellen a fenyegetett helyzetben lévő személy szóban vagy írásban tiltakozik. A szóban tett nyilatkozatról a személyi védelmet ellátó szerv írásbeli feljegyzést készít.
+
+## 8. A személyi védelmi feladatok ellátásában való közreműködés
+
+### 11. §
+
+A személyi védelmi feladatok ellátására hatáskörrel és illetékességgel rendelkező szerv más szerv közreműködését igényelheti, ha a személyi védelmet személyi vagy tárgyi feltételek hiányában nem tudja biztosítani, így különösen akkor, ha
+
+a) a személyi védelmet a 9. § (1) bekezdés *b)–f)* pontjában vagy a 9. § (2) bekezdésében meghatározott eszközökkel kell ellátni,
+
+b) a személyi védelmi feladatok ellátása több végrehajtási eszköz egyidejű alkalmazását teszi szükségessé, vagy
+
+c) egyidejűleg több fenyegetett helyzetben lévő személy személyi védelmét kell ellátni.
+
+### 12. §
+
+A közreműködésre felkért szerv a közreműködést nem tagadhatja meg. A személyi védelmi feladatok ellátásában való közreműködés részletes rendjéről és a közreműködés során felmerülő költségek viselésének rendjéről a végrehajtásban érintett szervek szükség szerint egyeztetnek.
+
+## 9. A büntetés-végrehajtási intézetek személyi védelemmel összefüggő feladatai
+
+### 13. §
+
+Ha a fenyegetett helyzetben lévő elítélt szabadul a bv. intézetből, és személyi védelmének elrendelése vagy fenntartása indokolt, a fogvatartást foganatosító bv. intézet parancsnoka a 6. § (1) bekezdésének megfelelő alkalmazásával kérelmet terjeszthet elő a személyi védelem elrendelésére.
+
+### 14. §
+
+Ha a személyi védelmet a fogvatartást foganatosító bv. intézet látja el, a fenyegetett helyzetben lévő személy bv. intézeten kívüli szállítása, illetve kísérése a fogvatartást foganatosító bv. intézet feladata, szükség esetén a fogvatartás helye szerint illetékes rendőrkapitányság közreműködésével.
+
+## 10. A személyi védelmet ellátó szerv és a fenyegetett helyzetben lévő személy jogai, kötelezettségei
+
+### 15. §
+
+A személyi védelmet ellátó szerv – ha az késedelmet nem tűrő személyi védelmi feladatot nem veszélyeztet –
+
+a) tájékoztatja a fenyegetett helyzetben lévő személyt a tervezett, valamint a megtett intézkedésekről,
+
+b) a személyi védelmi feladatok ellátásának keretében alkalmazandó eszköz kiválasztása és – lehetőség szerint – végrehajtása során a fenyegetett helyzetben lévő személlyel együttműködik, egyeztet,
+
+c) a fenyegetett helyzetben lévő személy biztonságának megóvása érdekében – a 20. § *b)* pontja szerinti következményekre történt írásbeli figyelmeztetés mellett – ajánlásokat tehet, amelyekben javasolhatja az életmód, így különösen a közlekedési útvonalak, belföldi és külföldi utazások, egyéb magánprogramok megváltoztatását,
+
+d) a korábban tett ajánlásait módosíthatja, vagy további ajánlásokat tehet, ha a fenyegetett helyzetben lévő személy biztonságát érintő új körülményről szerez tudomást.
+
+### 16. §
+
+A fenyegetett helyzetben lévő személy
+
+a) a személyi védelem végrehajtása során a személyi védelmet ellátó szervvel köteles együttműködni,
+
+b) a személyi védelmet ellátó szerv iránymutatása alapján haladéktalanul tájékoztatja a személyi védelmet ellátó szervet a biztonsága szempontjából lényeges körülmények megváltozásáról, továbbá arról, ha a részére tett ajánlásoktól eltért vagy el kíván térni,
+
+c) javaslatot tehet a védelem módjára.
+
+### 17. §
+
+A személyi védelmet kezdeményező vagy elrendelő szerv haladéktalanul tájékoztatja a személyi védelmet ellátó szervet, ha lényeges új körülményekről szerez tudomást.
+
+## 11. A személyi védelem felülvizsgálata, megszüntetése
+
+### 18. §
+
+A személyi védelem fenntartásának indokoltságát a személyi védelmet elrendelő szerv – a személyi védelmet ellátó szerv együttműködésével, álláspontjának beszerzése mellett – háromhavonta felülvizsgálja.
+
+### 19. §
+
+A személyi védelmet haladéktalanul meg kell szüntetni, ha
+
+a) az elrendelés feltételei már nem állnak fenn,
+
+b) a fenyegetett helyzetben lévő személy a személyi védelemről írásban lemond.
+
+### 20. §
+
+A személyi védelmet elrendelő szerv a személyi védelmet megszüntetheti, ha
+
+a) a személyi védelem tartama alatt elkövetett szándékos bűncselekmény elkövetése miatt a fenyegetett helyzetben lévő személlyel szemben büntetőeljárást rendelnek el,
+
+b) a fenyegetett helyzetben lévő személy az ajánlásoktól indokolatlanul eltért, vagy tájékoztatási kötelezettségét a személyi védelem további fenntartását súlyosan veszélyeztető vagy azt lehetetlenné tevő módon önhibájából megszegi,
+
+c) a fenyegetett helyzetben lévő személy a személyi védelem biztosításához szükséges eszközök alkalmazása ellen tiltakozik,
+
+d) a fenyegetett helyzetben lévő büntetőeljárásban részt vevő személy a büntetőeljárási kötelezettségeit nem teljesíti.
+
+### 21. §
+
+A személyi védelmet ellátó szerv a fenyegetett helyzetben lévő személy veszélyeztetettségét – a fenyegetett helyzetben lévő személy, illetve a személyi védelmet kezdeményező, elrendelő szerv véleményét is figyelembe véve – folyamatosan értékeli, és javaslatot tehet a személyi védelem megszüntetésére.
+
+### 22. §
+
+Ha a 2. § *a)* vagy *b)* pontjában meghatározott személy személyi védelmének megszüntetésére kerül sor – különös méltánylást érdemlő eset kivételével –, a fenyegetett helyzetben lévő személyre tekintettel a 2. § *c)* pontjában meghatározott más személy vonatkozásában elrendelt személyi védelmet is meg kell szüntetni.
+
+## 12. Záró rendelkezések
+
+### 23. §
+
+Ez a rendelet 2018. július 1-jén lép hatályba.
+
+### 24. §
+
+E rendelet rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+
+### 25. §[^1]
+
+---
+
+[^1]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

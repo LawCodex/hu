@@ -1,0 +1,309 @@
+---
+title: "338/2019. (XII. 23.) Korm. rendelet a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, átképzéséről, valamint a közigazgatási vezetőképzéséről"
+identifier: "338/2019. (XII. 23.) Korm. rendelet"
+njt_id: "2019-338-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/338"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-12-23
+in_force_from: 2020-01-01
+last_amended: 2024-07-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-338-20-22"
+retrieved: 2026-10-12
+---
+
+# 338/2019. (XII. 23.) Korm. rendelet a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, átképzéséről, valamint a közigazgatási vezetőképzéséről
+
+A Kormány
+
+a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 20. pontjában kapott felhatalmazás alapján,
+
+a 18. § és a 20–22. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 8. pontjában kapott felhatalmazás alapján,
+
+a 19. § és a 23. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 13. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya
+
+a) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 2. § (1) bekezdés a) pontjában meghatározott központi kormányzati igazgatási szervekre és ezek területi, helyi szerveire (a továbbiakban együtt: központi kormányzati igazgatási szerv),
+
+b)[^1] a központi kormányzati igazgatási szerveknél foglalkoztatott szakmai vezetőkre és ügyintézőkre (a továbbiakban együtt: kormánytisztviselő), a 9/a. alcím tekintetében a központi kormányzati igazgatási szerveknél foglalkoztatottakra,
+
+c) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem) és
+
+d)[^2] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központra (a továbbiakban: személyügyi központ)
+
+terjed ki.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *belső képzőintézmény:* a felnőttképzésről szóló törvényben szabályozott feltételeknek megfelelő, engedéllyel rendelkező felnőttképző;
+
+2\. *belső továbbképzés:* a központi kormányzati igazgatási szerv, valamint a felsőoktatási intézmény vagy felnőttképző által folytatott szakmai vagy nyelvi továbbképzés, konferencia, szakmai tájékoztató, illetve egyéb közösségi és egyéni tanulási forma, amely a kormánytisztviselő számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
+
+3\. *egyéni továbbképzési terv:* a kormánytisztviselő tárgyévre meghatározott továbbképzési kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
+
+4\. *központi oktatás-informatikai rendszer:* a továbbképzési rendszer digitális tanítási-tanulási portálja;
+
+5\. *közszolgálati továbbképzés:* az Egyetem által fejlesztett és megvalósított általános közigazgatási, szakmai vagy vezetői ismeretek megszerzésére irányuló, a közigazgatási szakvizsgára való felkészülést moduláris rendszerben szolgáló, továbbá a jogalkalmazás javítására irányuló továbbképzés;
+
+6\. *szakmai tájékoztató, konferencia, egyéb közösségi és egyéni tanulási formák:* az álláshelyen ellátandó feladathoz kapcsolódó, a szakmai munka ellátásával összefüggő szakmai, jogi, módszertani továbbképzés;
+
+7\. *tanulmányi pont:* a kormánytisztviselő által teljesített továbbképzés mértékegysége;
+
+8\. *továbbképzés:* a kormánytisztviselő alkalmazásához megkívánt iskolai alapképzettségen, szakképzettségen kívüli minden további iskolarendszerű vagy iskolarendszeren kívüli képzés, átképzés, vezetőképzés, szakvizsgára való felkészülést moduláris rendszerben szolgáló képzés, szakmai tájékoztató.
+
+## 2. A kormánytisztviselő továbbképzési kötelezettsége
+
+### 3. §
+
+(1) A kormánytisztviselő a tárgyévi továbbképzési kötelezettségét a munkáltatói jogkör gyakorlójának egyetértésével egyéni továbbképzési terv alapján – a 10. § (2) bekezdésében foglaltak szerint – teljesíti.
+
+(2) A kormánytisztviselő az (1) bekezdésben meghatározott továbbképzési kötelezettségét
+
+a) a munkáltatói jogkör gyakorlója által meghatározott,
+
+b) a központi kormányzati igazgatási szervet vezető, irányító vagy felügyelő miniszter, valamint
+
+c) a Kormány által előírt
+
+továbbképzéssel teljesíti [a *b)* és *c)* pont a továbbiakban együtt: kötelező továbbképzés].
+
+(3) A (2) bekezdés a) pontja szerinti továbbképzés közszolgálati vagy belső továbbképzés. A belső továbbképzés aránya a tárgyévi továbbképzési kötelezettség legfeljebb 50%-a lehet.
+
+(4) A továbbképzés teljesítésének mérése tanulmányi pontrendszerrel történik. A munkáltatói jogkör gyakorlója határozza meg a tárgyévi továbbképzési kötelezettség alapján teljesítendő tanulmányi pontok mértékét, valamint a belső továbbképzések tekintetében az egyes továbbképzési programok tanulmányi pontjainak értékét az Egyetem által kiadott módszertani útmutató alapján.
+
+### 4. §
+
+(1) Mentesül a továbbképzési kötelezettség alól a központi kormányzati igazgatási szervnél foglalkoztatott azon kormánytisztviselő, aki esetében a rá irányadó nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra.
+
+(2) A munkáltatói jogkör gyakorlója dönthet úgy, hogy az általa meghatározott továbbképzési kötelezettség alól mentesíti a tárgyévben a központi kormányzati igazgatási szervnél foglalkoztatott azon kormánytisztviselőt, aki a központi kormányzati igazgatási szervvel kötött tanulmányi szerződés alapján tanulmányokat folytat.
+
+(3) A belső továbbképzések
+
+a) saját vagy más kormányzati igazgatási szerv, vagy az azt kiszolgáló belső képzőintézmény által nyilvántartásba vett továbbképzés lebonyolításával,
+
+b) felsőoktatási vagy felnőttképzési intézmény által biztosított képzési szolgáltatással,
+
+c) a munkáltatói jogkör gyakorlója által támogatott, a kormánytisztviselő által választott egyéni vagy közösségi tanulási formával biztosíthatóak.
+
+(4) A központi kormányzati igazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet, a tervezett, illetve a teljesített képzések esetében az 5. § (3) bekezdésében szereplő adatokat rögzíti az Egyetem által biztosított központi oktatás-informatikai rendszerben.
+
+### 5. §
+
+(1) A központi kormányzati igazgatási szerv által szervezett belső továbbképzés a központi kormányzati igazgatási szerv közszolgálati szabályzatában meghatározott eljárásrend szerint jóváhagyott programokból állhat.
+
+(2) A területi kormányzati igazgatási szerv által irányított szervek belső továbbképzési programjait az irányító kormányzati igazgatási szerv hagyja jóvá.
+
+(3) A (2) bekezdés szerinti jóváhagyás során vizsgálni szükséges a belső továbbképzési program
+
+a) címét,
+
+b) tartalmát,
+
+c) célját, célcsoportját,
+
+d) az általa megszerezhető kompetenciákat,
+
+e) típusát,
+
+f) teljesítendő óraszámát,
+
+g) számonkérésének alkalmazott módját és
+
+h) teljesítésével megszerezhető tanulmányi pontok számát.
+
+(4) A (2) bekezdés szerinti jóváhagyási eljárásban részt vevő hivatali szervezeti egységeket a központi kormányzati igazgatási szerv közszolgálati szabályzata határozza meg.
+
+### 6. §
+
+(1) A kormánytisztviselő továbbképzési kötelezettsége a próbaidő leteltét követő napon kezdődik. Ha próbaidő kikötésére nem kerül sor, a továbbképzési kötelezettség a jogviszony létesítésének napján kezdődik.
+
+(2) Ha a továbbképzésre kötelezett kormánytisztviselő
+
+a) három hónapot meghaladóan fizetés nélküli szabadságot vagy táppénzellátást vesz igénybe,
+
+b) a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti felkészülésben vesz részt, vagy
+
+c) a Külszoltv. szerinti tartós külszolgálatot teljesít,
+
+a továbbképzési kötelezettséget a képzési kötelezettsége ismételt visszaállását követően, a tárgyévre vonatkozóan, az éves továbbképzési tervében meghatározottan, időarányosan kell teljesítenie.
+
+(3) A munkáltatói jogkör gyakorlója az egyéni továbbképzési tervvel összhangban biztosítja a kormánytisztviselő – különösen a személyes jelenlétet igénylő – továbbképzésben való részvételének feltételeit.
+
+### 6/A. §[^3]
+
+Az a kormánytisztviselő, aki minisztériumnál a munkáltatói jogkör gyakorlója által kijelölt, jogszabály-előkészítési feladatok ellátását szolgáló álláshelyet, illetve munkakört tölt be (a továbbiakban együtt: jogszabály-előkészítési feladatok ellátását szolgáló munkakör), a jogszabályok preambulumával összefüggő követelményeket ismertető továbbképzést köteles teljesíteni.
+
+## 3. A továbbképzés ágazati irányítása és felügyelete
+
+### 7. §
+
+(1)[^4] A kormánytisztviselők továbbképzésének ágazati irányítása és felügyelete a személyügyi központ vezetőjének feladata.
+
+(2)[^5] A személyügyi központ vezetője különösen
+
+a) irányítja a továbbképzés intézményrendszerét;
+
+b) felügyeli az Egyetem továbbképzés tervezésével összefüggő feladatainak végrehajtását;
+
+c) felügyeli – az Egyetem bevonásával – a központi kormányzati igazgatási szervek éves továbbképzési tervezését, valamint a tervek végrehajtását;
+
+d) jóváhagyja a 11. § (3) bekezdésében meghatározott jelentést.
+
+## 4. A Közigazgatási Továbbképzési Kollégium
+
+### 8. §
+
+A közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet szerint meghatározott Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) a rendelet hatálya alá tartozó továbbképzések vonatkozásában
+
+a) meghatározza a közszolgálati továbbképzési programok követelményrendszerét, valamint javaslatot tesz a közszolgálati továbbképzési programok továbbfejlesztésére,
+
+b) ellátja a továbbképzési programok minőségbiztosításával kapcsolatos feladatokat.
+
+## 5. Az Egyetem
+
+### 9. §
+
+(1) Az Egyetem a továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+
+a) kifejleszti a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
+
+b) képzéseket biztosít a kormánytisztviselők idegennyelvi fejlesztéséhez és nyelvvizsga-felkészüléséhez;
+
+c) működteti és továbbfejleszti a központi oktatás-informatikai rendszert a tematikus, folyamatos és aktív közösségi tanulás és közösségi tudásmegosztás funkcióval;
+
+d) a *c)* pontban meghatározott tanulóközösségeket működteti, a tanulási munkát tematizálja és orientálja;
+
+e) a központi oktatás-informatikai rendszerben biztosítja a továbbképzések tervezésének adatbázisát, tervezési rendszerét;
+
+f) kidolgozza a tervkészítésre vonatkozó módszertani eljárásokat;
+
+g)[^6] a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ vezetője részére.
+
+(2) A továbbképzési program (1) bekezdés a) pont szerinti fejlesztése magában foglalja a továbbképzési programokban felhasznált szakanyagok létrehozását, továbbá a képzés során alkalmazott oktatásmódszertan, a képzések követelményrendszerének megfelelő tanmenet és a képzésekben felhasznált tananyagok, oktatási segédanyagok fejlesztését.
+
+(3) Az Egyetem a közszolgálati továbbképzési kínálatában a kormánytisztviselőnek a tárgyévre legalább 16 tanulmányi pont és legfeljebb 40 tanulmányi pont értékű képzést köteles biztosítani.
+
+(4) Az Egyetem a központi kormányzati igazgatási szervvel kötött külön megállapodás alapján a 3. § (2) bekezdésében felsorolt képzéseknek nem minősülő egyéb képzéseket biztosíthat.
+
+(5) Az Egyetem működteti a továbbképzésekkel összefüggő tervkészítési feladatok ellátását és az egyéni továbbképzési tervek teljesülésének nyomon követését támogató központi oktatás-informatikai rendszert, valamint kidolgozza a tervkészítéshez szükséges módszertani ajánlásokat.
+
+## 6. A továbbképzés tervezése
+
+### 10. §
+
+(1) A kormánytisztviselő továbbképzése az egyéni továbbképzési tervek alapján történik.
+
+(2) A tárgyévben meghatározott továbbképzési kötelezettséget tartalmazó egyéni továbbképzési terv elkészítéséről – a 9. § (1) bekezdés f) pontjában foglaltak figyelembevételével – a tárgyév február 28-áig a munkáltatói jogkör gyakorlója gondoskodik.
+
+(3) Az egyéni továbbképzési terv tartalmazza a közszolgálati és belső továbbképzéseket, valamint a Kormány és a központi kormányzati igazgatási szervet vezető, irányító vagy felügyelő miniszter által előírt kötelező képzéseket.
+
+(4) Az éves egyéni továbbképzési tervet a munkáltatói jogkör gyakorlója a tárgyévben felmerülő továbbképzési igények alapján módosíthatja.
+
+### 11. §
+
+(1) A hivatali szervezet vezetője az egyéni továbbképzési tervek összesítésével készíti el a központi kormányzati igazgatási szerv éves továbbképzési tervét (a továbbiakban: intézményi továbbképzési terv), amelyet tárgyév március 15-éig megküld az Egyetem részére.
+
+(2) A munkáltatói jogkör gyakorlója a közszolgálati továbbképzési igények tervezését a központi oktatás-informatikai rendszerben rögzíti.
+
+(3)[^7] A központi kormányzati igazgatási szerv az intézményi továbbképzési terv végrehajtásáról tájékoztatót készít, amelyet a tárgyévet követő év március 15-éig megküld az Egyetem részére. A tájékoztató alapján az Egyetem a tárgyévet követő év április 30-áig a személyügyi központ vezetőjének, valamint a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek jelentést készít a megvalósított továbbképzésekről, valamint a felhasznált pénzügyi forrásokról.
+
+## 7. A továbbképzési kötelezettség teljesítésének finanszírozása
+
+### 12. §[^8]
+
+(1) A közszolgálati és a belső továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja.
+
+(2) A közszolgálati továbbképzés, az álláshelyen ellátandó feladathoz előírt közigazgatási szakvizsga, valamint a Kormány által előírt továbbképzés költségei az Egyetem költségvetésében kerülnek tervezésre a központi kormányzati igazgatási szervek összesített, a költségvetési évet megelőző év január 1-jén foglalkoztatott kormánytisztviselői létszáma alapján, amelyhez a Magyar Államkincstár szolgáltat adatot a Pénzügyminisztérium és az Egyetem részére a költségvetési évet megelőző év január 31-ig. Ha a központi kormányzati igazgatási szervek összesített, a költségvetési évet megelőző év január 1-jén foglalkoztatott kormánytisztviselői létszáma eltér a központi kormányzati igazgatási szervek összesített, a tárgyév január 1-jén foglalkoztatott kormánytisztviselői létszámától, akkor a különbözetet el kell számolni az Egyetem tárgyévet követő évi költségvetésében.
+
+(3) A költségvetési tervezés alapja kormánytisztviselőnként 14 000 forint.
+
+(4) Ha a kormánytisztviselő nem vesz részt a továbbképzésben, az Egyetem utólag nem számol el a központi költségvetésből biztosított forrás összegével, a keletkezett többletet az Egyetem a továbbképzési rendszer működtetésére használja fel.
+
+(5) Ha a központi kormányzati igazgatási szervnél a tárgyév január 1-jét követően keletkezik továbbképzési kötelezettség, akkor a kormánytisztviselő után az Egyetem részére a központi költségvetésből biztosított összeg időarányosan kerül tervezésre többletként az Egyetem tárgyévet követő évi költségvetésében.
+
+## 8. A közigazgatási vezetőképzés
+
+### 13. §
+
+(1) A közigazgatási vezetőképzésre e rendelet szabályait a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A közigazgatási vezetőképzés a vezetői utánpótlás képzéséből, a vezető rendszeres továbbképzéséből és a vezető magas szintű kiválósági képzéséből áll.
+
+(3) A közigazgatási vezetőképzés programjait a továbbképzési programkínálaton belül az Egyetem fejleszti és működteti. A vezetőképzési programok megvalósítására az Egyetem jogosult.
+
+## 9. Az átképzés
+
+### 14. §
+
+Az átképzés keretében a központi kormányzati igazgatási szerv a kormánytisztviselő által betöltött álláshelytől eltérő álláshelyen ellátandó feladatok, illetve a betöltött álláshelyen ellátandó feladatok hatékonyabb ellátását biztosító iskolai végzettség, szakképzettség, szakképesítés megszerzéséhez szükséges továbbképzést lehetővé teszi.
+
+## 9/a.[^9] A személyügyi központ által szervezett, önkéntesen igénybe vehető képzések
+
+### 14/A. §
+
+(1) A személyügyi központ önkéntesen igénybe vehető képzést, továbbképzést szervezhet.
+
+(2) Az (1) bekezdés szerinti képzésen, továbbképzésen a kormányzati igazgatási szerv foglalkoztatottja a munkáltatói jogkör gyakorlójának előzetes jóváhagyásával vehet részt.
+
+(3) Az (1) bekezdés szerinti képzés, továbbképzés a Kit. 97. § (1) bekezdése szerinti képzésnek minősül.
+
+(4) Az (1) bekezdés szerinti képzést, továbbképzést a személyügyi központ által felkért, illetve megbízott szervezet biztosítja.
+
+## 10. Záró rendelkezések
+
+### 15. §
+
+(1) Ez a rendelet 2020. január 1-jén lép hatályba.
+
+(2) A KTK tagjainak megbízatását a kormányrendelet hatálybalépése nem érinti.
+
+### 16. §[^10]
+
+A közszolgálati és a belső továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a központi kormányzati igazgatási szerv által az Egyetem részére megfizetett továbbképzési hozzájárulás összegét az Egyetem a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.) Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a központi kormányzati igazgatási szerv részére visszafizetni.
+
+### 17. §[^11]
+
+E rendeletnek a kormányzati igazgatási szervek foglalkoztatottainak képzését érintő jogszabályok módosításáról szóló 29/2024. (II. 22.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 14/A. §-át azokra a képzésekre, továbbképzésekre is alkalmazni kell, amelyek szervezése a Módr. hatálybalépését[^12] megelőzően megkezdődött.
+
+### 18. §[^14]
+
+(1) A 6/A. § szerinti továbbképzési kötelezettséget 2024. szeptember 1. napjától kell teljesíteni.
+
+(2) Az a kormánytisztviselő, aki minisztériumnál 2024. szeptember 1. napján jogszabály-előkészítési feladatok ellátását szolgáló munkakört tölt be – függetlenül attól, hogy fennáll-e továbbképzési kötelezettsége –, a 6/A. § szerinti továbbképzést 2024. december 31. napjáig köteles teljesíteni.
+
+(3) A munkáltatói jogkör gyakorlója 2024. augusztus 15. napjáig köteles
+
+a) a jogszabály-előkészítési feladatok ellátását szolgáló munkakörök 6/A. § szerinti kijelölését végrehajtani, és
+
+b) a (2) bekezdés szerinti kormánytisztviselőt a (2) bekezdés szerinti kötelezettségéről és a kötelezettség teljesítése módjáról tájékoztatni.
+
+(4) A 6/A. § szerinti kötelezettség kizárólag 2024. szeptember 1-jétől elvégzett továbbképzéssel teljesíthető.
+
+(5) Az a kormánytisztviselő, aki a (2) bekezdés szerinti kötelezettségének akkor tesz eleget, amikor továbbképzési kötelezettsége nem áll fenn, az általa elvégzett továbbképzést a továbbképzési kötelezettsége kezdetét követően továbbképzési kötelezettség alatt teljesített továbbképzésként figyelembe kell venni.
+
+---
+
+[^1]: Az 1. § b) pontja a 29/2024. (II. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 243/2022. (VII. 4.) Korm. rendelet 21. § a) pontjával megállapított szöveg.
+[^3]: A 6/A. §-t a 200/2024. (VII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A 7. § (1) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (2) bekezdés nyitó szövegrésze a 243/2022. (VII. 4.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^6]: A 9. § (1) bekezdés g) pontja a 243/2022. (VII. 4.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^7]: A 11. § (3) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^8]: A 12. § a 140/2023. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 9/a. alcímet (14/A. §-t) a 29/2024. (II. 22.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 16. §-t a 243/2022. (VII. 4.) Korm. rendelet 22. §-a hatályon kívül helyezte, újonnan a 140/2023. (IV. 24.) Korm. rendelet 5. §-a iktatta be.
+[^11]: A 17. §-t a 243/2022. (VII. 4.) Korm. rendelet 22. §-a hatályon kívül helyezte, újonnan a 29/2024. (II. 22.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2024. február 23.
+[^14]: A 18. §-t a 243/2022. (VII. 4.) Korm. rendelet 22. §-a hatályon kívül helyezte, újonnan a 200/2024. (VII. 29.) Korm. rendelet 6. §-a iktatta be.

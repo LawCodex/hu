@@ -1,0 +1,36 @@
+---
+title: "18/2012. (II. 16.) Korm. rendelet a budapesti Kossuth Lajos téri beruházáshoz kapcsolódó egyes beszerzéseknek a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet 7. § (5) bekezdés a) pontja szerinti minősítéséről"
+identifier: "18/2012. (II. 16.) Korm. rendelet"
+njt_id: "2012-18-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/18"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-02-16
+in_force_from: 2012-02-17
+last_amended: 2015-02-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-18-20-22"
+retrieved: 2026-10-12
+---
+
+# 18/2012. (II. 16.) Korm. rendelet a budapesti Kossuth Lajos téri beruházáshoz kapcsolódó egyes beszerzéseknek a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet 7. § (5) bekezdés a) pontja szerinti minősítéséről
+
+A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 12. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+A Kormány a budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs és látogatóközpont építése, valamint a Közigazgatási és Igazságügyi Minisztérium központi épülete korhű tetőzetének visszaállítása érdekében megvalósuló beruházások során szükséges, a 2. §-ban meghatározott beszerzések tekintetében megállapítja, hogy a beszerzések során a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet közösségi beszerzésre vonatkozó szabályainak alkalmazása olyan információk átadására kötelezné Magyarországot, amelynek felfedése ellentétes az állam biztonságához fűződő alapvető érdekével.
+
+## 2. §[^2]
+
+Az 1. § szerinti beszerzésnek minősül a budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs és látogatóközpont, valamint a Közigazgatási és Igazságügyi Minisztérium központi épülete korhű tetőzetének visszaállítása tervezése, kivitelezése, valamint a kapcsolódó szolgáltatások megrendelése, illetve az Országgyűlés Hivatala kezdeményezésére és vele egyeztetve, más beruházók által a Kossuth teret közvetlenül érintő közművezetékekkel érintett ingatlanokon az 1. § szerinti beruházások eredményeként megvalósuló állapot hosszú távú megőrzése érdekében lebonyolított beruházásokhoz kapcsolódó beszerzések megvalósítása, továbbá a Budapest 24710/4 helyrajzi számon nyilvántartott, természetben a Budapest V. kerület Kossuth Lajos tér 6–8. szám alatt álló épület – különösen a homlokzat – átalakításával, felújításával összefüggő tervezési szolgáltatások végzése, költségbecslés, árazatlan költségvetés készítése, dokumentáció készítése, a megvalósításhoz szükséges engedélyek, hozzájárulások beszerzésével kapcsolatos ügyintézés, a beruházás komplex lebonyolítói és műszaki ellenőri, valamint tervellenőri feladatainak ellátása, illetve a beruházás megvalósításának előkészítéséhez szükséges egyéb feladatok.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: Az 1. § a 328/2012. (XI. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § a 328/2012. (XI. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 23/2015. (II. 18.) Korm. rendelet 5. §-a szerint módosított szöveg.

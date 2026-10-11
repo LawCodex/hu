@@ -1,0 +1,139 @@
+---
+title: "392/2014. (XII. 31.) Korm. rendelet a Digitális Nemzet Fejlesztési Program végrehajtásához kapcsolódó szélessávú hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "392/2014. (XII. 31.) Korm. rendelet"
+njt_id: "2014-392-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/392"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-12-31
+in_force_from: 2015-01-03
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-392-20-22"
+retrieved: 2026-10-12
+---
+
+# 392/2014. (XII. 31.) Korm. rendelet a Digitális Nemzet Fejlesztési Program végrehajtásához kapcsolódó szélessávú hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 1. § (1) bekezdés a)–b) és e) pontjára tekintettel, a 12. § (3) bekezdésében és az (5) bekezdés a)–b), és e)–f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdésében;
+
+a 3. § (3) bekezdés a)–b) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2. alpontjában;
+
+a 3. § (3) bekezdés c) pontja tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés h) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Digitális Nemzet Fejlesztési Programról szóló 1162/2014. (III. 25.) Korm. határozat 2. *a)* pontjában kitűzött cél elérését szolgáló,
+
+a) részben vagy egészben európai uniós vagy költségvetési támogatásból megvalósuló, vagy
+
+b) európai uniós vagy költségvetési támogatást nem tartalmazó, de a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 1. § (1) bekezdés e) pontjában foglalt feltételt teljesítő
+
+szélessávú internetelérést biztosító hálózatfejlesztési projektek beruházásaival összefüggő, az ilyen hálózatok fejlesztéséhez, kiépítéséhez, és használatbavételéhez, üzembe helyezéséhez közvetlenül szükséges, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2)–(3)[^1]
+
+## 2/A. §[^3]
+
+(1)[^4] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű hatósági ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispánt (a továbbiakban: főispán) jelöli ki.
+
+(2)[^5] A főispán az (1) bekezdés szerinti koordinációs feladatainak ellátása során együttműködik a Digitális Jólét Programjával kapcsolatos kormányzati feladatok összehangolásáért és megvalósításáért felelős miniszterelnöki biztossal (a továbbiakban: miniszterelnöki biztos), és minden hónap ötödik napjáig a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályairól szóló 33/2013. (XII. 23.) KIM rendelet 3–6. mellékletében foglalt – kitöltött – táblázatok megküldésével tájékoztatja a miniszterelnöki biztost a kiemelt jelentőségű ügyekkel kapcsolatos intézkedéseiről és a kiemelt jelentőségű ügyek állásáról.
+
+## 3. §
+
+(1) Az 1. § (1) bekezdése szerinti hatósági ügyekben a szakhatóság eljárására az ügyintézési határidő 8 nap.
+
+(2)[^6]
+
+(3) Az 1. § (1) bekezdése szerinti
+
+a) építésügyi hatósági ügyekben nem kell településképi véleményezési eljárást lefolytatni,
+
+b) építésügyi hatósági ügyekben településképi bejelentési eljárásnak nincs helye,
+
+c) beruházások esetén az előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet végezni, ha a beruházó rendelkezésére állnak annak elvégzéséhez szükséges földrészletek. A földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
+
+## 4. §
+
+(1)[^7]
+
+(2)[^8]
+
+(3)[^9]
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+## 1. melléklet a 392/2014. (XII. 31.) Korm. rendelethez
+
+A kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások:
+
+1\. az elektronikus hírközlési építmények elhelyezésével és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárások,
+
+2\. elektronikus hírközlési tevékenységgel kapcsolatos hatósági eljárások,
+
+3\. villamos művek, villamos berendezéssel, valamint villamosvezetékkel kapcsolatos engedélyezésre irányuló hatósági eljárások,
+
+4\. környezetvédelmi hatósági eljárások,
+
+5\. természetvédelmi hatósági eljárások,
+
+6\. építésügyi hatósági eljárások,
+
+7\. telekalakításra és szolgalmi jogra irányuló hatósági eljárások,
+
+8\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+9\. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+10\. erdészeti hatósági engedélyezésre irányuló eljárások,
+
+11\. területrendezési hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. közúti, vasúti, vízi, vagy légiközlekedést érintő közlekedésügyi hatósági eljárások,
+
+14\. nyomvonal kijelölésével és használatba vételével kapcsolatos hatósági eljárások,
+
+15\. közműkezeléssel kapcsolatos hatósági eljárások,
+
+16\. a régészeti örökség és a műemléki érték védelmére irányuló hatósági eljárások,
+
+17\. földmérési hatósági eljárások,
+
+18\. erdővédelmi hatósági eljárások,
+
+19.[^10] a bányafelügyelet hatáskörébe tartozó hatósági eljárások,
+
+20\. tűzvédelmi hatósági eljárások,
+
+21\. műszaki biztonsági engedélyezési eljárások,
+
+22\. az államhatár rendjének biztosításával kapcsolatos hatósági eljárások,
+
+23\. az építési, illetve a bontási hulladékok kezelésére és hulladékgazdálkodási előírásokra vonatkozó megfelelőségre irányuló eljárások,
+
+24\. a tevékenység és az építmény a felszín alatti vizek védelmére vonatkozó követelményeknek és a vizek lefolyására, a mederfenntartásra, az árvíz és a jég levonulására vonatkozó követelményeknek való megfelelőségére vonatkozó hatósági eljárások,
+
+25\. helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetén a követelményeknek való megfelelőség elbírálására vonatkozó eljárások,
+
+26\. a honvédelmi vagy katonai célú létesítmény működési vagy védőterületén építmény vagy egyéb műtárgy elhelyezésével kapcsolatos eljárások,
+
+27\. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (2)–(3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 170. § a) pontja hatályon kívül helyezte.
+[^3]: A 2/A. §-t a 346/2016. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2/A. § (1) bekezdése a 371/2020. (VII. 30.) Korm. rendelet 31. §-a, az 546/2022. (XII. 22.) Korm. rendelet 64. § a) és b) pontja szerint módosított szöveg.
+[^5]: A 2/A. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 239. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^7]: A 4. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 170. § c) pontja hatályon kívül helyezte.
+[^8]: A 4. § (2) bekezdését a 484/2017. (XII. 28.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^9]: A 4. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 102. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^10]: Az 1. melléket 19. pontja a 441/2015. (XII. 28.) Korm. rendelet 238. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

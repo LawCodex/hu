@@ -1,0 +1,153 @@
+---
+title: "470/2016. (XII. 23.) Korm. rendelet a Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről"
+identifier: "470/2016. (XII. 23.) Korm. rendelet"
+njt_id: "2016-470-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/470"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-23
+in_force_from: 2016-12-24
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-470-20-22"
+retrieved: 2026-10-12
+---
+
+# 470/2016. (XII. 23.) Korm. rendelet a Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d), e) és f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában,
+
+a 4. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 4. § b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+az 5. § (1) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5. és 6. pontjában,
+
+az 5. § (2) bekezdése tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 27. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 38293/79 helyrajzi szám alatt nyilvántartott földrészleten, valamint ezen földrészletből telekalakítási eljárás véglegessé válását követően kialakított földrészleteken megvalósuló Magyar Telekom Nyrt. székházának, a mélygarázs és további irodafejlesztés megvalósítására, valamint a kapcsolódó infrastrukturális fejlesztésekre irányuló beruházásokkal (a továbbiakban együtt: Beruházás) függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek, valamint a beruházásokhoz közvetlenül kapcsolódó útépítési, közmű-csatlakozási és fejlesztési munkák érdekében az ingatlannal szomszédos Budapest IX. kerület 38298, 38293/76, 38293/77 helyrajzi számú Üllői utat, 38293/15 és 38293/55 helyrajzi számú Könyves Kálmán körutat, 38291 helyrajzi számú Albert Flórián utat érintik.
+
+## 2. §
+
+(1)[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalt vezető főispánt jelöli ki.
+
+(2)[^3]
+
+(3)[^4]
+
+## 3. §
+
+(1)[^5]
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, illetve az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével – tizenöt nap.
+
+(4)[^6] A használatbavételi engedélyezési eljárás az ütemezett építési engedélytől eltérően az iroda, valamint a szálloda rendeltetésű épületrészekre külön-külön is lefolytatható.
+
+## 4. §
+
+A Beruházással összefüggésben
+
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni és
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 5. §
+
+(1)[^7] A Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a vonatkozó településrendezési tervet a következő eltérésekkel kell alkalmazni:
+
+a) a telek legkisebb zöldfelületébe a legalább 50 m<sup>2</sup>-t elérő területű, az OTÉK 5. számú melléklete szerinti egybefüggő, háromszintes növényállományú intenzív zöldtetők 100%-ban beszámíthatóak,
+
+b) a rendeltetésszerű használathoz szükséges gépjármű-várakozóhelyek felszínen, épületben vagy terepszint alatti építményekben egyaránt elhelyezhetőek.
+
+(2) A Beruházással összefüggésben a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendeletet a következő eltérésekkel kell alkalmazni:
+
+a) a Beruházás vonatkozásában e rendelet hatálybalépéséig kivágott fás szárú növények pótlásáról 2019. december 31. napjáig kell gondoskodni,
+
+b) a Beruházás vonatkozásában e rendelet hatálybalépését követően kivágott fás szárú növények pótlásáról 2021. december 31. napjáig kell gondoskodni,
+
+c) kivágott fák pótlására telepített fák közé beszámítandóak a Beruházás keretében, a Beruházással érintett ingatlanon telepített fás szárú növények.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 8. §[^8]
+
+E rendeletnek a vasúti közlekedési tárgyú kormányrendeletek jogharmonizációs célú módosításáról szóló 223/2023. (VI. 6.) Korm. rendelettel megállapított 3. § (4) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 470/2016. (XII. 23.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+10\. telekalakításra irányuló hatósági eljárások,
+
+11\. földmérési hatósági eljárások,
+
+12\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+13\. hírközlési hatósági eljárások,
+
+14\. bányahatósági engedélyezési eljárások,
+
+15\. tűzvédelmi hatósági eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. területrendezési hatósági eljárások,
+
+19\. fás szárú növények kivágásához szükséges engedélyezési eljárások,
+
+20.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+21\. azok az 1–20. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+22\. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 312. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 145. § a) és b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 87. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 2. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 313. § b) pontja hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 313. § c) pontja hatályon kívül helyezte.
+[^6]: A 3. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 313. § c) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 21. §-a iktatta be.
+[^7]: Az 5. § (1) bekezdés nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^8]: A 8. §-t a 223/2023. (VI. 6.) Korm. rendelet 22. §-a iktatta be.
+[^9]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 220. §-a szerint módosított szöveg.

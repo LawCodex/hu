@@ -1,0 +1,251 @@
+---
+title: "334/2013. (IX. 20.) Korm. rendelet Magyarország Kormánya és a Libanoni Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "334/2013. (IX. 20.) Korm. rendelet"
+njt_id: "2013-334-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/334"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-09-20
+in_force_from: 2013-09-21
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-334-20-22"
+retrieved: 2026-10-12
+---
+
+# 334/2013. (IX. 20.) Korm. rendelet Magyarország Kormánya és a Libanoni Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Libanoni Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+
+**„GAZDASÁGI ÉS MŰSZAKI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A LIBANONI KÖZTÁRSASÁG KORMÁNYA KÖZÖTT**
+
+A Libanoni Köztársaság Kormánya és Magyarország Kormánya – a továbbiakban: a „Felek” – felismerve azt, hogy a gazdasági és műszaki együttműködés a szilárd, hosszú távú kétoldalú kapcsolatok fejlesztésének, valamint a Felek és népeik közötti kölcsönös bizalomnak elengedhetetlen és nélkülözhetetlen eleme;
+
+meggyőződve arról, hogy a jelen Megállapodás ténylegesen hozzájárul a Felek közötti gazdasági és kereskedelmi kapcsolatok fejlődéséhez, különösen a kölcsönösen előnyös gazdasági és technológiai együttműködés továbbfejlesztéséhez;
+
+a Felek kétoldalú gazdasági, üzleti és műszaki együttműködésének előmozdítását és további erősítését óhajtva népeik javára;
+
+az alábbiakban állapodtak meg:
+
+**1. Cikk**
+
+A Felek a hatályos jogszabályok által nyújtott kereteken belül, megfelelő intézkedések meghozatalával támogatják a kölcsönösen előnyös gazdasági és műszaki együttműködés fejlődését.
+
+**2. Cikk**
+
+A jelen Megállapodásban említett együttműködési területek többek között az alábbiakat foglalják magukban:
+
+1\. A két ország közötti együttműködés és közös projektek létrehozásának előmozdítása gazdasági, üzleti, pénzügyi, banki, ipari, idegenforgalmi szolgáltatási, műszaki, mezőgazdasági, fuvarozási, humánerőforrás-fejlesztési, vegyipari és petrolkémiai ipari, csomagolástechnikai, oktatási, távközlési és információs társadalmi, valamint vízgazdálkodási területeken.
+
+2\. A műszaki kutatással kapcsolatos információcsere előmozdítása.
+
+3\. A konkrét együttműködési programokhoz szükséges szakemberek cseréjének és képzésének előmozdítása.
+
+**3. Cikk**
+
+A Felek törekednek arra, hogy az alább felsorolt eszközökkel szélesítsék és intenzívebbé tegyék együttműködésüket:
+
+1\. elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, regionális és helyi szervek, a kereskedelmi és ipari kamarák között, valamint bátorítják ezen szervek képviselőinek kölcsönös látogatásait, így elősegítve a gazdasági, üzleti és technológiai együttműködés végrehajtását;
+
+2\. üzleti információkat cserélnek a Megállapodás végrehajtásával kapcsolatban, bátorítják a vásárokon és kiállításokon történő részvételt, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezését;
+
+3\. elősegítik a két ország kis- és középvállalkozásainak nagyobb mértékű bevonását a bilaterális gazdasági kapcsolatok területén;
+
+4\. konzultációs, marketing, tanácsadói és szakértői szolgáltatások nyújtásával bátorítják az együttműködést a kölcsönös érdeklődésre számot tartó területeken;
+
+5\. bátorítják a beruházási tevékenységet, vegyesvállalatok alapítását, vállalati képviseletek és fiókirodák létesítését a Felek területén alkalmazandó jogszabályoknak megfelelően;
+
+6\. elősegítik a régiók közötti együttműködést és a nemzetközi szintű együttműködést a kölcsönös érdeklődésre számot tartó kérdésekben;
+
+7\. a Felek által a későbbiekben elfogadott egyéb eszközök útján kiterjesztik és erősítik együttműködésüket.
+
+**4. Cikk**
+
+A jelen Megállapodás keretein belül a Felek országaiban élő természetes és jogi személyek közötti ügyletek lebonyolításakor használatos fizetési módok és pénznemek vonatkozásában a Felek ösztönzik bármely nemzetközileg elfogadott fizetési mód és szabadon átváltható valuta használatát, melyek széles körűen használtak nemzetközi tranzakciókban, és amelyben az érintett felek megállapodnak.
+
+**5. Cikk**
+
+A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok valamelyik Felet arra kötelezik, hogy bármelyik nemzetközi, regionális vagy szubregionális megállapodásból vagy más, egészében vagy nagyrészt az adózással, vagy a tőke mozgásával kapcsolatos megállapodásból, vagy az egészében vagy nagyrészt az adózással kapcsolatos hazai jogszabályokból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjessze a másik félre.
+
+**6. Cikk**
+
+Szükség esetén a Felek konkrét megállapodásokat kötnek a jelen Megállapodás alapján a fent említett együttműködési területekkel és más, egymás között esetlegesen egyeztetendőn speciális projektekkel kapcsolatban.
+
+**7. Cikk**
+
+1\. A jelen Megállapodás végrehajtásának biztosítása céljából a Felek képviselőinek részvételével Vegyes Bizottság alakul. A Bizottság – közös egyetértés alapján – a Felek országaiban felváltva ülésezik. A Libanoni Köztársaság Gazdasági és Kereskedelmi Minisztériuma, és a magyar nemzetközi gazdasági kapcsolatokért felelős minisztérium kijelölt képviselői töltik be a Vegyes Bizottság elnöki tisztét.
+
+2\. A Vegyes Bizottság többek között az alábbi kérdések áttekintésére jogosult:
+
+a. a Felek közötti gazdasági és műszaki együttműködés ösztönzése és koordinálása;
+
+b. a jelen Megállapodás végrehajtását, valamint a jelen Megállapodásból eredő megállapodások végrehajtását célzó javaslatok támogatása és mérlegelése;
+
+c. ajánlások kidolgozása a jelen Megállapodással összhangban létrejövő megállapodások vagy projektek végrehajtása során esetlegesen felmerülő akadályok megszüntetése céljából;
+
+d. a kétoldalú gazdasági kapcsolatok új fejlesztési lehetőségeinek feltárása.
+
+**8. Cikk**
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatban a Felek között felmerülő viták rendezése békés úton, konzultációk és tárgyalások révén, diplomáciai csatornákon keresztül történik.
+
+**9. Cikk**
+
+A jelen Megállapodás semmilyen módon nem sérti Magyarországnak mint az Európai Unió tagállamának a kötelezettségeit, és e kötelezettségek hatálya alá tartozik. Következésképpen a jelen Megállapodás rendelkezései sem egészben, sem részben nem említhetők vagy értelmezhetők úgy, hogy azok érvénytelenítik, módosítják vagy más módon befolyásolják Magyarországnak az Európai Unió alapját képező Szerződésekből, valamint az Európai Unió elsődleges és másodlagos jogából eredő kötelezettségeit.
+
+A jelen Megállapodás egyik rendelkezése sem értelmezhető úgy, hogy azok a Feleket arra kötelezik, hogy bármelyik olyan meglévő vagy jövőbeni közös piaci, szabadkereskedelmi, vámuniós vagy hasonló nemzetközi megállapodásból eredő bármilyen elbánás, kedvezmény vagy előjog jelenlegi vagy jövőbeni hasznát kiterjesszék a másik félre, amelynek a Felek jelenleg tagjai vagy a későbbiekben tagjai lehetnek.
+
+**10. Cikk**
+
+A jelen Megállapodás rendelkezései és szövege a Felek közötti írásos megállapodás alapján módosítható a Felek közös megegyezése alapján. A jelen Megállapodásra vonatkozó bármilyen módosítás a jelen Megállapodás 11. Cikke értelmében lép hatályba.
+
+**11. Cikk**
+
+1\. A jelen Megállapodás az utolsó értesítést követő 30. (harmincadik) napon lép hatályba, mikor a Felek diplomáciai csatornákon keresztül írásban értesítik a másik Felet a Megállapodás belső jogszabályok szerinti jóváhagyásáról.
+
+2\. A jelen Megállapodás hatálybalépésének időpontjától számított öt (5) évig marad hatályban, valamint automatikusan megújul újabb 5 év hosszúságú időszakokra, kivéve, ha bármely Fél a diplomáciai csatornákon keresztül írásban minimum hat (6) hónappal hatályának lejárta előtt arról tájékoztatja a másik Felet, hogy a jelen Megállapodást meg kívánja szüntetni.
+
+**12. Cikk**
+
+A jelen Megállapodás megszüntetése nem befolyásolja a jelen Megállapodás alapján kötött, illetve végzett konkrét megállapodások, projektek vagy tevékenységek érvényességét vagy időtartamát az említett konkrét megállapodások, projektek vagy tevékenységek befejezéséig, hacsak a Felek másképp nem döntenek.
+
+FENTIEK HITELÉÜL, az alulírottak kormányuktól kapott kellő felhatalmazás birtokában kézjegyükkel látták el a Megállapodást.
+
+Kelt: Bejrút, 2013. február 28.
+
+Készült két eredeti példányban, magyar, arab és angol nyelven, mindegyik szöveg egyformán hiteles. Eltérés esetén az angol nyelvű szöveg az irányadó.
+
+Libanoni Köztársaság Kormánya részéről
+
+Magyarország Kormánya részéről
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF LEBANON AND THE GOVERNMENT OF HUNGARY FOR ECONOMIC AND TECHNICAL CO-OPERATION**
+
+The Government of the Republic of Lebanon and the Government of Hungary, hereinafter referred to as “the Parties”.
+
+Recognizing that economic and technical co-operation is an essential and indispensable component of the development of bilateral relations on a firm, long- term basis and of mutual confidence between the Parties and their respective peoples,
+
+Convinced that this Agreement will contribute to the development of the economic and commercial relations between them in the new reality and in particular to the enhancement of the mutually beneficial economic, technical and technological cooperation,
+
+Desiring to promote and further strengthen their bilateral economic and technical cooperation, in the interest of their peoples,
+
+Have agreed on the following:
+
+**Article 1**
+
+The Parties shall promote, within the framework of their respective legislation in force, by taking proper measures, the further development of mutually advantageous economic and technical cooperation.
+
+**Article 2**
+
+The fields of cooperation mentioned in this Agreement include, inter alia, the following items:
+
+1\. Encouragement of establishing cooperation and joint projects between the two countries in the field of economy, business, finance, banking, industry, touristic services, technical development, agriculture, transport, human resource development, chemical and petrochemical industry, packaging technology, education, telecommunications and information society, and water management.
+
+2\. Encouragement of exchange of information relating to technical research.
+
+3\. Encouragement of exchange and training of specialists required for specific cooperation programs.
+
+**Article 3**
+
+The Parties shall endeavour to broaden and intensify their cooperation through the following means:
+
+1\. Promoting the links and strengthening the cooperation between the private sectors, government institutions, regional and local entities, chambers of commerce and industry, and promoting the visits of their representatives aiming to implement bilateral economic and technical cooperation;
+
+2\. Exchange of business information related to the implementation of this Agreement, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences;
+
+3\. Promoting the stronger participation of small and medium size private sector enterprises in bilateral economic relations;
+
+4\. Encouraging the cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+5\. Encouraging the investment activities, the foundation of joint ventures; establishment of company representatives and branch offices in the countries of the Parties according to their laws and regulations;
+
+6\. Promoting of inter-regional cooperation and cooperation on international level in issues of mutual interest;
+
+7\. Any other means agreed upon by the Parties later, to expand and strengthen their cooperation.
+
+**Article 4**
+
+For the method of payment and currency used for transactions concluded between natural and legal persons of the countries of the Parties within the framework of this Agreement, the Parties shall encourage the utilization of any international method of payment and freely convertible currencies that are widely used to make payments for international transactions and widely exchanged in principal international exchange markets and agreed upon between the parties concerned.
+
+**Article 5**
+
+Nothing in this Agreement shall be construed as to oblige either Party to extend to the other present or future benefit of any treatment, preference or privilege resulting from any international, regional or sub-regional agreement or other arrangement relating wholly or mainly to taxation, or movement of capital or any domestic legislation relating wholly or mainly to taxation.
+
+**Article 6**
+
+If deemed necessary, the Parties shall conclude specific agreements to be based on this Agreement concerning the fields of cooperation referred above and other special projects that may be agreed upon between them.
+
+**Article 7**
+
+1\. With a view to ensuring the implementation of this Agreement, a Joint Committee shall be established composing of representatives from the Parties. The Committee shall meet on mutual consent alternately in the countries of the Parties. The appointed representatives of the Ministry of Economy and Trade and the Hungarian Ministry responsible for international economic affairs shall chair the Joint Committee.
+
+2\. The Joint Committee shall have the authority, inter alia, to consider the following:
+
+a. Encouraging and coordinating the economic and technical cooperation between the Parties;
+
+b. Promoting and considering proposals aimed at the implementation of this Agreement and specific agreements resulting therefrom;
+
+c. Working out recommendations for the purposes of removing obstacles that may arise during the execution of any agreement or project that may be established in accordance with this Agreement.
+
+d. Identifying new development opportunities for the bilateral economic relations.
+
+**Article 8**
+
+Any dispute that may arise from the interpretation or the implementation of this Agreement shall be settled amicably through consultations and negotiations or through diplomatic channels between the Parties.
+
+**Article 9**
+
+This Agreement shall in no way prejudice to the obligations of Hungary as the member state of the European Union, and is subject to those obligations. Consequently, the provisions of this Agreement shall not be invoked or interpreted, neither in whole nor in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary arising from the Treaties on which the European Union is founded, as well as from the primary and secondary law of the European Union.
+
+Nothing in this Agreement shall be construed as to oblige the Parties to extend to the other present, or future benefit of any treatment, preference or privilege resulting from any existing or future common market, free trade area, Customs Union or similar international agreement to which any of the countries of the Parties is or may become a member.
+
+**Article 10**
+
+The provisions or any texts of this Agreement may be amended by written agreement between the Parties, on the basis of mutual consent; any amendment to this Agreement shall enter into force in accordance with Article (11) of this Agreement.
+
+**Article 11**
+
+1\. This Agreement shall enter into force on the 30th (thirtieth) day following the receipt of the last notification when a Party notifies the other in writing through the diplomatic channels of the completion of the internal requirements necessary for the implementation of this Agreement.
+
+2\. This Agreement shall remain in force for a period of five (5) years and shall automatically be renewed for successive 5 year periods, unless either Party notifies the other in writing about its intention to terminate this Agreement at least six (6) months prior to its expiry.
+
+**Article 12**
+
+The termination of this Agreement shall not affect the validity or the duration of any specific agreement or projects or activities made under the present Agreement until the completion of such specific agreements, projects or activities, unless the Parties agree on otherwise.
+
+IN WITNESS WHEREOF the undersigned duly authorized thereto by their respective Governments, have signed this Agreement.
+
+Done in Beirut on this 28 Day of February in the year of 2013 in two originals each, in the Arabic, Hungarian and English languages, all texts being equally authentic. In case of divergence the English text shall prevail.
+
+For the Government of the Republic of Lebanon
+
+For the Government of Hungary”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 11. Cikk 1. pontjában meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 11. Cikk 1. pontjában meghatározott időpontban lép hatályba. A 20/2014. (XII. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. január 1.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 11. Cikk 1. pontjában meghatározott időpontban lép hatályba. A 20/2014. (XII. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. január 1.
+[^3]: A 20/2014. (XII. 18.) KKM közlemény alapján a hatálybalépés időpontja 2015. január 1.
+[^4]: Lásd a 20/2014. (XII. 18.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 756. §-a szerint módosított szöveg.

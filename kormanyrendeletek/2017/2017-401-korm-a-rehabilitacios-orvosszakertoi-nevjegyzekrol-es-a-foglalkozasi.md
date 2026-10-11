@@ -1,0 +1,324 @@
+---
+title: "401/2017. (XII. 15.) Korm. rendelet a rehabilitációs orvosszakértői névjegyzékről és a foglalkozási rehabilitációs szakértői névjegyzékről"
+identifier: "401/2017. (XII. 15.) Korm. rendelet"
+njt_id: "2017-401-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/401"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-12-15
+in_force_from: 2018-01-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-401-20-22"
+retrieved: 2026-10-12
+---
+
+# 401/2017. (XII. 15.) Korm. rendelet a rehabilitációs orvosszakértői névjegyzékről és a foglalkozási rehabilitációs szakértői névjegyzékről
+
+A Kormány a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdés k) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rehabilitációs orvosszakértői névjegyzék
+
+### 1. §
+
+Rehabilitációs orvosszakértői tevékenység végzésére az jogosult, aki – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 27/A. § (1) bekezdésében meghatározott feltételeken túlmenően –
+
+a) az 1. mellékletben felsorolt valamelyik szakképesítéssel és az e szakképesítéssel ellátható területeken legalább öt év szakmai gyakorlattal rendelkezik,
+
+b)[^1]
+
+c)[^2] az 1. mellékletben felsorolt, az a) pont alapján figyelembe vett szakképesítés tekintetében szerepel az egészségügyi dolgozók érvényes működési nyilvántartásában, kivéve, ha az egészségügyről szóló törvényben foglaltak szerint az egészségügyi tevékenysége végzésének a működési nyilvántartásba történő bejegyzése nem feltétele, és
+
+d) az e rendeletben meghatározott továbbképzési kötelezettséget teljesíti.
+
+### 2. §
+
+(1) Az 1. § a) pontjában meghatározott szakmai gyakorlatot az igazolja, aki vagy akinek a jogelődje a bejelentőt foglalkoztatja vagy foglalkoztatta. Ha a foglalkoztató jogutód nélkül megszűnt, vagy a szakmai gyakorlatot a bejelentő nem foglalkoztatottként teljesítette, a gyakorlatot szerződéssel és annak teljesítését igazoló dokumentummal kell igazolni.
+
+(2) Az (1) bekezdés szerinti igazolásnak tartalmaznia kell a kiállítójának nevét, székhelyét, a bejelentő nevét, lakcímét, a betöltött munkakör megnevezését és a foglalkoztatás időtartamát.
+
+### 3. §
+
+(1)[^3] A rehabilitációs orvosszakértői tevékenységgel kapcsolatos bejelentést Budapest Főváros Kormányhivatalához (a továbbiakban: Hivatal) a 2. melléklet szerinti adatlapon kell benyújtani elektronikus úton.
+
+(2) Az 1. § c) pontjában, a 15. § (1) bekezdés b) pontjában és a 15. § (2) bekezdés b) pontjában foglalt feltétel fennállásának vizsgálata céljából a Hivatal megkeresi az egészségügyi dolgozók működési nyilvántartását vezető szervet.
+
+(3)[^4] A bejelentés – a határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenység kivételével – határozatlan időtartamra szól.
+
+### 4. §
+
+(1)[^5] A Hivatal rehabilitációs orvosszakértői tevékenységre jogosult személyekről vezetett nyilvántartása (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) – a törvényben meghatározott adatokon túl – tartalmazza az 5. § szerinti szüneteltetés kezdő és záró időpontját.
+
+(2) A Hivatal – a törvényben meghatározott adatokon túl – a honlapján naprakészen közhírré teszi a rehabilitációs orvosszakértői tevékenységre jogosult személy elérhetőségére, valamint a végzettségére, képesítésére vonatkozó, a 2. melléklet h)–j) pontjában foglalt adatokat, valamint intézkedik azoknak a Szociális Ágazati Portálon történő közhírré tételéről.
+
+(3) A rehabilitációs orvosszakértőt – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 28. §-ában foglaltakon túl – törölni kell a rehabilitációs orvosszakértői névjegyzékből, ha
+
+a) elhunyt,
+
+b) a 6. § szerinti továbbképzési kötelezettségét nem teljesíti, vagy
+
+c) a szakértői tevékenység végzéséhez jogszabályban előírt feltételek már nem állnak fenn.
+
+(4)[^6] A rehabilitációs orvosszakértő – Szolgtv. 28. § b) pontja szerinti – törlés iránti bejelentése a Hivatal által rendszeresített és a honlapján közzétett elektronikus űrlap útján is megtehető.
+
+### 5. §[^7]
+
+A rehabilitációs orvosszakértő a Hivatalnál – legfeljebb 3 évre – kérheti tevékenységének szüneteltetését a kérelem benyújtását követő kezdő és záró időpontjának megjelölésével. A kérelem elektronikus úton is benyújtható. A bejelentés időtartama a szüneteltetés időtartamával meghosszabbodik. A szüneteltetés záró időpontja a szüneteltetés alatt módosítható.
+
+### 6. §
+
+(1) A rehabilitációs orvosszakértő köteles a Hivatal által szervezett 20 óra időtartamú, írásbeli vizsgával záruló továbbképzésen részt venni és a vizsgakövetelményeket teljesíteni
+
+a) a rehabilitációs orvosszakértői névjegyzékbe vétel időpontját követő 1 éven belül, valamint
+
+b) az *a)* pont szerinti kötelezettség teljesítését követően évente.
+
+(2) A továbbképzés célja a rehabilitációs orvosszakértők képzése érdekében
+
+a) a komplex minősítés során az egészségi állapot, valamint az önellátási képesség orvosszakmai szempontú vizsgálatára vonatkozó jogszabályok, szakmai szabályok, eljárásrendek naprakész elsajátítása,
+
+b) az elméleti és gyakorlati ismeretek folyamatos szinten tartása,
+
+c) az egységes szemlélet és gyakorlat kialakítása a rehabilitációs orvosszakértői tevékenységben.
+
+## 2. A foglalkozási rehabilitációs szakértői névjegyzék
+
+### 7. §
+
+(1) Foglalkozási rehabilitációs szakértői tevékenység végzésére az jogosult, aki – az Mmtv. 27. § (1) bekezdésében meghatározott feltételeken túlmenően –
+
+a) nem áll cselekvőképességet érintő gondnokság alatt,
+
+b) egyetemi vagy főiskolai végzettséggel rendelkezik,
+
+c) a bejelentett szakterületen megszerzett 3 év szakmai gyakorlattal rendelkezik és
+
+d) az e rendeletben meghatározott továbbképzési kötelezettséget teljesíti.
+
+(2) Az (1) bekezdésben foglaltak mellett a szakértőnek rendelkeznie kell
+
+a) a 9. § (1) bekezdés c) pontja szerinti szakterület esetében az adott szolgáltatás nyújtásához jogszabályban előírt képesítéssel, és teljesítenie kell a szolgáltatás nyújtásához jogszabályban meghatározott egyéb feltételeket,
+
+b) a 9. § (1) bekezdés d) pontja szerinti szakterület esetében egyetemi jogi képesítéssel,
+
+c) a 9. § (1) bekezdés e) pontja szerinti szakterület esetében mérnök alapvégzettséggel és az épített környezet akadálymentességére irányuló szakirányú szakképesítéssel,
+
+d) a 9. § (1) bekezdés f) pontja szerinti szakterület esetében a tárgyi környezet, a szolgáltatások, illetve az információs és kommunikációs rendszerek akadálymentességére irányuló szakirányú szakképesítéssel,
+
+e) a 9. § (1) bekezdés g) pontja szerinti szakterület esetében informatikus alapvégzettséggel és a szolgáltatások, illetve az információs és kommunikációs rendszerek akadálymentességére irányuló szakirányú szakképesítéssel.
+
+### 8. §
+
+(1) Szakmai gyakorlatként csak a bejelentést megelőző 10 évben megszerzett gyakorlatot lehet elfogadni.
+
+(2) A szakmai gyakorlatot az igazolja, aki vagy akinek a jogelődje a bejelentőt foglalkoztatja vagy foglalkoztatta. Ha a foglalkoztató jogutód nélkül megszűnt, vagy a szakmai gyakorlatot a bejelentő nem foglalkoztatottként teljesítette, a gyakorlatot szerződéssel és annak teljesítését igazoló dokumentummal kell igazolni.
+
+(3) A (2) bekezdés szerinti igazolásnak tartalmaznia kell a kiállítójának nevét, székhelyét, a bejelentő nevét, lakcímét, a betöltött munkakör megnevezését és a foglalkoztatás időtartamát.
+
+### 9. §
+
+(1) Foglalkozási rehabilitációs szakértői tevékenység végzését a következő szakterületekre lehet bejelenteni:
+
+a) minősítés,
+
+b) akkreditáció,
+
+c) rehabilitációs szolgáltatás,
+
+d) foglalkozási rehabilitációs jog,
+
+e) fizikai akadálymentesítés,
+
+f) infokommunikációs akadálymentesítés,
+
+g) informatikai akadálymentesítés.
+
+(2) Az (1) bekezdés alkalmazásában
+
+a) *akkreditáció:* a megváltozott munkaképességű személyt foglalkoztató munkáltatók jogszabályban meghatározott akkreditációjával, illetve a fejlesztő foglalkoztatás szolgáltatói nyilvántartásba történő bejegyzésével kapcsolatos tevékenység;
+
+b) *fizikai akadálymentesítés:* a tárgyi környezet akadálymentesítésére irányuló, a megváltozott munkaképességű személy foglalkozási rehabilitációját szolgáló tevékenység;
+
+c) *foglalkozási rehabilitációs jog:* az (1) bekezdés a)–c) pontjában meghatározott valamennyi szakterület tekintetében folytatott, jogi egyetemi végzettséghez kötött tevékenység;
+
+d) *infokommunikációs akadálymentesítés:* információs és kommunikációs rendszerek akadálymentesítésére irányuló, a megváltozott munkaképességű személy foglalkozási rehabilitációját szolgáló tevékenység;
+
+e) *informatikai akadálymentesítés:* információtechnológiai eszköz használatához kötött szolgáltatások akadálymentesítésére irányuló, a megváltozott munkaképességű személy foglalkozási rehabilitációját szolgáló tevékenység;
+
+f) *minősítés:* a törvényben meghatározott komplex minősítés során ellátott foglalkozási rehabilitációs szakértői feladatok;
+
+g) *rehabilitációs szolgáltatás:* a megváltozott munkaképességű személy foglalkozási rehabilitációjára irányuló szolgáltatás, ideértve a foglalkoztatás keretében nyújtott szolgáltatásokat, továbbá a rehabilitációs szolgáltatásokhoz kapcsolódó kutatási, szolgáltatásfejlesztési és módszertani tevékenységet is.
+
+### 10. §
+
+(1)[^8] A foglalkozási rehabilitációs szakértői tevékenységgel kapcsolatos bejelentést a Hivatalhoz a 3. melléklet szerinti adatlapon kell benyújtani elektronikus úton.
+
+(2)[^9] A bejelentés határozatlan időtartamra szól. A bejelentés időtartama alatt benyújtott, a szakterület kibővítésére irányuló bejelentéshez csak az új szakterülettel kapcsolatos dokumentumokat kell mellékelni.
+
+### 11. §
+
+(1) A Hivatal a foglalkozási rehabilitációs szakértői tevékenységre jogosult személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet.
+
+(2) A foglalkozási rehabilitációs szakértői névjegyzék az alábbi adatokat tartalmazza:
+
+a) a 3. melléklet a)–b) és f)–j) pontjában foglalt adatok,
+
+b) a 12. § szerinti szüneteltetés kezdő és záró időpontja,
+
+c)[^10]
+
+(3) A Hivatal a foglalkozási rehabilitációs szakértői névjegyzékben szereplő adatokat a honlapján naprakészen közhírré teszi, valamint intézkedik azoknak a Szociális Ágazati Portálon történő közhírré tételéről.
+
+(4) A foglalkozási rehabilitációs szakértőt – a Szolgtv. 28. §-ában foglaltakon túl – törölni kell a foglalkozási rehabilitációs szakértői névjegyzékből, ha
+
+a) elhunyt,
+
+b) továbbképzési kötelezettségét nem teljesíti, vagy
+
+c) a szakértői tevékenység végzéséhez jogszabályban előírt feltételek már nem állnak fenn.
+
+(5)[^11] A foglalkozási rehabilitációs szakértő kérelmére az általa megjelölt szakterületét a névjegyzékből törölni kell. A kérelem elektronikus úton is benyújtható.
+
+(6) A Hivatal a foglalkozási rehabilitációs szakértőnek a foglalkozási rehabilitációs szakértői névjegyzékből való törléséről – a foglalkozási rehabilitációs szakértői névjegyzék módosításával egyidejűleg – közleményt jelentet meg a honlapján és a Szociális Ágazati Portálon.
+
+### 12. §[^12]
+
+A foglalkozási rehabilitációs szakértő a Hivatalnál – legfeljebb 3 évre – kérheti tevékenységének szüneteltetését a kérelem benyújtását követő kezdő és záró időpontjának megjelölésével. A kérelem elektronikus úton is benyújtható. A bejelentés időtartama a szüneteltetés időtartamával meghosszabbodik. A szüneteltetés időtartama a szüneteltetés alatt módosítható.
+
+### 13. §
+
+(1) A foglalkozási rehabilitációs szakértő köteles legalább 25 óra időtartamú, a foglalkozási szakértők képzése érdekében a Hivatal által szervezett továbbképzésen részt venni
+
+a) a foglalkozási rehabilitációs szakértői névjegyzékbe vétel időpontját követő 1 éven belül, valamint
+
+b) az *a)* pont szerinti kötelezettség teljesítését követő év első napjától számítva 3 évenként.
+
+(2) A 12. § szerinti szüneteltetés időtartama a továbbképzési kötelezettséget nem érinti.
+
+## 3. Záró rendelkezések
+
+### 14. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+### 16. §
+
+(1) E rendeletet a 2017. december 31-én a rehabilitációs orvosszakértői névjegyzékről szóló 47/2012. (XII. 11.) EMMI rendelet és a foglalkozási rehabilitációs szakértőkről szóló 8/2012. (II. 21.) NEFMI rendelet alapján folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A 2017. december 31-én
+
+a) a rehabilitációs orvosszakértői névjegyzékről szóló 47/2012. (XII. 11.) EMMI rendelet alapján a rehabilitációs orvosszakértői névjegyzéken és
+
+b) a foglalkozási rehabilitációs szakértőkről szóló 8/2012. (II. 21.) NEFMI rendelet alapján a foglalkozási rehabilitációs szakértői névjegyzéken
+
+szereplő szakértők az e rendelet szerinti rehabilitációs orvosszakértői névjegyzékbe, illetve foglalkozási rehabilitációs szakértői névjegyzékbe 2018. január 1-jén hivatalból felvételre kerülnek.
+
+(3) A (2) bekezdésben foglaltak a 2017. december 31-én fennálló továbbképzési kötelezettség teljesítésének határidejét nem érintik.
+
+### 17. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 401/2017. (XII. 15.) Korm. rendelethez
+
+**A rehabilitációs orvosszakértői tevékenység végzéséhez szükséges szakképesítés**
+
+1\. aneszteziológia és intenzív terápia,
+
+2\. arc-, állcsont- és szájsebészet,
+
+3\. belgyógyászat,
+
+4\. bőrgyógyászat,
+
+5\. csecsemő- és gyermekgyógyászat,
+
+6\. érsebészet,
+
+7\. fizikális medicina és rehabilitációs orvoslás,
+
+8\. foglalkozásorvostan (üzemorvostan),
+
+9\. fül-orr-gégegyógyászat,
+
+10\. gasztroenterológia,
+
+11\. geriátria,
+
+12\. gyermek- és ifjúságpszichiátria,
+
+13\. gyermeksebészet,
+
+14\. háziorvostan,
+
+15\. hematológia,
+
+16\. honvéd-, katasztrófa- és rendvédelem orvostan,
+
+17\. idegsebészet,
+
+18\. igazságügyi orvostan,
+
+19\. infektológia,
+
+20\. kardiológia,
+
+21\. klinikai onkológia,
+
+22\. mellkassebészet,
+
+23\. nefrológia,
+
+24\. neurológia,
+
+25\. ortopédia és traumatológia (ortopédia, traumatológia),
+
+26\. oxyológia és sürgősségi orvostan,
+
+27\. plasztikai és égés-sebészet,
+
+28\. pszichiátria,
+
+29\. repülőorvostan,
+
+30\. reumatológia,
+
+31\. sebészet,
+
+32\. szemészet,
+
+33\. szívsebészet,
+
+34\. szülészet-nőgyógyászat,
+
+35\. tüdőgyógyászat vagy
+
+36\. urológia
+
+szakképesítés.
+
+## 2. melléklet a 401/2017. (XII. 15.) Korm. rendelethez[^14]
+
+4X03144.pdf
+
+## 3. melléklet a 401/2017. (XII. 15.) Korm. rendelethez[^15]
+
+4X03145.pdf
+
+---
+
+[^1]: Az 1. § b) pontját a 179/2025. (VI. 30.) Korm. rendelet 41. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § c) pontja a 179/2025. (VI. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdése a 104/2024. (V. 9.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 104/2024. (V. 9.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (4) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^7]: Az 5. § a 668/2020. (XII. 28.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
+[^8]: A 10. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 47. § (4) bekezdésével megállapított szöveg.
+[^9]: A 10. § (2) bekezdése a 104/2024. (V. 9.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^10]: A 11. § (2) bekezdés c) pontját a 104/2024. (V. 9.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
+[^11]: A 11. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
+[^12]: A 12. § a 668/2020. (XII. 28.) Korm. rendelet 47. § (6) bekezdésével megállapított szöveg.
+[^14]: A 2. melléklet a 104/2024. (V. 9.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet a 104/2024. (V. 9.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.

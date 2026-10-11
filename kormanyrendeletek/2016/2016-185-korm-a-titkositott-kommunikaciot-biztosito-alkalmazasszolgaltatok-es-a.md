@@ -1,0 +1,135 @@
+---
+title: "185/2016. (VII. 13.) Korm. rendelet a titkosított kommunikációt biztosító alkalmazásszolgáltatók és a titkos információgyűjtésre feljogosított szervezetek együttműködésének rendjéről"
+identifier: "185/2016. (VII. 13.) Korm. rendelet"
+njt_id: "2016-185-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/185"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-07-13
+in_force_from: 2016-07-17
+last_amended: 2026-01-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-185-20-22"
+retrieved: 2026-10-12
+---
+
+# 185/2016. (VII. 13.) Korm. rendelet a titkosított kommunikációt biztosító alkalmazásszolgáltatók és a titkos információgyűjtésre feljogosított szervezetek együttműködésének rendjéről
+
+A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+a) *alkalmazásszolgáltató:* az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ekertv.) szerinti titkosított kommunikációt biztosító alkalmazásszolgáltató,
+
+b) *kommunikáció:* az alkalmazásszolgáltató információcsere, információ megosztás vagy információtovábbítás biztosítása érdekében nyújtott szolgáltatása, amelyet az alkalmazásszolgáltató egyedi felhasználók egymás közötti ilyen tevékenysége, illetve előfizetők vagy felhasználók adott csoportja részére nyújt,
+
+c) *kommunikáció tartalma:* a kommunikáció során továbbított – szöveges, numerikus, képi, hang alapú, illetve multimediális jellegű információt hordozó – jel, illetve jelzés, függetlenül annak megjelenési formájától, ha az alkalmazásszolgáltató a felhasználó által kezdeményezett vagy fogadott kommunikáció tartalmát bármely módon megváltoztatja, kódolja vagy tömöríti, a kommunikáció tartalmán a visszaalakított, dekódolt vagy tömörítés előtti alakot kell érteni,
+
+d) *metaadat:* az Ekertv. 13/B. § (2) bekezdésében meghatározott adatok.
+
+## 2. §
+
+(1) A titkos információgyűjtésre felhatalmazott szervezetek a titkos információgyűjtés során a metaadatokat a Nemzetbiztonsági Szakszolgálaton (a továbbiakban: NBSZ) keresztül vagy az e rendeletben meghatározottak szerint az alkalmazásszolgáltatótól közvetlenül kérelmezik.
+
+(2) A titkos információgyűjtésre felhatalmazott szervezetek titkosított kommunikáció tartalma megismerésére irányuló igényét, törvényben meghatározott feltételeknek megfelelően, az NBSZ látja el.
+
+(3) Az alkalmazásszolgáltatótól a titkosított kommunikáció tartalma – törvényben meghatározott feltételeknek megfelelően – kizárólag az NBSZ útján igényelhető, illetve az alkalmazásszolgáltató ezeket az adatokat kizárólag az NBSZ részére adhatja át.
+
+## 3. §
+
+(1) A titkos információgyűjtésre felhatalmazott szervezetek és az NBSZ a 2. §-ban meghatározott feladat ellátása céljából jogosultak az e rendelet szerinti írásbeli együttműködési megállapodás (a továbbiakban: megállapodás) megkötésére az alkalmazásszolgáltatóval.
+
+(2) Az alkalmazásszolgáltató és a titkos információgyűjtésre feljogosított szervezetek – a titkos információgyűjtésre feljogosított szervezetek kezdeményezésére – a kezdeményezéstől számított 60 napon belül kötnek megállapodást.
+
+(3) A megállapodásnak tartalmaznia kell
+
+a) a metaadatok igénylésének, az igények teljesítésének módját és rendjét,
+
+b) a titkos információgyűjtésre felhatalmazott szervezetek és az alkalmazásszolgáltató közötti kapcsolattartás szintjeit és módját,
+
+c) az adatvédelmi szabályok érvényesítésének, az alkalmazott technikai eszközök és megoldások védelmének módját,
+
+d) az alkalmazásszolgáltató részéről közreműködő alkalmazottak, illetve a magyarországi képviselő kiválasztásának, egyeztetésének, ellenőrzésének rendjét,
+
+e) az együttműködési megállapodásban foglaltak teljesülésének, időszakonkénti értékelésének és felülvizsgálatának rendjét, továbbá
+
+f) minden olyan feltételt, eljárást, amelyet az *a)–e)* ponton túlmenően az együttműködő felek szükségesnek tartanak írásban rögzíteni.
+
+(4) Ha a megállapodást az alkalmazásszolgáltató és az NBSZ köti, a (2) és (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a megállapodásnak tartalmaznia kell a titkosított kommunikáció tartalma megismerésének módját és rendjét is.
+
+(5) Az alkalmazásszolgáltató nem végezhet olyan rendszer-, illetve szolgáltatásfejlesztést, valamint nem hajthat végre olyan szervezeti átalakítást, amely a titkos információgyűjtést kizárja vagy más módon ellehetetleníti.
+
+## 4. §
+
+(1) A Magyarországon székhellyel vagy telephellyel rendelkező alkalmazásszolgáltató közvetlenül működik együtt a titkos információgyűjtésre felhatalmazott szervezetekkel és az NBSZ-szel.
+
+(2)[^1] Az (1) bekezdés szerinti alkalmazásszolgáltató köteles biztosítani, hogy az együttműködésben kizárólag azon személyek vesznek részt, akik titoktartási nyilatkozatot tettek, valamint rendelkeznek az alkalmazásszolgáltató vezető tisztségviselője által
+
+a) – a titkos információgyűjtésre felhatalmazott szervezettel történő együttműködés tekintetében – a titkos információgyűjtésre felhatalmazott szervezet egyetértésével,
+
+b) – az NBSZ-szel történő együttműködés tekintetében – az NBSZ egyetértésével
+
+kiadott, az együttműködésben való részvételre vonatkozó megbízással.
+
+(3) A Magyarországon székhellyel vagy telephellyel nem rendelkező alkalmazásszolgáltató az általa megbízott természetes személy vagy jogi személy (a továbbiakban: magyarországi képviselő) útján működik együtt a titkos információgyűjtésre felhatalmazott szervezetekkel és az NBSZ-szel.
+
+(4) A (3) bekezdés szerinti alkalmazásszolgáltató esetében a magyarországi képviselő, illetve annak vezető tisztviselője, az együttműködésben résztvevő tagja vagy alkalmazottja tekintetében a (2) bekezdésben foglaltak az irányadóak.
+
+(5) Ha az együttműködéssel, az együttműködésben való részvétellel összefüggésben olyan változás következik be, amely kihatással van a titkos információgyűjtéssel kapcsolatos feladatok ellátására, az alkalmazásszolgáltató, illetve a magyarországi képviselő köteles arról a titkos információgyűjtésre felhatalmazott szervezeteket és az NBSZ-t értesíteni.
+
+## 5. §
+
+A Magyarországon székhellyel vagy telephellyel rendelkező alkalmazásszolgáltatóktól az NBSZ közvetlenül igényli a metaadatokat és a titkosított kommunikáció tartalmát.
+
+## 6. §
+
+(1) A Magyarországon székhellyel vagy telephellyel nem rendelkező alkalmazásszolgáltató az NBSZ által igényelt metaadatokat és a titkosított kommunikáció tartalmát a magyarországi képviselő közreműködésével teljesíti.
+
+(2) A magyarországi képviselő feladata, hogy megvizsgálja az NBSZ adatigénylésének a jogszabályok, valamint a megállapodás rendelkezései szerinti megfelelőségét és az általa megismert dokumentumok tartalmára történő hivatkozással igazolást állítson ki az alkalmazásszolgáltatónak és az NBSZ-nek arról, hogy az adatátadási kötelezettség fennáll. A magyarországi képviselő értesíti az alkalmazásszolgáltatót és az NBSZ-t az igazolás kiállításának tényéről.
+
+(3) Ha a magyarországi képviselő feladata kizárólag a (2) bekezdés szerinti vizsgálat, az NBSZ a (2) bekezdés szerinti igazolás birtokában közvetlenül igényli az alkalmazásszolgáltatótól az (1) bekezdés szerinti adatokat.
+
+(4) A Magyarországon székhellyel vagy telephellyel nem rendelkező alkalmazásszolgáltató az NBSZ által igényelt metaadatokat és a titkosított kommunikáció tartalmát a (2) bekezdés szerinti vizsgálatot követően a magyarországi képviselő útján is teljesítheti.
+
+(5) A (4) bekezdés szerinti esetben az alkalmazásszolgáltatónak biztosítania kell, hogy közte és a magyarországi képviselő közötti kommunikáció során illetéktelen személyek az adatokhoz ne férjenek hozzá.
+
+## 7. §
+
+Az 5. és 6. §-ban meghatározott adatátadást az NBSZ által meghatározottak szerint
+
+a) elektronikus adatkapcsolat útján,
+
+b) elektronikus adathordozón vagy
+
+c) írásban
+
+kell teljesíteni.
+
+## 8. §
+
+(1) Az NBSZ az alkalmazásszolgáltató számára csak azokat az adatokat továbbíthatja, amelyek a titkos információgyűjtés végrehajtása érdekében az alkalmazásszolgáltatóra háruló kötelezettségek teljesítéséhez elengedhetetlenül szükségesek.
+
+(2) Az alkalmazásszolgáltató köteles meg-, illetve visszaküldeni a titkos információgyűjtés végrehajtása során vagy azzal közvetlen összefüggésben keletkezett adatokat tartalmazó adathordozók valamennyi példányát az NBSZ-nek. Ezekből az adathordozókból másolatot nem készíthet és másodpéldányt nem tárolhat.
+
+(3) A titkos információgyűjtéssel összefüggésben keletkezett adatokat az alkalmazásszolgáltató nem jogosult gyűjteni, archiválni, továbbá megjeleníteni sem, ha a titkos információgyűjtés eszközeinek és módszereinek alkalmazása az alkalmazásszolgáltató alkalmazottainak személyes közreműködése nélkül történik. Ha a feladat az adatok megjelenítése nélkül nem hajtható végre, az alkalmazásszolgáltató alkalmazottainak személyes közreműködését igénylő esetekben az adatok megjelenítése megengedett, azonban az alkalmazásszolgáltató nem jogosult azokat gyűjteni, archiválni.
+
+(4) A titkos információgyűjtéssel összefüggésben keletkezett adatokat az alkalmazásszolgáltató – törvény eltérő rendelkezése hiányában – nem jogosult az NBSZ-en kívül harmadik személynek átadni, hozzáférhetővé tenni.
+
+## 9. §
+
+Ha a titkos információgyűjtésre felhatalmazott szervezetek a titkos információgyűjtés során a metaadatokat az alkalmazásszolgáltatótól közvetlenül kérelmezik, az adatátadás rendjére az 5–8. § rendelkezéseit kell megfelelően alkalmazni.
+
+## 10. §
+
+Ez a rendelet a terrorizmus elleni fellépéssel összefüggő egyes törvények módosításáról szóló 2016. évi LXIX. törvény hatálybalépésének napján lép hatályba.
+
+## 11. §
+
+E kormányrendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi EU irányelv szerinti előzetes bejelentése megtörtént.
+
+---
+
+[^1]: A 4. § (2) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 26. §-ával megállapított szöveg.

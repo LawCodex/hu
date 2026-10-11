@@ -1,0 +1,408 @@
+---
+title: "63/2009. (III. 31.) Korm. rendelet a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény végrehajtására szolgáló, Szarajevóban 2008. június 12-én aláírt Igazgatási Megállapodás kihirdetéséről"
+identifier: "63/2009. (III. 31.) Korm. rendelet"
+njt_id: "2009-63-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/63"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-03-31
+in_force_from: 2009-04-01
+last_amended: 2009-04-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-63-20-22"
+retrieved: 2026-10-12
+---
+
+# 63/2009. (III. 31.) Korm. rendelet a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény végrehajtására szolgáló, Szarajevóban 2008. június 12-én aláírt Igazgatási Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény végrehajtására szolgáló, Szarajevóban 2008. június 12-én aláírt Igazgatási Megállapodás (a továbbiakban: Igazgatási Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Igazgatási Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Igazgatási Megállapodás hiteles magyar nyelvű szövege a következő:
+
+Igazgatási Megállapodás\
+a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény végrehajtására
+
+A Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló, Szarajevóban, 2008. június 12-én aláírt egyezmény (a továbbiakban: Egyezmény) 26. cikke alapján a Szerződő Felek az alábbiakban állapodtak meg:
+
+I. Rész
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*1. cikk*
+
+*Fogalommeghatározások*
+
+A jelen Igazgatási Megállapodásban alkalmazott fogalmak és kifejezések jelentése megegyezik az Egyezményben szereplőkkel.
+
+*2. cikk*
+
+*Összekötő szervek*
+
+Az Egyezmény 27. cikke szerinti összekötő szervek:
+
+A Magyar Köztársaság részéről:
+
+*a)* a nyugellátások tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság, Budapest,
+
+*b)* a munkanélküliség tekintetében a Foglalkoztatási és Szociális Hivatal, Budapest,
+
+*c)* minden egyéb kérdésben az Országos Egészségbiztosítási Pénztár, Budapest.
+
+Bosznia és Hercegovina részéről:
+
+1\. Egészségbiztosítás, egészségvédelem és anyaság vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében Bosznia és Hercegovina Egészségbiztosítási és Viszontbiztosítási Intézete, Szarajevó,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Egészségbiztosítási Alapja, Banja Luka,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Egészségbiztosítási Alapja, Brčko;
+
+2\. A nyugdíj és rokkantbiztosítás vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a Föderáció Nyugdíj és Rokkantbiztosítási Intézete, Mostar,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Nyugdíj és Rokkantbiztosítási Alapja, Bijeljina;
+
+3\. A munkahelyi balesetek és foglalkozási megbetegedések vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében
+
+– Bosznia és Hercegovina Föderáció Egészségbiztosítási és Viszontbiztosítási Intézete, Szarajevó,
+
+– a Föderáció Nyugdíj és Rokkantbiztosítási Intézete, Mostar,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében
+
+– a Boszniai Szerb Köztársaság Egészségbiztosítási Alapja, Banja Luka,
+
+– a Boszniai Szerb Köztársaság Nyugdíj és Rokkantbiztosítási Alapja, Bijeljina,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Egészségbiztosítási Alapja, Brčko;
+
+4\. Munkanélküliség esetén járó pénzbeli ellátás vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a Föderáció Foglalkoztatási Intézete, Szarajevó,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Foglalkoztatási Intézete, Pale,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Foglalkoztatási Intézete, Brčko;
+
+5\. Az anyasági pénzbeli ellátás vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a Föderáció Munkaügyi és Szociálpolitikai Minisztériuma, Szarajevó,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Gyermekvédelmi Alapja, Bijeljina,
+
+*c)* Bosznia Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzete Kormányának Egészségügyi és Egyéb Szolgáltatások Osztálya, Brčko.
+
+*3. cikk*
+
+*Illetékes teherviselők*
+
+Az Egyezmény 2. cikk (1) bekezdésében felsorolt jogszabályok alkalmazása tekintetében illetékes teherviselő:
+
+A Magyar Köztársaság részéről:
+
+*a)* a nyugellátások tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság, Budapest,
+
+*b)* a munkanélküliség tekintetében a Munkaerőpiaci Alap, Budapest,
+
+*c)* minden egyéb kérdésben az Országos Egészségbiztosítási Pénztár, Budapest.
+
+Bosznia és Hercegovina részéről:
+
+1\. Az egészségbiztosítás, egészségvédelem és anyaság vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a kantonok egészségbiztosítási teherviselőinek szervezeti egységei,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Egészségbiztosítási Alapja, Banja Luka,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Egészségbiztosítási Alapja, Brčko;
+
+2\. A nyugdíj- és rokkantbiztosítás vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a Föderáció Nyugdíj és Rokkantbiztosítási Intézete, Mostar,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Nyugdíj és Rokkantbiztosítási Alapja, Bijeljina;
+
+3\. A munkahelyi balesetek és foglalkozási megbetegedések vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében
+
+– a kantonok egészségbiztosítási teherviselőinek szervezeti egységei,
+
+– a Föderáció Nyugdíj és Rokkantbiztosítási Intézete, Mostar,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében
+
+– a Boszniai Szerb Köztársaság Egészségbiztosítási Alapja, Banja Luka,
+
+– a Boszniai Szerb Köztársaság Nyugdíj és Rokkantbiztosítási Alapja, Bijeljina,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Egészségbiztosítási Alapja, Brčko;
+
+4\. Munkanélküliség esetén járó pénzbeli ellátások vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a kantonok foglalkoztatási szolgálatai,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Foglalkoztatási Intézete, Pale,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzetének Foglalkoztatási Intézete, Brčko;
+
+5\. Az anyasági pénzbeli ellátások vonatkozásában
+
+*a)* Bosznia és Hercegovina Föderáció tekintetében a kantonok szociális és gyermekvédelmi ügyekben illetékes minisztériumai,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Boszniai Szerb Köztársaság Gyermekvédelmi Alapja, Bijeljina,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében Bosznia és Hercegovina Brčko Körzete Kormányának Egészségügyi és Egyéb Szolgáltatások Osztálya, Brčko.
+
+*4. cikk*
+
+*Az összekötő szervek feladatai*
+
+(1) A 2. cikkben felsorolt összekötő szervek az Egyezmény és a jelen Igazgatási Megállapodás alkalmazása céljából egymás között, valamint a biztosítottakkal és azok meghatalmazottaival közvetlenül érintkezhetnek, továbbá kölcsönösen támogatják egymást az Egyezmény végrehajtása érdekében. Az összekötő szervek a jelen Igazgatási Megállapodásban rögzített hatáskörüket a rájuk irányadó jogszabályok szerint kijelölt intézményekre átruházhatják.
+
+(2) Az összekötő szerveknek meg kell állapodniuk az Egyezmény és jelen Igazgatási Megállapodás végrehajtásához szükséges eljárásokról és igazolásokról (formanyomtatványokról).
+
+II. Rész
+
+*AZ ALKALMAZANDÓ JOGSZABÁLYOKRA VONATKOZÓ RENDELKEZÉSEK*
+
+*5. cikk*
+
+*Az alkalmazandó jogszabályokra vonatkozó igazolások (formanyomtatványok)*
+
+(1) Az Egyezmény 8. és 9. cikkében előírt esetekben a munkavállaló, munkáltató, illetőleg az önálló tevékenységet végző kérelmére kiállított igazolás (formanyomtatvány) tanúsítja, hogy az érintett személy a kiküldő Szerződő Fél jogszabályai szerint marad biztosított.
+
+(2) A jelen cikk (1) bekezdése szerinti igazolást (formanyomtatványt) kiállítja:
+
+– a magyar jogszabályok alkalmazásánál:
+
+az Országos Egészségbiztosítási Pénztár, Budapest,
+
+– a boszniai-hercegovinai jogszabályok alkalmazásánál:
+
+Bosznia és Hercegovina Föderációja, a Boszniai Szerb Köztársaság, Bosznia és Hercegovina Brčko Körzete egészségbiztosításban illetékes teherviselője.
+
+(3) Az igazolást (formanyomtatványt) kiállító teherviselő a másik Szerződő Fél jelen cikk (2) bekezdésében megjelölt teherviselőjét – kérelmére – tájékoztatja a kibocsátott igazolások (formanyomtatványok) számáról és tartalmáról.
+
+(4) Amennyiben az (1) bekezdésben említett igazolást (formanyomtatványt) nem mutatják be, az egyik Szerződő Fél teherviselője kivételesen kérheti, hogy azt a másik Szerződő Félnek a (2) bekezdésben megjelölt teherviselője utólag állítsa ki.
+
+*6. cikk*
+
+*Kivételek*
+
+(1) Az Egyezmény 10. cikkének alkalmazása során a jogszabályok alkalmazásához szükséges egyetértés megadásával kapcsolatos kérelmet
+
+– a Magyar Köztársaságban az Országos Egészségbiztosítási Pénztár, Budapest,
+
+– Boszniában és Hercegovinában:
+
+*a)* Bosznia és Hercegovina Föderációja tekintetében a Föderáció Munkaügyi és Szociálpolitikai Minisztériuma, Szarajevó,
+
+*b)* a Boszniai Szerb Köztársaság tekintetében a Munkaügyi és a Harcos- és Rokkantvédelmi Minisztérium, Banja Luka,
+
+*c)* Bosznia és Hercegovina Brčko Körzet tekintetében a Bosznia és Hercegovina Brčko Körzet Foglalkoztatási Intézete, Brčko
+
+részére kell benyújtani.
+
+(2) A jelen cikk (1) bekezdésében említett kérelmet három példányban kiállított igazoláson (formanyomtatványon) kell benyújtani.
+
+(3) A jelen cikk (1) bekezdésében említett illetékes szerv az egyetértését a másik Szerződő Fél illetékes szerve részére két példányban elküldött igazolással (formanyomtatvánnyal) erősíti meg.
+
+*7. cikk*
+
+*Választási jog gyakorlása*
+
+(1) Az Egyezmény 9. cikk (4) bekezdésében említett személy a választási jogát a foglalkoztatásának megkezdésétől számított 3 hónapon belül gyakorolhatja. Azon személy tekintetében, aki az Egyezmény hatálybalépésekor már munkaviszonyban állt, e határidőt az Egyezmény hatálybalépésének napjától kell számítani.
+
+(2) A jelen cikk (1) bekezdésében említett személy tekintetében a választási jog gyakorlásából eredő joghatások a jogválasztásról szóló nyilatkozat megtételét követő hónap első napján állnak be.
+
+III. Rész
+
+*A TERMÉSZETBENI ELLÁTÁSOKRA VONATKOZÓ RENDELKEZÉSEK*
+
+*8. cikk*
+
+*Természetbeni ellátások nyújtása*
+
+(1) *a)* Az Egyezmény 12–14. cikkében, valamint a 23. cikk (1) bekezdésében megjelölt természetbeni ellátások igénybevétele esetén a természetbeni ellátásokra való jogosultságot az illetékes teherviselő által kiállított igazolással (formanyomtatvánnyal) kell igazolni.
+
+*b)* Amennyiben az ellátás nyújtásakor nem tudták bemutatni az igazolást (formanyomtatványt), a kérelmező, a szolgáltató vagy a tartózkodási hely, illetve lakóhely szerint illetékes teherviselő az illetékes teherviselőhöz fordul az igazolás (formanyomtatvány) utólagos beszerzése érdekében. Amennyiben a Magyar Köztársaság területén az Egyezmény 12. cikk (1) bekezdése szerinti ellátást nyújtottak, Bosznia és Hercegovina illetékes teherviselője részére eljuttatott, az igazolás (formanyomtatvány) utólagos kiállítása iránti kérelemhez a megfelelő orvosi jelentést is csatolni kell.
+
+(2) Az a személy, aki az Egyezmény 12. cikk (2) bekezdésében megjelölt természetbeni ellátásokban akar részesülni a másik Szerződő Fél területén, köteles egy olyan igazolást (formanyomtatványt) bemutatni, amely tanúsítja, hogy az illetékes teherviselő engedélyezte számára az állapotának megfelelő gyógykezelés másik Szerződő Fél területén történő igénybevételét. Ez az igazolás (formanyomtatvány) tartalmazza azt a maximális időtartamot, ameddig a természetbeni ellátások nyújthatók.
+
+(3) Az Egyezmény 12. cikk (3) bekezdésében és 13. cikk (2) bekezdésében említett személy, aki a lakóhelyén természetbeni ellátásokban akar részesülni, köteles magát, valamint családtagjait is bejelenteni a lakóhelye szerinti illetékes teherviselőnél, bemutatva az illetékes teherviselő által kiállított igazolást (formanyomtatványt), amellyel tanúsítja, hogy mind saját maga, mind pedig családjának tagjai jogosultak a természetbeni ellátásokra.
+
+A természetbeni ellátásra való igényjogosultságról szóló igazolás (formanyomtatvány) egy példányát az illetékes teherviselő megküldi a lakóhely szerinti teherviselőnek.
+
+Ha az érintett személy nem mutatja be a megfelelő igazolást (formanyomtatványt), kérelmére a lakóhely szerinti teherviselő fordul az illetékes teherviselőhöz, annak beszerzése céljából.
+
+Az Egyezmény 12. cikk (4) bekezdésében és 13. cikk (3) és (4) bekezdéseiben említett személy számára a természetbeni ellátásra való igényjogosultság igazolása céljából a lakóhely szerint illetékes teherviselő az igazolás (formanyomtatvány) másolatát az igénybevevő számára megküldi.
+
+A kiállított igazolás (formanyomtatvány) a rajta feltüntetett érvényességi idő utolsó napjáig, vagy addig érvényes, amíg a lakóhely szerint illetékes teherviselő nem kapja meg az érvényesség megszűnéséről szóló hivatalos írásbeli értesítést a megfelelő igazoláson (formanyomtatványon) az illetékes teherviselőtől.
+
+A lakóhely szerinti teherviselő tájékoztatja az illetékes teherviselőt az általa elvégzett összes nyilvántartásba vételről, illetve olyan tényről, amely a jogosultság érvényesítéséhez szükséges.
+
+*9. cikk*
+
+A természetbeni ellátások megtérítése az előírt eljárás\
+be nem tartása esetén
+
+(1) Az Egyezmény 12–14. cikkében említett személy részére, aki a természetbeni ellátást nem a jelen Igazgatási Megállapodás 8. cikkében meghatározott módon vette igénybe, a keletkezett költségeket az illetékes teherviselő téríti meg a rá vonatkozó jogszabályok szerint.
+
+(2) A jelen cikk (1) bekezdésében említett ellátást nyújtó teherviselő az illetékes teherviselő részére, annak kérésére a szükséges dokumentációt köteles megküldeni.
+
+*10. cikk*
+
+*Keresőképtelenségre és kórházi kezelésre vonatkozó tájékoztatás*
+
+A Szerződő Felek illetékes teherviselői és teherviselői a megfelelő igazolások (formanyomtatványok) megküldésével kölcsönösen tájékoztatják egymást az Egyezmény hatálya alá tartozó személyek tekintetében bekövetkezett keresőképtelenségi esetekről és kórházi kezelésekről.
+
+*11. cikk*
+
+*A természetbeni ellátások költségeinek visszatérítése*
+
+(1) Az Egyezmény 12–14. cikkeiben említett személyek részére nyújtott ellátások költségeinek megtérítése iránti igényt igazoláson (formanyomtatványon) hathavonta, de legkésőbb 3 éven belül kell megküldeni.
+
+(2) A nem vitatott költségeket legkésőbb az igazolás (formanyomtatvány) kézhezvételétől számított 6 hónapon belül kell megtéríteni.
+
+(3) A kifizetés euróban történik az (1) bekezdésben említett igazolás (formanyomtatvány) kiállításának napján érvényes hivatalos devizaárfolyamon átváltott összeg átutalásával.
+
+*12. cikk*
+
+*Nagyobb értékű ellátások engedélyezése*
+
+(1) Az Egyezmény 14. cikkének értelmében ellátásnak minősülnek:
+
+*a)* végtagprotézis, mellprotézis és protézistartó melltartó, illetve fürdőruha, ortopéd segédeszköz és bot, beleértve a szövetborítású ortopéd fűzők, azok kiegészítő részeit, tartozékait és szerszámait,
+
+*b)* a méretre készült ortopéd cipő, adott esetben a hozzá tartozó normál cipővel,
+
+*c)* az állkapocs-implantátum és arcplasztika, a paróka,
+
+*d)* a műszem, kontaktlencse, nagyító és távcső szemüvegek,
+
+*e)* a hallókészülékek, nevezetesen az akusztikai és fonetikai készülékek, cohleáris implantátum, beszédprocesszor,
+
+*f)* a fogpótlás (beépített és kivehető), a szájpadzáró protézis,
+
+*g)* a rokkantkocsi (kézi és motoros hajtású), kerekesszék, valamint egyéb, mechanikai mozgássegítő készülék és tartozékaik, vakvezető kutya,
+
+*h)* beszélő számítógép,
+
+*i)* oxigénkoncentrátor,
+
+*j)* inzulinpumpa,
+
+*k)* az *a)–j)* pontban felsorolt eszközök felújítása,
+
+*l)* a szanatóriumokban, üdülőkben vagy gyógyintézetekben való orvosi kezelések és kúrák,
+
+*m)* a funkcionális képességek visszanyerésére szolgáló intézkedések,
+
+*n)* gyógyászati segédeszközök, orvostechnikai eszközök és egyéb nagyobb értékű természetbeni ellátások, amelyeknek értéke meghaladja az 500 eurót.
+
+(2) Annak a Szerződő Félnek a teherviselője, amelynek területén az ellátásokat nyújtják, az arra rendszeresített igazoláson (formanyomtatványon) megkéri az engedélyt az illetékes teherviselőtől a nagyobb értékű ellátás nyújtásához.
+
+IV. Rész
+
+*A PÉNZBELI ELLÁTÁSOKRA VONATKOZÓ RENDELKEZÉSEK*
+
+*13. cikk*
+
+*Kérelmek feldolgozása*
+
+(1) Azon Szerződő Fél teherviselője, amelynél az ellátási kérelmet benyújtották, a kérelmezőtől a másik Szerződő Fél illetékes teherviselője számára a kérelem feldolgozásához szükséges, rendelkezésre álló dokumentáció, különösen pedig a foglalkoztatás, illetve tevékenységvégzés idejére, jellegére és helyére, valamint a munkáltatóra vonatkozó adatok becsatolását kéri.
+
+(2) Az illetékes teherviselők kötelesek tájékoztatni egymást minden ellátás iránti kérelemről és a jogosultság érvényesítése, valamint az ellátás összegének megállapítása szempontjából lényeges valamennyi tényállásról, miközben meghatározott kétnyelvű igazolásokon, (formanyomtatványokon) szereplő adatok megerősítése helyettesíti az eredeti dokumentáció megküldését.
+
+(3) Az illetékes teherviselők továbbá kölcsönösen megküldik egymásnak a másik Szerződő Félnél, illetve esetleg harmadik országban történt foglalkoztatások, illetve végzett tevékenységek áttekintését, megfelelő eredeti dokumentáció, illetve hitelesített fénymásolat – ideértve a munkakönyvet is – kíséretében.
+
+(4) Az illetékes teherviselő, amelynél az ellátás iránti kérelmet benyújtották, a másik Szerződő Fél teherviselője részére igazolja az általa alkalmazott jogszabályok szerint beszámított biztosítási időket.
+
+(5) Az illetékes teherviselők a meghatározott igazoláson (formanyomtatványon) tájékoztatják egymást az ellátási jogosultság megállapítására irányuló eljárás befejezéséről.
+
+(6) Munkanélküliség esetén járó pénzbeli ellátásokkal kapcsolatban a jelen cikk (1), (3), (4) és (5) bekezdését kell megfelelően alkalmazni.
+
+*14. cikk*
+
+*A pénzbeli ellátások kifizetése*
+
+(1) A Szerződő Felek illetékes teherviselői a pénzbeli ellátások kifizetését közvetlenül a jogosult részére teljesítik belső jogszabályaik szerint.
+
+(2) Az alkalmazandó jogszabályokkal összhangban a pénzbeli ellátásban részesülő személy az illetékes teherviselő felhívására életben létének tényét az e célra megállapított igazoláson (formanyomtatványon) köteles igazolni.
+
+V. Rész
+
+*VEGYES RENDELKEZÉSEK*
+
+*15. cikk*
+
+*Adatok és információk cseréje*
+
+(1) A Szerződő Felek összekötő szervei vagy illetékes teherviselői évi rendszerességgel kicserélik az Egyezmény értelmében teljesített kifizetésekre vonatkozó kimutatásaikat. E kimutatásoknak tartalmazniuk kell a jogosultak létszámára és a kifizetett ellátások összesített összegére vonatkozó adatokat, ellátástípusok szerinti bontásban.
+
+(2) A Szerződő Felek illetékes teherviselői kölcsönösen és haladéktalanul tájékoztatják egymást valamennyi, az ellátással kapcsolatos általuk ismert fontos tényről, amennyiben az adott ellátásra mindkét Szerződő Fél jogszabályai szerint jogosultság áll fenn, ez különösen az alábbi tényállásokra vonatkozik:
+
+*a)* valamely ellátás megállapítása, felfüggesztése vagy megszüntetése,
+
+*b)* új biztosítási idők igazolása,
+
+*c)* egy adott foglalkoztatás vagy önálló tevékenység megkezdése vagy folytatása,
+
+*d)* özvegy újbóli házasságkötése,
+
+*e)* az ellátásban részesülő személy halála,
+
+*f)* más állampolgárság felvétele,
+
+*g)* a tanulói, hallgatói jogviszony megszűnése,
+
+*h)* lakóhely, illetve tartózkodási hely változása.
+
+*16. cikk*
+
+*Igazolások (formanyomtatványok) és eljárások*
+
+(1) A Szerződő Felek összekötő szervei megállapodnak az Egyezmény alkalmazásához szükséges igazolásokról (formanyomtatványokról) és eljárásokról.
+
+(2) Amennyiben a biztosított a kérelmet a másik Szerződő Fél teherviselőjéhez közvetlenül nyújtja be, ez a teherviselő a kérelmet az első Szerződő Félnek illetékes teherviselőjéhez továbbítja az eljárás Egyezménnyel összhangban történő lefolytatása érdekében.
+
+*17. cikk*
+
+*Hatálybalépés*
+
+A Szerződő Felek diplomáciai úton értesítik egymást a jelen Igazgatási Megállapodás hatálybalépéshez szükséges belső eljárások befejezéséről. Az Igazgatási Megállapodás az Egyezménnyel azonos napon lép hatályba, és az Egyezménnyel azonos ideig marad hatályban.
+
+Készült Szarajevóban 2008. június 12-én magyar nyelven és Bosznia és Hercegovina hivatalos nyelvein – bosnyák, horvát, szerb nyelven –, két eredeti példányban, azzal hogy mind a nyolc szöveg egyaránt hiteles.
+
+*(Aláírások)*
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a az Igazgatási Megállapodás 17. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Igazgatási Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Igazgatási Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 9/2011. (III. 10.) KÜM határozat alapján a hatálybalépés napja 2009. augusztus 1.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Igazgatási Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 9/2011. (III. 10.) KÜM határozat alapján a hatálybalépés napja 2009. augusztus 1.
+[^3]: A 9/2011. (III. 10.) KÜM határozat alapján a hatálybalépés napja: 2009. augusztus 1.
+[^4]: Lásd a 9/2011. (III. 10.) KÜM határozatot.

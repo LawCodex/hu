@@ -1,0 +1,235 @@
+---
+title: "361/2013. (X. 11.) Korm. rendelet a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól"
+identifier: "361/2013. (X. 11.) Korm. rendelet"
+njt_id: "2013-361-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/361"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-10-11
+in_force_from: 2013-10-21
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-361-20-22"
+retrieved: 2026-10-12
+---
+
+# 361/2013. (X. 11.) Korm. rendelet a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól
+
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés n) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1.[^1] *alternatív segélykérő csatorna:* olyan informatikai vagy telekommunikációs felület vagy lehetőség, amelyen a segélykérő a hanghívástól eltérő módon teheti meg a készenléti szervek beavatkozását igénylő bejelentését a segélykérő vonalakon keresztül;
+
+1a.[^2] *bejelentő:* segélyhívás esetében az adott eseményhez segélyt kérő természetes személy vagy más, segélyhívás kezdeményezésére képes technikai rendszer;
+
+2\. *egyéb veszélyes körülmény:* ember, állat, műszaki hiba, elemi erő, természeti esemény, baleset, betegség vagy élettani körülmény okozta olyan helyzet, ami az életben, testi épségben, anyagi javakban okozott kárral, illetve a természetes és mesterséges környezet fokozott megrongálásával vagy ezek veszélyeztetésével jár, és amelyet a segélyt kérő természetes személy, illetve a környezetében lévők nem képesek önállóan a közmű üzemeltetők vagy – a készenléti szerveken kívüli – hatóság, hivatalos szerv helyszíni segítsége nélkül megoldani;
+
+3.[^3] *elektronikus adatlap:* a segélyhívásról a hívásfogadó által készített elektronikus jegyzőkönyv, amely tartalmazza a hívásfogadó rendszer által automatikusan létrehozott, valamint a hívásfogadó által rögzített adatokat;
+
+4.[^4] *hívásfogadó központ:* az általános rendőrségi feladatok ellátására létrehozott szerv azon szervezeti eleme, amelynek feladata a segélyhívások fogadása, előszűrése, feldolgozása, a szükséges híváskezelési, hívástovábbítási feladatok ellátása;
+
+5\. *hívásfogadó rendszer:* a hívásfogadó központban használt informatikai és információ-technológiai rendszer, amely alkalmas a segélykérővonalon érkező bejelentések, jelzések, információk fogadására, rögzítésére és továbbítására, valamint a bejelentő földrajzi helyzetének behatárolására;
+
+6.[^5] *hívásfogadó:* a segélyhívásokat fogadó központban a hívásokat fogadó természetes személy;
+
+7\. *készenléti szervek:* a mentők, a hivatásos katasztrófavédelmi szerv és az általános rendőrségi feladatok ellátására létrehozott szerv;
+
+8\. *MIR:* mentésirányítási rendszer, számítógéppel támogatott hívásfogadó és erőforrás kezelő, tevékenységirányító, valamint egészségügyi adatgyűjtő rendszer;
+
+9\. *segélyhívás:* természetes személy vagy segélyhívás kezdeményezésére képes technikai rendszer által segélykérővonalon kezdeményezett jelzés, amely vészhelyzet vagy egyéb veszélyes körülmény bejelentését tartalmazza;
+
+10\. *segélyhívó számok:* a készenléti szervek elérését biztosító, ingyenesen hívható (104, 105, 107, 112) hívószámok;
+
+11\. *segélykérővonal:* a segélyhívó számok, valamint minden olyan informatikai vagy egyéb technikai eszköz, amely vészhelyzet bejelentésére vagy segélykérésre alkalmazható;
+
+12\. *vészhelyzet:* olyan ember, állat, műszaki hiba, elemi erő, természeti esemény, baleset, betegség vagy élettani körülmény okozta helyzet, ami az életben, testi épségben, anyagi javakban okozott kárral, illetve a természetes és mesterséges környezet fokozott megrongálásával vagy ezek veszélyeztetésével jár, és amelyet a segélyt kérő természetes személy, illetve a környezetében lévők a készenléti szervek helyszíni segítsége nélkül önállóan megoldani nem képesek;
+
+13\. *zavaró hívás:* a segélykérővonal olyan használata, amely tartalma szerint nem segélyhívás, és indokolatlanul akadályozza a segélykérővonalak rendeltetésszerű használatát, így különösen:
+
+a) nem a készenléti szervek feladat- és hatáskörébe tartozó bejelentést vagy információkérést tartalmaz;
+
+b) olyan valótlan tartalmú közlést vagy bejelentést tartalmaz, amely alkalmas a készenléti szervek valamelyikének szükségtelen intézkedése kiváltására;
+
+c) véletlen vagy technikai hibából eredő hívás, illetve jelzés;
+
+d) SIM kártya nélküli mobiltelefonról kezdeményezett, nem segélyhívásra irányuló hívás.
+
+## 2. A hívásfogadó központok feladat- és hatásköre
+
+### 2. §
+
+(1) Az általános rendőrségi feladatok ellátására létrehozott szerv gondoskodik a hívásfogadó központok működtetéséről. Az általános rendőrségi feladatok ellátására létrehozott szerv e feladata ellátása keretében biztosítja
+
+a) a hívásfogadó központok elhelyezését,
+
+b)[^6] a hívásfogadói állományt,
+
+c) a hívásfogadó központ műszaki működési feltételeinek megteremtését, valamint
+
+d) a folyamatos üzemű, napi 24 órán keresztül történő zavartalan szolgálatellátást.
+
+(2)[^7] A NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) – az általános rendőrségi feladatok ellátására létrehozott szervvel kötött külön megállapodásban foglaltak szerint – biztosítja a hívásfogadó rendszer infrastruktúrájának működtetését, üzemeltetését.
+
+(3)[^8] A hívásfogadó központok
+
+a) fogadják és értékelik a segélykérővonalon beérkező segélyhívásokat;
+
+b) a segélyhívás alapján – szükség esetén az élőhang megosztásával, az elektronikus adatlap továbbításával vagy egyéb elektronikus, infokommunikációs úton – közvetítik az adatkezelésre jogosult készenléti szervek felé a bejelentést;
+
+c) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) alapján adatot szolgáltatnak a segélyhívások kezelése során rögzített adatokból az arra jogosultak részére.
+
+(4) A hívásfogadó központok az egészségügyi tárgyú segélyhívásokat az élőhang továbbkapcsolásával, valamint az addig kitöltött elektronikus adatlappal haladéktalanul továbbítják a feladat szerint területileg illetékes mentésirányítási központba.
+
+## 3. A segélyhívás kezdeményezése, fogadása és előszűrése
+
+### 3. §
+
+(1) A hívásfogadó központok fogadják a Magyarország területéről segélykérővonalakon kezdeményezett jelzéseket.
+
+(2)[^9]
+
+(3)[^10]
+
+(4)[^11]
+
+(5)[^12]
+
+(6)[^13]
+
+(7)[^14]
+
+(8) A hívásfogadó központok a fogadott segélyhívásokat a 6. § szerinti minősítést, illetve előszűrést követően az adott típusra előre meghatározott eljárási szabályok szerint kezelik.
+
+## 4. A segélyhívás fogadásának módja
+
+### 4. §
+
+(1) A hívásfogadó központoknak a segélyhívás fogadásával összefüggő feladatai:
+
+a) a segélyhívás földrajzi helyének,
+
+b) a bejelentéshez használt kommunikációs eszköz hívószámának,
+
+c) a bejelentő kilétének – technikai segélyhívás esetében az eszköz azonosítójának –
+
+azonosítása, megállapítása és
+
+d) a beazonosított adatoknak térképi felületen és az elektronikus adatlapon történő megjelenítése.
+
+(2) A hívásfogadó központokban a bejelentések feldolgozása elektronikus adatlapon történik. A hívásfogadó központokban alkalmazott hívásfogadó rendszer az elektronikus adatlapon automatikusan rögzíti
+
+a) azt a telefonszámot, amelyről a segélyhívás beérkezett,
+
+b) a segélyhívás kezdeményezésének földrajzi helyét és
+
+c) a segélyhívás időpontját.
+
+(3)[^15] A hívásfogadó rendszer által automatikusan fogadott segélyhívás kezelésekor a hívásfogadó kikérdezi a bejelentőt és a kapott információkat az elektronikus adatlapon rögzíti. A hívásfogadó – amennyiben ez lehetséges – rögzíti
+
+a) a bejelentőnek az Rtv. 81/A. §-ában és 82. § (1) bekezdés d) pontjában meghatározott személyes adatait,
+
+b) a segélyhívás alapjául szolgáló vészhelyzet vagy esemény helyszínét,
+
+c) a segélyhívás alapjául szolgáló vészhelyzet vagy esemény leírását és
+
+d) a kikérdezés során ismertté vált egyéb szükséges információkat és adatokat.
+
+(4)[^16] A hívásfogadó rendszer a segélyhívás helyére vonatkozó – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 103. pontjában meghatározott, nyilvánosan elérhető belföldi telefonszolgáltatást nyújtó elektronikus hírközlési szolgáltató rendszeréből átvett, valamint a segélykérő mobiltelefon készülékébe beépített helymeghatározó rendszer által megállapított és automatikusan továbbított – helymeghatározási adatokat rögzíti.
+
+(5)[^17] A hívásfogadó a segélyhívás tartalma alapján
+
+a) a segélyhívást egy már létező eseményhez csatolja, vagy
+
+b) a segélyhívást önállóan kezeli és rögzíti eljárásának indokolását.
+
+(6) A hívásfogadó központ a hívásfogadó rendszer útján hangfelvételt készít a segélyhívásokról, amelyről az Rtv.-ben meghatározott szabályok szerint adatot szolgáltat.
+
+### 5. §
+
+A készenléti szervhez közvetlenül – állampolgári személyes bejelentés útján vagy nem segélykérővonalon – beérkezett segélykérést a készenléti szerv tevékenység-irányító központja rögzíti a tevékenység-irányítási rendszerben, amely on-line kapcsolat útján a 4. § (3) bekezdésében meghatározott adatokat automatikusan továbbítja a hívásfogadó rendszerbe. A tevékenység-irányító központ az ilyen módon rögzített segélyhívás vonatkozásában nyomon követi a vészhelyzeti esemény státuszát, illetve szükség esetén kezdeményezi a hívásfogadó központ, más készenléti szerv, közmű üzemeltető vagy a készenléti szerveken kívüli hatóság, hivatalos szerv, illetve szervezet intézkedését.
+
+## 5. A segélyhívások fajtái
+
+### 6. §
+
+(1)[^18] Ha a segélyhívás alapján készenléti szerv intézkedése szükséges, a hívásfogadó továbbítja az elektronikus adatlapot, valamint szükség esetén haladéktalanul továbbkapcsolja a segélyhívást a hatáskörrel rendelkező készenléti szervnek.
+
+(2)[^19]
+
+(3)[^20] Ha a jelzés alapján az (1) és (2) bekezdés szerinti intézkedés nem szükséges, a hívásfogadó a bejelentő részére megadja a szükséges felvilágosítást, és ezt, illetve az 1. § 13. pont b)–d) alpontja szerinti zavaró hívás esetében ennek tényét rögzíti az elektronikus adatlapon.
+
+## 5/A. [^21] Fogyatékossággal élő személy segélykérése
+
+### 6/A. §[^22]
+
+(1)[^23] Fogyatékossággal élő személy a segélykérését a „112 SOS Hallássérülteknek” elnevezésű mobilalkalmazáson, a 112-es segélyhívó számra küldött SMS útján, videóhívás kezdeményezésére létrehozott applikáció alkalmazásával, valamint egyéb kialakított alternatív segélykérő csatornán is kezdeményezheti. Ezeket a segélykérési lehetőségeket bármely természetes személy igénybe veheti.
+
+(2) A „112 SOS Hallássérülteknek” elnevezésű mobilalkalmazás használatáról, valamint az egyéb alternatív segélykérő csatornán történő bejelentési lehetőségekről a www.police. hu honlap ad tájékoztatást.
+
+(3) Az egyéb kialakított alternatív segélykérő csatornán érkező bejelentések kezelését a hívásfogadó központok végzik.
+
+## 6.[^24]
+
+## 7. Záró rendelkezések
+
+### 8. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő 10. napon lép hatályba.
+
+(2) A 2–6. § 2014. január 1-jén lép hatályba.
+
+### 10. §
+
+(1) Ez a rendelet az egységes európai segélyhívó szám bevezetéséről szóló, 1991. július 29-i 91/396/EGK tanácsi határozat 1. cikk 1. pontjának végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) Ez a rendelet
+
+a)[^26] az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek,
+
+b) az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről („Elektronikus hírközlési adatvédelmi irányelv”) szóló, 2002. július 12-i 2002/58/EK európai parlamenti és tanácsi irányelv bevezető rész (46) bekezdésének és 1. cikk (1) bekezdésének,
+
+c) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelv 3. cikk d) pontjának, valamint
+
+d) a 112-es egységes európai segélyhívón alapuló, a járműből érkező vészhívások továbbítására szolgáló elektronikus hírközlő hálózatokon keresztül megvalósuló uniós szintű e-segélyhívó szolgáltatás („e-segélyhívás”) támogatásáról szóló, 2011. szeptember 8-i 2011/750/EU európai bizottsági ajánlás bevezető rész (15) bekezdésének
+
+e)[^27] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i 2019/882/EU európai parlamenti és tanácsi irányelv 4. cikk (8) bekezdésének
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 361/2013. (X. 11.) Korm. rendelethez[^28]
+
+---
+
+[^1]: Az 1. § 1. pontja a 252/2022. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 1a. pontját a 252/2022. (VII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 3. pontja a 479/2024. (XII. 31.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 4. pontja a 479/2024. (XII. 31.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § 6. pontja a 479/2024. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontja a 479/2024. (XII. 31.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^8]: A 2. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^10]: A 3. § (3) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^11]: A 3. § (4) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (5) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^13]: A 3. § (6) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^14]: A 3. § (7) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.
+[^15]: A 4. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. § (4) bekezdése a 6/2020. (I. 31.) Korm. rendelet 10. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 64. §-a szerint módosított szöveg.
+[^17]: A 4. § (5) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 58. § (2) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 60. § d) pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § b) pontja hatályon kívül helyezte.
+[^20]: A 6. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 60. § d) pontja szerint módosított szöveg.
+[^21]: Az 5/A. alcímet (6/A. §) az 572/2020. (XII. 9.) Korm. rendelet 62. §-a iktatta be.
+[^22]: A 6/A. § a 252/2022. (VII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 6/A. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^24]: A 6. alcímet (7. §-t) a 479/2024. (XII. 31.) Korm. rendelet 61. § c) pontja hatályon kívül helyezte.
+[^26]: A 10. § (2) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^27]: A 10. § (2) bekezdés e) pontját a 252/2022. (VII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^28]: Az 1. mellékletet a 479/2024. (XII. 31.) Korm. rendelet 61. § e) pontja hatályon kívül helyezte.

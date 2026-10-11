@@ -1,0 +1,2605 @@
+---
+title: "190/2011. (IX. 19.) Korm. rendelet az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről"
+identifier: "190/2011. (IX. 19.) Korm. rendelet"
+njt_id: "2011-190-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/190"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-09-19
+in_force_from: 2011-10-04
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-190-20-22"
+retrieved: 2026-10-12
+---
+
+# 190/2011. (IX. 19.) Korm. rendelet az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről
+
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § q) és r) pontjában, továbbá a 43. § és a 6. melléklet, a 44. §, valamint a 45. § és a 7. melléklet tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdése b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1) A rendelet hatálya kiterjed:
+
+a) a radioaktív sugárforrás birtokosára;
+
+b) a nukleáris anyag birtokosára;
+
+c) a radioaktív hulladék birtokosára;
+
+d) a nukleáris létesítmény engedélyesére;
+
+e)[^1] a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója (a továbbiakban együtt: átmeneti és végleges radioaktívhulladék-tároló) engedélyesére;
+
+f)[^2] létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében arra, aki a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló rendelet szerint engedélyezett földtani kutatási programot valamennyi kutatási fázisra végrehajtotta, és a földtani kutatási zárójelentést jóváhagyó hatósági határozattal rendelkezik; valamint
+
+g)[^3] a fix és mobil telepítésű ionizáló sugárzást létrehozó, radioaktív anyagot nem tartalmazó berendezés birtokosára.
+
+(2) A rendeletben foglalt rendelkezéseket
+
+a) alkalmazott, tárolt, valamint szállított radioaktív sugárforrás és nukleáris anyag;
+
+b) feldolgozott, tárolt, valamint szállított radioaktív hulladék;
+
+c) radiológiai következmények szempontjából jelentős rendszer és rendszerelem;
+
+d)[^4] a létesíteni tervezett és üzemelő nukleáris létesítmény;
+
+e)[^5] a létesíteni tervezett és üzemelő átmeneti és végleges radioaktívhulladék-tároló; továbbá
+
+f) a fix és mobil telepítésű ionizáló sugárzást létrehozó, radioaktív anyagot nem tartalmazó berendezés
+
+tekintetében kell alkalmazni.
+
+(3)[^6] A nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítása tekintetében a rendelet hatálya minden szállítási módozatra kiterjed, azzal, hogy a légi, tengeri, valamint belvízi szállítás tekintetében a 3. melléklet 1–5. pontját, 13–30. pontját, 45–69. pontját, továbbá a légi és a tengeri szállítás tekintetében a 70–73. pontját nem kell alkalmazni.
+
+(4) A rendelet hatálya nem terjed ki:
+
+a)[^7] az atomenergia felügyeleti szerv elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendelete (a továbbiakban: Svr. rendelet) hatálya alá nem tartozó radioaktív anyagokra és az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezésekre, valamint a Svr. rendeletben meghatározott hatósági felügyelet alól mentesített és felszabadított radioaktív anyagokra;
+
+b)[^8] a személyekbe vagy élő állatokba diagnosztikai vagy kezelési célra bevitt vagy beültetett radioaktív anyagokra, továbbá a személyek szervezetében vagy testén lévő radioaktív anyagokra, amelyek véletlenül vagy szándékosan kerültek a szervezetükbe vagy szennyeződtek el vele, és amely érintett személyeket ez okból orvosi kezelés céljából szállítanak; továbbá
+
+c)[^9] az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. §-ában meghatározott honvédelmi ágazati feladatokra.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+(1) E rendelet alkalmazásában:
+
+1\. *átlagos eszközök:* egyszerű, kisméretű, ruházatban elrejthető kéziszerszámok, így különösen csavarhúzó, fogó, feszítővas, kézifűrész, kalapács, fejsze, hidegvágó, véső, akkumulátoros fúró, fűrész, köszörű;
+
+2\. *belső elhárító erők:* a helyszíni őrszemélyzet, a fegyveres biztonsági őrség;
+
+3\. *belső elkövető:* a jogtalan eltulajdonítás vagy szabotázs végrehajtását elkövető, vagy a végrehajtást segítő olyan személy, aki a fizikai védelmi tervben meghatározott be- és kiléptetési rend alapján az adott létesítménybe belépésre jogosult;
+
+4\. *besugárzott nukleáris anyag:* olyan nukleáris anyag, amely reaktorban be volt sugározva, és a sugárzási szintje 1 méteres távolságban árnyékolás nélkül 1 Gy/h-nél nagyobb;
+
+4a.[^10] *diverzitás:* olyan rendszerek vagy rendszerelemek alkalmazása, amelyek ugyanazon funkció teljesítését látják el, azonban e szempontból valamely fontos paraméter, így különösen működési elv, kialakítás, elrendezés, gyártó tekintetében eltérnek egymástól, csökkentve ezzel a közös okú vagy azonos módon történő meghibásodások előfordulásának valószínűségét;
+
+5\. *kivonuló szolgálat:* a helyszíni őrszemélyzettől vagy a detektáló eszközöktől kapott riasztást követően a helyszínre érkező, a helyszíni őrszemélyzetet segítő szervezet;
+
+6\. *egyszeres hibatűrés követelménye:* egy funkcióval szemben támasztott olyan követelmény, miszerint a funkciót redundáns rendszerelemek teljesítik, és egyetlen, valamelyik redundáns rendszerelemben bekövetkező egyszeres meghibásodás esetében a funkció még teljesíthető;
+
+7\. *elhárító erők:* a belső, a külső elhárító erők;
+
+8\. *emelt szintű fizikai védelem:* a fizikai védelmi funkciók ellátásának elrendelt megerősítése, amelyet a fizikai védelmi tervben meghatározott módon az atomenergia alkalmazója biztosít;
+
+9\. *fegyveres biztonsági őrség:* jogszabályban meghatározott jogokkal felruházott, őrzési feladatokat ellátó, szolgálati fegyverrel és más kényszerítő eszközzel rendelkező, biztonsági szervezet;
+
+10\. *feltartóztatás:* olyan számú, felszereltségű és képességű elhárító erőnek a megfelelő helyekre történő sikeres felállása, amely az elkövetőt megállásra készteti;
+
+11\. *helyszínen található eszközök:* egy alkalmi elkövetőnél megtalálható személyes eszköz, így különösen zsebkés, és a helyszín közelében található egyéb eszköz, így különösen kő, fémdarab, fadarab, ék;
+
+12\. *helyszíni őrszemélyzet:* meghatározott helyszíni járőrözési, megfigyelési, észlelési feladatokat ellátó, személyek és szállítmányok kísérését, a beléptetési rendszer felügyeletét végző, valamint az elhárítás első fázisát adó szervezet;
+
+12a.[^11] *Hordozható eszköz:* olyan tartó vagy tároló, amelyet kifejezetten arra terveztek, hogy a benne elhelyezett zárt sugárforrás a különböző helyeken történő használathoz könnyen, kézi erővel mozgatható legyen.
+
+13\. *képességek:* eszközök, fegyverek birtoklása és alkalmazása, szakmai és taktikai ismeretek, fizikai erőnlét;
+
+14.[^12] *kötelezett:* a nukleáris létesítmény engedélyese, az átmeneti és végleges radioaktívhulladék-tároló engedélyese, a radioaktív sugárforrás birtokosa, a radioaktív hulladék birtokosa és a nukleáris anyag birtokosa, valamint létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében az, aki a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló rendelet szerint engedélyezett földtani kutatási programot valamennyi kutatási fázisra végrehajtotta és a földtani kutatási zárójelentést jóváhagyó hatósági határozattal rendelkezik;
+
+15\. *külső elhárító erők:* a rendőrség, a kivonuló szolgálat;
+
+16\. *nem besugárzott nukleáris anyag:* olyan nukleáris anyag, amely nem volt reaktorban besugározva, vagy be volt sugározva, de a sugárzási szintje 1 méteres távolságban árnyékolás nélkül 1 Gy/h vagy alacsonyabb;
+
+17\. *nukleáris anyag birtokosa:* aki nukleáris anyagot alkalmaz, tárol vagy szállít;
+
+17a.[^13] *programozható rendszer:* olyan funkcionális eszköz vagy struktúra, amely alkalmas számítási, kommunikációs, automatizálási, vezérlési, ellenőrzési feladatok ellátására, ezen belül:
+
+a) a létesítmény technológiájához kapcsolódó irányítástechnikai rendszerek,
+
+b) a fizikai védelmi rendszerek,
+
+c) a nukleáris biztosítéki rendszerek,
+
+d) a radioaktív anyag nyilvántartási rendszerek, valamint
+
+e) a létesítmény technológiájához közvetlenül nem csatlakozó olyan nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki és radioaktív anyag nyilvántartási rendszerek, amelyekhez, valamint az azokban tárolt, kezelt adatokhoz, információkhoz engedélyesi felelősség kapcsolódik;
+
+18\. *radioaktív hulladék birtokosa:* aki radioaktív hulladékot feldolgoz, tárol vagy szállít;
+
+19\. *radioaktív sugárforrás:* radioaktív anyagot tartalmazó nyitott vagy zárt sugárforrás;
+
+20\. *radioaktív sugárforrás birtokosa:* aki radioaktív sugárforrást alkalmaz, tárol vagy szállít;
+
+21\. *semlegesítés:* a célja elérése előtt az elkövető sikeres elfogása, vagy tette elkövetésének egyéb módon történő megakadályozása;
+
+22\. speciális eszközök: nagyméretű kéziszerszámok, különösen létra, csapszegvágó, feszítővágó, továbbá nagy teljesítményű villamos szerszámok, így különösen vágó, fúrógép, gépi fűrész, sarokköszörű;
+
+22a.[^14] *validálás:* annak ellenőrző vizsgálata, hogy a rendszer, rendszerelem, szolgáltatás, módszer, számítási eszköz, számítógép program megfelel-e a funkcionális, a teljesítmény- és interfész követelményeknek az előre meghatározott és írásban rögzített feltételek mellett;
+
+22b.[^15] *verifikálás:* ellenőrző folyamat, mely során megvizsgálják, hogy a rendszer, rendszerelem szolgáltatás, módszer, számítási eszköz, számítógép program, fejlesztési-, gyártási folyamat minden egyes fázisának terméke kielégíti-e az előző fázis által meghatározott összes követelményt;
+
+23\. *veszélytudatossági tájékoztatás:* az atomenergia alkalmazói, valamint a lakosság részére nyújtott tájékoztatás, amelynek célja a nukleáris védettség és ezen belül a fizikai védelem célkitűzéseinek megértése, és a célkitűzések teljesítését szolgáló tevékenységek megismerése;
+
+24\. *video megfigyelő rendszer:* olyan, minimálisan képérzékelőből, képátviteli eszközből és képmegjelenítőből álló rendszer, amely alkalmas egy meghatározott terület figyelésére.
+
+(2)[^16] Az (1) bekezdésben nem definiált fogalmak tekintetében az Atv. 2. §-ában meghatározott definíciókat kell alkalmazni.
+
+## II. Fejezet — NEMZETI FENYEGETETTSÉG FELMÉRÉSE, TERVEZÉSI ALAPFENYEGETETTSÉGEK MEGHATÁROZÁSA
+
+### 3. [^17] Tervezési alapfenyegetettség
+
+#### 3. §
+
+(1) Az Országos Atomenergia Hivatal (a továbbiakban: OAH) a nemzeti fenyegetettség és a tervezési alapfenyegetettség vonatkozásában:
+
+a) elemzi és meghatározza, továbbá rendszeresen, valamint erre alapot adó információ vagy esemény okán haladéktalanul felülvizsgálja az atomenergia alkalmazásának fenyegetettségét Magyarország területén a (2) bekezdésben meghatározott szervekkel történő egyeztetés alapján,
+
+b) az *a)* pont szerinti elemzés, valamint felülvizsgálat alapján meghatározza a létesíteni tervezett nukleáris létesítményre, valamint létesíteni tervezett átmeneti és végleges radioaktívhulladék-tárolóra vonatkozó tervezési alapfenyegetettséget,
+
+c) az *a)* pont szerinti elemzés, valamint felülvizsgálat alapján meghatározza, továbbá a fenyegetettség megváltozása esetén, valamint a fizikai védelemmel kapcsolatos tudományos és műszaki eredmények alapján felülvizsgálja a nukleáris anyagra, a radioaktív sugárforrásra, a radioaktív hulladékra, az átmeneti és végleges radioaktívhulladék-tárolóra, valamint a nukleáris létesítményre vonatkozó tervezési alapfenyegetettséget,
+
+d) megállapítja
+
+da) a fenyegetettségi szint emelkedése esetén az emelt szintű fizikai védelem bevezetésének, és
+
+db) az elrendelést megalapozó feltételek megszűnése esetén az emelt szintű fizikai védelem megszüntetésének szükségességét, továbbá
+
+e) javaslatot tesz a tervezési alapfenyegetettséget meghaladó fenyegetettség esetében alkalmazandó állami eszközökre a (2) bekezdésben meghatározott szervekkel történő egyeztetés alapján.
+
+(2)[^18] Az OAH az (1) bekezdés b)–d) pontjában meghatározott kérdésekben a következő szervekkel történő egyeztetés alapján a kötelezett intézkedését megalapozó határozatot hoz:
+
+a) az Országos Rendőr-főkapitányság,
+
+b) a Nemzeti Nyomozó Iroda,
+
+c) a Terrorelhárítási Központ,
+
+d) a Katonai Nemzetbiztonsági Szolgálat,
+
+e) az Alkotmányvédelmi Hivatal,
+
+f) a Nemzeti Biztonsági Felügyelet és
+
+g) a Nemzeti Információs Központ.
+
+(3) Az OAH a (2) bekezdés szerinti határozatot megküldi a kötelezett és az egyeztetésben részt vevő szervek részére.
+
+(4) Az emelt szintű fizikai védelem bevezetését és megszüntetését az OAH-nál a (2) bekezdésben meghatározott szerv is kezdeményezheti.
+
+(5)[^19]
+
+## III. Fejezet — KATEGORIZÁLÁS, A FIZIKAI VÉDELEM CÉLJA ÉS ALAPKÖVETELMÉNYEI
+
+### 4. Nukleáris anyag, radioaktív sugárforrás, radioaktív hulladék kategorizálása
+
+#### 4. §
+
+(1) A besugárzott és a nem besugárzott nukleáris anyagot jogtalan eltulajdonítás elleni védelem szempontjából, valamint a nem besugárzott nukleáris anyagokat szabotázs elleni védelem szempontjából a hasadóanyag-mennyiség alapján az 1. melléklet 1. táblázata szerint kell kategorizálni.
+
+(2) A besugárzott nukleáris anyagot a szabotázs elleni védelem szempontjából Cs-137 izotóptartalmának aktivitása alapján az 1. melléklet 2. táblázata szerint kell kategorizálni, azzal, hogy a besugárzott nukleáris üzemanyagot mennyiségétől függetlenül az 1. melléklet 2. táblázat 1. kategóriájába kell besorolni.
+
+(3) A nukleáris anyag jogtalan eltulajdonítás elleni védelem szempontjából történő kategorizálása során az ugyanazon fizikai védelmi zónában alkalmazott, tárolt, vagy egyidejűleg szállított azonos típusú nukleáris anyagok együttes mennyiségét, míg a különböző típusú anyagokat egymástól függetlenül külön kell figyelembe venni.
+
+(4) Az egyedileg alkalmazott, tárolt vagy szállított radioaktív sugárforrást az aktivitásuk és az adott izotópra vonatkozó izotóp-specifikus normalizáló tényező alapján az 1. melléklet 2. táblázata szerint kell kategorizálni.
+
+(5)[^20]
+
+(6) Az egyedileg feldolgozott, tárolt vagy szállított radioaktív hulladékot az aktivitásuk és az adott izotópra vonatkozó izotóp-specifikus normalizáló tényező alapján az 1. melléklet 3. táblázata szerint kell kategorizálni.
+
+(7) Az ugyanazon fizikai védelmi zónában alkalmazott, tárolt vagy egyidejűleg szállított radioaktív sugárforrások kategorizálása során az 1. melléklet 2. táblázata szerint izotóponként meghatározott R értékek összegét kell figyelembe venni.
+
+(8) Az ugyanazon fizikai védelmi zónában feldolgozott, tárolt vagy egyidejűleg szállított radioaktív hulladékok kategorizálása során az 1. melléklet 3. táblázata szerint izotóponként meghatározott R értékek összegéből számított és az S tényezővel korrigált, és ennek figyelembevételével egyedileg engedélyezett értéket kell figyelembe venni.
+
+### 5. A fizikai védelem célja
+
+#### 5. §
+
+(1) A fizikai védelmi rendszernek védelmet kell nyújtania:
+
+a) a III. kategóriába tartozó nukleáris anyag, a 2–5. kategóriába tartozó radioaktív sugárforrás alkalmazása, tárolása és szállítása, valamint a 2–3. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása esetén a jogtalan eltulajdonítás;
+
+b) az I. és II. kategóriába tartozó nukleáris anyag, az 1. kategóriába tartozó radioaktív sugárforrás alkalmazása és tárolása, valamint az 1. kategóriába tartozó radioaktív hulladék feldolgozása és tárolása során jogtalan eltulajdonítás és szabotázs;
+
+c) az I. és II. kategóriába tartozó nukleáris anyag, az 1. kategóriába tartozó radioaktív sugárforrás és radioaktív hulladék szállítása során jogtalan eltulajdonítás; továbbá
+
+d) a radiológiai következmények szempontjából jelentős rendszerek és rendszerelemek szabotázsa
+
+ellen.
+
+(2) A fizikai védelmi rendszernek az I. és II. kategóriába tartozó nukleáris anyag, 1. kategóriába tartozó radioaktív sugárforrás és radioaktív hulladék szállítása során biztosítania kell a szabotázs elleni védelmet az azokra vonatkozó, jogszabályban meghatározott szállítási biztonsági követelmények teljesítése útján.
+
+### 6. Fizikai védelmi rendszer alapkövetelményei
+
+#### 6. §
+
+(1) A fizikai védelmi rendszernek biztosítania kell, hogy a jogtalan eltulajdonítás, illetve szabotázs detektálása és az elhárító erők riasztása után olyan időtartamú késleltetés valósuljon meg, amely lehetővé teszi az elhárító erők számára az elkövető feltartóztatását és semlegesítését a védett cél elérése előtt.
+
+(2)[^21] A fizikai védelmi rendszert úgy kell kialakítani, hogy minimalizálja a belső elkövető általi szabotázs lehetőségét, és akadályozza meg a belső elkövető általi jogtalan eltulajdonítást.
+
+(3)[^22] Biztosítani kell, hogy a fizikai védelmi rendszer minden időjárási helyzetben, minden napszakban, az alkalmazás, feldolgozás, tárolás és szállítás minden fázisában megőrizze hatékonyságát. Ennek érdekében a fizikai védelmi rendszer tervezése és kiépítése során olyan szabályozott folyamatot kell létrehozni, amely biztosítja, hogy csak környezetállósági minősítéssel rendelkező készülékek kerüljenek felhasználásra.
+
+(4) A fizikai védelmi rendszer detektálási és elhárítási funkciójának teljesítenie kell az egyszeres hibatűrés követelményét.
+
+(5) A minősített adat védelméről rendelkező jogszabályokban meghatározott módon kell minősíteni és kezelni azon információkat, amelyek ismeretében az elkövető a fizikai védelmi rendszer hatékonyságát csökkentheti.
+
+(6) A fizikai védelmi rendszert hatékonyan kell együttműködtetni a nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok jogszabályban meghatározott nukleáris és ipari biztonsági, nyilvántartási és ellenőrzési, sugárvédelmi, a normálistól eltérő helyzetek kezelését célzó, a katasztrófavédelmi és nukleáris veszélyhelyzet-kezelési előírásaival és műszaki megoldásaival.
+
+### 7. A szükséges fizikai védelmi szintek
+
+#### 7. §
+
+(1) A nukleáris anyagok, radioaktív sugárforrások alkalmazása, tárolása és szállítása, valamint a radioaktív hulladékok feldolgozása, tárolása és szállítása során a (2)–(5) bekezdésnek megfelelően a fizikai védelmi rendszer négy szintjét kell kialakítani úgy, hogy biztosítani kell:
+
+a) A-szinten a szabotázs és a jogtalan eltulajdonítás megakadályozását,
+
+b) B-szinten a szabotázs és a jogtalan eltulajdonítás lehetőségének csökkentését,
+
+c) C-szinten a jogtalan eltulajdonítás lehetőségének csökkentését, és
+
+d) D-szinten az alapvető védelmi intézkedések alkalmazását.
+
+(2) A-szintű fizikai védelmet kell biztosítani az I. kategóriába tartozó nukleáris anyag alkalmazása, tárolása és szállítása esetén.
+
+(3) B-szintű fizikai védelmet kell biztosítani:
+
+a) II. kategóriába tartozó nukleáris anyag alkalmazása, tárolása és szállítása,
+
+b) 1. kategóriába tartozó radioaktív sugárforrás alkalmazása, tárolása és szállítása,
+
+c) 1. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása, valamint
+
+d) III. kategóriába tartozó nukleáris anyag szállítása
+
+esetén.
+
+(4) C-szintű fizikai védelmet kell biztosítani:
+
+a) III. kategóriába tartozó nukleáris anyag alkalmazása, tárolása,
+
+b)[^23] 2. és 3. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása, valamint
+
+c) 2. és 3. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása
+
+esetén.
+
+(5) D-szintű fizikai védelmet kell biztosítani:
+
+a)[^24] 4–5. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása,
+
+b) nem kategorizált nukleáris anyagok alkalmazása, tárolása és szállítása, valamint
+
+c) 4. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása
+
+esetén.
+
+(6) A radiológiai következmények szempontjából jelentős rendszer és rendszerelem tekintetében az alkalmazott, tárolt nukleáris anyagnak és radioaktív sugárforrásnak, valamint feldolgozott, tárolt radioaktív hulladéknak megfelelő, az (1)–(5) bekezdésben meghatározott szintű fizikai védelmet kell biztosítani.
+
+(7) Feldolgozás és szállítás során a radioaktív hulladékká minősített radioaktív sugárforrás fizikai védelmi szintjére a radioaktív sugárforrás fizikai védelmi szintjére vonatkozó követelményeket kell alkalmazni.
+
+## IV. Fejezet — FIZIKAI VÉDELMI RENDSZER FUNKCIÓI, A FUNKCIÓK MEGVALÓSÍTÁSA
+
+### 8. A fizikai védelmi rendszer funkciói
+
+#### 8. §
+
+A fizikai védelmi rendszernek biztosítania kell:
+
+a) az elrettentés,
+
+b) a detektálás,
+
+c) a késleltetés, és
+
+d) az elhárítás
+
+fizikai védelmi funkciók hatékony együttműködését a 2. és 3. mellékletben foglaltaknak megfelelően.
+
+### 9. Az elrettentés megvalósítása
+
+#### 9. §
+
+(1) Az elrettentést úgy kell megvalósítani, hogy az a jogtalan eltulajdonítás, illetve szabotázs elkövetőjét tette előkészítésének, illetve kivitelezésének feladására késztesse.
+
+(2)[^25] Az elrettentést:
+
+a) figyelmeztető táblák, feliratok,
+
+b) hang és fényjelzés,
+
+c) jól látható mesterséges akadályok,
+
+d) veszélytudatossági tájékoztatás, és
+
+e) nyilvántartás-ellenőrzés
+
+alkalmazásának megfelelő kombinációjával kell megvalósítani a 2. és a 3. mellékletben meghatározott módon.
+
+### 10. A detektálás megvalósítása
+
+#### 10. §
+
+(1) A detektálás során:
+
+a) az elkövető tevékenységét észlelni kell,
+
+b) az észlelés valódiságát értékelni kell,
+
+c) azonosítani kell az elkövetés helyét, és
+
+d) riasztani kell az elhárító erőket.
+
+(2)[^26] A detektálást:
+
+a) behatolás és támadásjelző rendszer,
+
+b) video megfigyelő és kiértékelő rendszer,
+
+c) beléptető rendszer,
+
+d) személyek általi észlelés, és
+
+e) őrségközpont
+
+alkalmazásának megfelelő kombinációjával kell megvalósítani a 2. és a 3. mellékletben meghatározott módon.
+
+(3) A detektálási funkció megvalósítása során biztosítani kell, hogy:
+
+a) az elkövetői cselekményt magas valószínűséggel és megfelelő időben észleljék;
+
+b) a riasztás beérkezéséhez és a riasztás valódiságának értékeléséhez szükséges idő rendelkezésre álljon;
+
+c) a zavaró, nem valós esemény által keltett riasztások alacsony gyakorisággal forduljanak elő; valamint
+
+d) az érzékelőket ne lehessen kijátszani.
+
+(4) A videó megfigyelő és kiértékelő rendszer alkalmazása esetén a biztonsági kamerák működéséhez a kötelezettnek biztosítania kell a megfelelő fényviszonyokat és a megfelelő észlelési területet.
+
+(5)[^27] Biztosítani kell a belépési jogosultság ellenőrzését olyan módon, hogy az lehetővé tegye a belépésre jogosult személyek belépését, detektálja és késleltesse a belépésre nem jogosult személyek be- és kilépését, továbbá jelezze a bevitelre nem engedélyezett anyagok és eszközök be- és kivitelét.
+
+(6) A jelző- és megfigyelő rendszerekről, illetve a belső elhárító erőktől érkező információk fogadására, azok feldolgozására, értékelésére és archiválására, valamint az indokolt válaszintézkedések kezdeményezésére alkalmas őrségközpontot kell kialakítani a kötelezettnek a 3. mellékletben meghatározott esetben olyan módon, hogy az biztosítsa az oda beosztott belső elhárító erők fizikai védelmi szempontból biztonságos tartózkodását.
+
+(7)[^28] A zónahatárokon található ellenőrző áteresztő pontokat úgy kell kialakítani, hogy ott, az adott fizikai védelmi szintnek megfelelően, jelezhető legyen a bevitelre nem engedélyezett anyagok, eszközök be- és kivitele.
+
+### 11. A késleltetés megvalósítása
+
+#### 11. §
+
+(1) A késleltetést úgy kell megvalósítani, hogy az az elkövetőt a cselekmény kivitelezésében akadályozza, ezáltal biztosítsa az elhárító erők beavatkozásához szükséges időtartamot.
+
+(2)[^29] A késleltetést:
+
+a) passzív mechanikai gátak, építmények,
+
+b) aktív mozgatható mechanikai gátak és a hozzájuk tartozó zárak,
+
+c) biztonsági tárolók, lemezszekrények, jármű-karosszériák, és
+
+d) aktiválódó eszközök
+
+megfelelő kombinációjával kell megvalósítani a 2. és a 3. mellékletben meghatározott módon.
+
+### 12. Az elhárítás megvalósítása
+
+#### 12. §
+
+(1) Az elhárítási tevékenység során az elhárító erők a riasztás fogadása után felkészülnek, és a helyszínre érkezve feltartóztatják, majd semlegesítik az elkövetőket.
+
+(2)[^30] Az elhárítás során az elkövető feltartóztatását és semlegesítését, valamint a jogtalan eltulajdonítás, illetve szabotázs megakadályozását:
+
+a) a helyszíni őrszemélyzet,
+
+b) a fegyveres biztonsági őrség,
+
+c) a rendőrség, és
+
+d) a kivonuló szolgálat
+
+megfelelő együttműködésével kell megvalósítani a 2. és 3. mellékletben meghatározott módon.
+
+(3) Az elhárítás funkció megvalósítása során biztosítani kell:
+
+a) a beavatkozáshoz szükséges rövid időt,
+
+b) az elhárító erők elhárításhoz szükséges számát, és
+
+c) az elhárító erők elhárításhoz szükséges képességeit.
+
+(4)[^31] A reagálás hatékonyságának biztosítása érdekében a fegyveres biztonsági őrség teljes állományának biztosítani kell:
+
+a) a tervezési alapfenyegetettségben megjelölt elkövetői fegyverzettel szembeni arányos védelmet biztosító személyi védőfelszerelést, és
+
+b) ha a létesítményre vonatkozó Biztonsági Jelentésben és Időszakos Biztonsági Felülvizsgálatban szereplő belső és külső veszélyek indokolják, légzésvédő felszerelést.
+
+(5)[^32] A (4) bekezdés a) és b) pontjában meghatározott felszerelés kiválasztásának módjára vonatkozó ajánlást a Tervezési Alapfenyegetettség Munkabizottság bevonásával készített és az OAH által kiadott útmutató tartalmazza.
+
+## V. Fejezet — TOVÁBBI KÖVETELMÉNYEK
+
+### 13. Fegyveres Biztonsági Őrséggel védendő anyagok és létesítmények
+
+#### 13. §[^33]
+
+A nukleáris létesítményt – az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt kivéve –, a radioaktív hulladék átmeneti és végleges tárolóját, valamint az I. és II. kategóriába tartozó nukleáris anyagot fegyveres biztonsági őrséggel kell védeni. Az ilyen létesítmények és nukleáris anyagok esetében a belső elhárító erő kizárólag a fegyveres biztonsági őrség lehet.
+
+### 14. A fizikai védelmi zónák kialakítása
+
+#### 14. §
+
+(1) A mélységben tagolt védelem elvét követve a nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmére létrehozott ellenőrzött területen fizikai védelmi zónát vagy zónákat kell kijelölni.
+
+(2) A fizikai védelmi zónák az alábbiak:
+
+a) ellenőrzött zóna;
+
+b) őrzött zóna;
+
+c) fokozottan őrzött zóna; és
+
+d) belső zóna.
+
+(3) Őrzött zónát az ellenőrzött zónán belül, fokozottan őrzött zónát őrzött zónán belül, belső zónát fokozottan őrzött zónán belül kell kialakítani.
+
+(4) A fizikai védelmi zónáknak az (5)–(8) bekezdésben meghatározott módon meg kell felelniük a 7. §-ban meghatározott fizikai védelmi szinteknek.
+
+(5) Az ellenőrzött zónában minimum D-szintű védelmet kell biztosítani. Az ellenőrzött zónában kell elhelyezni a D-szintű védelmet igénylő nukleáris anyagot, radioaktív sugárforrást, radioaktív hulladékot.
+
+(6) Az őrzött zónában minimum C-szintű védelmet kell biztosítani. Az őrzött zónában kell elhelyezni a C-szintű védelmet igénylő nukleáris anyagot, radioaktív sugárforrást, radioaktív hulladékot, valamint a C-szintű védelmet igénylő radiológiai következmények szempontjából jelentős rendszert, rendszerelemet.
+
+(7) A fokozottan őrzött zónában minimum B-szintű védelmet kell biztosítani. A fokozottan őrzött zónában kell elhelyezni a B-szintű védelmet igénylő nukleáris anyagot, radioaktív sugárforrást, radioaktív hulladékot, valamint a B-szintű védelmet igénylő radiológiai következmények szempontjából jelentős rendszert, rendszerelemet.
+
+(8) A belső zónában A-szintű védelmet kell biztosítani. A belső zónában kell elhelyezni az A-szintű védelmet igénylő nukleáris anyagot.
+
+(9) A fizikai védelmi zónák közötti átjárás az áteresztési pontokon keresztül kizárólag ellenőrzött módon történhet.
+
+### 15. Az őrzés-védelmi kultúra
+
+#### 15. §[^34]
+
+A kötelezett őrzés-védelmi kultúrát fejleszt ki és tart fenn annak érdekében, hogy a fizikai védelem rendszere hatékonyan megvalósuljon a kötelezett teljes szervezetén belül, és az abban részt vevő minden szervezet, szervezeti egység és személy – a telephelyen dolgozó külső munkavállalók vonatkozásában is – megfelelő fontossággal kezelje a fizikai védelemmel összefüggő tevékenységeket.
+
+### 16. A belső elkövetők
+
+#### 16. §
+
+(1) A kötelezett a fizikai védelmi rendszer hatékony működése szempontjából jelentős ismeretekkel, hatáskörrel és jogosultsággal rendelkező személyek megbízhatóságát a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott módon ellenőrzi.
+
+(2) A fokozottan őrzött zónába, és a belső zónába egyidejűleg legalább két, a belépésre és a munka elvégzésére feljogosított személy léphet be.
+
+### 17. A beléptetés rendje
+
+#### 17. §
+
+(1)[^35] Nukleáris létesítménybe, valamint radioaktív hulladék átmeneti és végleges tárolójába csak az léphet be, aki a létesítményben való tartózkodásra jogosító belépési engedéllyel rendelkezik, és személyes adatainak (5)–(8) bekezdésben meghatározott kezeléséhez hozzájárul.
+
+(2) Az (1) bekezdés szerinti létesítményekben való be- és kiléptetés rendjét a fizikai védelmi terv tartalmazza.
+
+(3) A munkaköre vagy feladata ellátása céljából az (1) bekezdés szerinti létesítményben tartózkodó személy belépési igazolványát úgy kell kialakítani, hogy alkalmas legyen a személyazonosításra, az igazolványba beépített kód alapján gépi adattárolásra és azonosításra, valamint az atomerőművek esetében megfeleljen a biztonsági okmányokra jogszabályban előírt követelményeknek.
+
+(4)[^36] Az (1) bekezdés szerinti létesítmény a kötelezett írásbeli engedélyével látogatható. Látogató az ellenőrzött, az őrzött, a fokozottan őrzött és a belső zóna területén csak a kötelezett által kijelölt személy kíséretében tartózkodhat.
+
+(5) A (3) és (4) bekezdés szerinti belépési engedélyekről a kötelezett ügyviteli nyilvántartást vezet. Az ügyviteli nyilvántartás tartalmazza a belépésre jogosult személy:
+
+a) természetes személyazonosító adatait,
+
+b) lakcímét,
+
+c) állampolgárságát,
+
+d) személyi igazolványának vagy útlevelének számát, valamint
+
+e) a (3) bekezdésben meghatározott személyek esetében a rendőrség által kiadott közbiztonsági engedély számát.
+
+(6) A kötelezett az ügyviteli nyilvántartás adatait a belépési engedély érvényességének időtartama alatt, valamint az érvényesség megszűnésétől számított 10 évig kezeli a tervezési alapfenyegetettséggel szembeni hatékony fizikai védelmi rendszer fenntartása és működtetése céljából.
+
+(7) Az ügyviteli nyilvántartás adatait a kötelezett kizárólag bűncselekmény vagy szabálysértés észlelése esetén, vagy megkeresés alapján a nyomozó hatóságnak, illetve a szabálysértési hatóságnak adhatja ki.
+
+(8)[^37] A (7) bekezdésben foglaltaktól eltérően a kötelezett a fizikai védelem és a nukleáris biztonság magas szinten tartása érdekében kezdeményezett belső vizsgálatok elvégzéséhez elrendelheti az ügyviteli nyilvántartás adatainak dokumentált átadását a vizsgálatot végző személy vagy szervezet számára.
+
+### 18. A tervezés
+
+#### 18. §
+
+(1) A kötelezett fizikai védelmi rendszer felépítését és működését leíró fizikai védelmi tervet készít a 4. mellékletben foglaltaknak megfelelően.
+
+(2) A kötelezett a fizikai védelmi terv részeként intézkedési tervet készít, ami meghatározza a lehetséges események körét, beleértve a fizikai védelmi rendszer nem megfelelő technikai működését okozó eseményeket is, továbbá a szükséges intézkedések és beavatkozások eljárásrendjét.
+
+(3)[^38] A kötelezett intézkedéseket készít elő a 3. § (1) bekezdés d) pont da) alpontja szerint elrendelt emelt szintű fizikai védelem bevezethetőségére.
+
+(4) A kötelezett összehangolja a nukleáris és nem nukleáris veszélyhelyzetek kezelését a fizikai védelmi rendszer működésével.
+
+(5) Szabotázs vagy más okból kialakult nukleáris veszélyhelyzet esetében a fizikai védelmi rendszer nem akadályozhatja a baleset-elhárítási intézkedési terv végrehajtását.
+
+### 19. A fizikai védelem nukleáris biztonsági és sugárvédelmi követelményei
+
+#### 19. §
+
+(1) A fizikai védelmi rendszernek és rendszerelemeinek függetlennek kell lennie a nukleáris biztonság és sugárvédelem szempontjából fontos rendszerektől, rendszerelemektől, így biztosítva, hogy a biztonsági osztályba sorolt rendszerek és rendszerelemek funkciójuk ellátására teljes mértékben képesek maradjanak a fizikai védelem üzemeltetése, valamint üzemzavara során is.
+
+(2) Az (1) bekezdésben foglaltak érdekében:
+
+a) visszahatás-mentességet kell biztosítani: ki kell zárni, hogy a fizikai védelem rendszerelemeinek meghibásodása a nukleáris biztonság és sugárvédelem szempontjából fontos rendszerelemek működésképtelenségét okozza;
+
+b) minimalizálni kell a kapcsolatot a nukleáris biztonság szempontjából fontos rendszerelemekkel a betáplálási, irányítástechnikai – szabályzó, vezérlő, mérőkörök és programozható eszközök – és számítástechnikai eszközök alkalmazása esetén; továbbá
+
+c) a fizikai védelem bármely rendszerelemének üzembe helyezése során igazolni kell, hogy a nukleáris biztonság és sugárvédelem szempontjából fontos rendszerek, rendszerelemek teljes mértékben alkalmasak funkciójuk ellátására a fizikai védelem üzemeltetése, üzemzavara mellett is.
+
+(3) A fizikai védelem eszközeivel is biztosítani kell, hogy a nukleáris biztonságot érintő, így különösen a hatósági jogosítványhoz kötött munkakörökben csak azok a személyek tevékenykedhessenek, akik erre feljogosítottak.
+
+(4) A fizikai védelem átalakítása alatt biztosítani kell a biztonságos üzemet úgy, hogy:
+
+a) a nukleáris biztonság és sugárvédelem szempontjából fontos rendszerek, rendszerelemek a kiviteli munkák alatt is teljes mértékben képesek legyenek funkciójuk ellátására; továbbá
+
+b) a nukleáris biztonságot érintő munkakörökben foglalkoztatott személyek akadálytalanul végezhessék a nukleáris biztonságot és a sugárvédelmet érintő feladataikat.
+
+(5)[^39] A programozható rendszerek védelmi működése nem befolyásolhatja a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki vagy radioaktív anyag nyilvántartási funkciók működőképességét. A programozható rendszerek védelmének
+
+a) a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki vagy radioaktív anyag nyilvántartási funkciók vonatkozásában visszahatás-mentesnek kell lennie, és
+
+b) ki kell zárnia, hogy a programozható rendszer védelmének működése, vagy a védelem meghibásodása a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki funkciók vagy radioaktív anyag nyilvántartási funkciók működésképtelenségét okozzák.
+
+### 20.[^40] A programozható rendszer védelmi követelményei
+
+#### 20. §[^41]
+
+(1)[^42] A 7. § (4) és (5) bekezdésében meghatározott nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék birtokosa, kivételével a kötelezett biztosítja:
+
+a) a programozható rendszerekben tárolt, kezelt adatok és információk bizalmasságát, sértetlenségét és rendelkezésre állását, valamint
+
+b) a programozható rendszer sértetlensége és rendelkezésre állása kockázatokkal arányos védelmét.
+
+(2) A 7. § (4) és (5) bekezdésében meghatározott nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék birtokosa, valamint az 1. melléklet 2. táblázat 1. sorában meghatározott radioaktív sugárforrások birtokosa kivételével a kötelezett a fizikai védelmi terv részeként, a programozható rendszerek védelmének felépítését és működését leíró védelmi tervet készít a 4. melléklet 3. pontjában foglaltaknak megfelelően.
+
+(3) A nukleáris létesítmény engedélyesének – az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt kivéve – a programozható rendszerek védelmének felügyeletére a létesítmény legfelső vezetésének közvetlenül alárendelt szervezetet kell létrehoznia vagy kijelölnie.
+
+(4) A (3) bekezdés alapján létrehozott vagy kijelölt szervezet vezetője felelős a programozható rendszerek védelmének felügyeletéért.
+
+(5) A (3) bekezdés alapján létrehozott vagy kijelölt szervezet a programozható rendszerek védelmével összefüggésben érintett szervezeti egységek delegáltjaiból vagy a kijelölt szervezeti egység beosztottjaiból áll.
+
+(6) A nukleáris létesítmény engedélyesének – az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt kivéve – a programozható rendszerek tervezése, létesítése és módosítása során a 6. melléklet alapján kell eljárnia.
+
+### 21. Képzés, gyakorlatozás
+
+#### 21. §
+
+(1) A fizikai védelmi rendszer hatékony működése érdekében a kötelezett belépéskor, majd legalább évente fizikai védelmi képzésben részesíti az állandó belépésre jogosított személyeket. A fizikai védelmi képzés keretében be kell mutatni:
+
+a) a fizikai védelem célját,
+
+b) az állandó belépésre jogosított személyek szerepét és felelősségét,
+
+c) az őrzésvédelemi kultúrát, valamint
+
+d) az állandó belépésre jogosított személyek feladatait jogtalan eltulajdonítás vagy szabotázs esetében.
+
+(2)[^43] A nukleáris létesítmények, valamint a radioaktív hulladék átmeneti és végleges tárolójának engedélyese a védelmi funkciók működőképességéről, az elhárító erők képességeinek megfelelőségéről a kötelezett évente végrehajtott fizikai védelmi gyakorlaton győződik meg.
+
+(3)[^44] Az éves gyakorlat
+
+a) végrehajtási tervét a gyakorlat tervezett időpontja előtt 90 nappal, továbbá
+
+b) értékelését a végrehajtástól számított 30 napon belül
+
+meg kell küldeni az OAH számára elfogadásra.
+
+(4)[^45] Az OAH az éves gyakorlat végrehajtási tervének és a végrehajtás értékelésének elfogadásakor a (2) bekezdésben foglalt előírások teljesülését vizsgálja. Ha nem megfelelő a végrehajtási terv, akkor a terv benyújtását követő 45. napig közli az OAH kifogásait a kötelezettel. Az OAH a jóváhagyott tervet annak végrehajtását megelőzően legalább 15 nappal megküldi a kötelezettnek. Ha az OAH nem tartja megfelelőnek a végrehajtást, a gyakorlat ismételt végrehajtását rendelheti el.
+
+(5)[^46] Az OAH összehangolja a kötelezetti és állami szintű fizikai védelmi gyakorlatokat.
+
+(6)[^47] Ha az A- és B-szintű szállításokat nem a hivatásos rendvédelmi szervek biztosítják, a fegyveres kíséretben csak olyan személy vehet részt, aki legalább 2 éves folyamatos gyakorlattal rendelkezik fegyveres értékszállítási feladatok végrehajtásában és erről munkáltató által kiállított igazolással rendelkezik; vagy aki legalább 2 évente szállítási fizikai védelmi gyakorlaton vesz részt. A szállítási gyakorlatok tervezését és végrehajtását a (3) és (4) bekezdés szerint kell elvégezni.
+
+### 22. Az atomenergia alkalmazása körében szolgálatot teljesítő fegyveres biztonsági őrökre vonatkozó különös állományba kerülési, képzési és gyakorlati követelmények
+
+#### 22. §
+
+Az atomenergia alkalmazása körében működő fegyveres biztonsági őrség állományába az a személy kerülhet, aki a fegyveres biztonsági őrökre vonatkozó általános alkalmazási feltételeken túl:
+
+a) a 23. §-ban meghatározott fizikai felmérésen értékelhető eredményt ért el, és
+
+b)[^48] legalább érettségi végzettséggel rendelkezik.
+
+#### 23. §
+
+A fegyveres biztonsági őr köteles a fegyveres biztonsági őrségre vonatkozó jogszabályokban előírt vizsgakötelezettségen felül az alkalmazását megelőzően, majd kétévente a 24. §-ban meghatározott bizottság előtt fizikai felmérésen részt venni.
+
+#### 24. §
+
+A fizikai felmérést végző bizottság tagjai:
+
+a) a felügyeletet ellátó rendőrség képviselője;
+
+b) a kötelezett részéről a szakterületi vezető vagy általa kijelölt személy; valamint
+
+c) a kötelezettnél működő fegyveres biztonsági őrség parancsnoka.
+
+d)[^49] az OAH képviselője.
+
+#### 25. §
+
+A kötelezett biztosítja a fizikai felméréshez megfelelő orvosi felügyeletet és a sürgősségi ellátáshoz szükséges technikai feltételeket.
+
+#### 26. §
+
+(1) A fizikai felmérésen való részvétel alól a fegyveres biztonsági őrt a kötelezettnél működő fegyveres biztonsági őrség parancsnoka méltányolható okból előzetes engedéllyel, illetve orvosi igazolás alapján mentheti fel.
+
+(2) Az (1) bekezdésben foglaltak esetében a fegyveres biztonsági őrnek 30 napon belül, vagy az akadályoztatása megszűnését követő 30 napon belül pótfelmérésen kell megjelennie.
+
+#### 27. §[^50]
+
+(1) A fegyveres biztonsági őr az 5. melléklet I. pontjában előírt felmérési gyakorlatok teljesítésével igazolja a fizikai alkalmasságát. A 2000 méteres futás végrehajtása kötelező, további 4 elem választható. A fizikai felmérés 5 érvényes gyakorlat végrehajtásával fogadható el. A felmérésen végrehajtandó gyakorlatok sorrendiségét a bizottság a helyszínen határozza meg.
+
+(2) A kötelezően előírt és választott gyakorlatokat abban az esetben lehet teljesítettnek tekinteni, ha a felmérésen részt vett személy bemutatott teljesítményével legalább egy pontot elér minden végrehajtott gyakorlatban.
+
+(3) A fegyveres biztonsági őr fizikai felmérésen elért eredménye akkor értékelhető, ha a maximálisan teljesíthető 125 pontból legalább 80 pontot elér.
+
+(4) A fizikai felmérést végző bizottság a fizikai felmérés eredményét a helyszínen értékeli, és az értékelés eredményét a fegyveres biztonsági őrrel közli.
+
+(5) Ha a fegyveres biztonsági őr fizikai felmérésen elért eredménye nem értékelhető, egy alkalommal, a fizikai felmérés napjától számított hat hónapon belül pótfelmérésen vehet részt.
+
+(6) A fegyveres biztonsági őr az (5) bekezdésben meghatározott esetben a helyszínen nyilatkozik arról, hogy kíván-e pótfelmérésen részt venni.
+
+(7) Az a fegyveres biztonsági őr, aki nem ér el értékelhető eredményt és nem kíván pótfelmérésen részt venni, vagy aki a pótfelmérésen sem ér el értékelhető eredményt, nem foglalkoztatható tovább fegyveres biztonsági őrként az atomenergia alkalmazása körében.
+
+### 23. Tesztelés, karbantartás
+
+#### 28. §
+
+(1) A fizikai védelmi rendszer rendszerelemeinek működőképességét a kötelezett megfelelő karbantartási program kidolgozásával és végrehajtásával tartja fenn. A karbantartás folyamata tartalmazza:
+
+a) a váratlan hibák elhárítását és az egyéb fenntartási célú munkákat magában foglaló Javító Karbantartást, valamint
+
+b) a tervezett karbantartási intézkedéseket magában foglaló Tervszerű Megelőző Karbantartást.
+
+(2) A detektálási funkció működőképességét a kötelezett rendszeres teszteléssel ellenőrzi, és a tesztelés során feltárt nem-megfelelőségek kezelésére eljárásrendet dolgoz ki.
+
+(3) A kötelezett biztosítja a fizikai védelmi funkciók hatékony ellátását a fizikai védelmi rendszer átalakítása, karbantartása során is.
+
+## VI. Fejezet — A FIZIKAI VÉDELMI RENDSZER KIALAKÍTÁSA
+
+### 24. A fizikai védelmi rendszer műszaki tervezése
+
+#### 29. §
+
+(1) A kötelezett a fizikai védelmi rendszer kialakításához:
+
+a) megállapítja az alkalmazott, tárolt vagy szállított nukleáris anyag, radioaktív sugárforrás, valamint a feldolgozott, tárolt vagy szállított radioaktív hulladék fajtáját, mennyiségét és aktivitását, továbbá a radiológiai következmények szempontjából jelentős rendszereket és rendszerelemeket;
+
+b) a 4. § alapján megállapítja a vonatkozó kategóriákat;
+
+c) a 7. § alapján megállapítja a minimálisan szükséges védelmi szintet;
+
+d) felméri a lehetséges behatolási útvonalakat, valamint a belső elkövetők lehetséges taktikáját; továbbá
+
+e) 9–12. §-ban meghatározott fizikai védelmi funkciókra vonatkozóan, minden lehetséges behatolási útvonalon teljesíti a 2., illetve a 3. mellékletben meghatározott követelményeket.
+
+(2) A kötelezett a minimálisan meghatározott védelmi szinteknél és a védelmi szintekhez tartozó követelményeknél magasabb szintű, illetve az előírt, minimálisan szükségesnél nagyobb számú, és a 2. és 3. mellékletben felsoroltakhoz képest további eltérő fizikai védelmi megoldást alkalmazhat. A magasabb fizikai védelmi szintekhez tartozó, illetve a minimálisan szükségesnél nagyobb számú, az előírtaktól eltérő további fizikai védelmi megoldás az emelt szintű fizikai védelem részének tekinthető.
+
+(3)[^51] Hordozható eszközökben alkalmazott 2. és 3. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az elrettentést sugárvédelmi lezárással és figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel és sugárzásjelző lámpák elhelyezésével, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával, a késleltetést elsősorban az eszköz helyszínen található rögzített tárgyhoz vagy ha ez nem lehetséges, egy 30 kilogrammnál nehezebb mobil súlyhoz való rögzítésével kell megvalósítani.
+
+(4)[^52] Hordozható eszközökben alkalmazott, 4. és 5. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az alkalmazás során az elrettentést figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával kell megvalósítani.
+
+(5)[^53] Az A-, B- vagy C-szintű fizikai védelmet biztosító fizikai védelmi rendszer műszaki tervezését, illetve a szerelését csak olyan személy végezheti, aki érvényes vagyonvédelmi rendszert tervező és szerelő igazolvánnyal rendelkezik.
+
+#### 30. §
+
+Nukleáris létesítmény, kivéve 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, radioaktív hulladék átmeneti és végleges tárolója fizikai védelmét a kötelezett úgy valósítja meg, hogy az biztosítsa az adott létesítményre határozatban előírt tervezési alapfenyegetettség elleni hatékony védelmet.
+
+## VII. Fejezet — A FIZIKAI VÉDELEM HATÓSÁGI ENGEDÉLYEZÉSE ÉS ELLENŐRZÉSE
+
+### 25. Az eljáró hatóságok
+
+#### 31. §
+
+A nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszere kialakításának, üzemeltetésének, valamint módosításának hatósági engedélyezését az OAH látja el.
+
+### 26. Engedélyezés
+
+#### 32. §
+
+(1) Hatósági engedély szükséges:
+
+a) a nukleáris létesítmény, a radioaktív hulladék átmeneti és végleges tárolója, a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszerének – a fizikai védelmi terv szerinti – megvalósításához,
+
+b) a nukleáris létesítmény, a radioaktív hulladék átmeneti és végleges tárolója, a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszere engedélyének meghosszabbításához,
+
+c)[^54] az A-, B- vagy C-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállításához,
+
+d)[^55] az engedélyezett fizikai védelmi rendszer átalakításához, amennyiben az átalakításhoz szükséges a fizikai védelmi rendszer módosítása.
+
+(1a)[^56]
+
+(1b)–(1c)[^57]
+
+(2)[^58] Az (1) bekezdés a) pontja szerinti engedély iránti kérelmet az első nukleáris anyag, radioaktív hulladék vagy radioaktív sugárforrás helyszínre való érkezése előtt legalább 1 hónappal, átmeneti és végleges radioaktívhulladék-tároló esetében legalább hat hónappal, létesíteni tervezett nukleáris létesítmény esetében a létesítési engedély iránti kérelem benyújtását követő három hónapon belül kell benyújtani.
+
+(3) Az (1) bekezdés a)–c) pontja szerinti engedély iránti kérelemhez csatolni kell a nukleáris létesítmény, kivéve 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, radioaktív hulladék átmeneti és végleges tárolója, valamint alkalmazott, tárolt és szállított nukleáris anyag, radioaktív sugárforrás, továbbá a feldolgozott, tárolt és szállított radioaktív hulladék fizikai védelmi tervét.
+
+(4) Az (1) bekezdés d) pontja szerinti engedély iránti kérelemben be kell mutatni az átalakítás következtében a fizikai védelmi tervben tervezett módosításokat, és azt, hogy az átalakítást követően a fizikai védelmi rendszer teljesíti az e rendeletben előírt követelményeket.
+
+(5)[^59] Amennyiben az engedélyes a kérelmet megalapozó dokumentációt nem elektronikus ügyintézés keretében nyújtja be, akkor a dokumentációt két példányban kinyomtatva, valamint az OAH-val egyeztetett szövegszerkesztői környezetben, elektronikus adathordozón 1 példányban kell benyújtani.
+
+(6) Az engedély 5 évig érvényes, kivéve A- vagy B-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék szállítása esetén, amikor az engedély az adott szállításra vonatkozóan érvényes.
+
+(6a)[^60] Az engedély az abban foglalt tevékenység megszüntetésének bejelentésével hatályát veszti. A kötelezett a tevékenység megszüntetését legalább 30 nappal a tevékenység megszüntetését megelőzően köteles az OAH-nak írásban bejelenteni. Az OAH a bejelentés tudomásul vételéről 15 napon belül írásban tájékoztatja a bejelentőt.
+
+(7) Az (1) bekezdés b) pontja szerinti engedély iránti kérelmet az engedély érvényességének lejárta előtt legkésőbb 1 hónappal, nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója esetében legkésőbb 6 hónappal kell benyújtani.
+
+(8)[^61] Az OAH az A- vagy B-szintű fizikai védelmet igénylő szállítás útvonaláról tájékoztatja a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Főügyeletét és az általános rendőrségi feladatok ellátására létrehozott szerv központi szervét.
+
+(9)[^62] A 6–30. §-ban foglalt követelmények teljesítése esetén a 2., 3. és 6. mellékletben meghatározott követelményektől való eltérést az OAH a rendőrség bevonásával engedélyezi.
+
+#### 32/A. §[^63]
+
+(1) Létesíteni tervezett nukleáris létesítmény, valamint a létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében a kötelezett köteles kérelmezni az OAH-nál a tervezési alapfenyegetettség 3. § (1) bekezdés b) pontja szerinti megállapítását.
+
+(2) Az (1) bekezdés szerinti kérelemben be kell mutatni
+
+a) a 29. § (1) bekezdés a) pontjában meghatározottakat, valamint
+
+b) a telephely alkalmasságának fizikai védelmi szempontú elemzését.
+
+#### 32/B. §[^64]
+
+(1) A fizikai védelmi rendszerre vonatkozó követelmények teljesítésének módszerére vonatkozó ajánlásokat az OAH által kiadott útmutatók tartalmazzák. Az útmutatókat az OAH a honlapján közzéteszi.
+
+(2) Ha a kötelezett a 32. § (1) bekezdés a)–c) pontja szerinti engedély iránti kérelmét az útmutatókban foglaltak szerint terjeszti elő, továbbá, ha a kötelezett a fizikai védelemmel összefüggő tevékenységét az útmutatókban foglaltak szerint végzi, akkor az OAH és a rendőrség a választott módszert a fizikai védelmi rendszerre vonatkozó követelmények teljesítésének igazolására alkalmasnak tekinti, és az alkalmazott módszer megfelelőségét nem vizsgálja.
+
+(3) Az útmutatókban foglaltaktól eltérő módszerek alkalmazása esetén az OAH és a rendőrség az alkalmazott módszer helyességét, megfelelőségét és teljeskörűségét részleteiben vizsgálja.
+
+#### 32/C. §[^65]
+
+Ha a jóváhagyott fizikai védelmi tervében közölt adatokhoz képest olyan változás történik, amelyek nem igénylik a fizikai védelmi rendszer módosítását, erről a kötelezett írásban értesíti az OAH-t.
+
+### 27. Adatszolgáltatás, jelentési rendszer
+
+#### 33. §
+
+(1) A kötelezett a detektálást követően azonnal, de legfeljebb két órán belül köteles jelenteni az OAH-nak és a rendőrségnek a nukleáris védettséggel összefüggő vagy a fizikai védelmi rendszert érintő bármilyen szabotázsra vagy jogtalan eltulajdonításra irányuló magatartást és tevékenységet.
+
+(2) Az (1) bekezdés alapján bejelentett esemény körülményeit, valamint a fizikai védelmi rendszer működését a kötelezett köteles megvizsgálni, és a vizsgálat eredményéről, továbbá az esetleges javító intézkedésekről az esemény bekövetkezésétől számított 30 napon belül jelentést benyújtani az OAH és a rendőrség részére.
+
+(3) A nukleáris létesítmény, valamint átmeneti és végleges radioaktívhulladék-tároló engedélyese évente értékeli a fizikai védelem szervezeti és technikai alrendszerének működését az előző évre vonatkozóan, és az értékelést minden év január 31-ig benyújtja az OAH és a rendőrség részére.
+
+(4) Az értékelés tartalmi követelményei a következők:
+
+a) vezetési és szervezeti változások bemutatása;
+
+b) technikai alrendszer átalakításainak ismertetése;
+
+c) őrzésvédelmi kultúra helyzetének értékelése;
+
+d) végrehajtott fizikai védelmi képzés és gyakorlatok értékelése;
+
+e) jelentésköteles események összefoglaló értékelése;
+
+f) elhatározott javítóintézkedések végrehajtásának állapota; továbbá
+
+g)[^66]
+
+(5) Az OAH és a rendőrség a fizikai védelmi rendszer működőképességének és hatékonyágának ellenőrzése érdekében további adatszolgáltatást írhat elő a kötelezett számára.
+
+### 28. Ellenőrzés
+
+#### 34. §
+
+(1) Az OAH és a rendőrség egyaránt jogosult ellenőrizni az adatszolgáltatás során szerzett információkat, továbbá az adatszolgáltatás és a jelentések alapján a fizikai védelmi követelmények és a fizikai védelmi terv tényleges és hatékony megvalósítását.
+
+(2) Az OAH és a rendőrség egyaránt jogosult a fizikai védelmi rendszerre vonatkozó jogszabályi, valamint hatósági határozatokban foglalt előírások betartásának helyszíni ellenőrzésére.
+
+(3) Az OAH és a rendőrség a tervezett ellenőrzések programját összehangolja, az ellenőrzési programot, a felvett jegyzőkönyvet és hivatalos feljegyzést egymásnak megküldi.
+
+(4) Az OAH, illetve a rendőrség helyszíni ellenőrzést előzetes értesítés alapján, vagy előzetes értesítés nélkül folytathat le. Az előzetes értesítés tartalmazza az ellenőrzés időpontját, helyszínét és tárgyát, valamint az ellenőrzést végző személy nevét és elérhetőségét.
+
+(4a)[^67] Az OAH és a rendőrség az ellenőrzési programban nem szereplő ellenőrzés időpontjáról, céljáról, legalább az ellenőrzést megelőző munkanapon, vagy ha ez nem lehetséges, legkésőbb az ellenőrzést közvetlenül megelőzően egymást tájékoztatja. A felvett jegyzőkönyv és a hivatalos feljegyzés megküldésére a (3) bekezdésben foglaltak az irányadók.
+
+(5) Az ellenőrzést úgy kell lefolytatni, hogy az ellenőrzési tevékenység a lehető legkevésbé akadályozza a nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója üzemeltetését, a nukleáris anyag, radioaktív sugárforrás alkalmazását, tárolását és szállítását, valamint a radioaktív hulladék feldolgozását, tárolását és szállítását.
+
+(6)[^68] Az ellenőrzésről 2 példányban jegyzőkönyv készül, amit az ellenőrzést végző hatóság és az ellenőrzött szervezet képviselője ír alá.
+
+## VIII. Fejezet[^69] — A FIX ÉS MOBIL TELEPÍTÉSŰ, IONIZÁLÓ SUGÁRZÁST LÉTREHOZÓ, DE RADIOAKTÍV ANYAGOT NEM TARTALMAZÓ BERENDEZÉSEK, VALAMINT D-SZINTŰ FIZIKAI VÉDELMET IGÉNYLŐ NUKLEÁRIS ANYAG, RADIOAKTÍV SUGÁRFORRÁS ÉS RADIOAKTÍV HULLADÉK SZÁLLÍTÁSOK FIZIKAI VÉDELMÉRE VONATKOZÓ KÜLÖN SZABÁLYOK
+
+#### 35. §
+
+(1) A fix és mobil telepítésű, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés vonatkozásában a 4–34. § rendelkezéseitől eltérően e §-ban foglalt követelményeket kell alkalmazni.
+
+(2)[^70] A fix telepítésű, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezések birtokosa a fizikai védelem biztosításához:
+
+a)[^71] Svr. rendeletet alkalmazza;
+
+b) a berendezést magában foglaló helyiséget zárható ajtókkal látja el, és az ajtókat zárt állapotban tartja, amikor a helyiség nincs használatban;
+
+c) meghatározza a belépésre jogosult személyeket és a belépési jogosultságot ellenőrzi;
+
+d)[^72] biztosítja, hogy amikor a berendezés vagy a helyiség nincs használatban, a berendezés üzemeltetéséhez szükséges kulcsokat és a berendezést magában foglaló helyiség kulcsait illetéktelen személyektől elzárva tárolják, vagy a belépésre jogosult személy magánál tartja, továbbá
+
+e) a kulcsok felvételére feljogosított személyeket meghatározza, a kulcsok felvételére vonatkozó jogosultságot ellenőrzi.
+
+(3)[^73] Mobil, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezések birtokosa:
+
+a) a sugárveszély jelzését a berendezésen alkalmazza;
+
+b) a berendezés használaton, vagy a használatra történő szállításon kívüli tárolására szolgáló helyiségét zárható ajtókkal látja el;
+
+c) meghatározza a tárolásra szolgáló helyiségbe belépésre jogosult személyeket és a belépési jogosultságot ellenőrzi;
+
+d) biztosítja, hogy amikor a helyiség nincs használatban, a tárolásra szolgáló helyiség kulcsait zárt lemezkazettában tárolják, vagy a belépésre jogosult személy magánál tartja; továbbá
+
+e) naprakész nyilvántartást vezet, amely tartalmazza a berendezés elvitelének és visszahelyezésének időpontját és a berendezést alkalmazó személy nevét.
+
+(4) A fix és mobil telepítésű, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezések fizikai védelmének ellenőrzésére vonatkozóan a 34. § rendelkezéseit kell alkalmazni.
+
+(5)[^74] A fix és mobil telepítésű ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés birtokosa Svr. rendeletnek megfelelő, az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés üzemeltetésére jogosító engedélykérelemben köteles bemutatni a (2) és (3) bekezdésben foglalt követelmények megvalósításának módját.
+
+(6)[^75]
+
+(7)[^76] A D-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítása regisztráció köteles.
+
+(8)[^77] A regisztráció az OAH által rendszeresített űrlapon, az első, Magyarország területén végzett szállítást megelőzően történik. Ha a regisztrációs űrlapot a kérelmező nem az elektronikus ügykezelés keretében nyújtja be, akkor az OAH honlapján közzétett címre kell benyújtania. A regisztráció során a szállító, illetve a fuvarozó az első Magyarországon végzett szállítást megelőzően nyilatkozik arról, hogy a szállítás a fizikai védelem tekintetében megfelel a 3. mellékletben a D-szintű fizikai védelmet igénylő, adott módozatú szállításokra vonatkozó előírásoknak.
+
+(9)[^78] A D-szintű szállítás regisztrációja a feltételek változatlanul maradása esetében 5 évig érvényes.
+
+(10)[^79] Az OAH a D-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék szállítójának kérelmére hatósági bizonyítványt állít ki a regisztrációs kötelezettség teljesítéséről.
+
+## IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 36. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+#### 37. §
+
+(1) E rendelet hatálybalépését követő 30 napon belül az OAH határozatában megállapítja a nukleáris létesítmény, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, továbbá a radioaktív hulladék átmeneti és végleges tárolója esetében az adott létesítményre vonatkozó tervezési alapfenyegetettséget.
+
+(2) A (3) bekezdésben foglalt kivétellel a kötelezett a rendelet hatálybalépésétől számított 6 hónapon belül köteles a 32. § (1) bekezdés a) pontja szerinti kérelmet az OAH-hoz benyújtani.
+
+(3) A nukleáris létesítmény, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, továbbá a radioaktív hulladék átmeneti és végleges tárolója esetében a kötelezett az (1) bekezdésben meghatározott határozat közlésétől számított 6 hónapon belül köteles a 32. § (1) bekezdés a) pontja szerinti kérelmet az OAH-hoz benyújtani.
+
+(4) A kérelemben a kötelezett bemutatja, hogy e rendeletben előírt követelmények közül a fizikai védelmi rendszere vonatkozásában mely feltételek nem teljesülnek vagy részben nem teljesülnek, és javaslatot tesz a nem teljesülő vagy részben nem teljesülő követelmények teljesítésének időpontjára.
+
+(5) Az OAH határozatban dönt a fizikai védelmi rendszer engedélyezéséről, a nem teljesülő vagy részben nem teljesülő követelmények tekintetében a felmentésről és annak engedélyezett időtartamáról. Az OAH a felmentés megítélése és időtartamának meghatározása során az adott előírástól való eltérés fokát, a teljesüléshez szükséges intézkedések terjedelmét, költségét, megvalósítási időtartamát veszi figyelembe.
+
+(6) A fix és mobil telepítésű ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés birtokosa, aki e rendelet hatálybalépésekor üzemeltetésre jogosító engedéllyel rendelkezik, e rendelet hatálybalépésétől számított 60 napon belül köteles teljesíteni a 35. § (5) bekezdésében előírt bejelentési kötelezettségét.
+
+#### 37/A. §[^80]
+
+A rendelet az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet:
+
+a) 13. §-ával megállapított 1. § (3) bekezdését,
+
+b) 14. §-ával megállapított 2. § (1) bekezdés 12a. pontját,
+
+c) 15. §-ával megállapított 6. § (2) bekezdését,
+
+d) 16. §-ával megállapított 10. § (5) és (7) bekezdését,
+
+e) 17. §-ával megállapított 29. § (3) és (4) bekezdését,
+
+f) 18. §-ával megállapított 34. § (4a) bekezdését,
+
+g) 19. §-ával megállapított 35. § (2) és (3) bekezdését,
+
+h) 21. §-ával és 9. mellékletével megállapított 1. melléklet 2. táblázat 3. sorát,
+
+i) 21. §-ával és 10. mellékletével megállapított 2. melléklet 26–27. pontját és 59. pontját,
+
+j) 21. §-ával és 11. mellékletével megállapított 3. melléklet 65.2 pontját és 73. pontját,
+
+k) 22. §-ával megállapított 7. § (4) bekezdés b) pontját, 7. § (5) bekezdés a) pontját, 12. § (2) bekezdését 17. § (4) bekezdését, 2. melléklet 38. és 52. pontját, 3. melléklet 1., 3., 4., 5., 11., 22., 37.3., 41.3., 45., 49. pontját, 14. alcímét, 58.1., 58.2., 58.3., 59., 60.1., 60.2., 62.1., 62.2. pontját, 15. alcímét, 63.3., 64.2., 64.3., 67.2., 68.2., 69. pontját, 4. melléklet 2.3. és 2.17. pontját, és
+
+l) 23. §-át
+
+a folyamatban lévő hatósági engedélyezési eljárásokban és az azokhoz benyújtott fizikai védelmi tervekben is alkalmazni kell.
+
+#### 37/B. §[^81]
+
+(1) A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet és az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet módosításáról szóló 357/2014. (XII. 29.) Korm. rendelet (a továbbiakban: Mód. r.) hatálybalépését[^82] követő 6 hónapon belül az OAH
+
+a) elvégzi a 3. § (1) bekezdés a) pontjában meghatározott, a programozható rendszerek fenyegetettségét is figyelembe vevő felülvizsgálatot, valamint
+
+b) meghatározza a 3. § (1) bekezdés c) pontjában meghatározott tervezési alapfenyegetettséget és megküldi a 3. § (3) bekezdésében meghatározottak részére.
+
+(2) A Mód. r. hatálybalépésekor[^83] engedélyezett fizikai védelmi tervvel rendelkező kötelezett – a 7. § (4) és (5) bekezdésében meghatározott nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék birtokosa, valamint az 1. melléklet 2. számú táblázat 1. sorában meghatározott radioaktív sugárforrások birtokosa kivételével, valamint a (3) bekezdésben foglalt kivétellel – köteles a 20. § (2) bekezdésében meghatározott védelmi tervet a Mód. r. hatálybalépését követő 1 éven belül a 32. § (1) bekezdés d) pontja szerinti kérelemként az OAH-hoz benyújtani.
+
+(3) A Mód. r. hatálybalépésekor[^84] engedélyezett fizikai védelmi tervvel rendelkező nukleáris létesítmény engedélyese, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, a 20. § (2) bekezdésben meghatározott védelmi tervet az (1) bekezdés b) pontjában meghatározott határozat közlésétől számított 1 éven belül köteles a 32. § (1) bekezdés d) pontja szerinti kérelemként az OAH-hoz benyújtani.
+
+(4) A nukleáris létesítmény engedélyese, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, a 20. § (3) bekezdésben meghatározott szervezetet a Mód. r. hatálybalépését[^85] követő 6 hónapon belül köteles kijelölni vagy létrehozni.
+
+(5) A (2) és (3) bekezdésben meghatározott kérelemben a kötelezett bemutatja, hogy e rendeletben előírt követelmények közül a programozható rendszerek védelme vonatkozásában mely feltételek nem teljesülnek vagy részben nem teljesülnek, és javaslatot tesz a nem teljesülő vagy részben nem teljesülő követelmények teljesítésének módjára és időpontjára.
+
+(6) A Mód. r. 4. § (10) bekezdésével megállapított 35. § (6) bekezdésében meghatározott berendezés birtokosa, akinek a Mód. r. hatálybalépésekor[^86] üzemeltetésre jogosító engedélye nincs vagy lejárt, és azt megszerezni, illetve megújítani nem kívánja, a Mód. r. hatálybalépését követő 60 napon belül az OAH által rendszeresített űrlapon köteles a berendezést bejelenteni és bemutatni a (2)–(3) bekezdésben foglalt követelmények megvalósításának módját.
+
+#### 38. §
+
+(1)[^87] A rendőrség által az atomenergia alkalmazásával összefüggő rendőrségi feladatokról szóló 47/1997. (VIII. 26.) BM rendelet (a továbbiakban: R.) 6. § (5) bekezdése alapján meghozott határozat a 37. § (5) bekezdése szerinti hatósági határozat véglegessé válásának napján hatályát veszti.
+
+(2) Ha a kötelezett által a 37. § (2)–(3) bekezdése szerinti kérelem beadására nem kerül sor, a rendőrség által az R. 6. §-a alapján kiadott engedély az e rendelet szerinti kérelem beadására előírt határidőt követő első napon hatályát veszti.
+
+#### 39. §
+
+(1) A rendőrség, az R. 6. § (5) bekezdése alapján, e rendelet hatálybalépés előtt nála indult és első fokú határozattal még le nem zárt ügyeket, átteszi az OAH-hoz.
+
+(2) Az OAH az (1) bekezdés alapján átadásra kerülő hatósági ügyeket a jelen rendelet rendelkezései alapján bírálja el.
+
+#### 40. §
+
+A 22. § a) pontját és a 23–27. §-t a hatálybalépésekor fegyveres biztonsági őrként foglalkoztatott személyek tekintetében is alkalmazni kell.
+
+#### 41. §
+
+A rendelet hatálybalépésekor biztonsági őrként foglalkoztatott személyek esetében a fizikai állóképességre vonatkozó követelmények teljesítésének első felmérését a rendelet hatálybalépését követő kilencedik hónap első és utolsó napja között kell elvégezni.
+
+#### 41/A. §[^88]
+
+(1) Az egyes atomenergetikai tárgyú kormányrendeletek módosításáról szóló 139/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 3. § (5) bekezdését, 32. § (1a) bekezdését a Mód. Kr. hatálybalépésekor[^89] folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) Az OAH a Mód. Kr. hatálybalépését[^90] követő nyolc napon belül írásban tájékoztatja az (1) bekezdés szerinti eljárások ügyfeleit az eljárási határidők változásáról, valamint az eljárás várható időtartamáról.
+
+#### 41/B. §[^91]
+
+(1) Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet (a továbbiakban: Ikr.) hatálybalépésekor[^92] engedélyezett fizikai védelmi tervvel rendelkező, az Ikr. 2. melléklet 2. pontjában foglalt táblázat 1. sorában meghatározott radioaktív sugárforrások birtokosa köteles a 20. § (2) bekezdésében meghatározott védelmi tervet az Ikr. hatálybalépését követő 1 éven belül a 32. § (1) bekezdés d) pontja szerinti kérelemként az OAH-hoz benyújtani.
+
+(2) A D-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítására vonatkozó hatályos engedéllyel rendelkező kötelezettnek az engedély hatályának lejártáig nem kell a 35. § (7) bekezdésben előírt regisztrációt elvégeznie.
+
+#### 42. §
+
+E rendelet 4. melléklete a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv 6. cikk *c)* pontjának való megfelelést szolgálja.
+
+#### 43. §[^93]
+
+E rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelv 4. cikk 41. pontjának, 85. cikk (3) bekezdésének, 86. cikk (1) bekezdésének, valamint 91. cikkének való megfelelést szolgálja.
+
+## 1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^95]
+
+**Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása**
+
+1\. táblázat
+
+Nukleáris anyagok kategorizálása
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>1</td><td>Anyag megnevezése</td><td>Megjelenési forma</td><td>I. kategória</td><td>II. kategória</td><td>III. kategória</td></tr><tr><td>2</td><td>Plutónium<sup>a</sup></td><td>Besugározatlan<sup>b</sup></td><td>2 kg vagy több</td><td>Kevesebb, mint 2 kg, de több mint 500 g</td><td>500 g vagy kevesebb, de több mint 15 g</td></tr><tr><td>3</td><td rowspan="4">Urán-235</td><td>Besugározatlan<sup>b</sup></td><td colspan="3"></td></tr><tr><td>4</td><td>U-235-ben legalább 20%-os dúsítású</td><td>5 kg vagy több</td><td>Kevesebb, mint 5 kg, de több mint 1 kg</td><td>1 kg vagy kevesebb, de több mint 15 g</td></tr><tr><td>5</td><td>U-235-ben legalább 10%-os, de nem több mint 20%-os dúsítású</td><td></td><td>10 kg vagy több</td><td>Kevesebb, mint 10 kg, de több mint 1 kg</td></tr><tr><td>6</td><td>U-235-ben 10%-nál kisebb, de a természetes szintnél magasabb dúsítású</td><td></td><td></td><td>10 kg vagy több</td></tr><tr><td>7</td><td>Urán-233</td><td>Besugározatlan<sup>b</sup></td><td>2 kg vagy több</td><td>Kevesebb, mint 2 kg, de több mint 500 g</td><td>500 g vagy kevesebb, de több mint 15 g</td></tr><tr><td>8</td><td>Besugárzott<br>üzemanyag</td><td></td><td></td><td>Szegényített vagy természetes urán, tórium vagy alacsony dúsítású üzemanyag (kevesebb mint 10% hasadóanyag tartalommal)<sup>c</sup></td><td></td></tr></tbody></table>
+
+| **A** | **B** | **C** |
+|---|---|---|
+| Kategória | Általános gyakorlat | R érték |
+| 1. | Radioaktív izotópokkal működő hőgenerátor | R ≥1000 |
+|  | Besugárzó létesítmény |  |
+|  | Teletherápiás egység |  |
+|  | Gamma kés |  |
+| 2. | Ipari gamma-radiográfia | 1000 > R ≥10 |
+|  | Magas/közepes dózisú brachyterápia |  |
+| 3. | Ipari méréstechnika | 10 > R ≥ 1 |
+|  | – szintmérés |  |
+|  | – szállítószalagi mérések |  |
+| 4. | Kis dózisú brachyterápia | 1 > R ≥0,01 |
+|  | Falvastagság mérés |  |
+|  | Hordozható mérések pl: (páratartalom/sűrűség) |  |
+| 5. | Röntgen-fluoreszcens készülékek | 0,01 > R |
+|  | Elektron befogó készülék |  |
+|  | Mössbauer spektrometria |  |
+|  | PET vizsgálat |  |
+
+| Ahol | ![](data:image/png;base64,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) |
+|---|---|
+
+A<sub>i</sub>– a radioaktív sugárforrás i. izotópjának aktivitása;
+
+D<sub>i</sub> – a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló 11/2010. (III. 4.) KHEM rendelet mellékletében (a továbbiakban: KHEM rendelet) az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező.
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | Radionuklid leltár (R) | Kategória |
+| **2.** | R ≥1000 | 1 |
+| **3.** | 10 ≤R < 1000 | 2 |
+| **4.** | 1 ≤R < 10 | 3 |
+| **5.** | R < 1 | 4 |
+
+| Ahol | ![](data:image/png;base64,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LGYIvyWFl+JXSWWPruxPU9f9O+z+a99Nfrrta6q6gRWxrNx3O2gCXH6TjH5ymkp5q3rP1istsxmYD695vY21rH+wMryPRPqv/Qvs+0UUbHt/QX15bP8ACUvRerdI6xn21XY2Q6lvoNZYBk30e8bnOd6OKPS/P+mugSSU811voXVM/P6Oce+3Fbi0ZLMjNosbva57KG1N/WRbZdXdZW7f7PU/R/4NNkdK6nf0DpGHiYjendQo9KLmWDbguZWWXWsYx9n278/Hbi7n05PrfrVmxdMkkpwWdNcz6tvwsvAsyLQ+bqaLm+rdYLRb9vpy7bcXba+z9d/SXUW1P/Rf6NWvq5X1WvpoZ1V1jr22WCs3mt13ohx+y/an4v6s/J9Hb6zqVqJJKf/R9VSXyqkkp+qkxiNeF8rJJKfqpBx/ss2/Z9k+ofW2R/OQ3f6kf4TbsXy2kkp+qkl8qpJKfqpJfKqSSn6qSXyqkkp+qkl8qpJKfqpJfKqSSn//2f/tDQZQaG90b3Nob3AgMy4wADhCSU0EJQAAAAAAEAAAAAAAAAAAAAAAAAAAAAA4QklNA+0AAAAAABAASAAAAAIAAgBIAAAAAgACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAB4OEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNBAoAAAAAAAEAADhCSU0nEAAAAAAACgABAAAAAAAAAAI4QklNA/UAAAAAAEgAL2ZmAAEAbGZmAAYAAAAAAAEAL2ZmAAEAoZmaAAYAAAAAAAEAMgAAAAEAWgAAAAYAAAAAAAEANQAAAAEALQAAAAYAAAAAAAE4QklNA/gAAAAAAHAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAA0cAAAAGAAAAAAAAAAAAAAArAAAAmAAAAAkATgDpAHYAdABlAGwAZQBuADEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA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ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSd3Jz8+/+4ADkFkb2JlAGSAAAAAAf/bAIQACAYGBgYGCAYGCAwIBwgMDgoICAoOEA0NDg0NEBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAEJCAgJCgkLCQkLDgsNCw4RDg4ODhERDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgAKwCYAwEiAAIRAQMRAf/dAAQACv/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPBUtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZqbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEyobHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMR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) |
+|---|---|
+
+A<sub>i</sub>– a radioaktív hulladék i. izotópjának aktivitása;
+
+D<sub>i</sub> – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező;
+
+S – a radioaktív hulladék aktivitás-koncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező;
+
+R<sub>real</sub> – az R érték hulladékokra vonatkozó S tényezővel módosított értéke.
+
+## 2. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
+
+**Fizikai védelmi szintekhez tartozó követelmények nukleáris anyagok, radioaktív sugárforrások**\
+**és radioaktív hulladékok alkalmazása és tárolása során**
+
+*I. FEJEZET*
+
+*ELRETTENTÉS*
+
+**1. Figyelmeztető táblák, feliratok**
+
+1\. A- és B-szintű fizikai védelem esetében – a körülményektől függően – az alábbi jelzéseket kell alkalmazni:
+
+1.1. a létesítmény megnevezése,
+
+1.2. behajtási szabályokra figyelmeztetés,
+
+1.3. tiltott eszközökre, tevékenységre figyelmeztetés,
+
+1.4. belépési jogosultságra figyelmeztetés,
+
+1.5. a belépő kötelességeire vonatkozó előírások, így különösen táska kinyitás,
+
+1.6. fémkereső kapu jelzése,
+
+1.7. csomagellenőrző berendezés jelzése,
+
+1.8. sugárveszély jelzése,
+
+1.9. videokamerával megfigyelt terület jelzése,
+
+1.10. fizikai védelmi rendszerrel védett terület jelzése, valamint
+
+1.11. belépési veszélyek, feltételek.
+
+2\. C- és D-szintű fizikai védelem esetében – a körülményektől függően – az alábbi jelzéseket kell alkalmazni:
+
+2.1. a létesítmény megnevezése,
+
+2.2. behajtási szabályokra figyelmeztetés,
+
+2.3. tiltott eszközökre, tevékenységre figyelmeztetés,
+
+2.4. sugárveszély jelzése, valamint
+
+2.5. belépési veszélyek, feltételek.
+
+**2. Figyelmeztető hang és fényjelzések**
+
+3\. A-szintű fizikai védelem esetében a látható jelzéseket automatikusan működő hangjelzésekkel kell kiegészíteni.
+
+**3. Mesterséges akadályok (sorompók, torlaszok, lassítók)**
+
+4\. A-szintű fizikai védelem esetében olyan mesterséges akadályt kell létesíteni a főbejárathoz vezető útszakaszon, amely fizikai akadályt képezve képes megakadályozni a kapu erőszakos, gépjárművel történő áttörését, és a behatolást.
+
+5\. B-szintű fizikai védelem esetében a mesterséges akadályt úgy kell kialakítani, hogy az védelmet nyújtson az illetéktelen behatolás ellen, és ellenőrzött behajtást biztosítson a védett létesítménybe.
+
+6\. C-szintű védelem esetében mobil korlátok, útterelők által kell biztosítani az illetéktelen behatolás elleni védelmet, és az ellenőrzött behajtást a védett létesítménybe.
+
+7\. D-szintű védelem esetében útterelő-jelzések által kell ellenőrzött behajtást biztosítani a védett létesítménybe, amennyiben egynél több védelmi zónát tartalmaz. Egyéb esetben mesterséges akadályokat nem kell alkalmazni.
+
+**4. Nyilvántartás-ellenőrzési követelmények**
+
+8\. A-szintű fizikai védelem esetében legalább hetente egyszer dokumentáltan ellenőrizni kell a nukleáris anyag meglétét.
+
+9\. B-szintű fizikai védelem esetében legalább kéthetente egyszer dokumentáltan ellenőrizni kell a nukleáris vagy más radioaktív anyag meglétét.
+
+10\. C-szintű fizikai védelem esetében legalább háromhavonta dokumentáltan ellenőrizni kell a nukleáris vagy más radioaktív anyag meglétét.
+
+11\. D-szintű fizikai védelem esetében legalább hathavonta dokumentáltan ellenőrizni kell a nukleáris vagy más radioaktív anyag meglétét.
+
+*II. FEJEZET*
+
+*DETEKTÁLÁS*
+
+**5. Behatolás és támadásjelző rendszer**
+
+12\. A-szintű fizikai védelem esetében olyan jelzőrendszert kell kialakítani, amely:
+
+12.1.[^96] a héjvédelem tekintetében felügyeli a védett objektum határoló felületén található összes nyílászáró szerkezetet, portált, valamint a teljes körű mechanikai-fizikai védelem követelményeit ki nem elégítő falazatokat, födémeket, padozatokat, valamint jelzi az át-, és behatolási kísérleteket;
+
+12.2. a térvédelem tekintetében felügyeli a védett objektum belső terét, jelez mindennemű illetéktelen emberi mozgást, valamint legalább csapdaszerűen figyeli a megközelítési útvonalakat;
+
+12.3. a tárgyvédelem tekintetében felügyeli az összes veszélyeztetett tárgyat; továbbá
+
+12.4. a személyvédelem tekintetében folyamatosan biztosítja az összes veszélyeztetett személy számára a támadásjelzés lehetőségét, továbbá a jelzőrendszer által kiadott riasztásjelzés a helyszíni riasztás mellett közvetlenül értesíti az objektum őrzés-védelmét biztosító állományt (belső elhárító erőket vagy elhárító erőket, vagy mindkettőt).
+
+13\. A-szintű fizikai védelem esetében biztosítani kell:
+
+13.1. a felületvédelmet:
+
+13.1.1. nyitás-,
+
+13.1.2. üvegtörés-, üvegvágás-,
+
+13.1.3. falbontás-érzékelők, és
+
+13.1.4. sorompók
+
+megfelelő kombinációjával;
+
+13.2. a térvédelmet mozgásérzékelő alkalmazásával;
+
+13.3. a tárgyvédelmet:
+
+13.3.1. rezgés-,
+
+13.3.2. fémhang-,
+
+13.3.3. feszítés-,
+
+13.3.4. elmozdítás-,
+
+13.3.5. bontásérzékelők, és
+
+13.3.6. tárgycsapdák
+
+megfelelő kombinációjával; valamint
+
+13.4. a személyvédelmet:
+
+13.4.1. támadás-,
+
+13.4.2. éberség-, és
+
+13.4.3. dőlésjelzők
+
+megfelelő kombinációjával.
+
+14\. B- és C-szintű fizikai védelem esetében olyan jelzőrendszert kell kialakítani, amely:
+
+14.1.[^97] a héjvédelem tekintetében teljes körűen felügyeli a védett objektum határoló felületén található összes nyílászáró szerkezetet, portált, valamint a fizikai védelem követelményeit ki nem elégítő falazatokat, födémeket, padozatokat, jelzi az át- és behatolási kísérleteket, továbbá
+
+14.2. a térvédelem tekintetében csapdaszerű: a jelzőrendszer az objektumban található veszélyeztetett tárgyak, kiemelt térségek megközelítési útvonalait figyeli, és a riasztás a közvetlen környezetet riasztva a helyszínen történik.
+
+15\. B- és C-szintű fizikai védelem esetében biztosítani kell:
+
+15.1. a felületvédelmet:
+
+15.1.1. nyitás-,
+
+15.1.2. üvegtörés-, üvegvágás,
+
+15.1.3. falbontás érzékelők és
+
+15.1.4. sorompók
+
+megfelelő kombinációjával, valamint
+
+15.2. a térvédelmet mozgásérzékelő alkalmazásával.
+
+**6. Video megfigyelő és kiértékelő rendszer**
+
+16\. A-szintű fizikai védelem esetében a video megfigyelő rendszer elemei:
+
+16.1. digitális (IP-alapú) képérzékelők (kamerák),
+
+16.2. optikai képátviteli eszközök, továbbá
+
+16.3. plazma és LCD képmegjelenítők (monitorok).
+
+17\. A-szintű fizikai védelem esetében a megfigyelőrendszernek 16. pontban felsorolt minimálisan szükséges elemeit ki lehet egészíteni a következőkkel:
+
+17.1. digitális (IP-alapú) képrögzítők, és
+
+17.2. infra reflektorok.
+
+18\. B-szintű fizikai védelem esetében a video megfigyelő rendszer elemei:
+
+18.1. digitális (IP-alapú) képérzékelők (kamerák),
+
+18.2. sodrott érpár és optikai képátviteli eszközök, továbbá
+
+18.3. plazma és LCD képmegjelenítők (monitorok).
+
+19\. B-szintű fizikai védelem esetében a megfigyelőrendszernek 18. pontban felsorolt minimálisan szükséges elemeit ki lehet egészíteni a következőkkel:
+
+19.1. digitális (IP-alapú) képrögzítők, és
+
+19.2. infra reflektorok.
+
+20\. C-szintű fizikai védelem esetében a video megfigyelő rendszer elemei:
+
+20.1. analóg és digitális (IP-alapú) képérzékelők (kamerák),
+
+20.2. koaxiális és sodrott érpárok,
+
+20.3. optikai és vezeték nélküli képátviteli eszközök, továbbá
+
+20.4. monitorok.
+
+21\. C-szintű fizikai védelem esetében a megfigyelőrendszernek 20. pontban felsorolt minimálisan szükséges elemeit ki lehet egészíteni a következőkkel:
+
+21.1. analóg vagy digitális képrögzítők, és
+
+21.2. infra reflektorok.
+
+**7. Beléptető rendszer**
+
+22\. A-szintű fizikai védelem esetében a beléptető rendszer elemei:
+
+22.1. biztonsági átvizsgáló eszközök, így különösen csomagvizsgáló, robbanóanyag detektor, fémdetektor, sugárkapu,
+
+22.2. olvasó-ellenőrző egységek,
+
+22.3. biometrikus azonosítók, és
+
+22.4. áteresztési pontok.
+
+23\. B- és C-szintű fizikai védelem esetében a beléptető rendszer elemei:
+
+23.1. olvasó-ellenőrző egységek,
+
+23.2. személyazonosító elemek, és
+
+23.3. áteresztési pontok.
+
+24\. D-szintű fizikai védelem esetében a beléptető rendszer elemei:
+
+24.1. zárható ajtók, és
+
+24.2. a belépési jogosultságok korlátozása.
+
+**8. Őrségközpont**
+
+25\. A-szintű fizikai védelem esetében:
+
+25.1. az őrségközpontot a fokozottan őrzött zónán belül, fizikai védelmi szempontú kockázatelemzés alapján kijelölt területen, önálló épületben vagy külön bejárattal rendelkező épületrészben kell kialakítani, amely a környezetétől lövedékálló falakkal és nyílászárókkal elhatárolt, továbbá védett a bevilágítástól;
+
+25.2. az őrségközpont épületében biztosítani kell a fegyveres biztonsági őrség szolgálatban lévő állományának elhelyezését és a fizikai védelmi jelző- és megfigyelő rendszerekről érkező információk megjelenítését, feldolgozását és értékelését; valamint
+
+25.3. az őrségközpontot fel kell szerelni vonalas és vonal nélküli kommunikációs eszközökkel, tartalék áramforrással.
+
+26.[^98] B-szintű fizikai védelem esetében:
+
+26.1. az őrségközpont az őrzött zónán belül vagy annak határán lévő épületben is kialakítható, de el kell határolni az épület nem az őrségközponthoz tartozó részétől;
+
+26.2. biztosítani kell, hogy a határoló nyílászárók hagyományos kézi szerszámok használata esetén mechanikai ellenállásra képesek legyenek;
+
+26.3. az őrségközpont épületében biztosítani kell az őrség szolgálatban lévő állományának elhelyezését és a fizikai védelmi jelző- és megfigyelő rendszerekről érkező információk megjelenítését, feldolgozását és értékelését; valamint
+
+26.4. az őrségközpontot fel kell szerelni vonalas és vonal nélküli kommunikációs eszközökkel, tartalék áramforrással.
+
+27.[^99] C-szintű fizikai védelem esetében:
+
+27.1. A 26.1.–26.4. pontokban leírtakat kell alkalmazni, vagy
+
+27.2. biztosítani kell az összes detektáló rendszer folyamatos távfelügyeletét.
+
+*III. FEJEZET*
+
+*KÉSLELTETÉS*
+
+**9. Passzív mechanikai gátak**
+
+28\. A-szintű fizikai védelem esetében kerítést úgy kell létesíteni, hogy:
+
+28.1. az nagyfokú védelmet nyújtson a speciális eszközökkel felszerelt behatolókkal szemben;
+
+28.2. minimum 2 perc késleltetési idővel rendelkezzen, minimum 2,5 méter elemmagasságú, szögesdróttal, vagy NATO dróttal 3 méter magasságig ellátott, a földben minimum 50 cm mélységű vasalt sávalapozással készüljön, biztosítva az aláásás és kidöntés elleni védelmet;
+
+28.3. a kerítéselemek anyaga hegesztett acél legyen, a rácsozat sűrűsége maximum 10 cm, hegesztve, vagy nem bontható csavarozással készüljön; valamint
+
+28.4. a kerítésoszlopok betonalapozással rendelkezzenek, az oszloptávolság 2,5 méter legyen, szögesdrót vagy NATO drót hordozására legyenek képesek.
+
+29\. A-szintű fizikai védelem esetében a kerítés egyéb pontjain elhelyezkedő kapukat úgy kell létesíteni, hogy:
+
+29.1. biztosítsák a tartalék behajtási lehetőséget és segítsék a karbantartási feladatok végrehajtását, továbbá
+
+29.2. anyaguk a kerítés anyagával egyenértékű legyen.
+
+30\. A-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és nyitásuk csak őrség jelenlétében történhet.
+
+31\. A-szintű fizikai védelem esetében az épületek vonatkozásában az alábbi feltételeknek kell megfelelni:
+
+31.1. a falazat, a födém és a padozat olyan nagyfokú mechanikai ellenállásra képes, amely 38 cm vastagságú tömör téglafallal egyenértékű ellenállást biztosít, és a speciális eszközökkel felszerelt behatolóval szemben minimum 15 perces áttörési időt szavatol;
+
+31.2. ha vannak nyílászárói, azok a falazattal egyenértékű ellenállást biztosítanak; valamint
+
+31.3. rács nélkül maximum 20Ű20 cm-es méretű szellőzőnyílások alkalmazhatóak, és az ennél nagyobb méretű szellőzőnyílásokat ráccsal kell védeni.
+
+32\. B-szintű fizikai védelem esetében kerítést úgy kell létesíteni, hogy:
+
+32.1. védelmet nyújtson az átlagos eszközökkel felszerelt behatolókkal szemben;
+
+32.2. roncsolás ellen minimum 1,5 perc leküzdési idővel rendelkezzen, minimum 2,5 méter elemmagasságú, átmászásvédővel vagy szögesdróttal együtt 3 méter magasságú, a földben minimum 50 cm mélységű vasalt sávalapozással készüljön biztosítva az aláásás és kidöntés elleni védelmet;
+
+32.3. a kerítéselemek anyaga hegesztett acél legyen, a rácsozat sűrűsége maximum 12 cm, hegesztve vagy nem bontható csavarozással készüljön;
+
+32.4. a kerítésoszlopok erős betonalapozással rendelkezzenek, az oszloptávolság minimum 2,5 méter legyen, szögesdrót, vagy átmászásvédő hordozására legyenek képesek.
+
+33\. B-szintű fizikai védelem esetében a kerítés egyéb pontjain elhelyezkedő kapukat úgy kell létesíteni, hogy:
+
+33.1. biztosítsák a tartalék behajtási lehetőséget és segítsék a karbantartási feladatok végrehajtását, valamint
+
+33.2. anyaguk a kerítés anyagával egyenértékű legyen.
+
+34\. B-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és nyitásuk csak őrség jelenlétében történhet.
+
+35\. B-szintű fizikai védelem esetében az épületek vonatkozásában az alábbi feltételeknek kell megfelelni:
+
+35.1. a falazat, a födém és a padozat olyan jelentős mechanikai ellenállásra képes, amely 15 cm vastagságú tömör téglafallal egyenértékű, és a speciális eszközökkel felszerelt behatolóval szemben minimum 10 perces áttörési időt szavatol;
+
+35.2. ha vannak nyílászárói, azok a falazattal egyenértékű ellenállást biztosítanak,
+
+35.3. rács nélkül maximum 20Ű20 cm-es méretű szellőzőnyílások alkalmazhatóak, ennél nagyobb méretű szellőzőnyílásokat ráccsal kell védeni.
+
+36\. C-szintű fizikai védelem esetében kerítést úgy kell létesíteni, hogy:
+
+36.1. védelmet nyújtson a helyszínen található eszközökkel felszerelt behatolóval szemben;
+
+36.2. a kerítés minimum 1 perces leküzdési idővel rendelkezzen, és szögesdróttal együtt minimum 2,5 méter elemmagasságú legyen;
+
+36.3. a kerítéselemek anyaga hegesztett acél legyen, a rácsozat sűrűsége maximum 15 cm, hegesztve vagy nem bontható csavarozással készüljön;
+
+36.4. a kerítésoszlopok erős pontalapozással rendelkezzenek, közöttük előre gyártott legalább 45 cm mélységű beton elemekkel és minimum 2,5 méteres oszloptávolsággal biztosítva a kidöntés elleni védelmet; valamint
+
+36.5. a kerítéselemek szögesdrót hordozására képesek legyenek.
+
+37\. C-szintű fizikai védelem esetében a kerítés egyéb pontjain elhelyezkedő kapukat úgy kell létesíteni, hogy:
+
+37.1. biztosítsák a tartalék behajtási lehetőséget és segítsék a karbantartási feladatok végrehajtását, továbbá
+
+37.2. anyaguk a kerítés anyagával egyenértékű legyen.
+
+38.[^100] C-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és nyitásuk – amennyiben van őrség – csak őrség jelenlétében történhet.
+
+39\. C-szintű fizikai védelem esetében az épületek vonatkozásában az alábbi feltételeknek kell megfelelni:
+
+39.1. a falazat lehet tégla vagy könnyűszerkezetes, de olyan mechanikai ellenállásra kell képesnek lennie hagyományos kézi szerszámok igénybevétele esetén, amely 6 cm vastagságú tömör téglafallal egyenértékű;
+
+39.2. ha vannak nyílászárói, azoknak a falazattal egyenértékű ellenállást kell biztosítaniuk;
+
+39.3. a hagyományos kézi szerszámokat felhasználó támadás esetén minimum 5 perces áttörési időt kell szavatolniuk.
+
+40\. D- szintű fizikai védelem esetében, amennyiben a védett létesítmény egynél több védelmi zónát tartalmaz, a kerítést úgy kell létesíteni, hogy:
+
+40.1. a kerítés a telekhatáron vagy valamely zárt terület határán álljon;
+
+40.2. acélból vagy műanyag dróthálóból, pontalapozással készüljön, és minimum 2 méter magas legyen;
+
+40.3. az oszlopanyag szögacél vagy beton legyen; valamint
+
+40.4. a leküzdési ideje minimum 5 másodperc legyen.
+
+41\. D-szintű fizikai védelem esetében, amennyiben a védett létesítmény egynél több védelmi zónát tartalmaz, a kerítés egyéb pontjain elhelyezkedő kapukat úgy kell létesíteni, hogy:
+
+41.1. nyitott állapotban ellenőrzött módon biztosítsák a létesítmény személy- és gépjárműforgalmát;
+
+41.2. a zárt állapotot a fizikai védelmi tervben meghatározott időintervallum alatt érjék el;
+
+41.3. anyaguk a kerítés anyagánál erősebb acél legyen, amely véd a gépjárművel történő behatolás ellen, és a magasságuk legalább a kerítés magasságát érje el;
+
+41.4. távirányítható, motoros nyitószerkezettel legyenek ellátva, és a kerítés anyagánál erősebb rácsozattal rendelkezzenek,
+
+41.5. kerítés egyéb pontjain elhelyezkedő kapuk biztosítsák a tartalék behajtási lehetőséget, és segítsék a karbantartási feladatok ellátását, valamint
+
+41.6. anyaguk a kerítés anyagával legyen egyenértékű.
+
+42\. D-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és – amennyiben a védett létesítmény egynél több védelmi zónát tartalmaz – nyitásuk csak őrség jelenlétében történhet.
+
+43\. D-szintű fizikai védelem esetében az épületek vonatkozásában az alábbi feltételeknek kell megfelelni:
+
+43.1. az épület készülhet könnyűszerkezetes elemekből, de legalább korlátozott mechanikai ellenállást biztosítania kell, valamint
+
+43.2. a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 3 perces betörésállóságot kell szavatolni.
+
+**10. Aktív mozgatható mechanikai gátak és hozzájuk tartozó zárak**
+
+44\. A-szintű fizikai védelem esetében olyan nagyfokú mechanikai ellenállásra képes nyílászárókat és zárakat kell beépíteni, amelyek:
+
+44.1. az ajtók esetében a speciális eszközökkel felszerelt behatolóval szemben minimum 15 perces áttörési időt szavatolnak;
+
+44.2. az ablakok esetében ugyanolyan áttörés-biztonsági feltételeknek felelnek meg, mint az ajtók, ami biztonsági üvegezéssel, vagy olyan kívülről nem szerelhető fix, illetve nyitható belső rácsszerkezettel biztosítható, amely minden pontján körbehegesztett, 70Ű70 mm-es kiosztású, 10 mm átmérőjű köracélból áll;
+
+44.3. a nyílászárók tok- és keretszerkezetének ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű az ajtószerkezet, illetve az üvegszerkezet ellenálló-képességével; valamint
+
+44.4. a zárak esetében megegyeznek a 15 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített vagy azzal egyenértékű minőséggel.
+
+45\. B-szintű fizikai védelem esetében olyan jelentős mechanikai ellenállásra képes nyílászárókat és zárakat kell beépíteni, amelyek:
+
+45.1. az ajtók esetében a speciális eszközökkel felszerelt behatolóval szemben minimum 10 perces áttörési időt szavatolnak;
+
+45.2. az ablakok esetében ugyanolyan áttörés-biztonsági feltételeknek felelnek meg, mint az ajtók, ami biztonsági üvegezéssel, vagy olyan kívülről nem szerelhető fix, illetve nyitható belső rácsszerkezettel biztosítható, amely minden pontján körbehegesztett, 90Ű90 mm-es kiosztású, 10 mm átmérőjű köracélból áll;
+
+45.3. a nyílászárók tok- és keretszerkezetének ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű az ajtószerkezet, illetve üvegszerkezet ellenálló-képességével; valamint
+
+45.4. a zárak esetében megegyeznek a 10 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített vagy azzal megegyező minőséggel.
+
+46\. C-szintű fizikai védelem esetében olyan nyílászárókat és zárakat kell beépíteni, amelyek:
+
+46.1. az ajtók esetében a hagyományos kézi szerszámokat felhasználó támadáskor mechanikai ellenállásra képesek, és minimum 5 perces áttörési időt szavatolnak;
+
+46.2. az ablakok esetében ugyanolyan áttörés-biztonsági feltételeknek felelnek meg, mint az ajtók, ami legalább 6 mm vastagságú üvegezéssel, és olyan kívülről nem szerelhető fix vagy nyitható belső rácsszerkezettel biztosítható, amely minden pontján körbehegesztett rács, 140Ű140 mm-es kiosztású és 10 mm átmérőjű köracélból áll;
+
+46.3. a nyílászárók tok- és keretszerkezetének ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű az ajtószerkezet, illetve üvegszerkezet ellenálló-képességével; valamint
+
+46.4. a zárak esetében megegyeznek az 5 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített, vagy azzal megegyező minőséggel.
+
+47\. D szintű fizikai védelem esetében olyan nyílászárókat és zárakat kell felszerelni, amelyek:
+
+47.1. az ajtók esetében mechanikai ellenállásra legalább korlátozottan képesek és a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 3 perces betörésállóságot biztosítanak;
+
+47.2. az ablakok esetében az üvegezés minimum 6 mm vastagságú, és az üvegfogó lécek az ablakok belső oldalára szereltek; valamint
+
+47.3. zárak esetében bármilyen hagyományos minőség megfelelő.
+
+**11. Biztonsági tárolók, lemezszekrények**
+
+48\. A-szintű fizikai védelem esetében biztonsági tárolóként egyfalú vagy kétfalú páncélszekrényt kell alkalmazni, amely a roncsolásos vizsgálat során részleges behatolás esetében 30 RU (RU = Resistant Unit/ellenállósági egység), teljes behatolás esetében 50 RU ellenállásértéket ért el.
+
+49\. A-szintű fizikai védelem esetében olyan zárszerkezeteket kell alkalmazni, amelyek esetében:
+
+49.1. a kilincsmű reteszelésén keresztül biztosított a biztonságos zárás egy, három vagy négy irányba,
+
+49.2. a kulcs a zár nyitott állapotában nem vehető ki a zárból,
+
+49.3. a fúrás elleni védelmet legalább 60 HRC keménységű fúrásvédő lap biztosítja,
+
+49.4. a zár EU minősítésű, „A” kategóriába elfogadott, valamint
+
+49.5. a rögzítés 10 000 N feszítő erőnek ellenálló módon kialakított, amelybe beleértendő az értéktároló súlya is.
+
+50\. B-szintű fizikai védelem esetében biztonsági tárolóként olyan egy- vagy kétfalú lemezszekrényt kell alkalmazni, melynél a borítólemezek összesített falvastagsága, valamint az ajtólapok 6–8 mm vastagságú acéllemez, és a két fal között legalább 30 mm távolság van, továbbá teljes áttörés esetében 24 RU, részleges áttörés esetében 15 RU ellenállásértéket értek el a roncsolásos vizsgálat során. A két fal között vagy szerkezeti betontöltet, vagy 60 HRC keménységű acéllapból kialakított szendvics szerkezet, vagy más módon kialakított védelem került beépítésre.
+
+51\. B-szintű fizikai védelem esetében olyan zárszerkezeteket kell biztosítani, amelyeknél:
+
+51.1. a kilincsmű reteszelésén keresztül biztosított a biztonságos zárás egy, vagy három irányba,
+
+51.2. a kulcs a zár nyitott állapotában nem vehető ki a zárból,
+
+51.3. a zárszerkezet fúrás elleni védelmét legalább 60 HRC keménységű fúrásvédő lap biztosítja, valamint
+
+51.4. a rögzítés 5000 N feszítő erőnek ellenálló módon megoldott, amelybe beleértendő az értéktároló súlya is.
+
+52.[^101] C-szintű fizikai védelem esetében biztonsági tárolóként egyfalú lemezszekrényt kell alkalmazni, amelynél a borítólemezek falvastagsága legalább 2–4,5 mm, vagy azzal egyenértékű késleltetést biztosító megoldást kell alkalmazni.
+
+53\. C-szintű fizikai védelem esetében a zárszerkezeteket kell biztosítani, amelyeknél:
+
+53.1. direkt, vagy kilincsmű reteszelésen keresztül biztosított a biztonságos zárás egy vagy három irányba,
+
+53.2. a kulcs a zár nyitott állapotában nem vehető ki a zárból,
+
+53.3. a zárszerkezet fúrás elleni védelmét legalább 60 HRC keménységű fúrásvédő lap biztosítja, valamint
+
+53.4. a rögzítés 5000 N feszítő erőnek ellenálló módon biztosított, amelybe beleértendő az értéktároló súlya is.
+
+54\. D-szintű fizikai védelem esetében olyan biztonsági tárolókat kell biztosítani, amelyek a zárható irodabútorral egyenértékű ellenállást biztosítanak.
+
+**12. Aktiválódó eszközök**
+
+55\. A-szintű fizikai védelem esetében a kötelezett aktiválódó eszközöket, így különösen merev poliuretán habot, stabilizált vízbázisú habot, kémiailag keltett füstöt vagy egyéb akadályozó eszközöket is alkalmazhat. Az ilyen eszközök igénybevétele esetén megbízható technikai megoldások alkalmazásával és hatékony eljárásrendek kidolgozásával biztosítani kell az aktiválás pontos időzítését.
+
+*IV. FEJEZET*
+
+*ELHÁRÍTÁS*
+
+**13. Belső elhárító erők és kivonuló rendőri erők**
+
+56\. A-szintű fizikai védelem esetében:
+
+56.1. az elhárítást a független behatolási útvonalak számával legalább azonos számú belső elhárító erők és 5 percen belül kivonuló külső elhárító erők végzik, továbbá
+
+56.2. a belső elhárító erők járőrözést végeznek, és napi 24 órás őrszolgálatot biztosítanak.
+
+57\. B-szintű fizikai védelem esetében:
+
+57.1. az elhárítást a független behatolási útvonalak számával arányos számú belső elhárító erők és 10 percen belül kivonuló külső elhárító erők végzik, továbbá
+
+57.2. a belső elhárító erők járőrözést végeznek, és napi 24 órás őrszolgálatot biztosítanak.
+
+58.[^102] C-szintű fizikai védelem esetében az elhárítást helyszíni őrszemélyzet vagy 15 percen belül kivonuló külső elhárító erők végzik.
+
+59.[^103] D-szintű fizikai védelem esetében az elhárítást külső vagy belső elhárító erők végzik.
+
+## 3. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
+
+**Fizikai védelmi szintekhez tartozó követelmények nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok szállítása során**
+
+*I. FEJEZET*
+
+*MEGELŐZÉS, ELRETTENTÉS*
+
+**1. Figyelmeztető táblák, feliratok**
+
+1.[^104] A-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+
+1.1. sugárveszély jelzése,
+
+1.2. fizikai védelmi rendszerrel védett jármű jelzése,
+
+1.3. tiltott eszközökre, tevékenységre figyelmeztetés, valamint
+
+1.4. kezelési jogosultságra figyelmeztetés.
+
+2\. A látható jelzéseket automatikusan működő hangjelzésekkel ki kell egészíteni.
+
+3.[^105] B-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+
+3.1. sugárveszély jelzése,
+
+3.2. fizikai védelmi rendszerrel védett jármű jelzése,
+
+3.3. tiltott eszközökre, tevékenységre figyelmeztetés, valamint
+
+3.4. kezelési jogosultságra figyelmeztetés.
+
+4.[^106] C-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+
+4.1. sugárveszély jelzése, valamint
+
+4.2. tiltott eszközökre, tevékenységre figyelmeztetés.
+
+5.[^107] D-szintű fizikai védelem esetében zárt szállítójármű esetében a rakterén lévő ajtón, nyitott szállítójármű esetében a jármű vagy – az engedményes küldeménydarabok szállítását kivéve – a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+
+5.1. sugárveszély jelzése, valamint
+
+5.2. tiltott eszközökre, tevékenységre figyelmeztetés.
+
+**2. Kommunikáció**
+
+6\. A-szintű fizikai védelem esetében a szállítás alatt folyamatos, megbízható, biztonságos és redundáns kommunikációt kell biztosítani, melynek feltételei különösen:
+
+6.1. a két-utas rádió kommunikáció használata csak titkosított üzenetekkel történhet,
+
+6.2. a szállítás során a kíséretnek rendszeres kommunikációs kapcsolatot kell létesítenie a szállítójármű vezetőjével (ha a szállítmány több egységből áll akkor minden vezetővel), a kötelezettel, a címzettel, a szállítás útvonalán érintett helyi hatóságokkal és elhárító erőkkel a szállítmány átvételének időpontjáig,
+
+6.3. a szállítás tervezése során a kötelezettnek válaszintézkedéseket kell kidolgoznia arra az esetre, ha a kommunikáció megszűnik és az előre meghatározott időpontban nem jön létre a kommunikációs kapcsolat.
+
+7\. B-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani, melynek feltételei különösen:
+
+7.1. a szállítójármű vezetőjének rendelkeznie kell egy listával a kapcsolattartó személyek elérhetőségével arra az esetre, ha veszélyhelyzet során segítségre lenne szüksége;
+
+7.2. a szállítás során a kíséretnek időnként kommunikációs kapcsolatot kell létesítenie a szállítójármű vezetőjével (ha a szállítmány több egységből áll, akkor minden vezetővel), a kötelezettel, a címzettel, a szállítás útvonalán érintett helyi hatóságokkal és elhárító erőkkel a szállítmány átvételének időpontjáig; továbbá
+
+7.3. a szállítás tervezése során a kötelezettnek válaszintézkedési tervet kell kidolgoznia arra az esetre, ha a kommunikáció megszűnik és az előre meghatározott időpontban nem jön létre a kommunikációs kapcsolat.
+
+8.[^108] C-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani a kötelezettel. A szállítójármű vezetőjének rendelkeznie kell egy listával a kapcsolattartó személyek elérhetőségével arra az esetre, ha veszélyhelyzet során segítségre lenne szüksége.
+
+9\. D-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani a kötelezettel.
+
+**3. Információvédelem, előzetes értesítések**
+
+10\. A- és B-szintű fizikai védelem esetében a kötelezett köteles a szállítás megkezdése előtt:
+
+10.1. tájékoztatni a címzettet a szállítandó anyag jellemzőiről, a tervezett szállítási módozatról, valamint az érkezés várható időpontjáról (dátum, idő) és helyszínéről;
+
+10.2. meggyőződni arról, hogy a címzett hajlandó fogadni a szállítmányt és erre fel is van készülve; valamint arról, hogy érkezésekor a címzett azonnal át tudja venni a szállítmányt; továbbá
+
+10.3. a szállításról értesíteni az OAH-t.
+
+11.[^109] A- és B-szintű fizikai védelem esetében a szállítmány megérkezéséről a címzett azonnal értesíti a feladót.
+
+12\. C-szintű fizikai védelem esetében a kötelezett köteles a szállítás megkezdése előtt:
+
+12.1. tájékoztatni a címzettet a szállítandó anyag jellemzőiről, a tervezett szállítási módozatról, valamint az érkezés várható időpontjáról (dátum, idő) és helyszínéről, valamint
+
+12.2. meggyőződni arról, hogy a szállítmány megérkezésekor a címzett azonnal át tudja venni a szállítmányt.
+
+**4. Kíséret**
+
+13\. A-szintű fizikai védelem esetében a kötelezett biztosítja, hogy:
+
+13.1. a szállítójárműben mindig minimum két ember tartózkodjon, amit egy másik jármű kísér;
+
+13.2. a szállítójármű vezetője egy fegyveres őrrel utazzon együtt, vagy a szállítójárművet kísérő járműben utazzon egy vagy több fegyveres őr; továbbá
+
+13.3. folyamatosan ellenőrizzék a szállítmányt és a szállítójárművet, különösen akkor, amikor az nincs mozgásban.
+
+14\. B-szintű fizikai védelem esetében a kötelezett biztosítja, hogy:
+
+14.1. a szállítójárműben mindig minimum két ember tartózkodjon;
+
+14.2. a szállítójárművet egy vagy két kísérővel erősítsék meg; valamint
+
+14.3. az őrök a szállítást állandó felügyelet alatt tartsák a szállítójárműben vagy a kísérő járműben utazva.
+
+15.[^110]
+
+**5. Fizikai védelmi ismeretek**
+
+16\. A- és B-szintű fizikai védelem esetében a szállításban részt vevő minden érintett személy részére évente kötelező a fizikai védelmi ismeretek oktatása.
+
+17\. C-szintű fizikai védelem esetében a szállításban részt vevő minden személy részére kétévente kötelező a fizikai védelmi ismeretek oktatása.
+
+18\. D-szintű fizikai védelem esetében a szállításban részt vevő minden személy részére háromévente kötelező a fizikai védelmi ismeretek oktatása.
+
+19\. A-, B- és C-szintű fizikai védelem esetében szállítás előtt a kötelezettnek meg kell bizonyosodnia arról, hogy a választott járművezetők és kíséretük tudatában vannak a szükséges fizikai védelmi követelményeknek, és teljesíteni is tudják azokat.
+
+**6. Kizárólagos járműhasználat**
+
+20\. A- és B-szintű fizikai védelem esetében a szállítmányt a szállítási módozattól függetlenül csak olyan szállítójárműben lehet szállítani, amelyben kizárólag ezt az anyagot szállítják.
+
+**7. Nyitott jármű**
+
+21\. A-szintű fizikai védelem esetében 2000 kg-nál nehezebb szállítmányt nyitott szállítójárművön is lehet szállítani, ha az zárószerkezettel, bontás érzékelővel és pecséttel ellátott, és szállítójárműhöz láncokkal rögzítették, melynek rögzítését 10 000 N feszítő erőnek ellenálló módon alakították ki.
+
+22.[^111] B-, C- és D-szintű fizikai védelem esetében az 500 kg-nál nehezebb szállítmányt nyitott szállítójárművön is lehet szállítani, amennyiben a fizikai védelmi eszközök lopás ellen biztos védelmet nyújtanak.
+
+**8. Védettségi ellenőrzések**
+
+23\. A- és B-szintű fizikai védelem esetében a szállítójárműbe történő berakodás előtt el kell végezni a szállítójármű védettségi vizsgálatát, utána a szállítójárművet biztonságos helyen kell tárolni, amíg a szállítandó anyag betöltését el nem végzik. Betöltés után a szállítójárművet le kell zárni és pecsételni, elindulásig nem lehet őrizetlenül hagyni.
+
+24.[^112] A-, B-, C- és D-szintű fizikai védelem esetében a szállítás előtt dokumentáltan ellenőrizni kell a gépjármű és a fizikai védelmi rendszer működőképességét. B- és C-szintű szállítás esetén az ellenőrzés teljesítését egy, a szállítás előkészítésétől független személynek is ellenőriznie kell. A szállítójármű védettségét folyamatosan ellenőrizni kell a teljes szállítás során, továbbá biztosítani kell, hogy a fizikai védelmi eljárások folyamatosan hatékonyak maradjanak.
+
+**9. Útvonal kiválasztása**
+
+25\. A- és B-szintű fizikai védelem esetében az útvonalat úgy kell kiválasztani, hogy az elsődleges útvonal mellé alternatív útvonalakat is kell előzetesen tervezni, amit a fizikai védelmi tervben szerepeltetni kell. Közúti szállítás esetében a legmagasabb rendű útvonalat kell használni, amely elkerüli a sűrűn lakott területeket. Amennyiben ez nem lehetséges, akkor meg kell adni a szállítással érintett településen keresztül vezető pontos útvonal leírását és azt, hogy hogyan kerüli el a szállítmány a csúcsforgalmat.
+
+26.[^113] Amennyiben az A- és B-szintű fizikai védelem esetében az elsődleges útvonalon nem biztosítható a szállítmány megfelelő szintű fizikai védelme, akkor alternatív útvonalat kell használni. Alternatív útvonal kiválasztása esetén biztosítani kell, hogy rövid időn belül megvalósítható legyen az egyik útvonalról a másikra való áttérés, és az ellátás utánpótlása. Az alternatív útvonal esetében is biztosítani kell a külső elhárító erők helyszínre érkezése időtartamára vonatkozó követelményeket.
+
+27\. A- és B-szintű fizikai védelem esetében az útvonal kiválasztásakor figyelembe kell venni minden nyilvánvaló veszélyforrást, így különösen a civil tiltakozó megmozdulásokat, valamint a természetes veszélyforrásokat, köztük az árvizet, erdőtüzet, kőomlás-veszélyt.
+
+28\. A- és B-szintű fizikai védelem esetében választott útvonal alkalmasságát és védhetőségét a szállítás megkezdése előtt ellenőrizni kell, valamint az útvonalak kiválasztásakor kerülni kell a rendszerességet.
+
+**10. Szállítási idő**
+
+29\. A- és B-szintű fizikai védelem esetében a szállítási időt, amelyet a szállítmány ténylegesen úton tölt, és a szállítás módját úgy kell meghatározni, hogy:
+
+29.1. a szállítmányok, valamint az átrakodások számát minimalizálni kell és a gyakori hasonló szállításoknál kerülni kell az időzítés rendszerességét;
+
+29.2. amennyiben a szállítás tervezetten egy napnál hosszabb, akkor
+
+29.2.1. váltott járművezetőkkel, megállás nélkül kell elvégezni a szállítást, vagy
+
+29.2.2. előzetesen gondoskodni kell megfelelő fizikai védelemmel ellátott, őrzött és monitorozott éjszakai megállóról, és ha a megállás időtartalma az egy órát meghaladja, akkor a szállítmány fizikai védelme tekintetében a létesítményekre vonatkozó A-, illetve B-szintű fizikai védelmi követelményeket kell biztosítani, a szabotázs elleni védelmet kivéve, valamint
+
+29.3. kerülni kell a szállítmány 24 óránál hosszabb egy helyben tartózkodását.
+
+30\. C-szintű fizikai védelem esetében, ha a szállítás tervezetten egy napnál hosszabb, akkor a szállítási időt és a szállítás módját úgy kell meghatározni, hogy:
+
+30.1. váltott járművezetőkkel, megállás nélkül kell elvégezni a szállítást, vagy
+
+30.2. előzetesen gondoskodni kell megfelelő fizikai védelemmel ellátott, őrzött és monitorozott éjszakai megállóról, és ha a megállás időtartalma az egy órát meghaladja, akkor a szállítmány fizikai védelme tekintetében a létesítményekre vonatkozó C-szintű fizikai védelmi követelményeket kell biztosítani, a szabotázs elleni védelmet kivéve, valamint
+
+30.3. kerülni kell a szállítmány 24 óránál hosszabb egy helyben tartózkodását.
+
+*II. FEJEZET*
+
+*DETEKTÁLÁS*
+
+**11. Jogosulatlan hozzáférés- és támadás-jelző rendszer**
+
+31\. A-szintű fizikai védelem esetében jelzőrendszer alkalmazásával biztosítani kell, hogy a szállítmányhoz csak az arra jogosult személy férhessen hozzá; és jogosulatlan hozzáférés vagy támadás esetében a jelzőrendszernek működésbe kell lépnie.
+
+32\. A-szintű fizikai védelem alkalmazásakor a szállítmányt el kell látni biztonsági pecséttel úgy, hogy a pecsét
+
+32.1. nyom nélküli eltávolítása, elmozdítása vagy helyettesítése lehetetlen legyen;
+
+32.2. rendelkezzen egyedi fizikai vagy elektronikus azonosítóval; továbbá
+
+32.3. olyan felépítésű legyen, és úgy legyen felerősítve, hogy baleset során se törhessen és mozdulhasson el.
+
+33\. A-szintű fizikai védelem során biztosítani kell, hogy a jelzőrendszer képes legyen:
+
+33.1.[^114] a héjvédelem tekintetében felügyelni a szállítójármű ajtóit,
+
+33.2. a térvédelem tekintetében felügyelni a szállítójármű belső terét, és jelezni mindennemű illetéktelen emberi mozgást,
+
+33.3. tárgyvédelem tekintetében felügyelni az összes szállítmányt, valamint
+
+33.4. személyvédelem tekintetében folyamatosan biztosítani az összes veszélyeztetett személy számára a támadásjelzés lehetőségét,
+
+33.5. a jelzőrendszer által kiadott riasztás-jelzés közvetlenül a szállítás-biztonsági ellenőrzési központot (őrségközpontot) vagy a rendőrséget, vagy mindkettőt értesíteni.
+
+34\. A-szintű fizikai védelem esetében alkalmazni kell:
+
+34.1.[^115] héjvédelem tekintetében:
+
+34.1.1. nyitás-,
+
+34.1.2. törés-, vágás- és
+
+34.1.3. bontásérzékelők
+
+megfelelő kombinációit;
+
+34.2. térvédelem tekintetében mozgásérzékelőt;
+
+34.3. tárgyvédelem tekintetében:
+
+34.3.1. feszítés-,
+
+34.3.2. elmozdítás érzékelők és
+
+34.3.3. tárgycsapdák
+
+megfelelő kombinációit;
+
+34.4. személyvédelem tekintetében:
+
+34.4.1. támadás- és
+
+34.4.2. éberségjelzők
+
+megfelelő kombinációit.
+
+35\. B-szintű fizikai védelem esetében jelzőrendszer alkalmazásával biztosítani kell, hogy a szállítmányhoz csak arra jogosult személy férhessen hozzá; jogosulatlan hozzáférés vagy támadás esetében a jelzőrendszernek működésbe kell lépnie.
+
+36\. B-szintű fizikai védelem alkalmazásakor a szállítmányt el kell látni biztonsági pecséttel úgy, hogy a pecsét
+
+36.1. nyom nélküli eltávolítása, elmozdítása vagy helyettesítése lehetetlen legyen;
+
+36.2. rendelkezzen egyedi fizikai vagy elektronikus azonosítóval; továbbá
+
+36.3. olyan felépítésű legyen, és úgy legyen felerősítve, hogy baleset során se törhessen és mozdulhasson el.
+
+37\. B-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+37.1.[^116] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket, valamint
+
+37.2. a térvédelem legyen csapdaszerű: a jelzőrendszer a raktérben található szállított anyag megközelítését figyelje, továbbá
+
+37.3.[^117] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a külső vagy a belső elhárító erőket.
+
+38\. B-szintű fizikai védelem esetében alkalmazni kell:
+
+38.1. felületvédelem tekintetében:
+
+38.1.1. nyitás-,
+
+38.1.2. törés-, és
+
+38.1.3. bontásérzékelők
+
+megfelelő kombinációit; valamint
+
+38.2. térvédelem tekintetében mozgásérzékelőt.
+
+39\. C-szintű fizikai védelem esetében jelzőrendszer alkalmazásával biztosítani kell, hogy a szállítmányhoz csak arra jogosult személy férhessen hozzá; jogosulatlan hozzáférés vagy támadás esetében a jelzőrendszernek működésbe kell lépnie.
+
+40\. C-szintű fizikai védelem esetében a szállítmányt el kell látni biztonsági pecséttel úgy, hogy a pecsét
+
+40.1. nyom nélküli eltávolítása, elmozdítása vagy helyettesítése lehetetlen legyen;
+
+40.2. rendelkezzen egyedi fizikai vagy elektronikus azonosítóval; továbbá
+
+40.3. olyan felépítésű legyen, és úgy legyen felerősítve, hogy baleset során se törhessen és mozdulhasson el.
+
+41\. C-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+41.1.[^118] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket,
+
+41.2. a térvédelem legyen csapdaszerű: a jelzőrendszer a raktérben található szállítmány anyag megközelítését figyelje, valamint
+
+41.3.[^119] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a gépjármű vezetőjét.
+
+42\. C-szintű fizikai védelem során alkalmazni kell:
+
+42.1.[^120] héjvédelem tekintetében:
+
+42.1.1. nyitás-,
+
+42.1.2. törés-, és
+
+42.1.3. bontásérzékelők
+
+megfelelő kombinációit.
+
+42.2. térvédelem tekintetében mozgásérzékelőt.
+
+43\. D-szintű fizikai védelem esetében jelzőrendszer alkalmazásával biztosítani kell, hogy a szállítmányhoz csak arra jogosult személy férhessen hozzá, és jogosulatlan hozzáférés vagy támadás esetében a jelzőrendszernek működésbe kell lépnie.
+
+44\. D-szintű fizikai védelem esetében a felületvédelmen belül alkalmazni kell:
+
+44.1. nyitás-,
+
+44.2. törés-, és
+
+44.3. bontás érzékelők
+
+megfelelő kombinációit.
+
+**12. Megfigyelő rendszer**
+
+45.[^121] A- és B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen a szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
+
+46\. A- és B-szintű fizikai védelem esetében a megfigyelő rendszer minimálisan szükséges elemei:
+
+46.1. képérzékelő,
+
+46.2. képátviteli eszköz, valamint
+
+46.3. képmegjelenítő a vezetőfülkében, vagy a szállítás-biztonsági ellenőrzési központon, vagy mindkét helyen.
+
+47\. A- és B-szintű fizikai védelem esetében a megfigyelőrendszernek a 46. pontban felsorolt minimálisan szükséges elemeit ki lehet egészíteni a következőkkel:
+
+47.1. képrögzítő, és
+
+47.2. infra reflektor.
+
+48.[^122] A- és B-szintű fizikai védelem esetében a szállítójárművet vagy a szállítmányt el kell látni követő rendszerrel, valamint monitoring és követő eszközzel, amely, lehetőség szerint beépített, adóegysége sugárálló, és az áramellátása hosszú ideig tartós elemekkel biztosított.
+
+49.[^123] C-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
+
+50\. C-szintű fizikai védelem esetében a megfigyelő rendszer minimálisan szükséges elemei:
+
+50.1. képérzékelő
+
+50.2. képátviteli eszköz, valamint
+
+50.3. képmegjelenítő a vezetőfülkében.
+
+51\. C-szintű fizikai védelem esetében a megfigyelőrendszernek 50. pontban felsorolt minimálisan szükséges elemeit ki lehet egészíteni a következőkkel:
+
+51.1. képrögzítő, és
+
+51.2. infra reflektor.
+
+52.[^124]
+
+**13. Szállítás-biztonsági ellenőrzési központ (Őrségközpont)**
+
+53\. A-szintű fizikai védelem esetében ki kell alakítani egy szállítás-biztonsági ellenőrzési központot (őrségközpontot), amely fel van szerelve olyan kommunikációs eszközökkel, amelyekkel nyomon lehet követni a szállítmányt a teljes szállítási útvonalon, és amellyel folyamatos kapcsolatot tarthat a szállítójármű vezetője és a kíséret.
+
+54\. B-szintű fizikai védelem esetében ki kell alakítani egy szállítás-biztonsági ellenőrzési központot (őrségközpontot), amely fel van szerelve olyan kommunikációs eszközökkel, amelyekkel nyomon lehet követni a szállítmányt a teljes szállítási útvonalon.
+
+55\. A- és B-szintű fizikai védelem esetében biztosítani kell a szállítmány fizikai védelmi jelző- és megfigyelő eszközeitől érkező információk megjelenítését, feldolgozását és értékelését.
+
+*III. FEJEZET*
+
+*KÉSLELTETÉS*
+
+**14.**[^125] **Szállítójármű-ajtók és tároló lemezszekrény ajtók**
+
+56\. A-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+56.1. a szállítójármű-ajtók nagyfokú mechanikai ellenállásra legyenek képesek,
+
+56.2. a szállítójármű-ajtók a speciális eszközökkel felszerelt behatolóval szemben minimum 15 perces áttörési időt szavatoljanak, valamint
+
+56.3. a szállítójármű rakterén ne legyen más nyílászáró.
+
+57\. A-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó tok és a keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű legyen az ajtószerkezet ellenálló-képességével.
+
+58\. B-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+58.1.[^126] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói jelentős mechanikai ellenállásra legyenek képesek,
+
+58.2.[^127] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a speciális eszközökkel felszerelt behatolóval szemben minimum 10 perces áttörési időt szavatoljanak, valamint
+
+58.3.[^128] a szállítójármű rakterén vagy a tároló lemezszekrényen ne legyen más nyílászáró.
+
+59.[^129] B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó vagy a tároló lemezszekrény tok és a keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű legyen az ajtószerkezet ellenálló-képességével.
+
+60\. C-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+60.1.[^130] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámokkal szemben képesek legyenek mechanikai ellenállásra,
+
+60.2.[^131] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 5 perces áttörési időt szavatoljanak, valamint
+
+60.3.[^132]
+
+61\. C-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó tok és keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű az ajtószerkezet ellenálló-képességével.
+
+62\. D-szintű fizikai védelem esetében biztosítani kell, hogy
+
+62.1.[^133] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámok igénybevétele esetén korlátozott mechanikai ellenállásra legyenek képesek,
+
+62.2.[^134] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 3 perces áttörési időt szavatoljanak, valamint
+
+62.3.[^135]
+
+**15.**[^136] **Szállítójármű-ajtózárak és tároló lemezszekrény ajtózárak**
+
+63\. A-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+63.1. a zár a 15 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített vagy azzal megegyező minőségű legyen,
+
+63.2. a szállítójármű zárjainak és pecsétjeinek sértetlenségét az indulás előtt, a szállítás közben és a végső célállomáson a szállításban közreműködők minimum 12 óránként ellenőrizzék, és meggyőződjenek annak érintetlenségéről, valamint
+
+63.3.[^137] a védelmi zárak két kulccsal rendelkezzenek úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, a másik a kötelezettnél marad és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
+
+64\. B-szintű fizikai védelem esetében biztosítani kell, hogy
+
+64.1. a zár a 10 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített, vagy azzal megegyező minőségű legyen,
+
+64.2.[^138] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét az indulás előtt, a szállítás közben és a végső célállomáson a szállításban közreműködők minimum 24 óránként ellenőrizzék, és meggyőződjenek annak érintetlenségéről, valamint
+
+64.3.[^139] a védelmi zárak két kulccsal rendelkezzenek, úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, míg a másik a kötelezettnél marad, és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
+
+65\. C-szintű fizikai védelem esetében biztosítani kell, hogy
+
+65.1. a zár az 5 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített, vagy azzal megegyező minőségű legyen, valamint
+
+65.2.[^140] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét a szállításban közreműködők ellenőrizzék az indulás előtt és a célállomáson.
+
+**16. Szállítójármű karosszéria, tároló lemezszekrény**
+
+66\. A-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+66.1. a szállítójármű karosszériája olyan egyfalú, vagy kétfalú páncéllemez legyen, amelynek roncsolásos vizsgálata során részleges behatolás esetében 30 RU, teljes behatolás esetében 50 RU ellenállásértéket értek el;
+
+66.2. a szállítójármű rakterén lévő ajtó zárszerkezete kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy, három, vagy négy irányban;
+
+66.3. a kulcs a zár nyitott állapotában ne lehessen kivehető ki a zárból;
+
+66.4. a zárszerkezet fúrás elleni védelmét minimum 60 HRC keménységű fúrásvédő lap biztosítsa;
+
+66.5. a zár EU minősítésű „A” kategóriába elfogadott zár legyen; valamint
+
+66.6. a szállítmányt 10 000 N feszítő erőnek ellenálló módon rögzítsék.
+
+67\. B-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+67.1. a szállítójármű karosszériája, vagy a tároló lemezszekrény olyan egyfalú, vagy kétfalú páncéllemez legyen, amelynél a borítólemezek összesített falvastagsága, valamint az ajtólap 6-8 mm vastagságú acéllemez, és a két fal között legalább 30 mm távolság van, és amelynek a roncsolásos vizsgálata során teljes áttörés esetében 24 RU, részleges áttörés esetében 15 RU ellenállásértéket értek el;
+
+67.2.[^141] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
+
+67.3. a kulcs a zár nyitott állapotában ne lehessen kivehető ki a zárból;
+
+67.4. a zárszerkezet fúrás elleni védelmét minimum 60 HRC keménységű fúrásvédő lap biztosítsa;
+
+67.5. a zár EU minősítésű „A” kategóriába elfogadott zár legyen; valamint
+
+67.6. a szállítmányt 5000 N feszítő erőnek ellenálló módon rögzítsék.
+
+68\. C-szintű fizikai védelem esetében biztosítani kell, hogy:
+
+68.1. a szállítójármű karosszériája, vagy a tároló lemezszekrény olyan egyfalú lemez legyen, ahol a borítólemezek falvastagsága legalább 2mm–4,5 mm;
+
+68.2.[^142] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete direkt, vagy kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
+
+68.3. a kulcs a zár nyitott állapotában ne lehessen kivehető ki a zárból;
+
+68.4. a zárszerkezet fúrás elleni védelmét minimum 60 HRC keménységű fúrásvédő lap biztosítsa; valamint
+
+68.5. a szállítmányt 5000 N feszítő erőnek ellenálló módon rögzítsék, amelybe az értéktároló súlya is beleértendő.
+
+69.[^143] D-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű karosszériája, vagy a tároló lemezszekrény a zárható irodabútorral egyenértékű ellenállást fejtsen ki.
+
+*IV. FEJEZET*
+
+*ELHÁRÍTÁS*
+
+70\. A-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást 5 percen belül a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
+
+71\. B-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást 10 percen belül a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
+
+72\. C-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást 15 percen belül a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
+
+73.[^144] D-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
+
+## 4. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
+
+**Fizikai védelmi tervekkel szembeni tartalmi követelmények**
+
+1\. Nukleáris létesítmény, átmeneti és végleges hulladéktároló, valamint a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi terve legalább a következőket tartalmazza:
+
+1.1. Általános adatok:
+
+1.1.1. adminisztratív információk: kötelezett neve, címe, elérhetőségek, kapcsolattartó személyek, tulajdoni lap másolata, bérelt tárolóhely vagy eszköz esetében a bérbeadó hozzájárulási nyilatkozata;
+
+1.1.2.[^145] a fizikai védelmi terv alapját képező tevékenység részletes leírása;
+
+1.1.3.[^146] a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék bemutatása: típusa, fajtája, mennyisége, aktivitása, halmazállapota, kategorizálása és alkalmazásának leírása;
+
+1.2.[^147] a telephely bemutatása:
+
+1.2.1. a telephely környezetének bemutatása: telephely EOV vagy WGS'84 koordinátákkal, méretarányos térképpel (helyszínrajz, a tárolóhelyiség alaprajza, alaprajzvázlata, a felhasználóhelyiségek alaprajza, alaprajzvázlata, melyen megjelenítésre kerülnek fizikai védelmi szempontból lényeges épületek, megközelítési útvonalak, környezetben lévő utak, vasutak, vízi utak);
+
+1.2.2. a tárolóeszközök és tárolóhelyiségek, alkalmazási helyiségek kulcskezelési és tárolási rendjének leírása;
+
+1.2.3. a radiológiai következmények szempontjából jelentős technológiai rendszerek, rendszerelemek leírása;
+
+1.3.[^148] a lehetséges behatolási útvonalak bemutatása (elkövetői szcenáriók részletezése és elemzése, térképen való megjelenítése);
+
+1.3.1. a belső elkövetői taktikák és szcenáriók leírása;
+
+1.4.[^149] a fizikai védelem szervezeti felépítése, valamint az alrendszerére vonatkozó adatok (fizikai védelmi szerepek, felelősségek a szervezetben (irányító személyek, kijelölt fizikai védelmi kapcsolattartó);
+
+1.4.1. az őrzés rendjének, az alkalmazott mechanikus és elektronikus vagyonvédelmi rendszer rendszerszintű leírása;
+
+1.4.2. ha fegyveres biztonsági őrséget alkalmaznak, annak szervezeti felépítése, feladatai és működési rendje, elrendelő határozat kelte, száma;
+
+1.4.3. a belső elhárító erők felépítésének leírása (tagjainak kiválasztása, velük szemben támasztott követelmények, tagjainak és a szervezetének fizikai védelmi képzése, fegyverzete, eszközei és járművei (darab, típus, leírás);
+
+1.5.[^150] a be- és kiléptetés rendje a telephely, valamint a tárolóhelyiség vonatkozásában (gépjármű, alkalmazottak, valamint vendéglátogatók beléptetésének szabályai, dokumentációs rendszere);
+
+1.6.[^151] a dokumentációs rendszer (fizikai védelmi belső szabályozó rendszer, minőségirányítás adatai, politika, folyamatutasítások, eljárásrendek);
+
+1.6.1. a nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok nyilvántartása, felhasználása és nyilvántartása rendjének, valamint bevezetési és kiadási rendjének leírása (rádium szoftver verziószáma, belső dokumentációs rendszer leírása, szabályozói);
+
+1.7.[^152] a programozható rendszerek védelmi terve;
+
+1.8.[^153] a fizikai védelmi rendszer működésével kapcsolatos események jelentési rendje, értesítendő hatóságok elérhetőségei;
+
+1.8.1. a jelentésköteles események kivizsgálásának rendje;
+
+1.9.[^154] a fizikai védelmi rendszer hatékonyságának ellenőrzése;
+
+1.9.1. a fizikai védelmi terv felülvizsgálatának módja, rendszeressége, jóváhagyása, a fizikai védelmi terv tárolása, betekintő személyek beosztása;
+
+1.10.[^155] az elrettentési, detektálási, késleltetési és elhárítási eszközök részletes leírása, műszaki adatainak feltüntetése;
+
+1.10.1. a fizikai védelmi rendszer karbantartási, tesztelési programja;
+
+1.11.[^156] a külső elhárító erők, együttműködés a belső elhárító erőkkel (eljárásrend részletezése, amely szabályozza az összehangolt együttműködést);
+
+1.12.[^157] a fizikai védelmi rendszer átfogó értékelése a fizikai védelmi funkciók, lehetséges behatolási útvonalak és elkövetői taktikák tükrében;
+
+1.12.1. a 6. § (6) bekezdésében meghatározott tervekkel való összhang;
+
+1.12.2. a válaszintézkedések tervei, eljárásai;
+
+1.13.[^158] az emelt szintű fizikai védelmi szint elrendelése esetén alkalmazandó intézkedések bemutatása;
+
+1.14.[^159] a hatósági ellenőrzés lefolytatásával kapcsolatos speciális helyi rendszabályok.
+
+2\. A nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítására vonatkozó fizikai védelmi terv a következőket tartalmazza:
+
+2.1. a szállítandó anyag leírása: megnevezése, típusa (sugárforrás, nukleáris anyag, hulladék), aktivitása, kategóriája, mennyisége (bruttó és nettó tömeg), kémiai és fizikai tulajdonsága, izotóp-összetétele, az U-235, az U-233 vagy a plutónium dúsításának vagy szegényítésének mértéke, amennyiben nukleáris anyag, dózisteljesítményének maximuma;
+
+2.2. a fizikai védelemért felelős és a szállításban közreműködő személy neve, beosztása, elérhetősége;
+
+2.3.[^160] a szállító eszköz és jármű leírása, gépjármű típusa és rendszáma, a szállító járműről és az alkalmazott fizikai védelmi rendszerekről készített fényképek; a nagy aktivitású zárt sugárforrás szállítása esetén a szállításkor alkalmazott csomagolás és a releváns eszközök és felszerelés fényképe;
+
+2.4. az elsődleges és alternatív útvonalak, országhatáron át történő szállítás esetében a be- és kiléptető határátkelőhely;
+
+2.5. a szállítás tervezett időtartama és időrendje;
+
+2.6. a szállítmány nyomon követésének módszerei;
+
+2.7. a szállításban részt vevő szervezetek és feladatai;
+
+2.8. a fizikai védelmi képzés és gyakorlatok értékelése;
+
+2.9.[^161]
+
+2.10. a fizikai védelmi rendszer leírása;
+
+2.11.[^162]
+
+2.12. emelt szintű fizikai védelmi szint esetében alkalmazandó intézkedések;
+
+2.13. a fizikai védelemmel kapcsolatos események jelentési rendje;
+
+2.14. a válaszintézkedések tervei, eljárásai;
+
+2.15. a fizikai védelmi terv tárolásának módja, a betekintő személyek megnevezése, beosztása;
+
+2.16. megállapodások az elhárító erőkkel, egyéb külső szervezetekkel; a hatósági ellenőrzés lefolytatásával kapcsolatos speciális rendszabályok; valamint
+
+2.17.[^163] a veszélyhelyzet-kezelési terv.
+
+3.[^164] A programozható rendszerek védelmi terve a következőket tartalmazza:
+
+3.1. A programozható rendszerek jegyzéke, a rendszerek, hálózatok, alkalmazások és kapcsolataik.
+
+3.2. A programozható rendszerek védelméért felelős személy vagy szervezet, a felelősség- és hatáskörök.
+
+3.3. A védelmi intézkedések megvalósítása.
+
+3.4. Folytonos üzemvitel, rendszerek biztonsági mentése.
+
+3.5. A védelemmel összefüggő oktatás, továbbképzés, védelmi kultúra.
+
+3.6. Védelmi felülvizsgálat.
+
+3.7. A rendszerek védelmével összefüggő változáskezelés, életciklus.
+
+## 5. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^165]
+
+**Fegyveres biztonsági őrség állományában szolgálatot teljesítőkre vonatkozó gyakorlatlista és teljesítménytáblázat**
+
+**I. A gyakorlatok szabályos végrehajtása:**
+
+1.1. A 2000 m-es futás felmérési szám csak abban az esetben kerül pontozásra, ha a megjelölt távot folyamatában, megállás nélkül teljesíti a résztvevő.
+
+1.2. A végrehajtás idejéhez rendelt pont számít bele az értékelésbe.
+
+2.1. A felülés végrehajtására vonatkozó szabályok:
+
+2.1.1. a felülésnél a lábfej beakasztása megengedett; vagy más személy segítsége igénybevehető a lábak megfogásához;
+
+2.1.2. a lábak térdből behajlított állapotban vannak;
+
+2.1.3. mindkét kéz ujjai a tarkón vannak, minden felülésnél a könyök megérinti a térdet;
+
+2.1.4. a hanyattfekvés fázisban a lapockának érintenie kell a talajt; és
+
+2.1.5. a végrehajtásra egy perc áll rendelkezésre.
+
+2.2. A darabszámhoz rendelt pont számít bele az értékelésbe.
+
+3.1. Fekvőtámasz végrehajtására vonatkozó szabályok:
+
+3.1.1. a lábak zártak, lábujjhegyen támaszkodnak a talajon;
+
+3.1.2. mindkét kar nyújtott, a hát egyenes;
+
+3.1.3. a karhajlítás során a könyök mozgásiránya tetszőleges, az alsó ponton a felkar párhuzamos a talajjal;
+
+3.1.4. a test nem hullámzó, a végrehajtás során végig síkban van, karnyújtáskor a könyök teljesen kiegyenesedik; és
+
+3.1.5. a rendelkezésre álló idő 30 másodperc.
+
+3.2. A darabszámhoz rendelt pont számít bele az értékelésbe.
+
+4.1. Fekve nyomás végrehajtásának szabályai:
+
+4.1.1. a gyakorlatot kétkezes 60 kg-os súlyzóval, vízszintes padon kell végrehajtani;
+
+4.1.2. a rúd megfogása tetszőleges szélességben és módon történik;
+
+4.1.3. a könyök mozgásának iránya szabadon választott;
+
+4.1.4. kiindulási testhelyzetnél a súly kézben, a kar nyújtott helyzetben van;
+
+4.1.5. leengedésnél a rúd érinti a mellkast, nyomásnál a kar kiegyenesedik; továbbá
+
+4.1.6. leengedéskor nem szabad a súlyt a mellkason pattintani.
+
+4.2. A darabszámhoz rendelt pont számít bele az értékelésbe.
+
+5.1. Helyből távolugrás végrehajtásának szabályai:
+
+5.1.1. Ugróvonal mögött álló helyzet.
+
+5.1.2. Helyből karlendítéssel, páros lábról történő elrugaszkodással elugrás a legnagyobb távolságra.
+
+5.1.3. Értékelés: az ugróvonaltól mért legközelebbi talajszintet érintő távolsághoz rendelt pontszám.
+
+6.1. 4x10 m-es ingafutás végrehajtásának szabályai:
+
+6.1.1. Rajtvonal mögött álló rajt helyzet.
+
+6.1.2. A 4x10 m távolság megtétele úgy, hogy a futó az egymástól 10 m-re lévő két vonal között fut.
+
+6.1.3. Fordulónként lábbal érinteni kell az elől lévő vonalat.
+
+6.1.4. A rajt–cél vonalon való másodszori áthaladás zárja az időmérést másodperc-tizedmásodperc méréssel.
+
+7.1. Hajlított karú függés végrehajtásának szabályai:
+
+7.1.1. Hajlított karú függés: karok vállszélességben, alsó vagy felső madárfogással, az áll a rúd vagy nyújtó felett, amelyre az nem támaszkodhat.
+
+7.1.2. Kiinduló helyzet megtartása mért időre.
+
+7.1.3. Mért idő a függés megkezdése és a végrehajtó szemmagasságának a nyújtó, vagy a rúd alá süllyedéséig eltelt idő másodpercben.
+
+**II. A fizikai (erőnléti) alkalmassági követelmények eredmény pontérték táblázata**
+
+I. korcsoport (18–25 év között)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 35 | 73 | 25 | 8,8 | 250 | 55 | 7:35 |
+|  | 24 | 34 | 70 | 24 | 8,9 | 245 | 54 | 7:40 |
+|  | 23 | 33 | 67 | 23 | 9 | 242 | 53 | 7:45 |
+|  | 22 | 32 | 64 | 22 | 9,1 | 240 | 52 | 7:50 |
+|  | 21 | 31 | 61 | 21 | 9,2 | 238 | 51 | 7:55 |
+|  | 20 | 30 | 58 | 20 | 9,3 | 236 | 50 | 8:00 |
+|  | 19 | 29 | 55 | 19 | 9,4 | 234 | 49 | 8:15 |
+|  | 18 | 28 | 52 | 18 | 9,5 | 232 | 48 | 8:30 |
+|  | 17 | 27 | 49 | 17 | 9,6 | 230 | 47 | 8:45 |
+|  | 16 | 26 | 46 | 16 | 9,7 | 228 | 46 | 9:00 |
+|  | 15 | 25 | 43 | 15 | 9,8 | 226 | 45 | 9:15 |
+|  | 14 | 24 | 41 | 14 | 9,9 | 224 | 44 | 9:30 |
+|  | 13 | 23 | 39 | 13 | 10 | 222 | 43 | 9:45 |
+|  | 12 | 22 | 37 | 12 | 10,1 | 220 | 42 | 10:00 |
+|  | 11 | 21 | 35 | 11 | 10,2 | 218 | 40 | 10:15 |
+|  | 10 | 20 | 33 | 10 | 10,3 | 216 | 38 | 10:30 |
+|  | 9 | 19 | 30 | 9 | 10,4 | 214 | 36 | 10:45 |
+|  | 8 | 18 | 27 | 8 | 10,5 | 212 | 34 | 11:00 |
+|  | 7 | 17 | 24 | 7 | 10,6 | 210 | 32 | 11:20 |
+|  | 6 | 16 | 21 | 6 | 10,7 | 208 | 30 | 11:40 |
+|  | 5 | 15 | 18 | 5 | 10,8 | 206 | 29 | 12:00 |
+|  | 4 | 14 | 16 | 4 | 10,9 | 204 | 28 | 12:20 |
+|  | 3 | 13 | 14 | 3 | 11 | 202 | 27 | 12:40 |
+|  | 2 | 12 | 12 | 2 | 11,1 | 200 | 26 | 13:00 |
+|  | 1 | 11 | 10 | 1 | 11,2 | 198 | 25 | 13:30 |
+
+*Tárgyévben betöltött
+
+II. korcsoport (26–35 év között)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 30 | 65 | 23 | 9 | 240 | 45 | 8:00 |
+|  | 24 | 29 | 62 |  | 9,1 | 238 | 44 | 8:06 |
+|  | 23 | 28 | 59 | 22 | 9,2 | 236 | 43 | 8:12 |
+|  | 22 | 27 | 56 |  | 9,3 | 234 | 42 | 8:18 |
+|  | 21 | 26 | 54 | 21 | 9,4 | 232 | 41 | 8:21 |
+|  | 20 | 25 | 52 | 20 | 9,5 | 230 | 40 | 8:30 |
+|  | 19 | 24 | 50 | 19 | 9,6 | 228 | 39 | 8:40 |
+|  | 18 | 23 | 48 | 18 | 9,7 | 226 | 38 | 8:50 |
+|  | 17 | 22 | 46 | 17 | 9,8 | 224 | 37 | 9:00 |
+|  | 16 | 21 | 43 | 16 | 9,9 | 222 | 36 | 9:15 |
+|  | 15 | 20 | 40 | 15 | 10 | 220 | 35 | 9:30 |
+|  | 14 | 19 | 37 | 14 | 10,1 | 218 | 34 | 9:45 |
+|  | 13 | 18 | 34 | 13 | 10,2 | 216 | 33 | 10:00 |
+|  | 12 | 17 | 32 | 12 | 10,3 | 214 | 32 | 10:15 |
+|  | 11 | 16 | 30 | 11 | 10,4 | 212 | 31 | 10:30 |
+|  | 10 | 15 | 28 | 10 | 10,5 | 210 | 30 | 10:45 |
+|  | 9 | 14 | 26 | 9 | 10,6 | 208 | 29 | 11:00 |
+|  | 8 | 13 | 24 | 8 | 10,7 | 206 | 28 | 11:20 |
+|  | 7 | 12 | 22 | 7 | 10,8 | 204 | 27 | 11:40 |
+|  | 6 | 11 | 20 | 6 | 10,9 | 202 | 26 | 12:00 |
+|  | 5 | 10 | 17 | 5 | 11 | 200 | 25 | 12:20 |
+|  | 4 | 9 | 15 | 4 | 11,1 | 198 | 24 | 12:40 |
+|  | 3 | 8 | 13 | 3 | 11,2 | 196 | 23 | 13:00 |
+|  | 2 | 7 | 11 | 2 | 11,3 | 194 | 22 | 13:30 |
+|  | 1 | 6 | 9 | 1 | 11,4 | 192 | 21 | 14:00 |
+
+*Tárgyévben betöltött
+
+III. korcsoport (36–45 év között)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 25 | 60 | 20 | 9,5 | 230 | 40 | 8:30 |
+|  | 24 | 24 | 57 |  | 9,6 | 228 | 39 | 8:36 |
+|  | 23 | 23 | 54 | 19 | 9,7 | 226 | 38 | 8:42 |
+|  | 22 | 22 | 51 |  | 9,8 | 224 | 37 | 8:48 |
+|  | 21 | 21 | 49 | 18 | 9,9 | 222 | 36 | 8:51 |
+|  | 20 | 20 | 47 |  | 10 | 220 | 35 | 9:00 |
+|  | 19 | 19 | 45 | 17 | 10,1 | 218 | 34 | 9:10 |
+|  | 18 | 18 | 43 |  | 10,2 | 216 | 33 | 9:20 |
+|  | 17 | 17 | 41 | 16 | 10,3 | 214 | 32 | 9:30 |
+|  | 16 | 16 | 39 |  | 10,4 | 212 | 31 | 9:45 |
+|  | 15 | 15 | 35 | 15 | 10,5 | 210 | 30 | 10:00 |
+|  | 14 | 14 | 32 | 14 | 10,6 | 208 | 29 | 10:15 |
+|  | 13 | 13 | 28 | 13 | 10,7 | 206 | 28 | 10:30 |
+|  | 12 | 12 | 27 | 12 | 10,8 | 204 | 27 | 10:45 |
+|  | 11 | 11 | 25 | 11 | 10,9 | 202 | 26 | 11:00 |
+|  | 10 | 10 | 23 | 10 | 11 | 200 | 25 | 11:15 |
+|  | 9 | 9 | 21 | 9 | 11,1 | 198 | 24 | 11:30 |
+|  | 8 | 8 | 19 | 8 | 11,2 | 196 | 23 | 11:45 |
+|  | 7 | 7 | 17 | 7 | 11,3 | 195 | 22 | 12:00 |
+|  | 6 | 6 | 15 | 6 | 11,4 | 194 | 21 | 12:15 |
+|  | 5 | 5 | 12 | 5 | 11,5 | 193 | 20 | 12:30 |
+|  | 4 | 4 | 10 | 4 | 11,6 | 192 | 19 | 13:00 |
+|  | 3 | 3 | 8 | 3 | 11,7 | 191 | 18 | 13:30 |
+|  | 2 | 2 | 6 | 2 | 11,8 | 190 | 17 | 14:00 |
+|  | 1 | 1 | 4 | 1 | 11,9 | 189 | 16 | 14:30 |
+
+*Tárgyévben betöltött
+
+IV. korcsoport (46–50 év között)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 20 | 40 | 16 | 11 | 215 | 35 | 9:30 |
+|  | 24 | 19 | 37 |  | 11,2 | 213 | 34 | 9:36 |
+|  | 23 |  | 35 | 15 | 11,4 | 211 | 33 | 9:42 |
+|  | 22 | 18 | 33 |  | 11,6 | 209 | 32 | 9:48 |
+|  | 21 | 17 | 31 | 14 | 11,8 | 207 | 31 | 9:54 |
+|  | 20 | 16 | 29 |  | 11,9 | 205 | 30 | 10:00 |
+|  | 19 | 15 | 27 | 13 | 12 | 203 | 29 | 10:10 |
+|  | 18 |  | 25 |  | 12,2 | 200 | 28 | 10:20 |
+|  | 17 | 14 | 23 | 12 | 12,3 | 199 | 27 | 10:30 |
+|  | 16 | 13 | 21 |  | 12,4 | 198 | 26 | 10:38 |
+|  | 15 | 12 | 19 | 11 | 12,5 | 197 | 25 | 10:46 |
+|  | 14 |  | 18 |  | 12,6 | 196 | 24 | 10:54 |
+|  | 13 | 11 | 17 | 10 | 12,7 | 195 | 23 | 11:02 |
+|  | 12 |  | 16 |  | 12,8 | 194 | 22 | 11:10 |
+|  | 11 | 10 | 15 | 9 | 12,9 | 193 | 21 | 11:18 |
+|  | 10 |  | 14 |  | 13 | 192 | 20 | 11:26 |
+|  | 9 | 9 | 13 | 8 | 13,2 | 191 | 19 | 11:34 |
+|  | 8 | 8 | 12 |  | 13,3 | 190 | 18 | 11:50 |
+|  | 7 | 7 | 11 | 7 | 13,4 | 189 | 17 | 12:10 |
+|  | 6 | 6 | 10 | 6 | 13,5 | 188 | 16 | 12:30 |
+|  | 5 | 5 | 9 | 5 | 13,6 | 187 | 15 | 13:00 |
+|  | 4 | 4 | 8 | 4 | 13,7 | 186 | 14 | 13:30 |
+|  | 3 | 3 | 7 | 3 | 13,8 | 185 | 13 | 14:00 |
+|  | 2 | 2 | 5 | 2 | 13,9 | 184 | 12 | 14:30 |
+|  | 1 | 1 | 4 | 1 | 14 | 183 | 11 | 15:00 |
+
+*Tárgyévben betöltött
+
+V. korcsoport (51–55 év között)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 15 | 35 | 12 | 12 | 2,00 | 30 | 10:30 |
+|  | 24 |  | 34 |  | 12,2 |  | 29 | 10:36 |
+|  | 23 | 14 | 32 | 11 | 12,4 |  | 28 | 10:42 |
+|  | 22 |  | 30 |  | 12,6 | 195 | 27 | 10:48 |
+|  | 21 | 13 | 28 | 10 | 12,8 |  | 26 | 10:54 |
+|  | 20 |  | 26 |  | 13 |  | 25 | 11:00 |
+|  | 19 | 12 | 24 | 9 | 13,2 | 190 | 24 | 11:10 |
+|  | 18 |  | 20 |  | 13,4 |  | 23 | 11:20 |
+|  | 17 | 11 | 18 | 8 | 13,6 |  | 22 | 11:30 |
+|  | 16 |  | 17 |  | 13,8 | 185 | 21 | 11:38 |
+|  | 15 | 10 | 16 | 7 | 14 |  | 20 | 11:46 |
+|  | 14 |  | 15 |  | 14,2 |  | 19 | 11:54 |
+|  | 13 | 9 | 14 | 6 | 14,4 | 180 | 18 | 12:02 |
+|  | 12 |  | 13 |  | 14,6 |  | 17 | 12:10 |
+|  | 11 | 8 | 12 | 5 | 14,8 |  | 16 | 12:18 |
+|  | 10 |  | 11 |  | 15 | 175 | 15 | 12:26 |
+|  | 9 | 7 | 10 | 4 | 15,2 |  | 14 | 12:34 |
+|  | 8 |  | 9 |  | 15,4 |  | 13 | 12:50 |
+|  | 7 | 6 | 8 |  | 15,6 | 170 | 12 | 13:05 |
+|  | 6 |  | 7 | 3 | 15,8 |  | 11 | 13:20 |
+|  | 5 | 5 | 6 |  | 16 |  | 10 | 13:40 |
+|  | 4 | 4 | 5 |  | 16,2 | 165 | 9 | 14:00 |
+|  | 3 | 3 | 4 | 2 | 16,4 |  | 8 | 14:20 |
+|  | 2 | 2 | 3 |  | 16,6 |  | 7 | 14:40 |
+|  | 1 | 1 | 2 | 1 | 16,8 | 160 | 6 | 15:00 |
+
+*Tárgyévben betöltött
+
+VI. korcsoport (56 éves kortól)*
+
+|  | Pont | Fekvőtámaszban karhajlítás-nyújtás | Hajlított karú függés időre mp | Fekvenyomás | 4x10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es futás (perc) |
+|---|---|---|---|---|---|---|---|---|
+|  | 25 | 10 | 25 | 8 | 13:5 | 190 | 20 | 12:30 |
+|  | 24 |  |  |  | 13:7 |  |  | 12:36 |
+|  | 23 |  | 24 |  | 13:9 |  | 19 | 12:42 |
+|  | 22 | 9 |  | 7 | 14:1 | 180 |  | 12:48 |
+|  | 21 |  | 23 |  | 14:3 |  | 18 | 12:54 |
+|  | 20 |  |  |  | 14:5 |  | 17 | 13:00 |
+|  | 19 | 8 | 21 | 6 | 14:7 | 170 | 16 | 13:10 |
+|  | 18 |  |  |  | 14:9 |  | 15 | 13:20 |
+|  | 17 |  | 19 |  | 15:1 |  | 14 | 13:30 |
+|  | 16 | 7 |  | 5 | 15:3 | 160 | 13 | 13:38 |
+|  | 15 |  | 17 |  | 15:5 |  | 12 | 13:46 |
+|  | 14 |  |  |  | 15:7 |  | 11 | 13:54 |
+|  | 13 | 6 | 15 | 4 | 15:9 | 150 | 10 | 14:02 |
+|  | 12 |  |  |  | 16:1 |  | 9 | 14:10 |
+|  | 11 |  | 13 |  | 16:3 |  | 8 | 14:18 |
+|  | 10 | 5 |  | 3 | 16:5 | 140 | 7 | 14:26 |
+|  | 9 |  | 11 |  | 16:7 |  | 6 | 15:34 |
+|  | 8 |  |  |  | 16:9 |  | 5 | 15:50 |
+|  | 7 | 4 | 9 |  | 17:1 | 135 | 4 | 15:05 |
+|  | 6 |  |  | 2 | 17:3 |  | 3 | 15:20 |
+|  | 5 |  | 7 |  | 17:5 |  |  | 15:40 |
+|  | 4 | 3 |  |  | 17:7 | 130 |  | 16:00 |
+|  | 3 |  | 5 |  | 17:9 |  | 2 | 16:20 |
+|  | 2 | 2 | 3 |  | 18:1 |  |  | 16:40 |
+|  | 1 | 1 | 1 | 1 | 18:3 | 125 | 1 | 17:00 |
+
+*Tárgyévben betöltött
+
+## 6. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^166]
+
+***Nukleáris létesítményben alkalmazott programozható rendszerek tervezésére, létesítésére, módosítására vonatkozó védelmi követelmények***
+
+1\. A programozható rendszerek tervezése során el kell készíteni a programozható rendszerek védelmi zónamodelljét. A programozható rendszereket, azok nukleáris biztonsági funkciója, fizikai védelmi funkciója, nukleáris biztosítéki funkciója, radioaktív anyag nyilvántartási funkciója rendelkezésre állási fontossága és a bennük tárolt adatok és információk bizalmassága szerint védelmi zónákba kell sorolni. A különböző zónákhoz a fontosság szerint eltérő védelmi követelményeket kell meghatározni.
+
+2\. A zónamodellt a 20. § (2) bekezdés szerinti tervben kell szerepeltetni. Be kell mutatni a programozható rendszerek védelmi zónák, a nukleáris biztonsági osztályok és a fizikai védelmi zónák illesztettségét.
+
+3\. Programozható rendszerek védelmére tervet kell készíteni az ember okozta szándékos vagy szándékolatlan károkozás megelőzését, észlelését, a téves működések vagy meghibásodások negatív hatásainak korlátozását és a biztonságos üzemeltetés helyreállítását szolgáló előírásokkal.
+
+4\. A programozható rendszerek védelmi tervében meg kell határozni mindazokat a műszaki, és adminisztratív védelmi intézkedéseket, amelyek alkalmazása biztosítja a programozható rendszerek védelmét a szándékolatlan károkozás és a tervezési alapfenyegetettségben meghatározott kibertámadásokkal szemben.
+
+5\. A programozható rendszerek védelmi tervének meg kell alapoznia és fenn kell tartania a mélységi védelem stratégiáját, hogy minden esetben biztosított legyen a szándékolatlan károkozások vagy a tervezési alapfenyegetettségben meghatározott kibertámadások mielőbbi érzékelése, kezelése és a normál működés helyreállítása.
+
+6\. A programozható rendszerek védelmi tervének tartalmaznia kell mindazon eljárásokat és intézkedéseket, amelyeket a szándékolatlan károkozások vagy a tervezési alapfenyegetettségben meghatározott kibertámadások felismerésére, kezelésére és elhárítására alakítottak ki. A tervben le kell írni, hogy hogyan kerülnek biztosításra a következők:
+
+6.1. a szándékolatlan károkozások vagy a kibertámadások időben történő felismerése és kezelése,
+
+6.2. a szándékolatlan károkozások vagy a kibertámadások következményeinek csökkentése,
+
+6.3. a programozható rendszerek sérülékenységének időben történő kijavítása és
+
+6.4. a szándékolatlan károkozások vagy a kibertámadások által érintett programozható rendszerek, hálózatok és eszközök normál működésének helyreállítása.
+
+7\. A programozható rendszerek védelmi tervének legalább az alábbiakra kell kitérnie:
+
+7.1. fizikai és logikai hozzáférések kontrollálása,
+
+7.2. konfigurációkezelés,
+
+7.3. azonosító- és jelszókezelés,
+
+7.4. jogosultságkezelés,
+
+7.5. biztonsági javítások és szoftverfrissítések kezelése,
+
+7.6. hordozható eszközök és mobil adathordozók használata,
+
+7.7. vezeték nélküli készülékek és hálózatok,
+
+7.8. távoli hozzáférés, adminisztrálás és karbantartás,
+
+7.9. eseménykezelés, incidenskezelés, mentés és helyreállítás,
+
+7.10. a fenyegetettségek és sérülékenységek felderítésére, elemzésére, dokumentálására és ezek kezelésére vonatkozó eljárások, valamint
+
+7.11. rendszeres auditok és felülvizsgálatok.
+
+8\. Felülvizsgálatot kell tartani a programozható rendszerek életciklusának valamennyi fázisában a potenciális sérülékenységek azonosítására. Az üzemeltetési fázisban ezeket a felülvizsgálatokat rendszeresen el kell végezni.
+
+9\. A programozható rendszerekre kockázatelemzést kell készíteni az OAH általi jóváhagyás céljából
+
+9.1. a létesítési engedélykérelem részeként,
+
+9.2. az üzemeltetési engedélykérelem részeként,
+
+9.3. az üzemeltetési engedélyben előírt gyakorisággal, és
+
+9.4. az OAH felhívására.
+
+10\. A programozható rendszereket úgy kell tervezni, létesíteni és üzemeltetni, hogy a mélységi védelem egymást követő vonalai biztosítsák a tervezett funkcionalitás megváltoztatására alkalmas szándékolatlan vagy szándékos beavatkozások elleni hatékony védelmet. A mélységi védelem megvalósításának igazolására elemzést kell készíteni.
+
+11\. Diverzitás alkalmazása a nukleáris biztonság és a fizikai védelem szempontjából is fontos. A kibertámadás szempontjából két programozható rendszer akkor tekinthető diverznek, ha informatikai szempontból elkülönülnek.
+
+12\. A programozható rendszerekkel kapcsolatos üzemeltetési és karbantartási műveletek eljárásait tartalmazó dokumentumban be kell mutatni a programozható rendszerek védelmi elvárásait is.
+
+13\. Biztosítani kell, hogy a programozható rendszerek életciklusa (tervezés, kivitelezés, üzemeltetés, karbantartás) során folyamatosan igazolt legyen, hogy a tárgyi rendszerek és rendszerelemek mentesek a szükségtelen hozzáférési lehetőségektől, nyitott portoktól.
+
+14\. A programozható rendszerek biztonsági frissítésére vonatkozó eljárásrend a teljes életciklusban álljon rendelkezésre.
+
+15\. A nukleáris létesítményben végrehajtott, programozható rendszereket érintő átalakításokhoz a programozható rendszerek védelmére vonatkozó kockázatelemzést kell készíteni.
+
+16\. A programozható rendszereket érintő bármilyen módosítás esetében a fejlesztésre és az átalakításra vonatkozó előírásokat alkalmazni kell. A programozható rendszerkomponensek funkcióinak, konfigurációjának vagy működésének megváltoztatása, módosítása vagy átalakítása - a hozzájuk kapcsolódó eredeti dokumentumokkal vagy termékekkel együtt - csak a megfelelő verifikálási, validálási, jóváhagyási vagy engedélyezési eljárás végrehajtásával történhet.
+
+17\. A programozható rendszerek védelmi követelményeinek való megfelelést konfigurációkezelés keretében kell fenntartani.
+
+18\. A programozható rendszerek működőképességét és funkcionalitását hatékonyan meg kell védeni a nagyon gyors elektromágneses impulzusok ellen. Az engedélyesnek be kell mutatni, hogy milyen kiegészítő intézkedésekkel elégíti ki ezt a követelményt.
+
+## 7. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^167]
+
+---
+
+[^1]: Az 1. § (1) bekezdés e) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés f) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés g) pontját a 217/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdés d) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés e) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^7]: Az 1. § (4) bekezdés a) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 27/2018. (II. 28.) Korm. rendelet 4. § a) pontja, a 209/2022. (VI. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (4) bekezdés b) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (4) bekezdés c) pontja a 27/2018. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. § (1) bekezdés 4a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés 12a. pontját a 37/2012. (III. 9.) Korm. rendelet 14. §-a iktatta be.
+[^12]: A 2. § (1) bekezdés 14. pontja a 217/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 2. § (1) bekezdés 17a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés 22a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés 22b. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^16]: A 2. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^17]: A 3. alcím (3. §) a 217/2013. (VI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 3. § (2) bekezdése a 183/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 3. § (5) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^20]: A 4. § (5) bekezdését a 37/2012. (III. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^21]: A 6. § (2) bekezdése a 37/2012. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^22]: A 6. § (3) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 7. § (4) bekezdés b) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^24]: A 7. § (5) bekezdés a) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
+[^25]: A 9. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^26]: A 10. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^27]: A 10. § (5) bekezdése a 37/2012. (III. 9.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^28]: A 10. § (7) bekezdését a 37/2012. (III. 9.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^29]: A 11. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^30]: A 12. § (2) bekezdés záró szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
+[^31]: A 12. § (4) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^32]: A 12. § (5) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^33]: A 13. § a 36/2020. (III. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^34]: A 15. § a 36/2020. (III. 5.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^35]: A 17. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^36]: A 17. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
+[^37]: Az 17. § (8) bekezdését a 27/2018. (II. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^38]: A 18. § (3) bekezdése a 217/2013. (VI. 21.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^39]: A 19. § (5) bekezdését a 357/2014. (XII. 29.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^40]: A 20. alcím címe a 357/2014. (XII. 29.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^41]: A 20. § a 357/2014. (XII. 29.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^42]: A 20. § (1) bekezdés nyitó szövegrésze a 488/2015. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^43]: A 21. § (2) bekezdése a 36/2020. (III. 5.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^44]: A 21. § (3) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^45]: A 21. § (4) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^46]: A 21. § (5) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^47]: A 21. § (6) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^48]: A 22. § b) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^49]: A 24. § d) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^50]: A 27. § a 217/2013. (VI. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^51]: A 29. § (3) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
+[^52]: A 29. § (4) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
+[^53]: A 29. § (5) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^54]: A 32. § (1) bekezdés c) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^55]: A 32. § (1) bekezdés d) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 32. § (1a) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^57]: A 32. § (1b)–(1c) bekezdését a 207/2015. (VII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^58]: A 32. § (2) bekezdése a 217/2013. (VI. 21.) Korm. rendelet 6. §-ával megállapított, a 27/2018. (II. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^59]: A 32. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^60]: A 32. § (6a) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^61]: A 32. § (8) bekezdése a 183/2026. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^62]: A 32. § (9) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^63]: A 32/A. §-t a 217/2013. (VI. 21.) Korm. rendelet 7. §-a iktatta be.
+[^64]: A 32/B. §-t a 357/2014. (XII. 29.) Korm. rendelet 4. § (9) bekezdése iktatta be.
+[^65]: A 32/C. §-t a 423/2021. (VII. 15.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^66]: A 33. § (4) bekezdé g) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (7) bekezdése hatályon kívül helyezte.
+[^67]: A 34. § (4a) bekezdését a 37/2012. (III. 9.) Korm. rendelet 18. §-a iktatta be.
+[^68]: A 34. § (6) bekezdése a 36/2020. (III. 5.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^69]: A VIII. fejezet címe a 488/2015. (XII. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^70]: A 35. § (2) bekezdése a 37/2012. (III. 9.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^71]: A 35. § (2) bekezdés a) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés b) pontja, a 209/2022. (VI. 15.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^72]: A 35. § (2) bekezdés d) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^73]: A 35. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^74]: A 35. § (5) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (8) bekezdésével megállapított, a 209/2022. (VI. 15.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^75]: A 35. § (6) bekezdését a 357/2014. (XII. 29.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte a a 488/2015. (XII. 30.) Korm. rendelet 6. § b) pontja.
+[^76]: A 35. § (7) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (9) bekezdése iktatta be.
+[^77]: A 35. § (8) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (9) bekezdése iktatta be, szövege a 36/2020. (III. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^78]: A 35. § (9) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (9) bekezdése iktatta be.
+[^79]: A 35. § (10) bekezdését a 36/2020. (III. 5.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^80]: A 37/A. §-t a 37/2012. (III. 9.) Korm. rendelet 20. §-a iktatta be.
+[^81]: A 37/B. §-t a 357/2014. (XII. 29.) Korm. rendelet 4. § (11) bekezdése iktatta be.
+[^82]: A hatálybalépés időpontja 2015. január 1.
+[^83]: A hatálybalépés időpontja 2015. január 1.
+[^84]: A hatálybalépés időpontja 2015. január 1.
+[^85]: A hatálybalépés időpontja 2015. január 1.
+[^86]: A hatálybalépés időpontja 2015. január 1.
+[^87]: A 38. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 342. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^88]: A 41/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^89]: A hatálybalépés napja: 2014. május 1.
+[^90]: A hatálybalépés napja: 2014. május 1.
+[^91]: A 35. § (10) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (10) bekezdése iktatta be.
+[^92]: A hatálybalépés időpontja 2016. január 1.
+[^93]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 27/2018. (II. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^95]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^96]: A 2. melléklet 12.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^97]: A 2. melléklet 14.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^98]: A 2. melléklet 26. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^99]: A 2. melléklet 27. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^100]: A 2. melléklet 38. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
+[^101]: A 2. melléklet 52. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 6. pontja szerint módosított szöveg.
+[^102]: A 2. melléklet 58. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
+[^103]: A 2. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^104]: A 3. melléklet 1. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^105]: A 3. melléklet 3. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^106]: A 3. melléklet 4. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^107]: A 3. melléklet 5. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 9. pontja szerint módosított szöveg.
+[^108]: [A 3. melléklet 8.1. pontjában a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontjával elrendelt módosítás, amely szerint a „felületvédelem” szövegrész helyébe a „héjvédelem” szöveg lép, nem vezethető át.]
+[^109]: A 3. melléklet 11. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^110]: A 3. melléklet 15. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^111]: A 3. melléklet 22. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^112]: A 3. melléklet 8. Védettségi ellenőrzések cím 24. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^113]: A 3. melléklet 26. pontja a 27/2018. (II. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^114]: A 3. melléklet 33.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^115]: A 3. melléklet 34.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^116]: A 3. melléklet 37.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^117]: A 3. melléklet 37. pont 37.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
+[^118]: A 3. melléklet 41.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^119]: A 3. melléklet 41. pont 41.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^120]: A 3. melléklet 42.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^121]: A 3. melléklet 45. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^122]: A 3. melléklet 12. Megfigyelő rendszer cím 48. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^123]: A 3. melléklet 49. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^124]: A 3. melléklet 52. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^125]: A 3. melléklet 14. alcím címe a 37/2012. (III. 9.) Korm. rendelet 22. § 15. pontjával megállapított szöveg.
+[^126]: A 3. melléklet 58. pont 58.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^127]: A 3. melléklet 58. pont 58.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^128]: A 3. melléklet 58. pont 58.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
+[^129]: A 3. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 18. pontja szerint módosított szöveg.
+[^130]: A 3. melléklet 60. pont 60.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^131]: A 3. melléklet 60. pont 60.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^132]: A 3. melléklet 60. pont 60.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^133]: A 3. melléklet 62. pont 62.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^134]: A 3. melléklet 62. pont 62.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^135]: A 3. melléklet 62. pont 62.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^136]: A 3. melléklet 15. alcíme a 37/2012. (III. 9.) Korm. rendelet 22. § 19. pontjával megállapított szöveg.
+[^137]: A 3. melléklet 63. pont 63.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
+[^138]: A 3. melléklet 64. pont 64.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 21. pontja szerint módosított szöveg.
+[^139]: A 3. melléklet 64. pont 64.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
+[^140]: A 3. melléklet 65. pont 65.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^141]: A 3. melléklet 67. pont 67.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
+[^142]: A 3. melléklet 68. pont 68.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
+[^143]: A 3. melléklet 69. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 23. pontja szerint módosított szöveg.
+[^144]: A 3. melléklet 73. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^145]: A 4. melléklet 1.1. pont 1.1.2. alpontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^146]: A 4. melléklet 1.1. pont 1.1.3. alpontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^147]: A 4. melléklet 1.2. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^148]: A 4. melléklet 1.3. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^149]: A 4. melléklet 1.4. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^150]: A 4. melléklet 1.5. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^151]: A 4. melléklet 1.6. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^152]: A 4. melléklet 1.7. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^153]: A 4. melléklet 1.8. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^154]: A 4. melléklet 1.9. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^155]: A 4. melléklet 1.10. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^156]: A 4. melléklet 1.11. pontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^157]: A 4. melléklet 1.12. pontját a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^158]: A 4. melléklet 1.13. pontját a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^159]: A 4. melléklet 1.14. pontját a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^160]: A 4. melléklet 2. pont 2.3. alpontja a 36/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^161]: A 4. melléklet 2. pont 2.9. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^162]: A 4. melléklet 2. pont 2.11. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.
+[^163]: A 4. melléklet 2. pont 2.17. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 25. pontjával megállapított szöveg.
+[^164]: A 4. melléklet 3. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (12) bekezdése iktatta be.
+[^165]: Az 5. melléklet a 217/2013. (VI. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^166]: A 6. mellékletet újonnan a 357/2014. (XII. 29.) Korm. rendelet 4. § (13) bekezdése iktatta be.
+[^167]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

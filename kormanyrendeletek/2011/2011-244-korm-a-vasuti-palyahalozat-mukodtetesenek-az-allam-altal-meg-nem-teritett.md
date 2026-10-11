@@ -1,0 +1,113 @@
+---
+title: "244/2011. (XI. 22.) Korm. rendelet a vasúti pályahálózat működtetésének az állam által meg nem térített költségei finanszírozására felvett hitelre és annak ügyleti kamataira történő állami kezességvállalás szabályairól"
+identifier: "244/2011. (XI. 22.) Korm. rendelet"
+njt_id: "2011-244-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/244"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-11-22
+in_force_from: 2011-12-07
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-244-20-22"
+retrieved: 2026-10-12
+---
+
+# 244/2011. (XI. 22.) Korm. rendelet a vasúti pályahálózat működtetésének az állam által meg nem térített költségei finanszírozására felvett hitelre és annak ügyleti kamataira történő állami kezességvállalás szabályairól
+
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés *m)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+Az e rendeletben nem szabályozott kérdések tekintetében az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendeletnek a jogszabályi állami kezességvállalásra vonatkozó rendelkezéseit kell alkalmazni.
+
+## 2. §
+
+(1) Az állami kezességvállalás érdekében a közlekedésért felelős miniszter az államháztartásért felelős miniszterrel együttesen hiteljogviszonyonként a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 28/A. §-a szerint nyújt be előterjesztést a Kormányhoz.
+
+(2) Az európai uniós szabályoknak megfelelő, támogatástartalmat nem, vagy azt az európai uniós támogatási szabályokkal összeegyeztethető módon tartalmazó kezességvállalási díj megállapítása érdekében az előterjesztés benyújtása a hitelnyújtó kiválasztását és a hitelkonstrukció lényeges elemeinek – így különösen: kamatfeltétel, futamidő, visszafizetés ütemezése – meghatározását követően történhet meg.
+
+(3) Amennyiben az állami kezesség alapjául szolgáló szerződéshez kapcsolódóan a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerinti eljárás lefolytatása nem kötelező, akkor a hitelnyújtót nyilvános pályázat útján kell kiválasztani.
+
+(4) Amennyiben a hitelnyújtó kiválasztása során a Kbt. szerinti eljárás lefolytatása kötelező, a Vtv. 28/A. § (5) bekezdése alapján a közreműködő Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) a szerződések és egyéb dokumentumok pénzügyi feltételekre vonatkozó részeit előzetesen véleményezi, továbbá teljes jogú tagként részt vesz a Kbt. szerinti bírálóbizottságban.
+
+(5) A hitelnyújtó (4) bekezdéstől eltérő módon történő kiválasztásakor nyilvános pályázat kiírása esetén az ÁKK Zrt. a kötelezett képviseletében eljárva elvégzi az ajánlatkérés teljes körű lebonyolítását, továbbá pénzügyi szempontból véleményezi a kapcsolódó szerződéseket és egyéb dokumentumokat.
+
+## 3. §
+
+(1) Az előterjesztésben közlekedés-szakmai és pénzügyi szempontból is indokolni kell a vasúti pályahálózat működtetésének az állami költségvetés keretein kívüli finanszírozása szükségességét.
+
+(2) Az előterjesztés a közlekedés-szakmai szempontok közül legalább a következőket tartalmazza:
+
+a)[^1] annak feltüntetését, hogy a kötelezett rendelkezik-e a Vtv. 28. §-a szerinti, az állammal kötött hatályos pályaműködtetési szerződéssel,
+
+b) annak feltüntetését, hogy a kötelezett eleget tesz-e a pályaműködtetési szerződésből eredő kötelezettségeinek,
+
+c) a forrásbevonással elérni kívánt cél bemutatását, a cél elérésének lehetséges ellenőrzési pontjait, valamint
+
+d) a forrásbevonás elmaradása esetén lehetséges alternatívákat, hatásokat.
+
+(3) Az előterjesztésben legalább a következő pénzügyi szempontokat be kell mutatni:
+
+a) az állami készfizető kezességvállalás mellett felvehető hitel összegét (forintban, más deviza alapú hitelfelvétel esetében annak devizanemében is),
+
+b) a hitelkonstrukció lényeges elemeit, így különösen a tervezett futamidőt, a visszafizetés tervezett ütemezését, a tervezett kamatfeltételeket,
+
+c) javaslatot a kezességvállalási díj mértékére és annak indokolását,
+
+d)[^2] az európai uniós források felhasználásáért felelős miniszternek az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját,
+
+e) a hitelvisszafizetés valószínűségének és forrásának bemutatását, valamint a kezesség beváltásának valószínűségéről szóló tájékoztatást,
+
+f) a hitelfelvétel, továbbá a hiteltörlesztés forrása biztosításának költségvetési, valamint az államháztartásról szóló törvény szerinti maastrichti adósságmutatóra és maastrichti elsődleges egyenlegmutatóra gyakorolt várható hatását,
+
+g)[^3] az állammal kötött hatályos pályaműködtetési szerződés alapján az állam által indokoltnak elismert költségek megtérítési összegét az adott évben,
+
+h) annak bemutatását, hogy miért nem került sor az állam által indokoltnak elismert költségek részben vagy egészben történő megtérítésére,
+
+i) a finanszírozás költségeinek bemutatását és összehasonlítását a hasonló futamidejű magyar államkötvény hozamával, amennyiben ilyen nincs, akkor a főbb kondíciókban (futamidő, devizanem, kamatozás módja) egyező finanszírozás költségével, továbbá
+
+j) a kötelezett pénzügyi helyzetére vonatkozó, (4) bekezdés szerinti adatokat.
+
+(4) A kötelezett pénzügyi helyzetével kapcsolatos adatok a következők:
+
+a) a kötelezettnek a hitel futamidejére tervezett eredmény- és mérlegadatai,
+
+b) a kötelezett adósságszolgálati fedezeti rátája,
+
+c) a kötelezettnél az utolsó lezárt üzleti év végén fennálló, hitelviszonyon alapuló tartozások állománya, külön bemutatva az állami kezesség melletti állományokat, valamint
+
+d) a kötelezett javára az előző 5 évben történt állami kezességvállalás tényéről és körülményeiről szóló tájékoztatás.
+
+## 4. §
+
+A kezességvállalási díj megfizetésének idejéről és módjáról – a Kormány határozatában foglaltaknak megfelelő tartalommal – a kötelezettel kötött szerződésben az államháztartásért felelős miniszter állapodik meg.
+
+## 5. §
+
+A kötelezett
+
+a) a hitelszerződés megkötéséről – az abban általa vállalt visszafizetési és járulékfizetési kötelezettség mértékének, esedékességének megjelölésével –, továbbá
+
+b) a hiteljogviszony megszűnéséről – a megszűnés okának megjelölésével – a megkötést, valamint a megszűnést követő 15 naptári napon belül tájékoztatja a közlekedésért felelős minisztert és az államháztartásért felelős minisztert.
+
+## 6. §
+
+(1) A hitelnyújtó a fizetési kötelezettség esedékességét követően köteles írásban
+
+a) felszólítani a hitelfelvevőt a teljesítésre, és
+
+b) tájékoztatni a közlekedésért felelős minisztert és az államháztartásért felelős minisztert a fizetés teljesítésének elmaradásáról.
+
+(2) A hitelnyújtó az (1) bekezdés szerinti kötelezettségeinek teljesítését követő 30. naptól érvényesítheti az állami kezességet.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+---
+
+[^1]: A 3. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 581. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 72. §-a, a 221/2014. (IX. 4.) Korm. rendelet 581. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 581. § a) pontja szerint módosított szöveg.

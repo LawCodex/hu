@@ -1,0 +1,313 @@
+---
+title: "379/2015. (XII. 8.) Korm. rendelet Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról"
+identifier: "379/2015. (XII. 8.) Korm. rendelet"
+njt_id: "2015-379-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/379"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-08
+in_force_from: 2016-01-01
+last_amended: 2024-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-379-20-22"
+retrieved: 2026-10-12
+---
+
+# 379/2015. (XII. 8.) Korm. rendelet Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról
+
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés g) és j) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Nemzeti Települési Szennyvíz-elvezetési és -tisztítási Megvalósítási Programról szóló 25/2002. (II. 27.) Korm. rendelettel (a továbbiakban: Korm. rendelet) összhangban, a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 4. § (2) bekezdés b), c) és d) pontjában meghatározott kötelező önkormányzati feladat ellátása, valamint a 2000 lakosegyenérték (a továbbiakban: LE) alatti szennyezőanyag-terheléssel jellemezhető települések szennyvízelvezető és -tisztító rendszereinek környezetvédelmi, műszaki és gazdasági szempontból megfelelő kialakítása érdekében a szennyvízelvezetési agglomeráció lehatárolásának és a Településsoros Jegyzék adatszolgáltatásának, nyilvántartásának, valamint a Tájékoztató Jegyzék közzétételének e rendelettel előírt szabályait kell alkalmazni.
+
+## 2. §
+
+(1) A szennyvíz-elvezetési agglomerációk lehatárolását az 1. mellékletben meghatározott szempontok alapján kell elvégezni és igazolni mind a településeken belüli hálózat, mind a térségi rendszerek kialakításának gazdaságosságát, illetve az egyedi vagy egyéb megoldások indokoltságát.
+
+(2) A szennyvíz-elvezetési agglomeráció központja az a település, amelynek a közigazgatási területén található a szennyvíztisztító telep.
+
+(3) Az 1. melléklet 1.2. pontjának alkalmazása során a szennyvíztörzshálózat szükségességének megítélése szempontjából a rendszer méretét és kapacitását, a beérkező települési szennyvíz mennyiségének és jellemzőinek függvényében kell figyelembe venni.
+
+(4) A szabad szennyvíztisztító telepi kapacitások kihasználására törekedni kell. Szabad szennyvíztisztító telepi kapacitások igénybevételére vonatkozó döntéshozatal során az 1. melléklet 4. és 5. pontjában foglalt környezetvédelmi, műszaki, gazdaságossági szempontokat és követelményeket kell mérlegelni.
+
+## 3. §
+
+(1)[^1] A 2000 LE feletti szennyvízterheléssel jellemezhető agglomerációkat a Korm. rendelet 1. mellékletében meghatározott Nemzeti Települési Szennyvíz-elvezetési és -tisztítási Megvalósítási Program (a továbbiakban: Program) tartalmazza.
+
+(2) A Program szennyvíz-elvezetési agglomerációs jegyzékének tervezési alegysége a szennyvíz-elvezetési agglomeráció.
+
+(3) A kijelölt szennyvíz-elvezetési agglomerációk szükség szerinti módosítását a Vgtv. 7/A. § (5) bekezdésének megfelelően kétévenként, az 5. § (5) bekezdés szerinti eljárás során elfogadott kérelmek figyelembevételével kell felülvizsgálni.
+
+(4)[^2] A vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) az állami beruházásokért felelős miniszterrel együttműködve, a (3) bekezdés szerinti felülvizsgálat során előkészíti a Kormány számára a Korm. rendelet 1. mellékletében szereplő szennyvíz-elvezetési agglomerációs jegyzék módosítását.
+
+## 4. §
+
+(1)[^3] Magyarország valamennyi településére vonatkozóan a szennyvízelvezetéssel és -tisztítással, az egyedi szennyvíztisztító berendezéssel, az egyedi zárt szennyvíztárolóval, a tisztítómezővel ellátott oldómedencés létesítménnyel (együttesen: egyedi szennyvíztisztító létesítmény), valamint a szennyvíziszappal kapcsolatos adatokat – a 2. mellékletben meghatározott adatszolgáltatás szerinti tartalommal – Településsoros Jegyzékben (a továbbiakban: Településsoros Jegyzék) kell nyilvántartani.
+
+(2) A Településsoros Jegyzék tervezési alegysége a település.
+
+(3) A Településsoros Jegyzéknek ki kell térnie arra, ha egy településen belül több szennyvíztisztító telep található. Ebben az esetben a településre vonatkozóan a szennyvíztisztító telepek számával megegyező számú adatszolgáltatást kell teljesíteni a 6. §-ban foglaltak szerint.
+
+## 5. §[^4]
+
+(1) A települések a Korm. rendelet 1. mellékletében meghatározottól eltérő szennyvíz-elvezetési agglomerációt is kialakíthatnak, feltéve, hogy az 1. melléklet szerinti szempontok és módszertan alapján az eltérés indokolt, valamint ha az eltérés költséghatékonyabb megvalósíthatósága és működtetése gazdasági elemzéssel és üzemeltetői javaslattal alátámasztott.
+
+(2) A szennyvíz-elvezetési agglomeráció kijelölésének 3. § (3) bekezdése szerinti felülvizsgálata az 1. mellékletben meghatározott szempontok és módszertan szerint elvégzett számítás és vizsgálatok alapján készített felülvizsgálati dokumentáció csatolásával az érintett önkormányzat vagy önkormányzatok által – a szennyvíz-elvezetési agglomeráció központját is megnevező szándéknyilatkozatok mellékelésével – a működési területével érintett vízügyi igazgatóságnál kérhető. Már meglévő szennyvíztisztító telephez történő csatlakozás, illetve agglomerációs átsorolási kérelem esetén – a települési szennyvíztisztító telep víziközmű üzemeltetőjétől – a felülvizsgálati dokumentációra alapozott, a kérelmet támogató üzemeltetői nyilatkozat csatolása is szükséges. Az eljárás során a tervezőnek nyilatkoznia kell arról, hogy a fejlesztési igényt kérelmező települések érintettek-e a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelvben (a továbbiakban: Irányelv) megfogalmazott kiépítési kötelezettséggel.
+
+(3) A működési területével érintett vízügyi igazgatóság a szennyvíz-elvezetési agglomeráció lehatárolásának felülvizsgálatára vonatkozó szakmai véleményét az illetékes Területi Vízgazdálkodási Tanács (a továbbiakban: TVT) illetékes szakmai bizottságának állásfoglalására figyelemmel alakítja ki. A kérelmező település szennyvíz-elvezető rendszer kiépítési kötelezettségére vonatkozó tervezői nyilatkozatot a TVT szakmai bizottsága a felülvizsgálati eljárás során ellenőrzi.
+
+(4) A TVT illetékes szakmai bizottságának ülésére meghívást kap a Magyar Energetikai és Közmű-szabályozási Hivatal.
+
+(5)[^5] A működési területével érintett vízügyi igazgatóság a (2) bekezdés szerinti kérelmet, annak mellékleteit, valamint – a (2) és (3) bekezdés szerinti esetben – a TVT illetékes szakmai bizottságának állásfoglalását tartalmazó jegyzőkönyvet 30 napon belül, szakmai véleményével ellátva felterjeszti az Országos Vízügyi Főigazgatóságnak (a továbbiakban: OVF). Az OVF a működési területével érintett vízügyi igazgatóság szakmai véleményét figyelembe véve a kérelemmel kapcsolatos szakmai állásfoglalását 15 napon belül felterjeszti a miniszternek.
+
+A miniszter – az állami beruházásokért felelős miniszterrel történt egyeztetést követően – a kérelemben szereplő, az OVF által támogatott fejlesztési igényt nyilvántartásba veszi, ha az az Irányelv hatálya alá tartozik vagy a (2) bekezdés szerinti kiépítési kötelezettséget érint. A nyilvántartásba vételről szóló értesítést az OVF a működési területével érintett vízügyi igazgatóságon keresztül továbbítja a kérelmező részére.
+
+(6)[^6] A miniszter a tárgyévet követő év november 15-ig gondoskodik a nyilvántartásba vett önkormányzati fejlesztési igények elektronikus közzétételéről.
+
+(7)[^7] A nyilvántartásba vett fejlesztési igények finanszírozási forrásának hiánya esetén a miniszter és az állami beruházásokért felelős miniszter kezdeményezésére a Kormány a tárgyévet követő év június 30-ig dönt a finanszírozhatóságról.
+
+## 6. §[^8]
+
+(1)[^9] A Településsoros Jegyzék összeállításához és felülvizsgálatához a 2. melléklet szerinti adatszolgáltatást elektronikusan kell teljesíteni a fővárosi és a települési önkormányzatoknak a tárgyév december 31-én fennálló állapotra vonatkozóan, a tárgyévet követő év április 30. napjáig. A teljesítésért a települési önkormányzat jegyzője felelős.
+
+(2) Több települést kiszolgáló térségi rendszer esetén a 2. mellékletben szereplő szennyvíztisztító telepre vonatkozó fejlesztési adatokat az agglomerációs központ települési önkormányzatának jegyzője (a továbbiakban: agglomerációs központ jegyzője) szolgáltatja.
+
+(3) Ha egy település több szennyvízelvezetési agglomerációhoz tartozik, a 2. melléklet szerinti adatokat településrészenként kell megadni.
+
+(4) A működési területével érintett vízügyi igazgatóság a megkapott adatokat összegzi, és a tárgyévet követő év szeptember 1-ig továbbítja az OVF részére.
+
+## 7. §
+
+(1)[^10] Az OVF az adatok alapján elkészíti a Településsoros Jegyzéket, valamint a 3. melléklet szerinti adattartalommal kivonatot készít (a továbbiakban: Tájékoztató Jegyzék) és a tárgyévet követő év október 31-ig megküldi a miniszternek és az állami beruházásokért felelős miniszternek.
+
+(2) A miniszter a tárgyévet követő év november 15-ig gondoskodik a Tájékoztató Jegyzék www.kormany.hu honlapon történő közzétételéről.
+
+(3) A Településsoros Jegyzéket, valamint a Tájékoztató Jegyzéket – az 5. § (5) bekezdése szerinti döntésekre figyelemmel – évente felül kell vizsgálni a 6. § alapján.
+
+(4) A Településsoros Jegyzékben kezelt adatok a Központi Statisztikai Hivatal (a továbbiakban: KSH) részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadhatók és a KSH által statisztikai célra felhasználhatók.
+
+## 8. §
+
+(1) A határon átnyúló szennyvíz-elvezetési agglomeráció kialakítása iránti kérelmet az illetékes Határvízi Bizottság részére kell megküldeni.
+
+(2) A kétoldalú Határvízi Egyezményben foglaltak alapján, az illetékes Határvízi Bizottság szakértők bevonásával, határozattal dönt a szennyvíz-elvezetési agglomerációk kialakításáról, amelyről tájékoztatja az területileg illetékes vízügyi igazgatóságot és az OVF-et.
+
+## 9. §
+
+Ez a rendelet 2016. január 1-jén lép hatályba.
+
+## 10. §
+
+A 6. § (1) bekezdés szerinti adatszolgáltatást első alkalommal a 2015. évre vonatkozóan kell teljesíteni.
+
+## 10/A. §[^11]
+
+E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 195/2017. (VII. 10.) Korm. rendelettel megállapított 6. §-át és 2. mellékletét első alkalommal a 2017. évről történő adatszolgáltatás során kell alkalmazni.
+
+## 10/B. §[^12]
+
+E rendeletnek a vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 288/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 5. §-át, 6. §-át és 1. mellékletét a Módr1. hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 11. §[^14]
+
+Ez a rendelet az Irányelv 3. cikk (1), 4. cikk (1), 5. cikk (2) és (7), 15. cikk (4), valamint a 17. cikk (3) bekezdésének való megfelelést szolgálja.
+
+## 1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^16]
+
+**A települési szennyvízelvezetési agglomeráció lehatárolásának szempontjai és módszertana**
+
+1\. A szennyvíz-elvezetési agglomeráció kialakításának alapvető szempontjai
+
+1.1. A Program része minden 2000 LE (Vgtv. 1. sz. melléklet 15. pont) szennyezőanyag-terhelés feletti település. A Településsoros Jegyzék része Magyarország valamennyi települése. Egy településen belül szennyvízelvezető rendszert csak a gazdaságossági határig kell kiépíteni.
+
+1.2. Ahol a szennyvíztörzshálózatok létrehozása nem indokolt, akár azért, mert az előírt vagy kívánatos környezetvédelmi paraméterek egyéb műszaki megoldással is biztosíthatók, akár azért, mert túlságosan költséges lenne, szennyvíztörzshálózatra vonatkozó környezetvédelmi követelményeknek való megfelelést biztosító egyedi rendszereket vagy más megfelelő rendszereket kell alkalmazni.
+
+1.3. Több település szennyvíz-elvezetési agglomerációt alakíthat ki a 4. és 5. pont szerinti lehatárolási szempontok figyelembevételével. A kapcsolódó települések szennyvíz-elvezetési alrendszereket alkotnak. Amennyiben az így kialakított szennyvíz-elvezetési agglomeráció terhelése eléri a 2000 LE-t, az agglomeráció szennyvízelvezetése és -tisztítása a Program részét képezi.
+
+Azok a vízbázisvédelmi célprogramba bevont, továbbá környezetvédelmi szempontok alapján kijelölt települések, amelyek az előző szempontok szerint kialakított szennyvíz-elvezetési agglomerációk körén kívül esnek, környezetvédelmi és gazdaságossági indokoltság esetén önálló szennyvízrendszert alkothatnak.
+
+Egy települést több környezetvédelmi szempontból kijelölt területi kategória is érinthet, amelyek egymással átfedhetnek, így a települések környezeti szempontú csoportokba sorolására a környezetvédelmi szempontból kijelölt területek összevont halmazának és a település területének – a felszín alatti vizek védelméről szóló kormányrendelet szerinti – arányában kerül sor.
+
+A szennyvíz-elvezetési rendszerek lehatárolását rendszerszemléletű (ún. több szempontú) értékelési módszer alkalmazásával kell elvégezni a 4. és 5. pontban részletezett szempontok szerinti vizsgálat alapján.
+
+2\. Szennyvíz-elvezetési agglomerációként lehatárolható
+
+2.1. Szigetüzem.
+
+2.2. Egy településen belül több önálló szennyvíztisztító telep és a hozzá tartozó szennyvíz-elvezetési rendszer, amelyeket külön-külön kell kezelni.
+
+2.3. Térségi rendszer, mely több település (önkormányzat) szennyvízelvezetését és -tisztítását szolgálja.
+
+3\. Szennyvíziszap-kezelési és -hasznosítási térség jegyzékében a szennyvíziszap-kezelés, illetve -elhelyezés szempontjából szintén megkülönböztethető:
+
+a) egyedi elhelyezés, amikor egyetlen települési szennyvíztisztító telepről származó iszapmennyiséget kell lehetőleg hasznosítással egybekötve elhelyezni;
+
+b) térségi iszapkezelő és/vagy -elhelyező telep(ek), amelyek több település/agglomeráció szennyvíztisztító telepéről származó iszapmennyiség fogadására szolgál(nak). Az iszapkezelő és/vagy -elhelyező telepek vonzáskörzetének kiterjedése nem kell, hogy a szennyvíz-elvezetési agglomerációval megegyezzen.
+
+4\. Környezetvédelmi szempontok és követelmények
+
+4.1. A települések szennyvizeinek ártalommentes elhelyezése, azaz a szennyvízelvezetés, és -tisztítás, illetve a szakszerű egyedi szennyvízelhelyezés arányának és módszerének helyes megválasztása érdekében már a tervezés kezdeti szakaszától folyamatosan érvényesíteni kell az általános és a speciális helyi környezetvédelmi és természetvédelmi, továbbá termőföldvédelmi szempontokat, valamint biztosítani kell a megvalósítandó létesítmények ilyen szempontú hatékonyságát.
+
+4.2. A szennyvíz-elvezetési agglomeráció lehatárolásánál a környezet- és természetvédelem jogszabályban meghatározott általános követelményei mellett figyelembe kell venni különösen:
+
+a) a települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtő területük kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendeletben foglaltakat;
+
+b) a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet szerinti előírásokat, illetve az abban foglalt előírások alapján a felszín alatti vizek állapota szempontjából fokozottan érzékeny vízminőségi területek fejlesztéseit;
+
+c) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VIII. 18.) Korm. rendelet előírásait;
+
+d) a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet előírásait;
+
+e) a felszíni víz jó állapotának eléréséhez és megőrzéséhez a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendeletben, illetve a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló 10/2010. (VIII. 18.) VM rendeletben meghatározott vízminőségi határértékek betartását az agglomeráció központi szennyvíztisztító telepén, valamint
+
+f) a vízgyűjtő-gazdálkodási terv intézkedési programját.
+
+4.3. Több települést érintő szennyvíz-elvezetési agglomeráció kialakításánál ott kell megválasztani a központot, azaz a szennyvíztisztító telep helyét, ahol a tisztított szennyvizek lehetséges befogadóinak feltárása és vizsgálata szerint leginkább biztosítható a befogadó környezeti célállapota.
+
+4.4. Meglévő és új szennyvíz-elvezetési rendszerek csatlakoztatása esetén fokozott figyelmet kell fordítani arra, hogy a fejlesztés egységes egészként teljesítse a környezeti, a gazdasági és a fenntarthatósági hatékonyság feltételeit.
+
+4.5. A szennyvíz-elvezetési agglomerációk kialakításánál az említetteken kívül mérlegelni kell az alábbi környezetérzékenységi szempontokat:
+
+a) a felszíni vízben a szennyvízbevezetés által okozott, a mindenkori szennyvízterhelés és az öntisztuló képesség alapján becsült várható vízminőségromlás mértéke,
+
+b) az ivóvízbázis-védelmi célprogramba bevont felszín alatti, valamint az ivóvíz-ellátási célú felszíni vízhasználatok veszélyeztetése,
+
+c) egyéb célú felszíni vízhasználatok (így például fürdés, rekreáció, öntözés) veszélyeztetése,
+
+d) a vízfolyás természetes medre, vízjárása és élővilága stabilitásának veszélyeztetése – különösen természeti területen, védett természeti területen, Natura 2000 területen és az országos ökológiai hálózat az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben meghatározott övezetében –
+
+a lehető legkisebb legyen.
+
+4.6. A tisztított szennyvíz újrahasznosításának vizsgálatát az Irányelv 12. cikke fogalmazza meg. A tisztított szennyvizet, ha csak lehet, ismét fel kell használni. A tisztított szennyvíz időszakos hasznosítása megengedett, a hasznosítási időszakon kívül a tisztított szennyvíz befogadóba vezetéséről vagy – a külön jogszabályban meghatározott engedélyezési feltételek teljesülése esetén – elszikkasztásáról gondoskodni kell a 4.5. pontban meghatározott követelményeknek eleget téve.
+
+5\. Műszaki, gazdasági szempontok és követelmények
+
+5.1. A szennyvíz-elvezetési agglomeráción belül alapvetően vizsgálni kell a laksűrűséget annak érdekében, hogy csak azokon a területeken valósuljon meg a szennyvizek szennyvízcsatornával történő összegyűjtése, ahol a népesség, illetve a gazdasági tevékenység kellő mértékben koncentrált, vagy a szennyvizek szennyvízcsatornával történő összegyűjtése és elvezetése környezetvédelmi szempontból indokolt. Ahol a szennyvízcsatornázás túlzott költséggel járna, vagy az előírt vagy kívánatos környezetvédelmi paraméterek egyéb műszaki megoldással is biztosíthatóak, ott egyéb, költségkímélő megoldásokat is lehet alkalmazni. A szennyvíz-elvezetési agglomeráció megfelelőnek tekinthető, ha eleget tesz a 4. és az 5.2–5.7. pontban foglalt műszaki, gazdasági és környezetvédelmi követelményeknek.
+
+5.2. A műszaki-gazdasági számítások térségi rendszerek kialakítását is indokolhatják a következő szempontok figyelembevételével:
+
+a) a térségi megoldások kialakításának műszaki-gazdasági előnyei:
+
+aa) egyetlen – nagyobb kapacitású – szennyvíztisztító telep fajlagos építési és üzemeltetési költsége kedvezőbb (jobb laboratóriumi felszereltség, képzettebb személyzet),
+
+ab) a szennyvízcsatorna-hálózat kiegyenlítő hatása miatt megtakarítás érhető el a településeket összekötő távvezetékben, szivattyúk kapacitásában (gépház, energiafelhasználás, csőátmérő), és csökkenthetők a tisztítótelep műtárgyainak méretezési alapjául szolgáló paraméterek (maximális terhelések, csúcsvízhozamok),
+
+ac) racionálisabb a tartalékkészlet-gazdálkodás,
+
+ad) a gyűjtő- és kezelőrendszer automatizálás útján összehangoltabb, ez vonatkozik a hibaelhárításra is;
+
+b) a térségi megoldások kialakításának műszaki-gazdasági hátrányai:
+
+ba) a nagyobb távolságról szállított szennyvíz kedvezőtlenül változhat (szag, korrózió), továbbá minősége befolyásolja a telep működésének hatékonyságát vagy költséges közbenső beavatkozást igényel,
+
+bb) nagyobb, bonyolultabb rendszerek működtetése nagyobb szakértelmet és technológiai fegyelmet követel,
+
+bc) nagyobb telepeknél a tisztítási határértékek szigorúbbak lehetnek,
+
+bd) az üzemzavarok nagyobb telepek esetében jelentősebb kárt okozhatnak, illetve nagyobb területeket zárhatnak ki a zavartalan szolgáltatásból,
+
+be) a tisztítótelep optimális telepítési helyéhez tartozó önkormányzatok fejlesztési politikája nem mindig esik egybe a szennyvíz-elvezetési agglomerációk szakmai indokoltságával,
+
+bf) a hosszú külterületi csatornaszakaszok kiépítése, az esetleges szivattyúzás, aprítás, szagtalanítás energiaigénye gazdaságtalan művek létrehozását eredményezheti.
+
+5.3. A szennyvíz vezetékekben és átemelőkben való tartózkodási ideje:
+
+a) a hátrányos minőségváltozások elkerülése érdekében a nyers szennyvíz gravitációs és nyomóvezetékekben, valamint az átemelőkben történő együttes tartózkodási ideje a szezonális és heti ingadozásokat figyelembe vevő napi átlagterhelése a 6 órát nem haladhatja meg. Amennyiben a tartózkodási idő ezt az értéket legfeljebb 30%-kal meghaladja, műszaki beavatkozásokkal – szagtalanító berendezés beépítésének kivételével – kell megelőzni a nem kívánt anaerob folyamatok bekövetkezését;
+
+b) a távvezetékeknél a gravitációs adottságokat lehetőség szerint optimálisan ki kell használni, vagyis ahol lehet, kerülni kell az átemelők alkalmazását.
+
+5.4. A csővezetékek keresztmetszeti méreténél:
+
+a) az átlagos sebességet nyomócsöveknél V<sub>átl</sub> = 1,0–1,5 m/s értékkel, gravitációs vezetékeknél
+
+V<sub>átl</sub> = 0,4–0,8 m/s értékkel (napi átlagra vonatkoztatva) kell számításba venni;
+
+b) a szennyvíz-elvezetési alrendszerek egymásra kapcsolásánál igen fontos – dugulás elkerülése szempontjából is – a folyadékmennyiség figyelembevételével történő szállító keresztmetszet megválasztása;
+
+c) a szezonális (üdülő) övezetek szennyvizeinek nagy távolságra történő szállításánál a terhelésingadozás – nyári csúcs, téli minimum – hatásait is figyelembe kell venni a keresztmetszet megválasztásánál (így például: iker vezetékrendszer, átemelők kapcsolási szintjei);
+
+d) törekedni kell arra, hogy a hálózatok csomópontjainál a vízszál meg legyen szakítva (átemelő vagy gravitációs akna), nyomócső közvetlenül nyomócsőre ne csatlakozzon.
+
+5.5. Az alrendszerek belső gyűjtőhálózatának kiépítésénél a szennyvíz-elvezetési agglomeráción belüli településrész alrendszerként történő lehatárolási feltételei:
+
+a) az 1,0 km vezetékhosszra történő rácsatlakozás érje el a 120 főt vagy az 52 lakást (hazai statisztikai adatok figyelembevételével átlagosan 2,3 fő/lakás), a vizsgálatnál a vezetékhosszba a házi bekötővezetékek nem számítandók be, vagy
+
+b) a lakosszám hektáronként legalább 30 fő, kivéve a tartósan magas talajvízállású területeket.
+
+Alrendszernek az a műszaki egység minősül, amely csak egy ponton csatlakozik egy befogadási pontra, ami lehet egy másik alrendszer, mellékgyűjtő, szennyvízátemelő vagy főgyűjtő.
+
+5.6. Szennyezőanyag-terhelések számítása:
+
+a) a méretezéseknél elsősorban a tényleges kibocsátási értékeket kell figyelembe venni. Ezek hiányában a vízfogyasztási adatokból számított szennyvízmennyiség vagy az 1 főre jutó fajlagos szennyvízkibocsátás a beépítési övezetek függvényében 80–110 l/fő/nap érték a számítások kiindulási alapja. Szennyezőanyag-terhelés szempontjából 1 fő = 1 LE = 60 g BOI<sub>5</sub>/nap, ettől eltérő érték esetén indoklás, illetve a 60 g BOI<sub>5</sub>/nap értékre átváltás bemutatása is szükséges. Intézményi, ipari kibocsátásoknál egyedi jelleg szerinti számítással kell meghatározni a LE-értéket;
+
+b) a szennyvíz-elvezetési agglomeráció LE-ben kifejezett névleges terhelése az azt alkotó települési szennyvízterhelésekből számított adatok összegzése útján nyerhető. Az egyes települések névleges terhelése az alábbi terhelésekből áll:
+
+ba) a helyben lakó népesség a KSH tárgyévi adata alapján,
+
+bb) egyéb népesség (üdülő stb.),
+
+bc) az Irányelv 11. cikkében szereplő ipari kibocsátások,
+
+bd) vállalkozásokból és gazdasági tevékenységekből (beleértve a kis- és középvállalkozásokat) származó, olyan ipari szennyvíz, amelyet a szennyvíztörzshálózatba vagy települési szennyvíztisztító telepre bocsátanak ki, vagy oda tervezik kibocsátani,
+
+be) az összes fennmaradó települési szennyvíz függetlenül attól, hogy összegyűjtésre kerül, vagy sem, de az agglomerációban keletkezik, és amely nem foglalja magában az olyan ipari szennyvíz okozta terhelést, amelynek tisztítása külön történik, és a tisztított szennyvizet más szennyvízzel történő keveredés nélkül bocsátják a befogadóba.
+
+5.7. Összehasonlító gazdasági szempontok:
+
+a) minden esetben figyelembe kell venni a rendszerek létesítési, működési (üzemeltetési, karbantartási) és pótlási költségét is (beleértve az iszapkezelés költségét),
+
+b) a szennyvíz-elvezetési agglomeráció központi szennyvíztisztító telepe – a tisztított szennyvíz kivezetéssel együtt – a csatlakozó települések belterületi és összekötő hálózatának létesítésével és üzemeltetésével együtt addig tekinthető gazdaságosnak, amíg nem haladja meg az agglomerációt alkotó valamennyi település több önálló rendszerének önálló szennyvíztisztító telepei, valamint belső és összekötő hálózatai megvalósítási és üzemeltetési költségét,
+
+c) vizsgálni kell a reális műszaki megoldásokat,
+
+d) a gazdaságossági számítást a teljes életciklus-szemlélet érvényesítésével kell elvégezni a következőképpen:
+
+da) a fenntarthatóságot, a megfizethetőséget és a költséghatékonyságot eredményező döntések céljából az életciklus-szemléletet a döntés-előkészítés folyamán érvényesíteni kell;
+
+db) a költséghatékonyság helyes megítéléséhez az adott beruházás teljes élettartama alatt felmerülő összes költséget dinamikus szemléletben kell figyelembe venni;
+
+dc) az üzemköltségek előrejelzése és a költségelemek élettartamon belüli változásának figyelembevételével kell a költségelemeket meghatározni;
+
+dd) a közvetlen életciklusköltség dinamikus költségelemzését ellenőrizhető módon kell meghatározni;
+
+de) az üzemi tapasztalatokról, a környezetre gyakorolt hatások elemzéséről és a tervezett költségek utóellenőrzése érdekében 5 éves üzemeltetést követően a tervezett és a tényadatok összehasonlító értékelését kell küldeni a területileg illetékes vízügyi igazgatóságnak.
+
+5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
+
+## 2. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^17]
+
+**Adatszolgáltatás a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről**
+
+<table><tbody><tr><td colspan="4">Tárgyév:</td></tr><tr><td>Sorszám</td><td colspan="2"></td><td></td></tr><tr><td>1.</td><td colspan="2">A település megnevezése</td><td></td></tr><tr><td>2.</td><td colspan="2">Település KSH-kódja</td><td></td></tr><tr><td>3.</td><td colspan="2">Településrész megnevezése</td><td></td></tr><tr><td>4.</td><td colspan="2">Szennyvízelvezetési agglomeráció központi települése</td><td></td></tr><tr><td colspan="4">A településen üzemelő, a szennyvíz tisztítását, elhelyezését szolgáló létesítmény(ek)</td></tr><tr><td></td><td colspan="3">A településen meglévő közintézményi vagy szállodai, illetve turisztikai létesítmények szennyvizeinek<br>tisztítására szolgáló egyedi szennyvíztisztító létesítmény(ek), zárt szennyvíztároló(k)</td></tr><tr><td>5.</td><td colspan="2">egyedi szennyvíztisztító berendezés (db)</td><td></td></tr><tr><td>6.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (db)</td><td></td></tr><tr><td>7.</td><td colspan="2">egyedi zárt szennyvíztároló (db)</td><td></td></tr><tr><td>8.</td><td colspan="2">összes darabszám</td><td></td></tr><tr><td>9.</td><td colspan="2">egyedi szennyvíztisztító berendezés (fő)</td><td></td></tr><tr><td>10.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (fő)</td><td></td></tr><tr><td>11.</td><td colspan="2">egyedi zárt szennyvíztároló (fő)</td><td></td></tr><tr><td>12.</td><td colspan="2">összes ellátott lakosszám</td><td></td></tr><tr><td></td><td colspan="3">Az 5–7. sor közül kötelezés vagy egyéb információk alapján nem megfelelő<br>egyedi szennyvíztisztító létesítmény(ek), zárt szennyvíztároló(k)</td></tr><tr><td>13.</td><td colspan="2">egyedi szennyvíztisztító berendezés (db)</td><td></td></tr><tr><td>14.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (db)</td><td></td></tr><tr><td>15.</td><td colspan="2">egyedi zárt szennyvíztároló (db)</td><td></td></tr><tr><td>16.</td><td colspan="2">összes darabszám</td><td></td></tr><tr><td>17.</td><td colspan="2">egyedi szennyvíztisztító berendezés (fő)</td><td></td></tr><tr><td>18.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (fő)</td><td></td></tr><tr><td>19.</td><td colspan="2">egyedi zárt szennyvíztároló (fő)</td><td></td></tr><tr><td>20.</td><td colspan="2">összes ellátott lakosszám</td><td></td></tr><tr><td></td><td colspan="3">A lefolytatott éves ellenőrzések száma</td></tr><tr><td>21.</td><td colspan="2">egyedi szennyvíztisztító berendezés (db)</td><td></td></tr><tr><td>22.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (db)</td><td></td></tr><tr><td>23.</td><td colspan="2">egyedi zárt szennyvíztároló (db)</td><td></td></tr><tr><td>24.</td><td colspan="2">összes ellenőrzés száma</td><td></td></tr><tr><td></td><td colspan="3">A településen üzemel-e jegyzői (építésügyi vagy vízügyi) hatáskörbe tartozó lakossági szennyvizek tisztítására,<br>elhelyezésére szolgáló egyedi szennyvíztisztító berendezés, oldómedencés létesítmény,<br>egyedi zárt szennyvíztároló?</td></tr><tr><td>25.</td><td rowspan="4">egyedi szennyvíztisztító berendezés</td><td>darabszáma</td><td></td></tr><tr><td>26.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>27.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>28.</td><td>ellátott ingatlanok helye<br>(hrsz. vagy EOV)</td><td></td></tr><tr><td>29.</td><td rowspan="4">tisztítómezővel ellátott oldómedencés létesítmény</td><td>darabszáma</td><td></td></tr><tr><td>30.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>31.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>32.</td><td>ellátott ingatlanok helye<br>(hrsz. vagy EOV)</td><td></td></tr><tr><td>33.</td><td rowspan="3">egyedi zárt szennyvíztároló</td><td>darabszáma</td><td></td></tr><tr><td>34.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>35.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>36.</td><td></td><td>ellátott ingatlanok helye<br>(hrsz. vagy EOV)</td><td></td></tr><tr><td>37.</td><td colspan="2">összes darabszám</td><td></td></tr><tr><td>38.</td><td colspan="2">összes ellátott lakosszám</td><td></td></tr><tr><td></td><td colspan="3">A 17–25. sorok közül kötelezés vagy egyéb információk alapján nem megfelelő<br>egyedi szennyvíztisztító berendezés, oldómedencés létesítmény, egyedi zárt szennyvíztároló</td></tr><tr><td>39.</td><td rowspan="3">egyedi szennyvíztisztító berendezés</td><td>darabszáma</td><td></td></tr><tr><td>40.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>41.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>42.</td><td rowspan="3">tisztítómezővel ellátott oldómedencés létesítmény</td><td>darabszáma</td><td></td></tr><tr><td>43.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>44.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>45.</td><td rowspan="3">egyedi zárt szennyvíztároló</td><td>darabszáma</td><td></td></tr><tr><td>46.</td><td>ellátott ingatlan száma (db)</td><td></td></tr><tr><td>47.</td><td>ellátott lakosszám (fő)</td><td></td></tr><tr><td>48.</td><td colspan="2">összes darabszám</td><td></td></tr><tr><td>49.</td><td colspan="2">összes ellátott lakosszám</td><td></td></tr><tr><td></td><td colspan="3">A lefolytatott éves ellenőrzések száma</td></tr><tr><td>50.</td><td colspan="2">egyedi szennyvíztisztító berendezés (db)</td><td></td></tr><tr><td>51.</td><td colspan="2">tisztítómezővel ellátott oldómedencés létesítmény (db)</td><td></td></tr><tr><td>52.</td><td colspan="2">egyedi zárt szennyvíztároló (db)</td><td></td></tr><tr><td>53.</td><td colspan="2">összes ellenőrzés száma</td><td></td></tr><tr><td colspan="4">A tárgyévi TERVEZETT önkormányzati fejlesztés (igen/nem)</td></tr><tr><td>54.</td><td colspan="2">Szennyvízgyűjtő rendszer tekintetében</td><td></td></tr><tr><td>55.</td><td colspan="2">Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében</td><td></td></tr><tr><td>56.</td><td colspan="2">Települési szennyvíztisztító telep tekintetében</td><td></td></tr><tr><td>57.</td><td colspan="2">A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében</td><td></td></tr><tr><td>58.</td><td colspan="2">Szennyvíziszap-kezelés tekintetében</td><td></td></tr><tr><td>59.</td><td colspan="2">Tervez-e az önkormányzat intézkedést a szennyvízgyűjtő rendszerre történő rákötések teljesítésére?</td><td></td></tr><tr><td colspan="4">A tárgyévi FOLYAMATBAN LÉVŐ/ TERVEZETT új rendszer adatai</td></tr><tr><td>60.</td><td colspan="2">Meglévő szennyvízelvezetési agglomerációhoz csatlakozás vagy újonnan létrehozott, több településből álló szennyvízelvezetési agglomeráció esetén a szennyvízelvezetési agglomeráció megnevezése</td><td></td></tr><tr><td>61.</td><td colspan="2">Az 1. sorban megnevezett településre vonatkozó szennyezőanyag-terhelés, melynek kezelésére a beruházás irányul (lakosegyenérték)</td><td></td></tr><tr><td></td><td colspan="3">Az előkészítő intézkedések (tervezés, engedélyeztetés, közbeszerzési eljárás, pályáztatás) befejezésének<br>(várható) időpontja (év, hónap)</td></tr><tr><td>62.</td><td colspan="2">Szennyvízgyűjtő rendszer tekintetében</td><td></td></tr><tr><td>63.</td><td colspan="2">Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében</td><td></td></tr><tr><td>64.</td><td colspan="2">Települési szennyvíztisztító telep tekintetében</td><td></td></tr><tr><td>65.</td><td colspan="2">A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében</td><td></td></tr><tr><td>66.</td><td colspan="2">Szennyvíziszap-kezelés tekintetében</td><td></td></tr><tr><td></td><td colspan="3">A kivitelezés kezdő (várható) időpontja (év, hónap)</td></tr><tr><td>67.</td><td colspan="2">Szennyvízgyűjtő rendszer tekintetében</td><td></td></tr><tr><td>68.</td><td colspan="2">Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében</td><td></td></tr><tr><td>69.</td><td colspan="2">Települési szennyvíztisztító telep tekintetében</td><td></td></tr><tr><td>70.</td><td colspan="2">A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében</td><td></td></tr><tr><td>71.</td><td colspan="2">Szennyvíziszap-kezelés tekintetében</td><td></td></tr><tr><td></td><td colspan="3">A kivitelezés befejezésének (várható) időpontja (év, hónap)</td></tr><tr><td>72.</td><td colspan="2">Szennyvízgyűjtő rendszer tekintetében</td><td></td></tr><tr><td>73.</td><td colspan="2">Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében</td><td></td></tr><tr><td>74.</td><td colspan="2">Településen lévő szennyvíztisztító telep tekintetében</td><td></td></tr><tr><td>75.</td><td colspan="2">A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében</td><td></td></tr><tr><td>76.</td><td colspan="2">Szennyvíziszap-kezelés tekintetében</td><td></td></tr><tr><td>77.</td><td colspan="2">A csatornarendszerre történő rákötés tekintetében</td><td></td></tr><tr><td colspan="4">A tárgyévi beruházási ráfordítások folyó áron összesen (nettó ezer Ft)</td></tr><tr><td>78.</td><td colspan="2">A beruházás teljes bekerülési költsége</td><td></td></tr><tr><td>79.</td><td colspan="2">Szennyvízgyűjtő rendszer összesen</td><td></td></tr><tr><td>80.</td><td rowspan="5">ebből:</td><td>önkormányzati forrásból</td><td></td></tr><tr><td>81.</td><td>állami forrásból</td><td></td></tr><tr><td>82.</td><td>víziközmű-társulati forrásból</td><td></td></tr><tr><td>83.</td><td>hitelből</td><td></td></tr><tr><td>84.</td><td>egyéb forrásból</td><td></td></tr><tr><td>85.</td><td colspan="2">egyéb forrás megnevezése</td><td></td></tr><tr><td>86.</td><td colspan="2">Szennyvízszállító vezeték összesen</td><td></td></tr><tr><td>87.</td><td rowspan="5">ebből:</td><td>önkormányzati forrásból</td><td></td></tr><tr><td>88.</td><td>állami forrásból</td><td></td></tr><tr><td>89.</td><td>víziközmű-társulati forrásból</td><td></td></tr><tr><td>90.</td><td>hitelből</td><td></td></tr><tr><td>91.</td><td>egyéb forrásból</td><td></td></tr><tr><td>92.</td><td colspan="2">egyéb forrás megnevezése</td><td></td></tr><tr><td>93.</td><td colspan="2">Településen lévő szennyvíztisztító telep összesen</td><td></td></tr><tr><td>94.</td><td rowspan="5">ebből:</td><td>önkormányzati forrásból</td><td></td></tr><tr><td>95.</td><td>állami forrásból</td><td></td></tr><tr><td>96.</td><td>víziközmű-társulati forrásból</td><td></td></tr><tr><td>97.</td><td>hitelből</td><td></td></tr><tr><td>98.</td><td>egyéb forrásból</td><td></td></tr><tr><td>99.</td><td colspan="2">egyéb forrás megnevezése</td><td></td></tr><tr><td>100.</td><td colspan="2">Szennyvíziszap-kezelés összesen</td><td></td></tr><tr><td>101.</td><td rowspan="5">ebből:</td><td>önkormányzati forrásból</td><td></td></tr><tr><td>102.</td><td>állami forrásból</td><td></td></tr><tr><td>103.</td><td>víziközmű-társulati forrásból</td><td></td></tr><tr><td>104.</td><td>hitelből</td><td></td></tr><tr><td>105.</td><td>egyéb forrásból</td><td></td></tr><tr><td>106.</td><td colspan="2">egyéb forrás megnevezése</td><td></td></tr><tr><td>107.</td><td colspan="2">Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében összesen</td><td></td></tr><tr><td>108.</td><td rowspan="5">ebből:</td><td>önkormányzati forrásból</td><td></td></tr><tr><td>109.</td><td>állami forrásból</td><td></td></tr><tr><td>110.</td><td>víziközmű-társulati forrásból</td><td></td></tr><tr><td>111.</td><td>hitelből</td><td></td></tr><tr><td>112.</td><td>egyéb forrásból</td><td></td></tr><tr><td>113.</td><td colspan="2">egyéb forrás megnevezése</td><td></td></tr></tbody></table>
+
+## 3. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^18]
+
+**Tájékoztató jegyzék a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről**
+
+Tárgyév: ………
+
+<table><tbody><tr><td>Sorszám</td><td></td><td></td></tr><tr><td>1.</td><td>A település megnevezése</td><td></td></tr><tr><td>2.</td><td>Településrész megnevezése</td><td></td></tr><tr><td>3.</td><td>Szennyvíz-elvezetési agglomeráció központi települése</td><td></td></tr><tr><td colspan="2">A településen üzemelő, a szennyvíz tisztítását, elhelyezését szolgáló létesítmények</td><td></td></tr><tr><td>4.</td><td>Településen meglévő lakossági, közintézményi<sup>(1)</sup> vagy szállodai, illetve turisztikai létesítmények szennyvizeinek tisztítására szolgáló egyedi szennyvíztisztító létesítmény (van/nincs)</td><td></td></tr><tr><td>5.</td><td>A településen üzemel-e jegyzői (vagy építésügyi, vízügyi) hatáskörbe tartozó, lakossági szennyvizek tisztítására, elhelyezésére szolgáló egyedi szennyvíztisztító létesítmény, oldómedencés létesítmény, egyedi zárt szennyvíztároló? (igen/nem)</td><td></td></tr><tr><td colspan="2">A tárgyévi TERVEZETT önkormányzati fejlesztés</td><td></td></tr><tr><td>6.</td><td>Szennyvízgyűjtő rendszer tekintetében (igen nem)</td><td></td></tr><tr><td>7.</td><td>Egyedi szennyvíztisztító létesítmények, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében (igen/nem)</td><td></td></tr><tr><td>8.</td><td>Települési szennyvíztisztító telep tekintetében (igen/nem)</td><td></td></tr><tr><td>9.</td><td>Szennyvíziszap-kezelés tekintetében (igen/nem)</td><td></td></tr></tbody></table>
+
+<sup>(1)</sup>Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
+
+---
+
+[^1]: A 3. § (1) bekezdése a 195/2017. (VII. 10.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 195/2017. (VII. 10.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^4]: Az 5. § a 288/2018. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított, a 217/2024. (VII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^6]: Az 5. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított szöveg.
+[^8]: A 6. § a 195/2017. (VII. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (3) bekezdésével megállapított szöveg.
+[^11]: A 10/A. §-t a 195/2017. (VII. 10.) Korm. rendelet 13. §-a iktatta be.
+[^12]: A 10/B. §-t a 288/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^13]: A hatálybalépés napja 2018. december 26.
+[^14]: A 11. § a 288/2018. (XII. 21.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^16]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése, a 288/2018. (XII. 21.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 2. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. melléklet a 195/2017. (VII. 10.) Korm. rendelet 15. § e)–g) pontja szerint módosított szöveg.

@@ -1,0 +1,464 @@
+---
+title: "304/2017. (X. 27.) Korm. rendelet az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény végrehajtásáról"
+identifier: "304/2017. (X. 27.) Korm. rendelet"
+njt_id: "2017-304-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/304"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-10-27
+in_force_from: 2018-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-304-20-22"
+retrieved: 2026-10-12
+---
+
+# 304/2017. (X. 27.) Korm. rendelet az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény végrehajtásáról
+
+A Kormány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 21. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. Értelmező rendelkezések
+
+#### 1. §
+
+E rendelet alkalmazásában
+
+1\. *adatrögzítő:* a kártya igénylésével, letiltásával, pótlásával, cseréjével, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) 4. § (4) bekezdése szerinti korlátozással, valamint az érvényesség meghosszabbításával kapcsolatos kérelmekkel összefüggő adatfeldolgozói feladatok ellátását jogszabályi kijelölés vagy a kártyakibocsátóval fennálló polgári jogi jogviszonya alapján végző szervezet;
+
+2\. *ellenőr:* a megszemélyesítési tevékenységben részt nem vevő, a megszemélyesítő által határozatlan időre foglalkoztatott, a megszemélyesítő egységes elektronikuskártya-kibocsátási keretrendszerrel (a továbbiakban: NEK) kapcsolatos tevékenysége jogszerűségének folyamatos fenntartásával összefüggő ellenőrzési feladatokat ellátó személy, aki a működtetővel és az érintett kártyakibocsátóval tagsági, megbízási vagy foglalkoztatásra irányuló jogviszonyban és a megszemélyesítési jogosultság kezdetét megelőző két évben nem állt ilyen jogviszonyban;
+
+3\. *engedéllyel rendelkező kártyakibocsátó:* a Nektv. 1. § (4) bekezdés b) pontja szerinti szervezet;
+
+4\. *kártyakibocsátó:* a kijelölt kártyakibocsátó és az engedéllyel rendelkező kártyakibocsátó;
+
+5\. *kijelölt kártyakibocsátó:* a Nektv. 1. § (4) bekezdés a) pontja szerinti szervezet;
+
+6\. *megszemélyesítő:* az a megszemélyesítést végző szervezet, amelynek – a műszaki, technológiai, informatikai és biztonsági feltételeket tartalmazó jogszabályoknak való – megfelelőségét a működtető minősítési eljárás keretében megállapította;
+
+7\. *működtető:* a Nektv. 1. § (1) bekezdése szerinti, a Kormány tagjainak feladat- és hatásköréről szóló Korm. rendeletben kijelölt államigazgatási szerv;
+
+8\. *szolgáltatási szabályzat:* a kártyakibocsátó, a megszemélyesítő és a kártyaelfogadó saját, NEK-kel kapcsolatos működésére, a NEK további szereplőivel való kapcsolatára, valamint a kártyafelhasználók jogaira és kötelezettségeire vonatkozó, a NEK-kel kapcsolatos szolgáltatásainak leírását és azok igénybevételének feltételeit tartalmazó dokumentum, amely nyilvános, illetőleg ha a szolgáltatási szabályzat egyes részeinek nyilvános közzététele veszélyeztetné a NEK központi nyilvántartásával kapcsolatos információbiztonságot, nem nyilvános részből áll.
+
+#### 2. §
+
+E rendelet hatálya nem terjed ki
+
+a) az „A” okmányvédelmi kategóriába sorolt biztonsági okmány megszemélyesítésére,
+
+b) a tárolóelemet tartalmazó személyazonosító igazolvány mint elsődleges kártya kibocsátására.
+
+## II. Fejezet — SZOLGÁLTATÁSI SZABÁLYZAT
+
+### 2. A szolgáltatási szabályzat tartalma
+
+#### 3. §
+
+(1) A kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő a NEK-kel kapcsolatos tevékenységekkel összefüggésben önálló szolgáltatási szabályzatot ad ki. A szolgáltatási szabályzat benyújtására és annak jóváhagyási rendjére a III. fejezetben foglaltak irányadóak.
+
+(2) A szolgáltatási szabályzat tartalmazza
+
+a) az érintett szervezet NEK keretében ellátott szerepkörének megnevezését,
+
+b) az érintett szervezet NEK-kel kapcsolatos tevékenységének leírását, így különösen az általa a NEK keretében nyújtott szolgáltatás igénybevételének feltételeit,
+
+c) azon adatok megnevezését, melyek az érintett szervezetnek a NEK keretében nyújtott szolgáltatásának igénybevétele esetén a kezelésébe kerülnek,
+
+d) a *c)* pontban megjelölt adatok védelmével összefüggésben foganatosított intézkedéseket,
+
+e) a panaszok kezelésének rendjét,
+
+f) a NEK keretében nyújtott szolgáltatás igénybevétele esetén fizetendő díjat vagy egyéb költséget,
+
+g) a nem nyilvános részek indokolással ellátott megjelölését,
+
+h) a működtető megnevezését és elérhetőségét,
+
+i) kártyakibocsátó esetén a jogosulatlan kártyafelhasználáskor alkalmazandó szabályokat, valamint a 21. §-ban foglalt eljárás rendjét és
+
+j) megszemélyesítő esetén az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény végrehajtásához szükséges kapcsolódási, műszaki, technológiai, biztonsági előírásokról, követelményekről és a hitelesítési rendről szóló miniszteri rendeletben (a továbbiakban: miniszteri rendelet) foglaltakat.
+
+(3) A szolgáltatási szabályzat – a (2) bekezdés g) pontjában foglalt kivétellel – nyilvános dokumentum, amelyet jóváhagyást követően a kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő a honlapján közzétesz.
+
+(4) A működtető
+
+a) a megszemélyesítő és a kártyaelfogadó szolgáltatási szabályzatát a beérkezést követő 30 napon belül,
+
+b) a kártyakibocsátó szolgáltatási szabályzatát a beérkezést követő 45 napon belül
+
+jóváhagyja, ha az megfelel a (2) bekezdésében foglaltaknak.
+
+(5) Ha a szolgáltatási szabályzat nem felel meg a (2) bekezdésben foglaltaknak, a működtető – a hiányosságok megjelölésével – felhívja az érintett szervezetet a megfelelő szolgáltatási szabályzat elkészítésére.
+
+(6) A szolgáltatási szabályzat készítője a felhívásra tekintettel módosított szolgáltatási szabályzatot a működtető által jelzett hiányosságok pótlását követően, de legkésőbb 15 napon belül megküldi a működtetőnek.
+
+(7) A kártyakibocsátó az adott kártya tekintetében, a kártyaelfogadó az általa elfogadott kártya tekintetében ügyfél-tájékoztatót készít, amelyben – a szolgáltatási szabályzat alapján – összefoglalja a kártyafelhasználó kártyával vagy annak elfogadásával kapcsolatos jogait és kötelezettségeit. Az ügyfél-tájékoztatót a kártyakibocsátó, a kártyaelfogadó és a működtető a honlapján – a szolgáltatási szabályzatra hivatkozva – közzéteszi.
+
+### 3. A szolgáltatási szabályzat módosítása
+
+#### 4. §
+
+(1) A megszemélyesítő és a kártyakibocsátó – a (3) bekezdésben foglalt kivétellel – a szolgáltatási szabályzat módosításának tervezetét (jelen alcím tekintetében a továbbiakban: tervezet) jóváhagyás céljából megküldi a működtetőnek. A működtető
+
+a) a megszemélyesítő által megküldött tervezetet a beérkezést követő 30 napon belül,
+
+b) a kártyakibocsátó által megküldött tervezetet a beérkezést követő 45 napon belül
+
+jóváhagyja, ha az megfelel a 3. § (2) bekezdésében foglaltaknak.
+
+(2) A jóváhagyott szolgáltatási szabályzatot a megszemélyesítő és a kártyakibocsátó a honlapján közzéteszi, és erről
+
+a) a megszemélyesítő a kártyakibocsátókat,
+
+b) a kártyakibocsátó az érintett megszemélyesítőket és kártyaelfogadókat
+
+haladéktalanul, elektronikus úton értesíti.
+
+(3) A kijelölt kártyakibocsátó a szolgáltatási szabályzat módosítását a működtető közreműködésével és egyetértésével készíti el, majd ezt követően a (2) bekezdés szerint jár el.
+
+#### 5. §
+
+(1) A kártyaelfogadó a 4. § (2) bekezdés b) pontja szerinti értesítést követő 15 napon belül megvizsgálja az általa kiadott szolgáltatási szabályzatot, és szükség esetén módosítja azt, majd a tervezetet jóváhagyásra megküldi a működtetőnek.
+
+(2) A működtető a kártyaelfogadó által megküldött tervezetet a beérkezését követő 30 napon belül jóváhagyja, ha az megfelel a 3. § (2) bekezdésében foglaltaknak.
+
+(3) A módosított szolgáltatási szabályzatot a kártyaelfogadó a honlapján közzéteszi, és erről haladéktalanul, elektronikusan értesíti az érintett kártyakibocsátókat.
+
+(4) Ha a kártyaelfogadó szolgáltatási szabályzatának módosítására nem az (1) bekezdésben foglaltak alapján kerül sor, a kártyakibocsátóval előzetesen egyeztet a módosításról, majd annak egyetértésével megküldi azt a működtetőnek jóváhagyásra. Ha a kártyakibocsátóval történő egyeztetés eredményeként a kártyakibocsátó szolgáltatási szabályzatát is módosítani szükséges, úgy a módosított szolgáltatási szabályzatokat a kártyakibocsátó küldi meg a működtetőnek jóváhagyásra.
+
+#### 6. §
+
+(1) Ha a tervezet nem felel meg a 3. § (2) bekezdésében foglaltaknak, a működtető – a hiányosságok megjelölésével – felhívja a dokumentum készítőjét a megfelelő szolgáltatási szabályzat elkészítésére.
+
+(2) A dokumentum készítője a (1) bekezdésben foglaltakra tekintettel módosított szolgáltatási szabályzatot a működtető által jelzett hiányosságok pótlását követően, de legkésőbb 15 napon belül megküldi a működtetőnek.
+
+(3) Ha a szolgáltatási szabályzat készítésére kötelezett a (2) bekezdésben foglaltaknak nem tesz eleget, vagy a módosított tervezet nem felel meg a 3. § (2) bekezdésében foglaltaknak, a működtető az érintett szervezet NEK-kel kapcsolatos tevékenységét a szolgáltatási szabályzat jóváhagyásáig
+
+a) felfüggesztheti, ha az eset összes körülményei alapján valószínűsíthető, hogy
+
+aa) a személyes adatok védelmével kapcsolatos jogsértés,
+
+ab) a kártyafelhasználók kártyával kapcsolatos jogainak biztosításával kapcsolatos súlyos jogsértés vagy
+
+ac) a NEK biztonságos működését veszélyeztető helyzet
+
+áll fenn,
+
+b) azonnali hatállyal felfüggeszti, ha az eset összes körülményei alapján valószínűsíthető, hogy
+
+ba) a személyes adatok védelmével kapcsolatos súlyos jogsértés vagy
+
+bb) a NEK biztonságos működését közvetlenül és súlyosan veszélyeztető helyzet
+
+áll fenn.
+
+(4) Ha a (3) bekezdésben foglalt esetben a szolgáltatási szabályzat készítője a kártyaelfogadó, a működtető a felfüggesztés tényéről haladéktalanul értesíti az érintett kártyakibocsátókat.
+
+## III. Fejezet — A NEK-HEZ TÖRTÉNŐ CSATLAKOZÁS
+
+#### 7. §
+
+A 8. §-ban foglalt kivétellel a kártyakibocsátó, a megszemélyesítő és a kártyaelfogadó NEK-hez csatlakozása hatósági eljárás keretében történik.
+
+### 4. A kijelölt kártyakibocsátó csatlakozása
+
+#### 8. §
+
+(1) A kijelölt kártyakibocsátó – a működtető egyetértésével – a kijelölésről szóló jogszabály hatálybalépését követő 60 napon belül szolgáltatási szabályzatot készít, és írásban – a Nektv. 13. § (1) bekezdés a) pontjában meghatározott – szerződést köt a működtetővel.
+
+(2) A szerződés – jogszabály eltérő rendelkezése hiányában – tartalmazza
+
+a) a szerződő felek megnevezését,
+
+b) a szerződés tárgyát,
+
+c) a szerződés teljesítéséhez szükséges adatokat,
+
+d) a díjfizetésre vonatkozó adatokat,
+
+e) a felek közötti kapcsolattartás módját,
+
+f) a tevékenység ellenőrzésének rendjét és az ellenőrzés gyakoriságát,
+
+g) az elsődleges kártya arculati tervét a megjelenített adatokkal,
+
+h) a kapcsolatok, megszemélyesítési folyamatok biztonsági elemeit és a biztonsági funkciók leírásait.
+
+### 5. Kártyakibocsátás engedélyezése
+
+#### 9. §
+
+(1) A Nektv. 14. § (1) bekezdésében megjelölt kártyakibocsátási kérelem kormányablakban nem nyújtható be, az kizárólag a működtetőnél terjeszthető elő.
+
+(2) A kérelmező a szolgáltatási szabályzatának tervezetét a 2. mellékletben meghatározott kártyakibocsátási kérelem mellékleteként jóváhagyásra megküldi a működtető részére.
+
+#### 10. §
+
+(1) A kártyakibocsátás engedélyezésére irányuló eljárásban három hónapnál nem régebbi előzetes szakhatósági állásfoglalás csatolható.
+
+(2) A kártyakibocsátás engedélyezésére irányuló eljárásban a működtető legfeljebb két ízben hívhatja fel hiánypótlásra a kérelmezőt.
+
+#### 11. §
+
+A kibocsátási cél módosítása esetén az engedéllyel rendelkező kártyakibocsátó új kártyakibocsátási kérelmet terjeszt elő.
+
+#### 12. §
+
+(1) Ha a kártyakibocsátási kérelem megalapozott, a működtető a kérelmezővel a Nektv. 13. § (1) bekezdése szerinti hatósági szerződést köt, amely a 8. § (2) bekezdésében foglaltakat is tartalmazza.
+
+(2) Ha a kártyakibocsátási kérelem nem megalapozott, azt a működtető elutasítja.
+
+### 6. A kijelölt kártyakibocsátó és az engedéllyel rendelkező kártyakibocsátó csatlakozása során alkalmazandó közös szabályok
+
+#### 13. §
+
+A működtető a szerződés, valamint a hatósági szerződés (jelen alcím tekintetében a továbbiakban együtt: szerződés) aláírását követő 3 napon belül megküldi az általa képzett kibocsátói azonosító számot a csatlakozott kártyakibocsátó részére.
+
+#### 14. §
+
+Ha a kártyakibocsátó szerződésszegéséről a működtető tudomást szerez, a IV. fejezet szerinti hatósági ellenőrzési eljárást folytat le, egyidejűleg a kártyakibocsátási tevékenységét
+
+a) felfüggesztheti, ha az eset összes körülményei alapján valószínűsíthető, hogy
+
+aa) a személyes adatok védelmével kapcsolatos jogsértés,
+
+ab) a kártyafelhasználók kártyával kapcsolatos jogainak biztosításával kapcsolatos súlyos jogsértés vagy
+
+ac) a NEK biztonságos működését veszélyeztető helyzet
+
+áll fenn,
+
+b) azonnali hatállyal felfüggeszti, ha az eset összes körülményei alapján valószínűsíthető, hogy
+
+ba) a személyes adatok védelmével kapcsolatos súlyos jogsértés vagy
+
+bb) a NEK biztonságos működését közvetlenül és súlyosan veszélyeztető helyzet
+
+áll fenn.
+
+### 7. A megszemélyesítő csatlakozása
+
+#### 15. §
+
+(1) A működtető kérelemre induló minősítési eljárás keretében vizsgálja, hogy a megszemélyesítési tevékenységet folytatni kívánó kérelmező megfelel-e a jogszabályban előírt feltételeknek.
+
+(2) A minősítési eljárás lefolytatása iránti kérelmet az 1. melléklet szerinti tartalommal kell benyújtani.
+
+(3) Az (1) bekezdésben foglalt kérelem mellékletét képezi a szolgáltatási szabályzat tervezete, amelyet a működtető a minősítési eljárás befejezését megelőzően, de legkésőbb az átvételtől számított 30 napon belül jóváhagy, ha az megfelel a 3. § (2) bekezdésében foglaltaknak.
+
+(4) A kérelmező az eljárás során igazolni köteles
+
+a) a miniszteri rendeletben meghatározott, a megszemélyesítési tevékenyég ellátásához szükséges tanúsítványok meglétét és azok érvényességét;
+
+b) azt, hogy rendelkezik a telephely biztonsági tanúsítvány kiadásáról szóló jogszabályban meghatározott, a kártya megszemélyesítéshez használt információs rendszer biztonsági osztályba sorolásának megfelelő telephely biztonsági tanúsítvánnyal;
+
+c)[^1] azt, hogy az általa használt információs rendszer megfelel a Magyarország kiberbiztonságáról szóló törvényben meghatározott biztonsági feltételeknek;
+
+d) a megszemélyesítési tevékenység elvégzéséhez használni kívánt informatikai infrastruktúrának és eszközöknek a megszemélyesítési tevékenység folyamatos és zavartalan folytatásához szükséges minőségi, mennyiségi és informatikai biztonsági megfelelőségét;
+
+e) a megszemélyesítéshez szükséges, elektronikus aláírás létrehozására alkalmas, valamint a biztonságos kulcstárolást és kulcshasználatot biztosító informatikai eszközök rendelkezésre állását;
+
+f) jogszabályban előírt egyéb feltételnek való megfelelést.
+
+(5) A megszemélyesítő a megszemélyesítési tevékenységével összefüggésben köteles ellenőrt foglalkoztatni.
+
+(6) A működtető a megszemélyesítési tevékenységhez szükséges műszaki, technológiai feltételek vizsgálatát a kérelmezőnél a Nemzetbiztonsági Szakszolgálat Szakértői Intézetének bevonásával – szükség esetén helyszíni ellenőrzés keretében – vizsgálja.
+
+#### 16. §
+
+(1) Ha a működtető azt állapítja meg, hogy a megszemélyesítési tevékenységet folytatni kívánó kérelmező megfelel a jogszabályban előírt feltételeknek, erről a tényről visszavonásig érvényes tanúsítványt állít ki.
+
+(2) Ha a működtető azt állapítja meg, hogy a megszemélyesítési tevékenységet folytatni kívánó kérelmező nem felel meg a jogszabályi feltételeknek, erről a hiányosságok megjelölésével értesíti a kérelmezőt, egyúttal 30 napos határidő kitűzésével felhívja a kérelmezőt a jogszabályi feltételeknek történő megfelelés igazolására.
+
+### 8. A kártyaelfogadó csatlakozása
+
+#### 17. §
+
+(1) A kérelmező a 3. mellékletben foglalt kérelemmel együtt a szolgáltatási szabályzatának tervezetét az általa a NEK-en keresztül nyújtandó szolgáltatás megkezdése előtt jóváhagyás céljából megküldi a működtetőnek.
+
+(2) A kártyaelfogadó a jóváhagyott szolgáltatási szabályzatát megküldi a kártyakibocsátónak.
+
+(3)[^2] Az (1) és (2) bekezdésben foglaltak teljesülését követő 60 napon belül a NEK szolgáltatások működéséhez szükséges adatszolgáltatás érdekében a kártyaelfogadó szerződést köt a kártyakibocsátóval
+
+a) a kártya érvényességére,
+
+b) a kibocsátási célt képező jogosultság vagy tény fennállására vonatkozóan.
+
+(4)[^3] A (3) bekezdés szerinti szerződés hatálya kiterjed a Nektv. 20. § (3) bekezdése szerinti ellenőrzés keretében igényelt adatra.
+
+(5) A kártyaelfogadó a (3) bekezdésében meghatározott szerződések megkötését követően veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatásokat a NEK-en keresztül a kártyafelhasználó részére.
+
+### 9. Kártyafelhasználói regisztráció
+
+#### 18. §
+
+A kártyafelhasználói regisztráció keretében a kijelölt hatóság kérelemre a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény és az annak végrehajtásáról rendelkező, a személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló kormányrendelet szerinti egységes arcképmás- és aláírás-felvételezést folytat le.
+
+#### 19. §
+
+A Nektv. 7. § (3) bekezdésében meghatározott adatokat át kell adni a működtető részére.
+
+#### 19/A. §[^4]
+
+A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a kártyafelhasználói regisztráció ügyében megilleti az eljárási képesség.
+
+### 10. Kártyaigénylés, kártyaletiltás és -korlátozás
+
+#### 20. §
+
+A Nektv. 16. § (2) bekezdésében megjelölt kártyaigénylő lap a kártyakibocsátó mellett az adatrögzítőnél is benyújtható.
+
+#### 21. §
+
+(1) A kártyafelhasználó a kártya elvesztése, eltulajdonítása, megsemmisülése vagy megrongálódása tényét – jogszabály eltérő rendelkezése hiányában – a kártya letiltása érdekében köteles haladéktalanul a kártyakibocsátónál vagy az adatrögzítőnél bejelenteni.
+
+(2) A kártyakibocsátó az (1) bekezdés szerinti bejelentést haladéktalanul rögzíti a Nektv. 19. §-a szerinti nyilvántartásban. A kártyakibocsátó a letiltás tényéről a működtetőt elektronikusan értesíti.
+
+(3) A (2) bekezdés szerinti értesítést követően a kártyakibocsátó – jogszabály eltérő rendelkezése hiányában – az egyéb, a kártyával igazolt jogviszonyból eredő igények érvényesítését vagy elévülését követően haladéktalanul törli a kártyafelhasználó adatait a nyilvántartásából, amiről értesíti a működtetőt.
+
+(4) Ha az (1) bekezdés szerinti bejelentés megtétele az adatrögzítőnél történik, az haladéktalanul továbbítja azt a kártyakibocsátó részére, amely a (2) és (3) bekezdésben foglaltak szerint jár el.
+
+#### 22. §
+
+(1) A kártyafelhasználó a Nektv. 4. § (4) bekezdése szerinti – másodlagos kártyára vonatkozó – korlátozás iránti nyilatkozatot a kártyakibocsátónál, illetve az adatrögzítőnél nyújthatja be.
+
+(2) Az (1) bekezdés szerinti korlátozás feloldása iránti nyilatkozatot a kártyafelhasználó a kártya érvényességi ideje alatt a kártyakibocsátónál vagy az adatrögzítőnél nyújthatja be.
+
+(3) Az (1) és (2) bekezdésben foglalt nyilatkozatokról a kártyakibocsátó haladéktalanul, elektronikus úton értesíti a működtetőt, aki a NEK központi nyilvántartásában rögzíti a korlátozás és annak feloldása tényét.
+
+(4) Ha az (1) és (2) bekezdés szerinti nyilatkozat megtétele az adatrögzítőnél történik, az haladéktalanul továbbítja azt a kártyakibocsátó részére, amely a (3) bekezdésben foglaltak szerint jár el.
+
+#### 23. §
+
+(1) A kártyafelhasználó az elsődleges kártya eltulajdonítása, megsemmisülése vagy elvesztése esetén az elsődleges kártya pótlása, míg az elsődleges kártya megrongálódása esetén az elsődleges kártya cseréje iránti kérelmét – az érintett elsődleges kártya megnevezésével és a kérelem benyújtása indokának megjelölésével – nyújthatja be az elsődleges kártya kibocsátójánál vagy a vele szerződött adatrögzítőnél.
+
+(2) Az (1) bekezdés szerinti kérelem előterjesztésekor a kártyafelhasználónak nyilatkoznia kell arról, hogy kéri-e az eltulajdonított, elvesztett, megsemmisült vagy megrongálódott elsődleges kártyához hozzárendelt összes másodlagos kártya hozzárendelését az új elsődleges kártyához.
+
+(3) Ha a kártyafelhasználó kéri másodlagos kártyáinak hozzárendelését az új elsődleges kártyához, az elsődleges kártya kibocsátója az (1) bekezdés szerinti kérelmet – a működtető mellett – haladéktalanul megküldi valamennyi érintett másodlagos kártya kibocsátójának.
+
+(4) Az elsődleges kártya megrongálódása esetén a megrongálódott kártyát az (1) bekezdés szerinti kérelem benyújtásakor az elsődleges kártya kibocsátójánál vagy a vele szerződött adatrögzítőnél le kell adni. Az adatrögzítő a nála leadott kártyát 3 napon belül továbbítja a kártyakibocsátónak. A kártyakibocsátó gondoskodik a leadott kártyák fizikai érvénytelenítéséről.
+
+(5) A pótlás vagy csere eredményeképpen előállított kártyán megjelenített módon és elektronikusan szereplő adatok, továbbá a kártya érvényességi ideje megegyezik a pótolt, cserélt kártya adataival és érvényességi idejével.
+
+(6) A kártyakibocsátó a Nektv. 9. § (9) és (10) bekezdése szerinti értesítést követően a kártyafelhasználó adatait – jogszabály eltérő rendelkezése hiányában – haladéktalanul törli a nyilvántartásából.
+
+#### 24. §
+
+A kártyafelhasználó a kártya érvényességének meghosszabbítása iránt kérelmet nyújthat be a kártyakibocsátónál vagy az adatrögzítőnél, ha
+
+a) a kártyán megjelenített módon és elektronikusan szereplő adataiban nem következett be változás a kártya megszemélyesítése óta,
+
+b) a kártya érvényességi ideje még nem járt le,
+
+c) a kártyán megjelenített módon nincs feltüntetve a kártya érvényességére vonatkozó adat, és
+
+d) a kártyafelhasználói regisztráció érvényességének lejártáig legalább 30 nap van hátra.
+
+#### 25. §
+
+A 20–24. § szerinti eljárások rendjét a kártyakibocsátó által kiadott szolgáltatási szabályzat tartalmazza.
+
+## IV. Fejezet — HATÓSÁGI ELLENŐRZÉS
+
+#### 26. §
+
+(1) A működtető által lefolytatott hatósági ellenőrzés célja a kártyakibocsátás, a megszemélyesítés és a kártyaelfogadás jogszerűségének biztosítása.
+
+(2) A működtető ellenőrizheti, hogy az (1) bekezdés szerinti – hatósági ellenőrzés alá vont – érintett szervezet tevékenysége a jogszabályokban, a megkötött hatósági szerződésben vagy szerződésben, valamint a szolgáltatási szabályzatában foglalt rendelkezéseknek megfelel-e.
+
+(3) Az (1) bekezdés szerinti ellenőrzés a kártyaelfogadó esetében a terminál üzemeltetésére és használatára, továbbá a kártyaelfogadó rendelkezésére bocsátott tanúsítványok és a kártyafelhasználók személyes adatainak biztonságára is kiterjed.
+
+#### 27. §
+
+(1) Ha a működtető a hatósági ellenőrzés eredményeképpen azt állapítja meg, hogy az ellenőrzés alá vont a 26. § (2) bekezdésében foglalt kötelezettségének nem, vagy nem megfelelően tesz eleget, 45 napos határidő tűzésével felhívja a jogszerű működés helyreállítására, egyidejűleg az általa folytatott tevékenységét
+
+a) felfüggesztheti, ha az eset összes körülményei alapján valószínűsíthető, hogy
+
+aa) a személyes adatok védelmével kapcsolatos jogsértés,
+
+ab) a kártyafelhasználók kártyával kapcsolatos jogainak biztosításával kapcsolatos súlyos jogsértés vagy
+
+ac) a NEK biztonságos működését veszélyeztető helyzet
+
+áll fenn,
+
+b) azonnali hatállyal felfüggeszti, ha az eset összes körülményei alapján valószínűsíthető, hogy személyes adatok védelmével kapcsolatos súlyos jogsértés vagy a NEK biztonságos működését közvetlenül és súlyosan veszélyeztető helyzet áll fenn.
+
+(2) Ha az (1) bekezdés alapján felfüggesztett kártyakibocsátó a jogszerű működés követelményeinek az (1) bekezdés szerinti határidőn belül nem tesz eleget, a működtető a kártyakibocsátóval kötött szerződést vagy hatósági szerződést azonnali hatállyal felmondja.
+
+(3) Ha az (1) bekezdésben megjelölt esetben a megszemélyesítő a jogszerű működés helyreállítása érdekében tett felhívásban foglaltaknak nem tesz eleget, a működtető a részére kiadott tanúsítványt visszavonja.
+
+## V. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 28. §
+
+Ez a rendelet 2018. január 1-jén lép hatályba.
+
+#### 29. §
+
+E rendeletet – a 10. § (1) bekezdése kivételével – a hatálybalépését megelőzően benyújtott, még el nem bírált kérelem elbírálása, valamint a folyamatban lévő hatósági ellenőrzés során is alkalmazni kell.
+
+## 1. melléklet a 304/2017. (X. 27.) Korm. rendelethez
+
+**A minősítési eljárás megindítása (megszemélyesítő) iránti kérelem adatai**
+
+1\. Kérelmező megnevezése,
+
+2\. kérelmező cégjegyzékszáma/nyilvántartási száma,
+
+3\. kérelmező képviseletében eljáró személy neve, beosztása és címe,
+
+4\. kérelmező azon telephelye, ahol megszemélyesítési tevékenységet kíván végezni,
+
+5\. kérelem a minősítési eljárás lefolytatása iránt,
+
+6\. jogszabályban előírt egyéb mellékletek.
+
+## 2. melléklet a 304/2017. (X. 27.) Korm. rendelethez
+
+**Kártyakibocsátói kérelem adatai**
+
+1\. Kérelmező megnevezése,
+
+2\. kérelmező cégjegyzékszáma/nyilvántartási száma,
+
+3\. kérelmező képviseletében eljáró személy neve, beosztása és címe,
+
+4\. kibocsátási cél megnevezése, rövid leírása,
+
+5\. kibocsátani tervezett kártyák száma,
+
+6\. kibocsátani tervezett kártyák látványterve és a kártyán nem elektronikusan megjeleníteni kívánt adattartalom,
+
+7\. kártyakibocsátási folyamat részletes leírása,
+
+8\. kérelem a szolgáltatási szabályzat jóváhagyása, a kártyakibocsátás engedélyezése, valamint a hatósági szerződés megkötése iránt,
+
+9\. jogszabályban előírt egyéb mellékletek.
+
+## 3. melléklet a 304/2017. (X. 27.) Korm. rendelethez
+
+**Kártyaelfogadói kérelem adatai**
+
+1\. Kérelmező megnevezése,
+
+2\. kérelmező cégjegyzékszáma/nyilvántartási száma,
+
+3\. kérelmező képviseletében eljáró személy neve, beosztása és címe,
+
+4\. azon kártyakibocsátó(k) és kártya/kártyák megnevezése, amely(ek) tekintetében a kártyaelfogadást megvalósítani kívánja,
+
+5\. kártyaelfogadási folyamat részletes leírása,
+
+6\. kérelem a szolgáltatási szabályzat jóváhagyása, a kártyaelfogadás engedélyezése iránt,
+
+7\. jogszabályban előírt egyéb mellékletek.
+
+---
+
+[^1]: A 15. § (4) bekezdés c) pontja a 418/2024. (XII. 23.) Korm. rendelet 132. §-a szerint módosított szöveg.
+[^2]: A 17. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^3]: A 17. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^4]: A 19/A. §-t a 310/2023. (VII. 14.) Korm. rendelet 6. §-a iktatta be.

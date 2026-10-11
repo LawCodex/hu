@@ -1,0 +1,365 @@
+---
+title: "212/2013. (VI. 19.) Korm. rendelet a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről"
+identifier: "212/2013. (VI. 19.) Korm. rendelet"
+njt_id: "2013-212-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/212"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-06-19
+in_force_from: 2013-07-01
+last_amended: 2023-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-212-20-22"
+retrieved: 2026-10-12
+---
+
+# 212/2013. (VI. 19.) Korm. rendelet a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről
+
+A Kormány
+
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 13. § tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés a) és g) pontjában, valamint a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. § b) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+a)[^1] *gyógyszerész:* a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 74. § (1) bekezdés a) és b) pontjában meghatározott, Magyarországon megszerzett gyógyszerész oklevéllel vagy a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevéllel rendelkező személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerész és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész, továbbá bármely gyógyszerész, aki a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljárva közforgalmú gyógyszertárat működtető vállalkozásban tulajdoni hányadot kíván szerezni;
+
+b) *közforgalmú gyógyszertár:* a Gyftv. 3. § 16. pontjában meghatározott gyógyszertár;
+
+c) *hitelcéllal érintett gyógyszertár:* az a közforgalmú gyógyszertár, amelyet működtető gazdasági társaságban a gyógyszerész tulajdoni hányadot kíván szerezni;
+
+d)[^2] *Patika Hitelprogram:* az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által az MFB Vállalkozásfinanszírozási Program vagy az MFB Vállalkozásfinanszírozási Program 2020 (a továbbiakban együtt: Vállalkozásfinanszírozási Program) keretében működtetett program;
+
+e) *kedvezményes hitel vagy kölcsön:* a Patika Hitelprogram keretében felvehető, kedvezményes kamatozású hitel vagy kölcsön;
+
+f)[^3] *pénzügyi intézmény:* a Vállalkozásfinanszírozási Programban részt vevő, az MFB Zrt. honlapján közzétett, a hitelprogramhoz csatlakozott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény;
+
+g)[^4] *köztartozás:* az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti tartozás;
+
+h)[^5] *általános csekély összegű (de minimis) rendelet:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet;
+
+i) *általános csekély összegű (de minimis) támogatás:* az általános csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás;
+
+j) *támogatást nyújtó szerv:* az egészségügyért felelős miniszter;
+
+k) *kamattámogatás:* a támogatást nyújtó szerv által a gyógyszerészek részére, a Patika Hitelprogramban felvett hitelek után fizetendő kamatok megfizetéséhez nyújtott állami támogatás;
+
+l) *támogatástartalom:* a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
+
+m) *támogatástartalomról szóló igazolás:* a kamattámogatás támogatástartalmáról szóló, a támogatás nyújtó szerv által kiállított igazolás, amely a támogatás „de minimis” jellegét is megjelöli.
+
+## 1/A. §[^6]
+
+A Kormány a Gyft. 83/A. § (6) bekezdésében meghatározott, a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének finanszírozását támogató Tőkealap vonatkozásában tőkealap-kezelő szervezetként kizárólagos joggal a Hiventures Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot jelöli ki.
+
+## 2. §
+
+(1) E rendelet alapján kamattámogatásra jogosult az a gyógyszerész, aki a Patika Hitelprogram keretében közforgalmú gyógyszertárat működtető gazdasági társaságban való tulajdonhányad megszerzése céljából a pénzügyi intézménnyel hitel- vagy kölcsönszerződést köt.
+
+(2) A kamattámogatás mellett folyósított kedvezményes hitelt vagy kölcsönt a gyógyszerész kizárólag közforgalmú gyógyszertárat működtető gazdasági társaságban való tulajdonhányad megszerzésére használhatja fel.
+
+(2a)[^7] Egy hitelcéllal érintett gyógyszertár esetében legfeljebb három gyógyszerésznek nyújtható kamattámogatás mellett folyósított kedvezményes hitel vagy kölcsön.
+
+(3) A kamattámogatás olyan kedvezményes hitel- vagy kölcsönszerződéshez vehető igénybe, amelynek
+
+a) összege ügyfelenként
+
+aa) legalább 5 millió Ft,
+
+ab)[^8] az adott hitelfelvétel során az üzleti terv és a bankári biztosítékok alapján a pénzügyi intézmény belső szabályzatai szerint kalkulált, és az 5. § (3) bekezdése figyelembe vételével nyújtható hitelösszeg, azzal, hogy az nem haladhatja meg a 150 millió forintot,
+
+b) futamideje legfeljebb 10 év lehet, legfeljebb 1 éves tőketörlesztési türelmi idő biztosításával,
+
+c) rendelkezésre tartási ideje legfeljebb 6 hónap lehet,
+
+d) esetében a tőketörlesztés megkezdésének esedékessége a türelmi időt követő banki munkanap,
+
+e) a tőketörlesztési módja: negyedévente egyenlő tőketörlesztő részletekben.
+
+(4)[^9] A kedvezményes hitelhez vagy kölcsönhöz nyújtott kamattámogatás mértéke a Patika Hitelprogram keretében felvett hitel vagy kölcsön ügyleti kamatának 3%-ra történő csökkentéséhez szükséges összeg, de legfeljebb 3,7%.
+
+(5)[^10] A kamattámogatás forrása a központi költségvetésről szóló törvényben az egészségügyért felelős miniszter által vezetett minisztérium költségvetési fejezetében e célra megállapított előirányzat.
+
+## 3. §
+
+A kedvezményes hitel vagy kölcsön és a kamattámogatás igénybevételére az a gyógyszerész jogosult, aki
+
+a)[^11] a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti elővásárlási jog gyakorlásával tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban,
+
+aa) oly módon, hogy 2017. január 1-jét követően sem közvetlenül, sem közvetetten nem rendelkezett tulajdoni hányaddal gyógyszertárat működtető gazdasági társaságban,
+
+ab) amely egy település gyógyszerellátását egyedül biztosítja,
+
+ac) oly módon, hogy a tulajdonhányad szerzésével növekedik a meglévő gyógyszerészi tulajdoni hányad a gyógyszertárat működtető gazdasági társaságban, vagy
+
+ad) amely 100%-os gyógyszerészi tulajdoni hányaddal rendelkezik.
+
+b) nyilatkozik arról, hogy
+
+ba) a hitelkérelem benyújtásának időpontjában mekkora összegű általános csekély összegű (de minimis) támogatást vett igénybe a kamattámogatási kérelem benyújtását megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben,
+
+bb) a hitelkérelem benyújtásának időpontjában az adott pénzügyi év, valamint az azt megelőző két pénzügyi év folyamán számára megítélt általános csekély összegű (de minimis) támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő forintösszeget,
+
+bc) a hitelkérelem benyújtásának időpontjáig a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban való tulajdonhányad megszerzésére vett-e igénybe más állami támogatást, és ha igen, csatolja az igénybe vett más állami támogatás kapcsán kiállított igazolást,
+
+bd) tudomásul veszi, hogy amennyiben a ba) és *bb)* alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően más de minimis támogatás igénybevétele miatt, úgy arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt és a támogatást nyújtó szervet;
+
+c)[^12] csatolja a Nemzeti Népegészségügyi és Gyógyszerészeti Központ nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
+
+d)[^13] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Országos Kórházi Főigazgatóság által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+
+e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
+
+ea) a társaság hozzájárulása ahhoz, hogy a hitelt felvenni kívánó gyógyszerész a Gyftv. 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltétel teljesítése érdekében tulajdonhányadot szerezzen,
+
+eb) a társaság döntése arról, hogy az adásvétel után kialakult tulajdoni arányoknak megfelelően történik a tulajdonosi jogok gyakorlása, és ennek a társasági szerződésben történő rögzítésére sor kerül,
+
+ec) abban az esetben, ha az adott gyógyszertárra vonatkozóan a működtetést másik gazdasági társaság veszi át, a társaság döntése a jogutódlásról,
+
+ed) a társaság ülésén megjelent valamennyi tag, köztük a személyi jogos gyógyszerész aláírása,
+
+ee)[^14] a hitelt felvenni kívánó gyógyszerész által szerezni kívánt, százalékban kifejezett tulajdoni hányadot;
+
+f) csatolja
+
+fa) a gazdasági társaság legfőbb szerve által az *e)* pontban említett döntést követően megkötött, az *e)* pont *eb)* alpontjában foglalt döntéssel összhangban lévő tulajdonhányad átruházási szerződést, melynek legkésőbb a 6. § (3) bekezdés a) pontja szerinti időpontban hatályba kell lépnie, és
+
+fb) mindazon személyek lemondó nyilatkozatát, akik a tulajdonhányad megszerzésére az fa) alpont szerinti szerződéshez kapcsolódóan tulajdonhányadot szerző gyógyszerésszel szemben elsőbbséget élveznének;
+
+g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett hitel vagy kölcsön nem rendeltetésszerű felhasználásából vagy más okból adódó jogosulatlan igénybevétel megállapítása esetén a már igénybe vett kamattámogatás összegét a támogatást nyújtó szerv részére megfizeti;
+
+h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
+
+## 4. §
+
+Nem jogosult kedvezményes hitel vagy kölcsön és kamattámogatás igénybevételére az a gyógyszerész, aki
+
+a) a hitelkérelem benyújtásának időpontjában lejárt esedékességű, adó- vagy adók módjára behajtható köztartozással rendelkezik, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett;
+
+b) a hitelkérelem benyújtásának időpontjában hitel-, kölcsön- vagy lízingszerződésből eredő lejárt tartozással rendelkezik;
+
+c) a gyógyszerészi foglalkozástól eltiltás hatálya alatt áll;
+
+d) nem tett eleget az előírt határidőben az Európai Bizottság állami támogatás felfüggesztését vagy állami támogatás visszafizettetését elrendelő határozatának;
+
+e) olyan gyógyszertárat működtető, a hitelcéllal érintett gazdasági társaságban kíván tulajdonhányadot szerezni, amely a hitelkérelem benyújtásának időpontjában
+
+ea) lejárt esedékességű, adó- vagy adók módjára behajtható köztartozással rendelkezik, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett,
+
+eb) hitel-, kölcsön- vagy lízingszerződésből eredő lejárt tartozással rendelkezik;
+
+f) a pénzügyi intézmény által támasztott, e §-ban nem említett hitelezési feltételeket nem teljesíti;
+
+g) e rendelet alapján már kedvezményes hitelben vagy kölcsönben, illetve kamattámogatásban részesült, kivéve azt az esetet, amikor a gyógyszerész ugyanazon gyógyszertár vonatkozásában a Gyftv. 74. § (1) bekezdésében és 83/A. §-ában foglalt feltétel teljesítése érdekében egy alkalommal az 50%-ot meghaladó tulajdonhányad elérése céljából kíván újabb hitelt felvenni.
+
+## 5. §
+
+(1) Kamattámogatás akkor nyújtható, ha a pénzügyi intézmény
+
+a) a hitelkérelem vizsgálatakor dokumentáltan ellenőrzi a 3. §-ban és a 4. §-ban foglalt feltételek teljesülését és megállapítja a feltételeknek történő megfelelést;
+
+b) a Patika Hitelprogram keretében felvett hitelhez vagy kölcsönhöz kapcsolódó kamattámogatás támogatástartalmáról előzetes számítást végez az 1. mellékletben meghatározott módszertan szerint, a számításhoz szükséges összes adat feltüntetésével.
+
+(2) A hitelösszeg meghatározásakor a pénzügyi intézmény dokumentáltan ellenőrzi a gyógyszerész 3. § b) pont *ba)* és *bb)* alpontja szerinti nyilatkozata alapján a részére rendelkezésre álló szabad csekély összegű (de minimis) keretet.
+
+(3) A rendelkezésre álló szabad csekély összegű (de minimis) keret meghatározásánál figyelembe kell venni a kedvezményes hitel vagy kölcsön kedvezményes kamatozásából származó támogatástartalmat, valamint a kamattámogatás támogatástartalmát is.
+
+(4) A hitelfelvevő gyógyszerész legfeljebb a rendelkezésre álló szabad csekély összegű (de minimis) keret figyelembevételével megállapított mértékű hitelben és kamattámogatásban részesülhet, ha az (1) bekezdés szerint a gyógyszerész számára rendelkezésre álló szabad csekély összegű (de minimis) keret nem nyújt fedezetet a hitelkérelemben igényelt hitelhez kapcsolódó kamattámogatás és a kedvezményes hitel vagy kölcsön támogatástartalmára.
+
+(5)[^15] A gyógyszerész részére nyújtható hitelösszeg meghatározását megelőzően a pénzügyi intézmény megvizsgálja a benyújtott üzleti terv alapján a hitelösszeg megalapozottságát.
+
+(6)[^16]
+
+## 6. §
+
+(1) A hitelkérelmet a gyógyszerész a Patika Hitelprogramban részt vevő pénzügyi intézményhez nyújtja be.
+
+(2) A pénzügyi intézmény a Patika Hitelprogramban való részvételi jogosultság megvizsgálását és a hitelkérelem elbírálását követően hitel- vagy kölcsönszerződést köthet a gyógyszerésszel, amennyiben arra e rendelet szerint lehetőség van.
+
+(3) A hitel- vagy kölcsönszerződés hatálybalépési feltétele, hogy
+
+a) a támogatást nyújtó szerv 8. § (1) bekezdése szerinti támogatói okirata, valamint 8. § (3) bekezdése szerinti támogatástartalomról szóló igazolása a pénzügyi intézményhez megérkezik,
+
+b) a pénzügyi intézmény és az MFB Zrt. között létrejön az ügyletre vonatkozó refinanszírozási kölcsönszerződés.
+
+(4) A hitel- vagy kölcsönszerződést úgy kell megkötni, hogy az első kamatfizetés időpontja nem lehet korábbi, mint 2014. január 1-je. A további kamatfizetés minden naptári negyedév utolsó hónapját követő hónap első banki munkanapján esedékes.
+
+## 7. §
+
+(1) A gyógyszerész a 2. mellékletben megjelölt adattartalommal rendelkező kamattámogatási kérelmét (a továbbiakban: kamattámogatási kérelem) a támogatást nyújtó szervhez nyújthatja be a hitel- vagy kölcsönszerződés megkötését követő 15 naptári napon belül.
+
+(2) A kamattámogatási kérelem kötelező melléklete
+
+a) a pénzügyi intézménnyel megkötött hitel- vagy kölcsönszerződés,
+
+b) a pénzügyi intézmény számítása a rendelkezésre álló adatok alapján a futamidő alatt fizetendő kamat és a kamattámogatás várható összegéről évenkénti bontásban.
+
+## 8. §
+
+(1)[^17] A támogatást nyújtó szerv a hiánytalan kamattámogatási kérelemről annak beérkezését követő 15 naptári napon belül a kamattámogatási kérelem és a pénzügyi intézménnyel kötött hitel- vagy kölcsönszerződés adatai alapján döntést hoz, és ennek megfelelően az államháztartásról szóló 2011. évi CXCV. törvény 48/A. § (1) bekezdése szerint támogatói okiratot ad ki.
+
+(2) A támogatást nyújtó szerv által kiadott támogatói okirat tartalmazza:
+
+a) a kamattámogatásra való jogosultság megállapítását,
+
+b) a hitelösszeget, ami után a gyógyszerész kamattámogatásra jogosult,
+
+c) a kamattámogatásnak a futamidővel megegyező idejét (a továbbiakban: támogatási időszak),
+
+d) a gyógyszerész tájékoztatását a költségvetési támogatás jogosulatlan igénybevételének az államháztartásról szóló törvény szerinti jogkövetkezményeiről,
+
+e) a támogatást nyújtó szerv tájékoztatását a támogatás kifizetésének módjáról.
+
+(3) A kamattámogatás támogatástartalmát a támogatást nyújtó szerv a hitelszerződéshez csatolt, a kamattámogatás támogatástartalmára vonatkozó, pénzügyi intézmény által végzett előzetes számítás adatai alapján, a gyógyszerész számára rendelkezésre álló szabad csekély összegű (de minimis) keret és a támogatáshalmozódási szabályok figyelembevételével, az 1. mellékletben meghatározott módszertan szerint, a támogatói okirat kiadása napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által jegyzett hivatalos forint/euró devizaárfolyam alapulvételével számolja ki, és a támogatói okirat kiadásával egyidejűleg kiállítja a 3. melléklet szerinti adattartalommal a támogatástartalomról szóló igazolást. A pénzügyi intézmény az e bekezdés szerinti előzetes támogatástartalom számítást a hitelszerződés megkötését megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által jegyzett hivatalos forint/euró devizaárfolyam alapulvételével végzi.
+
+(4) A támogatástartalom összegét a kamattámogatásról való döntés napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által jegyzett hivatalos forint/euró devizaárfolyam alapján kell euróban meghatározni.
+
+(5) A támogatást nyújtó szerv megküldi a támogatói okirat és a támogatástartalomról szóló igazolás 1-1 eredeti példányát a gyógyszerésznek, további 2-2 eredeti példányát a gyógyszerésszel hitel- vagy kölcsönszerződést kötő pénzügyi intézménynek. A támogatástartalomról szóló igazolás 1 példányát a gyógyszerész és a támogatást nyújtó szerv is 15 évig köteles megőrizni.
+
+## 9. §
+
+(1) A pénzügyi intézmény az esedékes kamatfizetést megelőző 15 naptári nappal a 2. § (4) bekezdése figyelembevételével megállapított kamattámogatás mértékével csökkentett kamatot állapítja meg. A gyógyszerész a kamatfizetés esedékességekor a kamattámogatás mértékével csökkentett kamatot fizeti meg a pénzügyi intézménynek.
+
+(2) Amennyiben a pénzügyi intézmény a hitel vagy kölcsön nem rendeltetésszerű felhasználását állapítja meg, arról 15 napon belül tájékoztatja a támogatás nyújtóját.
+
+(3) A hitel nem rendeltetésszerű felhasználása költségvetési támogatás jogosulatlan igénybevételének minősül.
+
+## 10. §
+
+(1) A kamattámogatást a támogatást nyújtó szerv köteles közvetlenül megfizetni az MFB Zrt. részére a (2) és a (3) bekezdésben foglaltak szerint.
+
+(2) A pénzügyi intézmény és az MFB Zrt. között fennálló, a Patika Hitelprogramra vonatkozó refinanszírozási jogviszony alapján az MFB Zrt. által megkötött, hatályos refinanszírozási kölcsönszerződések adatait az MFB Zrt. összesíti és a kamattámogatás részére történő kifizetése céljából azon hónap 15. napjáig, amelyben a kamatfizetés esedékessé válik, igénylést nyújt be a támogatást nyújtó szervhez. Az igénylés az egyes támogatói okiratok szerinti bontásban tartalmazza az MFB Zrt. részére kifizetendő kamattámogatási összeget.
+
+(3) A támogatást nyújtó szerv a (2) bekezdés szerinti igénylés alapján az igénylés támogatást nyújtó szerv általi átvételétől számított 15 naptári napon belül köteles a támogatói okiratban foglaltak alapján kifizetni a kamattámogatás teljes összegét az MFB Zrt. részére. Ha a támogatást nyújtó szerv az igénylés beérkezésétől számított 15 naptári napon belül nem teljesíti a fizetési kötelezettséget az MFB Zrt. felé, úgy a támogatást nyújtó szerv mint kötelezett késedelembe esik és a késedelembe esés időpontjától kezdve köteles a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot fizetni az MFB Zrt. részére.
+
+(4) Az MFB Zrt. és a pénzügyi intézmény közötti refinanszírozási szerződés megkötésének feltétele, hogy a kamattámogatás MFB Zrt. részére történő kifizetésének igénylésére és tényleges kifizetésére vonatkozó részletes eljárási szabályokat az MFB Zrt., a támogatást nyújtó szerv és az államháztartásért felelős miniszter által kijelölt szerv között létrejövő megállapodás szabályozza.
+
+(5) A kamattámogatásra való jogosultságnak a gyógyszerész érdekkörében bekövetkező okból történő elvesztése esetén a gyógyszerész és a pénzügyi intézmény kamattartozása azonnal esedékessé válik.
+
+## 11. §
+
+Ha e rendelet másként nem rendelkezik, a kamattámogatás támogatással kapcsolatos szabályaira az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet alkalmazandó.
+
+## 12. §
+
+(1)[^18] Az általános csekély összegű (de minimis) rendelet 6. cikk (1) bekezdése szerinti kötelezettséget a kamattámogatás tekintetében a támogatást nyújtó szerv köteles teljesíteni.
+
+(2) Nem ítélhető meg csekély összegű támogatás az általános csekély összegű (de minimis) rendelet 1. cikkében meghatározottakhoz.
+
+(3) Csekély összegű támogatás azonos elszámolható költségek vonatkozásában nem halmozható állami támogatással, ha az így halmozott összeg támogatási intenzitása meghaladná az irányadó uniós állami támogatási szabályban meghatározott támogatási intenzitást. A támogatást nyújtó szerv gondoskodik az uniós állami támogatási szabályokban meghatározott támogatáshalmozódási szabályok betartásáról.
+
+## 13. §[^19]
+
+A Patika Hitelprogramban részt vevő gyógyszerész kérelmére az e rendelet alapján 2013. július 1-je és 2016. július 1-je között a Patika Hitelprogram keretében létrejött hitelszerződés alapján fennálló tőketartozásának az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 172/2016. (VII. 1.) Korm. rendelettel megállapított feltételekkel történő kiváltására a hitelt folyósító pénzügyi intézmény – az MFB Zrt. és a támogatást nyújtó szerv egyetértésével – a kérelmezővel új szerződést köthet, feltéve, hogy a hitelszerződésben foglalt feltételeket a hitel felvevője a hitelszerződés megkötése óta maradéktalanul teljesítette.
+
+## 14. §
+
+Ez a rendelet 2013. július 1-jén lép hatályba.
+
+## 15. §[^20]
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+## 1. melléklet a 212/2013. (VI. 19.) Korm. rendelethez
+
+|  | ![](data:image/png;base64,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) |
+|---|---|
+
+TT<sub>E</sub> = TT/r
+
+ahol:
+
+TT: támogatástartalom, a támogatások jelenértékének összege forintban,
+
+TT<sub>E</sub>: támogatástartalom, a támogatások jelenértékének összege euróban,
+
+Q: adott naptári évben a hitelhez nyújtott kamattámogatás összege a törlesztési ütemterv alapján számítva, forintban,
+
+i: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti diszkont kamatláb,
+
+n: naptári évek száma,
+
+r: a Magyar Nemzeti Bank által jegyzett hivatalos forint/euró devizaárfolyam a 8. § (3) bekezdésében foglaltak figyelembe vételével.
+
+## 2. melléklet a 212/2013. (VI. 19.) Korm. rendelethez
+
+**Kamattámogatási kérelem adattartalma**
+
+1\. A gyógyszerész neve
+
+2\. A gyógyszerész kamarai nyilvántartási száma
+
+3\. A hitel- vagy kölcsönszerződés azonosítószáma
+
+4\. A gyógyszerész nyilatkozata arról, hogy kamattámogatást kíván igénybe venni
+
+5.[^21]
+
+6\. Keltezés, aláírás
+
+## 3. melléklet a 212/2013. (VI. 19.) Korm. rendelethez
+
+**A kedvezményes kamatozású hitelhez vagy kölcsönhöz kapcsolódó kamattámogatáshoz szükséges, támogatástartalomról szóló nyilatkozat adattartalma**
+
+1\. A támogatást nyújtó neve
+
+2\. A finanszírozó hitelintézet neve
+
+3\. Az állami támogatás
+
+3.1. formája (kamattámogatás)
+
+3.2.[^22] kategóriája [D Csekély összegű támogatás – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (Európai Unió Hivatalos Lapja 2013.12.24. L 352. 1–8. oldal)]
+
+4\. A támogatott (adós) azonosító adatai
+
+4.1. neve
+
+4.2. lakóhelye (ország, irányítószám, helység, közterület neve, házszám, emelet, ajtó megjelölésével)
+
+4.3. adóazonosító jele
+
+5.[^23] A hitelprogram megnevezése (MFB Vállalkozásfinanszírozási Program 2020 Patika Hitelprogram hitelcél)
+
+6\. A kölcsönszerződés száma
+
+7\. A kölcsön támogatástartalma (TT) forintban és euróban[^24] kifejezve
+
+8.[^25] A támogatást nyújtó szerv által kiállított, keltezéssel és aláírással ellátott nyilatkozat, amelyből kiderül, hogy a kedvezményes kölcsön felhasználására az MFB Zrt. által meghirdetett MFB Vállalkozásfinanszírozási Program 10.3 Patika Hitelprogram hitelcélja, vagy az MFB Vállalkozásfinanszírozási Program 2020 Patika Hitelprogram hitelcél keretében kerül sor, melyhez a támogatást nyújtó szerv kamattámogatást biztosított.
+
+## 4. melléklet a 212/2013. (VI. 19.) Korm. rendelethez[^26]
+
+---
+
+[^1]: Az 1. § a) pontja a 334/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^3]: Az 1. § f) pontja az 537/2013. (XII. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
+[^4]: Az 1. § g) pontja a 475/2017. (XII. 28.) Korm. rendelet 55. §-a szerint módosított szöveg.
+[^5]: Az 1. § h) pontja a 169/2014. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^6]: Az 1/A. §-t a 445/2020. (X. 1.) Korm. rendelet 20. §-a iktatta be.
+[^7]: A 2. § (2a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 58. § (1) bekezdése iktatta be.
+[^8]: A 2. § (3) bekezdés a) pont ab) alpontja a 172/2016. (VII. 1.) Korm. rendelet 58. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^10]: A 2. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 739. §-ával megállapított szöveg.
+[^11]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^12]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a, a 334/2023. (VII. 20.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^13]: A 3. § d) pontja a 70/2021. (II. 19.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^14]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^15]: Az 5. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^16]: Az 5. § (6) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 64. §-a hatályon kívül helyezte.
+[^17]: A 8. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^18]: A 12. § (1) bekezdése a 334/2014. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 172/2016. (VII. 1.) Korm. rendelet 63. §-a iktatta be.
+[^20]: A 15. § a 169/2014. (VII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^21]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^22]: A 3. melléklet 3.2. pontja a 334/2014. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 3. melléklet 5. pontja a 334/2014. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 35. §-ának az alapul vételével.
+[^25]: A 3. melléklet 8. pontja a 334/2014. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 4. mellékletet a 172/2016. (VII. 1.) Korm. rendelet 64. §-a hatályon kívül helyezte.

@@ -1,0 +1,273 @@
+---
+title: "52/2013. (II. 25.) Korm. rendelet a Klebelsberg Képzési Ösztöndíjról"
+identifier: "52/2013. (II. 25.) Korm. rendelet"
+njt_id: "2013-52-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2013/Korm/52"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2013-02-25
+in_force_from: 2013-03-05
+last_amended: 2024-12-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-52-20-22"
+retrieved: 2026-10-12
+---
+
+# 52/2013. (II. 25.) Korm. rendelet a Klebelsberg Képzési Ösztöndíjról
+
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva, a következőket rendeli el:
+
+## 1. §
+
+A Klebelsberg Képzési Ösztöndíj (a továbbiakban: ösztöndíj) a Kormány által alapított ösztöndíj, melynek célja a megfelelően képzett, szakmailag elhivatott, gyakorlati tapasztalattal rendelkező pedagógus-utánpótlás biztosítása.
+
+## 2. §
+
+(1)[^1] Az ösztöndíj működtetéséért a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) felel.
+
+(2)[^2] A miniszternek az (1) bekezdés szerinti tevékenységében közreműködik a Klebelsberg Központ (a továbbiakban: Központ) és a Klebelsberg Képzési Ösztöndíj Bizottság (a továbbiakban: KÖB).
+
+## 3. §
+
+A miniszter
+
+a) dönt az ösztöndíj odaítéléséhez szükséges pályázat (a továbbiakban: pályázat) eredményéről,
+
+b) jóváhagyja
+
+ba) a pályázati felhívást,
+
+bb) az ösztöndíj program működési szabályzatát,
+
+bc)[^3] a Központnak az ösztöndíj program végrehajtásával kapcsolatos éves szakmai és pénzügyi beszámolóját.
+
+## 4. §
+
+(1) A Központ teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében
+
+a) kidolgozza és a miniszter jóváhagyását követően honlapján közzéteszi a pályázati felhívást és az ösztöndíj program működési szabályzatát,
+
+b) lefolytatja a pályázati eljárást,
+
+c) ellátja az ösztöndíjas szerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+
+d) szervezi a KÖB működését,
+
+e) gondoskodik az ösztöndíj program részét képező képzések és egyéb programok megszervezéséről és lebonyolításáról,
+
+f) ellátja az ösztöndíjrendszer pénzügyi-ügyviteli feladatait,
+
+g) kapcsolatot tart a képzést folytató és az ösztöndíj programban részt vevő intézményekkel,
+
+h) monitoring tevékenységet végez a program során a képzés, a gyakorlat területén,
+
+i) közzé teszi azon szakok és szakpárok listáját, melyekben az adott szakos, szakpáros végzettséggel történő majdani munkavállalás esetén az ösztöndíj igénybe vehető,
+
+j)[^4] évente szakmai és pénzügyi beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról,
+
+k)[^5] tájékoztatja a képző felsőoktatási intézményt az elnyert ösztöndíjjal összefüggő, a felsőoktatási intézménynek az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3. melléklet IV. alcím 21. pontja szerinti, az ösztöndíjhoz kapcsolódó adatszolgáltatási kötelezettsége teljesítéséhez szükséges adatokról,
+
+l)[^6] gondoskodik az ösztöndíjas szakképzettségének megfelelő foglalkoztatásra irányuló jogviszony felajánlásáról.
+
+(2) Az ösztöndíjak és az ösztöndíj program működtetésének pénzügyi fedezetét a Központ költségvetésében kell tervezni.
+
+## 5. §
+
+(1)[^7] A KÖB a miniszter által megbízott köznevelési és felsőoktatási vezetőkből és szakértőkből, a Központ által delegált szakértőkből, továbbá a Magyar Rektori Konferencia által a tanárképzés három fő területéről delegált szakértőkből álló legfeljebb tizenegy tagú testület. A KÖB állandó, a miniszter által megbízott tagja, a Központ elnöke. A KÖB elnökét a testület tagjai közül a miniszter bízza meg. Nem lehet a KÖB elnöke, aki a Központ elnöke.
+
+(2) A KÖB
+
+a) az ösztöndíj program működési szabályzatával összhangban javaslatot tesz a miniszternek az ösztöndíjak odaítélésére és mértékére vonatkozóan, melynek során figyelembe veszi a területi és szakos, szakpáros prioritásokat, továbbá felvételi és tanulmányi eredményeket,
+
+b) gyakorolja az ösztöndíjas szerződés módosításával, megszüntetésével kapcsolatos javaslattételi jogköreit.
+
+(3) A testület üléseinek összehívása és levezetése, valamint az ülés napirendjének meghatározása az elnök feladata. A testület a döntéseit nyílt szavazással, a jelenlévő tagok több mint felének egybehangzó szavazatával hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt. A testület határozatképességéhez tagjai több mint felének jelenléte szükséges. Az ülésekről jegyzőkönyvet kell készíteni.
+
+(4) A KÖB ügyrendjét maga állapítja meg.
+
+(5) A KÖB tagjai – az elnök kivételével – a (2) bekezdésben meghatározott feladataikat a Központ vezetője által a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 154. § (3) bekezdése alapján megállapított rendkívüli, célhoz köthető feladatként végezhetik.
+
+## 6. §
+
+Az ösztöndíj program működési szabályzata magában foglalja
+
+a) az ösztöndíjasok képzésének, előmenetelének monitorozását,
+
+b) a pedagógusszükséglet szakos rendszeréhez és a területi ellátottsághoz kapcsolódó ösztöndíj mértékének differenciált megállapítását,
+
+c)[^8] az ösztöndíjasok tanulmányi teljesítményéhez kötött ösztöndíj mértékének meghatározási rendszerét,
+
+d) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésmintát,
+
+e)[^9] az ösztöndíj visszafizetésére engedélyezhető részletfizetés és mentesség szabályait.
+
+## 7. §
+
+(1) A miniszter az ösztöndíjra nyílt pályázatot hirdet meg.
+
+(2) A pályázati felhívás tartalmazza a pályázati feltételeket, a pályázat benyújtásának határidejét, az értékelés pontrendszerét, az ösztöndíj aktuális mértékét, a tanulmányi előmenetellel és az elhelyezkedéssel összefüggő követelményeket.
+
+(3) Pályázat benyújtására az jogosult, aki a pályázat benyújtásának időpontjában
+
+a)[^10] gyógypedagógia alapképzési szakra, tanító alapképzési szakra vagy osztott vagy osztatlan tanárképzésben felvételt nyert vagy már tanulmányokat folytat,
+
+b) vállalja, hogy
+
+ba)[^11] gyógypedagógia alapképzési szakon, tanító alapképzési szakon vagy tanárképzésben a záróvizsga teljesítését követő hat hónapon belül megszerzi oklevelét,
+
+bb)[^12] az oklevél megszerzését követő hat hónapon belül e rendeletben foglaltak szerint a szakképzettségének megfelelő foglalkoztatásra irányuló jogviszonyt létesít, és tart fent a 11. § (1) bekezdésének megfelelően,
+
+c) megfelel a pályázati felhívásban foglalt egyéb feltételeknek.
+
+(4) Az ösztöndíjat a pályázati feltételek és az értékelési szempontok alapján a KÖB javaslatának figyelembevételével a miniszter ítéli oda.
+
+(5)[^13] A pályázati felhívást a Központ honlapján kell közzé tenni.
+
+## 8. §[^14]
+
+Az ösztöndíj a pályázat elnyerését követően az ösztöndíjas tanulmányai során félévente folyósítható, ha az adott félévben az ösztöndíjas hallgatói jogviszonya nem szünetel. A tanulmányok ütemezése során az ösztöndíjast a képző intézmény tanulmányi és vizsgaszabályzatában rögzített jogok és kötelezettségek illetik meg.
+
+## 9. §
+
+(1) Az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket az ösztöndíjas és a Központ által kötött szerződés határozza meg.
+
+(2) Az ösztöndíjas szerződésnek tartalmaznia kell:
+
+a) a felek nevét, illetve megnevezését és az ösztöndíjas szerződés megkötése szempontjából lényeges adatait,
+
+b)[^15] az ösztöndíj összegét és annak kifizetése időpontját, módját, a változtatás feltételeit,
+
+c) az oklevél megszerzését követően az ösztöndíjas által teljesítendő munkavégzés lényeges feltételeit,
+
+d) az adatkezelésre vonatkozó hozzájárulást.
+
+## 11. §[^17]
+
+(1)[^18] Az ösztöndíjas az ösztöndíjas szerződésben foglaltak szerint köteles a Központ által megjelölt vagy a 13. § szerinti köznevelési intézménnyel vagy szakképző intézménnyel foglalkoztatási jogviszonyt létesíteni, és azt az ösztöndíjas szerződésben vállalt foglalkoztatás idejének megfelelő időtartamban fenntartani.
+
+(2)[^19] Az (1) bekezdéstől eltérően az ösztöndíjas nem követ el szerződésszegést, ha a Központ által felajánlott pedagógus munkakörre szóló foglalkoztatási jogviszonyt azért utasítja el, mert a felajánláskor vagy az annak időpontjától számított 30 napon belül az ösztöndíjprogramban a 13. § alapján részt vevő köznevelési intézménnyel vagy szakképző intézménnyel létesít foglalkoztatási jogviszonyt, vagy a felajánlás időpontjában ilyen jogviszonya áll fenn. Az ösztöndíjas a foglalkoztatási jogviszonyra vonatkozó szerződést vagy kinevezést és az annak megszüntetéséről szóló okiratot a Központnak az elutasító jognyilatkozattal egyidejűleg vagy a létrejöttét követően haladéktalanul köteles bemutatni.
+
+## 12. §[^20]
+
+(1) Az ösztöndíjas az ösztöndíjas szerződést – a 11. § (1) bekezdése szerinti foglalkoztatási jogviszony létesítését megelőzően – felmondhatja.
+
+(2) A KÖB elnökének döntése alapján a Központ megszünteti az ösztöndíjas szerződést, ha az ösztöndíjas életkörülményeiben olyan, a hallgató által igazolt, az ösztöndíjas szerződés megkötését követően bekövetkezett változás történt, amire tekintettel önhibáján kívül pedagógus munkakörben nem alkalmazható.
+
+(3) Megszűnik az ösztöndíjas szerződés, ha
+
+a) a Központ a 7. § (3) bekezdés a) pontja szerinti képzésre tekintettel kiállított oklevél megszerzését követő hat hónapon belül nem ajánl fel az ösztöndíjas végzettségének megfelelő pedagógus állást,
+
+b) az ösztöndíjas foglalkoztatásra irányuló jogviszonyát a 11. § (1) bekezdése szerinti időtartam alatt megszünteti, vagy
+
+c) az ösztöndíjas nem vállalja a pedagógus munkakörben történő alkalmazást.
+
+## 12/A. §[^21]
+
+(1) Az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét kilencven napon belül visszafizetni
+
+a) a 12. § (1) bekezdése szerinti esetben,
+
+b) a 12. § (3) bekezdés c) pontja szerinti esetben, vagy
+
+c) ha a szerződést a Központ felmondja.
+
+(2) A 12. § (3) bekezdés b) pontja szerinti esetben az ösztöndíjas köteles a le nem dolgozott időtartamnak megfelelő összeget visszafizetni.
+
+(3) Az ösztöndíjast a részére kifizetett ösztöndíj visszafizetésére vonatkozó kötelezettség nem terheli
+
+a) a 12. § (2) bekezdése szerinti esetben,
+
+b) a 12. § (3) bekezdés a) pontja szerinti esetben, vagy
+
+c) ha a szerződés felmondásának oka a Központ szerződésszegése.
+
+## 12/B. §[^22]
+
+A KÖB elnöke – az ösztöndíj program működési szabályzatában foglaltak szerint – az ösztöndíjas kérelmére engedélyezheti
+
+a) az ösztöndíjas kötelezettségeinek szüneteltetését,
+
+b) a visszafizetési kötelezettség részletekben történő teljesítését.
+
+## 12/C. §[^23]
+
+A Központ fizetési felszólítást küld a volt ösztöndíjasnak a fizetési kötelezettség teljesítése érdekében. A fizetési felszólítás eredménytelensége esetén a Központ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 102. § (3a) bekezdése alapján megkeresi az állami adó- és vámhatóságot a tartozás behajtása érdekében.
+
+## 13. §[^24]
+
+Az ösztöndíjprogramban a tankerületi központ által fenntartott köznevelési intézményen kívül a ellenérték fizetése nélkül részt vehet
+
+a) az állami felsőoktatási intézmény, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény és a bevett egyházi felsőoktatási intézmény által fenntartott köznevelési intézmény,
+
+b) a bevett egyházi jogi személy által fenntartott köznevelési intézmény,
+
+c) a 100% állami tulajdonban álló gazdasági társaság által fenntartott köznevelési intézmény,
+
+d) a nemzetiségi önkormányzati fenntartású köznevelési intézmény, valamint
+
+e) az állami fenntartású vagy az a)-d) pont szerinti fenntartó által fenntartott szakképző intézmény.
+
+## 14. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^25]
+
+(3)[^26]
+
+## 15. §[^27]
+
+E rendeletnek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 191/2019. (VII. 30.) Korm. rendelettel megállapított 7. § (3) bekezdés b) pont ba) alpontjában foglalt rendelkezést a 2020/2021-es tanév első félévében és azt követően ösztöndíjas szerződést kötő hallgatókra kell alkalmazni.
+
+## 16. §[^28]
+
+E rendeletnek a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosításáról szóló 571/2021. (X. 6.) Korm. rendelettel (a továbbiakban: Mód.r.) megállapított 11. §-át és 13. §-át a Mód.r. hatálybalépésekor[^29] hatályban lévő, az ösztöndíjas és a Központ által kötött ösztöndíjas szerződésekre, továbbá azokra a volt ösztöndíjasokra is alkalmazni kell, akik 2021. június 1-jét követően szerezték meg oklevelüket. Az ösztöndíjasnak a 13. § szerinti köznevelési intézményben történő munkavégzése az ösztöndíjszerződés szerződésszerű teljesítésének minősül.
+
+## 17. §[^30]
+
+E rendeletnek az egyes felsőoktatási, köznevelési és innovációs tárgyú kormányrendeletek módosításáról szóló 331/2023. (VII. 19.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 13. § a) és c) pontját a Módr2. hatálybalépésekor[^31] hatályban lévő ösztöndíjas szerződésekre is alkalmazni kell.
+
+## 18. §[^32]
+
+E rendeletnek a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosításáról szóló 621/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 13. §-át a Módr3. hatálybalépésekor[^33] hatályban lévő ösztöndíjas szerződésekre is alkalmazni kell.
+
+## 19. §[^34]
+
+E rendeletnek a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosításáról szóló 355/2024. (XI. 21.) Korm. rendelettel módosított 7. § (3) bekezdés a) pontját a 2024/2025-ös tanév első félévében és azt követően ösztöndíjas szerződést kötő hallgatókra kell alkalmazni.
+
+---
+
+[^1]: A 2. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 122. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 134/2016. (VI. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^3]: A 3. § b) pont bc) alpontja a 355/2024. (XI. 21.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés j) pontja a 355/2024. (XI. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés k) pontját a 220/2014. (VIII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés l) pontját a 191/2019. (VII. 30.) Korm. rendelet 37. §-a iktatta be.
+[^7]: Az 5. § (1) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^8]: A 6. § c) pontja a 220/2014. (VIII. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^9]: A 6. § e) pontját a 191/2019. (VII. 30.) Korm. rendelet 39. §-a iktatta be.
+[^10]: A 7. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 355/2024. (XI. 21.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdés b) pont ba) alpontja a 191/2019. (VII. 30.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^12]: A 7. § (3) bekezdés b) pont bb) alpontját a 191/2019. (VII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^13]: A 7. § (5) bekezdése az 533/2022. (XII. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^14]: A 8. § a 220/2014. (VIII. 29.) Korm. rendelet 30. §-ával megállapított, szövege a 191/2019. (VII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^15]: A 9. § (2) bekezdés b) pontját a 345/2015. (XI. 19.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^17]: A 11. § az 571/2021. (X. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 11. § (1) bekezdése a 621/2023. (XII. 22.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^19]: A 11. § (2) bekezdése a 621/2023. (XII. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^20]: A 12. § a 191/2019. (VII. 30.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^21]: A 12/A. §-t a 191/2019. (VII. 30.) Korm. rendelet 42. §-a iktatta be.
+[^22]: A 12/B. §-t a 191/2019. (VII. 30.) Korm. rendelet 42. §-a iktatta be.
+[^23]: A 12/C. §-t a 191/2019. (VII. 30.) Korm. rendelet 42. §-a iktatta be.
+[^24]: A 13. § a 621/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 406/2024. (XII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^25]: A 14. § (2) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 31. §-a hatályon kívül helyezte.
+[^26]: A 14. § (3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 31. §-a hatályon kívül helyezte.
+[^27]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 191/2019. (VII. 30.) Korm. rendelet 43. §-a iktatta be.
+[^28]: A 16. §-t az 571/2021. (X. 6.) Korm. rendelet 3. §-a iktatta be.
+[^29]: A hatálybalépés időpontja 2021. október 7.
+[^30]: A 17. §-t a 331/2023. (VII. 19.) Korm. rendelet 8. §-a iktatta be.
+[^31]: A hatálybalépés időpontja 2023. július 20.
+[^32]: A 18. §-t a 621/2023. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A hatálybalépés időpontja 2024. január 21.
+[^34]: A 19. §-t a 355/2024. (XI. 21.) Korm. rendelet 1. §-a iktatta be.

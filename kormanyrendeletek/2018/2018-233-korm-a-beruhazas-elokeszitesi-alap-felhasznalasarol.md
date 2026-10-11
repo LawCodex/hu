@@ -1,0 +1,168 @@
+---
+title: "233/2018. (XII. 6.) Korm. rendelet a Beruházás Előkészítési Alap felhasználásáról"
+identifier: "233/2018. (XII. 6.) Korm. rendelet"
+njt_id: "2018-233-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/233"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-06
+in_force_from: 2019-01-01
+last_amended: 2025-05-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-233-20-22"
+retrieved: 2026-10-12
+---
+
+# 233/2018. (XII. 6.) Korm. rendelet a Beruházás Előkészítési Alap felhasználásáról
+
+A Kormány a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 77. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet határozza meg a Magyarország központi költségvetéséről szóló törvényben meghatározott, Beruházás Előkészítési Alap elnevezésű központi kezelésű előirányzat (a továbbiakban: Előirányzat) felhasználásával kapcsolatos döntési jogköröket és feladatokat.
+
+(2)[^1] Az államháztartásért felelős miniszter a Kormánynak az Előirányzat felhasználására vonatkozó támogató döntését az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 109. § (5) bekezdése szerint megalkotott rendelete alapján az e rendeletben foglalt eltérésekkel hajtja végre.
+
+## 2. Döntés az Előirányzat felhasználásáról
+
+### 2. §
+
+(1) A Kormány az Előirányzat terhére támogatja a központi költségvetési források felhasználásával megvalósuló egyes beruházások előkészítési folyamatát.
+
+(2)[^2] Az Előirányzatból a beruházás előkészítésének alábbi fázisaihoz és az ezek forrását biztosító ügyletekhez az Áht. 79. § (5) bekezdése alapján kapcsolódó fizetési kötelezettségekhez biztosítható fedezet:
+
+a) megvalósíthatósági tanulmány készítése,
+
+b) fenntartási és üzemeltetési modell kidolgozása,
+
+c) hatástanulmány, szakvélemények, szakértői tanulmányok készítése,
+
+d) beruházási terv készítése,
+
+e) tervezési program elkészítése,
+
+f) költség- és időkalkuláció elkészítése,
+
+g) helyszínvizsgálat lefolytatása,
+
+h) beruházási program elkészítése,
+
+i) beruházási alapokmány és program elfogadása,
+
+j) tervpályázat lebonyolítása,
+
+k)[^3] településrendezési terv elkészítése,
+
+l) vázlatterv készítése,
+
+m) jóváhagyási terv készítése,
+
+n) engedélyezési dokumentáció készítése,
+
+o) engedélyeztetés lefolytatása,
+
+p) kivitelezési dokumentáció elkészítése.
+
+### 3. §
+
+Az Előirányzat felhasználására az adott központi költségvetési forrásból megvalósuló beruházás (a továbbiakban: Beruházás) tekintetében a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerint felelős miniszter (a továbbiakban: szakminiszter) előterjesztésben tesz a Kormánynak javaslatot.
+
+### 4. §
+
+A 3. § szerinti előterjesztésnek tartalmaznia kell:
+
+a) a Beruházás megnevezését (utalva annak rendeltetésére),
+
+b) a Beruházás célját, szakmai és műszaki tartalmát, valamint a jövőbeni üzemeltetésére, vagyonkezelésére vonatkozó koncepciót,
+
+c) a Beruházás jellegét (új építés, meglévő építmény állagmegóvása, felújítása, bővítése, átalakítása, korszerűsítése, helyreállítása, bontása),
+
+d) a Beruházás tervezett helyszínét, az érintett ingatlan tulajdoni, vagyonkezelői és használati viszonyait, továbbá az ingatlan becsértékét, amennyiben az állami magasépítési beruházás megvalósításához ingatlan tulajdonjogának megszerzése szükséges,
+
+e) a Beruházás tervezett ütemezését, a tervezett kezdés és várható befejezés meghatározásával,
+
+f) az egyes előkészítési fázisok, valamint a megvalósítási fázis becsült forrásigényét és javasolt megvalósítási idejét,
+
+g) a Beruházás előkészítéséhez már rendelkezésre álló dokumentumok felsorolását,
+
+h) minden olyan egyéb körülményt, amely a Kormány megalapozott döntéséhez szükséges.
+
+### 5. §
+
+(1) A Beruházás előkészítéséről a szakminiszter – kormányzati döntéshozatal politikai döntéshozó fórumai, így különösen a Gazdasági Kabinet által megtárgyalt – előterjesztése alapján a Kormány egyedi határozatban dönt.
+
+(2) Az (1) bekezdés szerinti döntésnek ki kell terjednie
+
+a) a Beruházás megnevezésére és előkészítőjének (a továbbiakban: kormányzati felelős szerv) kijelölésére, valamint a Beruházás előkészítésében részt vevő állami és egyéb szereplőkre,
+
+b)[^4] a Beruházás megvalósítójának megnevezésére,
+
+c) a Beruházás során létrejött építmény jövőbeni vagyonkezelőjének és az üzemeltetőjének és – ha a vagyonkezelő és az üzemeltető nem azonos az építmény használójával – a Beruházás során létrejött építmény használójának kijelölésére,
+
+d) a beruházási koncepció jóváhagyására,
+
+e) a beruházási helyszín jóváhagyására,
+
+f) arra, hogy a Beruházás előkészítésének 2. § (2) bekezdése szerinti előkészítési fázisai közül melyekhez biztosít fedezetet az Előirányzatból,
+
+g) az előkészítési fázisok teljesítésének véghatáridejére, továbbá
+
+h) az előkészítés támogatott fázisainak megvalósításra fordítható központi költségvetési forrás legmagasabb összegére.
+
+(3) A Kormány az (1) bekezdés szerinti döntésében rendelkezhet az egyes előkészítési fázisok megvalósítójáról.
+
+(4)[^5] Ha a Kormány az egyes fázisok megvalósítójáról nem hoz döntést, úgy azt a kormányzati felelős szerv az állami beruházásokért felelős miniszterrel egyetértésben jelöli ki.
+
+### 6. §[^6]
+
+A 2. § (2) bekezdés l)–p) pontja szerinti előkészítési fázisokhoz biztosított fedezet terhére történő pénzügyi teljesítés feltétele a településfejlesztésért és településrendezésért felelős miniszter – a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló Korm. rendelet szerinti – országkép- és településképvédelmi szempontú előzetes véleményezés során kiadott előzetes településképi hozzájárulásának kormányzati felelős szerv általi előzetes beszerzése.
+
+### 8. §
+
+(1)[^8] A kormányzati felelős szerv – a Kormány 5. § (1) bekezdése szerinti határozatában meghatározott eltérő rendelkezése hiányában, az (1a) bekezdés figyelembevételével – legkésőbb az 5. § (2) bekezdés g) pontja szerint megállapított határidő lejártát követő 120 napon belül számol el az államháztartásért felelős miniszternek az Előirányzatból átcsoportosított forrás felhasznált összegéről, valamint gondoskodik a felhasználásra nem került és a nem rendeltetésszerűen felhasznált támogatás (3) bekezdés szerinti visszafizetéséről.
+
+(1a)[^9] Amennyiben a Beruházás megvalósítója a Beruházási Ügynökség, a kormányzati felelős szerv csak a Beruházási Ügynökségnek az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 11. §-a szerinti jóváhagyását követően számolhat el az (1) bekezdés szerint.
+
+(2) Az Előirányzatból átcsoportosított forrás (1) bekezdés szerint fennmaradó összegének felhasználására is e rendelet szabályait kell alkalmazni.
+
+(3)[^10] A Előirányzat fel nem használt vagy nem rendeltetésszerűen felhasznált részét – ide nem értve, ha azt az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 150. § (4) bekezdése vagy 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – a Kincstár által megjelölt fizetési számlára be kell fizetni, amely az adott évi Előirányzatot növeli. Ha a Beruházás Előkészítési Alap terhére átcsoportosított előirányzat egészére vagy annak legalább egy részére az átcsoportosításról, illetve – az Áht. 36. § (2) bekezdése szerinti esetben – a kötelezettségvállalás engedélyezéséről szóló kormányhatározat közzétételét követő hatvan napon belül a kötelezettségvállaló mulasztásából kötelezettségvállalásra nem kerül sor, az átcsoportosított előirányzat egészét – ide nem értve, ha azt az Ávr. 150. § (4) bekezdése vagy 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – vissza kell téríteni, illetve az előirányzat-átcsoportosítás iránt nem kell intézkedni. A visszatérítésre és a további felhasználására az e bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+## 3. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2019. január 1-jén lép hatályba.
+
+### 10. §[^11]
+
+(1) Az Előirányzatból, valamint a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet szerinti Beruházás Előkészítési Alap elnevezésű fejezeti kezelésű előirányzatból nyújtott támogatás (a továbbiakban együtt: BEA Támogatás) felhasználására vonatkozóan
+
+a) e rendelet – az egyes kormányrendeleteknek a Magyarország 2020. évi központi költségvetésének megalapozásával összefüggő módosításáról szóló 282/2019. (XI. 27.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított – 8. § (1) és (1a) bekezdését kell alkalmazni,
+
+b) az előkészítési fázisok végrehajtásáról, valamint a BEA Támogatás felhasznált összegéről a Kormány részére nem kell beszámolni,
+
+amennyiben az előkészítési fázisok végrehajtásáról, valamint a BEA Támogatás felhasznált összegéről a Módr1. hatálybalépéséig[^12] a kormányzati felelős szerv nem számolt be a Kormánynak.
+
+(2) Amennyiben az (1) bekezdés a) pontja alkalmazásával a BEA Támogatás elszámolás határideje a Módr1. hatálybalépését[^13] megelőző időpontra esne, a kormányzati felelős szerv legkésőbb a Módr1. hatálybalépését követő 120 napon belül számol el.
+
+(3)[^14] E rendeletnek az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet és a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet módosításáról szóló 678/2020. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § (2) bekezdését minden olyan, a Kormány határozatán alapuló előkészítési ügyben is alkalmazni kell, amelynél az előkészítési fázisok teljesítésének véghatárideje a Módr2. hatálybalépése[^15] napját követően jár le.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 282/2019. (XI. 27.) Korm. rendelet 33. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze a 678/2020. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés k) pontja a 420/2021. (VII. 15.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdés b) pontja a 282/2019. (XI. 27.) Korm. rendelet 33. § 2. pontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 187. §-ával megállapított szöveg.
+[^6]: A 6. § a 420/2021. (VII. 15.) Korm. rendelet 101. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdése a 282/2019. (XI. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^9]: A 8. § (1a) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^10]: A 8. § (3) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 31. § (3) bekezdése iktatta be.
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 282/2019. (XI. 27.) Korm. rendelet 32. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2019. november 28.
+[^13]: A hatálybalépés időpontja 2019. november 28.
+[^14]: A 10. § (3) bekezdését a 678/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
+[^15]: A hatálybalépés napja 2020. december 29.

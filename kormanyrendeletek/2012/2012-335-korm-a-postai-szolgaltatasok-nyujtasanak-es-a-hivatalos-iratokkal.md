@@ -1,0 +1,668 @@
+---
+title: "335/2012. (XII. 4.) Korm. rendelet a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről"
+identifier: "335/2012. (XII. 4.) Korm. rendelet"
+njt_id: "2012-335-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/335"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-12-04
+in_force_from: 2013-01-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-335-20-22"
+retrieved: 2026-10-12
+---
+
+# 335/2012. (XII. 4.) Korm. rendelet a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről
+
+A Kormány a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdés a), b) és c) pontjában, a 33. § (2) bekezdés b) pontja tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A postai szolgáltatások nyújtásához kapcsolódó általános szabályok
+
+### 1. §
+
+A postai küldeményekkel kapcsolatos, nemzetközi viszonylatú postai szolgáltatásra e rendelet rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés, különösen az Egyetemes Postaegyesület 1964. évi július hó 10. napján Bécsben aláírt Alapokmányának kihirdetéséről szóló 1967. évi 26. törvényerejű rendelet alapján kötött nemzetközi szerződés vagy ezek rendelkezése szerint megkötött külön megállapodás eltérően nem rendelkezik.
+
+### 1/A. §[^1]
+
+(1) Postai szolgáltatási szerződés leplezésének minősül a jogviszony különösen akkor, ha bármely szervezet a saját gazdasági vagy egyéb tevékenységével összefüggő tartalmú küldeményét olyan – vele munkavégzésre irányuló, illetve tagsági jogviszonyban álló – természetes személlyel juttatja el a címre, aki más szervezettel már ilyen vagy bármely más munkavégzésre irányuló jogviszonyban áll, és ennek alapján tevékenysége részben vagy egészben küldemények rendeltetése szerinti helyre történő eljuttatására irányul.
+
+(2) A postai szolgáltatásra a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló rendeletben foglaltakat nem kell alkalmazni, amennyiben a postai szolgáltató internetes honlapján közzétett és minden postai szolgáltatóhelyen a felhasználók által megtekinthető általános szerződési feltételei megfelelnek a 2. §-ban foglalt követelményeknek és a postai szolgáltatási szerződés ezen általános szerződési feltételek alapján jött létre.
+
+### 2. §
+
+A postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemei:
+
+a) a postai szolgáltatás vagy a postai szolgáltatáshoz kapcsolódó többletszolgáltatás megnevezése;
+
+b) a postai szolgáltatás keretében feladható vagy kézbesíthető küldemények méret- és tömeghatárai;
+
+c)[^2]
+
+d)[^3]
+
+e) a cím adattartalmával és annak feltüntetésével kapcsolatos szabályok;
+
+f) a szolgáltatás minősége;
+
+g) a szolgáltatás díjának megfizetési módjai;
+
+h) a kézbesítés feltételeivel kapcsolatos felhasználói jogok és kötelezettségek;
+
+i) a szolgáltatással kapcsolatos panaszok és a panaszkezelés felhasználókat érintő szabályai;
+
+j) a szolgáltató adatkezelésének felhasználókat érintő szabályai;
+
+k) a szolgáltatással kapcsolatos felelősségi szabályok, a kártérítési igény érvényesítésével kapcsolatos jogok és kötelezettségek, valamint az igényérvényesítés módjának meghatározása;
+
+l) a postai szolgáltatásokról szóló 2012. évi CLIX. törvény (a továbbiakban: Postatv.) vagy e rendelet alapján az általános szerződési feltételekben megjelenítendő, a postai szolgáltatás nyújtásának és igénybevételének egyéb részletes feltételei.
+
+### 2/A. §[^4]
+
+A postai szolgáltató a 2. § szerinti általános szerződési feltételekhez kapcsolódó kiegészítő információként köteles a honlapján tájékoztatást adni
+
+a) a feltételesen vagy különleges előírások figyelembevételével szállított tartalmakkal kapcsolatos szabályokról, valamint
+
+b) a külföldre szóló postai küldemény esetében a cím szerinti és a kezelésben részt vevő országban hatályos behozatali tilalommal (korlátozással) kapcsolatos szabályokról.
+
+### 3. §
+
+(1) A postai szolgáltatásból – a küldemény szállítási módjának függvényében – kizárt minden olyan küldemény, amely olyan árut tartalmaz, aminek közúton, vasúton vagy légi úton történő szállítását jogszabály kizárja.
+
+(2) Amennyiben jogszabály meghatározott áru közúton, vasúton vagy légi úton történő szállítását feltételhez köti, az ilyen árut tartalmazó postai küldeményre vonatkozó postai szolgáltatás kizárólag a feltételek teljesítése esetén nyújtható.
+
+(3) Az (1) és (2) bekezdésben foglaltakon túl a postai szolgáltató az általános szerződési feltételeiben meghatározhatja azon tartalmak vagy áruk körét, amelyekkel kapcsolatos postai szolgáltatást – tekintettel az általa alkalmazott felvételi, gyűjtési, feldolgozási, szállítási vagy kézbesítési módokra, vagy az ezekhez használt eszközökre – nem vállalja.
+
+(4) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatásokra vonatkozóan a (3) bekezdés alapján kizárólag olyan tartalmat, árut zárhat ki a belföldi postai szolgáltatásából vagy olyan tartalom, áru szállítását kötheti feltételhez, amelyet az Egyetemes Postaegyezmény a nemzetközi postai szolgáltatások vonatkozásában kizárt a szállításból vagy amelynek szállítását feltételhez kötötte.
+
+### 3/A. §[^5]
+
+A fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet szerinti távollévők között kötött szerződés alapján értékesített áru kézbesítése érdekében az egyetemes postai szolgáltató által nyújtott postai szolgáltatás igénybevételének lehetőségét a kereskedelmi célú internetes honlappal rendelkező vállalkozás a honlapján biztosítja, feltéve, hogy az értékesített áru postai szolgáltatási szerződés keretében történő kézbesítését az egyetemes postai szolgáltató az általános szerződési feltételeiben lehetővé teszi.
+
+## 2. A postai küldemények felvétele
+
+### 4. §
+
+(1) Az egyetemes postai szolgáltatás keretében feladott küldemények esetében megfelelőnek kell tekinteni a postai küldemény címzését, amennyiben az az alábbi sorrendben, latin betűkkel, arab számokkal (szükség esetén római számmal) a következő adatokat tartalmazza:
+
+a) a címzett (címzettek) neve, elnevezése;
+
+b) a küldemény rendeltetési helye (a település neve);
+
+c) közterületi cím (út, utca, egyéb közterület neve és a házszám), és ha van a közelebbi címadatokként a lépcsőház-, emelet-, ajtószám, ezek hiányában helyiség megjelölése,
+
+*(a közterületi cím és a közelebbi címadatok a továbbiakban együtt: címhely);*
+
+d) a címhely irányítószáma.
+
+(2) Az egyetemes postai szolgáltatás keretében külföldre címzett küldemények esetében fel kell tüntetni a rendeltetési ország nevét is.
+
+(3) Az egyetemes postai szolgáltatás keretében feladható küldemények címzésében szereplő adatok elhelyezésének módját és a címzés egyéb tartalmi és formai követelményeit az egyetemes szolgáltató az általános szerződési feltételeiben határozza meg.
+
+### 5. §[^6]
+
+Az egyetemes postai szolgáltatások keretében küldeményenkénti díjszabás szerint feladott küldeményekkel kapcsolatos postai szolgáltatás igénybevételéhez szükséges nyomtatványokat – az adott alkalommal feladásra kerülő küldeményekhez igazodó mennyiségben – e rendelet eltérő rendelkezésének hiányában a postai szolgáltató díjmentesen bocsátja rendelkezésre. E nyomtatványokat a postai szolgáltató által kitöltendő adatok kivételével hiánytalanul, kitöltötten kell a küldemény feladásakor a postai szolgáltató számára átadni.
+
+### 6. §
+
+A postai szolgáltató köteles a feladó figyelmét felhívni a külföldre szóló postai küldemény esetében arra, hogy a küldemény tartalmával kapcsolatban a cím szerinti és a küldemény kezelésében részt vevő országban felmerülhet behozatali tilalom (korlátozás).
+
+### 7. §
+
+(1)[^7] A postai szolgáltató a könyvelt küldeményre vonatkozó postai szolgáltatási szerződés létrejöttének igazolásául köteles a feladó részére a feladást igazoló okiratot papíralapú vagy elektronikus formában rendelkezésre bocsátani. Az okiratnak tartalmaznia kell legalább
+
+a) a postai szolgáltató nevét és a felvétel napját, időgarantált szolgáltatás esetében az időpontját is;
+
+b) a feladó nevét és címét;
+
+c) a küldemény egyedi azonosító jelzését;
+
+d) a postai szolgáltató által az okirat hitelesítésére alkalmazott jelzést;
+
+e) küldeményenkénti díjszabás szerint feladott küldemény esetében a címzésében szereplő adatokat;
+
+f) az általános szerződési feltételek elérhetőségéről szóló tájékoztatást.
+
+(2) A feladást igazoló okiraton tájékoztatást kell adni arról, hogy a szerződésre a Postatv. és e rendelet rendelkezései az irányadók.
+
+(3)[^8] A postai szolgáltató és a feladó egyedi szerződésben az (1) és a (2) bekezdésben foglaltaktól eltérő tartalmú feladást igazoló okirat alkalmazásában is megállapodhatnak.
+
+(4) A feladónak a könyvelt postai küldeményen, annak csomagolásán vagy az ahhoz tartozó listán – kivéve, ha jelzése alapján a küldemény pályázatot vagy versenytárgyalási ajánlatot tartalmaz – fel kell tüntetnie az (1) bekezdés b) pontjában meghatározott adatokat, amelyeket a postai szolgáltató a küldemény esetleges visszakézbesítése során köteles figyelembe venni.
+
+(5)[^9] A feladó – ha a feladást igazoló okiratként mind a postai szolgáltató, mind a feladó által elektronikusan visszakereshető, olyan elektronikus formában rögzített adatbázist alkalmaz, mely tartalmazza a postai küldemény címzésében szereplő adatokat – a postai küldeményen annak címzéseként az ezen adatbázisban szereplő, a küldemény egyedi azonosító jelzéséhez rendelt címadatokat tünteti fel.
+
+### 8. §
+
+A postai szolgáltató a postai küldemények feladását igazoló okiratot, valamint a postai küldeményt és annak kísérő okiratát közcélú vagy postai szolgáltatásra vonatkozó tájékoztatást tartalmazó reklám lenyomattal is elláthatja, amennyiben az a feladási és címadatok áttekinthetőségét nem zavarja.
+
+## 3. A postai küldemény kézbesítésének általános szabályai
+
+### 9. §
+
+(1)[^10] A postai küldeményt a címzett vagy e rendelet eltérő rendelkezésének hiányában az egyéb jogosult átvevő részére kell kézbesíteni. Egyéb jogosult átvevőnek a 15. § (4) bekezdése és a 16. § (4) bekezdése szerinti alkalmi átvevő, a 16. § (3) bekezdésében meghatározott helyettes átvevő, a 19. §-ban meghatározott meghatalmazott, valamint a 20. §-ban meghatározott közvetett kézbesítő minősül. A postai küldemény feladója a postai küldemény feladásakor utólagosan igazolható módon tett nyilatkozatában rendelkezhet úgy, hogy az egyéb jogosult átvevői kör vonatkozásában a postai szolgáltató az általános szerződési feltételeknek a postai küldemények kézbesítésére vonatkozó részében meghatározottak szerint korlátozó intézkedést alkalmazzon.
+
+(2)[^11] A postai küldeményt – a (2a)–(6) bekezdésekben, valamint a 12. § (4a) bekezdésében foglalt kivételekkel – a küldemény címén kell kézbesíteni. A küldemény címe az a cím, amelyet a feladó feltüntetett a küldeményen, annak csomagolásán vagy az ahhoz tartozó listán.
+
+(2a)[^12] A levélszekrény útján nem kézbesíthető küldeményeket a járványügyi hatóság által az elkülönítés, megfigyelés vagy zárlat (a továbbiakban együtt: karantén) helyeként nyilvántartott és megjelölt címen a postai szolgáltató a karantén fennállásának ideje alatt nem kézbesíti, hanem a postai szolgáltatási szerződésnek megfelelő őrzési ideig a kézbesítési ponton a karanténnal nem érintett jogosult átvevő rendelkezésére tartja, és erről a címzettet értesíti, az őrzési idő leteltével pedig a kézbesíthetetlenségre vonatkozó szabályokat alkalmazza.
+
+(2b)[^13] Egyetemes postai szolgáltatás esetében a (2a) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy az egyetemes postai szolgáltató a levélszekrény útján nem kézbesíthető küldeményeket a karantén helyeként nyilvántartott és megjelölt címen a karantén fennállásának ideje alatt nem kézbesíti, hanem a postai szolgáltatási szerződés teljesítését felfüggeszti. Az ilyen küldeményeket a karanténra vonatkozó hatósági előírások megszűnését követően kísérli meg kézbesíteni, addig a küldeményt a kézbesítési ponton a karanténnal nem érintett jogosult átvevő rendelkezésére tartja és erről a címzettet értesíti. A karanténra vonatkozó hatósági előírások megszűnését követő kézbesítési kísérlet sikertelensége esetén az ettől a kézbesítési kísérlettől számított őrzési idő elteltével a kézbesíthetetlenségre vonatkozó szabályokat alkalmazza.
+
+(3) A postai küldeményt a címében feltüntetettől eltérően azon a helyen kell kézbesíteni,
+
+a) amelyet a feladó vagy a címzett – ha a postai szolgáltatási szerződés tartalmazta a feladó vagy a címzett részére a címváltoztatás lehetőségét, és a felhasználó élt is ezzel – a legkésőbb adott meg,
+
+b) amelyet a címzett a postai szolgáltatóval kötött, olyan tartalmú szerződésben adott meg, mely a részére érkező küldemény kézbesítését a címtől eltérő helyen biztosítja.
+
+(4) A postai szolgáltató a települések belterületén kívüli lakott helyekre címzett levélszekrénybe kézbesíthető küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő küldemény érkezéséről szóló értesítő elhelyezését a közutak mentén a postai szolgáltató által kijelölt helyen, a címhelyekhez rendelten telepített és üzemeltetett kézbesítésre alkalmas eszköz útján biztosíthatja.
+
+(5)[^14] A postai szolgáltató
+
+a) ha a személyes átadást igénylő küldemény esetében a címzett vagy egyéb jogosult átvevő a kézbesítés megkísérlésekor nem tartózkodik a címen – a feladó által a küldeményen feltüntetett címzés adatai szerinti címhelyhez rendelten felszerelt levélszekrényben értesítő hátrahagyása mellett –, kézbesítési ponton való kézbesítéssel, vagy
+
+b) a 25. § (1) bekezdés a), b), e), f) és g) pontjában meghatározott esetekben, továbbá ha a feladó a 7. § (5) bekezdése szerinti kötelezettségét nem vagy nem hiánytalanul teljesítette, és ez a tény a szerződés megkötését követően jut a postai szolgáltató tudomására, a feladó részére történő visszakézbesítéssel
+
+teljesítheti a postai szolgáltatási szerződést.
+
+(6) A postai szolgáltató jogosult arra, hogy az értéknyilvánítás többletszolgáltatás igénybevételét, ha az értéknyilvánítás összege meghaladja
+
+a) egyetemes postai szolgáltatás esetében a 100 000 forintot,
+
+b) egyetemes postai szolgáltatásnak nem minősülő postai szolgáltatás esetében a postai szolgáltató általános szerződési feltételeiben meghatározott összeget,
+
+ahhoz a feltételhez kösse, hogy a küldeményt kézbesítési ponton kézbesíti.
+
+(7)[^15] A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített, a kézbesítés tényét rögzítő egyéb technikai eszközzel hely és időpont adatokat rögzít, valamint azokat a Postatv. rendelkezése szerint megőrzi.
+
+### 10. §
+
+(1) A postai szolgáltató az általános szerződési feltételeiben meghatározott címadatokon kívül a postai küldeményre feljegyzett egyéb adatokat nem köteles figyelembe venni.
+
+(2) A postai szolgáltató nem köteles vizsgálni, hogy a címhelyen van-e más ugyanolyan nevű természetes személy, aki a küldeményre igényt tarthat.
+
+(3)[^16] A jogi személy és egyéb szervezet (a továbbiakban együtt: szervezet) számára címzett küldeménynek tekinthető a küldemény akkor is, ha a címzésben a szervezet neve vagy címe mellett valamely természetes személy neve is fel van tüntetve.
+
+(4) Ha a címzésben több természetes személy neve szerepel, a postai küldemény a megnevezettek bármelyikének kézbesíthető.
+
+## 4. Levélszekrénybe történő kézbesítés feltételei és szabályai
+
+### 11. §
+
+(1)[^17] A személyes átadással történő kézbesítést nem igénylő küldemények kézbesítésére, valamint a személyes átadással történő kézbesítést igénylő küldeményekhez kapcsolódó értesítő elhelyezésére az ingatlan tulajdonosa vagy a címzett által biztosított, a címhelyhez tartozó levélszekrény abban az esetben felel meg a Postatv. 41. § (2) bekezdésében foglalt könnyű és biztonságos megközelíthetőség követelményének, ha a levélszekrény megközelítése közvetlenül biztosított és a postai küldemények kézbesítését végző személy testi épségét nem veszélyezteti, továbbá ha elhelyezése
+
+a) a közterületről közvetlenül meg nem közelíthető, csak közterületi címmel rendelkező címhely esetében a telek cím szerinti bejáratánál történt;
+
+b) a közterületről közvetlenül meg nem közelíthető, több címhellyel rendelkező épület esetében a telek cím szerinti bejáratánál egy csoportban, de címhelyenként külön-külön biztosítva (a továbbiakban: csoportos levélszekrény) történt;
+
+c) a közterületről közvetlenül megközelíthető lakóépület, irodaház, üzletház és egyéb hasonló jellegű intézmény esetében az épület bejárata közelében, az épületen kívül, vagy amennyiben az ahhoz való eljutás biztosított, az épületen belül a földszinten csoportos levélszekrényként történt;
+
+d) ipari park, gyártelep vagy egyéb, a gyalogos kézbesítést korlátozottan lehetővé tévő ingatlan esetében ezek bejáratánál, csoportos levélszekrényként történt; vagy
+
+e) a levélszekrény vagy a csoportos levélszekrény esetében közterületről közvetlenül megközelíthető módon történt.
+
+(2) A kézbesíthetőség érdekében a levélszekrénynek a következő követelményeknek kell megfelelnie:
+
+a) a bedobó nyílás minimális mérete: 30 x 230 mm;
+
+b) a bedobó nyílás középvonalának földtől, padlószinttől mért távolsága: 700 mm és 1700 mm között;
+
+c) a levélszekrény kialakításának olyannak kell lennie, hogy alkalmas legyen a postai küldemények biztonságos és sérülésmentes elhelyezésére, valamint a kézbesített küldeményhez való jogosulatlan hozzáférés megakadályozására;
+
+d) csoportos levélszekrény elhelyezése esetén a csoporton belül minden címhelyhez külön-külön kell levélszekrényt biztosítani oly módon, hogy azok mindegyikén szerepelnie kell a közelebbi címadatnak és a címzett vagy lehetséges címzettek nevének.
+
+### 12. §
+
+(1) A levélszekrénybe kézbesíthető küldeményt a postai szolgáltató a címben megjelölt címhelyhez tartozó levélszekrénybe kézbesíti. Amennyiben a címhelyhez nem tartozik a 11. § (2) bekezdésének megfelelő levélszekrény, és a postai szolgáltató a 13. §-ban foglalt rendelkezést nem alkalmazza, a küldemény a csak közterületi címmel rendelkező címhely esetében a címhely közelében erre a célra használt helyen történő elhelyezéssel is kézbesíthető.
+
+(2) Amennyiben egy közterületi címen több, a küldemény címzésében feltüntetett névvel egyező megjelölésű levélszekrény van, és a címhely alapján nem lehet eldönteni, hogy a küldeményt mely levélszekrénybe kell kézbesíteni, a küldeményt kézbesíthetetlennek kell tekinteni és azt – amennyiben a küldeményen a feladó feltüntette nevét és címét – „cím nem azonosítható” jelzéssel a feladó részére vissza kell kézbesíteni.
+
+(3) A méretei miatt levélszekrénybe nem kézbesíthető küldemény érkezéséről a postai szolgáltató értesítőt hagy hátra a levélszekrényben, ennek hiányában a címhely közelében erre a célra használt helyen.
+
+(4) Amennyiben a 11. § (1) bekezdés b)–d) pontjában meghatározott ingatlanon vagy épületben erre a célra kialakított és a küldemények biztonságos őrzését lehetővé tévő postázó helyiség működik, akkor a levélszekrénybe kézbesíthető küldemények kézbesítése a postázóban e célból foglalkoztatott személy részére történő átadással vagy a levelek elhelyezésére kialakított, levélszekrénynek nem minősülő eszközbe történő elhelyezéssel is megtörténhet.
+
+(4a)[^18] A 324 × 229 × 24 mm-t meghaladó méretű
+
+a) nem könyvelt küldemények, valamint
+
+b) rögzített ajánlott levélküldemények
+
+kézbesítésének címhelyen történő megkísérlését a postai szolgáltató – a (3) bekezdés szerinti értesítő kézbesítési címhelyen történő hátrahagyása mellett – mellőzi, ha a küldemény fizikai adottságaira tekintettel annak sérülésmentes elhelyezése a levélszekrényben nem lehetséges.
+
+### 13. §[^19]
+
+Ha a belterületi közterületi címen vagy címhelyhez rendelten nincs a 11. §-ban rögzített követelményeknek megfelelő levélszekrény, postázó helyiség, vagy annak könnyű és biztonságos megközelítése nem biztosított, a postai szolgáltató legalább 30 napos határidő kitűzésével felszólíthatja a címzettet a jogszabálynak megfelelő levélszekrény elhelyezésére, valamint a könnyű és biztonságos megközelítés biztosítására. A felszólítással egyidejűleg a postai szolgáltató felhívja a címzett figyelmét arra, hogy amennyiben ezt elmulasztja, a postai szolgáltató a levélszekrénybe kézbesíthető postai küldemények kézbesítését nem kísérli meg. A felszólítás eredménytelensége esetén a postai szolgáltató a küldeményt kézbesíthetetlenként kezeli mindaddig, amíg a címzettől értesítést nem kap arról, hogy megfelelő levélszekrény felszerelése megtörtént és az ahhoz való könnyű és biztonságos megközelítés biztosított.
+
+## 5. [^20] Személyes átadással kézbesítendő könyvelt postai küldemények kézbesítése a címen
+
+### 14. §[^21]
+
+Személyes átadással kézbesítendő könyvelt postai küldemény a feladó által megjelölt kézbesítési címen a 9. § (1) bekezdésében meghatározott személyek számára kézbesíthető. Ennek érdekében a címzett köteles biztosítani a címhely könnyű és biztonságos megközelítését.
+
+### 15. §
+
+(1)[^22] Szervezet címére érkezett könyvelt postai küldeményt – ide nem értve a rögzített ajánlott levélküldeményt – a postai szolgáltató akkor kézbesítheti személyes átadással, ha a szervezet az általa használt, címként feltüntethető ingatlanon (székhely, telephely, fióktelep, ügyintézés egyéb helye) gondoskodik a képviselő elérhetőségéről. A szervezet képviselőjét jogosultnak kell tekinteni a szervezet számára érkezett postai küldemények átvételére.
+
+(2) A szervezet vezetője, valamint – a 19. § szerinti meghatalmazás nélkül – a kézbesítési megbízott, a kézbesítési ügygondnok, a felszámoló és a végelszámoló képviselőnek minősül. A rendelet alkalmazása során vezetőnek minősül a vezető tisztségviselő, a cégvezető, a vezető állású munkavállaló, továbbá minden olyan személy, aki cégjegyzésre vagy a szervezet általános képviseletére jogosult.
+
+(3)[^23] A postai küldemények átvétele vonatkozásában a szervezet képviselőjének kell tekinteni a 19. § szerinti meghatalmazás nélkül is
+
+a) a szervezet üzlethelyiségében vagy az ügyfélforgalom számára nyitva álló egyéb helyiségében történő kézbesítés során a szervezet által foglalkoztatott munkavállalót vagy tagot,
+
+b) amennyiben a szervezet postázó helyiséget működtet, az ott foglalkoztatott természetes személyt,
+
+c) amennyiben a szervezet recepciót működtet, az ott foglalkoztatott természetes személyt.
+
+(4) A szervezet azon munkavállalóját, aki nem minősül a (2)–(3) bekezdésben foglalt képviselőnek, a postai szolgáltató – alkalmi átvevőként – a postai küldemények átvételére jogosultnak tekintheti.
+
+### 16. §
+
+(1) Amennyiben a természetes személy címzett a kézbesítés megkísérlésének időpontjában nem tartózkodik a címen, a postai küldeményt elsősorban az ott tartózkodó meghatalmazottja részére kell kézbesíteni.
+
+(2) Ha a kézbesítés megkísérlésének időpontjában sem a természetes személy címzett, és – a helyettes átvevő nyilatkozata szerint – a meghatalmazott sem tartózkodik a címen, a postai küldemény az ott tartózkodó helyettes átvevőnek is kézbesíthető.
+
+(3) Helyettes átvevőnek minősül
+
+a) a címzett 14. életévét betöltött, a polgári törvénykönyv szerinti hozzátartozója,
+
+b) a címhelyen lévő ingatlan bérbeadója vagy a címzett szállásadója, ha az természetes személy.
+
+(4)[^24] Ha a postacsomag kézbesítése megkísérlésének időpontjában jogosult átvevő nem tartózkodik a címhelyen, a postai szolgáltató a küldemény átvételére – alkalmi átvevőként – jogosultnak tekintheti a címhely szerinti közvetlen szomszédot abban az esetben, ha erről a címzett kifejezetten így rendelkezett, megjelölve az alkalmi átvevőt. A közvetlen szomszédnak történő kézbesítés megtörténtéről a postai szolgáltató a címzettet értesíteni köteles. Nem kézbesíthető a közvetlen szomszédnak a sérült állapotban lévő postacsomag.
+
+(5)[^25] A postai szolgáltató – a 25. § (1) bekezdés a), b), d), e), f) és g) pontja szerinti esetek kivételével – azokat a könyvelt postai küldeményeket, amelyeket a címen nem tudott kézbesíteni, értesítő hátrahagyása mellett a szolgáltató által erre kijelölt kézbesítési pontján a címzett rendelkezésére tartja.
+
+(6)[^26] A postai küldemény érkezéséről szóló értesítés céljából
+
+a) a postai szolgáltatási szerződés létrejöttekor a feladó, vagy
+
+b) a postai szolgáltatáshoz igénybevett kiegészítő szolgáltatás megrendelésekor a címzett írásban
+
+a postai szolgáltató rendelkezésére bocsáthatja a címzett mobiltelefonszámát vagy elektronikus levélcímét vagy az az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti hivatalos elérhetőségét (a továbbiakban együtt: elektronikus elérhetőség). A postai szolgáltató a Postatv. 41. § (3) bekezdésében valamint az e rendeletben az értesítő elhelyezésére vagy hátrahagyására vonatkozó rendelkezéseket ebben az esetben azzal az eltéréssel alkalmazhatja, hogy a küldemény érkezéséről ezen az elektronikus elérhetőségen értesítheti a címzettet.
+
+(7)[^27] Amennyiben a postai szolgáltató a postai küldemények érkezéséről a (6) bekezdés szerinti elektronikus elérhetőségen értesíti a címzettet, ugyanabban az értesítésben – könyvelt postai küldemények esetében legalább a küldemények egyedi azonosító jelzésének külön-külön történő feltüntetésével – több azonos fajtájú küldemény érkezéséről is adhat tájékoztatást, ha az érintett postai küldemények kézbesítési kísérletének napja, valamint átvételi helye és időtartama azonos.
+
+### 17. §
+
+Amennyiben a könyvelt postai küldemény kézbesítésére a Postatv. 41. § (9) bekezdése szerinti eszközbe történő elhelyezéssel kerül sor, a kézbesítéssel kapcsolatos szabályokat a postai szolgáltató az általános szerződési feltételeiben állapítja meg.
+
+## 6. [^28] Postai küldemények kézbesítése a címtől eltérő helyen
+
+### 18. §
+
+(1)[^29] A postai szolgáltató a kézbesítési címként megjelölt helytől eltérően kézbesítési ponton kézbesíti
+
+a) a küldeményt, ha a személyes átadással kézbesítendő küldemény kézbesítési címen történő kézbesítése a szolgáltatón kívülálló okból sikertelen volt, és a kézbesítési címen nem került sor az átvétel megtagadására,
+
+b) azt a postai küldeményt, amelyet – a feladó, illetve a címzett és a postai szolgáltató között létrejött megállapodás alapján – kézbesítési ponton kell kézbesíteni,
+
+c) az értéknyilvánítás többletszolgáltatással feladott küldeményt, ha a postai szolgáltató általános szerződési feltételei a 9. § (5) bekezdése alapján ezt tartalmazza, valamint
+
+d) a méretei miatt levélszekrénybe nem kézbesíthető azon küldeményt, amely érkezéséről a postai szolgáltató a 12. § (3) bekezdése alapján értesítőt hagyott hátra.
+
+(2) A kézbesítési ponton a címzett, a címzett meghatalmazottja és a cím szerinti lakóhellyel vagy tartózkodási hellyel rendelkező helyettes átvevő jogosult a küldemények átvételére.
+
+## 7. A postai küldemény átvételére adott meghatalmazás speciális szabályai
+
+### 19. §
+
+(1) A címzett a postai küldemény átvételére más személy vagy szervezet részére meghatalmazást adhat. A szervezet mint címzett nevében az adhat meghatalmazást a küldemény átvételére, aki – a 15. § (3) bekezdése kivételével – jogszabály alapján a szervezet képviseletére jogosult. Az egészségügyi vagy szociális intézményben ápolt személy által adott meghatalmazást az intézmény vezetője vagy megbízottja, a szabadságelvonással járó büntetés vagy intézkedés, illetve kényszerintézkedés hatálya alatt álló személy által adott meghatalmazást a fogva tartást végrehajtó szerv vezetője vagy annak megbízottja aláírásával, valamint az intézmény vagy a szervezet bélyegzőjével hitelesítheti. A postai szolgáltató az így hitelesített meghatalmazásokat a hitelesítő személy jogosultságának vizsgálata nélkül fogadja el. Ezekben az esetekben a (6) és a (7) bekezdésben foglaltakat nem kell alkalmazni.
+
+(2) A meghatalmazás szólhat valamennyi postai küldeménynek, egy egyedileg azonosított küldeménynek, illetve a postai szolgáltató általános szerződési feltételeiben meghatározottak szerint a postai küldemények egyéb körének átvételére.
+
+(3) A polgári törvénykönyv szerinti általános meghatalmazást a postai küldemények teljes körének átvételére szóló meghatalmazásnak kell tekinteni.
+
+(4) A meghatalmazott a címben megjelölt helyen és a szolgáltató által a címhez rendelt kézbesítési ponton jogosult a postai küldemény átvételére.
+
+(5) Egy meghatalmazásban több személy vagy szervezet is meghatalmazható, akik közül bárki jogosult a küldemény átvételére. Egy meghatalmazásban ugyanazt a természetes személyt vagy szervezetet több személy is meghatalmazhatja.
+
+(6) A meghatalmazás adható:
+
+a) közokiratban,
+
+b) a postai szolgáltató erre feljogosított képviselője előtt, írásban vagy
+
+c)[^30] a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 325. § (1) és (2) bekezdése szerinti teljes bizonyító erejű magánokiratban.
+
+(7)[^31] Értéknyilvánítással feladott küldemény átvételére a Pp. 325. § (1) bekezdés a)–b) és f)–i) pontjában szereplő magánokiratban akkor adható meghatalmazás, ha a postai szolgáltató általános szerződési feltételeiben ezt lehetővé teszi.
+
+(8) A nem Magyarországon kiállított közokirat – nemzetközi szerződés eltérő rendelkezése hiányában – kizárólag felülhitelesített formában vagy a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet szabályai szerinti Apostille záradékkal ellátott formában fogadható el. Amennyiben nemzetközi szerződés a külföldön kiállított okiratnak az ettől eltérő formában való elfogadását írja elő, úgy a nemzetközi szerződés fennállását, hatályát és tartalmát a postai szolgáltató a meghatalmazott közreműködésével vizsgálja. Ennek keretében a postai szolgáltató felkérheti a meghatalmazottat, az általa hivatkozott nemzetközi szerződés megjelölésére, annak igazolására, hogy a nemzetközi szerződés személyi, tárgyi és időbeli hatálya az ügyben alkalmazandó, valamint annak közlésére, hogy mely okirati körre vonatkozóan írja elő a nemzetközi szerződés az eltérő okirati forma elfogadását.
+
+(9) A postai szolgáltató köteles elfogadni a meghatalmazást, amennyiben az legalább az alábbiakat tartalmazza:
+
+a) természetes személy esetében a meghatalmazó és a meghatalmazott természetes személyazonosító adatait és a személyazonosság igazolására alkalmas hatósági igazolvány megnevezését és számát, szervezet esetében a szervezet nevét, székhelyét és cégjegyzékszámát vagy a nyilvántartásba vételt elrendelő intézmény nevét és a szervezet nyilvántartási számát,
+
+b) azt a címet, amelyre érkező postai küldemények átvételére a meghatalmazó a meghatalmazást adja,
+
+c) a meghatalmazás keltét (hely és időpont),
+
+d) a meghatalmazó aláírását és a (6) bekezdés c) pontjában meghatározott esetben a teljes bizonyító erőhöz szükséges egyéb kötelező elemeket,
+
+e) egy meghatározott küldemény átvételére vonatkozó meghatalmazás esetében annak a küldeménynek az azonosítószámát, amelynek átvételére a meghatalmazást adták.
+
+(10) A postai szolgáltató a küldemények kézbesítését – az általános meghatalmazás kivételével – a meghatalmazás postai szolgáltató részére történő végleges átadásától teheti függővé. Az általános meghatalmazás esetében a postai szolgáltató a kézbesítést a meghatalmazás másolata készítésére vonatkozó beleegyezés megadásától vagy az abban foglalt adatok rögzítésére és kezelésére történő írásbeli felhatalmazás megadásától teheti függővé.
+
+(11) A meghatalmazás megszűnésének tényét – a (2) bekezdés szerinti egy egyedileg azonosított küldemény átvételére szóló meghatalmazás kivételével – a meghatalmazó, illetve – a meghatalmazó halála, jogutód nélküli megszűnése vagy tartós akadályoztatása esetén – a meghatalmazott köteles a postai szolgáltatónak haladéktalanul bejelenteni. A bejelentés elmulasztásából eredő károkért a postai szolgáltató nem felel.
+
+## 8. Postai küldemény kézbesítése közvetett kézbesítő útján
+
+### 20. §
+
+(1) A postai szolgáltató a postai küldeményt és a postai küldemény érkezéséről szóló értesítőt a címzett részére a küldemény címzésében megjelölt helyen működő szervezet (a továbbiakban: közvetett kézbesítő) útján kézbesíti, amennyiben a címzett lakóhelye, tartózkodási helye, munkahelye
+
+a)[^32] Magyar Honvédség, nemzetbiztonsági szolgálat, rendvédelmi szerv,
+
+b) büntetés-végrehajtási, illetve javítóintézet,
+
+c) egészségügyi, illetve szociális ellátást nyújtó intézet,
+
+d) szálloda, diákszálló, munkásszálló, üdülő.
+
+(2) A több címzett által használt vagy nem a használó által üzemeltetett irodaház, üzletház, ipari park, gyártelep vagy más hasonló létesítmény esetében az ezen létesítményeket üzemeltető szervezet köteles közvetett kézbesítőként eljárni, ha a postai szolgáltatónak az épületben vagy az ingatlan területén működő címzetthez történő eljutása bármilyen módon korlátozott, nem biztonságos, vagy a címzettek elérési helye nem egyértelműen beazonosítható.
+
+(3)[^33] A közvetett kézbesítő az ingatlan bejárata közelében postázó helyiséget vagy egyéb, a biztonságos kézbesítést lehetővé tévő teret alakít ki. A közvetett kézbesítő a nem könyvelt küldemények, valamint a rögzített ajánlott levélküldemények kézbesítéséről a postai szolgáltatótól történő átvétellel vagy a küldemények kézbesítését lehetővé tévő csoportos levélszekrény vagy egyéb kézbesítési lehetőség biztosításával, a személyes átadással kézbesítendő könyvelt küldemények átvétele érdekében pedig erre felhatalmazott személy kijelölésével gondoskodik.
+
+(4) A közvetett kézbesítő – az (5)–(6) bekezdésben foglaltak kivételével – a postai küldeményt köteles átvenni és köteles gondoskodni arról, hogy a küldemények és a küldemények érkezéséről szóló értesítők – a címzettel történt eltérő megállapodás vagy az (1) bekezdés a)–c) pontja szerinti létesítményeket üzemeltető szervezet esetében jogszabály eltérő rendelkezése hiányában – legkésőbb az átvételt követő munkanap végéig a címzettnek átadásra kerüljenek. A közvetett kézbesítő részére történő átadással a postai küldeményt kézbesítettnek kell tekinteni.
+
+(5) A közvetett kézbesítő a postai küldemény átvételétől elzárkózhat, ha a címzettet a küldeménnyel kapcsolatban fizetési kötelezettség terheli.
+
+(6) Közvetett kézbesítőnek nem kézbesíthető
+
+a)[^34] a sérült állapotban lévő személyes átadással kézbesítendő könyvelt küldemény;
+
+b) a vámdíjjal terhelt küldemény;
+
+c) az általános szerződési feltételekben meghatározott összeget meghaladó értéknyilvánítással feladott postai küldemény;
+
+d) az olyan postai küldemény, amelynek közvetett kézbesítő útján való kézbesítését jogszabály vagy egyedi szerződés, vagy az általános szerződési feltételek alapján a feladó külön rendelkezésével kizárja.
+
+(7) A postai szolgáltató annak a postai küldeménynek az érkezéséről, amelyet az (5) vagy a (6) bekezdésben foglaltak szerint nem kézbesített, a címzett részére a közvetett kézbesítőnél értesítést hagy hátra.
+
+(8) A közvetett kézbesítő köteles a saját szervezete részére érkező postai küldeményeket, valamint a küldemények érkezéséről szóló értesítőket a közvetett kézbesítőként átvett küldeményektől és értesítőktől elkülönítetten kezelni.
+
+(9) Ha a közvetett kézbesítés lehetőségéről az (1)–(2) bekezdés szerinti létesítményeket üzemeltető szervezet nem gondoskodik, akkor a postai küldeményeket a postai szolgáltató a feladó részére visszakézbesítheti vagy visszakézbesítés helyett megkísérelheti azok kézbesítését. Az e bekezdés alkalmazása esetén felmerülő többletköltségeket az (1)–(2) bekezdés szerinti létesítményeket üzemeltető szervezet köteles megtéríteni a postai szolgáltató számára.
+
+(10) A közvetett kézbesítő képviseleti joggal rendelkező vezetője vagy ilyen joggal felruházott munkavállalója a küldemények átvételére feljogosított személy részére köteles névre szóló igazolást kiállítani az átvételi jogosultságról, melyen fel kell tüntetni a közvetett kézbesítést ellátó szervezet elnevezését (cégnevét) is, valamint köteles az átvételre feljogosított személyekről nyilvántartást vezetni oly módon, hogy a küldeményt átvevő személy személyazonossága legalább az átvételt követő két évig megállapítható és visszakereshető legyen.
+
+(11)[^35] A közvetett kézbesítő által a küldemények átvételére feljogosított személy az átvételi jogosultságát a névre szóló igazolással köteles igazolni a postai szolgáltató előtt. Az átvételre feljogosított személy a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön a postai szolgáltató által történő adatrögzítés biztosítása érdekében köteles közölni a közvetett kézbesítő szervezet nevét, a közvetett kézbesítői minőségét és a küldeményt átvevő személy nevét, továbbá az átvevő köteles a postai szolgáltató számára bemutatni a személyazonossága igazolására alkalmas okmányát is.
+
+## 9. Az átvételi jogosultság és a személyazonosság igazolása
+
+### 21. §
+
+(1)[^36] A címhelyen történő kézbesítéskor – közvetett kézbesítés kivételével – az átvételi jogosultság jogcíméről tett szóbeli nyilatkozattal a jogcím igazoltnak tekintendő. Amennyiben a szóbeli nyilatkozat alapján az átvételi jogosultság jogcíme kétséges, a postai szolgáltató kérheti a jogcím fennállásának további igazolását. A közvetett kézbesítő az átvételi jogosultság jogcímének fennállását a 20. § (10) bekezdése szerinti névre szóló igazolással igazolja.
+
+(2)[^37]
+
+(3)[^38] Természetes személy címzett részére küldött postai küldeménynek kézbesítési ponton történő kézbesítésekor az átvételi jogosultság jogcímének fennállása vonatkozásában a küldemény átvétele érdekében megjelenő személy szóbeli nyilatkozata irányadónak tekinthető, ha bemutatja vagy a postai szolgáltató kérésére átadja a küldemény érkezéséről szóló értesítőt. A helyettes átvevő a lakcímének vagy tartózkodási címének a postai küldemény címével vagy az utánküldési címmel való egyezőségét is igazolja. A postai szolgáltató jogosult a kézbesítést megelőzően az átvételi jogosultság jogcímének további igazolását kérni.
+
+### 22. §
+
+(1)[^39]
+
+(2)[^40] A szervezet mint címzett esetében a vezető átvételi jogosultságát olyan eredeti okirattal vagy arról készített közokiratba foglalt vagy egyszerű másolattal igazolhatja,
+
+a) amely egy évnél nem régebbi és a szervezetre vonatkozó jogszabály alapján egyébként alkalmas a vezetői minőség igazolására, vagy
+
+b) amelyet a postai szolgáltató az *a)* pontban foglaltakon túl az általános szerződési feltételei szerint e célból elfogad.
+
+(2a)[^41] A postai szolgáltató a bemutatott okiratok közül a később kiállítottat tekinti irányadónak, a (2) bekezdés a) pontja szerinti esetben az okiratok érvényességét, hatályosságát csak az egy évnél nem régebbi keltezés tekintetében vizsgálja. A postai szolgáltató felkérheti a vezetői minőségét igazolni kívánó személyt a bemutatott okirat elfogadandóságának jogszabályi alátámasztására, melynek elmaradása esetén a vezetői minőséget nem köteles igazoltnak tekinteni.
+
+(3)[^42] A személyes átadással kézbesítendő könyvelt postai küldemény címhelyen vagy kézbesítési ponton történő kézbesítésekor az igazolt jogcímmel rendelkező átvevő a személyazonosságát az arra alkalmas hatósági igazolvány postai szolgáltató részére történő bemutatásával igazolja, amely alapján a postai szolgáltató köteles rögzíteni a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön az átvevő személyazonosságát igazoló okmány elnevezését és okmányazonosítóját. Meghatalmazottnak történő kézbesítés esetében a személyazonosság igazolására olyan hatósági igazolvány alkalmas, amelyben a meghatalmazott nevén kívül legalább egy olyan – a személyazonosság megállapítására alkalmas – adat szerepel, amelyet a meghatalmazás is tartalmaz.
+
+(4) A kézbesítési ponton történő kézbesítés esetében, amennyiben a küldemény átvétele érdekében megjelenő személy nem mutatja be, illetve a postai szolgáltató kérésére nem adja át a küldemény érkezéséről szóló értesítőt, a küldemény csak az átvételi jogosultság jogcímének és a személyazonosságnak hatósági igazolvánnyal, illetve közhitelű dokumentummal történő igazolását követően kézbesíthető. Helyettes átvevő esetében a lakcímének vagy tartózkodási címének a postai küldemény címével vagy az utánküldési címmel való egyezőségét is igazolni kell.
+
+(5)[^43]
+
+(5a)[^44]
+
+(5b)[^45] Tértivevény többletszolgáltatással feladott postai küldemény személyes átadással történt kézbesítésének igazolásaként a tértivevény vagy a tértivevénynek megfelelő elektronikus dokumentum tartalmazza az átvevő személy olvasható nevét, továbbá – ha a küldeményt nem a címzett veszi át – az átvétel jogcímét és a postai szolgáltató azonosítására alkalmas jelzést is.
+
+### 23. §[^46]
+
+(1) A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
+
+(2) A készpénz kifizetése során az egyetemes postai szolgáltató a személyes átadással kézbesítendő könyvelt postai küldemények kézbesítésére vonatkozó rendelkezéseket alkalmazza, azzal, hogy
+
+a) készpénz címhelyen történő kifizetésekor az átvételre jelentkező természetes személy részéről – az alkalmi átvevő kivételével – a személyazonosságának igazolására alkalmas okmány szolgáltató számára történő bemutatása és ez alapján az okmány elnevezésének és okmányazonosítójának szolgáltató általi rögzítése mellőzhető akkor, ha az átvételre jelentkező természetes személy szóbeli nyilatkozata alapján az átvételi jogosultság jogcíme az egyetemes postai szolgáltató számára nem kétséges;
+
+b) az egyetemes postai szolgáltató készpénz címhelyen és kézbesítési ponton történő kifizetésekor is minden esetben rögzíti a Postatv. 26. § (4a) bekezdésében meghatározott adatokat a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközzel felvett elektronikus dokumentumon.
+
+## 10. A postai küldemény átvételének megtagadása
+
+### 24. §[^47]
+
+(1) A postai küldemény átvételének megtagadására vonatkozó – a Postatv. 41. § (3a) bekezdése szerinti – nyilatkozatot a címzett vagy a meghatalmazott tehet. Szervezet esetében a címzett általi megtagadásnak minősül, ha a 15. § (2)–(3) bekezdésében meghatározott személy tagadja meg az átvételt.
+
+(2) A postai szolgáltató az átvétel megtagadása esetén ennek tényét mint kézbesíthetetlenségi okot a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton feltünteti, és a postai küldeményt – értesítő hátrahagyása és rendelkezésre tartási idő biztosítása nélkül – a feladó részére visszakézbesíti.
+
+(3) Nem minősül a küldemény átvétele megtagadásának, ha
+
+a) a címzett vagy meghatalmazott
+
+aa) a kézbesítéskor esedékes díj megfizetését az összeg mértéke vagy a fizetési mód miatt csak a kézbesítési kísérletet követően, a Postatv. 42. § (1) bekezdésében rögzített rendelkezésre tartási időn belül vállalja teljesíteni, vagy
+
+ab) elzárkózik aláírásának az (1) bekezdés szerinti nyilatkozaton való feltüntetésétől, vagy
+
+b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá az átvétel során a postai szolgáltató által kötelezően rögzítendő adatokat tartalmazó hatósági igazolvány bemutatásától.
+
+(4) A postai szolgáltató a (3) bekezdés szerinti esetekben a címzett részére a küldemény érkezéséről értesítőt hagy hátra.
+
+## 11. A postai küldemény kézbesíthetetlensége és a kézbesíthetetlenségi ok jelzése
+
+### 25. §
+
+(1) A postai szolgáltatón kívül álló okból kézbesíthetetlen a postai küldemény a címzett részére, ha
+
+a) a küldemény címzése vagy címe nem megfelelő, vagy a cím nem létező, továbbá ha a címhely azonosításra nem alkalmas, vagy az nem egyértelmű (jelzése: cím nem azonosítható),
+
+b)[^48] a címzett a címen – különösen a 26. § (3) bekezdése szerint tett bejelentés alapján – nem ismert (jelzése: címzett ismeretlen),
+
+c)[^49] a címzett vagy egyéb jogosult átvevő a kézbesítésről szóló értesítésben megjelölt határidő lejártáig a rendelkezésére tartott küldeményért nem jelentkezett, vagy nem vette át (jelzése: nem kereste),
+
+d) a 24. § (1) bekezdése szerinti kézbesíthetetlenségi ok áll fenn (jelzése: átvételt megtagadta),
+
+e) a címzett – a 26. § (3) bekezdése szerinti bejelentés tartalma alapján – elköltözött (jelzés: elköltözött),
+
+f) a levélszekrénybe történő elhelyezéssel vagy személyes átadással történő kézbesítés vagy az értesítő hátrahagyása nem lehetséges (jelzése: kézbesítés akadályozott),
+
+g)[^50] a 26. § (3) bekezdése szerinti bejelentés vagy nyilatkozat alapján a természetes személy meghalt, a szervezet megszűnt (jelzése: bejelentve: meghalt/megszűnt).
+
+(2)[^51] A kézbesíthetetlenség (1) bekezdésben meghatározott okát a postai szolgáltató az ott meghatározott jelzésnek megfelelően köteles a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton feltüntetni, valamint a postai küldeményt a feladónak visszakézbesíteni.
+
+(3) A postai szolgáltató a kézbesíthetetlenség (1) bekezdésben meghatározott okain belül az általános szerződési feltételeiben megállapítottak szerint további kézbesíthetetlenségi okokat is visszajelezhet a feladó részére.
+
+(4) A postai szolgáltató a kézbesíthetetlenség (1) és (3) bekezdésben meghatározott okáról e-mail, rövid szöveges üzenet vagy egyéb technikai eszköz alkalmazásával tájékoztatja a feladót, ha erről vele egyedi szerződésben vagy az általános szerződési feltételek alapján megállapodott.
+
+## 12. A postai küldemény kézbesítésének egyéb szabályai
+
+### 26. §
+
+(1)[^52] A latin betűket nem ismerő címzettnek vagy egyéb jogosult átvevőnek a személyes átadással kézbesítendő könyvelt küldeményt nagykorú tanú jelenlétében kell kézbesíteni. A postai szolgáltató a kézbesítés előtt a címzett vagy egyéb jogosult átvevő, továbbá a tanú személyazonosságát a 21. és 22. §-ban foglaltak szerint ellenőrzi, és annak alapján a személyazonosságot igazoló okmányok elnevezését és okmányazonosítóját – a tanú e minőségének feltüntetése mellett – a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön rögzíti.
+
+(2)[^53] A cselekvőképtelen vagy a cselekvőképességet kizáró gondnokság alatt álló természetes személy részére címzett személyes átadással történő kézbesítést igénylő küldeményt a törvényes képviselőnek vagy a gondnoknak kell kézbesíteni. A gondnoknak e minőségét jogerős bírósági ítélettel vagy hatósági határozattal kell igazolnia. Az életkora miatt cselekvőképtelen természetes személy részére címzett küldeményt a törvényes képviselő címzettként veheti át.
+
+(3) A postai szolgáltató a postai küldemény kézbesítését érintő, a címzettel vagy az egyéb jogosult átvevővel kapcsolatos információt tartalmazó bejelentést vagy nyilatkozatot – kivéve, ha annak valódisága kétséges – legalább a következő feltételek megléte esetén fogadja el:
+
+a) a bejelentés személyesen és írásban, magyar nyelven történik, és
+
+b) a bejelentő a bejelentés valódiságát
+
+ba) okirattal igazolja és az okirat eredetijét vagy eredetijének bemutatásával egyidejűleg másolatát csatolja,
+
+bb) okirat hiányában a bejelentésen nyilatkozik, hogy az abban foglaltak a valóságnak megfelelnek,
+
+c) és a bejelentés tartalmazza a bejelentő aláírását és természetes személyazonosító adatait.
+
+(4) A (3) bekezdés szerinti bejelentéssel vagy nyilatkozattal kapcsolatos eljárás, valamint a nyilatkozat alkalmazásának részletes szabályait a postai szolgáltató általános szerződési feltételeiben állapíthatja meg.
+
+### 26/A. §[^54]
+
+A Postatv. 41. § (11) bekezdése szerinti eszköz- és rendszerkövetelmények teljesülése abban az esetben megfelelő, amennyiben a felhasznált eszköz és informatikai rendszer biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint annak észrevétlen módosítását. A felhasznált eszköznek és informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a postai szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+## 13. A hivatalos iratokkal kapcsolatos szolgáltatások részletes szabályai
+
+### 27. §
+
+A hivatalos iratok felvételét, szükség szerint gyűjtését, feldolgozását, szállítását és kézbesítését együttesen vagy részben magában foglaló, gazdasági tevékenység keretében végzett szolgáltatás vonatkozásában e rendelet szabályait ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+### 28. §[^55]
+
+(1) A hivatalos irat feladójának
+
+a) a küldeményen szereplő címzés mellett, továbbá
+
+b) ha a feladó a feladást igazoló okiratként a postai szolgáltató és a feladó által is elektronikusan visszakereshető, elektronikus formában rögzített adatbázist alkalmaz, ez esetben az e feladást igazoló okiraton is
+
+meg kell jelölnie, hogy sikertelen személyes kézbesítési kísérlet esetében milyen adattartalmú tájékoztatással kell a címzettet a hivatalos irat érkezéséről értesíteni.
+
+(1a)[^56] Ha az egyetemes postai szolgáltató a hivatalos irat feladásához elektronikusan visszakereshető, elektronikus formában rögzített adatbázist előállító elektronikus alkalmazás rendelkezésre állásáról gondoskodik és azt díjmentesen a hivatalos irat feladói számára hozzáférhetővé teszi, az általános szerződési feltételeiben – az ott megállapított fordulónappal – a feladóval kötött egyedi szerződés ellenkező tartalmú rendelkezése ellenére is kötelezővé teheti ilyen elektronikus alkalmazás használatát.
+
+(2) A hivatalos irat tértivevényének tartalmi és formai követelményeit az Egyetemes Postai Közszolgáltatási Szerződés tartalmazza.
+
+### 29. §
+
+(1)[^57] A hivatalos iratot a címzettnek vagy az egyéb jogosult átvevőnek személyes átadással kell kézbesíteni.
+
+(2)[^58] Hivatalos irat a feladóval kötött egyedi szerződés vagy az általános szerződési feltételek szerinti külön rendelkezés alapján sem kézbesíthető alkalmi átvevőnek, a 15. § (3) bekezdés a) és c) pontja szerinti képviselőnek, valamint a 16. § (3) bekezdés b) pontja szerinti helyettes átvevőknek.
+
+### 30. §
+
+(1)[^59] Hivatalos irat kézbesítésekor a küldemény átvételének igazolásaként a tértivevénynek megfelelő elektronikus dokumentumon fel kell tüntetni az átvevő személy olvasható nevét, az átvétel jogcímét, ha a küldeményt nem a címzett veszi át, helyettes átvevőnek történő átadás esetén a hozzátartozói jogcímet, valamint a postai szolgáltató azonosítására alkalmas jelzést, továbbá a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön az átvevő által bemutatott hatósági igazolvány alapján az átvevő személyazonosságát igazoló okmány elnevezését és okmányazonosítóját is.
+
+(2)[^60] Nemzetközi viszonylatú hivatalos irat belföldi kézbesítése során a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön az (1) bekezdésben foglalt adatok mellett az átvevő lakcímét is fel kell tüntetni.
+
+### 31. §
+
+(1)[^61] Amennyiben az első kézbesítési kísérlet nem vezetett eredményre – kivéve, ha az átvételt a címzett megtagadta, vagy a postai szolgáltató a 26. § (3) bekezdése szerinti kézbesítést érintő információval rendelkezik –, a postai szolgáltató a hivatalos irat érkezéséről és a sikertelen kézbesítési kísérletről a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a címzett vagy egyéb jogosult átvevő rendelkezésére tartja, és a kézbesítést a sikertelen kézbesítés napját követő ötödik munkanapon újból megkísérli.
+
+(2)[^62] A második kézbesítési kísérlet sikertelensége esetén a postai szolgáltató a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a második kézbesítési kísérlet napját követő öt munkanapig a címzett vagy egyéb jogosult átvevő rendelkezésére tartja.
+
+(3) Az értesítőnek tartalmaznia kell:
+
+a) az „értesítés hivatalos irat érkezéséről” kifejezést és az értesítésnek a feladó által meghatározott típusát – az értesítő fejrészén,
+
+b) a hivatalos iratot feladó szervezet nevét és a feladó szerinti település nevét,
+
+c) a hivatalos iraton megjelölt címzett nevét és a küldeményen feltüntetett kézbesítési címet,
+
+d) annak megjelölését, hogy hányadik sikertelen kézbesítési kísérletet követően került elhelyezésre az értesítő,
+
+e) a sikertelen kézbesítési kísérlet napjának megjelölését,
+
+f) a hivatalos irat azonosítására alkalmas jelzést,
+
+g) annak a kézbesítési pontnak a megjelölését, ahol a jogosult átvevő a küldeményt átveheti,
+
+h) a rendelkezésre tartás kezdő és végső időpontjának megjelölését – órára pontosan,
+
+i)[^63] a küldemény átvételére való jogosultság e rendeletben meghatározott jogcímeiről és a jogosultság igazolásának módjáról szóló, a postai szolgáltató általános szerződési feltételeinek a hivatalos iratok kézbesítésére vonatkozó rendelkezéseiben foglalt tájékoztató tartalom elérhetőségét, valamint amennyiben a küldeményt kizárólag a címzett veheti át, az erre vonatkozó figyelmeztetést,
+
+j) az első kézbesítési kísérletet követően elhelyezett értesítőn annak megjelölését, hogy mely napon történik meg a második kézbesítési kísérlet,
+
+k)[^64] a küldemény kézbesítési kísérletét végző kézbesítő azonosítását lehetővé tévő egyéb jelzést,
+
+l) az egyes hivatalos irat típusokra vonatkozóan az átvétel elmaradásának jogkövetkezményére figyelmeztető tartalom elérhetőségét.
+
+(4)[^65] A második értesítőben megjelölt átvételi határidő eredménytelen elteltét követő munkanapon a postai szolgáltató a hivatalos iratot a tértivevényen vagy az annak megfelelő elektronikus dokumentumon feltüntetendő „nem kereste” jelzéssel a feladónak visszaküldi.
+
+(5) A postafiókra címzett hivatalos irat érkezéséről az egyetemes postai szolgáltató a fiókban elhelyezett (1)–(2) bekezdés szerinti értesítővel ad tájékoztatást, abban az esetben is, ha a hivatalos irat postafiókra címzett, de nem a postafiók bérlőjének szól.
+
+### 32. §
+
+(1)[^66] A hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését megelőzően az egyetemes postai szolgáltató a címzett eltérő rendelkezése esetén is köteles a hivatalos iratot a címzett – utánküldés szolgáltatás igénybevétele alapján a nyilvántartásában szereplő – új belföldi címére továbbítani az utánküldés szolgáltatásra vonatkozó szerződés hatálya alatt. Az utánküldési szerződés hatálya a címzett eltérő rendelkezése esetében sem terjed ki a hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését követő rendelkezésre tartási idő alatti továbbítására.
+
+(2) A postai szolgáltató abban az esetben is hátrahagyja a címzett számára a 31. § (1)–(2) bekezdése szerinti értesítőt, ha a hivatalos irat átvételétől a meghatalmazott zárkózik el.
+
+## 13/A.[^67] Eljáró hatóság
+
+### 32/A. §
+
+(1) A 3/A. §-ban foglalt rendelkezés megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.
+
+(2) Az (1) bekezdésben említett rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősül.
+
+## 14. Záró rendelkezések
+
+### 33. §
+
+(1) Ez a rendelet 2013. január 1-jén lép hatályba.
+
+(2)[^68]
+
+(3) E rendelet rendelkezéseit a Postatv. 77. § (1) bekezdése szerinti átmeneti rendelkezések szerint eljáró postai szolgáltatók a Postatv. rendelkezéseinek való megfeleléssel egyidejűleg kötelesek általános szerződési feltételeikben megjeleníteni, és mindaddig az időpontig a postai szolgáltatást a 2012. december 31-én hatályos, a postai szolgáltatások ellátásáról és minőségi követelményeiről szóló 79/2004. (IV. 19.) Korm. rendeletnek megfelelő általános szerződési feltételeik szerint nyújthatják.
+
+(4)[^69] Ha a feladó a hivatalos irathoz a feladásakor tértivevény nyomtatványt csatol, a saját költségén köteles gondoskodni az Egyetemes Postai Közszolgáltatási Szerződésben meghatározott tartalmi és formai követelményeknek megfelelő tértivevény előállításáról, továbbá a feladónak a tértivevényen minden esetben meg kell jelölnie, hogy sikertelen személyes kézbesítési kísérlet esetében milyen adattartalmú értesítést kell a címzett részére hátrahagyni.
+
+(5)[^70] A tértivevény nyomtatványt legkésőbb 2020. június 30-ig lehet a feladáskor felhasználni a hivatalos irat kézbesítési kísérletével kapcsolatos tények vagy a hivatalos irat átvételének igazolása érdekében.
+
+---
+
+[^1]: Az 1/A. §-t a 102/2014. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^2]: A 2. § c) pontját a 685/2023. (XII. 29.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § d) pontját a 685/2023. (XII. 29.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^4]: A 2/A. §-t a 685/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3/A. §-t a 685/2023. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^6]: Az 5. § a 292/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 7. § (1) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 7. § (5) bekezdését a 685/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 9. § (1) bekezdése a 292/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (2) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^12]: A 9. § (2a) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 59. § (2) bekezdése iktatta be.
+[^13]: A 9. § (2b) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 59. § (2) bekezdése iktatta be.
+[^14]: A 9. § (5) bekezdése a 685/2023. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 9. § (7) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 256/2022. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 10. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^17]: A 11. § (1) bekezdés nyitó szövegrésze a 256/2022. (VII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^18]: A 12. § (4a) bekezdését a 81/2017. (IV. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 256/2022. (VII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 13. § a 256/2022. (VII. 15.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^20]: Az 5. alcím címe a 256/2022. (VII. 15.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^21]: A 14. § a 256/2022. (VII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A 15. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés b) pontja, a 256/2022. (VII. 15.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^23]: A 15. § (3) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^24]: A 16. § (4) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^25]: A 16. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 16. § (6) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^27]: A 16. § (7) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 6. alcím címe a 256/2022. (VII. 15.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^29]: A 18. § (1) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^30]: A 19. § (6) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^31]: A 19. § (7) bekezdése a 685/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: A 20. § (1) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^33]: A 20. § (3) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^34]: A 20. § (6) bekezdés a) pontja a 256/2022. (VII. 15.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^35]: A 20. § (11) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^36]: A 21. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^37]: A 21. § (2) bekezdését a 102/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdése hatályon kívül helyezte.
+[^38]: A 21. § (3) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^39]: A 22. § (1) bekezdését a 256/2022. (VII. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^40]: A 22. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (7) bekezdésével megállapított szöveg.
+[^41]: A 22. § (2a) bekezdését a 102/2014. (III. 25.) Korm. rendelet 3. § (7) bekezdése iktatta be.
+[^42]: A 22. § (3) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^43]: A 22. § (5) bekezdését a 256/2022. (VII. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^44]: A 22. § (5a) bekezdését a 102/2014. (III. 25.) Korm. rendelet 3. § (8) bekezdése iktatta be, a 256/2022. (VII. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^45]: A 22. § (5b) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdése iktatta be, a 256/2022. (VII. 15.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^46]: A 23. § a 256/2022. (VII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^47]: A 24. § a 256/2022. (VII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^48]: A 25. § (1) bekezdés b) pontja a 685/2023. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^49]: A 25. § (1) bekezdés c) pontja a 685/2023. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^50]: A 25. § (1) bekezdés g) pontját a 102/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be.
+[^51]: A 25. § (2) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^52]: A 26. § (1) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^53]: A 26. § (2) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 12. § i) pontja szerint módosított szöveg.
+[^54]: A 26/A. §-t a 292/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^55]: A 28. § a 292/2018. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^56]: A 28. § (1a) bekezdését a 332/2019. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^57]: A 29. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^58]: A 29. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés f) pontja szerint módosított szöveg.
+[^59]: A 30. § (1) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^60]: A 30. § (2) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 12. § j) pontja szerint módosított szöveg.
+[^61]: A 31. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés g) pontja szerint módosított szöveg.
+[^62]: A 31. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés g) pontja szerint módosított szöveg.
+[^63]: A 31. § (3) bekezdés i) pontja a 292/2018. (XII. 21.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^64]: A 31. § (3) bekezdés k) pontja a 292/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 685/2023. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^65]: A 31. § (4) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^66]: A 32. § (1) bekezdése a 685/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^67]: A 13/A. alcímet (32/A. §-t) újonnan a 93/2024. (IV. 23.) Korm. rendelet 12. §-a iktatta be.
+[^68]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 33. § (4) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 332/2019. (XII. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^70]: A 33. § (5) bekezdését a 332/2019. (XII. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be.

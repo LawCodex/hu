@@ -1,0 +1,157 @@
+---
+title: "211/2015. (VII. 23.) Korm. rendelet az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról"
+identifier: "211/2015. (VII. 23.) Korm. rendelet"
+njt_id: "2015-211-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/211"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-07-23
+in_force_from: 2015-08-01
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-211-20-22"
+retrieved: 2026-10-12
+---
+
+# 211/2015. (VII. 23.) Korm. rendelet az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról
+
+A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1)[^1] Az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezésére az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) az államhatárról szóló 2007. évi LXXXIX. törvény (a továbbiakban: Áhtv.) 5. §-a szerinti közérdekű használati jog bejegyzésével érintett ingatlanok adatát tartalmazó tulajdonosi adatokkal kiegészített földkönyvet haladéktalanul, de legkésőbb az adatigénylést követő napon átadja az általános rendőrségi feladatok ellátására létrehozott szervnek. A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzéséhez – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 65. § (2) bekezdésében meghatározott változási vázrajz helyett – településenként készült átnézeti térképet kell mellékelni.
+
+(2)[^2] Az átnézeti térkép az érintett ingatlanokat és azok közvetlen környezetét ábrázoló, az állami ingatlan-nyilvántartási térképi adatbázis alapján készített rajzi munkarész. Az átnézeti térkép mellékletét képezi a közérdekű használati joggal érintett területrészekre vonatkozó földrészletenként készített terület-kimutatás. Az így elkészített átnézeti térképet és terület-kimutatást az ingatlanügyi hatóság az általános rendőrségi feladatok ellátására létrehozott szerv részére a kezdeményezésétől számított öt napon belül adja át.
+
+### 2. §
+
+(1)[^3] A fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) az Áhtv. 5. §-a szerinti közérdekű használati joggal összefüggő, az Áhtv. 5/A. §-a szerinti kártalanítási eljárást – az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezésére – hivatalból folytatja le.
+
+(2) A kártalanítási eljárásra az érintett ingatlan fekvése szerinti kormányhivatal illetékes.
+
+(3)[^4] E rendelet hatálya nem terjed ki a közérdekű használati jog gyakorlásával összefüggésben okozott – a kártalanítás körén kívül eső – egyéb károk megtérítésére irányuló kárigényekre. Az ilyen kártérítési igények az általános rendőrségi feladatok ellátására létrehozott szervvel szemben a Polgári Törvénykönyvről szóló törvénynek a szerződésen kívül okozott károkért való felelősségre vonatkozó szabályai szerint érvényesíthetők.
+
+(4)[^5]
+
+## 2. Egyszeri kártalanítás
+
+### 3. §
+
+Az általános rendőrségi feladatok ellátására létrehozott szerv a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzésének kezdeményezésével egyidejűleg – az érintett ingatlanok helyrajzi számának közlésével – kezdeményezi a kormányhivatalnál az Áhtv. 5/A. § (1) bekezdés a) pontja szerinti kártalanításról (a továbbiakban: egyszeri kártalanítás) való döntés meghozatalát.
+
+### 4. §
+
+(1) A kormányhivatal soron kívül jár el.
+
+(2)[^6] Az eljárás eredményes lefolytatása érdekében a kormányhivatal mellőzi az eljárás megindításáról szóló, az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti értesítést; ugyanakkor az eljárás megindítását követően haladéktalanul, a honlapján, valamint az ingatlan fekvése szerinti települési önkormányzat (a továbbiakban: önkormányzat) hirdetőtábláján 30 napra tájékoztatást tesz közzé az alábbi adatokkal:
+
+a) az eljáró hatóság megjelölése,
+
+b) az ügy tárgya,
+
+c) az érintett ingatlan helyrajzi száma,
+
+d) az eljárás megindításának napja.
+
+(3) Az egyszeri kártalanításról szóló határozatot az ügyféllel hirdetményi úton is közölni kell.
+
+### 5. §
+
+(1) Az egyszeri kártalanítást egy összegben, az általános rendőrségi feladatok ellátására létrehozott szerv választása szerint bírósági letétbe helyezés útján, bírói letéti számlára történő átutalással vagy a tulajdonos részére annak fizetési számlájára történő átutalással kell megfizetni.
+
+(2) Az általános rendőrségi feladatok ellátására létrehozott szerv az egyszeri kártalanítás (1) bekezdés szerinti teljesítésének megtörténtét a bírói letéti számlára vagy a tulajdonos fizetési számlájára történő átutalás bizonylatával igazolja a kormányhivatal számára.
+
+(3) A bírói letéti számlára történő utalás (2) bekezdés szerinti igazolását követően a kormányhivatal a honlapján, valamint az önkormányzat hirdetőtábláján 30 napra haladéktalanul tájékoztatást tesz közzé az alábbi adatokkal:
+
+a) az eljáró hatóság megjelölése,
+
+b) az ügy tárgya,
+
+c) az érintett ingatlan helyrajzi száma,
+
+d) az egyszeri kártalanítás bírói letéti számlára történő átutalásának napja.
+
+(4)[^7] A kormányhivatal a (2) és (3) bekezdésben foglaltak megtörténtéről az Ákr. döntés közlésére vonatkozó általános szabályai szerint értesíti az érintett ügyfeleket.
+
+### 6. §
+
+(1) Egyszeri kártalanításként négyzetméterenként 173 forint összegű kártalanítás jár.
+
+(2) Az egyszeri kártalanítást a tulajdonos részére, a tulajdoni hányada arányában kell megállapítani.
+
+## 3. Éves kártalanítás
+
+### 7. §[^8]
+
+Az Áhtv. 5/A. § (1) bekezdés b) pontja szerinti kártalanításról (a továbbiakban: éves kártalanítás) való döntés meghozatalát az általános rendőrségi feladatok ellátására létrehozott szerv az adott ingatlan vonatkozásában hozott egyszeri kártalanításról szóló döntés véglegessé válását követően minden naptári év szeptember 15-e és október 15-e között kezdeményezi.
+
+### 8. §[^9]
+
+(1) Az éves kártalanításról való döntéshozatalra irányuló eljárást a kormányhivatal a közigazgatási hatósági eljárás általános szabályai szerint folytatja le.
+
+(2) Az éves kártalanítást egy összegben, az általános rendőrségi feladatok ellátására létrehozott szerv választása szerint bírósági letétbe helyezés útján, bírói letéti számlára történő átutalással vagy a tulajdonos részére annak fizetési számlájára történő átutalással kell megfizetni, a határozat véglegessé válását követő 30 napon belül.
+
+(3) Az általános rendőrségi feladatok ellátására létrehozott szerv az éves kártalanítás bírói letéti számlára történő átutalással megvalósuló teljesítésének megtörténtét a bírói letéti számlára történő átutalás bizonylatával igazolja a kormányhivatal számára.
+
+(4) A bírói letéti számlára történő utalás (3) bekezdés szerinti igazolását követően a kormányhivatal a honlapján, valamint az önkormányzat hirdetőtábláján 30 napra haladéktalanul tájékoztatást tesz közzé, amely tartalmazza
+
+a) az eljáró hatóság megjelölését,
+
+b) az ügy tárgyát,
+
+c) az érintett ingatlan helyrajzi számát,
+
+d) az éves kártalanítás bírói letéti számlára történő átutalásának napját.
+
+(5) A kormányhivatal a (3) és a (4) bekezdésben foglaltak megtörténtéről az Ákr. döntés közlésére vonatkozó általános szabályai szerint értesíti az érintett ügyfeleket.
+
+### 9. §
+
+(1) Az éves kártalanítás megállapítása során mezőgazdasági, illetve erdőgazdasági művelés alatt álló területek esetében a (2) és (3) bekezdésben foglaltakat is figyelembe kell venni.
+
+(2) Mezőgazdasági művelés alatt álló területen a növénytermelésben és a gyepgazdálkodásban keletkezett károk esetén a következőket kell figyelembe venni:
+
+a) a károsodott növényfajnak, gyepnek, valamint az ingatlan művelési ágának egy hektárra jutó termelői, ennek hiányában értékesítési vagy nyilvántartási áron számított átlagos üzemi hozamértékét;
+
+b) a talajjavítás és talajvédelem körében kizárólag az üzemi meliorációs művek és műtárgyak helyreállítási költségét.
+
+(3) Erdőgazdasági művelés alatt álló területeken az erdőállományban keletkezett károk esetén a következőket kell figyelembe venni:
+
+a) fiatal állományok esetén a részleges vagy teljes állománypusztulás során az erdőfelújítás költségét, beleértve a sérült állományrészek eltávolításának költségét is, valamint az állomány korától függő elmaradt hasznot és a növedékkiesés ellenértékét;
+
+b) befejezett korú állományok esetén a kipusztult vagy sérült faanyag piaci áron számolt ellenértékét és annak az *a)* pont szerint részletezett költségeit;
+
+c) az erdőgazdálkodást szolgáló létesítményben – feltáró utak, azok műtárgyai, vízelvezető árkok – keletkezett kárt és a létesítmény helyreállításának költségét.
+
+(4) Ha az egyszeri kártalanítás alapjául szolgáló, a 6. § (1) bekezdése szerinti – egységnyi térmértékre vetített – átalányösszeg és az adott ingatlan tényleges forgalmi értéke alapján számított – annak egységnyi térmértékére vetített – összeg között különbözet áll fenn, úgy ennek összegét – annak elszámolásáig – a tulajdonosnak járó éves kártalanítás összegének megállapítása során a kártalanítás mértékét csökkentő, illetve növelő tényezőként kell figyelembe venni.
+
+## 4. Záró rendelkezések
+
+### 10. §
+
+Ez a rendelet 2015. augusztus 1-jén lép hatályba.
+
+### 11. §
+
+A 2015. évben a 7. § szerinti éves kártalanítás összegét a 2016. évben járó éves kártalanítással egyidejűleg kell megállapítani.
+
+### 12. §[^10]
+
+Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015. (VII. 23.) Korm. rendelet módosításáról szóló 233/2015. (VIII. 20.) Korm. rendelet hatálybalépése[^11] előtt indult, az Áhtv. 5. § (1) bekezdésében meghatározott létesítménnyel összefüggő közigazgatási hatósági eljárásokat – az e rendeletben meghatározott kártalanítási, valamint a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzéséhez szükséges eljárás kivételével – meg kell szüntetni.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 144. § a) pontja, a 251/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 144. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^3]: A 2. § (1) bekezdése a 251/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdését a 213/2015. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^5]: A 2. § (4) bekezdését a 233/2015. (VIII. 20.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 260/2015. (IX. 14.) Korm. rendelet 7. §-a.
+[^6]: A 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: Az 5. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 7. § a 457/2017. (XII. 28.) Korm. rendelet 539. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: A 8. § a 267/2019. (XI. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^10]: A 12. §-t a 233/2015. (VIII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2015. augusztus 21.

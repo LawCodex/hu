@@ -1,0 +1,141 @@
+---
+title: "251/2015. (IX. 8.) Korm. rendelet a Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "251/2015. (IX. 8.) Korm. rendelet"
+njt_id: "2015-251-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/251"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-09-08
+in_force_from: 2015-09-09
+last_amended: 2022-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-251-20-22"
+retrieved: 2026-10-12
+---
+
+# 251/2015. (IX. 8.) Korm. rendelet a Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d), e) és f) pontjában,
+
+a 4. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 17. és 24. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 23996 helyrajzi szám alatt nyilvántartott, természetben a Budapest V. kerület, Váci utca 36. szám alatt található ingatlanon megvalósítandó szálloda kialakításával, üzemeltetésének beindításával kapcsolatos beruházással függnek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek
+
+a) az útépítési és közmű csatlakozási munkák érdekében az (1) bekezdés szerinti ingatlannal szomszédos, Budapest V. kerület 24304 helyrajzi számú Ferenciek terét, a 23997 helyrajzi számú Veres Pálné utcát, valamint a 24310 helyrajzi számú Szabad Sajtó utat, a 23995 helyrajzi számú Duna utcát, a 23859 helyrajzi számú Erzsébet híd hídfő felhajtót és a 23935 helyrajzi számú Váci utcát érintik,
+
+b) az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+(1)[^2]
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha a jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(4)[^3]
+
+## 4. §
+
+Az 1. § (1) bekezdése szerinti beruházással összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni és
+
+b) településképi bejelentési eljárásnak nincs helye.
+
+## 4/A. §[^4]
+
+(1)[^5] Az 1. § (1) bekezdése szerinti beruházás és ingatlan esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet, valamint a hatályos településrendezési tervet azzal az eltéréssel kell alkalmazni, hogy az 1. § (1) bekezdése szerinti épület vonatkozásában építési követelményként érvényesíteni kell a következőket:
+
+a) a szintterületi mutató legfeljebb 7 m<sup>2</sup>/m<sup>2</sup>,
+
+b) az épület gerincmagassága nem haladhatja meg a 35,0 métert, amely tekintetében a saroktornyot, kupolát, díszítőelemeket, tetőfelépítményeket, antennát, villámhárítót, kéményt és szellőzőt figyelmen kívül kell hagyni,
+
+c) az építménymagasság nem haladhatja meg a 35 métert,
+
+d) tetőtérben két építményszint építhető, valamint tetősíkban a nyílászárók két sorban elhelyezhetők.
+
+(2) Az 1. § (1) bekezdése szerinti műemlék épület tetőszerkezete csak abban az esetben bontható, ha az visszaépítésre kerül, azzal, hogy a Budapest V. kerület, 24309 helyrajzi számú ingatlanon a meglévő műemlék épülethez – a műemlék épületek „iker jellege” megőrzésével – illeszkednie kell, amely során a tetőzet eredeti díszeit, saroktornyait és hangsúlyképző elemeit vissza kell építeni.
+
+(3) Az 1. § (1) bekezdése szerinti épület épületszerkezeteinek vonatkozásában a KK kockázati osztály besorolása az irányadó.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+## 7. §[^6]
+
+E rendeletnek a Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 251/2015. (IX. 8.) Korm. rendelet módosításáról szóló 327/2016. (X. 27.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 1. melléklet a 251/2015. (IX. 8.) Korm. rendelethez
+
+**A Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. földmérési hatósági eljárások,
+
+13\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+14\. hírközlési hatósági eljárások,
+
+15\. bányahatósági engedélyezési eljárások,
+
+16\. tűzvédelmi hatósági eljárások,
+
+17\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
+
+21\. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 82. § a) és b) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 203. §-a hatályon kívül helyezte.
+[^3]: A 3. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 203. §-a hatályon kívül helyezte.
+[^4]: A 4/A. §-t a 327/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 4/A. § (1) bekezdés nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^6]: A 7. §-t a 327/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A hatálybalépés napja 2016. október 28.

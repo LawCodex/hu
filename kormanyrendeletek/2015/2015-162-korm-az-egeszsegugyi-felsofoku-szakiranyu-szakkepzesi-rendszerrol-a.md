@@ -1,0 +1,1012 @@
+---
+title: "162/2015. (VI. 30.) Korm. rendelet az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról"
+identifier: "162/2015. (VI. 30.) Korm. rendelet"
+njt_id: "2015-162-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2015/Korm/162"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2015-06-30
+in_force_from: 2015-07-01
+last_amended: 2025-12-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-162-20-22"
+retrieved: 2026-10-12
+---
+
+# 162/2015. (VI. 30.) Korm. rendelet az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról
+
+A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés m) pont ma) alpontjában kapott felhatalmazás alapján,
+
+az 5. § (8) és (9) bekezdése, a 6. § (5)–(7) bekezdése, valamint a 24. § (4) bekezdése tekintetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 28. § (3) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+a 13. § (3) bekezdése és a 14. § (1) bekezdése tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés m) pont me) alpontjában kapott felhatalmazás alapján,
+
+a IV. és V. Fejezet tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+
+a 49. § tekintetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 28. § (3) bekezdés a) pont aa) és ab) alpontjában kapott felhatalmazás alapján,
+
+az 50. § tekintetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 28. § (3) bekezdés d) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+E rendelet hatálya
+
+a) az egészségügyi felsőfokú szakirányú szakképzésben (a továbbiakban: szakképzés) részt vevő jelöltekre,
+
+b)[^1]
+
+c) az orvos- és egészségtudományi képzést folytató felsőoktatási intézményekre (a továbbiakban: egyetem),
+
+d) a jelöltek szakképzésében részt vevő, a szakképzésre akkreditált elsődleges képzőhelynek, külső képzőhelynek vagy a költségtérítéses képzésben részt vevő jelöltet foglalkoztató munkáltatónak minősülő egészségügyi szolgáltatókra és
+
+e)[^2] az Országos Kórházi Főigazgatóságra (a továbbiakban: OKFŐ)
+
+terjed ki.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában:
+
+1.[^3] *akkreditáció:* az OKFŐ által lefolytatott minősítési eljárás, amelynek során az egészségügyi szolgáltató jogosultságot szerez szakorvos, szakfogorvos, szakgyógyszerész, szakpszichológus jelöltek képzésére egy meghatározott szakképesítés vonatkozásában, és amely adott intézményre, illetve a képzési program egészére, vagy a képzési program egyes – miniszteri rendeletben meghatározott – képzési elemeire vonatkozik,
+
+2.[^4] *elsődleges képzőhely:* a 17. § (2) bekezdése szerinti támogatott szakképzési keretszámok betöltése keretében az OKFŐ által elsődleges képzőhelyként kijelölt szakképzésre akkreditált egészségügyi szolgáltató, ideértve az egyetemeket, a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi intézményt, valamint az igazságügyi orvostan, igazságügyi pszichiátria, egészségbiztosítás, felnőtt klinikai és mentálhigiéniai szakpszichológia, gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia, illetve megelőző orvostan és népegészségtan szakképzést biztosító intézményeket is.
+
+3\. *jelölt:* a rezidens, valamint a költségtérítéses szakképzésben részt vevő személy,
+
+4\. *külső képzőhely:* az elsődleges képzőhelytől vagy költségtérítéses képzés esetén a munkáltatótól eltérő azon egészségügyi szolgáltató, amely a képzés azon elemére akkreditált, amelyre az elsődleges képzőhely vagy a munkáltató akkreditációja nem terjed ki, és ahol a jelölt ezen képzési elemek tekintetében az egyetem által elkészített képzési tervének megfelelően a gyakorlatát tölti,
+
+5.[^5] *munkáltató:* a szakképzésre akkreditált egészségügyi szolgáltató,
+
+6\. *szakképesítés:* a szakképzés során megszerezhető végzettség,
+
+7\. *szakképzési grémium:* az egyetemeken működő, vagy egyes – miniszteri rendeletben meghatározott – szakterületeken országosan létrehozott, az adott szakma vagy szakterület tekintetében kiemelkedő szakmai ismeretekkel bíró szakemberek testülete, amely a szakképzési grémium feladatkörébe tartozó szakterületeken a szakorvos képzés tartalmával, a képzés szervezésével és végrehajtásával kapcsolatos szakmai feladatokat lát el,
+
+8\. *támogatott szakképzés:* a rezidens képzésével és foglalkoztatásával összefüggő költségeket központi költségvetési forrásból biztosító szakképzés.
+
+### 3. A szakképzés általános szabályai
+
+#### 3. §
+
+(1) A szakképzésben jelöltként hazai felsőoktatási intézmény által kiadott vagy honosított, vagy a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismert, az adott szakképesítés megszerzéséhez megfelelő végzettséget igazoló oklevéllel rendelkező, a szakképzésre az egyetemmel szakképzési megállapodást létesített személy vehet részt.
+
+(1a)[^6] A képzési keretszámok tervezhetősége érdekében a tárgyévben általános orvos képzésben oklevelet szerző személy – a képző intézménye útján – elektronikus úton, az oklevél kézhezvételétől számított legkésőbb harminc napon belül tájékoztatja az OKFŐ-t, hogy szakorvosi szakképzését Magyarországon, támogatott képzésben kívánja-e megszerezni és ha igen, mely évben tervezi a támogatott szakképzésbe történő bekapcsolódást.
+
+(2) A szakképesítés megszerzése támogatott szakképzés vagy költségtérítéses szakképzés keretében történik.
+
+(3)[^7] A támogatott szakképzés megszervezésére központi rendszerben kerül sor. Az OKFŐ a támogatott szakképzés szervezésével kapcsolatos feladatát az egyetemekkel együttműködve látja el.
+
+(4) Támogatott szakképzésben az első szakorvosi, szakfogorvosi, szakgyógyszerészi és szakpszichológus képzésben részt vevők az e rendelet alapján meghatározott keretszámok erejéig vehetnek részt.
+
+(5)[^8] A támogatott szakképzésben a rezidensek – a 6. § (2) bekezdésében foglaltak alkalmazása mellett és az (5b) bekezdésben foglalt kivétellel – az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben előírt időtartamnak megfelelő ideig vehetnek részt.
+
+(5a)[^9] A támogatott szakképzés nyelve a magyar.
+
+(5b)[^10] Az OKFŐ főigazgatója kérelemre, méltányosságból engedélyezheti a támogatási időszak legfeljebb egy évvel történő meghosszabbítását. A támogatási időszak meghosszabbítása iránti kérelmet a rezidens legkésőbb a támogatott szakképzése befejezését követő 30 napon belül nyújthatja be.
+
+(6) A szakképzés képzési programjának teljesítése során a jelölt munkáját közvetlenül a tutor felügyeli, aki folyamatos szakmai segítséget nyújt a jelöltnek az egészségügyi tevékenység végzésében.
+
+(7)[^11] Tutor a jelölt szakképzése alatt teljesítendő egyes képzési elemeknek megfelelő szakvizsgával vagy felsőfokú végzettséggel, továbbá – minden esetben – legalább hároméves szakmai gyakorlattal rendelkező,
+
+a)[^12] támogatott képzés esetén az elsődleges vagy a külső képzőhely (a továbbiakban együtt: képzőhely) által foglalkoztatott, az OKFŐ által vezetett tutori névjegyzékben szereplő vagy
+
+b) költségtérítéses képzés esetén a munkáltató vagy külső képzőhely által foglalkoztatott és a képzőhely vezetője által kijelölt
+
+személy lehet.
+
+(8)[^13] A (7) bekezdésben foglaltaktól eltérően a szakmai grémium támogatása esetén, a tutori névjegyzékbe felvehető az a személy is, aki adott szakterületen szakirányú szakképesítéssel vagy felsőfokú végzettséggel nem rendelkezik, vagy aki adott szakterületen szakvizsgával vagy felsőfokú szakképzettséggel és három évnél rövidebb időtartamú gyakorlattal rendelkezik, amennyiben a szakképzési grémium meggyőződött arról, hogy korábban megszerzett szakképesítései, szakmai gyakorlata és képességei alapján a tutori feladatok ellátására alkalmas.
+
+#### 4. §
+
+(1) A szakképzés megkezdésekor a jelölt a szakképzés idejére az általa választott egy egyetemmel szakképzési megállapodást létesít. A szakképzés kezdő időpontja a szakképzési jogviszony létrejöttének napja. A szakképzési megállapodás melléklete a jelölt képzési terve.
+
+(2) Az egyetem a szakképzési jogviszony létesítésének a jelölt által történő kezdeményezésétől számított 30 napon belül meghatározza a jelölt képzési tervét. A rezidens képzési terve képzési elemenként tartalmazza a képzés során elsajátítandó szakmai ismeretekhez szükséges ügyeleti tevékenység mértékének meghatározását.
+
+(3) A szakképzési jogviszony keretében a jelölt
+
+a) a szakképzésért felelős egyetemmel folyamatosan kapcsolatot tart,
+
+b) részt vesz az elméleti program végrehajtására biztosított képzésben és az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendelet alapján kötelező tanfolyamokon és
+
+c) bemutatja az egyetem által meghatározott, a szakképzés jogszabálynak megfelelő teljesítését igazoló dokumentumait.
+
+(4) A (3) bekezdés c) pontja szerinti dokumentumok benyújtásának határidejét és módját az egyetem határozza meg és a honlapján hozzáférhetővé teszi.
+
+#### 5. §
+
+(1) A szakképzés teljesítése érdekében
+
+a)[^14] a támogatott szakképzés keretében a rezidens az elsődleges képzőhelyével egészségügyi szolgálati jogviszonyt, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés d)–g) pontja szerinti jogviszonyt,
+
+b)[^15] a költségtérítéses szakképzés keretében a jelölt a munkáltatóval – az Eütev. 17. § (7) bekezdésében foglaltakra figyelemmel – az Eütev. 7. § (2) bekezdés a)–i) pontja szerinti foglalkoztatásra irányuló jogviszonyt
+
+létesít.
+
+(1a)[^16] A támogatott szakképzésben a rezidens az (1) bekezdés a) pontja szerinti egészségügyi szolgálati jogviszony létrejöttét követő 10 napon belül kezdeményezi az általa választott egyetemnél a 4. § (1) bekezdése szerinti szakképzési megállapodás megkötését. A szakképzési megállapodás megkötése kezdeményezésének hiányában az (1) bekezdés a) pontja szerinti egészségügyi szolgálati jogviszony próbaidő alatti megszüntetésére kerül sor.
+
+(2)[^17] A 4. § (1) bekezdése szerinti szakképzési megállapodás nem feltétele az (1) bekezdés a) pontja szerinti egészségügyi szolgálati jogviszony létesítésének. Az egészségügyi szolgálati jogviszony létesítésétől a szakképzési megállapodás megkötéséig eltelt idő a rezidens képzésébe beszámít.
+
+(3) Az (1) bekezdés b) pontja szerinti jogviszony keretében a munkáltató vállalja
+
+a) a jelölt foglalkoztatását a szakképzés teljes időtartama alatt,
+
+b) a képzési idő alatt a munkavégzés helyének szakképzés céljára történő, ideiglenes, a szakképzés teljesítéséhez szükséges megváltoztatása engedélyezését és
+
+c) a szakképzés tekintetében az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendelet alapján előírt beavatkozások, műtétek és vizsgálatok teljesítésének biztosítását a nála teljesítendő képzési elemek tekintetében.
+
+(4)[^18] A támogatott szakképzés keretében az OKFŐ megállapodást köt a rezidens részére megjelölt elsődleges képzőhellyel, amely alapján az elsődleges képzőhely vállalja
+
+a) a rezidens szakképzése teljesítésének igazolását a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen folyamatosan, de legkésőbb a tárgyhónapot követő hónap ötödik napjáig,
+
+b)[^19]
+
+c) a szakképzés tekintetében az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendelet alapján előírt beavatkozások, műtétek és vizsgálatok teljesítésének biztosítását a nála teljesítendő képzési elemek tekintetében és
+
+d) a rezidens illetményének, valamint a 12. § (1) bekezdés a) pont ab) alpontja és *b)* pont *bb)* alpontja szerinti juttatások meghatározásához szükséges adatszolgáltatás teljesítését, valamint az illetménynek a rezidens részére történő kifizetésében való közreműködést.
+
+(5)[^20] A háziorvostan szakképzésben részt vevők elsődleges képzőhelyeként az OKFŐ valamely egyetemet jelöli ki.
+
+(6)[^21]
+
+(7)[^22]
+
+(8)[^23]
+
+(9)[^24]
+
+(10)[^25]
+
+(11)[^26]
+
+#### 6. §
+
+(1) A szakvizsgára bocsátáshoz a jelöltnek teljesítenie kell az adott szakképzés miniszteri rendeletben előírt programját, ideértve a képzés során teljesítendő tanfolyamokat, valamint az adott szakképzés tekintetében meghatározott beavatkozásokat, műtéteket és vizsgálatokat.
+
+(2) A szakorvos képzés miniszteri rendeletben meghatározott képzési elemeinek teljesítése akkor fogadható el, ha
+
+a) a jelölt azt akkreditált képzőhelyen teljesítette és
+
+b) a képzési elem teljesítése során igénybe vett szabadság vagy betegszabadság időtartama
+
+ba) 1–4 hónap időtartamú képzési elemnél az adott képzési elem egyötöd részét,
+
+bb) 5–12 hónap időtartamú képzési elemnél az egy hónapot,
+
+bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves rendes szabadság mértékét
+
+nem haladja meg.
+
+(2a)[^27] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
+
+(3)[^28] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az OKFŐ az egyetem rendelkezésére bocsátja.
+
+(4) Ha a képzési elem teljesítése során igénybe vett szabadság vagy betegszabadság időtartama a (2) bekezdés b) pontja szerinti időtartamot meghaladja, az adott képzési elem a szabadság vagy betegszabadság időtartamának megfelelő azon szakterület szerinti gyakorlati idő igazolásával elismerhető el, amelynek elismerésére a szabadság vagy betegszabadság miatt nem került sor.
+
+(5)[^29]
+
+(6)[^30]
+
+(7)[^31]
+
+### 4. Külső képzőhelyen töltött gyakorlat
+
+#### 7. §
+
+(1)[^32] A jelölt a szakképzés képzési idejének egy részét a külső képzőhelyen vagy a munkáltatótól eltérő egészségügyi szolgáltatónál – az (1a) és (1b) bekezdésben foglaltak kivételével – akkor töltheti, ha az elsődleges képzőhely az adott szakgyakorlati elem teljesítésére nincs akkreditálva.
+
+(1a)[^33] A háziorvostan szakképzésben részt vevő rezidens azon gyakorlati elemeket, amelyekre az egyetem akkreditált, az egyetemtől eltérő képzőhelyen az egyetem engedélyével abban az esetben töltheti, ha lakóhelyére vagy tartózkodási helyére figyelemmel a szakképzés egyes elemeinek letöltése más akkreditált egészségügyi szolgáltatónál számára kedvezőbb.
+
+(1b)[^34] Az (1a) bekezdésben foglaltakon kívül más szakorvosi alap szakképzésben részt vevő rezidens azon gyakorlati elemeket, amelyekre az elsődleges képzőhely akkreditált, akkor töltheti az elsődleges képzőhelytől eltérő, a gyakorlati elemekre szintén akkreditált képzőhelyen, ha az egyetem, amellyel a rezidensnek a szakképzési megállapodása fennáll, a rezidens, az elsődleges képzőhely és az attól eltérő képzőhely együttes kezdeményezésére engedélyezi.
+
+(2) A külső képzőhelyen vagy a munkáltatótól eltérő egészségügyi szolgáltatónál történő munkavégzés időtartama az Eütev. 15/A. §-a szerinti időtartamot nem haladhatja meg.
+
+(3)[^35] A (2) bekezdés szerinti esetben a kirendelés időtartama alatt a munkáltató egészségügyi ügyelet ellátása érdekében havonta három alkalommal visszarendelheti a jelöltet. A visszarendelésről a munkáltató a kirendeléskor, de legkésőbb a visszarendelés időpontját 30 nappal megelőzően, az egészségügyi ügyelet időtartamát is magába foglalóan tájékoztatja a kirendelés helye szerinti egészségügyi szolgáltatót. Az ügyeleti tevékenységet követő pihenőnap a szakképzési idő teljesítésébe beleszámít.
+
+### 5. A szakképzés teljesítésének megszakítása
+
+#### 8. §
+
+(1) A szakképzés teljesítése
+
+a) a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló kormányrendeletben szabályozott, illetve más, állami vagy külföldi ösztöndíjjal támogatott tudományos munka,
+
+b) a szülési szabadság,
+
+c)[^36] a csecsemőgondozási díjra, a gyermekgondozást segítő ellátásra és a gyermekgondozási díjra való jogosultság,
+
+d) baleset, tartós betegség miatt 30 napot meghaladó keresőképtelenség,
+
+e) 10 éven aluli beteg gyermek, illetve tartósan gondozásra szoruló hozzátartozó otthoni ápolása, gondozása, vagy
+
+f) rendkívüli állapot és megelőző védelmi helyzet esetén a sorkatonai szolgálat és a polgári szolgálat teljesítése
+
+teljes időtartamára megszakítható.
+
+(2)[^37] A szakképzés ideje az (1) bekezdésben foglaltakon túl csak méltányolható, a jelölt egészségi állapotában vagy családi körülményeiben bekövetkező okból, előzetesen meghatározott időtartamra szakítható meg, ha valószínűsíthető, hogy az ok megszűnése esetén a jelölt a szakképzését teljesíti. A méltányolható ok elfogadásáról az egyetem dönt.
+
+(3)[^38]
+
+### 6. [^39] Az OKFŐ feladata a szakképzéssel összefüggésben
+
+#### 9. §
+
+(1)[^40] A szakorvos képzéssel összefüggésben az OKFŐ
+
+a) működteti az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 116/A. § (4) bekezdése szerinti nyilvántartást,
+
+b) ellátja a szakképzéshez kapcsolódó támogatások és juttatások biztosításával kapcsolatos adminisztratív feladatokat,
+
+c) ellátja a szakképzéshez kapcsolódó támogatások és juttatások költségvetési forrásának kezelését,
+
+d) ellenőrzi a szakképzés teljesítésének menetét,
+
+e) ellenőrzi a szakképzéssel összefüggő támogatások és juttatások felhasználását,
+
+f) gondoskodik a 18. § (2) bekezdése és a 19. § (1) bekezdése szerinti pályázatok lebonyolításáról,
+
+g) végzi az intézményi akkreditációt,
+
+h) vezeti a tutori névjegyzéket,
+
+i)[^41]
+
+(2)[^42] Az OKFŐ az (1) bekezdés d) és g) pontja szerinti feladatokat az egyetemekkel együttműködésben látja el.
+
+### 7. Az egyetem feladata a szakképzéssel összefüggésben
+
+#### 10. §
+
+A jelöltek képzését – szakképzési megállapodás alapján – az egyetem irányítja és felügyeli, ennek keretében
+
+a) az országos szakképzési grémiumok kivételével valamennyi szakképesítés tekintetében meghatározza a szakképzési grémiumokat és működteti azokat,
+
+b) meghatározza a jelölt képzési tervét – ennek keretében dönt a miniszteri rendelet alapján biztosítható mentességek, beszámítható képzési elemek tekintetében –, szükség esetén gondoskodik a képzési terv módosításáról,
+
+c)[^43] folyamatosan kapcsolatot tart az OKFŐ-vel és a képzőhelyekkel, valamint a munkáltatókkal, és ezen intézményekkel együttesen felelős a szakképzés elméleti és gyakorlati programjának végrehajtásáért, gondoskodik a külső képzőhelyen vagy a munkáltatótól eltérő helyen töltendő gyakorlat megszervezéséről,
+
+d) a szakképzés befejeztével igazolja a szakképzés jogszabálynak megfelelő teljesítését,
+
+e) a társegyetemekkel együttműködve lefolytatja a rendszerbevételi eljárást,
+
+f) a 9. § (1) bekezdés a) pontja szerinti nyilvántartásban folyamatosan igazolja a rezidensek szakképzésének teljesítését,
+
+g) az intézményi akkreditáció folyamatában előkészítési, véleményezési, javaslattételi feladatokat lát el,
+
+h) együttműködik a társegyetemekkel, valamint az Egészségügyi Szakmai Kollégiummal a képzési programok és képzési követelmények összehangolásában,
+
+i) közreműködik a képzőhelyek szakképzési tevékenységének felügyeletében és
+
+j)[^44] véleményezi az OKFŐ által vezetett tutori névjegyzéket.
+
+### 8. A szakképzés minőségbiztosítása
+
+#### 11. §[^45]
+
+(1)[^46] A szakorvos képzés minőségének, valamint a tutorok tevékenységének monitorozására alkalmas minőségbiztosítási rendszer kialakítását és működtetését az OKFŐ végzi.
+
+(2)[^47] Az OKFŐ a minőségbiztosítási rendszer alapján évente értékeli a szakképzést, és beszámolót készít annak színvonaláról. Az OKFŐ a beszámolót a tárgyévet megelőző évre vonatkozóan minden év május 31-éig készíti el és küldi meg az egészségügyért felelős miniszter (a továbbiakban: miniszter) részére.
+
+## II. Fejezet — A TÁMOGATOTT SZAKKÉPZÉS
+
+### 9. A szakképzésben nyújtható támogatás-típusok és juttatások
+
+#### 12. §
+
+(1) A támogatott szakképzésben a következő képzési támogatások és juttatások biztosítására kerül sor:
+
+a) dologi jellegű támogatások és juttatások:
+
+aa) a képzésszervezési dologi költségek fedezetét biztosító támogatás és
+
+ab) a képzés dologi költségeinek biztosítását segítő juttatás;
+
+b) bér jellegű támogatások és juttatások:
+
+ba) a szakképzési grémium díjazása és
+
+bb) a tutori díj.
+
+(2)[^48] Az (1) bekezdés szerinti támogatások fedezetéül az OKFŐ költségvetési előirányzata szolgál.
+
+(3) A támogatások és juttatások folyósítására a 3. § (5) bekezdésében meghatározott ideig kerül sor.
+
+(4)[^49] Az (1) bekezdés a) pont aa) alpontja szerinti támogatás folyósítása az egyetem és a 11. § (1) bekezdése szerint kiválasztott szervezet vagy intézmény részére történik a 14. § (1) bekezdésében foglaltak szerint. Az (1) bekezdés a) pont ab) alpontja szerinti juttatás folyósítása – az 5. § (1) bekezdés a) pontja szerinti jogviszony alapján – a rezidens, az (1) bekezdés b) pont ba) alpontja szerinti támogatás folyósítása az egyetem, valamint az országos szakképzési grémium esetében az OKFŐ, az (1) bekezdés b) pont bb) alpontja szerinti juttatás folyósítása a tutor részére történik.
+
+(5) Az (1) bekezdés b) pontja szerinti támogatás és juttatás kifizetésére a számított munkáltatói járulékot és szociális hozzájárulási adót is magába foglalva kerül sor. Az (1) bekezdés b) pont bb) alpontja szerinti juttatás biztosítása a tutor részére a képzőhelynek minősülő egészségügyi szolgáltató foglalkoztatójával fennálló foglalkoztatásra irányuló jogviszonya alapján történik.
+
+(6) A szakképzés 8. § (1) bekezdése szerinti megszakításának időtartama alatt az (1) bekezdés a) pont aa) alpontja és *b)* pont *bb)* alpontja szerinti támogatás és juttatás folyósítása szünetel.
+
+(7)[^50] Az (1) bekezdés szerinti támogatások és juttatások folyósításának feltétele, hogy a rezidens szakképzésének teljesítéséről az elsődleges képzőhely és az egyetem minden hónap 10. napjáig a megelőző hónap vonatkozásában teljesítse az OKFŐ részére az Eütv. 116/A. § (6) bekezdése szerinti tájékoztatási kötelezettségét.
+
+(8) Az egyetem (7) bekezdés szerinti tájékoztatása érdekében a rezidens szakmai gyakorlatát igazoló, az egyetem által az elsődleges képzőhely rendelkezésére bocsátott nyomtatványt a képzőhely minden hónap 5. napjáig elektronikus úton megküldi az egyetem részére.
+
+#### 13. §[^51]
+
+(1)[^52] A támogatott szakképzésben a tutort az OKFŐ által – az Eütv. 114. § (2) bekezdés g) pontja szerinti adattartalommal – vezetett tutori névjegyzékből a képzőhely a rezidens gyakorlatának megkezdését megelőzően jelöli ki, és erről az OKFŐ-t és a rezidenst tájékoztatja.
+
+(2)[^53] Egy tutor egyidejűleg legfeljebb három jelölt szakképzését felügyelheti. Ettől eltérően az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet 8. § (19) bekezdése szerinti sürgősségi betegellátó osztályon végzett gyakorlat esetén egy tutor egyidejűleg legfeljebb öt jelölt szakképzését felügyelheti.
+
+(3)[^54] A tutori díj összege rezidensenként havonta 50 000 forint a támogatott szakképzés teljes időtartama alatt, amely díjazást a képzőhely biztosítja az 5. § (4) bekezdése, valamint külső képzőhely esetén az OKFŐ és a külső képzőhely között kötött külön megállapodás alapján a tutor részére.
+
+(4)[^55] A képzőhely az adott szakképesítés vonatkozásában tutorként kijelölhető személyekről, illetve a tutoroknak az Eütv. 114. § (2) bekezdés g) pontjában meghatározott adataiban bekövetkezett változásokról folyamatosan tájékoztatja az OKFŐ-t.
+
+(5)[^56] Az egyetemek a tutori névjegyzék adattartalmát az OKFŐ felkérése alapján folyamatosan felülvizsgálják.
+
+(6)[^57] A támogatott szakképzés során teljesítendő gyakorlati idő eltöltését, beavatkozások, vizsgálatok elvégzését a tutor havonta, de legkésőbb az adott képzési elem teljesítését követő két héten belül igazolja az OKFŐ és a szakképzésért felelős egyetem irányába.
+
+(7)[^58] A tutor szakképzéssel összefüggő feladatait, valamint a tutori tevékenység szakmai követelményeit az OKFŐ az egyetemekkel, valamint az egészségügyi szolgáltatók és a rezidensek érdekképviseletét ellátó szakmai szervezetekkel együttesen állapítja meg, és az OKFŐ honlapján közzéteszi.
+
+(8)[^59] A tutori tevékenység értékelését – a 11. § (1) bekezdése szerint létrehozott minőségbiztosítási rendszer keretein belül – a rezidensek, a tutor foglalkoztatója, valamint az OKFŐ végzi.
+
+(9)[^60] Ha a (8) bekezdés szerinti minősítés alapján a tutor
+
+a) a (6) bekezdés szerinti igazolási kötelezettségét legalább két rezidens vonatkozásában a (6) bekezdés szerinti határidőt követő egy hónapon belül nem teljesíti,
+
+b) a (7) bekezdés szerinti feladatait nem látja el, és ezzel akadályozza vagy aránytalanul megnehezíti a jelölt részére a képzés során elvégzendő vizsgálatok, beavatkozások teljesítését, vagy
+
+c) a konzultációs lehetőséget a rezidens legalább háromszori írásbeli kérésére, legalább 30 napon belül nem biztosítja,
+
+az OKFŐ a tutort a mulasztására írásban figyelmezteti, és határidő megjelölésével felhívja a kötelezettségeinek teljesítésére a (10)–(12) bekezdésben foglaltak egyidejű megjelölésével.
+
+(10)[^61] Ha a tutor a figyelmeztetés ellenére az OKFŐ által megjelölt határidőt követően is a (9) bekezdés a)–c) pontja szerinti magatartás valamelyikét tanúsítja, az OKFŐ a tutort a névjegyzékből törli.
+
+(11)[^62] Ha a tutorral szemben az illetékes szakmai kamara etikai vétség elkövetését jogerősen megállapítja, az OKFŐ a tutort a tutori névjegyzékből törli. Az etikai vétség elkövetésének megállapításáról az illetékes szakmai kamara a határozat jogerőre emelkedését követő 5 napon belül tájékoztatja az OKFŐ-t.
+
+(12) A (10)–(11) bekezdés szerinti okból történő törlés esetén a tutor a törléstől számított két évig nem vehető fel újra a tutori névjegyzékbe. Nem vehető fel a tutori névjegyzékbe az, akit a tutori névjegyzékből a (10) vagy a (11) bekezdés szerinti okból három alkalommal töröltek.
+
+#### 14. §
+
+(1)[^63] A képzésszervezés dologi költségeinek fedezetére biztosított támogatás összege havonta rezidensenként 20 000 forint, melynek 97%-a az egyetemek, 3%-a az OKFŐ részére kerül folyósításra.
+
+(2)[^64] Az egyetem az (1) bekezdés szerinti támogatás terhére köteles biztosítani a rezidens részére a képzés során kötelező tanfolyamokat – ideértve a törzsképzési tanfolyamokat –, valamint a szakképzés szervezésével és adminisztrációjával kapcsolatosan keletkező, személyi és dologi jellegű költségeit.
+
+(3) Az egyetem a rezidenstől vagy elsődleges képzőhelyétől a képzés biztosítása érdekében képzési díjat vagy a képzéshez kapcsolódó tanfolyamért részvételi díjat nem kérhet.
+
+#### 15. §
+
+(1) A szakképzési grémium az illetékességi körébe tartozó szakképesítések tekintetében közreműködik a 10. § *b)–e)*, valamint *h)* és *i)* pontja szerinti feladatok ellátásában.
+
+(2)[^65]
+
+#### 16. §
+
+(1) A támogatott szakképzésben történő részvétel során a rezidens a szakképzéssel kapcsolatos kiadásainak, dologi költségeinek fedezése céljából, az adott évre vonatkozóan a költségvetési törvényben meghatározott mértékű juttatásra jogosult, amelyet legfeljebb az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben a szakképesítésére vonatkozóan meghatározott időtartamra vehet igénybe.
+
+(2) Az (1) bekezdés szerinti juttatás igénybevételének feltétele a szakképzés követelményeinek megfelelő, az egyetem által igazolt 12 hónap időtartamú képzési idő letöltése.
+
+#### 16/A. §[^66]
+
+(1) A rezidens illetménye nem lehet alacsonyabb az Eszjtv. 1. melléklet szerinti illetménynél.
+
+(2) A rezidens szakképzése ideje alatt történő foglalkoztatásához kapcsolódó támogatás az alábbiakat foglalja magában:
+
+a)[^67] a rezidens illetményének biztosításához kapcsolódó támogatás részeként az OKFŐ az elsődleges képzőhely részére támogatást biztosít a rezidens támogatott szakképzésének befejezéséig. A támogatási összeg mértéke havi bruttó 88 000 Ft, amely magában foglalja az azt terhelő szociális hozzájárulási adót is,
+
+b)[^68] azon rezidensek esetében, akik után az elsődleges képzőhely nem jogosult 256/2013. (VII. 5.) Korm. rendelet 9. melléklete szerinti támogatás igénybevételére, az OKFŐ a rezidens illetményének biztosításához kapcsolódó támogatás részeként az Eszjtv. szerint irányadó illetménynek megfelelő összeget biztosítja.
+
+(3) Az Eszjtv. hatálya alá nem tartozó rezidensek munkabére nem lehet alacsonyabb, mint az Eszjtv. 1. melléklete szerinti illetmény.
+
+### 10. A keretszámok és hiányszakmák
+
+#### 17. §
+
+(1)[^69] A miniszter meghatározza és az OKFŐ a honlapján minden év október 31-éig közzéteszi a tárgyévet követő év január 1-jétől december 31-éig betölthető, (2) bekezdés szerinti keretszámokat.
+
+(2) A támogatott szakképzés keretében a következő keretszámok meghatározására kerül sor:
+
+a) a szakképzési és szakmai jellemzők alapján kiemelt szakorvosi szakmák országos keretszáma,
+
+b)[^70] az a) pontba nem tartozó szakorvosi szakképesítések keretszámai fővárosi és vármegyénkénti bontásban,
+
+c) a kórházi-klinikai szakgyógyszerészi szakképzés országos keretszáma,
+
+d) a háziorvostan szakképzés keretszáma egyetemenként,
+
+e)[^71] a házi gyermekorvosi ellátás biztosítása érdekében betölthető országos keretszám,
+
+f)[^72] az egyetemi oktatói utánpótlást szolgáló, az egyetemek által betölthető szakfogorvosi, – a kórházi-klinikai szakgyógyszerész kivételével – szakgyógyszerészi, szakpszichológusi és egyéb egészségügyi felsőfokú szakirányú szakképzési keretszámok,
+
+g)[^73] nem egyetemi utánpótlást szolgáló szakfogorvosi szakképzés országos keretszáma.
+
+(3) A keretszámok meghatározására
+
+a) a humánerőforrás-monitoringrendszer adatainak,
+
+b)[^74] a vármegyei és a fővárosi lakosságszámnak, valamint az arra jutó orvosok számának,
+
+c) az egészségügyi ellátórendszer struktúrájának,
+
+d) az intézményi orvos ellátottságnak,
+
+e) az egészségügyi dolgozók demográfiai adatainak, valamint az azokból levonható következtetéseknek és
+
+f) egyes állami kötelezettségvállalásból fakadó feladatok teljesítésének
+
+a figyelembevételével kerül sor.
+
+(4)[^75] A szakorvosi képzés tekintetében az (1) bekezdés szerinti közzététellel egyidejűleg, az ott meghatározott időtartamra vonatkozóan a miniszter a (2) bekezdés b) pontja szerinti keretszámok vonatkozásában meghatározza és az OKFŐ a honlapján közzéteszi fővárosi, vármegyénkénti, illetve intézményi bontásban a hiányszakmák körét. A miniszter a (2) bekezdés a) pontja, valamint d) és e) pontja szerinti keretszámok tekintetében is meghatározza, hogy az ott megjelölt szakmák mely vármegyében minősülnek hiányszakmának.
+
+(5)[^76] Az adott évben meghirdetett és be nem töltött keretszámok miniszteri döntés alapján átcsoportosíthatók.
+
+(6)[^77] A miniszter az (1) bekezdés szerint közzétett (2) bekezdés szerinti keretszámot adott évben az államháztartásért felelős miniszterrel egyetértésben – ha a keretszám betöltésére irányuló jelentkezések számára figyelemmel szükséges – megemelheti.
+
+(7)[^78] A (6) bekezdés szerint megállapított megemelt keretszámot az OKFŐ a honlapján közzéteszi.
+
+### 11. A pályázati rendszer
+
+#### 18. §
+
+(1)[^79] A 17. § (2) bekezdés a)–c), e) és g) pontja szerinti keretszámok betöltésére az OKFŐ főigazgatója évente két alkalommal az egészségügyi szolgáltatók részére pályázatot hirdet.
+
+(2)[^80] A tárgyévet követő évre vonatkozó, a 17. § (2) bekezdés b) pontja szerinti keretszámok 85%-ára, valamint a 17. § (2) bekezdés a), c), e) és g) pontja szerinti keretszámokra az OKFŐ főigazgatója minden év november 15-éig teszi közzé a pályázati felhívását.
+
+(3) A pályázati felhívás tartalmazza
+
+a) a jelentkezés feltételeit,
+
+b) a pályázat benyújtásának határidejét,
+
+c) az értékelési szempontokat és
+
+d) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az értékelést végzik.
+
+(3a)[^81] A pályázat benyújtására kizárólag az egészségügyi szolgáltatás nyújtására érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató – ideértve a Honvédelmi Minisztérium, illetve a Belügyminisztérium fejezet költségvetéséből finanszírozott egészségügyi ellátást nyújtó munkáltatót is –, valamint az igazságügyi orvostan, a megelőző orvostan és népegészségtan, valamint a foglalkozás-orvostan szakképzést biztosító képzőhely jogosult.
+
+(4)[^82] A pályázó egészségügyi szolgáltató a pályázati felhívásban meghatározott módon megjelöli, hogy hány rezidens tekintetében vállalja elsődleges képzőhelyként a képzés lebonyolítását.
+
+(5)[^83] A pályázat elbírálása során az OKFŐ főigazgatója meghatározza az egyes pályázó egészségügyi szolgáltatók által betölthető keretszámokat.
+
+(6)[^84] A 17. § (2) bekezdése szerinti keretszám betöltése vonatkozásában a részmunkaidőben foglalkoztatott rezidenst munkaideje arányában kell figyelembe venni, részére és vonatkozásában az e rendeletben meghatározott támogatásokat is arányosan kell folyósítani. A részmunkaidőben foglalkoztatott rezidens munkaidejének növelése is az e rendelet szerinti keretszám terhére történhet. Amennyiben a meghatározott keretszám nem ad lehetőséget a rezidensi munkaidő további emelésére, a munkaidő növelésére az egészségügyi szolgáltató részére biztosított, e rendelet szerinti finanszírozási összeg változatlanul hagyása mellett van lehetőség. A munkaidő módosítása hiányában a szakképzés a továbbiakban is részmunkaidőben teljesíthető. A rezidens munkaidejének csökkentése esetén a felszabaduló keretszámot az egészségügyi szolgáltató e rendelet előírása szerint betöltheti. E változásokról az egészségügyi szolgáltató tájékoztatja az OKFŐ-t.
+
+(7)[^85] A 17. § (2) bekezdés b), c), e) és g) pontja szerinti keretszámok terhére az egészségügyi szolgáltató minden év szeptember 15-éig jelentheti be az OKFŐ részére, hogy azt mely rezidenssel kívánja betölteni, egyidejűleg elektronikus úton megküldi az OKFŐ részére
+
+a)[^86]
+
+b) a rezidens szakképzésével összefüggésben az általa foglalkoztatott tutoroknak az Eütv. 114. § (2) bekezdés g) pontja szerinti adatait, valamint
+
+c) a 17. § (2) bekezdés g) pontja szerinti keretszám betöltése esetén a rezidens (10) bekezdés szerinti nyilatkozatát.
+
+(8) A 17. § (2) bekezdés a) és d) pontja szerinti keretszámok betöltése a szakorvos képzésbe történő belépés szabályait meghatározó miniszteri rendelet szerinti rendszerbevételi eljárás keretében történik.
+
+(9)[^87] A 17. § (2) bekezdés e) és f) pontja szerinti keretszámok betöltése minden év december 31-éig folyamatos, a keretszámok betöltésének szándékáról az egyetem a (7) bekezdés a) és b) pontja szerinti adatok megküldésével egyidejűleg tájékoztatja az OKFŐ-t.
+
+(10)[^88] A 17. § (2) bekezdés g) pontja szerinti keretszám terhére csak olyan rezidens vehető fel, aki nyilatkozatban vállalja, hogy a szakvizsga megszerzése után legalább három évig teljes munkaidőben vagy legalább hat évig – legalább heti 18 óra időtartamú – részmunkaidős foglalkoztatás keretében végez közfinanszírozott fogorvosi alapellátási vagy szakellátási tevékenységet.
+
+(11)[^89] A 17. § (2) bekezdés e) pontja szerinti keretszám terhére csak olyan rezidens vehető fel, aki nyilatkozatban vállalja, hogy a szakvizsga megszerzése után közvetlenül legalább öt évig teljes munkaidőben vagy legalább 10 évig – legalább heti 18 óra időtartamú – részmunkaidős foglalkoztatás keretében végez közfinanszírozott házi gyermekorvosi alapellátási tevékenységet.
+
+#### 19. §
+
+(1)[^90] A keretszám közzétételét követő év szeptember 15-éig pályázati úton elnyert, de be nem töltött keretszámokra, valamint a 18. § (2) bekezdése alapján meg nem hirdetett keretszámokra az OKFŐ főigazgatója minden év szeptember 30-áig pályázatot hirdet oly módon, hogy a 17. § (2) bekezdés b) pontja szerinti keretszámokra a vármegyei és fővárosi megoszlás figyelembe vétele nélkül valamennyi egészségügyi szolgáltató pályázhat.
+
+(2)[^91] Az (1) bekezdés szerinti pályázat során odaítélt keretszámok betöltésének szándékáról az egészségügyi szolgáltató a 18. § (7) bekezdés a) és b) pontja szerinti adatok megküldésével legkésőbb az adott év december 31-éig tájékoztatja az OKFŐ-t.
+
+(3)[^92]
+
+(4)[^93] Ha a szakképzést megkezdett jelölt a szakképzését még abban az évben megszünteti, amely évnek a keretszáma terhére a szakképzését megkezdte, az elsődleges képzőhelyként kijelölt egészségügyi szolgáltató esetében a keretszám az adott évben ismételten betölthetővé válik.
+
+### 12. Elsődleges képzőhely megváltoztatása és szakváltás a képzés ideje alatt
+
+#### 20. §
+
+(1)[^94] A támogatott képzés keretében oly módon van lehetőség az elsődleges képzőhely megváltoztatására, hogy az elsődleges képzőhelyként kijelölt egészségügyi szolgáltató a képzőhelyváltással érintett, a 18. § (1) bekezdése vagy a 19. § (1) bekezdése szerinti odaítélt, vagy a miniszter által meghatározott, a rezidens képzőhelyváltása miatt megüresedett keretszámot e rendelet előírása szerint betöltheti. Az az egészségügyi szolgáltató, amely a rezidens elsődleges képzőhelyeként a váltás következtében kijelölésre kerül, a 18. § (1) bekezdése vagy a 19. § (1) bekezdése alapján odaítélt, vagy a miniszter által adott évre meghatározott keretszáma terhére kezdeményezheti az OKFŐ-nél a rezidens tekintetében elsődleges képzőhelyként történő kijelölését.
+
+(2)[^95] A rezidens a támogatott képzés során az OKFŐ főigazgatójának jóváhagyása esetén szakot válthat. Szakváltás esetén támogatott szakképzésben a rezidens az általa elsőként választott – vagy ha a másodikként választott szakképesítésnek az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben meghatározott ideje hosszabb, a másodikként választott – szakképesítés miniszteri rendeletben meghatározott képzési idejéig vehet részt.
+
+(3)[^96] A rezidens a támogatott képzés keretében a képzés ideje alatt – egészségügyi ok kivételével – legfeljebb két alkalommal válthat szakot. Nem válthat szakot a rezidens a támogatott szakképzés keretein belül, amennyiben a képzéséből kevesebb mint 6 hónap van hátra.
+
+(4)[^97] Az (1) bekezdésben foglaltaktól eltérően, amennyiben a rezidens valamely, a 17. § (2) bekezdés a) pontja szerinti kiemelt szakmában kezdte meg a képzését és kizárólag egészségügyi szolgáltatót kíván váltani, az illetékes szakképzési grémium vezetőjének jóváhagyásával – külön kiemelt keretszám felhasználása nélkül – teheti meg.
+
+### 13. A támogatások, juttatások ellenőrzése, visszafizetése
+
+#### 21. §
+
+(1)[^98] Az OKFŐ a 12. § (1) bekezdése szerinti támogatások és juttatások felhasználását ellenőrzi. Az OKFŐ az ellenőrzés keretében kiegészítő adatokat kérhet a képzőhelytől, az egyetemtől és a rezidenstől.
+
+(2)[^99] Ha az OKFŐ az ellenőrzése során megállapítja, hogy az elsődleges képzőhely jogosulatlanul vett igénybe vagy használt fel foglalkoztatáshoz kapcsolódó támogatást vagy juttatást, az a következő esedékes juttatás összegéből levonásra kerül.
+
+(3) A támogatások és juttatások elszámolásának utólagos – indokolt esetben helyszíni szemle útján történő – ellenőrzése céljából a képzőhely köteles részletes – jogosult személyenkénti bontású – nyilvántartást vezetni a tutorok munkaköri és a szakképzéssel összefüggő béradatairól.
+
+(4)[^100] Ha az (1) bekezdés szerinti ellenőrzés során az OKFŐ azt állapítja meg, hogy az egyetem jogosulatlanul vett igénybe vagy használt fel képzéshez kapcsolódó támogatást – ideértve az (5) bekezdés szerinti esetet is –, az OKFŐ a jogosulatlanul igénybe vett vagy felhasznált támogatást az általa biztosított következő esedékes támogatási összegből levonja.
+
+(5)[^101] Az egyetem a részére az adott rezidens után folyósított, a 12. § (1) bekezdés a) pont aa) alpontja és *b)* pont *ba)* alpontja szerinti támogatások megtérítésére köteles, ha olyan magatartást tanúsít, amely a rezidens szakképzését vagy szakképzése lezárásaként a szakvizsgára bocsáthatóságát ellehetetleníti, azt késlelteti vagy más módon korlátozza.
+
+#### 21/A. §[^102]
+
+(1) A rezidens köteles a támogatott szakképzése megkezdésének időpontjától számítva az általa elsőként választott szak, vagy ha a képzés során szakot vált, és a másodikként választott szakképzési ideje hosszabb, a másodikként választott szak vonatkozásában az egyes szakképesítések képzési követelményeit meghatározó rendeletben meghatározott képzési idő leteltét követő három éven belül szakvizsgát szerezni.
+
+(2) A szakvizsga megszerzésére nyitva álló határidő meghosszabbodik azon időtartammal, amellyel a rezidens a szakképzését a 8. § alapján megszakította.
+
+#### 22. §[^103]
+
+(1)[^104] Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
+
+a)[^105] az OKFŐ-től külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az OKFŐ részére nem jelezte,
+
+b) a szakképzéshez kapcsolódó, foglalkoztatásra irányuló jogviszonyát megszünteti,
+
+c) az egyetemmel megkötött szakképzési megállapodását felmondja, és egyidejűleg más egyetemmel szakképzési megállapodást nem létesít, vagy
+
+d)[^106] teljesítéséről a képzőhely és az egyetem egyike sem ad tájékoztatást a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen egybefüggően legalább hat hónap időtartam tekintetében, és a rezidens a szakképzés szüneteltetését nem jelezte az OKFŐ részére,
+
+az *a)–d)* pontban foglaltakról történő tudomásszerzést követően az OKFŐ haladéktalanul felszólítja a rezidenst, hogy 30 napon belül nyilatkozzon arról, hogy a támogatott szakképzést a 21/A. §-ban foglalt határidőn belül be kívánja-e fejezni.
+
+(2)[^107] Ha a rezidens az (1) bekezdés szerinti 30 napon belül nem nyilatkozik, az OKFŐ 15 napos határidő tűzésével ismételten nyilatkozattételre szólítja fel. Ha az újabb határidő is eredménytelenül telik el, a rezidens a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és *b)* pont *bb)* alpontja alapján folyósított támogatások és juttatások nettó értékének megfelelő összeg visszafizetésére köteles, figyelemmel az (5) bekezdésben foglaltakra.
+
+(3) Ha a rezidens
+
+a) olyan nyilatkozatot tesz, hogy a szakképzését nem kívánja a megadott határidőn belül teljesíteni, vagy
+
+b) nyilatkozott, hogy szakvizsgát kíván tenni, azonban a 21/A. § alapján meghatározott határidőig azt nem teljesíti, és nem áll fenn a (6) és (7) bekezdésben meghatározott ok,
+
+a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és *b)* pont *bb)* alpontja alapján folyósított támogatások és juttatások nettó értékének megfelelő összeg visszafizetésére köteles, figyelemmel a (4) és (5) bekezdésben foglaltakra.
+
+(4) Ha a rezidens a (3) bekezdés a) pontja szerinti nyilatkozatot tesz, a (3) bekezdés szerinti összeg kamatmentes visszafizetésére köteles.
+
+(5)[^108] A (2) bekezdés és a (3) bekezdés b) pontja szerinti esetekben a (2), illetve a (3) bekezdés szerinti összeg kamatokkal terhelt mértékben adók módjára behajthatóvá válik. A kamatszámítás kezdő napja azon hónapot követő hónap első napja, amely tekintetében az OKFŐ a rezidens támogatott képzése teljesítéséről utoljára információval rendelkezik.
+
+(6)[^109] Mentesül a visszatérítési kötelezettség alól a rezidens, ha egészségügyi okból válik alkalmatlanná a szakképzés befejezésére. A mentesítésről az OKFŐ főigazgatója független szakorvosi vélemény alapján dönt.
+
+(6a)[^110] A (6) bekezdésben foglaltakon túl mentesül a rezidens a visszafizetési kötelezettsége alól, amennyiben a 18 éven aluli súlyosan beteg gyermeke tartós ápolása, gondozása okán válik lehetetlenné a szakképzés befejezése vagy az ösztöndíj szerződésben vállalt kötelezettségeinek teljesítése. A mentesítésről az OKFŐ főigazgatója a rezidens kérelmében foglaltak és az ahhoz csatolt dokumentumok alapján dönt.
+
+(7)[^111] Ideiglenesen mentesül a visszafizetési kötelezettség alól az a rezidens, aki a szakvizsga megszerzését a 21/A. § alapján meghatározott határidőig vállalta, azonban valamely méltányolható ok miatt nem tudja teljesíteni, de a határidő lejártakor igazoltan képzésben vesz részt. Az ideiglenes mentesítésről az OKFŐ főigazgatója dönt a méltányolható ok figyelembevételével. A mentesítés feltétele, hogy a rezidens képzését irányító intézmény nyilatkozzon a szakképzés befejezésének várható időpontjáról, és ezen időpontig a rezidens vállalja a szakvizsga letételét.
+
+(8) Ha a rezidens a (7) bekezdésben meghatározott határidőig nem szerez szakvizsgát, a (2)–(5) bekezdés szerint köteles a támogatás visszatérítésére.
+
+#### 22/A. §[^112]
+
+Ha a 17. § (2) bekezdés e) és g) pontja szerinti keretszámra felvett rezidens a 18. § (10), illetve (11) bekezdése szerinti vállalását nem teljesíti, a 22. § szerinti juttatás visszatérítésére köteles.
+
+## III. Fejezet — KÖLTSÉGTÉRÍTÉSES SZAKKÉPZÉS
+
+### 14. A költségtérítéses képzés általános szabályai
+
+### 15. [^114] A Magyar Honvédség hivatásos vagy szerződéses állományában, valamint a rendvédelmi szervek állományában szakképzést teljesítők
+
+### 16. A költségtérítéses szakképzés szakképzési díja
+
+#### 25. §
+
+(1)[^116] Az egyetem a szakvizsgával már rendelkező és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb az Eszjtv. 1. melléklete szerinti 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembevételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag szedhető be.
+
+(2) Az (1) bekezdés szerinti szakképzési díj
+
+a) a szakképzéssel kapcsolatos adminisztratív költségeket és
+
+b) az egyetem által a jelölt képzési programja végrehajtásával összefüggésben nyújtott szolgáltatások költségét
+
+foglalja magába.
+
+(3) A (2) bekezdés a) pontja szerinti adminisztratív költségek összege nem haladhatja meg havonta az (1) bekezdés szerinti összeg 10%-át.
+
+(4) A (2) bekezdés b) pontja szerinti összeg az adott hónapban a szakképzés teljesítéséhez az egyetem által ténylegesen nyújtott szolgáltatással arányosan határozható meg.
+
+(5) Az e fejezetben nem szabályozott esetekben a költségtérítéses képzésben részt vevő jelöltek képzési díját az egyetem állapítja meg és a honlapján közzéteszi.
+
+(6)[^117] A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 11. § (5) bekezdése szerinti egyéni képzési terv alapján folytatott háziorvostan szakképzés időszakára, a képzést koordináló egyetem az (1) bekezdésben meghatározott képzési díjra jogosult. A képzési díj megfizetését az OKFŐ a helyettesítő háziorvosi ellátás biztosítására a Nemzeti Egészségbiztosítási Alapkezelőtől kapott finanszírozás terhére köteles biztosítani.
+
+## IV. Fejezet — A REZIDENS TÁMOGATÁSI PROGRAM ÖSZTÖNDÍJAI
+
+### 17. A Rezidens Támogatási Program célja, időtartama
+
+#### 26. §
+
+(1)[^118] A Kormány a Rezidens Támogatási Program (a továbbiakban: RTP) keretében a támogatott szakképzésben részt vevő rezidensek, valamint a szakgyógyszerész és szakfogorvos-jelöltek (a továbbiakban együtt: ösztöndíjas rezidens) pályakezdésének elősegítése és szakmai megbecsültségének erősítése, valamint a jelöltek szakképzést követő hazai munkavállalásának elősegítése érdekében
+
+a)[^119] a közfinanszírozott, a Honvédelmi Minisztérium fejezet költségvetéséből finanszírozott vagy rendvédelmi szerv által működtetett egészségügyi ellátásban történő elhelyezkedését támogató általános ösztöndíjat,
+
+b) egyes, a miniszter által meghatározott speciális szakterületeken a szakképzést megkezdők részére kiemelt ösztöndíjat és
+
+c) az egészségügyi ellátás szempontjából hiányszakmának minősülő területen elhelyezkedő rezidensek részére hiányszakmás ösztöndíjat
+
+[az *a)–c)* pont szerinti ösztöndíj a továbbiakban együtt: ösztöndíj] alapít.
+
+(2)[^120] Az ösztöndíj időtartama az adott ösztöndíjas rezidensnek az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben meghatározott szakképzési idejéből az ösztöndíj odaítélésekor hátralévő időtartam.
+
+(2a)[^121] A (2) bekezdésben foglaltaktól eltérően az ösztöndíj időtartama – függetlenül a (2) bekezdésben meghatározott képzési időtől – a szakképzés befejezéséig tart azon ösztöndíjas rezidensek esetében, akik szülési szabadság, csecsemőgondozási díj, gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevételét követően részmunkaidős foglalkoztatás mellett folytatják szakképzésüket.
+
+(3)[^122] A 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen a képzőhely és az egyetem havonta köteles igazolni a jelölt teljesítését.
+
+(4)[^123] A hiányszakmás ösztöndíjra az a rezidens nyújthat be pályázatot, aki a szakképzését az ösztöndíj meghirdetésének évében a 17. § (4) bekezdése szerinti hiányszakmában kezdte meg, vagy hiányszakmára szakot váltott.
+
+(5)[^124] Az ösztöndíjak folyósításának a feltétele, hogy az ösztöndíjas rezidens az adott hónap vonatkozásában a képzési tervében foglaltaknak megfelelően teljesítette a szakképzését, melyről
+
+a) a rezidens az egyedi azonosítását követően elektronikus úton nyilatkozik, vagy
+
+b) az egyetem az a) pont szerinti igazolást megelőzően a 9. § (1) bekezdése szerinti nyilvántartáshoz kapcsolódó elektronikus felületen igazolja az ösztöndíjas rezidens képzési elemeinek teljesítését.
+
+(6)[^125] Az (5) bekezdés szerinti nyilatkozattétel jogszerűségét az OKFŐ a (3) bekezdés szerinti képzőhelyi és egyetemi adatszolgáltatás alapján folyamatosan ellenőrzi.
+
+(7)[^126] Az (1) bekezdés b) pontja szerinti ösztöndíj a miniszter döntése alapján második vagy további szakképesítés megszerzésének ösztönzésére meghatározott szakorvosi szakterületen szakorvosok számára is kiírásra kerülhet.
+
+(8)[^127] A (2) bekezdéstől eltérően a (7) bekezdés szerinti ösztöndíj esetében a pályázati felhívásban meghatározható a szakképesítés megszerzésének, valamint ezzel összefüggésben az ösztöndíj folyósításának legkésőbbi időpontja.
+
+(9)[^128] A (7) bekezdés szerinti ösztöndíjra az e rendeletben foglaltakat a (2a) bekezdés, a 28. § (3) bekezdés b) pontja, a 28. § (3a) bekezdés a) és c) pontja, a 28. § (5) bekezdés b) pontja, valamint a 29. § kivételével kell alkalmazni.
+
+### 18. Az RTP működtetése
+
+#### 27. §[^129]
+
+Az OKFŐ az RTP-vel kapcsolatos teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében különösen
+
+a) kidolgozza és a miniszter jóváhagyását követően közzéteszi az ösztöndíj pályázati felhívását,
+
+b) meghatározza a pályázat értékelési szempontjait és lefolytatja a pályázati eljárást,
+
+c)[^130] ellátja az ösztöndíjas rezidensek szerződésének megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+
+d) ellátja az RTP-vel kapcsolatos pénzügyi-ügyviteli feladatokat,
+
+e) kapcsolatot tart az egyetemekkel, valamint az ösztöndíjas elsődleges képzőhelyeként kijelölt egészségügyi szolgáltatóval és
+
+f) évente beszámolót készít a miniszter számára az RTP végrehajtásáról.
+
+### 19. Jelentkezés és kiválasztás az RTP-be
+
+#### 28. §
+
+(1)[^131] Az OKFŐ az RTP-be való jelentkezésre kiírt pályázatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a honlapján teszi közzé.
+
+(2)[^132] A pályázati felhívás tartalmazza
+
+a) a jelentkezés feltételeit,
+
+b) a sikeres pályázó részére meghatározott, a szakképzéséhez kapcsolódó teljesítési és vállalási kötelezettségeket,
+
+c) a pályázat benyújtásának határidejét,
+
+d) az értékelési szempontokat és
+
+e) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az értékelést végzik.
+
+(3) Pályázat benyújtására az jogosult, aki
+
+a) a pályázat benyújtásának időpontjában hazai felsőoktatási intézmény által kiadott vagy honosított, vagy a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismert általános orvosi, illetve gyógyszerészi oklevéllel rendelkezik,
+
+b) az első szakképzését még nem kezdte meg vagy az elsőként megszerzendő szakképesítésének képzéséből még legalább 1 év van hátra,
+
+c)[^133] a 26. § (7) bekezdése szerinti ösztöndíj esetében a második, vagy további szakképzését még nem kezdte meg,
+
+d)[^134]
+
+e)[^135] vállalja, hogy az ösztöndíj pályázatban meghatározott teljesítési és vállalási kötelezettségeit teljesíti.
+
+(3a)[^136] A (3) bekezdésben foglaltaktól eltérően a vállalási időszak teljesítése során a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó egyetemen végzett egészségügyi oktatói tevékenység valamennyi rezidens támogatási program keretében meghirdetett ösztöndíj vonatkoztatásban elfogadható.
+
+(3b)[^137]
+
+(4)[^138] Részmunkaidős foglalkoztatás esetén a (3) bekezdés d) pontjában meghatározott vállalási időszak annyival hosszabbodik meg, hogy megfeleljen a teljes munkaidejű foglalkoztatás időtartamának.
+
+(5)[^139]
+
+(6)[^140] A pályázatnak a (2) bekezdés alapján meghatározott szempontok szerinti értékelését követően az ösztöndíjas rezidens RTP-be történő felvételéről az OKFŐ főigazgatója dönt.
+
+(6a)[^141] Az OKFŐ az RTP-be a (6) bekezdés alapján felvett ösztöndíjas rezidenssel szerződést köt, amely szerződés tartalmazza a 26. § (5) bekezdése szerinti nyilatkozattétel és az ösztöndíj kifizetésének feltételeit, továbbá a szakképzés és a vállalási időszak teljesítésére, szüneteltetésére, valamint szakváltásra vonatkozó részletes szabályokat.
+
+(7)[^142] Ha az ösztöndíjas rezidens a (3) bekezdés d) és e) pontja szerinti vállalását nem teljesíti, vagy ha a 22. §-ban meghatározott feltételek megállapítására kerül sor, továbbá ha a 26. § (6) bekezdése szerinti ellenőrzése alapján az OKFŐ megállapítja, hogy az ösztöndíjas rezidens nyilatkozata alapján jogosulatlanul került sor az ösztöndíj kifizetésére, az államháztartásról szóló törvény rendelkezéseire figyelemmel az ösztöndíjas rezidens, a részére folyósított ösztöndíj vagy annak jogosulatlanul igénybe vett részének visszafizetésére köteles.
+
+(8)[^143] Mentesül az ösztöndíjas rezidens a visszafizetési kötelezettség alól, amennyiben a 22. § (6) bekezdése alapján megállapításra kerül, hogy egészségügyi okból vált alkalmatlanná a szakképzés befejezésére vagy a vállalási időszak teljesítésére.
+
+### 20.[^144]
+
+## V. Fejezet — FIATAL SZAKORVOSOK TÁMOGATÁSI PROGRAMJA
+
+### 21. A Fiatal Szakorvosok Támogatási Programjának célja, tartalma és időtartama
+
+#### 31. §
+
+(1)[^146]
+
+(2)[^147]
+
+(2a)[^148]
+
+(3)[^149]
+
+(4)[^150]
+
+(5)[^151]
+
+(6)[^152]
+
+(7)[^153]
+
+(8)[^154] A miniszter és a NEAK a szolgáltatótól kapott adatokat az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 22. Hatályba léptető rendelkezések
+
+#### 32. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 48. § az e rendelet kihirdetését követő második napon lép hatályba.
+
+(3) A 26–29. § és a 33. § (5) bekezdése 2016. január 1-jén lép hatályba.
+
+### 23. Átmeneti rendelkezések
+
+#### 33. §
+
+(1)[^155] E rendelet rendelkezéseit – az (1a) és a (7) bekezdésben fogalt kivétellel – a szakképzésüket 2015. június 30-át követően megkezdőkre kell alkalmazni. A szakképzésüket 2015. július 1-jét megelőzően megkezdőkre az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet (a továbbiakban: Kr.1.) rendelkezéseit kell alkalmazni.
+
+(1a)[^156] A szakorvos képzést
+
+a) az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: Kr.2.) alapján megkezdő és a szakképzést 2015. július 1-jét követő időpontig szüneteltető személyek, valamint
+
+b) a Kr.1. alapján megkezdő és háziorvostan képzésre szakot váltó személyek,
+
+c)[^157] korábban már megkezdő, azonban azzal felhagyó jelöltek különösen méltányolható ok esetében az OKFŐ főigazgatójának döntése alapján
+
+a szakképzésüket e rendelet szabályai szerint fejezhetik be. A szakképzésbe történő visszakapcsolódásra a szakképzésbe történő belépés e rendelet szerinti szabályai szerint kerülhet sor.
+
+(2)[^158]
+
+(3)[^159]
+
+(4)[^160]
+
+(5)[^161]
+
+(6)[^162] A 7. § (1a) és (1b) bekezdésben foglaltak a szakképzésüket a Kr.1 alapján megkezdőkre is alkalmazhatók.
+
+(7)[^163] A szakképzést a Kr.1. alapján megkezdő, azonban 2015. június 30-át követően szakot vagy egészségügyi szolgáltatót váltó személyek képzésére, szakváltására és egészségügyi szolgáltató váltására az (1a) bekezdés b) pontjában foglalt kivétellel a Kr.1. rendelkezéseit kell alkalmazni.
+
+(8)[^164]
+
+#### 33/A. §[^165]
+
+(1) A 30. § (1) bekezdése szerinti Fiatal Szakorvosok Támogatási Programjában az az Eütev. szerinti ágazati előmeneteli szabályok hatálya alá nem tartozó fiatal szakorvos is részesülhet, akire vonatkozóan foglalkoztatója a támogatás iránti igényét a 30. § (2a) bekezdésében meghatározott időpontig benyújtja, ugyanakkor az első szakorvosi szakvizsgáját a benyújtási határidőt követően a tárgyévben szerzi meg, és az annak megszerzését igazoló dokumentumot 2017. december 31-ig benyújtja. A támogatás folyósítására e feltételek teljesítését követően kerülhet sor.
+
+(2) Az (1) bekezdésben foglalt feltételeket teljesítő fiatal szakorvos támogatási jogosultságának kezdő időpontja a szakvizsga megszerzését igazoló dokumentum benyújtási ideje. A NEAK a munkáltató részére a támogatási összeget 2018. január hónapban utalványozza.
+
+#### 34. §[^166]
+
+Azon rezidens esetében, akinek 2020. december 31-én hatályos kinevezésében olyan elsődleges képzőhely van kijelölve, amely 2021. január 1-jétől nem tartozik az Eszjtv. hatálya alá, az OKFŐ a rezidens illetményének biztosításához kapcsolódó támogatás részeként – amennyiben a képzőhely az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 9. melléklete szerinti bértámogatásra nem jogosult – az Eszjtv. szerint irányadó illetménynek megfelelő összeget biztosítja az Eszjtv. hatálya alá nem tartozó elsődleges képzőhely részére a rezidens támogatott szakképzésének befejezéséig.
+
+#### 35. §
+
+(1)–(2)[^167]
+
+(3)[^168] Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosításáról szóló 90/2016. (IV. 29.) Korm. rendelettel (a továbbiakban: Mód.r.) megállapított 26. § (5) és (6) bekezdésében, valamint 28. § (7) bekezdésében foglaltakat a Rezidens Támogatási Program keretében a Mód.r. hatálybalépésekor[^169] ösztöndíjban részesülő szakorvos és szakgyógyszerész-jelöltekre is alkalmazni kell.
+
+(4)[^170] A rezidens és a szakgyógyszerész-jelölt a Mód.r.-rel megállapított 26. § (5) bekezdése szerinti nyilatkozatát első ízben valamennyi olyan jogosultsági hónap tekintetében megteheti, amelyben az ösztöndíjra való jogosultság időtartama alatt a szakképzését teljesítette, de az ösztöndíj folyósítása részére nem történt meg.
+
+#### 35/A. §[^171]
+
+Ahol e rendelet gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
+
+#### 35/B. §[^172]
+
+A szakképzést a Kr.1. alapján megkezdő személyek esetében a Kr.1. szerinti hiányszakmás támogatásokra való jogosultságot a szakképzés megkezdésének évében kihirdetett hiányszakmák határozzák meg a képzés teljes időtartamára. Szakváltás esetén a hiányszakmás támogatásra való jogosultság felülvizsgálatra kerül a szakváltás évében kihirdetett hiányszakmák figyelembevételével.
+
+#### 35/C. §[^173]
+
+(1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 172/2016. (VII. 1.) Korm. rendelettel megállapított 22. §-ban foglaltakat az egészségügyi felsőfokú szakirányú szakképzésüket 2016. június 30-át követően megkezdőkre kell alkalmazni.
+
+(2) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 172/2016. (VII. 1.) Korm. rendelettel megállapított 22. §-ban foglalt juttatás visszafizetési kötelezettségtől eltérően a szakképzésüket 2015. július 1-je és 2016. június 30-a között megkezdők a 12. § (1) bekezdés a) pont ab) alpontja szerinti juttatás visszafizetésére kötelesek.
+
+#### 35/D. §[^174]
+
+2016\. augusztus 31-ét követően a 30. és 31. § alapján igényelhető támogatásban csak azon szakorvosok, szakgyógyszerészek részesíthetők, akik az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2/A. §-a szerinti bérkiegészítésben nem részesülnek.
+
+#### 35/E. §[^175]
+
+Az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú kormányrendeletek módosításáról szóló 250/2017. (IX. 5.) Korm. rendelettel megállapított 3. § (5b) bekezdésében foglaltakat a szakképzésüket a Kr.1. alapján teljesítő rezidensekre is alkalmazni kell.
+
+#### 35/F. §[^176]
+
+E rendeletnek az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosításáról szóló 260/2021. (V. 20.) Korm. rendelettel megállapított 16/A. § (2) bekezdésében foglaltakat első alkalommal a 2021. március hónapra esedékes illetmény megállapítása során kell alkalmazni.
+
+#### 35/G. §[^177]
+
+(9) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 328/2019. (XII. 20.) Korm. rendelettel (a továbbiakban: Mód.r.3.) megállapított 26. § (7)–(9) bekezdésében foglaltak a Mód.r.3. hatálybalépését[^178] megelőzően meghirdetett ösztöndíjak tekintetében is alkalmazandók.
+
+#### 35/H. §[^179]
+
+Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosításáról szóló 582/2023. (XII. 19.) Korm. rendelettel módosított 16/A. § (2) bekezdés a) pontja szerinti támogatást első alkalommal a 2024. január hónapra esedékes illetmény megállapítása során kell alkalmazni, függetlenül attól, hogy az államilag támogatott szakképzésben részt vevő rezidens a szakképzését mikor kezdte meg.
+
+#### 35/I. §[^180]
+
+A 2024. december 31-ig meghirdetett pályázati kiírás alapján ösztöndíjban részesülő szakorvos és szakgyógyszerész jelöltekre e rendeletnek az egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 463/2024. (XII. 30.) Korm. rendelet hatálybalépését[^181] megelőzően hatályos rendelkezéseket kell alkalmazni függetlenül attól, hogy melyik évben került sor az ösztöndíj folyósítására.
+
+### 24. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet módosítása
+
+### 25. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
+
+### 26. Az Egészségügyi Nyilvántartási és Képzési Központról szóló 29/2015. (II. 25.) Korm. rendelet módosítása
+
+## 1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez[^197]
+
+## 2. melléklet a 162/2015. (VI. 30.) Korm. rendelethez[^198]
+
+---
+
+[^1]: Az 1. § b) pontját a 359/2016. (XI. 23.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § e) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 1. pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 2. pontja a 260/2021. (V. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 5. pontja az 529/2020. (XI. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 287/2018. (XII. 21.) Korm. rendelet 42. § a) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 3. § (5b) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 56. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (7) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 2. § (3) bekezdésével megállapított, nyitó szövegrésze a 250/2017. (IX. 5.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (7) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (8) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
+[^14]: Az 5. § (1) bekezdés a) pontja a 260/2021. (V. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 5. § (1) bekezdés b) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § e) pontja, a 260/2021. (V. 20.) Korm. rendelet 6. § a) pontja, az 532/2021. (IX. 14.) Korm. rendelet 3. §-a, a 463/2024. (XII. 30.) Korm. rendelet 70. § a) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^17]: Az 5. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § f)–g) pontja szerint módosított szöveg.
+[^18]: Az 5. § (4) bekezdés nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdés b) pontját a 659/2023. (XII. 28.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^20]: Az 5. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (6) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^22]: Az 5. § (7) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^23]: Az 5. § (8) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^24]: Az 5. § (9) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^25]: Az 5. § (10) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^26]: Az 5. § (11) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 57. §-a iktatta be, a 659/2023. (XII. 28.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^27]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^28]: A 6. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^29]: A 6. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^30]: A 6. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^31]: A 6. § (7) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^32]: A 7. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 71. § (1) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^33]: A 7. § (1a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^34]: A 7. § (1b) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 58. §-a iktatta be.
+[^35]: A 7. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^36]: A 8. § (1) bekezdés c) pontja a 417/2015. (XII. 23.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^37]: A 8. § (2) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 5. §-ával megállapított, az 529/2020. (XI. 28.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^38]: A 8. § (3) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^39]: A 6. alcím címe a 260/2021. (V. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^40]: A 9. § (1) bekezdés nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^41]: A 9. § (1) bekezdés i) pontját az 529/2020. (XI. 28.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^42]: A 9. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^43]: A 10. § c) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § j) pontja szerint módosított szöveg.
+[^44]: A 10. § j) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^45]: A 11. § a 250/2017. (IX. 5.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^46]: A 11. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^47]: A 11. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^48]: A 12. § (2) bekezdése az 582/2023. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^49]: A 12. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^50]: A 12. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^51]: A 13. § a 287/2018. (XII. 21.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^52]: A 13. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja, a 260/2021. (V. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^53]: A 13. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^54]: A 13. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^55]: A 13. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^56]: A 13. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^57]: A 13. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^58]: A 13. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^59]: A 13. § (8) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^60]: A 13. § (9) bekezdés záró szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^61]: A 13. § (10) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^62]: A 13. § (11) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b)–c) pontja szerint módosított szöveg.
+[^63]: A 14. § (1) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 68. § e) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^64]: A 14. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
+[^65]: A 15. § (2) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 71. § a) pontja hatályon kívül helyezte.
+[^66]: A 16/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 37. §-a iktatta be, szövege a 260/2021. (V. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^67]: A 16/A. § (2) bekezdés a) pontja az 582/2023. (XII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^68]: A 16/A. § (2) bekezdés b) pontja a 463/2024. (XII. 30.) Korm. rendelet 70. § d) pontja szerint módosított szöveg.
+[^69]: A 17. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^70]: A 17. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 214. § a) pontja szerint módosított szöveg.
+[^71]: A 17. § (2) bekezdés e) pontja a 464/2016. (XII. 23.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.
+[^72]: A 17. § (2) bekezdés f) pontja a 463/2024. (XII. 30.) Korm. rendelet 70. § e) pontja szerint módosított szöveg.
+[^73]: A 17. § (2) bekezdés g) pontját a 464/2016. (XII. 23.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^74]: A 17. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 214. § b) pontja szerint módosított szöveg.
+[^75]: A 17. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 214. § a) és c) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § f) pontja szerint módosított szöveg.
+[^76]: A 17. § (5) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^77]: A 17. § (6) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^78]: A 17. § (7) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^79]: A 18. § (1) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^80]: A 18. § (2) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 72. §-ával megállapított, a 464/2016. (XII. 23.) Korm. rendelet 45. § c) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^81]: A 18. § (3a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^82]: A 18. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 65. § (1) bekezdésével megállapított szöveg.
+[^83]: A 18. § (5) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^84]: A 18. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte, újonnan a 175/2025. (VI. 30.) Korm. rendelet 21. §-a iktatta be.
+[^85]: A 18. § (7) bekezdése a 63/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^86]: A 18. § (7) bekezdés a) pontját az 529/2020. (XI. 28.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
+[^87]: A 18. § (9) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 42. § a) és d) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^88]: A 18. § (10) bekezdését a 63/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^89]: A 18. § (11) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 65. § (2) bekezdése iktatta be.
+[^90]: A 19. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 214. § b) pontja szerint módosított szöveg.
+[^91]: A 19. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 42. § a) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^92]: A 19. § (3) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § h) pontja hatályon kívül helyezte.
+[^93]: A 19. § (4) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 7. §-a iktatta be.
+[^94]: A 20. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^95]: A 20. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^96]: A 20. § (3) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 66. § (2) bekezdése iktatta be.
+[^97]: A 20. § (4) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 66. § (2) bekezdése iktatta be.
+[^98]: A 21. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^99]: A 21. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^100]: A 21. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^101]: A 21. § (5) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 42. § e) pontja szerint módosított szöveg.
+[^102]: A 21/A. §-t a a 250/2017. (IX. 5.) Korm. rendelet 61. §-a iktatta be.
+[^103]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^104]: A 22. § (1) bekezdés záró szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^105]: A 22. § (1) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) és n) pontja szerint módosított szöveg.
+[^106]: A 22. § (1) bekezdés d) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^107]: A 22. § (2) bekezdése a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^108]: A 22. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^109]: A 22. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^110]: A 22. § (6a) bekezdését a 383/2025. (XII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^111]: A 22. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^112]: A 22/A. §-t a 63/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 70. § g) pontja, a 383/2025. (XII. 8.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^114]: A 15. alcím címe a 250/2017. (IX. 5.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^116]: A 25. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § p) pontja szerint módosított szöveg.
+[^117]: A 25. § (6) bekezdését a 383/2025. (XII. 8.) Korm. rendelet 4. §-a iktatta be.
+[^118]: A 26. § nyitó szövegrésze a 260/2021. (V. 20.) Korm. rendelet 7. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § h) pontja szerint módosított szöveg.
+[^119]: A 26. § (1) bekezdés a) pontja a 250/2017. (IX. 5.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^120]: A 26. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 70. § i) pontja szerint módosított szöveg.
+[^121]: A 26. § (2a) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 64. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 70. § j) pontja szerint módosított szöveg.
+[^122]: A 26. § (3) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^123]: A 26. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 73. §-ával megállapított, a 463/2024. (XII. 30.) Korm. rendelet 70. § k) pontja szerint módosított szöveg.
+[^124]: A 26. § (5) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 67. §-ával megállapított szöveg. [E módosító rendelet 70. § l) pontja által elrendelt módosítás, amely szerint az „a rezidens és a szakgyógyszerész jelölt” szövegrész helyébe az „az ösztöndíjas rezidens” szöveg lép, nem vezethető át.]
+[^125]: A 26. § (6) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^126]: A 26. § (7) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
+[^127]: A 26. § (8) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
+[^128]: A 26. § (9) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
+[^129]: A 27. § nyitó szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^130]: A 27. § c) pontja a 463/2024. (XII. 30.) Korm. rendelet 70. § m) pontja szerint módosított szöveg.
+[^131]: A 28. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^132]: A 28. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^133]: A 28. § (3) bekezdés c) pontja a 463/2024. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^134]: A 28. § (3) bekezdés d) pontját a 463/2024. (XII. 30.) Korm. rendelet 71. § b) pontja hatályon kívül helyezte.
+[^135]: A 28. § (3) bekezdés e) pontját a 463/2024. (XII. 30.) Korm. rendelet 68. § (3) bekezdése iktatta be.
+[^136]: A 28. § (3a) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 68. § (4) bekezdésével megállapított szöveg.
+[^137]: A 28. § (3b) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte.
+[^138]: A 28. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 70. § n) pontja szerint módosított szöveg.
+[^139]: A 28. § (5) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 71. § d) pontja hatályon kívül helyezte.
+[^140]: A 28. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § o) pontja szerint módosított szöveg.
+[^141]: A 28. § (6a) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 68. § (5) bekezdésével megállapított szöveg.
+[^142]: A 28. § (7) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 68. § (6) bekezdésével megállapított szöveg.
+[^143]: A 28. § (8) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 68. § (7) bekezdése iktatta be.
+[^144]: A 20. alcímet (29. §-t) a 463/2024. (XII. 30.) Korm. rendelet 71. § e) pontja hatályon kívül helyezte.
+[^146]: A 31. § (1) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^147]: A 31. § (2) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^148]: A 31. § (2a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 42. §-a iktatta be, hatályon kívül helyezte a 359/2016. (XI. 23.) Korm. rendelet 6. § c) pontja.
+[^149]: A 31. § (3) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^150]: A 31. § (4) a 359/2016. (XI. 23.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^151]: A 31. § (5) a 359/2016. (XI. 23.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^152]: A 31. § (6) a 359/2016. (XI. 23.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^153]: A 31. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 75. § (3) bekezdése iktatta be, hatályon kívül helyezte a 359/2016. (XI. 23.) Korm. rendelet 6. § d) pontja.
+[^154]: A 31. § (8) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 39. §-a iktatta be.
+[^155]: A 33. § (1) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § a) pontja, a 359/2016. (XI. 23.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^156]: A 33. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 8. §-a iktatta be.
+[^157]: A 33. § (1a) bekezdés c) pontját a 250/2017. (IX. 5.) Korm. rendelet 65. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^158]: A 33. § (2) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^159]: A 33. § (3) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^160]: A 33. § (4) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^161]: A 33. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
+[^162]: A 33. § (6) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 46. § a) pontja hatályon kívül helyezte, újonnan a 287/2018. (XII. 21.) Korm. rendelet 40. §-a iktatta be.
+[^163]: A 33. § (7) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^164]: A 33. § (8) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
+[^165]: A 33/A. §-t a 250/2017. (IX. 5.) Korm. rendelet 66. §-a iktatta be.
+[^166]: A 34. § a 260/2021. (V. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^167]: A 35. § (1)–(2) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 46. § b) pontja hatályon kívül helyezte.
+[^168]: A 35. § (3) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 3. §-a iktatta be.
+[^169]: A hatálybalépés időpontja 2016. május 1.
+[^170]: A 35. § (4) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 3. §-a iktatta be.
+[^171]: A 35/A. §-t a 417/2015. (XII. 23.) Korm. rendelet 51. §-a iktatta be.
+[^172]: A 35/B. §-t a 172/2016. (VII. 1.) Korm. rendelet 76. §-a iktatta be.
+[^173]: A 35/C. §-t a 172/2016. (VII. 1.) Korm. rendelet 76. §-a iktatta be.
+[^174]: A 35/D. §-t a 238/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be, szövege a 276/2016. (IX. 15.) Korm. rendelet 6. §-a, a 359/2016. (XI. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^175]: A 35/E. §-t a 250/2017. (IX. 5.) Korm. rendelet 67. §-a iktatta be, szövege a 313/2020. (VI. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^176]: A 35/F. §-t újonnan a 260/2021. (V. 20.) Korm. rendelet 5. §-a iktatta be.
+[^177]: A 35/G. §-t a 328/2019. (XII. 20.) Korm. rendelet 16. §-a iktatta be.
+[^178]: A hatálybalépés időpontja 2019. december 21.
+[^179]: A 35/H. §-t az 582/2023. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^180]: A 35/I. §-t a 463/2024. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
+[^181]: A hatálybalépés időpontja 2024. december 31.
+[^197]: Az 1. mellékletet a 359/2016. (XI. 23.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.
+[^198]: A 2. mellékletet a 359/2016. (XI. 23.) Korm. rendelet 6. § h) pontja hatályon kívül helyezte.

@@ -1,0 +1,295 @@
+---
+title: "125/2019. (V. 30.) Korm. rendelet Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti környezetügyi együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "125/2019. (V. 30.) Korm. rendelet"
+njt_id: "2019-125-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/125"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-05-30
+in_force_from: 2019-05-31
+last_amended: 2020-03-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-125-20-22"
+retrieved: 2026-10-12
+---
+
+# 125/2019. (V. 30.) Korm. rendelet Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti környezetügyi együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti környezetügyi együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar és angol nyelvű szövege a következő:
+
+„KÖRNYEZETÜGYI EGYÜTTMŰKÖDÉSI EGYEZMÉNY MAGYARORSZÁG KORMÁNYA ÉS\
+A SZERB KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+
+Magyarország Kormánya és a Szerb Köztársaság Kormánya (a továbbiakban együttesen: „a Felek”)
+
+tudatában annak, hogy a környezetvédelemnek milyen regionális és globális vonatkozásai vannak, hogy ezen a téren nemzetközi és regionális együttműködés útján sürgősen hosszú távú megoldásokat kell keresni, és hogy fontos a két ország tevékenységeinek összehangolása;
+
+felismerve, hogy a kétoldalú együttműködés jó alapot képezhet arra, hogy a Felek kölcsönös erőfeszítésekkel mélyítsék el együttműködésüket és növeljék az egymás iránti tiszteletet, valamint hozzájárul országos és nemzetközi környezetvédelmi céljaik hatékony eléréséhez és mindkét ország környezeti állapotának javításához, és ugyanakkor a többoldalú együttműködést is elősegíti;
+
+összhangban mindkét Fél pozitív jogszabályaival és a nemzetközi környezetvédelmi jog általánosan elismert elveivel;
+
+azzal a szándékkal, hogy erősítsék együttműködésüket azon többoldalú nemzetközi környezetvédelmi egyezmények és jegyzőkönyvek keretein belül, amelyekben mindkét ország részes;
+
+azzal a meggyőződéssel, hogy a Felek környezetvédelmi tárgyú együttműködése kölcsönösen előnyös a két ország baráti kapcsolatainak további javítása szempontjából;
+
+annak tudatában, hogy a jelen és a jövő generációi számára biztosítaniuk kell a biztonságos környezetet;
+
+a következőkről egyeznek meg:
+
+**1. cikk**
+
+A Felek kölcsönös és egyenlő előnyök érdekében továbbfejlesztik kétoldalú együttműködésüket a környezetügy terén.
+
+**2. cikk**
+
+A Felek a következő területeken működnek együtt:
+
+– a környezet védelme és javítása, a természeti erőforrások fenntartható használata;
+
+– a környezeti témák bevonása a szektorszintű szakpolitikákba;
+
+– határon átnyúló együttműködés a környezetvédelem terén (környezeti hatásvizsgálat, stratégiai környezeti vizsgálat stb.);
+
+– klímaváltozás;
+
+– szennyezett területek kármentesítése;
+
+– levegő-tisztaság védelem;
+
+– hulladékgazdálkodás;
+
+– vízminőség-védelem, szennyvíztisztítás;
+
+– a vizes élőhelyek kezelése;
+
+– természetvédelem, beleértve a mindkét országban előforduló veszélyeztetett fajok valamint az ökológiailag érzékeny és a védett területek védelmét is;
+
+– a különleges geológiai jelentőségű területek védelme és fenntartása terén szerzett tapasztalatok cseréje az UNESCO Globális Geoparkjaira vonatkozó irányelvek és kritériumok szerint;
+
+– az inváziós idegen fajok terjedésének megakadályozása;
+
+– a tájak fenntartása, kezelése és tervezése;
+
+– a génmódosítás-mentes mezőgazdaság fenntartása;
+
+– a génmegőrzés;
+
+– a fenntartható fejlődés környezetvédelmi aspektusai, és a globális fenntartható fejlődési célok megvalósítása;
+
+– zöld gazdaság, és különösen a körforgásos gazdaság;
+
+– az ipari szennyezés korlátozása és kockázatainak kezelése;
+
+– oktatás és szemléletformálás;
+
+– fenntartható fogyasztás és termelés;
+
+– az Európai Unió környezetvédelmi jogi szabályozása;
+
+– kölcsönös megegyezés szerinti egyéb környezetvédelmi területek.
+
+**3. cikk**
+
+A Felek együttműködésének formái a jelen Egyezmény keretein belül:
+
+– közös programok, projektek és tevékenységek előkészítése és megvalósítása a környezetvédelem terén, valamint az éghajlatváltozás hatásainak csökkentése és az azokhoz való alkalmazkodás érdekében;
+
+– az éghajlatváltozás hatásainak csökkentése és az azokhoz való alkalmazkodás erdőtelepítés útján;
+
+– a környezetvédelemre, az éghajlatváltozás hatásainak csökkentésére és az azokhoz való alkalmazkodásra, valamint a fenntartható fejlődésre vonatkozó információk cseréje;
+
+– szakértői csoportok, tudósok, delegációk és gyakornokok csereprogramjai;
+
+– szemináriumok, műhelyek és találkozók szervezése a jelen Egyezmény alapján indított közös munkaprogramok keretében;
+
+– kölcsönösen megfelelőnek tartott egyéb együttműködési formák.
+
+**4. cikk**
+
+Az Egyezmény végrehajtása érdekében a Felek arra bátorítják országuk intézményeit, szervezeteit és vállalkozásait, hogy közvetlen kapcsolatokat építsenek ki és fejlesszenek tovább egymással.
+
+**5. cikk**
+
+Az Egyezmény eredményes végrehajtása érdekében a Felek kétéves együttműködési programokat indítanak.
+
+A jelen Egyezmény aláírásától számított három hónapon belül mindkét Fél koordinátort nevez ki az Egyezmény keretein belül végzendő tevékenységek összehangolására.
+
+A koordinátorok szükség szerint, távközlési eszközök útján, vagy a két ország – Magyarország illetve a Szerb Köztársaság – valamelyikében személyesen tárgyalnak egymással. A koordinátorok megbeszélésének és a jelen Egyezmény 3. cikke szerinti találkozóknak a költségeit egyéb megegyezés hiányában mindkét Fél maga viseli.
+
+**6. cikk**
+
+A jelen Egyezmény szerinti együttműködés végrehajtása a Felek forrásai függvényében, az országukban alkalmazandó jogszabályok szerint történik. Eltérő megegyezés hiányában mindkét Fél maga viseli az Egyezmény alapján végzett tevékenységeinek költségét.
+
+**7. cikk**
+
+A jelen Egyezmény rendelkezései nem érintik a Felek közti egyéb kétoldalú egyezményekből eredő kötelezettségeket, a Felek nemzeti előírásaiból vagy más országokkal kötött egyezményeiből eredő jogait és kötelezettségeit, vagy a Felek azon jogait és kötelezettségeit, amelyek nemzetközi szervezetekben betöltött tagságukból vagy Magyarország európai uniós tagságából erednek.
+
+**8. cikk**
+
+A jelen Egyezmény értelmezésével vagy alkalmazásával kapcsolatos vitákat a Felek közvetlen tárgyalások útján rendezik.
+
+**9. cikk**
+
+A jelen Egyezmény szerinti együttműködés útján létrehozandó eredmények és információk az egyes országok jogszabályai szerint, a Felek beleegyezésével harmadik feleknek is átadhatók.
+
+**10. cikk**
+
+A jelen Egyezmény akkor lép hatályba, mihelyt mindkét Fél diplomáciai csatornán keresztül kézhez vette a másik Fél utolsó értesítését a hatálybalépéshez szükséges jogi eljárásaik megtörténtéről.
+
+A jelen Egyezmény öt (5) évig marad hatályban, és további öt (5) évre automatikusan meghosszabbításra kerül, kivéve ha bármelyik Fél az első ötéves időszak lejárta előtt legalább hat (6) hónappal írásban értesíti a másik Felet felmondási szándékáról.
+
+Köttetett Szabadkán, 2019. április 15-én két-két eredeti példányban magyar, szerb és angol nyelven. Minden nyelvi verzió egyenlő mértékben hiteles.
+
+**AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF SERBIA ON COOPERATION IN THE FIELD OF ENVIRONMENTAL PROTECTION**
+
+The Government of Hungary and the Government of the Republic of Serbia,
+
+Hereinafter referred to as “the Parties”,
+
+Aware of the regional and global implications of environmental protection and the urgency to find lasting solutions through international and regional cooperation, as well as of the importance of coordinating joint activities of the two countries,
+
+Recognizing that bilateral cooperation can serve as a strong foundation to deepen cooperation and respect through mutual efforts of both Parties, which would contribute to efficient achievement of their national and international sectoral targets and to improvement of the state of environment in both countries while at the same time contributing to multilateral cooperation,
+
+Respecting and acting in accordance with the positive legislation of both Parties and the generally recognized principles of international environmental law,
+
+Wishing to strengthen cooperation in the framework of the international multilateral conventions and protocols on environment that both countries are parties of,
+
+Convinced that cooperation between the two Parties in the field of environmental protection is of mutual benefit further improving friendly relations between the two countries,
+
+Aware of the responsibility to ensure environmental safety for present and future generations,
+
+Have agreed as follows:
+
+**Article 1**
+
+The Parties shall, based on equal and mutual benefit, further develop bilateral cooperation in the field of environmental protection.
+
+**Article 2**
+
+The Parties shall cooperate in the following areas:
+
+– Protection and improvement of environment and sustainable use of natural resources;
+
+– Integration of environmental issues into sectoral policies;
+
+– Transboundary cooperation in the field of environmental protection (environmental impact assessment, strategic environmental assessment etc.)
+
+– Climate change;
+
+– Soil remediation;
+
+– Air protection;
+
+– Waste management;
+
+– Water quality protection and waste water management;
+
+– Wetland management;
+
+– Nature protection, including protection of endangered species occurring in both countries, as well as protection of ecologically sensitive areas and protected areas;
+
+– Exchange of experience regarding the protection and preservation of areas of particular geological significance in accordance with the guidelines and criteria of UNESCO Global Geoparks
+
+– Prevention of the spread of invasive alien species
+
+– Preservation, management and planning of landscapes;
+
+– Maintenance of GMO-free agriculture;
+
+– Gene conservation
+
+– Environmental aspects of sustainable development and implementation of global sustainable development goals;
+
+– Green economy; particularly circular economy
+
+– Industrial pollution control and risk management;
+
+– Education and awareness raising;
+
+– Sustainable consumption and production;
+
+– EU legislation in the field of environmental protection;
+
+– Other areas of environmental protection as mutually deemed appropriate.
+
+**Article 3**
+
+Cooperation between the Parties under this Agreement shall be conducted in the following forms:
+
+– Preparation and implementation of joint programmes, projects and activities activities in the field of environmental protection and climate change mitigation and adaptation;
+
+– Climate change mitigation and adaptation through afforestation;
+
+– Exchange of relevant information and materials in the field of environmental protection, climate change mitigation and adaptation and sustainable development;
+
+– Exchange visits of expert delegations, scholars, delegations and trainees;
+
+– Joint organization of seminars, workshops and meetings related to the implementation of joint work programs under present Agreement;
+
+– Other forms of cooperation as mutually agreed upon.
+
+**Article 4**
+
+To implement the Agreement, the Parties shall encourage institutions, organizations and enterprises in their countries to establish and develop direct contacts with one another.
+
+**Article 5**
+
+To ensure the effective implementation of the Agreement, the Parties shall conclude 2-year cooperation programs,
+
+Each Party shall, within three months from the signature date, appoint a coordinator to be responsible for the coordination of activities under this Agreement.
+
+The coordinators shall hold meetings as required through telecommunication or alternately in the two countries, Hungary and the Republic of Serbia. Unless otherwise mutually agreed upon, each party will cover its own costs of participation in the coordinators' meeting and the meetings according to Article 3 of the present Agreement.
+
+**Article 6**
+
+Cooperative activities under this Agreement shall be implemented according to financial resources available to the Parties and the laws applicable in their countries. Unless otherwise mutually agreed upon, each Party shall bear the cost for carrying out activities under this Agreement.
+
+**Article 7**
+
+The provisions of this Agreement shall not in any way affect the commitments of the Parties under existing bilateral agreements between the two countries, the rights or obligations of the Parties deriving from their national provisions and agreements signed with other countries, from membership in international organizations, or the membership of Hungary in the European Union.
+
+**Article 8**
+
+Disputes concerning the interpretation or application of this Agreement shall be settled through direct negotiations between the Parties.
+
+**Article 9**
+
+Pursuant to the laws of each country, with the consent of the Parties, the results and information produced in cooperation under the Agreement could be accessible to third parties.
+
+**Article 10**
+
+This Agreement shall enter into force on the date of the receipt of the last written notification by which the Parties shall notify each other, through diplomatic channels, of the completion of the respective legal procedures required for its entry into force.
+
+This Agreement is signed for a period of five (5) years and shall be automatically renewed for another period of five (5) years, unless either Party notifies the other Party in writing of its intention to denounce the Agreement, but not later than six (6) months before the expiration of the initial period of five (5) years.
+
+Done in Subotica on 15, April, 2019, in two originals, each in Hungarian, Serbian and English language, all texts being equally authentic.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény 10. cikk első bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a környezetvédelemért és természetvédelemért felelős miniszter, a vízgazdálkodásért és vízvédelemért felelős miniszter, valamint az energiapolitikáért és a hulladékgazdálkodásért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény 10. cikk első bekezdésében meghatározott időpontban lép hatályba. A 17/2020. (IV. 10.) KKM közlemény alapján a hatálybalépés időpontja 2020. március 25.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 10. cikk első bekezdésében meghatározott időpontban lép hatályba. A 17/2020. (IV. 10.) KKM közlemény alapján a hatálybalépés időpontja 2020. március 25.
+[^3]: A 17/2020. (IV. 10.) KKM közlemény alapján a hatálybalépés időpontja 2020. március 25.
+[^4]: Lásd a 17/2020. (IV. 10.) KKM közleményt.

@@ -1,0 +1,188 @@
+---
+title: "234/2019. (X. 15.) Korm. rendelet a nemzetpolitikai tevékenységgel kapcsolatos közigazgatási ösztöndíjakról"
+identifier: "234/2019. (X. 15.) Korm. rendelet"
+njt_id: "2019-234-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2019/Korm/234"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2019-10-15
+in_force_from: 2019-10-16
+last_amended: 2024-07-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-234-20-22"
+retrieved: 2026-10-12
+---
+
+# 234/2019. (X. 15.) Korm. rendelet a nemzetpolitikai tevékenységgel kapcsolatos közigazgatási ösztöndíjakról
+
+A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány által alapított nemzetpolitikai tevékenységgel kapcsolatos közigazgatási ösztöndíj (a továbbiakban: ösztöndíj) céljai az alábbiak lehetnek:
+
+a) a külhoni magyar közösség olyan intézményrendszerének kiépítése és megerősítése, amely az egyének és közösségek integrációja révén hozzájárul a magyar önazonosság és a magyar nemzet összetartozásának erősítéséhez, valamint
+
+b) a szakmailag elhivatott, gyakorlati tapasztalattal rendelkező, a közigazgatás nemzetpolitikai tevékenysége iránt elkötelezett szakember-utánpótlás biztosítása.
+
+(2) Az ösztöndíj kizárólag
+
+a) a diaszpóra magyarságát segítő Kőrösi Csoma Sándor Program, valamint
+
+b) a Kárpát-medence szórványmagyarságát segítő Petőfi Sándor Program
+
+[az *a)* és *b)* pont alattiak a továbbiakban együtt: ösztöndíjprogram] keretében adható.
+
+## 2. §
+
+(1) Az ösztöndíjprogramot a Kormány nemzetpolitikáért felelős tagja (a továbbiakban: miniszter) működteti.
+
+(2)[^1] Az ösztöndíjprogram működtetésének pénzügyi fedezetét a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter által vezetett minisztérium (a továbbiakban: befogadó intézmény) költségvetésében kell tervezni.
+
+## 3. §
+
+A miniszter
+
+a) nyílt pályázatot hirdet az ösztöndíjra, melyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a befogadó intézmény honlapján közzétesz,
+
+b) kijelöli a kiválasztási bizottság (a továbbiakban: Bizottság) tagjait a befogadó intézmény
+
+ba) felsőfokú végzettségű,
+
+bb) nemzetpolitikai feladatot ellátó,
+
+a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. §-ában meghatározott kormányzati igazgatás tisztségviselői közül,
+
+c) jóváhagyja
+
+ca) a pályázati felhívást,
+
+cb) az ösztöndíjprogram működési szabályzatát (a továbbiakban: Programszabályzat),
+
+cc) a befogadó intézménynek az ösztöndíjprogram végrehajtásával kapcsolatos beszámolóját,
+
+d) megállapítja
+
+da) az ösztöndíjprogramba felvehető ösztöndíjasok számát,
+
+db) az ösztöndíj havi összegét,
+
+e) dönt a pályázat eredményéről.
+
+## 4. §
+
+A befogadó intézmény
+
+a) előkészíti
+
+aa) a pályázati felhívást,
+
+ab) a Programszabályzatot,
+
+b) formailag és tartalmilag ellenőrzi a határidőben beérkezett pályázatokat,
+
+c) ellenőrzi az ösztöndíjas által – az ösztöndíjas szerződésben előírt beszámolási kötelezettség teljesítéseként – a befogadó intézmény részére megküldött
+
+ca) havi értékelést és
+
+cb) szakmai beszámolót,
+
+d) beszámolót készít a miniszter számára az ösztöndíjprogram végrehajtásáról,
+
+e) végzi az ösztöndíjasok és a mentorok tevékenységével kapcsolatban felmerülő feladatokat,
+
+f) ellátja az ösztöndíjas szerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat.
+
+## 5. §
+
+A mentor az ösztöndíjas szakmai tevékenységét segítő, a célország (régió) szerinti magyar szervezet (a továbbiakban: fogadó szervezet) által kijelölt személy. A mentor feladata az ösztöndíjas tevékenységének figyelemmel kísérése és az ösztöndíjas rendszeres értékelése a Programszabályzatban foglaltak szerint.
+
+## 6. §
+
+(1) A pályázati felhívás tartalmazza a pályázati feltételeket, a pályázat benyújtásának határidejét és az értékelési szempontokat.
+
+(2) Pályázat benyújtására és az ösztöndíjprogramban való részvételre az jogosult, aki
+
+a)[^2] a pályázat benyújtásának időpontjában tizennyolcadik életévét betöltötte,
+
+b) büntetlen előéletű,
+
+c) magyar állampolgár,
+
+d) legalább középfokú iskolai végzettséggel rendelkezik,
+
+e) közösségszervező, hagyományőrző egyéb közösségi tevékenységekben aktívan vesz részt,
+
+f) magas szintű angol nyelvtudással vagy a célország nyelvének legalább társalgási szintű ismeretével rendelkezik, és
+
+g) megfelel a pályázati felhívásban meghatározott egyéb feltételeknek.
+
+## 7. §
+
+(1) A Bizottság működési szabályait a miniszter által jóváhagyott ügyrendben állapítja meg.
+
+(2) A pályázati feltételeknek megfelelő pályázókat a Bizottság egyfordulós, szóbeli elbeszélgetés során meghallgatja, és ennek eredménye alapján javaslatot tesz a miniszternek az ösztöndíjak odaítélésére vonatkozóan.
+
+## 8. §
+
+(1) Az ösztöndíjas az ösztöndíjprogram keretében a befogadó intézménynél és a fogadó szervezetnél folytatja az ösztöndíjas szerződésben meghatározott tevékenységét.
+
+(2) Az ösztöndíjas (1) bekezdésben foglalt tevékenysége a közigazgatás szervezetére, működésére és a nemzetpolitikai tevékenységhez kapcsolódó gyakorlati ismeretek megszerzésére irányuló mentorált tanulási folyamat, amely az ismeretek és készségek fejlesztését az egyéni tapasztalatszerzés eszközével biztosítja. Az ösztöndíjas tevékenysége meghatározó részét a kijelölt célországban fejti ki.
+
+(3) Az ösztöndíjas az ösztöndíjprogramba történő felvételét követően megköti a befogadó intézménnyel az ösztöndíjas szerződést, amelynek értelmében a Kit. 88. §-a szerinti ösztöndíjas jogviszonyt létesít.
+
+(4) A szerződésnek tartalmaznia kell legalább
+
+a) a felek nevét, illetve megnevezését és a szerződés megkötése szempontjából szükséges adatait,
+
+b) a szerződés időtartamát,
+
+c) az ösztöndíjas tevékenységét,
+
+d) az ösztöndíj összegét, valamint annak kifizetése időpontját, módját,
+
+e) a célország megnevezését,
+
+f) az adatkezelésre, titoktartásra vonatkozó rendelkezést,
+
+g) az ösztöndíjasnak a befogadó intézmény számára adott engedélyét az általa az ösztöndíjprogram keretében benyújtott havi értékelés és szakmai beszámoló felhasználására,
+
+h) a szerződés megszűnésére, illetve megszüntetésére vonatkozó szabályokat.
+
+## 9. §
+
+A szerződés alapján az ösztöndíjas köteles
+
+a) a magyarországi programszakasz alatt Magyarországon tartózkodni,
+
+b) a célországba érkezést követően haladéktalanul, személyesen felvenni a kapcsolatot a fogadó szervezettel, és elérhetőségeit – telefonszám, elektronikus levélcím – a fogadó szervezet rendelkezésére bocsátani,
+
+c) a külföldi programszakasz vonatkozásában megjelölt időtartam alatt a befogadó intézmény, illetve a fogadó szervezet által megjelölt programokon részt venni,
+
+d) a külföldi programszakasz időtartama alatti tevékenységéről havonta szöveges értékelést készíteni a befogadó intézménynek, amely értékelést a fogadó szervezet képviselője aláírásával hitelesíti,
+
+e) a külföldi programszakasz alatt a fogadó szervezettel folyamatosan kapcsolatot tartani, folyamatosan a fogadó szervezet rendelkezésére állni, a fogadó szervezet munkáját segíteni,
+
+f) a külföldi programszakasz időtartama alatti programokról, illetve az ösztöndíjas egyéb külföldi tevékenységéről részletes szöveges, fényképekkel dokumentált szakmai beszámolót készíteni, és elektronikus úton a befogadó intézményhez benyújtani a szerződésben foglalt rendszerességgel.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 11. §[^3]
+
+E rendeletnek a nemzetpolitikai tevékenységgel kapcsolatos közigazgatási ösztöndíjakról szóló 234/2019. (X. 15.) Korm. rendelet módosításáról szóló 443/2023. (IX. 28.) Korm. rendelettel (a továbbiakban: MódR.) módosított 6. § (2) bekezdés a) pontját a MódR. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+
+## 12. §[^5]
+
+E rendeletnek a nemzetpolitikai tevékenységgel kapcsolatos közigazgatási ösztöndíjakról szóló 234/2019. (X. 15.) Korm. rendelet módosításáról szóló 210/2024. (VII. 29.) Korm. rendelettel (a továbbiakban: MódR1.) módosított 2. § (2) bekezdését a MódR1. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: A 2. § (2) bekezdése a 210/2024. (VII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 6. § (2) bekezdés a) pontja a 443/2023. (IX. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 443/2023. (IX. 28.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2023. szeptember 29.
+[^5]: A 12. §-t a 210/2024. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2024. július 30.

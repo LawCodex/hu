@@ -1,0 +1,250 @@
+---
+title: "321/2011. (XII. 27.) Korm. rendelet a helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról"
+identifier: "321/2011. (XII. 27.) Korm. rendelet"
+njt_id: "2011-321-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2011/Korm/321"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-27
+in_force_from: 2012-03-01
+last_amended: 2025-04-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-321-20-22"
+retrieved: 2026-10-12
+---
+
+# 321/2011. (XII. 27.) Korm. rendelet a helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról
+
+A Kormány az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 64/B. § (1)–(3) bekezdésben kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A helyi esélyegyenlőségi program
+
+### 1. §
+
+(1) A települési önkormányzat által készített helyi esélyegyenlőségi program helyzetelemzésből és intézkedési tervből áll.
+
+(2)[^1] A helyzetelemzésben meg kell határozni a településen élő hátrányos helyzetű társadalmi csoportok, különösen a mélyszegénységben élők, romák, gyermekek, nők, idősek és fogyatékossággal élők teljes lakossághoz viszonyított képzettségi, lakhatási, foglalkoztatási, egészségi, szociális és területi mutatóit, az adott település esélyegyenlőtlenségi problémáit.
+
+(3)[^2] A települési önkormányzat a helyzetelemzés elkészítése során felhasználja a fővárosi és vármegyei” és a „megye kormányhivatalok, a település, a többcélú kistérségi társulás, a megye, illetve szükség szerint a Központi Statisztikai Hivatal rendelkezésére álló nyilvántartások hátrányos helyzetű társadalmi csoportokra vonatkozó aktuális anonimizált adatait.
+
+(4) Az intézkedési tervben meg kell határozni, hogy a helyzetelemzésben feltárt esélyegyenlőségi problémák felszámolása érdekében milyen beavatkozásokra, intézkedésekre van szükség.
+
+### 2. §
+
+(1)[^3] A helyi esélyegyenlőségi program elkészítésében résztvevők képzését végző szerv a Társadalmi Esélyteremtési Főigazgatóság (a továbbiakban: TEF).
+
+(2)[^4] A TEF a települési önkormányzatok helyi esélyegyenlőségi programjainak elkészítését segítő esélyegyenlőségi mentori hálózatot működtet.
+
+(3)[^5] A települési önkormányzat helyi esélyegyenlőségi programjának elkészítéséhez ingyenesen igénybe veheti a TEF által működtetett esélyegyenlőségi mentori hálózat szakértőjének segítségét. A mentorok a TEF alkalmazásában állnak, a települési önkormányzatok a mentorok közreműködésére vonatkozó igényüket a TEF felé írásban jelentik be.
+
+### 3. §[^6]
+
+A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi a TEF számára, mely azt honlapján közzéteszi.
+
+## 2. A helyi esélyegyenlőségi program elkészítésének szempontjai
+
+### 4. §
+
+(1) A helyi esélyegyenlőségi programban a mélyszegénységben élők, romák esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+
+a) a foglalkoztatási, egészségi és szociális helyzet tekintetében
+
+aa) a saját fenntartású intézményekben való foglalkoztatottság növelésére;
+
+ab) a foglalkoztatáshoz való hozzáférés esélyének mobilitási, információs és egyéb tényezőinek javítására, valamint a diszkrimináció csökkentésére;
+
+ac) az egészség előfeltételeinek biztosítása mellett a prevenciós és a szűrőprogramokon történő részvételi arány növelésére, a kiszűrtek egyéni esetkezelésére, az egészségügyi szolgáltatások elérhetőségének javítására, valamint a gyermekek és családjuk egészségtelen táplálkozásának vagy alultápláltságának csökkentésére;
+
+ad) a pénzbeli és természetbeni ellátásokra, valamint a munkanélküliséghez kapcsolódó támogatásokra;
+
+ae) az eladósodottság mértékére;
+
+af) a személyes gondoskodást nyújtó szolgáltatások kiterjedtségére, elérhetőségére; hozzáférhetőségére és kihasználtságára;
+
+ag) a közösségi élet gyakorlásához való hozzáférésre;
+
+ah) a helyi lakossági önszerveződésekre;
+
+b) a lakhatási szegregáció tekintetében
+
+ba) a területi szegregáció mértékére;
+
+bb) a megfelelő minőségű közszolgáltatásokhoz és a közösségi közlekedéshez való egyenlő esélyű hozzáférés biztosítására;
+
+bc) a lakosság integrációját támogató közösségfejlesztő programokra;
+
+bd) a tervezett beavatkozások és a településfejlesztési dokumentumok összhangjára.
+
+be)[^7] a szegregáció megelőzésére és
+
+bf)[^8] a tervezett és a végrehajtott intézkedések szegregációs hatásainak vizsgálatára.
+
+(2) A gyermekek esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+
+a) a hátrányos vagy halmozottan hátrányos helyzetű gyermekek szolgáltatásokhoz való hozzáférésének biztosítására, különösen a gyermekjóléti és a védőnői ellátás, valamint az egészségfejlesztési, a szabadidős, szünidős programok tekintetében;
+
+b) a színvonalas gyermekétkeztetés biztosítására;
+
+c)[^9] a halmozottan hátrányos helyzetű gyerekek köznevelési esélyegyenlősége tekintetében
+
+ca) az intézmények között és az egyes intézményeken belüli szegregáció mértékére;
+
+cb) az intézmények között az oktatás hatékonyságában mutatkozó eltérésekre;
+
+cc) a tanulók iskolai eredményességében mutatkozó eltérésekre;
+
+cd) a halmozottan hátrányos helyzetű gyerekek óvodai ellátására;
+
+d) a szegregált, telepszerű lakókörnyezetben élő gyermekek a fentiek tekintetében kiemelt figyelmet élveznek.
+
+(3) A nők esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+
+a) a társadalmi problémák nemek szerint eltérő értelmezésére és szükségleteik nemek szerinti eltérésére;
+
+b) a nők gazdasági függésére, kiszolgáltatottságára;
+
+c) a nőket érő erőszakra;
+
+d) arra, hogy a reprodukciós jogok sérülésének elkerülése érdekében van-e megfelelő tájékoztatás és hatékony segítségnyújtás a településen a családtervezés, anya- és gyermekgondozás területén;
+
+e) a nők közéletben, gazdasági életben való aránytalan részvételére;
+
+f) a nők munkaerő-piaci és családi feladatai összeegyeztethetőségének elősegítésére.
+
+(4) Az idősek esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+
+a) az egészségügyi és szociális ellátások elérhetőségére;
+
+b) a közszolgáltatásokhoz, a közösségi közlekedéshez és az információhoz való egyenlő esélyű hozzáférés;
+
+c) közösségi élet gyakorlásához való hozzáférés
+
+biztosítására.
+
+(5)[^10] A fogyatékossággal élők esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+
+a) a közszférában és a versenypiacon a fogyatékossággal élők teljes lakossághoz viszonyított arányuknak megfelelő mértékű foglalkoztatására;
+
+b) az egészségügyi ellátások elérhetőségére;
+
+c) az egészségügyi ellátórendszer és rehabilitációs intézmények közti információáramlásra és együttműködésre;
+
+d) a szociális szolgáltatások szerepére a fogyatékossággal élők rehabilitációjában;
+
+e)[^11] a köznevelési intézmények és a szakképző intézmények elérhetőségére, hozzáférhetőségére;
+
+f) az egyenlő esélyű hozzáférés biztosítása érdekében
+
+fa) az önkormányzati közszolgáltatásokat nyújtó épületek akadálymentesítésére;
+
+fb) az önkormányzati közszolgáltatások információs és kommunikációs akadálymentesítésére;
+
+fc) az építésügyi hatóságok felkészültségére az akadálymentesítés építészeti szempontjainak vizsgálatában;
+
+fd) a helyi tömegközlekedés akadálymentesítésére.
+
+### 5. §
+
+(1) A helyi esélyegyenlőségi program részét képező intézkedési tervben meghatározott intézkedések célja különösen:
+
+a)[^12] a lakhatási szegregáció és oktatási kirekesztődés megelőzése, felszámolása, integrált vagy a környezeti normáknak megfelelő minőségű lakókörnyezet kialakítása;
+
+b) a hátrányos helyzetű társadalmi csoportok képzettségi és foglalkoztatottsági szintjének növelése;
+
+c) az oktatásban, képzésben megjelenő sztereotipikus pályaorientáció megváltoztatása;
+
+d) a közszolgáltatásokhoz, egészségügyi és szociális szolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése;
+
+e) az egyenlő bánásmód követelményének érvényesítése a települési önkormányzat döntéshozatalában, az általa fenntartott vagy támogatott intézményekben, és az önkormányzat által ellenőrzött szolgáltatások körében;
+
+f) a hátrányos helyzetű csoportok tagjai részvételének elősegítése a döntéshozatalban és a közügyek irányításában, ezek tervezésében, megvalósításában és értékelésében;
+
+g) a hátrányos helyzetű csoportok tájékozottságának és tudatosságának növelése az őket megillető jogok és lehetőségek tekintetében.
+
+(2)[^13] Az intézkedési tervben
+
+a) a helyzetelemzés következtetései alapján feltárt problémákhoz kapcsolódóan kell meghatározni a helyi esélyegyenlőségi program céljait, valamint az azok elérését szolgáló intézkedéseket;
+
+b) esélyegyenlőségi területenként kell bemutatni az intézkedéseket, azok elvárt eredményeit, fenntarthatóságát és a végrehajtáshoz szükséges erőforrásokat, valamint a végrehajtás ütemezését és felelősét;
+
+c) rendelkezni kell az egyes intézkedések végrehajtásának feltételeiről, ütemezéséről a szükséges uniós források és hazai költségvetési források megjelölésével.
+
+## 3. A helyi esélyegyenlőségi program felülvizsgálata
+
+### 6. §
+
+(1) A települési önkormányzat vizsgálja felül a helyi esélyegyenlőségi programot.
+
+(2) A felülvizsgálatnak ki kell terjednie
+
+a) arra, hogy a helyzetelemzés továbbra is helytálló-e,
+
+b) a lejárt határidejű intézkedések teljesülésére és eredményeinek felmérésére.
+
+c)[^14] a módszertani útmutatónak való megfelelőségre.
+
+(3) Ha a felülvizsgálat alapján szükséges, a települési önkormányzat
+
+a) módosítja a helyi esélyegyenlőségi programot, vagy
+
+b) új helyi esélyegyenlőségi programot fogad el.
+
+(4)[^15] A felülvizsgálatot a TEF által működtetett esélyegyenlőségi mentori hálózat munkatársai segítik.
+
+## 4. A helyi esélyegyenlőségi program elkészítésében résztvevőkkel szembeni követelmények
+
+### 7. §
+
+(1) Esélyegyenlőségi mentor tevékenységet az folytathat, aki
+
+a) rendelkezik felsőfokú végzettséggel,
+
+b) legalább kétéves, az esélyegyenlőség területén szerzett szakmai gyakorlattal rendelkezik,
+
+c)[^16] részt vett a TEF által szervezett esélyegyenlőségi mentor képzésén, és az ott elsajátított ismeretekről a TEF által kiállított tanúsítvánnyal igazoltan sikeres vizsgát tett.
+
+(2)[^17] Szakmai gyakorlatnak kell tekinteni, ha az esélyegyenlőségi mentor munkáltatója vagy megbízója igazolja, hogy az esélyegyenlőségi mentor a mélyszegénységben élők, romák, gyermekek, nők, idősek és fogyatékossággal élők esélyegyenlőségét elősegítő szakmai tevékenységet végzett.
+
+(3)[^18] A TEF esélyegyenlőségi mentor képzésére jelentkező a képzésben való szándéka iránti kérelmet az (1) bekezdése a) és b) pontjában megjelölt feltételeknek való megfelelést bizonyító iratokkal együtt írásban benyújtja a TEF részére.
+
+### 8. §
+
+(1)[^19] A települési önkormányzat közigazgatási szervének köztisztviselőjét vagy költségvetési szervének közalkalmazottját jelölheti ki a TEF mentorhálózata által szervezett, a helyi esélyegyenlőségi programok megírására felkészítő képzésen való részvételre. A képzést esélyegyenlőségi mentorok tartják.
+
+(2)[^20] A TEF által tartott képzésben résztvevő (1) bekezdés szerinti köztisztviselő vagy közalkalmazott a képzésen elsajátított ismeretekről a képzés elvégzését követő egy hónapon belül vizsgát tesz. A vizsga akkor sikeres, ha a vizsgázó legalább 75%-os vizsgaeredményt ér el. A képzés sikeres elvégzéséről a vizsgázóknak a TEF tanúsítványt állít ki.
+
+(3)[^21] A helyi esélyegyenlőségi programok kétévente esedékes felülvizsgálatába és az új helyi esélyegyenlőségi program elkészítésébe, valamint a helyi esélyegyenlőségi programok részét képző intézkedési terv végrehajtásának nyomon követésébe a települési önkormányzat bevonhatja az (1) bekezdés szerinti köztisztviselőt vagy közalkalmazottat, aki rendelkezik a TEF helyi esélyegyenlőségi programok írására felkészítő képzésének elvégzését tanúsító bizonyítvánnyal.
+
+## 5. Záró rendelkezések
+
+### 9. §
+
+(1) Ez a rendelet 2012. március 1-jén lép hatályba.
+
+(2)[^22]
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 182. §-a, a 616/2022. (XII. 29.) Korm. rendelet 129. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés b) pont be) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 4. § (1) bekezdés b) pont bf) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 4. § (2) bekezdés c) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 59. § 1. pontja szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 59. § 2. pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés a) pontja a 486/2024. (XII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2) bekezdés c) pontját a 375/2021. (VI. 30.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^15]: A 6. § (4) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^16]: A 7. § (1) bekezdés c) pontja a 393/2013. (XI. 12.) Korm. rendelet 40. § i) pont ia) alpontja, a 421/2020. (IX. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^18]: A 7. § (3) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § b) és d) pontja szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdése a 393/2013. (XI. 12.) Korm. rendelet 40. § i) pont ib) alpontja, a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^20]: A 8. § (2) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § b) és d) pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdése a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^22]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

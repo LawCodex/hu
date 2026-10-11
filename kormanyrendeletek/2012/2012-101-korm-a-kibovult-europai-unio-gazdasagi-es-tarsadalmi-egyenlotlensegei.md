@@ -1,0 +1,410 @@
+---
+title: "101/2012. (V. 18.) Korm. rendelet a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között 2007. december 20-án létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításáról szóló levélváltással létrejött egyezmény kihirdetéséről"
+identifier: "101/2012. (V. 18.) Korm. rendelet"
+njt_id: "2012-101-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2012/Korm/101"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2012-05-18
+in_force_from: 2012-05-19
+last_amended: 2012-06-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-101-20-22"
+retrieved: 2026-10-12
+---
+
+# 101/2012. (V. 18.) Korm. rendelet a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között 2007. december 20-án létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításáról szóló levélváltással létrejött egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között 2007. december 20-án létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás (a továbbiakban: Keretmegállapodás) módosításáról szóló levélváltással létrejött egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„LEVÉLVÁLTÁS
+
+a Svájci Szövetségi Tanács és a Magyar Köztársaság Kormánya képviseletében eljáró hatóságok között a 2007. december 20-án létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításáról
+
+A SVÁJCI HATÓSÁGOK LEVELE
+
+CH-3003 Bern
+
+Zoltán Petykó
+
+President
+
+National Development Agency
+
+Wesselényi u. 20–22.
+
+1077 Budapest
+
+Hungary
+
+Bern, ......2012
+
+Amendments of Annex 1 to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20<sup>th</sup> December 2007, and its modification entered into force on 3 April 2010.
+
+Dear Mr. Petykó,
+
+I have the honour to refer to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20 December 2007, and based on Article 11, paragraph 3 of the Framework Agreement, to propose on behalf of the Federal Department of Foreign Affairs and of the Federal Department of Economic Affairs of the Swiss Confederation, that the competent authorities defined under article 9 of the Framework Agreement agree to amend the Annex 1 to the aforementioned Agreement.
+
+Based on negotiations between the Swiss Agency for Development and Cooperation (SDC) and the State Secretariat for Economic Affairs (SECO) and the National Development Agency acting as National Coordination Unit the Swiss Party hereby proposes to modify Annex 1 of the Framework Agreement as follows:
+
+(a) Annex 1, Article 5: Thematic Focus and Indicative Financial Allocations
+
+Table 1 “Security, Stability and Support for Reforms”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 1 “Regional development initiatives in peripheral or disadvantaged regions” shall be changed to “Up to 7,382159 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 2 “Prevention and management of natural disasters” shall be changed to “Up to 6,779742 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 9. “Security and security law” shall be changed to “Up to 11,996504 million CHF”.
+
+Table 2 “Environment and Infrastructure”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 3 “Rehabilitation and modernisation of basic infrastructure and Improvement of the environment” shall be changed to “Up to 35,737750 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 4 “Cross-border environmental initiatives, biodiversity and nature protection” shall be changed to “Up to 8,170260 million CHF”.
+
+Table 3 “Private Sector”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 5 “Improving the business environment and the access to financing for SMEs” shall be changed to “Up to 15,215904 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 6 “Development of the private sector and promotion of exports of SMEs” shall be changed to “Up to 2,148899 million CHF”.
+
+Table 4 “Human and Social Development”
+
+– The amount in the column “indicative financial allocation” of focus area No. 7 “Research and development, Objective 1: To strengthen the scientific potential through enhanced access to education and through selective promotion programmes, under “Types of eligible projects”, “Scholarships for advanced degree and post-graduation programmes in Switzerland” shall be changed to “Up to 4,830000 million CHF”.
+
+– The amount in the column “indicative financial allocation” of focus area No. 7 “Research and Development, Objective 2: To contribute to the knowledge based economy through the enhancement of the knowledge base and in particular through applied research as well as know-how and technology transfer” shall be changed to “Up to 5,784096 million CHF”.
+
+Table 5 “Special Allocations”
+
+– The amount in the column “Indicative financial allocation” of the Item “Twinning and Partnerships” shall be changed to “Up to 4,000000 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of the Item “Project Preparation Facility” shall be changed to “Up to 0,892686 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of the Item “Hungarian Technical Assistance” shall be changed to “Up to 2,260000 million CHF”.
+
+Table “Overview on the Indicative Allocations”
+
+– The wording of the second column shall be changed from “Indicative financial allocation (million CHF)” to “Indicative financial allocation (up to million CHF)”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “1. Security, Stability and support to Reforms” shall be decreased from “30,000” to “26,158405”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “2. Environment and Infrastructure” shall be increased from “40,738” to “43,908010”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “3. Private Sector” shall be decreased from “17,500” to “17,364803”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “4. Human and Social Development” shall be increased from “24,500” to “24,614096”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “5. Special Allocations” shall be increased from “18,000” to “18,692686”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “6. Not yet allocated” remains unchanged.
+
+All other provisions in Annex 1 and the other Annexes to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, remain unchanged.
+
+Once the proposed amendments are accepted by the Hungarian Party, the present letter and the reply letter will be considered as an agreement on the amendment of Annex 1 of the Framework Agreement. The Agreement shall enter into force on the 15<sup>th</sup> day after the date of the Hungarian reply letter.
+
+Yours sincerely,
+
+Martin Dahinden\
+Swiss Agency for Development and\
+Cooperation SDC
+
+Marie-Gabrielle Ineichen\
+State Secretariat for\
+Economic Affairs SECO
+
+A MAGYAR HATÓSÁG LEVELE
+
+Martin Dahinden\
+Swiss Agency for Development and\
+Cooperation SDC
+
+Marie-Gabrielle Ineichen\
+State Secretariat for\
+Economic Affairs SECO
+
+Subject: Amendments of Annex 1 to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20<sup>th</sup> December 2007, and its modification entered into force on 3 April 2010.
+
+Dear Mr. Dahinden, Dear Ms. Ineichen,
+
+I have the honour to refer to your letter of ... 2012 which reads as follows:
+
+“I have the honour to refer to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, signed on 20 December 2007, and based on Article 11, paragraph 3 of the Framework Agreement, to propose on behalf of the Federal Department of Foreign Affairs and of the Federal Department of Economic Affairs of the Swiss Confederation, that the competent authorities defined under article 9 of the Framework Agreement agree to amend the Annex 1 to the aforementioned Agreement.
+
+Based on negotiations between the Swiss Agency for Development and Cooperation (SDC) and the State Secretariat for Economic Affairs (SECO) and the National Development Agency acting as National Coordination Unit the Swiss Party hereby proposes to modify Annex 1 of the Framework Agreement as follows:
+
+– Annex 1, Article 5: Thematic Focus and Indicative Financial Allocations
+
+Table 1 “Security, Stability and Support for Reforms”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 1 “Regional development initiatives in peripheral or disadvantaged regions” shall be changed to “Up to 7,382159 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 2 “Prevention and management of natural disasters” shall be changed to “Up to 6,779742 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 9. “Security and security law” shall be changed to “Up to 11,996504 million CHF”.
+
+Table 2 “Environment and Infrastructure”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 3 “Rehabilitation and modernisation of basic infrastructure and Improvement of the environment” shall be changed to “Up to 35,737750 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 4 “Cross-border environmental initiatives, biodiversity and nature protection” shall be changed to “Up to 8,170260 million CHF”.
+
+Table 3 “Private Sector”
+
+– The amount in the column “Indicative financial allocation” of focus area No. 5 “Improving the business environment and the access to financing for SMEs” shall be changed to “Up to 15,215904 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of focus area No. 6 “Development of the private sector and promotion of exports of SMEs” shall be changed to “Up to 2,148899 million CHF”.
+
+Table 4 “Human and Social Development”
+
+– The amount in the column “indicative financial allocation” of focus area No. 7 “Research and development, Objective 1: To strengthen the scientific potential through enhanced access to education and through selective promotion programmes, under “Types of eligible projects”, “Scholarships for advanced degree and post-graduation programmes in Switzerland” shall be changed to “Up to 4,830000 million CHF”.
+
+– The amount in the column “indicative financial allocation” of focus area No. 7 “Research and Development, Objective 2: To contribute to the knowledge based economy through the enhancement of the knowledge base and in particular through applied research as well as know-how and technology transfer” shall be changed to “Up to 5,784096 million CHF”.
+
+Table 5 “Special Allocations”
+
+– The amount in the column “Indicative financial allocation” of the Item “Twinning and Partnerships” shall be changed to “Up to 4,000000 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of the Item “Project Preparation Facility” shall be changed to “Up to 0,892686 million CHF”.
+
+– The amount in the column “Indicative financial allocation” of the Item “Hungarian Technical Assistance” shall be changed to “Up to 2,260000 million CHF”.
+
+Table “Overview on the Indicative Allocations”
+
+– The wording of the second column shall be changed from “Indicative financial allocation (million CHF)” to “Indicative financial allocation (up to million CHF)”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “1. Security, Stability and support to Reforms” shall be decreased from “30,000” to “26,158405”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “2. Environment and Infrastructure” shall be increased from “40,738” to “43,908010”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “3. Private Sector” shall be decreased from “17,500” to “17,364803”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “4. Human and Social Development” shall be increased from “24,500” to “24,614096”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “5. Special Allocations” shall be increased from “18,000” to “18,692686”.
+
+– The amount in the column headed “Indicative financial allocation (million CHF)” corresponding to “6. Not yet allocated” remains unchanged.
+
+All other provisions in Annex 1 and the other Annexes to the Framework Agreement between the Swiss Federal Council and the Government of the Republic of Hungary concerning the implementation of the Swiss–Hungarian Cooperation Programme to reduce Economic and Social Disparities within the enlarged European Union, remain unchanged.
+
+Once the proposed amendments are accepted by the Hungarian Party, the present letter and the reply letter will be considered as an agreement on the amendment of Annex 1 of the Framework Agreement. The Agreement shall enter into force on the 15<sup>th</sup> day after the date of the Hungarian reply letter.”
+
+I wish to inform you that the Hungarian Party shares the understandings set forth in the Swiss Party's letter. Therefore, I have the honour to confirm that the Swiss Party's letter and this reply letter shall constitute an agreement between the Parties. The Agreement shall enter into force on the 15<sup>th</sup> day after the date of this Hungarian reply letter.
+
+Thank you for your valuable cooperation in this matter.
+
+Yours sincerely:
+
+Zoltán Petykó
+
+A LEVÉLVÁLTÁS hivatalos magyar nyelvű fordítása
+
+A SVÁJCI HATÓSÁGOK LEVELE
+
+Petykó Zoltán
+
+Elnök
+
+Nemzeti Fejlesztési Ügynökség
+
+Wesselényi u. 20–22.
+
+H-1077 Budapest
+
+Budapest, 2012…
+
+Tárgy: A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt és 2010. április 3-ai hatállyal módosított Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás 1. számú mellékletének módosítása
+
+Tisztelt Elnök Úr!
+
+Ezúton tisztelettel, hivatkozva a 2007. december 20-án aláírt, a Svájci Szövetségi Tanács és a Magyar Köztársaság kormánya között, a gazdasági és társadalmi egyenlőtlenségek csökkentését célzó, a Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás 11. cikkének (3) bekezdésében foglaltakra, a Szövetségi Külügyminisztérium és a Szövetségi Gazdasági Minisztérium nevében kezdeményezem a Keretmegállapodás 9. cikkében meghatározott illetékes hatóságok hozzájárulását a hivatkozott megállapodás 1. számú mellékletének módosításához.
+
+A Svájci Fejlesztési és Együttműködési Ügynökség (SFEÜ) és a Gazdasági Államtitkárság (GÁ), valamint a Nemzeti Fejlesztési Ügynökség, mint Nemzeti Koordinációs Egység között zajlott egyeztetések értelmében a svájci fél ezúton javasolja a Keretmegállapodás 1. számú mellékletének módosítását az alábbiak szerint:
+
+(b) 1. számú melléklet, 5. cikk: Tematikus koncentráció és indikatív keretösszegek
+
+1\. táblázat „Biztonság, Stabilitás, Reformok”
+
+– A „Regionális fejlesztési kezdeményezések periférikus és hátrányos helyzetű régiókban” elnevezésű, az 1. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „7,382159 millió CHF összegig”-re.
+
+– A „Természeti katasztrófák megelőzése és kezelése” elnevezésű, az 2. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „6,779742 millió CHF összegig”-re
+
+– Az új, 9. számú prioritási terület pénzügyi allokációja az „Indikatív keretösszeg” címet viselő oszlopában „11,996504 millió CHF összegig”-re változik.
+
+2\. táblázat „Környezet és infrastruktúra”
+
+– Az „Az alapinfrastruktúra javítása/helyreállítása és modernizációja, valamint a környezet fejlesztése” elnevezésű, a 3. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „35,737750 millió CHF összegig”-re.
+
+– A „Határon átnyúló környezeti kezdeményezések, biodiverzitás és természetvédelem” elnevezésű, a 4. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „8,170260 millió CHF összegig”-re.
+
+3\. táblázat „A magánszektor támogatása”,
+
+– Az „Az üzleti környezet fejlesztése és a finanszírozáshoz való hozzáférés elősegítése a kis- és középvállalkozások vonatkozásában” elnevezésű, a 5. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „15,215904 millió CHF összegig”-re.
+
+– Az „A magánszektor fejlesztése és a kis- és középvállalkozások exportjának elősegítése” elnevezésű, a 6. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „2,148899 millió CHF összegig”-re.
+
+4\. táblázat „Humánerőforrás- és társadalomfejlesztés”
+
+– Az „Indikatív keretösszeg” elnevezésű oszlopban, a 7. számú, „Kutatás és fejlesztés”, nevű terület, 1. célkitűzés „A tudományos potenciál megerősítése az oktatáshoz való hozzáférés és szelektív támogatási programok segítségével” részben a „A támogatható projektek típusai:”, címszó alatt az „Ösztöndíjak felsőfokú és másoddiplomás programokra Svájcban” szereplő összeget meg kell változtatni „4,830000 millió CHF összegig”-re.
+
+– Az „Indikatív keretösszeg” elnevezésű oszlopban, a 7. számú, „Kutatás és fejlesztés”, elnevezésű prioritási terület, 2. célkitűzés „A tudás alapú gazdaság támogatása a tudásalap megerősítésével, elsősorban az alkalmazott kutatás, a know-how és technológia transzfer segítségével” szereplő összeget meg kell változtatni „5,784096 millió CHF összegig”-re.
+
+5\. táblázat „További allokáció”
+
+– A „Twinning és partnerség” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „4,000000 millió CHF összegig”-re.
+
+– A „Projekt-előkészítési Alap” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „0,892686 millió CHF összegig”-re.
+
+– A „Technikai segítségnyújtás költsége – Magyarország” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „2,260000 millió CHF összegig”-re.
+
+Táblázat „Az indikatív keretösszegek áttekintése”
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban szereplő szövegezést „Indikatív pénzügyi keretösszeg (millió CHF összegig)” szövegre kell módosítani.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos az „1. Biztonság, stabilitás, reformok”-kal, az összeget le kell csökkenteni „30,000”-ról „26,158405-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „2. Környezetvédelem és infrastruktúra”-val, az összeget meg kell növelni „40,738-ról „43,908010-ra”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „3. A magánszektor támogatása” -val, az összeget le kell csökkenteni „17,500” -ről „17,364803-re”
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „4. Humánerőforrás- és társadalomfejlesztés”-sel, az összeget meg kell növelni „24,500”-ről „24,614096-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos az „5. További allokáció”-val, az összeget meg kell növelni „18,000”-ről „18,692686-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „6. Még nem allokált”-tal, az összeg változatlan marad.
+
+Az 1. számú melléklet és a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás további mellékletei vonatkozásában az összes egyéb rendelkezés változatlan marad.
+
+A javasolt módosítások Magyarország Kormánya általi elfogadását követően a jelen levél és a válaszlevél együtt a Felek között létrejött megállapodássá válik. A Megállapodás a magyar féltől kapott válaszlevél keltétől számított 15. napon lép életbe.
+
+Szívélyes üdvözlettel:
+
+Martin Dahinden\
+Svájci Fejlesztési és Együttműködési\
+Ügynökség (SFEÜ)
+
+Marie-Gabrielle Ineichen\
+Gazdasági Államtitkárság (GÁ)
+
+A MAGYAR HATÓSÁG LEVELE
+
+Martin Dahinden\
+Főigazgató\
+Svájci Fejlesztési és Együttműködési\
+Ügynökség (SFEÜ)\
+Freiburgstrasse 130\
+CH – 3003 Bern
+
+Marie-Gabrielle Ineichen\
+Államtitkár\
+Gazdasági Államtitkárság (GÁ)\
+Effingerstrasse 1\
+CH – 3003 Bern
+
+Budapest, 2012.
+
+Iktatószám:
+
+Tárgy: A kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány által 2007. december 20-án aláírt és 2010. április 3-ai hatállyal módosított Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás 1. számú mellékletének módosítása
+
+Tisztelt Dahinden Úr, Tisztelt Ineichen Asszony!
+
+Tisztelettel hivatkozom 2012. …………..-i levelére, amely a következőket tartalmazta:
+
+„Ezúton tisztelettel, hivatkozva a 2007. december 20-án aláírt, a Svájci Szövetségi Tanács és a Magyar Köztársaság kormánya között, a gazdasági és társadalmi egyenlőtlenségek csökkentését célzó, a Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás 11. cikkének (3) bekezdésében foglaltakra, a Szövetségi Külügyminisztérium és a Szövetségi Gazdasági Minisztérium nevében kezdeményezem a Keretmegállapodás 9. cikkében meghatározott illetékes hatóságok hozzájárulását a hivatkozott megállapodás 1. számú mellékletének módosításához.
+
+A Svájci Fejlesztési és Együttműködési Ügynökség (SFEÜ) és a Gazdasági Államtitkárság (GÁ), valamint a Nemzeti Fejlesztési Ügynökség, mint Nemzeti Koordinációs Egység között zajlott egyeztetések értelmében a svájci fél ezúton javasolja a Keretmegállapodás 1. számú mellékletének módosítását az alábbiak szerint:
+
+1\. számú melléklet, 5. cikk: Tematikus koncentráció és indikatív keretösszegek
+
+1\. táblázat „Biztonság, Stabilitás, Reformok”
+
+– A „Regionális fejlesztési kezdeményezések periférikus és hátrányos helyzetű régiókban” elnevezésű, az 1. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „7,382159 millió CHF összegig”-re.
+
+– A „Természeti katasztrófák megelőzése és kezelése” elnevezésű, az 2. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „6,779742 millió CHF összegig”-re
+
+– Az új, 9. számú prioritási terület pénzügyi allokációja az „Indikatív keretösszeg” címet viselő oszlopában „11,996504 millió CHF összegig”-re változik.
+
+2\. táblázat „Környezet és infrastruktúra”
+
+– Az „Az alapinfrastruktúra javítása/helyreállítása és modernizációja, valamint a környezet fejlesztése” elnevezésű, a 3. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „35,737750 millió CHF összegig”-re.
+
+– A „Határon átnyúló környezeti kezdeményezések, biodiverzitás és természetvédelem” elnevezésű, a 4. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „8,170260 millió CHF összegig”-re.
+
+3\. táblázat „A magánszektor támogatása”,
+
+– Az „Az üzleti környezet fejlesztése és a finanszírozáshoz való hozzáférés elősegítése a kis- és középvállalkozások vonatkozásában” elnevezésű, a 5. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „15,215904 millió CHF összegig”-re.
+
+– Az „A magánszektor fejlesztése és a kis- és középvállalkozások exportjának elősegítése” elnevezésű, a 6. számú prioritási terület „Indikatív keretösszeg” címet viselő oszlopában szereplő összeget meg kell változtatni „2,148899 millió CHF összegig”-re.
+
+4\. táblázat „Humánerőforrás- és társadalomfejlesztés”
+
+– Az „Indikatív keretösszeg” elnevezésű oszlopban, a 7. számú, „Kutatás és fejlesztés”, nevű terület, 1. célkitűzés „A tudományos potenciál megerősítése az oktatáshoz való hozzáférés és szelektív támogatási programok segítségével” részben a „A támogatható projektek típusai:”, címszó alatt az „Ösztöndíjak felsőfokú és másoddiplomás programokra Svájcban” szereplő összeget meg kell változtatni „4,830000 millió CHF összegig”-re.
+
+– Az „Indikatív keretösszeg” elnevezésű oszlopban, a 7. számú, „Kutatás és fejlesztés”, elnevezésű prioritási terület, 2. célkitűzés „A tudás alapú gazdaság támogatása a tudásalap megerősítésével, elsősorban az alkalmazott kutatás, a know-how és technológia transzfer segítségével” szereplő összeget meg kell változtatni „5,784096 millió CHF összegig”-re.
+
+5\. táblázat „További allokáció”
+
+– A „Twinning és partnerség” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „4,000000 millió CHF összegig”-re.
+
+– A „Projekt-előkészítési Alap” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „0,892686 millió CHF összegig”-re.
+
+– A „Technikai segítségnyújtás költsége – Magyarország” elnevezésű Tétel „Indikatív keretösszeg” nevű oszlopában az összeget meg kell változtatni „2,260000 millió CHF összegig”-re.
+
+Táblázat „Az indikatív keretösszegek áttekintése”
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban szereplő szövegezést „Indikatív pénzügyi keretösszeg (millió CHF összegig)” szövegre kell módosítani.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos az „1. Biztonság, stabilitás, reformok”-kal, az összeget le kell csökkenteni „30,000”-ról „26,158405-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „2. Környezetvédelem és infrastruktúra”-val, az összeget meg kell növelni „40,738-ról „43,908010-ra”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „3. A magánszektor támogatása” -val, az összeget le kell csökkenteni „17,500” -ről „17,364803-re”
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „4. Humánerőforrás- és társadalomfejlesztés”-sel, az összeget meg kell növelni „24,500”-ről „24,614096-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos az „5. További allokáció”-val, az összeget meg kell növelni „18,000”-ről „18,692686-re”.
+
+– Az „Indikatív pénzügyi keretösszeg (millió CHF)” fejlécű oszlopban, amely azonos a „6. Még nem allokált”-tal, az összeg változatlan marad.
+
+Az 1. számú melléklet és a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás további mellékletei vonatkozásában az összes egyéb rendelkezés változatlan marad.
+
+A javasolt módosítások Magyarország Kormánya általi elfogadását követően a jelen levél és a válaszlevél együtt a Felek között létrejött megállapodássá válik. A Megállapodás a magyar féltől kapott válaszlevél keltétől számított 15. napon lép életbe.”
+
+Ezúton tájékoztatom, hogy a magyar fél egyetért a svájci fél levelében megfogalmazottakkal. Ennek következtében ezúton tisztelettel megerősítem, hogy a svájci fél levele és jelen válaszlevél a Felek közötti megállapodásnak tekintendő. A Megállapodás a magyar féltől kapott jelen válaszlevél keltétől számított 15. napon lép életbe.
+
+Köszönöm az ügyben tanúsított értékes együttműködését.
+
+Tisztelettel,
+
+Petykó Zoltán”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményében állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a fejlesztéspolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+
+(5) A Keretmegállapodásnak a 66/2010. (III. 18.) Korm. rendelettel kihirdetett, a Keretmegállapodás módosításáról szóló levélváltással létrejött egyezményben, valamint az e rendelettel kihirdetett Egyezményben foglalt módosításokkal egységes szerkezetbe foglalt szövegének az Egyezmény hatálybalépését követően történő haladéktalan közzétételéről a miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba. A 34/2012. (VI. 25.) KüM közlemény alapján a hatálybalépés időpontja 2012. június 13.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény záró rendelkezésében meghatározott időpontban lép hatályba. A 34/2012. (VI. 25.) KüM közlemény alapján a hatálybalépés időpontja 2012. június 13.
+[^3]: A 34/2012. (VI. 25.) KüM közlemény alapján a hatálybalépés időpontja 2012. június 13.
+[^4]: Lásd a 34/2012. (VI. 25.) KüM közleményt.

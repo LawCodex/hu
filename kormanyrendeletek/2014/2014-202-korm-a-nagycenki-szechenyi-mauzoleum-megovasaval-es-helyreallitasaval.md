@@ -1,0 +1,113 @@
+---
+title: "202/2014. (VIII. 14.) Korm. rendelet a nagycenki Széchenyi-mauzóleum megóvásával és helyreállításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "202/2014. (VIII. 14.) Korm. rendelet"
+njt_id: "2014-202-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2014/Korm/202"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2014-08-14
+in_force_from: 2014-08-15
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-202-20-22"
+retrieved: 2026-10-12
+---
+
+# 202/2014. (VIII. 14.) Korm. rendelet a nagycenki Széchenyi-mauzóleum megóvásával és helyreállításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d), e) és f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdésében kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+
+rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nagycenk, 452/2 helyrajzi számú ingatlanon fekvő Széchenyi-mauzóleum megóvásához és helyreállításához szükséges tudományos feltárási, tervezési, valamint kivitelezési munkálatokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2)–(3)[^1]
+
+## 2. §[^2]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+(1)[^3]
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő nyolc nap.
+
+(3)[^4]
+
+(4)[^5]
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+## 1. melléklet a 202/2014. (VIII. 14.) Korm. rendelethez
+
+**A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások**
+
+Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
+
+1\. környezetvédelmi hatósági eljárások,
+
+2\. természetvédelmi hatósági eljárások,
+
+3\. általános építésügyi hatósági eljárások,
+
+4\. területrendezési hatósági eljárások,
+
+5\. örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
+
+6\. vízügyi hatósági eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8.[^6] iparbiztonsági hatósági eljárások,
+
+9\. útügyi hatósági eljárások,
+
+10.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+11\. műszaki biztonsági engedélyezési eljárások,
+
+12\. hírközlési hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. földmérési hatósági eljárások,
+
+16\. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. erdővédelmi hatósági eljárások,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. vízvédelmi hatósági eljárások,
+
+21\. azok a további hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez (üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
+
+22\. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (2)–(3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 150. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 89. § (1) bekezdésével megállapított, az 546/2022. (XII. 22.) Korm. rendelet 53. § a)-c) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 150. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 150. § b) pontja hatályon kívül helyezte.
+[^5]: A 3. § (4) bekezdését a 72/2015. (III. 30.) Korm. rendelet 89. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^6]: Az 1. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 125. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 80. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

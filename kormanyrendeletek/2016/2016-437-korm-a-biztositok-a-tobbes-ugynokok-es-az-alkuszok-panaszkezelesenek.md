@@ -1,0 +1,89 @@
+---
+title: "437/2016. (XII. 16.) Korm. rendelet a biztosítók, a többes ügynökök és az alkuszok panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról"
+identifier: "437/2016. (XII. 16.) Korm. rendelet"
+njt_id: "2016-437-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2016/Korm/437"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2016-12-16
+in_force_from: 2017-01-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-437-20-22"
+retrieved: 2026-10-12
+---
+
+# 437/2016. (XII. 16.) Korm. rendelet a biztosítók, a többes ügynökök és az alkuszok panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról
+
+A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 437. § *g)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. A biztosító panaszkezelése
+
+### 1. §
+
+(1) A biztosító a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 159. § (1) bekezdése szerinti
+
+a) szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig, de legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan,
+
+b) telefonon közölt szóbeli panaszt minden munkanapon 8 órától 16 óráig, de legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan,
+
+c) írásbeli panaszt elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan
+
+fogadja.
+
+(2) A biztosító a szóbeli panasz ügyfelek részére nyitva álló helyiségben vagy annak hiányában székhelyén történő kezelése esetén köteles biztosítani, hogy az ügyfeleknek lehetőségük legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására. A személyes ügyintézés időpontja igénylésének napjától számított öt munkanapon belül a biztosító köteles személyes ügyfélfogadási időpontot biztosítani az ügyfél számára.
+
+(3) Telefonon történő panaszkezelés esetén a biztosító biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A biztosító az ügyintézőjének – a biztosító felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
+
+(4) A biztosító a szóbeli panaszt – az (5) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a biztosító a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (6) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
+
+(5) Ha a panasz azonnali kivizsgálása nem lehetséges, a biztosító a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (6) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
+
+(6) A biztosító az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek. A biztosító a panaszkezelés során köteles úgy eljárni, hogy a körülmények által adott lehetőségekhez mérten elkerülje a pénzügyi fogyasztói jogvita kialakulását.
+
+(7) A panasz elutasítása esetén a biztosító válaszában írásban tájékoztatja az ügyfelet arról, hogy a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben meghatározott fogyasztóvédelmi rendelkezések megsértése esetén a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Banknál fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A biztosítónak tájékoztatni kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a biztosító rendelkezésére bocsátott kérelem nyomtatványt.
+
+(8) A biztosító az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (9) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A biztosító a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
+
+(9) A biztosító az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
+
+(10) A (9) bekezdés szerinti nyilvántartásnak tartalmaznia kell
+
+a) a panasz leírását, a panasz tárgyát képező esemény vagy tény megjelölését,
+
+b) a panasz benyújtásának időpontját,
+
+c) a panasz rendezésére vagy megoldására szolgáló intézkedés leírását, elutasítás esetén annak indokát,
+
+d) a *c)* pont szerinti intézkedés teljesítésének határidejét és a végrehajtásért felelős személy megnevezését, továbbá
+
+e) a panasz megválaszolásának időpontját.
+
+(11)[^1] A biztosító a panaszkezelési szabályzatot a honlapján és az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén közzéteszi.
+
+## 2. A többes ügynök és az alkusz panaszkezelése
+
+### 2. §
+
+(1) A többes ügynök és az alkusz a Bit. 382. § (1) bekezdése szerinti
+
+a) szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig,
+
+b) telefonon közölt szóbeli panaszt minden munkanapon 8 órától 16 óráig, de legalább a hét egy munkanapján 8 órától 20 óráig,
+
+c) az írásbeli panaszt elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan
+
+fogadja.
+
+(2) A többes ügynök és az alkusz panaszkezelésére egyebekben az 1. § (2)–(11) bekezdése rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
+
+## 3. Záró rendelkezések
+
+### 3. §
+
+Ez a rendelet 2017. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § (11) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.

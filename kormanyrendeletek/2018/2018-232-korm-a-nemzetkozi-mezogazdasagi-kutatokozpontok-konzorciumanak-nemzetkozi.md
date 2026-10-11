@@ -1,0 +1,463 @@
+---
+title: "232/2018. (XII. 6.) Korm. rendelet a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló, 2011. szeptember 13-án Montpellier-ben aláírt Megállapodás és módosítása kihirdetéséről"
+identifier: "232/2018. (XII. 6.) Korm. rendelet"
+njt_id: "2018-232-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2018/Korm/232"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2018-12-06
+in_force_from: 2018-12-07
+last_amended: 2019-03-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-232-20-22"
+retrieved: 2026-10-12
+---
+
+# 232/2018. (XII. 6.) Korm. rendelet a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló, 2011. szeptember 13-án Montpellier-ben aláírt Megállapodás és módosítása kihirdetéséről
+
+*(A Megállapodás Magyarország vonatkozásában 2012. július 20-án lépett nemzetközi jogilag hatályba.)*
+
+## 1. §
+
+A Kormány a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló, 2011. szeptember 13-án Montpellier-ben aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**“Agreement establishing the Consortium of International Agricultural Research Centers as an International Organization**
+
+Whereas the Consultative Group on International Agricultural Research (hereinafter “CGIAR”) was established in 1971 as an informal network of public and private sector entities from the South and the North committed to mobilizing international agricultural research to support agricultural development in developing countries;
+
+Whereas international agricultural research is critical in meeting the challenges of hunger, malnutrition and poverty in an age of climate change; Whereas the CGIAR in 2008 adopted a new vision for the CGIAR “To reduce poverty and hunger, improve human health and nutrition, and enhance ecosystem resilience through high-quality international agricultural research, partnership and leadership”;
+
+Whereas the CGIAR has also approved far-reaching organizational reforms which aim at promoting active engagement and partnership with a wide range of stakeholders, including national agricultural research systems, universities, nongovernmental organizations and the private sector, optimizing research effectiveness and efficiency, strengthening capacity and country ownership, and fully utilizing CGIAR research for achieving development impacts;
+
+Whereas the CGIAR now consists of a global research-for-development partnership involving the CGIAR funders, the Consortium of International Agricultural Research Centers and other partners, working together to implement a common strategy;
+
+Whereas, as part of the reform, the Consortium of International Agricultural Research Centers was established by the fifteen International Agricultural Research Centers supported by the CGIAR[^1], on 29 April 2010, as a contractual joint venture pending its formal establishment as an international organization;
+
+Whereas the parties (hereinafter “Parties”) to this agreement (hereinafter “Agreement”) now wish to establish the Consortium of International Agricultural Research Centers as an international organization with its own international legal personality in accordance with the terms set forth below;
+
+NOW THEREFORE the Parties agree as follows:
+
+**Article 1**
+
+**Establishment of the Consortium as an international organization**
+
+(1) The Consortium of International Agricultural Research Centers (hereinafter “Consortium”) is hereby established as an independent international organization with full international legal personality, enjoying such legal capacity as may be necessary for the exercise of its functions and powers, and the fulfillment of its purposes, including in particular, and without prejudice to the generality of the forgoing, the legal capacity:
+
+(a) to enter into treaties, agreements and contracts;
+
+(b) to acquire and dispose of movable and immovable property; and
+
+(c) to institute and respond to legal proceedings.
+
+(2) The Consortium shall be the successor in title of the Consortium of International Agricultural Research Centers established as a contractual joint venture by the fifteen International Agricultural Research Centers in accordance with the agreement dated April 29, 2010.
+
+**Article 2**
+
+**Purpose and activities of the Consortium**
+
+(1) The purpose of the Consortium shall be to provide leadership to the CGIAR system and coordinate activities among Member Centers and other partners under a common strategy, in order to enable them to enhance their individual and collective contribution to the achievement of the CGIAR vision.
+
+(2) The Consortium shall carry out such activities as may be necessary for the fulfillment of the purpose of the Consortium.
+
+**Article 3**
+
+**Internal rules of the Consortium**
+
+The Consortium shall operate in accordance with the rules set out in the constitution (including its exhibits) annexed hereto (“Constitution”). In no event shall the Constitution have the effect of creating or imposing any obligations on the Parties.
+
+**Article 4**
+
+**General undertaking as to implementation**
+
+(1) The Parties shall take all appropriate measures to facilitate the achievement of the purpose of the Consortium and the carrying out of obligations resulting from decisions taken by the organs of the Consortium.
+
+(2) Nothing in this Agreement shall have the effect of creating or imposing a financial obligation on the Parties.
+
+**Article 5**
+
+**Rights, privileges and immunities**
+
+(1) The rights, privileges and immunities granted to the Consortium, its staff members and official visitors in the territory of the host country shall be specifically defined in a headquarters agreement between the Consortium and the host country.
+
+(2) The rights, privileges and immunities referred to in the preceding paragraph are to be provided to ensure in all circumstances the unimpeded functioning of the Consortium and the independence of the persons to whom they are accorded.
+
+**Article 6**
+
+**Dissolution and liquidation of the Consortium**
+
+The Consortium Board shall consult with the Parties hereto prior to any decision to dissolve the Consortium.
+
+**Article 7**
+
+**Becoming a Party to this Agreement**
+
+(1) All States that are members of the United Nations, of any of its specialized agencies or of the International Atomic Energy Agency, may become Parties to this Agreement.
+
+(2) The States referred to in the preceding paragraph become Parties to this Agreement by either:
+
+(a) signing this Agreement without reservation as to ratification, acceptance or approval; or
+
+(b) signing this Agreement subject to ratification, acceptance or approval and subsequently ratifying, accepting or approving it; or
+
+(c) depositing an instrument of accession following the entry into force of this Agreement.
+
+(3) This Agreement shall be open for signature as of September 13, 2011.
+
+**Article 8**
+
+**Entry into Force of this Agreement**
+
+This Agreement shall enter into force when any two States have become Parties to it as provided in Article 7 (2) (a) and (b) above. This Agreement shall then enter into force for each State that subsequently becomes a Party to this Agreement upon the date of deposit by that State of an instrument of accession with the Depositary.
+
+**Article 9**
+
+**Amendments**
+
+(1) Amendments to this Agreement
+
+(a) Amendments to this Agreement (excluding the Constitution) may be proposed by any Party. Proposals for such amendments shall be communicated to the Depositary who shall circulate them to all Parties as soon as possible thereafter.
+
+(b) Such amendments shall enter into force for the Parties which have adopted them upon the deposit of instruments of ratification, acceptance or approval of such amendments by two-thirds of the Parties, in accordance with the procedure set out in Article 7 (2) (c). For the Parties who subsequently ratify, accept or approve such amendments, they shall enter into force on the date of the deposit by such Parties of their instrument of ratification, acceptance or approval. Parties that have not ratified, accepted or approved such amendments shall not be bound by them.
+
+(2) Amendments to the Constitution
+
+(a) Amendments to the Constitution shall be made in accordance with the procedures set out in Article 22 of the Constitution and shall be notified by the Depositary (as defined in Article 12 below) to all Parties.
+
+(b) Such amendments to the Constitution shall in no event have the effect of creating or imposing any obligations on the Parties.
+
+**Article 10**
+
+**Withdrawal**
+
+Any Party may, by written instrument to the Depositary, withdraw from this Agreement. Such withdrawal shall become effective three months after the date on which the Depositary has received such instrument.
+
+**Article 11**
+
+**Settlement of Disputes**
+
+(1) Any dispute arising in connection with the interpretation or application of this Agreement by shall be settled by negotiation or consultation between the Parties.
+
+(2) The Consortium Board may offer its good offices for the amicable settlement of any such dispute.
+
+**Article 12**
+
+**Depositary**
+
+The Government of the French Republic shall be the depositary of this Agreement (“Depositary”).
+
+**Article 13**
+
+**Authentic text**
+
+(1) This Agreement shall be signed in a single copy in English and French, both being equally authentic.
+
+(2) Official translations of this Agreement in other languages may be established after consultation with the interested Governments. Such official translations shall not be considered authentic.”
+
+**„Megállapodás a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozása tárgyában**
+
+minthogy 1971-ben létrejött a Nemzetközi Mezőgazdasági Kutatási Tanácsadó Csoport (a továbbiakban: CGIAR) mint állami és a magánszektorhoz tartozó, Déli és Északi intézmények olyan informális hálózata, amely elkötelezett a nemzetközi mezőgazdasági kutatás mozgósítása iránt a fejlődő országok mezőgazdasága fejlesztésének támogatása céljából;
+
+minthogy a nemzetközi mezőgazdasági kutatás döntő fontosságú azon kihívások leküzdéséhez, amelyeket az éhezés, az alultápláltság és a szegénység jelent az éghajlatváltozás időszakában, minthogy a CGIAR 2008-ban elfogadott új jövőképe: „A szegénység és az éhezés enyhítése, az emberek egészségének és táplálkozásának javítása és az ökoszisztéma rugalmasságának fokozása magas színvonalú nemzetközi mezőgazdasági kutatás, partneri együttműködés és irányítás révén”;
+
+minthogy a CGIAR nagyszabású szervezeti reformokról is döntött, amelyeknek célja az aktív szerepvállalás és az érdekeltek széles körével, köztük nemzeti mezőgazdasági kutató rendszerekkel, egyetemekkel, nem kormányzati szervezetekkel és a magánszektor képviselőivel való partneri együttműködés elősegítése, a kutatások hatékonyságának és eredményességének optimalizálása, a kapacitás és az országok tulajdonának megerősítése, valamint a CGIAR kutatásainak teljes körű hasznosítása a fejlesztési hatások elérése érdekében;
+
+minthogy jelenleg a CGIAR egy globális, fejlesztési célú kutatási partneri együttműködést testesít meg a CGIAR finanszírozói, a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciuma és más partnerek részvételével, amelyek együttesen munkálkodnak egy közös stratégia megvalósításán;
+
+minthogy a reform részeként a CGIAR által támogatott tizenöt nemzetközi mezőgazdasági kutatóközpont[^2] 2010. április 29-én létrehozta a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumát mint szerződéses vegyesvállalatot annak nemzetközi szervezetként történő hivatalos megalapításáig;
+
+minthogy a jelen megállapodás (a továbbiakban: Megállapodás) részesei (a továbbiakban: Felek) most saját jogi személyiséggel rendelkező nemzetközi szervezetként létre kívánják hozni a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumát, az alábbiakban ismertetett feltételek szerint;
+
+EZÉRT EZENNEL a Felek az alábbiakban állapodnak meg:
+
+**1. cikk**
+
+**A Konzorcium nemzetközi szervezetként történő létrehozása**
+
+(1) Ezennel létrejön a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciuma (a továbbiakban: Konzorcium) mint teljes körű nemzetközi jogi személyiséggel rendelkező független nemzetközi szervezet, amely birtokában van a feladat- és hatáskörének gyakorlásához és rendeltetésének teljesítéséhez szükséges jogképességnek, különösen beleértve – és az előzőekben említettek általános érvényességének csorbítása nélkül – az alábbiakra vonatkozó jogosultságokat:
+
+*a)* egyezmények, megállapodások és szerződések kötése;
+
+*b)* ingó és ingatlan vagyontárgyak megszerzése és elidegenítése, valamint
+
+*c)* jogi eljárások kezdeményezése és ilyen eljárásokban azok alanyaként való részvétel.
+
+(2) A Konzorcium jogutódja a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának, amelyet tizenöt nemzetközi mezőgazdasági kutatóközpont a 2010. április 29-én kelt megállapodás értelmében szerződéses vegyesvállalatként hozott létre.
+
+**2. cikk**
+
+**A Konzorcium célja és tevékenysége**
+
+(1) A Konzorcium arra hivatott, hogy ellássa a CGIAR rendszer irányítását, és közös stratégia jegyében összehangolja a tagközpontok és a többi partner tevékenységét annak érdekében, hogy lehetővé tegye számukra a CGIAR elé felvázolt jövőkép megvalósításához való egyéni és együttes hozzájárulásuk fokozását.
+
+(2) A Konzorcium a célkitűzéseinek teljesítéséhez szükséges tevékenységeket fejti ki.
+
+**3. cikk**
+
+**A Konzorcium belső szabályai**
+
+A Konzorcium a csatolt alapszabályban (és annak függelékeiben) (a továbbiakban: Alapszabály) rögzített szabályok szerint működik. Az Alapszabály hatálya semmiképpen nem terjed ki arra, hogy a Felekre nézve kötelezettségeket teremtsen vagy ilyeneket rójon rájuk.
+
+**4. cikk**
+
+**A végrehajtás általános vállalása**
+
+(1) A Felek minden szükséges intézkedést megtesznek a Konzorcium rendeltetéseként meghatározott célok elérésének és a Konzorcium szervei által hozott döntésekből eredő kötelezettségek teljesítésének elősegítése érdekében.
+
+(2) A jelen Megállapodásban foglaltak semmilyen tekintetben nem teremtenek pénzügyi kötelezettségeket a Felekre nézve, illetve ilyeneket nem rónak rájuk.
+
+**5. cikk**
+
+**Jogok, kiváltságok és mentességek**
+
+(1) A Konzorciumnak, személyzete tagjainak és hivatalos látogatóinak a befogadó ország területén megadott jogokat, kiváltságokat és mentességeket a Konzorcium és a befogadó ország között megkötendő székhely-megállapodásban kell pontosan rögzíteni.
+
+(2) Az előző bekezdésben említett jogokat, kiváltságokat és mentességeket azért kell biztosítani, hogy minden körülmények között garantálható legyen a Konzorcium akadálytalan működése és azon személyek függetlensége, akiket a szóban forgó jogok, kiváltságok és mentességek megilletnek.
+
+**6. cikk**
+
+**A Konzorcium megszüntetése és felszámolása**
+
+A Konzorcium feloszlatására vonatkozó bármely döntés meghozatala előtt a Konzorcium Igazgatóságának konzultálnia kell a Felekkel.
+
+**7. cikk**
+
+**A jelen Megállapodás részesévé válás**
+
+(1) Mindazok az államok a jelen Megállapodás részeseivé válhatnak, amelyek tagjai az Egyesült Nemzetek Szervezetének, annak valamely szakosított szervének, illetve a Nemzetközi Atomenergia-ügynökségnek.
+
+(2) Az előző bekezdésben említett államok az alábbiak szerint válhatnak a jelen Megállapodás részeseivé:
+
+*a)* a jelen Megállapodás megerősítés, elfogadás vagy jóváhagyás fenntartása nélküli aláírásával, vagy
+
+*b)* a jelen Megállapodás megerősítés, elfogadás vagy jóváhagyás fenntartásával történő aláírásával és annak későbbi megerősítésével, elfogadásával vagy jóváhagyásával, vagy
+
+*c)* a jelen Megállapodás hatálybalépését követően csatlakozási okirat letétbe helyezésével.
+
+(3) A jelen Megállapodás 2011. szeptember 13-ától aláírásra nyitva áll.
+
+**8. cikk**
+
+**A jelen Megállapodás hatálybalépése**
+
+A jelen Megállapodás akkor lép hatályba, amikor bármely két állam a fenti 7. cikk (2) bekezdés *a)* és *b)* pontjában leírt módon annak részesévé válik. A jelen Megállapodás a később részesévé váló egyes államokra vonatkozóan azon a napon lép hatályba, amelyen a szóban forgó állam a Letéteményesnél letétbe helyezi a csatlakozási okiratot.
+
+**9. cikk**
+
+**Módosítások**
+
+(1) A jelen Megállapodást érintő módosítások
+
+*a)* A jelen Megállapodásra vonatkozóan (az Alapszabály kivételével) bármelyik Fél javasolhat módosításokat. A módosító javaslatokat a Letéteményes részére kell megküldeni, aki azokat a lehető legrövidebb időn belül valamennyi Félhez eljuttatja.
+
+*b)* Az ilyen módosítások az azokat elfogadó Felekre nézve akkor lépnek hatályba, amikor a kérdéses módosítások megerősítésére, elfogadására illetve jóváhagyására vonatkozó okiratot a Felek kétharmada a 7. cikk (2) bekezdés *c)* pontjában rögzített eljárás szerint letétbe helyezte. Azokra a Felekre nézve, amelyek a módosításokat később erősítik meg, fogadják el vagy hagyják jóvá, a módosítások akkor lépnek hatályba, amikor a szóban forgó Felek a megerősítésre, elfogadásra vagy jóváhagyásra vonatkozó okiratukat letétbe helyezik. Azokra a Felekre nézve, amelyek a módosításokat nem erősítik meg, nem fogadják el vagy nem hagyják jóvá, ezek a módosítások nem kötelezőek.
+
+(2) Az Alapszabályt érintő módosítások
+
+*a)* Az Alapszabályt érintő módosítások esetében az Alapszabály 22. cikkében foglaltak szerint kell eljárni, és ezekről a módosításokról – a lenti 12. cikkben meghatározott – Letéteményesnek valamennyi Felet értesítenie kell.
+
+*b)* Az Alapszabály szóban forgó módosításainak hatálya semmiképpen nem terjed ki arra, hogy a Felekre nézve kötelezettségeket teremtsen vagy ilyeneket rójon rájuk.
+
+**10. cikk**
+
+**Kilépés**
+
+A Felek bármelyike a Letéteményeshez eljuttatott írásos okirat útján léphet ki a jelen Megállapodásból. A kilépés azon naptól számított három hónap múlva hatályosul, amely napon a Letéteményes az arról szóló okiratot kézhez vette.
+
+**11. cikk**
+
+**A vitás kérdések rendezése**
+
+(1) A jelen Megállapodás értelmezése vagy alkalmazása kapcsán felmerülő bármely vitás kérdést a Felek közötti tárgyalással vagy konzultációval kell rendezni.
+
+(2) A Konzorcium Igazgatósága az ilyen vitás ügyek békés rendezéséhez felajánlhatja jószolgálati közreműködését.
+
+**12. cikk**
+
+**Letéteményes**
+
+A jelen Megállapodás letéteményese (a továbbiakban: Letéteményes) a Francia Köztársaság kormánya.
+
+**13. cikk**
+
+**Hiteles szöveg**
+
+(1) A jelen Megállapodást egy példányban kell aláírni, angol és francia nyelven – mindkét nyelvű szöveg egyaránt hiteles.
+
+(2) A jelen Megállapodásról más nyelvű hivatalos fordítások az érdekelt kormányokkal való konzultáció után készíthetők. Az ilyen hivatalos fordítások nem tekinthetők hiteleseknek.”
+
+## 3. §
+
+A Kormány e rendelettel felhatalmazást ad a Megállapodás módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 4. §[^3]
+
+A Kormány a Módosítást e rendelettel kihirdeti.
+
+## 5. §[^4]
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**“Amendment modifying the Agreement establishing the Consortium of International Agricultural Research Centers as an International Organization signed in Montpellier on September 13, 2011.**
+
+The Government of Hungary, the Government of the French Republic, the Government of the Kingdom of Denmark, hereinafter the “Parties”;
+
+Considering the Agreement establishing the Consortium of International Agricultural Research Centers as an International Organization (hereinafter the “Agreement”);
+
+Considering that the Consultative Group on International Agricultural Research wishes to reform its structure and governance;
+
+Considering that it follows from these organizational reforms that the “Consultative Group on International Agricultural Research” and the “Consortium of International Agricultural Research Centers” are now referred to respectively as “CGIAR” or the “CGIAR System” and the “CGIAR System Organization”;
+
+Now agree as follows:
+
+**Article 1**
+
+In the Agreement preamble:
+
+1) In paragraph 1, the words “hereinafter CGIAR” shall be replaced by the words “now called CGIAR or CGIAR System”.
+
+2) Paragraph 5, which reads as follows, “Whereas the CGIAR now consists of a global research-for-development partnership involving the CGIAR funders, the Consortium of International Agricultural Research Centers and other partners, working together to implement a common strategy” shall be replaced by “Whereas the CGIAR System consists of a global research-for-development partnership involving the CGIAR Research Centers, the CGIAR Funders, the Council of Strategic Decision of the CGIAR System and its consultative bodies, and the CGIAR System Organization, working together to implement a common strategy”.
+
+3) In paragraphs 3 and 4, the words “the CGIAR” shall be replaced by “CGIAR”.
+
+**Article 2**
+
+In the Agreement, except in the preamble, paragraph 6 and in Article 1, paragraph 2, the words “Consortium of International Agricultural Research Centers” shall be replaced by “CGIAR System Organization”.
+
+**Article 3**
+
+In the Agreement, the word “Consortium” shall be replaced by “System Organization”.
+
+**Article 4**
+
+In the Agreement, the words “Constitution” and “constitution” shall be replaced by “Charter”.
+
+**Article 5**
+
+In Article 2, paragraph 1, the words “CGIAR system” shall be replaced by “CGIAR System” and the words “Member Centers” shall be replaced by “CGIAR Research Centers”.
+
+**Article 6**
+
+In Article 3, the words “(including its exhibits)” shall be deleted.
+
+**Article 7**
+
+In the Agreement, the term “Consortium Board” shall be replaced by “System Management Board”.
+
+**Article 8**
+
+Reference to “Article 22 of the Constitution” in Article 9, paragraph 2(a) of the Agreement shall be replaced by “Article 15 of the Charter”.
+
+**Article 9**
+
+In the list of International Agricultural Research Centers supported by CGIAR, “AfricaRice” shall replace “WARDA”, “International Plant Genetic Resources Institute (IPGRI – Bioversity International)” shall replace “Bioversity International (IPGRI)”, “International Potato Center” shall replace “Centro Internacional de la Papa”, “International Centre for Research in Agroforestry (ICRAF – World Agroforestry Centre)” shall replace “World Agroforestry Centre (ICRAF)” and “International Center for Living Aquatic Resources Management (ICLARM – WorldFish)” shall replace “Worldfish (ICLARM)”.
+
+**Article 10**
+
+In accordance with the provisions of Article 9, paragraph 1(b) of the Agreement, this amendment modifying the Agreement shall enter into force, for the Parties which have adopted it, on the date of the deposit of their instruments of ratification, acceptance or approval of this amendment by two-thirds of the Parties to the Agreement. For the Parties to the Agreement which subsequently ratify, accept or approve this amendment, it shall enter into force on the date of the deposit of their instrument of ratification, acceptance or approval.
+
+**Article 11**
+
+The Government of the French Republic shall be the Depositary of this amendment.
+
+*******
+
+In witness whereof, the Representatives of the three Parties, duly authorized by their respective Governments, have signed this amendment modifying the Agreement establishing the Consortium of International Agricultural Research Centers as an International Organization, in two (2) original copies, in French and in English, both texts being equally authentic.
+
+Done at Paris, on October 20, 2016.”
+
+**„A Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló, 2011. szeptember 13-án Montpellier-ben aláírt Megállapodás módosítása**
+
+Magyarország Kormánya, a Francia Köztársaság Kormánya és a Dán Királyság Kormánya, a továbbiakban: a Felek,
+
+mivel létrejött a Nemzetközi Mezőgazdasági Kutatóközpontok Nemzetközi Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás),
+
+mivel a Nemzetközi Mezőgazdasági Kutatási Tanácsadó Csoportnak szándékában áll megreformálni szervezetét és irányítását,
+
+mivel e szervezeti reformok eredményeképp a Nemzetközi Mezőgazdasági Kutatási Tanácsadó Csoport és a Nemzetközi Mezőgazdasági Kutatóközpontok Nemzetközi Konzorciumának neve ezentúl „CGIAR” vagy a „CGIAR-rendszer” és a „CGIAR-rendszer Szervezete” lesz,
+
+az alábbiakban állapodtak meg:
+
+**1. cikk**
+
+(1) A Megállapodás első preambulumbekezdésében az „a továbbiakban: CGIAR” szavak helyébe az „ezentúl CGIAR vagy CGIAR-rendszer” szavak lépnek.
+
+(2) A Megállapodás 5. preambulumbekezdése helyébe, amelynek szövege a következő „minthogy jelenleg a CGIAR egy globális, fejlesztési célú kutatási partneri együttműködést testesít meg a CGIAR finanszírozói, a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciuma és más partnerek részvételével, amelyek együttesen munkálkodnak egy közös stratégia megvalósításán;” a „minthogy a CGIAR-rendszer egy globális, fejlesztési célú kutatási partneri együttműködést testesít meg a CGIAR Kutatóközpontok, a CGIAR finanszírozói, a CGIAR-rendszer Stratégiai Döntéshozatali Bizottsága és tanácsadó szervei, valamint a CGIAR-rendszer Szervezete részvételével, amelyek együttesen munkálkodnak egy közös stratégia megvalósításán;” szöveg lép.
+
+(3) A Megállapodás 3. és 4. preambulumbekezdésében az „a CGIAR” szavak helyébe a „CGIAR” szavak lépnek.
+
+**2. cikk**
+
+A Megállapodásban – a 6. preambulumbekezdés és az 1. cikk (2) bekezdése kivételével – a „Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciuma” szavak helyébe a „CGIAR-rendszer Szervezete” szó lép.
+
+**3. cikk**
+
+A Megállapodásban a „Konzorcium” szavak helyébe a „CGIAR-rendszer Szervezete” szó lép.
+
+**4. cikk**
+
+A Megállapodásban az „Alapszabály” és „alapszabály” szavak helyébe az „Alapokmány” szó lép.
+
+**5. cikk**
+
+A Megállapodás 2. cikkének (1) bekezdésében a „CGIAR rendszer” szó helyébe a „CGIAR-Rendszer” szó lép, a „tagközpontok” szó helyébe a „CGIAR-kutatóközpontok” szó lép.
+
+**6. cikk**
+
+A Megállapodás 3. cikkében az „(és annak függelékeiben)” szöveg törlésre kerül.
+
+**7. cikk**
+
+A Megállapodásban a „Konzorcium Igazgatósága” kifejezés helyébe a „Rendszer Igazgatósága” kifejezés lép.
+
+**8. cikk**
+
+A Megállapodás 9. cikk (2) bekezdésének *a)* pontjában „az Alapszabály 22. cikkében” hivatkozás helyébe az „Alapokmány 15. cikkében” hivatkozás lép.
+
+**9. cikk**
+
+A CGIAR által támogatott nemzetközi kutatóközpontok jegyzékében az „AfricaRice” helyébe a „WARDA”, az „International Plant Genetic Resources Institute (IPGRI – Bioversity International)” helyébe a „Bioversity International (IPGRI)”, az „International Potato Center” helyébe a „Centro Internacional de la Papa”, az „International Centre for Research in Agroforestry (ICRAF – World Agroforestry Centre)” helyébe a „World Agroforestry Centre [Mezőgazdasági Erdészeti Világközpont] (ICRAF)”, az „International Center for Living Aquatic Resources Management (ICLARM – WorldFish)” helyébe a „World Fish [Halászati Világközpont] (ICLARM)” lép.
+
+**10. cikk**
+
+A Megállapodás 9. cikk (1) bekezdés *b)* pontjában foglalt rendelkezéseknek megfelelően a Megállapodás ezen módosítása az azt aláíró Felek tekintetében akkor lép hatályba, ha a megerősítésről, illetve az elfogadásról vagy jóváhagyásról szóló okmányokat a Megállapodásban részes Felek kétharmada letétbe helyezte. A Megállapodásban részes azon Felek tekintetében, akik e módosítást később erősítik meg, fogadják el vagy hagyják jóvá, a módosítás a megerősítő, elfogadó vagy jóváhagyó okmányuk letétbe helyezésének napján lép hatályba.
+
+**11. cikk**
+
+E módosítás letéteményese a Francia Köztársaság kormánya.
+
+*******
+
+Fentiek hiteléül a három Fél erre a célra szabályszerűen felhatalmazott képviselői két (2) eredeti, francia és angol nyelvű, egyaránt hiteles példányban aláírták a Nemzetközi Mezőgazdasági Kutatóközpontok Nemzetközi Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló Megállapodás jelen módosítását.
+
+Kelt Párizsban, 2016. október 20-án.”
+
+## 6. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 4. § és az 5. § a Módosítás 10. cikkében meghatározott időpontban lép hatályba.[^5]
+
+(3) A Módosítás, valamint a 4. § és az 5. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^6]
+
+## 7. §
+
+(1) E rendelet végrehajtásához szükséges intézkedésekről az agrárpolitikáért felelős miniszter gondoskodik.
+
+(2) A Megállapodásnak a Módosításban foglalt módosításokkal egységes szerkezetbe foglalt angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának közzétételéről az agrárpolitikáért felelős miniszter gondoskodik.
+
+## 8. §[^7]
+
+---
+
+[^1]: The fifteen International Agricultural Research Centers supported by the CGIAR are: Africa Rice Center (WARDA); Bioversity International (IPGRI); Centra Internacional de Agricultura Tropical (CIAT); Center for International Forestry Research (CIFOR); Centro Internacional de Mejoramiento de Maiz y Trigo (CIMMYT); Centro Internacional de la Papa (CIP); International Center for Agricultural Research in the Dry Areas (ICARDA); International Crops Research Institute for the Semi-Arid Tropics (ICRISAT); International Food Policy Research Institute (IFPRI); International Institute of Tropical Agriculture (IITA); International Livestock Research Institute (ILRI); International Rice Research Institute (IRRI); International Water Management Institute (IWMI); World Agroforestry Centre (ICRAF); Worldfish (ICLARM)
+[^2]: A CGIAR által támogatott tizenöt nemzetközi mezőgazdasági kutatóközpont: Africa Rice Center [Afrikai Rizsközpont] (WARDA); Bioversity International (IPGRI); Centro Internacional de Agricultura Tropical (CIAT); Center for International Forestry Research [Nemzetközi Erdészeti Kutatóközpont] (CIFOR); Centro Internacional de Mejoramiento de Maiz y Trigo (CIMMYT); Centro Internacional de la Papa (CIP); International Center for Agricultural Research in the Dry Areas [Száraz Területek Nemzetközi Mezőgazdasági Kutatóközpontja] (ICARDA); International Crops Research Institute for the Semi-Arid Tropics [Félsivatagi Trópusi Területek Nemzetközi Terménykutató Intézete] (ICRISAT); International Food Policy Research Institute [Nemzetközi Élelmezéspolitikai Kutatóintézet] (IFPRI); International Institute of Tropical Agriculture [Nemzetközi Trópusi Mezőgazdasági Intézet] (IITA); International Livestock Research Institute [Nemzetközi Állatállomány-kutató Intézet] (ILRI); International Rice Research Institute [Nemzetközi Rizskutató Intézet] (IRRI); International Water Management Institute [Nemzetközi Vízgazdálkodási Intézet] (IWMI); World Agroforestry Centre [Mezőgazdasági Erdészeti Világközpont] (ICRAF); Worldfish [HALÁSZATI Világközpont] (ICLARM)
+[^3]: A 4. § a 6. § (2) bekezdése alapján a Módosítás 10. cikkében meghatározott időpontban lép hatályba. A 14/2021. (I. 14.) KKM közlemény alapján a hatálybalépés időpontja 2019. március 27.
+[^4]: Az 5. § a 6. § (2) bekezdése alapján a Módosítás 10. cikkében meghatározott időpontban lép hatályba. A 14/2021. (I. 14.) KKM közlemény alapján a hatálybalépés időpontja 2019. március 27.
+[^5]: A 14/2021. (I. 14.) KKM közlemény alapján a hatálybalépés időpontja 2019. március 27.
+[^6]: Lásd a 14/2021. (I. 14.) KKM közleményt.
+[^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

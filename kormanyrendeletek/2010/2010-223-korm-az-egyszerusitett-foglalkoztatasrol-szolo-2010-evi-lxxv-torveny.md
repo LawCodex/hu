@@ -1,0 +1,94 @@
+---
+title: "223/2010. (VII. 30.) Korm. rendelet az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény végrehajtásáról"
+identifier: "223/2010. (VII. 30.) Korm. rendelet"
+njt_id: "2010-223-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2010/Korm/223"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2010-07-30
+in_force_from: 2010-08-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-223-20-22"
+retrieved: 2026-10-12
+---
+
+# 223/2010. (VII. 30.) Korm. rendelet az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény végrehajtásáról
+
+A Kormány az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 15. § (1) bekezdés a) és c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva következőket rendeli el:
+
+## 1. §
+
+(1)[^1] Az egyszerűsített foglalkoztatással kapcsolatos adatok telefonon történő bejelentése az országos telefonos ügyfélszolgálaton, a 185-ös hívószámon intézhető.
+
+(2)[^2] A bejelentés megkezdésekor az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 42. § b) pontja szerinti országos telefonos ügyfélszolgálat (a továbbiakban: ügyfélszolgálat) a bejelentőt nyilatkoztatja arról, hogy korábban tett-e már bejelentést.
+
+(3) Ha a bejelentő a (2) bekezdés alapján tett nyilatkozata szerint még nem tett bejelentést, a bejelentőt tájékoztatni kell
+
+a) a bejelentésről készített hangfelvétel megőrzésének tényéről és a törlés időpontjáról,
+
+b) arról, hogy a hangfelvételt a közigazgatási hatósági vagy a bírósági eljárás szabályai alapján bizonyítékként lehet felhasználni, valamint
+
+c) a 2. § (3) bekezdésében meghatározott körülményről.
+
+## 2. §
+
+(1) A bejelentőnek az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 11. § (7) bekezdésben meghatározott adatának felvételét követően a bejelentőt nyilatkoztatni kell arról, hogy
+
+a) új bejelentést kíván tenni, vagy korábbi bejelentést kíván módosítani,
+
+b) a munkáltató által foglalkoztatni kívánt alkalmi munkavállalók létszáma a bejelentés időpontjában és a bejelenteni kívánt munkavállalók létszámát figyelembe véve meghaladja-e az Efo.tv. 1. § (2) és (3) bekezdésében meghatározott létszámot,
+
+c) a munkáltató a tárgyhónapban felhalmozott-e az Efo.tv. 11. § (6) bekezdésében meghatározott kiegyenlítetlen adótartozást.
+
+(2) Azonos munkáltató tekintetében a korábbi regisztrációs szám alapján is lehet a korábbi bejelentést módosítani.
+
+(3) A bejelentő (1) bekezdés a) pontja szerinti nyilatkozata alapján a korábbi bejelentés módosítását – ha a módosítani kívánt bejelentést is telefonon tették – az ügyfélszolgálat csak akkor fogadja el, ha arra az Efo.tv. 11. § (8) bekezdésében meghatározott időpont bekövetkezése előtt kerül sor. A bejelentés elutasításának tényét és időpontját az ügyfélszolgálat elektronikusan rögzíti. Az ügyfélszolgálat tájékoztatja a bejelentőt arról, hogy amennyiben bebizonyosodik, hogy a bejelentést a határidőt követően tette, a munkáltató a foglalkoztatás utáni közteher-fizetési kötelezettségének köteles eleget tenni.
+
+## 3. §
+
+(1) Az ügyfélszolgálat
+
+a) az állami adóhatóság által rendelkezésére bocsátott elektronikus űrlapon rögzíti az Efo.tv. 11. § (3) bekezdésében meghatározott adatokat, valamint a bejelentő 2. § (1) bekezdés alapján tett nyilatkozatait,
+
+b) tájékoztatja a bejelentőt a bejelentés regisztrációs számáról, majd
+
+c) a telefonbeszélgetés lezárását követően – ha erre a bejelentő oldalán lehetőség van – rövid szöveges üzenetben is megküldi a regisztrációs számot.
+
+(2) Korábbi bejelentés módosítása esetén, ha annak regisztrációs számát a bejelentő a módosításkor az ügyfélszolgálattal közölte, az ügyfélszolgálat az (1) bekezdés alkalmazásával jár el azzal az eltéréssel, hogy az állami adóhatóság által rendelkezésre bocsátott elektronikus űrlapon csak a megadott regisztrációs szám alapján azonosított korábbi bejelentésben közölt adatoktól eltérő adatokat rögzíti. A bejelentő által meg nem adott adatokat az ügyfélszolgálat azzal a bejelentéssel azonos tartalommal rögzíti, amely alapján a regisztrációs számot előállították.
+
+## 4. §
+
+Az ügyfélszolgálat hivatali kapun keresztül haladéktalanul továbbítja az elkészített elektronikus dokumentumot az állami adóhatóság részére. Az állami adóhatóság az elektronikus dokumentum hozzá történő megérkezéséről visszaigazolást küld az ügyfélszolgálat számára.
+
+## 5. §
+
+(1)[^3] Az országos telefonos ügyfélszolgálat a nála létrejövő adatállományokat – beleértve a hangfelvételt is – titkosítva menti, és kizárólag védett környezetben tárolja.
+
+(2)[^4] Az országos telefonos ügyfélszolgálat a rögzítéstől számított 5 év elteltével helyreállíthatatlanul törli a hangfelvételt és a hangfelvétel alapján rögzített adatokat.
+
+(3) Az adatok törlése azok különleges mintákkal történő felülírásával történik.
+
+(4) Az (1) és (3) bekezdés alkalmazásában:
+
+a) titkosított fájlrendszer: a tárolt adatállomány meghatározott algoritmussal történő felülírása illetéktelen személy számára való hozzáférhetetlenné tétele érdekében,
+
+b) védett környezetben tárolás: az adatállomány más szerverektől, alkalmazásoktól elkülönített szerveren, alkalmazások felhasználásával történő tárolása, amelyhez csak külön jogosultsággal rendelkező felhasználói kör férhet hozzá,
+
+c) különleges mintákkal történő felülírás: a tárolt adatok speciális jelsorozatok alkalmazásával felismerhetetlenné, helyreállíthatatlanná tételére szolgáló technikai eljárás.
+
+## 6. §
+
+Az Efo.tv. 11. § (4) bekezdése szerinti esetben a munkáltató bejelentésében közli a társadalombiztosítási azonosító jel kivételével az Efo.tv. 11. § (3) bekezdésében felsorolt adatokat, valamint azt, hogy a munkavállalója igazolta részére a másik tagállamban, illetve egyezményben részes másik államban fennálló biztosítását.
+
+## 7. §
+
+Ez a rendelet 2010. augusztus 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: Az 5. § (1) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (2) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.

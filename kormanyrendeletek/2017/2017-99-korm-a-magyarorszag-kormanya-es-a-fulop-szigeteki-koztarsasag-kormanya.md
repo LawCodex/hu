@@ -1,0 +1,222 @@
+---
+title: "99/2017. (IV. 28.) Korm. rendelet a Magyarország Kormánya és a Fülöp-szigeteki Köztársaság Kormánya közötti kétoldalú gazdasági együttműködési megállapodás kihirdetéséről"
+identifier: "99/2017. (IV. 28.) Korm. rendelet"
+njt_id: "2017-99-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/99"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-04-28
+in_force_from: 2017-04-29
+last_amended: 2018-02-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-99-20-22"
+retrieved: 2026-10-12
+---
+
+# 99/2017. (IV. 28.) Korm. rendelet a Magyarország Kormánya és a Fülöp-szigeteki Köztársaság Kormánya közötti kétoldalú gazdasági együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Fülöp-szigeteki Köztársaság Kormánya közötti kétoldalú gazdasági együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**„AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES ON ECONOMIC COOPERATION**
+
+The Government of Hungary and the Government of the Republic of the Philippines (hereinafter referred to as the Parties),
+
+Recognizing the necessity to deepen the bilateral framework as basis for further cooperation;
+
+Desiring to enhance economic cooperation through trade, investments and collaboration in other related areas based on the long standing relations between the Parties and;
+
+Aspiring to continue and reinforce existing economic cooperation on a long-term and mutually beneficial basis;
+
+Have agreed as follows:
+
+**ARTICLE 1: OBJECTIVES**
+
+The Parties shall promote the expansion and diversification of mutually advantageous economic cooperation activities through trade, investments and collaboration in other relevant areas in accordance with the laws, rules and regulations in force in the Parties and the provisions of the international treaties to which they are a party.
+
+**ARTICLE 2: COOPERATION AREAS**
+
+The Parties agree to cooperate in sectors or areas of mutual interest as may be determined and agreed upon by the Joint Economic Commission between Hungary and the Philippines (hereinafter referred to as Joint Commission).
+
+**ARTICLE 3: FORMS OF COOPERATION**
+
+The Parties shall endeavor to broaden and intensify their cooperation through the following means:
+
+*a)* exchange of information on trade, investments and macroeconomic trends; economic forecasts; development priorities and strategies, programmes and projects; regional and multilateral developments relevant to bilateral cooperation;
+
+*b)* participation in trade and investment-related events and activities, such as fairs and exhibitions, seminars, symposia, conferences and other business events;
+
+*c)* promotion of economic cooperation between government institutions, professional organizations, business, federations, and chambers of commerce and industry;
+
+*d)* promotion of cooperation in consultancy, marketing, advisory and related expert services;
+
+*e)* promotion of cooperation between financial institutions and banking sectors in areas of mutual interest;
+
+*f)* promotion of the establishment of joint ventures and company representative offices;
+
+*g)* promotion and facilitation of the participation of micro, small- and medium-size private sector enterprises in identified sectors and areas of interest;
+
+*h)* undertaking any other means of cooperation as agreed upon by the Parties.
+
+**ARTICLE 4: ESTABLISHMENT OF THE JOINT COMMISSION**
+
+1) For the implementation of this Agreement, a Joint Commission shall be established comprising of designated representatives of both Parties, which shall alternately convene in Hungary and the Philippines, upon request of either Party. Each Party shall appoint a Co-Chair of the Joint Commission.
+
+2) The functions of the Joint Commission shall comprise, in particular, the following:
+
+*a)* establish a mechanism for regular data exchange on trade and investment;
+
+*b)* identify and promote means to improve bilateral trade and investment flows;
+
+*c)* identify new possibilities and examine opportunities to develop future economic cooperation initiatives;
+
+*d)* facilitate the organization of consultations and official visits through delegation(s) or missions to discuss trade, investment and economic issues of interest to both Parties;
+
+*e)* establish linkages with relevant business associations;
+
+*f)* discuss issues related to the implementation of business, trade and investment promotion activities;
+
+*g)* oversee the implementation of the Agreement.
+
+3) If necessary, the Joint Commission shall establish working groups dealing with certain areas of cooperation.
+
+4) The host Party shall prepare the draft minutes summarizing the discussion to be agreed upon and signed by the Co-Chairs at the end of the meeting.
+
+5) The rules of procedure of the Joint Commission shall be defined at its first meeting.
+
+**ARTICLE 5: APPLICATION**
+
+1) Cooperation pursuant to the present Agreement shall be carried out in accordance with the laws, rules and regulations of the Parties and the observance of generally recognized norms and principles of international law and without prejudice to the fulfillment of the obligation by the Parties under other bilateral, regional or multilateral agreement in which they are a party.
+
+2) Consequently the provisions of this Agreement shall not be applied or interpreted in whole, or in part in such a way as to invalidate, amend or otherwise affect the obligations of Hungary and the Philippines arising from their existing bilateral, regional, international agreements. For Hungary, this includes in particular the treaties the European Union is based on and the law of the European Union, for the Republic of Philippines, in particular, the Association of Southeast Asian Nations.
+
+**ARTICLE 6: RESOLUTION OF DIFFERENCES**
+
+Any differences between the Parties arising from the interpretation, application, and implementation of this Agreement shall be resolved by consultations through diplomatic channels.
+
+**ARTICLE 7: FINAL CLAUSES**
+
+1) This Agreement shall enter into force on the thirtieth day of the month following the date of receipt of the last written notification in which a Party notifies the other, through diplomatic channels, confirming that the domestic requirements for its entry in force have been complied with.
+
+2) The provisions of this Agreement may be amended and modified by mutual written consent of the Parties through diplomatic channels, and shall come into force in accordance with Paragraph 1 of this Article.
+
+3) The present Agreement shall be valid for a period of five years, and shall automatically be renewed for similar periods unless one of the Parties expresses its intention to terminate the Agreement by giving a written notice to the other Party. If such notice is given, the Agreement shall be terminated six months following the receipt of the notice.
+
+4) The termination of this Agreement shall not affect the validity or the duration of any specific agreement or projects or activities made under the present Agreement until the completion of such specific agreements, projects or activities, unless the Parties agree otherwise.
+
+Done and signed at Manila, on 28 (day) of March (month) 2017 (year) in the English language.
+
+**MAGYARORSZÁG KORMÁNYA ÉS A FÜLÖP-SZIGETEKI KÖZTÁRSASÁG KORMÁNYA KÖZÖTTI GAZDASÁGI EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS**
+
+Magyarország Kormánya és a Fülöp-szigeteki Köztársaság Kormánya (a továbbiakban: a Felek),
+
+Felismerve a további együttműködés alapjául szolgáló kétoldalú keret elmélyítésének szükségességét;
+
+Azzal az óhajjal, hogy a Felek között fennálló hosszú távú kapcsolatokra alapozva fokozzák a gazdasági együttműködést a kereskedelem, beruházások és egyéb kapcsolódó területek révén; és
+
+Arra törekedve, hogy hosszú távon és kölcsönösen előnyös alapon folytassák és megerősítsék a fennálló gazdasági együttműködést;
+
+Az alábbiakban állapodtak meg:
+
+**1. CIKK: CÉLOK**
+
+A Felek előmozdítják a kölcsönös előnyöket jelentő gazdasági együttműködés bővítését és diverzifikálását a kereskedelem, befektetések és egyéb releváns területeken való együttműködés révén, összhangban a Felek hatályos törvényeivel, szabályaival és szabályozásaival, valamint azon nemzetközi szerződések rendelkezéseivel, melyekben részesek.
+
+**2. CIKK: AZ EGYÜTTMŰKÖDÉS TERÜLETEI**
+
+A Felek megállapodnak, hogy együttműködnek a kölcsönös érdeklődésre számot tartó ágazatokban vagy területeken, amelyek a Magyarország és a Fülöp-szigetek közti Gazdasági Vegyes Bizottság (a továbbiakban: Vegyes Bizottság) által kerülnek meghatározásra és elfogadásra.
+
+**3. CIKK: AZ EGYÜTTMŰKÖDÉS FORMÁI**
+
+A Felek törekednek, hogy szélesítsék és fokozzák együttműködésüket az alábbi eszközök által:
+
+*a)* a kereskedelemhez, befektetésekhez és makrogazdasági trendekhez; gazdasági előrejelzésekhez; fejlesztési prioritásokhoz és stratégiákhoz, programokhoz és projektekhez; regionális és multilaterális fejleményekhez kapcsolódó információk cseréje;
+
+*b)* kereskedelemmel és befektetésekkel összefüggő eseményeken és fellépéseken, így például vásárokon és kiállításokon, szemináriumokon, szimpóziumokon, konferenciákon és egyéb üzleti eseményeken való részvétel;
+
+*c)* a kormányzati intézmények, szakmai szervezetek, üzleti szövetségek és kereskedelmi kamarák, és az ipar közötti gazdasági együttműködés előmozdítása;
+
+*d)* a tanácsadói, marketing és kapcsolódó szakmai szolgáltatások terén való együttműködés előmozdítása;
+
+*e)* a pénzügyi intézmények és a bankszektor közötti együttműködés előmozdítása a kölcsönös érdeklődésre számot tartó területeken;
+
+*f)* vegyes vállalatok és vállalati képviseleti irodák létesítésének elősegítése;
+
+*g)* a magánszektor mikro, kis- és középméretű vállalkozásai részvételének megkönnyítése és elősegítése a beazonosított ágazatokban és érdeklődési területeken;
+
+*h)* az együttműködésnek a Felek egyetértésén alapuló bármely más formája.
+
+**4. CIKK: A GAZDASÁGI VEGYES BIZOTTSÁG LÉTREHOZÁSA**
+
+1) A jelen Megállapodás végrehajtása céljából létre kell hozni egy Vegyes Bizottságot, amely a Felek kijelölt képviselőiből áll, és amely a Felek bármelyikének kérésére összehívásra kerül, felváltva ülésezve Magyarországon és a Fülöp-szigeteken. Mindkét Fél társelnököt jelöl ki a Vegyes Bizottság élére.
+
+2) A Vegyes Bizottság feladata közé tartoznak különösen a következők:
+
+*a)* a kereskedelmi és befektetési adatok rendszeres cseréjére vonatkozó eljárás kialakítása;
+
+*b)* a kétoldalú kereskedelmi és befektetési forgalom fejlesztésére alkalmas eszközök azonosítása és elősegítése;
+
+*c)* új lehetőségek azonosítása és megvizsgálása jövőbeli gazdasági együttműködési kezdeményezések kialakítása érdekében;
+
+*d)* egyeztetések és hivatalos látogatások szervezésének megkönnyítése delegációk vagy képviseletek révén a Felek kölcsönös érdeklődésére számot tartó kereskedelmi, befektetési és gazdasági kérdések megvitatására;
+
+*e)* kapcsolatteremtés az érintett üzleti szervezetekkel;
+
+*f)* az üzlet-, kereskedelem- és beruházásfejlesztési tevékenységekkel összefüggő kérdések megvitatása;
+
+*g)* a Megállapodás végrehajtásának felügyelete.
+
+3) Ha szükséges, a Vegyes Bizottság az együttműködés meghatározott területeivel foglalkozó munkacsoportokat hoz létre.
+
+4) A rendező fél elkészíti az egyeztetést összefoglaló jegyzőkönyv tervezetét, amelyet a társelnökök az ülés végén fogadnak el és írnak alá.
+
+5) A Vegyes Bizottság eljárási szabályzata az első ülésén kerül meghatározásra.
+
+**5. CIKK: ALKALMAZÁS**
+
+1) A jelen Megállapodás szerinti együttműködés a Felek törvényei, szabályai és rendelkezései szerint, a nemzetközi jog általánosan elfogadott normáinak és elveinek betartása mellett kerül végrehajtásra, nem érintve a Felek más olyan kétoldalú, regionális vagy többoldalú megállapodásokban vállalt kötelezettségeinek teljesítését, amelyekben részesek.
+
+2) Következésképpen, a Megállapodás rendelkezéseit sem együttesen, sem önmagukban nem lehet úgy alkalmazni, illetve azok nem értelmezhetőek oly módon, mely érvénytelenítené, módosítaná, vagy egyéb módon befolyásolná Magyarország és a Fülöp-szigetek kétoldalú, regionális vagy többoldalú megállapodásokban vállalt kötelezettségeit. Magyarország számára ez különösképpen az Európai Unió alapító szerződéseit és az Európai Unió jogát, a Fülöp-szigetek számára különösképpen a Délkelet-ázsiai Nemzetek Szövetségét jelenti.
+
+**6. CIKK: VITÁK RENDEZÉSE**
+
+A jelen Megállapodás értelmezéséből, alkalmazásából és végrehajtásából eredő mindennemű nézetkülönbséget a Felek diplomáciai úton való egyeztetések révén rendezik.
+
+**7. CIKK: ZÁRÓ RENDELKEZÉSEK**
+
+1) Ez a Megállapodás azon későbbi írásos értesítés kézhezvételétől számított harmincadik napon lép hatályba, amelyben a Felek egyike diplomáciai úton értesíti a másikat, megerősítve a hatálybalépéshez szükséges belső jogi követelmények teljesítését.
+
+2) E Megállapodás rendelkezései a Felek kölcsönös, írásban rögzített egyetértésével diplomáciai úton kiegészíthetők és módosíthatók, amelyek a jelen Cikk 1). bekezdése szerint lépnek hatályba.
+
+3) Jelen Megállapodás öt évig marad hatályban és automatikusan megújul újabb azonos hosszúságú időszakokra, amennyiben valamelyik Fél írásban nem értesíti a másik Felet a Megállapodás megszüntetésére irányuló szándékáról. Amennyiben ilyen értesítés átadásra kerül, a Megállapodás a felmondásról szóló értesítés kézhezvételének napjától számított hat hónap elteltével veszti hatályát.
+
+4) A jelen Megállapodás megszűnése nincs hatással a jelen Megállapodás alapján született bármely speciális megállapodás, projekt vagy tevékenység érvényességére vagy időtartamára azok teljesítéséig, hacsak a Felek másként nem állapodnak meg.
+
+Készült és aláírásra került Manilában, 2017. (év) március (hónap) 28 (nap)-án angol nyelven.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 7. cikk 1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1) bekezdésében meghatározott időpontban lép hatályba. A 8/2018. (III. 26.) KKM közlemény alapján a hatálybalépés időpontja 2018. február 28.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 1) bekezdésében meghatározott időpontban lép hatályba. A 8/2018. (III. 26.) KKM közlemény alapján a hatálybalépés időpontja 2018. február 28.
+[^3]: A 8/2018. (III. 26.) KKM közlemény alapján a hatálybalépés időpontja 2018. február 28.
+[^4]: Lásd a 8/2018. (III. 26.) KKM közleményt.

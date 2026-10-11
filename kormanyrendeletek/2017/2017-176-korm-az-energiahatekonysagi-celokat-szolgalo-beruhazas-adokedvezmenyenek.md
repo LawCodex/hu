@@ -1,0 +1,234 @@
+---
+title: "176/2017. (VII. 4.) Korm. rendelet az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól"
+identifier: "176/2017. (VII. 4.) Korm. rendelet"
+njt_id: "2017-176-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2017/Korm/176"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2017-07-04
+in_force_from: 2017-07-05
+last_amended: 2023-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-176-20-22"
+retrieved: 2026-10-12
+---
+
+# 176/2017. (VII. 4.) Korm. rendelet az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól
+
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (13) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+A rendelet a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 22/E. §-a szerinti társaságiadó-kedvezmény (a továbbiakban: adókedvezmény) igénylésének, igénybevételének, az energiahatékonysági célokat szolgáló beruházási minőség igazolásának és az adózó adatszolgáltatási kötelezettségének feltételeire terjed ki.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *beruházás megkezdésének napja:* az építkezés kezdetének a napja, vagy a beruházás célját szolgáló első tárgyi eszköz megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi, azzal, hogy ezen időpontok közül a legkorábbit kell figyelembe venni; nem minősül a beruházás megkezdésének különösen a földterület vásárlása vagy az építésügyi hatósági engedélyek megszerzése vagy a megvalósíthatósági tanulmányok készítése; létesítmény felvásárlása esetén a beruházás megkezdésének napja a felvásárolt létesítményhez közvetlenül kapcsolódó eszközök tulajdonba vételének napja;
+
+2\. *energetikai audit:* az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: energiahatékonysági törvény) 1. § 12. pontja szerinti energetikai audit;
+
+3\. *energetikai auditálás:* az energiahatékonysági törvény 1. § 13. pontja szerinti energetikai auditálás;
+
+4\. *energetikai auditáló szervezet:* az energiahatékonysági törvény 1. § 14. pontja szerinti auditáló szervezet;
+
+5\. *energetikai auditor:* az energiahatékonysági törvény 1. § 15. pontja szerinti energetikai auditor;
+
+6\. *nehéz helyzetben lévő társaság:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (6)–(8) bekezdésében foglalt feltételeknek megfelelő társaság.
+
+## 3. Az energiahatékonysági célokat szolgáló beruházási minőség igazolása
+
+### 3. §
+
+(1) Az energiahatékonysági célokat szolgáló beruházási minőség igazolását (a továbbiakban: igazolás) az energiahatékonysági törvény alapján a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által vezetett névjegyzékben szereplő energetikai auditor vagy energetikai auditáló szervezet állítja ki az adózó kérelmére.
+
+(2) Az energetikai auditor vagy energetikai auditáló szervezet a beruházás megkezdésének napját megelőzően – mért adatok felhasználásával, szükség esetén a mért adatokon alapuló számítás vagy becslés útján – felméri a tervezett beruházással érintett műszaki rendszerre vonatkozó energiafogyasztási adatokat és becslést készít a tervezett beruházással elérhető energiamegtakarítás mértékéről. Az energetikai auditor vagy energetikai auditáló szervezet az előzetes felmérés eredményeiről írásban tájékoztatja az adózót. A tájékoztatás tartalmazza a beruházással elérhető energiamegtakarítás megállapításának módszertanát.
+
+(2a)[^1] A Tao. tv. 22/E. § (12) bekezdése szerinti adókedvezmény esetén az (1) bekezdés szerinti igazolásnak és a (2) bekezdés szerinti írásos tájékoztatásnak tartalmaznia kell a Tao. tv. 22/E. § (15) bekezdésében meghatározott kezdeti primerenergia-igény és annak becsült javulása értékét.
+
+(3) Az energetikai auditor vagy energetikai auditáló szervezet a beruházás üzembe helyezését követően készíti el és adja át az adózó számára a beruházással érintett műszaki rendszerre vonatkozó energetikai auditot, ami tartalmazza a kiinduló állapot energetikai felmérését és a beruházás üzembe helyezésével elért energiamegtakarításnak a (2) bekezdés szerinti módszer felhasználásával, a beruházás üzembe helyezését követően mért, vagy egyedi mérési adatok alapján kiszámított vagy becsült értékeit.
+
+(3a)[^2] A Tao. tv. 22/E. § (12) bekezdése szerinti adókedvezmény esetén a (3) bekezdés szerinti energetikai auditnak tartalmaznia kell a Tao. tv. 22/E. § (15) bekezdésében meghatározott kezdeti primerenergia-igényt és annak becsült javulását igazoló, az energetikai auditor vagy energetikai auditáló szervezet által kiállított energetikai tanúsítványt.
+
+(4) A (2) és (3) bekezdés szerinti energetikai auditálás során az energiamegtakarítást
+
+a) az alapállapothoz,
+
+b) ha az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa, vagy jogszabály minimum energiahatékonysági követelményt határoz meg, akkor ehhez a követelményhez,
+
+c) ha az alapállapot szerinti tárgyi eszköz hasznos élettartama lejárt és nem létezik *b)* pont szerinti követelmény, akkor az adott igényt kiszolgáló, forgalomban lévő leggyengébb energiahatékonyságú tárgyi eszközzel elérhető energiamegtakarításhoz
+
+kell viszonyítani.
+
+(5)[^3] Az energetikai auditor vagy energetikai auditáló szervezet az igazolást a (2) és (3) bekezdés szerinti energetikai auditálás alapján – a Tao. tv. 22/E. § (12) bekezdése szerinti adókedvezmény esetén figyelemmel a (2a) és (3a) bekezdésre is – állítja ki és adja át az adózó számára.
+
+(6) Az igazolás tartalmazza:
+
+a) az adózó nevét, székhelyét, adószámát vagy annak megfelelő azonosítót, adószám és annak megfelelő azonosító hiányában cégjegyzékszámát vagy nyilvántartási számát;
+
+b) a megállapítást, hogy a beruházás energiamegtakarítást eredményez, és a Tao. tv. szerinti energiahatékonysági célokat szolgáló beruházásnak minősül, valamint megfelel az e rendeletben foglalt feltételeknek;
+
+c) a beruházás megvalósításával elért éves végsőenergia-megtakarítás mértékét villamos energia (kWh), földgáz (m<sup>3</sup>) és hőmennyiség (GJ) szerinti bontásban és összesítve GJ mértékegységben kifejezve;
+
+d) a beruházás üzembe helyezését megelőző alapállapot számítással, méréssel alátámasztott energiafogyasztási adatait villamos energia (kWh), földgáz (m<sup>3</sup>) és hőmennyiség (GJ) szerinti bontásban;
+
+e) az energetikai auditor vagy az energetikai auditáló szervezet nevét vagy cégnevét és névjegyzéki jelölését;
+
+f) az energetikai auditor vagy energetikai auditáló szervezet nyilatkozatát arra vonatkozóan, hogy az igazoláson feltüntetett adatok a valóságnak megfelelnek, és
+
+g) az energetikai auditor aláírását, vagy az energetikai auditáló szervezet képviseletére jogosult cégszerű aláírását és a keltezést.
+
+h)[^4] a Tao. tv. 22/E. § (12) bekezdése szerinti adókedvezmény esetén a Tao. tv. 22/E. § (15) bekezdésében meghatározott kezdeti primerenergia-igényt és annak becsült javulását igazoló, az energetikai auditor vagy energetikai auditáló szervezet által kiállított energetikai tanúsítványt.
+
+(7) Az igazoláshoz az 1. melléklet szerinti minta is felhasználható.
+
+## 4. Az adókedvezmény igénybevétele
+
+### 4. §
+
+(1) Az adókedvezmény akkor vehető igénybe, ha a kötelező üzemeltetési időszakban vagy – ha az későbbi időpont – az adókedvezmény igénybevételének utolsó adóévéig
+
+a) az adózónál az adóhatóságoknál nyilvántartott adótartozás miatt – ide nem értve a késedelmi pótlék miatt fennálló tartozást – adóhatóság végrehajtási eljárást nem indított, vagy indított ugyan, de azt sikeresen foganatosította, vagy az eljárás keretében fizetési könnyítést engedélyezett, amelynek feltételeit az adózó betartotta, és
+
+b) az adózót az állami adó- és vámhatóság be nem jelentett alkalmazott foglalkoztatása miatt mulasztási bírsággal nem sújtotta, vagy ha sújtotta, akkor annak összegét arra tekintettel mérsékelte, hogy az adózó a munkaviszony létesítésének bejelentésére vonatkozó kötelezettségét az adóellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette.
+
+(2) Az adókedvezmény keretében nem elszámolható költség:
+
+a) az olyan tárgyi eszköz és immateriális jószág bekerülési értéke, amelyet az adózó nehéz helyzetben lévő, vagy csődeljárás, felszámolás vagy kényszertörlési eljárás alatt álló adózótól szerzett be;
+
+b) a villamos energiáról szóló törvény szerinti megújuló energiaforrásból villamosenergia termelésére alkalmas bármely energiatermelő berendezés beruházási költsége, azzal, hogy elszámolható költség a megújuló energiaforrásból saját fűtési, hűtési és ipari hőtermelési célra energiát előállító, villamosenergia-termelésre nem képes, saját tevékenységet szolgáló berendezés (különösen az elektromos – szondás, talajvizes, levegős – hőszivattyú; gázmotoros hőszivattyú; napkollektor; saját hulladékból származó biogázt és biomasszát hasznosítóberendezés) bekerülési értéke, és
+
+c) annak a beruházásnak a bekerülési értéke, amely beruházás üzembe helyezése esetére az Európai Unió általános hatályú, közvetlenül alkalmazandó már elfogadott jogi aktusa, vagy már elfogadott jogszabály minimum energiahatékonysági követelményt ír elő, e követelmény teljesítését biztosító beruházás bekerülési értéke erejéig, függetlenül e rendelkezések hatálybalépésétől;
+
+d) az olyan tárgyi eszköz és immateriális jószág bekerülési értéke, amely élettartamára, üzemben tarthatóságára az Európai Unió általános hatályú, közvetlenül alkalmazandó már elfogadott jogi aktusa, vagy már elfogadott jogszabály tiltást vagy korlátozó rendelkezést határoz meg, függetlenül e rendelkezések hatálybalépésétől.
+
+## 5. Adatszolgáltatás
+
+### 5. §
+
+(1) Az adózó az adókedvezmény első alkalommal történő igénybevételekor a társasági adóbevallásában az igazolással rendelkező energiahatékonysági célokat szolgáló beruházásonként feltünteti:
+
+a) az energiahatékonysági célokat szolgáló beruházás megnevezését, üzembe helyezésének időpontját és helyét;
+
+b) a 3. § (5) bekezdése szerinti igazolás kiadmányozásának dátumát;
+
+c)[^5] az elszámolható költségnek minősülő egyes beruházásrészek megjelölését, valamint azok bekerülési értékét, illetve a Tao. tv. 22/E. § (1) bekezdése szerinti adókedvezmény esetén Tao. tv. 22/E. § (4) bekezdés b) pontja szerinti többletköltségét;
+
+d) a Tao. tv. 22/E. §-a alapján elszámolható összköltséget;
+
+e) nyilatkozatát, hogy az energiahatékonysági célokat szolgáló beruházáshoz egyéb energiahatékonysági célú támogatást nem vett igénybe;
+
+f) a beruházáshoz igénybe vett, a támogatáshalmozódásnál figyelembe veendő állami támogatás támogatástartalmát;
+
+g) a 3. § (6) bekezdés c) pontja szerinti összesített energiamegtakarítási adatot GJ mértékegységben kifejezve.
+
+h)[^6] a 3. § (6) bekezdés h) pontja szerinti kezdeti primerenergia-igényt és annak becsült javulása értékét.
+
+(2) A további adóévek vonatkozásában a társasági adóbevallásban az adózó az igazolással rendelkező energiahatékonysági célokat szolgáló beruházásonként:
+
+a) feltünteti az energiahatékonysági célokat szolgáló beruházás üzembe helyezésének időpontját és helyét;
+
+b) megjelöli azt az adóévet, amely vonatkozásában első alkalommal vette igénybe az adókedvezményt, valamint
+
+c) az első igénybevételtől számítva összesen igénybe vett adókedvezményt jelenértéken.
+
+(3) Az adókedvezmény igénybevételével kapcsolatos valamennyi iratot az adózó a beruházás üzembe helyezését követő 10 évig köteles megőrizni.
+
+(4)[^7] Az állami adó- és vámhatóság a Tao. tv. 22/E. § (10) bekezdése szerinti ellenőrzése során az igazolás alapjául szolgáló energetikai auditoknak az energiahatékonysági törvény 27. §-a szerinti ellenőrzése érdekében megkeresheti a Hivatalt.
+
+(5)[^8] Az állami adó- és vámhatóság évente adatot szolgáltat a Hivatal részére az adózók által a megelőző naptári évben bejelentett (1) bekezdés g) pontja szerinti adatok összesített értékéről.
+
+## 6. Záró rendelkezések
+
+### 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 7. §[^9]
+
+(1) Az e rendelet hatálybalépését megelőzően megkezdett beruházások esetében a 3. § (2) bekezdése szerinti tájékoztatást a beruházás megkezdését követően, de még az adókedvezmény igénybevételét megelőzően kell az adózó rendelkezésére bocsátani.
+
+(2) Az állami adó- és vámhatóság 2024. március 20-áig éves bontásban adatot szolgáltat a Hivatal részére az adózók által 2023. évet megelőző naptári években bejelentett 5. § (1) bekezdés g) pontja szerinti adatok összesített értékéről.
+
+### 8. §[^10]
+
+Ez a rendelet a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet I. és II. fejezete és 38–38a. cikke, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló (EU) 2022/2473 rendelet módosításáról szóló, 2023. június 23-i (EU) 2023/1315 bizottsági rendelet 33–34. pontja hatálya alá tartozó támogatást tartalmaz.
+
+## 1. melléklet a 176/2017. (VII. 4.) Korm. rendelethez
+
+**IGAZOLÁS**
+
+energiahatékonysági célú beruházásról
+
+adókedvezmény igénybevételéhez
+
+Az adózó adatai:
+
+Név:
+
+Székhely:
+
+Adószám:
+
+vagy annak megfelelő azonosító:
+
+Adószám és annak megfelelő azonosító hiányában cégjegyzékszám vagy nyilvántartási szám:
+
+Az energiahatékonysági célú beruházás megnevezése, leírása:
+
+A beruházás helyszíne:
+
+A beruházás megkezdésének időpontja:
+
+A beruházás üzembe helyezésének időpontja:
+
+A beruházás üzembe helyezését megelőző alapállapot számítással, méréssel alátámasztott energiafogyasztási adatai:
+
+villamos energia fogyasztás (kWh):
+
+földgáz (m<sup>3</sup>):
+
+hőmennyiség (GJ):
+
+A beruházás megvalósításával elért éves végsőenergia-megtakarítás mértéke:
+
+villamos energia (kWh):
+
+földgáz (m<sup>3</sup>):
+
+hőmennyiség (GJ):
+
+összesen (GJ):
+
+Alulírott auditor/auditáló szervezet az elkészült audit alapján megállapítottam, hogy a beruházás energiamegtakarítást eredményez, és a Tao. tv. szerinti energiahatékonysági célokat szolgáló beruházásnak minősül, valamint megfelel az e rendeletben foglalt feltételeknek.
+
+Nyilatkozom, hogy az igazolásban feltüntetett adatok megfelelnek a valóságnak.
+
+Az energetikai auditor vagy energetikai auditáló szervezet
+
+neve/cégneve:
+
+névjegyzéki jelölése:
+
+Kelt:
+
+Cégszerű aláírás
+
+---
+
+[^1]: A 3. § (2a) bekezdését a 622/2023. (XII. 22.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^2]: A 3. § (3a) bekezdését a 622/2023. (XII. 22.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^3]: A 3. § (5) bekezdése a 622/2023. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^4]: A 3. § (6) bekezdés h) pontját a 622/2023. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^5]: Az 5. § (1) bekezdés c) pontja a 622/2023. (XII. 22.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés h) pontját a 622/2023. (XII. 22.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^7]: Az 5. § (4) bekezdése a 622/2023. (XII. 22.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (5) bekezdését a 622/2023. (XII. 22.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^9]: A 7. § a 622/2023. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^10]: A 8. § a 622/2023. (XII. 22.) Korm. rendelet 10. §-ával megállapított szöveg.
