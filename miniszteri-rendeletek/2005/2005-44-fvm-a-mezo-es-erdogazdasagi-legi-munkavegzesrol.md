@@ -1,0 +1,558 @@
+---
+title: "44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet a mező- és erdőgazdasági légi munkavégzésről"
+identifier: "44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet"
+njt_id: "2005-44-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2005/FVM/44"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2005-05-06
+in_force_from: 2008-05-16
+last_amended: 2024-01-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-44-20-82"
+retrieved: 2026-10-12
+---
+
+# 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet a mező- és erdőgazdasági légi munkavégzésről
+
+A légiközlekedésről szóló 1995. évi XCVII. törvény 74. §-ának a) pontjában, valamint a növényvédelemről szóló 2000. évi XXXV. törvény (a továbbiakban: Tv.) 65. §-a (2) bekezdésének b) pontjában foglalt felhatalmazás alapján – e rendelet 16. §-a vonatkozásában a belügyminiszterrel egyetértésben – a következőket rendeljük el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+E rendeletet a Magyarország területén, valamint annak légterében végzett mezőgazdasági repülésre, továbbá az azzal összefüggő tevékenységekre kell alkalmazni.
+
+### 2. §
+
+(1) E rendelet alkalmazásában:
+
+1.[^2] *Mezőgazdasági repülés:* mezőgazdasági légi járművel történő, mező- vagy erdőgazdasági célú, növényvédő szerrel, növényvédő szernek nem minősülő növényvédő hatású termékkel vagy termésnövelő anyaggal végzett növényvédelmi, tápanyag-gazdálkodási tevékenység.
+
+2.[^3] *Mezőgazdasági légijármű:* a mezőgazdasági repülés céljára szolgáló zárt kabinú légi jármű, vagy mezőgazdasági repülés céljára szolgáló pilóta nélküli légijármű.
+
+2a.[^4] *Mezőgazdasági légi jármű üzemeltetője:* az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező jogalany, aki mezőgazdasági légi járművet üzemeltet, tulajdonjoga vagy a légi jármű használatára irányuló egyéb tartós jogviszony alapján, szolgáltatási célú mezőgazdasági repülés végzésére vagy végeztetésére.
+
+3\. *Munkaterület:* a mezőgazdasági repülés során levegőből megmunkálandó terület.
+
+4.[^5] *Szakirányító:* a légi permetezés megrendelője által megbízott, a növényvédelmi tevékenységről szóló jogszabályban meghatározott felsőfokú növényvédelmi képesítéssel rendelkező, valamint az I. forgalmi kategóriájú növényvédő szer saját célú felhasználására, illetve az azzal folytatott szolgáltatási tevékenységre jogosult személy.
+
+4a.[^6] *Lakott területrész:* a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 1. § 4. pontja szerinti fogalom.
+
+5.[^7] *Légi permetezés:* növényvédő szerek mezőgazdasági légi járműből történő kijuttatása.
+
+6.[^8] *Kezelés szempontjából érzékeny terület:* a kezelésre kijelölt terület közvetlen környezetében található lakott területrész, a kezelés szempontjából érzékeny növénykultúra, az állattartó telep, az állatok etetésére folyamatosan szolgáló rét, legelő, zöldtakarmányt termesztő hely, az állandó vagy ideiglenes méhészeti telephely, a védett és fokozottan védett természeti terület, a felszíni és a felszín alatti vizek védelme szempontjából érzékeny terület, a személy- és teherszállító útvonal, az államhatár, a légvezeték és a kiemelkedő tereptárgy.
+
+7.[^9] *Pilóta nélküli légijármű:* a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 71. § 35. pontja szerinti fogalom.
+
+(2)[^10]
+
+## A mezőgazdasági légijármű vezetője
+
+### 3. §[^11]
+
+(1)[^12] Zárt kabinú légijárművel történő mezőgazdasági repülés a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) által kiadott engedéllyel (a továbbiakban: légi-mezőgazdasági engedély) végezhető.
+
+(1a)[^13] A légi-mezőgazdasági engedély tartalmazza:
+
+a) a jogosult személynek az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 38. § (2) bekezdés c) pontja szerinti adatai közül a nevét és lakcímét,
+
+b) a jogosult személy FELIR-azonosítóját és tevékenység azonosítóját,
+
+c) az engedély számát,
+
+d) azt a tényt, hogy az engedély jogosultja a (2) és (4) bekezdésben foglalt előírásokat teljesítette, és
+
+e) az engedély időbeli hatályának meghosszabbítása esetén ennek tényét és időtartamát.
+
+(2)[^14] Légi-mezőgazdasági engedélyt az kaphat, aki a zárt kabinú légijármű vezetéséhez jogszabály által előírt szakszolgálati engedéllyel rendelkezik, valamint
+
+a) a növényvédelmi tevékenységről szóló jogszabályban meghatározott növényvédelmi alaptanfolyamot követően eredményes vizsgát tett,
+
+b) a növényvédelmi tevékenységről szóló jogszabályban meghatározott felsőfokú növényvédelmi képesítéssel és I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkezik, vagy
+
+c) a Nyíregyházi Főiskola Műszaki és Mezőgazdasági Karán vagy annak jogelőd intézményénél repülőgép vezetői üzemmérnöki diplomát vagy azzal egyenértékű szakképesítést szerzett.
+
+(3)[^15]
+
+(4)[^16] A légi-mezőgazdasági engedéllyel rendelkező személy ötévenként részt vesz a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kijelölt szervezet által szervezett növényvédelmi szakmai továbbképzésen, amely vizsgaköteles. A továbbképzés tematikáját a NÉBIH a honlapján teszi közzé. Amennyiben a kötelezett a továbbképzésen részt vett, és eredményes vizsgát tett, erről a továbbképzést végző szervezet vagy intézmény tanúsítványt állít ki.
+
+(5)[^17]
+
+(6)[^18] A vármegyei kormányhivatal az Éltv. 57. § n) pontja alapján, a légi-mezőgazdasági engedélyt visszavonja, ha az engedély jogosultja
+
+a) a mezőgazdasági légijármű vezetését – a mezőgazdasági kiképzését végző gyakornok légi járművezető kivételével – a mezőgazdasági repülés során légi-mezőgazdasági engedéllyel nem rendelkező személynek átengedi,
+
+b) a (4) bekezdésben foglalt továbbképzési kötelezettségét nem teljesíti és ennek hiányában mezőgazdasági repülést végez, vagy
+
+c) az e rendeletben foglalt előírásokat a mezőgazdasági repülés során megszegi, és ezzel a környezetet vagy az emberi egészséget súlyosan veszélyezteti.
+
+(7)[^19] A légi-mezőgazdasági engedély visszavonásától számított egy éven belül új engedély nem kérelmezhető. Az új engedély megadásának feltétele a (4) bekezdés szerinti vizsgának az engedély visszavonását követő eredményes letétele.
+
+(8)[^20] Pilóta nélküli légijárművel történő mezőgazdasági repülést a pilóta nélküli légijárművel történő légi-mezőgazdasági munkavégzésre jogosultak nyilvántartásában (a továbbiakban: mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartás) szereplő személy végezhet.
+
+(8a)[^21] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartást a NÉBIH vezeti, és honlapján közzéteszi azt.
+
+(9)[^22] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartás tartalmazza:
+
+a) a jogosult személynek az Éltv. 38. § (2) bekezdés c) pontja szerinti adatai közül a nevét és lakcímét,
+
+b) a jogosult személy FELIR azonosítóját, tevékenység azonosítóját, és
+
+c) a nyilvántartásba vétel, valamint a nyilvántartásból való törlés időpontját.
+
+(10)[^23] Mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásba az jegyezhető be, aki a távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló miniszteri rendelet szerinti hatályos pilóta nélküli légijármű irányítói igazolvánnyal rendelkezik, valamint a NÉBIH által erre kijelölt szervezet által szervezett pilóta nélküli légijárműves növényvédelmi alapképzést elvégezte. A képzés szervezésére jóváhagyott intézmények listáját és a képzés tematikáját a NÉBIH honlapján teszi közzé.
+
+(11)[^24] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásban szereplő személy kétévenként köteles részt venni a NÉBIH által erre kijelölt szervezet által szervezett növényvédelmi szakmai továbbképzésen. A képzés szervezésére kijelölt szervezetek listáját és a továbbképzés tematikáját a NÉBIH a honlapján teszi közzé. A továbbképzés vizsgaköteles, arról a továbbképzést végző szervezet vagy intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzésen részt vett és eredményes vizsgát tett.
+
+(12)[^25] A NÉBIH a (9) bekezdés szerinti nyilvántartásból törli azt a személyt, aki
+
+a) a (11) bekezdés szerinti szakmai továbbképzési kötelezettségének nem tesz eleget, és ennek hiányában folytat légi permetezési tevékenységet,
+
+b) a mezőgazdasági repülés során az e rendeletben foglalt előírásokat megszegi, és ezzel a környezetet vagy az emberi egészséget súlyosan veszélyezteti, vagy
+
+c) nem rendelkezik érvényes pilóta nélküli légijármű irányítói igazolvánnyal.
+
+## A légi permetezés szabályai[^26]
+
+### 3/A. §[^27]
+
+(1)[^28] Légi permetezés – ha e rendelet eltérően nem rendelkezik – az adott naptári évre vonatkozó – a vármegyei kormányhivatal által engedélyezett – kijuttatási terv (a továbbiakban: kijuttatási terv) alapján végezhető.
+
+(1a)[^29] A kijuttatási tervet a tervezett első légi permetezés megkezdése előtt legalább harminc nappal kell benyújtani a vármegyei kormányhivatalhoz.
+
+(1b)[^30] A kijuttatási terv engedélyezése iránti kérelem tartalmazza:
+
+a) a kérelmező nyilatkozatát arról, hogy
+
+aa) a légi permetezésre a 3/A. §-ban vagy a 3/B. §-ban foglaltak miatt kerül sor,
+
+ab) a légi permetezés közterületet érint,
+
+ac)[^31] a légi permetezés védett természeti területet vagy különleges rendeltetésű vadászterületet érint, és a védett természeti terület, valamint a természetvédelmi érdek érvényesítése céljából kijelölt különleges rendeltetésű vadászterület esetén a természetvédelmi hatóság által kiadott engedéllyel rendelkezik (az engedély számának megjelölésével),
+
+ad) a légi permetezés érint-e Natura 2000 területet;
+
+b) annak igazolását, hogy a kérelmező
+
+ba) az igazgatási szolgáltatási díj megfizetését teljesítette,
+
+bb)[^32]
+
+c) a légi permetezéssel érintett táblák adatait, ezen belül táblánként a település nevét, a tábla blokkazonosítóját, helyrajzi számát, erdészeti azonosítóját, az érintett terület nagyságát hektárban kifejezve, valamint a légi permetezés időpontját, a permetezéssel érintett kultúrát, a kijuttatandó készítmény nevét és dózisát; és
+
+d) ha a légi permetezésre a 3/A. §-ban foglaltak miatt kerül sor
+
+da) a károsító előrejelzési adatokat és a károsító felvételezési adatokat, és
+
+db) a 3/A. § (2) bekezdése szerinti szakmai indokokat;
+
+e) az 5. § (2) bekezdése szerinti munkatérképet; és
+
+f) közterületet érintő légi permetezés esetén a lakosság tájékoztatásának leírását.
+
+(1c)[^33] A szakirányító a kijuttatási tervet megrendelőnként vagy földhasználónként készíti el.
+
+(2)[^34] A légi permetezés akkor engedélyezhető, ha
+
+a)[^35] a termés mennyiségét, minőségét veszélyeztető károsító megjelenésével, illetve az ilyen hatású meteorológiai és egyéb természeti körülmény bekövetkezésével járó állapot a légi permetezésen kívüli más növényvédelmi módszerrel eredményesen nem hárítható el, vagy
+
+b)[^36] a növényvédő szer földi úton történő alkalmazásával összehasonlítva a légi permetezés előnyösebb az egészségre és a környezetre gyakorolt kisebb hatása miatt.
+
+(3)[^37]
+
+(4)[^38] Az engedélyben meg kell határozni a légi permetezés végzésének feltételeit, a megmunkálandó terület közelében lévő környezet védelméhez szükséges, a 12–15. § szerinti előírásokat, valamint a légi permetezéssel érintett személyek, beleértve a méhészek tájékoztatására vonatkozó előírásokat.
+
+(5)[^39] A szakirányító
+
+a) a légi permetezést,
+
+b) a növényvédő szernek nem minősülő növényvédő hatású termékkel végzett mezőgazdasági repülést vagy
+
+c) a termésnövelő anyaggal végzett tápanyag-gazdálkodási célú mezőgazdasági repülést,
+
+annak megkezdése előtt, de legkésőbb az azt megelőző munkanap délelőtt 9 óráig bejelenti a vármegyei kormányhivatalnak.
+
+(5a)[^40] Az (5) bekezdés szerinti bejelentés a következő adatokat tartalmazza:
+
+a) a bejelentő szakirányító vagy a mezőgazdasági repülést megrendelő neve és elérhetősége,
+
+b) a szakirányító FELIR azonosítója,
+
+c) a légijármű üzemeltetőjének neve és címe,
+
+d) a légijármű típusa,
+
+e) a mezőgazdasági repüléssel érintett terület adatai [a Mezőgazdasági Parcella Azonosító Rendszer szerinti blokkazonosítója, a település neve, a parcella azonosító, helyrajzi szám, erdő esetén erdészeti azonosító, az érintett terület nagysága (ha), a kezelt kultúra megnevezése],
+
+f) a kijuttatandó készítmény adatai (megjelölése, dózisa),
+
+g) a mezőgazdasági repülés tervezett időtartama óra pontossággal, és
+
+h) a lehetséges leszállóhely EOV rendszer szerinti koordinátái,
+
+i)[^41] pilóta nélküli légijárművel végzett mezőgazdasági repülés esetén
+
+ia) az üzemeltető LUC engedélyének, UAS-üzembentartói nyilatkozatának vagy műveleti engedélyének számát és
+
+ib) a mezőgazdasági repülés céljára szolgáló pilóta nélküli légi jármű nyilvántartási számát.
+
+(6)[^42]
+
+### 3/B. §[^43]
+
+(1)[^44] A termés mennyiségét, minőségét súlyosan veszélyeztető károsító megjelenésével, illetve ilyen hatású meteorológiai, természeti esemény bekövetkezésével járó állapot esetén el lehet térni az engedélyezett kijuttatási tervben foglaltaktól.
+
+(2)[^45] Az (1) bekezdés szerinti esetben a szakirányítónak a tervezett légi permetezést – a vonatkozó jogszabályokban rögzített egyéb, a mezőgazdasági repüléshez szükséges légtér használatával összefüggő engedélyezési vagy bejelentési eljáráson túlmenően – a légi permetezés kezdőnapját megelőző munkanap délelőtt 9 óráig be kell jelentenie a vármegyei kormányhivatalnak. A bejelentésnek a 3/A. § (1b) bekezdése alapján kiadott engedélyhez képest az (1) bekezdés szerinti eltéréseket kell tartalmaznia. A légi permetezést a vármegyei kormányhivatal a tervezett időpontját megelőzően megtiltja, ha a bejelentés nem indokolja az engedélytől való eltérést az (1) bekezdésnek megfelelő tartalommal.
+
+(3)[^46] Ha az (1) bekezdés szerinti állapot fennállása légi permetezést tesz indokolttá, azonban a szakirányító az adott területre engedélyezett kijuttatási tervvel nem rendelkezik, a szakirányító a tervezett légi permetezést – a vonatkozó jogszabályokban rögzített egyéb, a mezőgazdasági repüléshez szükséges légtér használatával összefüggő engedélyezési vagy bejelentési eljáráson túlmenően – a légi permetezés kezdőnapját megelőző munkanap délelőtt 9 óráig bejelenti a vármegyei kormányhivatalnak a 3/A. § (1b) bekezdése szerinti adattartalommal. Ha a bejelentés nem felel meg a 3/A. § (1b) bekezdésének, a légi permetezést a vármegyei kormányhivatal a tervezett időpontját megelőzően megtiltja.
+
+### 3/C. §[^47]
+
+(1)[^48] A vármegyei kormányhivatal nyilvántartást vezet
+
+a) a kijuttatási tervekről és azok engedélyezéséről,
+
+b) a 3/A. § (5) bekezdése szerint bejelentett légi permetezések helyéről és idejéről,
+
+c) a 3/B. § (2) és (3) bekezdése szerinti bejelentésekről.
+
+(2)[^49] A vármegyei kormányhivatal a hivatalos honlapján közzéteszi a 3/A. és a 3/B. § szerinti légi permetezéssel megmunkálandó területre, a kijuttatás időpontjára és az alkalmazott növényvédő szer típusára vonatkozó információkat.
+
+(3)[^50] A 3/A. és a 3/B. § szerinti bejelentések befogadására a vármegyei kormányhivatal szabad és munkaszüneti napokon készenlétet tart fenn, amelyre vonatkozó információkat honlapján közzéteszi.
+
+## A mezőgazdasági repülés végzésének általános szabályai
+
+### 4. §[^51]
+
+Mezőgazdasági repülés zárt kabinú légijárművel repülőtérről vagy leszállóhelyről végezhető. A mezőgazdasági repülés céljára szolgáló pilóta nélküli légijárművel repülés az engedélyezett légtérhez tartozó területről végezhető.
+
+### 5. §
+
+(1)[^52] A mezőgazdasági légi jármű vezetője a mezőgazdasági repülés megkezdése előtt meggyőződik a munkaterület levegőből való megmunkálásához szükséges munkafeltételek együttes meglétéről, amelynek megtörténtét és a felmerülő észrevételeit a repülési naplóba bejegyzi.
+
+(2)[^53] Mezőgazdasági repülést a légijármű vezetője kizárólag megfelelő munkatérkép birtokában kezdheti meg, amely átvételének tényét a munkatérképre fel kell jegyezni. A munkatérkép tartalmazza a kezelésre kijelölt területeket, és a kezelés szempontjából érzékeny területeket. A munkatérképen a szakirányító feltünteti a mezőgazdasági repülés során kijuttatott készítményre, valamint a kezelt terület elhelyezkedésére figyelemmel szükséges védőtávolságokat. Az átadott munkatérképen mindent, ami a repüléssel kapcsolatosan veszélyt jelenthet, piros színnel meg kell jelölni.
+
+(3)[^54] A mezőgazdasági repülés megkezdése előtt, valamint annak tartama alatt a mezőgazdasági légijármű vezetője vagy az általa megbízott személy figyelemmel kíséri a kezelt munkaterület 5 kilométeres körzetén belül az időjárási körülményeket – különösen a hőmérséklet, szélirány, szélsebesség, páratartalom, felhőzet adatait –, és az észlelt adatokat az erre rendszeresített repülési naplóba óránként bejegyzi. Az adatok feljegyzését légi permetezés esetén a szakirányító, más esetben a megrendelő a munkavégzés befejeztével aláírásával igazolja. A mezőgazdasági légijármű üzemeltetője a mezőgazdasági repüléssel kapcsolatos valamennyi dokumentációt az utolsó bejegyzés időpontjától számított 3 évig megőrzi.
+
+(4)[^55] Mezőgazdasági repülést végezni csak repülésfigyelő közreműködésével lehet, aki a mezőgazdasági légijármű vezetője tevékenységének elősegítéséért, a mezőgazdasági repüléssel összefüggésben a földi biztonságért felel, így felügyel különösen a terület akadálymentességére, a környező járművek, emberek, állatok mozgására, a kiszolgálóberendezéseknek a mezőgazdasági légijárműtől való eltávolítására, a repülőtér, illetve nem nyilvános fel- és leszállóhely általános rendjére, nem érintve a repülőtér üzemben tartójának felelősségét. A repülésfigyelőt a mezőgazdasági légi jármű üzemeltetője vagy – azzal egyetértésben – a mezőgazdasági légijármű vezetője jelöli ki.
+
+(5) A mezőgazdasági repülést a technológiának megfelelő biztonságos magasságban kell végrehajtani.
+
+### 6. §
+
+(1)[^56] Zárt kabinú légijármű esetében az Lt. szerinti akadálynak tekintendő a repülőgép haladási irányában a szárnyvégtől, illetőleg a mezőgazdasági szóróberendezés szélsőpontjaitól számított, mindkét irányban 15-15 méter távolságon belül lévő
+
+a) személy, a mezőgazdasági repülőgépes munkákhoz beosztott, jelző feladatot ellátó személy kivételével,
+
+b) négylábú haszonállat,
+
+c) munkaterületen szétszórt fa, bokor, illetőleg fa- és bokorcsoport, továbbá
+
+d) a repülést akadályozó egyéb természetes és mesterséges tárgy.
+
+(1a)[^57] Pilóta nélküli légijármű esetében az Lt. szerinti akadálynak tekintendő a légijármű haladási irányában a mezőgazdasági szóróberendezés szélső pontjaitól számított 10 méter távolságon belül lévő
+
+a) személy, a mezőgazdasági repülőgépes munkákhoz beosztott, jelző feladatot ellátó személy kivételével,
+
+b) nagytestű négylábú házi- vagy vadállat.
+
+(2) A mezőgazdasági légijármű vezetőjének be kell tartania a villamosmű biztonsági övezetéről szóló külön jogszabály[^58] előírásait.
+
+### 7. §
+
+Merevszárnyú repülőgéppel végzett mezőgazdasági repülés során:
+
+a) akadályokkal szegélyezett munkaterület esetén a munkavégzés magasságát az akadályok nagyságától függően 40 fokos szögnél nem meredekebb süllyedéssel szabad elérni,
+
+b) a visszaforduláshoz szükséges emelkedő fordulót a munkaterület elhagyása után legalább 20 méter magasságban lehet kezdeni, és a forduló során a repülőgépnek legalább 30 méter magasságot kell elérnie,
+
+c) szabálytalan alakú kanyargós munkaterület megmunkálásakor a repülőgép-vezető köteles minden 20 foknál nagyobb irányváltoztatásnál a szóróberendezést elzárni,
+
+d) hegyeken, meredekebb lejtőn elhelyezkedő munkaterület megmunkálásakor a repüléseket a szintvonalak iránya mentén kell végrehajtani, a repülőgép fordulóit a lejtőn kifelé kell végrehajtani,
+
+e) a táblavégi fordulás alatt a szóróberendezést elzárva kell tartani.
+
+### 8. §
+
+Helikopterrel végzett mezőgazdasági repülés során:
+
+a) akadályokkal szegélyezett munkaterület megmunkálását úgy kell végrehajtani, hogy a helikopter az akadályok felett legalább 5 méter magasan haladjon át, ilyen esetben a megengedett legnagyobb merülősebesség 2 m/s,
+
+b) visszaforduláshoz szükséges standard fordulót a munkaterület elhagyása után 15 méter magasságban, legfeljebb 30 fokos bedöntéssel kell végrehajtani, legalább 40 km/h sebességgel,
+
+c) amennyiben a terepakadályok és a szél iránya lehetővé teszi, a visszafordulás megengedett a párnahatás magasságán belül, de ebben az esetben a bedöntés legnagyobb szöge 15 foknál több nem lehet,
+
+d) 30 foknál meredekebb lejtős munkaterület csak a szintvonalakkal párhuzamosan és lefelé munkálható meg,
+
+e) 30 fok alatti lejtők megmunkálásánál a munka bármely irányból elvégezhető,
+
+f) lejtőn lefelé végrehajtott megmunkálásnál 60 km/h munkasebesség alatt a merülősebesség legfeljebb 2 m/s lehet,
+
+g) felfelé végrehajtott munkáknál a helikopter terhelését úgy kell meghatározni, hogy munkavégzés közben a típusra előírt tartalékteljesítmény mindig rendelkezésre álljon,
+
+h) a táblavégi fordulás alatt a szóróberendezést elzárva kell tartani.
+
+## A mezőgazdasági repülésben engedélyezett termékek
+
+### 9. §[^59]
+
+(1)[^60] Zárt kabinú mezőgazdasági légijárművel légi kijuttatásra engedélyezett növényvédő szer és növényvédő szernek nem minősülő növényvédő hatású termék juttatható ki.
+
+(1a)[^61] Pilóta nélküli légijárművel pilóta nélküli légijárművel való kijuttatásra engedélyezett növényvédő szer és növényvédő szernek nem minősülő növényvédő hatású termék juttatható ki.
+
+(2) Mezőgazdasági repülés során a felhasznált készítményt az engedélyokiratban foglaltak szerint kell kijuttatni.
+
+## A szakirányító feladatai[^62]
+
+### 10. §[^63]
+
+(1) A mezőgazdasági repülést szakirányítónak kell felügyelni.
+
+(2) A szakirányító köteles
+
+a)[^64] a mezőgazdasági repülés megkezdése előtt a légi jármű vezetőjének írásban átadni a kijuttatásra kerülő készítmény megnevezését és a helyi viszonyokhoz igazodó felhasználási utasítását, légi permetezés esetén a kijuttatási tervet engedélyező határozat másolatát vagy a kijuttatási tervhez nem kapcsolódó egyedi légi permetezési bejelentést,
+
+b) a mezőgazdasági repülés megkezdése előtt az 5. § (2) bekezdés szerinti adatokat tartalmazó naprakész munkatérképet írásban, egy-egy példányban átadni a repülésfigyelőnek és a légi jármű vezetőjének,
+
+c)[^65] zárt kabinú légijármű esetén a mezőgazdasági repülés ideje alatt a munka megkezdésétől annak befejezéséig a repülőtéren, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet szerinti „B” osztályú leszállóhelyen vagy a munkaterületen tartózkodni,
+
+d)[^66]
+
+e) a munkavégzés megkezdése előtt a permetezéssel érintettek megfelelő tájékoztatásáról gondoskodni,
+
+f) a méhek védelme érdekében a növényvédelmi tevékenységről szóló jogszabályban foglalt rendelkezéseket a munkavégzés során betartani.
+
+(3)[^67]
+
+(4)[^68] A szakirányító felelős a légi permetezés engedélyezett kijuttatási tervnek megfelelő végzéséért, a mezőgazdasági repülés helyszíni irányításáért, a felhasználásra kerülő készítmény átmeneti tárolásáért, megfelelő előkészítéséért, a munkavédelemre vonatkozó biztonsági és a visszamaradt veszélyes hulladék ártalmatlanítására vonatkozó külön jogszabályban foglalt előírások betartásáért.
+
+(5)[^69] A szakirányító felelőssége a mezőgazdasági légi jármű vezetőjének szabálytalan munkavégzésével, kijuttatástechnikai hibával okozott kárra nem terjed ki.
+
+(6)[^70] Tápanyag-gazdálkodási mezőgazdasági repülés esetén a szakirányítóra vonatkozó (1)–(5) bekezdésekben foglalt rendelkezéseket a mezőgazdasági repülés megrendelőjére kell alkalmazni.
+
+## A mezőgazdasági légi jármű üzemeltetőjének és vezetőjének feladatai[^71]
+
+### 11. §
+
+(1)[^72] A mezőgazdasági légi jármű üzemeltetőjének
+
+a) a mezőgazdasági légijármű kijuttató szóróberendezését, felszerelését, tartozékát műszakilag kifogástalan állapotban kell tartania, különös tekintettel a munkaszélességre jellemző keresztirányú szórásegyenletességre, valamint zárt állapotban az elfolyás- és csöpögésmentes szállítást lehetővé tevő berendezések állapotára,
+
+b)[^73] székhelyét és telephelyét a vármegyei kormányhivatalnak be kell jelentenie.
+
+(1a)[^74] A pilóta nélküli légijármű üzemeltetője a mezőgazdasági repülés során egy különálló, teljes mértékben tömítetten lezárható, legalább 15 dm<sup>3</sup> térfogatú tartályt vagy edényt biztosít a permetlétartály ürítését követően a tartályban maradt teljes visszamaradó mennyiségnek a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 8. § (2) bekezdése szerinti hígításához, a permetező felépítmény teljes körű és alapos tisztításához, továbbá a kezelő személy vagy személyek tisztálkodásához.
+
+(2)[^75] A mezőgazdasági légi jármű vezetőjének rendelkeznie kell a növényvédelmi tevékenységről szóló miniszteri rendelet szerinti egyéni védőeszközökkel. A mezőgazdasági légi jármű vezetője felelős a mezőgazdasági repülés, továbbá a növényvédő szer, növényvédő szernek nem minősülő növényvédő hatású termék és termésnövelő anyag kijuttatás-technikai szabályainak, valamint a mezőgazdasági repülés megrendelője, illetve a szakirányító utasításainak betartásáért. A mezőgazdasági légijármű vezetője köteles a munkavégzést megtagadni, amennyiben a szakirányító a 10. § (2) bekezdése szerinti dokumentumokat, tápanyag-gazdálkodási mezőgazdasági repülés vagy növényvédő szernek nem minősülő növényvédő hatású termék kijuttatása esetén a mezőgazdasági repülés megrendelője az 5. § (2) bekezdése szerinti dokumentumokat részére nem adta át, illetve nem mutatta be.
+
+(3) A mezőgazdasági repülés során kezelhető legkisebb területet a mezőgazdasági légijármű vezetőjének a biztonsági szempontok és a 12. § figyelembevételével kell megállapítania.
+
+(3a)[^76] A légi jármű vezetője a munkavégzést ideiglenesen felfüggeszti, leállítja, vagy a szakirányítóval egyeztetve módosítja, ha azt a meteorológiai körülmények, a munkavégzés módja vagy egyéb veszélyhelyzet fellépése indokolja, és ennek tényét a repülési naplóba bejegyzi.
+
+(4)[^77] A mezőgazdasági légi jármű vezetőjének a 10. § (2) bekezdés a) pontja szerinti felhasználási utasítást, a kijuttatási tervet engedélyező határozat másolatát vagy az egyedi légi permetezési bejelentést, valamint a 10. § (2) bekezdés b) pontja szerinti munkatérképet a repülési napló mellékleteként kell kezelnie.
+
+## A mezőgazdasági repülés környezetvédelmi előírásai
+
+### 12. §[^78]
+
+(1) A mezőgazdasági repülést úgy kell végrehajtani, hogy növényvédő szer, növényvédő szernek nem minősülő növényvédő hatású termék és termésnövelő anyag a kezelésre szánt területen kívül más területre ne kerüljön.
+
+(2) Folyékony halmazállapotban kijuttatásra kerülő növényvédő szerrel, növényvédő szernek nem minősülő növényvédő hatású termékkel, illetve termésnövelő anyaggal végzett mezőgazdasági repülés csak elsodródásgátló szórófej használatával végezhető, olyan beállítással, amely biztosítja, hogy a kezelendő kultúrára kerülő permetlé cseppek 50%-os térfogat szerinti átmérője legalább 200 μm.
+
+(3) Gyomirtó, állományszárító és érésgyorsító szerek kijuttatása elsodródást csökkentő adalékanyag egyidejű alkalmazása mellett történhet.
+
+(4)[^79] A légi permetezést végző légijárműnek rendelkezni kell olyan berendezéssel, amely folyamatosan rögzíti a légijármű, valamint a szórófejek nyitásának és zárásának – GPS koordinátákkal megadott – földrajzi helyzetét.
+
+(5)[^80] A légi permetezést végző légijármű üzemeltetője a (4) bekezdés szerinti, letölthető adatot 3 évig megőrzi.
+
+### 13. §[^81]
+
+(1)[^82] Zárt kabinú légijárművel – a munkaterületre való ki- és berepülés kivételével – lakott területrész, állattartó terület, felszíni víz, vízkivételi mű, települési szennyvíztisztító telep, fokozottan védett természeti terület, erdőrezervátum vagy bioszféra rezervátum magterülete felett tilos mezőgazdasági repülést végezni.
+
+(1a)[^83] Pilóta nélküli légijárművel végzett mezőgazdasági repülés esetén a repülési útvonal nem vezethet át lakott területrész, állattartó terület, felszíni víz, vízkivételi mű, vízbázis védőterülete, települési szennyvíztisztító telep, fokozottan védett természeti terület, erdőrezervátum vagy bioszféra rezervátum magterülete felett.
+
+(2)[^84] Légi permetezés esetén – amennyiben az engedélyokirat másként nem rendelkezik – lakott területrész, valamint természetvédelmi terület határától legalább 100 méteres védőtávolságot kell tartani. Amennyiben a szél lakott területrész vagy természetvédelmi terület felé fúj, a védőtávolság legalább 300 méter.
+
+(3) Amennyiben a mezőgazdasági repülés védett természeti területet vagy különleges rendeltetésű vadászterületet érint, a kijuttatáshoz az illetékes természetvédelmi, illetve vadászati hatóság engedélye szükséges, amelyet a légi permetezés esetén a szakirányítónak, egyéb esetben a megrendelőnek kell előzetesen beszerezni.
+
+(4)[^85] A NÉBIH által megállapított nagy területre kiterjedő súlyos kár elhárítása érdekében lakott területrész felett légi permetezés az engedélyokirata szerint közterületen felhasználásra és légi úton történő kijuttatásra is engedélyezett növényvédő szerrel végezhető. Erről a települési önkormányzat jegyzőjét, a népegészségügyi határkörben eljáró vármegyei kormányhivatalt, valamint a helyben szokásos módon a lakosságot tájékoztatni kell.
+
+(5) A munkaterületre való ki- és berepülés útvonalát úgy kell kijelölni, hogy az lehetőség szerint ne érintse az (1) és (3) bekezdésekben meghatározott, a munkatérképen jelölt területeket.
+
+(6)[^86] Ha a zárt kabinú mezőgazdasági légijárművel vagy a pilóta nélküli légijárművel történő légi kijuttatásra engedélyezett növényvédő szer engedélyokirata nem tartalmaz légi permetezésre vonatkozó védőtávolságokat a kezelésre nem szánt területek vonatkozásában, az engedélyokiratban a földi kijuttatásra meghatározott védőtávolságok kétszeresét, de legalább 20 méter védőtávolságot kell alkalmazni.
+
+(7)[^87] Ha a termésnövelő anyag vagy növényvédő szernek nem minősülő növényvédő hatású termék engedélyokirata nem tartalmaz légi kijuttatásra vonatkozó védőtávolságot, akkor a lakott területrésztől és a felszíni vizektől
+
+a) zárt kabinú mezőgazdasági légijármű esetén 50 méteres,
+
+b) a pilóta nélküli légijármű esetén legalább 20 méteres
+
+védőtávolságot kell tartani.
+
+### 14. §[^88]
+
+(1)[^89] Szőlő-, gyümölcskultúra és erdő 3000 méteres körzetében rügyfakadás után tilos hormonbázisú gyomirtó szert kijuttatni.
+
+(2)[^90] Gyomirtó, állományszárító és érésgyorsító készítmény kijuttatása védett természeti terület felett – a 13. § (3) bekezdésében meghatározott kivétellel – tilos.
+
+(3)[^91]
+
+(4) Közterületen végzett kijuttatás csak a 3/A. § (4) bekezdése szerint előírt, a környezet védelméhez szükséges intézkedések betartásával lehetséges.
+
+(5) A felszíni vizek minősége védelmének szabályairól szóló külön jogszabályban4 foglalt biztonsági előírásokat a kijuttatás során be kell tartani.
+
+### 15. §
+
+(1) Vegyszeres gyomirtás és állomány szárítás permetezési munkái legfeljebb 4 m/s sebességű szélben és legfeljebb 25 °C hőmérsékletig végezhetők.
+
+(2)[^92] Légi permetezés során LV kategóriájú növényvédő szert legfeljebb 4 m/s nagyságú szélsebesség, ULV kategóriájú növényvédő szert legfeljebb 2 m/s szélsebesség mellett lehet kijuttatni.
+
+(3) 25 °C feletti hőmérsékleteknél, valamint 65% relatív páratartalom alatt történő növényvédő szer kijuttatásról a szakirányító dönt.
+
+(4) Tilos növényvédő szer vagy termésnövelő anyag kijuttatást végezni fordított léghőmérsékleti állapot (inverziós jelenség) esetén.
+
+## A mezőgazdasági repülés tűzvédelmi előírásai
+
+### 16. §
+
+(1)[^93] Zárt kabinú légijárművel végzett mezőgazdasági repülések alkalmával a mezőgazdasági légijárművek indításához, motorozásához, üzemanyaggal, éghető tulajdonságú növényvédő szerrel vagy termésnövelő anyaggal való feltöltéséhez 5700 kg felszálló tömegig legalább egy darab, legalább 55A 233B oltásteljesítményű 9 kg töltet tömegű tűzoltó készüléket kell készenlétben tartani. 5700 kg feletti felszálló tömegű repülőgépek esetében legalább egy darab 50 kg-os (II B oltásteljesítményű) ABC porral töltött, vagy 50 literes habbal oltó tűzoltó készüléket kell készenlétben tartani. A tűzoltó készülékeknek meg kell felelniük az MSZ EN–3 szabványsorozat előírásainak.
+
+(2) Az (1) bekezdésben meghatározott tűzoltó készüléket kell készenlétben tartani abban az esetben is, ha nem helyhez kötött üzemanyag töltőállomásról vagy berendezésből történik a repülőgép üzemanyaggal való feltöltése.
+
+(3) Az üzemanyaggal való feltöltés megkezdése előtt a mezőgazdasági légijárművet földelő kábellel kell ellátni.
+
+## Záró rendelkezések
+
+### 17. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
+
+(2) A 18. § (2) bekezdése e rendelet kihirdetése napján lép hatályba.
+
+### 17/A. §[^94]
+
+A mező- és erdőgazdasági légi munkavégzésről szóló 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet módosításáról szóló 34/2012. (IV. 6.) VM rendelet hatálybalépését[^95] megelőzően megszerzett légi-mezőgazdasági bizonyítvánnyal rendelkező személy a légi-mezőgazdasági bizonyítvány érvényességi idejének lejártáig jogosult mezőgazdasági repülést végezni.
+
+### 18. §[^96]
+
+Ez a rendelet
+
+a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek,
+
+b) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelv 3. cikk 5. pontjának és 9. cikkének,
+
+c) a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i 2018/958/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. melléklet a mező- és erdőgazdasági légi munkavégzésről szóló 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^97]
+
+## 2. melléklet a mező- és erdőgazdasági légi munkavégzésről szóló 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^98]
+
+## 3. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^99]
+
+## 4. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^100]
+
+---
+
+[^1]: Az 1. § a 4/2022. (II. 8.) AM rendelet 1. §-ával megállapított szöveg. [E módosító rendelet 15. § a) pontjával elrendelt módosítás, amely szerint a „talajerő-gazdálkodási” szövegrész helyébe a „tápanyag-gazdálkodási” szöveg lép, nem vezethető át.]
+[^2]: A 2. § (1) bekezdés 1. pontja a 24/2013. (IV. 11.) VM rendelet 1. § (1) bekezdésével megállapított, a 4/2022. (II. 8.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 2. pontja a 4/2022. (II. 8.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 2a. pontját a 24/2013. (IV. 11.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 4/2022. (II. 8.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 4. pontja a 24/2013. (IV. 11.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 4a. pontját a 4/2022. (II. 8.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 5. pontját a 34/2012. (IV. 6.) VM rendelet 1. §-a iktatta be, szövege a 4/2022. (II. 8.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés 6. pontját a 4/2022. (II. 8.) AM rendelet 2. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 7. pontját a 4/2022. (II. 8.) AM rendelet 2. § (3) bekezdése iktatta be.
+[^10]: A 2. § (2) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § b) pontja hatályon kívül helyezte.
+[^11]: A 3. § a 34/2012. (IV. 6.) VM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 3. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (1) bekezdésével megállapított, a 23/2023. (V. 10.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^14]: A 3. § (2) bekezdés nyitó szövegrésze a 4/2022. (II. 8.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. § (3) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^16]: A 3. § (4) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^17]: A 3. § (5) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^18]: A 3. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított, nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^19]: A 3. § (7) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^20]: A 3. § (8) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^21]: A 3. § (8a) bekezdését a 2/2024. (I. 25.) AM rendelet 1. §-a iktatta be.
+[^22]: A 3. § (9) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^23]: A 3. § (10) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^24]: A 3. § (11) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be, szövege a 2/2024. (I. 25.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^25]: A 3. § (12) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^26]: A 3/A. §-t megelőző alcímet a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
+[^27]: A 3/A. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
+[^28]: A 3/A. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (1) bekezdésével megállapított, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja, a 2/2024. (I. 25.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^29]: A 3/A. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^30]: A 3/A. § (1b) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 3/A. § (1b) bekezdés a) pont ac) alpontja a 2/2024. (I. 25.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3/A. § (1b) bekezdés b) pont bb) alpontját a 2/2024. (I. 25.) AM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^33]: A 3/A. § (1c) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^34]: A 3/A. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^35]: A 3/A. § (2) bekezdés a) pontja a 4/2022. (II. 8.) AM rendelet 15. § c) pontja szerint módosított szöveg.
+[^36]: A 3/A. § (2) bekezdés b) pontja a 4/2022. (II. 8.) AM rendelet 15. § d) pontja szerint módosított szöveg.
+[^37]: A 3/A. § (3) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § d) pontja hatályon kívül helyezte.
+[^38]: A 3/A. § (4) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § e) pontja szerint módosított szöveg.
+[^39]: A 3/A. § (5) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (3) bekezdésével megállapított, záró szövegrésze a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^40]: A 3/A. § (5a) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^41]: A 3/A. § (5a) bekezdés i) pontja a 2/2024. (I. 25.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^42]: A 3/A. § (6) bekezdését a 24/2013. (IV. 11.) VM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § d) pontja.
+[^43]: A 3/B. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
+[^44]: A 3/B. § (1) bekezdése a 24/2013. (IV. 11.) VM rendelet 4. §-ával megállapított szöveg.
+[^45]: A 3/B. § (2) bekezdése a 2/2024. (I. 25.) AM rendelet 3. §-ával megállapított szöveg.
+[^46]: A 3/B. § (3) bekezdése a 2/2024. (I. 25.) AM rendelet 3. §-ával megállapított szöveg.
+[^47]: A 3/C. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
+[^48]: A 3/C. § (1) bekezdés nyitó szövegrésze a 4/2022. (II. 8.) AM rendelet 15. § f) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^49]: A 3/C. § (2) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § f) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja, a 2/2024. (I. 25.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^50]: A 3/C. § (3) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § f) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja, a 2/2024. (I. 25.) AM rendelet 4. § c) pontja szerint módosított szöveg.
+[^51]: A 4. § a 4/2022. (II. 8.) AM rendelet 6. §-ával megállapított szöveg. [E módosító rendelet 16. § e) pontjával elrendelt módosítás, amely szerint hatályát veszti a 4. §-ban a „nem nyilvános fel- és” szövegrész, nem vezethető át.]
+[^52]: Az 5. § (1) bekezdése a 24/2013. (IV. 11.) VM rendelet 5. §-ával megállapított szöveg.
+[^53]: Az 5. § (2) bekezdése a 4/2022. (II. 8.) AM rendelet 7. §-ával megállapított szöveg.
+[^54]: Az 5. § (3) bekezdése a 4/2022. (II. 8.) AM rendelet 7. §-ával megállapított szöveg.
+[^55]: Az 5. § (4) bekezdése a 24/2013. (IV. 11.) VM rendelet 13. § d) pontja szerint módosított szöveg.
+[^56]: A 6. § (1) bekezdés nyitó szövegrésze a 4/2022. (II. 8.) AM rendelet 15. § g) pontja szerint módosított szöveg.
+[^57]: A 6. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 8. §-a iktatta be.
+[^58]: A villamosmű biztonsági övezetéről szóló 122/2004. (X. 15.) GKM rendelet.
+[^59]: A 9. § a 24/2013. (IV. 11.) VM rendelet 6. §-ával megállapított szöveg.
+[^60]: A 9. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 9. §-ával megállapított szöveg.
+[^61]: A 9. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 9. §-a iktatta be.
+[^62]: A 10. §-t megelőző alcím a 34/2012. (IV. 6.) VM rendelet 4. §-ával megállapított szöveg.
+[^63]: A 10. § a 34/2012. (IV. 6.) VM rendelet 4. §-ával megállapított szöveg.
+[^64]: A 10. § (2) bekezdés a) pontja a 24/2013. (IV. 11.) VM rendelet 7. §-ával megállapított szöveg.
+[^65]: A 10. § (2) bekezdés c) pontja a 4/2022. (II. 8.) AM rendelet 10. §-ával megállapított szöveg.
+[^66]: A 10. § (2) bekezdés d) pontját a 24/2013. (IV. 11.) VM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^67]: A 10. § (3) bekezdését a 24/2013. (IV. 11.) VM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^68]: A 10. § (4) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § h) pontja szerint módosított szöveg.
+[^69]: A 10. § (5) bekezdése a 24/2013. (IV. 11.) VM rendelet 13. § e) pontja szerint módosított szöveg.
+[^70]: A 10. § (6) bekezdése a 24/2013. (IV. 11.) VM rendelet 13. § f) pontja, a 4/2022. (II. 8.) AM rendelet 15. § i) pontja szerint módosított szöveg.
+[^71]: A 11. §-t megelőző alcím a 24/2013. (IV. 11.) VM rendelet 13. § g) pontja szerint módosított szöveg.
+[^72]: A 11. § (1) bekezdés nyitó szövegrésze a 24/2013. (IV. 11.) VM rendelet 13. § g) pontja szerint módosított szöveg.
+[^73]: A 11. § (1) bekezdés b) pontja a 4/2022. (II. 8.) AM rendelet 15. § j) pontja és 16. § f) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^74]: A 11. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 11. §-a iktatta be.
+[^75]: A 11. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 8. § (1) bekezdésével megállapított, a 4/2022. (II. 8.) AM rendelet 15. § a) és k) pontja szerint módosított szöveg.
+[^76]: A 11. § (3a) bekezdését a 24/2013. (IV. 11.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^77]: A 11. § (4) bekezdését a 34/2012. (IV. 6.) VM rendelet 5. §-a iktatta be, szövege a 24/2013. (IV. 11.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^78]: A 12. § a 24/2013. (IV. 11.) VM rendelet 9. §-ával megállapított szöveg.
+[^79]: A 12. § (4) bekezdését a 4/2022. (II. 8.) AM rendelet 12. §-a iktatta be.
+[^80]: A 12. § (5) bekezdését a 4/2022. (II. 8.) AM rendelet 12. §-a iktatta be.
+[^81]: A 13. § a 24/2013. (IV. 11.) VM rendelet 10. §-ával megállapított szöveg.
+[^82]: A 13. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^83]: A 13. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^84]: A 13. § (2) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § l) pontja szerint módosított szöveg.
+[^85]: A 13. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 77. § h) pontja, a 4/2022. (II. 8.) AM rendelet 15. § m)–n) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^86]: A 13. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^87]: A 13. § (7) bekezdését a 4/2022. (II. 8.) AM rendelet 13. § (3) bekezdése iktatta be.
+[^88]: A 14. § a 34/2012. (IV. 6.) VM rendelet 7. §-ával megállapított szöveg.
+[^89]: A 14. § (1) bekezdése a 24/2013. (IV. 11.) VM rendelet 11. §-ával megállapított szöveg.
+[^90]: A 14. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 11. §-ával megállapított szöveg.
+[^91]: A 14. § (3) bekezdését a 24/2013. (IV. 11.) VM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^92]: A 15. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 13. § h) pontja szerint módosított szöveg.
+[^93]: A 16. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § o) pontja szerint módosított szöveg.
+[^94]: A 17/A. §-t a 34/2012. (IV. 6.) VM rendelet 8. §-a iktatta be.
+[^95]: A hatálybalépés időpontja 2012. április 7.
+[^96]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 160. pontja hatályon kívül helyezte, újonnan a 34/2012. (IV. 6.) VM rendelet 9. §-a iktatta be, szövege a 4/2022. (II. 8.) AM rendelet 14. §-ával megállapított szöveg.
+[^97]: Az 1. mellékletet a 34/2012. (IV. 6.) VM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.
+[^98]: A 2. mellékletet a 34/2012. (IV. 6.) VM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.
+[^99]: A 3. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.
+[^100]: A 4. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.

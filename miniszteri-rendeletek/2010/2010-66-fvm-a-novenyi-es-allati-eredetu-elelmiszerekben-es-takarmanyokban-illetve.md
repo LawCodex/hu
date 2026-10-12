@@ -1,0 +1,433 @@
+---
+title: "66/2010. (V. 12.) FVM rendelet a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint ezek hatósági ellenőrzéséről"
+identifier: "66/2010. (V. 12.) FVM rendelet"
+njt_id: "2010-66-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2010/FVM/66"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2010-05-12
+in_force_from: 2010-05-27
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-66-20-82"
+retrieved: 2026-10-12
+---
+
+# 66/2010. (V. 12.) FVM rendelet a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint ezek hatósági ellenőrzéséről
+
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §-a (2) bekezdésének 3., 8–11., 14. és 26. pontjában kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §
+
+(1) E rendeletet a 396/2005/EK európai parlamenti és tanácsi rendelet I. mellékletében felsorolt olyan, friss, feldolgozott, illetve összetett élelmiszerként és takarmányként használt növényi vagy állati eredetű termékekre, illetve azok részeire kell alkalmazni, amelyekben vagy amelyeken előfordulhatnak növényvédőszer-maradékok.
+
+(2) E rendeletet nem kell alkalmazni azokra a 396/2005/EK rendelet I. melléklete alá tartozó termékekre, amelyeket a következőkre szánják:
+
+a) az élelmiszerektől és a takarmánytól eltérő termékek előállítása; vagy
+
+b) vetés vagy ültetés; vagy
+
+c) a hatóanyagok vizsgálatával kapcsolatos, a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló 89/2004. (V. 15.) FVM rendelet [a továbbiakban: 89/2004. (V. 15.) FVM rendelet] szerint engedélyezett tevékenységek.
+
+(3) E rendelet előírásait az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről, valamint a csecsemők és kisgyermekek számára készült feldolgozott gabona alapú élelmiszerekről és bébiételekről szóló külön jogszabályokban foglalt eltérésekkel kell alkalmazni.
+
+#### 2. §
+
+(1) E rendelet alkalmazásában a 396/2005/EK európai parlamenti és tanácsi rendeletben, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvényben (a továbbiakban: Éltv.), valamint a 178/2002/EK európai parlamenti és tanácsi rendeletben szereplő fogalom meghatározásokat kell alkalmazni.
+
+(2)[^1]
+
+## II. Fejezet — AZ MRL-RE VONATKOZÓ HATÓSÁGI ELJÁRÁS
+
+#### 3. §
+
+(1)[^2] A 396/2005/EK európai parlamenti és tanácsi rendelet II. fejezetének előírásai tekintetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal, mint növényvédő szer engedélyezési hatóság (a továbbiakban: engedélyező hatóság) a végrehajtásért felelős hatóság.
+
+(2) Az engedélyező hatóság koordinálja az együttműködést a Bizottsággal, az Európai Élelmiszer-biztonsági Hatósággal, a többi tagállammal, a gyártókkal, a termelőkkel és előállítókkal, valamint a kérelmezőként fellépő civil társadalmi szervezetekkel.
+
+(3) Az engedélyező hatóság köteles Európai Élelmiszer-biztonsági Hatóságnak – annak kérésére – bármely rendelkezésre álló, a határértékek biztonságossága értékeléséhez szükséges információt benyújtani. Az engedélyező hatóság a gyártókat, termelőket, valamint a kérelmezőként fellépő szervezeteket érintő információkat kérésre megadja.
+
+(4) A felvétel iránti kérelmeket a 89/2004. (V. 15.) FVM rendelet 6. számú melléklete B részének 1. és 2.4.2. pontjában meghatározott, az értékelés egységes elveire vonatkozó rendelkezéseknek megfelelően, vagy a 396/2005/EK európai parlamenti és tanácsi rendelet szerinti egyedi értékelési elveknek megfelelően kell az engedélyező hatóságnak értékelnie.
+
+#### 4. §
+
+Az MRL felvétele, módosítása, törlése iránti kérelemhez kapcsolódó értékelés elvégzéséért a kérelmező díjat köteles fizetni.
+
+## III. Fejezet — HATÓSÁGI ELLENŐRZÉSEK, JOGKÖVETKEZMÉNYEK
+
+### 1. Közösségi és nemzeti ellenőrzési program
+
+#### 5. §
+
+(1)[^3] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kockázatbecslés alapján a növényvédőszer-maradékokra vonatkozóan többéves nemzeti ellenőrzési programot dolgoz ki. A NÉBIH megküldi az ellenőrzési programot a végrehajtásért felelős növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnak és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalnak (a továbbiakban együtt: ellenőrző hatóság).
+
+(2)[^4] A NÉBIH, és az ellenőrző hatóság a 396/2005/EK európai parlamenti és tanácsi rendelet 29. cikkében meghatározottaknak megfelelően részt vesz az összehangolt, többéves közösségi ellenőrzési programban.
+
+(3)[^5] A NÉBIH évente aktualizálja a nemzeti ellenőrzési programot, melyet minden naptári évben legkésőbb szeptember 30-ig megküld a Bizottságnak és az Európai Élelmiszer-biztonsági Hatóságnak.
+
+(4)[^6] A NÉBIH évente közzéteszi a növényvédőszer-maradékokra vonatkozó nemzeti ellenőrzés eredményét az agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) és a NÉBIH honlapján.
+
+### 2. Jelentéstételi kötelezettség
+
+#### 6. §[^7]
+
+A NÉBIH a 396/2005/EK parlamenti és tanácsi rendelet 31. cikke, valamint a 901/2009/EK európai bizottsági rendelet szerinti információkat tartalmazó éves jelentést készít, melyet minden következő év augusztus 31-ig megküld a Bizottság, az Európai Élelmiszer-biztonsági Hatóság és a többi tagállam részére.
+
+### 3. Hatósági ellenőrzések, mintavétel szabályai
+
+#### 7. §
+
+(1)[^8] A 396/2005/EK európai parlamenti és tanácsi rendelet I. számú mellékletében felsorolt növényekre, növényi termékekre a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, továbbá a növényeken és növényi termékeken kívüli növényi és állati eredetű élelmiszerekre és takarmányokra az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal növényvédőszer-maradékokat illetően hatósági ellenőrzéseket végez.
+
+(2) Amennyiben a harmadik országba irányuló export tétel növényvédőszer-maradék szempontból nem felel meg a célország előírásainak, az ellenőrző hatóság az export tétel feladását megtilthatja, korlátozhatja, illetve feltételhez kötheti.
+
+#### 8. §
+
+(1) A növényekben, növényi termékekben, illetve a növényeken és növényi termékeken kívüli növényi és állati eredetű termékekben és azok felületén fellelhető növényvédőszer-maradékok ellenőrzéséhez szükséges mintavételi eljárást a 1. melléklet szerint kell lefolytatni.
+
+(2) A 396/2005/EK európai parlamenti és tanácsi rendelet I. mellékletben 1020000 kódszámú „Tej és tejszín nem sűrítve, cukor vagy édesítő anyag hozzáadása nélkül, vaj és egyéb tejből származó zsiradék, sajt, túró” megnevezés alatt szereplő termék esetében az ellenőrző mintavételt a tejházban, tejüzemben, vagy ha a terméket nem szállítják tejházba vagy tejüzembe, a fogyasztónak történő szolgáltatás helyén kell végezni. Ez az ellenőrzés nem zárja ki ezen termékeknek a forgalomba hozatal időpontját követő ellenőrzését.
+
+### 4. Nyomon követhetőség ellenőrzése
+
+#### 9. §
+
+(1)[^9] Az ellenőrző hatóság és a NÉBIH a növényvédőszer-maradék mintavétel céljából végzett ellenőrzés során
+
+a) ellenőrzi a vállalkozásnál a nyomon követhetőséget biztosító rendszerek vagy eljárások meglétét,
+
+b) ellenőrzi, hogy az ellenőrzött vállalkozás beazonosította-e azt a személyt vagy vállalkozást, akitől a megmintázott tétel származik, vagy akihez a megmintázott tételt szállítják, kivéve, ha az végső fogyasztó, továbbá
+
+c) ellenőrzi a megmintázott tétel nyomon követhetőségét biztosító címke, szállító levél vagy egyéb azonosító eszköz meglétét.
+
+(2) A nyomon követhetőség biztosítása érdekében legalább a következő adatok nyilvántartása szükséges:
+
+a) annak a vállalkozásnak a neve és címe, akitől a megmintázott tétel származik, és a tétel azonosító adatai,
+
+b) annak a vállalkozásnak a neve és címe, akihez a megmintázott tételt szállítják és a tétel azonosítója kivéve, ha az a végső fogyasztó,
+
+c) a szállítás ideje, és a
+
+d) tétel mennyisége.
+
+### 5. Jogkövetkezmények
+
+#### 10. §
+
+(1) Ha az ellenőrző hatóság vizsgáló laboratóriuma a mintában MRL-t meghaladó növényvédőszer-maradékot, vagy hazai termék esetén az adott növénykultúrában nem engedélyezett növényvédő szer hatóanyagot mutat ki, a vizsgálati jegyzőkönyvet az ellenőrző hatóságnak soron kívül megküldi, amely a kifogásolt terméktételre forgalmi korlátozást rendel el.
+
+(2) Az (1) bekezdés szerinti hatósági intézkedés az ellenőrző hatóság terméktétel további sorsáról szóló döntésének meghozataláig tart, a korlátozott termék a tárolás helyéről nem szállítható el, nem dolgozható fel, nem hozható forgalomba.
+
+(3)[^10] Felkérésre a NÉBiH az Éltv. 31. §-a (2) bekezdésének b) pontja szerint szakvéleményt nyújt, majd a szakvélemény figyelembevételével az ellenőrző hatóság dönt a növények, növényi termékek, továbbá a növényeken és növényi termékeken kívüli növényi és állati eredetű termékek további forgalmazhatóságáról, felhasználhatóságáról, illetve indokolt esetben megsemmisítéséről, állati eredetű élelmiszer esetén állati eredetű melléktermékként történő kezeléséről, egyéb termék esetén hulladékként történő további kezeléséről.
+
+#### 11. §
+
+(1)[^11] A NÉBIH a növény, növényi termék, közösségi szinten elfogadott vizsgálati bizonytalansági tényező figyelembevételével megállapított MRL-t meghaladó tartalom esetében, az Éltv. 71. § (5) bekezdésében foglaltak alapján, a Minisztérium honlapján naprakészen közzéteszi a vizsgálati eredményeket a 2. melléklet szerinti formában.
+
+(2)[^12] Növények és növényi termékek vizsgálata esetében a közösségi szinten elfogadott vizsgálati bizonytalansági tényező figyelembevételével megállapított MRL túllépése esetén a vizsgálati eredményeit a laboratóriumi vizsgálati jegyzőkönyv kiállítását követő hónap utolsó napjáig a mintavétel helye szerint illetékes, belföldi rendeltetési helyre szánt behozatali küldemény esetén a rendeltetési hely szerint illetékes polgármesteri hivatal honlapján kell közzétenni.
+
+(3)[^13] Az (1)–(2) bekezdésben foglaltaktól eltérően a növényeken és növényi termékeken kívüli növényi és állati eredetű élelmiszerek és takarmányok vizsgálata esetében, amennyiben MRL túllépés kerül megállapításra, a NÉBIH az Éltv. 71. § (4) bekezdésében foglaltak alapján gondoskodik a jogsértés nyilvánosságra hozataláról.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 12. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba, és rendelkezéseit az ezt követően indult eljárásokban kell alkalmazni.
+
+#### 14. §
+
+(1)[^15] Ez a rendelet a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint a 91/414/EGK tanácsi irányelv módosításáról szóló, 2005. február 23-i 396/2005/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) Ez a rendelet a Bizottság 2002. július 11-i, a növényi és állati eredetű termékekben és azok felszínén található növényvédőszer-maradék hatósági ellenőrzésére szolgáló közösségi mintavételi módszerek megállapításáról és a 79/700/EGK irányelv hatályon kívül helyezéséről szóló 2002/63/EK irányelvének való megfelelést szolgálja.
+
+(3) Ez a rendelet az Európai Parlament és a Tanács 2002. január 28-i, az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló 178/2002/EK rendeletének való megfelelést szolgálja.
+
+(4) Ez a rendelet az Európai Parlament és a Tanács a 2004. április 29-i, a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló 882/2004/EK rendeletének való megfelelését szolgálja.
+
+(5)[^16]
+
+(6)[^17]
+
+## 1. melléklet a 66/2010. (V. 12.) FVM rendelethez
+
+**A növények, növényi termékek, valamint a növényeken és növényi termékeken kívüli növényi és állati eredetű élelmiszerek növényvédőszer-maradék szintjének hatósági ellenőrzésére történő mintavétel szabályai**
+
+Az alábbi előírások nem érintik az állati eredetű élelmiszerekben előforduló, egészségre ártalmas maradékanyagok monitoring vizsgálati rendjéről szóló 10/2002. (I. 23.) FVM rendeletben meghatározott mintavételi stratégiát, mintavételi szinteket és gyakoriságot.
+
+1\. Célkitűzés
+
+A gyümölcsben és zöldségben, valamint az állati eredetű termékben, illetve azok felületén található növényvédőszer-maradék mértékének hatósági ellenőrzésére történő mintavételi eljárás célja, hogy az analízis céljára valamely tételből kivett reprezentatív minta tegye lehetővé a növényvédőszer-maradékra megállapított határértékeknek (MRL) való megfelelőség megállapítását.
+
+2\. Alapelvek
+
+A növényre, tojásra, tejtermékre meghatározott MRL a kezelt termék több egységéből származó, a tétel átlagos szermaradék szintjét reprezentáló összetett mintában várható legmagasabb értéket veszi figyelembe. Az emlős- és baromfihúsra meghatározott MRL az egyedileg kezelt állatok szöveteiben várható legmagasabb értéket veszi figyelembe.
+
+Ennek megfelelően az emlős- és baromfihús határérték egyetlen egyedi mintából nyert mintára, a növényi termék, tojás- és tejtermék MRL értéke 1–10 egyedi mintából nyert összetett átlagmintára vonatkozik.
+
+3\. Fogalommeghatározások
+
+3.1. Analitikai rész
+
+A szermaradék koncentráció mérésére szolgáló reprezentatív mennyiségű anyag, amely az analitikai mintából származik.
+
+Megjegyzés:
+
+Az analitikai rész kivételére mintavételi eszköz használható.
+
+3.2. Analitikai minta
+
+A laboratóriumi mintából a termék vizsgálandó részének elkülönítése után keveréssel, aprítással, finomra darabolással stb. analízisre előkészített anyag arra a célra, hogy a lehető legkevesebb mintavételi hibával ebből vegyék ki az analitikai részeket.
+
+Megjegyzés:
+
+Az analitikai minta elkészítésének tükröznie kell az MRL megállapításához használt eljárást, és így a termék analizálandó része tartalmazhat általában nem fogyasztott részeket.
+
+3.3. Átlagminta/egyesített minta
+
+Az emlős- és baromfihús termékek kivételével a tételből vett egyedi minták összetett és jól elkevert együttese. Emlős- és baromfihús esetében az egyedi minta egyenértékűnek tekintendő az átlagmintával.
+
+Megjegyzés:
+
+a) Az egyedi mintáknak elegendő anyagot kell tartalmazniuk ahhoz, hogy minden laboratóriumi minta kivonható legyen az átlagmintából.
+
+b) Amennyiben az egyedi minta (minták) gyűjtése során már különálló laboratóriumi mintákat készítenek, az átlagminta a laboratóriumi minták fogalmi összege a tételből történő mintavétel során.
+
+3.4. Laboratóriumi minta
+
+Az átlagmintából származó reprezentatív mennyiségű anyag, amelyet a laboratóriumnak küldenek.
+
+Megjegyzés:
+
+a) A laboratóriumi minta lehet az átlagminta egy része vagy egésze.
+
+b) A laboratóriumi minta (minták) elkészítéséhez az egységeket nem szabad darabolni vagy összetörni, kivéve az egységek felosztásának a 3. táblázatban meghatározott eseteit.
+
+c) Laboratóriumi másodminták is készíthetők.
+
+3.5. Tétel
+
+Adott élelmiszer adott időben szállított mennyisége, amely a mintavevő személy tudomása vagy feltételezése szerint azonos jellemzőkkel rendelkezik a származásra, előállítóra, fajtára, csomagolóra, csomagolás típusára, jelölésre, szállítóra stb. vonatkozóan.
+
+Gyanús tétel az, amelynek a szermaradék tartalma feltételezhetően túl magas. Nem gyanús tétel az, amelynél nincs ok feltételezni, hogy szermaradék tartalma túl magas.
+
+Megjegyzés:
+
+a) Amennyiben a szállítmány felismerhetően különböző termelőktől stb. származó tételekből áll, minden egyes tételt külön-külön kell kezelni.
+
+b) Egy szállítmány egy vagy több tételből állhat.
+
+c) Amennyiben egy nagy szállítmányban az egyes tételek méretét vagy határát nem határozták meg egyértelműen, minden egyes vagon-, teherautó-, hajó-, rámpa- stb. sorozat különálló tételnek tekinthető.
+
+d) Egy tétel keverhető például osztályozás vagy feldolgozási, gyártási folyamat szerint.
+
+3.6. Egyedi minta
+
+Egy tétel egy helyéről vett egy vagy több egység.
+
+Megjegyzés:
+
+a) A tétel helyét – ahonnan az egyedi mintát veszik – lehetőleg véletlenszerűen kell kiválasztani, azonban amikor ez fizikailag kivitelezhetetlen, a tétel hozzáférhető részeinek véletlenszerű helyéről kell kiválasztani.
+
+b) Az egyedi mintához szükséges egységek számát a laboratóriumi minták legkisebb szükséges méretéből és számából kell meghatározni.
+
+c) A növényi termékek, tojás- és tejtermékek esetében, amennyiben a tételből egynél több egyedi mintát vesznek, ezek mindegyikének az átlagminta körülbelül hasonló részét kell alkotnia.
+
+d) Az egyedi minta (minták) gyűjtésekor laboratóriumi másodmintákat lehet az egységekből véletlenszerű elosztással képezni azokban az esetekben, amikor az egységek közepes vagy nagy méretűek, és az átlagminta keverése nem tenné a laboratóriumi mintá(ka)t reprezentatívabbá, vagy amikor az egységek (pl. tojás, bogyós gyümölcs) megsérülnének a keveréstől.
+
+e) Amennyiben a tétel be- vagy kirakodása során bizonyos időközönként vesznek egyedi mintákat, úgy a mintavételi „hely” egy időpont.
+
+f) Az egyedi minta (minták) elkészítéséhez az egységeket nem szabad darabolni vagy összetörni, kivéve az egységek felosztásának a 3. táblázatban meghatározott eseteit.
+
+3.7. Minta
+
+Egységek sokaságából kiválasztott egy vagy több egység, vagy egy nagyobb mennyiségű anyagból kiválasztott anyagrész. Ezen ajánlások alkalmazásában a reprezentatív minta a tételt, az átlagmintát, az állatot stb. hivatott reprezentálni a növényvédőszer-maradék tartalom tekintetében és nem feltétlenül más sajátosságok tekintetében.
+
+3.8. Mintavétel
+
+A minták kivételére és képzésére használt eljárás.
+
+3.9. Mintavételi eszköz
+
+a) Az egyedi mintának túl nagy méretű ömlesztett anyagból, csomagokból (mint pl. sajthengerek, nagy sajtok) vagy emlős- vagy baromfihús egységekből történő kivételére használt eszköz mint például az adagolókanál, sajtkanál, fúróeszköz, kés vagy dárda.
+
+b) A laboratóriumi minta átlagmintából történő készítéséhez vagy az analitikai rész analitikai mintából történő elkészítéséhez használt eszköz mint például a rekeszes mintakisebbítő adagolódoboz.
+
+Megjegyzés:
+
+a) A különleges mintavételi eszközöket eljárásrendben határozzák meg.
+
+b) Egyes anyagok esetében a mintavételt végző személy keze tekinthető mintavételi eszköznek.
+
+3.10. Mintavevő személy
+
+A mintavételi eljárásokban szakképzett és a megfelelő hatóságok által mintavételre feljogosított személy.
+
+Megjegyzés:
+
+A mintavételt végző személy felelős a laboratóriumi minta (minták) elkészítéséhez, csomagolásához és szállításához vezető és azokat magában foglaló eljárásért. A mintavételt végző személynek tudomásul kell vennie, hogy a meghatározott mintavételi eljárásokat következetesen be kell tartania, gondoskodnia kell a mintákra vonatkozó teljes körű dokumentációról, és szorosan együtt kell működnie a laboratóriummal.
+
+3.11. Mintanagyság
+
+A mintát alkotó egységek száma vagy az anyag mennyisége.
+
+3.12. Egység
+
+A tétel legkisebb különálló része, amelyet az egyedi mintából vagy annak egy részéből vesznek ki.
+
+Megjegyzés:
+
+Az egységeket a következőképpen kell meghatározni:
+
+a) Friss gyümölcs és zöldség. Minden egyes egész gyümölcs, zöldség vagy ezek jellegzetes fürtjei (pl. szőlő) egy egységet képez, kivéve azokat az eseteket, amikor ezek kicsik. A csomagolt kisméretű termékek egységei a d) pont szerint határozhatók meg. Amennyiben az anyag károsítása nélkül mintavételi eszköz használható, ennek segítségével képezhető egység. Különálló tojást, friss gyümölcsöt vagy zöldséget nem szabad darabolni vagy eltörni az egységek létrehozása érdekében.
+
+b) Kis állatok (baromfi- és nyúlfélék, vadon élő szárnyas vadak, halfélék) vagy ezek részei vagy szervei. Minden egyes egész állat vagy teljes állati rész vagy szerv alkothat egységet. A csomagoltak esetében az egységek a d) pont szerint határozhatók meg. Amennyiben a szermaradékok károsítása nélkül használható mintavételi eszköz, ennek segítségével képezhető egység.
+
+c) Nagy állatok [melyek nem tartoznak a b) pont szerinti kis állatok csoportjába] vagy ezek részei vagy szervei. A meghatározott rész vagy szerv egy része vagy egésze alkotja az egységet. Részeket vagy szerveket lehet levágni egységek képzése érdekében.
+
+d) Csomagolt anyagok. A legkisebb különálló csomag tekinthető egységnek. Amennyiben a legkisebb különálló csomagok nagyon nagyok, ömlesztett formában kell belőlük mintát venni az e) pont szerint. Amennyiben a legkisebb különálló csomagok nagyon kicsik, egy göngyöleg csomag képezheti az egységet.
+
+e) Ömlesztett anyagok és nagy csomagok (mint pl. sajthengerek stb.), amelyek önmagukban túl nagyok ahhoz, hogy egyedi minták lehessenek. Az egységeket mintavételi eszközzel képezik.
+
+4\. Mintavételi eljárások
+
+4.1. Betartandó óvintézkedések
+
+Minden szakaszban meg kell akadályozni a minták beszennyeződését és sérülését, mert ezek hatással lehetnek az analitikai eredményekre. Minden, a határérték betartására irányuló ellenőrzésnek alávetett tételből külön mintát kell venni.
+
+4.2. Egyedi minta vétele
+
+A tételből a vizsgálathoz szükséges egyedi minták legkisebb számát a gyanús emlős- és baromfihús-tétel esetében az 1. vagy a 2. táblázatból határozzák meg.
+
+Amennyire ez a gyakorlatban kivitelezhető, minden egyes egyedi mintát a tétel véletlenszerűen kiválasztott helyéről kell venni. Az egyedi mintáknak elegendő anyagot kell tartalmazniuk ahhoz, hogy a szükséges laboratóriumi minta (minták) rendelkezésre álljon (álljanak) a tételből.
+
+1\. táblázat
+
+A vizsgálathoz szükséges egyedi minták legkisebb száma tételenként
+
+<table><thead><tr><th></th><th>**A vizsgálathoz szükséges egyedi minták legkisebb száma** **tételenként**</th></tr></thead><tbody><tr><td>a) Emlős- és baromfihús</td><td></td></tr><tr><td>Nem gyanús tétel</td><td>1</td></tr><tr><td>Gyanús tétel</td><td>A 2. táblázat szerint meghatározva</td></tr><tr><td>b) Egyéb termékek</td><td></td></tr><tr><td>ba) Feltehetően jól elkevert vagy homogén csomagolt vagy ömlesztett termékek</td><td>1 (Egy tétel keverhető például osztályozás vagy feldolgozási eljárások útján)</td></tr><tr><td>bb) Nem feltétlenül jól elkevert vagy homogén csomagolt vagy ömlesztett termék</td><td>A nagy egységekből és kizárólag növényi eredetű élelmiszer-alapanyagokból álló termékek esetén az egyedi minta legkisebb számának meg kell egyeznie a laboratóriumi mintához szükséges egységek legkisebb számával (1.4. táblázatot).</td></tr><tr><td>vagy:</td><td></td></tr><tr><td>A tétel tömege kg-ban,</td><td></td></tr><tr><td><50</td><td>3</td></tr><tr><td>50–500</td><td>5</td></tr><tr><td>>500</td><td>10</td></tr><tr><td>vagy:</td><td></td></tr><tr><td colspan="2">Dobozok, kartondobozok vagy más tartályok száma a tételben</td></tr><tr><td>1–25</td><td>1</td></tr><tr><td>26–100</td><td>5</td></tr><tr><td>>100</td><td>10</td></tr></tbody></table>
+
+2\. táblázat
+
+Az emlős- és baromfihús tételből legalább egy szermaradék határértéket meghaladó minta adott valószínűséggel történő kivételéhez szükséges véletlenszerűen kiválasztott egyedi minták száma a tételben a határértéket meghaladó szermaradékok adott előfordulási gyakorisága esetén
+
+<table><thead><tr><th>**A határértéket meghaladó szermaradékok gyakorisága a tételben**</th><th colspan="3">**A határértéket meghaladó szermaradék észleléséhez szükséges minták legkisebb száma (n****<sub>0</sub>****)** **az alábbi valószínűség mellett:**</th></tr><tr><th>**%**</th><th>**90%**</th><th>**95%**</th><th>**99%**</th></tr></thead><tbody><tr><td>90</td><td>1</td><td>–</td><td>2</td></tr><tr><td>80</td><td>–</td><td>2</td><td>3</td></tr><tr><td>70</td><td>2</td><td>3</td><td>4</td></tr><tr><td>60</td><td>3</td><td>4</td><td>5</td></tr><tr><td>50</td><td>4</td><td>5</td><td>7</td></tr><tr><td>40</td><td>5</td><td>6</td><td>9</td></tr><tr><td>35</td><td>6</td><td>7</td><td>11</td></tr><tr><td>30</td><td>7</td><td>9</td><td>13</td></tr><tr><td>25</td><td>9</td><td>11</td><td>17</td></tr><tr><td>20</td><td>11</td><td>14</td><td>21</td></tr><tr><td>15</td><td>15</td><td>19</td><td>29</td></tr><tr><td>10</td><td>22</td><td>29</td><td>44</td></tr><tr><td>5</td><td>45</td><td>59</td><td>90</td></tr><tr><td>1</td><td>231</td><td>299</td><td>459</td></tr><tr><td>0,5</td><td>460</td><td>598</td><td>919</td></tr><tr><td>0,1</td><td>2301</td><td>2995</td><td>4603</td></tr></tbody></table>
+
+Megjegyzések:
+
+a) A táblázat véletlenszerű mintavételt feltételez.
+
+b) Azokban az esetekben, amikor az egyedi minták 2. táblázatban feltüntetett száma nagyobb, mint a teljes tétel egységeinek körülbelül 10%-a, a vizsgálathoz szükséges egyedi minták száma kevesebb is lehet, és a következőképpen kell kiszámolni:
+
+n = n<sub>0</sub>/((1+(n<sub>0</sub>–1))/N)
+
+ahol
+
+n = a vizsgálathoz szükséges egyedi minták minimális száma
+
+n<sub>0</sub> = az egyedi mintáknak a 2. táblázatban megadott száma
+
+N = egyedi mintát képező egységek száma a tételben.
+
+c) Amennyiben egyetlen egyedi mintát vesznek, valamely határérték-túllépés észlelésének valószínűsége hasonló a határértéket meghaladó szermaradékok előfordulásának gyakoriságával.
+
+d) Pontos vagy alternatív valószínűségek, vagy a határérték meghaladásának más gyakorisága esetén, a kiveendő minták számát az alábbi képletből lehet kiszámolni:
+
+1-p = (1-i)<sup>n</sup>
+
+ahol p a határértéket meghaladó szermaradékok előfordulásának a valószínűsége és i a gyakorisága a tételben (mindkettő törtként és nem százalékban kifejezve), és n a minták száma.
+
+4.3. Az átlagminta előkészítése
+
+Az emlős- és baromfihús esetén követendő eljárásokat a 3. táblázat tartalmazza. Minden egyes egyedi minta különálló mintának tekintendő.
+
+A növényi termékek, tojás- és tejtermékek esetén követendő eljárásokat a 4. és az 5. táblázat tartalmazza. Az átlagminta képzésekor – amennyiben kivitelezhető – az egyedi mintákat egyesíteni kell, és jól el kell keverni.
+
+Amennyiben az átlagminta képzésére a keverés nem alkalmas vagy kivitelezhetetlen, a következő alternatív eljárás követhető. Amennyiben az átlagminta keverése vagy felosztása során az egységek károsodhatnak (és ez hatással lehet a szermaradékokra), vagy amikor a nagy egységek nem keverhetők a szermaradékok egyenletesebb elosztása érdekében, az egységekből – az egyedi minta vételekor – laboratóriumi másodmintákat kell véletlenszerű elosztással képezni. Ebben az esetben a használandó eredmény az elemzett laboratóriumi mintákból nyert érvényes eredmények átlaga.
+
+3\. táblázat
+
+Emlős- és baromfihús: az egyedi minták leírása és a laboratóriumi minták legkisebb mennyisége
+
+<table><thead><tr><th></th><th>**Az árucikk besorolása**</th><th>**Példák**</th><th>**A vizsgálathoz szükséges egyedi minta jellege**</th><th>**Az egyes laboratóriumi minták legkisebb mennyisége**</th></tr></thead><tbody><tr><td colspan="5">Állati eredetű élelmiszer-alapanyagok</td></tr><tr><td>1.</td><td colspan="4">Emlősök húsa<br>Megjegyzés: a zsírban oldódó peszticidek MRL értékének érvényességéhez a mintákat az alábbi 2. rész szerint kell venni.</td></tr><tr><td>1.1.</td><td>Nagyemlősök, egész hasított test vagy hasított féltest, általában <10 kg</td><td>Szarvasmarha, juh, sertés</td><td>A rekeszizom egésze vagy része, szükség szerint a nyaki izommal kiegészítve</td><td>0,5 kg</td></tr><tr><td>1.2.</td><td>Kisemlősök, egész hasított test</td><td>Nyúl</td><td>Egész hasított test vagy hátsó negyed</td><td>0,5 kg bőr nélkül, csontozva</td></tr><tr><td>1.3.</td><td>Emlős-húsrészek, ömlesztett, friss/hűtött/fagyasztott, csomagolt vagy egyéb</td><td>Negyed, bordaszeletek, hússzelet, lapocka</td><td>Egész egység(ek) vagy egy nagy egység egy része</td><td>0,5 kg csontozva</td></tr><tr><td>1.4.</td><td>Emlős-húsrészek, ömlesztett, fagyasztott</td><td>Negyed, bordaszeletek</td><td>Vagy egy tartály fagyasztott keresztmetszete vagy egyedi húsrészek egésze (vagy része)</td><td>0,5 kg csontozva</td></tr><tr><td>2.</td><td colspan="4">Emlősök zsírja, beleértve a hasított test zsírját<br>Megjegyzés: a 2.1., a 2.2. és a 2.3. részben leírt módon vett zsírminták használhatók – a zsír vagy az egész termék tekintetében – a vonatkozó MRL értékeknek való megfelelés megállapítására.</td></tr><tr><td>2.1.</td><td>Nagyemlősök, vágáskor, egész hasított test vagy hasított féltest, általában� 10 kg</td><td>Szarvasmarha, juh, sertés</td><td>Vese, hasi vagy bőr alatti zsír, egy állatból kivágva</td><td>0,5 kg</td></tr><tr><td>2.2.</td><td>Kisemlősök, vágáskor, egész hasított test vagy hasított féltest <10 kg</td><td></td><td>Hasi vagy bőr alatti zsír, egy vagy több állatból</td><td>0,5 kg</td></tr><tr><td>2.3.</td><td>Emlős-húsrészek</td><td>Láb, bordaszelet, hússzelet</td><td>Vagy láthatóan különálló zsír, egység(ek)ről leválasztva, vagy egész egység(ek) vagy egész egység(ek) részei, ahol a zsír nem választható le</td><td>0,5 kg<br>2 kg</td></tr><tr><td>2.4.</td><td>Emlősök ömlesztett zsírszövete</td><td></td><td>Legalább három helyről, mintavételi eszközzel vett egységek</td><td>0,5 kg</td></tr><tr><td>3.</td><td colspan="4">Emlősök belsőségei</td></tr><tr><td>3.1.</td><td>Emlősök mája, friss, hűtött, fagyasztott</td><td></td><td>Egész máj(ak) vagy a máj része</td><td>0,4 kg</td></tr><tr><td>3.2.</td><td>Emlősök veséje, friss, hűtött, fagyasztott</td><td></td><td>Egy vagy mindkét vese, egy vagy két állatból</td><td>0,2 kg</td></tr><tr><td>3.3.</td><td>Emlősök szíve, friss, hűtött, fagyasztott</td><td></td><td>Egész szív(ek), vagy ha nagy, csak a szívkamra része</td><td>0,4 kg</td></tr><tr><td>3.4.</td><td>Egyéb emlős belsőségek, friss, hűtött, fagyasztott</td><td></td><td>Egy vagy több állatból rész- vagy egész egység, vagy mélyhűtött ömlesztett termékből vett keresztmetszet</td><td>0,5 kg</td></tr><tr><td>4.</td><td colspan="4">Baromfihús<br>Megjegyzés: a zsírban oldódó peszticidek MRL értékek érvényességéhez a mintákat az alábbi 5. rész szerint kell venni.</td></tr><tr><td>4.1.</td><td>Madár, nagyméretű hasított test >2 kg</td><td>Pulyka, liba, kakas, kappan és kacsa</td><td>Comb, láb és más barna hús</td><td>0,5 kg bőr nélkül, csontozva</td></tr><tr><td>4.2.</td><td>Madár, közepes méretű hasított test, 500 g–2 kg</td><td>Tyúk, gyöngytyúk, csirke</td><td>Comb, láb és más barna hús, legalább három madárból</td><td>0,5 kg bőr nélkül, csontozva</td></tr><tr><td>4.3.</td><td>Madár, kisméretű hasított test, a hasított tömege <500 g</td><td>Fürj, galamb</td><td>Hasított testek, legalább hat madárból</td><td>0,2 kg izomszövet</td></tr><tr><td>4.4.</td><td>Madár részei, friss, hűtött, fagyasztott, kis- vagy nagykereskedelmi árusításra csomagolva</td><td>Láb, negyed, mellhús és szárny</td><td>Csomagolt egységek vagy egyedi egységek</td><td>0,5 kg bőr nélkül, csontozva</td></tr><tr><td>5.</td><td colspan="4">Baromfizsír, beleértve a hasított test zsírját<br>Megjegyzés: az 5.1. és az 5.2. részben leírt módon vett zsírminták használhatók – a zsír vagy az egész termék tekintetében – a vonatkozó MRL értékeknek való megfelelés megállapítására.</td></tr><tr><td>5.1.</td><td>Madarak vágáskor, egész hasított test vagy annak része</td><td>Csirke, pulyka</td><td>Hasi zsír egységei, legalább három madárból</td><td>0,5 kg</td></tr><tr><td>5.2.</td><td>Madár-húsrészek</td><td>Láb, mellizom</td><td>Vagy láthatóan különálló zsír, egység(ek)ről leválasztva vagy egész egység(ek) vagy egész egység(ek) részei, ahol a zsír nem választható le</td><td>0,5 kg<br>2 kg</td></tr><tr><td>5.3.</td><td>Ömlesztett madár-zsírszövet</td><td></td><td>Legalább három helyről, mintavételi eszközzel vett egységek</td><td>0,5 kg</td></tr><tr><td>6.</td><td colspan="4">Baromfibelsőségek</td></tr><tr><td>6.1.</td><td>Ehető madárbelsőségek, kivéve liba- és kacsamáj, valamint hasonló nagy értékű termékek</td><td></td><td>Egységek legalább hat madárból vagy keresztmetszet egy tartályból</td><td>0,2 kg</td></tr><tr><td>6.2.</td><td>Liba- és kacsamáj, valamint hasonló nagy értékű termékek</td><td></td><td>Egységek egy madárból vagy tartályból</td><td>0,05 kg</td></tr><tr><td colspan="5">Állati eredetű feldolgozott élelmiszerek</td></tr><tr><td>7.</td><td colspan="4">Állati eredetű feldolgozott élelmiszer, szárított hús<br>Állati eredetű származtatott ehető termékek, feldolgozott állati zsiradék, beleértve a kiolvasztott zsírt és a lefejtett zsírt<br>Állati eredetű és általában előrecsomagolt és – főzés után vagy főzés nélkül – fogyasztásra kész élelmiszer-készítmények (egyetlen összetevő), közepes vagy kis mennyiségű összetevőkkel mint például aromaanyagok, fűszerek és ízesítőszerek, vagy anélkül csomagolva<br>Állati eredetű élelmiszer-készítmények (több összetevő) mind állati, mind növényi eredetű összetevőket tartalmazó, több összetevőből álló élelmiszerek, amennyiben az állati eredetű összetevő(k) van(nak) túlsúlyban</td></tr><tr><td>7.1.</td><td>Emlős vagy madár eredetű, darabolt, főzött, tartósított, szárított, kiolvasztott, vagy más módon feldolgozott termékek, beleértve a több összetevőből álló termékeket</td><td>Sonka, kolbász, darált marhahús, csirkepástétom</td><td>Csomagolt egységek vagy egy tartályból vett reprezentatív keresztmetszet, vagy mintavételi eszközzel vett egységek (amennyiben van, lével együtt)</td><td>0,5 kg vagy 2 kg, ha a zsírtartalom <5%</td></tr></tbody></table>
+
+4\. táblázat
+
+Növényi termékek: az egyedi minták és a laboratóriumi minták legkisebb mérete
+
+<table><thead><tr><th></th><th>**Az árucikk besorolása**</th><th>**Példák**</th><th>**A vizsgálathoz szükséges egyedi minta jellege**</th><th>**Az egyes laboratóriumi minták legkisebb mérete**</th></tr></thead><tbody><tr><td colspan="5">Növényi eredetű élelmiszer-, (esetenként takarmány-) alapanyagok</td></tr><tr><td>1.</td><td colspan="4">Minden friss gyümölcs<br>Minden friss zöldség, beleértve a burgonyát és a cukorrépát, és kivéve a fűszernövényeket</td></tr><tr><td>1.1.</td><td>Kisméretű friss termékek, az egységek tömege általában<br><25 g</td><td>Bogyós gyümölcsök, borsó, olajbogyó</td><td>Egész egységek vagy csomagok, vagy mintavételi eszközzel vett egységek</td><td>1 kg</td></tr><tr><td>1.2.</td><td>Közepes méretű friss termékek, az egységek általában 25–250 g tömegűek</td><td>Alma, narancs</td><td>Egész egységek</td><td>1 kg (legalább<br>10 egység)</td></tr><tr><td>1.3.</td><td>Nagyméretű friss termékek, az egységek tömege általában<br>>250 g</td><td>Káposzta, uborka, szőlő (fürt)</td><td>Egész egység(ek)</td><td>2 kg (legalább<br>5 egység)</td></tr><tr><td>2.</td><td>Hüvelyesek</td><td>Száraz bab, száraz borsó</td><td></td><td>1 kg</td></tr><tr><td></td><td>Gabona-magvak</td><td>Rizs, búza</td><td></td><td>1 kg</td></tr><tr><td></td><td>Héjas gyümölcsök</td><td>Kókuszt kivéve</td><td></td><td>1 kg</td></tr><tr><td></td><td></td><td>Kókusz</td><td></td><td>5 egység</td></tr><tr><td></td><td>Olajos magvak</td><td>Földimogyoró</td><td></td><td>0,5 kg</td></tr><tr><td></td><td>Magvak italok és édességek előállításához</td><td>Kávébab</td><td></td><td>0,5 kg</td></tr><tr><td>3.</td><td>Fűszernövények</td><td>Friss petrezselyem</td><td>Egész egységek</td><td>0,5 kg</td></tr><tr><td></td><td></td><td>Más, friss</td><td></td><td>0,2 kg</td></tr><tr><td></td><td colspan="4">(A szárított gyógynövények tekintetében lásd e táblázat 4. részét.)</td></tr><tr><td></td><td>Fűszerek</td><td>Szárított</td><td>Egész vagy mintavételi eszközzel vett egységek</td><td>0,1 kg</td></tr><tr><td colspan="5">Növényi eredetű feldolgozott élelmiszerek</td></tr><tr><td>4.</td><td colspan="4">Növényi eredetű feldolgozott élelmiszer, szárított gyümölcsök, zöldségek, fűszernövények, komló, őrölt gabonafélék<br>Növényi eredetű származtatott termékek, tea, gyógytea, növényi olaj, gyümölcslé és különböző termékek, pl. tartósított olajbogyó, valamint citrom- és narancslé<br>Növényi eredetű, általában előre csomagolt és – főzés után vagy főzés nélkül – fogyasztásra kész élelmiszer-készítmények (egyetlen összetevő), közepes vagy kis mennyiségű összetevőkkel (mint például aromaanyagok, fűszerek és ízesítőszerek), vagy a nélkül csomagolva<br>Növényi eredetű élelmiszer-készítmények (több összetevő), beleértve az állati eredetű összetevőket tartalmazó termékeket, ahol a növényi eredetű összetevő(k) van(nak) túlsúlyban, kenyér és más gabonafélékből készült főtt termékek</td></tr><tr><td>4.1.</td><td>Magas egységnyi értékű termékek</td><td></td><td>Csomagolt vagy mintavételi eszközzel vett egységek</td><td>0,1 kg</td></tr><tr><td>4.2.</td><td>Kistömegű szilárd termékek</td><td>Komló, tea, gyógytea</td><td>Csomagolt egységek vagy mintavételi eszközzel vett egységek</td><td>0,2 kg</td></tr><tr><td>4.3.</td><td>Más szilárd termékek</td><td>Kenyér, liszt, szárított gyümölcs</td><td>Csomagolt vagy más egész egységek, vagy mintavételi eszközzel vett egységek</td><td>0,5 kg</td></tr><tr><td>4.4.</td><td>Folyékony termékek</td><td>Növényi olaj, gyümölcslé</td><td>Csomagolt egységek vagy mintavételi eszközzel vett egységek</td><td>0,5 l vagy 0,5 kg</td></tr></tbody></table>
+
+5\. táblázat
+
+Tojás- és tejtermékek: az egyedi minták és a laboratóriumi minták legkisebb mennyisége
+
+<table><thead><tr><th></th><th>**Az árucikk besorolása**</th><th>**Példák**</th><th>**A vizsgálathoz szükséges egyedi minta jellege**</th><th>**Az egyes laboratóriumi minták legkisebb mennyisége**</th></tr></thead><tbody><tr><td colspan="5">Állati eredetű élelmiszer-alapanyagok</td></tr><tr><td>1.</td><td>Baromfitojás</td><td></td><td></td><td></td></tr><tr><td>1.1.</td><td>Tojás, kivéve a fürj és hasonlók tojása</td><td></td><td>Egész tojás</td><td>12 egész tyúktojás<br>6 egész liba- vagy kacsatojás</td></tr><tr><td>1.2.</td><td>Fürj és hasonlók tojása</td><td></td><td>Egész tojás</td><td>24 egész tojás</td></tr><tr><td>2.</td><td>Tej</td><td></td><td>Egész egységek vagy mintavételi eszközzel vett egységek</td><td>0,5 l</td></tr><tr><td colspan="5">Állati eredetű feldolgozott élelmiszerek</td></tr><tr><td>3.</td><td colspan="4">Állati eredetű feldolgozott élelmiszer, feldolgozott tejtermékek mint például fölözött tej, sűrített tej és tejpor<br>Állati eredetű származtatott ehető termékek, tejzsír, tejből készült termékek mint például vajak, vajolajak, tejszín, krémporok, kazeinek stb.<br>Állati eredetű élelmiszer-készítmények (egyetlen összetevő), iparilag előállított tejtermékek, mint például joghurt, sajtok<br>Állati eredetű élelmiszer-készítmények (több összetevő), iparilag előállított tejtermékek [beleértve a növényi eredetű összetevőket tartalmazó termékeket, ahol az állati eredetű összetevő(k) van(nak) túlsúlyban] mint például az ömlesztett sajtok, sajtkészítmények, ízesített joghurt, cukrozott sűrített tej</td></tr><tr><td>3.1.</td><td>Folyékony tejtermékek, tejpor, sűrített tej és tejszín, teljes fagylalt, tejszín, joghurt</td><td></td><td>Csomagolt egység(ek) vagy mintavételi eszközzel vett egység(ek)</td><td>0,5 l (folyékony) vagy 0,5 kg (szilárd)</td></tr><tr><td></td><td colspan="4">a) Az ömlesztett sűrített tejet és sűrített tejszínt mintavétel előtt alaposan össze kell keverni, a tartály oldalairól és aljáról az odatapadt anyagot le kell kaparni, és jól fel kell kavarni. Körülbelül 2–3 litert kell kivenni, és a laboratóriumi minta kivétele előtt újra jól fel kell kavarni.<br>b) Az ömlesztett tejporból sterilen kell mintát venni, a poron egy száraz fúvócsövet egyenletes sebességgel keresztülvezetve.<br>c) Az ömlesztett tejszínt mintavétel előtt egy köpülőfával alaposan össze kell keverni, de el kell kerülni a felhabzást, a hab felverését és köpülését.</td></tr><tr><td>3.2.</td><td>Vaj és vajolajak</td><td>Vaj, savóvaj, vajzsírt tartalmazó alacsony zsírtartalmú kenhető termékek, vízmentes vajolaj, vízmentes tejzsír</td><td>Csomagolt egység(ek) egésze vagy részei, vagy mintavételi eszközzel vett egység(ek)</td><td>0,2 kg vagy 0,2 l</td></tr><tr><td>3.3.</td><td colspan="4">Sajtok, beleértve az ömlesztett sajtokat</td></tr><tr><td></td><td>0,3 kg-os vagy nagyobb tömegű egységek</td><td></td><td>Egész egység(ek) vagy mintavételi eszközzel vágott egység(ek)</td><td>0,5 kg</td></tr><tr><td></td><td>0,3 kg-nál kisebb tömegű egységek</td><td></td><td></td><td>0,3 kg</td></tr><tr><td></td><td colspan="4">Megjegyzés: A kör alapú sajtokból, a középpontból kiinduló sugarú két vágással kell mintát venni. A szögletes alapú sajtokból az oldalakkal párhuzamos két vágással kell mintát venni.</td></tr><tr><td>3.4.</td><td>Tojásból készült folyékony, fagyasztott vagy szárított termékek</td><td></td><td>Mintavételi eszközzel sterilen vett egység(ek)</td><td>0,5 kg</td></tr></tbody></table>
+
+4.4. A laboratóriumi minta készítése
+
+Amennyiben az átlagminta nagyobb annál, mint ami a laboratóriumi mintához szükséges, a reprezentatív minta képzéséhez több részre kell osztani. Ehhez mintavételi eszköz, negyedelés vagy más, a méret csökkentésére alkalmas eljárás használható, azonban a friss növényi termékek vagy az egész tojások egységeit nem szabad elvágni vagy eltörni. Amennyiben szükséges, laboratóriumi másodmintákat kell ebben a szakaszban venni, vagy azok a fent megjelölt eljárást használva is elkészíthetők. A laboratóriumi mintákhoz szükséges mennyiségeket a 3., 4. és az 5. táblázat tartalmazza.
+
+4.5. Mintavételi dokumentáció
+
+A mintavételt végző személynek fel kell jegyeznie a tétel jellegét és eredetét; annak tulajdonosát, szállítóját vagy fuvarozóját; a mintavétel idejét és helyét; és bármely fontos információt. A javasolt mintavételi módszertől történő bármely eltérést dokumentálni kell. A laboratóriumi másodmintát a dokumentáció egy aláírt példánya kíséri, és egy példányt a mintavételt végző személy tart magánál. A mintavételi dokumentáció egy példányát át kell adni a tétel tulajdonosának vagy a tulajdonos képviselőjének, akár el kell látni őt laboratóriumi mintával, akár sem. Amennyiben a mintavételi dokumentáció számítógéppel feldolgozott formában készül, ezeket ugyanazon címzettek között kell szétosztani és hasonló igazolható ellenőrzési módot kell alkalmazni.
+
+4.6. A laboratóriumi minta csomagolása és szállítása
+
+A laboratóriumi mintát egy olyan tiszta, vegyileg közömbös tartályban kell elhelyezni, amely biztos védelmet nyújt a szennyeződés, a sérülés és a szivárgás ellen. A tartályt le kell pecsételni, megbízható módon fel kell címkézni, és csatolni kell hozzá a mintavételi dokumentációt. Amennyiben vonalkódot alkalmaznak, javasolt azt alfanumerikus információval is ellátni. A mintát minél hamarabb a laboratóriumba kell szállítani. El kell kerülni, hogy az a szállítás közben romlásnak induljon, pl. a friss mintákat hűvösen, a fagyasztott mintákat pedig fagyasztva kell tartani. Az emlős- és baromfihús mintákat szállítás előtt le kell fagyasztani, kivéve, ha még azelőtt a laboratóriumba szállítják, hogy azok megromolhatnának.
+
+4.7. Az analitikai minta előkészítése
+
+A laboratóriumi mintát egyedi azonosítóval kell ellátni, amelyet a kézhezvétel dátumával és a mintanagysággal együtt bele kell foglalni a mintavételi dokumentációba. Az áru analizálandó részét, vagyis az analitikai mintát minél hamarabb el kell különíteni. Amennyiben a szermaradék szintet olyan részek figyelembevételével kell kiszámolni, amelyeket nem analizálnak, az elkülönített részek tömegét dokumentálni kell.
+
+4.8. Az analitikai rész előkészítése és tárolása
+
+Az analitikai mintát – amennyiben erre alkalmas – fel kell darabolni és jól össze kell keverni annak érdekében, hogy reprezentatív vizsgálati részeket lehessen kivenni belőle. Az analitikai rész méretét az analitikai módszer és a keverés hatékonysága alapján kell meghatározni. A darabolás és a keverés módszerét dokumentálni kell, és a módszer nem befolyásolhatja az analitikai mintában lévő szermaradékokat. Amennyiben szükséges, a káros hatások minimalizálása érdekében az analitikai mintát különleges körülmények között – pl. 0 °C alatti hőmérsékleten – kell feldolgozni. Amennyiben a feldolgozás hatással lehet a szermaradékokra és nincs alternatív gyakorlati eljárás, az analitikai rész tartalmazhat egész egységeket vagy egész egységekből kivett részeket. Amennyiben így az analitikai rész kevés egységet vagy részt tartalmaz, és így nem reprezentálja az analitikai mintát, megfelelő számú párhuzamos részt kell analizálni az átlagérték bizonytalanságának jelzésére. Amennyiben a vizsgálati részeket analízis előtt tárolni kell, a tárolás módszerének és ideje hosszának nem szabad befolyásolnia a jelenlévő szermaradék szintet. Szükség esetén ismétléshez és megerősítő vizsgálathoz további részeket kell kivenni.
+
+5\. A határértéknek való megfelelőség meghatározásának kritériumai
+
+Az analitikai eredményeket a tételből vett és analízisre alkalmas állapotban beérkezett egy vagy több laboratóriumi mintából kell kinyerni. Az eredményeket elfogadható minőség-ellenőrzési adatoknak kell alátámasztaniuk. Amennyiben a szermaradék-tartalom meghaladja az MRL értéket, azonosságát újra meg kell erősíteni, és az eredeti laboratóriumi mintá(k)ból nyert további egy vagy több analitikai rész vizsgálata útján ellenőrizni kell koncentrációját.
+
+Az MRL az átlagmintára vonatkozik.
+
+A tétel abban az esetben megfelelő, ha az analitikai eredmény(ek) nem lépi(k) túl az MRL értéket.
+
+Amennyiben az átlagminta vizsgálata során kapott eredmények meghaladják az MRL értéket, a tétel nem megfelelőségére vonatkozó határozatnak figyelemmel kell lennie a következőkre:
+
+a) az eredményeket – amennyiben alkalmazható – egy vagy több laboratóriumi mintából nyerték-e, továbbá
+
+b) az analízis pontosságára és precizitására, ahogy azt az alátámasztó minőség-ellenőrzési adatok jelzik.
+
+## 2. melléklet a 66/2010. (V. 12.) FVM rendelethez
+
+**A** 396/2005 EK rendelet **előírásainak nem megfelelő növények, növényi termékek**
+
+....... év ............ hónap ....... nap
+
+| **Termelő/ származás** | **Forgalmazó** | **Mintavétel időpontja** | **Növény, növényi termék** | **Növényvédőszer-** **hatóanyag megnevezése** | **Határérték** **(mg/kg)** | **Mért szermaradék** **(mg/kg)** |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+## 3. melléklet a 66/2010. (V. 12.) FVM rendelethez[^19]
+
+---
+
+[^1]: A 2. § (2) bekezdését a 70/2013. (VII. 31.) VM rendelet 129. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 3. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 159. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 20. § a) pontja, a 123/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés b) és c) pontja, a 42/2017. (VIII. 17.) FM rendelet 159. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés b) pontja és a (4) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés d) pontja, a 42/2017. (VIII. 17.) FM rendelet 159. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 20. § b) pontja, a 123/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 9. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 159. § e) pontja szerint módosított szöveg.
+[^10]: A 10. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 11. § (2) bekezdése a 172/2023. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^13]: A 11. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 129. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^15]: A 14. § (1) bekezdése a 43/2010. (XII. 20.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 14. § (5) bekezdését a 69/2017. (XII. 27.) FM rendelet 19. §-a hatályon kívül helyezte.
+[^17]: A 14. § (6) bekezdését a 13/2013. (III. 6.) VM rendelet 25. §-a iktatta be, hatályon kívül helyezte a 69/2017. (XII. 27.) FM rendelet 19. §-a.
+[^19]: A 3. mellékletet a 15. § (2) bekezdése hatályon kívül helyezte.

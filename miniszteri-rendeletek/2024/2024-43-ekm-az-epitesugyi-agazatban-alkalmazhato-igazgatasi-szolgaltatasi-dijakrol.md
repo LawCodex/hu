@@ -1,0 +1,183 @@
+---
+title: "43/2024. (XII. 20.) ÉKM rendelet az építésügyi ágazatban alkalmazható igazgatási szolgáltatási díjakról"
+identifier: "43/2024. (XII. 20.) ÉKM rendelet"
+njt_id: "2024-43-20-8X"
+eli: "https://njt.jog.gov.hu/eli/R/2024/EKM_/43"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2024-12-20
+in_force_from: 2025-01-20
+last_amended: 2025-01-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-43-20-8X"
+retrieved: 2026-10-12
+---
+
+# 43/2024. (XII. 20.) ÉKM rendelet az építésügyi ágazatban alkalmazható igazgatási szolgáltatási díjakról
+
+A magyar építészetről szóló 2023. évi C. törvény 225. § (3) bekezdés 2. pont c) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 3. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben – a következőket rendelem el:
+
+## 1. §
+
+A vállalkozó kivitelezői tevékenységre jogosultak névjegyzékébe vétel iránti bejelentés megtételekor a bejelentő egyéni vállalkozó vagy gazdasági társaság 6500 forint igazgatási szolgáltatási díjat köteles fizetni a névjegyzéket vezető Magyar Kereskedelmi és Iparkamara számlájára.
+
+## 2. §
+
+(1) A kérelem benyújtásakor vagy a bejelentés megtételekor 39 000 forint igazgatási szolgáltatási díjat köteles fizetni a területi építész kamara vagy a területi mérnöki kamara mint névjegyzéket vezető szerv számlájára a magyar építészetről szóló törvényben meghatározott,
+
+a) építészeti-műszaki tervezési, településtervezési, építésügyi műszaki szakértői, településrendezési szakértői, felelős műszaki vezetői, építési műszaki ellenőri tevékenység folytatására engedélyt kérelmező,
+
+b) energetikai tanúsítói, zöldfelületi tanúsítói tevékenység végzését bejelentő
+
+személy.
+
+(2) 26 000 forint igazgatási szolgáltatási díjat köteles fizetni a területi építész kamara vagy a területi mérnöki kamara mint névjegyzéket vezető szerv számlájára
+
+a) az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti szakmai továbbképzési kötelezettség teljesítését igazoló hatósági bizonyítvány kiállítását,
+
+b) az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben meghatározott eseti szakmagyakorlás iránti engedélyt
+
+kérelmező személy.
+
+(3) Összesen 52 000 forint igazgatási szolgáltatási díjat köteles fizetni a területi építész kamara vagy a területi mérnöki kamara mint névjegyzéket vezető szerv számlájára az a kérelmező személy, aki az (1) bekezdésben meghatározott tevékenységek közül egynél több tevékenység folytatására kér engedélyt vagy tesz bejelentést.
+
+(4) 6500 forint igazgatási szolgáltatási díjat köteles fizetni a névjegyzéket vezető szerv számlájára a szakmagyakorlási jogosultságának igazolását kérő személy.
+
+(5) 6500 forint igazgatási szolgáltatási díjat köteles fizetni a területi építész kamara mint főépítészi nyilvántartást vezető szerv számlájára a főépítészi nyilvántartásba vételét, valamint az abban szereplő adataiban bekövetkezett változás átvezetését kérelmező személy. Az állami vagy önkormányzati főépítész főépítészi tevékenysége megszüntetésének bejelentése díjmentes.
+
+(6) Az (1) és (2) bekezdésben meghatározott eljárásokban, valamint az arra tekintettel indult kamarai eljárásokban hozott döntésekkel szemben benyújtott fellebbezések igazgatási szolgáltatási díja 39 000 forint.
+
+## 3. §
+
+Az 1. §-ban és a 2. §-ban meghatározott igazgatási szolgáltatási díjat a névjegyzéket vezető szerv 1. melléklet szerinti fizetési számlájára banki átutalási megbízással vagy készpénzátutalási megbízáson, az „igazgatási szolgáltatási díj” jogcím megjelölése mellett a kérelmező nevének megadásával kell megfizetni.
+
+## 4. §
+
+(1) Az igazgatási szolgáltatási díj megfizetésének igazolására a kérelemhez csatolni kell
+
+a) banki átutalási megbízás esetében az átutalás tényét igazoló, a pénzintézet által kiadott igazolás eredeti példányát,
+
+b) készpénzátutalási megbízáson történő befizetés esetében a feladóvevény eredeti példányát.
+
+(2) Elektronikus ügyintézés esetében az igazgatási szolgáltatási díjat a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott módon és határidőn belül kell megfizetni.
+
+## 5. §
+
+(1) A jogorvoslati eljárásban megfizetett igazgatási szolgáltatási díjat az ügyfélnek teljes mértékben vissza kell téríteni, ha megállapítást nyer, hogy a felülvizsgált döntés az ügyfél hátrányára részben vagy egészben jogszabálysértő volt.
+
+(2) Az igazgatási szolgáltatási díj visszatérítését a jogorvoslati eljárás során hozott döntésben kell elrendelni, a visszatérítésről az első fokon eljárt hatóság a véglegessé vált vagy jogerős döntés kézhezvételétől számított huszonegy napon belül gondoskodik.
+
+(3) A névjegyzéket vezető szerv túlfizetés esetén a díjtöbbletet hivatalból huszonegy napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok, dokumentumok alapján megállapítható, hogy a kérelmező az 1. §-ban vagy a 2. §-ban meghatározott mértéket meghaladó összegű igazgatási szolgáltatási díjat fizetett.
+
+(4) Ha a visszatérítés kérelemre történik, a kérelemben meg kell jelölni a visszatérítés okát, a számlatulajdonos nevét, a fizetési számlaszámot vagy a postai címet, ahová a kérelmező a visszatérített összeg kifizetését kéri. Az igazgatási szolgáltatási díj visszatérítését a névjegyzéket vezető szerv huszonegy napon belül köteles a kérelmező által megjelölt fizetési számlaszámra átutalással vagy a postai címre kiutalással teljesíteni.
+
+## 6. §
+
+A befizetett igazgatási szolgáltatási díj a névjegyzéket vezető szerv bevétele. Az igazgatási szolgáltatási díjak nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmazni. Az igazgatási szolgáltatási díjról a névjegyzéket vezető szerv elkülönített nyilvántartást vezet.
+
+## 7. §
+
+Az e rendeletben meghatározott igazgatási szolgáltatási díjak tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
+
+a) 28. § (2) és (3) bekezdését a díjfizetési kötelezettség,
+
+b) 31. § (1) és (2) bekezdését a díjfizetésre kötelezettek
+
+tekintetében kell alkalmazni, azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+
+## 1. melléklet a 43/2024. (XII. 20.) ÉKM rendelethez
+
+1\. A Magyar Építész Kamara és a területi építész kamarák számlaszámai
+
+1.1. Az első fokon eljáró területileg illetékes építész kamarák számlaszámai:
+
+1.1.1. Budapesti Építész Kamara: 10200902-32712786-00000000
+
+1.1.2. Bács-Kiskun Vármegyei Építész Kamara: 11600006-00000000-79876724
+
+1.1.3. Békés Vármegyei Építész Kamara: 10402609-26051408-00000000
+
+1.1.4. Borsod-Abaúj-Zemplén Vármegyei Építész Kamara: 10700086-74837391-51100005
+
+1.1.5. Csongrád-Csanád Vármegyei Építész Kamara: 10102842-37124217-00000009
+
+1.1.6. Dél-dunántúli Építész Kamara: 10402427-24215813-00000000
+
+1.1.7. Fejér Vármegyei Építészek Kamarája: 11736006-20292944-00000000
+
+1.1.8. Győr-Moson-Sopron Vármegyei Építész Kamara: 10300002-33218230-00003285
+
+1.1.9. Hajdú-Bihar Vármegyei Építész Kamara: 11738008-20064141-00000000
+
+1.1.10. Heves Vármegyei Építész Kamara: 11610005-01030000-10000001
+
+1.1.11. Jász-Nagykun-Szolnok Vármegyei Építész Kamara: 10404508-45057647-00000000
+
+1.1.12. Komárom-Esztergom Vármegyei Építész Kamara: 11740009-20057475-00000000
+
+1.1.13. Nógrád Vármegyei Építész Kamara: 55400187-10003664
+
+1.1.14. Pest vármegyei Építész Kamara: 11742001-20035293-00000000
+
+1.1.15. Somogyi Építészek Kamarája: 11743002 26495767-00000000
+
+1.1.16. Szabolcs-Szatmár-Bereg Vármegyei Területi Építész Kamara: 11744003-20918435-00000000
+
+1.1.17. Vas Vármegyei Építész Kamara: 10200641-47014400-00000000
+
+1.1.18. Magyar Építészek Veszprém Vármegyei Kamarája: 73200189-10001442-00000000
+
+1.1.19. Zala Vármegyei Építész Kamara: 10404900-49015696-00000000
+
+1.2. A másodfokú eljárás díját a Magyar Építész Kamara 10200892-31416047-00000000 számú számlájára kell befizetni.
+
+2\. A Magyar Mérnöki Kamara és a területi mérnöki kamarák számlaszámai
+
+2.1. Az első fokon eljáró területileg illetékes mérnöki kamarák számlaszámai:
+
+2.1.1. Budapesti és Pest Vármegyei Mérnöki Kamara: 10102086-68836102-00000000
+
+2.1.2. Baranya Vármegyei Mérnöki Kamara: 10402427-24215545-00000000
+
+2.1.3. Bács-Kiskun Vármegyei Mérnöki Kamara: 10200098-25711491-00000000
+
+2.1.4. Békés Vármegyei Mérnöki Kamara: 53200118-10005958-00000000
+
+2.1.5. Borsod-Abaúj-Zemplén Vármegyei Mérnöki Kamara: 11734035-20012481-00000000
+
+2.1.6. Csongrád-Csanád Vármegyei Mérnöki Kamara: 11600006-00000000-99902922
+
+2.1.7. Fejér Vármegyei Mérnöki Kamara: 11600006-00000000-81425325
+
+2.1.8. Győr-Moson-Sopron Vármegyei Mérnöki Kamara: 10103379-10151926-00000009
+
+2.1.9. Hajdú-Bihar Vármegyei Mérnöki Kamara: 11738008-20063968-00000000
+
+2.1.10. Heves Vármegyei Mérnöki Kamara: 10103513-47640629-00000006
+
+2.1.11. Jász-Nagykun-Szolnok Vármegyei Mérnöki Kamara: 11745011-20406556-00000000
+
+2.1.12. Komárom-Esztergom Vármegyei Mérnöki Kamara: 10200452-36017320-00000000
+
+2.1.13. Nógrád Vármegyei Mérnöki Kamara: 10103726-50107234-00000002
+
+2.1.14. Somogy Vármegyei Mérnöki Kamara: 10200799-39712495-00000000
+
+2.1.15. Szabolcs-Szatmár-Bereg Vármegyei Mérnöki Kamara: 68800109-11093022
+
+2.1.16. Tolna Vármegyei Mérnöki Kamara: 11746005-20009393-00000000
+
+2.1.17. Vas Vármegyei Mérnöki Kamara: 11747006-21372128
+
+2.1.18. Veszprém Vármegye Mérnöki Kamarája: 11748007-24830595-00000000
+
+2.1.19. Zala Vármegyei Mérnöki Kamara: 10918001-00000109-47740004
+
+2.2. A másodfokú eljárás díját a Magyar Mérnöki Kamara 11784009-21124341 számú számlájára kell befizetni.
+
+3\. A vállalkozó kivitelezői tevékenység bejelentése igazgatási szolgáltatási díját a Magyar Kereskedelmi és Iparkamara 12100011-10639690 számú számlájára kell befizetni.

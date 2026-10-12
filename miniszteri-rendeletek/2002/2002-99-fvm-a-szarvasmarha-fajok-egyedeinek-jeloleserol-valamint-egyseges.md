@@ -1,0 +1,626 @@
+---
+title: "99/2002. (XI. 5.) FVM rendelet a szarvasmarha-fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről"
+identifier: "99/2002. (XI. 5.) FVM rendelet"
+njt_id: "2002-99-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2002/FVM/99"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2002-11-05
+in_force_from: 2009-01-31
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-99-20-82"
+retrieved: 2026-10-12
+---
+
+# 99/2002. (XI. 5.) FVM rendelet a szarvasmarha-fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről
+
+Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Átv.) 49. § (1) bekezdése a) pontjának 9. alpontjában, valamint az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 5. pontjában kapott felhatalmazás alapján a következőket rendelem el:
+
+### 1. §
+
+(1)[^1] Ez a rendelet szabályozza a szarvasmarha, bivaly és bölény fajhoz tartozó állatok (a továbbiakban együtt: szarvasmarha) egyedi, a hasznosítás módjától független jelölését és nyilvántartásba vételét.
+
+(2)[^2]
+
+## Értelmező rendelkezések
+
+### 2. §
+
+(1)[^3] E rendelet alkalmazásában:
+
+1\. *állatmozgás:* az állat tenyészetek közötti helyváltoztatása,
+
+2\. *ENAR-szám:* a magyar ENAR szám és a más tagállami ENAR jelölés összefoglaló elnevezése,
+
+3\. *füljelző:* a szarvasmarhák szabályszerű, mindkét fülében történő jelölésére szolgáló jelzőeszköz,
+
+4\. *használati szám:* a magyar ENAR-számmal rendelkező egyedek tenyészeten belüli megkülönböztetésére szolgáló négyjegyű szám, amit a magyar ENAR-szám tíz számjegyének 6-9. számjegyei alkotnak,
+
+5\. *magyar ENAR-szám:* az egyed megjelölésére és azonosítására használt, Magyarország ISO kódjeléből (HU) és tíz számjegyből álló egyedi kód; a bejelentett egyed kódját az Országos Adatbázis adja ki,
+
+6\. *más tagállami ENAR jelölés:* a szarvasmarhák azonosítási és nyilvántartási rendszerének létrehozásáról, továbbá a marhahús és marhahústermékek címkézéséről, valamint a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1760/2000/EK európai parlamenti és tanácsi rendeletnek (a továbbiakban: 1760/2000/EK európai parlamenti és tanácsi rendelet) megfelelő jelölés,
+
+7\. *ENAR:* a szarvasmarha-fajok egyedeinek azonosítási és nyilvántartási rendszere, ami kapcsolódik a tenyészetek nyilvántartásához, biztosítja az állatok nyomon követését, továbbá alapját képezi az érintett szakterületek (különösen az állategészségügy, az állattenyésztés, a piacszabályozás) nyilvántartási rendszerének,
+
+8\. *tenyészetkód:* a tenyészet azonosító száma a Tenyészet Információs Rendszer (a továbbiakban: TIR) nyilvántartásában,
+
+9.[^4]
+
+10.[^5] *Útmutató:* a szarvasmarha egyedi jelölésére és nyilvántartására vonatkozó segédlet, amelyet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) készít el, tart naprakészen és tesz közzé a www.enar.hu honlapon,
+
+11\. *állat-egészségügyi bizonyítvány:* az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti okirat,
+
+12.[^6] *marhalevél:* az állat központi nyilvántartásba vételét és a központi adatbázisban nyilvántartott adatait, valamint az állattartó személyét tanúsító, az állat másik tagállamba vagy harmadik országba történő kiszállítása esetén útlevélként alkalmazandó, az állat-egészségügyi bizonyítványhoz kötelezően csatolandó hatósági bizonyítvány,
+
+13.[^7] *útlevélszám:* az egyed nyilvántartási száma és a marhalevél kiadási sorszáma együtt.
+
+(2)[^8] Az e rendeletben nem meghatározott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet 2. §-a irányadó.
+
+## A SZARVASMARHÁK EGYSÉGES NYILVÁNTARTÁSI ÉS AZONOSÍTÁSI RENDSZERÉNEK SZABÁLYAI
+
+## Általános rendelkezések
+
+### 3. §[^9]
+
+(1)[^10] A megjelölt szarvasmarhát úgy kell nyilvántartani, és kísérő okmánnyal ellátni, hogy nyomon követhető legyen eredeti és azt követő valamennyi tenyészete és pontos tartási helye.
+
+(2)[^11]
+
+## A tenyészetek és körzetek kialakítása
+
+### 4. §[^12]
+
+A tenyészetek és körzetek kialakítására, illetve a jelentési kötelezettségekre a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendeletben foglaltak az irányadók.
+
+## A szarvasmarha jelölése és nyilvántartása
+
+### 7. §
+
+(1)[^15]
+
+(2)[^16] A jelölést és az egyed bejelentését a következő határidőig kell elvégezni:
+
+a) hazai születésű borjú esetén a jelölést, a születetést követő 20. napig, bejelentést a jelölés utáni 7. napig;
+
+b) harmadik országból érkezett állat jelölését az állategészségügyi vizsgálatot követő 20. napig, bejelentését a jelölés utáni 7. napig;
+
+c) más tagállamból érkezett állat átjelölése tilos, bejelentését az állategészségügyi vizsgálatot követő 7. napig.
+
+(3)[^17]
+
+### 8. §
+
+(1)[^18] A szarvasmarha egyedi jelölésére kizárólag a NÉBIH által jóváhagyott és olyan páros füljelző alkalmazható, amely megfelel az 1760/2000/EK európai parlamenti és tanácsi rendeletben leírt követelményeknek, és tartalmazza az ország kódját, a NÉBIH betűjelét vagy logóját, a lézertechnikával nyomtatott ENAR-számot, az ENAR-számmal megegyező vonalkódot és kiemelt formában a használati számot.
+
+(2)[^19]
+
+(3)[^20] Az Útmutató a füljelzők és behelyező eszközök, valamint a kapcsolódó bizonylatok igényléséhez, beszerzéséhez és a használat módjához iránymutatást ad.
+
+### 9. §
+
+(1) A szarvasmarha-egyed jelölését csak e feladat ellátására jogosult személy végezheti:
+
+a)[^21] a megyei körzetekben a körzeti kapcsolattartó állatorvos;
+
+b)[^22] az önálló tenyészetekben az állattartó vagy az általa megbízott személy.
+
+(2)[^23] A megjelölt vagy másik tagállamból érkezett szarvasmarha adatairól kiállított ENAR-bejelentőlapot az Országos Adatbázisnak 7 napon belül meg kell küldeni. A bejelentés elektronikus úton is teljesíthető. Hazai születésű borjú bejelentése csak akkor fogadható el, ha az adatbázis az anyát (embrió-átültetés esetén a recipienst) a bejelentő tenyészetében tartja nyilván. Az Útmutató tartalmazza a bejelentőlap mintáját. Másik tagállamból érkezett állat bejelentőlapjához mellékelni kell az állat útlevelének másolatát is.
+
+### 10. §
+
+(1)[^24] Ha az állat egyik füléből a füljelző kiesik, vagy olyan mértékű károsodás éri, hogy a felirata már nem olvasható, a NÉBIH-től 48 órán belül meg kell rendelni a pótlását, illetve cseréjét.
+
+(2)[^25] A kézhez kapott füljelzőt az átvételét követő 48 órán belül az állat fülébe kell helyezni.
+
+(3)[^26] Ha a füljelző páros kiesett, elveszett vagy olvashatatlanná vált, és az állat kétséget kizáróan másképp nem azonosítható, az állattartó kérésére és költségére, alkalmas genetikai vizsgálattal meg kell állapítani az állat származását. Ennek eredményessége esetén az állomány nyilvántartásában vagy az állat marhalevelén feltüntetett füljelző megrendelhető (dupla pótlás). A füljelzők megrendelhetőségét a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) igazolja. A füljelzők átvételéig az állatot forgalmi korlátozás alá kell helyezni.
+
+(4)[^27] Ha az állattartó a (3) bekezdés szerinti genetikai vizsgálat költségét nem vállalja, vagy a vizsgálat eredménye kizárja, hogy az állat azonos az állattartó által megjelölt ENAR-számon nyilvántartott egyeddel, akkor azt a járási hivatal rendelkezése alapján 48 órán belül az állattartó költségére (kártalanítás nélkül) le kell ölni. Az állattartó köteles a tetem ártalmatlanításáról gondoskodni a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló 45/2012. (V. 8.) VM rendeletben foglaltak szerint.
+
+### 11. §
+
+(1)[^28] Az állat levágása esetén a vágóhíd, elhullása esetén pedig az állati melléktermék ártalmatlanító szervezet távolíthatja el a füljelzőket.
+
+(2) Az eltávolított füljelzőket meg kell semmisíteni az e rendeletben, valamint a veszélyes hulladékokra vonatkozó külön jogszabályokban foglaltak szerint.
+
+(3)[^29] Az eltávolított és megsemmisített füljelzőkről az (1) bekezdés szerinti szervezet köteles nyilvántartást vezetni, és annak időszerű állapotáról hét napon belül tájékoztatni a NÉBIH-et és a járási hivatalt.
+
+### 12. §
+
+(1)[^30] A szarvasmarha – eltérő állattartók tenyészetei vagy állattartó és nem állattartó típusú tenyészetek között – csak akkor szállítható, ha az 1760/2000/EK európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően megjelölték, valamint – hátoldalán az állat-egészségügyi bizonyítvány sorszámával, a kiállító állatorvos bélyegzőszámával, a kapcsolattartó aláírásával, valamint a kiállítás dátumával ellátott – beérkezés-bejelentő szelvénnyel egybefüggő marhalevél és állat-egészségügyi bizonyítvány kíséri.
+
+(2)[^31] Az Útmutató tartalmazza a marhalevél kötelező mintáját.
+
+(3)[^32]
+
+(4)[^33] A marhalevélre alkalmazni kell a számvitelről szóló 2000. évi C. törvény 168. §-ának rendelkezéseit.
+
+(5)[^34] Az állattartó, ugyanazon megye területén lévő állattartó típusú tenyészetei közötti állatmozgás esetén, az új tenyészetbe kerülés bejelentésekor, a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló rendeletben elrendelt tartási hely és tenyészetek összerendelését követően, a marhalevél elsődlegesen elektronikus formában kerül kiállításra. Az állattartó kérésére és költségére a marhalevelet a NÉBIH papíralapú formában is kiállítja.
+
+## Az ENAR-ban részt vevő hatóságok feladatai
+
+### 13. §[^35]
+
+(1)[^36] Az Országos Adatbázis létrehozásával, fenntartásával és fejlesztésével kapcsolatos feladatokat a NÉBIH látja el.
+
+(2)[^37] Az ENAR működtetésével kapcsolatos feladatokat a NÉBIH a járási hivatallal együttműködve látja el.
+
+(3)[^38] Az állattartó feladatai végrehajtásának hatósági ellenőrzését a NÉBIH, a Pest Megyei Kormányhivatal és a járási hivatal látja el, a Magyar Államkincstár, mint a támogatások ellenőrzéséért felelős szervezet közreműködik e feladatok végrehajtásában.
+
+### 14. §[^39]
+
+A NÉBIH részletes feladat- és hatásköre az ENAR működtetésével kapcsolatban:
+
+a)[^40] ellátja az információk biztonságos központi tárolásával, az Országos Adatbázis működtetésével és fejlesztésével összefüggő valamennyi feladatot az adatvédelmi előírások betartásával;
+
+b)[^41] lefolytatja az állatok jelöléséhez használható füljelzők és behelyező eszközök megfelelőségi vizsgálatát, jóváhagyja a füljelző-beszállítókat, valamint felügyeli a füljelzők megrendelésének és a szállítás-teljesítésnek a folyamatát;
+
+c) gondoskodik arról, hogy az arra jogosult felhasználóknak az adatbázis hiteles információkat adjon;
+
+d) eljárást kezdeményez az illetékes hatóságnál, ha észleli, hogy e rendelet előírásaitól eltérnek;
+
+e)[^42] elkészíti az Útmutatót.
+
+### 15. §[^43]
+
+A NÉBIH, a Pest Megyei Kormányhivatal és a járási hivatal az ENAR működtetésével kapcsolatban az ENAR-rendszer működése és fejlesztése során szükséges hatósági ellenőrzések végrehajtása.
+
+### 15/A. §[^44]
+
+A járási hivatal az ENAR működtetésével kapcsolatban:
+
+a) az illetékességi területén található tenyészetből, az állattartó hozzájárulásának hiányában is, bejelenti egy szarvasmarha kikerülését az országos adatbázishoz, amennyiben az állattartó felszólítás ellenére sem végzi el hibátlanul a bejelentést, és ez akadálya az állat regisztrálásának az új tenyészetben,
+
+b) az Útmutatóban előírt esetekben ellenőrzi az illetékességi területén található tenyészetekből az országos adatbázishoz küldeni szánt bejelentéseket,
+
+c)[^45] az Útmutatóban előírt esetekben ellenőrzi, és ellenjegyzi az illetékességi területén található tenyészetekből az országos adatbázishoz küldeni szánt bejelentéseket, különösen az alábbi esetekben:
+
+ca) az állat tenyészetbe történő bekerülésekor az eredeti marhalevél hiánya, a marhalevél hibás használata, kitöltöttsége esetén az új marhalevél-igénylő lapot,
+
+cb) a marhalevél hátoldalán az állat-egészségügyi bizonyítvány adatainak hiánya vagy hibás kitöltöttsége esetén az új marhalevél-igénylő lapot.
+
+### 16. §
+
+A támogatások ellenőrzésére külön jogszabály szerint meghatározott szervezet feladatai és kötelességei:
+
+a)[^46] biztosítja az Országos Adatbázisnak a támogatásokkal kapcsolatos adatokat;
+
+b) elvégzi az ENAR működése során szükséges, hatáskörébe utalt ellenőrzéseket.
+
+## Az ENAR-ban részt vevő vágóhíd üzembentartója és a felügyeletet ellátó hatósági állatorvos feladatai
+
+### 17. §
+
+A vágóhíd üzembentartója feladatai és kötelességei:
+
+a)[^47] biztosítja – a *b)* és *c)* pontban foglaltak kivételével –, hogy rendes vágásra ne kerüljön az a szarvasmarha, amelyiknek hiányzik vagy azonosításra alkalmatlan a füljelzője, továbbá ha nem kíséri marhalevél és állat-egészségügyi bizonyítvány;
+
+b) elvégzi az állategészségügyi előírások figyelembevételével az azonnali vágás céljából behozott állat levágását, feltéve hogy ez hetvenkét órán belül végrehajtható;
+
+c) elvégzi az eljáró állatorvos által állategészségügyi igazolással elrendelt kényszervágásokat;
+
+d)[^48] nyilvántartást vezet a vágóhídon levágott állatokról, ami tartalmazza legalább az ENAR-számot, az állat vágáskori életkorát (hónapokban) és a vágás időpontját;
+
+e)[^49] a marhalevél használatával jelentett vágás esetében a marhaleveleket 7 napon belül, elektronikusan jelentett vágás esetében a vágás adatait a vágás napján, az egyedekhez tartozó marhaleveleket pedig 30 napon belül megküldi a NÉBIH-nek.
+
+f) gondoskodik a levágott szarvasmarha füljelzőinek megsemmisítéséről;
+
+g)[^50] a marhalevél beérkezés-bejelentő szelvényre rávezeti a vágóhíd tenyészetkódját, a vágás típusának megfelelő kikerülési kódot, valamint az állat vágóhídra érkezésének időpontját, kivéve, ha az elektronikus jelentési rendszeren keresztül küldi be ezen adatokat.
+
+### 18. §[^51]
+
+A vágóhíd felügyeletét ellátó hatósági állatorvos feladatai és kötelességei:
+
+a) ellenőrzi a vágóhídon levágásra kerülő állat füljelzőjét, továbbá marhalevelét és állat-egészségügyi bizonyítványát;
+
+b) az *a)* pontban foglaltak hiánya esetén megtiltja az átvételt az igazolások pótlásáig;
+
+c) folyamatosan ellenőrzi és felügyeli a 17. §-ban előírtak betartását.
+
+## Az ENAR-ban részt vevő állattartók és az ENAR-felelős feladatai és kötelezettségei[^52]
+
+### 19. §[^53]
+
+Az állattartó köteles a közösségi jogszabályokban foglaltakat betartani, valamint:
+
+a)[^54] a tenyészetben tartott szarvasmarhákról a 2. számú melléklet szerint állomány-nyilvántartást vezetni, és azt naprakészen tartani;
+
+b)[^55] a tartott állatok pontos és szakszerű nyilvántartásba vételét elősegíteni;
+
+c) az ellenőrzésre jogosult szervezet képviselőjének rendelkezésére bocsátani a szükséges információkat és adatokat;
+
+d)[^56]
+
+e) az ENAR szabályai szerint a tenyészetében lévő állatok jelöléséről gondoskodni, és ennek költségeit viselni;
+
+f) megakadályozni a füljelzők eltávolítását, megrongálását, illetve olvashatatlanná tételét;
+
+g) a kiesett, elveszett vagy olvashatatlanná vált füljelző pótlásáról saját költségén gondoskodni, mindkét füljelző hiánya esetén a 10. § (3) bekezdése szerint eljárni, és költségeit viselni;
+
+h)[^57] a hazai azonosítóval megjelölt, harmadik országból beérkezett állat adatait az állomány-nyilvántartó könyvben úgy feltüntetni, hogy a korábbi és az új azonosító közötti kapcsolat bármikor megállapítható legyen.
+
+### 20. §
+
+Az ENAR-felelős köteles:
+
+a) az állattartó jelzése alapján gondoskodni a füljelzők és a jelöléshez szükséges eszközök megrendeléséről, a jelölés előírt határidő szerinti elvégzéséről és hatósági bejelentéséről;
+
+b)[^58] az Országos Adatbázisban történő nyilvántartásba vételhez 7 napon belül bejelenteni az ENAR-felelősnek vagy a NÉBIH-nek és a járási hivatalnak átadott vagy attól átvett, továbbá a felhasználás előtt használhatatlanná vált vagy elveszett füljelzőket;
+
+c)[^59] megyei körzetben a megjelölt állat bejelentőlapját a helyszínen kitölteni, és harmadik példányát az állattartónak átadni;
+
+d)[^60] megyei körzetben a marhalevél átvételét, borjú születésének bejelentését, vagy a feladatait érintő bármilyen esemény bejelentését az állattartó felé igazolni.
+
+## Az Országos Adatbázis[^61]
+
+### 21. §[^62]
+
+(1)[^63] Az állatok azonosíthatósága és nyomon követése, illetve a támogatások ellenőrzése céljából a NÉBIH az állattenyésztésről szóló 1993. évi CXIV. törvény 16. § a) pontja alapján az Országos Állattenyésztési Adatbank részeként Országos Adatbázist tart fenn és működtet.
+
+(2) Az Országos Adatbázisban az ENAR keretében kell nyilvántartani a szarvasmarha 23. §-ban előírt adatait, valamint a 33. § szerinti hatósági ellenőrzések megtörténtének tényét és eredményét.
+
+### 22. §[^64]
+
+(1) Az Országos Adatbázisból a járványügyi nyomozáshoz, a forgalomkorlátozás elrendeléséhez és feloldásához külön jogszabályban előírt adatokat kell szolgáltatni.
+
+(2) Az Országos Adatbázis az állattartók és az ellenőrző szervezetek számára a rájuk vonatkozó adatok tekintetében nyilvános.
+
+(3) Az Országos Adatbázis üzemeltetője a vele szerződésben álló tenyésztőegyesületek és a tejtermelés-ellenőrző szervezetek részére, az alapszabályban és a tenyésztési programban foglaltak alapján hozzáférést biztosít.
+
+(4)[^65] Az Országos Adatbázis üzemeltetője biztosítja az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 35/A. §-a alapján elismert tanúsító szervezeteknek a hozzáférést az ökológiai gazdálkodást folytató állattartók állományainak azonosítási, létszám- és szállítási adataihoz. A tanúsító szervezetek az adatokat kizárólag az ökológiai termelés ellenőrzésével és tanúsításával kapcsolatban használhatják fel.
+
+## A marhalevél tartalma és felhasználásának követelményei[^66]
+
+### 23. §
+
+(1)[^67] A marhalevél első oldalának perforációval elválasztott felső – más tagállamba, illetve harmadik országba történő kiszállításkor útlevélként funkcionáló – része legalább az alábbi adatokat tartalmazza:
+
+a) az állat ENAR-nyilvántartási számát és következő adatait: nemét, faját vagy fajtája megnevezését, színét, születési idejét, előző (külföldi) azonosító számát, a származási ország megnevezését, az anya vagy recipiens számát;
+
+b) az állattartó nevét és címét, a tenyészet kódját, címét;
+
+c) az egyed tenyészeteinek adatait: a származási ország megnevezését (külföldi tenyészet esetén), a tenyészet kódját (hazai tenyészet esetén) és a tenyészetbe kerülés idejét;
+
+d) az egyedre felvett támogatás külön jogszabály szerint előírt adatait, az igényelt támogatást és annak teljesítését (második életkor kategória szerint);
+
+e) az állattartó aláírását;
+
+f) a kibocsátó szervezet megnevezését;
+
+g) a kiadás időpontját és sorszámát;
+
+h)[^68] az elektronikus azonosító típusát, amennyiben azt az állaton elhelyezték.
+
+(2)[^69] A marhalevél első oldalának középső része a beérkezés-bejelentő szelvény, első oldalának alsó része a kikerülés-bejelentő szelvény.
+
+(3)[^70] A marhalevél második oldala (hátoldala) az állatot kísérő állat-egészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – a hátoldalon fel kell tüntetni az állat-egészségügyi bizonyítvány sorszámát, a kiállító állatorvos bélyegzőszámát és a kiállítás dátumát.
+
+### 24. §
+
+(1)[^71] A Pest Megyei Kormányhivatal vagy a NÉBIH az Országos Adatbázisból marhalevelet állít ki az állattartónak. A marhalevelet az állat születése vagy tenyészetbe kerülése bejelentését tanúsító bizonylat, illetve az elektronikus úton küldött bejelentés beérkezésétől számított 10 napon belül kell kiadni.
+
+(2)[^72] A marhalevél hatósági bizonyítvány, ami lehetővé teszi az állat azonosítását és az egyéb feltételek megléte esetén annak forgalmazását.
+
+(3)[^73] Megyei körzetbe sorolt tenyészet részére kiállított marhalevelet a kiállító szervezet a körzeti kapcsolattartó állatorvos címére küldi meg.
+
+(4)[^74] Az ENAR-felelős által továbbított igénylés alapján a kiállító szervezet az Országos Adatbázisból pótolja a megsemmisült, elveszett vagy névváltoztatás miatt cserélt marhalevelet. Az új marhalevél költségeit az állattartó viseli.
+
+(5)[^75] Más tagállamból érkező szarvasmarha útlevelét regisztráció céljából,
+
+a) a bejelentőlappal együtt 7 napon belül,
+
+b) elektronikus úton történő bejelentés esetén a bejelentést megelőzően 7 napon belül
+
+be kell küldeni az Országos Adatbázishoz.
+
+### 25. §[^76]
+
+(1) Az állattartó köteles:
+
+a) gondoskodni arról, hogy a szarvasmarha szállítása vagy hajtása esetén a marhalevél kísérje az állatot, továbbá azt az ellenőrző élelmiszerlánc-felügyeleti szerv, valamint a közúti forgalmat ellenőrző rendőrhatóság felhívására bemutatni;
+
+b) kikerülés esetén:
+
+ba) a tenyészetből kikerült szarvasmarha marhalevelének kikerülés-bejelentő szelvényét 3 napon belül átadni az ENAR-felelősnek;
+
+bb) az állat elhullása és leölése esetén a kikerülés-bejelentő szelvényt 3 napon belül átadni az ENAR-felelősnek, a tetemet és a beérkezés-bejelentő szelvénnyel egybefüggő marhalevelet a települési állati melléktermék gyűjtőhely, állati melléktermék gyűjtő-átrakó telep kezelője útján vagy közvetlenül átadni az állati melléktermék ártalmatlanító szervezetnek;
+
+bc) vágóhídon kívüli kényszervágás esetén a kikerülés és bekerülés bejelentő szelvényekkel egybefüggő marhalevelét 3 napon belül átadni az ENAR-felelősnek;
+
+bd) közvetlenül a tenyészetből külföldre szállított állat esetén a két szelvényt egybefüggően 3 napon belül átadni az ENAR-felelősnek,
+
+be) közvetetten (rakodóhelyen vagy gyűjtőállomáson keresztül) külföldre kiszállított állat esetén a kikerülés-bejelentő szelvényt 3 napon belül átadni az ENAR-felelősnek, a beérkezés-bejelentő szelvénnyel egybefüggő marhalevelet pedig a gyűjtőállomásig történő szállításhoz szükséges állat-egészségügyi bizonyítványhoz csatolni;
+
+c) a tenyészetbe került szarvasmarha beérkezés-bejelentő szelvényt a felső résszel együtt 3 napon belül átadni az ENAR-felelősnek;
+
+d) az elveszett vagy házilag levágott állatnak a kikerülés- és bekerülés bejelentő szelvényekkel egybefüggő marhalevelét 3 napon belül átadni az ENAR-felelősnek;
+
+e) a marhalevél megsemmisülése vagy elvesztése miatt 3 napon belül értesíteni az ENAR-felelőst;
+
+f) a tenyészetében született borjú születését 10 napon belül bejelenteni az ENAR-felelősnek.
+
+(2) Közvetlenül a tenyészetből külföldre szállított állat esetén a marhalevél (beérkezés-bejelentő és kikerülés bejelentő szelvény nélkül) az állatot kíséri, mint szarvasmarha útlevél.
+
+### 26. §[^77]
+
+Az ENAR-felelős köteles:
+
+a)[^78] az elveszett vagy házilag levágott állat kikerülés- és beérkezés-bejelentő szelvénnyel egybefüggő marhalevelét a kézhezvételétől számított 4 napon belül a kikerülés-bejelentő szelvény rovatainak kitöltése után az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni, és a marhalevelet a két szelvénnyel egybefüggően 30 napon belül megküldeni a NÉBIH-nek;
+
+b) a közvetlenül a tenyészetből külföldre szállított állat egybefüggő kikerülés- és bekerülés-bejelentő szelvényét a kézhezvételétől számított 4 napon belül, a kikerülés-bejelentő szelvény rovatainak kitöltése után az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni;
+
+c)[^79] a más tenyészetből beérkezett szarvasmarha bekerülés-bejelentő szelvényét kitölteni, és azt a marhalevéllel egybefüggően 4 napon belül az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni és a marhalevelet a szelvénnyel egybefüggően 30 napon belül megküldeni a NÉBIH-nek;
+
+d) a tenyészetéből kikerült, elhullott és leölt szarvasmarha marhalevelének kikerülés-bejelentő szelvényét a kézhezvételétől számított 4 napon belül kitölteni, és az Országos Adatbázishoz megküldeni, vagy a kikerülést 4 napon belül elektronikus úton bejelenteni;
+
+e) közvetetten (rakodóhelyen vagy gyűjtőállomáson keresztül) külföldre szállított állat esetén a 30. § (2) bekezdésében foglaltak szerint eljárni;
+
+f) a marhalevél megsemmisülése vagy elvesztése esetén az Országos Adatbázistól haladéktalanul kezdeményezni új marhalevél kiadását;
+
+g) az állattartóval információs összeköttetést fenntartani az Országos Adatbázis állományváltozást követő feladatainak ellátása érdekében.
+
+### 27. §
+
+(1) Az állatvásár (piac), a kiállítás és az állatkórház ENAR-felelőse köteles:
+
+a)[^80] ellenőrizni a beszállított állatok jelölését, valamint marhalevelét;
+
+b)[^81] a beszállított állatok adatait az Országos Adatbázisnak hét napon belül bejelenteni, az Útmutatóban előírt módon, bizonylaton vagy elektronikus úton;
+
+c)[^82] nyilvántartást vezetni a beszállított és kiszállított állatokról.
+
+(2)[^83] A rakodóhely, illetve a gyűjtőállomás ENAR-felelőse az (1) bekezdésben foglaltakkal egyezően köteles ellenőrzést végezni, valamint a vágóhídra tovább szállított, az elhullott vagy elveszett állatokról az Országos Adatbázisnak a NÉBIH honlapjáról letöltött formanyomtatvány felhasználásával vagy az elektronikus felületén jelentést tenni.
+
+(3)[^84] Az (1) és (2) bekezdésben felsorolt létesítmények hatósági felügyeletét ellátó állatorvos köteles felügyelni és ellenőrizni az e bekezdésekben előírtak betartását. Ha a hatósági állatorvos megállapítja, hogy a vonatkozó rendelkezéseket nem tartják be, köteles megtenni a szükséges intézkedéseket és a NÉBIH-et és a járási hivatalt értesíteni.
+
+### 28. §
+
+(1)[^85] Az állati melléktermékeket ártalmatlanító szervezet köteles:
+
+a) a kijelölt megsemmisítő helyen a szarvasmarhahullát az ENAR-szám alapján azonosítani;
+
+b) a füljelzőit eltávolítani és megsemmisíteni;
+
+c)[^86] a beérkezés-bejelentő szelvényt kitölteni, és azt a marhalevéltől nem leválasztva az Országos Adatbázisnak 7 napon belül megküldeni, vagy a beérkezést elektronikus úton 7 napon belül bejelenteni, és a kitöltetlen szelvényt a marhalevéllel egybefüggően 30 napon belül beküldeni.
+
+(2)[^87] Az (1) bekezdésben felsorolt létesítmény hatósági felügyeletét ellátó állatorvos köteles felügyelni és ellenőrizni az (1) bekezdésben előírtak betartását. Ha a hatósági állatorvos megállapítja, hogy a vonatkozó rendelkezéseket nem tartják be, köteles megtenni a szükséges intézkedéseket és szükség esetén a NÉBIH-et és a járási hivatalt értesíteni.
+
+## Egyedek kiszállítása, exportja vagy visszaérkezése[^88]
+
+### 30. §[^90]
+
+(1) Európai uniós tagállamba történő kiszállítás vagy harmadik országba történő export esetén az állatok rakodásakor közreműködő hatósági állatorvos köteles:
+
+a) a marhalevél felső részét és a külön jogszabályban meghatározott egyéb dokumentumokat az állattal együtt a célországba küldeni;
+
+b) rakodóhelyen, illetve gyűjtőállomáson, ha a kiszállítás vagy az export meghiúsult, az állat-egészségügyi bizonyítványt bevonni és az állatot a kitöltetlen beérkezés-bejelentő szelvénnyel összefüggő marhalevéllel együtt tovább szállíttatni.
+
+(2) A rakodóhely, illetve gyűjtőállomás ENAR-felelőse köteles:
+
+a) a beérkezés-bejelentő szelvénnyel összefüggő marhalevelet átvenni és ellenőrizni, hiányossága esetén a berakodást megtiltani vagy felfüggeszteni annak pótlásáig;
+
+b) a kiszállított vagy exportált szarvasmarha beérkezés-bejelentő szelvényét kitölteni, és 7 napon belül az Országos Adatbázishoz eljuttatni;
+
+c) ha a kiszállítás vagy az export meghiúsult, a már beszállított állatok adatait az Országos Adatbázisnak 7 napon belül bejelenteni, az Útmutatóban előírt bizonylaton vagy elektronikus úton.
+
+(3) Az ideiglenesen kiszállított vagy exportált állat visszaérkezésekor az állattartó köteles a szarvasmarha visszaküldött marhalevelét, valamint állat-egészségügyi bizonyítványát az ENAR-felelősnek 3 napon belül leadni. Az ENAR-felelős 4 napon belül új marhalevelet igényel az Országos Adatbázistól.
+
+## Az állomány-nyilvántartás tartalma
+
+### 31. §
+
+(1) A 19. § a) pontja szerinti állomány-nyilvántartásban az állattartó az alábbi adatokat köteles feltüntetni:
+
+a) a született, a tenyészetbe érkezett és abból kikerült, illetve az elhullott vagy kényszervágott állat azonosítóját,
+
+b) az egyed születési idejét,
+
+c) nemét, fajtáját és színét,
+
+d)[^91] az elhullás, a leölés és a házi vágás időpontját,
+
+e) behozatal és kivitel esetén a küldő vagy fogadó tenyészet kódját, továbbá a szállítás időpontját,
+
+f) az anyaállat ENAR-számát, illetve külföldről származó egyed esetén eredeti azonosítóját.
+
+(2)[^92] Az állomány-nyilvántartásban rögzíteni kell az ellenőrzést végző nevét és az ellenőrzés időpontját, amit az ellenőrzést végző személy aláírásával és bélyegzővel igazol.
+
+(3)[^93] Az állattartó a marhalevél adatait az állomány-nyilvántartásba bevezeti, és a marhalevelet aláírásával ellátja.
+
+(4) Az állattartó gondoskodik arról, hogy az állomány-nyilvántartás az (1)–(3) bekezdésben előírt tartalommal állandóan rendelkezésre álljon. A nyilvántartás elektronikus (nyomtatható) formában is vezethető. A nyilvántartás adatait legalább három évig meg kell őrizni.
+
+(5)[^94]
+
+## Az ENAR alkalmazásával kapcsolatos költségek viselése
+
+### 32. §
+
+Az állattartó az ENAR működtetésére, valamint az ellenőrzési költségek térítésére külön jogszabályban előírt díjat köteles megfizetni az illetékes hatóságoknak.
+
+## Hatósági ellenőrzés és szankciók alkalmazása
+
+### 33. §
+
+(1)[^95] A szarvasmarha jelölésével és nyilvántartásával kapcsolatos rendeletben előírt feladatok végrehajtásának ellenőrzése a NÉBIH és a járási hivatal, a támogatások ellenőrzése a külön jogszabály szerint meghatározott szervezet feladata.
+
+(2)[^96] A támogatások ellenőrzéséért felelős hatóság az ENAR-ellenőrzést a NÉBIH-hel és a járási hivatallal egységesen végzi, és ellenőrzése adatait köteles annak rendelkezésére bocsátani. Az ellenőrzést a külön jogszabályban leírtak szerint kell elvégezni.
+
+(3)[^97]
+
+(4)[^98] Ha a támogatások ellenőrzéséért felelős hatóság a nyilvántartási, bejelentési kötelezettség elmulasztását vagy a rendeletben előírt tevékenységek be nem tartását észleli, köteles a járási hivatalt értesíteni.
+
+### 34. §
+
+(1)[^99] Az agrárpolitikáért felelős miniszter közösségi jogszabályban leírt esetben az ellenőrzések gyakoriságának növelését írhatja elő.
+
+(2)[^100]
+
+### 36. §
+
+(1)[^102] Az ellenőrzéseket a Szarvasmarha ENAR Ellenőrzés Útmutatóban megadott módon, az ott megadott bizonylatok felhasználásával kell végezni. Az ellenőrzés során az állattartónak vagy megbízottjának lehetőséget kell adni arra, hogy a jegyzőkönyvet aláírja, illetve tartalmára vonatkozó észrevételeit közölje. A NÉBIH, a Pest Megyei Kormányhivatal és a járási hivatal képviselője köteles az állattartónak, illetve megbízottjának átadni az ellenőrzésről készült jegyzőkönyv egy példányát.
+
+(2)–(3)[^103]
+
+(4)–(5)[^104]
+
+### 37. §[^105]
+
+Az ellenőrzések eredményéről a hatóságok a tenyészetek és az ellenőrzések, valamint az ellenőrzött állatok száma, az észlelt szabálytalanságok, hiányosságok, valamint az alkalmazott szankciók bemutatásával éves jelentést készítenek, amit évente április 30-áig megküldenek az agrárpolitikáért felelős miniszternek.
+
+### 39. §[^107]
+
+A közösségi jogszabályok által elrendelt forgalomkorlátozó intézkedéseket a megyei kormányhivatal rendeli el. A forgalomkorlátozást fel kell oldani, ha az állattartó igazolja, hogy a hiányosságokat pótolta.
+
+## Záró rendelkezések
+
+### 40. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^108]
+
+### 41. §[^109]
+
+Ez a rendelet:
+
+a) a 820/97/EK tanácsi rendeletnek a szarvasmarhafélék azonosítási és nyilvántartási rendszerének keretében a minimálisan alkalmazandó közigazgatási szankciók végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 1998. február 27-i 494/98/EK bizottsági rendelet;
+
+b) a szarvasmarhafélék azonosítási és nyilvántartási rendszerének létrehozásáról, valamint a marhahús és marhahústermékek címkézéséről, továbbá a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2000. július 17-i 1760/2000/EK európai parlamenti és tanácsi rendelet;
+
+c) az 1760/2000/EK európai parlamenti és tanácsi rendeletnek a szarvasmarhafélék azonosítási és nyilvántartási rendszerének keretében végrehajtandó minimális szintű ellenőrzések tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2003. június 23-i 1082/2003/EK bizottsági rendelet;
+
+d) a füljelzők, marhalevelek és állomány-nyilvántartások tekintetében az 1760/2000/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2004. április 29-i 911/2004/EK bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 42. §[^110]
+
+Ez a rendelet a 64/432/EGK tanácsi irányelvnek a tagállami felügyeleti hálózat részét képező számítógépes adatbázisok tekintetében történő módosításáról szóló, 2014. május 15-i 2014/64/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^113]
+
+## 2. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^114]
+
+**Állomány-nyilvántartás**
+
+<table><tbody><tr><td rowspan="2">ENAR- szám</td><td rowspan="2">Anyja ENAR- száma vagy eredeti külföldi azonosítója</td><td rowspan="2">Születés<br>ideje</td><td rowspan="2">Neme</td><td rowspan="2">Fajtája és szőrzetének színe</td><td rowspan="2">A tartási helyen lévő állat elpusztulásának,<br>elveszésének dátuma</td><td rowspan="2">A tartási helyen lévő állat leölésének, kényszervágásának vagy a házi vágásának időpontja</td><td colspan="2">A tenyészetbe érkezett</td><td colspan="3">Elhagyta a tenyészetet</td></tr><tr><td>Szárma-<br>zási<br>tenyészet<br>kódja</td><td>Dátum</td><td>Céltenyészet<br>kódja</td><td>Dátum</td><td>Megjegyzés</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Ellenőrzések
+
+| Dátum: |  |  |  |
+|---|---|---|---|
+| Aláírás: |  |  |  |
+
+## 3. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^115]
+
+---
+
+[^1]: Az 1. § eredeti szövegét a 12/2004. (I. 31.) FVM rendelet 1. §-a (1) bekezdésre változtatta.
+[^2]: Az 1. § (2) bekezdését a 12/2004. (I. 31.) FVM rendelet 1. §-a iktatta be, egyidejűleg az eredeti § szövegét (1) bekezdésre változtatta. Az 1. § (2) bekezdését a 88/2013. (X. 2.) VM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § eredeti szövegének számozását (1) bekezdésre változtatta a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése. A 2. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdése 9. pontját a 40/2018. (XII. 15.) AM rendelet 3. §-a hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 10. pontja a 40/2018. (XII. 15.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 12. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 13. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
+[^9]: A 3. § a 12/2004. (I. 31.) FVM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdése a 40/2018. (XII. 15.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
+[^12]: A 4. §-t a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte, újonnan a 88/2013. (X. 2.) VM rendelet 2. §-a iktatta be.
+[^15]: A 7. § (1) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^16]: A 7. § (2) bekezdése a 4/2009. (I. 16.) FVM rendelet 18. §-ával megállapított szöveg.
+[^17]: A 7. § (3) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^18]: A 8. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 3. §-ával megállapított, a 40/2018. (XII. 15.) AM rendelet 2. § c) pontja szerint módosított szöveg.
+[^19]: A 8. § (2) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^20]: A 23. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 1. pontja szerint módosított szöveg.
+[^21]: A 9. § (1) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 23. § 2. pontja szerint módosított szöveg.
+[^22]: A 9. § (1) bekezdésének b) pontja a 119/2007. (X. 18.) FVM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^23]: A 9. § (2) bekezdése a 4/2009. (I. 16.) FVM rendelet 19. §-ával megállapított, a 88/2013. (X. 2.) VM rendelet 23. § 3. pontja, a 154/2023. (XII. 27.) AM rendelet 2. §-a szerint módosított szöveg.
+[^24]: A 10. § (1) bekezdése a 119/2007. (X. 18.) FVM rendelet 15. § (9) bekezdése, a 40/2018. (XII. 15.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^25]: A 10. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^26]: A 10. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 4. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 1. pontja szerint módosított szöveg.
+[^27]: A 10. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 2. pontja szerint módosított szöveg.
+[^28]: A 11. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 6. pontja szerint módosított szöveg.
+[^29]: A 11. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 3. pontja szerint módosított szöveg.
+[^30]: A 12. § (1) bekezdése a 40/2018. (XII. 15.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 12. § (2) bekezdése a 87/2012. (VIII. 27.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^32]: A 12. § (3) bekezdését a 88/2013. (X. 2.) VM rendelet 24. § d) pontja hatályon kívül helyezte.
+[^33]: A 12. § (4) bekezdését a 37/2013. (V. 22.) VM rendelet 1. §-a iktatta be.
+[^34]: A 12. § (5) bekezdését a 40/2018. (XII. 15.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^35]: A 13. § a 119/2007. (X. 18.) FVM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^36]: A 13. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 8. pontja szerint módosított szöveg.
+[^37]: A 13. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 4. pontja, a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^38]: A 13. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 5. pontja, a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^39]: A 14. § nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^40]: A 14. § a) pontja a 88/2013. (X. 2.) VM rendelet 23. § 11. pontja szerint módosított szöveg.
+[^41]: A 14. § b) pontja a 88/2013. (X. 2.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^42]: A 14. § e) pontja a 88/2013. (X. 2.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^43]: A 15. § a 88/2013. (X. 2.) VM rendelet 7. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 6. pontja szerint módosított szöveg.
+[^44]: A 15/A. §-t a 88/2013. (X. 2.) VM rendelet 8. § (1) bekezdése iktatta be, nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 43. § 7. pontja szerint módosított szöveg.
+[^45]: A 15/A. § c) pontját a 88/2013. (X. 2.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^46]: A 16. § a) pontja a 88/2013. (X. 2.) VM rendelet 23. § 12. pontja szerint módosított szöveg.
+[^47]: A 17. § a) pontja a 88/2013. (X. 2.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^48]: A 17. § d) pontja a 88/2013. (X. 2.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^49]: A 17. § e) pontja a 88/2013. (X. 2.) VM rendelet 9. § (2) bekezdésével megállapított, a 40/2018. (XII. 15.) AM rendelet 2. § f) pontja szerint módosított szöveg.
+[^50]: A 17. § g) pontját a 88/2013. (X. 2.) VM rendelet 9. § (3) bekezdése iktatta be.
+[^51]: A 18. § a 88/2013. (X. 2.) VM rendelet 10. §-ával megállapított szöveg.
+[^52]: A 19. §-t megelőző alcím a 4/2009. (I. 16.) FVM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^53]: A 19. § bevezető mondata a 12/2004. (I. 31.) FVM rendelet 11. §-ával megállapított szöveg.
+[^54]: A 19. § a) pontja a 4/2009. (I. 16.) FVM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^55]: A 19. § b) pontja a 119/2007. (X. 18.) FVM rendelet 15. § (6) bekezdésével megállapított szöveg.
+[^56]: A 19. § d) pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
+[^57]: A 19. § h) pontja a 4/2009. (I. 16.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^58]: A 20. § b) pontja a 4/2009. (I. 16.) FVM rendelet 22. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 8. pontja szerint módosított szöveg.
+[^59]: A 20. § c) pontját a 4/2009. (I. 16.) FVM rendelet 22. §-a iktatta be.
+[^60]: A 20. § d) pontját a 4/2009. (I. 16.) FVM rendelet 22. §-a iktatta be.
+[^61]: A 21. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^62]: A 21. § a 88/2013. (X. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^63]: A 21. § (1) bekezdése a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^64]: A 22. § a 88/2013. (X. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^65]: A 22. § (4) bekezdését a 40/2018. (XII. 15.) AM rendelet 1. § (3) bekezdése iktatta be.
+[^66]: A 23. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 23. § 14. pontja szerint módosított szöveg.
+[^67]: A 23. § (1) bekezdés nyitó szövegrésze a 88/2013. (X. 2.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^68]: A 23. § (1) bekezdés h) pontját a 69/2017. (XII. 27.) FM rendelet 6. § (1) bekezdése iktatta be.
+[^69]: A 23. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^70]: A 23. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^71]: A 24. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 13. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 9. pontja, a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^72]: A 24. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 15. pontja szerint módosított szöveg.
+[^73]: A 24. § (3) bekezdése a 99/2013. (X. 28.) VM rendelet 1. §-ával megállapított szöveg.
+[^74]: A 24. § (4) bekezdése a 99/2013. (X. 28.) VM rendelet 1. §-ával megállapított szöveg.
+[^75]: A 24. § (5) bekezdése a 88/2013. (X. 2.) VM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^76]: A 25. § a 88/2013. (X. 2.) VM rendelet 14. §-ával megállapított szöveg.
+[^77]: A 26. § a 88/2013. (X. 2.) VM rendelet 15. §-ával megállapított szöveg.
+[^78]: A 26. § a) pontja a 40/2018. (XII. 15.) AM rendelet 2. § f) pontja szerint módosított szöveg.
+[^79]: A 26. § c) pontja a 40/2018. (XII. 15.) AM rendelet 2. § f) pontja szerint módosított szöveg.
+[^80]: A 27. § (1) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 23. § 16. pontja szerint módosított szöveg.
+[^81]: A 27. § (1) bekezdés b) pontja a 88/2013. (X. 2.) VM rendelet 23. § 17. pontja szerint módosított szöveg.
+[^82]: A 27. § (1) bekezdésének c) pontját a 12/2004. (I. 31.) FVM rendelet 15. §-ának (1) bekezdése iktatta a szövegbe.
+[^83]: A 27. § (2) bekezdése a 154/2023. (XII. 27.) AM rendelet 1. §-ával megállapított szöveg.
+[^84]: A 27. § (3) bekezdését a 12/2004. (I. 31.) FVM rendelet 15. §-ának (2) bekezdése iktatta be, szövege a 88/2013. (X. 2.) VM rendelet 16. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 10. pontja szerint módosított szöveg.
+[^85]: A 28. § eredeti szövegét a 12/2004. (I. 31.) FVM rendelet 16. §-a (1) bekezdésre változtatta. A 28. § (1) bekezdés nyitó szövegrésze a 88/2013. (X. 2.) VM rendelet 23. § 18. pontja szerint módosított szöveg.
+[^86]: A 28. § (1) bekezdés c) pontja a 88/2013. (X. 2.) VM rendelet 17. §-ával megállapított szöveg.
+[^87]: A 28. § (2) bekezdését a 12/2004. (I. 31.) FVM rendelet 16. §-a iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 43. § 11. pontja szerint módosított szöveg.
+[^88]: A 29. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 18. §-ával megállapított szöveg.
+[^90]: A 30. § a 88/2013. (X. 2.) VM rendelet 19. §-ával megállapított szöveg.
+[^91]: A 31. § (1) bekezdés d) pontja a 4/2009. (I. 16.) FVM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^92]: A 31. § (2) bekezdése a 4/2009. (I. 16.) FVM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^93]: A 31. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 20. pontja szerint módosított szöveg.
+[^94]: A 31. § (5) bekezdését a 4/2009. (I. 16.) FVM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
+[^95]: A 33. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 12. pontja szerint módosított szöveg.
+[^96]: A 33. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 13. pontja szerint módosított szöveg.
+[^97]: A 33 § (3) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^98]: A 33. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 43. § 14. pontja szerint módosított szöveg.
+[^99]: A 34. § (1) bekezdése a 12/2004. (I. 31.) FVM rendelet 18. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 15. pontja szerint módosított szöveg.
+[^100]: A 34. § (2) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^102]: A 36. § (1) bekezdése a 12/2004. (I. 31.) FVM rendelet 19. §-a, a 42/2017. (VIII. 17.) FM rendelet 43. § 6. pontja szerint módosított szöveg.
+[^103]: A 36. § (2)–(3) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^104]: A 36. § (4)–(5) bekezdését a 88/2013. (X. 2.) VM rendelet 24. § f) pontja hatályon kívül helyezte.
+[^105]: A 37. § a 12/2004. (I. 31.) FVM rendelet 20. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 16. pontja szerint módosított szöveg.
+[^107]: A 39. § a 12/2004. (I. 31.) FVM rendelet 21. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 17. pontja szerint módosított szöveg.
+[^108]: A 40. § (2) bekezdését újonnan a 88/2013. (X. 2.) VM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 69/2017. (XII. 27.) FM rendelet 7. §-a.
+[^109]: A 41. §-t újonnan a 88/2013. (X. 2.) VM rendelet 21. §-a iktatta be.
+[^110]: A 42. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 296. pontja hatályon kívül helyezte, újonnan a 69/2017. (XII. 27.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^113]: Az 1. számú mellékletet a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
+[^114]: A 2. számú melléklet a 88/2013. (X. 2.) VM rendelet 22. §-ával megállapított szöveg.
+[^115]: A 3. számú mellékletet a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.

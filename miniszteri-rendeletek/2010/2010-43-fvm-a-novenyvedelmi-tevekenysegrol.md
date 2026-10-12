@@ -1,0 +1,1237 @@
+---
+title: "43/2010. (IV. 23.) FVM rendelet a növényvédelmi tevékenységről"
+identifier: "43/2010. (IV. 23.) FVM rendelet"
+njt_id: "2010-43-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2010/FVM/43"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2010-04-23
+in_force_from: 2010-05-08
+last_amended: 2026-07-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-43-20-82"
+retrieved: 2026-10-12
+---
+
+# 43/2010. (IV. 23.) FVM rendelet a növényvédelmi tevékenységről
+
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §-a (2) bekezdésének 8., 9. és 11. pontjában foglalt felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## Értelmező rendelkezések[^1]
+
+### 1. §[^2]
+
+E rendelet alkalmazásában:
+
+1\. *felszín alatti víz:* a felszín alatti vizek védelméről szóló kormányrendelet szerinti fogalom,
+
+2\. *felszíni víz:* a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet szerinti fogalom,
+
+3.[^3] *házi kert:* lakott területrészhez kapcsolódó, jellemzően saját felhasználásra szolgáló, haszon- vagy dísznövények termesztésére használt terület,
+
+3a.[^4] *helyettesítő növényvédő szer:* a növényorvosi vényen feltüntetett növényvédő szerrel azonos hatóanyagú, az adott kultúrában és károsítóra engedélyezett növényvédő szer,
+
+4.[^5] *lakott területrész:* a település olyan bel- vagy külterülete, amelyen a tulajdonosok az év valamely szakában életvitelszerűen tartózkodnak,
+
+4a.[^6] *méhkímélő technológia:* növényvédő szernek a házi méhek napi aktív repülési idejét követően – legkorábban a csillagászati naplemente előtt egy órával – megkezdett, legfeljebb 23:00 óráig tartó kijuttatása,
+
+5.[^7] *nem kémiai módszerek:* a károsítók elleni védekezésre szolgáló kémiai növényvédelmen kívüli módszerek és megoldások, amelyek e rendelet 8. mellékletében meghatározott mezőgazdasági technikákon vagy fizikai, mechanikai, illetve biológiai növényvédelmi módszereken alapulnak,
+
+6.[^8] *növényorvos:* a 17. § (2) bekezdése szerinti, felsőfokú növényvédelmi képesítéssel rendelkező személy,
+
+7.[^9] *növényvédelmi gép:* növényvédő szer kijuttatására szolgáló berendezés, ideértve az ilyen berendezések hatékony működéséhez elengedhetetlen tartozékokat is,
+
+8.[^10] *növényvédelmi munkavégző:* a 18. § (1) bekezdés a)–d) pontjában felsorolt képesítéssel rendelkező személy,
+
+9.[^11] *növényvédelmi szolgáltatás:* a növényvédő szerrel más számára végzett védekezési munka, a növényi károsítókkal kapcsolatos megfigyelés, tanácsadás, különösen a növényvédelmi előrejelzés, valamint a növényvédő szerekre vonatkozó felhasználási utasítás, ideértve a növényorvosi vény kiállítását is, de ide nem értve a munkavállalóként, tagként a vállalkozás részére vagy közeli hozzátartozó és annak családi gazdasága részére végzett növényvédelmi tevékenységet,
+
+10.[^12] *szakirányító:* I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező növényorvos, aki saját jogán növényvédelmi szolgáltatási tevékenységet végez vagy jogi személy tagjaként vagy munkavállalójaként növényvédelmi irányítói tevékenységet folytat.
+
+## Károsítók elleni védekezési kötelezettség[^13]
+
+### 1/A. §[^14]
+
+(1) A földhasználó és a termelő
+
+a) az adott terület rendeltetésével, hasznosítási céljával ellentétesen előforduló, tömeges jelenlétével gazdasági kárt okozó, ember vagy állat egészségét veszélyeztető vagy egyéb veszélyhelyzetet okozó növény (a továbbiakban: gyomnövény),
+
+b) a növényre, különösen kultúrnövényre, növényi termék bármely részére kifejezhető mennyiségi vagy minőségi veszteséggel járó, károsítást okozó állati szervezet (a továbbiakban: kártevő), valamint
+
+c) a növény, különösen kultúrnövény megbetegítésére képes, növényre, növényi termék bármely részére kifejezhető mennyiségi vagy minőségi veszteséggel járó, károsítást okozó fertőzőképes szervezet (a továbbiakban: kórokozó)
+
+elleni védekezésre vonatkozó döntését a károsítók gazdasági veszélyességére, emberre, állatra, környezetre gyakorolt hatására, a károsítók várható megjelenésének, terjedésének, járvány vagy gradáció kialakulásának valószínűsítésére szolgáló növényvédelmi előrejelzésre alapozva hozza meg.
+
+(2)[^15] A földhasználó, a termelő és a növényvédelmi szolgáltatást végző személy a növényvédelmi tevékenységet köteles
+
+a) a biológiai, biotechnikai, agrotechnikai, mechanikai, fizikai és kémiai védekezési eljárások, illetve ezek technológiai rendszerei alkalmazásával,
+
+b) a gyomnövények, kártevők és kórokozók természetes ellenségei és a hasznos, valamint a növénytermelés szempontjából veszélyt nem jelentő, élő szervezetek fokozott védelme mellett,
+
+c) az ember egészségére, a környezet és a természet védelmére vonatkozó alapelvek és szabályok betartásával
+
+folytatni.
+
+(3)[^16] A földhasználó, a termelő és a növényvédelmi szolgáltatást végző személy a tevékenységét az integrált növényvédelem 8. mellékletben található általános elveinek megfelelően végzi.
+
+### 2. §
+
+(1) A földhasználó és a termelő köteles védekezni, különösen
+
+a) csávázással, illetve talajfertőtlenítéssel azon károsítók ellen, amelyektől a növény a vegetációs időben más módon kielégítően nem védhető meg, vagy amelyek a kelő növényben különösen nagy kárt képesek okozni,
+
+b)[^17] mezei pocok és egyéb nagy kártételi veszélyt jelentő károsítók ellen,
+
+c) kukoricamoly ellen legkésőbb minden év április 15-éig a kukorica-, cirok- és kenderszár-maradványok talajba forgatásával vagy más módon történő megsemmisítésével, továbbá
+
+d) parlagfű (Ambrosia artemisiifolia),
+
+e) keserű csucsor (Solanum dulcamara),
+
+f) selyemkóró (Asclepias syriaca),
+
+g) aranka fajok (Cuscuta spp.),
+
+h)[^18] amerikai szőlőkabóca (Scaphoideus titanus), valamint
+
+i)[^19] a 7. melléklet szerinti raktári kártevők
+
+ellen.
+
+(2)[^20] Az (1) bekezdés g) pontjába tartozó gyomnövények irtását virágzásuk előtt végre kell hajtani.
+
+(3) Az (1) bekezdés c) pontjában foglaltak esetén, forgatás nélküli talajművelés kizárólag akkor végezhető, ha a táblán az előző évi növényállomány kukoricamoly fertőzéstől mentes volt.
+
+### 3. §
+
+(1) Magtermesztésre kijelölt pillangósokban az aranka fajok fertőzését azok virágzásáig fel kell számolni. A területet a szaporításból ki kell zárni, ha a védekezés nem eredményes vagy azt határidőre nem végezték el.
+
+(2)[^21] Arankamaggal szennyezett vetőmag kereskedelmi forgalomba nem hozható, saját vetési célra fel nem használható, azt csak a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) által meghatározott helyen lehet tisztítani. A vetőmag tisztítása során keletkező hulladékot, rostaaljat kizárólag a határozatban előírt módon szabad felhasználni vagy megsemmisíteni.
+
+(3)[^22] Arankamaggal szennyezett vetőmag kizárólag eredményes tisztítás után fémzárolható. A szennyezett, a szennyezésre gyanús, a fémzárolás nélkül forgalomba hozott vagy forgalomba hozatalra szánt magtételeket és a szennyezett maggal vetett területre a vármegyei kormányhivatalnak korlátozást kell elrendelni.
+
+### 4. §
+
+A termelő köteles a szemes termény tárolására szolgáló raktárteret üres állapotban megelőző fertőtlenítésben részesíteni, valamint a teljes tárolási időszakban a terményt, a tároló és feldolgozó helyeket raktári károsítóktól mentesen tartani. Raktári kártevővel fertőzött helyről termény, dara, liszt, abraktakarmány, vetőmag és fertőzött göngyöleg – fertőtlenítési cél kivételével – nem szállítható ki és nem forgalmazható.
+
+## A növényvédő szerekre vonatkozó általános előírások
+
+### 5. §
+
+(1) A növényvédő szereket csak az engedélyezett módon, a munkaegészségügyi és a kémiai biztonsági szabályok maradéktalan betartásával szabad felhasználni.
+
+(2) Növényvédő szereket a növényvédő szer forgalomba hozatali és felhasználási engedélyének (a továbbiakban: engedélyokirat), illetve címkéjének az ember és környezet veszélyeztetését megelőző előírásai, valamint a felhasználásra és a növényvédelmi technológiára vonatkozó utasításai betartásával lehet felhasználni.
+
+(3)[^23] A növényvédő szert a forgalmazás és a felhasználás szempontjából a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) I., II. és III. forgalmi kategóriába kell sorolja.
+
+(4)[^24] Az I. és II. forgalmi kategóriába sorolt növényvédő szerek forgalmazásához, vásárlásához, felhasználásához, továbbá a növényvédő szerrel végzett növényvédelmi szolgáltatáshoz I. vagy II. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási, és felhasználási engedély (a továbbiakban együtt: engedély) szükséges.
+
+(4a)[^25] A (4) bekezdés szerinti engedély az alábbi adatokat tartalmazza:
+
+a)[^26] az engedélyt kiállító vármegyei kormányhivatal megnevezése;
+
+b) az engedély sorszáma;
+
+c) az engedélyes neve, lakcíme;
+
+d) az engedélyes FELIR-azonosítója;
+
+e) az engedélyes NÉBIH tevékenység-azonosítója;
+
+f) az engedélyes végzettsége;
+
+g) a végzettséget tanúsító oklevelet kiállító intézmény megnevezése, az oklevél száma és kiállításának dátuma;
+
+h) az engedélyes növényorvosi kamarai regisztrációs száma és
+
+i) az engedélyes által teljesített továbbképzések teljesítésének időpontja.
+
+(4b)[^27]
+
+(5) A III. forgalmi kategóriába sorolt növényvédő szer vásárlása és saját célú felhasználása szakképesítéshez, engedélyhez nem kötött.
+
+(6)[^28] Növényvédő szer forgalmazónak minősül valamennyi, növényvédő szerrel kereskedelmi, illetve kereskedelmi szolgáltatási tevékenységet folytató növényvédőszer-gyártó, -formáló, -kiszerelő és -raktározó, valamint kis- és nagykereskedő.
+
+(7) E rendelet alkalmazásában növényvédő szer forgalomba hozatala a növényvédő szer készleten tartása eladás céljára, beleértve a növényvédő szer eladásra való felkínálását, vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint a növényvédő szerek eladását, forgalmazását vagy átadásának egyéb módját.
+
+## Különleges alkalmazási előírások
+
+### 6. §
+
+(1)[^29] Növényvédő szer az 5. § (2) bekezdésétől eltérő módon csak az 1107/2009/EK európai parlamenti és tanácsi rendelet szerint kiadott szükséghelyzeti és kísérleti engedélyben foglaltak szerint használható fel.
+
+(2)[^30] Közterületen, lakott területrészen, üdülőterületen – ideértve az ott áthaladó vasúti pályatestet is –, közösségi célt szolgáló területen (így különösen oktatási, egészségügyi, szociális intézmények, vallási közösségek intézményeinek területén), házi kertben és jogszabály rendelkezése szerint az ingatlantulajdonos kezelésébe utalt közterületen kizárólag az engedélyokirat szerint, II. vagy III. forgalmi kategóriába tartozó növényvédő szerek használhatók fel.
+
+(2a)[^31] Közterületen, valamint közösségi célt szolgáló területen közterületi felhasználásra engedélyezett növényvédő szer a Magyar Növényvédő Mérnöki és Növényorvosi Kamarában (a továbbiakban: Növényorvosi Kamara) tagsággal (a továbbiakban: növényorvosi kamarai tagság) rendelkező szakirányító irányításával juttatható ki. Ez a rendelkezés nem vonatkozik a jogszabály rendelkezése szerint az ingatlantulajdonos kezelésébe utalt közterületen végzett kezelésre.
+
+(2b)[^32] Növényvédő szer közterületen és közösségi célt szolgáló területen történő kijuttatásáról az érintett lakosságot a helyben szokásos módon tájékoztatni kell.
+
+(2c)[^33] Autópálya, autóút, főút besorolású közutak és vasutak lakott területen kívüli szakaszai bármely forgalmi kategóriájú növényvédő szerrel kezelhetők.
+
+(3) A növényvédő szerekkel folytatott valamennyi tevékenységet úgy kell megszervezni, hogy az elszóródás és a hulladékképződés a lehető legnagyobb mértékben elkerülhető legyen.
+
+(4) A jogellenesen forgalmazott növényvédő szert és annak csomagolóanyagát – a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló külön jogszabályban meghatározott hulladék minősítési eljárás befejeződéséig – veszélyes hulladékként kell kezelni.
+
+(5)[^34] Növényvédő szer lakott terület közvetlen szomszédságában, nem kézi erővel hajtott géppel történő kijuttatásáról az érintett területtel határos ingatlanon tartózkodókat a kezelés megkezdése előtt tájékoztatni kell.
+
+### 7. §[^35]
+
+Az élelmezés-egészségügyi várakozási idő lejárta előtti kényszerbetakarítást a termelő köteles a vármegyei kormányhivatalnak bejelenteni. A kényszerbetakarításból származó terményt más terménytől elkülönítetten kell tárolni, és a vármegyei kormányhivatal további intézkedéséig tilos felhasználni, illetve forgalomba hozni.
+
+### 8. §
+
+(1) A permetlé előkészítése a permetezőgép tartályában vagy erre a célra szolgáló hígító tartályban történhet. A permetlé készítéséhez, tárolásához faedény nem használható.
+
+(2) A növényvédő szeres kezelés befejezése után a növényvédelmi gépben maradt permetlé legalább tízszeres, gyomirtó szer esetén legalább húszszoros hígításban – az adott készítmény engedélyokiratában javasolt vízmennyiség betartásával – a kezelt felületre egyenletesen kijuttatható.
+
+(3) A friss fogyasztásra alkalmas szőlő, gyümölcs, zöldség, valamint zöldtakarmány termelésére szolgáló, növényvédő szerrel kezelt területen a betakarítás időszakában, a terület megközelítésének útvonala mellett, az élelmezés-egészségügyi várakozási idő tartamára, szembetűnő helyen, kellő számú, jól látható „Vigyázat! Növényvédő szerrel kezelt terület! Idegeneknek engedély nélkül belépni tilos!” feliratú, vagy ezzel azonos tartalmú táblát kell elhelyezni.
+
+(4) A növényvédő szer kiürített üveg, fém, illetve műanyag csomagolóeszközét legalább háromszor, az űrtartalom 10%-ának megfelelő vízmennyiséggel ki kell öblíteni, és a vizet az adott permetlé készítéséhez kell felhasználni.
+
+(5)[^36] A növényvédő szer keverőtartályában a növényvédő szeres kezelést követően fel nem használt permetlé vagy a növényvédő szer keverésre szolgáló víz kizárólag akkor hagyható, ha a keverőtartály illetéktelenektől elzárható vagy őrizhető. A munka során használt eszközök és egyéni védőeszközök (a továbbiakban együtt: védőeszköz) a 28. §-ban foglalt előírásoknak megfelelő raktárban tárolhatók. A növényvédő szerrel való munkavégzésre szolgáló védőeszközt más ruházattól és használati tárgytól elkülönítetten kell tárolni.
+
+(6) Növényvédő szerrel való munkavégzés során szennyezett védőeszközök a veszélyes hulladék elhelyezésére vonatkozó feltételek biztosítása esetén tisztíthatók.
+
+(7) A növényvédő szer hulladékát a veszélyes hulladékok kezeléséről szóló külön jogszabály előírásainak megfelelően kell kezelni.
+
+### 9. §
+
+(1)[^37] A növényvédelmi gépnek permetezéstechnikai szempontból biztosítania kell a növényvédő szer keresztirányú egyenletes, illetve veszteségmentes kijuttatását.
+
+(2)[^38] Növényvédő szeres permetezés 4 m/s szélsebességig, levegőrásegítéses kijuttatási vagy légbeszívásos permetcsepp-képzési technikával 6 m/s szélsebességig végezhető. Hideg és meleg ködképzés esetében 2 m/s-nál nagyobb szélsebességnél, növényvédő szeres kezelés nem végezhető.
+
+(3) Két vagy több növényvédelmi gép egyidejű üzemeltetése esetén a növényvédelmi gépek egymás légterét nem szennyezhetik.
+
+(4) Az egészségkárosodás megelőzésére a mindenkori szélirányt figyelembe kell venni.
+
+(5)[^39] A csávázott vetőmagról ledörzsölődő port pneumatikus vetőgéppel történő vetés esetén, az elsodródás megakadályozása céljából megfelelő csővezetékkel, eszközzel (deflektorral) a talaj felszínére vagy a barázdába kell vezetni, abban az esetben, ha azt a csávázószer engedélyokirata előírja.
+
+### 10. §
+
+(1) Adott területen kizárólag olyan növényvédő szer használható, amely az összes – a növényvédő szerrel érintkezésbe kerülő – fogyasztásra és takarmányozásra kerülő növényben, köztes terményben engedélyezett, amennyiben nem lehet biztosítani, hogy ezekre növényvédő szer ne kerüljön.
+
+(2) Az előírt élelmezés-egészségügyi várakozási időt a kezelt területen lévő fogyasztásra és takarmányozásra kerülő növényre (köztes terményre és aljnövényzetre is) be kell tartani.
+
+(3) A betakarítás előtti – gyepterületen a legeltetés előtti – utolsó növényvédő szeres kezelés idejét úgy kell megválasztani, hogy az élelmezés-egészségügyi várakozási idő a kezelt terület egészén betartható legyen.
+
+(4) Két vagy több növényvédő szer egyidejű alkalmazásakor az egyes felhasznált készítményekre előírt szabályok közül a legszigorúbb felhasználási szabályokat kell betartani.
+
+(5)[^40]
+
+(6) Növényvédelmi tevékenység során a kiszóródott szilárd növényvédő szert, illetve a növényvédő szerrel szennyezett talajt össze kell gyűjteni. A kiömlött folyékony növényvédő szert megfelelő anyaggal (például homok, perlit, egyéb nedvszívó anyag) fel kell itatni. A keletkezett anyagot (a szennyezett talajt is beleértve) veszélyes hulladékként kell kezelni.
+
+## Növényvédő szeres kezelés zárt térben
+
+### 11. §
+
+(1) Zárt térben (például üvegházban, fólia alatt, gombapincében, szemes- és nyerstermény tárolóban) növényvédelmi célra kizárólag az adott légtérben termesztett, illetve tárolt, valamennyi kultúrára, illetve terményre engedélyezett növényvédő szer használható, amennyiben nem biztosítható, hogy a kezelésre nem engedélyezett kultúrákra, terményre növényvédő szer ne kerüljön.
+
+(2) A növényvédő szerrel kezelt zárt tér bejáratára, az adott növényvédő szerre előírt élelmezés-egészségügyi várakozási idő tartamára a 8. § (3) bekezdése szerinti feliratú, vagy azzal azonos tartalmú táblát kell elhelyezni.
+
+(3)[^41] Növényvédő szerrel kezelt térben a munkaegészségügyi várakozási idő letelte előtt és az azt követő szellőztetés alatt bármilyen munkát végezni kizárólag az alkalmazott növényvédő szer engedélyokiratában előírt egyéni védőeszköz viselésével szabad.
+
+(4)[^42] Zárt térben automata adagolással működő növényvédelmi gépet, berendezést a kezelés ideje alatt a szakmai felügyeletet ellátó szakember nem hagyhatja őrizetlenül. A kezelésben részesített terményt az élelmezés-egészségügyi várakozási idő leteltéig a kezelés feltüntetésével meg kell jelölni.
+
+## A környezet és természet védelme
+
+### 12. §
+
+(1) A növényvédő szer tárolása, forgalmazása, szállítása, felhasználása fokozott veszéllyel járó tevékenység.
+
+(2) Növényvédelmi tevékenység során növényvédő szer nem kerülhet a kezelendő területen kívül más területre.
+
+### 13. §
+
+A földhasználó, illetve a termelő felhívására – előzetes egyeztetést követően – a vadakra veszélyes növényvédő szer használatakor az érintett területen vadgazdálkodásra jogosult köteles közreműködni a vadak riasztásában.
+
+### 14. §
+
+(1) Vizek és vízfolyások környezetében az engedélyokirat szerint vízben vagy vízfolyásban nem alkalmazható, vízi szervezetekre veszélyes növényvédő szert csak a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló rendeletben előírt, a parttól mért biztonsági távolságok megtartásával szabad kijuttatni, illetve a permetlevet előkészíteni.
+
+(2) Tilos növényvédő szert tárolni a Balaton, a Velencei-tó, a Tisza-tó és a Fertő-tó, valamint a fürdőzésre kijelölt vizek partvonalának teljes hosszában mért egy kilométer széles távolságon, természeti területeken, valamint a védett természeti területeken és azok határától mért egy kilométeres távolságon belül, valamint vízművek, víznyerő helyek, víztározók védőterületén belül, továbbá ár- és belvízveszélyes területeken. E korlátozás nem vonatkozik a kiskereskedelmi egységek, valamint a termelő saját felhasználását szolgáló 25 kg alatti összes mennyiségre.
+
+(3) Vízbázisok védőövezetein növényvédő szerekkel kapcsolatos tevékenységek végzését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló külön jogszabály előírásainak megfelelően lehet végezni.
+
+### 15. §
+
+(1)[^43] Tilos gazdasági növényt méhekre kifejezetten kockázatos növényvédő szerrel kezelni
+
+a) a virágbimbó feslésétől a virágszirmok lehullásáig terjedő időszakban (a továbbiakban: virágzás);
+
+b) ha a gazdasági növényt a méhek bármely okból – különösen mézharmat jelenléte miatt – látogathatják; vagy
+
+c) ha a táblát vagy annak környékét méhek számára vonzó növények borítják.
+
+(2)[^44] A gazdasági növényt az (1) bekezdésben foglalt esetekben
+
+a) méhkímélő technológia alkalmazásával méhekre mérsékelten kockázatos növényvédő szerrel – feltéve, hogy az adott növényvédő szer engedélyokirata a méhkímélő technológia alkalmazását lehetővé teszi – vagy
+
+b) nem jelölésköteles növényvédő szerrel
+
+lehet kezelni.
+
+(3)[^45]
+
+(4)[^46] A növényvédő szerrel végzett növényvédelmi munka következményeként vélelmezett méhelhullást a méhész az észlelést követően haladéktalanul köteles bejelenteni az elhullás helye szerint illetékes vármegyei kormányhivatalhoz.
+
+## Képesítési előírások
+
+### 16. §[^47]
+
+(1) Az I. forgalmi kategóriájú növényvédő szer saját célú felhasználására, az azzal folytatott növényvédelmi szolgáltatási tevékenységre, illetve annak forgalmazására, valamint az azzal összefüggő vásárlásra, szállításra, raktározásra akkor kerülhet sor, ha a tevékenységet végző rendelkezik az 5. § (4a) bekezdése szerinti I. forgalmi kategóriájú engedéllyel.
+
+(2) A II. vagy III. forgalmi kategóriájú növényvédő szerrel folytatott forgalmazáshoz, az azzal összefüggő raktározási és szállítási tevékenység végzéséhez, valamint növényvédelmi szolgáltatáshoz az 5. § (4a) bekezdése szerinti legalább II. forgalmi kategóriájú engedély szükséges.
+
+### 17. §
+
+(1) I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedélyre jogosult a felsőfokú növényvédelmi képesítéssel rendelkező személy.
+
+(2) Felsőfokú növényvédelmi képesítésnek minősül:
+
+a) egyetemi szintű képzésben, nappali tagozaton okleveles növényorvosi, növényvédelmi szakirányon szerzett okleveles agrármérnöki, okleveles agrárkémikus agrármérnöki, okleveles környezetgazdálkodási agrármérnöki, okleveles kertészmérnöki, növényorvos MSC képzettség, amennyiben a képzés a növényvédelmi tárgyak oktatására legalább 600 tanórát tartalmaz, és növényvédelmi szakirányú záróvizsgával jár,
+
+b) az egyetemi szintű szakirányú továbbképzésben okleveles agrármérnök, okleveles kertészmérnök, illetve különbözeti vizsgát tett okleveles biológus, okleveles biomérnök, okleveles erdőmérnök és egyéb természettudományi egyetemi végzettségű személy által legalább 24 konzultáció hetes képzésen szerzett okleveles növényorvosi szakmérnök vagy okleveles növényvédelmi szakmérnöki végzettség, amely képesítési követelményei az *a)* pontnak megfelelnek,
+
+c)[^48] az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által az *a)* és *b)* pontban foglalt képesítésekkel egyenértékűnek elfogadott végzettség.
+
+d)[^49] a külföldi felsőoktatási intézményben szerzett, növényvédő szerek forgalmazásával, illetve felhasználásával kapcsolatos szakképzettség, illetve tudományos fokozat, amennyiben a képzettséget tanúsító bizonyítványt, illetve oklevelet a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismerték vagy honosították.
+
+(3)[^50] E rendelet alkalmazásában növényorvosnak kell tekinteni a növényorvosi, növényvédelmi szakmérnöki, erdészeti növényvédelmi szakmérnöki, agrárkémikus agrármérnöki, növényvédelmi szaküzemmérnöki, növényvédelmi üzemmérnöki, növényvédelmi és talajerő-gazdálkodási szaküzemmérnöki, növényvédelmi és talajerő-gazdálkodási üzemmérnöki diplomát szerzőt, valamint a növényvédelmi szakirányú záróvizsgát tett agrármérnököt, kertészmérnököt, továbbá a növényvédelmi témában szerzett egyetemi doktori vagy magasabb fokozattal rendelkezőt, amennyiben a rendelet hatálybalépése előtt rendelkezett I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel.
+
+(4)[^51] A növényorvos I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedélyre jogosult, és a növényvédő szer forgalmi kategóriájától függetlenül jogosult bármely, e rendeletben meghatározott tevékenység folytatására.
+
+### 18. §
+
+(1)[^52] II. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedélyre – a (2) bekezdésben foglaltak szerint – jogosult – a növényorvoson kívül – aki
+
+a) növénytermesztő és növényvédelmi technikus; növénytermesztési, kertészeti és növényvédelmi technikus; kertész és növényvédelmi technikus, növényvédelmi és talajerő-gazdálkodási technikus képesítésű,
+
+b) növényvédő és méregraktár-kezelő szakképesítéssel, illetve növényvédő szak- és betanított munkás képesítéssel rendelkezik,
+
+c)[^53] növényvédelmi vagy erdővédelmi tantárgyakból egyetemi vagy főiskolai képzés során vizsgát tett, vagy
+
+d) legalább általános iskolát végzett, 18. életévét betöltötte, és a miniszter által meghatározott növényvédelmi alaptanfolyamot követően eredményes vizsgát tett.
+
+e)[^54] a külföldi felsőoktatási intézményben szerzett, növényvédő szerek forgalmazásával, illetve felhasználásával kapcsolatos szakképesítés, amennyiben a képzettséget tanúsító bizonyítványt, illetve oklevelet a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismerték vagy honosították.
+
+(2) A II. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező,
+
+a)[^55] az (1) bekezdés a) pontjában meghatározott személyek jogosultak a II. és a III. forgalmi kategóriájú növényvédő szerrel folytatható bármely, e rendeletben meghatározott tevékenység végzésére, különösen forgalmazásra, vásárlásra, szállításra, tárolásra, felhasználásra vagy növényvédelmi szolgáltatás nyújtására, valamint szakirányító felügyelete és felelőssége mellett növényvédelmi munkavégzőként részt venni az I. forgalmi kategóriájú növényvédő szerrel folytatott bármely, e rendeletben meghatározott tevékenység végzésében,
+
+b)[^56]
+
+c)[^57] az (1) bekezdés b)–e) pontja szerinti személyek jogosultak – a növényvédelmi szolgáltatás kivételével – a II. és a III. forgalmi kategóriájú növényvédő szerrel folytatott bármely, e rendeletben meghatározott tevékenységre, illetve a szakirányító felügyelete és felelőssége mellett jogosultak növényvédelmi munkavégzőként részt venni az I., II. és III. forgalmi kategóriájú növényvédő szerrel folytatott bármely, e rendeletben meghatározott tevékenységben.
+
+### 19. §[^58]
+
+(1) Végfelhasználó számára I. forgalmi kategóriájú növényvédő szert a forgalmazó csak növényorvosi vény ellenében adhat át.
+
+(1a)[^59] A növényorvosi vény az alábbi adatokat tartalmazza:
+
+a) a növényorvosi vény száma,
+
+b)[^60] a növényorvos neve, címe, engedélyszáma és FELIR-azonosítója,
+
+c)[^61] a mezőgazdasági termelő neve, címe és FELIR-azonosítója,
+
+d) a növényvédő szer (helyettesítő növényvédő szer) neve és mennyisége,
+
+e) az előírt felhasználás, technológia (kultúra, dózis),
+
+f) a vény kiállításának kelte,
+
+g) elektronikus növényorvosi vény kivételével a növényorvos aláírása és bélyegzője,
+
+h) a forgalmazó neve, aláírása, bélyegzője és a keltezés, valamint
+
+i) „A növényorvosi vény időbeli hatálya: a kiállítástól számított 30 nap.” és „A növényorvosi vényt öt évig kell megőrizni!” szöveg.
+
+(1b)[^62] A forgalmazó köteles a növényorvosi vényre rávezetni az átvevő nevét, aláírását – kivéve az elektronikus növényorvosi vény esetében –, személyigazolvány-számát, lakcímét és – amennyiben a mezőgazdasági termelő nem természetes személy – az átvevő jogállását.
+
+(1c)[^63] A növényorvosi vénytömb 1–25-ig sorszámozott, három, önindigós példányt tartalmazó szigorú számadású nyomtatvány. A növényorvosi vényt 3 példányban kell kiállítani, amelyből az eredeti példányt a felhasználó, a másolati példányt a forgalmazó, a tőpéldányt pedig a kiállító köteles megőrizni.
+
+(1d)[^64] Egy növényorvosi vényre egyszerre több növényvédő szer is kiírható, de az előírt felhasználásnak, technológiának ebben az esetben is szerepelnie kell a növényorvosi vényen.
+
+(2)[^65] I. és II. forgalmi kategóriájú növényvédő szer vásárlására és szállítására az arra nem jogosult személy csak a szakirányító által az (1a) bekezdés szerinti adattartalommal kiállított, egyszeri vásárlásra jogosító növényorvosi vénnyel jogosult.
+
+### 20. §[^66]
+
+Ha egy vállalkozás más számára végez növényvédelmi szolgáltatási tevékenységet, a munkavállalónak, a megbízottnak vagy a tagnak meg kell felelnie a növényvédelmi szolgáltatási tevékenységhez kapcsolódó képesítési és – ha a növényvédelmi tevékenységet I. forgalmi kategóriájú növényvédő szerrel végzik – a növényorvosi kamarai tagsági követelményeknek is.
+
+## Engedély és továbbképzés
+
+### 21. §
+
+(1)[^67] Az engedély iránti kérelem tartalmazza a jogosult képzettségét, végzettségét, a folytatni kívánt tevékenységet, a tevékenységgel érintett növényvédő szerek kategóriáját.
+
+(2)[^68] Az engedélyt a vármegyei kormányhivatal adja ki.
+
+(3) Egy jogosult csak egy engedéllyel rendelkezhet. Adott tevékenység a szükséges növényvédelmi képesítés vagy végzettség birtokában is csak akkor folytatható, ha a tevékenységet végző rendelkezik a tevékenységgel érintett növényvédő szer kategóriájának megfelelő, adott tevékenység végzésére jogosító engedéllyel.
+
+(4) Az I. forgalmi kategóriájú növényvédő szerrel folytatható, adott tevékenységre jogosító engedély a II. és III. forgalmi kategóriájú növényvédő szerrel folytatott azonos tevékenységre is jogosít.
+
+(5) A II. forgalmi kategóriájú növényvédő szerrel folytatható, adott tevékenységre jogosító engedély a III. forgalmi kategóriájú növényvédő szerrel folytatott azonos tevékenységre is jogosít.
+
+(6)[^69]
+
+(7)[^70] A vármegyei kormányhivatal az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 57. § n) pontja alapján jár el, amennyiben az engedéllyel rendelkező személy:
+
+a) a végfelhasználó részére I. forgalmi kategóriájú növényvédő szert növényorvosi vény hiányában, illetve II. forgalmi kategóriájú szert az arra nem jogosult részére átad,
+
+b) nem teljesíti a (8) bekezdésben foglaltakat és ennek hiányában folytat növényvédelmi tevékenységet, vagy
+
+c) a növényvédő szer forgalmazására, vásárlására, felhasználására, vagy a növényvédelmi szolgáltatásra vonatkozó előírásokat a növényvédelmi tevékenysége során megszegi, és ezzel az emberi vagy állati egészséget veszélyezteti.
+
+(7a)[^71] A növényvédő szer forgalmazására, vásárlására, felhasználására vagy a növényvédelmi szolgáltatásra vonatkozó valamely előírásnak a (7) bekezdésben fel nem sorolt módon, egy éven belül történő ismételt megsértése esetén a vármegyei kormányhivatal az engedéllyel rendelkezőt továbbképzésre kötelezi. Amennyiben az engedéllyel rendelkező egy éven belül nem tesz eleget a továbbképzési kötelezettségének, az engedély visszavonásra kerül..
+
+(7b)[^72] A visszavonás tényét a NÉBIH a honlapján közzéteszi. Új engedély a (7) bekezdés a) pontjában és a (7a) bekezdésben meghatározott esetben az engedély visszavonásától számított két év, a (7) bekezdés b) és c) pontjában meghatározott esetben pedig a visszavonástól számított egy év elteltét követően, a (8) bekezdés szerinti továbbképzésen való részvétel után adható ki.
+
+(8)[^73] Az engedéllyel rendelkező személynek a 17. §, illetve a 18. § szerinti képesítés megszerzésétől számított ötévenkénti vagy folyamatos, a miniszter által meghatározott intézmények által szervezett, valamint az előírt feltételek és tematika szerinti szakmai továbbképzésen kell részt vennie. A továbbképzés időtartama növényorvosok esetében 40 tanóra, a 18. § (1) bekezdés a) pontjában meghatározott képesítéssel rendelkező személyek esetében 24 tanóra, a 18. § (1) bekezdés b)–e) pontjában meghatározott képesítéssel rendelkező személyek esetében 8 tanóra. A továbbképzés szakmai ismeretanyagának elsajátítása nem vizsgaköteles. A továbbképzésen való részvételről a továbbképzést végző intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzés óráinak legalább 90%-án részt vett.
+
+(9)[^74] A tanúsítvány kiállítására a Növényorvosi Kamara jogosult. A továbbképzés szervezésében és végzésében a Növényorvosi Kamara együttműködik a tematikában meghatározott szervezettel vagy intézménnyel.
+
+(10)[^75] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
+
+a)[^76] a miniszter által vezetett minisztérium, illetve a NÉBIH, a növény- és talajvédelmi hatáskörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: Pest Vármegyei Kormányhivatal) vagy a vármegyei kormányhivatal állományában növényvédelmi feladatkörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
+
+b) a növényvédelmi felsőoktatás szaktanára, vagy
+
+c)[^77] a miniszter által – szakoktatói, kutatói tevékenysége miatt – a továbbképzési kötelezettség alól felmentésben részesült,
+
+d)[^78] a mező- és erdőgazdasági légi munkavégzésről szóló miniszteri rendeletben előírt továbbképzési követelményeket teljesítette.
+
+(11)[^79] Az Éltv. 38/B. § (4) bekezdése esetén, kérelemre új engedély kerül kiadásra.
+
+## Növényvédő szer felhasználása
+
+### 22. §
+
+(1)[^80] A felhasználási tevékenységet folytató felelőssége kiterjed a növényvédő szerek jogszabálynak megfelelő vásárlására, szállítására, tárolására és kijuttatására vonatkozó tájékoztatásra, a növényvédő szerek kijuttatására, a keletkezett hulladék előírásszerű kezelésére, a növényvédő szer címkeszövegében megfogalmazott előírások betartására, valamint az ezekkel összefüggő egyéb tevékenységekre. Az ebből származó kötelezettség és felelősség csak megfelelő engedéllyel rendelkező személyre ruházható át.
+
+(2)[^81] A 19. § (1a) bekezdése szerinti adattartalmú növényorvosi vény kiállításával a szakirányítónak az (1) bekezdésben meghatározottak szerinti felelőssége keletkezik, amely kiterjed – a kiürült és szabályszerűen megtisztított csomagolóeszköz kezelésén kívül – valamennyi, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megjelölt növényvédelmi tevékenységre. Nem felel a szakirányító a felhasználási tevékenységet folytató személy – kivéve, ha az a szakirányító munkavállalója – azon tevékenységéért és annak következményeiért, amelynek során megsérti a vonatkozó jogszabályi rendelkezéseket, eltér a növényvédő szer címkeszövegében, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megfogalmazott előírásoktól.
+
+(3)[^82] A növényorvosi vényt mint szigorú számadású, egyszeri vásárlásra jogosító bizonylatot a Növényorvosi Kamara adja ki.
+
+(4)[^83] A növényorvosi vény elektronikus úton is kiállítható, amennyiben a szakirányító a Növényorvosi Kamara által erre a célra kialakított, megfelelő biztonsági elemekkel ellátott informatikai rendszerét használja.
+
+(4a)[^84] A Növényorvosi Kamara által működtetett elektronikus vény kiállítására szolgáló informatikai rendszerhez a Növényorvosi Kamara közvetlen és folyamatos hozzáférést biztosít a NÉBIH, és a vármegyei kormányhivatalok számára.
+
+(5)[^85] A termelő az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendelet szerinti, adott évi egységes kérelem benyújtására rendelkezésre álló határidőn belül, az egységes kérelem benyújtására szolgáló elektronikus felületen nyilatkozik az egységes kérelemben bejelentett növényvédelmi munkavégzéssel érintett mezőgazdasági területei tekintetében a vele szerződésben álló, a terület növényvédelmi szakirányításáért felelős növényorvos nevéről, kamarai azonosítójáról és FELIR-azonosítójáról. A nyilatkozat nem része az egységes kérelemnek, és megtétele az egységes kérelem benyújtására joghatással nem bír.
+
+(5a)[^86] Az (5) bekezdés szerinti nyilatkozattétel lehetőségének biztosítása érdekében a Magyar Államkincstár a NÉBIH adatfeldolgozójaként az egységes kérelem felületén kiválasztható lista formájában elérhetővé teszi a NÉBIH nyilvántartásában szereplő növényorvosok nevét, lakcímét, kamarai azonosítóját és FELIR-azonosítóját.
+
+(5b)[^87] A Magyar Államkincstár évente egy alkalommal az (5) bekezdésben foglalt határidőt követő 15 napon belül átadja a NÉBIH részére a termelő által az (5) bekezdés alapján tett nyilatkozatban megadott, valamint az alábbi adatokat:
+
+a) a nyilatkozatot tevő ügyfél neve és ügyfél-azonosítója;
+
+b) a termelővel szerződésben álló, a terület növényvédelmi szakirányításáért felelős növényorvos neve és FELIR-azonosítója;
+
+c) a növényvédelmi munkavégzéssel érintett területek adatai (település, terület nagysága); valamint
+
+d) a növényvédelmi munkavégzéssel érintett kultúrák.
+
+(5c)[^88] Annak a személynek, aki a növényvédő szert nem Magyarországon kívánja felhasználni, nem kell növényvédelmi szolgáltatás nyújtására irányuló írásbeli szerződéssel rendelkeznie. Ebben az esetben a növényorvosi vényen fel kell tüntetni, hogy a növényvédő szer Magyarországon nem használható fel, továbbá a növényorvosi vényt kiállító szakirányító felelőssége – a (2) bekezdésben foglaltaktól eltérően – a vásárlásra, valamint a Magyarország területén történő szállításra terjed ki.
+
+(6)[^89] Az (5) bekezdésben foglalt szerződés időbeli hatálya – kivéve, ha annak tárgya közterületen végzett növényvédelmi kezelés – nem lehet rövidebb egy vegetációs időszaknál, amely az elővetemény betakarításától a főnövény betakarításáig tart.
+
+(7)[^90] A növényvédelmi szolgáltatás igénybevételével érintett területre egyidejűleg csak egy szerződés lehet hatályban.
+
+(8)[^91] A növényorvosi vény kizárólag az (5) bekezdésben foglalt szerződés hatályának időtartama alatt használható fel, a növényorvosi vény kiállításától számított 30 napon belül.
+
+(9)[^92] Helyettesítő növényvédő szer akkor adható ki, ha a szakirányító ehhez a növényorvosi vényen hozzájárult.
+
+(10)[^93] Gázmesteri képesítéssel rendelkező személy külön engedély nélkül, a hatályos gázmesteri képesítés (igazolvány) bemutatásával vásárolhat és felhasználhat olyan növényvédő szert, amely engedélyokirata alapján terményraktár és betárolt vagy betárolásra szánt termény kezelésére szolgál, vagy felhasználása gázmesteri képesítéshez kötött.
+
+(11)[^94] Növényvédő szer felhasználása során elkövetett jogszabálysértés esetén, amennyiben a NÉBIH a kockázatbecslése során olyan elfogadhatatlan kockázatot állapít meg az ember, az állat egészségére vagy a környezetre vonatkozóan, amely nem kezelhető kockázatcsökkentő intézkedésekkel,
+
+a) a kifogásolható növényi kultúrát,
+
+b) az álló kultúra esetén az azévi termést
+
+meg kell semmisíteni.
+
+## Növényvédő szer kis- és nagykereskedelmi forgalmazásának, raktározásának feltételei
+
+### 23. §
+
+(1)[^95] Növényvédő szer nagykereskedelemben történő forgalmazása csak I. forgalmi kategóriájú hatályos növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező növényorvos folyamatos felügyeletével történhet.
+
+(2)[^96] Kiskereskedelemben
+
+a) II. és III. forgalmi kategóriájú növényvédő szer forgalmazása legalább II. forgalmi kategóriájú hatályos növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező személy folyamatos jelenlétével,
+
+b) I. forgalmi kategóriájú növényvédő szer forgalmazása legalább II. forgalmi kategóriájú hatályos növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező személy folyamatos jelenlétével, I. forgalmi kategóriájú hatályos növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező személy felügyelete mellett
+
+történhet.
+
+(3)[^97] I. forgalmi kategóriájú növényvédő szerrel történő raktári tevékenység végzésével szakirányító vagy annak felügyelete mellett legalább a 18. § (1) bekezdés d) pontja szerinti szakképesítéssel rendelkező növényvédelmi munkavégző bízható meg.
+
+(4)[^98] A II., illetve III. forgalmi kategóriájú növényvédő szerrel raktári tevékenységet legalább a 18. § (1) bekezdésének d) pontja szerinti szakképesítéssel rendelkező növényvédelmi munkavégző végezhet.
+
+(4a)[^99] Növényvédőszer-raktár vezetője
+
+a) II. vagy III. forgalmi kategóriájú növényvédő szerre vonatkozó raktári tevékenység esetében vagy
+
+b) I. forgalmi kategóriájú növényvédő szerre is vonatkozó raktári tevékenység esetében szakirányító vagy annak felügyelete mellett
+
+legalább a 18. § (1) bekezdésének d) pontja szerinti szakképesítéssel rendelkező növényvédelmi munkavégző lehet.
+
+(5) Az (1) és (2) bekezdésben előírt feltételek nem vonatkoznak a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szereket forgalmazó kiskereskedelmi egységekre.
+
+### 24. §[^100]
+
+A növényvédő szer kis- és nagykereskedelmi engedélyezési eljárás során, valamint a telepengedély kiadása iránti engedélyezési eljárás során a vármegyei kormányhivatal szakhatósági állásfoglalásának kialakításához a kérelem tartalmazza
+
+a) a forgalmazni kívánt növényvédő szer forgalmazási kategóriájának megfelelő szakképesítéssel rendelkező felelős személy növényvédelmi képesítésének másolatát; megbízás, illetve munkaviszony esetén az erre vonatkozó szerződés másolatát is;
+
+b)[^101] a hatályos engedély sorszámát, továbbá a növényvédő szer nagykereskedelmi forgalmazása esetén növényorvosi kamarai regisztrációs számát és FELIR-azonosítóját.
+
+### 25. §[^102]
+
+A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre történő és a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és annak ismertetésére.
+
+## Árusítás, szállítás, tárolás, raktározás
+
+### 26. §
+
+(1)[^103] Növényvédő szereket – a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szerek kivételével – tilos élelmiszerekkel és takarmányozás célját szolgáló anyagokkal, valamint gyógyszerekkel és gyógyászati célú anyagokkal, eszközökkel egy légtérben árusítani, tárolni, valamint szállítani.
+
+(2) Növényvédő szer kizárólag eredeti csomagolásban forgalmazható. Növényvédő szer kiméréssel nem árusítható. A kiskereskedő köteles biztosítani a vásárolt áru további védőcsomagolását.
+
+(3) A növényvédő szereket az (1) bekezdésben foglaltaktól eltérő, más áruféleségektől biztonságosan elkülönítetten, felhasználási területük (gombaölő, rovarölő, gyomirtó, egyéb) szerint rendezetten kell az árusító polcokon elhelyezni. Tilos a növényvédő szerek önkiszolgáló rendszerben történő árusítása, a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szerek kivételével.
+
+(4) Az árusító helyen, az árusítás ideje alatt a növényvédő szer felhasználás előírásairól, a kötelező tájékoztatáson túl, a vevőt igény szerint tájékoztatni kell.
+
+(5)[^104]
+
+### 27. §
+
+(1) Növényvédő szer kizárólag olyan szilárd aljzatburkolatú helyen tárolható, ahol a talajvíz az év egyetlen szakaszában sem emelkedik a tároló szint fölé, valamint ahol biztosított, hogy a tárolt anyag sem közvetlenül, sem közvetve nem jut a felszíni vagy felszín alatti vizekbe, továbbá az esetlegesen kiszóródott, kiömlött anyagok összegyűjtése megoldható.
+
+(2) A raktározás során be kell tartani a felszíni és felszín alatti vizek és a földtani közeg védelmére vonatkozó külön jogszabályban előírt környezetvédelmi követelményeket.
+
+(3)[^105] A földhasználó, a termelő és a növényvédelmi szolgáltatást végző személy növényvédő szert emberek és állatok tartózkodására, valamint élelmiszer és takarmány tárolására szolgáló helyiségtől elkülönítve, illetéktelen személyek által hozzá nem férhető helyen (a továbbiakban: tároló) és módon, tűz- és robbanásveszélyt kizáró, egészséget és környezetet nem veszélyeztető módon tárolhat úgy, hogy szennyeződés esetén a környezet maradéktalan tisztítása biztosítható legyen.
+
+(4)[^106] Növényvédő szert forgalmazó személy a növényvédő szert elkülönített raktárban (a továbbiakban: raktár) köteles tárolni, amely raktárnak a következő műszaki, biztonsági feltételeknek kell megfelelnie:
+
+a) a raktárnak a szabadból kell nyílnia, átjárás nélkül megközelíthetőnek kell lennie, nem lehet közös fala – a raktári tevékenységhez kapcsolódó helyiségek kivételével – állandó vagy ideiglenes emberi vagy állati tartózkodásra szolgáló építménnyel, illetve olyan helyiséggel, ahol élelmiszerrel, gyógyszerrel, illetve takarmánnyal kapcsolatos tevékenységet folytatnak,
+
+b) a raktárnak a túlzott felmelegedéstől vagy lehűléstől védettnek kell lennie,
+
+c) a raktár nyílászáróinak meg kell felelniük az általános biztonsági követelményeknek,
+
+d) gondoskodni kell arról, hogy a csapadékvíz a helyiségbe ne juthasson be,
+
+e) gondoskodni kell a zárt raktár folyamatos szellőztetéséről,
+
+f) a raktár padlózatának, falainak, berendezési tárgyainak lemoshatónak, tisztíthatónak kell lenniük,
+
+g) a raktár bejáratát tömör, szükség esetén fémráccsal megerősített, biztonsági záras, magasított küszöbű ajtóval kell ellátni, amelynek kulcsát kizárólag a raktáros, illetve megbízott helyettese kezelheti,
+
+h)[^107] a raktár ajtajára, jól látható helyen és módon az „Idegeneknek belépni tilos!”, a raktáron belül a „Növényvédő szer raktár” figyelmeztető feliratot kell elhelyezni,
+
+i)[^108] növényvédő szer raktárt más célra használni csak a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal által előírt mentesítés után szabad.
+
+(5)[^109] Munkaterületen növényvédő szer vagy permetlé az egynapi felhasználásra előkészített, zárt csomagolásban, vagy újra visszazárt eredeti csomagolásban, biztonságosan zárható, alkalmi raktárban, tárolóban is tárolható. Az alkalmi raktár, tároló más célra kizárólag az esetleges növényvédő szer szennyeződés maradéktalan eltávolítása után használható.
+
+(6)[^110] Raktárban és tárolóban kizárólag a raktározással és a felhasználáshoz szükséges növényvédő szer kimérésével összefüggő munka végezhető, munkavégzőkön és hatósági ellenőrzést végző személyeken kívül más nem tartózkodhat ott.
+
+(7) Növényvédő szer eredeti zárt csomagolásban, vagy a használat után ismét visszazárt eredeti csomagolásban, illetve a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló külön jogszabályban meghatározott módon átcsomagolva tárolható.
+
+(8) Mikro és makro szervezeteket tartalmazó növényvédő szer tárolására, szállítására és felhasználására a növényvédő szerekre vonatkozó előírásokat kell alkalmazni, ha az engedélyokirat másként nem rendelkezik.
+
+(9)[^111] A raktárban és a tárolóban a növényvédő szerektől elkülönítetten kell tárolni és további felhasználási céljával jelölni
+
+a) a kiürült, de növényvédő szer átcsomagolására felhasználható, kívül és belül szabályszerűen megtisztított és lezárható növényvédő szer csomagolóeszközt,
+
+b) a sérült csomagolású, azonosíthatatlan, szennyezett és lejárt felhasználhatósági idejű szereket, ártalmatlanításra váró göngyölegeket, valamint a szennyezett védőfelszerelést.
+
+(10) A raktárba belépni, növényvédő szert a raktárba be-, illetve onnan kivinni, ott bármilyen tevékenységet folytatni kizárólag a raktáros jelenlétében és hozzájárulásával, a szükséges egyéni védőeszközök használatával szabad.
+
+(11) A tárolt növényvédő szer engedélyokiratában az előkészítőnek előírt védőeszközöket és az elsősegélynyújtáshoz szükséges felszerelést biztosítani kell. A raktár épületében vagy annak közvetlen közelében ezek elhelyezésére, valamint a ruhaváltásra és a tisztálkodásra alkalmas, elkülönített helyiségeket kell létesíteni.
+
+(12) A raktárt el kell látni a növényvédő szerek szállításához, rakodásához, méréséhez, valamint a takarításhoz szükséges, feltűnő módon megjelölt, más célra nem használható munkaeszközökkel.
+
+(13) A raktárban a következő anyagokat és eszközöket szabad tárolni:
+
+a) sértetlen csomagolású növényvédő szereket, termésnövelő anyagokat,
+
+b) elkülönítetten kezelt kiürült, kívül és belül szabályszerűen megtisztított növényvédő szer csomagolóeszközöket,
+
+c) az ártalmatlanításra váró hulladékokat és sérült csomagolású vagy kiselejtezett növényvédő szer készleteket,
+
+d) a növényvédő szerek szállításához, rakodásához, méréséhez és a növényvédő szer raktár takarításához szükséges munkaeszközöket,
+
+e)[^112] a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal és területi környezetvédelmi hatóság által megadott feltételekkel egyéb vegyi anyagot, illetve szükség szerinti csomagolásban egyéb termékeket.
+
+(14) A kiskereskedelmi üzletek növényvédő szert az áruraktár elkülönített részében – más termékkel nem érintkező, élelmiszertől, takarmánytól elzárt légterű – az általános biztonsági követelményeknek megfelelő, a (4) bekezdés h) pontja szerint feliratozott helyiségben is tárolhatnak, az (1) bekezdésben, a (4) bekezdés c)–e) pontjában, továbbá a (11) bekezdés második mondatában, a (12) bekezdésben, valamint a (13) bekezdés a) és c)–e) pontjában foglalt feltételek megtartásával.
+
+(15) Azon logisztikai raktárak, melyek megfelelnek a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló külön jogszabályban és annak végrehajtására kiadott jogszabályokban foglaltaknak, mentesülnek a (4)–(5), (9) és a (12)–(14) bekezdésekben előírt kötelezettségek teljesítése alól.
+
+### 28. §
+
+(1) Növényvédő szert a 27. § (7) bekezdés szerinti csomagolóeszközben, megfelelően rögzítve kell szállítani. Ezzel a tevékenységgel megfelelő ismeretekkel és jogosultsággal rendelkező személy bízható meg.
+
+(2) Jármű rakfelületén növényvédő szerrel együtt embert, állatot, takarmányt, élelmiszert vagy gyógyszert szállítani tilos. Egyéb árut kizárólag olyan módon lehet szállítani, hogy a növényvédő szerrel ne érintkezhessen. A növényvédő szert úgy kell elhelyezni, hogy az a szállító járművet és a környezetet ne szennyezze.
+
+(3) A jármű esetleges szennyeződése esetén a tisztítást haladéktalanul el kell végezni. A szennyezett jármű tisztítása során keletkező szennyvizet, hulladékot a veszélyes hulladékokra vonatkozó környezetvédelmi előírásoknak megfelelően kell kezelni és ártalmatlanítani.
+
+(4) Növényvédő szer szállításánál védőeszközt kell biztosítani. Többféle növényvédő szer szállításánál a munkavédelmi szempontból legveszélyesebb készítménynek megfelelő védőeszközt kell biztosítani.
+
+### 28/A. §[^113]
+
+Növényvédő szert forgalmazó személy a kiskereskedelemben történő forgalmazásra vonatkozó feltételek mellett megvásárolt növényvédő szert személyesen, közvetlenül a felhasználás – vásárló által megjelölt – helyszínére szállíthatja.
+
+## Nyilvántartási kötelezettség
+
+### 29. §
+
+(1) A felhasználási tevékenységet folytatónak az I. forgalmi kategóriába sorolt növényvédő szer raktárkészletéről és felhasználásáról naprakész nyilvántartást kell vezetnie.
+
+(2) A felhasználási tevékenységet folytatónak a II. és III. forgalmi kategóriába sorolt növényvédő szerek raktárkészletéről 25 kg-ot meghaladó összmennyiség felett, valamint a növényvédő szer felhasználásáról naprakész nyilvántartást kell vezetni.
+
+(3)[^114] A kereskedőnek a növényvédő szerek nagykereskedelmi forgalmazásáról legalább heti, kiskereskedelmi forgalmazásáról legalább havi összesítésű, folyamatos nyilvántartást kell vezetnie.
+
+(3a)[^115] A növényvédő szerek kiskereskedelmi forgalmazásáról szóló nyilvántartás az alábbi adatokat tartalmazza:
+
+a) a forgalmazó neve, címe,
+
+b) a forgalmazásra vonatkozó időszak,
+
+c) a forgalmazott növényvédő szer neve,
+
+d) az értékesített mennyiség,
+
+e) a raktári készlet.
+
+(4)[^116] A kereskedőnek az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról naprakész nyilvántartást kell vezetnie. Az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról szóló nyilvántartás az alábbi adatokat tartalmazza:
+
+a) a forgalmazó neve, címe,
+
+b) a növényvédő szer neve, forgalmi kategóriája,
+
+c) a kiinduló mennyiség,
+
+d) a beszerzés dátuma,
+
+e) a vásárló neve, vásárlási engedély száma,
+
+f) a forgalmazott mennyiség,
+
+g) az átvétel dátuma.
+
+(5) A növényvédő szer raktárkészletek számlabizonylatait 5 évig meg kell őrizni.
+
+(6)[^117] Az (1)–(2) bekezdés szerinti nyilvántartásnak megfelel a növényvédő szer vásárlásáról kapott számlabizonylat és a folyamatosan vezetett készletnyilvántartó lap, vagy a 30. § (3) bekezdése szerint vezetett vagy tartalmában annak megfelelő permetezési napló, vagy a külön jogszabály szerint a támogatási időszak alatt kötelezően vezetendő Gazdálkodási Napló vonatkozó nyilvántartása is.
+
+### 30. §[^118]
+
+(1) Az értékesítési célra szánt növény, növényi termék előállítása, raktározása és feldolgozása során végzett növényvédő szeres kezelésekről – ideértve a csávázott vetőmag vetését is – a (3) bekezdés szerinti adattartalommal permetezési naplót vagy tartalmában annak megfelelő, a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló miniszteri rendelet szerinti gazdálkodási naplót (a továbbiakban együtt: nyilvántartás) kell vezetni.
+
+(2)[^119] Az (1) bekezdés szerinti permetezési naplót a NÉBIH elektronikus felületén, más elektronikus úton vagy papír alapon kell vezetni.
+
+(3)[^120] Az (1) bekezdés szerinti nyilvántartás az alábbi adatokat tartalmazza:
+
+a) a termelő neve és lakcíme, FELIR-azonosítója;
+
+b) a növényvédelmi szakirányító neve, lakcíme, engedélyének száma, FELIR-azonosítója;
+
+c) a kezelt kultúra megnevezése;
+
+d) a kezelés helye (helyrajzi szám, tábla, parcellaazonosító, termesztő berendezés, raktár vagy GPS-koordináta);
+
+e) a kezelés területe vagy térfogata (ha, m<sup>2</sup>, m<sup>3</sup>);
+
+f) a kezelés időpontja;
+
+g) a használt növényvédő szer neve, mennyisége (kg, l/ha, g/m<sup>2</sup>, g/fm);
+
+h) a permetlé mennyisége (l/ha, l/m<sup>2</sup>);
+
+i) az élelmezés-egészségügyi várakozási idő; valamint
+
+j) a betakarítás időpontja (hó, nap).
+
+(4)[^121] A növényvédő szeres kezelést az (1) bekezdésben meghatározott nyilvántartásban a munkavégzést követő 24 órán belül fel kell tüntetni.
+
+(5) Ha a csávázás nem a termelőnél történt, a termelő a csávázott vetőmag vásárlásáról kiállított – a csávázás tényét, az alkalmazott készítmény megnevezését tartalmazó – számlát 3 évig meg kell őrizni.
+
+(6)[^122] A permetezési naplót az utolsó bejegyzést követően a harmadik naptári év végéig meg kell őrizni.
+
+(7)[^123] A 10 hektárnál nagyobb összterületen gazdálkodó termelő a rovarölő szeres kezelésekről – ha azt az egységes kérelem felületen alkalmazott hasznosítási kódok szerinti szántóföldi kultúrában végzi – a permetezési naplót a NÉBIH elektronikus felületén vezeti.
+
+(8)[^124] A termelő – a (7) bekezdésben foglaltak szerinti, a permetezési naplóban már rögzített adatok kivételével – legkésőbb minden naptári év január 31-ig feltölti a NÉBIH elektronikus felületén az előző évben elvégzett, (1) bekezdés szerinti növényvédő szeres kezelések adatait.
+
+## Jelentési, tájékoztatási kötelezettség
+
+### 31. §
+
+(1)[^125] Növényvédő szer elvesztésének, tévesen történő felhasználásának, eltulajdonításának, élelmiszerbe és takarmányba keveredésének, ivóvízbe (kútba, forrásba, víztározóba), állóvízbe vagy vízfolyásba, illetve kezelésre nem szánt területre jutásának észlelése esetén a vármegyei kormányhivatalt haladéktalanul értesíteni kell.
+
+(2)[^126] A vármegyei kormányhivatal köteles értesíteni
+
+a)[^127] a kémiai biztonságról szóló külön jogszabály szerint nagyon mérgező vagy mérgező, valamint tűz- és robbanásveszélyes növényvédő szer elvesztéséről, tévesen történő felhasználásáról, eltulajdonításáró – bűncselekményre utaló adat, tény, körülmény megállapítása esetén – a rendőrséget és a NÉBIH-et,
+
+b)[^128] növényvédő szer élelmiszerbe, takarmányba keveredéséről, ivóvízbe, állóvízbe vagy vízfolyásba jutásáról, a növényvédő szernek a kezelésre nem szánt területre jutásáról – a veszélyeztetett egyidejű tájékoztatása mellett – a NÉBIH-et, valamint a területi környezetvédelmi és természetvédelmi hatóságot.
+
+(3)[^129] A NÉBIH tájékoztatja az Európai Bizottságot és a tagállamokat minden év augusztus 1-je előtt a növényvédő szerek forgalmazására és felhasználására vonatkozó hatósági ellenőrzés eredményeiről és a megtett intézkedésekről.
+
+(4)[^130] A NÉBIH minden naptári évre vonatkozóan és legkésőbb 20 hónappal az adott év végét követően, a 2009/128/EK európai parlamenti és tanácsi irányelvnek a harmonizált kockázati mutatók meghatározása tekintetében történő módosításáról szóló, 2019. május 15-i 2019/782/EU bizottsági irányelvben foglaltak szerint kiszámítja a harmonizált kockázati mutatókat, továbbá közzéteszi honlapján és megküldi az Európai Bizottságnak.
+
+## Növényvédelmi gépek
+
+### 32. §
+
+(1)[^131] Az 5 dm<sup>3</sup>-nél nagyobb tartállyal rendelkező növényvédelmi gépeket – a kutatási, vizsgálati, kísérleti vagy kiállítási célokat szolgáló növényvédelmi gépek kivételével – cseppképzés és szórástechnikai szempontból típusminősítési eljárás alá kell vetni a forgalomba hozatal előtt.
+
+(2)[^132] Adminisztratív úton kell minősíteni azokat a növényvédelmi gépeket, amelyek nemzetközi érvényű minőségtanúsítási okirattal rendelkeznek. Az előállító, illetve a forgalmazó vállalat köteles a Magyar Agrár- és Élettudományi Egyetem (a továbbiakban: MATE) felé nyilatkozni, hogy a növényvédelmi gépek az e rendeletben meghatározott forgalomba hozatali követelményeknek megfelelnek.
+
+(3) A (2) bekezdés szerinti nyilatkozatnak tartalmaznia kell:
+
+a) az előállító, forgalmazó vállalat vagy importőr nevét és címét,
+
+b) a géptípus és az alkalmazási terület megnevezését.
+
+(4) A (2) bekezdés szerinti nyilatkozathoz magyar nyelven mellékelni kell:
+
+a) a használati útmutatót,
+
+b) a géptípust leíró dokumentumokat (adatlap, mátrix), és
+
+c) az elbírálást segítő egyéb dokumentumokat.
+
+(5)[^133] A MATE hivatalból, illetve a vármegyei kormányhivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
+
+(6)[^134] A géptípus olyan változtatása esetén, ami a növényvédő szerek kijuttatását befolyásolja, a (4) bekezdés szerinti dokumentációt újra be kell nyújtani a MATE felé.
+
+(7) A típusminősítési eljárás lefolytatásáért a növényvédelmi igazgatási szolgáltatási díjakról szóló külön jogszabályban meghatározott díjat kell fizetni.
+
+(8)[^135] A típusminősítési eljárás követelményrendszerét a MATE a honlapján teszi közzé.
+
+### 33. §[^136]
+
+A MATE a Forgalomba Hozatalra Engedélyezett Növényvédelmi Gépek Jegyzékében tartja nyilván azokat a géptípusokat, amelyek rendelkeznek forgalomba hozatali engedéllyel. A MATE a jegyzéket a NÉBIH részére folyamatosan rendelkezésre bocsátja.
+
+### 34. §
+
+(1)[^137] Ha a típusminősítési eljárás eredményeként egy növényvédelmi gép a 32. § (1) bekezdése szerinti követelményeknek nem felel meg, akkor a MATE nem adja meg a forgalomba hozatali engedélyt, illetve a már megadott engedélyt visszavonja.
+
+(2) A 32. § (1) bekezdése szerint nem minősített növényvédelmi gépet tilos forgalomba hozni.
+
+### 35. §[^138]
+
+(1)[^139] A növényvédelmi gépeken – a kézi, illetve háti növényvédelmi berendezések kivételével – az Európai Unió területén történt első üzembe helyezést követő első öt évben egy alkalommal, ezt követően háromévente időszakos műszaki felülvizsgálatot (a továbbiakban: felülvizsgálat) kell végezni.
+
+(2)[^140] A felülvizsgálati eljárásnak meg kell felelnie a használatban lévő permetezőgépek ellenőrzéséről szóló MSZ EN ISO 16122 2015. szabványcsalád megfelelő tagjának.
+
+(3)[^141] A növényvédelmi gépek felülvizsgálatára az jogosult, aki
+
+a) mezőgazdasági gépészmérnök vagy növényorvos végzettséggel rendelkezik,
+
+b) a NÉBIH által szervezett, (4) bekezdés szerinti alapképzésen részt vesz, és
+
+c) szerepel a növényvédelmi gépek felülvizsgálatára jogosultak nyilvántartásában.
+
+(4) Az alapképzés és továbbképzés tematikáját a NÉBIH hagyja jóvá. Az alapképzés szakmai ismeretanyagának elsajátítása vizsgaköteles. Az alapképzés esetén az eredményes vizsgáról, továbbképzés esetén a képzésen való részvételről a továbbképzést szervező NÉBIH tanúsítványt állít ki.
+
+(5)[^142] A (4) bekezdés szerinti alapképzés eredményes teljesítése esetén a NÉBIH a felülvizsgálatra jogosultat nyilvántartásba veszi, amelyet a honlapján közzétesz.
+
+(6) A felülvizsgálatára jogosult tevékenységének szakmai felügyeletét a NÉBIH végzi. Ha a NÉBIH megállapítja, hogy a felülvizsgálatra jogosult az – (1), (10) és (12) bekezdés kivételével – e §-ban foglalt előírásoknak nem tesz eleget, vagy visszaélést tapasztal, a felülvizsgálatára jogosultat – egyéb, az Éltv.-ben felsorolt jogkövetkezmények alkalmazása mellett – soron kívül a (4) bekezdés szerinti továbbképzésre kötelezheti, továbbá törölheti az (5) bekezdés szerinti nyilvántartásból.
+
+(6a)[^143] A felülvizsgálatra jogosult a felülvizsgálatra bejelentett és a felülvizsgált gépekről naprakész nyilvántartást vezet a NÉBIH erre a célra létrehozott elektronikus felületen.
+
+(7) A felülvizsgálatára jogosult a növényvédelmi gépek felülvizsgálatát munkavállalóként, tagként a vállalkozás részére, saját, vagy közeli hozzátartozója és annak családi gazdasága részére nem végezheti.
+
+(8) A felülvizsgálaton megfelelt növényvédelmi gépen tanúsító matricát kell elhelyezni.
+
+(9)[^144] A gyártási számmal nem rendelkező növényvédelmi gépeket a felülvizsgálat során egyedi azonosítóval kell ellátni úgy, hogy az a növényvédelmi géptől elválaszthatatlan módon kerüljön rögzítésre. Az egyedi azonosító táblát a NÉBIH adja ki a felülvizsgálatára jogosultnak. Az egyedi azonosítókhoz a NÉBIH közvetlen és folyamatos hozzáférést biztosít a vármegyei kormányhivatalok számára.
+
+(9a)[^145] A tanúsítómatrica felhelyezéséről és a növényvédelmi gép egyedi azonosításáról a felülvizsgálatra jogosult dátummal és GPS-koordinátával ellátott fotót készít, melyet köteles megőrizni.
+
+(10)[^146] A NÉBIH a vizsgált növényvédelmi gépekről és a felülvizsgálati eredményekről szóló adatokhoz folyamatos hozzáférést biztosít a vármegyei kormányhivatalok részére.
+
+(11) A növényvédelmi gépek felülvizsgálatáról egyedi sorszámmal ellátott jegyzőkönyv mintáját a NÉBIH honlapján közzéteszi.
+
+(12)[^147] Az öt évnél idősebb, nem felülvizsgált vagy felülvizsgálaton nem megfelelt vagy meg nem jelent növényvédelmi géppel növényvédelmi tevékenységet végezni tilos.
+
+### 36. §[^148]
+
+(1)[^149] A permetezőgépnek minden munkavégzés alkalmával meg kell felelnie a típusminősítési eljárás követelményeinek, valamint a biztonságos munkavégzés előírásainak. Sérült, csöpögő berendezéssel munkát végezni tilos.
+
+(2)[^150] Ha a permetezőgép a követelményeknek nem felel meg, a vármegyei kormányhivatal a munkavégzést a hiba kijavításáig leállítja.
+
+(3) A növényvédelmi gépet munkavégzés után meg kell tisztítani.
+
+(4)[^151] Használt növényvédelmi gép kereskedelmi értékesítése során csak úgy adható át a végfelhasználónak, ha az a 35. § (2) bekezdésében foglaltaknak megfelel és az erről szóló tanúsító matrica a használt növényvédelmi gép értékesítésének időpontjától számított három évig érvényes.
+
+## A növényvédelmi tevékenységre vonatkozó munkavédelmi előírások
+
+### 37. §
+
+(1) Növényvédő szerrel bármilyen tevékenység kizárólag az egészséget nem veszélyeztető módon, a biztonságos munkavégzés követelményeinek megtartásával, a munkavédelemre vonatkozó jogszabályokban előírt feltételek biztosításával végezhető.
+
+(2) Növényvédő szer kijuttatásával kizárólag olyan 18. életévét betöltött személy foglalkoztatható, aki előírt előzetes, időszakos és soron kívüli orvosi vizsgálatokon erre alkalmasnak minősült, valamint a szerek szakszerű és biztonságos felhasználására vonatkozó ismeretekkel rendelkezik.
+
+(3) 14–18 év közötti személyeket növényvédő szerekkel kapcsolatos tevékenységgel kizárólag a szakoktatás ideje alatt, felsőfokú növényvédelmi képesítéssel rendelkező szakoktató felügyelete mellett szabad foglalkoztatni.
+
+(4) A növényvédő szeres munka során, illetve annak megkezdése előtt és azt követően nyolc órán belül nem szabad alkoholt fogyasztani. Ettől eltérő előírást a szer engedélyokirata tartalmazhat. Növényvédő szeres munkavégzés közben étkezni, dohányozni tilos.
+
+### 38. §
+
+(1)[^152] Növényvédelmi munkavégzés során – ideértve a tömény növényvédő szer előkészítését és a felhasználásra kész permetlé vagy kész kiszerelésű készítmény kijuttatását is – az adott növényvédő szer engedélyokiratában foglalt egyéni védőeszköz viselése kötelező.
+
+(2) A növényvédelmi munkavégzéshez szükséges védőeszközöket a munkáltató, ennek hiányában a felhasználó köteles biztosítani, akinek gondoskodnia kell a védőeszközök cseréjéről, elkülönített tisztításáról, megfelelő műszaki állapotban való tartásáról is.
+
+(3)[^153] Növényvédő szerrel kezelt területre belépni, illetve ott munkát végezni a növényvédő szer teljes száradása, illetve a munkaegészségügyi várakozási idő lejárta előtt kizárólag az alkalmazott növényvédő szerhez előírt egyéni védőeszközben szabad.
+
+(4) A növényvédő szerrel szennyezett gépek, illetve szóróberendezések javítása, tisztítása során a növényvédő szer engedélyokiratában előírt egyéni védőeszközt kell viselni.
+
+(5)[^154] Engedélyokiratban szereplő előírás hiányában az (1), (3) és (4) bekezdésben foglalt esetben olyan, kizárólag e tevékenységek során használt egyéni védőeszközt kell viselni, amely megakadályozza, hogy a növényvédő szerrel a tevékenységet végző személy közvetlenül érintkezzen.
+
+### 39. §
+
+(1)[^155] Csoportos növényvédelmi munkavégzéshez munkát vezető dolgozót kell kijelölni, akinek legalább a 18. § (1) bekezdés d) pontjában megnevezett képesítéssel kell rendelkeznie.
+
+(2) Ha nagyon mérgező vagy mérgező besorolású növényvédő szerrel a munkát csoportosan végzik, a kijelölt vezetőnek és legalább egy dolgozónak rendelkeznie kell a balesetek és a mérgezések helyszíni elsősegélynyújtására, valamint az azt követő intézkedésekre vonatkozó ismeretekkel.
+
+(3)[^156]
+
+### 40. §
+
+(1) A növényvédő szerrel kapcsolatos munkavégzés során meg kell akadályozni a szernek
+
+a) természetes párolgását, elcsepegését, elfolyását, porlódását, szóródását, szembe, bőrre jutását, belélegzését, esetleges lenyelését,
+
+b) véletlen elcserélését, élelmiszerbe, takarmányba keveredését,
+
+c) kezelésre nem szánt tárgyra, területre, növényzetre jutását.
+
+(2) Balesetkor, mérgezéskor vagy annak gyanúja esetén a növényvédő szeres munkát haladéktalanul abba kell hagyni, és intézkedni kell a sérült szakszerű egészségügyi ellátásáról.
+
+### 41. §
+
+(1) A munkavégzést követően, valamint étkezés előtt alapos kéz- és arcmosás, valamint szájöblítés kötelező. A munkaterület közelében megfelelő tisztálkodó helyet kell kijelölni.
+
+(2) A növényvédő szerrel végzett munka során, rövid időn belül elérhető helyen, megfelelő mennyiségű ivóvíz minőségű vizet, tisztálkodási eszközt, valamint a munkáltató, ennek hiányában a felhasználó által a munkavégzés jellegének megfelelő, a baleseti és mérgezési elsősegélynyújtáshoz szükséges eszközöket kell biztosítani.
+
+(3) A növényvédő szerek kiméréséhez, adagolásához, hígításához, töltéséhez, kezeléséhez a raktárban és a munkavégzés helyén feltűnően megjelölt és biztonságos munkaeszközöket kell használni, amelyeket más célra felhasználni nem szabad. Elkülönítve kell kezelni a gyomirtó szerek kiméréséhez használatos eszközöket. A raktárban a biztonságos anyagmozgatás eszközeiről is gondoskodni kell.
+
+(4) A növényvédő szeres munkavégzés gépeit és eszközeit az üzemeltetési dokumentációban vagy a technológiai utasításban leírtak szerint kell az üzemeltetéshez, a javításhoz és a tároláshoz előkészíteni.
+
+## Csávázás, gázosítás, csalétek alkalmazása
+
+### 42. §
+
+(1) A csávázott termény egyértelmű megkülönböztetése érdekében csávázásra olyan növényvédő szer használható – önállóan vagy adalékkal – amely a kezelt terményt jól megkülönböztethető színnel, maradandó módon megfesti.
+
+(2) A csávázást lakóépülettől, állat- vagy vízjárta helytől, kutaktól, álló- és folyóvizektől, emberi táplálkozásra, állatok takarmányozására szolgáló növényzettől biztonságos távolságban, kell végezni. Élelmiszer, emberi fogyasztásra vagy takarmányozásra használt termék tárolására szolgáló tárolóban csávázást végezni tilos.
+
+(3) Zárt térben végzett csávázáskor megfelelő szellőztetést kell alkalmazni.
+
+(4) Csávázott termény tárolására, szállítására külön erre a célra szolgáló és a csávázásra utaló, feltűnően megjelölt csomagolást kell használni, amelyet más célra felhasználni tilos.
+
+(5) Csávázott terményt, csávázási hulladékot élelmezési, takarmányozási célra felhasználni tilos.
+
+### 43. §
+
+(1) A csávázott terményt zárt raktárban kell tárolni, más anyagoktól elkülönítve. Élelmiszer, illetve takarmányozási célú terménnyel közös helyiségben a csávázott terményt tárolni nem szabad.
+
+(2)[^157] Csávázott termény raktárhelyiségeit egyéb termény, takarmány tárolására – külön előírás hiányában – csak nedves felseprést követő lúgos vagy mosószeres vizes felmosás után szabad használni. A mosószeres vizet a 46. § (3) bekezdésében meghatározottak szerint kell kezelni.
+
+(3) A csomagolóeszközön, ömlesztett tárolás esetén a prizmára a „Vigyázat! Mérgező csávázó szerrel kezelve” vagy ezzel azonos tartalmú feliratot kell feltüntetni.
+
+(4) A csávázott termény csomagolóeszközének kezelésére a növényvédő szer csomagolóeszközének kezelésére vonatkozó előírások irányadóak.
+
+(5) Csávázott termény – engedélyezett ártalmatlanítási technológia hiányában – kizárólag vetésre vagy a kártevők elleni csalétek készítésére használható fel.
+
+(6) Az (1), (2) és (4) bekezdés a kis kiszerelésű házi kerti felhasználást szolgáló csávázott vetőmagvakra nem vonatkozik.
+
+### 44. §
+
+(1) A csalétek kihelyezési szándékot az engedélyokiratban meghatározottak szerint kell bejelenteni. A mérgező csalétket úgy kell elhelyezni, hogy gyermek, illetéktelen felnőtt, haszonállat, illetve nem célszervezetnek minősülő vadon élő állat ne férhessen hozzá.
+
+(2) Növényvédő szeres gázosítást kizárólag egészségügyi gázmesteri vizsgával rendelkező személy végezhet.
+
+## Növényvédő szer minőségének ellenőrzése
+
+### 45. §
+
+(1)[^158]
+
+(2)[^159] A növényvédő szerek minőségének hatósági ellenőrzéséhez a vármegyei kormányhivatal és a NÉBIH térítésmentesen mintát vehet.
+
+(3)[^160]
+
+(4)[^161]
+
+(5)[^162] A vizsgálatokhoz az engedélyokirat jogosultjának térítésmentesen analitikailag tiszta hatóanyag mintát kell biztosítania.
+
+(6)[^163] A vizsgálat gyanú esetén kérelemre is lefolytatható, amelyért a növényvédelmi igazgatási szolgáltatási díjakról szóló külön jogszabályban foglalt díjat kell fizetni. A vizsgálati eredmény kizárólag az átadott mintára vonatkozik, ha a mintát nem az ellenőrző hatóság vette.
+
+## Hulladékkezelés
+
+### 46. §
+
+(1) A veszélyes hulladékok kezelésére vonatkozó jogszabályt kell alkalmazni
+
+a) az engedélyokirattal nem rendelkező növényvédő szer,
+
+b) a felhasználásra alkalmatlannak minősített vagy a felhasználásra alkalmatlan, lejárt felhasználhatósági idejű növényvédő szer,
+
+c) az összekeveredett növényvédő szer,
+
+d)[^164] a vármegyei kormányhivatal által – szükség esetén a területi környezetvédelmi hatóság szakértői véleménye alapján – a szennyeződéstől nem mentesíthetőnek minősített védőeszköz, munkaeszköz, növényvédő szer raktár, tároló elbontása során szennyeződhetett bontásanyag, illetve föld, növény, növényi termék, fel nem használható csávázott vetőmag,
+
+e) a kiömlött növényvédő szer felitatására, összegyűjtésére használt anyag, növényvédő szerrel szennyezett talaj
+
+kezelése során.
+
+(2) A növényvédő szerrel szennyezett csomagolóeszközök hulladékának kezelésére külön jogszabály rendelkezéseit kell alkalmazni.
+
+(3) A növényvédő szert tartalmazó, a növényvédelmi technológiai folyamatban nem használható mosó-, öblítő-, tisztító vizet, a használhatatlanná vált permetlevet, csávázólevet, hidrokultúrás termesztésből kikerülő és egyéb használhatatlan növényvédő szer hígításokat tartalmazó szennyvizet a veszélyes hulladékokra vonatkozó környezetvédelmi előírásoknak megfelelően kell kezelni és ártalmatlanítani.
+
+(4) A növényvédő szer forgalmazó helyiség és raktár teljes készletét a készlet tulajdonosának vagy megbízottjának legalább évente felül kell vizsgálnia. A rendeltetésszerű használatra alkalmatlan tételeket selejtezni kell, és a továbbiakban veszélyes hulladékként kell kezelni.
+
+(5) A kiselejtezett növényvédő szert további kezelésig a növényvédő szer raktár elkülönített részében kell tárolni.
+
+## Az Európai Gazdasági Térség más tagállamában e rendelet szerinti tevékenység folytatásához szükséges igazolás kiállítása
+
+### 47. §[^165]
+
+A toxikus termékekkel kapcsolatos tevékenységekre, kereskedelemre és forgalmazásra vonatkozó átmeneti intézkedésekre, és az ilyen termékek hivatásszerű használatával, beleértve a közvetítők tevékenységeit is, kapcsolatos tevékenységekre vonatkozó részletes rendelkezések megállapításáról szóló, 1974. június 4-i 74/556/EGK tanácsi irányelv 2. és 3. cikkében írt feltételek teljesüléséről az Európai Gazdasági Térség más tagállamában folytatni tervezett tevékenységhez szükséges igazolást az azt kérelmező lakóhelye szerint illetékes vármegyei kormányhivatal adja ki.
+
+## Záró rendelkezések
+
+### 48. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba, és rendelkezéseit az ezt követően indult eljárásokban kell alkalmazni.
+
+(2) Az e rendelet hatálybalépése előtt kiadott – a 21. § szerinti – engedélyeket a 21. § (8) bekezdésben foglalt feltétel teljesülése során megadott igazoló tanúsítvány kiállításakor kell felülvizsgálni az e rendeletben foglaltaknak való megfelelés tekintetében. Ennek során a kiadott engedélyeket módosítani kell vagy vissza kell vonni.
+
+(3)[^166] A növényvédelmi gépek műszaki felülvizsgálatát a 35. § (3) bekezdés szerinti alapképzés, és vizsga hiányában az első alapképzés elindulásáig, de legkésőbb 2019. december 31-éig az a felülvizsgálatra jogosult végezheti, aki a NÉBIH-nél kérelmezi a nyilvántartásba vételét, és annak a NÉBIH honlapján szereplő listában való közzétételét.
+
+(4)[^167] A 30. § (8) bekezdése szerinti elektronikus adatszolgáltatást első alkalommal 2024. január 31-ig kell teljesíteni a 2023. naptári év vonatkozásában.
+
+(5)[^168]
+
+(6)[^169]
+
+(7)[^170]
+
+(8)[^171]
+
+### 49. §[^172]
+
+(1) Ez a rendelet
+
+a) a toxikus termékekkel kapcsolatos tevékenységekre, kereskedelemre és forgalmazásra vonatkozó átmeneti intézkedésekre, és az ilyen termékek hivatásszerű használatával, beleértve a közvetítők tevékenységeit is, kapcsolatos tevékenységekre vonatkozó részletes rendelkezések megállapításáról szóló, 1974. június 4-i 74/556/EGK tanácsi irányelvnek,
+
+b) a toxikus termékek kereskedelmével és forgalmazásával foglalkozó önálló vállalkozók és közvetítők tevékenységével kapcsolatos letelepedési és szolgáltatásnyújtási szabadság megvalósításáról szóló, 1974. június 4-i 74/557/EGK tanácsi irányelvnek,
+
+c) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelvnek,
+
+d) a 2006/42/EK irányelvnek a peszticidek kijuttatására szolgáló gépek tekintetében történő módosításáról szóló, 2009. október 21-i 2009/127/EK európai parlamenti és tanácsi irányelvnek,
+
+e) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek
+
+f)[^173] a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
+g)[^174] a 2009/128/EK európai parlamenti és tanácsi irányelvnek a harmonizált kockázati mutatók meghatározása tekintetében történő módosításáról szóló, 2019. május 15-i 2019/782/EU bizottsági irányelvnek
+
+való megfelelést szolgálja,
+
+(2) Ez a rendelet a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^175]
+
+## 2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^176]
+
+## 3. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^177]
+
+## 4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^178]
+
+## 5. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^179]
+
+## 6. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^180]
+
+## 7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^181]
+
+**Raktári kártevők**
+
+1\. *Acanthoscelides obtectus* (Say)
+
+2\. *Acarus siro* Linnaeus
+
+3\. *Bruchophagus platipterus* (Walker)
+
+4\. *Bruchophagus roddi* (Guszakovszkij)
+
+5\. *Bruchus pisorum* (Linnaeus)
+
+6\. *Ephestia elutella* (Hübner)
+
+7\. *Ephestia kuehniella* Zeller
+
+8\. *Cryptolestes ferrugineus* (Stephens)
+
+9\. *Lasioderma serricorne* (Linnaeus)
+
+10\. *Nemapogon granella* (Linnaeus)
+
+11\. *Niptus hololeucus* (Faldermann)
+
+12\. *Oryzaephilus surinamensis* (Linnaeus)
+
+13\. *Plodia interpunctella* (Hübner)
+
+14\. *Ptinus fur* (Linnaeus)
+
+15\. *Pyralis farinalis* (Linnaeus)
+
+16\. *Rhizopertha dominica* (Fabricius)
+
+17\. *Sitophilus granarius* (Linnaeus)
+
+18\. *Sitophilus oryzae* (Linnaeus)
+
+19\. *Sitophilus zeamais* Motschulsky
+
+20\. *(t.) Sitotroga cerealella* (Olivier)
+
+21\. *Stegobium paniceum* (Linnaeus)
+
+22\. *Tenebroides mauritanicus* (Linnaeus)
+
+23\. *Tenebrio molitor* Linnaeus
+
+24\. *Tribolium castaneum* (Herbst)
+
+25\. *Tribolium confusum* Jacquelin du Val
+
+26\. *Trogoderma spp.* (kivéve *Trogoderma granarium* Everts)
+
+27\. *Trogoderma granarium* Everts.
+
+28.[^182]
+
+## 8. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^183]
+
+**Az integrált növényvédelem általános elvei**
+
+1\. A károsítók megjelenésének megelőzésére vagy azok mennyiségének gazdasági kárt okozó szint alá szorítására a biológiai, biotechnikai, agrotechnikai, mechanikai, fizikai és kémiai védekezési eljárások, illetve ezek technológiai rendszereinek felhasználása során elsősorban az alábbi eszközök alkalmazandók:
+
+1.1. megfelelő, a kultúrnövény optimális fejlődését biztosító, a károsítók elleni kompetícióját elősegítő agrotechnikai elemek,
+
+1.2.[^184] rezisztens vagy toleráns növényfajták alkalmazása azoknál a növényfajoknál, ahol ez technológiailag indokolt; fémzárolt vetőmagok és ellenőrzött szaporítóanyagok használata,
+
+1.3.[^185] talajvizsgálatra, vagy a növény tápanyag szükségletére alapozott tápanyag-utánpótlás, szükség szerint talajjavítás és a talaj optimális nedvességtartalmát biztosító eljárások alkalmazása,
+
+1.4. a károsítók elterjedésének megakadályozása a gépek, berendezések, öntözőcsatornák rendszeres tisztításával,
+
+1.5. a gyomnövények, kártevők és kórokozók természetes ellenségeinek és a hasznos, valamint a növénytermelés szempontjából veszélyt nem jelentő élő szervezetek fokozott védelme és erősítése megfelelő növényvédelmi intézkedésekkel vagy a termelőhelyeken belül és kívül ökológiai infrastruktúrákkal a természetes ökoszisztémák védelmének figyelembevételével.
+
+2\. A károsítókat megfelelő módszerekkel és rendelkezésre álló eszközökkel folyamatosan figyelni kell. A megfelelő eszközök közé tartoznak a helyszínen végzett megfigyelések, tudományosan megalapozott előrejelzési és korai diagnosztikai rendszerek, továbbá szakirányító javaslatainak felhasználása.
+
+3\. A termelő, szükség szerint folyamatos táblaszintű és károsító előrejelzés (monitoring) eredményei alapján, illetve szakirányító igénybevételével eldönti, kell-e érdemi intézkedést alkalmazni, és ha igen, mikortól, továbbá milyen növényvédelmi kezelésre van szükség. A károsítók esetében a kezelési döntés meghozatalakor figyelembe kell venni a konkrét területekre, a terményekre, és a sajátos éghajlati és időjárási viszonyokra meghatározott, tudományosan megalapozott károsítási küszöbértékeket.
+
+4\. A kémiai védekezési módokkal szemben előnyben kell részesíteni a megfelelő hatékonyságot nyújtó környezetbarát biológiai, fizikai és más nem kémiai módszereket, továbbá figyelembe kell venni a károsítók természetes ellenségeinek korlátozó szerepét.
+
+5\. A felhasznált növényvédő szereknek a védekezéssel elérni kívánt célnak leginkább megfelelőnek kell lenniük és a lehető legkevesebb mellékhatással kell járniuk az emberi egészségre, a nem célszervezetekre és a környezetre.
+
+6.[^186] A növényvédő szert felhasználónak a növényvédő szerek használatát és az egyéb beavatkozási formákat a szükséges szinten kell tartania. Az engedélyezett dózishatárok figyelembevételével a felhasználónak törekednie kell a lehető legalacsonyabb, még hatékony dózis használatára, annak érdekében, hogy elkerülje a rezisztencia kialakítását. A felhasználónak a kezelések számát úgy kell megválasztani, hogy a károsítók gazdasági kártételi küszöb alá szorításához szükséges minimális kezelési számot alkalmazza. Károsítók foltszerű előfordulása esetén lehetőség szerint foltkezelést kell alkalmazni, figyelembe véve, hogy a növényzetben a kockázati szintnek elfogadhatónak kell lennie, és nem szabad növelni annak kockázatát, hogy a károsítók populációi rezisztenssé váljanak.
+
+7\. A növényvédelmi technológia kialakítása során figyelemmel kell lenni a rezisztencia kialakulásának megelőzésére.
+
+8\. Az adott évi növényvédelmi technológia, illetve a szükséges növényvédelmi intézkedések megtervezése során figyelembe kell venni az előző évi növényvédelmi intézkedések hatékonyságával kapcsolatos tapasztalatokat.
+
+## 9. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^187]
+
+---
+
+[^1]: Az 1. §-t megelőző alcím a 46/2012. (V. 8.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 46/2012. (V. 8.) VM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § 3. pontja a 84/2015. (XII. 17.) FM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § 3a. pontját a 45/2021. (XII. 1.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § 4. pontja a 84/2015. (XII. 17.) FM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § 4a. pontját a 45/2021. (XII. 1.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § 5. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § 6. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § 7. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
+[^10]: Az 1. § 8. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
+[^11]: Az 1. § 9. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 1. § 10. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
+[^13]: Az 1/A. §-t megelőző alcímet a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
+[^14]: Az 1/A. §-t a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
+[^15]: Az 1/A. § (2) bekezdés nyitó szövegrésze a 84/2015. (XII. 17.) FM rendelet 14. § 1. pontja szerint módosított szöveg.
+[^16]: Az 1/A. § (3) bekezdése a 45/2021. (XII. 1.) AM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 2. § (1) bekezdés b) pontja a 100/2012. (IX. 28.) VM rendelet 8. §-ával megállapított szöveg.
+[^18]: A 2. § (1) bekezdés h) pontja a 8/2026. (VII. 24.) AÉM rendelet 7. §-ával megállapított szöveg.
+[^19]: A 2. § (1) bekezdés i) pontját a 8/2026. (VII. 24.) AÉM rendelet 7. §-a iktatta be.
+[^20]: A 2. § (2) bekezdése az 59/2013. (VII. 15.) VM rendelet 8. § l) pontja szerint módosított szöveg.
+[^21]: A 3. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 3. pontja, a 35/2019. (VII. 15.) AM rendelet 21. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § a) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^22]: A 3. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § b) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § b) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § c) pontja szerint módosított szöveg.
+[^24]: Az 5. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 5. pontja szerint módosított szöveg.
+[^25]: Az 5. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 2. §-a iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 3. §-ával megállapított szöveg.
+[^26]: Az 5. § (4a) bekezdés a) pontja a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. § (4b) bekezdését a 35/2019. (VII. 15.) AM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 45/2021. (XII. 1.) AM rendelet 18. § a) pontja.
+[^28]: Az 5. § (6) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^29]: A 6. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 6. § (2) bekezdése a 84/2015. (XII. 17.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^31]: A 6. § (2a) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^32]: A 6. § (2b) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 21. § b) pontja szerint módosított szöveg.
+[^33]: A 6. § (2c) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^34]: A 6. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (3) bekezdése iktatta be.
+[^35]: A 7. § a 70/2013. (VII. 31.) VM rendelet 125. § d) és e) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § b)–c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^36]: A 8. § (5) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § a) pontja szerint módosított szöveg.
+[^37]: A 9. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 3. §-ával megállapított szöveg.
+[^38]: A 9. § (2) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (4) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^39]: A 9. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 3. §-a iktatta be.
+[^40]: A 10. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^41]: A 11. § (3) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § b) pontja szerint módosított szöveg.
+[^42]: A 11. § (4) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § c) pontja szerint módosított szöveg.
+[^43]: A 15. § (1) bekezdése a 45/2021. (XII. 1.) AM rendelet 4. §-ával megállapított szöveg.
+[^44]: A 15. § (2) bekezdése a 45/2021. (XII. 1.) AM rendelet 4. §-ával megállapított szöveg.
+[^45]: A 15. § (3) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § b) pontja hatályon kívül helyezte.
+[^46]: A 15. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 7. pontja, a 46/2020. (IX. 23.) AM rendelet 19. § d) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^47]: A 16. § a 45/2021. (XII. 1.) AM rendelet 5. §-ával megállapított szöveg.
+[^48]: A 17. § (2) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 10. pontja szerint módosított szöveg.
+[^49]: A 17. § (2) bekezdés d) pontját a 45/2021. (XII. 1.) AM rendelet 6. §-a iktatta be.
+[^50]: A 17. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 11. pontja szerint módosított szöveg.
+[^51]: A 17. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 12. pontja, a 35/2019. (VII. 15.) AM rendelet 21. § f) pontja szerint módosított szöveg.
+[^52]: A 18. § (1) bekezdés nyitó szövegrésze a 84/2015. (XII. 17.) FM rendelet 14. § 13. pontja szerint módosított szöveg.
+[^53]: A 18. § (1) bekezdés c) pontja a 171/2023. (XII. 27.) AM rendelet 2. §-a szerint módosított szöveg.
+[^54]: A 18. § (1) bekezdés e) pontját a 45/2021. (XII. 1.) AM rendelet 7. §-a iktatta be.
+[^55]: A 18. § (2) bekezdés a) pontja a 84/2015. (XII. 17.) FM rendelet 4. §-ával megállapított, a 35/2019. (VII. 15.) AM rendelet 21. § g) pontja szerint módosított szöveg.
+[^56]: A 18. § (2) bekezdés b) pontját a 35/2019. (VII. 15.) AM rendelet 22. § a) pontja hatályon kívül helyezte.
+[^57]: A 18. § (2) bekezdés c) pontja a 35/2019. (VII. 15.) AM rendelet 4. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § d) pontja szerint módosított szöveg.
+[^58]: A 19. § a 84/2015. (XII. 17.) FM rendelet 5. §-ával megállapított szöveg.
+[^59]: A 19. § (1a) bekezdését a 35/2019. (VII. 15.) AM rendelet 5. §-a iktatta be.
+[^60]: A 19. § (1a) bekezdés b) pontja a 45/2021. (XII. 1.) AM rendelet 17. § e) pontja szerint módosított szöveg.
+[^61]: A 19. § (1a) bekezdés c) pontja a 45/2021. (XII. 1.) AM rendelet 17. § f) pontja szerint módosított szöveg.
+[^62]: A 19. § (1b) bekezdését a 35/2019. (VII. 15.) AM rendelet 5. §-a iktatta be.
+[^63]: A 19. § (1c) bekezdését a 35/2019. (VII. 15.) AM rendelet 5. §-a iktatta be.
+[^64]: A 19. § (1d) bekezdését a 35/2019. (VII. 15.) AM rendelet 5. §-a iktatta be.
+[^65]: A 19. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § h) pontja szerint módosított szöveg.
+[^66]: A 20. § a 35/2019. (VII. 15.) AM rendelet 6. §-ával megállapított szöveg.
+[^67]: A 21. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^68]: A 21. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (2) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^69]: A 21. § (6) bekezdését a 35/2019. (VII. 15.) AM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^70]: A 21. § (7) bekezdés nyitó szövegrésze a 35/2019. (VII. 15.) AM rendelet 7. § (3) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^71]: A 21. § (7a) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 153. § e) pontja, a 35/2019. (VII. 15.) AM rendelet 21. § i) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^72]: A 21. § (7b) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^73]: A 21. § (8) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (4) bekezdésével megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § g) pontja szerint módosított szöveg.
+[^74]: A 21. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § b) pontja hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 7. § (5) bekezdése iktatta be.
+[^75]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^76]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. és 16. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § f) pontja, a 13/2019. (IV. 5.) AM rendelet 11. §-a, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 45/2021. (XII. 1.) AM rendelet 17. § h) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) és c) pontja szerint módosított szöveg.
+[^77]: A 21. § (10) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 17. pontja szerint módosított szöveg.
+[^78]: A 21. § (10) bekezdés d) pontját a 84/2015. (XII. 17.) FM rendelet 6. § (4) bekezdése iktatta be.
+[^79]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^80]: A 22. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^81]: A 22. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^82]: A 22. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
+[^83]: A 22. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § i) pontja szerint módosított szöveg.
+[^84]: A 22. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (2) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § e) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^85]: A 22. § (5) bekezdését újonnan a 45/2021. (XII. 1.) AM rendelet 8. § (1) bekezdése iktatta be.
+[^86]: A 22. § (5a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^87]: A 22. § (5b) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^88]: A 22. § (5c) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^89]: A 22. § (6) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^90]: A 22. § (7) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
+[^91]: A 22. § (8) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
+[^92]: A 22. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^93]: A 22. § (10) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^94]: A 22. § (11) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^95]: A 23. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 18. pontja szerint módosított szöveg.
+[^96]: A 23. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 9. §-ával megállapított szöveg.
+[^97]: A 23. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 19. pontja, a 45/2021. (XII. 1.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^98]: A 23. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 20. pontja szerint módosított szöveg.
+[^99]: A 23. § (4a) bekezdését a 45/2021. (XII. 1.) AM rendelet 9. §-a iktatta be.
+[^100]: A 24. § a 35/2019. (VII. 15.) AM rendelet 10. §-ával megállapított, nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^101]: A 24. § b) pontja a 45/2021. (XII. 1.) AM rendelet 17. § j) pontja szerint módosított szöveg.
+[^102]: A 25. § a 84/2015. (XII. 17.) FM rendelet 9. §-ával megállapított szöveg.
+[^103]: A 26. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 10. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § k) pontja szerint módosított szöveg.
+[^104]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^105]: A 27. § (3) bekezdése a 35/2019. (VII. 15.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^106]: A 27. § (4) bekezdés nyitó szövegrésze a 35/2019. (VII. 15.) AM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^107]: A 27. § (4) bekezdés h) pontja a 35/2019. (VII. 15.) AM rendelet 11. § (3) bekezdésével megállapított, a 49/2019. (X. 22.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^108]: A 27. § (4) bekezdés i) pontja a 42/2017. (VIII. 17.) FM rendelet 153. § g) pontja szerint módosított szöveg.
+[^109]: A 27. § (5) bekezdése a 35/2019. (VII. 15.) AM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^110]: A 27. § (6) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § j) pontja szerint módosított szöveg.
+[^111]: A 27. § (9) bekezdése a 84/2015. (XII. 17.) FM rendelet 11. §-ával megállapított, nyitó szövegrésze a 35/2019. (VII. 15.) AM rendelet 21. § k) pontja szerint módosított szöveg.
+[^112]: A 27. § (13) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 153. § g) és h) pontja szerint módosított szöveg.
+[^113]: A 28/A. §-t a 35/2019. (VII. 15.) AM rendelet 12. §-a iktatta be.
+[^114]: A 29. § (3) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^115]: A 29. § (3a) bekezdését a 35/2019. (VII. 15.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^116]: A 29. § (4) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^117]: A 29. § (6) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § l) pontja szerint módosított szöveg.
+[^118]: A 30. § a 45/2021. (XII. 1.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^119]: A 30. § (2) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^120]: A 30. § (3) bekezdés nyitó szövegrésze a 22/2022. (VII. 29.) AM rendelet 3. §-a szerint módosított szöveg.
+[^121]: A 30. § (4) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^122]: A 30. § (6) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^123]: A 30. § (7) bekezdését a 22/2022. (VII. 29.) AM rendelet 1. § (4) bekezdése iktatta be.
+[^124]: A 30. § (8) bekezdését a 22/2022. (VII. 29.) AM rendelet 1. § (4) bekezdése iktatta be.
+[^125]: A 31. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 19. § f) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^126]: A 31. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 125. § m) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^127]: A 31. § (2) bekezdés a) pontja a 45/2021. (XII. 1.) AM rendelet 17. § m) pontja szerint módosított szöveg.
+[^128]: A 31. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 153. § j) és k) pontja, a 35/2019. (VII. 15.) AM rendelet 21. § n) pontja szerint módosított szöveg.
+[^129]: A 31. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § n) pontja, a 19/2014. (III. 12.) VM rendelet 33. § c) pontja szerint módosított szöveg.
+[^130]: A 31. § (4) bekezdését a 49/2019. (X. 22.) AM rendelet 9. §-a iktatta be.
+[^131]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított, a 45/2021. (XII. 1.) AM rendelet 18. § d) pontja szerint módosított szöveg.
+[^132]: A 32. § (2) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^133]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 4/2021. (II. 23.) AM rendelet 6. § b) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^134]: A 32. § (6) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^135]: A 32. § (8) bekezdését a 45/2021. (XII. 1.) AM rendelet 11. §-a iktatta be.
+[^136]: A 33. § a 70/2013. (VII. 31.) VM rendelet 125. § n) pontja, a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 4/2021. (II. 23.) AM rendelet 6. § d) pontja szerint módosított szöveg.
+[^137]: A 34. § (1) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^138]: A 35. § a 35/2019. (VII. 15.) AM rendelet 15. §-ával megállapított szöveg.
+[^139]: A 35. § (1) bekezdése a 45/2021. (XII. 1.) AM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^140]: A 35. § (2) bekezdése a 45/2021. (XII. 1.) AM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^141]: A 35. § (3) bekezdése a 171/2023. (XII. 27.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^142]: A 35. § (5) bekezdése a 171/2023. (XII. 27.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^143]: A 35. § (6a) bekezdését a 45/2021. (XII. 1.) AM rendelet 12. § (3) bekezdése iktatta be.
+[^144]: A 35. § (9) bekezdése a 121/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.
+[^145]: A 35. § (9a) bekezdését a 45/2021. (XII. 1.) AM rendelet 12. § (4) bekezdése iktatta be.
+[^146]: A 35. § (10) bekezdése a 121/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.
+[^147]: A 35. § (12) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § n) pontja szerint módosított szöveg.
+[^148]: A 36. § a 71/2016. (X. 28.) FM rendelet 1. §-ával megállapított szöveg.
+[^149]: A 36. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 16. § (1) bekezdésével megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § o) pontja szerint módosított szöveg.
+[^150]: A 36. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^151]: A 36. § (4) bekezdését a 35/2019. (VII. 15.) AM rendelet 16. § (2) bekezdése iktatta be.
+[^152]: A 38. § (1) bekezdése a 45/2021. (XII. 1.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^153]: A 38. § (3) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § p) pontja szerint módosított szöveg.
+[^154]: A 38. § (5) bekezdését a 45/2021. (XII. 1.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^155]: A 39. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § o) pontja szerint módosított szöveg.
+[^156]: A 39. § (3) pontját a 35/2019. (VII. 15.) AM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^157]: A 43. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § p) pontja szerint módosított szöveg.
+[^158]: A 45. § (1) bekezdését a 35/2019. (VII. 15.) AM rendelet 22. § e) pontja hatályon kívül helyezte.
+[^159]: A 45. § (2) bekezdése a 45/2021. (XII. 1.) AM rendelet 14. §-ával megállapított, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^160]: A 45. § (3) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § e) pontja hatályon kívül helyezte.
+[^161]: A 45. § (4) bekezdését a 35/2019. (VII. 15.) AM rendelet 22. § e) pontja hatályon kívül helyezte.
+[^162]: A 45. § (5) bekezdése a 35/2019. (VII. 15.) AM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^163]: A 45. § (6) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § q) pontja szerint módosított szöveg.
+[^164]: A 46. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^165]: A 47. § a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^166]: A 48. § (3) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 19. § iktatta be.
+[^167]: A 48. § (4) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § f) pontja újból hatályon kívül helyezte, újonnan a 22/2022. (VII. 29.) AM rendelet 2. §-a iktatta be.
+[^168]: A 48. § (5) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^169]: A 48. § (6) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^170]: A 48. § (7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^171]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^172]: A 49. § a 46/2012. (V. 8.) VM rendelet 3. §-ával megállapított szöveg.
+[^173]: A 49. § (1) bekezdés f) pontját a 35/2019. (VII. 15.) AM rendelet 20. §-a iktatta be.
+[^174]: A 49. § (1) bekezdés g) pontját a 49/2019. (X. 22.) AM rendelet 10. §-a iktatta be.
+[^175]: Az 1. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § f) pontja hatályon kívül helyezte.
+[^176]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
+[^177]: A 3. mellékletet a 45/2021. (XII. 1.) AM rendelet 18. § g) pontja hatályon kívül helyezte.
+[^178]: A 4. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^179]: Az 5. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^180]: A 6. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^181]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^182]: A 7. melléklet 28. pontját a 84/2015. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^183]: A 8. mellékletet a 46/2012. (V. 8.) VM rendelet 5. §-a iktatta be.
+[^184]: A 8. melléklet 1. pont 1.2. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^185]: A 8. melléklet 1. pont 1.3. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^186]: A 8. melléklet 6. pontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^187]: A 9. mellékletet a 84/2015. (XII. 17.) FM rendelet 13. § (3) bekezdése iktatta be, hatályon kívül helyezte a 35/2019. (VII. 15.) AM rendelet 22. § i) pontja.

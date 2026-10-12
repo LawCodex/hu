@@ -1,0 +1,165 @@
+---
+title: "36/2004. (IV. 26.) ESZCSM rendelet a különleges táplálkozási célú élelmiszerekről"
+identifier: "36/2004. (IV. 26.) ESZCSM rendelet"
+njt_id: "2004-36-20-0M"
+eli: "https://njt.jog.gov.hu/eli/R/2004/ESZCSM/36"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2004-04-26
+in_force_from: 2010-01-01
+last_amended: 2023-08-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-36-20-0M"
+retrieved: 2026-10-12
+---
+
+# 36/2004. (IV. 26.) ESZCSM rendelet a különleges táplálkozási célú élelmiszerekről
+
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-a (11) bekezdésének a) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
+
+## 1. §
+
+(1)[^1] E rendelet előírásait a Magyarországon forgalomba hozatalra szánt
+
+a) anyatej-helyettesítő és anyatej-kiegészítő tápszerekre,
+
+b) feldolgozott gabonaalapú élelmiszerekre és bébiételekre,
+
+c) speciális gyógyászati célra szánt élelmiszerekre, valamint
+
+d) testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekre
+
+(a továbbiakban együtt: különleges élelmiszer) kell alkalmazni.
+
+(2)[^2]
+
+## 8. §
+
+(1)[^9] Az anyatej-helyettesítő tápszerek, fehérjehidrolizátumokból előállított anyatej-kiegészítő tápszerek, a 2016/127/EU rendelet II. mellékletében felsoroltakon kívül más anyagokat is tartalmazó anyatej-kiegészítő tápszerek, a speciális gyógyászati célra szánt élelmiszerek és a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek hatékony hatósági ellenőrzése érdekében a termék első magyarországi forgalomba hozatalakor az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikk 3. pontja szerinti élelmiszeripari vállalkozó (a továbbiakban: élelmiszer-vállalkozó) legkésőbb a termék forgalomba hozatalával egyidejűleg köteles azt bejelenteni a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) az (5) bekezdés szerinti adatok közlésével és a termék címkéjének megküldésével.
+
+(1a)[^10] Az (1) bekezdés szerint kell eljárni abban az esetben is, ha a már bejelentett és forgalmazott termék összetételében, az összetevők arányában, a csomagolás vagy a jelölés bármely elemében változás történik.
+
+(2)[^11] Szükség esetén az anyatej-helyettesítő tápszerekről, fehérjehidrolizátumokból előállított anyatej-kiegészítő tápszerekről, a 2016/127/EU rendelet II. mellékletében felsoroltakon kívül más anyagokat is tartalmazó anyatej-kiegészítő tápszerekről, a speciális gyógyászati célra szánt tápszerekről vagy élelmiszerekről és a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekről az NNGYK további információkat, valamint az adott élelmiszernek a termékkategóriára vonatkozó követelményeknek való megfelelőségét igazoló tudományos adatokat kérhet a gyártótól vagy az importőrtől. Ha a bizonyítékok könnyen hozzáférhető közleményben találhatók, elegendő a közleményre való hivatkozás.
+
+(3) Az (1) bekezdés szerinti bejelentésért a külön jogszabály szerinti igazgatási szolgáltatási díjat kell fizetni.
+
+(4)[^12] Az (1) bekezdés alkalmazásában címke alatt a termék magyar nyelvű grafikája, vagy ha a termék nem rendelkezik magyar nyelvű grafikával, a termék idegen nyelvű grafikája és magyar nyelvű kiegészítő címkéje, pótcímkéje értendő.
+
+(5)[^13] Az (1) és az (1a) bekezdés szerinti bejelentés tartalmazza
+
+a) a terméket bejelentő élelmiszer-vállalkozó nevét, címét, kapcsolattartási adatait,
+
+b) – ha a bejelentést az élelmiszer-vállalkozó képviselője nyújtja be – nevét, címét, kapcsolattartási adatait, a képviseleti jog igazolására alkalmas dokumentumot,
+
+c) a termék megnevezését,
+
+d) a termék előállítójának nevét, címét, elérhetőségét, valamint az előállítás helyét,
+
+e) a termék besorolását,
+
+f) a termék egységnyi mennyiségére számított összetételét csökkenő mennyiségi sorrendben,
+
+g) a termék érzékszervi tulajdonságait,
+
+h) a termék csomagolásával, mennyiségi jellemzőivel kapcsolatos adatokat,
+
+i) a termék jelölését melléklet formájában.
+
+## 10. §[^15]
+
+(1) A különleges élelmiszerek hatósági ellenőrzését népegészségügyi feladatkörben
+
+a)[^16] az 1. § (1) bekezdés a), b) és d) pontja szerinti különleges élelmiszerek tekintetében a vármegyei kormányhivatalok járási hivatalai, illetve
+
+b)[^17] az 1. § (1) bekezdés c) pontja szerinti különleges élelmiszerek tekintetében az NNGYK
+
+végzik.
+
+(2)[^18] A különleges élelmiszerek hatósági ellenőrzését élelmiszerlánc-biztonsági és állategészségügyi feladatkörükben eljárva a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) és a vármegyei kormányhivatalok járási hivatalai végzik.
+
+(3)[^19] Az előírások betartásának ellenőrzése érdekében vagy azok megsértése, illetve egészségi ártalom lehetőségének gyanúja esetén a táplálkozási jellemzők laboratóriumi vizsgálatát az NNGYK, egyéb jogszabályban meghatározott esetben a NÉBIH által kijelölt laboratóriumok végzik.
+
+(4)[^20] Ha a termék meghatározott táplálkozási céloknak való meg nem felelését az azt foglalkozása során felhasználó személy, az előállító vagy a forgalmazó észleli, erről a tudomására jutást követően haladéktalanul köteles értesíteni az NNGYK-t.
+
+(5)[^21] Az NNGYK a (4) bekezdés szerinti bejelentést soron kívül kivizsgálja, és – ha a vizsgálat során élelmiszer-biztonsági kockázatra utaló adat merül fel – annak eredményéről tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró vármegyei kormányhivatal járási hivatalát és a NÉBIH-et is.
+
+## 11. §[^22]
+
+(1)[^23] A 10. § (1) bekezdése szerinti feladatkörében eljárva a vármegyei kormányhivatal járási hivatala, illetve az NNGYK – az arra okot adó körülmény elhárításának igazolásáig – ideiglenesen felfüggeszti a termék forgalmazását, ha a különleges élelmiszer nem felel meg 1. § (1) bekezdésében szereplő különleges élelmiszerekre vonatkozó követelményeknek, vagy veszélyezteti az emberi egészséget.
+
+(2)[^24] Az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró NÉBIH és a vármegyei kormányhivatalok járási hivatala – az arra okot adó körülmény elhárításának igazolásáig – ideiglenesen felfüggeszti a termék forgalmazását, ha a különleges élelmiszer nem felel meg a vonatkozó élelmiszer-biztonsági és minőségi követelményeknek.
+
+(3)[^25] Az (1) bekezdés szerinti intézkedésről, valamint annak okáról a vármegyei kormányhivatal járási hivatala az országos tisztifőorvost, valamint a vármegyei kormányhivatal járási hivatala és az NNGYK a NÉBIH-et haladéktalanul értesíti. A NÉBIH szükség esetén értesíti a Bizottságot és a tagállamokat.
+
+(4)[^26] A (2) bekezdés szerinti szerv intézkedéséről haladéktalanul értesíti az országos tisztifőorvost és az NNGYK-t, valamint a NÉBIH-et, közölve az intézkedés okát. A NÉBIH szükség esetén értesíti a Bizottságot és a tagállamokat.
+
+## 12. §[^27]
+
+(1)[^28] A 10. § (1) bekezdése szerinti feladatkörében eljárva a vármegyei kormányhivatal járási hivatala, illetve az NNGYK ideiglenesen felfüggesztheti vagy megtilthatja a jogszabályban szabályozott, az abban foglalt előírásoknak megfelelő különleges élelmiszer forgalmazását, amennyiben új információ eredményeként vagy a meglévő információk újraértékelése alapján megállapítást nyer, hogy az veszélyezteti a fogyasztó egészségét.
+
+(2)[^29] Az (1) bekezdés szerinti intézkedésről, valamint annak okáról a vármegyei kormányhivatal járási hivatala az országos tisztifőorvost, valamint a vármegyei kormányhivatal járási hivatala és az NNGYK a NÉBIH-et haladéktalanul értesíti. A NÉBIH szükség esetén értesíti a Bizottságot és a tagállamokat.
+
+## 14. §
+
+(1) Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+
+(2)[^31]
+
+(3)[^32] Ez a rendelet a különleges táplálkozási célokra szánt élelmiszerekhez adható tápértéknövelő anyagokról szóló, 2009. október 13-i 953/2009/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4)[^33] Ez a rendelet
+
+a) a csecsemők és kisgyermekek számára készült, a speciális gyógyászati célra szánt, valamint a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekről, továbbá a 92/52/EGK tanácsi irányelv, a 96/8/EK, az 1999/21/EK, a 2006/125/EK és a 2006/141/EK bizottsági irányelv, a 2009/39/EK európai parlamenti és tanácsi irányelv és a 41/2009/EK és a 953/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 609/2013/EU európai parlamenti és tanácsi rendelet,
+
+b) a 609/2013/EU európai parlamenti és tanácsi rendeletnek az anyatej-helyettesítő és az anyatej-kiegészítő tápszerekre vonatkozó különös összetételi és tájékoztatási követelmények, valamint a csecsemők és kisgyermekek táplálásával kapcsolatos információkra vonatkozó követelmények tekintetében való kiegészítéséről szóló, 2015. szeptember 25-i (EU) 2016/127 felhatalmazáson alapuló bizottsági rendelet,
+
+c) a 609/2013/EU európai parlamenti és tanácsi rendeletnek a speciális gyógyászati célra szánt élelmiszerekre vonatkozó különös összetételi és tájékoztatási követelmények tekintetében való kiegészítéséről szóló, 2015. szeptember 25-i (EU) 2016/128 felhatalmazáson alapuló bizottsági rendelet
+
+d)[^34] az (EU) 2016/127 felhatalmazáson alapuló rendeletnek egyes rendelkezései alkalmazásának kezdőnapja tekintetében történő módosításáról szóló, 2021. január 20-i (EU) 2021/572 felhatalmazáson alapuló bizottsági rendelet
+
+e)[^35] a 609/2013/EU európai parlamenti és tanácsi rendeletnek a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekre vonatkozó különös összetételi és tájékoztatási követelmények tekintetében való kiegészítéséről szóló, 2017. június 2-i (EU) 2017/1798 felhatalmazáson alapuló bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^36]
+
+## 2. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^37]
+
+## 3. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^38]
+
+## 4. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^39]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését az 5/2022. (I. 28.) EMMI rendelet 3. § a) pontja hatályon kívül helyezte.
+[^9]: A 8. § (1) bekezdése a 28/2023. (VIII. 10.) BM rendelet 19. §-ával megállapított szöveg.
+[^10]: A 8. § (1a) bekezdését az 5/2022. (I. 28.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 8. § (2) bekezdése a 21/2021. (VI. 8.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 17/2022. (IV. 29.) EMMI rendelet 3. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^12]: A 8. § (4) bekezdését a 23/2008. (V. 30.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege az 5/2022. (I. 28.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 8. § (5) bekezdését az 5/2022. (I. 28.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 10. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^16]: A 10. § (1) bekezdés a) pontja az 53/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^17]: A 10. § (1) bekezdés b) pontja a 28/2023. (VIII. 10.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^18]: A 10. § (2) bekezdése az 53/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 10. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^20]: A 10. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 23. § b) pontja szerint módosított szöveg.
+[^21]: A 10. § (5) bekezdése a 28/2023. (VIII. 10.) BM rendelet 20. §-ával megállapított szöveg.
+[^22]: A 11. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^23]: A 11. § (1) bekezdése az 5/2022. (I. 28.) EMMI rendelet 2. § b) pontja, az 53/2022. (XII. 27.) BM rendelet 1. §-a, 28/2023. (VIII. 10.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^24]: A 11. § (2) bekezdése az 53/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^25]: A 11. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 21. §-ával megállapított szöveg.
+[^26]: A 11. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 23. § b) pontja szerint módosított szöveg.
+[^27]: A 12. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^28]: A 12. § (1) bekezdése az 53/2022. (XII. 27.) BM rendelet 1. §-a, a 28/2023. (VIII. 10.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^29]: A 12. § (2) bekezdése a 28/2023. (VIII. 10.) BM rendelet 22. §-ával megállapított szöveg.
+[^31]: A 14. § (2) bekezdését az 5/2022. (I. 28.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
+[^32]: A 14. § (3) bekezdését az 53/2009. (XII. 30.) EüM rendelet 2. §-a iktatta be.
+[^33]: A 14. § (4) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 38. §-a iktatta be, szövege a 21/2021. (VI. 8.) EMMI rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^34]: A 14. § (4) bekezdés d) pontját a 21/2021. (VI. 8.) EMMI rendelet 7. § (5) bekezdése iktatta be.
+[^35]: A 14. § (4) bekezdés e) pontját a 17/2022. (IV. 29.) EMMI rendelet 2. §-a iktatta be.
+[^36]: Az 1. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 40. § b) pontja hatályon kívül helyezte.
+[^37]: A 2. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^38]: A 3. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A 4. számú mellékletet az 5/2022. (I. 28.) EMMI rendelet 3. § d) pontja hatályon kívül helyezte.

@@ -1,0 +1,384 @@
+---
+title: "15/2017. (X. 20.) HM rendelet a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól"
+identifier: "15/2017. (X. 20.) HM rendelet"
+njt_id: "2017-15-20-15"
+eli: "https://njt.jog.gov.hu/eli/R/2017/HM/15"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2017-10-20
+in_force_from: 2017-10-28
+last_amended: 2017-10-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-15-20-15"
+retrieved: 2026-10-12
+---
+
+# 15/2017. (X. 20.) HM rendelet a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól
+
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket rendelem el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya
+
+a) a Honvédelmi Minisztériumra (a továbbiakban: HM), a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezetekre, a Katonai Nemzetbiztonsági Szolgálatra, valamint a Magyar Honvédség (a továbbiakban: MH) katonai szervezeteire (a továbbiakban együtt: honvédelmi szervezet),
+
+b) a honvédelmi létesítményekre,
+
+c) a honvédelmi létesítmények területén tevékenységet végző gazdálkodó szervezetekre,
+
+d) a honvédelmi szervezetek vagyonkezelésében lévő technikai eszközökre és
+
+e) a honvédelmi létesítmények területén tartózkodó természetes személyekre
+
+terjed ki.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+a) *fokozott tűzveszéllyel járó tevékenység:* azon tevékenységek összessége, amelyek végzése a környezetre közvetlen tűzveszélyt nem jelent, azonban végzésük során több egyedi körülmény kedvezőtlen egyidejű fennállása esetén a tűz keletkezésének közvetlen veszélye kialakulhat,
+
+b) *honvédelmi létesítmény:* a honvédelmi célból állandó vagy ideiglenes jelleggel üzemeltetett építmények, önálló rendeltetési egységek, helyiségek és szabadterek,
+
+c) *honvédségi létesítményi tűzoltóság:* egyes honvédelmi szervezetek által állandó vagy ideiglenes jelleggel fenntartott létesítményi tűzoltóság,
+
+d) *katonai rendeltetésű építmény:* olyan, katonai feladatok ellátására létesült építmény, amelyre katonai jellege miatt az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelettől (a továbbiakban: OTSZ) eltérő tűzvédelmi előírások vonatkozhatnak,
+
+e) *katonai védett létesítmény:* az a honvédelmi létesítmény, amelynél a tűzoltási feladat eltérő a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvényben (a továbbiakban: Ttv.) foglaltaktól, és a honvédelmi létesítmény, valamint az információk védelmének megőrzése elsőbbséget élvez a tűzoltói beavatkozással szemben,
+
+f) *központi gyakorlóteret üzemeltető szervezet:* az alaprendeltetés szerint más honvédelmi szervezetek lövészetei, gyakorlatai és kiképzési rendezvényei végrehajtásának támogatására, a szükséges gyakorlóterek üzemeltetésére létrehozott honvédelmi szervezet,
+
+g) *tűzeseti adatgyűjtő lap:* a tűzoltási feladatok végrehajtása során gyűjtött, a tűzvizsgálati eljárás szempontjából jelentőséggel bíró adatok rögzítésére szolgáló dokumentum,
+
+h) *tűzoltóság:* a Ttv. 4. § *n)–q)* pontja szerinti szervezet,
+
+i) *tűzvédelmi hatóság:* a HM tűzvédelmi hatósági és szakirányítói döntés-előkészítési tevékenységet végző szervezete,
+
+j) *tűzvédelmi szakállomány:* a tűzvédelmi hatósági feladatok ellátására vagy a tűzvédelmi feladatok tervezésére, szervezésére, irányítására és ellenőrzésére feljogosított és kötelezett személyek, akik e feladatokat azok ellátására rendszeresített beosztásban vagy munkakörben (a továbbiakban együtt: beosztás), megbízási szerződés vagy kijelölés alapján látják el,
+
+k) *vezető ügyeleti szolgálat:* a honvédelmi létesítmény vagy a honvédelmi szervezet azon állandó jelleggel működő ügyeleti rendszerű szolgálata, amely intézkedési jogkörrel rendelkezik a honvédelmi létesítményben vagy a honvédelmi szervezetnél működő többi ügyeleti és készenléti rendszerű szolgálat felett.
+
+## 2. A honvédelmi létesítmények tűzvédelme
+
+### 3. §
+
+(1) A honvédelmi létesítmények tűzvédelméhez kapcsolódó feladatok és tevékenységek végrehajtásáért, megszervezéséért, felügyeletéért, a veszélyhelyzetek megelőzése és elhárítása feltételeinek biztosítottságáért a laktanya- vagy objektumparancsnok felelős.
+
+(2) A laktanya- vagy objektumparancsnok az (1) bekezdés szerinti feladatait
+
+a) a HM és
+
+b) az MH középszintű vezető szerve
+
+honvédségi létesítményei esetében az üzemeltető MH katonai szervezet útján látja el.
+
+## 3. A katonai rendeletetésű építmények létesítésére vonatkozó különös szabályok
+
+### 4. §
+
+(1) A katonai rendeltetésű építményeket a vonatkozó építésügyi és tűzvédelmi előírások, az e rendeletben meghatározott honvédségi tűzvédelmi előírások, a belső szabályozókban, valamint NATO-előírásokban foglalt szabályok figyelembevételével kell létesíteni.
+
+(2) A katonai rendeltetésű építmények, építményrészek kockázati osztályát a 1. mellékletben foglaltak alapján kell meghatározni.
+
+(3) A vonatkozó honvédségi tűzvédelmi előírások és NATO-előírások figyelembevételével kell létesíteni
+
+a) a katonai robbanó-, robbantó-, lőszer- és pirotechnikaianyag-tároló építményeket, bázisokat,
+
+b) a lőszerszerelő, -javító és -bevizsgáló építményeket,
+
+c) a katonai lő- és gyakorlótereket,
+
+d) a katonai repülőtereket és helikopterbázisokat,
+
+e) a katonai védett létesítményeket,
+
+f) a katonai üzemanyag-telephelyeket és -bázisokat,
+
+g) az *a), b)* és *f)* pont hatálya alá nem tartozó harcanyagraktárakat és tárolólétesítményeket, valamint
+
+h) az állandó vagy ideiglenes katonai táborokat.
+
+## 4. A használatra vonatkozó különös szabályok
+
+### 5. §
+
+(1) A honvédelmi kiképzési feladatok végrehajtása során a lőszerekkel, a katonai robbanó-, robbantó-, valamint a pirotechnikai és imitációs anyagok felhasználásával végzett tevékenység fokozott tűzveszéllyel járó tevékenységnek minősül.
+
+(2) Az MH lő- és gyakorlótereinek a jóváhagyott lőtérhasználati utasításban kijelölt területei, továbbá a honvédelmi szervezetek parancsnokai által a honvédelmi létesítményen belül katonai robbanó-, robbantó-, pirotechnikai és imitációs anyagok felhasználására meghatározott területei az (1) bekezdésben meghatározott tevékenységek végzésére kijelölt területek.
+
+(3) A katonai robbanó- és robbantóanyagok központi tárolását, készletezését végzők ez irányú feladataikat a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szakvizsga birtokában végezhetik.
+
+## 5. Tűzjelzés, a tűzeset jelentése
+
+### 6. §
+
+(1) Aki honvédelmi létesítményben vagy annak közvetlen közelében tüzet vagy annak veszélyét észleli, köteles azt haladéktalanul jelezni a honvédelmi létesítmény védelmére szervezett honvédségi létesítményi tűzoltóságnak, a Ttv. 5. § (1) bekezdése szerinti jelzésfogadónak, valamint az érintett honvédelmi létesítmény vezető ügyeleti szolgálatának vagy az azzal azonos feladatkörű őrszolgálatnak, ügyeleti vagy rendészeti szolgálatnak.
+
+(2) Tűz esetén az (1) bekezdés szerinti vezető ügyeleti szolgálat vagy az azzal azonos feladatkörű őrszolgálat, ügyeleti vagy rendészeti szolgálat
+
+a) meggyőződik a honvédségi létesítményi tűzoltóság vagy a tűzoltóság riasztásának megtörténtéről, és szükség esetén végrehajtja a riasztást,
+
+b) intézkedik a tűzoltóságnak és a kárelhárításban közreműködő szervezeteknek a honvédelmi létesítménybe történő beléptetésére és a kárhelyszínre történő irányítására, és
+
+c) a 2. melléklet szerinti adattartalmú nyomtatványon, az elöljáró ügyeleti szolgálat útján, ennek hiányában közvetlenül az MH Központi Ügyeleten keresztül, haladéktalanul tájékoztatja a tűzvédelmi hatóság tűzvizsgálati feladatokat ellátó készenléti rendszerű szolgálatát.
+
+## 6. Tűzoltás, műszaki mentés
+
+### 7. §
+
+(1) Műszaki mentési tevékenységet az MH speciálisan felkészített alegysége is elláthat.
+
+(2) A műszaki mentési tevékenység ellátására igénybe vehető honvédségi műszaki mentési szervezeteket, azok riasztásának módját a laktanya- vagy objektumparancsnok által jóváhagyott, a vezető ügyeleti szolgálatnál elhelyezett Objektumszintű Tűzvédelmi Szabályzat (a továbbiakban: Tűzvédelmi Szabályzat) mellékletében kell rögzíteni.
+
+(3) A káresemények felszámolásába bevonható honvédségi műszaki mentési szervezetek személyi állományát el kell látni a feladat-végrehajtáshoz szükséges védőfelszerelésekkel.
+
+(4) Tűzoltásvezető, műszakimentés-vezető, kárhelyszínparancsnok az MH állományából az ügyeletes tűzoltó szolgálat váltásparancsnoka, az (1) bekezdés szerinti alegység parancsnoka, a honvédségi létesítményi tűzoltóság parancsnoka, a hivatásos tűzoltóság állományából pedig tűzoltásvezetői jogkörrel rendelkező tűzoltó lehet.
+
+(5) Káresemény felszámolása során a műszaki mentési szervezet közvetlenül a (4) bekezdés szerinti tűzoltásvezetőnek, műszakimentés-vezetőnek vagy kárhelyszínparancsnoknak van alárendelve.
+
+(6) A honvédelmi létesítmények területén bekövetkezett káresemények felszámolásában a hivatásos tűzoltóság tűzoltásvezetője a kiérkezést követően jogosult átvenni a tűzoltás irányítását a (4) bekezdés szerinti tűzoltásvezetőtől, műszakimentés-vezetőtől vagy kárhelyszínparancsnoktól.
+
+(7) Vészhelyzeti Információs Kézikönyvet (a továbbiakban: kézikönyv) kell készíteni az állami légijárművek tűzoltással és műszaki mentéssel kapcsolatos ismereteiről. A kézikönyvben megjelenítendő repülőeszközök típuslistájának, valamint a kézikönyv tartalmi követelményeinek meghatározása, a kézikönyv összeállítása, kiadása és annak folyamatos aktualizálása az MH középszintű vezető szervének feladata. Az MH középszintű vezető szerve a kézikönyv kiadását, valamint a kézikönyv módosításának kiadását megelőzően azok tervezetét véleményezés céljából megküldi a tűzvédelmi hatóság részére.
+
+(8) Az állami repülések céljára szolgáló repülőterek készenléti tűzoltó szolgálata köteles vonulni a repülőtér nyolc kilométeres körzetében bekövetkező légijármű-baleset esetén.
+
+(9) A tűzoltás és a műszaki mentés során biztosítani kell a katonai adatok és információk védelmét.
+
+## 7. Tűzvizsgálat
+
+### 8. §
+
+(1) Azon tűzeseteknél, ahol a tűzesetek vizsgálatára vonatkozó szabályokról szóló miniszteri rendeletben meghatározott előírások alapján hivatalból tűzvizsgálati eljárás indul, a tűzoltás vezetője a tűzoltás befejezését követően tűzeseti adatgyűjtő lapon rögzíti az eseménnyel kapcsolatos elsődleges információkat. A tűzeseti adatgyűjtő lap kötelező tartalmi elemeit a 3. melléklet tartalmazza.
+
+(2) A tűzoltás vezetője a tűzeseti adatgyűjtő lapot megküldi a tűzvédelmi hatóság részére.
+
+(3) A tűzoltás befejezését követően a tűzvizsgálat végrehajtására vonatkozó hatósági intézkedés meghozataláig a laktanya- vagy objektumparancsnok köteles gondoskodni a tűzeset helyszínének változatlan formában történő megőrzéséről és a tűzvizsgálat lefolytatásához szükséges hatósági cselekmények lehetővé tételéről.
+
+## 8. Tűzvédelmi szakállomány
+
+### 9. §
+
+A tűzvédelmi feladatok ellátása érdekében tűzvédelmi szakállományként
+
+a) a tűzvédelmi hatóságnál legalább nyolc fő,
+
+b) az MH középszintű vezető szervénél legalább kettő fő,
+
+c) a létesítési eljárások során, továbbá a honvédelmi és katonai célú építmények üzemeltetésével, fenntartásával összefüggő tűzvédelmi követelmények érvényesítésével kapcsolatos feladatok végzésére a HM védelemgazdasági feladatokat ellátó szervénél legalább egy fő, valamint
+
+d) az MH központi logisztikai szervezeténél legalább kettő fő,
+
+felsőszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni.
+
+### 10. §
+
+(1) A honvédelmi létesítménnyel kapcsolatos tűzvédelmi szakfeladatok ellátása érdekében legalább egy fő, felsőszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban
+
+a) a robbanásveszélyes, illetve az OTSZ szerint tűzveszélyes osztályba tartozó anyagok raktározását tárintézetként végző honvédelmi szervezetnél,
+
+b) az állami repülések céljára szolgáló repülőtereken,
+
+c) az MH légi irányítási feladatot ellátó védett honvédelmi létesítményében, valamint
+
+d) a nemzetközi gyakorlatok és lövészetek végrehajtására alkalmas lőteret üzemeltető honvédelmi szervezetnél.
+
+(2) A honvédelmi létesítménnyel kapcsolatos tűzvédelmi követelmények érvényesítése érdekében, az (1) bekezdésben meghatározottakon felül, legalább egy fő, középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban a honvédelmi létesítményben laktanya- vagy objektumparancsnoki feladatokat ellátó honvédelmi szervezetnél.
+
+(3) A (2) bekezdésben meghatározottakon felül további egy fő, legalább középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban az egynél több honvédelmi létesítményben laktanya- vagy objektumparancsnoki feladatokat vagy az ezzel kapcsolatos tűzvédelmi feladatokat a 3. § (2) bekezdése alapján ellátó honvédelmi szervezetnél.
+
+(4) A (2) és (3) bekezdésben meghatározottakon felül további egy fő, legalább középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban az ötnél több honvédelmi létesítményben laktanya- vagy objektumparancsnoki feladatokat vagy az ezzel kapcsolatos tűzvédelmi feladatokat a 3. § (2) bekezdése alapján ellátó honvédelmi szervezetnél.
+
+(5) A (3) és (4) bekezdés szerinti tűzvédelmi szakállomány-szükséglet meghatározásába nem számítanak bele a honvédelmi szervezetek 11. § (1) és (2) bekezdése szerinti honvédelmi létesítményei.
+
+### 11. §
+
+(1) A robbanásveszélyes, illetve az OTSZ szerint tűzveszélyes osztályba tartozó anyagok raktározását tárintézetként végző honvédelmi szervezet különálló honvédelmi létesítményében a honvédelmi létesítménnyel kapcsolatos tűzvédelmi követelmények érvényesítése érdekében a 10. § (1)–(4) bekezdésében meghatározottakon felül legalább egy fő, legalább középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban, aki egyben a honvédségi létesítményi tűzoltóság parancsnoka is lehet.
+
+(2) A központi gyakorlóteret üzemeltető szervezet kiképzőbázisain a honvédelmi létesítménnyel kapcsolatos tűzvédelmi követelmények érvényesítése érdekében a 10. § (1)–(4) bekezdésében meghatározottakon felül legalább egy-egy fő, legalább középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell foglalkoztatni a feladat ellátására rendszeresített beosztásban, aki egyben a honvédségi létesítményi tűzoltóság parancsnoka is lehet.
+
+### 12. §
+
+(1) Az intézményi tűzvédelmi feladatok ellátása megbízási szerződéssel is biztosítható az átmenetileg megüresedett beosztás betöltéséig, de legfeljebb egy év időtartamig.
+
+(2) A 9–11. § hatálya alá nem tartozó, önálló honvédelmi létesítménnyel nem rendelkező honvédelmi szervezetnél a honvédelmi szervezetet érintő tűzvédelmi feladatok végzése érdekében legalább egy fő, tűzvédelmi ismeretekkel rendelkező személyt kell kijelölni.
+
+(3) A legalább zászlóaljszintű gyakorlatok, ideiglenes táborok, honvédelmi létesítményen kívüli tevékenységek tűzvédelmének megszervezésére legalább egy fő, középszintű tűzvédelmi szakképesítéssel rendelkező személyt kell kijelölni a feladattal érintett honvédelmi szervezet állományából.
+
+## 9. Tűzvédelmi szabályzat
+
+### 13. §
+
+(1) Tűzvédelmi Szabályzatot kell készíteni
+
+a) a honvédelmi létesítményekre és
+
+b) a száz főt meghaladó létszámú, öt napnál hosszabb ideig működő katonai táborokra.
+
+(2) A Tűzvédelmi Szabályzatot az (1) bekezdés *a)* pontja szerinti esetben a laktanya- vagy objektumparancsnok, az (1) bekezdés *b)* pontja szerinti esetben a táborparancsnoki feladatokat ellátó honvédelmi szervezet parancsnoka vagy vezetője adja ki.
+
+(3) Az (1) bekezdés *a)* pontja szerinti esetben a honvédelmi létesítményben elhelyezett honvédelmi szervezetek és gazdálkodó szervezetek a honvédelmi létesítmény Tűzvédelmi Szabályzatának készítője részére saját tevékenységük vonatkozásában adatot szolgáltatnak.
+
+(4) A Tűzvédelmi Szabályzat mellékleteként, a tűzvédelmi szabályzat készítéséről szóló miniszteri rendelet rendelkezésein felül, Tűzriadó Tervet kell készíteni
+
+a) a felszín alatti honvédelmi létesítményekre,
+
+b) a gép- és harcjárműtelephelyekre,
+
+c) a zárt körletekre,
+
+d) az ügyviteli helyiségekre,
+
+e) a katonai légijárműhangárokra, valamint
+
+f) a katonai táborokra.
+
+(5) A katonai védett létesítményekben tűzoltási, műszaki mentési tevékenységet végző honvédségi személyi állomány, illetve hivatásos tűzoltósági személyi állomány részére a Tűzvédelmi Szabályzat mellékleteként Beavatkozási Tervet kell készíteni. A Beavatkozási Tervben szerepeltetni kell az elzárt területtel kapcsolatos alapinformációkat, továbbá a katonai védett létesítmény sajátosságaiból adódó eltérő beavatkozási módokat, különösen
+
+a) a belépési jogosultságot és a beléptetés rendjét káresemény esetén,
+
+b) a megfelelő jogosultság nélkül belépési tilalom alatt álló területeket,
+
+c) a veszélyes anyagok jelenlétét,
+
+d) a tűzoltási tilalommal érintett területeket,
+
+e) a tűzvédelmi eszközök helymegjelölését, valamint
+
+f) az ajánlott tűzoltási módokat.
+
+(6) A Beavatkozási Tervet mindig hozzáférhető helyen kell tartani, valamint a tűzoltóságok és az MH tűzvédelmi szerveinek együttműködési rendjéről szóló miniszteri rendeletben meghatározott helyismereti foglalkozások során a beavatkozó állománnyal meg kell ismertetni, tűz esetén a tűzoltásra érkezett erők parancsnokának a beavatkozás megkezdése előtt a rendelkezésére kell bocsátani.
+
+## 10. Az MH tűzoltó szervezeteire vonatkozó szabályok
+
+### 14. §
+
+(1) Főfoglalkozású honvédségi létesítményi tűzoltóságot kell szervezni
+
+a) az állami repülések céljára szolgáló repülőtereken, a vonatkozó NATO-előírásoknak megfelelő eszközökkel és erőkkel,
+
+b) az MH légi irányítási feladatot ellátó védett létesítményében,
+
+c) a központi gyakorlóteret üzemeltető szervezet kiképzőbázisain, valamint
+
+d) a lőszer, robbanóanyag és üzemanyag központi raktározását tárintézetként 5000 kg vagy 5000 liter összesített mennyiséget meghaladó mértékben végző MH létesítményekben.
+
+(2) Alkalomszerűen igénybe vehető honvédségi létesítményi tűzoltóságot kell szervezni
+
+a) a külföldön települt magyar táborokban vagy a többnemzetiségű táborban a magyar kontingens állományából, ha a magyar fél vállalta a tűzoltási szervezet létrehozását,
+
+b) az MH azon, az (1) bekezdés *c)* pont hatálya alá nem tartozó lőterein, amelyek alkalmasak harcjárműfedélzeti, páncéltörő vagy tüzérségi fegyverekkel végrehajtott éleslövészetekre, a feladat végrehajtásához szükséges felszereléssel, a lőteret üzemeltető honvédelmi szervezet állományából, valamint
+
+c) ahol azt a tűzvédelmi hatóság előírja, a tűzvédelmi hatóság által meghatározott erőkkel és eszközökkel.
+
+## 11. Záró rendelkezések
+
+### 15. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+### 16. §
+
+E rendelet hatálybalépését követő kilencven napon belül a hatáskörrel rendelkező honvédelmi szervezet vezetője felülvizsgálja a honvédelmi szervezet állománytábláját vagy munkaköri jegyzékét, és ha a tűzvédelmi szakállomány létszáma nem felel meg a 8. alcímben meghatározott rendelkezéseknek, kezdeményezi az állománytábla vagy a munkaköri jegyzék módosítását.
+
+### 17. §[^1]
+
+## 1. melléklet a 15/2017. (X. 20.) HM rendelethez
+
+**Katonai rendeltetésű építmények, építményrészek kockázati osztályai**
+
+|  | A | B | C |
+|---|---|---|---|
+| 1. | A kockázati egység megnevezése | A rendeltetés jellemzői | A kockázati egység kockázati osztálya |
+| 2. | Robbanóanyag-, pirotechnikaianyag-raktár | Robbanóanyagok, oxidálószert anyagukban tartalmazó, robbanásveszélyes osztályba tartozó anyagok tárolása 300 kg maximális befogadóképesség felett | Magas Kockázat (a továbbiakban: MK) |
+| 3. | Robbanóanyag-, pirotechnikaianyag-raktár | Robbanóanyagok, oxidálószert anyagukban tartalmazó, robbanásveszélyes osztályba tartozó anyagok tárolása 300 kg maximális befogadóképességig | Közepes Kockázat (a továbbiakban: KK) |
+| 4. | Imitációsanyag-raktár | Oxidálószert anyagukban tartalmazó, tűzveszélyes anyagok tárolása 300 kg maximális befogadóképesség felett | KK |
+| 5. | Imitációsanyag-raktár | Oxidálószert anyagukban tartalmazó, tűzveszélyes anyagok tárolása 300 kg maximális befogadóképességig | Alacsony Kockázat (a továbbiakban: AK) |
+| 6. | Tüzérségi- és rakétalőszer- raktár* | Tüzérségi és rakétalőszerek raktározása 300 kg maximális befogadóképesség felett | MK |
+| 7. | Tüzérségi- és rakétalőszer- raktár* | Tüzérségi és rakétalőszerek raktározása 300 kg maximális befogadóképességig | KK |
+| 8. | Gyalogságilőszer-raktár (40 mm-ig)* | Lőszerek raktározása 300 kg maximális befogadóképesség felett | KK |
+| 9. | Gyalogságilőszer-raktár (40 mm-ig)* | Lőszerek raktározása 300 kg maximális befogadóképességig | AK |
+| 10. | Fegyverszoba | Fegyverek és lőszerek tárolása, a lőszerek tárolása páncélszekrényben történik, és a tárolt lőszerek maximális mennyisége nem haladja meg a 100 kg-ot | AK |
+| 11. | Vegyivédelmi anyagraktár | Vegyi mentesítő anyagok tárolása 300 kg befogadóképesség felett | KK |
+| 12. | Vegyivédelmi anyagraktár | Vegyi mentesítő anyagok tárolása 300 kg befogadóképességig | AK |
+| 13. | Lőszerbevizsgáló, -megsemmisítő üzem | Lőszerek szétszerelése, vizsgálata, megsemmisítése | MK |
+| 14. | Rakéta-, lőszer-előkészítő állomás | Rakétafegyverzet és más osztottan tárolt lőszerek előkészítése, összeszerelése | MK |
+| 15. | Oxigéntöltő állomás | Oxigénüzemű berendezések, készülékek feltöltése | AK |
+| 16. | Kémiai laboratórium | Kémiai anyagok vizsgálata | KK |
+| 17. | Üzemanyag-laboratórium | Üzemanyagok vizsgálata | AK |
+| 18. | Légijármű-javító hangár | Katonai légijárművek technikai vizsgálata, javítása, ellenőrzése | KK |
+| 19. | Állandó jellegű harcálláspont | Felszín feletti | AK |
+| 20. | Állandó jellegű harcálláspont | Felszín alatti | KK |
+| 21. | Katonai védett létesítmény | Minősített adatok feldolgozása és tárolása, honvédelmi érdekekből a tűzoltóság beavatkozása nem lehetséges | KK |
+| 22. | Szimulátorterem | Kiképzési, oktatási tevékenység végzése elektronikus eszközök által szimulált körülmények között | Nagyon Alacsony Kockázat |
+
+\* Tényleges robbanó- és éghetőanyag-tartalom
+
+## 2. melléklet a 15/2017. (X. 20.) HM rendelethez
+
+**A tűzesetről szóló jelentés adattartalma**
+
+1\. a kárt szenvedett honvédelmi szervezet megnevezése, állomáshelye
+
+2\. a tűz keletkezésének helye
+
+3\. a tűzeset észlelésének – jelzésének – időpontja
+
+4\. a tűzriadó elrendelésének időpontja
+
+5\. a tűzoltóság értesítésének időpontja
+
+6\. a tűz eloltásának időpontja
+
+7\. a beavatkozó tűzoltóság elérhetősége (a tűzoltásvezető neve, rendfokozata)
+
+8\. a tűzeset legmagasabb minősített fokozata a tűzoltásvezető nyilatkozata alapján
+
+9\. a tűzeset rövid leírása
+
+10\. a tűzeset következményei (személyi sérülés, haláleset)
+
+11\. bűncselekményre utaló körülmény a tűzesettel kapcsolatban, a rendőrség, katonai ügyész értesítésének időpontja
+
+12\. kárérték
+
+13\. a tűzeset során tett egyéb intézkedések megnevezése
+
+14\. a jelentést adó megnevezése, rendfokozata, beosztása és elérhetősége
+
+15\. a jelentést vevő megnevezése, rendfokozata, beosztása és elérhetősége
+
+## 3. melléklet a 15/2017. (X. 20.) HM rendelethez
+
+**A tűzeseti adatgyűjtő lap kötelező tartalmi elemei**
+
+1\. a tűzjelzés ideje
+
+2\. a tűzeset pontos helye
+
+3\. a tűzre utaló tények, adatok
+
+4\. a tűzeset jellege, kiterjedése
+
+5\. a tűzeset minősített riasztási fokozata
+
+6\. az eseménnyel kapcsolatos személyi sérülések mértéke, haláleset
+
+7\. az elhunyt, illetve sérült személyek adatai
+
+8\. a lehetséges tanúk adatai
+
+9\. bűncselekményre utaló jelek
+
+10\. átnézeti helyszínrajz a tűz által érintett területről, valamint annak környezetéről
+
+11\. a tűzoltásvezető elérhetősége
+
+12\. minden egyéb olyan információ, amely a tűz keletkezési helyének, idejének, okának megállapítása szempontjából jelentőséggel bír
+
+---
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

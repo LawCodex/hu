@@ -1,0 +1,811 @@
+---
+title: "37/2004. (IV. 26.) ESZCSM rendelet az étrend-kiegészítőkről"
+identifier: "37/2004. (IV. 26.) ESZCSM rendelet"
+njt_id: "2004-37-20-0M"
+eli: "https://njt.jog.gov.hu/eli/R/2004/ESZCSM/37"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2004-04-26
+in_force_from: 2008-06-13
+last_amended: 2026-02-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-37-20-0M"
+retrieved: 2026-10-12
+---
+
+# 37/2004. (IV. 26.) ESZCSM rendelet az étrend-kiegészítőkről
+
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-a (11) bekezdésének b) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
+
+## 1. §
+
+(1) E rendelet előírásait a Magyarországon forgalomba hozatalra szánt, élelmiszerként előállított és forgalmazott étrend-kiegészítőkre kell alkalmazni.
+
+(2) E rendelet előírásait nem kell alkalmazni a gyógyszernek nem minősülő gyógyhatású készítményekre, valamint a gyógyszerekre.
+
+## 2. §
+
+E rendelet alkalmazásában:
+
+a) *étrend-kiegészítő*: a hagyományos étrend kiegészítését szolgáló olyan élelmiszer, amely koncentrált formában tartalmaz tápanyagokat vagy egyéb táplálkozási vagy élettani hatással rendelkező anyagokat, egyenként vagy kombináltan; adagolt vagy adagolható formában kerül forgalomba (például kapszula, pasztilla, tabletta, port tartalmazó tasak, adagolható por, ampulla, csepegtetős üveg vagy más hasonló por-, illetve folyadékforma, amely alkalmas kis mennyiség adagolására).
+
+b) *tápanyag:*
+
+ba) a vitaminok, és
+
+bb) az ásványi anyagok.
+
+## 3. §
+
+(1)[^1] Magyarország területén csak az e rendelet előírásainak megfelelő étrend-kiegészítő hozható forgalomba.
+
+(2) Az étrend-kiegészítő csak előre csomagolt formában hozható kereskedelmi forgalomba a végső fogyasztó számára.
+
+## 4. §
+
+(1) Étrend-kiegészítő előállításához felhasználható vitaminokat és ásványi anyagokat az 1. számú melléklet, az egyes vitaminok és ásványi anyagok felhasználható formáit a 2. számú melléklet tartalmazza.
+
+(2) A 2. számú mellékletben felsorolt anyagok tisztasági követelményei tekintetében az ilyen anyagoknak az élelmiszerben történő felhasználására vonatkozó külön jogszabály rendelkezéseit kell figyelembe venni.
+
+(3) A 2. számú mellékletben felsorolt olyan anyag esetében, amelynek tisztasági követelményeit sem hazai jogszabály, sem európai közösségi előírás nem határozza meg, a nemzetközi testületek általánosan elfogadott javaslatait kell figyelembe venni.
+
+(4)–(5)[^2]
+
+## 5. §
+
+(1) Az étrend-kiegészítő gyártó által javasolt napi adagjában a vitaminok és ásványi anyagok legmagasabb mennyiségének megállapításához a következőket kell figyelembe venni:
+
+a) a vitamin, illetve az ásványi anyag biztonságos legfelső szintjét, amelyet az általánosan elfogadott tudományos adatokon alapuló tudományos kockázatbecsléssel kell megállapítani, figyelembe véve az egyes fogyasztói csoportok egyéni érzékenységét is,
+
+b) a vitamin és ásványi anyag egyéb élelmiszerekből származó bevitelét.
+
+(2) Az (1) bekezdés szerinti legmagasabb mennyiség megállapításához figyelembe kell venni a vitaminok és ásványi anyagok népesség számára ajánlott napi beviteli értékét is.
+
+(3)[^3] A tápérték jelölésben megadott vitaminnak, illetve ásványi anyagnak jelentős mennyiségben – a napi ajánlott bevitel legalább 15%-ában – kell jelen lennie az étrend-kiegészítő gyártó által javasolt napi adagjában.
+
+## 6. §
+
+(1) Az e rendelet előírásainak megfelelő termék ,,étrend-kiegészítő'' megnevezéssel hozható forgalomba.
+
+(2) Az étrend-kiegészítő jelölése, megjelenítése és reklámozása során tilos a terméknek betegséget megelőző vagy gyógyító hatást tulajdonítani, illetve ilyen tulajdonságra utalni.
+
+(3) Az élelmiszerek jelölésére vonatkozó általános szabályokon kívül az étrend-kiegészítő jelölésének az alábbiakat is tartalmaznia kell:
+
+a) a termék jellemző tápanyagcsoportjainak vagy összetevőinek nevét, vagy utalást a tápanyagok vagy összetevők jellegére;
+
+b) a napi ajánlott fogyasztási mennyiséget;
+
+c) figyelmeztetést, hogy a fogyasztó az ajánlott napi fogyasztási mennyiséget ne lépje túl;
+
+d) figyelemfelhívást, hogy az étrend-kiegészítő nem helyettesíti a vegyes étrendet;
+
+e) figyelmeztetést, hogy a terméket kisgyermek elől elzárva kell tartani.
+
+## 7. §
+
+Az étrend-kiegészítő jelölése, megjelenítése, reklámozása nem állíthatja vagy sugallhatja, hogy a változatos, kiegyensúlyozott étrend nem alkalmas a szükséges tápanyagok bevitelére.
+
+## 8. §
+
+(1)[^4] A termékben lévő tápanyagok, illetve táplálkozási vagy élettani hatással rendelkező anyagok mennyiségét a termék jelölésén számszerűen kell feltüntetni. A vitaminok és ásványi anyagok mennyiségét az 1. számú mellékletben előírt mértékegységekben kell megadni.
+
+(2) A termék jelölésén a tápanyagok és egyéb anyagok mennyiségét a termék javasolt napi adagjára vonatkoztatva kell megadni.
+
+(3) A jelölésen a vitaminokra és ásványi anyagokra vonatkozó információt a napi ajánlott beviteli mennyiség (RDA) százalékában is fel kell tüntetni. A felnőttekre vonatkozó napi referencia értékeket a Magyar Élelmiszerkönyv 1–1–90/496 számú előírása tartalmazza.
+
+## 9. §
+
+(1) A 8. (1) és (2) bekezdése szerinti értékeknek a gyártó által elvégzett vizsgálatokon alapuló átlagértékeknek kell lennie.
+
+(2) A vitaminok és ásványi anyagok 8. § (3) bekezdés szerinti, a referenciamennyiség százalékában kifejezett értéke grafikusan is megadható.
+
+## 10. §
+
+(1)[^5] Az étrend-kiegészítők hatékony hatósági ellenőrzése érdekében legkésőbb a termék első forgalomba hozatalakor a gyártó vagy az importőr köteles bejelenteni a készítményt a Nemzeti Népegészségügyi és Gyógyszerészeti Központhoz (a továbbiakban: NNGYK) a 4. számú melléklet szerinti adatok közlésével és a címke egyidejű megküldésével.
+
+(2)[^6] Amennyiben szükséges, az NNGYK a bejelentőtől a termékre vonatkozó további adatokat is kérhet.
+
+(3)[^7] Ha a termék az Európai Gazdasági Térség valamely tagállamában (a továbbiakban: tagállam) már forgalomban van, a gyártónak vagy az importőrnek az első bejelentéskor megadott információkat magyar vagy angol nyelven kell benyújtania az NNGYK-nak, és meg kell neveznie azt az intézményt, amelyhez az első bejelentést tették.
+
+(4) Az (1) bekezdés szerinti bejelentésért a külön jogszabály szerinti igazgatási szolgáltatási díjat kell fizetni.
+
+## 11. §
+
+Az étrend-kiegészítő forgalmazása az összetétellel, gyártási leírással, megjelenítéssel vagy jelöléssel kapcsolatos indokra hivatkozással nem tiltható vagy korlátozható, ha megfelel a jelen rendelet előírásainak.
+
+## 12. §[^8]
+
+(1)[^9] Az étrend-kiegészítők hatósági ellenőrzését feladatkörükben a népegészségügyi feladatokat ellátó fővárosi és vármegyei kormányhivatalok járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörükben eljáró vármegyei kormányhivatalok, valamint állat-egészségügyi és élelmiszer-ellenőrző feladatkörükben eljáró járási (fővárosi kerületi) hivatalok végzik.
+
+(2)[^10] Az előírások betartásának ellenőrzése érdekében vagy azok megsértése, illetve egészségi ártalom lehetőségének gyanúja esetén a laboratóriumi vizsgálatokat a népegészségügyi feladatkörükben eljáró vármegyei és fővárosi kormányhivatalok (a továbbiakban: kormányhivatal) laboratóriumai, az NNGYK, a Nemzeti Élelmiszerlánc-biztonsági Hivatal laboratóriumai, illetve étrend-kiegészítő vizsgálatára akkreditált laboratórium végzi.
+
+(3)[^11] A termék minőségi követelményeknek meg nem felelését észlelő személy, illetve az előállító vagy forgalmazó a tudomására jutást követően haladéktalanul köteles erről értesíteni a járási hivatalt.
+
+(4)[^12] A járási hivatal a (3) bekezdés szerinti bejelentést kivizsgálja és annak eredményéről gyorsjelentésben értesíti az NNGYK-t.
+
+## 13. §
+
+(1)[^13] A járási hivatal ideiglenesen felfüggesztheti vagy megtilthatja az étrend-kiegészítő forgalmazását, ha új információ eredményeként vagy a meglévő információk újraértékelése alapján megállapítást nyer, hogy az veszélyezteti a fogyasztó egészségét, abban az esetben is, ha az megfelel e rendelet előírásainak.
+
+(2)[^14] Az (1) bekezdés szerinti intézkedésről a járási hivatal haladéktalanul értesíti az NNGYK-t.
+
+(3)[^15] Az NNGYK az (1) bekezdés szerinti intézkedésről – az Európai Unió Bizottsága (a továbbiakban: Bizottság) és a tagállamok tájékoztatása érdekében – haladéktalanul értesíti a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, közölve az intézkedés okát.
+
+## 14. §
+
+(1) Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+
+(2)[^16] A 2022. szeptember 30. előtt forgalomba hozott vagy címkézett, e rendelet 2022. szeptember 29-én hatályos 1. számú melléklet 2.4. pontjának megfelelő étrend-kiegészítők a meglévő készletek kimerüléséig 2022. szeptember 30-át követően is forgalmazhatók.
+
+(3)–(5)[^17]
+
+(6)[^18] Ez a rendelet a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének bizonyos anyagok felvétele tekintetében történő módosításáról szóló 2006. március 30-i 2006/37/EK bizottsági irányelvvel, valamint a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/EK európai parlamenti és tanácsi rendeletnek az élelmiszerekhez, köztük az étrend-kiegészítőkhöz hozzáadható vitaminok és ásványi anyagok, valamint ezek formái listáinak tekintetében történő módosításáról szóló 2009. november 30-i 1170/2009/EK bizottsági rendelettel módosított, az étrend-kiegészítőkre vonatkozó tagállami jogszabályok közelítéséről szóló 2002. június 10-i 2002/46/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(7)[^19] Ez a rendelet
+
+a) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/EK európai parlamenti és tanácsi rendeletnek az élelmiszerekhez, köztük az étrend-kiegészítőkhöz hozzáadható vitaminok és ásványi anyagok, valamint ezek formái listáinak tekintetében történő módosításáról szóló 2009. november 30-i 1170/2009/EK bizottsági rendelet,
+
+b) a 2002/46/EK európai parlamenti és tanácsi irányelvnek, az 1925/2006/EK európai parlamenti és tanácsi rendeletnek, valamint a 953/2009/EK bizottsági rendeletnek az élelmiszerekhez hozzáadható ásványi anyagok jegyzéke tekintetében történő módosításáról szóló 2011. november 14-i 1161/2011/EU bizottsági rendelet 1. cikke,
+
+c) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/EK európai parlamenti és tanácsi rendeletnek az étrend-kiegészítők előállításához felhasználható krómmal dúsított élesztő és az élelmiszerekhez hozzáadható króm(III)-laktát-trihidrát tekintetében történő módosításáról szóló 2014. február 7-i 119/2014/EU bizottsági rendelet 1. cikke,
+
+d)[^20] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához felhasznált (6S)-5-metiltetrahidrofolsav, glükózamin só tekintetében történő módosításáról szóló, 2015. március 12-i 2015/414/EU bizottsági rendelet
+
+e)[^21] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt nikotinamid-ribozid-klorid és magnézium-citrát-malát tekintetében, valamint a réz esetében alkalmazott mértékegység tekintetében történő módosításáról szóló, 2021. március 9-i (EU) 2021/418 bizottsági rendelet
+
+f)[^22] a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az étrend-kiegészítők előállításához használt vas-hidroxid-adipát-tartrát tekintetében történő módosításáról szóló, 2024. január 16-i (EU) 2024/248 bizottsági rendelet,
+
+g)[^23] az 1925/2006/EK európai parlamenti és tanácsi rendelet II. mellékletének és a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az élelmiszerekhez hozzáadott és az étrend-kiegészítők előállításához használt vas-tejkazeinát tekintetében történő módosításáról szóló, 2024. június 25-i (EU) 2024/1821 bizottsági rendelet,
+
+h)[^24] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt kalcidiol-monohidrát tekintetében történő módosításáról szóló, 2025. február 21-i (EU) 2025/352 bizottsági rendelet
+
+i)[^25] az 1925/2006/EK európai parlamenti és tanácsi rendelet II. mellékletének és a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az élelmiszerekhez folsavforrásként hozzáadott és az étrend-kiegészítők előállításához folátforrásként használt L-5-metiltetrahidrofolsav mononátriumsója tekintetében történő módosításáról szóló, 2025. november 5-i (EU) 2025/2224 bizottsági rendelet és
+
+j)[^26] a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az étrend-kiegészítők előállításához magnéziumforrásként használt magnézium L-treonát tekintetében történő módosításáról szóló, 2025. november 5-i (EU) 2025/2225 bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^28]
+
+**Étrend-kiegészítők gyártásához felhasználható vitaminok és ásványi anyagok**
+
+1\. Vitaminok
+
+1.1. A-vitamin (RE μg)
+
+1.2. D-vitamin (μg)
+
+1.3. E-vitamin (α-TE mg)
+
+1.4. K-vitamin (μg)
+
+1.5. B<sub>1</sub>-vitamin (mg)
+
+1.6. B<sub>2</sub>-vitamin (mg)
+
+1.7. Niacin (NE mg)
+
+1.8. Pantoténsav (mg)
+
+1.9. B<sub>6</sub>-vitamin (mg)
+
+1.10. Folsav (μg)<sup>(1)</sup>
+
+1.11. B<sub>12</sub>-vitamin (μg)
+
+1.12. Biotin (μg)
+
+1.13. C-vitamin (mg)
+
+1.14. Megjegyzések
+
+1.14.1. <sup>(1)</sup> A folsav kifejezés alatt a folátok valamennyi formája értendő.
+
+2\. Ásványi anyagok
+
+2.1. Kalcium (mg)
+
+2.2. Magnézium (mg)
+
+2.3. Vas (mg)
+
+2.4. Réz (μg)
+
+2.5. Jód (μg)
+
+2.6. Cink (mg)
+
+2.7. Mangán (mg)
+
+2.8. Nátrium (mg)
+
+2.9. Kálium (mg)
+
+2.10. Szelén (μg)
+
+2.11. Króm (μg)
+
+2.12. Molibdén (μg)
+
+2.13. Fluorid (mg)
+
+2.14. Klorid (mg)
+
+2.15. Foszfor (mg)
+
+2.16. Bór (mg)
+
+2.17. Szilícium (mg)
+
+## 2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^29]
+
+**Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek**
+
+1\. Vitaminok
+
+1.1. A-vitamin
+
+1.1.1. retinol
+
+1.1.2. retinil-acetát
+
+1.1.3. retinil-palmitát
+
+1.1.4. béta-karotin
+
+1.2. D-vitamin
+
+1.2.1. kolekalciferol
+
+1.2.2. ergokalciferol
+
+1.2.3. kalcidiol-monohidrát
+
+1.3. E-vitamin
+
+1.3.1. D-alfa-tokoferol
+
+1.3.2. DL-alfa-tokoferol
+
+1.3.3. D-alfa-tokoferil-acetát
+
+1.3.4. DL-alfa-tokoferil-acetát
+
+1.3.5. D-alfa-tokoferilsav-szukcinát
+
+1.3.6. vegyes tokoferolok <sup>(1)</sup>
+
+1.3.7. tokotrienol-tokoferol <sup>(2)</sup>
+
+1.4. K-vitamin
+
+1.4.1. fillokinon (fitomenadion)
+
+1.4.2. menakinon <sup>(3)</sup>
+
+1.5. B<sup>1</sup>-vitamin
+
+1.5.1. tiamin-hidroklorid
+
+1.5.2. tiamin-mononitrát
+
+1.5.3. tiamin-monofoszfát-klorid
+
+1.5.4. tiamin-pirofoszfát-klorid
+
+1.6. B<sub>2</sub>-vitamin
+
+1.6.1. riboflavin
+
+1.6.2. riboflavin–5’-foszfát nátriumsója
+
+1.7. Niacin
+
+1.7.1. nikotinsav
+
+1.7.2. nikotinamid
+
+1.7.3. inozit-hexanikotinát (inozit-hexaniacinát)
+
+1.7.4. nikotinamid-ribozid-klorid
+
+1.8. Pantoténsav
+
+1.8.1. kalcium-D-pantotenát
+
+1.8.2. nátrium-D-pantotenát
+
+1.8.3. dexpantenol
+
+1.8.4. pantetin
+
+1.9. B<sub>6</sub>-vitamin
+
+1.9.1. piridoxin-hidroklorid
+
+1.9.2. piridoxin–5’-foszfát
+
+1.9.3. piridoxál–5’-foszfát
+
+1.10. Folát
+
+1.10.1. pteroilmonoglutaminsav
+
+1.10.2. kalcium-L-metil-folát
+
+1.10.3. (6S)-5-metiltetrahidrofolsav, glükozamin só
+
+1.10.4. L-5-metiltetrahidrofolsav mononátriumsója
+
+1.11. B<sub>12</sub>-vitamin
+
+1.11.1. cianokobalamin
+
+1.11.2. hidroxokobalamin
+
+1.11.3. 5’-deoxiadenozilkobalamin
+
+1.11.4. metilkobalamin
+
+1.12. Biotin
+
+1.12.1. D-biotin
+
+1.13. C-vitamin
+
+1.13.1. L-aszkorbinsav
+
+1.13.2. nátrium-L-aszkorbát
+
+1.13.3. kalcium-L-aszkorbát <sup>(4)</sup>
+
+1.13.4. kálium-L-aszkorbát
+
+1.13.5. L-aszkorbil–6-palmitát
+
+1.13.6. magnézium-L-aszkorbát
+
+1.13.7. cink-L-aszkorbát
+
+2\. Ásványi anyagok
+
+2.1. Kalcium
+
+2.1.1. kalcium-acetát
+
+2.1.2. kalcium-L-aszkorbát
+
+2.1.3. kalcium-biszglicinát
+
+2.1.4. kalcium-karbonát
+
+2.1.5. kalcium-klorid
+
+2.1.6. kalcium-citrát-malát
+
+2.1.7. kalcium citromsavval alkotott sói
+
+2.1.8. kalcium-glükonát
+
+2.1.9. kalcium-glicerofoszfát
+
+2.1.10. kalcium-laktát
+
+2.1.11. kalcium-piruvát
+
+2.1.12. kalcium ortofoszforsavval alkotott sói
+
+2.1.13. kalcium-szukcinát
+
+2.1.14. kalcium-hidroxid
+
+2.1.15. kalcium-L-lizinát
+
+2.1.16. kalcium-malát
+
+2.1.17. kalcium-oxid
+
+2.1.18. kalcium-L-pidolát
+
+2.1.19. kalcium-L-treonát
+
+2.1.20. kalcium-szulfát
+
+2.2. Magnézium
+
+2.2.1. magnézium-acetát
+
+2.2.2. magnézium-L-aszkorbát
+
+2.2.3. magnézium-biszglicinát
+
+2.2.4. magnézium-karbonát
+
+2.2.5. magnézium-klorid
+
+2.2.6. magnézium citromsavval alkotott sói
+
+2.2.7. magnézium-glükonát
+
+2.2.8. magnézium-glicerofoszfát
+
+2.2.9. magnézium ortofoszforsavval alkotott sói
+
+2.2.10. magnézium-laktát
+
+2.2.11. magnézium-L-lizinát
+
+2.2.12. magnézium-hidroxid
+
+2.2.13. magnézium-malát
+
+2.2.14. magnézium-oxid
+
+2.2.15. magnézium-L-pidolát
+
+2.2.16. magnézium-kálium-citrát
+
+2.2.17. magnézium-piruvát
+
+2.2.18. magnézium-szukcinát
+
+2.2.19. magnézium-szulfát
+
+2.2.20. magnézium-taurát
+
+2.2.21. magnézium-acetil-taurát
+
+2.2.22. magnézium-citrát-malát
+
+2.2.23. magnézium L-treonát
+
+2.3. Vas
+
+2.3.1. vas(II)-karbonát (ferro-karbonát)
+
+2.3.2. vas(II)-citrát (ferro-citrát)
+
+2.3.3. vas(III)-ammónium-citrát (ferri-ammónium-citrát)
+
+2.3.4. vas(II)-glükonát (ferro-glükonát)
+
+2.3.5. vas(II)-fumarát (ferro-fumarát)
+
+2.3.6. vas(III)-nátrium-difoszfát (ferri-nátrium-difoszfát)
+
+2.3.7. vas(II)-laktát (ferro-laktát)
+
+2.3.8. vas(II)-szulfát (ferro-szulfát)
+
+2.3.9. vas(III)-difoszfát [vas(III)-pirofoszfát, ferri-difoszfát]
+
+2.3.10. vas(III)-szaharát (ferri-szaharát)
+
+2.3.11. elemi vas (karbonil, elektrolitikus, hidrogénnel redukált)
+
+2.3.12. vas(II)-biszglicinát (ferro-biszglicinát)
+
+2.3.13. vas (II)-L-pidolát (ferro-L-pidolát)
+
+2.3.14. vas(II)-foszfát (ferro-foszfát)
+
+2.3.14.a. vas-ammónium-foszfát
+
+2.3.14.b vas-nátrium-EDTA
+
+2.3.14c. vas-hidroxid-adipát-tartrát (nano)
+
+2.3.14d. vas-tejkazeinát
+
+2.3.15. vas(II)-taurát (ferro-taurát)
+
+2.4. Réz
+
+2.4.1. réz(II)-karbonát (kupri-karbonát)
+
+2.4.2. réz(II)-citrát (kupri-citrát)
+
+2.4.3. réz(II)-glükonát (kupri-glükonát)
+
+2.4.4. réz(II)-szulfát (kupri-szulfát)
+
+2.4.5. réz-L-aszpartát
+
+2.4.6. réz-biszglicinát
+
+2.4.7. réz-lizin komplex
+
+2.4.8. réz(II)-oxid
+
+2.5. Jód
+
+2.5.1. nátrium-jodid
+
+2.5.2. nátrium-jodát
+
+2.5.3. kálium-jodid
+
+2.5.4. kálium-jodát
+
+2.6. Cink
+
+2.6.1. cink-acetát
+
+2.6.2. cink-L-aszkorbát
+
+2.6.3. cink-L-aszpartát
+
+2.6.4. cink-biszglicinát
+
+2.6.5. cink-klorid
+
+2.6.6. cink-citrát
+
+2.6.7. cink-glükonát
+
+2.6.8. cink-laktát
+
+2.6.9. cink-L-lizinát
+
+2.6.10. cink-malát
+
+2.6.11. cink-mono-L-metionin-szulfát
+
+2.6.12. cink-oxid
+
+2.6.13. cink-karbonát
+
+2.6.14. cink-L-pidolát
+
+2.6.15. cink-pikolinát
+
+2.6.16. cink-szulfát
+
+2.7. Mangán
+
+2.7.1. mangán-aszkorbát
+
+2.7.2. mangán-L-aszpartát
+
+2.7.3. mangán-biszglicinát
+
+2.7.4. mangán-karbonát
+
+2.7.5. mangán-klorid
+
+2.7.6. mangán-citrát
+
+2.7.7. mangán-glükonát
+
+2.7.8. mangán-glicerofoszfát
+
+2.7.9. mangán-pidolát
+
+2.7.10. mangán-szulfát
+
+2.8. Nátrium
+
+2.8.1. nátrium-bikarbonát (hidrogén-karbonát)
+
+2.8.2. nátrium-karbonát
+
+2.8.3. nátrium-klorid
+
+2.8.4. nátrium-citrát
+
+2.8.5. nátrium-glükonát
+
+2.8.6. nátrium-laktát
+
+2.8.7. nátrium-hidroxid
+
+2.8.8. nátrium ortofoszforsavval alkotott sói
+
+2.8.9. nátrium-szulfát
+
+2.9. Kálium
+
+2.9.a. kálium-szulfát
+
+2.9.1. kálium-bikarbonát (hidrogén-karbonát)
+
+2.9.2. kálium-karbonát
+
+2.9.3. kálium-klorid
+
+2.9.4. kálium-citrát
+
+2.9.5. kálium-glükonát
+
+2.9.6. kálium-glicerofoszfát
+
+2.9.7. kálium-laktát
+
+2.9.8. kálium-hidroxid
+
+2.9.9. kálium-L-pidolát
+
+2.9.10. kálium-malát
+
+2.9.11. kálium ortofoszforsavval alkotott sói
+
+2.10. Szelén
+
+2.10.1. L-szeleno-metionin
+
+2.10.2. szelénnel dúsított élesztő <sup>(5)</sup>
+
+2.10.3. szelénessav
+
+2.10.4. nátrium-szelenát
+
+2.10.5. nátrium-hidrogén-szelenit
+
+2.10.6. nátrium-szelenit
+
+2.11. Króm
+
+2.11.1. króm(III)-klorid
+
+2.11.2. króm(III)-laktát-trihidrát
+
+2.11.3. króm-nitrát
+
+2.11.4. króm(III)-pikolinát
+
+2.11.5. króm(III)-szulfát
+
+2.11.6. krómmal dúsított élesztő <sup>(7)</sup>
+
+2.12. Molibdén
+
+2.12.1. ammónium-molibdát (molibdén (VI))
+
+2.12.2. kálium-molibdát (molibdén (VI))
+
+2.12.3. nátrium-molibdát (molibdén (VI))
+
+2.13. Fluor
+
+2.13.1. kalcium-fluorid
+
+2.13.2. kálium-fluorid
+
+2.13.3. nátrium-fluorid
+
+2.13.4. nátrium-monofluor-foszfát
+
+2.14. Bór
+
+2.14.1. bórsav
+
+2.14.2. nátrium-borát (borax)
+
+2.15. Szilícium
+
+2.15.1. kolin-stabilizált ortokovasav
+
+2.15.2. szilícium-dioxid
+
+2.15.3. kovasav <sup>(6)</sup>
+
+3\. Megjegyzések
+
+3.1. <sup>(1)</sup> alfa-tokoferol < 20%, béta-tokoferol < 10%, gamma-tokoferol 50–70% és delta-tokoferol 10–30%
+
+3.2. <sup>(2)</sup> Az egyes tokoferolok és tokotrienolok jellemző szintjei:
+
+3.2.1. 115 mg/g alfa-tokoferol (101 mg/g minimum)
+
+3.2.2. 5 mg/g béta-tokoferol (< 1 mg/g minimum)
+
+3.2.3. 45 mg/g gamma-tokoferol (25 mg/g minimum)
+
+3.2.4. 12 mg/g delta-tokoferol (3 mg/g minimum)
+
+3.2.5. 67 mg/g alfa-tokotrienol (30 mg/g minimum)
+
+3.2.6. < 1mg/g béta-tokotrienol (< 1 mg/g minimum)
+
+3.2.7. 82 mg/g gamma-tokotrienol (45 mg/g minimum)
+
+3.2.8. 5 mg/g delta-tokotrienol (< 1 mg/g minimum)
+
+3.3. <sup>(3)</sup> A menakinon főként menakinon–7 formában fordul elő, és kismértékben menakinon–6 formában.
+
+3.4. <sup>(4)</sup> Legfeljebb 2% treonátot tartalmazhat.
+
+3.5. <sup>(5)</sup> Szelénnel dúsított élesztők, melyeket nátrium-szelenit – mint szelénforrás – jelenlétében tenyésztéssel állítanak elő és melyek szárított, forgalmazott formában legfeljebb 2,5 mg Se/g-ot tartalmaznak. A szelén-metionin az élesztőben előforduló domináns szerves szelénfajta (a termékben előforduló összes kivont szelén mennyiség 60–85%-a). Az egyéb szerves szelénvegyületek – beleértve a szelenociszteint – aránya nem haladhatja meg az összes kivont szelén mennyiségének 10%-át. A szervetlen szelén szintje normál esetben nem haladhatja meg az összes kivont szelén mennyiségének 1%-át.
+
+3.6. <sup>(6)</sup> Gél formájában.
+
+3.7. <sup>(7)</sup>Krómmal dúsított élesztő, melyet króm(III)-klorid – mint krómforrás – jelenlétében, *Saccharomyces cerevisiae* tenyészetben állítanak elő, és amely szárított, forgalmazott formában 230–300 mg/kg krómot tartalmaz. A króm(VI)-tartalom nem haladhatja meg a teljes krómtartalom 0,2%-át.
+
+## 3. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^30]
+
+## 4. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez
+
+**Adatlap étrend-kiegészítő bejelentéséhez**
+
+| 1. Bejelentő cég adatai | Mellékletek: |
+|---|---|
+
+Név:
+
+Cím:
+
+Telephely, elérhetőség:
+
+2\. Termék eredete
+
+Ország:
+
+Előállító neve:
+
+Előállító címe:
+
+Előállítás helye:
+
+Előállító elérhetősége:
+
+| igen |  | nem |
+|---|---|---|
+
+Nemleges válasz esetén az Európai Gazdasági Térség adott országának megnevezése:
+
+3\. Termék megnevezése:
+
+4\. Termék besorolása:
+
+| **Név** | **Aktív/hasznos rész** | **Mennyiség** |
+|---|---|---|
+|  |  |  |
+
+6\. Érzékszervi tulajdonságok:
+
+Megjelenés (szín, íz, illat, forma stb.)
+
+7\. Csomagolás, mennyiségi jellemzők:
+
+8\. Jelölés (mellékelve):
+
+9\. Az importáló nyilatkozata arról, hogy a termék a származási országban az ottani előírásoknak megfelelően van forgalomban (csak import esetén):
+
+|  | cégszerű aláírás és bélyegző |
+|---|---|
+
+## 5. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^31]
+
+---
+
+[^1]: A 3. § (1) bekezdése a 15/2012. (III. 12.) NEFMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 4. § (4)–(5) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: Az 5. § (3) bekezdése a 86/2004. (X. 1.) ESZCSM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 8. § (1) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (6) bekezdése szerint módosított szöveg.
+[^5]: A 10. § (1) bekezdése a 12/2008. (III. 26.) EüM rendelet 1. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 58. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^6]: A 10. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 58. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^7]: A 10. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 58. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § c) pontja szerint módosított szöveg.
+[^8]: A 12. § a 23/2015. (IV. 28.) EMMI rendelet 57. §-ával megállapított szöveg.
+[^9]: A 12. § (1) bekezdése az 53/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^10]: A 12. § (2) bekezdése az 53/2022. (XII. 27.) BM rendelet 2. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^11]: A 12. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 37. § a) pontja szerint módosított szöveg.
+[^12]: A 12. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 37. § b) és c) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § d) pontja szerint módosított szöveg.
+[^13]: A 13. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 58. § d) pontja szerint módosított szöveg.
+[^14]: A 13. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 58. § e) és f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 37. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § e) pontja szerint módosított szöveg.
+[^15]: A 13. § (3) bekezdése a 11/2013. (II. 7.) EMMI rendelet 27. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 58. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^16]: A 14. § (2) bekezdését újonnan a 34/2021. (VIII. 6.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^17]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
+[^18]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A 14. § (7) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2014. (IV. 18.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^20]: A 14. § (7) bekezdés d) pontját az 54/2015. (XI. 24.) EMMI rendelet 24. §-a iktatta be.
+[^21]: A 14. § (7) bekezdés e) pontját a 34/2021. (VIII. 6.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 14. § (7) bekezdés f) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^23]: A 14. § (7) bekezdés g) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^24]: A 14. § (7) bekezdés h) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^25]: A 14. § (7) bekezdés i) pontját a 3/2026. (II. 26.) BM rendelet 5. §-a iktatta be.
+[^26]: A 14. § (7) bekezdés j) pontját a 3/2026. (II. 26.) BM rendelet 5. §-a iktatta be.
+[^28]: Az 1. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (4) bekezdésével megállapított, a 34/2021. (VIII. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^29]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 25. §-a, a 34/2021. (VIII. 6.) EMMI rendelet 2. §-a, a 25/2025. (VII. 16.) BM rendelet 21. §-a, a 3/2026. (II. 26.) BM rendelet 6. §-a szerint módosított szöveg.
+[^30]: A 3. számú mellékletet a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^31]: Az 5–6. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.

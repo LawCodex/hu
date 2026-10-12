@@ -1,0 +1,198 @@
+---
+title: "65/1999. (XII. 22.) EüM rendelet a munkavállalók munkahelyen történő egyéni védőeszköz használatának minimális biztonsági és egészségvédelmi követelményeiről"
+identifier: "65/1999. (XII. 22.) EüM rendelet"
+njt_id: "1999-65-20-0B"
+eli: "https://njt.jog.gov.hu/eli/R/1999/EUM/65"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1999-12-22
+in_force_from: 2007-05-13
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-65-20-0B"
+retrieved: 2026-10-12
+---
+
+# 65/1999. (XII. 22.) EüM rendelet a munkavállalók munkahelyen történő egyéni védőeszköz használatának minimális biztonsági és egészségvédelmi követelményeiről
+
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 88. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a szociális és családügyi miniszterrel egyetértésben – az alábbiakat rendelem el:
+
+## 1. §
+
+A rendelet hatálya kiterjed az egyéni védőeszköz munkahelyen történő használatának biztonsági és egészségvédelmi követelményei tekintetében
+
+a) minden munkáltatóra, aki az Mvt. 87. §-ának 9. pontja szerinti szervezett munkavégzés (a továbbiakban: szervezett munkavégzés) keretében munkavállalót foglalkoztat,
+
+b) az *a)* pont szerinti munkáltató által foglalkoztatott – ideértve a közhasznú munka végzésére irányuló foglalkoztatást is – munkavállalóra.
+
+## 2. §
+
+(1) E rendelet alkalmazásában
+
+a) *egyéni védőeszköz*:
+
+aa) minden olyan eszköz, amelyet a munkavállaló azért visel vagy tart magánál, hogy az a munkavégzésből, a munkafolyamatból, illetve a technológiából eredő kockázatokat az egészséget nem veszélyeztető mértékűre csökkentse, továbbá
+
+ab) az eszköz bármely kiegészítése vagy egyéb segédeszköz, amelynek a feladata az *aa)* pont szerinti cél elérése
+
+[a továbbiakban *aa)* és *ab)* pontok együtt: védőeszköz];
+
+b) *expozíció:* a munkahelyen jelen lévő és a munkavállalót érő kóroki tényezők mennyiségi meghatározása (az expozíciós koncentráció és az expozíciós idő szorzata).
+
+c)[^1] *gyártó:* az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívüli helyezéséről szóló, 2016. március 9-i (EU) 2016/425 európai parlamenti és tanácsi rendelet (a továbbiakban: 425/2016 EU rendelet) 3. cikk 4. pontjában meghatározott fogalom;
+
+d)[^2] *kijelölt vagy bejelentett szervezet:* a 425/2016 EU rendelet szerint bejelentett megfelelőségértékelő szervezet.
+
+(2) Nem minősül védőeszköznek:
+
+a) a közönséges munkaruha és az olyan egyenruha, illetve formaruha, amelyet nem a munkavállaló biztonságának és egészségének védelmére terveztek, illetve vizsgáltak;
+
+b) az egészségügyről szóló 1997. évi CLIV. törvény szerinti mentést és betegszállítást végző mentőszolgálatok által használt felszerelések;
+
+c)[^3] a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek, valamint az Országgyűlési Őrség által viselt vagy használt védőeszköz
+
+d) a közúti közlekedési eszközökön alkalmazott védőeszköz és védőfelszerelés;
+
+e) a sportfelszerelés és sporteszköz;
+
+f) az önvédelem vagy elrettentés célját szolgáló felszerelés és eszköz;
+
+g) a veszélyek és ártalmak felderítésére és jelzésére szolgáló hordozható készülékek.
+
+## 3. §
+
+(1)[^4] Ha megelőző műszaki, illetve szervezési intézkedésekkel az egészséget nem veszélyeztető és biztonságos munkavégzés nem valósítható meg, a kockázatok egészséget nem veszélyeztető mértékűre csökkentése érdekében a munkáltató a munkavállalókat a kockázatokkal szemben védelmet nyújtó védőeszközzel látja el, és ellenőrzi azok rendeltetésszerű használatát. A gyakori kockázatok felsorolását tartalmazó tájékoztatót a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) honlapján közzéteszi.
+
+(2) A kockázatbecsléshez, valamint a hatékony védelmet nyújtó védőeszköz kiválasztásához, a védőeszköz-használat szabályainak megállapításához a munkáltató szükség esetén szakértőt vesz igénybe.
+
+(3) A kockázatbecslésre, a védőeszköz kiválasztására vonatkozó adatokat, a mérési eredményeket, a szakértői véleményeket és ajánlásokat, továbbá a védőeszköz juttatásával kapcsolatos egyéb dokumentumokat a munkáltató naprakészen tartja nyilván, és azokat az ellenőrzést végző hatóság kérelmére bemutatja.
+
+(4)[^5] Az időszakos felülvizsgálatra kötelezett egyéni védőeszköz időszakos felülvizsgálatát a használó kérelmére a gyártó vagy az adott egyéni védőeszköz típus ellenőrzésére, vizsgálatára, illetve tanúsítására kijelölt szervezet végzi el.
+
+## 4. §
+
+(1) A munkáltató gondoskodik arról, hogy a védőeszköz
+
+a) úgy nyújtson védelmet a munkakörnyezeti kockázatokkal szemben, hogy önmaga ne idézzen elő további veszélyt;
+
+b) feleljen meg a munkavégzés körülményeinek;
+
+c) az ergonómiai követelményeknek és a munkavállaló egészségi állapotának megfeleljen;
+
+d) igazítás elvégzése után illeszkedjen viselőjére.
+
+(2) Amennyiben egyszerre több kockázat fennállása szükségessé teszi, hogy a munkavállaló egy időben több védőeszközt használjon, ezeknek a védőeszközöknek összeillőknek és hatékonyaknak kell lenniük a fennálló kockázatokkal szemben.
+
+(3) A védőeszköz használatának feltételeit – különösen viselhetőségének időtartamát – a kockázat súlyossága, a kockázatnak való kitettség gyakorisága, az egyes munkavállalók munkavégzési helyének jellemzői, valamint a védőeszköz teljesítménye és hatásfoka, valamint a védőeszköz viselése által okozott többletterhelés mértékének figyelembevétele alapján kell meghatározni.
+
+(4) A védőeszköz személyes használatra szolgál, kihordási ideje nincs. Amennyiben a munkavégzés körülményei megkívánják, hogy valamely védőeszközt ne csak egy személy, hanem többen is használjanak, megfelelő intézkedéseket kell tenni annak biztosítására, hogy az ilyen használat ne jelentsen egészségügyi vagy higiénés kockázatot a használók számára.
+
+(5) A védőeszközt a munkáltató ingyenesen biztosítja, továbbá karbantartás, tisztítás, javítás vagy csere útján gondoskodik arról, hogy a védőeszköz használható, valamint megfelelő higiénés állapotban legyen.
+
+(6)[^6] A munkáltató előzetesen tájékoztatja a munkavállalót azoknak a kockázatoknak a jellegéről és mértékéről, amelyekkel szemben a védőeszköz használata őt megvédi, továbbá gondoskodik arról – szükség esetén gyakorlati képzéssel –, hogy a munkavállaló megtanulja a védőeszköz használatának módját. A munkáltató a védőeszköz rendelkezésre bocsátásával egyidejűleg magyar nyelvű tájékoztatót és használati utasítást a munkavállaló rendelkezésére bocsát. A tájékoztatás és a gyakorlati képzés megtörténtét a munkáltató írásban dokumentálja és azt a munkavállalóval alá kell íratnia, továbbá – kérelemre – az ellenőrzést végző hatóság részére a dokumentumot bemutatja. A munkáltató köteles biztosítani a munkavállalók, illetve azok képviselői számára a tájékoztatást, az oktatást és a konzultációt a védőeszköz használatával kapcsolatosan, az Mvt. rendelkezései szerint.
+
+(7) A védőeszköz biztosítása magában foglalja, hogy
+
+a) az – figyelemmel a védőeszköz elhasználódására – a munkavállaló munkavégzéséhez folyamatosan,
+
+b) a mentési tervben meghatározott mentési feladatokra és haváriákra rendszeresített készenléti védőeszköz csomag állandóan
+
+rendelkezésre álljon. A munkavállaló haladéktalanul tájékoztatja a munkáltatót, ha megítélése szerint a védőeszköz elvesztette védelmi képességét.
+
+(8) A (7) bekezdés b) pontja szerinti csomag tartalmazza mindazokat a védőeszközöket, amelyek használata havária esetén szükségessé válhat.
+
+## 5. §
+
+(1) A munkáltató – az Mvt. 56. §-a alapján – munkahelyenként és munkakörönként – a (2) bekezdésben foglaltak figyelembevételével – írásban meghatározza
+
+a) azokat a munkafolyamatokat, technológiákat – ideértve a munkaeszközöket és anyagokat, valamint a kockázatot is –, amelyek védőeszköz használatát indokolják, valamint a juttatott védőeszköz típusát és a védőeszköz használatával járó egyéb előírásokat, pl. a védőeszköz ellenőrzése, tárolása, cseréje, karbantartása, az elhasználódott védőeszköz veszélyes hulladékként történő kezelése (a továbbiakban: a védőeszköz juttatásának rendje), továbbá
+
+b) a védőeszköz használatának feltételeit, beleértve a használat időtartamát is.
+
+(2) A munkáltató a védőeszköz juttatásának rendje kialakítása során
+
+a) meghatározza az (1) bekezdés szerinti esetekben a kockázatok jellegét és mértékét,
+
+b) az *a)* pont szerint jár el az (1) bekezdés szerinti tényezők bármelyikének megváltozása esetén,
+
+c) biztosítja
+
+ca) a kockázatok jellegének és mértékének megfelelő védelmi képességgel rendelkező, továbbá
+
+cb) a munkavállaló által végzett fizikai munka mértékének és a klimatikus környezetnek megfelelő
+
+védőeszközt, amelyet a védőeszközre meghatározott felhasználási határok (védelmi képesség, fokozat vagy osztály) figyelembevételével választ ki,
+
+d) figyelembe veszi a védőeszköz használatának egészségi (egyéni) alkalmassági feltételeit, illetve annak egészségi korlátjait.
+
+(3)[^7] Az egyes alkalmazható védőeszközök típusait és a védőeszköz használatával végezhető tevékenységek listáját a munkavédelmi hatóság a miniszter honlapján közzéteszi.
+
+## 6. §
+
+(1)[^8] A védőeszköz kiválasztását megelőzően a munkáltató köteles a védőeszköz típusbizonyítványa, valamint – szükség esetén – szakértői vélemény alapján felmérni, hogy a felhasználni kívánt védőeszköz megfelel-e a 4. § (1) és (2) bekezdésében előírt követelményeknek.
+
+(2) Az (1) bekezdés szerinti felmérésnek tartalmaznia kell:
+
+a) azoknak a kockázatoknak az értékelését, amelyek más eszközökkel nem háríthatók el;
+
+b) azoknak a jellemzőknek a meghatározását, amelyekkel a védőeszköznek rendelkeznie kell ahhoz, hogy az *a)* pontban említett kockázatokkal szemben hatékony legyen, beleértve azon kockázat figyelembevételét, amelyet maga a készülék okozhat;
+
+c) a beszerezni kívánt védőeszköz védelmi szintjének (képességének) összehasonlítását a *b)* pontban említett jellemzőkkel.
+
+(3) Az (1) bekezdésben előírt vizsgálatot meg kell ismételni, ha bármelyik elemét tekintve változás következett be.
+
+## 7. §
+
+A védelmi képességét vesztett védőeszköz tovább nem használható. Az elhasználódott védőeszközt hulladékként, a külön jogszabályban[^9] meghatározott esetekben veszélyes hulladékként kell kezelni.
+
+## 8. §
+
+(1) A munkavállaló a védőeszköz használatáról érvényesen nem mondhat le.
+
+(2) A munkavállaló a védőeszközt nem viheti el a munkahelyéről, kivéve, ha a munkáltató engedélyezte annak elvitelét, amennyiben
+
+a) a munkavégzés helye változó és a munkáltató más módon nem tudja biztosítani a védőeszközt a munkavállaló számára,
+
+b) a védőeszköz elvitele közegészségügyi szabályokba nem ütközik.
+
+## 9. §
+
+(1) A munkáltató a védőeszköz juttatásának rendje meghatározásába a munkavédelmi képviselőt, valamint a foglalkozás-egészségügyi szolgálatot bevonja, akik jogosultak a védőeszköz kiválasztására javaslatot tenni.
+
+(2) A munkavédelmi képviselő jogosult a védőeszköz biztosításáról és használatáról tájékoztatást kapni, az egyéni védőeszköz biztosításával és használatával kapcsolatos rendelkezések megsértése esetén megfelelő intézkedéseket kezdeményezni.
+
+## 10. §[^10]
+
+A rendeletben foglaltak megtartásának ellenőrzéséről a fővárosi és vármegyei kormányhivatal mint munkavédelmi hatóság gondoskodik.
+
+## 11. §
+
+(1) Ez a rendelet 2000. augusztus 1. napján lép hatályba, hatálybalépésével egyidejűleg hatályát veszti az egyéni védőfelszerelésekről szóló 3/1979. (V. 29.) EüM rendelet, az egyes munkaegészségügyi jogszabályok módosításáról szóló 4/1983. (III. 16.) EüM rendelet, valamint az egészséget nem veszélyeztető munkavégzés és munkakörülmények általános egészségügyi követelményeiről szóló 25/1996. (VIII. 28.) NM rendelet 20. §-a.
+
+(2) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében – az azt kihirdető 1994. évi I. törvény 3. §-ával összhangban – összeegyeztethető szabályozást tartalmaz a Tanácsnak a munkavállalók munkahelyen történő egyéni védőeszköz használatának minimális biztonsági és egészségvédelmi követelményeiről szóló 89/656/EGK irányelve rendelkezéseivel.
+
+(3)[^11] Ez a rendelet a 89/656/EGK tanácsi irányelv I., II. és III. mellékletének tisztán technikai kiigazítások tekintetében történő módosításáról szóló, 2019. október 24-i 2019/1832 bizottsági irányelvnek való megfelelést szolgálja.
+
+## 1. számú melléklet a 65/1999. (XII. 22.) EüM rendelethez[^12]
+
+## 2. számú melléklet a 65/1999. (XII. 22.) EüM rendelethez[^13]
+
+## 3. számú melléklet a 65/1999. (XII. 22.) EüM rendelethez[^14]
+
+---
+
+[^1]: A 2. § (1) bekezdés c) pontját a 61/2023. (XII. 28.) GFM rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés d) pontját a 61/2023. (XII. 28.) GFM rendelet 1. §-a iktatta be.
+[^3]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 3. §-ával megállapított, az 50/2025. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 32/2021. (VII. 26.) ITM rendelet 8. §-ával megállapított szöveg.
+[^5]: A 3. § (4) bekezdését a 61/2023. (XII. 28.) GFM rendelet 2. §-a iktatta be.
+[^6]: A 4. § (6) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 1. §-a szerint kiegészített szöveg.
+[^7]: Az 5. § (3) bekezdése a 32/2021. (VII. 26.) ITM rendelet 9. §-ával megállapított szöveg.
+[^8]: A 6. § (1) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdése szerint módosított szöveg.
+[^9]: A veszélyes hulladékokról szóló 102/1996. (VII. 12.) Korm. rendelet.
+[^10]: A 10. § a 9/2015. (III. 31.) Krom. rendelet 16. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 10. §-a, a 28/2022. (XII. 30.) GFM rendelet 7. §-a szerint módosított szöveg.
+[^11]: A 11. § (3) bekezdését a 32/2021. (VII. 26.) ITM rendelet 10. §-a iktatta be.
+[^12]: Az 1. számú mellékletet a 32/2021. (VII. 26.) ITM rendelet 11. §-a hatályon kívül helyezte.
+[^13]: A 2. számú mellékletet a 32/2021. (VII. 26.) ITM rendelet 11. §-a hatályon kívül helyezte.
+[^14]: A 3. számú mellékletet a 32/2021. (VII. 26.) ITM rendelet 11. §-a hatályon kívül helyezte.

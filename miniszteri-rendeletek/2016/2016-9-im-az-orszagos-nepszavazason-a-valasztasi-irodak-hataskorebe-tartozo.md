@@ -1,0 +1,686 @@
+---
+title: "9/2016. (VI. 28.) IM rendelet az országos népszavazáson a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a népszavazási eredmény országosan összesített adatainak köréről"
+identifier: "9/2016. (VI. 28.) IM rendelet"
+njt_id: "2016-9-20-06"
+eli: "https://njt.jog.gov.hu/eli/R/2016/IM/9"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2016-06-28
+in_force_from: 2016-06-29
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-9-20-06"
+retrieved: 2026-10-12
+---
+
+# 9/2016. (VI. 28.) IM rendelet az országos népszavazáson a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a népszavazási eredmény országosan összesített adatainak köréről
+
+A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 91. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+az 5. § tekintetében a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 91. § j) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 7. § tekintetében a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 91. § d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 8. § tekintetében a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 91. § g), h) és k) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 25. § tekintetében a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 91. § b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 27. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 28–29. § tekintetében a választási eljárásról szóló 2013. évi XXXVI. törvény 346. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A választási irodák tagjainak oktatása
+
+#### 1. §
+
+A választási iroda tagjait a feladataik ellátására fel kell készíteni. A felkészítésen való részvétel kötelező. A felkészítésért a választási iroda vezetője felelős.
+
+### 2. A választási informatikai rendszer
+
+#### 2. §
+
+(1) A választási informatikai rendszer (a továbbiakban: informatikai rendszer) e rendelet vonatkozásában a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvényben (a továbbiakban: Nsztv.) és a választási eljárásról szóló 2013. évi XXXVI. törvényben (a továbbiakban: Ve.) meghatározott választási feladatok végrehajtásában részt vevő és azokat kiszolgáló szervezetek által működtetett választási informatikai infrastruktúra és választási alkalmazói rendszerelemek összessége.
+
+(2) A választási informatikai infrastruktúra elemei lehetnek:
+
+a) a választási célú dedikált informatikai eszközök,
+
+b) az elektronikus anyakönyvi rendszer informatikai eszközrendszere (a továbbiakban: EAK),
+
+c)[^1] a fővárosi és vármegyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: kormányhivatal) informatikai eszközei,
+
+d) az okmányirodák, valamint az okmányirodai funkciókat is ellátó kormányablakok (a továbbiakban együtt: okmányiroda) informatikai eszközei,
+
+e) a külképviseletek informatikai eszközei,
+
+f) az *a)–e)* pontban meghatározott informatikai eszközöket összekötő adatátviteli hálózatok és
+
+g) egyéb, kormányzati célú informatikai rendszerek.
+
+(3) A választási alkalmazói rendszerek elemei lehetnek különösen: a névjegyzékek vezetését, a szavazatösszesítést, az eredménymegállapítást, a logisztikai és pénzügyi lebonyolítást, valamint a választási szervek közötti kommunikációt támogató alkalmazói szoftverrendszerek.
+
+#### 3. §
+
+(1) A helyi választási iroda (a továbbiakban: HVI) az informatikai rendszert a választási célú dedikált informatikai eszközök, ezek hiányában az EAK igénybevételével éri el.
+
+(2)[^2] A népszavazási informatikai feladatok ellátására az üzembiztonság és a hatékony munkavégzés érdekében a HVI vezetőjének kérésére, a területi választási iroda (a továbbiakban: TVI) vezetőjének döntése alapján az okmányirodai infrastruktúra is igénybe vehető. Ha a TVI vezetője az okmányirodai infrastruktúra bevonásáról dönt, erről haladéktalanul értesíti a Nemzeti Választási Iroda (a továbbiakban: NVI) elnökét és az igénybevétel helye szerint illetékes főispánt.
+
+(3) Közös önkormányzati hivatalt működtető települések esetében a HVI vezetőjének kezdeményezésére, a TVI vezetője a székhely településtől eltérő településen is engedélyezheti az adatfeldolgozási feladatok elvégzését. Ebben az esetben a TVI vezetője gondoskodik az új adatfeldolgozó hely regisztrálásáról, és erről haladéktalanul értesíti az NVI elnökét.
+
+(4) A TVI az informatikai rendszer elérésére a választási célú dedikált informatikai eszközöket, az EAK-ot, illetve az okmányirodai infrastruktúrát használhatja.
+
+#### 4. §
+
+Az informatikai rendszert kell használni
+
+a) a választási bizottságok adatainak rögzítéséhez,
+
+b) a szavazóköri névjegyzék, a külképviseleti névjegyzék, a levélben szavazók névjegyzéke, valamint a mozgóurnát igénylő választópolgárok jegyzékének összeállításához, továbbvezetéséhez, a szavazóhelyiségbe kerülő példányának elkészítéséhez,
+
+c) a szavazóköri névjegyzék megtekintésének biztosításához,
+
+d) a szavazóköri névjegyzékből történő adatszolgáltatás elkészítéséhez,
+
+e) az értesítők elkészítéséhez,
+
+f) a választójogosultság megállapításához, illetve ellenőrzéséhez,
+
+g) a központi előállítású nyomtatványok és egyéb választási anyagok átvételével, elosztásával összefüggő logisztikai feladatok ellátásához,
+
+h) a szavazóköri jegyzőkönyvek, továbbá a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzéke szavazóhelyiségbe kerülő példányának nyomtatásához, valamint a nyomtatás és hitelesítés megtörténtéről szóló értesítés továbbításához,
+
+i) a rendkívüli események jelentéséhez és a napközbeni részvételi adatok jelentéséhez,
+
+j) a levélben leadott szavazási iratok ellenőrzéséhez,
+
+k) a jegyzőkönyvek rögzítéséhez és ellenőrzéséhez,
+
+l) a népszavazási eredmény előzetes tájékoztató adatainak előállításához,
+
+m) a népszavazási eredmény megállapításának támogatásához, valamint
+
+n) a bírságokkal kapcsolatos feladatok támogatásához.
+
+#### 5. §
+
+(1) A kormányhivatal a népszavazási feladatok ellátása érdekében a TVI, illetve a HVI vezetője számára – megállapodás alapján – biztosítja
+
+a)[^3] a megfelelő számú, a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő választási iroda tagjává történő megbízásának lehetőségét és
+
+b) a választási iroda tagjának közreműködését a népszavazási feladatok ellátásában, a választási iroda vezetőjének rendelkezése szerint.
+
+(2) A kormányhivatal a TVI, illetve a HVI részére – megállapodás alapján – biztosítja
+
+a) az okmányirodai infrastruktúra igénybevételét az okmányirodákban,
+
+b) a választási informatikai hálózat eléréséhez szükséges eszközöket és
+
+c) az *a)* és *b)* pontban foglaltakhoz szükséges kiemelt rendelkezésre állást.
+
+(3)[^4] A választási iroda tagjává történő megbízása esetén a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő is a választási iroda tagjával megegyező díjazásra jogosult.
+
+(4) Az (1) és (2) bekezdésben foglaltak különösen a következő népszavazási feladatok elvégzését szolgálhatják:
+
+a) a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének kinyomtatása,
+
+b) a szavazóköri jegyzőkönyvek adatainak rögzítése,
+
+c) a választások pénzügyi és logisztikai elszámolási feladatai informatikai támogatása.
+
+(5) A választási iroda és a kormányhivatal együttműködik a népszavazási feladatok határidőre történő elvégzése érdekében. A népszavazási feladatok határidőre történő elvégzése elsőbbséget élvez a kormányhivatal egyéb feladataival szemben.
+
+### 3. A levélszavazatok megszámlálását támogató informatikai alkalmazás
+
+#### 6. §
+
+Az NVI a levélben beérkezett szavazatokat informatikai alkalmazás igénybevételével előzetesen megszámlálja, és annak eredményét előzetes tájékoztató adatként közzéteszi.
+
+### 4. A népszavazási eredmény országosan összesített adatai
+
+#### 7. §
+
+A népszavazási eredmény országosan összesített adatai a következők:
+
+a) a névjegyzék zárásakor a szavazóköri névjegyzékben, a külképviseleti névjegyzékben és a levélben szavazók névjegyzékében lévő választópolgárok száma,
+
+b) a választópolgárok száma a névjegyzék zárásakor összesen,
+
+c) a szavazókörökben és a külképviseleteken szavazó választópolgárok száma, az érvényes szavazási iratok száma,
+
+d) a szavazóként megjelent és az érvényes szavazási iratot visszaküldő választópolgárok száma összesen,
+
+e) az urnában lévő lebélyegzett szavazólapok és az érvényes szavazási iratokban lévő szavazólapok száma,
+
+f) az érvénytelen lebélyegzett szavazólapok száma,
+
+g) az érvényes szavazatok száma összesen,
+
+h) az érvényes szavazatok száma válaszonként.
+
+### 5. A bírság megfizetése, a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolása, valamint a Nemzeti Választási Bizottság választott tagjainak költségtérítése
+
+#### 8. §
+
+A népszavazás kezdeményezésével kapcsolatos eljárás, valamint a népszavazási eljárás során a bírság megfizetésére, a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokra, valamint a Nemzeti Választási Bizottság választott tagjainak költségtérítésére a központi névjegyzék, valamint egyéb választási nyilvántartások vezetéséről szóló 17/2013. (VII. 17.) KIM rendelet (a továbbiakban: R.) IV/A. fejezetének rendelkezéseit kell alkalmazni azzal, hogy az R. 20/A. § (3) bekezdésében a Ve. 124. § (2) bekezdése szerinti bírságon az Nsztv. 18. § (2) bekezdése, 19. § (3) bekezdése, 19/A. § (2) bekezdése, 19/B. § (4) bekezdése és 19/C. § (4) bekezdése szerinti bírságot kell érteni.
+
+## II. Fejezet — HELYI VÁLASZTÁSI IRODA
+
+#### 9. §
+
+Minden önálló önkormányzati hivatallal rendelkező településen önálló HVI működik. Közös önkormányzati hivatalt működtető településeken a HVI feladatait közös HVI látja el.
+
+### 6. A helyi választási iroda feladatai a szavazás napját megelőzően
+
+#### 10. §
+
+(1) A HVI a névjegyzékek vezetésével kapcsolatos hatáskörében – a Ve.-ben foglalt feladatain túl –
+
+a) az informatikai rendszerben biztosítja a szavazóköri névjegyzék megtekinthetőségét,
+
+b) továbbítja a szavazatszámláló bizottság (a továbbiakban: SZSZB) részére a névjegyzék lezárását követően beérkező mozgóurna iránti igényeket, és
+
+c) a szavazóköri névjegyzékkel kapcsolatos döntését a kérelmező lakcímére is megküldi.
+
+(2) A HVI – a Ve.-ben foglalt feladatain túl –
+
+a) közleményt ad ki a szavazás helyéről és idejéről, a szavazás módjáról,
+
+b) fogadja az SZSZB megbízott tagjainak bejelentését, ellenőrzi választójogukat, gondoskodik eskü-, illetve fogadalomtételükről,
+
+c) helyben szokásos módon nyilvánosságra hozza a HVI vezetőjének nevét, a HVI hivatali helyiségének címét, telefonszámát, elektronikus levélcímét,
+
+d) előkészíti a szavazóköri jegyzőkönyvek feldolgozását és továbbítását,
+
+e) gondoskodik a nyomtatványok rendelkezésre állásáról,
+
+f) fogadja a központilag – szavazókörönként – összeállított szállítódobozokat, tartalmukat tételesen ellenőrzi, elhelyezi bennük a napközbeni részvételi jelentések adatainak, valamint a szavazóköri eredmény adatainak telefonos továbbításához szükséges jelszót tartalmazó lezárt borítékokat, és gondoskodik a szavazás napjáig történő megőrzésükről,
+
+g) biztosítja a szavazáshoz szükséges technikai feltételeket, a szavazóhelyiségek felszerelését,
+
+h) a szavazást megelőző napon előkészíti és tételenként – átvételi elismervénnyel – átadja az SZSZB elnöke vagy helyettese részére a szavazás lebonyolításához szükséges nyomtatványokat, iratokat, bélyegzőt és egyéb kellékeket, valamint
+
+i) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egyéb technikai feltételek biztosításáról, a szavazólapok és az egyéb választási iratok őrzéséről.
+
+(3) A HVI vezetője – a Ve.-ben foglalt feladatain túl –
+
+a)[^5]
+
+b)[^6] a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti.
+
+(4) Az R. 1. melléklet 1. pontjában meghatározott település HVI-je a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
+
+### 7. A helyi választási iroda feladatai a szavazás napján
+
+#### 11. §
+
+(1) Az SZSZB mellett működő jegyzőkönyvvezető – a Ve.-ben foglalt feladatain túl –
+
+a) közreműködik a szavazóhelyiség szabályszerű berendezésében,
+
+b) az SZSZB döntése alapján gondoskodik a névjegyzék kezeléséről, a visszautasítottak jegyzéke és a mozgóurnát kérők jegyzéke vezetéséről,
+
+c)[^7] 7.00, 9.00, 11.00, 13.00, 15.00, 17.00 és 18.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról,
+
+d) a szavazás közben történt rendkívüli eseményről kiállított jegyzőkönyv másolatát haladéktalanul továbbítja a HVI vezetőjéhez,
+
+e) közreműködik a szavazóköri jegyzőkönyv kiállításában,
+
+f) a szavazóköri jegyzőkönyv kiállítását követően azonnal továbbítja annak adattartalmát a HVI-hez a HVI vezetőjének utasítása szerinti rövid úton (telefonon vagy faxon),
+
+g) közreműködik a szavazóköri jegyzőkönyv, a szavazás közben történt rendkívüli eseményről kiállított jegyzőkönyvek, valamint az SZSZB határozatai másolatainak előállításában és az SZSZB megbízott tagjai részére történő átadásában, valamint
+
+h) közreműködik a szavazóurnáknak, a szavazóköri jegyzőkönyveknek, valamint az egyéb választási iratoknak a HVI hivatali helyiségébe történő szállításában.
+
+(2) A HVI – a Ve.-ben foglalt feladatain túl –
+
+a) biztosítja az SZSZB-k működésének és a szavazás menetének törvényes feltételeit,
+
+b)[^8] továbbítja az SZSZB részére a névjegyzék lezárását követően beérkező mozgóurna iránti kérelmeket,
+
+c) fogadja és – ellenőrzést követően – az informatikai rendszerben haladéktalanul rögzíti a szavazókörökből érkezett napközbeni részvételi adatokat, a szavazás közben történt rendkívüli eseményekről kiállított jegyzőkönyveket,
+
+d) fogadja és – ellenőrzést követően – az informatikai rendszerben haladéktalanul rögzíti a szavazókörökből rövid úton érkezett jegyzőkönyvi adatokat; ha az adatrögzítés során az informatikai rendszer összefüggés-hibát vagy egyéb hibát jelez, a HVI vezetője a jegyzőkönyvvezető útján azonnal tájékoztatja az SZSZB-t a jegyzőkönyv javítása érdekében,
+
+e) átvételi elismervénnyel átveszi az SZSZB-től a szavazóurnákat, a szavazóköri jegyzőkönyveket, továbbá az egyéb választási iratokat, valamint
+
+f) a beérkező szavazóköri jegyzőkönyveket jogi és számszaki szempontból ellenőrzi, és tételesen ellenőrzi a szavazóköri jegyzőkönyvek és a számítógépes adatok azonosságát; a hibásan vagy hiányosan kitöltött jegyzőkönyvre felhívja az SZSZB figyelmét, és a jegyzőkönyv javítását követően intézkedik az adatok informatikai rendszerben történő javításáról.
+
+(3)[^9]
+
+### 8. A helyi választási iroda feladatai a szavazás napját követően
+
+#### 12. §
+
+A HVI – a Ve.-ben foglalt feladatain túl –
+
+a) gondoskodik az SZSZB-ktől átvett választási iratok biztonságos tárolásáról,
+
+b) az informatikai rendszerben tárolt és a jegyzőkönyvi adatok eltérése esetén az informatikai rendszer adatait javítja, vagy felhívja az SZSZB figyelmét a jegyzőkönyv javításának szükségességére,
+
+c) a szavazást követő három napon keresztül biztosítja a szavazóköri jegyzőkönyvek második példánya, valamint a határozatok nyilvánosságát, majd azokat irattározza,
+
+d)[^10] ellátja a jegyzőkönyvek szkennelésével és továbbításával kapcsolatos feladatokat, valamint
+
+e)[^11] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+
+## III. Fejezet — KÜLKÉPVISELETI VÁLASZTÁSI IRODA
+
+### 9. A külképviseleti választási iroda feladatai a szavazást megelőzően
+
+#### 13. §
+
+(1) A külképviseleti választási iroda (a továbbiakban: KÜVI) – a Ve.-ben foglalt feladatain túl –
+
+a) ellátja a külképviseleti szavazással és a levélben szavazással kapcsolatos tájékoztatási feladatokat,
+
+b) átadja a megfigyelőnek a kitűzőt, valamint tájékoztatja jogairól és kötelezettségeiről,
+
+c)[^12] a külképviselet épületében a szavazást megelőző 15. naptól, valamint a külképviseleti szavazás időtartama alatt külön urnát biztosít a levélben szavazók válaszborítékjának leadására, amelyet a válaszboríték leadására rendelkezésre álló időben folyamatosan felügyel,
+
+d) minden munkanap, valamint a külképviseleti szavazás napján a válaszboríték leadására rendelkezésre álló nyitvatartási idő elteltét követően felbontja az urnát, megszámlálja a leadott válaszborítékokat, és azokat becsomagolja úgy, hogy a csomagolás megsértése nélkül ne lehessen a csomag tartalmát megváltoztatni,
+
+e) a leadott válaszborítékok számát naponta jelenti az NVI-nek,
+
+f) az NVI-hez való továbbításukig gondoskodik a válaszborítékokat tartalmazó csomagok biztonságos helyen történő őrzéséről,
+
+g) biztosítja a szavazóhelyiséget, annak felszerelését, valamint a szavazáshoz szükséges technikai feltételeket,
+
+h) szabályszerűen berendezi a szavazóhelyiséget, valamint
+
+i)[^13] kinyomtatja és hitelesíti a külképviseleti névjegyzéket.
+
+(2) A KÜVI vezetője – a Ve.-ben foglalt feladatain túl – gondoskodik a szavazólapok, az egyéb választási iratok, továbbá a szavazáshoz szükséges kellékek biztonságos őrzéséről.
+
+(3) Az R. 1. melléklet 2. pontjában meghatározott külképviseleten működő KÜVI a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
+
+### 10. A külképviseleti választási iroda feladatai a szavazás napján
+
+#### 14. §
+
+A KÜVI – a Ve.-ben foglalt feladatain túl –
+
+a) ellátja a szavazással és a külképviseleti névjegyzék kezelésével kapcsolatos feladatokat,
+
+b) vezeti a visszautasítottak jegyzékét,
+
+c) két példányban kiállítja a szavazás befejezéséről szóló jegyzőkönyvet; annak első példányát, a visszautasítottak jegyzékét, a rontott szavazólapokat tartalmazó lezárt borítékot, valamint a rendkívüli eseményekről kiállított jegyzőkönyveket elhelyezi az urnában, és az urnát lezárja úgy, hogy ne lehessen abba szavazólapot elhelyezni vagy abból szavazólapot eltávolítani,
+
+d) a szavazás befejezéséről kiállított jegyzőkönyv második példányát elektronikus úton azonnal továbbítja az NVI-hez,
+
+e) a leadott válaszborítékok számát jelenti az NVI-nek, valamint
+
+f) a szavazás közben történt rendkívüli eseményről kiállított jegyzőkönyvet, továbbá a KÜVI tevékenysége ellen benyújtott kifogást elektronikus úton azonnal továbbítja az NVI-hez.
+
+### 11. A külképviseleti választási iroda feladatai a szavazást követően
+
+#### 15. §
+
+A KÜVI – a Ve.-ben foglalt feladatain túl –
+
+a) gondoskodik a lezárt urna és a válaszborítékokat tartalmazó csomagok NVI-hez szállításáról,
+
+b) a szavazást követő három napon keresztül biztosítja a szavazás befejezéséről kiállított jegyzőkönyv második példányának nyilvánosságát, valamint
+
+c)[^14] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat megsemmisíti.
+
+## IV. Fejezet — ORSZÁGGYŰLÉSI EGYÉNI VÁLASZTÓKERÜLETI VÁLASZTÁSI IRODA
+
+### 12. Az országgyűlési egyéni választókerületi választási iroda feladatai a szavazás napját megelőzően
+
+#### 16. §
+
+Az OEVI – a Ve.-ben foglalt feladatain túl –
+
+a) fogadja az országgyűlési egyéni választókerületi választási bizottság (a továbbiakban: OEVB) megbízott tagjainak bejelentését, ellenőrzi választójogukat, gondoskodik eskü-, illetve fogadalomtételükről,
+
+b) helyben szokásos módon nyilvánosságra hozza az OEVI vezetőjének nevét, az OEVI hivatali helyiségének címét, telefonszámát, email címét,
+
+c) a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
+
+### 13. Az országgyűlési egyéni választókerületi választási iroda további feladatai a szavazás napján
+
+#### 17. §
+
+Az OEVI – a Ve.-ben foglalt feladatain túl –
+
+a) külön urnát biztosít a levélben szavazók válaszborítékainak leadására, amelyet folyamatosan felügyel,
+
+b) 19.00 órát követően felbontja az urnát, megszámlálja a leadott válaszborítékokat, és azokat szállítóborítékba zárja úgy, hogy annak megsértése nélkül ne lehessen a szállítóboríték tartalmát megváltoztatni,
+
+c) a leadott válaszborítékok számát jelenti az NVI-nek, valamint
+
+d) gondoskodik a szavazatösszesítést akadályozó zavarok, vészhelyzetek elhárításáról, szükség szerint intézkedik a vészhelyzet esetére előírt tartalékmegoldások alkalmazásáról, és ezekről az intézkedésekről tájékoztatja a TVI, valamint a HVI vezetőjét.
+
+### 14. Az országgyűlési egyéni választókerületi választási iroda további feladatai a szavazás napját követően
+
+#### 18. §
+
+Az OEVI – a Ve.-ben foglalt feladatain túl –
+
+a) ellenőrzi a szavazóköri jegyzőkönyvek feldolgozásának megtörténtét,
+
+b) a levélben szavazók válaszborítékait tartalmazó csomagot és a szavazóköri jegyzőkönyvek első példányait – az NVI vezetőjének rendelkezése szerint – legkésőbb a szavazást követő napon 19.00 óráig továbbítja az NVI-hez, valamint
+
+c)[^15] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+
+## V. Fejezet — TERÜLETI VÁLASZTÁSI IRODA
+
+#### 19. §
+
+A TVI – a Ve.-ben foglalt feladatain túl –
+
+a) ellenőrzi és irányítja az OEVI-k és a HVI-k tevékenységét,
+
+b) megszervezi az OEVI-k és a HVI-k vezetőinek oktatását,
+
+c) felügyeli az informatikai rendszer használatát, megteszi a szükséges intézkedéseket a hiányzó adatok pótlása, a hibás adatok kijavítása érdekében, valamint
+
+d) a HVI-k tevékenységének irányításához, illetve feladataik végrehajtásának ellenőrzéséhez az illetékes OEVI vezetőjének közreműködését igénybe veheti.
+
+### 15. A területi választási iroda feladatai a szavazás napját megelőzően
+
+#### 20. §
+
+(1) A TVI – a Ve.-ben foglalt feladatain túl –
+
+a) nyilvánosságra hozza a TVI hivatali helyiségének címét, telefonszámát, email címét, valamint
+
+b) a választási logisztikai rendszer adataira alapozva meghatározza a központi nyomtatványok elosztásának és a helyi készítésű nyomtatványok előállításának, szállításának és átvételének rendjét.
+
+(2) A TVI vezetője – a Ve.-ben foglalt feladatain túl –
+
+a) elkészíti az üzemzavar esetére irányadó intézkedési tervet és
+
+b) kiadja a szavazóköri jegyzőkönyvek és az egyéb választási iratok továbbításával kapcsolatos utasítását.
+
+### 16. A területi választási iroda feladatai a szavazás napján
+
+#### 21. §
+
+A TVI – a Ve.-ben foglalt feladatain túl –
+
+a) felügyeli az informatikai rendszer napközbeni részvételi jelentésekhez kapcsolódó és szavazatösszesítő funkcióinak használatát,
+
+b) gondoskodik az üzemzavar elhárításáról, szükség esetén gondoskodik a tartalékmegoldások alkalmazásáról, és erről tájékoztatja az NVI elnökét, valamint
+
+c) a központi tájékoztató rendszer adatainak segítségével tájékoztatja a nyilvánosságot.
+
+## VI. Fejezet — KÖZPONTI FELADATOK
+
+### 17. A Nemzeti Választási Iroda feladatai a szavazás napját megelőzően
+
+#### 22. §
+
+(1) Az NVI – a Ve.-ben foglalt feladatain túl –
+
+a) gondoskodik a KÜVI-k és a TVI-k vezetőinek oktatásáról,
+
+b) biztosítja a HVI-k részére a központi és a szavazóköri névjegyzék elérését,
+
+c) bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok név- és lakcímadatait elektronikus adathordozón átadja az igénylőnek,
+
+d) a *c)* pont szerinti befizetések érdekében a választások hivatalos honlapján közzéteszi számlaszámát,
+
+e) kidolgozza és a feldolgozás helyére továbbítja a választás eredményének számítógépes feldolgozásához szükséges azonosító kódrendszereket,
+
+f) a levélben szavazók névjegyzékében szereplő azon választópolgárok számára, akik a szavazási levélcsomag személyes átvételét kérték, megküldi a szavazási levélcsomag átvételének helyére és idejére vonatkozó információkat,
+
+g) a levélben szavazók névjegyzékében szereplő választópolgárok számára postai úton megküldi a szavazási levélcsomagot, vagy eljuttatja a választópolgár által megjelölt külképviseletre vagy településre,
+
+h) megküldi a könnyített formában megírt tájékoztató anyagot az azt igénylő választópolgároknak,
+
+i) fogadja a Nemzeti Választási Bizottságba (a továbbiakban: NVB) megbízott tagok, a Ve. 245. § (2) bekezdése szerinti megfigyelők, valamint a külképviseleti megfigyelők bejelentését, ellenőrzi azok választójogát; gondoskodik az NVB megbízott tagjainak eskü-, illetve fogadalomtételéről,
+
+j) nyilvánosságra hozza az NVB és az NVI hivatali helyiségének címét, telefonszámát, email címét, valamint
+
+k) a választások hivatalos honlapján közzéteszi a választási irodák hivatali helyiségének címét, telefonszámát, e-mail címét.
+
+(2) Az NVI elnöke – a Ve.-ben foglalt feladatain túl –
+
+a) meghatározza az országos igazgatási és informatikai próbák időpontjait, feladatait, résztvevőit,
+
+b) kiadja a jegyzőkönyvek és egyéb választási iratok továbbításával kapcsolatos utasítását.
+
+### 18. A Nemzeti Választási Iroda feladatai a szavazás napján
+
+#### 23. §
+
+Az NVI – a Ve.-ben foglalt feladatain túl –
+
+a) működteti a Választási Központot,
+
+b) működteti a választási informatikai rendszert,
+
+c) ügyeletet tart a külképviseleti szavazás ideje alatt,
+
+d) nyilvánosságra hozza a napközbeni részvételi jelentések és a napközben történt rendkívüli események adatait, azokról tájékoztatja az NVB-t,
+
+e) folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat, valamint
+
+f)[^16]
+
+### 19. A Nemzeti Választási Iroda feladatai a szavazás napját követően
+
+#### 24. §
+
+(1) Az NVI – a Ve.-ben foglalt feladatain túl –
+
+a) folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat,
+
+b) fogadja a külképviseletekről érkező urnákat, valamint levélben leadott szavazatokat tartalmazó válaszborítékokat tartalmazó csomagokat, gondoskodik azok őrzéséről,
+
+c) a szavazást követő napon fogadja az OEVI-ktől, illetve a fővárosi kerületek tekintetében a HVI-ktől a szavazóköri jegyzőkönyveket, valamint az OEVI-ktől a szavazási iratokat tartalmazó szállítóborítékokat,
+
+d) beszkenneli a levélben szavazók szavazólapjait, és informatikai alkalmazás segítségével elvégzi a szavazatok előzetes megszámlálását,
+
+e) a szavazást megelőző nap 24.00 órát követően beérkező szavazási iratokat – az (1) bekezdés b) és c) pont szerinti szavazási iratok kivételével – a megsemmisítésükig felbontás nélkül, biztonságos helyen tárolja.
+
+f) a 11. § (3) bekezdése szerint még be nem szkennelt szavazóköri jegyzőkönyveket beszkenneli, és azok adatait összehasonlítja az informatikai rendszerben tárolt adatokkal; eltérés esetén haladéktalanul értesíti a HVI vezetőjét,
+
+g) adatokat szolgáltat az NVB részére az eredmény megállapítása, illetve közzététele céljából,
+
+h) gondoskodik a népszavazás eredményének a Magyar Közlönyben történő közzétételéről,
+
+i)[^17] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti, valamint
+
+j)[^18] a jegyzőkönyvek első példányát a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy befejezése után átadja a Magyar Nemzeti Levéltárnak.
+
+(2) Az NVI elnöke utasítást ad az adatfeldolgozási feladatok elvégzésének, valamint a számítógépes rendszer működtetésének befejezésére.
+
+## VII. Fejezet — A VÁLASZTÁSI ELJÁRÁSBAN HASZNÁLANDÓ NYOMTATVÁNYOK
+
+#### 25. §[^19]
+
+Az országos népszavazáson használandó nyomtatványok mintáit a 2–17. melléklet tartalmazza.
+
+## VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 26. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+#### 27. §[^20]
+
+E rendeletnek az egyes választásokkal kapcsolatos miniszteri rendeletek módosításáról szóló 26/2018. (IX. 7.) IM rendelettel megállapított rendelkezéseit a hatálybalépését[^21] követően kitűzött választásokon kell alkalmazni.
+
+## 1. melléklet a 9/2016. (VI. 28.) IM rendelethez[^24]
+
+## 2. melléklet a 9/2016. (VI. 28.) IM rendelethez[^25]
+
+5X07361.pdf
+
+## 3. melléklet a 9/2016. (VI. 28.) IM rendelethez[^26]
+
+5X07363.pdf
+
+## 4. melléklet a 9/2016. (VI. 28.) IM rendelethez[^27]
+
+5X07364.pdf
+
+## 5. melléklet a 9/2016. (VI. 28.) IM rendelethez[^28]
+
+5X07366.pdf
+
+## 6. melléklet a 9/2016. (VI. 28.) IM rendelethez[^29]
+
+5X07367.pdf
+
+## 7. melléklet a 9/2016. (VI. 28.) IM rendelethez[^30]
+
+5X07369.pdf
+
+## 8. melléklet a 9/2016. (VI. 28.) IM rendelethez
+
+**Ellenőrző lap**
+
+**Ellenőrző lap**\
+**a mozgóurna / külképviseleti urna hitelesítésére**
+
+A szavazás napja: ......................................................................................................
+
+A szavazókör sorszáma: ......................................................................................................
+
+Aláírásunkkal tanúsítjuk, hogy az urnát megvizsgáltuk, üresnek találtuk és lezártuk. Az urna a törvényes követelményeknek megfelel.
+
+Az ellenőrző lapot ........... óra .…...... perckor helyeztük a mozgóurnába.
+
+A szavazatszámláló bizottság / külképviseleti választási iroda jelen lévő tagjainak aláírása:
+
+|  |  |
+|---|---|
+| ............................................................... | ................................................................ |
+| ................................................................ | ................................................................ |
+| ................................................................ | ................................................................ |
+| ................................................................ | ................................................................ |
+| ................................................................ | ................................................................ |
+| ................................................................ | ................................................................ |
+
+Az elsőként szavazó választópolgár
+
+| …………………………………………. | …………………………………………. |
+|---|---|
+| neve | aláírása |
+
+## 9. melléklet a 9/2016. (VI. 28.) IM rendelethez
+
+**Visszautasítottak jegyzéke**
+
+<table><tbody><tr><td colspan="14">VISSZAUTASÍTOTTAK<br>JEGYZÉKE</td></tr><tr><td></td><td colspan="6"></td><td colspan="2">település</td><td colspan="2">Szavazókör sorszáma:</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td>év</td><td></td><td>hó</td><td colspan="3">nap</td><td colspan="5"></td></tr><tr><td colspan="14"></td></tr><tr><td colspan="2" rowspan="2"></td><td colspan="8">**A visszautasított polgár**</td><td colspan="4"></td></tr><tr><td colspan="6">**családi és utóneve**</td><td colspan="2">**lakcíme**</td><td colspan="4">**A visszautasítás oka**</td></tr><tr><td colspan="2">1.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">2.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">3.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">4.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">5.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">6.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">7.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">8.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">9.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr><tr><td colspan="2">10.</td><td colspan="6"></td><td colspan="2"></td><td colspan="4"></td></tr></tbody></table>
+
+|  | , |  | év |  | hó | nap |
+|---|---|---|---|---|---|---|
+
+|  | jegyzőkönyvvezető |
+|---|---|
+
+## 10. melléklet a 9/2016. (VI. 28.) IM rendelethez[^31]
+
+2X10900.pdf
+
+## 11. melléklet a 9/2016. (VI. 28.) IM rendelethez
+
+**Jegyzőkönyv minta a szavazás közben előfordult rendkívüli eseményekről, illetve a szavazatszámláló bizottság elnökének a rend fenntartása érdekében tett intézkedéséről**
+
+| **JEGYZŐKÖNYV** **a szavazás közben előfordult rendkívüli eseményről,** **illetve a szavazatszámláló bizottság / helyi választási bizottság elnökének /** **külképviseleti választási iroda vezetőjének a rend fenntartása érdekében tett intézkedéséről** |
+|---|
+
+<table><tbody><tr><td>Készült:</td><td></td><td>év</td><td colspan="2"></td><td>hó</td><td></td><td>nap</td><td colspan="3"></td><td>település</td></tr><tr><td colspan="4"></td><td colspan="2">utca/út/tér</td><td></td><td colspan="2">szám alatt, a</td><td></td><td colspan="2">számú szavazókör helyiségében.</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">**Jelen vannak:**</td></tr><tr><td>SZSZB/HVB/KÜVI elnöke/vezetője</td><td></td></tr><tr><td>SZSZB/HVB/KÜVI tagjai</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+| **A szavazás közben előforduló rendkívüli esemény, illetve a szavazatszámláló bizottság / helyi választási bizottság elnökének / külképviseleti választási iroda vezetőjének a rend fenntartása érdekében tett intézkedése:** |
+|---|
+|  |
+
+|  | , |  | év |  | hó |  | nap |
+|---|---|---|---|---|---|---|---|
+
+|  |  |
+|---|---|
+|  | az SZSZB/HVB/KÜVI elnöke/vezetője |
+
+| A jegyzőkönyv továbbítva: |  | nap |  | óra |  | perc |
+|---|---|---|---|---|---|---|
+
+|  |  |
+|---|---|
+|  | jegyzőkönyvvezető |
+
+## 12. melléklet a 9/2016. (VI. 28.) IM rendelethez[^32]
+
+5X07370.pdf
+
+## 13. melléklet a 9/2016. (VI. 28.) IM rendelethez[^33]
+
+5X07371.pdf
+
+## 14. melléklet a 9/2016. (VI. 28.) IM rendelethez[^34]
+
+5X07373.pdf
+
+## 15. melléklet a 9/2016. (VI. 28.) IM rendelethez[^35]
+
+5X07374.pdf
+
+## 16. melléklet a 9/2016. (VI. 28.) IM rendelethez[^36]
+
+5X07375.pdf
+
+## 17. melléklet a 9/2016. (VI. 28.) IM rendelethez[^37]
+
+5X07376.pdf
+
+## 18. melléklet a 9/2016. (VI. 28.) IM rendelethez[^38]
+
+## 19. melléklet a 9/2016. (VI. 28.) IM rendelethez[^39]
+
+## 20. melléklet a 9/2016. (VI. 28.) IM rendelethez[^40]
+
+## 21. melléklet a 9/2016. (VI. 28.) IM rendelethez[^41]
+
+---
+
+[^1]: A 2. § (2) bekezdés c) pontja a 42/2022. (XII. 28.) IM rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 42/2022. (XII. 28.) IM rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés a) pontja a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.
+[^5]: A 10. § (3) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^6]: A 10. § (3) bekezdés b) pontja a 12/2025. (IX. 15.) IM rendelet 33. § a) pontja szerint módosított szöveg.
+[^7]: A 11. § (1) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 25. §-ával megállapított szöveg.
+[^8]: A 11. § (2) bekezdés b) pontja a 26/2018. (IX. 7.) IM rendelet 26. §-ával megállapított szöveg.
+[^9]: A 11. § (3) bekezdését a 12/2025. (IX. 15.) IM rendelet 33. § b) pontja hatályon kívül helyezte.
+[^10]: A 12. § d) pontja a 12/2025. (IX. 15.) IM rendelet 28. §-ával megállapított szöveg.
+[^11]: A 12. § e) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^12]: A 13. § (1) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 29. § b) pontja szerint módosított szöveg.
+[^13]: A 13. § (1) bekezdés i) pontja a 12/2025. (IX. 15.) IM rendelet 33. § c) pontja szerint módosított szöveg.
+[^14]: A 15. § c) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^15]: A 18. § c) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^16]: A 23. § f) pontját a 12/2025. (IX. 15.) IM rendelet 33. § d) pontja hatályon kívül helyezte.
+[^17]: A 24. § (1) bekezdés i) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^18]: A 24. § (1) bekezdés j) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^19]: A 25. § a 12/2025. (IX. 15.) IM rendelet 33. § e) pontja szerint módosított szöveg.
+[^20]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 26/2018. (IX. 7.) IM rendelet 27. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2018. szeptember 8.
+[^24]: Az 1. mellékletet a 12/2025. (IX. 15.) IM rendelet 33. § f) pontja hatályon kívül helyezte.
+[^25]: A 2. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^26]: A 3. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^27]: A 4. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^28]: Az 5. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^29]: A 6. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^30]: A 7. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^31]: A 10. melléklet a 42/2022. (XII. 28.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^32]: A 12. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^33]: A 13. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^34]: A 14. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^35]: A 15. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^36]: A 16. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^37]: A 17. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
+[^38]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

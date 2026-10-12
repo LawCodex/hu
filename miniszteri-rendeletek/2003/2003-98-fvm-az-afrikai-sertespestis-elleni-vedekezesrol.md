@@ -1,0 +1,974 @@
+---
+title: "98/2003. (VIII. 22.) FVM rendelet az afrikai sertéspestis elleni védekezésről"
+identifier: "98/2003. (VIII. 22.) FVM rendelet"
+njt_id: "2003-98-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2003/FVM/98"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2003-08-22
+in_force_from: 2008-05-16
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-98-20-82"
+retrieved: 2026-10-12
+---
+
+# 98/2003. (VIII. 22.) FVM rendelet az afrikai sertéspestis elleni védekezésről
+
+Az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 11. pontjában kapott felhatalmazás alapján a következőket rendelem el:
+
+### 1. §
+
+(1)[^1] A rendelet hatálya kiterjed valamennyi sertést tartó természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező szervezetre.
+
+(2) E rendelet előírásait kell alkalmazni az afrikai sertéspestis állatbetegség megelőzésére, a betegség megjelenése esetén annak felszámolására.
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *Sertés:* a Suidae családhoz tartozó állat, beleértve a vaddisznót is.
+
+2\. *Jelzősertés:* az a sertés, amelyet az afrikai sertéspestis vírusával szembeni ellenanyagok jelenlétére megvizsgáltak és a vizsgálatok alapján negatívnak találtak, vagy amely olyan gazdaságból származik, amely nem áll zárlat alatt.
+
+3\. *Vaddisznó:* nem gazdaságban tartott vagy tenyésztett sertés.
+
+4\. *Gazdaság:* bármely mezőgazdasági vagy egyéb épület, épületegyüttes, ahol állandó vagy ideiglenes jelleggel sertéseket tenyésztenek vagy tartanak, ez a meghatározás azonban nem vonatkozik a vágóhidakon, valamint közlekedési eszközökön és vadászati célra bekerített területen vaddisznót tartó vadasparkra.
+
+5.[^2] *Diagnosztikai kézikönyv:* az afrikai sertéspestis diagnosztikai kézikönyvének jóváhagyásáról szóló, 2003. május 26-i 2003/422/EK bizottsági határozat mellékleteként kiadott, az afrikai sertéspestis egységes diagnosztikai eljárásokkal történő kimutatását biztosító eljárási útmutató.
+
+6\. *Afrikai sertéspestis-fertőzöttségre gyanús sertés:* olyan sertés vagy sertéshulla, amelynek klinikai tünetei vagy kórbonctani elváltozásai, illetve a diagnosztikai kézikönyv alapján végzett laboratóriumi vizsgálatának eredményei az afrikai sertéspestis esetleges előfordulására utalnak.
+
+7\. *Afrikai sertéspestis előfordulása:* olyan sertés vagy sertéshulla, amelyben az afrikai sertéspestisre jellemző klinikai tüneteket vagy kórbonctani elváltozásokat hivatalosan megállapították, vagy a betegség jelenlétét a diagnosztikai kézikönyvben foglaltak szerint végzett laboratóriumi vizsgálat eredménye alapján hivatalosan megállapították.
+
+8\. *Afrikai sertéspestis kitörése:* az afrikai sertéspestis egy vagy több előfordulása valamely gazdaságban.
+
+9\. *Elsődleges járványkitörés:* olyan járványkitörés, amely járványtanilag nem kapcsolódik ugyanazon régió előző járványkitöréséhez vagy első járványkitörés az ország egy másik régiójában.
+
+10\. *Afrikai sertéspestissel fertőzött terület:* az ország olyan járványtanilag összefüggő területe, ahol az afrikai sertéspestist vaddisznókban egy vagy több alkalommal megállapították, s ezt követően a 15. és 16. §-sal összhangban intézkedések történtek.
+
+11\. *Afrikai sertéspestis elsődleges előfordulása vaddisznókban:* az afrikai sertéspestis előfordulása vaddisznókban olyan területen, ahol korábban nem rendeltek el intézkedéseket a 15. §-ban és 16. §-ban foglaltak szerint.
+
+12\. *Kontaktgazdaság:* olyan gazdaság, ahová az afrikai sertéspestist – akár az elhelyezkedése okán, akár személyek, sertések vagy járművek mozgása eredményeképpen vagy bármely egyéb módon – behurcolhatták.
+
+13.[^3] *Sertéstartó:* olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart.
+
+14\. *Ártalmatlanítás:* a fertőzési veszélyt jelentő anyagok engedélyezett üzemben történő feldolgozással, vagy elégetéssel történő kezelését vagy elásását jelenti oly módon, hogy az afrikai sertéspestis vírusának terjedése elkerülhetővé válik.
+
+15\. *Leölés:* bármely vértelen úton történő beavatkozás, amely az állat halálát okozza.
+
+16\. *Levágás:* az állat halálának elvéreztetés útján történő előidézése.
+
+17.[^4] *Vektor:* az Ornithodoros erraticus fajba tartozó kullancs.
+
+## Az afrikai sertéspestis bejelentése
+
+### 3. §
+
+(1)[^5] Az afrikai sertéspestis bejelentési kötelezettség alá tartozó betegség. Aki a betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről értesíteni az állatorvost, aki a megbetegedést vagy a betegség gyanúját haladéktalanul köteles jelenteni a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalának (a továbbiakban: járási hivatal).
+
+(2) A bejelentési kötelezettség akkor is fennáll, ha egészségesnek látszó állaton vágás során fertőzöttségre gyanút keltő elváltozást észleltek.
+
+(3) A bejelentést szóban, írásban, személyesen vagy megbízott útján is lehet teljesíteni. A bejelentésnek tartalmaznia kell:
+
+a) a sertéstartó nevét, lakcímét;
+
+b) a sertéstartás helyét, vaddisznó esetén az észlelés helyét.
+
+(4)[^6] Az országos főállatorvos a betegség megállapításáról az 1. számú melléklet szerint tájékoztatja a Nemzetközi Járványügyi Hivatalt és az Európai Bizottságot (a továbbiakban: Bizottság) az alábbiak közlésével:
+
+a) az afrikai sertéspestisnek a gazdaságokban észlelt és igazolt kitöréséről,
+
+b) vágóhidakon vagy szállítóeszközökön megállapított előfordulásáról,
+
+c) vaddisznókban első alkalommal észlelt és igazolt előfordulásáról
+
+d) a 8. § szerint elvégzett járványügyi vizsgálat eredményeiről.
+
+(5)[^7] Az országos főállatorvos tájékoztatást ad a Nemzetközi Járványügyi Hivatalnak és a Bizottságnak az afrikai sertéspestis vaddisznók közötti további előfordulásáról.
+
+## Afrikai sertéspestis gyanúja esetén hozandó intézkedések
+
+### 4. §
+
+(1)[^8] Ha a járási hivatal afrikai sertéspestis megbetegedésről vagy annak gyanújáról értesül, köteles haladéktalanul hatósági állatorvost küldeni a helyszínre, aki a diagnosztikai kézikönyvben ismertetett eljárásoknak megfelelően megkezdi a betegség megállapítására vagy kizárására irányuló vizsgálatokat. A hatósági állatorvosnak a gazdaságban ellenőriznie kell a sertésnyilvántartást és a sertések azonosítására szolgáló megjelöléseket.
+
+(2)[^9] Amennyiben a hatósági állatorvos a fertőzöttséget vagy a fertőzöttség gyanúját kizárni nem tudja, a járási hivatal a gazdaság hatósági megfigyelését rendeli el az alábbi intézkedések szerint:
+
+a) a gazdaságban található sertéseket korcsoport szerint nyilvántartásba kell venni, a nyilvántartást naprakészen kell vezetni, beszámítva a fertőzésgyanús időszak alatt történt elléseket és elhullásokat is, és minden korcsoportban fel kell tüntetni a beteg, elhullott vagy feltehetően fertőzött sertések számát;
+
+b) a nyilvántartást a hatósági állatorvosnak minden látogatáskor ellenőriznie kell;
+
+c) a gazdaságban lévő összes sertést a szállásában kell tartani vagy a gazdaságon belül olyan helyre kell elzárni, ahol el lehet különíteni a fertőzöttségre gyanús állatokat;
+
+d)[^10] a gazdaságba nem hozható be, illetve onnan nem vihető ki sertés, továbbá a járási hivatal az állatmozgások tilalmát szükség esetén kiterjesztheti más állatfajokra is;
+
+e) a hatósági állatorvos engedélye nélkül a gazdaságból nem vihető ki a sertéshús, sertéshúskészítmény, -ondó, -petesejt, -embrió, takarmány, eszközök, anyagok, sertéshulla vagy olyan hulladék, amely feltételezhetően terjesztheti az afrikai sertéspestist, továbbá azok nem bocsáthatók kereskedelmi forgalomba sem;
+
+f) személyek és járművek a gazdaságon belül a hatósági állatorvos írásos engedélyével közlekedhetnek;
+
+g) a gazdaság, valamint a sertésistállók be- és kijáratánál fertőtlenítést kell végezni, ezért aki belép az istállókba vagy kilép onnan, be kell tartania az afrikai sertéspestis vírusa széthurcolásának megakadályozására kiadott hatósági előírásokat;
+
+h) a gazdaság elhagyása előtt valamennyi szállítóeszközt gondosan fertőtleníteni kell, továbbá az ott dolgozók kizárólag a hatósági állatorvos engedélyével, fertőtlenítés és átöltözés után hagyhatják el a telepet; továbbá
+
+i) a 8. § szerint járványügyi vizsgálatot kell végezni.
+
+(3) A (2) bekezdésben felsorolt intézkedéseket addig nem lehet feloldani, amíg az afrikai sertéspestis gyanúját hivatalosan ki nem zárták.
+
+(4)[^11] Ahol a járványügyi helyzet megkívánja, a járási hivatal:
+
+a) a (2) bekezdés szerinti gazdaságban foganatosíthatja az 5. § (1) bekezdésében felsorolt intézkedéseket;
+
+b)[^12] védőkörzetet rendelhet el a (2) bekezdésben említett gazdaság körül.
+
+(5) Az 5. § (1) bekezdésében felsorolt intézkedések alkalmazását csak az afrikai sertéspestis vírusával fertőzött vagy fertőzöttségre gyanús sertésekre, illetve tartási helyükre korlátozhatja, ha ezeket a sertéseket a gazdaságban tartott többi sertéstől teljesen elkülönítve tartják, gondozzák és takarmányozzák. A leölésre kerülő sertésekből a diagnosztikai kézikönyv által előírt számú vérmintát kell venni, az afrikai sertéspestis vírusa jelenlétének megállapítása vagy kizárása céljából.
+
+## Afrikai sertéspestis megállapítása esetén hozandó intézkedések
+
+### 5. §
+
+(1)[^13] Ha az afrikai sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási hivatal a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
+
+a) valamennyi, a gazdaságban található sertést késedelem nélkül, hatósági állatorvos felügyelete mellett le kell ölni oly módon, hogy az afrikai sertéspestis vírusának a leölés során történő terjedési kockázata kizárható legyen;
+
+b) ha a sertéseket a leölés helyéről elszállítják, a szállítást zárt, csepegésmentes gépkocsikkal kell végezni, a gépkocsikat a gazdaság elhagyása előtt és a sertések lerakása után fertőtleníteni kell;
+
+c) a fertőzés terjedésének megakadályozása érdekében vagy diagnosztikai célból a fertőzöttségre gyanús sertéseket a betegség hatósági megállapítása előtt is le lehet ölni, a leölést elrendelő határozat a fellebbezésre tekintet nélkül végrehajtandó;
+
+d) a leölésre kerülő sertésekből a diagnosztikai kézikönyvben meghatározott számú vérmintát kell venni annak érdekében, hogy megállapítható legyen az afrikai sertéspestis behurcolásának módja, valamint a betegség bejelentéséig terjedő az az időtartam, ami alatt a fertőzés fennállhatott a gazdaságban;
+
+e) a leölt vagy elhullott állatok hulláit hatósági állatorvos felügyelete mellett oly módon kell ártalmatlanítani, hogy az afrikai sertéspestis vírusa terjedésének a kockázata kizárható, a környezetszennyező hatása pedig minimális legyen;
+
+f) azon sertések húsát, amelyeket a feltételezett fertőződés és a zárlat elrendelésének ideje között vágtak le, lehetőség szerint fel kell kutatni, és ártalmatlanná kell tenni úgy, hogy elkerülhető legyen az afrikai sertéspestis vírus terjedésének a kockázata és a környezet elemeinek szennyeződése;
+
+g) a betegségnek a gazdaságba történő feltételezett behozatala és a hatósági intézkedések meghozatala között a sertésekből vett ondót, petesejteket és embriókat fel kell kutatni, és hatósági felügyelet mellett ártalmatlanítani kell oly módon, hogy kizárható legyen az afrikai sertéspestis vírus továbbterjesztésének kockázata;
+
+h) minden feltehetően szennyeződött anyagot és hulladékot (pl. takarmányt, almot, hígtrágyát stb.) hatósági állatorvos felügyelete mellett olyan kezelésnek kell alávetni, amely biztosítja az afrikai sertéspestis vírusának az elpusztítását;
+
+i) a járványt terjesztő tárgyakat meg kell semmisíteni;
+
+j) miután a sertéseket leölték, az állatszállásokat az állatokat vagy hulláikat szállító járműveket, valamint a feltehetően fertőzött berendezéseket – a 12. §-ban foglaltak szerint – takarítani és fertőtleníteni kell, az almot, a trágyát és hígtrágyát pedig fertőtleníteni kell, és ha szükséges rovarirtást is kell végezni;
+
+k) a betegség elsődleges kitörése esetén az afrikai sertéspestis vírusának izolátumát a vírus genotípusának meghatározása érdekében a diagnosztikai kézikönyvben leírt laboratóriumi vizsgálat alá kell vetni;
+
+l) a 8. § szerint járványügyi vizsgálatot kell végezni;
+
+m) a betegség megállapításáról a települési (fővárosban a fővárosi kerületi) önkormányzat jegyzőjét mielőbb értesíteni kell.
+
+(2)[^14] Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, az országos főállatorvos az (1) bekezdés a) és g) pontjában foglaltaktól eltérően rendelkezhet, a járványvédelem alapvető érdekeinek figyelembevételével.
+
+(3)[^15] A (2) bekezdés szerinti döntésről az országos főállatorvos haladéktalanul tájékoztatja a Bizottságot.
+
+## Az afrikai sertéspestis megállapítása esetén hozandó intézkedések különböző járványtani egységekből álló gazdaságokban
+
+### 6. §
+
+(1)[^16] Olyan gazdaságok esetén, amelyek két vagy több elkülönült termelési egységből (több telepből) állnak, a sertések hízlalásának befejezése érdekében a járási hivatal olyan döntést is hozhat, hogy egy fertőzött gazdaságban a nem fertőzött termelési egységre (telepre) felmentést ad az 5. § (1) bekezdésének a) pontjában foglalt rendelkezések alól, ha a hatósági állatorvos megerősítette, hogy a termelési egység zártsága és mérete, valamint technológiája lehetővé teszi az állatok teljesen elkülönült tartását, takarmányozását és gondozását, így a vírus nem terjedhet át egyik termelési egységből a másikba.
+
+(2)[^17] Ha a járási hivatal az (1) bekezdés szerint jár el, a járványvédelmi garanciákat biztosítania kell.
+
+(3)[^18] Az (1) bekezdés szerinti döntésről az országos főállatorvos tájékoztatja a Bizottságot.
+
+## A kontaktgazdaságokban hozandó intézkedések
+
+### 7. §
+
+(1) A kontaktgazdaságokban a 4. §-ban előírt intézkedéseket addig kell alkalmazni, amíg az afrikai sertéspestis gyanúját hivatalosan ki nem zárják.
+
+(2)[^19] Ha a járványtani helyzet szükségessé teszi, a járási hivatal a kontaktgazdaságokban az 5. § (1) bekezdése szerint intézkedhet. Az állatok leölése előtt a sertésekből diagnosztikai kézikönyvben meghatározott számú mintát kell venni, hogy ezekben a gazdaságokban az afrikai sertéspestis vírusa vagy az általa termelt ellenanyag jelenléte megállapítható vagy kizárható legyen.
+
+## Járványügyi vizsgálat
+
+### 8. §
+
+(1) A járványügyi vizsgálatot a 20. § szerinti készenléti terv keretein belül kell elvégezni. A vizsgálatnak az alábbiakra kell kiterjedni:
+
+a) azon időtartamra, amely alatt az afrikai sertéspestis a betegség bejelentését vagy gyanúját megelőzően már jelen lehetett a gazdaságban;
+
+b) a gazdaságban észlelt afrikai sertéspestis eredetére és azon gazdaságok azonosítására, ahol olyan sertések vannak, amelyek ugyanazon forrásból fertőződhettek;
+
+c) azon személyek, járművek, sertések, hullák, húsok, ondó vagy anyagok mozgására, amelyek feltehetően a vírust a gazdaságba bevitték, vagy azt onnan kivitték;
+
+d) arra a lehetőségre, hogy vektorok vagy vaddisznók okozhatják-e a betegség terjedését.
+
+(2)[^20] Ha a vizsgálat eredményeiből arra lehet következtetni, hogy az afrikai sertéspestis egy másik országban lévő gazdaságból vagy gazdaságba terjedt át, az érintett ország illetékes hatóságát az országos főállatorvos haladéktalanul értesíti.
+
+(3)[^21] A (2) bekezdés szerinti döntésről az országos főállatorvos tájékoztatja a Bizottságot.
+
+## Védőkörzet, megfigyelési körzet kijelölése[^22]
+
+### 9. §
+
+(1)[^23] Ha az adott gazdaságban a sertéseken az afrikai sertéspestist hivatalosan megállapították, a járási hivatal a kitörés helye körül legalább 3 km-es sugarú kör által határolt területre védőkörzetet rendel el, amely az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) által elrendelt legalább 10 km sugarú kör által határolt megfigyelési körzeten belül helyezkedik el.
+
+(2)[^24] A védőkörzet és a megfigyelési körzet kijelölése során figyelembe kell venni:
+
+a) a 8. § szerint elvégzett járványügyi vizsgálat eredményeit;
+
+b) a földrajzi helyzetet, különös tekintettel a természetes és mesterséges határokra;
+
+c) a gazdaságok elhelyezkedését és egymástól való távolságát;
+
+d) a különböző hasznosítású sertések szállításának és kereskedelmének kialakult gyakorlatát és a vágóhidak elérhetőségét;
+
+e)[^25] a sertésforgalom az intézkedéssel érintett területen belüli ellenőrzésére rendelkezésre álló lehetőségeket, különös tekintettel arra az esetre, ha a sertéseket leölés céljából a tartási helyükről el kell szállítani.
+
+(3)[^26] Ha az intézkedéssel érintett szomszédos állam területének egy részét is érinti, akkor azt az érintett szomszédos ország illetékes hatóságaival együttműködve kell kijelölni.
+
+(4)[^27] A vármegyei kormányhivatal minden szükséges intézkedést megtesz (figyelmeztető táblák kihelyezése, tömegtájékoztatási eszközök igénybevétele stb.) annak érdekében, hogy a védőkörzet és a megfigyelési körzet területén minden érdekelt tudomást szerezzen a 10–11. §-okban foglalt korlátozásokról, illetve a korlátozások be nem tartásának következményeiről.
+
+## Intézkedések a védőkörzet területén[^28]
+
+### 10. §
+
+(1)[^29] A járási hivatalnak a védőkörzet területén a következő intézkedések végrehajtásáról kell gondoskodni:
+
+a)[^30] a sertéstartók bejelentése alapján – haladéktalanul – minden gazdaságot és azok sertésállományát nyilvántartásba kell vennie, továbbá ezeket a gazdaságokat a védőkörzet létrehozását követő hét napon belül a hatósági állatorvosnak fel kell keresnie a sertések klinikai vizsgálata, valamint az azonosító jelölésének ellenőrzése céljából;
+
+b) meg kell tiltani a sertések közutakon és magánutakon történő mozgatását és szállítását,
+
+c)[^31] a *b)* pontban meghatározott tilalom nem vonatkozik a sertések közúton vagy vasúton történő szállítására, ha menet közben nem rakodnak ki és nem állnak meg, vagy olyan sertések esetében, amelyeket engedéllyel kivételes esetben a védőkörzeten kívülről szállítanak és útban vannak a védőkörzeten belül elhelyezkedő vágóhíd felé, továbbá a *g)* pont szerinti esetekben;
+
+d)[^32] a felszerelési tárgyakat, járműveket, melyeket sertések, más haszonállatok, feltehetően fertőzött anyagok (hullák, takarmány, trágya, hígtrágya stb.) szállítására használnak, használatuk után a 12. §-ban szabályozott rendelkezéseknek és eljárásoknak megfelelően azonnal tisztítani, fertőtleníteni és kezelni kell, és a sertések szállítására használt járművek tisztítás és fertőtlenítés után kizárólag a hatósági állatorvos engedélyével hagyhatják el a védőkörzet területét;
+
+e) a hatósági állatorvos engedélye nélkül a gazdaság területéről ki vagy a gazdaság területére be, más fajú állat nem kerülhet;
+
+f) a gazdaságban észlelt minden megbetegedett vagy elhullott sertésről értesíteni kell a hatósági állatorvost, aki elvégzi az afrikai sertéspestis jelenlétének megállapításához szükséges vizsgálatokat;
+
+g) nem fertőzött gazdaságból a sertéseket a fertőzött gazdaság takarításának és fertőtlenítésének és ha szükséges rovartalanításának befejezését követő legalább 40 napig tilos elszállítani, azonban ennek eltelte után – a (4) bekezdésben felsorolt feltételekkel – engedélyezhető a sertések gazdaságból való elszállítása
+
+ga)[^33] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőség szerint a védőkörzeten belül – azonnali vágásra, vagy,
+
+gb) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat pedig hatósági felügyelet mellett ártalmatlanítják, vagy
+
+gc)[^34] kivételes esetben a védőkörzeten belüli más gazdaságba;
+
+h)[^35] a sertések ondója, petesejtjei és embriói nem vihetők ki a védőkörzet területén lévő gazdaságból;
+
+i) aki a gazdaságba be- vagy onnan kilép, köteles betartani az afrikai sertéspestis vírus továbbterjedésének megelőzésére hozott hatósági intézkedéseket.
+
+(2)[^36] Amennyiben az (1) bekezdésben megállapított tilalmak további járványkitörések miatt 40 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi intézkedést megalapozó vagy más kényszerítő körülmények merülnek fel, a (4) bekezdésben felsorolt feltételektől függően a járási hivatal – a sertéstartó indokolt kérelmére – engedélyezheti a védőkörzeten belüli nem fertőzött gazdaságból sertések közvetlen elszállítását:
+
+a)[^37] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőleg a védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
+
+b) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat hatósági állatorvosi felügyelet mellett feldolgozzák;
+
+c)[^38] a védőkörzeten belül más tartási helyre.
+
+(3)[^39] A (2) bekezdés c) pontjában meghatározott döntésről az országos főállatorvos tájékoztatja a Bizottságot.
+
+(4)[^40] A járási hivatal a (2) bekezdés szerinti engedélyt a következő feltételek teljesülése esetén adhatja meg:
+
+a) a hatósági állatorvos a gazdaságban már elvégezte a sertések – különösen az elszállításra kerülő sertések – klinikai vizsgálatát, beleértve egy részük hőmérőzését, valamint ellenőrizte a nyilvántartást és a sertések azonosítására szolgáló jelöléseket;
+
+b) az *a)* pont szerinti ellenőrzések és vizsgálatok nem igazolták az afrikai sertéspestis megjelenését;
+
+c) a sertéseket a hatósági állatorvos által lepecsételt járművekben szállítják;
+
+d) a sertések szállításában részt vevő járművet és felszerelést a szállítás után a 12. §-ban foglalt rendelkezéseknek megfelelően azonnal megtisztítják és fertőtlenítik;
+
+e) vágáskor vagy leölés előtt a diagnosztikai kézikönyvben meghatározott számú mintát kell venni a sertésekből, hogy ezekben a gazdaságokban az afrikai sertéspestis vírusának vagy az általa termelt ellenanyagnak a jelenléte megállapítható vagy kizárható legyen.
+
+(5) Ha sertéseket vágóhídra szállítják:
+
+a) a vágóhídért felelős hatósági állatorvost értesíteni kell a sertések vágóhídra szállításáról;
+
+b) a vágóhídra való megérkezésük után ezeket a sertéseket a többi sertéstől el kell különíteni, és külön kell levágni;
+
+c) a kijelölt vágóhídon végzett előzetes és leölés utáni vizsgálat során a hatósági állatorvosnak minden olyan tünetet és elváltozást figyelembe kell venni, amely az afrikai sertéspestis jelenlétére utal.
+
+(6) Az (5) bekezdés szerinti sertésekből származó friss hús jelölése 6,5 cm hosszú, 4,5 cm széles ovális alakú bélyegzővel történik. A felirat tartalmazza a felső részén az ország nevét nagybetűkkel, középső részén a vágóhíd jóváhagyott állatorvosi számát, alsó részén pedig az ,,EC'' jelzést. Két egyenes derékszögben keresztezi egymást a bélyegző közepén oly módon, hogy az információt ne zavarja. A betűk 0,8 cm, a számok 1 cm magasak. A bélyegző információt ad arról az állatorvosról, aki a húst ellenőrizte.
+
+(7)[^41] Az (5) bekezdés szerinti sertésből származó hús kereskedelmi forgalomba csak akkor kerülhet, ha rajta – hatósági állatorvos felügyelete mellett – az alábbi kezelések egyikét elvégezték:
+
+a) hőkezelést hermetikusan zárt konténerben 3.00-ás vagy magasabb Fo értékkel végzik;
+
+b) a hőkezelés során a nyersanyag belsejében 10 percen keresztül legalább 80 °C-ot biztosítanak;
+
+c) a testrészt vagy a nyersanyagot legalább 150 percen keresztül forralási hőmérsékleten tartják, ennek során a keletkezett darabok nem lehetnek 10 cm-nél vastagabbak;
+
+d) a zsír kiolvasztását legalább 100 °C-on végzik.
+
+A kezelést a vármegyei kormányhivatal által kijelölt helyen, hatósági állatorvos felügyelete mellett kell elvégezni. A hús azzal a feltétellel küldhető el a kezelési helyére, hogy a szállítmányt az induláskor hatósági állatorvos lepecsételi, és az a szállítás folyamán végig lepecsételve marad.
+
+(8)[^42] A védőkörzet területén az intézkedéseket legalább addig fenn kell tartani, amíg
+
+a) a takarítást és a fertőtlenítést a fertőzött gazdaságokban el nem végezték;
+
+b) a sertések klinikai és laboratóriumi vizsgálatát a diagnosztikai kézikönyv szerint valamennyi gazdaságban elvégezték.
+
+A vizsgálatokat addig nem szabad elvégezni, amíg a fertőzött gazdaságban az előzetes takarítás, fertőtlenítés és ha szükséges rovarirtás befejezése után 45 nap nem telt el.
+
+(9) Az (1) bekezdés g) pontjában, valamint a (2) és (8) bekezdésben előírt 40 és 45 napos időszakok 30 napra csökkenthetők, ha intenzív mintavételi és vizsgálati programot alkalmazva lehetővé válik az afrikai sertéspestis kizárása a kérdéses telepen.
+
+## Intézkedések a megfigyelési körzetben[^43]
+
+### 11. §
+
+(1)[^44] A vármegyei kormányhivatalnak a megfigyelési körzetben a következő intézkedéseket kell foganatosítania:
+
+a)[^45] minden sertéstartó gazdaságot és annak sertésállományát a sertéstartók bejelentése alapján a járási hivatalnak nyilvántartásba kell venni;
+
+b)[^46] meg kell tiltani a sertéseknek közúton vagy magántulajdonú úton végzett hajtását és szállítását, kivéve, ha azt a járási hivatal engedélyezi;
+
+c)[^47] a megfigyelési körzetben a sertések, más állatok vagy ragályfogó tárgyak szállítására használt és ez által esetleg fertőzött szállítójárműveket haladéktalanul tisztítani és fertőtleníteni kell, valamint ha szükséges, a rovarirtást is el kell végezni; ezek a szállítójárművek nem hagyhatják el a megfigyelési körzetet a járási hivatal által előírt tisztítás és fertőtlenítés nélkül;
+
+d)[^48] a megfigyelési körzet létrehozásától számított első hét nap alatt a járási hivatal engedélye nélkül más fajú állat nem kerülhet be a gazdaságba vagy onnan ki;
+
+e) a gazdaságban észlelt minden megbetegedett vagy elhullott sertésről értesíteni kell a hatósági állatorvost, aki elvégzi az afrikai sertéspestis jelenlétének megállapításához szükséges vizsgálatokat;
+
+f)[^49] a sertéseket a fertőzött gazdaság előzetes kitakarításának, fertőtlenítésének és ha szükséges rovarirtásának befejezését követő legalább 30 napig tilos elszállítani a gazdaságból, ennek eltelte után azonban – a 10. § (4) bekezdésében felsorolt feltételek függvényében – a járási hivatal engedélyezheti a sertések elszállítását az említett gazdaságból, közvetlenül elszállítva a 10. § (1) bekezdés ga)–gc) pontjaiban foglaltak szerint;
+
+g)[^50] sertések ondója, petesejtjei és embriói nem vihetők ki a megfigyelési körzetben található gazdaságból;
+
+h) aki a sertéstelepekre be- vagy onnan kilép, köteles betartani az afrikai sertéspestisvírus elhurcolásának megelőzésére hozott hatósági intézkedéseket.
+
+(2) Az (1) bekezdés b) pontjában meghatározott tilalom nem vonatkozik:
+
+a) a sertéseknek közúton vagy vasúton történő tranzitszállítására akkor, ha a szállítmány nem áll meg, vagy nem kerül sor kirakodásra;
+
+b)[^51] a megfigyelési körzeten kívülről azonnali vágásra szállított sertésekre, melyek útban vannak a megfigyelési körzetben található vágóhídra.
+
+(3)[^52] Amennyiben az (1) bekezdésben megállapított tilalmak további járványkitörések miatt 40 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi vagy más kényszerítő körülmények merülnek fel, a 10. § (4) bekezdésében felsorolt feltételektől függően a járási hivatal – a sertéstartó indokolt kérésére – engedélyezheti a sertések közvetlen elszállítását a megfigyelési körzeten belüli gazdaságból:
+
+a)[^53] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőleg védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
+
+b) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat hatósági állatorvosi felügyelet mellett ártalmatlanítják; vagy
+
+c)[^54] a védőkörzeten vagy megfigyelési körzeten belül más tartási helyre.
+
+(4)[^55] A (3) bekezdés c) pontjában meghatározott döntésről az országos főállatorvos tájékoztatja a Bizottságot.
+
+(5)[^56] A megfigyelési körzetben legalább addig kell fenntartani az intézkedéseket, amíg
+
+a) a takarítást és a fertőtlenítést a fertőzött gazdaságokban el nem végezték;
+
+b) minden gazdaságban elvégezték a sertések diagnosztikai kézikönyv szerinti klinikai és laboratóriumi vizsgálatát. A vizsgálatokat addig nem lehet elvégezni, amíg a fertőzött gazdaságban az előzetes takarítás, fertőtlenítés és ha szükséges rovarirtás befejezése után 40 nap el nem telt.
+
+(6) Az (1) bekezdés f) pontjában meghatározott 30 napos időtartam csökkenthető 21 napra, a (3) bekezdésben meghatározott 40 nap időtartam csökkenthető 30 napra, az (5) bekezdésben meghatározott 40 nap csökkenthető 20 napra, ha az intenzív mintavételi és vizsgálati programot alkalmazva lehetővé válik az afrikai sertéspestis kizárása.
+
+## Takarítás, fertőtlenítés, rovarirtás
+
+### 12. §
+
+(1)[^57] A felhasznált fertőtlenítőszereket és rovarirtószereket, valamint ezek együttes alkalmazását és a használt koncentráció mértékét – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) előzetes javaslata alapján – a vármegyei kormányhivatal hagyja jóvá.
+
+(2) A takarítási és fertőtlenítési munkálatokat, és ha szükséges rovarirtási munkálatokat a hatósági állatorvos utasítása szerint és felügyelete mellett kell végrehajtani.
+
+(3) A takarítás, fertőtlenítés és a rovarirtás alkalmazását, módszereit a *2. számú mellékle*t tartalmazza.
+
+## A sertések újratelepítése
+
+### 13. §
+
+(1) A sertések újratelepítése az afrikai sertéspestissel fertőzött gazdaságokban a 12. §-ban foglaltak szerint végzett takarítási, fertőtlenítési és rovarirtási műveletek befejezését követő 40 nap elteltével lehetséges.
+
+(2) A sertések újratelepítésekor figyelembe kell venni az adott gazdaságban folyó gazdálkodás típusát.
+
+(3) Azon szabadtartású gazdaságok esetén, ahol a betegség előfordulása nem hozható összefüggésbe vektorokkal, a sertések újratelepítését jelzősertések betelepítésével kell kezdeni. A jelzősertéseket a hatósági állatorvos előírásainak megfelelően a gazdaság egész területén kell elhelyezni, és a gazdaságba történő betelepítést követő 45 nap elteltével vett minták alapján, ellenanyagok jelenlétére meg kell vizsgálni. Ha egyik sertés sem termelt ellenanyagokat az afrikai sertéspestis vírusával szemben, a teljes újratelepítés elvégezhető. Az újratelepített gazdaságból sertést elszállítani csak akkor lehet, ha a szerológiai vizsgálatok eredménye valamennyi sertés esetében negatív.
+
+(4) Egyéb tartási formát folytató gazdaságok esetén, ahol a betegség előfordulása nem hozható összefüggésbe vektorokkal, a sertések újratelepítésekor vagy a (3) bekezdésben előírt intézkedések alapján kell eljárni, vagy a teljes újratelepítést úgy kell végezni, hogy
+
+a) az összes sertés húsz nap alatt érkezik a gazdaságba, és a sertések zárlat alatt nem álló gazdaságból származnak,
+
+b) az újratelepített sertéseket a diagnosztikai kézikönyv szerint szerológiai vizsgálatnak vetik alá és a vizsgálathoz szükséges mintákat legkorábban az utolsó sertés beérkezését követő 45 nap elteltével kell levenni,
+
+c) a gazdaságból sertés nem szállítható el, amíg nem érkezik meg a szerológiai vizsgálatok negatív eredménye.
+
+(5) Azon telepek esetében, ahol a betegség előfordulása vektorokkal hozható kapcsolatba, az újratelepítésre 6 évig nem kerülhet sor kivéve, ha
+
+a) hatósági állatorvosi felügyelete alatt a vektoroktól való mentesítés sikeresen megtörtént azokon a területeken, ahol sertéseket kívánnak tartani;
+
+b) bizonyítható, hogy a vektor fennmaradása a továbbiakban nem jelent kockázatot az afrikai sertéspestis továbbvitelében.
+
+(6) Az (5) bekezdés esetében a betelepítést a (3) bekezdésben foglalt rendelkezések szerint kell elvégezni.
+
+(7) Az újratelepített telepről sertés kiszállítására csak a teljes betelepítést követően – legkorábban 60 nappal – a diagnosztikai kézikönyv szerint végzett negatív eredményű vizsgálat után kerülhet sor.
+
+(8)[^58] Ahol a betegség előfordulása nem hozható összefüggésbe vektorokkal és ha a telep takarítása, fertőtlenítése óta 6 hónapnál hosszabb idő telt el – a járványtani helyzet figyelembevételével – a vármegyei kormányhivatal a (3)–(4) bekezdésekben foglaltakkal kapcsolatban engedményeket tehet.
+
+(9)[^59] Más háziállatfajoknak a fertőzött gazdaságba való újratelepítését a vármegyei kormányhivatal engedélyezi, figyelembe véve a fertőzés terjedésének kockázatát vagy a meglévő vektorok újratelepítés miatti fennmaradását.
+
+## A vágóhídon vagy szállítóeszközön lévő sertéseken észlelt afrikai sertéspestis esetén hozandó intézkedések
+
+### 14. §
+
+(1)[^60] Ha az afrikai sertéspestis gyanúja vágóhídon vagy szállítás közben kerül megállapításra, a járási hivatal haladéktalanul megkezdi a betegség megállapítása vagy kizárása érdekében a járványügyi vizsgálatot a diagnosztikai kézikönyvben foglalt eljárás alapján.
+
+(2)[^61] Ha az afrikai sertéspestis előfordulását valamely vágóhídon vagy szállítóeszközön észlelik, a járási hivatal elrendeli:
+
+a) a vágóhídon vagy a szállítóeszközön lévő valamennyi sertés azonnali leölését;
+
+b) a fertőzött állatok hulláinak, belsőségeinek és az állati hulladékoknak hatósági felügyelet melletti ártalmatlanítását;
+
+c) az épületek és az eszközök – beleértve a járműveket is – hatósági állatorvos felügyelete mellett történő, a 12. §-ban foglaltaknak megfelelő takarítását és fertőtlenítését;
+
+d) a 8. §-ban foglaltaknak megfelelően elvégzendő járványügyi vizsgálatot;
+
+e) az afrikai sertéspestis vírusa izolátumának vizsgálatát a diagnosztikai kézikönyvben előírt laboratóriumi eljárás szerint, a vírus genotípusának meghatározása céljából;
+
+f) a 7. §-ban foglalt intézkedéseket abban a gazdaságban, ahonnan a fertőzött sertések, illetve azok hullái származnak, valamint a többi kontaktgazdaságban;
+
+g) a fertőzött sertések vagy hulláik származási helyére – a járványügyi vizsgálat függvényében – az 5. § (1) bekezdésében leírt intézkedések alkalmazását;
+
+h) hogy a 12. § szerint elvégzett takarítási, fertőtlenítési, és ha szükséges, rovarirtási műveletek befejezését követő legalább 24 óráig nem telepíthetnek vissza vágásra vagy elszállításra szánt állatot.
+
+(3) A vágóhíd a 12. § szerint elvégzett takarítási és fertőtlenítési műveletek befejezését követő legalább 24 óráig nem fogadhat levágásra szánt állatot.
+
+## Az afrikai sertéspestis vaddisznókban történő előfordulásának gyanúja és megállapítása esetén hozandó intézkedések
+
+### 15. §
+
+(1)[^62] Ha a vármegyei kormányhivatal vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség gyanújáról. Az elejtett vagy elhullott vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
+
+(2)[^63] Ha a vaddisznókban megállapították az afrikai sertéspestis elsődleges előfordulását, a vármegyei kormányhivatal azonnal meghozza a következő intézkedéseket:
+
+a) a nemzeti szakértői csoport javaslata alapján kijelöli a fertőzött területet, ahol a járási hivatal útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és elrendeli
+
+aa) valamennyi gazdaságban a sertések korcsoportok szerinti nyilvántartásba vételét,
+
+ab) a gazdaságban lévő összes sertésnek a szállásán vagy más olyan helyen tartását, ahol a vaddisznóktól el lehet őket különíteni,
+
+ac) azon intézkedéseket, amelyek biztosítják, hogy vaddisznók nem férhetnek hozzá olyan anyagokhoz, amelyekkel a gazdaságban lévő sertések később érintkezhetnek,
+
+ad) azon intézkedést, hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a járási hivatal engedélyezi,
+
+ae) a sertéstartó épületek, illetve a gazdaság ki- és bejáratánál megfelelő fertőtlenítési, és ha szükséges, rovarirtó eszköz elhelyezését,
+
+af) az afrikai sertéspestis vírus továbbterjesztési kockázatának csökkentése érdekében a megfelelő higiéniai óvintézkedéseket minden olyan személlyel szemben, aki érintkezhet vaddisznókkal, így az intézkedések magukban foglalhatják a vaddisznóval érintkezésbe került személyek ideiglenes belépési tilalmát a gazdaságba,
+
+ag) a gazdaságban minden, az afrikai sertéspestis tüneteit mutató elhullott vagy megbetegedett sertés vizsgálatát az afrikai sertéspestis jelenlétére vonatkozóan,
+
+ah) a kilőtt vagy elhullva talált vaddisznó bármilyen testrésze, illetve minden olyan anyag vagy felszerelés bevitelének tilalmát, amely fertőződhetett az afrikai sertéspestis vírusával,
+
+ai) a területről származó sertések, azok ondója, embriója vagy petesejtje kereskedelmi forgalomba bocsátásának tilalmát, és
+
+aj) amennyiben szükséges, további kiegészítő intézkedéseket;
+
+b)[^64] gondoskodik arról, hogy az összes, a kijelölt fertőzött területen kilőtt vagy elhullva talált vaddisznót hatósági állatorvos ellenőrizze, és a diagnosztikai kézikönyv alapján afrikai sertéspestisre nézve megvizsgálja, továbbá arról, hogy valamennyi vaddisznó hullája a hatósági állatorvosi felügyelet mellett ártalmatlanításra kerüljön; valamint
+
+c) intézkedik, hogy az afrikai sertéspestis vírusának izolátumát a vírus genotípusának meghatározása céljából vessék alá a diagnosztikai kézikönyvben előírt laboratóriumi eljárásnak.
+
+(3)[^65] A (2) bekezdés a) pont aa) alpontjában említett nyilvántartás adatait az állattartónak naprakészen kell vezetnie, azt a hatósági állatorvos kérésére be kell mutatnia, aki az adatokat minden szemle alkalmával ellenőrzi. Azokban a gazdaságokban, ahol szabadon tartják a sertéseket, az első számlálást becslés alapján is el lehet végezni.
+
+(4)[^66] Ha az afrikai sertéspestis olyan területen lépett fel vaddisznókban, amely egy másik ország területéhez közel esik, az érintett országok illetékes hatóságaival együtt kell működni a betegség felszámolására irányuló intézkedések meghozatalában.
+
+(5)[^67]
+
+## Tervek az afrikai sertéspestisnek egy vaddisznóállományban történő felszámolására
+
+### 16. §[^68]
+
+(1)[^69] A nemzeti szakértői csoport javaslata alapján a vármegyei kormányhivatal – az afrikai sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és felülvizsgálatra a NÉBIH-nek megküldi. A NÉBIH a tervezetet 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
+
+(2) Az (1) bekezdés szerinti terv jóváhagyása után az abban foglalt intézkedések felváltják a 15. §-ban meghatározott bevezető intézkedéseket.
+
+(3) Az (1) bekezdés szerinti tervben tájékoztatást kell adni a következőkről:
+
+a) a 15. § szerint végzett járványügyi vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi elterjedéséről;
+
+b)[^70] a fertőzött terület kiterjedéséről, melynek meghatározásakor a vármegyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+
+ba) a terület vaddisznóállományát,
+
+bb) a vaddisznók mozgását gátló, főbb természetes vagy mesterséges akadályokat;
+
+c) a biológusok, vadászok, vadásztársaságok, a vadászati, a természetvédelmi, állategészségügyi és közegészségügyi szolgálatok szoros együttműködésének megszervezéséről;
+
+d) az információs kampányról, amelyet azért kell indítani, hogy a vadászok megismerjék azokat az intézkedéseket, amelyeket a betegség-felszámolási terv keretein belül alkalmazniuk kell;
+
+e) azokról a konkrét feladatokról, amelyeket a vaddisznóállományban fennálló fertőzés kiterjedésének megállapítása céljából hajtottak végre, a kilőtt és elhullva talált vaddisznók vizsgálata és a laboratóriumi vizsgálatok alapján, beleértve a korcsoportok szerint végzett járványügyi vizsgálatokat;
+
+f) a betegség terjedésének megakadályozása érdekében a vadászokkal szemben támasztott követelményekről;
+
+g) az elhullott vagy lőtt vaddisznók begyűjtésének és ártalmatlanításának – hatósági állatorvos felügyelete mellett történő – végrehajtásáról; továbbá azok
+
+h) járványügyi és laboratóriumi vizsgálatáról, mely vizsgálatok az alábbi kérdésekre terjednek ki:
+
+ha) a földrajzi terület, ahol az állatot elhullva találták vagy lelőtték,
+
+hb) az időpont, amikor az állatot elhullva találták vagy lelőtték,
+
+hc) a személy, aki találta vagy lőtte az állatot,
+
+hd) a sertés korára és nemére,
+
+he) kilövés esetén a kilövés előtti tünetekre,
+
+hf) ha elhullva találták a hulla állapotára,
+
+hg) a laboratóriumi eredményekre;
+
+i) a meghatározott kiterjedésű fertőzött területen található gazdaságokban, és ha szükséges, a környezetében alkalmazható megfigyelési programokról és prevenciós intézkedésekről, beleértve a sertések szállítását és mozgását a területen belül, a területre és a területről, továbbá a sertések, ondójuk, embrióik vagy petesejtjeik kivitelének és kereskedelembe bocsátásának tilalmát, és tartalmazhat ideiglenes tiltást a sertéstenyésztésre és az új telepek építésére vonatkozóan;
+
+j) azokról a kritériumokról, melyek a foganatosított intézkedések megszüntetéséhez szükségesek;
+
+k) a terv végrehajtásáért és a koordinációért felelős hatósági állatorvos személyéről;
+
+l)[^71] olyan rendszerről, amelynek alapján a nemzeti szakértői csoport rendszeresen át tudja tekinteni a betegségfelszámolási terv eredményeit;
+
+m) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lépnek életbe, amikor az adott fertőzött területen legalább 12 hónap eltelt az afrikai sertéspestis utolsó, vaddisznókban megállapított előfordulása után.
+
+(4) A monitoring intézkedéseket legalább tizenkét hónapig kell fenntartani, és tartalmazniuk kell legalább azokat az intézkedéseket, amelyek a (3) bekezdés g) és h) pontok szerint már folynak.
+
+(5)[^72] Az adott fertőzött területen lévő járványügyi helyzetről és a betegségfelszámolási terv eredményeiről az országos főállatorvos hathavonta tájékoztatja a Bizottságot.
+
+## A vektorok útján történő afrikai sertéspestis vírus terjedésének megelőzésére szolgáló intézkedések
+
+### 17. §
+
+(1)[^73] Ha az afrikai sertéspestis kapcsán a vektorok jelenléte nem zárható ki, a vármegyei kormányhivatalnak intézkedni kell:
+
+a) a fertőzött épületeknek és környezetüknek a vektorok jelenlétére vonatkozó átvizsgálásáról, ha szükséges, minta begyűjtéséről a 3. számú mellékletnek megfelelően;
+
+b) ahol a vektorok jelenléte megállapításra került:
+
+ba) a megfelelő laboratóriumi vizsgálatok elvégzéséről az afrikai sertéspestis vírusnak a vektorokban való jelenlétére vagy kizárására vonatkozóan,
+
+bb) további monitoring ellenőrző vizsgálatok elvégzéséről és felszámoló intézkedések meghozataláról a gazdaságban és a gazdaságot övező területen;
+
+c) azon területeken, ahol a vektorok jelenlétét megállapítják, de felszámolásuk bármilyen okból nem lehetséges a gazdaságban hatéves időtartamra a sertés tartásának tiltásáról, valamint más háziállatok tartására vonatkozó tiltás lehetséges bevezetéséről.
+
+(2)[^74] Az (1) bekezdésben foglaltak végrehajtásáról az országos főállatorvos tájékoztatja a Bizottságot.
+
+## Az afrikai sertéspestis nemzeti referencia laboratóriumának feladatai, kutatások végzése[^75]
+
+### 18. §[^76]
+
+(1) Az afrikai sertéspestis nemzeti referencia laboratóriuma (a továbbiakban: NRL) felelős azért, hogy az afrikai sertéspestis jelenlétének kimutatására és a vírusizolátumok genotípusának azonosítására szolgáló laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján végezzék el. Ebből a célból külön megállapodásokat köthet a közösségi referencialaboratóriummal és a többi tagállam nemzeti referencia laboratóriumával.
+
+(2) Az NRL felelős a betegséggel kapcsolatos vizsgálatokat végző laboratóriumokban alkalmazott szabványok és diagnosztikai módszerek összehangolásáért. Ebből a célból:
+
+a) elvégzi az afrikai sertéspestis diagnosztizálásával kapcsolatos vizsgálatokat;
+
+b) diagnosztikai reagensekkel láthatja el az egyes laboratóriumokat;
+
+c) ellenőrzi a használatos valamennyi diagnosztikai reagens minőségét;
+
+d) rendszeres időközönként összehasonlító vizsgálatokat végez;
+
+e) megőrzi az afrikai sertéspestis hazai megállapított eseteiből származó vírusizolátumokat;
+
+f) együttműködik az afrikai sertéspestis közösségi referencialaboratóriumával.
+
+(3) Az NRL feladatait a NÉBIH Állategészségügyi Diagnosztikai Igazgatóságának budapesti laboratóriuma látja el.
+
+(4) Az NRL az (5) és (6) bekezdésben foglalt kivétellel kizárólagosan végzi az e rendeletben előírt hatósági laboratóriumi vizsgálatokat.
+
+(5) A NÉBIH Állategészségügyi Diagnosztikai Igazgatóság debreceni és kaposvári laboratóriumai részt vesznek a szerodiagnosztikai vizsgálatok végrehajtásában, különös tekintettel a járványügyi felmérő, illetve a monitoring programok keretében történő vizsgálatokra.
+
+(6) Az országos főállatorvos – a NÉBIH szakvéleménye alapján – maximum 5 év időtartamra más laboratóriumnak is engedélyt adhat a szerodiagnosztikai vizsgálatok elvégzésére.
+
+(7) A megfelelő biológiai biztonság érdekében az afrikai sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak az országos főállatorvos által jóváhagyott intézményben lehet végezni.
+
+## Az afrikai sertéspestis elleni vakcinák felhasználása, gyártása és forgalmazása
+
+### 19. §
+
+(1) Az afrikai sertéspestis elleni vakcinák alkalmazása tilos.
+
+(2)[^77] Az afrikai sertéspestis elleni vakcinákkal kapcsolatos kutatások, azok gyártása, tárolása, szállítása, elosztása és értékesítése az országos főállatorvos engedélye alapján hatósági állatorvosi ellenőrzés mellett történhet.
+
+## Készenléti tervek
+
+### 20. §
+
+(1)[^78] A NÉBIH gondoskodik az országos készenléti terv elkészítéséről, melyet jóváhagyásra az országos főállatorvosnak nyújt be. Az országos készenléti terv meghatározza az afrikai sertéspestis kitörése esetén végrehajtandó nemzeti intézkedéseket, figyelembe véve azokat a helyi tényezőket, különösen a sertéssűrűséget, amelyek az afrikai sertéspestis terjedését feltehetően befolyásolják. Az országos készenléti terv lehetővé teszi a kitörés gyors és hatékony felszámolásához szükséges berendezések, felszerelések, anyagok és személyek igénybevételét.
+
+(2)[^79] Az országos készenléti tervet a 6. számú mellékletben meghatározottak szerint kell elkészíteni és elfogadni. Az országos készenléti tervben előírt követelmények később módosíthatók vagy kiegészíthetők az afrikai sertéspestis speciális természete és a betegségfelszámolási intézkedések fejlesztése terén elért eredmények függvényében.
+
+(3)[^80] Az országos készenléti tervet és módosításait az országos főállatorvos a Bizottságnak jóváhagyásra benyújtja.
+
+(4)[^81] Az országos készenléti terv alapján a vármegyei kormányhivatal vármegyei készenléti tervet állít össze.
+
+## Nemzetközi ellenőrzések
+
+### 21. §[^82]
+
+Az országos főállatorvos lehetővé teszi a nemzetközi szervezetek (Nemzetközi Járványügyi Hivatal, Európai Bizottság) helyszíni tájékozódását.
+
+## Járványvédelmi központok és a nemzeti szakértői csoport[^83]
+
+### 22. §[^84]
+
+(1) Az országos főállatorvos afrikai sertéspestis járványkitörés esetén létrehozza a NÉBIH szervezeti keretein belüli, a betegség felszámolását irányító országos járványvédelmi központot.
+
+(2) Az országos járványvédelmi központnak irányítania és ellenőriznie kell a (3) bekezdés szerinti helyi járványvédelmi központok működését. Az országos járványvédelmi központ felelős:
+
+a) a szükséges védelmi intézkedések meghozataláért;
+
+b) az *a)* pont szerinti intézkedések azonnali és hatékony végrehajtásának biztosításáért a helyi járványvédelmi központokon keresztül;
+
+c) a helyi járványvédelmi központokhoz személyzet, anyagok, eszközök telepítéséért;
+
+d) a nemzetközi állategészségügyi szervezetek, nemzeti hatóságok, a mezőgazdasági és kereskedelmi szervezetek tájékoztatásáért;
+
+e) a diagnosztikai laboratóriumokkal történő kapcsolattartásért;
+
+f) a tömegtájékoztatási eszközökkel történő kapcsolattartásért;
+
+g) a rendőrhatóságokkal történő kapcsolattartásért.
+
+(3)[^85] Afrikai sertéspestis járványkitörés esetén a vármegyei kormányhivatal haladéktalanul helyi járványvédelmi központot hoz létre.
+
+(4) Az országos járványvédelmi központ bizonyos feladatai a helyi járványvédelmi központnak átadhatók.
+
+(5)[^86] Az országos főállatorvos állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből létrehoz egy folyamatosan működő nemzeti szakértői csoportot, amely segíti a vármegyei kormányhivatalokat az afrikai sertéspestis elleni védekezésben.
+
+(6) A nemzeti szakértői csoport az afrikai sertéspestisnek a vaddisznókban való megállapítása esetén
+
+a) tanulmányozza a járványhelyzetet, és javaslatot tesz a fertőzött terület meghatározására,
+
+b) javaslatot tesz a fertőzött területen a 15. § (2) bekezdés a) pont aa)–ai) alpontokban foglaltakon túl alkalmazandó intézkedésekre, amelyek magukban foglalhatják a vadászat felfüggesztését,
+
+c)[^87] javaslatokat ad a vármegyei kormányhivatalnak a betegség felszámolására vonatkozó terv összeállításával kapcsolatosan,
+
+d)[^88] segítséget nyújt a vármegyei kormányhivatalnak az afrikai sertéspestis fertőzött területen történő megszüntetésére hozott intézkedések hatékonyságának igazolása érdekében végzett ellenőrzések során.
+
+(7) Járványkitörés esetén a nemzeti szakértői csoport segítséget nyújt az országos és a helyi járványvédelmi központnak
+
+a) a járványügyi vizsgálatban;
+
+b) a laboratóriumi minták vételében, feldolgozásában és értékelésében;
+
+c) a járványvédelmi intézkedések meghozatalában, különös tekintettel a leküzdés során alkalmazandó eljárások tökélesítésére és továbbfejlesztésére.
+
+(8)[^89] A NÉBIH biztosítja az országos járványvédelmi központ és a nemzeti szakértői csoport számára a helyiségeket és eszközöket, beleértve a hatékony ügyvitelhez szükséges kommunikációs eszközöket, az e rendeletben meghatározott járványvédelmi intézkedések azonnali végrehajtása érdekében. A helyi járványvédelmi központ személyzetét, helyiségeit és eszközeit, beleértve a szükséges kommunikációs eszközöket, a vármegyei kormányhivatal biztosítja. Az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport személyzetének, helyiségeinek, eszközeinek, utasítási láncának és ügyvitelének részleteit a 20. § szerinti készenléti tervben kell meghatározni.
+
+(9) Az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport működéséhez és funkciójához az országos főállatorvos további szempontokat határozhat meg.
+
+## Záró rendelkezések
+
+### 23. §
+
+Az afrikai sertéspestis leküzdése során szükséges hatósági intézkedések formanyomtatványait a 7–18. számú mellékletek tartalmazzák.
+
+### 24. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 15. napon lép hatályba.
+
+(2) E rendelet 3. §-ának (4)–(5) bekezdései, 5. §-ának (3) bekezdése, 6. §-ának (3) bekezdése, 8. §-ának (3) bekezdése, 10. §-ának (3) bekezdése, 11. §-ának (4) bekezdése, 15. §-ának (3) bekezdése, 16. §-a, 17. §-ának (2) bekezdése, 20. §-ának (3) bekezdése a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+
+(3)[^90]
+
+(4)[^91] Ez a rendelet a Tanács 2002. június 27-i, az afrikai sertéspestis elleni védekezésre vonatkozó külön rendelkezések megállapításáról, valamint a fertőző sertésbénulás (Teschen-betegség) és az afrikai sertéspestis tekintetében a 92/199/EK irányelv módosításáról szóló 2002/60/EK irányelvének, valamint annak módosításáról szóló a Tanács 2006/104/EK irányelvének való megfelelést szolgálja.
+
+## 1. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+
+**A betegség bejelentése**
+
+1\. Minden elsődleges kitöréssel, vaddisznókban megállapított első előfordulással vagy vágóhídon, illetve szállítóeszközön észlelt esettel kapcsolatban a megerősítést követő 24 órán belül a Nemzetközi Járványügyi Hivatalhoz és az Európai Unió Bizottságához be kell jelenteni az alábbiakat:
+
+a) a bejelentés időpontja (dátuma);
+
+b)[^92] Magyarország;
+
+c) a betegség megnevezését;
+
+d) a kitörések vagy előfordulások számát;
+
+e) az afrikai sertéspestis gyanúja felmerülésének időpontját;
+
+f) a betegség megállapításának időpontját;
+
+g) a megállapításra használt módszereket;
+
+h) azt, hogy a betegséget vaddisznókban vagy gazdaságban tartott sertésekben, vágóhídon vagy szállítóeszközön állapították meg;
+
+i) azt a földrajzi helyet, ahol az afrikai sertéspestis kitörését vagy előfordulását megállapították;
+
+j) az alkalmazott betegségfelszámolási intézkedéseket.
+
+2\. Elsődleges kitörések vagy vágóhidakon, illetve szállítóeszközön észlelt előfordulások esetén az ország az 1. pontban tárgyalt adatokon túl a következő információkat is átadja:
+
+a) a kitörés helyén, a vágóhídon vagy szállítóeszközön fertőzésnek kitett sertések száma;
+
+b) a gazdaságban, a vágóhídon vagy szállítóeszközön elhullott sertések száma korcsoportonként;
+
+c) korcsoportonként a betegség morbiditása és a sertések száma, amelyeknél megállapították az afrikai sertéspestist;
+
+d) a kitörés helyén, a vágóhídon vagy szállítóeszközön leölt sertések száma;
+
+e) az ártalmatlanított hullák száma;
+
+f) kitörés esetén a legközelebbi sertéstartó gazdaságtól való távolság;
+
+g) ha az afrikai sertéspestist vágóhídon vagy szállítóeszközön állapították meg, a gazdaság vagy gazdaságok helyét, ahonnan fertőzött sertések vagy hulláik származnak.
+
+3.[^93] Az 1. és 2. pontban foglaltak teljesítése érdekében az elsődleges és másodlagos kitörésekről a vármegyei kormányhivatal haladéktalanul jelentést küld a NÉBIH-nek. A NÉBIH késedelem nélkül tájékoztatja az országos főállatorvost, illetve részt vesz a Nemzetközi Járványügyi Hivatalhoz és a Bizottsághoz küldendő jelentések összeállításában.
+
+4.[^94] Az országos főállatorvos biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés kövesse a Nemzetközi Állategészségügyi Hivatal, a Bizottság és a többi tagállam számára, amely legalább a következőket tartalmazza:
+
+a) az időpontot, amikor a sertéseket a gazdaságban, a vágóhídon vagy szállítóeszközön leölték, és hulláikat ártalmatlanították;
+
+b) a sertések leölésekor vett minták vizsgálatának eredményeit;
+
+c) ha a 6. § (1) bekezdésében szabályozott felmentést alkalmazzák, a leölt és ártalmatlanított sertések számát, valamint egy későbbi időpontban levágandó sertések számát és a vágásra megállapított határidőt;
+
+d) a betegség lehetséges eredetére vonatkozó minden információt, vagy – ha megállapítást nyert – a betegség eredetét;
+
+e) információt a betegség felszámolására tett intézkedésekről, beleértve a 10 és 11. §-ban leírt állatmozgások ellenőrzésére vonatkozó intézkedéseket;
+
+f) elsődleges kitörés vagy vágóhídon, illetve szállítóeszközön előfordult afrikai sertéspestis esetén, a kitörésért vagy előfordulásért felelős vírus genotípusát;
+
+g) amennyiben a sertéseket kontaktgazdaságokban vagy olyan gazdaságokban ölték le, ahol az afrikai sertéspestis vírusával való fertőzöttségre gyanús állatokat tartottak, információkat a következőkről:
+
+*ga)* a leölés dátumáról és a leölt sertések számáról korcsoportonként és gazdaságonként,
+
+*gb)* a járványügyi kapcsolatról az afrikai sertéspestis kitörése vagy előfordulása az egyes kontaktgazdaságok között, vagy az okokról, amelyek az egyes fertőzöttségre gyanús gazdaságokban az afrikai sertéspestis gyanúját felkeltették,
+
+*gc)* a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsgálatainak eredményeiről.
+
+Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
+
+## 2. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+
+**A takarítás, fertőtlenítés és az insecticidekkel való kezelés elvei és módszerei**
+
+1\. Általános elvek és eljárások:
+
+a) a takarítást és fertőtlenítést hatósági állatorvos felügyelete és utasítása alapján kell végezni;
+
+b)[^95] az alkalmazott fertőtlenítőszereket és koncentrációit a vármegyei kormányhivatal hagyja jóvá;
+
+c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
+
+d) a fertőtlenítőszerek, rovarirtószerek, valamint a fertőtlenítési és rovarirtási eljárások kiválasztásakor figyelembe kell venni a kezelendő helyszínt, a járművek és a tárgyak jellegét;
+
+e) biztosítani kell, hogy zsírtalanító anyagok és fertőtlenítőszerek alkalmazása során a hatékonyságukat hátrányosan befolyásoló körülményeket kiiktassák. A gyártó által megadott technikai paramétereket – mint a nyomás, minimális hőmérséklet vagy szükséges behatási idő – be kell tartani;
+
+f) a felhasznált fertőtlenítőszer típusától függetlenül a következő általános szabályokat kell betartani:
+
+*fa)* az alom, alomszalma és bélsár alapos átáztatása a fertőtlenítőszerrel,
+
+*fb)* a talaj, a padlók, a feljárók és a falak alapos keféléssel és súrolással végzett lemosása és tisztítása, ahol lehetséges, a hatékony takarítási és fertőtlenítési eljárás érdekében a felszerelési tárgyak leszerelése, eltávolítása, szétszerelése,
+
+*fc)* ezt követően a fertőtlenítőszer újabb alkalmazása a gyártó ajánlásaiban meghatározott minimális behatási ideig,
+
+*fd)* a tisztítási műveletekhez használt vizet oly módon kell elhelyezni, hogy megelőzze vírus terjesztésének kockázatát, és a hatósági állatorvos előírásaival összhangban legyen;
+
+g) amennyiben magasnyomású folyadékkal végzik a mosást, el kell kerülni a már megtisztított részek újrafertőződését;
+
+h) a feltehetően fertőzött berendezéseket, felszereléseket, tárgyakat és rekeszeket le kell mosni, fertőtleníteni kell vagy meg kell semmisíteni;
+
+i) el kell kerülni a fertőtlenítési eljárást követő újrafertőződést;
+
+j) az irányelv keretében megkövetelt takarítást és fertőtlenítést dokumentálni kell, annak megfelelőségét a hatósági állatorvos igazolja.
+
+2\. Speciális rendelkezések a fertőzött gazdaságok takarításáról és fertőtlenítéséről:
+
+a) bevezető takarítás és fertőtlenítés:
+
+*aa)* az állatok leölése közben minden szükséges intézkedést meg kell tenni, hogy elkerülhető legyen az afrikai sertéspestis vírusának szétszóródása. Ide tartozik nagyteljesítményű fertőtlenítő berendezés alkalmazása, fertőtleníthető vagy egyszerhasználatos védőruhák használata, zuhanyozás lehetőségének biztosítása, használt eszközök és felszerelések fertőtlenítése, épületek áramtalanítása,
+
+*ab)* a leölt állatok hulláit fertőtlenítőszerrel le kell permetezni,
+
+*ac)* ha a testeket megsemmisítés céljából el kell szállítani a gazdaságból, zárt és csurgásmentes konténereket kell használni,
+
+*ad)* amint a sertések hulláit ártalmatlanítás céljából eltávolították, a gazdaság azon részeit, ahol ezeket az állatokat tartották, illetve a többi épület, udvar stb. azon részeit, amelyik fertőződött a leölés, levágás vagy postmortem vizsgálat során, a 12. §-nak megfelelően jóváhagyott fertőtlenítőszerrel le kell permetezni,
+
+*ae)* a szöveteket vagy a vért, amely a levágás vagy postmortem vizsgálat, illetve az épületek, udvarok, eszközök stb. durva szennyeződésekor jut a felszínre, óvatosan össze kell gyűjteni, és a hullákkal együtt ártalmatlanítani kell,
+
+*af)* a felhasznált fertőtlenítőszert legalább 24 órán át a felületen kell hagyni;
+
+b) végfertőtlenítés:
+
+*ba)* a trágyát és használt almot a 3. *a)* pontnak megfelelően kell kezelni és elszállítani,
+
+*bb)* a felületekről a zsiradékot és szennyeződést zsíroldó szer alkalmazásával és a felületek hideg vízzel való lemosásával kell eltávolítani,
+
+*bc)* a hideg vizes lemosás után további fertőtlenítőszeres permetezést kell alkalmazni,
+
+*bd)* hét nap után a helyszínt zsíroldó szerrel kell kezelni, hideg vízzel leöblíteni, fertőtlenítőszerrel permetezni, majd ismét leöblíteni hideg vízzel.
+
+3\. A fertőzött alom, trágya és hígtrágya fertőtlenítése:
+
+a) a trágyát és a használt almot hőkezelés céljára kazalba kell tenni, fertőtlenítőszerrel le kell permetezni, majd legalább 42 napon át kell állni hagyni vagy meg kell semmisíteni égetéssel vagy elföldeléssel;
+
+b) a hígtrágyát a fertőzött anyag utolsó kibocsátása után legalább 42 napig kell tárolni, kivéve, ha a hatósági állatorvos engedélyezi a vírus megsemmisítése érdekében hatékony kezelés alá vett hígtrágya rövidebb tárolási idejét.
+
+4\. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
+
+## 3. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+
+**Irányelvek a vektorok felkutatására**
+
+**I. A vektorok iránti kutatást a sertések élő és pihenőhelyein és a környező területen kell végrehajtani. A vektorok rendszerint régi árnyékos épületekben találhatók, ahol a hőmérsékleti feltételek és a páratartalom megfelelő.**
+
+A legjobb eredményt úgy érhetjük el, ha a kutatás tavasz végén, nyár folyamán és kora ősszel történik azokban a periódusokban, amikor a vektorok a legaktívabbak.
+
+*II.* Két módszer alkalmazható:
+
+1\. Kutatás a vektorok után a talajban, homokban, a kövek közötti helyről kiszedett porban (köves területek) vagy a cserepek alatti falak hézagaiban, hasadékaiban vagy a telepek talajáról kefe vagy más megfelelő eszköz segítségével. Nagyító használata előnyös lehet a fiatal lárvák keresése során.
+
+2\. Vektorok utáni kutatás CO<sub>2</sub> csapdák segítségével. A csapdákat több órára kell kihelyezni a sertésólakban elsősorban éjszaka és bármely árnyékos területre, ahová nem jut el a napfény. A csapdákat úgy kell elkészíteni és telepíteni, hogy a vektorok elég közel kerülhessenek a CO<sub>2</sub> forráshoz azért, hogy visszatérésük lehetetlenné váljon az élőhelyükre.
+
+## 4. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^96]
+
+## 5. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^97]
+
+## 6. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+
+**A készenléti tervekkel szemben támasztott követelmények és elvárások**
+
+Biztosítaniuk kell, hogy a készenléti terv legalább az alábbi követelményeknek és elvárásoknak megfelel:
+
+*a)* a készenléti terv végrehajtásához szükséges jogi alapok leírása, mely lehetővé teszi a gyors és hatékony mentesítési eljárások végrehajtását;
+
+*b)* gondoskodni kell a vészhelyzeti alapokhoz, költségvetési eszközökhöz és pénzügyi forrásokhoz való hozzáférésről úgy, hogy lefedje az afrikai sertéspestis járvány elleni tevékenység valamennyi szempontját;
+
+*c)* utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást;
+
+*d)* szükség esetén az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni tevékenység valamennyi stratégiájának irányításáért;
+
+*e)*[^98] a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi szakterülete vezetőjének tagnak kell lennie ebben a szervben és meg kell valósítania az összeköttetést a központi döntéshozó szerv és országos járványvédelmi központ között;
+
+*f)* gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
+
+*g)* kézikönyvről kell gondoskodni. Meg kell adni valamennyi eljárás, utasítás és intézkedés részletes, teljes gyakorlati leírását, melyeket egy afrikai sertéspestis járványkitöréskor kell alkalmazni;
+
+*h)* a személyzetnek rendszeresen részt kell vennie:
+
+*ha)* gyakorlaton, melyen ismertetésre kerül a betegség, klinikuma, járványtana és a legújabb kutatási eredmények
+
+*hb)* évente legalább kétszer riasztási gyakorlaton
+
+*hc)* kommunikációs technikai gyakorlaton annak érdekében, hogy képes legyen megszervezni – egy feltételezett kitörés esetén – az információs láncot a hatóságok és állatorvosok felé.
+
+## 7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^99]
+
+## 8. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^100]
+
+## 9. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^101]
+
+## 10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^102]
+
+## 11. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^103]
+
+## 12. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^104]
+
+## 13. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^105]
+
+## 14. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^106]
+
+## 15. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^107]
+
+## 16. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^108]
+
+## 17. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^109]
+
+## 18. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^110]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 22/2014. (III. 14.) VM rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 5. pontja a 46/2015. (VIII. 7.) FM rendelet 10. §-ával megállapított szöveg.
+[^3]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 16. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 17. pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 1. pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 53. §-a, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 3. pontja szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 4. pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdés d) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^12]: A 4. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 3. pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5–6. pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^15]: Az 5. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^20]: A 8. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^22]: A 9. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 29. § 4. pontjával megállapított szöveg.
+[^23]: A 9. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 11. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 9. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 8. pontja szerint módosított szöveg.
+[^25]: A 9. § (2) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 9. pontja szerint módosított szöveg.
+[^26]: A 9. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 10. pontja szerint módosított szöveg.
+[^27]: A 9. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 8. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 8. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^28]: A 10. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
+[^29]: A 10. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 9. pontja szerint módosított szöveg.
+[^30]: A 10. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
+[^31]: A 10. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
+[^32]: A 10. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
+[^33]: A 10. § (1) bekezdés g) pont ga) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 14. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^34]: A 10. § (1) bekezdés g) pont gc) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
+[^35]: A 10. § (1) bekezdés h) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
+[^36]: A 10. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^37]: A 10. § (2) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^38]: A 10. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
+[^39]: A 10. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^40]: A 10. § (4) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^41]: A 10. § (7) bekezdés záró szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^42]: A 10. § (8) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
+[^43]: A 11. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 29. § 16. pontja szerint módosított szöveg.
+[^44]: A 11. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 11. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^45]: A 11. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 12. pontja szerint módosított szöveg.
+[^46]: A 11. § (1) bekezdés b) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 5. és 13. pontja szerint módosított szöveg.
+[^47]: A 11. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17–18. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^48]: A 11. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 19. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^49]: A 11. § (1) bekezdés f) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^50]: A 11. § (1) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja szerint módosított szöveg.
+[^51]: A 11. § (2) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17. és 20. pontja szerint módosított szöveg.
+[^52]: A 11. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 20. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^53]: A 11. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg. [A 11. § (3) bekezdés a) pontjában a 70/2013. (VII. 31.) VM rendelet 29. § 20. pontjával elrendelt módosítás, amely szerint a „védőkörzeten” szövegrész helyében a „megfigyelési körzeten” szöveg lép, nem vezethető át.]
+[^54]: A 11. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja szerint módosított szöveg.
+[^55]: A 11. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 13. §-ával megállapított szöveg.
+[^56]: A 11. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja szerint módosított szöveg.
+[^57]: A 12. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 14. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^58]: A 13. § (8) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^59]: A 13. § (9) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^60]: A 14. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^61]: A 14. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^62]: A 15. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^63]: A 15. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított, nyitó szövegrésze a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^64]: [A 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontjával elrendelt módosítás, amely szerint a 15. § (2) bekezdés b) pontjában és b) pont bd) alpontjában az „a járási főállatorvos” szövegrész helyébe az „a járási hivatal” szöveg lép, nem vezethető át.]
+[^65]: A 15. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított szöveg.
+[^66]: A 15. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított szöveg.
+[^67]: A 15. § (5) bekezdését a 46/2015. (VIII. 7.) FM rendelet 22. § a) pontja hatályon kívül helyezte.
+[^68]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^69]: A 16. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 16. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^70]: A 16. § (3) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^71]: A 16. § (3) bekezdés l) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 14. pontja szerint módosított szöveg.
+[^72]: A 16. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^73]: A 17. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 15. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg. [A 17. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontjával elrendelt módosítás, amely szerint a „védőkörzetben” szövegrész helyébe „megfigyelési körzetben” szöveg lép, nem vezethető át.]
+[^74]: A 17. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^75]: A 18. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 17. §-ával megállapított szöveg.
+[^76]: A 18. § a 46/2015. (VIII. 7.) FM rendelet 18. §-ával megállapított szöveg.
+[^77]: A 19. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^78]: A 18. § a 46/2015. (VIII. 7.) FM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^79]: A 20. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 16–17. pontja szerint módosított szöveg.
+[^80]: A 20. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. és 16. pontja szerint módosított szöveg.
+[^81]: A 20. § (4) bekezdését a 46/2015. (VIII. 7.) FM rendelet 18. § (2) bekezdése iktatta be, szövege a 78/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^82]: A 21. § a 46/2015. (VIII. 7.) FM rendelet 21. § 4. pontja szerint módosított szöveg.
+[^83]: A 22. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 19. §-ával megállapított szöveg.
+[^84]: A 22. § a 46/2015. (VIII. 7.) FM rendelet 19. §-ával megállapított szöveg.
+[^85]: A 22. § (3) bekezdése a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^86]: A 22. § (5) bekezdése a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^87]: A 22. § (6) bekezdés c) pontja a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^88]: A 22. § (6) bekezdés d) pontja a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^89]: A 22. § (8) bekezdése a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^90]: A 24. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 267. pontja hatályon kívül helyezte.
+[^91]: A 24. § (4) bekezdése az 58/2007. (VII. 9.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^92]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^93]: Az 1. számú melléklet 3. pontja a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^94]: Az 1. számú melléklet 4. pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.
+[^95]: A 2. számú melléklet 1. pont b) alpontja a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^96]: A 4–5. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^97]: A 4–5. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^98]: A 6. számú melléklet e) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 18. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^99]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^100]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^101]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^102]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^103]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^104]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^105]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^106]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^107]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^108]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^109]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^110]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.

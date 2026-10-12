@@ -1,0 +1,744 @@
+---
+title: "15/2021. (III. 31.) AM rendelet az iskolagyümölcs- és iskolazöldség-program végrehajtásáról"
+identifier: "15/2021. (III. 31.) AM rendelet"
+njt_id: "2021-15-20-7R"
+eli: "https://njt.jog.gov.hu/eli/R/2021/AM/15"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2021-03-31
+in_force_from: 2021-04-01
+last_amended: 2024-11-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-15-20-7R"
+retrieved: 2026-10-12
+---
+
+# 15/2021. (III. 31.) AM rendelet az iskolagyümölcs- és iskolazöldség-program végrehajtásáról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *adag:* egy – a 2. § (1) bekezdésében meghatározott – tanuló részére egy tanítási napon kiosztandó termék mennyisége,
+
+2\. *fenntartó:* a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) 4. § 9. pontja szerinti, valamint a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: szakképzési törvény) 25. § (1) bekezdése szerinti, az iskolagyümölcs- és iskolazöldség-programban – e rendelet szerint – végső kedvezményezett tanulók nevelését, oktatását végző köznevelési intézmény fenntartására jogosult természetes vagy jogi személy,
+
+3\. *gyümölcslé:* a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet 11. melléklet B rész 1.1. pontjában foglaltaknak megfelelő almából, körtéből, őszibarackból, kajszibarackból, meggyből, szilvából, homoktövisből, illetve paradicsomból készített, hozzáadott cukrot és édesítőszert nem tartalmazó, csomagolt és jelölt termék,
+
+4\. *iskolagyümölcs- és iskolazöldség-program:* a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 23. cikkében meghatározott, Magyarországon a 8413525 szakfeladatszámmal jelölt program,
+
+5\. *kapcsolt vállalkozás:* a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti vállalkozás,
+
+6\. *köznevelési intézmény:* a köznevelési törvény 21. § (1) bekezdésében és 7. § (1) bekezdés b), c) és i) pontjában meghatározott intézmény és annak a köznevelési törvény szerinti tagintézménye, valamint a szakképzési törvény 18. §-ában meghatározott többcélú szakképző intézmény azon évfolyamai, amelyek megfelelnek a köznevelési törvény 7. § b), c) és i) pontjában meghatározott köznevelési intézmény évfolyamainak,
+
+7.[^1] *megállapodás:* az iskolagyümölcs- és iskolazöldség-program keretében a fenntartó és a termelő között az e rendeletben meghatározott termék tanítási évben való rendszeres szállítására létrejött szerződés,
+
+7a.[^2] *saját termék:* a 4. § (2) bekezdése szerinti kérelmező saját maga, tagja vagy tulajdonosa által termelt vagy előállított termék,
+
+8\. *tagintézmény:* a köznevelési törvény 4. § 28. pontja szerinti intézményegység,
+
+9\. *tanítási év:* a köznevelési törvény 4. § 31. pontjában, valamint a szakképzési törvény 34. § (1) bekezdés a) pontjában meghatározott időtartam,
+
+10\. *tankerületi központ:* a köznevelési törvényben, illetve az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendeletben meghatározott fenntartó,
+
+11\. *társulás:* az 1308/2013/EU európai parlamenti és tanácsi rendelet 156. cikke alapján létrejött termelői szervezetek társulása,
+
+12.[^3] *termelő:* a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 3. cikk 1. pontjában meghatározott természetes személy vagy jogi személy, aki vagy amely az 1. melléklet szerinti, az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében meghatározott terméket állít elő,
+
+13\. *termelői szervezet:* az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. és 154. cikkében meghatározott feltételekkel az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében felsorolt termékek tekintetében elismert szervezet,
+
+14\. *zöldséglé:* az 1. mellékletben felsorolt zöldségekből, céklából, illetve sütőtökből készített, csomagolt és jelölt termék.
+
+## 2. A támogatás jellege, kedvezményezettje és a program végső kedvezményezettje
+
+### 2. §
+
+(1)[^4] Az iskolagyümölcs- és iskolazöldség-program (a továbbiakban: program) keretében vissza nem térítendő támogatás vehető igénybe
+
+a) a köznevelési törvény 10. §-a szerinti általános iskola, a köznevelési törvény 7. § (1) bekezdés i) pontjában meghatározott gyógypedagógiai, konduktív pedagógiai köznevelési intézmény 1–6. évfolyamán,
+
+b) a köznevelési törvény 11. §-a szerinti nyolc – nyelvi előkészítő évfolyam esetében kilenc – évfolyammal működő köznevelési intézmény 5. és 6. évfolyamán,
+
+c) a 14. § (2) bekezdése szerinti esetben az a) és b) pontban meghatározott köznevelési intézmény, továbbá a köznevelési törvény 11. §-a szerinti hat – nyelvi előkészítő évfolyam esetében hét – évfolyammal működő köznevelési intézmény 7. és 8. évfolyamán, valamint
+
+d) a szakképzési törvény 18. §-a szerinti többcélú szakképző intézmény esetén az a)–c) pontnak megfelelő 1–6. évfolyamán
+
+tanuló gyermekeknek (a továbbiakban: tanulók) a tanítási évben, az 1. mellékletben meghatározott termékkel és adagban történő ellátása után.
+
+(2) A program célja szerint a végső kedvezményezett a tanuló.
+
+(3)[^5] A támogatási jogviszony keretében a támogatás kedvezményezettje a tanulók ellátását vállaló termelő, termelői szervezet, társulás, valamint a kizárólag ezek tulajdonában álló vállalkozás (a továbbiakban együtt: kérelmező) lehet.
+
+(4)[^6] A 2025/2026. tanítási évre, valamint az azt követő tanítási évekre vonatkozóan a támogatási jogviszony keretében kedvezményezett kizárólag egy tanítási évre szóló megállapodást kötött kérelmező lehet.
+
+## 3. Az egyes kérelmek és az intézményi változások bejelentésének benyújtására vonatkozó közös szabályok
+
+### 3. §
+
+(1) A kérelmező
+
+a)[^7] a 4. § (1) bekezdése szerinti, a programban történő részvételének előzetes jóváhagyása iránti kérelmét, a 10. § szerinti megállapodások jóváhagyása iránti kérelmét, valamint a 17. § (1) bekezdése szerinti kifizetési kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapon,
+
+b)[^8] a 7. § szerinti kérelmeket, valamint a 17. § (6) bekezdése szerinti bejelentést és azok mellékleteit a Kincstár által a honlapján közleményben közzétett nyomtatvány szerint, a Kincstár által erre a célra rendszeresített elektronikus felületen, szkennelt formában,
+
+ügyfélkapus azonosítást követően nyújtja be a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+
+(2) Az (1) bekezdésben meghatározott kérelmekhez és bejelentéshez szükséges dokumentumokat elektronikus úton kell csatolni.
+
+(3)[^9] A megállapodás jóváhagyása iránti kérelem a 10. § (1) és (3) bekezdése szerinti esetben a 10. § (4a) bekezdésében meghatározott határidő végéig, a kifizetési kérelem annak benyújtását követő naptól számított tíz napon belül, de legkésőbb a 17. § (1) bekezdésében meghatározott határidő végéig elektronikus úton módosítható. Módosítás esetén az utolsó kérelem kerül elbírálásra, a kérelem benyújtásának időpontját az utolsó módosító kérelem benyújtásának időpontja jelenti.
+
+(4) Az eljárás során kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
+
+(5) Ha az eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, akkor a meghatalmazott a Kormány által biztosított elektronikus szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra – kivéve a kamarai meghatalmazott eljárását – az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit kell alkalmazni.
+
+(6) Az eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat is (a továbbiakban együtt: beadvány) a Kincstár által erre a célra rendszeresített elektronikus felületen keresztül, szkennelt formában kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
+
+## 4. A programban történő részvételre vonatkozó előzetes jóváhagyás
+
+### 4. §
+
+(1)[^10] A programban az a kérelmező vehet részt, aki vagy amely rendelkezik a Kincstárnak a programban történő részvételre vonatkozó előzetes jóváhagyásával (a továbbiakban: előzetes jóváhagyás).
+
+(2) Az előzetes jóváhagyás feltétele, hogy a kérelmező
+
+a) az előzetes jóváhagyás iránti kérelem benyújtásának napján zöldség-gyümölcs termelői szervezetként vagy társulásként való elismeréssel rendelkezzen, vagy
+
+b) az előzetes jóváhagyás iránti kérelem benyújtásának évét megelőző második és harmadik évben benyújtott egységes területalapú támogatás iránti kérelem alapján legalább egy, az 1. mellékletben szereplő gyümölcs vagy szántóföldi zöldség hasznosítási kódjára tekintettel támogatást kapott, vagy
+
+c) – hatályos cégkivonata alapján – tulajdonosai az *a)* és *b)* pontban felsoroltak lehetnek.
+
+(3) Az előzetes jóváhagyás további feltétele, hogy a kérelmező az előzetes jóváhagyás iránti kérelem benyújtásával egyidejűleg nyilatkozzon arról, hogy vállalja a köznevelési intézményekben tanuló gyermekeknek a program keretében az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet módosításáról szóló, 2016. november 3-i 2017/40/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 2017/40/EU felhatalmazáson alapuló bizottsági rendelet) 6. cikkében előírt kötelezettségek teljesítését.
+
+(4)[^11] A kérelmezőnek az (5) bekezdésben meghatározott adattartalmú előzetes jóváhagyás iránti kérelmét a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően minden év február 1. és február 15. között, a 3. §-ban foglaltak szerint kell benyújtania. Az előzetes jóváhagyás iránti kérelem benyújtására nyitva álló határidő jogvesztő.
+
+(5) Az előzetes jóváhagyás iránti kérelem az alábbi adatokat és dokumentumokat tartalmazza:
+
+a) a kérelmező, illetve meghatalmazottja vagy képviselője ügyfél-azonosító száma;
+
+b) kapcsolattartási adatok (kapcsolattartó neve, telefonszáma, elektronikus levélcíme);
+
+c) a kérelmező (2) bekezdés szerinti típusának megjelölése;
+
+d) a (2) bekezdés c) pontja szerinti kérelmező esetében a vállalkozás tulajdonosainak ügyfél-azonosítója és a (2) bekezdés a) vagy b) pontja szerinti típusának megjelölése és
+
+e)[^12] a kérelmező nyilatkozata arról, hogy
+
+ea) a program keretében finanszírozott terméket kizárólag azon köznevelési intézmény tanulói által történő fogyasztásra szállítja, amely vonatkozásában támogatást igényel,
+
+eb) a kiosztásra kerülő friss termék, valamint a zöldség- és gyümölcslevek előállításához felhasznált alapanyag legalább 50 százalék mennyiségben saját termék,
+
+ec) a jogosulatlanul igénybe vett támogatást visszafizeti, valamint
+
+ed) az (EU) 2017/40 felhatalmazáson alapuló bizottsági rendelet 6. cikk (1) bekezdés e)–g) pontjában meghatározott kötelezettségeket teljesíti.
+
+(6) A Kincstár az előzetes jóváhagyás iránti kérelmekről a (9) bekezdésben foglalt közzététel napjáig hoz döntést.
+
+(7)[^13]
+
+(8)[^14]
+
+(9) A Kincstár a következő tanítási évre vonatkozóan előzetes jóváhagyással rendelkező kérelmezők cégnevét és székhelyét tartalmazó listáját minden év április 15-éig a honlapján közzéteszi.
+
+## 5.[^15] A támogatott termék szállítására vonatkozó megállapodás
+
+### 5. §
+
+(1)[^16] A programban való részvétel keretében megállapodás egy tanítási évre köthető.
+
+(1a)[^17] Egy kérelmező több megállapodást is köthet, és azonos fenntartó esetén a kérelmező – a köznevelési intézmények számától függetlenül – egy okiratba foglalt megállapodással is szerződhet.
+
+(1b)[^18] Tankerületi központ fenntartó esetén egy kérelmező legfeljebb tizenkét tankerületi központtal szerződhet, és ezen felső korlát figyelembevételénél a kapcsolt vállalkozásnak minősülő kérelmező egy kérelmezőnek számít.
+
+(2) A kérelmező akkor jogosult a támogatásra, ha a fenntartóval a Kincstár honlapján közzétett megállapodásmintának megfelelő megállapodást köti meg.
+
+(3) A tankerületi központtól eltérő fenntartó egy tanítási év vonatkozásában köznevelési intézményenként csak egy kérelmezővel köthet megállapodást.
+
+(4) A tankerületi központ egy adott tanítási év vonatkozásában ugyanazon járásba tartozó köznevelési intézmények ellátására egy kérelmezővel köthet megállapodást. Egy adott köznevelési intézmény eltérő járásba tartozó feladatellátási helyei esetében a köznevelési intézmény székhelye szerinti járásra vonatkozóan megkötött megállapodásnak tartalmaznia kell a köznevelési intézmény valamennyi ellátni kívánt feladatellátási helyét.
+
+(5)[^19]
+
+(6)[^20] Az (1) bekezdés szerinti megállapodás kötelező tartalmi elemeit magában foglaló megállapodásmintát a Kincstár a honlapján teszi közzé.
+
+(7) A kérelmező a köznevelési intézmények vonatkozásában a fenntartóval kötött megállapodások végrehajtásáról nyilvántartást vezet, amelyben feltünteti a köznevelési intézmény és a feladatellátási hely adatait [név, cím, feladatellátási hely sorszáma, az Oktatási Hivatal által kiadott OM azonosító (a továbbiakban: OM azonosító)], valamint az ezen intézmények számára leszállított termék mennyiségét.
+
+(8)[^21] A 4. § (5) bekezdés e) pont eb) alpontjában előírt kötelezettség teljesítésének ellenőrzése érdekében a kérelmező a Kincstár által erre a célra rendszeresített nyilvántartást vezet.
+
+### 6. §[^22]
+
+(1) Ha a fenntartó a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) alapján nem kötelezett közbeszerzési eljárás lefolytatására, akkor az e rendeletben előírt pályázati és szerződéskötési eljárás (a továbbiakban: kiválasztási eljárás) lebonyolítását követően köthet megállapodást.
+
+(2) Ha a fenntartó a Kbt. alapján közbeszerzési eljárás lefolytatására kötelezett, akkor
+
+a) megállapodást az 5. §-ban előírt feltételek betartása mellett köthet, valamint
+
+b) a 10. § (1) és (4a) bekezdésében meghatározott határidő kivételével az e rendeletben előírt határidőket nem kell alkalmazni.
+
+(3) A fenntartó a programban való részvételre évente legkésőbb április 15-éig ajánlattételi felhívást tesz közzé a hivatalos honlapján, amelyre az előzetes jóváhagyással rendelkező kérelmező április 30-áig nyújthat be ajánlatot elektronikus úton. A határidő elmulasztása jogvesztő. A fenntartó az ajánlattételi felhívás honlapján való elérhetőségét a közzétételtől számított 5 évig biztosítja.
+
+(4) Az ajánlattételi felhívás módosítása esetén – a módosítás dátumának feltüntetése mellett – az ajánlattételi felhívás közzétételére vonatkozó (3) bekezdésben meghatározott szabályok alkalmazandóak.
+
+(5) A fenntartó az ajánlattételi felhívás közzététele során a várható végső kedvezményezett tanulói létszámot a köznevelési intézmény adott feladatellátási helyén
+
+a) az ajánlattételi felhívást követő tanítási év első évfolyamára maximálisan beíratható tanulói létszám és
+
+b) az ajánlattételi felhívás közzététele szerinti tanítási évben az 1–5. évfolyamon tanulók – ajánlattételi felhívás kiírásakor fennálló – létszáma
+
+alapján határozza meg.
+
+(6) A fenntartó – a 14. § (1) bekezdésében meghatározott feltételek figyelembevétele mellett – az ajánlattételi felhívásban
+
+a) nyilatkozik a 18. § (1) bekezdésében meghatározott, egy hétre és egy főre számított támogatás összegét meghaladó ajánlat elfogadhatóságáról, és
+
+b) legalább a tanulónkénti heti adagszámot meghatározza.
+
+(7) Ajánlatot
+
+a) a tankerületi központ által fenntartott köznevelési intézmény esetében járásonként,
+
+b) a tankerületi központtól eltérő fenntartó esetében köznevelési intézményenként
+
+lehet benyújtani.
+
+(8) A fenntartó
+
+a) a tanulók létszámára,
+
+b) az intézmény földrajzi elhelyezkedésére,
+
+c) a programba bevonható mezőgazdasági termékek forgalmazási adataira,
+
+d) a helyi beszerzés, a helyi piacok és a rövid ellátási láncok által felkínált lehetőségekre,
+
+e) a környezeti előnyökre és hátrányokra, valamint
+
+f) szükség esetén az érintett intézmények véleményére
+
+tekintettel értékelési szempontrendszert alakít ki, amelyet az ajánlattételi felhívásban közzétesz.
+
+### 6/A. §[^23]
+
+(1) Érvénytelen az ajánlattevő ajánlata, ha ajánlatát
+
+a) nem a 6. § (6) bekezdés b) pontjában meghatározott fenntartói igénynek megfelelően vagy
+
+b) a 14. § (1) bekezdésében meghatározott feltételektől eltérő tartalommal
+
+nyújtotta be.
+
+(2) A benyújtott érvényes ajánlatokat a 6. § (8) bekezdésében meghatározott értékelési szempontrendszer alapján
+
+a) a tankerületi központ fenntartó járásonként, továbbá
+
+b) a tankerületi központtól eltérő fenntartó köznevelési intézményenként
+
+pontozással értékeli, és meghatározza a legjobb ajánlatok sorrendjét (a továbbiakban: rangsor). A fenntartó a rangsort a honlapján közzéteszi, és annak elérhetőségét a közzétételtől számított 5 évig biztosítja.
+
+(3) Ha az értékelés alapján egyes ajánlatok között pontegyenlőség van, akkor a fenntartó a következő sorrendben elsődlegesen azt a kérelmezőt részesíti előnyben, amely
+
+a) termelőként,
+
+b) termelői szervezetként vagy
+
+c) társulásként
+
+nyújtotta be az ajánlatát.
+
+(4) A fenntartó a rangsorolás eredményéről május 5-éig értesíti az ajánlattevőt, továbbá a rangsor alapján nyertes ajánlattevő részére felajánlja a megállapodás megkötését (a továbbiakban: felajánlás).
+
+(5) A felajánlásra figyelemmel a nyertes ajánlattevő május 10-éig elektronikus úton nyilatkozik a szerződéskötési hajlandóságáról vagy az elállásáról. A határidő elmulasztása jogvesztő.
+
+(6) A felajánlás elfogadása esetén a fenntartó a nyertes ajánlattevővel – a kiválasztási eljárás keretében tett ajánlatban vállalt feltételekkel megegyező tartalommal – május 20-áig megállapodást köt.
+
+(7) Ha az ajánlattevő az (5) bekezdésben meghatározott határidőben nem válaszol, akkor a fenntartó a rangsor alapján nyertes ajánlattevő után legtöbb pontszámot elért ajánlattevő részére ajánlja fel a megállapodás megkötését.
+
+### 6/B. §[^24]
+
+(1) Ha egy ajánlattételi felhívásra április 30-áig nem érkezik ajánlat, vagy a beérkezett ajánlatok értékelését követően a rangsorolt ajánlattevők egyikével sem jön létre megállapodás, akkor a fenntartó május 15-ei benyújtási határidővel megismételt ajánlattételi felhívást tehet közzé. A megismételt ajánlattételi felhívásra kizárólag az a kérelmező nyújthat be ajánlatot, amely a fenntartó 6. § (3) bekezdése szerinti ajánlattételi felhívására nem nyújtott be ajánlatot. Az ajánlatok értékelésekor a megismételt ajánlattételi felhívásra benyújtott ajánlatokat lehet rangsorolni.
+
+(2) A megismételt ajánlattételi felhívásra a kiválasztási eljárásra vonatkozó szabályokat alkalmazni kell, azzal, hogy
+
+a) a 6/A. § (4) bekezdése szerinti rangsorolás eredményéről való értesítés határideje május 20.,
+
+b) a 6/A. § (5) bekezdése szerinti ajánlattevői nyilatkozattétel határideje május 22., valamint
+
+c) a 6/A. § (6) bekezdése szerinti megállapodás megkötésének határideje május 25.
+
+napja.
+
+### 7. §
+
+(1)[^25] A szállítások fenntartása érdekében a kérelmező a tanítási év közben az adott tanítási évre vonatkozó, jóváhagyott megállapodás teljesítését a következő teljesítési időszaktól kezdődően, változatlan tartalommal és kizárólag egy alkalommal átengedheti a 4. § szerint előzetesen jóváhagyott, a 6/A. § (2) bekezdése szerinti rangsorban következő kérelmezőre. Ha a megállapodás teljesítése a rangsorban következő kérelmezőre az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott korlát miatt nem engedhető át, a fenntartó bármely 4. § szerinti előzetes jóváhagyással rendelkező szállítóval megállapodást köthet. Az átengedés eredményeképpen az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott felső korlát nem léphető át. A teljesítés átengedéséről szóló megállapodásnak tartalmaznia kell a Kincstár honlapján közzétett nyomtatványon szereplő, kötelező tartalmi elemeket. A kérelmezőnek az átengedés jóváhagyására irányuló kérelmét, valamint az átengedésről szóló háromoldalú megállapodást vagy megállapodásokat legkésőbb a teljesítési időszak kezdetét megelőző harmincadik napig kell a Kincstár által erre a célra rendszeresített elektronikus felületen, elektronikus azonosítást követően benyújtani. Ha az átengedés megfelel az e bekezdésben meghatározott feltételeknek, akkor a Kincstár a kérelmet annak beérkezésétől számított harminc napon belül jóváhagyja.
+
+(2)[^26] Vis maior miatti káresemény bekövetkezése esetén a megállapodást kötött fél (a továbbiakban: szállító) – a tanítási év során legfeljebb két alkalommal – kezdeményezheti a saját termék helyettesítését.
+
+(3)[^27] A szállító a termék helyettesítésére irányuló kérelmét – a Közös Agrárpolitikából és a nemzeti költségvetésből finanszírozott intézkedésekkel összefüggő elháríthatatlan külső ok (vis maior) esetén alkalmazott eljárásról szóló miniszteri rendelet szerinti – a vis maior elismerése iránti kérelemmel együtt a Kincstár által erre a célra kialakított elektronikus felületen, elektronikus azonosítást követően nyújthatja be jóváhagyásra. A Kincstár a termék helyettesítésére irányuló kérelemről 30 napon belül dönt.
+
+(4)[^28] Ha a szállító a 4. § (2) bekezdés c) pontja szerinti vállalkozás, akkor a termék helyettesítésére irányuló kérelem a (3) bekezdésben meghatározott és a 4. § (2) bekezdés a) és b) pontja szerinti tulajdonos által beszerzett vis maior igazolás egyidejű csatolásával nyújtható be.
+
+(5)[^29] Termék helyettesítésére irányuló kérelemről való véglegessé vált döntés hiányában a szállítás saját felelősségre kezdhető meg.
+
+(6)[^30] Vis maior miatti termék helyettesítése esetén
+
+a) a tanulónkénti heti adag nem lehet kevesebb a támogatott termék szállítására kötött megállapodásban foglalt tanulónkénti heti adagnál, és
+
+b) a tanulónkénti heti összérték nem haladhatja meg a 10. § (8) bekezdése szerinti döntésben köznevelési intézményenként az egyes teljesítési időszakokra jóváhagyott termékek értékének összegét.
+
+(7)[^31] Ha a szállító a (6) bekezdés b) pontjában meghatározott összeget túllépi, akkor a Kincstár az 1. mellékletben meghatározott, egy adagra jutó bruttó támogatás mértékét arányosan csökkenti.
+
+### 8. §
+
+(1)[^32] A fenntartó és a köznevelési intézmény a programmal kapcsolatos valamennyi nyilvántartást és dokumentumot a kiállításától számított öt évig megőrzi.
+
+(2)[^33] A kiválasztási eljárásról a fenntartó bontási jegyzőkönyvet készít. A fenntartónak a kiválasztási eljárásról készült dokumentációt az érintett tanítási év lezárultát követő öt évig meg kell őriznie. Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) jogosult ellenőrizni a kiválasztási eljárás dokumentáltságát. A fenntartó a Kbt. vagy az e rendelet szerint elkészített ajánlattételi kiírást a közzétételtől számított tíz napon belül, a bontási jegyzőkönyv másolatát harminc napon belül elektronikus úton megküldi a miniszter részére a Kincstár honlapján közzétett közleményben megjelölt elektronikus levelezési címre.
+
+### 9. §
+
+(1)[^34]
+
+(2) A termékkel való ellátás első időszaka szeptember első tanítási napjától szeptember utolsó vasárnapjáig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka szeptember utolsó vasárnapját követő hétfőtől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka január második hétfőjétől március utolsó vasárnapjáig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka március utolsó vasárnapját követő hétfőtől április utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.
+
+(3)[^35] Tanítási évenként legalább három teljesítési időszakban kell szállítani. A szállító a támogatott termék kiszállítását
+
+a) az első teljesítési időszakban legalább három,
+
+b) a második és a harmadik teljesítési időszakban legalább nyolc, valamint
+
+c) a negyedik teljesítési időszakban legalább három,
+
+általa kiválasztott héten teljesíti, hetenként legalább egy alkalommal.
+
+(3a)[^36] A (3) bekezdés szerinti szállítási hetek kiválasztásánál a legalább négy tanítási napot magában foglaló hét vehető figyelembe.
+
+(3b)[^37] Hetenként egy alkalommal történő szállítás esetén a megállapodásban jóváhagyott teljes heti adagot kell kiszállítani.
+
+(4)[^38]
+
+### 10. §
+
+(1)[^39] A kérelmező az (5) bekezdésben meghatározott adattartalmú, a következő tanítási évre vonatkozó megállapodás jóváhagyása iránti kérelmét minden évben május 15. és május 31. között a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően nyújthatja be a Kincstárhoz.
+
+(1a)[^40] Az (1) bekezdésben meghatározott benyújtási határidő elmulasztása – a (4) bekezdésben meghatározott eset kivételével – jogvesztő.
+
+(2) A tankerületi központok száma tekintetében az 5. § (1) bekezdésében meghatározott felső korlátot meghaladóan megállapodás nem nyújtható be, és a Kincstár által nem hagyható jóvá.
+
+(3)[^41] Ha a kérelmező az (1) bekezdés szerinti kérelem összeállítása során állapítja meg, hogy túllépte az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott felső korlátot, úgy erről a kérelem mellékleteként nyilatkoznia kell. A nyilatkozatban meg kell jelölni a vonatkozó megállapodással érintett tankerületi központot, továbbá a kérelme mellékleteként csatolnia kell az igazoló dokumentumot arra vonatkozóan, hogy a túllépésről elektronikus úton haladéktalanul értesítette a túllépéssel érintett tankerületi központot. Ha a kérelmező nem tesz eleget a Kincstár és a tankerületi központ felé történő értesítési kötelezettségének, akkor a mulasztással érintett kérelmező a kérelembenyújtással érintett tanítási évre vonatkozóan jóváhagyható valamennyi megállapodása tekintetében jóváhagyható bruttó támogatási összeget a Kincstár 10%-kal csökkenti.
+
+(4)[^42] Ha a tankerületi központ fenntartó a 6/A. § (6) bekezdésében vagy megismételt ajánlattételi felhívás esetén a 6/B. § (2) bekezdés c) pontjában meghatározott határidőt követően értesül arról, hogy a vele megállapodást kötött kérelmező az 5. § (1b) bekezdésében meghatározott feltételnek nem felel meg, akkor az adott köznevelési intézmény programban való részvételének biztosítása érdekében új megállapodás megkötésére vonatkozó felajánlást tehet
+
+a) a 6/A. § (2) bekezdése szerinti rangsor következő kérelmezőjének vagy
+
+b) az a) pont szerinti kérelmező hiányában egyéb, a 4. § (9) bekezdése szerinti feltételnek megfelelő kérelmezőnek.
+
+(4a)[^43] A (4) bekezdésben meghatározott esetben a megállapodás jóváhagyására irányuló kérelem június 15-éig – az (1) bekezdésben meghatározott módon – nyújtható be a Kincstárhoz. A benyújtási határidő elmulasztása jogvesztő.
+
+(5)[^44] A megállapodás jóváhagyására irányuló kérelem kötelező adattartalma:
+
+a) a kérelmező, a kérelmező képviselője vagy meghatalmazottja ügyfél-azonosító száma,
+
+b) a kapcsolattartó neve, telefonszáma és elektronikus levélcíme,
+
+c) a megállapodás Kincstár által kért adatai,
+
+d) a 4. § (2) bekezdés a) pontja szerinti kérelmező esetében azon termelő tag neve, ügyfél-azonosító száma, akinek a termékét a program keretében az intézménynek kiszállítják,
+
+e) a 4. § (2) bekezdés b) pontja szerinti kérelmező esetében a termelő neve és ügyfél-azonosító száma,
+
+f) a 4. § (2) bekezdés c) pontja szerinti kérelmező esetében azon tulajdonos neve és ügyfél-azonosító száma, amely a programban kiszállítani tervezett termékeket megtermeli,
+
+g) a d)–f) pontban megjelölt termelő azon termőterületének adatai, amelyen a megállapodás alapján a saját terméket megtermeli [blokkazonosító, vármegye, településnév és helyrajzi szám, terület mérete (hektár), növénykultúra neve és hasznosítási kódja, ültetvény típusa (intenzív, extenzív)],
+
+h) a zöldség- és gyümölcslé előállítására vonatkozó, a feldolgozóval kötött érvényes bérgyártási vagy adásvételi szerződés elektronikus másolati példánya,
+
+i) a megállapodás teljes dokumentumának egy elektronikus másolati példánya,
+
+j) a kérelmezőnek a kiválasztási eljárás keretében tett és a fenntartó által elfogadott ajánlata,
+
+k) a kérelmező nyilatkozata arról, hogy a kérelem e bekezdésben foglaltak alapján megadott adatai a valóságnak megfelelnek.
+
+(6)[^45]
+
+(7)[^46] A kérelmező a megállapodás jóváhagyására – a 7. § (3) bekezdésében foglalt eset kivételével – tanítási évenként egy kérelmet nyújthat be.
+
+(8)[^47] A Kincstár a megállapodás jóváhagyása iránti kérelem tárgyában minden év augusztus 15-éig hoz döntést. A Kincstár a megállapodás jóváhagyásakor a szállítható terméket és termékmennyiséget a jóváhagyást követő tanítási évre fenntartónként és a 9. § (2) bekezdése szerinti teljesítési időszakonként határozza meg. A kérelmező a megállapodás jóváhagyásáról, valamint a részére jóváhagyott termékmennyiségről tájékoztatja a fenntartót.
+
+(9)[^48] A kérelmező jogosult az általa megkötött megállapodás alapján az egyes teljesítési időszakokban termékenként szállítható mennyiségeket az adott teljesítési időszakban fenntartónként és termékenként jóváhagyott mennyiség 20%-áig átcsoportosítani annak érdekében, hogy a megállapodás megkötése és a teljesítési időszak kezdete között bekövetkező intézményi létszámváltozásokat kiegyenlítse. A 20%-on felüli átcsoportosítással érintett termékmennyiségek tekintetében az 1. mellékletben az adott termékre meghatározott bruttó támogatási mértéknek megfelelő összeg jogosulatlan támogatásnak minősül.
+
+## 6.[^49]
+
+## 7. A támogatott termék
+
+### 12. §
+
+(1) A program keretében – a Kincstár által jóváhagyott mennyiség erejéig és a megállapodásban meghatározott ütemezéssel – szállítható termék fogyasztásra közvetlenül alkalmas, és a 13. §, valamint a Kincstár honlapján közleményben közzétett minőségi és élelmiszer-biztonsági feltételeknek megfelelő, az Európai Unióban megtermelt, 1. mellékletben meghatározott termék lehet.
+
+(2) A támogatott termék elszámolási egysége: adag.
+
+### 13. §
+
+(1) Az e rendelet alapján támogatott terméknek meg kell felelnie az 1234/2007/EK tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozott gyümölcs- és feldolgozott zöldség-ágazatra alkalmazandó részletes szabályainak a megállapításáról szóló, 2011. június 7-i 543/2011/EU bizottsági végrehajtási rendelet I. mellékletében előírt általános forgalmazási előírásoknak vagy ha létezik, a termékspecifikus forgalmazási előírásokban meghatározott I. osztályra vonatkozó követelményeknek, és legalább a Kincstár honlapján közzétett közleményben meghatározott méretűnek kell lennie.
+
+(2) A földi eper, a cseresznye, a sárgarépa és a karalábé szállítása akkor foglalható megállapodásba, ha az fogyasztásra előkészített és az 1. mellékletben előírt adagban csomagolt áruként kerül szállításra.
+
+(3) Ha a zöldség- és a gyümölcslé kettő vagy több gyümölcsből vagy zöldségből készül, akkor a legkisebb részarányú gyümölcs vagy zöldség arányának el kell érnie az 5%-ot.
+
+(4) Gyümölcslé esetében a cukor mennyiségének a cukortartalom mérésére szolgáló Brix-skálán meghatározott legalább 10 Brix-fok értékűnek kell lennie.
+
+(5) Ha a zöldség- és gyümölcslé nem felel meg a (3) és (4) bekezdésben meghatározott feltételeknek, akkor a vonatkozó termékmennyiségek után támogatás nem fizethető.
+
+## 8. A támogatott termék kiosztása
+
+### 14. §
+
+(1) A tanulónként kiosztható termék mennyisége hetente legfeljebb négy adag. Hetente legalább kétféle terméket kell kiosztani. Az egész alma és a szeletelt alma egyféle terméknek minősül. A kiosztott termékféléknek szállítási időszakon belül hetenként azonosnak kell lennie.
+
+(2) Ha a termék kiosztásának időpontjában a teljesítés helyszínén jelenlévő, 2. § (1) bekezdés a), b) és d) pontja szerinti tanulók száma a tanuló távolléte folytán vagy amiatt marad el a megállapodásban foglaltakhoz képest, mert a tervezett létszámhoz viszonyítva kevesebb tanuló iratkozott be az 1–6. évfolyamokba, a ki nem osztható mennyiség a 9. § (1) bekezdésére figyelemmel a köznevelési intézmény döntésétől függően
+
+a) a 2. § (1) bekezdés a), b) és d) pontja szerinti tanulók között a napi adag vagy a heti gyakoriság növelésével a hét egy további fennmaradó napján vagy a teljesítési időszakon belül a termékkel való ellátás időtartamának növelésével vagy
+
+b)[^50] a 2. § (1) bekezdés c) pontja szerinti bármely köznevelési intézmény 7. és 8. évfolyamának tanulói számára
+
+osztható ki.
+
+(3)[^51] A programban részt vevő köznevelési intézmény – több feladatellátási hely esetén feladatellátási helyenként – a kiosztott termék mennyiségéről, az átvett és leselejtezett termékmennyiség adatainak összesítésével a Kincstár honlapján közzétett adatlap kitöltésével, hetente nyilvántartást vezet.
+
+(4) A köznevelési intézmény selejtezési jegyzőkönyvet vezet azon termékekről, amelyeknek a köznevelési intézményben történő tárolás alatt lejárt a minőségmegőrzési idejük, illetve érzékszervi észlelés alapján fogyasztásra alkalmatlanná váltak. A selejtezési jegyzőkönyvnek legalább az alábbi adatokat kell tartalmaznia:
+
+a) a fenntartó neve, címe, adószáma, a köznevelési intézmény neve, címe, OM azonosítója,
+
+b) a jegyzőkönyv készítőjének neve,
+
+c) a selejt termék neve, mennyisége adag vagy darab mértékegységben,
+
+d) a selejtezés oka,
+
+e) a jegyzőkönyv készítőjének aláírása és a köznevelési intézmény vezetőjének cégszerű aláírása.
+
+(5) Ha a termék átvételekor az átvétel helyén az átvételért felelős személy szemrevételezéssel megállapítja, hogy a termék minősége nem felel meg a 12. és 13. §-ban foglaltaknak, akkor a minőségi kifogást jegyzőkönyvben rögzíti, és azt a szállító képviselőjével aláíratja, valamint a jegyzőkönyv másolatát a szállító részére átadja. A szállító együttműködik a köznevelési intézménnyel és fenntartójával vagy annak képviselőjével a minőségi kifogás jegyzőkönyvezése során. A minőségi kifogásról a fenntartó értesíti a Kincstárt, és az értesítéshez mellékeli a jegyzőkönyv másolatát.
+
+(6) A köznevelési intézmény a támogatott termék tanulók részére történő kiosztásáról a közétkeztetéstől eltérő időpontban gondoskodik.
+
+## 9. A támogatás forrása
+
+### 15. §
+
+(1) A program támogatására az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő alkalmazására vonatkozó szabályokról szóló, 2016. november 3-i 2017/39/EU bizottsági végrehajtási rendelet (a továbbiakban: 2017/39/EU bizottsági végrehajtási rendelet) 7. cikke alapján hozott bizottsági határozat szerinti támogatás összegéig az Európai Mezőgazdasági Garancia Alapból és ehhez kapcsolódóan Magyarország központi költségvetésében meghatározott forrásból származó támogatási keret áll rendelkezésre.
+
+(2)[^52] A Kincstár a megkötött megállapodások adatai alapján a következő tanítási évben várható költségvetési forrásigényről évente július 25-éig tájékoztatja a minisztert.
+
+## 10. Visszaosztási eljárás
+
+### 16. §
+
+(1) Ha a megállapodások összesítésekor megállapítást nyer, hogy a kérelmezők által az adott tanítási év vonatkozásában igénybe venni kívánt támogatás összege meghaladja a 15. § (2) bekezdése szerinti támogatási keretet, akkor a Kincstár meghatározza a 15. § (2) bekezdése szerint rendelkezésre álló pénzügyi keret és a jóváhagyható megállapodásokban foglalt mennyiségre jutó összes támogatási összeg arányát. A Kincstár a megállapodás alapján az adott tanítási év vonatkozásában a szállítani kívánt termékek támogatási mértékének a fenti arányszámmal történő csökkentésével – a jóváhagyható megállapodások alapján – a kérelmezőnként igényelhető támogatás összegét arányosan csökkenti.
+
+(2) Az (1) bekezdés szerinti visszaosztás a 14. § (1) és (2) bekezdése szerinti kiosztási gyakoriságot és a jogosult tanulók 9. § (1) bekezdése szerinti számát nem érinti.
+
+(3) Ha a Kincstár a megállapodást az (1) bekezdés szerinti arányos csökkentést követően hagyja jóvá, a kérelmező jogosult a szállítási időszak arányos csökkentésére.
+
+## 11. A kifizetési kérelem
+
+### 17. §
+
+(1)[^53] A támogatási összeg kifizetése iránti – a (2) bekezdésben meghatározott adattartalmú – kérelmet (a továbbiakban: kifizetési kérelem) a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően, az adott szállítási időszakban kiszállított termékre vonatkozóan időszakonként egy alkalommal, az adott időszak végét követő harmadik hónap utolsó napjáig kell benyújtani. Egy kérelmező időszakonként és termékenként legfeljebb a 10. § (8) bekezdése szerint a részére jóváhagyott, összes mennyiségre vehet igénybe támogatást.
+
+(2) A kifizetési kérelem az alábbi adatokat és nyilatkozatokat tartalmazza:
+
+a) a kérelmező, illetve meghatalmazottja vagy képviselője ügyfél-azonosító száma;
+
+b) kapcsolattartási adatok (kapcsolattartó neve, telefonszáma, elektronikus levélcíme);
+
+c) a kérelem alapadatai:
+
+ca) a kérelemmel érintett szállítási időszak megnevezése,
+
+cb) a megjelölt időszakban kiosztott támogatott termékek teljes mennyisége,
+
+cc)[^54] a megjelölt időszakban kiosztott termékre igényelt támogatás összege forintban;
+
+d)[^55] a termék vonatkozásában
+
+da) a 4. § (2) bekezdés a) pontja szerinti kérelmező esetében a terméket megtermelő tag, a 4. § (2) bekezdés b) és c) pontja szerinti kérelmező esetében a termelő neve és ügyfél-azonosítója,
+
+db) termékenként a blokkazonosító, vármegye, településnév és hrsz., terület mérete (hektár), növénykultúra neve és hasznosítási kódja, ültetvény típusa (intenzív, extenzív);
+
+e) az intézmények és fenntartóik adatai (név, cím, OM azonosító);
+
+f) a számlák adatai [sorszám, teljesítési dátum, bruttó érték, termék megnevezése, mennyisége (adag), tételek bruttó értéke];
+
+g)[^56]
+
+h) a kérelmező nyilatkozata arról, hogy
+
+ha) a kérelemben igényelt támogatásra vonatkozó hatályos jogszabályi rendelkezések – különösen az 1308/2013/EU európai parlamenti és tanácsi rendelet, a mezőgazdasági termékpiacok közös szervezésével kapcsolatos egyes támogatások és visszatérítések megállapítására vonatkozó intézkedések meghatározásáról szóló, 2013. december 16-i 1370/2013/EU tanácsi rendelet, a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet, a 2017/39/EU bizottsági végrehajtási rendelet, valamint az e rendelet – által előírt valamennyi feltételt megismerte, és azoknak megfelel,
+
+hb) a kérelem alapját képező megállapodás vagy megállapodásokban vállalt kötelezettségeit teljesítette,
+
+hc) a kérelemben és a mellékletekben feltüntetett adatok a valóságnak megfelelnek,
+
+hd) hozzájárul ahhoz, hogy a Kincstár által működtetett monitoring rendszerben nyilvántartott adataihoz a költségvetési támogatás utalványozója, folyósítója, a költségvetési törvény XIX. Uniós fejlesztések fejezetéből biztosított költségvetési támogatás esetén a közreműködő szervezet, ennek hiányában az irányító hatóság, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság és a csekély összegű támogatások nyilvántartásában érintett szervek hozzáférjenek.
+
+(3)[^57]
+
+(4) A kifizetési kérelemhez csatolni kell
+
+a) a teljesítési időszakban kiszállított összes támogatott termékről kiállított, hónapra vagy teljesítési időszakra szóló elszámolást tartalmazó számlát vagy gyűjtőszámlát, amely darabszámban tartalmazza a kiszállított adagok mennyiségét;
+
+b)[^58] az 5. § (7a) bekezdése szerinti nyilvántartást a 4. § (5) bekezdés e) pont eb) alpontjában előírt nyilatkozat alátámasztására.
+
+(5)[^59] A számlát vagy gyűjtőszámlát a fenntartó részére kell kiállítani. Ha a köznevelési intézmény a gazdálkodását önállóan végzi (önálló költségvetési szerv), és a megállapodásban rögzítésre került, akkor a számlát vagy gyűjtőszámlát a köznevelési intézmény részére kell kiállítani.
+
+(6) A kérelmező legkésőbb a kifizetési kérelem benyújtását megelőző tizedik napig a Kincstár által erre a célra rendszeresített elektronikus felületen bejelenti a Kincstár részére a jóváhagyott megállapodásait érintő fenntartói jogok átadását és az intézményi változásokat. Az egyes fenntartók kapcsán időszakonként és termékenként jóváhagyott mennyiségeket érintő fenntartói és intézményi változásokat illetően a Kincstár módosítja a 10. § (8) bekezdése szerinti döntését. A döntés módosítása során a kérelmező számára nem hagyható jóvá a 10. § (8) bekezdése szerinti, a kérelmező részére korábban időszakonként és termékenként jóváhagyott összes mennyiségen felüli mennyiség. Fenntartói jog átadása esetén a (9) bekezdésnek megfelelő adattartalmú, a Kincstár honlapján közzétett nyomtatvány szerinti, az új fenntartó által kiállított nyilatkozatot is be kell nyújtani a Kincstár részére.
+
+(7)[^60] Ha a köznevelési intézmény vagy feladatellátási helye beolvad egy ugyanazon kérelmező által termékekkel ellátott másik köznevelési intézménybe, és a két intézmény részére az érintett szállítási időszakokban szállítani tervezett termékek köre és heti adagszáma eltérő, akkor a Kincstár a jogutód intézmény esetében jóváhagyott megállapodás szerinti termékeket és heti adagszámokat hagyja jóvá.
+
+(8)[^61] Ha a pályáztatás időszakában már ismert a soron következő tanítási évet érintő fenntartóváltás, és az új fenntartó nyilatkozik a programban történő részvételi szándékáról, az ezzel érintett gyereklétszámra vonatkozó ajánlattételi felhívást a régi fenntartó írja ki, majd a (6) bekezdésben foglaltak szerinti fenntartói jog átadás keretében adja át az új fenntartó részére.
+
+(9) A (6) bekezdés szerinti fenntartói nyilatkozat az alábbi adatokat tartalmazza:
+
+a) a köznevelési intézmény OM azonosítója;
+
+b) az új fenntartó azonosító adatai (neve, székhelye, adószáma, azonosítója, képviselőjének neve);
+
+c) a korábbi fenntartó azonosító adatai (neve, székhelye, adószáma, azonosítója, képviselőjének neve);
+
+d) a szállító azonosító adatai (neve, székhelye, adószáma);
+
+e) az új fenntartó nyilatkozatát arról, hogy
+
+ea) az általa képviselt szervezet gyakorolja – az év/hónap/nap formátumban megadott időponttól – a fenntartói jogokat a köznevelési intézmény esetében,
+
+eb)[^62] megismerte a korábbi fenntartó és a szállító között a köznevelési intézménybe járó gyermekek programban támogatott termékekkel történő ellátása céljából kötött megállapodást,
+
+ec)[^63] a köznevelési intézmény a tanítási év során továbbra is részt kíván venni a programban a megállapodásban megjelöltek szerint, valamint
+
+ed) a program végrehajtását szabályozó európai uniós és nemzeti jogszabályokban foglaltakat megismerte.
+
+(10)[^64] A Kincstár az egyes köznevelési intézményekbe ténylegesen beiratkozott, 1–6. évfolyamra járó tanulók létszáma alapján a 10. § (8) bekezdése szerinti döntését nem módosíthatja. A megállapodás megkötése és a teljesítési időszak kezdete között bekövetkező létszámváltozások kiegyenlítése érdekében a 10. § (9) bekezdésében és a 14. § (2) bekezdésében foglaltakat kell alkalmazni.
+
+(11) A kifizetési kérelem (1) bekezdésben meghatározott határidőn túli benyújtása esetén a 2017/39/EU bizottsági végrehajtási rendelet 4. cikk (5) bekezdése szerinti jogkövetkezményeket kell alkalmazni.
+
+(12) A Kincstár a támogatás kifizetése iránt a kifizetési kérelem beérkezésének napját követő három hónapon belül intézkedik.
+
+## 12. Az igényelhető támogatás mértéke
+
+### 18. §
+
+(1)[^65] A támogatás mértéke a megállapodásnak megfelelően leszállított és kiosztott, a 12. és 13. §-ban foglaltaknak megfelelő termék – 1. mellékletben meghatározott – egy adagjára vetített és meghatározott bruttó összeg, amely tartalmazza az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdés a) pontjában foglalt költségeket, és amelynek összegére a kérelmező a számlát kiállította. Az egy hétre és egy főre számított támogatás összege legfeljebb bruttó kettőszázharminc forint lehet. Ha a megállapodásban szereplő termékekre jutó – 1. mellékletben meghatározott – támogatás egy főre és egy hétre számított összege meghaladja a bruttó kettőszázharminc forintot, akkor a különbözetet a fenntartó megtéríti a beszállítónak.
+
+(2)[^66]
+
+(3)[^67]
+
+## 13. A programot népszerűsítő kommunikáció
+
+### 19. §
+
+A támogatás feltétele, hogy a köznevelési intézmény a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 12. cikkében és Mellékletében meghatározott minimumfeltételeknek megfelelő plakátot a program teljes időtartama alatt a köznevelési intézmény székhelye és a programban részt vevő feladatellátási helye főbejáratánál elhelyezze.
+
+### 19/A. §[^68]
+
+(1) A köznevelési intézményben a program népszerűsítését célzó, valamint a friss zöldség- és gyümölcsfogyasztást ösztönző edukációs program indítható – pályázat vagy közbeszerzési eljárás kiírása útján – a programban rendelkezésre álló források terhére. Az edukációs program éves szinten a nemzeti forrás legfeljebb 3%-áig, az európai uniós forrás legfeljebb 15%-áig támogatható.
+
+(2) Az edukációs program a miniszter által közzétett pályázatot vagy közbeszerzési eljárást követően megkötött szerződés alapján – tájékoztató kampány folytatása útján – valósítható meg.
+
+(3) A (2) bekezdés szerinti pályázat vagy közbeszerzési eljárás előkészítése érdekében a miniszter az általa vezetett minisztérium három szakértőjéből és a Kincstár által delegált egy fő szakértőből álló bírálóbizottságot hoz létre. A bírálóbizottság működési rendjét a miniszter állapítja meg.
+
+(4) A pályázati vagy közbeszerzési kiírásban meghatározott feltételek alapján a bírálóbizottság a beérkezett ajánlatokat rangsorolja, és ez alapján javaslatot terjeszt a miniszter elé. A nyertes ajánlatról a miniszter hoz döntést, és ezt – a Kincstár egyidejű tájékoztatása mellett – tíz napon belül írásban közli a nyertes ajánlat benyújtójával. Az edukációs program végrehajtásáról szóló szerződést a miniszter köti meg.
+
+(5) A támogatásról szóló kifizetési kérelmét az edukációs program végrehajtója a Kincstárhoz nyújtja be
+
+a) a megvalósítást alátámasztó dokumentumok,
+
+b) a kifizetési bizonylatok,
+
+c) a megbízási vagy vállalkozási szerződései másolati példánya, valamint
+
+d) a miniszter által kiadott – a nyertes ajánlattevő vállalásának végrehajtását igazoló – teljesítésigazolás
+
+egyidejű csatolásával.
+
+## 14. Ellenőrzés, jogkövetkezmények
+
+### 20. §[^69]
+
+(1) Ha a fenntartó – adminisztrációs hiba miatt – több megállapodást kötött egy adott köznevelési intézmény ellátására vonatkozóan, akkor a Kincstár a kérelmezők által benyújtott megállapodások közül azt a megállapodást hagyja jóvá, amely az e rendeletben meghatározott rendelkezéseknek megfelel, és a legkésőbbi időpontban kötötték meg a felek.
+
+(2) Ha az (1) bekezdés szerinti esetben a jóváhagyásra benyújtott megállapodások közül nem állapítható meg, hogy melyiket kötötték meg a legkésőbbi időpontban, akkor a Kincstár – a benyújtás időpontját figyelembe véve – a korábbi időpontban benyújtott megállapodást hagyja jóvá.
+
+### 21. §
+
+(1)[^70] A 2017/39/EU bizottsági végrehajtási rendelet 11. és 12. cikkében foglalt szabályoknak megfelelően a kérelmező és a fenntartó által kötött megállapodás megkötésének és teljesülésének adminisztratív és helyszíni ellenőrzését a Kincstár végzi úgy, hogy tanítási évenként legalább a 2017/39/EU bizottsági végrehajtási rendelet 10. cikk (3) bekezdésében meghatározott számú kérelmezőt ellenőriz. A Kincstár a köznevelési intézményben, a fenntartónál és a kérelmezőnél helyszíni ellenőrzést végezhet.
+
+(1a)[^71] A helyszíni ellenőrzés során a Kincstár ellenőrzi az e rendeletben foglaltak megvalósulását, valamint a felhasznált termékek 1308/2013/EU európai parlamenti és tanácsi rendeletnek, a 2017/39/EU bizottsági végrehajtási rendeletnek, valamint a 2017/40/EU felhatalmazáson alapuló bizottsági rendeletnek való megfelelését.
+
+(2) A Kincstár a kérelmezők kiválasztásánál a 2017/39/EU bizottsági végrehajtási rendeletben foglaltak súlyozott figyelembevételével végez ellenőrzést minden olyan kérelmezőnél, amelynél az előző tanítási évre vonatkozóan meg nem felelést állapított meg.
+
+(3) A Kincstár a szállítónál a 14. § (5) bekezdése szerinti értesítés alapján helyszíni ellenőrzést folytat le.
+
+(4) Az (1) bekezdés szerinti ellenőrzések számába a (3) bekezdés szerinti ellenőrzések száma nem számítható be.
+
+(5)[^72] A Kincstár a megállapodás jóváhagyására irányuló kérelem benyújtásakor adminisztratív ellenőrzést végez.
+
+(5a)[^73] A Kincstár a kifizetési kérelem ellenőrzése során – adminisztratív és helyszíni ellenőrzés keretében – vizsgálja
+
+a) a támogatási kérelemhez mellékelt számlákat,
+
+b) az átvételi jegyeket, a szállítójegyeket, a fuvarleveleket, a nyilvántartásokat, valamint
+
+c) az e rendeletben, az (EU) 2017/39 bizottsági végrehajtási rendeletben és az (EU) 2017/40 felhatalmazáson alapuló bizottsági rendeletben meghatározott előírások teljesülését.
+
+(6)[^74] A Kincstár hivatalból ellenőrzi a kiválasztási eljárás teljes folyamatát, a köznevelési intézményre vonatkozóan az 5. § (4) bekezdésében a feladatellátási helyekre vonatkozó előírás teljesülését, a köznevelési intézmény 14. § (3) bekezdése alapján vezetett nyilvántartását, továbbá lefolytatja az (EU) 2017/39 bizottsági végrehajtási rendelet 10. cikke szerinti helyszíni ellenőrzést.
+
+(6a)[^75] Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzés keretében ellenőrizi a gyümölcslé 13. § (4) bekezdésében meghatározott cukortartalmát.
+
+(7) Ha a Kincstár az ellenőrzése során azt állapítja meg, hogy a kérelmező az e rendeletben, az 1308/2013/EU európai parlamenti és tanácsi rendeletben, a 2017/39/EU bizottsági végrehajtási rendeletben és a 2017/40/EU felhatalmazáson alapuló bizottsági rendeletben előírt feltételeket, illetve a megállapodásban vállalt kötelezettségeit nem teljesítette, akkor a Kincstár
+
+a) a támogatási összeg kifizetése iránti kérelmet a nemteljesítéssel érintett mennyiség tekintetében elutasítja, vagy
+
+b) elrendeli a már kifizetett támogatás visszafizetését a nemteljesítéssel érintett mennyiség tekintetében.
+
+(8) Ha a kérelmező által a 9. § (2) bekezdésében meghatározott bármely időszakban kiszállított termékek mennyisége a kérelmezőnek felróható okból a Kincstár által az adott időszakra és az adott fenntartó kapcsán jóváhagyott mennyiség kevesebb mint 80%-a, akkor a leszállított mennyiségre eső bruttó támogatási összeget a Kincstár a le nem szállított mennyiségre eső – 1. melléklet szerinti, egy adagra meghatározott bruttó támogatási összeg szerint kiszámított – támogatás mértékével csökkenti.
+
+(9) Ha a Kincstár vagy a Zöldség-Gyümölcs Minőségellenőrzési Szolgálat helyszíni ellenőrzése során megállapítja, hogy a kiszállított termék nem felel meg a 12. és a 13. §-ban foglalt feltételeknek, akkor a (7) bekezdés szerinti szankció megállapításán felül a nem megfelelő termék mennyiségére eső támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül. A Zöldség-Gyümölcs Minőségellenőrzési Szolgálat a meg nem felelésről szóló végleges határozatát megküldi az érintett köznevelési intézmény fenntartójának és a Kincstárnak.
+
+(10) Ha a tanítási év során másodszor is megállapítást nyer, hogy a kérelmező által kiszállított termék nem felel meg a 12. és a 13. §-ban foglalt feltételeknek, akkor a (9) bekezdésben megállapított szankciók alkalmazása mellett a kérelmező részére az összes megállapodásra vonatkozóan jóváhagyott teljes mennyiség értékének 3%-a jogosulatlanul igénybe vett támogatásnak minősül, és a Kincstár a következő tanítási évre vonatkozóan nem hagyja jóvá a kérelmező programban történő részvételét.
+
+### 22. §
+
+(1) Ha a Kincstár az ellenőrzése során megállapítja, hogy a fenntartó nem tett eleget a 14. § (6) bekezdésében, valamint a megállapodásban vállalt, a termék tanulók részére történő kiosztására vonatkozó kötelezettségeinek, akkor a köznevelési intézménynél ki nem osztott vagy nem megfelelően kiosztott, támogatott termékek e rendelet alapján kiszámított ellenértéke a fenntartónál jogosulatlanul igénybe vett támogatásnak minősül.
+
+(2) Ha a Kincstár az ellenőrzése során megállapítja, hogy a termékek 14. § (2) bekezdése szerinti gyakoriságú kiosztása azért állt elő, mert a tanulók megállapodásban meghatározott száma meghaladta a megállapodás megkötésekor fennálló tanulói létszámot, az így kiosztott, támogatott termékek e rendelet alapján kiszámított ellenértéke a fenntartónál jogosulatlanul igénybe vett támogatásnak minősül.
+
+(3) Ha a Kincstár az ellenőrzése során megállapítja, hogy a köznevelési intézmény nem tett eleget a 14. § (3) és (4) bekezdése, valamint a 19. § szerinti kötelezettségeinek, akkor a fenntartó felelősségével kiosztott, támogatott termékek e rendelet alapján kiszámított ellenértékének 5%-a a fenntartónál jogosulatlanul igénybe vett támogatásnak minősül.
+
+(4)[^76] Ha a Kincstár az ellenőrzése során megállapítja, hogy a fenntartó nem vagy csak részben tett eleget a kötelezettségeinek, akkor a Kincstár a fenntartónál kezdeményezheti az érintett nevelési-oktatási intézmény tanulóinak kiosztott termékek alapján az adott tanévre vonatkozóan igényelt és a kérelmező részére kifizetett támogatás 1%-ának, de legfeljebb 200 000 Ft összegnek a Kincstár részére történő megfizetését.
+
+(4a)[^77] Ha megállapításra kerül, hogy a fenntartó csak részben tett eleget a 6. § szerinti kötelezettségeinek, a Kincstár a fenntartónál kezdeményezheti az érintett köznevelési intézmény tanulóinak kiosztott termékek alapján az adott tanítási évre vonatkozóan igényelt és kifizetett támogatás 1%-ának, de legfeljebb 200 000 Ft támogatásnak a visszafizetését.
+
+(5) Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1306/2013/EU európai parlamenti és tanácsi rendelet) 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy a 2. § (1) bekezdésében meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a programban foglalt célokkal ellentétes előnyök megszerzése érdekében.
+
+(6) Ha az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek mesterséges megteremtését előidéző jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés fennállását az arra hatáskörrel rendelkező szerv megállapítja, akkor az így megszerzett előny az (1) bekezdés szerinti jogosulatlan támogatásnak minősül.
+
+## 15. Záró rendelkezések
+
+### 23. §
+
+Ez a rendelet 2021. április 1-jén lép hatályba.
+
+### 24. §
+
+E rendelet rendelkezéseit a 2021/2022. és az azt követő tanítási évekre benyújtott kérelmekre induló eljárásokban kell alkalmazni.
+
+### 25. §
+
+Ez a rendelet
+
+a) a mezőgazdasági termékpiacok közös szervezésével kapcsolatos egyes támogatások és visszatérítések megállapítására vonatkozó intézkedések meghatározásáról szóló, 2013. december 16-i 1370/2013/EU tanácsi rendelete,
+
+b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelete,
+
+c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő alkalmazására vonatkozó szabályokról szóló, a Bizottság (EU) 2017/39 végrehajtási rendelete (2016. november 3.),
+
+d) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet módosításáról szóló, a Bizottság (EU) 2017/40 felhatalmazáson alapuló rendelete (2016. november 3.) és
+
+e) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK, és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelete
+
+f)[^78] az (EU) 2017/40 felhatalmazáson alapuló rendeletnek a kísérő oktatási intézkedések, valamint a támogatást kérelmezők kiválasztása és jóváhagyása tekintetében történő módosításáról szóló, 2021. december 13-i (EU) 2022/245 felhatalmazáson alapuló bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 15/2021. (III. 31.) AM rendelethez[^80]
+
+**A támogatott termékek és a támogatás bruttó összege**
+
+<table><thead><tr><th></th><th colspan="2">**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th><th>**F**</th></tr><tr><th rowspan="2">**1.**</th><th colspan="2" rowspan="2">**Termék megnevezése**</th><th rowspan="2">**Egy adagként kiosztandó mennyiség**</th><th colspan="4">**A támogatás bruttó összege (Ft/adag)**</th></tr><tr><th>**I. időszak**</th><th>**II. időszak**</th><th>**III. időszak**</th><th>**IV. időszak**</th></tr></thead><tbody><tr><td>2.</td><td colspan="7">1. gyümölcs</td></tr><tr><td rowspan="2">3.</td><td rowspan="2">1.1. alma</td><td>egész</td><td>1 db</td><td>65</td><td>65</td><td>70</td><td>80</td></tr><tr><td>szeletelt</td><td>8 dkg</td><td>125</td><td>125</td><td>125</td><td>125</td></tr><tr><td>4.</td><td colspan="2">1.2. körte</td><td>1 db</td><td>110</td><td>110</td><td>110</td><td>110</td></tr><tr><td>5.</td><td colspan="2">1.3. őszibarack</td><td>1 db</td><td>110</td><td>–</td><td>–</td><td>–</td></tr><tr><td>6.</td><td colspan="2">1.4. nektarin</td><td>1 db</td><td>110</td><td>–</td><td>–</td><td>–</td></tr><tr><td>7.</td><td colspan="2">1.5. szilva</td><td>4 db</td><td>70</td><td>–</td><td>–</td><td>–</td></tr><tr><td>8.</td><td colspan="2">1.6. földi eper (adagonként csomagolt)</td><td>8 dkg</td><td>–</td><td>–</td><td>–</td><td>130</td></tr><tr><td>9.</td><td colspan="2">1.7. cseresznye (adagonként csomagolt)</td><td>8 dkg</td><td>–</td><td>–</td><td>–</td><td>130</td></tr><tr><td>10.</td><td colspan="2">2. zöldség- és gyümölcslé</td><td>2 dl</td><td>145</td><td>145</td><td>145</td><td>145</td></tr><tr><td>11.</td><td colspan="7">3. zöldség</td></tr><tr><td>12.</td><td colspan="2">3.1. paradicsom</td><td>1 db</td><td>70</td><td>85</td><td>90</td><td>90</td></tr><tr><td>13.</td><td colspan="2">3.2. sárgarépa (csomagolt, mini répa, hasáb, golyó)</td><td>10 dkg</td><td>60</td><td>65</td><td>65</td><td>60</td></tr><tr><td>14.</td><td colspan="2">3.3. étkezési paprika (tv vagy kápia)</td><td>1 db</td><td>40</td><td>40</td><td>80</td><td>80</td></tr><tr><td>15.</td><td colspan="2">3.4. karalábé</td><td>10 dkg</td><td>70</td><td>–</td><td>–</td><td>70</td></tr></tbody></table>
+
+## 2. melléklet a 15/2021. (III. 31.) AM rendelethez[^81]
+
+---
+
+[^1]: Az 1. § 7. pontja az 58/2024. (XI. 27.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 7a. pontját az 58/2024. (XI. 27.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 12. pontja az 58/2024. (XI. 27.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (4) bekezdését az 58/2024. (XI. 27.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 3. § (1) bekezdés a) pontja az 58/2024. (XI. 27.) AM rendelet 19. § 1. pontja szerint módosított szöveg.
+[^8]: [A 3. § (1) bekezdés b) pontjában az 58/2024. (XI. 27.) AM rendelet 18. § a) pontja által elrendelt módosítás, amely szerint az „ügyfélkapus” szövegrész helyébe az „elektronikus” szöveg” lép, nem vezethető át.]
+[^9]: A 3. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § b) pontja, 19. § 2. pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdés e) pontja az 58/2024. (XI. 27.) AM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § (7) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 3. pontja hatályon kívül helyezte.
+[^14]: A 4. § (8) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 3. pontja hatályon kívül helyezte.
+[^15]: Az 5. alcím címe az 58/2024. (XI. 27.) AM rendelet 19. § 4. pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (1a) bekezdését az 58/2024. (XI. 27.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^18]: Az 5. § (1b) bekezdését az 58/2024. (XI. 27.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (5) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 5. pontja hatályon kívül helyezte.
+[^20]: Az 5. § (6) bekezdése az 58/2024. (XI. 27.) AM rendelet 19. § 6. pontja szerint módosított szöveg.
+[^21]: Az 5. § (8) bekezdését az 58/2024. (XI. 27.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^22]: A 6. § az 58/2024. (XI. 27.) AM rendelet 5. §-ával megállapított szöveg.
+[^23]: A 6/A. §-t az 58/2024. (XI. 27.) AM rendelet 5. §-a iktatta be.
+[^24]: A 6/B. §-t az 58/2024. (XI. 27.) AM rendelet 5. §-a iktatta be.
+[^25]: A 7. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § a) és d) pontja, 19. § 7. pontja szerint módosított szöveg.
+[^26]: A 7. § (2) bekezdése az 58/2024. (XI. 27.) AM rendelet 6. §-ával megállapított szöveg.
+[^27]: A 7. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 7. § (4) bekezdését az 58/2024. (XI. 27.) AM rendelet 6. §-a iktatta be.
+[^29]: A 7. § (5) bekezdését az 58/2024. (XI. 27.) AM rendelet 6. §-a iktatta be.
+[^30]: A 7. § (6) bekezdését az 58/2024. (XI. 27.) AM rendelet 6. §-a iktatta be.
+[^31]: A 7. § (7) bekezdését az 58/2024. (XI. 27.) AM rendelet 6. §-a iktatta be.
+[^32]: A 8. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 7. §-ával megállapított szöveg.
+[^33]: A 8. § (2) bekezdése a 22/2023. (V. 9.) AM rendelet 33. §-ával megállapított, az 58/2024. (XI. 27.) AM rendelet 18. § e) pontja szerint módosított szöveg.
+[^34]: A 9. § (1) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 8. pontja hatályon kívül helyezte.
+[^35]: A 9. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 8. §-ával megállapított szöveg.
+[^36]: A 9. § (3a) bekezdését az 58/2024. (XI. 27.) AM rendelet 8. §-a iktatta be.
+[^37]: A 9. § (3b) bekezdését az 58/2024. (XI. 27.) AM rendelet 8. §-a iktatta be.
+[^38]: A 9. § (4) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 8. pontja hatályon kívül helyezte.
+[^39]: A 10. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § a) pontja, 19. § 9. pontja szerint módosított szöveg.
+[^40]: A 10. § (1a) bekezdését az 58/2024. (XI. 27.) AM rendelet 9. § (1) bekezdése iktatta be.
+[^41]: A 10. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § f) pontja, 19. § 10. pontja szerint módosított szöveg.
+[^42]: A 10. § (4) bekezdése az 58/2024. (XI. 27.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^43]: A 10. § (4a) bekezdését az 58/2024. (XI. 27.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^44]: A 10. § (5) bekezdése az 58/2024. (XI. 27.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^45]: A 10. § (6) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 11. pontja hatályon kívül helyezte.
+[^46]: A 10. § (7) bekezdése az 58/2024. (XI. 27.) AM rendelet 19. § 9. pontja szerint módosított szöveg.
+[^47]: A 10. § (8) bekezdése az 58/2024. (XI. 27.) AM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^48]: A 10. § (9) bekezdése az 58/2024. (XI. 27.) AM rendelet 19. § 12. pontja szerint módosított szöveg.
+[^49]: A 6. alcímet (11. §-t) az 58/2024. (XI. 27.) AM rendelet 19. § 13. pontja hatályon kívül helyezte.
+[^50]: A 14. § (2) bekezdés b) pontja az 58/2024. (XI. 27.) AM rendelet 18. § g) pontja szerint módosított szöveg.
+[^51]: A 14. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 10. §-ával megállapított szöveg.
+[^52]: A 15. § (2) bekezdése az 58/2024. (XI. 27.) AM rendelet 11. §-ával megállapított szöveg.
+[^53]: A 17. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^54]: A 17. § (2) bekezdés c) pont cc) alpontja az 58/2024. (XI. 27.) AM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^55]: A 17. § (2) bekezdés d) pontja az 58/2024. (XI. 27.) AM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^56]: A 17. § (2) bekezdés g) pontját az 58/2024. (XI. 27.) AM rendelet 19. § 14. pontja hatályon kívül helyezte.
+[^57]: A 17. § (3) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 15. pontja hatályon kívül helyezte.
+[^58]: A 17. § (4) bekezdés b) pontja az 58/2024. (XI. 27.) AM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^59]: A 17. § (5) bekezdése az 58/2024. (XI. 27.) AM rendelet 19. § 16. pontja szerint módosított szöveg.
+[^60]: A 17. § (7) bekezdése az 58/2024. (XI. 27.) AM rendelet 19. § 2. pontja szerint módosított szöveg.
+[^61]: A 17. § (8) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § h) pontja szerint módosított szöveg.
+[^62]: A 17. § (9) bekezdés e) pont eb) alpontja az 58/2024. (XI. 27.) AM rendelet 19. § 17. pontja szerint módosított szöveg.
+[^63]: A 17. § (9) bekezdés e) pont ec) alpontja az 58/2024. (XI. 27.) AM rendelet 19. § 18. pontja szerint módosított szöveg.
+[^64]: A 17. § (10) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § i) pontja szerint módosított szöveg.
+[^65]: A 18. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 35. §-ával megállapított szöveg.
+[^66]: A 18. § (2) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 19. pontja hatályon kívül helyezte.
+[^67]: A 18. § (3) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 19. pontja hatályon kívül helyezte.
+[^68]: A 19/A. §-t az 58/2024. (XI. 27.) AM rendelet 13. §-a iktatta be.
+[^69]: A 20. § az 58/2024. (XI. 27.) AM rendelet 14. §-ával megállapított szöveg.
+[^70]: A 21. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 36. § (1) bekezdésével megállapított, az 58/2024. (XI. 27.) AM rendelet 18. § g) pontja szerint módosított szöveg.
+[^71]: A 21. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 36. § (1) bekezdése iktatta be.
+[^72]: A 21. § (5) bekezdése az 58/2024. (XI. 27.) AM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^73]: A 21. § (5a) bekezdését az 58/2024. (XI. 27.) AM rendelet 15. § (1) bekezdése iktatta be.
+[^74]: A 21. § (6) bekezdése az 58/2024. (XI. 27.) AM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^75]: A 21. § (6a) bekezdését a 22/2023. (V. 9.) AM rendelet 36. § (3) bekezdése iktatta be, szövege az 58/2024. (XI. 27.) AM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^76]: A 22. § (4) bekezdése az 58/2024. (XI. 27.) AM rendelet 16. §-ával megállapított szöveg.
+[^77]: A 22. § (4a) bekezdését a 22/2023. (V. 9.) AM rendelet 37. §-a iktatta be, szövege az 58/2024. (XI. 27.) AM rendelet 18. § f) és g) pontja szerint módosított szöveg.
+[^78]: A 25. § f) pontját az 58/2024. (XI. 27.) AM rendelet 17. §-a iktatta be.
+[^80]: Az 1. melléklet a 22/2023. (V. 9.) AM rendelet 39. §-ával megállapított szöveg.
+[^81]: A 2. mellékletet az 58/2024. (XI. 27.) AM rendelet 19. § 20. pontja hatályon kívül helyezte.

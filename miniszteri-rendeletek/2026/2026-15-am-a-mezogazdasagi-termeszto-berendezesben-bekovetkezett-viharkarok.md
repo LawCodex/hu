@@ -1,0 +1,153 @@
+---
+title: "15/2026. (IV. 9.) AM rendelet a mezőgazdasági termesztő berendezésben bekövetkezett viharkárok részbeni kompenzálásáról"
+identifier: "15/2026. (IV. 9.) AM rendelet"
+njt_id: "2026-15-20-7R"
+eli: "https://njt.jog.gov.hu/eli/R/2026/AM/15"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2026-04-09
+in_force_from: 2026-04-12
+last_amended: 2026-04-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2026-15-20-7R"
+retrieved: 2026-10-12
+---
+
+# 15/2026. (IV. 9.) AM rendelet a mezőgazdasági termesztő berendezésben bekövetkezett viharkárok részbeni kompenzálásáról
+
+[1] Orosházán a 2025 júliusában kialakult vihar olyan súlyos károkat okozott az ott található kertészetekben, amely állami segítség nélkül ellehetetlenítené a mezőgazdasági termelőket. A termelés zavartalan folytatásának biztosítása érdekében a nehéz helyzetbe került mezőgazdasági termelők támogatást igényelhetnek a termesztő berendezés helyreállítási költségeihez.
+
+[2] A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara képviseletében eljáró falugazdász által igazolt kár után a támogatást a mezőgazdasági termelő a Magyar Államkincstárnál tudja igényelni.
+
+[3] A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *egy és ugyanazon vállalkozás:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) 2. cikk 2. pontja szerinti vállalkozás;
+
+2\. *kár:* vihar által a termesztő berendezésben beállott értékcsökkenés;
+
+3\. *kérelmező:* a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 2. § 23. pontja szerinti mezőgazdasági termelő;
+
+4\. *közigazgatási terület:* a területszervezési eljárásról szóló 321/2012. (XI. 16.) Korm. rendelet 1. § 1. pontja szerinti belterület, valamint 1. § 6. pontja szerinti külterület együttesen;
+
+5\. *mezőgazdasági csekély összegű támogatás:* az 1408/2013/EU bizottsági rendelet szerinti támogatás;
+
+6\. *termesztő berendezés:* az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet 1. § 65. pontja szerinti termesztő berendezés;
+
+7\. *vihar:* a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 2. § 34. pontja szerinti kedvezőtlen időjárási jelenség.
+
+## 2. A támogatás célja, jellege, összege
+
+### 2. §
+
+(1) A kérelmező a 2025. július 1. és 15. között bekövetkezett vihar által Orosháza település közigazgatási területén található termesztő berendezésben okozott kár részbeni kompenzálása céljából egyszeri, vissza nem térítendő mezőgazdasági csekély összegű támogatást (a továbbiakban: támogatás) vehet igénybe.
+
+(2) A támogatás mértéke legfeljebb a termesztő berendezésben keletkezett, a 4. § (1) bekezdés c) pontja szerint igazolt kár összegének 80 százaléka.
+
+(3) A támogatás bruttó támogatástartalma nem haladhatja meg a kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő év során odaítélt 50 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (2), (3), (8) és (10) bekezdését.
+
+(4) Nem nyújtható mezőgazdasági csekély összegű támogatásként olyan támogatás,
+
+a) amelynek összege a piacon forgalmazott termékek ára vagy mennyisége alapján kerül rögzítésre;
+
+b) amely harmadik országba vagy az Európai Unió tagállamába irányuló exporttal kapcsolatos tevékenységekre irányul, az exportált mennyiségekhez, valamint az értékesítési hálózat kialakításához és működtetéséhez vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódó támogatás céljából; vagy
+
+c) amely az importáruval szemben belföldi áru használatához kötött.
+
+(5) A támogatás halmozható azonos elszámolható költségek vonatkozásában vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl bármely csoportmentességi rendeletben vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális intenzitást vagy összeget.
+
+(6) A támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet és az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+### 3. §
+
+A támogatás keretösszege legfeljebb 130 millió forint.
+
+## 3. A támogatás igénybevételének feltételei
+
+### 4. §
+
+(1) Támogatás igénybevételére az a kérelmező jogosult, aki vagy amely
+
+a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdése szerinti Kedvezményezetti Nyilvántartási Rendszerben a kérelem benyújtásakor kérelemre nyilvántartásba vett kedvezményezettként szerepel;
+
+b) a támogatási kérelem benyújtásának időpontjában
+
+ba) nem áll felszámolási, végelszámolási, kényszertörlési eljárás vagy csődeljárás alatt, és
+
+bb) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek;
+
+c) részére a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) a termesztő berendezésben keletkezett kárt igazolta; és
+
+d) nyilatkozik
+
+da) a b) pontban foglaltakról, továbbá
+
+db) arról, hogy megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+
+(2) A NAK az (1) bekezdés c) pontja szerinti igazolás során a kárt
+
+a) a termesztő berendezés értékét és a kérelmező tulajdonjogát igazoló dokumentum és
+
+b) a termesztő berendezésben okozott kár bekövetkezését, időpontját és a keletkezett kárt alátámasztó dokumentum
+
+alapján állapítja meg.
+
+(3) A NAK legkésőbb 2026. április 30. napjáig a (2) bekezdés szerinti megállapított adatok közül a kérelmező
+
+a) nevét,
+
+b) támogatási azonosítóját és
+
+c) a részére megállapított kár összegét
+
+tartalmazó igazolást átadja a kérelmező részére.
+
+(4) A kérelmező a támogatásra abban az esetben jogosult, ha a (3) bekezdés szerint igazolt kár összege legalább 10 ezer forint. Ha a (3) bekezdés szerint igazolt kár összege nem éri el a 10 ezer forintot, akkor a Magyar Államkincstár mint Nemzeti Kifizető Ügynökség (a továbbiakban: Kincstár) a támogatási kérelmet elutasítja.
+
+## 4. A támogatási kérelem benyújtása
+
+### 5. §
+
+(1) A támogatási kérelem, amely egyben kifizetési kérelemnek is minősül (a továbbiakban: támogatási kérelem) 2026. május 15. és 30. között elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással történő azonosítást követően az erre a célra kialakított elektronikus felületen (a továbbiakban: elektronikus felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltak szerint.
+
+(2) Egy kérelmező kizárólag egy támogatási kérelmet nyújthat be.
+
+(3) A támogatási kérelem tartalmazza
+
+a) a kérelmező támogatási azonosítóját és
+
+b) a 4. § (1) bekezdés d) pontja szerinti nyilatkozatát.
+
+(4) A kérelmező a támogatási kérelem benyújtásával egyidejűleg csatolja a 4. § (3) bekezdése szerinti igazolást.
+
+(5) Az (1) bekezdés szerinti támogatási kérelem az abban meghatározott benyújtási időszak végéig, az elektronikus felületen keresztül módosítható. Módosítás esetén az utolsóként módosított támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosító támogatási kérelem benyújtásának időpontja.
+
+(6) Az eljárás során hiánypótlásra nincs lehetőség.
+
+(7) A támogatási eljárás során minden dokumentumot és a jogorvoslati eljáráshoz kapcsolódó dokumentumokat is az elektronikus felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott dokumentum a döntés meghozatalánál nem vehető figyelembe.
+
+## 5. A támogatási kérelem elbírálása, a támogatás kifizetése
+
+### 6. §
+
+(1) A Kincstár az összes jogos támogatási igény ismeretében legkésőbb 2026. június 15-ig döntést hoz a 2. § (2) bekezdésével összhangban megállapított támogatás összegéről, és a támogatást a döntés közlését követően, a forrás rendelkezésre állásától számított 15 napon belül folyósítja a kérelmező részére.
+
+(2) Ha a jogos igények együttesen meghaladják a 3. § szerinti keretösszeget, akkor a rendelkezésre álló forrást a benyújtott támogatási kérelmekben foglalt jogos igények között egyenlő arányban kell felosztani.
+
+(3) A forintban meghatározott összegek euróra történő átszámításánál a támogatási kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyamot kell alkalmazni.
+
+## 6. Záró rendelkezések
+
+### 7. §
+
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+### 8. §
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.

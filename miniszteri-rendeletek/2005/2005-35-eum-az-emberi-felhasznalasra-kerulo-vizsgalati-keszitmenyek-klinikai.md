@@ -1,0 +1,582 @@
+---
+title: "35/2005. (VIII. 26.) EüM rendelet az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról"
+identifier: "35/2005. (VIII. 26.) EüM rendelet"
+njt_id: "2005-35-20-0B"
+eli: "https://njt.jog.gov.hu/eli/R/2005/EUM/35"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2005-08-26
+in_force_from: 2009-10-21
+last_amended: 2023-08-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-35-20-0B"
+retrieved: 2026-10-12
+---
+
+# 35/2005. (VIII. 26.) EüM rendelet az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról
+
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (2) bekezdésének o) pontjában, valamint az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény (a továbbiakban: Gytv.) 24. §-a (2) bekezdésének d) pontjában kapott felhatalmazás alapján – összhangban a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló Oviedói Egyezmény, valamint az Egyezménynek az emberi lény klónozásának tilalmáról szóló Kiegészítő Jegyzőkönyve rendelkezéseivel – a következőket rendelem el:
+
+### 1. §[^1]
+
+(1) E rendelet előírásait az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanács rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálatok esetében kell alkalmazni.
+
+(2) E rendeletben nem szabályozott kérdésekre az 536/2014/EU európai parlamenti és tanácsi rendeletet, az 536/2014/EU parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendeletet [a továbbiakban: (EU) 2017/556 bizottsági végrehajtási rendelet], az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvényt, az Eütv.-t és az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendeletet kell alkalmazni.
+
+### 2. §
+
+(1)[^2] E rendelet alkalmazásában
+
+a) *bioegyenértékűségi vizsgálat:* a vizsgálati gyógyszer más gyógyszerrel való bioegyenértékűségének (farmakokinetikai eredmények alapján), farmakodinámiás vagy terápiás egyenértékűségének összehasonlító vizsgálata;
+
+b) *mellékhatás:* az egészségügyért felelős miniszternek az emberi alkalmazásra kerülő gyógyszerek farmakovigilanciájáról szóló rendeletében ekként meghatározott fogalom;
+
+c) *SUSAR (Suspected Unexpected Serious Adverse Reaction):* feltételezett, az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 34. pontja szerinti nem várt súlyos mellékhatás;
+
+d) *súlyos mellékhatás:* az emberi alkalmazásra kerülő gyógyszerek farmakovigilanciájáról szóló EMMI rendeletben ekként meghatározott fogalom;
+
+e)[^3] *toborzás:* a klinikai vizsgálatot végző egészségügyi szolgáltatónak a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által a klinikai vizsgálat engedélyezése során jóváhagyott nyilvános felhívása abból a célból, hogy az általa ellátott betegeken kívül vizsgálati alanyként más önkéntes személyeket is bevonjon egy konkrét klinikai vizsgálatba;
+
+f) *I. fázisú vizsgálat:* a vizsgálati gyógyszer tolerálhatóságának, biztonságosságának, farmakokinetikájának, farmakodinámiás hatásának vizsgálata egészséges önkénteseken vagy speciális betegcsoportokon; az I. fázisú vizsgálat további célja lehet a terápiás dózis tartomány meghatározása;
+
+g) *II. fázisú vizsgálat:* a vizsgálati gyógyszernek a farmakológiai hatás alapján kiválasztott indikációban végzett vizsgálata, amelynek célja a vizsgálati gyógyszer hatásosságának igazolása, a dózis-hatás összefüggés megállapítása, az optimálisnak tartható terápiás dózis meghatározása, a biztonságosság és tolerálhatóság vizsgálata;
+
+h) *III. fázisú vizsgálat:* a vizsgálati készítmény gyógyszer hatásosságának, biztonságosságának és tolerálhatóságának igazolására, nagyobb számú betegen, kontrollált, randomizált, összehasonlító vizsgálati elrendezésben végzett vizsgálat;
+
+i) *IV. fázisú vizsgálat:* a forgalomba hozatali engedéllyel rendelkező vizsgálati gyógyszert az alkalmazási előírásnak megfelelően felhasználó vizsgálat, melynek célja az előny/kockázat arány, a biztonságosság és tolerálhatóság további vizsgálata.
+
+(2)[^4] Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendeletben és az Eütv.-ben, az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvényben (a továbbiakban: GyT.), az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló jogszabályban, az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló jogszabályban, továbbá az emberi felhasználásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló jogszabályban foglalt fogalommeghatározásokat kell figyelembe venni.
+
+(3)[^5] A vizsgálati gyógyszerek tekintetében a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló jogszabály vonatkozó rendelkezéseit is értelemszerűen kell alkalmazni.
+
+### 3. §
+
+(1)[^6] Minden klinikai vizsgálatot – a biohasznosulás és bioegyenértékűség vizsgálatokat is ideértve – a helyes klinikai gyakorlat (a továbbiakban: GCP) elveinek megfelelően, az orvosi kutatás etikai elveiről szóló Helsinki nyilatkozattal összhangban kell megtervezni, elvégezni és jelenteni. A GCP mindenkor hatályos szövegét az NNGYK magyar nyelven közzéteszi.
+
+(2)[^7] A klinikai vizsgálatok tervezése és végzése során a szakmai szabályoknak, a klinikai vizsgálatokkal kapcsolatos részletes útmutatók mindenkor hatályos változatának megfelelően kell eljárni.
+
+(3)[^8] Az NNGYK és az Egészségügyi Tudományos Tanács független etikai bizottságként eljáró Klinikai Farmakológiai Etikai Bizottsága (a továbbiakban: ETT KFEB) módszertani útmutatókat adnak ki és tesznek közzé honlapjaikon a klinikai vizsgálatokkal kapcsolatos, jelentős szakmai és etikai kérdésekről.
+
+(4)[^9] E rendeletet a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet, továbbá a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet figyelembevételével kell alkalmazni.
+
+## A vizsgálati alanyok védelme
+
+### 4. §
+
+A vizsgálati alany jogai, biztonsága és jólléte elsőbbséget élveznek a tudomány és a társadalom érdekeivel szemben, ezért a kutatás alanyát érintő kockázatot a lehető legkisebb mértékűre kell korlátozni.
+
+### 5. §
+
+(1)[^10]
+
+(2)[^11] Klinikai vizsgálatba cselekvőképes személyt akkor lehet bevonni, ha biztosítottak az 536/2014/EU európai parlamenti és tanácsi rendeletben és az Eütv. 159. §-ának (1)–(3) bekezdéseiben meghatározott feltételek, illetve az e rendeletben előírt követelmények teljesítése.
+
+(3) A klinikai vizsgálat a vizsgálati alany számára nem helyettesítheti az állapotának megfelelő vizsgálatokat és gyógykezeléseket.
+
+(4)[^12] Placebo tervezett alkalmazása esetén a hatósági engedélyezés iránti kérelemhez benyújtott kutatási dokumentációnak tartalmaznia kell a vizsgálatban alkalmazandó placebo kontrollcsoport szükségességének egyedi indokolását. Placebo alkalmazása nem jelenthet a vizsgálati alany számára jelentős további kockázatot, illetve nem idézheti elő visszafordíthatatlan egészségkárosodás veszélyét. Placebot a szükséges legrövidebb ideig szabad csak alkalmazni, a vizsgálati alany állapotát a vizsgálat során folyamatosan kell ellenőrizni, jelentős állapotromlásra utaló tünetek esetén haladéktalanul a tudományosan elfogadott, rendelkezésre álló legjobb terápiában kell részesíteni.
+
+(5)[^13]
+
+(6) A vizsgálati alany egészségi állapotát a klinikai vizsgálat megkezdése előtt, a klinikai vizsgálat során folyamatosan és a vizsgálatot követően gondosan ellenőrizni és dokumentálni kell.
+
+(6a)[^14] A klinikai vizsgálat megkezdése előtt – kivéve a fázis IV. vizsgálatokat és a bioegyenértékűségi vizsgálatokat – a vizsgálatvezető a vizsgálati alany részére betegkártyát állít ki abból a célból, hogy a vizsgálati alany azt magánál tartsa, és ha a vizsgálati alany sürgősségi ellátása válik szükségessé a vizsgálat időtartama alatt, a betegkártyán lévő adatokat a sürgősségi ellátás elősegítése érdekében bemutassa vagy az ellátás időtartamára más módon megismerhetővé tegye. A betegkártya legalább a következőket tartalmazza:
+
+a) vizsgálati alany neve, születési ideje,
+
+b) kódszáma, amennyiben betegbiztonsági okból indokolt,
+
+c) vizsgálat címe (protokoll száma),
+
+d) a vizsgálóhely megnevezése, címe,
+
+e) a vizsgálatvezető orvos vagy általa megjelölt másik orvos 24 órás telefonos elérhetősége,
+
+f) a vizsgálati gyógyszer megnevezése, továbbá a vizsgálati gyógyszer hatásmódja (például kináz gátló, monoklonális ellenanyag stb.), amennyiben az elnevezésből ez nem derül ki,
+
+g) a vizsgálati gyógyszernek a vizsgálatban szereplő indikációja, ellenjavallatai, veszélyes interakciók,
+
+h) egyéb szükségesnek tartott információ, különösen a vizsgálati gyógyszer esetlegesen sürgősségi beavatkozást igénylő mellékhatásai.
+
+(6b) A betegkártya kezelésére az egészségügyi dokumentációra vonatkozó rendelkezéseket kell alkalmazni.(7) Ha a klinikai vizsgálatba reproduktív korú személyeket terveznek bevonni, a klinikai vizsgálat tervezése, engedélyezése, a vizsgálati alanyok tájékoztatása során kiemelt figyelmet kell fordítani a vizsgálati alany tekintetében a klinikai vizsgálatnak a nemző- és fogamzóképességre, a klinikai vizsgálat időpontjában esetleg fennálló vagy későbbi terhességre, az embrió vagy magzat egészségére gyakorolt hatására.
+
+(8)[^15] A klinikai vizsgálatok során a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény, valamint a jogszabályokba foglalt adatkezelésre vonatkozó rendelkezéseket alkalmazni kell.
+
+(9)[^16]
+
+(10)[^17] A klinikai vizsgálatot végző egészségügyi szolgáltató sajtótermékben, illetve a saját honlapján közzétett felhívás útján cselekvőképes vizsgálati alanyokat toborozhat. A közzétett toborzási felhívásban a klinikai vizsgálatra vonatkozó hatósági engedély meglétére utalni kell. A toborzási felhívás nem lehet reklámcélú. A toborzási felhívásban a vizsgálati gyógyszer gyártójának, illetve forgalomba hozatali engedéllyel rendelkező vizsgálati gyógyszer esetén a forgalomba hozatali engedély jogosultjának megjelölése önmagában nem minősül reklámcélúnak. A megbízó, továbbá szakmai és betegszervezetek a klinikai vizsgálatot végző egészségügyi szolgáltató honlapján közzétett toborzási felhívás elérhetőségét saját honlapjukon, továbbá közösségi hálózatokon vagy más internetes honlapokon a toborzás tárgyának megjelölésével közzétehetik.
+
+(10a)[^18]
+
+(11)[^19] A vizsgálati alany részére a klinikai vizsgálatban történő részvétellel kapcsolatos jövedelemkiesésnek, továbbá költségeknek, különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségek megtérítésére térítés fizethető. A vizsgálati alany részére egyéb juttatás vagy díj – a nem-terápiás célú farmakokinetikai vagy interakciós, az I. fázisú, valamint bioegyenértékűségi vizsgálat kivételével – nem adható.
+
+(12)[^20]
+
+## A vizsgálati alany tájékoztatáson alapuló beleegyezése a klinikai vizsgálatba[^21]
+
+### 6. §
+
+(1) A klinikai vizsgálatba bevonni kívánt cselekvőképes személyt a klinikai vizsgálat vezetője vagy a vizsgáló szóban és írásban, magyar nyelven, – illetve a személy anyanyelvén, vagy a személy által ismertként megjelölt más nyelven – laikus számára is érthető módon tájékoztatja az Eütv. 159. §-ának (3) bekezdésében és a (4) bekezdésben foglaltakról.
+
+(1a)[^22] A vizsgálati alanynak a klinikai vizsgálatba történő tájékoztatáson alapuló beleegyezése során alkalmazni kell az 536/2014/EU európai parlamenti és tanácsi rendelet V. fejezetében foglaltakat is.
+
+(2) A tájékoztatást adó személynek különös figyelmet kell fordítania annak a vizsgálatára, hogy a bevonni kívánt személy nincs-e cselekvőképtelen állapotban. Az ezzel kapcsolatos megállapításokat a tájékoztatást adó személy a kutatási és az egészségügyi dokumentációban rögzíti.
+
+(3)[^23] A tájékoztatáson alapuló beleegyező nyilatkozat egy eredeti példányát a kutatási dokumentációban kell megőrizni, egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
+
+(4)[^24] A tájékoztatáson alapuló beleegyező nyilatkozatnak – figyelemmel az 536/2014/EU európai parlamenti és tanácsi rendelet 29. cikkére – legalább a következőket kell tartalmaznia:
+
+1\. a klinikai vizsgálat azonosító adatait,
+
+2\. annak az egészségügyi szolgáltatónak a megnevezését, ahol a klinikai vizsgálatot végezni kívánják,
+
+3\. a klinikai vizsgálat vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését,
+
+4\. a vizsgálati alany személyazonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is,
+
+5\. a betegkártya kiállításáról szóló tájékoztatást,
+
+6\. a betegkártyán szerepelő adatokat, ezek kezelésére vonatkozó szabályokat,
+
+7\. az arra vonatkozó figyelemfelhívást, hogy a vizsgálati alany a betegkártyát saját érdekében a vizsgálat során mindig tartsa magánál,
+
+8\. tájékoztatást arra vonatkozóan, hogy a betegkártyán a vizsgálati alany neve és kódszáma csak betegbiztonsági okból szerepelhet együtt,
+
+9\. a vizsgálati alany adatainak kezelésére, az azokhoz való hozzáférésére vonatkozó szabályokat,
+
+10\. a klinikai vizsgálat kutatási jellegére való utalást, a klinikai vizsgálat célját, várható időtartamát, a bevonni kívánt személyek számát, a klinikai vizsgálat menetét, a tervezett beavatkozások jellegét, gyakoriságát,
+
+11\. a vizsgálati alany rendelkezésére álló egyéb, elfogadott kezelési lehetőségeket, valamint tájékoztatást arra vonatkozóan, hogy a klinikai vizsgálat a már megkezdett kezelésének megszakítását jelentheti, és a megkezdett kezelés megszakításának milyen következményei lehetnek a vizsgálati alany számára,
+
+12\. a lehetséges és a várható következmények, kockázatok és kellemetlenségek részletes leírását, valamint az arra való utalást, hogy a klinikai vizsgálat során olyan nemkívánatos események is felléphetnek, amelyek előre nem láthatóak,
+
+13\. az ésszerűen várható előnyök leírását, vagy ha a vizsgálati alany számára előny a klinikai vizsgálatból nem várható, ennek a ténynek a közlését,
+
+14\. placebo alkalmazásakor részletes tájékoztatást a placebo alkalmazásának lényegéről és arról, hogy a vizsgálati alany milyen valószínűséggel kerülhet placebo csoportba,
+
+15\. a vizsgálati gyógyszer rövid hatástani ismertetését,
+
+16\. azt, hogy a vizsgálat befejezése után a vizsgálati alany – amennyiben szükséges – milyen további egészségügyi ellátásban részesül,
+
+17\. arra vonatkozó figyelemfelhívást, hogy a vizsgálati alany – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a klinikai vizsgálatban történő részvételre vonatkozó beleegyezése önkéntes és befolyásolástól mentes, az bármikor akár szóban, akár írásban indokolás nélkül visszavonható anélkül, hogy ebből a vizsgálati alanynak hátránya származna,
+
+18\. a vizsgálati alany számára a klinikai vizsgálattal összefüggő kár bekövetkezése, illetve személyiségi jog megsértése esetén nyújtandó kezelésre, kár megtérítésére, illetve sérelemdíj megfizetésére és kártalanításra [GyT. 21. § (1) bekezdés] és az ezek igénybevételének módjára vonatkozó tájékoztatást, továbbá annak a személynek és szervezetnek a nevét és magyarországi elérhetőségét, akihez vagy amelyhez a vizsgálati alany a kár bekövetkezésekor fordulhat,
+
+19\. a GyT. 3. § (4) bekezdése szerinti felelősségbiztosításban szereplő biztosító megnevezését és kapcsolattartási adatait,
+
+20\. a vizsgálati alany számára járó költségtérítést, ha van ilyen,
+
+21\. a tájékoztatáson alapuló beleegyező nyilatkozat aláírásának dátumát,
+
+22\. a klinikai vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását,
+
+23\. a tájékoztatáson alapuló beleegyező nyilatkozatot tevő aláírását.
+
+(5)[^25]
+
+(6)[^26]
+
+(7)[^27] A tájékoztatáson alapuló beleegyező nyilatkozatot a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy is aláírja.
+
+(8) Szóbeli beleegyező nyilatkozat esetén a két tanú aláírásával igazolja, hogy a vizsgálati alany a (4) bekezdés szerinti tájékoztatást megkapta és a (6) bekezdés szerinti beleegyező nyilatkozatot vele ismertették és abba szóban beleegyezett.
+
+(9)[^28]
+
+### 6/A. §[^29]
+
+(1) Amennyiben a klinikai vizsgálat során humángenetikai vizsgálat céljából mintát vesznek, erről a vizsgálati alanyt külön tájékoztatni kell. A tájékoztatásnak ki kell terjednie arra is, hogy a vizsgálati alanynak jogában áll a mintavételt külön is visszautasítania, ez esetben a továbbiakban a vele kapcsolatos genetikai adatokat még anonim módon sem lehet felhasználni. A mintavétel elutasítása nem képezi a vizsgálati alany részvételének akadályát a klinikai vizsgálat további részében. A mintavételről szóló tájékoztatást és az abba való beleegyezést külön dokumentumba kell foglalni.
+
+(2) A humángenetikai vizsgálat céljából történt mintavétel előtt a vizsgálati alanyt genetikai tanácsadás keretén belül tájékoztatni kell:
+
+a) a mintavétel céljáról, mennyiségi és minőségi részleteiről,
+
+b) a vizsgálat elvégzésének vagy elmaradásának előnyeiről és kockázatairól,
+
+c) a lehetséges eredménynek az érintettet és közeli hozzátartozóit érintő esetleges következményeiről,
+
+d) a genetikai minta és adat tárolásának módjairól, időtartamáról, a különböző formában tárolt genetikai minták, továbbá adatok azonosíthatóságának lehetőségeiről,
+
+e) a vizsgálati alany egyéb nyilatkozata hiányában a genetikai minta archivált gyűjteménybe való bekerüléséről, a tárolt genetikai minták esetleges továbbításáról,
+
+f) arról, hogy jogosult a humángenetikai vizsgálat során keletkezett genetikai adat megismerésére, továbbá
+
+g) arról, hogy dönthet az általa szolgáltatott minta biobankban történő elhelyezéséről, illetve az elhelyezés módjáról, így lehetőség van a minta
+
+ga) személyazonosító adatokkal együtt történő tárolására,
+
+gb) kódolt formában való elhelyezésére,
+
+gc) pszeudonimizált, azaz olyan formában való elhelyezésére, amelynél a személyazonosító adatot helyettesítő kódot a vizsgálati alany kizárólagos rendelkezésére bocsátották,
+
+gd) anonimizált, azaz olyan formában történő elhelyezésére, amikor a vizsgálati alanyra vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tették.
+
+(3) A vizsgálati alanyt tájékoztatni kell arról is, hogy dönthet a biobankban elhelyezett minta további kutatásban történő részvételéről is. Ebben az esetben a vizsgálati alanynak nyilatkoznia kell arra nézve, hogy mintájának – a mintavétel elsődleges célja szerinti – diagnosztikus, kizárólag kutatási célú, vagy bármely, azaz diagnosztikus és kutatási célú felhasználásához járul-e hozzá.
+
+### 6/B. §[^30]
+
+(1) Amennyiben a klinikai vizsgálat során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
+
+(2) A vizsgálati alany beleegyező nyilatkozata legalább a következőket tartalmazza:
+
+a) a klinikai vizsgálat azonosító adatait,
+
+b) annak az egészségügyi szolgáltatónak a megnevezését, ahol a klinikai vizsgálatot végezni kívánják,
+
+c) a klinikai vizsgálat vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését,
+
+d)[^31] a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is,
+
+e)[^32] annak a kijelentését, hogy a vizsgálati alany – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a farmakológiai célú genetikai vizsgálatban történő részvételre vonatkozó beleegyezését a 6/A. §-ban foglalt tájékoztatást, vagy az arról való lemondást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható,
+
+f) a hozzájárulást a tájékoztatóban megjelölt mennyiségű és minőségű minta vételéhez és a vizsgálati alany adatainak felhasználásához,
+
+g) a minták kezelésének módjáról szóló nyilatkozatot arról, hogy dönthet az általa szolgáltatott minta biobankba történő elhelyezéséről, illetve az elhelyezés módjáról, így lehetőség van a minta 6/A. § (2) bekezdés g) pontja szerinti tárolására és elhelyezésére,
+
+h) a vizsgálati alany nyilatkozatát a biobankban elhelyezett minta további kutatásban történő részvételéről; ebben az esetben a vizsgálati alanynak nyilatkoznia kell arra nézve, hogy mintájának – a mintavétel elsődleges célja szerinti – diagnosztikus, kizárólag kutatási célú, vagy bármely, azaz diagnosztikus és kutatási célú felhasználásához járul-e hozzá,
+
+i) az eredmény közlésének módját abban az esetben is, ha a vizsgálati alany ahhoz nem fér hozzá,
+
+j) az esetleges jövőbeni megkereséshez való hozzájárulást, vagy annak kizárását,
+
+k) a beleegyező nyilatkozat aláírásának dátumát,
+
+l) a klinikai vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását,
+
+m) a beleegyező nyilatkozatot tevő aláírását.
+
+## Kiskorúakon végzett klinikai vizsgálatok
+
+### 6/C. §[^33]
+
+(1) Az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdése alapján, amennyiben a kiskorú vizsgálati alany egyúttal az 536/2014/EU európai parlamenti és tanácsi rendelet szerinti cselekvőképtelen vizsgálati alany kategóriájába is tartozik, akkor őt az 536/2014/EU európai parlamenti és tanácsi rendelet rendelkezései alkalmazásában cselekvőképtelen vizsgálati alanynak kell tekinteni.
+
+(2) E rendelet alkalmazásában a kiskorú meghatározására a Ptk. IV. címében foglaltak az irányadók.
+
+### 7. §[^34]
+
+Kiskorúakon klinikai vizsgálat az 536/2014/EU európai parlamenti és tanácsi rendelet 32. cikkében, az Eütv. 159. § (4) bekezdésében és a 4–6. §-okban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az alábbi feltételek mindegyike teljesül:
+
+a) a nyilatkozattételre jogosult személy tájékoztatáson alapuló beleegyező nyilatkozata a véleményalkotásra és helyzetértékelésre képes kiskorú valószínűsíthető akaratát tartalmazza, és ez a nyilatkozat bármikor visszavonható anélkül, hogy a kiskorú bármi hátrányt szenvedne,
+
+b) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség (a továbbiakban: EMA) vonatkozó tudományos útmutatásait betartják,
+
+c) a klinikai vizsgálatot a fájdalom, a szorongás, a félelem és bármilyen egyéb, a betegséggel és a kiskorú fejlettségi állapotával kapcsolatosan előrelátható kockázat minimalizálásával tervezték és folytatják,
+
+d) a klinikai vizsgálatot úgy folytatják, hogy mind a kockázati küszöbértéket, mind a fájdalom mértékét egyedien határozták meg és folyamatosan figyelemmel kísérik,
+
+e) az ETT KFEB gyermekgyógyász szakorvos szakvéleményének birtokában pozitív szakmai-etikai véleményt adott vizsgálati tervről.
+
+## Nem cselekvőképes nagykorúak bevonása klinikai vizsgálatba
+
+### 7/A. §[^35]
+
+(1) Az 536/2014/EU európai parlamenti és tanácsi rendelet rendelkezései alkalmazásában a nem cselekvőképes nagykorúakat az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdését figyelembe véve a „cselekvőképtelen vizsgálati alany” kategóriájába tartozónak kell tekinteni.
+
+(2) E rendelet alkalmazásában nem cselekvőképes nagykorúnak a 9. §-ban meghatározott személy minősül.
+
+### 8. §
+
+Nem vonható be semmilyen klinikai vizsgálatba az, aki korábban, cselekvőképessége birtokában kifejezetten kizárta az ilyen vizsgálatokban való részvételét. Egy adott klinikai vizsgálatba nem vonható be az sem, aki korábban, cselekvőképessége birtokában visszautasította a beleegyezés megadását az adott vizsgálathoz.
+
+### 9. §[^36]
+
+Cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében – a sürgős szükségben végzett kutatásnak az Eütv. 160. §-a szerinti esetét kivéve – az Eütv. 159. §-ának (4) bekezdésében és a 4–6. és 8. §-okban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető klinikai vizsgálat, ha az alábbi feltételek mindegyike teljesül:
+
+a)[^37] a nyilatkozattételre jogosult személy tájékoztatáson alapuló beleegyező nyilatkozatának a vizsgálati alany feltételezett akaratát kell tartalmaznia és az bármikor, a vizsgálati alany sérelme nélkül visszavonható;
+
+b)[^38]
+
+c)[^39]
+
+d)[^40]
+
+e)[^41]
+
+f) a klinikai vizsgálatot a fájdalom, a szorongás, a félelem és bármilyen egyéb, a betegséggel és a vizsgálati alany aktuális állapotával kapcsolatosan előrelátható kockázat minimalizálásával tervezték és folytatják;
+
+g) a vizsgálatot úgy folytatják, hogy mind a kockázati küszöbértéket, mind a fájdalom mértékét egyedien határozták meg és folyamatosan figyelemmel kísérik;
+
+h) az ETT KFEB a kérdéses betegségnek és az érintett betegcsoportnak megfelelő szakvélemény birtokában szakmailag-etikailag támogatja a vizsgálati tervet;
+
+i)[^42]
+
+### 10. §
+
+A 9. §-ban felsorolt személyek egészséges önkéntesként klinikai vizsgálatba nem vonhatóak be.
+
+### 11. §
+
+Ha a vizsgálati alany a klinikai vizsgálat során akár bírósági határozat, akár állapotának változása folytán cselekvőképessé válik, a lehető leghamarabb tájékoztatni kell a klinikai vizsgálatról, és a 6. §-ban foglaltak megfelelő alkalmazásával be kell szerezni a beleegyezését annak folytatásához. Ennek hiányában a klinikai vizsgálatot az érintett személyen nem lehet folytatni.
+
+## A hatósági engedély kérelmezésének előzetes feltételei
+
+### 12. §
+
+(1)[^43]
+
+(2)–(5)[^44]
+
+(6)[^45]
+
+(7)[^46]
+
+## A klinikai vizsgálat hatósági engedélyezése
+
+### 13. §
+
+(1)[^47]
+
+(2)[^48] Klinikai vizsgálat akkor engedélyezhető, ha a vizsgálatvezetőre vonatkozó személyi és a vizsgálóhely(ek) tárgyi feltételei megfelelnek a 2. számú mellékletben meghatározott feltételeknek.
+
+(3)–(4)[^49]
+
+### 14. §[^50]
+
+(1)[^51]
+
+(2) A klinikai vizsgálatok tekintetében az IKEB feladata a vizsgálati alanyok jogainak, biztonságának védelme. Az IKEB a klinikai vizsgálatokkal kapcsolatban szakmai-etikai véleményt nem adhat ki.
+
+(3)[^52]
+
+## Az ETT KFEB eljárása
+
+### 16. §
+
+(1)[^54] Az ETT KFEB összetételére az Eütv. 159. § (6) bekezdés a) pontja irányadó.
+
+(2) A megbízó az ETT KFEB-től a klinikai vizsgálatokkal kapcsolatosan véleményt kérhet bármely szakmai-etikai kérdésben, amelyre az ETT KFEB hatvan napon belül válaszol.
+
+### 17. §
+
+(1)–(7)[^55]
+
+(8)[^56] Az ETT KFEB a számára megküldött, az archiválással, a vizsgálatot végzők szakképesítésével, valamint az ellenőrzési eljárásokkal kapcsolatos dokumentumokat a vizsgálat befejezését követően, az egészségügyért felelős miniszter által vezetett minisztérium iratkezelési szabályzatában meghatározott ideig őrzi meg.
+
+## A klinikai vizsgálat ellenőrzése
+
+### 19. §
+
+(1)[^59] Az NNGYK ellenőre az (EU) 2017/556 bizottsági végrehajtási rendelet 4. cikke szerinti követelményeknek megfelelő személy lehet. Az NNGYK az ellenőrökről nyilvántartást vezet. Az ellenőrzés megkezdése előtt az ellenőr az NNGYK által kiadott, az ellenőrzésre jogosító igazolványt bemutatja.
+
+(2)–(4)[^60]
+
+(5)[^61] Az engedélyezett klinikai vizsgálat alatt a vizsgálati alanyok és a nyilatkozattételre jogosult személyek, a vizsgálók, az ETT KFEB, a vizsgálatot végző szolgáltató vezetője, illetve az IKEB panasszal fordulhatnak az NNGYK-hoz, ha megítélésük szerint a klinikai vizsgálatot az engedélyben, illetve a vizsgálati tervben előírtaktól eltérően folytatják. Az engedélyezett klinikai vizsgálat alatt az IKEB az észrevételeit a vizsgálatvezetővel és a szolgáltató vezetőjével is közölheti, továbbá amennyiben panasszal fordul az NNGYK-hoz, arról egyidejűleg értesíti az ETT KFEB-et is.
+
+(6)[^62] Az engedélyezett klinikai vizsgálat megvalósítása során az IKEB a klinikai vizsgálat teljes dokumentációjába betekinthet, hatósági ellenőrzést kezdeményezhet, jogosult annak figyelemmel kísérésére, hogy biztosítva vannak-e a személyi és tárgyi feltételek, és betartják-e a vizsgálati tervben foglalt előírásokat, etikai követelményeket, különös tekintettel a vizsgálati alanyok védelmére.
+
+(7)[^63]
+
+(8)[^64]
+
+(9)[^65] A megbízó az NNGYK kérésére 1 munkanapon belül köteles a vizsgálati gyógyszer megfelelő gyártási tételének egy minőségvizsgálatra alkalmas mennyiségét rendelkezésre bocsátani.
+
+## A súlyos nemkívánatos események jelentése[^67]
+
+### 21. §[^68]
+
+(1) Az 536/2014/EU európai parlamenti és tanácsi rendelet 41. cikke szerinti megbízó részére küldött jelentéssel egyidejűleg a vizsgáló az IKEB-et is értesíti, majd a súlyos nemkívánatos eseményről részletes írásos jelentést is küld az IKEB-nek. Az értesítésben és a jelentésben a vizsgálati alany kizárólag egyedi kódjával azonosítható.
+
+(2) A vizsgálati alany bejelentett halála esetén a vizsgáló minden további igényelt tájékoztatást biztosít a megbízó és az IKEB számára.
+
+## A SUSAR-ok jelentése[^69]
+
+### 22. §[^70]
+
+(1) A megbízó a magyarországi vizsgálat során előforduló, az 536/2014/EU európai parlamenti és tanácsi rendelet 42. cikk (2) bekezdés *a)* pontja szerinti SUSAR esetén az ott meghatározott jelentést követően az engedélyezőnek további nyolc napon belül minden, a szóban forgó mellékhatás utánkövetése során nyert jelentős adatot is jelent.
+
+(2) A megbízó minden, egy adott vizsgálati gyógyszerrel kapcsolatban előforduló SUSAR-ról időszakosan, összesítő lista formájában tájékoztatást nyújt a klinikai vizsgálatban részt vevő valamennyi vizsgálónak.
+
+(3)[^71] Nem kereskedelmi vizsgálatok esetén az NNGYK minden, az adott vizsgálati gyógyszerrel kapcsolatban a tudomására jutott SUSAR-t haladéktalanul, de legkésőbb az 536/2014/EU európai parlamenti és tanácsi rendelet 42. cikk (2) bekezdésében meghatározott időn belül az EMA EudraVigilance adatbázisba jelent.
+
+## Jelentés a vizsgálat befejezéséről
+
+## A vizsgálati dokumentáció megőrzése
+
+## Vegyes és átmeneti rendelkezések
+
+### 25. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2005. szeptember 15-én lép hatályba azzal, hogy rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2)[^74] E rendeletnek az egyes egészségügyi tárgyú miniszteri rendeleteknek a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokra vonatkozó, jogharmonizációs célú módosításáról szóló 2/2022. (I. 14.) EMMI rendelettel módosított rendelkezéseit – a (3) bekezdés b) pontjában meghatározott kivételekkel – azon klinikai vizsgálatokra kell alkalmazni, amelyek engedélyezése iránt a kérelmet 2022. január 30-át követően nyújtották be.
+
+(3)[^75] E rendeletnek a 2022. január 30-án hatályos rendelkezéseit kell alkalmazni 2025. január 30-ig azon klinikai vizsgálatokra, amelyek engedélyezése iránt a kérelmet
+
+a) 2022. január 31-ét megelőzően, vagy
+
+b) 2023. január 30-ig – az 536/2014/EU európai parlamenti és tanácsi rendelet 98. cikk (2) bekezdésére figyelemmel – e rendeletnek a 2022. január 30-án hatályos rendelkezései alapján
+
+nyújtották be.
+
+(4)[^76]
+
+(5)–(6)[^77]
+
+(7)[^78] A megbízó az e rendeletben szabályozott eljárásokért a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat köteles megfizetni. Az igazgatási szolgáltatási díj az általános forgalmi adót nem tartalmazza. Nem kereskedelmi vizsgálat engedélyezése iránti eljárásokért nem kell igazgatási szolgáltatási díjat fizetni.
+
+(8)[^79]
+
+(9)[^80]
+
+(10)[^81]
+
+(11)[^82]
+
+(12)[^83] Ez a rendelet a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(13)[^84] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(14)[^85] Ez a rendelet
+
+a) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet, valamint
+
+b) az 536/2014/EU parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 35/2005. (VIII. 26.) EüM rendelethez[^86]
+
+## 2. számú melléklet a 35/2005. (VIII. 26.) EüM rendelethez
+
+**A klinikai vizsgálatok végzésének személyi és tárgyi feltételei**
+
+Feladatkörét tekintve az alábbi típusú vizsgálóhelyek különböztethetők meg:
+
+**I. Klinikai farmakológiai vizsgálóhely I. fázisú vizsgálathoz**
+
+**II. Klinikai vizsgálóhely II. fázisú vizsgálathoz**
+
+**III. Egyéb klinikai vizsgálóhely**
+
+**I. *Klinikai farmakológiai vizsgálóhely I. fázisú vizsgálathoz***
+
+*A)* Tárgyi feltételek:
+
+A klinikai farmakológiai vizsgálóhely egyetemi klinikán, illetve kórházi osztályon, az intézményen belül intenzív terápiás osztályos háttérrel rendelkező – az aktív betegellátástól elkülönített – egység, melyhez rendelkezésére állnak az I. fázisú vizsgálathoz szükséges laboratóriumi eszközök és felszerelések.
+
+Klinikai farmakológiai vizsgálóhelyen helyben kell biztosítani a külön jogszabályban, a központi ügyeletre előírt minimumfeltételek közül a gép-műszerparkra és egyéb eszközökre vonatkozó felszereltséget, kivéve a szülészeti egységcsomagot és a gépkocsit.
+
+A klinikai vizsgálatra szolgáló ágyszámot a vizsgálóhely minősítéséről szóló határozatban kell meghatározni.
+
+*B)* Személyi feltételek:
+
+1\. A klinikai farmakológiai vizsgálóhely vezetőjének rendelkeznie kell
+
+a) valamely klinikai szakmából szakorvosi képesítéssel,
+
+b) klinikai farmakológiai szakvizsgával.
+
+2\. A vizsgálónak rendelkeznie kell
+
+a) valamely klinikai szakmából szakorvosi képesítéssel,
+
+b) klinikai farmakológiai szakvizsgával, vagy a klinikai vizsgálat megkezdését megelőző öt évnél nem régebbi, egyetem által szervezett GCP tanfolyam sikeres elvégzéséről szóló igazolással.
+
+3.[^87] A vizsgálatvezetőnek rendelkeznie kell klinikai farmakológiai szakvizsgával.
+
+**II. *Klinikai vizsgálóhely II. fázisú vizsgálathoz***
+
+*A)*[^88] Tárgyi feltételek:
+
+Egyetemi klinikán vagy kórházban lévő fekvőbeteg osztály vagy szakambulancia, illetve egyéb szakorvosi rendelő, amely rendelkezik megfelelő diagnosztikai egységekkel, és amely megfelel az egészségügyi szolgáltató külön jogszabályban meghatározott személyi és tárgyi minimumfeltételeinek, valamint a tervezett vizsgálat elvégzéséhez szükséges eszközökkel, felszereltséggel is rendelkezik.
+
+*B)*[^89] Személyi feltételek:
+
+A vizsgálatvezetőnek rendelkeznie kell a vizsgálati gyógyszer tervezett felhasználásának megfelelő klinikai területről szakvizsgával, továbbá klinikai farmakológiai szakvizsgával, vagy öt évnél nem régebbi igazolással arról, hogy egyetem által szervezett GCP tanfolyamot végzett. Ha a vizsgálatba beválasztandók között kiskorúak is vannak, a vizsgálók között gyermekgyógyász szakorvosnak is kell lenni.
+
+**III. *Klinikai vizsgálóhely egyéb klinikai vizsgálathoz***
+
+1.[^90] Egyéb klinikai vizsgálat végezhető a II. *A)* pontban meghatározott tárgyi feltételek megléte esetén, továbbá háziorvosi, házi gyermekorvosi rendelőben.
+
+2.[^91] A vizsgálatvezetőnek rendelkeznie kell öt évnél nem régebbi igazolással arról, hogy egyetem által szervezett GCP tanfolyamot végzett.
+
+## 3. számú melléklet a 35/2005. (VIII. 26.) EüM rendelethez[^92]
+
+---
+
+[^1]: Az 1. § a 2/2022. (I. 14.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 2/2022. (I. 14.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés e) pontja a 28/2023. (VIII. 10.) BM rendelet 33. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 32/2009. (X. 20.) EüM rendelet 1. § (2) bekezdésével megállapított, a 16/2014. (III. 12.) EMMI rendelet 11. § b) pontja, a 2/2022. (I. 14.) EMMI rendelet 23. § 1. pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 2/2022. (I. 14.) EMMI rendelet 23. § 2. pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 72. § b) pontja, a 2/2022. (I. 14.) EMMI rendelet 24. § 1. pontja, a 28/2023. (VIII. 10.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 72. § c) pontja, a 2/2022. (I. 14.) EMMI rendelet 24. § 2. pontja szerint módosított szöveg.
+[^8]: A 3. § új (3) bekezdését a 32/2009. (X. 20.) EüM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatta. A 3. § (3) bekezdése 2a 2/2022. (I. 14.) EMMI rendelet 12. §-ával megállapított, a 28/2023. (VIII. 10.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdését a 40/2007. (VIII. 9.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege az 53/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg. A 3. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 32/2009. (X. 20.) EüM rendelet 2. §-a.
+[^10]: Az 5. § (1) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^11]: Az 5. § (2) bekezdése a 2/2022. (I. 14.) EMMI rendelet 23. § 3. pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 32/2009. (X. 20.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^13]: Az 5. § (5) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^14]: Az 5. § (6a) bekezdését a 2/2022. (I. 14.) EMMI rendelet 13. § (1) bekezdése iktatta be.
+[^15]: Az 5. § (8) bekezdése a 2/2022. (I. 14.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (9) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^17]: Az 5. § (10) bekezdése a 2/2022. (I. 14.) EMMI rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (10a) bekezdését a 18/2018. (VII. 4.) EMMI rendelet 4. §-a iktatta be, a 2/2022. (I. 14.) EMMI rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^19]: Az 5. § (11) bekezdés második mondata a 32/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^20]: Az 5. § (12) bekezdése a 2/2022. (I. 14.) EMMI rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^21]: A 6. §-t megelőző alcím cím a 2/2022. (I. 14.) EMMI rendelet 23. § 4. pontja szerint módosított szöveg.
+[^22]: A 6. § (1a) bekezdését a 2/2022. (I. 14.) EMMI rendelet 14. § (1) bekezdése iktatta be.
+[^23]: A 6. § (3) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (4) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^25]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^26]: A 6. § (6) bekezdése a 2/2022. (I. 14.) EMMI rendelet 24. § 4. pontja hatályon kívül helyezte.
+[^27]: A 6. § (7) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^28]: A 6. § (9) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § a) pontja hatályon kívül helyezte.
+[^29]: A 6/A. §-t a 32/2009. (X. 20.) EüM rendelet 4. §-a iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^30]: A 6/B. §-t a 32/2009. (X. 20.) EüM rendelet 4. §-a iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^31]: A 6/B. § (2) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^32]: A 6/B. § (2) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^33]: A 6/C. §-t a 2/2022. (I. 14.) EMMI rendelet 15. §-a iktatta be.
+[^34]: A 7. § a 2/2022. (I. 14.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^35]: A 7/A. §-t a 2/2022. (I. 14.) EMMI rendelet 16. §-a iktatta be.
+[^36]: A 9. § nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
+[^37]: A 9. § a) pontja a 2/2022. (I. 14.) EMMI rendelet 23. § 5. pontja szerint módosított szöveg.
+[^38]: A 9. § b) pontja a 2/2022. (I. 14.) EMMI rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^39]: A 9. § c) pontja a 2/2022. (I. 14.) EMMI rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^40]: A 9. § d) pontja a 2/2022. (I. 14.) EMMI rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^41]: A 9. § e) pontja a 2/2022. (I. 14.) EMMI rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^42]: A 9. § i) pontja a 2/2022. (I. 14.) EMMI rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^43]: A 12. § (1) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 6. pontja hatályon kívül helyezte.
+[^44]: A 12. § (2)–(5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^45]: A 12. § (6) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 6. pontja hatályon kívül helyezte.
+[^46]: A 12. § (7) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § b) pontja hatályon kívül helyezte.
+[^47]: A 13. § (1) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^48]: A 13. § (2) bekezdése a 2/2022. (I. 14.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^49]: A 13. § (3)–(4) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^50]: A 14. § a 32/2009. (X. 20.) EüM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^51]: A 14. § (1) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § c) pontja hatályon kívül helyezte.
+[^52]: A 14. § (3) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § c) pontja hatályon kívül helyezte.
+[^54]: A 16. § (1) bekezdés második mondatát a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni. A 16. § (1) bekezdése a 2/2022. (I. 14.) EMMI rendelet 23. § 6. pontja szerint módosított szöveg.
+[^55]: A 17. § (1)–(7) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^56]: A 17. § (8) bekezdése a 2/2022. (I. 14.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^59]: A 19. § (1) bekezdése a 2/2022. (I. 14.) EMMI rendelet 19. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 33. § c) pontja szerint módosított szöveg.
+[^60]: A 19. § (2)–(4) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^61]: A 19. § (5) bekezdése a 2/2022. (I. 14.) EMMI rendelet 19. § (2) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 33. § d) pontja szerint módosított szöveg.
+[^62]: A 19. § (6)–(7) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 2/2022. (I. 14.) EMMI rendelet 19. § (2) bekezdése iktatta be.
+[^63]: A 19. § (7) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^64]: A 19. § (8) bekezdését a 31/2006. (VIII. 23.) EüM rendelet 3. §-a iktatta be, a 2/2022. (I. 14.) EMMI rendelet 24. § 7. pontja hatályon kívül helyezte.
+[^65]: A 19. § (9) bekezdését a 32/2009. (X. 20.) EüM rendelet 6. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 72. § c) pontja, a 2/2022. (I. 14.) EMMI rendelet 23. § 7. pontja, a 28/2023. (VIII. 10.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^67]: A 21. §-t megelőző alcím cím 2/2022. (I. 14.) EMMI rendelet 23. § 8. pontja szerint módosított szöveg.
+[^68]: A 21. § a 2/2022. (I. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^69]: A 22. §-t megelőző alcím cím 2/2022. (I. 14.) EMMI rendelet 23. § 9. pontja szerint módosított szöveg.
+[^70]: A 22. § a 2/2022. (I. 14.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^71]: A 22. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^74]: A 25. § (2) bekezdése a 2/2022. (I. 14.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^75]: A 25. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 104. pontja hatályon kívül helyezte, újonnan a 2/2022. (I. 14.) EMMI rendelet 22. § (1) bekezdése iktatta be.
+[^76]: A 25. § (4) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^77]: A 25. § (5)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 104. pontja hatályon kívül helyezte.
+[^78]: A 25. § (7) bekezdés harmadik mondatát a 32/2009. (X. 20.) EüM rendelet 9. §-a iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^79]: A 25. § (8) bekezdése e rendelet 25. §-ának (10) bekezdése alapján 2005. november 1. napján hatályát vesztette.
+[^80]: A 25. § (9) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^81]: A 25. § (10) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 104. pontja hatályon kívül helyezte.
+[^82]: A 25. § (11) bekezdését a 2/2022. (I. 14.) EMMI rendelet 24. § 9. pontja hatályon kívül helyezte.
+[^83]: A 25. § (12) bekezdését az 53/2008. (XII. 31.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^84]: A 25. § (13) bekezdését az 53/2008. (XII. 31.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^85]: A 25. § (14) bekezdését a 2/2022. (I. 14.) EMMI rendelet 22. § (2) bekezdése iktatta be.
+[^86]: Az 1. számú mellékletet a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^87]: A 2. számú melléklet I. cím B) alcím 3. pontját a 32/2009. (X. 20.) EüM rendelet 10. § (1) bekezdése iktatta be. E módosító rendelet 12. § (2) bekezdése alapján a 2. számú melléklet I. cím B) alcím 3. pontjában meghatározott feltételnek legkésőbb 2010. március 1-jétől kell megfelelni.
+[^88]: A 2. számú melléklet II. rész A) pontja a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^89]: A 2. számú melléklet II. fejezet B) pontja 2/2022. (I. 14.) EMMI rendelet 23. § 7. pontja szerint módosított szöveg.
+[^90]: A 2. számú melléklet III. cím 1. pontja a 32/2009. (X. 20.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^91]: A 2. számú melléklet III. cím 2. pontja a 32/2009. (X. 20.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a 2. számú melléklet III. cím 2. pontjában meghatározott feltételnek legkésőbb 2010. március 1-jétől kell megfelelni.
+[^92]: A 3. számú mellékletet a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

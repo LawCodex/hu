@@ -1,0 +1,431 @@
+---
+title: "13/2021. (XI. 16.) IM rendelet a bírósági végrehajtói és a bírósági végrehajtási ügyintézői szakvizsgáról"
+identifier: "13/2021. (XI. 16.) IM rendelet"
+njt_id: "2021-13-20-06"
+eli: "https://njt.jog.gov.hu/eli/R/2021/IM/13"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2021-11-16
+in_force_from: 2021-11-17
+last_amended: 2025-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-13-20-06"
+retrieved: 2026-10-12
+---
+
+# 13/2021. (XI. 16.) IM rendelet a bírósági végrehajtói és a bírósági végrehajtási ügyintézői szakvizsgáról
+
+A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 109. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## I. Fejezet — SZAKVIZSGA
+
+### 1. A szakvizsga célja
+
+#### 1. §
+
+A bírósági végrehajtói szakvizsga és a bírósági végrehajtási ügyintézői vizsga (a továbbiakban együtt: szakvizsga) célja, hogy a szakvizsgára jelentkező személy (a továbbiakban: jelölt) számot adjon a bírósági végrehajtói, illetve a bírósági végrehajtási ügyintézői feladatkör ellátásához szükséges elméleti ismereteiről, gyakorlati szaktudásáról és jogalkalmazási készségéről.
+
+### 2. Felkészülés a szakvizsgára
+
+#### 2. §
+
+(1) A jelöltnek a szakvizsgára való felkészülését segíteni kötelesek azok a személyek és szervek, akiknél, illetve amelyeknél a jelölt a végrehajtási szakmai gyakorlat (a továbbiakban: szakmai gyakorlat) megszerzése céljából tevékenykedik.
+
+(2)[^1] A szakvizsgára való felkészülést elősegítő rendszeres oktatásról az igazságügyi alkalmazottak esetén a törvényszék elnöke, az önálló bírósági végrehajtójelöltek esetén a szakvizsgára felkészítő képzésről, valamint a szakvizsgára felkészítő képzésen szerzett ismeretek fenntartása érdekében a továbbképzésről az igazságügyért felelős miniszter (a továbbiakban: miniszter) az Igazságügyi Szolgálatok Jogakadémiája (a továbbiakban: Jogakadémia) útján gondoskodik.
+
+#### 3. §
+
+(1)[^2] A Jogakadémia az önálló bírósági végrehajtójelöltek részére a végrehajtói szakvizsgára felkészítő, húsz előadásból álló képzést szervez, amelyen kötelező a végrehajtójelölt részvétele. A szakvizsgára felkészítő képzés elvégzését követően a végrehajtójelöltek 2 évenként kötelesek részt venni – a szakvizsgára felkészítő képzésen szerzett ismeretek fenntartása érdekében – a Jogakadémia által szervezett húsz előadásból álló továbbképzésen. A képzésen és a továbbképzésen való részvételről a Jogakadémia tanúsítványt állít ki.
+
+(2)[^3] Ha az önálló bírósági végrehajtójelölt a képzés vagy a továbbképzés esetén négy előadásnál többről hiányzik, akkor a képzést vagy a továbbképzést köteles megismételni.
+
+(3)[^4] A miniszter látja el az oktatás és a végrehajtói szakvizsga feletti szakmai felügyeletet.
+
+#### 4. §[^5]
+
+(1)[^6] Az önálló bírósági végrehajtójelölteknek a 3. § (1) bekezdésében meghatározott képzésre, továbbképzésre történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben szabályozott elektronikus úton nyújthatja be. A képzés, valamint a továbbképzés díja 55 000 Ft.
+
+(2) A képzési, illetve a továbbképzési díj megfizetésével az érintett a képzés, valamint a továbbképzés 20 előadásán való részvételére válik jogosulttá.
+
+(3)[^7]
+
+### 3. Vizsgabizottság
+
+#### 5. §
+
+(1) A szakvizsgát a Bírósági Végrehajtási Szakvizsga Bizottság (a továbbiakban: Szakvizsga Bizottság) tagjaiból a Jogakadémia által esetenként kijelölt vizsgabizottság előtt kell letenni.
+
+(2) A Szakvizsga Bizottság tagjait a miniszter nevezi ki 5 évre a bírósági végrehajtási jogterület szakemberei közül.
+
+(3)[^8] Az esetenként kijelölt vizsgabizottság 5 főből áll, akik közül a vizsgabizottság elnöke ellátja a vizsgabizottsági adminisztratív teendőket. A vizsgabizottságot úgy kell megalakítani, hogy abban
+
+a) az Igazságügyi Minisztériumnak (a továbbiakban: minisztérium),
+
+b) a bíróságoknak vagy az Országos Bírósági Hivatal elnökének,
+
+c) a Magyar Bírósági Végrehajtói Karnak (a továbbiakban: Kar),
+
+d) a Szabályozott Tevékenységek Felügyeleti Hatóságának és
+
+e) valamely egyetem jogi karának
+
+képviselői részt vegyenek.
+
+## II. Fejezet — BÍRÓSÁGI VÉGREHAJTÓI SZAKVIZSGA
+
+### 4. Jelentkezés a bírósági végrehajtói szakvizsgára
+
+#### 6. §
+
+(1) Bírósági végrehajtói szakvizsgára (a továbbiakban: végrehajtói szakvizsga) az jelentkezhet, aki
+
+a)[^9] egyéves végrehajtójelölti szakmai gyakorlatot szerzett, és a végrehajtójelölti képzésen, illetve a továbbképzésen való részvételét tanúsítvánnyal igazolja, vagy
+
+b) jogi szakvizsgával rendelkezik.
+
+(2) A szakmai gyakorlat idejébe azt az időt lehet beszámítani, amelyet a jelölt a középfokú iskolai végzettség megszerzése után önálló bírósági vagy törvényszéki végrehajtójelöltként töltött el.
+
+(3) A különböző munkakörökben szerzett szakmai gyakorlatok idejét össze kell adni, és együttesen kell figyelembe venni.
+
+(4) A szakmai gyakorlat megkezdése után a végrehajtói szakvizsgára való jelentkezés szempontjából – a jelölt kérelmére – legfeljebb 1 hónap tartamáig be kell számítani a szakmai gyakorlat idejébe azt az időt, amely alatt a jelölt ténylegesen nem végzett végrehajtási tevékenységet az alábbi ok miatt:
+
+a) táppénzes állomány,
+
+b) szülési szabadság, gyermekgondozást segítő ellátás igénybevétele.
+
+(5) A (4) bekezdés szerint beszámított időtartamok együttesen sem haladhatják meg az 1 hónapot.
+
+(6) Nincs helye a beszámításnak, ha a jelölt a sikertelenség miatt megismételt végrehajtói szakvizsgára jelentkezett.
+
+#### 7. §[^10]
+
+A szakmai gyakorlat tartamára vonatkozó adatokat önálló bírósági végrehajtójelölt esetén a Kar hivatali szerve igazolja.
+
+#### 8. §
+
+(1) A jelölt a végrehajtói szakvizsgára történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján nyújthatja be.
+
+(2) A jelöltnek a jelentkezéssel egyidejűleg a Jogakadémia képzésszervezést támogató informatikai rendszerébe a következő dokumentumokat kell feltöltenie:
+
+a) a legmagasabb iskolai végzettséget igazoló eredeti bizonyítványt vagy annak hiteles másolatát,
+
+b) a Jogakadémia által kiállított, az oktatáson való részvételt igazoló tanúsítványt vagy a jogi szakvizsga letételét igazoló eredeti bizonyítványt vagy a tanúsítvány, illetve a bizonyítvány hiteles másolatát,
+
+c) a szakmai gyakorlat teljesítéséről és – adott esetben – az abba beszámítható időről szóló igazolást és
+
+d) a szakvizsgára készített, a Jogakadémia által közzétett tartalmi és formai követelményeknek megfelelő írásbeli vizsgamunkát (szakdolgozat).
+
+#### 9. §
+
+(1) A szakdolgozat önálló munkán alapuló, szakmai szempontok szerinti kidolgozása a választott tárgykörnek, amely a jelölt tárgyi ismereteiről és ezek alkalmazásában szerzett jártasságáról tanúskodik.
+
+(2) A Jogakadémia a képzésszervezést támogató informatikai rendszerén közzéteszi a szakdolgozatok tartalmi és formai követelményeit és azoknak a témaköröknek a felsorolását, amelyek tárgyában szakdolgozat nyújtható be a szakvizsgára.
+
+(3) A szakdolgozat terjedelme legalább 48 000 karakter, amelybe nem számít bele a fedlap, a tartalomjegyzék, a felhasznált irodalom jegyzéke, a jogszabályok, valamint azon mellékletek szövege, amelyek nem a szakdolgozat szerzőjének szellemi termékei.
+
+#### 10. §
+
+A végrehajtói szakvizsgára bocsátásról a Jogakadémia határoz; kitűzi a végrehajtói szakvizsga helyét és időpontját, kijelöli a vizsgabizottság elnökét és 4 tagját.
+
+### 5. Végrehajtói szakvizsga kitűzése
+
+#### 11. §
+
+A Jogakadémia félévente egy alkalommal tűz ki szakvizsgát, kivéve, ha a szakvizsgára bocsátásukat kérő jelöltek nagyobb száma további szakvizsga kitűzését indokolja.
+
+### 6. Végrehajtói szakvizsga tárgyai
+
+#### 12. §
+
+A végrehajtói szakvizsga tárgyai a következők:
+
+a) a bírósági végrehajtásról szóló törvény és a bírósági végrehajtásra vonatkozó egyéb jogszabályok,
+
+b) az általános közigazgatási rendtartásról, az adóhatóság által foganatosítandó végrehajtási eljárásokról, valamint a természetes személyek adósságrendezéséről szóló törvény végrehajtási eljárásra (végrehajtásra) vonatkozó rendelkezései,
+
+c) a zálogtárgyak értékesítésére vonatkozó jogszabályok,
+
+d) a bírósági végrehajtói ügyvitel és pénzkezelés,
+
+e) a bírósági végrehajtói díjszabás,
+
+f) az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi alkalmazottak szolgálati viszonyára vonatkozó főbb szabályok,
+
+g) a bírósági végrehajtói tevékenység ellátásához szükséges jogi alapismeretek (a Polgári Törvénykönyvről szóló törvény, a polgári perrendtartásról szóló törvény, a Büntető Törvénykönyvről szóló törvény, a büntetőeljárásról szóló törvény, a csődeljárásról és a felszámolási eljárásról szóló törvény, a szerkezetátalakításról szóló törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény).
+
+### 7. Végrehajtói szakvizsga lefolytatása
+
+#### 13. §
+
+(1) A végrehajtói szakvizsga a Jogakadémia által meghatározott helyszínen megtartott írásbeli és szóbeli vizsgából áll.
+
+(2) A végrehajtói szakvizsga nyelve magyar.
+
+#### 14. §
+
+(1) Az írásbeli vizsgán a jelölt a Jogakadémia által kijelölt személy jelenlétében a végrehajtói tevékenységgel kapcsolatos írásbeli feladatot old meg.
+
+(2) Az írásbeli feladat megoldása céljából két óra áll a jelölt rendelkezésére.
+
+(3) A jelölt az írásbeli vizsgán jogszabályszöveget használhat.
+
+#### 15. §
+
+(1) A szóbeli vizsgán a vizsgabizottság a tagjai által feltett kérdésekre adott válaszok alapján meggyőződik arról, hogy a jelölt rendelkezik-e azokkal a jogi és gyakorlati ismeretekkel, amelyeknek tudása a végrehajtói tevékenység eredményes végzéséhez szükséges.
+
+(2) A szóbeli vizsgán a jelölt szóban ismerteti az írásbeli vizsgamunkájának tartalmát, és válaszol az abban foglaltakkal kapcsolatos kérdésekre.
+
+(3) A szóbeli vizsga nyilvános.
+
+#### 16. §
+
+A vizsgabizottság a végrehajtói szakvizsgát az írásbeli és a szóbeli vizsga eredményének együttes mérlegelése alapján, zárt tanácskozásban értékeli, és a végrehajtói szakvizsga eredményét nyilvánosan hirdeti ki.
+
+#### 17. §
+
+A végrehajtói szakvizsgán értékelt szempontok figyelembevételével a vizsgabizottság úgy dönt, hogy amennyiben a jelölt a szükséges ismereteket elsajátította a végrehajtói szakvizsgán megfelelt, ellenkező esetben nem felelt meg.
+
+### 8.[^11] A bírósági végrehajtói tanúsítvány
+
+#### 18. §
+
+(1) A Jogakadémia az eredményesen letett szakvizsgáról a (2) bekezdés szerinti adattartalommal papíralapú tanúsítványt, a képzési kötelezettség teljesítéséről a (3) bekezdés szerinti, a továbbképzési kötelezettség teljesítéséről a (4) bekezdés szerinti adattartalommal elektronikus tanúsítványt állít ki.
+
+(2) A Jogakadémia által a szakvizsgáról kiállított papíralapú tanúsítvány tartalmazza
+
+a) a szakvizsgára kötelezett személy
+
+aa) nevét,
+
+ab) születési helyét és idejét,
+
+b) a szakvizsga teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját,
+
+d) a vizsgabizottság elnökének és tagjainak aláírását és
+
+e) a Jogakadémia bélyegzőlenyomatát.
+
+(3) A Jogakadémia által a képzésről kiállított elektronikus tanúsítvány tartalmazza
+
+a) a képzésre kötelezett személy
+
+aa) nevét,
+
+ab) születési helyét és idejét,
+
+b) a képzési kötelezettség teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját és
+
+d) a Jogakadémia elektronikus hitelesítését.
+
+(4) A továbbképzési kötelezettség teljesítéséről a Jogakadémia által kiállított elektronikus tanúsítvány tartalmazza
+
+a) a továbbképzési kötelezettséget teljesítő személy
+
+aa) nevét,
+
+ab) születési helyét és idejét,
+
+b) a továbbképzési kötelezettség teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját és
+
+d) a Jogakadémia elektronikus hitelesítését.
+
+(5) A szakvizsgára kötelezett személynek a szakvizsgáról kiállított papíralapú tanúsítványa a szakvizsga eredményes letételét követően kerül átadásra.
+
+(6) A képzésről, továbbképzésről az elektronikus tanúsítványt a Jogakadémia a képzés, illetve a továbbképzés teljesítéséhez szükséges határidő utolsó napjától számított 15 napon belül állítja ki és teszi letölthetővé a képzésszervezést támogató informatikai rendszerben a jelölt számára. A tanúsítvány a jelölt kifejezett kérelme esetén elektronikus úton, elektronikusan aláírt teljes bizonyító erejű magánokirat formájában is megküldhető.
+
+#### 19. §
+
+Az elveszett, megsemmisült vagy megrongálódott bírósági végrehajtói oklevél, illetve tanúsítvány pótlására az érintett kérelme alapján a 2016. július 1. napja után teljesített szakvizsga esetén a Jogakadémia, az ezt megelőzően teljesített szakvizsga esetén a miniszter tanúsítványt állít ki.
+
+### 9. Végrehajtói szakvizsga megismétlése
+
+#### 20. §[^12]
+
+Ha a jelölt a végrehajtói szakvizsgán nem felelt meg minősítést kapott, a szakvizsgát megismételheti.
+
+### 10. Jegyzőkönyv
+
+#### 21. §
+
+(1) A végrehajtói szakvizsgáról jelöltenként külön jegyzőkönyvet kell készíteni, és ebben fel kell tüntetni
+
+a) a jelölt nevét, születési nevét, anyja nevét, születési helyét és idejét,
+
+b) a végrehajtói szakvizsga helyét és időpontját,
+
+c)[^13]
+
+d) a jelölt számára a szóbeli vizsgán feltett kérdéseket,
+
+e)[^14] azt, hogy a jelölt a végrehajtói szakvizsgán megfelelt vagy nem felelt meg.
+
+(2) A jegyzőkönyvet a vizsgabizottság elnöke és tagjai aláírják.
+
+### 11. Irattári őrzés
+
+#### 22. §[^15]
+
+A végrehajtói szakvizsga teljes iratanyagát a Jogakadémia őrzi, a bírósági végrehajtási ügyintézői vizsgáról készült jegyzőkönyv másolatát megküldi az Országos Bírósági Hivatal elnöke részére.
+
+### 12. Vizsgadíj
+
+#### 23. §
+
+(1)[^16] A végrehajtói szakvizsga díja 75 000 Ft, ideértve a megismételt végrehajtói szakvizsgát is.
+
+(2) A jelöltnek a végrehajtói szakvizsga díját a Jogakadémia által meghatározott és a képzésszervezést támogató informatikai rendszerén közzétett módon kell befizetnie.
+
+(3)[^17] A vizsgabizottság elnökét és tagját jelöltenként a befizetett vizsgadíjból 6000 Ft vizsgáztatói díj illeti meg.
+
+(4)[^18] Ha a végrehajtói szakvizsgán a jelölt – anélkül, hogy előzetesen jelezte volna távolmaradását – nem jelenik meg, a vizsgáztató részére 4000 Ft vizsgáztatói díj jár.
+
+### 13. Halasztás
+
+#### 24. §
+
+(1)[^19] A jelölt 7500 Ft halasztási díj befizetése mellett a szakvizsga elhalasztását kérheti.
+
+(2)[^20] Ha a jelölt a szakvizsgán nem jelent meg, távolmaradását a kitűzött időponttól számított 8 napon belül megfelelően igazolja, és újabb vizsgaidőpontot kér, akkor egy alkalommal a jelöltet halasztási díj, illetve vizsgadíj ismételt megfizetése nélkül a soron következő szakvizsgára kell beosztani. Ha a jelölt a távolmaradását nem mentette ki, a befizetett vizsgadíjat elveszíti.
+
+(3)[^21]
+
+## III. Fejezet — BÍRÓSÁGI VÉGREHAJTÁSI ÜGYINTÉZŐI SZAKVIZSGA
+
+### 14. Jelentkezés a bírósági végrehajtási ügyintézői szakvizsgára
+
+#### 25. §
+
+A bírósági végrehajtási ügyintézői szakvizsgára (a továbbiakban: végrehajtási ügyintézői vizsga) az jelentkezhet, aki
+
+a) felsőfokú iskolai végzettséggel rendelkezik, és
+
+b) az arra kijelölt bíró irányításával és felügyelete mellett [a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 262. § (1) bekezdés] egy éven át a végrehajtási ügyintézői feladatkörben szakmai gyakorlatot szerzett, vagy ötéves bírósági végrehajtói gyakorlattal rendelkezik.
+
+#### 26. §
+
+A jelöltnek az ügyintézői vizsgára való jelentkezéssel egyidejűleg a Jogakadémia képzésszervezést támogató informatikai rendszerébe a következő dokumentumokat kell feltöltenie:
+
+a) a felsőfokú iskolai végzettséget igazoló eredeti bizonyítványt vagy annak hiteles másolatát,
+
+b) a szakmai gyakorlat teljesítéséről szóló – a vizsgázó tevékenységének értékelésére is kiterjedő –, a törvényszék elnöke által kiállított igazolást, és
+
+c) a szakvizsgára készített, a Jogakadémia által közzétett tartalmi és formai követelményeknek megfelelő írásbeli vizsgamunkát (szakdolgozat).
+
+#### 27. §
+
+A végrehajtási ügyintézői vizsgára történő jelentkezésre, a vizsgabizottság összetételére, a végrehajtási ügyintézői vizsga lefolytatására, díjára, a szakdolgozat elkészítésére, a vizsgadíj befizetésére, a vizsgáztatók díjazására és a vizsga elhalasztására a végrehajtói szakvizsgára vonatkozó rendelkezések megfelelően irányadók.
+
+#### 28. §
+
+A végrehajtási ügyintézői vizsgán a vizsgázó arról ad számot, hogy a bíróság részéről a bíró feladatkörében eljárva végrehajtási ügyintézőként a végrehajtás elrendelése és foganatosítása terén ismeri és alkalmazni tudja azokat a rendelkezéseket, amelyeket a következő jogszabályok állapítanak meg:
+
+a) a Vht.,
+
+b) a Vht.-ban kapott felhatalmazás alapján kibocsátott kormányrendeletek és rendeletek,
+
+c) a bírósági ügyviteli és pénzkezelési szabályok,
+
+d) az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi dolgozók szolgálati viszonyára vonatkozó főbb szabályok,
+
+e) a felsorolt szabályokhoz kapcsolódó polgári jogi, polgári eljárásjogi, büntetőjogi, büntető eljárásjogi, közigazgatási jogi és pénzügyi jogi rendelkezések.
+
+#### 29. §[^22]
+
+(1) Az eredményesen letett végrehajtási ügyintézői vizsgáról a 18. § (2) bekezdése szerinti tartalommal papíralapú bírósági végrehajtási ügyintézői tanúsítványt kell kiállítani.
+
+(2) A bírósági végrehajtási ügyintézői tanúsítványra és a vizsgáról készült jegyzőkönyvre megfelelően irányadóak a végrehajtói tanúsítványra és a végrehajtói szakvizsgáról készült jegyzőkönyvre vonatkozó rendelkezések.
+
+## III. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 30. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+#### 31. §
+
+E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 32. §[^23]
+
+E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet és a bírósági végrehajtói és a bírósági végrehajtási ügyintézői szakvizsgáról szóló 13/2021. (XI. 16.) IM rendelet módosításáról szóló 13/2022. (IV. 29.) IM rendelettel (a továbbiakban: Módr.) módosított 5. § (3) bekezdését és 22. §-át a Módr. hatálybalépését[^24] követően lefolytatásra kerülő szakvizsgák során kell alkalmazni.
+
+#### 33. §[^25]
+
+E rendeletnek az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet, valamint a bírósági végrehajtói és a bírósági végrehajtási ügyintézői szakvizsgáról szóló 13/2021. (XI. 16.) IM rendelet módosításáról szóló 14/2023. (X. 3.) IM rendelettel (a továbbiakban: Módr.2.) módosított 23. § (1), (3) és (4) bekezdését, valamint 24. § (1) bekezdését az e rendelkezések Módr.2.-vel történő módosításának hatálybalépését[^26] követően benyújtott szakvizsgára jelentkezés és benyújtott halasztási kérelem esetén kell alkalmazni.
+
+#### 34. §[^27]
+
+(1) E rendeletnek a Módr.2.-vel módosított 4. § (1) bekezdése szerinti képzési díjat a Módr.2. hatálybalépésekor[^28] folyamatban lévő képzés esetén a (2) és (3) bekezdésben foglaltak szerint kell megfizetni.
+
+(2) Ha az önálló bírósági végrehajtójelölt a Módr.2. kihirdetését megelőzően a húsz előadásból álló képzést oly módon megkezdte, hogy legalább egy előadásra már jelentkezett a Módr.2. kihirdetését megelőzően, és azon az előadáson részt is vesz, számára a húsz előadásból álló képzés további része sem díjköteles, kivéve a 35. § (2) bekezdésében foglalt esetet.
+
+(3) Ha az önálló bírósági végrehajtójelölt a Módr.2. kihirdetését követően, de még a Módr.2. hatálybalépése[^29] előtt a húsz előadásból álló képzést oly módon megkezdte, hogy legalább egy előadásra már jelentkezett a Módr.2. hatálybalépését megelőzően, számára azok az előadások nem díjkötelesek, amelyekre a Módr.2. hatálybalépését megelőzően bejelentkezett, és a húsz előadásból álló képzés további előadásaira a 4. § (1) bekezdése szerinti képzési díj arányos részét kell megfizetnie képzési díjként.
+
+#### 35. §[^30]
+
+(1) E rendeletnek a Módr.2.-vel módosított 4. § (2) bekezdése előírását a 2024. január 1. napját követően megtartásra kerülő képzés és továbbképzés esetében kell alkalmazni.
+
+(2) Ha az önálló bírósági végrehajtójelölt a húsz előadásból álló képzést megkezdte, de nem fejezte be 2023. december 31. napjáig, a képzés fennmaradó részét 2026. január 1. napjáig kell elvégeznie, azzal, hogy a 34. § (2) bekezdése szerinti esetben a díjmentesség 2024. november 1. napjáig áll fenn, a képzésrész azon előadásaira, amelyeken az önálló bírósági végrehajtójelölt 2024. november 1. napja után vesz részt, a 4. § (1) bekezdése szerinti képzési díj arányos részét kell megfizetnie képzési díjként.
+
+#### 36. §[^31]
+
+(1) E rendeletnek az igazságügyi hivatásrendek képzéséről, szakmai továbbképzéséről és vizsgáiról szóló egyes igazságügyi miniszteri rendeletek módosításáról szóló 7/2025. (VI. 30.) IM rendelettel (a továbbiakban: Módr.3.) módosított rendelkezéseit a Módr.3. hatálybalépését[^32] követően
+
+a) megtartásra kerülő képzés, továbbképzés,
+
+b) benyújtott vizsgára jelentkezés és
+
+c) benyújtott halasztási kérelem
+
+esetén kell alkalmazni.
+
+(2) Ha a Módr.3. hatálybalépését[^33] követően megtartásra kerülő képzés, illetve továbbképzés részvételi díját a Módr.3. hatálybalépését megelőzően befizették, – az (1) bekezdéstől eltérően – a képzés, illetve továbbképzés részvételi díja a befizetéskor hatályos rendelkezések szerinti részvételi díj összegével egyezik meg.
+
+## 1. melléklet a 13/2021. (XI. 16.) IM rendelethez[^34]
+
+## 2. melléklet a 13/2021. (XI. 16.) IM rendelethez[^35]
+
+---
+
+[^1]: A 2. § (2) bekezdése a 7/2025. (VI. 30.) IM rendelet 19. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 14/2023. (X. 3.) IM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 7/2025. (VI. 30.) IM rendelet 20. §-ával megállapított szöveg.
+[^4]: A 3. § (3) bekezdése a 7/2025. (VI. 30.) IM rendelet 30. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § a 14/2023. (X. 3.) IM rendelet 5. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 7/2025. (VI. 30.) IM rendelet 21. §-ával megállapított szöveg.
+[^7]: A 4. § (3) bekezdését a 7/2025. (VI. 30.) IM rendelet 31. § a) pontja hatályon kívül helyezte.
+[^8]: Az 5. § (3) bekezdése a 13/2022. (IV. 29.) IM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdés a) pontja a 7/2025. (VI. 30.) IM rendelet 22. §-ával megállapított szöveg.
+[^10]: A 7. § a 7/2025. (VI. 30.) IM rendelet 23. §-ával megállapított szöveg.
+[^11]: A 8. alcím (18–19. §) a 7/2025. (VI. 30.) IM rendelet 24. §-ával megállapított szöveg.
+[^12]: A 20. § a 7/2025. (VI. 30.) IM rendelet 25. §-ával megállapított szöveg.
+[^13]: A 21. § (1) bekezdés c) pontját a 7/2025. (VI. 30.) IM rendelet 31. § b) pontja hatályon kívül helyezte.
+[^14]: A 21. § (1) bekezdés e) pontja a 7/2025. (VI. 30.) IM rendelet 26. §-ával megállapított szöveg.
+[^15]: A 22. § a 14/2023. (X. 3.) IM rendelet 6. §-ával megállapított szöveg.
+[^16]: A 23. § (1) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § a) pontja szerint módosított szöveg.
+[^17]: A 23. § (3) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § b) pontja szerint módosított szöveg.
+[^18]: A 23. § (4) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § c) pontja szerint módosított szöveg.
+[^19]: A 24. § (1) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § d) pontja, a 7/2025. (VI. 30.) IM rendelet 30. § b) pontja szerint módosított szöveg.
+[^20]: A 24. § (2) bekezdése a 7/2025. (VI. 30.) IM rendelet 27. §-ával megállapított szöveg.
+[^21]: A 24. § (3) bekezdését a 7/2025. (VI. 30.) IM rendelet 31. § c) pontja hatályon kívül helyezte.
+[^22]: A 29. § a 7/2025. (VI. 30.) IM rendelet 28. §-ával megállapított szöveg.
+[^23]: A 32. §-t a 13/2022. (IV. 29.) IM rendelet 4. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2022. április 30.
+[^25]: A 33. §-t a 14/2023. (X. 3.) IM rendelet 8. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2023. november 3.
+[^27]: A 34. §-t a 14/2023. (X. 3.) IM rendelet 8. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2023. november 3.
+[^29]: A hatálybalépés időpontja 2023. november 3.
+[^30]: A 35. §-t a 14/2023. (X. 3.) IM rendelet 8. §-a iktatta be.
+[^31]: A 36. §-t a 7/2025. (VI. 30.) IM rendelet 29. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2025. július 8.
+[^33]: A hatálybalépés időpontja 2025. július 8.
+[^34]: Az 1. mellékletet a 7/2025. (VI. 30.) IM rendelet 31. § d) pontja hatályon kívül helyezte.
+[^35]: A 2. mellékletet a 7/2025. (VI. 30.) IM rendelet 31. § d) pontja hatályon kívül helyezte.

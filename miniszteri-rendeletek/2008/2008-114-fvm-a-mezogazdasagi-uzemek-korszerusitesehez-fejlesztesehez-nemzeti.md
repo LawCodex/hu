@@ -1,0 +1,355 @@
+---
+title: "114/2008. (IX. 5.) FVM rendelet a mezőgazdasági üzemek korszerűsítéséhez, fejlesztéséhez nemzeti hatáskörben nyújtott kedvezményes hitel- és lízingdíj-támogatás igénybevételének részletes feltételeiről"
+identifier: "114/2008. (IX. 5.) FVM rendelet"
+njt_id: "2008-114-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2008/FVM/114"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2008-09-05
+in_force_from: 2009-12-30
+last_amended: 2019-06-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-114-20-82"
+retrieved: 2026-10-12
+---
+
+# 114/2008. (IX. 5.) FVM rendelet a mezőgazdasági üzemek korszerűsítéséhez, fejlesztéséhez nemzeti hatáskörben nyújtott kedvezményes hitel- és lízingdíj-támogatás igénybevételének részletes feltételeiről
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdésében kapott felhatalmazás alapján, a földművelésügyi és a vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § *a)* pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
+
+## I. Fejezet — Fogalommeghatározások
+
+#### 1. §[^1]
+
+E rendelet alkalmazásában:
+
+1\. *állattartó telep korszerűsítése:* a már meglévő és szakhatósági igazolással rendelkező szarvasmarha, juh, kecske, sertés és ló állattartó telepen a képződő trágya kezelésének, tárolásának, illetve felhasználásának fejlesztésére, az állati férőhelyek kialakítására és minőségének javítására, korszerűbb technológia alkalmazására, jó minőségű takarmány előállításának és felhasználásának, valamint a takarmányminőség megőrzésének biztosítására, valamint az állatbetegségek kialakulásának és terjedésének megelőzésére irányuló beruházás;
+
+2\. *beruházás:* a jogosult mezőgazdasági vállalkozás által eszközölt, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 3. § (4) bekezdés 7. pontja szerinti tevékenység;
+
+3\. *beruházás beszerzési érték:* a számviteli törvény 47–48. §-a szerint meghatározott érték;
+
+4\. *lízingdíj kamattámogatás:* a mezőgazdasági gépek, technológiák és berendezések pénzügyi lízingje alapján fizetendő kamat támogatása;
+
+5\. *mezőgazdasági gép és technológiai berendezés:* a növénytermesztésben, az állattenyésztésben és a kertészetben alkalmazott erőgép, erőgép munkagépei, berendezései, majori gép, állattartás gépei, berendezései, valamint szárító, pelletáló és brikettáló berendezések, zöldség-, gyümölcs- és szőlőbetakarító gép, magágykészítő gép és technológia;
+
+6\. *mezőgazdasági termékfeldolgozást szolgáló beruházás:* a mezőgazdasági vállalkozás által megvalósítandó, a saját termelésű termék feldolgozását, forgalmazását célzó beruházás, amely nem tartozik az 5. pontban meghatározott gépek és technológiai berendezések beszerzésével összefüggő beruházás hatálya alá, továbbá amelynek az Európai Uniót létrehozó szerződés I. számú mellékletében felsorolt mezőgazdasági termékek feldolgozására és forgalmazására kell irányulnia oly módon, hogy a feldolgozás során keletkező termék is élelmezési célú mezőgazdasági terméknek minősül, kivéve az olyan tevékenységet, amely az első eladásra váró állati vagy növényi termék előkészítéséhez szükséges; a beruházás fő célja a feldolgozási eljárások javítása, illetve észszerűsítése, a termékek külső megjelenésének és csomagolásának javítása, illetve a melléktermékek vagy hulladékok jobb hasznosításának vagy megsemmisítésének ösztönzése, a környezet védelme és az egészségügyi feltételek javítása;
+
+7\. *mezőgazdasági tevékenység:* mezőgazdasági termékek termelése, tenyésztése vagy termesztése, ideértve a betakarítást, a fejést, az állattenyésztést és a mezőgazdasági célból történő állattartást, valamint az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet 2. §-ában meghatározottaknak megfelelő gazdálkodás;
+
+8\. *mezőgazdasági vállalkozás:* az a természetes vagy jogi személy, aki vagy amely a mezőgazdasági tevékenységét Magyarország területén végzi, és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Támogatási törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a 12. § (1) bekezdése szerinti támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Támogatási törvény alapján működtetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
+
+9\. *mikro, kis- és középvállalkozás:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. melléklete szerinti vállalkozás;
+
+10\. *támogatásintenzitás:* a támogatástartalom és a támogatás szempontjából elszámolható költségek jelenértékének hányadosa, százalékos formában kifejezve;
+
+11\. *támogatás szempontjából elszámolható költség:* a támogatás alapjának meghatározásánál figyelembe vett, a 2. § (2) bekezdése szerinti kamattámogatással, illetve kezességvállalással érintett hitel- és pénzügyi lízing célját képező, 2. § (1) bekezdése szerinti beruházások beszerzési értéke, ide nem értve a beszerzési érték részét képező kamatot, valamint az előzetesen felszámított, de le nem vonható áfát.
+
+### Általános rendelkezések
+
+#### 2. §
+
+(1)[^2] E rendelet szerint a mikro, kis- és középvállalkozásnak minősülő mezőgazdasági vállalkozás támogatást igényelhet:
+
+a) mezőgazdasági gépek és technológiai berendezések beszerzéséhez;
+
+b) az állattartó telepek korszerűsítéséhez;
+
+c) a mezőgazdasági termékfeldolgozást szolgáló beruházáshoz;
+
+d) mezőgazdasági gépek és berendezések lízingbe vételéhez.
+
+(2) Az (1) bekezdés szerinti támogatás:
+
+a) beruházási hitel esetén kamattámogatás;
+
+b) új gép és technológiai berendezés lízingbe vétele esetén lízingdíj kamattámogatás;
+
+c)[^3] az Agrár-Vállalkozási Hitelgarancia Alapítvány vagy a Garantiqa Hitelgarancia Zrt. (a továbbiakban: kezességvállaló intézmény) által nyújtott kezesség, készfizető kezesség formájában igénybe vehető támogatás [a továbbiakban *a)–c)* pont együtt: támogatás].
+
+(3) Az egy beruházáshoz igénybe vett támogatás együttes támogatási intenzitása nem haladhatja meg a 40%-ot.
+
+(4) A támogatás igénybe vételének feltétele, hogy a beruházás:
+
+a) a fajlagos termelési költségek csökkentésére; vagy
+
+b) az előállított termékek minőségének javítására; vagy
+
+c) a higiéniai körülmények és az állatjólét javítására; vagy
+
+d) a mezőgazdasági vállalkozás tevékenységének diverzifikálására irányuljon.
+
+#### 3. §
+
+Nem jogosult a mezőgazdasági vállalkozás az e rendelet szerinti támogatás igénybe vételére, amennyiben:
+
+a) csőd-, felszámolási eljárás, bírósági végrehajtás vagy végelszámolás alatt áll;
+
+b) a hitelkérelem benyújtását megelőző három éven belül az államháztartás alrendszereiből juttatott valamely állami támogatással összefüggésben a támogatási szerződésben vállalt kötelezettségeit nem, vagy csak részben teljesítette;
+
+c) 60 napot meghaladó, adó- vagy adók módjára behajtható köztartozása van, kivéve, ha az adóhatóság fizetési halasztást vagy részletfizetést engedélyezett számára;
+
+d) gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt áll;
+
+e) a kérelem benyújtását megelőző 5 éven belül jogosulatlanul igénybe vett támogatásból eredő rendezetlen tartozása van;
+
+f) az azonos jogcím keretében támogatott befejezetlen projekttel rendelkezik;
+
+g)[^4] az adott beruházás a Vidékfejlesztési Program 2014–2020 fejlesztési támogatásban, vagy az Európai Mezőgazdasági Garancia Alapból finanszírozható termelői szervezet támogatásban részesül;
+
+h) az adott beruházás csak a meglévő közösségi vagy nemzeti előírásoknak való megfelelésre irányul;
+
+i)[^5] a hitel-, illetve lízingszerződés nem HUF alapon kerül megkötésre;
+
+j)[^6] nehéz helyzetben lévő vállalkozásnak minősül;
+
+k)[^7] a beruházás termelési jogok, állatok és egynyári növények beszerzésére, illetve forgótőke finanszírozására irányul;
+
+l)[^8] a beruházás megvalósítása a kamattámogatás vagy a lízingdíj kamattámogatás iránti kérelem benyújtását megelőzően már megkezdődött.
+
+## II. Fejezet — Mezőgazdasági beruházási hitel, amelyhez kamattámogatás és kezességvállaló intézmény által nyújtott kedvezményes kezességvállalás igényelhető
+
+#### 4. §
+
+(1) A mezőgazdasági vállalkozás a kamattámogatást a 2. § (1) bekezdés *a)–c)* pontja szerinti beruházások, támogatás szempontjából elszámolható költségeihez igénybe vett hitel pénzügyileg rendezett kamatai után igényelheti.
+
+(2) A mezőgazdasági vállalkozás a pénzügyi intézmény kezdeményezése alapján kezességvállaló intézmény által nyújtott kezességvállalást is igénybe vehet.
+
+#### 5. §
+
+(1) A 4. § szerinti támogatások igénybevételére a mezőgazdasági vállalkozás abban az esetben jogosult, amennyiben:
+
+a)[^9] igazolja, hogy:
+
+aa) őstermelő, egyéni vállalkozó, vagy jogi személy tulajdonosa vagy alkalmazottja, és rendelkezik legalább középfokú „mezőgazdasági vállalkozó” (OKJ 32 6201 02), „ezüstkalászos gazda” (OKJ 21 6201 01), „aranykalászos gazda” (OKJ 32 6201 01 vagy új OKJ 31 621 02), vagy mezőgazdasági tevékenységéhez kapcsolódóan az Országos Képzési Jegyzékben szereplő, legalább középfokú szakképesítéssel,
+
+ab) belföldi székhelyű jogi személy fő tevékenységi köre az 1. § 7. pontjában meghatározott tevékenység,
+
+ac) beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megvalósításához szükséges, általános forgalmi adót nem tartalmazó költségeinek a pénzügyi intézmény belső szabályzatának megfelelő mértékű saját erővel,
+
+ad) a beruházással érintett mezőgazdasági üzem – az Európai Unióban működő mezőgazdasági üzemek jövedelmére és üzleti tevékenységére vonatkozó számviteli adatok gyűjtésére szolgáló hálózat létrehozásáról szóló 1217/2009/EK tanácsi rendelet alkalmazására vonatkozó szabályok megállapításáról szóló, 2015. február 3-i 2015/220/EU bizottsági végrehajtási rendeletben meghatározott módszertan szerint számolt – standard termelési értéke (STÉ) legalább 6000 euró, és
+
+ae) rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával vagy az állattartás helye szerint illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az élelmiszerlánc-felügyeleti szerv nyilvántartásában, valamint a nevezett címen tartott állomány hatósági, valamint szolgáltató állatorvosi felügyelete biztosított;
+
+b)[^10] nyilatkozik, hogy:
+
+ba) a 2. § (1) bekezdés *b)* és *c)* pontja szerinti beruházást a hitelszerződés kötést követő 12 hónapon belül befejezi,
+
+bb) a felvett hitelt a 2. § (1) bekezdés *a)–c)* pontjában meghatározott célra használja,
+
+bc) a vállalkozását legalább a felvett hitel, illetve lízing futamidejének időszakában, a hitellel, illetve lízinggel megvalósított beruházást pedig legalább 5 évig rendeltetésszerűen működteti,
+
+bd) a 2. § (1) bekezdés *a)–c)* pontja szerinti beruházás esetén hozzájárul ahhoz, hogy a hitel lejártáig biztosíték (jelzálog) terhelje meg a megvalósult fejlesztést,
+
+be) nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vele szemben gazdasági tevékenységből eredő tartozás megfizetése vagy gazdasági tevékenységével összefüggő kötelezettség kikényszerítése miatt végrehajtási eljárás nincs folyamatban, vagy a korábban ellene vezetett végrehajtás eredményes volt,
+
+bf) köztartozása nem áll fenn,
+
+bg)[^11] megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés *a)* és *c)* pontjában foglaltaknak.
+
+(2)[^12]
+
+#### 6. §
+
+(1)[^13] A kamattámogatás összege a kamat 50%-a, amennyiben a hitelhez legfeljebb a kamatmegállapítás időpontjában érvényes háromhavi BUBOR + 2,0 százalékpontnak megfelelő kamat kapcsolódik.
+
+(2) A pénzügyi intézmény a hitelszerződés megkötését követően az (1) bekezdés szerinti kamaton felül az üzletszabályzatának megfelelően rendelkezésre tartási jutalékot, késedelmi kamatot és a követelés érvényesítésével kapcsolatos költségeket számolhatja fel.
+
+#### 7. §
+
+(1) A kamattámogatásban részesülő hitel összege:
+
+a) mezőgazdasági termelő esetében legalább 2 millió forint, de legfeljebb 400 millió forint;
+
+b) termelői szervezet és termelői csoport esetében legfeljebb 750 millió forint lehet, amely keretösszeg több hitelkérelem alapján is felhasználható.
+
+(2) A hitel futamideje a szerződéskötéstől számított legalább 5 év, de legfeljebb 7 év, ezen belül legfeljebb 1 év türelmi idő biztosításával. A futamidő alatti előtörlesztés esetén az addig igénybe vett kamattámogatás nem számít jogosulatlan támogatás igénybe vételének.
+
+#### 8. §
+
+(1) A 4. § (2) bekezdése szerinti kezességvállaló intézmény által nyújtott kezességvállalás a hitelszerződés szerinti hitelösszegre és egyéves ügyleti kamatára, illetve az ezt követő években a mindenkor fennálló tőketartozásra és egyéves ügyleti kamatára vehető igénybe.
+
+(2) Az (1) bekezdés szerinti készfizető kezességvállalás mértéke legfeljebb 80% lehet.
+
+## III. Fejezet — Mezőgazdasági gép- és technológia beszerzés pénzügyi lízingjének kamattámogatása és kezességvállaló intézmény által nyújtott kedvezményes kezességvállalási díjtámogatása
+
+#### 9. §
+
+A 2. § (1) bekezdés *d)* pontja szerinti beruházáshoz a mezőgazdasági vállalkozás:
+
+a) lízingdíj kamattámogatást, valamint
+
+b) a lízingelést végző pénzügyi intézmény kezdeményezésére kezességvállaló intézmény által nyújtott kezességet igényelhet.
+
+#### 10. §
+
+(1) A lízingdíj kamattámogatás a 2. § (1) bekezdés *d)* pontja szerinti lízing formájában megvalósuló beruházások lízingdíjainak kamattörlesztő részlete alapján abban az esetben igényelhető, ha:
+
+a) a lízing futamidő legalább 36 hónap és a lízingbevevő a futamidő végén megszerzi a lízingelt eszköz tulajdonjogát;
+
+b) a lízing kamatmértéke nem haladja meg a kamat-megállapítás időpontjában érvényes háromhavi BUBOR+ 2,0 százalékpontot;
+
+c) a lízingtartozás tőkeösszege, valamint a lízingdíj tőke és kamattörlesztő része, továbbá a kamattörlesztő részlethez kapcsolódó kamattámogatás a szerződésben éves bontásban is rögzítésre kerül.
+
+(2)[^14] A lízingdíj kamattámogatás igénybevételére a mezőgazdasági vállalkozás az 5. § (1) bekezdés *a)* pont *aa)* és *ab)* alpontjában felsorolt igazolások bemutatása, valamint *b)* pont *bc), be), bf)* és *bg)* alpontjában foglalt nyilatkozatok megtétele esetén jogosult.
+
+(3) A lízingdíj kamattámogatás mértéke a lízingdíj kamat-tartalmának 50%-a.
+
+#### 11. §
+
+(1) A 9. § *b)* pontja szerinti kezességvállaló intézmény által nyújtott készfizető kezességvállalás a lízingszerződés szerinti tőkeösszegre és egyéves ügyleti kamatára, illetve az ezt követő években a mindenkor fennálló tőke összegére és annak egyéves ügyleti kamatára terjed ki.
+
+(2) A készfizető kezességvállalás mértéke legfeljebb 80% lehet.
+
+## IV. Fejezet — Egyéb rendelkezések
+
+#### 12. §
+
+(1)[^15] A mezőgazdasági vállalkozás hitel, illetve lízingtámogatás iránti kérelmet (a továbbiakban együtt: kérelem) nyújthat be a földművelésügyi hatáskörben eljáró megyeszékhely szerinti járási hivatalhoz (a továbbiakban: járási hivatal), amelyhez
+
+a) hiteltámogatás iránti kérelem benyújtása esetén az 5. § szerinti igazolásokat és nyilatkozatokat,
+
+b) lízingtámogatás iránti kérelem benyújtása esetén a 10. § (2) bekezdése szerinti dokumentumokat, valamint a gyártó vagy a forgalmazó cég árajánlatát
+
+kell csatolni.
+
+(2)[^16] A kérelmek folyamatosan, de legkésőbb 2019. december 31. napjáig nyújthatóak be a járási hivatalhoz.
+
+(3)[^17] A járási hivatal döntést hoz arról, hogy a kérelemben megjelölt támogatás
+
+a) a 2. § (1) bekezdés *a)* pontja szerinti célterületre,
+
+b) a 2. § (1) bekezdés *b)* pontja szerinti célterületre,
+
+c) a 2. § (1) bekezdés *c)* pontja szerinti célterületre,
+
+d) a 2. § (1) bekezdés *d)* pontja szerinti célterület esetében a számviteli törvény 3. § (8) bekezdés 13. pontjában foglaltak szerinti ügyletre
+
+irányul.
+
+(4)[^18] A járási hivatal a támogatási döntésekben szereplő hitel és lízing összegéről és darabszámáról – a 2. § (1) bekezdésében meghatározott célterületek szerinti bontásban – a döntés hónapját követő hónap 15. napjáig tájékoztatja az agrárpolitikáért felelős minisztert (a továbbiakban: miniszter).
+
+(5)[^19]
+
+#### 13. §
+
+(1) A kedvezményes hitel- és lízingprogramban a 6. § (1) bekezdés, illetve a 10. § (1) bekezdésének *b)* pontja szerinti kamatfeltételek és a 8. §, illetve a 11. § szerinti kedvezményes intézményi kezességvállalási díj mellett felvett hitelek támogatás nyújtását jelentik a mezőgazdasági vállalkozások számára.
+
+(2)[^20] A kamatkedvezmény által megtestesített támogatástartalmat a Magyar Államkincstár (a továbbiakban: Kincstár) az 1. számú mellékletben meghatározott módszertan szerint állapítja meg, a pénzügyi intézmény által minden hónap 20. napjáig megküldött, az alábbi adatokat tartalmazó igazolás alapján:
+
+a) a referenciaráta kiszámításához szükséges adatok (az ügyfél minősítési kategóriája a 2008/C 14/02 bizottsági közlemény alapján; a biztosítékokkal való fedezettség a 2008/C 14/02 bizottsági közlemény alapján; a referencia kamatláb felára a 2008/C 14/02 bizottsági közlemény alapján);
+
+b) a hitel vagy lízing támogatástartalmának kiszámításához szükséges adatok:
+
+ba) a hitel vagy lízing összege,
+
+bb) a szerződéskötéskor érvényes referenciaráta,
+
+bc) a hitel- vagy lízingszerződés megkötésének időpontjában érvényes háromhavi BUBOR,
+
+bd) a kedvezményes kamatláb (a hitelszerződésben szereplő kamat 50%-a, a lízingszerződésben felszámított kamat 50%-a),
+
+be) futamidő (türelmi idővel együtt),
+
+bf) türelmi idő.
+
+(3)[^21] A kezességvállalás támogatástartalmát a kezességvállaló intézmény a a mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendeletben meghatározott módszertan szerint számolja ki, és az erről szóló igazolást megküldi a hitel-, illetve lízingfelvevő részére, amely igazolást a kezességvállaló intézmény és a hitel-, illetve lízingfelvevő is 10 évig köteles megőrizni.
+
+#### 14. §
+
+(1)[^22] A kamattámogatás, valamint a lízingdíj kamattámogatás az adott évben a Nemzeti Adó- és Vámhivatal által rendszeresített „Bevallás az államháztartással szembeni egyes juttatások igényléséről” című nyomtatvány felhasználásával az illetékes adó- és vámhatóságtól igényelhető a 10032000-01220191-52100008 számú Szakmai költségvetési fejezeti alszámla – Nemzeti agrártámogatások számláról.
+
+(2) A kamattámogatás vagy a lízingdíj kamattámogatás összegét a támogatásra jogosult mezőgazdasági vállalkozás a pénzügyi intézménytől kapott kamatigazolás alapján számítja ki.
+
+(3)[^23] A kamattámogatás és a lízingdíj kamattámogatás igénylése esetén az (1) bekezdés szerinti nyomtatványhoz a pénzügyi intézmény által kiállított, az esedékes kamat megfizetéséről szóló igazolást, első igénylés esetén a 12. § (3) bekezdése szerinti határozat, a hitel-, illetve lízingkérelem, valamint a Kincstár által kiállított támogatástartalomról szóló határozat eredeti példányát kell csatolni.
+
+#### 15. §
+
+(1) A 4. § (1) bekezdés szerinti hitel és a 9. § szerinti lízing igénybevételével megvalósuló beruházás rendeltetésszerű felhasználásának ellenőrzésére az illetékes adóhatóság által – az Art. szerint – végzett ellenőrzés keretében kerül sor.
+
+(2) Amennyiben a mezőgazdasági vállalkozás nem tesz eleget az 5. § (1) bekezdésében foglalt feltételeknek, az igénybe vett támogatás jogosulatlan támogatásnak minősül. A jogosulatlanul igénybe vett támogatás visszafizetését az illetékes adóhatóság rendeli el.
+
+(3) A jogosulatlanul igénybe vett támogatást a mindenkori jegybanki alapkamat kétszeresével növelt összegben a 14. § (1) bekezdése szerinti számlára kell visszafizetni.
+
+#### 15/A. §[^24]
+
+(1)[^25] A támogatás forrása a 2019. évben 600 millió forint.
+
+(2) A miniszter a rendelkezésére álló adatok alapján a forrás kimerülése esetén jogosult a támogatás folyósításának közlemény útján történő felfüggesztésére.
+
+#### 16. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+#### 17. §[^26]
+
+Ez a rendelet a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás 1.1.1.1. és 1.1.1.4. alfejezetei végrehajtásához szükséges rendelkezéseket tartalmaz.
+
+## 1. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^27]
+
+**A hitel/lízingdíj támogatástartalmának képlete**
+
+![](https://njt.jog.gov.hu/picture/cc/cc952008_82__20000114A37A_002_0.jpg)
+
+ahol:
+
+TT: támogatástartalom, a támogatások összegének jelenértéke
+
+Q: hitelösszeg/lízingdíj
+
+i: a 13. § (2) bekezdés a) pontjában közölt adatok alapján megállapított referencia kamatláb
+
+![](https://njt.jog.gov.hu/picture/ae/aea42008_82__20000114A37A_002_1.jpg)
+
+i’: kedvezményes kamatláb
+
+*a)* a hitelszerződésben szereplő kamat 50%-a
+
+*b)* a lízingszerződésben felszámított kamat 50%-a
+
+P: futamidő (türelmi idővel együtt)
+
+F: türelmi idő
+
+## 2. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^28]
+
+## 3. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^29]
+
+## 4. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^30]
+
+## 5. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^31]
+
+---
+
+[^1]: Az 1. § a 15/2019. (IV. 25.) AM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 15/2019. (IV. 25.) AM rendelet 11. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés c) pontja a 15/2019. (IV. 25.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § g) pontja a 15/2019. (IV. 25.) AM rendelet 11. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § i) pontját a 163/2008. (XII. 18.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2008. december 26. napját követően megkötött hitel- és lízingszerződésekre kell alkalmazni.
+[^6]: A 3. § j) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.
+[^7]: A 3. § k) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.
+[^8]: A 3. § l) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.
+[^9]: Az 5. § (1) bekezdés a) pontja a 15/2019. (IV. 25.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés b) pont bg) alpontja a 15/2019. (IV. 25.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^13]: A 6. § (1) bekezdése a 15/2019. (IV. 25.) AM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 10. § (2) bekezdése a 163/2008. (XII. 18.) FVM rendelet 2. §-ával megállapított, a 15/2019. (IV. 25.) AM rendelet 11. § d) pontja szerint módosított szöveg.
+[^15]: A 12. § (1) bekezdése a 15/2019. (IV. 25.) AM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 12. § (2) bekezdése a 15/2019. (IV. 25.) AM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 12. § (3) bekezdése a 15/2019. (IV. 25.) AM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 12. § (4) bekezdése a 15/2019. (IV. 25.) AM rendelet 5. §-ával megállapított szöveg.
+[^19]: A 12. § (5) bekezdését a 15/2019. (IV. 25.) AM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^20]: A 13. § (2) bekezdése a 15/2019. (IV. 25.) AM rendelet 6. §-ával megállapított szöveg.
+[^21]: A 13. § (3) bekezdése a 15/2019. (IV. 25.) AM rendelet 11. § e) pontja szerint módosított szöveg.
+[^22]: A 14. § (1) bekezdése a 15/2019. (IV. 25.) AM rendelet 7. §-ával megállapított szöveg.
+[^23]: A 14. § (3) bekezdése a 27/2019. (VI. 14.) AM rendelet 8. §-ával megállapított szöveg.
+[^24]: A 15/A. §-t a 31/2015. (VI. 9.) FM rendelet 11. § (2) bekezdése iktatta be.
+[^25]: A 15/A. § (1) bekezdése a 15/2019. (IV. 25.) AM rendelet 8. §-ával megállapított szöveg.
+[^26]: A 17. §-t a 15/2019. (IV. 25.) AM rendelet 9. §-a iktatta be.
+[^27]: Az 1. számú melléklet a 163/2008. (XII. 18.) FVM rendelet 3. §-ával megállapított, a 15/2019. (IV. 25.) AM rendelet 10. §-a és 11. § f) pontja szerint módosított szöveg.
+[^28]: A 2. számú mellékletet a 15/2019. (IV. 25.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^29]: A 3. számú mellékletet a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^30]: A 4. számú mellékletet a 15/2019. (IV. 25.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^31]: Az 5. számú mellékletet a 15/2019. (IV. 25.) AM rendelet 12. § b) pontja hatályon kívül helyezte.

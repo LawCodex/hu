@@ -1,0 +1,218 @@
+---
+title: "44/2011. (XII. 5.) BM rendelet a tűzesetek vizsgálatára vonatkozó szabályokról"
+identifier: "44/2011. (XII. 5.) BM rendelet"
+njt_id: "2011-44-20-0A"
+eli: "https://njt.jog.gov.hu/eli/R/2011/BM/44"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-05
+in_force_from: 2012-01-01
+last_amended: 2025-05-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-44-20-0A"
+retrieved: 2026-10-12
+---
+
+# 44/2011. (XII. 5.) BM rendelet a tűzesetek vizsgálatára vonatkozó szabályokról
+
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (2) bekezdés 3. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva
+
+a 2. § (3) bekezdése és a 11. § tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (6) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva – a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény egyes rendelkezéseinek végrehajtásáról szóló 71/2006. (IV. 3.) Korm. rendelet 32/A. § (1) bekezdésében meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –
+
+a következőket rendelem el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+A tűzvizsgálati eljárás során a tűzvédelmi hatóság (a továbbiakban: hatóság) vizsgálja
+
+a) a tűz keletkezésének, terjedésének körülményeit; a tűz keletkezésének helyét, idejét; a tűz keletkezéséhez vezető folyamatot; továbbá a tűzesettel kapcsolatos személyi felelősséget,
+
+b) a tűz keletkezésének megelőzésére, továbbterjedésének megakadályozására vonatkozó tűzvédelmi előírások érvényesülését, valamint
+
+c) a tűzoltás alapvető feltételeinek meglétét.
+
+### 2. §
+
+(1) A tűzoltóságok minden tudomásukra jutott tűzesettel kapcsolatban – a (2) bekezdésben meghatározott, személyes adatokat nem tartalmazó adatkörben – adatgyűjtésre és adatszolgáltatásra kötelezettek.
+
+(2) Kötelezően gyűjtendő adatok:
+
+a) a jelzés ideje,
+
+b) a tűzeset helye (pontos cím, helyrajzi szám, földrajzi koordináták, vagy egyéb a helyszín beazonosítására alkalmas meghatározás),
+
+c) a keletkezés ideje (amennyiben nem ismert a pontos keletkezési idő, úgy vélelmezett időt kell megjelölni),
+
+d) a tűzre utaló tények, adatok,
+
+e) a tűzeset jellege, kiterjedése, valamint
+
+f) a személyi sérülés jellege, mértéke.
+
+(3)[^1] A beavatkozó tűzoltóság a (2) bekezdés szerinti adatokat a tűzeset keletkezési helye szerint illetékes katasztrófavédelmi kirendeltséggel – a Honvédelmi Minisztérium vagyonkezelésében lévő ingó és ingatlan vagyontárgyak (a továbbiakban: MH létesítménye) esetén a BM Országos Katasztrófavédelmi Főigazgatóság Központi Főügyelete útján a Magyar Honvédség központi ügyeletével – távközlési eszköz útján vagy elektronikus úton haladéktalanul közli.
+
+(4)[^2] A beavatkozó tűzoltóság köteles a (2) bekezdés szerinti adatokat az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben keletkezett tűzeset esetében az Országgyűlési Őrséggel is haladéktalanul közölni, távközlési eszköz útján vagy elektronikus úton.
+
+### 3. §
+
+(1)[^3] Hivatalból tűzvizsgálati eljárást kell lefolytatni, ha
+
+a) a tűzesettel összefüggésben bűncselekmény gyanúja merül fel,
+
+b) a tűzeset következtében haláleset történt,
+
+c) a d) pont kivételével a tűzeset minősített riasztási fokozata III-as vagy magasabb volt,
+
+d) a tűzeset erdő- és vegetációs területen történt, és minősített riasztási fokozata IV-es vagy magasabb volt,
+
+e) a hatóság vezetője szakmai szempontból indokoltnak tartja.
+
+(2)[^4] A tűzeset minősített fokozatának megállapításakor a ténylegesen beavatkozó erőket kell figyelembe venni.
+
+## 2. A tűzvizsgálatot biztosító cselekmények
+
+### 4. §
+
+A tűzvizsgálati eljárás eredményességének érdekében – amennyiben a tűzvizsgáló nincs a helyszínen – a tűzoltás vezetője:
+
+a) intézkedik a terület és a bizonyítékok biztonságos, változatlan állapotban történő megőrzéséről, valamint
+
+b) jelentésben rögzíti a helyszínre vonatkozó adatokat, információkat, helyszínrajzot és lehetőség szerint kép- és filmfelvételeket készít.
+
+### 5. §
+
+A tűzesettel érintett személyek kötelesek változatlanul hagyni és változatlan formában megőrizni a tűzeset helyszínét a kötelező adatgyűjtés elvégzéséig vagy a tűzvizsgálat helyszíni szemléjének befejezéséig, ettől eltérni csak közvetlen életveszély, az építmény helyrehozhatatlan károsodásának veszélye, vagy a tűzeset helyszínén jelen lévő tűzvizsgáló vagy a tűzoltás vezetője engedélyével lehet.
+
+## 3. A tűzvizsgálati eljárás lefolytatásának szabályai
+
+### 6. §
+
+(1) A hatóság vezetője szolgálatszervezéssel biztosítja a tűzvizsgálati eljárás azonnali megkezdésének személyi, tárgyi feltételeit.
+
+(2) A hatóság vezetője a tűzvizsgálati eljárás lefolytatására olyan személyt jelölhet, aki a hatóság hivatásos állományának tagja és
+
+a) felsőfokú tűzvédelmi szakmai képzettséggel, tűzvizsgálói tanfolyami végzettséggel és legalább 3 éves szakmai gyakorlattal rendelkezik, vagy
+
+b) hatályos tűzvizsgálati szakértői engedéllyel rendelkezik.
+
+### 7. §
+
+(1) A tűzvizsgálati eljárás során a hatóság haladéktalanul tűzvizsgálati helyszíni szemlét tart. A helyszíni szemléről készített jegyzőkönyv tartalmazza a helyszín bemutatását; a helyszínrajzot; a károsodott terület leírását; a tűzkeletkezés helyére és terjedésére utaló állapotokat és elváltozásokat, a tűz terjedését elősegítő és akadályozó tényezőket; személyek, anyagi javak, természeti környezet veszélyeztetettségére vonatkozó körülményeket; a vizsgálat szempontjából lényeges tényezők leírását és rögzítését; a szükség szerinti mintavételezés körülményeit; a lefoglalt tárgyak, maradványok megnevezését.
+
+(2)[^5]
+
+## 4. A tűzvizsgálat megállapításainak összegzésére vonatkozó szabályok
+
+### 8. §
+
+(1) Az összegyűjtött bizonyítékok felhasználásával összefoglaló jelentést kell készíteni. Az összefoglaló jelentés a tűzvizsgálati eljárásról készült – tűzvizsgálati jelentés tervezetének minősülő – olyan szakmai dokumentum, melyet a tűzvizsgáló a (2) bekezdésben foglalt szakmai szempontok szerint állít össze.
+
+(2) Az összefoglaló jelentésnek tartalmaznia kell:
+
+a) a károsultak, a sérültek, az elhunytak adatait,
+
+b) a tűz helyszínének általános leírását,
+
+c) a tűz keletkezési helyére, idejére vonatkozó megállapításokat,
+
+d) a tűz keletkezéséhez vezető folyamat leírását, a terjedéssel kapcsolatos megállapításokat, valamint mindezek alapján a tűz okára, a gyújtóforrásra és a felelősségre vonatkozó megállapításokat a bizonyítékok figyelembevételével,
+
+e) a személyek, anyagi javak, és a természeti környezet veszélyeztetettségére vonatkozó megállapításokat,
+
+f)[^6]
+
+g)[^7]
+
+h)[^8]
+
+i)[^9]
+
+### 9. §
+
+(1) Az összefoglaló jelentés alapján a hatóság vezetője dönt a tűzvizsgálat kiegészítéséről, vagy záradékolja az összefoglaló jelentést.
+
+(2) Az összefoglaló jelentés megállapításaitól függően a hatóság vezetője, amennyiben annak feltételei fennállnak:
+
+a) szóban vagy írásban felhívja az ügyfél figyelmét a követendő szabályok betartására,
+
+b) szabálysértési vagy büntetőeljárást kezdeményez,
+
+c) egyéb hatósági intézkedést kezdeményez más hatóságnál a tapasztalt jogszabálysértés megszüntetésére (különösen építésügyi, környezetvédelmi vagy egyéb az ügyben érintett hatóság).
+
+### 10. §
+
+(1) A tűzvizsgálati eljárás a tűzvizsgálati jelentés kiadásával zárul.
+
+(2)[^10]
+
+(3) A tűzvizsgálati jelentés kiadására az összefoglaló jelentés záradékolását követően kerül sor.
+
+(4)[^11] Ha a tűz keletkezéséhez vezető folyamat nem állapítható meg vagy nem bizonyítható, akkor azt a tűzvizsgálati jelentésben ismeretlenként kell megjelölni.
+
+## 5. A hatóság és a rendőrség együttműködése a tűzvizsgálati eljárásban
+
+### 11. §[^12]
+
+Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) az ügyelete útján minden tudomására jutott tűzesetről haladéktalanul értesíti a hivatásos katasztrófavédelmi szerv ügyeletét, az MH létesítményében keletkezett tűz esetén a Magyar Honvédség központi ügyeletét.
+
+### 11/A. §[^13]
+
+A rendőrség az ügyelete útján az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületben keletkezett, a tudomására jutott tűzesetről az Országgyűlési Őrség ügyeletét is értesíti.
+
+### 12. §
+
+(1) A hatóság az ügyelete útján a 3. § (1) bekezdés a) és b) pontjában foglalt esetekben haladéktalanul köteles a rendőrséget értesíteni.
+
+(2) A hatóság a 3. § (1) bekezdés a) és b) pontjában foglalt esetekben, a tűzvizsgálati eljárás megindításáról, az első eljárási cselekmények elvégzéséről írásban értesíti a rendőrséget.
+
+(3) A hatóság a tűzvizsgálati eljárás lezárását követően a tűzvizsgálati jelentést és az összefoglaló jelentést a bizonyítékokkal együtt
+
+a) az eljárást folytató rendőri szervnek a 3. § (1) bekezdés a) és b) pontjában meghatározott esetekben hivatalból,
+
+b) egyéb esetben a rendőrség erre irányuló kérése esetén a rendőrségnek
+
+haladéktalanul megküldi.
+
+(4)[^14] A rendőrség a 3. § (1) bekezdés a) és b) pontjában foglalt esetekben a megindított eljárásáról, valamint az első eljárási cselekmények elvégzéséről írásban értesíti a hatóságot, továbbá a keletkezett iratokat a bizonyítékokkal együtt hivatalból haladéktalanul átadja a hatóság részére.
+
+### 13. §
+
+A tűzvizsgáló segítséget kérhet a rendőrségtől a tűzeset helyszínének biztosítása, a nyomok megőrzése, rögzítése, valamint a tűzeset helyszínén az ügyfelek, tanúk felkutatása, azonosítása, helyszínen tartása céljából.
+
+## 6.[^15]
+
+## 6/A.[^16]
+
+## 7. Záró rendelkezések
+
+### 16. §
+
+(1) Ez a rendelet 2012. január 1-jén lép hatályba.
+
+(2)[^17]
+
+## 1. melléklet a 44/2011. (XII. 5.) BM rendelethez[^18]
+
+---
+
+[^1]: A 2. § (3) bekezdése a 67/2012. (XII. 14.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (4) bekezdését a 84/2012. (XII. 28.) BM rendelet 85. § (1) bekezdése iktatta be.
+[^3]: A 3. § (1) bekezdése a 16/2025. (V. 29.) BM rendelet 14. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 24/2012. (V. 8.) BM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^5]: A 7. § (2) bekezdését a 24/2012. (V. 8.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^6]: A 8. § (2) bekezdés f) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^7]: A 8. § (2) bekezdés g) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^8]: A 8. § (2) bekezdés h) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^9]: A 8. § (2) bekezdés i) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^10]: A 10. § (2) bekezdését a 44/2017. (XII. 29.) BM rendelet 67. § a) pontja hatályon kívül helyezte.
+[^11]: A 10. § (4) bekezdése a 10/2017. (VI. 1.) BM rendelet 12. §-a szerint módosított szöveg.
+[^12]: A 11. § a 67/2012. (XII. 14.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^13]: A 11/A. §-t a 84/2012. (XII. 28.) BM rendelet 85. § (2) bekezdése iktatta be.
+[^14]: A 12. § (4) bekezdése a 16/2025. (V. 29.) BM rendelet 15. §-ával megállapított szöveg.
+[^15]: A 6. alcímet (14–15. §) a 44/2017. (XII. 29.) BM rendelet 67. § b) pontja hatályon kívül helyezte.
+[^16]: A 6/A. alcímet (15/A. §) a 24/2012. (V. 8.) BM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 44/2017. (XII. 29.) BM rendelet 67. § b) pontja.
+[^17]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1. mellékletet a 44/2017. (XII. 29.) BM rendelet 67. § c) pontja hatályon kívül helyezte.

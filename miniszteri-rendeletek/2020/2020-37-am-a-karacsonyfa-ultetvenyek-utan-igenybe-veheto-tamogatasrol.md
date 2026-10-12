@@ -1,0 +1,189 @@
+---
+title: "37/2020. (VII. 10.) AM rendelet a karácsonyfa-ültetvények után igénybe vehető támogatásról"
+identifier: "37/2020. (VII. 10.) AM rendelet"
+njt_id: "2020-37-20-7R"
+eli: "https://njt.jog.gov.hu/eli/R/2020/AM/37"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2020-07-10
+in_force_from: 2020-07-11
+last_amended: 2026-04-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-37-20-7R"
+retrieved: 2026-10-12
+---
+
+# 37/2020. (VII. 10.) AM rendelet a karácsonyfa-ültetvények után igénybe vehető támogatásról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1.[^1] *egy és ugyanazon vállalkozás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás;
+
+2.[^2] *fenyőnövény:* erdészeti szaporítóanyagnak vagy dísznövénynek nem minősülő, tőtől elválasztott módon, kereskedelmi forgalomba hozatal céljából termesztett, életképes közönséges lucfenyő (Picea abies), szerb luc (Picea omorika), az Abies nemzetség fajai, ezüstfenyő (Picea pungens glauca), fekete fenyő (Pinus nigra) vagy duglászfenyő (Pseudotsuga menziesii);
+
+3.[^3]
+
+4.[^4]
+
+5.[^5] *karácsonyfa-ültetvény:* legalább 0,25 hektár nagyságú, hálózatos rendszerben telepített, művelt kultúrállapotban lévő, fenyőnövénnyel ténylegesen fedett terület, amelynek maghatározása során az ültetvény fenyőnövénnyel beültetett területének fél sortávolsággal minden irányban megnövelt területnagyságát kell figyelembe venni;
+
+6.[^6]
+
+7.[^7]
+
+8.[^8] *tárgyév:* a támogatási kérelem benyújtásának naptári éve.
+
+9.[^9] *támogatás:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet [a továbbiakban: 1408/2013/EU bizottsági rendelet] hatálya alá tartozó támogatás.
+
+## 2.[^10] A támogatás formája és mértéke
+
+### 2. §
+
+(1)[^11] A karácsonyfa-termesztő (a továbbiakban: kérelmező) e rendelet alapján vissza nem térítendő támogatást igényelhet. Az e rendelet alapján nyújtott támogatás a 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásnak minősül.
+
+(2)[^12] A támogatás alapja a kérelmező 5. § (1) bekezdése szerinti támogatási kérelmében hektárban feltüntetett és fenyőnövénnyel ténylegesen fedett karácsonyfa-ültetvény nagysága.
+
+(3)[^13]
+
+(4)[^14] A támogatás mértéke hektáronként legfeljebb 73 000 forint.
+
+(5)[^15] A kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon három egymást követő év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelemmel az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésére is.
+
+(6)[^16] A mezőgazdasági csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(7)[^17] Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható azon kérelmező részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+
+(8)[^18] A támogatás halmozható azonos elszámolható költségek vonatkozásában vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl bármely csoportmentességi rendeletben vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális intenzitást vagy összeget.
+
+## 3.[^19] A támogatás keretösszege
+
+### 3. §[^20]
+
+A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Egyéb mezőgazdasági támogatások” jogcímén elkülönített keretösszeg, amelyet az agrárpolitikáért felelős miniszter közleményben határoz meg.
+
+## 4.[^21] A támogatás igénybevételének feltételei
+
+### 4. §[^22]
+
+A támogatás igénybevételére az a kérelmező jogosult, aki vagy amely
+
+a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a 28. § (3a) bekezdésének megfelelően a támogatási kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben kérelemre nyilvántartásba vett ügyfélként szerepel;
+
+b)[^23] a területet a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 44. § (7) bekezdésében meghatározott jogcímen jogszerűen használja;
+
+c) a támogatási kérelem benyújtásának időpontjában
+
+ca) nem áll felszámolási, végelszámolási, kényszertörlési eljárás vagy csődeljárás alatt,
+
+cb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglalt követelményeknek, és
+
+cc)[^24] vállalja, hogy a támogatott tevékenységét legalább tárgyév december 31-éig folytatja; valamint
+
+cd)[^25] megfelel a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában meghatározott feltételeknek; valamint,
+
+d)[^26] a támogatási kérelem benyújtásával egyidejűleg nyilatkozik a b) és c) pontban foglaltakról.
+
+## 5. A támogatási kérelem benyújtása
+
+### 5. §
+
+(1)[^27] A támogatási kérelem tárgyév április 15. és április 30. között elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül nyújtható be a Magyar Államkincstárhoz (a továbbiakban: Kincstár).
+
+(2) A tárgyévben egy kérelmező egy támogatási kérelmet nyújthat be.
+
+(3) A támogatási kérelem tartalmazza
+
+a) a kérelmező ügyfél-azonosítóját és
+
+b) a 4. § d) pontja szerinti nyilatkozatokat.
+
+c)[^28] a kérelmező által használt karácsonyfa-ültetvény hektárban meghatározott nagyságát és elhelyezkedését (vármegye, településnév, helyrajzi szám),
+
+d)[^29] a kérelmező nyilatkozatát a jogszerű földhasználatról.
+
+(4) Az eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
+
+(5)[^30] Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, akkor a meghatalmazott az elektronikus felületet használja az eljárási cselekmények elvégzéséhez. A meghatalmazott útján történő eljárás tekintetében a Kincstár vonatkozó közleményében foglaltakat kell alkalmazni.
+
+(6)[^31] A támogatási kérelem legkésőbb az (1) bekezdésben meghatározott határidő végéig, az elektronikus felületen keresztül módosítható. Módosítás esetén az utolsóként benyújtott támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosításra irányuló kérelem benyújtásának időpontja.
+
+## 6.[^32] A támogatási kérelem elbírálása és a támogatás kifizetése
+
+### 6. §
+
+(1)[^33]
+
+(2)[^34] A Kincstár a 4. §-ban foglaltak teljesülését és az 5. § (3) bekezdés c) pontja szerinti területadatokat adminisztratív úton, valamint a támogatás kifizetését megelőzően a kérelmezők legalább 5%-ára kiterjedően helyszíni ellenőrzés keretében vizsgálja.
+
+(3)[^35] A Kincstár az 1408/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében meghatározott értékhatárt meghaladó támogatási igényt elutasítja.
+
+(4)[^36] Ha a tárgyévi jogos igények együttesen meghaladják a 3. § szerinti miniszteri közleményben meghatározott keretösszeget, akkor a kérelmező részére megállapítható jogos támogatás összege a túllépés mértékével arányosan csökken.
+
+(5) A forintban meghatározott összegek euróra történő átszámításánál a támogatási kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyamot kell alkalmazni.
+
+## 7. Záró rendelkezések
+
+### 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 7/A. §[^37]
+
+E rendeletnek az egyes agrártárgyú támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 21/2021. (V. 20.) AM rendelettel megállapított 1. § 2. pontját és 4. § c) pont cc) alpontját a 2021. évben benyújtott támogatási kérelmekre kell alkalmazni.
+
+### 8. §[^38]
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+## 8. Módosító rendelkezések
+
+## 1. melléklet a 37/2020. (VII. 10.) AM rendelethez[^41]
+
+---
+
+[^1]: Az 1. § 1. pontját a 158/2022. (XII. 27.) AM rendelet 27. §-a hatályon kívül helyezte, újonnan a 7/2025. (IV. 10.) AM rendelet 62. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 2. pontja a 9/2021. (III. 12.) AM rendelet 5. § (1) bekezdésével megállapított, a 21/2021. (V. 20.) AM rendelet 11. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 3. pontját a 9/2021. (III. 12.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § 4. pontját a 7/2025. (IV. 10.) AM rendelet 69. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § 5. pontja a 9/2021. (III. 12.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 6. pontját a 9/2021. (III. 12.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § 7. pontját a 7/2025. (IV. 10.) AM rendelet 69. § b) pontja hatályon kívül helyezte.
+[^8]: Az 1. § 8. pontja a 9/2021. (III. 12.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. § 9. pontját a 158/2022. (XII. 27.) AM rendelet 22. § (2) bekezdése iktatta be, szövege a 7/2025. (IV. 10.) AM rendelet 62. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. alcím címe a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (2) bekezdése a 9/2021. (III. 12.) AM rendelet 6. §-ával megállapított, a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (3) bekezdését a 9/2021. (III. 12.) AM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^14]: A 2. § (4) bekezdése a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja szerint módosított szöveg. A 2. § (4) bekezdése a 7/2025. (IV. 10.) AM rendelet 63. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (5) bekezdését a 7/2025. (IV. 10.) AM rendelet 63. § (2) bekezdése iktatta be.
+[^16]: A 2. § (6) bekezdését a 7/2025. (IV. 10.) AM rendelet 63. § (2) bekezdése iktatta be.
+[^17]: A 2. § (7) bekezdését a 7/2025. (IV. 10.) AM rendelet 63. § (2) bekezdése iktatta be.
+[^18]: A 2. § (8) bekezdését a 7/2025. (IV. 10.) AM rendelet 63. § (2) bekezdése iktatta be.
+[^19]: A 3. alcím címe a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § a 16/2026. (IV. 9.) AM rendelet 43. §-ával megállapított szöveg.
+[^21]: A 4. alcím címe a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § a) pontja szerint módosított szöveg.
+[^22]: A 4. § nyitó szövegrésze a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § a) pontja szerint módosított szöveg.
+[^23]: A 4. § b) pontja a 9/2021. (III. 12.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^24]: A 4. § c) pont cc) alpontja a 21/2021. (V. 20.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^25]: A 4. § c) pont cd) alpontját a 7/2025. (IV. 10.) AM rendelet 64. § (1) bekezdése iktatta be.
+[^26]: A 4. § d) pontja a 7/2025. (IV. 10.) AM rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^27]: Az 5. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (1) bekezdésével megállapított szöveg. [Az 5. § (1) bekezdés c) pontjában a 7/2025. (IV. 10.) AM rendelet 68. § b) pontjával elrendelt módosítás, amely szerint a „nagyságát és elhelyezkedését (megye, blokkazonosító, táblasorszám), valamint” szövegrész helyébe a „nagyságát és elhelyezkedését (vármegye, településnév, helyrajzi szám),” szöveg lép, nem vezethető át.]
+[^28]: Az 5. § (3) bekezdés c) pontját a 9/2021. (III. 12.) AM rendelet 8. §-a iktatta be, szövege a 39/2025. (VIII. 13.) AM rendelet 1. §-a szerint módosított szöveg.
+[^29]: Az 5. § (3) bekezdés d) pontját a 9/2021. (III. 12.) AM rendelet 8. §-a iktatta be.
+[^30]: Az 5. § (5) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (6) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^32]: A 6. alcím címe a 16/2026. (IV. 9.) AM rendelet 44. § b) pontja szerint módosított szöveg.
+[^33]: A 6. § (1) bekezdését a 7/2025. (IV. 10.) AM rendelet 69. § c) pontja hatályon kívül helyezte.
+[^34]: A 6. § (2) bekezdése a 9/2021. (III. 12.) AM rendelet 9. §-ával megállapított, az 50/2021. (XII. 29.) AM rendelet 37. §-a, a 158/2022. (XII. 27.) AM rendelet 26. § d) pontja, a 7/2025. (IV. 10.) AM rendelet 68. § c) pontja szerint módosított szöveg.
+[^35]: A 6. § (3) bekezdése a 7/2025. (IV. 10.) AM rendelet 66. §-ával megállapított szöveg.
+[^36]: A 6. § (4) bekezdése a 16/2026. (IV. 9.) AM rendelet 44. § a) pontja szerint módosított szöveg.
+[^37]: A 7/A. §-t a 21/2021. (V. 20.) AM rendelet 10. §-a iktatta be.
+[^38]: A 8. § a 7/2025. (IV. 10.) AM rendelet 67. §-ával megállapított szöveg.
+[^41]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

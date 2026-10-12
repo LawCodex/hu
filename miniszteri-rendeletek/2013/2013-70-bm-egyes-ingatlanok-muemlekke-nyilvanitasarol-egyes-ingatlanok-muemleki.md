@@ -1,0 +1,541 @@
+---
+title: "70/2013. (XII. 16.) BM rendelet egyes ingatlanok műemlékké nyilvánításáról, egyes ingatlanok műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról"
+identifier: "70/2013. (XII. 16.) BM rendelet"
+njt_id: "2013-70-20-0A"
+eli: "https://njt.jog.gov.hu/eli/R/2013/BM/70"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2013-12-16
+in_force_from: 2013-12-19
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-70-20-0A"
+retrieved: 2026-10-12
+---
+
+# 70/2013. (XII. 16.) BM rendelet egyes ingatlanok műemlékké nyilvánításáról, egyes ingatlanok műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról
+
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés a) és n) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.)
+
+Korm. rendelet 37. § y) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Műemlékké nyilvánításra vonatkozó rendelkezések
+
+### 1. §
+
+(1)[^1] Műemlékké nyilvánítom a Bóly (Baranya vármegye), Szabadság u. 1/c. számú, 962 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1816–1817-ben klasszicista stílusban épített, a Batthyány-Montenouvo kastélyhoz tartozó tiszttartói ház (ún. kiskastély), gazdasági épület (istálló), kerti ház és falazott kerítés építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Bóly, 961, a 963, a 750/1, a 750/2, a 980/1 és a 982 helyrajzi számú ingatlant jelölöm ki.
+
+### 2. §
+
+(1) Műemlékké nyilvánítom a Budapest II. kerület, Csalán út 29. számú, 11886 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1923-ban Tauszig Béla tervei alapján, historizáló, késői szecessziós stílusban épített villa (Bartók Béla Emlékház) építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest II. kerület, 11876, a 11885 és a 11887 helyrajzi számú ingatlant jelölöm ki.
+
+### 3. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Apáczai Csere János utca 11. (Vigadó utca 2.) számú, 24474 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja a Magyar Királyi Folyam- és Tengerhajózási Rt. 1910–1913 között Kármán Géza Aladár és Ullmann Gyula tervei alapján épített székháza építészeti, belsőépítészeti, iparművészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24429/1, a 24429/2, a 24473/3, a 24475 és a 24476 helyrajzi számú ingatlant jelölöm ki.
+
+### 4. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Markó utca 22. (Bihari János utca 9.) számú, 24978 helyrajzi számú és a Markó u. 24. számú, 24979 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az Országos Mentőszolgálat Quittner Zsigmond tervei alapján historizáló stílusban épített székháza építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24942, a 24976, a 24980 és a 24981 helyrajzi számú ingatlant jelölöm ki.
+
+### 5. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Sas utca 20–22. számú, 24608 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1892–1894 között Nay Rezső tervei alapján, historizáló – neobarokk stílusban épített bérpalota építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24597, a 24598, a 24607, a 24609, a 24612/1 és a 24613/1 helyrajzi számú ingatlant jelölöm ki.
+
+### 6. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Szabadság tér 13. (Aulich utca 1., Perczel Mór utca 2.) számú, 24733 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1900–1901-ben Gyalus László tervei alapján, késő historizáló stílusban épített lakóház (egykori Sváb-ház) építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24726, a 24734, a 24739 és a 24741 helyrajzi számú ingatlant jelölöm ki.
+
+### 7. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Szabadság tér 15. (Honvéd utca 2., Vécsey utca 1.) számú,
+
+24720 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1900–1902 között Schannen Ernő tervei alapján késő historizáló stílusban épített lakó- és irodaház építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24716, a 24721, a 24724 és a 24726 helyrajzi számú ingatlant jelölöm ki.
+
+### 8. §
+
+(1) Műemlékké nyilvánítom a Budapest V. kerület, Szalay László utca 7. (Szemere utca 10.) számú, 24905 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1896-ban késő historizáló stílusban épített irodaépület (Budapesti Ügyvédi Kamara székháza) építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest V. kerület, 24904/3, a 24906 és a 24909 helyrajzi számú ingatlant jelölöm ki.
+
+### 9. §
+
+(1) Műemlékké nyilvánítom a Budapest XII. kerület, Béla király út 30/a. számú, 9534/8 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1887-ben Kallina Mór tervei alapján historizáló, neoreneszánsz stílusban épített Vuk-Gerbeaud-villa építészeti és belsőépítészeti értékeinek, valamint kertje kertépítészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+### 10. §
+
+(1) Műemlékké nyilvánítom a Budapest XII. kerület, Istenhegyi út 88. számú, 9648 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1903–1905 között Ybl Lajos tervei alapján historizáló stílusban épített,
+
+1923–1927 között Sebestyén Artúr tervei szerint neobarokk stílusban átépített Wagner-villa építészeti és belsőépítészeti értékeinek, valamint kertjének és melléképületeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest XII. kerület, 9647/2, a 9649/1 és a 9644/1 helyrajzi számú ingatlant jelölöm ki.
+
+### 11. §
+
+(1) Műemlékké nyilvánítom a Budapest XII. kerület, Zugligeti út 73. számú, 10825 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1891–1892-ben Weißenbacher Endre tervei alapján épített, historizáló stílusú villa építészeti, belsőépítészeti és iparművészeti, valamint parkja kertépítészeti értékeinek, továbbá kovácsoltvas kerítésének megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Budapest XII. kerület, 10826, a 10824 és a 10823 helyrajzi számú ingatlant jelölöm ki.
+
+### 12. §
+
+(1)[^2] Műemlékké nyilvánítom a Demecser (Szabolcs-Szatmár-Bereg vármegye), Gyár utca 0159/10 helyrajzi számú földrészleten álló víztornyot.
+
+(2) A védetté nyilvánítás célja az 1915–1918 között épített vasbeton víztorony építészeti és műszaki értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Demecser, 0159/10 helyrajzi számú ingatlan fennmaradó részét jelölöm ki.
+
+### 13. §
+
+(1)[^3] Műemlékké nyilvánítom a Dorog (Komárom-Esztergom vármegye), 1518/12 helyrajzi számú és a 1518/22 helyrajzi számú ingatlanon álló ún. Reimann-altáró (dorogi altáró) bejárati építményt, valamint az altárónak a bejárattól számított 20 méteres szakaszát.
+
+(2) A védetté nyilvánítás célja az 1915–1916-ban épített aknabejárat ipartörténeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Dorog, 1518/12 és az 1518/22 helyrajzi számú ingatlan műemlékként nem védett részét, valamint az 1514 helyrajzi számú ingatlant jelölöm ki.
+
+### 14. §
+
+(1)[^4] Az Eger (Heves vármegye), Dobó utca 30. számú, 5471 helyrajzi számú ingatlannak a 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel az egri vár erődrendszerének megőrzése érdekében megállapított védettségét fenntartva, műemlékké nyilvánítom az ingatlanon fekvő lakóházat és az ingatlanon nyíló pincerendszert.
+
+(2) A védetté nyilvánítás célja a barokk lakóház és pince építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket I. kategóriába sorolom.
+
+(4) Műemléki környezetnek az Eger, 5472, az 5473, az 5038, az 5039, az 5040 és az 5440 helyrajzi számú ingatlant jelölöm ki.
+
+### 15. §
+
+(1)[^5] Műemlékké nyilvánítom a Fót (Pest vármegye), Béke út 31. számú, 2825 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja a 20. század első évtizedében épített lakóház (Németh Kálmán Emlékház) építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Fót, 2826/2, a 2826/1 és a 2821 helyrajzi számú ingatlant jelölöm ki.
+
+### 16. §
+
+(1)[^6] Műemlékké nyilvánítom a Győr (Győr-Moson-Sopron vármegye), Kálvária utca mentén a Kálvária-műemlékegyütteshez vezető alábbi hat stációépítményt:
+
+a) a 3310/1 helyrajzi számú ingatlanon álló 1., 4. és 6. stációépítményt,
+
+b) a 3308/1 helyrajzi számú ingatlanon álló 2. és 3. stációépítményt,
+
+c) a 3282 helyrajzi számú ingatlanon álló 5. stációépítményt.
+
+(2) A védetté nyilvánítás célja az 1717–1718-ban épített stációépítmények építészeti és képzőművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Győr, 3282, a 3308/1 és a 3310/1 helyrajzi számú ingatlan műemlékként nem védett részét jelölöm ki.
+
+### 17. §
+
+(1)[^7] Műemlékké nyilvánítom a Hódmezővásárhely (Csongrád vármegye), 0784/2 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja kenyerei Károlyi-majorság 1805 körül klasszicista stílusban épített egykori gazdatiszti kúriája építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Hódmezővásárhely, 0776/3, a 0789/5 és a 0784/12 helyrajzi számú ingatlant jelölöm ki.
+
+### 18. §
+
+(1)[^8] Műemlékké nyilvánítom a Hódmezővásárhely (Csongrád vármegye), 01160/2 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az ingatlanon álló, 1906-ban épített egykori tanyasi iskola építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Hódmezővásárhely, 01160/1 és a 01160/3 helyrajzi számú ingatlant jelölöm ki.
+
+### 19. §
+
+(1)[^9] Műemlékké nyilvánítom a Kalaznó (Tolna vármegye), Fő utca 52. számú, 59 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja a 20. század első felében épített, városias jegyeket mutató parasztpolgári lakóépület és melléképületei (emeletes góré, pajta) építészeti és néprajzi értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Kalaznó, 58, a 60, a 169 és a 173 helyrajzi számú ingatlant jelölöm ki.
+
+### 20. §
+
+(1)[^10] Műemlékké nyilvánítom a Kisújszállás (Jász-Nagykun-Szolnok vármegye), Szabadság tér 1. számú, 1 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1899–1900-ban Módl Lajos tervei alapján, neobarokk stílusban épített városháza építészeti, belsőépítészeti, iparművészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Kisújszállás, 2, a 3, a 4 és az 5 helyrajzi számú ingatlant jelölöm ki.
+
+### 21. §
+
+(1)[^11] Műemlékké nyilvánítom a Nyíregyháza (Szabolcs-Szatmár-Bereg vármegye), Hősök tere 232 helyrajzi számú ingatlanon álló I. világháborús emlékművet.
+
+(2) A védetté nyilvánítás célja az 1928-ban Kisfaludi Strobl Zsigmond tervei alapján épített emlékmű művészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Nyíregyháza, 232 helyrajzi számú ingatlan műemlékként nem védett részét jelölöm ki.
+
+### 22. §
+
+(1)[^12] Műemlékké nyilvánítom a Paks (Tolna vármegye), 4283/2 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1988–1991 között Makovecz Imre tervei alapján, organikus stílusban épített római katolikus Szentlélek plébániatemplom építészeti, belsőépítészeti és képzőművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+### 23. §
+
+(1)[^13] Műemlékké nyilvánítom a Pilisszentiván (Pest vármegye), Szabadság út 87. számú, 3 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1753–1757 között barokk stílusban épített, 1838-ban toronnyal bővített római katolikus Boldogságos Szent Szűz plébániatemplom építészeti, belsőépítészeti és képzőművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Pilisszentiván, 1, a 4/2 és a 7 helyrajzi számú ingatlant jelölöm ki.
+
+### 24. §
+
+(1)[^14] Műemlékké nyilvánítom a Sárospatak (Borsod-Abaúj-Zemplén vármegye), Eötvös József utca 6. számú, 267 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1977–1983 között Makovecz Imre tervei alapján, organikus stílusban épített művelődési ház és könyvtár építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Sárospatak, 268 helyrajzi számú ingatlant jelölöm ki.
+
+### 25. §
+
+(1)[^15] Műemlékké nyilvánítom a Siófok (Somogy vármegye), Fő utca 220. számú, 6545/2 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja az 1987–1990 között Makovecz Imre tervei alapján, organikus stílusban épített evangélikus templom építészeti, belsőépítészeti és iparművészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Siófok, 6545/1, a 6545/3, a 6547/2 és a 6544 helyrajzi számú ingatlant jelölöm ki.
+
+### 26. §
+
+(1)[^16] Műemlékké nyilvánítom a Vác (Pest vármegye), vasútállomás alábbi épületeit:
+
+a) a 1829/47 helyrajzi számú ingatlanon álló felvételi épületet;
+
+b) a 1829/84 helyrajzi számú ingatlanon álló pályafenntartási épületet.
+
+(2) A védetté nyilvánítás célja a 19. század közepén épített, 1931-ben bővített vasútállomás-épületek vasúttörténeti és építészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemlékeket II. kategóriába sorolom.
+
+### 27. §
+
+(1)[^17] Műemlékké nyilvánítom a Vác (Pest vármegye), 3180 helyrajzi számú ingatlannak a 2131/6 helyrajzi számú közterületre (Köztársaság út) nyíló kőkapuzatát.
+
+(2) A védetté nyilvánítás célja a faragott kőből épített, háromnyílású, vasrácsos barokk kapuzat megőrzése.
+
+(3) A Vác, 3180 helyrajzi számú ingatlannak a 3190 helyrajzi számú közterületre (Káptalan utca) nyíló kőkapuzata műemléki védettségét fenntartom.
+
+(4) A Vác 3180 helyrajzi számú ingatlan (1) és a (3) bekezdésben meghatározott építményeken kívüli területének műemléki védettségét megszüntetem.
+
+(5) Az örökségvédelmi bírság szempontjából az (1) bekezdésben meghatározott műemlékeket III. kategóriába sorolom.
+
+### 28. §
+
+(1)[^18] Műemlékké nyilvánítom a Vejti (Baranya vármegye), 11/1 helyrajzi számú ingatlanon álló református templomot.
+
+(2) A védetté nyilvánítás célja az 1857-ben kései klasszicizáló stílusban épített református templom építészeti és belsőépítészeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket II. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Vejti, 11/1 helyrajzi számú ingatlan műemlékként nem védett részét, valamint a 10,
+
+a 11/2 és a 12 helyrajzi számú ingatlant jelölöm ki.
+
+### 29. §
+
+(1)[^19] Műemlékké nyilvánítom a Zalagyömörő (Veszprém vármegye), 13/9 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja a 18. század végén, barokk stílusban épített útmenti kőkereszt megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Zalagyömörő, 13/8 helyrajzi számú ingatlant jelölöm ki.
+
+### 30. §
+
+(1)[^20] Műemlékké nyilvánítom a Zebegény (Pest vármegye), Bartóky József utca 7. számú, 666 helyrajzi számú ingatlant.
+
+(2) A védetté nyilvánítás célja a Szőnyi István Emlékház építészeti és történeti értékeinek megőrzése.
+
+(3) Az örökségvédelmi bírság szempontjából a műemléket III. kategóriába sorolom.
+
+(4) Műemléki környezetnek a Zebegény, 658/7, a 659, a 665 és a 670/1 helyrajzi számú ingatlant jelölöm ki.
+
+## 2. Műemléki védettség megszüntetésére vonatkozó rendelkezések
+
+### 31. §[^21]
+
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Balatongyörök (Zala vármegye), 2041 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+### 32. §[^22]
+
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Balatongyörök (Zala vármegye), 2455 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+
+### 33. §
+
+(1) Az 1620-24/1951. VKM számú miniszteri döntéssel védetté nyilvánított, Budapest I. kerület, a védetté nyilvánítás időpontjában 14127 telekkönyvi helyrajzi számon, majd telekalakításokat követően 14126/1, 14126/3 és
+
+14126/4 helyrajzi számon nyilvántartott ingatlanok közül a 14126/1 és a 14126/3 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azokon műemléki érték nem található – megszüntetem.
+
+(2) A Budapest I. kerület, 14126/4 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 34. §
+
+A Budapest II. kerület, 13204/5 helyrajzi számú ingatlanon álló, az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelettel a Ganz Villamossági Gyár épületegyüttesének részeként védetté nyilvánított ún. melegpörgető és irodaszárny műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.
+
+### 35. §
+
+(1) A Budapest III. kerület, 19333/52 helyrajzi számú ingatlanon álló, az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló
+
+21/2004. (X. 12.) NKÖM rendelettel [a továbbiakban: 21/2004. (X. 12.) NKÖM rendelet] az Óbudai Gázgyár épületegyüttesének részeként védetté nyilvánított benzolfinomító műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.
+
+(2) A Budapest III. kerület, 19333/52 helyrajzi számú ingatlanon álló, a 21/2004. (X. 12.) NKÖM rendelettel védetté nyilvánított óbudai gázgyári szivattyúház műemléki védettsége továbbra is fennmarad azzal, hogy
+
+a 19333/52 helyrajzi számú ingatlan fennmaradó része műemléki környezetnek minősül.
+
+### 36. §
+
+(1) Az Országos Műemléki Felügyelőség 07759/1977. számú határozatával védetté nyilvánított, Budapest IV. kerület, a védetté nyilvánítás időpontjában a 70351 helyrajzi számon, majd telekalakításokat követően a 70351/1, a 70350/30 és a 70350/31 helyrajzi számon nyilvántartott ingatlanok közül a 70350/30 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Budapest IV. kerület, 70351/1 és a 70350/31 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 37. §
+
+(1)[^23] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Csopak (Veszprém vármegye), – telekalakítást követően – 1846/1 és a 1846/2 helyrajzi számon nyilvántartott ingatlanok közül
+
+a 1846/2 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Csopak, 1846/1 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 38. §[^24]
+
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Egyek (Hajdú-Bihar vármegye), 501 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+
+### 39. §[^25]
+
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Egyek (Hajdú-Bihar vármegye), 650 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+### 40. §[^26]
+
+Az Országos Műemléki Felügyelőség 7537/1990. számú határozatával védetté nyilvánított, Gyönk (Tolna vármegye), 190 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+
+### 41. §
+
+(1)[^27] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Környe (Komárom-Esztergom vármegye), a védetté nyilvánítás időpontjában 7 helyrajzi számon, majd telekalakításokat követően 2/1,
+
+7/2 és 8 helyrajzi számon nyilvántartott ingatlanok közül a 2/1 és a 8 helyrajzi számú ingatlan műemléki védettségét
+
+– tekintettel arra, hogy azokon műemléki érték nem található – megszüntetem.
+
+(2) A Környe, 7/2 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 42. §
+
+(1)[^28] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Kőszeg (Vas vármegye), a védetté nyilvánítás időpontjában 379 telekkönyvi helyrajzi számon, majd telekalakításokat követően 1960/1 és 1960/2 helyrajzi számon nyilvántartott ingatlanok közül az 1960/2 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Kőszeg, 1960/1 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 43. §[^29]
+
+Az Országos Műemléki Felügyelőség 671/5/1991. számú határozatával védetté nyilvánított, Kőszeg (Vas vármegye),
+
+3204 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+### 44. §[^30]
+
+Az egyes műemlékek védetté nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló
+
+12/1999. (VIII. 18.) NKÖM rendelettel védetté nyilvánított, Leányvár (Komárom-Esztergom vármegye), 474/1 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+### 45. §
+
+(1)[^31] Az Országos Műemléki Felügyelőség 3041/1989. számú határozatával védetté nyilvánított, Mátészalka (Szabolcs-Szatmár-Bereg vármegye), 3130 helyrajzi számú ingatlanon álló egykori rabbiház és az egykori cselédház műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+(2) A Mátészalka, 3130 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll a zsinagóga építészeti és történeti értékeinek megőrzése céljával.
+
+### 46. §
+
+(1)[^32] Az 1620-58-19/1950. VKM számú miniszteri döntéssel védetté nyilvánított, Pápa (Veszprém vármegye), a védetté nyilvánítás időpontjában 8040 telekkönyvi helyrajzi számon, majd telekalakításokat követően 1, 2/1, 2/2, 3, 5/1, 5/2, 5/3, 6403, 6405, 6406 helyrajzi számon nyilvántartott ingatlanok közül a 2/2 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Pápa, 1, a 2/1, a 3, az 5/1, az 5/2, az 5/3, a 6403, a 6405 és a 6406 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 47. §[^33]
+
+Az Országos Műemléki Felügyelőség 1853/1979. számú határozatával védetté nyilvánított, Szakály (Tolna vármegye), 384/1 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+### 48. §
+
+(1)[^34] Az Országos Műemléki Felügyelőség 15515/1986. számú határozatával védetté nyilvánított, Székesfehérvár (Fejér vármegye), a védetté nyilvánítás időpontjában 5538 helyrajzi számon, majd telekalakításokat követően 5538/2 és 5538/3 helyrajzi számon nyilvántartott ingatlanok közül az 5538/3 helyrajzi számú ingatlan műemléki védettségét
+
+– tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Székesfehérvár, 5538/2 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 49. §
+
+(1)[^35] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Szekszárd (Tolna vármegye), a védetté nyilvánítás időpontjában 2515 és 2519 telekkönyvi helyrajzi számon, majd telekalakításokat követően 1065/1 és 1065/2 helyrajzi számon nyilvántartott ingatlanok közül az 1065/1 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Szekszárd, 1065/2 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 50. §
+
+(1)[^36] Az 1600-17/1951. KM számú miniszteri döntéssel védetté nyilvánított, Szentendre (Pest vármegye), a védetté nyilvánítás időpontjában 412 telekkönyvi helyrajzi számon, majd telekalakításokat követően 1926/1 és
+
+1926/2 helyrajzi számon nyilvántartott ingatlanok közül az 1926/2 helyrajzi számú ingatlan műemléki védettségét
+
+– tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
+
+(2) A Szentendre, 1926/1 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.
+
+### 51. §
+
+(1)[^37] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Szentendre (Pest vármegye), 0231 helyrajzi számú ingatlan műemléki védettségét – a (2) bekezdésben meghatározott ingatlanrész kivételével – megszüntetem.
+
+(2) A Szentendre, 0231 helyrajzi számú ingatlanon található 19. századi műrom és az azt övező, az 1. mellékletben meghatározott ingatlanrész műemléki védettségét fenntartom.
+
+(3) A (2) bekezdés szerinti műemléki védelem célja a Hauszmann Alajos egykori nyaralójának kertjében – részben a budai várból származó kövekből – épített műrom megőrzése.
+
+### 52. §[^38]
+
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Veszprém (Veszprém vármegye), 849 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+
+## 3. Záró rendelkezések
+
+### 53. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő 3. napon lép hatályba.
+
+(2) Az 54. § (1)–(3) bekezdése a rendelet kihirdetését követő 15. napon lép hatályba.
+
+### 54. §
+
+(1)–(3)[^39]
+
+(4)–(6)[^40]
+
+## 1. melléklet a 70/2013. (XII. 16.) BM rendelethez
+
+Az 51. § (2) bekezdésében meghatározott ingatlanrész az alábbi EOV koordinátákkal jelzett ponttól számított 10 méteres sugarú kör területe:
+
+kör középpontja Y: 648423
+
+X: 260827
+
+## 2. melléklet a 70/2013. (XII. 16.) BM rendelethez[^41]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 12. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 13. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 14. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 15. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 16. § (1) bekezdés nyitó szövegrésze a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^7]: A 17. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 18. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 19. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 20. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 21. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 22. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^13]: A 23. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 24. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^15]: A 25. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^16]: A 26. § (1) bekezdés nyitó szövegrésze a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^17]: A 27. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^18]: A 28. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 29. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^20]: A 30. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 31. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^22]: A 32. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^23]: A 37. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^24]: A 38. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^25]: A 39. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^26]: A 40. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^27]: A 41. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^28]: A 42. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^29]: A 43. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^30]: A 44. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^31]: A 45. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^32]: A 46. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^33]: A 47. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^34]: A 48. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^35]: A 49. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^36]: Az 50. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^37]: Az 51. § (1) bekezdése a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^38]: Az 52. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^39]: Az 54. § (1)–(3) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: Az 54. § (4)–(6) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

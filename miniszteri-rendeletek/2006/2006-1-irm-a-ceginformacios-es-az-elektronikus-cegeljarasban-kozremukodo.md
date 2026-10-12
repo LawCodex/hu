@@ -1,0 +1,361 @@
+---
+title: "1/2006. (VI. 26.) IRM rendelet a Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat működéséről, valamint a céginformáció költségtérítéséről"
+identifier: "1/2006. (VI. 26.) IRM rendelet"
+njt_id: "2006-1-20-1U"
+eli: "https://njt.jog.gov.hu/eli/R/2006/IRM/1"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2006-06-26
+in_force_from: 2009-12-19
+last_amended: 2025-11-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-1-20-1U"
+retrieved: 2026-10-12
+---
+
+# 1/2006. (VI. 26.) IRM rendelet a Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat működéséről, valamint a céginformáció költségtérítéséről
+
+A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (Ctv.) 128. §-ának c) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
+
+## 1. §[^1]
+
+(1) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) felelősségi körébe tartozó Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat (a továbbiakban: céginformációs szolgálat) a Ctv. 1. § (2) bekezdés a) pontjában meghatározott, a cégjegyzékadatok és a cégiratok megismerését szolgáló céginformáció-szolgáltatási kötelezettségének az e rendeletben foglalt szabályok szerint tesz eleget.
+
+(2) A céginformációs szolgálat feladatait a miniszter az Országos Cégnyilvántartó és Céginformációs Rendszer útján látja el.
+
+(3) Az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zártkörűen Működő Részvénytársaság (a továbbiakban: MKIFK Zrt.) – a miniszterrel kötött közszolgáltatási szerződés alapján – közreműködik a céginformációs szolgálat ügyfélszolgálatának működtetésével kapcsolatos feladatok ellátásában.
+
+(4) Az MKIFK Zrt. közreműködése kiterjed
+
+a) az ügyfélszolgálati iroda működtetésére,
+
+b) a céginformációs szolgálathoz érkező kérelmek átvételére,
+
+c) a kérelmek tartalmának ellenőrzésére,
+
+d) a költségtérítés megfizetésének ellenőrzésére,
+
+e) a szolgáltatni kért cégjegyzékadatok és a cégiratok lekérdezésére az Országos Cégnyilvántartó és Céginformációs Rendszerből,
+
+f) az elektronikusan előállított, közokiratok továbbítására vagy papír alapú közokirattá alakítására,
+
+g) a papír alapúvá alakított közokirat kérelmező részére történő átadására, továbbá egyéb iratok kiadására,
+
+h) a számviteli törvény szerinti beszámoló fogadására, és
+
+i) a céginformációs szolgálattal összefüggő adminisztratív, kapcsolattartási és ügyviteli teendők ellátására.
+
+## 2. §
+
+(1)[^2] A céginformációs szolgálat papír alapon, illetve elektronikusan közokirat formájában ad céginformációt a cég
+
+a) cégjegyzékben szereplő egyes fennálló vagy törölt adatairól, a cégjegyzékben szereplő jogokról, illetve tényekről (a továbbiakban együtt: adat) cégbizonyítvány formájában, ideértve azt az esetet is, amikor a cég elnevezésének, székhelyének, statisztikai számjelének, adószámának és pénzforgalmi jelzőszámának hatályos és törölt adatairól kérnek céginformációt (névjegy);
+
+b)[^3] cégjegyzékben szereplő valamennyi fennálló adatáról (cégkivonat);
+
+c)[^4] cégjegyzékben szereplő valamennyi fennálló és törölt adatáról (cégmásolat).
+
+(1a)[^5] Az e rendelet szerint kiállított közokirat a miniszter által rendszeresített szervezeti bélyegzővel ellátva, elektronikus közokirati formában kerül legenerálásra az Országos Cégnyilvántartó és Céginformációs Rendszer által.
+
+(1b)[^6] Papíralapú közokirat kiállítása esetén az MKIFK Zrt. eljáró ügyintézője aláírással és a miniszter által biztosított bélyegzőlenyomattal látja el, valamint záradékkal hitelesíti annak tartalmát.
+
+(1c)[^7] A kiállított iratot, közokiratot, az MKIFK Zrt. eljáró ügyintézője továbbítja a kérelmező számára.
+
+(2) Az (1) bekezdésben meghatározott céginformáció – kérelemre – nem közokirati formában is kiadható.
+
+(3)[^8] A céginformációs szolgálattól az (1) bekezdésben foglaltakon túlmenően céginformáció kérhető arról, hogy az adott cégnév szerepel-e a cégnyilvántartásban, ideértve azt is, hogy az elnevezés a Ctv. 6. §-a alapján névfoglalás alatt áll-e.
+
+(4)[^9] A céginformációs szolgálat céginformációként a cégbírósághoz bejelentett kérelemben szereplő és elektronikus úton rögzített, de még el nem bírált adatról is tájékoztatást ad, feltüntetve, hogy az adat „bejegyzés alatt” áll.
+
+(5)[^10] A céginformációs szolgálat a Ctv. 15. § (1) bekezdése alapján céginformációként csak a cégjegyzékben szereplő fennálló vagy törölt, valamint még be nem jegyzett adataiba történő betekintést biztosítja.
+
+## 3. §[^11]
+
+A céginformációs szolgálattól céginformációként igényelhetők továbbá a cégre vonatkozó következő cégiratok, illetve végzések:
+
+a)[^12] a cég valamennyi, vagy a kérelmező által meghatározott, a cégbíróságon elektronikus okirat formájában nyilvántartott cégirata;
+
+b)[^13] a cég által a céginformációs szolgálathoz letétbe helyezés és közzététel céljából benyújtott beszámoló, illetve annak részei;
+
+c)[^14]
+
+d)[^15]
+
+## 4. §[^16]
+
+A céginformációs szolgálat – kérelemre – céginformációként elektronikus úton értesítést küld az egyes cégekre vonatkozó alábbi tényekről:
+
+a) a cégjegyzékbe történt bejegyzéséről (változásbejegyzéséről) szóló jogerős bírósági határozat meghozataláról,
+
+b) a Cégközlönyben közzétett valamennyi bírósági közlemény megjelenéséről.
+
+## 5. §
+
+(1)[^17] Céginformációként az adatok meghatározott szempontú csoportosítása is igényelhető (a továbbiakban: csoportosított céginformáció) a Ctv. 14. §-a rendelkezéseinek megfelelően. Csoportosított céginformáció kérhető továbbá a céginformációs szolgálat honlapján közzétételre került beszámolók egyes adatairól, egyes részeiről.
+
+(2) Ha a csoportosított céginformációt a Ctv. 14. §-ának (2) bekezdése alapján természetes személy vonatkozásában kérik, meg kell jelölni a jogcímet, valamint az azt megalapozó törvényhelyet, amelyre figyelemmel a csoportosított céginformáció teljesíthető. Törvényes jogcím hiányában a céginformáció csak az érintett személy közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájárulása esetén adható ki.
+
+## 6. §
+
+(1)[^18] A céginformáció iránti kérelmet papír alapú vagy elektronikus nyomtatványon kell benyújtani a céginformációs szolgálathoz. A nyomtatvány a céginformációs szolgálat honlapján, illetve papír alapú formában a céginformációs szolgálat ügyfélszolgálati irodájában áll rendelkezésre. A céginformáció iránti kérelem elektronikus úton a személyre szabott ügyintézési felület útján is benyújtható.
+
+(2)[^19] A nyomtatvány személyesen – az ügyfélszolgálati irodában félfogadási időben – vagy postai, illetve elektronikus úton nyújtható be.
+
+(3)[^20] A 4. § szerinti kérelmet elektronikus úton, legalább fokozott biztonságú elektronikus aláírással ellátva kell a céginformációs szolgálathoz megküldeni. A kérelemben – az azonosítására alkalmas adatok közlésével (cégnév, székhely, cégjegyzékszám) – meg kell jelölni a céget, amely tekintetében a céginformációt kérik, és hónapokban meg kell határozni azt az időszakot is, amelyre vonatkozóan a céginformációt kérik.
+
+(4)[^21] Az 5. § szerinti céginformáció iránti kérelmet kizárólag a céginformációs szolgálat honlapján megtalálható, e célra rendszeresített nyomtatvány útján lehet benyújtani.
+
+## 7. §
+
+(1)[^22] A céginformációs szolgálat a kért céginformációt – a Ctv. 15. § (3) bekezdésében meghatározott kivétellel – az e rendelet szerinti költségtérítés megfizetésének igazolását követően adja ki. A költségtérítést az Igazságügyi Minisztérium 10032000-01810039-00000000 számú számlájára kell megfizetni. A befizető egyértelmű azonosítása érdekében a készpénz-befizetési utalvány vagy az átutalási megbízás „közlemény” rovatában fel kell tüntetni a befizetés jogcímét (céginformáció költségtérítése), valamint ha a befizető cég, a cégjegyzékszámát is. A költségtérítés elektronikus úton történő megfizetésének részletes szabályait rendelet állapítja meg.
+
+(2) E rendelet 11. és 12. §-ában meghatározott esetekben a költségtérítés megfizetésének módja az (1) bekezdésben foglaltaktól eltér.
+
+(3)[^23] A céginformáció költségtérítése a kérelem ügyfélszolgálati irodában történő benyújtásakor bankkártyával is megfizethető.
+
+(4)[^24] A céginformáció iránti kérelem elektronikus úton történő benyújtása esetén a költségtérítést elektronikus úton kell megfizetni a Ctv. 37. §-ának (4) bekezdésében, valamint az illeték és a közzétételi költségtérítés elektronikus úton történő megfizetéséről a cégeljárásban és más cégügyekben szóló rendeletben foglaltak szerint. A befizetés teljesítésére vonatkozó igazolást a kérelemmel együtt kell a céginformációs szolgálathoz elektronikus úton megküldeni.
+
+## 8. §
+
+(1)[^25] A céginformációs szolgálat a céginformációt – az ügyfél kérésének megfelelően – postai úton vagy elektronikus úton küldi meg, illetve az személyesen is átvehető.
+
+(2)[^26] Ha a céginformációs szolgálat a Ctv. 17. §-ának (1) bekezdése szerint jár el, a 2. és 3. § szerinti céginformációt elektronikus úton küldi meg.
+
+(3)[^27]
+
+(4)[^28] A céginformációs szolgálat a céginformációt a személyre szabott ügyintézési felület útján küldi meg, amennyiben a kérelmet a kormányzati portálon keresztül nyújtották be.
+
+## 9. §
+
+(1) A céginformációért
+
+a)[^29] a 2. § (1) bekezdésének a) pontjában megjelölt esetben 2300 Ft-ot, illetve névjegyenként 1700 Ft-ot,
+
+b)[^30] a 2. § (1) bekezdésének b) pontjában megjelölt esetben cégenként 3400 Ft-ot,
+
+c)[^31] a 2. § (1) bekezdésének c) pontjában megjelölt esetben cégenként 5700 Ft-ot,
+
+d)[^32] a 2. § (2) bekezdésében megjelölt esetben cégbizonyítványonként 700 Ft-ot, névjegyenként 350 Ft-ot, cégkivonatonként 1000 Ft-ot, valamint cégmásolatonként 1700 Ft-ot,
+
+e)[^33] a 2. § (3) bekezdésében megjelölt esetben cégenként 1200 Ft-ot,
+
+f)[^34] a 3. § a) pontjában meghatározott esetben cégiratonként 1700 Ft-ot,
+
+g)[^35] a 3. § b) pontjában meghatározott esetben beszámolónként 4600 Ft-ot, a beszámoló egyes részeinként 2300 Ft-ot, amennyiben elektronikus úton kérik, cégiratonként 550 Ft-ot,
+
+h)[^36]
+
+i)[^37]
+
+j)[^38]
+
+kell költségtérítésként megfizetni.
+
+(2) A költségtérítés nem igényelhető vissza, ha a céginformációt nem veszik át.
+
+(3)[^39] Ingyenes a 4. §-ban meghatározott céginformáció, ha azt a cég a rá vonatkozó tények tekintetében kéri, valamint ha az értesítés megküldését legfeljebb tíz cégre vonatkozóan kérik. Ettől eltérő esetben a 4. §-ban meghatározott céginformációért cégenként havi 35 Ft-ot kell költségtérítésként megfizetni.
+
+(4)[^40] Az (1) bekezdés a)–g) pontok szerinti költségtérítést nem kell megfizetni, ha a céginformációt – igazoltan – a cég tagja vagy képviselője kéri.
+
+## 9/A. §[^41]
+
+(1) A Ctv. 17/A. §-ban meghatározott cégadatokat az Európai Bizottság által üzemeltetett európai igazságügyi portálon (a továbbiakban: e-Justice portál) keresztül – keresőprogram segítségével – a céginformációs szolgálat cégbizonyítvány formájában biztosítja.
+
+(2) Az EUID-val rendelkező cég létesítő okiratához (létesítő okirat módosítása, egységes szerkezetű létesítő okirat) való hozzáférés az e-Justice portálon keresztül
+
+a) a cégiratnak a céginformációs szolgálat által a kérelmező által megadott elektronikus címre történő megküldésével, vagy
+
+b) a cégbíróságnak a cégjegyzék részét képező számítógépes nyilvántartásából (elektronikus irattár) a kérelmező általi kiválasztása útján
+
+biztosított.
+
+(3) Az EUID-val rendelkező cég beszámolójának egyes részei az e-Justice portálon keresztül külön nem kérhetőek.
+
+(4) Az e-Justice portálon keresztül hozzáférhető az EUID-val rendelkező cég cégkivonata, továbbá – a (2) bekezdés szerinti módon – a cég elektronikus irattárban tárolt bármely irata.
+
+(5) Az e-Justice portálon keresztül hozzáférhető céginformációért – közokirati és nem közokirati formára tekintet nélkül egyaránt –
+
+a)[^42] az (1) bekezdés szerinti esetben 2300 Ft,
+
+b)[^43] a létesítő okirat (létesítő okirat módosítása, egységes szerkezetű létesítő okirat), továbbá az elektronikus irattárban tárolt irat esetében a (2) bekezdés a) pontja szerinti esetben – cégiratonként – 3400 Ft, a (2) bekezdés b) pontja szerinti esetben – cégiratonként – 1700 Ft,
+
+c)[^44] a beszámoló esetében 4600 Ft,
+
+d)[^45] cégkivonat esetében 3400 Ft
+
+közzétételi költségtérítést kell fizetni azzal, hogy az esetlegesen felmerülő általános forgalmi adót ezen összeg nem tartalmazza.
+
+(6)[^46] Az e-Justice portálon keresztül ingyenesen ismerhető meg a korlátolt felelősségű társaságnak, a részvénytársaságnak, az európai részvénytársaságnak
+
+a) a Ctv. 24. § (1) bekezdés b) pontjában, valamint a 25. § (1) bekezdés a) és b) pontjában meghatározott adata,
+
+b) a Ctv. 24. § (1) bekezdés c) pontjában meghatározott adata,
+
+c) a Ctv. 24. § (1) bekezdés a) pontjában, 27. § (3) bekezdés f) pontjában, 27. § (4) bekezdés a) pont ad) alpontjában, a 28. § (2) bekezdés a) pont ad) alpontjában meghatározott adata,
+
+d) a Ctv. 26. § (1) bekezdés a)–e), valamint n) pontjában meghatározott adata,
+
+e) a Ctv. 24. § (1) bekezdés g) és h) pontjában meghatározott adata,
+
+f) a főtevékenysége,
+
+g) az Európai Unió más tagállamában bejegyzett fióktelepének a neve, a nyilvántartási száma, az EUID-ja és a fióktelep bejegyzésének helye szerinti tagállam, valamint
+
+h) ha azt a cégjegyzék tartalmazza, a honlapjára vonatkozó adata.
+
+## 9/B. §[^47]
+
+(1) A céginformációs szolgálat a cegportal.im.gov.hu portálján (a továbbiakban: céginformációs portál) a cégjegyzékben szereplő, a 2. § (1) bekezdésében meghatározott adatokról – a költségtérítés egyidejű megfizetése mellett – azonnali elektronikus céginformációt is biztosít.
+
+(2) Az (1) bekezdés szerinti esetben a költségtérítés megfizetésére az Elektronikus Fizetési és Elszámolási Rendszer segítségével kerül sor.
+
+## 10. §
+
+(1)[^48]
+
+(2)[^49]
+
+(3)[^50] Ha a Ctv. 15. § (2) bekezdése szerinti céginformációt elektronikus úton kérik, a 9. § (1) bekezdésében meghatározott költségtérítést kell megfizetni.
+
+(4)[^51]
+
+(5)[^52] A céginformációs szolgálat a Ctv. 63. §-ának (1) bekezdésében meghatározott szervezeteknek – kérésükre – elektronikus úton rendelkezésre bocsátja az általuk megjelölt cégjegyzékadatok változását. Ebben az esetben csak a számítógépes rendszer használatának költségét kell megtéríteni.
+
+## 11. §[^53]
+
+A céginformáció – ideértve a beszámolókhoz való közvetlen hozzáférés lehetőségét is – az igazságügyért felelős miniszter által vezetett minisztériummal kötött megállapodás alapján a céginformációs szolgálat számítógépes hálózata útján is kérhető. Ebben az esetben a Ctv. 15. § (2) bekezdése szerinti kérelmezőnek minősül az e megállapodás alapján információt kérő is. A céginformációért a számítógépes rendszer használatának költsége mellett a céginformáció fajtájától függően a 9. § (1) bekezdésében meghatározott költségtérítés 30%-át kell költségtérítésként megtéríteni. Elektronikus közokirat kiadása esetén a 9. § (1) bekezdésében meghatározott költségtérítés 60%-át kell költségtérítésként megfizetni. A megállapodás általános szerződési feltételei a céginformációs szolgálat honlapján kerülnek közzétételre.
+
+## 12. §[^54]
+
+Az 5. § szerinti csoportosított céginformációért a céginformációs szolgálat honlapján közzétett – a kért adatok mennyiségétől, illetve a csoportosítás jellegétől függő – költségtérítést kell fizetni.
+
+## 13. §
+
+(1)[^55] A cég számviteli törvény szerinti beszámolóját a Ctv. 18. §-ában foglaltak szerint elektronikus úton kell a céginformációs szolgálat részére megküldeni.
+
+(2)[^56]
+
+(3)[^57]
+
+(4)[^58]
+
+(5)[^59]
+
+## 14. §[^60]
+
+A céginformációs szolgálat a céginformáció szolgáltatása mellett
+
+a) a Ctv. 1. §-a (2) bekezdésének b) pontja szerinti nemperes eljárásokban biztosítja az elektronikus ügyintézést támogató rendszer üzemeltetését, és
+
+b)[^61]
+
+c)[^62] megteszi a szükséges intézkedéseket annak érdekében, hogy a személyre szabott ügyintézési felületen az online alapításhoz használható szerződésminta, valamint a cégalapítással kapcsolatos tájékoztató magyar és angol nyelven közzétételre kerüljön.
+
+## 15. §
+
+(1) E rendelet – a (2) bekezdésben foglalt kivétellel – 2006. július 1. napján lép hatályba. Rendelkezéseit a hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(2) A 7. § (3) bekezdése 2007. január 1. napján lép hatályba.
+
+(3)[^63]
+
+(4)[^64]
+
+(5)[^65]
+
+(6)[^66]
+
+(7)[^67]
+
+(8)[^68]
+
+## 16. §[^69]
+
+Ez a rendelet a 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK európai parlamenti és tanácsi irányelvnek a központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolása tekintetében történő módosításáról szóló, 2012. június 13-i 2012/17/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 17. §[^70]
+
+Ez a rendelet az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, valamint 16. cikk (6) bekezdését megállapító rendelkezéseit.
+
+## 1. számú melléklet az 1/2006. (VI. 26.) IRM rendelethez[^71]
+
+## 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelethez[^72]
+
+## 3. számú melléklet az 1/2006. (VI. 26.) IRM rendelethez[^73]
+
+---
+
+[^1]: Az 1. § a 14/2025. (XI. 13.) IM rendelet 3. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés bevezető szövegrésze a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 24/2018. (VIII. 31.) IM rendelet 8. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés c) pontja a 24/2018. (VIII. 31.) IM rendelet 8. §-a szerint módosított szöveg.
+[^5]: A 2. § (1a) bekezdését a 14/2025. (XI. 13.) IM rendelet 4. §-a iktatta be.
+[^6]: A 2. § (1b) bekezdését a 14/2025. (XI. 13.) IM rendelet 4. §-a iktatta be.
+[^7]: A 2. § (1c) bekezdését a 14/2025. (XI. 13.) IM rendelet 4. §-a iktatta be.
+[^8]: A 2. § (3) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 3. § bevezető szövegrésze a 67/2009. (XII. 18.) IRM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. § a) pontjának az „a d) pontban foglalt kivétellel” szövegrésze e rendelet 15. § (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^13]: A 3. § b) pontja a 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 4. § (2) bekezdésének a) pontja, a 67/2009. (XII. 18.) IRM rendelet 4. § (3) bekezdése, a 31/2019. (XII. 20.) IM rendelet 6. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § c) pontja e rendelet 15. § (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^15]: A 3. § d) pontja e rendelet 15. § (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^16]: A 4. § bevezető szövegrésze a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdése a 39/2015. (XII. 21.) IM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1) bekezdése a 29/2011. (IX. 29.) KIM rendelet 3. §-ával megállapított, a 39/2015. (XII. 21.) IM rendelet 5. § (4) bekezdés a) pontja, a 29/2016. (XII. 27.) IM rendelet 10. §-a szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdése a 39/2015. (XII. 21.) IM rendelet 5. § (4) bekezdés b) pontja, a 30/2022. (XII. 22.) IM rendelet 6. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (2) bekezdése, a 39/2015. (XII. 21.) IM rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 6. § (4) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 7. § (1) bekezdése a 31/2019. (XII. 20.) IM rendelet 2. §-ával megállapított szöveg.
+[^23]: A 7. § (3) bekezdése e rendelet 15. § (2) bekezdése alapján 2007. január 1. napján lépett hatályba.
+[^24]: A 7. § (4) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^25]: A 8. § (1) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése, a 30/2022. (XII. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
+[^26]: A 8. § (2) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^27]: A 8. § (3) bekezdése e rendelet 15. § – a Magyar Közlöny 2006. évi 81. számában megjelent helyesbítésnek megfelelő – (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^28]: A 8. § (4) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése, a 29/2016. (XII. 27.) IM rendelet 10. §-a szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés a) pontja a 11/2023. (VII. 20.) IM rendelet 10. § a) pontja szerint módosított szöveg.
+[^30]: A 9. § (1) bekezdés b) pontja a 11/2023. (VII. 20.) IM rendelet 10. § b) pontja szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdés c) pontja a 11/2023. (VII. 20.) IM rendelet 10. § c) pontja szerint módosított szöveg.
+[^32]: A 9. § (1) bekezdés d) pontja a 31/2019. (XII. 20.) IM rendelet 6. § b) pontja, a 11/2023. (VII. 20.) IM rendelet 10. § d) pontja szerint módosított szöveg.
+[^33]: A 9. § (1) bekezdés e) pontja a 11/2023. (VII. 20.) IM rendelet 10. § e) pontja szerint módosított szöveg.
+[^34]: A 9. § (1) bekezdés f) pontja a 11/2023. (VII. 20.) IM rendelet 10. § f) pontja szerint módosított szöveg.
+[^35]: A 9. § (1) bekezdés g) pontját a 39/2015. (XII. 21.) IM rendelet 5. § (4) bekezdés c) pontja hatályon kívül helyezte, újonnan a 22/2016. (XI. 15.) IM rendelet 4. § (1) bekezdése iktatta be, szövege a 11/2023. (VII. 20.) IM rendelet 10. § g) pontja szerint módosított szöveg.
+[^36]: A 9. § (1) bekezdésének h) pontja e rendelet 15. § (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^37]: A 9. § (1) bekezdésének i) pontja e rendelet 15. § (4) bekezdése alapján 2007. szeptember 30. napján hatályát vesztette.
+[^38]: A 9. § (1) bekezdés j) pontját a 11/2023. (VII. 20.) IM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^39]: A 9. § (3) bekezdése a 11/2023. (VII. 20.) IM rendelet 8. §-ával megállapított szöveg.
+[^40]: A 9. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 5. § (2) bekezdése iktatta be, szövege a 22/2016. (XI. 15.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^41]: A 9/A. §-t a 6/2017. (VI. 1.) IM rendelet 9. §-a iktatta be.
+[^42]: A 9/A. § (5) bekezdés a) pontja a 11/2023. (VII. 20.) IM rendelet 10. § h) pontja szerint módosított szöveg.
+[^43]: A 9/A. § (5) bekezdés b) pontja a 11/2023. (VII. 20.) IM rendelet 10. § i) pontja szerint módosított szöveg.
+[^44]: A 9/A. § (5) bekezdés c) pontja a 11/2023. (VII. 20.) IM rendelet 10. § j) pontja szerint módosított szöveg.
+[^45]: A 9/A. § (5) bekezdés d) pontja a 11/2023. (VII. 20.) IM rendelet 10. § k) pontja szerint módosított szöveg.
+[^46]: A 9/A. § (6) bekezdését a 6/2022. (IV. 4.) IM rendelet 6. §-a iktatta be.
+[^47]: A 9/B. §-t a 31/2019. (XII. 20.) IM rendelet 3. §-a iktatta be.
+[^48]: A 10. § (1) bekezdését a 47/2007. (X. 20.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^49]: A 10. § (2) bekezdését a 47/2007. (X. 20.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^50]: A 10. § (3) bekezdése a 31/2019. (XII. 20.) IM rendelet 4. §-ával megállapított, a 11/2023. (VII. 20.) IM rendelet 11. § b) pontja szerint módosított szöveg.
+[^51]: A 10. § új (4) bekezdését a 47/2007. (X. 20.) IRM rendelet 6. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 31/2019. (XII. 20.) IM rendelet 6. § c) pontja.
+[^52]: A 10. § eredeti (4) bekezdésének számozását a 47/2007. (X. 20.) IRM rendelet 6. § (3) bekezdése (5) bekezdésre változtatta, szövege a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^53]: A 11. § a 31/2019. (XII. 20.) IM rendelet 5. §-ával megállapított szöveg.
+[^54]: A 12. § a 11/2023. (VII. 20.) IM rendelet 9. §-ával megállapított szöveg.
+[^55]: A 13. § (1) bekezdése a 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 4. § (2) bekezdésének b) pontja, a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^56]: A 13. § (2) bekezdését a 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 4. § (5) bekezdése hatályon kívül helyezte.
+[^57]: A 13. § (3) bekezdését a 39/2015. (XII. 21.) IM rendelet 5. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^58]: A 13. § (4) bekezdését a 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 4. § (5) bekezdése hatályon kívül helyezte.
+[^59]: A 13. § (5) bekezdését a 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 4. § (5) bekezdése hatályon kívül helyezte.
+[^60]: A 14. § bevezető szövegrésze a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^61]: A 14. § b) pontját a 11/2023. (VII. 20.) IM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^62]: A 14. § c) pontját a 6/2022. (IV. 4.) IM rendelet 7. §-a iktatta be.
+[^63]: A 15. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^64]: A 15. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^65]: A 15. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^66]: A 15. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^67]: A 15. § (7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^68]: A 15. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^69]: A 16. §-t a 6/2017. (VI. 1.) IM rendelet 10. §-a iktatta be.
+[^70]: A 17. §-t a 6/2022. (IV. 4.) IM rendelet 8. §-a iktatta be.
+[^71]: Az 1. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^72]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^73]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.

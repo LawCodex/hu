@@ -1,0 +1,1993 @@
+---
+title: "15/2013. (II. 26.) EMMI rendelet a pedagógiai szakszolgálati intézmények működéséről"
+identifier: "15/2013. (II. 26.) EMMI rendelet"
+njt_id: "2013-15-20-5H"
+eli: "https://njt.jog.gov.hu/eli/R/2013/EMMI/15"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2013-02-26
+in_force_from: 2013-03-01
+last_amended: 2025-08-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-15-20-5H"
+retrieved: 2026-10-12
+---
+
+# 15/2013. (II. 26.) EMMI rendelet a pedagógiai szakszolgálati intézmények működéséről
+
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (1) bekezdés h) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §[^1]
+
+E rendelet alkalmazásában:
+
+1.[^2] *a szakértői bizottság vezetője:* az Intézmény szakértői bizottságként eljáró tagintézményének igazgatója, valamint a székhelyintézmény esetében a székhelyintézmény által ellátott szakmai feladatok végrehajtását irányító főigazgató-helyettes,
+
+2.[^3] *feladatellátási kötelezettség:* a működési körzethez igazodó kötelezettség, amely alapján az Intézmény székhelyintézménye, tagintézménye köteles ellátni a működési körzetében lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező, vagy működési körzetében intézményes ellátásban részesülő tanulókat, képzésben részt vevő személyeket (a továbbiakban együtt: tanuló), gyermekeket,,
+
+3.[^4] *gyógypedagógus szakképzettség:*
+
+a)[^5] főiskolai szintű, alapfokozatú gyógypedagógus szakképzettség:
+
+*aa)* a gyógypedagógus,
+
+*ab)* a gyógypedagógiai tanár és
+
+*ac)* a gyógypedagógiai terapeuta
+
+szakképzettség,
+
+b)[^6] egyetemi szintű, mesterfokozatú gyógypedagógus szakképzettség:
+
+*ba)*[^7] a speciális pedagógiai szakos tanár és szakpedagógus szakképzettség, valamint az a) pontban foglalt szakképzettség együttes megléte,
+
+*bb)*[^8] az okleveles gyógypedagógus,
+
+*bc)*[^9] az okleveles gyógypedagógia-tanár és
+
+*bd)*[^10] az okleveles logopédus
+
+szakképzettség,
+
+4.[^11] *Intézmény:* vármegyénként és a fővárosban egy, a székhelyintézménye szerint illetékes tankerületi központ (a továbbiakban: tankerületi központ) által fenntartott, járásonként legalább egy tagintézményből álló pedagógiai szakszolgálati intézmény, amely a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladatra kiterjedően az állami köznevelési közszolgálati feladatellátás keretében a pedagógiai szakszolgálatokat ellátja,
+
+5\. *járás:* a járás és a fővárosi kerület,
+
+6.[^12] *járási tagintézmény:* olyan, járásonként szervezett feladatellátási hely, amely a vármegyében, a fővárosban, valamennyi járásban, az adott járásra kiterjedő működési körzettel – az e rendeletben foglalt kivételekkel – az Nkt. 18. § (2) bekezdésében felsorolt összes pedagógiai szakszolgálati feladatot és az e rendeletben, valamint a pedagógiai szakszolgálati intézmény szervezeti és működési szabályzatában meghatározottak szerint a tagintézmény szintjén irányítási, képviseleti, szakmai feladatot lát el,
+
+7\. *klinikai szakvizsga:*
+
+a) a szakpszichológus képzésről szóló 10/1981. (VIII. 6.) MM–EüM együttes rendelet és a klinikai pszichológusok és a klinikai gyermekpszichológusok szakképzéséről és továbbképzéséről szóló 14/1981. (XI. 4.) EüM rendelet (a továbbiakban együtt: MM és EÜM rendelet) alapján szerzett klinikai pszichológia,
+
+b) a klinikai és mentálhigiéniai felnőtt szakpszichológia és
+
+c) a felnőtt klinikai és mentálhigiéniai szakpszichológia [az *a)–c)* pont alattiak a továbbiakban együtt: klinikai és mentálhigiénés (felnőtt) szakpszichológus],
+
+d) az MM és EÜM rendelet alapján szerzett klinikai gyermekpszichológia,
+
+e) a klinikai és mentálhigiéniai gyermek- és ifjúsági szakpszichológia és
+
+f) a gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia [a *d)–f)* pont alattiak a továbbiakban együtt: klinikai gyermek szakpszichológus]
+
+szakvizsga,
+
+8.[^13] *konduktor szakképzettség:*
+
+a) főiskolai szintű, alapfokozatú konduktor szakképzettség:
+
+aa) a konduktor,
+
+ab) a konduktor-tanító,
+
+ac) a konduktor-óvodapedagógus,
+
+ad) a konduktor (óvodapedagógus vagy tanító szakiránnyal),
+
+ae) a konduktor (óvodapedagógus vagy tanító specializációval),
+
+af) a konduktor (óvodai, iskolai vagy pedagógiai rehabilitáció specializációval)
+
+szakképzettség,
+
+b) egyetemi szintű, mesterfokozatú konduktor szakképzettség:
+
+ba) a speciális pedagógiai szakos tanár és szakpedagógus szakképzettség, ha az a) pont aa)–af) alpontjában foglalt szakképzettségre épül, és
+
+bb) az okleveles konduktortanár szakképzettség,
+
+9.[^14] *vármegyei, fővárosi tagintézmény:* olyan feladatellátási hely, amely a vármegyében, a fővárosban egyes pedagógiai szakszolgálati feladatokat több járásra kiterjedő működési körzettel lát el,
+
+10.[^15]
+
+11\. *óvoda- és iskola szakvizsga:*
+
+a) óvoda- és iskolapszichológia,
+
+b) óvoda- és iskola-szakpszichológia
+
+szakvizsga,
+
+12.[^16] *szakosított tagintézmény:* olyan tagintézmény, amely a székhelyintézmény vagy más tagintézmény egyes feladatait látja el,
+
+13.[^17] *székhelyintézmény:* az Intézmény szakmai irányítást és koordinálást végző, valamint vármegyei, fővárosi működési körzettel szakértői bizottsági feladatokat is ellátó feladatellátási helye, ahol az Intézmény képviseleti jogának gyakorlására jogosult főigazgató munkahelye található,
+
+14\. *tagintézmény:* az Nkt. 4. § 28. pontja szerinti intézményegység,
+
+15.[^18] *neuropszichológiai szakvizsga:*
+
+a) neuropszichológia,
+
+b) neuroszakpszichológia
+
+szakvizsga.
+
+## 2. A rendelet hatálya
+
+### 2. §[^19]
+
+A rendelet hatálya kiterjed
+
+a) az Nkt. 7. § (1) bekezdés k) pontja szerinti pedagógiai szakszolgálati intézményekre,
+
+b) az egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmények pedagógiai szakszolgálati feladatokat ellátó – az Nkt. 20. § (9) bekezdése alapján létrehozott – szervezeti és szakmai tekintetben önálló intézményegységeire,
+
+c)[^20] az Nkt. 7. § (1) bekezdés a)–f) és i)–j) pontjában foglalt köznevelési intézményekre és az Nkt. 20. § (1) bekezdésében meghatározott többcélú köznevelési intézményekre, továbbá a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 16. § (1) bekezdése szerinti szakképző intézményekre, az Szkt. 18. §-ában meghatározott többcélú szakképző intézményekre és az Szkt. 26. §-ában meghatározott szakképzési centrumokra,
+
+d)[^21] a pedagógiai szakszolgálati tevékenység keretében ellátásban részesülő gyermekekre, tanulókra, továbbá a szakszolgálati ellátást kérelmező vagy kezdeményező személyekre és intézményekre,
+
+e)[^22] a pedagógus, az oktató, valamint a nevelő és oktató munkát közvetlenül segítő munkakörben alkalmazottakra, az óraadókra, valamint a köznevelési intézményben, szakképző intézményben nem pedagógus, nem oktató munkakört betöltőkre (a továbbiakban együtt: alkalmazottak),
+
+f)[^23] a gyermekek, a tanulók törvényes képviselőire (a továbbiakban: szülő),
+
+g) a tankerületi központra és az oktatási központra,
+
+h)[^24] a fővárosi és vármegyei kormányhivatalokra (a továbbiakban: kormányhivatal),
+
+i) az Eötvös Loránd Tudományegyetem Gyakorló Országos Pedagógiai Szakszolgálatra (a továbbiakban: Gyakorló Szakszolgálat),
+
+j) az Oktatási Hivatalra (a továbbiakban: Hivatal).
+
+### 3. §
+
+(1)[^25] A pedagógiai szakszolgálatokat az Nkt. 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladat vonatkozásában az Intézmények,
+
+a) egy vagy több pedagógiai szakszolgálati feladat vonatkozásában az állami felsőoktatási intézmény által fenntartott pedagógiai szakszolgálati, illetve egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmények,
+
+b)[^26] továbbá a szakértői bizottsági tevékenység kivételével egy vagy több pedagógiai szakszolgálati feladat vonatkozásában az állami köznevelési közszolgálati feladatellátásban a köznevelésért felelős miniszterrel (a továbbiakban: miniszter) kötött köznevelési szerződés alapján részt vevő, a jogi személyiséggel rendelkező vallási közösség, a vallási egyesület vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott pedagógiai szakszolgálati, illetve egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmények
+
+látják el.
+
+(2)[^27] Az Intézmény a feladatait a vármegyében és a fővárosban a székhelyintézményben és a tagintézményekben látja el. A tagintézmény több tagintézményi telephelyen is működhet.
+
+(3)[^28] A tagintézmény neve három részből áll. Az első részben előtagként az Intézmény hivatalos neve, a második részben az első részhez kapcsolódva utótagként az adott járás nevével azonos megkülönböztető megjelölés az előtaggal birtokviszonyban vagy szakosított tagintézmény esetében az ellátott tevékenységre vagy a tagintézmény földrajzi elhelyezkedésére utaló megjelölés az előtaggal birtokviszonyban, a harmadik részben a tagintézmény megnevezés szerepel. A tagintézmény önálló körbélyegzővel rendelkezik. A körbélyegző a tagintézmény nevét, és annak a telephelynek a címét tartalmazza, ahol a tagintézmény igazgatójának munkahelye található.
+
+(4)[^29]
+
+(5)[^30] A pedagógiai szakszolgálati feladatok országosan egységes szakmai irányítását a miniszter látja el.
+
+## 3. [^31] A gyógypedagógiai tanácsadás, korai fejlesztés és gondozás
+
+### 4. §
+
+(1)[^32] Az Nkt. 18. § (2) bekezdés a) pontja szerinti gyógypedagógiai tanácsadás, korai fejlesztés és gondozás (a továbbiakban: korai fejlesztés és gondozás) feladata a komplex koragyermekkori prevenció, tanácsadás és fejlesztés, az ellátásra való jogosultság megállapításának időpontjától kezdődően a gyermek fejlődésének elősegítése, a család kompetenciáinak erősítése, a gyermek és a család társadalmi inklúziójának támogatása érdekében. A korai fejlesztés és gondozás tevékenységei a komplex gyógypedagógiai, konduktív pedagógiai tanácsadás, a kognitív, a szociális, a kommunikációs és a nyelvi készségek fejlesztése, a mozgásfejlesztés és a pszichológiai segítségnyújtás.
+
+(2)[^33] A korai fejlesztés és gondozás megkezdésére a szakértői bizottság tesz javaslatot.
+
+(2a)[^34] A szakértői bizottság a három évnél fiatalabb gyermek esetében szakértői véleményét a gyermek külön vizsgálata nélkül, a neonatológia, csecsemő és gyermek fül-orr-gégegyógyászat, audiológia, szemész, ortopédia és traumatológia, gyermek- és ifjúságpszichiátria, fizikális medicina és rehabilitációs orvoslás, orvosi rehabilitáció csecsemő- és gyermekgyógyászat szakterületen, illetve gyermek-neurológia szakorvos által felállított diagnosztikai vélemény és terápiás javaslat alapján is elkészítheti.
+
+(3) Ha a gyermek bölcsődei nevelésben, gyermekotthoni ellátásban, fogyatékosok nappali intézményében, fogyatékosok ápoló-gondozó bentlakásos intézményében intézményi ellátásban részesül, a korai fejlesztést és gondozást – amennyiben a feladat ellátásához szükséges feltételek biztosítottak – az intézményben kell ellátni. A pedagógiai szakszolgálati intézmény a tanácsadást a szülőn kívül a feladatellátási hely adott gyermekkel foglalkozó szakalkalmazottai részére is biztosítja.
+
+(4) Ha a gyermek harmadik életévét betöltötte, akkor vehet részt korai fejlesztésben és gondozásban, ha a szakértői bizottság szakértő véleménye alapján nem kapcsolódhat be az óvodai nevelésbe.
+
+(5) A korai fejlesztés és gondozás egyéni foglalkozás, vagy legfeljebb hat gyermekből álló csoportfoglalkozás keretében valósítható meg.
+
+(6)[^35] A korai fejlesztés és gondozás keretében a gyermek állapotának, szükségleteinek, valamint a család terhelhetőségének függvényében a fejlesztési feladatok végrehajtásának időkerete
+
+a) 0–2 éves kor között legalább heti egy óra,
+
+b) 3–4 éves kor között legalább heti kettő óra,
+
+c) 5–6 éves kor között legalább heti öt óra.
+
+(7) A heti időkeretet a szakértői bizottság állapítja meg. Az időkeretet a fejlesztést ellátó szakember a szakértői bizottság írásbeli egyetértésével módosíthatja. A fejlesztés a gyermek állapota alapján egyéni, vagy csoportfoglalkozáson, illetve vegyesen – egyéni és csoportfoglalkozáson – is történhet.
+
+(7a)[^36] Intenzív ellátás a gyermek – a szülő gondozásba történő aktív bevonásával megvalósított – összefüggő, bentlakásos korai fejlesztése és gondozása, amelynek időtartama legalább egy, legfeljebb három hét. A (6) bekezdésben meghatározott időkeret teljesítése szempontjából egy hét intenzív ellátás hat hét általános szabályok szerinti fejlesztésnek felel meg. A bentlakás feltételeit a gyermek és a szülő számára az intenzív ellátást végző intézmény biztosítja.
+
+(8) Ha a korai fejlesztés és gondozás igénybevétele a pedagógiai szakszolgálati intézményben nem oldható meg, a gyermek fejlesztésére
+
+a) otthoni ellátás keretében vagy
+
+b)[^37] a gyermek gondozását végző intézményben
+
+kerül sor.
+
+(9)[^38] Otthoni ellátás keretében vagy a gyermek gondozását végző intézményben történő ellátás esetén a (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
+
+### 5. §
+
+(1)[^39] A korai fejlesztés és gondozás feladatait a szakértői bizottság szakértői véleménye alapján, a gyermeket ellátó fejlesztő szakemberek által kidolgozott egyéni fejlesztési tervben foglaltak szerint kell végezni. A fejlesztési tervet a szülővel ismertetni kell. A fejlesztési tervet legalább kettő, legfeljebb tizenkettő hónapra kell elkészíteni, időtartamát a fejlesztést ellátó szakember határozza meg a gyermek életkorának, diagnózisának függvényében. Az egyéni fejlesztési terv szükség szerint módosítható. Az egyéni fejlesztési tervnek tartalmaznia kell – a gyermek állapotától függően – a gyógypedagógiai, konduktív pedagógiai fejlesztés, a tanácsadás, a kognitív, a szociális, a kommunikációs és a nyelvi készségek fejlesztése, a mozgásfejlesztés és a pszichológiai segítségnyújtás feladatait.
+
+(2)[^40] A korai fejlesztést és gondozást végző szakember gyermekenként egyéni fejlesztési naplót vezet, és a gyermek fejlődését a fejlesztési év végén értékeli. Az értékelési lap egy példányát át kell adni a szülőnek, egy példányát a korai fejlesztés és gondozás megkezdésére javaslatot tevő szakértői bizottságnak, egy példány a korai fejlesztés és gondozás feladatait ellátó intézménynél marad.
+
+(3)[^41] Ha a korai fejlesztést és gondozást otthoni ellátás keretében, vagy a gyermek gondozását végző intézményben szervezik meg, a pedagógiai szakszolgálati intézmény gondoskodik a szükséges szakemberről.
+
+(4) A szakértői bizottság az értékelési lap megállapításai vagy a gyermek vizsgálata, felülvizsgálata alapján szükség szerint módosítja a szakértői véleménynek a korai fejlesztés és gondozás megszervezésével kapcsolatos előírásait.
+
+(5)[^42] A korai fejlesztés és gondozás tekintetében a 18. §-ban, valamint a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) 42. § (1) és (2) bekezdésében, 42. § (3) bekezdés d) pontjában, 42. § (4)–(6) bekezdésében, továbbá 43. §-ában foglaltakat kell alkalmazni, azzal, hogy kijelölt intézmény alatt a gyermek korai fejlesztésére és gondozására kijelölt intézményt vagy az intézmény erre kijelölt tagintézményét, az óvodai foglalkozáson való kötelező részvétel alatt pedig a korai fejlesztésben és gondozásban való részvételt kell érteni.
+
+## 4.[^43]
+
+## 5. A szakértői bizottsági tevékenység
+
+### 7. §
+
+(1)[^44] Az Nkt. 18. § (2) bekezdés b) pontja szerinti szakértői bizottsági tevékenység keretében az intézmény szakértői bizottsága a gyermek, a tanuló komplex pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi, sajátos nevelési igény gyanúja esetén komplex pszichológiai, pedagógiai-gyógypedagógiai, orvosi vizsgálat alapján szakértői véleményt készít
+
+a)[^45] a korai fejlesztésre és gondozásra való jogosultság megállapítása vagy kizárása,
+
+b) a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása,
+
+c)[^46] a sajátos nevelési igény – a mozgásszervi, az érzékszervi (a látási, a hallási), az értelmi, a beszédfogyatékosság, több fogyatékosság együttes előfordulása esetén a halmozott fogyatékosság, az autizmus spektrum zavar vagy az egyéb pszichés fejlődési zavar: súlyos tanulási, figyelem- vagy magatartásszabályozási zavar – megállapítása vagy kizárása,
+
+d) sajátos nevelési igényű tanuló esetében
+
+da) az érettségi bizonyítvány kiadásának feltételeként meghatározott közösségi szolgálat teljesítésére vonatkozó kötelezettség alóli mentesítés,
+
+db) a tankötelezettség meghosszabbításának
+
+céljából, és a vizsgálatok eredményei alapján javaslatot tesz a beilleszkedési, a tanulási, a magatartási nehézséggel küzdő, a sajátos nevelési igényű gyermekek, tanulók különleges bánásmód keretében történő ellátására, az ellátás módjára, formájára és helyére.
+
+(2) Amennyiben a szakértői bizottság vizsgálata alapján a gyermeknél, a tanulónál sem a beilleszkedési, sem a tanulási, sem a magatartási nehézség, sem a sajátos nevelési igény nem állapítható meg, de eredményes óvodai neveléséhez, iskolai neveléséhez, oktatásához iskolapszichológiai, óvodapszichológiai vagy logopédiai ellátásba vétele indokolt, a szakértői bizottság a megfelelő ellátásba vételét kezdeményezi.
+
+(3) Az (1) bekezdés d) pontjában meghatározott esetekben a szakértői vélemény elkészítésekor – amennyiben a szakértői bizottság rendelkezésére álló vizsgálati dokumentumokból a szakértői vélemény elkészítéséhez szükséges információk egyértelműen megállapíthatóak – a tanuló újabb vizsgálata mellőzhető.
+
+### 8. §
+
+A szakértői vizsgálat típusai:
+
+a) az aktuális állapot feltárására irányuló vizsgálat,
+
+b) a fejlődést nyomon követő a korábbi diagnózis megalapozottságát, a nevelés, oktatás formájának megfelelőségét a fejlesztés eredményességének mérését célzó felülvizsgálat.
+
+### 9. §[^47]
+
+A szakértői bizottsági tevékenységet az Intézmény székhelyintézménye és tagintézményei látják el a 10. §-ban meghatározott feladatellátási kötelezettség szerint.
+
+### 10. §[^48]
+
+(1)[^49] Az Intézmény szakértői bizottságként eljáró járási tagintézményének (a továbbiakban: járási szakértői bizottság) feladatellátási kötelezettsége a 11. §-ban meghatározott feladatok vonatkozásában arra a járásra terjed ki, amelyben működik.
+
+(2)[^50] Az Intézmény szakértői bizottságként eljáró székhelyintézményének, valamint vármegyei, fővárosi tagintézményének (a továbbiakban: vármegyei szakértői bizottság) feladatellátási kötelezettsége a 12. §-ban meghatározott feladatok vonatkozásában
+
+a)[^51] a főváros, a vármegye teljes területére terjed ki, ha a szakértői bizottsági tevékenységet az Intézmény székhelyintézménye látja el, vagy
+
+b)[^52] a fővárosban, vármegyében több járásra terjed ki, ha a szakértői bizottsági tevékenységet feladatmegosztásban az Intézmény székhelyintézménye és vármegyei, fővárosi tagintézménye látja el.
+
+(3)[^53] A (2) bekezdésben foglaltaktól eltérően az Intézmény vármegyei szakértői bizottsága a mozgásszervi fogyatékosság, az érzékszervi fogyatékosság, valamint a beszédfogyatékosság megállapítását vagy kizárását országos vagy több vármegyére kiterjedő feladatellátási kötelezettséggel is végezheti.
+
+### 11. §
+
+(1)[^54] A járási szakértői bizottság feladata
+
+a)[^55] az e rendelet általános szabályai szerint indult vizsgálatok esetében a gyermek, tanuló teljes körű pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi vizsgálata,
+
+b) a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása és az ehhez kapcsolódó felülvizsgálatok elvégzése,
+
+c)[^56] a korai fejlesztésre való jogosultság megállapítása vagy kizárása, és – ha a (2) bekezdés és a 12. § (2) bekezdés c) pontja szerinti kiegészítő vizsgálat nem történt, vagy a kiegészítő vizsgálat sajátos nevelési igényt nem állapított meg – az ehhez kapcsolódó felülvizsgálatok elvégzése,
+
+d)[^57] a 4. § (2a) bekezdésében meghatározott szakértői vélemény elkészítése és az ehhez kapcsolódó felülvizsgálatok elvégzése.
+
+(2)[^58] Ha a járási szakértői bizottság megítélése szerint a gyermeknél a sajátos nevelési igény valószínűsíthető, saját vizsgálatának dokumentációját és annak eredményeit, a vizsgálat alapján tett megállapításait, valamint a rendelkezésükre álló egyéb iratokat megküldi a vármegyei szakértői bizottság részére.
+
+### 12. §
+
+(1)[^59] A vármegyei szakértői bizottság koordinációs feladatai:
+
+a)[^60] a járási szakértői bizottság szakmai működésének koordinációja,
+
+b)[^61]
+
+c) a szakértői vizsgálatoknál alkalmazott protokoll eljárások folyamatos ellenőrzése és fejlesztése,
+
+d) speciális diagnosztikai feladatok koordinálása.
+
+(2)[^62] A vármegyei szakértői bizottság diagnosztikai feladatai:
+
+a)[^63] sajátos nevelési igény megállapítására irányuló vizsgálatoknál a gyermek, tanuló teljes körű pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi vizsgálata,
+
+b) a 7. § (1) bekezdés d) pontjában meghatározott esetben a gyermek, a tanuló vizsgálatának eredményei alapján szakértői vélemény készítése,
+
+c)[^64] a 11. § (2) bekezdésében meghatározott esetben a kiegészítő vizsgálat végzése, a korai fejlesztésre és gondozásra való jogosultság, a sajátos nevelési igény, a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása, a szakértői vélemény elkészítése és kiadása,
+
+d) a sajátos nevelési igényű gyermekek, tanulók esetében a felülvizsgálatok elvégzése,
+
+e) jogszabályban meghatározott esetben a sajátos nevelési igényű gyermek, tanuló családja részére a juttatások és kedvezmények igénybevételéhez szükséges igazolások kiadása,
+
+f)[^65] jogszabályban meghatározott esetben javaslattétel a súlyos és halmozottan fogyatékos gyermekek, tanulók ápoló-gondozó otthoni ellátására, a három évnél idősebb gyermekek bölcsődei ellátására, fogyatékos fiatalok lakóotthoni ellátására,
+
+g)[^66] a 4. § (2a) bekezdésében meghatározott szakértői vélemény elkészítése, valamint a vármegyei szakértői bizottság előtt közvetlenül indított vizsgálatoknál a korai fejlesztésre és gondozásra való jogosultság, a sajátos nevelési igény, a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása és az ehhez kapcsolódó szakértői vélemény elkészítése.
+
+### 13. §
+
+(1)[^68] A szakértői vizsgálat – a (2) bekezdés a), b) és d) pontjában, valamint a Korm. rendelet 42. § (3) bekezdésében foglalt kivétellel – a szülő kérelmére, illetve, ha az eljárást nem a szülő kezdeményezi, a szülő egyetértésével indul. Az eljárás megindítása az Intézmény szakértői bizottságként eljáró azon feladatellátási helyénél kérhető vagy kezdeményezhető, amelynek működési körzetében a gyermek, tanuló lakóhellyel, ennek hiányában tartózkodási hellyel rendelkezik, vagy amelynek működési körzetében a gyermek, tanuló intézményes ellátásban részesül. A mozgásszervi, valamint az érzékszervi (a látási, a hallási) fogyatékosság megállapítására vagy kizárására irányuló vizsgálat közvetlenül is kérhető, illetve kezdeményezhető a mozgásszervi fogyatékosság, az érzékszervi (a látási, a hallási) fogyatékosság megállapítását vagy kizárását végző szakértői bizottságnál. Ha a gyermek óvodai nevelésben, iskolai nevelésben, oktatásban részesül, az óvoda, az iskola köteles közreműködni a vizsgálat iránti kérelem elkészítésében.
+
+(2) A szakértői vizsgálat indítható:
+
+a) hivatalból,
+
+b) hatósági megkeresésre,
+
+c) szülői kérelemre,
+
+d) illetve a szülő egyetértésével
+
+da)[^69] a nevelési-oktatási, illetve a szakképző intézmény,
+
+db)[^70] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ, bölcsődei ellátást nyújtó intézmény, szolgáltató, gyermekotthon, területi gyermekvédelmi szakszolgálat, nevelőszülői hálózat működtetője,
+
+dc) a szociális igazgatásról és szociális ellátásokról szóló törvény hatálya alá tartozó fogyatékosok ápoló, gondozó otthona, fogyatékosok rehabilitációs intézménye, fogyatékosok nappali intézménye
+
+kezdeményezésére.
+
+(3)[^71] Ha a nevelési-oktatási, illetve a szakképző intézmény, vagy a gyermekjóléti, a gyermekvédelmi, a szociális intézmény, valamint a gyámhatóság megítélése szerint a gyermek, tanuló szakértői vizsgálata szükséges,
+
+a)[^72] az indok közlésével javasolja a szülőnek a szakértői vizsgálaton való megjelenést és részvételt, a szülő egyetértése esetén óvodai nevelésben, iskolai nevelésben, oktatásban részesülő gyermek esetén a nevelési-oktatási, illetve a szakképző intézmény gondoskodik arról, – gyermekjóléti, a gyermekvédelmi, a szociális intézmény, valamint a gyámhatóság közreműködik abban – hogy a vizsgálati kérelem tíz napon belül kiállításra kerüljön,
+
+b) a javaslattétellel egyidejűleg köteles a szülőt tájékoztatni a vizsgálatok eredményeinek lehetséges következményeiről, a szülőnek a vizsgálattal és annak megállapításaival kapcsolatos jogairól,
+
+c) halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdeményezése esetén, a vizsgálaton jelen lévő szakszolgálati-esélyegyenlőségi szakértő szerepéről a szülőt tájékoztatni köteles.
+
+(4) A szülő egyetértése esetén a szakértői vélemény készítésére irányuló – a szülő által aláírt – kérelmet az óvoda, az iskola megküldi
+
+a)[^73] az (1) bekezdésben meghatározott szakértői bizottságnak,
+
+b)[^74] a halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdeményezése esetén – az (5) bekezdésben foglalt kivétellel –a Hivatalnak.
+
+(5)[^75] Szülői egyetértés hiányában a (3) bekezdésben foglalt, vizsgálatot kezdeményező intézmény a Korm. rendelet 42. § (3) bekezdés a) pontjában foglalt eljárás megindítását kéri.
+
+(6) Ha a halmozottan hátrányos helyzetű gyermek, tanuló szülője a szakértői vélemény készítésére irányuló kérelemnyomtatványon olyan nyilatkozatot tesz, hogy gyermeke vizsgálatánál szakszolgálati-esélyegyenlőségi szakértő ne legyen jelen, a (4) bekezdés b) pontjában foglaltakat nem kell alkalmazni.
+
+### 14. §
+
+(1)[^76] A szakértői vizsgálat időpontját a bizottság határozza meg, és erről, valamint a szakértői vizsgálat helyéről a szülőt értesíti. A szakértői vizsgálat időpontjáról szóló értesítést a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított tíz napon belül, a vizsgálat időpontja előtt legalább tíz nappal meg kell küldeni a szülőnek. A szakértői vizsgálat időpontját – első vizsgálat esetében – a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított harminc napon belüli időpontra kell kitűzni. Amennyiben a szülő a szakértői vizsgálat időpontjában nem jelenik meg, további egy alkalommal kell számára vizsgálati időpontot biztosítani az elmulasztott vizsgálati időpontot követő naptól számított tizenöt napon belüli időpontra. Ennek elmulasztása esetén, ha a vizsgálat a szülő kérésére indult, a vizsgálati kérelmet visszavontnak kell tekinteni. Ha a vizsgálat a 13. § (2) bekezdés a), b) vagy d) pontja alapján indult, akkor a szakértői bizottság a Korm. rendelet 42. § (3) bekezdés b) pontja szerint közigazgatási hatósági eljárás megindítását köteles kezdeményezni.
+
+(2)[^77] A szakértői vizsgálat megkezdéséhez a szülői felügyeletet gyakorló mindkét szülő együttes jelenléte szükséges. A vizsgálaton megjelent szülő a távollévő szülőt képviselheti, erről a szülőt legkésőbb a vizsgálat megkezdésekor tájékoztatni kell. Kétség esetén vélelmezni kell, hogy a vizsgálaton megjelent szülő a távollévő szülő képviseletére nem jogosult. A szakértői vizsgálat során a szülő köteles közreműködni, a vizsgálaton – annak zavarása nélkül – jogosult mindvégig jelen lenni.
+
+(3) Ha a gyermek halmozottan hátrányos helyzetű, az első vizsgálat alkalmával, a 21. § (3)–(6) bekezdése szerinti folyamatos figyelemmel kísérést lezáró vizsgálat alkalmával, a szakértői bizottság vizsgálatakor a Hivatal által kijelölt szakszolgálati-esélyegyenlőségi szakértőnek jelen kell lennie.
+
+(4) A (3) bekezdésben meghatározott esetben a szakértői bizottság – az (1) bekezdés szerinti értesítéssel egyidejűleg – megkeresi a Hivatalt szakszolgálati-esélyegyenlőségi szakértő kirendelése céljából. A Hivatal a megkeresés kézhezvételétől számított nyolc napon belül kijelöli a szakszolgálati-esélyegyenlőségi szakértőt.
+
+(5) A szakértői vizsgálat lefolytatásának részletes eljárási rendjét a 2. melléklet tartalmazza.
+
+### 15. §
+
+(1) Az Nkt. 56. § (1) bekezdése alapján egyes tantárgyakból, tantárgyrészekből a tanuló teljesítményének az értékelése, minősítése alóli mentesítés céljából szakértői vizsgálat indítható:
+
+a) az iskolai nevelés-oktatás első–hatodik évfolyamán az adott tanév január 31-éig szükség szerint bármikor,
+
+b) az *a)* pontban meghatározott évfolyamokra vonatkozóan meghatározott határnapot követően annak a tanévnek a március 31. napjáig, amelyben a tanuló az adott tantárgy tanulását megkezdte.
+
+(2)[^78] A szakértői bizottság eljárását az (1) bekezdésben meghatározott célból, az ott megjelölt időszaknál későbbi időpontban csak a szülő kezdeményezheti. A vizsgálati kérelemhez csatolni kell az érintett iskola igazgatójának a vizsgálat szükségességével kapcsolatos egyetértő nyilatkozatát. Az iskola igazgatója a döntéséhez beszerzi a tanuló osztályfőnöke és az adott tantárgyat tanító pedagógus véleményét. Az iskola igazgatója egyetértésének hiányában a szakértői bizottság vezetője vagy az általa erre kijelölt bizottsági tag – a kiskorú tanuló esetén a tanuló és a szülő, nagykorú tanuló esetén a tanuló meghallgatása után – dönt a vizsgálat szükségességéről vagy a kérelem elutasításáról. A kérelem elutasításáról szóló döntést – határozat formájában – írásba kell foglalni. A döntés tekintetében a szakértői vélemény felülvizsgálatával kapcsolatos rendelkezéseket kell alkalmazni.
+
+(3)[^79]
+
+(4)[^80] Ha az iskolába történő felvétel céljából megkezdett szakértői vizsgálat a beíratásra meghatározott időpontig előreláthatóan nem fejeződik be, a szakértői bizottság e tényről a szülő részére igazolást ad.
+
+### 16. §
+
+(1)[^81] A szakértői bizottság a lefolytatott vizsgálatok alapján készíti el a szakértői véleményét. A szakértői vélemény elkészítésének szakmai követelményeit a 3. melléklet tartalmazza. A szakértői bizottság tagjai a gyermek, tanuló különleges gondozásba vételére, fogyatékosságára, a fejlesztést igénylő területekre vonatkozó megállapításokat közösen alakítják ki. A szakértői véleményt a szakértői bizottság vezetője és a szakértői bizottságnak a vizsgálatban közreműködő tagjai írják alá. Amennyiben a szakértői bizottság a szakértői véleményét a 12. § (2) bekezdés c) pontja szerinti vizsgálat alapján készíti el, a szakértői véleményt a vármegyei szakértői bizottság vezetője és a vármegyei szakértői bizottság vizsgálatban közreműködő tagjai írják alá azzal, hogy a szakértői véleményben fel kell tüntetni a vizsgálatban a járási szakértői bizottság részéről közreműködő szakemberek nevét is.
+
+(2)[^82] A szakértői bizottság a (3) bekezdésben foglaltak szerint összeállított intézményjegyzék alapján tájékoztatja a szülőt azokról a lehetőségekről, amelyek alapján sajátos nevelési igényű gyermeke a korai fejlesztésben és gondozásban, az óvodai nevelésben, a fejlesztő nevelésben-oktatásban részt vehet, tankötelezettségének eleget tehet. A köznevelési, illetve szakképző intézményt a szülő választja ki a szakértői bizottság által javasolt intézmények közül. Ha a szülő által választott óvoda, iskola nem azonos a kötelező felvételt biztosító óvodával, iskolával, és az óvoda, az iskola a gyermeket, a tanulót a nem veszi fel, a szakértői bizottság a szakértői véleményében a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerinti, kötelező felvételt biztosító óvodát, iskolát határozza meg az óvodai nevelés, az iskolai nevelés, oktatás ellátására.
+
+(3)[^83] A sajátos nevelési igényű gyermekek, tanulók ellátásában részt vevő köznevelési, illetve szakképző intézményeket tartalmazó jegyzék összeállításához a vármegyei szakértői bizottság részére
+
+a)[^84] a vármegyében lévő települési önkormányzat, a fővárosi kerületi önkormányzat – a sajátos nevelési igényt megalapozó fogyatékosság, autizmus spektrum zavar vagy egyéb pszichés fejlődési zavar megjelölésével – a sajátos nevelési igényű gyermekek nevelését ellátó óvodák jegyzékét és azok felvételi (működési) körzetét tartalmazó adatokat,
+
+b)[^85] a kormányhivatal a sajátos nevelési igényt megalapozó fogyatékosság, autizmus spektrum zavar vagy egyéb pszichés fejlődési zavar, valamint a nevelés, oktatás formájának (együttnevelés, gyógypedagógiai osztályban történő különnevelés) megjelölésével a nemzetiségi önkormányzatok, valamint az egyéb nem állami, nem önkormányzati intézményfenntartó által fenntartott, sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását, fejlesztő nevelés-oktatását ellátó, illetve szakszolgálati tevékenységet végző köznevelési, illetve szakképző intézmények jegyzékét és azok felvételi (működési) körzetét tartalmazó adatokat,
+
+c)[^86] a tankerületi igazgató a sajátos nevelési igényt megalapozó fogyatékosság, autizmus spektrum zavar vagy egyéb pszichés fejlődési zavar, valamint a nevelés, oktatás formájának (együttnevelés, gyógypedagógiai osztályban történő különnevelés) megjelölésével a sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását, fejlesztő nevelés-oktatását ellátó, a tankerületi központ, valamint az egyéb állami fenntartó fenntartásában lévő, az általa vezetett tankerületben működő köznevelési, illetve szakképző intézmények jegyzékét és azok felvételi (működési) körzetét tartalmazó adatokat, valamint
+
+d)[^87] a Hivatal a sajátos nevelési igényt megalapozó fogyatékosság, autizmus spektrum zavar vagy egyéb pszichés fejlődési zavar, valamint a nevelés, oktatás formájának (együttnevelés, gyógypedagógiai osztályban történő különnevelés) megjelölésével a sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását, fejlesztő nevelés-oktatását ellátó, illetve szakszolgálati tevékenységet végző gyakorló köznevelési, illetve szakképző intézmények jegyzékét és azok felvételi (működési) körzetét tartalmazó adatokat
+
+minden év január 31-ig megküldi.
+
+(4)[^88] Az intézményjegyzéket a vizsgálaton megjelenő szülők részére megtekintésre át kell adni, valamint meg kell küldeni a kormányhivatalnak, továbbá a 10. § (3) bekezdése szerinti szakértői bizottságoknak.
+
+(5)[^89] A korai fejlesztés és gondozás, továbbá a sajátos nevelési igényű gyermekek, tanulók részére az óvodai nevelés, az iskolai nevelés és oktatás, továbbá a fejlesztő nevelés-oktatás igénybevételével összefüggő – a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szabályozási körén kívül eső – utazási költség megtérítéséhez szükséges igazolást az Intézmény szakértői bizottságként eljáró székhelyintézménye vagy tagintézménye központilag kiadott nyomtatványon állítja ki. Az igénybevételt az ellátást nyújtó köznevelési intézmény (fő)igazgatója, illetve szakképző intézmény vezetője vagy írásbeli meghatalmazással rendelkező megbízottja igazolja.
+
+(6)[^90] A gyermek, tanuló részére ellátást nyújtó köznevelési, illetve szakképző intézmény a sajátos nevelési igényű gyermek, tanuló és kísérője részére – a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szabályozási körén kívül eső – közforgalmú személyszállítási utazási kedvezmény igénybevételére jogosító igazolást és utazásnyilvántartó-lapot ad ki központilag kiadott nyomtatványon, továbbá a kiadott nyomtatványokról – az átadás időpontját és az átvevő aláírását tartalmazó – nyilvántartást vezet. Az ellátást nyújtó köznevelési, illetve szakképző intézmény a sajátos nevelési igényű gyermek, tanuló legfeljebb két fő kísérője részére ad ki igazolást és utazás-nyilvántartó lapot, és az igazoláson a kísérői létszámot feltünteti.
+
+### 17. §
+
+(1) A szakértői bizottság a szakértői véleményében tesz javaslatot a különleges bánásmódot igénylő gyermek, tanuló ellátására, az ellátás módjára, formájára és helyére, az ellátáshoz kapcsolódó pedagógiai szakszolgálatok típusaira, a szükséges szakemberre és annak feladataira. A szakértői véleménynek tartalmaznia kell
+
+a) a gyermek, tanuló és a szülő nevét, a gyermek, tanuló születési idejét, lakóhelyét és tartózkodási helyét,
+
+b) a szakértői vizsgálat rövid leírását,
+
+ba) a beilleszkedési, a tanulási vagy a magatartási nehézségre, vagy annak kizárására vonatkozó megállapítást, az azt alátámasztó tényeket,
+
+bb) a sajátos nevelési igényre, vagy annak kizárására vonatkozó megállapítást, az azt alátámasztó tényeket,
+
+c) a korai fejlesztés és gondozás szükségességét, az ennek keretében nyújtott szolgáltatásokat, a fejlesztéssel kapcsolatos szakmai feladatokat, valamint annak megjelölését, hogy a feladatokat milyen ellátás keretében mely intézmény biztosítja,
+
+d)[^91] annak megállapítását, hogy a sajátos nevelési igényű gyermek, tanuló az e célra létrehozott, a fogyatékosság típusának megfelelő nevelési-oktatási, illetve szakképző intézményben, osztályban, csoportban, tagozaton vagy a többi gyermekkel, tanulóval közösen is részt vehet az óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben,
+
+e)[^92] annak megállapítását, hogy a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti,
+
+f)[^93] ha a tanuló a tankötelezettségét kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
+
+g) annak megállapítását, hogy a tanuló a tankötelezettségét fejlesztő nevelés-oktatás, illetőleg a fejlesztő nevelés-oktatást nyújtó iskola által szervezett egyéni fejlesztés keretében teljesíti,
+
+h)[^94] a gyermek, tanuló sajátos nevelési igényének megfelelő
+
+ha)[^95] óvodára, csoportra (a továbbiakban együtt: kijelölt óvoda),
+
+hb)[^96] általános iskolára, középfokú iskolára, szakképző intézményre, fejlesztő nevelés-oktatást végző iskolára, csoportra, osztályra, tagozatra (a továbbiakban együtt: kijelölt iskola),
+
+hc)[^97] kollégiumra [a *h)* pont alattiak a továbbiakban együtt: kijelölt intézmény]
+
+vonatkozó javaslatot és a kijelölt intézmény megjelölését,
+
+i) a hivatalból történő felülvizsgálat időpontját,
+
+j)[^98] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket,
+
+ja) fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét,
+
+jb) javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés és minősítés alóli mentesítésre,
+
+k) a szükséges szakemberre vonatkozó javaslatot,
+
+l)[^99] az adott tanév szeptember 1. és január 18. napja közt elvégzett vizsgálatoknál az ötödik életévüket betöltött, de hat évesnél fiatalabb sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek esetében javaslatot a tankötelezettség teljesítésének következő tanévtől történő megkezdésére vagy további egy év óvodai nevelésre,
+
+m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezettségeiről.
+
+(1a)[^100] Nem alkalmazható
+
+a) a nappali munkarend szerinti felnőttoktatásban tanuló személy vizsgálata alapján készített szakértői vélemény vonatkozásában az (1) bekezdés c), i) és l) pontja, valamint a 22. § (2)–(4) bekezdése,
+
+b) a nem nappali munkarend szerint folytatott felnőttoktatásban tanuló személy, valamint a felnőttképzésben részt vevő személy vizsgálata alapján készített szakértői vélemény vonatkozásában az (1) bekezdés c)–i), k) és l) pontja, *j)* pont *ja)* alpontja, valamint a 22. § (2)–(4) bekezdése.
+
+(2)[^101] Ha a fővárosi, vármegyei területi gyermekvédelmi szakszolgálat értesítése szerint a szakértői bizottság eljárásával egyidejűleg a gyermek, tanuló nevelésbe vételével kapcsolatos eljárás is folyik, a szakértői véleményt a kijelölt gondozási helyről szóló tájékoztatás megérkezését követően lehet elkészíteni.
+
+(3) A szakértői vizsgálat befejezését követően a szülőt tájékoztatni kell a szakértői vizsgálat megállapításairól, a szakértői vélemény várható tartalmáról, a szülői jogokról és kötelezettségekről. A tájékoztatás tényét, a tájékoztatási kötelezettség teljesítését írásba kell foglalni és a szülővel alá kell íratni.
+
+(4) Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésének jogával.
+
+(5)[^102] A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
+
+(6)[^103] A kézbesítés történhet postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(7)[^104] Ha a Hivatal a kérelmező által benyújtott dokumentumok alapján, a tankötelezettség teljesítésének hat éves kor előtti megkezdésével vagy a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a szakértői bizottságot szakértőként kirendelte, és a Korm. rendelet szerinti szakvélemény elkészítése és a Hivatalnak történő megküldése mellett a hatósági eljárástól függetlenül az e rendelet szerinti szakértői vélemény kibocsátása is szükséges, úgy azt a szakértői bizottság az e rendelet általános szabályai szerint készíti el. Ha szakértői vizsgálatot a Hivatal kirendelésére a járási szakértői bizottság végezte el, és a szakértői vizsgálat alapján sajátos nevelési igény valószínűsíthető, akkor a járási szakértői bizottság a Korm. rendelet szerinti szakvélemény elkészítésével és a Hivatalnak történő megküldésével egyidejűleg saját vizsgálatának dokumentációját és annak eredményeit, a vizsgálat alapján tett megállapításait, valamint a rendelkezésükre álló egyéb iratokat megküldi a vármegyei szakértői bizottság részére, amely a szakértői vizsgálatot a hatósági eljárástól függetlenül e rendelet általános szabályai szerint fejezi be. A vármegyei szakértői bizottság a járási szakértői bizottság azon szakmai megállapításaihoz, melyeket a Korm. rendelet szerinti szakvélemény tartalmaz, kötve van.
+
+### 18. §
+
+(1)[^105] A gyermek, tanuló ellátására a szakértői véleményben foglaltak szerint akkor kerül sor, ha az abban foglaltakkal a szülő egyetért. Amennyiben a szakértői véleményben foglaltakkal a szülő nem ért egyet, a szakértői bizottság köteles erről a tényről a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központot tájékoztatni.
+
+(2)[^106] A szülő közvetlenül is eljárást indíthat a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központnál a szakértői vélemény felülvizsgálatát kezdeményezve. A szülőnek a szakértői véleményben foglaltakkal kapcsolatos egyetértését vagy egyet nem értését írásban kell közölnie.
+
+(3)[^107] A szülőnek – a szakértői vélemény kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. Amennyiben a szülő a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a (2) bekezdésben meghatározott eljárást, az egyetértését megadottnak kell tekinteni.
+
+### 19. §
+
+(1) Ha a szakértői bizottság a nevelési év, tanítási év alatt állapítja meg, hogy a gyermek, tanuló sajátos nevelési igényű,
+
+a) a szakértői véleményében abban az esetben javasolhatja, hogy a gyermeket a nevelési évben a kijelölt óvoda, a tanulót a kijelölt iskola átvegye, ha az a gyermeket, tanulót fogadni tudja,
+
+b) és a gyermeket, a tanulót a kijelölt óvoda, iskola nem tudja fogadni, illetve a gyermek, a tanuló a többi gyermekkel, tanulóval közösen vesz részt az óvodai nevelésben, iskolai nevelésben-oktatásban, az óvodai csoport, iskolai osztály átlaglétszámának számításánál az adott nevelési évben, tanévben egy gyermekként kell figyelembe venni.
+
+(2)[^108] Ha a szülő nem élt a felülvizsgálat kezdeményezésének jogával, a szakértői véleményt a szakértői bizottság
+
+a)[^109] a sajátos nevelési igény megállapítása, illetve a korai fejlesztés és gondozás megkezdésére tett javaslat esetén a kijelölt intézménynek, továbbá
+
+b)[^110] a beilleszkedési, tanulási, magatartási nehézség megállapítása esetén a gyermeket, tanulót a vizsgálat időpontjában ellátó nevelési-oktatási vagy szakképző intézménynek,
+
+c)[^111]
+
+megküldi.
+
+### 20. §
+
+(1)[^112] Ha az óvodai nevelés, iskolai nevelés és oktatás a többi gyermekkel, tanulóval közös óvodai csoportban, iskolai osztályban azért nem szervezhető meg, mert az intézményjegyzékben nincsen megfelelő óvoda, iskola, a szakértői bizottság a szakértői véleményét megküldi – óvoda vonatkozásában – a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőnek – iskola vonatkozásában –, a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi igazgatónak. A jegyző, illetve a tankerületi igazgató – szakképzésben részt vevő vagy szakképzésbe jelentkező tanuló esetén a tankerületi igazgató a szakképzési centrum vezetőjének egyetértésével – intézkedik arról, hogy a gyermek, tanuló kötelező felvételét ellátó nevelési-oktatási intézmény, illetve szakképző intézmény kijelölésre kerüljön. A jegyző, illetve a tankerületi igazgató tizenöt napon belül tájékoztatja az intézkedéséről a szakértői bizottságot.
+
+(2)[^113] Ha a gyermek, a tanuló gyógypedagógiai intézményben történő nevelése, oktatása azért nem szervezhető meg, mert az Intézmény által vezetett jegyzékben nincsen megfelelő óvoda, iskola, a szakértői bizottság a szakértői véleményét megküldi a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi igazgatónak. A tankerületi igazgató – szakképzésben részt vevő vagy szakképzésbe jelentkező tanuló esetén a szakképzési centrum vezetőjének egyetértésével – intézkedik arról, hogy a gyermek, tanuló kötelező felvételét ellátó nevelési-oktatási, illetve szakképző intézmény kijelölésre kerüljön. A tankerületi igazgató tizenöt napon belül tájékoztatja az intézkedéséről a szakértői bizottságot.
+
+(3)[^114] Ha a sajátos nevelési igényű tanuló iskolát kíván változtatni, szándékáról a tanuló szülőjének írásban tájékoztatnia kell a szakértői bizottságot. A szakértői bizottság, amennyiben az az iskola, amelybe a tanuló az átvételét, felvételét kéri, az adott sajátos nevelési igényre tekintettel szerepel az intézményi jegyzékben, a bejelentést tizenöt napon belül írásban tudomásul veszi, és szakértői véleményének az iskola kijelölésére és az iskolába történő beiratkozásra vonatkozó rendelkezéseit módosítja. Ha az iskola nem vagy nem az adott fogyatékosságra tekintettel szerepel az intézményi jegyzékben, a szakértői bizottság a tanuló – szükség szerinti – vizsgálata után új szakértői véleményt készít. A tanuló vizsgálata mellőzhető, ha a meglévő vizsgálati eredmények kiegészítésére nincs szükség. E rendelkezéseket alkalmazni kell az óvoda, a kollégium, a szakképző intézmény, a korai fejlesztés és gondozás, továbbá a fejlesztő nevelés-oktatás feladataiban közreműködő intézmény változásakor is. Az e bekezdésben meghatározott intézkedéseket, ha a gyermek, tanuló vizsgálatára nincs szükség, a szakértői bizottság vezetője vagy az általa kijelölt szakértői bizottsági tag hajtja végre.
+
+### 21. §
+
+(1)[^115] Ha a gyermek, tanuló első vizsgálatát végző szakértői bizottság megítélése szerint a gyermek, tanuló halmozottan fogyatékos, a szülő egyetértésével kiegészítő vizsgálat elvégzését kezdeményezheti a gyermek, tanuló mozgásszervi, érzékszervi fogyatékosságának megfelelő szakértői feladatokat ellátó bizottságnál.
+
+(2) A szakértői bizottság az enyhe értelmi fogyatékosságot csak abban az esetben állapíthatja meg, ha azt a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 4. § (3) bekezdés e) pontjában foglaltak alapján, az e rendelet 4. melléklete szerint kiállított orvosi adatlap adatai vagy a gyermek fejlődése (3) bekezdés szerinti folyamatos figyelemmel kísérésének adatai igazolják.
+
+(3) Ha az orvosi adatlap adatai és a szakértői bizottság eljárása során készített orvosi szakértői vélemény, valamint a pedagógiai, továbbá pszichológiai vizsgálat során kialakított elsődleges képességbecslés alapján valószínűsíthető az enyhe értelmi fogyatékosság, a gyermeknek folyamatos figyelemmel kísérésben kell részt vennie. A folyamatos figyelemmel kísérés ideje alatt a gyermek, tanuló a lakóhelye szerinti vagy a választott óvodában, illetve általános iskolában a többi gyermekkel, tanulóval együtt vesz részt az óvodai nevelésben, iskolai nevelésben-oktatásban. A folyamatos figyelemmel kísérés a pedagógiai, illetve a pszichológiai vizsgálatot követő hónapban indul, és ha az adott nevelési év, tanév végéig még legalább hét hónap hátravan, a tanév végéig, ha kevesebb, mint hét hónap van hátra, a vizsgálatot követő nevelési év, tanév feléig tart. A folyamatos figyelemmel kísérés ideje alatt a gyermek vizsgálatát a statisztikai adatszolgáltatás során is lezáratlan vizsgálatként kell nyilvántartani.
+
+(4) A folyamatos figyelemmel kísérés kezdetén a szakértői bizottság meghatározza a megfigyelésben közreműködő pedagógus feladatait.
+
+(5)[^116] A folyamatos figyelemmel kísérés ideje alatt a szakértői bizottság képviselője legalább két alkalommal, az óvodai foglalkozáson, illetve a tanítási órán megfigyeli a gyermeket, tanulót. A folyamatos figyelemmel kísérés végén a szakértői bizottság megvizsgálja a gyermek, tanuló fejlődését, és tapasztalatai alapján – a vizsgálatok összegzésének eredményeként – készíti el szakértői véleményét.
+
+(6) A folyamatos figyelemmel kísérés ideje alatt a pedagógus – a szakértői bizottság útmutatása szerint – a gyermek, tanuló fejlődéséről rendszeresen, de legalább kéthavonta részletes értékelést készít. A folyamatos figyelemmel kísérés ideje alatt a pedagógus legalább havonta egyszer ismerteti a szülővel megállapításait, és segítséget nyújt az otthoni neveléshez. A folyamatos figyelemmel kísérés végén a részletes értékelést a pedagógus átadja a szakértői bizottságnak.
+
+(7) Ha a szakértői eljárásban szakszolgálati-esélyegyenlőségi szakértő vesz részt, a szakértő részt vehet a (5)–(6) bekezdés alapján szervezett megfigyelésen, illetve a szülővel történő egyeztetésen.
+
+### 22. §
+
+(1) Ha a gyermek, tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, vagy sajátos nevelési igényű, a szakértői bizottság hivatalból, hatósági megkeresésre, szülői kérelemre, vagy a gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola kérelme alapján felülvizsgálati eljárást folytat le. A felülvizsgálati eljárásra – a folyamatos figyelemmel kísérés kivételével – a szakértői bizottsági vizsgálatra vonatkozó rendelkezéseket kell alkalmazni.
+
+(2) Ha e rendelet másképp nem rendelkezik, a szakértői bizottság szakértői véleményét a végrehajthatásának megkezdését követő első nevelési év, tanév során hivatalból felül kell vizsgálni. Az első hivatalból történő felülvizsgálatában nem vehet részt az, aki a szakértői vélemény megalkotásában közreműködött.
+
+(3) Ha a gyermek, tanuló enyhe értelmi fogyatékos, illetve egyéb pszichés fejlődési zavarral küzd, a szakértői véleményt az első hivatalból történő felülvizsgálat után addig a tanévig, amelyben a tanuló a tíz éves életkort betölti minden második, azt követően és egyéb fogyatékosság, valamint autizmus spektrum zavar esetében, illetve ha a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, addig a tanévig, amelyben a tanuló a tizenhatodik életévét betölti, minden harmadik tanévben hivatalból felül kell vizsgálni.
+
+(4)[^117] Amennyiben a szakértői vélemény elkészítésére a 4. § (2a) bekezdésében meghatározottak szerint került sor, a szakértői vélemény első hivatalból történő felülvizsgálatát a 12. § (2) bekezdés a) pontja alapján kell elvégezni a végrehajtás megkezdését követő első tanév során. A szakértői véleményt az első hivatalból történő felülvizsgálat után addig, amíg a gyermek korai fejlesztés és gondozásban részesül, minden második tanévben hivatalból felül kell vizsgálni.
+
+### 23. §
+
+(1) A szülő a felülvizsgálati eljárást bármikor kezdeményezheti. A szakértői bizottság a szülő kérelmére akkor köteles lefolytatni a felülvizsgálati eljárást, ha a hivatalból történő felülvizsgálat óta több mint hat hónap telt el, és a soron következő, hivatalból történő felülvizsgálat időpontjáig több mint hat hónap van hátra.
+
+(2)[^118] Ha a felülvizsgálatra a kijelölt intézményben kerül sor, a vizsgálat időpontjáról és helyéről – a szakértői bizottsággal történő egyeztetés alapján – a gyermek, tanuló nevelését, nevelését-oktatását ellátó intézmény a felülvizsgálat időpontja előtt legalább nyolc nappal értesíti a szülőt. A felülvizsgálat során a szülő jelenlététől, valamint közreműködésétől a szakértői bizottság eltekinthet, ha a szülő a vizsgálat lefolytatása előtt írásban nyilatkozik a felülvizsgálat tényének és időpontjának tudomásul vételéről, és arról, hogy azon nem kíván jelen lenni.
+
+(3) Teljes körű vizsgálati eljárást kell lefolytatni
+
+a) az enyhén értelmi fogyatékos, valamint az egyéb pszichés fejlődési zavarral küzdő gyermek, tanuló első hivatalból történő felülvizsgálati eljárásában,
+
+b) ha arra a hatósági megkeresésben foglaltak teljesítéséhez szükség van,
+
+c) a szülő kérésére indított eljárásban, feltéve, hogy az utolsó teljes körű vizsgálat óta több mint két év telt el.
+
+(4)[^119] A gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola a felülvizsgálati eljárást – tanévenként legfeljebb egy alkalommal – bármikor kezdeményezheti, amelyről – a felülvizsgálat szükségességének indokolásával – a szülőt tájékoztatni köteles. Sajátos nevelési igényű gyermek esetében, az óvodai vagy iskolai kezdeményezésre történő felülvizsgálat lefolytatásakor a felülvizsgálat részeként, a szakértői bizottság egy tagja legalább egy teljes napot a gyermek óvodai csoportjában, a tanuló iskolai osztályában hospitál, megfigyeléseiről feljegyzést készít.
+
+(5)[^120] Ha a szakértői bizottság szakértői véleménye alapján a tanuló sajátos nevelési igényének megfelelő ellátására a továbbiakban nincs szükség, a tanuló a következő tanévet a kötelező felvételt biztosító vagy a választott iskolában kezdi meg. A szakértői bizottság a szakértői véleményét megküldi a szülőnek, a kijelölt iskolának, a lakóhely szerinti kötelező felvételt biztosító iskolának és a lakóhely szerint illetékes tankerületi központnak.
+
+(6)[^121] A szakértői bizottság kezdeményezi a kormányhivatalnál a kijelölt intézmény hatósági, a fenntartónál pedig szakmai ellenőrzését, ha a felülvizsgálati eljárás során vagy az értékelő lap alapján azt indokoltnak tartja.
+
+## 6. A nevelési tanácsadás
+
+### 24. §
+
+(1)[^122] Az Nkt. 18. § (2) bekezdés c) pontja szerinti nevelési tanácsadás feladata:
+
+a)[^123] a szülővel az első problémafeltáró beszélgetés lebonyolítása, a gyermek, a tanuló adaptív viselkedésének, szociális érettségének felmérése, ennek eredményeképpen tanácsadásban részesítés vagy a szakszolgálati ellátásba vétel szükségességének meghatározása,
+
+b) az Intézmény nevelési tanácsadás feladatának keretében ellátásban részesülők esetében segítség nyújtása a gyermek családi-, és óvodai neveléséhez, a tanuló iskolai neveléséhez és oktatásához, ha a gyermek, tanuló egyéni adottsága, fejlettsége, képessége, tehetsége, fejlődésének üteme indokolja,
+
+c)[^124] pszichés állapot feltárását célzó vizsgálat végzése és szakértői vélemény készítése a szülő, a jogszabályban meghatározott esetben a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó gyermekvédelmi szakellátást, gyermekjóléti alapellátást végző intézmények kérésére, azzal, hogy gyermekvédelmi szakellátást, gyermekjóléti alapellátást végző intézmények kérésére végzett vizsgálat nem irányulhat a szülői nevelési alkalmasság értékelésére,
+
+d) a prevenciós tevékenység keretében
+
+da) együttműködik a védőnői és gyermekorvosi hálózattal, a gyermek korai fejlődési időszakában teljes körű családi mentálhigiénés intervenciót biztosíthat,
+
+db) az óvodai nevelésben részesülő, negyedik életévüket betöltött gyermekek körében a tanulási és beilleszkedési nehézségek megelőzése céljából – a szülő előzetes hozzájárulásával – szűrést végezhet.
+
+(2)[^125] Az (1) bekezdés b) pontjában meghatározott esetben pedagógiai, pszichológiai támogatást, fejlesztést, terápiás gondozást nyújt a gyermeknek, a tanulónak, támogatja a család nevelő, a pedagógus nevelő és oktató munkáját, szükség esetén segíti a nevelési-oktatási, illetve szakképző intézmények és a család kapcsolattartását.
+
+(3) A komplex pszichológiai és gyógypedagógiai ellátás keretében
+
+a) folyamatdiagnosztikai célú pszichológiai, gyógypedagógiai-pedagógiai vizsgálatot, valamint gondozást végez,
+
+b) terápiás ellátást, korrektív megsegítést nyújt a szakértői bizottság szakértői véleménye alapján a nevelési tanácsadás keretében fejlesztésben részesülő gyermekek, tanulók számára,
+
+c) a gyermek, a tanuló fejlesztése során az állapotára irányuló változásokat a folyamatdiagnosztika során értékeli,
+
+d) pszichológiai, gyógypedagógiai, pedagógiai tanácsadást biztosít, és konzultációs lehetőséget nyújt a gyermekek, a tanulók szülei, pedagógusai részére.
+
+## 7. A logopédiai ellátás
+
+### 25. §
+
+(1)[^126] Az Nkt. 18. § (2) bekezdés d) pontja szerinti logopédiai ellátás feladata a hangképzés, a beszéd, a beszélt és írott nyelvi képesség fejlődési és szerzett zavaraihoz, továbbá a specifikus tanulási zavarokhoz (diszlexia, diszortográfia, diszgráfia, diszkalkulia) kapcsolódó prevenciós, állapotmegismerési és terápiás tevékenység.
+
+(2) A logopédiai ellátás igénybevétele – a (3) bekezdésben foglalt vizsgálatokon és (4) bekezdésben foglalt ellátáson való részvétel kivételével – önkéntes alapon történik.
+
+(3)[^127] A logopédiai ellátás keretében el kell végezni a harmadik és ötödik életévüket betöltött gyermekek beszéd- és nyelvi fejlettségének szűrését. A hároméveskori logopédiai szűrés a nyelvi fejlettségre (receptív és expresszív nyelv), az ötéveskori szűrés elsősorban a beszédartikulációra, illetve az írott nyelvi (írás és olvasás) készültségre irányul. A szűrés eredménye alapján szükség szerint el kell végezni a gyermek további logopédiai vizsgálatát, illetve kezdeményezni kell további gyógypedagógiai, pszichológiai, orvosi vizsgálatokat.
+
+(4)[^128] A részletes logopédiai vizsgálat és logopédiai vizsgálati vélemény alapján kell a gyermek további logopédiai ellátását megszervezni, ha a szűrés és a logopédiai vizsgálat eredményei alapján erre szükség van.
+
+(5) A logopédiai vizsgálati véleménynek tartalmaznia kell
+
+a) a gyermek, tanuló és a szülő nevét, a gyermek, tanuló születési helyét, idejét, lakóhelyét és tartózkodási helyét, a gyermek, tanuló nevelését, oktatását ellátó óvoda, iskola nevét, címét,
+
+b) a logopédiai vizsgálat rövid leírását:
+
+ba) a vizsgálat kérésének indokolását,
+
+bb) a vizsgálatban felhasznált vizsgálati eljárásokat, a konkrét vizsgálati értékeket és a logopédiai diagnózis meghatározását,
+
+bc) terápiás javaslatot a logopédiai fejlesztésre,
+
+bd) a vizsgálat eredményétől függően a gyermek, tanuló további – pedagógiai, pszichológiai, szakorvosi – vizsgálatának kezdeményezését,
+
+be) a szülő tájékoztatását a vizsgálat folyamatáról, eredményéről, a gyermek, tanuló logopédiai ellátásának megszervezéséről, valamint arról, hogy a minél gyorsabban automatizált jó beszédszint elérése érdekében a szülők, és a gyermekkel kommunikáló valamennyi felnőtt partneri együttműködése szükséges,
+
+bf) a szülő tájékoztatását kötelezettségeiről és a vizsgálati véleménnyel kapcsolatos jogorvoslati lehetőségekről.
+
+(6)[^129] A logopédiai vizsgálati vélemény és a logopédiai ellátás tekintetében a 18. §-ban, valamint a Korm. rendelet 42. § (1) és (2) bekezdésében, 42. § (3) bekezdés a), b) és d) pontjában, 42. § (4)–(6) bekezdésében, továbbá 43. §-ában foglaltakat kell alkalmazni azzal, hogy szakértői véleményen a logopédiai vizsgálati véleményt, szakértői bizottság alatt az Intézmény logopédiai vizsgálatot végző tagintézményét, kijelölt intézmény alatt az Intézmény logopédiai ellátást végző tagintézményét, az óvodai foglalkozáson való kötelező részvétel, illetve a tankötelezettség kijelölt iskolában való teljesítése alatt a logopédiai terápiát és a harmadik és ötödik életévüket betöltött gyermekek beszéd- és nyelvi fejlettségének szűrését kell érteni.
+
+(7) A logopédiai ellátás egyéni foglalkozás, illetve legfeljebb hat gyermekből, tanulóból álló csoportfoglalkozás keretében szervezhető meg.
+
+(8) A logopédiai terápia minimális időkerete heti két alkalom, időtartamát – mely legfeljebb negyvenöt perc lehet – a gyermek életkoráról és problémájától függően – a logopédus határozza meg.
+
+(9) A logopédiai munka eredményét a fejlesztő tevékenység során hathónaponként, valamint az ellátás befejezésekor a munkanaplóban szövegesen értékelni kell.
+
+(10) A logopédiai ellátásban részt vevő gyermekek, tanulók részére nyújtott ellátásról munkanaplót kell vezetni.
+
+(11) A logopédiai ellátásban való részvétel a gyermek életkorától függetlenül, az annak szükségességét megállapító logopédiai vizsgálat alapján bármikor megkezdhető.
+
+## 8. A továbbtanulási, pályaválasztási tanácsadás
+
+### 26. §
+
+(1)[^130] Az Nkt. 18. § (2) bekezdés e) pontja szerinti továbbtanulási, pályaválasztási tanácsadás feladata a tanuló adottságainak, tanulási képességének, irányultságának szakszerű vizsgálata, és ennek eredményeképpen iskolaválasztás ajánlása. A tanácsadás során figyelembe kell venni a tanuló személyes adottságait és érdeklődését.
+
+(2) A továbbtanulási, pályaválasztási tanácsadás keretében nyújtott tájékoztatás elősegíti a tanuló pályaválasztását, figyelembe véve az egyéni tulajdonságokat és a foglalkoztatási lehetőségeket, ennek érdekében kapcsolatot tart a foglalkoztatási pályaválasztási tanácsadóval, valamint a tehetséggondozó hálózattal.
+
+(3) A továbbtanulási, pályaválasztási tanácsadó a javaslatait a tanuló meghallgatása, szükség szerinti vizsgálata és az érintett pedagógusok véleménye alapján alakítja ki.
+
+(4)[^131] A továbbtanulási, pályaválasztási tanácsadás pedagógiai, pszichológiai, egészségügyi tájékoztatással, kiadványokkal segíti az iskolai pályaorientációs tevékenységet.
+
+(5)[^132] A továbbtanulási, pályaválasztási tanácsadási feladatokat az Intézmény székhelyintézménye, illetve vármegyei, fővárosi tagintézménye, vármegyei, fővárosi működési körzettel látja el.
+
+## 9. A konduktív pedagógiai ellátás
+
+### 27. §
+
+(1)[^133] Az Nkt. 18. § (2) bekezdés f) pontja szerinti konduktív pedagógiai ellátás feladata a központi idegrendszeri sérültek konduktív nevelése, fejlesztése és gondozása. A konduktív pedagógiai ellátás az óvodai neveléshez, iskolai neveléshez és oktatáshoz kapcsolódóan vagy egyéni fejlesztő foglalkozás keretében nyújtható.
+
+(2) A fejlesztő foglalkozás a szakértői bizottság szakértői véleményében meghatározottak szerint lehet egyéni vagy csoportos foglalkozás.
+
+(3) A konduktív pedagógiai ellátás feladatainak megvalósításában a szülő közreműködhet.
+
+(4) A konduktív pedagógiai ellátás a tanév rendjéhez igazodik és év közben is megkezdhető.
+
+## 10. A gyógytestnevelés
+
+### 28. §
+
+(1)[^134] Az Nkt. 18. § (2) bekezdés g) pontja szerinti gyógytestnevelés feladata a gyermek, a tanuló speciális egészségügyi célú testnevelési foglalkoztatása, ha az iskolaorvosi vagy szakorvosi vizsgálat gyógytestnevelésre utalja.
+
+(2)[^135] A gyógytestnevelés megszervezése, személyi feltételeinek biztosítása az Intézmény feladata a tankerületi központ által kijelölt nevelési-oktatási intézményekben. Abban az esetben, ha a szükséges feltételek rendelkezésre állnak, a tanulók részére heti egy tanórai foglalkozás keretében úszás órát kell szervezni. A gyógytestnevelés az orvosi javaslat alapján 1–3, 4–8 vagy 9–16 fős csoportokban szervezhető meg.
+
+(3)[^136] A gyógytestnevelés bármelyik a nem a tankerületi központ által fenntartott nevelési-oktatási, illetve szakképző intézményben is megszervezhető, amennyiben a tankerületi központ erről megállapodást kötött az érintett nevelési-oktatási, illetve szakképző intézmény fenntartójával.
+
+(4)[^137] A nem a tankerületi központ fenntartásában működő óvodák számára a gyógytestnevelés foglalkozások megszervezéséhez a gyógytestnevelőt a tankerületi központ az érintett óvoda fenntartójával kötött megállapodás alapján a nevelési év során biztosíthatja.
+
+(5) Az iskolában a gyógytestnevelés feladatának ellátása a tanév rendjéhez igazodik. Az adott tanulóra vonatkozó ellátásnak a tanév rendjétől eltérő megkezdése vagy befejezése csak az iskolaorvos vagy a szakorvos véleménye alapján kezdeményezhető.
+
+(6) A gyógytestnevelésben részt vevő gyermekek, tanulók részére nyújtott ellátásról gyógytestnevelési naplót kell vezetni.
+
+## 11. Az iskolapszichológiai, óvodapszichológiai ellátás
+
+### 29. §
+
+(1)[^138] Az Nkt. 18. § (2) bekezdés h) pontja szerinti iskolapszichológiai, óvodapszichológiai ellátás feladata a pedagógiai szakszolgálati intézményben a nevelési-oktatási, illetve szakképző intézményekben dolgozó pszichológusok munkájának összefogása és segítése, melyet az iskola- és óvodapszichológus feladatok koordinátora lát el.
+
+(2) Az iskola- és óvodapszichológiai feladatok koordinátorának a feladatai:
+
+a)[^139] az óvodai, iskolai preventív szűrések járási szintű koordinációja, együttműködés a pszichológiai tárgyú mérésekben és az eredmények kommunikációjában,
+
+b)[^140] a nevelési-oktatási, illetve szakképző intézményekben foglalkoztatott pszichológusok számára legalább havi rendszerességgel szakmai konzultációs foglalkozások szervezése,
+
+c)[^141] a nevelési-oktatási, illetve szakképző intézményekben dolgozó pszichológusok által ellátásban részesített gyermekeket, tanulókat érintően szakmai konzultációs lehetőség biztosítása a pedagógiai szakszolgálati, vagy az egészségügyi ellátás illetékességi körébe tartozó vizsgálat kezdeményezésére vonatkozó döntés kialakításában, javaslattétel annak irányultságára, helyére,
+
+d)[^142] a nevelési-oktatási, illetve szakképző intézményekben dolgozó pszichológusok megkeresésére egyéni szakmai segítés, esetvezetési segítségnyújtás, kettős vezetést igénylő csoportfoglalkozások vezetésében való közreműködés,
+
+e)[^143] a nevelési-oktatási, illetve szakképző intézmény vagy az intézményben dolgozó iskolapszichológus, óvodapszichológus megkeresésére esetmegbeszélő, tanári képességfejlesztő csoportfoglalkozás megszervezése, közreműködés annak az adott intézményben történő megvalósításában,
+
+f)[^144] egyéni tanácsadás és konzultáció a nevelési-oktatási, illetve szakképző intézményekből érkező pedagógusok számára,
+
+g)[^145] az Intézmény és a nevelési-oktatási, illetve szakképző intézmény közötti kapcsolat, kommunikáció segítése,
+
+h) a pedagógiai szakszolgálatnál önkéntesen bejelentkező, az óvodától, iskolától független szolgáltatást igénylő szülők és gyermekek óvodai, iskolai problémákkal összefüggő ellátása, szakmailag indokolt esetben a titoktartás szakmai, etikai elveinek betartása mellett az érintett intézményében dolgozó iskolapszichológussal, óvodapszichológussal való konzultáció.
+
+(3) Az iskola- és óvodapszichológus koordinátor kapcsolatot tart a miniszter által az országos szakmai irányítási feladatok ellátásában való közreműködésbe bevont Országos Iskolapszichológiai Módszertani Bázissal.
+
+(4)[^146] Ha az Intézmény működési körzetében működő nevelési-oktatási, illetve szakképző intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási, illetve szakképző intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
+
+## 12. A kiemelten tehetséges gyermekek, tanulók gondozása
+
+### 30. §
+
+(1)[^147] Az Nkt. 18. § (2) bekezdés i) pontja szerinti, a kiemelten tehetséges gyermekek, tanulók gondozása keretében az Intézmény feladata:
+
+a) korai tehetség-felismerés, tehetségazonosítás, amelynek során a tehetség életkori megjelenését figyelembe kell venni,
+
+b) a tehetséges gyermek személyiségfejlődésének támogatása, szükség esetén további megsegítésre irányítás,
+
+c) önismereti csoport szervezése és vezetése a tehetséges gyermekek részére,
+
+d) tanácsadás, támogatás a szülőnek,
+
+e) konzultáció a pedagógus részére,
+
+f) közös tehetség-tanácsadási fórum szervezése,
+
+g) speciális tehetségprogramban való részvételre javaslat adása,
+
+h) a tehetségazonosítás, a tehetséggondozás feladatát ellátó pszichológus szakmai kapcsolatot tart a feladatellátási körzetében működő tehetségfejlesztő programok vezetőivel és az iskolapszichológussal, óvodapszichológussal,
+
+i) javaslatot tesz a tanuló számára a tehetségprogramba történő bekapcsolódásra,
+
+j) kimeneti mérések elvégzése,
+
+k) tehetségfejlesztő műhelyek vezetői számára konzultációs lehetőség biztosítása, melyet a tehetséggondozó koordinátor lát el.
+
+(2) A tehetséggondozó koordinátor
+
+a)[^148] kapcsolatot tart a nevelési-oktatási, illetve szakképző intézmények iskolapszichológusaival, óvodapszichológusaival,
+
+b) kapcsolatot tart a Nemzeti Tehetségponttal,
+
+c) ismeri, figyelemmel kíséri a Nemzeti Tehetségügyi Adatbázist,
+
+d) ismeri, figyelemmel kíséri a Nemzeti Tehetség Program pályázati kiírásait,
+
+e)[^149] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
+
+## 13. A Pedagógiai Szakszolgálatok működését meghatározó szabályok
+
+### 31. §
+
+(1)[^150] A pedagógiai szakszolgálati intézmény élén főigazgató, a tagintézmény élén igazgató áll. A főigazgató munkáját a pedagógiai szakszolgálati intézmény egy vagy több feladatának szakmai irányítását ellátó főigazgató-helyettes, az igazgató munkáját a tagintézmény egy vagy több feladatának szakmai irányítását ellátó igazgatóhelyettes segíti. A főigazgató-helyettesek egyike közvetlenül irányítja a székhelyintézmény által ellátott szakmai feladatok végrehajtását. A pedagógiai szakszolgálati intézményekben alkalmazott vezetők kötelező létszámát az 5. melléklet tartalmazza.
+
+(2)[^151] A főigazgató-helyettes és az igazgató heti négy órában, az igazgatóhelyettes heti hat órában végzi a gyermekek, tanulók vizsgálatával, egyéni vagy csoportos foglalkoztatásával, a tanácsadással, gondozói tanfolyamok megtartásával (a továbbiakban együtt: közvetlen foglalkozás) kapcsolatos feladatokat. A közvetlen foglalkozásra megállapított időn felül látják el a vezetői megbízással kapcsolatos feladataikat. A főigazgató közvetlen foglalkozással kapcsolatos feladatokat nem végez.
+
+(3)[^152] Az Nkt. 69. § (1) bekezdés a) és d) pontjában foglalt vezetői feladatokat a főigazgató a főigazgató-helyettesekből és az igazgatókból álló testület (a továbbiakban: igazgatótanács) közreműködésével látja el.
+
+(4)[^153] Az igazgató a tagintézmény vezetésével összefüggő feladatait – az igazgatóhelyettesek, és a tagintézmény egyes telephelyeinek választott képviselőiből álló – tagintézmény-igazgatói tanács közreműködésével látja el.
+
+(5)[^154] A főigazgató a pedagógiai szakszolgálati intézmény, a székhelyintézmény által ellátott szakmai feladatok végrehajtását irányító főigazgató-helyettes a székhelyintézmény, a tagintézmény igazgatója a tagintézmény működési körzetében felel
+
+a) a szakmai munkáért,
+
+b)[^155] a szakalkalmazotti értekezlet vezetéséért,
+
+c)[^156] a szakalkalmazotti értekezlet jogkörébe tartozó döntések előkészítéséért, végrehajtásuk szakszerű megszervezéséért és ellenőrzéséért,
+
+d) a szakmai munka egészséges és biztonságos feltételeinek megteremtéséért,
+
+e)[^157] a nevelési-oktatási, illetve szakképző, a gyermekjóléti, gyermekvédelmi, szociális intézményekkel, valamint a gyámhatósággal, szülőkkel való megfelelő együttműködésért,
+
+f) a tanuló- és gyermekbaleset megelőzéséért.
+
+(6)[^158] A főigazgató és az igazgató munkáját a szakalkalmazotti értekezlet a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés a főigazgató, igazgató munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
+
+### 32. §[^159]
+
+(1)[^160] A pedagógiai szakszolgálati intézményben a vezetői megbízás feltétele
+
+a) főigazgatói megbízás esetén
+
+aa)[^161] pszichológus szakképzettség, klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, vagy
+
+ab)[^162] egyetemi szintű, mesterfokozatú gyógypedagógus szakképzettség, pedagógus-szakvizsga, pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat,
+
+b)[^163] főigazgató-helyettesi, igazgatói, igazgatóhelyettesi megbízás esetén
+
+ba)[^164] pszichológus, gyógypedagógus, konduktor vagy gyógytestnevelő tanár szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, továbbá pszichológus megbízása esetén klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga, gyógypedagógus és gyógytestnevelő tanár esetében pedagógus-szakvizsga, vagy
+
+bb)[^165] önálló konduktív pedagógiai tagintézményben a *ba)* pontban foglaltaktól eltérően igazgatói, igazgatóhelyettesi megbízás esetén konduktor szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pedagógus-szakvizsga, vagy
+
+bc)[^166] önálló továbbtanulási, pályaválasztási tanácsadó tagintézményben a *ba)* pontban foglaltaktól eltérően igazgatói, igazgatóhelyettesi megbízás esetén a 6. melléklet 1. A pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményei a vármegyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához című táblázat C:31–C:36 mezőjében jelzett szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pszichológus megbízása esetén pedagógiai, óvoda- és iskola vagy tanácsadói szakvizsga, pedagógus esetében pedagógus-szakvizsga,
+
+és
+
+c) pedagógus-munkakörben fennálló, határozatlan időre, teljes munkaidőre szóló alkalmazás, vagy a megbízással egyidejűleg pedagógus-munkakörben történő, határozatlan időre, teljes munkaidőre szóló alkalmazás.
+
+(2)[^167] Az egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény esetén a pedagógiai szakszolgálat feladatait ellátó szervezeti és szakmai tekintetben önálló intézményegységben az intézményegység-vezetői megbízás feltétele pszichológus, konduktor vagy gyógypedagógus szakképzettség, pszichológus esetében klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga, konduktor vagy gyógypedagógus esetében pedagógus-szakvizsga, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat.
+
+### 33. §
+
+(1) Az Intézményben a gyermekekkel, tanulókkal való közvetlen foglalkozást – ha e rendelet másképp nem rendelkezik – szakvizsgázott pedagógus-munkakörben foglalkoztatottak végzik.
+
+(2)[^168] Az Intézmény egyes feladatainak ellátásához kapcsolódóan a pedagógus-munkakörben foglalkoztatottak szakképzettségi követelményeit a 6. melléklet határozza meg.
+
+(3)[^169] Az Intézményben legalább öt pedagógus hozhat létre szakmai munkaközösséget, az azonos feladatok ellátására egy szakmai munkaközösség hozható létre. Egy Intézményben legfeljebb kilenc – a pedagógiai szakszolgálat feladatai szerint szerveződő – szakmai munkaközösség hozható létre. A szakmai munkaközösség részt vesz az Intézmény szakmai munkájának irányításában, tervezésében, szervezésében és ellenőrzésében, összegző véleménye figyelembe vehető a pedagógusok minősítési eljárásában.
+
+(4)[^170] A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az Intézmény szervezeti és működési szabályzatában meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak munkájának szakmai segítéséről. Az Intézmény szervezeti és működési szabályzata a szakmai munkaközösség részére további feladatokat, jogokat és kötelezettségeket állapíthat meg.
+
+(5)[^171] A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a munkaközösség véleményének kikérésével az Intézmény főigazgatója bíz meg legfeljebb öt évre.
+
+(6)[^172] A szakmai munkaközösség vezetője az igazgatótanács, a tagintézmény-igazgatói tanács ülésein tanácskozási joggal részt vehet.
+
+(7)[^173] Az, aki nem rendelkezik szakvizsgával, – a 44. § (3) bekezdésében foglalt kivétellel – pedagógus munkakörben foglalkoztatható, feltéve, hogy a munkáltató előírja a szakvizsga – az Intézménynél történő foglalkoztatástól, vagy ha ez kedvezőbb, a szakvizsgára történő jelentkezéshez meghatározott pedagógus-munkakörben eltöltött szakmai gyakorlat megszerzésétől számított – öt éven belüli megszerzésének kötelezettségét.
+
+(8) Az Intézményben foglalkoztatottak minimális létszámát a 7. melléklet tartalmazza.
+
+(9)[^174] A (7) bekezdésben eltelt határidő letelte után a pedagógus csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a szakvizsga megszerzésére irányuló képzésben megkezdte.
+
+(10)[^175] A (7) bekezdésben meghatározott időtartamba
+
+a) a szülési szabadság és a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadság,
+
+b) a hozzátartozó tartós személyes ápolása céljából, az ápolás idejére igénybe vett fizetés nélküli szabadság,
+
+c) a tényleges önkéntes tartalékos katonai szolgálatteljesítés céljából igénybe vett fizetés nélküli szabadság
+
+tartama nem számítható be.
+
+### 34. §
+
+(1) A pedagógiai szakszolgálat igénybevétele – a (2) bekezdésben foglalt kivételekkel – a szülő döntése alapján történik.
+
+(2) A pedagógiai szakszolgálat igénybevétele kötelező
+
+a) az Nkt. 72. § (4) bekezdésének felhatalmazása alapján, vagy
+
+b)[^176] a Korm. rendelet 43. §-ában meghatározott közigazgatási hatósági eljárás keretében hozott döntés alapján,
+
+c) illetve az e rendelet 25. § (3) és (4) bekezdése és 28. §-a alapján.
+
+(3) A pedagógiai szakszolgálat keretében biztosított ellátás az év során bármikor megkezdhető, illetve befejezhető.
+
+(4)[^177] Az Intézmény egész évben folyamatosan működik.
+
+(5)[^178] Az Intézmény a feladatainak ellátásához évente, a tanév rendjéhez igazodva munkatervet készít.
+
+(5a)[^179] A tanévben a szakalkalmazotti közösség az Intézmény munkatervében meghatározott pedagógiai szakszolgálati célra hat munkanapot szakszolgálati feladatellátás nélküli munkanapként használhat fel, amelyből két napot a teljes Intézmény, négy napot pedig a székhelyintézmény és a tagintézmények vonatkozásában kell felhasználni.
+
+(6) Ha a (5) bekezdés a) pontban meghatározott időpont lejártát követően kezdeményezik a gyermek, tanuló vizsgálatát, a rendelkezésre álló szabad vizsgálati napokra kell megtervezni a vizsgálatokat a beérkezés sorrendjében.
+
+(7) Az Intézmény szervezeti és működési szabályzatában tagintézményi szintre lebontva kell meghatározni
+
+a) a működés rendjét, ezen belül az igazgatótanács, a tagintézményi tanácsok működésének rendjét,
+
+b)[^180] az érintett nevelési-oktatási, illetve szakképző, gyermekjóléti, gyermekvédelmi, szociális, egészségügyi és rehabilitációs intézményekkel, valamint a gyámhatósággal való kapcsolattartás formáját és rendjét,
+
+c) a szülőkkel való kapcsolattartás formáját és rendjét,
+
+d) a vezetők közötti feladatmegosztást, annak megjelölésével, hogy a pedagógiai szakszolgálati intézmény mely szakmai feladatának, tevékenységének szakmai irányításáért felelős,
+
+e)[^181] a pedagógus munkakörben foglalkoztatottaknak és a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatottaknak – a 6. mellékletben meghatározott képesítési előírásoknak megfelelően – a pedagógiai szakszolgálati intézmény egyes feladatainak ellátásába történő részvételének rendjét,
+
+f) a belső ellenőrzés rendjét,
+
+g) az *a)–c)* pont alá nem tartozó külső kapcsolatok rendszerét, formáját és módját,
+
+h) mindazt, amelynek szabályozását jogszabály előírja.
+
+(8) Az Intézmény a honlapján – tagintézményekre, telephelyekre lebontva – köteles közzétenni az általa nyújtott szolgáltatásokat, a működési körzetét, a gyermekek, tanulók, szülők fogadásának idejét.
+
+### 35. §
+
+(1) Az Intézmény a gyermeket, tanulót az első alkalommal történt személyes találkozás során a forgalmi naplóban nyilvántartásba veszi. Ha a gyermek, tanuló részére ezt követően a pedagógiai szakszolgálat intézmény ellátást nyújt, minden alkalommal a munkanaplóban vagy az egyéni fejlesztési lapon rögzíteni kell a részére nyújtott szolgáltatást. Az Intézmény évente legalább egyszer összefoglalva rögzíti a gyermek, a tanuló fejlesztésének éves előrehaladási eredményét.
+
+(2)[^182] Az Intézmények együttműködnek a nevelési-oktatási, illetve szakképző, gyermekjóléti, gyermekvédelmi, szociális, egészségügyi és rehabilitációs intézmény, valamint a területileg illetékes gyámhatóság vezetőjével, alkalmazottaival a gyermekek, tanulók fejlődésének elősegítése, a tartós gyógykezelés alatt álló gyermekek, tanulók nevelése-oktatása, szükség esetén pedagógiai szakszolgálati ellátása, a beilleszkedési, a tanulási, a magatartási nehézség és a sajátos nevelési igény feltárása céljából.
+
+(3) Az Intézmény a tevékenysége során együttműködik a szülővel, kérésére felvilágosítást ad, segítséget nyújt a gyermek, tanuló otthoni neveléséhez.
+
+(4) Az Intézmény az általa lefolytatott vizsgálat, a gyermekkel, a tanulóval való közvetlen foglalkozás során figyelembe veszi a gyermek, tanuló anyanyelvi sajátosságait.
+
+(5)[^183]
+
+### 35/A. §[^184]
+
+Az oktatási központ az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet 5. § (2) bekezdés 16. pontja alapján, a szakszolgálati feladatellátás szakmai egységességének biztosítása érdekében, a miniszter szakmai iránymutatásával főigazgatói munkaközösséget működtet. A főigazgatói munkaközösség tagjai a tankerületi központok által fenntartott Intézmények főigazgatói, akik a munkaközösség vezetőjét tagjaik közül választják. A főigazgatói munkaközösség üléseit legalább háromhavonta tartja. A főigazgatói munkaközösség az ügyrendjét maga alkotja meg.
+
+## 14. Az iratkezelés és az ügyintézés szabályai
+
+### 36. §
+
+(1) Az iratkezelés rendjét az Intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény rendelkezései, valamint a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai figyelembevételével az e rendeletben foglaltakra is tekintettel szabályozza.
+
+(2) Az Intézménybe érkezett vagy az Intézményen belül keletkezett iratok kezelésének rendjét az iratkezelési szabályzatban kell meghatározni.
+
+(3) Az Intézménybe érkezett és az Intézményben keletkezett iratokat iktatni kell.
+
+(4) A személyesen benyújtott iratok átvételét igazolni kell.
+
+(5) A jogszabályban meghatározottakon túl felbontás nélkül kell a címzetthez továbbítani a névre szóló iratokat, a munkahelyi szakszervezet részére érkezett leveleket, továbbá azokat az iratokat, amelyek felbontásának jogát a vezető fenntartotta magának.
+
+(6) Ha az ügy jellege megengedi, az ügyiratban foglaltak távbeszélőn, elektronikus levélben vagy a jelenlévő érdekelt személyes tájékoztatásával is elintézhetők. Távbeszélőn vagy személyes tájékoztatás keretében történő ügyintézés esetén az iratra rá kell vezetni a tájékoztatás lényegét, az elintézés határidejét és az ügyintéző aláírását.
+
+### 37. §
+
+(1) Az Intézmény által kiadmányozott iratnak tartalmaznia kell
+
+a) az Intézmény
+
+aa) nevét, tagintézmény által kiadmányozott irat esetében a tagintézmény megnevezését,
+
+ab) székhelyét, tagintézmény által kiadmányozott irat esetében a tagintézményi telephely címét,
+
+b) az iktatószámot,
+
+c) annak meghatározását, hogy az irat kiadására az Intézmény, mely feladatához, tevékenységéhez kapcsolódóan került sor,
+
+d) az ügyintéző megnevezését,
+
+e) az ügyintézés idejét,
+
+f) az irat aláírójának nevét, beosztását és
+
+g) az Intézmény körbélyegzőjének, tagintézmény által kiadmányozott irat esetében a tagintézmény körbélyegzőjének lenyomatát.
+
+(2) Az Intézmény által hozott határozatot meg kell indokolni. A határozatnak a rendelkező részben és az (1) bekezdésben foglaltakon kívül tartalmaznia kell
+
+a) a döntés alapjául szolgáló jogszabály megjelölését,
+
+b) amennyiben a döntés mérlegelés alapján történt, az erre történő utalást,
+
+c) a mérlegelésnél figyelembe vett szempontokat és
+
+d) a jogorvoslati lehetőségről történő tájékoztatást.
+
+(3)[^185] Jegyzőkönyvet kell készíteni, ha jogszabály előírja, továbbá ha az Intézmény szakalkalmazotti értekezlete, szakmai munkaközössége az Intézmény működésére vonatkozó kérdésben határoz (dönt, véleményez, javaslatot tesz), továbbá akkor, ha a jegyzőkönyv készítését rendkívüli esemény indokolja és elkészítését az Intézmény főigazgatója elrendelte. A jegyzőkönyvnek tartalmaznia kell elkészítésének helyét, idejét, a jelenlévők felsorolását, az ügy megjelölését, az ügyre vonatkozó lényeges megállapításokat, így különösen az elhangzott nyilatkozatokat, a meghozott döntéseket, továbbá a jegyzőkönyv készítőjének az aláírását. A jegyzőkönyvet a jegyzőkönyv készítője, továbbá az eljárás során végig jelen lévő alkalmazott írja alá.
+
+(4) Az iratokat úgy kell kézbesíteni, hogy annak megtörténte, továbbá az irat átvételének a napja megállapítható legyen.
+
+(5) Az elintézett iratokat irattárba kell helyezni. Az irattári őrzés idejét a 8. melléklet határozza meg. Az irattári őrzés idejét az irat végleges irattárba helyezésének évétől kell számítani.
+
+(6)[^186] Az iratok selejtezését az Intézmény főigazgatója rendeli el és ellenőrzi. A tervezett iratselejtezést, annak tervezett időpontját legalább harminc nappal megelőzően be kell jelenteni az illetékes levéltárnak.
+
+### 38. §
+
+Az Intézménynek az alapító okiratában meghatározott pedagógiai szakszolgálati feladatok ellátásához legalább a 9. mellékletben meghatározott eszközökkel és felszerelésekkel [a továbbiakban: kötelező (minimális) eszközök és felszerelések] rendelkeznie kell. A kötelező (minimális) eszközöket és felszereléseket telephelyenként, az alapító okiratban meghatározott és a telephelyen ténylegesen ellátott feladatokra kell biztosítani.
+
+## 15. [^187] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
+
+### 39. §
+
+(1) A Gyakorló Szakszolgálat a (2)–(13) bekezdésében meghatározott esetekben szakértői bizottságként, egyéb, jogszabályban meghatározott esetekben szakértőként jár el.
+
+(2) A szakértői bizottságként eljáró Gyakorló Szakszolgálat feladata a tanulmányok, vizsgák és a felsőoktatási felvételi eljárás során adható kedvezményekre való jogosultság megítélése érdekében a sajátos nevelési igény, fogyatékosság megállapítása vagy kizárása
+
+a) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet 62. § (11)–(12) bekezdésében és 63. § (3) bekezdésében foglalt esetben,
+
+b) ha az érettségi vizsgára jelentkező személy tanulói jogviszonnyal már nem rendelkezik és a tanulói jogviszony megszűnése után következett be olyan állapot, amely alapján sajátos nevelési igény megállapításának lenne helye,
+
+c) ha a vizsgálatot a nyelvvizsgára jelentkező személy a nyelvvizsga során adható kedvezmények biztosítása érdekében kezdeményezi,
+
+d) ha a vizsgálatot a tanulói jogviszony megszűnése után a KRESZ-vizsga során adható kedvezmények biztosítása érdekében kezdeményezi,
+
+és a kérelmező érvényes szakértői véleménnyel nem rendelkezik.
+
+(3) A szakértői bizottságként eljáró Gyakorló Szakszolgálat eljárása az érintett jelentkező, tanuló, vizsgázó, hallgató kérelmére indul.
+
+(4) A kérelmező vizsgálati kérelmét el kell utasítani, ha a kérelmező által benyújtott orvosi és pedagógiai dokumentumokból, az előzmények feltárásából és elemzéséből megállapítható, hogy a sajátos nevelési igény, fogyatékosság nem áll fenn.
+
+(5) A szakértői vizsgálat időpontját a Gyakorló Szakszolgálat határozza meg, és erről, valamint a szakértői vizsgálat helyéről a kérelmezőt értesíti. A szakértői vizsgálat időpontjáról szóló értesítést a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított tíz napon belül, a vizsgálat időpontja előtt legalább tíz nappal meg kell küldeni a kérelmezőnek. A szakértői vizsgálat időpontját a vizsgálat kezdeményezésére irányuló kérelem és a Gyakorló Szakszolgálat által a kérelem alapján bekért dokumentumok megérkezését követő naptól számított harminc napon belüli időpontra kell kitűzni. Amennyiben a kérelmező a szakértői vizsgálat időpontjában nem jelenik meg, további egy alkalommal kell számára vizsgálati időpontot biztosítani. Ennek elmulasztása esetén a vizsgálati kérelmet visszavontnak kell tekinteni.
+
+(6) A szakértői bizottságként eljáró Gyakorló Szakszolgálat komplex pszichológiai, pedagógiai-gyógypedagógiai, orvosi vizsgálat alapján készíti el szakértői véleményét.
+
+(7) A kérelmező vizsgálata mellőzhető, ha a kérelmező által benyújtott orvosi és pedagógiai dokumentumokból, az előzmények feltárásából és elemzéséből megállapítható a sajátos nevelési igény, fogyatékosság megléte.
+
+(8) A szakértői véleményt a szakértői bizottság vezetője és a szakértői bizottságnak a vizsgálatban közreműködő tagjai írják alá. A szakértői véleménynek tartalmaznia kell
+
+a) a kérelmező nevét, születési idejét, lakóhelyét és tartózkodási helyét,
+
+b) a szakértői vizsgálat rövid leírását,
+
+c) a sajátos nevelési igényre, fogyatékosságra vagy annak kizárására vonatkozó megállapítást, az azt alátámasztó tényeket,
+
+d) javaslatot az adható kedvezményekre,
+
+e) a kérelmező tájékoztatását a jogorvoslat lehetőségéről.
+
+(9)[^188] A szakértői véleményt a vizsgálat lezárását követő huszonegy napon belül postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül kézbesíteni kell a kérelmezőnek. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a kérelmező általi átvétele megtörtént, vagy amely napon a kérelmező az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(10) A kérelmező – a szakértői vélemény vagy a vizsgálat elutasításáról szóló értesítés kézhezvételétől számított – tizenöt napon belül kezdeményezheti a szakértői vélemény, illetve a vizsgálat elutasításának felülvizsgálatát közigazgatási hatósági eljárás keretében.
+
+(11) A szakértői bizottságként eljáró Gyakorló Szakszolgálat (2) bekezdésben meghatározott tevékenysége térítésköteles.
+
+(12)[^189] A Gyakorló Szakszolgálat vezetője adott ügyben a kérelmezőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 9. és 10. pontja vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 67/A. §-a alapján hátrányos vagy halmozottan hátrányos helyzetére tekintettel, továbbá ha a kérelmező családjában az egy főre eső havi nettó jövedelem nem haladja meg a szociális vetítési alap összegét, egyedülálló kérelmező esetében a szociális vetítési alap összegének 150%-át, méltányossági jogkört gyakorolva a térítési díjat csökkentheti vagy mellőzheti. Ennek részletes szabályait a Gyakorló Szakszolgálat határozza meg.
+
+(13) A 7–23. § a szakértői bizottságként eljáró Gyakorló Szakszolgálat esetében nem alkalmazható.
+
+## 16.[^190]
+
+## 17. Vegyes rendelkezések
+
+### 43. §[^193]
+
+A korai fejlesztés és gondozás, a nevelési tanácsadás keretében megvalósított fejlesztő pedagógiai ellátás, a 25. § (4) bekezdése szerinti további logopédiai ellátás és a gyógytestnevelés tekintetében a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet (a továbbiakban: EMMI rendelet) 51. § (1)–(2e) bekezdésében foglalt, a gyermek, a tanuló mulasztásával kapcsolatos rendelkezéseket alkalmazni kell, azzal, hogy nevelési-oktatási intézményen a pedagógiai szakszolgálati intézményt kell érteni.
+
+### 44. §
+
+(1)[^194] A pedagógus-szakvizsgával egyenértékű
+
+a) a munkakör ellátásához szükséges végzettség és szakképzettség mellett az egyetemi vagy főiskolai szakirányú továbbképzésben szerzett – jogszabályban meghatározott – szakképzettség,
+
+b) a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozat, valamint a doktori cselekmény alapján szerzett doktori cím, valamint
+
+c)[^195] a klinikai, a pedagógiai, az óvoda- és iskola, a tanácsadói szakpszichológusi, a fogyatékosság típusának megfelelő szakorvos vagy gyermek- és ifjúsági pszichiátria, csecsemő- és gyermekgyógyászat, vagy gyermekneurológia szakorvos és a szociális szakvizsga.
+
+(2)[^196]
+
+(3) Nem vonatkozik a szakvizsga megszerzésére vonatkozó kötelezettség arra a pedagógiai szakszolgálati intézményben foglalkoztatott pedagógusra, aki pedagógiai szakszolgálati feladatot ellátó munkakörben a rendelet hatályba lépéséig legalább öt év szakmai gyakorlattal rendelkezik, és 2013. január 1-től számított ötödik év végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
+
+(4)[^197] A pedagógiai szakszolgálati intézményben, főigazgatói megbízás esetén, a pedagógus-szakvizsga keretében szerzett igazgatói szakképzettséggel egyenértékűnek minősül
+
+a)[^198] pszichológus megbízása esetén a klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga,
+
+b) pedagógus megbízása esetén a pedagógus-szakvizsga.
+
+(5)[^199] Egységes gyógypedagógiai, konduktív pedagógiai módszertani intézményben – amennyiben szervezeti és szakmai tekintetben önálló pedagógiai szakszolgálati intézményegységgel is rendelkezik – igazgatói megbízást kaphat az is, aki a 32. § (2) bekezdésében szabályozott feltételeknek megfelel.
+
+### 44/A. §[^200]
+
+Ha a pedagógus szakképzettsége az e rendeletben meghatározott képesítésnek a megváltozott előírások miatt nem felel meg, és e rendelet hatálybalépésekor a pedagógusnak
+
+a) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van, legfeljebb a nyugdíjkorhatár eléréséig változatlan munkakörben tovább foglalkoztatható;
+
+b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e rendelet hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
+
+### 44/B. §[^201]
+
+(1)[^202] A 7. melléklet alapján az Intézményben foglalkoztatottak vármegyei bontásban meghatározott minimális létszámát a járások közti bontásban a járások sajátosságainak figyelembevételével kell meghatározni azzal, hogy valamennyi járási tagintézménynek – a (2) bekezdésben foglalt kivétellel – teljes körűen el kell látnia az e rendeletben a járási tagintézményre meghatározott szakszolgálati feladatokat.
+
+(2)[^203] Mentesül a járási tagintézmény egyes szakszolgálati feladatok ellátása alól, ha az adott szakszolgálati feladatot ugyanabban a járásban más, szakosított tagintézmény vagy más, szakosított tagintézmény tagintézményi telephelye teljes körűen ellátja.
+
+(3)[^204] Mentesül a székhelyintézmény a továbbtanulási, pályaválasztási tanácsadás szakszolgálati feladat ellátása alól, ha azt más, szakosított tagintézmény a vármegye egésze vonatkozásában teljeskörűen ellátja.
+
+(4)[^205] A székhelyintézmény szakértői bizottsági feladatait a racionálisabb feladatellátás érdekében szakosított tagintézmény a vármegye egy része vagy a feladat egy része vonatkozásában elláthatja.
+
+### 44/C. §[^206]
+
+A 6. mellékletben foglaltaktól eltérően gyógytestnevelő tanár munkakörben foglalkoztatható a felsőfokú végzettségi szinten pedagógus szakképzettségre épülő
+
+a) óvodapedagógus, gyógytestnevelés szakirányon,
+
+b) tanító, gyógytestnevelés szakirányon,
+
+c) szakvizsgázott pedagógus, gyógytestnevelés területen,
+
+d) gyógytestnevelés tanítására felkészített pedagógus,
+
+e) pedagógus, gyógytestnevelés szakirányon
+
+szakirányú továbbképzési szakon szerzett szakképzettséggel rendelkező pedagógus is, ha a gyógytestnevelést a szakirányú továbbképzési szak bemeneti feltételéül meghatározott pedagógus szakképzettségének megfelelő pedagógiai szakaszban nevelésben, nevelésben-oktatásban részesülő gyermekek, tanulók számára szervezik meg, és a gyógytestnevelő tanár munkakör gyógytestnevelő tanár vagy gyógytestnevelő-egészségfejlesztő tanár szakképzettséggel rendelkező pedagógussal nem tölthető be.
+
+### 45/A. §[^208]
+
+Az Nkt. és az EMMI rendelet gyermek, tanuló felügyeletére és a tanuló- és gyermekbalesetre vonatkozó szabályait a pedagógiai szakszolgálati feladatok ellátása során az alábbi eltérésekkel kell alkalmazni:
+
+a) gyermek, tanuló felügyelete a pedagógiai szakszolgálati intézményben, illetve a szakszolgálati tevékenység ellátása alatt: a gyermek, tanuló testi épségének megóvásáról és erkölcsi védelméről való gondoskodás, azon idő alatt, amíg a gyermek a pedagógiai szakszolgálati tevékenységet ellátó szakember tényleges jelenlétében a szakszolgálati ellátásban részesül, függetlenül attól, hogy az ellátás mely helyszínen valósul meg,
+
+b) tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a szakszolgálati intézmény szakemberének felügyelete alatt áll.
+
+### 45/B. §[^209]
+
+Ha a gyermek, tanuló, kérelmező olyan, külföldön kiállított, hiteles magyar fordítású dokumentummal rendelkezik, amely a magyar jogszabályok szerinti sajátos nevelési igényt, fogyatékosságot igazol, akkor a szakértői bizottság a szakértői véleményét a külföldi dokumentum által jelzett sajátos nevelési igény, fogyatékosság tekintetében külön vizsgálat nélkül is elkészítheti.
+
+### 45/C. §[^210]
+
+A nevelési-oktatási intézményben foglalkoztatott pedagógus munkáltatója az Intézmény írásbeli kérelmére, az Nkt. 65. § (5b) bekezdése szerinti célfeladatot állapíthat meg a pedagógus részére pedagógiai szakszolgálati tevékenységnek az Intézmény számára történő ellátására, ha a pedagógus a megfelelő szakképzettséggel rendelkezik és vállalja, hogy a célfeladatot az e rendeletben foglaltak szerint, az Intézmény szakmai vezetése alatt, az Intézmény pedagógusaira vonatkozó szabályok betartásával végzi. A célfeladat megállapításakor előnyben kell részesíteni azt a pedagógust, aki egyebekben a célfeladat ellátásával megegyező feladat-ellátási helyen végzi nevelési-oktatási feladatait. A célfeladatot vissza kell vonni, ha azt az Intézmény írásban kezdeményezi.
+
+### 45/D. §[^211]
+
+Ha e rendelet a szülő részére kötelezettséget vagy jogot állapít meg, nagykorú, cselekvőképes tanuló esetén a kötelezettség teljesítése és a jog gyakorlása a tanulót terheli vagy illeti meg.
+
+### 45/E. §[^212]
+
+A központilag kiadott, szakértői vélemény készítését kezdeményező kérelemnyomtatvány a vizsgálat kezdeményezésének indokait, a szülő nyilatkozatait, a gyermek, tanuló
+
+a) személyes adatait,
+
+b) nevelését-oktatását ellátó intézmény alapadatait,
+
+c) eddigi intézményes fejlesztésére, nevelésére-oktatására vonatkozó adatait,
+
+d) pedagógiai jellemzését
+
+tartalmazza.
+
+## 18. Záró rendelkezések
+
+### 46. §
+
+Ez a rendelet 2013. március 1-jén lép hatályba.
+
+### 47. §
+
+(1)–(2)[^213]
+
+(3) Az Intézmény a szervezeti és működési szabályzatába a 34. § (7) bekezdés d)–e) pontjában foglaltakat 2013. július 31. napjáig építi be, valamint ezen időpontig eleget tesz a 34. § (8) bekezdésben foglaltaknak.
+
+### 49. §
+
+A tanulási képességet vizsgáló szakértői és rehabilitációs bizottságok, az országos szakértői és rehabilitációs bizottságok, és a nevelési tanácsadók, e rendelet hatálybalépése előtt kibocsátott szakértői véleményei és szakvéleményei joghatásukat tekintve az e rendelet szabályai szerint hozott szakértői véleményekkel egyenértékűek.
+
+### 50. §
+
+Az e rendelet hatálybalépésekor már megkötött – pedagógiai szakszolgálati feladat ellátására vonatkozó – közoktatási megállapodások és köznevelési szerződések, joghatásukat tekintve az e rendeletben szabályozott köznevelési szerződésekkel egyenértékűek.
+
+### 51. §
+
+E rendelet hatálybalépésének időpontjában folyamatban lévő ügyekre e rendelet szabályait kell alkalmazni.
+
+## 1. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^216]
+
+## 2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^217]
+
+**A szakértői vizsgálat eljárásrendje**
+
+1\. **A szakértői vizsgálat típusai**
+
+a) Alapvizsgálat: a gyermek, tanuló teljes körű (pedagógiai/gyógypedagógiai, pszichológiai, orvosi) vizsgálata.
+
+b) Kiegészítő vizsgálat: az alapvizsgálat során felmerült, a megalapozott diagnózis megállapításához szükséges – de a gyermek terhelhetősége, a szükséges vizsgálati eszköz, szakember, vagy kompetencia hiánya miatt – annak keretében el nem végzett, a bizottság keretein belül el nem végezhető orvosi, pszichológiai stb. vizsgálat.
+
+c) Felülvizsgálat: hivatalból, hatósági megkeresésre vagy szülői kérelem alapján vagy a gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola kérelme alapján végzett, – a korábbi diagnózis megalapozottságát, a nevelés, a nevelés, oktatás formájának megfelelőségét, a fejlesztés eredményességének mérését célzó felülvizsgálat.
+
+2\. **A szakértői vizsgálat előkészítése**
+
+A vizsgálatvezető és a vizsgálatot végző szakemberek kijelölése
+
+A vizsgálat helyének és időpontjának meghatározása, erről
+
+– a szülő,
+
+– amennyiben a vizsgálaton való részvételre közigazgatási hatósági eljárás keretében hozott döntés kötelezte a szülőt, a döntést kiadó tankerületi központ,
+
+– amennyiben a halmozottan hátrányos helyzetű vagy a gyermekvédelmi szakellátás keretében átmeneti nevelésbe vett gyermek, tanuló vizsgálatához az Oktatási Hivatal által kijelölt szakszolgálati-esélyegyenlőségi szakértő kirendelésére kerül sor, az Oktatási Hivatal értesítése.
+
+Amennyiben a szülő nem jelenik meg gyermekével a szakértői vizsgálat megjelölt időpontjában, úgy második vizsgálati időpont meghatározása, az időpontról a szülő, értesítése.
+
+Amennyiben a második vizsgálati időpontban sem jelenik meg a szülő gyermekével, – a gyermek, tanuló érdekében – a szakértői bizottság vezetője közigazgatási hatósági eljárás megindítását kezdeményezi a gyermek lakóhelye, tartózkodási helye szerint illetékes tankerületi központnál.
+
+3\. **A szakértői vizsgálat menete**
+
+A szakértői vizsgálatot a vizsgálatvezető a szakember csoporttal – a továbbiakban: szakmai csoport – (gyógypedagógus, pedagógus, pszichológus, orvos) végzi az e rendelet szerinti szakmai, értékelési, követelmények alapján, melyről vizsgálati dokumentáció készül.
+
+A vizsgálatvezető feladata és felelőssége a szakmai csoport irányítása, a szakmai követelmények megfelelő használata, a csoportmegbeszélés vezetése és a vizsgálatot követően a vizsgálati véleményről a szülő tájékoztatása.
+
+A vizsgálati dokumentáció – az elkészített jegyzőkönyvek – alapján a vizsgálatvezető a szakmai csoporttal elemzi, összeveti, megbeszéli a tapasztalatokat. A vizsgálatvezető a vizsgálat eredményét a Vizsgálati véleményben rögzíti.
+
+A vizsgálati véleményt a vizsgálatvezető ismerteti a szülővel.
+
+4\. **A folyamatos figyelemmel kísérésre irányuló javaslat, a folyamatos figyelemmel kísérés eljárásrendje**
+
+Amennyiben az enyhe értelmi fogyatékosság megállapítására vagy kizárására irányuló első vizsgálat során az orvosi adatok, szakértői vélemény nem támasztják alá a fogyatékosság tényét (nem állapítható meg az ok), vagy ha a komplex vizsgálat (pszichológiai, gyógypedagógiai, orvosi) alapján egyértelműen nem támasztható alá az enyhe értelmi fogyatékosság diagnózisa (határeset, retardáció), akkor a vizsgálatvezető kezdeményezi a folyamatos figyelemmel kísérést. Szükségességéről a vizsgáló csoport véleményének figyelembevételével a bizottságvezető dönt. A folyamatos figyelemmel kísérés tényéről a vizsgálatvezető (az időtartam, a vizsgálatvezető gyógypedagógus megjelölésével, elérhetősége megadásával, a megfigyelés módszerének ismertetésével) a szülőt tájékoztatja, a szülőt és az érintett intézményt írásban értesíti, az utóbbival elvégzi a szükséges egyeztetést.
+
+A gyermek folyamatos figyelemmel kísérése a gyermeket nevelő, a tanulót nevelő, oktató intézményben történik előzetesen egyeztetett időpontban, az e rendeletben meghatározott módon. A vizsgálatvezető tájékoztatja az intézmény (fő)igazgatóját, majd az érintett pedagógusokat a jogi- és szakmai szabályokról, a pedagógiai teendőkről.
+
+Első alkalommal a bizottságvezető által megbízott munkatárs megfigyeli a gyermeket, a tanulót az óvodai, iskolai, környezetben, egyezteti a megfigyelést segítő, a pedagógus feladatait rögzítő megfigyelési szempontsort, elkészíti az első megfigyelés tapasztalatait rögzítő feljegyzést. A megfigyelési szempontsor meghatározza a gyermek, a tanuló nevelésével, oktatásával kapcsolatos teendőket, valamint a megfigyelésben közreműködő pedagógus feladatait.
+
+A megbízott munkatárs a második és a harmadik látogatás során megfigyeli a gyermeket, a tanulót az óvodai, iskolai környezetben, és konzultál a megfigyelésben közreműködő pedagógussal. Áttekinti a köztes időben készült értékelést.
+
+A megfigyelési szakaszt követően a pedagógus részletes értékelést készít. Ezt és a megbízott munkatárs tapasztalatait a csoport elemzi. A vizsgálatvezető átadja az értékelést a bizottságvezetőnek, és kezdeményezi a gyermek, a tanuló vizsgálatra való behívását.
+
+5\. **A szakértői vélemény elkészítése**
+
+A szakértői véleményt a gyermekről az e rendeletben meghatározott időtartamon belül kell elkészíteni.
+
+– A szakértői véleményt a vizsgálatvezető – a munkatársak által elkészített részvizsgálatok (gyógypedagógiai, pszichológiai, orvosi) eredményeinek felhasználásával – készíti el, melyet a bizottságvezető a szakmai és jogi megfelelőségek és a nyilvántartó mappa tartalma alapján ellenőriz. Az ellenőrzés szempontjai: az e rendeletben foglalt szabályozóknak, az adatvédelmi szabályoknak, a belső szabályozóknak, a szakmai szabályoknak való megfelelés, a szakértői vélemény információértéke.
+
+Az ellenőrzött, jóváhagyott szakértői vélemény – a megfelelő szakmai és iratkezelési dokumentálás után – a rendeletben meghatározottak szerint kerül elküldésre.
+
+6\. **A vizsgálati vélemény ismertetése**
+
+A véleményt a vizsgálatvezető ismerteti a szülővel. Egyértelmű – a szülő számára érthető – tájékoztatást ad a vizsgálat eredményeiről, a gyermek további intézményes nevelésére, az intézményválasztásra, vonatkozó javaslatokról, lehetőségeiről; alátámasztva mindezt a vizsgálat dokumentációjával, és tájékoztatást adva a vonatkozó jogszabályokról, kiemelten a szülő jogairól és kötelezettségeiről, és a bizottság számára a szakértői vélemény elkészítését követő kötelezettségekről. (A szakértői vélemény továbbítása annak elfogadása, illetve el nem fogadása esetén, a felülvizsgálat kezdeményezésének lehetséges formái, a hivatalból elrendelt felülvizsgálatok célja, időpontja stb.) Az ismertetés során a szülő számára lehetőséget kell adni arra, hogy kérdezzen, hogy véleményét az elmondottakkal kapcsolatban megfogalmazza.
+
+Az előzetes vizsgálati véleményben foglaltak megismerését követően annak elfogadásáról vagy elutasításáról, az intézményes nevelésre vonatkozó javaslat elfogadásáról vagy elutasításáról a szülő nyilatkozik, nyilatkozatát aláírásával igazolja. Tájékoztatni kell a szülőt arról is, hogy a vizsgálat alapján elkészített szakértői véleménynek a kézhezvételétől számítva tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére.
+
+7\. **Felülvizsgálati eljárás**
+
+A szakértői bizottság a sajátos nevelési igényű, és a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekeket, tanulókat e rendeletben meghatározott időközönként hivatalból felülvizsgálja.
+
+A hivatalból elrendelt felülvizsgálattal megbízott munkatárs a beérkezett felterjesztéseket rendszerezi, ellenőrzi, hogy minden érintett nevelési, oktatási eleget tett-e – a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 95. § (6) bekezdésében meghatározott jelentési kötelezettségének.
+
+A bizottságvezető kijelöli a vizsgálatvezetőt és a vizsgálatban résztvevőket, elkészíti a felülvizsgálatok ütemtervét, dönt arról, hogy a felterjesztő intézményben, vagy a bizottság székhelyén történjék-e a vizsgálat, és írásban értesíti az intézményeket a vizsgálat helyéről és időpontjáról.
+
+## 3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^218]
+
+**A szakértői vélemény elkészítésének szakmai követelményei**
+
+1\. *A vizsgálatok rendszerezése típusok, életkori ciklusok irányultsága és jellemzői szerint*
+
+A vizsgálatok típusai
+
+a) Az aktuális állapot feltárására irányuló vizsgálat: célja az induló státusz meghatározása (alapvizsgálat, kiegészítő vizsgálat),
+
+| Irányultság | Jellemzők<sup>1</sup> |
+|---|---|
+| Korai felismerés és gondozás | *a*) Relevanciája sérülésspecifikus, jellemzően 0–3 év között *b)* Az induló fejlesztés megalapozása, illetve a fejlődés nyomon követése *c)* Hangsúlyeltolódás a szülői szerep erősítése, előtérbe helyezése és a társszakmákkal való együttműködése irányába *d*) A diagnosztikus besorolás globálisabb megítélést jelent, a véleményalkotás és prognosztizálás terén fokozott óvatosság szükséges *e)*A pszichológiai sajátosságok, oki és következményes tényezők vizsgálata. |
+| Tanköteles kort megelőző óvodáskorú gyermekek | *a)* Jellemzően 3-6 éves kor között *b)* Szociokulturális hátrányok és a (rész)képesség-problémák szétválasztása, a terápia megalapozása a prevenció szemléletének jegyében *c)* Támpont a fejlesztés, a terápia megtervezéséhez, az intézményes ellátás formájának és színterének kijelöléséhez, a szakemberek szerepének erősödése *d)* Differenciáltabb besorolás a (rész)képesség-problémának megfelelően, a befolyásolás érdekében, a fejlesztésdiagnosztikai szempont előtérbe helyezésével *e)*A pszichológiai sajátosságok, oki és következményes tényezők vizsgálata. |
+| Tanköteles korba lépés (beiskolázás) | *a)* 6–8 éves kor között *b)*A beiskolázás és szükség esetén a terápia színterére és formájára vonatkozó javaslattétel *c)* Az iskolai beválás szempontjából lényeges képességek, készségek vizsgálata, az erősségek és gyengeségek feltárása, differenciál- diagnosztikai döntéshozatal *d)* Javaslattétel a tankötelezettség teljesítésének megkezdésére vonatkozó életkori intervallum figyelembe vételével *e)*A pszichológiai sajátosságok mérlegelése: az érzelmi-indulati élet sajátosságai, diszfunkciói. |
+| A tankötelezettség teljesítésének szakasza | *a)*A hosszú távú társadalmi beilleszkedés, beválás segítése, a reális pályaválasztás támogatása *b)* Az állapotváltozás nyomon követése, a beválást nehezítő/segítő jellemzők azonosítása, segítő stratégiák, megoldási javaslatok megfogalmazása az élethelyzet módosítására, a hátrányok enyhítésére *c)*A folyamatdiagnosztikai szempont előtérbe helyezése, illetve az újonnan jelentkező eseteknél az előzmények lehetőség szerinti feltárása *d)*A pszichológiai sajátosságok mérlegelése: az érzelmi-indulati élet sajátosságai, diszfunkciói. |
+
+a) Idői intervallum
+
+b) Cél
+
+c) Tartalom
+
+d) Specifikum
+
+2\. *A komplex szakértői vizsgálatot végzők kompetenciaköre*
+
+2.1. Gyógypedagógus
+
+A gyógypedagógus kompetenciája a beilleszkedési, tanulási, magatartási nehézség, vagy a sajátos nevelési igény megállapítása vagy kizárása során:
+
+Felveszi és értelmezi az anamnézist nevelési szempontból,
+
+Vizsgálja a gyermek, tanuló/fiatal
+
+– teljesítményét annak tükrében, hogy a gyermeket/tanulót/ifjút milyen pedagógiai kedvező/kedvezőtlen hatások érték,
+
+– társuló fogyatékosságainak meglétét,
+
+– a különleges bánásmód keretében történő ellátásának szükségességét gyógypedagógiai vizsgálati eszközökkel (mozgás, rajz, beszéd, általános tájékozottság, szociális érettség stb.),
+
+– számára kedvező fejlesztési/nevelési-oktatási/terápiás színtér, intézmény lehetőségét, majd arra javaslatot tesz.
+
+Vizsgálja és megítéli:
+
+– a kompenzáció, korrekció, felzárkóztatás lehetőségeit, a fejlesztési, nevelési-oktatási, terápiás esélyeket,
+
+– a taníthatóság, a gyakorlékonyság mértékét, a segítségnyújtás típusát, és felhasználásának mértékét.
+
+Biztosítja a kapcsolattartást a különleges bánásmód keretében történő ellátást szervező, irányító, ellátó intézményekkel, szakemberekkel.
+
+Részt vesz a végső vélemény megalkotásában, a szakértői vélemény megírásában, amelyet aláírással hitelesít.
+
+2.2. Pszichológus
+
+A pszichológus kompetenciája a beilleszkedési, tanulási, magatartási nehézség, vagy a sajátos nevelési igény, megállapítása vagy kizárása során:
+
+– a vizsgálat során gyűjtött adatok pszichológiai szempontú értelmezése,
+
+– a pszichológiai vizsgálat, kognitív, projektív és más pszichológiai tesztek,
+
+– a vizsgálati eredmények minőségi értékelése,
+
+– a teljesítményprofilok értelmezése,
+
+– a teljesítmények mögött álló pszichés mechanizmusok megismerése,
+
+– a teszteredmények összehasonlítása: a különbözőségek és azonosságok értelmezése,
+
+– a végső vélemény megalkotásában, a szakértői vélemény megírásában való révétel, amit aláírásával hitelesít.
+
+A pszichológus a gyermek, tanuló, fiatal megítélésekor arra törekszik, hogy optimális feltételek (kellő motiváció, bizalmi légkör, tárgyi körülmények) mellett derítse ki a teljesítménybeli maximumot és minimumot, valamint azt, hogy az aktuális teljesítmények hátterében milyen képességek, személyiségjegyek, illetve milyen teljesítményt befolyásoló egyéb körülmények állnak fenn.
+
+A pszichológus további kompetenciái:
+
+– javaslattétel pszichoterápiás kezelésre, családterápiára,
+
+– a pedagógus és a gyermeki interakciók optimális kialakításának kezdeményezése, segítése,
+
+– segítségnyújtás a gyermekkel, tanulóval kapcsolatban lévő pedagógusok számára az állapot pontos megértésében, a megfelelő attitűd kialakításában,
+
+– támogatás a gyermek családi, iskolai szocializációs beilleszkedésének, partnerkapcsolatainak rendezésében.
+
+2.3. Orvos
+
+A fogyatékosság típusának megfelelő szakorvosi vagy gyermek- és ifjúsági pszichiátria, csecsemő és gyermekgyógyászat, illetve gyermekneurológia szakorvos kompetenciája a beilleszkedési, tanulási, magatartási nehézség, vagy a sajátos nevelési igény megállapítása vagy kizárása során a kóreredet megállapítása, a szomatikus és idegrendszeri állapot feltárása és jellemzése:
+
+– a gyógypedagógus vagy pszichológus által felvett anamnézis áttekintése és kiegészítése az orvosi szempontból szükséges (kóreredetre, a gyermek biológiai-környezeti fejlődési feltételeire utaló) információkkal,
+
+– a korábban bekért/hozott orvosi vizsgálati dokumentumok (pl. a gyermekkel kapcsolatos kórházi zárójelentések) tanulmányozása,
+
+– az „alap” (a gyermek általános egészségi státuszával kapcsolatos) vizsgálatok, illetve az „alap” neurológiai-pszichiátriai státusz leírásához szükséges vizsgálatok elvégzése,
+
+– diagnózis felállítása, az orvosi státusz, vélemény leírása (a BNO, FNO, DSM. figyelembevétele),
+
+– további vizsgálatot, szakorvosi vizsgálatot javasol/kér,
+
+– orvosi szempontú tanácsot ad, illetve orvosi terápiás eljárásokat javasol,
+
+– a közvetlen hozzátartozóknak a gyermekkel kapcsolatos további teendőkről tájékoztatást nyújt,
+
+– az orvosi összefüggések tekintetében konzultál a gyógypedagógusokkal-pszichológusokkal a szakértői vélemény kialakításáról,
+
+– a szakértői véleményhez megírja, illetve abban ellenőrzi az orvosi vizsgálatok tartalmát.
+
+A képzéshez kötött vizsgálati eszközök használatához elengedhetetlen a gyógypedagógus, pszichológus, orvos alapvégzettség mellett az eszköz használatára jogosító képzettség.
+
+3\. *A komplex szakértői vizsgálat részterületei*
+
+A vizsgálat megtervezése és az eszközök kiválasztása során – támaszkodva az előzetesen rendelkezésre álló anyagokra és adatokra – az alábbi szempontokat szükséges mérlegelni:
+
+– Az eset egyértelműsége/bonyolultsága,
+
+– A rendelkezésre álló idő és eszközök,
+
+– A gyermek, tanuló életkora, terhelhetősége, teherbírása,
+
+– Saját szakmai felkészültség, gyakorlat, diagnosztikus ismeretek.
+
+3.1. Az előzmények feltárása
+
+Panaszfeltárás
+
+Jelen állapot (kikérdezés, dokumentációelemzés)
+
+Anamnézis/élettörténet (kikérdezés, dokumentációelemzés)
+
+3.2. A gyermek aktuális állapotának értékelése
+
+A pszichés funkciók és képességek vizsgálata:
+
+– Az átfogó intellektuális képesség,
+
+– A kognitív funkciók,
+
+– Az adaptív viselkedés (szociális érettség).
+
+A szerzett ismeretek körének vizsgálata:
+
+– Az iskoláskor előtti ismeretek,
+
+– Az iskolai készségek vizsgálata.
+
+A személyiség megfigyelése, jellemzése
+
+Az érzelmi-pszichológiai tényezők értékelése és mérlegelése.
+
+Orvosi vizsgálat
+
+– Háziorvos, házi gyermekorvos és területi védőnői szolgálat számára jogszabályban előírt életkorhoz kötött szűrővizsgálatok eredményeinek kiértékelése
+
+– A rendelkezésre álló zárójelentések, orvosi vizsgálati eredmények elemzése
+
+– Általános orvosi, gyermekneurológiai, gyermek- és ifjúságpszichiátriai vizsgálatok lefolytatása
+
+4\. *A komplex szakértői vélemény kialakításának általános szempontjai*
+
+A szakértői vélemény komplex gyógypedagógiai-pszichológiai-orvosi vizsgálat során gyűjtött adatok alapján készíthető el.
+
+4.1. A szakértői vélemény kialakításának menete
+
+Az adatok értékelése, értelmezése, rendszerezése
+
+– az adatok bírálata, összevetése, rendezése, kiválogatása,
+
+– az adatok közötti lényegi, a véleményalkotást előrevivő összefüggések az adott nehézségre, fogyatékosságra, zavarra, rendellenességre jellemző együttjárások keresése,
+
+– a vélemény szerkezeti felépítéséhez igazodó bizonyító tények, adatok kiemelése.
+
+A vélemény (diagnózis) kialakítása
+
+A komplex diagnózis (a komplex gyógypedagógiai, pszichológiai és orvosi vélemény) a belső és külső hatások következtében létrejött nehézség, fogyatékosság, zavar (azok jellegének, fokának, kimenetelének) megállapítása, vagy kizárása.
+
+A beilleszkedési, tanulási, magatartási nehézség, vagy a sajátos nevelési igény megállapítása vagy kizárása.
+
+A vélemény alapján a különleges bánásmód keretében történő ellátásra való jogosultság megállapítása.
+
+4.2. A tennivalók megállapítása (javaslattétel)
+
+A javaslattétel tartalmazza:
+
+– Az intézményes ellátásra vonatkozó javaslatot: a korai fejlesztésre, fejlesztő nevelés-oktatásra, óvodai nevelésre, iskolai nevelésre, oktatásra rendelkezésre álló intézmény nevesítését
+
+– Minden olyan intézményes fejlesztést kiegészítő lehetőséget, amelynek igénybevétele szintén javasolt a gyermek, a tanuló számára az optimális fejlődése szempontjából.
+
+5\. *Szakértői vélemény tartalma*
+
+Azonosító adatok: a vizsgált személy, szülő, gondviselő, intézmény.
+
+A vizsgálat előzményei:
+
+– Problémafelvetés, a vizsgálatkérő, a szakértői vélemény készítés indítékai, a probléma, panasz, a panasz gyakorisága, intenzitásának leírása, korábbi vélemények összefoglalása
+
+– A vizsgálat célja: kérés, igény elvárás megjelenítése
+
+– Anamnézis: születés körüli adatok, fejlődést meghatározó tényezők (családi és szociális, betegségek, korábbi orvosi vizsgálatok eredményei, pedagógiai-nevelési feltételek, korábbi pszichológiai értékelések, kezelések, terápiák, fejlesztések gyakorisága, intenzitása, helye, személyi feltételei)
+
+Vizsgálati tények:
+
+– Eljárások, módszerek megnevezése
+
+– A viselkedésre vonatkozó megállapítások (fizikai megjelenés, habitus, magatartás, figyelem-orientáció, érzelem, együttműködés, feladathoz való viszony, motiváció, a viselkedés változása a megerősítő stratégiákra, stresszt kiváltó körülmények, a viselkedés jelentős eltérései)
+
+– Komplex vizsgálati eredmények
+
+– Általános intelligenciavizsgálatok,
+
+– Kognitív funkciók (végrehajtó funkciók, figyelem, koncentráció, orientáció, receptív és expresszív beszéd, érzékelés, észlelés, motorium, vizuomotoros organizáció, tanulás, emlékezet),
+
+– Az érzelmi-indulati élet pszichológiai sajátosságai: pszichológiai vizsgálóeljárások.
+
+– A gyermek tanult, szerzett ismereteinek köre, tudásszintje (utánzáson, megértésen, aktív beszéden alapuló ismeretek, olvasás, írás- helyesírás, számolási készség, általános tájékozottság),
+
+– Adaptív viselkedés (önállóság, társas kapcsolatok, beilleszkedés, önkontroll, játék, szabadidő szervezése).
+
+Megállapítások:
+
+– Összegző komplex vélemény (az okok és következmények összefoglalása, a nehézségekre, a fogyatékosságokra, zavarokra vonatkozó megállapítások)
+
+– A beilleszkedési, tanulási, magatartási nehézséggel, a sajátos nevelési igénnyel kapcsolatos megállapítások (megállapítás vagy kizárás)
+
+– A különleges bánásmód keretében történő ellátásra való jogosultság megállapítása (sajátos nevelési igény megállapítása esetén az ellátás intézményes módja: külön- vagy /együttnevelés, együttnevelésre történő javaslat esetén javaslat a részleges, vagy a teljes integrációra.
+
+Javaslatok:
+
+– A fejlesztő, a rehabilitációs célú/foglalkoztatásokra (beilleszkedési, tanulási, magatartási nehézség megállapítása esetén a fejlesztés helyszíne – pedagógiai szakszolgálati intézmény vagy a nevelési, nevelési, oktatási intézmény, rendszeresség – javasolt heti óraszám, forma – egyéni/csoportos, tartalom – komplex/speciális funkciókra irányuló, terápiás eljárások megnevezése, az azt ellátó pedagógus szakképzettségére vonatkozó javaslat).
+
+– Tanulásszervezési, módszertani, pedagógiai javaslatok
+
+– Pedagógiai értékelésre, minősítésre vonatkozó javaslatok (értékelés, minősítés alóli mentesítések, egyéb
+
+az Nkt.-ban a meghatározott jogosultságok köréből a tanuló érdekét szolgáló lehetőségekre történő javaslattétel, pedagógiai segítségnyújtás, egyéni pedagógiai tervezés,
+
+– A gyermek ellátásában, fejlesztésében részt vevők együttműködésére vonatkozó javaslatok
+
+– Javaslatok a szülők számára (a szakértői véleményszülő számára érthető összegzése, a gyermek problémájának elfogadását segítő tanácsok, a köznevelési intézménnyel való együttműködésre vonatkozó javaslatok, tájékoztatás a segítő civil szervezetekkel való kapcsolatteremtés lehetőségeiről, jelentőségéről)
+
+– Részletes fejlesztési javaslatok
+
+Óvodai nevelésére, iskolai nevelésére-oktatására (csoport/osztályfok meghatározásával), korai fejlesztésére, gondozására javasolt intézmény megnevezése, a beíratás időpontjának meghatározása.
+
+A hivatalból elrendelt kötelező felülvizsgálat idejének, helyének megjelölése.
+
+A vizsgálati véleményben foglaltakkal kapcsolatban a szülő véleménye (elfogadás, vagy elutasítás tényének rögzítése).
+
+Tájékoztatás a szülő, gondviselő számára a jogorvoslat lehetőségéről.
+
+6\. *A komplex diagnosztikus tevékenység feladatai a DSM, BNO és FNO tartalmainak alapvető figyelembevételével*
+
+6.1. Értelmi fogyatékosság (átfogó intellektuális képességzavar) megállapítása
+
+Diagnosztikus kritériumok:
+
+a) Az egyén aktuális globális intellektuális működésszintje standardizált eljárással mérve az adott populáció átlagától szignifikáns mértékben (–2 SD vagy több), negatív iránban eltér.
+
+A pszichometriai kritérium komplex vizsgálati keretbe helyezve, a globális IQ-érték mellett profilanalízissel kiegészítve használható.
+
+b) Az otthoni vagy közösségi adaptív magatartás jelentős sérülése.
+
+A különböző funkcióterületek (önellátás, kommunikáció, önirányítás, közösségi források felhasználása stb.) szerepe és jelentősége életciklusonként, illetve értelmi fogyatékosság mértékének megfelelően változik.
+
+c) A kognitív/intellektuális képességek megkésett fejlődésére utaló anamnesztikus/élettörténeti adatok és az otthoni környezetben/intézményes nevelés keretében aktuálisan fennálló elmaradások
+
+d) A fenti jellemzők iskolai előmenetelre gyakorolt hatásai (általános tanulási problémák, nehézségek)
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (részletes anamnézis) | Kikérdezés |
+| Általános értelmi képességek | Standardizált tesztek, skálák |
+| Adaptív viselkedés, szociális érettség | Megfigyelés és kikérdezés a kortársakhoz és az adott kultúrához viszonyítva |
+| Pedagógiai vizsgálatok (olvasás, írás, számolás) | Megfigyelés Próbamódszerek |
+| Osztálytermi megfigyelés, pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Otthoni és tanórai munkák | Megfigyelés |
+| Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények, szülői, családi attitűdök | Kikérdezés |
+| Nagymozgás | Standardizált fejlődési tesztek, skálák Megfigyelés |
+| Finommozgás |  |
+| Szenzoros és szenzomotoros integráció |  |
+| Beszéd | Megfigyelés és kikérdezés a kortársakhoz és az adott kultúrához viszonyítva |
+| Szociabilitás, adaptív viselkedés |  |
+| Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Általános értelmi képességek | Standardizált tesztek, skálák |
+| Szenzoros és szenzomotoros integráció | Standardizált tesztek, skálák |
+| Vizuomotoros rendezési funkció | Standardizált tesztek |
+| Emberalak-ábrázolás | Standardizált tesztek |
+| Általános tájékozottság | Kikérdezés, megfigyelés |
+| Beszédértésének, beszédprodukciójának | Tesztek, kikérdezés, megfigyelés |
+| Mozgásjártasság | Tesztek, kikérdezés, megfigyelés |
+| Általános viselkedés, magatartás | Kikérdezés, megfigyelés |
+| Iskolai tanulást megalapozó készségek | Megfigyelés, próbamódszerek |
+| Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények, szülői, családi attitűdök | kikérdezés, megfigyelés, dokumentációelemzés, orvosi vizsgálat eredményei |
+| Adaptív viselkedés szociális és személyiségfejlődés | fejlődési skálák megfigyelés és kikérdezés a kortársakhoz és az adott kultúrához viszonyítva |
+| Mentális és pszichomotoros fejlettség | fejlődési skálák, kérdőívek, felmérő lapok |
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (általános anamnézis) | A szülő kikérdezése, dokumentumelemzés |
+| Adatgyűjtés, célirányos anamnézis | A szülő kikérdezése Az alap- és célzott szűrővizsgálatok eredményeinek értékelése A pedagógiai jellemzés elemzése Vizuális információ a szociális viselkedésről |
+| Korai tünetek, illetve a Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek feltárása: a szülő célirányos kikérdezése a gyermek fejlődéséről, különös tekintettel a 4–5 éves kor közötti életszakaszra, a gyermek szociális és kommunikációs készségeire, viselkedésére | Szülői kikérdezés |
+| Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek vizsgálata: a naiv tudatelmélet, illetve a végrehajtó funkciók zavarán alapuló sérült szociális és kommunikációs készségek, sajátos gondolkodási stílus és viselkedés vizsgálata, megfigyelése | Fejlődési skála Standardizált teszt Ennek hiányában: Tervezett tevékenykedtetés a viselkedés célirányos megfigyelésére |
+| Általános értelmi képességek | Standardizált teszt |
+| A passzív szókincs vizsgálata és az expresszív beszéddel, grammatikai készséggel kapcsolatos vizsgálatok | Vizsgálati eljárás |
+| A gyermeki fantázia vizsgálata: rajz, mesék iránti érdeklődés | Vizsgálati eljárás Megfigyelés Kikérdezés |
+| Részképességek vizsgálata Nagy- és finommozgások Avizuomotoros koordináció vizsgálata Figyelem Munkamemória | Vizsgálati eljárás Próbamódszerek |
+| Észlelés vizsgálata: Auditív, vizuális, taktilis, vesztibuláris észlelés, érzékenység, hárítások és preferálások feltárása | Szülő kikérdezése Próbamódszerek, kérdőívek, vizsgálati eljárások |
+| Pedagógiai vizsgálatok a tanulást megalapozó további készségek megismerésére: A kultúrtechnikák ismeretének, használatának a vizsgálata, beleértve a gyakorlati életben való alkalmazásra való képességet Aktivitásszabályozás, impulzivitás Kontrollfunkciók (kitartás, késleltetés; reakció akadályoztatásra) Utánzás Taníthatóság, reakció a testi irányításra, téri és idői strukturálásra, vizuális támpont adására | Próbák Szülő kikérdezése Megfigyelés |
+| Tevékenységi kör, időtöltés, a veszély felismerésére való képesség megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
+| Toalett, alvás- és étkezési szokások megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
+
+A figyelem- vagy magatartásszabályozási zavar megállapítása
+
+A motoros koordináció fejlődési zavara
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (részletes anamnézis) | Kikérdezés |
+| Általános értelmi képességek | Standardizált teszt |
+| A motoros jártasság és a szenzoros és szenzomotoros integráció vizsgálata A motoros részképességek, a testséma, a vizuomotoros koordináció vizsgálata | Próbamódszerek |
+| Pedagógiai vizsgálatok, az iskolai képességek megalapozásához szükséges motoros képességek felmérése | Megfigyelés Próbamódszerek |
+| Osztálytermi megfigyelés, pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Otthoni és tanórai munkák | Megfigyelés |
+| Pszichológiai vizsgálatok: impulzus kontroll, egyéb pszichológiai tényezők | Pszichológiai vizsgálóeljárások: tesztek, megfigyelés, konzultáció |
+
+A figyelem és a cselekvésszervezés zavara
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények, szülői, családi attitűdök, gyermek családon belüli viselkedése | kikérdezés, megfigyelés, dokumentációelemzés, orvosi vizsgálat eredményei |
+| Figyelem (koncentráció, megosztás, terjedelem, tartósság) | tesztek |
+| Aktivitás, impulzivitás | Kérdőívek, megfigyelés |
+| Iskolai/óvodai teljesítmények | kikérdezés, megfigyelés, dokumentációelemzés |
+| Iskolai/óvodai beilleszkedés | kikérdezés, megfigyelés, dokumentációelemzés |
+| Pszichológiai vizsgálatok: impulzus kontroll, egyéb pszichológiai tényezők | Pszichológiai vizsgálóeljárások: tesztek, megfigyelés, konzultáció |
+
+A tanulási zavarok
+
+A diszlexia-diagnózis megállapításának alapját képző diagnosztikus kritériumok
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (részletes anamnézis) | Kikérdezés |
+| Általános értelmi képességek | Standardizált strukturált intelligenciateszt |
+| A kognitív folyamatok vizsgálata (nyelv, emlékezet, auditív és vizuális feldolgozás, vizuomotoros integráció, következtetési/gondolkodási képesség, végrehajtó funkciók) | Részképesség-, képességvizsgáló eljárások |
+| Az olvasás-, íráselsajátítással összefüggő nyelvi képességek (pl. fonológiai tudatosság, szókincs) | Próbamódszerek |
+| Pedagógiai vizsgálatok, a kultúrtechnikákat megalapozó bázisképességek felmérése: – Valós és álszavak dekódolása – Hangos és néma szövegolvasás (olvasási pontosság, sebesség, folyamatosság; szövegértés) – Írás diktálás után – Írásbeli kifejezőkészség (mondat, történet, esszé) – Az íráskép, a kivitelezés vizsgálata | Megfigyelés Próbamódszerek |
+| Osztálytermi megfigyelés/pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Otthoni és tanórai munkák | Megfigyelés |
+| Oki és következményes pszichológiai tényezők vizsgálata (különösen: motiváció, önértékelés, megküzdési stratégiák) | Pszichológiai vizsgálat: tesztek, interjú |
+
+A diszgráfia-diagnózis megállapításának alapját képző diagnosztikus kritériumok
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Általános értelmi képességek | Standardizált strukturált intelligenciateszt |
+| A kognitív folyamatok vizsgálata (nyelv, emlékezet, auditív és vizuális feldolgozás, vizuomotoros integráció, következtetési/gondolkodási képesség, végrehajtó funkciók) | Részképesség-, képességvizsgáló eljárások |
+| Az olvasás-, íráselsajátítással összefüggő nyelvi képességek (pl. fonológiai tudatosság, szókincs) | Próbamódszerek |
+| Pedagógiai vizsgálatok, a kultúrtechnikákat megalapozó bázisképességek felmérése: – Valós és álszavak dekódolása – Írás diktálás után – Írásbeli kifejezőkészség (mondat, történet, esszé) – Az íráskép, a kivitelezés vizsgálata | Megfigyelés Próbamódszerek |
+| Osztálytermi megfigyelés, pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Otthoni és tanórai munkák | Megfigyelés |
+| Oki és következményes pszichológiai tényezők vizsgálata (különösen: motiváció, önértékelés, megküzdési stratégiák) | Pszichológiai vizsgálat: tesztek, interjú |
+
+A diszkalkulia diagnózisának megállapításának alapját képző diagnosztikus kritériumok
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (részletes anamnézis) | Kikérdezés |
+| Általános értelmi képességek | Standardizált strukturált intelligenciateszt |
+| A kognitív folyamatok vizsgálata (nyelv, emlékezet, auditív és vizuális feldolgozás, vizuomotoros integráció, következtetési/gondolkodási képesség, problémamegoldás, végre-hajtó funkciók) | Részképesség-, képességvizsgáló eljárások |
+| A számfogalom, számolás, matematikai műveletvégzésekkel összefüggő matematikai képességek (pl. globális mennyiség-felismerés, mennyiség-számnév egyeztetése, mennyiségi relációk alkotása, számnév-számjegy egyeztetése, helyi érték, alapműveletek és inverzeik) vizsgálata, szöveges feladatok, matematikai, logikai szabályok felismerése | Próbamódszerek |
+| Osztálytermi megfigyelés, pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Otthoni és tanórai munkák | Megfigyelés |
+| Oki és következményes pszichológiai tényezők vizsgálata (különösen: motiváció, önértékelés, megküzdési stratégiák) | Pszichológiai vizsgálat: tesztek, interjú |
+
+Ezek halmozódása (pl. az iskolai készségek kevert zavarai) a fenti vizsgálati tartalmak kombinációit igénylik.
+
+Egyéb zavarok vizsgálata
+
+| A vizsgálat részterülete | Módszer |
+|---|---|
+| Előzmények (részletes anamnézis, különös tekintettel a játékra Kapcsolatteremtés, szociális készségek Egyéb viselkedés (sajátos szokások, rítusok) Szomatikus betegségek | Kikérdezés |
+| A gyermek szociális és verbális viselkedése | Megfigyelés |
+| Általános értelmi képességek, szociális érettség | Standardizált teszt, kérdéssor |
+| A vizuomotoros koordináció vizsgálata | Részképesség-vizsgáló eljárások |
+| A gyermek énképének, családban betöltött helyének megismerése | Emberrajz, családrajz |
+| Osztálytermi megfigyelés, pedagógiai feljegyzések, vélemények | Megfigyelés |
+| Pszichológiai tényezők és sajátosságok vizsgálata (különösen a gyermek érzelmi állapota, önértékelése, családi háttér szerepe) | Pszichológiai eljárások: rajz, egyéb tesztek, (játék)megfigyelés, interjú. |
+
+Az egyéb zavarok vizsgálati tartalma egyedi tervezést igényel, klinikai szakpszichológusi, pszichiátriai vélemények figyelembevételével.
+
+Főbb differenciáldiagnosztikai szempontok az egyéb pszichés fejlődési zavar (súlyos tanulási, figyelem- vagy magatartásszabályozási zavar) megállapításához.
+
+– A komplex tünetegyüttes háttértényezői biológiai (organikus, funkcionális) eredetűek, illetve a tünetegyüttes háttértényezői között biológiai (funkcionális) és pszichoszociális okok szerepelhetnek, melyeket szakorvosi, vagy pszichológiai vélemény, megítélés támaszt alá;
+
+– Igazolhatóak a zavarok korai kezdetei (pl. fejlődésben mutatkozó rizikótényezők, korai logopédiai kezelés szükségessége stb.); illetve vélelmezhető a korai beszéd- vagy a szenzomotoros integráció fejlődésének zavara; – Kisgyermekek és óvodások esetében vizsgálati eredményekkel igazolhatóak pl. a beszéd-, vagy a szenzomotoros integráció fejlődésének súlyos zavarai;
+
+– Az általános és középiskolai tanulók esetében a korábban igazolt problémák maradványtünetek formájában fennmaradtak;
+
+– A teljesítményzavar hátterében a kognitív folyamatok és a viselkedésirányítás működési zavara áll, nem pedagógiai vagy a művelődési esélyegyenlőtlenségből származó sikertelenség;
+
+– A befektetett pedagógiai segítségnyújtás megfelelő minősége (megfelelő szakképzettséggel rendelkező szakember által biztosított rendszeres fejlesztés) ellenére a tünetek nem szűntek meg;
+
+– Az intellektuális összteljesítmény erősen szórt intelligenciastruktúra, részképesség zavarok, specifikus zavarok fennállása mellett az átlagövezetbe tartozik és 1 standard deviációnál nagyobb eltérést többnyire nem mutat, illetve az intellektuális összteljesítmény egyenetlen struktúrát mutat, az átlagövezetbe tartozik és 1 standard deviációnál nagyobb eltérést többnyire nem mutat.
+
+## 4. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+
+**Adatlap a fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére**
+
+Adatszolgáltatásra kötelezett a gyermek házi-(gyermek) orvosa a területi védőnő által szolgáltatott információk felhasználásával**.**
+
+Kitöltése kötelező 5 éves életkorban**.** Az adatlap az iskolaegészségügyi dokumentáció része.
+
+<table><tbody><tr><td colspan="28">**SZEMÉLYI ADATOK**</td></tr><tr><td colspan="5">Gyermek neve:</td><td colspan="23"></td></tr><tr><td colspan="5">Születési ideje:</td><td colspan="8">év hó nap</td><td colspan="8">Helye:</td><td colspan="7"></td></tr><tr><td colspan="5">TAJ száma:</td><td colspan="8"></td><td colspan="8">Anyja neve:</td><td colspan="7"></td></tr><tr><td colspan="5">Lakcíme/tartózkodási helye:</td><td colspan="23">______ir.sz.__________________________________________________________________(település)<br>____________________________________________________________________________(utca, hsz.)</td></tr><tr><td colspan="28">ANAMNÉZIS</td></tr><tr><td colspan="28">Családi anamnézis *(pozitív: +, negatív: - )*</td></tr><tr><td colspan="8">Ideg- elmebetegség</td><td colspan="3"></td><td colspan="13">Alkoholizmus, drogfüggőség</td><td colspan="4"></td></tr><tr><td colspan="8">Mentális retardáció</td><td colspan="3"></td><td colspan="13">Érzékszervi károsodás</td><td colspan="4"></td></tr><tr><td colspan="8">Tanulási akadályozottság</td><td colspan="3"></td><td colspan="13">Egyéb jelentős mentális betegég</td><td colspan="4"></td></tr><tr><td colspan="28">Pszihomotoros és mentális fejlődést veszélyeztető környezeti tényező <sup>1</sup></td></tr><tr><td colspan="3">nincs</td><td colspan="25">van, éspedig: ___________________________________________________________</td></tr><tr><td colspan="28">Újszülöttkori anamnézis *(aláhúzással kérnénk jelölni)*</td></tr><tr><td colspan="5">A terhesség lefolyása</td><td colspan="10">normális</td><td colspan="7">veszélyeztetett</td><td colspan="6">szövődményes</td></tr><tr><td colspan="5">Gesztációs hetek</td><td colspan="10">___________________</td><td colspan="7">Születési súly</td><td colspan="6">_______________ gramm</td></tr><tr><td colspan="5">APGAR:</td><td colspan="10">___/1, ___/5</td><td colspan="7">Születési hossz.</td><td colspan="6">_______________ cm</td></tr><tr><td colspan="5"></td><td colspan="10"></td><td colspan="7">Fejkörfogat</td><td colspan="6">_______________ cm</td></tr><tr><td colspan="5">A szülés módja</td><td colspan="10">normál fejvégű</td><td colspan="7">normál farfekvéses</td><td colspan="6">normál iker</td></tr><tr><td colspan="5">Komplikált, éspedig:</td><td colspan="10">császármetszés</td><td colspan="7">fogó</td><td colspan="6">vákum</td></tr><tr><td colspan="5">Szülési sérülés:</td><td colspan="10">nem történt</td><td colspan="7">történt</td><td colspan="6"></td></tr><tr><td colspan="5">Újraélesztés:</td><td colspan="10">nem történt</td><td colspan="7">történt</td><td colspan="6"></td></tr><tr><td colspan="5" rowspan="2">Újszülöttkori betegségek:</td><td colspan="10">gépi lélegeztetést igénylő légzészavar</td><td colspan="7">sárgaság</td><td colspan="6">hypoglikémia</td></tr><tr><td colspan="10">neurológiai kórjelek</td><td colspan="13">egyéb (pl.: ismert szindróma)<br>____________________________________</td></tr><tr><td colspan="3" rowspan="2">**Újszülöttkori**<br>**szűrővizsgálatok**</td><td colspan="12">Anyagcsere</td><td colspan="8">nem történt</td><td colspan="3">normál</td><td colspan="2">kóros</td></tr><tr><td colspan="3">Csípő</td><td colspan="4">nem történt</td><td colspan="3">normál</td><td colspan="2">kóros</td><td colspan="2">Hallás</td><td colspan="6">nem történt</td><td colspan="3">normál</td><td colspan="2">kóros</td></tr><tr><td colspan="28">Anamnézis csecsemő- és kisgyermekkorban, krónikus betegség vagy állapot miatti gondozás, fejlesztés adatai *(ismert: + , nem ismert: -, )*</td></tr><tr><td colspan="2">**Állapot**</td><td colspan="5">Diagnózis<br>ismert (BNO)<br>nem ismert</td><td colspan="5">Történt-e<br>speciális ellátás?<sup>3</sup></td><td colspan="8">**Állapot**</td><td colspan="5">Diagnózis ismert (BNO)<br>nem ismert</td><td colspan="3">Történt-e<br>speciális ellátás?<sup>3</sup></td></tr><tr><td colspan="2">Eszméletvesztéssel, görccsel járó állapot</td><td colspan="5"></td><td colspan="5"></td><td colspan="8">Látáskárosodás<sup>2</sup><br>Halláskárosodás<sup>2</sup></td><td colspan="5"></td><td colspan="3"></td></tr><tr><td colspan="2">Központi idegrendszer egyéb betegsége</td><td colspan="5"></td><td colspan="5"></td><td colspan="8">Krónikus betegség<sup>2</sup></td><td colspan="5"></td><td colspan="3"></td></tr><tr><td colspan="2">Pszichomotoros/<br>mentális fejlődési zavar</td><td colspan="5"></td><td colspan="5"></td><td colspan="8">Egyéb (pl. baleset, műtét, kromoszóma rendellenesség, anyagcserezavar)</td><td colspan="5"></td><td colspan="3"></td></tr><tr><td colspan="28">FIZIKÁLIS STÁTUSZ 5 ÉVES KORBAN *(Egyben az életkorhoz kötött kötelező státuszvizsgálatnak is megfelel.)*</td></tr><tr><td>Súly</td><td colspan="2">_____ kg</td><td colspan="8">Magasság</td><td colspan="5">________ cm</td><td colspan="9">Súly percentilis</td><td colspan="3"></td></tr><tr><td>Fejkörfogat</td><td colspan="2">_____ cm</td><td colspan="8">Mellkörfogat</td><td colspan="5">________ cm</td><td colspan="9">Magasság percentilis</td><td colspan="3"></td></tr><tr><td colspan="3">Minor anomália</td><td colspan="8">nincs: □</td><td colspan="5">van: □</td><td colspan="12">éspedig: ______________________________</td></tr><tr><td colspan="3">Fejlődési rendellenesség</td><td colspan="8">nincs: □</td><td colspan="5">van: □</td><td colspan="12">éspedig: ______________________________</td></tr><tr><td colspan="3">Bőr</td><td colspan="8"></td><td colspan="8">Nyálkahártya</td><td colspan="9"></td></tr><tr><td colspan="3">Nyirokcsomók</td><td colspan="8"></td><td colspan="8">Orr, garat</td><td colspan="9"></td></tr><tr><td colspan="3">Fogazat</td><td colspan="8"></td><td colspan="8">Csontrendszer/<br>koponyaforma</td><td colspan="9"></td></tr><tr><td colspan="3">Testtartás</td><td colspan="8"></td><td colspan="8">Izomtónus</td><td colspan="9"></td></tr><tr><td colspan="3">Szív</td><td colspan="8"></td><td colspan="8">Keringés</td><td colspan="9"></td></tr><tr><td colspan="3">Vérnyomás</td><td colspan="8"></td><td colspan="8">Tüdő</td><td colspan="9"></td></tr><tr><td colspan="3">Has</td><td colspan="8"></td><td colspan="8">Máj</td><td colspan="9"></td></tr><tr><td colspan="3">Lép</td><td colspan="8"></td><td colspan="8">Húgy-ivarszervek</td><td colspan="9"></td></tr><tr><td colspan="3">Látásélesség</td><td colspan="8"></td><td colspan="8">Hallás</td><td colspan="9"></td></tr><tr><td colspan="3">Idegrendszer (reflexek)</td><td colspan="8"></td><td colspan="8"></td><td colspan="9"></td></tr><tr><td colspan="28">Pszihomotoros, értelmi és szociális fejlettség értékelésére javasolt, az iskolai felkészüléshez szükséges életkori jellemzők. *(eltérés van: +, eltérés nincs: - )*</td></tr><tr><td colspan="14">A területi védőnő által vezetett dokumentáció alapján töltendő ki</td><td colspan="7">Eltérés<br>van / nincs</td><td colspan="6">Utalta-e kezelésre/<br>fejlesztésre</td><td>Történt-e kezelés/<br>fejlesztés</td></tr><tr><td colspan="14">Nagymotoros fejlettség<br>Javasolt próbák: ügyesen mászik (mászókára, fára); féllábon, rövid ideig egyensúlyoz; féllábon ugrál; hintát hajt</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="14">Finom mozgások<br>Javasolt próbák: gombot begombol; rajza felismerhető, emberrajzán a fejen kívül 5 testrész van</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="14">Értelmi fejlettség<br>Javasolt próbák: 5 kockát megszámol; alapszíneket megnevez; saját nevét, nemét, életkorát tudja; konstrukciós és szerepjátékokat játszik; képes 15-20 percig egy játékkal játszani</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="14">Beszédfejlettség<br>Javasolt próbák: beszéde jól érthető; összetett mondatokban beszél, rövid történetet elmesél, ritkán megnevezett testrészeit (váll, könyök, térd) megmutatja; lent, fent fogalmat helyesen használja</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="14">Szociális fejlettség<br>Javasolt próbák: több gyermekkel együtt játszik; szabályokat elfogad, a kapott feladatot megérti, elfogadja, teljesíti</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="14">Önellátás<br>Javasolt próbák: kevés segítséggel önállóan öltözik; önállóan étkezik; szobatisztasága kialakult</td><td colspan="7"></td><td colspan="6"></td><td></td></tr><tr><td colspan="4">Kezesség *(aláhúzni)*</td><td colspan="10">jobbkezes</td><td colspan="4">balkezes</td><td colspan="10">kétkezes</td></tr><tr><td colspan="4">Óvodába jár</td><td colspan="5">2 éve</td><td colspan="5">1éve</td><td colspan="4">kevesebb, mint<br>1 éve</td><td colspan="10">nem jár</td></tr><tr><td colspan="28">Megjegyzés (összegzés a gyermek fejlettségéről):</td></tr><tr><td colspan="28">Beiskolázási záradék (aláhúzással kérnénk jelölni):<br>Kóros elváltozás nem észlelhető<br>További vizsgálat/ fejlesztés szükséges<br>Ennek oka:_______________________________módja________________________________<br>Szülő/gondviselő tudomásul vette (aláírás)_________________________________________</td></tr></tbody></table>
+
+Kelt: év □ □ □ □ hó □ □ nap □ □
+
+…………………………………..
+
+aláírás, pecsét
+
+## 5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^219]
+
+A vármegyében, fővárosban az Intézményben alkalmazott vezetők kötelező létszáma
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | Magasabb vezetői, vezetői megbízás | Feltétel | Létszám |
+| **2.** | Főigazgató | Intézményenként | 1 |
+| **3.** | Főigazgató-helyettes | Pedagógus munkakörben foglalkoztatottak létszáma legfeljebb 300 fő | 2 |
+| **4.** | Főigazgató-helyettes | Pedagógus munkakörben foglalkoztatottak létszáma több mint 300 fő | 3 |
+| **5.** | Tagintézmény-igazgató | Tagintézményenként | 1 |
+| **6.** | Tagintézményigazgató-helyettes | Tagintézményenként | 1 |
+
+## 6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^220]
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr></thead><tbody><tr><td>**1.**</td><td>A pedagógiai szakszolgálati tevékenység</td><td>Pedagógus-munkakör megnevezése</td><td>A tevékenység ellátásához szükséges szakképzettség</td></tr><tr><td>**2.**</td><td rowspan="6">korai fejlesztés és gondozás</td><td>gyógypedagógus</td><td>gyógypedagógus</td></tr><tr><td>**3.**</td><td rowspan="4">pszichológus</td><td>klinikai gyermek szakpszichológus</td></tr><tr><td>**4.**</td><td>klinikai és mentálhigiénés (felnőtt) szakpszichológus</td></tr><tr><td>**5.**</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**6.**</td><td>neuropszichológiai szakpszichológus</td></tr><tr><td>**7.**</td><td>konduktor</td><td>konduktor</td></tr><tr><td>**8.**</td><td rowspan="2"></td><td></td><td></td></tr><tr><td>**9.**</td><td></td><td></td></tr><tr><td>**10.**</td><td rowspan="8">szakértői bizottsági tevékenység</td><td rowspan="6">pszichológus</td><td>klinikai gyermek szakpszichológus</td></tr><tr><td>**11.**</td><td>pedagógiai szakpszichológus</td></tr><tr><td>**12.**</td><td>óvoda- és iskolapszichológus</td></tr><tr><td>**13.**</td><td>óvoda- és iskola-szakpszichológus</td></tr><tr><td>**14.**</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**15.**</td><td>neuropszichológiai szakpszichológus</td></tr><tr><td>**16.**</td><td>gyógypedagógus</td><td>gyógypedagógus</td></tr><tr><td>**17.**</td><td>konduktor</td><td>konduktor</td></tr><tr><td>**18.**</td><td rowspan="11">nevelési tanácsadás</td><td rowspan="2">fejlesztő pedagógus</td><td>óvodapedagógus, tanító, tanár, szociálpedagógus, konduktor, a továbbiakban meg nem nevezett gyógypedagógus, pedagógia szakos előadó, pedagógia szakos nevelőtanár és a beilleszkedési, a tanulási, a magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség</td></tr><tr><td>**19.**</td><td>oligofrénpedagógia szakos gyógypedagógiai tanár, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, gyógypedagógus tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon</td></tr><tr><td>**20.**</td><td>gyógypedagógus</td><td>gyógypedagógus</td></tr><tr><td>**21.**</td><td rowspan="7">pszichológus</td><td>klinikai gyermekszakpszichológus</td></tr><tr><td>**22.**</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**23.**</td><td>pedagógiai szakpszichológus</td></tr><tr><td>**24.**</td><td>óvoda- és iskolapszichológus</td></tr><tr><td>**25.**</td><td>óvoda- és iskola-szakpszichológus</td></tr><tr><td>**26.**</td><td>klinikai és mentálhigiénés (felnőtt) szakpszichológus</td></tr><tr><td>**27.**</td><td>neuropszichológiai szakpszichológus</td></tr><tr><td>**28.**</td><td>konduktor</td><td>konduktor</td></tr><tr><td>**29.**</td><td rowspan="2">logopédiai ellátás</td><td rowspan="2">logopédus</td><td>logopédia szakos gyógypedagógiai tanár,</td></tr><tr><td>**30**</td><td>gyógypedagógus logopédia szakirányon</td></tr><tr><td>**31.**</td><td rowspan="6">továbbtanulási, pályaválasztási tanácsadás</td><td rowspan="4">pszichológus</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**32.**</td><td>pedagógiai szakpszichológus</td></tr><tr><td>**33.**</td><td>óvoda- és iskolapszichológus</td></tr><tr><td>**34.**</td><td>óvoda- és iskola-szakpszichológus</td></tr><tr><td>**35.**</td><td rowspan="2">tanácsadó pedagógus</td><td>bármely egyetemi szintű pedagógus szakképzettség</td></tr><tr><td>**36.**</td><td>bármely főiskolai szintű pedagógus szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus vagy tanulási és pályatanácsadás vagy pályaorientációs tanár szakirányú továbbképzési szakképzettséggel vagy pályaorientáció szakterületen szerzett szakvizsgával</td></tr><tr><td>**37.**</td><td>konduktív pedagógiai ellátás</td><td>konduktor</td><td>konduktor</td></tr><tr><td>**38.**</td><td rowspan="2">gyógytestnevelés</td><td rowspan="2">gyógytestnevelő tanár</td><td>gyógytestnevelő tanár</td></tr><tr><td>**39.**</td><td>gyógytestnevelő-egészségfejlesztő tanár</td></tr><tr><td>**40.**</td><td rowspan="4">iskolapszichológiai, óvodapszichológiai ellátás</td><td rowspan="4">iskola- és óvodapszichológia koordinátora</td><td>pedagógiai szakpszichológus</td></tr><tr><td>**41.**</td><td>óvoda- és iskolapszichológus</td></tr><tr><td>**42.**</td><td>óvoda- és iskola-szakpszichológus</td></tr><tr><td>**43.**</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**44.**</td><td rowspan="5">kiemelten tehetséges gyermekek, tanulók gondozása</td><td rowspan="5">tehetséggondozó koordinátor</td><td>pedagógiai szakpszichológus</td></tr><tr><td>**45.**</td><td>óvoda- és iskolapszichológus</td></tr><tr><td>**46.**</td><td>óvoda- és iskola-szakpszichológus</td></tr><tr><td>**47.**</td><td>tanácsadó szakpszichológus</td></tr><tr><td>**48.**</td><td>pedagógus, tehetségfejlesztő szakirányú végzettséggel</td></tr></tbody></table>
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | Nevelő és oktató munkát közvetlenül segítő munkakörök | fogyatékosság típusának megfelelő szakorvos vagy gyermek- és ifjúsági pszichiátria, csecsemő- és gyermekgyógyászat, illetve gyermekneurológia szakorvos, gyógytornász, pedagógiai asszisztens, gyógypedagógiai asszisztens, szakszolgálati titkár, rendszergazda |
+| **2** | Egyéb munkakörök | ügyviteli dolgozó, kisegítő dolgozó, munkaügyi, személyzeti előadó, gazdasági dolgozó, műszaki dolgozó |
+
+## 7. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^221]
+
+**A fővárosban, vármegyében működő Intézményekben foglalkoztatottak minimális létszáma**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th><th>**F**</th><th>**G**</th><th>**H**</th><th>**I**</th><th>**J**</th><th>**K**</th></tr></thead><tbody><tr><td>**1**</td><td></td><td colspan="9">Pedagógus munkakörben foglalkoztatottak létszáma</td><td></td></tr><tr><td>**2**</td><td>Vármegyenév,<br>főváros</td><td>Korai fejlesztés és gondozás</td><td>Szakértői bizottsági tevékeny-<br>ség, és a nevelési tanácsadás</td><td>Logo-<br>pédia</td><td>Tovább-<br>tanulási, pálya-<br>választási tanácsadás</td><td>Kon-<br>duktív peda-<br>gógia</td><td>Gyógy-<br>test-<br>nevelés</td><td>Iskola-<br>pszicho-<br>lógiai, óvoda-<br>pszicho-<br>lógiai</td><td>Kiemel-<br>ten tehetsé-<br>ges gyer-<br>mekek, tanulók gon-<br>dozása</td><td>**Összesen**</td><td>**Nevelő és oktató munkát közvetlenül segítő munka-** **körben foglalkoz-** **tatottak**</td></tr><tr><td>**3**</td><td></td><td colspan="8">feladatainak ellátására</td><td></td><td></td></tr><tr><td>**4**</td><td>Bács-Kiskun</td><td>22</td><td>133</td><td>91</td><td>11</td><td>11</td><td>40</td><td>11</td><td>11</td><td>330</td><td>34</td></tr><tr><td>**5**</td><td>Baranya</td><td>16</td><td>95</td><td>65</td><td>10</td><td>10</td><td>28</td><td>10</td><td>10</td><td>244</td><td>26</td></tr><tr><td>**6**</td><td>Békés</td><td>14</td><td>88</td><td>60</td><td>9</td><td>9</td><td>26</td><td>9</td><td>9</td><td>224</td><td>24</td></tr><tr><td>**7**</td><td>Borsod-<br>Abaúj-<br>Zemplén</td><td>34</td><td>199</td><td>136</td><td>16</td><td>16</td><td>59</td><td>16</td><td>16</td><td>492</td><td>51</td></tr><tr><td>**8**</td><td>Főváros</td><td>63</td><td>427</td><td>264</td><td>23</td><td>23</td><td>115</td><td>23</td><td>23</td><td>961</td><td>105</td></tr><tr><td>**9**</td><td>Csongrád</td><td>18</td><td>102</td><td>69</td><td>7</td><td>7</td><td>30</td><td>7</td><td>7</td><td>247</td><td>26</td></tr><tr><td>**10**</td><td>Fejér</td><td>18</td><td>108</td><td>73</td><td>9</td><td>9</td><td>32</td><td>9</td><td>9</td><td>267</td><td>28</td></tr><tr><td>**11**</td><td>Győr-<br>Moson-<br>Sopron</td><td>19</td><td>111</td><td>76</td><td>7</td><td>7</td><td>33</td><td>7</td><td>7</td><td>267</td><td>28</td></tr><tr><td>**12**</td><td>Hajdú-Bihar</td><td>26</td><td>153</td><td>104</td><td>10</td><td>10</td><td>46</td><td>10</td><td>10</td><td>369</td><td>38</td></tr><tr><td>**13**</td><td>Heves</td><td>13</td><td>81</td><td>55</td><td>7</td><td>7</td><td>24</td><td>7</td><td>7</td><td>201</td><td>21</td></tr><tr><td>**14**</td><td>Jász-<br>Nagykun-<br>Szolnok</td><td>18</td><td>106</td><td>72</td><td>9</td><td>9</td><td>32</td><td>9</td><td>9</td><td>264</td><td>28</td></tr><tr><td>**15**</td><td>Komárom-<br>Esztergom</td><td>13</td><td>79</td><td>54</td><td>6</td><td>6</td><td>24</td><td>6</td><td>6</td><td>194</td><td>20</td></tr><tr><td>**16**</td><td>Nógrád</td><td>9</td><td>52</td><td>35</td><td>6</td><td>6</td><td>16</td><td>6</td><td>6</td><td>136</td><td>14</td></tr><tr><td>**17**</td><td>Pest</td><td>53</td><td>333</td><td>227</td><td>18</td><td>18</td><td>99</td><td>18</td><td>18</td><td>784</td><td>82</td></tr><tr><td>**18**</td><td>Somogy</td><td>13</td><td>81</td><td>56</td><td>8</td><td>8</td><td>24</td><td>8</td><td>8</td><td>206</td><td>22</td></tr><tr><td>**19**</td><td>Szabolcs-<br>Szatmár-<br>Bereg</td><td>29</td><td>173</td><td>118</td><td>13</td><td>13</td><td>52</td><td>13</td><td>13</td><td>424</td><td>44</td></tr><tr><td>**20**</td><td>Tolna</td><td>10</td><td>57</td><td>39</td><td>6</td><td>6</td><td>17</td><td>6</td><td>6</td><td>147</td><td>16</td></tr><tr><td>**21**</td><td>Vas</td><td>10</td><td>61</td><td>42</td><td>7</td><td>7</td><td>18</td><td>7</td><td>7</td><td>159</td><td>17</td></tr><tr><td>**22**</td><td>Veszprém</td><td>14</td><td>87</td><td>59</td><td>10</td><td>10</td><td>26</td><td>10</td><td>10</td><td>226</td><td>24</td></tr><tr><td>**23**</td><td>Zala</td><td>11</td><td>65</td><td>45</td><td>6</td><td>6</td><td>20</td><td>6</td><td>6</td><td>165</td><td>17</td></tr><tr><td>**24**</td><td>Összesen</td><td>423</td><td>2591</td><td>1740</td><td>198</td><td>198</td><td>761</td><td>198</td><td>198</td><td>6307</td><td>665</td></tr></tbody></table>
+
+Az Intézmény egyes tevékenységeinek ellátásához kapcsolódó munkakörökben a 6. mellékletben meghatározottak szerint a tevékenység ellátásához szükséges végzettséggel és szakképzettséggel rendelkező pedagógus foglalkoztatható.
+
+## 8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^222]
+
+**A pedagógiai szakszolgálati intézmény irattári terve**
+
+<table><tbody><tr><td>Irattári<br>tételszám</td><td>Ügykör megnevezése</td><td>Őrzési idő (év)</td></tr><tr><td colspan="3">Vezetési, igazgatási és személyi ügyek</td></tr><tr><td>1.</td><td>Intézménylétesítés, -átszervezés, -fejlesztés</td><td>nem selejtezhető</td></tr><tr><td>2.</td><td>Iktatókönyvek, iratselejtezési jegyzőkönyvek</td><td>nem selejtezhető</td></tr><tr><td>3.</td><td>Személyzeti, bér- és munkaügy</td><td>50</td></tr><tr><td>4.</td><td>Munkavédelem, tűzvédelem, balesetvédelem,</td><td>10</td></tr><tr><td>5.</td><td>Fenntartói irányítás</td><td>10</td></tr><tr><td>6.</td><td>Szakmai ellenőrzés</td><td>10</td></tr><tr><td>7.</td><td>Megállapodások, bírósági, államigazgatási ügyek</td><td>10</td></tr><tr><td>8.</td><td>Belső szabályzatok</td><td>10</td></tr><tr><td>9.</td><td>Polgári védelem</td><td>10</td></tr><tr><td>10.</td><td>Munkatervek, jelentések, statisztikák</td><td>5</td></tr><tr><td>11.</td><td>Panaszügyek</td><td>5</td></tr><tr><td>12.</td><td>Szakértői vélemény, logopédiai vizsgálati vélemény</td><td>25</td></tr><tr><td>13.</td><td>Szakértői vélemény elkészíttetésével összefüggő ügyek</td><td>10</td></tr><tr><td>14.</td><td>Jogszabályban meghatározott juttatások és kedvezmények igénybevételéhez szükséges igazolásokkal kapcsolatos ügyek</td><td>10</td></tr><tr><td>15.</td><td>Forgalmi napló, munkanapló</td><td>5</td></tr><tr><td>16.</td><td>Egyéni fejlesztési tervek, a gyermek, a tanuló fejlődését rögzítő<br>értékelések</td><td>5</td></tr><tr><td>17.</td><td>Nyilvántartási lapok, jegyzőkönyvek</td><td>5</td></tr><tr><td>18.</td><td>Szaktanácsadói, egyéb szakértői vélemények, javaslatok és ajánlások</td><td>5</td></tr><tr><td colspan="3">Gazdasági ügyek</td></tr><tr><td>19.</td><td>Ingatlan-nyilvántartás, -kezelés, -fenntartás, épülettervrajzok, helyszínrajzok, használatbavételi engedélyek</td><td>határidő<br>nélküli</td></tr><tr><td>20.</td><td>Társadalombiztosításhoz kapcsolódó ügyek</td><td>50</td></tr><tr><td>21.</td><td>Leltár, állóeszköz-nyilvántartás, vagyonnyilvántartás, selejtezés</td><td>10</td></tr><tr><td>22.</td><td>Éves költségvetéshez, költségvetési beszámolókhoz kapcsolódó ügyek, könyvelési bizonylatok</td><td>5</td></tr></tbody></table>
+
+## 9. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^223]
+
+**JEGYZÉK**
+
+**a pedagógiai szakszolgálati intézmények kötelező (minimális) eszközeiről és felszereléseiről**
+
+I. HELYISÉGEK
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| vezetői iroda | intézményenként a székhelyen és a tagintézményben 1 | tag intézmény esetén a helyettesi irodával közösen is kialakítható, ha a helyiség mérete ezt lehetővé teszi |
+| vezető helyettesi iroda | intézményenként a székhelyen és tagintézményben 1 | tagintézmény esetén a vezetői irodával közösen is kialakítható, ha a helyiség mérete ezt lehetővé teszi |
+| alkalmazotti iroda | intézményenként a székhelyen, a tagintézményben, a telephelyen akkor, ha az alkalmazotti létszám az öt főt meghaladja 1-1 | ha a tagintézményben a pedagógus és a nevelő-oktató munkát segítő alkalmazotti létszám a hat főt nem éri el, a vezetői, vezető helyettesi, irodával közösen is kialakítható, ha a helyiség mérete ezt lehetővé teszi |
+| vizsgáló, tanácsadó szoba | intézményenként, figyelembe véve a székhely, a tagintézmény, a telephelyenmunkarendjét, az egyidejűleg megszervezett vizsgálatokhoz szükséges számban, de legalább 2 | valamennyi pedagógiai szakszolgálatot ellátó intézményben a székhelyen, a tagintézményben és a telephelyen, 1 – 1 a tíz év alatti, és a tíz év feletti korosztálynak megfelelő méretű, beszélgetésre és teszt kitöltésre alkalmas bútorzattal |
+| fejlesztő szoba | intézményenként, figyelembe véve az intézmény munkarendjét, az egyidejűleg megszervezett egyéni és csoportos fejlesztő foglalkozásokhoz szükséges számban, a székhelyen és a tagintézményben legalább 3, a telephelyen legalább 1. | korai fejlesztést és gondozást, nevelési tanácsadást, konduktív pedagógiai foglalkoztatást, logopédiai ellátást biztosító székhelyen, tagintézményben, telephelyen |
+| tornaterem, | intézményenként a székhelyen és a tagintézményben 1 | abban az esetben, ha a gyógytestnevelés ellátása a székhelyen, a tagintézményben, vagy a telephelyen történik |
+| tornaszoba | intézményenként a székhelyen és a tagintézményben 1 | korai fejlesztést és gondozást, nevelési tanácsadást, konduktív pedagógiai foglalkoztatást biztosító székhelyen, tagintézményben, telephelyen |
+| orvosi szoba (vizsgáló) | intézményenként (székhelyen és a tagintézményben) 1 | korai fejlesztést és gondozást, szakértői bizottsági tevékenységet, nevelési tanácsadást biztosító intézményben, tagintézményben, telephelyen |
+| várószoba | intézményenként (székhelyen, tagintézményben, telephelyen) 1 | előtérben is kialakítható |
+| zuhanyozó (hideg, meleg vízzel) | intézményenként (székhelyen és telephelyen) 1 |  |
+| WC, mosdó (személyzeti) (hideg, meleg vízzel) | intézményenként (székhelyen, tagintézményben, telephelyen) 1 |  |
+| WC, mosdó (gyermek és felnőtt a szakszolgálathoz érkezők részére, hideg, meleg vízzel) | intézményenként (székhelyen és telephelyen) 1 |  |
+| raktár (eszköztár, irattár) | intézményenként a székhelyen és a tagintézményben 1 |  |
+
+II. HELYISÉGEK BÚTORZATA ÉS EGYÉB FELSZERELÉSI TÁRGYAI
+
+*a)* Vezetői iroda
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| íróasztal | 1 |  |
+| szék | 1 |  |
+| tárgyalóasztal | 1 |  |
+| szék | 2 |  |
+| iratszekrény | 1 |  |
+| könyvszekrény | 1 |  |
+| telefon | 1 |  |
+| internet kapcsolat |  |  |
+
+*b)* Vezetőhelyettesi iroda (több iroda esetén a felszerelések szükség szerint helyezhetők el)
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| asztal | felnőtt létszám figyelembevételével |  |
+| szék | felnőtt létszám figyelembevételével |  |
+| iratszekrény | szükség szerint |  |
+| lemezszekrény | 1 |  |
+| fénymásoló | 1 |  |
+| scanner |  |  |
+| számítógépasztal és szék | 1-1 |  |
+| számítógép (billentyűzet, monitor, géptest, nyomtató, egér) | 1 |  |
+| telefon, fax, | 1-1 | közös vonallal is működtethető |
+| internet kapcsolat |  |  |
+
+*c)* Alkalmazotti szoba
+
+<table><tbody><tr><td>Eszközök,<br>felszerelések</td><td>Mennyiségi mutató</td><td>Megjegyzés</td></tr><tr><td>fiókos asztal</td><td>pedagógus-munkakörben, nevelő és oktató munkát segítő munkakörben foglalkoztatottak létszáma szerint</td><td></td></tr><tr><td>szék</td><td>pedagógus-munkakörben, nevelő és oktató munkát segítő munkakörben foglalkoztatottak létszáma szerint</td><td></td></tr><tr><td>könyvszekrény</td><td>2</td><td>legalább ötszáz könyvtári dokumentumnak</td></tr><tr><td>könyvtári dokumentum</td><td>500</td><td>pedagógiai szakirodalom, folyóirat, jogszabálygyűjtemény, mesekönyvek, az alkalmazottak, a gyermekek és a tanulók részére</td></tr><tr><td colspan="2">internet kapcsolat</td><td></td></tr></tbody></table>
+
+*d)* Vizsgáló, tanácsadó szoba
+
+<table><tbody><tr><td>Eszközök,<br>felszerelések</td><td>Mennyiségi mutató</td><td>Megjegyzés</td></tr><tr><td>asztal</td><td>1</td><td rowspan="4">beszélgetésre és teszt kitöltésre alkalmas helyiség és bútorzat</td></tr><tr><td>szék</td><td>4</td></tr><tr><td>gyermekasztal</td><td>1</td></tr><tr><td>gyermekszék</td><td>4</td></tr><tr><td>tábla</td><td>1</td><td></td></tr><tr><td>szekrény</td><td>1</td><td></td></tr><tr><td>játék- és könyvespolc</td><td>1</td><td></td></tr><tr><td>fogas</td><td>1</td><td></td></tr><tr><td>tükör</td><td>1</td><td></td></tr><tr><td>pelenkázó</td><td>1</td><td>korai fejlesztést és gondozást, konduktív pedagógiai ellátást ellátó tagintézményben, telephelyen, ha ötévesnél fiatalabb gyermekekkel foglalkozik; a váróban is elhelyezhető</td></tr><tr><td>etetőszék</td><td>1</td><td>korai fejlesztést és gondozást, konduktív pedagógiai ellátást ellátó tagintézményben, telephelyen, ha ötévesnél fiatalabb gyermekekkel foglalkozik; a váróban is elhelyezhető</td></tr><tr><td>babaülés</td><td>1</td><td>korai fejlesztést és gondozást, konduktív pedagógiai ellátást ellátó tagintézményben, telephelyen, ha ötévesnél fiatalabb gyermekekkel foglalkozik; a váróban is elhelyezhető</td></tr></tbody></table>
+
+*e)* Fejlesztő szoba
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| asztal | 1 |  |
+| szék | 4 |  |
+| gyermekasztal | gyermeklétszám figyelembevételével |  |
+| gyermekszék (ülőpárna) | gyermeklétszám figyelembevételével |  |
+| szőnyeg | legalább a helyiség ötven százalékának lefedésére alkalmas méretben |  |
+| tábla | 1 |  |
+| polcok | 2 |  |
+
+*f)* Tornaterem (berendezése és felszerelése az iskolai tornateremre vonatkozó rendelkezések szerint)
+
+*g)* Tornaszoba
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| bordásfal | 2–4 |  |
+| egyensúly- és mozgásfejlesztő terápiás eszközök (Ayres, WESCO) | gyermek-, tanulói létszám figyelembevételével |  |
+| falétra | 3 |  |
+| fa mászóka | 2 |  |
+| műbőrrel borított falap | 2 |  |
+| tornaszőnyeg | 2 |  |
+
+*h)* Orvosi szoba, vizsgáló [berendezése és felszerelése során figyelembe kell venni a 26/1997. (IX. 3.) NM rendelet előírásait is]
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| magasságmérő | 1 |  |
+| mérleg | 1 |  |
+
+III. VIZSGÁLÓ ÉS TERÁPIÁS ESZKÖZÖK
+
+| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
+|---|---|---|
+| intelligencia, mentális funkció, mentális képesség vizsgálatára, verbális és nonverbális pszichológiai tesztek | vizsgáló és tanácsadó szobánként 1-1 | az érintett pedagógiai szakszolgálatot ellátó székhelyen, tagintézményben, telephelyen az ellátott feladattól függően, |
+| kreativitás vizsgálatára, tanulás iránti motiváció vizsgálatára, memória és figyelemfunkciók, figyelemkészség vizsgálatára szolgáló tesztek, próbák, mesetesztek | vizsgáló és tanácsadó szobánként 1-1 | az érintett pedagógiai szakszolgálatot ellátó székhelyen, tagintézményben, telephelyen az ellátott feladattól függően, |
+| fejlődés vizsgálatát szolgáló próbák, személyiségvizsgáló projektív tesztek | vizsgáló és tanácsadó szobánként 1-1 | az érintett pedagógiai szakszolgálatot ellátó székhelyen, tagintézményben, telephelyen az ellátott feladattól függően, |
+| beszédértés, beszédfunkciók vizsgálatát szolgáló eszközök, látás-, hallásfigyelem, beszéd, kommunikáció vizsgálatára szolgáló táblák, játékok | vizsgáló és tanácsadó szobánként 1-1 | az érintett pedagógiai szakszolgálatot ellátó székhelyen, tagintézményben, telephelyen az ellátott feladattól függően, |
+| speciális mozgásfejlesztő eszközök | gyermek-, tanulói létszám figyelembevételével | korai fejlesztő és gondozást, konduktív pedagógiai ellátást nevelési tanácsadást ellátó tagintézményben, telephelyen |
+| játékterápiához szükséges alapjátékok | gyermek-, tanulói létszám figyelembevételével | korai fejlesztő és gondozást, nevelési tanácsadást ellátó tagintézményben, telephelyen |
+| egyszerűbb és bonyolultabb játékok, rajzoláshoz, festéshez szükséges eszközök | gyermek-, tanulói létszám figyelembevételével | korai fejlesztő és gondozást, nevelési tanácsadást ellátó tagintézményben, telephelyen |
+| konduktív pedagógiai neveléshez megfelelő speciális bútorok | gyermek-, tanulói létszám figyelembevételével | konduktív pedagógiai ellátást nyújtó székhelyen, tagintézményben, telephelyen |
+
+IV. A GYÓGYTESTNEVELÉS MEGSZERVEZÉSÉNEK ESZKÖZEI
+
+| A gyógytestnevelés eszköz- és szerigénye a testnevelés eszköz- és szerigényével megegyezik. |
+|---|
+
+V. EGÉSZSÉG- ÉS MUNKAVÉDELMI ESZKÖZÖK
+
+<table><tbody><tr><td>Eszközök, felszerelések</td><td>Mennyiségi mutató</td><td>Megjegyzés</td></tr><tr><td>mentőláda</td><td>székhelyen, tagintézményben1</td><td rowspan="5">a közegészségügyi előírások szerint</td></tr><tr><td>gyógyszerszekrény</td><td>székhelyen, tagintézményben 1</td></tr><tr><td>munkaruha</td><td>a Munka Törvénykönyve, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. tv. és végrehajtási rendeletei alapján, a pedagógiai szakszolgálati intézmény kollektív szerződése szerint</td></tr><tr><td>védőruha</td><td>a munkavédelemről szóló 1993. évi XCXIII. tv. és végrehajtási rendeletei alapján, a pedagógiai szakszolgálati intézmény munkavédelmi szabályzata szerint</td></tr><tr><td>tűzoltó készülék</td><td>az érvényes tűzvédelmi szabályok szerint</td></tr></tbody></table>
+
+1\. Ha az építésügyi jogszabályokban előírt szakmai követelmények a mellékletben meghatározottaknál szigorúbb követelményeket állapítanak meg, új intézmény létesítésénél azt kell figyelembe venni.
+
+2\. A helyiségek rendeltetésszerű használatát biztosító – a mellékletben nem szabályozott – bútorokról, berendezési eszközökről, tárgyakról helyben kell dönteni. Valamennyi helyiség berendezésénél az építésügyi jogszabályokban előírt szakmai és tartalmi követelményeket, a közegészségügyi előírásokat, a tűzvédelmi, az egészségvédelmi, a munkavédelmi követelményeket figyelembe kell venni.
+
+3\. A gyermekek részére vásárolt eszközöknek és felszereléseknek igazodniuk kell a gyermekek testméretéhez.
+
+4\. Ha az eszközöket, felszereléseket létszám figyelembevételével kell beszerezni, az adott eszközből, felszerelésből annyi szükséges, hogy minden egyidejűleg jelen lévő gyermek, tanuló, munkát végző felnőtt igényét egyidejűleg teljesíteni lehessen. Amennyiben az eszközöket, felszereléseket létszám szerint kell beszerezni, az adott eszközből, felszerelésből a tényleges, érdekelt létszámnak megfelelően kell az előírt mennyiséget beszerezni.
+
+5\. Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, az Országos Szakértői Névjegyzékben szereplő szakértő véleményét kell beszerezni.
+
+6\. Ha az intézmény telephelye nevelési, nevelési-oktatási intézményben van, a felnőttek részére kialakított helyiségek, a felnőttek munkavégzéséhez szükséges eszközök, a pedagógiai szakszolgálat feladatainak ellátásához igénybe vehetők.
+
+7\. Ötéves kor alatt a gyermekek fejlesztő foglalkozása az e célra kialakított és kizárólag a szakszolgálatot ellátó intézmény által használt helyiségben történhet.
+
+8\. Ahol a „székhelyen, tagintézményben, telephelyen” megjelölést alkalmazza, azon érteni kell az intézmény székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetve a telephelyen hány épület van.
+
+## 10. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^224]
+
+---
+
+[^1]: Az 1. § az 53/2016. (XII. 29.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^2]: Az 1. § 1. pontja a 34/2025. (VIII. 18.) BM rendelet 13. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § 2. pontja a 44/2023. (X. 19.) BM rendelet 30. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 3. pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 3. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: Az 1. § 3. pont b) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 3. pont b) pont ba) alpontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 1. § 3. pont b) pont bb) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^9]: Az 1. § 3. pont b) pont bc) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított, a 34/2025. (VIII. 18.) BM rendelet 13. § 2. pontja szerint módosított szöveg.
+[^10]: Az 1. § 3. pont b) pont bd) alpontját a 37/2021. (VIII. 31.) EMMI rendelet 30. §-a iktatta be.
+[^11]: Az 1. § 4. pontja a 45/2022. (XII. 20.) BM rendelet 71. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § 6. pontja a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. § 8. pontja a 34/2025. (VIII. 18.) BM rendelet 10. §-ával megállapított szöveg.
+[^14]: Az 1. § 9. pontja a 45/2022. (XII. 20.) BM rendelet 71. § b) és c) pontja szerint módosított szöveg.
+[^15]: Az 1. § 10. pontját a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: Az 1. § 12. pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^17]: Az 1. § 13. pontja a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 3. pontja szerint módosított szöveg.
+[^18]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.
+[^19]: A 2. § a 34/2019. (XII. 30.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^20]: A 2. § c) pontja a 14/2020. (IV. 16.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^21]: A 2. § d) pontja a 14/2020. (IV. 16.) EMMI rendelet 4. §-ával megállapított, a 44/2023. (X. 19.) BM rendelet 31. § a) pontja szerint módosított szöveg.
+[^22]: A 2. § e) pontja a 14/2020. (IV. 16.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^23]: A 2. § f) pontja a 14/2020. (IV. 16.) EMMI rendelet 4. §-ával megállapított, a 44/2023. (X. 19.) BM rendelet 31. § b) pontja szerint módosított szöveg.
+[^24]: A 2. § h) pontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés c) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^25]: A 3. § (1) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^26]: A 3. § (1) bekezdés b) pontja az 52/2022. (XII. 27.) BM rendelet 27. §-a szerint módosított szöveg.
+[^27]: A 3. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^28]: A 3. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 2. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 2. pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 4. pontja szerint módosított szöveg.
+[^29]: A 3. § (4) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
+[^30]: A 3. § (5) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^31]: A 3. alcím címe az 53/2016. (XII. 29.) EMMI rendelet 47. § 3. pontja szerint módosított szöveg.
+[^32]: A 4. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított és 47. § 4. pontja szerint módosított szöveg.
+[^33]: A 4. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^34]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 4. § (6) bekezdése a 44/2023. (X. 19.) BM rendelet 26. §-ával megállapított szöveg.
+[^36]: A 4. § (7a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 25. §-a iktatta be.
+[^37]: A 4. § (8) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^38]: A 4. § (9) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^39]: Az 5. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 5. pontja szerint módosított szöveg.
+[^40]: Az 5. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^41]: Az 5. § (3) bekezdése a 44/2023. (X. 19.) BM rendelet 30. § b) pontja szerint módosított szöveg.
+[^42]: Az 5. § (5) bekezdését a 44/2023. (X. 19.) BM rendelet 27. §-a iktatta be.
+[^43]: A 4. alcímet (6. §) az 53/2016. (XII. 29.) EMMI rendelet 48. § a) pontja hatályon kívül helyezte.
+[^44]: A 7. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont a) alpontja szerint módosított szöveg.
+[^45]: A 7. § (1) bekezdés a) pontja a 34/2019. (XII. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^46]: A 7. § (1) bekezdés c) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont b) alpontja szerint módosított szöveg.
+[^47]: A 9. § a 8/2014. (I. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^48]: A 10. § a 8/2014. (I. 30.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^49]: A 10. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 7. pont a) alpontja szerint módosított szöveg.
+[^50]: A 10. § (2) bekezdés nyitó szövegrésze a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja szerint módosított szöveg.
+[^51]: A 10. § (2) bekezdés a) pontja a 45/2022. (XII. 20.) BM rendelet 71. § e) pontja szerint módosított szöveg.
+[^52]: A 10. § (2) bekezdés b) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 7. pont b) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) és c) pontja szerint módosított szöveg.
+[^53]: A 10. § (3) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 31. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § c) és f) pontja szerint módosított szöveg.
+[^54]: A 11. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 26. §-ával megállapított szöveg.
+[^55]: A 11. § (1) bekezdés a) pontja a 37/2021. (VIII. 31.) EMMI rendelet 36. § a) pontja szerint módosított szöveg.
+[^56]: A 11. § (1) bekezdés c) pontját újonnan a 37/2021. (VIII. 31.) EMMI rendelet 31. §-a iktatta be.
+[^57]: A 11. § (1) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § a) pontja szerint módosított szöveg.
+[^58]: A 11. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 8. pont b) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^59]: A 12. § (1) bekezdés nyitó szövegrésze a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^60]: A 12. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 7. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 9. pontja szerint módosított szöveg.
+[^61]: A 12. § (1) bekezdés b) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § a) pontja hatályon kívül helyezte.
+[^62]: A 12. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 27. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^63]: A 12. § (2) bekezdés a) pontja a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés b) pont ba) alpontja szerint módosított szöveg.
+[^64]: A 12. § (2) bekezdés c) pontja a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés b) pont ba) alpontja szerint módosított szöveg.
+[^65]: A 12. § (2) bekezdés f) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^66]: A 12. § (2) bekezdés g) pontja a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés b) pont bc) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^68]: A 13. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 10. pontja, a 20/2019. (VIII. 30.) EMMI rendelet 39. § b) pont ba) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (2) bekezdése, a 44/2023. (X. 19.) BM rendelet 30. § c) pontja szerint módosított szöveg.
+[^69]: A 13. § (2) bekezdés d) pont da) alpontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^70]: A 13. § (2) bekezdés d) pont db) alpontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 11. pontja, a 19/2017. (IX. 18.) EMMI rendelet 22. §-a szerint módosított szöveg.
+[^71]: A 13. § (3) bekezdés nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^72]: A 13. § (3) bekezdés a) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^73]: A 13. § (4) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^74]: A 13. § (4) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 19. § a) pontja szerint módosított szöveg.
+[^75]: A 13. § (5) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 39. § b) pont bb) alpontja szerint módosított szöveg.
+[^76]: A 14. § (1) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 39. § c) pontja szerint módosított szöveg.
+[^77]: A 14. § (2) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 32. §-ával megállapított szöveg.
+[^78]: A 15. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^79]: A 15. § (3) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^80]: A 15. § (4) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^81]: A 16. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 9. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 12. pont a) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja szerint módosított szöveg.
+[^82]: A 16. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 31. § 2. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja, 8. pont a) alpontja szerint módosított szöveg.
+[^83]: A 16. § (3) bekezdése a 8/2014. (I. 30.) EMMI rendelet 9. § (2) bekezdésével megállapított, nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^84]: A 16. § (3) bekezdés a) pontja a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^85]: A 16. § (3) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 57. §-ával megállapított, az 51/2016. (XII. 29.) EMMI rendelet 8. § 1. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja, 8. pont b) alpontja szerint módosított szöveg.
+[^86]: A 16. § (3) bekezdés c) pontja a 45/2014. (X. 27.) EMMI rendelet 57. §-ával megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 12. pont b) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^87]: A 16. § (3) bekezdés d) pontját a 45/2014. (X. 27.) EMMI rendelet 57. §-a iktatta be, szövege az 53/2016. (XII. 29.) EMMI rendelet 47. § 12. pont c) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^88]: A 16. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 9. § (2) bekezdésével megállapított, az 51/2016. (XII. 29.) EMMI rendelet 8. § 2. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 8. pont c) alpontja, a 44/2023. (X. 19.) BM rendelet 30. § d) pontja szerint módosított szöveg.
+[^89]: A 16. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 30. §-ával megállapított, ugyanezen módosító rendelet 47. § 12. pont d) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 7. pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 5. és 6. pontja szerint módosított szöveg.
+[^90]: A 16. § (6) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 8. pont d) alpontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 7. pontja szerint módosított szöveg.
+[^91]: A 17. § (1) bekezdés d) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont a) alpontja szerint módosított szöveg.
+[^92]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 19. § b) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
+[^93]: A 17. § (1) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
+[^94]: A 17. § (1) bekezdés h) pont záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^95]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^96]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont c) alpontja szerint módosított szöveg.
+[^97]: A 17. § (1) bekezdés h) pont hc) alpontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^98]: A 17. § (1) bekezdés j) pontja a 37/2021. (VIII. 31.) EMMI rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^99]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte, újonnan a 34/2019. (XII. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 17. § (1a) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 32. § (2) bekezdése iktatta be.
+[^101]: A 17. § (2) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 36. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^102]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^103]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be, szövege a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
+[^104]: A 17. § (7) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 18. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja, a 44/2023. (X. 19.) BM rendelet 30. § e) pontja szerint módosított szöveg.
+[^105]: A 18. § (1) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont a) alpontja, a 44/2023. (X. 19.) BM rendelet 30. § f) pontja szerint módosított szöveg.
+[^106]: A 18. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont b) alpontja szerint módosított szöveg.
+[^107]: A 18. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 33. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont c) alpontja szerint módosított szöveg.
+[^108]: A 19. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 35. §-ával megállapított, nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 11. pont a) alpontja szerint módosított szöveg.
+[^109]: A 19. § (2) bekezdés a) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 11. pont b) alpontja szerint módosított szöveg.
+[^110]: A 19. § (2) bekezdés b) pontját újonnan a 37/2021. (VIII. 31.) EMMI rendelet 33. §-a iktatta be.
+[^111]: A 19. § (2) bekezdés c) pontját a 37/2021. (VIII. 31.) EMMI rendelet 36. § c) pontja hatályon kívül helyezte.
+[^112]: A 20. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 36. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 12. pont a) alpontja szerint módosított szöveg.
+[^113]: A 20. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^114]: A 20. § (3) bekezdése a 8/2014. (I. 30.) EMMI rendelet 31. § 5. pontja, az 53/2016. (XII. 29.) EMMI rendelet 47. § 13. pont b) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 12. pont b) alpontja szerint módosított szöveg.
+[^115]: A 21. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 63. § 2. pontja, a 44/2023. (X. 19.) BM rendelet 31. § c) pontja szerint módosított szöveg.
+[^116]: A 21. § (5) bekezdése a 8/2014. (I. 30.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^117]: A 22. § (4) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 37. §-a iktatta be.
+[^118]: A 23. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 13. pont a) alpontja szerint módosított szöveg.
+[^119]: A 23. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^120]: A 23. § (5) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 13. pont b) alpontja szerint módosított szöveg.
+[^121]: A 23. § (6) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 8. § 3. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 13. pont c) alpontja szerint módosított szöveg.
+[^122]: A 24. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 14. pontja szerint módosított szöveg.
+[^123]: A 24. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^124]: A 24. § (1) bekezdés c) pontja a 20/2019. (VIII. 30.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^125]: A 24. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^126]: A 25. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (1) bekezdésével megállapított és 47. § 15. pontja szerint módosított szöveg.
+[^127]: A 25. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^128]: A 25. § (4) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^129]: A 25. § (6) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 34. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^130]: A 26. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 16. pontja szerint módosított szöveg.
+[^131]: A 26. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^132]: A 26. § (5) bekezdése a 8/2014. (I. 30.) EMMI rendelet 15. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja szerint módosított szöveg.
+[^133]: A 27. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 17. pontja szerint módosított szöveg.
+[^134]: A 28. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 18. pont a) alpontja szerint módosított szöveg.
+[^135]: A 28. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 16. §-a, az 53/2016. (XII. 29.) EMMI rendelet 47. § 18. pont b) alpontja szerint módosított szöveg.
+[^136]: A 28. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 18. pont c) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^137]: A 28. § (4) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 18. pont d) alpontja szerint módosított szöveg.
+[^138]: A 29. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont a) alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^139]: A 29. § (2) bekezdés a) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont b) alpontja szerint módosított szöveg.
+[^140]: A 29. § (2) bekezdés b) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^141]: A 29. § (2) bekezdés c) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^142]: A 29. § (2) bekezdés d) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^143]: A 29. § (2) bekezdés e) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^144]: A 29. § (2) bekezdés f) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^145]: A 29. § (2) bekezdés g) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^146]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^147]: A 30. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 20. pontja szerint módosított szöveg.
+[^148]: A 30. § (2) bekezdés a) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^149]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^150]: A 31. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 18. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^151]: A 31. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 18. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^152]: A 31. § (3) bekezdése a 8/2014. (I. 30.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^153]: A 31. § (4) bekezdése a 34/2025. (VIII. 18.) BM rendelet 13. § 8. pontja szerint módosított szöveg.
+[^154]: A 31. § (5) bekezdés nyitó szövegrésze a 8/2014. (I. 30.) EMMI rendelet 31. § 6. pontjával megállapított szöveg.
+[^155]: A 31. § (5) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 63. § 3. pontja szerint módosított szöveg.
+[^156]: A 31. § (5) bekezdés c) pontja a 45/2014. (X. 27.) EMMI rendelet 63. § 3. pontja szerint módosított szöveg.
+[^157]: A 31. § (5) bekezdés e) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^158]: A 31. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 63. § 3. pontja szerint módosított szöveg.
+[^159]: A 32. § a 8/2014. (I. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^160]: A 32. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 21. pontjával megállapított szöveg.
+[^161]: A 32. § (1) bekezdés a) pont aa) alpontja a 24/2017. (X. 3.) EMMI rendelet 27. § 2. pont 2.1. alpontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) és h) pontja szerint módosított szöveg.
+[^162]: A 32. § (1) bekezdés a) pont ab) alpontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 18. pont a) alpontja, 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^163]: A 32. § (1) bekezdés b) pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^164]: A 32. § (1) bekezdés b) pont ba) alpontja a 24/2017. (X. 3.) EMMI rendelet 27. § 2. pont 2.2. alpontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 18. pont b) alpontja, 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^165]: A 32. § (1) bekezdés b) pont bb) alpontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 19. pontja, 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^166]: A 32. § (1) bekezdés b) pont bc) alpontja a 45/2014. (X. 27.) EMMI rendelet 58. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 19. pontja, 12. § (1) bekezdés a) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja, a 44/2023. (X. 19.) BM rendelet 30. § g) pontja szerint módosított szöveg.
+[^167]: A 32. § (2) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 35. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja, a 44/2023. (X. 19.) BM rendelet 30. § h) pontja szerint módosított szöveg.
+[^168]: A 33. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^169]: A 33. § (3) bekezdése a 34/2025. (VIII. 18.) BM rendelet 13. § 9. pontja szerint módosított szöveg.
+[^170]: A 33. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 31. § 7. pontja szerint módosított szöveg.
+[^171]: A 33. § (5) bekezdése a 34/2025. (VIII. 18.) BM rendelet 13. § 10. pontja szerint módosított szöveg.
+[^172]: A 33. § (6) bekezdése a 34/2025. (VIII. 18.) BM rendelet 13. § 8. pontja szerint módosított szöveg.
+[^173]: A 33. § (7) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 39. §-ával megállapított, a 24/2017. (X. 3.) EMMI rendelet 28. §-a szerint módosított szöveg.
+[^174]: A 33. § (9) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 36. §-a iktatta be.
+[^175]: A 33. § (10) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 36. §-a iktatta be.
+[^176]: A 34. § (2) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § e) pontja szerint módosított szöveg.
+[^177]: A 34. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 59. §-ával megállapított szöveg.
+[^178]: A 34. § (5) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^179]: A 34. § (5a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 40. §-a iktatta be.
+[^180]: A 34. § (7) bekezdés b) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^181]: A 34. § (7) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 60. §-ával megállapított szöveg.
+[^182]: A 35. § (2) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 34. §-ával megállapított szöveg.
+[^183]: A 35. § (5) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.
+[^184]: A 35/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 41. §-a iktatta be, szövege a 34/2025. (VIII. 18.) BM rendelet 13. § 11. pontja szerint módosított szöveg.
+[^185]: A 37. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 63. § 4. pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 12. pontja szerint módosított szöveg.
+[^186]: A 37. § (6) bekezdése a 34/2025. (VIII. 18.) BM rendelet 13. § 12. pontja szerint módosított szöveg.
+[^187]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
+[^188]: A 39. § (9) bekezdése a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
+[^189]: A 39. § (12) bekezdése a 80/2022. (XII. 30.) BM rendelet 38. §-a szerint módosított szöveg.
+[^190]: A 16. alcímet a 20/2019. (VIII. 30.) EMMI rendelet 40. § e) pontja hatályon kívül helyezte.
+[^193]: A 43. §-t a 14/2020. (IV. 16.) EMMI rendelet 12. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2025. (VIII. 18.) BM rendelet 11. §-a iktatta be.
+[^194]: A 44. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^195]: [A 24/2017. (X. 3.) EMMI rendelet 27. § 4. pont 4.1. alpontjával elrendelt módosítás, amely szerint a „klinikai, pedagógiai, óvoda- és iskola vagy tanácsadói szakvizsga” szövegrész helyébe a „klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga” szöveg lép, nem vezethető át.]
+[^196]: A 44. § (2) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 48. § c) pontja hatályon kívül helyezte.
+[^197]: A 44. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § d) pontja hatályon kívül helyezte, újonnan a 45/2014. (X. 27.) EMMI rendelet 61. §-a iktatta be, nyitó szövegrésze a 34/2025. (VIII. 18.) BM rendelet 13. § 13. pontja szerint módosított szöveg.
+[^198]: A 44. § (4) bekezdés a) pontja a 24/2017. (X. 3.) EMMI rendelet 27. § 4. pont 4.2. alpontja szerint módosított szöveg.
+[^199]: A 44. § (5) bekezdése a 44/2023. (X. 19.) BM rendelet 28. §-ával megállapított szöveg.
+[^200]: A 44/A. §-t a 8/2014. (I. 30.) EMMI rendelet 23. §-a iktatta be.
+[^201]: A 44/B. §-t a 8/2014. (I. 30.) EMMI rendelet 24. §-a iktatta be.
+[^202]: A 44/B. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont a) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^203]: A 44/B. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont b) alpontja szerint módosított szöveg.
+[^204]: A 44/B. § (3) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 8. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § e) pontja szerint módosított szöveg.
+[^205]: A 44/B. § (4) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 8. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 71. § e) pontja szerint módosított szöveg.
+[^206]: A 44/C. §-t a 24/2017. (X. 3.) EMMI rendelet 25. §-a iktatta be.
+[^208]: A 45/A. §-t a 8/2014. (I. 30.) EMMI rendelet 26. §-a iktatta be.
+[^209]: A 45/B. §-t az 53/2016. (XII. 29.) EMMI rendelet 43. §-a iktatta be, szövege a 44/2023. (X. 19.) BM rendelet 29. §-ával megállapított szöveg.
+[^210]: A 45/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 38. §-a iktatta be.
+[^211]: A 45/D. §-t a 14/2020. (IV. 16.) EMMI rendelet 9. §-a iktatta be, szövege a 44/2023. (X. 19.) BM rendelet 31. § d) pontja szerint módosított szöveg.
+[^212]: A 45/E. §-t a 14/2020. (IV. 16.) EMMI rendelet 10. §-a iktatta be.
+[^213]: A 47. § (1)–(2) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § e) pontja hatályon kívül helyezte.
+[^216]: Az 1. mellékletet a 14/2020. (IV. 16.) EMMI rendelet 12. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^217]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 14. pontja szerint módosított szöveg.
+[^218]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^219]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 26. pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja, a 34/2025. (VIII. 18.) BM rendelet 12. §-a, 14. § b) és c) pontja szerint módosított szöveg.
+[^220]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 45. §-ával megállapított és 48. § d) pontja, a 24/2017. (X. 3.) EMMI rendelet 26. §-a, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 21. pontja, 12. § (1) bekezdés a), i) és l) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^221]: A 7. melléklet az 53/2016. (XII. 29.) EMMI rendelet 46. §-ával megállapított és 47. § 27. pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § g) pontja szerint módosított szöveg.
+[^222]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.
+[^223]: A 9. melléklet a 8/2014. (I. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
+[^224]: A 10. mellékletet a 12/2018. (III. 27.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.

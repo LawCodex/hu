@@ -1,0 +1,518 @@
+---
+title: "49/2015. (VIII. 12.) FM rendelet az MFB TÉSZ Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról"
+identifier: "49/2015. (VIII. 12.) FM rendelet"
+njt_id: "2015-49-20-11"
+eli: "https://njt.jog.gov.hu/eli/R/2015/FM/49"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2015-08-12
+in_force_from: 2015-08-27
+last_amended: 2023-05-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-49-20-11"
+retrieved: 2026-10-12
+---
+
+# 49/2015. (VIII. 12.) FM rendelet az MFB TÉSZ Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 7. pontjában meghatározott feladatkörében eljáró Miniszterelnökséget vezető miniszterrel egyetértésben – a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+#### 1. §
+
+E rendelet alkalmazásában:
+
+1\. *csekély összegű támogatás:*
+
+1.1. *általános csekély összegű támogatás:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) szerinti támogatás,
+
+1.2. *halászati csekély összegű támogatás:* az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti támogatás;
+
+2\. *egy és ugyanazon vállalkozás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás;
+
+2a.[^1] *kiegészítő kamattámogatási kérelem:* a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében a termelői szerveződés által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely
+
+a) a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében szereplő településen működő és 2016. június 30-áig hatályba lépett hitelszerződéssel rendelkező termelői szerveződés esetében legfeljebb 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+
+b) a 77/2015. (XII. 1.) FM rendeletnek
+
+*ba)* kizárólag a 3. mellékletében szereplő településen működő, vagy
+
+*bb)*[^2] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező,
+
+termelői szerveződés esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^3] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+
+c)[^4] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő településen működő és a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelet [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] hatálybalépésének napja[^5] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező termelői szerveződés esetében legfeljebb a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik, és a hitel hátralévő futamidejére vonatkozik,
+
+d)[^6] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő településen működő vagy a 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet [a továbbiakban: 65/2017. (XII. 22.) FM rendelet] 1. melléklete alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának a viharkárral érintett építmény fekvése szerint illetékes megyei szervezete (a továbbiakban: NAK) által kiállított igazolással rendelkező és az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet [a továbbiakban: 66/2017. (XII. 22.) FM rendelet] hatálybalépésének napja[^7] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező, termelői szerveződés esetében legfeljebb a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
+
+2b.[^8] *egységes kérelem:* az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem;
+
+3\. *hitelprogram:* MFB TÉSZ Forgóeszköz Hitelprogram 2020;
+
+4.[^9] *kezességvállaló intézmény:* az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
+
+4a.[^10] *kedvezőtlen időjárással érintett termelői szerveződés:* a 77/2015. (XII. 1.) FM rendelet 1., 3., 4. illetve 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen tevékenységet folytató – kizárólag az 1. mellékletben szereplő település vonatkozásában a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő –, vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolással rendelkező hitelfelvevő, aki a hitelprogram keretében
+
+a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetén 2016. június 30-ig,
+
+b) a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2017. május 31-ig,
+
+c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2017. május 31-ig,
+
+d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település esetén a 2017. augusztus 8. és 2017. december 31. között (a határnapokat is beleértve),
+
+e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^11] és 2018. május 31. között (a határnapokat is beleértve)
+
+hatályba lépett hitelszerződéssel rendelkezik;
+
+5\. *pénzügyi intézmény:* az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) honlapján közzétett, a hitelprogramhoz csatlakozott hitelintézet, valamint az MFB Zrt.;
+
+6\. *támogatástartalom:* a termelői szerveződés számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
+
+7.[^12] *támogatástartalom-igazolás:* a kamattámogatás támogatástartalmáról szóló, a Magyar Államkincstár (a továbbiakban: Kincstár) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás támogatáskategóriáját is megjelöli;
+
+8.[^13] *termelői szerveződés:*
+
+a) a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 3/2016. (I. 7.) FM rendelet szerint a tej és tejtermékek ágazatban működő termelői szervezetek és társulásaik,
+
+b) a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet szerint a gyümölcs- és zöldségfélék ágazatban működő termelői szervezetek és társulásaik,
+
+c) a termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet szerint az a) és b) pontban felsoroltaktól eltérő mezőgazdasági ágazatokban működő termelői integrációs szervezetek és társulásaik vagy
+
+d) a termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet szerint működő termelői csoportok.
+
+## 2. A támogatás célja, mértéke és forrása
+
+#### 2. §
+
+(1)[^14] E rendelet alapján a hitelprogram keretében e rendelet hatálybalépése napján vagy azt követően hatályos, 2023. december 31-ig megkötött hitelszerződéssel rendelkező termelői szerveződés a hitel kamatfizetéséhez kamattámogatás igénybevételére jogosult.
+
+(2) A kamattámogatás mértékét a 4. § (2) bekezdése szerint kell meghatározni azzal, hogy
+
+a) az nem haladhatja meg a termelői szerveződés és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás rendelkezésére álló szabad csekély összegű támogatási keretet, és
+
+b) az legfeljebb a hitelkamat 60%-a lehet, de nem haladhatja meg az évi 4 százalékpontot,
+
+c)[^15] a 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő és legkésőbb 2016. június 30-áig hatályba lépett hitelszerződéssel rendelkező termelői szerveződés esetében a támogatás mértéke a 2015. április 30-át követően esedékes kamatfizetések tekintetében 100% kamattámogatás a hitel teljes futamidejére,
+
+d)[^16] a 77/2015. (XII. 1.) FM rendeletnek
+
+da)[^17] kizárólag a 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező, vagy
+
+db)[^18] az 1. és 3. mellékletében egyaránt szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és 2016. június 30-át követően, de legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező
+
+termelői szerveződés esetében a támogatás mértéke az 51/2016. (VII. 21.) FM rendelet hatálybalépését[^19] megelőzően benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű összes földterület minden megkezdett hektárja után számított, az egyes nemzeti forrásból finanszírozott agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 17/2017. (IV. 10.) FM rendelet [a továbbiakban: 17/2017. (IV. 10.) FM rendelet] hatálybalépését[^20] megelőzően hatályba lépett hitelszerződések esetén legfeljebb 500 000 forint összegű, a 17/2017. (IV. 10.) FM rendelet hatálybalépésétől kezdődően hatályba lépett hitelszerződések esetén legfeljebb 1 000 000 forint összegű hitelnek az 51/2016. (VII. 21.) FM rendelet hatálybalépésétől kezdődően esedékes kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a *b)* pontban foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe,
+
+e)[^21] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és 2017. augusztus 8. és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező, kedvezőtlen időjárással érintett termelői szerveződés vagy a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő, vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolással és a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^22] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező kedvezőtlen időjárással érintett termelői szerveződés esetében a támogatás mértéke a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület és a kedvezőtlen időjárással érintett termelői szerveződés választása szerint vagy a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, fóliás termesztésként jelölt összes terület vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által igazolt terület összegének minden megkezdett hektárja után számított, legfeljebb 1 000 000 forint összegű hitelnek az esedékes kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a *b)* pontban foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe,
+
+f)[^23] a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^24] és 2020. december 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződések esetében a támogatás mértéke az esedékes kamatfizetésekhez kapcsolódóan legfeljebb 100% kamattámogatás a hitel teljes futamidejére.
+
+(3)[^25] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 1. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg.
+
+## 3. A támogatásra jogosultak köre
+
+#### 3. §
+
+A kamattámogatás igénybevételére az a termelői szerveződés jogosult, amely
+
+a)[^26] kamattámogatási kérelem, kiegészítő kamattámogatási kérelem (a továbbiakban együtt: kamattámogatási kérelem) benyújtásának időpontjában
+
+aa) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a kamattámogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
+
+ab) megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában meghatározott feltételeknek,
+
+ac) nem áll felszámolási, végelszámolási vagy adósságrendezési eljárás alatt;
+
+b) nyilatkozik arról, hogy
+
+ba) a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás mekkora összegű általános csekély összegű támogatást vett igénybe a kamattámogatási kérelem benyújtását megelőző kettő üzleti évben és a folyamatban lévő üzleti évben,
+
+bb) milyen mértékű kamattámogatást és mely időponttól kezdődően kíván igénybe venni, és
+
+bc) megfelel az *ab)* és *ac)* alpontban foglalt feltételeknek, és
+
+bd)[^27] a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről;
+
+c) nyilatkozatban vállalja, hogy
+
+ca)[^28] a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi a Kincstár részére, valamint
+
+cb)[^29] ha a *ba)* alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés kézhezvételéig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb 5 napon belül írásban tájékoztatja a Kincstárt.
+
+## 4. A támogatás igénylése
+
+#### 4. §
+
+(1)[^30] A termelői szerveződés a kamattámogatási kérelmét a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, a hitel futamideje alatt egy alkalommal a Kincstárhoz postai úton nyújthatja be. A kamattámogatási kérelem legfeljebb a kamattámogatási kérelem beadásának naptári negyedévét megelőző negyedik naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozhat.
+
+(1a)[^31] A kedvezőtlen időjárással érintett termelői szerveződés a kamatmentesség iránti kamattámogatási kérelmet a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a 77/2015. (XII. 1.) FM rendeletnek
+
+a) kizárólag az 1. mellékletében szereplő településen történő működés esetén 2016. június 30-áig,
+
+b)[^32] kizárólag a 3. mellékletében szereplő településen történő működés esetén 2017. május 31-ig,
+
+c)[^33] az 1. és 3. mellékletében egyaránt szereplő településen történő működés esetén 2017. május 31-ig,
+
+d)[^34] a 4. vagy 5. mellékletében szereplő településen történő működés vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén 2018. május 31-ig
+
+a Kincstárhoz egy alkalommal nyújthatja be.
+
+(2)[^35] A kamattámogatási kérelemben százalékpontban kifejezve, két tizedesjegy pontossággal, 0,05 százalékpontos lépésköz alkalmazásával kell megjelölni a termelői szerveződés által igénybe venni kívánt kamattámogatás mértékét, valamint meg kell adni a kamattámogatás igénybevételének kezdő időpontját, amely valamely kamatidőszak első napja lehet azzal, hogy kamatmentesség iránti kamattámogatási kérelem esetén a kamattámogatás kezdő időpontja
+
+a) a 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikének a hitelkérelem beadásakor főtevékenységkénti folytatása vagy a hitelkérelemben hitelcél szerinti megjelölése és 2016. június 30-áig hatályba lépett hitelszerződéssel történő rendelkezés esetén nem lehet korábbi, mint 2015. április 1.,
+
+b) a 77/2015. (XII. 1.) FM rendeletnek
+
+ba)[^36] kizárólag a 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés és legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel történő rendelkezés, vagy
+
+bb)[^37] az 1. és 3. mellékletében egyaránt szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés és 2016. június 30-át követően, de legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel történő rendelkezés
+
+esetén nem lehet korábbi, mint az 51/2016. (VII. 21.) FM rendelet hatálybalépésének[^38] időpontját magába foglaló naptári negyedév első napja,
+
+c)[^39] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés és a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^40] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel történő rendelkezés esetén nem lehet korábbi, mint a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja.
+
+d)[^41] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása és a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^42] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel történő rendelkezés esetén nem lehet korábbi, mint a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja.
+
+(3) A kamattámogatási kérelemhez a termelői szerveződésnek csatolnia kell
+
+a) a pénzügyi intézmény által a hitelprogram keretében megkötött hitelszerződésben foglalt kedvezményes kamatból adódó támogatásról szóló, a termelői szerveződés egyéni referencia kamatlábát is tartalmazó támogatástartalom-igazolás másolatát, vagy a pénzügyi intézmény által kiállított, a rendelkezésre álló legfrissebb adatok alapján megállapított egyéni referencia kamatlábat tartalmazó dokumentum másolatát,
+
+b) a hitelhez kapcsolódó
+
+ba) intézményi kezességvállalás esetén a kezességvállaló intézmény által kiállított, a kedvezményes intézményi készfizető kezességvállalásból adódó támogatásról szóló támogatástartalom-igazolás másolatát,
+
+bb) állami kezességvállalás esetén az állami kezességvállalásból adódó támogatásról szóló támogatástartalom-igazolás másolatát,
+
+c) a hatályos hitelszerződés másolatát,
+
+d) a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat, és
+
+e) a 3. § b) és c) pontja szerinti nyilatkozatokat,
+
+f)[^43] a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolást, ha a fóliás termesztéshez kapcsolódó támogatás igazolására a kedvezőtlen időjárással érintett termelői szerveződés azt választja.
+
+(4)[^44] A kamattámogatás támogatástartalmát a Kincstár az 1. mellékletben meghatározott módszertan szerint számolja ki.
+
+## 5. A támogatásról való döntés
+
+#### 5. §
+
+(1)[^45] A Kincstár a kamattámogatási kérelemről annak hiánytalan beérkezését követő harminc napon belül – a 2. § (2) bekezdésében foglaltak figyelembevételével – döntést hoz, és a kamattámogatási kérelem jóváhagyása esetén támogatástartalom-igazolást állít ki, amelyet megküld a termelői szerveződés részére.
+
+(1a)[^46] A Kincstár a kamattámogatási kérelemről való döntésében kettő tizedesjegy pontossággal határozza meg a kamattámogatás maximális mértékét.
+
+(2) A támogatástartalom-igazolást a termelői szerveződés annak keltezésétől számított tíz évig köteles megőrizni.
+
+(3) A támogatástartalom összegét a kamattámogatási kérelem benyújtása hónapját közvetlenül megelőző hónap első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+
+## 6. A támogatás folyósítása
+
+#### 6. §
+
+(1) A kamattámogatás lehívására az a termelői szerveződés jogosult,
+
+a)[^47] amelynek a kamattámogatási kérelmét a Kincstár részben vagy egészben jóváhagyta,
+
+b) amely a támogatáslehívási kérelemben feltüntetett kamatok megfizetését az (5) bekezdésben foglaltak szerint igazolja és
+
+c)[^48] a támogatáslehívási kérelemben szerepeltetett kamatok tekintetében a hitelprogram keretében 2023. december 31-ig megkötött, hatályos szerződéssel rendelkezik.
+
+(2)[^49] A kamattámogatás a Kincstár által rendszeresített és a honlapján közzétett támogatáslehívási kérelem nyomtatvány Kincstárhoz postai úton történő benyújtásával naptári negyedévente igényelhető. A támogatáslehívási kérelmet a naptári negyedévet követő hónapban kell a Kincstárhoz benyújtani.
+
+(3)[^50] A támogatáslehívási kérelem legfeljebb a támogatáslehívási kérelem benyújtásának hónapját közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában nyújtható be azzal, hogy a kamattámogatási kérelem jóváhagyásának naptári negyedévét követő hónapban benyújtott támogatáslehívási kérelemben a kamattámogatási kérelem beadásának naptári negyedévében és az azt közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában járó kamattámogatás is igényelhető. 100%-os kamattámogatás csak a 2015. április 30-át követően esedékes kamatfizetések vonatkozásában igényelhető.
+
+(4) Az egy negyedévben megfizetett kamatok csak egy támogatáslehívási kérelemben tüntethetők fel.
+
+(5)[^51] A támogatáslehívási kérelemhez mellékelni kell a pénzügyi intézmény által a kamatok megfizetéséről és a negyedévben alkalmazott kamatláb mértékéről kiállított igazolások eredeti példányát minden kérelmezett naptári negyedév vonatkozásában.
+
+(6)[^52] A Kincstár a támogatáslehívási kérelemről annak hiánytalan beérkezését követő harminc napon belül döntést hoz, és a jóváhagyott kamattámogatást – a forrás rendelkezésre állása esetén – a döntést követő tizenöt napon belül folyósítja a termelői szerveződés részére.
+
+## 7. Egyéb rendelkezések
+
+#### 7. §
+
+(1)[^53] Ha a pénzügyi intézmény a hitel nem rendeltetésszerű felhasználását állapítja meg, arról tizenöt napon belül tájékoztatja a Kincstárt.
+
+(2) A hitel nem rendeltetésszerű felhasználása – a Törvény 69. § (1) bekezdés d) pontja szerinti – intézkedésben való jogosulatlan részvételnek minősül.
+
+### 7a.[^54] Átmeneti támogatás
+
+#### 7/A. §
+
+(1)[^55] A termelői szerveződés az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének[^56] napja és 2022. május 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
+
+(2) Az átmeneti támogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
+
+(3) Az (1) bekezdés szerinti átmeneti támogatás vonatkozásában nem kell alkalmazni a 2. § (2) bekezdés a) pontjában, valamint a 8–11. §-ban foglaltakat.
+
+(4) A kamattámogatás (1) bekezdés szerinti átmeneti támogatásként történő igénybevételére az a 3. §-ban foglalt feltételeknek megfelelő termelői szerveződés jogosult, aki az átmeneti támogatás iránti kamattámogatási kérelem benyújtásával egyidejűleg nyilatkozik
+
+a) arról, hogy vállalkozás a 20/2020. (VI. 19.) AM rendelet 1. § i) pontja szerinti kapcsolt vállalkozásnak (a továbbiakban: kapcsolt vállalkozás) minősül-e, és kapcsolt vállalkozása adatairól (adószám vagy adóazonosító jel, ügyfél-azonosító),
+
+b) a részére, valamint a kapcsolt vállalkozása részére megítélt átmeneti támogatások euróban kifejezett támogatástartalmáról,
+
+c) az általa vagy kapcsolt vállalkozása által benyújtott, de még el nem bírált átmeneti támogatási kérelmek esetében a kérelmekben jelzett támogatási összegek euróban kifejezett támogatástartalmáról,
+
+d) a *b)* és *c)* pont tekintetében az átmeneti támogatás jogcíméről, valamint az átmeneti támogatással érintett tevékenysége 20/2020. (VI. 19.) AM rendelet 2. § (1) bekezdése szerinti besorolásáról,
+
+e) arról, hogy középvállalkozóként vagy nagyvállalkozásként 2019. december 31-én nem minősült a 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdése szerinti nehéz helyzetben lévő vállalkozásnak,
+
+f) mikro- és kisvállalkozás esetében arról, hogy nem részesült az iránymutatás a nehéz helyzetben lévő, nem pénzügyi vállalkozásoknak nyújtott megmentési és szerkezetátalakítási állami támogatásról szóló, 2014. július 31-i 2014/C 246/01 számú bizottsági közlemény szerinti megmentési támogatásban vagy szerkezetátalakítási támogatásban, és
+
+g) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességvállalás kedvezményes díjából és a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatások összegéről – a támogatástartalom igazolások másolati példányának csatolásával – a támogatás kategóriájától függetlenül.
+
+(5) Átmeneti támogatás igénylése esetén a termelői szerveződés átmeneti támogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
+
+(6)[^57] Az átmeneti támogatás iránti kamattámogatási kérelem 2022. május 31-éig postai úton nyújtható be a Kincstárhoz.
+
+(7) A Kincstár – az (1) bekezdés szerinti átmeneti támogatás iránti kamattámogatási kérelem tekintetében – a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés b)–c) pontjában meghatározott értékhatárt meghaladó átmeneti támogatási igényt elutasítja vagy annak összegét a 20/2020. (VI. 19.) AM rendelet 3. § (5) bekezdésében foglaltakra tekintettel állapítja meg. A szabad átmeneti támogatási keret a 20/2020. (VI. 19.) AM rendelet 4. § (1) bekezdésében foglaltakra tekintettel kerül megállapításra.
+
+(8)[^58] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. június 30-áig megküldi a termelői szerveződés részére.
+
+(9) Az (1) bekezdésben meghatározott hitelszerződésekhez kapcsolódóan csekély összegű támogatási jogcímen kamattámogatás abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
+
+### 7b.[^59] Válságtámogatás
+
+#### 7/B. §
+
+(1)[^60] A termelői szerveződés az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^61] napja és 2023. december 31. napja között – a határnapokat is beleértve – hatályba lépett hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatásként (a továbbiakban: válságtámogatás) is igényelheti.
+
+(2) A válságtámogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
+
+(3) Az (1) bekezdés szerinti válságtámogatás vonatkozásában nem kell alkalmazni a 2. § (2) bekezdés a) pontjában, a 4. § (3) bekezdés d) pontjában, a 7/A. §-ban, valamint a 8–11. §-ban foglaltakat.
+
+(4) A kamattámogatás (1) bekezdés szerinti válságtámogatásként történő igénybevételére az a 3. §-ban foglalt feltételeknek megfelelő termelői szerveződés jogosult, aki a válságtámogatás iránti kamattámogatási kérelem benyújtásával egyidejűleg nyilatkozik
+
+a) arról, hogy vállalkozása a 25/2022. (VIII. 31.) AM rendelet 1. § 7. pontja szerinti kapcsolt vállalkozásnak (a továbbiakban: kapcsolt vállalkozás) minősül-e, és ha annak minősül, a kapcsolt vállalkozása nevéről, adóazonosító számáról és ügyfél-azonosítójáról,
+
+b) a részére, valamint a kapcsolt vállalkozása részére korábban megítélt válságtámogatások euróban kifejezett támogatástartalmáról,
+
+c) az általa vagy a kapcsolt vállalkozása által benyújtott, de még el nem bírált válságtámogatási kérelmek esetében a kérelmekben igényelt támogatási összegek euróban kifejezett támogatástartalmáról,
+
+d) a *b)* és *c)* pont tekintetében a válságtámogatás jogcíméről, valamint a válságtámogatással érintett tevékenysége 25/2022. (VIII. 31.) AM rendelet 2. § (1) bekezdése szerinti besorolásáról,
+
+e) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország és Ukrajna közötti konfliktussal, és
+
+f) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességvállalás kedvezményes díjából és a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatások összegéről – a támogatástartalom-igazolások másolati példányának csatolásával – a támogatás kategóriájától függetlenül.
+
+(5) Válságtámogatás igénylése esetén a termelői szerveződés válságtámogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
+
+(6)[^62] A válságtámogatás iránti kamattámogatási kérelem 2023. november 30-áig postai úton nyújtható be a Kincstárhoz.
+
+(7)[^63] A Kincstár – az (1) bekezdés szerinti válságtámogatás iránti kamattámogatási kérelem tekintetében – a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) vagy c) pontjában meghatározott értékhatárt meghaladó válságtámogatási igényt elutasítja vagy annak összegét a 25/2022. (VIII. 31.) AM rendelet 3. § (7) bekezdésében foglaltakra tekintettel állapítja meg. A szabad válságtámogatási keretet a 25/2022. (VIII. 31.) AM rendelet 4. §-ában foglaltakra tekintettel kell megállapítani.
+
+(8)[^64] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2023. december 31-éig megküldi a termelői szerveződés részére.
+
+(9) Az (1) bekezdésben meghatározott hitelszerződésekhez kapcsolódóan csekély összegű támogatási jogcímen kamattámogatás abban az esetben igényelhető, ha a válságtámogatás nyújtásának feltételei nem állnak fenn.
+
+## 8. A csekély összegű támogatásokra vonatkozó általános rendelkezések
+
+#### 8. §
+
+(1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadóak.
+
+(2) A csekély összegű támogatás odaítélése során az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) Nem nyújtható általános csekély összegű támogatás
+
+a) olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti halászati és akvakultúra-ágazatban tevékenykedik;
+
+b) a mezőgazdasági termékek elsődleges termelésével kapcsolatos tevékenység finanszírozásához;
+
+c) a mezőgazdasági termékek feldolgozásával és forgalmazásával foglalkozó vállalkozásoknak, a következő esetekben:
+
+ca) amennyiben a támogatás összege az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
+
+cb) amennyiben a támogatás feltétele az elsődleges termelőknek történő teljes vagy részleges továbbadás;
+
+d) harmadik országokba vagy tagállamokba irányuló exporttal kapcsolatos tevékenység támogatásához, nevezetesen az exportált mennyiségek finanszírozásához; értékesítési hálózat kialakításához és működtetéséhez vagy exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódó támogatáshoz;
+
+e) az import áruk helyett belföldi áru használatához kötött támogatáshoz;
+
+f) a közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozások számára nyújtott, teherszállító járművek megvásárlásának támogatásához;
+
+g) hitel vagy kezességvállalás formájában, amennyiben a kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+
+(4) Nem nyújtható halászati csekély összegű támogatás
+
+a) olyan támogatásként, amelynek összegét a piacon beszerzett vagy forgalomba hozott termékek ára vagy mennyisége alapján állapították meg,
+
+b) halászhajók vásárlásához,
+
+c) halászhajók főhajtóműveinek vagy kiegészítő hajtóműveinek korszerűsítéséhez vagy cseréjéhez,
+
+d) hajó halászati kapacitásának növelését célzó műveletek elvégzéséhez vagy halfelderítési képességek növelését célzó berendezések megvásárlásához,
+
+e) új halászhajók építéséhez vagy halászhajók behozatalához,
+
+f) halászati tevékenységek ideiglenes vagy végleges szüneteltetésére irányuló támogatásként, kivéve ha az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet erről kifejezetten rendelkezik,
+
+g) felderítő halászat végzéséhez,
+
+h) vállalkozás tulajdonjogának átadásához,
+
+i) közvetlen újratelepítés elvégzéséhez, kivéve abban az esetben, ha azt valamely uniós jogi aktus állományvédelmi intézkedésként kifejezetten előírja, illetve kísérleti újratelepítés esetén.
+
+## 9. Támogatáshalmozódás
+
+#### 9. §
+
+(1) Az 1407/2013/EU bizottsági rendelet alapján általános csekély összegű támogatás esetén a támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról
+
+szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható.
+
+(2) Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) alapján mezőgazdasági csekély összegű támogatás esetén, a mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikkének (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, hogy az érintett tagállam megfelelő eszközökkel – úgymint a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén – biztosítja, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(3) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint a halászati és akvakultúra-ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások a 717/2014/EU bizottsági rendelet 3. cikk (2) bekezdésében rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel az említett rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, hogy az érintett tagállam megfelelő eszközökkel – úgymint a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén – biztosítja, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) Amennyiben a halászati és akvakultúra-ágazatban működő valamely vállalkozás az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban vagy egyéb tevékenységi körökben is folytat tevékenységet, a halászati és akvakultúra-ágazatba tartozó tevékenységek tekintetében a 717/2014/EU bizottsági rendeletnek megfelelően nyújtott csekély összegű támogatások az 1407/2013/EU bizottsági rendelet 3. cikkének (2) bekezdésében rögzített felső határig halmozhatók az utóbbi ágazat(ok) vagy tevékenységi körök vonatkozásában nyújtott csekély összegű támogatással, feltéve, hogy az érintett tagállam megfelelő eszközökkel – úgymint a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén – biztosítja, hogy a halászati és akvakultúra-ágazatban végzett tevékenységek ne részesüljenek az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) Az általános, a mezőgazdasági és a halászati csekély összegű támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető csekély összegű támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
+
+## 10. Az általános csekély összegű támogatás
+
+#### 10. §
+
+(1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget.
+
+(2) Általános csekély összegű támogatás nem nyújtható a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
+
+## 11. A halászati csekély összegű támogatás
+
+#### 11. §
+
+Az egy és ugyanazon halászati és akvakultúra-ágazati vállalkozás részére a 717/2014/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során Magyarországon odaítélt halászati csekély összegű támogatás támogatástartalma nem haladhatja meg a 30 000 eurónak megfelelő forintösszeget, figyelembe véve a 717/2014/EU bizottsági rendelet 3. cikk (3) bekezdésében foglalt felső határt.
+
+## 12. Záró rendelkezések
+
+#### 12. §
+
+Ez a rendelet a kihirdetését követő tizenötödik napon lép hatályba.
+
+#### 13. §
+
+Ez a rendelet
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet, valamint
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+
+c)[^65] az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i 2020/C 91 I/01 számú európai bizottsági közlemény
+
+d)[^66] „az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022. október 28-i 2022/C 426/01 számú európai bizottsági közlemény
+
+hatálya alá tartozó támogatást tartalmaz.
+
+## 1. melléklet a 49/2015. (VIII. 12.) FM rendelethez[^69]
+
+**A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete**
+
+![](https://njt.jog.gov.hu/picture/7b/7b302015_11__20000049AD7B_000_0.jpg)
+
+TT<sub>E</sub> = TT/r
+
+ahol:
+
+TT – támogatástartalom, a támogatások jelenértékének összege forintban,
+
+TT<sub>E</sub> – támogatástartalom, a támogatások jelenértékének összege euróban,
+
+Q – adott évben a hitelhez nyújtott – egyéni referencia kamatláb alapján számított kamattámogatást meg nem haladó – kamattámogatás összege a kamattámogatásról szóló Kincstár határozatban megjelölt százalékpont és a hitel törlesztési ütemterve alapján számítva, forintban
+
+Ha i<sub>H</sub> >= i<sub>ER</sub> és i<sub>ER</sub> > i<sub>F</sub> , akkor Q = (i<sub>ER</sub> – i<sub>F</sub>)*H,
+
+Ha i<sub>H</sub> >= i<sub>ER</sub> és i<sub>ER</sub> <= i<sub>F</sub> , akkor Q = 0;
+
+Ha i<sub>H</sub> < i<sub>ER</sub> és i<sub>H</sub> > i<sub>F</sub> , akkor Q = (i<sub>H</sub> – i<sub>F</sub>)*H,
+
+Ha i<sub>H</sub> < i<sub>ER</sub> és i<sub>H</sub> = i<sub>F</sub> , akkor Q = 0,”
+
+i – az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló kormányrendelet szerinti diszkont kamatláb,
+
+i<sub>ER</sub> – a hitelfelvevő vonatkozásában megállapított egyéni referencia kamatláb, a kamatidőszak hosszának megfelelően,
+
+i<sub>H</sub> – a hitel kamatlába, a kamatidőszak hosszának megfelelően,
+
+i<sub>F</sub> – a kamattámogatás figyelembevételével a hitelfelvevő által ténylegesen fizetett kamatláb, a kamatidőszak hosszának megfelelően,
+
+H – a kamatidőszak elején fennálló hitelállomány forintban (feltételezve, hogy tőketörlesztésre csak a kamatidőszak végén kerül sor),
+
+n – évek száma, a támogatástartalom a kamattámogatási kérelemben megjelölt igénybevételi időponttól a hitel futamidejének utolsó napjáig terjedő időszak alapján kerül kiszámításra,
+
+r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
+
+## 2. melléklet a 49/2015. (VIII. 12.) FM rendelethez[^70]
+
+---
+
+[^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 2a. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^3]: A hatálybalépés időpontja 2016. július 22.
+[^4]: Az 1. § 2a. pont c) alpontját a 39/2017. (VIII. 7.) FM rendelet 13. § (1) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 25. §-a szerint módosított szöveg.
+[^5]: A hatálybalépés időpontja 2017. augusztus 8.
+[^6]: Az 1. § 2a. pont d) alpontját a 66/2017. (XII. 22.) FM rendelet 22. § (1) bekezdése iktatta be.
+[^7]: A hatálybalépés időpontja 2017. december 23.
+[^8]: Az 1. § 2b. pontját az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdése iktatta be.
+[^9]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^11]: A hatálybalépés időpontja 2017. december 23.
+[^12]: Az 1. § 7. pontja a 88/2016. (XII. 29.) FM rendelet 92. § a) pontja, a 18/2021. (IV. 14.) AM rendelet 14. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § 8. pontja a 22/2023. (V. 9.) AM rendelet 12. §-ával megállapított szöveg.
+[^14]: A 2. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^15]: A 2. § (2) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 16. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 27. §-ával megállapított szöveg.
+[^16]: A 2. § (2) bekezdés d) pontját az 51/2016. (VII. 21.) FM rendelet 27. §-a iktatta be, záró szövegrésze a 17/2017. (IV. 10.) FM rendelet 16. §-ával megállapított szöveg.
+[^17]: A 2. § (2) bekezdés d) pont da) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^18]: A 2. § (2) bekezdés d) pont db) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^19]: A hatálybalépés időpontja 2016. július 22.
+[^20]: A hatálybalépés időpontja 2017. április 11.
+[^21]: A 2. § (2) bekezdés e) pontját a 39/2017. (VIII. 7.) FM rendelet 14. §-a iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 23. §-ával megállapított szöveg.
+[^22]: A hatálybalépés időpontja 2017. december 23.
+[^23]: A 2. § (2) bekezdés f) pontját a 23/2020. (VI. 19.) AM rendelet 5. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2020. június 22.
+[^25]: A 2. § (3) bekezdése a 22/2023. (V. 9.) AM rendelet 13. §-ával megállapított szöveg.
+[^26]: A 3. § a) pont nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 16. § (9) bekezdésével megállapított szöveg.
+[^27]: A 3. § b) pont bd) alpontját a 77/2015. (XII. 1.) FM rendelet 16. § (5) bekezdése iktatta be.
+[^28]: A 3. § c) pont ca) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja szerint módosított szöveg.
+[^29]: A 3. § c) pont cb) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § c) pontja szerint módosított szöveg.
+[^30]: A 4. § (1) bekezdése a 25/2016. (IV. 11.) FM rendelet 66. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 92. § b) és d) pontja, a 18/2021. (IV. 14.) AM rendelet 14. § c) pontja szerint módosított szöveg.
+[^31]: A 4. § (1a) bekezdését a 77/2015. (XII. 1.) FM rendelet 16. § (6) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 28. §-ával megállapított, nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja, záró szövegrésze ez utóbbi módosító rendelet 92. § d) pontja szerint módosított szöveg.
+[^32]: A 4. § (1a) bekezdés b) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^33]: A 4. § (1a) bekezdés c) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^34]: A 4. § (1a) bekezdés d) pontját a 39/2017. (VIII. 7.) FM rendelet 15. § (1) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^35]: A 4. § (2) bekezdése az 51/2016. (VII. 21.) FM rendelet 28. §-ával megállapított szöveg.
+[^36]: A 4. § (2) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^37]: A 4. § (2) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^38]: A hatálybalépés időpontja 2016. július 22.
+[^39]: A 4. § (2) bekezdés c) pontját a 39/2017. (VIII. 7.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 25. §-a szerint módosított szöveg.
+[^40]: A hatálybalépés időpontja 2017. augusztus 8.
+[^41]: A 4. § (2) bekezdés d) pontját a 66/2017. (XII. 22.) FM rendelet 24. § (2) bekezdése iktatta be.
+[^42]: A hatálybalépés időpontja 2017. december 23.
+[^43]: A 4. § (3) bekezdés f) pontját a 66/2017. (XII. 22.) FM rendelet 24. § (3) bekezdése iktatta be.
+[^44]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja szerint módosított szöveg.
+[^45]: Az 5. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 92. § e) pontja szerint módosított szöveg.
+[^46]: Az 5. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 14. §-a iktatta be.
+[^47]: A 6. § (1) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja szerint módosított szöveg.
+[^48]: A 6. § (1) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^49]: A 6. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 92. § b), d) és f) pontja, a 18/2021. (IV. 14.) AM rendelet 14. § d) pontja szerint módosított szöveg.
+[^50]: A 6. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 16. § (8) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 66. § d) pontja szerint módosított szöveg.
+[^51]: A 6. § (5) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § b) pontja szerint módosított szöveg.
+[^52]: A 6. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 92. § e) pontja szerint módosított szöveg.
+[^53]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 92. § c) pontja szerint módosított szöveg.
+[^54]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 12. §-a iktatta be.
+[^55]: A 7/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § a) pontja szerint módosított szöveg.
+[^56]: A hatálybalépés időpontja 2021. április 15.
+[^57]: A 7/A. § (6) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^58]: A 7/A. § (8) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § c) pontja szerint módosított szöveg.
+[^59]: A 7b. alcímet (7/B. §) a 26/2022. (VIII. 31.) AM rendelet 14. §-a iktatta be.
+[^60]: A 7/B. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § c) pontja szerint módosított szöveg.
+[^61]: A hatálybalépés időpontja 2022. szeptember 1.
+[^62]: A 7/B. § (6) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^63]: A 7/B. § (7) bekezdése a 34/2022. (X. 28.) AM rendelet 9. §-a szerint módosított szöveg.
+[^64]: A 7/B. § (8) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^65]: A 13. § c) pontját a 18/2021. (IV. 14.) AM rendelet 13. §-a iktatta be.
+[^66]: A 13. § d) alpontját a 26/2022. (VIII. 31.) AM rendelet 15. §-a iktatta be, szövege a 22/2023. (V. 9.) AM rendelet 15. §-ával megállapított szöveg.
+[^69]: Az 1. melléklet a 88/2016. (XII. 29.) FM rendelet 92. § g) pontja szerint módosított szöveg.
+[^70]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

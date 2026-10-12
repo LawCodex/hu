@@ -1,0 +1,429 @@
+---
+title: "26/2020. (VIII. 4.) EMMI rendelet az egészségügyi szakmai kollégium működéséről"
+identifier: "26/2020. (VIII. 4.) EMMI rendelet"
+njt_id: "2020-26-20-5H"
+eli: "https://njt.jog.gov.hu/eli/R/2020/EMMI/26"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2020-08-04
+in_force_from: 2020-09-01
+last_amended: 2023-12-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-26-20-5H"
+retrieved: 2026-10-12
+---
+
+# 26/2020. (VIII. 4.) EMMI rendelet az egészségügyi szakmai kollégium működéséről
+
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés m) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva,
+
+a 13. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés g) pont ga) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva,
+
+a 14. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés g) pont gj) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
+
+## 1. A szakmai kollégiumra, a tagozatokra vonatkozó általános szabályok
+
+### 1. §
+
+(1) Az egészségügyért felelős miniszter (a továbbiakban: miniszter) javaslattevő, véleményező és tanácsadó szakmai testületeként az egészségügy területén szakmai kollégium (a továbbiakban: szakmai kollégium) működik. A szakmai kollégium elnökségből (a továbbiakban: elnökség) és tagozatokból (a továbbiakban: tagozatok) áll.
+
+(2) A tagozatok elnevezését az 1. melléklet tartalmazza.
+
+(3)[^1] A szakmai kollégium működtetési költségeit a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) költségvetésében biztosítja. A működtetési költségek a szakmai tagozatok tevékenységének ellátásához szükséges személyi és tárgyi feltételeket foglalják magukban.
+
+### 2. §
+
+(1)[^2] A szakmai kollégium tagjait a miniszter nevezi ki. A kinevezés lebonyolításáról az OKFŐ koordinálásával a minisztérium gondoskodik.
+
+(2)[^3] A szakmai kollégium tagjai a tevékenységüket megbízási szerződés alapján, tiszteletdíj ellenében látják el. A szakmai kollégium elnökségével és a tagozatok tagjaival a megbízási szerződést az OKFŐ köti meg.
+
+(2a)[^4] A (2) bekezdés szerinti tiszteletdíjat az OKFŐ fizeti meg a tagoknak.
+
+(3) A szakmai kollégium tagjainak megbízatása négy évre szól, azzal, hogy az új szakmai kollégium megalakulásáig a korábbi tagok ellátják a jogszabályban meghatározott feladat- és hatáskörüket. A kinevezés korlátlan alkalommal meghosszabbítható. Egy személy egyidejűleg csak egy tisztséget tölthet be.
+
+(4) A szakmai kollégium tagjai a miniszter által visszahívhatók.
+
+(5)[^5] A szakmai kollégium elnöksége és a tagozatok elérhetőségét, valamint a tisztségviselők nevét az OKFŐ honlapján közzéteszi.
+
+## 2. A szakmai kollégium elnöksége
+
+### 3. §
+
+(1)[^6] A szakmai kollégium elnökségét a tagozatok elnökei és a testület elnöke alkotják. Az elnökség tevékenységét az e rendeletben meghatározottak szerint, valamint a minisztérium iránymutatásával, szükség szerint az országos gyógyintézetek szakmai közreműködésével, az OKFŐ koordinálásával végzi.
+
+(2) Az elnökséget az elnök vezeti, akit akadályoztatása esetén az általa kijelölt elnökségi tag teljes jogkörrel helyettesít.
+
+(3) Az elnökség elnökét a miniszter a nevezi ki. A testület elnöke olyan személy lehet, aki a szakmai kollégium tevékenységével érintett szakterületen szakmai tapasztalattal rendelkezik, és bármely jogviszony keretében szakmai tevékenységet végez.
+
+(4)[^7] Az elnökség kidolgozza és elfogadja ügyrendjét és éves munkatervét. Az ügyrend elfogadásához, valamint az ügyrendben meghatározott kérdésekben történő döntésekhez a jelen lévő tagok kétharmadának egyetértése szükséges. Az elnökség az ügyrendet az OKFŐ egyetértésével a miniszter részére jóváhagyás céljából megküldi.
+
+(5) Az elnökség döntéseit üléseken hozza meg. Az elnökség döntéseit az ülésen jelen lévő tagok több, mint felének egyetértése esetén hozzák meg. Szavazategyenlőség esetén az elnökség elnökének szavazata dönt. Az ülések személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is megtarthatók, ha az ülésen részt vevők azonosítása és közöttük a kölcsönös és korlátozásmentes kommunikáció biztosítható. Az elektronikus hírközlő eszköz közvetítésével tartott ülésen elhangzottakat és a meghozott döntéseket úgy kell rögzíteni, hogy azok a keletkezésüktől számított legalább 4 évig ellenőrizhetőek legyenek.
+
+(6) Az elnökség az ügyrendnek megfelelően, illetve a munkatervnek megfelelően ülésezik. Az elnökség elnöke szükség szerint az ügyrenden, illetve munkaterven kívüli ülést hívhat össze, illetve a tagok egyharmadának javaslatára köteles azt összehívni. Munkaterven kívüli ülés összehívásával egy időben tájékoztatást kell adni a miniszter részére.
+
+(7) Az elnökség ülését a miniszter soron kívül összehívhatja.
+
+(8) Az elnökségi ülésen minden tag az általa vezetett tagozatban kialakított véleményt képviseli.
+
+(9) Az elnökség minden év március 1-jéig a tagozatok beszámolója alapján összesített szakmai beszámolót készít a miniszter részére.
+
+(10) Az ülésekre tanácskozási joggal meghívhatóak az egészségügyi ágazatban működő állami szervek, köztestületek, az orvos- és egészségtudományi képzést folytató egyetemek, szakmai testületek, civil érdekképviseleti szervezetek, egészségügyi szolgáltatók, illetve az ülés tárgya szerint érintett szervezetek képviselői.
+
+(11) Az elnökség üléseiről – az ülést követő 5 munkanapon belül – jegyzőkönyv vagy emlékeztető készül, amelynek egy példányát meg kell küldeni a miniszternek és szükség esetén a tárgyban érintett szervezeteknek. A jegyzőkönyv vagy emlékeztető egy példányát a keletkezésétől számított legalább 4 évig meg kell őrizni.
+
+### 4. §
+
+(1) Az elnökség
+
+a) állást foglal egészségügyi fejlesztési és stratégiai kérdésekben, egészségpolitikai kérdésekben, ezen körben javaslatokat készít elő és terjeszt a miniszter elé,
+
+b) javaslatokat fogalmaz meg az egészségügyi képzések, szakképzések, szakirányú szakképzések és továbbképzések tekintetében,
+
+c) elősegíti a Nemzeti Egészségügyi Programok és szakpolitikai programok előrehaladását,
+
+d) összehangolja
+
+da) a közszolgáltatást nyújtó intézmények finanszírozására és forrásallokációjára vonatkozó javaslatokat,
+
+db) az ellátórendszer struktúrájának működési hatékonyságát javító intézkedések tervezetét,
+
+dc) humánerőforrás-fejlesztést érintő kérdéseket,
+
+dd) a *da)–dc)* pontok tekintetében meghatározza a tagozatok közötti feladatmegosztást,
+
+e) gondoskodik a vizsgálati és terápiás eljárási rendek kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályairól szóló miniszteri rendeletben meghatározott feladatok koordinálásáról.
+
+(2) Az elnökség koordinálja a tagozatok javaslatait, állásfoglalásait, a szakmai eljárásrendeket, és szükség esetén
+
+a) javaslatot tesz a tagozatoknak a javaslatok, állásfoglalások felülvizsgálatára, azoknak egységes elvek szerint való összehangolására,
+
+b) a tagozatok között egyeztetést kezdeményez, azt megszervezi, és közreműködik az egységes álláspont kialakításában,
+
+c) az egységes elvek érvényesítése érdekében javaslatokat készít elő és terjeszt a miniszter elé.
+
+(3) Az elnökség szakmai véleményének kialakításához az országos gyógyintézetek, az országos társ-gyógyintézetek, az országos tisztifőorvos, az országos tisztifőgyógyszerész, az egészségügyi szakképzést és felsőfokú képzést végző intézmények szakmai véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
+
+## 3. A szakmai kollégium tagozatai
+
+### 5. §
+
+(1) A szakmai kollégium szakterületein 5 fős tagozatok működnek, egy tagozatnak egy elnöke, egy titkára és három tagja van. A tagozat elnökét, a titkárt és tagjait szakmai szempontok alapján a miniszter kéri fel azzal, hogy minden tagozatban minimum egy fővel az orvos- és egészségtudományi képzést folytató egyetemek képviselője vesz részt.
+
+(2) A tagozat elnökét akadályoztatása esetén a titkár teljes jogkörrel helyettesíti.
+
+(3) Ha a tagozat létszáma nem teljes, haladéktalanul gondoskodni kell új tag kinevezéséről.
+
+### 6. §
+
+(1) A tagozat ülése határozatképes, ha azon a tagoknak több, mint a fele jelen van. A tagozat döntéseit az ülésen jelen lévő tagok több, mint felének egyetértésével hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(2) A tagozatok az ügyrendjüknek, illetve a munkatervüknek megfelelően üléseznek. Az elnök szükség szerint ügyrenden, illetve munkaterven kívüli ülést hívhat össze, illetve a tagok felének javaslatára köteles azt összehívni. Munkaterven kívüli ülés összehívásával egy időben értesítést kell adni az elnökség elnökének.
+
+(3) Szükség esetén több tagozat összevont ülésére is sor kerülhet.
+
+(4) Az ülésre tanácskozási joggal meghívhatók a tárgyalásra kerülő téma szerint érintett szakmai és egyéb szervezetek képviselői.
+
+(5) A tagozat üléséről – az ülést követő 5 munkanapon belül – jegyzőkönyv vagy emlékeztető készül, amelynek egy példányát a keletkezéstől számított legalább 4 évig kell megőrizni.
+
+(6) Az ülések személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is megtarthatók, ha az ülésen részt vevők azonosítása és közöttük a kölcsönös és korlátozásmentes kommunikáció biztosítható. Az elektronikus hírközlő eszköz közvetítésével tartott ülésen elhangzottakat és a meghozott döntéseket úgy kell rögzíteni, hogy azok a keletkezésüktől számított legalább 4 évig ellenőrizhetőek legyenek.
+
+(7) A tagozatok minden év február 1-jéig szakmai beszámolót készítenek, amelyet a miniszter részére eljuttatnak.
+
+### 7. §
+
+(1) A tagozat – szükség szerint az országos gyógyintézetek közreműködésével – szakterületi feladatában eljárva
+
+a) szükség szerint szakértők bevonásával szervezi és koordinálja a szakmai irányelvek készítését,
+
+b) javaslatot készít a szakmai irányelvek, protokollok, módszertani levelek témáira, ha jogszabály másképp nem rendelkezik,
+
+c) figyelemmel kíséri a módszertani útmutatók, irányelvek, protokollok bevezetését, alkalmazását és érvényesülését,
+
+d) szakmai irányelv felülvizsgálatot végez.
+
+(2) A tagozatok véleményt nyilvánítanak
+
+a) az egészségügyi finanszírozás rendszeréről,
+
+b) a kapacitás elosztásokról és a progresszív ellátási szintekről,
+
+c) az egészségügyi szakmai irányelvek bevezetéséről, alkalmazásáról és érvényesüléséről,
+
+d) az egészségügyi képzések, szakképzések, szakirányú szakképzések és továbbképzések követelményeinek rendszerével kapcsolatos kérdésekről,
+
+e) az adatgyűjtési rendszerről,
+
+f) a stratégiai fejlesztési kérdésekről,
+
+g) az egészségügyi szolgáltatók szakmai minimumfeltételeiről,
+
+h) az új vizsgálati módszerekről és gyógyító-megelőző eljárásokról,
+
+i) az egészségügyi minőségirányítási rendszer szakmai követelményeiről,
+
+j) az országos tisztifőorvos megkeresésére, országos szakfelügyeleti szakmai kérdésekben,
+
+k) felkérés esetén az osztályvezető főorvosi, főgyógyszerészi, országos szakfelügyelői, továbbá más szakmai vezetői pályázati kiírások szakmai követelményeiről és a pályázó szakmai feltételeknek való megfeleléséről, valamint
+
+l) minden olyan kérdésben, amelyet jogszabály a szakmai kollégium feladatává tesz.
+
+(3) A tagozatok kapcsolatot tartanak az egészségügy területén működő szakmai társaságokkal és egyesületekkel, orvos- és egészségtudományi képzést folytató egyetemekkel. Az általuk benyújtott javaslatot szükség esetén ülés keretében megtárgyalják, arról a javaslatot tevőnek tájékoztatást adnak.
+
+(4) A tagozatok a miniszter felkérésére az egészségügy területén bármely egyéb szakmai kérdésben véleményt nyilvánítanak, és ellátják a felkérésben foglalt feladatokat.
+
+(5) A tagozat szakmai véleményének kialakításához az országos tisztifőorvos vagy az általa megbízott személy, az országos tisztifőgyógyszerész, az országos gyógyintézetek, országos társ-gyógyintézetek, az egészségügyi képzést, illetve szakképzést végző intézmények véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
+
+## 4. Az ügyrendre és munkatervre vonatkozó szabályok
+
+### 8. §
+
+(1) A tagozatok kidolgozzák saját ügyrendjüket. Az ügyrend elfogadásához, valamint az ügyrendben meghatározott kérdésekben történő döntéshez legalább három tag egyetértése szükséges.
+
+(2)[^8] A tagozatok az ügyrendet az OKFŐ egyetértésével a miniszter részére jóváhagyás céljából megküldik.
+
+(3) Az ügyrendnek a következőket kell tartalmaznia:
+
+a) a tisztségviselők feladat- és hatásköre,
+
+b) a helyettesítések rendje,
+
+c) az összeférhetetlenség rendje,
+
+d) az ellenőrzés és a beszámolás rendje,
+
+e) az ülések összehívásának eljárásrendje,
+
+f) a rendkívüli ülések összehívásának és megtartásának a rendje,
+
+g) a tanácskozási joggal meghívottakra vonatkozó szabályok,
+
+h) a munkatervek kialakítására vonatkozó szabályok,
+
+i) az elnökség és a tagozatok közötti, illetve a tagok egymás közötti kapcsolattartásának, valamint a külső kapcsolattartás módjának, szabályainak az eljárásrendje,
+
+j) az adatvédelemre vonatkozó szabályok, valamint az ezek megsértése esetén alkalmazandó eljárásrend.
+
+### 9. §
+
+(1)[^9] Az elnökség és a tagozatok – szükség szerint az országos gyógyintézet közreműködésével – munkatervet dolgoznak ki, amelyet az OKFŐ tájékoztatás céljából a miniszter részére megküld.
+
+(2)[^10] Az ügyrendeket és munkaterveket az OKFŐ a honlapján közzéteszi.
+
+## 5. A tagságot kizáró okok, összeférhetetlenség, a tagság megszűnése, megszüntetése
+
+### 10. §
+
+(1) Nem lehet a tagozat tagja az a személy, aki
+
+a)[^11] az egészségügyben működő szakmai kamara és az Egészségügyi Tudományos Tanács etikai kódexében rögzített etikai vétséget követ el, és azt az arra jogosult szerv jogerősen megállapította, a határozat véglegessé válásától számított 2 évig,
+
+b) büntetett előéletű, vagy foglalkozástól eltiltás hatálya alatt áll.
+
+(2) Összeférhetetlen a tagozati tagsággal
+
+a) az egészségügyi ágazati irányításban, ellenőrzésben vagy finanszírozásban közreműködő szerv vezetője,
+
+b) az elnöki pozíció betöltése esetén a szakfelügyelő főorvosi névjegyzékben szereplés,
+
+c)[^12] az országos, vármegyei kollegiális szakmai vezető,
+
+d) az egészségügyi szakmai köztestület elnöke.
+
+(3) Ha a tagnál összeférhetetlenséget megvalósító körülmény vagy tagságot kizáró ok áll elő, akkor ezt a tényt írásban 15 napon belül köteles bejelenteni, és az összeférhetetlenségi okot megszüntetni, vagy a tagságról lemondani. A bejelentést a tagozat elnöke részére kell megküldeni. Az összeférhetetlenségi bejelentések egy másolati példányát a tagozat titkára őrzi. Ha az összeférhetetlenség a tagozat elnöke vonatkozásában merül fel, a bejelentést a szakmai kollégium elnökségének elnöke részére kell megtenni.
+
+(4) A (3) bekezdés szerinti bejelentés elmulasztása esetén a tagot határidőtűzéssel nyilatkozattételre kell felhívni, hogy az összeférhetetlenséget megvalósító körülmény vagy a tagságot kizáró ok fennáll-e.
+
+(5) A tagozati tagnak írásban nyilatkoznia kell a tagozat elnöke részére, ha gazdasági társaság tulajdonosa, vezető tisztségviselője, valamint azzal munkaviszonyban, munkavégzésre irányuló jogviszonyban áll, és az
+
+a) gyógyszert, gyógyhatású terméket, gyógyászati segédeszközt, illetve orvostechnikai eszközt gyárt vagy forgalmaz, vagy
+
+b) egészségügyi szolgáltató vagy egészségügyi szolgáltatót működtet.
+
+(6) Az (5) bekezdés szerinti jogviszony fennállása esetén a tag nem vehet részt olyan ügyre vonatkozó döntés meghozatalában, valamint az azt megelőző eljárásban, amely az ő vagy az őt munkaviszonyban, munkavégzésre irányuló jogviszonyban foglalkoztató gazdasági társaság üzleti érdekeit érinti. Ezt a tényt a jegyzőkönyvben külön rögzíteni kell.
+
+(7)[^13]
+
+(8) A tag tagsága megszűnik
+
+a) az összeférhetetlenségről vagy a tagságot kizáró okról történő bejelentést követő 15 nap elteltével, vagy a (3) bekezdés szerinti esetben a nyilatkozattételt követően azonnal, amennyiben a tag összeférhetetlensége ekkor fennáll,
+
+b) a megbízatási idő lejártával,
+
+c) a tag lemondásával,
+
+d) a tag halálával.
+
+(9) Ha a tag az adott naptári évben az ülések több, mint felén nem vesz részt, vagy az adatvédelemre vonatkozó szabályokat súlyosan és szándékosan megszegi, a tagság megszüntetését a tagozat elnök kezdeményezi a miniszternél.
+
+## 6. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2020. szeptember 1-jén lép hatályba.
+
+### 12. §
+
+(1) A szakmai kollégium tagjait 2020. október 1-jéig kell kinevezni.
+
+(2) A szakmai kollégium elnöksége és tagozatai az ügyrendjeiket 2021. február 1-jéig elkészítik, és jóváhagyásra felterjesztik a miniszter részére.
+
+## 1. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^17]
+
+**A szakmai tagozatok elnevezése**
+
+1\. Addiktológia tagozat
+
+2\. Aneszteziológia és intenzív terápia tagozat
+
+3\. Angiológia és érsebészet tagozat
+
+4\. Ápolási, szakdolgozói és Szülésznő tagozat
+
+5\. Arc, állcsont és szájsebészet tagozat
+
+6\. Balneoterápia tagozat
+
+7\. Belgyógyászat, endokrinológia, diabétesz és anyagcserebetegségek tagozat
+
+8\. Bőr- és nemibetegségek tagozat
+
+9\. Csecsemő- és gyermekgyógyászat tagozat
+
+10\. Dietetika, humán táplálkozás tagozat
+
+11\. Egynapos sebészet tagozat
+
+12\. Égés- és plasztikai sebészet tagozat
+
+13\. Fog- és szájbetegségek tagozat
+
+14\. Foglalkozás-orvostan tagozat
+
+15\. Fül-orr-gégészet tagozat
+
+16\. Gasztroenterológia és hepatológia tagozat
+
+17\. Geriátria és krónikus ellátás tagozat
+
+18\. Gyermek alapellátás (házi gyermekorvostan, ifjúsági és iskolaorvoslás) tagozat
+
+19\. Gyermek pszichiátria és addiktológia tagozat
+
+20\. Gyermeksebészet tagozat
+
+21\. Gyógyszerellátási gyógyszerészet tagozat
+
+22\. Háziorvostan tagozat
+
+23\. Hospice-palliatív ellátás tagozat
+
+24\. Humán reprodukciós tagozat
+
+25\. Idegsebészet tagozat
+
+26\. Igazságügyi orvostan, orvosszakértés biztosítási orvostan tagozat
+
+27\. Infektológia tagozat
+
+28\. Kardiológia tagozat
+
+29\. Klinikai és járványügyi mikrobiológia tagozat
+
+30\. Klinikai farmakológia tagozat
+
+31\. Klinikai genetika tagozat
+
+32\. Klinikai immunológia és allergológia tagozat
+
+33\. Klinikai szakpszichológia és pszichoterapeuta klinikai szakpszichológus tagozat
+
+34\. Komplementer medicina tagozat
+
+35\. Kórházi klinikai gyógyszerészet tagozat
+
+36\. Megelőző orvostan és népegészségügy, kórház higiénia tagozat
+
+37\. Menedzsment és egészséggazdaságtan és egészségügyi informatika (nem orvosi) és minőségügyi tagozat
+
+38\. Mozgásterápia, fizioterápia tagozat
+
+39\. Nefrológia és dialízis tagozat
+
+40\. Neonatológia tagozat
+
+41\. Neurológia tagozat
+
+42\. Nukleáris medicina tagozat
+
+43\. Onkológia és sugárterápia tagozat
+
+44\. Ortopédia tagozat
+
+45\. Orvosi laboratórium tagozat
+
+46\. Oxyológia-sürgősségi orvostan, toxikológia, honvéd és katasztrófa orvostan tagozat
+
+47\. Patológia tagozat
+
+48\. Pszichiátria tagozat
+
+49\. Radiológia tagozat
+
+50\. Rehabilitáció, fizikális medicina és gyógyászati segédeszköz tagozat
+
+51\. Reumatológia tagozat
+
+52\. Sebészet tagozat
+
+53\. Sportegészségügy tagozat
+
+54\. Szemészet tagozat
+
+55\. Szívsebészet tagozat
+
+56\. Szövet- és sejtbanki, és regeneratív medicina tagozat
+
+57\. Szülészet és nőgyógyászat tagozat
+
+58\. Transzfuziológia és hematológia tagozat
+
+59\. Transzplantáció tagozat
+
+60\. Traumatológia és kézsebészet tagozat
+
+61\. Tüdő- és mellkassebészet tagozat
+
+62\. Tüdőgyógyászat tagozat
+
+63\. Urológia tagozat
+
+64\. Védőnő (területi, iskolai, kórházi, családvédelmi) tagozat
+
+## 2. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^18]
+
+## 3. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^19]
+
+## 4. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^20]
+
+---
+
+[^1]: Az 1. § (3) bekezdése a 65/2023. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 65/2023. (XII. 21.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2a) bekezdését a 12/2022. (IV. 14.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 65/2023. (XII. 21.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (5) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (2) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^9]: A 9. § (1) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^10]: A 9. § (2) bekezdése a 12/2022. (IV. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: A 10. § (1) bekezdés a) pontja a 22/2023. (VI. 30.) BM rendelet 6. §-a szerint módosított szöveg.
+[^12]: A 10. § (2) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 89. §-a szerint módosított szöveg.
+[^13]: A 10. § (7) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 8. §-a hatályon kívül helyezte.
+[^17]: Az 1. melléklet a 65/2023. (XII. 21.) BM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 2. mellékletet a 12/2022. (IV. 14.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^19]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

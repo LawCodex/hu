@@ -1,0 +1,138 @@
+---
+title: "5/1998. (III. 6.) HM rendelet a katonai nemzetbiztonsági szolgálatok szolgálati gépjárművei forgalomba helyezése előtti és időszakos műszaki vizsgálatával, környezetvédelmi felülvizsgálatával, valamint a gépjárművek hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos külön szabályokról"
+identifier: "5/1998. (III. 6.) HM rendelet"
+njt_id: "1998-5-20-15"
+eli: "https://njt.jog.gov.hu/eli/R/1998/HM/5"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1998-03-06
+in_force_from: 2007-02-21
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-5-20-15"
+retrieved: 2026-10-12
+---
+
+# 5/1998. (III. 6.) HM rendelet a katonai nemzetbiztonsági szolgálatok szolgálati gépjárművei forgalomba helyezése előtti és időszakos műszaki vizsgálatával, környezetvédelmi felülvizsgálatával, valamint a gépjárművek hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos külön szabályokról
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 11. §-a (1) bekezdésének *c)* pontjában kapott felhatalmazás alapján, a közúti közlekedésről szóló 1988. évi I. törvény 2. §-ának (4) bekezdésére, továbbá a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. §-ának (3) bekezdésére, a közúti járművek forgalomba helyezésének, forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 1. §-ának (3) bekezdésére, a gépkocsik környezetvédelmi felülvizsgálatáról és ellenőrzéséről szóló 18/1991. (XII. 18.) KHVM rendelet[^1] 1. §-ának (3) bekezdésére, végül a közúti közlekedés rendőrhatósági igazgatásáról szóló 48/1997. (VIII. 26.) BM rendeletre[^2] figyelemmel – a belügyminiszterrel, a közlekedési és vízügyi[^3] miniszterrel, valamint a pénzügyminiszterrel egyetértésben a következőket rendelem el:
+
+## 1. §[^4]
+
+A rendelet alkalmazási köre a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) tulajdonában, vagy üzemeltetésében lévő azon gépjárművekre terjed ki, amelyeknél a gépjármű hatósági engedélyébe tulajdonosként vagy üzemben tartóként a KNBSZ került bejegyzésre.
+
+## 2. §[^5]
+
+A KNBSZ gépjárművei (a továbbiakban: szolgálati gépjárművek) tekintetében a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletet, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM és a honvédségi járművek fenntartásáról szóló 18/2009. (XII. 18.) HM rendelet, valamint a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendeletet az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+## 3. §[^6]
+
+A szolgálati gépjárművek forgalomba helyezése előtti és időszakos műszaki vizsgálatát, környezetvédelmi felülvizsgálatát, valamint a gépjárművek hatósági engedéllyel és jelzéssel történő ellátását a KNBSZ gépjárműfenntartó tevékenység végzésére szakosodott szerve végzi.
+
+## 4. §
+
+(1)[^7] A KNBSZ biztosítják, hogy a szolgálati gépjárművei megfeleljenek a 2. §-ban felsorolt jogszabályokban előírt műszaki, közlekedésbiztonsági és környezetvédelmi követelményeknek.
+
+(2)[^8] A gépjárműfenntartói tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendeletnek a javítóműhelyekben és a telephelyeken történő betartását a KNBSZ gazdálkodási igazgatója évente legalább egy alkalommal, dokumentáltan köteles ellenőrizni.
+
+## 5. §
+
+(1)[^9] A szolgálati gépjárműnek rendelkezni kell a közúti gépjármű-közlekedéssel kapcsolatos ügyekben eljáró közlekedési hatóság által kiadott típusbizonyítvánnyal, általános vagy sorozat forgalomba helyezési engedéllyel, egyedi forgalomba helyezési összeépítési vagy átalakítási engedéllyel.
+
+(2) Az (1) bekezdésben foglaltakkal nem rendelkező, speciális célú szolgálati jármű beszerzéséhez, állományba vételéhez a Magyar Honvédség Rendszeresítési Bizottságának döntése alapján kiállított típusbizonyítvány szükséges.
+
+## 6. §
+
+(1)[^10] A hatósági okmányok kiállítása, illetve a forgalmi engedélyben a műszaki vizsga érvényességének bejegyzése a KNBSZ feladatkörébe tartozik.
+
+(2)[^11] A jármű környezetszennyezési jellemzőit a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott vizsgálat keretében kell ellenőrizni.
+
+(3)[^12] A KNBSZ az általa kiállított, és érvényesített forgalmi engedélyekről ellenőrzésre alkalmas nyilvántartást vezet.
+
+(4)[^13] A KNBSZ a műszaki feltételeknek megfelelő szolgálati gépjárművei hatósági jelzéssel való ellátását, és a hatósági jelzések cseréjét saját hatáskörében végzi.
+
+## 7. §[^14]
+
+A 3. §-ban meghatározott vizsgálatok elvégzésével kapcsolatos hatósági eljárások díjai megfizetése alól a KNbSZ mentesül.
+
+## 8. §[^15]
+
+A szolgálati gépjárművekre megkülönböztető fény- és hangjelző készülék, valamint figyelmeztető jelzést adó készülék felszerelését – a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet előírásainak figyelembevételével – a KNbSZ főigazgatója engedélyezi.
+
+## 9. §[^16]
+
+A KNbSZ főigazgatója által meghatározott egyes szolgálati gépjárművek az e rendelet *melléklete* szerinti igazolványnak a gépjármű vezetője szolgálati igazolványával történt egyidejű felmutatása esetén – a közúti balesetben való részvétel esetét kivéve – a közlekedési hatóság által végzett közúti ellenőrzés alól mentesülnek.
+
+## 10. §[^17]
+
+A rendelet alkalmazási körébe tartozó szervezet gépjárművekkel történő ellátására, azok fenntartási és üzemeltetési rendjére a KNBSZ főigazgatója saját hatáskörében intézkedik.
+
+## 11. §
+
+(1)[^18] A Magyar Honvédségben (a továbbiakban: MH) az e rendelet hatálybalépését megelőzően rendszeresített – és a KNBSZ által végleges használatra átvett – szolgálati gépjárművek közúti közlekedésre alkalmasnak akkor minősíthetők, ha azok a ,,Kezelési és Karbantartási Utasítás''-ban rögzített technikai paramétereknek megfelelnek, és az MH erre jogosult szerve az eredetigazolást kiadta.
+
+(2) E rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## Melléklet az 5/1998. (III. 6.) HM rendelethez
+
+**A közlekedési hatóság által végzett közúti ellenőrzés alól mentesítő igazolvány felépítése, megjelenítése**
+
+1\. Az igazolvány 85 X 54 mm méretű, nyomathordozó műanyag kártya. A színes nyomatot tartalmazó belső fehér rétegeket kívülről víztiszta műanyag réteggel kell összeépíteni. Az igazolvány többszínnyomású ofszet technológiával készül.
+
+2.[^19] Az igazolvány adattartalma:
+
+Előoldal:
+
+– számítógépes rajzolatrendszer,
+
+– címer,
+
+– ,,A MAGYARORSZÁG'' felirat,
+
+– ,,KATONAI NEMZETBIZTONSÁGI SZOLGÁLAT'' felirat,
+
+– ,,IGAZOLVÁNY'' felirat,
+
+– ,,Ezen igazolvány felmutatója, illetve az általa vezetett gépjármű a közlekedési hatóság által végzett közúti ellenőrzés alól mentesül.'' felirat,
+
+– sorszám,
+
+– az igazolvány bal alsó sarkából átlósan felfelé haladva piros betűkkel ,,SECURITY'' felirat.
+
+Hátoldal:
+
+– számítógépes rajzolatrendszer,
+
+– címer,
+
+– ,,IGAZOLVÁNY'' felirat,
+
+– ,,A Katonai Nemzetbiztonsági Szolgálatot irányító honvédelmi miniszter által – a belügyminiszterrel, a közlekedési és vízügyi[^20] miniszterrel, valamint a pénzügyminiszterrel egyetértésében – kiadott 5/1998. (III. 6.) HM rendelet 9. §-a alapján.'' felirat,
+
+– honvédelmi miniszter aláírása, pecsét,
+
+– dátum.
+
+---
+
+[^1]: A rendeletet a 18/2001. (V. 23.) KÖVIM- BM- KÖM együttes rendelet 8. §-ának (1) bekezdése 2001. szeptember 1-jével hatályon kívül helyezte.
+[^2]: A rendeletet a 35/2000. (V. 23.) BM rendelet 101. §-ának (1) bekezdése 2001. január 1-jével hatályon kívül helyezte.
+[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^4]: Az 1. § a 23/2012. (XII. 18.) HM rendelet 8. §-ával megállapított szöveg.
+[^5]: A 2. § az 5/2007. (II. 13.) HM rendelet 3. §-a, a 23/2012. (XII. 18.) HM rendelet 11. § a) és b) pontja szerint módosított szöveg.
+[^6]: A 3. § a 23/2012. (XII. 18.) HM rendelet 11. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 23/2012. (XII. 18.) HM rendelet 11. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 23/2012. (XII. 18.) HM rendelet 11. § c) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdése a 27/2016. (XII. 23.) HM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 6. § (1) bekezdése a 23/2012. (XII. 18.) HM rendelet 11. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdése a 23/2012. (XII. 18.) HM rendelet 9. §-ával megállapított szöveg.
+[^12]: A 6. § (3) bekezdése a 23/2012. (XII. 18.) HM rendelet 9. §-ával megállapított szöveg.
+[^13]: A 6. § (4) bekezdése a 23/2012. (XII. 18.) HM rendelet 9. §-ával megállapított szöveg.
+[^14]: A 7. § a 23/2012. (XII. 18.) HM rendelet 11. § d) pontja szerint módosított szöveg.
+[^15]: A 8. § az 5/2007. (II. 13.) HM rendelet 3. §-a, a 23/2012. (XII. 18.) HM rendelet 11. § e) és f) pontja szerint módosított szöveg.
+[^16]: A 9. § a 23/2012. (XII. 18.) HM rendelet 11. § g) pontja szerint módosított szöveg.
+[^17]: A 10. § a 23/2012. (XII. 18.) HM rendelet 10. §-ával megállapított szöveg.
+[^18]: A 11. § (1) bekezdése a 23/2012. (XII. 18.) HM rendelet 11. § a) pontja szerint módosított szöveg.
+[^19]: A melléklet 2. pontja a 23/2012. (XII. 18.) HM rendelet 11. § h), i), j) pontja szerint módosított szöveg. [A 23/2012. (XII. 18.) HM rendelet 11. § k) pontjával elrendelt módosítás, amely szerint a „közlekedési, hírközlési és vízügyi miniszterrel, valamint a pénzügyminiszterrel” szövegrész helyébe a „nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel” szöveg lép, nem vezethető át.]
+[^20]: Az időközi szervezeti változásoknak megfelelő szöveg.

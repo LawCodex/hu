@@ -1,0 +1,437 @@
+---
+title: "81/2004. (IX. 18.) ESZCSM rendelet az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről"
+identifier: "81/2004. (IX. 18.) ESZCSM rendelet"
+njt_id: "2004-81-20-0M"
+eli: "https://njt.jog.gov.hu/eli/R/2004/ESZCSM/81"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2004-09-18
+in_force_from: 2009-04-19
+last_amended: 2023-08-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-81-20-0M"
+retrieved: 2026-10-12
+---
+
+# 81/2004. (IX. 18.) ESZCSM rendelet az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről
+
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. §-a (2) bekezdésének k) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
+
+## I. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
+
+### A rendelet alkalmazási köre
+
+#### 1. §
+
+E rendelet alkalmazási köre
+
+a) a családsegítés vonatkozásában az adósságkezelési tanácsadó,
+
+b)[^1] a támogató szolgálat,
+
+c) a falu- és tanyagondnoki szolgálat vonatkozásában a falu- és tanyagondnoki,
+
+d)[^2] a közösségi pszichiátriai ellátás,
+
+e)[^3] a komplex támogatási szükségletmérő,
+
+f)[^4] az óvodai és iskolai szociális segítő,
+
+g)[^5] a szociális diagnózist készítő esetmenedzser,
+
+h)[^6] szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása
+
+i)[^7] a fogyatékosságügyi tanácsadó
+
+j)[^8] az utcai szociális munka
+
+képzésre terjed ki (a továbbiakban együtt: képzés).
+
+### A képzésre vonatkozó általános szabályok
+
+#### 2. §
+
+(1)[^9] A képzés térítésköteles. A képzést a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: Intézet) szervezi.
+
+(2)[^10] A képzés a szociális ágazat irányítását végző miniszter (a továbbiakban: miniszter) által jóváhagyott oktatási program (a továbbiakban: oktatási program) alapján történik.
+
+(3)[^11] Az Intézet – a 2/A. §-ban foglalt kivétellel – a képzést maga végzi, vagy ezzel – képzési megállapodás keretében – olyan más intézményt is megbízhat, amely
+
+a)[^12] az oktatási programban szerepel vagy az abban foglalt feltételeket teljesíteni tudja,
+
+b) a képzés helyét és tárgyi feltételeit biztosítani képes,
+
+c) a képzési programot az oktatási programnak megfelelően készítette el,
+
+d) a képzésben résztvevő oktatók képesítése és a felhasználni kívánt szakmai segédanyag minősége alapján a képzés megfelelő színvonalát biztosítani képes,
+
+e)[^13] a képzésben résztvevő oktatóknak az Intézet által évente szervezett szakmai konzultáción való részvételét biztosítja.
+
+(4)[^14] A (3) bekezdésben és a 2/A. § (2) bekezdésében foglalt képzési megállapodás érvényességéhez – ha az Intézet által megbízott intézmény az oktatási programban nem szerepel – a szociális ágazat irányítását végző minisztérium (a továbbiakban: minisztérium) jóváhagyása szükséges.
+
+#### 2/A. §[^15]
+
+(1)[^16] Az 1. § c) pontja szerinti képzés oktatási programjának kidolgozása során a miniszter kikéri a Vármegyei Önkormányzatok Országos Szövetségének véleményét.
+
+(2)[^17] A vármegyei önkormányzat az 1. § c) pontjában meghatározott képzést maga végzi, vagy ezzel – képzési megállapodás keretében – olyan más intézményt is megbízhat, amely a 2. § (3) bekezdés a)–e) pontjában meghatározott feltételeknek megfelel. A döntés meghozatala előtt a vármegyei önkormányzat kikéri a Vármegyei Önkormányzatok Országos Szövetségének véleményét.
+
+(3)[^18] A vármegyei önkormányzat gondoskodik a képzés legalább évente egy alkalommal történő megtartásáról. Ha a képzés megtartásához nincs kellő számú jelentkező, a vármegyei önkormányzat más vármegyei önkormányzattal közösen is megszervezheti a képzést.
+
+(4)[^19] A vármegyei önkormányzat a képzés megvalósításának módjáról és tervezett időpontjáról legkésőbb a képzés napját megelőző 30 nappal korábban, elektronikus úton tájékoztatja az Intézetet.
+
+#### 3. §[^20]
+
+Az Intézet a képzésekkel kapcsolatosan minden év februárjában közleményt jelentet meg a honlapján és a Szociális Ágazati Portálon, amely tartalmazza a jelentkezéssel és a képzéssel kapcsolatos tudnivalókat, így különösen a képzés helyét, időpontját, a jelentkezési díjat, a képzési térítési díjat és a pótvizsgadíjat.
+
+#### 4. §
+
+(1)[^21] A jelentkező a képzésen való részvételi szándékát a Szociális Ágazati Portálon közzétett jelentkezési lapnak az Intézethez elektronikusan történő benyújtásával jelzi. A 2/A. § szerinti képzésre jelentkezők adatait az Intézet a képzés megszervezése érdekében a jelentkezési lap benyújtását követő 15 napon belül továbbítja a jelentkező lakóhelye szerint illetékes vármegyei önkormányzatnak.
+
+(3)[^22] Az Intézet a jelentkezés elfogadása esetén a jelentkező részére – a jelentkezési lap beérkezését követő 30 napon belül – a Szociális Ágazati Portálon közzétett igazolást állítja ki, és tájékoztatást ad a képzéssel kapcsolatos tudnivalókról, így különösen a vizsgakövetelményekről.
+
+(4)[^23] A (2) bekezdésben foglalt összeg csak abban az esetben igényelhető vissza, ha a jelentkező beiskolázását az Intézet a (3) bekezdésben foglalt igazolás kiállítását követő 1 éven belül nem biztosítja.
+
+(5)[^24]
+
+#### 5. §[^25]
+
+(1)[^26] A képzőhely és a képzésen részt vevő személy képzési szerződést köt. A képzési szerződésnek tartalmaznia kell
+
+a) a képzőhely megnevezését, címét, képviselőjének nevét,
+
+b) az oktatási program címét,
+
+c) az oktatási program engedélyszámát,
+
+d) a képzésen részt vevő személy képzés során nyújtott teljesítménye ellenőrzésének, értékelésének módját,
+
+e) a képzésen részt vevő személy számára megengedett hiányzás mértékét, és ennek túllépése esetén az őt érintő következményeket,
+
+f)[^27] a képzési térítési díj és a pótvizsgadíj mértékét és fizetésének módját,
+
+g) a képzésben részt vevő személy, illetve a képzőhely szerződésszegésének következményeit,
+
+h) a panaszkezelés módját.
+
+(2) A képzési szerződést a képzőhely köteles 5 évig megőrizni.
+
+#### 6. §
+
+(1) A minisztérium ellenőrzi, hogy a képzések megfelelnek-e az oktatási programban, illetve az e rendeletben foglaltaknak.
+
+(2)[^28] Az Intézet a minisztérium részére minden év január 31-éig beszámolót készít az előző évben lebonyolított képzésekről.
+
+#### 7. §
+
+(1)[^29] A képzésen az vehet részt, aki az 1. §-ban meghatározott szakterületen a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendeletben, illetve a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendeletben foglalt képesítési előírásokat egyebekben teljesíti.
+
+(2)[^30] A képzésen részt vevő személy – a (3) bekezdésben meghatározott kivétellel – legalább 15 és legfeljebb 30 fős csoportban elméleti és gyakorlati oktatáson vesz részt.
+
+(3)[^31] Az 1. § c) és i) pontja szerinti képzés esetében a (2) bekezdésben meghatározott alsó létszámkorlátra vonatkozó előírást nem kell alkalmazni.
+
+#### 8. §
+
+(1) A képzésen résztvevő személy
+
+a) ha az oktatási program ezt előírja, az egyes tantárgyakból szóbeli és/vagy írásbeli vizsgát,
+
+b) a képzés végén szóban vagy írásban záróvizsgát
+
+tesz.
+
+(2) A záróvizsga időpontját a képzés utolsó napját követő 15. és 60. nap között kell meghatározni.
+
+(3) A képzőhely a záróvizsga időpontjáról legalább 30 nappal korábban tájékoztatja a képzésen résztvevő személyt.
+
+#### 9. §
+
+(1) A képzésen résztvevő személy – ha az oktatási program ezt előírja – szakmai dolgozatot készít, és azt a záróvizsgán megvédi.
+
+(2) A szakmai dolgozatot legalább 15 nappal a záróvizsgát megelőzően be kell nyújtani a képzőhely felé.
+
+(3) Záróvizsgára az bocsátható, aki
+
+a)[^32] az elméleti és gyakorlati oktatás képzési programban megállapított kötelező óraszámának
+
+aa) az adósságkezelési tanácsadó képzés vonatkozásában összesen legalább a 90%-át,
+
+ab) az aa) alpont alá nem tartozó képzés esetén összesen legalább a 80%-át,
+
+b) tantárgyi vizsgakötelezettségét,
+
+c) szakmai dolgozat-írási kötelezettségét
+
+teljesítette.
+
+#### 10. §
+
+(1) A képzésen résztvevő személy 3 tagú vizsgabizottság előtt záróvizsgát tesz.
+
+(2)[^33] A vizsgabizottság elnökét a miniszter kéri fel.
+
+(2a)[^34] Az 1. § c) pontjában meghatározott képzés záróvizsgájára a vizsgabizottság egy tagját a vármegyei önkormányzat delegálja.
+
+(3) A záróvizsgát a vizsgabizottság
+
+a) kiválóan megfelelt,
+
+b) jól megfelelt,
+
+c) megfelelt,
+
+d) nem felelt meg
+
+minősítéssel értékeli.
+
+(3a)[^35] Nem felelt meg minősítés vagy igazoltan elmulasztott záróvizsga esetén a vizsgázó a sikertelen vagy elmulasztott vizsga időpontját követő következő képzési csoport záróvizsgáján pótvizsgát tehet.
+
+(4)[^36] Az Intézet a sikeres záróvizsgát követően – a képzőhely által kiállított igazolás alapján – a képzésen résztvevő személy részére a Szociális Ágazati Portálon közzétett tanúsítványt állítja ki.
+
+## II. RÉSZ — AZ EGYES KÉPZÉSEKRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
+
+### Az adósságkezelési tanácsadó képzés
+
+#### 11. §
+
+(1)[^37] Az adósságkezelési tanácsadó képzés célja a képzésen részt vevő személy felkészítése háztartásgazdálkodási tanácsadás ellátására, valamint az egyének, a családok és a közösségek számára a pénzügyi kultúra javítása céljából biztosított szolgáltatások nyújtására.
+
+(2)[^38] A képzés kötelező óraszáma 120 óra, ebből
+
+a) 72 óra elméleti oktatás,
+
+b) 48 óra gyakorlati oktatás.
+
+(3)[^39]
+
+### A támogató szolgálat képzés[^40]
+
+#### 12. §[^41]
+
+(1) A támogató szolgálat képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/A. §-ában foglalt feladatok ellátására.
+
+(2) A képzés kötelező óraszáma segítő munkakör esetén 80 óra, ebből
+
+a) 16 óra elméleti oktatás,
+
+b) 64 óra gyakorlati oktatás.
+
+(3) A képzés kötelező óraszáma gondozó, illetve terápiás munkatárs esetén 160 óra, ebből
+
+a) 60 óra elméleti oktatás,
+
+b) 100 óra gyakorlati oktatás.
+
+### A falu- és tanyagondnoki képzés
+
+#### 15. §
+
+(1) A falu- és tanyagondnoki képzés célja a képzésen résztvevő személy felkészítése a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39. §-ának (1)–(4) bekezdéseiben foglalt feladatok ellátására.
+
+(2)[^44] A képzés kötelező óraszáma 170 óra, ebből
+
+a)[^45] 52 óra elméleti oktatás,
+
+b)[^46] 118 óra gyakorlati oktatás.
+
+### A közösségi pszichiátriai ellátás képzés[^47]
+
+#### 16. §[^48]
+
+(1) A közösségi pszichiátriai ellátás képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/F. § (2) bekezdésében, 39/G. § (3) bekezdésében és 39/H. §-ában foglalt feladatok ellátására.
+
+(2) Az (1) bekezdésben foglalt képzés kötelező óraszáma 185 óra, ebből
+
+a) 140 óra elméleti oktatás,
+
+b) 45 óra gyakorlati oktatás.
+
+### A komplex támogatási szükségletmérő képzés[^49]
+
+#### 17. §[^50]
+
+(1) A komplex támogatási szükségletmérő képzés célja a képzésen részt vevő személy felkészítése a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 110/C. §-ában foglalt komplex szükségletfelméréshez kapcsolódó szakmai feladatok elvégzésére.
+
+(2) A képzés kötelező óraszáma fogyatékos szakterületen 62 óra, ebből
+
+a) 44 óra elméleti oktatás,
+
+b) 18 óra gyakorlati oktatás.
+
+(3) A képzés kötelező óraszáma pszichiátriai beteg és szenvedélybeteg szakterületen 52 óra, ebből
+
+a) 34 óra elméleti oktatás,
+
+b) 18 óra gyakorlati oktatás.
+
+### Az óvodai és iskolai szociális segítő képzés[^51]
+
+#### 17/A. §[^52]
+
+(1) Az óvodai és iskolai szociális segítő képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 25. és 26. §-ában foglalt óvodai és iskolai szociális segítéshez kapcsolódó szakmai feladatok elvégzésére.
+
+(2) A képzés kötelező óraszáma 90 óra, ebből
+
+a) 27 óra elméleti oktatás,
+
+b) 63 óra gyakorlati oktatás.
+
+(3) Felsőfokú szociális szakképzettséggel nem rendelkező személyeknek a (2) bekezdés szerinti óraszámon túl 30 óra kiegészítő képzésben kell részt venniük, amelyből 15 óra elméleti oktatás, 15 óra gyakorlati oktatás.
+
+(4)[^53] Az óvodai és iskolai szociális segítő képzésben a 10. § (1) és (2) bekezdése nem alkalmazható. A képzésen részt vevő személyek a képzés végén írásban tesznek záróvizsgát az oktatási programban meghatározottak szerint.
+
+### A szociális diagnózist készítő esetmenedzser képzés[^54]
+
+#### 17/B. §[^55]
+
+(1) A szociális diagnózist készítő esetmenedzser képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 30. §-ában foglalt feladatok ellátására.
+
+(2) Az (1) bekezdésben foglalt képzés kötelező óraszáma 90 óra, ebből
+
+a) 27 óra elméleti oktatás,
+
+b) 63 óra gyakorlati oktatás.
+
+### A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés[^56]
+
+#### 17/C. §
+
+(1) A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés célja a képzésen részt vevő személy felkészítése a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/J–39/L. §-ában foglalt feladatok ellátására.
+
+(2) A szenvedélybetegek közösségi ellátása képzés kötelező óraszáma 188 óra, ebből
+
+a) 104 óra elméleti oktatás,
+
+b) 84 óra gyakorlati oktatás.
+
+(3) A szenvedélybetegek alacsonyküszöbű ellátása képzés kötelező óraszáma 173 óra, ebből
+
+a) 89 óra elméleti oktatás,
+
+b) 84 óra gyakorlati oktatás.
+
+### A fogyatékosságügyi tanácsadó képzés[^57]
+
+#### 17/D. §
+
+(1) A fogyatékosságügyi tanácsadó képzés célja felkészíteni a képzésen részt vevő személyt a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 27/A. §-ában foglalt feladatok ellátására.
+
+(2) A fogyatékosságügyi tanácsadói képzés kötelező óraszáma 180 óra, ebből
+
+a) 62 óra elméleti oktatás,
+
+b) 118 óra gyakorlati oktatás.
+
+### Az utcai szociális munka képzés[^58]
+
+#### 17/E. §
+
+(1) Az utcai szociális munka képzés célja a képzésen részt vevő személy felkészítése a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SzCsM rendelet 104. §-ában foglalt feladatok ellátására.
+
+(2) A képzés kötelező óraszáma 80 óra, ebből
+
+a) 40 óra elméleti oktatás,
+
+b) 40 óra gyakorlati oktatás.
+
+### Záró rendelkezések[^59]
+
+#### 18. §
+
+(1) E rendelet 2005. január 1-jén lép hatályba.
+
+(2)[^60] A 2021. január 1-jét megelőzően azonos szakmai tartalommal – a minisztérium, a Nemzeti Család- és Szociálpolitikai Intézet, a Nemzeti Rehabilitációs és Szociális Hivatal vagy a Szociális és Gyermekvédelmi Főigazgatóság szervezésében vagy engedélyével – folytatott, illetve szervezett képzés az Intézet által e rendelet alapján folytatott vagy szervezett képzéssel egyenértékű.
+
+(3)[^61]
+
+#### 19. §[^62]
+
+Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 4/2019. (II. 27.) EMMI rendelettel (a továbbiakban: Módr.) megállapított 1. § b) és d) pontját, valamint 12. és 16. §-át a Módr. hatálybalépését[^63] követően indult képzésekre kell alkalmazni. A Módr. hatálybalépésekor folyamatban lévő támogató szolgálattal és közösségi pszichiátriai ellátással kapcsolatos képzéseket eredményesen elvégző személyek számára a tanúsítványt a „támogató szolgálat képzés” és a „közösségi pszichiátriai ellátás képzés” elvégzéséről kell kiállítani.
+
+#### 20. §[^64]
+
+E rendeletnek az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló 81/2004. (IX. 18.) ESZCSM rendelet módosításáról szóló 45/2020. (XII. 14.) EMMI rendelettel (a továbbiakban: Módr2.) megállapított 2. § (2)–(4) bekezdését, 2/A. §-át, 4. § (1) és (5) bekezdését, valamint 10. § (2) és (2a) bekezdését a Módr2. hatálybalépését[^65] megelőzően benyújtott jelentkezésekre, valamint az EFOP-3.8.2-16-2016-00001 és VEKOP-7.5.1-16-2016-00001 azonosító számú, Szociális humán erőforrás fejlesztése című kiemelt projekt keretében megszervezett falu- és tanyagondnoki képzésekre nem kell alkalmazni.
+
+#### 21. §[^66]
+
+E rendeletnek az egyes szociális és gyermekvédelmi tárgyú, valamint kapcsolódó miniszteri rendeletek módosításáról szóló 80/2022. (XII. 30.) BM rendelettel (a továbbiakban: Módr2022.) módosított 9. § (3) bekezdés a) pontját a Módr2022. hatálybalépésének[^67] napján folyamatban lévő képzésekre is alkalmazni kell.
+
+## 1. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^68]
+
+## 1/A. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^69]
+
+## 2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^70]
+
+## 3. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^71]
+
+---
+
+[^1]: Az 1. § b) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § d) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 41. §-a iktatta be.
+[^4]: Az 1. § f) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.
+[^5]: Az 1. § g) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.
+[^6]: Az 1. § h) pontját a 4/2020. (II. 6.) EMMI rendelet 18. §-a iktatta be.
+[^7]: Az 1. § i) pontját a 62/2021. (XII. 29.) EMMI rendelet 16. §-a iktatta be.
+[^8]: Az 1. § j) pontját a 80/2022. (XII. 30.) BM rendelet 26. §-a iktatta be.
+[^9]: A 2. § (1) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § a) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^10]: A 2. § (2) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^11]: A 2. § (3) bekezdés nyitó szövegrésze a 45/2020. (XII. 14.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^12]: A 2. § (3) bekezdés a) pontját a 48/2015. (X. 28.) EMMI rendelet 13. §-a hatályon kívül helyezte, újonnan a 4/2019. (II. 27.) EMMI rendelet 23. §-a iktatta be, szövege a 45/2020. (XII. 14.) EMMI rendelet 6. § d) pontja szerint módosított szöveg.
+[^13]: A 2. § (3) bekezdés e) pontja a 45/2020. (XII. 14.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
+[^14]: A 2. § (4) bekezdése a 80/2022. (XII. 30.) BM rendelet 27. §-ával megállapított szöveg.
+[^15]: A 2/A. §-t a 45/2020. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^16]: A 2/A. § (1) bekezdése a 45/2022. (XII. 20.) BM rendelet 37. § a) pontja szerint módosított szöveg.
+[^17]: A 2/A. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 37. § a) és b) pontja szerint módosított szöveg.
+[^18]: A 2/A. § (3) bekezdése a 45/2022. (XII. 20.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^19]: A 2/A. § (4) bekezdése a 45/2022. (XII. 20.) BM rendelet 37. § c) pontja szerint módosított szöveg.
+[^20]: A 3. § a 43/2016. (XII. 27.) EMMI rendelet 17. §-ával megállapított, a 45/2020. (XII. 14.) EMMI rendelet 6. § g) pontja, a 27/2023. (VIII. 3.) BM rendelet 10. § a) pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 2. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 37. § c) pontja szerint módosított szöveg.
+[^22]: A 4. § (3) bekezdése a 4/2019. (II. 27.) EMMI rendelet 31. § b) pontja, a 45/2020. (XII. 14.) EMMI rendelet 6. § h) pontja szerint módosított szöveg.
+[^23]: A 4. § (4) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § i) pontja szerint módosított szöveg.
+[^24]: A 4. § (5) bekezdését a 45/2020. (XII. 14.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^25]: Az 5. § a 48/2015. (X. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^26]: Az 5. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^27]: Az 5. § (1) bekezdés f) pontja a 27/2023. (VIII. 3.) BM rendelet 10. § b) pontja szerint módosított szöveg.
+[^28]: A 6. § (2) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § j) pontja szerint módosított szöveg.
+[^29]: A 7. § (1) bekezdése a 4/2019. (II. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^30]: A 7. § (2) bekezdése a 62/2021. (XII. 29.) EMMI rendelet 17. § (1) bekezdésével megállapított, a 80/2022. (XII. 30.) BM rendelet 32. §-a szerint módosított szöveg.
+[^31]: A 7. § (3) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 17. § (2) bekezdése iktatta be.
+[^32]: A 9. § (3) bekezdés a) pontja a 80/2022. (XII. 30.) BM rendelet 28. §-ával megállapított szöveg.
+[^33]: A 10. § (2) bekezdése a 4/2020. (II. 6.) EMMI rendelet 19. §-ával megállapított, a 45/2020. (XII. 14.) EMMI rendelet 6. § k) pontja szerint módosított szöveg.
+[^34]: A 10. § (2a) bekezdését a 45/2020. (XII. 14.) EMMI rendelet 3. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 37. § c) pontja szerint módosított szöveg.
+[^35]: A 10. § (3a) bekezdését a 27/2023. (VIII. 3.) BM rendelet 9. §-a iktatta be.
+[^36]: A 10. § (4) bekezdése a 4/2019. (II. 27.) EMMI rendelet 31. § c) pontja, a 45/2020. (XII. 14.) EMMI rendelet 6. § l) pontja szerint módosított szöveg.
+[^37]: A 11. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 43. §-ával megállapított szöveg.
+[^38]: A 11. § (2) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (7) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indult képzésekre kell alkalmazni.
+[^39]: A 11. § (3) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 48. §-a.
+[^40]: Az „A támogató szolgálat képzés” alcím címe a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^41]: A 12. § a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^44]: A 15. § (2) bekezdés nyitó szövegrésze a 4/2020. (II. 6.) EMMI rendelet 21. § a) pontja szerint módosított szöveg.
+[^45]: A 15. § (2) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 21. § b) pontja szerint módosított szöveg.
+[^46]: A 15. § (2) bekezdés b) pontja a 4/2020. (II. 6.) EMMI rendelet 21. § c) pontja szerint módosított szöveg.
+[^47]: Az „A közösségi pszichiátriai ellátás képzés” alcím címe a 4/2019. (II. 27.) EMMI rendelet 26. §-ával megállapított szöveg.
+[^48]: A 16. § a 4/2019. (II. 27.) EMMI rendelet 26. §-ával megállapított szöveg.
+[^49]: A 17. §-t megelőző alcímet az 55/2013. (VII. 29.) EMMI rendelet 16. § b) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 44. §-a iktatta be.
+[^50]: A 17. §-t az 55/2013. (VII. 29.) EMMI rendelet 16. § b) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 44. §-a iktatta be.
+[^51]: Az „Az óvodai és iskolai szociális segítő képzés” alcím címét a 4/2019. (II. 27.) EMMI rendelet 27. §-a iktatta be.
+[^52]: A 17/A. §-t a 7/2018. (II. 5.) EMMI rendelet 44. §-a iktatta be, szövege a 4/2019. (II. 27.) EMMI rendelet 28. §-ával megállapított szöveg.
+[^53]: A 17/A. § (4) bekezdését a 80/2022. (XII. 30.) BM rendelet 29. §-a iktatta be.
+[^54]: Az „A szociális diagnózist készítő esetmenedzser képzés” alcím címét a 4/2019. (II. 27.) EMMI rendelet 29. §-a iktatta be.
+[^55]: A 17/B. §-t a 4/2019. (II. 27.) EMMI rendelet 29. §-a iktatta be.
+[^56]: Az „A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés” alcímet (17/C. §) a 4/2020. (II. 6.) EMMI rendelet 20. §-a iktatta be.
+[^57]: Az „A fogyatékosságügyi tanácsadó képzés” alcímet (17/D. §) a 62/2021. (XII. 29.) EMMI rendelet 18. §-a iktatta be.
+[^58]: Az „Az utcai szociális munka képzés” alcímet (17/E. §-t ) a 80/2022. (XII. 30.) BM rendelet 30. §-a iktatta be.
+[^59]: A 18. §-t megelőző alcím címet a 7/2018. (II. 5.) EMMI rendelet 45. §-a iktatta be.
+[^60]: A 18. § (2) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^61]: A 18. § (3) bekezdését a 43/2016. (XII. 27.) EMMI rendelet 20. §-a hatályon kívül helyezte.
+[^62]: A 19. §-t a 4/2019. (II. 27.) EMMI rendelet 30. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2019. február 28.
+[^64]: A 20. §-t a 45/2020. (XII. 14.) EMMI rendelet 5. §-a iktatta be.
+[^65]: A hatálybalépés időpontja 2021. január 1.
+[^66]: A 21. §-t a 80/2022. (XII. 30.) BM rendelet 31. §-a iktatta be.
+[^67]: A hatálybalépés időpontja 2023. január 1.
+[^68]: Az 1. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^69]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 46. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja.
+[^70]: A 2. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^71]: A 3. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.

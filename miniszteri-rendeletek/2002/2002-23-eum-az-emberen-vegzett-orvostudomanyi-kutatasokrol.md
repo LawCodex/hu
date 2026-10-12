@@ -1,0 +1,782 @@
+---
+title: "23/2002. (V. 9.) EüM rendelet az emberen végzett orvostudományi kutatásokról"
+identifier: "23/2002. (V. 9.) EüM rendelet"
+njt_id: "2002-23-20-0B"
+eli: "https://njt.jog.gov.hu/eli/R/2002/EUM/23"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2002-05-09
+in_force_from: 2009-12-04
+last_amended: 2026-04-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-23-20-0B"
+retrieved: 2026-10-12
+---
+
+# 23/2002. (V. 9.) EüM rendelet az emberen végzett orvostudományi kutatásokról
+
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (2) bekezdésének o) és p) pontjában kapott felhatalmazás alapján – összhangban a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló Oviedói Egyezmény, valamint az Egyezménynek az emberi lény klónozásának tilalmáról szóló Kiegészítő Jegyzőkönyve rendelkezéseivel, továbbá figyelemmel az Orvosok Világszövetsége által elfogadott Helsinki Nyilatkozatra – a következőket rendelem el:
+
+### 1. §[^1]
+
+(1) E rendelet előírásait kell alkalmazni minden az Eütv. 157. §-a szerinti emberen végzett orvostudományi kutatásra (a továbbiakban: kutatás). Vizsgálati gyógyszer, orvostechnikai eszköz klinikai vizsgálata, valamint in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata – ide nem értve a (2) bekezdésben meghatározott vizsgálatokat – esetén az emberi felhasználásra kerülő vizsgálati gyógyszerek klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló miniszteri rendelet, valamint az orvostechnikai eszközök klinikai vizsgálatáról és az in vitro diagnosztikai eszközök teljesítőképesség-vizsgálatáról szóló miniszteri rendelet rendelkezései az irányadóak. Orvostudományi kutatásnak minősül különösen
+
+a) a diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítésére, új eljárások kidolgozására, valamint a betegségek kóroktanának és kórlefolyásának jobb megértésére irányuló,
+
+b) a genetikai,
+
+c) az élő emberből vagy halottból eltávolított sejtekkel, sejtalkotórésszel, szövettel, szervvel, testrésszel végzett,
+
+d) az epidemiológiai,
+
+e) a közegészségügyi-járványügyi érdekből végzett,
+
+f) az ivarsejten, embrión végzett
+
+kutatás.
+
+(2) E rendelet beavatkozással nem járó vizsgálatokra vonatkozó rendelkezéseit az e rendeletben foglaltak szerint alkalmazni kell az Eütv. 164/A. § (10) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokra.
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+a)[^2] *beleegyező nyilatkozat:* a vizsgálatban részt vevő cselekvőképes személynek az Eütv. 159. § (1) bekezdés e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén az Eütv. 159. § (4) bekezdés d) pontja szerinti nyilatkozat, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 2. cikk 55. pontja szerinti, valamint in vitro diagnosztikai orvostechnikai eszközzel végzett, az e rendelet hatálya alá tartozó teljesítőképesség-vizsgálat esetén az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 2. cikk 58. pontja szerinti tájékoztatáson alapuló beleegyező nyilatkozat;
+
+b)[^3] *kutatási terv:* a kutatás céljait, tervezett menetét, módszereit, statisztikai szempontjait és szervezési kérdéseit tartalmazó, az e rendeletben foglaltak szerint előzetesen elkészített dokumentáció; ideértve annak további változatait és módosításait, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR 2. cikk 47. pontja szerinti klinikai vizsgálati terv, in vitro diagnosztikai orvostechnikai eszközzel végzett, az e rendelet hatálya alá tartozó teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 43. pontja szerinti teljesítőképesség-vizsgálati terv;
+
+c)[^4]
+
+d)[^5] *nemkívánatos esemény:* a kutatásban részt vevő egészségi állapotában bekövetkezett kedvezőtlen változás, amely nem szükségszerűen következik az alkalmazott kezelésből, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR 2. cikk 57. pontja szerinti esemény, in vitro diagnosztikai orvostechnikai eszközzel végzett, az e rendelet hatálya alá tartozó teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 60. pontja szerinti esemény;
+
+e)[^6] *súlyos, nemkívánatos esemény:* olyan nem kívánatos esemény, amely az életet veszélyezteti, kórházi kezelést tesz szükségessé, vagy azt meghosszabbítja, maradandó egészségkárosodást, fogyatékosságot, veleszületett rendellenességet, születési hibát vagy halált okoz, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR 2. cikk 58. pontja szerinti esemény, in vitro diagnosztikai orvostechnikai eszközzel végzett, az e rendelet hatálya alá tartozó teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 61. pontja szerinti esemény;
+
+f)[^7]
+
+g) *kutatási koordinátor*: több központban végzett kutatás esetén a kutatás összehangolásával megbízott kutató;
+
+h)[^8] nem kereskedelmi kutatás: ipari, kereskedelmi, szolgáltató vállalkozásoktól független kutatók által folytatott kutatás, amely még közvetetten sem szolgálja a megbízó anyagi haszonszerzését és
+
+ha) amelynek megbízója független kutató vagy nonprofit szervezet, így különösen oktatási intézmény, finanszírozott egészségügyi szolgáltató, közfinanszírozott kutatóintézet, társadalmi szervezet,
+
+hb) a kutatást a *ha)* pont szerinti megbízó tervezi és folytatja,
+
+hc) a kutatásból származó adatok a *ha)* pont szerinti megbízó tulajdonába kerülnek,
+
+hd) a kutatás eredményeit a *ha)* pont szerinti megbízó közli.
+
+i)[^9]
+
+(2)[^10] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az MDR-ben, az IVDR-ben, az Eütv.-ben, valamint az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendeletben [a továbbiakban: 235/2009. (X. 20.) Korm. rendelet] foglalt fogalommeghatározásokat kell figyelembe venni.
+
+## A kutatásban résztvevő személy védelme
+
+### 3. §
+
+(1) Kutatásba cselekvőképes személyt bevonni akkor lehet, ha biztosított az Eütv. 159. §-ának (1)–(3) bekezdéseiben meghatározott feltételek, illetve az e rendeletben előírt követelmények teljesítése.
+
+(2) A kutatás a résztvevő számára nem helyettesítheti az orvos-szakmai szempontból szükséges, a megbetegedések megelőzését, korai felismerését, gyógykezelését szolgáló vizsgálatok, beavatkozások elvégzését.
+
+(3) Ha a kutatásba reproduktív korú személyeket terveznek bevonni, a kutatás tervezése, engedélyezése, a résztvevők tájékoztatása során kiemelt figyelmet kell fordítani a kutatásnak a nemző- és fogamzóképességre, a kutatásba történő beválasztáskor esetleg fennálló, vagy későbbi terhességre, az embrió vagy magzat egészségére gyakorolt hatására.
+
+(4) A kutatást úgy kell tervezni és lefolytatni, hogy minimalizálja a kutatásban résztvevő személy esetleges károsodását, fájdalmát, félelmét és szorongását. A résztvevő személy életkorához, egészségi állapotához kapcsolódó minden előre látható kockázatot figyelembe kell venni a kutatás tervezésénél és az ellenőrzésénél.
+
+(5) A résztvevő személy egészségi állapotát a kutatás megkezdése előtt, a kutatás során folyamatosan és azt követően gondosan ellenőrizni és dokumentálni kell.
+
+(6)[^11] A kutatásba résztvevőként elsősorban az egészségügyi intézményben ellátott betegeket lehet bevonni. A résztvevők toborzására felhívás – az egészséges önkéntesek kivételével – kizárólag orvosokhoz intézhető, a kutatás céljának, módszereinek, a beválasztandó résztvevők körének pontos megjelölésével. Egészséges önkéntesek toborzása nyilvános közlésre szánt eszközzel történhet, a toborzási felhívásnak egyértelműen tartalmaznia kell, hogy az egészséges önkéntesek bevonására vonatkozik. A toborzási felhívás nem lehet reklámcélú. A toborzási felhívás tervezett szövegét és a toborzási módszer ismertetését a kutatás hatósági engedélyezése, illetve szakmai-etikai véleményezése iránti kérelemhez csatolni kell. A közzétett toborzási felhívásban a hatósági engedély meglétére utalni kell. A toborzás engedélyezett módszerétől és szövegétől való eltérés esetén az engedély módosítását kell kezdeményezni.
+
+(7) A résztvevő részére a kutatásban történő részvétellel kapcsolatos jövedelem kiesésének, továbbá az utazással összefüggésben ténylegesen felmerült és igazolt – társadalombiztosítási jogviszony alapján nem fedezett – költségeinek megtérítésére költségtérítés fizethető. A résztvevő részére egyéb juttatás vagy díj – az egészséges önkénteseken végzett kutatás kivételével – nem adható.
+
+## A résztvevő tájékoztatása, beleegyezés a kutatásba
+
+### 4. §
+
+(1) A kutatásba bevonni kívánt cselekvőképes személyt a kutatás vezetője vagy az általa kijelölt, a kutatásban közreműködő orvos szóban és írásban magyar nyelven, a beteg számára érthető módon tájékoztatja az Eütv. 159. §-ának (3) bekezdésében foglaltakról.
+
+(2) A tájékoztatást adó személynek különös figyelmet kell fordítania annak vizsgálatára, hogy a bevonni kívánt személy cselekvőképes-e. Az ezzel kapcsolatos megállapításokat az egészségügyi dokumentációban rögzíti.
+
+(3) A tájékoztatást és a beleegyezést – külön íven – írásba kell foglalni. Az írásos tájékoztató és a beleegyező nyilatkozat egy-egy példányát a résztvevő egészségügyi dokumentációjában kell megőrizni, továbbá egy-egy példányát a résztvevőnek át kell adni.
+
+(4) A írásos tájékoztató legalább a következőket tartalmazza:
+
+a) a kutatás azonosító adatait,
+
+b) kutatás kísérleti jellegére való utalást, a kutatás célját, várható időtartamát, a bevonni kívánt személyek számát, a kutatás menetét, a tervezett beavatkozások jellegét, gyakoriságát,
+
+c) a résztvevő rendelkezésére álló egyéb, elfogadott kezelési lehetőségeket, valamint tájékoztatást arra vonatkozóan, hogy kutatás a már megkezdett kezelésének megszakítását jelentheti, és a megkezdett kezelés megszakításának milyen következményei lehetnek a résztvevő számára,
+
+d) a lehetséges és a várható következmények, kockázatok és kellemetlenségek részletes leírását, valamint az arra való utalást, hogy a kutatás során olyan nem kívánatos események is felléphetnek, amelyek előre nem láthatóak,
+
+e) az ésszerűen várható előnyök leírását, vagy ha a résztvevő számára előny a kutatásból nem várható, ennek a ténynek a közlését,
+
+f) az egyes kezelési csoportokba történő véletlenszerű besorolás százalékos valószínűségét,
+
+g)[^12] a résztvevő számára a kutatással összefüggő kár bekövetkezése, illetve személyiségi jog megsértése esetén nyújtandó kezelésre, kártérítésre és sérelemdíjra [Eütv. 164. § (2) bekezdés] és kártalanításra [Eütv. 164. § (1) bekezdés] történő utalást, az Eütv. 164. §-ának (2) bekezdés szerinti felelősségbiztosító megnevezését, elérhetőségét,
+
+h) a résztvevő számára a kutatásban való részvételért járó költségtérítést, ha van ilyen,
+
+i) arra vonatkozó figyelemfelhívást, hogy a beleegyezés önkéntes és befolyásolástól mentes, azt bármikor akár szóban, akár írásban indokolás nélkül vissza lehet vonni anélkül, hogy ebből a résztvevőnek hátránya származna,
+
+j) a résztvevő adatainak kezelésére, az ahhoz való hozzáférésére vonatkozó szabályokat,
+
+k)[^13] a kutatás megkezdéséhez szükséges szakhatósági állásfoglalást adó etikai bizottság megnevezését, továbbá az IKEB elnökének és a 12. § (5) bekezdése szerinti független orvosnak nevét és elérhetőségét.
+
+(5) A résztvevő személy a beleegyezését írásban adja meg. A beleegyező nyilatkozat legalább a következőket tartalmazza:
+
+a) a kutatás azonosító adatait,
+
+b) annak az egészségügyi intézménynek megnevezését, ahol a kutatást végezni kívánják,
+
+c) a kutatás vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését,
+
+d)[^14] a résztvevő azonosító adatait (név, anyja neve, születési hely és idő, TAJ szám, lakcím), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen résztvevő esetén a hozzájárulást adó törvényes képviselő azonosító adatait is,
+
+e)[^15] annak kijelentését, hogy a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen résztvevő esetén a törvényes képviselő is – a kutatásban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően, önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható,
+
+f) a beleegyező nyilatkozat aláírásának dátumát,
+
+g) a kutatás vezetőjének vagy a tájékoztatást adónak az aláírását,
+
+h) a beleegyező nyilatkozatot tevő, valamint a (7) bekezdés szerinti esetben a tanú aláírását.
+
+(6)[^16] A tájékoztatást adó személy és a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen résztvevő esetén a törvényes képviselő is – a (4) bekezdés szerinti írásos tájékoztatót is kézjegyével látja el.
+
+(7)[^17] Ha a kutatásba bevonni kívánt személy, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén a törvényes képviselő nem tud olvasni, a beleegyező nyilatkozathoz szükséges tájékoztatás megadásánál két független tanú együttes jelenlétét kell biztosítani. A tanúk a beleegyező nyilatkozat aláírásával igazolják, hogy a vizsgálatba bevonni kívánt személy, illetve törvényes képviselője számára minden lehetséges információt megadtak, és a bevonni kívánt személy és/vagy törvényes képviselője önkéntesen és befolyásolástól mentesen adta meg a beleegyező nyilatkozatát.
+
+(8) Amennyiben a kutatás során a kutatással kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni a 13. §-ban foglaltaknak megfelelően. A módosított írásos tájékoztatónak megfelelően a résztvevőt ismételten tájékoztatni kell, és írásbeli beleegyezését kell kérni a kutatás folytatásához.
+
+### 4/A. §[^18]
+
+(1) Amennyiben a kutatás során a külön jogszabályban meghatározott humángenetikai vizsgálat céljából mintát vesznek, erről a résztvevőt külön tájékoztatni kell. A tájékoztatásnak ki kell terjednie arra is, hogy a résztvevőnek jogában áll a mintavételt külön is visszautasítania, ez esetben a továbbiakban a vele kapcsolatos genetikai adatokat még anonim módon sem lehet felhasználni. A mintavétel elutasítása nem képezi a résztvevő részvételének akadályát a kutatás további részében. A mintavételről szóló tájékoztatást és az abba való beleegyezést külön dokumentumba kell foglalni.
+
+(2) A humángenetikai vizsgálat céljából történt mintavétel előtt a résztvevőt genetikai tanácsadás keretén belül tájékoztatni kell
+
+a) a mintavétel céljáról, mennyiségi és minőségi részleteiről,
+
+b) a vizsgálat elvégzésének vagy elmaradásának előnyeiről és kockázatairól,
+
+c) a lehetséges eredménynek az érintettet és közeli hozzátartozóit érintő esetleges következményeiről,
+
+d) a genetikai minta és adat tárolásának módjairól, időtartamáról, a különböző formában tárolt genetikai minták, továbbá adatok azonosíthatóságának lehetőségeiről,
+
+e) a résztvevő egyéb nyilatkozata hiányában a genetikai minta archivált gyűjteménybe való bekerüléséről, a tárolt genetikai minták esetleges továbbításáról,
+
+f) arról, hogy jogosult a humángenetikai vizsgálat során keletkezett genetikai adat megismerésére, továbbá
+
+g) arról, hogy dönthet az általa szolgáltatott minta biobankban történő elhelyezéséről, illetve az elhelyezés módjáról, így lehetőség van a minta
+
+ga) személyazonosító adatokkal együtt történő tárolására,
+
+gb) kódolt formában való elhelyezésére,
+
+gc) pszeudonimizált, azaz olyan formában való elhelyezésére, amelynél a személyazonosító adatot helyettesítő kódot a vizsgálati alany kizárólagos rendelkezésére bocsátották,
+
+gd) anonimizált, azaz olyan formában történő elhelyezésére, amikor a vizsgálati alanyra vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tették.
+
+(3) A résztvevőt tájékoztatni kell arról is, hogy dönthet a biobankban elhelyezett minta további kutatásban történő részvételéről is. Ebben az esetben a résztvevőnek nyilatkoznia kell arra nézve, hogy mintájának – a mintavétel elsődleges célja szerinti – diagnosztikus, kizárólag kutatási célú, vagy bármely, azaz diagnosztikus és kutatási célú felhasználásához járul-e hozzá.
+
+### 4/B. §[^19]
+
+(1) Amennyiben a kutatás során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
+
+(2) A résztvevő beleegyező nyilatkozata legalább a következőket tartalmazza:
+
+a) a kutatás azonosító adatait;
+
+b) annak az egészségügyi szolgáltatónak a megnevezését, ahol a kutatást végezni kívánják;
+
+c) a kutatás vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését;
+
+d)[^20] a résztvevő azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is;
+
+e)[^21] annak a kijelentését, hogy a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a genetikai vizsgálatban történő részvételre vonatkozó beleegyezését a 4/A. §-ban foglalt tájékoztatást, vagy az arról való lemondást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+
+f) a hozzájárulást a tájékoztatóban megjelölt mennyiségű és minőségű minta vételéhez és a résztvevő adatainak felhasználásához;
+
+g) a minták kezelésének módjáról szóló nyilatkozatot arról, hogy dönthet az általa szolgáltatott minta biobankba történő elhelyezéséről, illetve az elhelyezés módjáról, így lehetőség van a minta
+
+ga) személyazonosító adatokkal együtt történő tárolására,
+
+gb) kódolt formában való elhelyezésére,
+
+gc) pszeudonimizált, azaz olyan formában való elhelyezésére, amelynél a személyazonosító adatot helyettesítő kódot a vizsgálati alany kizárólagos rendelkezésére bocsátották,
+
+gd) anonimizált, azaz olyan formában történő elhelyezésére, amikor a vizsgálati alanyra vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tették;
+
+h) a résztvevő nyilatkozatát a biobankban elhelyezett minta további kutatásban történő részvételéről; ebben az esetben a résztvevőnek nyilatkoznia kell arra nézve, hogy mintájának – a mintavétel elsődleges célja szerinti – diagnosztikus, kizárólag kutatási célú, vagy bármely, azaz diagnosztikus és kutatási célú felhasználásához járul-e hozzá;
+
+i) az eredmény közlésének módját abban az esetben is, ha a vizsgálati alany ahhoz nem fér hozzá;
+
+j) az esetleges jövőbeni megkereséshez való hozzájárulást, vagy annak kizárását;
+
+k) a beleegyező nyilatkozat aláírásának dátumát;
+
+l) a kutatás vezetőjének vagy a tájékoztatást adónak az aláírását;
+
+m) a beleegyező nyilatkozatot tevő aláírását.
+
+### 4/C. §[^22]
+
+(1) Ha a résztvevőtől az Eütv. 158/A. § (10) bekezdése alapján széles körű beleegyezés kérhető, erről a résztvevőt külön tájékoztatni kell, és az erről szóló tájékoztatást, valamint az abba való beleegyezést egy dokumentumba lehet foglalni.
+
+(2) A széles körű beleegyezés megadása előtt az érintettet – az Eütv. 159. § (3b) és (3c) bekezdésében foglaltakon túl – tájékoztatni kell
+
+a) arról, hogy a széles körű beleegyezés alapján gyűjtött és kezelt biológiai minták és adatok kódolt formában kerülnek tárolásra,
+
+b) az adatok és biológiai minták tárolásának időtartamáról,
+
+c) arról, hogy a széles körű beleegyezés alapján gyűjtött és kezelt biológiai minták és adatok további hozzájárulás megadása nélkül felhasználhatóak engedélyezett, illetve jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatások lefolytatása céljából, valamint
+
+d) a tárolt biológiai minta esetleges továbbításáról.
+
+(3) A résztvevő széles körű beleegyezése esetén a beleegyező nyilatkozat a jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatás tekintetében tartalmazza
+
+a) annak az egészségügyi szolgáltatónak a megnevezését, ahol a mintavétel történik;
+
+b) a tájékoztatást végző személy nevét, beosztását;
+
+c) a résztvevő nevét, születési helyét és idejét, korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) nevét, születési helyét és idejét is;
+
+d) annak a kijelentését, hogy a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a részvételre vonatkozó beleegyezését a (2) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+
+e) a résztvevő hozzájárulását a tájékoztatóban megjelölt mennyiségű és minőségű biológiai minta vételéhez, adatok gyűjtéséhez és felhasználásához;
+
+f) a résztvevő hozzájárulását ahhoz, hogy a biológiai mintát, illetve az abból származó adatot biobankban helyezzék el;
+
+g) a résztvevő nyilatkozatát arra nézve, hogy a biológiai mintának, illetve adatnak a jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatási célból történő felhasználásához hozzájárul;
+
+h) a résztvevő nyilatkozatát arra nézve, hogy a biológiai minta, illetve az ahhoz kapcsolódó adatok kódolt formában történő tárolásához járul hozzá;
+
+i) a beleegyező nyilatkozat aláírásának dátumát;
+
+j) a tájékoztatást adó aláírását, valamint
+
+k) a beleegyező nyilatkozatot tevő aláírását.
+
+(4) A kódolt biológiai minta, illetve adat tárolása, felhasználása során az érintett azonosítására az engedélyezett, illetve a jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatás esetén nem kerül sor az érintett vagy közeli hozzátartozója érdekében.
+
+## Korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott és cselekvőképtelen személy bevonása a kutatásba[^23]
+
+### 5. §
+
+(1)[^24] Ha a kutatásba – az Eütv. 159. §-ának (4) és (5) bekezdéseiben meghatározott feltételek betartásával – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyt vonnak be, akkor mind a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyt, mind a törvényes képviselőjét tájékoztatni kell a 4. §-ban foglaltaknak megfelelően.
+
+(2)[^25] A kutatás csak akkor végezhető korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyen, ha mind a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személy, mind törvényes képviselője beleegyezését adta. A beleegyező nyilatkozatot mind a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személynek, mind törvényes képviselőjének alá kell írnia.
+
+### 6. §
+
+(1)[^26] Ha a kutatásba – az Eütv. 159. §-ának (4) és (5) bekezdéseiben meghatározott feltételek szerint – cselekvőképtelen személyt kívánnak bevonni, akkor a (2)–(6) bekezdésekben foglaltaknak megfelelően kell eljárni.
+
+(2) Az Eütv. 16. §-ának (1)–(2) bekezdése szerinti személyt a 4. §-ban foglaltaknak megfelelően kell tájékoztatni. Ezen túlmenően a cselekvőképtelen személyt is – ítélőképességének megfelelően – tájékoztatni kell minden, a kutatás szempontjából fontos körülményről, annak kockázatáról és kedvező vagy kedvezőtlen hatásáról. A kiskorú tájékoztatásába pedagógiai gyakorlattal rendelkező személyt is be kell bevonni.
+
+(3) Amennyiben a cselekvőképtelen személy a tájékoztatást megértette, azt értékelni tudja, és kifejezetten elhárítja a kutatásban való részvételét, vagy a kutatásból ki kíván lépni, ezt a kutatás vezetőjének, illetve a kutatást végző személynek maradéktalanul figyelembe kell vennie.
+
+(4) Ha a cselekvőképtelen személy cselekvőképessé válik, a lehető leghamarabb tájékoztatni kell a kutatásról, és kérni kell a beleegyezését annak folytatásához. Ennek hiányában a kutatást az érintett személyen nem lehet folytatni.
+
+(5) Nem végezhető kutatás olyan cselekvőképtelen személy bevonásával, aki még cselekvőképes állapotában kizárta a kutatásban való részvételét.
+
+(6)[^27] Korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott és cselekvőképtelen személy egészséges önkéntesként kutatásba nem vonható be.
+
+## Az intézményi kutatásetikai bizottság és a Regionális Kutatásetikai Bizottság
+
+### 12. §
+
+(1)[^33] Minden egészségügyi intézmény, ahol kutatást végeznek, intézményi kutatásetikai bizottságot (a továbbiakban: IKEB) működtet, amely emberen végzett orvostudományi kutatásra engedélyt vagy szakmai-etikai véleményt nem adhat. Az 1. számú mellékletben meghatározott egészségügyi intézményekben Regionális Kutatásetikai Bizottság (a továbbiakban: RKEB) működik.
+
+(2) Az IKEB és az RKEB létrehozása, létszámának meghatározása – a (4) bekezdésben foglaltak figyelembevételével – az egészségügyi intézmény vezetőjének feladata.
+
+(3) Abban az egészségügyi intézményben, ahol RKEB működik, az egyben elláthatja az IKEB teendőit is.
+
+(4) Az IKEB-et és az RKEB-et az Eütv. 159. §-ának (6) bekezdésében foglaltaknak megfelelően kell összeállítani azzal, hogy a bizottság tagjainak száma nem lehet ötnél kevesebb.
+
+(5) Az intézményben folyó kutatásban résztvevők érdekeinek védelméről az IKEB elnöke által az IKEB tagjai közül kijelölt független, a kutatásban részt nem vevő orvos gondoskodik. A kijelölt orvos folyamatosan figyelemmel kíséri a kutatás menetét, továbbá rendszeres kapcsolatot tart a vizsgálatba bevont személyekkel, részükre tájékoztatást, szakmai segítséget nyújt.
+
+(6)[^34]
+
+(7)[^35] Az RKEB feladata a külön jogszabályban meghatározott kutatások esetében etikai vélemény kialakítása.
+
+(8)[^36] Az IKEB esetén az összetételt és a működés szabályait tartalmazó ügyrendet a területileg illetékes RKEB hagyja jóvá. Az RKEB összetételét az Egészségügyi Tudományos Tanács bizottsága az Egészségügyi Tudományos Tanácsról szóló miniszteri rendelet szerint hagyja jóvá.
+
+### 14. §
+
+(1)[^38] A legalább részben az Egészségügyi Alapból finanszírozott egészségügyi intézmény vezetője a kutatás megkezdését megelőzően nyilatkozik az egészségbiztosítónak a felmerülő többletköltségek viseléséről.
+
+(2)[^39] A kutatás megkezdésének időpontjáról az egészségügyi intézmény vezetője értesíti az etikai bizottságot.
+
+## Mentesség az eljárási díj fizetése alól
+
+### 15. §[^40]
+
+A nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás engedélyezési eljárása díjmentes.
+
+### 19. §
+
+(1)[^44] A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) ellenőrzi, hogy a 14. § (1) bekezdése szerinti nyilatkozatban rögzített többletköltségek valósnak bizonyulnak-e, valamint azt, hogy kizárólag a kutatás keretében nyújtott ellátást az egészségbiztosítás terhére nem vesznek-e igénybe.
+
+(2)[^45]
+
+(3)[^46] Ha az ellenőrzés során megállapítást nyer, hogy kizárólag a kutatás keretében nyújtott ellátást az egészségbiztosítás terhére vesznek igénybe, a NEAK kezdeményezi a kutatás felfüggesztését.
+
+## Jelentési kötelezettség
+
+### 20. §[^47]
+
+(1) A kutatás vezetője a kutatás megkezdésétől kezdve minden második év végén részbeszámolót, valamint a kutatás befejezését követő 15 napon belül zárójelentést küld az engedélyezőnek, az etikai bizottságnak és az IKEB-nek. A jelentésben beszámol a kutatás tapasztalatairól, a ténylegesen bevont betegek számáról, az előfordult nem kívánatos és súlyos nem kívánatos eseményekről. A kutatás akkor tekinthető befejezettnek, ha minden beteg – kutatási terv szerinti – utolsó észlelése megtörtént.
+
+(2) A zárójelentés alapján az etikai bizottság szakmai-etikai szempontból értékeli a vizsgálatot.
+
+(3) Az etikai bizottság által sikertelennek értékelt vizsgálat nem hivatkozható, nem publikálható, és arra épülő vizsgálat nem engedélyezhető.
+
+## A beavatkozással nem járó vizsgálatokra vonatkozó rendelkezések
+
+### 20/A. §[^48]
+
+Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatások és a 235/2009. (X. 20.) Korm. rendeletben meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat), valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálatok tekintetében a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
+
+### 20/B. §[^49]
+
+Ezen alcím alkalmazásában:
+
+a)[^50] *megbízó (sponsor):* bármely természetes vagy jogi személy, aki vagy amely a beavatkozással nem járó vizsgálatot kezdeményezi, vezeti, illetve finanszírozza. A vizsgáló és a megbízó lehet ugyanaz a személy is. Orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR 2. cikk 49. pontja szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 57. pontja szerinti természetes vagy jogi személy minősül megbízónak;;
+
+b)[^51] *vizsgálati alany (subject):* a beavatkozással nem járó vizsgálatban részt vevő olyan személy, akin vagy akinek az adataival a vizsgálatot folytatják, illetve aki a vizsgálatban kontrollszemélyként vesz részt; orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az az MDR 2. cikk 50. pontja, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 47. pontja szerinti személy;
+
+c)[^52] *vizsgáló (investigator):* olyan személy, akinek a feladata a beavatkozással nem járó vizsgálat elvégzése a vizsgálati helyen; orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR 2. cikk 54. pontja, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR 2. cikk 48. pontja szerinti személy;
+
+d) *vizsgálatvezető (principal investigator):* a csoport felelős vezetője egy adott vizsgálati helyen, ha a beavatkozással nem járó vizsgálatot több vizsgálóból álló csoport végzi;
+
+e)[^53] *toborzás (recruitment):* a beavatkozással nem járó vizsgálatot végzőnek – engedélyköteles vizsgálat esetében a vizsgálatot engedélyező által engedélyezett – nyilvános felhívása abból a célból, hogy vizsgálati alanyokat bevonjon egy vizsgálatba;
+
+f) *nem kereskedelmi vizsgálat (non-commercial trial):* ipari, kereskedelmi, szolgáltató vállalkozásoktól független vizsgálók által folytatott kutatás, amely még közvetetten sem szolgálja a megbízó anyagi haszonszerzését és
+
+fa) amelynek megbízója független vizsgáló vagy non-profit szervezet, így különösen oktatási intézmény, finanszírozott egészségügyi szolgáltató, közfinanszírozott kutatóintézet, társadalmi szervezet,
+
+fb) a vizsgálatot az *fa)* pont szerinti megbízó tervezi és folytatja,
+
+fc) a vizsgálatból származó adatok az *fa)* pont szerinti megbízó tulajdonába kerülnek,
+
+fd) a vizsgálat eredményeit az *fa)* pont szerinti megbízó közli;
+
+g)[^54] *koordináló vizsgálatvezető:* többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
+
+h)[^55]
+
+### 20/C. §[^56]
+
+Beavatkozással nem járó vizsgálatnak minősülnek különösen a
+
+a) biztonságossági,
+
+b) farmakoökonómiai,
+
+c) életminőségi,
+
+d) epidemiológiai,
+
+e) compliance/perzisztencia,
+
+f) obszervációs kohorsz,
+
+g) retrospektív eset-kontroll,
+
+h) egyéb obszervációs
+
+vizsgálatok.
+
+### 20/F. §[^59]
+
+(1)[^60] A megbízó, a vizsgálatvezető és a vizsgáló, amennyiben a vizsgálat célja toborzás nélkül nem vagy csak aránytalanul nagy nehézséggel érhető el, vizsgálati alanyokat toborozhat a sajtóban, illetve a saját honlapján közzétett felhívás útján. A részvételre való felhívás szövegének tartalmaznia kell a vizsgálat célját, módszereit, a beválasztandó vizsgálati alanyok körének megjelölését, a jelentkezőkkel történő kapcsolatfelvétel módját, a beválasztottaknak fizetendő esetleges költségtérítés mértékét, továbbá a jelentkezők adatainak kezelésére vonatkozó szabályokat. A felhívás nem lehet reklámcélú. A közzétett felhívásban a támogató szakmai-etikai engedély, illetve szakvélemény meglétére utalni kell. A toborzás engedélyezett, illetve bejelentett módszerétől és szövegétől való eltérés esetén az engedély, illetve a bejelentés módosítását kell kezdeményezni.
+
+(2)[^61] A vizsgálati alany és az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) részére a beavatkozással nem járó vizsgálatban, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálatban történő részvétellel kapcsolatos jövedelemkiesés, továbbá költségek – különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségek – fedezetére térítés fizethető. A vizsgálati alany és a nyilatkozattételre jogosult személy részére egyéb juttatás vagy díj nem adható.
+
+### 20/G. §[^62]
+
+(1) Beavatkozással nem járó vizsgálatot, valamint az 1. § (2) bekezdése szerinti teljesítőképesség-vizsgálatot cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, eljárások kidolgozása, értékelése, valamint a betegségek kóroktanának, patogenezisének és epidemiológiai, népegészségügyi összefüggéseinek jobb megértése céljából valamint – ha az MDR vagy az IVDR eltérően nem rendelkezik – orvostechnikai eszközök, in vitro diagnosztikai orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából lehet folytatni.
+
+(2) Beavatkozással nem járó vizsgálat cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyen orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR-ben foglalt rendelkezések, az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR-ben foglalt rendelkezések figyelembevételével, a 20/I–20/J. §-ban foglaltak megtartásával is kizárólag a következő feltételek együttes fennállása esetén végezhető:
+
+a) a vizsgálat nem folytatható hasonló hatékonysággal cselekvőképes személyen;
+
+b) az Eütv. 16. § (1)–(2) bekezdése szerinti személy – figyelemmel az Eütv. 16. § (5) bekezdésben foglaltakra is –, illetve a 16 éven felüli korlátozottan cselekvőképes kiskorú vagy cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vizsgálati alany a beleegyezését adta.
+
+### 20/H. §[^63]
+
+(1)[^64] A (6a) bekezdésben említett vizsgálatok kivételével a beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
+
+a) a vizsgálatban való részvétel önkéntességéről, valamint arról, hogy a beleegyezés bármikor, a (2) bekezdésben foglaltak szerint szóban vagy írásban indokolás és hátrányos következmények nélkül visszavonható;
+
+b) a tervezett vizsgálat lényegéről, céljáról, várható időtartamáról, helyéről, a bevonni kívánt személyek számáról, illetve köréről;
+
+c)[^65] a vizsgálati alany vagy mások számára várható előnyökről és a költségtérítésről, ha van ilyen;
+
+d) a vizsgálati alany adatainak kezelésére, az azokhoz való hozzáférésre vonatkozó szabályokról;
+
+e) a vizsgálatért felelős személy(ek) nevéről, beosztásáról, munkaköre megnevezéséről;
+
+f) a beavatkozással nem járó vizsgálat azonosító adatairól;
+
+g) a kérelmező nevéről, székhelyéről.
+
+(2) A vizsgálati alanynak – az (1) bekezdés szerinti tájékoztatást követően – írásos beleegyezését kell adnia a vizsgálathoz. Ha a vizsgálati alany írásbeli beleegyezés adására írásképtelensége, illetve írástudatlansága okán nem képes, két, a beavatkozással nem járó vizsgálatban nem érdekelt, abban részt nem vevő tanú együttes jelenlétében tett szóbeli beleegyezése szükséges a vizsgálathoz. Szóbeli beleegyezés esetén a nyilatkozatot írásba kell foglalni, amelyen a két tanú aláírásával igazolja a szóbeli beleegyezés megtörténtét. A vizsgálati alany írásképességének visszanyerése esetén a beleegyező nyilatkozatot a vizsgálat folytatását megelőzően írásban megerősíti, ennek hiányában a beleegyező nyilatkozatot visszavontnak kell tekinteni, és a vizsgálat az érintett személyen nem folytatható tovább.
+
+(3) Szóbeli beleegyező nyilatkozat esetén a két tanú aláírásával igazolja, hogy a vizsgálati alany az (1) bekezdés szerinti tájékoztatást megkapta és a (4) bekezdés szerinti beleegyező nyilatkozatot vele ismertették és abba szóban beleegyezett.
+
+(4)[^66] A (6a) bekezdésben említett vizsgálatok kivételével a vizsgálati alany beleegyező nyilatkozatának az (1) bekezdésben foglaltak mellett különösen a következőket kell értelemszerűen tartalmaznia:
+
+a) amennyiben a beavatkozással nem járó vizsgálat egészségügyi szolgáltatónál zajlik, annak az egészségügyi szolgáltatónak a megnevezését, ahol a vizsgálatot végezni kívánják;
+
+b)[^67] a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy azonosító adatait is;
+
+c)[^68] annak a kijelentését, hogy a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+
+d) a beleegyező nyilatkozat aláírásának dátumát;
+
+e) a vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását;
+
+f) a beleegyező nyilatkozatot tevő aláírását.
+
+(5)[^69] A tájékoztatást adó személy és a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – az (1) bekezdés szerinti írásos tájékoztatót is aláírja.
+
+(6)[^70] A (6a) bekezdésben említett vizsgálatok kivételével a tájékoztatást és a beleegyezést külön íven kell írásba foglalni. A beleegyező nyilatkozat és az írásos tájékoztató egy-egy eredeti példányát a vizsgálati dokumentációban kell megőrizni, egy-egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
+
+(6a)[^71] Orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat és az 1. § (2) bekezdése szerinti in vitro diagnosztikai orvostechnikai eszközzel végzett, az e rendelet hatálya alá tartozó teljesítőképesség-vizsgálat esetén a vizsgálati alanyt a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja. A vizsgálati alany tájékoztatáson alapuló beleegyező nyilatkozatának a MDR 63–66. cikkében, illetve az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálatok esetében az IVDR 59–62. cikkében, valamint a (2), (3) és (5) bekezdésben foglaltak megfelelő alkalmazásával legalább az alábbiakat kell tartalmaznia:
+
+a) a vizsgálatban való részvétel önkéntességéről, valamint arról, hogy a beleegyezés bármikor, a (2) bekezdésben foglaltak szerint szóban vagy írásban indokolás és hátrányos következmények nélkül visszavonható;
+
+b) tájékoztatást a tervezett vizsgálat lényegéről, céljáról, várható időtartamáról, helyéről, a bevonni kívánt személyek számáról, illetve köréről;
+
+c) a vizsgálati alany vagy mások számára várható előnyöket és a költségtérítést, ha van ilyen;
+
+d) a vizsgálati alany adatainak kezelésére, az azokhoz való hozzáférésre vonatkozó szabályokat;
+
+e) a vizsgálatért felelős személy(ek) nevét, beosztását, munkaköre megnevezését;
+
+f) a vizsgálat azonosító adatait;
+
+g) a kérelmező vagy bejelentő nevét, székhelyét;
+
+h) amennyiben a vizsgálatot egészségügyi szolgáltatónál kívánják végezni, az egészségügyi szolgáltató megnevezését;
+
+i) a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy azonosító adatait is;
+
+j) annak a kijelentését, hogy a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+
+k) a tájékoztatáson alapuló beleegyező nyilatkozat aláírásának dátumát;
+
+l) a vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását;
+
+m) a tájékoztatáson alapuló beleegyező nyilatkozatot tevő aláírását.
+
+(7)[^72] Amennyiben a beavatkozással nem járó vizsgálattal, vagy az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, illetve a tájékoztatáson alapuló beleegyező nyilatkozatban foglaltakat, az engedély, illetve a bejelentés módosítását kell kezdeményezni a 235/2009. (X. 20.) Korm. rendelet 19. §-ában vagy 21/A. §-ában foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
+
+### 20/I. §[^73]
+
+Kiskorúakon beavatkozással nem járó vizsgálat, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat a 20/G–20/H. §-ban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR-ben foglalt rendelkezések, illetve az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR-ben foglalt rendelkezések figyelembevételével, az alábbi feltételek mindegyike teljesül:
+
+a) a vizsgálat közvetlen kapcsolatban van azzal a klinikai kórképpel, amelyben a kiskorú szenved, vagy olyan jellegű, amely csak kiskorúakon végezhető el;
+
+b) 16 éven aluli kiskorú esetén a nyilatkozattételre jogosult személy beleegyező nyilatkozata a véleményalkotásra és helyzetértékelésre képes kiskorú valószínűsíthető akaratát tartalmazza, és ez a nyilatkozat bármikor visszavonható anélkül, hogy a kiskorú bármi hátrányt szenvedne;
+
+c) a kiskorúakkal kapcsolatban tapasztalattal rendelkező vizsgáló a kiskorút – értelmi szintjétől függően – számára érthető módon, megfelelően tájékoztatta a vizsgálatról, a kedvezőtlen és a kedvező hatásokról;
+
+d) a vizsgáló vagy a vizsgálatvezető teljeskörűen figyelembe veszi, ha a véleményalkotásra és helyzetértékelésre képes 16 éven aluli kiskorú kifejezetten elhárítja a vizsgálatban való részvételt, illetve azt, hogy a vizsgálatból bármikor ki kíván lépni.
+
+### 20/J. §[^74]
+
+Nem vonható be beavatkozással nem járó vizsgálatba, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatba az a cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személy, aki korábban, cselekvőképessége birtokában kifejezetten kizárta az ilyen vizsgálatokban való részvételét. Egy adott vizsgálatba nem vonható be az sem, aki korábban, cselekvőképessége birtokában visszautasította a beleegyezés megadását az adott vizsgálathoz.
+
+(2)[^75] Cselekvőképtelen vagy cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott nagykorúakon a 20/G–20/H. §-ban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető beavatkozással nem járó vizsgálat, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat, ha – az (1) bekezdésben foglaltak és orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az MDR-ben foglalt rendelkezések, illetve az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetén az IVDR-ben foglalt rendelkezések figyelembevételével – az alábbi feltételek mindegyike teljesül:
+
+a) cselekvőképtelen személy esetén a nyilatkozattételre jogosult személy beleegyező, illetve tájékoztatáson alapuló beleegyező nyilatkozatának a vizsgálati alany feltételezett akaratát kell tartalmaznia, és ez a nyilatkozat bármikor visszavonható anélkül, hogy ebből a vizsgálati alanynak hátránya származna;
+
+b) a vizsgálati alanyt számára érthető módon, megfelelően tájékoztatták a vizsgálatról, a kedvező és a kedvezőtlen hatásokról;
+
+c) cselekvőképtelen személy esetén a vizsgáló és a vizsgálatvezető teljeskörűen figyelembe veszi, ha a véleményalkotásra és helyzetértékelésére képes vizsgálati alany kifejezetten elhárítja a vizsgálatban való részvételt, vagy a vizsgálatból bármikor ki kíván lépni;
+
+d) a 235/2009. (X. 20.) Korm. rendelet 7. § (1) bekezdése, illetve 21/A. § (1) bekezdése szerinti szerv (a továbbiakban: engedélyező hatóság) a kérdéses betegségnek megfelelő szakorvos szakvéleményének birtokában dönt az engedélyezésről, illetve a bejelentésről szóló igazolás kiállításáról.
+
+(3) Ha a vizsgálati alany a beavatkozással nem járó vizsgálat során cselekvőképessé válik, a lehető leghamarabb tájékoztatni kell a vizsgálatról, és a 20/H. §-ban foglaltak megfelelő alkalmazásával be kell szerezni a beleegyezését annak folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
+
+### 20/N. §[^79]
+
+Az engedélyezett, illetve bejelentett beavatkozással nem járó vizsgálat, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat alatt a vizsgálati alanyok és a nyilatkozattételre jogosult személyek, a vizsgálók, a vizsgálatvezetők, a vizsgálatot végző egészségügyi szolgáltató vezetője, az IKEB, illetve a megbízó panasszal fordulhatnak az engedélyező, illetve a bejelentés tárgyában eljáró hatósághoz, ha megítélésük szerint a vizsgálatot az engedélyben, illetve a vizsgálati tervben előírtaktól eltérően folytatják.
+
+### 20/O. §[^80]
+
+(1) A (4) és (5) bekezdésben foglaltak kivételével a beavatkozással nem járó vizsgálat befejezését követő kilencven napon belül a megbízó értesítést küld az engedélyező hatóságnak a vizsgálat befejezéséről, a bevont betegek számáról, illetve köréről, a vizsgálat befejezését követő száznyolcvan napon belül pedig megküldi a zárójelentést az engedélyező hatóságnak, az etikai bizottságnak és az IKEB-nek, amelyben beszámol a vizsgálat célkitűzésére adott válaszról és a vizsgálat tapasztalatairól.
+
+(2) Az (1) bekezdés szerinti zárójelentés alapján az etikai bizottság szakmai-etikai szempontból értékeli a vizsgálatot.
+
+(3) Az etikai bizottság által sikertelennek értékelt vizsgálat nem hivatkozható, nem publikálható, és arra épülő vizsgálat nem engedélyezhető.
+
+(4) Az engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat esetében a jelentéstételi kötelezettségnek az emberi alkalmazásra kerülő gyógyszerek farmakovigilanciájáról szóló miniszteri rendeletben foglaltak szerint kell eleget tenni.
+
+(5) Az orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat befejezésének bejelentésére az MDR 77. cikk (4) és (5) bekezdésében, az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat befejezésének bejelentésére az IVDR 73. cikk (4) és (5) bekezdésében foglaltakat kell alkalmazni.
+
+(6)[^81] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) az (5) bekezdésben említett vizsgálatok hozzá benyújtott jelentésének másolatait szakmai-etikai értékelésre megküldi az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottság (a továbbiakban: ETT TUKEB) részére.
+
+(7) Az (5) bekezdésben említett vizsgálatok esetében az ETT TUKEB által sikertelennek értékelt vizsgálat nem hivatkozható, nem publikálható.
+
+### 20/P. §[^82]
+
+(1)[^83] A beavatkozással nem járó vizsgálat, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezett, illetve bejelentett vizsgálati tervének előírásai foglalkozási szabálynak minősülnek.
+
+(2)[^84]
+
+(3)[^85] Ha a megbízó egyes vagy valamennyi, a vizsgálattal kapcsolatos feladatának teljesítésével megbíz más természetes vagy jogi személyt, ebben az esetben is a megbízó felel az e rendeletben és a jogszabályokban, európai uniós jogi aktusokban foglalt, vizsgálatokra vonatkozó rendelkezések betartásáért.
+
+### 20/Q. §[^86]
+
+Retrospektív vizsgálat esetében a 235/2009. (X. 20.) Korm. rendelet 17/A. § (1) bekezdés c) és d) pontját a 20/G. § (2) bekezdésének b) pontját, a 20/H. §-t, a 20/I. § b)–d) pontját, a 20/J. § (1) bekezdésének második mondatát, (2) bekezdésének a)–c) pontját, továbbá (3) bekezdését nem kell alkalmazni.
+
+### 20/R. §[^87]
+
+(1)[^88] Az e fejezetben meghatározott engedélyezési eljárásokért – a nem kereskedelmi vizsgálatok kivételével – az engedélyező hatóság részére a kérelmező igazgatási szolgáltatási díjat köteles fizetni.
+
+(2)[^89] A kérelmező
+
+a) a (3) bekezdés a) pontjában foglalt vizsgálat első fokú és módosításra irányuló engedélyezési eljárásáért az ott meghatározott összegű,
+
+b) a (3) bekezdés b)–c) pontjában foglalt vizsgálat első fokú, jogorvoslati és módosításra irányuló engedélyezési eljárásáért az ott meghatározott, azonos összegű
+
+díjat köteles fizetni.
+
+(3) A díj összege:
+
+a)[^90] az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás esetében
+
+aa)[^91] a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont ba) alpontja szerinti vizsgálatnál engedélyezés esetén 500 000 forint, lényeges módosítás esetén 110 000 forint;
+
+ab)[^92] a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont bb) alpontja szerinti vizsgálatnál engedélyezés esetén 270 000 forint, módosítás esetén 108 000 forint;
+
+b)[^93] a 235/2009. (X. 20.) Korm. rendelet szerinti orvostechnikai eszközök beavatkozással nem járó vizsgálatának, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat bejelentése és a vizsgálati terv jelentős vagy lényeges módosításának bejelentése esetében 99 000 forint;
+
+c)[^94] az a)–b) pontba nem tartozó esetekben 396 900 forint.
+
+(4) A díjat a kérelmező a kérelem benyújtásakor köteles a 3. számú mellékletben feltüntetett számlára postai befizetéssel vagy átutalással, vagy a bankszámla-tulajdonos intézet házipénztárába befizetni.
+
+(5)[^95] A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pont aa) alpontjában foglalt díj 46%-a az NNGYK, 54%-a az ETT TUKEB bevétele. A (3) bekezdés a) pont aa) alpontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.
+
+(6) A jogorvoslati eljárásban fizetett díjat a kérelmező részére vissza kell téríteni, ha a felülvizsgált határozat vagy intézkedés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
+
+(7) Ha a jogorvoslati eljárásban a másodfokon eljáró szerv az első fokon eljárt szerv részben vagy egészben jogszabálysértő határozatát
+
+a) a tényállás kiegészítéséhez szükséges külön vizsgálatok elvégeztetése nélkül megsemmisíti és az első fokon eljáró szervet új eljárás lefolytatására utasítja, akkor az új eljárást külön díj befizetése nélkül köteles lefolytatni;
+
+b) a tényállás kiegészítéséhez szükséges külön vizsgálatok elvégeztetésével
+
+ba) megsemmisíti és az első fokon eljáró szervet új eljárás lefolytatására utasítja,
+
+bb) megváltoztatja,
+
+akkor az első fokon eljárt szerv a másodfokon eljárt szerv számára az eljárásban – a külön vizsgálatok elvégeztetésével kapcsolatban – felmerült szükséges költségeket megtéríti.
+
+(8)[^96] Az Itv.
+
+a) 28. §-ának (2)–(3) bekezdésében foglaltakat a díjfizetési kötelezettség keletkezése,
+
+b)[^97] 31. §-a (1) bekezdésének első mondatában, illetve a 31. § (2), (4)–(6), valamint (8) bekezdésében foglaltakat a díjfizetésre kötelezettek körének megállapítása,
+
+c) 32. §-ának (1) bekezdésében foglaltakat a díj visszatérítése,
+
+d) 86. §-ában foglaltakat az elévülés
+
+tekintetében értelemszerűen kell alkalmazni azzal, hogy az illetékhivatal helyett az engedélyező, illetve a bejelentés tárgyában eljáró hatóságot, illeték helyett díjat kell érteni.
+
+(9) A díjak nyilvántartására és elszámolására az államháztartás alrendszerébe tartozó, költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni.
+
+(10)[^98]
+
+### 20/S. §[^99]
+
+(1)[^100] Amennyiben az engedélyező hatóság a vizsgálatot az Eütv. 164/A. § (2) bekezdése szerint engedélyezi, honlapján közzéteszi a 235/2009. (X. 20.) Korm. rendelet 17/A. § (3) bekezdés a) és c) pontja szerinti információkat.
+
+(2)[^101] Az engedélyező, illetve a bejelentés tárgyában eljáró hatóság a 20/O. § szerinti értesítést követő 15 napon belül honlapján közzéteszi a 20/O. § szerinti információkat.
+
+## Vegyes és átmeneti rendelkezések
+
+### 21. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy rendelkezéseit a 2002. július 1-jét követően indult engedélyezési eljárásokban kell alkalmazni.
+
+(2)[^103] Ez a rendelet az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3)[^104] Ez a rendelet
+
+a) a 726/2004/EK európai parlamenti és tanácsi rendeletben és a 2001/83/EK európai parlamenti és tanácsi irányelvben előírt farmakovigilanciai tevékenységek végrehajtásáról szóló, 2012. június 19-i 520/2012/EU bizottsági végrehajtási rendelet,
+
+b)[^105] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 74. cikk (1) bekezdésének és 82. cikkének,
+
+c)[^106] az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 58. cikk (2) bekezdésének és 70. cikk (1) bekezdésének
+
+### 22. §[^107]
+
+(1) E rendeletnek az egyes orvostechnikai eszközökkel összefüggő miniszteri rendeletek jogharmonizációs célú módosításáról szóló 35/2021. (VIII. 16.) EMMI rendelettel (a továbbiakban: Módr.) módosított, illetve megállapított rendelkezéseit – a (2) bekezdésben foglaltak figyelembevételével – a Módr. hatálybalépését[^108] követően bejelentett, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálatokra kell alkalmazni.
+
+(2) E rendelet a Módr. hatálybalépését[^109] megelőző napon hatályos rendelkezéseit kell alkalmazni
+
+a) a Módr. hatálybalépésekor folyamatban lévő, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálatokkal kapcsolatos hatósági eljárásokra, valamint
+
+b) azon orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálatokra – ideértve a vizsgálat lényeges módosítását is –, amelyek engedélyezése iránt a kérelmet a Módr. hatálybalépését megelőzően nyújtották be.
+
+### 23. §[^110]
+
+A 235/2009. (X. 20.) Korm. rendelet 44. § (1) és (3) bekezdését az e rendeletben foglaltak vonatkozásában is alkalmazni kell az orvostechnikai eszközzel végzett beavatkozás nélküli vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálatok tekintetében.
+
+## 1. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^111]
+
+**A regionális kutatásetikai bizottságok illetékességi területe**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | A kutatást végző egészségügyi intézmény megnevezése | A bizottság megnevezése |
+| **2.** | Semmelweis Egyetem és intézményei | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
+| **3.** | A rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság |
+| **3a.** | Magyar Honvédség egészségügyi intézményei | Magyar Honvédség Egészségügyi Központ Regionális, Intézményi Kutatásetikai Bizottság |
+| **4.** | Budapesti székhelyű országos intézetek | Országos Onkológiai Intézet Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
+| **5.** | Pesti és Pest vármegye Dunától keletre eső területén székhellyel rendelkező, a 2–4. sorban nem szereplő egészségügyi intézmények | Uzsoki utcai Kórház Regionális Tudományos és Kutatásetikai Bizottsága |
+| **6.** | Észak-budai kerületek (II., III., XII. kerület) területén székhellyel rendelkező egyéb egészségügyi intézmények | Észak-Közép-budai centrum Új Szent János Kórház és Szakrendelő Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
+| **7.** | Közép-dél-budai kerület (I., XI., XXII. kerület) és Pest vármegye Dunától nyugatra eső területén székhellyel rendelkező, a 2–4. sorban nem szereplő egészségügyi intézmény | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Regionális és Intézményi Kutatás Etikai Bizottsága |
+| **8.** | Hajdú-Bihar és Szabolcs-Szatmár-Bereg vármegye területén székhellyel rendelkező egészségügyi intézmények | Debreceni Egyetem Klinikai Központ Regionális, Intézményi, Tudományos és Kutatásetikai Bizottság |
+| **9.** | Baranya, Somogy és Tolna vármegye területén székhellyel rendelkező egészségügyi intézmények | Pécsi Tudományegyetem Klinikai Központ Regionális Kutatásetikai Bizottság |
+| **10.** | Csongrád-Csanád, Bács-Kiskun, Békés és Jász-Nagykun- Szolnok vármegye területén székhellyel rendelkező egészségügyi intézmények, a 3. sorban meghatározott egészségügyi intézmények kivételével | Szegedi Tudományegyetem Regionális és Intézményi Humán Orvosbiológiai Kutatásetikai Bizottság |
+| **11.** | Borsod-Abaúj-Zemplén, Heves és Nógrád vármegye területén székhellyel rendelkező egészségügyi intézmények | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház Regionális/Intézményi Tudományos és Kutatásetikai Bizottság |
+| **12.** | Vas, Zala és Veszprém vármegye területén székhellyel rendelkező egészségügyi intézmények | Markusovszky Egyetemi Oktatókórház Regionális/Intézményi Tudományos és Kutatásetikai Bizottság |
+| **13.** | Győr-Moson-Sopron, Komárom-Esztergom és Fejér vármegye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság |
+
+## 2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^112]
+
+**Bejelentés beavatkozással nem járó vizsgálathoz**
+
+Intézmény, egészségügyi szolgáltató neve:
+
+<table><tbody><tr><td colspan="2">1. A vizsgálat megnevezése</td></tr><tr><td colspan="2">2. Gyógyszerrel folytatott vizsgálat esetében a gyógyszer neve</td></tr><tr><td colspan="2">3. A vizsgálat típusa</td></tr><tr><td>Gyógyszerrel folytatott vizsgálat</td><td>Nem gyógyszerrel folytatott vizsgálat</td></tr><tr><td>Retrospektív vizsgálat<br>A vizsgálat előírt gyógyszerbiztonsági vizsgálat</td><td>Prospektív vizsgálat<br>Igen Nem</td></tr><tr><td></td><td></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">4. Vizsgálati helyszín(ek)<br>Dátum: ..................................................<br>................................................<br>megbízó aláírása</td></tr></tbody></table>
+
+## 3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^113]
+
+**Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszámuk**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | Hatáskör/Illetékesség | A szerv megnevezése | Számlaszám |
+| **2.** | 1. Az emberen végzett orvostudományi kutatások, kivéve a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokat, az orvostechnikai eszközökkel végzett klinikai vizsgálatokat, az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokat – ide nem értve az 1. § (2) bekezdésében meghatározott vizsgálatokat –, valamint a 3–12. sorban meghatározott eseteket | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Országos Kórházi Főigazgatóság 10032000-00362241- 00000000 |
+| **3.** | Semmelweis Egyetem és intézményei | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
+| **4.** | A rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00290469 |
+| **4a.** | Magyar Honvédség egészségügyi intézményei | Magyar Honvédség Egészségügyi Központ Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00005620-06010028 |
+| **5.** | Budapesti székhelyű országos intézetek | Országos Onkológiai Intézet Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-01490538- 00000000 |
+| **6.** | Pesti és Pest vármegye Dunától keletre eső területén székhellyel rendelkező, a 3–5. sorban nem szereplő egészségügyi intézmények | Uzsoki utcai Kórház Regionális Tudományos és Kutatásetikai Bizottsága | 11784009-15492674 |
+| **7.** | Észak-budai kerületek (II., III., XII. kerület) területén székhellyel rendelkező egyéb egészségügyi intézmények | Észak-Közép-budai centrum Új Szent János Kórház és Szakrendelő Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 11784009-15492564 |
+| **8.** | Közép-dél-budai kerület (I., XI., XXII. kerület) és Pest vármegye Dunától nyugatra eső területén székhellyel rendelkező, a 3–5. sorban nem szereplő egészségügyi intézmény | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Regionális és Intézményi Kutatás Etikai Bizottsága | 10023002 00317186- 00000000 |
+| **9.** | Hajdú-Bihar és Szabolcs-Szatmár-Bereg vármegye területén székhellyel rendelkező egészségügyi intézmények | Debreceni Egyetem Klinikai Központ Regionális, Intézményi, Tudományos és Kutatásetikai Bizottság | 10034002-00282981 |
+| **10.** | Baranya, Somogy és Tolna vármegye területén székhellyel rendelkező egészségügyi intézmények | Pécsi Tudományegyetem Klinikai Központ Regionális Kutatásetikai Bizottság | 10024003-00283236 |
+| **11.** | Csongrád-Csanád, Bács-Kiskun, Békés és Jász-Nagykun-Szolnok vármegye területén székhellyel rendelkező egészségügyi intézmények, a 4. sorban meghatározott egészségügyi intézmények kivételével | Szegedi Tudományegyetem Regionális és Intézményi Humán Orvosbiológiai Kutatásetikai Bizottság | 10028007-00282802 |
+| **12.** | Borsod-Abaúj-Zemplén, Heves és Nógrád vármegye területén székhellyel rendelkező egészségügyi intézmények | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház Regionális/Intézményi Tudományos és Kutatásetikai Bizottság | 11994002-06066651 |
+| **13.** | Vas, Zala és Veszprém vármegye területén székhellyel rendelkező egészségügyi intézmények | Markusovszky Egyetemi Oktatókórház Regionális/ Intézményi Tudományos és Kutatásetikai Bizottság | 11747006-15420026 |
+| **14.** | Győr-Moson-Sopron, Komárom-Esztergom és Fejér vármegye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság | 10200249-33018597 |
+| **15.** | Gyógyszerrel végzett beavatkozással nem járó vizsgálatok | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
+| **16.** | Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
+
+## 4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^114]
+
+---
+
+[^1]: Az 1. § a 13/2022. (IV. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^2]: A 2. § a) pontja a 13/2022. (IV. 29.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § b) pontja a 13/2022. (IV. 29.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés c) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^5]: A 2. § d) pontja a 13/2022. (IV. 29.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § e) pontja a 13/2022. (IV. 29.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés f) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^8]: A 2. § (1) bekezdés h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 34/2009. (X. 20.) EüM rendelet 3. § (1) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés i) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^10]: A 2. § (2) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^11]: A 3. § (6) bekezdése a 9/2015. (II. 10.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (4) bekezdés g) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdés k) pontja a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^14]: A 4. § (5) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (5) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (6) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (7) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^18]: A 4/A. §-t a 31/2009. (X. 20.) EüM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^19]: A 4/B. §-t a 31/2009. (X. 20.) EüM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^20]: A 4/B. § (2) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^21]: A 4/B. § (2) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^22]: A 4/C. §-t a 17/2025. (VI. 4.) BM rendelet 1. §-a iktatta be.
+[^23]: Az 5. §-t megelőző alcím a 16/2014. (III. 12.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^24]: Az 5. § (1) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
+[^25]: Az 5. § (2) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
+[^26]: A 6. § (1) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § e) pontja szerint módosított szöveg.
+[^27]: A 6. § (6) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^33]: A 12. § (1) bekezdése az 1/2007. (I. 24.) EüM rendelet 3. § (2) bekezdésének b) pontja, a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés b) pontja, a 13/2022. (IV. 29.) EMMI rendelet 18. § 1. pontja szerint módosított szöveg. A 31/2009. (X. 20.) EÜM rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^34]: A 12. § (6) bekezdését a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^35]: A 12. § (7) bekezdése a 31/2009. (X. 20.) EüM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^36]: A 12. § (8) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^38]: A 14. § (1) bekezdése a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^39]: A 14. § (2) bekezdése a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^40]: A 15. §-t és az azt megelőző alcímet a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 34/2009. (X. 20.) EüM rendelet 3. § (2) bekezdése iktatta be.
+[^44]: A 19. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 19. § (2) bekezdését a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés m) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^46]: A 19. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 23. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^47]: A 20. § a 13/2022. (IV. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^48]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^49]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^50]: A 20/B. § a) pontja a 16/2014. (III. 12.) EMMI rendelet 5. § a) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § e) pontja, a 13/2022. (IV. 29.) EMMI rendelet 18. § 2. pontja szerint módosított szöveg. A 31/2009. (X. 20.) EÜM rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^51]: A 20/B. § b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 12. § f) pontja, a 13/2022. (IV. 29.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg. A 31/2009. (X. 20.) EÜM rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^52]: A 20/B. § c) pontja a 35/2021. (VIII. 16.) EMMI rendelet 12. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 18. § 4. pontja szerint módosított szöveg.
+[^53]: A 20/B. § e) pontja a 35/2021. (VIII. 16.) EMMI rendelet 12. § h) pontja szerint módosított szöveg.
+[^54]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
+[^55]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^56]: A 20/C. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^59]: A 20/F. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^60]: A 20/F. § (1) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^61]: A 20/F. § (2) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 18. § 5. pontja szerint módosított szöveg.
+[^62]: A 20/G. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^63]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be. [A 13/2022. (IV. 29.) EMMI rendelet 19. §-ában foglalt módosítás, mely szerint a 20/H. § f) pontjában hatályát veszti a „beavatkozással nem járó” szövegrész, nem vezethető át.]
+[^64]: A 20/H. § (1) bekezdés nyitó szövegrésze a 13/2022. (IV. 29.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.
+[^65]: A 20/H. § (1) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 18. § 7. pontja szerint módosított szöveg.
+[^66]: A 20/H. § (4) bekezdés nyitó szövegrésze a 13/2022. (IV. 29.) EMMI rendelet 18. § 8. pontja szerint módosított szöveg.
+[^67]: A 20/H. § (4) bekezdés b) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^68]: A 20/H. § (4) bekezdés c) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^69]: A 20/H. § (5) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^70]: A 20/H. § (6) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 18. § 9. pontja szerint módosított szöveg.
+[^71]: A 20/H. § (6a) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 7. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^72]: A 20/H. § (7) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^73]: A 20/I. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^74]: A 20/J. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 18. § 10. pontja szerint módosított szöveg.
+[^75]: A 20/J. § (2) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^79]: A 20/N. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^80]: A 20/O. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^81]: A 20/O. § (6) bekezdése a 41/2025. (IX. 29.) BM rendelet 3. §-a szerint módosított szöveg.
+[^82]: A 20/P. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^83]: A 20/P. § (1) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 12. § m) pontja, a 13/2022. (IV. 29.) EMMI rendelet 18. § 11. pontja szerint módosított szöveg.
+[^84]: A 20/P. § (2) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^85]: A 20/P. § (3) bekezdése a 16/2014. (III. 12.) EMMI rendelet 5. § b) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § n) pontja szerint módosított szöveg.
+[^86]: A 20/Q. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege az 52/2012. (XII. 27.) EMMI rendelet 5. §-a, a 8/2018. (II. 13.) EMMI rendelet 9. § b) pontja szerint módosított szöveg.
+[^87]: A 20/R. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^88]: A 20/R. § (1) bekezdése a 8/2018. (II. 13.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^89]: A 20/R. § (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^90]: A 20/R. § (3) bekezdés a) pontja a 15/2012. (VIII. 22.) EMMI rendelet 22. § (2) bekezdésével megállapított, a 2/2022. (I. 14.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^91]: A 20/R. § (3) bekezdés a) pont aa) alpontja a 3/2014. (I. 16.) EMMI rendelet 2. §-a, a 61/2024. (XII. 30.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^92]: A 20/R. § (3) bekezdés a) pont ab) alpontja a 6/2026. (III. 2.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^93]: A 20/R. § (3) bekezdés b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 13/2022. (IV. 29.) EMMI rendelet 18. § 12. pontja, a 16/2025. (V. 29.) BM rendelet 6. §-a szerint módosított szöveg.
+[^94]: A 20/R. § (3) bekezdés c) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított, a 6/2026. (III. 2.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^95]: A 20/R. § (5) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^96]: A 20/R. § (8) bekezdés záró szövegrésze a 15/2012. (VIII. 22.) EMMI rendelet 25. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § o) pontja szerint módosított szöveg.
+[^97]: A 20/R. § (8) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^98]: A 20/R. § (10) bekezdését a 8/2018. (II. 13.) EMMI rendelet 10. § f) pontja hatályon kívül helyezte.
+[^99]: A 20/S. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^100]: A 20/S. § (1) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § g) pontja, a 8/2018. (II. 13.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
+[^101]: A 20/S. § (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § h) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § p) pontja szerint módosított szöveg.
+[^103]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 145. pontja hatályon kívül helyezte, újonnan a 15/2012. (VIII. 22.) EMMI rendelet 23. §-a iktatta be.
+[^104]: A 21. § (3) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 23. §-a iktatta be, szövege a 35/2021. (VIII. 16.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^105]: A 21. § (3) bekezdés b) pontja a 13/2022. (IV. 29.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^106]: A 21. § (3) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 15. §-a iktatta be.
+[^107]: A 22. §-t a 35/2021. (VIII. 16.) EMMI rendelet 11. §-a iktatta be.
+[^108]: A hatálybalépés időpontja 2021. augusztus 17.
+[^109]: A hatálybalépés időpontja 2021. augusztus 17.
+[^110]: A 23. § a 13/2022. (IV. 29.) EMMI rendelet 16. §-a iktatta be.
+[^111]: Az eredeti melléklet számozását 1. számú mellékletre változtatta az 1/2007. (I. 24.) EüM rendelet 2. § c) pontja, szövege a 2/2022. (I. 14.) EMMI rendelet 5. §-ával megállapított, a 13/2022. (IV. 29.) EMMI rendelet 18. § 13–14. pontja, a 45/2022. (XII. 20.) BM rendelet 24. §-a, az 55/2022. (XII. 27.) BM rendelet 3. §-a, a 6/2026. (III. 2.) BM rendelet 1. § (1) bekezdése és 2. § c) pontja szerint módosított szöveg.
+[^112]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése, a 3/2014. (I. 16.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^113]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 17. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 24. §-a, az 55/2022. (XII. 27.) BM rendelet 3. §-a, a 28/2023. (VIII. 10.) BM rendelet 12. § (1) bekezdése, a 6/2026. (III. 2.) BM rendelet 1. § (2) bekezdése és 2. § d) pontja szerint módosított szöveg.
+[^114]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.

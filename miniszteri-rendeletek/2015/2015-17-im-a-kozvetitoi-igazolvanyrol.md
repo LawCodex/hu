@@ -1,0 +1,104 @@
+---
+title: "17/2015. (VIII. 28.) IM rendelet a közvetítői igazolványról"
+identifier: "17/2015. (VIII. 28.) IM rendelet"
+njt_id: "2015-17-20-06"
+eli: "https://njt.jog.gov.hu/eli/R/2015/IM/17"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2015-08-28
+in_force_from: 2015-10-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-17-20-06"
+retrieved: 2026-10-12
+---
+
+# 17/2015. (VIII. 28.) IM rendelet a közvetítői igazolványról
+
+A közvetítői tevékenységről szóló 2002. évi LV. törvény 40. § *a)* pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §
+
+(1) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) a közvetítő részére az 1. melléklet szerinti közvetítői igazolványt (a továbbiakban: igazolvány) állít ki.
+
+(2) Az igazolvány ID/2 méretű, laminált fóliával fedett papírkártya, amely biztonsági okmányként kerül kibocsátásra.
+
+(3) A közvetítő a névjegyzékbe vételi eljárás során, vagy új igazolványa kiállításához elektronikus úton, vagy papír alapon két darab felismerésre alkalmas színes arcképet (igazolványképet) küld meg a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére.
+
+## 2. §
+
+(1) Az igazolvány a közvetítőnek közvetítői tevékenység végzésére való jogosultságát igazolja, és – a személyazonosság igazolását kivéve – hatósági igazolvány felmutatása nélkül is tanúsítja a benne foglalt adatokat.
+
+(2) Az igazolványt a közvetítő kizárólag a közvetítői tevékenysége során használhatja fel.
+
+## 3. §
+
+(1) Az igazolványt a közvetítő köteles megőrizni és eljárása során magánál tartani. Az igazolványt a közvetítői tevékenységre való jogosultság igazolására az eljárásban résztvevő fél, vagy abban érintett személy kérésére fel kell mutatni.
+
+(2) Az igazolvány másra át nem ruházható, letétbe nem helyezhető, biztosítékul nem adható és nem fogadható el.
+
+## 4. §
+
+(1) Az igazolvány érvénytelenné válik, ha a közvetítőt törlik a közvetítői névjegyzékből, továbbá ha az igazolvány megrongálódott, elveszett, eltulajdonították vagy megsemmisült (a továbbiakban együtt: érvénytelenség).
+
+(2) Új igazolvány kiállítása céljából a közvetítő köteles az igazolvány érvénytelenné válását – a törlésből eredő érvénytelenség kivételével – haladéktalanul, de legkésőbb 15 napon belül bejelenteni a miniszternek.
+
+## 5. §[^1]
+
+## 6. §
+
+(1) Az igazolványt be kell vonni, ha
+
+a) a közvetítőt törlik a közvetítői névjegyzékből,
+
+b) az igazolvány megrongálódott,
+
+c) az igazolvány adataiban változás következett be, vagy
+
+d) az elveszett, eltulajdonított igazolvány előkerült.
+
+(2)[^2] A miniszter részére az igazolvány bevonásáról hozott határozatának megfelelően megküldött vagy átadott, bevont igazolványt meg kell semmisíteni.
+
+## 7. §
+
+A minisztérium
+
+a) kiállítja az igazolványt, és azt a közvetítőnek a személyazonosság és az átvétel igazolása mellett átadja,
+
+b) nyilvántartást vezet a kiállított igazolványokról,
+
+c) ha új igazolvány kiadásának alapjául szolgáló körülmény bekövetkezéséről tudomást szerez hivatalból, egyébként a közvetítő bejelentése alapján gondoskodik az igazolvány bevonásáról és új igazolvány kiadásáról,
+
+d)[^3] intézkedik az érvénytelen igazolvány sorszámának és az érvénytelenség tényének a kormányzati portálon történő közzétételéről,
+
+e) ellátja a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendeletben a biztonsági okmány kibocsátója részére előírt feladatokat.
+
+## 8. §
+
+(1) Ez a rendelet 2015. október 1-jén lép hatályba.
+
+(2)[^4]
+
+## 9. §
+
+(1) E rendelet hatálybalépésekor a közvetítők igazolványáról szóló 2/2003. (III. 13.) IM rendelet alapján kiadott igazolványok érvényessége e rendelet szerinti érvénytelenné válásig, illetve bevonásig megmarad.
+
+(2) E rendelet hatálybalépésekor folyamatban lévő eljárásokban az 1. § (3) bekezdésében foglaltakat úgy kell alkalmazni, hogy az arckép (igazolványkép) megküldésére a miniszter levélben szólítja fel a közvetítőt.
+
+(3) A közvetítők e rendelet hatálybalépését megelőzően kiállított igazolványait a miniszter 2017. március 31-ig bevonja, és az 1. melléklet szerinti igazolványra kicseréli. Ehhez a közvetítőknek elektronikus úton, vagy papír alapon két darab felismerésre alkalmas színes arcképet (igazolványképet) kell megküldeniük a minisztérium erről szóló írásbeli tájékoztatásának kézhezvételét követő 30 napon belül. A minisztérium az új igazolvány átvételének módjáról a közvetítőt írásban tájékoztatja.
+
+## 10. §
+
+E rendelet a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanács irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 17/2015. (VIII. 28.) IM rendelethez
+
+![](https://njt.jog.gov.hu/picture/a8/a85d2015_06__20000017ADA1_000_0.jpg)
+
+---
+
+[^1]: Az 5. §-t a 20/2017. (XII. 21.) IM rendelet 45. § (3) bekezdése hatályon kívül helyezte.
+[^2]: A 6. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^3]: A 7. § d) pontja a 20/2017. (XII. 21.) IM rendelet 45. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

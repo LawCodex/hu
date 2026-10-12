@@ -1,0 +1,1841 @@
+---
+title: "45/2019. (IX. 25.) AM rendelet az állattenyésztés részletes szabályairól"
+identifier: "45/2019. (IX. 25.) AM rendelet"
+njt_id: "2019-45-20-7R"
+eli: "https://njt.jog.gov.hu/eli/R/2019/AM/45"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2019-09-25
+in_force_from: 2019-09-26
+last_amended: 2024-12-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-45-20-7R"
+retrieved: 2026-10-12
+---
+
+# 45/2019. (IX. 25.) AM rendelet az állattenyésztés részletes szabályairól
+
+Az állattenyésztés szabályozásához szükséges törvényi szintű rendelkezésekről szóló 2019. évi LVI. törvény 9. § (2) bekezdés a)–e) pontjában,
+
+az 57. § tekintetében a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (3) bekezdésében,
+
+az 58. § tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében
+
+kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1) E rendelet hatálya az állattenyésztésről szóló 188/2019. (VII. 30.) Korm. rendelet (a továbbiakban: Átr.) 1. § (1) bekezdésében meghatározott állatfajok tenyésztésére terjed ki.
+
+(2) E rendelet rendelkezéseit a szarvasmarha, a zebu, a bivaly, a házisertés, a juh, a kecske, a ló és a szamár esetében akkor kell alkalmazni, ha a 2016/1012/EU európai parlamenti és tanácsi rendelet eltérő rendelkezést nem tartalmaz.
+
+(3) A IV. fejezet előírásait nem kell alkalmazni
+
+a) a friss sperma üzemen belüli termelésére és annak kizárólag a saját állatállomány termékenyítésére való felhasználására, kivéve, ha az szolgáltatási, illetve köztenyésztési célból történik;
+
+b) a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által minőségbiztosítási céllal üzemeltetett, kereskedelmi tevékenységet nem folytató szaporítóanyag-elkülönítő lerakatra.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+(1) E rendelet alkalmazásában
+
+1\. *donor:* az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által elismert tenyésztőszervezet (a továbbiakban: tenyésztőszervezet) által embrióátültetési programban petesejt-, illetve embriótermelésre kijelölt nőivarú állat;
+
+2\. *embrió:* az állat korai fejlődési stádiuma, ameddig azt egy recipiens állatba át lehet ültetni;
+
+3\. *ex-situ megőrzés:* a fajta kialakulásakor jellemző, eredeti tartási, takarmányozási vagy szelekciós feltételektől eltérő állattartási technológiák és művi eljárások alkalmazása a tenyészállatnevelésben és a tenyésztésben;
+
+4\. *génbank:* a szaporítóanyag és genetikai minta laboratóriumi körülmények közötti megőrzése céljából létrehozott in-vitro tároló;
+
+5\. *hal eredetigazolás:* az üzemeltető által kiállított, a halkeltető állomásról származó haltétel eredetét igazoló okirat;
+
+6\. *haltétel:* azonos fajú, azonos fajtájú, azonos korosztályú halak azon csoportja, amely értékesítése, illetve szállítása egy szállítóeszközön azonos időben történik;
+
+7\. *INTRA/KÁBO szám:* az Európai Unió által működtetett TRACES rendszer által képzett, az Európai Unión Belüli Bizonyítványok/Közös Egészségügyi Beléptetési Okmányok azonosítására kiadott szám;
+
+8\. *in-situ megőrzés:* a fajta kialakulásakor jellemző, eredeti tartási, takarmányozási és szelekciós feltételek biztosítása a génmegőrzés során;
+
+9\. *in-vitro megőrzés:* szaporítóanyag, genetikai minta megőrzése laboratóriumi körülmények között;
+
+10\. *in-vivo megőrzés:* a fajta, illetve a fajta genetikai állományának élő egyedek útján történő megőrzése;
+
+11\. *kiviteli származási igazolás:* a tenyészállat és a szaporítóanyag tenyésztési adatairól a törzskönyv vagy a tenyésztési főkönyv alapján kiállított közokirat, amely az állat származásának nemzetközi igazolására szolgál;
+
+12\. *köztenyésztés:* az apaállatnak vagy az apaállat szaporítóanyagának az apaállat tartási helyétől eltérő tartási helyen lévő állomány egyedével történő szaporítása;
+
+13\. *kutya show:* olyan ebbel kapcsolatos rendezvény, ahol tenyésztési adat nem keletkezik;
+
+14\. *nukleusz állomány:* a fajta genetikai állományának biztonságos, beltenyésztéses leromlás nélküli, hosszú távú megőrzését biztosító tenyészállatok előállítására szolgáló, kiemelten szelektált állomány;
+
+15\. *recipiens:* nőivarú állat, amelyet embrióátültetési programban befogadóként használnak;
+
+16\. *regisztrált egyed:* a tenyésztőszervezet törzskönyvi nyilvántartásában szereplő egyed;
+
+17\. *tenyészeb:* olyan, azonosító számmal vagy jellel ellátott és nyilvántartott, ivarában megtartott eb, amely egyedileg azonosítható, szerepel a tenyésztőszervezet törzskönyvi nyilvántartásában, és megfelel a tenyésztőszervezet tenyésztési programjában meghatározott tenyészthetőségi feltételeknek;
+
+18\. *tenyészeb kiállítás:* egy-, több- vagy összfajtás, az ebek felvezetésével, küllemi bírálatával, illetve munkateljesítményének bemutatásával járó olyan rendezvény, ahol hazai vagy nemzetközi bírói listán szereplő bíró a tenyésztőszervezet vagy nemzetközi szervezet előírásai szerint tenyészebet minősít, amelynek eredménye tenyésztési adatként törzskönyvi bejegyzésre kerül;
+
+19\. *tenyészhal:* a tenyésztőszervezet által fenntartott halfajhoz vagy halfajtához tartozó tenyészállat, beleértve a lárvát, előnevelt ivadékot és az ivadéknövendéket;
+
+20\. *termelőtelep:* az 1234/2007/EK tanácsi rendeletnek a keltetőtojások és a naposcsibék termelése és forgalmazása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 27-i 617/2008/EK bizottsági rendelet (a továbbiakban: 617/2008/EK bizottsági rendelet) 1. cikk 3. pont *a)* és *b)* alpontja szerinti tenyésztelep, illetve szaporítótelep;
+
+21\. *törzsállomány azonosító szám:* az Állat, Növény, Élelmiszer-biztonsági és Borminősítési Információs Rendszer (a továbbiakban: FELIR-ALI) részét képező Baromfi Információs Rendszer által képzett és a NÉBIH által kiadott hatjegyű szám, amely a baromfi törzsállományok azonosítására szolgál.
+
+(2) Az (1) bekezdésben nem szereplő fogalmakat az Átr.-ben meghatározottak szerint kell értelmezni.
+
+## II. Fejezet — A TENYÉSZTŐSZERVEZETEK MŰKÖDÉSÉVEL KAPCSOLATOS SZABÁLYOK
+
+#### 3. §
+
+Tenyészállatot kizárólag tenyésztőszervezet, jóváhagyott tenyésztési program alapján törzskönyvezhet és láthat el származási igazolással.
+
+#### 4. §
+
+A tenyésztőszervezetek elismeréséhez szükséges legkisebb állatlétszámokat az 1. melléklet tartalmazza.
+
+#### 5. §
+
+(1) A 2016/1012/EU európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában felsorolt állatok esetében
+
+a) a törzskönyvet a 2016/1012/EU európai parlamenti és tanácsi rendeletben foglaltak szerint kell vezetni,
+
+b) a származási igazolást az (EU) 2016/1012 európai parlamenti és tanácsi rendeletnek a tenyészállatok és szaporítóanyagaik származásiigazolás-mintái tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. április 10-i (EU) 2017/717 bizottsági végrehajtási rendelet szerint kell kiállítani.
+
+(2) A törzskönyv és a tenyésztési főkönyv vezetésének, valamint a származási igazolás kiállításának szabályait
+
+a) házi nyúl, csincsilla, emu és strucc törzskönyve és származási igazolása esetén a 2. melléklet,
+
+b) az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve és származási igazolása esetén a 3. melléklet,
+
+c) fajtatiszta baromfi törzskönyve és származási igazolása esetén a 4. melléklet,
+
+d) keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve és származási igazolása esetén az 5. melléklet,
+
+e) ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve és keresztezési, illetve hibridizációs programokban részt vevő állomány tenyésztési főkönyve és származási igazolása esetén a 6. melléklet,
+
+f) mézelő méh törzskönyve és származási igazolása esetén a 7. melléklet
+
+tartalmazza.
+
+(3) Valamennyi állatfaj esetén
+
+a) a törzskönyvi osztályba sorolást a tenyésztési programban meghatározott feltételek szerint kell végezni,
+
+b) a törzskönyv formája könyv, jegyzék, kartoték vagy más hitelesíthető adathordozó lehet,
+
+c) a törzskönyv a tenyésztőszervezetnél, vagy annak megbízásából az adatfeldolgozó személynél, intézménynél vezethető,
+
+d) a törzskönyv tartalmazza a NÉBIH által képzett és nyilvántartott fajtakódot.
+
+(4) A tenyésztési programban – az Átr.-ben meghatározottakon túl – részletesen szabályozni kell
+
+a) a tenyészállatok és a tenyésztési program végrehajtásához szükséges utódaik meghatározott határidőn belüli megjelölését,
+
+b) a fedeztetési, termékenyítési dátumok és az ellési vagy fialási dátumok meghatározott határidőn belüli bejelentését a tenyésztőszervezet vagy megbízottja részére,
+
+c) a tenyésztő üzemekben, a tenyésztőnél a törzskönyvbevétel alapjaként
+
+ca) az alapbizonylatok készítését a tenyészállatok azonosítójáról, ismertetőjeleiről, származásáról és a fedeztetési vagy termékenyítési dátumokról, az ellési vagy fialási dátumokról,
+
+cb) embrióátültetésből származó tenyészállatokról készített kiegészítő feljegyzések készítésének módját a genetikai szülőkről, a recipiensről és az embrióról, a termékenyítés időpontjáról, az embriónyerés és -átültetés időpontjáról és az embrióátültető állomás nevéről, címéről, és
+
+d) a felelősség viselését a jelölésért, az előírt bejelentésekért, a feljegyzésekért, valamint a regisztrációkért.
+
+## III. Fejezet — AZ ÁLLAMI TULAJDONÚ APAÁLLAT ÉS SZAPORÍTÓANYAG KIHELYEZÉSE
+
+#### 6. §
+
+A NÉBIH gondoskodik a kezelésében lévő állami tulajdonú apaállatok és szaporítóanyagok kihelyezés útján történő forgalmazásáról (a továbbiakban: kihelyezés).
+
+#### 7. §
+
+A NÉBIH köztenyésztés céljára akkor helyez ki állami tulajdonú apaállatot, ha a tenyésztőszervezet vagy a tenyésztőszervezetek szövetsége (a továbbiakban: szövetség) szerződésben vállalja
+
+a) a NÉBIH előírásai szerint megfelelő állattartóhely biztosítását és a szakszerű használatot,
+
+b) a kihelyezés és esetleges áthelyezés lebonyolítását,
+
+c) az állami tulajdonú apaállatok nyilvántartásához szükséges adatszolgáltatást, és
+
+d) a felülvizsgálattal, selejtezéssel és elhullással együtt járó tevékenységeket és jelentési kötelezettséget.
+
+#### 8. §
+
+Állami tulajdonú szaporítóanyag csak mesterséges termékenyítő állomásról vagy spermatároló központból helyezhető ki, ha a mesterséges termékenyítő állomás vagy a spermatároló központ betartja az e rendeletben előírtakat, valamint szerződésben vállalja
+
+a) az állami tulajdonú szaporítóanyagoknak a tenyésztőszervezetekkel vagy a szövetséggel egyeztetett helyre juttatását és célpárosításhoz való felhasználását, valamint
+
+b) az állami tulajdonú szaporítóanyag nyilvántartásával járó feladatokat.
+
+#### 9. §
+
+Az állami tulajdonú apaállatokról és szaporítóanyagokról a NÉBIH nyilvántartást vezet. A nyilvántartáshoz szükséges adatokat a tenyésztőszervezet, a szövetség, illetve a bejelentett, az üzemeltetéshez szükséges feltételekkel rendelkező mesterséges termékenyítő állomás, spermatároló központ szolgáltatja a 7. § c) pontja és a 8. § b) pontja alapján. Az adatszolgáltatás módját és rendjét a NÉBIH szerződésben állapítja meg.
+
+#### 10. §
+
+(1) Az állami tulajdonú apaállatokat a 7. § szerinti tenyésztőszervezet vagy szövetség évente felülvizsgálja, amelyről jegyzőkönyvet készít. A jegyzőkönyv tartalmazza az állami tulajdonú apaállat
+
+a) központi lajstromszámát, főtörzskönyvi számát,
+
+b) ENAR számát, lovak esetén azonosító számát,
+
+c) tenyésztési és állategészségügyi állapotát,
+
+d) tartásának körülményeit,
+
+e) által történt termékenyítések számát, és
+
+f) használatának megfelelőségét.
+
+(2) A felülvizsgálatról jelentést kell készíteni, amely tartalmazza a felvett jegyzőkönyvet, az állami tulajdonú apaállat további használatára vonatkozó véleményt és javaslatot. A jelentést a NÉBIH részére tizenöt napon belül meg kell küldeni.
+
+#### 11. §
+
+(1) Az állami tulajdonú apaállat áthelyezéséről, illetve selejtezéséről a NÉBIH dönt.
+
+(2) A selejtezett állami tulajdonú apaállatot a NÉBIH előírásai szerint kell hasznosítani, és a 9. § szerinti nyilvántartásból törölni kell.
+
+#### 12. §
+
+Az állami tulajdonú szaporítóanyagok selejtezéséről a mesterséges termékenyítő állomás, spermatároló központ javaslata alapján a NÉBIH dönt. Az állami tulajdonú szaporítóanyagot megsemmisítéssel kell kiselejtezni.
+
+#### 13. §
+
+(1) A tartási helyre kihelyezett állami tulajdonú apaállat tartójának az állat elhullását, illetve kényszervágását nyolc napon belül a tenyésztőszervezet vagy a szövetség, valamint a NÉBIH felé jelentenie kell. A jelentés tartalmazza az állami tulajdonú apaállat
+
+a) azonosító jelét és nyilvántartási számát,
+
+b) nyilvántartási értékét,
+
+c) tartási helyét, és
+
+d) az elhullás, illetve a kényszervágás okát, a kötelezően elkészítendő kórboncolási jegyzőkönyvvel együtt.
+
+(2) Az elhullott állami tulajdonú apaállatot a 9. § szerinti nyilvántartásból törölni kell.
+
+#### 14. §
+
+(1) A tartási helyre kihelyezett állami tulajdonú apaállatok szállításával, tartásával, előírt vagy szükséges állategészségügyi vizsgálatával, kezelésével, állategészségügyi selejtezési ok esetén a selejtezésével, illetve elhullásával kapcsolatban felmerült költségeket az viseli, akihez az állami tulajdonú apaállatot használatra kihelyezték.
+
+(2) Az állami tulajdonú apaállatokért fizetendő bérleti díjat – a védett őshonos fajták kivételével – a NÉBIH-hel évente megkötött szerződésben kell megállapítani
+
+a) a nyilvántartási érték,
+
+b) a tenyésztők részéről jelentkező igény,
+
+c) a várható hasznos élettartam,
+
+d) a tartási, gondozási, valamint az (1) bekezdésben meghatározott költségek, és
+
+e) a fedeztetési díjak mértéke
+
+figyelembevételével.
+
+(3) A (2) bekezdés alapján fizetendő díj a NÉBIH saját bevételének minősül, amelyet az apaállat-gazdálkodás céljára kell fordítani.
+
+## IV. Fejezet — A MŰVI SZAPORÍTÓ LÉTESÍTMÉNYEK ÉS SPERMATÁROLÓ KÖZPONTOK TEVÉKENYSÉGE
+
+### 3. A mesterséges termékenyítő állomás üzemeltetése
+
+#### 15. §
+
+A mesterséges termékenyítő állomásnak rendelkeznie kell a 8. melléklet szerinti műszaki feltételekkel.
+
+#### 16. §
+
+A mesterséges termékenyítő állomásnak az érintett tenyésztőszervezetekkel megállapodást kell kötnie, amelyben vállalja, hogy
+
+a) a tenyésztési programnak megfelelő apaállatokat állít be és használ,
+
+b) részt vesz a fajtafenntartó tenyésztőszervezet tenyésztési programjában, különösen az apaállatok ivadékvizsgálatában,
+
+c) az általa forgalmazott spermamennyiség arányában – figyelembe véve az import spermát is – részt vállal az ivadék teljesítményvizsgálatok, a termelésellenőrzés költségeiből,
+
+d) figyelembe veszi a teljesítményvizsgálatra vonatkozó elveket,
+
+e) szarvasmarha esetében
+
+ea) gondoskodik az ivadékvizsgálati származásellenőrzéshez szükséges vér-, szőr-, szövet- vagy egyéb biológiai minta begyűjtéséről és azok megvizsgáltatásáról,
+
+eb) a minőség szempontjából ellenőrizteti az ivadékvizsgálatra kijelölt bikasperma szériákat, valamint
+
+f) jogszabályban meghatározott módon részt vesz a tenyésztési adatok gyűjtésében és feldolgozásában.
+
+#### 17. §
+
+(1) A mesterséges termékenyítő állomás spermatermelésre olyan, a tenyésztőszervezet mesterséges termékenyítési engedélyével rendelkező apaállatot használ,
+
+a) amely megfelel a 2016/1012/EU európai parlamenti és tanácsi rendelet 21. cikkében előírtaknak,
+
+b) amelynek tenyészértéke a 2016/1012/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó, spermatermelésre használt állatfajok esetében eléri a fajtafenntartó tenyésztőszervezet által előírt teljesítményszintet, vagy az apaállatot ivadék teljesítményvizsgálatra jelölték ki,
+
+c) amely egészséges, és amelynél nem áll fenn spermán keresztül átvihető állatbetegség lehetősége,
+
+d) amely tenyésztéshigiéniai szempontból megfelelő, öröklődő genetikai ártalmaktól, kromoszóma rendellenességektől mentes, és
+
+e) amely szaporodásbiológiai szempontból megfelel a minőségi – bikák és kanok esetében a 9. melléklet szerinti – feltételeknek és követelményeknek.
+
+(2) A mesterséges termékenyítő állomás minden apaállatról, amelytől spermát nyertek, nyilvántartást vezet legalább az alábbi adattartalommal:
+
+a) az apaállat törzskönyvi nyilvántartási száma, faja, fajtája, származási országa, a vércsoportvizsgálat vagy más megfelelő és legalább ugyanolyan fokú bizonyosságot nyújtó módszer, például DNS-vizsgálat megtörténte, valamint az adat nyilvántartásának helye és kódja,
+
+b) az apaállat termékenyítésbe vételének időpontja, az állomásra érkezésének, távozásának időpontja és oka,
+
+c) a sperma levételének időpontja és feldolgozásának módja,
+
+d) a sperma minőségellenőrzésének adatai, a minőségtanúsítvány kiállításához szükséges adatok,
+
+e) a spermaadagok elhelyezése, valamint
+
+f) az egy ejakulátumból előállított dózisok száma, termelési száma, kiadása és az esetleges visszavételezések száma.
+
+#### 18. §
+
+(1) A tenyésztésre való alkalmasság szaporodásbiológiai megítéléséhez az apaállat mesterséges termékenyítésbe vételét megelőzően a NÉBIH laboratóriuma megvizsgálja, hogy az ondó minősége a 17. § (1) bekezdés e) pontja szerint megfelelő-e.
+
+(2) Ha a NÉBIH saját vizsgálati háttérrel nem rendelkezik az (1) bekezdés szerinti valamely vizsgálat elvégzéséhez, az apaállat tartója vagy megbízottja a NÉBIH által kijelölt laboratórium igazolását bemutatja a NÉBIH-nek.
+
+#### 19. §
+
+(1) A tenyésztőszervezet a termékenyítési engedélyt meghatározott számú inszeminálásra korlátozhatja, vagy feltételek teljesítéséhez kötheti, amennyiben a kitűzött tenyészcél elérése ezt szükségessé teszi, továbbá import esetén.
+
+(2) Azon állatfajok esetében, ahol a tenyészértékbecslés eredményei éven belüli gyakorisággal is változhatnak, az érintett tenyésztőszervezet a megállapított genetikai minőségszint alatti apaállat termékenyítési engedélyét a tenyészértékbecslés eredménye nyilvánosságra hozatalának napjától felfüggeszti.
+
+### 4. Az embrióátültető állomás üzemeltetése
+
+#### 20. §
+
+Az embrióátültető állomásnak
+
+a) rendelkeznie kell a 10. melléklet szerinti személyi és műszaki feltételekkel,
+
+b) biztosítania kell a működés és az állatok állategészségügyi felügyeletét,
+
+c) tevékenységét az állatfajta tenyésztési programjának figyelembevételével kell végeznie, valamint
+
+d) igazolnia kell, hogy donor és recipiens állománya, amennyiben a telephelyén azzal rendelkezik, megfelel az állategészségügyi és tenyésztéshigiéniai előírásoknak.
+
+#### 21. §
+
+(1) Az embrióátültető állomás petesejt és embrió termelésre olyan anyaállatot használhat, amelyet a tenyésztőszervezet erre a célra kijelölt vagy előzetesen elfogadott.
+
+(2) Amennyiben az anyaállat nem rendelkezik vércsoport-vizsgálati vagy más megfelelő és legalább ugyanolyan fokú bizonyosságot nyújtó módszer szerinti, például DNS-vizsgálati eredménnyel, származásellenőrzés céljára megfelelő mintát kell a NÉBIH laboratóriumába, vagy ennek hiányában a NÉBIH által kijelölt laboratóriumba küldeni.
+
+(3) A célpárosításhoz olyan mesterséges termékenyítési engedéllyel rendelkező apaállat spermáját kell használni, amelyet a tenyésztőszervezet az embrió előállítására kijelölt.
+
+#### 22. §
+
+Petesejtet, embriót felkínálni – az állategészségügyi feltételek biztosítása mellett – akkor lehet, ha
+
+a) az embrió és a petesejt kinyerése – mozgó állomás esetében is – állategészségügyileg ellenőrzött környezetben történt,
+
+b) az embrió egészséges tenyészállatoktól származik és minőségigazolással rendelkezik, és
+
+c) nem áll fenn fertőző állatbetegség átvitelének lehetősége.
+
+#### 23. §
+
+Az embriókat forgalmazásukkor
+
+a) származásigazolásnak,
+
+b) a genetikai szülők vércsoport-vizsgálati vagy más megfelelő és legalább ugyanolyan fokú bizonyosságot nyújtó módszer szerinti, például DNS-vizsgálati eredmény igazolásának, és
+
+c) az embrióátültető állomás minőségigazolásának
+
+kell kísérnie.
+
+### 5. A spermatároló központ üzemeltetése
+
+#### 24. §
+
+A spermatároló központnak meg kell felelnie a 11. melléklet szerinti tárgyi és műszaki feltételeknek.
+
+#### 25. §
+
+A spermatároló központ közreműködik a tenyésztőszervezet tenyésztési programjának végrehajtásában, amelynek keretében
+
+a) a tenyésztőszervezet által kiállított igazolással rendelkező, vagy a tenyészállatok és szaporítóanyagok behozatalára vonatkozó előírásoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak megfelelően az Európai Unió más tagállamából vagy harmadik országból behozott, a törzskönyvi vagy tenyésztési főkönyvi nyilvántartás feltételeinek megfelelő apaállatoktól levett spermát szerez be és tárol, illetve forgalmaz, valamint
+
+b) a tárolt és forgalmazott, az adott fajtához tartozó spermamennyiségről havi gyakorisággal jelentést küld a tenyésztőszervezetnek.
+
+#### 26. §
+
+(1) A spermatároló központban kizárólag a 2016/1012/EU európai parlamenti és tanácsi rendeletben, az Átr.-ben, e rendeletben, valamint a tenyésztőszervezet jóváhagyott tenyésztési programjában meghatározottak szerinti, mesterséges termékenyítési engedéllyel rendelkező apaállattól származó sperma helyezhető el.
+
+(2) Az Európai Unió más tagállamából és harmadik országból történő beszállításból származó sperma esetén az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa, valamint az Átr. szerint kell a forgalomba hozhatóságot megállapítani és a honosítási eljárást lefolytatni.
+
+### 6. A sperma tárolása
+
+#### 27. §
+
+(1) Sperma más állati eredetű termékkel együtt – a (8) bekezdésben foglalt kivétellel – egy légtérben nem tárolható.
+
+(2) Ugyanazon helyiségben különböző állatfajok spermáit kizárólag akkor szabad tárolni, ha a tárolás megbontatlan csomagolásban, egyedileg kiszerelve, raktározás-technikailag elkülönítve történik.
+
+(3) Az Európai Unió más tagállamából és a harmadik országból származó spermát a tárolás alatt elkülönítetten kell kezelni.
+
+(4) A forgalmazás céljára szolgáló raktárhelyiségben kizárólag e rendelet szerinti követelményeknek megfelelő sperma tárolható.
+
+(5) Tároló és szállítóedények a spermatároló központ területéről csak megfelelő fertőtlenítés és sterilizálás után szállíthatók ki.
+
+(6) A sperma beérkezésének és kiszállításának időpontját, a tárolás időtartamát, a beérkezett és kiszállított spermaadagok számát a spermatároló központ nyilvántartja.
+
+(7) A spermatároló központ a beérkezett szállítmányok eredeti kísérő okmányait megőrzi. A spermatároló központ megszűnése esetén ezen okmányokat a jogutódnak, vagy ennek hiányában az érintett tenyésztőszervezetnek át kell adni. Az okmányok nem selejtezhetőek.
+
+(8) Mélyhűtött embriók is tárolhatók az üzemeltetéshez szükséges feltételekkel rendelkező, bejelentett spermatároló központokban, amennyiben
+
+a)[^1] a tárolást a fővárosi és vármegyei kormányhivatalnak bejelentették,
+
+b) az embriók megfelelnek az állatfajok embrióinak az Európai Unión belüli kereskedelmére és harmadik országokból történő behozatalára vonatkozó előírásoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai követelményeinek, valamint
+
+c) az embriókat elkülönített tároló edényekben helyezik el az engedélyezett sperma tárolására szolgáló helyiségekben.
+
+### 7. Sperma forgalmazása mesterséges termékenyítő állomásról és spermatároló központból
+
+#### 28. §
+
+(1) Sperma mesterséges termékenyítő állomásról és spermatároló központból akkor forgalmazható, ha
+
+a) a sperma levétele mesterséges termékenyítő állomáson történt,
+
+b) az Európai Unió más tagállamából és harmadik országból beérkezett sperma esetében a honosítási eljárást lefolytatták,
+
+c) a sperma mesterséges termékenyítési engedéllyel rendelkező apaállattól származik,
+
+d) a kiszerelt spermaadagokat a spermát adó apaállat azonosítóival úgy jelölték meg, hogy azok összecserélése vagy az azokkal elkövetett visszaélések kizárhatóak,
+
+e) rendelkezésre áll a szaporítóanyag származási igazolása, illetve a spermát szolgáltató apaállat vércsoport-vizsgálati vagy más, a származásellenőrzés céljait szolgáló és legalább ugyanolyan fokú bizonyosságot nyújtó módszer szerinti, például DNS-vizsgálati eredménye, valamint
+
+f) a spermát adó apaállat nem hordoz ismert, az adott fajta tenyésztési programjában kizárásként nevesített genetikai rendellenességet.
+
+(2) A kevert sperma olyan ejakulátumokból származhat, amelyek egyedileg is mindenben megfelelnek az e rendeletben meghatározott feltételeknek.
+
+#### 29. §
+
+(1) A spermatételt a forgalmazás során a spermát forgalmazó mesterséges termékenyítő állomás vagy spermatároló központ által kibocsátott tanúsítványnak kell kísérnie, amely tartalmazza legalább a 12. melléklet szerinti adatokat.
+
+(2) Továbbértékesítés esetén a spermát továbbértékesítőnek a spermát szállítólevéllel, számlával és az (1) bekezdés szerinti eredeti tanúsítvány szükséges számú másolataival kell ellátnia. A spermát továbbértékesítő az értékesítésekről készített összesítővel havonta tájékoztatja a spermát forgalomba helyező mesterséges termékenyítő állomást vagy spermatároló központot.
+
+(3) A forgalomba hozott sperma minőségével kapcsolatban a forgalmazás során felmerült vita esetén az érdekelt fél megrendelésére a NÉBIH megvizsgáltatja, hogy a szaporítóanyag minőségi szempontból megfelel-e az e rendeletben foglalt követelményeknek.
+
+### 8. A baromfikeltető állomás üzemeltetése
+
+#### 30. §
+
+(1) Keltetésre
+
+a) valamely tenyésztőszervezet törzskönyvében vagy tenyésztési főkönyvében szereplő és a NÉBIH által nyilvántartásba vett törzsállománytól származó, az adott fajta tenyésztési programjában meghatározott minőségű, vagy
+
+b) a szaporítóanyagok behozatalára vonatkozó előírások, és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai által megkövetelt dokumentációval rendelkező, az Európai Unió más tagállamából vagy harmadik országból beszállított
+
+keltető- vagy tenyésztojás használható fel.
+
+(2) A belföldön forgalomba hozott keltető- és tenyésztojásoknak az adott fajta tenyésztési programjában meghatározott jelöléssel kell rendelkezniük, és az egyedi jelölésüket a termelőtelepen kell elvégezni.
+
+(3) Az Európai Unió más tagállamából vagy harmadik országból beszállított keltető- és tenyésztojások esetében a jelölésnek meg kell felelnie a 617/2008/EK bizottsági rendelet és e rendelet előírásainak.
+
+(4) Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a tenyész- és keltetőtojásoknak a termelőtelep azonosító számát tartalmazó egyedi jelölését a termelőtelepen kell elvégezni, és a tenyész- és keltetőtojásokon fel kell tüntetni a 13. melléklet szerinti azonosító számot.
+
+(5) A keltető- és tenyésztojásokhoz az állattartónak a termelőtelepről történő kiszállítást megelőzően az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban, valamint az Átr.-ben és e rendeletben meghatározott dokumentációt kell csatolnia.
+
+(6) A különböző termelőtelepekről származó tojások származás szerinti elkülönítését a baromfikeltető állomásnak a munkafolyamatok során végig biztosítania kell.
+
+#### 31. §
+
+(1) A keltetési tevékenységről a baromfikeltető állomásnak kétpéldányos, sorszámozott lapokból álló keltetési naplót kell naprakészen vezetni.
+
+(2) A keltetési napló tartalmazza
+
+a) a faj és fajta megnevezését,
+
+b) a törzsállomány azonosító számokat, az Európai Unió más tagállamából vagy harmadik országból beszállított tojások esetén az INTRA/KÁBO számokat,
+
+c) a keltetésre gépbe rakott tojások mennyiségét, a berakás időpontját,
+
+d) a kiesések mennyiségét (például lámpázási kiesések, befulladás), valamint
+
+e) a kikelt mennyiséget és a kelés dátumát.
+
+#### 32. §
+
+A baromfikeltető állomás ellenőrzéséhez szükséges mintavétel és a minősítés szabályait a 14. melléklet tartalmazza.
+
+### 9. A méhanyanevelő telep üzemeltetése, valamint a méhanya és szaporítóanyag előállítása, felhasználása
+
+#### 33. §
+
+A méhanyanevelő telepnek a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló jogszabály szerinti tenyészetkóddal kell rendelkeznie.
+
+#### 34. §
+
+(1) Méhanya és méhanya bölcső csak a 7. melléklet szerinti adattartalmú, az érintett tenyésztőszervezet által kiállított származási igazolással ellátva hozható forgalomba.
+
+(2) Méhanyanevelésre csak tenyésztőszervezet által fenntartott méhfajtát szabad felhasználni és forgalomba hozni.
+
+#### 35. §
+
+(1) A méhanyanevelő telep üzemeltetője a 15. melléklet szerinti adattartalommal méhanyanevelő telepi naplót köteles vezetni.
+
+(2) A méhanyanevelő telepi naplót naprakészen kell vezetni, és nem selejtezhető.
+
+(3) A méhanyanevelő telep megszűnése esetén a méhanyanevelő telepi naplót az érintett tenyésztőszervezet részére a megszűnést követő tizenöt napon belül át kell adni.
+
+### 10. A halkeltető állomások üzemeltetése, valamint a tenyészhalak és hal szaporítóanyag felajánlása, értékesítése
+
+#### 36. §
+
+A halkeltető állomásnak a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló jogszabály szerinti tenyészetkóddal kell rendelkeznie.
+
+#### 37. §
+
+(1) A halkeltető állomásnak a halkeltetési tevékenységéről kétpéldányos, sorszámozott lapokból álló halkeltetési naplót kell naprakészen vezetni.
+
+(2) A halkeltetési napló tartalmazza
+
+a) a halkeltető állomás tenyészetkódját,
+
+b) az ikrás és tejes tenyészhalak keltetőbe történő beszállításának időpontját és darabszámát,
+
+c) a tenyészhalak faj- és fajtamegjelölését az Átr.-ben, valamint e rendeletben foglalt adattartalmú, az érintett tenyésztőszervezet által kiállított származási igazolás alapján,
+
+d) a keltetőbe beszállított ikrásokból a lefejt ikrások százalékos arányát,
+
+e) a lefejt és termékenyített ikra mennyiségét kilogrammban,
+
+f) a termékenyülési százalékot,
+
+g) a kelés időpontját,
+
+h) a keltetőből kiadott lárva mennyiségét (darab) és a kiadás időpontját, valamint
+
+i) eladás esetén a vevő részére átadott eredetigazolások sorszámát.
+
+#### 38. §
+
+(1) Az üzemeltető köteles az eladott haltétel kísérő dokumentumaként a (2) bekezdés szerinti adattartalmú eredetigazolást a vevőnek átadni.
+
+(2) Az eredetigazolás tartalmazza
+
+a) az eredetigazolás sorszámát év/sorszám formátumban,
+
+b) az eredetigazolás kiállításának helyét és idejét,
+
+c) az eredetigazolást kiállító személy nevét és sajátkezű aláírását,
+
+d) az üzemeltető nevét és címét, valamint bélyegzőlenyomatát,
+
+e) a halkeltető állomás tenyészetkódját,
+
+f) a halfaj és -fajta megnevezését, keresztezett állományú haltétel esetében a keresztezés tényét,
+
+g) a haltétel kelésének dátumát,
+
+h) a haltétel nagyságát,
+
+i) a haltétel szüleinek azonosítóját, származási igazolásuk sorszámát, valamint
+
+j) a vevő tenyészetkódját, nevét és címét, illetve tenyészetkód hiányában a vevő nevét és címét.
+
+#### 39. §
+
+(1) A halkeltető állomásnak a tenyésztésre alkalmas tenyészhalakat a származást és a fajtát azonosító csoportos vagy egyedi jelöléssel kell ellátni.
+
+(2) Tenyészhal előállításra kizárólag törzskönyvben vagy tenyésztési főkönyvben szereplő, származási igazolással rendelkező szülők használhatók.
+
+(3) Halszaporításra kizárólag származási igazolással rendelkező tenyészhalak használhatók.
+
+## V. Fejezet — A VÉDETT ŐSHONOS MEZŐGAZDASÁGI ÁLLATFAJTÁK ÉS A VESZÉLYEZTETETT MEZŐGAZDASÁGI ÁLLATFAJTÁK GENETIKAI FENNTARTÁSA
+
+#### 40. §
+
+(1) A 16. mellékletben felsorolt védett őshonos mezőgazdasági és veszélyeztetett mezőgazdasági állatfajta megőrzéséről, fenntartásáról az adott fajta fenntartásáért felelős tenyésztőszervezet a fajta tenyésztésbe vont, a törzskönyv fő részébe sorolt nőivarú egyedeinek száma alapján, a 17. mellékletben meghatározott fenyegetettségi szintnek megfelelően kialakított tenyésztési program szerint köteles gondoskodni.
+
+(2) A védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági állatfajta fenntartását végző tenyésztőszervezet fajtafenntartói tevékenységének miniszter általi korlátozása, felfüggesztése esetén a fajtafenntartói tevékenységet a tevékenység korlátozásának, felfüggesztésének időtartama alatt a miniszter által kijelölt szervezet látja el.
+
+(3) A védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági állatfajta fenntartását végző tenyésztőszervezet jogutód nélküli megszűnése vagy elismerésének miniszter általi visszavonása esetén az adott állatfajta fenntartását az új tenyésztőszervezet elismeréséig a miniszter által kijelölt szervezet látja el.
+
+(4) A fajta megőrzése, fenntartása történhet
+
+a) in-vivo állapotban
+
+aa) in-situ feltételek között, vagy
+
+ab) ex-situ feltételek között, ha az in-situ feltételek közötti fenntartás nem valósítható meg, vagy ha azt a tenyészállat-nevelés, illetve -felhasználás indokolttá teszi;
+
+b) in-vitro feltételek között.
+
+#### 41. §
+
+(1) A 17. mellékletben meghatározott fenyegetettségi szintnek megfelelően kialakított tenyésztési programnak olyan szabályozást kell tartalmaznia, amely biztosítja a fajta fenntartását, a beltenyésztéses leromlás elkerülése és a fajta eredeti tulajdonságainak megőrzésére való törekvés mellett.
+
+(2) A védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági állatfajta megőrzésének, fenntartásának a tenyésztési program elkészítésénél figyelembe veendő elsődleges feladatai a következők:
+
+a) kritikus fenyegetettségi szinten lévő fajták esetében a létszám növelése, a tenyésztésbe vonható egyedek felderítése, a szaporítóanyag begyűjtése és a génbankban történő tárolása, egyedi célprogramok és intézkedések végrehajtása;
+
+b) védendő fenyegetettségi szinten lévő fajták esetében a létszám további növelése, a fajta szakszerű megőrzésére alkalmas tenyészetek kialakítása;
+
+c) megőrzendő fenyegetettségi szinten lévő fajták esetében a létszám tervszerű növelése vagy fenntartása, szükség esetén az eredeti tulajdonságokkal megőrzendő állomány törzskönyvi elkülönítése a termelési céllal szelekcióba vont populációtól.
+
+(3) A védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági állatfajták megőrzésének és fenntartásának céljából kidolgozott tenyésztési programnak az Átr.-ben és az 5. § (4) bekezdésében meghatározott előírásokon túl tartalmaznia kell
+
+1\. az állatfajta részletes leírását, kor és ivar szerinti elnevezéseit,
+
+2\. a fajtaazonosság vizsgálatának módszerét és igazolási rendjét,
+
+3\. a nukleusz állomány kijelölésének elveit,
+
+4\. a génbankban megőrzendő szaporítóanyag és genetikai minta meghatározását,
+
+5\. a törzskönyvi osztályba sorolás rendjét, a felderített egyedeknek a törzskönyv főtörzskönyvi és melléktörzskönyvi részébe történő beemelésének előírásait,
+
+6\. a tenyészvonalakat, illetve családokat, a párosítási terv készítésének elveit, a szelekció rendjét,
+
+7\. az apaállat használatának szabályait,
+
+8\. az adott fajta génkészletei felderítésének eljárását és hasznosítását,
+
+9\. az országos állattenyésztési adatbázisba történő adatküldés módját és rendjét,
+
+10\. a tenyészállat-forgalmazás, -export és -import szabályait,
+
+11\. az in-situ tartás feltételeit,
+
+12\. az ex-situ tartás feltételeit, annak indokoltságát,
+
+13\. a vágóállattá minősítés igazolásának rendjét, a hiteles törzskönyvi okiratnak minősülő igazolási mintát,
+
+14\. a tenyészet vagy részállomány felszámolása esetén követendő szabályozást, valamint
+
+15\. a fajta kialakuláskori genetikai állományának megőrzése érdekében a 17. melléklet szerinti, a tenyésztésbe vont, a törzskönyv főtörzskönyvi részébe sorolt nőivarú egyedek száma alapján meghatározott kritikus, védendő és megőrizendő fenyegetettségi szinteknek megfelelő intézkedéseket, tenyésztési módot.
+
+#### 42. §
+
+A védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági állatfajták létszámának kritikus szint alá süllyedése esetén az Átr. 36. § b) pontja alapján kidolgozott fajtarekonstrukciós tenyésztési programban – a 41. §-ban és az Átr.-ben meghatározott előírások mellett – meg kell határozni
+
+a) a fajtarekonstrukció időtartamát és az adott fajta új törzskönyvének létrehozási időpontját, amely megfelel az érintett fajta generációs intervallumának, valamint
+
+b) a fajtarekonstrukciós programba bevont egyedek létszámát és egyedi azonosító számát, baromfifélék esetén állományazonosítóját.
+
+## VI. Fejezet — A MAGYAR EBFAJTÁK
+
+### 11. A magyar ebfajták genetikai fenntartása
+
+#### 43. §
+
+(1) A 18. mellékletben felsorolt magyar ebfajták megőrzését a fajta fenntartásáért felelős tenyésztőszervezetnek a 17. mellékletben a tenyésztésbe vont nőivarú egyedek száma alapján meghatározott kritikus, védendő vagy megőrzendő helyzetet figyelembe vevő tenyésztési program kialakításával, valamint annak végrehajtásával kell biztosítania.
+
+(2) A magyar ebfajta megőrzése történhet
+
+a) in-vivo
+
+aa) in-situ feltételek között,
+
+ab) ex-situ feltételek között, amennyiben az in-situ feltételek közötti megőrzés nem valósítható meg, valamint
+
+b) in-vitro feltételek között.
+
+#### 44. §
+
+(1) A szaporítóanyag és genetikai minta in-vitro megőrzése céljából a NÉBIH, vagy – a NÉBIH ellenőrzése mellett – a génmegőrző intézmény
+
+a) génbankot hoz létre és gondoskodik a működtetéséről;
+
+b) nyilvántartást vezet a génbankban elhelyezett szaporítóanyagról és genetikai mintáról;
+
+c) a tenyésztőszervezet számára – kérésére – a génbankban elhelyezett, a tenyésztőszervezet jóváhagyott tenyésztési programjában rögzített fajta szaporítóanyagának és genetikai mintájának tekintetében adatot szolgáltat, valamint hozzáférést biztosít e szaporítóanyaghoz és genetikai mintához.
+
+(2) A génmegőrző intézmény az in-vitro megőrzésről a tenyésztési programban foglaltak figyelembevételével, a rendelkezésre álló források mértékéig gondoskodik.
+
+#### 45. §
+
+(1) A magyar ebfajta megőrzését szolgáló tenyésztési program végrehajtásáért felelős tenyésztőszervezet – mint fajtafenntartó – gondoskodik az ebfajta származási, tenyésztési és teljesítményvizsgálati adatainak gyűjtéséről, feldolgozásáról és nyilvántartásáról.
+
+(2) A magyar ebfajták törzskönyvezendő egyedeinek származását DNS alapú származásellenőrzéssel kell igazolni, amelynek elvégzését a fajta fenntartásáért felelős tenyésztőszervezet tenyésztési programjával összhangban koordinálja. Amennyiben a DNS alapú származásellenőrzés a nőivarú szülőnek a kölykök egyedi azonosítása előtt történő elhullása miatt nem lehetséges, a tenyésztőszervezet a tenyésztési programjában előírt dokumentumok alapján – például fedeztetési, ellési bizonylatok, szülők származási igazolása – állítja ki a kölykök részére a származási igazolást.
+
+(3) A fajta fenntartásáért felelős tenyésztőszervezetnek törekednie kell arra, hogy a tenyésztésbe vont állatok számát a 17. mellékletben meghatározott kritikus szint felett tartsa.
+
+### 12. A magyar ebfajták tenyésztési szabályai
+
+#### 46. §
+
+A magyar ebfajta törzskönyve vezetésének és származási igazolása kiállításának szabályait a 19. melléklet tartalmazza.
+
+#### 47. §
+
+(1) A magyar ebfajták fenntartásáért felelős tenyésztőszervezetként történő elismeréshez az Átr.-ben foglaltak mellett a következő feltételeknek is teljesülnie kell:
+
+a) a nem jogi személy tenyésztőszervezet vagy a jogi személy tenyésztőszervezet tagjai a kérelmezett fajtában legalább 10 nőivarú tenyészebbel rendelkeznek,
+
+b) a jogi személy tenyésztőszervezet létesítő okirata kimondja, hogy a tenyésztőszervezet rendes tagja kizárólag olyan személy lehet, aki rendelkezik legalább egy, a tenyésztőszervezethez tartozó fajtában regisztrált egyeddel,
+
+c) a jogi személy tenyésztőszervezet létesítő okirata biztosítja, hogy mindazon személyek, akik a tenyésztőszervezethez tartozó fajtájú törzskönyvben regisztrált vagy a törzskönyvbe bejegyezhető ebet tartanak vagy tenyésztenek, korlátozások nélkül, késleltetéstől mentesen beléphessenek az adott tenyésztőszervezetbe és gyakorolhassák tagsági jogukat, valamint
+
+d) a jogi személy tenyésztőszervezet biztosítja a tagok egyenlőségét, és döntéshozatali rendjében küldöttközgyűlést nem alkalmaz.
+
+(2) Az 5. § (4) bekezdésben foglaltakon túl a magyar ebfajtákra vonatkozó tenyésztési programnak tartalmaznia kell
+
+a) a tenyésztésbe vétel szabályait, így különösen a tenyésztésbe vétel alsó és a tenyésztésben tartás felső korhatárát, a két kölykezés közötti időt, az almonként törzskönyvezhető utódok számát, valamint az életteljesítményt;
+
+b) az örökletes betegségek kiszűrésére alkalmas vizsgálatokkal kapcsolatos kötelezettségeket és szabályokat, valamint a genetikai betegségekkel terhelt egyedek tenyésztésének tilalmát;
+
+c) a nukleusz állomány kijelölésének elveit;
+
+d) az in-vitro megőrzés feltételeit, a génbankban megőrzendő szaporítóanyag és genetikai minta meghatározását, begyűjtésének, előkészítésének és letárolásának szabályait;
+
+e) az in-situ tartás, indokolt esetben az ex-situ tartás feltételeit;
+
+f) a kennel vagy részpopuláció megszüntetése esetén követendő szabályokat; és
+
+g) a kölykök megfelelő fizikális és mentális fejlődéséhez, valamint az emberhez való kívánatos kapcsolatuk kialakulásához szükséges környezet biztosítására vonatkozó előírásokat.
+
+#### 48. §
+
+(1) A tenyésztési program elkészítésénél törekedni kell
+
+a) kritikus helyzetbe került ebfajta esetén a létszám növelésére, a tenyésztésbe vonható egyedek felderítésére, a génbankban történő tárolás céljából szaporítóanyag begyűjtésére, és az ezeket biztosító egyedi programok és intézkedések meghatározására,
+
+b) védendő helyzetbe került ebfajta esetén a létszám további növelésére és a fajta szakszerű megőrzésére alkalmas tenyészetek kialakítására, valamint
+
+c) megőrzendő helyzetbe került ebfajta esetén a létszám tervszerű növelésére vagy fenntartására, és az eredeti hasznosítási irány megtartására.
+
+(2) Ha a tenyésztési program szigorúbb szabályokat nem állapít meg, egy tenyésztő egy kennelében egy naptári évben legfeljebb 9 alom regisztrálható.
+
+(3) A magyar ebfajták teljesítményvizsgálati szabályzatára vonatkozó követelményeket a 20. melléklet tartalmazza.
+
+#### 49. §
+
+(1) A tenyésztőt megilletik a tenyésztőszervezet által képviselt nemzetközi szakmai szervezeti tagságból eredő tenyésztői jogosultságok.
+
+(2) A magyar ebfajták fenntartásáért felelős tenyésztőszervezet köteles a fajta korábbi tenyésztőszervezete, az Európai Unió más tagállamainak elfogadott szervezetei, illetve nemzetközi szervezet által jóváhagyott törzskönyv, származási igazolás, teljesítményvizsgálat, nemzetközi címek és bírói minősítések elfogadására.
+
+(3) A (2) bekezdés szerinti eljárás során kizárólag az átadott dokumentumok formai megfelelősége vizsgálható.
+
+(4) Amennyiben a (2) bekezdés szerinti dokumentumokban szereplő egyes adatok valódisága felől utóbb kétség merül fel, a tenyésztőszervezet felszólítja az adatot szolgáltató szervezetet az adatok valódiságának bizonyítására.
+
+#### 50. §
+
+Teljesítményvizsgálatot csak a tenyésztőszervezet által elfogadott, a bírói névsorban szereplő személy végezhet.
+
+#### 51. §
+
+(1) Egyfajtás tenyészeb kiállítást az adott fajta tenyésztőszervezete rendezhet, többfajtás tenyészeb kiállítást az adott tenyésztőszervezetek közösen rendezhetnek.
+
+(2) A nem az adott fajta tenyésztőszervezete által szervezett rendezvényen tenyésztési adat csak akkor keletkezik, ha az adott fajta tenyésztőszervezete előzetesen nyilatkozik annak elfogadásáról. Amennyiben kutya show vonatkozásában az adott fajta tenyésztőszervezete előzetesen nyilatkozik a rendezvény teljesítményvizsgálatként történő elfogadásáról, a rendezvényt az adott fajta vonatkozásában tenyészeb kiállításnak kell tekinteni.
+
+#### 52. §
+
+A tenyésztők kötelesek az idős, beteg vagy a tenyésztésben más okból részt nem vevő állataik tartásáról, gondozásáról és egészségügyi ellátásáról megfelelően gondoskodni.
+
+#### 53. §
+
+A származási igazolás és az eb kiviteli származási igazolása szigorú számadású nyomtatványnak minősül.
+
+## VII. Fejezet — A TENYÉSZÁLLATOK TELJESÍTMÉNYVIZSGÁLATA ÉS TENYÉSZÉRTÉKBECSLÉSE
+
+#### 54. §
+
+(1) A teljesítményvizsgálatokat egységes módszerekkel kell végezni úgy, hogy az eredmények összehasonlíthatósága biztosítható legyen.
+
+(2) A teljesítményvizsgálatok és a tenyészértékbecslés módszereit egy éven belül – az azonos korú állatok teljesítményének összehasonlíthatósága biztosítására figyelemmel – megváltoztatni nem lehet.
+
+(3) A tenyésztőszervezet teljesítményvizsgálatot csak az elfogadott tenyésztési programjának megfelelő állatállományra végezhet.
+
+(4) A házi nyúl, a csincsilla, a magyar ebfajták, a házi tyúk, a gyöngytyúk, a házi lúd, a házi kacsa, a pézsmakacsa, a pulyka, a strucc, az emu, a ponty, a fogassüllő, a harcsa, a sebes pisztráng, a szivárványos pisztráng és a mézelő méh teljesítményvizsgálatának és tenyészértékbecslésének elfogadott módszereit a 21. melléklet tartalmazza.
+
+## VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 55. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–54. §, az 56. § és az 57. § a kihirdetését követő 8. napon lép hatályba.
+
+#### 56. §
+
+(1) Ez a rendelet a fajtatiszta tenyészállatok, hibrid tenyészsertések és szaporítóanyagaik Unión belüli tenyésztésének, kereskedelmének és az Unióba történő beléptetésének tenyésztéstechnikai és származástani feltételeiről, a 652/2014/EU rendelet, a 89/608/EGK és a 90/425/EGK tanácsi rendelet módosításáról, valamint az állattenyésztés tárgyában hozott egyes jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. június 8-i (EU) 2016/1012 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**Az egyes fajok tenyésztési programjának jóváhagyásához szükséges legkisebb létszámok**
+
+1\. Szarvasmarha, zebu, bivaly
+
+1.1. Hazai fajták esetén: 100 főtörzskönyves tehén.
+
+1.2. Külföldi és világfajták esetén: 50 főtörzskönyves tehén.
+
+2\. Házi sertés
+
+2.1. Hazai fajták és hibridek esetén
+
+2.1.1. Fajták: 200 törzskönyvi ellenőrzés alatt álló koca.
+
+2.1.2. Hibridek: 500 törzskönyvi ellenőrzés alatt álló szülőpárkoca.
+
+2.2. Külföldi és világfajták, hibridek esetén
+
+2.2.1. Fajták: 100 törzskönyvi ellenőrzés alatt álló koca.
+
+2.2.2. Hibridek: 500 törzskönyvi ellenőrzés alatt álló szülőpárkoca.
+
+3\. Juh, kecske
+
+3.1. Hazai fajták esetén: 100 főtörzskönyves anya.
+
+3.2. Külföldi és világfajták esetén: 50 főtörzskönyves anya.
+
+4\. Ló, szamár
+
+4.1. Hazai fajták esetén: 100 főtörzskönyves kanca.
+
+4.2. Világfajták esetén: 50 főtörzskönyves kanca.
+
+4.3. Külföldi fajták esetén: 10 főtörzskönyves kanca és 1 mén.
+
+5\. Házi tyúk
+
+5.1. Hazai fajták esetén
+
+5.1.1. Tojó és brojler tyúk fajták esetén: minimum 120 I. törzskönyvi osztályba sorolt tyúk és a megfelelő létszámú kakas.
+
+5.1.2. Kettős hasznosítású tyúkfajták esetén: minimum 120 I. törzskönyvi osztályba sorolt tyúk és a megfelelő létszámú kakas.
+
+5.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+6\. Gyöngytyúk
+
+6.1. Hazai fajták esetén: minimum 120 I. törzskönyvi osztályba sorolt tyúk és a megfelelő létszámú kakas.
+
+6.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+7\. Házi lúd
+
+7.1. Hazai fajták esetén: minimum 240 I. törzskönyvi osztályba sorolt tojó és a megfelelő létszámú gúnár.
+
+7.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+8\. Házi kacsa
+
+8.1. Hazai fajták esetén: minimum 200 I. törzskönyvi osztályba sorolt tojó és a megfelelő létszámú gácsér.
+
+8.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+9\. Pézsmakacsa
+
+9.1. Az alapvonalak szerint minimum 250 I. törzskönyvi osztályba sorolt tojó és a megfelelő létszámú gácsér.
+
+9.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+10\. Pulyka
+
+10.1. Hazai fajták esetén: minimum 200 I. törzskönyvi osztályba sorolt tojó és a megfelelő létszámú kakas.
+
+10.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+11\. Strucc, emu
+
+11.1. Hazai fajták esetén: minimum 120 I. törzskönyvi osztályba sorolt tyúk és a megfelelő létszámú kakas.
+
+11.2. Külföldi és világfajták esetén: meghatározott állománylétszám megléte nem feltétel.
+
+12\. Házi nyúl
+
+12.1. Hazai fajták és hibridek esetén
+
+12.1.1. Fajták: 120 törzskönyvi ellenőrzés alatt álló anyanyúl és a megfelelő létszámú bak.
+
+12.1.2. Hibridek: 120 törzskönyvi ellenőrzés alatt álló anyanyúl vonalanként.
+
+12.2. Külföldi és világfajták esetén: 300 törzskönyvi ellenőrzés alatt álló szülőpár anyanyúl.
+
+13\. Csincsilla
+
+13.1. Hazai fajták esetén: 150 törzskönyvi ellenőrzés alatt álló anya és a megfelelő létszámú bak.
+
+13.2. Külföldi és világfajták esetén: 300 törzskönyvi ellenőrzés alatt álló szülőpár anya.
+
+14\. Ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng
+
+14.1. Fajták: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár.
+
+14.2. Hibridek: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár vonalanként.
+
+## 2. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A házi nyúl, a csincsilla, az emu és a strucc törzskönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. A házi nyúl, a csincsilla, az emu és a strucc törzskönyve vezetésére vonatkozó követelmények
+
+1.1. A törzskönyvnek legalább a következő adatokat kell tartalmaznia:
+
+1.1.1. a tenyésztő és a tulajdonos neve, címe;
+
+1.1.2. a tenyészállat születésének időpontja, ha ez nem ismert, akkor az „ismeretlen” bejegyzés;
+
+1.1.3. a tenyészállat ivara, azonosítója, ismertetőjele;
+
+1.1.4. a tenyészállat szüleinek azonosítója és ismertetőjelei, vagy ha azok nem ismertek, akkor az „ismeretlen származású” bejegyzés;
+
+1.1.5. a tenyészállatok nagyszüleinek azonosítója és ismertetőjelei, vagy ha azok nem ismertek, akkor az „ismeretlen származású” bejegyzés;
+
+1.1.6. embrióátültetésből származó tenyészállatoknál a genetikai szülők, azok azonosítója, ismertetőjelei és vércsoportja;
+
+1.1.7. a tenyésztőszervezet által ismert összes teljesítményvizsgálati és tenyészérték-megállapítási eredmény;
+
+1.1.8. a tenyészállat tenyésztésből való kiesésének időpontja, és amennyiben ismert, annak oka;
+
+1.1.9. a kiállított, illetve kiadott tenyészigazolások dátuma és célja;
+
+1.1.10. a főtörzskönyvi rész, és a tenyésztőszervezet ilyen irányú döntése esetén a melléktörzskönyvi rész.
+
+1.2. A főtörzskönyvi részre és a melléktörzskönyvi részre vonatkozó követelmények:
+
+1.2.1. A főtörzskönyvi részbe azok az állatok sorolhatók be, amelyek bejegyezhetők, és amelyek szülei és nagyszülei ugyanazon fajta főtörzskönyvében vannak bejegyezve. Kizárólag nőivarú állatok esetében a főtörzskönyvi részbe azok az egyedek is bejegyezhetők, amelyek anyja és anyai nagyanyja melléktörzskönyvi részbe sorolt, de apját, valamint anyai és apai nagyapját a főtörzskönyvi részbe sorolták.
+
+1.2.2. A főtörzskönyvi résznek több, az állatok teljesítménye szerinti osztályt kell tartalmaznia, és csak a törzskönyvi szabályzatban meghatározott ismérvek alapján lehet az egyes egyedeket ezen osztályok valamelyikébe besorolni.
+
+1.2.3. A törzskönyvet vezető tenyésztőszervezet melléktörzskönyvi részt nyithat az 1.2.1. pont szerinti feltételeknek meg nem felelő egyedek részére. A melléktörzskönyvi bejegyzéshez az egyedeknek meg kell felelnie
+
+1.2.3.1. a törzskönyvi szabályzatban megállapított szabályok szerinti azonosíthatóságnak;
+
+1.2.3.2. a fajta küllemi jegyeinek;
+
+1.2.3.3. a törzskönyvi szabályzatban megállapított teljesítménynek.
+
+1.2.4. A melléktörzskönyvi bejegyzés vonatkozhat olyan állatokra, amelyek
+
+1.2.4.1. megfelelnek a fajta küllemi jegyeinek, de ismeretlen származásúak;
+
+1.2.4.2. a tenyésztőszervezet által jóváhagyott keresztezési programhoz tartoznak.
+
+1.2.5. A melléktörzskönyvi rész szintén tartalmazhat az állatok teljesítménye szerint elhatárolt osztályokat.
+
+Az osztályozást a törzskönyvi szabályzatban meghatározott feltételek szerint kell elvégezni.
+
+2\. A házi nyúl, a csincsilla, az emu és a strucc származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolásnak legalább a következő adatokat kell tartalmaznia:
+
+2.1.1. sorszám;
+
+2.1.2. a tenyésztőszervezet neve, a törzskönyv megnevezése és az osztályba sorolás;
+
+2.1.3. a tenyészállat születési dátuma, fajtája és ivara;
+
+2.1.4. a tenyészállat megjelölésének módja, egyedi azonosítója és ismertetőjele, valamint törzskönyvi száma;
+
+2.1.5. a tenyésztő és a tulajdonos neve és címe;
+
+2.1.6. a tenyészállat származása, szülei és nagyszülei törzskönyvi száma;
+
+2.1.7. a tenyészállat és szülei, valamint nagyszülei legújabb teljesítményvizsgálati és tenyészértékbecslési eredményei;
+
+2.1.8. embrióátültetésből származó tenyészállatoknál a genetikai szülők, valamint azok vércsoportja;
+
+2.1.9. a kiállítás helye és időpontja;
+
+2.1.10. a szakmai munkáért felelős személy aláírása és a tenyésztőszervezet bélyegzőlenyomata;
+
+2.1.11. a teljesítményvizsgálatokat végző és az ellenőrző teszteket lebonyolító, valamint azok eredményét közzétevő tenyésztőszervezet vagy személy megnevezése.
+
+## 3. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve vezetésére vonatkozó követelmények
+
+1.1. A tenyésztési főkönyv fajtakódját a NÉBIH adja ki és tartja nyilván.
+
+1.2. A tenyésztési főkönyvnek minden bejegyzett állatra vonatkozóan legalább a következő adatokat kell tartalmaznia:
+
+1.2.1. a tenyésztő és a tulajdonos neve, címe;
+
+1.2.2. a tenyészállat születésének időpontja, ha ez nem ismert, akkor az „ismeretlen” bejegyzés;
+
+1.2.3. a tenyészállat ivara, azonosítója, ismertetőjele;
+
+1.2.4. a tenyészállat szüleinek azonosítója és ismertetőjelei, vagy ha azok nem ismertek, akkor az „ismeretlen származású” bejegyzés;
+
+1.2.5. embrióátültetésből származó tenyészállatoknál a genetikai szülők, azok azonosítója, ismertetőjelei és vércsoportja;
+
+1.2.6. a tenyésztőszervezet által ismert összes teljesítményvizsgálati és tenyészérték-megállapítási eredmény, valamint az utolsó szaporasági és végtermékteszt helye, időpontja és részletes eredményei;
+
+1.2.7. a tenyészállat tenyésztésből való kiesésének időpontja, és amennyiben ismert, annak oka;
+
+1.2.8. a kiállított, illetve kiadott tenyészigazolások dátuma és célja.
+
+1.3. A tenyésztőszervezet döntése alapján olyan, a kérdéses állományban született és felnevelt, illetve tenyésztési és állategészségügyi szempontból ismert tenyészetből származó tenyészállatok is bejegyezhetők a tenyésztési főkönyvbe, amelyek születési időpontja vagy szülei ismeretlenek. Az ilyen állatok számára a tenyésztési főkönyvben külön részt kell létesíteni.
+
+1.4. A tenyésztési főkönyvi szabályzatban részletesen szabályozni kell
+
+1.4.1. a tenyészállatok és utódaik meghatározott határidőn belüli megjelölését;
+
+1.4.2. a fedeztetési, termékenyítési dátumoknak és az ellési vagy fialási dátumoknak a meghatározott határidőn belüli bejelentését;
+
+1.4.3. a tenyésztő üzemekben a tenyésztési főkönyvbevétel alapjaként
+
+1.4.3.1. az alapbizonylatok készítését, a tenyészállatok azonosítójáról, ismertetőjeleiről, származásáról és a fedeztetési vagy termékenyítési dátumokról, az ellési vagy fialási dátumokról,
+
+1.4.3.2. embrióátültetésből származó tenyészállatokról készített kiegészítő feljegyzéseket a termékenyítés időpontjáról, a genetikai szülőkről, a recipiensről és az embrióról, a termékenyítés időpontjáról, az embriónyerés és -átültetés időpontjáról, az embrióátültetési intézmény nevéről, címéről;
+
+1.4.4. a származásellenőrzés módját;
+
+1.4.5. a felelősséget a jelölésért, a bejegyzésekért, valamint az előírt bejelentésekért.
+
+2\. Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolásnak legalább a következő adatokat kell tartalmaznia:
+
+2.1.1. sorszám;
+
+2.1.2. a tenyésztőszervezet neve, a tenyésztési főkönyv megnevezése és a részbesorolás;
+
+2.1.3. a tenyészállat születési dátuma, fajtája vagy vonala és ivara;
+
+2.1.4. a tenyészállat megjelölésének módja, egyedi azonosítója és ismertetőjele, valamint tenyésztési főkönyvi száma;
+
+2.1.5. a tenyésztő és a tulajdonos neve és címe;
+
+2.1.6. a meghatározott vonalhoz vagy származáshoz tartozás;
+
+2.1.7. az utolsó szaporasági és végtermékteszt helye, ideje és eredménye;
+
+2.1.8. embrióátültetésből származó tenyészállatoknál a genetikai szülők, azok egyedi azonosítói és vércsoportjai;
+
+2.1.9. a kiállítás helye és időpontja;
+
+2.1.10. a szakmai munkáért felelős személy aláírása és a tenyésztőszervezet bélyegzőlenyomata;
+
+2.1.11. a teljesítményvizsgálatokat végző és az ellenőrző teszteket lebonyolító, valamint azok eredményét közzétevő tenyésztőszervezet vagy személy megnevezése.
+
+## 4. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A fajtatiszta baromfi törzskönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. A fajtatiszta baromfi törzskönyve vezetésére vonatkozó követelmények
+
+1.1. A fajtánként vezetett törzskönyvi szabályzatban részletesen szabályozni kell
+
+1.1.1. a törzskönyvi osztályok kialakítását és a besorolás feltételrendszerét;
+
+1.1.2. a bizonylatok rendjét;
+
+1.1.3. a tenyészállatok és a tenyésztojás megjelölésének módját és idejét;
+
+1.1.4. a származásnyilvántartás, az igazolások kiállításának és kiadásának rendjét;
+
+1.1.5. az állományok azonosítóinak rendjét;
+
+1.1.6. a tenyésztésbe bevont szervezetekben termelő tenyészállat-állományok adatszolgáltatási rendjét;
+
+1.1.7. a nyilvántartásért felelős személyt.
+
+1.2. A törzskönyv három osztályra tagolódik:
+
+1.2.1. elit osztály adatai;
+
+1.2.2. nagyszülőpár osztály adatai;
+
+1.2.3. szülőpár osztály adatai.
+
+1.3. A törzskönyvnek minden bejegyzett állományra vonatkozóan legalább a következő adatokat kell tartalmaznia:
+
+1.3.1. a tenyésztőszervezet, illetve a tenyésztésbe bevont szervezet neve, azonosító száma;
+
+1.3.2. a fajta neve;
+
+1.3.3. a tenyészethez tartozó tartási hely azonosítója;
+
+1.3.4. a törzskönyvi osztály megjelölése;
+
+1.3.5. az állomány azonosítója;
+
+1.3.6. az állomány származása;
+
+1.3.7. az állomány termelési időszaka;
+
+1.3.8. az állomány összesített jellemző értékmérő mutatói: hús- és tojástermelés, életképesség, keltethetőség, egyéb jellemző tulajdonságok;
+
+1.3.9. az értékesített tenyészállat és tenyésztojás mennyisége;
+
+1.3.10. a kiadott tenyésztojás és naposállat származási igazolásainak nyilvántartása;
+
+1.3.11. az alkalmazott állategészségügyi kezelések.
+
+2\. A fajtatiszta baromfi származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A tenyésztés és a forgalmazás során a keltető és tenyésztojást a termelőnek olyan azonosító jelzéssel kell ellátnia, amely biztosítja, hogy annak azonossága, származása hitelt érdemlően megállapítható legyen.
+
+2.2. Származási igazolást kell kiállítani a tenyésztőszervezet törzskönyvében I., II. törzskönyvi osztályban nyilvántartott állománytól keltetésre kerülő valamennyi tojásról, az azonosító jelzés megjelölésével, valamint ezekből a tojásokból kikelt naposbaromfiról.
+
+2.3. Származási igazolást kiállítani csak a tenyésztőszervezet tenyésztési programjában megadott minőségi követelményeknek megfelelő tenyésztojásról, tenyész-, napos- és növendékbaromfiról szabad.
+
+2.4. Nem kell származási igazolást kiállítani
+
+2.4.1. a tenyésztojásból nem tenyészállat előállítása céljából keltett naposbaromfi csoportról;
+
+2.4.2. a keltetőtojásból keltetett naposbaromfi csoportról.
+
+2.5. A származási igazolásnak tenyésztojás esetében tartalmaznia kell legalább a következő adatokat:
+
+2.5.1. sorszám;
+
+2.5.2. a tenyésztojást termelő állomány 1.3.1–1.3.6. pontban megjelölt azonosítói, a szaporítási fokozat, a mennyiség, a termelés ideje, a tojáson alkalmazott jelölés;
+
+2.5.3. a kiállító azonosítója;
+
+2.5.4. a tenyésztojás átvevőjének azonosítója;
+
+2.5.5. a kiállítás helye, dátuma, aláírások.
+
+2.6. A származási igazolásnak tenyészbaromfi esetében legalább a következő adatokat kell tartalmaznia:
+
+2.6.1. sorszám;
+
+2.6.2. a tenyésztőszervezet neve, a NÉBIH által adott azonosítója;
+
+2.6.3. az állomány tartójának neve, tenyészetkódja, tenyészet címe;
+
+2.6.4. az állomány adatai: faj, fajta, törzskönyvi osztály, ivaronkénti létszám;
+
+2.6.5. az állomány származására vonatkozóan:
+
+2.6.5.1. ha az állomány belföldi keltetésből származik, a keltető tenyészetkódja, a kelési dátum, a szülőállomány törzsállomány azonosító száma, import tojásból történt keltetés esetén az INTRA/KÁBO szám,
+
+2.6.5.2. ha az állomány naposállatok importjából származik, a beérkezés dátuma és az INTRA/KÁBO szám,
+
+2.6.5.3. ha az állomány korábban létrehozott állományok szétbontásából vagy összevonásából származik, a korábbi állomány, állományok törzsállomány azonosító száma;
+
+2.6.6. az igazolás hatályosságának dátuma;
+
+2.6.7. a kiállítás időpontja és a kiállító aláírása.
+
+2.7. A származási igazolást három példányban kell kiállítani, azonos sorszámmal. Az első példány a tenyészállat, illetve a tenyésztojás átvevőjét illeti, a második példányt az átvevő megküldi a NÉBIH részére, a harmadik példányt a kiállítónál kell megőrizni. A törzsállomány azonosító számot a NÉBIH a származási igazolás adatainak ellenőrzése és hitelesítése után adja ki a tartó részére, és erről értesíti a tenyésztőszervezetet. A tartónak minden termelési ciklus indításakor, az állomány termelésbe állítását követően hét napon belül értesítenie kell a NÉBIH-et a beólazás dátumáról és a beólazott darabszámokról. A törzsállományok más tenyészetbe történő szállítását a tartónak hét napon belül be kell jelentenie a NÉBIH-nek, a szállítólevelek sorszámának megadásával.
+
+## 5. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. A keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve vezetésére vonatkozó követelmények
+
+1.1. A fajtánkénti tenyésztési főkönyvi szabályzatban részletesen szabályozni kell
+
+1.1.1. a főkönyvi osztályok kialakítását és a besorolás feltételrendszerét;
+
+1.1.2. a 4. melléklet 1.1.2–1.1.7. pontjában foglaltakat.
+
+1.2. A tenyésztési főkönyv három osztályra tagolódik:
+
+1.2.1. a dédszülő vonalakat alkotó állományok adatai: I. osztály;
+
+1.2.2. az I. osztályba tartozó állományoktól származó nagyszülői vonalak adatai: II. osztály;
+
+1.2.3. II. osztályba tartozó állományoktól származó, tovább nem szaporítható utódokat előállító szülőpárállományok adatai: III. osztály.
+
+1.3. A tenyésztési főkönyvnek minden bejegyzett állományra vonatkozóan legalább a következő adatokat kell tartalmaznia:
+
+1.3.1. a 4. melléklet 1.3.1–1.3.3. pontja és 1.3.5–1.3.11. pontja szerinti adatokat;
+
+1.3.2. a tenyésztési nyilvántartási osztály megjelölését.
+
+2\. A keresztezési, illetve hibridizációs programban részt vevő baromfi származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolás kiállítására a 4. melléklet 2. pontjában foglaltakat kell alkalmazni.
+
+2.2. A tenyésztőszervezetnek az Európai Unió más tagállamából vagy harmadik országból származó állomány vonatkozásában az eredeti külföldi származási igazolás alapján kell kiállítania – az elismerési kérelemben megjelölt módon – az állomány hazai forgalmazása esetén a származási igazolást.
+
+## 6. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve és tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1 A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve, illetve tenyésztési főkönyve vezetésére vonatkozó követelmények
+
+1.1. A törzskönyvnek, illetve tenyésztési főkönyvnek legalább a következő adatokat kell tartalmaznia:
+
+1.1.1. a tenyésztő és a tulajdonos neve, címe,
+
+1.1.2. a tenyésztelep helye,
+
+1.1.3. a fajta, illetve a hibrid neve,
+
+1.1.4. az állomány létszáma, ikrás, tejes,
+
+1.1.5. a tenyészállatok egyedeinek jelölése, egyedi jelölés esetén chip-jel száma,
+
+1.1.6. a fajta küllemi leírása, pikkelyezettség, szín, profil index,
+
+1.1.7. a tenyésztőszervezet által ismert összes teljesítményvizsgálat eredménye.
+
+1.2. A törzskönyvben, illetve tenyésztési főkönyvben fel kell tüntetni felelősség viselését a jelölésért, a bejegyzésekért valamint az előírt bejelentésekért.
+
+2\. A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolásnak legalább a következő adatokat kell tartalmaznia:
+
+2.1.1. sorszám;
+
+2.1.2. a tenyésztőszervezet neve;
+
+2.1.3. a halfaj neve;
+
+2.1.4. a fajta neve;
+
+2.1.5. a korosztály neve;
+
+2.1.6. a szaporítás vagy az utolsó nevelés helye;
+
+2.1.7. a vásárló neve, címe;
+
+2.1.8. az értékesítés időpontja;
+
+2.1.9. a kiadott hal mennyisége;
+
+2.1.10. a kiállítás helye és időpontja;
+
+2.1.11. a szakmai munkáért felelős személy aláírása és a tenyésztőszervezet bélyegzőlenyomata;
+
+2.1.12. a teljesítményvizsgálatokat végző és az ellenőrző teszteket lebonyolító, valamint azok eredményét közzétevő tenyésztőszervezet vagy személy megnevezése.
+
+## 7. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A mézelő méh törzskönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. A mézelő méh törzskönyve vezetésére vonatkozó követelmények
+
+1.1. A törzskönyvnek legalább a következő adatokat kell tartalmaznia:
+
+1.1.1. a tenyésztő és a tulajdonos neve, címe,
+
+1.1.2. a tenyésztelep helye, tenyészetkódja,
+
+1.1.3. a fajta neve,
+
+1.1.4. a törzskönyvezett állomány létszáma,
+
+1.1.5. az anya törzskönyvi száma,
+
+1.1.6. az anya jele és a kelés éve.
+
+1.2. A törzskönyvben fel kell tüntetni a felelősség viselésének rendjét a jelölésért, az előírt bejelentésekért, a feljegyzésekért, valamint a regisztrációkért.
+
+2\. A mézelő méh származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolásnak legalább a következő adatokat kell tartalmaznia:
+
+2.1.1. a tenyésztőszervezet neve,
+
+2.1.2. az anya törzskönyvi száma,
+
+2.1.3. a sorozat száma,
+
+2.1.4. a petézés kezdete,
+
+2.1.5. a méhanyanevelő telep tenyészetkódja,
+
+2.1.6. a méhanyák kiadott mennyisége,
+
+2.1.7. a vásárló neve és címe,
+
+2.1.8. a kiállítás helye és időpontja,
+
+2.1.9. a szakmai munkáért felelős személy aláírása és a tenyésztőszervezet bélyegzőlenyomata.
+
+## 8. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A mesterséges termékenyítő állomás üzemeltetéséhez szükséges tárgyi és műszaki feltételek**
+
+1\. A mesterséges termékenyítő állomásnak rendelkeznie kell
+
+1.1. az állatok elhelyezésére alkalmas állatférőhelyekkel, beleértve az elkülönítési lehetőségeket;
+
+1.2. spermavételi helyiséggel és berendezésekkel, elkülönített helyiséggel az eszközök tisztítására, fertőtlenítésére és sterilizálására;
+
+1.3. helyiséggel és berendezésekkel a sperma feldolgozására;
+
+1.4. spermatároló helyiséggel;
+
+1.5. szarvasmarhák esetében a sperma harminc napig tartó karantén elkülönítésére szolgáló helyiséggel.
+
+2\. A létesítménynek állategészségügyi szempontból zártnak kell lennie, megakadályozva a telepen tartott apaállat-állománynak más idegen állatokkal való érintkezését.
+
+3\. Az állatok elhelyezésére, a sperma vételére, előkészítésére és raktározására szolgáló helyiségeknek és berendezéseknek könnyen tisztíthatónak és fertőtleníthetőnek kell lennie.
+
+4\. A mesterséges termékenyítő állomásnak rendelkeznie kell a friss és feldolgozás alatt álló sperma minőségének vizsgálatára alkalmas műszerekkel és berendezésekkel, így legalább egy melegítő tárgyasztallal, megfelelő felbontóképességű mikroszkóppal, a mélyhűtéshez kriotechnikai eszközzel és berendezéssel.
+
+## 9. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A mesterséges termékenyítésre használt szarvasmarha és sertés apaállatokra, továbbá azok spermájára vonatkozó követelmények**
+
+1\. A mesterséges termékenyítő állomásokra, a mesterséges termékenyítési engedéllyel rendelkező tenyészbikákra és tenyészkanokra vonatkozó állategészségügyi követelmények
+
+1.1. A tenyészbikát a mesterséges termékenyítő állomáson, illetve a saját teljesítményvizsgáló (a továbbiakban: STV) állomáson, megőrző telepen hatósági állategészségügyi felügyelet alatt kell tartani a sperma vétele előtt legalább hat hónapon keresztül. Tenyészkan esetében az állategészségügyi ellenőrzés időtartama a spermavételt megelőző legalább három hónap. Ezen időszak alatt a tenyészbikát, tenyészkant természetes fedeztetésre nem szabad használni.
+
+1.2. A forgalomba hozott spermát olyan tenyészbikától és tenyészkantól kell gyűjteni, amely az állategészségügyi előírásoknak megfelelő gazdaságban született, és előállítása, felnevelése, valamint tenyésztésbe állítása az állategészségügyi előírások szerint történt.
+
+1.3. A mesterséges termékenyítő állomásnak és az ott elhelyezett tenyészbikának, tenyészkannak az állategészségügyi előírásokban, illetve a tenyésztési programban meghatározott betegségektől, tenyészbika, tenyészkan esetén az állategészségügyi előírásokban, illetve a tenyésztési programban meghatározott öröklődő genetikai ártalmaktól, kromoszóma rendellenességektől mentesnek kell lennie.
+
+1.4. A spermatermelésben használt tenyészbikának és tenyészkannak egészségesnek kell lennie, spermája a termékenyítés útján átvihető kórokozó vagy fakultatív kórokozó mikroorganizmusokat nem tartalmazhat.
+
+1.5. A spermatermelésbe állítás előtt a tenyészbikát és a tenyészkant diagnosztikai eljárások alá kell vonni. A friss spermát tenyésztéshigiéniai megfelelőség szempontjából mikrobiológiai diagnosztikai módszerekkel ellenőrizni kell Corynebacterium pyogenes, Pseudomonas aeruginosa, staphylococcusok, haemolytikus streptococcusok, Escherichia coli, Aspergillus fumigatus, Candida guillermondii mikroorganizmusokra.
+
+1.6. A mesterséges termékenyítő állomásnak és a spermát adó tenyészbikának és tenyészkannak állandó szaporodásbiológiai kontroll és folyamatos állategészségügyi felügyelet alatt kell állnia. A sperma vételének, feldolgozásának, tárolásának és felhasználásának az állategészségügyi higiéniai előírások szerint kell történnie.
+
+1.7. A mesterséges termékenyítő állomás dolgozóinak zoonózisok szempontjából orvosi megfigyelés alatt kell állnia.
+
+1.8. A mesterséges termékenyítő állomás területének járványvédelmét a fertőzés megelőzését szolgáló létesítményekkel és intézkedésekkel kell megoldani.
+
+2\. A mélyhűtött bikaspermára vonatkozó előírások
+
+2.1. A tenyészbika fagyasztott spermáját felhasználásig folyékony nitrogénben, adagonkénti kiszerelésben kell tárolni, olyan csomagolási egységben, amely a folyékony nitrogénnel és a mikroorganizmusokkal való közvetlen érintkezéstől megóvja. Minden spermaadagot a tenyészbika központi lajstromszáma, neve, a sperma gyűjtésének éve, hónapja, napja, a spermát előállító mesterséges termékenyítő állomás elnevezése és tenyészetkódja alapján kell azonosítani.
+
+2.2. A tenyészbika fagyasztott spermájának mentesnek kell lennie az 1.3. és 1.5. pontban meghatározott fertőző betegségek kórokozóitól.
+
+2.3. A bikasperma hígítására és eltartására antibiotikum és egyéb olyan szer használata megengedett, amely a spermiumokra nem toxikus.
+
+2.4. A higiénikus körülmények között nyert és feldolgozott, mélyhűtött bikaspermának mikrobiológiai szempontból felolvasztás után is tisztának kell lennie. A felolvasztott, mélyhűtött bikasperma apathogén élő aerob baktérium tartalmának mennyiségi meghatározására és értékelésére az ISO 8607 szabvány irányadó. A mélyhűtött ejakulátum élő aerob szennyező baktériumtartalma cm<sup>3</sup>-enként legfeljebb 200 000 lehet.
+
+2.5. Az átlagos fertilitású tenyészbikától származó mélyhűtött sperma egy adagjában legalább nyolcmillió élő, élénken előrehaladó mozgást végző spermiumnak kell lennie a felolvasztás után. A felolvasztás után a spermiumok legalább harmincöt százalékának élénken előrehaladó, egyenes vonalú mozgást kell mutatnia.
+
+2.6. A mélyhűtésre felhasznált ejakulátumban nem fordulhat elő húsz százaléknál nagyobb arányban rendellenes spermium, ideértve mind az elsőrendű, mint a másodrendű spermaelváltozásokat. A mélyhűtött bikasperma felolvasztása után az akroszóma sérülések aránya nem haladhatja meg a tíz százalékot.
+
+2.7. A mélyhűtött bikasperma felolvasztása után +45 °C-on 60 perc időtartamig vagy +4 °C-on 24 óra időtartamig végzett hőtűrőpróba során – a közvetlenül felolvasztás után kapott értékekhez képest – legfeljebb 20%-os minőségromlás megengedett.
+
+2.8. A mélyhűtött bikaspermát az előállítástól számított, az állategészségügyi hatóság által meghatározott idejű karantén tárolás után, minőségét ejakulátumként ismételten ellenőrizve szabad forgalomba hozni.
+
+2.9. A mélyhűtött bikaspermát ejakulátumként elkülönítve olyan biotárolókban, konténerekben kell tárolni, amelyek egyszeri feltöltéssel a fagyasztott bikaspermát legalább tíz napig megvédik. A konténerbe töltött folyékony nitrogén három térfogatszázaléknál (V/V%) több oxigént nem tartalmazhat. A folyékony nitrogént ismételten felhasználni nem szabad.
+
+2.10. A bikasperma forgalmazása előtt – a vevő kérése esetén – a NÉBIH a termelési széria minőségét ismételten ellenőrzi. A minőségi értékeket a kiadási okmányon fel kell tüntetni.
+
+3\. A frissen nyert és a hígítással konzervált kanspermára vonatkozó követelmények
+
+3.1. A frissen nyert kanspermának fehéres színűnek kell lennie, a fajra jellemző szaggal és konzisztenciával. A spermában kocsonyaszerű szemcsék megengedettek. A feldolgozás során a kocsonyaszerű szemcséket el kell távolítani.
+
+3.2. A frissen nyert kanspermának egy cm<sup>3</sup>-e 0,15 milliárd spermiumot kell tartalmaznia. Az ejakulátum térfogatának legalább 100 cm<sup>3</sup>-nek kell lennie és legalább 70%-ának élő, előrehaladó mozgást mutató spermiumot kell tartalmaznia.
+
+3.3. A frissen nyert kanspermában 20% rendellenes spermium jelenléte megengedett, ebben legfeljebb 10% proximális citoplazmacseppet mutató spermium lehet. Nincs megengedve az olyan ejakulátum felhasználása, amely öröklött anomáliákat mutató spermiumokat tartalmaz.
+
+3.4. Az átlagos fertilitású tenyészkantól származó, hígítással konzervált kansperma egy termékenyítéshez szükséges adagjában minimum 1,5 × 109 összes élő spermiumsejtnek kell lennie a felhasználáskor, és a spermiumok legalább 65%-ának élénk, előrehaladó mozgást kell végeznie.
+
+3.5. A tenyészkanok spermájának mentesnek kell lennie minden, az 1.3. és 1.5. pontokban felsorolt betegségek ágenseitől, kórokozó mikroorganizmusoktól és sarjadzó gombáktól.
+
+3.6. A kansperma hígítására és tartósítására antibiotikum és minden egyéb olyan anyag használata megengedett, amely a spermiumokra nem toxikus.
+
+3.7. A higiénikus körülmények között nyert és feldolgozott, hígítással konzervált kanspermának mikrobiológiai szempontból a felhasználáskor is tisztának kell lennie. A hígítással konzervált ejakulátum élő aerob baktérium tartalma cm<sup>3</sup>-enként legfeljebb 300 000 lehet. A nem patogén élő aerob baktériumok mennyiségi meghatározására és értékelésére az MSZ 6891 szabvány irányadó.
+
+3.8. A hígítással konzervált kanspermát felhasználásig olyan csomagolási egységben kell tárolni, hogy az a szennyeződéstől, mikroorganizmusokkal való érintkezéstől és a hőmérsékletváltozásoktól megóvja. Minden spermaadagot a következők szerint kell azonosítani: a kan száma, neve, fajtája, a sperma gyűjtésének éve, hónapja, napja, a spermát előállító mesterséges termékenyítő állomás megnevezése.
+
+3.9. A kansperma forgalmazása előtt – a vevő kérése esetén – a termelési széria minőségét ismételten ellenőrizni kell. A minőségi értékeket a kiadási okmányon fel kell tüntetni.
+
+4\. A sperma termékenyítőképességének megállapítása
+
+4.1. A tenyészbikák spermáját termékenyítőképesség szempontjából meg kell vizsgálni. A tenyészbikára jellemző fertilitási értéket az első ízben inszeminált nőivarú állatok visszaivarzás nélküli vemhesülési arányával kell jellemezni. A forgalomba kerülő spermának jó minőségűnek kell lennie, és olyan tenyészbikától kell származnia, amelynek fertilitása rektális vemhességvizsgálattal ellenőrzött nőivarú állatokon legalább 45%, a 60–90 nap közötti NRR alapján pedig legalább 55% volt. A tenyészbikák fertilitását évente egy alkalommal a megelőző év vemhesülési adatainak alapján értékelni kell.
+
+4.2. A kanok spermáját termékenyítőképesség szempontjából meg kell vizsgálni. A sperma termékenyítőképességét az első ízben inszeminált nőivarú sertések visszaivarzás nélküli vemhesülési arányával kell jellemezni. Ennek értékének a 70%-ot kell elérnie.
+
+## 10. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**Az embrióátültető állomás üzemeltetéséhez tárgyi és műszaki szükséges feltételek**
+
+1\. Az embrióátültető állomásnak olyan berendezésekkel kell rendelkeznie, amelyek alkalmasak az embriók vizsgálatára, előkészítésére, csomagolására, így legalább egy munkaasztallal, egy mikroszkóppal és egy kriotechnikai berendezéssel.
+
+2\. A helyhez kötött embrióátültető állomásnak rendelkeznie kell
+
+2.1. olyan helyiséggel, amelyben az embriókat kezelik, azon terület mellett, amelyben az állatok az embriónyerés alatt tartózkodnak, de attól elválasztva,
+
+2.2. az embriók nyeréséhez és kezeléséhez használt eszközök és anyagok tisztítására, sterilizálására alkalmas helyiséggel, illetve berendezéssel.
+
+3\. Mozgó embrióátültető állomás esetében a gépjárművön elkülönített részt kell biztosítani
+
+3.1. az embriók osztályozására, kezelésére;
+
+3.2. azon anyagok és készülékek tárolására, amelyek a donor, illetve recipiens állatokkal érintkeznek.
+
+## 11. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A spermatároló központ üzemeltetéséhez szükséges tárgyi és műszaki feltételek**
+
+1\. A spermatároló központnak rendelkeznie kell
+
+1.1. spermatároló helyiséggel, amelynek oldalfalai és padozata mosható és fertőtleníthető, tökéletesen átszellőztethető, mélyhűtött anyag tárolása esetén ajtaja a talajszint felett a külvilágra nyíló;
+
+1.2. adminisztrációs helyiséggel;
+
+1.3. mosó, illetve tisztító helyiséggel;
+
+1.4. a konténerek fertőtlenítésére alkalmas berendezéssel vagy e tevékenység végzésére vonatkozó szolgáltatási szerződéssel;
+
+1.5. mélyhűtött sperma tárolása esetén a folyékony nitrogén utántöltésére nitrogéntároló edényzettel, szintbeli kapcsolatban a külvilággal;
+
+1.6. a tároló helyiségben a nitrogén koncentrációjának növekedését jelző riasztó berendezéssel;
+
+1.7. az élelmiszerlánc-felügyeleti szerv által jóváhagyott, a létesítmény állategészségügyi zártságát biztosító higiéniai és járványvédelmi intézkedési tervvel, állategészségügyi üzemelési technológiával;
+
+1.8. szarvasmarha szaporítóanyag tárolása esetén a mélyhűtött sperma 30 napig történő elkülönítésére szolgáló helyiséggel, amelynek oldalfalai, padozata mosható és fertőtleníthető, valamint ajtaja a külvilágra nyíló;
+
+1.9. a jogtalan behatolást akadályozó őrzési vagy elektronikus riasztó rendszerrel;
+
+1.10. a spermatároló helyiségben mesterséges szellőztető berendezéssel, amely a helyiség légköbméterére vetítve óránként legalább tízszeres légcserét képes biztosítani.
+
+2\. A mélyhűtött spermát ejakulátumonként elkülönítve olyan biotárolókban, konténerekben kell tárolni, amelyek egyszeri feltöltéssel a fagyasztott spermát legalább 10 napig megvédik. A konténerbe töltött folyékony nitrogén 3 térfogatszázaléknál (V/V%) több oxigént nem tartalmazhat. A folyékony nitrogént ismételten felhasználni nem lehet.
+
+3\. Hűtésre csak olyan hűtőközeg használható, amit nem használtak egyéb állati eredetű termék hűtésére.
+
+## 12. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A spermatételt a forgalmazás során kísérő tanúsítvány adattartalma**
+
+1\. A forgalmazott spermatételt kísérő, a mesterséges termékenyítő állomás vagy a spermatároló központ által kiállított tanúsítványnak legalább a következő adatokat kell tartalmaznia:
+
+1.1. a spermát adó apaállat
+
+1.1.1. faja és fajtája megnevezését,
+
+1.1.2. nevét, amennyiben van,
+
+1.1.3. egyedi azonosító számát,
+
+1.1.4. törzskönyvi számát, amennyiben van,
+
+1.1.5. termékenyítőképességére vonatkozó adatokat a rendelkezésre álló összesített fertilitási adatok alapján, szarvasmarha és sertés apaállat esetében a 9. melléklet szerint;
+
+1.2. a sperma
+
+1.2.1. termelési széria számát,
+
+1.2.2. levételének időpontját és az ugyanazon a napon levett összes spermaadagok számát;
+
+1.3. a mesterséges termékenyítő állomás vagy a spermatároló központ nevét és címét, tenyészetkódját;
+
+1.4. a forgalmazás, illetve a sperma elszállításának időpontját;
+
+1.5. az átvevő nevét és címét;
+
+1.6. az átvett tétel közvetlen vagy közvetett felhasználásának megjelölését;
+
+1.7. inszeminátor közreműködése esetén annak nevét és nyilvántartási számát; valamint
+
+1.8. amennyiben ismert, a felhasználó gazdaság tenyészetkódját.
+
+2\. A tanúsítványnak az 1. pontban foglalt adatokon kívül tartalmaznia kell
+
+2.1. szarvasmarha esetében a bika hazai központi lajstromszámát;
+
+2.2. ló esetében
+
+2.2.1. a mént törzskönyvező tenyésztőszervezet nevét, címét,
+
+2.2.2. a mén főtörzskönyvi számát,
+
+2.2.3. a származás ellenőrzésének módját, eredményét;
+
+2.3. kevert sperma esetén valamennyi spermát adó egyed azonosítóját;
+
+2.4. szarvasmarha és sertés apaállat spermája esetében a 9. mellékletben foglalt minőségi feltételek teljesüléséről igazolást;
+
+2.5. szarvasmarha és sertésen kívüli fajoknál
+
+2.5.1. a szakmai követelményeknek megfelelő hígító és antibiotikum alkalmazásáról igazolást,
+
+2.5.2. a kiszerelés módját,
+
+2.5.3. egy termékenyítéshez elegendő adagban a megfelelő ivarsejtek számát és százalékos arányát,
+
+2.5.4. az egy termékenyítéshez szükséges adag mennyiségét,
+
+2.5.5. a sperma minőségvizsgálatának főbb adatait.
+
+## 13. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep azonosító számának képzése**
+
+Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep\
+azonosító száma a következő részekből tevődik össze:
+
+1\. rész (két karakter): „HU” – Magyarország ISO-kódja
+
+2\. rész (egy karakter): „P” – tenyésztelep
+
+„B” – szaporítótelep
+
+„H” – keltető
+
+3\. rész: telep tenyészetkódja
+
+## 14. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A baromfikeltető állomás ellenőrzéséhez szükséges mintavétel és a minősítés szabályai**
+
+1\. A keltetésre alkalmas tojás és naposbaromfi tétel, minta és csomagolási egység
+
+1.1. Keltetésre alkalmas tojás és naposbaromfi tételnek minősül az az azonos fajú, fajtájú és egyidejű átadás-átvételre szánt, egy származási igazolással, illetve szállítólevéllel ellátott, csomagolt tojás, vagy ugyanilyen, de egy leszedésből származó naposbaromfi mennyiség.
+
+1.2. A tojás és naposbaromfi minta a tételnek a minőségellenőrző vizsgálat céljára a mintavételi eljárás során kivett és elkülönített része.
+
+1.3. A tojás és naposbaromfi legkisebb csomagolási egységének kell tekinteni a tojástálcát és a naposbaromfi-szállító kartont és dobozt.
+
+2\. A mintavétel módszere
+
+2.1. A tojás mintát a tojástálcákat gyűjtő ládából, kartonból, azon belül a tálcákból, a naposbaromfi mintát a szállító kartonból, dobozból kell venni.
+
+2.2. A mintavétel az átadás-átvétel helyén történik.
+
+2.3. A mintavétel a napos állatok leszedését követően, a naposlibák esetében pedig a leszedést követő három óra elteltével történhet.
+
+3\. A minta mennyisége
+
+3.1. Keltetésre előkészített tojás minta esetén a szükséges mennyiséget az 1. táblázat szerint kell kivenni úgy, hogy az a legkisebb csomagolási egység vagy annak egész számú többszöröse legyen.
+
+1\. táblázat
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | A tétel mennyisége (db) | A legkisebb kiveendő mennyiség (%) |
+|  | 2. | 1 000 alatt | 20 |
+|  | 3. | 1 001–5 000 | 15 |
+|  | 4. | 5 001–10 000 | 7 |
+|  | 5. | 10 001–20 000 | 4 |
+|  | 6. | 20 001–50 000 | 3 |
+|  | 7. | 50 000 fölött | 2 |
+
+3.2. Naposbaromfi esetén a vizsgálathoz szükséges mintamennyiséget a 2. táblázat szerint kell kivenni úgy, hogy az a legkisebb csomagolási egység vagy annak egész számú többszöröse legyen.
+
+2\. táblázat
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | A tétel mennyisége (db) | A legkisebb kiveendő mennyiség |
+|  | 2. | 1 000 alatt | A legkisebb csomagolási egység |
+|  | 3. | 1 001–5 000 | 200 db |
+|  | 4. | 5 001–25 000 | 300 db |
+|  | 5. | 25 000 fölött | 400 db |
+
+4\. A minősítés eredménye
+
+Megfelelő a tétel minősége, ha a minőséghibás egyedek száma nem több a minta egy százalékánál. Minőséghibásnak az a tojás vagy naposállat minősül, amely nem felel meg az adott fajta tenyésztőszervezete által meghatározott minőségi követelményeknek.
+
+## 15. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A méhanyanevelő telepi napló tartalma**
+
+1\. A méhanyanevelő telepi naplónak legalább az alábbi adatokat kell tartalmaznia:
+
+1.1. a méhanyanevelő telep tenyészetkódja;
+
+1.2. a méhanyanevelés
+
+1.2.1. éve,
+
+1.2.2. módja (álcás vagy petés),
+
+1.2.3. kezdetének dátuma (álcás nevelés esetén az álcázás napja);
+
+1.3. az adott évi anyanevelési sorozat száma;
+
+1.4. a tenyészanyag származása, a tenyészanya törzskönyvi száma;
+
+1.5. a dajkacsalád száma;
+
+1.6. az adott anyanevelési sorozatban, valamint a tenyészidőszak végén összesítve
+
+1.6.1. a fedett bölcsők száma,
+
+1.6.2. a kikelt méhanyák száma,
+
+1.6.3. a párzott petéző méhanyák száma.
+
+2\. A méhanyanevelő telepi naplót a nevelésbe vont tenyészcsaládokra vonatkozóan kell kitölteni.
+
+## 16. melléklet a 45/2019. (IX. 25.) AM rendelethez[^4]
+
+**Védett őshonos és veszélyeztetett mezőgazdasági állatfajták**
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Faj | Fajta |
+|  | 2. | Szarvasmarha és bivaly: | magyar szürke szarvasmarha |
+|  | 2a.[^5] |  | magyartarka szarvasmarha |
+|  | 3. |  | magyar házibivaly |
+|  | 4. | Ló: | gidrán |
+|  | 5. |  | hucul |
+|  | 6. |  | kisbéri félvér |
+|  | 7. |  | lipicai |
+|  | 8. |  | furioso-north star |
+|  | 9. |  | nóniusz |
+|  | 10. |  | magyar hidegvérű |
+|  | 11. |  | shagya arab |
+|  | 12. | Szamár: | magyar parlagi szamár |
+|  | 13. | Sertés: | szőke mangalica |
+|  | 14. |  | fecskehasú mangalica |
+|  | 14a. |  | fekete mangalica |
+|  | 15. |  | vörös mangalica |
+|  | 16. | Juh: | hortobágyi (magyar) racka |
+|  | 17. |  | gyimesi racka |
+|  | 18. |  | tejelő cigája |
+|  | 19. |  | cigája |
+|  | 20. |  | cikta |
+|  | 21. | Kecske: | magyar parlagi kecske |
+|  | 22. | Tyúk: | sárga magyar tyúk |
+|  | 23. |  | kendermagos magyar tyúk |
+|  | 24. |  | fehér magyar tyúk |
+|  | 25. |  | fogolyszínű magyar tyúk |
+|  | 26. |  | fehér erdélyi kopasznyakú tyúk |
+|  | 27. |  | fekete erdélyi kopasznyakú tyúk |
+|  | 28. |  | kendermagos erdélyi kopasznyakú tyúk |
+|  | 29. | Gyöngytyúk: | magyar parlagi gyöngytyúk |
+|  | 30. | Lúd: | fodros tollú magyar lúd |
+|  | 31. |  | magyar lúd |
+|  | 32. | Kacsa: | fehér magyar kacsa |
+|  | 33. |  | tarka magyar kacsa |
+|  | 34. | Pulyka: | bronz pulyka |
+|  | 35. |  | réz pulyka |
+|  | 36. | Nyúl: | magyar óriás nyúl |
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Faj | Fajta |
+|  | 2.[^6] |  |  |
+|  | 3. | Juh: | magyar merinó |
+|  | 4. | Ló: | akhal-teke |
+
+## 17. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A tenyésztésbe vont, a törzskönyv fő részébe sorolt nőivarú egyedek száma alapján a védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági fajtákra, valamint a magyar ebfajtákra meghatározott fenyegetettségi szintek**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th></tr></thead><tbody><tr><td>**1.**</td><td>Mezőgazdasági haszonállat</td><td>„kritikus” fenyegetettségi<br>szint egyedszáma</td><td>„védendő” fenyegetettségi<br>szint egyedszáma</td><td>„megőrzendő” fenyegetettségi szint egyedszáma</td></tr><tr><td rowspan="3">**2.**[^7]</td><td>1. Szarvasmarhafélék</td><td></td><td></td><td></td></tr><tr><td>1.1. magyar szürke szarvasmarha és magyar házibivaly</td><td>200 alatt</td><td>200–1500</td><td>1501–7500</td></tr><tr><td>1.2. magyartarka szarvasmarha</td><td>200 alatt</td><td>200–1500</td><td>1501–9000</td></tr><tr><td>**3.**</td><td>Juh</td><td>200 alatt</td><td>200–1500</td><td>1501–10000</td></tr><tr><td>**4.**</td><td>Kecske</td><td>200 alatt</td><td>200–1500</td><td>1501–10000</td></tr><tr><td>**5.**</td><td>Lófélék</td><td>200 alatt</td><td>200–1500</td><td>1501–5000</td></tr><tr><td>**6.**</td><td>Sertés</td><td>200 alatt</td><td>200–1500</td><td>1501–15000</td></tr><tr><td>**7.**</td><td>Baromfifélék</td><td>500 alatt</td><td>500–5000</td><td>5001–25000</td></tr><tr><td>**8.**</td><td>Házi nyúl</td><td>500 alatt</td><td>500–3000</td><td>3001–15000</td></tr><tr><td>**9.**</td><td>Ebfajták</td><td>150 alatt</td><td>150–1000</td><td>1001–3000</td></tr></tbody></table>
+
+## 18. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**Magyar ebfajták**
+
+Magyar ebfajtának a következő ebfajták minősülnek:
+
+1\. drótszőrű magyar vizsla,
+
+2\. erdélyi kopó,
+
+3\. komondor,
+
+4\. kuvasz,
+
+5\. magyar agár,
+
+6\. mudi,
+
+7\. puli,
+
+8\. pumi,
+
+9\. rövidszőrű magyar vizsla.
+
+## 19. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A magyar ebfajta törzskönyve vezetésének és származási igazolása kiállításának szabályai**
+
+1\. A magyar ebfajta törzskönyve vezetésére vonatkozó követelmények
+
+1.1. A magyar ebfajta törzskönyvének legalább a következő adatokat kell tartalmaznia:
+
+1.1.1. a tenyésztő és a tulajdonos neve, címe;
+
+1.1.2. az eb születésének időpontja;
+
+1.1.3. az eb neve, ivara, azonosítója, ismertetőjelei;
+
+1.1.4. az eb szüleinek, nagyszüleinek és dédszüleinek neve, azonosítója, ismertetőjelei, tenyészminősítése, valamint teljesítményvizsgálati eredményei;
+
+1.1.5. az eb tenyésztőszervezet által ismert összes teljesítményvizsgálati eredménye;
+
+1.1.6. a tenyésztésből való kiesés időpontja, amennyiben ismert, ennek oka;
+
+1.1.7. a kiállított, illetve kiadott tenyészigazolások dátuma és célja.
+
+1.2. A törzskönyv főtörzskönyvi részt és a tenyésztőszervezet ilyen irányú döntése esetén melléktörzskönyvi részt tartalmaz.
+
+1.2.1. A főtörzskönyvi részbe azok az ebek sorolhatók be, amelyek saját teljesítményük alapján megfelelnek valamennyi tenyészminősítési feltételnek, valamint szüleik és nagyszüleik ugyanazon fajta főtörzskönyvében vannak bejegyezve.
+
+1.2.2. A törzskönyvet vezető tenyésztőszervezet melléktörzskönyvi rész nyitásáról dönthet az 1.2.1. pontban foglaltaknak meg nem felelő egyedek részére. Ebben az esetben szabályozni kell a fő- és melléktörzskönyv kapcsolatát.
+
+1.2.3. A melléktörzskönyvi bejegyzéshez az egyedeknek meg kell felelnie
+
+1.2.3.1. a törzskönyvben megállapított szabályok szerinti azonosíthatóságnak;
+
+1.2.3.2. a fajta küllemi jegyeinek;
+
+1.2.3.3. a tenyésztési programban meghatározott teljesítményvizsgálati feltételeknek.
+
+1.2.4. A melléktörzskönyvi bejegyzés vonatkozhat olyan ebekre, amelyek
+
+1.2.4.1. a fajtához tartoznak, de ismeretlen származásúak;
+
+1.2.4.2. a tenyésztőszervezet által jóváhagyott keresztezési programhoz tartoznak.
+
+1.2.5. A melléktörzskönyv tartalmazhat az ebek teljesítménye szerint elhatárolt osztályokat. Az osztályozást a törzskönyvi szabályzatban meghatározott feltételek szerint kell elvégezni.
+
+1.3. A törzskönyvi szabályzatban részletesen szabályozni kell:
+
+1.3.1. a tenyészebek és a tenyésztési programhoz szükséges utódaik meghatározott határidőn belüli bejelentését;
+
+1.3.2. a fedeztetési, termékenyítési dátumoknak és a kölykezési dátumoknak a tenyésztőszervezethez meghatározott határidőn belüli bejelentését;
+
+1.3.3. a tenyésztőnél a törzskönyvbevétel alapjaként szükséges alapbizonylatok készítését, a tenyészebek azonosítójáról, ismertetőjeleiről, származásáról, a fedeztetési, valamint a kölykezési dátumokról;
+
+1.3.4. a származásellenőrzés módját;
+
+1.3.5. a tulajdonosváltozás bejelentését;
+
+1.3.6. a felelősség viselését a jelölésért, az előírt bejelentésekért, a feljegyzésekért, valamint a regisztrációkért.
+
+2\. A magyar ebfajta származási igazolásának kiállítására vonatkozó követelmények
+
+2.1. A származási igazolásnak legalább a következő adatokat kell tartalmaznia:
+
+2.1.1. sorszám;
+
+2.1.2. a tenyésztőszervezet neve, a törzskönyv megnevezése és az osztályba sorolás;
+
+2.1.3. az eb születési dátuma, fajtája és ivara;
+
+2.1.4. az eb megjelölésének módja, egyedazonosítója és ismertetőjele, valamint törzskönyvi száma;
+
+2.1.5. a tenyésztő és a tulajdonos neve és címe;
+
+2.1.6. az eb származása legalább a dédszülői generációig visszamenőleg, az ősök törzskönyvi száma;
+
+2.1.7. az eb és szülei, valamint nagyszülei minősítése, annak időbeni korlátai;
+
+2.1.8. a kiállítás helye és időpontja;
+
+2.1.9. a szakmai munkáért felelős személy aláírása és a tenyésztőszervezet bélyegzőlenyomata;
+
+2.1.10. a teljesítményvizsgálatok és azok eredményei.
+
+2.2. A 2.1.10. pont szerinti teljesítményvizsgálatokat és azok eredményét a származási igazolást kísérő teljesítményvizsgálati könyv is tartalmazhatja. Ebben az esetben a teljesítményvizsgálati könyv sorszámát a származási lapon fel kell tüntetni.
+
+2.3. A származási igazolásról másodlatot az eredeti sorszám jelöléssel a kiállító adhat ki. A másodlaton fel kell tüntetni a másodlat kiadásának okát és a kiállítás időpontját. A másodlat kiadását nyilvántartásba kell venni.
+
+2.4. Melléktörzskönyv alapján származási igazolás csak ennek a ténynek a feltüntetésével állítható ki.
+
+## 20. melléklet a 45/2019. (IX. 25.) AM rendelethez
+
+**A magyar ebfajták teljesítményvizsgálati szabályzatára vonatkozó követelmények**
+
+1\. A magyar ebfajták teljesítményvizsgálati szabályzatának összeállításakor a fajta származási országának követelményrendszerét kell figyelembe venni.
+
+2\. A teljesítményvizsgálati szabályzatnak tartalmaznia kell legalább a következőket:
+
+2.1. a tenyészcélnak megfelelő (például küllem, munkateljesítmény) teljesítményvizsgálat szabályait;
+
+2.2. a kiállítási szabályzatot;
+
+2.3. a bírálatok és vizsgák rendjét, a bírók kijelölésének szabályait, az elérhető címek és díjak rendjét;
+
+2.4. a versenyszabályzatot;
+
+2.5. a teljesítményvizsgálatot végzők személyi feltételeit;
+
+2.6. a nemzetközileg elfogadott irányelvek alapján kidolgozott tenyészeb kiállítás és munkavizsga szabályzatot;
+
+2.7. a bírói testület működési szabályzatát, a bírók minősítésének követelményrendszerét, a bírók felelősségét;
+
+2.8. a munkavizsgával rendelkező fajták esetében a teljesítményvizsgálatban részt vevő segédek minősítésének követelményrendszerét;
+
+2.9. e rendelet hatálybalépése előtt szerzett teljesítményvizsgálati eredmények figyelembevételének szabályait;
+
+2.10. az importált egyedek származási országban szerzett teljesítményvizsgálati eredményei figyelembevételének szabályait;
+
+2.11. a nem a tenyésztőszervezet által rendezett vagy külföldi tenyészeb kiállításon megszerzett teljesítményvizsgálati eredmények figyelembevételének szabályait.
+
+## 21. melléklet a 45/2019. (IX. 25.) AM rendelethez[^8]
+
+**A házi nyúl, a csincsilla, a magyar ebfajták, a házi tyúk, a gyöngytyúk, a házi lúd, a házi kacsa, a pézsmakacsa, a pulyka, a strucc, az emu, a ponty, a fogassüllő, a harcsa, a sebes pisztráng, a szivárványos pisztráng és a mézelő méh teljesítményvizsgálatának és tenyészértékbecslésének elfogadott módszerei**
+
+1\. Központi vizsgálatok:
+
+1.1. egyedi, sajátteljesítmény vizsgálatok,
+
+1.2. ivadék és oldalági vizsgálatok,
+
+1.3. szülőpár és végterméktesztek.
+
+2\. Üzemi vizsgálatok:
+
+2.1. nőivarú egyedek végtermék tesztekhez kapcsolódó szaporasági vizsgálatai,
+
+2.2. teljesítményvizsgálat tenyészállatok saját, ivadékai és oldalági rokonai termelőképessége alapján,
+
+2.3. körvizsgálatok, ahol az ivadékokat az összehasonlíthatóság érdekében különböző állományokból választják ki,
+
+2.4. törzs-, szaporító- és végterméktelepek vizsgálata,
+
+2.5. tenyésztő és árutermelő telepek adatai alapján végzett vizsgálatok.
+
+3\. Az üzemi vizsgálatok feltétele, hogy
+
+3.1. a NÉBIH és a fővárosi és vármegyei kormányhivatal ellenőrzésén alapuljanak,
+
+3.2. megfeleljenek a vonatkozó nemzetközi előírásoknak, valamint
+
+3.3. a vizsgálatok lezárása után a tenyészérték az állattenyésztés általánosan elismert szakmai szabályai szerint kiszámítható legyen.
+
+4\. Azonosított utódok vágóhídi adatai alapján végzett vizsgálatok:
+
+4.1. a vizsgálatok feltétele, hogy az egyedek megbízható megjelöléssel rendelkezzenek, és a vizsgálat alapján a tenyészérték az állattenyésztés általánosan elismert szakmai szabályai szerint kiértékelhető legyen.
+
+5\. A vizsgálatok során az elfogadott tenyésztési programmal összhangban meg kell állapítani
+
+5.1. a vizsgálati eljárást:
+
+5.1.1. a mintavétel módját,
+
+5.1.2. a központi vizsgálatoknál a betelepítés feltételeit,
+
+5.1.3. a vizsgálat időtartamát, az állatok korát, súlyát, a vizsgálat kezdetén és végén,
+
+5.1.4. a takarmányt és a takarmányozás módját,
+
+5.1.5. a vizsgált tulajdonságokat és a mérés módját,
+
+5.1.6. az állatok jelölésének módját;
+
+5.2. a tenyészértékbecslési eljárást:
+
+5.2.1. a tenyészértékbecslési módszert,
+
+5.2.2. a kiértékelések, számítások módját,
+
+5.2.3. a tenyészérték kifejezések módját;
+
+5.3. a vizsgálati jogosultságot:
+
+5.3.1. a vizsgálatot végző tenyésztőszervezet megnevezését,
+
+5.3.2. a vizsgálat végzésével megbízott szervezetet vagy személyt,
+
+5.3.3. a vizsgálat ellenőrzésére vonatkozó előírást;
+
+5.4. a vizsgálat eredménye közzétételének módját:
+
+5.4.1. a közzétételre jogosultak megnevezését,
+
+5.4.2. a közzétett anyag tartalmát,
+
+5.4.3. a közzététel formáját.
+
+---
+
+[^1]: A 27. § (8) bekezdés a) pontja a 46/2020. (IX. 23.) AM rendelet 39. § a) pontja, a 154/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a, az 59/2020. (XI. 30.) AM rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 16. melléklet 1. pontjában foglalt táblázat 2a. sorát a 67/2024. (XII. 20.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 16. melléklet 2. pontjában foglalt táblázat 2. sorát a 67/2024. (XII. 20.) AM rendelet 2. §-a hatályon kívül helyezte.
+[^7]: A 17. mellékletben foglalt táblázat 2. sora a 67/2024. (XII. 20.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 21. melléklet a 46/2020. (IX. 23.) AM rendelet 39. § b) pontja, a 154/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.

@@ -1,0 +1,7792 @@
+---
+title: "41/1997. (V. 28.) FM rendelet az Állategészségügyi Szabályzat kiadásáról"
+identifier: "41/1997. (V. 28.) FM rendelet"
+njt_id: "1997-41-20-11"
+eli: "https://njt.jog.gov.hu/eli/R/1997/FM/41"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1997-05-28
+in_force_from: 2009-11-06
+last_amended: 2025-10-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-41-20-11"
+retrieved: 2026-10-12
+---
+
+# 41/1997. (V. 28.) FM rendelet az Állategészségügyi Szabályzat kiadásáról[^1]
+
+Az állategészségügyről szóló 1995. évi XCI. törvény (a továbbiakban: Tv.) 45. §-ának 1. pontjában kapott felhatalmazás alapján, az érdekelt miniszterekkel egyetértésben a következőket rendelem el:
+
+###### 1. §
+
+Az Állategészségügyi Szabályzatot (a továbbiakban: Szabályzat) e rendelet (a továbbiakban: R.) 1. számú mellékleteként kiadom, melyet a Mezőgazdasági és Élelmezésügyi Értesítőben kell közzétenni.
+
+###### 2. §
+
+(1)[^2] A Tv. 9. §-ának (3) bekezdésében meghatározott járványos állatbetegségek megelőzése, felderítése és felszámolása során keletkezett, a Tv. 2. §-ának 14. pontja szerinti állati hulladéknak, a hulladék keletkezési helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) által járványügyi intézkedésként elrendelt kötelező ártalmatlanná tételéért a tevékenységet végző, kijelölt vállalkozót – a központi költségvetésben állatkárok kártérítése címen jóváhagyott forrás terhére – díj illeti meg.
+
+(2)[^3] A díjnak a vállalkozó részére való átutaltatásáról – a munka elvégzését igazoló számla ellenében – az ártalmatlanná tételt elrendelő járási hivatal gondoskodik.
+
+(3)[^4] A vállalkozó által kiállított számlát a járási hivatal hagyja jóvá.
+
+(4) Az állati hulladéknak az (1) bekezdés szerinti ártalmatlanná tételével kapcsolatos díjak mértékét a rendelet 2. számú melléklete tartalmazza.
+
+###### 2/A. §[^5]
+
+E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
+###### 3. §
+
+(1) Ez a rendelet 1997. július 1. napján lép hatályba, egyidejűleg
+
+a) az állategészségügyről szóló 1981. évi 3. törvényerejű rendelet végrehajtására kiadott 6/1981. (IV. 12.) MÉM rendelet és az azt módosító 23/1981. (XI. 26.) MÉM rendelet, a 28/1982. (XII. 24.) MÉM rendelet 1. §-a, a 3/1986. (II. 21.) MÉM rendelet, a 3/1992. (II. 10.) FM rendelet 4. §-a, a 39/1993. (IX. 16.) FM rendelet, a 43/1995. (XII. 22.) FM rendelet, a 12/1996. (V. 7.) FM rendelet,
+
+b) az Állategészségügyi Szabályzat kiadásáról szóló 28/1981. (XII. 30.) MÉM rendelet és az azt módosító 28/1982. (XII. 24.) MÉM rendelet 2. §-a és 1. számú melléklete, az 1/1987. (I. 31.) MÉM rendelet, az 5/1989. (IV. 7.) MÉM rendelet, a 3/1992. (II. 10.) FM rendelet 5–6. §-a,
+
+c) a szarvasmarha-állományok gümőkór- és brucellózis mentesítésének állami támogatásáról szóló 29/1981. (XII. 30.) MÉM rendelet és az azt módosító 28/1982. (XII. 24.) MÉM rendelet 3. §-a,
+
+d) az állati eredetű élelmiszerek élelmiszer-higiéniai vizsgálatáról és ellenőrzéséről szóló 30/1981. (XII. 30.) MÉM–EüM rendelet és az azt módosító 28/1982. (XII. 24.) MÉM rendelet 4. §-a, továbbá 2. számú melléklete, a 16/1992. (V. 26.) FM–NM rendelet, a 9/1994. (III. 10.) FM rendelet 18. §-ának (11) bekezdése,
+
+e) az Állati Eredetű Fehérjetakarmányokat Előállító Üzemek Higiéniai Szabályzatáról szóló 1/1982. (I. 1.) MÉM rendelet és az azt módosító 28/1982. (XII. 24.) MÉM rendelet 5. §-a és 3. számú melléklete, a 9/1990. (IV. 30.) MÉM rendelet 3. §-a,
+
+f) az állatorvosok és egyéb állategészségügyi szakemberek foglalkoztatásáról és feladatairól szóló 3/1982. (I. 16.) MÉM rendelet és az azt módosító 28/1982. (XII. 24.) MÉM rendelet 6. §-a,
+
+g) az állathullák, állati eredetű hulladékok és melléktermékek begyűjtésére és feldolgozására vonatkozó egyes miniszteri rendeletek módosításáról szóló 17/1986. (X. 30.) MÉM rendelet,
+
+h) az egyes állategészségügyi jogszabályok módosításáról szóló 11/1990. (IV. 30.) MÉM rendelet,
+
+i) az állati hulladékok hatóságilag elrendelt ártalmatlanná tételéért fizetendő díjakról szóló 10/1997. (II. 12.) FM rendelet
+
+hatályát veszti.
+
+(2) Ez a rendelet az Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény alapján az Európai Közösségek jogszabályaihoz való közelítést célozza. Az irányadó és e rendelet alkotásánál figyelembe vett közösségi jogszabályok jegyzékét a 3. számú melléklet tartalmazza.
+
+## 1. számú melléklet a 41/1997. (V. 28.) FM rendelethez
+
+**Állategészségügyi Szabályzat[^6]**
+
+ELSŐ\
+AZ ÁLLAT EGÉSZSÉGVÉDELME
+
+### I. CÍM — AZ ÁLLATBETEGSÉGEK MEGELŐZÉSÉNEK ÉS LEKÜZDÉSÉNEK ÁLTALÁNOS SZABÁLYAI
+
+#### I. Fejezet — AZ ÁLLATTARTÁS ÁLLATEGÉSZSÉGÜGYI KÖVETELMÉNYEI
+
+###### Az állatok elhelyezése
+
+###### 1. §
+
+(1) Állatokat tartani – amennyiben külön jogszabály másként nem rendelkezik – csak az Országos Építésügyi Szabályzat (a továbbiakban: OÉSZ) által előírtaknak megfelelő helyen és építményben, valamint a külön jogszabályban foglaltak szerint szabad.
+
+(2) Az állattartáshoz olyan állattartó épületet, telepet, karámot stb. (a továbbiakban: állattartó létesítmény) kell létesíteni, továbbá olyan állattenyésztési, állattartási technológiát (a továbbiakban: technológia) kell alkalmazni, amely lehetővé teszi az állatok fertőzésmentes, egészséges környezetben való tartását és biztosítja, hogy az állati termék közvetlenül emberi fogyasztásra vagy élelmiszer-előállításra alkalmas legyen.
+
+(3) Az állattartó létesítményekkel kapcsolatos előírásokat az 1. számú függelék tartalmazza.
+
+(4) Az állatok tartása az emberek, az állatok egészségét nem veszélyeztetheti, a környezetet nem károsíthatja.
+
+###### Állattartó telep, épület létesítésének, átalakításának és üzemeltetésének állategészségügyi feltételei
+
+###### 2. §
+
+(1)[^7] Az állattartó telep székhelye szerint illetékes járási hivatal a szakhatósági hozzájárulását az engedélyező hatósághoz benyújtott terveknek a 2. számú függelékben foglaltak szerint elvégzett vizsgálata alapján adja ki.
+
+(2) Nagylétszámú állattartó telepeken az állattartónak járványvédelmi-intézkedési tervet kell készítenie, ami tartalmazza a telepen folyamatosan készenlétben álló fertőtlenítőszerek, berendezések felsorolását és mennyiségét is. A berendezések folyamatos üzemelését a hatósági állatorvos rendszeresen ellenőrzi.
+
+###### 3. §[^8]
+
+A nagylétszámú állattartó telepen, takarmány-előállító üzemben, mesterséges termékenyítő, embrióátültető, keltető állomáson csak érvényes egészségügyi könyvvel rendelkező, a munkaalkalmassági vizsgálatokon igazoltan megjelent és alkalmasnak talált személy dolgozhat. A járási hivatal vezetője közvetlen emberi fogyasztásra kerülő állati eredetű termék (pl. tej, tejtermék) előállítása esetén ezt a feltételt a kislétszámú állattartó telepre is előírhatja.
+
+###### Állattartó telep, épület benépesítésének állategészségügyi szabályai
+
+###### 4. §
+
+(1)[^9] Nagylétszámú állattartó telepet, épületet benépesíteni csak a járási hivatal előzetes engedélyével, az országos mentesítés körébe vont betegségek kórokozóitól mentes állományból származó, azonos fajú – lehetőleg egy helyről származó és azonos korú – állatokkal szabad, a származási helyen vagy az elkülönítőben elvégzett, előírt diagnosztikai vizsgálatok kedvező eredménye alapján. Az állattartó telepen más fajú állat csak az illetékes hatósági állatorvos engedélyével tartható. Az újonnan benépesített telep egyben elkülönítőnek minősül.
+
+(2)[^10] Benépesített állattartó telepre, állományba, idegen helyről vagy külföldről származó állatot bevinni csak kedvező eredménnyel zárult elkülönítés után, a járási hivatal előzetes engedélyével szabad. Az előírt vizsgálatokat az elkülönítés ideje alatt kell elvégezni.
+
+###### 5. §
+
+(1) Állattartó létesítményt, legelőt úgy kell kialakítani és üzemeltetni, hogy annak benépesítése és kiürítése (az állatok elszállítása) egyszerre, hét–tizennégy napon belül elvégezhető legyen.
+
+(2) Kiürítés után az állattartó köteles elvégezni vagy elvégeztetni az állattartó létesítmény, legelő takarítását és a fertőtlenítési útmutató szerinti fertőtlenítését. A fertőtlenítési útmutatót a 18. számú függelék tartalmazza.
+
+(3) A folyamatos benépesítés mellett üzemelő állattartó telepen az épületeket az állattartó évente legalább egyszer köteles kitakarítani és fertőtleníteni, valamint a rágcsálók és rovarok irtásáról folyamatosan gondoskodni.
+
+###### 6. §
+
+(1) A nagylétszámú állattartó telepre az ott dolgozókon és az időszakos munkavégzés céljából belépőkön (inszeminátor, állattenyésztő szervezet és hatóság ellenőre) kívül csak a telep tulajdonosa, üzemeltetője, a telepet ellátó és a hatósági állatorvos, a megelőző járványvédelmi előírások betartása mellett léphet be.
+
+(2) Látogató csak kéz- és lábbeli fertőtlenítés, átöltözés vagy védőköpeny, sapka és védőlábbeli felvétele után, a telepet ellátó állatorvos felügyelete mellett léphet a telep területére. A látogató nevét, címét és a látogatás idejét a telepi naplóban rögzíteni kell.
+
+(3) Járványveszély esetén az állattartó telepek nem látogathatók.
+
+(4) Az állattartó telepre fertőzés közvetítésére alkalmas tárgyakat bevinni, illetve – csak a telep ellátásához és működéséhez szükséges – járműveket bebocsátani fertőtlenítés után szabad.
+
+###### Az állatok etetésének, itatásának általános állategészségügyi szabályai
+
+###### 7. §
+
+(1) Az állatok etetésekor, itatásakor és legeltetésekor az állategészségügyi szabályok szerint kell eljárni. Az állatok etetésére csak olyan takarmányt szabad felhasználni, amely az állat, illetőleg közvetve az ember egészségét nem veszélyezteti.
+
+(2)–(6)[^11]
+
+###### 8. §
+
+A nagylétszámú állattartó telepen emberi fogyasztásra alkalmatlan tejet – kivéve a föcstejet –, fölözött tejet, savót és írót csak húsz percig tartó, 82 °C-os hőkezelés után szabad takarmányozási célra felhasználni. A hőkezelést hatósági állatorvos által engedélyezett helyen kell elvégezni.
+
+###### 9. §
+
+(1) A vágóhídi és élelmiszerelőállító-üzemi hulladék feldolgozását, ártalmatlanná tételét csak a hatályos jogszabályok alapján erre a célra engedélyezett állatitermék-feldolgozó üzemben szabad végezni.
+
+(2) Konyhai nyers ételhulladékot, konyhamoslékot állatok etetésére csak e Szabályzat előírásainak [42. § (5) bekezdése] megfelelően szabad felhasználni.
+
+###### 10. §
+
+(1) A nagylétszámú állattartó telepen az állatok takarmányozását, a takarmányozásra felhasznált mezőgazdasági terményeket, azok kezelését, tárolását, továbbá a takarmánykeverék előállításához felhasznált egyéb anyagokat, az előállítás módját, a telepet, a takarmány-előállító üzemet a telepet ellátó állatorvosnak folyamatosan figyelemmel kell kísérnie.
+
+(2)[^12] Ha a takarmány az állattartó vagy a telepet ellátó állatorvos véleménye szerint nem felel meg az előírt állategészségügyi követelményeknek, az állatorvos köteles a járási hivatalt erről értesíteni, ezzel egy időben további intézkedésig a takarmány felhasználását, illetve helyben történő előállítását és onnan való forgalomba hozatalát megtiltani.
+
+###### 11. §
+
+(1) Az állatok itatására lehetőleg ivóvíz minőségű vizet kell felhasználni. A felhasznált víz minőségéről, annak rendszeres (legalább évenként egyszeri, illetve szükség szerinti) laboratóriumi vizsgálatáról, a kutak, a vezetékek, az itató berendezések karbantartásáról, fertőtlenítéséről, a felesleges víz elvezetéséről a tulajdonos vagy az üzemeltető köteles gondoskodni.
+
+(2) Gyógykezelési vagy immunizálási célból az állatok itatóvizébe csak állatorvosi rendelkezésre és állatorvosi felügyelet mellett szabad olyan állatgyógyászati készítményt bekeverni, amely vízben egyenletesen és jól oldódik, továbbá az adott állatfajra (hasznosítási irányra és korcsoportra) engedélyezett.
+
+(3) Mikrobiológiai szempontból kifogásolt itatóvizet szolgáltató kút fertőtlenítése (klórozása) csak állatorvosi felügyelet mellett történhet úgy, hogy a kút vizének állatok itatására való ismételt felhasználása csak kedvező laboratóriumi vizsgálati eredmény birtokában engedélyezhető.
+
+(4)[^13] A folyó- és állóvizeket nem szabad házi haszonállatok itatására, úsztatására felhasználni. Indokolt esetben a járási hivatal – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalának előzetes szakvéleménye alapján – ettől eltérően is intézkedhet.
+
+(5) Egészségügyi intézmények területéről származó vagy csapadékvizet is tartalmazó legelői árkokból és vízfolyásokból állatok nem itathatók, továbbá az ilyen vízfolyások száz méteres sávján belül állatokat legeltetni sem szabad.
+
+###### A legeltetés állategészségügyi szabályai
+
+###### 12. §
+
+(1) A legelő vagy a legeltetésre használt gyepterület (a továbbiakban: legelő), valamint az ott lévő kút, itatóhely, egyéb víznyerőhely állategészségügyi szempontból kifogástalan állapotáról a tulajdonos, a kezelő, illetőleg a használó köteles gondoskodni, amit a hatósági állatorvos ellenőriz.
+
+(2) A legelőt úgy kell gondozni, hogy azon az állatok egészségét veszélyeztető kártevők minél kisebb számban maradjanak életben. A legelőt – a természetvédelmi területek kivételével – vízrendezéssel az állóvizektől, tocsogóktól mentesíteni kell. El kell végezni a mérgező növények, valamint az állatok egészségét vagy testi épségét veszélyeztető hulladékok és idegen anyagok eltávolítását is. A legelőn az átjárást meg kell tiltani. Az állatok egészségét, testi épségét veszélyeztető létesítményt legelőn építeni, vagy állatokra veszélyes anyagokat legelőn tárolni nem szabad.
+
+(3) A tartósan legelőn tartott állatok gyógykezelésének és védőoltásának elvégzéséhez kezelőfolyosót, egyedi kezeléshez leszorítást, lekötést lehetővé tevő berendezést kell létesíteni. A beteg állatok részére elkülönítő karámról is gondoskodni kell.
+
+###### 13. §
+
+(1) Legeltetni növényvédő szeres kezelés után csak az előírt várakozási idő elteltével, műtrágyával nem szennyezett legelőn szabad.
+
+(2) A nehéz- és vegyipari üzemek öt kilométeres, az egy és két számjeggyel jelzett utak ötszáz méteres körzetében fekvő legelőterület fűtermését, valamint az itt termesztett szálas- és tömegtakarmányokat mérgező nehézfémekre (pl. kadmium, ólom, higany) laboratóriumi vizsgálattal, a legelő használójának költségére évente egyszer, a legeltetési időszak kezdete előtt ellenőriztetni kell. A külön jogszabályban előírt határértéket meghaladó esetben az érintett takarmánynövények esetleges feletetésének, illetőleg a legelő további hasznosításának módját a hatósági állatorvos határozza meg.
+
+###### 14. §
+
+(1) A hígtrágyát a legelőn való hasznosítása előtt – a termőföldről szóló törvény előírásainak megtartásával – legalább hatvan napig tárolni kell. Bejelentendő állatbetegség előfordulásakor a hígtrágya legelőn történő (esetleges) elhelyezésének követelményeit (beleértve a tárolási időt is) az adott betegségre vonatkozó részletes szabályok tartalmazzák, illetőleg a korlátozó intézkedést elrendelő állategészségügyi hatóság határozza meg.
+
+(2) A hígtrágya kijuttatását követően legkorábban harminc nap elteltével szabad állatokat a legelőre kihajtani.
+
+(3)[^14] Adott állattartó telep legelőjének öntözésére másik állattartó telep hígtrágyáját csak a legelő helye szerint illetékes járási hivatal előzetes engedélye után szabad felhasználni.
+
+(4) A legelőn állathullát elásni tilos.
+
+###### 15. §
+
+(1) Legelőre csak egészséges, bőrbagócslárvától és májmételytől mentes vagy kezelt, egyéb parazitás fertőzöttség esetén a kihajtás előtt legalább tizennégy nappal gyógykezelt állatokat szabad kihajtani.
+
+(2)[^15] Lépfenével, sercegő üszökkel, rosszindulatú vizenyővel és tetanusszal fertőzött legelőn (területen), csak a kihajtás előtt legalább két héttel korábban – de hat hónapnál nem régebben – vakcinázott állatokat szabad legeltetni. Fertőzött terület az, ahol a legeltetett állatokon a fenti betegségek huszonöt éven belül előfordultak. Erről a járási hivatalnak és a hatósági állatorvosnak nyilvántartást kell vezetnie.
+
+(3) A legelő állatokat őriztetni, veszettség ellen egy éven belül beoltott és a legeltetés előtt galand- és fonálféreg ellen hatékony gyógyszerrel kezelt kutyával szabad.
+
+###### 16. §
+
+A hatósági állatorvos az állatok kihajtását, legeltetését ellenőrzi és megtiltja, ha azok nem felelnek meg a legeltetés állategészségügyi szabályainak.
+
+###### Méhanyanevelő telep létesítése, üzemeltetése
+
+###### 29. §
+
+(1) Méhanyanevelő telep létesítésénél és üzembe helyezésénél a 18. § (1) bekezdése szerint kell eljárni.
+
+(2) Anyanevelő teleppé csak olyan méhészet nyilvánítható, amelyben három éve nem fordult elő bejelentési kötelezettség alá tartozó fertőző megbetegedés.
+
+(3)[^17] Az anyanevelő telepet minden méhészeti szezonban évente kétszer, állategészségügyi szempontok figyelembevételével – az illetékes hatósági állatorvos felügyelete mellett – a méhegészségügyi felelősnek vagy méhész szakértőnek meg kell vizsgálnia. Az első (tavaszi) vizsgálat során betegség gyanúja esetén vizsgálati anyagot kell küldeni a Nemzeti Élelmiszerlánc-biztonsági Hivatalba (a továbbiakban: NÉBIH), a kifejlett méhekből és a fiasításokból mintavétel útján, az anyanevelésre kijelölt családokból szúrópróbaszerűen (öt családból egy-egy mintát). A vizsgálatokról és annak eredményéről a hatósági állatorvosnak nyilvántartást kell vezetni. A vizsgálat díjköteles, a díjat a méhészet tulajdonosa viseli.
+
+(4)[^18] A bekövetkező változásokat a telep tulajdonosa, kezelője minden naptári év január 31. napjáig köteles bejelenteni a járási hivatalnak.
+
+#### II. Fejezet — Az állattartó kötelezettségei
+
+###### 34. §
+
+(1) Az állattartó köteles állattartási tevékenységéről (ló, szamár, öszvér, szarvasmarha, juh, kecske, sertés, méhcsaládok esetén létszámtól függetlenül, baromfi- és nyúlállományok esetén száz egyed felett), a tevékenység megkezdéséről, illetve megszüntetéséről az állatállományt ellátó állatorvost, illetőleg a települési önkormányzat jegyzőjét (fővárosban a fővárosi kerületi önkormányzat jegyzőjét) egyidejűleg tájékoztatni.
+
+(2) Az 1. számú függelék 4. pontjában meghatározott telepméret esetén az állattartó köteles folyamatos nyilvántartást vezetni a tartott állatok fajáról, koráról, létszámáról, a benépesítés, vásárlás időpontjáról, az állatok származási helyéről, a születés, elhullás, értékesítés, kényszervágás adatairól, továbbá az alkalmazott gyógykezelés, védőoltás időpontjáról és ennek okáról.
+
+###### 35. §
+
+Az állattartó köteles a nagylétszámú telepen tartott állatállományának szervezett és folyamatos állatorvosi ellátásáról gondoskodni.
+
+###### 36. §
+
+(1) Az állattartó a telepen elhelyezett, vásárolt állatállomány származását tanúsító okmányokat (marhalevél, hatósági állatorvosi bizonyítvány, tenyészállat esetén származási igazolás, kiadási-szállítási jegyzék, számlamásolat), az állomány-nyilvántartással együtt köteles a telepen tartani és hatósági ellenőrzés esetén bemutatni.
+
+(2) Az állattartó köteles állatait a külön jogszabály, illetőleg a tenyésztési előírások szerint megjelölni vagy megjelöltetni, a következő minimum követelmények figyelembevételével:
+
+a) *ló:* a tenyésztési szabályok szerinti egyedi jelölés (angol telivér esetében helyette részletes leírás is elfogadható);
+
+b) *szarvasmarha:* előre nyomtatott egyedi számot tartalmazó füljelző, tizenöt napos korig behelyezve. Az elveszett vagy használhatatlanná vált füljelzőt tizenöt napon belül pótolni kell;
+
+c) *sertés:* egyedileg vagy csoport részeként. Csoportos jelölés csak akkor alkalmazható, ha a nagylétszámú állományban tartott sertést az eredeti születési helyéről közvetlenül vágóhídra szállítják, gyűjtőhely érintése nélkül;
+
+d) *juh és kecske:* előre nyomtatott egyedi számot tartalmazó füljelző.
+
+###### 37. §
+
+(1) Az állattartó telepen, létesítményben keletkező állati hulladékot nyilvántartásba vétel és állatorvosi vizsgálat után, az előírt és engedélyezett módon kell gyűjteni, majd – a környezetvédelmi előírásoknak is megfelelő módon – ártalmatlanítani.
+
+(2) A telepen keletkező trágyát a jóváhagyott technológia szerint kell összegyűjteni, kezelni, hasznosítani és szükség esetén ártalmatlanná tenni.
+
+#### III. Fejezet[^23]
+
+#### IV. Fejezet — AZ ÁLLATFORGALMAZÁS, -SZÁLLÍTÁS, -HAJTÁS, -KIÁLLÍTÁS, -VÁSÁR, -PIAC ÉS AZ ÁLLATVERSENY ÁLLATEGÉSZSÉGÜGYI SZABÁLYAI
+
+###### Fogalommeghatározások
+
+###### Állatforgalmazás
+
+###### Állatvásár, állatpiac, állatkiállítás
+
+###### 61. §
+
+(1)[^32] Állatvásárteret, állatpiacot, állatkiállítást – a jogszabályi előírások megtartása mellett – a területileg illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala által engedélyezett helyen és időben szabad létesíteni, illetve tartani.
+
+(2)[^33] Az állatvásár vagy kiállítás megtartásához a járási hivatal engedélye szükséges.
+
+(3) Az állatvásárra, -piacra, valamint az állatkiállításra vonatkozó általános előírásokat a 7. számú függelék tartalmazza.
+
+###### 62. §
+
+(1)[^34] A nemzetközi részvétellel rendezett, továbbá országos kiállításra, bemutatóra, versenyre történő állatszállítás állategészségügyi feltételeit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) határozza meg.
+
+(2)[^35] Az állatvásárra vagy helyi kiállításra történő állatszállítás állategészségügyi feltételeit a rendezvény helye szerint illetékes járási hivatal határozza meg.
+
+###### 63. §
+
+(1) Állatvásárra, -piacra állatot csak érvényes marhalevéllel, egyedileg tartósan megjelölve szabad bevinni. A felhajtott állatot csak a vásár, illetve piac erre kijelölt területén szabad értékesíteni.
+
+(2)[^36] Az állatvásár, -piac vagy -kiállítás tartamára, a felhajtott vagy bemutatott állatok állategészségügyi felügyelete céljából a járási hivatal hatósági állatorvost rendel ki.
+
+(3) Az állatvásárra, -piacra vagy -kiállításra felhajtott szarvasmarhát, bivalyt, lovat, szamarat, öszvért a kirendelt hatósági állatorvosnak egyenként meg kell vizsgálni, más állatok egészségi állapotát megszemléléssel kell ellenőrizni. Kutyakiállítások és -versenyek alkalmával ellenőrizni kell a kötelező védőoltások megtörténtét is.
+
+(4) A kirendelt hatósági állatorvos a fertőző betegségre gyanús állatot köteles elkülöníttetni.
+
+###### Állatverseny
+
+###### 64. §
+
+Állatversenynek minősül: a lóverseny, a lovasverseny, az agárverseny, a galambröptető verseny, illetve egyéb állatok engedélyezett versenye.
+
+###### 65. §
+
+(1) Lóversenyen vagy lósport rendezvényen csak a lóállományok védelme című részben előírt feltételeknek megfelelő állatok vehetnek részt.
+
+(2)[^37] Lóversenyre vagy lósport rendezvényre szállítandó lovakat érvényes állategészségügyi igazolással ellátott Lóútlevélnek kell kísérnie.
+
+(3)[^38] A lóverseny vagy lósport rendezvény rendezője köteles annak időpontját és helyét az illetékes járási hivatalnak előzetesen bejelenteni. A járási hivatal által kijelölt hatósági állatorvos köteles a versenyre érkezett lovak egészségi állapotát és az állatorvosi igazolását ellenőrizni.
+
+###### 66. §
+
+Röptetés céljából szállított sportgalamb esetén igazolni kell, hogy a származási állományban az elszállítás idején baromfira átragadó fertőző betegség nem állt fenn, valamint a származási hely állategészségügyi igazgatási intézkedések hatálya alatt nem áll.
+
+###### 67. §
+
+Állatkiállításokon, -versenyeken részt vevő állatokat teljesítményfokozó szerekkel kezelni tilos, ennek ellenőrzésére indokolt esetben a hatósági állatorvos az állattartó költségére laboratóriumi vizsgálatot végeztethet.
+
+###### Mutatványos tevékenység
+
+###### 68. §
+
+(1) Mutatványos tevékenység: vásáron, piacon, búcsúban, vurstliban, cirkuszban a sokaságot idomított állatokkal szórakoztató tevékenység.
+
+(2) A mutatványos az állatairól azonosítást szolgáló, továbbá a származást és az egészségi állapotot bizonyító hatósági állatorvosi bizonyítványt köteles az ellenőrző hatósági állatorvosnak bemutatni.
+
+###### Az állatok lábon hajtása
+
+###### Az állatok szállítása
+
+###### 89. §[^59]
+
+Nagylétszámú állattartó telep, valamint a kislétszámú tenyésztelep betelepítése a fogadás helye szerint illetékes járási hivatal előzetes hozzájárulásával történhet. Az állatoknak az országos mentesítés körébe vont betegségek kórokozóitól mentesnek kell lenniük, és az állatokat indokolt esetben parazitózisok elleni gyógykezelésben kell részesíteni. Az országos mentesítésbe vont betegségeket a minisztérium hivatalos lapjában kell közzétenni.
+
+###### Elkülönítés és állategészségügyi megfigyelés
+
+###### 90. §
+
+(1)[^60] Idegen állományból származó – külföldi és belföldi származású – állatokat a külön jogszabályban foglaltak figyelembevételével kell állategészségügyi megfigyelés céljából különíteni.
+
+(2)[^61] Elkülönítés esetén az állatok megfigyelésének időtartamát a járási hivatal – a külön jogszabályban foglaltak figyelembevételével – határozza meg az alábbiak szerint.
+
+(3)[^62] Az elkülönítőt – a hatósági állatorvos javaslata alapján – a járási hivatal engedélyezi. Vemhes állatokat az ellést követő diagnosztikai vizsgálatok eredményéig kell megfigyelés alatt, elkülönítőben tartani.
+
+###### 91. §
+
+(1) Az elkülönítés és megfigyelés részletes szabályait a 12. számú függelék tartalmazza.
+
+(2) Elkülönítésnek minősül az is, ha a telepet egyszerre egy vagy több helyről származó állattal népesítik be, és a különböző helyről származó állományokat egymástól elkülönítve tartják. Ilyen esetben a megfigyelés idejét az utolsó állat beszállításától kell számítani.
+
+###### 92. §
+
+Megfigyelési céllal el kell különíteni az állatvásárról, -piacról, -kiállításról, -versenyről, -kórházból, -klinikáról visszahozott állatokat is.
+
+###### 93. §
+
+(1) A megfigyelés feltételeit az állattartó köteles megteremteni és viselni annak költségeit.
+
+(2) Az elkülönítést a hatósági állatorvos ellenőrzi.
+
+###### 94. §
+
+(1)[^63] Az országba behozni kívánt állatok állategészségügyi megfigyelésének feltételeit az állatok fogadási helye szerint illetékes járási hivatal köteles előzetesen ellenőrizni, megfelelő esetben erről igazolást adni.
+
+(2)[^64] A külföldről behozott állatok megfigyelés alatti ellenőrzését és vizsgálatát a járási hivatal végzi.
+
+(3)[^65] A külön jogszabályokban foglaltak figyelembevételével a külföldről származó állatokon a megfigyelés feltételeit, az esetlegesen előforduló fertőzöttség felderítésére végzett vizsgálatokat az állatok fajától és a származási ország állategészségügyi helyzetétől függően a minisztérium a behozatali engedély megadásakor határozza meg.
+
+###### 95. §
+
+Az állatok elkülönítését az eltelt megfigyelési idő, valamint az elvégzett vizsgálatok kedvező eredménye alapján az illetékes hatósági állatorvos oldja fel.
+
+#### V. Fejezet — AZ ÁLLATBETEGSÉGEK KÜLFÖLDRŐL TÖRTÉNŐ BEHURCOLÁSÁNAK, ILLETVE KÜLFÖLDRE VALÓ KIHURCOLÁSÁNAK MEGAKADÁLYOZÁSA, ELLENŐRZÉSRE KÖTELEZETT ÁRUK NEMZETKÖZI FORGALMA
+
+###### Állategészségügyi ellenőrzésre kötelezett áruk nemzetközi forgalma
+
+###### 103. §
+
+(1) A Szabályzat alkalmazása szempontjából beteg az az állat, amelyen valamely fertőző vagy egyéb betegség tünetei olyan jellegzetesen észlelhetők, és/vagy a laboratóriumi vizsgálatok olyan eredményre vezetnek, hogy azok alapján az adott betegséget kétségtelenül fel lehet ismerni.
+
+(2) Betegségre gyanús az az állat, amelyen valamely betegség tünetei nem kifejezetten észlelhetők, és emiatt a betegséget nem lehet kétségtelenül felismerni.
+
+(3) Fertőzöttnek kell tekinteni azt az állatot, amelyen betegségre utaló tünetek nem észlelhetők ugyan, de amelynek fertőzöttsége – a Szabályzatban az illető betegségre vonatkozóan leírtak szerint – bizonyítható.
+
+(4) Fertőzöttségre gyanús az az állat, amelyen a betegség tünetei nem észlelhetők, de amelyet a beteg, betegségre gyanús vagy fertőzött állatokkal a betegség megállapítását megelőzően, az egyes betegségekre vonatkozó megfigyelési időn belül és a betegség megállapítása után – az adott betegségre jellemző leghosszabb lappangási időt figyelembe véve – együtt tartottak, vagy érintkeztek olyan személyekkel, ragályhordozó tárgyakkal, akik (amelyek) a betegséget terjeszthetik.
+
+###### A települési önkormányzat jegyzőjének feladatai a szabályzatban részletezett fertőző és parazitás állatbetegségek gyanúja esetén
+
+###### AZ ÁLLATEGÉSZSÉGÜGYI SZOLGÁLAT ÁLTALÁNOS FELADATAI A BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ ÁLLATBETEGSÉGEK ESETÉN
+
+###### A szolgáltató állatorvos feladatai bejelentési kötelezettség alá tartozó fertőző állatbetegség gyanúja esetén[^76]
+
+###### 107. §[^77]
+
+Ha a szolgáltató állatorvos, állatnak bejelentési kötelezettség alá tartozó állatbetegségben történt megbetegedéséről, betegség gyanújáról, fertőzöttségéről, fertőzöttség gyanújáról értesül, köteles
+
+a) vizsgálat céljából a helyszínre haladéktalanul kiszállni;
+
+b) bejelentési kötelezettség alá tartozó állatbetegség gyanújának észlelése esetén az állatbetegség leküzdésére vonatkozó tevékenységet elkezdeni;
+
+c) a betegség helyhez kötése, valamint az emberi egészség megóvása érdekében szükséges magatartásra az állattartót utasítani;
+
+d) az illetékes hatósági állatorvost és a helyi önkormányzat jegyzőjét haladéktalanul értesíteni.
+
+###### A hatósági állatorvos feladatai
+
+###### 108. §
+
+(1) Ha a hatósági állatorvos állatnak bejelentési kötelezettség alá tartozó betegségben történt megbetegedéséről, betegség gyanújáról, fertőzöttségéről, fertőzöttség gyanújáról, továbbá beteg állat elhullásáról értesül, az egyes betegségek leküzdésére vonatkozó részletes szabályok figyelembevételével köteles
+
+a)[^78] vizsgálat céljából a helyszínre a legrövidebb időn belül kiszállni és azt követően, ha a betegséget vagy annak gyanúját észlelte, arról a járási hivatalnak és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatalnak (a továbbiakban: vármegyei kormányhivatal) rövid úton jelentést tenni, és a fertőzött hely állatállományát nyilvántartásba venni;
+
+b) tájékozódni a települési önkormányzat jegyzőjének intézkedéseiről és amennyiben a betegség, a betegség gyanúja, a fertőzöttség vagy a fertőzöttség gyanúja kizárható, a tett intézkedések hatályon kívül helyezését kezdeményezni;
+
+c) amennyiben a települési önkormányzat jegyzője nem intézkedett, a 106. §-ban előírtakat elrendelni;
+
+d) a betegség eredetének, elterjedésének vagy továbbhurcolásának felderítése céljából a vizsgálatot megkezdeni;
+
+e) közegészségügyi jelentőségű betegség vagy ennek gyanúja esetén a tényekről a háziorvost haladéktalanul értesíteni;
+
+f)[^79] a részletes szabályokban előírt mintavételt, szűrővizsgálatot a járási hivatallal egyeztetve elvégezni vagy elvégeztetni, és az utóbb említett esetben a munkát ellenőrizni;
+
+g) a részletes szabályokban előírt védőoltást, gyógykezelést elvégezni, illetve annak szakszerű elvégzését ellenőrizni;
+
+h) a részletes szabályokban előírt marhalevél kezelési tilalmat elrendelni;
+
+i) a betegséget hatóságilag megállapítani, amelyhez az egyes betegségek leküzdésére vonatkozó részletes szabályok szerint kell felülvizsgálatot kérnie;
+
+j) helyi zárlatot, hatósági megfigyelést és forgalmi korlátozást elrendelni.
+
+(2) Bejelentési kötelezettség alá tartozó állatbetegség megállapítása esetén a hatósági állatorvos a 15. számú függelék szerinti adatfelvételi lapot és jegyzőkönyvet köteles készíteni, és azt három évig megőrizni.
+
+(3) A fertőzött községgel szomszédos települések hatósági állatorvosait a betegség fellépéséről telefonon, majd azt követően írásban értesíteni kell.
+
+(4)[^80] A hatósági állatorvos az állatbetegségek állásáról minden hónap első napján a 16. számú függelék szerint a járási hivatalnak köteles jelentést tenni, az illetékességi területén előforduló fertőző állatbetegségekről a 17. számú függelék szerinti nyilvántartást vezetni.
+
+(5)[^81] A fertőző állatbetegség megszűnését a hatósági állatorvos köteles a járási hivatalnak jelenteni, s erről a szomszédos települések hatósági állatorvosa(i)t értesíteni.
+
+(6) A hatósági állatorvos köteles az adott betegség leküzdésére elrendelt fertőtlenítést irányítani és ellenőrizni.
+
+###### A járási hivatal feladatai[^82]
+
+###### 109. §
+
+(1)[^83] Ha a járási hivatal a hatósági állatorvos jelentéséből vagy egyéb úton tudomást szerez bejelentési kötelezettség alá tartozó állatbetegség fellépéséről, annak gyanújáról, fertőzöttségről vagy a fertőzöttség gyanújáról, köteles
+
+a) a helyszínen vizsgálatot tartani;
+
+b) a betegségnek, a betegség gyanújának, a fertőzöttségnek vagy a fertőzöttség gyanújának kizárása esetén a hatósági állatorvos rendelkezéseit hatályon kívül helyezni.
+
+(2)[^84] A járási hivatal betegség, betegség gyanúja, fertőzöttség vagy fertőzöttség gyanúja megerősítése esetén köteles
+
+a) a hatósági állatorvos intézkedéseit felülvizsgálni, s ezeket szükség szerint kiegészíteni vagy módosítani;
+
+b)[^85] a vármegyei kormányhivatalnak haladéktalanul jelentést tenni;
+
+c) a részletes szabályozásban meghatározott esetekben leölést, diagnosztikai célú leölést és jogosultság esetén az állami kártalanítást elrendelni;
+
+d)[^86] a betegség eredetére és elhurcolására irányuló vizsgálatot kiegészíteni, s szükség esetén az eredményt a vármegyei kormányhivatalnak haladéktalanul jelenteni;
+
+e) bejelentési kötelezettség alá tartozó állatbetegség fellépése esetén részleges vagy teljes községi zárlatot elrendelni, illetve a betegség megszűntekor azt feloldani;
+
+f) a fertőző állatbetegségek nyilvántartását a 17. számú függelék szerint vezetni;
+
+g)[^87] a fertőző állatbetegségek helyzetét minden hónap második napján a 16. számú függelék szerint a vármegyei kormányhivatalnak jelenteni.
+
+###### A vármegyei kormányhivatal feladatai bejelentési kötelezettség alá tartozó állatbetegségek megállapítása esetén[^88]
+
+###### 110. §
+
+(1)[^89] A vármegyei kormányhivatal a betegség hatósági megállapítása előtt az egyes betegségekre vonatkozó részletes szabályok figyelembevételével végez felülvizsgálatot.
+
+(2)[^90] A vármegyei kormányhivatal köteles
+
+a)[^91] a járási hivatal intézkedéseit ellenőrizni, szükség esetén azokat kiegészíteni vagy módosítani, továbbá a betegség eredetének, illetve tovahurcolásának felderítésére irányuló vizsgálatok irányítását átvenni;
+
+b)[^92] ha a betegség más vármegyéből származik vagy ennek gyanúja merül fel, illetve áthurcolásának lehetősége áll fenn, erről az illetékes vármegyei kormányhivatalt értesíteni;
+
+c)[^93] szükség esetén a védekezés céljából állatorvosokat, szaksegédeket – a járási hivatal útján – kirendelni;
+
+d) a részletes szabályokban meghatározott esetekben a védőkörzetet elrendelni;
+
+e) a részletes szabályokban foglaltak szerint a bejelentési kötelezettség alá tartozó állatbetegség jelentkezését a minisztériumnak jelenteni, s a meghatározott esetekben annak utasítása szerint eljárni;
+
+f) a betegségek állásáról a 17. számú függelék szerint nyilvántartást vezetni;
+
+g)[^94] a járási hivatalok jelentése alapján, a 16. számú függelék szerint az állatbetegségek állását minden hónap harmadik napján a minisztériumnak jelenteni;
+
+h) a betegség elterjedésének felderítésére szolgáló diagnosztikai vizsgálatokat, a leküzdéshez és a tovaterjedés meggátlásához szükséges vakcinázást, gyógykezelést, fertőtlenítést elrendelni.
+
+###### Az állatbetegségnek a megállapításával egy időben történő megszűntté nyilvánítása
+
+###### 111. §
+
+(1) A bejelentési kötelezettség alá tartozó állatbetegséget a megállapítással egyidejűleg megszűntté kell nyilvánítani, ha azt hullán állapították meg, és a községben beteg, betegségre vagy fertőzöttségre gyanús állat nincs; ha volt, levágták, leölték vagy ebből a célból más községbe szállították, és a fertőtlenítést elvégezték.
+
+(2)[^95] Az egyes bejelentési kötelezettség alá tartozó állatbetegségek legrövidebb lappangási ideje, valamint a betegség megszüntetése szempontjából figyelembe veendő, és az utolsó fertőzési lehetőségektől számított megfigyelési idő a következő:
+
+------------------
+
+lappangás | megfigyelés
+
+------------------
+
+ragadós száj- és körömfájás 2 | 14 nap
+
+hólyagos szájgyulladás 2 | 21 nap
+
+sertések hólyagos betegsége (SVD) 1 | 28 nap
+
+keleti marhavész 3 | 21 nap
+
+kiskérődzők pestise 4 | 21 nap
+
+szarvasmarhák ragadós tüdőlobja 14 | 180 nap
+
+bőrcsomósodáskór 4 | 28 nap
+
+Rift-völgyi láz 1 | 30 nap
+
+kéknyelv betegség 5 | 40 nap
+
+juhhimlő és kecskehimlő 4 | 21 nap
+
+afrikai lópestis 3 | 40 nap
+
+afrikai sertéspestis 2 | 40 nap
+
+klasszikus sertéspestis 3 | 40 nap
+
+madárinfluenza (klasszikus baromfipestis) 1 | 21 nap
+
+newcastle-betegség (baromfipestis) 1 | 21 nap
+
+szarvasmarhák gümőkórja 30 | – nap
+
+fertőző sertésbénulás 7 | 40 nap
+
+veszettség 7 | 180 nap
+
+takonykór 14 | 180 nap
+
+tenyészbénaság 5 | 180 nap
+
+lovak fertőző kevésvérűsége 5 | 180 nap
+
+lovak agy- és gerincvelő gyulladásai | 21 nap
+
+nyulak vérzéses betegsége 1 | 60 nap
+
+mézelő méhek nyúlós költésrothadása 7 | 60 nap
+
+mézelő méhek enyhébb költésrothadása 3 | 15 nap
+
+szarvasmarhák szivacsos agyvelőbánt. (BSE) | –
+
+brucellózis | 14 nap
+
+kacsapestis (kacsák vírusos bélgyulladása) | 2 nap
+
+Aujeszky-féle betegség 2 | 30 nap
+
+lépfene 3 | 20 nap
+
+rühösség 7 | 42 nap
+
+szarvasmarhák enzootikus leukózisa | 21 nap
+
+pontyfélék tavaszi virémiája | –
+
+pisztrángfélék fertőző vérképzőszervi elhalása | –
+
+(3) A megfigyelési időt attól az időponttól kell számítani, amely időpontban a megfigyelés alá vont állat beteg, vagy betegségre gyanús állattal, ilyen állat hullájával, nyers termékével vagy a betegségterjesztő tárggyal utoljára érintkezett.
+
+(4) Nem kell a községet a megállapított betegséggel fertőzöttnek tekinteni, ha a betegséget
+
+a) lábon hajtás vagy szállítás közben feltartóztatott állatokon állapították meg, és egyidejűleg megszűntté nyilvánították;
+
+b) más községből közvetlenül a vágóhídra, vágóállatvásárra behozott állaton állapították meg;
+
+c) oltás okozta (oltási reakció), és csak az oltott állatok betegedtek meg.
+
+###### Eljárás, ha a bejelentési kötelezettség alá tartozó fertőző állatbetegséget szállítás közben állapítják meg
+
+###### 112. §
+
+(1)[^96] Ha a bejelentési kötelezettség alá tartozó állatbetegséget, annak gyanúját vagy a fertőzöttség gyanúját az állatok szállítása vagy lábon hajtása során észlelik, a hatósági és a szolgáltató állatorvos köteles az állatok továbbszállítását megtiltani, és a betegségről, illetve annak gyanújáról vagy a fertőzöttség gyanújáról a járási hivatalt és a vármegyei kormányhivatalt értesíteni.
+
+(2)[^97] A külföldről érkező állatszállítmányt – ha az állatokon fertőző betegséget vagy annak gyanúját állapítják meg – az állategészségügyi határállomáson fel kell tartóztatni, s arról a határállomás szerint illetékes járási hivatalt, valamint a minisztériumot rövid úton (táviratilag vagy telexen) értesíteni.
+
+(3) Ha a fertőző állatbetegséget vagy annak gyanúját az országhatár és a hazai célállomás között állapítják meg, az (1) bekezdés szerint kell eljárni.
+
+#### VII. Fejezet — JÁRVÁNYÜGYI INTÉZKEDÉSEK
+
+###### Az elkülönítés szabályai
+
+###### 113. §
+
+(1) Fertőző állatbetegség vagy parazitózis, illetőleg ezek gyanújának észlelése esetén a hatósági állatorvos elrendelheti, hogy az állattartó az állatot külön épületben vagy helyen – ha erre nincs lehetőség, az egészséges állatokkal egy épületben, de ezektől elkülönítve – úgy tartsa, hogy a beteg és egészséges állatok egymással ne érintkezhessenek (elkülönítés).
+
+(2) Elkülönítés elrendelése esetén
+
+a) a személyforgalmat oly módon kell korlátozni, hogy az elkülönített helyekre csak azok a személyek juthassanak be, akiknek ottléte feltétlenül szükséges;
+
+b) az elkülönített állatok tartásánál felhasznált anyagokat, eszközöket, takarmányt, illetőleg trágyát, almot és hulladékot külön kell kezelni, hogy azok útján a fertőzés tovább ne terjedhessen.
+
+###### A hatósági megfigyelés szabályai
+
+###### 114. §
+
+Hatósági megfigyelésen azt az eljárást kell érteni, amikor olyan állat vagy állomány kerül ún. megfigyelési zárlat alá, amely egészségesnek látszik ugyan, de fertőzött állattal, ragályfogó tárggyal, állatot tartó (gondozó, kezelő stb.) személlyel érintkezett, s ennek következtében várható, hogy az adott betegségre meghatározott megfigyelési időn belül a betegség klinikai tünetekben is jelentkezik. A hatósági megfigyelést az illetékes hatósági állatorvos rendeli el.
+
+###### 115. §
+
+(1) A hatósági megfigyelés tartama alatt az állattartó a megfigyelés alá helyezett állaton észlelt tüneteket, a betegség tüneteinek megszűnését vagy az állat elhullását haladéktalanul köteles a hatósági állatorvosnak bejelenteni.
+
+(2) A hatósági állatorvos köteles
+
+a) a megfigyelés alá helyezett állatokat a részletes szabályokban előírtak szerint, az állattartó bejelentése esetén pedig haladéktalanul megvizsgálni;
+
+b)[^98] a hatósági megfigyelés időtartama alatt a betegségre gyanús állat, több ilyen állat közül pedig a betegségre legjellemzőbb tüneteket mutató állat kórmeghatározás céljából történő leölésének elrendelésére a járási hivatalnak javaslatot tenni;
+
+c) ha a gyanúba vett, bejelentési kötelezettség alá tartozó fertőző állatbetegség leküzdésére vonatkozó szabályok azt kötelezővé teszik, a hatósági rendelkezésre történő leölés helyett a betegségre és a fertőzöttségre gyanús állatokat, illetőleg az azokból származó vizsgálati anyagot diagnosztikai eljárásnak alávetni;
+
+d) a hatósági megfigyelés tartama alatt történtekről eljárási jegyzőkönyvet készíteni; a jegyzőkönyvben fel kell tüntetni annak a betegségnek a megnevezését, amelynek gyanúját megállapította, továbbá az állattartó nevét és lakóhelyét (utca, házszám), az állat(ok) ivarát, súlyát, létszámát, azonosítási számát, fajtáját, korát, a kórelőzményi adatokat, a tartás helyét, a betegségre gyanús állat(ok) leírását és az észlelt tüneteket, végül a betegség határozott megállapítása céljából tett intézkedéseket;
+
+e) a betegség megállapítása előtt bekövetkezett elhullás vagy kényszervágás okát felderíteni.
+
+###### 116. §
+
+(1) A megfigyelési zárlat tartama alatt bekövetkezett elhullások, kényszervágások esetében a hatósági állatorvos köteles az állatot felboncolni, erről jegyzőkönyvet készíteni, és – ha ez a betegség megállapításához szükséges – vizsgálati anyagot küldeni az illetékes állategészségügyi intézetbe.
+
+(2) Ha a bejelentési kötelezettség alá tartozó betegség gyanúja a megfigyelés alatt nem igazolódott be, a hatósági állatorvos köteles a megfigyelési zárlatot feloldani.
+
+###### A forgalmi korlátozás
+
+###### 117. §
+
+(1) A forgalmi korlátozás alá helyezett községből (városból) vagy annak meghatározott részéből, állattartó helyről (udvarból, majorból, telepről, legelőről, legelőrészről, erdőből, erdőrészből) a betegségre fogékony állatokat kivinni, vagy oda bevinni nem szabad.
+
+(2) A forgalmi korlátozást a hatósági állatorvos rendeli el.
+
+(3) Ha a megállapított állatbetegség leküzdésére vonatkozó részletes szabályok mást nem tartalmaznak, a forgalmi korlátozást a következő rendelkezések szerint kell végrehajtani:
+
+a) az állatokat abban a községben kell forgalmi korlátozás alá helyezni, amelyben azokon az állatbetegséget vagy annak gyanúját megállapították, vagy ahol azokat a fertőzöttség gyanújának megállapítása idején tartották;
+
+b) az állatokat olyan módon kell forgalmi korlátozás alatt tartani, hogy a beteg, a betegségre gyanús és fertőzött állatok a fertőzöttségre gyanúsakkal, mindezek pedig a betegség iránt fogékony egyéb állatokkal ne érintkezhessenek;
+
+c) a legelőre nem járó és a legelőről vagy erdőből hazajáró állatokat, ha nem lehet az utóbbiakat ott tartani vagy elkülöníteni, a rendes tartási helyükön kell elkülöníteni;
+
+d) az állandóan legelőn vagy erdőn tartott állatokat a legelőnek vagy erdőnek azon a részén kell elkülöníteni, ahol az állatok a megbetegedés idején legeltek, lépfene esetén a legelő vagy erdő nem fertőzött, de az erdőnek legeltetésre engedélyezett részén.
+
+###### A helyi zárlat
+
+###### 118. §
+
+(1) Helyi zárlaton állattartó hely, takarmánykeverő üzem, baromfikeltető, vágóhíd, állatpiac, állatvásártér vagy egyéb hely zárlatát kell érteni, ahonnan állat, állati termék és fertőzést közvetítő tárgy nem vihető ki, ahová állat nem vihető be, ahol a termékenyítés és a fedeztetés szünetel, a személyforgalom pedig korlátozott. A lezárt területre csak hatósági állatorvosi engedéllyel, és azok léphetnek be, akiknek ottléte az állatok ellátásához, gyógyításához vagy egyéb elengedhetetlen okból szükséges. A lezárt területről csak teljes személyi fertőtlenítés után szabad kilépni.
+
+(2) Helyi zárlat alá kell helyezni mindazokat a helyeket, ahol a betegséget, a betegség vagy a fertőzöttség gyanúját megállapították, továbbá azokat a helyeket is, ahol beteg, fertőzött vagy fertőzöttségre gyanús állatok megfordultak, az utóbbiakat akkor is, ha ott a betegség iránt fogékony állatok ugyan nincsenek, de a megállapított állatbetegség leküzdésére vonatkozó részletes szabályok azt kötelezővé teszik (pl. takarmánykeverő üzem, vágóhíd, tejüzem), valamint azokat az udvarokat, ahová vagy ahonnan a lezárt udvarokból személyi forgalom volt.
+
+(3) Ha a megállapított állatbetegség leküzdésére vonatkozó részletes szabályok mást nem tartalmaznak, több térbelileg jól elkülönített, egymástól távol eső részből (tanyából, majorból stb.) álló állattartó üzemnek csak azt a részét kell helyi zárlat alá helyezni, ahol a betegség vagy annak gyanúja jelentkezett.
+
+(4) A helyi zárlat alá helyezett állattartó üzemen belül a hatósági állatorvos hozzájárulása nélkül állatokat átcsoportosítani nem szabad.
+
+(5) A személyforgalom különleges korlátozása, az őrszolgálat szervezése, a kötelező oltás, az állatoknak ideiglenes vagy tartós megjelölése, az állati nyers termékek, állathullák, alom és trágya ártalmatlanná tétele, a fedeztetés megtiltása, a vásárok tilalma és más különleges szabályok alkalmazása tekintetében, a Szabályzatnak az egyes fertőző állatbetegségek leküzdésére vonatkozó része szerint kell eljárni.
+
+(6) A helyi zárlat megvalósításához szükséges tárgyi feltételek költségei az állattulajdonost terhelik.
+
+###### A községi zárlat
+
+###### 119. §
+
+(1)[^99] Ha a bejelentési kötelezettség alá tartozó fertőző állatbetegség leküzdésére vonatkozó részletes szabályok azt kötelezővé teszik, a járási hivatal a község, város, megyei jogú város, főváros, fővárosi kerület, (a továbbiakban együtt: község) egész területére kiterjedő teljes, vagy annak egyes részeire kiterjedő részleges községi zárlatot köteles elrendelni. A részleges községi zárlat minimális területe a helyi zárlati területet körülvevő három kilométer sugarú kör területe.
+
+(2) Azt, hogy a zárlatot milyen állatfaj(ok)ra és milyen ragályterjesztő tárgyakra kell elrendelni, a leküzdés részletes szabályai tartalmazzák.
+
+(3) A zárlat alatt álló
+
+a) községből – a részletes szabályokban meghatározott kivételekkel – tilos állatokat, azok nyers termékeit, betegségeket terjesztő vagy terjeszthető anyagokat és tárgyakat kivinni;
+
+b) községbe tilos fogékony állatokat bevinni;
+
+c) községben tilos állatokat közösen legeltetni, állatvásárt, -piacot, -felvásárlást vagy -kiállítást tartani, fogékony állatot fedeztetni vagy termékenyíttetni;
+
+d) községben a részletes szabályokban meghatározott esetekben a személyi forgalom is korlátozható.
+
+###### 120. §
+
+(1) Részleges községi zárlat elrendelésének van helye, ha
+
+a) a község egyes részeit természetes vagy annak tekinthető határvonal (folyó, csatorna stb.) választja el egymástól, vagy a község bel- és külterülete nem összeépült, és
+
+b) a községrészek állatállományának érintkezése megakadályozható.
+
+(2)[^100] A járási hivatal a teljes zárlat alá helyezett községnek a fertőzött helytől távol eső területeit a határvonalak pontos meghatározásával a betegség megállapításakor vagy a betegség fennállása alatt is mentesítheti a községi zárlat alól, ha
+
+a) a betegség a zárlat alá helyezett községben, illetőleg községrészben még nem terjedt el, továbbá
+
+b) a mentesíteni kívánt részeknek a betegség iránt fogékony állatállománya a fertőzött területek fogékony állatállományával egyáltalán nem érintkezett, és
+
+c) ezek a községrészek a betegségtől mentesek.
+
+(3)[^101] A járási hivatal a részleges községi zárlat elrendelése esetén vázlatos helyszínrajzot köteles készíteni, és a települési önkormányzat jegyzőjének átadni. A helyszínrajzon a község határát, belterületét, a fertőzött helyeket és a részleges községi zárlat alá helyezett, illetőleg a mentesített területeket kell feltüntetni.
+
+###### Marhalevél-kezelési tilalom
+
+###### 121. §
+
+(1) Ha a Tv. 13. §-ának (1) bekezdésében említett állatfajon bejelentési kötelezettség alá tartozó állatbetegséget állapítanak meg és emiatt elkülönítés, hatósági megfigyelés, helyi zárlat, forgalmi korlátozás, továbbá községi zárlat vagy védőkörzet elrendelésére kerül sor, a hatósági állatorvos köteles az érintett községekben marhalevél-kezelési tilalmat elrendelni.
+
+(2) A tilalom a marhalevél kiváltására, pótlására, másodlat kiváltására, tulajdonátruházás és irányítás rávezetésére, az állategészségügyi igazolás kiadására vagy megújítására vonatkozik.
+
+(3) A tilalmat a marhalevélkönyvbe az utolsó bejegyzést követő helyre a hatósági állatorvos jegyzi be.
+
+(4) Az (1) bekezdésben említett korlátozó intézkedések enyhítése esetén a hatósági állatorvos írásban engedélyezheti a marhalevél-kezelést. Az engedélyben fel kell tüntetni a korlátozó intézkedés alól enyhítést adó hatóság megnevezését, a határozat számát, az állattulajdonos és az állatok adatait (faj, fajta, ivar, kor, szám, egyedi tartós megjelölés), a régi és az engedélyezett új rendeltetési helyet. Irányítást csak az engedélyen feltüntetett új rendeltetési helyre szabad kiállítani. Az engedélyt a marhalevél-kezelő egy évig köteles megőrizni.
+
+(5) A marhalevél-kezelési tilalmat az (1) bekezdésben említett korlátozó intézkedések feloldásával egy időben – a marhalevélkönyvbe történő bejegyzéssel – a hatósági állatorvos szünteti meg.
+
+(6) A tilalom megszüntetése után a marhalevél-váltási kötelezettséget harminc napon belül kell teljesíteni.
+
+(7) A marhalevél-kezelési tilalom betartását az állategészségügyi hatóság ellenőrzi.
+
+###### A védőkörzet
+
+###### 122. §
+
+(1) A védőkörzetet a betegség megállapításának helyétől kiinduló legalább tíz kilométer sugarú kör által határolt területen kell kialakítani, amely azonban – a részletes szabályokban meghatározott esetekben – összefüggő, nagyobb területre is kiterjeszthető.
+
+(2)[^102] A védőkörzet kialakítását a betegség helye szerint illetékes járási hivatal határozattal rendeli el, és arról az érintett szerveket tájékoztatja.
+
+(3)[^103] A védőkörzet nem fertőzött községeiből csak a járási hivatal vagy – ha az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) megbízottat küldött ki – a minisztériumi megbízott engedélyével szabad a megállapított fertőző betegség iránt fogékony állatokat, ilyen állatok nyers termékeit, növényi és állati eredetű takarmányt vagy fertőzés terjesztésére alkalmas tárgyat kivinni, a védőkörzetté nyilvánított területen keresztül a betegség iránt fogékony állatokat lábon hajtani, illetőleg ilyen állatokat, állatok nyers termékeit a védőkörzeti területre bevinni.
+
+(4) A védőkörzetre vonatkozó egyéb szabályokat az egyes bejelentési kötelezettség alá tartozó fertőző betegségek leküzdésére vonatkozó részletes előírások tartalmazzák.
+
+###### Zárlat és forgalmi korlátozás enyhítése
+
+###### 123. §
+
+(1) Elkülönítést megszüntetni, a zárlat vagy forgalmi korlátozás alatt álló helyről, községből, valamint védőkörzetből állatot vagy más, korlátozás alá vont terméket, anyagot kivinni, illetőleg ezekre a helyekre állatokat bevinni csak engedéllyel szabad.
+
+(2) Engedélyt – az egyes állatbetegségek leküzdésére vonatkozó részletes szabályokra is tekintettel –
+
+a) elkülönítés megszüntetésére a hatósági állatorvos,
+
+b) forgalmi korlátozás és helyi zárlat alól
+
+ba) a bevitel és az azonos községbe történő kiszállítás esetén a hatósági állatorvos,
+
+bb)[^104] más községbe történő kiszállítás esetén a járási hivatal,
+
+c)[^105] községi zárlat alól a járási hivatal
+
+adhat.
+
+(3)[^106] Az engedély iránti kérelmet a hatósági állatorvosnál kell előterjeszteni, aki a beadványt a (2) bekezdés bb) és c) pontjaiban meghatározott esetekben a vármegyei kormányhivatalnak, illetve a járási hivatalnak küldi meg.
+
+(4) A beadványnak tartalmaznia kell az állattartó nevét, címét, a kivitel vagy bevitel célját és okát, az állatok, illetőleg a korlátozás alá vont termék, anyag stb. származási és rendeltetési helyét, az állatok faját, korát, nemét, számát, hasznosítását és egyedi tartós megjelölését. Ha az egyes állatbetegségekre vonatkozó részletes szabályok szerint az állatok ki- vagy bevitele védőoltáshoz, az egyéb anyagok bevitele pedig kezeléshez (hőkezelés, fertőtlenítés stb.) kötött, az annak megtörténtét igazoló állatorvosi bizonyítványt a beadványhoz csatolni kell.
+
+(5)[^107] Más vármegyébe történő kiszállítás előtt az engedélyező köteles előzetesen megszerezni a rendeltetési hely szerint illetékes járási hivatal hozzájárulását.
+
+(6)[^108] Az engedély kiadásáról – a ki- vagy bevitelnek megfelelően – értesíteni kell a származási vagy rendeltetési hely szerint illetékes állatorvost, illetőleg a járási hivatalt.
+
+(7) Az engedélynek tartalmaznia kell a (4) bekezdésben megjelölt adatokon túl a ki- vagy bevitel feltételeit és az engedély érvényességének időtartamát.
+
+(8) Ha az állatok kivitele jogszabályban meghatározott marhalevél-kezelési kötelezettséggel jár, a marhalevél-kezelési tilalom alól a hatósági állatorvos a 121. § (4) bekezdése szerint ad felmentést.
+
+###### 124. §
+
+(1) Az engedélyes köteles a kivitel vagy bevitel időpontját az elszállítás előtt, illetőleg a megérkezés után azonnal a hatósági állatorvosnak bejelenteni és a szállítási engedélyt átadni.
+
+(2) Ha az egyes fertőző állatbetegségek leküzdésére vonatkozó szabályok ezt előírják, az állatok csak kedvező eredményű állatorvosi vizsgálat és az előzetes helyszíni szemle után szállíthatók el. Ilyen esetben az engedélyen a vizsgálati eredményt is fel kell tüntetni.
+
+(3) Az állatokat csak az előírt feltételekkel, a kijelölt útvonalon és helyre szabad kiszállítani, azok tulajdonjoga útközben másra nem ruházható át. Az állatokat a részletes szabályokban meghatározott esetekben kísérővel, megállás nélkül a célállomásig kell szállítani.
+
+###### Eljárás az állatbetegségek megszűnése esetén
+
+###### 125. §
+
+(1) Az egyes állatbetegségek leküzdésére vonatkozó részletes szabályok figyelembevételével a helyi zárlatot fel kell oldani, és a betegség leküzdésére tett egyéb intézkedések hatályát is meg kell szüntetni, ha
+
+a) a zárlat alatt álló helyen bejelentési kötelezettség alá tartozó fertőző állatbetegség iránt fogékony állat már nincs (mind elhullott, valamennyit levágták, leölték, elszállították), vagy
+
+b) a zárlat alatt álló helyen tartott, betegség iránt fogékony állatok között az utolsó beteg vagy betegségre gyanús állat elhullásának, levágásának, leölésének vagy felgyógyulásának, illetőleg az utolsó beteg vagy betegségre gyanús állat elszállításának időpontjától számított – az illető betegségre előírt – megfigyelési idő tartama alatt újabb megbetegedés nem történt;
+
+c) a részletes szabályozásban meghatározott diagnosztikai vizsgálatok negatív eredménnyel lezárultak; és
+
+d) az *a)* és *b)* pontban foglalt esetekben a kötelező fertőtlenítést végrehajtották.
+
+(2) A forgalmi korlátozást, illetőleg az elkülönítést az egyes állatbetegségek leküzdésére vonatkozó részletes szabályokban meghatározott feltételek teljesítése és a fertőtlenítés megtörténte után kell feloldani.
+
+(3) A területi zárlat (községi zárlat, védőkörzet) feloldása tekintetében az egyes állatbetegségek leküzdésére vonatkozó részletes szabályok az irányadók.
+
+###### 126. §
+
+(1) A betegséget hatóságilag megszűntté kell nyilvánítani, ha a községben helyi zárlat alatt álló hely már nem maradt, forgalmi korlátozás vagy elkülönítés alatt egy állat sincs, és az elrendelt területi zárlatot is feloldották.
+
+(2) Az egyes bejelentési kötelezettség alá tartozó fertőző állatbetegségek megfigyelési idejét a betegségek leküzdésére vonatkozó részletes szabályok állapítják meg.
+
+(3) A fertőtlenítést ellenőrző hatósági állatorvos köteles a helyi zárlat, illetőleg a forgalmi korlátozás vagy az elkülönítés alatt álló és az ezekkel együtt tartott fogékony állatokat a helyszínen gondosan megvizsgálni, és azok létszámát a betegség bejelentésének időpontjában megállapított létszám alapján ellenőrizni.
+
+(4) A helyi zárlatnak, a forgalmi korlátozásnak, az elkülönítésnek, a községi zárlatnak, illetőleg a védőkörzetnek – a fertőtlenítést ellenőrző állatorvos javaslata alapján történő – feloldása és a betegség megszűntté nyilvánítása annak a hatóságnak a hatáskörébe tartozik, amely azt a betegség megállapításakor elrendelte.
+
+###### Fertőtlenítés
+
+###### 127. §
+
+(1) Az állategészségügyi hatóság járványügyi intézkedésként fertőtlenítést rendelhet el.
+
+(2) A fertőtlenítést a rendelkezésnek megfelelően és késedelem nélkül végre kell hajtani.
+
+###### 128. §
+
+(1) A fertőtlenítés célja:
+
+a) fertőző állatbetegségek, továbbá az ember és a környezet fertőződésének megelőzése (folyamatos, illetve időszakos fertőtlenítés);
+
+b) fertőző állatbetegség leküzdése (a betegség alatti folyamatos, ismételt, előzetes fertőtlenítés).
+
+(2) A fertőtlenítés módja lehet
+
+a) egyszerű: amikor a betegségek megelőzése vagy leküzdése során kisebb ellenállóképességű kórokozók elpusztítása, gyérítése a cél;
+
+b) szigorított: amikor meghatározott kórokozók elpusztításával az adott kórokozóktól mentes környezetet kell kialakítani;
+
+c) zárlat feloldása előtt, a betegség leküzdésére tett intézkedés befejezésekor végfertőtlenítést kell végrehajtani.
+
+###### 129. §
+
+(1) A fertőtlenítés elvégzése vagy elvégeztetése az állattartó kötelessége. A fertőtlenítő anyagok költsége az állattartót terheli, a miniszter által meghatározott esetek kivételével, amikor a fertőtlenítő anyagokat és eszközöket az állam díjtalanul bocsátja az állattartó rendelkezésére. Az állattartó ilyen esetben is köteles a fertőtlenítés elvégzésében közreműködni, a hatósági állatorvos utasításait végrehajtani (takarítás, a hullák elföldelése stb.).
+
+(2) Bármely fertőtlenítés elvégzése szempontjából fontos, hogy
+
+a) a fertőtlenítést mindenkor alapos tisztogatás, takarítás előzze meg;
+
+b) a fertőtlenítéshez a célnak megfelelő, engedélyezett fertőtlenítő anyag kerüljön felhasználásra, az előírt technológia szerint.
+
+(3) A Szabályzatban meghatározott esetekben a használt almot, trágyát, szennyvizet, a takarmányt, az állatok tartási helyét stb. a hatósági állatorvos utasításai szerint kell fertőtleníteni.
+
+(4) A fertőtlenítés végrehajtását az állományt kezelő, vagy az üzemet felügyelő állatorvos irányítja. A bejelentési kötelezettség alá tartozó fertőző állatbetegségek megelőzésével, leküzdésével kapcsolatban elrendelt fertőtlenítést a hatósági állatorvos irányítja és ellenőrzi.
+
+(5) Ha a fertőtlenítésre kötelezett a fertőtlenítést határidőre és a megkívánt módon nem végzi el, azt az állattartó költségére kell elvégeztetni.
+
+###### 130. §
+
+(1) A fertőtlenítő anyagokról, azok tárolásáról és szakszerű felhasználásáról a 18. számú függelékben foglalt Fertőtlenítési útmutató ad részletes tájékoztatást, és tartalmazza a különböző létesítmények, anyagok, eszközök fertőtlenítésének gyakorlati végrehajtására vonatkozó eljárást.
+
+(2) A biztonságosan nem fertőtleníthető tárgyakat elégetéssel célszerű megsemmisíteni.
+
+###### 131. §
+
+(1) Fertőtlenítéskor be kell tartani a közegészségügyi, környezetvédelmi, munka- és balesetvédelmi előírásokat, valamint tekintettel kell lenni arra, hogy a fertőtlenítés az állatok egészségét ne károsítsa.
+
+(2) Fertőtlenítést csak olyan személyek végezhetnek, akik
+
+a) megfelelő védőruhát és védőfelszerelést viselnek;
+
+b) munkaköri orvosi alkalmassági vizsgálattal rendelkeznek;
+
+c) a szükséges munkavédelmi-szakmai oktatásban részesültek.
+
+(3) Fertőtlenítési munka közben étkezni és dohányozni tilos.
+
+(4) A bejelentési kötelezettség alá tartozó fertőző állatbetegségek leküzdésével kapcsolatos fertőtlenítés befejezése után, a terület elhagyása előtt fertőtleníteni kell a közreműködő személyeket és a fertőtlenítéshez használt eszközöket is.
+
+(5) Az (1)–(4) bekezdésekben előírt szabályok megtartása, illetve feltételek megvalósítása a fertőtlenítést végző feladata.
+
+###### 132. §
+
+(1) A Tv. 1. számú mellékletében felsorolt, bejelentési kötelezettség alá tartozó fertőző megbetegedések megelőzése, leküzdése során alkalmazandó fertőtlenítési módot a betegségek leküzdésének részletes szabályai és a Fertőtlenítési útmutató tartalmazzák.
+
+(2)[^109] A Tv. 1. számú mellékletében felsorolt betegségek megelőzése, leküzdése során új, korszerű és hatékony fertőtlenítőszereket és fertőtlenítési technológiákat bevezetni a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal engedélye után szabad.
+
+###### 133. §
+
+(1)[^110] A fertőtlenítés hatásosságát a Fertőtlenítési útmutató előírásai, szigorított fertőtlenítés esetén a járási hivatal utasítása szerint kell ellenőrizni.
+
+(2) Az egyszerű fertőtlenítés hatásosságát az állományt, üzemet ellátó, felügyelő állatorvos ellenőrzi, a fertőtlenített terület vagy tárgy összes élő csíraszámának vagy az ún. indikátor csíraszámának meghatározásával.
+
+(3)[^111] A szigorított fertőtlenítés hatásosságát az azt elrendelő hatósági állatorvos, a járási hivatal, vagy arra kijelölt intézet ellenőrzi a meghatározott kórokozók kitenyésztésével (pl. tamponmintából), vagy fogékony állatok kísérleti fertőzésével.
+
+#### VIII. Fejezet — AZ ÁLLATBETEGSÉGEK MEGELŐZÉSÉHEZ ÉS LEKÜZDÉSÉHEZ SZÜKSÉGES ANYAGOK KÉSZLETEZÉSE, FELHASZNÁLÁSA; OLTÓ- ÉS KÓRJELZŐ ANYAGOK, FERTŐTLENÍTŐSZEREK, EGYÉB ANYAGOK ÉS ESZKÖZÖK, A RENDELÉS SZABÁLYAI
+
+###### Ingyenes oltó- és kórjelző anyagok
+
+###### 134. §
+
+A Tv. 29. §-ának f) pontja szerint a minisztérium gondoskodik az egyes járványos állatbetegségek megelőzéséhez, felismeréséhez, illetőleg felszámolásához szükséges ingyenes oltó- és kórjelző anyagokról.
+
+###### 135. §
+
+(1) A minisztérium által meghatározott egyes betegségek megelőzéséhez és leküzdéséhez szükséges állatgyógyászati készítmények, anyagok és technikai eszközök (a továbbiakban: ingyenes oltó- és kórjelző anyagok) az állattartó számára térítésmentesek.
+
+(2) Az ingyenes oltó- és kórjelző anyagok körét a miniszter határozza meg.
+
+###### 136. §
+
+(1)[^112] Az állategészségügyi hatóság járványügyi intézkedéseihez szükséges ingyenes oltó- és kórjelző anyagokat az a NÉBIH tárolja és szolgáltatja ki a minisztérium rendelkezései szerint.
+
+(2)[^113]
+
+(3) A minisztérium gondoskodik arról, hogy az egyes járványos állatbetegségek megelőzéséhez, gyors elfojtásához szükséges készítmények megfelelő mennyiségben rendelkezésre álljanak (járványvédelmi készlet). A járványvédelmi készletek központi tárolását, kiszolgáltatását stb. a minisztérium szabályozza és ellenőrzi.
+
+###### 137. §
+
+(1)[^114] Járványügyi intézkedés esetén a térítés nélkül kiszolgáltatható ingyenes oltó- és kórjelző anyagokat a vármegyei kormányhivatal, illetve megbízása alapján a járási hivatal rendeli meg.
+
+(2)[^115] A megrendelést a „Megrendelés ingyenes oltó- és kórjelző anyagokra” nyomtatványon (C 8600-36) négy példányban kell megtenni, melyből két példány a szállítónál (NÉBIH) marad, egy a vármegyei kormányhivatal példánya, egy pedig a tőpéldány.
+
+(3)[^116] A megrendelést a NÉBIH-hez, mint szállítóhoz kell eljuttatni (1024 Budapest, Keleti Károly u. 24.).
+
+###### 138. §
+
+(1)[^117] A 137. §-ban leírtak szerint megrendelt ingyenes oltó- és kórjelző anyagot a megrendelő (vármegyei kormányhivatal, járási hivatal) a szállító bizonylata alapján készletre veszi és gondoskodik a felhasználó hatósági állatorvos(ok)hoz való eljuttatásról, a szakszerű tárolásról.
+
+(2)[^118] A hatósági állatorvos anyagféleségenként és község/város szerint az „Ingyenes oltóanyag nyilvántartása” (C 8600-37) kimutatást vezeti, és félévenként elszámol a járási hivatalnak.
+
+(3)[^119] Az állategészségügyi hatósági intézkedésre végrehajtott védőoltásokról naponkénti összesítéssel, két példányban „Oltási nyilvántartás”-t (C 8610-2) kell vezetni, melynek egy példányát az oltást végző hatósági állatorvos, egy példányát pedig a járási hivatal őrzi meg.
+
+(4)[^120] A járási hivatal rendelkezése szerint a hatósági állatorvos egyes járványügyi intézkedések befejeztével külön is tartozik az átvett anyagokkal írásban elszámolni.
+
+###### 139. §
+
+Az ingyenes oltó- és kórjelző anyagokról a Szabályzat szerint vezetett kimutatásoknak, nyilvántartásoknak tartalmazni kell
+
+a) az oltóanyag, kórjelző anyag pontos nevét (típusát),
+
+b) a gyártó (forgalmazó) nevét,
+
+c) a termelési számot,
+
+d) a lejárati időt.
+
+###### 140. §
+
+(1)[^121] Az ingyenes oltó- és kórjelző anyagok esetében azok mindenkori szakszerű tárolását, szállítását és nyilvántartását a vármegyei kormányhivatal és a járási hivatal ellenőrzi.
+
+(2) A hűtőtárolást igénylő anyagok esetében a kiszolgálást csak akkor szabad teljesíteni, ha ezen feltétel is biztosított (pl. hűtőtáska stb.).
+
+#### IX. Fejezet — AZ ÁLLAMI KÁRTALANÍTÁS SZABÁLYAI
+
+###### Az állatok leölése és a betegségterjesztő anyagok, eszközök, tárgyak megsemmisítése hatósági rendelkezésre
+
+###### A kártalanítási igény elbírálása
+
+###### A kárbecslés szabályai
+
+###### Eljárási jelentés
+
+###### A hasznosítható állatok, állati testek/testrészek feldolgozása és értékesítése
+
+###### A kártalanítási összeg megállapítása
+
+###### A kártalanítási határozat közlése. Fellebbezés. A kártalanítási összeg kiutalása
+
+###### Az állati eredetű hulladékok ártalmatlanná tétele
+
+### II. CÍM — AZ ÁLLATEGÉSZSÉGÜGYI IGAZGATÁS SZERVEZETE
+
+#### I. Fejezet — ÁLLAMI ÁLLATEGÉSZSÉGÜGYI SZOLGÁLAT
+
+###### Hatósági állatorvosi körzetek, állategészségügyi kerületek, kirendeltségek kialakítása
+
+###### Közcélú igénybevétel
+
+###### 159. §[^140]
+
+Szolgáltató állatorvos közcélra igénybe vehető a járványos állatbetegségek megelőzésével, felderítésével és az ellene való védekezéssel kapcsolatos
+
+a) klinikai szűrővizsgálatokhoz,
+
+b) diagnosztikai vizsgálatokhoz,
+
+c) védőoltásokhoz és gyógykezelésekhez,
+
+d)[^141] fertőző betegség megállapítása esetén minden olyan tevékenységhez, melyhez a járási hivatal kirendeli.
+
+###### 160. §
+
+(1)[^142] A szolgáltató állatorvos közcélú igénybevétele esetén a szolgáltató állatorvost megillető díjazás kiszámításánál a köztisztviselői illetményalap három és félszeres szorzatának a társadalombiztosítási járulékkal növelt összegét kell alapul venni. A közcélú munkavégzést a járási hivatal igazolja. A szolgáltató állatorvos költségtérítés címén jogosult továbbá
+
+a) járműhasználatra a vonatkozó szabályok szerint,
+
+b) napidíjra,
+
+c) számla ellenében a szállásköltség megtérítésére.
+
+(2)[^143] A járási hivatallal közszolgálati jogviszonyban nem álló kisegítő munkaerő közcélú igénybevétele esetén a településen kialakult – a település jegyzője által igazolt – napszám díj fizethető.
+
+(3)[^144] A közcélú munkavégzésre igénybe vett szolgáltató állatorvos és kisegítő munkaerő részére munkaeszköz, védőruha biztosítandó, melynek beszerzési, mosatási és fertőtlenítési költsége a járási hivatalt terheli.
+
+(4)[^145] A közcélú munkára igénybe vett személyek munkavédelmi oktatása a járási hivatal feladata.
+
+#### II. Fejezet — ORSZÁGOS ÁLLATEGÉSZSÉGÜGYI TANÁCS
+
+###### 164. §
+
+(1) Az Országos Állategészségügyi Tanács (a továbbiakban: Tanács) két-két tagjára az Egyetem, a kamara országos szervezete, valamint az Állategészségügyi és Élelmiszer-ellenőrzési Dolgozók Szakszervezete jogosult javaslatot tenni a miniszternek.
+
+(2) A Tanács mindenkori elnöke az országos főállatorvos, aki jogosult – az (1) bekezdésben meghatározottakon túl – további két tag felkérését javasolni a miniszternek.
+
+(3) Az (1)–(2) bekezdésben foglaltak alapján javasolt személyeket a miniszter felkéri, illetőleg háromévi időtartamra megbízza a Tanács tagsági feladatok ellátásával. A felkérés, illetőleg megbízás korlátlanul megismételhető.
+
+###### 165. §
+
+(1) A Tanács elnöke az első ülésen javaslatot tesz egy alelnök és a jegyző megválasztására, valamint a működési szabályzatnak és az éves munkatervnek a miniszterhez jóváhagyásra történő felterjesztésére.
+
+(2) A Tanács a tisztségviselőit – az elnök kivételével – saját hatáskörben jogosult megválasztani, illetőleg indokolt esetben visszahívni.
+
+###### 166. §
+
+A miniszter az éves fejezeti költségvetésben – a Tanács véleményének, javaslatának meghallgatása után – gondoskodik a Tanács működéséhez szükséges költségekről.
+
+###### 167. §
+
+A Tanács a miniszter felkérésére véleményt nyilvánít állategészségügyi kérdésekben, így különösen
+
+a) az állategészségügyi igazgatás szervezeti kérdéseiben;
+
+b) a bejelentési kötelezettség alá tartozó állatbetegségek elleni védekezés kérdéseiben;
+
+c) az állattartás és tenyésztés hatékonyságát segítő állategészségügyi intézkedésekben;
+
+d) az új gyógyító eljárásokról és az új állatgyógyászati készítmények forgalmazásáról;
+
+e) az állategészségügyi intézmények vezetői állásainak betöltéséről;
+
+f) az állategészségügyi igazgatás hatáskörét érintő állatvédelmi és környezetvédelmi kérdésekről.
+
+#### III. Fejezet — ÁLLATEGÉSZSÉGÜGYI INTÉZMÉNYEK ÉS EGYSÉGEK
+
+###### Az állategészségügyi laboratóriumok és működésük
+
+###### A nyilvános laboratóriumok és működésük
+
+###### A gazdasági állategészségügyi laboratóriumok és működésük
+
+###### Az állatorvosi laboratóriumok és működésük
+
+###### A járványmegelőzés általános szabályai az állategészségügyi szolgálat laboratóriumaiban
+
+###### 177. §
+
+(1) Az egyes bejelentési kötelezettség alá tartozó, kiemelt fertőző állatbetegségek kórjelzéséhez és egyéb speciális diagnosztikai feladatok elvégzéséhez – néhány, nagyon indokolt kivételtől (pl. veszettség vagy nagy testű állatok) eltekintve – célszerű az egész hullát (beteg állatot) laboratóriumba küldeni.
+
+(2) Emberre is veszélyes fertőző betegség vagy annak gyanúja esetében élő állatot csak kivételesen, a fertőző anyag szállítás közbeni terjedését biztosan kizáró körülmények között szabad laboratóriumba juttatni.
+
+(3) A bejelentési kötelezettség alá tartozó állatbetegségek esetében a beküldendő vizsgálati anyagról – a betegségek leküzdésére vonatkozó szabályok figyelembevételével – a 23–26. számú függelékek rendelkeznek.
+
+###### Állatklinika
+
+###### 178. §
+
+(1) Az állatklinika az állatorvosi alap- és továbbképzést, valamint szakirányú kutatást is szolgáló komplex állatkórházi intézmény, ahol a tulajdonosok kérésére az állatok sürgősségi (elsősegély jellegű), szakosított (fertőző és nem fertőző állatbetegségek), valamint speciális (belgyógyászati, szülészeti-szaporodásbiológiai, sebészeti és különleges műszeres vagy műtéti) vizsgálata és gyógykezelése folyik bentlakásos vagy ambuláns módon.
+
+(2)[^158] Az állatklinika működését a „klinikai szervezeti és működési szabályzat” írja elő, amelyet tájékoztatás és járványügyi szempontból történő jóváhagyás céljából az illetékes járási hivatalnak meg kell küldeni.
+
+(3)[^159] Az állatklinika működésének tárgyi (technikai-műszaki) és személyi feltételeit az állatorvosi kamara, míg a járványmegelőzés tárgyi feltételeit, az állatgyógyászati készítmények tárolását és felhasználását, továbbá a területén képződő állati hulladékok és további felhasználásra alkalmatlanná vált állatgyógyászati eszközök, segédeszközök átmeneti tárolását, illetve ártalmatlanná tételét a járási hivatal ellenőrzi.
+
+(4) Az állatklinikán biztosítani kell:
+
+a) a megfelelő színvonalú és állandó (éjjel-nappali) diagnosztikai és gyógykezelési feltételeket;
+
+b) a bentlakó állatok elhelyezését és felügyeletét;
+
+c) a bejelentési kötelezettség alá tartozó állatbetegségekre gyanús vagy abban megbetegedett állatok elkülönítését;
+
+d) a gyógyszerek, gyógyászati segédeszközök és műszerek szakszerű tárolását;
+
+e) a műszerek és egyéb segédanyagok sterilizálását;
+
+f) a helyiségek fertőtlenítését úgy, hogy az adott helyiség egyszeri, szigorított fertőtlenítéséhez szükséges mennyiségű fertőtlenítőszer folyamatosan rendelkezésre álljon;
+
+g) az állati hulladékok – ártalmatlanná tételéig történő – átmeneti elhelyezését;
+
+h) a takarmányok (állateledelek) megfelelő tárolását;
+
+i) a képződő állati ürülék, trágya aggálymentes kezelését.
+
+###### 179. §
+
+(1) Az állatklinika vizsgáló helyiségei és istállói állategészségügyi (járványügyi) szempontból fertőzött helynek minősülnek, ezért az ide került állatok a származási állományukba (nagyüzem, magángazdaság stb.) csak a 90. §-ban előírt elkülönítés után kerülhetnek vissza, ha a karanténban a származási állomány állategészségügyi állapotára vonatkozó kiegészítő vizsgálatok is kedvező eredményre vezettek.
+
+(2) Bejelentési kötelezettség alá tartozó állatbetegség vagy annak gyanúja észlelésekor a klinika vezetője (erre felhatalmazott állatorvos munkatársa) köteles az érintett állatot (állatcsoportot) elkülöníteni, a területileg illetékes hatósági állatorvost haladéktalanul értesíteni, és a továbbiakban a hatósági állatorvos utasítása szerint eljárni.
+
+###### 180. §
+
+(1)[^160] Állatklinika létesítését az illetékes járási hivatal engedélyezi. A létesítés megkezdése előtt a kiviteli tervet jóváhagyásra a járási hivatalhoz be kell terjeszteni.
+
+(2)[^161] Az állatklinika működését – a technikai-műszaki alapkövetelmények meglétére vonatkozó állatorvosi kamarai igazolás alapján – a járási hivatal engedélyezi.
+
+(3)[^162] Az állatklinika felett a hatósági felügyeletet az illetékes járási hivatal gyakorolja.
+
+###### 181. §
+
+Az állatklinika egyes szervezeti egységei között, kiegészítő laboratóriumi diagnosztikai vizsgálatra utalt minták vételénél, küldésénél a 23–26. számú függelékekben foglaltakat kell alkalmazni.
+
+###### Állatkórház
+
+###### 182. §
+
+(1)[^163] Az állatkórház természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet által működtetett, szakállatorvosi végzettséggel rendelkező állatorvos által irányított olyan állategészségügyi szolgáltató intézmény, ahol a tulajdonos (az állattartó) kérésére az állatok vizsgálata, sürgősségi, szakosított és egyes speciális követelményeket igénylő gyógykezelése, valamint átmeneti ideig történő elhelyezése, ápolása és ezalatt rendszeres állategészségügyi felügyelete is biztosított.
+
+(2) Az állatkórházban is meg kell teremteni a 178. § (4) bekezdésében előírt technikai (tárgyi) feltételeket.
+
+(3)[^164] Az állatkórház működésének tárgyi és személyi feltételeit az állatorvosi kamara, míg az általános járványmegelőzés tárgyi feltételeit, az állatgyógyászati készítmények tárolását és felhasználását, továbbá az állatkórházi tevékenység során képződő, veszélyes hulladéknak minősülő állati hulladék és további felhasználásra alkalmatlan gyógyászati eszközök és segédeszközök átmeneti tárolását, illetőleg ártalmatlanná tételét az illetékes járási hivatal ellenőrzi.
+
+(4)[^165]
+
+(5) Az állatkórház létesítésének és működésének engedélyezése, valamint hatósági ellenőrzése a 180. §-ban előírtak szerint történik.
+
+###### 183. §
+
+Az állatkórház diagnosztikai és gyógyító tevékenységét kiegészítő klinikai diagnosztikai vizsgálatokat nyilvános laboratórium vagy erre engedélyezett állatorvosi (klinikai) laboratórium végezhet. Az állatkórházból származó szerv-, vér- és váladékminták vételére, küldésére a 23–26. számú függelékekben foglaltakat kell alkalmazni.
+
+###### Állatorvosi rendelőintézet
+
+###### 184. §
+
+(1)[^166] Az állatorvosi rendelőintézet (a továbbiakban: rendelőintézet) természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet által működtetett, állatorvosi végzettséggel irányított és több állatorvost foglalkoztató olyan – több helyiségből álló – állategészségügyi szolgáltató intézmény, ahol az állattulajdonos kérésére az állatok vizsgálata, sürgősségi, szakosított és egyéb speciális követelményeket igénylő gyógykezelése, továbbá az állatok utókezelésével és ápolásával kapcsolatos szaktanácsadás is biztosított.
+
+(2) A rendelőintézet létesítésének és működésének engedélyezésére, továbbá szakmai és hatósági felügyeletére, illetőleg ellenőrzésére az állatkórházra vonatkozó jogszabályi előírásokat – figyelemmel az annál szűkebb körű és a működési engedélyben meghatározott szolgáltatásokra – az indokolt eltérésekkel kell alkalmazni.
+
+###### Állatorvosi rendelő
+
+###### 185. §
+
+(1)[^167] Az állatorvosi rendelő (a továbbiakban: rendelő) állatorvos, illetőleg – állatorvost is foglalkoztató – jogi személy vagy jogi személyiséggel nem rendelkező szervezet által fenntartott, az állatok vizsgálatára és gyógykezelésére kialakított helyiség.
+
+(2) Az állattartó(tulajdonos) kérésére az állatok vizsgálatát, gyógykezelését, a védőoltások beadását és a szaktanácsadást az (1) bekezdésben meghatározott rendelőben csak állatorvos végezheti el úgy, hogy a rendelő felszereltségét (technikai lehetőségeit) meghaladó szintű állategészségügyi ellátásra nem vállalkozhat (ez utóbbi esetben az állattartót tájékoztatni köteles a megfelelő szintű ellátást biztosító, legközelebbi állategészségügyi szolgáltató intézményről).
+
+###### 186. §
+
+(1)[^168] A rendelő létesítését – a kamara területi szervezetének az alapfelszereltség meglétére vonatkozó igazolása alapján – az illetékes járási hivatal engedélyezi.
+
+(2)[^169] A rendelő működéséhez (engedélyezett tevékenységi köréhez) szükséges alapfelszereltséget és személyi feltételeket a kamara illetékes területi szervezete ellenőrzi, míg a rendelőt járványügyi szempontból, továbbá az állatgyógyászati készítmények tárolását és felhasználását, valamint a további felhasználásra alkalmatlan gyógyászati eszközök és segédeszközök, a rendelőben képződő állati hulladékok átmeneti tárolását, illetve ártalmatlanná tételét az illetékes járási hivatal ellenőrzi.
+
+###### 187. §
+
+(1) Általános járványmegelőzési célból a rendelőt rendszeresen tisztítani, fertőtleníteni kell, és a szükséges fertőtlenítőszer mennyiséget folyamatosan készenlétben kell tartani. Erről a rendelőt fenntartó köteles gondoskodni.
+
+(2) A rendelőbe szállított állatokból kiegészítő laboratóriumi diagnosztikai céllal vett szerv-, vér- és váladékminták vételénél, vizsgálatra küldésénél a 23–26. számú függelékekben foglaltakat kell alkalmazni.
+
+###### Ellenőrzési és hatósági intézkedések
+
+###### 188. §[^170]
+
+Az általános járványmegelőzésre, valamint az állati hulladékok ártalmatlanná tételére vonatkozó jogszabályi előírások megszegésekor az illetékes járási hivatal az állatklinika, az állatkórház, az állatorvosi rendelőintézet vagy az állatorvosi rendelő működését határozattal felfüggesztheti, illetőleg a további működést a hiányosságok – megadott határidőre történő – pótlásához (megszüntetéséhez) kötheti.
+
+###### A fertőző állatbetegségek kórokozóival történő tudományos vizsgálatok
+
+###### A tudományos vizsgálatok végzésének szabályai
+
+#### IV. Fejezet — ÁLLATEGÉSZSÉGÜGYI FELÜGYELETET IGÉNYLŐ EGYÉB LÉTESÍTMÉNYEK
+
+###### Állatkozmetika létesítése és működtetése
+
+###### 191. §
+
+(1)[^173]
+
+(2) A mosó- és nyíróhelyiségek padozatát könnyen tisztítható és fertőtleníthető, résmentes, vizet át nem eresztő, csúszásgátló anyaggal kell burkolni, bűzelzáróval rendelkező csatornaszemmel és szennyvízelvezető csatornával kell ellátni. A nyílászáró szerkezeteknek könnyen tisztán tarthatónak, fertőtleníthetőnek kell lenniük, és azokat rovarhálóval kell ellátni. A falakat legalább két méter magasságig világos, vizet át nem eresztő, könnyen tisztítható és fertőtleníthető, síkfelületű anyaggal kell burkolni, vagy ugyanilyen tulajdonságú anyaggal kell bevonni. A burkolatlan és festetlen falfelületeket, valamint a mennyezetet meszelni kell. A lemosható falak és a padozat közös élét és sarkát lekerekítetten kell kiképezni.
+
+(3) A várakozó- és egyéb helyiségekben a padozatot könnyen tisztítható és fertőtleníthető, résmentes, vizet át nem eresztő, csúszásgátló anyaggal kell burkolni. Az oldalfalakat két méter magasságig jól tisztítható, fertőtleníthető anyaggal kell bevonni.
+
+(4) Az asztalokat korróziómentes anyagból készült, résmentesen illesztett, könnyen mosható és jól fertőtleníthető lappal kell borítani.
+
+(5) A helyiségeket naponta ki kell takarítani, és a padozatot fertőtlenítőszeres vízzel fel kell mosni. A keletkezett hulladékot műanyag zsákba gyűjtés után dögkútba helyezéssel vagy elégetéssel kell ártalmatlanná tenni.
+
+(6) A munka során használt eszközöket minden állat kezelése után meg kell tisztítani, és hatékony fertőtlenítő anyaggal fertőtleníteni kell.
+
+(7) Az állatforgalomról – a tulajdonos nevét és lakcímét, az állat faját, fajtáját, nemét, korát, színét és esetleges ismertető jegyeit tartalmazó – nyilvántartást kell vezetni.
+
+(8) Az állatkozmetika működését állatjárványügyi és -higiéniai szempontból a hatósági állatorvos ellenőrzi.
+
+###### Állatpanziók és -menhelyek létesítése és üzemeltetése
+
+###### 192. §
+
+(1)[^174]
+
+(2) Az állatpanziók és -menhelyek (a továbbiakban: telep) padozatát könnyen tisztítható és fertőtleníthető, résmentes, vizet át nem eresztő, csúszásgátló anyaggal kell burkolni, bűzelzáróval rendelkező csatornaszemmel és szennyvízelvezető csatornával ellátni. A nyílászáró szerkezeteknek könnyen tisztán tarthatónak, fertőtleníthetőnek kell lenniük. Az oldalfalakat és a rácsokat mosható, jól fertőtleníthető anyagból kell elkészíteni.
+
+(3) A telepen húsz ketrecenként egy elkülönítőt kell kialakítani a beteg vagy betegségre gyanús állatok megfigyelésére. Betegség gyanúja esetén – a területileg illetékes hatósági állatorvos értesítése mellett – az állatot azonnal át kell telepíteni az elkülönítőbe.
+
+(4) A telepnek rendelkeznie kell nagynyomású mosó-, fertőtlenítőgéppel.
+
+(5) A takarmány tárolására külön helyiséget kell kialakítani, amelynek könnyen tisztítható és fertőtleníthető, résmentes, vizet át nem eresztő anyaggal bevont oldalfalakkal kell rendelkeznie.
+
+###### 193. §
+
+(1) A telepre csak olyan húsevő vihető be, amely egy éven belül, de legalább tizennégy napja veszettség elleni védőoltásban részesült. Menhely esetében ettől el lehet tekinteni, az ilyen állatot azonban tizennégy napig elkülönítőben kell tartani.
+
+(2) A beérkezett állatokról kimutatást kell vezetni, amelynek tartalmaznia kell a tulajdonos nevét és lakcímét, az állat faját és fajtáját, nemét, korát, színét, esetleges ismertető jegyeit, veszettség elleni és egyéb védőoltásának időpontját.
+
+(3) Ugyanazon ketrecbe csak azonos ivarú állatok helyezhetők el. Ez alól kivétel a szoptató anyaállat a kölykeivel.
+
+(4) A ketreceket naponta tisztítani kell. Új állat elhelyezése előtt az egész kennelt ki kell tisztítani és hatékony fertőtlenítőszerrel fertőtleníteni kell. A telepen évente egyszer teljes körű tisztítást és fertőtlenítést kell végezni. A keletkezett hulladékokat műanyag zsákba gyűjtés után dögkútba helyezéssel vagy elégetéssel ártalmatlanná kell tenni.
+
+###### 194. §
+
+(1) A telepen végzett állatorvosi tevékenységről munkanaplót kell vezetni. A naplóba bejegyzést csak állatorvos tehet, amit aláírásával és bélyegzőjével hitelesít.
+
+(2)[^175] Az állatpanzió és -menhely működését – állatjárványügyi és -higiéniai szempontból – a járási hivatal, a hatósági állatorvos útján ellenőrzi.
+
+(3) A már működő létesítmények, a Szabályzat hatálybalépését követően – az állatpanziók esetében három hónap, az állatmenhelyek esetében egy év elteltével – a Szabályzatban előírt feltételekkel folytathatják működésüket.
+
+### III. CÍM — AZ ÁLLATBETEGSÉGEK MEGELŐZÉSÉNEK ÉS LEKÜZDÉSÉNEK RÉSZLETES SZABÁLYAI
+
+#### I. Fejezet — AZ ÁLLATBETEGSÉGEK MEGELŐZÉSÉNEK SZABÁLYAI
+
+###### Lóállományok védelme
+
+###### 195. §
+
+(1) Minden, fél évnél idősebb lovat háromévenként takonykór felderítésére irányuló immundiagnosztikai vizsgálat alá kell vonni. A vizsgálat lehet szem- vagy szerológiai próba. Össze lehet kötni a fertőző kevésvérűség, mének esetében a tenyészbénaság felderítésére irányuló vizsgálatokkal. Egyedi azonosításon alapuló állategészségügyi vizsgálat vagy beavatkozás a 36. § (2) bekezdésének a) pontja szerint megjelölt állaton végezhető.
+
+(2) Lovassport rendezvényen csak fertőző kevésvérűség szempontjából szerológiailag negatív állatok vehetnek részt. A lóversenyre vagy lósport rendezvényre állatot szállító állattartó esetén – amennyiben a lovak más állattartó lovaival érintkeznek vagy érintkezhetnek – az egész lóállományt évente, más állattartó fél évnél idősebb lovait pedig háromévente, fertőző kevésvérűség szempontjából szerológiai vizsgálatnak kell alávetni.
+
+(3)[^176] A szerológiai vizsgálatok időpontját a járási hivatal a NÉBIH-hel egyeztetve határozza meg.
+
+(4)[^177]
+
+###### 196. §
+
+(1)[^178] A lovassport esemény rendezője köteles a rendezvény megtartásához, annak tervezett időpontja és helye megjelölésével az illetékes járási hivatal állat-egészségügyi engedélyét kérni. A járási hivatal által kijelölt hatósági állatorvos ellenőrzi a versenyre érkezett lovak egészségi állapotát és a ló útleveleket.
+
+(2) A lépfene szempontjából veszélyeztetett legelőre járó és onnan származó takarmánnyal etetett minden lovat – az állattartó költségére – megelőző védőoltásban kell részesíteni.
+
+(3)[^179] Fertőző lóbetegség veszélye esetén a járási hivatal a 195. §-ban foglaltakon túlmenően előírhatja, hogy
+
+a) egypatás állatot idegen helyen, közös itatóból itatni nem szabad;
+
+b) a közös itatóhelyet, itatóhelyeket – a legelői kutak kivételével – itatóvályúval felszerelni nem szabad.
+
+(4) A lóállományokban – a felsoroltakon kívül – a minisztérium esetenként más, vagy gyakoribb vizsgálatokat is előírhat.
+
+(5) Ha bármely vizsgálat során lóbetegségek kórokozójával történt fertőzöttséget állapítanak meg, továbbá több állat egyidejű megbetegedése esetén, a hatósági állatorvos rendelkezései szerint kell eljárni.
+
+###### Szarvasmarha-állományok védelme
+
+###### 197. §
+
+(1) Egyedi azonosításon alapuló állategészségügyi vizsgálat vagy beavatkozás a 36. § (2) bekezdés b) pontja szerint megjelölt állaton végezhető.
+
+(2) A hatósági vagy a kezelő állatorvos rendszeresen köteles ellenőrizni, hogy a szarvasmarhatartó telepeken csak olyan személyek dolgoznak, akik a gümőkór ernyőképszűrés érvényes, egy évnél nem régebbi, negatív leletével rendelkeznek. Az előírást a telepen dolgozó személy alkalmazása előfeltételeként érvényesíteni kell. Ugyanígy kell eljárni a telepet rendszeresen látogató és az állatokkal kapcsolatban lévő személyekkel is.
+
+(3) Az állattartó a szarvasmarhái legeltetését úgy köteles megszervezni, hogy a leukózistól mentes állományok a fertőzöttekkel sem közvetve, sem közvetlenül ne érintkezhessenek.
+
+(4)[^180]
+
+###### 198. §
+
+(1)[^181]
+
+(2) Új állattartó telepeket feltölteni és új állományokat kialakítani kizárólag gümőkórtól, brucellózistól és leukózistól mentes – harminc napon belül végzett szerológiai vizsgálat szerint egyedenként is negatív – szarvasmarhákkal szabad.
+
+(3) A lépfenével, rosszindulatú vizenyővel és a sercegő üszökkel fertőzött legelőre járó szarvasmarhákat évenként, a kihajtás előtt legalább két héttel e betegségek ellen védőoltásban kell részesíteni.
+
+###### 199. §[^182]
+
+Ha az állattartó idegen állományból kíván szarvasmarhát vásárolni, az eladó köteles a vevőt írásban tájékoztatni az állománynak gümőkórtól, brucellózistól és leukózistól való mentességéről, vagy fertőzöttségéről, és az állományban más betegségek megelőzésére alkalmazott immunizálási programról, az elvégzett védőoltások adatairól. A megvásárolandó szarvasmarhákat meg kell vizsgálni tuberkulinos bőrpróbával, brucellózisra és leukózisra irányuló szerológiai próbával. Az e betegségekre irányuló vizsgálatokat minden olyan esetben el kell végezni, amikor az állatokat mentes állományba viszik be, vagy új állományt alakítanak ki. Indokolt esetben a járási hivatal további betegségtől való mentességet is előírhat. A karanténozási feltételek meghatározásakor az érintett járási hivatalok ezeket az adatokat egymással egyeztetni kötelesek. A vevő és az eladó állatállományát ellátó állatorvosoknak – a párhuzamos és a rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat (vérvételeket) az eladónál közösen kell elvégezniük.
+
+###### 200. §[^183]
+
+A nagylétszámú szarvasmarha-állományokból továbbtartásra kistermelőnek eladni, bértartásra kihelyezni csak gümőkórtól, brucellózistól és leukózistól mentes szarvasmarhákat szabad. A fogadás helye szerinti járási hivatal a kihelyezés feltételéül további betegségtől való mentességet is előírhat. A nagylétszámú szarvasmarha-állomány tulajdonosa a kihelyezett szarvasmarhákat csak a hizlalótelepére, azok szaporulatát pedig csak a járási hivatal által meghatározott feltételek mellett viheti be a saját állományába.
+
+###### 201. §
+
+A tenyésztő szervezet csak a minisztérium állategészségügyi engedélyével végezhet (pl. utódellenőrzésre) állatösszegyűjtést.
+
+###### 202. §
+
+(1) A szarvasmarha-állományokban – a felsoroltakon kívül – a minisztérium esetenként más vagy gyakoribb vizsgálatokat is előírhat.
+
+(2) Ha bármely vizsgálat során állatbetegség kórokozójával történt fertőzöttséget állapítanak meg, a hatósági állatorvos rendelkezése szerint kell eljárni.
+
+###### Juhállományok védelme
+
+###### 203. §
+
+(1)[^184] Új telepek feltöltésének céljából történő vásárlás esetén ellenőrizni kell a származási állomány *B. ovistól* való mentességét. A megvásárolandó állatokat *B. ovisra* szerológiai próbával egyedenként kell megvizsgálni. A telep állományába juhokat csak a 90. §-ban előírt karanténozás és az ezt követő kedvező eredményű állatorvosi vizsgálat után szabad bevinni. Indokolt esetben a karanténozási időszak alatt, megelőzési célból juhrühösség elleni kezelés is előírható.
+
+(2)[^185] A gyűjtőtelepre történő beszállítás állategészségügyi feltételeit a járási hivatal határozza meg. A gyűjtőtelepről juhokat továbbtartásra az illetékes járási hivatal engedélyével és feltételeivel szabad kiszállítani.
+
+(3) A juhnyírók ruházatát és felszerelését mind a munka megkezdése előtt, mind befejezése után fertőtleníteni kell. A fertőtlenítést az állatorvos ellenőrzése mellett kell elvégezni, amelyről a juhnyírók igazolást kapnak. A juhnyírók ebet nem vihetnek magukkal.
+
+###### 204. §
+
+(1) Nagy- és kislétszámú állattartó telepen tartott juh- (kecske-) nyáj ugyanarra a legelőre nem hajtható.
+
+(2) Különböző állattartók juhait közös nyájba terelni és azokat együtt tartani csak a közös nyájba való terelést legfeljebb tizennégy nappal megelőzően, az állatok állandó tartási helyén végzett, kedvező eredményű állatorvosi vizsgálat után szabad.
+
+(3) A lépfenével, sercegő üszökkel és rosszindulatú vizenyővel fertőzött legelőre járó juhokat és kecskéket a legelőre hajtás előtt legalább két héttel e betegségek ellen vakcinázni kell.
+
+(4) A nagylétszámú juhtartó telepek állományát az állatorvosnak folyamatos felügyelet alatt kell tartani, a kislétszámú juhtartó telep állományát minden év március–április havában meg kell vizsgálni a rühösségben beteg állatok felderítése céljából.
+
+###### 205. §
+
+(1) Valamennyi juhot évente egy alkalommal, legkésőbb július 31-ig – a 204. § (4) bekezdésében előírt vizsgálat eredményétől függetlenül – az alkalmazott gyógyszer használati utasításában előírtak szerint, külső paraziták ellen gyógykezelni kell.
+
+(2) A tárgyévben született bárányok gyógykezelése alól a hatósági állatorvos felmentést adhat.
+
+(3)[^186] A gyógykezelés módját a járási hivatal határozza meg, a gyógykezelést engedélyezi, és ellenőrzi ennek végrehajtását.
+
+(4)[^187] A gyógykezelés szakszerűtlen végrehajtása esetén a járási hivatal előírhatja annak megismétlését.
+
+(5) A kislétszámú állattartó telepen elvégzett gyógykezelést a kezelő állatorvos igazolja.
+
+(6) Mind a nagylétszámú, mind a kislétszámú állattartó telepek juhállományai gyógykezelésének személyi és tárgyi feltételeiről (medence, kád, gyógyszer) az állattartó köteles gondoskodni.
+
+###### 206. §
+
+(1) Az állatállományokban – a felsoroltakon kívül – a minisztérium esetenként más vagy gyakoribb vizsgálatokat is előírhat.
+
+(2) Ha bármely vizsgálat során állatbetegség kórokozójával történt fertőzöttséget állapítanak meg, a hatósági állatorvos rendelkezése szerint kell eljárni.
+
+###### Kecskeállományok védelme
+
+###### 207. §
+
+(1) Lépfene, sercegő üszök és rosszindulatú vizenyő szempontjából veszélyeztetett területen valamennyi kecskét évente, az állattartó költségére, megelőző vakcinázásban kell részesíteni.
+
+(2) Rühösség felderítése céljából az állattartó a kecskeállományát minden év március–április havában köteles megvizsgáltatni.
+
+(3) Kecskék ízület- és agyvelő-gyulladásával (CAE), sajtos nyirokcsomó-gyulladással vagy paratuberkulózissal fertőzött, valamint az e betegségektől mentes kecskeállományok – az utóbbiak védelme érdekében – közösen nem legeltethetők.
+
+(4) A kecskék ízület- és agyvelő-gyulladásával, sajtos nyirokcsomó-gyulladással vagy paratuberkulózissal terhelt kecskeállományokból állatokat továbbtartásra értékesíteni nem szabad.
+
+###### Sertésállományok védelme
+
+###### 208. §
+
+(1)[^188] A járási hivatal köteles az illetékességi területén lévő nagylétszámú sertéstelepeken tartott sertéseket brucellózis, leptospirózis, Aujeszky-féle betegség szempontjából minősíteni. Az egyes minősítési kategóriákra előírt vizsgálatokat a nagylétszámú állatállományokat ellátó állatorvosok kötelesek megadott időre elvégezni vagy elvégeztetni a tulajdonos költségére.
+
+(2)[^189] A nagylétszámú sertésállományok tenyészanyagának utánpótlására való vásárlás esetén az eladó köteles a vevőt tájékoztatni a származási állomány brucellózistól, leptospirózistól, Aujeszky-féle betegségtől való mentességéről, továbbá a legalább két évre visszamenően kapott boncolási és húsvizsgálati eredmények alapján a sertéstífusztól való mentességéről. A megvásárolandó sertéseket egyidejűleg meg kell vizsgálni szerológiai próbával brucellózisra, leptospirózisra, Aujeszky-féle betegségre. A vevő és az eladó állatállományát ellátó állatorvosok – a párhuzamos és rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat az eladó állatállományában közösen is elvégezhetik.
+
+(3)[^190]
+
+(4)[^191] Újonnan épített nagylétszámú sertéstelepet – a járási hivatal engedélyével – kizárólag brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes tenyészállatokkal szabad feltölteni.
+
+(5)[^192]
+
+###### 209. §
+
+(1)[^193] Azokra a közigazgatási területekre, ahol valamennyi nagylétszámú állattartó telep sertésállománya brucellózistól, leptospirózistól, Aujeszky-féle betegségtől egyaránt mentes (a továbbiakban: mentes állomány), csak mentes állományból szabad sertést bevinni.
+
+(2)[^194] Köztenyésztésre csak brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes állományból származó, negatív egyedi szerológiai leletű fedező kanokat szabad kihelyezni.
+
+(3) A nagylétszámú állattartó telepek sertésállományainak járványvédelméről, a telepi zártság feltételeiről, a védekező (megelőző) fertőtlenítések tárgyi és anyagi feltételeinek meglétéről a tulajdonos köteles gondoskodni.
+
+###### 210. §
+
+(1) A sertésállományokban – a felsoroltakon kívül – a minisztérium esetenként más vagy gyakoribb vizsgálatokat is előírhat.
+
+(2) Ha bármely vizsgálat során állatbetegség kórokozójával történt fertőzöttséget állapítanak meg, a hatósági állatorvos rendelkezése szerint kell eljárni.
+
+###### A nyúlállományok védelme
+
+###### 211. §
+
+(1)[^195] Mixomatózis szempontjából veszélyeztetett területen és időszakban a nyulakat mixomatózis ellen az állattartók költségére vakcinázni kell. A veszélyeztetett területet a járási hivatal határozza meg.
+
+(2)[^196] A tenyésznyulaknak a termelőhöz történő kihelyezésével foglalkozó gazdálkodó szervezetek kötelesek a nyúlkihelyezési tervüket állategészségügyi szempontból a járási hivatallal egyeztetni.
+
+(3)[^197] A járási hivatal által meghatározott állományokból nyulat továbbtartásra eladni vagy kihelyezni csak a nyulak vérzéses betegsége, mixomatózis, pasztörellózis, sztafilokokkózis, rühösség klinikai tüneteitől mentes nyúlállományból szabad. Új kihelyezés vagy értékesítés a klinikai tünetmentessé válás után – nyulak vérzéses betegsége esetében hatvan nap, mixomatózis, pasztörellózis, sztafilokokkózis és rühösség esetében harminc nap múlva – lehetséges.
+
+###### A húsevők védelme
+
+###### A vadon élő, a vadaskerti és az állatkerti állatok védelme
+
+###### 217. §
+
+(1)–(4)[^203]
+
+(5) A vadászatra jogosultak a veszettség megelőzésére a rókákat vadászattal gyéríteni kötelesek.
+
+(6) Állatkertbe állatot bevinni az élőállat-karanténozás teljesítésével szabad.
+
+(7) Az állatkert állatorvosa, üzemeltetője minden olyan esetben köteles értesíteni az illetékes hatósági állatorvost, amikor bejelentési kötelezettség alá tartozó fertőző betegség gyanúja merül fel, illetve, ha tömeges vagy emberre veszélyes betegség lép fel.
+
+(8) Az állatkerti állatok etetésére felhasznált állati eredetű takarmányt, húst stb., csak hatósági állatorvosi bizonyítvánnyal szabad beszállítani.
+
+(9) Az állatkertben elhullott állatok tetemének boncolására, átmeneti tárolására boncolót és hullakamrát kell létesíteni, üzemeltetni.
+
+(10) Vadaskertben, vadasparkban tartott állatokra a rokon háziállatokra vonatkozó állategészségügyi szabályokat kell alkalmazni.
+
+###### A tyúk-, a pulyka-, a gyöngytyúk-, a galamb-, a fácán-, a fogoly- és a fürjállományok védelme
+
+###### 218. §
+
+(1) A baromfitartó istállóiba újabb állományt csak akkor szabad bevinni, ha az előző állományból egy állat sem maradt vissza, a tartási helyet kitisztították és fertőtlenítették.
+
+(2) A telepen minden baromfit úgy kell elhelyezni, hogy az a tartás során a telephez nem tartozó más baromfival ne érintkezhessen.
+
+(3) A fertőző anyagok behurcolásának megakadályozása érdekében a tyúk-, pulyka-, gyöngytyúk-, galamb-, fácán-, fogoly- vagy fürjtelepre csak fertőtlenített műanyag tojástálcát vagy még nem használt papírtálcát szabad bevinni.
+
+###### 219. §
+
+(1) Az állattartók tulajdonában lévő, baromfipestis iránt fogékony állományok kötelező jellegű védőoltását a minisztérium határozza meg, a baromfipestisről szóló fejezetben leírtak szerint.
+
+(2)[^204] A baromfipestis ellen vakcinázott állományok ellenanyagszintjének meghatározására a járási hivatal vérvizsgálatot rendel el.
+
+###### 220. §
+
+(1) Az állattartó a tenyésztojás-termelő tyúk-, gyöngytyúk-, pulyka- vagy fácántelepén az állatorvos bevonásával köteles megszervezni a baromfitífusz felderítésére irányuló vérvizsgálatot.
+
+(2) A vizsgálathoz szükséges segédszemélyzetről az állattartó köteles gondoskodni. A vérvizsgálatot – állatorvos felügyeletével – az e célra kiképzett szakemberek is végezhetik.
+
+(3) A nagylétszámú tenyésztojás-termelő állományok vérvizsgálatait úgy kell szervezni, hogy az első vizsgálatot a tojástermelés várható megkezdése előtt három héttel, a másodikat pedig akkor kell elvégezni, amikor az állomány húsz–huszonöt százaléka már megkezdte a tojástermelést. Az első alkalommal az egy légtérben tartott állomány tíz százalékát kell vérvizsgálat alá vonni, és ha nincs pozitív szerológiai reakció, ugyanannyi állatot kell vizsgálni a második alkalommal is. Pozitív reakció esetén a vizsgálatot – mindkét alkalommal – az egész állományra ki kell terjeszteni.
+
+(4) Ha valamely tenyészállomány bármelyik vérvizsgálata során a pozitív szerológiai reakciót adó egyedek száma meghaladja a (7) bekezdés b) és c) pontjai szerint megengedett százalékot, de nem haladja meg a három százalékot, a pozitív állatokat el kell különíteni, és szárnyjelző gombbal, számmal vagy egyéb, később is jól azonosítható módon, egyedileg meg kell jelölni. Valamennyi pozitív állatból vért kell venni, és azt az illetékes állategészségügyi intézetbe kell küldeni további vizsgálat céljára. A vérminták beküldésekor közölni kell a pozitív állatok százalékarányát.
+
+(5) Ha három százaléknál nagyobb a pozitív állatok aránya, a velük egy légtérben tartott állományt is fertőzöttnek kell tekinteni.
+
+(6) Azokban az állományokban, amelyek baromfitífusztól mentesnek minősültek, vagy amelyek tojásainak keltetését engedélyezték, újabb vérvizsgálatokat kell végezni, ha az ezektől az állományoktól származó, a kelés során befulladt tojásokból, vagy a nevelés első öt napjában elhullott csibékből a bakteriológiai vizsgálat a baromfitífusz kórokozóját kimutatta. A kérdéses állomány ismételt vérvizsgálatait az illetékes hatósági állatorvos jelenlétében kell elvégezni, és újból minősíteni.
+
+(7) Baromfitífusz mentességről igazolást a hatósági állatorvos akkor adhat ki, ha
+
+a) a tenyésznaposcsibe baromfitífusztól mentes állományból származik, a felnevelése folyamán a betegség nem fordult elő, továbbá a felnevelése és tartása során más baromfival nem érintkezett;
+
+b) ha az *a)* pontban írt feltételek nem állnak fenn, a baromfi-törzstenyésztő, a hibridbaromfi-, a nagyszülőpárokat tartó, valamint a szaporító telepeken a tenyésztésbe vétel előtt elvégzett két vérvizsgálat során pozitív reakciót adó egyedek száma együttesen nem haladja meg az egy légtérben tartott állatok fél százalékát, és a pozitív reakciót adó egyedeket azonnal eltávolították;
+
+c) ha a hibridbaromfi-szülőpárokat tartó és a keltetőtojás-termelő telepekről származó tenyésztojás baromfitífusztól mentes állománytól származik, vagy a tenyésztésbe vétel előtt elvégzett két vérvizsgálat során a pozitív reakciót adó egyedek száma együttvéve nem haladta meg az egy légtérben tartott állatok egy százalékát, és a pozitív állatokat azonnal eltávolították.
+
+(8)[^205] Baromfitífusz-mentesség esetében a 27. számú függelék szerinti állatorvosi igazolást négy példányban kell kiállítani. A tőpéldány a hatósági állatorvosnál marad, az igazolás egy példányát – szolgálati úton – a járási hivatalnak kell megküldeni, két példányt az állattartónak kell átadni. Egy példányt ebből helyben kell gyűjteni, és egy példányt a tojásszállítmánnyal együtt a keltetőnek vagy a forgalmazónak kell megküldeni.
+
+(9) Baromfiállományból származó tojásokat gépi keltetésre felhasználni vagy forgalomba hozni csak baromfitífusz-mentesség igazolás birtokában szabad.
+
+(10) A napos tenyészbaromfit fogadó nagylétszámú baromfitelepen az állatorvos köteles – a naposbaromfi-állomány baromfitífusz szempontjából történő ellenőrzése céljából – a nevelés első öt napjában elhullott egyedek közül legalább egy alkalommal az illetékes állategészségügyi intézetbe a következő számú hullát vizsgálatra beküldeni:
+
+– napi tíz hulláig valamennyit,
+
+– napi tizenegy-ötven hulláig legalább tíz hullát,
+
+– napi ötvenegy hullán felül minden ötödik, de egy időben legfeljebb ötven hullát.
+
+###### 221. §
+
+(1) Fácánállományt tenyésztésbe venni csak akkor szabad, ha a 220. § (3) bekezdésében leírt időben és feltételekkel, az állomány tíz százalékában elvégzett vérvizsgálat szerint baromfitífusszal nem volt pozitív reakció. Pozitív reakció esetén a vérvizsgálatot az egész állományra ki kell terjeszteni. A pozitív reakciót adó fácánokat a vizsgálatkor azonnal el kell távolítani.
+
+(2) Ha a pozitív egyedek száma meghaladja az állomány három százalékát, a kérdéses állományt a tenyésztésből ki kell zárni. A kizárt állományt röptetőben és csak ivar szerint elkülönítetten szabad tartani.
+
+(3) A hatósági állatorvos három százalékot meg nem haladó pozitivitás esetén köteles a 27. számú függelék szerinti mintának megfelelő állatorvosi igazolást négy példányban kiadni a 220. § (8) bekezdésében foglaltak szerint.
+
+###### 222. §
+
+Kotlóst csak abban az esetben szabad fácántojás keltetésére, fácáncsibe nevelésére használni, ha baromfitífuszra és orsóférgességre nézve előzetesen megvizsgálták és negatívnak találták, baromfipestis ellen immunizálták, a származási állomány légcsőférgességtől és fertőző gége-légcső-gyulladástól mentes, és nem esett át baromfikolerás megbetegedésen.
+
+###### A méhállományok védelme
+
+#### II. Fejezet — BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ ÁLLATBETEGSÉGEK LEKÜZDÉSÉNEK RÉSZLETES SZABÁLYAI
+
+###### SERTÉSEK HÓLYAGOS BETEGSÉGE (SVD)
+
+###### KELETI MARHAVÉSZ
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 282. §
+
+(1) Keleti marhavészben beteg az az állat,
+
+a) amelyen a betegség tünetei kifejezetten mutatkoznak, vagy elhullása, leölése, illetve levágása után a boncolással, húsvizsgálattal, a betegségre jellemző elváltozások állapíthatók meg, vagy a betegség fennállását a laboratóriumi vizsgálatok igazolták;
+
+b) betegnek kell tekinteni azt a keleti marhavész fertőzöttségre gyanús állatot is, amelyen lázas hőemelkedés mutatkozik.
+
+(2) Keleti marhavészre gyanús az az állat, amelyen a betegség tünetei nem kifejezetten mutatkoznak, és leölése után a boncolás során is csupán a betegségre gyanút keltő elváltozások találhatók.
+
+(3) A keleti marhavész fertőzöttségére gyanús az az állat, amely beteg, betegségre vagy fertőzöttségre gyanús állattal vagy ilyen állat nyers termékeivel, illetőleg ilyen állat váladékával vagy ürülékével szennyezett tárggyal huszonegy napon belül érintkezett vagy érintkezhetett.
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### 283. §
+
+Ha a jegyző állatnak keleti marhavészben történt megbetegedéséről vagy annak gyanújáról szerez tudomást, a 106. §-ban előírtakon felül köteles a hatósági állatorvos megérkezéséig a községi zárlatra vonatkozó szabályok (119. §) ideiglenes alkalmazását elrendelni.
+
+###### A hatósági állatorvos feladatai
+
+###### 284. §
+
+(1) A hatósági állatorvos köteles
+
+a) a 107–108. §-okban leírtakat végrehajtani;
+
+b) a települési önkormányzat jegyzőjénél megfelelő számú polgári őr és segéderő kirendelése érdekében eljárni;
+
+c) a kirendelt polgárőrökkel és segéderőkkel feladatukat ismertetni, munkájukat irányítani, ellenőrizni.
+
+(2) A betegség hatóságilag csak a minisztérium felülvizsgálata után állapítható meg.
+
+###### A járási hivatal feladatai[^263]
+
+###### 285. §[^264]
+
+A járási hivatal a 109. §-ban foglaltakon felül köteles
+
+a)[^265] a keleti marhavész gyanújáról a vármegyei kormányhivatalt haladéktalanul értesíteni;
+
+b) a helyszínre kiszállni, a hatósági állatorvos intézkedéseit felülvizsgálni, községi zárlatot elrendelni;
+
+c) szükség esetén a betegségre gyanús állat diagnosztikai leölését elrendelni, a betegség hatósági megállapítása után, a kapott utasításoknak megfelelően, a fogékony állomány leöletésére intézkedést tenni;
+
+d)[^266] a vármegyei kormányhivatal rendelkezésének megfelelően gondoskodni a betegség leküzdéséhez szükséges kellő számú állatorvos kirendeléséről, a szükséges eszközökről és felszerelésekről;
+
+e) a betegség eredetére és elterjedésére vonatkozó járványügyi felderítő vizsgálatot megindítani;
+
+f) a betegség felszámolásában közreműködő állatorvosok munkáját szervezni és irányítani.
+
+###### A vármegyei kormányhivatal feladatai[^267]
+
+###### 286. §
+
+(1)[^268] A betegségnek vagy gyanújának megállapítása esetén a vármegyei kormányhivatal köteles a 110. §-ban előírtakon felül:
+
+a) a minisztériumnak haladéktalanul jelentést tenni;
+
+b)[^269] a járási hivatal útján gondoskodni a betegség leküzdéséhez, illetve kiterjedtebb vizsgálatok elvégzéséhez kellő számú állatorvos kirendeléséről;
+
+c) a betegség eredetére és elterjedésére vonatkozó vizsgálatot irányítani, a védőkörzet elrendelésére javaslatot tennni a minisztériumnak, illetve a kapott utasítások alapján védőkörzet kialakítására intézkedni;
+
+d) a fertőzöttségre gyanús, fogékony állomány zárt vágására, a vágás helyére és körülményeire a minisztériumnak javaslatot tenni;
+
+e) a fertőző anyag eredetének és elhurcolásának felderítésére irányuló vizsgálatot irányítani;
+
+f) a beteg, betegségre és fertőzöttségre gyanús állatok, továbbá esetleg a helyi zárlat alatt álló helyen az egyéb fajú háziállatok leölése, valamint a hulla ártalmatlanná tétele iránt intézkedni.
+
+(2)[^270] A vármegyei kormányhivatal jelentése alapján a minisztérium megbízottat küld a helyszínre. A vármegyei kormányhivatal, valamint a kirendelt állatorvosok a védekezési szabályok alkalmazása tekintetében a minisztérium megbízottjának rendelkezése szerint kötelesek eljárni.
+
+###### A minisztérium megbízottjának feladatai
+
+###### 287. §
+
+A betegségnek vagy gyanújának megállapítása esetén a minisztérium megbízottja a helyszínen köteles
+
+a) az alkalmazott szabályokat felülvizsgálni, és azokat a szükséghez képest módosítani vagy kiegészíteni;
+
+b)[^271] más vármegyéből állatorvosok kirendelése, segéderők alkalmazása iránt intézkedni és azok feladatait meghatározni;
+
+c) a védőkörzet kiterjedését meghatározni;
+
+d) a betegség leküzdése érdekében alkalmazott rendszabályok biztosítása céljából az illetékes rendőrkapitányságnál megfelelő számú rendőr kirendelése iránt eljárni és azokkal feladataikat ismertetni;
+
+e) a fertőzöttségre gyanús fogékony állatállomány zárt vágására vágóhidat kijelölni, a vágást elrendelni, a zárt vágás körülményeit ellenőrizni.
+
+###### A Nemzeti Élelmiszerlánc-biztonsági Hivatal feladatai[^272]
+
+###### Helyi zárlat
+
+###### 289. §
+
+A helyi zárlat szabályai a 118. §-ban foglaltakon kívül a következők:
+
+a) a 123. § (1) bekezdésében foglalt enyhítés a helyi zárlat elrendelésénél nem alkalmazható;
+
+b) a betegség iránt nem fogékony állatokat megkötve vagy zárva kell tartani;
+
+c) a helyi zárlat alatt álló helyre belépni vagy azt elhagyni csak a hatósági állatorvos engedélyével szabad;
+
+d) a helyi zárlat alatt álló helyet polgári vagy fegyveres őrrel őriztetni kell, és a kellően el nem zárt udvarokat ideiglenesen el kell keríteni.
+
+###### Községi zárlat
+
+###### 290. §
+
+(1) Azt a községet, amelyben a betegséget, a betegség vagy a fertőzöttség gyanúját megállapították, községi zárlat alá kell helyezni.
+
+(2) A községi zárlat szabályai a 119. §-ban foglaltakon kívül a következők:
+
+a) a betegség iránt fogékony állatokat nyilvántartásba kell venni, haladéktalanul udvaronként végzett állatorvosi vizsgálatnak kell alávetni, s a zárlat tartama alatt állatorvosi ellenőrzés alá kell vonni úgy, hogy a vizsgálatokat végző állatorvosok az állattal ne érintkezzenek;
+
+b) az állandóan legelőn tartott állatok kivételével a betegség iránt fogékony állatokat közösen legeltetni, közös itatóhoz, úsztatóhoz és delelőhelyre hajtani nem szabad;
+
+c) a betegség iránt nem fogékony állatokat megkötve vagy zárva kell tartani;
+
+d) a községben állatvásárt, -piacot, -kiállítást, -szemlét vagy üzemlátogatást tartani nem szabad;
+
+e) a községben a betegségre fogékony állatot levágni tilos;
+
+f)[^274] a zárlat alatt álló községből a betegség iránt nem fogékony állatot csak a járási hivatal engedélyével és fertőtlenítés után szabad kivinni.
+
+###### Védőkörzet
+
+###### 291. §[^275]
+
+A betegség megállapítása esetén védőkörzetet kell alakítani. A védőkörzetbe be kell vonni mindazokat a községeket, amelyek a községi zárlat alatt álló területtel szomszédosak, továbbá, amelyek részben vagy egészben annak határától légvonalban számított harminc kilométeres körzetébe esnek. A védőkörzetbe vont községekben a fertőzött községekre meghatározott szabályokat kell alkalmazni. A vágási tilalom alól a járási hivatal indokolt esetben felmentést adhat.
+
+###### A trágya, alom és takarmányhulladék kezelése
+
+###### 292. §
+
+A helyi zárlat alatt lévő helyeken a keletkező trágyát, almot és takarmányhulladékot össze kell gyűjteni és füllesztéssel ártalmatlanná kell tenni. A füllesztéssel ártalmatlanná tett anyagokat három hónap után lehet hasznosítani.
+
+###### Beteg, betegségre gyanús állattal való eljárás
+
+###### 293. §
+
+A beteg és a betegségre gyanús állatot hatósági rendelkezésre haladéktalanul le kell ölni, a leölést vértelen úton, a helyi zárlat alatt lévő helyen kell végrehajtani.
+
+###### A fertőzöttségre gyanús állattal való eljárás
+
+###### 294. §
+
+(1) Azokat a fertőzöttségre gyanús állatokat, amelyek beteg vagy betegségre gyanús állattal közvetlenül érintkeztek, hatósági rendelkezésre le kell ölni.
+
+(2) Azokat a más telepen tartott, fertőzöttségre gyanús állatokat, amelyek ilyen állattal közvetlenül nem érintkeztek, de egyéb okból fertőzöttségre gyanúsak, az állategészségügyi hatóság utasításainak megfelelően kijelölt vágóhídon, zárt vágás során le kell vágni.
+
+(3) Azokat a fogékony állatokat, amelyek a község területén találhatók, de a lefolytatott vizsgálat alapján fertőzött vagy fertőzöttségre gyanús állatokkal közvetetten sem érintkeztek, huszonegy napi megfigyelési zárlat alá kell helyezni. A megfigyelési zárlat idején az állatokat naponta kétszer kell hőmérőzni. Hőmérséklet-emelkedés vagy az állat jelentős közérzetváltozása esetén betegségre gyanúsnak kell tekinteni és az állattal ennek megfelelően kell eljárni.
+
+###### Az állatok oltása, gyógyítása
+
+###### 295. §
+
+(1) A betegség ellen védőoltást végezni nem szabad.
+
+(2) A beteg vagy betegségre gyanús állaton gyógyítási kísérletet vagy műtétet végezni tilos.
+
+###### A hullák ártalmatlanná tétele
+
+###### 296. §[^276]
+
+Az elhullott vagy hatósági intézkedésre leölt állatok hulláját lehetőleg a zárlat alatt álló község területén kell ártalmatlanná tenni. Ha ez bármely okból nem lehetséges, a hullák ártalmatlanná tételéről a járási hivatal intézkedik:
+
+a)[^277] hullát csak a járási hivatal, a NÉBIH, illetve a minisztérium megbízottja, kizárólag a helyszínen, kórhatározás céljából boncolhat;
+
+b) a hullát lebőrözni nem szabad, és ha az ártalmatlanná tétel elásás útján történik, a bőrt a hullának hullagödörbe való elhelyezése előtt többszörös keresztülmetszéssel használhatatlanná kell tenni;
+
+c) a boncolás során vérrel vagy egyéb testnedvekkel beszennyezett földet lapáttal fel kell szedni és a hullagödörbe kell dobni, majd a boncolás helyét fertőtlenítő oldattal kell átitatni;
+
+d) a hulla szállításánál használt járművet és eszközöket, valamint a közreműködő személyeket a hulla lerakása után a helyszínen kell fertőtleníteni, a használt almot pedig el kell égetni;
+
+e) a hulla és hullarészek ártalmatlanná tételét a hatósági állatorvos ellenőrzése mellett kell végezni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 297. §
+
+(1) A helyi zárlatot fel kell oldani, ha a lezárt helyen fogékony állat már nincs és a fertőtlenítést végrehajtották.
+
+(2) Fertőtlenítés nélkül fel kell oldani a helyi zárlatot, ha a zárlat alatt lévő helyen csak fertőzöttségre gyanús állatot tartottak, és a huszonegy napi megfigyelési idő alatt e betegségre gyanút keltő megbetegedés nem történt. A megfigyelési időt a fertőzöttség gyanújának felmerülésétől, ha ez az időpont bizonytalan, annak megállapításától, illetőleg fertőzött hellyel szomszédos helyen a fertőzött hely zárlatának feloldásától kell számítani.
+
+(3) A községi zárlatot fel kell oldani, ha a községben már egy hely sincs helyi zárlat alatt, és az utolsó helyi zárlat feloldása után a község fogékony állatállományának átvizsgálása kedvező eredményre vezetett.
+
+(4) A védőkörzetet fel kell oldani, ha a védőkörzetben már egy község sem áll zárlat alatt, és az utolsó községi zárlat feloldása után a védőkörzet összes fogékony állatának állatorvosi vizsgálata kedvező eredményre vezetett.
+
+(5) A helyi és községi zárlatot, továbbá a védőkörzetet feloldani és a betegséget hatóságilag megszűntté nyilvánítani csak a minisztériumi megbízott véleménye alapján szabad.
+
+(6) A helyi zárlat alá vont helyen az állatok tartására használt helyiségeket (istállókat, ólakat stb.) és a fertőzöttnek tekinthető területrészeket fertőtleníteni kell, amint a beteg és a betegségre gyanús állatok elhullottak vagy azokat leölték, a fertőzöttségre gyanús állatokat pedig levágták vagy elszállították. Fertőtleníteni kell azokat a nem fogékony állatokat is, amelyeket a zárlat idején a helyi zárlat alatt álló helyen tartottak.
+
+(7) Fertőtleníteni kell a lezárt helyeken lévő járműveket, továbbá mindazokat a járműveket is, amelyeken beteg, betegségre vagy fertőzöttségre gyanús állatokat, ezek hulláját, hullarészeit, trágyáját, a fertőzött helyről származó takarmányt, almot vagy más tárgyat szállítottak. Az ilyen járművek vontatására használt állatokat ugyancsak fertőtleníteni kell.
+
+(8) Fertőtleníteni kell azokat a személyeket, akik a zárlat idején a helyi zárlat alatt lévő helyen tartózkodtak, valamint mindazokat, akik a beteg, betegségre vagy fertőzöttségre gyanús állatokkal érintkeztek, ilyen állatok szállításánál, leölésénél, levágásánál, továbbá a hullák boncolásánál és ártalmatlanná tételénél közreműködtek.
+
+(9) A fertőtlenítést szigorított módon, a hatósági állatorvos irányítása mellett kell végrehajtani.
+
+###### A megelőzés szabályai
+
+###### 298. §
+
+A betegség behurcolásának a megelőzése érdekében a fertőzött, vagy a betegség előfordulása tekintetében ismeretlen helyzetű országokból, területekről, fogékony állatot, ilyen állatokból származó nyers termékeket (ideértve az ondót és az embriót is) az országba behozni tilos.
+
+###### SZARVASMARHÁK RAGADÓS TÜDŐLOBJA
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 299. §
+
+(1) Ragadós tüdőlobban beteg az az állat,
+
+a) amelyen a betegség tünetei kifejezetten mutatkoznak, és elhullása, levágása, illetőleg leölése után boncolással vagy húsvizsgálattal a betegségre jellemző elváltozások állapíthatók meg, és amelynek váladékaiból vagy szerveiből a betegség kórokozója kimutatható;
+
+b) amely fertőzöttségre gyanús, és amelyen lázas hőemelkedés mutatkozik.
+
+(2) Ragadós tüdőlobra gyanús az az állat,
+
+a) amelyen a betegség tünetei nem kifejezetten mutatkoznak, és elhullása, levágása, illetőleg leölése után a boncolás vagy a húsvizsgálat során csak a betegségre gyanút keltő elváltozások találhatók,
+
+b) amelynek gyanút keltő tünetei, és levágása, elhullása után gyanút keltő kórbonctani elváltozásai ellenére a betegség kórokozója nem mutatható ki.
+
+(3) Ragadós tüdőlob fertőzöttségére gyanús az az állat, amely száznyolcvan napon belül érintkezett vagy érintkezhetett beteg, betegségre vagy fertőzöttségre gyanús állattal.
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### 300. §
+
+Ha a jegyző a betegségről, a betegség vagy fertőzöttség gyanújáról szerez tudomást, a 106. §-ban előírtakon felül köteles a községi zárlatra vonatkozó szabályok ideiglenes alkalmazását elrendelni.
+
+###### A hatósági állatorvos feladatai
+
+###### 301. §
+
+(1) A hatósági állatorvos a 107. §-ban előírtakon felül köteles
+
+a)[^278] a betegség gyanújáról a járási hivatalt és a vármegyei kormányhivatalt haladéktalanul értesíteni;
+
+b) a helyi zárlatot elrendelni;
+
+c) a települési önkormányzat jegyzőjénél megfelelő számú polgári őr és segéderő kirendelése érdekében eljárni és azokat feladatukra kioktatni.
+
+(2) A betegség hatóságilag csak a minisztérium felülvizsgálata után állapítható meg.
+
+###### A járási hivatal feladatai[^279]
+
+###### 302. §[^280]
+
+Ha a járási hivatal a betegség gyanújáról értesül, köteles a helyszínen haladéktalanul megjelenni és vizsgálatot végezni. A betegségnek vagy gyanújának megállapítása esetén köteles
+
+a)[^281] vizsgálati anyagnak a NÉBIH-be történő elküldését elrendelni;
+
+b) a hatósági állatorvos és a jegyző eddigi intézkedéseit felülvizsgálni, azokat szükség esetén kiegészíteni vagy módosítani;
+
+c) a betegség eredetének és elterjedésének felderítése céljából a nyomozást megindítani;
+
+d) a leölést elrendelni;
+
+e)[^282] védőkörzetet elrendelni.
+
+###### A vármegyei kormányhivatal feladatai[^283]
+
+###### 303. §
+
+(1)[^284] A vármegyei kormányhivatal köteles
+
+a) a betegség gyanújának megállapításakor a minisztériumnak távbeszélőn jelentést tenni,
+
+b)[^285] a járási hivatal intézkedéseit felülvizsgálni és szükség esetén módosítani;
+
+c) a behurcolás felderítésére és a betegség elterjedésére irányuló vizsgálatot irányítani;
+
+d) a védőkörzetet elrendelni;
+
+e)[^286] utasítani a járási hivatalokat kellő számú állatorvos kirendelésére;
+
+f) a beteg, betegségre és fertőzöttségre gyanús állatok leöletése, valamint a hulla ártalmatlanná tétele iránt intézkedni.
+
+(2)[^287] Ha a betegség gyanúja is kizárható, a vármegyei kormányhivatal gondoskodik az eddigi intézkedések hatályon kívül helyezéséről.
+
+###### A minisztérium megbízottjának feladatai
+
+###### 304. §
+
+A betegségnek vagy gyanújának megállapítása esetén a minisztérium megbízottja a helyszínen köteles
+
+a) a tett intézkedéseket felülvizsgálni és azokat – ha szükséges – módosítani vagy kiegészíteni;
+
+b) szükség esetén a fertőző anyag eredetének és elhurcolásának felderítésére irányuló vizsgálat irányítását átvenni;
+
+c) az állatszállítások engedélyezését véleményezni;
+
+d) a húsvizsgálat ellenőrzéséről gondoskodni;
+
+e) az állatállomány átvizsgálását és nyilvántartásba vételét megszervezni;
+
+f) a fertőtlenítést megszervezni.
+
+###### Helyi zárlat
+
+###### 305. §
+
+A helyi zárlat szabályai a 118. §-ban foglaltakon kívül a következők:
+
+a) a helyi zárlat alatt álló helyet polgári-, szükség esetén fegyveres őrrel őriztetni kell, és a kellően el nem zárt udvarokat el kell keríteni;
+
+b) a helyi zárlat alatt álló helyről nagy- és kiskérődzőket csak leölés céljából szabad kivinni.
+
+###### Községi zárlat
+
+###### 306. §
+
+(1) Azt a községet, amelyben a betegséget, a betegség vagy fertőzöttség gyanúját megállapították, községi zárlat alá kell helyezni.
+
+(2) A községi zárlat szabályai a 119. §-ban foglaltakon kívül a következők:
+
+a) a nagy- és kiskérődzőket nyilvántartásba kell venni és haladéktalanul, udvaronként végzett állatorvosi vizsgálatnak kell alávetni, s a zárlat tartama alatt fokozott állatorvosi ellenőrzés alatt kell tartani;
+
+b) az állandóan legelőn tartott állatok kivételével a betegség iránt fogékony állatokat közösen legeltetni, közös itatóhoz, úsztatóhoz és delelőhelyre hajtani nem szabad;
+
+c) az állandóan legelőn tartott és a betegség iránt fogékony állatokat el kell különíteni úgy, hogy azok más fogékony állattal ne érintkezhessenek.
+
+###### Védőkörzet
+
+###### 307. §
+
+A betegség megállapítása esetén védőkörzetet kell elrendelni, amelynek szabályai megegyeznek a 122. § (1) és (3) bekezdésének előírásaival.
+
+###### A trágya, alom és takarmányhulladék kezelése
+
+###### 308. §
+
+A helyi zárlat alatt álló helyen összegyűjtött trágyát, almot és takarmányhulladékot füllesztéssel és/vagy elásással ártalmatlanná kell tenni.
+
+###### A beteg, betegségre és fertőzöttségre gyanús állattal való eljárás
+
+###### 309. §
+
+(1) A beteg és betegségre gyanús, valamint az ezekkel közvetlenül érintkezett, fertőzöttségre gyanús állatot levágás útján haladéktalanul le kell ölni.
+
+(2) A gazdaságok olyan fertőzésre gyanús állatainak leölésétől el lehet tekinteni, amelyek csak fertőzésre gyanús állatokkal érintkezhettek. Ez esetben azonban a gazdaságban száznyolcvan nap időtartamra forgalmi korlátozást és hatósági megfigyelést kell elrendelni.
+
+###### Az állatok oltása és gyógyítása
+
+###### 310. §
+
+A beteg, betegségre vagy fertőzöttségre gyanús állatot gyógykezelni és védőoltásban részesíteni tilos.
+
+###### Nyers termékek felhasználása
+
+###### 311. §
+
+(1) A helyi zárlat alatt álló helyen termelt tejet csak helyben, felforralás után, kizárólag állatok etetésére szabad felhasználni.
+
+(2) A levágott állat húsával az elváltozott részek megsemmisítése után e szabályzat előírásai szerint kell eljárni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 312. §
+
+(1) A betegség miatt elrendelt helyi zárlatot fel kell oldani, ha
+
+a) a zárlat alatt álló helyen fogékony állat nincs és a fertőtlenítést végrehajtották;
+
+b) a zárlat alatt álló helyen a fogékony állatok között hat hónap óta a betegségre gyanút keltő megbetegedés nem történt.
+
+(2) A betegség miatt elrendelt községi zárlatot fel kell oldani és a betegséget megszűntté kell nyilvánítani, ha a zárlat alatt álló községben már egy hely sincs helyi zárlat alatt, és az utolsó helyi zárlat feloldása után a község fogékony állatállományának átvizsgálása kedvező eredménnyel megtörtént.
+
+(3) A fertőtlenítést szigorított módon, a hatósági állatorvos irányítása mellett kell végezni.
+
+(4) Fertőtleníteni kell
+
+a) a beteg, betegségre vagy fertőzöttségre gyanús állatok elhullása, leölése, illetőleg levágása után azonnal, azt a helyiséget, amelyben az állatot tartották, továbbá az istálló berendezéseket, etető- és itatóedényeket, a takarítóeszközöket, az összegyűjtött trágyát, almot és takarmányhulladékot;
+
+b) azt a járművet, amelyen a beteg, betegségre vagy fertőzöttségre gyanús állatot vagy ilyen állat hulláját szállították;
+
+c) azt a helyet, amelyen a beteg, betegségre vagy fertőzöttségre gyanús állatot levágták, leölték vagy boncolták, és az ahhoz használt eszközöket.
+
+###### JUHHIMLŐ ÉS KECSKEHIMLŐ
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 313. §
+
+(1) Juh- és kecskehimlőben (a továbbiakban: himlőben) beteg az a juh és/vagy kecske, amelyen a betegség tünetei kifejezetten mutatkoznak, vagy amelyből a tünetektől, illetve az elváltozásoktól függetlenül a vírust kimutatták.
+
+(2) Himlőre gyanús az az állat, amelyen a betegség tünetei nem kifejezetten mutatkoznak és elhullása vagy leölése után a boncolás során is csupán a betegségre gyanút keltő elváltozások találhatók, mindaddig, amíg a laboratóriumi vizsgálat a gyanút megerősíti vagy kizárja.
+
+(3) Himlő fertőzöttségére gyanús az az állat, amely huszonegy napon belül beteg, betegségre vagy fertőzöttségre gyanús állattal, továbbá juhhimlővel fertőzött helyről származó takarmánnyal vagy egyéb betegségterjesztő tárgygyal érintkezett vagy érintkezhetett.
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### 314. §
+
+Ha a jegyző a betegségről, a betegség vagy a fertőzöttség gyanújáról szerez tudomást, a 106. §-ban előírtakon felül köteles az állatorvos megérkezéséig zárlat alá helyezni
+
+a) a beteg, betegségre és fertőzöttségre gyanús állatok tartási helyét, továbbá azokat a helyeket, ahol ilyen állat huszonegy napon belül megfordult, vagy elhullott, illetőleg ahol ilyen állatot levágtak vagy leöltek, valamint az ezekkel szomszédos helyeket, ha azokban juhot vagy kecskét tartanak;
+
+b) azokat a helyeket, ahol fogékony állat ugyan nincs, de beteg, betegségre gyanús állat megfordult, továbbá az ezekkel szomszédos helyeket, ha azokban juhot vagy kecskét tartanak;
+
+c) az egész legelőt, ha azokon több különálló nyáj legel, továbbá
+
+d) a községi zárlatra vonatkozó szabályok ideiglenes alkalmazását elrendelni.
+
+###### A hatósági állatorvos feladatai
+
+###### 315. §
+
+(1) A hatósági állatorvos köteles a 107. §-ban előírtakon felül haladéktalanul intézkedni a vizsgálati anyagnak a területileg illetékes állategészségügyi intézetbe küldéséről.
+
+(2)[^288] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
+
+###### A járási hivatal feladatai[^289]
+
+###### 316. §[^290]
+
+A járási hivatal a 109. §-ban előírtak szerint köteles eljárni, továbbá a beteg, betegségre gyanús állatok leölése és ártalmatlanná tétele iránt intézkedni.
+
+###### 317. §
+
+Ha a betegséget vagy annak gyanúját szállítás közben, illetve ki- vagy berakás alkalmával észlelik, a 112. §-ban foglaltak figyelembevételével, a következő szabályokat kell alkalmazni:
+
+a) a vágóhídra irányított állatokat rendeltetési helyükre kell továbbítani;
+
+b) a továbbtartásra szánt állatokat a megfelelő helyen el kell különíteni, és helyi zárlat alá kell helyezni;
+
+c) a szállítmányhoz tartozó marhalevélre és a fuvarlevélre rá kell írni, hogy „Himlővel fertőzött (fertőzöttségre gyanús) szállítmány”.
+
+###### A vármegyei kormányhivatal feladatai[^291]
+
+###### 318. §[^292]
+
+A betegség vagy annak gyanúja megállapítása esetén, a vármegyei kormányhivatal köteles a 110. §-ban előírtakon felül a helyszínen vizsgálatot végezni, és a tett intézkedéseket a szükséghez képest módosítani vagy kiegészíteni.
+
+###### Helyi zárlat
+
+###### 319. §
+
+A 118. §-ban foglaltak szerint kell eljárni.
+
+###### Községi zárlat
+
+###### 320. §
+
+(1)[^293] Azt a községet, amelyben a betegséget hatóságilag megállapították, a járási hivatalnak községi zárlat alá kell helyezni.
+
+(2) A községi zárlat szabályai a 119. §-ban foglaltakon kívül a következők:
+
+a) a község juh- és kecskeállományát a hatósági állatorvos köteles nyilvántartásba venni, s haladéktalanul állatorvosi vizsgálatnak alávetni;
+
+b) a zárlat alatt nem álló helyen tartott juhok és kecskék legeltetését a hatósági állatorvos által kijelölt területre kell korlátozni.
+
+###### A fertőzöttségre gyanús állatok levágása
+
+###### 321. §[^294]
+
+A fertőzöttségre gyanús állatot – kényszervágás kivételével – a járási hivatal engedélyével szabad levágni. A fertőzöttségre gyanús állat kedvező eredményű hatósági állatorvosi vizsgálat után vágható le, húsa korlátozás nélkül forgalomba hozható.
+
+###### A levágott vagy elhullott állat bőrének szőrének, gyapjának, prémjének kezelésére vonatkozó szabályok
+
+###### 322. §
+
+Helyi zárlat alatt álló helyről származó juh- és kecskebőr, kellően zsákolt gyapjú, továbbá szőr és prém a hatósági állatorvos engedélyével, közvetlenül a feldolgozótelepre, fertőtlenítés nélkül szállítható. Egyébként a gyapjút, szőrt, prémet csak hatékony fertőtlenítőoldatban megfelelő ideig történő áztatás és azt követő kimosás után szabad forgalomba hozni.
+
+###### A tej felhasználásának korlátozása
+
+###### 323. §
+
+(1) A beteg és a betegségre gyanús állat tejét csak nem fogékony állatok etetésére szabad felhasználni. A fel nem használható tejet fertőtlenítőszerrel való összekeverés után ártalmatlanná kell tenni.
+
+(2) A fertőzöttségre gyanús állat teje a helyi zárlat alatt álló helyeken feldolgozható, vagy a hatósági állatorvos engedélyével tejfeldolgozóba kivihető és forgalomba hozható.
+
+###### A takarmány felhasználásának korlátozása
+
+###### 324. §
+
+(1) A helyi zárlat alatt álló helyen tárolt szálastakarmányt feletetni – a helyi zárlat feloldása után is – csak helyben szabad.
+
+(2)[^295] Olyan szálastakarmány, amelyet még a betegség megállapítása előtt takarítottak be, és amely bizonyíthatóan nem fertőződhetett, a zárlat feloldása után, a járási hivatal engedélyével kiszállítható és forgalomba hozható.
+
+###### Hullák ártalmatlanná tétele
+
+###### 325. §
+
+(1) A beteg és a betegségre gyanús állat hulláját ártalmatlanná kell tenni.
+
+(2) A hulla lerakása után a szállításra használt járművet a helyszínen fertőtleníteni kell, a felhasznált almot pedig el kell égetni.
+
+(3) A hullát és a hullarészeket a hatósági állatorvos jelenlétében és utasítása szerint kell ártalmatlanná tenni.
+
+###### A trágya és takarmányhulladék kezelése
+
+###### 326. §
+
+A beteg, betegségre és fertőzöttségre gyanús állat trágyáját, a takarmányhulladékkal együtt, fertőtlenítő oldattal való átitatás után fülleszteni kell.
+
+###### A zárlat enyhítése
+
+###### 327. §
+
+(1)[^296] A helyi zárlat alatt álló helyről, fertőzöttségre gyanús állat azonnali levágás céljából, gépkocsin – a járási hivatal engedélyével – a helyi vágóhídra, ha pedig a vágás a községben nem oldható meg, más község vágóhídjára is elszállítható.
+
+(2)[^297] A helyi zárlat alá helyezett helyről fertőzöttségre gyanús állatokat – ha közben azok más állatokkal nem érintkeznek – a község területén fekvő legelőre a járási hivatal engedélyével ki szabad hajtani.
+
+(3)[^298] Zárlat alatt álló község helyi zárlat alatt nem álló helyéről juh és kecske nyers terméke, trágya és takarmány az előzetes hatósági állatorvosi helyszíni szemle eredményétől függően, a járási hivatal engedélyével elszállítható.
+
+(4) Zárlat alatt álló községben juhot és kecskét vasúton vagy hajón minden korlátozás nélkül, gépkocsival pedig megállás nélkül át szabad szállítani.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 328. §
+
+(1) A helyi zárlatot fel kell oldani, ha a lezárt helyen fogékony állat már nincs, illetve az ott tartott állatok közül az utolsó beteg állat meggyógyulásától számított huszonegy nap eltelt, és a fertőtlenítést mindkét esetben végrehajtották.
+
+(2) Fertőtlenítés nélkül fel kell oldani a helyi zárlatot, ha a zárlat alatt levő helyen csak fertőzöttségre gyanús állatokat tartanak, és azok között a huszonegy napig tartó megfigyelés alatt, a himlőre gyanút keltő megbetegedés nem történt.
+
+(3) A községi zárlatot fel kell oldani, ha a községben egy udvar vagy telep sincs már helyi zárlat alatt.
+
+(4) A betegséget a községi zárlat feloldásával egyidejűleg kell hatóságilag megszűntté nyilvánítani.
+
+(5) Fertőtleníteni kell
+
+a) a helyi zárlat alá vont helyeken az állatok tartására használt helyiségeket (istállót, karámot, hodályt stb.) és a fertőzöttnek tekinthető területrészeket;
+
+b) a lezárt helyeken tárolt bőröket, gyapjút és az állatok gondozására használt eszközöket;
+
+c) azokat a személyeket, akik a zárlat idején az állatokat gondozták, továbbá a beteg és a betegségre gyanús állatok szállításánál, leölésénél, levágásánál, a hullák boncolásánál és ártalmatlanná tételénél közreműködtek.
+
+(6) A fertőtlenítést szigorított módon, a hatósági állatorvos irányításával kell végrehajtani.
+
+###### MADÁRINFLUENZA
+
+###### BAROMFIPESTIS (Newcastle Disease)
+
+###### SZARVASMARHÁK GÜMŐKÓRJA
+
+###### A beteg, betegségre és fertőzöttségre gyanús, valamint a fertőzött és a betegségtől mentes szarvasmarha meghatározása
+
+###### FERTŐZŐ SERTÉSBÉNULÁS
+
+###### A beteg, betegségre és fertőzöttségre gyanús sertés meghatározása
+
+###### 401. §
+
+(1) Fertőző sertésbénulásban beteg az a sertés, amelyen a betegség tünetei kifejezetten mutatkoznak, és elhullása, leölése, illetőleg levágása után kórszövettani és/vagy laboratóriumi vizsgálattal a betegséget megállapítják.
+
+(2) Ha az állományban (a községben) a fertőző sertésbénulást már korábban megállapították, laboratóriumi vizsgálat nélkül is betegnek kell tekinteni a betegség tüneteit kifejezetten mutató sertést.
+
+(3) Fertőző sertésbénulás betegségre gyanús az a sertés, amelyen
+
+a) a betegség tünetei nem kifejezetten mutatkoznak;
+
+b) ha az állományban a betegséget még nem állapították meg, a laboratóriumi vizsgálat eredményéig a betegségre csak gyanúsnak kell tekinteni azt a sertést is, amelyen a betegség tünetei mutatkoznak.
+
+(4) Fertőző sertésbénulás fertőzöttségére gyanús az a sertés, amely fertőző sertésbénulásban beteg, betegségre vagy fertőzöttségre gyanús sertés nyers termékével, illetőleg ilyen állat váladékával, ürülékével szennyezett tárggyal vagy ilyen sertésekkel kapcsolatba került személyekkel érintkezett vagy érintkezhetett negyven napon belül.
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### 402. §
+
+Ha a települési önkormányzat jegyzője a sertésnek fertőző sertésbénulásban történő megbetegedéséről, a betegségre vagy fertőzöttségre gyanús állapotáról, továbbá a betegség vagy annak gyanúja miatt történő levágásáról vagy elhullásáról tudomást szerez, a 106. §-ban előírtakon túl köteles a közös legeltetést azonnal megtiltani, ha a betegséget vagy annak gyanúját közösen legeltetett állaton észlelték.
+
+###### A hatósági állatorvos feladatai
+
+###### 403. §
+
+Ha a hatósági állatorvos a sertésnek fertőző sertésbénulásban történő megbetegedéséről, a betegség gyanújáról, elhullásáról szerez tudomást, köteles a helyszínre kiszállni, és
+
+a) helyi zárlatot elrendelni;
+
+b) kórhatározás céljából vizsgálati anyagot (mindenképpen, élő, klinikai tüneteket mutató sertést is!) küldeni az illetékes állategészségügyi intézetbe;
+
+c) a helyi zárlat ideje alatt hetente legalább két ízben ellenőrző klinikai vizsgálatokat végezni;
+
+d) ha a laboratóriumi vizsgálat eredménye alapján a betegséget sem megállapítani sem kizárni nem lehet, a helyi zárlatot a községben levő fertőzöttségre gyanús állatok tartási helyén legfeljebb negyven napig továbbra is fenn kell tartani, és a hatósági állatorvosnak a község sertésállományát meg kell figyelnie. Ha negyven napi megfigyelési idő alatt a betegségnek újabb gyanúja nem merül fel, vagy újabb megbetegedés kapcsán a fertőző sertésbénulás kizárható, a helyi zárlatot és a megfigyelést meg kell szüntetni.
+
+###### A járási hivatal feladatai[^340]
+
+###### 404. §[^341]
+
+A járási hivatal köteles a 109. §-ban foglalt feladatokon felül
+
+a) a betegség vagy annak gyanúja, és a fertőzöttség gyanúja esetén a helyszínre kiszállni és a tett intézkedéseket felülvizsgálni;
+
+b) községi zárlatot elrendelni;
+
+c) a betegség megállapításának helyén a 409. §-ban leírtak szerint a sertések leölését elrendelni;
+
+d) a betegség eredetére, elhurcolására vonatkozó vizsgálatatot megindítani;
+
+e)[^342] a vármegyei kormányhivatal utasítására kellő számú állatorvost kirendelni.
+
+###### A vármegyei kormányhivatal feladatai[^343]
+
+###### 405. §[^344]
+
+A vármegyei kormányhivatal köteles a 110. §-ban előírtakon felül
+
+a)[^345] a fertőző anyag eredetének és elhurcolásának felderítésére irányuló vizsgálatot kiterjeszteni, és ehhez megfelelő számú állatorvosnak, a járási hivatal útján történő kirendeléséről gondoskodni;
+
+b) a védőkörzetet elrendelni;
+
+c) a fertőzöttségre gyanús állatok levágásának körülményeiről intézkedni.
+
+###### Helyi zárlat
+
+###### 406. §
+
+A helyi zárlat szabályai a 118. §-ban foglaltakon kívül a következők:
+
+a) a zárlat alá helyezett helyen a sertéstrágyát, almot és takarmányhulladékot más állatok trágyájától, alomjától és takarmányhulladékától külön kell összegyűjteni és azt füllesztéssel ártalmatlanná tenni;
+
+b) a betegség megállapítása esetén a zárlat alatt álló helyen a betegség jelentkezését megelőző negyven napon belül levágott sertés feldolgozásából eredő nyers vagy tartósított húst, szalonnát és húskészítményt főzéssel, párolással vagy sütéssel ártalmatlanná kell tenni.
+
+###### Községi zárlat
+
+###### 407. §
+
+(1)[^346] Azt a községet, amelyben a betegséget megállapították, községi zárlat alá kell helyezni. Ha az elvégzett járványügyi vizsgálatok eredménye a teljes községi zárlat fenntartását nem indokolja, a járási hivatal a (2) bekezdésben meghatározott feltételek szerint részleges községi zárlatot is elrendelhet.
+
+(2) A községi zárlatnak a 119. §-ban előírtakat meghaladó szabályai a következők:
+
+a) a községi zárlat alatt álló terület határait a fő közlekedési utak mentén jól látható, tartós, „Fertőző sertésbénulás, községi zárlat” feliratú táblával kell megjelölni;
+
+b) a községi zárlat alá vont terület sertéstartói kötelesek állományuk tartási helyét, a létszám és a hasznosítási irány megjelölésével a hatósági állatorvosnak haladéktalanul bejelenteni;
+
+c) sertéstartó udvarból sertést kihajtani és sertéseket közösen legeltetni nem szabad;
+
+d) sertés magánfogyasztásra történő levágását előzetesen végzett állatorvosi helyszíni vizsgálat eredményétől kell függővé tenni;
+
+e) a községben sertésvásárt, sertéspiacot, sertéskiállítást stb. még részleges községi zárlat esetén sem szabad tartani.
+
+###### Védőkörzet
+
+###### 408. §
+
+(1)[^347] Ha a járványhelyzet indokolttá teszi, a járási hivatal védőkörzetet rendel el.
+
+(2) A védőkörzetbe vont
+
+a) községből sertést kivinni,
+
+b) községen keresztül sertést lábon hajtani,
+
+c) községben sertésvásárt, sertéspiacot és sertéskiállítást tartani tilos.
+
+###### A beteg, a betegségre gyanús és a fertőzöttségre gyanús állatokkal való eljárás
+
+###### 409. §
+
+(1) Abban a kislétszámú állományban, ahol a betegséget megállapították – függetlenül attól, hogy egy vagy több állattartó tulajdonában vannak –,
+
+a)[^348] az összes beteg és betegségre gyanús sertést vértelen úton le kell ölni; a fertőzöttségre gyanús állatok leölésénél és levágásánál a járási hivatal utasítása szerint kell eljárni;
+
+b)[^349] a fertőzöttségre gyanús állatokat járási hivatali engedéllyel zárt vágásra kell szállítani. Húsukat a 413. § (2) bekezdésében előírt hőkezelés után a járási hivatal által szabályozott körülmények között forgalomba szabad hozni.
+
+(2) Ha a betegséget nagylétszámú állományban állapították meg,
+
+a) a klinikai tüneteket mutató sertéseket le kell ölni és a hulladékokkal együtt a 414. § szerint ártalmatlanná tenni;
+
+b) az állomány valamennyi fertőzöttségre gyanús, tünetmentes sertését az utolsó leölést követő negyven napon belül zárlat alatt kell tartani; a zárlat ideje alatt a sertések zárt vágóhídon, folyamatos, elkülönített vágással levághatók; az ilyen állatok húsát az előírás szerint elvégzett hőkezelés után szabad forgalomba hozni; a vágóhíd ez idő alatt máshonnan származó állatokat nem fogadhat és exportra nem dolgozhat fel; a korábban rendes vágással levágott sertések belének feldolgozását a zárt vágás idején csak akkor szabad folytatni, ha az térben úgy elkülöníthető, hogy a fertőző anyag elhurcolását biztosan meg lehet akadályozni;
+
+c) amennyiben a fertőzöttségre gyanús állatok negyven napos megfigyelési ideje kedvező eredménnyel zárult, az állatok korlátozás nélkül levághatók.
+
+###### A zárlat enyhítése
+
+###### 410. §
+
+Helyi zárlat alatt álló helyről, főtt vagy kisütött sertéshúst és kiolvasztott zsírt csak a hatósági állatorvos engedélyével szabad kivinni.
+
+###### 411. §
+
+(1)[^350] A részleges községi zárlat alatt álló terület nem fertőzött helyéről sertést azonnali levágás céljából, a községi zárlat alatt álló vagy a zárlat alatt nem álló községrészben levő vágóhídra, a hatósági állatorvos engedélyével és a járási hivatal jóváhagyásával szabad kivinni. Teljes vagy részleges községi zárlat alatt álló területről, a vármegyén belül más község vágóhídjára történő sertéskivitelhez a járási hivatal engedélye szükséges. A vármegyén kívüli vágóhídra történő sertéskivitelt a minisztérium hozzájárulásával engedélyezheti a vármegyei kormányhivatal. Ebben az esetben a két vármegyei kormányhivatalnak összehangoltan és ellenjegyzéssel kell meghozni a szállításra és a vágásra vonatkozó intézkedéseket.
+
+(2) A sertések kirakása a rendeltetési helyen csak állatorvosi vizsgálat mellett történhet.
+
+###### 412. §[^351]
+
+Védőkörzetbe tartozó, nem fertőzött községből sertést levágásra vagy egyéb célból, a védőkörzetbe tartozó más községbe a járási hivatal engedélyével szabad kivinni. Engedély akkor adható, ha a hatósági állatorvos helyszíni vizsgálata negatív eredménnyel járt, és az állatok hatósági ellenőrzésének feltételei továbbra is biztosítottak.
+
+###### A beteg, betegségre és fertőzöttségre gyanús sertés levágása, a levágott sertés húsának, zsírjának fogyasztására, nyers termékeinek felhasználására és a betegségben elhullott sertés hullájával való elbánásra vonatkozó szabályok
+
+###### 413. §
+
+(1) A beteg vagy betegségre gyanús sertést nem szabad levágni.
+
+(2) A fertőzöttségre gyanús, klinikailag tünetmentes sertés hatósági rendelkezésre történő levágásakor az állat felbontása alkalmával, a nyelőcsőnek és a végbélnek előzetes átkötése után az egész emésztőcsatornát sértetlen összefüggésben kell kivenni a hasüregből. A levágott sertést nem szabad a fej és gerinccsatorna hosszanti kettéhasításával felnyitni, hanem a törzset a gerincoszlop két oldalán, a gerincoszloppal párhuzamos hosszanti vágással kell két részre osztani (orjára vágni). Az egyben maradt gerincoszlopot és a fejet a lágy részek eltávolítása után, továbbá az egészében kivett emésztőcsatornát, a közfogyasztásra alkalmatlan egyéb testrészeket és a szőrt, a hullával azonos módon ártalmatlanná kell tenni. A levágott sertés bőrét lefejteni vagy lenyúzni nem szabad. A húst, zsírt és szalonnát a levágás után haladéktalanul, állatorvosi ellenőrzés mellett, legalább 70 °C maghőmérsékleten, húsz percig tartó hőkezelésnek kell alávetni. Ha vágás közben az emésztőcsatorna vagy a gerincoszlop sérül, az egész sertést a hullával azonos módon kell ártalmatlanná tenni és a vágást csak az eszközök és a helyiség fertőtlenítése után szabad folytatni.
+
+(3)[^352] A sertést azonnali levágás céljából a járási hivatal engedélyével, megbízható kísérettel és csak állatszállításra alkalmas járművön szabad elszállítani.
+
+(4)[^353] A fertőzöttségre gyanús sertés húsát nyersen szállítani nem szabad. Ha azonban a levágás helyén nincs kellő berendezés arra, hogy a nagyobb számban levágott sertések húsát megfelelően hőkezeljék, a járási hivatal engedélyt adhat, hogy a nyers húst hőkezelés céljából, megbízható kísérettel, megfelelő járművön, a védőkörzeten belüli, engedélyben megjelölt helyre az előírt módon elszállíthassák.
+
+###### 414. §
+
+A beteg, betegségre és fertőzöttségre gyanús sertés hulláját, a levágott sertésnek fogyasztásra alkalmatlan részeit, valamint a szőrt, a sörtét, a körmöt és a csontokat állati hulladékfeldolgozó üzem útján, illetve megfelelő fertőtlenítés után, elásással vagy hullaemésztő verembe helyezéssel kell ártalmatlanná tenni. Ez utóbbi esetekben különös figyelemmel kell gondoskodni arról, hogy a teljes önemésztettségig a hullarészekhez állat vagy illetéktelen személy ne férjen hozzá.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 415. §
+
+(1) A helyi zárlatot fel kell oldani, ha a beteg, betegségre vagy fertőzöttségre gyanús állatok elhullása, leölése vagy vágása után, a lezárt helyen sertés már nem maradt, a húst és a szalonnát megfőzték, megpárolták, illetőleg kisütötték és a fertőtlenítést szigorított módon, két alkalommal, tizennégy napos időközzel végrehajtották a fertőtlenítési útmutatókban leírtak szerint.
+
+(2) Ha a beteg, betegségre vagy fertőzöttségre gyanús állat elhullása, leölése vagy levágása után a lezárt helyen sertés még marad, a betegség miatt elrendelt zárlat feloldása szempontjából a megfigyelési idő negyven nap.
+
+(3) A helyi zárlatot fertőtlenítés nélkül fel kell oldani, ha a zárlat alá helyezett helyen csak fertőzöttségre gyanús sertést tartottak, és negyven nap eltelte alatt fertőző sertésbénulásos megbetegedés nem történt.
+
+(4) A községi zárlatot fel kell oldani és a betegséget megszűntté kell nyilvánítani, ha a községben már egy hely sem áll helyi zárlat alatt, és az utolsó beteg, betegségre vagy fertőzöttségre gyanús sertés elhullása, leölése, levágása vagy elszállítása óta negyven nap eltelt.
+
+(5) A védőkörzetet meg kell szüntetni, ha a védőkörzetben már egy község sem áll községi zárlat alatt.
+
+###### 416. §
+
+(1) Fertőtleníteni kell:
+
+a) a fertőzött udvarban a beteg, a betegségre és a fertőzöttségre gyanús sertés leölése vagy elszállítása után azonnal a sertések tartási helyét, az udvart, ahol a sertések jártak, a sertésetető és -itató edényeket, a takarítóeszközöket, az udvarban összegyűjtött sertéstrágyát, almot, takarmányhulladékot;
+
+b) azt a járművet, amelyen a fertőzött helyről származó takarmányt, továbbá beteg vagy betegségre, illetőleg fertőzöttségre gyanús sertést vagy ilyen állat hulláját szállították;
+
+c) azt a helyet, ahol a beteg, betegségre vagy fertőzöttségre gyanús sertést leölték, levágták vagy felboncolták és mindazokat az eszközöket, amelyeket a sertések levágásánál, leölésénél vagy boncolásánál használtak;
+
+d) azokat a személyeket, akik a beteg, betegségre vagy fertőzöttségre gyanús sertés levágását, leölését boncolását és a fertőtlenítést végezték.
+
+(2) A fertőtlenítést hatósági állatorvosi ellenőrzés mellett, szigorított módon kell végezni.
+
+###### Korlátozások a betegség megszűntté nyilvánítása után
+
+###### 417. §
+
+A betegség miatt zárlat alá vett helyekre, az összes sertés eltávolítását és a végfertőtlenítést követő negyven napig nem vihető be sertés. A betelepítés előtt állatorvosi ellenőrzés mellett, szigorított módon ismét fertőtleníteni kell a sertéstartó telepet vagy udvart.
+
+###### VESZETTSÉG
+
+###### A beteg, betegségre és fertőzöttségre gyanús, valamint a betegség szempontjából aggályos állat meghatározása
+
+###### Az állat tulajdonosának vagy a beteg vadon élő állat észlelőjének feladata
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### A beteg, betegségre és fertőzöttségre gyanús, továbbá a veszettség szempontjából aggályos állattal való eljárás
+
+###### A hatósági megfigyelés szabályai
+
+###### Az ebzárlat szabályai
+
+###### A vadon élő állatokkal kapcsolatos szabályok
+
+###### Nyers termékek felhasználásának tilalma
+
+###### A hullák felhasználásának és boncolásának tilalma
+
+###### Közegészségügyi rendszabályok
+
+###### A betegség megszűntté nyilvánítása
+
+###### TAKONYKÓR
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 431. §
+
+(1) Takonykórban beteg az az egypatás állat, amely
+
+a) az immundiagnosztikai próbák eredményétől függetlenül a betegség tüneteit kifejezetten mutatja;
+
+b) a tüneteket nem kifejezetten mutatja, de az immundiagnosztikai próbák valamelyike pozitív eredményre vezetett;
+
+c) takonykórra gyanút keltő kóros tüneteket nem mutat ugyan, de a 40. számú függelék szerint végzett és minősített immundiagnosztikai próbák együttes eredménye pozitív.
+
+(2) Takonykórra gyanús az az egypatás állat, amelyen a tünetek nem kifejezetten mutatkoznak és az immundiagnosztikai vizsgálatok kétes eredményre vezettek.
+
+(3) Takonykór fertőzöttségére gyanús az az egypatás állat,
+
+a) amelyet takonykórban beteg vagy e betegségre gyanús állattal közös istállóban vagy udvarban tartottak, vagy amely ilyen állattal legelés, szállítás, hajtás stb. közben közvetlenül érintkezett, közös vályúból ivott vagy evett, ilyen állat kóros váladékával szennyezett tárggyal (szerszámmal, etetőzsákkal stb.) érintkezett vagy érintkezhetett száznyolcvan napon belül;
+
+b) amelyen az immundiagnosztikai eljárások alapján további vizsgálatokat kell végezni.
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### 432. §
+
+(1) El kell látni a 107–110. §-okban előírtakat.
+
+(2)[^367] A betegség hatóságilag csak a vármegyei kormányhivatal felülvizsgálata után állapítható meg.
+
+(3)[^368] Ha a vizsgálat adatai szerint a beteg állat közös legelőre járt, vagy ha egyébként is alapos a gyanú, hogy a betegség a községben (nagy létszámú állományban, ménesben) elterjedt, a járási hivatal javaslatára a vármegyei kormányhivatal elrendelheti a község (nagyüzem, ménes) valamennyi egypatás állatának a 40. számú függelék szerinti ellenőrző immundiagnosztikai vizsgálatát. A vizsgálat megkezdése előtt a minisztériumot tájékoztatni kell, és a továbbiakban annak utasítása szerint kell eljárni.
+
+###### Helyi zárlat
+
+###### 433. §
+
+A 118. §-ban foglaltakon felül a helyi zárlat alá helyezett helyen a beteg, betegségre vagy fertőzöttségre gyanús állatok istállóeszközeit, takaróit, szerszámait, itató- és etetőedényeit más egypatás állatnál használni csak fertőtlenítés után szabad.
+
+###### Az immundiagnosztikai eljárás alkalmazásának szabályai
+
+###### 434. §
+
+(1) A betegség megállapítása, illetőleg annak kizárása céljából malleines próbát és vérvizsgálatot kell végeztetni. A vizsgálatok szabályait a 41–43. számú függelékek tartalmazzák.
+
+(2)[^369] A különleges diagnosztikai eljárás alá kerülő, betegségre és fertőzöttségre gyanús állatokról két példányban kimutatást kell készíteni. A kimutatás egyik példányát a vizsgálatok alapján tett intézkedésekről szóló jelentéssel a járási hivatalnak meg kell küldeni, és a továbbiakban esetleges rendelkezései szerint kell eljárni.
+
+(3) A diagnosztikai eljárás során fel kell hívni a tulajdonos figyelmét arra, hogy az állaton időközben mutatkozó, a betegségre gyanút keltő tünetekről a hatósági állatorvost azonnal értesítse.
+
+###### A beteg állattal való eljárás
+
+###### 435. §[^370]
+
+A beteg állatot vértelen úton, haladéktalanul le kell ölni, és a hullát a járási hivatal rendelkezése alapján ártalmatlanná kell tenni.
+
+###### A betegségre és fertőzöttségre gyanús állattal való eljárás
+
+###### 436. §
+
+A betegségre és fertőzöttségre gyanús állatot a 41–43. számú függelékekben meghatározottak szerint haladéktalanul immundiagnosztikai eljárás alá kell vonni, és a továbbiakban a megállapítás eredményétől függően kell eljárni.
+
+###### A trágya, az alom és a takarmányhulladék kezelése
+
+###### 437. §
+
+A helyi zárlat alatti helyen a fertőzött istállóban és a kifutóban összegyűlt trágyát, almot és takarmányhulladékot füllesztéssel ártalmatlanná kell tenni.
+
+###### A nyers termék felhasználásának tilalma
+
+###### 438. §
+
+A beteg vagy betegségre gyanús állat szőrét felhasználni vagy forgalomba hozni nem szabad, hanem azt elégetéssel ártalmatlanná kell tenni.
+
+###### A beteg és a betegségre gyanús állatok levágásának tilalma
+
+###### 439. §
+
+(1) A beteg vagy betegségre gyanús állatot levágni vagy elvéreztetés útján leölni nem szabad.
+
+(2) A fertőzöttségre gyanús állatot csak vágóhídon, a hatósági állatorvos jelenlétében és a levágás előtt tizennégy napon belül végrehajtott, negatív eredményű malleines szempróba után szabad levágni.
+
+###### A hullák felbontásának és felhasználásának korlátozása, a hullák ártalmatlanná tétele
+
+###### 440. §
+
+(1) A beteg vagy a betegségre gyanús állat hulláját felhasználni vagy forgalomba hozni nem szabad.
+
+(2) A beteg vagy a betegségre gyanús állat hulláját és hullarészeit ártalmatlanná kell tenni. Ennek, valamint az ilyen hulla szállításának szabályai a következők:
+
+a) a hullát csak hatósági állatorvosnak, más személynek pedig csak hatósági állatorvos felügyelete mellett szabad felboncolni;
+
+b) a hullát lebőrözni nem szabad, és ha az ártalmatlanná tétel elásás útján történik, a bőrt a hullának a hullagödörbe való helyezése előtt, többszörös keresztülmetszéssel használhatatlanná kell tenni;
+
+c) a boncolás során vérrel vagy egyéb testnedvekkel beszennyezett földet lapáttal fel kell szedni és a hullagödörbe dobni, majd a boncolás helyét fertőtlenítőoldattal át kell itatni;
+
+d) a hulla szállítására használt járművet a hulla lerakása után a helyszínen kell fertőtleníteni, a felhasznált almot pedig el kell égetni;
+
+e) a hulla és a hullarészek ártalmatlanná tételét a hatósági állatorvos jelenlétében és utasítása szerint kell végezni.
+
+(3) A szállításra használt járművet egypatás állatokkal nem szabad vontatni.
+
+###### A helyi zárlat enyhítése
+
+###### 441. §
+
+(1) A helyi zárlat enyhítése céljából a nem fogékony állatokra a zárlat alól felmentést lehet adni.
+
+(2)[^371] A helyi zárlat alatti helyről fertőzöttségre gyanús állatot indokolt esetben (elköltözés, megszokott tartási helyére való szállítás) – a járási hivatal engedélyével – a község más helyére vagy más község területére ki lehet vinni. Az ilyen állatok kivitelére vonatkozólag a 123. §-ban foglaltakon felül, a következő szabályokat kell megtartani:
+
+a) az állatot csak abban az esetben szabad kivinni, ha a közvetlenül az elszállítás előtt végzett immundiagnosztikai vizsgálat kedvező eredményű, és az állatot helyszíni vizsgálat során a hatósági állatorvos a betegségre utaló tünetektől mentesnek találta;
+
+b) az állatot a rendeltetési helyen azonnal el kell különíteni, helyi zárlat alá kell helyezni, és az előző tartási helyen meghatározott immundiagnosztikai eljárást folytatni kell;
+
+c) ha a kivitel más község (város) területére történik, az eddigi eljárások adatait tartalmazó kimutatás egyik példányát vagy kivonatát a rendeltetési hely szerint illetékes hatósági állatorvos részére, a szállítási engedély kiadásáról szóló értesítéssel együtt, meg kell küldeni.
+
+(3)[^372] A helyi zárlat alá helyezett helyről olyan, fertőzöttségre gyanús állatot, amelynél az első immundiagnosztikai eljárás eredménye negatív vagy kétes, a járási hivatal engedélyével, a község határának meghatározott részébe, munkavégzés céljából ki szabad vinni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 442. §
+
+(1) A helyi zárlatot fel kell oldani, ha
+
+a) a zárlat alatti helyen fogékony állat nincs, és a fertőtlenítést végrehajtották;
+
+b) a zárlat alá helyezett helyen maradt állatokon a 40. számú függelék szerint előírt vizsgálatokat kedvező eredménnyel végezték el.
+
+(2) A betegséget hatóságilag megszűntté kell nyilvánítani, ha a községben a betegség miatt helyi zárlat alá helyezett hely már nincs.
+
+###### Fertőtlenítés
+
+###### 443. §
+
+(1) A fertőtlenítést szigorított módon kell végezni, a fertőtlenítési útmutatóban előírtak szerint.
+
+(2) Fertőtleníteni kell
+
+a) azt a helyiséget, amelyben a beteg, a betegségre és fertőzöttségre gyanús állatot tartották, és amelyben ilyen állat megfordult, továbbá az istállóberendezéseket, az etető- és itatóedényeket, takarítóeszközöket, az összegyűjtött trágyát, almot és takarmányhulladékot, valamint mindazokat a tárgyakat (takarót stb.) amelyek a hatósági állatorvos szerint fertőzöttek lehetnek;
+
+b) azt a járművet, amelyen a beteg, betegségre vagy fertőzöttségre gyanús állatot vagy ilyen állat hulláját szállították;
+
+c) azt a helyet, amelyen a beteg, betegségre vagy fertőzöttségre gyanús állatot leölték, kényszervágták vagy boncolták és az ahhoz használt eszközöket;
+
+d) azokat a személyeket, akik a beteg, betegségre vagy fertőzöttségre gyanús állat leölését, kényszervágását, boncolását és fertőtlenítését végezték.
+
+(3) A zárlat további fenntartása esetében is haladéktalanul fertőtlenítést kell végezni a (2) bekezdés szerint, ha a beteg vagy a betegségre gyanús állat eltávolítása vagy elhullása után a helyiségben fogékony állat maradt.
+
+###### Közegészségügyi szabályok
+
+###### 444. §
+
+(1) A takonykórt és annak gyanúját a háziorvosnak haladéktalanul be kell jelenteni.
+
+(2) A hatósági állatorvos köteles kioktatni a beteg, a betegségre vagy fertőzöttségre gyanús állatok gondozóját és tulajdonosát, valamint a fertőtlenítésnél segédkező személyeket, hogy a takonykór iránt az ember is fogékony, és az ilyen állatokkal, azok hulláival, valamint a fertőzött tárgyakkal való érintkezés veszélyes.
+
+(3) A betegségre vagy fertőzöttségre gyanús állatok elkülönítési helyére csak az állat gondozója, orvos, állatorvos vagy állategészségügyi technikus léphet be.
+
+(4) A beteg, a betegségre vagy a fertőzöttségre gyanús állat ápolásával, hullájának szállításával, boncolásával, valamint a fertőtlenítéssel nem szabad megbízni olyan személyt, akinek keze vagy más fedetlen testrésze sérült.
+
+(5) A beteg vagy betegségre gyanús állat gondozását vagy kezelését végző személy köteles magát az állattal való minden foglalkozás után fertőtleníteni.
+
+(6) Azok a személyek, akik beteg vagy betegségre gyanús állat hullájával vagy hullarészeivel érintkeztek, a boncolásnál vagy szállításnál segédkeztek, ugyancsak kötelesek magukat fertőtleníteni. E személyek fertőtlenítését a hatósági állatorvos köteles ellenőrizni.
+
+(7) Beteg állatot gyógykezelni vagy azon műtétet végrehajtani nem szabad. Betegségre gyanús állaton kezelést vagy műtétet csak állatorvos végezhet.
+
+###### TENYÉSZBÉNASÁG
+
+###### A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat meghatározása
+
+###### 445. §
+
+(1) Tenyészbénaságban beteg az a mén vagy kanca, amely (amelyben)
+
+a) a betegség tünetei kifejezetten felismerhetők, vagy
+
+b) az ivarszerv nyálkahártyájáról vett kaparékban a kórokozó kimutatható, vagy
+
+c) betegségre gyanús és a tenyészbénaságra irányuló vérvizsgálata pozitív eredményre vezetett.
+
+(2) Tenyészbénaságra gyanús az a mén és kanca, amelyen a külső nemiszervek nem fájdalmas duzzanata – különösen néhány nappal a pároztatás után – észlelhető.
+
+(3) Tenyészbénasággal fertőzött az a tünetmentes mén és kanca, amelyben a tenyészbénaságra irányuló vérvizsgálat pozitív eredményre vezetett.
+
+(4) Tenyészbénaság fertőzöttségére gyanús az a mén és kanca, amely
+
+a) e betegségre gyanús vagy e betegséggel fertőzött állattal a fedeztetés során érintkezett;
+
+b) bár tünetmentes, de a vérvizsgálata kétes eredményt adott.
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### 446. §
+
+(1) El kell látni a 107–110. §-okban előírtakat.
+
+(2)[^373] A betegség hatóságilag csak a vármegyei kormányhivatal felülvizsgálata után állapítható meg.
+
+(3)[^374] Tenyészmén megbetegedése, a betegség gyanúja, fertőzöttsége vagy a fertőzöttség gyanúja esetén a járási hivatal a területileg illetékes lótenyésztési felügyelőt is soron kívül köteles értesíteni.
+
+(4)[^375] A tenyészbénaság nagymérvű elterjedtsége esetén a vármegyei kormányhivatal a 454. §-ban foglaltakat is köteles elrendelni.
+
+###### A fedeztetés tilalma
+
+###### 447. §
+
+A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús mént fedeztetésre, továbbá mesterséges termékenyítésre használni; a beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús kancát fedeztetni, illetőleg mesterségesen termékenyíteni tilos.
+
+###### A beteg állattal való eljárás
+
+###### 448. §
+
+(1) A beteg mént és kancát haladéktalanul, levágás útján le kell ölni. A beteg állatot levágás céljából való elszállításáig, az elkülönítés helyéről kivinni nem szabad.
+
+(2) A levágást vágóhídon kell végrehajtani.
+
+###### A betegségre gyanús állattal való eljárás
+
+###### 449. §
+
+A betegségre gyanús állatot a 117. §-ban előírtak szerint forgalmi korlátozás alá kell helyezni, a 44. számú függelék szerint tovább kell vizsgálni, s ennek eredményeképpen a függelékben meghatározott intézkedést kell végrehajtani.
+
+###### A fertőzött állattal való eljárás
+
+###### 450. §
+
+A fertőzött állatot a 117. § előírásai szerint forgalmi korlátozás alá kell helyezni, a 45. számú függelék szerint tovább kell vizsgálni, s ennek eredményeképpen a függelékben meghatározott intézkedést kell végrehajtani.
+
+###### A fertőzöttségre gyanús állattal való eljárás
+
+###### 451. §
+
+A fertőzöttségre gyanús állatot a 117. § előírásai szerint forgalmi korlátozás alá kell helyezni, s azt az állatot, amely
+
+a) kétes vérvizsgálati eredmény mellett beteg, betegségre vagy fertőzöttségre gyanús állattal nem érintkezett, a 46. számú függelékben*;*
+
+b) a beteg, a betegségre vagy fertőzöttségre gyanús állattal érintkezhetett, a feltételezett fertőződés időpontjától számított huszonegyedik naptól a 47. számú függelékben meghatározott módon tovább kell vizsgálni, és ennek eredményeképpen az abban meghatározott intézkedést kell végrehajtani.
+
+###### A forgalmi korlátozás szabályai
+
+###### 452. §
+
+(1) A forgalmi korlátozás kilencven napig, vagy amennyiben az előírt diagnosztikai vizsgálat ezen idő alatt nem fejeződött be, a diagnosztikai vizsgálat befejezéséig tart.
+
+(2) A betegségre gyanús, fertőzött vagy fertőzöttségre gyanús mént és kancát ugyanabban a helyiségben (istállóban, fészerben, kifutóban stb.) együtt tartani, ugyanazon a legelőn együtt legeltetni vagy együtt jármű elé fogni nem szabad.
+
+(3)[^376] A betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot a járási hivatal engedélye nélkül más községbe kivinni nem szabad. Az állatnak az állandó tartási helyét a község területén belül is csak a járási hivatal engedélyével szabad megváltoztatni.
+
+(4)[^377] A járási hivatal a kivitelt csak levágás céljából vagy az állattartó lakóhelyének megváltoztatása miatt engedélyezheti. Az engedély kiadásáról a rendeltetési hely szerint illetékes vármegyei kormányhivatalt értesíteni kell.
+
+(5) A levágás céljából kivitt állatokat öt napon belül le kell vágni, a továbbtartás céljából elszállított állatokat pedig újabb tartási helyükön ugyanolyan forgalmi korlátozás alatt kell tartani, mint amilyen korlátozás alatt előbbi helyükön álltak.
+
+(6) A forgalmi korlátozás alá helyezett állatok fedezési és fedeztetési tilalom alatt állnak.
+
+(7) A vizsgálat alatt álló kancákat a forgalmi korlátozás feloldásától számított egy éven belül természetes módon fedeztetni nem szabad.
+
+###### A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat szállításának szabályai
+
+###### 453. §
+
+(1) A beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot vasúton vagy tehergépkocsin kell szállítani. Útközben a szállítmányból állatot kirakni vagy a szállítmányhoz állatot hozzárakni nem szabad.
+
+(2) A szállításnál eljáró hatósági állatorvos köteles:
+
+a) a fuvarlevélen piros tintával vagy irónnal feltüntetni, hogy a szállítmányt csak hatósági állatorvosi vizsgálat után szabad kirakni;
+
+b)[^378] a kísérő okmányt az alábbi záradékkal ellátni:
+
+„A ...... db tenyészbénaságban beteg, betegségre gyanús, fertőzött, illetőleg fertőzöttségre gyanús állat elszállítása a ................-i vágóhídra, a ........................ járási hivatal ........ számú engedélye alapján, továbbtartásra (a nem kívánt szöveg törlendő) történik. A rendeltetési állomáson a vasúti kocsi kirakása csak hatósági állatorvos jelenlétében történhet meg. A szállítmány rendeltetési helye: ................”
+
+(3) A rendeltetési helyen a kirakás alkalmával a hatósági állatorvos köteles az állatok azonosságát ellenőrizni és a szállításra használt járművet fertőtleníttetni.
+
+###### A járási hivatal feladatai a tenyészbénaság nagymérvű elterjedtsége esetén[^379]
+
+###### 454. §[^380]
+
+Ha a betegség a községben vagy a nagylétszámú állattartó telepen több helyen jelentkezett, vagy ha a betegség eredete kétséget kizáróan nem volt megállapítható, a vármegyei kormányhivatal rendelkezése alapján a község vagy a nagylétszámú állattartó telep területén egy év tartamára a következő szabályokat is alkalmazni kell:
+
+a) a hatósági állatorvos a ménekről és a kancákról, azok pontos leírását is tartalmazó nyilvántartást köteles vezetni, és ezt követően minősíteni;
+
+b) a hatósági állatorvos köteles a fedeztetésre alkalmas kancákat huszonegy napi időközzel, két ízben vérvizsgálatnak alávetni;
+
+c) továbbtartás céljából az egyéves kort meghaladott állatot csak a hatósági állatorvosnak, a huszonegy napos időközzel két ízben végrehajtott vérvizsgálat negatív eredményét feltüntető igazolása mellett szabad más helyre kivinni;
+
+d) a kancákat csak mesterségesen szabad termékenyíteni;
+
+e) a termékenyítésre vagy továbbtartásra nem engedélyezett, egy évnél idősebb méneket ivartalanítani kell;
+
+f) a hatósági állatorvos köteles a lóállományt negyedévenként tenyészbénaságra irányuló klinikai vizsgálatnak alávetni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 455. §
+
+(1) A betegséget megszűntté kell nyilvánítani, ha a községben beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állat már nincs, és/vagy a beteg méneket és kancákat leölték.
+
+(2) A betegség megszűntté nyilvánítása előtt nem kell fertőtleníteni.
+
+###### A LOVAK FERTŐZŐ KEVÉSVÉRŰSÉGE
+
+###### A beteg, betegségre gyanús, fertőzött és a fertőzöttségre gyanús állat meghatározása
+
+###### 456. §
+
+(1) Fertőző kevésvérűségben beteg az az egypatás állat, amelyen
+
+a) a betegség klinikai tünetei jellemzően mutatkoznak, vagy
+
+b) a klinikai tünetek nem kifejezettek ugyan, de amelynek a véréből, szöveteiből a kórokozót laboratóriumi vizsgálatokkal kimutatták, és/vagy amelynek vérsavója a huszonegy napos időközzel, két alkalommal elvégzett szerológiai vizsgálat mindegyikében pozitív eredményt adott.
+
+(2) Fertőző kevésvérűségben beteg volt az az állat is, amelyen a boncolás, valamint a szövettani vizsgálat megállapítja a betegségre utaló elváltozásokat, függetlenül attól, hogy az állaton az elhullás vagy leölés előtt betegségre gyanút keltő tüneteket észleltek-e.
+
+(3) Fertőző kevésvérűségre gyanús az az egypatás állat, amelyen a betegség klinikai tünetei nem jellemzőek ugyan, de a huszonegy napos időközzel, egymás után kétszer végzett szerológiai vizsgálat eredménye fertőző kevésvérűségre utal (mindegyike kétes eredményt adott vagy csak az egyik volt pozitív).
+
+(4) Fertőző kevésvérűséggel fertőzött az az egypatás állat, amely klinikai tüneteket nem mutat, de amelynek véréből, szöveteiből a kórokozót laboratóriumi vizsgálatokkal kimutatták, és/vagy amelynek huszonegy napos időközzel elvégzett, kétszeri szerológiai vizsgálata pozitív eredményt adott.
+
+(5) Fertőzöttségre gyanús az az egypatás állat, amelyet kilencven napon belül fertőző kevésvérűségben beteg vagy betegségre gyanús állattal együtt tartottak, vagy amely tünetmentes, de a vérsavó vizsgálata kétes vagy egy alkalommal pozitív eredményt adott.
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### 457. §
+
+(1) El kell látni a 107–110. §-okban előírtakat.
+
+(2)[^381] A betegség hatóságilag csak a vármegyei kormányhivatal felülvizsgálata után állapítható meg.
+
+(3) A beteg és a fertőzött állat marhalevelére a hatósági állatorvos köteles a „fertőző kevésvérűség vírusával fertőzött” szöveget, valamint a marhalevél-kezelési tilalmat rávezetni.
+
+###### A beteg, a fertőzött és a betegségre gyanús állattal való eljárás
+
+###### 458. §
+
+(1) A beteg, a fertőzött és a betegségre gyanús állatot el kell különíteni, istállóban kell tartani, az istállót a nyári időszakban rendszeresen rovarellenes szerrel kell kezelni.
+
+(2) A beteg és a fertőzött állatot hatósági rendelkezésre vágóhídon le kell ölni. A beteg és a fertőzött állatot az elkülönítés helyéről csak leölés céljából szabad kivinni.
+
+(3) A betegségre gyanús állatot forgalmi korlátozás és hatósági állatorvosi megfigyelés alá kell vonni, és rajta egyúttal klinikai vizsgálatot és/vagy a fertőző kevésvérűség vírusa elleni ellenanyagok kimutatását célzó laboratóriumi diagnosztikai vizsgálatokat kell végezni. A vizsgálatokat három hetenként mindaddig ismételni kell, amíg a klinikai tünetek és a laboratóriumi vizsgálatok együttes eredménye alapján a betegség vagy a fertőzöttség megállapítható vagy kizárható. Ha a diagnosztikai vizsgálatok a betegség és a fertőzöttség gyanúját is kizárják, a forgalmi korlátozást és az állatorvosi megfigyelést a vizsgálatok lezárásakor meg kell szüntetni.
+
+(4) A beteg és a fertőzött állat húsvizsgálatakor jegyzőkönyvet kell felvenni, és diagnosztikai célból vizsgálati anyagot kell küldeni az állategészségügyi intézetbe.
+
+###### A fertőzöttségre gyanús állattal való eljárás
+
+###### 459. §
+
+A fertőzöttségre gyanús állatot kilencven napra, vagy – ha a klinikai és a laboratóriumi vizsgálatok a kilencven napot meghaladják – a diagnosztikai vizsgálatok lezárásáig forgalmi korlátozás és állatorvosi megfigyelés alá kell vonni. A klinikai és a laboratóriumi diagnosztikai vizsgálatokat három hetenként ismételve addig kell folytatni, amíg a betegség vagy a fertőzöttség megállapítható vagy kizárható. Ha a vizsgálatok a fertőzöttség gyanúját is kizárják, a forgalmi korlátozást és az állatorvosi megfigyelést a diagnosztikai vizsgálatok lezárásával egyidejűleg meg kell szüntetni.
+
+###### A hatósági megfigyelés szabályai
+
+###### 460. §
+
+A megfigyelés alá helyezett,
+
+a) betegségre gyanús állatot a tünetek megszűnéséig legalább hetenként,
+
+b) fertőzöttségre gyanús állatot, ha rajta tünetek jelennek meg a tünetek megjelenésekor, és ezek megszűnéséig hetenként klinikai vizsgálatnak kell alávetni.
+
+###### A forgalmi korlátozás szabályai
+
+###### 461. §
+
+A betegségre és a fertőzöttségre gyanús állatot a betegség megállapításáig vagy a betegség, illetve a fertőzöttség kizárásáig forgalmi korlátozás alá kell vonni, eredeti tartózkodási helyén el kell különíteni úgy, hogy más fogékony állattal ne érintkezzen. Az állatot eladni, elajándékozni, más helyre vinni a forgalmi korlátozás feloldásáig nem szabad.
+
+###### A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat szállításának szabályai
+
+###### 462. §
+
+(1)[^382] A beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot csak a járási hivatal engedélyével, levágás céljából vágóhídra és csak beteg állatok szállítására rendszeresített zárt gépkocsin szabad szállítani. Útközben a szállítmányból állatot kirakni vagy a szállítmányhoz állatot hozzárakni nem szabad.
+
+(2) A szállításnál a hatósági állatorvos köteles
+
+a) az állatok azonosságát ellenőrizni és a szállítási okmányon a hibás bejegyzéseket helyesbíteni, vagy a hiányokat pótolni;
+
+b) a szállítási okmányon piros tintával vagy piros irónnal feltüntetni, hogy a szállítmányt csak hatósági állatorvosi vizsgálat után, a hatósági állatorvos felügyelete mellett szabad kirakni.
+
+(3) Az állatok szállítási okmányát a következő záradékkal kell ellátni: „A ................. fertőző kevésvérűségben beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állat elszállítása a ................... vágóhídra történik. A rendeltetési állomáson a szállító jármű kirakása csak hatósági állatorvos jelenlétében történhet meg. A szállítmány rendeltetési helye: ......................................... ”
+
+(4) A rendeltetési helyen a kirakásnál eljáró hatósági állatorvos köteles az állatok azonosságát ellenőrizni, a kirakás megtörténte után pedig gondoskodni arról, hogy a szállításra használt járművet szigorított módon fertőtlenítsék.
+
+###### A trágya, az alom és a takarmányhulladék kezelése
+
+###### 463. §
+
+A beteg vagy betegségre gyanús állat trágyáját, alomját és takarmányhulladékát más állatok trágyájától, alomjától és takarmányhulladékától külön rakva kell összegyűjteni, és füllesztéssel ártalmatlanná tenni.
+
+###### A legeltetés korlátozása
+
+###### 464. §
+
+Azon a legelőn, amelyről a fertőző kevésvérűségben beteg, betegségre gyanús és fertőzött egypatás állatokat eltávolították, fogékony állatok csak hat hónap eltelte után legeltethetők.
+
+###### A betegség megszűntté nyilvánítása, fertőtlenítés
+
+###### 465. §
+
+(1) A betegséget megszűntté kell nyilvánítani, ha a beteg és a fertőzött állatok leölése, a fertőzött – és indokolt esetben a szomszédos – istállók légytelenítése és a fertőtlenítés megtörtént. A betegség megszüntetésének nem akadálya, hogy a községben fertőző kevésvérűség gyanúja miatt állatok állatorvosi megfigyelés és forgalmi korlátozás alatt állnak.
+
+(2) Azt a helyiséget, amelyben a beteg, a betegségre gyanús és a fertőzött állatokat elkülönítették, továbbá, amelyben ilyen állatok megfordultak, szigorított módon fertőtleníteni kell.
+
+(3) Ha a helyiségnek, amelyben a beteg és a fertőzött állatot tartották, a padozata föld, azt egy ásónyomnyi mélységben ki kell ásni, és fertőtlenítő oldattal átitatva ártalmatlanná kell tenni.
+
+(4) A fertőtlenítést szigorított módon a hatósági állatorvos irányítása mellett kell végrehajtani.
+
+###### A NYULAK VÉRZÉSES BETEGSÉGE
+
+###### A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat, valamint a veszélyeztetett állományok fogalmának meghatározása
+
+###### 466. §
+
+(1) Beteg az a házinyúl vagy -állomány, amelyben a betegség jellemző klinikai és kórbonctani elváltozásai mutatkoznak, és a kórhatározást laboratóriumi vizsgálat is megerősítette. Betegnek kell minősíteni azt az állományt is, amelyben ugyan a klinikai és kórbonctani tünetek nem jellemzőek, de egyéb vizsgálattal a betegség fennállását egyértelműen megállapították. A betegséget a hatósági állatorvos állapítja meg.
+
+(2) Betegségre gyanús az az állat vagy -állomány, amelynél a klinikai és kórbonctani elváltozások nem jellemzőek, és a betegséget laboratóriumi vizsgálattal nem állapították meg, vagy nem zárták ki egyértelműen.
+
+(3) Fertőzött az az állomány, amelyben beteg állat nincs, de vágóhídi vagy egyéb visszajelzés szerint az állományból származó állaton vagy hullán a betegséget megállapították. Fertőzött az az állomány is, amelybe hatvan napon belül beteg állományból nyulakat vagy ragályfogó tárgyakat szállítottak.
+
+(4) Fertőzöttségre gyanús az az állomány, amely hatvan napon belül fertőzött állománnyal érintkezett, vagy érintkezhetett.
+
+(5)[^383] Veszélyeztetett állomány(ok) az (1)–(4) bekezdésekben nem említett, járványtani indokok alapján a járási hivatal által meghatározott szomszéd település(ek) állománya(i).
+
+###### A beteg, betegségre gyanús, fertőzött, fertőzöttségre gyanús és veszélyeztetett állományokkal követendő eljárás
+
+###### 467. §
+
+(1) A beteg állományt forgalmi korlátozás alá kell helyezni, létszámát pontosan meg kell állapítani, majd az állományt haladéktalanul, vértelen úton le kell ölni. A hullákat ártalmatlanná kell tenni.
+
+(2)[^384] Kivételes értékű és nagyságú állományokban vagy egyéb esetben a minisztérium hozzájárulásával, a járási hivatal az (1) bekezdésben előírttól eltérő leküzdési módot is alkalmazhat (forgalmi korlátozás, a beteg nyulak leöletése után a klinikailag egészségesnek látszó állatok haladéktalan védőoltása, elölt kórokozót tartalmazó vakcinával).
+
+(3) A betegségre gyanús állományt mindaddig forgalmi korlátozás alatt kell tartani, amíg a betegséget meg nem állapították, vagy azt egyértelműen nem zárták ki.
+
+(4) A fertőzött és fertőzöttségre gyanús állományokat forgalmi korlátozás alá kell helyezni, és haladéktalanul védőoltásban kell részesíteni. A védőoltást elölt kórokozót tartalmazó vakcinával kell végezni, az oltott állományokat tizenöt napig forgalmi korlátozás alatt kell tartani.
+
+(5) A veszélyeztetett állományokat – a (4) bekezdésben leírtak szerint – védőoltásban kell részesíteni.
+
+(6) A védőoltás költségei az állattartót terhelik.
+
+###### A hatósági állatorvos feladatai
+
+###### 468. §
+
+A hatósági állatorvos a 107. §-ban meghatározott feladatokon felül köteles:
+
+a)[^385] a betegségre gyanús és fertőzött állományokból – a járási hivatal egyidejű tájékoztatása mellett – vizsgálati anyagot küldeni az illetékes állategészségügyi intézetbe;
+
+b) a betegség és/vagy gyanújának megállapítása esetén – a helyi önkormányzat jegyzőjének egyidejű tájékoztatása mellett – helyi zárlatot elrendelni.
+
+###### A járási hivatal feladatai[^386]
+
+###### 469. §[^387]
+
+A járási hivatal a 109. §-ban meghatározott feladatokon felül köteles:
+
+a) a hatósági állatorvos intézkedéseit felülvizsgálni;
+
+b)[^388] a beteg, betegségre gyanús és fertőzött állományokról a vármegyei kormányhivatalnak haladéktalanul jelentést tenni;
+
+c) részleges vagy teljes községi zárlatot elrendelni;
+
+d) a betegség megállapítása esetén az állomány leölése iránt intézkedni;
+
+e) a betegség eredetére, illetve behurcolásának lehetőségeire irányuló vizsgálatot végezni;
+
+f)[^389] intézkedéseiről a vármegyei kormányhivatalt folyamatosan tájékoztatni.
+
+###### A vármegyei kormányhivatal feladatai[^390]
+
+###### 470. §[^391]
+
+A vármegyei kormányhivatal feladata, a 110. §-ban meghatározottakon felül – indokolt esetben –
+
+a) a veszélyeztetett állományok körét meghatározni;
+
+b) védőkörzetet elrendelni;
+
+c) a veszélyeztetett és védőkörzetben tartott állományokból a kiszállítás lehetőségét elbírálni, továbbá
+
+d) a terület nyulainak oltásához vagy állategészségügyi vizsgálatához állatorvosokat kirendelni.
+
+###### A helyi zárlat szabályai
+
+###### 471. §
+
+(1) A helyi zárlat alá helyezett helyről házinyulat, annak húsát, bőrét, szőrét vagy egyéb ragályfogó tárgyat kivinni, vagy oda bevinni tilos.
+
+(2) A helyi zárlat tartama:
+
+a) beteg állomány esetén
+
+– az állomány leöletésének befejezéséig és a fertőtlenítés megtörténtéig,
+
+– a 467. § (2) bekezdésének alkalmazása esetén az oltást követően az utolsó beteg állat elhullásától számított tizenöt napig;
+
+b) a betegség gyanúja esetén
+
+– ha a betegséget később megállapították, az *a)* pontban meghatározott ideig,
+
+– a betegség egyértelmű kizárásáig;
+
+c) a fertőzött vagy fertőzöttségre gyanús állományban az állomány oltásának befejezésétől számított tizenöt napig.
+
+(3) A 467. § (2) bekezdése szerint alkalmazott leküzdés esetén, a helyi zárlat feloldásától függetlenül az állomány specifikus védettségét rendszeres pótoltásokkal hat hónapig fenn kell tartani.
+
+(4) A helyi zárlat megszüntetése előtt szigorított fertőtlenítést kell végezni. Ez csak a betegség gyanúja miatti zárlat esetén hagyható el, ha a betegség fennállását a laboratóriumi vizsgálat egyértelműen kizárta.
+
+###### A községi zárlat szabályai
+
+###### 472. §
+
+(1) Községi zárlatot kell elrendelni – a 119. §-nak a községi zárlatra vonatkozó általános szabályai szerint – annak a városnak vagy községnek (a továbbiakban: község) a területére, ahol a betegséget megállapították.
+
+(2)[^392] A zárlat az utolsó beteg állomány helyi zárlatának feloldásáig, de legalább az oltások befejezésétől számított tizenöt napig tart. Szórványosan jelentkező betegség esetén (ha a fertőzött udvarok száma a község nyúltartó udvarainak számához viszonyítva öt százalék alatti), a járási hivatal engedélyezheti, hogy a helyi zárlat alatt nem álló veszélyeztetett udvarokból a vágási súlyt elért nyulakat oltás nélkül, az oltott nyulakat pedig az oltástól számított tizenöt nap után közvetlenül vágóhídra szállítsák.
+
+(3) Járványos megbetegedés esetén szállítási kedvezmény nem adható.
+
+###### Védőkörzet elrendelése
+
+###### 473. §[^393]
+
+A járási hivatal
+
+a) a betegség továbbterjedésének megakadályozása céljából köteles védőkörzetet és a védőkörzeten belül a házinyúlállományok védőoltását elrendelni;
+
+b) szabályozza a védőkörzeten belüli nyúlszállítást és kihelyezést, továbbá a védőkörzetből történő nyúlkiszállítást.
+
+###### Az állatok levágásának és a termékek forgalmazásának feltételei
+
+###### 474. §
+
+(1) Beteg vagy betegségre gyanús házinyulak nem vághatók le.
+
+(2) A betegségnek vagy gyanújának vágóhídon történt megállapítása esetén a fertőzött tételt elkülönítetten kell kezelni.
+
+(3) A klinikailag egészségesnek látszó egyedek levághatók, és a hús – ha egyéb kizáró ok nincs – emberi fogyasztásra alkalmas.
+
+(4) A beteg és betegségre gyanús állatokat le kell ölni, és ezeket, továbbá az együttesen érkezett nyúlcsoport hulladékait az állathullákra előírt szabályok szerint kell ártalmatlanná tenni.
+
+(5) A bőr és a szőr csak ipari feldolgozásra adható át.
+
+(6)[^394] A betegség vagy annak gyanúja megállapítása esetén a húsvizsgáló állatorvosnak a származás és levágás helye szerint illetékes járási hivatalt haladéktalanul értesíteni kell.
+
+###### Egyéb rendelkezések
+
+###### 475. §
+
+(1) A védőkörzetben vagy a fertőzött községben történő felvásárlás esetén a hatósági állatorvosnak az átvételt megelőzően tizenkét órán belül, az állatok tartási helyén meg kell győződnie az átadásra szánt állatok egészségi állapotáról. Betegség vagy betegség gyanújának megállapítása esetén a tulajdonos valamennyi, azonos telephelyen tartott állatának átvételét meg kell tiltani.
+
+(2) Amennyiben a szállítást ellenőrző állatorvos a berakodás helyén beteg vagy betegségre gyanús házinyulat talál, az állattartó valamennyi állatának átvételét köteles megtiltani és valamennyi érintett nyulat leöletni. Fertőtlenítés után a többi állattartó egészséges nyulai berakhatók.
+
+(3) A felvásárló szerv – a felvásárlás végeztével – szigorított módon köteles fertőtleníteni a felvásárló helyet.
+
+(4)[^395] Védőkörzetben vagy fertőzött községben takarmányt árusítani csak a járási hivatal által meghatározott feltételekkel szabad.
+
+###### A MÉZELŐ MÉHEK NYÚLÓS KÖLTÉSROTHADÁSA
+
+###### A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
+
+###### A hatósági állatorvos feladatai
+
+###### Helyi zárlat
+
+###### Községi zárlat
+
+###### A zárlat enyhítése
+
+###### A betegség megszűntté nyilvánítása
+
+###### Fertőtlenítés
+
+###### Kötelező vizsgálatok
+
+###### MÉZELŐ MÉHEK ENYHÉBB KÖLTÉSROTHADÁSA
+
+###### A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
+
+###### A hatósági állatorvos feladatai
+
+###### Helyi zárlat
+
+###### Községi zárlat
+
+###### A zárlati intézkedések enyhítése
+
+###### A betegség megszűntté nyilvánítása
+
+###### Fertőtlenítés
+
+###### Kötelező vizsgálatok
+
+###### SZARVASMARHÁK SZIVACSOS AGYVELŐBÁNTALMA
+
+###### (Bovine spongiform encephalopathy, BSE)
+
+###### A beteg, a betegségre gyanús, a fertőzött és a fertőzöttségre gyanús, valamint a betegségtől mentes állat meghatározása
+
+###### A fertőzött, a mentesítés alatt álló és a betegségtől mentes nagylétszámú állomány meghatározása
+
+###### A fertőzött és a betegségtől mentes kislétszámú udvar meghatározása
+
+###### A termékenyítés, fedeztetés, betelepítés szabályai
+
+###### A hatósági állatorvos feladata
+
+###### A beteg sertéssel és szarvasmarhával való eljárás
+
+###### A betegségre gyanús sertéssel és szarvasmarhával való eljárás
+
+###### A pároztatás tilalma
+
+###### A forgalmi korlátozás szabályai
+
+###### A bakteriológiai és immundiagnosztikai eljárások alkalmazásának szabályai
+
+###### A szarvasmarha-állományok ellenőrzésének szabályai
+
+###### A sertésállományok minősítésének és ellenőrzésének szabályai
+
+###### Az elvetélt magzat, továbbá a magzatburok ártalmatlanná tétele
+
+###### A tej felhasználásának korlátozása
+
+###### A betegség megszűntté nyilvánítása
+
+###### Eljárás a juhok és kecskék brucellózisa esetén
+
+###### Eljárás a lovak brucellózisa esetén
+
+###### Eljárás kutya brucellózisa esetén
+
+###### Közegészségügyi szabályok
+
+###### KACSAPESTIS
+
+###### (a kacsák vírusos bélgyulladása, Duck plaque)
+
+###### Beteg, betegségre és fertőzöttségre gyanús baromfi és állomány meghatározása
+
+###### 533. §
+
+(1) Kacsapestisben beteg az a fogékony víziszárnyas, amelyen
+
+a) a betegségre jellemző tünetek megfigyelhetők, vagy az elhullott, leölt vagy levágott állatban a kacsapestisre jellemző kórbonctani elváltozások megtalálhatók, és/vagy
+
+b) a laboratóriumi módszerekkel a betegséget megállapították.
+
+(2) Betegnek kell tekinteni azt az állatot is, amelynek váladékából vagy szerveiből (tojásaiból) a kacsapestis vadvírusát mutatták ki.
+
+(3) Kacsapestisre gyanús az a fogékony víziszárnyas, amelyen
+
+a) a kacsapestisre gyanút keltő klinikai tünetek észlelhetők, vagy
+
+b) az elhullott, leölt vagy levágott állatban a kacsapestisre gyanút keltő kórbonctani elváltozások megtalálhatók, de a betegséget biztosan, laboratóriumi módszerrel sem lehet megállapítani.
+
+(4) Fertőzöttnek kell tekinteni azt az állományt, amelyben beteg egyedet találtak.
+
+(5) A fertőzöttségre gyanúsnak kell tekinteni azt az állományt,
+
+a) amely harminc napon belül beteg vagy betegségre gyanús állattal vagy állománnyal érintkezett, ilyennel együtt (egy tórendszerben) tartották, vagy
+
+b) a vérvizsgálattal kimutatott ellenanyagok mennyiségét állategészségügyi intézet vadvírus fertőzöttségre gyanúsnak minősíti.
+
+###### A fertőződés megelőzésének általános szabályai
+
+###### 534. §
+
+(1) A tenyészállomány legalább a tojószezon előtti két héttől természetes vízre ne kerüljön.
+
+(2) A korábban fertőzött tavakra legalább két évig fogékony állományt kihelyezni nem szabad; kivéve – előzetes immunizálás után – a pecsenyekacsákat.
+
+(3) A tenyész- és pecsenyekacsa állományt elkülönítve kell nevelni.
+
+(4) A tenyészállomány gondozói saját udvarukban nem tarthatnak vízibaromfit.
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### 535. §
+
+(1) El kell látni a 107–110. §-okban előírtakat.
+
+(2)[^453] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
+
+###### Helyi zárlat
+
+###### 536. §
+
+A helyi zárlat szabályai a 118. §-ban foglaltakon kívül a következők:
+
+a) a helyi zárlat térbeli kiterjedését a betegség súlyossága, a tartási hely (tó, tórendszer, víztároló, folyóvíz) fekvése és nagysága szerint kell meghatározni;
+
+b)[^454] a betegségnek vagy gyanújának megállapításakor az érintett állomány immunizálását a járványtani helyzettől (klinikai képtől, betegség okozta kártétel nagyságától stb.) függően a járási hivatal rendeli el. A veszélyeztetett, fogékony állomány immunizálásáról – esetenkénti elbírálás alapján – a járási hivatal dönt;
+
+c) a zárlat tartama alatt elhullott állatokat össze kell gyűjteni és ártalmatlanná kell tenni.
+
+###### A zárlat enyhítése
+
+###### 537. §
+
+(1) A zárlat alól, nem fogékony állatok elszállítására felmentés adható.
+
+(2) A betegségen átesett állományt
+
+a) a tenyésztésből ki kell vonni, ha ez nem történik meg,
+
+b)[^455] a klinikailag egészséges és vakcinázott, vagy e betegséget átvészelt törzsállománytól, a vakcinázást vagy az utolsó elhullást követő négy hét múlva gyűjtött tojások, a járási hivatal egyedi engedélyével és hatósági állatorvosi ellenőrzés mellett, hatékony fertőtlenítőszerrel történő fertőtlenítés és azonosító jellel való megjelölésük után keltetésre kerülhetnek. A keltetőben más helyről származó kacsatojást vagy egyéb fogékony madárfajok tojásait a fertőzött állománytól származókkal együtt keltetni tilos. A tojásokat kétszer lámpázni kell, és az elhalt embriót tartalmazó tojásokat el kell távolítani. A keltetői hulladékot a kórokozó széthurcolásának megakadályozása érdekében ártalmatlanná kell tenni. A kikelt naposállatokat a levágásig izoláltan kell felnevelni.
+
+(3)[^456] A fertőzött és fertőzöttségre gyanús állomány – a klinikai tüneteket mutató állatok kivételével – azonnali levágás céljából vágóhídra szállítható. A szállítási engedélyt a járási hivatal adja. A feldolgozó helyet és a szállító járműveket szigorított módon fertőtleníteni kell.
+
+(4) A zsigerek és a tőkehús csak hőkezelt készítménybe feldolgozva kerülhetnek forgalomba, az egyéb részeket ártalmatlanná kell tenni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 538. §
+
+(1) A helyi zárlatot fel kell oldani a kacsapestis ellen elvégzett vakcinázást követő harminc nap múlva, ha
+
+a) az állományban a betegség klinikai tüneteit mutató egyedek nincsenek;
+
+b) a betegség klinikai tüneteit mutató állatok száma egy százalék alatt volt, ezeket kiirtották, és a kiirtástól számított további harminc nap alatt újabb megbetegedés nem volt.
+
+(2) Ha az állományt nem immunizálták, a zárlat a kacsapestis következtében történt utolsó elhullástól számított harminc nap elmúltával oldható fel.
+
+(3) Az átvészelt állományt továbbtenyésztésre elszállítani nem szabad.
+
+(4) A betegség megszűnése vagy az állatok levágásra történt elszállítása után a telep száraz részén előzetes takarítás után, hatékony fertőtlenítőszerrel, szigorított módon végrehajtott fertőtlenítést kell végezni. A korábban helyi zárlat alatt álló tóra csak a helyi zárlat feloldása után harminc nappal, és csak előzetesen immunizált állományt ajánlott kihelyezni.
+
+###### A beteg, betegségre gyanús, a fertőzött és a fertőzöttségre gyanús, valamint a betegségtől (fertőzöttségtől) mentes sertés meghatározása
+
+###### A minősítés előkészítése, a sertésállományok minősítése
+
+###### A mentesség ellenőrzése, a minősítés felfüggesztése, illetve visszavonása
+
+###### A kislétszámú állományok minősítése az Aujeszky-féle betegség szempontjából
+
+###### A községek, városok, kerületek és megyék sertésállományának minősítése az Aujeszky-féle betegség szempontjából
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### A hatósági állatorvos feladatai
+
+###### A kerületi főállatorvos feladatai
+
+###### Az állomás feladatai
+
+###### A helyi zárlat szabályai
+
+###### Védőoltás alkalmazása a betegség megállapítása esetén
+
+###### A beteg és betegségre gyanús sertés levágása
+
+###### A zárlat enyhítése
+
+###### A betegség megszűntté nyilvánítása
+
+###### Korlátozások a betegség megszűntté nyilvánítása után
+
+###### LÉPFENE
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 554. §
+
+(1) Lépfenében beteg az az állat, amelyen a betegség tünetei kifejezetten mutatkoznak. Betegnek kell tekinteni azt az elhullott, illetőleg levágott vagy leölt állatot is, amelynek boncolása vagy feldolgozása során a belső szervekben lépfenére jellemző elváltozások találhatók, továbbá amelyeknek laboratóriumi vizsgálata a lépfene fennállását igazolja.
+
+(2) A lépfenére gyanús
+
+a) az az állat, amelyen a betegség tünetei nem kifejezetten mutatkoznak;
+
+b) az olyan fertőzöttségre gyanús állat is, amelyen lázas hőemelkedés észlelhető.
+
+(3) Lépfenés fertőzöttségre gyanús az az állat,
+
+a) amely lépfenében elhullott, lépfenében beteg vagy arra gyanús állattal a betegségnek vagy gyanújának megállapítását megelőző húsz napon belül érintkezett;
+
+b) amelyet lépfenében elhullott, lépfenében beteg vagy arra gyanús állat takarmányának vagy ivóvizének helyéről származó takarmányon vagy ivóvízen tartottak;
+
+c) amely húsz napon belül lépfenével fertőzött legelőn legelt, és a kihajtást megelőző két hét és hat hónap között nem részesült lépfene elleni vakcinás oltásban.
+
+###### A települési önkormányzat jegyzőjének feladatai
+
+###### 555. §
+
+Ha az önkormányzat jegyzője állatnak lépfenés megbetegedéséről, e betegségre vagy fertőzöttségre gyanús állapotáról, továbbá lépfene vagy e betegség gyanúja miatt történt levágásáról, leöléséről vagy elhullásáról szerez tudomást, a 106. §-ban előírtakon felül az állattartót köteles felszólítani, hogy a helyi zárlat alá helyezett helyen a beteg és a betegségre gyanús állatokat a fertőzöttségre gyanúsaktól, ezeket pedig a többi fogékony állattól különítse el, s a hullát az állatorvos megérkezéséig őrizze meg.
+
+###### A hatósági állatorvos feladatai
+
+###### 556. §
+
+(1) Ha a hatósági állatorvos állattartó helyen élő állatban vagy hullában megállapítja a lépfenét, illetőleg annak gyanúját, elkülönítés és helyi zárlat végrehajtása mellett a 107–108. §-okban előírtakon felül:
+
+a) köteles a beteg és a betegségre gyanús állatokat azonnal gyógykezelés alá venni, és a betegség eredetére irányuló vizsgálat lefolytatásáig részükre, valamint a fertőzöttségre gyanús állatok részére az eddig használt takarmány helyett más takarmányt, és – ha az lehetséges – más ivóvizet is adatni, ha pedig az állatok legelőre is jártak, a legelőről azokat a (2) bekezdésben meghatározott ideig kitiltani;
+
+b) a fertőzöttségre gyanús állatokat köteles lépfene elleni vakcinával haladéktalanul beoltani és legalább tizennégy napra állatorvosi megfigyelés alá helyezni; a szarvasmarhák és lovak hőmérsékletét megmérni; a juh-, kecske- és sertésállományt naponként megvizsgálni; a lázas hőemelkedést, illetőleg a betegség tüneteit mutató állatokat haladéktalanul gyógykezelés alá kell venni;
+
+c) a betegségről vagy annak gyanújáról köteles – a beteg vagy betegségre gyanús állat tulajdonosa nevének és lakó(telep-)helyének közlésével – a háziorvost értesíteni.
+
+(2) Ha a hatósági állatorvos legelőn állapítja meg a lépfenét, köteles a lépfene elleni vakcinás oltásban korábban nem részesített állatokat vakcinával haladéktalanul beoltani, és – ha az lehetséges – ezeknek az állatoknak a legeltetését a védőoltástól számított tizennégy nap elteltéig megtiltani.
+
+(3) Ha a hatósági állatorvos a betegséget lábon hajtott, illetőleg vasúton, gépkocsin vagy egyéb járművön szállított állaton állapítja meg, köteles a 112. §-ban foglalt rendelkezések figyelembevétele mellett a következők szerint eljárni:
+
+a) a beteg és betegségre gyanús állatokat el kell különíteni és gyógykezelés alá venni;
+
+b) a fertőzöttségre gyanús állatokat a szállítmány származási helyére vissza kell irányítani;
+
+c) a szállítmányhoz tartozó állatok származási helye szerint illetékes hatósági állatorvost, valamint a szállítmány származási helyét (gazdaságot stb.) a betegségben történt elhullásról, valamint a beteg és betegségre gyanús állatok elkülönítési helyéről azonnal értesíteni kell.
+
+(4) Fertőzött területeken tartott szarvasmarhát, juhot, kecskét, lovat lépfene ellen évente vakcinázni kell.
+
+###### 557. §
+
+(1) Ha a hatósági állatorvos elhullott állat boncolása során vagy a húsvizsgálat alkalmával a betegség gyanúját állapítja meg, köteles az elhullott vagy levágott állatból vizsgálati anyagot venni és azt állategészségügyi intézetbe küldeni.
+
+(2) A vizsgálati eredmény közléséig a betegség megállapítása esetére irányadó szabályokat kell alkalmazni.
+
+(3) A betegség hatósági megállapítását követően az újabb boncolást lehetőleg mellőzni kell.
+
+###### 558. §[^472]
+
+A hatósági állatorvos köteles a lépfene megállapításáról és a leküzdése érdekében tett intézkedésekről a járási hivatalnak részletes jelentés tenni.
+
+###### A járási hivatal feladata[^473]
+
+###### 559. §[^474]
+
+Ha a járási hivatal a hatósági állatorvos bejelentéséből a betegségnek olyan községben vagy területen történt jelentkezéséről értesül, ahol az addig még nem fordult elő, köteles a fertőzési forrás felderítése céljából helyszíni vizsgálatot végezni.
+
+###### A nyers termékek felhasználásának tilalma és korlátozása
+
+###### 560. §
+
+(1) A helyi zárlat alatt lévő helyen tartott beteg és betegségre gyanús állatok nyers termékét (tejét, szőrét, sörtéjét, gyapját stb.) kivinni, felhasználni vagy forgalomba hozni tilos. Ezeket a nyers termékeket – fertőtlenítés után – a hullával azonos módon ártalmatlanná kell tenni.
+
+(2) Fertőzöttségre gyanús állat teje hőkezelés útján használható fel. Ha ez nem lehetséges, az (1) bekezdésben foglaltak szerint kell eljárni.
+
+###### A beteg, betegségre gyanús és a fertőzöttségre gyanús állatok levágásának tilalma
+
+###### 561. §
+
+A beteg, betegségre gyanús és fertőzöttségre gyanús állatot levágni vagy elvéreztetés útján leöletni tilos.
+
+###### A hulla felhasználásának és felbontásának tilalma
+
+###### A hulla ártalmatlanná tétele
+
+###### 562. §
+
+(1) A beteg, betegségre gyanús és fertőzöttségre gyanús állat hulláját és hullarészeit (húsát, bőrét, szőrét, sörtéjét, gyapját, szarvát, csülkét, patáját stb.) felhasználni vagy forgalomba hozni tilos.
+
+(2) A beteg, betegségre gyanús, illetve fertőzöttségre gyanús állat hulláját és hullarészeit lehetőleg fehérje feldolgozó üzemben, ennek hiányában elégetéssel kell megsemmisíteni;
+
+a) a hullát állatorvosnak, más személynek pedig csak állatorvos felügyelete mellett szabad felboncolni; a hullát lebőrözni tilos, és ha az ártalmatlanná tétel során történik, a bőrt többszörös keresztülmetszéssel használhatatlanná kell tenni;
+
+b) a boncolás során vérrel vagy egyéb testnedvekkel beszennyezett földet lapáttal fel kell szedni és a hullagödörbe dobni, majd annak helyét fertőtlenítő oldattal kell átitatni;
+
+c) a hulla szállítására használt járművet a hulla lerakása után, a helyszínen kell szigorított módon fertőtleníteni, a felhasznált almot pedig el kell égetni;
+
+d) a hulla és a hullarészek ártalmatlanná tételét állatorvosi ellenőrzés mellett kell végezni.
+
+###### A helyi zárlat enyhítése
+
+###### 563. §
+
+(1) Helyi zárlat alatt lévő helyre a hatósági állatorvos engedélyével be lehet vinni baromfit, továbbá olyan szarvasmarhát, bivalyt, juhot, kecskét, sertés és lovat, amelyet a bevitel előtt legalább két héttel, de hat hónapnál nem régebben részesítettek lépfene elleni vakcinás oltásban.
+
+(2)[^475] Helyi zárlat alatt álló helyről továbbtartás vagy munkavégzés céljából, kedvező eredményű hatósági állatorvosi helyszíni vizsgálat után, a járási hivatal engedélyével szabad kivinni fertőzöttségre gyanús olyan állatot, amelyet lépfene elleni vakcinával hat hónapnál nem régebben, de legalább két héttel korábban igazoltan beoltottak. A kivitel lábon hajtva is történhet.
+
+(3) A be- és kivitel tekintetében egyébként a 123. és 124. §-okban foglaltak az irányadók.
+
+###### A trágya, az alom és a takarmányhulladék kezelése
+
+###### 564. §
+
+Helyi zárlat alatt álló helyen a fertőzött karámban vagy ólban lévő összes trágyát, almot és takarmányhulladékot, a fertőzött kötött tartású istállóban pedig a beteg és a betegségre gyanús állat állásában és a szomszédos állásokban lévő trágyát, almot és takarmányhulladékot az egyéb állatok trágyájától elkülönítve kell összegyűjteni, és elégetés útján vagy elföldeléssel (három méter vastag földréteg) kell ártalmatlanná tenni. Az elföldelés helyét a hullatemetőkkel azonos módon kell kezelni és megjelölni. E szabály megszegése esetén a zárlat alatt álló helyen lévő összes trágyát ártalmatlanná kell tenni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 565. §
+
+(1) A lépfene miatt elrendelt helyi zárlat feloldása szempontjából a megfigyelési idő húsz nap.
+
+(2) A betegséget megszűntté kell nyilvánítani, ha a községben már egy hely sem áll helyi zárlat alatt.
+
+(3) A beteg állat leölése, elhullása vagy gyógyulása után azonnal fertőtleníteni kell. A fertőtlenítést akkor is el kell végezni, ha a helyiségben még maradt beteg, betegségre vagy fertőzöttségre gyanús állat és a fertőtlenítést a helyiség egész területére ki kell terjeszteni.
+
+(4) A hulla elszállítása után azonnal fertőtleníteni kell a szállításra használt járművet, továbbá azokat a területeket is, amelyek a szállítás során a hulla testváladékával szennyeződhettek.
+
+(5) A fertőtlenítést hatósági állatorvosi ellenőrzés alatt, szigorított módon kell végrehajtani.
+
+###### Fertőzött területek
+
+###### 566. §
+
+(1) Lépfenével fertőzöttnek kell minősíteni és fertőzöttként kell nyilvántartani
+
+a) azt a legelőt, rétet, erdőt, erdőrészt, vízpartot és egyéb területet, amelyen folytatott legeltetés vagy itatás, illetőleg amelyről származó takarmány etetése következtében az állatok között lépfenés megbetegedés fordult elő;
+
+b) azt a községet, gazdaságot és udvart, amelyben a terület egy része lépfenével fertőzött, vagy amelyben lépfene előfordult;
+
+c) mindazokat a területeket, ahol a fellelhető adatok szerint gyepmesteri telep vagy hullagödör volt.
+
+(2)[^476] A lépfenével fertőzött területek, községek és udvarok nyilvántartása, valamint a megelőző vakcinázási eljárások kerületenkénti meghatározása a járási hivatal feladata. A fertőzöttség megállapításánál alapul kell venni az előző években előfordult lépfenés megbetegedéseket, és mindazokat a vizsgálati eredményeket, amelyek a betegség eredetére vonatkoznak.
+
+###### A fertőzési források ártalmatlanná tétele
+
+###### 567. §
+
+(1) A lépfenével fertőzött legelőt, rétet, erdőt, takarmánytermő stb. területet a hatósági állatorvos irányítása mellett át kell vizsgálni, és az olyan területeket, amelyekről feltehető, hogy a lépfene kórokozójával fertőzöttek (régi dögtér, elásott hullák környéke, vízpart, vizenyős, áradásos területek stb.) körül kell keríteni úgy, hogy oda legelő állat be ne juthasson. Ha a területet – nagysága miatt – nem lehet bekeríteni, azt jelzőfákkal kell megjelölni. Ilyen területek közelében csak a legelőre hajtás előtt legalább tizennégy nappal korábban, de hat hónapnál nem régebben lépfene ellen vakcinázott állatok legeltethetők. Fertőzött takarmánytermő területeken a takarmánytermesztést meg kell szüntetni. Ha ez nem lehetséges, az itt termelt takarmányt csak az etetés megkezdése előtt az előbbi módon vakcinázott állománnyal szabad feletetni.
+
+(2) A fertőzött területek veszélyességét az esetleg ott talált hullarészek elégetésével, továbbá talajműveléssel, a nedves területek kiszárításával, fásítással stb. csökkenteni kell.
+
+(3) A lépfenével fertőzött kutat nagy mennyiségű fertőtlenítő anyag behelyezése után be kell temetni; fertőzött folyóból és patakból az itatást meg kell tiltani.
+
+(4) A fertőzött silógödörben esetleg még található takarmányt el kell égetni, nagy mennyiségű fertőtlenítő anyaggal való lelocsolás után a silógödör betemetésével kell ártalmatlanná tenni.
+
+(5) Új kutak és silógödrök létesítésekor ellenőrizni kell, hogy a kút vagy silógödör céljára kijelölt helyen vagy annak környékén esetleg nem földeltek-e el korábban állati hullát. Elföldelt állati hullák közelében kút vagy silógödör ásását meg kell tiltani.
+
+(6) Ha kút vagy silógödör létesítése közben állati eredetű csontok kerülnek felszínre, a további munkálatokat azonnal meg kell szüntetni és a már kiásott gödröt be kell temetni. Hasonlóképpen kell eljárni a különböző célra mesterségesen létesített gödrökkel is, ha azok lépfenés fertőzöttsége bebizonyosodott vagy gyanítható.
+
+###### Állatbőrök ellenőrzése
+
+###### 568. §
+
+(1) A hatósági állatorvos nem vágóhídon kényszervágott, valamint az elhullott állatról származó bőrt, ha a húsvizsgálat, illetőleg a boncolás eredménye alapján a lépfene gyanúja sem merül fel és annak ipari célra való felhasználása állategészségügyi szempontból akadályba nem ütközik, köteles a 48. számú függelék szerinti bélyegzővel lebélyegezni.
+
+(2) A bőröket begyűjtő szerv köteles a hatósági állatorvost havonként értesíteni a nem vágóhídról származó, állatorvosi vizsgálat nélkül érkezett, bélyegzővel el nem látott állati bőrök átvételéről. Köteles továbbá az ilyen bőrökről a 49. számú függelék szerinti nyilvántartást vezetni, és a bőröket a nyilvántartás megfelelő sorszámával megjelölve, az állatorvosi vizsgálat megtörténtéig a többi bőrtől külön tárolni.
+
+(3) A hatósági állatorvos köteles legalább havonként – nagyszámú bőr begyűjtése esetén a szükséges gyakorisággal – a begyűjtő helyen, illetőleg a feldolgozó üzemben az ilyen bőrökből vizsgálati anyagot venni, azt az állategészségügyi intézethez, a vizsgálat céljának feltüntetésével megküldeni.
+
+(4) A bőr laboratóriumi vizsgálatához a ló-, szarvasmarha-, juhbőr egy százaléknyi mennyiségében a bőr széléből, öt különböző helyről 5 X 5 cm nagyságú darabot kell kivágni, s azokat – bőrönként külön-külön zsírpapírba csomagolva – kell beküldeni. Az 50. számú függelék szerinti kísérő kimutatásban fel kell tüntetni a bőrök nyilvántartási adatait, s az egyes mintákat el kell látni a kimutatás megfelelő sorszámával.
+
+(5) Azt a bőrt, amely a vizsgálat során fertőzöttnek bizonyult, elszállítani nem szabad, hanem haladéktalanul ártalmatlanná kell tenni. A fertőzött bőrrel közvetlenül érintkezett bőröket, továbbá azt a helyiséget vagy helyiségrészt, ahol a fertőzött bőrt tárolták, szigorított módon fertőtleníteni kell.
+
+(6) Ha a fertőzött bőr származási helye a nyilvántartásból megállapítható, a hatósági állatorvos köteles a volt tulajdonos lakóhelye (telephelye) szerint illetékes hatósági állatorvost haladéktalanul értesíteni.
+
+###### Közegészségügyi szabályok
+
+###### 569. §
+
+(1) A betegségnek vagy gyanújának megállapításáról a hatósági állatorvos köteles értesíteni a háziorvost.
+
+(2) A hatósági állatorvos köteles felvilágosítani a lépfenében beteg és betegségre gyanús állat gondozóját vagy tulajdonosát, hogy a lépfene iránt az ember is fogékony és az állattal vagy hullájával való vigyázatlan érintkezés veszélyes.
+
+(3) A beteg vagy a betegségre gyanús állat ápolásával, hullájának szállításával, boncolásával, a fertőzött helyek és helyiségek fertőtlenítésével nem szabad megbízni olyan személyt, akinek keze vagy más fedetlen testrésze sérült.
+
+(4) A beteg, betegségre gyanús állat gondozását és kezelését végző személy köteles magát a munka befejezése után minden alkalommal – az állatorvos előírása szerint – fertőtleníteni.
+
+(5) Azok a személyek, akik a beteg vagy betegségre gyanús állat hullájával vagy hullarészeivel érintkezésbe kerülnek, a boncolásnál vagy a szállításnál segédkeznek, kötelesek megfelelő védőöltözetet rendeltetésszerűen használni. A tevékenység befejeztével a védőöltözetet (ha ez egyszer használatos) ártalmatlanná kell tenni, a ruházatot és a fedetlen testrészeket fertőtleníteni kell. E személyek fertőtlenítését a hatósági állatorvos köteles ellenőrizni.
+
+(6) Lépfenével fertőzött helyiségekben, illetőleg a beteg és a lépfenére gyanús állatok istállójában sepréssel vagy más módon a port felkavarni nem szabad, és a talajt fertőtlenítő oldattal állandóan nedvesen kell tartani.
+
+(7) A beteg vagy betegségre gyanús állaton véres műtétet nem szabad végezni, gyógykezelést is csak állatorvos végezhet.
+
+###### RÜHÖSSÉG
+
+###### (ló, szamár, öszvér, szarvasmarha, bivaly, juh, kecske
+
+###### sarcoptesz és psoroptes rühössége)
+
+###### A beteg, betegségre és fertőzöttségre gyanús állat meghatározása
+
+###### 570. §
+
+(1) Rühösségben beteg az az állat, amelyen
+
+a) a betegség tünetei kifejezetten mutatkoznak, vagy
+
+b) a tünetek nem kifejezettek, de a laboratóriumi vizsgálat a rühatkát kimutatta.
+
+(2) Rühösségre gyanús az az állat, amelyen a betegség tünetei nem kifejezetten mutatkoznak és az atkát a laboratóriumi vizsgálat nem mutatta ki, vagy a fertőzöttséget nem zárta ki.
+
+(3) Rühösség fertőzöttségére gyanús az az állat, amely
+
+a) az utolsó negyvenkét nap alatt rühösségben beteg vagy betegségre gyanús állattal közvetlenül érintkezett, az ilyen állatok tartási helyén megfordult, továbbá az ilyen állatok által feltételezhetően szennyezett tárgyakkal (szerszámmal, munkaeszközzel, takarmánnyal stb.) érintkezett;
+
+b) juhok rühösség elleni, kötelező gyógyszeres kezelésének elrendelése esetén a kötelező kezelésben nem részesült;
+
+c) idegen tartáshelyről karanténozás nélkül egészséges állományba került.
+
+(4) Rühösségben beteg az az állomány, amelyben rühösségben beteg állat van.
+
+###### A hatósági állatorvos feladatai
+
+###### 571. §
+
+(1) A hatósági állatorvos a 107. §-ban előírtakon felül köteles:
+
+a) a betegségre gyanús állatról vizsgálati anyagot venni és ezt laboratóriumba küldeni;
+
+b) a rühös állomány gyógykezelését elrendelni és ellenőrizni.
+
+(2) A hatósági állatorvos köteles a beteg, betegségre és fertőzöttségre gyanús állat gyógykezelését, valamint az állatok tartására szolgáló helyiség fertőtlenítését az állattartó költségére elrendelni.
+
+(3) Amennyiben a gyógykezelés fürösztéssel történik a juhokat – ha erre kizáró ok nincsen (exportrendeltetés gyapjúban, gyógyulás után kiállításra szállítás stb.) – meg kell nyírni.
+
+(4) A fürösztésnek a test egész felületére ki kell terjednie.
+
+(5) Amennyiben a juhok fürösztés előtt nem nyírhatók meg, a fürösztésnek a gyógyszerek használati utasításában előírt időtartam kétszereséig kell tartania.
+
+###### Forgalmi korlátozás
+
+###### 572. §
+
+(1) A fertőzött állományt a 117. §-ban foglaltak szerint, az alábbi kiegészítésekkel forgalmi korlátozás alá kell venni.
+
+(2) A beteg, betegségre és fertőzöttségre gyanús állatot a forgalmi korlátozás helyéről – a kényszervágás kivételével – mindaddig nem szabad kivinni, amíg eredményes gyógykezelésben nem részesült.
+
+(3) Az eredményes gyógykezelésben részesített beteg, betegségre és fertőzöttségre gyanús állat a hatósági állatorvos engedélyével kivihető
+
+a) továbbtartás végett a község más helyére, ha ott fogékony állatokkal nem érintkezhet;
+
+b) a község legelőjére, ha az állatok elkülönítetten legeltethetők;
+
+c) igás állat munkavégzés céljából meghatározott területre úgy, hogy ott más fogékony állattal ne érintkezhessen;
+
+d) vágóhídra, levágás céljából.
+
+(4) A hatósági állatorvos az előírt gyógykezelés ellenére megtilthatja, hogy a nagy fokban rühös állatot teljes gyógyulása előtt a forgalmi korlátozás helyéről kivigyék, ilyen esetben ismételt gyógykezelést rendelhet el.
+
+###### A nyerstermék felhasználásának korlátozása és tilalma
+
+###### 573. §
+
+(1) A beteg, betegségre és fertőzöttségre gyanús állatról vagy annak hullájáról lenyírt szőrt, gyapjút, úgyszintén az ilyen állat hullájának bőrét, csak a hatósági állatorvos engedélyével szabad felvásárló részére átadni. Az engedélyt csak akkor lehet megadni, ha a nyers termékek fertőtlenítése megtörtént.
+
+(2) A nyerstermékek fertőtlenítésétől el lehet tekinteni, ha azokat legalább hat héten át tárolták, vagy elszállításuk ép és jól zárható műanyag zsákokban, közvetlenül a feldolgozó telepre történik.
+
+###### A beteg, betegségre és fertőzöttségre gyanús állatokkal érintkezett tárgyak használatának korlátozása
+
+###### 574. §
+
+A beteg, betegségre és fertőzöttségre gyanús állat szerszámait, takaróját és az ilyen állat gondozására használt eszközöket, valamint a nyírófelszerelést csak fertőtlenítés után szabad újból felhasználni.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 575. §
+
+(1) A beteg, betegségre és fertőzöttségre gyanús állat a forgalmi korlátozás alól feloldható, ha
+
+a) a juhokon a nyírást követően két centiméteres gyapjúhosszúságig egy alkalommal elvégzett fürösztéses gyógykezelés után negyvenkét napon belül, vagy két centiméternél hosszabb gyapjú esetén hét–tíz napi időközzel végzett kétszeri fürösztéses gyógykezelés után hetven napon belül a rühösség nem újult ki;
+
+b) egyéb állatfajok esetében a hét–tíz napos időközzel végzett kétszeri fürösztéses gyógykezelést követő negyvenkét napon belül a rühösség nem újult ki, vagy
+
+c) a gyógykezelésre engedélyezett készítmény használati utasításban előírtak szerinti gyógykezelés után, az utolsó kezeléstől számított negyvenkét napon belül a rühösség nem újult ki, a fertőzöttségre gyanús állatokon a betegségre utaló tünetek nem mutatkoztak és a fertőtlenítés megtörtént.
+
+(2) A betegséget megszűntté kell nyilvánítani, ha a községben rühösség miatt már egy udvarban sincs forgalmi korlátozás alatt álló állat.
+
+(3) Azt a helyiséget, amelyben rühös vagy rühösségre gyanús állatot tartottak, az állatok gyógykezelésével egyidejűleg fertőtleníteni kell. Fertőtleníteni kell azt a helyiséget is, ahol a beteg vagy a betegségre gyanús állat megfordult.
+
+(4) Az olyan helyiségben, amelyben az állatoknak meghatározott állandó tartási helyük (állásuk) van, elégséges a beteg vagy betegségre gyanús állat állását, és az azzal közvetlenül szomszédos állásokat fertőtleníteni. Az olyan helyiséget (akolt, karámot, ólat), amelyben az állatoknak meghatározott állandó tartási helyük nincsen, egész terjedelmében kell fertőtleníteni.
+
+(5) Fertőtleníteni kell mindazon tárgyakat is, amelyekkel a beteg vagy a betegségre gyanús állat érintkezett.
+
+(6) Mellőzni lehet annak a helyiségnek a fertőtlenítését, amelyben a beteg állat eltávolítása után hat hétig állat nem tartózkodott, továbbá annak a tárgynak a fertőtlenítését is, amelyet hat hétig nem használtak.
+
+(7) A fertőtlenítést szigorított módon, állatorvos irányítása mellett kell végezni.
+
+(8) Fertőtlenítésre a fürösztéses gyógykezelésre engedélyezett készítmények használhatók.
+
+###### Közegészségügyi szabályok
+
+###### 576. §
+
+(1) A rühösséget és annak gyanúját a háziorvosnak haladéktalanul be kell jelenteni.
+
+(2) A hatósági állatorvos köteles kioktatni a rühösségben beteg vagy betegségre gyanús állat gondozóját, az állattartót, valamint az ilyen állatok nyírásával, gyógykezelésével, levágásával, ilyen állatok hulláinak lebőrözésével foglalkozó személyeket, hogy az állatok rühössége az emberre is átterjedhet, s ennek megakadályozása érdekében az ilyen állattal, annak hullájával vagy nyers termékeivel való érintkezés után, a helyszínről való távozás előtt, a ruházatot alaposan meg kell tisztítani, a kezet pedig meg kell mosni. A tisztálkodás feltételeit az állatok tulajdonosának, tartójának kell megteremtenie.
+
+###### BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ, RÉSZLETESEN NEM SZABÁLYOZOTT FERTŐZŐ BETEGSÉGEK
+
+###### 607. §
+
+A bejelentési kötelezettség alá tartozó, de részletesen nem szabályozott fertőző állatbetegségek a következők:
+
+a) hólyagos szájgyulladás,
+
+b) kiskérődzők pestise,
+
+c) bőrcsomósodáskór,
+
+d) Rift-völgyi láz,
+
+e) kéknyelv betegség,
+
+f) afrikai lópestis,
+
+g) lovak vírus okozta agy-, gerincvelő gyulladásai.
+
+###### 608. §
+
+(1) A 607. §-ban felsorolt betegségek Magyarországon eddig nem fordultak elő, ezért e betegségek elleni védekezés részletes szabályait a Szabályzat nem tartalmazza. Ha bármelyik betegséget, a betegség gyanúját vagy a fertőzöttséget Magyarországon hatóságilag megállapítják, a keleti marhavészre vonatkozó szabályok szerint kell eljárni.
+
+(2) Indokolt esetben a minisztérium a 607. §-ban felsorolt betegségekre vonatkozóan, a keleti marhavészre előírt intézkedéseken túl egyéb, az egyes betegségeknek megfelelő specifikus szabályok alkalmazását is elrendelheti.
+
+(3)[^497]
+
+#### III. Fejezet — BEJELENTÉSI KÖTELEZETTSÉG ALÁ NEM TARTOZÓ, DE JELENTŐS ÁLLATBETEGSÉGEK LEKÜZDÉSÉNEK SZABÁLYAI
+
+###### MIXOMATÓZIS
+
+###### A beteg, betegségre gyanús és fertőzöttségre gyanús házinyúl, a mixomatózissal fertőzött állomány fogalmának meghatározása
+
+###### 609. §
+
+(1) Mixomatózisban beteg az a házinyúl, amely a betegség jellegzetes tüneteit mutatja.
+
+(2) Mixomatózis betegségre gyanús az a házinyúl, amelyen a betegség tünetei nem kifejezetten jelentkeznek.
+
+(3) Mixomatózis fertőzöttségre gyanús az a házinyúl, amelyen a betegség tünetei nem mutatkoznak, de amelyet a beteg és/vagy betegségre gyanús állatokkal a betegség megállapítását megelőző harminc napon belül, és a betegség megállapítása után együtt tartottak.
+
+(4) Mixomatózissal fertőzött az az állomány, amelyben beteg vagy betegségre gyanús állatok vannak.
+
+###### 610. §
+
+(1) Az állattartó köteles a betegséget és/vagy a betegség gyanúját haladéktalanul jelenteni a kezelő állatorvosnak vagy a hatósági állatorvosnak.
+
+(2) A kezelő állatorvos köteles a betegséget és/vagy a betegség gyanúját haladéktalanul jelenteni a hatósági állatorvosnak.
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### 611. §
+
+A 107–110. §-okban meghatározottakat meghaladó feladatok a következők:
+
+a) a betegség megállapítása a hatósági állatorvos feladata; a hatósági állatorvos köteles a beteg, betegségre és fertőzöttségre gyanús állat tartási helyén helyi zárlatot és forgalmi korlátozást elrendelni; a helyi zárlat alatt álló területen levő nyulak egészségi állapotát a mixomatózis elleni kötelező oltás elrendelésével egyidejűleg megvizsgál(tat)ni;
+
+b)[^498] a járási hivatal köteles a hatósági állatorvos intézkedéseit felülvizsgálni; a beteg állatok leöletéséről intézkedni; községi zárlatot elrendelni;
+
+c)[^499] a vármegyei kormányhivatal feladata a zárlat alatt álló község nyulainak oltásához vagy állategészségügyi vizsgálatához állatorvosokat kirendelni.
+
+###### A beteg állattal való eljárás
+
+###### 612. §
+
+(1) A beteg állatokat – állami kártalanítás nélkül – ki kell irtani.
+
+(2)[^500] A betegség tüneteit nem kifejezetten mutató állatok vakcinázása – a járási hivatal engedélyével – megkísérelhető.
+
+###### Kötelező védőoltás
+
+###### 613. §
+
+(1) A helyi zárlat alatt álló helyen lévő, még nem immunizált valamennyi egészséges házinyulat – amelyek az alkalmazott vakcina használati utasításai szerint olthatók – mixomatózis ellen be kell oltani.
+
+(2) A kötelező védőoltást csak állatorvos végezheti.
+
+(3) Az oltást szervezetten kell végezni, és a betegség jelentkezése után minél gyorsabban be kell fejezni.
+
+(4) Az oltás költségei (vakcina ára, munkadíj stb.) a házinyúl tulajdonosát terhelik.
+
+(5) Az oltott nyulak tulajdonosairól és az oltott nyulak számáról az oltást végző állatorvosnak kimutatást kell készítenie, és azt az oltás befejezése után negyvennyolc órán belül át kell adnia a hatósági állatorvosnak.
+
+(6) Az oltott nyulak számáról és az oltás időpontjáról az oltást végző állatorvos az állat(ok) tulajdonosának igazolást ad ki.
+
+###### A nyers termékek felhasználása
+
+###### 614. §
+
+(1) A beteg és betegségre gyanús leölt vagy elhullott nyulak húsát és bőrét meg kell semmisíteni.
+
+(2) A fertőzöttségre gyanús nyulak húsa és bőre a levágás útján történő leöletés után értékesíthető.
+
+###### A zárlat enyhítése
+
+###### 615. §
+
+(1) Vágóhídra szállítás szabályai:
+
+a) a községi zárlat alatt álló község helyi zárlat alatt nem álló udvaraiból oltott, egészséges nyulak az oltás befejezésének napjától számított tizenötödik nap után szállíthatók;
+
+b) a helyi zárlat alatt álló udvarból, ahol az oltással egyidejűleg a nyulak tulajdonosa a beteg nyula(ka)t kiirtotta és újabb megbetegedés nem volt, kiszállítani az utolsó beteg állat kiirtását követő tizenötödik nap után szabad.
+
+(2) Továbbtartásra szállítás szabályai:
+
+a)[^501] fertőzött község nem fertőzött udvarából indokolt esetben oltott, egészséges nyúl elszállítását a hatósági állatorvos – a járási hivatal hozzájárulásával – az állomány oltásának befejezésétől számított tizenötödik naptól engedélyezheti;
+
+b) fertőzött udvarból továbbtartásra házinyúl a helyi zárlat feloldásáig nem szállítható;
+
+c) fertőzött községből származó nyulak nem fertőzött községből származó, továbbtartásra vagy exportra szánt nyulakkal együtt egy járművön nem szállíthatók.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 616. §
+
+(1) A helyi zárlatot az utolsó beteg állat leöletése, elhullása vagy gyógyulása után következő harminc napi megfigyelési idő kedvező eltelte és az állatok tartási helyének fertőtlenítése után kell feloldani.
+
+(2) A fertőtlenítést – a hatósági állatorvos utasítására és felügyelete mellett – a tulajdonos saját költségére végzi.
+
+(3) A községi zárlatot akkor kell feloldani, ha a községben már nincs helyi zárlat alatt álló udvar, és az utolsó zárlat feloldását követő tizenöt nap alatt újabb megbetegedés nem fordult elő.
+
+###### BAROMFIKOLERA
+
+###### A beteg, betegségre és fertőzöttségre gyanús
+
+###### baromfiállomány meghatározása
+
+###### 620. §
+
+(1) Baromfikolerában beteg az a baromfi,
+
+a) amelyen a baromfikolerára jellemző tünetek mutatkoznak, vagy
+
+b) az elhullott vagy levágott baromfiban kórbonctani vizsgálattal a betegségre jellemző elváltozások megállapíthatók, és a baromfikolera virulens kórokozóját a laboratórium kimutatta.
+
+(2) Az (1) bekezdésben foglaltak hiányában is baromfikolerában betegnek kell tekinteni az elhullott baromfit, ha abból a baromfikolera virulens kórokozóját a laboratóriumi vizsgálat kimutatja.
+
+(3) Baromfikolerára gyanús az a beteg baromfi, amely a baromfikolerára jellemző tüneteket nem mutatja ugyan, de baromfikolerában beteg vagy abban elpusztult baromfival együtt tartják, tartották vagy ilyennel érintkezett.
+
+(4) Baromfikolerával fertőzött az az állomány, amelyben baromfikolerában beteg egyedet találtak.
+
+(5) Baromfikolera fertőzöttségre gyanús az a baromfi, amely klinikailag egészséges, de baromfikolerában beteg vagy baromfikolerára gyanús állattal érintkezhetett, vagy ilyen baromfival együtt tartották.
+
+###### A betegség megelőzését és gyógykezelését
+
+###### szolgáló állategészségügyi szabályok
+
+###### 621. §
+
+(1) Mivel a baromfikolerában beteg vagy fertőzött állományban életük végéig baktériumhordozó állatok maradnak, az ilyen állományokat húsra kell értékesíteni. A szállítás és a levágás módját a hatósági állatorvos határozza meg.
+
+(2) Ha a tulajdonos a fertőzött állományát tovább kívánja tartani, azt úgy köteles megtenni, hogy az más baromfiállománnyal ne érintkezhessék. Ezt a hatósági állatorvos havonta köteles ellenőrizni.
+
+(3) A több állományban tépést végző személyek az egyes állományokat (telepet, udvart) csak a hatósági állatorvos által előírt (megbízottja jelenlétében végzett) szigorított személyi fertőtlenítés után hagyhatják el.
+
+(4) A fertőzött állományt ellátó személyek is csak személyi fertőtlenítés után hagyhatják el az állományt, s ha saját udvaruk baromfiállományában betegségre gyanús jeleket látnak, vagy elhullás fordult elő, azt haladéktalanul kötelesek jelenteni az ellátó állatorvosnak.
+
+(5) A tenyész vízibaromfi-állományokat célszerű baromfikolera elleni vakcinával (legalább tavasztól–őszig) immunizált állapotban tartani. Ugyanez ajánlható a nagyüzemi méretű árutermelő vízibaromfi- és pulykaállományok esetében is.
+
+###### Forgalmi korlátozás
+
+###### 622. §
+
+(1) Az ellátó állatorvos köteles a betegség előfordulását jelenteni a hatósági állatorvosnak, aki az állományt köteles a 117. §-ban foglaltak szerint és az alábbi kiegészítésekkel forgalmi korlátozás alá vonni.
+
+(2) A baromfikolerával fertőzött állományt az előzetes rezisztencia vizsgálat eredményétől függően gyógykezelni kell. A gyógykezelés megkezdése előtt a klinikailag beteg állatokat el kell távolítani.
+
+(3) A betegség ismételt jelentkezésének elkerülése céljából a baromfikolerával fertőzött vagy fertőzöttségre gyanús állományokat minden, ellenálló képességet csökkentő beavatkozás (tömésbe állítás, tolltépés stb.) előtt gyógyszeres kezelésben kell részesíteni.
+
+(4) Mivel a fertőzött állományban életük végéig baktériumhordozó állatok maradnak, azok forgalmi korlátozását feloldani nem szabad, oda újabb állatok nem állíthatók be.
+
+(5)[^505] Az eredményesen gyógykezelt, klinikai tüneteket nem mutató, a kezelő állatorvos által gyógyultnak minősített állományok tömésre – az állattartó kérésére – az illetékes járási hivatal hozzájárulásával kihelyezhetők, de erről az illetékes hatósági állatorvost értesíteni kell.
+
+(6) A több csoportban elhelyezett, egymással közvetlenül nem érintkező baromfi közül a betegség megállapítása után a beteg vagy betegségre gyanús csoportot azonnal el kell távolítani és úgy elhelyezni, hogy a betegséget ne terjeszthesse.
+
+###### A forgalmi korlátozás enyhítése
+
+###### 623. §
+
+(1) A forgalmi korlátozás alatt álló helyről a száraz, zsákolt tollat, valamint a három százalékos klórlúgban egy-két percig áztatott tojást, a hatósági állatorvos engedélyével ki lehet szállítani. Az ily módon kezelt tojás keltetésre is felhasználható.
+
+(2) A forgalmi korlátozás alatt álló helyről, betegségre vagy fertőzöttségre gyanús baromfi – a klinikai tüneteket mutató állatok kivételével – a hatósági állatorvos engedélyével, azonnali levágás céljából, a baromfifeldolgozó üzem előzetes értesítése után oda elszállítható.
+
+(3) A vágást és feldolgozást elkülönítetten vagy a rendes vágás befejezése után kell elvégezni. A feldolgozóhelyet és a szállító járművet szigorított módon fertőtleníteni kell.
+
+###### A betegség megszűntté nyilvánítása
+
+###### 624. §
+
+A forgalmi korlátozást fel kell oldani, ha
+
+a) a baromfikolerával fertőzött állományt levágták és a telepet (a tartási helyet) szigorított módon fertőtlenítették. Egyéni udvarokban a levágást követő egy hétig az udvarba a levágás után fogékony állatot nem szabad beállítani;
+
+b) a fertőzöttségre gyanús állományban a tizennégy napos megfigyelési idő alatt a betegség nem fordult elő.
+
+###### SERTÉSTÍFUSZ
+
+###### A beteg, fertőzött, betegségre és fertőzöttségre gyanús sertés és -állomány meghatározása
+
+###### 625. §
+
+(1) Sertéstífuszban beteg az a sertés, amely a sertéstífuszra jellemző klinikai tüneteket mutatja, és/vagy levágása után kórbonctani vizsgálattal a betegségre jellemző elváltozások mellett a sertéstífusz kórokozóját (Salmonella typhisuis) a laboratórium kimutatta.
+
+(2) Sertéstífuszra gyanús az a beteg sertés, mely a sertéstífusz jellegzetes tüneteit nem mutatja, de sertéstífuszban beteg vagy abban elpusztult sertéssel érintkezett.
+
+(3) Klinikai tünetek és kórbonctani elváltozások hiányában is sertéstífusszal fertőzöttnek kell tekinteni a sertést, ha abból a sertéstífusz kórokozóját a laboratóriumi vizsgálat kimutatta.
+
+(4) Sertéstífusz fertőzöttségre gyanús az a sertés, amely sertéstífuszban beteg vagy sertéstífuszra gyanús állattal érintkezett.
+
+(5) Sertéstífusz-fertőzöttségre gyanús az az állomány, amelynek egyedei sertéstífuszban beteg vagy sertéstífuszra gyanús sertéssel érintkeztek.
+
+###### A betegség megelőzését és gyógykezelését szolgáló állategészségügyi szabályok
+
+###### 626. §
+
+(1) A sertéstífusz megállapításakor a hatósági állatorvos forgalmi korlátozást köteles elrendelni.
+
+(2) A sertéstífuszban beteg vagy fertőzött állományban életük végéig baktériumhordozó állatok maradnak, az ilyen állományokból sertést csak húsra szabad értékesíteni. A szállítás és levágás módját a hatósági állatorvos határozza meg.
+
+(3) A vágást és feldolgozást elkülönítetten vagy a rendes vágás befejezése után kell elvégezni. A feldolgozóhelyet és a szállító járművet szigorított módon fertőtleníteni kell.
+
+(4) Ha a tulajdonos a fertőzött állományát tovább kívánja tartani, úgy köteles a beteg állatokat hatékony gyógykezelésben részesíteni és köteles a hatósági állatorvos által elrendelt forgalmi korlátozás előírásait betartani, továbbá azt, hogy az állomány más sertésállománnyal közvetlenül (vagy eszközök, személyek által közvetve) ne érintkezhessék.
+
+(5) A sertéstífusz fertőzöttségre gyanús állományban a fertőzöttség fennállását 2 évig tartó hatósági megfigyeléssel és a betegségre gyanús állatok kórbonctani és húsvizsgálati, valamint laboratóriumi vizsgálatával kell tisztázni.
+
+###### A forgalmi korlátozás megszüntetése
+
+###### 627. §
+
+A forgalmi korlátozást fel kell oldani,
+
+a) ha a sertéstífusszal fertőzött állományt levágták és a telepet (tartási helyet) szigorított módon fertőtlenítették; ezt követően egy hétig fogékony állatokat nem szabad beállítani;
+
+b) ha a fertőzöttségre gyanús állományban kétéves megfigyelési idő alatt a betegség nem fordult elő.
+
+#### IV. Fejezet — A PARAZITÓZISOK ELLENI VÉDEKEZÉS ÁLTALÁNOS SZABÁLYAI
+
+###### A beteg, fertőzött és mentes állat, illetve állomány meghatározása
+
+###### 628. §
+
+(1) A parazitózis kifejezés mind a paraziták okozta betegséget, mind a fertőzöttséget magában foglalja.
+
+(2) Állategyedek esetében
+
+a) beteg az az állat, amelynek bizonyos parazitákkal való fertőzöttségét megállapították, és az állaton a megállapított parazitával összefüggésbe hozható betegség klinikai tünetei mutatkoznak;
+
+b) bizonyos parazitákkal fertőzött az az állat, amelyen a paraziták jelenlétét laboratóriumi vagy egyéb módon (boncolás, féregürítés) megállapították, de az állat az illető parazitával összefüggésbe hozható betegség klinikai tüneteit nem mutatja;
+
+c) bizonyos parazitáktól mentes az az állat, amelynek bélsarában vagy egyéb vizsgálati anyagában a legalább két alkalommal elvégzett vizsgálat az illető parazita petéjét, lárváját, ivari produktumát vagy magát a parazitát nem mutatja ki, illetve a fertőzöttség tényére egyéb jel (féregürítés, klinikai tünet, bonclelet, vágóhídi visszajelzés, húsvizsgálat) sem utal;
+
+d) bizonyos parazitózistól való mentességet lehet megállapítani hatékony gyógyszerrel történt kétszeri gyógykezelés és az ezt követő egyszeri laboratóriumi vizsgálat negatív eredménye alapján is.
+
+(3) Állatállományok esetén
+
+a) beteg az állomány, ha az állatoknak több mint öt százalékán a jelen levő paraziták okozta klinikai tünetek mutatkoznak;
+
+b) fertőzött az állomány, ha az együtt tartott (istálló, legelő, karám stb.) állatok között a fertőzöttséget [(2) bekezdés b) pont] megállapították, vagy ha ezen felül az állományban a megállapított parazitákkal összefüggésbe hozható, klinikai tünetekben megnyilvánuló betegség az állomány öt százalékánál kevesebb állatot érint;
+
+c) bizonyos parazitózistól mentes az állomány, ha az együtt tartott (istálló, legelő, karám stb.) állatoknál százas létszámig az állomány harminc százalékán, száz egyeden felüli állatlétszám esetén az állomány tíz százalékán, két alkalommal elvégzett koprológiai vagy egyéb vizsgálat – méhállományok esetében az állomány összes méhcsaládján elvégzett vizsgálat – az illető parazita szempontjából negatív eredményt adott, és a fertőzöttséget más módon (húsvizsgálattal, boncolással, klinikai tünetek alapján, féregürítés észlelésével) nem lehetett megállapítani.
+
+###### Általános szabályok
+
+###### 629. §
+
+(1) Az állatok közegészségügyi vagy gazdasági szempontból jelentős parazitózisainak (a továbbiakban: jelentős parazitózisok) okozói a következők:
+
+a) szarvasmarha: bőrbagócs lárvák, májmétely, borsóka;
+
+b) juh: májmétely, galandféreg lárvák;
+
+c) sertés: orsóféreg, galandféreg lárvák, Trichinella lárva;
+
+d) baromfi: Eimeria fajok;
+
+e) hal: galandféreg fajok, csillós egysejtű élősködők, vérszívó paraziták, úszóhólyag férgek;
+
+f) eb: orsóféreg fajok, galandféreg fajok;
+
+g) házinyúl: Eimeria fajok;
+
+h) vadon élő állatok: Trichinella lárva;
+
+i) méh: Varroa-atka, Acarapis woodi (légcső-atka).
+
+(2)[^506] A jelentős parazitózisok körét országos szinten a minisztérium, a vármegye vagy annak része vonatkozásában a vármegyei kormányhivatal is bővítheti.
+
+(3) Az (1)–(2) bekezdésekben felsorolt parazitózisok ellen szervezett védekezést kell folytatni.
+
+(4) A védekezés – az állategészségügyi szolgálat szakmai irányításával – az állat tulajdonosának feladata.
+
+###### A parazitózisok elleni védekezés módja
+
+###### 630. §
+
+(1) Az érintett állatállományt minden esetben gyógykezelni kell, ha a 629. § (1) bekezdésének a)–i) pontjaiban felsorolt parazitózis klinikai tünetekben nyilvánul meg.
+
+(2) Fertőzöttség megállapítása esetén az alábbi paraziták ellen kell a részletes szabályokban meghatározottak figyelembevételével állomány vagy egyedi gyógykezelést végrehajtani:
+
+– szarvasmarha: bőrbagócs lárvák, májmétely;
+
+– juh: májmétely;
+
+– eb: orsóféreg fajok, galandféreg fajok;
+
+– méh: Varroa-atka, Acarapis woodi (légcső-atka);
+
+– halak: galandféreg, egyéb parazitózisok.
+
+(3) A sertést orsóférgek ellen akkor kell gyógykezelni, ha az egyéb okból elhullott sertések vizsgálata során a bélcsatornában orsóférgek tömegesen találhatók, illetve ha a sertésnél spontán féregürülés észlelhető.
+
+(4) A (2) bekezdésben fel nem sorolt, vagy a (3) bekezdésben meghatározott fertőzöttségi fokot meg nem haladó parazitás fertőzöttség esetén, a gyógyszeres beavatkozás szükségességéről a körülmények (a fertőzöttség foka, a parazitózis járványtana, az évszak stb.) mérlegelése alapján, a kezelő állatorvos köteles javaslatot tenni az állattartónak az állat (állomány) gyógykezelésére vonatkozóan.
+
+###### 631. §
+
+Új állattartó telep létesítése, illetve már működő állattartó telep esetén a betelepítendő, illetőleg az ott tartott szarvasmarha-állománynak a bőrbagócs lárváktól, a szarvasmarha- és juhállományoknak a rühatkától mentesnek kell lennie.
+
+###### 632. §
+
+(1) Legelőre csak a parazitózisoktól mentes és/vagy kezelt állatok engedhetők.
+
+(2) Paraziták okozta állománymegbetegedést a kezelő állatorvos köteles soron kívül jelenteni a hatósági állatorvosnak.
+
+(3)[^507] A hatósági állatorvos a paraziták okozta állomány-megbetegedést soron kívül köteles jelenteni a járási főállatorvosnak és a járási hivatalnak.
+
+###### 633. §
+
+Amennyiben az állattartók állatukon paraziták okozta megbetegedést vagy súlyos fertőzöttséget (időszakos féregürülés stb.) észlelnek, ennek tényét kötelesek az állatorvosnak bejelenteni, és a 629. § (1) bekezdésének a)–i) pontjában felsorolt esetekben az előírt gyógykezelést haladéktalanul végrehajtani.
+
+###### Az állatorvos feladatai
+
+###### 634. §
+
+Az embert is jelentősen veszélyeztető parazitózis megállapítását
+
+a) a kezelő állatorvos a hatósági állatorvosnak;
+
+b)[^508] a hatósági állatorvos a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalának
+
+köteles haladéktalanul bejelenteni.
+
+###### A járási hivatal feladata[^509]
+
+###### 635. §[^510]
+
+A járási hivatal köteles az illetékességi területén a parazitózisok elleni védekezést szervezni és összehangolni.
+
+###### A vármegyei kormányhivatal feladatai[^511]
+
+###### 636. §[^512]
+
+A vármegyei kormányhivatal feladatai:
+
+a) indokolt esetben a parazitózisok megelőzésére irányuló védekezést szervezni, irányítani;
+
+b) az állatállományokra indokolt esetben előírt vizsgálatok és beavatkozások elvégzését ellenőrizni;
+
+c) a várható parazitózisok fellépésének veszélye esetén a szükséges intézkedéseket megtenni;
+
+d)[^513] a borsókakór megállapítása esetén a fertőzött személy felkutatásában a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát hatékonyan segíteni;
+
+e)[^514] a járási hivatalok paraziták elleni védekezéssel kapcsolatos munkáját irányítani és ellenőrizni.
+
+###### A jelentős parazitózisok elleni védekezés részletes szabályai
+
+##### I. Bőrbagócs-lárvák
+
+###### 637. §
+
+(1) A szarvasmarha-állományok bőrbagócs-lárvás fertőzöttségének megállapítása céljából március hó 1. és a legeltetés megkezdése között az állományokat ellenőrizni kell.
+
+(2) Az ellenőrző vizsgálatokat a tulajdonos költségére a kezelő állatorvos végzi.
+
+(3) A fertőzött állatokat még a lárvák ivarérettsége előtt a tulajdonos költségére gyógykezelni kell. A gyógykezelést csak állatorvos végezheti.
+
+(4) Legelőre csak bőrbagócs-lárváktól mentes, vagy a kihajtás előtt legalább négy nappal hatékony gyógyszerrel kezelt szarvasmarha hajtható ki.
+
+(5) A bőrbagócs-lárvás fertőzöttséget legelőn való jelentkezése esetén az állatok tulajdonosa, őrzője vagy gondozója a kezelő állatorvosnak haladéktalanul köteles jelenteni. A fertőzött állatot haladéktalanul gyógykezelni kell.
+
+(6) Állatvásárra, állatkiállításra csak bőrbagócs-lárváktól mentes állatot szabad felhajtani.
+
+##### II. Májmétely
+
+###### 638. §
+
+(1) A fertőzött állományokat január 1. és a kihajtás közötti időszakban legalább egy, indokolt alkalommal két alkalommal gyógykezelni kell.
+
+(2) Legelőre csak májmételytől mentes, vagy a kihajtást megelőzően legalább tizennégy nappal gyógykezelt állatot szabad kihajtani.
+
+(3) A hatósági állatorvos a legeltetés megkezdése előtt köteles a legelőt a köztigazda csigák másodrendű biotópjainak kialakulása szempontjából megvizsgálni, és fertőzöttség esetén a legelőt vagy legelőrészt a legeltetésből kizárni.
+
+(4) Fertőzött legelő füve csak olyan tartósítási eljárás után etethető, amelynek során a parazita fertőzőképes alakjai elpusztulnak.
+
+(5) Heveny májmételykór fellépése esetén az állomány legeltetését a fertőzött területen azonnal meg kell szüntetni, és az egész állományt haladéktalanul gyógykezelni kell.
+
+(6) A májmételykór megállapítását a kezelő állatorvos haladéktalanul köteles jelenteni a hatósági állatorvosnak.
+
+##### III. Emlősök galandférgei elleni védekezés szabályai
+
+###### 639. §
+
+(1) A pásztorebeket évente két alkalommal, márciusban és a legeltetés megkezdése előtt, galandférgek ellen hatékony készítménnyel kezelni kell.
+
+(2)[^515] Indokolt esetben a járási hivatal elrendelheti a galandférgekkel fertőzött terület ebeinek a tulajdonos költségére történő gyógyszeres kezelését.
+
+(3) Állatvágások során a hólyagféreg lárvákkal fertőzött szerveket vagy szervrészeket össze kell gyűjteni, és meg kell semmisíteni.
+
+##### IV. Trichinellózis
+
+###### 640. §[^516]
+
+A fertőzöttnek talált állat fertőződési körülményeit a járási hivatal köteles vizsgálni. Amennyiben egy állományban a trichinellózist megállapították,
+
+a) az állományt forgalmi korlátozás alá kell vonni;
+
+b)[^517] ember trichinellás megbetegedése esetén a fertőzési forrás megkeresése – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a járási hivatal feladata;
+
+c)[^518] trichinellózis megállapításáról a járási hivatal köteles haladéktalanul értesíteni a minisztériumot, és az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát.
+
+##### V. Rühatka
+
+###### (sertés)
+
+###### 641. §
+
+(1) Sertésrühösség esetén a fertőzött állományt – szükség esetén ismételten – gyógykezelni kell.
+
+(2) A gyógykezeléssel egyidejűleg az állatok tartási helyét is fertőtleníteni kell.
+
+##### VI. Halak galandférgei elleni védekezés szabályai
+
+###### 642. §
+
+(1) A kezelő állatorvos rendszeres laboratóriumi vizsgálatokból köteles ellenőrizni a halak fertőzött vagy mentes voltát.
+
+(2) Húsz százalékot elérő vagy meghaladó fertőzöttség esetén az állományt gyógykezelni kell.
+
+(3) Továbbtenyésztésre csak galandférgektől mentes, vagy tizennégy napnál régebben gyógykezelt halat szabad szállítani.
+
+##### VII. A halak egyéb parazitózisai
+
+###### 643. §
+
+(1) Halastavakban megállapított egyéb parazitózisok esetén – amennyiben az adott betegségnek van hatékony gyógyszere – az állományt gyógykezelni kell.
+
+(2) Telepíteni csak parazitáktól mentes, vagy előzetesen gyógykezelt halakat szabad.
+
+##### VIII. Varroa-atka
+
+###### (Ázsiai nagy méhatka)
+
+##### IX. Mézelő méhek légcsőatka-kórja
+
+###### (Acarapis woodi)
+
+###### A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
+
+###### Az állategészségügyi szolgálat részletes feladatai
+
+###### Zárlati intézkedések
+
+###### Eljárás méhcsaládokkal, méhlakásokkal atkakór megállapítása esetén
+
+###### A zárlat enyhítése
+
+###### A zárlat feloldása és a betegség megszűntté nyilvánítása
+
+##### IX. Borsókakór
+
+###### 652. §
+
+(1)[^527] A húst vizsgáló állatorvos köteles a szarvasmarha borsóka megállapítását a járási hivatalnak haladéktalanul jelenteni. A jelentésnek tartalmaznia kell a borsókás állatok azonosítási adatait is.
+
+(2)[^528] A járási hivatal a szarvasmarha borsóka megállapítását köteles az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatallal és a minisztériummal közölni.
+
+(3) Sertés borsóka megállapítása esetén az (1)–(2) bekezdésben meghatározott módon kell eljárni.
+
+(4)[^529] Ismétlődő fertőzöttség esetén az illetékes járási hivatal köteles – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a fertőzött helyen szemlét tartani, és a védekezés módját a szemle eredményétől függően meghatározni.
+
+MÁSODIK [^531]
+
+HARMADIK [^532]
+
+## 1. számú függelék az Állategészségügyi Szabályzathoz
+
+**Az állattartó létesítményekre vonatkozó előírások**
+
+A Szabályzat alkalmazásában:
+
+1\. *állattartás:* olyan tevékenység, amely állati eredetű termék előállítására (hús, tej, gyapjú, tojás stb.), sportcélok elérésére, kedvtelésre és egyéb hasznosítás megvalósítására történik. Magába foglalja a tenyésztést, a szaporítást, végtermék-előállítást;
+
+2\. *állattartó épület:* közvetlenül az állatok elhelyezésére, védelmére szolgáló létesítmény;
+
+3\. *állattartó telep:* az állattartó épületeken kívül az állattartás egyéb létesítményei is megtalálhatók;
+
+4.[^543] *nagy létszámú állattartó telep:* olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
+
+– harminc ló, vagy
+
+– ötven szarvasmarha, vagy
+
+– kétszáz juh, kecske, vagy
+
+– száz sertés, vagy
+
+– kettőezer broiler baromfi, vagy
+
+– ötszáz kifejlett baromfi (tyúkfélék, víziszárnyasok, pulyka stb.), vagy
+
+– ötven strucc, vagy
+
+– ötven anyanyúl és szaporulata, vagy
+
+– ötven prémesállat;
+
+5\. *kislétszámú állattartó telep:* amelyben a 4. pontban meghatározott számú állatnál kevesebb helyezhető el. E telep állhat egyetlen állattartó épületből is;
+
+6.[^544] *nagylétszámú állattartó telep*
+
+– állattartó épülete: a telep tenyész- vagy haszonállat istállója, ellető-, nevelő-, betegelkülönítő istállója, illetve karantén épülete;
+
+– egyéb építményei, amelyeket állatjárványügyi szempontok miatt meg kell valósítani:
+
+= az állattartó telep kerítése, kapuja,
+
+= fekete-fehér rendszerű öltöző,
+
+= állatrakodó,
+
+= tejház, tejátadó helyiség,
+
+= kényszervágó hely,
+
+= baromfikeltető,
+
+= takarmánykeverő,
+
+= járműfertőtlenítő,
+
+= juhfürösztő medence,
+
+= kezelőfolyosó,
+
+= kút, ivó-, itatóvíztároló,
+
+= takarmány-, alomanyagtároló (épület, fészer, szérű),
+
+= trágyakezelő telep és kerítése,
+
+= hullakamra (állati hulla gyűjtő, boncolásra alkalmas helyiség),
+
+= hullatemető, hullaemésztő verem, állathulla égető és kerítése.
+
+A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építmények megvalósítása alól felmentést adhat, azonban a környezetvédelmi szempontok miatt is megépítendő létesítmények esetén a felmentés csak a telepen belüli megvalósításra vonatkozhat.
+
+– egyéb építményei, amelyeket környezetvédelmi szempontok miatt is meg kell építeni:
+
+= szennyvízkezelés és elhelyezés létesítményei,
+
+= trágyakezelés létesítményei,
+
+= szilárd vagy folyékony anyagok tárolására szolgáló egyéb föld alatti és föld feletti létesítmények,
+
+= hulladékgyűjtő, -kezelő és -ártalmatlanító létesítmények.
+
+## 2. számú függelék az Állategészségügyi Szabályzathoz
+
+**Az állattartó létesítmények állategészségügyi szakhatósági véleményezése**
+
+1\. Az állategészségügyi szakhatóság az állattartó telep és technológia járványügyi, állathigiéniai alkalmasságának megállapításához az alábbi feltételek fennállását vizsgálja:
+
+1.1. Nagylétszámú állattartó telep esetében
+
+a) a kötetlen tartású szarvasmarhatelepen, illetőleg legelői tartás esetén kezelőfolyosó vagy egyedi kezeléshez leszorítást, lekötést biztosító berendezés (erre a célra alkalmas karám);
+
+b) hígtrágya kezelése esetén annak ártalmatlanítása céljára a telep közelében kijelölt és hatóságilag engedélyezett erdő vagy szántó terület;
+
+c) állattartó telepen a szükséges tisztításhoz, fertőtlenítéshez legalább egy nagynyomású – lehetőleg meleg vízzel vagy gőzsugárral működő – fertőtlenítő gép;
+
+d) juhtartó üzemben a parazitamentesítés feltételei biztosítottak;
+
+e) a telepet – a legeltetéses állattartás kivételével – olyan kerítéssel körülvették, amely alkalmas ember vagy kóbor állat behatolásának megakadályozására;
+
+f) fekete-fehér rendszerű öltöző, amelynek az utcai ruha tárolására szolgáló külső öltözőjét mosdó-zuhanyozó helyiség választja el a munkaruha elhelyezésére szolgáló belső öltözőtől;
+
+g) a kapuban az útburkolat kialakítása lehetővé teszi a járművek kerekeinek megtisztítását és fertőtlenítését [pl. kerékfertőtlenítő medencét (6,5 méter X 3 méter X 0,35 méter) alakítottak ki, leereszthető folyadékkal, vagy jármű fertőtlenítésére alkalmas gépet állítottak be];
+
+h) boncolásra alkalmas hullakamra, melynek falai és padozata lemosható, fertőtleníthető, a létesítmény hideg-meleg vízzel és csatornával ellátott;
+
+i) az állati hullák gyűjtéséhez és elszállításához konténertároló hely vagy helyiség, és/vagy hullaemésztő verem vagy hullaégető;
+
+j) a kerítés vonalában helyezték el mindazokat az építményeket, amelyek a külső személy- és járműforgalommal kapcsolatosak (pl. öltöző, állatrakodó, tejház, tejátadó, kényszervágó, hullakamra);
+
+k) tehenészeti telepen a tehénállomány legalább egy százaléka részére elegendő férőhelyű betegelkülönítő istálló (ez kialakítható valamelyik állattartó épületből leválasztott külön bejáratú helyiségben is);
+
+l) tejtermelő tehenészeti telepen az ellető férőhelyek száma – az ellések egyenletes elosztását alapul véve – legalább három nap ellés előtti, és legalább tíz nap ellés utáni elhelyezést tesz lehetővé, az elletésre szolgáló építmények a föcstejjel vagy tejpótlóval táplált, valamint a választott borjak elhelyezésére szolgáló létesítmények az évenként többszöri időszakos fertőtlenítést lehetővé teszik;
+
+m) az állattartó épületek padozata, oldalfalai könnyen takaríthatók, fertőtleníthetők, a keletkezett szennyvíz, trágya, trágyalé maradéktalanul eltávolítható, a megfelelő csúszásmentesség, szellőztetés, világítás biztosított, a berendezések könnyen kezelhetők, takaríthatók és fertőtleníthetők, az állatok egészségét, testi épségét nem veszélyeztetik és nem balesetveszélyesek. Az építmények alkalmasak arra, hogy szükség esetén megvédjék az állatokat az időjárás káros hatásától;
+
+n) az állatok fajának, fajtájának megfelelő mozgási igény kielégítésére alkalmas kifutóról, karámról gondoskodtak;
+
+o) a tej nyerésére szolgáló berendezések a tejelő állat tőgyét gyorsan, kíméletesen és higiénikusan fejik ki, tőgykárosodást nem okoznak. A fejő és tejtovábbító, tejkezelő berendezések szétszedhetők, takaríthatók és fertőtleníthetők, belőlük a tej, öblítővíz, fertőtlenítőszer maradéktalanul eltávolítható;
+
+p) a fejő és tejkezelő eszközök és berendezések alkalmasak arra, hogy a termelt tej a telepen tartás ideje alatt fogyaszthatóságában károsodást ne szenvedjen.
+
+1.2. Kislétszámú állattartó telep esetében
+
+a) átöltözésre, mosakodásra és személy-fertőtlenítésre alkalmas helyiségről gondoskodtak;
+
+b) az állattartó épületet úgy helyezték el, hogy járványveszély esetén lehetővé teszi a védelem szempontjainak megfelelő személy- és járműforgalom megszervezését.
+
+1.3.[^545] Baromfitartó telep esetében betartották-e a madárinfluenza elleni védekezés részletes szabályairól szóló 143/2007. (XII. 4.) FVM rendelet 3/A. §-ában a kereskedelmi célú baromfitartó gazdaság tekintetében meghatározott védőtávolsággal kapcsolatos rendelkezéseket.
+
+2\. Az állattartó telepen kívül létesült, napi tíz tonnánál nagyobb teljesítményű takarmánykeverő üzem, valamint legalább százezer keltető tojás befogadására alkalmas keltetőállomás esetében a szakhatósági hozzájárulás feltételei:
+
+a) a fertőződés megelőzésére szolgáló kerítés;
+
+b) fekete-fehér rendszerű öltöző;
+
+c) a bejáratnál jármű fertőtlenítő berendezés (fertőtlenítő gép és/vagy kerékfertőtlenítő medence).
+
+## 3–4. számú függelék az Állategészségügyi Szabályzathoz[^546]
+
+## 5. számú függelék az Állategészségügyi Szabályzathoz
+
+**Állati hulladékgyűjtők, hulladéktemetők, hulladékemésztő vermek, kedvtelésből tartott állatok kegyeleti temetője létesítésének állategészségügyi feltételei**
+
+1–2.[^547]
+
+*A gyepmesteri telep*
+
+3.
+
+3.1. A gyepmesteri telepet el kell látni:
+
+a) az állathullák megőrzésére, lebőrözésére és boncolására szolgáló, szilárd anyagból épített, jól fertőtleníthető helyiséggel (hullakamrával),
+
+b) a bőr és a szaruképletek szárítására és tárolására alkalmas helyiséggel,
+
+c) megfigyelésre alkalmas kisállat-férőhellyekkel,
+
+d) az állathullák begyűjtésére alkalmas járművel, s ezek működtetéséhez szükséges helyiséggel,
+
+e) a városban rendelkezésre álló közművekkel,
+
+f) a telepen dolgozók részére fekete-fehér rendszerű öltözővel (zuhanyzóval, WC-vel),
+
+g) nagynyomású fertőtlenítő géppel.
+
+3.2. Az állatifehérje-üzem hullabegyűjtő körzetében, a kijelölt gyepmesteri telep kapuján belül megfelelő nagyságú területet kell fenntartani az üzem számára, a hullák gyűjtésére alkalmas tartályok és az egyéb felszerelési tárgyak elhelyezéséhez.
+
+3.3. A gyepmesteri telepen gondoskodni kell arról, hogy
+
+a) a hullák és a befogott állatok szállítására megfelelő, külön szállítóeszközök,
+
+b) mérleg,
+
+c) az állatok leöléséhez, a hullák lebőrőzéséhez és boncolásához szükséges eszközök,
+
+d) fertőtlenítőszerek, továbbá
+
+e) sérülés esetén szükséges elsősegélynyújtáshoz gyógyszerek és kötözőanyagok
+
+mindenkor rendelkezésre álljanak.
+
+3.4. Az állati eredetű hulladékok, valamint az állathullák megőrzésére, lebőrőzésére és boncolására használt helyiségekben és istállókban a padozatot, valamint a padozattól számított két méter magasságig a falakat könnyen mosható és fertőtleníthető, vízálló anyaggal kell burkolni.
+
+3.5.[^548] A gazdálkodó szervezetek által fenntartott hullabegyűjtő helyekre – a járási hivatal előírása szerint – a gyepmesteri telepre vonatkozó szabályokat kell alkalmazni.
+
+3.6.Az állathulláknak a gyepmesteri telepre szállításával, őrzésével és ártalmatlanná tételével járó feladatok elvégzésére minden városban gyepmestert kell alkalmazni. A gyepmestert a polgármesteri hivatal alkalmazza.
+
+3.7. Gyepmesterként az a személy alkalmazható, aki az állatok leölésében, a hullák lebőrőzésében és szétdarabolásában kellő jártassággal rendelkezik. Alkalmazása előtt a dolgozót munkavédelmi oktatásban kell részesíteni, és részére a feladatait tartalmazó munkaköri leírást át kell adni.
+
+3.8. A gyepmester feladatai a következők:
+
+a) a polgármesteri hivatal felhívására minden, pl. a közúton talált állathullának késedelem nélkül történő kiszállítása a gyepmesteri telepre, a hulladéktemetőbe, a hulladékemésztő veremhez, és ott – a hatósági állatorvos intézkedéséig – annak megőrzése, majd ártalmatlanná tétele,
+
+b) az állathullák lebőrőzése – ha azt nem tiltják az egyes bejelentési kötelezettség alá vont fertőző állatbetegségek leküzdésének szabályai –, továbbá a boncolásban való segédkezés,
+
+c) az elrendelt állatleölések végrehajtása,
+
+d) a hullaszállító járművek, tartályok és ártalmatlanná tételre használt eszközök, felszerelési tárgyak tisztántartása és fertőtlenítése,
+
+e) mindazoknak az állategészségüggyel kapcsolatos köztisztasági tennivalóknak az elvégzése, amelyeket a települési önkormányzat előír,
+
+f)[^549]
+
+g)[^550]
+
+h)[^551]
+
+i)[^552]
+
+j) a gyepmesteri telepre szállított állathullákról, a hatósági rendelkezésre leölt állatokról átvételi elismervény kiállítása és nyilvántartás vezetése.
+
+3.9. A gyepmesteri telepen csak a telephez tartozó igásállatokat és a házőrzésre szükséges ebet szabad tartani. Az igásállatokat csak a telep területén erre a célra kijelölt istállóban szabad elhelyezni, és azokat más állattól távol kell tartani, idegen istállóba vagy más állatok tartására szolgáló helyre tilos bekötni. Etetésükre és itatásukra külön eszközöket kell használni. A munkára alkalmatlanná vált igásállatokat vágóhídra kell irányítani.
+
+3.10. A gyepmesteri telep állategészségügyi felügyeletét a hatósági állatorvos látja el.
+
+4.[^553]
+
+## 6. számú függelék az Állategészségügyi Szabályzathoz[^554]
+
+## 7. számú függelék az Állategészségügyi Szabályzathoz
+
+**Az állatvásárra, valamint az állatkiállításra vonatkozó általános előírások**
+
+1\. Az állatvásár vagy állatkiállítás területét (a továbbiakban: vásártér) lehetőleg sík és száraz talajú külterületen úgy kell kijelölni, hogy az a felhajtásra kerülő állatokkal közúton könnyen elérhető legyen. A terület nagyságát úgy kell megállapítani, hogy a felhajtott állatok és járművek elhelyezhetőek legyenek, és a közlekedésre megfelelő hely álljon rendelkezésre.
+
+2\. A vásárteret körül kell keríteni, és a bejáratot (bejáratokat) úgy kell kialakítani, hogy azon egyidejűleg csak egy jármű vagy egymás mellett két nagy állat haladhasson át. A bejáratokhoz vezető utat a bejárat teljes szélességében és kívül-belül tíz-tíz méter hosszúságban vízálló burkolattal, a bejáratot (bejáratokat) zárható sorompóval (kapuval) kell ellátni.
+
+3\. A vásártéren – amennyiben a forgalom jelentős – minden állatfaj részére korláttal (kerítéssel) elkerített külön helyet kell kialakítani.
+
+4\. Az állategészségügyi szempontból kifogásolt állatok elhelyezésére a vásártéren kívüli, bekerített és elzárható területet kell kialakítani.
+
+5\. A vásártéren víznyerő berendezést, rakodórámpát kell biztosítani.
+
+6\. A vásártérre állatot behajtani csak a vásár megnyitása után szabad. A felhajtott állatok állatorvosi vizsgálatát, illetőleg megszemlélését a vásártérre való bebocsátásuk előtt kell elvégezni.
+
+7\. A vásártérre csak annyi állat bocsátható be, hogy egymást, a közlekedést ne veszélyeztessék. A felhajtott állatokat felügyelet nélkül hagyni tilos.
+
+8.[^555] A vásártérre az állategészségügyi feladatok ellátásához szükséges hatósági állatorvost a járási hivatal rendeli ki, a segéderőkről pedig a vásár tartására jogosult köteles gondoskodni, akik közreműködnek a vásárról távozó állatok marhalevelének ellenőrzésében is.
+
+9\. A vásárteret, valamint az oda vezető utaknak a vásártér közvetlen közelében levő szakaszait, legkésőbb a vásárt követő napon meg kell tisztítani.
+
+10\. A vásárteret a megtisztítás után tíz nap múlva szabad legeltetésre használni. Baromfit a vásártér bármely részén, egypatás állatot csak a kérődző állatok és sertések, kérődző állatot pedig csak az egypatás állatok elhelyezésére használt részen szabad legelteni. A sertések legeltetése a vásártéren tilos.
+
+11\. Zárt épületben tartott állatkiállítás után a helyiségeket megfelelő módon takarítani és fertőtleníteni szükséges.
+
+12\. A vásár rendjéről, a vásártér karbantartásáról és a kezelésre vonatkozó előírások megtartásáról a vásár tartására jogosult köteles gondoskodni.
+
+13\. A marhalevél kezelő és hatósági állatorvos számára az adminisztráció elvégzéséhez szükséges feltételeket (fedett, fűthető helyiség, asztal, szék, világítás, kézmosási, fertőtlenítési lehetőség stb.) a vásár, piac tartására jogosult köteles biztosítani.
+
+## 8/a. számú függelék az Állategészségügyi Szabályzathoz[^556]
+
+## 8/b. számú függelék az Állategészségügyi Szabályzathoz[^557]
+
+## 8/c. számú függelék az Állategészségügyi Szabályzathoz[^558]
+
+## 9. számú függelék az Állategészségügyi Szabályzathoz[^559]
+
+## 10. számú függelék az Állategészségügyi Szabályzathoz
+
+**Az állatrakodóhelyre vonatkozó előírások**
+
+A rakodóhelynek meg kell felelnie az alábbi feltételeknek:
+
+1\. A várható állatforgalomnak megfelelő méretű, több részből álló, legalább részben fedett rakodóudvart, állatfelhajtót, rampát vagy hidraulikus emelőszerkezetet kell létesíteni. A rakodóudvart legalább másfél méter magas szilárd anyagból készített korláttal vagy fallal kell körülkeríteni oly módon, hogy onnan a kisállatok se szabadulhassanak ki, a nagyállatok pedig rögzíthetőek legyenek.
+
+2\. A rampát, a felhajtót a rakodóudvarral közvetlen összeköttetésben ajtókkal, illetve mindkét oldalán korláttal kell ellátni. Az udvar és a rakodóhely burkolatát vízálló anyagból úgy kell készíteni, hogy azon az állatok el ne csússzanak, a keletkezett csapadék és szennyvíz elvezetését zárt rendszerben biztosítani kell. Az igényeknek megfelelően a rakodó mérlegházzal kiegészíthető. A rakodóhelyen keletkezett trágya kezelését, a rakodó takarítását, fertőtlenítését az üzemeltető köteles biztosítani minden szállítás befejezését követően. A rakodóhelyeken az állatok részére itatási lehetőséget kell biztosítani.
+
+3\. Az engedélyezett rakodóhelyen a hatósági állatorvos számára az állatok vizsgálatához, az adminisztráció elvégzéséhez a szükséges feltételeket biztosítani kell (kézmosás, fertőtlenítés, fedett, szükség esetén fűtött helyiség, asztal, szék stb.).
+
+4.[^560] Házinyúlszállítás olyan rakodóhelyről engedélyezhető, ahol a járási hivatal ehhez hozzájárult és megteremtették a fertőtlenítés, kézmosás, mérlegelés, hulladék-, szemétgyűjtés lehetőségét, továbbá ezek ártalmatlanításának feltételeit.
+
+## 11. számú függelék az Állategészségügyi Szabályzathoz[^561]
+
+## 12. számú függelék az Állategészségügyi Szabályzathoz
+
+**A karanténozás (elkülönítés) szabályai**
+
+**I. A karanténozás általános szabályai**
+
+1.[^562] Az elkülönítés ideje alatt az állatokról az állatok tartója nyilvántartást, a karantént felügyelő hatósági állatorvos a járási hivatal által hitelesített karantén naplót köteles vezetni.
+
+2\. Az elkülönített állatok gondozója más, fogékony állatot nem gondozhat és azok gondozóival nem érintkezhet.
+
+3\. Az elkülönített állatok gondozására, etetésére, itatására külön eszközöket kell használni. Az elkülönített állatokat külön kell legeltetni és itatni úgy, hogy azok más állatokkal sem közvetlenül, sem közvetve ne érintkezzenek. Az elkülönített állatoktól származó trágyát külön kell kezelni.
+
+4\. Az elkülönítésre szolgáló helyiséget, területet ,,Elkülönítő” feliratú táblával kell megjelölni. Az elkülönítés helyére az állatok kijelölt gondozóján, a tulajdonoson és az állategészségügyi szakemberen (szakembereken) kívül más nem léphet be.
+
+5\. A gondozó folyamatosan köteles ellenőrizni az elkülönített állatok egészségügyi állapotát, s ha abban kedvezőtlen változás következett be, köteles azonnal az állatorvost értesíteni. Az állatorvos ilyen esetben azonnal, egyébként a megfigyelési időn belül legalább hetente köteles az elkülönített állatokat megszemlélni, és szükség esetén megvizsgálni.
+
+6\. Bejelentési kötelezettség alá tartozó betegség észlelése vagy annak gyanúja esetén a Szabályzat vonatkozó előírásai szerint kell eljárni.
+
+7\. A szállítás közben jelentkező betegségek ellen az állatokat a karanténban gyógykezelni kell és el kell végezni a szükséges kezeléseket, vizsgálatokat és vakcinázásokat is.
+
+8\. A karanténban kell hozzászoktatni az állatokat a telepi tartásmódhoz és takarmányozáshoz.
+
+**II. Import állatok karanténozásának szabályai**
+
+A karanténozás általános szabályain túl az alábbiakat is be kell tartani:
+
+1\. Az elkülönítés ideje alatt azon a telepen, helyen, ahol az érkező állatokat tartani kívánják, nem lehet olyan fajú állat, amelyre nézve a behozni kívánt állat(ok) veszélyt jelenthet(nek). Ha volt ilyen állat, akkor a telepen a tisztogatást és fertőtlenítést előzetesen el kell végezni.
+
+2\. Az elkülönítésre kijelölt hely (telep, istálló, karám stb.) csak olyan távolságra lehet más állattartó helytől, amely esetben a közvetlen vagy közvetett fertőzés lehetősége kizárható.
+
+3\. A személyek és járművek forgalma ellenőrizhető és dokumentált.
+
+4\. A személyek és járművek fertőtlenítéséhez megfelelő eszközök és fertőtlenítőszerek állnak rendelkezésre.
+
+5\. Az importállatokat a tulajdonos költségére kell karanténozni. A karanténozás időtartama legalább harminc nap, nyúl baromfi és galamb esetében legalább huszonegy nap. Ettől eltérő időtartamot a minisztérium megállapíthat.
+
+## 13. számú függelék[^563]
+
+## 14. számú függelék az Állategészségügyi Szabályzathoz[^564]
+
+## 15. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000\
+**Adatfelvételi lap és jegyzőkönyv**\
+**bejelentendő állatbetegség esetén**\
+**I. Betegségre vonatkozó általános adatok**
+
+1\. Mely betegség vagy gyanúja merül fel: ..........
+
+2\. A betegség leghosszabb és legrövidebb lappangási ideje: .............
+
+3\. A fertőző anyag elvileg lehetséges legkorábbi ürítése az első klinikai tünete időpontjához viszonyítva napokban: .........
+
+**II. **Az érintett helyen tartott állatokra vonatkozó adatok****
+
+1\. Állattartó neve, címe, szig. sz.: ...........
+
+2\. Állatok tartózkodási helye: .................
+
+3\. Állatok
+
+faja: ..........................
+
+fajtája: .......................
+
+kora: ..........................
+
+neme (vemhesség): ..............
+
+hasznosítás iránya: ............
+
+darabszáma: ....................
+
+egyedi jelölése: ...............
+
+marhalevél száma: ..............
+
+becsült súlya: .................
+
+**III. **Aktuális adatok a betegséggel kapcsolatban****
+
+1\. Ki jelentette a betegséget, mikor és kinek:
+
+..............................................
+
+2\. Fogékony állatok ebből beteg:
+
+faja: ..........................
+
+fajtája: .......................
+
+kora: ..........................
+
+neme (vemhesség): ..............
+
+hasznosítás iránya: ............
+
+darabszáma: ....................
+
+jelölése:
+
+3\. Első klinikai tünetek észlelésének ideje: ...
+
+4\. Észlelt klinikai tünetek kronologikusan: ....
+
+................................................
+
+5\. A fertőződés lehetséges legkorábbi ideje (figyelemmel az első klinikai tünetek időpontjára és a leghosszabb lappangási időre): ................
+
+6\. Ellátó állatorvos neve, címe: ...............
+
+7\. Állattartási napló: .........................
+
+8\. Gyógyszerfelhasználási napló: ...............
+
+**IV. **Fertőződés eredete****
+
+1\. Fertőződés időszakában (figyelemmel a leghosszabb és legrövidebb lappangási időre) érintkezés fogékony *állattal:* pl. vásárlás, csere, piac, vásár, ajándékozás, legelő, mérlegelés, meghiúsult szállítás (visszavitel felvásárlóhelyről), vemhesítés stb.:
+
+..................................................
+
+..................................................
+
+2\. Fertőzésközvetítő *állati termékkel* való érintkezés fertőződés időszakában:
+
+rendes vagy kényszervágásból hús, tej, tejtermék, tojás, kóstoló, ételmaradék, moslék idegen helyről, vágóhídi melléktermék, mesterséges termékenyítés stb.:
+
+..................................................
+
+..................................................
+
+3\. Kontaktus fertőzésközvetítő takarmánnyal a fertőződés időszakában:
+
+takarmány, táp, gabona, szálas, kiegészítők, göngyöleg stb.
+
+..................................................
+
+..................................................
+
+4\. Fertőzésközvetítő egyéb tényezőkkel való érintkezés:
+
+személyek (rendezvény, búcsú, esküvő, családi összejövetel):
+
+..................................................
+
+termékenyítő állatorvos, fuvareszközök, tárgyak, eszközök, trágya stb.:
+
+..................................................
+
+**V. **Fertőzés (betegség) tovaterjedésének lehetőségei****
+
+1\. Fertőződés ideje (III/5.) óta került-e ki fogékony állat a fertőzött állományból, pl. vágóhídra, vásárra, piacra, eladás révén, ajándékozás, dajkaságba adás stb. útján:
+
+..................................................
+
+2\. Fertőződés ideje (III/5.) óta érintkezett-e fogékony állattal a fertőzött udvar állata (meghiúsult vásár, leadás helyéről visszaszállítás esetén, vemhesítés):
+
+..................................................
+
+3\. Fertőződés óta (III/5.) került-e ki fertőzött állományból állati termék:
+
+rendes vagy kényszervágásból, hús, kóstoló, tej, tejtermék, piac, tojás stb.:
+
+..................................................
+
+4\. Fertőződés óta (III/5.) került-e ki fertőzésközvetítő tárgy, takarmány, eszköz, gépkocsi, (egyéb fuvareszköz), alom, trágya, mely fogékony állatokkal érintkezett:
+
+..................................................
+
+5\. Fertőződés óta (III/5.) az itt fertőzött állatokkal kontaktusba került személyek (állattartó, vendég, segítő, inszeminátor, állatorvos) fogékony állatokat tartó udvarokban, telepeken járt-e és hol:
+
+..................................................
+
+**VI. **Állathigiéniai körülmények****
+
+Ólak, istállók alapterülete, magassága:
+
+fűtés: .............................
+
+világítás: .........................
+
+szellőztetés: ......................
+
+padozat: ...........................
+
+etetők, itatók: ....................
+
+használt fertőtlenítők: ............
+
+jelenlegi készletük: ...............
+
+utolsó fertőtlenítés ideje: ........
+
+az állatokról alkotott összbenyomás:
+
+....................................
+
+helyszínrajz (melléklet szerint) ...
+
+**VII. **Helyszíni intézkedések****
+
+................................................
+
+................................................
+
+................................................
+
+**VIII. **Közegészségügyi vonatkozás****
+
+................................................
+
+................................................
+
+................................................
+
+**IX. **Állategészségügyi Intézeti vizsgálat****
+
+................................................
+
+................................................
+
+................................................
+
+Az állattartó a feltett kérdéseket megértette, az adott válaszai a valóságnak megfelelnek.
+
+Hely: ............................
+
+Dátum: ...........................
+
+..........
+
+állattartó
+
+...................
+
+hatósági állatorvos
+
+## 16. számú függelék az Állategészségügyi Szabályzathoz[^565]
+
+16\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000
+
+| … Járási Hivatal |  |
+|---|---|
+|  | Negyedkód: |
+
+**KIMUTATÁS**
+
+**a fertőző állatbetegségek állásáról**
+
+**19.... év ........... hó ....-napig**
+
+Összeállította:
+
+<table><thead><tr><th rowspan="2">**Város, község neve**</th><th colspan="4">**Város, község**</th><th colspan="4">**Udvar**</th><th rowspan="2">**Megáll./** **megsz. napja**</th><th rowspan="2">**Állatfajta**</th></tr><tr><th>**Előző állapot**</th><th>**Új**</th><th>**Megszűnt**</th><th>**Jelen állapot**</th><th>**Előző állapot**</th><th>**Új**</th><th>**Megszűnt**</th><th>**Jelen állapot**</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 17. számú függelék az Állategészségügyi Szabályzathoz[^566]
+
+Vármegye: ................ |_|_|_|_|_|_|_|_|_|_|
+
+Állatorvosi kerület: .......... |_|_|_|_|_|_|_|_|_|_|
+
+Község (város, városi kerület): .... |_|_|_|_|_|_|_|_|_|_|
+
+**NYILVÁNTARTÁS**
+
+**A 19....... évben fennállott, bejelentési kötelezettség alá tartozó**\
+**fertőző állatbetegségekről**
+
+Megjegyzések: Az 1. oldal üres rovataiba a települések statisztikai számjelkódja írandó.
+
+\* A 2. (az ív belső, bal) oldala fejlécének üres rovataiba az érintett állatfajok nevét kell beírni.
+
+** A 3. (az ív belső, jobb) oldala fejlécének felső, üres rovataiba az érintett állatfajok neve, az alsókba ezek mennyisége írandó.
+
+<table><tbody><tr><td rowspan="3">**A község (város,** **városi kerület) neve**</td><td colspan="3">**A betegség**</td><td colspan="2">**A fertőzött helyek** **(udvarok stb.)** **száma a betegség**</td><td colspan="10">**A fogékony állatok létszáma a fertőzött**</td></tr><tr><td rowspan="2">**neve**</td><td rowspan="2">**megálla-** **pításának** **napja**</td><td rowspan="2">**megszű-** **nésének** **napja**</td><td rowspan="2">**megálla-** **pításakor**</td><td rowspan="2">**tartama** **alatt**</td><td colspan="5">**községben** **(városban, városi** **kerületben)**</td><td colspan="5">**helyeken** **(udvarokban stb.)**</td></tr><tr><td></td><td></td><td></td><td></td><td>*****</td><td></td><td></td><td></td><td></td><td>*****</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="30">**A betegség tartama alatt**</td><td rowspan="4">**Jegyzet**</td></tr><tr><td colspan="5">**megbetegedett**</td><td colspan="5">**elhullott**</td><td colspan="5">**levágott (leölt,** **kiirtott)**</td><td colspan="5">**vakcinázott**</td><td colspan="5">**kezelt**</td><td colspan="5">**gyógyult**</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="30">**állatok (méhcsaládok)** ***száma*****, halak** ***tömege (t)*********</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 18. számú függelék az Állategészségügyi Szabályzathoz
+
+**Útmutató**
+
+**a fertőtlenítésről**
+
+*I. A fertőtlenítés általános szabályai*
+
+*1. A fertőtlenítés célja*
+
+*A)* A fertőző állatbetegségek megelőzése és az állatok csíraszegény környezetének kialakítása céljából fertőtleníteni kell.
+
+A preventív fertőtlenítés lehet
+
+*a)* folyamatos (a termelési folyamat teljes tartama alatt),
+
+*b)* időszakonként (a termelési folyamat végén, új állomány betelepítése előtt).
+
+*B)* A fertőző állatbetegség leküzdése céljából fertőtleníteni szükséges:
+
+*a)* betegség időtartama alatt:
+
+folyamatos,
+
+ismételt,
+
+előzetes fertőtlenítés.
+
+*b)* a zárlat feloldása előtt vagy más betegségleküzdő intézkedés befejezésekor (végfertőtlenítés).
+
+*2. A betegségek megelőzése és leküzdése során a fertőtlenítés módja lehet*
+
+– egyszerű fertőtlenítés (célja csíraszámcsökkentés),
+
+– szigorított fertőtlenítés (célja meghatározott kórokozók elpusztítása).
+
+*3. A fertőtlenítőszerek, tárolásuk és használatuk*
+
+*a)* Fertőtlenítőszerek
+
+Lúgok:
+
+– Mésztej:
+
+1 kg égetett mészre 1 liter vizet majd a mész
+
+szétesése után keverés közben 3 liter víz,
+
+1 kg oltott mészhez 1 liter víz.
+
+– Nátrium-hidroxid 2–4%-os oldata – pH 10 felett
+
+– Kálium-hidroxid 2–4%-os oldata
+
+– Nátrium-karbonát 3–6%-os oldata (szóda oldat)
+
+– Nátrium-metaszilikát 1%-os oldata
+
+Foszfortartalmú fertőtlenítőszerek:
+
+– ásványi savak 1–2%-os oldata
+
+– szerves savak
+
+– citromsav 0,4%-os oldata – pH 4 alatt
+
+– szulfominsav 0,2%-os oldata – pH 6 alatt
+
+– ortofoszforsav 0,3%-os oldata – pH 4 alatt
+
+– tejsav 1–2%-os oldata – pH 4 alatt
+
+– hangyasav 1–2%-os oldata – pH 4 alatt
+
+Klórtartalmú fertőtlenítőszerek:
+
+– Hipokloritok
+
+– Nátrium-hipoklorit
+
+(aktív klórtartalma 9–12%) 3–6%-os
+
+oldatban
+
+– Klóros mész
+
+(aktív klórtartalom 25–30%) 2,0%-os oldatban
+
+Aldehidek:
+
+– Formalin (a formaldehid 36–40%-os oldata)
+
+1–6%-os oldatban. 15 °C hőmérséklet alatt
+
+hatása mérsékelt, ezért használata nem javasolt.
+
+Jodoforok:
+
+1–5%-os oldatban pH: 2,5–4,0
+
+Egyéb: FM Állategészségügyi és Élelmiszerellenőrzési Főosztály által közzétett további anyagok.
+
+*b)* Törekedni kell arra, hogy a szóda oldatát különösen a paraziták fertőzőképes alakjai ellen forró állapotban használják.
+
+Klórtartalmú fertőtlenítőszereket 30–40 °C-nál magasabb hőmérsékletű oldatban nem célszerű alkalmazni.
+
+Klórtartalmú fertőtlenítőszereket melegtől, fénytől védett helyen üveg, műanyag vagy ép zománcú fémedényben kell tartani.
+
+Felhasználás előtt hatékonyság szempontjából meg kell vizsgálni a kémhatását (pH) és az aktív klórtartalmát.
+
+Robbanás veszélye miatt a raktározás és felhasználás közben ügyelni kell arra, hogy klórtartalmú fertőtlenítőt formalinos tárolóedénybe – és fordítva – ne öntsenek. Célszerű a tárolóedényeket tartósan megjelölni.
+
+*c)* A fertőtlenítéshez szükséges fertőtlenítőoldat
+
+– mennyiségét,
+
+– a kijuttatás nyomását,
+
+– szemcsenagyságot a fertőtlenítendő felület minősége és nagysága, a megelőző takarítás színvonala határozza meg. Nagynyomású (10–20 bár) fertőtlenítő berendezés használata esetén az egy m<sup>2</sup> fertőtlenítéséhez szükséges oldat mennyisége:
+
+– fólia 0,1 liter,
+
+– sima beton, csempével, olajfestékkel bevont felület 0,2 liter,
+
+– gyalulatlan deszka vagy meszelt felület 0,5 liter,
+
+– téglafelület 1 liter,
+
+– döngölt agyagfelület 1,5 liter,
+
+– laza, homok felület 3,0 liter.
+
+Kisnyomású fecskendő használata esetén a fenti oldatmennyiség másfélszeresét kell alkalmazni.
+
+*4. A fertőtlenítés megkezdésekor a fertőtlenítést irányító hatósági állatorvosnak ügyelni kell arra, hogy*
+
+– a fertőtlenítést végző személy egészségügyi alkalmasságát tanúsító okmánnyal rendelkezzen,
+
+– a fertőtlenítést végző dolgozó munkavédelmi oktatásban részesült-e,
+
+– a megfelelő munkavédelmi eszközök és öltözék rendelkezésre állnak-e (ezek: gumicsizma, vizet át nem eresztő overál, gumikesztyű, védősisak, gázálarc, védőszemüveg),
+
+– amennyiben az épületben állatok vannak, olyan fertőtlenítőszert kell alkalmazni, amely az állatok egészségét nem károsítja,
+
+– munka közben étkezni, dohányozni tilos,
+
+– a dolgozóknak az erősen savas vagy lúgos oldatok kezelése, keverése idején lehetőséget kell teremteni arra, hogy a bőrfelületre került anyagot azonnal lemossák (konyhasóoldat: 9 g 1 liter desztillált vízben, bórsavoldat: 10 g 1 liter desztillált vízben),
+
+– a fertőtlenítéshez olyan nyomást és szemcsenagyságot kell alkalmazni, hogy a tevékenység az építményben felesleges károsodást ne okozzon.
+
+*II. A fertőtlenítés végrehajtása*
+
+*1. Az ember és környezetének fertőtlenítése*
+
+Testfelület, textil, bőr, lakás, szociális helyiségek fertőtlenítése kizárólag az erre a célra a közegészségügyi hatóság által engedélyezett készítményekkel, az előírt módon végezhető.
+
+*2. Az állattartási épületek és környezetük fertőtlenítése*
+
+*a)* Egyszerű fertőtlenítés végrehajtásának sorrendje:
+
+– az épület áramtalanítása,
+
+– portalanítás vízpermettel,
+
+– technológiai berendezések kihordása,
+
+– trágya eltávolítása, a mennyezet, szellőző, kürtők, oldalfalak, padozat fizikai takarítása,
+
+– épület nagynyomású vízsugárral való mosása,
+
+– a kihordott technológiai berendezések mosása majd visszahordása a kimosott épületbe,
+
+– az épület környezetének takarítása, burkolt felületek nagynyomású vízsugárral való lemosása,
+
+– az épület belső terének (mennyezet, oldalfalak, padozat), továbbá a visszahordott berendezések magasnyomású fertőtlenítő berendezéssel való fertőtlenítése,
+
+– az épület nyílászáróinak zárása,
+
+– az épület külső felületének és környezetének fertőtlenítése.
+
+*b)* A szigorított fertőtlenítés végrehajtásának sorrendje:
+
+– az épület áramtalanítása,
+
+– az épület belső terének portalanítása a hatósági állatorvos által előírt nemű és koncentrációjú fertőtlenítő oldattal,
+
+– a portalanítás mellett, a fertőtlenítőoldattal a technológiai berendezéseket le kell mosni, a trágyát el kell áztatni,
+
+– a technológiai berendezéseket ki kell hordani,
+
+– a trágyát ki kell hordani, a telep területén szarvasba kell rakni, le kell fertőtleníteni földdel le kell takarni,
+
+– gépi és kézi eszközökkel az épület fizikai takarítását el kell végezni, a takarításnak az épület belső légterén kívül ki kell terjedni a padlástérre és a trágyacsatornára is,
+
+– az épület belső mosását magasnyomású vízsugárral kell elvégezni,
+
+– a nem tisztítható fából készült berendezéseket el kell égetni,
+
+– az agyagpadozatot 10 cm mélységben fel kell szedni,
+
+– a vízáteresztő padlóburkolatot fel kell szedni,
+
+– kifutók, karámok takarítása, mosása,
+
+– az épületen kívül megtisztított berendezések visszahordása,
+
+– az épület belső terének, padlásterének, trágyacsatornájának fertőtlenítése a betegségre meghatározott nemű és koncentrációjú magasnyomású (10–20 bár) berendezéssel kijuttatott fertőtlenítőszerrel,
+
+– az épület zárása,
+
+– az épület külső felületének, környezetének, utaknak a fertőtlenítése,
+
+– bejelentési kötelezettség alá tartozó fertőző állatbetegség esetén fertőtleníteni kell mindazokat a helyeket és helyiségeket, ahol beteg, betegségre gyanús állat megfordult, tartózkodott, elhullott vagy levágták, illetve leölték, ahova az állat terméke eljutott.
+
+Fertőtleníteni kell azon személyeket, illetve tartózkodási helyüket, akik a beteg, betegségre gyanús állatokkal vagy termékeikkel kapcsolatba kerültek.
+
+*Egyes bejelentési kötelezettség alá tartozó fertőző állatbetegségek*\
+*megelőzésénél és leküzdésénél használható fertőtlenítőszerek*
+
+*Betegség*
+
+*Fertőtlenítési útmutató*
+
+-------------------------
+
+1\. Ragadós száj- és körömfájás
+
+Habzó szóda 4%
+
+(Nátrium-karbonát)
+
+Klórlúg 3%
+
+Formalin 3% (15 °C felett)
+
+Citromsav 0,4% – pH 4 alatt
+
+Ortofoszforsav 0,3% – pH 4 alatt
+
+Szulfaninsav 0,2% – pH 6 alatt
+
+Jodoforok 2,0%
+
+Nátrium-hidroxid 2,0%
+
+Nátrium-metaszilikát 1,0%
+
+Továbbá minden olyan készítmény,
+
+melynek pH-ja 4 alatt vagy 11 felett van
+
+2\. Sertések hólyagos betegsége
+
+Nátrium-hidroxid 1–2%
+
+Kálium-hidroxid 1–2%
+
+Klórlúg 3–5%
+
+Jodoforok 2,0%
+
+Megjegyzés: formalin használata tilos!
+
+3\. Keleti marhavész
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+4\. Afrikai sertéspestis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+5\. Klasszikus sertéspestis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+6\. Madárinfluenza
+
+(klasszikus baromfipestis) Kálium-hidroxid 2,0%
+
+Nátrium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+7\. Newcastle-betegség (baromfipestis)
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+8\. Szarvasmarha-gümőkór
+
+Klórlúg 6,0%
+
+9\. Fertőző sertésbénulás
+
+Klórlúg 3,0%
+
+10\. Veszettség
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+11\. Takonykór
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+12\. Lovak fertőző kevésvérűsége
+
+Nátrium-hidroxid 4,0%
+
+Kálium-hidroxid 4,0%
+
+Klórlúg 4,0%
+
+13\. Nyulak vérzéses betegsége
+
+Formalin 4,0% (15 °C külső hőm. felett)
+
+Klórlúg 4,0%
+
+Nátrium-hidroxid 4,0%
+
+14.[^567]
+
+15\. Brucellózis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+16\. Aujeszky-féle betegség Nátrium-hidroxid 3,0%
+
+Kálium-hidroxid 3,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+17\. Lépfene
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+18\. Pontyfélék tavaszi viraemiája
+
+Klórlúg 5,0%
+
+Klórmészoldat 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+Mésztej 20%
+
+*3. Takarmány és göngyöleg fertőtlenítése*
+
+A takarmányban levő száj- és körömfájás vírus az alábbi módon pusztítható el:
+
+– Az épületekbe kihordott szálastakarmányt, szilázst a trágyával azonos módon kell ártalmatlanná tenni.
+
+– Az épületekhez tartozó tartályokban (silókban) etetőberendezésekben levő abraktakarmányt el kell ásni vagy állati hulladék feldolgozóba kell feldolgozni.
+
+– Hideg fermentációval (silózással), ha a pH-érték legfeljebb 4 (szükség esetén a pH-érték hangyasavval beállítható).
+
+– Meleg fermentációval (silózással), ha a hőmérséklet legalább 55 °C szúróhőmérővel ellenőrizve.
+
+– A szálas takarmány (kazal) felületének 3%-os formalinoldat 15 °C alatti hőmérsékleten vagy szerves savakból készült oldat kipermetezésével.
+
+– Forró levegős szárítással, ha a kiáramló levegő hőmérséklete legalább 80 °C.
+
+– Gőzzel való granulálással, ha a granulátum 80 °C-ra felmelegszik (célszerű a hőmérsékletet 20–30 percig fenntartani).
+
+– Szemes kukorica legfeljebb pH 4 kémhatású propinsavval történő átmosásával, esetleges utólagos silózással.
+
+– A fertőzött szemes árpát, zabot és takarmánybúzát 0,8%-os formaldehid-oldat gőzével lehet fertőtleníteni (10 liter/100 kg takarmány mennyiségben), a permetezés után vizet át nem eresztő műanyag fóliával a fertőtlenített szemestakarmányt le kell fedni és 6 órán át így tartani. A takarmányt felhasználás előtt 24 óráig szellőztetni kell, és elsősorban nem fogékony állatokkal etetni.
+
+– A silózott szemes kukorica- vagy kukoricacső-zúzalék bontási felületének 1%-os hangyasavoldattal való permetezésével (3 liter/m<sup>2</sup>).
+
+– A burgonya felfőzésével.
+
+– A tej forralásával vagy 80 °C-ra való melegítésével.
+
+– A takarmánynövényzet vagy legelőgyep felületére m<sup>2</sup>-enként 0,3–1 liter 3%-os klórlúgoldat vagy 10%-os vizes szuperfoszfát permetezhető a növényzet számottevő károsodása nélkül.
+
+– Jutazsákokat porszívózás után 20 órára olyan zárt és legalább 18 °C-ra fűtött térben kell felfüggeszteni, amelyben légköbméterenként 150 cm<sup>3</sup> formalint ugyanannyi vízzel elpárologtatnak (pl. 40 g káliumpermanganáttal vagy melegítve), a porzsák tartalmát a hullákkal azonos módon kell ártalmatlanná tenni.
+
+– A fóliás vagy szövött műanyag zsákokat, szárítóberendezés esetén a jutazsákokat is, 3 órára 5%-os formalinoldatban vagy 2%-os nátronlúgoldatban kell áztatni.
+
+Fenti eljárást kell értelemszerűen alkalmazni valamennyi bejelentési kötelezettség alá tartozó állatbetegség esetén.
+
+*4.*[^568] *A kutak fertőtlenítése*
+
+Kutakat klórmésszel, magnolmésszel vagy klórlúggal kell fertőtleníteni.
+
+Ásott kút fertőtlenítéséhez minden m<sup>3</sup> vízre 30 g magnolmeszet vagy 100 cm<sup>3</sup>klórlúgot kell számítani, és azt 0,3 liter vízben feloldva, teljes oldódás után a kútba kell önteni. A kútból 24 óráig vizet meríteni nem szabad.
+
+Fúrt kút fertőtlenítése céljából 100 g magnolmeszet vagy 300 cm<sup>3</sup> klórlúgot kell 1 liter vízben feloldani, és az oldatot a fúrás csövébe kell önteni. Ez az eljárás csak a 30–40 m mélységű fúrt kutakra vonatkozik.
+
+Ennél mélyebb fúrt kutak fertőtlenítése esetén a területileg illetékes vízügyi hatóságot értesíteni kell.
+
+A víztárolót ugyanúgy kell fertőtleníteni mint az ásott kutat, de mind a klórmészből, magnolmészből vagy klórlúgból, mind pedig az oldóvízből kétszeres mennyiséget kell felhasználni.
+
+A kútvíznek 24 óra múlva még klórszagúnak és klórízűnek kell lennie (túlklórozás), ellenkező esetben a klórozást meg kell ismételni. Ha a klórszag és a klóríz nem érezhető, a kutat alaposan ki kell merni. A fúrt kút vizet addig kell szivattyúzni, amíg a víz klórszagát és ízét elveszti.
+
+A kút súlyosabb fertőzöttségének gyanúja esetén a fertőtlenítést kétszer-háromszor meg kell ismételni.
+
+*5. A szennyvíz és a trágya fertőtlenítése*
+
+*A)* A bejelentési kötelezettség vagy mentesítési eljárás alá vont betegségek kórokozóival nem fertőzött állattartó telepeken a trágyalé- és hígtrágyacsatornák, továbbá -aknák tartalmát, a fürösztők, az úsztatómedencék és a pocsolyák vizét a következő módszerekkel lehet ártalmatlanná tenni.
+
+*a)* Fizikai módszerekkel végzett fertőtlenítés:
+
+– pasztőrözés (30 percig 70 °C-on),
+
+– pillanatsterilezés (15–20 másodpercig 120–130 °C-on),
+
+– háromszakaszos hőkezelés (3 X 20 percig 90–110 °C-on),
+
+– hővel történő szárítás (110–280 °C-on),
+
+– gammasugarak vagy elektrongyorsítóval előállított bétasugarak (min. 4kGy.).
+
+*b)* Kémiai módszerekkel végzett fertőtlenítés:
+
+– égetett mész legalább 20 kg/m<sup>3</sup>vagy oltott mész legalább 30 kg/m<sup>3</sup>,
+
+– a vegyhatás módosítása meszezéssel (3 órán át pH 12),
+
+– 0,1–4%-os formalinoldat létesítése (pH 9,5–10,5 és min. 15 °C esetén).
+
+*c)* Biológiai és kombinált módszerek:
+
+– hosszú idejű tárolás (90 nap 15–20 °C-on, 140 nap 4–6 °C-on),
+
+– mechanikai, kémiai, biológiai kezelés kiegészítése meszezéssel (2 órán át, pH 10,5–11,5),
+
+– folyékony komposztálás (levegőbevitel 4–5 napig 50 °C-on, majd 21 nap tárolás),
+
+– anaerob rothasztás (30 napig min. 30 °C-on), és
+
+– szűrőmezőn történő elhelyezés (min. 180 cm-es talajrétegen való szűrés, a szűrőkazettákat be kell keríteni.
+
+*d)* Várakozási idők megtartása növényzet öntözése után: egyszerű fertőtlenítésnek minősül az, ha szálastakarmány és legelőnövényzet öntözése után a begyűjtésig vagy a legelőre hajtásig 21 nap telik el, továbbá a takarmánygabonát szárbaszökkenése, a kukoricanövényt a 30 cm-es szármagasság elérése után nem öntözték.
+
+*B)* A bejelentési kötelezettség vagy mentesítési eljárás alá vont betegségek kórokozóival történt fertőzöttség esetén a trágyalé-, hígtrágyacsatornák és -aknák, továbbá a fürösztők, úsztatómedencék és pocsolyák tartalmát a betegségenként meghatározott fertőtlenítő oldat létesítésével kell fertőtleníteni. Ezután a nem fertőtleníthető medencék tartalmával együtt – tartálykocsival, csővezetéken – a fertőtlenített szennyvizet (híg trágyát) ki kell juttatni a kijelölt zárlattérre: a szántóterületen esőztetve kell kiöntözni, a talajra teríteni, mélyárkos módszerrel a füzesek vagy nyárfások, mélybarázdás módszerrel a kukorica területe öntözhető. A szennyvíz (hígtrágya) elszikkadása után az öntözött területet le-, illetőleg beszántással vagy más módon le kell földelni. A beszántás minőségének ellenőrzésére az előzetesen a talajra vitt mészpor eltűnéséből lehet következtetni.
+
+*6. Az almostrágya és a hígtrágya szilárd fázisának fertőtlenítése*
+
+*a)* A tisztítás alatt és az azt megelőzőleg összegyűjtött almostrágyát, almot, takarmányhulladékot, szemetet, valamint a fertőtlenített helyiség talajáról kihordott földet, homokot – a szennyvizet és trágyalevet is hozzákeverve – és lehetőleg a hígtrágya szilárd fázisát fülleszteni kell. A füllesztés céljából összegyűjtött anyaghoz szükség szerint annyi szalmát vagy falevelet kell keverni, hogy az utóbbi aránya a bélsárhoz 3:2 legyen, ha pedig száraz, m<sup>3</sup>-enként 10–15 liter vizet kell adni. A füllesztendő anyagot 25 cm vastag szalma- (falevél-) rétegre legalább 1,5 méter magas és széles kupacokba (halomba) kell rakni és a tetejére legalább 10 cm vastag szalma- (falevél-) réteget kell helyezni, majd az egészet 20 cm vastag földréteggel kell befedni.
+
+A befedett trágyarakásnak legalább 55 °C-ra kell felmelegednie, a hőmérsékletet szúróhőmérővel ellenőrizni kell. A kellőképpen fel nem melegedett szélső részeket 3 nap múlva a halom közepébe kell lapátolni, majd a halmot újból földdel befedni és legalább három hétig bontatlanul hagyni.
+
+A spórák kivételével a kórokozók ennyi idő alatt elpusztulnak.
+
+A komposztáláshoz 3 nap érlelés is elegendő a hőfejlődés után pH 12 kémhatású lúg hozzáadása esetén.
+
+Fagyott almostrágyát nem szabad füllesztésre összerakni. Az ilyen trágyát 10 cm vastag földréteggel vagy rögzített műanyagfóliával kell letakarni.
+
+*b)* Ha az anyag önmagában nem képez komposztot és viszonylag nagy mennyiségű (tömött almostrágya, a hígtrágya szilárd fázisa), azt a zárlattérre kell szállítani és ott beszántással vagy más módon elföldelni. Ezután a kiszállítás útvonalát és a járművet, továbbá a közreműködő személyeket a talaj-, jármű- és személyfertőtlenítés szabályai szerint fertőtleníteni kell.
+
+*7. Járművek, állatrakodó helyek fertőtlenítése*
+
+Az állat, alom, takarmány és trágyalé szállítására használt gépkocsit, vasúti kocsit, repülőgép- vagy hajórekeszt és egyéb járművet, továbbá ezek felszerelését a következők szerint kell tisztítani és fertőtleníteni:
+
+*a)* A tisztítás során a trágyát, almot fel kell lazítani és el kell távolítani. Ezután forró vízzel, valamint kaparó- és surolóeszközök segítségével a padlóra, az oldalfalakra tapadt trágyát le kell választani és vízsugárral el kell távolítani. A tisztítást addig kell folytatni, amíg a vasúti kocsi, hajó, hajórekesz belseje teljesen kitisztul és a bűz megszűnik. Hasonlóképpen kell a trágyától megtisztítani a vasúti kocsihoz, hajóhoz, hajórekeszhez tartozó összes felszerelést. A takarítás magasnyomású vízsugárral is elvégezhető.
+
+*b)* Egyszerű fertőtlenítés esetén a padlót, a mennyezetet és a falakat legalább 50 °C-ra melegített vízzel meg kell mosni, majd 2%-os klórlúg- vagy nátronlúgoldattal, korrózióra érzékeny részek esetén 2%-os formalinoldattal be kell permetezni.
+
+*c)* A fertőtlenítésnek az egész kocsira, repülőgép- vagy hajórekeszre ki kell terjednie még abban az esetben is, ha annak csak egy részét használták állatszállításra. Szennyeződés esetén a kocsi külső felületét, az ajtókat, vasalásokat, a kocsi futóművét és alvázát is meg kell tisztítani és fertőtleníteni.
+
+*d)* Az állatok be- és kirakására használt rámpákat, hidakat és egyéb eszközöket, valamint a rakodóhelyeket, rakodóudvarokat tisztára kell seperni, s azután tiszta vízzel bőven le kell öblíteni. Az esetleg szükséges fertőtlenítést a vizsgáló állatorvos irányítása és ellenőrzése mellett kell végrehajtani.
+
+*e)* A fertőtlenítéshez használatos eszközöket (lapátokat, seprők, tömlők, villák, kaparószerszámok, hordók, permetezők stb.) jó karban, a fertőtlenítőanyagokat pedig erre a célra szolgáló elzárható helyen kellő mennyiségben készletben kell tartani. A fertőtlenítő oldatokat felügyelet alatt kell készíteni. A fertőtlenítendő vasúti kocsikat úgy kell a (mosó-) fertőtlenítővágányra állítani, hogy az egyszerű fertőtlenítést igénylő kocsik egymás mellé kerüljenek.
+
+*f)* A járművekből kitakarított, továbbá vasút- és hajóállomásokon, repülőtereken, gépkocsi-rakodóhelyeken levő trágyát, almot, hulladékot és szemetet gondosan össze kell gyűjteni és félre kell rakni. Az összegyűjtött trágyát, almot, hulladékot és szemetet lehetőleg minél előbb, illetőleg minél gyakrabban el kell hordani. Az elhordásra olyan kocsikat vagy tartályokat kell használni, amelyek tartalma ki nem hullhat, illetőleg ki nem folyhat. Fertőtlenítés szükségessége esetén ezeket az anyagokat el kell égetni vagy el kell ásni, vagy olyan helyre szállítani, ahol embert vagy állatot nem fertőzhet.
+
+*g)* A járműveket, állatrakodó helyeket szigorított módon kell fertőtleníteni hatósági rendelkezésre, továbbá anélkül is akkor, ha kérődző állatot vagy sertést olyan állomásról szállítottak, amelynek 20 km-es körzetében ragadós száj- és körömfájás áll fenn, továbbá, ha a sertéseket fertőző sertésbénulással fertőzött vagy emiatt védőkörzetbe vont községből szállították. Szigorított fertőtlenítés esetén az egyszerű fertőtlenítésen felül a padlót, a mennyezetet és a falakat az egyes betegségekre meghatározott anyagok felhasználásával be kell permetezni. Ha a fertőtlenítés módját jelző bárcán az állatbetegség nincs feltüntetve, a fertőtlenítést 2%-os formalin, 3%-os klórlúg- vagy nátronlúgoldattal kell elvégezni.
+
+*8. Állatok és egyes állati termékek fertőtlenítése*
+
+*a)* A tőgybimbó bőrének fejés utáni fertőtlenítésére pl. Demast-emulzió vagy 10–33%-os bőrkímélő hatású jodoforoldat vagy más, erre a célra engedélyezett szer használható.
+
+*b)* Újszülött állatok köldökének fertőtlenítésére lehetőleg színes fertőtlenítőoldatot (pl. 10%-os fakátrány, 5%-os pioktanin) kell használni.
+
+*c)* Bejelentési kötelezettség alá tartozó fertőző állatbetegségben elhullott, levágott vagy leölt állatok bőrét csak a 11. pontban meghatározott sózás vagy savas kezelés után szabad felhasználni vagy forgalomba hozni, kivéve, ha az egyes fertőző állatbetegségek leküzdésére vonatkozó szabályok más eljárást tesznek kötelezővé.
+
+*d)* Fertőző állatbetegségben beteg vagy betegségre gyanús állat szőrét, sertéjét vagy tollát – ha az egyes bejelentési kötelezettség alá tartozó fertőző betegségek leküzdésére vonatkozó szabályok ezt lehetővé teszik – a bőrrel együtt az előző bekezdés szerint, a bőrtől elválasztva pedig 0,5–1 órán át tartó főzés után szabad forgalomba hozni.
+
+*e)* Bejelentési kötelezettség alá tartozó fertőző állatbetegségben beteg vagy betegségre gyanús és egészséges állat összekeveredett szőrét, sertéjét, illetőleg tollát is csak az előbbi bekezdésben meghatározott módon szabad felhasználni vagy forgalomba hozni. Csak akkor nem kell főzni, ha a szőrt, sertét vagy tollat zsákban közvetlenül a feldolgozó üzembe szállítják. Ebben az esetben azonban a zsákokat „Nem fertőtlenített” felirattal kell ellátni, és a kísérőokmányon a feldolgozó üzemmel közölni kell azt, hogy a szállítmányt nem fertőtlenítették. A szállításhoz használt zsákokat kiürítés után fertőtleníteni kell (lásd a II. 3. pontot).
+
+*f)* Rühös, továbbá juhrühösségre gyanús juhokról, illetőleg elhullott, levágott vagy leölt rühös juhok bőréről lenyírt gyapjút csak akkor szabad forgalomba hozni, ha legalább 6 hétig száraz, szellős helyen tartották. Juhokra fertőző egyéb bejelentési kötelezettség alá tartozó betegségben beteg vagy betegségre gyanús állatokról, illetőleg ilyen elhullott, levágott vagy leölt állatok bőréről lenyírt gyapjút 3 óráig 1%-os formalinoldatban kell áztatni.
+
+*9. Állatifehérje üzemek és hullakamrák fertőtlenítése*
+
+*a)* Az állatifehérje üzemek és a hullakamrák, felszerelésük és a hulla(dék)szállító járművek folyamatos és időszakos egyszerű fertőtlenítésére csak szagtalanító hatású (pl. klórtartalmú) szerek használhatók. A betegségleküzdő szigorított fertőtlenítésre a II. 11. pont szerinti betegségleküzdő fertőtlenítés előírásai az irányadók.
+
+*b)* A szennyezet övezet helyiségeit és a hullakamrákat az istállókhoz hasonlóan kell fertőtleníteni, de előtte különös gonddal kell a zsíros állati testrészekkel érintkező padlót és egyéb felületeket megtisztítani a vágóhídak tisztításához használt szerekkel.
+
+*c)* A tiszta övezet helyiségeit (terméktárolókat stb.) a lakóhelyiségekhez hasonlóan kell kitakarítani, majd fertőtleníteni.
+
+*d)* A gépek, berendezések, különösen a csővezetékek és a hulla(dék)szállító járművek, tartályok megtisztításakor különös gonddal kell a nyersanyag, a félkész vagy késztermék visszamaradására alkalmas zugokat kitakarítani. A fémrészek korróziójának megakadályozására a belső felületekre 2–5%-os formalinoldatot kell lecsorgásig permetezni vagy a zárt tartályokban, csövekben ködszerűen szétpermetezni (aeroszol-generátorral).
+
+*e)* Ha a 11. pontban előírt sózás után a tárolási idő nem tartható, vagy a lépfene gyanúja nem zárható ki, a bőrt 24 óráig 24 °C-on 3%-os konyhasóoldatban, majd 48 óráig 28 °C-on 2% sósavat és 10% konyhasót tartalmazó oldatban kell tárolni.
+
+*10. A baromfikeltetők és a tojás fertőtlenítése*
+
+*a)* A tenyésztojást begyűjtése után, lehetőleg kihűlése előtt, fertőtleníteni kell. A víziszárnyasok tojásait például 3%-os klórlúg- vagy 0,5–1%-os jodoforoldatban 5–10 percig, 3%-os formalinoldatban 20 percig, 0,1%-os merfenoldatban 10 percig kell áztatni, majd ugyanilyen oldattal lemosni. A tyúktojásokat – ha a keltetésre való alkalmatlanság esetén nem használják étkezési célra – 24 óráig formaldehid-gáztérben kell tartani (pl. légköbméterenként 25 g formalinhoz ugyanennyi víz és 12,5 g káliumpermanganát hozzáadása után).
+
+Étkezési célra való használat előtt a víziszárnyasok tojásait 10 percig forralni kell.
+
+*b)* A tojások a 3–5. és a 18–20. nap közötti időszak kivételével a keltetőgépben ugyancsak formaldehidgázzal fertőtleníthetők. Az üres keltetőgép 5%-os szódaoldattal való lemosás után 3%-os formalinoldat lecsorgásig végzett permetezésével fertőtleníthető. A műanyag-tojástálcákat megtisztítás után az *a)* pontban felsorolt valamelyik oldatban kell áztatással, a papírtálcákat a II. 3. pont szerinti formalin-párologtatással fertőtleníteni.
+
+*c)* A helyiségeket a II. 2. pont szerint kell fertőtleníteni.
+
+*11. A vágóhídak, vágóhídi termékek és melléktermékek fertőtlenítése*
+
+*A)* A vágóhidak fertőtlenítése során:
+
+– preventív folyamatos fertőtlenítést a belépő személyek és a behajtó járművek esetében,
+
+– betegségleküzdő, folyamatos fertőtlenítés a beteg vagy fertőzött állatok napi levágása alkalmával,
+
+– betegségleküzdő időszakos fertőtlenítést (végfertőtlenítést) a fertőzött állomány levágásának befejezése után kell végezni, ez utóbbi sorrendje: járulékos helyiségek, a készáruraktárak, az istállók, a vágóhelyiségek, végül a szennyvíz fertőtlenítése.
+
+A megfelelő fertőtlenítő hatás eléréséhez mindenekelőtt
+
+– el kell távolítani a fa berendezési tárgyakat és alkatrészeket,
+
+– gondoskodni kell a fémből készült tárgyak korróziómentesítéséről,
+
+– ezután össze kell gyűjteni a padozaton, az asztalokon és az egyéb berendezési tárgyakon levő hullladékokat és a durva szennyező anyagokat (1. fázis)
+
+– ezt követi a 30–40 °C-os vízzel való áztatásos lemosás – legalább 10 percen keresztül – a felületekhez ragadt hús, vér, szenny és zsíranyagok fellazítása (2. fázis).
+
+A vegyszeres tisztításhoz kezdetben legalább 40–45 °C-os vízben oldott, jó fehérjeoldó és zsíremulgeáló tulajdonságokkal rendelkező szereket (szóda, UNIPON M–1, Nátronlúg 1–2%-os oldat stb.) lehet használni. A tisztítószer legalább 10 percig érintkezzék a felülettel (3. fázis). A felhasznált szert a felületről csapvízzel le kell mosni (4. fázis).
+
+Egyszerű fertőtlenítés céljából 80 °C-os meleg vizet, 1–2%-os klórlúg vagy UNIPON TF-klór stb.) oldatot kell permet formájában a fertőtlenítendő felületre juttatni. (5. fázis) Vízzel öblítés (6. fázis)
+
+*B)* A ragadós száj- és körömfájás fertőzöttségére gyanús állatok levágása esetén a következőket kell végrehajtani:
+
+*a)* A levágás előtt 0,2%-os citromsavoldattal vagy más, nem káros szerrel kell az állatot lemosni.
+
+*b)* A levágott állatok húsát a tejsavas érés bekövetkezéséig 36 órán át 8–10 °C hőmérsékleten kell tárolni, a tárolás megkezdése előtt a hús felületét 1%-os tejsavoldattal le kell permetezni.
+
+*c)* A beleket 24 órán át 0,3% tejsavat is tartalmazó 0,3%-os hangyasavoldatban kell áztatni.
+
+*d)* A bőr 2% szódát (esetleg 1% naftalint) tartalmazó konyhasóval történő megszórással fertőtleníthető, ha a konyhasó mennyisége a bőr súlyának 30%-át kiteszi. Ezt a sózást egy hét múlva meg kell ismételni. A bőr egy hónap múlva fertőtlenítettnek tekinthető, de csak négy hónapig alkalmas bőripari feldolgozásra.
+
+*e)* A vágóhídi szennyvizet az 5. pontban leírtak szerint kell kezelni. (Pl. a medence telítődését követően oltott mésszel a pH-értéket 11-re kell beállítani.)
+
+*f)* A vágóhídi mellékterméket és a víziszapot csővezetékben vagy zárt tartálykocsikban állatifehérje üzembe lehet szállítani, ahol nagy gőznyomáson (133 °C-on, 20 percig 3 bár nyomáson) sterilizálják.
+
+*g)* A mechanikai tisztítás után kapott szennyvíziszapot az 5. pont szerint is ártalmatlanná lehet tenni.
+
+*12. A tejüzemek és a tejitatás eszközeinek fertőtlenítése*
+
+*a)* A tejüzemek fertőtlenítésekor a helyiségeket a 9., a szállítóeszközöket a 7., a szennyvizet az 5. pont szerint kell fertőtleníteni, illetőleg ártalmatlanná tenni.
+
+A nem fémből készült felületek lemosására a trinátrium-foszfát 2%-os oldata használható.
+
+A tejüzemek csővezetékeit és az egyéb cirkuláltatással (keringtetéssel) tisztítható (pl. a fejő-) berendezést hideg vízzel, ha erősen szennyezett vagy elzsírosodott, akkor 45 °C-os hőmérsékletű vízzel kell átmosni. Az átmosásnak addig kell tartania, amíg a rendszerből kifolyó víz tiszta nem lesz. A cirkulációval tisztítható berendezés olyan tartozékait, amelyekhez az öblítővíz nem fér hozzá, szét kell szedni és kézzel kell leöblíteni.
+
+Az öblítés után 83 °C-os hőmérsékletű, 2–4%-os szódaoldatot vagy a berendezés használati utasításában előírt tisztítószeres oldatot legalább tíz percig cirkuláltatni kell. Ezek után az oldatot le kell engedni és a padozat tisztítására lehet felhasználni. A tisztítószer maradékát vízzel ki kell öblíteni.
+
+Ha a berendezésben savas tisztítószert nem cirkuláltattak, akkor azt egyszerű fertőtlenítéssel 20 °C-os és 0,1–0,2%-os Nitrogenol-oldattal legalább tíz percig kell fertőtleníteni, majd vízzel mindaddig átöblíteni, míg az elfolyó öblítővíz habzik.
+
+A száj- és körömfájás vírusának elpusztítására alkalmas például a NaOH, vagy az UINPON TF-klór 2%-os oldata, amely a tejjel érintkező felületeket egyúttal jól zsírtalanítja.
+
+*b)* A tej egyszerű fertőtlenítésére alkalmasak a különféle pasztőrözési eljárások. Szigorított fertőtlenítés szükségessége esetén, például száj- és körömfájás vírusával vagy gümőbacillusokkal vagy fertőzöttség, illetőleg annak gyanúja esetén a tejet fel kell forralni, vagy legalább 80 °C-on húsz percig tartani.
+
+*c)* A tej vagy tejpótló itatására használt edényeket szétszedve, hideg folyó vízzel kell megtisztítani, majd fertőtlenítő oldattal átöblíteni. Fertőtleníteni az *a)* pontban meghatározott szereken felül 2%-os formalinoldattal vagy klóros fertőtlenítőszerrel lehet. Különösen alkalmasak azok a fertőtlenítőszerek, amelyek egyúttal zsíroszlató (detergens) hatásúak is.
+
+A gumiszopókák felhasználásig 2%-os formalinoldatban tárolhatók. Fertőtlenítés után az eszközöket hideg folyó vízzel kell átöblíteni.
+
+*13. Fertőtlenítés a halgazdaságban*
+
+1\. Fertőtleníteni kell
+
+*a)* a forgalmi korlátozás alatt álló helyen a hal elhullása, lehalászása és elszállítása után a tófeneket, annak legalább 30 napig tartó kiszárításával, illetőleg a nehezen vízteleníthető tófenékrészeket, halágyakat csatornákat hektáranként 25–30 q égetett mész egyenletes kiszórásával,
+
+*b)* a halászati eszközöket (hálókat, zsákokat stb.),
+
+*c)* a továbbtartásra szánt halak szállítására is szolgáló, a beteg, betegségre vagy fertőzöttségre gyanús halak szállítására használt járműveket,
+
+*d)* a gumicsizmákat, a vászonneműket és kötényeket.
+
+2\. A szigorított fertőtlenítést az I/4. *a)* pontban felsorolt szervek valamelyikével kell elvégezni. A halászati eszközöket meleg csersavas konzerválással is lehet fertőtleníteni, és azokat a fertőtlenítés után tiszta folyó vízben alaposan ki kell öblíteni. A vászonnemű és kötények kifőzés útján is fertőtleníthetők.
+
+*14.*[^569]
+
+*III. A fertőtlenítés hatékonyságának ellenőrzése*
+
+Hatékony takarítás nélkül nincs hatékony fertőtlenítés, ezért amíg takarítási hibákat lehet találni a fertőtlenítés hatékonyságának ellenőrzése értelmetlen.
+
+Ellenőrzés:
+
+*1. Vattatamponos módszer*
+
+Meghatározott felületet vattatamponnal megdörzsölnek fertőtlenítés előtt és után a tampont kimossák és meghatározzák a csíraszámot.
+
+A mintákat a takarítás szempontjából nehezen hozzáférhető helyekről (sarkok, szegletek, repedések, folytonossági hiányok, berendezések csatlakozási felületei stb.) kell venni.
+
+*2. Agárkolbász módszer*
+
+Az agárkolbász metszéslapját érintik a vizsgálandó felülethez, a kifejlődő telepek számából lehet következtetni a fertőtlenítés hatékonyságára.
+
+A fertőtlenítést akkor nevezzük hatásosnak, ha a vizsgált felületeken az összcsíraszám nem haladja meg a 100/100 cm<sup>2</sup>értéket, ezen belül a coliform, a staphilococcus vagy gombaszám a 10/100 cm<sup>2</sup> határt.
+
+*3. Biológiai próba*
+
+Fogékony állatok bevitele a fertőtlenített épületbe, vagy a fertőtlenített épületből származó anyagokkal fogékony állatok fertőzése.
+
+A próba egyértelműen csak a legnagyobb lappangási idő letelte után bírálható el.
+
+*IV. Az állatok leölése*
+
+Az állatok leölésére csak olyan kémiai szert vagy eljárást lehet alkalmazni, amely
+
+– megfelel az állatvédelmi előírásoknak,
+
+– a hulla elföldelése esetén környezeti károsodást nem okoz,
+
+– állati hulladékfeldolgozóba kerülve a végtermék minőségét hátrányosan nem befolyásolja.
+
+*1. Használható kémiai készítmények*
+
+Pentaborbiton nátrium:
+
+1 ml/1,5 testtömeg kg intracardalisan, intraperitonalisan. Fiatal állatok leölésére ajánlott.
+
+T 61. A.U.V.:
+
+– Kutya: 0,3 mg/ttkg intravénásan
+
+7–10 ml/10 ttkg intrapulmonálisan.
+
+– Macska: 6 hónapos korig 3 ml\
+intrapulmonálisan
+
+6 hónapos kor felett 10 ml\
+intrapulmonálisan
+
+– Nagyállatok: 4–6 ml/50 ttkg intravénásan.
+
+Magnesium sulfát:\
+telített oldata intravénásan.
+
+*2. Állatok leölése lőfegyverrel*
+
+– Szarvasmarha: legalkalmasabb a nehéztöltényes kábítópisztoly. Használatát azonnal gerincvelő roncsolásnak kell követni.
+
+– Felnőtt juhok: leölésére kábítópisztoly, szükséges erősségű lövedékkel használható. Használatát azonnal gerincvelő roncsolásnak kell követni.
+
+Az állatok lőfegyverrel, elektromos kábítókészülékkel való leölését a fegyver, illetve a készülék használatára kiképzett, a kiképzést okmánnyal tanúsító dolgozó végezheti.
+
+*3. Állatok leölése elektromos kábítókészülékkel*
+
+Sertések leölésére használható.
+
+Az állatok megfékezése céljából az ingerlékeny állatok esetében nyugtató/bénító készítmények használata válhat szükségessé.
+
+*4. Baromfiállomány leölése kéndioxid gázzal*
+
+A baromfiállományt fóliafüggönnyel össze kell zsúfolni, majd a meleg, párás légtérben kénrudakat kell elégetni.
+
+*5. Méhállományok leölése kéndioxid gázzal*
+
+Egy kaptárba 2 db égő kénrudat teszünk, röptető nyílásokat bezárjuk. Amennyiben a kaptár megfelelően nem zárható fóliával kell zárttá tenni.
+
+## 19–22. számú függelék az Állategészségügyi Szabályzathoz[^570]
+
+## 23. számú függelék az Állategészségügyi Szabályzathoz
+
+**A laboratóriumi vizsgálati anyagok vételének általános szabályai**
+
+1\. Az állategészségügyi laboratóriumi vizsgálatok célja az oktani kórjelzés, a járványtani adatok, a klinikai tünetek, a termelési eredmények (eredménytelenségek) laboratóriumi műszeres vizsgálatokkal való értelmezése, kiegészítése.
+
+2\. Feladata:
+
+2.1. valamely megbetegedés (elhullás) okának (okainak), az állat(állomány) bizonyos kórokozókkal való fertőzöttségének, fertőzéstől való mentességének, a termelést befolyásoló állategészségügyi tényezőknek a felderítése,
+
+2.2. élelmiszer alap- és adalékanyagok (nyers-, félkész, késztermékek) állategészségügyi és élelmiszerhigiéniai minősítése,
+
+2.3. takarmányok (alapanyagok, koncentrátumok, premixek, kiegészítők) állategészségügyi és takarmányhigiéniai minősítése.
+
+3\. A laboratóriumi vizsgálatra beküldött vizsgálati anyag a minta, amely lehet:
+
+3.1. állatok hullái, hullarészei, szervei,
+
+3.2. vetélt magzatok és burkaik,
+
+3.3. állatok különböző testnedvei és váladékai (vér, vizelet, méh-, hüvely-, légúti és egyéb váladékok, ondó, gyomor-béltartalom stb.),
+
+3.4. állatokkal etetett takarmány, az állatok takarmányozására szolgáló állati, növényi, ásványi és más eredetű nyers, feldolgozott, különféle kezelésnek alávetett termék,
+
+3.5. ivóvíz,
+
+3.6. állatok gyógykezelésére használt gyógyszerek, oltó- és kórjelző anyagok, valamint fertőtlenítőszerek,
+
+3.7. állatok környezetéből származó, mérgezőnek vélt anyagok és méreganyaggal szennyezett tárgyak,
+
+3.8. állati eredetű élelmiszer nyers-, félkész- és késztermékek és ipari nyersanyagok (csont, bőr, szőr, gyapjú stb.), továbbá
+
+3.9. az állatok takarmányozására szolgáló állati, növényi, ásványi és más eredetű nyers, feldolgozott, különféle kezelésnek alávetett termék.
+
+4\. Laboratóriumi vizsgálatok csak olyan mintákból végezhetők el, amelyek a kért vagy szükségesnek ítélt vizsgálatok céljára megfelelnek, és azok elvégzésére alkalmas állapotban érkeznek a laboratóriumba. A bejelentési kötelezettség alá tartozó, továbbá az emberre veszélyes betegségek megállapítására a laboratóriumokba eljuttatott vizsgálati anyagból a vizsgálatokat mindig meg kell kísérelni.
+
+5.[^571] Vizsgálati anyagot laboratóriumba kórjelzés céljából csak állatorvos küldhet. A nyilvános laboratóriumoknak azonban át kell venni a vizsgálati anyagot feltétel nélkül, ha abban a bejelentési kötelezettség alá tartozó vagy emberre is veszélyes betegség vagy annak gyanúja merül fel. Ilyen esetben az intézetnek az illetékes hatósági, de legalább a járási állatorvost (vagy a járási hivatalt) haladéktalanul értesítenie kell. A gyanú kizárása esetén is értesíteni kell a hatósági állatorvost. Minden lelet másolatát a minták származási helye szerint illetékes vármegyei kormányhivatalnak is meg kell küldeni.
+
+6\. Hatósági döntés/intézkedés alapját képező laboratóriumi vizsgálatra gazdasági haszonállatok (élelmiszertermelő állatok) esetében csak az egyedileg és tartósan megjelölt és/vagy hatósági állatorvos által azonosított állatoktól/állatokból gyűjthető minta. Hatósági döntés/intézkedés alapjául csak olyan laboratóriumi eredményközlés (lelet) fogadható el, amelyből kétséget kizáróan és állategyedekre vonatkozóan megállapítható az elvégzett vizsgálat és annak eredménye.
+
+7\. Vadegészségügyi vizsgálatra anyagot a lőttvad gyűjtőhely vagy a vadászatra jogosult működési területe szerint illetékes hatósági állatorvos(ok) kísérőiratával (megrendelőjével) lehet küldeni. Az előzményi adatok közlése, a kísérőirat megszerkesztése a hatósági állatorvos feladata, aki a küldemény szakszerű csomagolásáért is felelős.
+
+8\. Vizsgálati célból mintákat csak állatorvos vagy állategészségügyi képzettségű szakember (állategészségügyi üzemmérnök vagy technikus, állategészségőr, felcser) vehet, a munkavédelmi szabályok megtartása mellett.
+
+9\. Élelmiszer-ellenőrző vizsgálatok céljából, a speciális mikrobiológiai és a maradékanyag (reziduum) szennyezettség felmérését célzó országos monitoring program keretében is, az előírás szerinti állatok szöveti és vizeletminták (vágóhídon és farmon) hivatalos vétele során a fenti és a vonatkozó speciális szabályokat kell alkalmazni.
+
+10.[^572]
+
+## 24. számú függelék az Állategészségügyi Szabályzathoz
+
+**Vizsgálati anyagok (minták) vételének részletes**\
+**szabályai az egyes bejelentési kötelezettség alá tartozó**\
+**betegségek esetén**
+
+1., 2., 3.[^573] Ragadós száj- és körömfájás, hólyagos szájgyulladás (VS) és a sertések hólyagos betegsége (SVD) gyanúja esetén:
+
+*a)* Élő, beteg állattól legalább egy grammnyi hólyagfalat, legcélszerűbben a hólyagok fedelét kell vérvételi csőbe vagy más alkalmas mintavételi edénybe helyezve összegyűjteni. Előnyös néhány milliliter antibiotikumot (ml-enként 100 NE penicillint és 100 mikrogramm streptomicint) tartalmazó fiziológiás konyhasóoldat vagy 1:1 arányú, 7,2–7,8 pH-jú glicerin-foszfátpuffer hozzáadása. Legalkalmasabb a nyelvről, a száj egyéb területeiről, ahol lehet a lábvégről és a tőgyről gyűjtött anyag, az erősen szennyezett testrészekről csak azok alapos lemosása után. Elhullott állatokból az elváltozást mutató szerveket, szervrészleteket kell beküldeni (nyelvet, szájrészt, esetleg lábvéget, száj- és körömfájás esetén fiatal állatokból, ha másutt nincs elváltozás, a szívet). Azokban az esetekben, amikor klinikai tünet nincs, de a száj- és körömfájás vírussal való fertőzöttség gyanítható, szarvasmarhából speciális készülékkel garat-torok váladékot, sertésből toroktampont kell venni. A vizsgálati anyagot frissen, jég között vagy hűtőtáskában, hatóságilag lezárt csomagként kell szállítani, kizárólag futárral. A küldeményt vízzáró, többszörös réteggel kell lezárni úgy, hogy átvételkor a csomagolás sértetlenségéről meg lehessen győződni. A kísérőiratnak (amelyet nem szabad a csomagba helyezni) a 26. számú függelékben foglaltak mellett tartalmaznia kell a vizsgálati anyag származását (milyen testrészről gyűjtötték), mennyiségének és minőségének pontos megjelölését is.
+
+*b)* Külön intézkedésre vérsavópárokat kell küldeni (tíz frissen megbetegedett egyedből alap-, majd tíz–tizennégy nap múlva második vérminta).
+
+A vizsgálat elvégzése kizárólag a NÉBIH feladata, amelyet a mintaküldés tényéről előzetesen értesíteni kell.
+
+4., 5. Keleti marhavész, kiskérődzők pestise gyanúja esetén az egész hulla (hullák) vagy szervek (fej, lekötött egész emésztőcső, lép, nyirokcsomók). Élő, beteg állatból orr- és kötőhártya-váladékminta, öt–tíz milliliter alvadásban gátolt és külön intézkedés alapján alvadásban nem gátolt vérminta, utóbbi két–három hét múlva ismételve.
+
+6\. Szarvasmarhák ragadós tüdőlobja gyanúja esetén az egész hulla (hullák) vagy szervek (légutak és a tüdő a hozzátartozó nyirokcsomókkal, mellüregbeli folyadék). Élő, beteg állatból orr- és kötőhártya-váladék, hörgőváladék vagy mosófolyadék, mellűri izzadmány (punktatum). Ezenkívül alvadásban nem gátolt, két–három hét múlva ismételt vérminta.
+
+7\. Bőrcsomósodáskór gyanúja esetén a kényszervágott állat elváltozást mutató bőrterületei és egyéb szervei, illetve élő beteg állatból sebészileg kimetszett, tipikus elváltozásokat mutató bőrterület.
+
+8\. Rift-völgyi láz gyanúja esetén az egész hulla vagy magzat vagy szervek (lép, máj), továbbá alvadásban nem gátolt vérminta.
+
+9\. Kéknyelv-betegség (bluetongue) gyanúja esetén az egész hulla, magzat vagy szervek (nyelv, légutak, tüdő a nyirokcsomókkal együtt), továbbá alvadásban gátolt és nem gátolt vérminta.
+
+10\. Juhhimlő és kecskehimlő gyanúja esetén az egész hulla vagy elváltozást mutató szervek és bőrterületek, utóbbi esetleg élőből kimetszve is.
+
+11\. Afrikai lópestis gyanúja esetén az egész hulla vagy szervek (lép, tüdő, nyirokcsomók), alvadásban gátolt vérminta. Külön rendelkezésre alvadásban nem gátolt vérminta.
+
+12., 13.[^574] Afrikai sertéspestis, klasszikus sertéspestis gyanúja esetén az elhullott vagy levágott állat egészét, ha az egész test nem áll rendelkezésre akkor valamennyi belső szervet, de legalább a fejet, a tonsillákat, a lépet, a vesét, a tüdőt, az ileumot a hozzátartozó ileocaecalis nyirokszövettel, a colont és a bélfodri nyirokcsomókat kell vizsgálatra küldeni a NÉBIH-be vagy klasszikus sertéspestis esetén más kijelölt referencia laboratóriumba. Az egyes szerveket, szöveteket plasztik zacskókba vagy más szivárgásmentesen zárható tartályba kell csomagolni, felirattal ellátni, és az eset összes fontosabb adatait tartalmazó kísérőirattal együtt, a lehető leggyorsabb módon hűtve kell az Intézetbe küldeni. Ha elhullott sertés még nem áll rendelkezésre, élő, beteg sertésből legalább öt milliliter, alvadásban gátolt vért kell küldeni. A vizsgálati anyagok küldését szükség esetén meg kell ismételni mindaddig, amíg a betegség kétséget kizáróan megállapítható vagy kizárható. A községi zárlat alá vont és a védkörzetbe tartozó területekről a 343. § d) és a 363. § d) pontja szerint megadott számú sertésből ugyancsak legalább öt milliliter vért kell az Intézetbe küldeni, de ebben az esetben alvadásgátló nélkül.
+
+14\. Madárinfluenza gyanúja esetén (heveny betegségből) friss, egész hullák vagy élő, beteg állatok, sinus-váladékok, külön intézkedés szerint vérminták.
+
+15\. Newcastle-betegség (baromfipestis) gyanúja esetén egész hullák vagy élő beteg állatok, külön intézkedés szerint alvadásában nem gátolt vérminták.
+
+16.[^575]
+
+17\. Fertőző sertésbénulás gyanúja esetén egész friss hullát (hullákat), élő beteg vagy kiirtott sertést, illetőleg fejet és a megnyitatlan gerincoszlopot „orjára vágva” – (annak nyaki és ágyéki szakaszát) kell beküldeni, továbbá külön rendelkezésre meghatározott számú állatból bélsármintát is.
+
+18\. Veszettség gyanúja esetén: az elhullott vagy kiirtott állat feje, amelyet megfelelő védöltözetben kell a testtől leválasztani és gondosan becsomagolni (teljes hulla csak kivételes esetben szükséges, általában akkor, ha a veszettség kizárása után egyéb irányú vizsgálat is feltétlenül indokolt). A kísérőiratban a 26. számú függelékben foglaltakon túl közölni kell azt, hogy a gyanús állattal történt-e emberi érintkezés (harapás, marás, nyúzás), ha igen, az illető személy(ek) nevét, címét, kutya (esetleg macska) esetén a veszettség elleni oltás tényét és idejét, a területileg illetékes állatorvos nevét és címét. Veszettség gyanúja esetén élő állat vagy abból származó minta laboratóriumba nem szállítható.
+
+19\. Takonykór gyanúja esetén egész hulla vagy szervek (a garattal a légutak egészében, esetleg egyéb elváltozott szervek), alvadásban nem gátolt vérminta a betegségre vonatkozó eljárási szabályok függeléke vagy külön rendelkezés szerint.
+
+20\. Tenyészbénaság gyanúja esetén hüvely-, tasak- húgycsőváladékminta és alvadásban nem gátolt vérminta a betegségre vonatkozó részletes szabályozás függelékei szerint, illetve külön intézkedésre.
+
+21\. Lovak fertőző kevésvérűsége gyanúja esetén véralvadásban gátolt és nem gátolt vérminta, egész hulla vagy a hulla, illetve kényszervágott állat szervei (valamennyi belső szerv, de legalább a lép, a máj, a vesék, a szív, néhány nyirokcsomó).
+
+22\. Lovak agy- és gerincvelő-gyulladásai gyanúja esetén az egész hulla vagy szervek [mindenképpen a fej (agyvelő)], valamint alvadásban gátolt és nem gátolt vérminta.
+
+23\. Nyulak vérzéses betegsége gyanúja esetén minél több friss, egész hulla, esetleg élő beteg állat. Külön intézkedésre alvadásában nem gátolt vérminták.
+
+24.[^576]
+
+25\. Szarvasmarhák és juhok szivacsos agyvelőbántalma (BSE, súrlókór-scrapie) gyanúja esetén az egész hulla vagy szervek (legalább fej az agyvelővel, a lép, a csípőbél a hozzátartozó nyirokcsomókkal).
+
+26\. Sertések szaporító- és légzőszervi tünetegyüttese (PRRS) gyanúja esetén egész hulla vagy szervek (valamennyi belső szerv, elsősorban azonban a légutak és az ivarszervek), magzatok magzatburkokkal, esetleg orrtampon és alvadásban nem gátolt vérminta.
+
+27.[^577]
+
+28\. Kacsapestis (kacsák vírusos bélgyulladása) gyanúja esetén egész hullák vagy élő beteg állatok, esetleg külön intézkedés szerint vérminták.
+
+29\. Aujeszky-féle betegség gyanúja esetén az egész hulla (hullák) vagy szervek (elsősorban a garattal a légutak és a fej) vagy heveny beteg állatokból orrváladékminta, illetőleg vérminta. Mentesítés (felmérés, ellenőrzés, minősítés) céljából az érvényes rendelkezések és a vizsgáló laboratóriummal való egyeztetés alapján.
+
+30\. Lépfene gyanúja esetén az egész hullát vagy szerveket [lép, elváltozást mutató egyéb szervek vagy testrészek és az önemésztésnek, rothadásnak leginkább ellenálló valamelyik kis csöves (pl. csüd) csont].
+
+31\. Rühösség gyanúja esetén az elváltozást mutató vagy gyanús bőrterület és az egészséges bőr határáról a hám alsó rétegéig terjedő bőrkaparék vagy elhullott, kényszervágott vagy élő állatból kimetszett bőrrészlet.
+
+32\. Bovin enzootikus leukózis (Enzootiás bovin leukózis) gyanúja esetén egész hulla vagy az elhullott, illetve kényszervágott állat elváltozást mutató belső szervei és nyirokcsomói, legalább a jobb szívfülcse, oltógyomorfal, lép, máj, vese, egy bélfodri és két testtájéki nyirokcsomó, továbbá alvadásban gátolt és nem gátolt vérminta.
+
+33., 34. Pontyfélék tavaszi virémiája, pisztrángfélék fertőző vérképzőszervi elhalása gyanúja esetén
+
+*a)*[^578] a beteg vagy a betegségre gyanús halakból a tüneteket kifejezetten mutató legalább tíz élő halat vízben, küldönccel kell a NÉBIH-be küldeni,
+
+*b)* a fertőzöttség megállapítására vagy kizárására évente kétszer, tavasszal és ősszel, 12–15 <sup>o</sup>C víz hőmérsékletkor az állomány nagyságától függően az alábbi számú tünetmentes halat kell élve, vízben, küldönccel a NÉBIH-be küldeni,
+
+---------------------
+
+a halak száma az állományban | a halak száma a mintában
+
+---------------------
+
+50* | 46*
+
+100 | 75
+
+250 | 110
+
+500 | 127
+
+1 000 | 136
+
+5 000 | 145
+
+10 000 | 146
+
+100 000 vagy annál több | 150
+
+_______
+
+\* Tenyészhalak esetében a számok értelemszerűen az ivartermékre (tejre, illetve ikrára) vonatkoznak.
+
+*c)* amennyiben a *b)* pont szerinti vizsgálatok eredménye két éven át negatív és így a gazdaság mentessé nyilvánítható, a továbbiakban évente két alkalommal húsz-húsz élő halat kell vízben, küldönccel a NÉBIH-be küldeni.
+
+*Oltóanyag-vizsgálat*
+
+*a)*[^579] Oltási baleset vagy oltással kapcsolatos megbetegedés és elhullás esetén hullát, szerveket vagy az állatokból származó egyéb mintát, oltóanyagmintát a NÉBIH-be kell küldeni. A kísérőiratban az intézetet értesíteni kell a másik intézetbe történt mintaküldésről.
+
+*b)* Minden egyéb vizsgálat céljára a mintaküldés módját, a szükséges eszközöket és a kísérőirat tartalmát a vizsgálatot végző intézmény határozza meg.
+
+## 25. számú függelék az Állategészségügyi Szabályzathoz
+
+**A laboratóriumi vizsgálati anyagok küldésének általános szabályai**
+
+1\. A vizsgálati anyagot
+
+– állatorvos személyesen,
+
+– küldönc (futár),
+
+– csomagküldő szolgálat,
+
+– posta
+
+szállíthatja.
+
+2\. A romlékony vizsgálati anyag postai szállításától melegebb időjárás, illetve hétvégi feladás esetén el kell tekinteni.
+
+3\. A csomagolással, a szállítással és – térítéses vizsgálatok esetében – a vizsgálattal kapcsolatos költségeket az állattulajdonos, vadon élő állatok esetében a vadászatra jogosult, egyéb esetekben a helyi önkormányzat viseli.
+
+4\. A küldeményt úgy kell csomagolni, hogy annak tartalmából semmi ne hullhasson és ne szivároghasson ki, az egyéb csomagokat és szállítóeszközöket, a szállító személyeket ne szennyezhesse be, a tartályok (üvegcső) a szállítás alatt ne törhessenek el.
+
+5\. Az állati hullát és szerveket műanyag fóliába és/vagy megfelelő erősségű és légmentesen zárható edénybe kell helyezni. A folyékony anyagokat tartalmazó üveg- vagy műanyag edényzetet ezenkívül törésgátló anyagba is csomagolni kell.
+
+6\. A csomagoláshoz olyan erős falú (fa, műanyag, fém, esetleg papír stb.) ládát (dobozt) kell használni, amellyel a veszélytelen szállítás biztosítható. A ládát (dobozt) fűrészporral, faforgáccsal, fagyapottal, műanyag vagy más rugalmas anyaggal szorosan ki kell tölteni úgy, hogy az a lezárt edényt minden oldalról legalább öt centiméter vastagon vegye körül. A ládát, dobozt kender, műanyag vagy egyéb kötözőanyaggal körül kell kötni és a kötési végeket le kell pecsételni. A csomagban a cím és a kísérőirat másolatát el kell helyezni.
+
+7\. A küldeményeket postán csak csomagként szabad feladni és a címoldalra – azt egészen elfedő – figyelemfelkeltő színű papírlapot kell ragasztani. Erre kell a címet és a következő nyilatkozatot felírni: ,,Felelősséget vállalok azért, hogy a küldeményt az Állategészségügyi Szabályzatban foglalt előírásoknak megfelelően csomagolták.” A nyilatkozatot az állatorvosnak alá kell írnia és le kell bélyegeznie. Törékeny göngyöleg esetén a „Törékeny” jelzést is rá kell írni.
+
+8\. A nem megfelelően csomagolt vagy címzett küldemény nem indítható el és nem továbbítható rendeltetési helyére.
+
+9\. Az élelmiszer-biztonsági vizsgálatok célját szolgáló mintákat – a fenti szabályokon túlmenően – hűtve/fagyasztva kell a tulajdonosnak az élelmiszer-vizsgálatot végző laboratóriumba hivatalos mintavételi jegyzőkönyvvel szállítani úgy, hogy a szállítás közben a minta meghamisítása, összetévesztése kizárható legyen.
+
+10\. A szállítás közben megsérült vagy bármely más okból szivárgó küldeményt továbbszállítani nem szabad. Ha a sérülést vagy a szivárgást a rendeltetési helyen állapítják meg, úgy a postahivatal vagy a vasútállomás a címzettet erről a tényről haladéktalanul értesíti, és a címzett a küldeményt a postahivatalban vagy a vasútállomáson köteles átvenni.
+
+11\. Ha a sérülést vagy a szivárgást útközben észlelik, a küldeményt a fuvarlevéllel együtt el kell különíteni, és az átrakóhely szerint illetékes hatósági állatorvost kell értesíteni. Az állatorvos köteles a sérülés vagy a szivárgás okát nyomban megállapítani, majd a szállító költségére a küldeményt szabályszerűen becsomagoltatni és a címzett intézménybe továbbítani.
+
+12\. Ha a küldemény a többi csomag göngyölegét szennyezte, az állatorvos azokat is köteles a szállító költségére átcsomagoltatni és a szennyezett göngyöleg ártalmatlanná tételéről gondoskodni.
+
+13.[^580] Ha a címzett intézmény vagy a csomagot továbbító állatorvos a csomagolás tekintetében mulasztást tapasztal, arról szolgálati úton a feladás helye szerint illetékes járási hivatalt értesíteni köteles.
+
+14\. Ha a sérülés és a szivárgás nem szüntethető meg és az aggálymentes továbbszállítás megoldására nincs lehetőség, a küldeményt a legközelebbi hullatemetőben, hullaemésztő veremben, hullaégetőben a helyi polgármesteri hivatal köteles ártalmatlanná tenni. Hasonlóképpen kell eljárni azokal a csomagokkal is, amelyeknek a tartalma is szennyeződött.
+
+15\. A laboratóriumokba küldött mintákat a vizsgálatok befejezése és a valamilyen okból kötelező tárolása után ártalmatlanná kell tenni. A laboratóriumból mintát kivinni csak további vizsgálat céljából, a fentiekben leírt csomagolási és szállítási szabályok figyelembevételével szabad. A sértetlenül maradt üveg, műanyag, fémedényzet, kiürítés, tisztogatás és fertőtlenítés után újra felhasználható. A fa, papír vagy egyéb – aggálymentesen nem tisztítható – anyagot meg kell semmisíteni.
+
+## 26. számú függelék az Állategészségügyi Szabályzathoz
+
+**Kísérőirat (kísérőlevél, kimutatás, megrendelő) a vizsgálati anyaghoz**
+
+1\. Minden vizsgálati anyaghoz kísérőiratot kell mellékelni. Az eltérő vizsgálatokra küldött mintákhoz külön-külön kell kísérőiratot csatolni akkor is, ha ugyanabban a csomagban helyezik el.
+
+2\. A kísérőiratnak a kért vizsgálat jellege szerint minden esetben tartalmaznia kell:
+
+– a vizsgálati anyag megnevezését (jelölését),
+
+– származási helyét, egy gazdasági egységen belül a telep, egységrész és ezek közigazgatási helyének megjelölését, az állattulajdonos nevét és címét, költségtérítéses vizsgálat esetén a költségeket viselő nevét és címét,
+
+– a beküldő állatorvos nevét és pontos címét (telefon, telex, telefax is),
+
+– a vizsgálat indokait, irányát és célját,
+
+– a kórelőzményi adatokat (a helyszínen végzett vizsgálatok eredményét és az azok alapján kialakult véleményt).
+
+A kísérőiratnak a kért vizsgálathoz kapcsolódó további adatokat is tartalmaznia kell, különösen
+
+– tájékoztatást a más laboratóriumokba is történt mintaküldésről és az ottani vizsgálatok eredményéről,
+
+– a megbetegedett állatcsoport (állat) létszámát, korát és hasznosítási irányát, tartási és takarmányozási körülményeit, esetleg telepre (istállóba) való szállítását, azon belüli mozgatását, átcsoportosítását,
+
+– a betegség jelentkezésének időpontját, jellemző (testhőmérséklet, általános vagy egy-egy szervrendszer vagy szerv megbetegedésére utaló) jeleket, lefolyását, a megbetegedett és elhullott állatok számát, a naponkénti elhullások alakulását, a gyógyulásokat. A boncolt hullákban vagy kényszervágott állatokban talált elváltozásokat (a szervek vagy szervrészek küldése esetén az azokban és a be nem küldött szervekben megfigyelteket is),
+
+– az eddig végzett egyéb vizsgálatok eredményét,
+
+– az esetleg alkalmazott gyógykezeléseket, a gyógyszerek megnevezését, adagját és az alkalmazás időpontját, annak eredményét,
+
+– a preventív immunizálás(ok) időpontját, a használt oltóanyagok megnevezését és adagját,
+
+– az állomány minősítését (fertőzöttségét, igazolt vagy feltételezett mentességét).
+
+Anyaállatok esetében a vetélések számát, egyedre vonatkozóan a termékenyítés időpontját, a magzatburok-visszamaradás tényét és esetleg korábbi vizsgálatok eredményeit,
+
+– a vérvétel időpontját, a vérvizsgálat célját (export, minősítés, vetélés stb.),
+
+– a helyszíni vizsgálat alapján méreganyag felvétel lehetőségeit,
+
+– a takarmányváltoztatás idejét, a takarmány megnevezését, keveréktakarmány esetén a gyártás keltét, helyét, cikkszámát, kiegészítő anyagok (pl. karbamid vagy egyéb NPN-anyagok) etetését stb.,
+
+– a takarmányok toxikus vagy mérgező anyagokkal történt szennyeződésének gyanúját,
+
+– nem kellően ismert eredetű melléktermékek takarmányozásra való felhasználását,
+
+– mérgező növények vagy magvak esetleges felvételét,
+
+– a környezetszennyeződéssel kapcsolatos gyanút,
+
+– a megbetegedést megelőzően, az állattartási hely közelében vagy a takarmánytermő területen végzett növényvédelmi kezelés idejét, az almozásra használt anyagok megnevezését és eredetüket,
+
+– legelőváltás, állatmozgás vagy meghajtás gyanúját vagy tényét, előfordult technológiai zavarokat (fűtés, szellőztetés, itatás vagy takarmányváltoztatás stb.),
+
+– fertőtlenítés, rágcsáló-, rovar- vagy dúvadirtás tényét és az alkalmazott szer megnevezését,
+
+– az állományban végzett preventív vagy terápiás célú parazitás vagy egyéb gyógykezeléseket,
+
+– a termeléscsökkenés, a fejlődésben való elmaradás, a termékenységi (szaporodási) zavarok előfordulását,
+
+– a próbahalászat során megállapított tényeket, a fertőzöttség vagy a betegség mértékét, a halastóra vonatkozó műszaki és termelés-technológiai adatokat,
+
+– vadvizsgálat kérése esetén a vadászatra jogosult nevét, a vadászterületen talált vagy kilőtt vad közigazgatási helyének megjelölését,
+
+– emberre nézve veszélyes (pl. veszettség) betegségre történt vizsgálat esetén a mintavételben, boncolásban, mintaszállításban közreműködő személyek nevét és pontos címét,
+
+– közvetlen kórszövettani vizsgálat kérése esetén a makroszkóposan talált elváltozások leírását,
+
+– az élelmiszer-ellenőrző vizsgálat céljára vett mintá(k) esetében a kísérő mintavételi jegyzőkönyvnek tartalmaznia kell: a vágóhíd/farm nevét, címét, a vágóállat pontos származási helyét, a minta pontos megnevezését, tömegét, az előírás szerint reziduum-monitoring vizsgálati irány(ok) pontos megjelölését, a mintavevő hatósági állatorvos és megbízottja nevét, aláírását és bélyegzőjét, valamint azt, hogy a vizsgálati minta egészséges állatállomány egészséges egyedéből származik.
+
+## 26/a. számú függelék az Állategészségügyi Szabályzathoz[^581]
+
+## 27. számú függelék az Állategészségügyi Szabályzathoz
+
+**Állatorvosi igazolás**
+
+Igazolom, hogy ....................... (név)
+
+...................................... (cím)
+
+............. korú, ............... fajtájú, ........ db
+
+tyúkból és ......... db kakasból, összesen: ......... db
+
+baromfiból álló állományát a ..................... FM rendelettel kiadott Állategészségügyi Szabályzat alapján megvizsgáltam.
+
+Az állomány szeropozitivitását baromfitífusz szempontjából
+
+19..... év ................ hó ........ napján %-ban
+
+(19..... év ............... hó ........ napján %-ban)
+
+állapítottam meg. A vizsgálatok eredménye alapján az állomány tojásait baromfitífusz szempontjából keltetésre alkalmasnak találtam.
+
+Kelt: .........., 199.... év ......... hó .... nap
+
+...................
+
+hatósági állatorvos
+
+## 28–32. számú függelék az Állategészségügyi Szabályzathoz[^582]
+
+## 33–38. számú függelék az Állategészségügyi Szabályzathoz[^583]
+
+## 39. számú függelék az Állategészségügyi Szabályzathoz[^584]
+
+## 40. számú függelék az Állategészségügyi Szabályzathoz
+
+**A malleines szempróba végrehajtása**
+
+1\. A próba végrehajtása előtt az állatot (állatokat) célszerű 24 órán át pihentetni.
+
+2\. A mallein adagja 0,2 ml.
+
+3\. Alkalmazás: a szemhéjak széthúzása után az alsó szemhéj kötőhártyájára szabályozóval ellátott, tű nélküli fecskendővel 1 adag tömény malleint kell cseppenteni, majd azt a szemhéjak kíméletes dörzsölésével el kell oszlatni. Nem végezhető el a próba olyan szemen, amelyen kötőhártya-gyulladás vagy más heveny szembetegség tünetei észlelhetők. Ha enyhe kötőhártyahurut fennállása ellenére szükséges a próbát elvégezni, az elbíráláskor csak a gyulladásos tünetek elmaradása, vagy a negatív eredmény értékelhető megbízhatónak.
+
+4\. Elbírálás.
+
+Időpontja: a becseppentés után vagy a 8–12 óra közötti, vagy a 16–24 óra közötti időben.
+
+a) Pozitív a reakció, ha a kötőhártya megduzzad, kipirosodik, és a szemből szürkés vagy zöldessárga gennyes váladék ürül. A szemreakció a 4–6. órában kezdődik, azután fokozatosan súlyosbodik.
+
+b) Kétes a reakció, ha a becseppentés után 24 órán túl is csak tiszta vagy zavaros-nyálkás kifolyás, könnyezés látható, és a kötőhártya alig pirosabb a normálisnál. A kétesen reagáló állatot három hét után ismét malleinezni kell.
+
+c) Negatív a reakció, ha
+
+– gyulladás semmilyen tünete nem észlelhető, vagy
+
+– legfeljebb a kötőhártya kipirosodása és/vagy könnyezés észlelhető, ami 24 óra múlva eltűnik.
+
+## 41. számú függelék az Állategészségügyi Szabályzathoz
+
+**Takonykór**
+
+A vérvizsgálatot követő eljárás, ha a vizsgált állat szeme diagnosztikai próbára alkalmas
+
+P = pozitív, K = kétes, N = negatív
+
+<table><tbody><tr><td colspan="2">**I. eljárás**</td><td colspan="3">**II. eljárás**</td><td colspan="4">**III. eljárás**</td></tr><tr><td>**Az első** **vérvizsgálat** **eredménye**</td><td>**Hatósági** **intézkedés**</td><td>**Az első** **szempróba** **eredménye**</td><td>**Második vérvizsgálat** **eredménye 21 nappal** **az 1. szempróba után**</td><td>**Hatósági** **intézkedés**</td><td>**Második szempróba** **eredménye 21 nappal** **az 1. szempróba után**</td><td>**Hatósági** **intézkedés**</td><td>**Harmadik szempróba** **eredménye 21 nappal** **a 2. szempróba után**</td><td>**Hatósági** **intézkedés**</td></tr><tr><td rowspan="7">P</td><td rowspan="7">Haladéktalanul a II. eljárást kezdeni</td><td rowspan="2">P</td><td>P v. K</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>N</td><td>III. eljárás</td><td>K v. N</td><td>További eljárás</td><td></td><td>A minisztérium utasítása szerint*</td></tr><tr><td rowspan="2">K</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td><td rowspan="4">K v. N</td><td rowspan="4">További vizsgálat</td><td rowspan="3">K</td><td rowspan="3">A minisztérium utasítása szerint*</td></tr><tr><td rowspan="3">N</td><td>P</td><td>Leölni</td></tr><tr><td>K</td><td>III. eljárás</td></tr><tr><td>N</td><td>Feloldani</td><td>N</td><td>Feloldani</td></tr><tr><td rowspan="6">K</td><td rowspan="6">Haladéktalanul a II. eljárást kezdeni</td><td rowspan="2">P</td><td>P</td><td>Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td></tr><tr><td rowspan="2">K</td><td>P v. K</td><td>III. eljárás</td><td rowspan="2">K</td><td rowspan="2">További vizsgálat</td><td rowspan="2">K</td><td rowspan="2">A minisztérium utasítása szerint*</td></tr><tr><td>N</td><td>Feloldani</td></tr><tr><td rowspan="2">N</td><td>P v. K</td><td>III. eljárás</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td></tr><tr><td>N</td><td>Feloldani</td></tr><tr><td>N</td><td>További eljárás nincs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+\* A vizsgálatot továbbfolytatni.
+
+## 42. számú függelék az Állategészségügyi Szabályzathoz
+
+**Takonykór**
+
+A vérvizsgálatot követő eljárás, ha a vizsgált állat szeme diagnosztikai próbára nem alkalmas
+
+P = pozitív, K = kétes, N = negatív
+
+<table><tbody><tr><td colspan="2">**I. eljárás**</td><td colspan="3">**II. eljárás**</td><td colspan="4">**III. eljárás**</td></tr><tr><td>**Az első** **vérvizsgálat** **eredménye**</td><td>**Hatósági** **intézkedés**</td><td colspan="2">**A második és harmadik** **vérvizsgálat eredménye** **14 napos időközzel**</td><td>**Hatósági** **intézkedés**</td><td>**A negyedik vérvizsgálat** **eredménye 14 nappal** **a 3. vérvizsgálat után**</td><td>**Hatósági** **intézkedés**</td><td>**Az ötödik vérvizsgálat** **eredménye 14 nappal** **a 4. vérvizsgálat után**</td><td>**Hatósági** **intézkedés**</td></tr><tr><td rowspan="7">P</td><td rowspan="7">A II. eljárás következik 14 nap múlva</td><td rowspan="2">P</td><td>P v. K</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>N</td><td>III. eljárás</td><td>K v. N</td><td>További vizsgálat</td><td>K v. N</td><td>A minisztérium utasítása szerint*</td></tr><tr><td rowspan="2">K</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td><td rowspan="4">K v. N</td><td rowspan="4">További vizsgálat</td><td rowspan="3">K</td><td rowspan="3">A minisztérium utasítása szerint*</td></tr><tr><td rowspan="3">N</td><td>P</td><td>Leölni</td></tr><tr><td>K</td><td>III. eljárás</td></tr><tr><td>N</td><td>Feloldani</td><td>N</td><td>Feloldani</td></tr><tr><td rowspan="6">K</td><td rowspan="6">A II. eljárás következik 14 nap múlva</td><td rowspan="2">P</td><td>P</td><td>Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td></tr><tr><td rowspan="2">K</td><td>P</td><td>III. eljárás</td><td rowspan="2">K v. N</td><td rowspan="2">További vizsgálat</td><td rowspan="2">K</td><td rowspan="2">A minisztérium utasítása szerint*</td></tr><tr><td>K v. N</td><td>Feloldani</td></tr><tr><td rowspan="2">N</td><td>P</td><td>III. eljárás</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td></tr><tr><td>K v. N</td><td>Feloldani</td></tr><tr><td>N</td><td>További eljárás nincs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+\* A vizsgálatot továbbfolytatni.
+
+## 43. számú függelék az Állategészségügyi Szabályzathoz
+
+**Takonykór**
+
+A szempróbát követő eljárás
+
+P = pozitív, K = kétes, N = negatív
+
+<table><tbody><tr><td colspan="2">**I. eljárás**</td><td colspan="3">**II. eljárás**</td><td colspan="4">**III. eljárás**</td></tr><tr><td>**Az első** **szempróba** **eredménye**</td><td>**Hatósági** **intézkedés**</td><td>**Az első** **vérvizsgálat** **eredménye**</td><td>**A második szempróba** **eredménye 21. nappal** **az 1. szempróba után**</td><td>**Hatósági** **intézkedés**</td><td>**A második vérvizsgálat** **eredménye 21 nappal** **a 2. szempróba után**</td><td>**Hatósági** **eljárás**</td><td>**A harmadik szempróba** **eredménye a** **2. szempróba után**</td><td>**Hatósági** **intézkedés**</td></tr><tr><td rowspan="7">P</td><td rowspan="7">Az elbírálással egyidőben a II. eljárás első vérvétele</td><td rowspan="2">P</td><td>P v. K</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>N</td><td>III. eljárás</td><td>K v. N</td><td>További vizsgálat</td><td>K v. N</td><td>A minisztérium utasítása szerint*</td></tr><tr><td rowspan="2">K</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td><td>P</td><td>Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td><td rowspan="4">K v. N</td><td rowspan="4">További vizsgálat</td><td rowspan="2">K</td><td rowspan="2">A minisztérium utasítása szerint*</td></tr><tr><td rowspan="3">N</td><td>P</td><td>Leölni</td></tr><tr><td>K</td><td>III. eljárás</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td></tr><tr><td>N</td><td>Feloldani</td></tr><tr><td rowspan="6">K</td><td rowspan="6">Az elbírálással egyidőben a II. eljárás első vérvétele</td><td rowspan="2">P</td><td>P</td><td>Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td><td rowspan="2">P</td><td rowspan="2">Leölni</td></tr><tr><td>K v. N</td><td>III. eljárás</td></tr><tr><td rowspan="2">K</td><td>P v. K</td><td>III. eljárás</td><td rowspan="2">K</td><td rowspan="2">További vizsgálat</td><td rowspan="2">K</td><td rowspan="2">A minisztérium utasítása szerint*</td></tr><tr><td>N</td><td>Feloldani</td></tr><tr><td rowspan="2">N</td><td>P v. K</td><td>III. eljárás</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td><td rowspan="2">N</td><td rowspan="2">Feloldani</td></tr><tr><td>N</td><td>Feloldani</td></tr><tr><td>N</td><td>További eljárás nincs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+\* A vizsgálatot továbbfolytatni.
+
+## 44. számú függelék az Állategészségügyi Szabályzathoz
+
+**Betegségre gyanús állattal való eljárás**
+
+P = pozitív, K = kétes, N = negatív
+
+<table><tbody><tr><td colspan="2">**I.**</td><td colspan="2">**II.**</td><td colspan="2">**III.**</td><td rowspan="3">**Hatósági intézkedés**</td></tr><tr><td>**Kaparék**</td><td>**Vér**</td><td>**Kaparék**</td><td>**Vér**</td><td>**Kaparék**</td><td>**Vér**</td></tr><tr><td colspan="6">**vizsgálati eredmény**</td></tr><tr><td>P<br>N</td><td></td><td></td><td></td><td></td><td></td><td>Levágatni<br>Haladéktalanul I. vérvizsgálat</td></tr><tr><td></td><td>P<br>K v. N</td><td></td><td></td><td></td><td></td><td>Levágatni<br>7 nap múlva újabb<br>kaparékvizsgálat</td></tr><tr><td></td><td></td><td>P<br>N</td><td></td><td></td><td></td><td>Levágatni<br>II. vérvizsgálat<br>(21 napra az elsőhöz)</td></tr><tr><td></td><td></td><td></td><td>P<br>K v. N</td><td></td><td></td><td>Levágatni<br>7 nap múlva újabb<br>(III.) kaparékvizsgálat</td></tr><tr><td></td><td></td><td></td><td></td><td>P<br>N</td><td></td><td>Levágatni<br>III. vérvizsgálat<br>(21 napra a másodikhoz)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>P<br>K<br>N</td><td>Levágatni<br>A minisztérium utasítása<br>szerint további vizsgálat<br>Feloldani</td></tr></tbody></table>
+
+## 45. számú függelék az Állategészségügyi Szabályzathoz
+
+**Fertőzött állattal való eljárás**
+
+P = pozitív, K = kétes, N = negatív
+
+<table><tbody><tr><td>**I.**</td><td>**II.**</td><td>**III.**</td><td>**IV.**</td><td rowspan="2">**Hatósági intézkedés**</td></tr><tr><td colspan="4">**vérvizsgálat eredménye**</td></tr><tr><td>P</td><td></td><td></td><td></td><td>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td>P v. K<br>N</td><td></td><td></td><td>Levágatni<br>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td></td><td>P v. K<br>N</td><td></td><td>Levágatni<br>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td></td><td></td><td>P<br>K<br>N</td><td>Levágatni<br>A minisztérium utasítása szerint további vizsgálat<br>Feloldani</td></tr></tbody></table>
+
+## 46. számú függelék az Állategészségügyi Szabályzathoz
+
+46\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Fertőzöttségre gyanús állattal való eljárás**
+
+(ha a vérvizsgálat a célzott vagy szűrővizsgálat alkalmával, klinikai tünetektől mentes
+
+állatokon kétes eredményt adott)
+
+P = pozitív, K = kétes, N = negatív
+
+<table><thead><tr><th>**I.**</th><th>**II.**</th><th>**III.**</th><th>**IV.**</th><th rowspan="2">**Hatósági intézkedés**</th></tr><tr><th colspan="4">**vérvizsgálat eredménye**</th></tr></thead><tbody><tr><td>P</td><td></td><td></td><td></td><td>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td>P v. K</td><td></td><td></td><td>Levágatni</td></tr><tr><td></td><td>N</td><td></td><td></td><td>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td></td><td>P v. K</td><td></td><td>Levágatni</td></tr><tr><td></td><td></td><td>N</td><td></td><td>21 nap múlva újabb vérvizsgálat</td></tr><tr><td></td><td></td><td></td><td>P</td><td>Levágatni</td></tr><tr><td></td><td></td><td></td><td>K</td><td>A minisztérium utasítása szerint további vizsgálat</td></tr><tr><td></td><td></td><td></td><td>N</td><td>Feloldani</td></tr></tbody></table>
+
+A diagnosztikai vizsgálatok alkalmából az állatot minden alkalommal klinikailag is meg kell vizsgálni.
+
+Az állatot jellemző klinikai tünetek esetén betegnek, nem jellemző klinikai tünetek esetén betegségre gyanúsnak kell tekinteni.
+
+## 47. számú függelék az Állategészségügyi Szabályzathoz
+
+47\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Fertőzöttségre gyanús állattal való eljárás**
+
+(ha a tünetektől mentes és még nem vizsgált állat beteg, betegségre gyanús vagy fertőzött állattal érintkezett)
+
+P = pozitív, K = kétes, N = negatív
+
+| **A feltételezett fertőződés utáni 21. napon vett vérminta vizsgálati eredménye** | **Hatósági eljárás** | **A megismételt vérvizsgálat eredménye** | **Hatósági eljárás** |
+|---|---|---|---|
+| P | Továbbiakban a 45. számú függelék szerint | P | Továbbiakban a 45. számú függelék szerint |
+| K | Továbbiakban a 46. számú függelék szerint | K | Továbbiakban a 46. számú függelék szerint |
+| N | 21 nap múlva a vérvizsgálatot megismételni | N | Feloldani |
+
+## 48. számú függelék az Állategészségügyi Szabályzathoz
+
+48\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Az állatbőrök vizsgálatánál alkalmazott bélyegző mintája**
+
+| **Hatósági** **állatorvos** **Dabas** |
+|---|
+
+## 49. számú függelék az Állategészségügyi Szabályzathoz
+
+49\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+hatósági állatorvos
+
+bőrbegyűjtő hely
+
+(feldolgozó üzem)
+
+**NYILVÁNTARTÁS**
+
+**a begyűjtőhelyre (feldolgozó üzembe) állatorvosi vizsgálat nélkül érkezett állatbőrökről**
+
+<table><tbody><tr><td>**Nyilvántartási szám**</td><td>**A bőr állatfaj szerinti megnevezése**</td><td>**A bőr beérkezésének időpontja**</td><td>**A laboratóriumi vizsgálathoz szükséges minta vételének napja**</td><td>**A laboratóriumi vizsgálat eredménye**</td><td>**A bőrrel való további eljárás, továbbá az állatorvos aláírása**</td><td>**Jegyzet**</td></tr><tr><td>**1**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>**6**</td><td>**7**</td></tr><tr><td colspan="7"></td></tr></tbody></table>
+
+Megjegyzés: Az 1., 2. és 3. számú rovatot a bőrbegyűjtő hely, illetőleg a feldolgozó üzem, a 4., 5., 6. és 7. rovatot a hatósági állatorvos tölti ki!
+
+## 50. számú függelék az Állategészségügyi Szabályzathoz
+
+50\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**KIMUTATÁS**
+
+**a ……………………………………………………. bőrbegyűjtő helyen, illetőleg feldolgozó**
+
+**üzemben lépfenére irányuló vizsgálat céljára vett bőrmintákról**
+
+<table><tbody><tr><td rowspan="2">**Sorszám**</td><td rowspan="2">**A bőr nyilvántartási száma**</td><td rowspan="2">**A mintavétel napja**</td><td colspan="2">**A laboratóriumi vizsgálat**</td><td rowspan="2">**Jegyzet**</td></tr><tr><td>**napja**</td><td>**eredménye**</td></tr><tr><td>**1**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>**6**</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Kelt.: ……………………….., 199.... év ……………………. hó ……… nap.
+
+…………………………………………………
+
+…………………………………………………
+
+a hatósági állatorvos neve
+
+és pontos lakcíme
+
+Megjegyzés: Az 1., 2. és 3. számú rovatot a mintát vevő hatósági állatorvos, a 4. és 5. számú rovatot az állategészségügyi intézet tölti ki!
+
+## 51. számú függelék az Állategészségügyi Szabályzathoz[^585]
+
+## 52. számú függelék az Állategészségügyi Szabályzathoz
+
+**A megvizsgált állati eredetű élelmiszerek megjelölése**
+
+*Húsbélyegzés*\
+A húsbélyegzést a Szabályzatban részletezettek szerint – a húson vagy a csomagoláson – a hús fogyaszthatóságának megjelölésére kell alkalmazni. A húsbélyegzőnek tisztán, jól olvashatóan kell mutatnia a helység nevét, a vizsgálat idejét (év, hó, nap) továbbá, ha a helységben több, húsvizsgálatot végző hatósági állatorvos is működik, a húsvizsgálatot végző hatósági állatorvos számjelzését is.\
+*A húsbélyegzők mintái*[^586]
+
+![](https://njt.jog.gov.hu/picture/01/01711997_11__200000419241_001_0.jpg)
+
+*Besütés*
+
+A besütés azonos a bélyegzéssel alkalmazott megjelöléssel.
+
+*Címkézés*
+
+A címkét – ha a termékkel érintkezik, a Népjóléti Minisztérium által engedélyezett anyagon – a miniszter által engedélyezett módon és formában kell alkalmazni.
+
+*Fémpánt, műanyag pánt*
+
+1\. A fogyasztásra feltétel nélkül alkalmas és a fogyasztásra alkalmatlan minősítést jelző fémpántnak olyan kódszámot kell tartalmaznia, amely a vizsgálat helyéről (vadászatra jogosult) tájékoztat.
+
+A nagyvad megjelölésére:
+
+fogyasztásra feltétel nélkül alkalmas hús esetén zöld fémpántot,
+
+fogyasztásra alkalmatlan minősítés esetén piros fémpántot kell alkalmazni.
+
+2\. A fogyasztásra feltétel nélkül alkalmas házinyúl-hús megjelölésére, elfogadott anyagból készült pánt (klipsz) is alkalmazható, amely a vágóhíd állatorvosi ellenőrzési számát tartalmazza.
+
+*A héjas tojás és tojáskészítmény megjelölése*[^587]
+
+![](https://njt.jog.gov.hu/picture/fb/fb3b1997_11__200000419241_001_1.jpg)
+
+## 53. számú függelék az Állategészségügyi Szabályzathoz
+
+**A húsbélyegzők alkalmazása**
+
+A fogyasztásra feltétel nélkül alkalmas húst a következő helyeken kell megjelölni:
+
+1\. Szarvasmarha, bivaly, juh, kecske, sertés és egypatájúak esetén:
+
+a) A 65 kg-nál nehezebb állati testeknél minden féltestet legalább a következő helyeken kell bélyegzővel megjelölni:
+
+– a comb külső oldalán,
+
+– az ágyék tájékon,
+
+– a háton,
+
+– a mellkason,
+
+– a lapockán.
+
+b) A többi állati testet legalább négy helyen kell bélyegzővel ellátni:
+
+– a lapockákon,
+
+– a combok külső oldalán.
+
+2\. Vadhús esetén:
+
+– szárnyas apróvadnál a 3. pontban szereplő, a baromfihúsra előírtak vonatkoznak,
+
+– szőrben-bőrben lévő nagyvadnál a szegycsont vagy a lábszár (Achilles-ín) tájékára felhelyezett fémpánt (plomba),
+
+– nyúzott nagyvadnál az 1. pont *a)* és *b)* bekezdésében, a házi emlősállatok húsára leírtak szerint.
+
+3\. Baromfihús esetén:
+
+– csomagolatlan baromfitestnél a végbélnyílás előtt, a hasfal közepe táján,
+
+– egyedi csomagolású vágott baromfi esetében a fóliára vagy egyéb csomagolóanyagra,
+
+– gyűjtőcsomagolásban lévő baromfihús esetében egyszer használható pecsét vagy címke formájában.
+
+4\. Házinyúl esetén:
+
+– a hasfal külső oldalán bélyegzéssel vagy pánt felhelyezésével.
+
+5\. A szarvasmarha, juh, kecske, sertés és az egypatájúak máját besütő bélyegzővel kell megjelölni.
+
+Minden más belsőséget (nyelvet, tüdőt) festékes vagy besütő bélyegzővel kell megjelölni.
+
+6\. A becsomagolt húst, továbbá becsomagolt belsőséget úgy kell megjelölni, hogy az üzem (vágó vagy önálló daraboló) állatorvosi ellenőrzési számát tartalmazó címkét a csomagoláshoz kell erősíteni (ragasztani, rányomtatni) oly módon, hogy az a csomag felnyitásakor megsemmisüljön. A címke legyen ellátva sorozatszámmal is.
+
+A fogyasztásra alkalmatlan húst az 1–4. pontokban foglaltaktól eltérően az állati test más részén kell megjelölni.
+
+Bélyegzésre csak erre a célra engedélyezett alkoholos festéket szabad használni.
+
+## 54. számú függelék az Állategészségügyi Szabályzathoz
+
+**KÉNYSZERVÁGÁSI JAVASLAT**
+
+Javaslom ........................... tulajdonát képező ...........db .............. fajú ......... korú ............. ivarú vágóállat(ok) ................................................
+
+miatt történő kényszervágását.
+
+Az állat(ok) .............. -tól beteg(ek) volt(ak).
+
+Gyógyszeres kezelés:
+
+– antibiotikum megnevezése: ...........
+
+utolsó kezelés időpontja: ...........
+
+– egyéb gyógyszer megnevezése: ........
+
+utolsó kezelés időpontja: ...........
+
+Egyéb (a tenyészminősítésre, az állatbiztosításra stb. vonatkozó) közlés: ................................
+
+Kelt: .........., 19.... év ....... hónap .... nap.
+
+Megjegyzés: Nagy állatokról külön-külön, az azonos ok miatt kényszervágandó kisállatokról csoportosan töltendő ki.
+
+P. H.
+
+..........
+
+állatorvos
+
+## 55. számú függelék az Állategészségügyi Szabályzathoz
+
+55\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Nyilvántartás a vágóhídon teljesített húsvizsgálatról**
+
+Napi összesítés 199…. év ……………………. hónapban
+
+Vágásszám (R = rendes, K = kényszer)
+
+<table><thead><tr><th rowspan="2">**Dátum**</th><th colspan="2">**Sertés**</th><th colspan="2">**Szarvasmarha**</th><th colspan="2">**Bivaly**</th><th colspan="2">**Borjú**</th><th colspan="2">**Juh**</th><th colspan="2">**Kecske**</th><th colspan="2">**Szamár, ló, öszvér**</th><th colspan="2">**Egyéb**</th></tr><tr><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th><th>**R**</th><th>**K**</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 56. számú függelék az Állategészségügyi Szabályzathoz
+
+**Nyilvántartás a vágóhídon teljesített húsvizsgálatról**
+
+**(vágóbaromfi, vágónyúl)**
+
+<table><tbody><tr><td rowspan="3">Dá-<br>tum</td><td colspan="2">Vágóbaromfi, vágónyúl</td><td rowspan="3">A származási és<br>állomány-minősítési<br>igazolás helye, kelte,<br>száma, kiállítója</td><td colspan="2">Csirke</td><td colspan="2">Tyúk</td><td colspan="2">Liba</td><td colspan="2">Kacsa</td><td colspan="2">Pulyka</td><td colspan="2">Gyöngytyúk</td><td colspan="2">Házinyúl</td><td colspan="2">Galamb</td><td colspan="2">Egyéb</td><td rowspan="3">Meg-<br>jegy-<br>zés</td></tr><tr><td rowspan="2">tulajdono-<br>sának neve</td><td rowspan="2">származá-<br>si helye,<br>illetve<br>gyűjtőhely</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td><td>vá-<br>gás-<br>szám</td><td>hulla</td></tr><tr><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td><td>db</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 57. számú függelék az Állategészségügyi Szabályzathoz
+
+**Nyilvántartás a vad- és víziállat húsvizsgálatáról**
+
+Napi összesítés 199.... év ...... hónapban
+
+<table><tbody><tr><td rowspan="2">**Dátum**</td><td>**Vad-** **disznó**</td><td>**Szar-** **vas**</td><td>**Dám-** **vad**</td><td>**Őz**</td><td>**Muf-** **lon**</td><td>**Mezei** **nyúl**</td><td>**Üregi** **nyúl**</td><td>**Fácán**</td><td>**Fo-** **goly**</td><td>**Vad-** **kacsa**</td><td>**Vad-** **liba**</td><td>**Fürj**</td><td>**Sza-** **lonka**</td><td>**Egyéb** **vad**</td><td>**Hal**</td><td>**Béka**</td><td>**Csiga**</td><td>**Rák**</td><td>**Kagy-** **ló**</td><td>**Egyéb vízi-** **állat**</td></tr><tr><td>**1**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>**6**</td><td>**7**</td><td>**8**</td><td>**9**</td><td>**10**</td><td>**11**</td><td>**12**</td><td>**13**</td><td>**14**</td><td>**15**</td><td>**16**</td><td>**17**</td><td>**18**</td><td>**19**</td><td>**20**</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Összesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 58. számú függelék az Állategészségügyi Szabályzathoz
+
+**KIMUTATÁS**
+
+199.... évi ......-tól ......-ig terjedő
+
+időszakban végzett húsvizsgálat eredményéről
+
+<table><tbody><tr><td rowspan="3">**Állatfaj**</td><td rowspan="3">Mennyiségi egység<br>(db, vágott tonna)</td><td colspan="2">Vizsgálatra<br>került</td><td rowspan="3">**Összesen**</td><td colspan="4">Az összesből<br>fogyasztásra</td></tr><tr><td>ren-<br>des</td><td>kény-<br>szer</td><td rowspan="2">feltétel<br>nélkül<br>alkalmas</td><td rowspan="2">felté-<br>telesen<br>alkalmas</td><td rowspan="2">csekélyebb tápláló-,<br>élvezeti értékűként alkalmas</td><td rowspan="2">alkal-<br>matlan</td></tr><tr><td colspan="2">**vágás**</td></tr><tr><td>**1**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>**6**</td><td>**7**</td><td>**8**</td><td>**9**</td></tr><tr><td>Sertés</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Szarvasmarha</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Borjú</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bivaly</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Juh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Kecske</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ló, szamár, öszvér</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tyúkfélék</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pulyka</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Liba</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Kacsa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Egyéb baromfi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Házinyúl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nagyvad</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apróvad</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Egyéb víziállat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Kelt: ..........., 199..... év ....... hó .... nap.
+
+Megjegyzés: Az 5. rovat és a 6–9. rovat számadatai összegének meg kell egyezniük.
+
+A mennyiséget sertés, szarvasmarha, borjú, bivaly, juh, kecske, ló, szamár, öszvér esetén db-ban, a többi állatfaj esetén tonnában kell megadni.
+
+## 59. számú függelék az Állategészségügyi Szabályzathoz
+
+**Nyilvántartás**[^588]
+
+**a különleges vizsgálat alá vont állatok húsvizsgálatáról**
+
+**és a fogyasztás elől elvont állatokról, illetve állati testrészekről**
+
+<table><tbody><tr><td colspan="30">Nyilvántartás<br>a különleges vizsgálat alá vont állatok húsvizsgálatáról<br>és a fogyasztás elől elvont állatokról, illetve állati testrészekről</td></tr><tr><td rowspan="2">Sorszám</td><td rowspan="2">Dátum</td><td></td><td></td><td colspan="2" rowspan="2">Vágás</td><td></td><td></td><td></td><td rowspan="2">Az állat faja</td><td colspan="2" rowspan="2">Fogyasztásra feltétel nélkül alkalmas</td><td colspan="4" rowspan="2">Fogyasztásra csekélyebb tápláló-, élveze-<br>ti értékűként alkalmas</td><td colspan="4" rowspan="2">Fogyasztásra feltételesen alkalmas</td><td colspan="7">Fogyasztásra alkalmatlan</td><td></td><td></td><td></td></tr><tr><td>Tulajdonos neve, lakhelye az állat tar-<br>tási helye ()</td><td>Az állat leírása, azonosítási adatok<br>(származási igazolvány száma)</td><td>Különleges vizsgálat alá vonás oka</td><td>Húsvizsgálati lelet leírása és a húsvizs-<br>gálati határozat alapja (kórisme)</td><td>Mintavételi jegyzőkönyv és laboratóriu-<br>mi napló száma</td><td colspan="4">az egész állat</td><td colspan="3">az állat része, illetve zsigere</td><td>17−19. rovatok esetén a további eljárás-<br>ra utaló bizonylat száma</td><td>Megjegyzés</td><td>A húsvizsgáló állatorvos neve</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>R</td><td>K</td><td colspan="2">R</td><td colspan="2">K</td><td colspan="2">R</td><td colspan="2">K</td><td colspan="2">R</td><td colspan="2">K</td><td colspan="2" rowspan="2">meg-<br>nevezés</td><td rowspan="2">kg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>R</td><td>K</td><td></td><td></td><td></td><td></td><td>db</td><td>db</td><td>db</td><td>kg</td><td>db</td><td>kg</td><td>db</td><td>kg</td><td>db</td><td>kg</td><td>db</td><td>kg</td><td>db</td><td>kg</td><td></td><td></td><td></td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td colspan="2">5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td colspan="2">24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 60. számú függelék az Állategészségügyi Szabályzathoz
+
+60\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Nyilvántartás**
+
+**a másodlagos húsvizsgálat eredményéről, a külföldi és belföldi üzemekből beszállított, tárolt vagy felhasznált húsokról**
+
+| **Sorszám** | **Beérkezés időpontja** | **Hús származása*** | **Hússzállítási igazolvány száma** | **Termék megnevezése** | **Darabok,** **csomagok száma**** | **Nettó súly** | **Vizsgálat időpontja** | **Vizsgálat eredménye** | **Megjegyzés** | **Aláírás** |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+\* A létesítmény megnevezése (export ellenőrzési száma), ország, helység neve.
+
+** Állati testek, fél vagy negyed testek száma, kartonok, dobozok száma.
+
+## 61. számú függelék az Állategészségügyi Szabályzathoz
+
+61\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+**Nyilvántartás trichinella vizsgálatról***
+
+| **Sorszám** | **Dátum** | **Állatfaj neve** | **Vizsgált állatok száma** **(……-tól ……-ig)** | **Vizsgálat eredménye** | **Vizsgáló neve, aláírása** |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+\* A vizsgálat módszere: emésztéses vagy egyedi mikroszkópos, trichinoszkópos.
+
+(A vizsgáló módszer aláhúzandó.)
+
+## 62. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000\
+**HÚSSZÁLLÍTÁSI IGAZOLVÁNY**\
+Származási hely: .........................\
+Rendeltetési hely: .......................\
+A szállítmány megnevezése: ...............\
+állatfaj, illetve lőtt vad fajta: ........\
+darabolási mód: mennyisége: ........ db/kg\
+darabolási mód: mennyisége: ........ db/kg\
+darabolási mód: mennyisége: ........ db/kg\
+A húskészítmény megnevezése:\
+................... mennyisége: ....... kg\
+................... mennyisége: ....... kg\
+................... mennyisége: ....... kg\
+................... mennyisége: ....... kg\
+................... mennyisége: ....... kg\
+A szállítólevél száma és kelte: ..........\
+A szállító jármű jellege: aktív hűtésű, termosz, egyéb zárt tehergépkocsi, személygépkocsi*\
+forgalmi rendszáma: ......................\
+Igazolom, hogy
+
+1\. friss hús*
+
+2\. vadhús* szállítmány
+
+3\. húskészítmény*
+
+a húsvizsgálat szerint fogyasztásra feltétel nélkül alkalmas.
+
+Az előírt kiegészítő vizsgálat: ........ megtörtént és az kedvező eredményű.
+
+Egyéb közölnivaló: .......................
+
+199.... év ............. hó ..... nap.
+
+P. H.
+
+...................
+
+hatósági állatorvos
+
+_______
+
+\* A nem kívánt szövegrész törlendő.
+
+## 62/a. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000
+
+**HÚSSZÁLLÍTÁSI IGAZOLÁS**
+
+**a házi vágás során megvizsgált, piaci értékesítésre kerülő baromfiról**
+
+I.
+
+A tulajdonos neve: ......................
+
+címe: ......................
+
+A levágott állatok fajtája: .............
+
+száma: ......................
+
+rendeltetési helye: .....................
+
+II.
+
+Alulírott, hatósági állatorvos igazolom, hogy az állatokat a levágás alkalmával megvizsgáltam, és a húsvizsgálat szerint azokat fogyasztásra feltétel nélkül alkalmasnak találtam.
+
+Egyéb megjegyzés: .......................
+
+l99.... év ........... hó ..... nap.
+
+P. H.
+
+...................
+
+hatósági állatorvos
+
+## 63. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000
+
+**HÚSSZÁLLÍTÁSI IGAZOLVÁNY**
+
+**a különleges vizsgálat alá vont húsokhoz és a fogyasztásra csekélyebb tápláló,**\
+**élvezeti értékűként alkalmasnak minősített húskészítményekhez**
+
+Származási hely(üzem): ...................
+
+Rendeltetési hely(üzem): .................
+
+Tulajdonos neve és lakhelye: .............
+
+A szállítmány megnevezése:
+
+állatfaj: ................................
+
+darabolási mód: ........ mennyisége: ...... db/kg
+
+darabolási mód: ........ mennyisége: ...... db/kg
+
+darabolási mód: ........ mennyisége: ...... db/kg
+
+A készítmény megnevezése:
+
+.................. mennyisége: ........ kg
+
+.................. mennyisége: ........ kg
+
+.................. mennyisége: ........ kg
+
+.................. mennyisége: ........ kg
+
+A szállítólevél száma és kelte: ..........
+
+A szállító jármű jellege: aktív hűtésű, termosz, egyéb zárt tehergépkocsi, személygépkocsi*
+
+forgalmi rendszáma: ......................
+
+Igazolom, hogy a fent nevezett
+
+1\. hús/kényszervágott állat húsa*
+
+2\. húskészítmény*
+
+a húsvizsgálat során
+
+1\. fogyasztásra feltétel nélkül alkalmas*
+
+2\. fogyasztásra feltételesen alkalmas*
+
+3\. fogyasztásra csekélyebb tápláló, élvezeti értékűként alkalmas*
+
+minősítést nyert.
+
+Az értékcsökkenés javasolt mértéke: ......
+
+Javaslat hatósági húskezelésre: ..........
+
+A szállítmányt hatósági húsboltba utalom!
+
+199.... év .............. hó ...... nap.
+
+P. H.
+
+...................
+
+hatósági állatorvos
+
+_______
+
+\* A nem kívánt szövegrész törlendő.
+
+## 64. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!) Sorszám: 00000000
+
+**ÁLLATORVOSI IGAZOLVÁNY**
+
+**külföldről behozott állati eredetű nyers élelmiszerek,**
+
+**élelmiszer nyersanyagok és félkész termékek szállítására**
+
+Származási ország: ..........................
+
+A feladó neve: ..............................
+
+címe: .......................................
+
+Első betárolási és ellenőrzési hely: ........
+
+Rendeltetési hely (üzem): ...................
+
+A hústermék megnevezése: ....................
+
+Csomagolás módja: ...........................
+
+A termék mennyisége (db, csomagok száma stb.):
+
+.............................................
+
+Nettó tömeg: ................................
+
+Szállító jármű megnevezése, azonosító jelzése:
+
+.............................................
+
+Alulírott hatósági állatorvos igazolom, hogy a jelen igazolványban leírt friss hús/hústermék szállítmányt megvizsgáltam és az első betárolás helyén élelmiszerhigiéniai kifogás nem merült fel.
+
+199.... év ................ hó ...... nap.
+
+P. H.
+
+...................
+
+hatósági állatorvos
+
+## 65. számú függelék az Állategészségügyi Szabályzathoz
+
+**KÍSÉRŐJEGYZÉK A LABORATÓRIUMI KIEGÉSZÍTŐ HÚSVIZSGÁLATHOZ[^589]**
+
+<table><tbody><tr><td colspan="12">KÍSÉRŐJEGYZÉK A LABORATÓRIUMI KIEGÉSZÍTŐ HÚSVIZSGÁLATHOZ</td></tr><tr><td>Folyószám</td><td></td><td></td><td rowspan="2">Folyószám</td><td colspan="2" rowspan="2">A beküldés<br>napja</td><td colspan="2" rowspan="2">A tulajdonos<br>neve</td><td rowspan="2">Az állat faja</td><td rowspan="2">A vágás módja</td><td rowspan="2">A vizsgálatra<br>küldött anyag<br>megnevezése</td><td rowspan="2">A kórelőzmény<br>és a vizsgálat<br>célja</td></tr><tr><td>A beküldés napja</td><td></td><td></td></tr><tr><td>A tulajdonos neve</td><td></td><td rowspan="5"></td><td rowspan="5"></td><td colspan="2" rowspan="5"></td><td colspan="2" rowspan="5"></td><td rowspan="5"></td><td rowspan="5"></td><td rowspan="5"></td><td rowspan="5"></td></tr><tr><td>Az állat faja</td><td></td></tr><tr><td>A vágás módja</td><td></td></tr><tr><td>A vizsgálatra kül-<br>dött anyag megne-<br>vezése</td><td></td></tr><tr><td>A kórelőzmény<br>és a vizsgálat célja</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan="6">Kelt: ………………………., 199 ……………………….</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan="2">A vizsgálati napló száma</td><td colspan="2">A beérkezés napja</td><td colspan="5">A laboratóriumi kiegészítő húsvizsgálat eredménye</td></tr><tr><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td colspan="2">Kelt: ……., 199 ………………………</td><td></td><td colspan="6">Kelt: ………………………., 199 ……………………….</td><td></td><td></td><td></td></tr></tbody></table>
+
+## 66. számú függelék az Állategészségügyi Szabályzathoz
+
+.........../199 ...... szám
+
+**MINTAVÉTELI JEGYZŐKÖNYV**
+
+**laboratóriumi vizsgálatra küldéshez**
+
+<table><tbody><tr><td rowspan="2">1. Az élelmiszer birtokosa</td><td>neve vagy cége:</td></tr><tr><td>címe vagy telephelye:</td></tr><tr><td rowspan="2">2. A mintavétel</td><td>helye:</td></tr><tr><td>időpontja:</td></tr><tr><td colspan="2">3. A felelős mintavevők megnevezése:</td></tr><tr><td colspan="2">4. A mintavétel (illetve vizsgálat) célja:</td></tr><tr><td colspan="2">5. A mintavétel módjának a szabvány előírásától való eltérése és ennek indoklása:</td></tr><tr><td colspan="2">6. A vizsgálatot elrendelő hatóság, illetve kérő magánfél megnevezése:</td></tr><tr><td rowspan="3">7. A mintavételi lap</td><td>megnevezése</td></tr><tr><td>mennyisége</td></tr><tr><td>a gyártás ideje és helye</td></tr><tr><td rowspan="6">8. A minta, másodminta stb.</td><td>darabszáma</td></tr><tr><td>darabonkénti tömege</td></tr><tr><td>összes tömege</td></tr><tr><td>csomagolása</td></tr><tr><td>jelzése</td></tr><tr><td>pecsétje</td></tr><tr><td colspan="2">9. A másodmintavétel oka:</td></tr><tr><td colspan="2">10. Helyszíni vizsgálat eredménye és egyéb megjegyzések:</td></tr><tr><td colspan="2">11. A minta és a mintavételi alap átlagának megfelel, vagy nem felel meg:</td></tr><tr><td colspan="2">12. A minta hőkezelése (nyers, hőkezelt stb.):</td></tr><tr><td colspan="2">13. A minta laboratóriumba juttatásának módja:</td></tr><tr><td colspan="2">14. A vizsgáló laboratórium neve, címe:</td></tr><tr><td colspan="2">15. A laboratóriumi vizsgálatig a mintát hány fokon tárolták:</td></tr><tr><td rowspan="2">16. A mintavételnél közreműködők</td><td>neve:</td></tr><tr><td>saját kezű aláírása:</td></tr><tr><td colspan="2">17. A mintavételi hely felelős vezetőjének vagy megbízottjának neve, aláírása:</td></tr><tr><td colspan="2">18. A beküldő állatorvos neve és címe:</td></tr></tbody></table>
+
+## 67. számú függelék az Állategészségügyi Szabályzathoz
+
+......../19 ...... szám\
+**MINTAVÉTELI JEGYZŐKÖNYV**\
+**a helyszíni vizsgálat során vett minták laboratóriumba küldéséhez**\
+Készült ........... 199.... év ........ hó ..... nap .... órakor\
+.......................... (név) hatósági állatorvos által ........... üzemben(telephelyen) .............. üzletben piacon (csarnokban)\
+végzett mintavételről.\
+Az élelmiszer-birtokos (felelős vezető) neve: ...................\
+anyja neve: ................ születési helye: ...................\
+lakhelye: ............... város/község ............... út/utca/tér ............ házszám\
+személyi igazolványának száma: ...............
+
+1\. A mintavétel oka: .....................
+
+2\. A helyszíni vizsgálat (élelmiszerhigiéniai szemle) megállapításai:
+
+..........................................
+
+..........................................
+
+..........................................
+
+3\. A gyártási tétel (kiskereskedelmi árukészlet)
+
+a) megnevezése: ..........................
+
+b) mennyisége gyártáskor vagy az árusítás kezdetén:
+
+..........................................
+
+a mintavétel időpontjában: .........
+
+c) a gyártás ideje (gyártási tétel esetén töltendő ki):
+
+..........................................
+
+d) származása (kereskedelmi árukészlet esetén töltendő ki):
+
+..........................................
+
+e) a származást igazoló bizonylat:
+
+..........................................
+
+f) tárolóedényzet vagy csomagolóanyag megnevezése:
+
+..........................................
+
+g) tárolóedényzeten vagy csomagolóanyagon meglevő jelölések:
+
+..........................................
+
+4\. Az élelmiszerminta
+
+a) mintaszáma: ....... tömege db-ként: ..... g/cm<sup>3</sup>
+
+jelölése: ..........................
+
+b) másodminta száma: ...... tömege db-ként: ..... g/cm<sup>3</sup>
+
+jelölése: ...........................
+
+c) hőmérséklete a mintavételkor: ...... °C
+
+d) tartósítószer megnevezése: .......
+
+5\. A higiéniai állapotot felmérő minta
+
+a) megnevezése: ...................
+
+b) száma: .........................
+
+c) jelölése: ......................
+
+6\. A szükséges laboratóriumi vizsgálat megnevezése:
+
+..........................................
+
+7\. A helyszíni intézkedések: .............
+
+..........................................
+
+8\. Az élelmiszer-birtokos fellebbezett/nem fellebbezett
+
+9\. Megjegyzés: ...........................
+
+K. m. f.
+
+A jegyzőkönyvben felvett adatok helyességét elismerem.
+
+.......................
+
+az élelmiszer birtokosa
+
+...................
+
+hatósági állatorvos
+
+Készült 3 példányban, az 1. példányt a vizsgáló laboratóriumba kell küldeni, a 2. példányt az élelmiszer-birtokosnak (felelős vezetőnek) kell átadni, a 3. példány a mintavevő nyilvántartásában marad.
+
+Kitöltési tájékoztató: élelmiszerminta esetén termékféleségenként, higiéniai állapotot felderítő minták esetén üzemenként, forgalmi helyenként kell jegyzőkönyvet készíteni.
+
+## 68. számú függelék az Állategészségügyi Szabályzathoz
+
+(Szigorú számadású nyomtatvány!)\
+Sorszám: 00000000\
+**Állatorvosi igazolás**\
+**a termelői nyerstej, tejtermék forgalomba hozatalához**\
+Igazolom, hogy .......................\
+szám alatti lakosnál a mai napon elvégzett vizsgálat alapján megállapítottam, hogy az udvarában tartott tejelő állat\
+..................... db tehén\
+..................... db bivaly\
+..................... db juh\
+..................... db kecske\
+egészséges, az állomány gümőkórtól, brucellózistól mentes, a tej termelésére, kezelésére vonatkozó állategészségügyi és élelmiszerhigiéniai előírásokat megtartották, és a tej érzékszervi elváltozást nem mutat.\
+Az igazolás visszavonásig, de legfeljebb egy évig érvényes.\
+Kelt ..........., ..... év ........... hó ..... nap.\
+P. H.\
+...................\
+hatósági állatorvos\
+Tudnivalók:
+
+1\. A tejelő állományban végzett mindennemű állatorvosi beavatkozás előtt az állatorvosi igazolást a kezelő állatorvosnak külön felszólítás bevárása nélkül be kell mutatni.
+
+2\. Ha a kezelő állatorvos a vizsgálat alapján a tej forgalombahozatalát megtiltja, az állatorvosi igazolást átmenetileg – a tilalom idejére – bevonja.
+
+3\. Az állatorvosi igazolást az árusítás alkalmával a termelő köteles magánál tartani, és felszólításra hatósági ellenőrzésre bemutatni.
+
+## 69. számú függelék az Állategészségügyi Szabályzathoz
+
+69\. számú függelék *az Állategészségügyi Szabályzathoz*
+
+<table><tbody><tr><td rowspan="2">**Sorszám**</td><td rowspan="2">**Dátum**</td><td rowspan="2">**Ellenőrzés helye** **(üzlet, szállító jármű)**</td><td rowspan="2">**Nyilvántartási száma**</td><td colspan="2">**Ellenőrzött élelmiszer**</td><td rowspan="2">**Diagnózis**</td><td rowspan="2">**Megjegyzés**</td></tr><tr><td>**megnevezés**</td><td>**minta**</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+| **Higiéniai megállapítások** | **Figy.** | **Jkv.** | **Határozat** | **Szabálysértés** | **Megjegyzés** | **Állatorvos aláírása** |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+## 70. számú függelék az Állategészségügyi Szabályzathoz
+
+........./19 ....... szám\
+**HATÁROZAT**\
+Készült ............... 199 ..... év ........... hó ...... nap ..... órakor\
+.................. (név) hatósági állatorvos által ........................\
+üzemben (telephelyen) vizsgálat\
+üzletben megtartott ellenőrzés\
+piacon (csarnokban) élelmiszerhigiéniai szemle\
+alkalmával.\
+Az élelmiszer-birtokos (felelős vezető) neve: .....................\
+anyja neve: .................... születési helye: .................\
+lakhelye: .................. város/község ................ út/utca/tér ........... házszám\
+személyi igazolvány száma: .....................\
+A mai napon megtartott\
+vizsgálat\
+ellenőrzés\
+élelmiszerhigiéniai szemle\
+során
+
+1\. érzékszervi vizsgálat
+
+2\. laboratóriumi kiegészítő vizsgálat
+
+alapján ............. kg/l/db ............ élelmiszeren ............................. állapítottam meg.
+
+Az élelmiszert az állategészségügyről szóló 1995. évi XCI. törvény 6. §-a szerint és a végrehajtására kiadott .............. FM rendelet ..... §-a alapján fogyasztásra alkalmatlannak minősítem, lefoglalom és elrendelem annak elkobzását (megsemmisítését).
+
+A hatósági megsemmisítést ...................
+
+végzi, illetve ..............................
+
+által kerül elszállításra.
+
+Kelt ........., .... év ........ hó .... nap.
+
+P. H.
+
+...................
+
+hatósági állatorvos
+
+## 71. számú függelék az Állategészségügyi Szabályzathoz
+
+**Egyes betegségeknek a Szabályzatban szereplő, illetve más közhasználatú elnevezése**
+
+Szabályzatban szereplő név | Más közhasználatú elnevezés
+
+--------------------
+
+**I. ***Emlősállatok betegségei*****
+
+sugárgomba-betegség | actinomycosis
+
+afrikai sertéspestis | pestis africana suum
+
+afrikai lópestis | pestis equorum
+
+Aujeszky-féle betegség | morbus Aujeszkyi
+
+álgümőkór | pseudotuberculosis atypica
+
+borsókakór | cysticercosis
+
+botriomikózis | botriomycosis
+
+botulizmus | botulismus
+
+brucellózis | brucellosis
+
+fertőző hólyagos szájgyulladás | stomatitis vesicularis specifica
+
+fertőző sertésbénulás | polioencephalomyelitis enzootica suum
+
+galandférgesség (juh) | moniesiosis
+
+gümőkór | tuberculosis
+
+hólyagférgesség | echinococcosis
+
+keleti marhavész | pestis bovina
+
+kéknyelv betegség | bluetongue disease
+
+kiskérődzők pestise | pestis caprorum
+
+kokcidiózis | coccidiosis
+
+leptospirózis | leptospirosis
+
+leukózis | leucosis
+
+lépfene | anthrax
+
+liszteriózis | listeriosis
+
+lovak fertőző kevésvérűsége | anaemia infectiosa equorum
+
+métely (májmételykór) | fasciolosis
+
+mixomatózis | myxomatosis
+
+nyúlszifilisz | spirochaetosis cuniculorum
+
+orsóférgesség (sertés) | ascaridosis suum
+
+pasteurellózis (nyúl) | pasteurellosis leporum seucuniculorum
+
+piobacillózis | pyobacillosis
+
+Q-láz | Q-fever
+
+ragadós száj- és körömfájás | aphthae epizooticae
+
+rosszindulatú vizenyő | oedema malignum
+
+Riftvölgyi-láz | Rift Valley-fever
+
+sárgaság | icterus
+
+sercegő üszök | gangraena emphysematosa
+
+sertések heveny paratífusza | parathyphus suum
+
+sertések idült paratífusza = sertéstífusz | thyphus suum
+
+sertések hólyagos betegsége | swine vesicular disease (SVD)
+
+sertésorbánc | erysipelas suum
+
+sertéspestis | pestis suum
+
+sertések torzító orrgyulladása | rhinitis atrophicans suum
+
+szarkosporidiózis | sarcosporidiosis
+
+szarvasmarhák ragadós tüdőlobja | pleuropneumonia contagiosa bovum
+
+szarvasmarhák roncsoló orrhurutja | coryza gangraenosa bovum
+
+szarvasmarhák szivacsos agyvelőbántalma | bovin spongioform encephalopathia (BSE)
+
+szarvasmarhák vírusos hasmenése | virus diarrhoea (VD)
+
+szarvasmarhák vírusos tüdőgyulladása | infectious laryngo-bronchitis (ILB)
+
+takonykór | malleus
+
+tetanusz | tetanus
+
+toxoplazmózis | toxoplasmosis
+
+trichinellózis | trichinellosis
+
+tularémia | tularaemia
+
+tüdőpenészesedés | pneumomycosis
+
+vadnyúl-staphylococcosis | staphylococcosis leporum
+
+veszettség | lyssa
+
+jersiniózis | yersiniosis
+
+**II. ***Madarak betegségei*****
+
+álgümőkór | pseudotuberculosis avium
+
+baromfihimlő | variola avium
+
+baromfikolera | cholera avium
+
+baromfipestis (Newcastle-betegség) | pestis avium (Newcastle disease)
+
+baromfi-spirochaetosis | spirochaetosis avium
+
+baromfitífusz | typhus avium
+
+elhalásos bélgyulladás | enteritis necrotica
+
+fertőző bursitis | Gumboro-i betegség
+
+fertőző gége- és légcsőgyulladás | Laryngotracheitis infectiosa gallinarum
+
+gümőkór | tuberculosis avium
+
+kacsapestis | duck plaque (pestis anatum)
+
+lábrühösség | cnemidocoptes scabies
+
+baromfi-paratífusz | paratyphus avium
+
+Marek-féle betegség | neuroencephalomyelitis enzootica gallinarum
+
+idült légzőszervi betegség | mycoplasmosis chronic respiratory disease (CRD)
+
+ornitózis | ornithosis
+
+pulykák fertőző vakbél- és májgyulladása | typhlohepatitis infectiosa meleagridum
+
+tüdőpenészedés | pneumomycosis
+
+zárványtestes májgyulladás | inclusion body hepatitis (IBH)
+
+**III. ***Hal és egyéb víziállatok betegségei*****
+
+darakór | ichthiophthiriosis
+
+fonálférgesség | filariosis
+
+galandférgesség | ligulosis
+
+halhimlő | epithelioma myxomatosa cyprinorum
+
+penészfoltosság | dermatomycosis disseminata
+
+penészkór | dermatomycosis seprolegniacea
+
+pontyfélék tavaszi viraemiája (halak fertőző hasvízkórja) | septicaemia haemorrhagica | cyprinorum
+
+rákpestis | pestis cancrorum
+
+## 72. számú függelék az Állategészségügyi Szabályzathoz
+
+**A húsvizsgálat szempontjából lényeges nyirokcsomók felsorolása**
+
+Áll alatti In. submandibuláris
+
+Garat körüli In. retropharingeus
+
+Fültő alatti In. subparotideus
+
+Hörgők körüli Inn. bronchiales
+
+Gátorközi Inn. mediastinales
+
+Máj Inn. hepatici
+
+Bélfodri Inn. mesenterici
+
+Vese Inn. renales
+
+Tőgy feletti Inn. supramammarici
+
+Felső nyaki Inn. cervicales craniales
+
+Középső nyaki Inn. cervicales medii
+
+Hátulsó nyaki (mellkasbejárati) Inn. cervicales caudales
+
+Csípőcsonti Inn. ilici
+
+Belső csípőcsonti Inn. ilici mediales
+
+Külső csípőcsonti Inn. ilici laterales
+
+Ágyéki Inn. lumbales aortici
+
+Medencei Inn. hypogastrici
+
+Keresztcsonti Inn. sacrales
+
+Felületi lágyéki Inn. inguinales superficiales
+
+Haskorci In. praepatellaris
+
+Térdhajlási Inn. poplitei (In. popliteus)
+
+Bordaközi Inn. intercostales
+
+Elülső szegycsonti Inn. sternales craniales
+
+Gyomor Inn. gastrici
+
+Bendőtornác Inn. atriales
+
+## 73. számú függelék az Állategészségügyi Szabályzathoz
+
+**Élelmiszerhigiéniai szempontból fontosabb kórokozó mikroorganizmusok**
+
+*Baktériumok és azok toxinjai:*
+
+Bacilus cereus
+
+Clostridium botulinum
+
+Clostridium perfringens
+
+Salmonella typhi és Salmonella paratyphi A, B, C
+
+egyéb salmonellák
+
+Shigella fajok
+
+Staphyloccocus aureus
+
+Vibrio cholerae
+
+Továbbá: Brucella fajok, Bampylobacter fajok, pathogén Escherichia coli törzsek, Francisella tularensis, Listeria monocytogenes, Mycobacterium fajok, Vibrio parahaemolyticus, Yersinia enterocolitica streptococcus A, B csoportok Coxiella burnetii és egyéb kórokozónak elismert, de itt fel nem sorolt baktérium.
+
+*Vírusok:*
+
+Hepatitis A vírus
+
+Rotavírus
+
+Norwalk vírus és egyéb vírusok
+
+*Egysejtűek:*
+
+Entamoeba histolytica, Giardia species,
+
+Toxoplasma species,
+
+Sarcosporidium fajok, Cryptosporidium
+
+és egyéb fajok
+
+*Férgek:*
+
+Cysticercus/Taenia
+
+Echninococcus
+
+Trichinella spiralis
+
+*Gombák:*
+
+Mikotoxint termelő fajok
+
+## 74. számú függelék az Állategészségügyi Szabályzathoz
+
+**Egészségre ártalmas vegyianyag-maradék tartalom (reziduum) ellenőrzésének irányai**
+
+– Hormon és hormonhatású szerek.
+
+– Tireosztatikumok.
+
+– Idegrendszerre ható hozamfokozó szerek (β-blokkolók, tranquillánsok).
+
+– Antibakteriális gátló hatású szerek: antibiotikumok, különös tekintettel a kloramfenikolra, szulfonamidok, 5-nitrofurán származékok, egyéb antimikrobás- és kokcidiosztatikus hatású szerek.
+
+– Ekto- és endo-antiparazitikumok.
+
+– Mikroelemek, különös tekintettel a toxikus hatású elemekre (arzén, kadmium, higany, ólom).
+
+– Növényvédő szerek, peszticidek és egyéb környezetszennyező xenobiotikumok: klórozott szénhidrogének, szerves foszforsavészterek, szintetikus piretroidok, poliklórozott bifenilek, dioxinok, dibenzofuránok, poliaromás szénhidrogének (PAH).
+
+– Mikotoxinok: aflatoxinok, ochratoxin-A, deoxinivalenol, zearalenon, T<sub>2</sub>toxin, HT<sub>2</sub> toxin, acetoxicirpenol, nivalenol, patulin.
+
+– Egyéb szerek.
+
+## 75. számú függelék az Állategészségügyi Szabályzathoz
+
+**A Szabályzatban érintett egyes laboratóriumi megnevezések értelmezése**
+
+1\. *Bacteriaemia:* a mikrobák (elsősorban kórokozók és feltételes kórokozók) a vágóállat életében – esetenként agoniális állapotban – a nagy vérkörben oly mértékben történt részleges szétszóródása, aminek következtében a laboratóriumi kiegészítő húsvizsgálat alkalmával az elváltozott részből és egy szervből, illetve szövetből vagy elváltozott rész hiányában legalább két különböző szervből, illetve szövetből kimutathatók.
+
+2\. *Felmérő mintavétel:* folyamatosan végzett, szúrópróbaszerű mintavétel, amelynek adatait a matematikai-statisztika módszereivel dolgozzák fel és értékelik.
+
+3\. *Feltételesen kórokozó mikroba:* olyan mikroba, amely a gazdaszervezetbe vagy az élelmiszerbe általában nagyobb számban való bejutása révén és/vagy hajlamosító körülmények egyidejű fennforgása melletti elszaporodása következtében, illetve toxinja vagy egyéb káros anyagcsereterméke révén az élelmiszert (takarmányt) elfogyasztó személyek (vagy az állatok) egy részénél többé-kevésbé súlyos egészségkárosodást okozhat.
+
+4\. *Gyártási tétel (tétel):* olyan termék, amelyről a rajta lévő jelölések és/vagy a gyártási napló alapján, továbbá egyéb módon kétségtelenül megállapítható, hogy azonos helyen, azonos nyersanyagból, azonos technológiával, azonos időben (egy napon vagy egy műszakban) készült.
+
+5\. *Gyorsan romló élelmiszer:* olyan élelmiszer, amelyet nem vagy legfeljebb olyan mértékben tartósítottak, hogy előírás szerint tárolva eredeti sajátságait a reá nézve megállapított fogyaszthatósági időn belül megőrzi.
+
+6\. *Kereskedelmi árukészlet (árukészlet):* azonos termelői helyen előállított, azonos fajta és összetételű, azonos módon és tömegben (térfogatban) csomagolt, azonos felirattal ellátott, nagyobb mennyiségű élelmiszer, amelynél azonban a szám- vagy betűjelzések hiányában a tételjelleg nem állapítható meg.
+
+7\. *Kórokozó mikroba:* olyan mikroba, amely a gazdaszervezetben vagy az élelmiszerben való elszaporodása következtében, illetve toxinja vagy egyéb káros anyagcsere-terméke révén az élelmiszert elfogyasztó személy vagy az állat szervezetében egészségkárosodást vagy betegséget okoz. Az ebbe a csoportba tartozó mikrobák tételes felsorolását a 73. számú függelék tartalmazza.
+
+8\. *Laboratóriumi minősítő vizsgálat:* élelmiszerből, adalék-, burkoló- és csomagolóanyagból, továbbá higiéniai állapot felmérése céljából vett minta vizsgálata laboratóriumi módszerekkel és vizsgálat eredményeként a mintavétel alapjául szolgáló gyártási tétel, kereskedelmi árukészlet élelmiszerhigiéniai elbírálása, illetve a higiéniai állapot minősítése.
+
+9\. *Másodminta:* a tételnek az első mintával egyidejűleg vett, azzal mindenben megegyező, azonos módon kezelt és megjelölt része, amelyet azért vettek, hogy későbbi időpontban esetleg további vizsgálat céljára azonos vizsgálati anyag álljon rendelkezésre.
+
+10\. *Mikrobás fertőzöttség:* az élelmiszerben kórokozó mikrobák előfordulása vagy feltételesen kórokozó mikrobáknak az élelmezés-egészségügyi jogszabályban meghatározott értéket meghaladó mennyiségben való jelenléte.
+
+11\. *Mikrobás szennyezettség:* szennyező mikrobáknak az élelmiszerben az élelmezés-egészségügyi jogszabályban meghatározott értéket meghaladó mennyiségben való jelenléte.
+
+12\. *Mintavétel:* az a művelet, amelynek során a gyártási tételből, kereskedelmi árukészletből egy vagy több, vele mindenben megegyező kisebb részt – mintát vagy mintaelemet – a vizsgálat mindenkori céljának megfelelő számban és mennyiségben laboratóriumi vizsgálat céljára hatóságilag elkülönítenek.
+
+13\. *Mintavételi terv (mikrobiológiai mintavétel céljából):* egy vagy több mikrobiológiai jellemző elfogadási követelményének megállapítása adott gyártási tételre, kereskedelmi árukészletre vonatkozóan, meghatározott számú mintaelemnek előírt vizsgálati módszerekkel végzett vizsgálata alapján.
+
+14\. *Parenchimás szervek:* az állat belső szervei, az emésztőcsatorna kivételével.
+
+15\. *Septicaemia:* a mikrobák (elsősorban kórokozók és feltételesen kórokozók) a vágóállat életében, esetenként agoniális állapotban, a nagyvérkörbe való betörése és ott olyan mértékű szétszóródása, hogy azok a laboratóriumi kiegészítő húsvizsgálat alkalmával az elváltozott részből és több szervből, illetve szövetből vagy elváltozott szerv hiányában több szervből és szövetből kimutathatók, miközben a vágóállat a levágás előtti élőállat-vizsgálat során általában súlyos klinikai tüneteket is mutat.
+
+16\. *Szennyező mikroba:* olyan mikroba, amely az élelmiszerre vagy az ennek feldolgozása során igénybe vett alap-, adalék- és burkolóanyagra környezetükből utólagos szennyeződés következtében rákerül, és azok eltarthatóságát vagy higiéniai állapotát károsan befolyásolja.
+
+17\. *Szúrópróbaszerű mintavétel:* olyan mintavétel, amelynek során a gyártási tételből, kereskedelmi árukészletből laboratóriumi vizsgálat céljára általában egyetlen vagy legfeljebb néhány mintaelemet különítenek el, és a vizsgálat eredményét minősítés céljára általában nem használják fel.
+
+18\. *Tartós élelmiszer:* olyan élelmiszer, amely előírás szerint tárolva nem változtatja meg eredeti sajátságait a reá nézve megállapított minőségmegőrzési időtartamon belül.
+
+19\. *Tételminősítő mintavétel:* olyan mintavétel, amelynek során a gyártási tételből, kereskedelmi árukészletből a laboratóriumi vizsgálat céljára a mintaelemeket a matematikai statisztika szabályai szerinti számban úgy különítik el, hogy ezek összetétele és élelmiszerhigiéniai állapota a vizsgálandó tételt a mintavétel időpontjában megközelítően hűen jellemzi, és ennek következtében a vizsgálat eredménye a tétel egészének meghatározott jellemző(k) szerint minősítésre alkalmas legyen.
+
+## 2. számú melléklet a 41/1997. (V. 28.) FM rendelethez
+
+**Az állati hulladékok járványügyi intézkedésként elrendelt ártalmatlanná tételével kapcsolatos díjak mértéke**
+
+Az ártalmatlanná tétel – fuvarköltséget is tartalmazó – díjtételei a hatóság által elrendelt módszertől függően
+
+*a)* feldolgozás esetén 14 400 Ft/tonna,
+
+*b)* megsemmisítés (elföldelés, elégetés) esetén 31 200 Ft/tonna.
+
+A díjtételek az általános forgalmi adót nem tartalmazzák.
+
+## 3. számú melléklet a 41/1997. (V. 28.) FM rendelethez
+
+**Az Európai Közösségek jogszabályaihoz való közelítést szolgáló, e rendelet alkotásánál figyelembe vett közösségi jogszabályok jegyzéke[^590]**
+
+*Állatgyógyászati termékek*
+------------------------
+Közösségi jogszabály
+Közösségi jogszabály címe
+Felelős | Fehér Könyv ajánlása; egyéb megjegyzés
+------------------------
+A Bizottság 80/879/EGK irányelve
+a nagy tételben csomagolt nyers baromfihús fogyaszthatóságának jelöléséről
+FM | nem szerepel a Fehér Könyvben
+A Bizottság 94/71/EGK határozata
+a nyerstej és a tejalapú készítmények higiéniai előírásairól
+FM | nem szerepel a Fehér Könyvben
+A Tanács 92/608/EGK határozata
+a kész fogyasztásra szánt hőkezelt tejre vonatkozó vizsgálati módszerekről
+FM | nem szerepel a Fehér Könyvben
+A Tanács 1898/87/EGK irányelve
+az értékesítés során a tej és a tejtermékek jelölésének védelméről
+FM | nem szerepel a Fehér Könyvben
+*Mezőgazdaság*
+*(Fehér Könyv* 5. fejezet*)*
+A Tanács 64/432/EGK irányelve
+a szarvasmarháknak és a sertéseknek a Közösségen belüli kereskedelemre hatást gyakorló állategészségügyi problémáiról
+FM | I. szakasz
+A Tanács 92/118/EGK irányelve
+amely meghatározza azoknak a termékeknek a Közösségbe való behozatalára vonatkozó állategészségügyi és közegészségügyi követelményeit, amelyek nem tartoznak azoknak a különleges közösségi szabályoknak a hatálya alá, amelyekre a 89/662/EGK irányelv A (1) függeléke, a kórokozókat illetően pedig a 90/425/EGK irányelv hivatkozik
+FM | I. szakasz
+A Tanács 64/433/EGK irányelve
+a friss hús Közösségen belüli kereskedelmére ható egészségügyi problémákról
+FM | I. szakasz
+A Tanács 71/118/EGK irányelve
+a friss baromfihús kereskedelmére ható egészségügyi problémákról
+FM | I. szakasz
+A Tanács 88/657/EGK irányelve
+a vagdalt hús, a száz grammnál kisebb húsdarabok és húskészítmények előállítására és kereskedelmére vonatkozó követelmények meghatározásáról, valamint a módosító 64/433/EGK, 71/118/ EGK és 72/462/EGK irányelvekről
+FM | I. szakasz
+A Tanács 89/437/EGK irányelve
+a tojástermékek előállítására és piacra vitelére ható higiéniai és egészségügyi problémákról
+FM NM | I. szakasz
+A Tanács 91/493/EGK irányelve
+a halászati termékek termelése és piacra vitele egészségügyi feltételeinek meghatározásáról
+FM | I. és II. szakasz
+A Tanács 91/498/EGK irányelve
+a friss hús előállítására és értékesítésére vonatkozó különleges közösségi egészségügyi szabályok alóli időben és tartalmában korlátozott kivételek nyújtásának feltételeiről
+FM | I. szakasz
+A Tanács 92/120/EGK irányelve
+bizonyos állati eredetű termékek előállítására és értékesítésére vonatkozó különleges közösségi egészségügyi szabályok alóli időben és tartalmában korlátozott kivételek nyújtásának feltételeiről
+FM | I. szakasz
+A Tanács 92/45/EGK irányelve
+a vadon élő fogoly megölésével és húsának piacra vitelével kapcsolatos közegészségügyi és állategészségügyi problémákról
+FM | I. szakasz
+A Tanács 92/46/EGK irányelve
+a nyerstej, a hőkezelt tej és a tejalapú termékek előállítása és piacra vitele egészségügyi feltételeinek meghatározásáról
+FM | I. és II. szakasz
+A Tanács 72/462/EGK irányelve
+a harmadik országokból származó szarvasmarha és sertés, valamint friss hús behozatalának egészségügyi és állategészségügyi ellenőrzési problémáiról
+FM | II. szakasz
+A Tanács 85/73/EGK irányelve
+a friss hús és a boromfihús egészségügyi vizsgálatának és ellenőrzésének finanszírozásáról (legutóbb az állati termékek állategészségügyi vizsgálatának és ellenőrzésének finanszírozására vonatkozó 85/64/EGK irányelv függelékét kiegészítő 94/64/EK irányelv A függeléke és a 90/675/EGK irányelv vonatkozik
+FM | II. szakasz
+A Tanács 89/608/EGK irányelve
+a tagállamok hatóságainak kölcsönös támogatásáról, valamint e hatóságok és a Bizottság együttműködése az állategészségügyi és állattenyésztési jogalkotás helyes alkalmazásának biztosítása érdekében
+FM | II. szakasz
+A Tanács 89/662/EGK irányelve
+a Közösségen belüli kereskedelem állategészségügyi ellenőrzésére vonatkozóan, tekintettel az egységes belső piac kiteljesítésére
+FM | II. szakasz
+A Tanács 90/425/EGK irányelve
+bizonyos élő állatok és állati termékek Közösségen belüli kereskedelmének állategészségügyi és állattenyésztési ellenőrzésére vonatkozóan, tekintettel az egységes belső piac kiteljesítésére
+FM | II. szakasz
+A Tanács 90/675/EGK irányelve
+a Közösségbe harmadik országokból beszállított termékek állategészségügyi ellenőrzésének megszervezését irányító elvekről
+FM | II. szakasz
+A Tanács 91/496/EGK irányelve
+a Közösségbe harmadik országokból beszállított állatok állategészségügyi ellenőrzésének megszervezését irányító elvekről, valamint a 89/662, a 90/425 és a 90/665 irányelvek módosításáról
+FM | II. szakasz
+A Tanács 88/306/EGK irányelve
+a Vágóállatok Védelmére vonatkozó Európai Egyezmény megkötéséről
+FM | I. szakasz
+A Tanács 91/628/EGK irányelve
+a 90/425/EGK és a 91/496/EGK irányelvek módosításáról és az állatok védelméről szállítás közben
+FM | I. szakasz
+A Tanács 93/119/EGK irányelve
+az állatok levágáskori védelméről
+FM | I. szakasz
+A Tanács 74/63/EGK irányelve
+a nemkívánatos anyagok és termékek maximális megengedett szintjének meghatározásáról a takarmányokban
+FM, NM | I. szakasz
+A Tanács 77/101/EGK irányelve
+az egyes takarmányok forgalomba hozataláról
+FM, NM | I. szakasz
+A Tanács 1906/90/EGK rendelete
+a baromfiak bizonyos forgalmazási szabványairól
+FM | I. szakasz
+A Tanács 1907/90/EGK rendelete
+a tojás bizonyos forgalmazási szabványairól
+FM | I. szakasz
+A Tanács 80/1095/EGK irányelve
+a klasszikus sertéspestistől való mentesítés feltételeiről
+FM |
+A Tanács 2377/90/EGK rendelete
+az állati eredetű élelmiszerekben az állatgyógyszer maradványok maximális mennyiségének meghatározására szolgáló közösségi eljárásról
+FM, NM | I. szakasz
+A Tanács 86/363/EGK irányelve
+(módosította a Tanács 94/29/EK irányelve)
+a növényvédőszer-maradványok maximális szintjének rögzítéséről az állati eredetű élelmiszerekben, valamint felületükön
+FM, NM | I. szakasz
+*Környezetvédelem*
+*(Fehér Könyv* 8. fejezet*)*
+A Bizottság 94/3/EK határozata
+a hulladékokról szóló 75/442/EGK tanácsi irányelv I. cikkének *a)* pontja szerinti hulladéklista kialakításáról
+KTM | I. szakasz
+*Mezőgazdaság*
+*(Fehér Könyv* 5. fejezet*)*
+A Tanács 80/215/EGK irányelve
+a húskészítmények közösségen belüli kereskedelmének állategészségügyi kérdéseiről
+FM | I. szakasz
+A Tanács 92/35/EGK irányelve
+az ellenőrzési szabályok és intézkedések bevezetéséről az afrikai lópestis elleni küzdelemre
+FM | I. szakasz
+A Tanács 92/117/EGK irányelve
+állatokban és állati eredetű termékekben előforduló meghatározott zoonózis és azok meghatározott előidézői elleni védelmi intézkedésekről ételben hordozott fertőzések és mérgezések kitörésének megelőzése érdekében
+FM, NM | I. szakasz
+A Tanács 77/96/EGK irányelve
+a harmadik országokból származó friss sertéshús trichinella vizsgálatáról
+FM | II. szakasz
+A Tanács 91/67/EGK irányelve
+az akvakultúra körébe tartozó állatok és termékek értékesítésének állategészségügyi feltételeiről
+FM | I. szakasz
+A Tanács 90/426/EGK irányelve
+a lovak harmadik országokból való behozatalára és mozgására vonatkozó állategészségügyi feltételekről
+FM | I. szakasz
+A Tanács 90/427/EGK irányelve
+a lovak Közösségen belüli kereskedelmét irányító állattenyésztési és genealógiai feltételekről
+FM | I. szakasz
+A Tanács 90/428/EGK irányelve
+a versenyzésre szánt lovakkal való kereskedelemről és a lóversenyeken való részvétel feltételeinek meghatározásáról
+FM | I. szakasz
+A Tanács 78/923/EGK döntése
+a gazdálkodásra tartott állatok védelme európai egyezményének megkötésére vonatkozóan
+a megjegyzés törlendő
+A Tanács 88/166/EGK irányelve összhangban a Bíróság 131/86 ügyben hozott ítéletével
+a Tanács 1986. március 25-i, 86/113/EGK irányelve, amely minimum standardokat határozott meg a tojóketrecben tartott tojótyúkok védelmére
+FM | I. szakasz
+A Tanács 91/629/EGK irányelve
+a borjak védelme minimális szintjének megállapításáról
+FM | I. szakasz
+A Tanács 91/630/EGK irányelve
+a sertések védelme minimális szintjének megállapításáról
+FM | I. szakasz
+A Tanács 93/113/EK irányelve
+enzimek, mikroorganizmusok és készítmények takarmányozásban való használatára és forgalomba hozatalára vonatkozóan
+FM | II. szakasz
+A Tanács 77/391/EGK irányelve
+a szarvasmarha brucellosis, tuberculosis és leukózis leküzdéséhez szükséges intézkedésekről
+FM | nem szerepel a Fehér Könyvben
+A Tanács 78/52/EGK irányelve
+a szarvasmarha brucellosis, tuberculosis és enzootikus leukózis leküzdésére az egyes tagállamok által készített tervek közösségi feltételeiről
+FM | nem szerepel a Fehér Könyvben
+A Bizottság 92/260/EGK határozata
+a regisztrált lovak meghatározott idejű engedélyezésének állategészségügyi feltételeiről és tanúsításáról
+FM | nem szerepel a Fehér Könyvben
+A Bizottság 94/309/EGK határozata
+a harmadik országokból származó háziállatok részére takarmányok és meghatározott esetekben, kevésbé veszélyes állati eredetű hulladékot tartalmazó ehető termék behozatalának állategészségügyi feltételeiről és igazolásáról
+FM | nem szerepel a Fehér Könyvben
+A Tanács 77/99/EGK irányelve
+a húskészítmények Közösségen belüli kereskedelmének egészségügyi kérdéseiről
+FM | I. szakasz
+A Tanács 78/923/EGK határozata
+a mezőgazdasági állattartás során az állatok védelmére vonatkozó Európai Egyezmény megkötéséről
+FM | nem szerepel a Fehér Könyvben
+A Tanács 81/602/EGK irányelve
+meghatározott hormonhatású és tireosztatikus hatású szerek tilalmáról
+FM | I. szakasz
+A Tanács 88/146/EGK irányelve
+meghatározott hormonhatású szerek használatának tilalmáról
+FM | I. szakasz
+A Tanács 90/667/EGK irányelve
+az állati eredetű hulladékok megsemmisítésének, feldolgozásának és értékesítésének állategészségügyi előírásairól, továbbá az állati eredetű takarmányok, ideértve a halból készülteket is, kórokozók elleni védelméről, valamint 90/425/EGK irányelv módosításáról
+FM | I. szakasz
+A Tanács 92/66/EGK irányelve
+Newcastle-betegség leküzdésének közösségi szabályairól
+FM | I. szakasz
+A Tanács 92/120/EGK irányelve
+meghatározott állati eredetű termékek előállításának és forgalomba hozatalának különleges közösségi higiéniai előírásai alól való időben és tartalmában behatárolt kivételekről
+FM | I. szakasz
+A Tanács 93/53/EGK irányelve
+meghatározott haljárványok leküzdésére szolgáló közösségi intézkedésekről
+FM | a megjegyzés törlendő
+A Tanács 82/894/EGK irányelve
+a Közösségben előforduló járványok jelentéséről
+FM | I. szakasz
+A Tanács 80/891/EGK irányelve
+az élelmiszerek előállítására és kezelésére használt ivóvízről
+FM | nem szerepel a Fehér könyvben
+A Tanács 83/201/EGK irányelve
+a csekély mennyiségű hús- vagy húskészítmény-tartalmú, egyéb élelmiszert tartalmazó termékekről szóló 77/99/EGK irányelv rendelkezései alóli kivételekről
+| nem szerepel a Fehér Könyvben
+*Ipari termékek szabad mozgása és biztonsága*
+*(Fehér Könyv* 2. fejezet*)*
+A Tanács 2309/93/EGK rendelete
+az emberi és állati alkalmazásra szolgáló gyógyászati termékek engedélyezésére és felülvizsgálatára vonatkozó közösségi eljárás szabályainak meghatározásáról és Gyógyászati Termékek Értékelése Európai Ügynökségének felállításáról
+NM | kulcsintézkedés,
+II. szakasz
+A Tanács 2309/93/EGK rendelete
+az emberi és állati alkalmazásra szolgáló gyógyszerek közösségi engedélyezési és felügyeleti eljárási szabályainak meghatározásáról és a Gyógyászati Termékek Értékelése Európai Ügynökségének felállításáról
+NM, FM | kulcsintézkedés,
+II. szakasz
+A Bizottság 83/201/EGK irányelve
+a csekély mennyiségű hús- vagy húskészítmény-tartalmú, egyéb élelmiszert tartalmazó termékekről szóló 77/99/EGK irányelv rendelkezései alóli kivitelekről
+FM, IKIM | nem szerepel a Fehér Könyvben
+*Mezőgazdaság*
+*(Fehér Könyv* 5. fejezet*)*
+A Bizottság határozata
+a harmadik országokból származó, feldolgozott állati fehérjéket tartalmazó takarmányok behozatalának állategészségügyi feltételeiről és igazolásáról
+FM | I. szakasz
+A Tanács 91/495/EGK irányelve
+nyúlhús és fogolyhús forgalomba hozataláról
+FM | I. szakasz
+A Tanács 92/45/EGK irányelve
+a vadon élő állatok megölésének közegészségügyi és állategészségügyi kérdéseiről és a vadhús forgalomba hozataláról
+a megjegyzés törlendő
+A Tanács 91/68/EGK irányelve
+a birka és kecske belső kereskedelméről
+FM | I. szakasz
+A Tanács 80/217/EGK irányelve
+közösségi intézkedések bevezetéséről a klasszikus sertéspestis ellenőrzésére
+FM | I. szakasz
+A Tanács 85/511/EGK irányelvet kiegészítő 90/423/EGK irányelve
+közösségi intézkedések bevezetéséről a száj- és körömfájás ellenőrzésére, valamint friss hús és húskészítmények importjáról harmadik országokból
+FM | I. szakasz
+A Tanács 90/423/EGK irányelve
+a sertések és szarvasmarhák ragadós száj- és körömfájásáról
+FM | I. szakasz
+A Tanács 86/469/EGK irányelve
+az állatok és friss hús vizsgálatával kapcsolatban a szermaradványok jelenlétéről
+FM | I. szakasz
+A Tanács 82/894/EGK irányelve
+az állatbetegségek bejelentéséről a Közösségben
+FM | I. szakasz
+A Tanács 92/40/EGK irányelve
+közösségi intézkedések bevezetéséről a baromfipestis ellenőrzésére
+FM | I. szakasz
+A Tanács 92/119/EGK irányelve
+általános közösségi intézkedések bevezetéséről meghatározott állatjárványok ellenőrzésére és a vezikuláris sertésbetegséggel kapcsolatos különleges intézkedésekről
+FM | I. szakasz
+A Tanács 92/66/EGK irányelve
+a közösségi intézkedések bevezetéséről a Newcastle-betegség ellenőrzésére
+FM | I. szakasz
+A Tanács 93/53/EGK irányelve
+amely minimális közösségi intézkedéseket vezet be bizonyos halbetegségek ellenőrzésére
+FM | I. szakasz
+A Tanács 94/65/EGK irányelve
+a vagdalthús és húskészítmények előállítására és piacra vitelére vonatkozó követelmények meghatározásáról
+FM | I. szakasz
+A Tanács 90/167/EGK irányelve
+a gyógyhatású tápanyagok elkészítésére, piacra vitelére és használatára vonatkozó feltételek meghatározásáról
+FM | I. szakasz
+A Tanács 92/102/EGK irányelve
+az állatok azonosításáról és nyilvántartásba vételéről
+FM | I. szakasz
+A 90/657/EGK, 91/496/EGK, 91/628/EGK irányelveket módosító és a 88/192/EGK döntést hatályon kívül helyező 92/438/EGK döntés
+az állatgyógyászati behozatali eljárások számítógépesítéséről (shift-projekt)
+FM | II. szakasz
+A Tanács 94/28/EK irányelve
+az állatok, spermájuk, petéik és embrióik harmadik országokból történő behozatala állattenyésztési és genealógiai elveinek meghatározásáról és a szarvasmarhaféle fajtatiszta tenyészállatokra vonatkozó irányelv módosításáról
+FM | I. szakasz
+A Bizottság 3457/92/ EGK rendelete
+amely részletes szabályokat határoz meg a Tanács 2192/91/EGK rendeletben elrendelt harmadik országokból származó importra vonatkozó ellenőrzési bizonyítványról
+FM | I. szakasz
+A Tanács 88/407/EGK irányelve
+a mélyhűtött szarvasmarha sperma Közösségen belüli kereskedelmének és behozatalának állategészségügyi követelményeiről
+FM | I. és II. szakasz
+A Tanács 89/556/EGK irányelve
+a szarvasmarha embriói Közösségen belüli kereskedelmére és harmadik országokból való behozatalára vonatkozó állategészségügyi feltételeiről
+FM | I. szakasz
+A Tanács 90/429/EGK irányelve
+a sertés sperma Közösségen belüli kereskedelmének és behozatalának állategészségügyi követelményeiről
+FM | I. és II. szakasz
+A Tanács 90/539/EGK irányelve
+a baromfi és tenyésztojás Közösségen belüli kereskedelmének és harmadik országokból való behozatalának állategészségügyi feltételeiről
+FM | I. és II. szakasz
+A Tanács 92/65/EGK irányelve
+amely meghatározza az állatok, sperma, peték és embriók Közösségen belüli kereskedelmének és Közösségbe való behozatalának azokat az állategészségügyi feltételeit, amelyek nem tartoznak a 90/425/EGK irányelv (A) függelékében hivatkozott specifikus közösségi szabályok hatálya alá
+FM | I. szakasz
+A Tanács 91/67/EGK irányelve
+az akvakultúra körébe tartozó állatok és termékek értékesítésének állategészségügyi feltételeiről
+FM | I. szakasz
+A Tanács 92/68/EGK irányelve
+a birkák és kecskefélék Közösségen belüli kereskedelmét irányító állategészségügyi feltételekről
+FM | I. szakasz
+A Tanács 72/462/EGK irányelve
+a friss hús Közösségen belüli kereskedelmére ható egészségügyi problémákról
+FM | I. szakasz
+A Tanács 91/494/EGK irányelve
+a friss baromfihús Közösségen belüli kereskedelmére és harmadik országokból való behozatalára vonatkozó állategészségügyi feltételeiről
+FM | I. szakasz
+A Tanács 91/495/EGK irányelve
+a nyúlhús és a tenyésztett vadhús előállítására és értékesítésére ható közegészségügyi és állategészségügyi problémákról
+FM | I. szakasz
+A Bizottság 529/95/EK rendelete
+a Tanács 2092/91/EGK rendelete 11. (1) cikke alkalmazási határideje kezdőnapjának elhalasztásáról bizonyos harmadik országokból származó behozatal vonatkozásában
+FM | I. szakasz
+A Bizottság 94/92/EK rendelete
+amely részletes szabályokat határoz meg a 2092/91/EGK rendeletben elrendelt harmadik országokból származó importra vonatkozó rendelkezések végrehajtására
+FM | I. szakasz
+A Tanács 1208/81/EGK rendelete
+amely meghatározza a felnőtt szarvasmarha féltestek besorolása Közösségben használatos skáláját
+FM | I. szakasz
+A Tanács 338/91/EGK rendelete
+amely meghatározza a friss vagy mélyhűtött juh féltestek közösségi minőségi szabványát
+FM | I. szakasz
+A Tanács 3013/EGK rendelete
+a juh- és a kecskehús piacának közös szervezetéről
+FM | I. szakasz
+A Tanács 1186/90/EGK rendelete
+amely meghatározza a felnőtt szarvasmarhafélék tetemei besorolása Közösségben használatos skáláját és a friss vagy mélyhűtött juh féltestek közösségi minőségi szabványát, valamint kiterjeszti a 338/91 rendeletet
+FM | I. szakasz
+A Tanács 92/438/EGK rendelete
+az import állategészségügyi ellenőrzésének információs rendszeréről
+FM | II. szakasz
+A Tanács 2137/92/EGK rendelete
+a vágójuhok minősítéséről, a friss és mélyhűtött juh vágótestek közösségi szabványminőségéről
+FM | I. szakasz
+**Az EU érvényes mezőgazdasági és élelmiszeripari előírásainak magyar nyelvű jegyzéke**
+
+7\. *HÚSIPAR*
+
+7.1. *Állategészségügy és zootechnika*
+
+A Tanács 64/432/EGK irányelve
+
+a Közösségen belüli szarvasmarha- és sertéskereskedelmet érintő állategészségügyi problémákról (2 kiegészítés, 25 módosítás; 1992. 12. 15.)
+
+A Tanács 64/433/EGK irányelve
+
+a Közösségen belüli frisshús-kereskedelmet érintő állategészségügyi problémákról (27 módosítás; 1991. 09. 24.)
+
+A Bizottság 65/277/EGK irányelve
+
+a Közösségen belüli szarvasmarha- és sertés-, valamint frisshús-kereskedelemmel kapcsolatos vélemények megszövegezésének módjáról (1 kibővítés)
+
+A Tanács 66/600/EGK irányelve
+
+a Közösségen belüli szarvasmarha- és sertéskereskedelmet érintő állategészségügyi problémákról szóló, 1964. június 26-án kelt irányelv módosításáról
+
+A Tanács 69/349/EGK irányelve
+
+a Közösségen belüli frisshús-kereskedelmet érintő állategészségügyi problémákról szóló, 1964. június 26-án kelt irányelv módosításáról
+
+A Tanács 71/118/EGK irányelve
+
+a friss baromfihús forgalmát érintő egészségügyi problémákról (22 módosítás; 1993. 03. 15.)
+
+A Közösség 72/368/EGK ajánlása
+
+a Közösségbe importált állatok és friss hús egészségügyi ellenőrzéséről
+
+A Tanács 72/445/EGK irányelve
+
+a Közösségen belüli szarvasmarha- és sertéskereskedelemre vonatkozó, 1964. június 26-án kelt direktívának az új tagállamok Közösséghez való csatlakozása következtében szükségessé vált módosításáról
+
+A Tanács 72/462 EGK irányelve
+
+a harmadik országokból származó szarvasmarha- és sertés-, valamint frisshús-import egészségügyi és állatorvosi ellenőrzésének problémáiról (2 kiegészítés, 20 módosítás; 1992. 06. 27.)
+
+A Bizottság 73/53/EGK döntése
+
+a tagállamok által a sertések hólyagos betegsége ellen alkalmazott megelőző intézkedésekről
+
+A Tanács 73/150/EGK irányelve
+
+a szarvasmarhák és sertések Közösségen belüli kereskedelméről szóló 1964. június 26-án kelt direktíva módosításáról
+
+A Tanács 74/577/EGK irányelve
+
+az állatok vágás előtti kábításáról
+
+A Tanács 76/96/EGK irányelve
+
+a harmadik országokból importált sertéshús trichinella (Trichinella spiralis) vizsgálatáról (6 módosítás; 1989. 05. 17.)
+
+A Tanács 77/99/EGK irányelve
+
+a Közösségen belüli hústermék-forgalmazást érintő egészségügyi problémákról (1 korlátozás, 13 módosítás, 1993. 03. 15.)
+
+A Tanács 77/391/EGK irányelve
+
+a közösségi intézkedések bevezetéséről a szarvasmarha brucellosis, tuberculosis és leucosis megszüntetése érdekében (3 korlátozás, 4 módosítás, 1985. 12. 31.)
+
+A Tanács 78/52/EGK irányelve
+
+a szarvasmarha brucellosis, tuberculosis és enzootikus leukosis gyorsított megszüntetését célzó nemzeti tervekkel kapcsolatos közösségi kritériumok megalkotásáról (2 korlátozás; 1981. 01. 16.)
+
+A Bizottság 78/78/EGK döntése
+
+a 64/432/EGK számú irányelv egyes előírásainak részletezéséről a száj- és körömfájás vonatkozásában
+
+A Tanács 79/542/EGK döntése
+
+azon harmadik országok jegyzékének összeállításáról, ahonnan a tagállamok engedélyezik szarvasmarha, sertés és friss hús behozatalát (1 kiegészítés, 12 módosítás; 1993. 09. 22.)
+
+A Tanács 80/215/EGK irányelve
+
+a Közösségen belüli hústermék-kereskedelmet érintő állategészségügyi problémákról (8 módosítás; 1991. 12. 31.)
+
+A Tanács 80/217/EGK irányelve
+
+Közösségi intézkedések bevezetéséről a klasszikus sertéspestis ellenőrzésére (1 kiegészítés, 7 módosítás; 1993. 07. 08.)
+
+A Tanács határozata
+
+a ketrecben lévő tojóstyúkok védelméről
+
+A Közösség 80/1025/EGK döntése
+
+a szarvasmarha brucellosis, tuberculosis és leucosis megszüntetésére irányuló nemzeti tervek végrehajtásának megfigyeléséről
+
+A Tanács 80/1095/EGK irányelve
+
+a Közösség területének klasszikus sertéspestistől való mentesítésére és mentesen tartására vonatkozó feltételek megállapításáról (1 kiegészítés, 5 módosítás; 1991. 12. 31.)
+
+A Bizottság 81/400/EGK döntése
+
+a tagországok klasszikus sertéspestissel kapcsolatos helyzetéről, illetve annak megszüntetéséről (6 módosítás; 1992. 01. 28.)
+
+A Tanács 82/8/EGK döntése
+
+a Magyarországról történő frisshús-import állategészségügyi feltételeiről és állatorvosi dokumentálásáról (1 módosítás; 1993. 07. 17.)
+
+A Tanács 82/400/EGK irányelve
+
+a 77/391/EGK számú direktíva módosításáról, illetve pótlólagos közösségi intézkedések bevezetéséről a szarvasmarha brucellosis, tuberculosis és leucosis megszüntetése érdekében (1 kiegészítés, 1 módosítás; 1985. 12. 31.)
+
+A Tanács 82/733/EGK döntése
+
+a Közösségbe irányuló frisshús-export céljára a Magyar Népköztársaságban jóváhagyott létesítmények jegyzékéről (1 módosítás; 1986. 06. 19.)
+
+A Tanács 82/894/EGK irányelve
+
+az állatbetegségek Közösségen belüli bejelentéséről (3 módosítás; 1992. 08. 28.)
+
+A Bizottság 83/70/EGK döntése
+
+egyes harmadik országokból származó frisshús-import állategészségügyi feltételeiről és állatorvosi bizonylatolásáról (1 módosítás; 1983. 04. 26.)
+
+A Bizottság 83/201/EGK irányelve
+
+amely a 77/99/EGK számú Tanácsi irányelv hatálya alól kivételeket állapít meg egyes – húst vagy húskészítményt csak csekély mértékben – tartalmazó termékek esetében (1 módosítás; 1983. 11. 15.)
+
+A Bizottság 83/222/EGK döntése
+
+a klasszikus sertéspestistől való mentesítést célzó nemzeti tervek végrehajtásának ellenőrzéséről
+
+A Bizottság 84/90/EGK döntése
+
+jogszerű formák megállapításáról az állatbetegségek 82/894/EGK számú Tanácsi irányelv szerinti bejelentéséhez (1 módosítás; 1989. 03. 04.)
+
+A Bizottság 84/390/EGK döntése
+
+a harmadik országokból jövő szarvasmarha- és sertésimport határon levő ellenőrző állomásai jóváhagyásának irányelveiről
+
+A Tanács 85/73/EGK irányelve
+
+a friss hús és baromfihús egészségügyi vizsgálatának és ellenőrzésének finanszírozásáról (1 módosítás; 1988. 07. 22.)
+
+A Tanács 85/358/EGK irányelve
+
+a 81/602/EGK számú, egyes hormon-, illetve tirosztatikus hatású anyagok betiltására vonatkozó direktíva kiegészítéséről (2 módosítás; 1988. 03. 16.)
+
+A Bizottság 85/414/EGK döntése
+
+az egyes harmadik országokból származó frisshús-import állategészségügyi feltételeiről és állatorvosi bizonylatolásáról
+
+A Bizottság 85/445/EGK döntése
+
+az enzootikus szarvasmarha leukózis kapcsán hozott egyes állategészségügyi intézkedésekről
+
+A Bizottság 85/446/EGK döntése
+
+a Közösségen belüli frisshús-kereskedelem területén végzett helyszíni vizsgálatokról (2 módosítás; 1990. 01. 10.)
+
+A Tanács 85/511/EGK irányelve
+
+a száj- és körömfájás ellenőrzésére vonatkozó közösségi intézkedések bevezetéséről (2 módosítás; 1992. 07. 17.)
+
+A Tanács 86/469/EGK irányelve
+
+az élő állatok és a friss hús maradványanyagok jelenléte szempontjából történő megvizsgálásáról (1 módosítás; 1989. 03. 10.)
+
+A Bizottság 86/474/EGK döntése
+
+a nem tagállamokból származó importált szarvasmarhák, sertések és friss hús helyszíni ellenőrzésének végrehajtásáról
+
+A Tanács 88/146/EGK irányelve
+
+egyes hormonhatású anyagok állattenyésztési célú felhasználásának megtiltásáról
+
+A Tanács 88/299/EGK irányelve
+
+a 88/146/EGK számú irányelv 7. cikkelyében foglalt, meghatározott hormonális hatású szerekkel kezelt állatokkal, valamint ezek húsával folytatott kereskedelemről
+
+A Tanács 88/407/EGK irányelve
+
+a mélyfagyasztott szarvasmarha sperma Közösségen belüli forgalmára, illetve importjára alkalmazható állategészségügyi előírások meghatározásáról (3 módosítás; 1993. 07. 28.)
+
+A Tanács 88/409/EGK irányelve
+
+a hazai piacra szánt húsra vonatkozó egészségügyi szabályokról, illetve az ilyen húsoknak a 85/73/EGK számú irányelv értelmében végzett vizsgálatáért fizetendő díjakról (1 módosítás; 1991. 09. 24.)
+
+A Tanács 88/657/EGK irányelve
+
+a darált hús, a 100 grammnál kisebb darabokra vagdalt hús, illetve a húskészítmények előállításával és forgalmazásával kapcsolatos előírások megállapításáról, továbbá a 64/433/EGK, a 71/118/EGK és a 72/462/EGK számú irányelvek módosításáról (2 módosítás; 1992. 12. 31.)
+
+A Bizottság 89/18/EGK döntése
+
+a nem humán fogyasztásra szánt friss hús harmadik országokból származó importjának feltételeiről
+
+A Bizottság 89/153/EGK döntése
+
+a maradványanyagok vizsgálatára vett mintáknak az állatokkal, illetve a származási farmokkal való korrelációjáról
+
+A Bizottság 89/362/EGK irányelve
+
+a tejtermelő gazdaságok általános higiéniai feltételeiről
+
+A Bizottság 89/363/EGK döntése
+
+a Bizottság 1985. január 30-án kelt, az állatbetegségek bejelentésének kódjait meghatározó döntése módosításáról
+
+A Tanács 89/455/EGK döntése
+
+a veszettségtől való mentesítésre tett közösségi intézkedésekről
+
+A Tanács 89/531/EGK döntése
+
+egy referencia laboratórium kijelöléséről a száj- és körömfájás vírusának azonosítására, valamint a fenti laboratórium pontos funkcióinak meghatározásáról
+
+A Tanács 89/556/EGK irányelve
+
+a szarvasmarha-embrióknak a Közösségen belüli forgalmát, illetve a harmadik országokból történő importját szabályozó állategészségügyi feltételekről (2 módosítás; 1993. 07. 19.)
+
+A Tanács 89/608/EGK irányelve
+
+a tagországok adminisztratív hatóságai közötti kölcsönös segítségnyújtásról, illetve ez utóbbiak és a Bizottság közötti együttműködésről az állatorvosi és a zootechnikai előírások korrekt alkalmazásának biztosítása érdekében
+
+A Tanács 89/662/EGK irányelve
+
+a Közösségen belüli kereskedelem állatorvosi ellenőrzéséről, különös tekintettel az egységes belső piac megvalósítására (10 módosítás; 1993. 03. 15.)
+
+A Bizottság 90/13/EGK döntése
+
+a Közösségbe irányuló frisshús-importra jóváhagyott létesítmények jegyzékének módosításánál, illetve kiegészítésénél követendő eljárásról a harmadik országokban
+
+A Bizottság 90/14/EGK döntése
+
+azon harmadik országok jegyzékéről, amelyekből mélyfagyasztott szarvasmarha sperma importja tagállamokba engedélyezett (1 módosítás; 1991. 05. 30.)
+
+A Bizottság 90/135/EGK döntése
+
+egyes harmadik országoknak a friss húsban előforduló, nem hormonhatású anyagok maradványvizsgálatára vonatkozó terveiről (4 módosítás; 1993. 02. 17.)
+
+A Bizottság 90/200/EGK döntése
+
+az egyes szövetekre és szervekre előírt pótlólagos követelményekről a szarvasmarhák szivacsos encephalopátiájára (BSE) vonatkozóan (1 módosítás; 1990. 06. 09.)
+
+A Tanács 90/425/EGK irányelve
+
+az egyes élő állatok és állati termékek Közösségen belüli forgalmában alkalmazható állatorvosi és zootechnikai ellenőrzésekről, különös tekintettel az egységes belső piac létrehozására (8 módosítás; 1993. 03. 15.)
+
+A Tanács 90/426/EGK irányelve
+
+a patás állatok harmadik országokkal folytatott kereskedelmét szabályozó állategészségügyi feltételekről (3 módosítás; 1992. 06. 10.)
+
+A Tanács 90/428/EGK irányelve
+
+a versenyeztetési célra szánt lovak kereskedelméről, illetve a lovak versenyeztetési feltételeiről
+
+A Tanács 90/429/EGK irányelve
+
+a sertések spermájának Közösségen belüli kereskedelmére, illetve importjára alkalmazható állategészségügyi követelmények rögzítéséről
+
+A Bizottság 90/442/EGK döntése
+
+az állatbetegségek bejelentésének kódjairól
+
+A Tanács 90/495/EGK döntése
+
+közösségi pénzügyi intézkedések bevezetéséről a lazacfélék fertőző véres üszkösödésétől való mentesítés érdekében a Közösség területén
+
+A Tanács 90/539/EGK irányelve
+
+a baromfi és a tenyésztojás Közösségen belüli kereskedelmét, illetve a harmadik országokból származó importját szabályozó állategészségügyi feltételekről (4 módosítás; 1992. 09. 14.)
+
+A Bizottság 90/552/EGK döntése
+
+az afrikai lóbetegséggel fertőzött terület határainak megállapításáról (2 módosítás; 1992. 11. 19.)
+
+A Bizottság 90/553/EGK döntése
+
+az afrikai lóbetegség ellen beoltott patás állatok azonosításának módjáról
+
+A Tanács 90/638/EGK döntése
+
+az egyes állatbetegségektől való mentesítést és megfigyelést szolgáló közösségi kritériumok megállapításáról (1 módosítás; 1992. 09. 14.)
+
+A Tanács 90/667/EGK irányelve
+
+az állati hulladékok kezelésének és feldolgozásának állatorvosi szabályairól, azok piaci elhelyezéséről, az állati vagy halászati eredetű takarmányok kórokozókkal történő fertőződésének megelőzéséről, illetve a 90/425/EGK számú direktíva módosításáról (1 módosítás; 1993. 03. 15.)
+
+A Tanács 90/675/EGK irányelve
+
+a harmadik országokból a Közösség területére érkező termékek állatorvosi ellenőrzésének megszervezését szabályozó alapelvek rögzítéséről (3 módosítás; 1992. 06. 27.)
+
+A Tanács 90/677/EGK irányelve
+
+a tagállamok állatgyógyászati szerekre vonatkozó jogszabályainak harmonizálásáról szóló 81/851/EGK számú direktíva hatályának kiterjesztéséről, illetve kiegészítő rendelkezések megállapításáról az immunológiai állatgyógyászati készítményekkel kapcsolatban
+
+A Tanács 2377/90/EGK rendelete
+
+közösségi eljárás kialakításáról az állati eredetű élelmiszerek állatgyógyászati szermaradványai maximális (felső) határértékeinek megállapítására (5 módosítás; 1993. 10. 23.)
+
+A Bizottság 91/42/EGK döntése
+
+a száj- és körömfájás kontrollját szolgáló eseti tervek kidolgozási kritériumairól, a 90/423/EGK számú Tanácsi Irányelv 5. cikkelyében foglaltaknak megfelelően
+
+A Tanács 91/67/EGK irányelve
+
+a vízi állatok és azok termékeinek piaci elhelyezését szabályozó állategészségügyi feltételekről (1 korlátozás, 1 módosítás; 1993. 07. 19.)
+
+A Tanács 91/68/EGK irányelve
+
+a juhok és kecskék Közösségen belüli forgalmát szabályozó állategészségügyi feltételekről
+
+A Bizottság 91/189/EGK döntése
+
+egyrészt az állatorvosi vizsgálatokhoz szükséges anyagok és eljárások szabványosításának jegyzőkönyveiről, másrészt a harmadik országok szarvasmarha és sertés import-piacainak jóváhagyási feltételeiről
+
+A Bizottság 91/270/EGK döntése
+
+azon harmadik országok jegyzékének összeállításáról, ahonnan a tagállamok engedélyezik szarvasmarha-embrió importját
+
+A Bizottság 91/398/EGK döntése
+
+az állategészségügyi hatóságokat összekötő számítógépes hálózatról (Animo) (1 módosítás; 1993. 04. 23.)
+
+A Bizottság 91/412/EGK irányelve
+
+az állatgyógyászati szerek Helyes Termelési Gyakorlata alapjainak és irányelveinek rögzítéséről
+
+A Bizottság 91/449/EGK döntése
+
+a harmadik országokból importált húskészítményekkel kapcsolatos állategészségügyi bizonyítványok formanyomtatványainak meghatározásáról (7 módosítás; 1993. 09. 21.)
+
+A Tanács 91/492/EGK irányelve
+
+a kétkagylós puhatestű állatok tenyésztése és piacon való elhelyezése egészségügyi feltételeinek meghatározásáról
+
+A Tanács 91/493/EGK irányelve
+
+halkészítmények előállítása és piacon való elhelyezése egészségügyi feltételeinek meghatározásáról
+
+A Tanács 91/494/EGK irányelve
+
+a friss baromfihús Közösségen belüli forgalmazásának, illetve a harmadik országokból származó importjának állategészségügyi feltételeiről (1 módosítás; 1993. 03. 15.)
+
+A Tanács 91/495/EGK irányelve
+
+a vadnyúl és a tenyésztett vadak húsa előállításával és piacon való elhelyezésével kapcsolatos közegészségügyi és állategészségügyi problémákról (2 módosítás; 1993. 03. 15.)
+
+A Tanács 91/496/EGK irányelve
+
+a harmadik országokból a Közösség területére érkező állatok állatorvosi ellenőrzése megszervezésének alapelveiről, valamint a 89/662/EGK, a 90/425/EGK és a 90/675/EGK számú direktívák módosításáról (2 módosítás; 1992. 11. 18.)
+
+A Tanács 91/498/EGK irányelve
+
+a friss hús előállítására és forgalmazására vonatkozó specifikus közösségi egészségügyi előírások időszakos és korlátozott megadásának feltételeiről
+
+A Tanács 91/628/EGK irányelve
+
+az állatok szállítás alatt történő védelméről, valamint a 90/425/EGK számú direktívák módosításáról (1 módosítás; 1992. 08. 25.)
+
+A Tanács 91/629/EGK irányelve
+
+a borjak védelmére szolgáló minimális szabványok meghatározásáról
+
+A Bizottság 92/1/EGK döntése
+
+az afrikai sertéspestis kontrolljával kapcsolatos tudományos intézkedések szabályozásáról, illetve a Közösség pénzügyi hozzájárulásáról
+
+A Tanács 92/35/EGK irányelve
+
+kontroll szabályok és intézkedések meghozataláról az afrikai lóbetegség leküzdése érdekében
+
+A Tanács 92/36/EGK irányelve
+
+amely – tekintettel az afrikai lóbetegségre – módosítja a lovak szállításának és harmadik országokból történő behozatalának állategészségügyi feltételeiről szóló 90/426/EGK számú direktívát
+
+A Tanács 92/40/EGK irányelve
+
+a madárinfluenza kontrolljával kapcsolatos közösségi intézkedések bevezetéséről
+
+A Tanács 92/45/EGK irányelve
+
+a vadállatok leölésének, illetve a vadhús piacon való elhelyezésének közegészségügyi és állategészségügyi vonatkozásairól (1 módosítás; 1993. 03. 15.)
+
+A Tanács 92/46/EGK irányelve
+
+a nyerstej, a hőkezelt tej és a tej alapú élelmiszerek előállításával és forgalmazásával kapcsolatos egészségügyi szabályok megállapításáról (1 módosítás; 1993. 03. 15.)
+
+A Tanács 92/47/EGK irányelve
+
+a tej, illetve a tej alapú készítmények előállítására és a piacon való elhelyezésére vonatkozó speciális közösségi egészségügyi szabályok alól való időszakos és korlátozott felmentések megadásának feltételeiről
+
+A Tanács 92/65/EGK irányelve
+
+azon élő állatok, sperma, pete és embrió Közösségen belüli forgalmával, illetve a Közösség területére történő behozatalával kapcsolatos állategészségügyi követelmények meghatározásáról, amelyekre nem vonatkoznak a 90/425/EGK számú direktíva A (1) mellékletében hivatkozott speciális közösségi előírásokban lefektetett állategészségügyi követelmények
+
+A Tanács 92/66/EGK irányelve
+
+a Newcastle-betegség kontrolljával kapcsolatos közösségi intézkedések bevezetéséről
+
+A Tanács 92/102/EGK irányelve
+
+az állatok azonosításáról és regisztrálásáról
+
+A Tanács 92/118/EGK irányelve
+
+azon termékek Közösségen belüli kereskedelmét és a Közösség területére történő behozatalát szabályozó állategészségügyi és közegészségügyi követelmények meghatározásáról, amelyek nem tartoznak a 89/662/EGK számú direktíva A (1) mellékletében hivatkozott speciális közösségi szabályozás, illetve – a kórokozók vonatkozásában – a 90/425/EGK számú direktíva hatálya alá
+
+A Tanács 92/119/EGK irányelve
+
+amely általános közösségi intézkedéseket vezet be bizonyos állatbetegségek kontrollja érdekében, illetve a sertések hólyagos betegsége tekintetében különleges intézkedéseket irányoz elő
+
+A Tanács 92/120/EGK irányelve
+
+az egyes állati eredetű termékek előállítására és forgalmazására vonatkozó speciális közösségi egészségügyi rendelkezések alóli időszakos és korlátozott felmentések megadásának feltételeiről
+
+A Bizottság 92/160/EGK döntése
+
+bizonyos harmadik országok területi besorolásáról (,,regionalizálásáról'') a patás állatok importja tekintetében
+
+A Bizottság 92/183/EGK döntése
+
+a gyógyszeripar részére olyan harmadik országokból importált egyes nyersanyagokkal kapcsolatos általános feltételek meghatározásáról amely országok szerepelnek a Tanács 79/542/EGK számú döntése értelmében létrehozott jegyzéken
+
+A Bizottság 92/188/EGK döntése
+
+a sertések reproduktív és respirációs szindrómájával (PRRS) kapcsolatos egyes védelmi jellegű intézkedésekről
+
+A Bizottság 92/216/EGK döntése
+
+a lovak versenyeztetésével kapcsolatos adatok gyűjtéséről, a Tanács 90/428//EGK számú irányelve 4. cikkely (2) bekezdésében foglaltaknak megfelelően
+
+A Bizottság 92/255/EGK döntése
+
+azoknak a bizonyos harmadik országokban levő spermagyűjtő központoknak a jegyzékbe foglalásáról, amelyek jóváhagyást nyertek a mélyfagyasztott szarvasmarha sperma Közösségbe irányuló exportjára (1 módosítás; 1993. 08. 14.)
+
+A Bizottság 92/260/EGK döntése
+
+a nyilvántartásba vett lovak ideiglenes beléptetéséhez szükséges állategészségügyi feltételekről és állatorvosi bizonyítványról (1 módosítás; 1993. 06. 09.)
+
+A Bizottság 92/322/EGK döntése
+
+a Magyarországról importált szarvasmarhákkal és sertésekkel kapcsolatos állategészségügyi feltételekről és állatorvosi bizonylatokról (2 módosítás; 1993. 08. 28.)
+
+A Bizottság 92/386/EGK döntése
+
+a Magyarországról importált szarvasmarha spermával kapcsolatos állategészségügyi feltételekről és állatorvosi bizonylatokról
+
+A Bizottság 92/424/EGK döntése
+
+a harmadik országokból származó állatok azonosságának ellenőrzéséről szóló 91/496/EGK számú Tanácsi irányelv alkalmazásával kapcsolatos egyes előírások részletes meghatározásáról
+
+A Bizottság 92/430/EGK döntése
+
+az olyan, a Közösség határain létesített ellenőrző pontok jegyzékének összeállításáról, amelyeket a harmadik országokból érkező áruk állatorvosi ellenőrzésére előzetesen kijelöltek (1 módosítás; 1993. 02. 11.)
+
+A Bizottság 92/431/EGK döntése
+
+az olyan, a Közösség határain létesített ellenőrző pontok jegyzékének összeállításáról, amelyeket a harmadik országokból érkező élő állatok állatorvosi ellenőrzésére előzetesen kijelöltek (1 módosítás; 1993. 02. 11.)
+
+A Bizottság 92/432/EGK döntése
+
+bizonyos olyan feltételek előírásáról, amelyek értelmében – a harmadik országokból a Közösség területére érkező állatok egyedi klinikai vizsgálata alapján – korlátozás eszközölhető
+
+A Tanács 92/438/EGK döntése
+
+az importtal kapcsolatos állatorvosi jellegű eljárások számítógépesítéséről (Shift project), valamint a 90/675/EGK, a 91/496/EGK, a 91/628/EGK számú direktívák és a 90/424/EGK számú döntés módosításáról, illetve a 88/192/EGK számú döntés hatályon kívül helyezéséről
+
+A Bizottság 92/452/EGK döntése
+
+a harmadik országokban a szarvasmarha-embriók Közösségbe irányuló exportjára jóváhagyott embriógyűjtő munkacsoportok jegyzékének összeállításáról (2 módosítás; 1993. 11. 09.)
+
+A Bizottság 92/471/EGK döntése
+
+a harmadik országokból importált szarvasmarha-embriókra vonatkozó állategészségügyi feltételekről és állatorvosi bizonylatokról
+
+A Bizottság 92/525/EGK döntése
+
+a harmadik országokból származó áruk állatorvosi ellenőrzéséért felelős, a Közösség határán levő ellenőrző állomások jóváhagyásával kapcsolatos követelmények meghatározásáról (1 módosítás; 1993. 06. 14.)
+
+A Bizottság 93/13/EGK döntése
+
+a harmadik országokból származó áruk állatorvosi ellenőrzésének módjáról a Közösség határain levő inspekciós állomásokon
+
+A Bizottság 93/14/EGK döntése
+
+amely meghatározza a harmadik országokból származó javak állatorvosi ellenőrzésének módszereit az ún. szabad zónákban, a szabad raktárakban és a vámáruraktárakban, továbbá a harmadik országok közötti szállítás ideje alatt, ha a szállítási útvonal a Közösség területén vezet keresztül
+
+A Bizottság 93/24/EGK döntése
+
+amely pótlólagos garanciákat határoz meg azon sertések Aujeszky-féle betegségével kapcsolatban, amelyeket a tagállamokba, illetve a jelzett kórtól mentes területekre szállítanák (1 módosítás; 1993. 06. 05.)
+
+A Tanács 93/40/EGK irányelve
+
+a tagállamok állatgyógyászati szerekre vonatkozó jogszabályai harmonizálásáról szóló 81/851/EGK és 81/852/EGK számú irányelvek módosításáról
+
+A Tanács 93/41/EGK irányelve
+
+a magas technológiai szintet képviselő, különösen a biotechnológiai úton előállított gyógyszerkészítmények piacra helyezésével kapcsolatos nemzeti intézkedések harmonizálásáról szóló 87/22/EGK számú irányelv hatályon kívül helyezéséről
+
+A Tanács 93/52/EGK irányelve
+
+a szarvasmarha-embrió Közösségen belüli forgalmát, illetve a harmadik országokból származó behozatalát szabályozó állategészségügyi feltételekről szóló 89/556/EGK számú irányelv módosításáról
+
+A Tanács 93/53/EGK irányelve
+
+minimális közösségi intézkedések bevezetéséről az egyes halbetegségek kontrolljára
+
+A Bizottság 93/54/EGK döntése
+
+amely bizonyos átmeneti intézkedéseket határoz meg a 91/493/EGK számú direktívában előírt rendelkezések megvalósításának megkönnyítése érdekében
+
+A Tanács 93/54/EGK irányelve
+
+a víziállatok és azok termékei piacon való elhelyezésével kapcsolatos állategészségügyi feltételekre vonatkozó 91/67/EGK számú direktíva módosításáról
+
+A Tanács 93/60/EGK irányelve
+
+a 88/407/EGK számú, a mélyfagyasztott szarvasmarha sperma Közösségen belüli forgalmára és importjára alkalmazható állategészségügyi követelményeket rögzítő irányelv módosításáról, illetve annak a friss szarvasmarha spermára történő kiterjesztéséről
+
+A Bizottság 93/77/EGK döntése
+
+amely bizonyos átmeneti intézkedéseket határoz meg a 91/68/EGK számú irányelvében előírt rendelkezések megvalósításának megkönnyítése érdekében
+
+A Bizottság 93/79/EGK döntése
+
+bizonyos átmeneti intézkedések meghatározásáról a 91/496/EGK számú Tanácsi Irányelv 8. Cikkelyében előírt új állatorvosi ellenőrzések megszervezésének előmozdítására, továbbá a 92/501/EGK számú döntés hatályon kívül helyezéséről
+
+A Bizottság 93/88/EGK döntése
+
+amely meghatározza a Közösség pénzügyi hozzájárulását az állatorvosi ügyekben illetékes tisztviselők második csereprogramjának végrehajtásához
+
+A Bizottság 93/140/EGK döntése
+
+a halkészítmények parazitáinak felderítését célzó vizuális ellenőrzés részletes szabályozásáról
+
+A Bizottság 93/152/EGK döntése
+
+a Newcastle-betegség ellen a rutin oltási programok keretében alkalmazott vakcinák kritériumainak meghatározásáról
+
+A Bizottság 93/160/EGK döntése
+
+azon harmadik országok jegyzékének összeállításáról, amelyekből a tagállamok engedélyezik a házisertés spermájának behozatalát
+
+A Bizottság 93/195/EGK döntése
+
+a futtatás, verseny vagy kulturális események kapcsán időlegesen külföldre szállított törzskönyvezett lovak visszaléptetésének állategészségügyi feltételeiről és a kapcsolódó állatorvosi bizonylatokról (2 módosítás; 1993. 09. 23.)
+
+A Bizottság 93/196/EGK döntése
+
+a vágólovak behozatalának állategészségügyi feltételeiről és állatorvosi bizonyítványairól
+
+A Bizottság 93/197/EGK döntése
+
+a törzskönyvezett, továbbá a tenyésztési és termelési célú lovak behozatalának állategészségügyi feltételeiről és állatorvosi bizonyítványairól (2 módosítás; 1993. 09. 23.)
+
+A Bizottság 93/198/EGK döntése
+
+egy modell kialakításáról a harmadik országokból importált házi juhok és kecskék állategészségügyi feltételeivel és állatorvosi bizonyítványaival kapcsolatban
+
+A Bizottság 93/199/EGK döntése
+
+a harmadik országokból származó sertés sperma behozatalának állategészségügyi feltételeiről és állatorvosi bizonyítványairól (2 módosítás; 1993. 09. 21.)
+
+A Bizottság 93/242/EGK döntése
+
+a bizonyos európai országokból származó élőállatoknak és állati termékeknek a Közösség területére történő behozataláról, különös tekintettel a száj- és körömfájásra (4 módosítás; 1993. 09. 17.)
+
+A Bizottság 93/244/EGK döntése
+
+a Közösség egyes területeire szállított sertések Aujeszky-féle betegségével kapcsolatos kiegészítő garanciákról
+
+A Bizottság 93/256/EGK döntése
+
+a hormonhatású, illetve a tirosztatikus aktivitással rendelkező szerek maradványainak kimutatására használandó módszerek meghatározásáról
+
+A Bizottság 93/257/EGK döntése
+
+a szermaradványok észlelésével kapcsolatos referencia módszerek megállapításáról, valamint a nemzeti referencia laboratóriumok jegyzékéről
+
+A Bizottság 93/342/EGK döntése
+
+a harmadik országok baromfi-influenza és Newcastle-betegség szempontjából történő osztályozása kritériumainak meghatározásáról
+
+A Bizottság 93/398/EGK döntése
+
+a Magyarországról származó friss sertéshús, élő sertések és sertésembriók Közösség területére történő behozataláról, valamint a 82/8/EGK, a 91/449/EGK és a 92/322/EGK számú döntések módosításáról
+
+A Bizottság 895/93/EGK rendelete
+
+amely módosítja az állatgyógyászati szermaradványok felső határértékeinek az állati eredetű élelmiszerekben történő megállapítására vonatkozó közösségi eljárást rögzítő 2377/90/EGK számú Tanácsi Rendelet I., II. és III. mellékletét
+
+A Tanács 2901/93/EGK rendelete
+
+az állati eredetű élelmiszerekben az állatgyógyászati szermaradványok felső határértékei megállapításának közösségi eljárást meghatározó 2377/90/EGK számú Tanácsi Rendelet I., II., III. és IV. mellékletének módosításáról
+
+A Bizottság 3425/93/EGK rendelete
+
+az állati eredetű élelmiszerekben az állatgyógyászati készítmények maradványai felső határértékeinek megállapítására szolgáló közösségi eljárásokat rögzítő 2377/90/EGK számú Tanácsi Rendelet I. és II. mellékletének módosításáról
+
+A Bizottság 3426/93/EGK rendelete
+
+az állati eredetű élelmiszerekben az állatgyógyászati készítmények maradványai felső határértékeinek megállapítására szolgáló közösségi eljárásokat rögzítő 2377/90/EGK számú Tanácsi Rendelet III. és IV. mellékletének módosításáról
+
+A Bizottság 94/43/EGK döntése
+
+a 93/13/EGK számú döntés módosításáról, amely meghatározza a harmadik országokból származó termékek állatorvosi kontrolljának módját a Közösség határain elhelyezett ellenőrző pontokon
+
+7.2. *Sertéshús*
+
+A Bizottság 91/189/EGK döntése
+
+az állatorvosi vizsgálatoknál alkalmazott anyagok és eljárások szabványosítási szabályairól, továbbá a piacok jóváhagyásának feltételeiről a harmadik országokból érkező, hazai szarvasmarhák és sertések importjával kapcsolatban
+
+A Bizottság 1858/92/EGK rendelete
+
+amely az STM engedélyek érvényességi időtartama tekintetében a 3816/90/EGK számú rendeletből került levezetésre
+
+A Tanács 93/384/EGK döntése
+
+a klasszikus sertéspestis kontrolljának bevezetését célzó 80/217/EGK számú irányelv módosításáról
+
+A Bizottság 93/393/EGK döntése
+
+a friss sertéshúsnak, a sertéshús készítményeknek, az élő sertésnek, valamint a sertésembrióknak Magyarországról a Közösségbe irányuló szállítására vonatkozóan, továbbá a 82/8/EGK, a 91/449/EGK, illetve a 92/322/EGK számú döntések módosításáról
+
+A Bizottság 3560/93/EGK rendelete
+
+a 2698/93/EGK számú rendelet módosításáról, amely részletesen szabályozza az Európai Gazdasági Közösség, illetve a Lengyel Köztársaság, a Magyar Köztársaság és a korábbi Cseh és Szlovák Szövetségi Köztársaság között létrejött Ideiglenes Egyezményekben előírt intézkedések sertéshús szektorban történő alkalmazását, illetve amely megállapítja az 1994. január 1-jétől március 31-ig terjedő időszakban a Cseh és a Szlovák Köztársaság részéről rendelkezésre álló import mennyiségek nagyságát
+
+7.3. *Marha- és borjúhús*
+
+A Bizottság 1136/79/EGK rendelete
+
+a speciális import előírások egyes feldolgozásra szánt fagyasztott marhahúsokra való alkalmazásának részletes szabályozásáról, továbbá az 572/78/EGK számú rendelet hatályon kívül helyezéséről (1 kiegészítés, 6 módosítás; 1992. 12. 19.)
+
+A Bizottság 91/189/EGK döntése
+
+az állatorvosi tesztekhez használt anyagok és eljárások szabványosítási előírásairól, továbbá a harmadik országokban lévő szarvasmarha és sertés importpiacok jóváhagyásának feltételeiről
+
+A Bizottság 3701/91/EGK rendelete
+
+a 3667/91/EGK számú Tanácsi Rendeletben előírt azon import rendelkezések alkalmazása részletes szabályainak meghatározásáról, amelyek a 0202 CN kód alá tartozó fagyasztott marhahúsra, illetve a 0206 29 91 CN kód alá tartozó termékekre vonatkoznak (1 módosítás; 1992. 02. 27.)
+
+A Bizottság 3743/91/EGK rendelete
+
+a 3668/91/EGK és a 3699/91/EGK számú Tanácsi Rendeletekben a marha- és borjúhúsra előírt import rendelkezések alkalmazása részletes szabályainak meghatározásáról (1 módosítás; 1992. 03. 17.)
+
+A Bizottság 451/92/EGK rendelete
+
+annak megállapításáról, hogy a 3701/91/EGK számú rendelet szerinti import engedélyek kiadására irányuló kérelmek milyen mértékben fogadhatók el a marha- és borjúhús szektorban
+
+A Tanács 1157/92/EGK rendelete
+
+az élő szarvasmarhák importjára vonatkozó ügyviteli intézkedések végrehajtásának engedélyezéséről
+
+A Bizottság 2148/92/EGK rendelete
+
+az STM engedélyek érvényességi időtartamának a 3810/91/EGK számú rendelet alapján történő meghatározásáról
+
+A Bizottság 2919/92/EGK rendelete
+
+az egyes intervenciós ügynökségek által tárolt és a feldolgozást követően exportálni szándékozott csontos marhahúsnak a 2539/84/EGK számú rendeletben meghatározott módon történő értékesítéséről, valamint az 569/88/EGK számú rendelet módosításáról (1 módosítás; 1993. 04. 02.)
+
+A Bizottság 3770/92/EGK rendelete
+
+a 3394/92/EGK számú Tanácsi Rendeletben a fagyasztott vékony szarvasmarha dagadóra előírt import intézkedések alkalmazásának részletes szabályozásáról
+
+A Bizottság 3771/92/EGK rendelete
+
+a 3392/92/EGK számú Tanácsi Rendeletben a 0202 CN kód alá tartozó fagyasztott marhahúsra, valamint a 0206 29 91 CN kód alá tartozó termékekre előírt import intézkedések alkalmazásának részletes szabályozásáról
+
+A Bizottság 1061/93/EGK rendelete
+
+az Olaszországban kitört száj- és körömfájás-járvány eredményeként a marha- és borjúhús ágazatban elfogadott korlátozó intézkedésekről
+
+A Bizottság 1283/93/EGK rendelete
+
+a 929/93/EGK számú Tanácsi Rendelet által előírt import intézkedések alkalmazásának részletes szabályozásáról a marha- és borjúhús ágazatban
+
+A Bizottság 12041/93/EGK rendelete
+
+az egyes állategészségügyi intézkedések következtében a marha- és borjúhús ágazatban elfogadásra kerülő korlátozásokról
+
+A Bizottság 2697/93/EGK rendelete
+
+amely az 1993. július 1-jétől 1994. június 30-ig terjedő időszakra részletes szabályokat állapít meg a Közösség és a Lengyel Köztársaság, a Magyar Köztársaság, illetve a korábbi Cseh és Szlovák Szövetségi Köztársaság közötti Ideiglenes Társulási Megállapodáshoz tartozó Kiegészítő Jegyzőkönyveiben a friss, a hűtött és a fagyasztott marhahúsra előírt import intézkedések alkalmazását
+
+A Bizottság 3558/93/EGK rendelete
+
+a 2697/93/EGK számú rendelet módosításáról, amely az 1993. július 1-jétől 1994. június 30-ig terjedő időszakra részletesen szabályozza a Közösség, illetve a Lengyel Köztársaság, a Magyar Köztársaság és a korábbi Cseh és Szlovák Szövetségi Köztársaság között létrejött Ideiglenes Társulási Egyezmények kiegészítő Jegyzőkönyveiben a friss és a fagyasztott marhahúsra előírt import intézkedések alkalmazását
+
+7.4. *Juh- és kecskehús*
+
+Juh- és kecskehús kereskedelmi egyezmény az Európai Gazdasági Közösség és a Magyar Népköztársaság között
+
+A Tanács 2641/80/EGK rendelete
+
+a juh- és kecskehús piac közös megszervezéséről szóló 1837/80/EGK számú rendeletben rögzített egyes import előírások korlátozásáról (2 módosítás; 1992. 12. 31.)
+
+A Bizottság 19/82/EGK rendelete
+
+a 2641/80/EGK számú rendelet alkalmazásának részletes szabályozásáról, tekintettel az egyes nem tagországokból származó juh- és kecskehús készítmények importjára (2 kiegészítés, 12 módosítás; 1993. 03. 06.)
+
+A Bizottság 20/82/EGK rendelete
+
+az import és export engedélyek juh- és kecskehúsra való alkalmazásának részletes speciális szabályairól (3 módosítás; 12. 31.)
+
+A Tanács 1985/82/EGK rendelete
+
+a kedvezményes elbánásra jogosító átmeneti intézkedésekről egyes harmadik országokból származó juh- és kecskehús import esetében (1 módosítás; 1985. 12. 31.)
+
+A Tanács 3643/85/EGK rendelete
+
+az egyes harmadik országokra 1986-tól alkalmazható import intézkedésekről a juh- és kecskehús szektorban (4 módosítás; 1992. 12. 31.)
+
+A Bizottság 3653/85/ EGK rendelete
+
+az egyes harmadik országokra 1986-tól alkalmazható import szisztéma végrehajtásának részletes szabályozásáról a juh- és kecskehús szektorban (módosítás; 1993. 10. 06.)
+
+A Bizottság 823/91/EGK rendelete
+
+a 19/82/EGK számú rendelet módosításáról, amely részletes szabályokat állapít meg a 2641/90/EGK számú Tanácsi Rendelet alkalmazásával kapcsolatban az egyes nem tagországokból származó juh- és kecskehús készítmények importjára vonatkozóan
+
+A Bizottság 93/198/EGK döntése
+
+amely kialakítja az állategészségügyi feltételek és az állatorvosi bizonylatok rendszerét a házijuhok és a kecskék harmadik országokból történő behozatalához
+
+8\. *Konzerv- és hűtőipar*
+
+A Tanács 89/108/EGK irányelve
+
+a tagállamok által a mélyhűtött élelmiszerekről kiadott jogszabályok összehangolásáról
+
+---
+
+[^1]: [A 13/2019. (IV. 5.) AM rendelet 2. §-ával elrendelt módosítás, amely szerint a 131. § (2) bekezdés b) pontjában a „munkaköri orvosi” szövegrész helyébe az „orvosi” szöveg lép, és a 160. § (2) bekezdésében a „közszolgálati jogviszonyban” szövegrész helyébe a „kormányzati szolgálati jogviszonyban” szöveg lép, nem vezethető át.]
+[^2]: A 2. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^5]: A 2/A. §-t a 22/2014. (III. 14.) VM rendelet 3. § (1) bekezdése iktatta be.
+[^6]: Megjelent a Mezőgazdasági és Élelmezésügyi Értesítő 1997. évi 13. számában (1997. június 30.), valamint a Magyar Közlöny 1998. évi 74/II. számában (1998. augusztus 15.).
+[^7]: Az 1. számú melléklet 2. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^8]: Az 1. számú melléklet 3. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^9]: Az 1. számú melléklet 4. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^10]: Az 1. számú melléklet 4. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^11]: Az 1. számú melléklet 7. §-ának (2)–(6) bekezdését a 24/2004. (III. 2.) FVM rendelet 13. §-ának (3) bekezdése hatályon kívül helyezte.
+[^12]: Az 1. számú melléklet 10. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^13]: Az 1. számú melléklet 11. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 7. pontja szerint módosított szöveg.
+[^14]: Az 1. számú melléklet 14. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^15]: Az 1. számú melléklet 15. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^17]: Az 1. számú melléklet 29. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 3. és 7. pontja szerint módosított szöveg.
+[^18]: Az 1. számú melléklet 29. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^23]: Az 1. számú melléklet III. fejezetét (38–52. §) a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^32]: Az 1. számú melléklet 61. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja, a 151/2012. (XII. 29.) VM rendelet 1. § b) pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^33]: Az 1. számú melléklet 61. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 62. § (1) bekezdése a 23/2023. (V. 10.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 62. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet 63. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 65. §-ának (2) bekezdése az 54/2004. (IV. 24.) FVM rendelet 18. §-ának (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. számú melléklet 65. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. és 10. pontja szerint módosított szöveg.
+[^59]: Az 1. számú melléklet 89. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^60]: Az 1. számú melléklet 90. §-ának (1) bekezdése az 54/2004. (IV. 24.) FVM rendelet 18. §-ának (6) bekezdésével megállapított szöveg.
+[^61]: Az 1. számú melléklet 90. § (2) bekezdése az 54/2004. (IV. 24.) FVM rendelet 18. § (6) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^62]: Az 1. számú melléklet 90. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^63]: Az 1. számú melléklet 94. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^64]: Az 1. számú melléklet 94. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^65]: Az 1. számú melléklet 94. §-ának (3) bekezdése az 54/2004. (IV. 24.) FVM rendelet 18. §-ának (7) bekezdésével megállapított szöveg.
+[^76]: Az 1. számú melléklet 107. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 11. pontja szerint módosított szöveg.
+[^77]: Az 1. számú melléklet 107. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 11. pontja szerint módosított szöveg.
+[^78]: Az 1. számú melléklet 108. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 12. és 13. pontja, a 23/2023. (V. 10.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^79]: Az 1. számú melléklet 108. § (1) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 14. pontja szerint módosított szöveg.
+[^80]: Az 1. számú melléklet 108. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^81]: Az 1. számú melléklet 108. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^82]: Az 1. számú melléklet 109. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^83]: Az 1. számú melléklet 109. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^84]: Az 1. számú melléklet 109. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^85]: Az 1. számú melléklet 109. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^86]: Az 1. számú melléklet 109. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^87]: Az 1. számú melléklet 109. § (2) bekezdés g) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^88]: Az 1. számú melléklet 110. §-t megelőző alcíme a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^89]: Az 1. számú melléklet 110. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^90]: Az 1. számú melléklet 110. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^91]: Az 1. számú melléklet 110. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^92]: Az 1. számú melléklet 110. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 21. pontja, a 23/2023. (V. 10.) AM rendelet 1. § d) pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^93]: Az 1. számú melléklet 110. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^94]: Az 1. számú melléklet 110. § (2) bekezdés g) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 19. pontja szerint módosított szöveg.
+[^95]: Az 1. számú melléklet 111. §-ának (2) bekezdéséből a „sertések szaporító- és légzőszervi tünetegyüttese (PRRS) 5 | 6 nap” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^96]: Az 1. számú melléklet 112. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 11., 20. és 22. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^97]: Az 1. számú melléklet 112. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 18. pontja szerint módosított szöveg.
+[^98]: Az 1. számú melléklet 115. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^99]: Az 1. számú melléklet 119. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja, a 23/2023. (V. 10.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^100]: Az 1. számú melléklet 120. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^101]: Az 1. számú melléklet 120. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^102]: Az 1. számú melléklet 122. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^103]: Az 1. számú melléklet 122. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3.és 23. pontja, a 23/2023. (V. 10.) AM rendelet 1. § f) pontja szerint módosított szöveg.
+[^104]: Az 1. számú melléklet 123. § (2) bekezdés b) pont bb) alpontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^105]: Az 1. számú melléklet 123. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^106]: Az 1. számú melléklet 123. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 24. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^107]: Az 1. számú melléklet 123. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja, a 23/2023. (V. 10.) AM rendelet 1. § g) pontja szerint módosított szöveg.
+[^108]: Az 1. számú melléklet 123. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^109]: Az 1. számú melléklet 132. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 25. pontja szerint módosított szöveg.
+[^110]: Az 1. számú melléklet 133. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^111]: Az 1. számú melléklet 133. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^112]: Az 1. számú melléklet 136. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 17. pontja szerint módosított szöveg.
+[^113]: Az 1. számú melléklet 136. § (2) bekezdését a 70/2013. (VII. 31.) VM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^114]: Az 1. számú melléklet 137. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^115]: Az 1. számú melléklet 137. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^116]: Az 1. számú melléklet 137. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^117]: Az 1. számú melléklet 138. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 27. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^118]: Az 1. számú melléklet 138. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^119]: Az 1. számú melléklet 138. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^120]: Az 1. számú melléklet 138. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^121]: Az 1. számú melléklet 140. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^140]: Az 1. számú melléklet 159. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 28. pontja szerint módosított szöveg.
+[^141]: Az 1. számú melléklet 159. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^142]: Az 1. számú melléklet 160. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 29–30. pontja szerint módosított szöveg.
+[^143]: Az 1. számú melléklet 160. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 31. pontja szerint módosított szöveg.
+[^144]: Az 1. számú melléklet 160. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 6. és 11. pontja szerint módosított szöveg.
+[^145]: Az 1. számú melléklet 160. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^158]: Az 1. számú melléklet 178. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 10. pontja szerint módosított szöveg.
+[^159]: Az 1. számú melléklet 178. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^160]: Az 1. számú melléklet 180. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. sé 36. pontja szerint módosított szöveg.
+[^161]: Az 1. számú melléklet 180. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^162]: Az 1. számú melléklet 180. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^163]: Az 1. számú melléklet 182. § (1) bekezdése a 22/2014. (III. 14.) VM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^164]: Az 1. számú melléklet 182. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^165]: Az 1. számú melléklet 182. § (4) bekezdését a 113/2008. (VIII. 30.) FVM rendelet 7. § (5) bekezdésének b) pontja hatályon kívül helyezte.
+[^166]: Az 1. számú melléklet 184. § (1) bekezdése a 22/2014. (III. 14.) VM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^167]: Az 1. számú melléklet 185. § (1) bekezdése a 22/2014. (III. 14.) VM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^168]: Az 1. számú melléklet 186. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^169]: Az 1. számú melléklet 186. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^170]: Az 1. számú melléklet 188. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^173]: Az 1. számú melléklet 191. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^174]: Az 1. számú melléklet 192. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^175]: Az 1. számú melléklet 194. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^176]: Az 1. számú melléklet 195. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^177]: Az 1. számú melléklet 195. §-ának (4) bekezdését az 54/2004. (IV. 24.) FVM rendelet 17. §-ának (2) bekezdése hatályon kívül helyezte.
+[^178]: Az 1. számú melléklet 196. § (1) bekezdése a 97/2005. (X. 28.) FVM rendelet 6. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 5. pontja szerint módosított szöveg.
+[^179]: Az 1. számú melléklet 196. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^180]: Az 1. számú melléklet 197. § (4) bekezdését a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^181]: Az 1. számú melléklet 198. § (1) bekezdését az 56/2019. (XII. 12.) AM rendelet 29. § b) pontja hatályon kívül helyezte.
+[^182]: Az 1. számú melléklet 199. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 37. pontja szerint módosított szöveg.
+[^183]: Az 1. számú melléklet 200. §-a a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^184]: Az 1. számú melléklet 203. § (1) bekezdése a 12/2008. (II. 14.) FVM rendelet 19. §-ával megállapított szöveg.
+[^185]: Az 1. számú melléklet 203. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 3. pontja szerint módosított szöveg.
+[^186]: Az 1. számú melléklet 205. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^187]: Az 1. számú melléklet 205. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^188]: Az 1. számú melléklet 138. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^189]: Az 1. számú melléklet 208. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^190]: Az 1. számú melléklet 208. § (3) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^191]: Az 1. számú melléklet 208. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^192]: Az 1. számú melléklet 208. § (5) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^193]: Az 1. számú melléklet 209. § (1) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^194]: Az 1. számú melléklet 209. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^195]: Az 1. számú melléklet 211. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^196]: Az 1. számú melléklet 211. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 14. pontja szerint módosított szöveg.
+[^197]: Az 1. számú melléklet 211. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^203]: A melléklet 217. § (1)–(4) bekezdését a 141/2009. (X. 29.) FVM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
+[^204]: Az 1. számú melléklet 219. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^205]: Az 1. számú melléklet 220. § (8) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^263]: Az 1. számú melléklet 285. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^264]: Az 1. számú melléklet 285. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^265]: Az 1. számú melléklet 285. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^266]: Az 1. számú melléklet 285. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^267]: Az 1. számú melléklet 286. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^268]: Az 1. számú melléklet 286. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^269]: Az 1. számú melléklet 286. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^270]: Az 1. számú melléklet 286. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 38. pontja, a 23/2023. (V. 10.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^271]: Az 1. melléklet 287. § b) pontja a 23/2023. (V. 10.) AM rendelet 1. § d) pontja szerint módosított szöveg.
+[^272]: Az 1. számú melléklet 288. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 33. pontja szerint módosított szöveg.
+[^274]: Az 1. számú melléklet 290. § (2) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^275]: Az 1. számú melléklet 291. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^276]: Az 1. számú melléklet 296. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^277]: Az 1. számú melléklet 296. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^278]: Az 1. számú melléklet 301. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 22. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^279]: Az 1. számú melléklet 302. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^280]: Az 1. számú melléklet 302. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^281]: Az 1. számú melléklet 302. § a) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 35. pontja szerint módosított szöveg.
+[^282]: Az 1. számú melléklet 302. § e) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 36. pontja szerint módosított szöveg.
+[^283]: Az 1. számú melléklet 303. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^284]: Az 1. számú melléklet 303. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^285]: Az 1. számú melléklet 303. § (1) bekedés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^286]: Az 1. számú melléklet 303. § (1) bekedés e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 39. pontja szerint módosított szöveg.
+[^287]: Az 1. számú melléklet 303. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^288]: Az 1. számú melléklet 315. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^289]: Az 1. számú melléklet 316. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^290]: Az 1. számú melléklet 316. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^291]: Az 1. számú melléklet 318. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^292]: Az 1. számú melléklet 318. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^293]: Az 1. számú melléklet 320. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^294]: Az 1. számú melléklet 321. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^295]: Az 1. számú melléklet 324. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^296]: Az 1. számú melléklet 327. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^297]: Az 1. számú melléklet 327. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^298]: Az 1. számú melléklet 327. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^340]: Az 1. számú melléklet 404. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^341]: Az 1. számú melléklet 404. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^342]: Az 1. számú melléklet 404. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^343]: Az 1. számú melléklet 405. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^344]: Az 1. számú melléklet 405. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^345]: Az 1. számú melléklet 405. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^346]: Az 1. számú melléklet 407. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^347]: Az 1. számú melléklet 408. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^348]: Az 1. számú melléklet 409. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^349]: Az 1. számú melléklet 409. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 40. pontja szerint módosított szöveg.
+[^350]: Az 1. számú melléklet 411. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított, a 23/2023. (V. 10.) AM rendelet 1. § c) pontja, a 23/2023. (V. 10.) AM rendelet 1. § h) pontja szerint módosított szöveg.
+[^351]: Az 1. számú melléklet 412. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^352]: Az 1. számú melléklet 413. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^353]: Az 1. számú melléklet 413. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^367]: Az 1. számú melléklet 432. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^368]: Az 1. számú melléklet 432. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^369]: Az 1. számú melléklet 434. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^370]: Az 1. számú melléklet 435. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^371]: Az 1. számú melléklet 441. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^372]: Az 1. számú melléklet 441. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^373]: Az 1. számú melléklet 446. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^374]: Az 1. számú melléklet 446. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^375]: Az 1. számú melléklet 446. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^376]: Az 1. számú melléklet 452. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 41. pontja szerint módosított szöveg.
+[^377]: Az 1. számú melléklet 452. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 42. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^378]: Az 1. számú melléklet 453. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^379]: Az 1. számú melléklet 454. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^380]: Az 1. számú melléklet 454. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^381]: Az 1. számú melléklet 457. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^382]: Az 1. számú melléklet 462. § (1) bekezdés a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^383]: Az 1. számú melléklet 466. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^384]: Az 1. számú melléklet 467. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^385]: Az 1. számú melléklet 468. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^386]: Az 1. számú melléklet 469. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^387]: Az 1. számú melléklet 469. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^388]: Az 1. számú melléklet 469. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^389]: Az 1. számú melléklet 469. § f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^390]: Az 1. számú melléklet 470. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^391]: Az 1. számú melléklet 470. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^392]: Az 1. számú melléklet 472. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^393]: Az 1. számú melléklet 473. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^394]: Az 1. számú melléklet 474. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 18. pontja szerint módosított szöveg.
+[^395]: Az 1. számú melléklet 475. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^453]: Az 1. számú melléklet 535. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^454]: Az 1. számú melléklet 536. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 43. pontja szerint módosított szöveg.
+[^455]: Az 1. számú melléklet 537. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^456]: Az 1. számú melléklet 537. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^472]: Az 1. számú melléklet 558. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^473]: Az 1. számú melléklet 559. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^474]: Az 1. számú melléklet 559. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^475]: Az 1. számú melléklet 563. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^476]: Az 1. számú melléklet 566. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^497]: Az 1. melléklet 608. § (3) bekezdését a 23/2023. (V. 10.) AM rendelet 2. § e) pontja hatályon kívül helyezte.
+[^498]: Az 1. számú melléklet 611. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^499]: Az 1. számú melléklet 611. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^500]: Az 1. számú melléklet 612. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^501]: Az 1. számú melléklet 615. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^505]: Az 1. számú melléklet 622. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^506]: Az 1. számú melléklet 629. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja, a 23/2023. (V. 10.) AM rendelet 1. § i) pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^507]: Az 1. számú melléklet 632. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^508]: Az 1. számú melléklet 634. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 45. pontja szerint módosított szöveg.
+[^509]: Az 1. számú melléklet 635. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^510]: Az 1. számú melléklet 635. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^511]: Az 1. számú melléklet 636. §-t megelőző alcíme a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^512]: Az 1. számú melléklet 636. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^513]: Az 1. számú melléklet 636. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 46. pontja szerint módosított szöveg.
+[^514]: Az 1. számú melléklet 636. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 19. pontja szerint módosított szöveg.
+[^515]: Az 1. számú melléklet 639. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^516]: Az 1. számú melléklet 640. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^517]: Az 1. számú melléklet 640. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 47. pontja szerint módosított szöveg.
+[^518]: Az 1. számú melléklet 640. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 46. pontja szerint módosított szöveg.
+[^527]: Az 1. számú melléklet 652. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^528]: Az 1. számú melléklet 652. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. és 48. pontja szerint módosított szöveg.
+[^529]: Az 1. számú melléklet 652. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 47. pontja szerint módosított szöveg.
+[^531]: Az 1. számú melléklet Második részét (654–792. §) a 66/2006. (IX. 15.) FVM rendelet 8. § (1) bekezdésének m) pontja hatályon kívül helyezte.
+[^532]: Az 1. számú melléklet Harmadik Részét a 65/2012. (VII. 4.) VM rendelet 48. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46. §-át.
+[^543]: Az 1. számú melléklet 1. számú függelék 4. pontja az 51/2013. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
+[^544]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^545]: Az 1. számú melléklet 2. számú függelék 1. pont 1.3. alpontját a 42/2025. (IX. 30.) AM rendelet 1. §-a iktatta be.
+[^546]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^547]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^548]: A 1. számú melléklet 5. függelék 3.5. pontja a 22/2014. (III. 14.) VM rendelet 3. § (3) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^549]: Az 1. melléklet 5. függelék 3.8. pont f) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^550]: Az 1. melléklet 5. függelék 3.8. pont g) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^551]: Az 1. melléklet 5. függelék 3.8. pont h) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^552]: Az 1. melléklet 5. függelék 3.8. pont i) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^553]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^554]: Az 1. számú melléklet 6. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^555]: A 1. számú melléklet 7. függelék 8. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^556]: Az 1. számú melléklet 8/a. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^557]: Az 1. számú melléklet 8/b. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/b. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
+[^558]: Az 1. számú melléklet 8/c. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/c. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
+[^559]: Az 1. számú melléklet 9. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^560]: Az 1. számú melléklet 10. számú függelék 4. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^561]: Az 1. számú melléklet 11. számú függelékét az 52/2003. (VIII. 15.) GKM–FVM együttes rendelet 37. § (1) bekezdése hatályon kívül helyezte.
+[^562]: Az 1. számú melléklet 12. számú függelék I. pont 1. alpontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^563]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^564]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^565]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 49. pontja szerint módosított szöveg.
+[^566]: Az 1. melléklet 17. függeléke a 23/2023. (V. 10.) AM rendelet 1. § j) pontja szerint módosított szöveg
+[^567]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^568]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
+[^569]: Az 1. számú melléklet 18. számú függelékének II/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^570]: A 19–22. számú függeléket a 74/2013. (VIII. 30.) VM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^571]: Az 1. számú melléklet 23. számú függelék 5. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 6. és 16. pontja, a 23/2023. (V. 10.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^572]: Az 1. számú melléklet 23. számú függelékének 10. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^573]: Az 1. számú melléklet 24. számú függelék 1., 2., 3. alpont záró szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
+[^574]: Az 1. számú melléklet 24. számú függelék 12., 13. alpontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 47. pontja szerint módosított szöveg.
+[^575]: Az 1. számú melléklet 24. számú függelék 16. pontját a 65/2002. (VIII. 9.) FVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
+[^576]: Az 1. számú melléklet 24. számú függelékének 24. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^577]: Az 1. számú melléklet 24. számú függelékének 27. pontját a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^578]: Az 1. számú melléklet 24. számú függelék 33., 34. alpont a) alpontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 47. pontja szerint módosított szöveg.
+[^579]: Az 1. számú melléklet 24. számú függelék 34. pontját követő „Oltóanyag-vizsgálat” című rész a) pontja a 19/2014. (III. 12.) VM rendelet 5. § c) pontja szerint módosított szöveg.
+[^580]: Az 1. számú melléklet 25. számú függelék 13. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 18. pontja szerint módosított szöveg.
+[^581]: A melléklet 26/a. számú függelékét a 141/2009. (X. 29.) FVM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
+[^582]: Az 1. számú melléklet 28–32. számú függelékét a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^583]: Az 1. számú melléklet 33–38. számú függelékét a 65/2002. (VIII. 9.) FVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
+[^584]: Az 1. számú melléklet 39. számú függelékét a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^585]: Az 1. számú melléklet 51. számú függelékét a 90/2003. (VII. 30.) FVM-ESZCSM együttes rendelet 15. §-ának (3) bekezdése hatályon kívül helyezte.
+[^586]: Lásd 1998. MK 74. szám II. kötet 262–263. oldal.
+[^587]: Lásd 1998. MK 74. szám II. kötet 263. oldal.
+[^588]: Lásd 1998. MK 74. szám II. kötet 269. oldal.
+[^589]: Lásd 1998. MK 74. szám II. kötet 275. oldal.
+[^590]: A rendelet melléklete a Magyar Közlöny 1997. évi 62. számában közzétett helyesbítésnek megfelelően módosított szöveg.

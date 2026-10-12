@@ -1,0 +1,626 @@
+---
+title: "20/2009. (VI. 18.) EüM rendelet az egészségügyi ellátással összefüggő fertőzések megelőzéséről, e tevékenységek szakmai minimumfeltételeiről és felügyeletéről"
+identifier: "20/2009. (VI. 18.) EüM rendelet"
+njt_id: "2009-20-20-0B"
+eli: "https://njt.jog.gov.hu/eli/R/2009/EUM/20"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2009-06-18
+in_force_from: 2009-07-03
+last_amended: 2024-04-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-20-20-0B"
+retrieved: 2026-10-12
+---
+
+# 20/2009. (VI. 18.) EüM rendelet az egészségügyi ellátással összefüggő fertőzések megelőzéséről, e tevékenységek szakmai minimumfeltételeiről és felügyeletéről
+
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés *df)* és *ga)* alpontjában foglalt felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörben eljárva az alábbiakat rendelem el:
+
+### 1. §
+
+E rendelet hatálya kiterjed
+
+a)[^1] a Magyarország területén működő egészségügyi szolgáltatókra és
+
+b)[^2] az országos tisztifőorvosra, valamint a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalra és a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalára.
+
+c)[^3] az irányítása, illetve fenntartása alatt álló egészségügyi szolgáltatók vonatkozásában az egészségügyi szolgáltatás irányításáért, illetve fenntartásáért felelős szervként eljáró Országos Kórházi Főigazgatóságra (a továbbiakban: OKFŐ) és
+
+d)[^4] az egészségbiztosítási szervként eljáró Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK).
+
+## Értelmező rendelkezések
+
+### 2. §[^5]
+
+(1) Az e rendeletben használt fogalmakra – ha e rendelet eltérően nem rendelkezik – a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendeletben meghatározott fogalmakat kell alkalmazni.
+
+(2) E rendelet alkalmazásában
+
+1\. *antibiotikum felügyeleti rendszer:* a fertőzések megelőzésére és gyógyítására alkalmazott antibiotikumok észszerű és költséghatékony felhasználásának tervezése, elemzése, ellenőrzése, illetve az antibiotikumokkal szembeni rezisztencia kialakulása és terjedése ellen alkalmazott módszerek összessége;
+
+2\. *antibiotikum rezisztencia surveillance:* a kórokozók antibiotikum-érzékenység/-rezisztencia változásaira irányuló, célzott surveillance;
+
+3\. *antimikrobiális szerek felhasználásának és hasznosításának surveillance-a:* az egészségügyi intézmény által profilaktikus vagy terápiás célból felhasznált antimikróbás szerek fogyasztására és megfelelő felhasználására irányuló célzott surveillance;
+
+4\. *betegellátási pont:* a betegzónán belül olyan hely, ahol egyidejűleg együttesen jelen van a beteg, az egészségügyi dolgozó és a beteg érintésével járó ápolás, betegellátás, gyógyítás;
+
+5\. *betegzóna:* az egészségügyi ellátás olyan területe, amelynek része a beteg és az őt körülvevő azon élettelen környezet, amelyet a beteg maga megérinthet, vagy direkt módon a beteggel fizikai kontaktusba kerülhet;
+
+6\. *célzott surveillance:* egy-egy meghatározott fertőzés, rizikótényező, kórokozó, antibiotikum-érzékenység/-rezisztencia, profilaktikus vagy terápiás célú gyógyszerfelhasználás monitorozására irányuló tevékenység;
+
+7\. *egészségügyi ellátással összefüggő fertőzés:* az egészségügyi ellátásban részesülő személynél, az egészségügyi dolgozónál, valamint az egészségügyi ellátással kapcsolatba kerülő más személynél az egészségügyi ellátás során kialakult fertőzés;
+
+8\. *egészségügyi ellátással összefüggő fertőzések surveillance-a:* az egészségügyi ellátással összefüggő fertőzések megjelenésére, gyakoriságára és részletes vizsgálatára irányuló, illetve a fertőzések kialakulásának kockázati tényezőire vonatkozó surveillance;
+
+9\. *egészségügyi ellátással összefüggő járvány:* legalább két összefüggő eset – akár tünetekkel járó fertőzés, akár kolonizáció –, amelyeknél az összefüggés, illetve az egészségügyi ellátórendszeren belüli terjedés epidemiológiai vagy mikrobiológiai vagy mind epidemiológiai, mind mikrobiológiai bizonyítékkal alátámasztható;
+
+10\. *fertőtlenítés:* a fertőzés terjedését megakadályozó azon eljárás, amely során a környezetbe (így például felületekre, eszközökre, tárgyakra, kézre, bőrre) kikerült, fertőzések kialakulásában szerepet játszó kórokozók számának csökkentése (szanációja) vagy kiirtása történik fizikai, illetve kémiai módszerekkel;
+
+11\. *Infekciókontroll és Antibiotikum Bizottság:* az infekciókontroll tevékenységet – beleértve az antibiotikumok alkalmazásának területét is – irányító és felügyelő multidiszciplináris bizottság;
+
+12\. *infekciókontroll óvó-védő szabályok (izoláció):* a kórokozók és fertőzések terjedésének megakadályozása céljából végzett, az egészségügyi ellátás során az egészségügyi dolgozó által alkalmazandó eljárások, illetve szabályok összessége, beleértve a bármely személy egészségügyi ellátása során alkalmazandó alapvető (standard) óvó-védő szabályokat, valamint ezek kiegészítésére a gyanított/igazolt kórokozó függvényében alkalmazandó, terjedésalapú óvó-védő szabályokat;
+
+13\. *infekciókontroll:* az egészségügyi ellátással összefüggő fertőző betegségek kialakulásában szerepet játszó tényezők ismeretén, elemzésén alapuló fertőzések megelőzésére irányuló intervenciós tevékenység;
+
+14\. *járványügyi intézkedés:* az egészségügyi ellátással összefüggő fertőzések átvitelének, szóródásának, így a járvány vagy járványveszély megakadályozását célzó kötelezés;
+
+15\. *kolonizáció:* kórokozó jelenléte a bőrön, nyálkahártyán vagy egyéb, normálisan nem steril szövetben vagy testváladékban klinikai tünetek megléte nélkül;
+
+16\. *környezeti infekciókontroll:* az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből – levegő, víz, felületek – eredő rizikótényezők csökkentése révén;
+
+17\. *környezeti surveillance:* az egészségügyi ellátással összefüggő fertőzéseket okozó kórokozók nyomon követése az egészségügyi ellátókörnyezetben, kiemelten a betegzónában, a víz, levegő, helyiségek, felszínek, bútorok, tárgyak, eszközök stb. célhoz kötött mintavételezése és laboratóriumi vizsgálata útján;
+
+18\. *mikrobiológiai surveillance:* kórokozók előfordulása és rezisztenciájának nyomon követése, a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerinti, bejelentésre kötelezett kórokozók előfordulásának azonosítására irányuló, célzott surveillance, amely magában foglalja a mikrobiológiai tipizáló vizsgálatokat, illetve eredményeket is;
+
+19\. *perioperatív antibiotikum profilaxis:* antibiotikumok alkalmazása a műtét során a posztoperatív sebfertőzés kockázatának csökkentése érdekében;
+
+20\. *steril anyag-eszköz ellátás:* az egészségügyi szolgáltatás nyújtása során sterilen alkalmazandó orvostechnikai eszközök biztosításának rendszere, beleértve a vonatkozó honosított harmonizált szabványok és irányelvek alapján, a felhasználás helyén végzett steril anyag-eszköz előállítást is;
+
+21\. *surveillance:* olyan folyamatosan működő információs rendszer, amely standardizált definíciók és módszertan alapján, validált kritériumok szerinti adatgyűjtést, elemzést, értelmezést, visszacsatolást és intervenciót tesz lehetővé.
+
+## Az infekciókontroll tartalma
+
+### 3. §
+
+(1) Az infekciókontroll tevékenység az alábbiakat foglalja magában:
+
+a) surveillance:
+
+aa)[^6] egészségügyi ellátással összefüggő fertőzések surveillance-a,
+
+ab) mikrobiológiai surveillance,
+
+ac) antibiotikum rezisztencia surveillance,
+
+ad)[^7] antimikrobiális szerek felhasználásának és hasznosításának surveillance-a;
+
+ae)[^8] környezeti surveillance;
+
+b) az egészségügyi ellátás folyamatainak – fertőzés kialakulása szempontjából történő – elemzése, a kockázati tényezők meghatározása, a kockázatok minimalizálására irányuló helyi szabályozás kialakítása, bevezetése, valamint a végrehajtás ellenőrzése;
+
+c) megelőző tevékenység:
+
+ca) az *a)* és *b)* pontban leírt tevékenységek adatainak elemzése alapján helyi fertőzés-megelőzési stratégiák kidolgozása, a megvalósítás monitorozása és felügyelete,
+
+cb)[^9] az infekciókontroll óvó-védő szabályok és egyéb megelőző óvintézkedések kidolgozása, a megvalósítás monitorozása és felügyelete,
+
+cc) környezeti infekciókontroll,
+
+cd) a fertőtlenítés folyamatainak szabályozása, a megvalósítás monitorozása és felügyelete,
+
+ce) a steril anyag-eszköz ellátás módjának, folyamatainak szabályozása, a végrehajtás felügyelete,
+
+cf) a külön jogszabály szerint egészségügyi kártevőnek minősülő rovarok és rágcsálók elleni védekezés felügyelete;
+
+d)[^10] a külön jogszabály szerint bejelentendő fertőző megbetegedések és a szolgáltatónál felderített sporadikus egészségügyi ellátással összefüggő fertőzések regisztrálása, a szolgáltatónál felderített egészségügyi ellátással összefüggő fertőzések járványügyi kivizsgálása, a szükséges járványügyi intézkedések megtétele, végrehajtásának felügyelete;
+
+e) a halmozottan előforduló fertőzések kivizsgálása, a járványok megelőzése/felszámolása, szükséges járványügyi intézkedések megtétele, végrehajtásának felügyelete;
+
+f)[^11] közreműködés a helyi antibiotikum-felhasználás felügyeleti rendszerének kialakításában az antibiotikumokkal szembeni rezisztencia kialakulásának megelőzése érdekében;
+
+g) az egészségügyi dolgozók fertőzéseinek megelőzésére irányuló tevékenységek szabályozása, a végrehajtás ellenőrzése;
+
+h) a katasztrófa-, illetve pandémiás tervek kidolgozásában való részvétel;
+
+i) az egészségügyi dolgozók infekciókontroll tevékenységekkel kapcsolatos tervszerű képzése, továbbképzése;
+
+j) az *a)–g)* pontban leírt tevékenységeket tartalmazó infekciókontroll terv elkészítése.
+
+(2)[^12] Az (1) bekezdésben foglalt tevékenységek végrehajtását az egészségügyi szolgáltató szervezeti egységenként évente legalább egy alkalommal megvizsgálja, és ezt dokumentálja, valamint a megfelelő végrehajtást akadályozó tárgyi vagy személyi hiányosságok esetén fejlesztési igényt nyújt be az egészségügyi intézmény fenntartója számára.
+
+## Az egészségügyi szolgáltató feladatai
+
+### 4. §[^13]
+
+(1)[^14] Az egészségügyi szolgáltató a besorolási szintjének megfelelő, az 1. melléklet szerinti személyi és tárgyi feltételek biztosításával a 3. §-ban meghatározott infekciókontroll tevékenységet folytat. Ennek támogatására – az egészségügyről szóló 1997. évi CLIV. törvény 155. § (2) bekezdése alapján – az egészségügyi intézmény fenntartója köteles biztosítani az általa fenntartott egészségügyi intézmény szükség szerinti fejlesztését.
+
+(2) Alapellátás, illetve járóbeteg-szakellátás keretében egy szakmában ellátást nyújtó egészségügyi szolgáltató infekciókontroll tevékenysége legalább a fertőzések átvitelének megakadályozását célzó előírásoknak megfelelő fertőtlenítési gyakorlatot, így különösen kéz-, bőr-, eszköz- és felületfertőtlenítést, sterilanyag ellátást, az előírásoknak megfelelő kommunális és veszélyes hulladékkezelés írásban is szabályozott bevezetését foglalja magában. Az egészségügyi szolgáltatóknál egészségügyi tevékenységet végző egészségügyi dolgozók esetében az infekciókontroll területét érintő képzést és rendszeres továbbképzést kell biztosítani.
+
+(3) A (2) bekezdésben meghatározottakon kívüli, járóbeteg-szakellátást nyújtó önálló rendelőintézetre vonatkozó minimumfeltételeket az 1. melléklet 1. pontja, a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóra vonatkozó minimumfeltételeket az 1. melléklet 2. pontja tartalmazza.
+
+(4) Járóbeteg-szakellátást is nyújtó egészségügyi szolgáltató az 1. melléklet 1. pontja szerinti minimumfeltételeket a fekvőbeteg-szakellátást nyújtó infekciókontroll szervezeti egységén keresztül is biztosíthatja.
+
+(5) Gyógyintézetben az e rendelet szerinti infekciókontroll tevékenység végrehajtásáért a gyógyintézet főigazgatója a felelős.
+
+(6) Az e rendeletben meghatározott személyi és tárgyi feltételeket
+
+a) az egészségügyi szolgáltatás nyújtására jogosító működési engedély kiadásakor annak feltételeként és
+
+b) az egészségügyi szolgáltató működése során folyamatosan
+
+biztosítani kell.
+
+(7)[^15] Amennyiben az 1. melléklet 2. pont a)–c) alpontja szerinti fekvőbeteg szakellátást nyújtó egészségügyi szolgáltató több önálló telephellyel rendelkezik, a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az 1. melléklet szerinti tárgyi feltételeket és az epidemiológiai szakápolói munkakörre vonatkozó személyi feltételeket telephelyenként ágyszámarányosan, az egyéb feltételeket a székhelyén köteles biztosítani.
+
+(8) A járóbeteg-szakellátást nyújtó önálló rendelőintézetben és a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál
+
+a) a 3. § (1) bekezdés i) pontja szerinti képzés valamennyi új belépő egészségügyi dolgozó esetében kötelező,
+
+b) a továbbképzést évi egy alkalommal valamennyi egészségügyi dolgozó számára – dokumentált módon – lehetővé kell tenni.
+
+(9)[^16] Az új belépő egészségügyi dolgozók (8) bekezdés a) pontja szerinti képzése
+
+a) az egészségügyi ellátással összefüggő fertőzések jelentősége, nagyságrendje, terjedési módja és megelőzése,
+
+b) az infekciókontroll óvó-védő szabályok,
+
+c) a kézhigiéné, védőeszköz-használat,
+
+d) a teendők multirezisztens kórokozók előfordulása során, illetve
+
+e) az egészségügyi szolgáltató infekciókontrollal kapcsolatos helyi eljárásrendjei
+
+témaköröket tartalmazza.
+
+### 5. §[^17]
+
+(1)[^18] Az egészségügyi szolgáltató az infekciókontroll tevékenységet az országos tisztifőorvos által kiadott, a 14. § (1) bekezdés f) pontja szerinti módszertani levelek és az egészségügyért felelős miniszter (a továbbiakban: miniszter) által kiadott szakmai irányelvek alapján végzi. Az OKFŐ irányítása vagy fenntartása alatt álló egészségügyi szolgáltatók ezen szerv által kiadott – az országos tisztifőorvosi módszertani levelekkel és a miniszteri szakmai irányelvekkel összhangban álló – országos kézikönyvek figyelembevételével végzik az infekciókontroll szakmai minőségértékelését és minőségfejlesztését.
+
+(2) Az egészségügyi szolgáltató gondoskodik a jogszabályok, a módszertani levelek és a szakmai irányelvek alapján helyi eljárásrend készítéséről és alkalmazásáról. A helyi eljárásrendben foglaltak jogszabályoknak, módszertani leveleknek és szakmai irányelveknek való megfelelőségét, valamint a helyi eljárásrend betartását a hatóság ellenőrzi, és szükség esetén intézkedik, illetve javaslatot tesz az eljárásrend felülvizsgálatára.
+
+(3)[^19] A helyi eljárásrend tartalmazza
+
+a) a kézhigiénére, az infekciókontroll óvó-védő (izolációs) szabályokra, az eszközhasználattal összefüggő fertőzések megelőzésére, a sebfertőzés megelőzésére (beleértve a perioperatív antibiotikum profilaxisra vonatkozó helyi ajánlásokat), valamint a környezeti infekciókontroll tevékenységre vonatkozó feladatokat;
+
+b) a Clostridioides (korábban Clostridium) difficile, továbbá a multirezisztens kórokozók által okozott fertőzések megelőzésre vonatkozó, valamint a célzott felvételi szűrések szabályozását is magában foglaló helyi előírásokat;
+
+c) a helyi antibiotikum felhasználás surveillance-ra és antibiotikum rezisztencia surveillance-ra vonatkozó előírásokat;
+
+d) az intézményi infekciókontroll stratégiát megalapozó intézményi surveillance helyi eljárásrendjét;
+
+e) a halmozódások, egészségügyi ellátással összefüggő járványok kivizsgálásának helyi eljárásrendjét;
+
+f) a 3. § (1) bekezdésében foglalt egyéb feladatokra vonatkozó helyi eljárásrendeket.
+
+(4)[^20] A (3) bekezdés a)–f) pontja szerinti helyi eljárásrendek kidolgozása és aktualizálása az egészségügyi intézmény vezetőjének utasítására, a szükséges multidiszciplináris megközelítés érdekében, a megfelelő szakmai kompetenciával bíró intézményi szakemberekből álló munkacsoport feladata, amelyben részt kell vennie infektológusnak, kórházhigiénikusnak, mikrobiológusnak, gyógyszerésznek, a klinikai szakmák képviselőinek, az ápolási igazgatónak, valamint további szakember is bevonható.
+
+### 6. §
+
+(1) Az infekciókontroll az egészségügyi szolgáltató belső minőségügyi rendszerének a része.
+
+(2)[^21] Az egészségügyi ellátással összefüggő fertőzésekre vonatkozó, valamint az infekciókontroll területén képezhető egyéb indikátorokat az 1. melléklet 2. pontjában a vezetőre meghatározott képesítéssel rendelkező, az egészségügyi szolgáltatónál az infekciókontroll tevékenység irányítását végző szakember képzi és azokat a minőségügyi rendszerbe szolgáltatja.
+
+### 7. §[^22]
+
+Az 1. melléklet szerinti egészségügyi szolgáltatók esetében az infekciókontroll szervezeti felépítését és működését – az 1. mellékletben előírt tevékenységeknek megfelelően – az Infekciókontroll Kézikönyv tartalmazza, melyet legalább kétévente felül kell vizsgálni.
+
+## A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató feladatai
+
+### 8. §
+
+(1)[^23] A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónak 400 ágy felett kórházhigiénés önálló szervezeti egységet kell működtetnie az infekciókontroll tevékenység végzésére. A kórházhigiénés szervezeti egység vezetésével az 1. melléklet 2. pont b) és c) alpontjában a vezetőre meghatározott szakképesítéssel rendelkező szakember bízható meg.
+
+(2)[^24] Az egészségügyi szolgáltató steril anyag-eszköz előállításának, illetve ellátásának szakmai felügyeletét az egészségügyi szolgáltató vezetője által – az infekciókontroll/kórházhigiénés tevékenységet vezető munkatárs javaslata alapján – megbízott személy látja el.
+
+(3)[^25] Az egészségügyi szolgáltató biztosítja az osztályok profiljához igazodóan az alkoholos kézfertőtlenítő szer, valamint a kézfertőtlenítőszer-adagolók elérhetőségét minden betegellátási ponton, valamint a látogatói belépési pontokon.
+
+(4)[^26] Valamennyi fekvőbeteg-szakellátást nyújtó intézmény elvégzi az intézményére vonatkozóan az intézménytípus besorolását az 1. melléklet 2. pont 2.1–2.5. alpontja tekintetében az országos tisztifőorvos módszertani levelében meghatározott kritériumok szerint. Ha az intézménytípus szerinti besorolás módosul, az ezt indikáló változásról a bekövetkezésétől számított 14 napon belül az intézmény értesíti az OKFŐ-t.
+
+(5)[^27] Az OKFŐ a (4) bekezdés szerinti intézménytípus szerinti besorolást egyezteti a NEAK-kal és a Nemzeti Népegészségügyi és Gyógyszerészeti Központtal (a továbbiakban: NNGYK), majd a végleges besorolásról tájékoztatja a fekvőbeteg-szakellátást nyújtó intézményt, amely ennek megfelelően jár el az 1. melléklet szerinti feladatok végrehajtása során.
+
+(6)[^28] Az irányító jogkört gyakorló egészségügyi intézmény felügyeli az intézménye által irányított egészségügyi intézmények infekciókontroll tevékenységét. Irányítói tevékenysége során az egységes, hatékony intézményi infekciókontroll stratégia és programok implementálása érdekében közreműködik az irányított egészségügyi intézmények infekciókontroll programjának kialakításában, szakmai támogatást nyújt a tevékenység optimális végrehajtása érdekében.
+
+(7)[^29] Az országos tisztifőorvos az intézménytípus 1. melléklet 2. pont 2.1–2.5. alpontja szerinti besorolásához módszertani levelet ad ki.
+
+### 8/A. §[^30]
+
+(1) A fekvőbeteg-ellátást végző szolgáltató valamennyi klinikai szervezeti egység (osztály) esetén infekciókontroll kapcsolattartóként 1 fő egészségügyi szakdolgozót jelöl ki.
+
+(2) Az infekciókontroll kapcsolattartó
+
+a)[^31] ellenőrzi az osztályon az 5. § (3) bekezdése szerinti helyi eljárásrend alapján az egészségügyi ellátással összefüggő fertőzésre magas kockázattal bíró vagy egyébként veszélyeztetett személyek azonnali azonosítására szolgáló kockázatértékelési eljárás elvégzését,
+
+b) közvetlen kapcsolatot tart az adott osztály és az infekciókontroll feladatokat ellátó szervezeti egység között, valamint
+
+c) segíti az infekciókontroll feladatokat ellátó szakemberek munkáját osztályos szinten, beleértve a surveillance és járványügyi kivizsgálás céljából végzett adatgyűjtéseket és az infekciókontroll intézkedések végrehajtását az osztályon.
+
+d)[^32] rendszeresen ellenőrzi az osztályon az alkoholos kézfertőtlenítő szer adagolókat és a fertőtlenítő hatású folyékony szappan adagolókat használhatóság, feltöltöttség, csereigény szempontjából, és nemmegfelelőség esetén jelzést tesz a szervezeti egység vezető ápolója részére további intézkedés céljából.
+
+(3) Az infekciókontroll kapcsolattartó részt vesz a feladatai ellátásához szükséges, az infekciókontroll feladatokat ellátó szervezeti egység munkatársai által szervezett képzésen.
+
+(4) A fekvőbeteg-ellátást végző szolgáltató klinikai szervezeti egységeit vezető valamennyi osztályvezető
+
+a) az infekciókontroll kapcsolattartó segítségével nyomon követi és felügyeli az infekciókontroll intézkedések végrehajtását,
+
+b) az infekciókontroll kapcsolattartó jelzésére intézkedik a hiányosságok megszüntetéséről,
+
+c) kapcsolatot tart az Intézményi Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: IIAB) és az infekciókontroll feladatokat végző szervezeti egység munkatársaival,
+
+d)[^33] az IIAB segítségével értékeli a mikrobiológiai mintavételi gyakoriságot és gyakorlatot, az egészségügyi ellátással összefüggő fertőzések és az antimikrobiális rezisztencia előfordulását, valamint az antimikrobiális szerek és a kézfertőtlenítő szerek felhasználását a szervezeti egységben, és az értékelés alapján intézkedéseket hoz,
+
+e) jelentést készít az IIAB részére az osztályon meghozott intézkedésekről.
+
+### 9. §[^34]
+
+(1) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató számára mikrobiológiai diagnosztikai szolgáltatást nyújtó laboratórium a bizonyítékon alapuló infekciókontroll és antibiotikum felügyeleti tevékenység elősegítése érdekében – a 8. § (1) bekezdése szerinti egészségügyi szolgáltatók esetében az infekciókontroll szervezeti egység egyidejű tájékoztatása mellett –
+
+a) folyamatosan adatokat szolgáltat a 14. § (1) bekezdés b) pontja szerinti országos adatbázisba,
+
+b) részt vesz – évente két alkalommal – az NNGYK körvizsgálataiban,
+
+c) az optimális empirikus terápia támogatása érdekében az országos tisztifőorvos szakmai-módszertani iránymutatása alapján elkészíti az intézményi, illetve osztályos antibiotikum-érzékenységi táblázatokat, így az intézményben, osztályon ellátott betegekből izolált kórokozók antibiotikum-érzékenységének kórokozónként összesített táblázatát, amelyeket legalább évente frissít,
+
+d) gondoskodik a törzsküldésről a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet alapján,
+
+e) fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által igényelt rendszerességgel és formában összeállítja a vizsgált mikrobiológiai minták számára és vizsgálati eredményeire vonatkozó, aggregált adatokat.
+
+(2) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató – a 8. § (1) bekezdése szerinti egészségügyi szolgáltatók esetében az infekciókontroll szervezeti egységén keresztül –
+
+a) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény, valamint a fertőző betegségek jelentésének rendjéről szóló 1/2014. (I. 16.) EMMI rendelet előírásainak megfelelően adatokat szolgáltat a 14. § (1) bekezdés a) pontja szerinti országos surveillance adatbázisba,
+
+b) részt vesz az Európai Pont Prevalencia Vizsgálatban, az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának európai felmérésében,
+
+c) az egészségügyi szolgáltatónál működő, a 10. § szerinti, az IIAB éves tevékenységére vonatkozó összesített beszámolót is tartalmazó éves jelentést készít a 3. § (1) bekezdése szerinti infekciókontroll tevékenységéről az országos tisztifőorvos által kiadott szempontok szerint, és azt a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak a tárgyévet követő év február 20-ig megküldi,
+
+d) az országos tisztifőorvos által kiadott módszertani levél mellékletét képező „Az Egészségügyi Világszervezet (WHO) infekciókontroll-kockázatértékelő rendszere aktív fekvőbeteg-ellátó intézmények számára” kérdőív kitöltésével, értékelésével évenként elvégzi az egészségügyi szolgáltató saját infekciókontroll tevékenységének áttekintését az Egészségügyi Világszervezet (a továbbiakban: WHO) ajánlásának kulcselemei tekintetében, és az infekciókontroll szervezeti egysége javaslatot tesz az intézményi infekciókontroll program megerősítését célzó intézkedésekre,
+
+e) a d) pont szerinti javaslatok és az intézménynél rendelkezésre álló, az egészségügyi ellátással összefüggő fertőzések megelőzése szempontjából releváns adatok, információk alapján az egészségügyi szolgáltató saját intézményére vonatkozó programot tervez az intézményi infekciókontroll megerősítésére, amelynek beszámolóját a c) pont szerinti éves jelentéssel egy időben megküldi a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak, valamint az OKFŐ-nek,
+
+f) intézkedik az országos tisztifőorvos által kiadott módszertani levél szerinti, a négy leggyakoribb egészségügyi ellátással összefüggő fertőzés megelőzésére szolgáló ellátási csomag bevezetéséről és alkalmazásáról, valamint a végrehajtás belső ellenőrzéséről.
+
+### 10. §[^35]
+
+(1)[^36] A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak ágyszámtól függetlenül önálló IIAB-ot kell működtetniük; kivéve a 100 ágy alatti, az 1. melléklet szerint krónikus besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézményeket.
+
+(2) Az IIAB az intézmény vezetésének javaslattételi, véleményezési joggal rendelkező szakmai tanácsadó testülete.
+
+(3) Az IIAB
+
+a)[^37] értékeli az intézményi, valamint szervezeti egység szinten előforduló egészségügyi ellátással összefüggő fertőzések előfordulását adott időszak alatt, az intézményen belüli közegészségügyi-járványügyi, antibiotikum-rezisztencia helyzetet, valamint az antibiotikum-felhasználás gyakorlatát, a mikrobiológiai mintavételi gyakoriságot és gyakorlatot, valamint a kézfertőtlenítőszer-felhasználást;
+
+b)[^38] kiemelt figyelmet fordít a leggyakoribb egészségügyi ellátással összefüggő fertőzések megelőzésére vonatkozó, az országos tisztifőorvos által kiadott módszertani levélben foglaltak intézményre történő alkalmazásáról, a szükséges intézkedések végrehajtásáról;
+
+c) javaslatot tesz intézményi vagy szervezeti egység szintű infekciókontroll intézkedések bevezetésére, és nyomon követi a bevezetett intézkedések eredményességét, hatékonyságát;
+
+d) kijelöli azon antibiotikumok körét, amelyek csak infektológus jóváhagyásával adhatók az intézményen belül, és kidolgozza az erre vonatkozó intézményi eljárásrendet;
+
+e)[^39] követi és értékeli az engedélyhez kötött antibiotikum felhasználás rendjének betartását;
+
+f) értékeli az intézményen belül az antimikrobiális kezelések megfelelőségét, együttműködve a Gyógyszerterápiás Bizottsággal;
+
+g)[^40] kapcsolatot tart az Országos Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: OIAB) és a Vármegyei Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: MIAB); valamint
+
+h) az intézményvezető felkérésére beszámol, és jelentést készít az országos tisztifőorvos részére a hatáskörébe tartozó szakmai területekről.
+
+i)[^41] az 5. § (3) bekezdése szerinti helyi eljárásrendeket rendszeres időközönként értékeli, és javaslatot tesz azok aktualizálásra;
+
+j)[^42] kiemelt figyelmet fordít arra, hogy az egészségügyi szolgáltató valamennyi dolgozója a munkakörének és feladatainak megfelelően megismerje, elsajátítsa és alkalmazza a helyi eljárásrendben szereplő elvárásokat, különös tekintettel a kézhigiéné szabályainak betartása vonatkozásában;
+
+k)[^43] áttekinti, illetve a fertőzések gyakoriságával, az antibiotikum-rezisztenciával és antibiotikum-felhasználással összefüggésben elemzi az intézményi mikrobiológiai mintavételi gyakorlatra vonatkozó adatokat, és ennek alapján intézkedési tervet készít a mintavételi gyakoriság tekintetében.
+
+(4) Az IIAB rendszeresen ellenőrzi az intézményben folyó ápolási tevékenységekre vonatkozó belső utasításokat, szabályozásokat és az ellenőrzés eredményéről az ápolási igazgató legalább félévente beszámol az IIAB ülésein.
+
+(5)[^44] Az IIAB elnöke az intézmény vezetője, titkára az intézményen belüli infekciókontroll tevékenységet irányító szakember. Tagja az intézményben foglalkoztatott
+
+a) orvos igazgató,
+
+b) ápolási igazgató,
+
+c) gazdasági igazgató,
+
+d) infektológus,
+
+e) kórházhigiénikus,
+
+f) mikrobiológus szakorvos vagy klinikai mikrobiológus,
+
+g) intézeti főgyógyszerész/gyógyszerész,
+
+h) sebészeti, illetve egyéb manuális szakma képviselője,
+
+i) intenzív terápiás szakember,
+
+j) az intézmény fő ellátási profiljának megfelelő egyéb klinikai szakma képviselője.
+
+Amennyiben a fekvőbeteg-ellátást nyújtó egészségügyi szolgáltató számára a mikrobiológiai diagnosztikai szolgáltatást külső szerződött laboratórium biztosítja, úgy a külső szerződött laboratórium delegál mikrobiológus szakorvost vagy klinikai mikrobiológust az IIAB-ba.
+
+(6) Az IIAB titkárát és az (5) bekezdés c)–i) pontjában felsorolt tagjait a feladatok ellátásával az intézmény vezetője bízza meg.
+
+(7)[^45] Az IIAB legalább negyedéves rendszerességgel ülésezik, összehívásáról az elnök gondoskodik. Az IIAB működését az első ülésén elfogadott ügyrendben szabályozza.
+
+(8)[^46] A főigazgató az IIAB közreműködésével évente, továbbá – ha járványügyi esemény indokolttá teszi – soron kívüli jelentést küld az országos tisztifőorvosnak, a MIAB-nak, valamint az OKFŐ-nek az intézményi szintű egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia járványügyi helyzetről, az infekciókontroll és antimikrobiális rezisztencia visszaszorítása érdekében végzett tevékenységéről és annak eredményeiről.
+
+(9)[^47] Az IIAB felelős az intézményi antibiotikum felügyeleti rendszer program kidolgozása és működtetése szakmai felügyeletéért, és a programot évente értékeli és felülvizsgálja.
+
+(10)[^48] Az IIAB feladatainak megvalósulásáért a gyógyintézmény vezetője felelős.
+
+## Az egészségügyi hatóság feladatai
+
+### 11. §[^49]
+
+Az egészségügyi szolgáltató telephelye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal a 9. § c) pontja szerinti éves jelentések alapján elkészíti a vármegyei infekciókontroll-jelentést, melyet a tárgyévet követő március 15-éig megküld az országos tisztifőorvos részére. A vármegyei infekciókontroll-jelentés tartalmazza a 12. § szerinti, illetékes MIAB éves működéséről szóló összesítést is.
+
+### 12. §[^50]
+
+(1)[^51] Az egészségügyi ellátással összefüggő fertőzések megelőzése vármegyei és országos stratégiájának kidolgozása érdekében vármegyei és országos szinten Infekciókontroll és Antibiotikum Bizottság működik.
+
+(2)[^52] A MIAB-ot a vármegyei tisztifőorvos működteti.
+
+(3)[^53] A MIAB tanácsadó testület, amely az alakuló ülésen elfogadott ügyrend szerint működik. A MIAB elnöke a vármegyei tisztifőorvos, titkára a vármegyei tisztifőorvos javaslata alapján az ügyrendben meghatározott személy. A MIAB tagjai az országos tisztifőorvos által kijelölt tiszti(fő)gyógyszerész, a NEAK főigazgatója által kijelölt személy és az infektológiai, mikrobiológiai laboratóriumi diagnosztikai és infekciókontroll tevékenység felett szakfelügyeletet gyakorló, a feladattal megbízott szakfelügyelő főorvosok.
+
+(4)[^54] A MIAB feladata az egészségügyi ellátással összefüggő fertőzések megelőzése vármegyei stratégiájának, akciótervének – beleértve a vármegyei antibiotikum politikát is – kialakítása és eredményeinek elemzése.
+
+(5)[^55] A MIAB tevékenységét az OIAB szakmai irányításával végzi.
+
+### 13. §[^56]
+
+(1) Az OIAB-ot a miniszter hozza létre.
+
+(2) Az OIAB a miniszter javaslattevő, véleményező, tanácsadói tevékenységet végző testülete, melynek feladata az egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia helyzet értékelése és javaslattétel azon intézkedésekre és beavatkozásokra, melyekkel az egészségügyi ellátással összefüggő fertőzések kockázata csökkenthető, az antimikrobiális rezisztencia visszaszorítható.
+
+(3) Az OIAB vezetője az elnök, akit a miniszter jelöl ki.
+
+(4) Az OIAB-ot az országos tisztifőorvos működteti. Az OIAB az alakuló ülésén elfogadott ügyrend szerint működik.
+
+(5)[^57] Az OIAB titkárát az országos tisztifőorvos jelöli ki. Az OIAB állandó tagja az országos tisztifőorvos, az országos tisztifőgyógyszerész, a NEAK főigazgatója, a Nemzeti Élelmiszerlánc-biztonsági Hivatal képviselője és az OKFŐ főigazgatója. Az OIAB további tagjait a miniszter kéri fel.
+
+(6) Az OIAB feladatai:
+
+a) az egészségügyi ellátással összefüggő fertőzések és az antimikrobiális rezisztencia járványügyi helyzetének, valamint az antimikrobiális szer felhasználásnak az értékelése;
+
+b) adatgyűjtésekre történő javaslattétel;
+
+c) javaslattétel stratégiai jelentőségű központi beavatkozásokra és intézkedésekre;
+
+d) az egészségügyi intézményekben végzett infekciókontroll tevékenység elismerési és értékelési rendszerének kidolgozása és működtetése;
+
+e)[^58] a humánegészségügy és az állategészségügy együttműködésének elősegítése az antimikrobiális rezisztencia visszaszorítása érdekében a WHO Egy egészség elvének megfelelően;
+
+f) a stratégiai tervezésben, releváns szakpolitikák kialakításában, végrehajtásában és értékelésében történő közreműködés;
+
+g) részvétel járványügyi események kockázatértékelésében, a célzott intézkedések tervezésében, a beavatkozások értékelésében, kommunikációban;
+
+h) az IIAB-k és MIAB-ok jelentéseinek értékelése;
+
+i) éves jelentés készítése, továbbá felkérésre ad hoc jelentések készítése és ajánlások megfogalmazása a miniszter számára, aki dönt annak elfogadásáról és nyilvánosságra hozataláról.
+
+### 14. §
+
+(1)[^59] Az országos tisztifőorvos
+
+a)[^60] működteti az Országos Szakmai Információs Rendszer (a továbbiakban: OSZIR) részét képező, az egészségügyi ellátással kapcsolatos fertőzések és kórokozóik, valamint egyes kapcsolódó indikátorok monitorozására szolgáló országos adatbázist, az OSZIR Nemzeti Nosocomiális Surveillance Rendszert (a továbbiakban: OSZIR NNSR), és közzéteszi az OSZIR NNSR-be történő jelentésekre vonatkozó szakmai-módszertani iránymutatást,
+
+b) működteti az OSZIR részét képező, országos mikrobiológiai adatbázist,
+
+c) működteti az OSZIR NNSR részét képező, az antimikrobiális szerek felhasználásának országos adatbázisát,
+
+d) az *a)–c)* pontban foglalt adatbázisok alapján végzi a nemzetközi adatszolgáltatási kötelezettségét,
+
+e) kidolgozza az infekciókontrollal kapcsolatos standardokra és indikátorokra vonatkozó ajánlást,
+
+f)[^61] az egészségügyi ellátással összefüggő fertőzések megelőzéséről módszertani leveleket dolgoz ki, amelyeket honlapján és az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában közzétesz.
+
+(2)[^62] Az (1) bekezdés a)–c) pontja szerinti adatbázisok eredményeit országos, regionális és intézménytípus szerinti bontásban az országos tisztifőorvos éves rendszerességgel a tárgyévet követő november 1-jéig honlapján közzéteszi.
+
+### 14/A. §[^63]
+
+(1) A NEAK az országos tisztifőorvos megkeresésére adatot szolgáltat az egészségügyi ellátással összefüggő fertőzésekkel és az antimikrobiális szer felhasználással kapcsolatos helyzetelemzéshez, a járványügyi intézkedések megalapozásához, valamint a nemzetközi kötelezettségvállalások alapján történő adatszolgáltatások támogatásához.
+
+(2) A NEAK a fekvőbeteg-szakellátást nyújtó intézmények 8. § (5) bekezdése szerinti végleges, intézménytípus szerinti besorolását az éves „Kórházi ágyszám- és betegforgalmi kimutatás” című kiadványában közzéteszi.
+
+## Záró és átmeneti rendelkezések
+
+### 15. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+(2) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók a *Melléklet* 3. pontjában foglalt követelményeknek 2010. január 1-jétől kötelesek megfelelni.
+
+(3) A *Melléklet* 1. és 2. pontja szerinti szolgáltatók az ott meghatározott feltételeknek 2010. július 1-jétől kötelesek megfelelni.
+
+(4) A 7. § szerinti Infekciókontroll Kézikönyvet a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók 2010. január 1-jéig, a *Melléklet* 2. pontja szerinti járóbeteg-szakellátást nyújtó önálló rendelőintézetek 2010. július 1-jéig készítik el.
+
+(5) A 8. § szerinti kórházhigiénés szervezeti egységet a fekvőbeteg-szolgáltatók 2010. július 1-jéig hozzák létre.
+
+(6) A 10. § szerinti IIAB-ok és a 12. § szerinti RIAB-ok 2010. január 1-jéig megkezdik működésüket.
+
+(7) A 13. § szerinti OIAB alakuló ülését e rendelet hatálybalépését követő 90 napon belül kell összehívni.
+
+(7a)[^64] Az 5. § (2) bekezdése szerinti helyi eljárásrendet 2018. december 1-jétől kell alkalmazni.
+
+(8) Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a)[^65] a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat;
+
+b) a Tanács 2002/77/EC ajánlása (2001. november 15.) az antimikrobiális szerek körültekintő használatáról az embergyógyászatban;
+
+c)[^66] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
+
+(9)[^67] Ez a rendelet az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai figyelmeztető és gyorsreagáló rendszer keretében a határokon át terjedő súlyos egészségügyi veszélyekkel kapcsolatos riasztások kiadására, valamint az ilyen veszélyekkel kapcsolatos információcserére, konzultációra és a reagálás koordinációjára vonatkozó eljárások megállapításáról szóló, 2017. február 13-i (EU) 2017/253 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(10)[^68] Az országos tisztifőorvos az egészségügyi ellátással összefüggő fertőzések megelőzéséről, e tevékenységek szakmai minimumfeltételeiről és felügyeletéről szóló 20/2009. (VI. 18.) EüM rendelet módosításáról szóló 20/2024. (IV. 17.) BM rendelettel (a továbbiakban: Módr.) megállapított 8. § (7) bekezdése szerinti módszertani levelet a Módr. hatálybalépésétől[^69] számított 30. napig adja ki.
+
+(11)[^70] E rendeletnek a Módr.-rel megállapított 8. § (7) bekezdése szerinti módszertani levél alapján valamennyi fekvőbeteg-szakellátást nyújtó intézmény elvégzi az intézményére vonatkozóan az intézménytípus szerinti besorolást, és azt a Módr. hatálybalépésétől[^71] számított 60 napon belül megküldi az OKFŐ-nek.
+
+(12)[^72] E rendeletnek a Módr.-rel megállapított 1. mellékletét a Módr. hatálybalépésétől[^73] számított 61. naptól kell alkalmazni. A Módr. hatálybalépésétől számított 60. napig a járóbeteg-szakellátást nyújtó önálló rendelőintézetekre és a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókra vonatkozó minimumfeltételek tekintetében az 1. melléklet Módr. hatálybalépését megelőző napon hatályos előírásait kell alkalmazni.
+
+## 1. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^74]
+
+**1. Járóbeteg-szakellátást nyújtó önálló rendelőintézet[^75]**
+
+1.1. A járóbeteg-szakellátást nyújtó önálló rendelőintézetre vonatkozó személyi minimumfeltételek
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek** | **Munkakör** | **A munkakör betöltéséhez szükséges végzettség vagy szakképesítés** |
+| **2.** | Munkatárs | 1 fő szakápoló vagy diplomás ápoló munkakörben | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – diplomás ápoló |
+| **3.** |  | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
+
+1.2. A járóbeteg-szakellátást nyújtó önálló rendelőintézetre vonatkozó egyéb minimumfeltételek
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek** | **Leírás** |
+| **2.** | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása. |
+| **3.** | Infekciókontroll minimálisan foglalja magába | – surveillance (csak egynapos sebészeti ellátás, valamint dialízis ellátás nyújtása esetén): 3. § (1) bekezdés a) pont aa) alpontja, valamint b) pontja szerinti tevékenység, – megelőző tevékenység: 3. § (1) bekezdés c), d), e) és g) pontja, valamint 3. § (2) bekezdése szerinti tevékenység, – képzés: 3. § (1) bekezdés i) pontja |
+
+2\. **Fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók**
+
+2.1. Első szintű (primer, PRIM) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek** | **Munkakör** | **A munkakör betöltéséhez szükséges végzettség vagy szakképesítés** |
+| **2.** | Kórházhigiénés szervezeti egység vezető[^76] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = közegészségügyi-járványügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = népegészségügyi ellenőr, okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia – közegészségügyi-járványügyi felügyelő specializációval |
+| **3.** | Munkatárs | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi felügyelő, – közegészségügyi-járványügyi ellenőr, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember epidemiológia szakon, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
+| **4.** |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek** | **Leírás** |
+| **2.** | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
+| **3.** | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
+| **4.** | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
+| **5.** | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^77] |
+
+2.2. Második szintű (secunder, SEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek** | **Munkakör** | **A munkakör betöltéséhez szükséges végzettség vagy szakképesítés** |
+| **2.** | Kórházhigiénés szervezeti egység vezető[^78] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia specializációval |
+| **3.** |  | 1 fő infektológus[^79] | – infektológus szakorvos |
+| **4.** | Munkatárs | 1 fő főállású közegészségügyi-járványügyi ellenőr | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember epidemiológia szakon, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
+| **5.** |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek** | **Leírás** |
+| **2.** | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
+| **3.** | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
+| **4.** | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
+| **5.** | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^80] |
+
+2.3. Harmadik szintű (tercier, TERC) fekvőbeteg-ellátást nyújtó egészségügyi szolgáltató intézmények
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek** | **Munkakör** | **A munkakör betöltéséhez szükséges végzettség vagy szakképesítés** |
+| **2.** | Kórházhigiénés szervezeti egység vezető[^81] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal és okleveles népegészségügyi szakember epidemiológia specializációval végzettséggel rendelkező orvos |
+| **3.** | Munkatárs | 1 fő kórházi epidemiológus (1000 aktív ágy felett főállásban) | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = közegészségügyi-járványügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = népegészségügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia specializációval |
+| **4.** |  | 1 fő főállású infektológus[^82] | – infektológus szakorvos |
+| **5.** |  | 1 fő egyetemeken és 1500 aktív ágy felett 2 fő főállású közegészségügyi-járványügyi ellenőr | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember epidemiológia szakon, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
+| **6.** |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | **Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek** | **Leírás** |
+| **2.** | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
+| **3.** | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
+| **4.** | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
+| **5.** | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^83] |
+
+2.4. Specializált, aktív ellátást nyújtó kórházak (SPEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények: személyi és tárgyi minimumfeltételeik azonosak a 2.2. pont szerinti második szintű fekvőbeteg-szakellátást nyújtó egészségügyi intézményekével.
+
+2.5. Krónikus ellátást nyújtó kórházak (KRÓN) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények: személyi és tárgyi minimumfeltételeik azonosak a 2.1. pont szerinti első szintű fekvőbeteg-szakellátást nyújtó egészségügyi intézményekével.
+
+## 2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^84]
+
+---
+
+[^1]: Az 1. § a) pontja a 3/2012. NEFMI rendelet 8. § (10) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 23/2015. (IV. 28.) EMMI rendelet 106. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 65. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 51. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § c) pontját a 20/2024. (IV. 17.) BM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § d) pontját a 20/2024. (IV. 17.) BM rendelet 1. §-a iktatta be.
+[^5]: A 2. § a 20/2024. (IV. 17.) BM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (1) bekezdés a) pont aa) alpontja a 12/2012. (III. 6.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés a) pont ad) alpontja a 12/2012. (III. 6.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés a) pont ae) alpontját a 20/2024. (IV. 17.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdés c) pont cb) alpontja a 20/2024. (IV. 17.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés d) pontja a 20/2024. (IV. 17.) BM rendelet 15. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés f) pontja a 20/2024. (IV. 17.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2) bekezdése a 20/2024. (IV. 17.) BM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^13]: A 4. § a 12/2012. (III. 6.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^14]: A 4. § (1) bekezdése a 20/2024. (IV. 17.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (7) bekezdése a 20/2024. (IV. 17.) BM rendelet 15. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § (9) bekezdése a 20/2024. (IV. 17.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § a 32/2018. (IX. 28.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 5. § (1) bekezdése a 20/2024. (IV. 17.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (3) bekezdése a 20/2024. (IV. 17.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (4) bekezdését a 20/2024. (IV. 17.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^21]: A 6. § (2) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^22]: A 7. § a 12/2012. (III. 6.) NEFMI rendelet 11. § e) pontja szerint módosított szöveg.
+[^23]: A 8. § (1) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 11. § d) pontja, a 20/2024. (IV. 17.) BM rendelet 15. § c) pontja szerint módosított szöveg.
+[^24]: A 8. § (2) bekezdése a 20/2024. (IV. 17.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^25]: A 8. § (3) bekezdését a 32/2018. (IX. 28.) EMMI rendelet 3. §-a iktatta be.
+[^26]: A 8. § (4) bekezdését a 20/2024. (IV. 17.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^27]: A 8. § (5) bekezdését a 20/2024. (IV. 17.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^28]: A 8. § (6) bekezdését a 20/2024. (IV. 17.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^29]: A 8. § (7) bekezdését a 20/2024. (IV. 17.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^30]: A 8/A. §-t a 32/2018. (IX. 28.) EMMI rendelet 4. §-a iktatta be.
+[^31]: A 8/A. § (2) bekezdés a) pontja a 20/2024. (IV. 17.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^32]: A 8/A. § (2) bekezdés d) pontját a 20/2024. (IV. 17.) BM rendelet 7. § (2) bekezdése iktatta be.
+[^33]: A 8/A. § (4) bekezdés d) pontja a 20/2024. (IV. 17.) BM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^34]: A 9. § a 20/2024. (IV. 17.) BM rendelet 8. §-ával megállapított szöveg.
+[^35]: A 10. § a 32/2018. (IX. 28.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^36]: A 10. § (1) bekezdése a 20/2024. (IV. 17.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^37]: A 10. § (3) bekezdés a) pontja a 20/2024. (IV. 17.) BM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^38]: A 10. § (3) bekezdés b) pontja a 20/2024. (IV. 17.) BM rendelet 15. § d) pontja szerint módosított szöveg.
+[^39]: A 10. § (3) bekezdés e) pontja a 20/2024. (IV. 17.) BM rendelet 15. § e) pontja szerint módosított szöveg.
+[^40]: A 10. § (3) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 51. § c) pontja szerint módosított szöveg.
+[^41]: A 10. § (3) bekezdés i) pontját a 20/2024. (IV. 17.) BM rendelet 9. § (3) bekezdése iktatta be.
+[^42]: A 10. § (3) bekezdés j) pontját a 20/2024. (IV. 17.) BM rendelet 9. § (3) bekezdése iktatta be.
+[^43]: A 10. § (3) bekezdés k) pontját a 20/2024. (IV. 17.) BM rendelet 9. § (3) bekezdése iktatta be.
+[^44]: A 10. § (5) bekezdése a 20/2024. (IV. 17.) BM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^45]: A 10. § (7) bekezdése a 20/2024. (IV. 17.) BM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^46]: A 10. § (8) bekezdése a 20/2024. (IV. 17.) BM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^47]: A 10. § (9) bekezdése a 20/2024. (IV. 17.) BM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^48]: A 10. § (10) bekezdését a 20/2024. (IV. 17.) BM rendelet 9. § (6) bekezdése iktatta be.
+[^49]: A 11. § a 32/2018. (IX. 28.) EMMI rendelet 7. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 51. § a) pontja szerint módosított szöveg.
+[^50]: A 12. § a 10/2011. (III. 30.) NEFMI rendelet 68. § (3) bekezdésével megállapított szöveg.
+[^51]: A 12. § (1) bekezdése a 45/2022. (XII. 20.) BM rendelet 51. § a) pontja szerint módosított szöveg.
+[^52]: A 12. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 51. § b) pontja szerint módosított szöveg.
+[^53]: A 12. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 53. §-ával megállapított, a 20/2024. (IV. 17.) BM rendelet 15. § f) pontja szerint módosított szöveg.
+[^54]: A 12. § (4) bekezdése a 45/2022. (XII. 20.) BM rendelet 51. § a) pontja szerint módosított szöveg.
+[^55]: A 12. § (5) bekezdése a 32/2018. (IX. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^56]: A 13. § a 32/2018. (IX. 28.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^57]: A 13. § (5) bekezdése a 20/2024. (IV. 17.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^58]: A 13. § (6) bekezdés e) pontja a 20/2024. (IV. 17.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^59]: A 14. § (1) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 65. § h) pontjával megállapított szöveg.
+[^60]: A 14. § (1) bekezdés a) pontja a 20/2024. (IV. 17.) BM rendelet 11. §-ával megállapított szöveg.
+[^61]: A 14. § (1) bekezdés f) pontja a 32/2018. (IX. 28.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^62]: A 14. § (2) bekezdése a 32/2018. (IX. 28.) EMMI rendelet 10. §-ával megállapított, a 20/2024. (IV. 17.) BM rendelet 15. § g) pontja szerint módosított szöveg.
+[^63]: A 14/A. §-t a 12/2012. (III. 6.) NEFMI rendelet 8. §-a iktatta be, szövege a 20/2024. (IV. 17.) BM rendelet 12. §-ával megállapított szöveg.
+[^64]: A 15. § (7a) bekezdését a 32/2018. (IX. 28.) EMMI rendelet 12. §-a iktatta be.
+[^65]: A 15. § (8) bekezdés a) pontja az 54/2015. (XI. 24.) EMMI rendelet 35. §-ával megállapított szöveg.
+[^66]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
+[^67]: A 15. § (9) bekezdését a 12/2019. (VII. 3.) EMMI rendelet 5. §-a iktatta be.
+[^68]: A 15. § (10) bekezdését a 20/2024. (IV. 17.) BM rendelet 13. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2024. április 20.
+[^70]: A 15. § (11) bekezdését a 20/2024. (IV. 17.) BM rendelet 13. §-a iktatta be.
+[^71]: A hatálybalépés időpontja 2024. április 20.
+[^72]: A 15. § (12) bekezdését a 20/2024. (IV. 17.) BM rendelet 13. §-a iktatta be.
+[^73]: A hatálybalépés időpontja 2024. április 20.
+[^74]: Az 1. melléklet a 20/2024. (IV. 17.) BM rendelet 14. §-ával megállapított szöveg.
+[^75]: Idetartoznak fenntartótól függetlenül a járóbeteg-szakellátás keretében dialízis ellátást nyújtó egészségügyi szolgáltatók is. Amennyiben ezen egészségügyi szolgáltató több önálló telephellyel rendelkezik, akkor az 1. pont 1.1–1.2. alpontja szerinti infekciókontroll személyi és egyéb minimumfeltételeket legalább székhelyén/főtelephelyén köteles biztosítani és felügyelni az egészségügyi szolgáltató valamennyi telephelyének infekciókontroll tevékenységét.
+[^76]: Vezetői munkakört csak főállású szakember láthat el.
+[^77]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (vagy ennek hiányában szerződött) (fő)gyógyszerész végzi.
+[^78]: Mind a kórházi epidemiológus, mind az infekciókontroll feladatokat ellátó infektológus vezetői kinevezése megfelelő; illetve vezetői munkakört csak főállású szakember láthat el.
+[^79]: Infekciókontroll feladatok ellátására.
+[^80]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (fő)gyógyszerész végzi.
+[^81]: Vezetői munkakört csak főállású szakember láthat el.
+[^82]: Infekciókontroll feladatok ellátására.
+[^83]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (fő)gyógyszerész végzi.
+[^84]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezte a 38/2018. (X. 31.) EMMI rendelet 15. § (2) bekezdése.

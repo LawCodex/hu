@@ -1,0 +1,181 @@
+---
+title: "4/2002. (IX. 4.) ESZCSM rendelet a javítóintézetek rendtartásáról szóló 30/1997. (X. 11.) NM rendelet módosításáról"
+identifier: "4/2002. (IX. 4.) ESZCSM rendelet"
+njt_id: "2002-4-20-0M"
+eli: "https://njt.jog.gov.hu/eli/R/2002/ESZCSM/4"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2002-09-04
+in_force_from: 2002-09-12
+last_amended: 2002-09-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-4-20-0M"
+retrieved: 2026-10-12
+---
+
+# 4/2002. (IX. 4.) ESZCSM rendelet a javítóintézetek rendtartásáról szóló 30/1997. (X. 11.) NM rendelet módosításáról
+
+A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 105. §-ának (2) bekezdésében kapott felhatalmazás alapján – az igazságügyminiszterrel egyetértésben – a következőket rendelem el:
+
+## 1. §
+
+A javítóintézetek rendtartásáról szóló 30/1997. (X. 11.) NM rendelet (a továbbiakban: R.) I. fejezete a 9. §-t követően a következő alcímmel és a 9/A. §-sal egészül ki:
+
+,,
+
+*A rendkívüli események*
+
+**9/A. §** (1) A javítóintézeti nevelés és az előzetes letartóztatás végrehajtása során bekövetkezett rendkívüli eseményről haladéktalanul értesíteni kell az Egészségügyi, Szociális és Családügyi Minisztériumot, valamint a büntetés-végrehajtás törvényességi felügyeletét ellátó illetékes gyermek- és ifjúságvédelmi ügyészt.
+
+(2) E rendelet alkalmazásában rendkívüli eseménynek minősül minden olyan esemény, amely a javítóintézet rendjét súlyosan sérti vagy veszélyezteti, így különösen
+
+*a)* a fiatalkorú szökése,
+
+*b)* az intézet területén elkövetett bűncselekmény,
+
+*c)* a fiatalkorú öngyilkossági kísérlete, balesete, halála,
+
+*d)* az intézetben kiépített, alkalmazott biztonságtechnikai eszközök, berendezések, felszerelések fiatalkorú által történő megrongálása,
+
+*e)* minden olyan, a fiatalkorú által előidézett jelentős esemény, amely az intézet rendjének szándékos megzavarására irányul.
+
+(3) Az értesítésnek tartalmaznia kell
+
+*a)* a bejelentést tevő nevét, beosztását, telefonszámát,
+
+*b)* a rendkívüli esemény helyét, időpontját,
+
+*c)* a rendkívüli esemény leírását,
+
+*d)* a rendkívüli esemény elhárítására tett legfontosabb intézkedéseket.''
+
+## 2. §
+
+Az R. 41. §-a (2) bekezdésének második mondata helyébe a következő rendelkezés lép:
+
+,,A jelentés alapján az igazgató haladéktalanul megkeresi a büntetés-végrehajtási bírót a fiatalkorú körözésének elrendelése érdekében, és egyben közli a fiatalkorú személyi adatait, személyleírását, a szökésekor viselt ruházatát, a szökés körülményeit és a vélt feltalálási helyét.''
+
+## 3. §
+
+(1) Az R. 42. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+,,(1) A szökött fiatalkorúnak az intézetbe való önkéntes visszatéréséről – a körözés visszavonása végett – a büntetés-végrehajtási bírót haladéktalanul, de legfeljebb huszonnégy órán belül értesíteni kell.''
+
+(2) Az R. 42. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+,,(2) A fiatalkorúnak az intézetbe történő visszaszállításáról körözés elrendelése esetén az intézet, elfogatóparancs kibocsátása esetén a rendőrség gondoskodik. Az intézet a szökött fiatalkorú visszaérkezéséről mindazokat értesíti, akiket a szökésről értesített.''
+
+## 4. §
+
+Az R. 61. §-ának (2) bekezdése helyébe az alábbi rendelkezés lép:
+
+,,(2) A fiatalkorú személyazonosító igazolványát a fogvatartási hely megváltoztatásáig, illetve szabadulásáig az intézetben kell őrizni.''
+
+## 5. §
+
+Az R. 68. §-a a következő új (3) bekezdéssel egészül ki:
+
+,,(3) Átszállításkor az intézet a fiatalkorú előzetes letartóztatására vonatkozó iratokat, a fiatalkorútól átvett tárgyakat, értéktárgyakat, személyazonosító igazolványt is átadja a rendőri szervnek a büntetés-végrehajtási intézet részére történő továbbítás céljából.''
+
+## 6. §
+
+Az R. 75. §-a (5) bekezdésének második mondata helyébe a következő rendelkezés lép:
+
+,,A szabadításkor ki kell adni a fiatalkorú részére a személyazonosító igazolványát, a letéti pénzét, a letétként kezelt értéktárgyait, saját ruházatát, valamint iskolai bizonyítványát.''
+
+## 7. §
+
+Az R. 2. számú melléklete helyébe e rendelet *melléklete* lép.
+
+## 8. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) Az R.
+
+a) 1. §-ának (2) bekezdésében a ,,népjóléti miniszter'' szövegrész helyébe az ,,egészségügyi, szociális és családügyi miniszter'' szövegrész,
+
+b) 1. §-ának (2) bekezdésében a ,,Népjóléti Minisztérium'' szövegrész, valamint a 3. számú mellékletben szereplő ,,Szociális és Családügyi Minisztérium'' szövegrész helyébe az ,,Egészségügyi, Szociális és Családügyi Minisztérium'' szövegrész,
+
+c) 16. §-a (1) bekezdésének *h)* pontjában a ,,belügyminisztérium'' szövegrész helyébe a ,,Belügyminisztérium'' szövegrész,
+
+d) 17. §-ának (1) bekezdésében a ,,személyi igazolványa'' szövegrész helyébe a ,,személyazonosító igazolványa'' szövegrész,
+
+e) 17. §-ának (2) bekezdésében, valamint 56. §-ának (1) bekezdésében a ,,személyi igazolványát'' szövegrész helyébe a ,,személyazonosító igazolványát'' szövegrész
+
+lép.
+
+## Melléklet a 4/2002. (IX. 4.) ESZCSM rendelethez
+
+*[2. számú melléklet a 30/1997. (X. 11.) NM rendelethez]*
+
+**Képesítési előírások**
+
+Intézményvezető, intézményvezető-helyettes
+
+– általános szociális munkás, szociális munkás, szociális szervező, szociálpolitikus, szociálpedagógus (a továbbiakban együtt: felsőfokú szociális szakképzettség),
+
+– tanító, tanár, nevelőtanár, pedagógiai előadó, gyógypedagógus, szakoktató, pszichopedagógus (a továbbiakban együtt: pedagógus szakképzettség),
+
+– pszichológus,
+
+– jogász,
+
+– közgazdász szociálpolitikai szakon
+
+Nevelő
+
+– pedagógus szakképzettség,
+
+– felsőfokú szociális szakképzettség,
+
+– pszichológus
+
+Pszichológus
+
+pszichológus, szakpszichológus
+
+Gyógypedagógus
+
+gyógypedagógus, pszichopedagógus
+
+Utógondozó
+
+– pedagógus szakképzettség,
+
+– felsőfokú szociális szakképzettség
+
+Iskolai tanár, tanító
+
+a közoktatásra vonatkozó jogszabályokban előírt képesítés
+
+Szakoktató, munkaoktató
+
+a szakképzésre vonatkozó jogszabályokban előírt képesítés vagy felsőoktatási alapképzési szakok között szabályozott szakoktató szak
+
+Ápolónő
+
+– egészségügyi szakközépiskolai oklevél,
+
+– egészségügyi szakiskolai oklevél
+
+Gyermekfelügyelő
+
+– gyermek- és ifjúsági felügyelő (OKJ),
+
+– gyógypedagógiai asszisztens (OKJ),
+
+– pedagógiai asszisztens (OKJ)
+
+Növendékügyi előadó
+
+– jogász,
+
+– igazgatásszervező,
+
+– szociális szervező
+
+Rendész
+
+– középfokú iskolai végzettség

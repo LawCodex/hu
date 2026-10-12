@@ -1,0 +1,620 @@
+---
+title: "13/2003. (X. 3.) IHM rendelet az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól"
+identifier: "13/2003. (X. 3.) IHM rendelet"
+njt_id: "2003-13-20-0P"
+eli: "https://njt.jog.gov.hu/eli/R/2003/IHM/13"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2003-10-03
+in_force_from: 2008-05-16
+last_amended: 2017-03-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-13-20-0P"
+retrieved: 2026-10-12
+---
+
+# 13/2003. (X. 3.) IHM rendelet az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól
+
+A hírközlésről szóló 2001. évi XL. törvény (a továbbiakban: Hkt.) 107. §-a (3) bekezdésének *n)* pontjában, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ában, valamint a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet (a továbbiakban: R.) 11. §-ában kapott felhatalmazás alapján – figyelemmel a laboratóriumok, a tanúsító és az ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény 27. §-ának (4) bekezdésében foglaltakra – a következőket rendelem el:
+
+## Általános rendelkezések
+
+### 1. §
+
+(1) A rendelet hatálya kiterjed az informatikai és hírközlési miniszter (a továbbiakban: kijelölő) feladat- és hatáskörébe tartozó ágazatok vonatkozásában az egyes hírközlési és informatikai termékek, továbbá a nagyfrekvenciás villamos berendezések, valamint a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésére.
+
+(2)[^1] E rendelet hatálya nem terjed ki a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet szerinti elektronikus azonosító eszközre és a bizalmi termékre, valamint az elektronikus hírközlésről szóló törvény hatálya alá tartozó rádióberendezésre.
+
+## Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *alkalmazott:* az adott tevékenységet munkaviszony, közalkalmazotti jogviszony vagy munkavégzésre irányuló egyéb jogviszony keretében végző személy;
+
+b) *audit:* eljárás, amelynek keretében a Nemzeti Akkreditáló Testület (a továbbiakban: NAT) szakértői csoportja (a továbbiakban: auditáló csoport) meggyőződik arról, hogy a kijelölést kérő az általa előterjesztett és végezni kívánt tevékenységre felkészült-e;
+
+c) *ellenőrzés:* a megfelelőség értékelése a benyújtott minősítő iratok ellenőrzésével, megfigyeléssel és ítéletalkotással, továbbá szükség szerint méréssel vagy vizsgálattal;
+
+d) *hírközlési (postai és távközlési) és informatikai termék:* a hírközlési és informatikai szolgáltatás, hálózat, berendezés;
+
+e) *kijelölt vizsgáló vagy ellenőrző, illetőleg tanúsító szervezet:* olyan szervezet, amely megfelelőség értékelési eljárásban vizsgáló vagy ellenőrző, illetőleg tanúsító tevékenység végzésére jogosult a *d)* pontban foglalt hírközlési és informatikai termék, továbbá nagyfrekvenciás villamos berendezések, valamint a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések tekintetében, külön-külön vagy együttesen is, a kijelölésben foglaltak szerint;
+
+f) *tanúsítási jel:* kijelölt tanúsító szervezet által kibocsátott vagy alkalmazott védett jel;
+
+g) *megfelelőségi tanúsítvány:* a kijelölt tanúsító szervezet által kibocsátott dokumentum, amely igazolja, hogy a termék megfelel a vonatkozó normatív dokumentumokban előírt követelményeknek;
+
+h)[^2] *normatív dokumentum:* összefoglaló szakkifejezés, amely magába foglalja a jogszabályokat, szabványokat, műszaki előírásokat, műszaki irányelveket és szabályzatokat;
+
+i)[^3] *tanúsítás:* olyan eljárás, amely alapján egy független, hatósági jogosítványokkal nem rendelkező, e rendelet alapján kijelölt szervezet tanúsítványban igazolja, hogy egy hírközlési, illetve informatikai termék megfelel a vonatkozó normatív dokumentumokban előírt követelményeknek;
+
+j)[^4] *vizsgálat:* a megfelelőség megállapításához szükséges vizsgálat.
+
+## A kijelölési eljárás megkezdése
+
+### 3. §
+
+(1) A kijelölő – a feladat- és hatáskörébe tartozó, jogszabályban előírt vizsgálati vagy ellenőrzési, illetőleg tanúsítási tevékenységre szóló kijelölést – a kijelölést kérő (a továbbiakban: kérelmező) kérelme alapján adja meg.
+
+(2) A kérelmet az Informatikai és Hírközlési Minisztériumban (a továbbiakban: IHM) működő Kijelölési Bizottsághoz (a továbbiakban: bizottság) kell benyújtani.
+
+(3) A bizottság létszáma 9, vezetőjét és tagjait a kijelölő határozza meg. A bizottság vezetőjének és tagjainak megbízatása öt évre szól, és egy alkalommal további öt évre meghosszabbítható. A bizottság vezetőjével és tagjaival megbízási szerződés köthető.
+
+(4) A bizottság működési rendjét maga alakítja ki.
+
+(5) Abban az esetben, ha a kijelölés más miniszter feladat- és hatáskörébe tartozó tevékenységet is érint, a bizottság a bizottság vezetőjének írásos felkérésére kiegészül az adott minisztérium képviselőjével mint ideiglenes taggal.
+
+(6) A bizottságban a NAT, a Magyar Szabványügyi Testület és a piac felügyeletét ellátó hírközlési hatóság egy-egy taggal jogosult képviseltetni magát.
+
+(7) A kijelölési eljárásban nem vehet részt olyan személy, aki a kérelmezővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, illetőleg aki vagy akinek a Ptk. 685. § *b)* pontja szerinti hozzátartozója a kérelmező tulajdonosa, a kérelmező választott testületeiben tisztséget visel, vagy a kérelmezőnél vezető beosztást tölt be. A bizottság vezetőjének és tagjainak kijelölési eljárásonként nyilatkozniuk kell, hogy velük szemben összeférhetetlenség nem áll fenn.
+
+## A kérelmezővel szembeni általános követelmények
+
+### 4. §
+
+(1) A kijelölésre vonatkozó kérelmet az 1. számú mellékletben foglalt nyomtatványon, az R. által megjelölt mellékletek csatolásával kell benyújtani.
+
+(2) A kérelmezőnek, különösen vezetőjének és a feladatok elvégzéséért felelős alkalmazottaknak függetleneknek kell lenniük a kérelmező szervezet 1. § (1) bekezdésében megjelölt szakterületén dolgozó gyártó, importáló, forgalomba hozó, forgalmazó, üzembe helyező, üzemeltető és szolgáltató gazdálkodó szervezetektől és nem vehetnek részt termék, illetve a termékkel összefüggő szolgáltatás tervezésében, összeállításában, értékesítésében vagy karbantartásában, és nem képviselhetnek e tevékenységekben érdekelt feleket.
+
+(3) Ha a kérelmező egyes tevékenységek elvégzését alvállalkozásba kívánja adni, az auditáló csoport az alvállalkozók személyi, szakmai és tárgyi feltételeinek meglétét a kérelmezőével azonos módon vizsgálja.
+
+(4) Vizsgálati és ellenőrzési eredmények kiértékelésével és a megfelelőség tanúsításával kapcsolatos tevékenység alvállalkozásba nem adható.
+
+(5) A kérelmezőnek rendelkeznie kell a kijelölési kérelem tárgyát képező tevékenységre vonatkozóan az eljárások leírását tartalmazó részletes szabályzattal.
+
+(6) A kérelmezőnek a kérelem tárgyára vonatkozóan igazolnia kell, hogy az R. 4. §-ában és e rendelet 5–9. §-ában foglalt követelményeknek megfelel. A követelményeknek való megfelelőség igazolása az auditáló csoport által készített minősítő jegyzőkönyvvel történik.
+
+(7) Ha a kérelmező államtitkot, szolgálati titkot képező terméket is tevékenységi körébe kíván vonni, akkor az államtitok, szolgálati titok kezelési jogosultságát is igazolnia kell.
+
+### 5. §
+
+(1) Az auditáló csoport a minősítő jegyzőkönyv elkészítése során a kijelölés tárgya szerinti tevékenységgel kapcsolatban vizsgálja, hogy a kérelmező rendelkezik-e a szükséges személyi, szakmai és tárgyi feltételekkel.
+
+(2) Az auditáló csoport eljárása során különösen vizsgálja:
+
+a)[^5] a kérelmező szervezeti felépítését, működési és eljárási szabályait, különösen a kérelmet megalapozó jogszabályoknak megfelelő eljárás(ok), szabályzatok meglétét, általános szerződési feltételeit;
+
+b) a vezetők és az alkalmazottak szakmai képzettségét, gyakorlati felkészültségét, a felelősségviselés rendjét;
+
+c) a kérelmező, annak vezetője és a feladatok elvégzéséért felelős alkalmazottak függetlenségét a hírközlési és informatikai terméket tervező, gyártó, importáló, forgalmazó, üzembe helyező, üzemeltető és szolgáltató gazdálkodó szervezettől;
+
+d)[^6] a működő minőségirányítási rendszer, illetve tervezetének meglétét.
+
+## A vizsgálatra kijelölést kérelmezővel szembeni különös követelmények
+
+### 6. §[^7]
+
+A kérelmezőnek – az R. 4. §-ában foglalt követelmények teljesítésén túlmenően – rendelkeznie kell a kijelölés területére vonatkozó normatív dokumentumokkal és az azokban meghatározott
+
+a) vizsgálóhelyiségekkel és vizsgálóterekkel;
+
+b) vizsgáló-, mérő- és igénybevételi berendezésekkel;
+
+c) eszközökkel és segédanyagokkal;
+
+d) a vizsgálathoz a kijelölést kérő által feljogosított megfelelő képzettséggel és gyakorlattal rendelkező alkalmazottakkal.
+
+### 7. §
+
+A kérelmezőnek az adott hírközlési és informatikai termék, továbbá a nagyfrekvenciás villamos berendezések, valamint a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések vizsgálatához a vonatkozó normatív dokumentumok előírása szerinti valamennyi vizsgálat elvégzésére felkészültnek kell lennie.
+
+## Az ellenőrzésre kijelölést kérelmezővel szembeni különös követelmények
+
+### 8. §
+
+(1)[^8] Az ellenőrző szervezetnek rendelkeznie kell a 6–7. §-ban meghatározott feltételekkel, valamint a tevékenység végzésére vonatkozóan – Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, hacsak az állam nem vállal érte kötelezettséget, vagy az állam maga közvetlenül nem felelős.
+
+(2) Az ellenőrző szervezetnél a kijelölés szakmai területén a kérelmező által ellenőrzésre feljogosított – a vizsgálat tekintetében is megfelelő szakmai képzettséggel és gyakorlattal rendelkező – alkalmazottnak kell közreműködnie.
+
+## A tanúsításra kijelölést kérelmezővel szembeni különös követelmények
+
+### 9. §
+
+A kérelmezőnek – a normatív dokumentumokban rögzített követelmények teljesítésén túlmenően – rendelkeznie kell:
+
+a) tanúsítási jellel való rendelkezés esetén a jel formájának, jelentésének, a jelhasználat engedélyezésének és visszavonásának, valamint a jellel való visszaélések esetén követendő eljárásoknak a leírásával;
+
+b) olyan alkalmazottakkal, akik
+
+ba) a legnagyobb szakmai önállósággal és műszaki hozzáértéssel képesek elvégezni azokat a feladatokat, amelyekre a tanúsító szervet kijelölték és mentesek minden olyan, különösen pénzügyi nyomástól és ösztönzéstől, amely befolyásolhatná döntéseiket vagy bármely ellenőrzésük eredményét, különösen az ilyen eredményekben érdekelt személyek vagy csoportok részéről,
+
+bb) a tanúsítványban foglaltak fenntartásának ellenőrzéséért felelősek és megfelelő műszaki és szakmai képzésben részesültek, kielégítően ismerik az elvégzett vizsgálatok és ellenőrzések követelményeit, megfelelő tapasztalattal rendelkeznek az ilyen vizsgálatokkal és ellenőrzésekkel kapcsolatban, továbbá képesek tanúsítványok és jelentések összeállítására, amelyeket az ellenőrzések eredményének hitelesítése követel meg;
+
+c) eljárásokkal a bizalmas ügykezelésre vonatkozóan minden olyan adattal kapcsolatban, amelyre a tanúsító szerv a hatályos jogszabályok szerinti feladatainak végzése során tesz szert. A titoktartási kötelezettség nem terheli az alkalmazottakat a hírközlési hatósággal szemben, annak ellenőrzési eljárásai során;
+
+d) a tanúsítási eljárás alapjául szolgáló, a vonatkozó normatív dokumentumok szerinti vizsgálati, illetőleg ellenőrzési jegyzőkönyv formanyomtatványokkal;
+
+e)[^9] a tevékenység végzésére vonatkozóan – Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, kivéve, ha az állam kötelezettséget vállalt érte, vagy az állam közvetlenül felelős.
+
+### 9/A. §[^10]
+
+A kijelölést kérő cégkivonatát a kijelölő a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+## Kijelölés
+
+### 10. §
+
+(1) A kijelölő a bizottság javaslata alapján – mérlegelve az abban foglaltakat – hozza meg döntését.
+
+(2) A kijelölő a vizsgálati, ellenőrzési vagy tanúsítási tevékenységre a kijelölést kérő szervezet részére – határozott időtartamra – a *2. számú melléklet* szerinti kijelölési okiratot adja ki. A kijelölés 3 évre szól, kérelemre 3 évenként meghosszabbítható. A kijelölés tényét (a tevékenységi kör és termékcsoport megjelölésével) az IHM hivatalos lapjában és honlapján is közzéteszi.
+
+(3) A kijelölő elutasítja a kérelmet, ha a kérelem nem felel meg az 1. számú mellékletben foglalt követelményeknek, illetve a kérelmező nem felel meg a kérelmezővel kapcsolatos 4–9. §-ban meghatározott követelményeknek.
+
+### 11. §
+
+(1) A kijelölési eljárással kapcsolatos valamennyi dokumentációt a bizottság tárolja és őrzi.
+
+(2) A kijelölt szervezetről a bizottság nyilvántartást vezet.
+
+(3) A bizottság a kijelölt szervezet részére kiadott kijelölési okirat hiteles másolatát a kijelölést követő 3 munkanapon belül megküldi a hírközlési hatóság részére.
+
+## Bejelentés
+
+### 11/A. §[^11]
+
+(1) Amennyiben a kijelölés olyan területre történik, amely az Európai Bizottság (a továbbiakban: Bizottság), valamint az Európai Unió többi tagállama (a továbbiakban: tagállamok) felé bejelentési kötelezettséget előíró európai közösségi irányelvnek megfelelést biztosító jogszabály hatálya alá tartozik, a kijelölő a kijelölést követően a szervezet Bizottságnak és a tagállamoknak történő bejelentésével kapcsolatban az R. 6/A. § (1)–(3) bekezdései szerint jár el.
+
+(2) A kijelölő felelős az általa bejelentett szervezetek vonatkozó közösségi szabályozásban lefektetett követelményeknek való megfelelőségéért.
+
+## Eljárási szabályok a kijelölés után
+
+### 12. §
+
+(1) A kijelölt vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetnek a kijelölést követően is folyamatosan meg kell felelnie a kijelölési feltételeknek, melynek ellenőrzését a hírközlési hatóság végzi. Az ellenőrzés érdekében a kijelölt szervezet köteles lehetővé tenni, hogy a hírközlési hatóság a szervezet helyiségeibe, területére beléphessen, a kijelöléssel kapcsolatos tevékenységet érintő iratokat, jegyzőkönyveket, tanúsítványokat megtekinthesse, és a szükséges ellenőrzéseket elvégezhesse.
+
+(2) A kijelölt szervezet köteles
+
+a) a bizottságnál és a hírközlési hatóságnál írásban 3 munkanapon belül bejelenteni, ha a kijelölés személyi, illetőleg tárgyi feltételeiben (különösen a tulajdonosban, a vezető állású alkalmazottak személyében, a megbízott személyében, az építményekben, illetőleg laboratóriumokban) a kijelöléskori állapothoz képest bármilyen változás következik be,
+
+b) a vonatkozó normatív dokumentumok változásait haladéktalanul átvezetni és követni.
+
+(3) A bizottság köteles megvizsgálni, hogy az *a)* pont szerint bejelentett változás nem teszi-e alkalmatlanná a kijelölt szervezetet a kijelölési okiratban meghatározott tevékenységek elvégzésére.
+
+(4) A kijelölt szervezet köteles a bizottsággal és a hírközlési hatósággal a (2) bekezdésben foglaltak végrehajtása érdekében együttműködni.
+
+(5) A hírközlési hatóság az általa végzett ellenőrzéseinek megállapításairól köteles a bizottságot folyamatosan tájékoztatni.
+
+(6) Ha a szervezet a kijelölés területére egyidejűleg akkreditált is, és akkreditáltságát a NAT felfüggesztette, vagy visszavonta, illetve akkreditáltsága megszűnt, a bizottság a NAT-tól kapott tájékoztatás alapján megvizsgálja, hogy a szervezet továbbra is megfelel-e a kijelölés feltételeinek.
+
+(7) Abban az esetben, ha az ellenőrzés során megállapítást nyer, hogy a kijelölt szervezet nem felel meg a kijelölés feltételeinek, vagy kötelezettségeit nem teljesíti, a bizottság a kijelölt szervezet megfelelőség vizsgáló, ellenőrző, illetve tanúsító tevékenységét meghatározott időtartamra, de legfeljebb egy évre felfüggeszti, és meghatározza a szükségesnek tartott intézkedéseket. A bizottság a tevékenység végzésének felfüggesztéséről szóló tájékoztatóját a kijelölő hivatalos lapjában és honlapján is közzéteszi. Ha a felfüggesztés időtartamán belül meghatározott határidőre a kijelölt szervezet az előírt feltételeket nem teljesíti, a bizottság a kijelölés visszavonását kezdeményezi.
+
+### 13. §
+
+(1)[^12] A kijelölt vizsgáló vagy ellenőrző, illetőleg tanúsító szervezet az általa kiadott okmányok eredeti példányait 10 évig köteles megőrizni, és tevékenységéről a kijelölő részére évente beszámolót küldeni.
+
+(2)[^13] A kijelölt szervezetet az R. 7. § (1) bekezdése szerinti titoktartási, valamint az R. 7. § (2) bekezdése szerinti – a kijelölő, illetve a piac felügyeletét ellátó hírközlési hatóság felé teljesítendő – tájékoztatási kötelezettség terheli.
+
+## A kijelölés megszűnése és megszüntetése
+
+### 14. §
+
+(1) A kijelölés érvényessége megszűnik a kijelölési okiratban megjelölt határidő lejártának napján.
+
+(2) A kijelölés érvényessége idejének fennállása alatt a kijelölés törléssel vagy visszavonással szüntethető meg.
+
+### 15. §
+
+A kijelölést a kijelölő törli, ha
+
+a) a kijelölt szervezet azt kéri;
+
+b) a kijelölt szervezet jogutód nélküli megszűnik.
+
+### 16. §
+
+(1) A kijelölő a bizottság javaslatára visszavonja a vizsgáló vagy ellenőrző, illetőleg tanúsító szervezet részére kiadott kijelölést, ha a kijelölt szervezet
+
+a) már nem felel meg a kijelölés követelményeinek,
+
+b) a tevékenységével összefüggő, jogszabályokban meghatározott kötelezettségeit megszegte, és ezt az ellenőrzésre feljogosított hírközlési hatóság jogerős határozatban megállapította.
+
+(2) Ha a kijelölést a kijelölés területére akkreditált szervezettől vonják vissza, illetve ilyen szervezet tevékenységét függeszti fel a bizottság, a NAT a szervezet akkreditáltságát felülvizsgálja.
+
+(3) A kijelölés megszűnését és megszüntetését az IHM hivatalos lapjában és honlapján teszi közzé.
+
+(4)[^14] Bejelentett szervezet kijelölésének megszűnése vagy visszavonása esetén a kijelölő a bejelentést az R. 8/A. §-ában foglaltaknak megfelelően visszavonja, erről a piac felügyeletét ellátó hírközlési hatóságot 3 napon belül tájékoztatja.
+
+## Záró rendelkezések
+
+### 17. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^15]
+
+(3) A rendelet hatálybalépését megelőzően az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól szóló 22/1999. (VIII. 4.) KHVM rendelet alapján kijelölt szervezetek kijelölése továbbra is érvényes.
+
+(4) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban, az Európai Parlament és a Tanács a rádióberendezésekről és a távközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről szóló 1999/5/EK irányelvének VI. számú mellékletével összeegyeztethető szabályozást tartalmaz.
+
+## 1. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^16]
+
+KÉRELEM\
+az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól szóló 13/2003. (X. 3.) IHM rendelete alapján
+
+KÉRELEM az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól szóló 13/2003. (X. 3.) IHM rendelete alapján
+
+1\. A kijelölést kérő szervezet adatai
+
+*a)* A szervezet neve és címe (székhelye)
+
+Név:
+
+Cím:
+
+Telefon:
+
+Telefax:
+
+E-mail:
+
+Nyilvántartási száma, illetve cégjegyzékszáma:
+
+*b)* Alkalmazotti létszám:
+
+*c)* A szervezet vezetője
+
+Név:
+
+Beosztás:
+
+Cím:
+
+Telefon:
+
+Telefax:
+
+E-mail:
+
+*d)* A szervezet részéről az IHM-mel való kapcsolattartásért felelős személy
+
+Név:
+
+Beosztás:
+
+Cím:
+
+Telefon:
+
+Telefax:
+
+E-mail:
+
+2\. Mire kéri a kijelölést?*
+
+| vizsgálat | ellenőrzés | tanúsítás |
+|---|---|---|
+
+3\. A kijelölés szakterülete a vonatkozó normatív dokumentumok megjelölésével:
+
+4\. A kijelölés szakterületén dolgozó felelős alkalmazottak:
+
+| Neve | Szakterületének részletezése |
+|---|---|
+| ............................................................ | ........................................................................................................................ |
+| ............................................................ | ........................................................................................................................ |
+
+5\. A kérelmező szervezet azon dokumentumai, amelyek a kijelölés iránti kérelem megalapozottságát igazolják
+
+*a)* Alapító okirat (vagy ezzel egyenértékű okmány, pl. társasági szerződés); a kérelemhez másolatban mellékelendő
+
+kelte: ......................................................................... száma:
+
+*b)* Rendelkezik-e akkreditálási okiratokkal?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*c)* Rendelkezik-e nemzetközi tanúsítási rendszerekben kapott elismerésekkel?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*d)* Rendelkezik-e védjegyeztetett tanúsítási jellel?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*e)* A tanúsítási jelét a gyártók alkalmazzák-e?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+6\. A kijelölést kérelmezővel szembeni követelményrendszer teljesítése
+
+*a)* Teljesíti-e az alábbi követelményeket?*
+
+*aa)* A kijelölést kérő gyártó, importáló és forgalmazó gazdálkodó szervezettől független?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*ab)* Szervezeti felépítése, általános működés és a szervezeten belüli minőségbiztosítási rendszer tekintetében megfelel-e a vonatkozó érvényes szabványokban lévő követelményeknek vagy ezekkel egyenértékű megoldást alkalmaz-e?*
+
+|  |  | Igen | Részben, éspedig: ........................................................ |
+|---|---|---|---|
+
+*b)* Ha a kijelölést vizsgálatra kéri, akkor töltendő ki.
+
+*ba)* Teljesíti-e e rendelet 6–7. §-ában meghatározott követelményeket?*
+
+|  |  | Igen | Részben, éspedig: ........................................................ |
+|---|---|---|---|
+
+*bb)* Ha végzett korábban vizsgálatot, közölje a kérelem benyújtását megelőző 2 év vizsgálati statisztikáját.
+
+| Vonatkozó előírás | Az elvégzett vizsgálatok száma |
+|---|---|
+| ........................................................................................................................ | .................................................................. |
+| ........................................................................................................................ | .................................................................. |
+
+*c)* Ha a kijelölést ellenőrzésre kéri, akkor töltendő ki.
+
+*ca)* Teljesíti-e e rendelet 8. §-ában meghatározott követelményeket?*
+
+|  |  | Igen | Részben, éspedig: ........................................................ |
+|---|---|---|---|
+
+*cb)* Ha végzett korábban ellenőrzést, közölje a kérelem benyújtását megelőző 2 év ellenőrzési statisztikáját.
+
+| Vonatkozó előírás | Az elvégzett vizsgálatok száma |
+|---|---|
+| ........................................................................................................................ | .................................................................. |
+| ........................................................................................................................ | .................................................................. |
+
+*d)* Ha a kijelölést tanúsításra kéri, akkor töltendő ki.
+
+*da)* Teljesíti-e e rendelet 9. §-ában meghatározott követelményeket?*
+
+|  |  | Igen | Részben, éspedig: ........................................................ |
+|---|---|---|---|
+
+*db)* Ha végzett korábban tanúsítást, közölje a kérelem benyújtását megelőző 2 év tanúsítási statisztikáját.
+
+| Vonatkozó előírás | Az elvégzett vizsgálatok száma |
+|---|---|
+| ........................................................................................................................ | .................................................................. |
+| ........................................................................................................................ | .................................................................. |
+
+*e)* Ha a kijelölést vizsgáló, illetve ellenőrző tevékenységre kéri, rendelkezik-e érvényes együttműködési megállapodással valamely kijelölt tanúsító szervezettel?*
+
+Igen, éspedig: ............................................................... Nem
+
+*f)* A kijelölés tárgyát képező tevékenységgel foglalkozó munkatársak száma és a saját vizsgálólaboratórium(ok) alapterülete?*
+
+| Laboratórium | Alapterület | Munkatársak száma |
+|---|---|---|
+| ............................................................. | ............................................................. | ............................................................. |
+| ............................................................. | ............................................................. | ............................................................. |
+
+7\. Alvállalkozás
+
+*a)* A kijelölés tárgyát képező tevékenységhez igénybe vesz-e a szervezet alvállalkozókat?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*b)* Ha igen, sorolja fel alvállalkozóit (névvel, címmel) és részletezze ezek igénybe vett tevékenységét.
+
+*c)* Van-e érvényes írásbeli megállapodása az alvállalkozó(i)val?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*d)* Minősíti-e az alvállalkozó(i)t?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*e)* Ha igen, van-e írásos eljárása az alvállalkozó(k) minősítésére?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*f)* Meggyőződött-e a szervezet arról, hogy az alvállalkozó(k) laboratóriuma(i) megfelel(nek)-e a vonatkozó érvényes szabványoknak vagy ezekkel egyenértékű megoldást nyújtanak-e?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*g)* Meggyőződött-e a szervezet arról, hogy az ellenőrzést végző alvállalkozó(k) megfelel(nek)-e a vonatkozó érvényes szabvány(ok)nak vagy ezekkel egyenértékű megoldás(ok)nak?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+8\. Bizalmas ügykezelés
+
+Biztosítva van-e az információk bizalmas kezelése a szervezet minden szintjén?*
+
+| Igen | Nem | Részben |
+|---|---|---|
+
+9\. Kiadványok
+
+*a)* Van-e a tanúsításra kijelölést kérő szervezetnek eljárása a tevékenységével érintett szervezetek, termékek és tanúsító iratok jegyzékének elkészítésére, ennek karbantartására, valamint nyilvánosságra hozatalára?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*b)* Nyilvánosságra hozza-e az eljárási szabályzatát a tevékenységét igénybe vevők számára?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+10\. Tanúsító iratok, tanúsítási jelek alkalmazásának ellenőrzése
+
+*a)* Van-e a szervezetnek dokumentált eljárása az általa kiadott tanúsító iratok/tanúsítási jelek alkalmazásának hatékony ellenőrzésére?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*b)* Tesz-e a szervezet megfelelő intézkedéseket a tanúsító iratok/tanúsítási jelek megtévesztő használata vagy a tanúsításra vonatkozó helytelen hivatkozások esetén?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+*c)* Van-e a szervezetnek dokumentált eljárása az általa kiadott tanúsító iratok/tanúsítási jel visszavonására és törlésére?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+11\. Panaszok
+
+Megköveteli-e a tanúsító szervezet, hogy az általa tanúsított szervezetek tartsanak nyilván minden, a tanúsító iratok/jogosítvány tárgyával kapcsolatos panaszt és ezek kivizsgálását?*
+
+|  |  | Igen | Nem |  |  |
+|---|---|---|---|---|---|
+
+12\. A kijelölés tárgyát képező tevékenységgel kapcsolatos referenciák
+
+Felsorolandó, hogy a szervezet kijelölés tárgyát képező tevékenységét – ha a szervezet végzett ilyet – az elmúlt 5 évben mely szervek, szervezetek értékelték, egyúttal csatolandók az erről készült okiratok másolatai.
+
+<table><thead><tr><th rowspan="2">Az értékelő<br>neve és címe</th><th rowspan="2">Az értékelt tevékenység<br>fajtája</th><th rowspan="2">Az értékelés tárgya<br>és az okirat száma</th><th colspan="2">Az értékelés</th></tr><tr><th>időpontja</th><th>érvényessége</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+13\. Bejelentési kötelezettséget előíró európai közösségi irányelvvel összeegyeztethető jogszabály esetén, Bizottságnak és tagállamoknak való bejelentéshez a kijelölést kérő szervezet adatai angol nyelven:
+
+*a)* szervezet neve:
+
+*b)* a bejelentés alapját képező közösségi irányelv:
+
+*c)* a közösségi irányelv szerinti termékcsoportok:
+
+*d)* a megfelelőségértékelési eljárások, illetve modulok megnevezése:
+
+*e)* a vonatkozó közösségi irányelv megfelelőségértékeléssel kapcsolatos rendelkezéseire való hivatkozás:
+
+14\. Bejelentési kötelezettséget előíró európai közösségi irányelvvel összeegyeztethető jogszabály esetén, a Bizottságnak és a tagállamoknak való bejelentéshez (a következő kritériumok megléte nem feltétele a kijelölésnek, a kérdésekre adott válaszok nem befolyásolják a kijelölést, a Kijelölési Bizottság tájékoztatását szolgálják):
+
+*a)* Rendelkezik-e a személyzet az Európai Unió Belső Piacán való tevékenység végzéséhez angol, német vagy francia nyelvtudás valamelyikével?
+
+Igen Nem<sup>1</sup>
+
+*b)* Rendelkezésre állnak-e a tevékenység végzésével összefüggő saját dokumentumok fordításai?
+
+Igen Nem<sup>1</sup>
+
+*c)* Rendelkezik-e a szervezet az Európai Unióban a bejelentési szakterületen folyó bizottsági munkákban való részvételhez szükséges anyagi, személyi és tárgyi adottságokkal?
+
+Igen Nem<sup>1</sup>
+
+__________
+
+<sup>1</sup> A megfelelő válasz aláhúzandó.
+
+Alulírott mint a kijelölést, illetve a bejelentést kérelmező szervezet felelős vezetője kijelentem, hogy az 1–14. pontokban közölt válaszok és adatok a valóságnak megfelelnek.
+
+Kelt: ........................................................
+
+|  | .................................................. |
+|---|---|
+|  | cégszerű aláírás |
+
+__________
+
+\* A megfelelő válasz aláhúzandó.
+
+*Kötelezően csatolandó mellékletek:*
+
+1.
+
+2\. Alapító okirat vagy ezzel egyenértékű okmány.
+
+3\. Kijelölési kérelem tárgyát képező tevékenységre vonatkozó normatív dokumentumok jegyzéke.
+
+4\. Kijelölési kérelem tárgyát képező tevékenységre vonatkozó minőségirányítási kézikönyv.
+
+5\. Kijelölési kérelem tárgyát képező tevékenységre vonatkozó eljárási szabályzatok.
+
+6\. A NAT minősítő jegyzőkönyve.
+
+7\. Ellenőrző tevékenységre kijelölést kérő, illetőleg tanúsításra kijelölést kérő szervezet esetén felelősségbiztosítási szerződés.
+
+8\. A 4. § (7) bekezdése szerinti igazolás.
+
+*Csatolható mellékletek:*
+
+1\. Nemzetközi tanúsítási rendszerekben kapott elismerések másolatai.
+
+2\. Az 1. számú melléklet 12. pontjában felsorolt okiratok másolatai.
+
+3\. Az alvállalkozóval kötött érvényes írásbeli megállapodás másolata.
+
+4\. Akkreditálási okirat(ok) másolatai.
+
+## 2. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^17]
+
+**KIJELÖLÉSI OKIRAT**
+
+Magyarország
+
+Informatikai és Hírközlési Minisztérium
+
+Miniszter
+
+Szám: .........../200
+
+KIJELÖLÉSI OKIRAT
+
+Az egyes hírközlési és informatikai termékek megfelelőségét vizsgáló vagy ellenőrző, illetőleg tanúsító szervezetek kijelölésének részletes szabályairól szóló 13/2003. (X. 3.) IHM rendelet alapján megállapítom, hogy a
+
+(név)
+
+(cím)
+
+a lefolytatott ellenőrzés szerint megfelel a hivatkozott jogszabályban előírt feltételeknek, ezért írásban előterjesztett kérelme alapján kijelölöm a következő tevékenység(ek) elvégzésére:
+
+szakterület:
+
+tevékenység jellege:
+
+a tevékenységre vonatkozó normatív dokumentumok:
+
+A kijelölt szervezet a tevékenységét mindenkor az arra vonatkozó normatív dokumentumok következetes és pontos megtartásával, az ilyen tevékenységet ellátó szervezettől elvárható magas színvonalon köteles ellátni. Kijelölt szervezet felelős az általa bevont alvállalkozókért, akikre vele azonos feltételek vonatkoznak. A kijelölt szervezet köteles a bizottság és a hírközlési hatóságok által végzett ellenőrzés lefolytatásában közreműködni.
+
+Jelen okirat 200..... év ..................... hó ...... napjáig érvényes.
+
+Budapest, 200.... év ............................... hó ....... nap.
+
+|  | ..................................................................... |
+|---|---|
+|  | informatikai és hírközlési miniszter |
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 6/2017. (III. 7.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § h) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § i) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § j) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (2) bekezdésének a) pontja a 14/2005. (X. 31.) IHM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (2) bekezdésének d) pontja a 14/2005. (X. 31.) IHM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § felvezető szövege a 14/2005. (X. 31.) IHM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 8. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 35. § a) pontja szerint módosított szöveg.
+[^9]: A 9. § e) pontja a 91/2011. (XII. 30.) NFM rendelet 35. § a) pontja szerint módosított szöveg.
+[^10]: A 9/A. §-t a 3/2013. (I. 29.) NFM rendelet 5. § (1) bekezdése iktatta be.
+[^11]: A 11/A. §-t és az előtte lévő alcímet a 14/2005. (X. 31.) IHM rendelet 4. §-a iktatta be.
+[^12]: A 13. § eredeti szövegének számozását (1) bekezdésre változtatta a 14/2005. (X. 31.) IHM rendelet 5. §-a.
+[^13]: A 13. § (2) bekezdését a 14/2005. (X. 31.) IHM rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatva.
+[^14]: A 16. § (4) bekezdését a 14/2005. (X. 31.) IHM rendelet 6. §-a iktatta be.
+[^15]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 33. pontja hatályon kívül helyezte.
+[^16]: Az 1. számú melléklet a 14/2005. (X. 31.) IHM rendelet 11. § (1) bekezdése, a 3/2013. (I. 29.) NFM rendelet 5. § (2)–(4) bekezdése szerint módosított szöveg.
+[^17]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 35. § b) pontja szerint módosított szöveg.

@@ -1,0 +1,222 @@
+---
+title: "117/2007. (X. 10.) FVM rendelet egyes növényegészségügyi vizsgálatok költségeinek támogatásáról"
+identifier: "117/2007. (X. 10.) FVM rendelet"
+njt_id: "2007-117-20-82"
+eli: "https://njt.jog.gov.hu/eli/R/2007/FVM/117"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2007-10-10
+in_force_from: 2007-10-11
+last_amended: 2026-04-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-117-20-82"
+retrieved: 2026-10-12
+---
+
+# 117/2007. (X. 10.) FVM rendelet egyes növényegészségügyi vizsgálatok költségeinek támogatásáról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló, 2007. évi XVII. törvény (a továbbiakban: Tv.) 81. §-a (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
+
+## A támogatás célja
+
+### 1. §[^1]
+
+A támogatás célja a minőségi és magas biológiai értékű ültetésre szánt növény előállítás, valamint a növényi fajta fenntartás növényegészségügyi biztonságának növelése.
+
+## A támogatás jellege
+
+### 2. §
+
+(1)[^2] Az e rendelet szerinti támogatás az (EU) 2022/2472 bizottsági rendelet 26. cikke szerinti támogatásnak minősül.
+
+(2)[^3] Az e rendeletben megállapított mértékben és feltételek szerint vissza nem térítendő támogatás vehető igénybe
+
+a) a szántóföldi, kertészeti és engedélyes faiskolai ültetésre szánt növény előállítására, valamint – az erdészeti csemetekertek kivételével – fajtafenntartásra igénybe vett területek után a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i 2019/2072/EU bizottsági végrehajtási rendelet XIII. és XIV. mellékletében felsorolt ültetésre szánt növények – beleértve az ott felsorolt vetőmagokat is – előállításához és forgalomba hozatalához szükséges,
+
+b) a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet 8. és 9. melléklete alapján meghatározott,
+
+c) a szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 87/2006. (XII. 28.) FVM rendelet 8. számú melléklete alapján meghatározott
+
+növényegészségügyi vizsgálatokhoz [a továbbiakban az *a)–c)* pontok együtt: támogatott növényegészségügyi szolgáltatás].
+
+### 2/A. §[^4]
+
+E rendelet alkalmazásában tárgyhónap a támogatott növényegészségügyi szolgáltatásról kiállított számla keltének hónapja.
+
+## A támogatási jogosultság
+
+### 3. §
+
+(1)[^5] Támogatott növényegészségügyi szolgáltatást vehet igénybe az a természetes személy, jogi személy, aki (amely)
+
+a)[^6] megfelel a (EU) 2022/2472 bizottsági rendelet I. számú mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának, vagy fajtanemesítési, szaporító alapanyag előállítási és fenntartási, illetve ehhez kapcsolódó közhasznú kutatási tevékenységet végez,
+
+b) a támogatási kérelem benyújtásakor
+
+ba) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve természetes személy esetében nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt,
+
+bb) nincs lejárt köztartozása,
+
+bc) nincs költségvetési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozása,
+
+c)[^7] nem minősül a (EU) 2022/2472 bizottsági rendelet 2. cikk 59. pontjában meghatározott nehéz helyzetben lévő vállalkozásnak, és
+
+d)[^8] nem címzettje valamely támogatás visszafizetésére kötelező olyan, Magyarországnak címzett bizottsági határozatnak, amely a támogatást jogellenesnek és belső piaccal összeegyeztethetetlennek nyilvánította,
+
+és az a)–d) pontban foglaltakról az 5. § (1) bekezdése szerinti támogatási kérelmében nyilatkozik.
+
+(2) A támogatott szolgáltatás igénybevételének további feltétele, hogy az elvégzett vizsgálat a növényegészségügyi alkalmasságot igazolja.
+
+(3)[^9] Támogatásra a hatósági növényegészségügyi vizsgálatot elvégző növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal), valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) jogosult.
+
+## A támogatás forrása és mértéke
+
+### 4. §
+
+(1)[^10] A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Kiemelt ágazati támogatások” jogcímén elkülönített keretösszeg.
+
+(2)[^11] Az éves támogatási keretösszeget az agrárpolitikáért felelős miniszter közleményben határozza meg. Az adott naptári évben rendelkezésre álló támogatási keret terhére a megelőző évről áthúzódó kifizetések és az adott naptári évben elvégzett szolgáltatások támogatása teljesíthető.
+
+(3)[^12]
+
+(4)[^13] A (2) bekezdésében meghatározott keretösszeg 80%-os kihasználtságáról a Magyar Államkincstár (a továbbiakban: Kincstár) köteles az agrárpolitikáért felelős minisztert tájékoztatni.
+
+(5)[^14] A támogatás mértéke
+
+a) a támogatott növényegészségügyi szolgáltatás általános forgalmi adó összegét nem tartalmazó igazgatási szolgáltatási díjának 100 százaléka, illetve
+
+b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsolatos, általános forgalmi adó összegét nem tartalmazó költségek 100 százaléka.
+
+(6)[^15] A vármegyei kormányhivatal és a NÉBIH a támogatott növényegészségügyi szolgáltatást igénybe vevő részére az elvégzett szolgáltatásról számlát állít ki, amely tételesen tartalmazza a növényegészségügyi szolgáltatás megnevezését, ellenértékét, valamint a szolgáltatás ellenértékének támogatás tartalmát.
+
+(7)[^16] Az (5) bekezdés szerint meghatározott támogatás mértéke esetében a 100 százalék nem léphető túl az ugyanazon elszámolható költségek tekintetében nyújtott bármely egyéb – állami vagy uniós társfinanszírozású – támogatási összeg és biztosítói kifizetés figyelembevételével sem.
+
+## Támogatott szolgáltatás igénybevételi kérelem
+
+### 5. §
+
+(1)[^17] A kérelmezőnek a támogatott növényegészségügyi szolgáltatásban való részvételre irányuló kérelmét a vármegyei kormányhivatalhoz kell benyújtania a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet 66. cikkében meghatározott bejelentési időszakban.
+
+(1a)[^18] Az (1) bekezdés szerinti támogatott növényegészségügyi szolgáltatásban való részvételre irányuló kérelem az alábbi adatokat és nyilatkozatokat tartalmazza:
+
+a)[^19] a kérelmező azonosító adatai (ügyfél-azonosító szám, adószám vagy adóazonosító jel, őstermelői nyilvántartásban szereplő FELIR azonosítója),
+
+b) a kis- és középvállalkozás meghatározásához szükséges adatok [előző évi beszámoló vagy bevallás alapján, újonnan alakult vállalkozások esetében tervezett foglalkoztatotti létszám (éves átlaglétszám), éves forgalom összege forintban, éves mérlegfőösszeg forintban, vállalkozás minősítése (mikro, kis, közép)],
+
+c) a támogatás 2. § (2) bekezdése szerinti célterületének megnevezése,
+
+d) a 3. § (1) bekezdés b) pontja szerinti nyilatkozatok.
+
+(2)[^20] Amennyiben a vármegyei kormányhivatal az (1) bekezdés szerinti kérelmet elfogadja, úgy a termelőnek a vizsgálati díjról, illetve költségről kiállított számla összegét – az általános forgalmi adó összegének kivételével – nem kell megfizetnie. Az általános forgalmi adó összegének megfizetése a termelőt terheli.
+
+(3) A támogatási keret kimerülése esetén a szolgáltatást igénybe vevő köteles a számla teljes összegét a szolgáltatást végzőnek kifizetni.
+
+(4)[^21] Amennyiben a Kincstár megállapítja, hogy a szolgáltatást igénybe vevő a támogatott szolgáltatásra nem vagy a kifizetési kérelemben feltüntetettnél kisebb összegben jogosult, úgy a szolgáltatást igénybe vevő a jogosulatlanul igénybe vett szolgáltatás támogatástartalmának megfelelő összeget – az (1) bekezdés szerinti kérelem aláírásával tett kötelezettségvállalásának megfelelően – köteles a szolgáltatást végzőnek kifizetni.
+
+(5)[^22] Nem nyújtható támogatás, ha megállapítást nyer, hogy a támogatott növényegészségügyi szolgáltatással érintett növényben a növénykárosító jelenlétét a támogatást igénybe vevő idézte elő.
+
+## Kifizetési kérelem
+
+### 6. §
+
+(1)[^23] A vármegyei kormányhivatal, valamint a NÉBIH az általa kiállított számlákról nyilvántartást vezet, és havi rendszerességgel összesítést készít.
+
+(2)[^24] A vármegyei kormányhivatal, valamint a NÉBIH adatai alapján a vizsgálati díjak termelőknek fel nem számított összegéről a NÉBIH összesítést (a továbbiakban: kifizetési kérelem) készít a (2a) bekezdés szerinti adattartalmú, a Kincstár által rendszeresített és honlapján közzétett nyomtatványon.
+
+(2a)[^25] A (2) bekezdés szerinti kifizetési kérelem az alábbi adatokat tartalmazza:
+
+a) a tárgyhónap megjelölése,
+
+b) a támogatott növényegészségügyi szolgáltatást igénybe vevő adatai (ügyfél-azonosító szám, mikro-, kis- vagy középvállalkozás-minősítés),
+
+c)[^26] a vármegyei kormányhivatal, valamint a NÉBIH által kiállított számla száma, a számlán szereplő támogatható nettó érték forintban, a számla kiállítási dátuma,
+
+d) az igényelt támogatás összege forintban.
+
+(3)[^27] A vármegyei kormányhivatal, valamint a NÉBIH a kifizetési kérelmet havonta, a tárgyhónapot követő hónap utolsó napjáig megküldi a Kincstár részére. A kifizetési kérelemhez csatolni kell a tárgyhónapban kiállított számlák másolatait.
+
+(4)[^28] A benyújtott kifizetési kérelem teljességének ellenőrzését követően a Kincstár a támogatásról – a 4. § (2) bekezdésében rögzített mértékig – döntést hoz. A kifizetést a Kincstár a 4. § (1) bekezdésében meghatározott előirányzat-felhasználási keretszámla terhére a 10032000-00287560-00000017 Agrártámogatások lebonyolítási számláról a forrás rendelkezésre bocsátását követő harminc napon belül teljesíti.
+
+(5)[^29] A minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámláról a Kincstár rendelkezésére bocsátott források felhasználásról, a költségvetési szervekre vonatkozó jogszabályokban előírt módon, a Kincstár a tárgyhónapot követő hónap 8-áig, analitikus nyilvántartása alapján, főkönyvi könyvelési feladást készít a minisztérium költségvetési elszámolásokért felelős szervezeti egysége számára.
+
+(6)[^30] A támogatást a költségek vagy veszteségek keletkezésének időpontjától számított négy éven belül kell kifizetni.
+
+## Tájékoztatás
+
+### 7. §
+
+(1)[^31] Az adott támogatási célra kifizetett összegről a Kincstár havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek.
+
+(2)[^32] E rendelet alapján nyújtott támogatásokra vonatkozóan a (EU) 2022/2472 bizottsági rendelet 13. cikke szerinti nyilvántartást a Kincstár vezeti.
+
+## Ellenőrzés, jogkövetkezmények
+
+### 8. §
+
+(1)[^33] Utólagos ellenőrzés végzésére a vármegyei kormányhivatal, valamint a NÉBIH jogosult.
+
+(2)[^34] Amennyiben az ellenőrzés során bebizonyosodik, hogy a szolgáltatáshoz kapcsolódó támogatást jogosulatlanul vették igénybe, arról az ellenőrzést végző határozatot hoz, amelyről értesíti a Kincstárt is.
+
+(3)[^35] A jogosulatlanul igénybe vett támogatást a Kincstár 10032000-00287560-00000031 számú, Szabálytalanságok lebonyolítási számlájára kell megfizetni.
+
+## Záró rendelkezések
+
+### 9. §
+
+E rendelet a kihirdetését követő napon lép hatályba.
+
+### 10. §[^36]
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+### 11. §[^37]
+
+Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 4. § (2) bekezdést az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^38] folyamatban lévő eljárásokban is alkalmazni kell.
+
+## 1. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^39]
+
+## 2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^40]
+
+---
+
+[^1]: Az 1. § a 42/2020. (VIII. 19.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 29/2023. (VII. 14.) AM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 42/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2/A. §-t a 46/2013. (VI. 3.) VM rendelet 1. §-a iktatta be, szövege a 42/2020. (VIII. 19.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 6/2015. (III. 10.) FM rendelet 2. §-ával megállapított, nyitó és záró szövegrésze a 42/2020. (VIII. 19.) AM rendelet 4. § c) pontja és 5. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés a) pontja a 29/2023. (VII. 14.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés c) pontja a 29/2023. (VII. 14.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés d) pontja a 29/2023. (VII. 14.) AM rendelet 4. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdése a 46/2013. (VI. 3.) VM rendelet 2. § (2) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 97. § a) pontja, a 42/2020. (VIII. 19.) AM rendelet 4. § d) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 29/2023. (VII. 14.) AM rendelet 2. §-ával megállapított, a 16/2026. (IV. 9.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított, a 16/2026. (IV. 9.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a.
+[^13]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 16. § a) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^15]: A 4. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja, a 42/2020. (VIII. 19.) AM rendelet 4. § e) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^16]: A 4. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a. Újonnan a 6/2015. (III. 10.) FM rendelet 3. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdése a 42/2020. (VIII. 19.) AM rendelet 2. § (1) bekezdésével megállapított, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^18]: Az 5. § (1a) bekezdését a 42/2020. (VIII. 19.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (1a) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 6. §-a szerint módosított szöveg.
+[^20]: Az 5. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 4. §-ával megállapított, a 42/2020. (VIII. 19.) AM rendelet 4. § f) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^21]: Az 5. § (4) bekezdését a 12/2014. (IX. 24.) FM rendelet 2. §-a iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 16. § b) pontja szerint módosított szöveg.
+[^22]: Az 5. § (5) bekezdését a 6/2015. (III. 10.) FM rendelet 4. §-a iktatta be, szövege a 42/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: A 6. § (1) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított, a 42/2020. (VIII. 19.) AM rendelet 4. § e) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: A 6. § (2) bekezdése a 42/2020. (VIII. 19.) AM rendelet 3. §-ával megállapított, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^25]: A 6. § (2a) bekezdését a 42/2020. (VIII. 19.) AM rendelet 3. §-a iktatta be.
+[^26]: A 6. § (2a) bekezdés c) pontja a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^27]: A 6. § (3) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított a 88/2016. (XII. 29.) FM rendelet 16. § b) pontja, a 42/2020. (VIII. 19.) AM rendelet 4. § e) pontja és 5. § b) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^28]: A 6. § (4) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 16. § c) pontja szerint módosított szöveg.
+[^29]: A 6. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 16. § c) pontja szerint módosított szöveg,
+[^30]: A 6. § (6) bekezdését a 6/2015. (III. 10.) FM rendelet 5. §-a iktatta be.
+[^31]: A 7. § (1) bekezdése a 8/2010. (II. 4.) FVM rendelet 3. § (5) bekezdésével megállapított, a 46/2013. (VI. 3.) VM rendelet 5. § 11. pontja, a 88/2016. (XII. 29.) FM rendelet 16. § b) pontja, a 42/2020. (VIII. 19.) AM rendelet 4. § g) pontja szerint módosított szöveg.
+[^32]: A 7. § (2) bekezdése a 6/2015. (III. 10.) FM rendelet 6. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 16. § b) pontja, a 29/2023. (VII. 14.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^33]: A 8. § (1) bekezdése a 46/2013. (VI. 3.) VM rendelet 5. § 6. és 9. pontja, a 42/2020. (VIII. 19.) AM rendelet 4. § e) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^34]: A 8. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 5. § 13. pontja, a 88/2016. (XII. 29.) FM rendelet 16. § d) pontja szerint módosított szöveg.
+[^35]: A 8. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 16. § b) pontja szerint módosított szöveg.
+[^36]: A 10. § a 29/2023. (VII. 14.) AM rendelet 3. §-ával megállapított szöveg.
+[^37]: A 11. §-t a 46/2013. (VI. 3.) VM rendelet 6. §-a hatályon kívül helyezte, újonnan az 55/2017. (XI. 6.) FM rendelet 1. §-a iktatta be.
+[^38]: A hatálybalépés időpontja 2017. november 7.
+[^39]: Az 1. számú mellékletet a 42/2020. (VIII. 19.) AM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^40]: A 2. számú mellékletet a 42/2020. (VIII. 19.) AM rendelet 5. § c) pontja hatályon kívül helyezte.

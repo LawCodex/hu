@@ -1,0 +1,263 @@
+---
+title: "7/2024. (VI. 28.) HM rendelet az élelmezési ellátásról"
+identifier: "7/2024. (VI. 28.) HM rendelet"
+njt_id: "2024-7-20-15"
+eli: "https://njt.jog.gov.hu/eli/R/2024/HM/7"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2024-06-28
+in_force_from: 2024-07-01
+last_amended: 2024-10-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-7-20-15"
+retrieved: 2026-10-12
+---
+
+# 7/2024. (VI. 28.) HM rendelet az élelmezési ellátásról
+
+A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 93. § 17. pontjában, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (2) bekezdés 7. pontjában, a honvédelmi adatkezelésről szóló 2022. évi XXI. törvény 112. § b) pontjában, valamint a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 30. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *ebéd:* szolgálatteljesítési időre vagy munkaidőre eső főétkezés, ha a szolgálatteljesítési idő vagy a munkaidő érinti a 12:00 óra és a 14:00 óra közötti időszakot, és időtartama legalább 6 óra,
+
+2\. *fedélzeti ellátás:* a nem harcászati, szállító merev- és forgószárnyas repülőgépen természetbeni ellátás keretében biztosított térítésmentes élelmezési ellátás,
+
+3\. *főétkezés:* szolgálatteljesítési időre vagy munkaidőre eső reggeli, ebéd vagy vacsora,
+
+4.[^1] *kötelező* *benttartózkodás**:* az az eset, amikor az elrendelt feladat végrehajtására kijelölt személyi állomány 24 órát egybefüggően elérő vagy azt meghaladó időtartamban nem hagyhatja el a szolgálatteljesítési vagy munkavégzési helyét,
+
+5\. *reggeli:* szolgálatteljesítési időre vagy munkaidőre eső főétkezés, ha a szolgálatteljesítési idő vagy munkaidő 06:00 óra előtt kezdődik, 08:00 óra előtt nem ér véget és időtartama meghaladja a 6 órát,
+
+6\. *légijármű szakszemélyzete:* a harcászati vagy a szállító merev- és forgószárnyas légijárműveken szolgálati feladatot ellátó repülőhajózó beosztást betöltő repülőhajózó és egyéb beosztott állomány, valamint repülőműszaki beosztást betöltő, repülőműszaki feladatokat végző állomány,
+
+7\. *személyi állomány tagja:* a honvéd, a honvédelmi alkalmazott, valamint a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő és munkavállaló,
+
+8\. *utas:* az a személy, aki a harcászati vagy szállító merev- és forgószárnyas légijárművek fedélzetén nem a légijármű szakszemélyzeteként tartózkodik,
+
+9\. *vacsora:* szolgálatteljesítési időre vagy munkaidőre eső főétkezés, ha a szolgálatteljesítési idő vagy munkaidő nem fejeződik be 19:00 óra előtt és időtartama legalább 6 óra.
+
+## 2. §
+
+(1) A honvédelmi szervezet az élelmezési ellátást – tevékenységhez igazodóan differenciálva – normák alkalmazásával biztosítja.
+
+(2) Honvédelmi szervezet által történő élelmezési ellátás csak egy jogcímen biztosítható.
+
+(3) Ha a honvédelmi szervezet által történő élelmezési ellátás több jogcímen is megállapítható, a jogosult részére a magasabb értékű élelmezési ellátást kell biztosítani.
+
+## 3. §[^2]
+
+(1) Természetbeni ellátás keretében alapnorma szerinti térítésmentes élelmezési ellátásként főétkezésre jogosult
+
+1\. a terepen, lőtéren, kiképzőbázison vagy laktanyai körülmények között végrehajtott, elöljáró által elrendelt gyakorlatok és kiképzési rendezvények esetében a napi 6 órát meghaladó tevékenységet végző személyi állomány a végrehajtás idejére, illetve kötelező benttartózkodás esetén a feladat teljes időtartamára,
+
+2\. a személyi állomány azon tagja, aki a készenlét fenntartása és fokozása készenléti időszakainak elrendelése esetén a készenlét ideje alatt nem hagyhatja el szolgálatteljesítési vagy munkavégzési helyét, annak időtartama alatt,
+
+3\. a tényleges szolgálatot teljesítő önkéntes tartalékos a szolgálatteljesítési helyen tartózkodás időtartama alatt,
+
+4\. a katasztrófa-, határvédelmi, illetve elöljáró által elrendelt műveleti feladatok esetében a napi 6 órát meghaladó tevékenységet végző személyi állomány a végrehajtás idejére, illetve kötelező benttartózkodás esetén a feladat teljes időtartamára,
+
+5\. a 24 órás őr-, ügyeleti és laktanyai készenléti szolgálatot teljesítő személyi állomány a szolgálatteljesítés vagy munkavégzés napjain,
+
+6\. a légijármű szakszemélyzete „A”, „B”, „C” és „D” személyi kategóriába tartozó vezetők külföldi szolgálati utazásai során, azok időtartama alatt,
+
+7\. a légijármű tényleges repülési feladatot végrehajtó szakszemélyzete, ha a kiképzési repülési feladat végrehajtása repülési váltásonként számítva meghaladja a 3 órát, vagy a hadműveleti repülési feladat végrehajtása meghaladja a 3 órát,
+
+8\. a személyi állomány azon tagja, aki külföldi béketámogató feladatban vagy Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban vesz részt, a kiutazástól a műveleti területre történő kiérkezés napjáig, valamint a műveleti területről harmadik országba történő szolgálati kiküldetése idejére, ha a külföldi szolgálatról szóló miniszteri rendelet alapján étkezési költségtérítésben nem részesül, és költségeit a küldő nemzetközi szervezet nem téríti meg,
+
+9\. a személyi állomány azon tagja, aki a külföldön béketámogató tevékenységben vagy Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladat-végrehajtás során, a 10. § (1) bekezdés a)–i) pontjában felsorolt ünnepségen vesz részt,
+
+10\. Magyarország védelmi tervének kidolgozására kijelölt személyi állomány összevonása esetén a feladat-végrehajtás idejére, illetve kötelező benttartózkodás esetén a feladat teljes időtartamára,
+
+11\. a személyi állomány azon tagja, aki a Nemzetközi Repülőnap és Haditechnikai Bemutató kiszolgálását végzi,
+
+12\. a társadalmi rendezvényekre történő kitelepülés során a napi 6 órát meghaladó tevékenységet végző személyi állomány, a végrehajtás idejére,
+
+13\. a két vagy több vezetési szinten megrendezésre kerülő gyakorlatok, hadijátékok, haditechnikai bemutatók záró rendezvényein részt vevő személy,
+
+14\. a tiszt- és altisztavatás alkalmával, az avatásra történő felkészülés idején a napi 6 órát meghaladó tevékenységet végző felkészülő személyi állomány a végrehajtás idejére, illetve kötelező benttartózkodás esetén a feladat teljes időtartamára,
+
+15\. a honvédségi ösztöndíjas hallgató a honvédelmi szervezetnél eltöltendő szakmai gyakorlat, illetve elrendelt szolgálati feladat végrehajtása során,
+
+16\. a döntésre jogosult elöljáró által elrendelt, honvédelmi pályára irányítási tevékenység keretében rendezett „Nyílt-Nap” rendezvényen részt vevő személy,
+
+17\. a személyi állomány azon tagja, aki egészségügyi válsághelyzet ideje alatt katonai objektumban hatósági házi karanténban tartózkodik, annak időtartama alatt,
+
+18\. a regenerálódást segítő és rekreációt végző honvédségi szervezetnél, valamint a regenerálódást és kiképzést végző honvédségi szervezetnél kiképzési rendezvényen részt vevő személy,
+
+19\. a személyi állománynak azon tagja, aki a regenerálódást segítő és rekreációt végző honvédségi szervezethez vagy a regenerálódást és kiképzést végző honvédségi szervezethez regeneráló pihenésre beutalásra került, annak időtartama alatt,
+
+20\. a honvédelmi szervezet vezetője által szervezett nyugdíjas találkozón részt vevő személy,
+
+21\. a honvédelemért felelős miniszter (a továbbiakban: miniszter) és a Honvéd Vezérkar főnöke által meghatározott, egyes kiemelt feladatokban részt vevő személy,
+
+22\. kiemelt állami objektumokban felállított díszőri feladatot ellátó állomány a szolgálatteljesítés időtartalma alatt.
+
+(2) Természetbeni ellátás keretében alapnorma szerinti térítésmentes élelmezési ellátásként ebédre jogosult
+
+a) a 10. § (1) bekezdés a), c)–e) pontjában felsorolt ünnepségeken részt vevő személy, a rendezvény napján,
+
+b) a tiszti, altiszti és önkéntes tartalékos avatás és eskütétel alkalmával rendezett ünnepségen részt vevő személy és
+
+c) a külföldön béketámogató tevékenységben és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladattal összefüggő elköszönési és visszafogadó ünnepségen részt vevő személy.
+
+## 4. §
+
+Természetbeni ellátás keretében térítésmentes élelmezési ellátásra jogosult a légijármű szakszemélyzete a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (2) bekezdés b) és d) pontja szerint végrehajtott, nem honvédelmi célú szállítás esetén, a miniszter által kötött keretmegállapodásnak megfelelően, a katonai repülőgépen utazók utankénti élelmezési ellátási normái alapján, a legmagasabb „A” személyi kategória 2/3 értékében.
+
+## 5. §
+
+Természetbeni ellátás keretében pótnorma szerinti térítésmentes élelmezési ellátásra jogosult
+
+a) a személyi állomány azon tagja, aki alapnorma szerinti térítésmentes élelmezési ellátásra hideg étkezési csomag formájában kerül ellátásra, főétkezésenként,
+
+b)[^3] a személyi állomány azon tagja, aki alapnorma szerinti térítésmentes élelmezési ellátásra a 3. § (1) bekezdés 1. vagy 4. pontja alapján jogosult, amennyiben fokozott igénybevételt igénylő feladatot hajt végre, főétkezésenként,
+
+c) a külföldi szolgálatteljesítési feladatokkal összefüggő kiutazások alkalmával az utas, fedélzeti ellátásként az utazások napján, utanként, ha más jogcímen térítésmentes természetbeni élelmezési ellátásban nem részesül, és
+
+d) forgószárnyas légijárművel végrehajtott 2 órát meghaladó repülések során az utas, fedélzeti ellátásként, ha más jogcímen nem jogosult térítésmentes természetbeni ellátásra.
+
+## 6. §
+
+(1) Honvédségi szervezet által üzemeltetett étkezdében a személyi állomány tagja alapnorma szerinti reggelire, ebédre, illetve vacsorára az 1. melléklet szerinti térítés ellenében jogosult akkor is, ha szolgálatmentességen, szabadságon, fizetés nélküli szabadságon tartózkodik vagy keresőképtelen.
+
+(2) Honvédségi szervezet által üzemeltetett étkezdében a nyugállományú katona, a honvédségi nyugdíjas, valamint a személyi állomány tagjának, a nyugállományú katonának és a honvédségi nyugdíjasnak a közeli hozzátartozója, élettársa térítés ellenében és csak akkor jogosult alapnorma szerinti ebédre, ha annak helyben fogyasztását vagy elvitelét – a konyha és étkezde teljesítőképességét és a személyzet létszámát figyelembe véve – az étkezdét üzemeltető honvédségi szervezet döntésre jogosult elöljárója engedélyezi.
+
+## 7. §
+
+A rekreációs szolgáltatásokat koordináló honvédségi szervezet, valamint a regenerálódást és kiképzést végző honvédségi szervezet által nyújtott rekreációs szolgáltatást, hétközi, vagy hétvégi pihenést igénybe vevő igényjogosult térítés ellenében jogosult az étkezésfeljavítási normával kiegészített alapnorma szerint élelmezési ellátásra.
+
+## 8. §
+
+(1) Készpénzben kell megváltani az élelmezési ellátást
+
+a) a természetbeni ellátás keretében térítésmentes élelmezési ellátásra jogosult személyi állomány tagja részére, ha a természetbeni élelmezési ellátás feltételei hiányoznak,
+
+b) a természetbeni ellátás keretében térítésmentes élelmezési ellátásra jogosult részére, ha egészségi állapota alapján igazoltan speciális étkezést igényel, de az természetben nem biztosítható,
+
+c)[^4] a művelet irányításáért felelős honvédségi szervezet parancsnokának döntése alapján a 3. § (1) bekezdés 8. pontja szerint természetbeni ellátás keretében térítésmentes élelmezési ellátásra jogosult részére műveleti területről harmadik országba történő szolgálati kiküldetés idejére, ha a külföldi szolgálatról szóló miniszteri rendelet alapján étkezési költségtérítésben nem részesül, térítésmentes természetbeni élelmezési ellátást nem kap, és költségeit a küldő nemzetközi szervezet nem téríti meg.
+
+(2) A fedélzeti ellátás készpénzben nem váltható meg.
+
+(3) Az (1) bekezdés b) pontja nem alkalmazható a személyi állomány azon tagja esetén, aki saját elhatározásból vegetáriánus életmódot folytat, valamint speciális diétát vagy étkezés terén filozófiai és életmódbeli irányzatot követ.
+
+## 9. §
+
+(1)[^5] A honvédségi szervezet által biztosított ebéd igénybevételére és térítési díjának megtérítésére (a továbbiakban: étkezéstérítésre) kötelezett a személyi állomány azon tagja, aki önálló élelmezési gazdálkodást folytató honvédségi szervezetnél a (2) bekezdés szerinti szolgálati beosztást, munkakört tölt be, kivéve, ha e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosult.
+
+(2) Az (1) bekezdés alapján étkezéstérítésre kötelezett
+
+a) az élelmezési szakterületet vezetéséért felelős szolgálati beosztást, munkakört betöltő személy,
+
+b) az ellátó-, a logisztikai tiszt, altiszt, beosztott altiszt, az élelmezési ellátó szakasz-, illetve rajparancsnok,
+
+c) az élelmezési raktári vagy étkezdei nyilvántartó, illetve az adminisztrátor,
+
+d) az étkezdevezető,
+
+e) az élelmezési raktárvezető,
+
+f) az élelmezési raktár raktárkezelő,
+
+g) az étkezde-, a büfépénztáros,
+
+h) a büfévezető (kezelő),
+
+i) a főszakács,
+
+j) a szakács,
+
+k) a hentes,
+
+l) a cukrász,
+
+m) a felszolgáló, a pincér,
+
+n) a szakmunkás (élelmezés) és
+
+o) a konyhai-étkezdei anyag-előkészítő, kisegítő, segédmunkás beosztást vagy munkakört betöltő vagy legalább négy órában e feladatkörben rendszeresen foglalkoztatott személy.
+
+(3) Az (1) bekezdés szerinti kötelezettség térítési díja az alapnorma szerinti ebéd térítési díjának 50%-a.
+
+(4) Ha a személyi állomány (1) és (2) bekezdés szerint étkezéstérítésre kötelezett tagja egészségi állapota alapján igazoltan speciális étkezést igényel, amelynek feltételei természetben nem biztosíthatók, a döntésre jogosult elöljáró mentesíti a honvédségi szervezet által biztosított élelmezési ellátás kötelező igénybevétele alól.
+
+## 10. §[^6]
+
+(1) Az alapnorma után étkezésfeljavítási normát kell felszámítani
+
+a) március 15-én,
+
+b) május 1-jén,
+
+c) május 21-én,
+
+d) augusztus 20-án,
+
+e) október 23-án,
+
+f) december 24-én, 25-én, 26-án, 31-én,
+
+g) nagypénteken és húsvéthétfőn,
+
+h) pünkösdhétfőn,
+
+i) a külföldön béketámogató tevékenységben vagy a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő honvédségi szervezet Nemzeti Nap ünnepsége alkalmával és
+
+j) a 3. § (1) bekezdés 13. és 18. pontjában, valamint a 3. § (2) bekezdésében meghatározott esetekben.
+
+(2) A 3. § (1) bekezdés 19. pontjában és a 7. §-ban meghatározott esetben a norma főétkezésenként számítható fel.
+
+(3) Ha az (1) bekezdés a)–e) pontja szerinti alkalomból tartott ünnepséget a honvédelmi szervezet nem az (1) bekezdés a)–e) pontja szerinti napon rendezi meg, az étkezésfeljavítási normát az (1) bekezdés a)–e) pontja szerinti napra, valamint az ünnepség megtartásának napjára is fel kell számítani, és az ünnepi étkezést fel kell javítani.
+
+## 11. §
+
+(1) Természetbeni ellátás keretében védőitalnorma szerinti térítésmentes ellátásra jogosult
+
+a) a személyi állomány tagja, ha a szabadtéren vagy fűtetlen zárt térben történő szolgálatteljesítés vagy munkavégzés idejének legalább 50%-ában és legalább 4 óra időtartamban a hőmérséklet nem éri el a +10 °C -t,
+
+b) a személyi állomány tagja, ha szabadtéri munkahelyen vagy szolgálatteljesítési helyen, valamint zárt, légkondicionáló berendezés nélküli, nem személygépjárműnek minősülő haditechnikai eszközök felépítményében a hőmérséklet meghaladja a +24 °C-ot.
+
+(2) Az (1) bekezdés a) pontja esetén a személyi állomány tagja részére legalább +50 °C-ot elérő hőmérsékletű teaitalt kell biztosítani a szükséges mennyiségben. Ahol a teaital elkészítésének tárgyi, higiéniai és infrastrukturális feltételei adottak, ott a nyersanyag kiadása legfeljebb két napra előre is lehetséges. Ha az (1) bekezdés a) pontja szerinti körülmények közötti szolgálatteljesítés, munkavégzés eléri a 10 órát, a szolgálatteljesítés, munkavégzés tényleges időtartamára meghatározott védőitalnorma kétszeresen számítandó fel.
+
+(3)[^7] Az (1) bekezdés b) pontja esetén a személyi állomány tagja részére palackozott ásványvizet kell biztosítani a norma értékében. Ha az (1) bekezdés b) pontja szerinti körülmények közötti szolgálatteljesítés, munkavégzés eléri a 10 órát, a szolgálatteljesítés, munkavégzés tényleges időtartamára meghatározott védőitalnorma kétszeresen számítandó fel.
+
+(4) Az (1) bekezdés a) és b) pontja szerinti védőital-ellátást úgy kell megszervezni, hogy a védőital-kiszolgálás lehetősége a szolgálatteljesítés vagy a munkavégzés megkezdésétől folyamatosan biztosított legyen.
+
+(5)[^8]
+
+## 12. §
+
+Tankonyhai étkezési normára jogosult az egyéni tankonyhai főzésen résztvevő honvéd tisztjelölt, valamint a személyi állomány MH szintű, nemzeti vagy nemzetközi szakácsversenyen résztvevő tagja, a felkészülés és a verseny napjain elkészített adagszám után, az élelmezési anyagnemért felelős vezető engedélye alapján.
+
+## 13. §
+
+Ez a rendelet 2024. július 1-jén lép hatályba.
+
+## 14. §
+
+A személyi állománynak a Magyar Honvédség élelmezési ellátásáról szóló 14/2018. (IX. 17.) HM rendelet alapján fennálló igényjogosultsága e rendelet hatálybalépésével megszűnik.
+
+## 1. melléklet a 7/2024. (VI. 28.) HM rendelethez
+
+**A honvédségi szervezet által üzemeltetett étkezdében az alapnorma szerinti főétkezések térítési díja**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | **Normacsoportosítás** | **Térítési díj** |
+| **2** | Alapnorma Reggeli | 1100 Ft |
+| **3** | Alapnorma Ebéd | 1400 Ft |
+| **4** | Alapnorma Vacsora | 1100 Ft |
+
+---
+
+[^1]: Az 1. § 4. pontja a 24/2024. (X. 22.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § a 24/2024. (X. 22.) HM rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § b) pontja a 24/2024. (X. 22.) HM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 8. § (1) bekezdés c) pontja a 24/2024. (X. 22.) HM rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: A 9. § (1) bekezdése a 24/2024. (X. 22.) HM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 10. § a 24/2024. (X. 22.) HM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 11. § (3) bekezdése a 24/2024. (X. 22.) HM rendelet 6. § a) pontja szerint módosított szöveg.
+[^8]: A 11. § (5) bekezdését a 24/2024. (X. 22.) HM rendelet 6. § b) pontja hatályon kívül helyezte.

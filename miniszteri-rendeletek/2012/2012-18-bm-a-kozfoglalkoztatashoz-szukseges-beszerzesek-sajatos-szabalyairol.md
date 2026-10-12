@@ -1,0 +1,93 @@
+---
+title: "18/2012. (IV. 5.) BM rendelet a közfoglalkoztatáshoz szükséges beszerzések sajátos szabályairól"
+identifier: "18/2012. (IV. 5.) BM rendelet"
+njt_id: "2012-18-20-0A"
+eli: "https://njt.jog.gov.hu/eli/R/2012/BM/18"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-04-05
+in_force_from: 2012-04-06
+last_amended: 2012-04-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-18-20-0A"
+retrieved: 2026-10-12
+---
+
+# 18/2012. (IV. 5.) BM rendelet a közfoglalkoztatáshoz szükséges beszerzések sajátos szabályairól
+
+A közbeszerzésről szóló 2011. évi CVIII. törvény 182. § (4) bekezdésében kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § *w)* pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § *d)* pontjában meghatározott feladatkörében eljáró nemzeti fejlesztési miniszterrel egyetértésben – a következőket rendelem el:
+
+## 1. §
+
+*A közfoglalkoztatás ellátásához szükséges beszerzés:* a rendelet 1. mellékletében meghatározott beszerzési tárgyakat érintő beszerzés.
+
+## 2. §
+
+A rendelet hatálya a közbeszerzésről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) által ajánlatkérőként meghatározott, a közfoglalkoztatásról szóló törvényben megjelölt szervezeteknek (a továbbiakban: ajánlatkérő) a Kbt. 10. § (1) bekezdése alapján az uniós értékhatárt el nem érő, a közfoglalkoztatás ellátásához szükséges áru vagy szolgáltatás beszerzéseire terjed ki.
+
+## 3. §
+
+Az ajánlatkérő a rendelet hatálya alá eső közbeszerzés megvalósításakor a Kbt. Második részében meghatározott szabályok szerint jár el – a Kbt. 122. §-ban és a rendeletben meghatározott eltérésekkel.
+
+## 4. §
+
+(1) A Kbt. 122. § (3) bekezdésben meghatározott szabályokat a (2) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(2) Az ajánlattételi határidőt az ajánlatkérő nyílt eljárásban és meghívásos eljárásban – kivéve a gyorsított eljárást – nem határozhatja meg az eljárást megindító felhívást tartalmazó hirdetmény feladásának napjától, illetve az ajánlattételi felhívás megküldésének napjától számított tizenöt napnál rövidebb időtartamban. A több szakaszból álló eljárások részvételi szakaszában annyi részvételi határidőt kell biztosítani, amely alatt megfelelően lehet részvételre jelentkezni.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 18/2012. (IV. 5.) BM rendelethez
+
+**A közfoglalkoztatás ellátásához szükséges beszerzés tárgya**
+
+**I. A közfoglalkoztatás ellátásához szükséges árubeszerzéshez kapcsolódó tárgyak:**
+
+1\. mezőgazdasági és kertészeti termékek beszerzése,
+
+2\. mezőgazdasági, erdőgazdálkodási, építőipari gépbeszerzések,
+
+3\. kertészeti és mezőgazdasági gépek, eszközök, építőipari tárgyi eszközök,
+
+4\. személyszállító, építőipari termékszállító, mezőgazdasági terményszállító eszközök,
+
+5\. szem vagy szárított gyümölcs tisztítására, válogatására vagy osztályozására szolgáló gép,
+
+6\. kertészeti, mezőgazdasági és erdészeti gépek alkatrészei,
+
+7\. üvegház,
+
+8\. beltéri és kültéri építőanyag szükségletek biztosítása,
+
+9\. kenőanyagok,
+
+10\. kivitelezéshez szükséges kisebb értékű szerszámok, gépek beszerzése, építőanyagok, építkezési anyagokhoz kapcsolódó termékek,
+
+11\. munka- és védőruházat, egyéni védőeszközök és kiegészítők,
+
+12\. ár- és belvíz elleni védekezésre történő felkészülést biztosító, a védművek, műtárgyak kialakításához, karbantartásához szükséges eszközök, anyagok,
+
+13\. vízi létesítmények építéséhez, mezőgazdasági vízhasznosítást biztosító munkálatok elvégzéséhez szükséges berendezések, eszközök, anyagok.
+
+**II. A közfoglalkoztatás ellátásához szükséges szolgáltatás beszerzéshez kapcsolódó tárgyak:**
+
+1\. mezőgazdasági termeléssel és a termelés előkészítésével kapcsolatos szolgáltatások,
+
+2\. egészségügyi szolgáltatás,
+
+3\. közfoglalkoztatási jogviszony keretében végzett tevékenység ellátásához szükséges gépek, berendezések kölcsönzése kezelővel vagy kezelő nélkül,
+
+4\. hulladéktárolás, újrafeldolgozási szolgáltatások,
+
+5\. építési beruházás körébe nem tartozó árokásási, tereprendezési munka,
+
+6\. szállítási szolgáltatások,
+
+7\. oktatási és képzési szolgáltatások,
+
+8\. felnőtt- és egyéb oktatási szolgáltatások,
+
+9\. örökségvédelmi, műemléki érdekű építési kivitelezési munkával kapcsolatos szakmai szolgáltatások.
