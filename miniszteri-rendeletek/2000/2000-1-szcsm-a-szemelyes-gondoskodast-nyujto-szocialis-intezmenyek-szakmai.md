@@ -1,0 +1,3971 @@
+---
+title: "1/2000. (I. 7.) SZCSM rendelet a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről"
+identifier: "1/2000. (I. 7.) SZCSM rendelet"
+njt_id: "2000-1-20-85"
+eli: "https://njt.jog.gov.hu/eli/R/2000/SZCSM/1"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2000-01-07
+in_force_from: 2010-01-01
+last_amended: 2025-07-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-1-20-85"
+retrieved: 2026-10-12
+---
+
+# 1/2000. (I. 7.) SZCSM rendelet a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről
+
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 132. §-a (2) bekezdésének b) és c) pontjában, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
+
+### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### A rendelet hatálya, az ellátást igénybe vevők jogainak védelme
+
+##### 1. §
+
+(1)[^1] A rendelet hatálya kiterjed valamennyi személyes gondoskodást nyújtó szociális ellátásra. Az e rendeletben foglaltakat kell alkalmazni a nem állami és egyházi szerv által nyújtott szociális ellátásokra is.
+
+(2)[^2] Az Szt. 64. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 39–40/A. §-a szerinti szolgáltatásra a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet szabályait is alkalmazni kell.
+
+##### 2. §[^3]
+
+E rendelet alkalmazásában
+
+a) *személyes gondoskodást nyújtó szociális ellátás:* az Szt. 56. §-a szerinti személyes gondoskodás (a továbbiakban: személyes gondoskodás),
+
+b) *alapszolgáltatások:* az Szt. 57. §-ának (1) bekezdésben meghatározott személyes gondoskodási formák,
+
+c) *szakosított ellátások:* az Szt. 57. §-ának (2) bekezdésében meghatározott személyes gondoskodási formák,
+
+d) *intézményi ellátások:* az Szt. 57. §-a (1) bekezdésének j) pontja és (2) bekezdése szerinti személyes gondoskodási formák,
+
+e) *szociális szolgáltató:* az Szt. 4. §-a (1) bekezdésének g) pontjában meghatározott személy, illetve szervezet,
+
+f) *szociális intézmény:* az Szt. 4. §-a (1) bekezdésének h) pontjában meghatározott szervezet,
+
+g) *személyes gondoskodást nyújtó intézmény:* ha a rendelet eltérően nem rendelkezik, a szociális intézmény és a szociális szolgáltató, ideértve a személyes gondoskodást is nyújtó bármely más intézményt,
+
+h) *személyes gondoskodást végző személy:* a szociális szolgáltatónál, intézménynél az e rendelet 2. számú mellékletében meghatározott munkakörökben foglalkoztatott személy,
+
+i) *téli időszak:* a november 1-jétől a következő év április 30-áig terjedő időszak,
+
+j) *veszélyeztetettség:* olyan egyéni vagy családi, környezeti, társadalmi helyzet, vagy ezek következtében kialakult állapot, amely az egyén vagy család testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza,
+
+k)[^4] férőhely: a működési engedélyben meghatározott legmagasabb napi ellátotti létszám.
+
+l)[^5] *szolgáltatási elem:* a szakmai programban a szolgáltatás részeként megjelenő alábbi tevékenységek összessége:
+
+la) *tanácsadás:* az igénybe vevő bevonásával történő, jogait, lehetőségeit figyelembe vevő, kérdésére reagáló, élethelyzetének, szükségleteinek megfelelő vélemény-, javaslatkialakítási folyamat, a megfelelő információ átadása valamilyen egyszerű vagy speciális felkészültséget igénylő témában, amely valamilyen cselekvésre, magatartásra ösztönöz, vagy nemkívánatos cselekvés, magatartás elkerülésére irányul,
+
+lb) *esetkezelés:* az igénybe vevő, vevők szükségleteinek kielégítésére (problémájának megoldására, illetve céljai elérésére) irányuló, megállapodáson, illetve együttműködésen alapuló, tervszerű segítő kapcsolat, amely során számba veszik és mozgósítják az igénybe vevő, vevők saját és támogató környezete erőforrásait, továbbá azokat a szolgáltatásokat és juttatásokat, amelyek bevonhatók a célok elérésébe, újabb problémák megelőzésébe,
+
+lc) *pedagógiai segítségnyújtás:* szocializációs, pedagógiai, andragógiai és gerontológiai eszközökkel végzett tervszerű tevékenység, folyamat, amely olyan viselkedések, attitűdök, értékek, ismeretek és képességek átadásának közvetlen és közvetett módját teszi lehetővé, gyakoroltatja, aminek eredményeként az igénybe vevő lehetőséget kap képességei kiteljesítésére, fejlődésében egy magasabb szint elérésére,
+
+ld) *gondozás:* az igénybe vevő bevonásával történő, tervezésen alapuló, célzott segítés mindazon tevékenységek elvégzésében, amelyeket saját maga tenne meg, ha erre képes lenne, továbbá olyan rendszeres vagy hosszabb idejű testi-lelki támogatása, fejlesztése, amely elősegíti a körülményekhez képest legjobb életminőség elérését, illetve a családban, társadalmi státuszban való megtartását, visszailleszkedését,
+
+le) *étkeztetés:* gondoskodás hideg, illetve meleg ételről alkalmilag vagy rendszeresen a szolgáltatást igénybe vevő lakhelyén, szolgáltatónál, egyéb étkezdében vagy közterületen,
+
+lf) *gyógypedagógiai segítségnyújtás:* a fogyatékosságból adódó akadályoztatottság kompenzációjára szolgáló – a gyógypedagógia körébe tartozó – komplex tevékenységrendszer az igénybe vevő, családja és környezete képességeinek legteljesebb kibontakoztatása, a funkciózavarok korrekciója és a rehabilitáció érdekében,
+
+lg) *felügyelet:* az igénybe vevő lakó- vagy tartózkodási helyén, illetve a szolgáltatásnyújtás helyszínén lelki és fizikai biztonságát szolgáló, személyes vagy technikai eszközzel, eszközökkel biztosított kontroll,
+
+lh) *háztartási vagy háztartást pótló segítségnyújtás:* az igénybe vevő segítése mindennapi életvitelében, személyes környezete rendben tartásában, mindennapi ügyeinek intézésében, valamint a személyes szükségleteinek kielégítésére szolgáló lehetőségek és eszközök biztosítása, ha ezt saját háztartásában vagy annak hiányában nem tudja megoldani,
+
+li) *szállítás:* javak vagy szolgáltatások eljuttatása az igénybe vevőhöz, vagy az igénybe vevő eljuttatása a közszolgáltatások, szolgáltatások, munkavégzés, közösségi programok, családi kapcsolatok helyszínére, ha szükségleteiből adódóan mindezek más módon nem oldhatóak meg,
+
+lj) *készségfejlesztés:* az igénybe vevő társadalmi beilleszkedését segítő magatartásformáinak, egyéni és társas készségeinek kialakulását, fejlesztését szolgáló helyzetek és alternatívák kidolgozása, lehetőségek biztosítása azok gyakorlására,
+
+lk) *lakhatás:* az életkorhoz, egészségi állapothoz, családi állapothoz vagy helyzethez igazított, rövid vagy hosszú távú lakhatási lehetőség, amely elősegíti a személyes biztonságot és az emberi méltóság megőrzését, a tanulásban, a foglalkoztatásban és a közösségi életben való részvételt, illetve a családtagok közötti kapcsolat fenntartását,
+
+ll) *megkeresés:* szociális problémák által érintett vagy veszélyeztetett azon egyének közvetlen, illetve közvetett módon történő elérése vagy felkutatása (a releváns szolgáltatásokhoz való hozzájuttatás céljából), akik vélhetően jogosultak egy adott szolgáltatásra, de azt bármilyen okból elérni nem tudják,
+
+lm) *közösségi fejlesztés:* egy településrész, település vagy térség lakosságát érintő integrációs szemléletű, bátorító-ösztönző, informáló, kapcsolatszervező tevékenység, amely különböző célcsoportokra vonatkozó speciális igényeket tár fel, szolgáltatásokat kezdeményez, közösségi együttműködéseket valósít meg.
+
+m)[^6] *szakmai egység:* önálló szakmai irányítás alatt álló szervezeti egység.
+
+##### 3. §
+
+(1)[^7] A személyes gondoskodás biztosítása során fokozott figyelmet kell fordítani arra, hogy az ellátásban részesülő személyek emberi és állampolgári jogai ne sérüljenek. Az intézmény vezetője gondoskodik az intézményen belül az emberi és állampolgári jogok érvényesüléséről, az egyén autonómiáját elfogadó, integrációját minden eszközzel segítő, humanizált környezet kialakításáról és működtetéséről.
+
+(2)[^8] Ha az ellátásban részesülő személy jogainak, érdekeinek érvényesítésére nem képes, a személyes gondoskodást végző személy, illetőleg az intézményvezető intézkedés megtételét kezdeményezi a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró, lakóhely szerint illetékes járási (fővárosi kerületi) hivatalánál (a továbbiakban: gyámhivatal), illetve a szükséges segítségnyújtás érdekében felveszi a kapcsolatot az oktatási, az egészségügyi vagy más szociális intézménnyel.
+
+#### Általános tárgyi feltételek
+
+##### 4. §
+
+(1)[^9] A személyes gondoskodást nyújtó intézményt úgy kell kialakítani, hogy
+
+a) az tömegközlekedési eszközzel könnyen megközelíthető legyen,
+
+b) épületeinek építészeti megoldásai tegyék lehetővé az akadálymentes közlekedést,
+
+c) bútorzata és berendezési, felszerelési tárgyai, az életvitelhez szükséges körülmények feleljenek meg az ellátottak életkori sajátosságainak, egészségi és mozgásállapotának.
+
+(2)[^10] Családsegítés és gyermekjóléti szolgáltatás esetében ki kell alakítani
+
+a) legalább egy olyan helyiséget, ahol csak a szolgáltatást nyújtó szakember és a segítséget igénylő személy, család vagy csoport tartózkodik, és folyamatosan biztosítottak a bizalmas beszélgetés körülményei,
+
+b) várakozóhelyiséget,
+
+c) az adminisztrációs és ügyintézési tevékenységhez külön helyiséget, ha több munkatársat foglalkoztatnak, és nem áll valamennyi munkatárs számára önálló helyiség rendelkezésre.
+
+#### Általános működési feltételek
+
+##### 5. §
+
+(1)[^11] A szociális szolgáltatónak rendelkeznie kell
+
+a)[^12] szolgáltatói nyilvántartásba történő bejegyzéssel,
+
+b) alapító okirattal, ha a szociális szolgáltató költségvetési szerv,
+
+c)[^13] az egyszemélyes szolgálatot kivéve szervezeti és működési szabályzattal,
+
+d) szakmai programmal,
+
+e) a foglalkoztatottak munkaköri leírásával,
+
+f)[^14] az 1. számú melléklet III.1. és III.3. pontjában meghatározott szabályzatokkal,
+
+g)[^15] az egyszemélyes szolgálat kivételével az 1. számú melléklet I.1., II.3. és III.2. pontjában meghatározott szabályzatokkal.
+
+(2)[^16] A szociális intézménynek rendelkeznie kell
+
+a) az (1) bekezdés a)–e) pontja szerinti dokumentumokkal,
+
+b) házirenddel,
+
+c)[^17] az 1. számú mellékletben meghatározott szabályzatokkal, nappali ellátást nyújtó intézmény esetében az 1. számú melléklet I.2. pontja szerinti szabályzat kivételével.
+
+(3)[^18] A bentlakásos intézmény házirendjében szabályozni kell különösen
+
+a) az együttélés szabályait,
+
+b) az intézményből való eltávozás és visszatérés rendjét,
+
+c) az ellátásban részesülő személyek egymás közötti, valamint a hozzátartozóikkal való kapcsolattartásának szabályait,
+
+d) az intézménybe bevihető személyes használati tárgyak körét,
+
+e) az érték- és vagyonmegőrzésre átvett tárgyak átvételének és kiadásának szabályait,
+
+f) a ruházattal, textíliával, tisztálkodó szerekkel való ellátás, valamint a ruházat és textília tisztításának és javításának rendjét,
+
+g) az intézményi jogviszony megszűnésének szabályait,
+
+h) az egyéni és a közösségi vallásgyakorlásra vonatkozó szabályokat,
+
+i) az intézmény alapfeladatát meghaladó programok, szolgáltatások körét és térítési díját.
+
+(4)[^19] A támogatott lakhatás tekintetében a fenntartónak rendelkeznie kell
+
+a) az (1) bekezdés a)–e) pontja szerinti dokumentumokkal,
+
+b)[^20] az együttélés szabályaival, amelyet az egyéni szükségletek és igények figyelembevétele mellett a lakókkal közösen alakít ki, és amelyben meg kell határozni
+
+ba) az együttélés szabályait,
+
+bb) a háztartással kapcsolatos feladatok megosztását,
+
+bc) a konfliktuskezelés módját, eredménytelensége esetére az azokról való döntés eljárását,
+
+bd) az ellátást igénybevevő jogainak sérelme esetén alkalmazandó jelzőrendszer szabályait,
+
+be)[^21] az intézményi jogviszony megszűnésének szabályait,
+
+bf)[^22] a befizetett belépési hozzájárulás időarányos visszafizetésének módját és részletes szabályait.
+
+c)[^23] az Szt. 75. § (5) bekezdés c) pontja esetében az 1. számú mellékletben meghatározott szabályzatokkal, ide nem értve az 1. számú melléklet I. pontja szerinti szabályzatokat,
+
+d) az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatások biztosítása esetében az 1. számú melléklet I. 1. alpontjában, II. és III. pontjában meghatározott szabályzatokkal,
+
+e) a szolgáltatás körében okozott kár megtérítésére vonatkozó érvényes felelősségbiztosítási szerződéssel.
+
+##### 5/A. §[^24]
+
+(1)[^25] A szociális szolgáltató, intézmény szakmai programjának tartalmaznia kell
+
+a)[^26] a szolgáltatás célját, így különösen
+
+aa) a megvalósítani kívánt program konkrét bemutatását, a létrejövő kapacitások, a nyújtott szolgáltatáselemek, tevékenységek leírását,
+
+ab)[^27]
+
+ac) a más intézményekkel történő együttműködés módját,
+
+ad)[^28]
+
+b)[^29] az ellátandó célcsoport megnevezését,
+
+c)[^30] azt, hogy a fenntartó a 2. § l) pontja szerinti szolgáltatási elemek közül melyeket biztosítja,
+
+d) az ellátás igénybevételének módját,
+
+e)[^31] a szolgáltatásról szóló tájékoztatás helyi módját,
+
+f)[^32]
+
+g)[^33]
+
+h)[^34]
+
+i)[^35]
+
+(2)[^36] A szakmai programhoz mellékelni kell
+
+a) az Szt. 94/C. § (1) bekezdése szerinti megállapodások tervezetét, az Szt. 94/C. § (2) bekezdése szerinti kivételekkel,
+
+b) szakosított ellátást nyújtó szociális intézmény esetében a házirend tervezetét, már működő intézmény esetén a házirendet,
+
+c) a szervezeti és működési szabályzatot vagy annak tervezetét,
+
+d)[^37] 50 fő feletti fogyatékos személyek, pszichiátriai és szenvedélybetegek ápoló-gondozó otthona esetében az intézményi férőhely kiváltási tervet.
+
+(3) A szakmai programot az (1) bekezdés szerinti elemeinek változása esetén módosítani kell.
+
+##### 5/B. §[^38]
+
+A szervezeti és működési szabályzat egyházi és nem állami fenntartók esetében tartalmazza
+
+a) az intézmény szervezeti felépítésének leírását,
+
+b) a szervezeti ábrát,
+
+c) több személyes gondoskodási forma egy szervezeti keretben történő megszervezése esetén a szervezeti formát,
+
+d) a belső szervezeti tagozódást, a szervezeti egységek megnevezését és feladatkörét,
+
+e) a szervezeti egységek szakmai együttműködésének, az esetleges helyettesítéseknek a rendjét,
+
+f) az intézmény irányítási és működési rendjével kapcsolatos kérdéseket, ideértve a munkáltatói jogok gyakorlásának rendjét,
+
+g)[^39]
+
+##### 5/C. §[^40]
+
+Nem állami fenntartású szociális intézmény esetén a fenntartónak folyamatosan rendelkeznie kell a nappali ellátás és a bentlakásos intézményi ellátás körében okozott kár megtérítésére vonatkozó hatályos felelősségbiztosítási szerződéssel.
+
+#### Általános személyi feltételek
+
+##### 6. §
+
+(1)[^42] Az ellátásban részesülő személyekkel közvetlenül foglalkozó, személyes gondoskodást végző személyek
+
+a) legalább ötven százalékának szakképzettnek kell lennie alapszolgáltatás esetén, a *b)–c)* pont kivételével,
+
+b) legalább nyolcvan százalékának szakképzettnek kell lennie nappali ellátás és bentlakásos intézményi ellátás esetén,
+
+c) száz százalékának szakképzettnek kell lennie családsegítés és gyermekjóléti szolgáltatás esetében, valamint a házi segítségnyújtás keretében személyi gondozást végzőknek.
+
+(2)[^43] A személyes gondoskodás egyes formáinak szakmai létszámnormáit a 2. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás szakmai létszámnormáit a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 1. számú melléklete tartalmazza.
+
+(3)[^44] A (2) bekezdés szerinti szakmai létszámnorma – a szolgáltatások biztosítása érdekében – a szociális intézményben kötelezően alkalmazandó legkisebb létszámot jelenti.
+
+(4)[^45]
+
+(4a)[^46] A 2. számú melléklet alkalmazása körében
+
+a) szakmai létszámnormára vonatkozó előírások betartásával a személyes gondoskodást nyújtó intézmények, szolgálatok a saját szervezeti felépítésük és működési rendjük szerint gazdálkodnak a humán erőforrásokkal;
+
+b) az ajánlott munkakörökben foglalkoztatottak létszámát a fenntartó határozza meg;
+
+c) a létszámigényt – ha a létszámnorma ellátotti számra vagy férőhelyekre vetítve van meghatározva – főben kell meghatározni, a kerekítés általános szabályának figyelembevételével;
+
+d) házi segítségnyújtás keretében nyújtott személyi gondozás esetén
+
+da) a szociális gondozók havi számát az 5. számú melléklet A) pontja szerinti tevékenységnaplókban ellátottanként, havonta rögzített időtartamok összesítése alapján kell meghatározni,
+
+db) a tevékenység megkezdésének első hónapjában a megállapodásokban rögzített időtartamok összesítése az irányadó,
+
+dc) egy gondozó közvetlen gondozásra fordított havi órakerete éves átlagban 147 óra, úgy, hogy az ellátotti szám számítása során 21 óra = 1 fő ellátott;
+
+e)[^47] ha a nappali ellátást nyújtó, vagy a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható;
+
+f) a gazdasági, pénzügyi feladatok ellátásának ajánlott létszámai a bentlakásos intézmények esetén a következők:
+
+fa) gazdasági vezető 1 fő,
+
+fb) gazdasági ügyintéző (100 férőhelyenként) 2 fő,
+
+fc) ügyviteli létszám (pénztáros, könyvelő, raktáros stb. 50 férőhelyenként) 1 fő,
+
+fd) takarítónő (1000 m<sup>2</sup>-es takarítandó felületként) 1 fő,
+
+fe) műszaki létszám (beépített 4000 légköbméterenként) 1 fő,
+
+ff) mosónő, vasalónő (50 férőhelyenként) 1 fő,
+
+fg) varrónő (100 férőhelyenként) 1 fő,
+
+fh) élelmezésvezető (100 férőhely felett) 1 fő,
+
+fi) szakács, konyhalány (100 adagonként és további 30 adagonként) 5 fő + 1 fő;
+
+g) a gazdasági, pénzügyi feladatok ellátásának ajánlott létszámai az alapszolgáltatásokat nyújtó szociális intézmények esetén a következők:
+
+ga) gazdasági ügyintéző 1 fő,
+
+gb) takarító 1 fő,
+
+gc) konyhai kisegítő (100 adagonként) 1 fő;
+
+h) tartós bentlakásos intézményekben az intézményvezető kijelöli műszakonként a krízishelyzetre, korlátozó intézkedések eldöntésére jogosult személyt;
+
+i) a működés megkezdésekor szakosított ellátások esetében – a drogbetegeket ellátó intézmény, a hajléktalanok átmeneti intézményei és a lakóotthon kivételével – három hónapig legalább az alábbi személyi feltételekkel kell rendelkezni:
+
+ia) intézményvezető 1 fő,
+
+ib) ápoló, gondozó munkakör 5 fő,
+
+ic) orvos bejegyzés szerinti férőhelyre vetített létszám,
+
+id) a 2. számú melléklet többi munkakörére megállapított létszám a férőhelyek betöltöttségének arányában;
+
+j) a működés megkezdésének időpontját követő harmadik hónap végétől valamennyi szakosított ellátás esetében, valamennyi munkakörre vonatkozóan
+
+ja) a létszámot a betöltött férőhelyekkel arányosan kell biztosítani,
+
+jb) a létszám teljesítését a működést engedélyező szervnek be kell jelenteni, és a bejelentéshez csatolni kell a fenntartónak vagy – ha az alkalmazottakat a bentlakásos intézmény foglalkoztatja – a bentlakásos intézménynek és azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik, az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, valamint a szakképesítést bizonyító okirat másolatát;
+
+k) súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy;
+
+l) a támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban az előírt személyi feltételekkel kell rendelkeznie, majd ezt követően a létszámfeltételeket a komplex szükségletfelmérés összegző adatlapja szerint a szolgáltatás biztosításához szükséges óraszámnak az összes ellátottra számított összege határozza meg;
+
+m) támogatott lakhatás esetén, ha a fenntartó az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatási elemeket az Szt. 75. § (2) bekezdés b) pontja szerint biztosítja, a szolgáltatási elemet nyújtó munkatársakat az adott alapszolgáltatásra meghatározott munkakörökben foglalkoztathatja;
+
+n) a közösségi ellátások esetén, valamint a pszichiátriai és szenvedélybetegek nappali ellátásában, rehabilitációs intézményében és rehabilitációs lakóotthonában a tapasztalati szakértő ajánlott létszámban foglalkoztatható;
+
+o) az orvos munkakör megbízási vagy vállalkozási jogviszonyban is betölthető;
+
+p) a három műszakos folyamatos ellátást biztosító intézményben – a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont kivéve – az ápolói, gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
+
+(5)[^48] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű, valamint a szakápolási központban szakápolást végző személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén három évre felmentést adhat, ha
+
+a) a munkakört betölteni kívánó személy a képesítés megszerzése érdekében már szakirányú oktatásban vesz részt,
+
+b) az adott munkakör betöltésére nem áll rendelkezésre a képesítési előírásoknak megfelelő személy, és a munkakört betölteni kívánó személy vállalja a szükséges szakirányú képesítés megszerzését, vagy
+
+c) családsegítés és gyermekjóléti szolgáltatás esetén a munkavállaló az előírt végzettséget a nyelvvizsga hiánya miatt nem szerezte még meg,
+
+azzal, hogy a felmentés időtartama nem hosszabbítható meg.
+
+(5a)[^49] A 3. számú melléklet alkalmazásában
+
+a) a gondozó, ápoló, segítő, asszisztens munkakörök betöltéséhez nincs felsőfokú képesítési elvárás, de a munkakörhöz illeszkedő felsőfokú végzettséggel és szakképzettséggel is betölthetőek,
+
+b) a falugondnok, tanyagondnok munkakörök betöltéséhez nincs középfokú képesítési elvárás, de bármely középfokú végzettséggel és szakképzettséggel is betölthetőek,
+
+c) ha alapképzésben szerzett végzettséget jelöl a táblázat egy munkakörnél, az adott munkakör az alapképzésben szerzett végzettségre épülő mesterképzésben szerzett végzettséggel is betölthető,
+
+d)[^50] az intézményvezető a pszichiátriai beteg, szenvedélybeteg, demens vagy autista személyeket gondozó bentlakást nyújtó intézmények esetén a gondozó, ápoló és terápiás munkakörök vonatkozásában munkakörönként legalább 1-1 fő, az adott szakmai egység célcsoportjának megfelelő, e melléklet szerinti kiegészítő szakirányú képesítéssel rendelkező foglalkoztatott jelenlétét köteles minden műszakban biztosítani.
+
+(5b)[^51] A 3. melléklet szerinti munkaköröket az (5c) és (5d) bekezdésben foglaltaknak megfelelően kell szakmacsoport szerint besorolni.
+
+(5c)[^52] A Szociális, gyermekjóléti és gyermekvédelmi szolgáltatás, ellátás vezető szakmacsoportba tartozó munkakörök:
+
+a) intézményvezető,
+
+b) vezető ápoló, vezető szakápoló.
+
+(5d)[^53] A 3. melléklet szerinti nem vezetői munkakörök közül
+
+a) a Személyes gondoskodást nyújtó szakember szakmacsoportba tartozó munkakörök:
+
+aa) gondozó,
+
+ab) ápoló,
+
+ac) szakápoló,
+
+ad) orvos;
+
+b) a Szociális és gyermekjóléti fejlesztő szakember szakmacsoportba tartozó munkakörök:
+
+ba) terápiás munkatárs,
+
+bb) fejlesztő pedagógus;
+
+c) a Szociális és gyermekjóléti segítő szakember szakmacsoportba tartozó munkakörök:
+
+ca) szociális munkatárs,
+
+cb) segítő, falugondnok, tanyagondnok,
+
+cc) esetfelelős,
+
+cd) asszisztens.
+
+(6)[^54] A személyes gondoskodást végző, vezetői megbízással rendelkező személyek a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet szerinti vezetőképzés teljesítésére kötelesek.
+
+(7)[^55]
+
+(8)[^56]
+
+(8a)[^57] A vezetői megbízással rendelkező személyek vezetőképzésen vesznek részt.
+
+(9)[^58] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy feladatait az intézmény szervezeti és működési szabályzatában és a munkaköri leírásban foglaltak szerint végzi.
+
+(10)[^59] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy, valamint közeli hozzátartozója [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja] és élettársa az ellátásban részesülő személlyel tartási, életjáradéki és öröklési szerződést az ellátás időtartama alatt – illetve annak megszűnésétől számított egy évig – nem köthet.
+
+(11)[^60] A személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére munkaruhát kell biztosítani. A munkaruha-juttatás feltételeit a munkáltató állapítja meg. Az alap- és a szakellátást biztosító intézményekben az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek részére szükség esetén védőruhát is kell biztosítani. Az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek alatt a 257/2000. (XII. 26.) Korm. rendelet 2. számú mellékletének I. ,,Ágazatspecifikus munkakörök a szociális területen'' cím alatt megjelölt munkakörökben foglalkoztatottakat kell érteni.
+
+(12)[^61] Azt a személyt, aki a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott, a felmentés ideje alatt a 2. számú mellékletben – családsegítés és gyermekjóléti szolgáltatás esetében a 15/1998. (IV. 30.) NM rendelet 1. számú mellékletében – meghatározott létszámnormák teljesítése szempontjából szakképzettnek kell tekinteni.
+
+(13)[^62] Ha szociális szolgáltatás, illetve ellátás a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermekjóléti, gyermekvédelmi ellátással egy intézmény, szolgáltató keretében kerül megszervezésre, az intézményvezetői munkakört az intézmény, szolgáltató által nyújtott bármelyik ellátási, szolgáltatási forma vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelelő személy betöltheti.
+
+(14)[^63] A módszertani feladatokat felsőfokú végzettséggel rendelkező személy láthatja el.
+
+(15)[^64] Házi segítségnyújtásban, jelzőrendszeres házi segítségnyújtásban, nappali ellátásban – ide nem értve a pszichiátriai betegek nappali ellátását –, valamint bentlakást nyújtó ellátásban a szakirányú szakképesítéssel nem rendelkező segítő – ideértve az általános iskolai végzettséggel rendelkező személyt is –, gondozó, valamint ápoló munkakörökben foglalkoztatottak a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörüknek megfelelő képzés teljesítésére kötelesek a foglalkoztatásuk megkezdését követő egy éven belül.
+
+(16)[^65] Mentesül a képzési kötelezettség alól az a munkakört betölteni kívánó személy, aki az (5) bekezdés a) pontja alapján a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott.
+
+##### 6/A. §[^66]
+
+(1)[^67] Amennyiben a nappali intézményben ellátott a külön jogszabály szerinti fejlesztő foglalkoztatásban vesz részt, az ellátottat a nappali intézményre vonatkozó szakmai létszámnormák tekintetében – az intézményvezetőre vonatkozó létszámnorma kivételével – nem kell figyelembe venni.
+
+(2) A külön jogszabály szerinti külső férőhelyet a szakmai létszámnormák számításánál nem kell figyelembe venni.
+
+(3) Az Szt. 57. §-ának (3) bekezdése, illetve 85/A. §-ának (1) bekezdése szerinti ellátotti létszámot külön kell vizsgálni a székhelyre és az egyes telephelyekre.
+
+#### Általános szakmai feltételek
+
+##### 7. §
+
+(1)[^68] Gondozási tervet kell készíteni
+
+a)[^69] a szakosított intézményi ellátásban részesülő személyre vonatkozóan, ide nem értve az idősotthoni ellátásban részesülő gondozási szükséglettel nem rendelkező személyt és a támogatott lakhatást vagy szakápolási központ ellátását igénybevevő személyt.
+
+b)[^70] az idős, fogyatékos, pszichiátriai vagy szenvedélybeteg személyek részére átmeneti elhelyezést biztosító intézményi ellátásban részesülő személyre vonatkozóan, ha az ellátást legalább hat hónap időtartamra veszi igénybe, valamint a hajléktalan személyek átmeneti szállásán ellátásban részesülő személyre vonatkozóan, ide nem értve a külső férőhelyen nyújtott ellátást,
+
+c)[^71] az alapszolgáltatásban részesülő személyre vonatkozóan akkor, ha azt e rendelet kötelezővé teszi.
+
+(2) A gondozási terv egyénre szabottan határozza meg az ellátásban részesülő állapotának megfelelő gondozási, ápolási, fejlesztési feladatokat és azok megvalósításának módszereit. A gondozási tervet az ellátás igénybevételét követően egy hónapon belül kell elkészíteni.
+
+(3) A gondozási terv típusai
+
+a) az egyéni gondozási terv,
+
+b) az egyéni rehabilitációs program,
+
+c) az egyéni fejlesztési terv.
+
+(4)[^72] Az egyéni gondozási terv – a fogyatékos személyek otthona és a szakápolási központ kivételével – az ápolást, gondozást nyújtó intézményben elhelyezett, valamint az (1) bekezdés c) pontjában meghatározott alapszolgáltatásban részesülő személy ellátásához kapcsolódó, az e rendeletben meghatározott feladatokat rögzíti.
+
+(5) Az egyéni rehabilitációs program – a fogyatékos személyek rehabilitációs intézménye kivételével – a rehabilitációs intézményben elhelyezett személy számára nyújtott életvezetési, pszichés, mentális, szociális, a foglalkoztatáshoz való segítségnyújtást tartalmazó dokumentáció.
+
+(6) Az egyéni fejlesztési terv a fogyatékos személyek rehabilitációs intézményében, valamint a fogyatékos személyek otthonában, illetve a lakóotthonban elhelyezett személy részére az egyénre szabott bánásmód leírását, az önellátási képesség fejlesztését tartalmazó dokumentáció. Az egyéni fejlesztési terv az ellátott személyről készített (gyógy)pedagógiai, egészségi és mentális állapotra vonatkozó jellemzés alapján készül.
+
+(7) Ha a rehabilitációs intézményben, a pszichiátriai betegek otthonában, valamint a fogyatékos személyek otthonában ellátott személynek az Szt. 112. § (3) bekezdésében meghatározott szakértői bizottság más szociális intézménybe történő áthelyezését javasolja, az ellátott részére ezen intézménytípusra előírt gondozási tervtípust kell elkészíteni.
+
+##### 8. §
+
+(1)[^73] A gondozási terv elkészítéséről és az abban meghatározott feladatok teljesítéséről tartós bentlakásos, illetve átmeneti intézményi ellátásban részesülő személy esetén az intézmény vezetője gondoskodik.
+
+(2) A gondozási tervet, annak módosítását az ellátást igénybe vevő személlyel, illetve törvényes képviselőjével közösen kell elkészíteni. A gondozási terv eredményességének feltétele az ellátást igénybe vevő aktív közreműködése.
+
+(3) A gondozási terv kidolgozását munkacsoport végzi, amelyben az ellátásban részesülő személlyel közvetlenül foglalkozó szakember, valamint az intézményvezető által kijelölt szakemberek vesznek részt (pl. orvos, gyógypedagógus, foglalkoztatás vezető, mentálhigiénés szakember).
+
+(4) A gondozási terv orvosszakmai kérdéseiről az intézmény orvosa pontos és részletes tájékoztatást nyújt az ellátást igénybe vevő részére.
+
+##### 8/A. §[^74]
+
+Az alapszolgáltatásban részesülő személy esetében a gondozási terv elkészítéséről a gondozást végző személy, az abban meghatározott feladatok teljesítésének biztosításáról a szolgáltatás szakmai vezetője gondoskodik. A gondozási terv elkészítésére a 8. § (2) bekezdésében foglaltakat alkalmazni kell.
+
+##### 8/B. §[^75]
+
+Amennyiben a kiskorúság miatt korlátozottan cselekvőképes 16 és 18 év közötti személy az Szt. 93. § (4) bekezdése szerint a törvényes képviselő beleegyezése vagy jóváhagyása nélkül tesz jognyilatkozatot, a szenvedélybetegek közösségi alapellátását és nappali ellátását nyújtó szolgáltató a családdal való kapcsolatfelvétel eredménytelensége esetén felveszi a kapcsolatot az illetékes család- és gyermekjóléti szolgálattal. A szakmai kapcsolatfelvételt követően a szolgáltatók az igénybe vevő ellátása érdekében együttműködnek és kölcsönösen tájékoztatják egymást.
+
+#### Az egyéni gondozási terv
+
+##### 9. §
+
+(1) Az egyéni gondozási terv tartalmazza
+
+a) az ellátott személy fizikai, mentális állapotának helyzetét,
+
+b) az állapotjavulás, illetve megőrzés érdekében szükséges, illetve javasolt feladatokat, azok időbeli ütemezését,
+
+c) az ellátott részére történő segítségnyújtás egyéb elemeit.
+
+(2)[^76] Az ellátásban részesülő személlyel közvetlenül foglalkozó szakember folyamatosan figyelemmel kíséri és elősegíti az egyéni gondozási tervben meghatározottak érvényesülését. Az egyéni gondozási tervet kidolgozó munkacsoport, illetve az alapszolgáltatások esetében a gondozási tervet készítő személy évente – jelentős állapotváltozás esetén annak bekövetkeztekor – átfogóan értékeli az elért eredményeket, és ennek figyelembevételével módosítja az egyéni gondozási tervet.
+
+#### Az egyéni rehabilitációs program
+
+##### 11. §
+
+(1) Az egyéni rehabilitációs program tartalmazza
+
+a) a segítségnyújtás formáit, a rehabilitáció egyes elemeinek meghatározását a segítő folyamatban,
+
+b) a rehabilitációval elérendő rövid és hosszú távú célok meghatározását, a várható eredmények elérésének módját, időtartamát, ütemezését,
+
+c) a hiányzó, vagy korlátozottan meglévő személyes funkciók helyreállítása, pótlása érdekében teendő intézkedéseket,
+
+d) a konfliktushelyzetek kezelésének, megoldásának módjait,
+
+e) szükség esetén az intézményen kívüli élet, vagy a védett környezetben történő életkörülmények kialakításának módjait,
+
+f) az ellátást igénybe vevőnek a társadalomba, a korábbi közösségébe történő visszailleszkedése érdekében szükséges, koordinált intézkedéseket.
+
+(2) A rehabilitációs program eredményeit a programot kidolgozó munkacsoport félévente értékeli, szükség esetén módosítja a programot, meghatározza a további feladatokat.
+
+#### Az egyéni fejlesztési terv
+
+##### 12. §
+
+(1) Az egyéni fejlesztési terv tartalmazza
+
+a) az ellátást igénybe vevő állapotának leírását és az abban bekövetkezett változást, az egyéni fejlődést,
+
+b) az egyénileg szükséges külön szolgáltatásokat, pedagógiai, mentális, egyéb segítségnyújtási feladatokat, azok időbeli ütemezését, a foglalkoztatásban való részvételt,
+
+c) szükség szerint az új szolgáltatás vagy az új ellátási forma igénybevételére való felkészítést,
+
+d) a hiányzó, vagy korlátozottan meglévő személyes funkciók helyreállítása, pótlása érdekében teendő intézkedéseket,
+
+e) a konfliktushelyzetek kezelésének, megoldásának módjait.
+
+(2) Az egyéni fejlesztési tervet kidolgozó munkacsoport félévente értékeli az elért eredményeket, és szükség esetén módosítja az egyéni fejlesztési tervet.
+
+#### Az egyéni szolgáltatási terv[^78]
+
+##### 12/A. §[^79]
+
+(1) A támogatott lakhatást igénybevevők esetében egyéni szolgáltatási tervet kell készíteni.
+
+(2) Az egyéni szolgáltatási terv a 110/B–110/C. § szerinti komplex szükségletfelmérés eredményén és tartalmán alapul.
+
+(3) Az egyéni szolgáltatási terv tartalmazza
+
+a)[^80] az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatások nyújtásának felelőseit,
+
+b) a szolgáltatásnyújtással elérendő rövid- és hosszú távú célok meghatározását, a várható eredmények elérésének módját, időtartamát, ütemezését,
+
+c) az életvitel támogatását szolgáló tevékenységek körét és a megvalósításhoz szükséges eszközöket,
+
+d) a kockázati tényezők felsorolását és azok elhárításának lehetséges eszközeit, módját és eljárásrendjét,
+
+e) az ellátást igénybevevőnek a társadalomba, a közösségbe történő beilleszkedése érdekében szükséges, koordinált intézkedéseket,
+
+f) a család és az egyéb támogatók bevonásának módját, a támogatói háló tagjait,
+
+g) az Szt. 75. § (3) bekezdése alapján a más szervezet által biztosított szolgáltatásokat és azok felelőseit.
+
+(4) Az egyéni szolgáltatási tervet a szolgáltatás nyújtásának kezdő időpontjától számított három hónap elteltével felül kell vizsgálni, majd ezt követően legalább félévente értékelni, és szükség esetén – a komplex szükségletfelmérés eredményére és tartalmára figyelemmel – módosítani kell.
+
+(5) Az egyéni szolgáltatási tervet és a (4) bekezdés szerinti módosításait az intézményvezető, a támogatott lakhatást igénybevevő személy, valamint az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatásokat nyújtó intézmény, szolgáltató vezetője által kijelölt személy írja alá.
+
+#### Az intézmény szakmai munkájának értékelése
+
+##### 13. §
+
+Az állami fenntartó az Szt. 92/B. §-ában meghatározott feladataira figyelemmel, legalább évente egyszer ellenőrzi és ennek alapján átfogóan értékeli a személyes gondoskodást nyújtó intézmény működését. Az értékelés magában foglalja különösen
+
+a) az intézménybe történő felvétel gyakorlatát, a megkötött megállapodások tartalmi vizsgálatát, szakmai szempontú elemzését,
+
+b) az intézmény feladatainak ellátására vonatkozó szakmai program megvalósulását,
+
+c) az intézmény működésének általános feltételeit, a tárgyi, a személyi, a működési, illetve a szakmai feltételeket,
+
+d)[^81] a gondozási tervek hatékonyságát, eredményességét, összhangban az intézményben folyó ápolási-gondozási munkával,
+
+e) az intézmény szerepét a helyi szociális ellátórendszerben, valamint az ellátotti szükségletek alakulásának ismert tendenciáit.
+
+#### A szakmai program véleményezéséért fizetendő szakértői díj[^82]
+
+##### 14. §[^83]
+
+A fenntartó a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: Intézet) részére a szolgáltatói nyilvántartásba való bejegyzési eljárásokban szociális szolgáltatók, intézmények szakmai programjának jogszabály alapján, szakértőként végzett véleményezéséért szakértői díjat fizet, amelynek összege működési engedélyenként
+
+a) szociális szolgáltató esetén 16 000 forint,
+
+b) szociális intézmény esetén 24 000 forint,
+
+c) szociális szolgáltató és szociális intézmény egy telephelyen történő működése esetén a *b)* pont szerinti összeg.
+
+#### Egyéb feltételek[^84]
+
+##### 15. §[^85]
+
+(1) A szociális szolgáltatásnak a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
+
+a) szociális étkeztetés esetén az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményei,
+
+b) nappali ellátás és bentlakásos intézményi ellátás esetén
+
+ba) az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményei, kivéve az időszakos férőhelybővítést, a nappali ellátást és a lakóotthont, ha az engedélyes meleg étkeztetést nem nyújt,
+
+bb) az engedélyesre vonatkozó közegészségügyi, az ivóvízminőségi, a hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások, továbbá a bentlakásos szociális intézmény jogszabály szerinti kötelező szolgáltatásai körébe tartozó egészségügyi ellátáshoz szükséges személyi és tárgyi feltételek,
+
+bc) az engedélyesre vonatkozó építéshatósági követelmények, ideértve az akadálymentesítést is,
+
+c) támogatott lakhatás esetén
+
+ca) olyan ingatlan esetében, amelyben a meleg étkeztetést az engedélyes maga nyújtja, az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményei,
+
+cb) az Szt. 75. § (5) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan esetében, valamint olyan ingatlan esetében, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat az engedélyes maga nyújtja, az ellátás helyére vonatkozó közegészségügyi, az ivóvízminőségi, a hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások,
+
+cc) az Szt. 75. § (5) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan esetében, valamint olyan ingatlan esetében, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat az engedélyes maga nyújtja, az ellátás helyére vonatkozó építéshatósági követelmények, ideértve az akadálymentesítést is.
+
+(2) Az (1) bekezdésben meghatározott feltételekkel kapcsolatban jogszabály alapján egyedi előírás, feltétel is meghatározható.
+
+(3) Az (1) bekezdésben meghatározott feltételeket az engedélyes bejegyzésekor – az (5) és (6) bekezdésben meghatározott kivételekkel – vizsgálni kell.
+
+(4) Adatmódosítás során az (1) bekezdésben meghatározott feltételek közül – az (5) és (6) bekezdésben meghatározott kivételekkel – csak az alábbiaknak való megfelelést kell vizsgálni:
+
+a) szociális étkeztetés esetén az (1) bekezdés a) pontja szerinti feltételek, ha az adatmódosítás célja szociális étkeztetés bejegyzése, és az ehhez kapcsolódó követelményeket korábban nem vizsgálták meg,
+
+b) nappali ellátás és bentlakásos intézményi ellátás esetén
+
+ba) a változással összefüggésben az (1) bekezdés b) pont *bb)* és *bc)* alpontja szerinti feltételek, továbbá – ha a változás érinti – az (1) bekezdés b) pont ba) alpontja szerinti feltételek, ha az engedélyes címe megváltozik – a közterület átnevezéséből, átszámozásából adódó címváltozás kivételével –, a szociális szolgáltatásba az engedélyes elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy az adatmódosítás célja valamely e pont szerinti szociális szolgáltatás bejegyzése, és az ehhez kapcsolódó követelményeket korábban nem vizsgálták meg,
+
+bb) a változással összefüggésben a közegészségügyi feltételek, ha a férőhelyszám – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
+
+c) támogatott lakhatás esetén
+
+ca) az (1) bekezdés c) pont ca) alpontja szerinti feltételek olyan ingatlan bejegyzése esetén, amelyben a meleg étkeztetést az engedélyes maga kívánja nyújtani,
+
+cb) a változással összefüggésben az (1) bekezdés c) pont *cb)* és *cc)* alpontja szerinti feltételek, ha az adatmódosítás célja az Szt. 75. § (5) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan bejegyzése, az ingatlan működési formájának az Szt. 75. § (5) bekezdés c) pontja szerinti működési formára történő módosítása, vagy olyan ingatlan bejegyzése, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat a támogatott lakhatást nyújtó engedélyes maga kívánja nyújtani,
+
+d) ha az ideiglenes hatályú bejegyzés határozatlan vagy határozott idejű bejegyzésre történő módosítását, illetve hatályának meghosszabbítását, vagy az egyedi előírás, feltétel, illetve az egyedi szakhatósági előírás, feltétel módosítását vagy törlését kéri, az az (1) bekezdés szerinti feltétel, amely miatt a lakhatási szolgáltatást biztosító ingatlan, egyéb esetben a szolgáltatás ideiglenes hatállyal lett bejegyezve, illetve amely miatt az egyedi előírás, feltétel be lett jegyezve.
+
+(5) Nem kell vizsgálni az (1) bekezdés b) pontjában meghatározott követelményeket külső férőhelyek és az ellátottak számára nyitva álló egyéb helyiség kapcsán.
+
+(6) Nem kell vizsgálni az (1) bekezdésben meghatározott építéshatósági követelményeket – ideértve az akadálymentesítést is – olyan ingatlanban működő engedélyes (lakhatási szolgáltatást biztosító ingatlan) esetén,
+
+a) amelyre azonos rendeltetésre, a kérelem benyújtását megelőző egy éven belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki,
+
+b) amelyre azonos rendeltetésre, a kérelem benyújtását megelőző egy éven túl használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, és az eljárás során nem jut a működést engedélyező szerv tudomására olyan adat, amely e feltételek teljesítését kétségessé teszi,
+
+c) amelyben korábban is szociális intézmény működött, a korábbi engedélyes törlése a bejegyzés iránti kérelem benyújtását megelőző három hónapon belül vált végrehajthatóvá, a korábbi engedélyest (lakhatási szolgáltatást biztosító ingatlant) nem e feltételek hiánya miatt törölték a szolgáltatói nyilvántartásból, és az eljárás során nem jut a működést engedélyező szerv tudomására olyan adat, amely e feltételek teljesítését kétségessé teszi.
+
+(7)[^86] A tűzvédelmi feltételek vizsgálatát a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szabályozza.
+
+### II. Fejezet — ALAPSZOLGÁLTATÁSOK[^91]
+
+## 1. CÍM — KÖZÖS SZABÁLYOK[^92]
+
+##### 19. §
+
+(1)[^93] Az alapszolgáltatás keretében nyújtott személyes gondoskodást az ellátást igénybe vevő lakóhelyén lévő, illetve lakóhelyéhez legközelebb eső intézménynek, szolgáltatónak kell biztosítania.
+
+(2) Az (1) bekezdésben foglaltaktól az ellátást igénybe vevő kérésére el lehet térni, ha a személyes gondoskodást nyújtó az azonos ellátási formán belül választási lehetőséget biztosít, valamint akkor, ha az intézmény szabad férőhellyel, illetve kapacitással nem rendelkezik.
+
+(3)[^94] Az alapszolgáltatásban részt vevő, gondozási feladatokat ellátó személy részére az intézmény vezetője munkáltatói igazolványt állít ki, annak érdekében, hogy a gondozási, ápolási feladatok elvégzése során a feladat ellátására vonatkozó felhatalmazását igazolni tudja.
+
+(4)[^95] A társulás keretében vagy ellátási szerződés útján megszervezett alapszolgáltatások esetében tájékoztatni kell a lakosságot a szolgáltatásnak az adott településen való elérhetőségéről, a szolgáltatás helyéről, idejéről, gyakoriságáról.
+
+(5)[^96] Az alapszolgáltatások nyújtását a fenntartó nem szüneteltetheti, a folyamatos működésről távollét esetén a szervezeti és működési szabályzatban meghatározott módon, a szolgáltatást végző személynek a 3. számú mellékletnek megfelelő képesítéssel rendelkező személlyel történő helyettesítése, illetve másik szociális szolgáltatóval, intézménnyel, illetve annak fenntartójával kötött megállapodás révén gondoskodik.
+
+(6)[^97] A normatív hozzájárulás igénybevételének ellenőrzése érdekében a normatív hozzájárulást igénylő fenntartó, valamint a szociális szolgáltató, illetve intézmény a működést engedélyező szerv és a normatív állami hozzájárulást folyósító szerv rendelkezésére bocsátja az ellenőrzéshez szükséges adatokat és iratokat, egyben gondoskodik a normatív hozzájárulásból részesülő szolgáltatók, intézmények részéről szükséges adatok, iratok beszerzéséről.
+
+##### 19/A. §[^98]
+
+(1)[^99]
+
+(2)[^100]
+
+(3)[^101] Ha a házi segítségnyújtás, a családsegítés és gyermekjóléti szolgáltatás, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások, a támogató szolgáltatás, az utcai szociális munka, illetve a nappali ellátás más alapszolgáltatásokkal együtt vagy bentlakásos intézmény keretében kerül megszervezésre, biztosítani kell e szolgáltatások önálló szakmai egységként történő működtetését.
+
+(4)[^102]
+
+(5)[^103] A szakmai egységeket az intézményvezetőre meghatározott képesítési előírásoknak megfelelő személy vezetheti.
+
+(6)[^104] A szolgáltató, illetve az intézmény vezetője látja el a különböző szakmai egységek vezetését is a (7) bekezdésben foglaltak kivételével, ha az intézményben, illetve a szolgáltatónál foglalkoztatottak száma – a fenntartó mérlegelése szerint – nem teszi indokolttá az egyes szolgáltatások tekintetében az önálló vezetéssel működtetett szakmai egység kialakítását.
+
+(7)[^105] Ha a házi segítségnyújtást, illetőleg a családsegítést és gyermekjóléti szolgáltatást nyújtó szakmai egység keretében legalább 10 főt foglalkoztatnak, a szakmai egység vezetője nem lehet más szakmai egység, illetve a szolgáltató, intézmény vezetője.
+
+(8)[^106] Az (5)–(7) bekezdés szerinti esetekben a szakmai létszámnormák számításánál az egyes alapszolgáltatások vezetőjére előírt létszámot a szakmai egység, illetve a szolgáltató, intézmény vezetőjével betöltöttnek kell tekinteni.
+
+##### 19/B. §[^107]
+
+Ha az intézmény, szolgáltató a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ feladatait is ellátja, biztosítani kell a külön szakmai egységként történő működést.
+
+## 2. CÍM — ÉTKEZTETÉS[^108]
+
+##### 20. §
+
+(1)[^109] Az étkeztetés formái különösen a szociális konyha és a népkonyha keretében nyújtott ellátás.
+
+(2)[^110] Az étkeztetést nyújtó szociális szolgáltató, intézmény
+
+a) az önkormányzat rendeletében meghatározottak szerint részt vesz a szociális rászorultság megállapításában,
+
+b) – külön jogszabály szerint – előkészíti a szolgáltatás igénybevételéhez szükséges dokumentációt,
+
+c)[^111] vezeti a (3) bekezdés szerinti igénybevételi naplót.
+
+(3)[^112] Az igénybevételi naplót a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett formában kell vezetni.
+
+##### 21. §
+
+(1) Az étkeztetés a lakosság szükségleteinek megfelelően megszervezhető az étel
+
+a) kiszolgálásával egyidejű helyben fogyasztással,
+
+b) elvitelének lehetővé tételével,
+
+c) lakásra szállításával.
+
+(2)[^113] Az étkeztetés keretében főétkezésként legalább napi egyszeri meleg ételt kell biztosítani. Ha az étkezésben részesülő személy egészségi állapota indokolja, az orvos javaslatára – a népkonyha kivételével – az ellátást igénybe vevő részére diétás étkeztetést kell biztosítani.
+
+(3)[^114]
+
+(4) Az étel helyben fogyasztása esetén biztosítani kell a szolgáltatást igénybe vevők számának megfelelően
+
+a) kézmosási lehetőséget, nemenként elkülönített illemhelyet,
+
+b) evőeszközöket és étkészletet.
+
+(5) Igény esetén a munkaszüneti és pihenőnapon történő étkeztetés feltételeit is biztosítani kell, ha ez helyben megoldható.
+
+##### 22. §
+
+(1)[^115] A szociális konyha olyan alapszolgáltatási forma, ahol az étkeztetés keretében biztosított étel előállítása (melegítése) és kiszolgálása történik.
+
+(2) A szociális konyha a napi egyszeri főétkezésen kívül további étkezésre is lehetőséget nyújt a 21. § (1) bekezdésben szabályozott formák szerint.
+
+(3) Szociális konyha keretében nyújtott ellátásnak minősül
+
+a) az e célra létrehozott önálló konyhán, főzőhelyen (kifőzdében),
+
+b) iskolai, óvodai, munkahelyi és szociális intézményi étkezőhelyen,
+
+c) étkezésre jogosító utalvány ellenében, vendéglátóipari egységben vagy egyéb intézményben,
+
+d)[^116] ha az étel előállításának helyén az étel helyben fogyasztására nincs lehetőség, a 21. § (1) bekezdés b) vagy c) pontja szerint
+
+nyújtott szolgáltatás.
+
+##### 23. §
+
+(1) A népkonyha alkalmi jelleggel és helyben fogyasztással legalább napi egyszeri egy tál meleg ételt biztosít azoknak a szociálisan rászorult személyeknek, akik más étkeztetési formát nem vesznek igénybe.
+
+(2) Népkonyhát elsősorban olyan településen (településrészen) indokolt létrehozni, ahol a rászorulók életformája miatt elsősorban alkalmi étkeztetés iránt van igény.
+
+(3)[^117] A népkonyhán kiszolgált egy adag ételnek a közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló 37/2014. (IV. 30.) EMMI rendelet 3. mellékletében a 19–69 éves korcsoport esetén napi egyszeri étkezésre előírt energiaszükséglet legalább 120%-át kell biztosítania.
+
+## 3. CÍM — HÁZI SEGÍTSÉGNYÚJTÁS[^119]
+
+##### 25. §
+
+(1)[^120] A házi segítségnyújtás olyan szolgáltatás, amely az igénybe vevő önálló életvitelének fenntartását – szükségleteinek megfelelően – lakásán, lakókörnyezetében biztosítja.
+
+(2)[^121] A házi segítségnyújtás hozzájárul ahhoz, hogy az ellátást igénybe vevő fizikai, mentális, szociális szükséglete
+
+a) saját környezetében,
+
+b) életkorának, élethelyzetének és egészségi állapotának megfelelően,
+
+c) meglévő képességeinek fenntartásával, felhasználásával, fejlesztésével
+
+biztosított legyen.
+
+(3)[^122] Az Szt. 63. § (3) és (4) bekezdése szerinti, a központi költségvetésről szóló törvényben meghatározott támogatásra jogosító tevékenységeket és résztevékenységeket az 5. számú melléklet tartalmazza.
+
+(3a)[^123]
+
+(3b)[^124] Egy ellátott esetében azon napok számának, amelyen számára személyi gondozást is nyújtottak, éves átlagban el kell érnie az összes gondozási nap legalább 50%-át.
+
+(4)[^125] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
+
+##### 25/A. §[^126]
+
+A házi segítségnyújtás
+
+a) a személyi gondozás keretében gondozás és háztartási segítségnyújtás,
+
+b) a szociális segítés keretében háztartási segítségnyújtás
+
+szolgáltatási elemet biztosít.
+
+##### 26. §[^127]
+
+A házi segítségnyújtás intézményvezetőjének vagy a szakmai egységet irányító vezetőnek munkakörébe tartozó feladatok különösen
+
+a)[^128] a lakosság körében felmerülő alapszolgáltatási igények folyamatos figyelemmel kísérése,
+
+b) az intézmény által biztosított szolgáltatások, gondozási feladatok ellátásának koordinációja, a szakmai munka összehangolása, szervezési, vezetési feladatok ellátása,
+
+c) a szociális munka gyakorlati hatékonyságának és hatásosságának elősegítése,
+
+d) a szolgáltatásokra és a gondozási munkára vonatkozó jogszabályok, szakmai szabályok érvényre juttatása,
+
+e)[^129] kapcsolattartás más szociális, illetve egészségügyi intézményekkel, szolgáltatókkal,
+
+f) az adott szociális intézmény és szociálpolitikai eszközrendszer fejlesztésének elősegítése,
+
+g) más típusú ellátás szükségessége esetén, annak kezdeményezése.
+
+##### 27. §
+
+(1)[^130]
+
+(2)[^131] Rendszeres házi segítségnyújtás csak fertőzésmentes lakókörnyezetben rendelhető el. Ha fertőző beteg gondozása szükséges, ki kell jelölni egy gondozót, aki a fertőző állapot időtartama alatt kizárólag a fertőző beteget gondozza, ilyen esetben a fertőzés elkerülése érdekében szükséges tárgyi feltételeket és felkészítést biztosítani kell.
+
+(3)[^132] A házi segítségnyújtás keretében kizárólag szociális segítés – segítő munkakörben – a személyi jövedelemadóról szóló törvényben meghatározott szociális gondozói díjban részesíthető társadalmi gondozó alkalmazásával, közérdekű önkéntes tevékenység keretében, közfoglalkoztatotti jogviszonyban álló személyek vagy szociális szövetkezet igénybevételével is nyújtható.
+
+(4)[^133]
+
+(5)[^134] A szociális gondozó és a segítő munkakörben foglalkoztatott napi tevékenységéről az 5. számú melléklet szerinti tevékenységnaplót vezet, ellátottanként, az 5. számú melléklet szerinti tevékenységeken belüli résztevékenységek megnevezéseinek feltüntetésével. A tevékenységnaplót az intézményvezető havonta írja alá.
+
+(6)[^135] A szociális gondozók létszáma az 5. számú melléklet A) pontja szerinti tevékenységnaplókban ellátottanként, havonta rögzített időtartamok összesítése alapján kerül megállapításra. A tevékenység megkezdésének első hónapjában a megállapodásokban rögzített időtartamok összesítése az irányadó.
+
+#### JELZŐRENDSZERES HÁZI SEGÍTSÉGNYÚJTÁS[^136]
+
+##### 28. §[^137]
+
+(1) A jelzőrendszeres házi segítségnyújtás megszervezéséhez biztosítani kell
+
+a) a segélyhívásokat fogadó diszpécserközpontot,
+
+b)[^138] a segítségnyújtást végző gondozókat foglalkoztató olyan szakmai központot vagy központokat, amelyek a teljes ellátási terület vonatkozásában biztosítják a gondozónak a (4) bekezdés szerinti időtartamon belüli helyszínre érkezését.
+
+(2) Egy szakmai központ keretében legalább 40, a segélyhívó készülék megfelelő használatára képes időskorú vagy fogyatékos személy, illetve pszichiátriai beteg otthonában kell segélyhívó készüléket elhelyezni. A diszpécserközpontot úgy kell kialakítani, hogy annak folyamatos működése és elérhetősége biztosított legyen. Egy diszpécserközpont több szakmai központ ellátási területéről fogadhat segélyhívásokat.
+
+(3) A jelzőrendszeres házi segítségnyújtás működtetéséhez biztosítani kell
+
+a)[^139] a műszaki rendszer körében az ellátottnál elhelyezett segélyhívó készüléket, jelzést továbbító berendezést, a jelzés fogadására alkalmas vevőberendezést, továbbá ügyeleti személyi számítógépet ügyeleti szoftverrel,
+
+b) a gondozó saját felszerelése körében mobiltelefont, készenléti táskát, továbbá a gyors helyszínre érkezéshez szükséges feltételeket.
+
+(4)[^140] A jelzőrendszeres házi segítségnyújtás folyamatos készenléti rendszerben működik. A diszpécserközpont segélyhívás esetén – a segítséget kérő nevének, címének és az egyéb rendelkezésre álló információknak a közlésével – értesíti a készenlétben levő gondozót. A gondozónak 30 percen belül kell az ellátott lakásán megjelennie.
+
+(5)[^141]
+
+(6)[^142] A (3) bekezdés a) pontja szerinti műszaki rendszernek alkalmasnak kell lennie az események dokumentálására, az önellenőrzésre, a szociális gondozó helyszínre érkezésének nyugtázására, valamint a kétirányú kommunikációra. Az ellátottnál elhelyezett segélyhívó készüléknek testen viselhetőnek, ütés- és cseppállónak kell lennie.
+
+##### 28/A. §[^143]
+
+A jelzőrendszeres házi segítségnyújtás felügyelet szolgáltatási elemet biztosít.
+
+##### 29. §[^144]
+
+(1) A jelzőrendszeres házi segítségnyújtás szakmai programjának az 5/A. § (1) bekezdésben meghatározottakon túl tartalmaznia kell
+
+a) a használt műszaki rendszer leírását,
+
+b) a segítségnyújtás – a segélyhívástól a krízishelyzet megoldásáig tartó – folyamatának a leírását.
+
+(2) A jelzőrendszeres házi segítségnyújtás esetén nem kell gondozási naplót vezetni és egyéni gondozási tervet készíteni.
+
+(3)[^145]
+
+## 4. CÍM[^146] — Szociális diagnózis[^147]
+
+##### 30. §[^148]
+
+(1)[^149] A szociális diagnózist a szociális diagnózist készítő esetmenedzser a (2) bekezdés szerinti adattartalommal, a szociálpolitikáért felelős miniszter által e célra rendszeresített, Szociális Ágazati Portálon közzétett adatlapon készíti el.
+
+(2) A szociális diagnózis az egyén
+
+a) személyi állapotára és családi kapcsolataira,
+
+b) lakhatási körülményeire,
+
+c) egészségi állapotára és esetleges fogyatékosságára,
+
+d) mindennapi életvitelére, egyes képességei hiányából fakadó nehézségeire,
+
+e) kommunikációjára, személyes kapcsolataira,
+
+f) munkaerőpiaci státuszára,
+
+g) krízishelyzetek kezelésére vonatkozó képességére,
+
+h) támogatást igénylő életterületeinek felmérésére, a támogatás mértékére és
+
+i) számára igénybe venni javasolt ellátások, szolgáltatások meghatározására
+
+vonatkozó adatokat tartalmazza.
+
+(3) A szociális diagnózist készítő esetmenedzser feladata a szociális diagnózis elkészítése során
+
+a) az igénylő, valamint családja helyzetének megismerése, szükségletei meglétének vagy hiányának, valamint jogosultságának megállapítása,
+
+b) a megfelelő szolgáltatások és szolgáltatási elemek megállapítása,
+
+c) az igénylő tájékoztatása a számára szükséges szolgáltatások elérhetőségéről vagy hiányáról, szükség esetén segítségnyújtás a szolgáltatóval történő kapcsolatfelvételben.
+
+(4) A szociális diagnózist készítő esetmenedzser feladata a járás területén elérhető szociális szolgáltatások, gyermekjóléti alapellátások, egészségügyi, munkaerőpiaci, karitatív és egyéb szolgáltatások feltérképezése és a rájuk vonatkozó információk évenkénti aktualizálása.
+
+(5) A szociális diagnózis elkészítése irányított személyes interjún alapul, amely során a szociális diagnózist készítő esetmenedzser az ellátást igénylőt bevonja a diagnózis készítésébe.
+
+(6) A szociális diagnózis elkészítésébe az ellátást igénylő hozzájárulásával más szakember is bevonható.
+
+(7)[^150] A személyes interjú felvétele során az esetmenedzser döntése alapján több személyes találkozásra is sor kerülhet. A szociális diagnózist az első interjútól számított 15 munkanapon belül kell elkészíteni, figyelemmel a szociális, gyermekjóléti és gyermekvédelmi igénybevevői nyilvántartásról és az országos jelentési rendszerről szóló 415/2015. (XII. 23.) Korm. rendelet 7/A. § (2) bekezdésében foglaltakra. Az ellátást igénylő krízishelyzete esetén a szolgáltatás a szociális diagnózis elkészítése előtt is igénybe vehető.
+
+(8) A szociális diagnózist a szociális diagnózist készítő esetmenedzser és a szolgáltatást igénylő személy aláírja.
+
+(9) A szociális diagnózis az aláírás időpontjától számított hat hónapig használható fel az Szt. 64/A. § (3) bekezdése szerint szolgáltatás igénylésére.
+
+(10) A szociális diagnózist készítő esetmenedzsernek a foglalkoztatás kezdő időpontjától számított egy éven belül el kell végeznie a szociális diagnózist készítő esetmenedzseri képzést. Nem kell elvégezni a szociális diagnózist készítő esetmenedzseri képzést azon személyeknek, akik részt vettek az EFOP-3.8.2-16 „Szociális humán erőforrás fejlesztés” elnevezésű, európai uniós finanszírozású projekt keretében szervezett képzésben.
+
+(11)[^151] A szociális diagnózist készítő esetmenedzser nem foglalkoztatható osztott munkakörben.
+
+#### Falugondnoki, tanyagondnoki szolgáltatás[^160]
+
+##### 39. §
+
+(1)[^161] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül alapfeladatnak minősül
+
+a) a közreműködés
+
+aa) az étkeztetésben,
+
+ab) a házi segítségnyújtásban,
+
+ac) a közösségi és szociális információk szolgáltatásában;
+
+b) az egészségügyi ellátáshoz való hozzájutás biztosítása, így
+
+ba) a háziorvosi rendelésre szállítás,
+
+bb)[^162] az egyéb egészségügyi szolgáltatóhoz szállítás,
+
+bc) a gyógyszerkiváltás és a gyógyászati segédeszközökhöz való hozzájutás biztosítása;
+
+c) az óvodáskorú, iskoláskorú gyermekek szállítása, így
+
+ca) az óvodába, iskolába szállítás,
+
+cb) az egyéb gyermekszállítás.
+
+(2)[^163] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül kiegészítő feladatnak minősülnek a lakossági szolgáltatások, így
+
+a) a közösségi, művelődési, sport- és szabadidős tevékenységek szervezése, segítése,
+
+b) az egyéni hivatalos ügyek intézésének segítése, lakossági igények továbbítása,
+
+c)[^164] az egyéb lakossági szolgáltatások, illetve az (1) bekezdés a) pontjában meghatározottakon kívüli egyéb szociális és gyermekjóléti alapszolgáltatások biztosításában való közreműködés.
+
+(3)[^165] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott, az önkormányzati feladatok megoldását segítő, közvetett szolgáltatásnak minősül
+
+a) az ételszállítás önkormányzati intézménybe,
+
+b) az önkormányzati információk közvetítése a lakosság részére,
+
+c) a falugondnoki szolgálat működtetésével kapcsolatos teendők ellátása.
+
+(3a)[^166] A (3) bekezdésben meghatározott feladatok a szolgáltatásnyújtás legfeljebb 50%-át tehetik ki.
+
+(4)[^167] A falugondnok tevékenységét a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett tevékenységnaplóban kell dokumentálni. A szolgáltatáshoz használt gépjármű menetlevelén fel kell tüntetni, hogy a gépjárművet a falugondnoki szolgáltatás ellátásához veszik igénybe.
+
+(5)[^168] Falu-, illetve tanyagondnoki munkakörben csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontját követő 15 napon belül a munkáltató bejelentett a munkakör betöltéséhez szükséges falu- és tanyagondnoki alapképzésre, és azt a munkakör betöltője a foglalkoztatás kezdő időpontjától számított egy éven belül elvégzi.
+
+(5a)[^169] A falu- és tanyagondnoki alapképzésre a falu- és tanyagondnok munkáltatója az (5) bekezdésben meghatározott személyeken túl a fenntartó települési önkormányzat vagy társulás fenntartásában működő szolgáltatónál, intézménynél más munkakörben vagy a fenntartó települési önkormányzat, társulás esetében a társuláshoz tartozó települések önkormányzatainak polgármesteri hivatalában vagy a közös önkormányzati hivatalban foglalkoztatott személyt is bejelenthet.
+
+(6)[^170] A falu- és tanyagondnoki szolgáltatás
+
+a) szállítás,
+
+b) megkeresés és
+
+c) közösségi fejlesztés
+
+szolgáltatási elemet biztosít.
+
+(7)[^171]
+
+(8)[^172] Ha a falugondnoki szolgálat feladatait más intézmény keretében látja el, az intézményben biztosítani kell a falugondnoki szolgálat önálló szakmai egységként történő működtetését. Ebben az esetben az intézmény alapító okirata tartalmazza a falugondnoki szolgálat feladatainak ellátását is.
+
+(9)[^173] E rendeletnek a falugondnoki szolgáltatásra vonatkozó szabályait a tanyagondnoki szolgáltatás esetén is alkalmazni kell.
+
+## 6. CÍM[^174] — TÁMOGATÓ SZOLGÁLTATÁS[^175]
+
+##### 39/A. §[^176]
+
+(1) A támogató szolgálat feladata – az Szt. 65/C. §-ának (3) bekezdésében meghatározottak érdekében – különösen
+
+a) személyi segítő szolgálat működtetése, amely – a fogyatékos személy aktív közreműködésével – segítséget nyújt
+
+aa) a fogyatékos ember személyi (higiénés, életviteli, életfenntartási) szükségleteinek kielégítéséhez,
+
+ab) a társadalmi életben való teljes jogú részvételhez,
+
+ac) az önálló munkavégzéshez, tanulmányok folytatásához, szociális és egészségügyi szolgáltatások igénybevételéhez, kulturális, művészeti, sport, szabadidős tevékenységek végzéséhez,
+
+b) szállító szolgálat működtetése az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatásokhoz való hozzájutás biztosítása érdekében,
+
+c)[^177]
+
+(2) A támogató szolgálatot úgy kell megszervezni, hogy annak tevékenysége az ellátási területen élő valamennyi fogyatékossági csoportba tartozó személyre kiterjedjen, és szolgáltatásai – a háziorvos javaslatának figyelembevételével – az egyéni szükségletekhez igazodjanak.
+
+(3) A támogató szolgálat vezetője szükség szerint, de legalább két hetente esetmegbeszélést tart.
+
+(4)[^178]
+
+##### 39/B. §[^179]
+
+A támogató szolgáltatás
+
+a) gondozás,
+
+b) készségfejlesztés,
+
+c) tanácsadás,
+
+d) szállítás,
+
+e) felügyelet,
+
+f) gyógypedagógiai segítségnyújtás,
+
+g) háztartási segítségnyújtás és
+
+h) esetkezelés
+
+szolgáltatási elemeket biztosít.
+
+##### 39/C. §
+
+(1)[^180] Ha a támogató szolgálat a székhelyén vagy más helyiségében ellátottakat fogad, a helyiségnek meg kell felelnie a 4. §-ban meghatározott feltételeknek.
+
+(2)[^181] A támogató szolgálat legalább egy gépjárművének alkalmasnak kell lennie elektromos kerekes székes személy szállítására, valamint rendelkeznie kell mobil rámpával vagy emelőszerkezettel, valamint 4+3 pontos biztonsági rögzítéssel.
+
+##### 39/D. §[^182]
+
+(1)[^183] Támogató szolgáltatásban alkalmazott személynek a foglalkoztatás kezdő időpontjától számított négy hónapon belül – az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló rendelet szerinti szervnél – be kell jelentkeznie támogató szolgálati képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül el kell végeznie.
+
+(2)[^184]
+
+## 7. CÍM[^186] — KÖZÖSSÉGI ELLÁTÁSOK[^187]
+
+##### 39/F. §
+
+(1) A közösségi pszichiátriai ellátás olyan önkéntesen igénybe vehető, hosszú távú, közösségi alapú gondozás, amelynek során a gondozás és a pszicho-szociális rehabilitáció az ellátott otthonában, illetve lakókörnyezetében történik.
+
+(2)[^188] A közösségi pszichiátriai ellátás
+
+a) tanácsadás,
+
+b) esetkezelés,
+
+c) készségfejlesztés,
+
+d) gondozás és
+
+e) megkeresés
+
+szolgáltatási elemeket biztosít.
+
+(3)[^189] A (2) bekezdés c) pontja szerinti készségfejlesztés elsősorban az életvitellel kapcsolatos tréningek szervezésére vagy közvetítésére, az önellátásra való képesség javítására és fenntartására, a betegséggel kapcsolatos tudnivalókról szóló tájékoztatásra, az ahhoz való alkalmazkodás és kezelés teendőire irányul.
+
+(4)[^190] A (2) bekezdés d) pontja szerinti gondozás mentális gondozást foglal magában.
+
+(5)[^191] A (2) bekezdésben meghatározott szolgáltatási elemek nyújtása előtt állapotfelmérést vagy szükségletfelmérést szükséges végezni a személyes célokra és a változtatásra motiváló tényezőkre figyelemmel.
+
+(6)[^192] A közösségi pszichiátriai ellátás feladata a munkához való hozzájutás, a szabadidő szervezett eltöltésének segítése, szabadidős, önsegítő csoportok, támogató hálózatok szerveződésének segítése, információnyújtás az egészségügyi, szociális, gyermekvédelmi ellátások és szolgáltatások, valamint a foglalkoztatási, oktatási, lakhatási lehetőségek igénybevételéről.
+
+##### 39/G. §
+
+(1)[^193] Egy munkatárs legfeljebb 25 fő ellátottról gondoskodhat. A 25 fő ellátotti létszám további legfeljebb 10 fővel növelhető, ha a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást.
+
+(2)[^194] A gondozó munkájába bevonja
+
+a) az ellátott lakókörnyezetében megtalálható önkéntes segítőket, így különösen a családtagokat, szomszédokat és egyéb, az ellátottal kapcsolatban álló önkéntes közreműködőket,
+
+b) szükség esetén az egészségügyi és szociális alap- és szakellátást nyújtó intézményeket.
+
+(3)[^195] Az intézményvezető , a szakmai egység vezetését ellátó terápiás munkatárs vagy a szociális munkatárs
+
+a)[^196] összehangolja a gondozók munkáját, rendszeres esetmegbeszéléseket szervez, biztosítja a szupervíziót,
+
+b) szervezi a rehabilitációs célú foglalkoztatási lehetőségek igénybevételét, ehhez kapcsolódó ösztönző programokat dolgoz ki,
+
+c)[^197] szervezi a gondozók rendszeres szakmai továbbképzését,
+
+d) közösségi munkacsoportot működtet,
+
+e) éves jelentést készít a fenntartónak, amelyben beszámol az ellátás tapasztalatairól, valamint javaslatot tesz a szükséges fejlesztésekre.
+
+##### 39/H. §
+
+(1)[^198] A közösségi munkacsoportot az ellátottak szükségleteinek megfelelően kell összeállítani, bevonva a gondozási, személyi segítési feladatok hatékony ellátásához szükséges alábbi személyeket:
+
+a) gondnok, háziorvos, védőnő, pszichiáter, pszichiátriai gondozó, pszichológus, és
+
+b)[^199] a szociális alap- és szakellátás, a család- és gyermekjóléti szolgálat, a gyámhivatal, a rehabilitációs szakértői szerv, valamint az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal vagy az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban együtt: állami foglalkoztatási szerv), az önsegítő és civil szervezetek, a szabadidős szolgáltatást nyújtó intézmények képviselői.
+
+(2)[^200] A közösségi munkacsoport tagjaival az intézményvezető vagy a szakmai egység vezetését ellátó terápiás munkatárs együttműködési megállapodást köt. A megállapodásban rögzítik a rendszeres megbeszélések gyakoriságát, egyéb körülményeit, valamint – arra az esetre, ha egyes ellátottak állapota ezt szükségessé teszi – az eseti megbeszélések összehívásának módját.
+
+(3)[^201] A közösségi pszichiátriai ellátásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. A gondozási terv elkészítésébe, módosításába be kell vonni a 39/G. § (2) bekezdésének a) pontjában meghatározott személyeket, illetve a közösségi munkacsoport tagjait.
+
+##### 39/I. §[^202]
+
+(1)[^203] A közösségi ellátásban alkalmazott személynek – a (2) bekezdésben foglalt kivétellel – a foglalkoztatás kezdő időpontjától rendelkeznie kell a Nemzeti Család- és Szociálpolitikai Intézet, a Nemzeti Rehabilitációs és Szociális Hivatal, a Szociális és Gyermekvédelmi Főigazgatóság vagy az Intézet által kiadott közösségi pszichiátriai ellátással kapcsolatos képzés tanúsítványával.
+
+(2) A közösségi pszichiátriai ellátással kapcsolatos képzés elvégzése alól
+
+a) mentesül a pszichiáter, pszichoterapeuta vagy klinikai szakpszichológus végzettségű személy,
+
+b) felmentés adható, ha a munkakört betöltendő személy a képzésben már hallgatói jogviszonnyal rendelkezik, és azt két éven belül elvégzi.
+
+(3)[^204] A közösségi pszichiátriai ellátással kapcsolatos képzésre történő jelentkezéseket az Intézethez kell benyújtani.
+
+##### 39/J. §[^205]
+
+(1) A szenvedélybetegek közösségi ellátása olyan önkéntesen igénybe vehető, hosszú távú, közösségi alapú, az ellátott otthonában, illetve lakókörnyezetében történő gondozás, amelynek célja az életmódváltozás elindítása, segítése és folyamatos nyomon követése.
+
+(2)[^206] A szenvedélybetegek közösségi ellátása
+
+a) tanácsadás,
+
+b) esetkezelés,
+
+c) készségfejlesztés,
+
+d) gondozás és
+
+e) megkeresés
+
+szolgáltatási elemeket biztosít.
+
+(3)[^207]
+
+(4)[^208] A szenvedélybetegek közösségi ellátására egyebekben e rendelet közösségi pszichiátriai ellátásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a gondozó addiktológiai konzultáns bevonása mellett végezheti a feladatát.
+
+##### 39/K. §[^209]
+
+A közösségi ellátások szakmai programjának – az 5/A. §-ban meghatározottakon túl – tartalmaznia kell az egészségügyi szolgáltatókkal, különösen a területileg illetékes pszichiátriai, illetve addiktológiai gondozóval való együttműködés módját.
+
+##### 39/L. §[^210]
+
+(1) A szenvedélybetegek alacsonyküszöbű ellátása a megkereső munkára, valamint az anonim és önkéntes igénybevételre épülő szolgáltatás, amelynek célja a szenvedélybetegség által okozott ártalmak csökkentése, az életet veszélyeztető helyzetek elhárítása, valamint az életmódváltozás elindítása, segítése.
+
+(1a)[^211] A szenvedélybetegek alacsonyküszöbű ellátása a 39/J. § (2) bekezdés a)–c) és e) pontjában foglalt, valamint háztartási vagy háztartáspótló segítségnyújtás és közösségi fejlesztés szolgáltatási elemet biztosít.
+
+(2)[^212]
+
+(3) A szenvedélybetegek alacsonyküszöbű ellátása magában foglalja
+
+a) az egészségügyi ártalmak csökkentését, így különösen a tűcsereprogramok körében a szerhasználat, illetve -függés járulékos ártalmainak, káros következményeinek csökkentését steril és kiegészítő eszközök, készítmények biztosításával, illetve használt eszközök begyűjtésével, továbbá az egészségügyi szűréshez, orvosi ellátáshoz való hozzáférés szervezését,
+
+b)[^213] a krízis-intervenciót, az egészségügyi vagy egyéb terápiás kezelésen, szolgáltatásban való részvétel ösztönzését,
+
+c)[^214]
+
+(4)[^215]
+
+(5) A (3) bekezdés a) pontja szerinti szolgáltatási forma ellátása esetén biztosítani kell a segítségnyújtáshoz, a használt ártalomcsökkentő eszközök begyűjtéséhez, azok biztonságos tárolásához, szállításához szükséges tárgyi feltételeket.
+
+(6) A szenvedélybetegek alacsonyküszöbű ellátása során minden esetben biztosítani kell az anonimitást, a személyes adatokat nem kell megadni, igazolni és nyilvántartani, illetve egyéni gondozási tervet nem kell készíteni. A szolgáltatás nem tagadható meg az absztinencia hiánya és a szenvedélybetegség során jelentkező tünetek, magatartási formák miatt mindaddig, amíg azok nem veszélyeztetik a biztonságos feladatellátást.
+
+##### 39/N. §[^217]
+
+(1) A szenvedélybetegek közösségi ellátásában és alacsonyküszöbű ellátásában – a (2) bekezdés szerinti kivétellel – csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a szenvedélybetegek közösségi ellátása képzésre vagy a szenvedélybetegek alacsonyküszöbű ellátása képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül elvégzi.
+
+(2) Az (1) bekezdés szerinti képzés elvégzése alól mentesül
+
+a) a szenvedélybeteg gondozó OKJ 55 762 05, az addiktológus szakorvos, a pszichiáter szakorvos, az addiktológiai pszichológus, a klinikai szakpszichológus, a pszichológus, az addiktológiai konzultáns képesítéssel rendelkező személy, és
+
+b) az a személy, aki szenvedélybetegek közösségi ellátásában vagy alacsonyküszöbű ellátásában egy évnél hosszabb foglalkoztatotti jogviszonnyal rendelkezik.
+
+### III. Fejezet — INTÉZMÉNYI ELLÁTÁSOK[^218]
+
+## 1. CÍM — ÁLTALÁNOS RENDELKEZÉSEK
+
+##### 40. §
+
+(1)[^219] A szociális intézményben gondozási egységeket és gondozási csoportokat kell kialakítani.
+
+(2)[^220]
+
+(3)[^221] A szociális intézményben az elhelyezést igénybe vevő súlyos fogyatékos gyermekeket ellátó csoport maximális létszáma 8 fő.
+
+(4)[^222] Ha egy intézmény keretében több ellátási forma működik, ellátási formánként külön-külön kell biztosítani az ellátás jellegének megfelelő személyi, tárgyi és szakmai feltételeket.
+
+(5) A bentlakásos intézmény alapfeladatát meghaladó egyéb szolgáltatásokat is nyújthat. E szolgáltatásokat intézményi jogviszonyban nem álló személy is igénybe veheti.
+
+(6) Az (5) bekezdés szerinti szolgáltatásért fizetendő térítés mértékét a külön jogszabályban foglaltak figyelembevételével kell meghatározni.
+
+(7)[^223] A 40–62. §-okban foglalt rendelkezéseket a nappali melegedőre, a hajléktalanok átmeneti szállására és éjjeli menedékhelyére, valamint a lakóotthonra nem kell alkalmazni.
+
+(8)[^224] A támogatott lakhatásra
+
+a)[^225] a 6. § (1)–(5) bekezdésében és (12) bekezdésében, valamint a 40–62. §-ban foglalt rendelkezéseket nem kell alkalmazni,
+
+b)[^226] a 60–61. § szerinti rendelkezéseket csak az Szt. 75. § (5) bekezdés c) pontja szerinti esetben kell alkalmazni,
+
+c)[^227] a 100. §-ban, a 101. §-ban foglalt rendelkezéseket alkalmazni kell, azzal, hogy a fogyatékos személyek lakóotthona, a lakóotthon, a pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézménye alatt támogatott lakhatást kell érteni.
+
+#### Az intézmény tárgyi feltételei
+
+##### 41. §
+
+(1) A bentlakásos intézményben biztosítani kell a napi huszonnégy órás szolgálatot, a folyamatos működéshez szükséges személyi és tárgyi feltételeket.
+
+(2) A bentlakásos intézményben ki kell alakítani
+
+a) az éjszakai és nappali tartózkodásra (lakhatás),
+
+b) a személyi tisztálkodásra,
+
+c) az étkezésre,
+
+d) az intézmény jellege szerinti közösségi együttlétre, tevékenységre (pl. társalgó, könyvtár, foglalkoztató, kápolna, imaterem), valamint mentális gondozásra,
+
+e) az egészségügyi ellátás céljára (pl. orvosi szoba, betegszoba),
+
+f) gondozási egységenként legalább húsz négyzetméter alapterületű közösségi együttlétre,
+
+g) a látogatók fogadására
+
+szolgáló helyiséget.
+
+(3) Amennyiben az ellátást igénybe vevő az intézmény által biztosított étkeztetést nem veszi igénybe, a vásárolt élelmiszer intézményen belüli elfogyasztásának kulturált feltételeit biztosítani kell.
+
+(4) A bentlakásos intézmény akkor alkalmas gondozási feladatok ellátására, ha
+
+a) a lakószobában egy ellátottra legalább hat négyzetméternyi lakóterület,
+
+b) tíz ellátottra legalább egy fürdőkád vagy zuhanyzó, valamint nemenkénti illemhely
+
+jut és biztosított a folyamatos fűtés- és melegvíz-szolgáltatás.
+
+##### 42. §
+
+(1)[^228] Ha e rendelet másként nem rendelkezik, a bentlakásos intézményi lakószobában legfeljebb négy személy helyezhető el. Négynél több személyt egy lakószobában csak kivételesen indokolt esetben, valamint soron kívüli elhelyezésre vonatkozó igény esetén lehet elhelyezni, figyelemmel az Szt. 92/K. § (5) bekezdésében megállapított korlátra.
+
+(2) Házaspárok (élettársak) elhelyezésére külön lakószobát kell biztosítani.
+
+##### 42/A. §[^229]
+
+Ha a fenntartó vis maior helyzetben vagy az ellátás építési beruházással történő fejlesztése érdekében, az ellátás céljára korábban általa nem használt épületet, épületrészt von be, ezen épületre, épületrészre nem kell alkalmazni a 41. § (2) bekezdés d), f) és g) pontjában, a 41. § (4) bekezdés a) pontjában és a 42. § (2) bekezdésében foglaltakat, valamint a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SzCsM rendelet 2/C. § (1) bekezdés a) pontját. A felmentés vis maior esetén legfeljebb 6 hónapra, fejlesztéshez kapcsolódó építési beruházás esetén 1 évre adható meg.
+
+##### 43. §
+
+Az átlagot jóval meghaladó minőségű elhelyezési körülménynek minősül
+
+a) az olyan önálló, egy- vagy kétszemélyes lakrész, amely lakószobát, konyhát és fürdőszobát, esetleg egyéb helyiséget foglal magába; és egy ellátottra legalább tíz négyzetméter nagyságú lakóterület jut, vagy
+
+b) az olyan egy- vagy kétszemélyes lakószoba, amelyhez önálló fürdőszoba tartozik,
+
+és épülete korszerűen kialakított és berendezése teljes mértékben felszerelt (tv, hűtőszekrény, mosógép stb.).
+
+#### Érdekképviseleti fórum[^230]
+
+##### 43/A. §[^231]
+
+(1) Az Szt. 99. §-a szerinti érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
+
+(2) Az érdekképviseleti fórum tagjai
+
+a) választás alapján, az intézményi ellátást igénybe vevők közül
+
+aa) kettőszáz férőhelyig kettő fő,
+
+ab) kettőszáz férőhely felett négy fő;
+
+b) választás alapján, az ellátottak hozzátartozói, illetve törvényes képviselői közül egy fő;
+
+c) választás alapján, az intézmény dolgozóinak képviseletében egy fő;
+
+d) kijelölés alapján, az intézményt fenntartó szervezet képviseletében egy fő.
+
+(3) Az érdekképviseleti fórum
+
+a) előzetesen véleményezi az intézmény vezetője által készített, az ellátottakkal, valamint az intézmény belső életével kapcsolatos dokumentumok közül a szakmai programot, az éves munkatervet, a házirendet, az ellátottak részére készült tájékoztatókat,
+
+b) megtárgyalja az intézményben élők panaszait – ide nem értve a jogviszony keletkezésével, megszüntetésével és az áthelyezéssel kapcsolatos panaszokat –, és intézkedést kezdeményez az intézményvezető felé,
+
+c) tájékoztatást kérhet az intézményvezetőtől az ellátottakat érintő kérdésekben, az ellátás szervezésével kapcsolatos feladatokban,
+
+d) intézkedés megtételét kezdeményezheti a fenntartó felé, valamint más, hatáskörrel és illetékességgel rendelkező hatóságok, szervek felé, ha az intézmény működésével kapcsolatos jogszabálysértésre utaló jeleket észlel.
+
+(4) Az érdekképviseleti fórum működésének és választásának részletes szabályait a házirend tartalmazza.
+
+#### Az intézmény szolgáltatásai
+
+##### 44. §
+
+(1) A bentlakásos intézmény az ellátást igénybe vevő részére az Szt. 67. § (1) bekezdésében meghatározott teljes körű ellátást biztosítja.
+
+(2)[^232] A bentlakásos intézményben folyó gondozási tevékenység alatt az intézmény szolgáltatását igénybe vevő személy részére nyújtott olyan fizikai, mentális és életvezetési segítséget kell érteni, amelynek során az igénybe vevő szociális, testi és szellemi állapotának megfelelő egyéni bánásmódban való részesítése keretében a hiányzó, vagy csak korlátozottan meglevő testi-szellemi funkcióinak helyreállítására és szinten tartására kerül sor.
+
+(3)[^233]
+
+(4)[^234]
+
+#### Étkeztetés megszervezése
+
+##### 45. §
+
+(1)[^235] A bentlakásos intézmény – a rehabilitációs célú lakóotthon kivételével – az étkezést a bentlakók életkori sajátosságainak, valamint az egészséges táplálkozás követelményeinek megfelelően nyújtja, a szociális étkeztetésre vonatkozó szabályok figyelembevételével.
+
+(2) Az ellátottak étkeztetése keretében legalább napi háromszori étkezést – ebből legalább egy alkalommal meleg ételt – kell biztosítani. A kiskorúak a főétkezéseken kívül naponta legalább kétszer kiegészítő étkeztetésben részesülnek.
+
+(3) Ha az ellátást igénybe vevő egészségi állapota indokolja, részére – orvosi javaslatra – az orvos előírásainak megfelelő étkezési lehetőséget (pl. diéta, gyakoribb étkezés) kell biztosítani.
+
+(4) Az ápoló-gondozó otthonokban a fekvőbetegek ellátása során gondoskodni kell a rendszeres folyadékbevitelről.
+
+#### Ruházat, textília biztosítása
+
+##### 46. §
+
+(1) Az ellátást igénybe vevő a bentlakásos intézményben saját ruházatát és textíliáját használja.
+
+(2) Ha az ellátást igénybe vevő megfelelő mennyiségű és minőségű saját ruházattal nem rendelkezik, a teljes körű ellátás részeként nyújtott ruházat legalább három váltás fehérneműt és hálóruhát, valamint az évszaknak megfelelő legalább két váltás felső ruházatot és utcai cipőt – szükség szerinti más lábbelit – tartalmaz.
+
+(3) A kiskorú, valamint fogyatékos személyek részére – ha indokolt, a (2) bekezdésben foglaltakon túl – az életkornak megfelelő sportruházatot is biztosítani kell.
+
+(4) Az intézményi ellátásban részesülő tanköteles fogyatékos személy részére a korai fejlesztéshez, fejlesztő felkészítéshez, valamint az iskolai tanulmányok folytatásához szükséges iskolai felszerelést is biztosítani kell.
+
+(5) A (2) bekezdésben felsorolt ruházat összetételéről, mennyiségéről, a sportruházattal való ellátás indokoltságáról az intézmény vezetője dönt.
+
+(6) Az ellátást igénybe vevő az intézmény által nyújtott ruházatot nem köteles használni, azonban saját ruházatának elhasználódása esetén is csak a (2) bekezdés szerinti ruházati ellátást igényelheti.
+
+(7) A ruházat tisztításáról és javításáról az intézmény a házirendben meghatározott módon gondoskodik.
+
+(8) Az intézmény vezetője az ellátást igénybe vevő szükségletei, valamint a ruházat elhasználódásának figyelembevételével gondoskodik az (2)–(3) bekezdés szerinti ruházat beszerzéséről, illetve cseréjéről.
+
+##### 47. §
+
+Azokban a bentlakásos intézményekben, ahol szervezett keretek között foglalkoztatás folyik, a foglalkoztatás jellege szerinti védő- és munkaruha ellátásról, valamint az egészséges és biztonságos munkavégzés feltételeiről az intézmény gondoskodik.
+
+##### 48. §
+
+(1) A személyes használatra kiadott ruházat az intézmény tulajdonát képezi és azt egyéni nyilvántartó lapon kell az ellátást igénybe vevő részére kiadni.
+
+(2)[^236] A kiskorú, valamint a cselekvőképességet érintő gondnokság alatt álló személy részére kiadott ruházatról a gondozási egység vezetője leltárt vezet.
+
+##### 49. §
+
+A bentlakásos intézmény a textíliával való ellátás keretében, valamint a személyi higiéné biztosítása érdekében ellátottanként
+
+a) három váltás ágyneműt,
+
+b) a tisztálkodást segítő három váltás textíliát, valamint a tisztálkodáshoz szükséges anyagokat, eszközöket,
+
+c)[^237]
+
+szükség szerint biztosítja.
+
+#### Egészségügyi ellátás
+
+##### 50. §
+
+(1) A bentlakásos intézmény – a lakóotthon kivételével – biztosítja az ellátást igénybe vevők egészségügyi ellátását.
+
+(2) Az egészségügyi ellátás keretében a személyes gondoskodást nyújtó szociális intézmény köteles gondoskodni az igénybe vevő
+
+a) egészségmegőrzését szolgáló felvilágosításáról,
+
+b)[^238] orvosi ellátásáról a 2. számú melléklet szerinti óraszámban,
+
+c)[^239] szükség szerinti alapápolásáról, az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendeletben meghatározott szakápolási tevékenységek kivételével, ennek körében különösen
+
+ca) a személyi higiéné biztosításáról,
+
+cb) a gyógyszerezésről,
+
+cc) az étkezésben, a folyadékpótlásban, a hely- és helyzetváltoztatásban, valamint a kontinenciában való segítségnyújtásról,
+
+d)[^240] szakorvosi, illetve sürgősségi ellátásához való hozzájutásáról,
+
+e) kórházi kezeléséhez való hozzájutásáról,
+
+f) e rendeletben meghatározott gyógyszerellátásáról,
+
+g) gyógyászati segédeszközeinek biztosításáról.
+
+(3)[^241] A bentlakásos szociális intézmény orvosa biztosítja az ellátást igénybe vevő egészségi állapotának rendszeres ellenőrzését, az orvosi tanácsadást, az egészségügyi tárgyú jogszabályokban meghatározott szűréseket, a gyógyszerrendelést, valamint szükség esetén az egészségügyi szakellátásba történő beutalást.
+
+(4)[^242]
+
+(5)[^243]
+
+##### 51. §
+
+(1)[^244] Az ellátásban részesülő személy részére előírt gyógyszer felhasználását a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett nyilvántartó lapon kell rögzíteni, amelyet az ellátás nyújtásának kezdetekor, majd a nyilvántartó lapon szereplő adatokban bekövetkező változások esetén kell kitölteni.
+
+(2)[^245] A bentlakásos intézményben műszakonként az ellátottak egészségi állapotát érintő változásokról és a velük kapcsolatos jelentősebb eseményekről sorszámozott eseménynaplót (átadó füzetet) kell vezetni.
+
+##### 52. §[^246]
+
+(1)[^247] Az intézménynek készleten kell tartania a (2) bekezdés szerinti gyógyszercsoportokból az ellátásban részesülők eseti gyógyszerszükségletéhez igazodó megfelelő gyógyszermennyiséget (a továbbiakban: eseti gyógyszerkészlet). Az intézmény az ellátásban részesülők rendszeres gyógyszerszükségletének megfelelő, a (3) bekezdés szerinti gyógyszercsoportokba tartozó gyógyszerekhez (a továbbiakban: rendszeres gyógyszerkészlet) való hozzájutást biztosítja, ennek keretében gondoskodik különösen a gyógyszerek ellátottak részére történő beszerzéséről és haladéktalan hozzáférhetővé tételéről. A rendszeres gyógyszerkészletet havonta az intézmény orvosa állítja össze az intézmény vezető ápolója, illetve ennek hiányában az intézményvezető javaslata alapján, ennek során figyelembe kell venni az ellátást igénybevevők egészségi állapotát. A (2) és a (3) bekezdés szerinti gyógyszercsoportokba tartozó gyógyszereket, továbbá az injekcióval, infúzióval történő ellátáshoz szükséges anyagokat, az akut sebellátáshoz szükséges kötszereket, valamint a szűrővizsgálatokhoz szükséges reagenseket, indikátorcsíkokat (a továbbiakban: alapgyógyszerkészlet) az ellátottaknak térítésmentesen (a személyi térítési díj terhére) – ideértve a gyógyszerért külön jogszabály alapján dobozonként fizetendő díj költségét is – kell biztosítani.
+
+(2)[^248] Az eseti gyógyszerkészlet az alábbi gyógyszercsoportokból áll (ATC kód szerint):
+
+a) szintetikus görcsoldók (A03 A),
+
+b) propulsív szerek (A03 F),
+
+c) bélmozgatást csökkentő szerek (A07 D),
+
+d) heveny vérnyomás-emelkedés csökkentésére szolgáló szerek (C 08 C),
+
+e) fájdalom és lázcsillapítók (M02, N 02),
+
+f) anxioliticumok (N05 B),
+
+g) altatók, nyugtatók (N05 C),
+
+h) hashajtók (A06 A),
+
+i) szisztémás antihisztaminok (R06 A),
+
+j) antiarritmiás szerek (C01 B).
+
+(3)[^249] A rendszeres gyógyszerkészlet az alábbi gyógyszercsoportokból áll (ATC kód szerint):
+
+a) tápcsatorna és anyagcsere
+
+aa) antacidok (A02 A),
+
+ab) peptikus fekély kezelésének gyógyszerei (A02 B),
+
+ac) az epebetegségek egyéb terápiás készítményei (A05 A),
+
+ad) bélfertőtlenítők, gyulladásgátlók (A07A, A07 E),
+
+ae) digesztívumok (A09 A),
+
+af) orális antidiabetikumok (A10 B);
+
+b) vér és vérképző szerek
+
+ba) antikoagulánsok (B01 A),
+
+bb) vérzéscsillapítók (B02 A, B02 B),
+
+bc) vérszegénység elleni készítmények (B03 A);
+
+c) kardiovaszkuláris rendszer
+
+ca) szívglikozidok (C01 A),
+
+cb) szívbetegségben használt értágítók (C01 D),
+
+cc) vérnyomáscsökkentők (C02),
+
+cd) vizelethajtók (C03),
+
+ce) perifériás értágítók (C04),
+
+cf) kapilláris-stabilizáló szerek (C05),
+
+cg) béta-blokkolók (C07),
+
+ch) ACE-gátlók (C09 A);
+
+d) antibiotikumok (J01);
+
+e) váz- és izomrendszer
+
+ea) gyulladásgátlók és reumaellenes készítmények (M01),
+
+eb) ízületi és izomfájdalmak kezelésének készítményei (M02),
+
+ec) izomrelaxánsok (M03 B);
+
+f) idegrendszer
+
+fa) antiepileptikumok (N03),
+
+fb) antikolinerg antiparkinson szerek (N04 A),
+
+fc) dopaminerg antiparkinson szerek (N04 B),
+
+fd) antipszichotikumok (N05 A).
+
+(4)[^250] A bentlakásos intézmény az alapgyógyszerkészletbe, valamint a rendszeres és eseti egyéni gyógyszerszükséglet körébe tartozó gyógyszerek, továbbá a gyógyászati segédeszközök közül elsősorban a közgyógyellátási igazolványra felírható, illetve a társadalombiztosítás által támogatott gyógyszert és gyógyászati segédeszközt biztosítja. Az alapgyógyszerkészletről részletes és pontos tájékoztatást kell adni az ellátást igénybe vevő részére.
+
+(5)[^251] Az alapgyógyszerkészlet körébe tartozó gyógyszereken túlmenően felmerülő egyéni gyógyszerszükséglet költségét, ideértve a gyógyszerért külön jogszabály alapján dobozonként fizetendő díj költségét is – a (6) bekezdésben foglalt esetek kivételével – az ellátást igénybevevő viseli.
+
+(6)[^252] A bentlakásos intézmény viseli az ellátást igénybe vevő rendszeres és eseti egyéni gyógyszerszükségletének
+
+a) teljes költségét, ha
+
+aa)[^253] az ellátást igénybe vevőnek a személyi térítési díj megfizetése után fennmaradó havi jövedelme nem haladja meg a szociális vetítési alapnak az Szt. 117/A. §-ának (1) bekezdésében meghatározott százalékát, vagy
+
+ab) az ellátást igénybe vevő részére a költőpénzt az intézmény biztosítja;
+
+b)[^254] részleges költségét, ha az ellátást igénybe vevőnek a személyi térítési díj megfizetése után fennmaradó havi jövedelme meghaladja a szociális vetítési alapnak az Szt. 117/A. §-ának (1) bekezdésében meghatározott százalékát, azonban ez a jövedelem nem fedezi az ellátást igénybe vevő egyéni gyógyszerszükségletének költségét. Ebben az esetben a bentlakásos intézmény az ellátást igénybe vevő jövedelmének a költőpénz összegét meghaladó részét az egyéni gyógyszerszükséglet mértékéig kiegészíti.
+
+(7)[^255] A (6) bekezdésben foglaltakon túlmenően a pszichiátriai betegeket, a szenvedélybetegeket és a hajléktalan személyeket ellátó intézmény – az ellátást igénybevevő személyi és jövedelmi helyzetére tekintettel – az intézményi orvos javaslatára az intézményvezető döntése alapján az alapgyógyszerkészlet körébe nem tartozó, de az ellátást igénybevevő gondozásához közvetlenül szükséges egyéni gyógyszerszükséglet teljes költségét átvállalhatja.
+
+(8)[^256] A (6) bekezdésben foglaltaktól eltérően az intézmény nem köteles az egyéni gyógyszerszükséglet költségének a viselésére, ha
+
+a)[^257]
+
+b)[^258]
+
+c)[^259] az ellátást igénybe vevő tartására az Szt. 114. § (2) bekezdésének c)–e) pontja szerinti más személy köteles és képes, vagy
+
+d) az ellátást igénybevevő a (6) bekezdés b) pontja szerinti gyógyszerköltség reá eső részét nem fizeti meg.
+
+(9)[^260] A gyógyászati segédeszköz ellátása körében az intézmény feladata a vényre felírt testtávoli eszköznek az intézmény költségén, a testközeli segédeszköznek az ellátott költségén történő biztosítása. Ha a testközeli segédeszköz költségeinek viselésére az ellátott jövedelmi helyzete alapján nem képes, a költségviselés tekintetében a (6) bekezdésben foglaltak szerint kell eljárni.
+
+(10)[^261] A (8) bekezdés c) pontja szerinti esetben az egyéni gyógyszerszükséglet költsége a térítési díjon felül érvényesíthető.
+
+##### 53. §
+
+(1)[^263] Ha a bentlakásos intézményben élő ellátott egészségügyi ellátásban részesül, az ellátást nyújtó orvos a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 1. számú melléklete szerinti egészségügyi személyi lapot (raktári szám: A. 3510-170) kiállítja, illetve vezeti. A dokumentáció vezetésére, kezelésére az egészségügyről szóló 1997. évi CLIV. törvény 24. §-ának, 136–137. §-ainak rendelkezései irányadóak.
+
+(2)[^264] Ha az intézmény orvosa és az ellátást igénybe vevő házi-, vagy kezelőorvosa nem ugyanaz a személy, akkor az intézmény orvosának megkeresésére az ellátást igénybe vevő házi-, illetve kezelőorvosa megküldi az intézményi ellátás és gyógykezelés szempontjából szükséges egészségügyi adatokat. E bekezdés alkalmazásában gyógykezelésnek minősül a megelőzés és a rehabilitáció is.
+
+(3) Ha az ellátást igénybe vevőt másik bentlakásos intézménybe helyezik át, az egészségügyi adat kezelésével megbízott személy az ellátást igénybe vevő egészségügyi adatait külön kérés nélkül továbbítja.
+
+#### A mentálhigiénés ellátás biztosítása
+
+##### 54. §
+
+(1) A bentlakásos intézmény feladatkörében gondoskodik az ellátást igénybe vevő mentálhigiénés ellátásáról. Ennek keretében biztosítja
+
+a) a személyre szabott bánásmódot,
+
+b)[^265] a konfliktushelyzetek kialakulásának megelőzése érdekében az egyéni, csoportos megbeszélést,
+
+c) a szabadidő kulturált eltöltésének feltételeit,
+
+d) a szükség szerinti pszichoterápiás foglalkozást,
+
+e) az ellátottak családi és társadalmi kapcsolatai fenntartásának feltételeit,
+
+f) a gondozási, illetve rehabilitációs tervek megvalósítását,
+
+g) a hitélet gyakorlásának feltételeit, és
+
+h) segíti, támogatja az intézményen belüli kis közösségek, társas kapcsolatok kialakulását és működését.
+
+(2) A bentlakásos intézménynek mindent meg kell tennie az ellátást igénybe vevő testi-lelki aktivitása fenntartásának, megőrzésének érdekében.
+
+(3) Az ellátást igénybe vevő korának, egészségi állapotának, képességeinek és egyéni adottságainak figyelembevételével szükséges szervezni
+
+a)[^266] az aktivitást segítő fizikai tevékenységeket (napi rendszerességű szabad levegőn tartózkodás, fekvőbetegek napi rendszerességű levegőztetése, sporttevékenység, ágytorna stb.),
+
+b) a szellemi és szórakoztató tevékenységeket (pl. előadások, olvasás, felolvasás, rádióhallgatás, tévénézés, kártya- és társasjátékok, vetélkedők, zenehallgatás stb.),
+
+c) a kulturális tevékenységeket (pl. rendezvények, ünnepségek, névnapok, színház-, mozi-, múzeumlátogatások, kirándulások, kiállítások stb.).
+
+(3a)[^267] A (3) bekezdés a) pontjában megfogalmazott feladatokat a gondozási tervben személyre szólóan rögzíteni kell úgy, hogy az – ha az igénybe vevő kora, egészségi állapota lehetővé teszi – biztosítsa az intézmény elhagyásának lehetőségét.
+
+(4) Az aktivitást segítő tevékenységeket – az ellátást igénybe vevők közreműködésével – előre kell tervezni és a megvalósítás folyamatosságát, rendszerességét biztosítani szükséges.
+
+(5) Az intézményi életformához való alkalmazkodás elősegítése, az igénybe vevők mentálhigiénes ellátásának biztosítása a szociális intézmény valamennyi dolgozójának a feladata.
+
+(6)[^268] Az intézmény vezetője, ha az ellátást igénybe vevő gondnokság alá helyezése szükséges, intézkedést kezdeményez a gyámhivatalnál.
+
+#### Szocioterápiás foglalkozások szervezése[^269]
+
+##### 55. §[^270]
+
+A bentlakásos intézmény az ellátottak meglévő képességeinek szinten tartása és fejlesztése érdekében szocioterápiás foglalkozásokat szervez.
+
+##### 56. §[^271]
+
+(1) A szocioterápiás foglalkozások formáit az ellátást igénybe vevő életkorának és egészségi állapotának, képességeinek megfelelően kell megválasztani, az egyéni gondozási, fejlesztési tervben, illetve rehabilitációs programban megfogalmazott célkitűzésekkel összhangban. A szocioterápiás foglalkozások formái különösen
+
+a) a munkaterápia,
+
+b) a terápiás és készségfejlesztő foglalkozás,
+
+c) a képzési célú foglalkozás.
+
+(2)[^272] A munkaterápiában azok az ellátottak vehetnek részt, akik – az Szt. 99/B. §-ának (3) bekezdése szerinti szakértői vélemény, ennek hiányában az intézményvezető megítélése szerint – nem alkalmasak a fejlesztő foglalkoztatás keretében történő munkavégzésre.
+
+(3)[^273] A munkaterápia elsődleges célja a munkaképesség fejlesztése annak érdekében, hogy az ellátott alkalmassá váljon a fejlesztő foglalkoztatásban való részvételre. A munkaterápiára egyebekben a terápiás és készségfejlesztő foglalkoztatásra vonatkozó szabályokat kell alkalmazni.
+
+(4) Az ellátott munkaterápiájára fordítható idő nem érheti el a napi négy órát és a heti húsz órát.
+
+(5) A munkaterápiában részt vevő ellátott munkaterápiás jutalomban részesíthető. A munkaterápiás jutalom a munkavégzés jellegétől függően differenciált, amelynek havi összegét a munkalapon rögzített tevékenység jellege és a munkavégzéssel töltött idő alapján az intézmény vezetője és a foglalkoztatást vezető szakember határozza meg. Ha az ellátott költőpénzben részesül, a költőpénz összege nem csökkenthető a munkaterápiás jutalom összegével.
+
+(6) A munkaterápiás jutalom gyakoriságáról, a jutalomban részesülő személyekről, valamint annak alkalmankénti összegéről a munkaterápiában való részvétel figyelembevételével az intézmény vezetője határoz.
+
+##### 57. §
+
+(1)[^274] A terápiás és képességfejlesztő foglalkozás célja a megmaradt képességek fejlesztése, szintentartása. A terápiás foglalkozás szervezhető az intézmény környezetében, foglalkoztató helyiségben és az intézményen kívül is.
+
+(2)[^275] A terápiás és képességfejlesztő foglalkozásból származó eredmény az intézményben nyújtott ellátás színvonalának emelésére, valamint a foglalkozásban közvetlenül részt vevők díjazására fordítható. A foglalkozásban közreműködő személyek díjazásának mértékét a házirend határozza meg.
+
+(3)[^276] A képességfejlesztő foglalkozás szervezésére akkor kerülhet sor, ha a munkavégzés intézményen belüli – házirendben rögzített – feltételei adottak.
+
+(4)[^277] A terápiás és képességfejlesztő foglalkozás keretében kreatív, művészeti, mozgás- és játékterápiák is szervezhetőek.
+
+##### 58. §
+
+(1)[^278] Képzési célú foglalkozást abban a rehabilitációs intézményben kell szervezni, ahol az ellátást igénybe vevő eredményes rehabilitációjához az szükséges.
+
+(2)[^279] A képzési célú foglalkozás biztosításánál figyelemmel kell lenni a rehabilitálandó személy képességeire, illetve arra, hogy az a lakóhelyi környezetébe való visszatérést szolgálja, a megszerzett ismeretet hasznosítani tudja az intézményi ellátás megszűnését követően is.
+
+#### A tankötelezett korú gyermekek oktatásának megszervezése
+
+##### 59. §
+
+A gyermekkorú személyeket ellátó bentlakásos intézmény gondoskodik a tankötelezettségi kort elért gyermek tanulási képessége vizsgálatának megszervezéséről, valamint a gyermek állapotának megfelelő képzési kötelezettsége teljesítésének feltételeiről gyógypedagógiai fejlesztéséről és indokolt esetben a tankötelezettség és képzési kötelezettség teljesítésének feltételeiről.
+
+#### Az érték- és vagyonmegőrzés szabályai
+
+##### 60. §
+
+(1) Az érték- és vagyonmegőrzésre átvett tárgyakról az intézmény vezetője tételes felsorolás alapján átvételi elismervényt készít, és annak egy példányát átadja az ellátást igénybe vevőnek, illetve törvényes képviselőjének. Az értéktárgyak átadását és átvételét két tanú jelenlétében kell elvégezni. Az értéktárgyak biztonságos megőrzéséről az intézmény vezetője gondoskodik.
+
+(2) Az ellátást igénybe vevőtől átvett készpénzt elsősorban az ellátást igénybe vevő, illetve törvényes képviselőjének meghatalmazása szerint az intézményben vagy pénzintézetben kell megőrizni. A házirend tartalmazza, hogy milyen esetekben szükséges a készpénzt – pénzintézetben – betét formájában megőrizni. A készpénz betétben való elhelyezéséről a pénz átvételétől számított négy munkanapon belül az intézmény vezetője gondoskodik. A készpénz betétben történő elhelyezéséig annak megőrzését a pénzkezelési szabályzatban foglaltak szerint kell biztosítani.
+
+(3)[^281] A befizetett belépési hozzájárulás időarányos visszafizetésének módját és részletes szabályait a házirend tartalmazza.
+
+##### 61. §
+
+(1) A bentlakásos intézményben az ellátott személy készpénzének kezelése saját vagy törvényes képviselőjének írásbeli nyilatkozata szerint személyes nyilvántartású letét formájában is történhet. A letétben elhelyezett készpénz elsősorban a személyes szükségletek kielégítését szolgálja.
+
+(2) A személyes szükséglet körébe tartozik különösen az intézményi ellátást meghaladó mennyiségű vagy minőségű élelmezés, ruházat, valamint textília. A felsoroltakon kívül személyes szükségletek kielégítését szolgálja még a személyes használati tárgy ( pl. televízió, magnetofon, rádió, hűtőszekrény) és szolgáltatás (pl. fodrász, kirándulás, kulturális program) is.
+
+(3) A készpénz kezeléséről, a kezelésre jogosult személyekről, valamint a pénz felhasználásának és elszámolásának módjáról a pénzkezelési szabályzatban kell rendelkezni.
+
+#### Az intézményben elhunytak eltemettetésének megszervezése
+
+##### 62. §
+
+(1) A bentlakásos intézményben elhunytakkal kapcsolatos teendők ellátását az intézmény vezetője szervezi. Ennek keretében kell gondoskodni az elhunyt
+
+a) elkülönítéséről,
+
+b) végtisztességre való felkészítéséről,
+
+c)[^282] a törvényes képviselő, valamint az Szt. 20. §-a szerinti nyilvántartásban szereplő hozzátartozó értesítéséről,
+
+d) ingóságainak számbavételéről, megőrzéséről, letétbe helyezéséről, valamint a hagyatéki végzést követően az örökösöknek történő átadásáról.
+
+(2) Az elhunyt ingóságairól a halál beálltát követően azonnal jegyzéket készít a haláleset időpontjában műszakot vezető dolgozó. A jegyzéket két tanúval alá kell íratni.
+
+(3) A közeli hozzátartozó értesítéséről legkésőbb a halálesetet követő napon kell gondoskodni. Az eltemettetés megszervezéséről az örökösök gondoskodnak.
+
+(4) Ha az elhunyt halála előtt az eltemettetéséről rendelkezett az intézmény felé és a takarékbetétje elhelyezésekor kedvezményezettként az intézményt jelölte meg elhalálozása esetére, az intézményvezető a visszafizetett takarékbetétből gondoskodik a temetésről.
+
+(5)[^283] Az intézmény vezetője – amennyiben nincs, vagy nem lelhető fel az eltemettetésre köteles személy, vagy az eltemettetésre köteles személy nem gondoskodik a temetésről – az elhunyt személy köztemetésének elrendelése iránt intézkedik a haláleset szerint illetékes települési önkormányzat polgármesterénél.
+
+(6)[^284] Ha az örökös az elhunyt intézményben maradt ingóságaiért a hagyatéki végzés jogerőre emelkedését követően nem jelentkezik, az intézményvezető határidő megjelölésével felszólítja annak átvételére. Ha az örökös a kitűzött határidő elteltéig az ingóságot nem szállítja el, az intézmény azt értékesítheti vagy felhasználhatja (Ptk. 5:9–5:12. §-a).
+
+## 2. CÍM — AZ ÁPOLÁST, GONDOZÁST NYÚJTÓ INTÉZMÉNYEKRE VONATKOZÓ SZABÁLYOK
+
+##### 63. §
+
+(1) Az ápolást-gondozást nyújtó otthon az ellátást igénybe vevő teljes körű ellátása, ápolása-gondozása mellett biztosítja szükség szerinti
+
+a) foglalkoztatását, és
+
+b) egyéb habilitációs, rehabilitációs jellegű ellátását.
+
+(2)[^285]
+
+##### 64. §
+
+A látásfogyatékosok otthonában olyan látássérült személyeket kell elhelyezni, akik önmagukról gondoskodni más körülmények között nem tudnak, valamint olyan további szolgáltatásokat igényelnek – különös tekintettel oktatásukra, képzésükre –, mely más szervezeti keretek között nem oldható meg, vagy aránytalanul nagyobb költséggel járna.
+
+##### 65. §
+
+A mozgásfogyatékosok otthona olyan személynek az ellátását biztosítja, akinek mozgáskorlátozottságát az öregségi nyugdíjkorhatár betöltését megelőzően állapították meg, állapota gyógyintézeti kezelést nem igényel, valamint rehabilitációs intézményi ellátásban nem részesíthető.
+
+##### 66. §
+
+Értelmi fogyatékosok otthonában a középsúlyos vagy súlyos értelmi fogyatékos, valamint értelmi és más fogyatékosságban szenvedő, állandó és folyamatos ápolást igénylő személyek ápolása és gondozása történik.
+
+##### 67. §
+
+(1) A szenvedélybetegek otthona a kábítószert használó, a gyógyszert kóros mértékben fogyasztó, valamint egyéb hasonló függőséget okozó anyaggal (szerrel) visszaélő személyek gondozását végzi, akik önálló életvitelre időlegesen nem képesek, és gyógyintézeti kezelést nem igényelnek.
+
+(2)[^286]
+
+(3) A pszichiátriai betegek otthona, valamint a szenvedélybetegek otthona a személyes gondoskodás más formáival együtt csak akkor szervezhető, ha az ellátást igénybe vevő elkülönített ellátása biztosított.
+
+##### 67/A. §[^287]
+
+(1) A szakápolási központ tárgyi feltételeit és szakápolási tevékenységeit a 7. számú melléklet határozza meg.
+
+(2) A szakápolási központban végzett szakápolást az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet 4. melléklet A) Az ápolási dokumentáció tartalmi elemeinek kötelező minimuma a fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben része szerint kell dokumentálni.
+
+(3) A szakápolási központban a 2. számú mellékletben meghatározott szakápolói létszámot úgy kell alkalmazni, hogy minden műszakban biztosított legyen szakápoló jelenléte.
+
+(4) Szakápolási központban – fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóval kötött együttműködési megállapodás megkötésével – biztosítani kell az orvossal, szakorvossal való rendszeres konzultációt, valamint dietetikus, gyógytornász, klinikai és mentálhigiéniai szakpszichológus, pszichológus vagy mentálhigiénikus elérhetőségét. Az együttműködési megállapodás rögzíti az egészségügyi szolgáltatónál működő vagy általa foglalkoztatott szakemberek közreműködésének módját és feltételeit.
+
+(5) A szakápolási központra az (1)–(4) bekezdés szerinti eltérésekkel az idősek otthonára vonatkozó szabályokat kell alkalmazni.
+
+## 3. CÍM — A REHABILITÁCIÓS INTÉZMÉNYEKRE VONATKOZÓ SZABÁLYOK
+
+##### 68. §
+
+(1) A rehabilitációs intézményi keretek között indokolt biztosítani annak a rászoruló személynek az elhelyezését, akinek az egészségi, a pszichés, a mentális, a szociális állapota a rehabilitáció több területén, együttesen zajló, komplex, átfogó segítséget igényel és ennek hatékony megoldása ambuláns formában vagy más intézményi keretek között nem valósítható meg.
+
+(2)[^288]
+
+(3) A rehabilitációs intézmény feladata az intézményi ellátást igénybe vevő önálló életvezetési képességeinek kialakítása, illetve helyreállítása, fejlesztése, továbbá a társadalomba történő be-, illetve visszailleszkedésének támogatása és az utógondozás megszervezése.
+
+(4)[^289]
+
+##### 69. §
+
+(1) A rehabilitációs intézmény az ellátást igénybe vevők habilitációja, rehabilitációja (a továbbiakban: rehabilitáció) mellett biztosítja szükség szerint a rászorulók egészségi állapota szerinti ápolását, gondozását is. Az ellátást igénybe vevő ápolását, gondozását az intézményben elkülönítetten kell megszervezni.
+
+(2) Az ápolási részlegben ellátott igénybe vevők részére folyamatosan biztosítani kell az ápoláshoz szükséges egészségügyi feltételeket, valamint felszereléseket.
+
+(3) A rehabilitációs intézményben alkalmazott ápolók, szociális gondozók feladatkörét úgy kell kialakítani, hogy munkaidejüket a szükség szerinti ápolási feladatok mellett, többségükben a segítő gondozói feladatok tegyék ki az ellátottak rehabilitációja érdekében.
+
+##### 70. §
+
+(1) A rehabilitációs intézmény a komplex rehabilitációs tevékenység részeként az ellátást igénybe vevők életkora, mentális állapota és egészségi állapota szerint, a személyre szabott rehabilitációs programnak megfelelően
+
+a) iskolarendszerű, iskolarendszeren kívüli vagy tanfolyami oktatást, képzést nyújt, valamint szervezi az ezekhez történő hozzájutást, különös tekintettel az integrált oktatás lehetőségének biztosítását,
+
+b) tematikus foglalkozásokat, szocioterápiás eljárásokat, szocializációs programokat szervez,
+
+c) munkavégzési célú foglalkoztatást, képzést vagy képességfejlesztést nyújt,
+
+d) szabadidős, kulturális és közösségi programokat biztosít, illetve szervez,
+
+e) folyamatosan biztosítja az egyénre koncentráló szociális, pszichés és mentális segítséget.
+
+(2) Az iskolarendszerű, iskolarendszeren kívüli vagy tanfolyami oktatást, képzést azon ellátást igénybe vevőknek is meg kell szervezni, akik állapotuk miatt csak egyénileg képezhetők, oktathatók.
+
+##### 71. §
+
+A rehabilitációs intézmény vezetője a gondozás megszűnésének várható időpontját megelőző hat hónappal – az utógondozás előkészítése érdekében – megkeresi az ellátott családját, valamint az ellátást igénybe vevő lakóhelye szerint illetékes
+
+a) települési önkormányzat jegyzőjét a családi és lakóhelyi környezetbe történő visszahelyezés előkészítése,
+
+b)[^290] állami foglalkoztatási szervet az esetleges munkavállalási lehetőség elősegítése
+
+érdekében.
+
+##### 72. §
+
+(1)[^291] Ha az ellátást igénybe vevő lakóhelyén vagy ahhoz legközelebb eső településen a külön jogszabály szerinti védett munkahely, célszervezet, illetve fejlesztő foglalkoztató (a továbbiakban: védett munkahely) működik, és ott az érintett foglalkoztatására lehetőség van, az intézményvezető a védett munkahelyet közvetlenül is megkeresi. Ez a rendelkezés irányadó akkor is, ha az ellátást igénybe vevő foglalkoztatására egyéb munkahely keretében van lehetőség.
+
+(2) A rehabilitációs intézmény az ellátást igénybe vevő munkahelyi beilleszkedésének elősegítése mellett közreműködik munkaköri feladatainak betanításában is.
+
+##### 73. §
+
+(1) Ha az ellátást igénybe vevő intézményi jogviszonya a sikeres rehabilitáció következtében megszűnt, az intézmény a gondozás megszűnésétől számított legalább hat hónapig a rehabilitált személy utógondozását végzi. Utógondozás a rehabilitációs intézménybe elhelyezett személy intézmény elhagyását követő állapotának figyelemmel kísérése, különös tekintettel a lakókörnyezetébe történő beilleszkedésében, a munkavégzéssel, életkörülményeivel, napi ritmusával kapcsolatos problémáinak megoldásában, az egyéni konfliktusok kezelésében történő segítségnyújtás.
+
+(2) Az utógondozás körébe tartozik különösen a rehabilitált személy
+
+a) környezetének tájékoztatása az ellátott személy befogadására vonatkozóan,
+
+b)[^292] lakóhelye szerinti alapszolgáltatást nyújtó szociális szolgáltatókkal, intézményekkel való kapcsolatfelvétel,
+
+c) munkahelyi beilleszkedésének elősegítése,
+
+d) családja és a *b)* pont szerinti intézmények részére történő tanácsadás.
+
+## 4. CÍM — NAPPALI INTÉZMÉNYEKRE VONATKOZÓ SZABÁLYOK
+
+#### Általános szabályok
+
+##### 74. §[^293]
+
+A nappali ellátást biztosító intézmény
+
+a) az ellátást igénybe vevők részére szociális, egészségi, mentális állapotuknak megfelelő napi életritmust biztosító szolgáltatást nyújt,
+
+b) a helyi igényeknek megfelelő közösségi programokat szervez, valamint helyet biztosít a közösségi szervezésű programoknak, csoportoknak,
+
+c) biztosítja, hogy a szolgáltatás nyitott formában, az ellátotti kör és a lakosság által egyaránt elérhető módon működjön.
+
+##### 75. §
+
+(1) Nappali ellátás biztosítására az az intézmény alkalmas, amelyik rendelkezik
+
+a) a közösségi együttlétre,
+
+b) a pihenésre,
+
+c) a személyi tisztálkodásra,
+
+d) a személyes ruházat tisztítására,
+
+e)[^294] amennyiben a 77. § (1) bekezdésének d) pontjában megjelölt szolgáltatást biztosítja az étel melegítésére, tálalására és elfogyasztására
+
+szolgáló helyiségekkel.
+
+(2) A fogyatékos személyek és szenvedélybetegek nappali intézményében többfunkciós helyiséget kell biztosítani, melyben lehetőség van foglalkoztatás, szabadidős program lebonyolítására.
+
+##### 76. §
+
+A nappali ellátást nyújtó intézmények nyitvatartási idejét a helyi igényeknek megfelelően kell meghatározni, de az napi hat óránál kevesebb nem lehet.
+
+##### 77. §
+
+(1)[^295] A nappali ellátás
+
+a) tanácsadás,
+
+b) készségfejlesztés,
+
+c) háztartási vagy háztartást pótló segítségnyújtás,
+
+d) idősek nappali ellátása kivételével étkeztetés,
+
+e) esetkezelés,
+
+f) felügyelet,
+
+g) gondozás és
+
+h) közösségi fejlesztés
+
+szolgáltatási elemeket szükség szerint biztosít.
+
+(2)[^296] Az (1) bekezdés d) pontja szerinti esetben napi egyszeri meleg étkezésről kell gondoskodni.
+
+(3) Szabadidős programok szervezésének minősül az is, ha az intézmény az ellátást igénybe vevők részére sajtótermékeket, könyveket, kártya- és társasjátékokat, tömegkommunikációs eszközöket biztosít, rendezvényeket szervez.
+
+(4) Az intézmény által nyújtott egészségügyi ellátás körébe tartozik a felvilágosító előadások szervezése, tanácsadás az egészséges életmódról, gyógytorna lehetőségének biztosítása, valamint a mentális gondozás.
+
+##### 78. §
+
+(1) Ha az ellátást igénybe vevők foglalkoztatását a nappali ellátást nyújtó intézmény biztosítja, a foglalkoztatásból származó, a ráfordítás összegével csökkentett bevétel legalább ötven százalékát az ellátást igénybe vevő részére ki kell adni.
+
+(2) Az (1) bekezdés szerinti bevétel ki nem fizetett részét közösségi célra kell felhasználni.
+
+##### 79. §
+
+(1)[^297] Az intézmény vezetője a nappali ellátást nyújtó intézményekben a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett látogatási és eseménynaplót vezeti.
+
+(2)[^298] Az intézményvezető az ellátottak számát a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett nyilvántartásban havonta és évente összesíti. Ez az összesítés képezi az alapját az állami normatíva felhasználásának és elszámolásának, a mindenkori éves központi költségvetésről szóló törvény figyelembevételével.
+
+(3)[^299] Nappali ellátás esetén az Szt. 94/C. § szerinti megállapodások száma meghaladhatja a működési engedélyben meghatározott férőhelyek számát.
+
+##### 79/A. §[^300]
+
+A pszichiátriai betegek, illetve a szenvedélybetegek részére nappali ellátást nyújtó intézménynek rendelkeznie kell a területileg illetékes pszichiátriai vagy addiktológiai gondozóval kötött együttműködési megállapodással.
+
+##### 80. §
+
+A nappali ellátást nyújtó intézmény házirendje tartalmazza
+
+a) az intézmény nyitvatartási idejét,
+
+b) az intézmény által nyújtott szolgáltatások körét,
+
+c)[^301] étkeztetés biztosítása esetén az étkezések számát és az étkeztetés rendjét,
+
+d) az intézmény által szervezett foglalkoztatásból származó bevétel felhasználására vonatkozó előírásokat,
+
+e) az intézményi jogviszony megszűnésének szabályait,
+
+f) az intézmény alapfeladatát meghaladó program, szolgáltatás körét és térítési díját.
+
+#### A fogyatékos személyek nappali intézményére vonatkozó különös szabályok
+
+##### 81. §
+
+(1) Fogyatékos személyek nappali intézményében három éven aluli gyermek nem gondozható.
+
+(2) Fogyatékos személyek nappali intézményében nem gondozható az a személy, aki
+
+a) veszélyeztető magatartást tanúsít,
+
+b)[^302]
+
+c)[^303]
+
+d) orvosi ellátást és állandó ápolást igényel.
+
+(3)[^304] Az (1) és (2) bekezdésben foglaltakon túl az a gyermek sem gondozható fogyatékosok nappali intézményében, aki köznevelési intézményben történő nevelésre, oktatásra alkalmas, és felvétele, elhelyezése a korának, állapotának megfelelő köznevelési intézményben biztosítható.
+
+(3a)[^305] A (3) bekezdésben foglalt tilalom nem vonatkozik
+
+a) a tanköteles és a tanítási év során köznevelési intézményi ellátásban részesülő fogyatékos gyermek tanítási szünet idején történő ellátására,
+
+b) arra a gyermekre, aki köznevelési intézményben korai fejlesztésben és gondozásban vagy fejlesztő nevelésben részesül,
+
+c)[^306] a nemzeti köznevelésről szóló 2011. évi CXC. törvény 15. § (5) bekezdése szerinti esetre, valamint az egyéni munkarendben tanulmányokat folytató gyermekre.
+
+(4) Fogyatékos személyek intézményébe az ellátottakat csak próbaidővel lehet felvenni. A próbaidő tartama három hónapnál hosszabb nem lehet.
+
+(5)[^307] A fogyatékos személyek nappali intézménye a 77. § (1) bekezdésében foglaltak mellett
+
+a) gyógypedagógiai segítségnyújtás és
+
+b) pedagógiai segítségnyújtás
+
+szolgáltatási elemeket szükség szerint biztosít.
+
+##### 82. §
+
+(1) A fogyatékos személyek nappali intézményében hat-nyolc fős gondozási csoportot kell kialakítani. A gondozási csoportok kialakítása során figyelemmel kell lenni az ellátást igénybe vevők életkorára és fejlettségi szintjére.
+
+(2) A fogyatékos személyek nappali intézménye a 77. §-ban foglaltakon túl az ellátást igénybe vevők számára egyéni fejlesztő programokra épülő gyógypedagógiai foglalkozást szervez.
+
+#### A pszichiátriai betegek nappali intézményére vonatkozó különös szabályok
+
+##### 83. §
+
+(1) A pszichiátriai betegek nappali intézménye az öntevékenységre, az önsegítésre épülve biztosítja az ellátást igénybe vevők igényei alapján a kulturális, szabadidős, tájékoztató, képzési, átképzési állásközvetítő, védett lakhatást elősegítő, lakossági és családi programok, találkozók szervezését, lebonyolítását. Az intézmény szolgáltatásai körében egyéni, csoportos, pár- és családterápiákat is szervezhet.
+
+(2) A pszichiátriai betegek nappali intézményében olyan programokat kell biztosítani, melyek lehetővé teszik az ellátást igénybe vevőnek a társadalomba, a korábbi közösségébe történő visszailleszkedését. Ennek keretében a nappali intézmény programjai nyitottak, kívülállók számára is hozzáférhetőek. Ennek érdekében a nappali intézmény elhelyezését lehetőség szerint a település könnyen elérhető, jól megközelíthető területén kell kialakítani.
+
+(3) A nappali intézmény működésének nem része a pszichiátriai gondozás, de az intézményben dolgozó szociális munkás révén szükség szerint kapcsolatot kell tartani az ellátott kezelőorvosával, vagy az ideggondozóval, továbbá a hozzátartozókkal, valamint olyan személyekkel, akik fontos szerepet játszanak az ellátott életében.
+
+(4) Az intézmény a pszichiátriai betegek ellátása mellett szolgáltatást nyújthat a promóció és elsődleges prevenció céljával a mentálisan sérült, krízisben levő személyek részére is.
+
+#### A szenvedélybetegek nappali intézményére vonatkozó különös szabályok
+
+##### 84. §
+
+(1)[^308] A szenvedélybetegek nappali intézménye az önkéntességre és a speciális segítő programokra épülve biztosítja az ellátást igénybe vevők igényei alapján a felvilágosító, tanácsadó, tájékoztató, kulturális, szabadidős, képzési, átképzési állásközvetítő, védett lakhatást elősegítő, lakossági és családi programok szervezését és lebonyolítását, valamint alacsonyküszöbű és ártalomcsökkentő szolgáltatást nyújt.
+
+(2) A szenvedélybetegek nappali intézményében olyan programokat kell szervezni, melyek elősegítik az ellátást igénybe vevő rehabilitációját, a társadalomba, korábbi közösségébe való visszailleszkedését, valamint a szenvedélybetegek minél szélesebb körben való elérését. Ennek megfelelően a nappali intézmény programjai nyitottak, az intézményi ellátást igénybe nem vevő személy számára is hozzáférhetőek.
+
+(3) A szenvedélybetegek nappali intézményének nem feladata az alkohol-, drog- és egyéb függőségi problémával küzdő személyek egészségügyi gondozása, azonban az intézményben szervezett foglalkozások és programok révén törekedni kell az életmód-változtatás ösztönzésére, a visszaesés megelőzésére, illetve az intézményben dolgozó szociális munkás révén szükség szerint kapcsolatot kell tartani az ellátott kezelőorvosával, vagy az egészségügyi gondozást végző szakemberrel, továbbá a hozzátartozókkal.
+
+#### Demens személyek nappali ellátására vonatkozó különös szabályok
+
+##### 84/A. §[^309]
+
+(1)[^310] A demens személyek nappali ellátása a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum, a Nemzeti Rehabilitációs és Szociális Hivatal, a rehabilitációs szakértői szerv, vagy pszichiáter, neurológus, geriáter szakorvos demencia kórképet megállapító szakvéleményével rendelkező személyeket látja el.
+
+(2) A demens személyek nappali ellátása megszervezhető önálló intézményi formában, illetve – az (1) bekezdés szerinti ellátottakra tekintettel – más nappali ellátás részeként.
+
+(3) A demens személyek nappali ellátására – ideértve a más nappali ellátás részeként megszervezett formát is – a nappali ellátásra vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni:
+
+a) egyéni és csoportos foglalkozásokat napi rendszerességgel kell szervezni,
+
+b)[^311]
+
+c) a gondozói felügyeletet a nyitvatartási idő alatt folyamatosan biztosítani kell,
+
+d) a demens személyek nappali ellátásának szakmai programja az 5/A. § (1) bekezdésében meghatározottakon túl tartalmazza
+
+da) az ellátottak állapot-felmérési módszerének bemutatását,
+
+db) az ellátottak meglévő képességeinek megőrzésére és fejlesztésére irányuló programot,
+
+dc) a biztonságos tárgyi környezet bemutatását,
+
+dd) a területileg illetékes szakorvosi (pszichiátriai, neurológiai, geriátriai) ellátással való együttműködés módját.
+
+## 5. CÍM — AZ ÁTMENETI ELHELYEZÉST NYÚJTÓ INTÉZMÉNYEKRE VONATKOZÓ SZABÁLYOK
+
+##### 85. §
+
+(1) Az átmeneti elhelyezést nyújtó intézményi ellátásra legfeljebb egy évig kerülhet sor.
+
+(2) Az (1) bekezdés szerinti határidő elteltét megelőzően egy hónappal az intézmény vezetője megvizsgálja, hogy az ellátást igénybe vevő családi környezetébe visszahelyezhető-e, illetve ellátása személyes gondoskodás útján biztosítható-e.
+
+(3) Ha az ellátást igénybe vevő családi környezetébe nem helyezhető vissza, az intézmény vezetője az ellátás időtartamát további egy évvel meghosszabbíthatja.
+
+(4) Ha az ellátást igénybe vevőt más, személyes gondoskodást nyújtó intézményben el lehet látni, a megfelelő intézménybe történő áthelyezés lehetőségéről az intézmény vezetője tájékoztatást ad. Az új intézménybe történő elhelyezésig az ellátást igénybe vevő ellátását változatlan feltételekkel kell biztosítani.
+
+(5)[^312] Az átmeneti elhelyezést nyújtó intézményekre az 50. § (2) bekezdés g) pontjában, az 54. § (1) bekezdés d) pontjában, 56. §-ában, 58–59. §-ában foglaltakat nem kell alkalmazni.
+
+(6)[^313] Az (1) és a (3) bekezdés szerinti egyéves időtartam számításakor az átmeneti elhelyezést nyújtó intézményben töltött időszakokat – ha az ellátás megszakítása kevesebb mint 30 napra történt – össze kell adni.
+
+##### 86. §
+
+(1) A fogyatékos személyek gondozóházában lehetőség szerint a fogyatékosság jellege szerint elkülönített gondozási egységekben kell az ellátást megszervezni.
+
+(2) Az intézmény vezetője a gondozási egységeket az ellátást igénybe vevők életkora és fejlettségi szintje szerint alakítja ki.
+
+##### 87. §
+
+(1) A pszichiátriai betegek átmeneti intézménye a mentális és pszichiátriai problémákkal küzdő személy részére nyújt ideiglenes elhelyezést.
+
+(2) A szenvedélybetegek átmeneti intézménye az alkohol-, drog- és egyéb függőségi problémával küzdő személy részére nyújt ideiglenes elhelyezést.
+
+(3) A pszichiátriai betegek, valamint a szenvedélybetegek átmeneti intézményében folyó munka célja az önálló életvitel feltételeinek fenntartása a szociális segítségnyújtás lehetőségeinek felhasználásával és speciális programok szervezésével (készségfejlesztés, stresszkezelés, munkavállalással kapcsolatos tréningek, szociális esetmunka, életvezetési készségek fejlesztésének elősegítése, szabadidős programok).
+
+## 6. CÍM — A LAKÓOTTHON
+
+#### A lakóotthonra vonatkozó általános szabályok
+
+#### A lakóotthon létrehozása
+
+##### 88. §
+
+(1) A lakóotthon a következő formákban működtethető:
+
+a) már működő – fogyatékos személyeket, illetve pszichiátriai betegeket ellátó – ápoló-gondozó otthonhoz, valamint rehabilitációs intézményhez kapcsolódóan, vagy
+
+b) önálló szervezetben.
+
+(2) A lakóotthonban olyan elhelyezési körülményeket kell biztosítani, amely lehetővé teszi az ellátást igénybe vevő egyéni igényeinek minél szélesebb körű figyelembevételét.
+
+(3) Tizennégy fő befogadására alkalmas lakóotthon akkor hozható létre, ha
+
+a) az intézmény kialakítására csak egy már meglévő épületben van mód, és
+
+b) az épület adottságai, méretei ezt indokolttá teszik.
+
+##### 89. §
+
+(1) A lakóotthonba az a személy helyezhető el, aki
+
+a) önellátásra legalább részben képes,
+
+b) elégséges jövedelemmel rendelkezik az új életforma költségeinek viseléséhez,
+
+c) folyamatos tartós ápolást, felügyeletet nem igényel.
+
+(2) A lakóotthonban – a szociális intézményből történő áthelyezés esetén – az (1) bekezdésben foglaltakon túl az a személy helyezhető el, aki az egyéni gondozási és egyéni fejlesztési terv részét képező egyéni fejlesztő program lezárását követően elfogadja a kihelyezést.
+
+(3) A lakóotthonban ellátottakat próbaidővel is fel lehet venni. A próbaidő tartama hat hónapnál hosszabb nem lehet.
+
+(4) A lakóotthonban azonos és különböző típusú betegségben, fogyatékosságban szenvedő személyek egyaránt elhelyezhetők, figyelemmel kell azonban lenni az ellátást igénybe vevőkről készített szakorvosi véleményre.
+
+(5)[^314] A rehabilitációs célú lakóotthonban különböző ellátási csoportba tartozó személyek is elhelyezhetők, ha egyéni rehabilitációs programjuk, egyéni fejlesztési tervük az együttműködést lehetővé teszi.
+
+##### 90. §
+
+(1) Az intézmény vezetőjének feladata, hogy megállapítsa az önellátásra való képesség mértékét, figyelembe véve az intézmény orvosának, a felülvizsgálatot végző bizottságnak, esetleg az ellátottat kezelő szakorvosnak a véleményét.
+
+(2) Az intézmény mellett működő lakóotthon számára igény szerint biztosítani kell a szükséges szolgáltatásokat (pl. étkeztetés, foglalkoztatás, mosatás stb.). Az önállóan működő lakóotthonban szükség szerint kell a szolgáltatásokat a fenntartónak megszervezni. A lakóotthonban folyó szakmai munkát az intézmény vezetője felügyeli.
+
+##### 91. §
+
+(1) Ha a lakóotthoni ellátásban részesülő személy egészségi állapotában változás következik be, részére a szükséges egészségügyi, ápolási, gondozási szolgáltatásokat ideiglenesen biztosítani kell.
+
+(2) Tartós állapot rosszabbodás esetén intézkedni kell az ellátást igénybe vevő állapotának megfelelő elhelyezésről.
+
+#### A lakóotthon szakmai feladatai
+
+##### 92. §
+
+(1) A lakóotthoni ellátás során – az intézmény sajátosságaitól függetlenül – biztosítani kell
+
+a) a lakóhelyi, munkahelyi feladatok és a szabadidő eltöltésének szétválasztását, lehetőség szerint foglalkoztatást, esetleg szabadidős tevékenységeket, illetve azok szervezését,
+
+b) az ellátást igénybe vevő életkörülményeivel kapcsolatos problémák önálló megoldását, szükség esetén segítséget a döntések meghozatalához,
+
+c) az ellátást igénybe vevő szükségletei szerinti szolgáltatások elérhetőségének megkönnyítését.
+
+(2) A lakóotthon erre vonatkozó igény esetén biztosíthatja az ellátást igénybe vevőről gondoskodó szülő, hozzátartozó – a lakóotthonra engedélyezett férőhelyszámon felül történő – elhelyezését, feltéve, hogy az együttélést a fogyatékos személy állapota indokolja.
+
+(3) A lakóotthon a házirendben szabályozott esetekben – a lakóotthonra engedélyezett férőhelyszámon felül – elhelyezést biztosíthat az ellátást igénybe vevő kiskorú gyermekének. A kiskorú gyermek elhelyezésének biztosítása alapfeladatot meghaladó szolgáltatásnak minősül.
+
+(4) A normális napi életritmus kialakítása kapcsán figyelemmel kell lenni
+
+a) a munkavégzésre, a szabadidő eltöltésére,
+
+b) a munka és a szabadidő megfelelő arányára,
+
+c) továbbá a lakóotthon fenntartásában vállalt feladatok ellátására.
+
+#### A lakóotthon tárgyi követelményei
+
+##### 93. §
+
+(1) A lakóotthon korszerű lakhatási és életkörülményeket biztosít, illetve minőségi követelményeknek megfelelő ellátást nyújt.
+
+(2) A lakóotthon rendelkezik
+
+a) az éjszakai és nappali tartózkodásra,
+
+b) személyi tisztálkodásra,
+
+c) az étel elkészítésére, főzésre,
+
+d) az étkezésre,
+
+e) közösségi együttlétre, tevékenységre
+
+alkalmas helyiségekkel.
+
+(3) A lakóotthon esetében egy lakószobában kettő, kivételes esetben négy személy helyezhető el.
+
+##### 94. §
+
+(1) Lakóotthoni forma kialakítására az az épület alkalmas, amelyben
+
+a) személyenként a lakószobában legalább nyolc négyzetméter nagyságú lakóterület jut,
+
+b) tíz ellátottra két fürdőszoba (fürdőkád vagy zuhanyzó),
+
+c) külön helyiségben két darab illemhely,
+
+d)[^315] főzésre alkalmas helyiség, illetve nyolc-tizenkét fő elhelyezésére alkalmas étkezőhelyiség,
+
+e)[^316] 8–10 fő ellátott esetén ellátottanként legalább két négyzetméter, 10 fő ellátott felett legalább húsz négyzetméter alapterületű közösségi együttlétre szolgáló helyiség
+
+található, valamint
+
+f) biztosított a folyamatos melegvíz-, fűtés- és energia szolgáltatás.
+
+(2)[^317] A főzésre alkalmas helyiségnek alkalmasnak kell lennie meleg étel készítésére. A főzésre alkalmas helyiségnek átlagos felszereltségűnek kell lennie.
+
+#### A lakóotthon szolgáltatásai
+
+##### 95. §
+
+(1) Az ellátást igénybe vevő a lakóotthontól a következő szolgáltatásokat igényelheti:
+
+a) étkezés,
+
+b) munka jellegű foglalkoztatás megszervezése,
+
+c) pénzkezeléssel kapcsolatos segítségnyújtás,
+
+d) egészségügyi, mentálhigiénés alapszolgáltatás (tanácsadás, életvitel javítását segítő programok),
+
+e) szabadidős programok szervezése (kirándulás, rendezvények),
+
+f) sportszerek használatának biztosítása.
+
+(2) A lakóotthonban a szociális segítő szervezi a foglalkoztatást, a szabadidős programokat.
+
+#### A lakóotthoni ellátást igénybe vevők jogai
+
+##### 96. §
+
+(1) A lakóotthoni ellátást igénybe vevők jogosultak látogatót fogadni. A látogatók fogadásának rendjét a házirend határozza meg.
+
+(2) A házirend az (1) bekezdésben, valamint az 5. § (3) bekezdésében foglaltakon túl tartalmazza különösen
+
+a) azt, hogy ki, milyen feltételekkel léphet be a szobába az ott élők engedélye nélkül,
+
+b) a takarítás rendjét, módját,
+
+c) a lakószoba díszítését, felszerelésének kialakítását, a személyes használati tárgyak használatát.
+
+(3) A lakóotthonban lakók joga, hogy önállóan meghatározzák a házirendben az életvitelükkel kapcsolatos együttélési szabályokat.
+
+(4) Az ellátást igénybe vevő képességeihez mérten részt vehet a lakóotthon működtetésében.
+
+#### Az ellátást igénybe vevők pénzkezelése, a jövedelem felhasználása
+
+##### 97. §
+
+(1) A lakóotthonban élő személy a saját vagyonát, jövedelmét, költőpénzét maga kezeli, kérésére azonban a szociális segítő a költőpénz felhasználásához segítséget nyújt számára.
+
+(2) Ha az ellátást igénybe vevő gondnokság vagy gyámság alatt áll, a vagyonának kezelése a külön jogszabályban meghatározottak szerint történik.
+
+#### A lakóotthon típusai a biztosított ellátás mértéke szerint
+
+##### 98. §
+
+(1) A lakóotthon a lakóközösség tagjainak önellátási képessége alapján lehet:
+
+a) az ellátást igénybe vevők által szervezett közösség;
+
+b) segítő személyek közreműködő részvételével működő közösség.
+
+(2) Az ellátást igénybe vevők által szervezett közösség nagyfokú autonómia mellett alakítja életkörülményeit. A fenntartó feladata, hogy a lakóotthon épületének fenntartásával kapcsolatos alapvető feladatokat ellássa. Az ilyen típusú lakóotthonban élőket szükség szerint, de legalább hetente egyszer látogatja meg szociális munkás, illetve mentálhigiénés szakember.
+
+(3)[^318] A szociális segítő közreműködésével működő lakóotthonban a fenntartó folyamatosan biztosítja az ellátást igénybe vevők mentálhigiénés ellátását. Ennek keretében a szociális segítő folyamatosan figyelemmel kíséri, szükség esetén aktívan alakítja az ellátást igénybe vevő életkörülményeivel kapcsolatos döntéseit, életvitelét.
+
+#### A lakóotthonban foglalkoztatottak feladatai
+
+##### 99. §
+
+(1) A lakóotthonban foglalkoztatott személyek a következők:
+
+a) intézményvezető;
+
+b) szociális segítő;
+
+c) szükség esetén kisegítő személyzet.
+
+(2) A lakóotthonban foglalkoztatottaknak meg kell felelniük a 3. számú mellékletben meghatározott képesítési előírásoknak.
+
+#### Az egyes lakóotthonokra vonatkozó különös szabályok
+
+#### Ápoló, gondozó célú lakóotthon
+
+##### 99/A. §[^319]
+
+(1) Az ápoló, gondozó célú lakóotthonban elhelyezhető az a fogyatékos, illetve autista személy is, aki nem felel meg a 89. § (1) bekezdésének a) és c) pontjában foglalt feltételeknek.
+
+(2) Az ápoló, gondozó célú lakóotthonban biztosítani kell az ellátottak folyamatos ápolását, gondozását és felügyeletét, valamint
+
+a) a 95. § (1) bekezdésének a) és d)–e) pontja szerinti szolgáltatásokat,
+
+b) a személyre szóló fejlesztő foglalkozásokat,
+
+c) szükség esetén az ellátottak szállítását.
+
+#### Fogyatékos személyek lakóotthonára vonatkozó különös szabályok
+
+##### 100. §
+
+(1)[^320] A fogyatékos személyek lakóotthonát úgy kell kialakítani, hogy
+
+a) a lakóotthon akadálymentes megközelíthetősége,
+
+b) a támogató szolgálat szükség szerinti igénybevételének lehetősége,
+
+c)[^321] szükség esetén a szociális intézmény, így különösen fogyatékos személyt vagy pszichiátriai beteget ápoló-gondozó, vagy rehabilitációs intézmény, család- és gyermekjóléti szolgálat elérhetősége
+
+biztosított legyen.
+
+(2)[^322]
+
+#### A pszichiátriai és szenvedélybetegek lakóotthonára vonatkozó különös szabályok[^323]
+
+##### 101. §
+
+(1)[^324] A lakóotthonban nem helyezhető el olyan személy, aki közösségi együttélésre alkalmatlan, a vele együtt élő társaira nézve veszélyes magatartást tanúsíthat.
+
+(2) A lakóotthonban biztosítani kell a szükséges egészségügyi ellátást, illetve annak szervezését. A lakóotthonban dolgozó szociális segítő aktív kapcsolatot tart fenn az ellátást igénybe vevők kezelőorvosával, szakorvosával, valamint a hozzátartozókkal. A lakóotthon életét lehetőleg nyitottan kell megszervezni, a rendezvényekre, programokra a közeli hozzátartozók részvételét biztosítani kell.
+
+(3)[^325]
+
+#### Korlátozó intézkedés elrendelése
+
+##### 101/A. §[^326]
+
+(1) A pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézményében ha az ellátott személy veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít, az egészségügyről szóló 1997. évi CLIV. törvény vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
+
+(2) A korlátozó intézkedés alkalmazásáról a szolgáltatást nyújtó részletes eljárásrendet alakít ki a házirendben, amelynek tartalmaznia kell
+
+a) az intézmény munkarendjét figyelembe véve a korlátozó intézkedés elrendelésének szabályait,
+
+b) a korlátozó intézkedés egyes formái mellé rendelt maximális időtartamot,
+
+c) a korlátozó intézkedés egyes formái mellé rendelt megfigyelés szabályait,
+
+d) a korlátozás feloldásának szabályait,
+
+e) a panaszjog gyakorlásának részletes szabályait.
+
+(3)[^327] Korlátozó intézkedés alkalmazása esetén – ide nem értve a pszichés megnyugtatást – a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett adatlapot kell kitölteni. A korlátozó intézkedés időtartama alatti megfigyeléseket, állapotleírást a betétlapon kell részletesen feltüntetni. A kitöltött adatlapot a gondozási tervhez kell csatolni.
+
+(4) Az intézménybe történő felvételkor az intézményvezető írásos formában tájékoztatja az ellátást igénybe vevőt, illetve törvényes képviselőjét
+
+a) a szervezeti és működési szabályzat korlátozó intézkedésre vonatkozó szabályairól,
+
+b) az ellátotti jogokról a korlátozó intézkedés alkalmazása esetén,
+
+c) az ellátottjogi képviselő, illetve az érdekképviseleti fórum elérési lehetőségéről,
+
+d) a panaszjog lehetőségéről, gyakorlásának szabályairól.
+
+(5) A (4) bekezdés szerinti tájékoztatót az ellátott, törvényes képviselője és az intézmény vezetője aláírják.
+
+(6) Az ellátottat szóban tájékoztatni kell a korlátozó intézkedés végrehajtása előtt annak elrendeléséről és formájáról, valamint a korlátozó intézkedés feloldásáról.
+
+(7) Az ellátott törvényes képviselőjét tájékoztatni kell
+
+a)[^328] a korlátozó intézkedés végrehajtása előtt, halaszthatatlan esetben a végrehajtás alatt vagy azt követően haladéktalanul a korlátozó intézkedés elrendeléséről és formájáról,
+
+b) a korlátozó intézkedés feloldásáról.
+
+(8) A korlátozó intézkedés feloldásáról történő tájékoztatással egyidejűleg az adatlap másolatát át kell adni, illetve meg kell küldeni az ellátottnak, valamint törvényes képviselőjének.
+
+#### Intézményi szolgáltatások szervezeti integrációja
+
+##### 101/B. §[^329]
+
+(1) Bentlakásos intézményi szolgáltatás megszervezése az alábbi formákban történhet:
+
+a) egy ellátotti csoport részére azonos gondozási feladatok ellátása (tiszta profilú intézmény),
+
+b) több intézménytípus szolgáltatásainak biztosítása részleg kialakításával (részlegek),
+
+c) több intézménytípus különálló szervezeti egységekben történő megszervezése (integrált intézmény).
+
+(2) Az (1) bekezdés b) és c) pontjában meghatározott esetekben a tárgyi-személyi feltételek tekintetében speciális feltételek állapíthatók meg, azonban az egyes intézménytípusoknak vagy részlegeknek külön-külön meg kell felelniük az
+
+a) egy főre jutó lakóterület nagyságára,
+
+b) egy lakószobában elhelyezhető személyek számára
+
+vonatkozó előírásoknak.
+
+(3) Ha több bentlakásos intézményi ellátás kerül egy intézmény keretében megszervezésre, az intézményvezetői munkakört az intézmény által nyújtott bármelyik ellátási forma vezetőjére meghatározott képesítési előírásoknak megfelelő személy betöltheti.
+
+(4) Szervezeti integráció esetén az egyes munkakörökre vonatkozó szakmai létszámok összeszámolhatóak, és az együttes létszám
+
+a) ápoló, gondozó munkakörök esetében,
+
+aa) ha az adott munkakörökben legfeljebb 20 fő dolgozik, 10%-kal,
+
+ab) ha az adott munkakörökben 20 főnél többen dolgoznak, 5%-kal,
+
+b) ha az együttes létszám 1 fő feletti, terápiás munkatárs és szociális munkatárs munkakörökben 1 fővel
+
+csökkenthető.
+
+## 7. CÍM — A HAJLÉKTALAN SZEMÉLYEK ELLÁTÁSÁRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+##### 102. §
+
+(1) A hajléktalan ellátás megszervezése során figyelemmel kell lenni az ellátást igénybe vevők alapvető jogaira, emberi méltóságára.
+
+(2) A hajléktalan személyek ellátását végző intézmény segítséget nyújt a hajléktalan személy életviteléhez, elősegítve a szociális ellátások igénybevételét, elérését.
+
+#### A nappali melegedő
+
+##### 103. §
+
+(1) A nappali melegedő lehetőséget biztosít a hajléktalan személyek részére
+
+a) a közösségi együttlétre,
+
+b) a pihenésre,
+
+c) a személyi tisztálkodásra,
+
+d) a személyes ruházat tisztítására,
+
+e) az étel melegítésére, tálalására, elfogyasztására.
+
+(2)[^334]
+
+(3)[^335]
+
+##### 103/A. §[^336]
+
+(1) A nappali melegedő – a (2) bekezdésben meghatározott kivétellel – a 76. §-ban foglaltaknak megfelelően tart nyitva.
+
+(2)[^337] A szociálpolitikáért felelős miniszter által – a hajléktalan személyek folyamatos ellátásának biztosítása érdekében a településen lévő intézmények elhelyezkedése, megközelíthetősége, valamint a rendelkezésre álló férőhelyek számának figyelembevételével – kijelölt nappali melegedők a hét minden napján 8 óra és 18 óra között tartanak nyitva.
+
+(3)[^338] A szociálpolitikáért felelős miniszter a kijelölésről szóló közleményt az általa irányított minisztérium honlapján teszi közzé.
+
+#### Utcai szociális munka
+
+##### 104. §
+
+(1)[^339] Az utcai szociális munka feladata az utcán, közterületen, nem lakás céljára szolgáló helyen élők életet vagy testi épséget veszélyeztető helyzetének megszüntetése, az életmóddal járó ártalmak csökkentése, a szociális és egészségügyi szolgáltatások és ellátások igénybe vételének segítése és szervezése, a hajléktalan személyeket ellátó intézménybe vagy más szálláshelyre juttatás.
+
+(2)[^340] Az utcai szociális munka
+
+a) megkeresés,
+
+b) tanácsadás,
+
+c) gondozás,
+
+d) esetkezelés és
+
+e) szállítás
+
+szolgáltatási elemeket szükség szerint biztosít.
+
+(3)[^341]
+
+(4) Az utcai szociális munkát végző számára biztosítani kell a segítségnyújtáshoz szükséges tárgyi feltételeket, szükség szerint közlekedési eszközt vagy utazási bérletet, meleg takarót, ruhaneműt, esetenként konzerv és egyéb élelmiszert, valamint készenléti gyógyszert.
+
+(5)[^342] Az utcai szociális munkát végző szolgáltató, intézmény a (2) bekezdés szerinti feladatokat legalább munkanapokon, legalább napi 6 órában végzi a szolgáltatói nyilvántartásban meghatározott ellátási területen, ideértve az ellátási területen életvitelszerűen élőknek az ellátási területen kívüli intézményi vagy egyéb szolgáltatásokhoz, és az ellátási területen kívül életvitelszerűen élőknek az ellátási területen lévő intézményekbe vagy szolgáltatásokhoz történő hozzáférésének biztosítását is. Az utcai szociális munkát végző szolgáltatók működési idejét a diszpécserszolgálatokkal történt egyeztetést követően, úgy kell megszervezni – a megállapodásban rögzítettek szerint –, hogy az megfeleljen az ellátási terület szükségleteinek.
+
+(5a)[^343] Az utcai szociális munkát végző szolgáltató téli időszakban az életet és testi épséget veszélyeztető időjárási körülmények között – így különösen vörös kód kiadása vagy egyéb rendkívüli időjárási körülmény esetén – gondoskodik arról, hogy 18.00–22.00 óra között – szükség esetén a krízisautó szolgálat bevonásával – a közterületi bejelentésekre haladéktalanul reagálhasson. Egymással szomszédos vagy közös ellátási területtel rendelkező utcai szociális munkát végző szolgáltatók az ellátási terület speciális igényeit figyelembe véve, az illetékes diszpécserszolgálattal közösen megállapodhatnak úgy, hogy ezt a szolgáltatást az adott napon csak az egyik szolgáltató biztosítja valamennyi érintett szolgáltató ellátási területén.
+
+(6)[^344] Ha a hajléktalan személyt érintő veszélyhelyzetet az utcai szociális munkás nem tudja elhárítani, intézkedik a segítséget igénylő állapotának és helyzetének megfelelő ellátás biztosítása érdekében, és a helyszínen megvárja az ellátást, illetve intézkedést nyújtó személy megérkezését.
+
+(7)[^345] Az utcai szociális munkát végző szolgáltatók, intézmények tevékenységüket összehangolják az ellátási területükön, illetve az azzal szomszédos ellátási területeken működő más utcai szociális munkát végző szolgáltatókkal, intézményekkel, valamint az illetékes diszpécserszolgálattal. A diszpécserszolgálattal történő együttműködéssel kapcsolatos kérdéseket – a feladatok, a vállalt kötelezettségek és a közterületen töltött ellátási időszakok meghatározásával – együttműködési megállapodásban kell rögzíteni. Az együttműködési megállapodásban a jogszabályi rendelkezésektől nem lehet eltérni, a jogszabályi feltételeket a szolgálatoknak külön-külön kell teljesíteniük. Ha az ellátási területen több szolgálat működik, a közterületen töltött ellátási időszakokat úgy kell megszervezni, hogy azok minél kevésbé fedjék egymást. Ha az ellátási terület igényei ezt indokolják, az egymással szomszédos vagy közös ellátási területtel rendelkező utcai szociális munkát végző szolgáltatók működési idejét úgy kell meghatározni, hogy egyidejűleg valamennyi érintett ellátási területen egy szolgálat gondoskodjon a közterületen élő emberekkel kapcsolatos feladatok ellátásáról.
+
+(8)[^346] Az utcai szociális munka keretében az Szt. 7. § (1) bekezdése szerinti életet és testi épséget veszélyeztető helyzet elhárítása érdekében különösen a –10 °C vagy annál alacsonyabb hőmérséklet, a 27 °C feletti napi középhőmérséklet vagy a meteorológiai szolgálat második szintű veszélyjelzésének időtartama alatt szükséges intézkedni.
+
+(9)[^347] Az utcai szociális munkát végző szolgáltatók együttműködnek a területükön illetékes rendőrkapitányságok és határrendészeti kirendeltségek kijelölt személyeivel a rászoruló személyeket a téli időjárási viszonyok következtében fenyegető veszélyhelyzetek megelőzésével és kezelésével összefüggő rendőri feladatok végrehajtása érdekében.
+
+(10)[^348] Az Szt. 65/E. § (3) bekezdése szerinti időszak alatt az ellátási területre vonatkozó, e rendelet szerinti szabályoktól – a diszpécserszolgálattal egyeztetett módon, az ellátási szükségletnek megfelelően – el lehet térni.
+
+##### 104/A. §[^349]
+
+(1) Az utcai szociális munka megszervezhető önálló szervezeti formában vagy szociális intézmény keretein belül. Az önálló szervezeti formában működtetett utcai szociális munkát végző intézmény együttműködik az ellátási területén működő szociális szolgáltatásokkal.
+
+(2) Az utcai szociális munka – amennyiben nem önálló szervezeti formában működik – megszervezhető
+
+a) nappali melegedő, vagy hajléktalanok átmeneti szállását, illetve éjjeli menedékhelyet biztosító intézmény keretében,
+
+b)[^350]
+
+c)[^351] család- és gyermekjóléti szolgálat keretében, ha ez a helyi szükségletek figyelembevételével a családos hajléktalanok, az ifjúsági korosztály, a gyermekek segítése érdekében indokolt.
+
+(3)[^352] Utcai szociális munka esetében előírt munkakörökben csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontját követő 15 napon belül a munkáltató bejelentett az utcai szociális munka képzésre, és a foglalkoztatott azt a foglalkoztatás kezdő időpontjától számított egy éven belül elvégzi.
+
+(4)[^353] Az utcai szociális gondozók munkáját koordinátor szervezi és irányítja.
+
+(5)[^354]
+
+#### Diszpécserszolgálat[^355]
+
+##### 104/B. §[^356]
+
+(1)[^357] Az utcákon, közterületeken élő hajléktalan emberek ellátásának hatékonyabbá tétele érdekében a szociális ágazatot irányító miniszter öt éves időtartamra regionális hatáskörű diszpécserszolgálatokat jelöl ki.
+
+(2) A diszpécserszolgálat
+
+a) fogadja a közterületeken élő, kritikus helyzetbe került emberekre vonatkozó bejelentéseket,
+
+b) a bejelentéseknek megfelelően értesíti az ellátási terület szerint érintett utcai szociális munkás szolgálatot, illetve szükség esetén más ellátást kezdeményez,
+
+c) napi kapcsolatot tart a közterületeken, nem lakás célú helyiségekben élő emberekkel foglalkozó, utcai szociális munkát végző szolgáltatókkal, intézményekkel, orvosi ügyeletekkel és a célcsoport számára ellátást nyújtó egyéb szolgáltatókkal,
+
+d) gyűjti és rendszerezi a régióban működő, hajléktalan emberek ellátásával foglalkozó intézmények férőhelyadatait, az igénybevétel módját, valamint egyéb, a hajléktalan emberek ellátásával kapcsolatos szolgáltatásokra vonatkozó információkat,
+
+e) számítógépes adatbázisában nyilvántartja a bejelentések kapcsán tett intézkedéseket,
+
+f)[^358] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a Hajléktalanokért Közalapítványt,
+
+g)[^359]
+
+h)[^360] koordinálja az életet és testi épséget veszélyeztető helyzetek elhárításával kapcsolatos feladatokat, ennek érdekében együttműködik az önkormányzattal,
+
+i)[^361] együttműködik a területükön illetékes rendőrkapitányságok és határrendészeti kirendeltségek kijelölt személyeivel a rászoruló személyeket a téli időjárási viszonyok következtében fenyegető veszélyhelyzetek megelőzésével és kezelésével összefüggő rendőri feladatok végrehajtása érdekében,
+
+j)[^362] az utcai szociális munkát végző szolgáltatókkal kötött együttműködési megállapodással gondoskodik a téli időszakban 18 órát követően közterületen tartózkodó hajléktalan személyek ellátásának biztosításáról.
+
+(2a)[^363] Téli krízisidőszakban – a (2) bekezdésben foglaltakon túl – a diszpécserszolgálat
+
+a) biztosítja, hogy az utcai szociális munkát végző szolgálatok működési idején túl az illetékességi területén működő krízisautó szolgáltatás folyamatosan biztosított legyen, és két órán belül a bejelentés helyszínére eljusson,
+
+b) fogadja a konvergencia régiókban – amennyiben más, a krízishelyzetet kezelő szociális szolgáltató az adott ellátási területen nem működik, vagy működési idejére tekintettel bevonása nem lehetséges – a fűtetlen ingatlanokban, testi épséget, egészséget veszélyeztető lakhatási körülmények között élő, kritikus helyzetbe került emberekre vonatkozó bejelentéseket,
+
+c) összehangolja az illetékességi területén működő krízisautó szolgálatok tevékenységét, és
+
+d) napi kapcsolatot tart az illetékességi területéhez tartozó család- és gyermekjóléti központtal és szolgálattal.
+
+(2b)[^364] A (2a) bekezdés a) pontja szerinti feladatot a diszpécserszolgálat krízisautó szolgáltatás fenntartásával, krízisautó szolgáltatást működtető utcai szociális munkát végző szolgálatok megbízásával vagy az illetékességi területén működő krízisautó szolgálat tevékenységnek irányításával biztosítja.
+
+(3) A diszpécserszolgálat a (2) bekezdés szerinti feladatokat
+
+a) a téli időszakban folyamatosan, napi 24 órában biztosítja,
+
+b) a téli időszakon kívül legalább munkaidőben biztosítja, és gondoskodik a munkaidőn kívüli telefonhívások fogadásáról.
+
+(4)[^365] A diszpécserszolgálat az Szt. 65/E. § (3) bekezdése szerinti jelzéssel akkor él, ha a hajléktalan személyeket ellátó intézmények kapacitáshiány következtében nem tudják biztosítani a hajléktalan személy ellátását.
+
+#### Hajléktalanok átmeneti szállása
+
+##### 105. §
+
+(1)[^366] A hajléktalan személyek átmeneti szállásának lakhatási szolgáltatása a (2) bekezdés szerint biztosítható az intézményen belül.
+
+(2) A hajléktalan személyek átmeneti szállásának az az intézmény alkalmas, ahol
+
+a)[^367]
+
+b)[^368] biztosított a betegek szükség szerinti elkülönítése,
+
+c) tizenöt ellátottra legalább egy zuhanyozó és nemenkénti illemhely jut,
+
+d) a lakószobában egy ellátottra legalább négy négyzetméter nagyságú lakóterület jut,
+
+e)[^369] biztosítottak a ruházat tisztításának és az értékek biztonságos megőrzésének feltételei, és
+
+f)[^370] biztosítottak az étel melegítésére, étkezésre szolgáló helyiségek.
+
+(3)[^371] A hajléktalan személyek átmeneti szállásán nyújtott, az Szt. 84. § (2) bekezdés b) pontja szerinti szociális munkát a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett nyilvántartó lapon kell rögzíteni.
+
+##### 106. §[^372]
+
+(1) A hajléktalan személyek átmeneti szállása a szociális munka keretében
+
+a) tanácsadás,
+
+b) esetkezelés,
+
+c) gondozás,
+
+d) készségfejlesztés,
+
+e) az ellátott egyéni szükségletei szerint felügyelet és háztartási vagy háztartást pótló segítségnyújtás
+
+szolgáltatási elemeket szükség szerint biztosít.
+
+(2) A hajléktalan személyek átmeneti szállása segíti a más szolgáltatásokhoz való hozzáférést.
+
+#### Hajléktalanok éjjeli menedékhelye
+
+##### 107. §
+
+(1)[^373] A hajléktalan személyek éjjeli menedékhelyére a 105. § rendelkezései az irányadók azzal, hogy a nyújtott szociális munka tartalmát a (3) és (4) bekezdés határozza meg.
+
+(2)[^374] Az éjjeli menedékhely a hét minden napján legalább 18 óra és 8 óra között nyitva tart.
+
+(3)[^375] Az éjjeli menedékhely
+
+a) tanácsadás,
+
+b) esetkezelés és
+
+c) felügyelet
+
+szolgáltatási elemeket biztosít.
+
+(4)[^376] A hajléktalan személyek éjjeli menedékhelye segíti a más szolgáltatásokhoz való hozzáférést.
+
+#### Az időszakos férőhelyszám-bővítés
+
+##### 107/A. §[^377]
+
+(1)[^378] A hajléktalanok átmeneti szállását, az éjjeli menedékhelyet, valamint a nappali melegedőt működtető fenntartó a közterületen vagy lakhatásra alkalmatlan helyiségben életvitelszerűen tartózkodó hajléktalan személyek ellátásának, a közvetlen életveszély elhárításának érdekében a téli időszakban időszakos férőhelyeket biztosíthat.
+
+(2) A férőhelyszám-bővítés végrehajtható már működő intézmény épületében, az engedélyezett férőhelyszám növelésével, illetve különálló, az éves intézményi ellátásban nem hasznosított, a téli időszakban működtetni kívánt saját tulajdonban lévő, bérelt, vagy használati joggal biztosított épületben, helyiségben.
+
+(3)[^379]
+
+##### 107/B. §[^380]
+
+(1) Az időszakos férőhelyszám-bővítés abban az esetben hajtható végre, ha a bővítés az időszakot megelőző férőhelyeket igénybe vevők ellátását nem zavarja.
+
+(2) A végrehajtott férőhelyszám-bővítés nem haladhatja meg az intézmény ideiglenes vagy állandó működési engedélyében szereplő férőhelyszám 30%-át.
+
+(3) Az időszakos férőhelyszám-bővítéskor az intézmény biztosítja a 105. § (2) bekezdésében és a 107. § (2) bekezdésében foglaltakat, azzal, hogy
+
+a) a lakószobában egy ellátottra legalább három négyzetméter nagyságú lakóterület jut,
+
+b) huszonöt ellátottra jut legalább egy zuhanyzó és egy illemhely,
+
+c) folyamatosan biztosítja a fűtést, világítást és a meleg vízzel való ellátást,
+
+d) biztosítja az egészségügyi alapellátás megszervezését, szükség szerint a szakellátáshoz való hozzájutás segítését.
+
+#### Hajléktalanok otthona
+
+##### 108. §
+
+(1) Hajléktalanok otthonába olyan hajléktalan személy vehető fel, akinek ellátása átmeneti szálláshelyen már nem biztosítható, és kora, egészségi állapota miatt fokozott gondozást-ápolást igényel.
+
+(2) A hajléktalanok otthonában az ellátást igénybe vevő speciális mentálhigiénés ellátásáról gondoskodni kell, különös tekintettel a hajléktalan életmódból fakadó sajátosságokra.
+
+(3) A hajléktalanok otthonában az egészségügyi ellátásnak ki kell terjednie az ellátást igénybe vevő rendszeres gyógyító, megelőző és higiénés felügyeletére, a szakorvosi ellátás megszervezésére, az ápolásra, az egészségügyi rehabilitációra és szükség esetén a kórházi ellátás megszervezésére.
+
+#### Hajléktalan személyek rehabilitációs intézménye
+
+##### 109. §
+
+(1) A hajléktalan személyek rehabilitációs intézménye annak a munkaképes korú, de egészségi, pszichés és szociális állapotában visszafordítható módon károsodott személynek az elhelyezését szolgálja, aki önként vállalja és tevékenyen vesz részt a számára szervezett komplex, átfogó rehabilitációs folyamatban, és akinek a szociális ellátása ilyen módon indokolt.
+
+(2) A hajléktalan személyek rehabilitációs intézményének alapvető feladata, hogy az ellátást igénybe vevőt segítse
+
+a) önálló életvezetésének visszaállításában, illetve kialakításában,
+
+b) munkavégzési képességeinek helyreállításában,
+
+c) lakhatásának megőrzésében és annak megoldásában,
+
+d) kapcsolatteremtő, kapcsolatmegőrző képességeinek fejlesztésében, társas kapcsolatokban, a közösségben való létezés normáinak elfogadásában,
+
+e) kulturális integrációjában, szabadidős tevékenységek gyakorlásában.
+
+(3) A rehabilitációs intézmény vezetője a gondozás megszűnésének várható időpontját megelőző legalább hat hónappal korábban – az utógondozás előkészítése érdekében – az ellátást igénybe vevő hozzájárulásával felveszi a kapcsolatot az ellátott hozzátartozóival, valamint a lakóhelye szerint illetékes
+
+a) települési önkormányzat, a fővárosban a kerületi önkormányzat jegyzőjével a családi, illetve lakóhelyi környezetbe történő visszahelyezés előkészítése,
+
+b)[^384] állami foglalkoztatási szervvel az esetleges munkavállalás előkészítése,
+
+c) települési önkormányzat, a fővárosban a kerületi önkormányzat illetékes szervezeti egységével a szükséges és jogos ellátások biztosítása, lakhatási lehetőségek és a lakhatás megtartását segítő támogatások nyújtása,
+
+d) szociális és más szervezetekkel, intézményekkel a szociális és mentális támogatás biztosítása
+
+érdekében.
+
+##### 110. §
+
+Az utógondozás körébe tartozik különösen:
+
+a) a rehabilitált személy támogatása a külső környezetbe való beilleszkedésben, szükség esetén a környezet felkészítése,
+
+b) a tanácsadás, az informálás,
+
+c)[^385] a lakóhely szerinti alapszolgáltatást nyújtó szociális szolgáltatókkal, intézményekkel való kapcsolattartás,
+
+d) a munkahelyi beilleszkedés segítése, a munkahely megtartásának segítése,
+
+e) a család, illetve az érintett szociális intézmények részére történő tanácsadás, tájékoztatás.
+
+## 8. CÍM[^386] — TÁMOGATOTT LAKHATÁS
+
+##### 110/A. §
+
+(1) A támogatott lakhatás
+
+a) az egyén szükségleteihez illeszkedő módon, természetes és professzionális támogatói hálózat létrehozásával és működtetésével támogatja a lehetőség szerinti önálló életvitel kialakítását és fenntartását a szociális ellátórendszer kapacitásain belül,
+
+b) személyközpontú, egyénre szabott szolgáltatások, támogatások, programok nyújtásával, illetve a csoportos és a képviseleti megoldások mellőzésével biztosítja a döntés szabadságát az egyén elvárásaihoz és igényeihez igazodó lakhatási és támogatási forma megválasztásában,
+
+c) az egyén meglévő képességeire építve, a lakhatás és a mindennapi életvitel támogatásának különválasztása révén lehetőséget biztosít az önálló életvitelhez szükséges új készségek elsajátítására.
+
+(2) A támogatott lakhatás – az engedélyezett férőhelyszámon felül – biztosíthatja az ellátást igénybevevőről gondoskodó szülő, egyéb hozzátartozó, illetve az ellátást igénybevevő kiskorú gyermekének elhelyezését. Az elhelyezés alapfeladatot meghaladó szolgáltatásnak minősül.
+
+#### Komplex szükségletfelmérés
+
+##### 110/B. §
+
+(1)[^387] A támogatott lakhatás a komplex szükségletfelmérés eredménye alapján biztosítható. A komplex szükségletfelmérést az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás esetén, de legkésőbb az első szükségletfelmérés időpontját követő másfél év múlva, ezt követően pedig legalább háromévente meg kell ismételni.
+
+(1a)[^388] Ha az Szt. 75. § (1a) bekezdése szerinti gyermek újszülött, az első komplex szükségletfelmérést a születését követő három hónapon belül el kell végezni.
+
+(1b)[^389] Az Szt. 75. § (1a) bekezdése szerinti gyermek komplex szükségletfelmérését a szülő komplex szükségletfelmérésével azonos időpontban vagy a gyermeknek a szolgáltatást megalapozó körülményeiben történt változás esetén kell megismételni.
+
+(1c)[^390] Az intézményvezető a szükségletfelmérés elvégzését követő 15 napon belül átadja a komplex szükségletfelmérés dokumentációjának egy példányát az igénybevevő vagy törvényes képviselője részére.
+
+(2)[^391] A komplex szükségletfelmérést az intézményvezető által az intézmény munkatársai közül kijelölt személy és az intézményvezető kérésére az Intézet által kijelölt személy együtt végzi. A komplex szükségletfelmérés elvégzésére az Intézet részéről az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendelet szerinti komplex támogatási szükségletmérő képzés tanúsítványával rendelkező személy jelölhető ki.
+
+(2a)[^392] A komplex szükségletfelmérés végzésére kijelölhető személyekről az Intézet nyilvántartást vezet.
+
+(3) A komplex szükségletfelmérés
+
+a)[^393]
+
+b)[^394] eredményét a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett összegző lapon kell dokumentálni.
+
+(4)[^395] Ha az ellátást igénybevevő a komplex szükségletfelmérés eredményével nem ért egyet, azt az intézményvezetőhöz benyújtott kérelme alapján meg kell ismételni. A megismételt felmérést olyan, a (2) bekezdés szerinti személyek végezhetik, akik nem vettek részt az ellátást igénybevevő korábbi komplex szükségletfelmérésében. Ha az intézményben nincs ilyen kijelölhető személy, az Intézet két személyt jelöl ki.
+
+(5)[^396] A komplex szükségletfelmérés költségét a fenntartó viseli. A komplex szükségletfelmérés díjának összegét a szociálpolitikáért felelős miniszter az általa irányított minisztérium honlapján és a Szociális Ágazati Portálon közzéteszi.
+
+(6)[^397] A komplex szükségletfelmérés eredménye más fenntartó által biztosított támogatott lakhatás igénybevételekor is felhasználható az (1) bekezdésben meghatározott időtartamon belül, kivéve, ha az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás indokolja a komplex szükségletfelmérés ismételt elvégzését.
+
+##### 110/C. §
+
+(1) A komplex szükségletfelmérés kiterjed
+
+a) az egyén igényeire és elvárásaira a mindennapi életvezetésének támogatásával kapcsolatban,
+
+b) az egyén által megfogalmazott rövid- és hosszú távú célokra,
+
+c) az életkor- és fogyatékosság-specifikus igényekre,
+
+d) a családi állapotra, a természetes és professzionális támogató környezetre,
+
+e) a képzettségre, munkatapasztalatra,
+
+f) az életvitel önállóságának meghatározásához szükséges mértékben a jövedelmi, vagyoni helyzetre,
+
+g) a lakhatás fizikai környezetének speciális szükségletére, a kommunikációs szükségletekre,
+
+h) annak felmérésére, hogy az élet mely területén szükséges a támogatás és milyen mértékben,
+
+i) a speciális csoportoknak nyújtott egyéb támogatás bevonására vonatkozó szükségletre és annak mértékére,
+
+j) a támogatási szükséglet időszakosságára vagy folyamatosságára,
+
+k) folyamatosan nyújtott – általános és speciális – szociális munka esetében annak intenzitására, gyakoriságára, valamint az egészségügyi ellátáshoz, oktatáshoz és a foglalkoztatáshoz való hozzájutás megszervezésének igényére,
+
+l) az egyén együttműködési szándékának felmérésére.
+
+(2)[^398] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
+
+(3)[^399] A komplex szükségletfelmérés szerint
+
+a)[^400] fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
+
+b)[^401] magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
+
+#### A támogatott lakhatás szakmai feladatai
+
+##### 110/D. §
+
+(1) A szolgáltatás során biztosítani kell
+
+a) a lakóhelyi és – a távmunka kivételével – a munkahelyi feladatok, valamint a szabadidő eltöltésének szétválasztását,
+
+b) a foglalkoztatást, abban az esetben, ha a komplex szükségletfelmérés eredményének megfelelő foglalkoztatási lehetőség rendelkezésre áll,
+
+c) a segítségnyújtást a kulturális és szabadidős tevékenységek szervezésében, társas kapcsolatok fenntartásában,
+
+d) a lehetőséget az ellátást igénybevevő életkörülményeivel kapcsolatos problémák önálló megoldására, szükség esetén segítséget a döntések meghozatalához,
+
+e) az ellátást igénybevevő szükségletei szerinti szolgáltatások elérhetőségének megkönnyítését, ide értve az önálló életvitel kialakítását segítő képzésekhez, programokhoz való hozzáférést.
+
+(2)[^402]
+
+(3) A támogatott lakhatást biztosító intézmény szakmai munkájának értékelésére a 13. §-ban foglaltakat alkalmazni kell.
+
+(4) A támogatott lakhatás keretében végzett szakmai munkáért az intézmény vezetője felelős.
+
+#### A támogatott lakhatás tárgyi követelményei
+
+##### 110/E. §[^403]
+
+(1)[^404] Támogatott lakhatás kialakítására az a lakás alkalmas, amely
+
+a)[^405] – az (1a)–(1b) bekezdésben foglaltak kivételével – 12 négyzetmétert meghaladó alapterületű lakószobával, főzőhelyiséggel (ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel), fürdőhelyiséggel és WC-vel,
+
+b) közművesítettséggel (legalább villany- és vízellátással),
+
+c) melegvíz-ellátással, és
+
+d) egyedi fűtési móddal
+
+rendelkezik.
+
+(1a)[^406] Ha egy lakószobában egy személy kerül elhelyezésre, a lakószoba alapterületének el kell érnie a 8 négyzetmétert.
+
+(1b)[^407] Támogatott lakhatást igénybe vevő személy gyermekének együttes elhelyezése esetén a gyermekre egyéves kor felett további kettő, hat éves kor felett további négy, tizenkét éves kor felett további hat négyzetméter alapterületet kell biztosítani.
+
+(1c)[^408] Az Szt. 75. § (5) bekezdés c) pontja szerinti esetben a lakások úgy is kialakíthatóak, hogy két lakáshoz tartozik egy közös főzőhelyiség, fürdőhelyiség és WC.
+
+(2) A támogatott lakhatást biztosító ingatlanok esetében az igénybevevő fogyatékossági típusának megfelelő speciális szükségletekhez igazodva kell biztosítani az akadálymentes használatot. Az igénybevevő állapotának változása esetén a változáshoz igazodó akadálymentesítésről is gondoskodni kell.
+
+(3)[^409] Az Szt. 75. § (5) bekezdés a) és b) pontja szerinti esetben egy lakószobában, az Szt. 75. § (5) bekezdés c) pontja szerinti esetben egy lakásban legfeljebb két személy, valamint – az (1b) bekezdésben foglaltak figyelembevételével – a támogatott lakhatást igénybe vevő személy gyermeke helyezhető el.
+
+(4)[^410] A közművesítettség szempontjából az (1) bekezdésnek megfelelő az a lakás is, amely a környezettudatosság és a fenntarthatóság érdekében alternatív módszerekkel (pl. napelem, geotermikus energia) biztosítja a villany- és vízellátást.
+
+##### 110/F. §
+
+(1) Az Szt. 75. § (1) bekezdés a) pontja szerinti lakhatási szolgáltatással összefüggő, az Szt. 75. § (1) bekezdés b)–d) pontjában meghatározott szolgáltatásokat olyan módon kell biztosítani, hogy az érintett ingatlanok egymástól elkülönült földrészleten helyezkedjenek el.
+
+(2)[^411] Az Szt. 75. § (5) bekezdése szerinti lakhatási szolgáltatások másik, Szt. 75. § (5) bekezdése szerinti lakhatási szolgáltatásokkal szomszédos
+
+földrészleteken nem biztosíthatók, kivéve az olyan lakhatási formákat, amelyek 2012. december 31-én működési engedéllyel rendelkező lakóotthon elhelyezését szolgáló ingatlanon jöttek létre.
+
+(2a)[^412] Ha a lakhatási szolgáltatást társasházban nyújtják, a lakhatási szolgáltatás céljára szolgáló lakások száma nem haladhatja meg a társasházban lévő összes lakás egyharmadát, és nem alakítható ki olyan építményszint, ahol valamennyi lakásban támogatott lakhatást nyújtanak.
+
+(3) Ha a fenntartó, illetve a hálózat több helyszínen biztosít lakhatási szolgáltatást, az ellátást igénybe vevőnek a lakások megtekintését és a további ott lakók megismerését követően fel kell ajánlani a választás lehetőségét.
+
+#### A támogatott lakhatás szolgáltatásai és személyi feltételei
+
+##### 110/G. §
+
+(1)[^413] Az esetvitelt biztosító munkatársat a támogatott lakhatás fenntartója biztosítja. Amennyiben a szolgáltatás személyi feltételeinek előírásai lehetővé teszik, az esetvitelt az intézményvezető is elláthatja.
+
+(2) Az intézmény vezetője minden igénybevevő számára kijelöli az esetvitelért felelős személyt (a továbbiakban: esetfelelős).
+
+(3)[^414] Az esetfelelős az ellátást igénybevevő egyéni szolgáltatási tervében meghatározott célokért és tevékenységekért felelős. Egy esetfelelőshöz egyszerre huszonnégy ellátott tartozhat.
+
+(4) Az esetfelelős kompetenciájának ki kell terjednie az igénybevevő képességeiről, nehézségeiről, mindennapi életéről, az általa ténylegesen igényelt segítségről szóló szolgáltatási terv elkészítésére, az egyéni esetkezelésre, a döntéseinek támogatására, a segítői munkát végző csoport munkájának koordinálására.
+
+(5)[^415]
+
+##### 110/H. §
+
+(1)[^416]
+
+(2)[^417]
+
+(3) A társadalmi életben való részvétel segítése érdekében az ellátotti csoport társadalmi érdekképviseletét biztosító szervezet, illetve az általa javasolt tapasztalati szakértő a szolgáltatást nyújtóval együttműködhet.
+
+##### 110/I. §
+
+(1)[^418] Az Szt. 75. § (5) bekezdés a) és b) pontja szerinti támogatott lakhatásban biztosított egészségügyi ellátás keretében az 50. § (2) bekezdés d) és e) pontja szerinti kezeléshez való hozzájutásról, valamint az 50. § (2) bekezdés g) pontja szerinti gyógyászati segédeszközök biztosításáról kell gondoskodni a komplex szükségletfelmérés eredménye alapján.
+
+(2) A gyógyászati segédeszközök költségeit az igénybevevő viseli. Amennyiben a gyógyászati segédeszközök költségeinek viselésére az igénybevevő jövedelmi helyzete alapján nem képes, azt az intézmény viseli.
+
+(3)[^419] A szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett nyilvántartó lapot a komplex szükségletfelmérés eredménye alapján kell kitölteni az ellátás megkezdésekor, valamint a nyilvántartó lapon szereplő adatokban bekövetkező változások esetén.
+
+## 9. CÍM[^420] — Fejlesztő foglalkoztatás
+
+##### 110/J. §
+
+(1) A fejlesztő foglalkoztatást nyújtó szociális szolgáltatónak, szociális intézménynek a feladata – az Szt. 99/B. § (1) bekezdése szerinti cél megvalósítása érdekében – különösen
+
+a) a munkavégzés, munkafolyamatok szervezése, irányítása és koordinálása,
+
+b) a tevékenység végzése érdekében a rendelkezésre álló kompetenciák és kapacitások összehangolása,
+
+c) az ellátott napi tevékenységének a megtervezése,
+
+d) a kapcsolattartás a külső partnerekkel,
+
+e) az ellátott munkaerő-piacra történő kivezetésének az előkészítése és
+
+f) a foglalkoztatottak motiválása, részükre a módszertani útmutatóban meghatározott segítő szolgáltatások nyújtása az egyéni foglalkoztatási tervek szerint.
+
+(2) Az Szt. 99/D. § (3) bekezdése szerinti esetben a fenntartók az ellátottak foglalkoztatására megállapodást kötnek. A megállapodás tartalmazza
+
+a) a fejlesztő foglalkoztatást nyújtó engedélyes nevét, címét és ágazati azonosítóját,
+
+b) a fejlesztő foglalkoztatás formáját, a módszertani útmutatóban meghatározott segítő szolgáltatások tartalmát,
+
+c) a fejlesztő foglalkoztatásban részt vevő ellátottak számát,
+
+d) a fejlesztő foglalkoztatás helyéül szolgáló ingatlan címét,
+
+e) a fejlesztő foglalkoztatással kapcsolatosan az intézményi jogviszony alapján szociális szolgáltatást nyújtó szociális szolgáltató, szociális intézmény tájékoztatásának formáját,
+
+f) a fenntartók közötti együttműködés módját,
+
+g) a felek közötti felelősségi szabályok meghatározását,
+
+h) a vitás kérdések rendezésének eljárási szabályait és
+
+i) a megállapodás felmondásának szabályait, a felmondás határidejét.
+
+##### 110/K. §
+
+(1) A fejlesztő foglalkoztatást nyújtó szociális szolgáltatónak, intézménynek, rendelkeznie kell
+
+a) az 5. § (1) bekezdés a)–c) és e)–g) pontja, valamint az 5. § (2) bekezdése szerinti dokumentumokkal és
+
+b) foglalkoztatási szakmai programmal.
+
+(2) A fejlesztő foglalkoztatást nyújtó szociális szolgáltató, szociális intézmény foglalkoztatási szakmai programjának tartalmaznia kell
+
+a) a fejlesztő foglalkoztatásban végzett tevékenységek bemutatását,
+
+b) a tevékenységek ellátásához szükséges, rendelkezésre álló személyi, tárgyi feltételek bemutatását,
+
+c) a fejlesztő foglalkoztatáshoz kapcsolódóan a munkafolyamatok betanítására vonatkozó fejlesztő program tematikáját,
+
+d) az előállított termék, illetve szolgáltatás leírását és
+
+e) a fejlesztő foglalkoztatásban részt vevő ellátott munkavégzés terén történő továbblépéséhez biztosított lehetőségek bemutatását.
+
+(3) A foglalkoztatási szakmai programot az (2) bekezdés szerinti elemeinek változása esetén módosítani kell.
+
+##### 110/L. §
+
+(1) A fejlesztési szerződés, illetve a munkaszerződés megkötését követő 30 napon belül egyéni foglalkoztatási tervet kell készíteni.
+
+(2) Az egyéni foglalkoztatási terv tartalmazza
+
+a) a foglalkoztatott személy fizikai, mentális állapotának, készségeinek, jártasságainak, munkavégző képességének jellemzőit,
+
+b)[^421] fejlesztési jogviszony esetében az Szt. 99/C. § (4) bekezdés a) pontja szerinti dokumentumokat,
+
+c) az ellátásban részesülő állapotának megfelelő foglalkoztatási célokat, feladatokat és azok megvalósításának módszereit,
+
+d) a foglalkoztatással kapcsolatos motiváció, mentális támogatás és segítő szolgáltatás módjait és
+
+e) a foglalkoztatás időtartamát és időbeosztását.
+
+(3) Az egyéni foglalkoztatási terv
+
+a) a fejlesztő foglalkoztatásban részesülő ellátott,
+
+b) az intézményi jogviszony alapján szociális szolgáltatást nyújtó szociális szolgáltató, szociális intézmény vezetője és
+
+c) a segítő munkakörben foglalkoztatott
+
+személyes egyeztetése alapján készül el.
+
+(4) Az egyéni foglalkoztatási terv alapján elért eredményeket a (3) bekezdés szerinti személyek évente értékelik, és szükség esetén módosítják az egyéni foglalkoztatási tervet.
+
+##### 110/M. §
+
+A fejlesztő foglalkoztatás tárgyi feltételeit a munkahelyek munkavédelmi követelményeinek minimális szintjéről szóló 3/2002. (II. 8.) SZCSM–EüM együttes rendelet határozza meg.
+
+#### A SZOCIÁLIS ELLÁTÁSOK FELADATAINAK SEGÍTÉSE
+
+##### 111. §[^422]
+
+(1) Az alapszolgáltatást és szakosított ellátást nyújtó szolgáltatók és intézmények a szociális ágazat irányítását végző miniszter által jóváhagyott és a Szociális Ágazati Portálon közzétett szakmai módszereket alkalmazva járnak el.
+
+(2) A szociálpolitikáért felelős miniszter a Szociális Ágazati Portálon közzéteszi
+
+1\. a házi segítségnyújtás,
+
+2\. a falu- és tanyagondnoki szolgáltatás,
+
+3\. a család- és gyermekjóléti szolgáltatás,
+
+4\. a támogató szolgáltatás,
+
+5\. a közösségi ellátások,
+
+6\. az idősek nappali ellátása,
+
+7\. a pszichiátriai betegek nappali ellátása,
+
+8\. a szenvedélybetegek nappali ellátása,
+
+9\. a demens személyek nappali ellátása,
+
+10\. az utcai szociális munka,
+
+11\. a hajléktalanok éjjeli menedékhelye,
+
+12\. a támogatott lakhatás,
+
+13\. a komplex szükségletfelmérés elvégzése,
+
+14\. a szociális diagnózis elkészítése
+
+15.[^423] a fogyatékos személyek nappali ellátása,
+
+16.[^424] az idősek otthona és az időskorúak gondozóháza
+
+szakmai módszereit.
+
+##### 111/A. §[^425]
+
+(1) Az Szt. 92. § (3) bekezdése szerinti szolgáltatástervezési koncepció tartalmazza különösen
+
+a) a lakosságszám alakulását, a korösszetételt, a szolgáltatások iránti igényeket,
+
+b) az ellátási kötelezettség teljesítésének helyzetét, az ütemtervet a szolgáltatások biztosításáról,
+
+c) a szolgáltatások működtetési, finanszírozási, fejlesztési feladatait, az esetleges együttműködés kereteit,
+
+d) az egyes ellátotti csoportok, így az idősek, fogyatékos személyek, hajléktalan személyek, pszichiátriai betegek, szenvedélybetegek sajátosságaihoz kapcsolódóan a speciális ellátási formák, szolgáltatások biztosításának szükségességét.
+
+(2) A megyei jogú város és a főváros koncepciója az (1) bekezdésben foglaltakon túl tartalmazza különösen
+
+a)[^426] a vármegye, főváros területén működő szolgáltatási rendszer struktúráját, legfontosabb jellemzőit,
+
+b) a szolgáltatások iránti igények alakulását, a várakozók számát, korösszetételét, legfontosabb szociális jellemzőit,
+
+c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményrendszer korszerűsítésének irányait.
+
+(3)[^427] A vármegye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
+
+(4)[^428] A szolgáltatástervezési koncepciót az önkormányzat az elfogadást megelőzően véleményezteti az intézményvezetőkkel és a nemzetiségi önkormányzattal. A koncepció végleges változatának elfogadása során a kialakított véleményeket az önkormányzat lehetőség szerint figyelembe veszi. A megyei jogú városi önkormányzat a jóváhagyott szolgáltatástervezési koncepciót megküldi a szociálpolitikáért felelős miniszternek.
+
+(5)[^429] A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás öt évente felülvizsgálja és aktualizálja.
+
+##### 111/B. §[^430]
+
+(1) Az Szt. 58/B. § (2) bekezdése alapján létrehozott szociálpolitikai kerekasztal tagjai a helyi önkormányzat, illetve a társulás területén szociális intézményeket működtető fenntartók képviselői, továbbá a helyi rendeletben meghatározott szervezetek képviselői.
+
+(2) A szociálpolitikai kerekasztal évente legalább egy alkalommal ülést tart. Feladata különösen a szolgáltatástervezési koncepcióban meghatározott feladatok megvalósulásának, végrehajtásának folyamatos figyelemmel kísérése.
+
+#### ZÁRÓ RENDELKEZÉSEK
+
+##### 112. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltakat kivéve – a kihirdetését követő 15. napon lép hatályba.
+
+(2)[^431] E rendelet 52. §-a 2001. január 1-jén lép hatályba.
+
+(3)[^432]
+
+(4)[^433]
+
+##### 113. §[^434]
+
+(1) Szakképzettnek kell tekinteni azon személyt – függetlenül attól, hogy 2010. december 31-én szociális intézménynél, szolgáltatónál van-e foglalkoztatva –, aki
+
+a) a 2010. december 31-én hatályos 3. számú melléklet szerinti felsőfokú végzettséggel rendelkezik, vagy
+
+b) a 2010. december 31-én hatályos 3. számú melléklet szerinti és az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendeletben, az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendeletben vagy az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendeletben
+
+meghatározott képesítéssel rendelkezik.
+
+(2) Az (1) bekezdésben meghatározott személyek kivételével a 2010. december 31-én szociális intézménynél, szolgáltatónál a 2010. december 31-én hatályos 2. számú melléklet szerinti szakmai létszámnormák keretében foglalkoztatott személyt jogviszonya fennállásáig szakképzettnek kell tekinteni, ha a 2010. december 31-én hatályos 3. számú melléklet alapján szakképzettnek minősül.
+
+(3) Amennyiben a (2) bekezdés szerinti személy 2010. december 31-ét követően szociális intézménynél, szolgáltatónál szakmai létszámnormába tartozó új jogviszonyt létesít, az új jogviszonya tekintetében is szakképzettnek kell tekinteni azzal, hogy az új jogviszony létrejöttétől számított 10 éven belül köteles a 3. számú mellékletnek a tanulmányok megkezdésekor hatályos előírásai szerinti képesítést megszerezni. E kötelezettség alól mentesül az a személy, akinek az új jogviszony létrejöttekor legfeljebb tíz év van hátra a reá irányadó öregségi nyugdíjkorhatár betöltéséig.
+
+(4)[^435] Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 2/2015. (I. 14.) EMMI rendelet hatálybalépését[^436] megelőző napon szociális intézményben foglalkoztatott általános ápoló, általános asszisztens, felnőtt szakápoló szakközépiskolai végzettséggel vagy szakiskolai képesítéssel rendelkező személy szakképzettnek tekintendő, azzal, hogy rá a (3) bekezdésben foglaltakat nem kell alkalmazni.
+
+(5)[^437] Szakképzettnek kell tekinteni azt a személyt, aki a 2010. december 31-én hatályos 3. számú melléklet szerinti felsőfokú végzettséget vagy OKJ-s szakképesítést szerez, amennyiben tanulmányait 2011. január 1-jét megelőzően kezdte meg.
+
+##### 114. §
+
+(1)[^438]
+
+(2) A munkáltatói jogkör gyakorlója a 3. számú melléklet szerinti képesítési előírások alól felmentést adhat annak az intézménnyel közalkalmazotti vagy munkaviszonyban lévő személynek, aki a reá irányadó öregségi nyugdíjkorhatárt e rendelet hatálybalépésétől számított tíz éven belül éri el.
+
+(3) Az e rendelet hatálybalépésekor már működő intézményekkel közalkalmazotti jogviszonyban vagy munkaviszonyban álló személyt közalkalmazotti jogviszonyának, illetve munkaviszonyának fennállásáig szakképzettnek kell tekinteni akkor is, ha a 3. számú mellékletben meghatározott szakirányú szakképzettséggel nem rendelkezik, de szakképzettsége megfelel
+
+a) az e rendelet hatálybalépését megelőző napon hatályban lévő rendeletben előírt képesítési előírásoknak, vagy
+
+b) az e rendelet 3. számú mellékletében szakirányú szakképzettség hiányában előírt képesítési előírásoknak
+
+és a rendelet hatálybalépésekor a vezető beosztást vagy a képesítéshez kötött munkakört betölti.
+
+(4)[^439]
+
+(5) 2002. december 31-ét követően csak az a személy kaphat megbízást, illetve nyerhet kinevezést a 3. számú melléklet szerinti vezetői beosztásba vagy munkakörbe, aki szakirányú szakképzettséggel rendelkezik.
+
+##### 115. §[^440]
+
+A 2–3. számú melléklet szerinti, egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 78/2011. (XII. 30.) NEFMI rendelettel meghatározott létszám- és képesítési előírásoknak 2012. március 15-éig kell megfelelni.
+
+##### 116. §[^441]
+
+A komplex szükségletfelmérés időpontjában lakóotthoni ellátásban részesülő személyek esetében a komplex szükségletfelmérés eredménye a fennálló intézményi jogviszonyt nem érinti, határozott idejű megállapodás esetén a jogviszony a határozott idő lejártáig fennmarad.
+
+##### 117. §[^442]
+
+2015\. január hónapjára vonatkozóan a házi segítségnyújtás gondozási naplóját mind az 5. számú melléklet, mind a személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 2014. december 31-éig hatályos 1. számú melléklete szerinti formában el kell fogadni az azokban feltüntetett adatok igazolása céljából.
+
+##### 118. §[^443]
+
+(1) Az egyes szociális és gyermekjóléti tárgyú miniszteri rendeletek módosításáról szóló 55/2015. (XI. 30.) EMMI rendelettel
+
+a) házi segítségnyújtásra megállapított, az ellátásban részesülő személyekkel közvetlenül foglalkozó, személyes gondoskodást végző személyek szakképzettségi arányára, valamint a személyi gondozás során a szociális gondozók létszámára vonatkozó szabálynak 2016. december 31-éig kell megfelelni,
+
+b) házi segítségnyújtásra, valamint családsegítésre és gyermekjóléti szolgáltatásra megállapított, a munkakör betöltéséhez szükséges képesítési előírások alóli felmentési szabályok kizárását megelőzően felmentésben részesült személyek a felmentésben megjelölt időpontig szakképzettnek minősülnek, ha 2016. január 1-jén a képesítés megszerzése érdekében képzésben vesznek részt.
+
+(2) A 2015. december 31-én házi segítségnyújtásban részesülő személyek jogosultságát – amennyiben az Szt. 136. § (7) bekezdése szerinti felülvizsgálat nem fejeződött be – 2016. január 15-éig a 2015. december 31-én hatályos szabályok szerint megállapított gondozási szükséglet igazolja.
+
+##### 119. §[^444]
+
+(1) Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelet hatálybalépésekor már működő
+
+a) szolgáltatások szakmai programját a szolgáltatási elemek feltüntetése céljából 2017. december 31-éig kell módosítani,
+
+b) 50 fő feletti fogyatékos személyek, pszichiátriai és szenvedélybetegek ápoló-gondozó otthona esetében az intézményi férőhely kiváltási tervet 2018. december 31-éig kell elkészíteni.
+
+(1a)[^445] Az (1) bekezdés b) pontja szerinti kiváltási terveket elkészítésüket követően meg kell küldeni a Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Kft. részére.
+
+(2) A falu- és tanyagondnoki képzésre vonatkozó rendelkezést az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelet hatálybalépését követően megkezdett foglalkoztatásra kell alkalmazni.
+
+(3) Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelettel megállapított 39. § (3a) bekezdésének 2017. június 30-áig kell megfelelni.
+
+(4) Az utcai szociális munkát végző szolgáltató és a diszpécserszolgálat az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendeletnek megfelelő együttműködési megállapodások megkötéséről, illetve módosításáról 2017. június 30-áig gondoskodik.
+
+(5) A foglalkoztatottaknak az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelettel megállapított, 2018. január 1-jétől hatályos 2. számú melléklet szerinti új munkakörökbe történő besorolását 2017. december 31-éig kell előkészíteni, azzal, hogy az adott szolgáltatás vonatkozásában a 3. számú melléklet szerinti következő munkaköröket kell érteni:
+
+a)[^446] *intézményvezető:* nem integrált intézmény esetén a szolgálatvezető, a közösségi koordinátor, a nappali ellátás vezető, vezető gondozó, utcai szolgálat koordinátor,
+
+b) *vezető ápoló:* intézményvezető ápoló,
+
+c)[^447] *ápoló, gondozó:* ápoló, gondozó, szociális gondozó, közösségi gondozó, szociális segítő, gépkocsivezető, gyermekgondozó-ápoló, integrált intézmény esetén vezető gondozó,
+
+d)[^448] *terápiás munkatárs:* szociális és mentálhigiénés munkatárs, konzultáns, integrált intézmény esetén a szolgálatvezető, a közösségi koordinátor, a nappali ellátás vezető; terápiás segítő,
+
+e) *szociális munkatárs:* szociális ügyintéző, szociális és mentálhigiénés munkatárs, utcai szociális munkás,
+
+f) *segítő:* személyi segítő, szociális segítő,
+
+g) *asszisztens:* szociális segítő,
+
+h) *fejlesztő pedagógus:* vezető pedagógus, pedagógus.
+
+##### 120. §[^449]
+
+(1) Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelettel megállapított 3. számú melléklet szerinti képesítési előírásoknak megfelel az, aki az e rendelet hatálybalépését[^450] megelőző napon hatályos 3. számú melléklet szerinti képesítéssel rendelkezik, vagy annak az emberi erőforrások minisztere ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2016. (IX. 16.) EMMI rendelet 1. § (7) bekezdése alapján korábbi OKJ-s képesítése megfeleltethető.
+
+(2) Azt a személyt, aki nem tartozik az (1) bekezdés alá, de a 113. § alapján szakképzettnek tekintendő, és az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelet hatálybalépését[^451] megelőző napon szociális intézménynél, szolgáltatónál a 2. számú melléklet szerinti szakmai létszámnormák keretében foglalkoztatják, jogviszonya fennállásáig szakképzettnek kell tekinteni.
+
+(3) Ha a (2) bekezdés szerinti személy az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelet hatálybalépését[^452] követően szociális intézménynél, szolgáltatónál a 2. számú melléklet szerinti szakmai létszámnormába tartozó új jogviszonyt létesít, az új jogviszonya tekintetében is szakképzettnek kell tekinteni azzal, hogy az új jogviszony létrejöttétől számított 10 éven belül köteles a 3. számú mellékletnek a tanulmányok megkezdésekor hatályos előírásai szerinti képesítést megszerezni. E kötelezettség alól mentesül az a személy, akinek az új jogviszony létrejöttekor legfeljebb öt év van hátra a reá irányadó öregségi nyugdíjkorhatár betöltéséig, és az, akinek új jogviszonya intézményátadás okán bekövetkező fenntartóváltozás miatt keletkezik.
+
+(4)[^453] A 6. § (5a) bekezdés d) pontjában foglaltaknak a fenntartó 2027. január 1-jéig köteles megfelelni.
+
+(5) A 119. § (5) bekezdés d) pontja szerinti esetben az integrált intézmény szolgálatvezetője, közösségi koordinátora és nappali ellátás vezetője a 19/A. § (5) bekezdése szerinti képesítéssel terápiás munkatárs munkakörbe sorolható 2018. január 1-jére visszamenő hatállyal a munkakör betöltésének idejére.
+
+##### 121. §[^454]
+
+Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelet hatálybalépését[^455] megelőző napon hatályos 110/B. § (2) bekezdése szerinti képzettséggel rendelkező személy kijelölés alapján 2018. július 1-jéig komplex szükségletfelmérést végezhet, adatait a kijelölhető személyekről szóló nyilvántartás 2018. július 1-jéig tartalmazza.
+
+##### 122. §[^456]
+
+(1) A 2018. január 1-je és az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelet hatálybalépése[^457] közötti időszakban a 2. számú melléklet szerinti szakmai létszámnormákat teljesítettnek kell tekinteni, ha azok az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelet 57. § (2) bekezdésével és 8. mellékletével megállapított szakmai létszámnormáknak vagy az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelet 17. § (1) bekezdésével és 2. mellékletével megállapított szakmai létszámnormáknak megfelelnek.
+
+(2) Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2018. (II. 5.) EMMI rendelettel megállapított 15. §-t a rendelkezés hatálybalépésekor[^458] végleges döntéssel le nem zárt hatósági ügyekben is alkalmazni kell.
+
+##### 122/A. §[^459]
+
+Ez a rendelet a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+##### 123. §[^460]
+
+A Magyarország 2018. évi központi költségvetéséről szóló törvényben meghatározott állami támogatásra való jogosultságot nem érinti, ha a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosításáról szóló 36/2018. (X. 12.) EMMI rendelettel megállapított 103/A. §-ban foglaltakat 2019. január 1-je előtt nem teljesítik.
+
+##### 124. §[^461]
+
+(1)[^462] A 30. § (10) bekezdése szerinti képzést a 2020. január 1-jén foglalkoztatásban álló szociális diagnózist készítő esetmenedzsereknek 2022. december 31-ig kell elvégezniük.
+
+(2) Az egyes szociális és fogyatékosságügyi tárgyú miniszteri rendeletek módosításáról szóló 4/2020. (II. 6.) EMMI rendelettel megállapított 30. § (11) bekezdése szerinti feltételnek a rendelet hatálybalépésekor[^463] osztott munkakörben foglalkoztatott szociális diagnózist készítő esetmenedzserek esetében 2020. április 1-jétől kell megfelelni.
+
+##### 125. §[^464]
+
+A veszélyhelyzet és az egészségügyi válsághelyzet időtartama
+
+a) a szociális diagnózist készítő esetmenedzseri képzésre a 30. § (10) bekezdésében,
+
+b) a falu- és tanyagondnoki alapképzésre a 39. § (5) bekezdésében,
+
+c) a támogató szolgálati képzésre a 39/D. § (1) bekezdésében,
+
+d) a közösségi pszichiátriai ellátással kapcsolatos képzésre a 39/I. § (2) bekezdés b) pontjában,
+
+e) a szenvedélybetegek közösségi ellátása képzésre, a szenvedélybetegek alacsonyküszöbű ellátása képzésre a 39/N. § (1) bekezdésében
+
+meghatározott határidőbe nem számít bele.
+
+##### 126. §[^465]
+
+Annak a házi segítségnyújtásban foglalkoztatottnak a képesítési előírás teljesítése alóli felmentése, aki azt az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 62/2021. (XII. 29.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^466] megelőzően kapta meg, a Módr.-rel módosított 6. § (5) bekezdésére tekintettel meghosszabbítható három év időtartamra, azzal, hogy abba a Módr. hatálybalépése előtti felmentési idő is beleszámít. Ezen felül a felmentés időtartama nem hosszabbítható meg.
+
+##### 127. §[^467]
+
+Az egyes szociális és gyermekvédelmi tárgyú, valamint kapcsolódó miniszteri rendeletek módosításáról szóló 80/2022. (XII. 30.) BM rendelet (a továbbiakban: Módr2022.) hatálybalépésének[^468] napján utcai szociális munka keretében foglalkoztatott személyek kötelesek a 104/A. § (3) bekezdésében előírt utcai szociális munka képzést 2024. december 31-ig elvégezni.
+
+##### 128. §[^469]
+
+A Módr2022. hatálybalépésének[^470] napján a 6. § (15) bekezdése szerint foglalkoztatott személy a képzési kötelezettségének 2024. december 31-ig tesz eleget, kivéve, ha
+
+a) a 6. § (5) bekezdés a) pontja alapján a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott, vagy
+
+b) a házi segítségnyújtásban foglalkoztatott segítő a Módr2022. hatálybalépését[^471] megelőző napon hatályos 27. § (4) bekezdése szerinti 100 órás belső képzést elvégezte.
+
+##### 129. §[^472]
+
+Ha a 6. § (15) bekezdésében foglaltak szerinti képzés teljesítésére kötelezett személy a 2023. évben létesít foglalkoztatási jogviszonyt, a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörének megfelelő képzés teljesítésére 2024. december 31-éig köteles.
+
+## 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
+
+**A személyes gondoskodást nyújtó szociális intézmény szabályzatai**
+
+**I. *Az intézmény működésével összefüggő szabályzatok***
+
+1\. iratkezelési szabályzat
+
+2\. érdekképviseleti fórum működésének szabályzata
+
+**II. *Gazdasági szabályzatok***
+
+1\. számviteli szabályzat
+
+2\. pénzkezelési szabályzat
+
+3\. anyaggazdálkodási, leltár és selejtezési szabályzat
+
+4\. vagyonvédelmi szabályzat
+
+**III. *Műszaki ellátási szabályzatok***
+
+1\. munkavédelmi szabályzat
+
+2\. tűzvédelmi szabályzat
+
+3\. gépjármű használati szabályzat
+
+## 2. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^473]
+
+**A személyes gondoskodás formáinak szakmai létszámnormái**
+
+I. FALUGONDNOKI, TANYAGONDNOKI SZOLGÁLAT
+
+|  | **MUNKAKÖRÖK** | falugondnoki szolgálat | tanyagondnoki szolgálat |
+|---|---|---|---|
+|  | **falugondnok** | 1 fő |  |
+|  | **tanyagondnok** |  | 1 fő |
+
+II. FOGYATÉKOS SZEMÉLYEK ELLÁTÁSA
+
+<table><tbody><tr><td></td><td colspan="9">*II. 1.*</td></tr><tr><td></td><td colspan="9">**Alapszolgáltatások**</td></tr><tr><td></td><td colspan="4">**MUNKAKÖRÖK**</td><td colspan="3">támogató szolgáltatás</td><td colspan="2">nappali intézmény</td></tr><tr><td></td><td colspan="4">**intézményvezető**</td><td colspan="3">1 fő</td><td colspan="2">1 fő</td></tr><tr><td></td><td colspan="4"></td><td colspan="3">*szolgálatonként*</td><td colspan="2">50 főre vetítve</td></tr><tr><td></td><td colspan="4">**segítő**</td><td colspan="3"></td><td colspan="2"></td></tr><tr><td></td><td colspan="4">**gondozó**</td><td colspan="3">3 fő</td><td colspan="2">3 fő</td></tr><tr><td></td><td colspan="4">**terápiás munkatárs**</td><td colspan="3"></td><td colspan="2">súlyos, halmozottan sérült ellátottak esetében 8 fő</td></tr><tr><td></td><td colspan="9"></td></tr><tr><td></td><td colspan="9">*II. 2.*</td></tr><tr><td></td><td colspan="9">**Szakosított szolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td>ápolást-<br>gondozást nyújtó<br>intézmény</td><td>átmeneti<br>ellátást nyújtó<br>intézmény</td><td colspan="2">rehabilitációs<br>intézmény*</td><td>ápoló-<br>gondozó célú lakóotthon</td><td colspan="2">rehabilitációs célú lakóotthon</td><td>támogatott lakhatás</td></tr><tr><td></td><td>**intézményvezető**</td><td>1 fő</td><td>1 fő</td><td colspan="2">1 fő</td><td>heti 20 óra</td><td colspan="2">heti 20 óra</td><td>1 fő</td></tr><tr><td></td><td></td><td colspan="4">*100 főre vetítve*</td><td colspan="3">lakóotthononként</td><td>intézményenként</td></tr><tr><td></td><td>**vezető ápoló**</td><td>1 fő<br>(>100 fő)</td><td></td><td colspan="2">1 fő<br>(>100 fő)</td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>**gondozó**</td><td>30 fő,<br>ebből min.<br>1 fő ápoló,<br>kiskorúak ellátása és súlyos,<br>halmozottan sérült<br>ellátottak esetén 40 fő</td><td>16 fő</td><td colspan="2">10 fő</td><td>2 fő</td><td colspan="2">1 fő</td><td></td></tr><tr><td></td><td>**ápoló**</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>**terápiás** **munkatárs**</td><td>3 fő,<br>kiskorúak ellátása és súlyos,<br>halmozottan sérült<br>ellátottak esetén + 2 fő</td><td>2 fő</td><td colspan="2">5 fő</td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>**szociális** **munkatárs**</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>**fejlesztő** **pedagógus**</td><td>4 fő,<br>kiskorúak ellátása esetén<br>+ 2 fő</td><td></td><td colspan="2">4 fő**</td><td>heti 20 óra</td><td colspan="2"></td><td></td></tr><tr><td></td><td>**orvos**</td><td>heti 4 óra (<100)<br>heti 6 óra<br>(100–200)<br>1 fő (>200)</td><td>heti 2 óra</td><td colspan="2">heti 4 óra</td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>**segítő**</td><td></td><td></td><td colspan="2"></td><td>2 fő</td><td colspan="2"></td><td></td></tr><tr><td></td><td>**esetfelelős**</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td>1 fő</td></tr><tr><td></td><td colspan="9">* külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani</td></tr><tr><td></td><td colspan="9">** 100 fő felett a fejlesztő pedagógusok közül vezető pedagógus kijelölése szükséges</td></tr></tbody></table>
+
+**Ajánlott munkakörök:**
+
+Fogyatékos személyek rehabilitációs intézménye:
+
+– szabadidő-szervező
+
+– mozgásterapeuta/gyógytornász
+
+Fogyatékos személyek ápolást-gondozást nyújtó intézménye:
+
+– mozgásterapeuta/gyógytornász
+
+– foglalkoztatás-szervező
+
+III. IDŐS, DEMENS SZEMÉLYEK ELLÁTÁSA
+
+<table><tbody><tr><td></td><td colspan="5">*III. 1.*</td></tr><tr><td></td><td colspan="5">**Alapszolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td>étkeztetés</td><td>házi segítségnyújtás</td><td>jelzőrendszeres házi<br>segítségnyújtás</td><td>nappali intézmény</td></tr><tr><td></td><td>**intézményvezető**</td><td></td><td>10 vagy több szociális gondozó/ápoló esetén<br>1 fő</td><td></td><td>1 fő</td></tr><tr><td></td><td></td><td>*100 fő felett*</td><td></td><td></td><td>50 főre vetítve</td></tr><tr><td></td><td>**gondozó**</td><td></td><td>az 5. számú<br>melléklet A) pontja szerinti</td><td>2 fő/40<br>készülékenként készenléti<br>szolgálatban</td><td>2 fő,<br>6 napos vagy</td></tr><tr><td></td><td>**ápoló**</td><td></td><td>tevékenységnaplóban összesített óraszám alapján szociális gondozó, ápoló 1 fő</td><td></td><td>folyamatos nyitva tartás esetén<br>további 1 fő</td></tr><tr><td></td><td>**terápiás** **munkatárs**</td><td></td><td></td><td></td><td rowspan="2">demens személyek ellátása estén<br>további 8 fő</td></tr><tr><td></td><td>**szociális** **munkatárs**</td><td></td><td></td><td></td></tr><tr><td></td><td>**asszisztens**</td><td>1 fő</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td colspan="4"></td></tr><tr><td></td><td colspan="5">*III. 2.*</td></tr><tr><td></td><td colspan="5">**Szakosított szolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td colspan="2">átmeneti elhelyezést nyújtó intézmény</td><td>ápolást-gondozást nyújtó intézmény</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td>**szakápolási** **központ esetében az ápolást-** **gondozást nyújtó intézmény** **minimum-** **létszámán túl**</td></tr><tr><td></td><td>**intézményvezető**</td><td colspan="2">1 fő</td><td>1 fő</td><td></td></tr><tr><td></td><td>**vezető szakápoló**</td><td colspan="2"></td><td></td><td>1 fő</td></tr><tr><td></td><td colspan="5">*100 főre vetítve*</td></tr><tr><td></td><td>**vezető ápoló**</td><td colspan="2">1 fő (>100)</td><td>1 fő (>100)</td><td></td></tr><tr><td></td><td>**gondozó**</td><td colspan="2">16 fő</td><td>24 fő</td><td></td></tr><tr><td></td><td>**ápoló**</td><td colspan="2"></td><td></td><td></td></tr><tr><td></td><td>**szakápoló**</td><td colspan="2"></td><td></td><td>15 fő</td></tr><tr><td></td><td>**terápiás** **munkatárs**</td><td colspan="2">2 fő</td><td>2 fő</td><td></td></tr><tr><td></td><td>**szociális** **munkatárs**</td><td colspan="2"></td><td></td><td></td></tr><tr><td></td><td>**orvos**</td><td colspan="2">heti 2 óra</td><td>heti 4 óra (<100)<br>heti 6 óra (100–200)<br>1 fő (>200)</td><td></td></tr></tbody></table>
+
+**Ajánlott munkakörök:**
+
+– mozgásterapeuta/gyógytornász
+
+– foglalkoztatás-szervező
+
+IV. HAJLÉKTALAN SZEMÉLYEK ELLÁTÁSA
+
+<table><tbody><tr><td></td><td colspan="7">*IV. 1.*</td></tr><tr><td></td><td colspan="7">**Alapszolgáltatások**</td></tr><tr><td></td><td colspan="2">**MUNKAKÖRÖK**</td><td colspan="3">utcai szociális munka</td><td colspan="2">hajléktalan személyek nappali melegedője</td></tr><tr><td></td><td colspan="2">**intézményvezető**</td><td colspan="3">– a szociális munkatársak közül 1 fő,<br>– integrált intézmény esetében<br>az integrált intézmény vezetője vagy az általa kijelölt személy</td><td colspan="2">1 fő</td></tr><tr><td></td><td colspan="2"></td><td colspan="3">*szolgálatonként*</td><td>intézményenként</td><td>ezenfelül 50 főre vetítve</td></tr><tr><td></td><td colspan="2">**szociális munkatárs**</td><td colspan="3" rowspan="2">2 fő</td><td>heti 20 óra</td><td>további heti 20 óra</td></tr><tr><td></td><td colspan="2">**segítő**</td><td>2 fő</td><td>további 1 fő</td></tr><tr><td></td><td colspan="7"></td></tr><tr><td></td><td colspan="7">*IV. 2.*</td></tr><tr><td></td><td colspan="7">**Szakosított szolgáltatások**</td></tr><tr><td></td><td colspan="2">**MUNKAKÖRÖK**</td><td colspan="2">hajléktalan személyek átmeneti<br>intézménye*</td><td colspan="2">hajléktalan személyek rehabilitációs intézménye**</td><td>ápolást-gondozást nyújtó<br>intézmény</td></tr><tr><td></td><td colspan="2">**intézményvezető**</td><td colspan="2">1 fő</td><td colspan="2">1 fő</td><td>1 fő</td></tr><tr><td></td><td colspan="7">*100 főre vetítve*</td></tr><tr><td></td><td colspan="2">szociális<br>munkatárs</td><td>éjjeli<br>menedékhely<br>4 fő</td><td>átmeneti szállás<br>6 fő</td><td colspan="2" rowspan="3">10 fő</td><td>2 fő</td></tr><tr><td></td><td colspan="2">**segítő**</td><td>napi<br>14 órás</td><td>24 órás<br>folyamatos</td><td rowspan="2">14 fő</td></tr><tr><td></td><td colspan="2">**gondozó**</td><td>nyitvatartáshoz igazítva</td><td>nyitvatartáshoz<br>igazítva</td></tr><tr><td></td><td colspan="2">**orvos**</td><td colspan="2">heti 2 óra</td><td colspan="2">heti 2 óra</td><td>heti 6 óra</td></tr><tr><td></td><td colspan="7">* ha a férőhelyen csak lakhatási szolgáltatást biztosítanak, arra a férőhelyszámra nem kell létszámot számítani</td></tr><tr><td></td><td colspan="7">** külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani</td></tr><tr><td></td><td colspan="7">*IV. 2.1.*</td></tr><tr><td></td><td colspan="7">**Időszakos férőhely (100 férőhelyre vetítve)**</td></tr><tr><td></td><td colspan="2">**MUNKAKÖRÖK**</td><td colspan="2">átmeneti szállás</td><td colspan="3">éjjeli menedékhely</td></tr><tr><td></td><td colspan="7">*Intézményen belül*</td></tr><tr><td></td><td colspan="2">szociális<br>munkatárs</td><td colspan="2">8 fő</td><td colspan="3">4 fő</td></tr><tr><td></td><td colspan="2">**segítő**</td><td colspan="2">5 fő</td><td colspan="3">5 fő</td></tr><tr><td></td><td colspan="2">**gondozó**</td><td colspan="2"></td><td colspan="3"></td></tr><tr><td></td><td colspan="7">*Intézményen kívül*</td></tr><tr><td></td><td>**intézményvezető (részlegvezető)**</td><td colspan="3">1 fő</td><td colspan="3">1 fő</td></tr><tr><td></td><td>szociális<br>munkatárs</td><td colspan="3">4 fő</td><td colspan="3">4 fő</td></tr><tr><td></td><td>**segítő**</td><td colspan="3" rowspan="2">10 fő</td><td colspan="3" rowspan="2">10 fő</td></tr><tr><td></td><td>**gondozó**</td></tr></tbody></table>
+
+**Ajánlott munkakörök:**
+
+Hajléktalan személyek rehabilitációs intézménye, ápolást-gondozást nyújtó intézménye:
+
+– foglalkoztatás-szervező
+
+V. PSZICHIÁTRIAI BETEGEK ELLÁTÁSA
+
+<table><tbody><tr><td></td><td colspan="6">*V. 1.*</td></tr><tr><td></td><td colspan="6">**Alapszolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td colspan="3">közösségi ellátás</td><td colspan="2">nappali intézmény</td></tr><tr><td></td><td>**intézményvezető**</td><td colspan="3">1 fő</td><td colspan="2">1 fő</td></tr><tr><td></td><td></td><td colspan="3">*szolgálatonként*</td><td colspan="2">50 főre vetítve</td></tr><tr><td></td><td>**gondozó**</td><td colspan="3" rowspan="2">2 fő</td><td colspan="2"></td></tr><tr><td></td><td>**terápiás munkatárs**</td><td colspan="2">2 fő</td></tr><tr><td></td><td>**szociális munkatárs**</td><td colspan="3"></td><td colspan="2"></td></tr><tr><td></td><td>**orvos***</td><td colspan="3">havi 4 óra</td><td colspan="2"></td></tr><tr><td></td><td colspan="6">* konzultatív feladatokra</td></tr><tr><td></td><td colspan="6"></td></tr><tr><td></td><td colspan="6">*V. 2.*</td></tr><tr><td></td><td colspan="6">**Szakosított szolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td>ápolást-<br>gondozást nyújtó<br>intézmény</td><td>átmeneti<br>ellátást nyújtó intézmény</td><td>rehabilitációs intézmény*</td><td>rehabilitációs célú<br>lakóotthon</td><td>támogatott lakhatás</td></tr><tr><td></td><td>**intézményvezető**</td><td>1 fő</td><td>1 fő</td><td>1 fő</td><td>heti 20 óra</td><td>1 fő</td></tr><tr><td></td><td></td><td colspan="3">*100 főre vetítve*</td><td>lakó-<br>otthononként</td><td>intézmé-<br>nyenként</td></tr><tr><td></td><td>**vezető ápoló**</td><td>1 fő (>100)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>**gondozó**</td><td>24 fő ebből min. 1 fő ápoló</td><td>16 fő</td><td>12 fő</td><td></td><td></td></tr><tr><td></td><td>**ápoló**</td><td></td><td></td><td></td><td>1 fő</td><td></td></tr><tr><td></td><td>terápiás<br>munkatárs</td><td>2 fő</td><td>2 fő</td><td>4 fő</td><td></td><td></td></tr><tr><td></td><td>szociális<br>munkatárs</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>**orvos**</td><td>heti 8 óra<br>(<100)<br>heti 12 óra<br>(100–200)<br>heti 4 óra és<br>1 fő** (>200)</td><td>heti 2 óra</td><td>heti 8 óra<br>(<100)<br>heti 12 óra<br>(100–200)<br>heti 4 óra és 1 fő<br>(>200)***</td><td></td><td></td></tr><tr><td></td><td>**esetfelelős**</td><td></td><td></td><td></td><td></td><td>1 fő</td></tr><tr><td></td><td colspan="6">* külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani<br>** ezen belül kell biztosítani a szakorvosi ellátást is<br>*** ezen belül kell biztosítani a szakorvosi ellátást is</td></tr></tbody></table>
+
+**Ajánlott munkakörök:**
+
+Pszichiátriai betegek ápolást-gondozást nyújtó intézménye:
+
+– foglalkoztatás-szervező
+
+Pszichiátriai betegek rehabilitációs intézménye:
+
+– foglalkoztatás-szervező
+
+VI. SZENVEDÉLYBETEGEK ELLÁTÁSA
+
+<table><tbody><tr><td></td><td colspan="6">*VI. 1.*</td></tr><tr><td></td><td colspan="6">**Alapszolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td>közösségi ellátás</td><td colspan="2">alacsonyküszöbű ellátás</td><td colspan="2">nappali intézmény</td></tr><tr><td></td><td>**intézményvezető**</td><td>1 fő</td><td colspan="2">1 fő</td><td colspan="2">1 fő</td></tr><tr><td></td><td></td><td>*szolgálatonként*</td><td colspan="2">szolgálatonként</td><td colspan="2">50 főre vetítve</td></tr><tr><td></td><td>**terápiás** **munkatárs**</td><td></td><td colspan="2"></td><td colspan="2">2 fő</td></tr><tr><td></td><td>**gondozó**</td><td>2 fő</td><td colspan="2">2 fő</td><td colspan="2"></td></tr><tr><td></td><td>**szociális** **munkatárs**</td><td></td><td colspan="2"></td><td colspan="2"></td></tr><tr><td></td><td>**segítő**</td><td></td><td colspan="2"></td><td colspan="2"></td></tr><tr><td></td><td>**orvos***</td><td>havi 4 óra</td><td colspan="2"></td><td colspan="2"></td></tr><tr><td></td><td colspan="6">***** konzultatív feladatokra</td></tr><tr><td></td><td colspan="6"></td></tr><tr><td></td><td colspan="6">*VI. 2.*</td></tr><tr><td></td><td colspan="6">**Szakosított szolgáltatások**</td></tr><tr><td></td><td>**MUNKAKÖRÖK**</td><td>ápolást-<br>gondozást nyújtó<br>intézmény</td><td>rehabilitációs intézmény*</td><td>átmeneti<br>ellátást nyújtó intézmény</td><td>rehabilitációs célú lakóotthon</td><td>támogatott lakhatás</td></tr><tr><td></td><td>**intézményvezető**</td><td>1 fő</td><td>1 fő</td><td>1 fő</td><td>heti 20 óra</td><td>1 fő</td></tr><tr><td></td><td></td><td colspan="3">*100 főre vetítve*</td><td>lakó-<br>otthononként</td><td>intézmé-<br>nyenként</td></tr><tr><td></td><td>**vezető ápoló**</td><td>1 fő (>100 fő)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>**ápoló**</td><td rowspan="2">24 fő</td><td rowspan="2">10 fő**</td><td rowspan="2">16 fő</td><td rowspan="2"></td><td></td></tr><tr><td></td><td>**gondozó**</td><td></td></tr><tr><td></td><td>**szociális** **munkatárs**</td><td rowspan="2">2 fő</td><td rowspan="2">6 fő</td><td rowspan="2">2 fő</td><td rowspan="2">1 fő</td><td></td></tr><tr><td></td><td>**terápiás** **munkatárs**</td><td></td></tr><tr><td></td><td>**orvos**</td><td>heti 8 óra<br>(<100)<br>heti 12 óra<br>(100–200)<br>heti 4 óra és<br>1 fő<br>(>200)***</td><td>heti 8 óra<br>(<100)<br>heti 12 óra<br>(100–200)<br>heti 4 óra és<br>1 fő<br>(>200)****</td><td>heti 2 óra</td><td></td><td></td></tr><tr><td></td><td>**esetfelelős**</td><td></td><td></td><td></td><td></td><td>1 fő</td></tr><tr><td></td><td colspan="6">***** külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani<br>** az egészségbiztosítási finanszírozással rendelkező drog-rehabilitációs intézmény esetén az e rendelet<br>szerinti ápolói létszámot nem kötelező alkalmazni<br>*** ezen belül kell biztosítani a szakorvosi ellátást<br>**** ezen belül kell biztosítani a szakorvosi ellátást</td></tr></tbody></table>
+
+**Ajánlott munkakörök:**
+
+Szenvedélybetegek ápolást-gondozást nyújtó intézménye:
+
+– foglalkoztatás-szervező
+
+Szenvedélybetegek rehabilitációs intézménye:
+
+– foglalkoztatás-szervező
+
+VII. FEJLESZTŐ FOGLALKOZTATÁS
+
+|  | **MUNKAKÖRÖK** |  |
+|---|---|---|
+|  | **intézményvezető** | 1 fő |
+|  |  | *50 foglalkoztatottra vetítve* |
+|  | **segítő** | 2 fő |
+
+## 3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^474]
+
+**A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimum előírásai**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th><th>**E**</th><th>**F**</th></tr><tr><th>**1**</th><th>**Munkakörök**</th><th>**Szakképzettségek és szakképesítések**</th><th colspan="4">**Szakmai egységben minimum 1 fő szakirányú végzettsége**</th></tr><tr><th>**2**</th><th></th><th></th><th>**Pszichiátriai beteg**</th><th>**Szenvedélybeteg**</th><th>**Demens**</th><th>**Autista személyek**</th></tr></thead><tbody><tr><td>**3**</td><td>intézményvezető</td><td>– andragógus<br>– diakónus<br>– diplomás ápoló<br>– egészségügyi szervező<br>– egészségügyi tanár<br>– gondoskodáspolitikai menedzser<br>– gyógypedagógus<br>– gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, hallássérültek pedagógiája szakirányon<br>– gyógypedagógus, látássérültek pedagógiája szakirányon<br>– gyógypedagógus, logopédia szakirányon<br>– gyógypedagógus, pszichopedagógia szakirányon<br>– gyógypedagógus, szomatopedagógia szakirányon<br>– gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, autizmus spektrum pedagógiája szakirányon<br>– gyógytornász-fizioterapeuta<br>– hajléktalanellátás esetében felsőfokú végzettség<br>– humánfejlesztő<br>– igazgatásszervező<br>– szociális szakigazgatás-szervező szakirányú szakképzettség<br>– integrált szociális szolgáltatási menedzser<br>– intézetvezető<br>– konduktor<br>– közgazdász</td><td></td><td></td><td></td><td></td></tr><tr><td>**4**</td><td></td><td>– közigazgatás-szervező<br>– mentálhigiénés segítő szakember<br>– mentálhigiénés szakember<br>– mentálhigiénés szakember és közösségi segítő<br>– okleveles mentálhigiénés közösség- és kapcsolatépítő szakember<br>– okleveles ápoló<br>– okleveles egészségügyi szociális munkás<br>– egészségügyi menedzser<br>– okleveles egészségügyi menedzser<br>– okleveles egészségpszichológus<br>– okleveles egyetemi ápoló<br>– okleveles gondoskodáspolitikai szakember<br>– okleveles fizioterapeuta<br>– okleveles jogász<br>– okleveles orvosdoktor<br>– okleveles pasztorális tanácsadó<br>– okleveles pasztorális tanácsadó és szervezetfejlesztő szakember<br>– okleveles rehabilitációs szakember<br>– okleveles szociális gazdaság szakember<br>– okleveles szociálpolitikus<br>– okleveles szociálgerontológus<br>– teológus<br>– okleveles társadalmi befogadás tanácsadó<br>– szociális menedzser<br>– szociális munkás<br>– szociálpedagógus<br>– szociológus<br>– szenvedélybetegek ellátása esetén addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns<br>– viselkedéselemző</td><td></td><td></td><td></td><td></td></tr><tr><td>**5**</td><td>vezető ápoló/<br>vezető szakápoló</td><td>- diplomás ápoló<br>- okleveles egyetemi ápoló<br>- okleveles ápoló<br>- intézetvezető<br>- mentőtiszt</td><td></td><td></td><td></td><td></td></tr><tr><td>**6**</td><td>gondozó</td><td>– demencia gondozó (OKJ 35 762 01)<br>– demencia gondozó (09214001)<br>– gerontológiai gondozó (OKJ 55 762 02)<br>– pszichiátriai gondozó (OKJ 55 762 04)<br>– szenvedélybeteg gondozó (OKJ 55 762 05)<br>– szociális gondozó és ápoló (OKJ 34 762 01)<br>– szociális gondozó és ápoló (09233001)<br>– szociális szakgondozó (OKJ 54 762 03)<br>– szociális ápoló és gondozó (409232203)<br>– szociális és rehabilitációs szakgondozó<br>(50923 22 06)<br>– szociális és mentálhigiénés szakgondozó (50923 22 05)</td><td>– pszichiátriai gondozó (OKJ 55 762 04)</td><td>– szenvedélybeteg gondozó (OKJ 55 762 05)</td><td>– demencia gondozó (OKJ 35 762 01)<br>– demencia gondozó (09214001)<br>– demenciával élők gondozója[^475]<br>– gerontológiai gondozó (OKJ 55 762 02)<br>– szociális és mentálhigiénés szakgondozó (509232205)</td><td>– autista személyek gondozója[^476]<br>– autizmus szaktanácsadó</td></tr><tr><td>**7**</td><td>ápoló</td><td>– alapellátási közösségi szakápoló<br>(OKJ 55 723 16)<br>– általános ápolási és egészségügyi asszisztens (OKJ 52 720 01)<br>– aneszteziológiai szakasszisztens<br>(OKJ 55 725 01)<br>– ápoló (OKJ 55 723 01)<br>– csecsemő- és gyermekápoló (OKJ 55 723 02)<br>– diabetológiai szakápoló és edukátor<br>(OKJ 55 723 03)<br>– epidemiológiai szakápoló (OKJ 55 723 04)<br>– ergoterapeuta (OKJ 54 726 03)<br>– felnőtt intenzív szakápoló (OKJ 55 723 05)<br>– geriátriai és krónikus beteg szakápoló<br>(OKJ 55 723 07)<br>– gyakorló csecsemő- és gyermekápoló<br>(OKJ 54 723 03)<br>– fizioterápiás asszisztens (OKJ 54 725 03)<br>– gyakorló ápoló (OKJ 54 723 02)<br>– gyakorló klinikai laboratóriumi asszisztens<br>(OKJ 54 725 04)<br>– gyakorló mentőápoló (OKJ 54 723 01)<br>– gyermek intenzív szakápoló (OKJ 55 723 08)<br>– gyógymasszőr (OKJ 54 726 04)<br>– hospice szakápoló (OKJ 55 723 09)<br>– légzőszervi szakápoló (OKJ 55 723 10)<br>– mentőápoló (OKJ 55 723 11)<br>– nefrológiai szakápoló (OKJ 55 723 12)<br>– onkológiai szakápoló (OKJ 55 723 13)<br>– pszichiátriai szakápoló és gyógyfoglalkoztató (OKJ 55 723 14)<br>– sürgősségi szakápoló (OKJ 55 723 15)<br>– általános ápoló (509130301)<br>– perioperatív szakasszisztens (509100307)<br>– rehabilitációs terapeuta (509230309)<br>– egészségügyi laboráns (509140303)<br>– alapápolási munkatárs (409130312)</td><td>– pszichiátriai szakápoló és gyógyfoglalkoztató (OKJ 55 723 14)<br>– pszichiátriai szakápoló és gyógyfoglalkoztató (09135012)</td><td></td><td>– geriátriai és krónikus beteg szakápoló<br>(OKJ 55 723 07)<br>– demenciával élők gondozója[^477]<br>– demencia gondozó (OKJ 35 762 01)<br>– demencia gondozó (09214001)<br>– általános ápoló (509130301)</td><td>– autista személyek gondozója[^478]<br>– autizmus szaktanácsadó</td></tr><tr><td>**8**</td><td>szakápoló</td><td>– 60/2003. (X. 20.) ESzCsM rendelet 3. számú melléklete szerint I., II. kategóriás ápolónak minősülő szakápoló</td><td></td><td></td><td></td><td></td></tr><tr><td>**9**</td><td>terápiás munkatárs</td><td>– addiktológus<br>– addiktológiai konzultáns<br>– akut betegellátó szakápoló<br>– autizmus specifikus szolgáltatásszervező<br>– autizmus szaktanácsadó<br>– általános és családügyi mediátor<br>– általános neuropszichológus<br>– biblia-alapú lelkigondozó<br>– biblioterapeuta<br>– bűnmegelőzési, alkoholprevenciós és drogprevenciós szakember<br>– családkonzulens/családterapeuta<br>– diakónus<br>– diplomás ápoló<br>– egészségfejlesztő szakpszichológus<br>– egészségfejlesztési szakember<br>– egészségfejlesztő mentálhigiénikus<br>– egészségügyi rehabilitációs menedzser</td><td>– pszichiátriai gondozó (OKJ 55 762 04)</td><td>– szenvedélybeteg gondozó (OKJ 55 762 05)</td><td>– demencia gondozó (OKJ 35 762 01)<br>– demencia gondozó (09214001)<br>– demenciával élők gondozója[^479]<br>– gerontológiai gondozó (OKJ 55 762 02)<br>– szociális és mentálhigiénés szakgondozó<br>(50923 22 05)</td><td></td></tr><tr><td>**10**</td><td></td><td>– egészségmentor szaktanácsadó<br>– egészségügyi szervező<br>– egyházi/felekezeti közösségszervező<br>– evangelikál lelkipásztor<br>– életút-támogató tanácsadó<br>– életmód tanácsadó és terapeuta<br>– életmód tanácsadó/lelkigondozó<br>– életmód tanácsadó teológus<br>– élmény-, rendezvény- és közösségszervező<br>– életvezetés-koordinátor<br>– fejlesztő biblioterapeuta<br>– felekezeti szociális munkás<br>– foglalkozási rehabilitációs szaktanácsadó<br>– gerontagógus<br>– gyermekvédelmi pszicho-patrónus<br>– gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns<br>– gyermek- és ifjúságaddiktológiai konzultáns<br>– gyermek- és ifjúságmentálhigiénés konzultáns<br>– gyógymasszőr (OKJ 54 726 04)<br>– gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, hallássérültek pedagógiája szakirányon<br>– gyógypedagógus,<br>látássérültek pedagógiája szakirányon<br>– gyógypedagógus,<br>logopédia szakirányon<br>– gyógypedagógus, pszichopedagógia szakirányon<br>– gyógypedagógus, szomatopedagógia szakirányon<br>– gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, autizmus spektrum pedagógiája szakirányon<br>– gyógytornász-fizioterapeuta<br>– humánszolgálati tanácsadó<br>– integratív mentálhigiénés<br>szakember<br>– felnőtt intenzív szakápoló (OKJ 55 723 05)<br>– felsőfokú szociális munkás asszisztens<br>– iskolai szociális munkás<br>– játéktervező és -elemző<br>– keresztyén hospice lelkigondozó<br>– képi kifejezéspszichológiai szaktanácsadó<br>– klinikai lelkigondozó<br>– kognitív- és viselkedésterápiás konzultáns<br>– kompetenciafejlesztő tréner<br>– komplex interaktív játékkonzulens<br>– komplex művészeti terapeuta<br>– komplex rehabilitációs mentor<br>– komplex szociális szolgáltatások szakembere<br>– közösségi és családi mediátor<br>– közvetítő (mediátor)<br>– lelkigondozói asszisztens<br>– mentálhigiénés családtudományi és családterápiás szakember<br>– mentálhigiénés lelkigondozó<br>– mentálhigiénés szakember<br>– mentálhigiénés szakember és közösségi segítő<br>– mentálhigiénés segítő szakember<br>– mentálhigiéniai prevenció specialista<br>– multidiszciplináris rehabilitációs munkatárs<br>– munkahelyi mentálhigiénés szakember<br>– munkavállalási tanácsadó<br>– okleveles ápoló<br>– okleveles egyetemi ápoló<br>– okleveles fizioterapeuta</td><td></td><td></td><td></td><td></td></tr><tr><td>**11**</td><td></td><td>– okleveles mentálhigiénés közösség- és kapcsolatsegítő szakember<br>– okleveles mentálhigiénés közösség- és kapcsolatépítő szakember<br>– okleveles pasztorális tanácsadó<br>– okleveles pasztorális tanácsadó és szervezetfejlesztő szakember<br>– okleveles egészségpszichológus<br>– okleveles rekreációszervező és egészségfejlesztő<br>– teológus<br>– okleveles társadalmi befogadás tanácsadó<br>– pasztorálpszichológiai szakreferens<br>– okleveles pszichiáter<br>– pszichopedagógus<br>– rehabilitációs-kreatív terapeuta<br>– rehabilitációs szolgáltatásszervező<br>– reflektív addiktológiai szociális szakember<br>– reflektív pszichoszociális krízistanácsadó szociális szakember<br>– szaklelkigondozó<br>– szociálgerontológia szakmenedzser<br>– okleveles szociálgerontológus<br>– szülő-csecsemő/kisgyermek konzulens<br>– tanácsadó szakpszichológus<br>– társadalmi integrációs tanácsadó<br>– tranzakcióanalitikus asszisztens<br>– utcai szociális munkás<br>– viselkedéselemző<br>– családsegítő asszisztens (OKJ 52 761 01)<br>– demencia gondozó (OKJ 35 762 01)<br>– demencia gondozó (09214001)<br>– foglalkozás-szervező (OKJ 55 762 01)<br>– gerontológiai gondozó (OKJ 55 762 02)<br>– gyermekotthoni asszisztens (OKJ 54 761 01)<br>– gyógypedagógiai segítő munkatárs<br>(OKJ 54 140 01)<br>– kisgyermekgondozó, -nevelő (OKJ 54 761 02)<br>– mentálhigiénés asszisztens (OKJ 55 762 03)<br>– pedagógiai- és családsegítő munkatárs<br>(OKJ 54 140 02)<br>– pedagógiai munkatárs (gyógypedagógiai asszisztens) (01194001)<br>– pszichiátriai gondozó (OKJ 55 762 04)<br>– rehabilitációs nevelő, segítő (OKJ 54 762 01)<br>– szenvedélybeteg gondozó (OKJ 55 762 05)<br>– szociális asszisztens (OKJ 54 762 02)<br>– szociális menedzser<br>– szociális szakgondozó (OKJ 54 762 03)<br>– szociális, gyermek- és ifjúságvédelmi ügyintéző (OKJ 55 762 06)<br>– szociális és gyermekvédelmi szakasszisztens (509232204)<br>– szociális és rehabilitációs szakgondozó (509232206)<br>– szociális és mentálhigiénés szakgondozó (509232205)<br>– rehabilitációs terapeuta (509230309)<br>– konduktor<br>– hittanár-nevelőtanár<br>– katekéta-lelkipásztor munkatárs<br>– közösségi pszichiátriai rehabilitációs konzultáns<br>– ritka beteg életút koordinátor</td><td></td><td></td><td></td><td></td></tr><tr><td>**12**</td><td>szociális munkatárs</td><td>– gondoskodáspolitikai menedzser<br>– okleveles gondoskodáspolitikai szakember<br>– okleveles szociális gazdaság szakember<br>– okleveles egészségügyi szociális munkás<br>– szociális munkás<br>– általános szociális munkás<br>– diakónus<br>– okleveles szociálpolitikus<br>– szociálpedagógus<br>– szociális menedzser<br>– gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns<br>– gyermek- és ifjúságaddiktológiai konzultáns<br>– gyermek- és ifjúságmentálhigiénés konzultáns<br>– hajléktalanellátás esetében felsőfokú végzettség<br>– közösségi pszichiátriai rehabilitációs konzultáns<br>– ritka beteg életút koordinátor</td><td></td><td></td><td></td><td></td></tr><tr><td>**13**</td><td>fejlesztőpedagógus</td><td>– fejlesztőpedagógus<br>– gyógypedagógus<br>– gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, hallássérültek pedagógiája szakirányon<br>– gyógypedagógus, látássérültek pedagógiája szakirányon<br>– gyógypedagógus, logopédia szakirányon<br>– gyógypedagógus, pszichopedagógia szakirányon<br>– gyógypedagógus, szomatopedagógia szakirányon<br>– gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon<br>– gyógypedagógus, autizmus spektrum pedagógiája szakirányon<br>– gyógytestnevelő<br>– gyógytornász<br>– konduktor<br>– pedagógus<br>– pszichopedagógus<br>– szociálpedagógus<br>– ritka beteg életút koordinátor</td><td></td><td></td><td></td><td></td></tr><tr><td>**14**</td><td>orvos</td><td>– okleveles orvosdoktor</td><td></td><td></td><td></td><td></td></tr><tr><td>**15**</td><td>segítő/falugondnok, tanyagondnok</td><td>– befejezett 8 általános iskola</td><td></td><td></td><td></td><td></td></tr><tr><td>**16**</td><td>esetfelelős</td><td>– felsőfokú végzettség és a 110/G. § (4) bekezdésében megjelölt kompetenciák</td><td></td><td></td><td></td><td></td></tr><tr><td>**17**</td><td>asszisztens</td><td>– felsőfokú szociális munkás asszisztens<br>– mentálhigiénés asszisztens (OKJ 55 762 03)<br>– szociális asszisztens (OKJ 54 762 02)<br>– szociális és gyermekvédelmi szakasszisztens (509232204)<br>– szociális és mentálhigiénés<br>szakgondozó (509232205)</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## 4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^480]
+
+## 5. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^481]
+
+A) I. Tevékenységnapló házi segítségnyújtáshoz személyi gondozás esetén<sup>1</sup>
+
+Az ellátott neve:
+
+A megállapodásban rögzített havi személyi gondozás időtartama<sup>2</sup>:
+
+| Dátum | Az elvégzett résztevékenység megnevezése | Az elvégzett résztevékenységre fordított idő (óra/perctől óra/percig) | Az ellátott aláírása | Az elvégzett résztevékenység időtartama (perc)<sup>3</sup> | A szociális gondozó/segítő aláírása |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  | Havi összes időtartam órában |  |  |  |  |
+
+............................................................................\
+a szolgálat vezetőjének aláírása
+
+<sup>_________________________________________</sup>
+
+<sup>1</sup> Ezt a tevékenységnaplót kell tölteni, ha a megállapodást személyi gondozásra kötötték.
+
+<sup>2</sup> Akkor kell kitölteni, ha a megállapodásban fel van tüntetve.
+
+<sup>3</sup> Az időtartam számításakor be kell számítani az utazásra fordított időt is.
+
+II. A házi segítségnyújtás tevékenységei és résztevékenységei
+
+Szociális segítés keretében:
+
+A lakókörnyezeti higiénia megtartásában való közreműködés körében:
+
+– takarítás a lakás életvitelszerűen használt helyiségeiben (hálószobában, fürdőszobában, konyhában és illemhelyiségben)
+
+– mosás
+
+– vasalás
+
+A háztartási tevékenységben való közreműködés körében:
+
+– bevásárlás (személyes szükséglet mértékében), gyógyszer kiváltása
+
+– segítségnyújtás ételkészítésben és az étkezés előkészítésében
+
+– mosogatás
+
+– ruhajavítás
+
+– közkútról, fúrtkútról vízhordás
+
+– tüzelő behordása kályhához, egyedi fűtés beindítása (kivéve ha ez a tevékenység egyéb szakmai kompetenciát igényel)
+
+– télen hóeltakarítás és síkosságmentesítés a lakás bejárata előtt
+
+– kísérés
+
+Segítségnyújtás veszélyhelyzet kialakulásának megelőzésében és a kialakult veszélyhelyzet elhárításában
+
+Szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése
+
+Személyi gondozás keretében:
+
+Az ellátást igénybe vevővel segítő kapcsolat kialakítása és fenntartása körében:
+
+– információnyújtás, tanácsadás és mentális támogatás
+
+– családdal, ismerősökkel való kapcsolattartás segítése
+
+– az egészség megőrzésére irányuló aktív szabadidős tevékenységben való közreműködés
+
+– ügyintézés az ellátott érdekeinek védelmében
+
+Gondozási és ápolási feladatok körében:
+
+– mosdatás
+
+– fürdetés
+
+– öltöztetés
+
+– ágyazás, ágyneműcsere
+
+– inkontinens beteg ellátása, testfelület tisztítása, kezelése
+
+– haj, arcszőrzet ápolás
+
+– száj, fog és protézis ápolása
+
+– körömápolás, bőrápolás
+
+– folyadékpótlás, étkeztetés (segédeszköz nélkül)
+
+– mozgatás ágyban
+
+– decubitus megelőzés
+
+– felületi sebkezelés
+
+– sztómazsák cseréje
+
+– gyógyszer adagolása, gyógyszerelés monitorozása
+
+– vérnyomás és vércukor mérése
+
+– hely- és helyzetváltoztatás segítése lakáson belül és kívül
+
+– kényelmi és gyógyászati segédeszközök beszerzésében való közreműködés
+
+– kényelmi és gyógyászati segédeszközök használatának betanítása, karbantartásában való segítségnyújtás
+
+– a háziorvos írásos rendelésén alapuló terápia követése (a tevékenység elvégzéséhez való kompetencia határáig)
+
+B) I. Tevékenységnapló házi segítségnyújtáshoz szociális segítés esetén<sup>1</sup>
+
+Az ellátott neve:
+
+| Dátum | Az elvégzett résztevékenység megnevezése | Az elvégzett résztevékenységre fordított idő (óra/perctől óra/percig) | Az ellátott aláírása | A szociális gondozó/segítő aláírása |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  | Havi összes időtartam órában |  |  |  |
+
+<sup>__________________________</sup>
+
+<sup>1</sup> Ezt a tevékenységnaplót kell tölteni, ha a megállapodást szociális segítésre kötötték.
+
+.........................................................................\
+a szolgálat vezetőjének aláírása
+
+II. A házi segítségnyújtás tevékenységei és résztevékenységei
+
+Szociális segítés keretében:
+
+A lakókörnyezeti higiénia megtartásában való közreműködés körében:
+
+– takarítás a lakás életvitelszerűen használt helyiségeiben (hálószobában, fürdőszobában, konyhában és illemhelyiségben)
+
+– mosás
+
+– vasalás
+
+A háztartási tevékenységben való közreműködés körében:
+
+– bevásárlás (személyes szükséglet mértékében), gyógyszer kiváltása
+
+– segítségnyújtás ételkészítésben és az étkezés előkészítésében
+
+– mosogatás
+
+– ruhajavítás
+
+– ágyazás, ágyneműcsere
+
+– közkútról, fúrtkútról vízhordás
+
+– tüzelő behordása kályhához, egyedi fűtés beindítása (kivéve ha ez a tevékenység egyéb szakmai kompetenciát igényel)
+
+– télen hóeltakarítás és síkosságmentesítés a lakás bejárata előtt
+
+– kísérés
+
+Segítségnyújtás veszélyhelyzet kialakulásának megelőzésében és a kialakult veszélyhelyzet elhárításában
+
+Szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése
+
+## 6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^482]
+
+## 7. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^483]
+
+**A szakápolási központ tárgyi feltételei és szakápolási tevékenységei**
+
+1\. Szakápolási központ környezeti feltételei
+
+1.1. Sterilanyag-tároló (külön helyiség vagy szekrény)
+
+2\. Alapápolási eszközök
+
+2.1. Háttámasz; lábtámasz
+
+2.2. Etetőasztal
+
+2.3. Ágyazókocsi
+
+2.4. Fürdetőszék; szoba-WC; hajmosó felszerelés
+
+2.5. Prevenciós antidecubitor matrac
+
+2.6. Terápiás antidecubitor matrac
+
+3\. Szakápolási központ tárgyi feltételei
+
+3.1. Előkészítő kocsi a szakápolási műveletekhez
+
+3.2. Motoros szívó; oxigénellátás (központi vagy egyedi), lélegeztető ballon, maszk, félautomata defibrillátor, EKG készülék, (újraélesztő tálca/táska)
+
+3.3. Vérnyomásmérő, vérnyomásmérő mandzsettasor, phonendoscop; garatlámpa (pupillalámpa), reflexkalapács
+
+3.4. Steril, egyszer használatos fecskendők különböző méretben
+
+3.5. Steril tűk, szárnyas tűk, perifériás vénakanülök különböző méretben
+
+3.6. Steril szondák, steril infúziós szerelékek
+
+3.7. Steril katéterek, steril katéter csúsztató, vizeletgyűjtő zsák
+
+3.8. Steril és nem steril kötszerek
+
+3.9. Steril sebészi ollók, steril anatómiai csipeszek, steril horgas csipeszek
+
+3.10. Kötszerollók; kocher
+
+3.11. Steril beöntő csövek, beöntő kanna
+
+3.12. Vizeletvizsgálati tesztcsík, vizeletfajsúly-mérő
+
+3.13. Vércukorszintmérő, tesztcsíkkal
+
+3.14. Vérvételi csövek és eszközök, tartályok egyéb vizsgálati anyagok vételéhez, zárt vérvételi rendszer, stranguláló gumi
+
+3.15. Infúziós állvány
+
+3.16. Infúziós pumpa vagy perfusor
+
+3.17. Elsődleges veszélyeshulladék-gyűjtő doboz
+
+4\. Kezelőegység felszerelése
+
+4.1. Vizsgálóasztal/-ágy/-szék
+
+4.2. Betegfellépő/lépcső vizsgálóasztalhoz/-ágyhoz/-székhez
+
+4.3. Orvosi csaptelep (hideg-meleg vizes) a kézfertőtlenítés feltételeinek biztosításával a kezelő-/vizsgálóhelyiségekben
+
+4.4. Mozgatható vizsgálólámpa
+
+4.5. Zárható gyógyszerszekrény
+
+4.6. Gyógyszerosztó kocsi vagy tálca
+
+4.7. Zárható kábítószerszekrény
+
+4.8. Gyógyszertárolásra alkalmas hűtőszekrény
+
+4.9. Dokumentáció- és irattároló
+
+4.10. Nyelvlapocok
+
+4.11. Reflexkalapács
+
+4.12. Pupillavizsgáló lámpa
+
+4.13. Visustábla
+
+4.14. Személymérleg
+
+4.15. Testmagasságmérő
+
+4.16. Mérőszalag
+
+5\. A szakápolás keretében biztosított tevékenységek
+
+5.1. Folyadékpótló infúzió bekötése orvosi utasításra, továbbá az intravénás és elektrolitpótláshoz, parenterális gyógyszer beadáshoz kapcsolódó egyéb szakápolói feladatok.
+
+5.2. Enterosztóma ellátás.
+
+5.3. Szondán (nasogastricus, és percutangastrostomán) át történő tápláláshoz és folyadékfelvételhez kapcsolódó szakápolási tevékenységek végzése, betanítása.
+
+5.4. Nasogastricus szonda behelyezése, cseréje.
+
+5.5. A tracheáliskanül tisztítása, betét cseréje szövődményes esetben, a tevékenység betanítása.
+
+5.6. Nőbetegeknél állandó katéter cseréjéhez vagy rendszeres katéterezéshez kapcsolódó szakápolói feladatok, hólyagkondicionálás.
+
+5.7. Perifériás vénakanül behelyezése és ellátása.
+
+5.8. Műtéti területek (nyitott és zárt sebek) ellátása.
+
+5.9. Sztomatoterápia szövődményes esetben, és szakmaspecifikus szájápolási tevékenységek műtét után.
+
+5.10. Betegség következményeként átmenetileg vagy véglegesen kiesett vagy csökkent funkciók helyreállításához, fejlesztéséhez vagy pótlásához kapcsolódó szakápolási feladatok:
+
+5.10.1. Gyógyászati segédeszközök, protézisek használatának tanítása (ez esetben gyógytornász közreműködése, vagy konzultáció céljából elérhetősége szükséges);
+
+5.10.2. Mozgás és mozgatás eszközei használatának tanítása.
+
+5.11. Dekubitálódott területek, fekélyek szakápolási feladatai III–IV. stádium (exsudációs, nekrotikus seb kezelése orvosi utasítás alapján).
+
+5.12. Haldokló beteg szakápolása.
+
+5.13. Tartós fájdalomcsillapítás szakápolási feladatai.
+
+5.14. Parenterális gyógyszerelés.
+
+5.15. Gyógyszeradagoló pumpa működtetése.
+
+5.16. Epidurális és Port-a cathkanülök gondozása, gyógyszerbevitel.
+
+5.17. Különböző célt szolgáló drének kezelésének szakápolási feladatai.
+
+5.18. EKG készítés orvosi utasítás alapján.
+
+5.19. Minden egyéb, orvos által elrendelt és felügyelt szakápolási tevékenység.
+
+## 8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^484]
+
+## 9. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^485]
+
+## 10. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^486]
+
+## 11. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^487]
+
+## 12. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^488]
+
+## 13. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^489]
+
+## 14. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^490]
+
+---
+
+[^1]: Az 1. § eredeti szövegének megjelölését (1) bekezdésre változtatta az 55/2015. (XI. 30.) EMMI rendelet 16. §-a.
+[^2]: Az 1. § (2) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 16. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. Az 1. § (2) bekezdése a 30/2024. (VII. 23.) BM rendelet 22. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § a 2/2006. (IV. 14.) ICSSZEM rendelet 1. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^4]: A 2. § k) pontját a 35/2009. (XII. 30.) SZMM rendelet 8. §-a iktatta be.
+[^5]: A 2. § l) pontját az 1/2017. (II. 14.) EMMI rendelet 29. §-a iktatta be.
+[^6]: A 2. § m) pontját a 29/2025. (VII. 24.) BM rendelet 7. §-a iktatta be.
+[^7]: A 3. § eredeti szövegének jelölését a 6/2000. (VII. 6.) SZCSM rendelet 1. §-a (1) bekezdésre változtatta.
+[^8]: A 3. § (2) bekezdését a 6/2000. (VII. 6.) SZCSM rendelet 1. §-a iktatta a szövegbe, s egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatta; a (2) bekezdés szövege a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdés b) pont ba) alpontja, a 24/2015. (IV. 30.) EMMI rendelet 8. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 13. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § eredeti szövegének megjelölését (1) bekezdésre változtatta az 55/2015. (XI. 30.) EMMI rendelet 17. §-a.
+[^10]: A 4. § (2) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 17. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
+[^11]: Az 5. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését. Az (1) bekezdés bevezető szövege a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés a) pontja az 55/2015. (XI. 30.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^13]: Az 5. § (1) bekezdés c) pontja a 78/2011. (XII. 30.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 5. § (1) bekezdésének f) pontja a 9/2006. (XII. 27.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (1) bekezdésének g) pontját a 9/2006. (XII. 27.) SZMM rendelet 1. § (2) bekezdése iktatta be.
+[^16]: Az 5. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^17]: Az 5. § (2) bekezdés c) pontja a 35/2009. (XII. 30.) SZMM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (3) bekezdésének bevezető mondata a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^19]: Az 5. § (4) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 5. §-a iktatta be.
+[^20]: Az 5. § (4) bekezdés b) pontja az 1/2017. (II. 14.) EMMI rendelet 58. § a) pontja szerint módosított szöveg.
+[^21]: Az 5. § (4) bekezdés b) pont be) alpontját a 7/2018. (II. 5.) EMMI rendelet 4. §-a iktatta be.
+[^22]: Az 5. § (4) bekezdés b) pont bf) alpontját a 7/2018. (II. 5.) EMMI rendelet 4. §-a iktatta be.
+[^23]: Az 5. § (4) bekezdés c) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § a) pontja szerint módosított szöveg.
+[^24]: Az 5/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 1. §-a iktatta a szövegbe.
+[^25]: Az 5/A. § (1) bekezdés nyitó szövegrésze a 2/2006. (IV. 14.) ICSSZEM rendelet 3. § (1) bekezdésével megállapított, az 1/2017. (II. 14.) EMMI rendelet 59. § a) pontja szerint módosított szöveg.
+[^26]: Az 5/A. § (1) bekezdésének a) pontja a 9/2006. (XII. 27.) SZMM rendelet 2. §-ával megállapított, nyitó szövegrésze az 1/2017. (II. 14.) EMMI rendelet 59. § b) pontja szerint módosított szöveg.
+[^27]: Az 5/A. § (1) bekezdés a) pont ab) alpontját a 26/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja hatályon kívül helyezte.
+[^28]: Az 5/A. § (1) bekezdés a) pont ad) alpontját a 26/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja hatályon kívül helyezte.
+[^29]: Az 5/A. § (1) bekezdés b) pontja a 26/2010. (XII. 30.) NEFMI rendelet 1. § (1) bekezdésével megállapított, az 1/2017. (II. 14.) EMMI rendelet 58. § b) pontja szerint módosított szöveg.
+[^30]: Az 5/A. § (1) bekezdés c) pontja az 1/2017. (II. 14.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 5/A. § (1) bekezdés e) pontja a 26/2010. (XII. 30.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 5/A. § (1) bekezdés f) pontját a 26/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja hatályon kívül helyezte.
+[^33]: Az 5/A. § (1) bekezdésének g) pontját az 1/2017. (II. 14.) EMMI rendelet 59. § c) pontja hatályon kívül helyezte.
+[^34]: Az 5/A. § (1) bekezdés h) pontját a 26/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja hatályon kívül helyezte.
+[^35]: Az 5/A. § (1) bekezdésének i) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^36]: Az 5/A. § (2) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^37]: Az 5/A. § (2) bekezdés d) pontját az 1/2017. (II. 14.) EMMI rendelet 30. § (2) bekezdése iktatta be.
+[^38]: Az 5/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 4. §-a iktatta be, nyitó szövegrésze az 55/2015. (XI. 30.) EMMI rendelet 29. § a) pontja szerint módosított szöveg.
+[^39]: Az 5/B. § g) pontját a 35/2009. (XII. 30.) SZMM rendelet 10. §-a iktatta be, hatályon kívül helyezte az 55/2015. (XI. 30.) EMMI rendelet 30. § a) pontja.
+[^40]: Az 5/C. §-t a 35/2009. (XII. 30.) SZMM rendelet 11. §-a iktatta be.
+[^42]: A 6. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^43]: A 6. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^44]: A 6. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^45]: A 6. § (4) bekezdését a 19/2020. (VI. 2.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^46]: A 6. § (4a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^47]: A 6. § (4a) bekezdés e) pontja a 80/2022. (XII. 30.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^48]: A 6. § (5) bekezdése a 62/2021. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^49]: A 6. § (5a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^50]: A 6. § (5a) bekezdés d) pontja a 80/2022. (XII. 30.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^51]: A 6. § (5b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^52]: A 6. § (5c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^53]: A 6. § (5d) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^54]: A 6. § új (6) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (9) bekezdésre változtatva. A 6. § (6) bekezdése a 26/2017. (X. 18.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^55]: A 6. § új (7) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdés a) pontja iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A 6. § (7) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 6. § új (8) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A 6. § (8) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^57]: A 6. § (8a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 31. § iktatta be.
+[^58]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (6) bekezdés számozását (9) bekezdésre változtatta.
+[^59]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (7) bekezdés számozását (10) bekezdésre változtatta. A 6. § (10) bekezdése a 19/2014. (III. 13.) EMMI rendelet 43. § a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
+[^60]: A 6. § (11) - eredetileg (8) - bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 2. §-ával megállapított szöveg. A 6. § eredeti (8) bekezdésének számozását a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja (11) bekezdésre változtatta. A 6. § (11) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bb) alpontja szerint módosított szöveg.
+[^61]: A 6. § (12) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 1. § (2) bekezdése iktatta a be, szövege a 26/2017. (X. 18.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^62]: A 6. § (13) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
+[^63]: A 6. § (14) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
+[^64]: A 6. § (15) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be, szövege a 27/2023. (VIII. 3.) BM rendelet 7. § a) pontja szerint módosított szöveg.
+[^65]: A 6. § (16) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be.
+[^66]: A 6/A. §-t a 35/2009. (XII. 30.) SZMM rendelet 12. §-a iktatta be.
+[^67]: A 6/A. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 58. § d) pontja szerint módosított szöveg.
+[^68]: A 7. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^69]: A 7. § (1) bekezdés a) pontja a 78/2011. (XII. 30.) NEFMI rendelet 4. §-ával mnegállapított, az 55/2013. (VII. 29.) EMMI rendelet 13. § a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § c) pontja szerint módosított szöveg.
+[^70]: A 7. § (1) bekezdés b) pontja a 4/2020. (II. 6.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^71]: A 7. § (1) bekezdésének c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^72]: A 7. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 2. §-ának (2) bekezdésével megállapított, a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdés a) pontja, a 26/2017. (X. 18.) EMMI rendelet 10. § a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § d) pontja szerint módosított szöveg.
+[^73]: A 8. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 3. §-ával megállapított szöveg.
+[^74]: A 8/A. §-t a 4/2004. (I. 28.) ESZCSM rendelet 4. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 39. § (2)–(3) bekezdését.
+[^75]: A 8/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, szövege az 55/2015. (XI. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^76]: A 9. § (2) bekezdésének második mondata a 4/2004. (I. 28.) ESZCSM rendelet 5. §-ával megállapított és a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 39. § (2)–(3) bekezdését.
+[^78]: A 12/A. §-t megelőző alcímet az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^79]: A 12/A. §-t az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^80]: A 12/A. § (3) bekezdés a) pontja az 1/2017. (II. 14.) EMMI rendelet 58. § e) pontja szerint módosított szöveg.
+[^81]: A 13. § d) pontja a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének ba) alpontja szerint módosított szöveg.
+[^82]: A 14. §-t megelőző alcímet a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan az 55/2013. (VII. 29.) EMMI rendelet 7. §-a iktatta be.
+[^83]: A 14. §-t nyitó szövegrésze a 39/2015. (VIII. 28.) EMMI rendelet 3. § a) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § a) pontja, a 2/2021. (I. 18.) EMMI rendelet 2. § a) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 3. §-a, a 80/2022. (XII. 30.) BM rendelet 17. § c) pontja szerint módosított szöveg.
+[^84]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^85]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^86]: A 15. § (7) bekezdése a 4/2025. (II. 6.) BM rendelet 8. §-ával megállapított szöveg.
+[^91]: A II. Fejezet címe a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének h) pontjával megállapított szöveg.
+[^92]: A 19. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^93]: A 19. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének i) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^94]: A 19. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^95]: A 19. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 11. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^96]: A 19. § (5) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 11. § (2) bekezdése iktatta be, szövege a 9/2009. (IV. 11.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^97]: A 19. § (6) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 11. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^98]: A 19/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 12. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^99]: A 19/A. § (1) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.
+[^100]: A 19/A. § (2) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.
+[^101]: A 19/A. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § c) pontja szerint módosított szöveg.
+[^102]: A 19/A. § (4) bekezdését a 29/2025. (VII. 24.) BM rendelet 11. §-a hatályon kívül helyezte.
+[^103]: A 19/A. § (5) bekezdése a 4/2020. (II. 6.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^104]: A 19/A. § (6) bekezdése a 4/2020. (II. 6.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^105]: A 19/A. § (7) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § d) pontja szerint módosított szöveg.
+[^106]: A 19/A. § (8) bekezdése a 4/2020. (II. 6.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^107]: A 19/B. §-t újonnan az 55/2015. (XI. 30.) EMMI rendelet 20. §-a iktatta be.
+[^108]: A 20. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^109]: A 20. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § e) pontja szerint módosított szöveg.
+[^110]: A 20. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 14. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^111]: A 20. § (2) bekezdés c) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont ba) alpontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, szövege a 4/2019. (II. 27.) EMMI rendelet 20. § a) pontja szerint módosított szöveg.
+[^112]: A 20. § (3) bekezdését a 4/2019. (II. 27.) EMMI rendelet 13. §-a iktatta be, szövege az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^113]: A 21. § (2) bekezdése a 23/2024. (V. 9.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^114]: A 21. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 30. § c) pontja hatályon kívül helyezte.
+[^115]: A 22. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének j) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^116]: A 22. § (3) bekezdés d) pontját a 7/2018. (II. 5.) EMMI rendelet 6. §-a iktatta be.
+[^117]: A 23. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^119]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^120]: A 25. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
+[^121]: A 25. § (2) bekezdés nyitó szövegrésze az 55/2015. (XI. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
+[^122]: A 25. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^123]: A 25. § (3a) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 19. § b) pontja.
+[^124]: A 25. § (3b) bekezdését a 40/2016. (XII. 21.) EMMI rendelet 2. §-a iktatta be.
+[^125]: A 25. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^126]: A 25/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdés e) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 32. § iktatta be.
+[^127]: A 26. § nyitó szövegrésze a 4/2020. (II. 6.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
+[^128]: A 26. § a) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének j) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^129]: A 26. § e) pontja a 30/2024. (VII. 23.) BM rendelet 21. § a) pontja szerint módosított szöveg.
+[^130]: A 27. § (1) bekezdés az 1/2017. (II. 14.) EMMI rendelet 59. § d) pontja hatályon kívül helyezte.
+[^131]: A 27. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^132]: A 27. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^133]: A 27. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 18. § (2) bekezdése iktatta be, a 80/2022. (XII. 30.) BM rendelet 18. §-a hatályon kívül helyezte.
+[^134]: A 27. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 7. § (3) bekezdése iktatta be, szövege az 55/2015. (XI. 30.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^135]: A 27. § (6) bekezdését a 40/2016. (XII. 21.) EMMI rendelet 3. §-a iktatta be.
+[^136]: A 28. §-t megelőző címet a 2/2006. (IV. 14.) ICSSZEM rendelet 19. § (1) bekezdése iktatta be.
+[^137]: A 28. § a 2/2006. (IV. 14.) ICSSZEM rendelet 19. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^138]: A 28. § (1) bekezdésének b) pontja a 9/2006. (XII. 27.) SZMM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^139]: A 28. § (3) bekezdésének a) pontja a 37/2007. (XII. 22.) SZMM rendelet 22. § (8) bekezdése a) pontjának ab) alpontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 22. § (4) bekezdését.
+[^140]: A 28. § (4) bekezdésének harmadik mondatát a 9/2006. (XII. 27.) SZMM rendelet 3. § (2) bekezdése iktatta be.
+[^141]: A 28. § (5) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 30. § d) pontja hatályon kívül helyezte.
+[^142]: A 28. § (6) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 3. § (3) bekezdése iktatta be. A (6) bekezdés első mondata a 37/2007. (XII. 22.) SZMM rendelet 3. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 22. § (4)–(5) bekezdését.
+[^143]: A 28/A. §-t az 1/2017. (II. 14.) EMMI rendelet 34. §-a iktatta be.
+[^144]: A 29. § a 2/2006. (IV. 14.) ICSSZEM rendelet 20. §-ával megállapított szöveg, az azt megelőző címet és alcímet e módosító rendelet 39. § (4) bekezdésének f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^145]: A 29. § (3) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bc) alpontja.
+[^146]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
+[^147]: A „Szociális diagnózis” alcím címét a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.
+[^148]: A 30. §-t az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte, újonnan a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.
+[^149]: A 30. § (1) bekezdése az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^150]: A 30. § (7) bekezdése a 4/2020. (II. 6.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^151]: A 30. § (11) bekezdését a 4/2020. (II. 6.) EMMI rendelet 5. § (2) bekezdése iktatta be.
+[^160]: A 39. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^161]: A 39. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^162]: A 39. § (1) bekezdés b) pont bb) alpontja a 30/2024. (VII. 23.) BM rendelet 21. § b) pontja szerint módosított szöveg.
+[^163]: A 39. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^164]: A 39. § (2) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
+[^165]: A 39. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^166]: A 39. § (3a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 35. § (1) bekezdése iktatta be.
+[^167]: A 39. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének l) pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 8. §-ával megállapított, a 4/2020. (II. 6.) EMMI rendelet 15. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^168]: A 39. § (5) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, szövege a 26/2010. (XII. 30.) NEFMI rendelet 5. § (2) bekezdésével megállapított, az 1/2017. (II. 14.) EMMI rendelet 58. § f) pontja, a 80/2022. (XII. 30.) BM rendelet 17. § d) pontja szerint módosított szöveg.
+[^169]: A 39. § (5a) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 8. §-a iktatta be.
+[^170]: A 39. § (6) bekezdését a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 35. § (2) bekezdése iktatta be.
+[^171]: A 39. § (7) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^172]: A 39. § új (8) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (9) bekezdésre változtatva.
+[^173]: A 39. § (8) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, számozását a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a (9) bekezdésre változtatta.
+[^174]: A 6. Címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^175]: A 39/A. §-t megelőző címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 24. §-ával megállapított szöveg.
+[^176]: A 39/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^177]: A 39/A. § (1) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 59. § e) pontja hatályon kívül helyezte.
+[^178]: A 39/A. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § f) pontja hatályon kívül helyezte.
+[^179]: A 39/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 11. § d) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 36. §-a iktatta be.
+[^180]: A 39/C. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, a § szövegének jelölését (1) bekezdésre változtatta a 9/2006. (XII. 27.) SZMM rendelet 5. §-a.
+[^181]: A 39/C. § (2) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatta. A 39/C. § (2) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § c) pontja szerint módosított szöveg.
+[^182]: A 39/D. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^183]: A 39/D. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 14. §-ával megállapított, a 7/2018. (II. 5.) EMMI rendelet 18. § h) pontja szerint módosított szöveg.
+[^184]: A 39/D. § (2) bekezdését a 2/2015. (I. 14.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.
+[^186]: A II. fejezet 7. címét (39/F–39/I. §) a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta a szövegbe.
+[^187]: A 39/F. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 25. §-ával megállapított szöveg.
+[^188]: A 39/F. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^189]: A 39/F. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^190]: A 39/F. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^191]: A 39/F. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^192]: A 39/F. § (6) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^193]: A 39/G. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^194]: A 39/G. § (2) bekezdés nyitó szövegrésze a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^195]: A 39/G. § (3) bekezdés nyitó szövegrésze a 7/2018. (II. 5.) EMMI rendelet 18. § i) pontjával megállapított, a 80/2022. (XII. 30.) BM rendelet 17. § e) pontja szerint módosított szöveg.
+[^196]: A 39/G. § (3) bekezdés a) pontja a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^197]: A 39/G. § (3) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^198]: A 39/H. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^199]: A 39/H. § (1) bekezdés b) pontja az 55/2015. (XI. 30.) EMMI rendelet 29. § g) pontja, a 45/2022. (XII. 20.) BM rendelet 13. § a) pontja szerint módosított szöveg.
+[^200]: A 39/H. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § j) pontja szerint módosított szöveg.
+[^201]: A 4/2004. (I. 28.) ESZCSM rendelet 28. §-ának (4) bekezdése alapján a közösségi pszichiátriai ellátásban, valamint a szenvedélybetegek közösségi ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.
+[^202]: A 39/I. §-t a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta be, szövege a 4/2019. (II. 27.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^203]: A 39/I. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^204]: A 39/I. § (3) bekezdése a 2/2021. (I. 18.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
+[^205]: A 39/J. §-t a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta a szövegbe.
+[^206]: A 39/J. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^207]: A 39/J. § (3) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének c) pontja hatályon kívül helyezte.
+[^208]: A 39/J. § (4) bekezdése a 7/2018. (II. 5.) EMMI rendelet 11. § (2) bekezdésével megállapított, a 4/2020. (II. 6.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
+[^209]: A 39/K. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 26. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^210]: A 39/L. §-t a 9/2006. (XII. 27.) SZMM rendelet 7. §-a iktatta be.
+[^211]: A 39/L. § (1a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 39. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 18. § l) pontja, a 4/2019. (II. 27.) EMMI rendelet 20. § b) pontja szerint módosított szöveg.
+[^212]: A 39/L. § (2) bekezdését a 7/2018. (II. 5.) EMMI rendelet 19. § d) pontja hatályon kívül helyezte.
+[^213]: A 39/L. § (3) bekezdés b) pontja a 7/2018. (II. 5.) EMMI rendelet 19. § e) pontja szerint módosított szöveg.
+[^214]: A 39/L. § (3) bekezdés c) pontját a 7/2018. (II. 5.) EMMI rendelet 19. § f) pontja hatályon kívül helyezte.
+[^215]: A 39/L. § (4) bekezdését a 7/2018. (II. 5.) EMMI rendelet 19. § g) pontja hatályon kívül helyezte.
+[^217]: A 39/N. §-t a 4/2020. (II. 6.) EMMI rendelet 6. §-a iktatta be.
+[^218]: A III. Fejezet címe a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének l) pontja szerint módosított szöveg.
+[^219]: A 40. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének m) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^220]: A 40. § (2) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § g) pontja hatályon kívül helyezte.
+[^221]: A 40. § (3) bekezdése az 1/2017. (II. 14.) EMMI rendelet 40. §-ával megállapított szöveg.
+[^222]: A 40. § (4) bekezdése az 1/2017. (II. 14.) EMMI rendelet 40. §-ával megállapított szöveg.
+[^223]: A 40. § (7) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 4. § (2) bekezdésével megállapított, a 26/2010. (XII. 30.) NEFMI rendelet 11. § e) pontja szerint módosított szöveg.
+[^224]: A 40. § (8) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 8. §-a iktatta be.
+[^225]: A 40. § (8) bekezdés a) pontja az 1/2017. (II. 14.) EMMI rendelet 58. § h) pontja szerint módosított szöveg.
+[^226]: A 40. § (8) bekezdés b) pontja az 1/2017. (II. 14.) EMMI rendelet 58. § i) pontja szerint módosított szöveg.
+[^227]: A 40. § (8) bekezdés c) pontja a 4/2020. (II. 6.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
+[^228]: A 42. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^229]: A 42/A. §-t a 4/2019. (II. 27.) EMMI rendelet 16. §-a iktatta be, szövege a 80/2022. (XII. 30.) BM rendelet 12. §-ával megállapított szöveg.
+[^230]: A 43/A. §-t megelőző alcímet az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^231]: A 43/A. §-t az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^232]: A 44. § (2) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 22. § (9) bekezdésének c) pontja szerint módosított szöveg.
+[^233]: A 44. § (3) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 22. § (8) bekezdése a) pontjának ac) alpontja hatályon kívül helyezte.
+[^234]: A 44. § (4) bekezdését a 26/2010. (XII. 30.) NEFMI rendelet 11. § f) pontja hatályon kívül helyezte.
+[^235]: A 45. § (1) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bf) alpontja szerint módosított szöveg.
+[^236]: A 48. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^237]: A 49. § c) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte.
+[^238]: Az 50. § (2) bekezdésének b) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^239]: Az 50. § (2) bekezdésének c) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^240]: Az 50. § (2) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bc) alpontja szerint módosított szöveg.
+[^241]: Az 50. § (3) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^242]: Az 50. § (4) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 6. § (3) bekezdése iktatta be, hatályon kívül helyezte a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének a) pontja.
+[^243]: Az 50. § (5) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 6. § (3) bekezdése iktatta be, hatályon kívül helyezte a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének a) pontja.
+[^244]: Az 51. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § d) pontja, a 4/2020. (II. 6.) EMMI rendelet 15. § d) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^245]: Az 51. § (2) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 22. § (9) bekezdésének d) pontja szerint módosított szöveg.
+[^246]: Az 52. § a 6/2000. (VII. 6.) SZCSM rendelet 5. §-ával megállapított szöveg.
+[^247]: Az 52. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 16. §-ával megállapított, az 55/2013. (VII. 29.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^248]: Az 52. § (2) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 16. §-ával megállapított szöveg.
+[^249]: Az 52. § (3) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 16. §-ával megállapított szöveg.
+[^250]: Az 52. § (4) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 16. §-ával megállapított szöveg.
+[^251]: Az 52. § (5) bekezdése a 6/2002. (IV. 5.) SZCSM rendelet 4. §-ának (2) bekezdésével megállapított, a 37/2007. (XII. 22.) SZMM rendelet 22. § (9) bekezdésének h) pontja, a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bd) alpontja szerint módosított szöveg.
+[^252]: Az 52. § (6) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 7. § (1) bekezdésével megállapított, valamint a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^253]: Az 52. § (6) bekezdés a) pont aa) alpontja a 80/2022. (XII. 30.) BM rendelet 17. § f) pontja szerint módosított szöveg.
+[^254]: Az 52. § (6) bekezdésének b) pontja a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének b)–c) pontja, a 80/2022. (XII. 30.) BM rendelet 17. § g) pontja szerint módosított szöveg.
+[^255]: Az 52. § új (7) bekezdését a 6/2002. (IV. 5.) SZCSM rendelet 4. §-ának (3) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (7) bekezdés számozását (9) bekezdésre változtatva. A (7) bekezdés szövege a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont be) alpontja szerint módosított szöveg.
+[^256]: Az 52. § (8) bekezdését a 6/2002. (IV. 5.) SZCSM rendelet 4. §-ának (3) bekezdése iktatta be, bevezető szövegrésze a 37/2007. (XII. 22.) SZMM rendelet 7. § (2) bekezdésével megállapított, valamint a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^257]: Az 52. § (8) bekezdésének a) pontját a 37/2007. (XII. 22.) SZMM rendelet 22. § (8) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.
+[^258]: Az 52. § (8) bekezdésének b) pontját a 37/2007. (XII. 22.) SZMM rendelet 22. § (8) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.
+[^259]: Az 52. § (8) bekezdésének c) pontja a 37/2007. (XII. 22.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^260]: Az 52. § eredeti (7) bekezdésének számozását a 6/2002. (IV. 5.) SZCSM rendelet 4. §-ának (3) bekezdése (9) bekezdésre változtatta. A (9) bekezdés a 37/2007. (XII. 22.) SZMM rendelet 22. § (9) bekezdésének i) pontja szerint módosított szöveg.
+[^261]: Az 52. § (10) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 7. § (3) bekezdése iktatta be, szövege a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^263]: Az 53. § (1) bekezdésének első mondata a 37/2007. (XII. 22.) SZMM rendelet 8. §-ával megállapított szöveg.
+[^264]: Az 53. § (2) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § e) pontja szerint módosított szöveg.
+[^265]: Az 54 § (1) bekezdésének b) pontja a 6/2000. (VII. 6.) SZCSM rendelet 6. §-ával megállapított szöveg.
+[^266]: Az 54. § (3) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^267]: Az 54. § (3a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 7. § (2) bekezdése iktatta be.
+[^268]: Az 54. § (6) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^269]: Az 55. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg.
+[^270]: Az 55. § a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^271]: Az 56. § a 2/2006. (IV. 14.) ICSSZEM rendelet 29. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^272]: Az 56. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 58. § d) pontja szerint módosított szöveg.
+[^273]: Az 56. § (3) bekezdése az 1/2017. (II. 14.) EMMI rendelet 58. § d) pontja szerint módosított szöveg.
+[^274]: Az 57. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének n) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^275]: Az 57. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének o)–p) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^276]: Az 57. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének n) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^277]: Az 57. § (4) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 30. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^278]: Az 58. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének q) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^279]: Az 58. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének n) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^281]: A 60. § (3) bekezdését a 2/2015. (I. 14.) EMMI rendelet 8. §-a iktatta be.
+[^282]: A 62. § (1) bekezdés c) pontja a 26/2010. (XII. 30.) NEFMI rendelet 10. § g) pontja szerint módosított szöveg.
+[^283]: A 62. § (5) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének r) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^284]: A 62. § (6) bekezdése a 19/2014. (III. 13.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.
+[^285]: A 63. § (2) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének p) pontja hatályon kívül helyezte.
+[^286]: A 67. § (2) bekezdését a 26/2010. (XII. 30.) NEFMI rendelet 11. § h) pontja hatályon kívül helyezte.
+[^287]: A 67/A. §-t a 7/2018. (II. 5.) EMMI rendelet 12. §-a iktatta be.
+[^288]: A 68. § (2) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § e) pontja hatályon kívül helyezte.
+[^289]: A 68. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § h) pontja hatályon kívül helyezte.
+[^290]: A 71. § b) pontja a 24/2015. (IV. 30.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^291]: A 72. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 58. § d) pontja szerint módosított szöveg.
+[^292]: A 73. § (2) bekezdésének b) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének s) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^293]: A 74. § a 4/2004. (I. 28.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^294]: A 75. § (1) bekezdés e) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 31. §-ával megállapított, a 26/2017. (X. 18.) EMMI rendelet 9. § b) pontja szerint módosított szöveg.
+[^295]: A 77. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^296]: A 77. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^297]: A 79. § (1) bekezdése a 4/2020. (II. 6.) EMMI rendelet 15. § e) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^298]: A 79. § (2) bekezdése a 78/2011. (XII. 30.) NEFMI rendelet 5. §-ával megállapított, a 19/2020. (VI. 2.) EMMI rendelet 2. § a) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^299]: A 79. § (3) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 18. §-a iktatta be, szövege a 26/2010. (XII. 30.) NEFMI rendelet 10. § h) pontja szerint módosított szöveg.
+[^300]: A 79/A. §-t újonnan a 30/2024. (VII. 23.) BM rendelet 18. §-a iktatta be.
+[^301]: A 80. § c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 33. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^302]: A 81. § (2) bekezdésének b) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
+[^303]: A 81. § (2) bekezdésének c) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
+[^304]: A 81. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^305]: A 81. § (3a) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdése iktatta be.
+[^306]: A 81. § (3a) bekezdés c) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § f) pontja szerint módosított szöveg.
+[^307]: A 81. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 43. §-a iktatta be.
+[^308]: A 84. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 18. §-a szerint módosított szöveg.
+[^309]: A 84/A. §-t és alcímét a 9/2006. (XII. 27.) SZMM rendelet 8. §-a iktatta be.
+[^310]: A 84/A. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § i) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § c) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^311]: A 84/A. § (3) bekezdés b) pontját a 26/2017. (X. 18.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.
+[^312]: A 85. § (5) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 14. § c) pontja szerint módosított szöveg.
+[^313]: A 85. § (6) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 10. §-a iktatta be.
+[^314]: A 89. § (5) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 19. §-a iktatta a szövegbe.
+[^315]: A 94. § (1) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bg) alpontja szerint módosított szöveg.
+[^316]: A 94. § (1) bekezdés e) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bh) alpontja szerint módosított szöveg.
+[^317]: A 94. § (2) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bi) alpontja szerint módosított szöveg.
+[^318]: A 98. § (3) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ab) alpontja szerint módosított szöveg.
+[^319]: A 99/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 20. §-a iktatta a szövegbe.
+[^320]: A 100. § eredeti szövegének jelölését a 4/2004. (I. 28.) ESZCSM rendelet 21. §-a (1) bekezdésre változtatta.
+[^321]: A 100. § (1) bekezdésének c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének d) pontja, a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont be) alpontja, az 55/2015. (XI. 30.) EMMI rendelet 29. § h) pontja szerint módosított szöveg.
+[^322]: A 100. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 21. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 100. § (2) bekezdését a 2/2015. (I. 14.) EMMI rendelet 14. § b) pontja hatályon kívül helyezte.
+[^323]: A 101. §-t megelőző alcím a 4/2004. (I. 28.) ESZCSM rendelet 22. §-ának (1) bekezdésével megállapított szöveg.
+[^324]: A 101. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 28. § (3) bekezdésének a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § m) pontja szerint módosított szöveg.
+[^325]: A 101. § (3) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 22. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 2/2015. (I. 14.) EMMI rendelet 14. § c) pontja.
+[^326]: A 101/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 23. §-a iktatta a szövegbe.
+[^327]: A 101/A. § (3) bekezdése a 4/2020. (II. 6.) EMMI rendelet 15. § g) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^328]: A 101/A. § (7) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § h) pontja szerint módosított szöveg.
+[^329]: A 101/B. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, a 101/B. § szövege az 1/2017. (II. 14.) EMMI rendelet 44. §-ával megállapított szöveg.
+[^334]: A 103. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ac) alpontja hatályon kívül helyezte.
+[^335]: Az 103. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § f) pontja hatályon kívül helyezte.
+[^336]: A 103/A. §-t a 36/2018. (X. 12.) EMMI rendelet 1. §-a iktatta be, szövege a 27/2019. (XII. 10.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^337]: A 103/A. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^338]: A 103/A. § (3) bekezdése az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^339]: A 104. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^340]: A 104. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^341]: A 104. § (3) bekezdését a 78/2011. (XII. 30.) NEFMI rendelet 9. §-a hatályon kívül helyezte.
+[^342]: A 104. § (5) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 34. §-a iktatta be, szövege a 29/2025. (VII. 24.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^343]: A 104. § (5a) bekezdését a 29/2025. (VII. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^344]: A 104. § (6) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 34. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^345]: A 104. § (7) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 34. §-a iktatta be, szövege a 29/2025. (VII. 24.) BM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^346]: A 104. § (8) bekezdését az 1/2017. (II. 14.) EMMI rendelet 45. § (3) bekezdése iktatta be.
+[^347]: A 104. § (9) bekezdését az 1/2017. (II. 14.) EMMI rendelet 45. § (3) bekezdése iktatta be.
+[^348]: A 104. § (10) bekezdését a 7/2018. (II. 5.) EMMI rendelet 14. § (2) bekezdése iktatta be.
+[^349]: A 104/A. §-t a 4/2004. (I. 28.) ESZCSM rendelet 25. §-a iktatta a szövegbe.
+[^350]: A 104/A. § (2) bekezdés b) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bi) alpontja hatályon kívül helyezte.
+[^351]: A 104/A. § (2) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 29. § h) pontja szerint módosított szöveg.
+[^352]: A 104/A. § (3) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének r) pontja hatályon kívül helyezte, újonnan a 80/2022. (XII. 30.) BM rendelet 13. §-a iktatta be.
+[^353]: A 104/A. § (4) bekezdése az 1/2017. (II. 14.) EMMI rendelet 46. §-ával megállapított szöveg.
+[^354]: A 104/A. § (5) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 14. § d) pontja hatályon kívül helyezte.
+[^355]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
+[^356]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^357]: [A 4/2019. (II. 27.) EMMI rendelet 21. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti az „ötéves időtartamra” szövegrész, nem vezethető át.]
+[^358]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^359]: A 104/B. § (2) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 13. § a) pontja szerint módosított szöveg. [A 45/2022. (XII. 20.) BM rendelet 13. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^360]: A 104/B. § (2) bekezdés h) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^361]: A 104/B. § (2) bekezdés i) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^362]: A 104/B. § (2) bekezdés j) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^363]: A 104/B. § (2a) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 9. §-a iktatta be.
+[^364]: A 104/B. § (2b) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 9. §-a iktatta be.
+[^365]: A 104/B. § (4) bekezdését a 26/2017. (X. 18.) EMMI rendelet 5. §-a iktatta be.
+[^366]: A 105. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^367]: A 105. § (2) bekezdés a) pontját a 36/2018. (X. 12.) EMMI rendelet 6. § a) pontja hatályon kívül helyezte.
+[^368]: A 105. § (2) bekezdés b) pontja az 1/2017. (II. 14.) EMMI rendelet 48. § (2) bekezdésével megállapított szöveg.
+[^369]: A 105. § (2) bekezdés e) pontja az 1/2017. (II. 14.) EMMI rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^370]: A 105. § (2) bekezdés f) pontját az 1/2017. (II. 14.) EMMI rendelet 48. § (3) bekezdése iktatta be.
+[^371]: A 105. § (3) bekezdése az 1/2017. (II. 14.) EMMI rendelet 48. § (4) bekezdésével megállapított, a 4/2020. (II. 6.) EMMI rendelet 15. § i) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^372]: A 106. § a 4/2020. (II. 6.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^373]: A 107. § (1) bekezdése a 4/2020. (II. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 19/2020. (VI. 2.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^374]: A 107. § (2) bekezdése a 36/2018. (X. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^375]: A 107. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § l) pontja hatályon kívül helyezte, újonnan a 26/2017. (X. 18.) EMMI rendelet 6. §-a iktatta be, szövege a 4/2020. (II. 6.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^376]: A 107. § (4) bekezdését a 4/2020. (II. 6.) EMMI rendelet 9. § (3) bekezdése iktatta be.
+[^377]: A 107/A. §-t és az azt megelőző alcímet a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
+[^378]: A 107/A. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 36. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^379]: A 107/A. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § m) pontja hatályon kívül helyezte.
+[^380]: A 107/B. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, szövege a 36/2018. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^384]: A 109. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^385]: A 110. § c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének s) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^386]: A 8. címet (110/A–110/I. §) az 55/2013. (VII. 29.) EMMI rendelet 10. §-a iktatta be.
+[^387]: A 110/B. § (1) bekezdése a 2/2015. (I. 14.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^388]: A 110/B. § (1a) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 10. §-a iktatta be.
+[^389]: A 110/B. § (1b) bekezdését a 62/2021. (XII. 29.) EMMI rendelet 10. §-a iktatta be.
+[^390]: A 110/B. § (1c) bekezdését a 30/2024. (VII. 23.) BM rendelet 19. §-a iktatta be.
+[^391]: A 110/B. § (2) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 7/2018. (II. 5.) EMMI rendelet 15. §-a, a 2/2021. (I. 18.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
+[^392]: A 110/B. § (2a) bekezdésést a 39/2015. (VIII. 28.) EMMI rendelet 2. § (2) bekezdése iktatta be, szövege a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja, a 2/2021. (I. 18.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
+[^393]: A 110/B. § (3) bekezdés a) pontját a 30/2024. (VII. 23.) BM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^394]: A 110/B. § (3) bekezdés b) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § j) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^395]: A 110/B. § (4) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (3) bekezdésével megállapított, a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja, a 2/2021. (I. 18.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
+[^396]: A 110/B. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 9. § (2) bekezdése iktatta be, szövege a 4/2020. (II. 6.) EMMI rendelet 10. §-ával megállapított, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^397]: A 110/B. § (6) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 25. §-a iktatta be.
+[^398]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^399]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.
+[^400]: A 110/C. § (3) bekezdés a) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^401]: A 110/C. § (3) bekezdés b) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^402]: A 110/D. § (2) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § p) pontja hatályon kívül helyezte.
+[^403]: A 110/E. § a 2/2015. (I. 14.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^404]: A 110/E. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^405]: A 110/E. § (1) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § k) pontja szerint módosított szöveg.
+[^406]: A 110/E. § (1a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^407]: A 110/E. § (1b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^408]: A 110/E. § (1c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^409]: A 110/E. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be, szövege a 62/2021. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^410]: A 110/E. § (4) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be.
+[^411]: A 110/F. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 58. § k) pontja szerint módosított szöveg.
+[^412]: A 110/F. § (2a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 53. §-a iktatta be, szövege a 26/2017. (X. 18.) EMMI rendelet 7. §-ával megállapított, a 7/2018. (II. 5.) EMMI rendelet 18. § n) pontja szerint módosított szöveg.
+[^413]: A 110/G. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 59. § q) pontja szerint módosított szöveg.
+[^414]: A 110/G. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § o) pontja szerint módosított szöveg.
+[^415]: A 110/G. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § r) pontja hatályon kívül helyezte.
+[^416]: A 110/H. § (1) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § s) pontja hatályon kívül helyezte.
+[^417]: A 110/H. § (2) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § s) pontja hatályon kívül helyezte.
+[^418]: A 110/I. § (1) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § l) pontja szerint módosított szöveg.
+[^419]: A 110/I. § (3) bekezdése a 19/2020. (VI. 2.) EMMI rendelet 2. § d) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^420]: A 9. alcímet (110/J–110/M. §) az 1/2017. (II. 14.) EMMI rendelet 54. §-a iktatta be.
+[^421]: A 110/L. § (2) bekezdés b) pontja a 4/2019. (II. 27.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^422]: A 111. § a 30/2024. (VII. 23.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^423]: A 111. § (2) bekezdés 15. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.
+[^424]: A 111. § (2) bekezdés 16. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be, szövege a 29/2025. (VII. 24.) BM rendelet 10. §-a szerint módosított szöveg.
+[^425]: A 111/A. §-t az 1/2017. (II. 14.) EMMI rendelet 55. §-a iktatta be.
+[^426]: A 111/A. § (2) bekezdés a) pontja a 45/2022. (XII. 20.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^427]: A 111/A. § (3) bekezdése a 45/2022. (XII. 20.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^428]: A 111/A. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^429]: A 111/A. § (5) bekezdése a 23/2024. (V. 9.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^430]: A 111/B. §-t az 1/2017. (II. 14.) EMMI rendelet 55. §-a iktatta be.
+[^431]: A 112. § (2)-(3) bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 7. §-ával megállapított szöveg.
+[^432]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
+[^433]: A 112. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
+[^434]: A 113. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^435]: A 113. § (4) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.
+[^436]: A hatálybalépés napja: 2015. január 17.
+[^437]: A 113. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.
+[^438]: A 114. § (1) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ad) alpontja hatályon kívül helyezte.
+[^439]: A 114. § (4) bekezdését a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének be) alpontja hatályon kívül helyezte.
+[^440]: A 115. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte, újonnan a 78/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.
+[^441]: A 116. §-t az 55/2013. (VII. 29.) EMMI rendelet 11. §-a iktatta be.
+[^442]: A 117. §-t a 24/2015. (IV. 30.) EMMI rendelet 7. §-a iktatta be.
+[^443]: A 118. §-t az 55/2015. (XI. 30.) EMMI rendelet 27. §-a iktatta be.
+[^444]: A 119. §-t az 1/2017. (II. 14.) EMMI rendelet 56. §-a iktatta be.
+[^445]: A 119. § (1a) bekezdését a 4/2019. (II. 27.) EMMI rendelet 18. §-a iktatta be.
+[^446]: A 119. § (5) bekezdés a) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § p) pontja szerint módosított szöveg.
+[^447]: A 119. § (5) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § q) pontja szerint módosított szöveg.
+[^448]: A 119. § (5) bekezdés d) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § r) pontja szerint módosított szöveg.
+[^449]: A 120. §-t a 7/2018. (II. 5.) EMMI rendelet 16. §-a iktatta be.
+[^450]: A hatálybalépés időpontja 2018. február 6.
+[^451]: A hatálybalépés időpontja 2018. február 6.
+[^452]: A hatálybalépés időpontja 2018. február 6.
+[^453]: A 120. § (4) bekezdése az 1/2021. (I. 7.) EMMI rendelet 9. §-ával megállapított, a 30/2024. (VII. 23.) BM rendelet 21. § c) pontja szerint módosított szöveg.
+[^454]: A 121. §-t a 7/2018. (II. 5.) EMMI rendelet 16. §-a iktatta be.
+[^455]: A hatálybalépés időpontja 2018. február 6.
+[^456]: A 122. §-t a 7/2018. (II. 5.) EMMI rendelet 16. §-a iktatta be.
+[^457]: A hatálybalépés időpontja 2018. február 6.
+[^458]: A hatálybalépés időpontja 2018. február 6.
+[^459]: A 122/A. §-t a 80/2022. (XII. 30.) BM rendelet 14. §-a iktatta be.
+[^460]: A 123. §-t a 36/2018. (X. 12.) EMMI rendelet 4. §-a iktatta be.
+[^461]: A 124. §-t a 4/2020. (II. 6.) EMMI rendelet 13. §-a iktatta be.
+[^462]: A 124. § (1) bekezdése az 1/2021. (I. 7.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^463]: A hatálybalépés időpontja 2020. február 9.
+[^464]: A 125. §-t az 1/2021. (I. 7.) EMMI rendelet 10. §-a iktatta be.
+[^465]: A 126. §-t a 62/2021. (XII. 29.) EMMI rendelet 12. §-a iktatta be.
+[^466]: A hatálybalépés időpontja 2022. január 1.
+[^467]: A 127. §-t a 80/2022. (XII. 30.) BM rendelet 15. §-a iktatta be.
+[^468]: A hatálybalépés időpontja 2023. január 1.
+[^469]: A 128. §-t a 80/2022. (XII. 30.) BM rendelet 15. §-a iktatta be.
+[^470]: A hatálybalépés időpontja 2023. január 1.
+[^471]: A hatálybalépés időpontja 2023. január 1.
+[^472]: A 129. §-t a 27/2023. (VIII. 3.) BM rendelet 6. §-a iktatta be.
+[^473]: A 2. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^474]: A 3. számú melléklet a 80/2022. (XII. 30.) BM rendelet 16. §-ával megállapított, a 27/2023. (VIII. 3.) BM rendelet 7. § c) pontja, a 30/2024. (VII. 23.) BM rendelet 21. § d)–l) pontja, a 29/2025. (VII. 24.) BM rendelet 9. §-a szerint módosított szöveg. [A 30/2024. (VII. 23.) BM rendelet 21. § g) pontjával elrendelt módosítás, amely szerint a 3. számú mellékletben foglalt táblázat B:8 mező terápiás munkatárs sorában a „pedagógiai munkatárs (gyógypedagógiai asszisztens)” szövegrész helyébe a „pedagógiai munkatárs (gyógypedagógiai asszisztens), pedagógiai munkatárs (pedagógiai asszisztens), pedagógiai asszisztens” szöveg lép, nem vezethető át.]
+[^475]: A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet I. Demenciával élők gondozója képzés
+[^476]: A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet V. Autista személyek gondozója képzés
+[^477]: A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet I. Demenciával élők gondozója képzés
+[^478]: A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet V. Autista személyek gondozója képzés
+[^479]: A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet I. Demenciával élők gondozója képzés
+[^480]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.
+[^481]: Az 5. számú mellékletet a 49/2013. (VII. 10.) EMMI rendelet 38. § b) pontja hatályon kívül helyezte, újonnan a 2/2015. (I. 14.) EMMI rendelet 12. § (3) bekezdése iktatta be, szövege a 40/2016. (XII. 21.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^482]: A 6. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § g) pontja hatályon kívül helyezte.
+[^483]: A 7. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 30. § h) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 17. § (3) bekezdése iktatta be.
+[^484]: A 8. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § h) pontja hatályon kívül helyezte.
+[^485]: A 9. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § i) pontja hatályon kívül helyezte.
+[^486]: A 10. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § j) pontja hatályon kívül helyezte.
+[^487]: A 11. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § k) pontja hatályon kívül helyezte.
+[^488]: A 12. számú mellékletet a 78/2011. (XII. 30.) NEFMI rendelet 1. melléklet 5. pont b) alpontja hatályon kívül helyezte.
+[^489]: A 13. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § k) pontja hatályon kívül helyezte.
+[^490]: A 14. számú mellékletet újonnan az 55/2013. (VII. 29.) EMMI rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2020. (II. 6.) EMMI rendelet 16. § m) pontja.

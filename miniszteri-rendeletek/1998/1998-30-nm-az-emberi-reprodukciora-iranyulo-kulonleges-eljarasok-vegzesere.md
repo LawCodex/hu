@@ -1,0 +1,623 @@
+---
+title: "30/1998. (VI. 24.) NM rendelet az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról"
+identifier: "30/1998. (VI. 24.) NM rendelet"
+njt_id: "1998-30-20-3D"
+eli: "https://njt.jog.gov.hu/eli/R/1998/NM/30"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1998-06-24
+in_force_from: 2009-01-01
+last_amended: 2025-07-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-30-20-3D"
+retrieved: 2026-10-12
+---
+
+# 30/1998. (VI. 24.) NM rendelet az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról
+
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (2) bekezdésének p) pontjában kapott felhatalmazás alapján a következőket rendelem el:
+
+### 1. §
+
+(1)[^1] Az Eütv. 166. § (1) bekezdés a)–d) pontjai és *f)* pontja szerinti emberi reprodukcióra irányuló különleges eljárás (a továbbiakban: reprodukciós eljárás) házastársi vagy különneműek közötti élettársi kapcsolatban álló személyeknél, illetve az Eütv. 165. §-ának c) pontja szerinti egyedülállóvá vált nőnél (a továbbiakban: kérelmező) akkor végezhető el, ha
+
+a) legalább két egymástól független – a meddőség tényének és okának megállapításához szükséges orvosi vizsgálatokon alapuló – szakorvosi szakvélemény alátámasztja, hogy a valamelyik félnél vagy mindkét félnél együttesen fennálló egészségi ok(ok) következtében a kapcsolatból természetes úton nagy valószínűséggel egészséges gyermek nem származhat,
+
+b) a nő a reprodukciós kor felső határát nem érte el,
+
+c)[^2] a kérelmezők nem állnak egymással olyan rokoni kapcsolatban, amely a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:12. § (1) bekezdés a) és b) pontja szerint a házasságot érvénytelenné teszi, és ezt írásbeli nyilatkozatukkal alátámasztják,
+
+d) a kérelmezők hitelt érdemlően igazolják
+
+da) a meddőség kezelésére irányuló egyéb módszerek eredménytelenségét, és
+
+db) a (2) bekezdésben foglalt kizáró okok nem állnak fenn,
+
+e) a 2. § (4) bekezdés szerinti feltétel teljesül,
+
+f) valamennyi feltétel együttes fennállása esetén az alkalmazott eljárással orvosilag megalapozott esélye van egészséges gyermek fogamzásának és megszületésének,
+
+g)[^3]
+
+(2) Nem végezhető el a reprodukciós beavatkozás,
+
+a) ameddig bármelyik kérelmező a gyermek életét, egészségét, testi épségét közvetlenül fenyegető
+
+aa) valamely megbetegedésben szenved, vagy
+
+ab) fertőző megbetegedés kórokozóját hordozza;
+
+b) ha a létrejövő terhesség a kihordó anya életét súlyosan veszélyezteti, illetőleg abból nagy valószínűséggel egészséges gyermek nem születhet.
+
+(3) Amennyiben a kérelmezők vér szerinti rokoni kapcsolatban állnak egymással, illetve a kórelőzményi adatok alapján az egyébként indokolt, a reprodukciós eljárás elvégzésének előfeltétele, hogy a külön jogszabály szerinti[^4] Regionális Genetikai Központ szakmai véleményét a (4) bekezdés szerinti szakorvos a javaslat kialakítása előtt kikérje.
+
+(4)[^5] A reprodukciós eljárás elvégzésére irányuló szakorvosi javaslat megadására szülész-nőgyógyász szakképzettségű szakorvos jogosult – az 1/B. § a) pontjában és az 1/C. § c) pontjában foglaltak kivételével – andrológus szakorvos véleményének figyelembevételével.
+
+(5) A reprodukciós eljárás – a (2) bekezdés szerinti kizáró ok hiányában – akkor javasolható, ha
+
+a) a nő rendelkezik megfelelő méhhel, és – a pete, illetve embrióadományozást kivéve – legalább egy, tüszőérlelésre alkalmas petefészekkel, és
+
+b) rendelkezésre áll
+
+ba) a méhűr alkalmasságát, a negatív hüvelyváladékot igazoló, és az alaphormon vizsgálatát tartalmazó eredmény,
+
+bb) a férj vagy az élettárs hat hónapnál nem régebbi spermiogrammja.
+
+### 1/A. §[^6]
+
+Az Eütv. 165. §-ának d) pontja szerinti egyedülálló nő esetében (a továbbiakban szintén: kérelmező), amennyiben
+
+a) egészségi állapota (meddőség), vagy
+
+b) életkora
+
+következtében gyermeket természetes úton nagy valószínűséggel nem vállalhat, az egészségi állapota által indokolt, az Eütv. 166. §-a (1) bekezdésének b)–d) és f) pontja szerinti reprodukciós eljárás végezhető el.
+
+### 1/B. §[^7]
+
+Az 1/A. § a) pontja szerinti esetben akkor végezhető el a reprodukciós beavatkozás, ha
+
+a) legalább két egymástól független – a meddőség tényének és okának megállapításához szükséges orvosi vizsgálatokon alapuló – szakorvosi szakvélemény alátámasztja, hogy a kérelmezőnél fennálló egészségi ok(ok) következtében a kérelmező természetes úton nagy valószínűséggel egészséges gyermeket nem vállalhat, és
+
+b) az 1. § (1) bekezdésének b) és d)–g) pontjában, valamint az 1. § (5) bekezdésének a) pontjában és ba) alpontjában foglalt feltételek fennállnak.
+
+### 1/C. §[^8]
+
+Az 1/A. § b) pontja szerinti esetben akkor végezhető el a reprodukciós beavatkozás, ha
+
+a) a kérelmező életkora miatt természetes úton gyermeket nagy valószínűséggel nem vállalhat, és
+
+b) az 1. § (1) bekezdés db) alpontjában, *f)* és *g)* pontjában, valamint az 1. § (5) bekezdésének a) pontjában és ba) alpontjában foglalt feltételek fennállnak, és
+
+c) a reprodukciós eljárás elvégzésének indokoltságát két (a beavatkozást végző orvos, illetőleg orvoscsoport tagja, valamint egy, a beavatkozásban részt nem vevő) szülész-nőgyógyász szakképzettségű szakorvos egybehangzó véleménye, illetve ajánlása alátámasztja.
+
+### 2. §
+
+(1)[^9] Reprodukciós eljárásként az 1. számú mellékletben meghatározott egyes beavatkozások végezhetők.
+
+(2)[^10] Az embrióbeültetéssel végzett eljárások alkalmazása során
+
+a) 36 éves kor alatt, az első embrióbeültetés során 5–7 napos embrió esetén egy, egyéb esetben legfeljebb kettő,
+
+b) 36 éves kortól legfeljebb kettő
+
+embrió ültethető be egyidejűleg.
+
+(2a)[^11] A (2) bekezdésben foglaltaktól eltérően, ha a 2025. január 1-jéig lefagyasztott, egy hordozón tárolt 5–7 napos embriókat felolvasztják, és ily módon a (2) bekezdésben megengedettnél több beültetésre alkalmas embrió áll rendelkezésre, a rendelkezésre jogosult vagy a rendelkezésre jogosultak egybehangzó kívánságára – a következmények és a kockázatok részletes ismertetését követően – legfeljebb három embrió beültethető.
+
+(3)[^12] Az egyes reprodukciós eljárások elvégzésére irányuló szakorvosi javaslat az egészségügyi szakmai irányelvben meghatározott indikációk esetében adható meg, az abban foglaltaknak megfelelően.
+
+(4) Az adott egészségügyi szolgáltató reprodukciós eljárás elvégzésére jogosult szervezeti egységének (osztály, részleg) felelős vezetője, ha nem maga adja meg a reprodukciós eljárás (3) bekezdés szerinti indikációját, vizsgálattal vagy vizsgálat nélkül meggyőződik a javaslat helyességéről és ezt a programdokumentációban rögzíti a beavatkozás megkezdése előtt.
+
+(5)[^13] Újabb stimuláció addig nem indítható, amíg az adott pár esetében lehetőség van a saját célra letétbe helyezett embriók felhasználására, kivéve
+
+a) ha az érvényben lévő egészségügyi szakmai irányelv szerinti nem konvencionális – többszörös – stimulációindítás történik ugyanabban az ovarialis ciklusban,
+
+b) fertilitásprezervációs kezelés esetén vagy
+
+c) preimplantációs genetikai teszt végzése esetén.
+
+## Ivarsejt-adományozás
+
+### 3. §
+
+(1) Ivarsejt-adományozásra az a személy jogosult, aki az adományozás 3. számú melléklet szerinti egészségügyi feltételeinek megfelel, és ivarsejtjei orvosi szakvélemény alapján egészséges utód létrehozására nagy valószínűséggel alkalmasak.
+
+(2) Az adományozónak az adományozás során
+
+a) a jövedelemkieséssel, valamint
+
+b) a nyilatkozattétellel,
+
+c) az utazással
+
+összefüggésben keletkezett indokolt és igazolt – a társadalombiztosítási jogviszony alapján meg nem térülő – költségeit az egészségügyi szolgáltató utólag megtéríti. Az egészségügyi szolgáltató vezetője a költségek megtérítésére költségátalányt állapíthat meg.
+
+(3) Az igazolt és szükséges költségeket akkor is meg kell téríteni, ha az adományozó hibáján kívüli okból az adományozás nem vezet a kívánt eredményre.
+
+## Ivarsejtekkel és embriókkal való rendelkezés, valamint azok fagyasztva tárolásának szabályai
+
+### 4. §
+
+(1)[^14] Ivarsejt, illetve embrió a 4. számú mellékletben meghatározott esetekben, az ott meghatározott céllal tárolható fagyasztva. A fagyasztva tárolás során az egészségügyi szolgáltatónak az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott feltételeknek eleget kell tennie.
+
+(2)[^15] Adományozott hímivarsejtet reprodukciós eljáráshoz történő felhasználását megelőzően legalább 6 hónapig fagyasztva kell tárolni, felhasználni a hímivarsejtet abban az esetben lehet, ha a donor – a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet 24. § (3) bekezdésében foglaltak szerinti – szűrési eredményei negatívak.
+
+(3) Ivarsejt nem tárolható, ha az nem felel meg a 6. számú mellékletben foglaltaknak.
+
+(4) Az adományozó, illetve a letevő a 7. számú melléklet szerinti ,,Rendelkezési nyilatkozat ivarsejt felhasználásáról'' elnevezésű nyomtatványon gyakorolja az adományozott, illetve letétbe helyezett ivarsejtekkel kapcsolatos rendelkezési jogát.
+
+(5)[^16] A kérelmezők együttesen, az 1/A. § a) és b) pontja szerinti kérelmező egyedül – az Eütv. 168. §-ának (2) bekezdése szerinti tájékoztatás után – a 8. számú melléklet szerinti „Rendelkezési nyilatkozat fagyasztva tárolt embriókról” elnevezésű nyomtatványon gyakorolják az embriókkal kapcsolatos rendelkezési jogot, és azon megjelölhetik, hogy a rendelkezési jog megszűnése esetére
+
+a) hozzájárulnak az embrióadományozáshoz, illetve
+
+b) hozzájárulnak az embriók tudományos kísérlet céljából történő felhasználásához, vagy
+
+c) kérik az embriók megsemmisítését.
+
+(6) A tárolt ivarsejteket, illetve az embriókat, azok kiadását, felhasználását, illetőleg megsemmisítését folyamatosan kell nyilvántartani a Fagyasztási Naplóban, amelynek meg kell felelnie a 9. számú mellékletben foglalt előírásoknak.
+
+(7) Amennyiben a fagyasztva tárolás helyéről az ivarsejtet vagy az embriót nem a letevő kívánságára szállítják más egészségügyi szolgáltatóhoz, az egészségügyi szolgáltatónak a szállítás során biztosítani kell a sérülésmentességet, továbbá a letevőt az átszállításról haladéktalanul tájékoztatnia kell.
+
+## Programdokumentáció
+
+### 5. §
+
+A reprodukciós eljárást végző egészségügyi szolgáltató az egyes reprodukciós eljárásokról programdokumentációt vezet, amely tartalmazza:
+
+a) az egészségügyi szolgáltató azonosító adatait,
+
+b) az adott kérelmező(k) azonosítására szolgáló adatokat,
+
+c) a kérelmezők nyilatkozatát arról, hogy a jogszabályban előírtaknak megfelelnek,
+
+d) a meddőség tényét és okát megállapító szakvéleményt,
+
+e) a szakorvosi javaslatot,
+
+f) az írásos tájékoztatást, és a tájékoztatást követően a kérelmezők által megtett 4. § szerinti nyilatkozatokat,
+
+g) a 10. számú melléklet szerinti, folyamatosan vezetett Reprodukciós Eljárási Nyilvántartási Lapot, illetve
+
+h) a 4. § (6) bekezdése szerinti Fagyasztási Naplót.
+
+### 7. §
+
+(1)[^18] A reprodukciós eljárás során alkalmazni kell az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendelet 1/A. §-át, 15/E. §-át, 16. §-át, 16/A. §-át – ivarsejt-adományozás esetében a 16/A. § (3), (4) és (5) bekezdése kivételével –, a 17/A. § (1) és (2) bekezdését, (3) bekezdés a)–e) pontját, (4) bekezdését és 17/B. §-át.
+
+(2) Az embrión, a magzaton – ideértve a halva született magzatot is – végzett kutatással kapcsolatos szabályokról külön jogszabály rendelkezik.
+
+(3)[^19]
+
+### 8. §
+
+(1) Ez a rendelet 1998. július 1-jén lép hatályba, egyidejűleg a művi beavatkozással történő megtermékenyítésről szóló 12/1981. (IX. 29.) EüM rendelet hatályát veszti.
+
+(2)[^20]
+
+(3)[^21] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról szóló, 2004. március 31-i 2004/23/EK európai parlamenti és tanácsi irányelv,
+
+b) a 2004/23/EK európai parlamenti és tanácsi irányelvnek az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára vonatkozó egyes technikai követelmények vonatkozásában történő végrehajtásáról szóló, 2006. február 8-i 2006/17/EK bizottsági irányelv,
+
+c) a 2006/17/EK irányelvnek az emberi szövetek és sejtek vizsgálatára vonatkozó egyes technikai követelmények tekintetében történő módosításáról szóló, 2012. november 26-i 2012/39/EU bizottsági irányelv.
+
+## 1. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^22]
+
+**Az elvégezhető asszisztált reprodukciós beavatkozások**
+
+1\. Gyógyszeres stimuláció
+
+1.1. Gyógyszeres stimuláció petesejtnyerés céljából
+
+1.2. Gyógyszeres stimuláció nem petesejtnyerés céljából
+
+2\. Petesejtleszívás
+
+3\. Konvencionális in vitro fertilizáció
+
+4\. Intracitoplazmatikus spermium injektálás (ICSI)
+
+4.1. Intracitoplazmatikus spermium injektálás (ICSI)
+
+4.2. Intracitoplazmatikus spermium injektálás (ICSI) és mikrosebészeti mellékhere (epididymális) sperma aspiráció (ICSI – MESA)
+
+4.3. Intracitoplazmatikus spermium injektálás és herei (testicular) sperma extrakció (ICSI – TESE)
+
+5\. Spermiumok feldolgozása és felhasználása termékenyítéshez
+
+5.1. Saját, frissen adott/nyert spermiumok feldolgozása és felhasználása termékenyítéshez
+
+5.2. Saját, fagyasztva tárolt spermium feldolgozása és felhasználása termékenyítéshez
+
+5.3. Donor, fagyasztva tárolt spermiumok feldolgozása és felhasználása termékenyítéshez
+
+6\. Nem petesejtnyerés során nyert petesejtek felhasználása in vitro fertilizációs kezelések során
+
+6.1. Saját, fagyasztva tárolt petesejt felhasználása
+
+6.2. Donor petesejt felhasználás
+
+7\. Embriótenyésztés
+
+7.1. Rövid idejű embriótenyésztés
+
+7.2. Kiterjesztett embriótenyésztés
+
+8\. Preimplantációs genetikai teszt
+
+9\. Asszisztált hatching
+
+10\. Embriótranszfer friss embrióval
+
+11\. Embriótranszfer fagyasztott embrióval
+
+11.1. Embriótranszfer saját kezelésből származó, fagyasztva tárolt embrióval
+
+11.2. Embriótranszfer donor embrióval
+
+12\. Ivarsejtfagyasztás
+
+12.1. Spermiumfagyasztás
+
+12.2. Petesejtfagyasztás
+
+13\. Embriófagyasztás
+
+14\. Ovuláció indukció
+
+15\. Mesterséges ondóbevitel – elvégzésének feltétele a 14. pont elvégzése
+
+15.1. Mesterséges ondóbevitel férj (AIH) vagy élettárs (AIP) hímivarsejtjeivel
+
+15.2. Mesterséges ondóbevitel idegen férfi (AID) hímivarsejtjeivel
+
+## 2. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^23]
+
+## 3. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+**Az ivarsejtdonorok kivizsgálása**
+
+1\. Orvosi kórelőzmény és vizsgálat
+
+2\. Genetikai kórelőzmény (családfaelemzés)
+
+3\. Genetikai szűrővizsgálat
+
+4\. Andrológiai vizsgálat, ezen belül részletes kvalitativ és kvantitativ spermatológiai elemzés, eredménytől függően akár ismételten is
+
+5\. Pszichológiai vizsgálat
+
+6\. Laboratóriumi vizsgálatok
+
+6.1. Általános laboratóriumi vizsgálatok (vérkép, vizelet stb.)
+
+6.2. Mikrobiológiai és szerológiai vizsgálat, ezen belül – a vizsgált személy nemének megfelelően – különös tekintettel:
+
+6.2.1. HIV
+
+6.2.2. Syphillis
+
+6.2.3. Hepatitis B és C
+
+6.2.4. Neisseria gonorrhoeae
+
+6.2.5. Herpes genitalis
+
+6.2.6. Cytomegalovirus
+
+6.2.7. Chlamydia trachomatis
+
+6.2.8. Trichomonas vaginalis
+
+7\. Az ivarsejtdonorok rendszeresen ismétlendő vizsgálatai:
+
+7.1. HIV-szűrés
+
+8.[^24] Speciális donorok esetén, illetve epidemiológiai helyzetekben esetleg szükséges további vizsgálatok
+
+8.1. Reproduktív sejtek partnerek közötti adományozása (nem közvetlen felhasználás) esetén HTLV-I antitestvizsgálatot kell végezni azoknál a donoroknál, akik olyan területen élnek vagy olyan területről származnak, amelyet magas előfordulási gyakoriság jellemez, vagy akiknek a szexuális partnerei, illetve a szülei származnak ilyen területről.
+
+8.2. Reproduktív sejtek nem partnerek közötti adományozása esetén HTLV-I antitestvizsgálatot kell végezni azoknál a donoroknál, akik olyan területen élnek vagy olyan területről származnak, amelyet magas előfordulási gyakoriság jellemez, vagy akiknek a szexuális partnerei, illetve a szülei származnak ilyen területről.
+
+8.3. A nem partnerek közötti adományozás esetén a vérmintákat minden egyes adományozáskor le kell venni. A partnerek közötti (nem közvetlen felhasználás) adományozás esetén a vérmintákat az első adományozást megelőző három hónapon belül kell levenni. Partnerek közötti további adomány esetén, ha a donor azonos, további vérmintákat kell venni, de az előző mintavételtől számított legfeljebb 24 hónapon belül.
+
+## 4. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+**Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^25]**
+
+Az embriók fagyasztva tárolásának javallatai:\
+– számfeletti embriók későbbi ciklusban történő visszaültetése,\
+– amennyiben valamilyen ok miatt az adott kezelt ciklusban az embriótranszfer ellenjavallt,\
+– a nő kemo- vagy radioterápiája előtt,\
+– preimplantációs diagnosztikai eljárás során annak eredményének megérkezéséig, illetve az egészséges embriók későbbi visszaültetéséig,\
+– adományozásra szánt embriók tárolására felhasználásig.\
+A spermiumok fagyasztva tárolásának javallatai:
+
+1\. Saját célra történő hímivarsejt-fagyasztás:
+
+– kemo- és radioterápia előtt,
+
+– orvosi indikáció alapján végzett, sterilitást eredményező andrológiai műtétek vagy vazektómia előtt,
+
+– a férj közösülési képtelensége esetén,
+
+– IVF–ET során, ha a férj/élettárs képtelen a petesejtnyerés időpontjában hímivarsejtet nyerni,
+
+– szociális javallat (pl. a férj hosszabb távolléte) esetén.
+
+2\. Spermadonáció céljára történő spermafagyasztás: a donor sperma felhasználásának javallatai szerint.
+
+A női ivarsejtek fagyasztva tárolásának javallatai
+
+1\. Saját célra történő női ivarsejt fagyasztás
+
+1.1. daganatos betegség gonadotoxikus kezelését megelőzően,
+
+1.2. genetikai mutáció hordozók esetében (így például a BRCA 1 és 2 esetében), amelyek mellett fiatal korban igen magas a petefészek vagy emlő carcinoma rizikója és ezért elektív oophorectomia tervezett fiatalabb korban,
+
+1.3. súlyos endometriosis esetén, ahol fennáll a petefészek eltávolításának veszélye,
+
+1.4. veszélyes, fokozottan veszélyes vagy egészségkárosító munkakörben foglalkoztatott személynél, ha a munkavégzésből eredő kockázatok a termékenységét veszélyeztethetik,
+
+1.5. IVF-ICSI kezelések azon eseteiben, amikor a kérelmező párok etikai okból a leszívottnál kisebb számú női ivarsejt megtermékenyítését kérik,
+
+1.6. IVF-ICSI kezelések azon eseteiben, amikor a beavatkozások során a leszívott petesejtek számánál kevesebb számú spermium áll rendelkezésre.
+
+1.7.[^26] szociális javallat esetén – olyan személy esetében, akinél feltételezhető, hogy a későbbiekben jelentősen csökken majd a petesejt megtermékenyülési képessége.
+
+2\. Adományozás céljára történő női ivarsejt fagyasztás: a donor női ivarsejt felhasználásának javallatai szerint.
+
+## 5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^27]
+
+## 6. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+**Ivarsejt, illetve embrió tárolását kizáró körülmények**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | Megnevezés: | Alsó határérték: |
+| **2** | Térfogat ml: | 1.5 (1.4-1.7) |
+| **3** | Koncentráció M/ml: | 15 (12-16) |
+| **4** | Összspermium szám (M/minta): | 39 (33-46) |
+| **5** | Összmotilitás (PR+NP) %: | 40 (38-42) |
+| **6** | Progresszív motilitás (PR) %: | 32 (31-34) |
+| **7** | Vitalitás (élő spermiumok) %: | 58 (55-63) |
+| **8** | Morfológia (normális spermiumok) %: | 4 (3.0-4.0) |
+| **9** | pH | ≥7-2 |
+| **10** | Peroxidáz pozitív fehérvérsejtek M/ml: | <1.0 |
+| **11** | MAR-teszt (a pozitív spermiumok aránya) % | < 5 |
+| **12** | Immunobead teszt % | <50 |
+| **13** | Cink (µmol/minta) | ≥2.4 |
+| **14** | Fruktóz (µmol/minta) | ≥13 |
+| **15** | Neutrális alfa glükozidáz(mU/minta) | ≥20 |
+
+2\. Embrió nem tárolható, ha
+
+a)[^29]
+
+b) az embriók egyébként friss embriótranszferre alkalmatlanok,
+
+c) az embriók a minősítési rendszer utolsó két kategóriájába tartoznak,
+
+d) a pár az embriók fagyasztva tárolását nem kéri.
+
+3.[^30] Női ivarsejt nem tárolható, ha szakorvosi javaslat alapján a leszívás eredménnyel nem járna.
+
+## 7. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^31]
+
+**Rendelkezési nyilatkozat ivarsejt felhasználásáról**
+
+<table><tbody><tr><td colspan="3">**Rendelkezési nyilatkozat ivarsejt felhasználásáról**</td></tr><tr><td colspan="3">Sorszám:</td></tr><tr><td colspan="3">Kelet:</td></tr><tr><td colspan="2">Alulírott</td><td>közlöm,</td></tr><tr><td>hogy <sup></sup></td><td colspan="2">intézetben (klinikán) levett ivarsejtjeimet<sup>10</sup></td></tr><tr><td colspan="3">*a)* az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 171. §-ának (3) bekezdése szerinti, anonim ivarsejt-adományozás céljára felajánlom,</td></tr><tr><td colspan="3">*b)* az Eütv. 171. § (4) bekezdése szerinti, meghatározott recipiens számára történő női ivarsejt-adományozás céljára felajánlom,</td></tr><tr><td colspan="3">*c)* orvostudományi kutatás céljára felajánlom,</td></tr><tr><td colspan="3">*d)* későbbi saját felhasználás céljából letétbe helyezem,</td></tr><tr><td colspan="3">*e)* későbbi saját felhasználás céljából letétbe helyezett ivarsejtjeimet – amennyiben a tárolási idő alatt azokat fel nem használom – a tárolási idő leteltét követően orvostudományi kutatás céljára felajánlom.</td></tr><tr><td colspan="3">Az *a)* ponthoz:</td></tr><tr><td colspan="3">Tudomásul veszem, hogy a más személynél történő reprodukciós eljárás céljára felajánlott ivarsejtek (petesejt- és hímivarsejt) feletti rendelkezés jogát – amennyiben az ivarsejtet az intézet (klinika) elfogadja – a felajánló nyilatkozat tételével elvesztem. Tudomásul veszem, hogy az Eütv. 171. §-ának (3) bekezdése alapján az ivarsejt-adományozáshoz az adományozó nevének (családi és utónév, leánykori név), anyja leánykori nevének, az adományozó lakcímének, születési idejének, nemének, külsődleges testi jegyeinek, ismert megbetegedéseinek a közlése szükséges. Ezen adatokat a következők szerint rendelkezésre bocsátom:</td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3">Tudomásul veszem, hogy anonim ivarsejt-adományozás esetén személyazonosító adataimat az intézet (klinika) bizalmasan kezeli, egyidejűleg azonban az ivarsejteket felhasználó személyek adatairól tájékoztatást én sem kapok, ilyen tájékoztatásra jogosult nem vagyok. Kijelentem, hogy az ivarsejtjeim reprodukciós eljáráshoz történő felhasználása érdekében jogszabályban előírt orvosi vizsgálatoknak alávetem magam. Egyidejűleg – ivarsejtjeim felhasználása esetére – hozzájárulok egyes személyazonosító adataimnak (születési dátum, lényeges külsődleges testi jegyek) a Reprodukciós Eljárások Adatbázisban személyazonosításra nem alkalmas módon történő – jogszabály szerinti – nyilvántartásához és felhasználásához.</td></tr><tr><td colspan="3">A *b)* ponthoz:</td></tr><tr><td colspan="3">*ba)* Tudomásul veszem, hogy az adományozó nyilatkozatban meghatározott recipiens számára reprodukciós eljárás céljára felajánlott női ivarsejtek feletti rendelkezés jogát a felajánló nyilatkozat tételével elveszítem.</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">Tudomásul veszem, hogy az Eütv. 171. §-ának (3) és (4) bekezdése alapján a meghatározott recipiens számára történő női ivarsejt-adományozáshoz az adományozó nevének (családi és utónév, leánykori név), anyja leánykori nevének, az adományozó lakcímének, születési idejének, külsődleges testi jegyeinek<sup>*</sup>, ismert megbetegedéseinek a közlése szükséges. Ezen adatokat a következők szerint rendelkezésre bocsátom:</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">Kijelentem, hogy az adományozó nyilatkozatban meghatározott recipiens számára történő női ivarsejt-adományozás ellenérték nélkül, kényszertől, fenyegetéstől és megtévesztéstől mentesen történt.</td></tr><tr><td colspan="2">Kijelentem, hogy női ivarsejtjeim reprodukciós eljáráshoz történő felhasználása érdekében jogszabályban előírt orvosi vizsgálatoknak alávetem magam. Egyidejűleg hozzájárulok egyes személyazonosító adataimnak (születési dátum, lényeges külsődleges testi jegyek) a Reprodukciós Eljárások Adatbázisban személyazonosításra nem alkalmas módon történő – jogszabály szerinti – nyilvántartásához és felhasználásához.</td></tr><tr><td colspan="2">*bb)<sup>**</sup>* Kijelentem, hogy az adományozó nyilatkozatban meghatározott recipiens számára fel nem használt női ivarsejtek más személy részére történő, személyazonosításra alkalmatlan módon való felhasználásba beleegyezem.</td></tr><tr><td colspan="2">A *c)* ponthoz:</td></tr><tr><td colspan="2">Tudomásul veszem, hogy az orvostudományi kutatás céljára felajánlott ivarsejtek feletti rendelkezés jogát – amennyiben a felajánlott ivarsejteket az intézet (klinika), illetőleg kutatóhely elfogadja – a felajánló nyilatkozat tételével elveszítem.</td></tr><tr><td colspan="2">A *d)* ponthoz:</td></tr><tr><td colspan="2">Tudomásul veszem, hogy a letétbe helyezett ivarsejtjeim felett a rendelkezés jogát én gyakorolom. Tudomásul veszem, hogy külön rendelkezésem nélkül [*e)* pont] az ivarsejtek fagyasztva tárolhatóságának határidejét követően letétbe helyezett ivarsejtjeimet megsemmisítik.</td></tr><tr><td colspan="2">Az *e)* ponthoz:</td></tr><tr><td colspan="2">Tudomásul veszem, hogy az ivarsejtek fagyasztva tárolhatóságának határidejéig a letétbe helyezett ivarsejtjeim felett a rendelkezés jogát én gyakorolom. A határidő lejártát követően az ivarsejtjeimet – megfelelő rendelkezésem esetén, amennyiben a felajánlott ivarsejtjeimet az intézet (klinika), illetőleg kutatóhely elfogadja – orvostudományi kutatás céljára felhasználják. Tudomásul veszem, hogy a felajánlott ivarsejtek feletti rendelkezés jogát a fagyasztva tárolhatóságának határidejének leteltével elveszítem, illetve azt, hogy amennyiben a kutatási célra történő felajánlás nem kerül elfogadásra, az ivarsejtjeimet megsemmisítik.</td></tr><tr><td colspan="2">Kelt: ........................................... (helység) ......................................... (dátum)</td></tr><tr><td></td><td>............................................................</td></tr><tr><td></td><td>nyilatkozatot tevő aláírása</td></tr></tbody></table>
+
+## 8. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^32]
+
+**Rendelkezési nyilatkozat fagyasztva tárolt embriókról**[^33]
+
+Sorszám:
+
+Kelte:
+
+***I.*** ***Együttes rendelkezési nyilatkozat***[^34]
+
+Alulírottak   (feleség/nő),
+
+illetve   (férj/férfi)
+
+a   intézet
+
+(klinika) Asszisztált Reprodukciós Központjában (a továbbiakban: ARK) tárolt, saját ivarsejtjeinkből vagy adományozott és saját ivarsejtjeinkből származó embrió vagy embriók további felhasználásáról a következők szerint rendelkezünk.[^*]
+
+1\. Az embriókat későbbi saját felhasználás céljából letétbe kívánjuk helyezni. A letétbe helyezett embrió vagy embriók feletti rendelkezés jogát a továbbiakban
+
+*a)* együttesen, vagy
+
+*b)* a mellékelten csatolt, közokiratban (teljes bizonyító erejű magánokiratban) foglalt lemondó nyilatkozatnak megfelelően
+
+kívánjuk gyakorolni.
+
+Tudomásul vesszük, hogy bármelyikünk halála esetén az embrió vagy embriók feletti rendelkezés jogát a túlélő rendelkezésre jogosult gyakorolja. Mindkettőnk halála, válásunk, illetve élettársi kapcsolatunk megszűnése esetére*
+
+*a)* felajánljuk a tárolt embriókat más személyeknél elvégzendő reprodukciós eljárás céljára,
+
+*b)* felajánljuk a tárolt embriókat embriókutatás céljára,
+
+*c)*kérjük az embrió vagy embriók megsemmisítését.
+
+2\. Az embriókat más személyeknél történő reprodukciós eljárás céljára felajánljuk. Tudomásul vesszük, hogy – amennyiben a felajánlást az intézet (klinika) elfogadja – nyilatkozatunkkal az embrió vagy embriók feletti rendelkezés jogát elveszítjük. Tudomásul vesszük, hogy az egészségügyről szóló 1997. évi CLIV. törvény 176. §-ának (1) bekezdésére figyelemmel az embrióadományozáshoz szükséges az embriót létrehozó személyek életkorának, külsődleges testi jegyeinek, valamint az ismeretes megbetegedéseinek közlése. Ezen adatokat a következők szerint rendelkezésre bocsátjuk:
+
+Tudomásul vesszük, hogy a hatályos jogszabályok alapján az embrióadományozás anonim, ennek megfelelően személyazonosító adatainkat a fagyasztva tárolást végző intézet (klinika) bizalmasan kezeli, egyidejűleg azonban az embriókat felhasználó személyek adatairól tájékoztatást mi sem kapunk, ilyen tájékoztatásra jogosultak nem vagyunk.
+
+3\. Az embriókat orvostudományi kutatás céljára felajánljuk. Tudomásul vesszük, hogy e nyilatkozatunkkal – amennyiben a felajánlást az intézet (klinika) vagy a kutatóhely elfogadja – az embrió vagy embriók feletti rendelkezési jogunkat elveszítjük.
+
+Kelt: ............................ (helység) ............................................... (dátum)
+
+| .................................................... | .................................................... |
+|---|---|
+| feleség/nő | férj/férfi |
+
+Sorszám:
+
+Kelte:
+
+***II.*** ***Önálló rendelkezési nyilatkozat***[^35]
+
+Alulírott  . (kérelmező)
+
+a   intézet
+
+(klinika) Asszisztált Reprodukciós Központjában (a továbbiakban: ARK) tárolt, adományozott és saját ivarsejtekből származó embrió vagy embriók további felhasználásáról a következők szerint rendelkezem.[^*]
+
+1\. Az embriókat későbbi saját felhasználás céljából letétbe kívánom helyezni. A letétbe helyezett embrió vagy embriók feletti rendelkezés jogát önállóan gyakorlom. Tudomásul veszem, hogy halálom esetére*
+
+*a)* felajánlom a tárolt embriókat más személyeknél elvégzendő reprodukciós eljárás céljára,
+
+*b)* felajánlom a tárolt embriókat embriókutatás céljára,
+
+*c)*kérem az embrió vagy embriók megsemmisítését.
+
+2\. Az embriókat más személyeknél történő reprodukciós eljárás céljára felajánlom. Tudomásul veszem, hogy – amennyiben a felajánlást az intézet (klinika) elfogadja – nyilatkozatommal az embrió vagy embriók feletti rendelkezés jogát elveszítem. Tudomásul veszem, hogy az egészségügyről szóló 1997. évi CLIV. törvény 176. §-ának (1) bekezdésére figyelemmel, az embrióadományozáshoz szükséges az embriót létrehozó személyek életkorának, külsődleges testi jegyeinek, valamint az ismeretes megbetegedéseinek közlése. Ezen adataimat a következők szerint rendelkezésre bocsátom:
+
+Tudomásul veszem, hogy a hatályos jogszabályok alapján az embrióadományozás anonim, ennek megfelelően személyazonosító adataimat a fagyasztva tárolást végző intézet (klinika) bizalmasan kezeli, egyidejűleg azonban az embriókat felhasználó személyek adatairól tájékoztatást én sem kapok, ilyen tájékoztatásra jogosult nem vagyok.
+
+3\. Az embriókat orvostudományi kutatás céljára felajánlom. Tudomásul veszem, hogy e nyilatkozatommal – amennyiben a felajánlást az intézet (klinika) vagy a kutatóhely elfogadja – az embrió vagy embriók feletti rendelkezési jogomat elveszítem.
+
+Kelt: ............................ (helység) ............................................... (dátum)
+
+............................................
+
+kérelmező
+
+## 9. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+**A Fagyasztási Napló tartalmi követelményei**
+
+A Fagyasztási Napló tartalmazza a következőket:
+
+– az intézmény azonosító adatai,
+
+– az adott páciens azonosítására szolgáló adatok,
+
+– a fagyasztás időpontja,
+
+– a fagyasztás módszere (alkalmazott krioprotektív, dehidráló anyagok, fagyasztási program). Fagyasztó automaták esetén a gép által elkészített írásos dokumentum, folyamatábra,
+
+– a fagyasztásra került embriók, ivarsejtek adatai,
+
+– a tárolás adatai az adott tárolóhelyen fellelhető anyagok egyértelmű azonosítására, a következők szerint: a szalma színe, a szalmát lezáró műanyag dugó színe, a szalmákat tartalmazó kazetta színe (ez utóbbin külön legyenek rajta azonosító adatok), továbbá a tárolóhely, illetve a tárolótank száma,
+
+– a fagyasztást végző személy neve vagy azonosítója,
+
+– a felolvasztás adatai (felolvasztás időpontja, módszere, a felolvasztott embriók, ivarsejtek jellemzői, minőségi mutatói),
+
+– a felolvasztást végző személy neve vagy azonosítója,
+
+– a felolvasztott embriók, ivarsejtek sorsára utaló megjegyzés (pl. embriótranszfer vagy mesterséges ondóbevitel időpontja),
+
+– amennyiben az embriók tudományos kísérletre kerülnek, úgy a kísérleti napló azon adatai, amelyek alapján az embriók sorsa követhetővé válik,
+
+– megsemmisítés esetén arra vonatkozó megjegyzés, hogy hány embriót, milyen állapotban semmisítettek meg, a megsemmisítést végző személy neve (amennyiben az adott intézet megsemmisítési naplót vezet, úgy annak száma).
+
+## 10. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+**Reprodukciós Eljárási Nyilvántartási Lap tartalma**
+
+A Reprodukciós Eljárási Nyilvántartási Lap tartalmazza a következőket:
+
+– az intézmény azonosító adatai,
+
+– az adott páciens azonosítására szolgáló adatok (név, TAJ szám, születési idő),
+
+– a kezelőorvos, valamint az embriológiai tevékenységet végző személy neve,
+
+– punkció sorszáma,
+
+– embriótranszfer sorszáma,
+
+– diagnózisok,
+
+– a meddőség oka,
+
+– alkalmazott eljárás típusa,
+
+– férj andrológiai lelete,
+
+– stimulációra alkalmazott gyógyszerek,
+
+– hCG beadás időpontja, ciklusnapja,
+
+– tenyésztéshez alkalmazott oldat készítésének időpontja, alkalmazott kiegészítő anyagok,
+
+– punkció időpontja, ciklusnap,
+
+– nyert petesejtek száma, minősége (részletesen külön tenyésztési lapon is szerepelhet),
+
+– fertilizáció időpontja,
+
+– spermiumkoncentráció, preparálás módja, kiindulási és felhasználási paraméterek,
+
+– fertilizált sejtek száma, minősége,
+
+– nem fertilizált sejtek száma,
+
+– szabályosan osztódott sejtek minősége,
+
+– embriótranszfer időpontja, ciklusnapja, transzferált sejtek száma és minőségi megoszlása,
+
+– fagyasztott sejtek száma, fagyasztási napló száma,
+
+– megsemmisített embriók száma,
+
+– az embriótranszfer utáni gyógyszeres kezelés módja,
+
+– túlstimuláció, annak stádiumbeosztása,
+
+– ellenőrzésre visszarendelés időpontja és eredménye.
+
+## 11. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^36]
+
+## 12. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^37]
+
+---
+
+[^1]: Az 1. § (1) bekezdésének felvezető mondata a 32/2006. (VIII. 23.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pontja a 16/2014. (III. 12.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés g) pontját a 29/2008. (VII. 16.) EüM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^4]: Lásd a 25/1998. (VI. 17.) NN rendeletet.
+[^5]: Az 1. § (4) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1/A. §-t a 32/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
+[^7]: Az 1/B. §-t a 32/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
+[^8]: Az 1/C. §-t a 32/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
+[^9]: A 2. § (1) bekezdése a 34/2023. (VIII. 24.) BM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 2. § (2) bekezdése a 70/2023. (XII. 23.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (2a) bekezdését a 70/2023. (XII. 23.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^12]: A 2. § (3) bekezdése a 70/2023. (XII. 23.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (5) bekezdését a 70/2023. (XII. 23.) BM rendelet 6. § (3) bekezdése iktatta be.
+[^14]: A 4. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdése a 70/2023. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.
+[^16]: A 4. § (5) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított szöveg. [A 4. § (5) bekezdésben a 70/2023. (XII. 23.) BM rendelet 9. § b) pontja által elrendelt módosítás, amely szerint az "embriók" szövegrész helyébe az "embrió vagy embriók" szöveg lép, nem vezethető át.]
+[^18]: A 7. § (1) bekezdését a 24/2000. (IX. 1.) EüM rendelet 10. § (6) bekezdése hatályon kívül helyezte, újonnan a 20/2007. (IV. 19.) EüM rendelet 11. § (1) bekezdése iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^19]: A 7. § (3) bekezdését a 6/2006. (II. 20.) EüM rendelet 3. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^20]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 2. pontja hatályon kívül helyezte.
+[^21]: A 8. § (3) bekezdését a 20/2007. (IV. 19.) EüM rendelet 11. § (2) bekezdése iktatta be, szövege a 76/2013. (XII. 10.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet a 70/2023. (XII. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^23]: A 2. mellékletet a 70/2023. (XII. 23.) BM rendelet 10. §-a hatályon kívül helyezte.
+[^24]: A 3. számú melléklet 8. pontját a 20/2007. (IV. 19.) EüM rendelet 11. § (3) bekezdése iktatta be, szövege a 76/2013. (XII. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^25]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^26]: A 4. számú melléklet „A női ivarsejtek fagyasztva tárolásának javallatai” megjelölésű rész 1. pont 1.7. alpontját a 25/2025. (VII. 16.) BM rendelet 16. §-a iktatta be.
+[^27]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.
+[^29]: A 6. számú melléklet 2. pont a) alpontját a 44/2016. (XII. 28.) EMMI rendelet 15. §-a hatályon kívül helyezte.
+[^30]: A 6. számú melléklet 3. pontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.
+[^31]: A 7. számú melléklet a 6/2006. (II. 20.) EüM rendelet 2. §-ával megállapított szöveg.
+[^32]: A 8. számú melléklet a 32/2006. (VIII. 23.) EüM rendelet 4. §-ával megállapított, a 70/2023. (XII. 23.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^33]: A rendelkezési jog gyakorlása szerint kérjük az I. vagy a II. jelű nyilatkozatot kitölteni.
+[^34]: Az egészségügyről szóló 1997. évi CLIV. törvény 175. § szerinti esetben.
+[^*]: A választott rendelkezésnek megfelelő nyilatkozat sorszámát kérjük jól láthatóan bekeretezni.
+[^35]: Az egészségügyről szóló 1997. évi CLIV. törvény 167. § (4) bekezdés szerinti esetben.
+[^*]: A választott rendelkezésnek megfelelő nyilatkozat sorszámát kérjük jól láthatóan bekeretezni.
+[^36]: A 11. számú mellékletet a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^37]: A 12. számú mellékletet a 29/2008. (VII. 16.) EüM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése.

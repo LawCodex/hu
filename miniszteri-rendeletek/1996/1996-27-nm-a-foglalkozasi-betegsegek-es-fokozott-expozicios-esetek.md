@@ -1,0 +1,363 @@
+---
+title: "27/1996. (VIII. 28.) NM rendelet a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról"
+identifier: "27/1996. (VIII. 28.) NM rendelet"
+njt_id: "1996-27-20-3D"
+eli: "https://njt.jog.gov.hu/eli/R/1996/NM/27"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1996-08-28
+in_force_from: 2008-05-16
+last_amended: 2023-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-27-20-3D"
+retrieved: 2026-10-12
+---
+
+# 27/1996. (VIII. 28.) NM rendelet a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról
+
+A munkavédelemről szóló 1993. évi XCIII. törvény 64. §-ának (4) bekezdésében, valamint az egészségügyről szóló 1972. évi II. törvény végrehajtásáról rendelkező 16/1972. (IV. 29.) MT rendelet 37. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1)[^1] A rendelet hatálya kiterjed – a (3) bekezdésben foglalt kivétellel – a Magyarország területén
+
+a) a munkavédelemről szóló 1993. évi XCIII. törvény 9. §-ának (1) bekezdése és 87. §-ának 9. pontja szerinti szervezett munkavégzésre (a továbbiakban: szervezett munkavégzés).
+
+b)[^2]
+
+(2)[^3] E rendelet szerint kell bejelenteni a Magyarország területén székhellyel rendelkező munkáltató magyar állampolgárságú munkavállalója külföldi munkavégzése során elszenvedett foglalkozási megbetegedését is.
+
+(3)[^4] A rendkívüli munkavégzési körülmények esetén (pl. mentés, katasztrófa-elhárítás), illetve a fegyveres erőknél, rendvédelmi szerveknél és nemzetbiztonsági szolgálatoknál munkavégzésre irányuló, valamint a büntetés-végrehajtási jogviszonyban álló személyek foglalkozási betegségeinek bejelentésére, nyilvántartására és kivizsgálására az illetékes miniszter által – az egészségügyi, szociális és családügyi miniszterrel egyetértésben – kiadott külön jogszabály az irányadó.
+
+(4)[^5]
+
+## Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *foglalkozási megbetegedés:* a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás,
+
+aa) amely a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai-, kémiai-, biológiai-, pszichoszociális- és ergonómiai kóroki tényezőkre vezethető vissza,
+
+ab) illetve amely a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye;
+
+b)[^6] bejelentésazonosító: a bejelentő orvos vagy a foglalkozás-egészségügyi alapszolgálat orvosa által adott azonosító szám. Az első öt számjegy a bejelentő orvos vagy a foglalkozás-egészségügyi alapszolgálat orvosának pecsétszáma, a hatodik és a hetedik számjegy évszázad nélkül a bejelentés éve, az utolsó három számjegy az orvos által adott sorszám.
+
+c) *biológiai expozíciós (hatás) mutató:* azok a paraméterek, amelyekkel a vegyi anyagok és a szervezet közötti kölcsönhatások mennyiségileg jellemezhetők;
+
+d)[^7] *bejelentő orvos:* bármely orvosi gyakorlatot folytató orvos, aki a foglalkozási megbetegedést vagy annak gyanúját megállapította;
+
+e) különösen bonyolult eset;
+
+ea) ha mintavétel és laboratóriumi vizsgálatok vagy mérések elvégzése szükséges,
+
+eb) a munkavállaló részvételi jogainak érvényesítése érdekében a vizsgálatokba történő bevonása;
+
+f)[^8] halálos foglalkozási megbetegedés: olyan halálhoz vezető megbetegedés, ahol a halál oka a foglalkozási megbetegedés vagy annak szövődménye.
+
+## A foglalkozási betegségek és fokozott expozíciók bejelentése
+
+### 3. §[^9]
+
+(1)[^10] Az orvosi tevékenység körében észlelt – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 3. számú mellékletében szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes fővárosi és vármegyei kormányhivatalhoz mint munkavédelmi hatósághoz (a továbbiakban: munkavédelmi hatóság) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 64/C. §-a szerint be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni.
+
+(2)[^11] Az (1) bekezdés szerinti bejelentést
+
+a) a foglalkozási betegség kórisméjét vagy annak gyanúját megállapító orvosnak a diagnózis felállítását követő 24 órán belül,
+
+b) halálos kimenetelű, illetve ugyanazon munkahelyen öt vagy több munkavállalót érintő, azonos, egy időben kialakult, heveny (a továbbiakban: tömeges) foglalkozási betegség esetén az elsőként észlelő orvosnak szóban azonnal és írásban legkésőbb 24 órán belül
+
+kell megtenni.
+
+(2a)[^12]
+
+(2b)[^13]
+
+(3) A bejelentést meg kell ismételni, ha a korábban keresőképesként bejelentett személy keresőképtelenné vált. Tanulói, illetve hallgatói jogviszonyban lévő személy esetén, a gyakorlati képzés helyén működő foglalkozás-egészségügyi orvos végzi a bejelentést, aki ezzel egy időben értesíti az oktatási intézményt.
+
+(4)[^14] Az első észlelő orvosnak lehetősége van a munkavállalót további vizsgálatok végzésére a munkáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó helyre vagy a munkahigiénés és foglalkozás-egészségügyi szervhez beutalnia. A beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
+
+(5)[^15] Ha a (4) bekezdés szerinti foglalkozás-egészségügyi szakellátóhely a kórisme felállításához szükséges feltételekkel nem rendelkezik, vagy ha egyéb okból indokoltnak tartja, kezdeményezi a hozzá beutalt munkavállaló beutalását a munkahigiénés és foglalkozás-egészségügyi szervhez. Ebben az esetben a beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
+
+(6)[^16] A tüdőfibrózist okozó porok esetében a diagnózist felállító egészségügyi szolgáltató, illetve a munkahigiénés és foglalkozás-egészségügyi szerv végzi a bejelentést.
+
+### 4. §[^17]
+
+(1)[^18] Ha a munkahelyen halálos kimenetelű vagy tömeges foglalkozási megbetegedés fordult elő, a munkáltató – az észlelő orvos bejelentési kötelezettségétől függetlenül – azonnal értesíti a munkavédelmi hatóságot, amely azonnal értesíti a munkahigiénés és foglalkozás-egészségügyi szervet és a minisztert.
+
+(2)[^19] Az 1. § (2) bekezdésében meghatározott esetekben a munkáltató foglalkozási megbetegedés észlelésekor értesíti a munkáltató telephelye szerint illetékes munkavédelmi hatóságot.
+
+(3)[^20] Amennyiben a betegellátó az Eüak. 15/A. § (1) bekezdésében foglaltak szerint a foglalkozási eredetű megbetegedéssel kapcsolatos bejelentését az érintett lakóhelye, illetve tartózkodási helye szerint illetékes munkavédelmi hatósághoz továbbította, a munkavédelmi hatóság a tudomására jutott bejelentést haladéktalanul továbbítja az érintett munkahelye szerint illetékes munkavédelmi hatósághoz, a bejelentőlap egyidejű megküldésével. A bejelentés átadásáról a betegellátót írásban értesíti.
+
+## A foglalkozási betegség és a fokozott expozíciós eset körülményeinek kivizsgálása
+
+### 5. §[^21]
+
+(1)[^22] A foglalkozási megbetegedés keletkezésének körülményeit a munkavédelmi hatóság a (2) bekezdés szerinti személyek és szervek bevonásával kivizsgálja. A fokozott expozíciós eset keletkezésének körülményeit a munkavédelmi hatóság a (2) bekezdés szerinti személyek és szervek bevonásával kivizsgálhatja.
+
+(1a)[^23] Amennyiben a munkáltató jogutód nélkül megszűnt, és a külön jogszabályban előírtak alapján a munkakörülmények rekonstruálásához szükséges dokumentumok nem kerültek elhelyezésre a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalánál (a továbbiakban: népegészségügyi feladatkörében eljáró járási hivatal) vagy a munkavédelmi hatóságnál, a foglalkozási eredetet a munkahigiénés és foglalkozás-egészségügyi szerv bírálja el.
+
+(2)[^24] A foglalkozási megbetegedés vagy a fokozott expozíciós eset körülményeinek kivizsgálásába a foglalkozás-egészségügyi szolgálat orvosát, a munkáltatót vagy annak képviselőjét és a munkavállalók érdekképviseletét is be kell vonni, valamint a vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság, illetve intézmény is megkereshető. Ezen túlmenően a foglalkozási megbetegedés körülményeinek kivizsgálásában – ha azt a munkavédelmi hatóság kezdeményezi – részt vesz
+
+a) a miniszter által vezetett minisztérium orvos végzettségű foglalkozás-orvostan, üzemorvostan, munkahigiéné, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakképesítéssel rendelkező kormánytisztviselője vagy
+
+b) az a) pontban nevesített szakképesítéssel rendelkező megbízott orvos.
+
+(3)[^25] Az (1) és (1a) bekezdés szerinti vizsgálatot a körülmények által lehetővé tett legrövidebb időn belül meg kell kezdeni, valamint a bejelentés napjától számított legkésőbb 30 napon – különösen bonyolult esetekben 60 napon – belül intézkedni kell a további foglalkozási megbetegedések megelőzése érdekében.
+
+(4) A kivizsgálás során figyelembe kell venni az Eüak. 4. § (4) bekezdésében, illetve 33. § (1) bekezdésében foglaltakat.
+
+(5)[^26] Halálos kimenetelű vagy tömeges foglalkozási megbetegedés kivizsgálásába a munkavédelmi hatóság az (1)–(2) bekezdésben foglaltakon túl bevonja
+
+a)[^27] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt;
+
+b)[^28] a biológiai kóroki tényező okozta megbetegedés esetén a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási hivatalát;
+
+c)[^29] állatról emberre terjedő fertőzés okozta megbetegedés esetén a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát;
+
+d)[^30] a bányászatban észlelt megbetegedés esetén a bányafelügyeleti feladatkörében eljáró vármegyei kormányhivatalt.
+
+(6)[^31] A foglalkozási megbetegedés vizsgálatáról jegyzőkönyvet kell felvenni, amelynek egy-egy másolati példányát a vizsgálatban részt vevőknek át kell adni.
+
+(7)[^32] Az (1) bekezdés szerinti vizsgálat lefolytatása érdekében a kivizsgálás vezetője öt példányban vizsgálati lapot állít ki. A vizsgálati lap egy példányát a munkavédelmi hatóság megőrzi, egyet a bejelentőlappal együtt a munkahigiénés és foglalkozás-egészségügyi szerv részére továbbít.
+
+(7a)[^33] A (7) bekezdés szerint alkalmazandó vizsgálati lapot és az annak részét képező kitöltési útmutatót a munkavédelmi hatóság a miniszter hivatalos honlapján közzéteszi. A vizsgálati lap tartalmazza:
+
+a) a bejelentésazonosítót;
+
+b) a munkavállaló TAJ számát;
+
+c) a bejelentés tárgyát képező megbetegedést okozó kóroki tényezők műszeres vizsgálatának leírását, különösen a mérések irányát, időpontját, eredményeit;
+
+d) a megtett intézkedéseket;
+
+e) a megbetegedés okát;
+
+f) az előzetes és időszakos orvosi vizsgálatok időpontját;
+
+g) annak megállapítását, hogy a munkavállaló, illetve a munkáltató a magatartásával hozzájárult-e a megbetegedés kialakulásához;
+
+h) a kivizsgálást követő hatósági intézkedés ismertetését;
+
+i) az esemény körülményeinek és a kivizsgálás tapasztalatainak részletes leírását.
+
+(8)[^34] A bejelentés teljeskörűségét, szakmai megalapozottságát a munkahigiénés és foglalkozás-egészségügyi szerv a bejelentőlap és a vizsgálati lap beérkezésétől számított legkésőbb 30 napon belül bírálja el, mely határidő adatkiegészítést vagy a bejelentett személy személyes szakorvosi vizsgálatát igénylő esetben egy alkalommal 30 nappal meghosszabbítható, és ennek során jogosult:
+
+a) saját hatáskörben – betegség esetén – további vizsgálatokat végezni, egyes vizsgálatokat megismételni;
+
+b) szükség esetén a munkavállalót más intézménybe vizsgálatra beutalni, illetve vizsgálatát kezdeményezni;
+
+c)[^35] kiegészítő adatokat, információkat kérni, további munkahigiénés vizsgálatokat kezdeményeztetni a munkavédelmi hatóság útján;
+
+d) külső szakértőt igénybe venni.
+
+(9)[^36] Betegség esetén, annak (8) bekezdés szerinti elbírálását követően foglalkozási megbetegedésként történő elfogadásáról a munkahigiénés és foglalkozás-egészségügyi szerv 5 napon belül tájékoztatja a munkavédelmi hatóságot.
+
+(9a)[^37] A munkavédelmi hatóság az elfogadott foglalkozási betegségről 5 napon belül értesíti a társadalombiztosítási kifizetőhelyet, ennek hiányában az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatalt. Az alkalmazandó értesítési nyomtatványt a munkavédelmi hatóság a miniszter hivatalos honlapján közzéteszi. Az értesítés tartalmazza:
+
+a) az érintett munkavállaló nevét, nemét, TAJ számát, születési helyét, idejét, anyja nevét, lakóhelyét vagy tartózkodási helyét,
+
+b) a munkáltató nevét, székhelyét, adószámát (ennek hiányában adóazonosító jelét),
+
+c) a bejelentés helye szerinti telephely címét.
+
+(9b)[^38] A kifogásolt eseteket a munkahigiénés és foglalkozás-egészségügyi szerv ismételt vizsgálatra, adatkiegészítésre vagy törlésre visszaküldi a munkavédelmi hatóságnak.
+
+(9c)[^39] A munkavédelmi hatóság a betegség foglalkozási megbetegedésként történő elfogadásáról az Eüak. 33. § (1) bekezdésében foglaltak figyelembevételével értesíti a munkáltatót.
+
+(10)[^40] A munkavédelmi hatóság a munkahigiénés és foglalkozás-egészségügyi szerv (9) bekezdés szerinti tájékoztatásának kézhezvétele után a vizsgálati lap egy-egy példányát
+
+a) a munkavállalónak, halált okozó foglalkozási megbetegedés esetén a hozzátartozónak,
+
+b) a foglalkozás-egészségügyi szolgálat orvosának, továbbá
+
+c)[^41] TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és foglalkozás-egészségügyi szerv tájékoztatásával együtt az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal részére
+
+küldi meg.
+
+(11) Amennyiben a bejelentés nem a foglalkozás-egészségügyi szolgálat orvosától érkezett, a vizsgálat vezetője köteles értesíteni a bejelentő orvost a kivizsgálás eredményéről.
+
+### 5/A. §[^42]
+
+(1) A foglalkozás-egészségügyi szolgálat orvosa az általa észlelt, külön jogszabályban meghatározott vegyi anyagok, továbbá zaj okozta fokozott expozíciós esetről a munkavállaló leletének kézhezvételét követő 1 munkanapon belül értesíti a munkáltatót.
+
+(2) A munkáltatónak a fokozott expozíciós eset kivizsgálását a körülmények által lehetővé tett legrövidebb időn belül meg kell kezdeni, valamint az esetről való tudomásszerzés napjától számított legkésőbb 30 napon – különösen bonyolult esetekben hatvan napon – belül a lehetséges okokat fel kell tárni, és intézkedni kell a további fokozott expozíciós esetek megelőzése érdekében. A kivizsgálást a foglalkozás-egészségügyi szolgálat orvosa, a munkavédelmi szakember és a munkavédelmi képviselő bevonásával kell lefolytatni.
+
+(3) A tömeges fokozott expozíciós esetet a munkáltatónak az esetről való tudomásszerzést követően – telefonon, telefaxon, e-mailben vagy személyesen – haladéktalanul be kell jelentenie a fokozott expozíció kialakulásának helyszíne szerint illetékes munkavédelmi hatóságnak.
+
+### 5/B. §[^43]
+
+(1) A munkáltató az általa kivizsgált fokozott expozíciós esetről – a miniszter honlapján közzétett módon – jegyzőkönyvet készít. A jegyzőkönyvet a fokozott expozícióval érintett munkavállalókra vonatkozóan személyenként kell kitölteni.
+
+(2) A jegyzőkönyv tartalmazza:
+
+a)[^44] a bejelentésazonosítót, a vármegyekódot;
+
+b) a fokozott expozíció megnevezését, valamint az előfordulás egyedi vagy tömeges jellegét;
+
+c) a munkáltató nevét, adószámát (ennek hiányában adóazonosító jelét), székhelyét, a fokozott expozíció kialakulásának helyszíne szerinti telephely címét, a szakágazati kódot;
+
+d) az érintett munkavállaló nevét, nemét, TAJ számát, születési helyét, idejét, anyja nevét, lakóhelyét vagy tartózkodási helyét;
+
+e) az érintett munkavállaló jelenlegi munkakörben végzett tevékenységét, FEOR kódját, jelenlegi és előző munkáltatóknál betöltött korábbi munkaköreit (a munkakörök felsorolásánál jelölendő a munkáltató neve, címe, a betöltött munkakör és az adott munkakörben eltöltött időtartam);
+
+f) a fokozott expozíciós esettel kapcsolatos jelenlegi munkakörben eltöltött expozíciós időt, a fokozott expozíciós esettel kapcsolatos munkakörben összesen eltöltött expozíciós időt;
+
+g) a fokozott zaj expozíciós eset bejelentésének alapjául szolgáló audiometriás vizsgálat vagy a fokozott vegyi expozíciós eset bejelentésének alapjául szolgáló biológiai expozíciós (hatás) mutató vizsgálati eredményeit;
+
+h) a bejelentést indokoló kóroki tényezővel kapcsolatban a korábbi munkahelyein előforduló fokozott expozíciót vagy megbetegedést;
+
+i) az előzetes és időszakos munkaköri orvosi alkalmassági vizsgálat tényét, eredményeit;
+
+j) az érintett munkavállaló soron kívüli munkaköri orvosi alkalmassági vizsgálatának eredményét;
+
+k) az adott munkakörben végzett biológiai monitor/audiológiai vizsgálat előírt gyakoriságát, az utolsó öt biológiai monitor/audiológiai vizsgálat dátumát, eredményeit;
+
+l) a fokozott expozíciót okozó kóroki tényezők műszaki vizsgálatának eredményeit, különösen a mérések irányát, időpontját;
+
+m) a fokozott expozíció okát;
+
+n) annak megállapítását, hogy a munkavállaló, illetve a munkáltató magatartásával hozzájárult-e a fokozott expozíció kialakulásához;
+
+o) a fokozott expozíciós eset körülményeinek, okainak és a kivizsgálás tapasztalatainak, valamint a kivizsgálás során hozott munkáltatói intézkedések részletes, tartalmi ismertetését;
+
+p) a foglalkozás-egészségügyi szolgálat orvosa, a munkavédelmi szakember és a munkavédelmi képviselő észrevételeit, véleményét, javaslatát és azt, hogy a kivizsgálással egyetértenek-e;
+
+q) annak igazolását, hogy az eset kivizsgálásában a foglalkozás-egészségügyi szolgálat orvosa, a munkavédelmi szakember és a munkavédelmi képviselő részt vett.
+
+(3) A jegyzőkönyvhöz csatolni kell:
+
+a) a zaj okozta fokozott expozíciós eset bejelentésének alapjául szolgáló audiológiai leleteket és az akkreditált szervezet által elvégzett zajmérés jegyzőkönyvét vagy
+
+b) a fokozott vegyi expozíciós eset bejelentésének alapjául szolgáló biológiai expozíciós mutatók laboratóriumi vizsgálati eredményeit, valamint a munkahelyi levegőszennyezettség meghatározására irányuló vizsgálatok eredményeit.
+
+### 5/C. §[^45]
+
+(1) A munkáltató a vizsgálat lezárását követően a jegyzőkönyvet, a laborleletet, valamint a mérési eredményeket elektronikusan vagy egyéb úton 3 munkanapon belül megküldi a fokozott expozíció kialakulásának helyszíne szerint illetékes munkavédelmi hatóságnak.
+
+(2)[^46] A munkavédelmi hatóság a fokozott expozíciós esetről felvett jegyzőkönyvben rögzített adatokról az Mvt. 64/E. §-a szerint nyilvántartást vezet.
+
+(3) A munkavédelmi hatóság az 5. § (2) és (3) bekezdésben felsorolt iratokat azok beérkezésétől számított 8 napon belül nyilvántartás céljából megküldi a munkahigiénés és foglalkozás-egészségügyi szervnek.
+
+### 5/D. §[^47]
+
+(1)[^48]
+
+(2) A munkahigiénés és foglalkozás-egészségügyi szerv az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
+
+### 6. §[^49]
+
+A munkaegészségügyi szabálytalanságok megszüntetésére, a hasonló esetek előfordulásának megelőzésére a munkavédelmi hatóság szükség esetén intézkedik. Közegészségügyi-járványügyi szabálytalanság észlelése esetén a munkavédelmi felügyelőség értesíti a népegészségügyi feladatkörében eljáró járási hivatalt.
+
+## A helyi feladatok meghatározása
+
+### 7. §
+
+A munkáltató köteles
+
+a) a munkavállaló megbetegedésével, fokozott expozíciós esetével összefüggő munkahelyre, munkakörülményekre vonatkozó információkat, adatokat a vizsgálat vezetőjének a rendelkezésére bocsátani;
+
+b) a kivizsgálást elősegíteni, a kórisme felállításához szükséges orvosi és higiénés vizsgálatok elvégeztetéséről, a 6. §-ban említett intézkedések végrehajtásáról gondoskodni;
+
+c)[^50] halálos, tömeges foglalkozási betegség, tömeges fokozott expozíció, illetve ugyanazon kóroki tényezőre visszavezethető, ugyanazon tevékenységgel kapcsolatosan ismételten előforduló fokozott expozíciók esetén az Mvt. 23. §-ának (2) bekezdése szerinti soron kívüli ellenőrzést lefolytatni, és az 54. §-ának (3) bekezdése szerinti soron kívüli kockázatértékelést elvégezni.
+
+## Hatálybalépés
+
+### 8. §
+
+(1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+(2)[^51]
+
+(3) Ez a rendelet nem érinti a munkabalesetek és a fertőző betegségek bejelentéséről és nyilvántartásáról szóló külön jogszabályban meghatározott bejelentési kötelezettséget.
+
+(4)[^52] E rendelet a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
+
+### 9. §[^53]
+
+Ez a rendelet
+
+a) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai parlamenti és tanácsi irányelvnek,
+
+b) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^54]
+
+## 2. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^55]
+
+## 3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^56]
+
+## 4. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^57]
+
+## 5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^58]
+
+## 6. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^59]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 58/1997. (XII. 21.) NM rendelet 1. §-ának (1) bekezdésével megállapított, nyitó szövegrésze az 51/2017. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdésének b) pontját a 18/2007. (V. 10.) SZMM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdése az 51/2017. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 69/2003. (XII. 16.) ESZCSM rendelet 3. §-a (2) bekezdésének a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdését az 58/1997. (XII. 21.) NM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § b) pontja a 10/2019. (IX. 4.) PM rendelet 8. §-ával megállapított szöveg.
+[^7]: A 2. § d) pontja a 18/2007. (V. 10.) SZMM rendelet 5. § (1) bekezdésével megállapított, a 10/2019. (IX. 4.) PM rendelet 13. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § f) pontját az 58/1997. (XII. 21.) NM rendelet 2. §-a iktatta be.
+[^9]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdése az 57/2023. (XII. 28.) GFM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 10/2019. (IX. 4.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2a) bekezdését a 10/2019. (IX. 4.) PM rendelet 9. § (3) bekezdése iktatta be, az 57/2023. (XII. 28.) GFM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^13]: A 3. § (2b) bekezdését a 10/2019. (IX. 4.) PM rendelet 9. § (3) bekezdése iktatta be, az 57/2023. (XII. 28.) GFM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^14]: A 3. § (4) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés b) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 3. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés c) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 3. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés d) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^17]: A 4. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés e) pontja, a 9/2015. (III. 31.) NGM rendelet 9. § c) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés d) pontja, a 10/2019. (IX. 4.) PM rendelet 12. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdése a 9/2015. (III. 31.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^20]: A 4. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 9. § b) és d)–e) pontja, a 10/2019. (IX. 4.) PM rendelet 13. § b) pontja, az 57/2023. (XII. 28.) GFM rendelet 4. §-a szerint módosított szöveg.
+[^21]: Az 5. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (1) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (1a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (2) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^24]: Az 5. § (2) bekezdése a 29/2022. (XII. 30.) GFM rendelet 1. §-ával megállapított szöveg.
+[^25]: Az 5. § (3) bekezdése a 10/2019. (IX. 4.) PM rendelet 12. § c) pontja szerint módosított szöveg.
+[^26]: Az 5. § (5) bekezdése a 9/2015. (III. 31.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 10/2019. (IX. 4.) PM rendelet 12. § d) pontja szerint módosított szöveg.
+[^27]: Az 5. § (5) bekezdés a) pontja a 22/2020. (VI. 29.) ITM rendelet 4. § b) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (5) bekezdés b) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^29]: Az 5. § (5) bekezdés c) pontja a 62/2016. (XII. 29.) NGM rendelet 48. § (2) bekezdés b) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^30]: Az 5. § (5) bekezdés d) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^31]: Az 5. § (6) bekezdése a 10/2019. (IX. 4.) PM rendelet 13. § d) pontja szerint módosított szöveg.
+[^32]: Az 5. § (7) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^33]: Az 5. § (7a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (4) bekezdése iktatta be.
+[^34]: A 5. § (8) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés g) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja, a 32/2021. (VII. 26.) ITM rendelet 2. §-a szerint módosított szöveg.
+[^35]: Az 5. § (8) bekezdés c) pontja a 9/2015. (III. 31.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^36]: Az 5. § (9) bekezdése a 32/2021. (VII. 26.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^37]: Az 5. § (9a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be, nyitó szövegrésze a 22/2020. (VI. 29.) ITM rendelet 4. § c) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^38]: Az 5. § (9b) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be.
+[^39]: Az 5. § (9c) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be.
+[^40]: Az 5. § (10) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^41]: Az 5. § (10) bekezdés c) pontja a 22/2020. (VI. 29.) ITM rendelet 4. § d) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^42]: Az 5/A. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^43]: Az 5/B. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^44]: Az 5/B. § (2) bekezdés a) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § c) pontja szerint módosított szöveg.
+[^45]: Az 5/C. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^46]: Az 5/C. § (2) bekezdése az 57/2023. (XII. 28.) GFM rendelet 2. §-ával megállapított szöveg.
+[^47]: Az 5/D. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^48]: Az 5/D. § (1) bekezdését az 57/2023. (XII. 28.) GFM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^49]: A 6. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 9. § k) és l) pontja szerint módosított szöveg.
+[^50]: A 7. § c) pontját a 18/2007. (V. 10.) SZMM rendelet 5. § (8) bekezdése iktatta be.
+[^51]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 22. pontja hatályon kívül helyezte.
+[^52]: A 8. § (4) bekezdését a 18/2007. (V. 10.) SZMM rendelet 5. § (9) bekezdése iktatta be.
+[^53]: A 9. §-t az 57/2023. (XII. 28.) GFM rendelet 3. §-a iktatta be.
+[^54]: Az 1. számú mellékletet a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^55]: A 2. számú mellékletet a 10/2019. (IX. 4.) PM rendelet 13. § e) pontja hatályon kívül helyezte.
+[^56]: A 3. számú mellékletet a 10/2019. (IX. 4.) PM rendelet 13. § e) pontja hatályon kívül helyezte.
+[^57]: A 4. számú mellékletet a 10/2019. (IX. 4.) PM rendelet 13. § e) pontja hatályon kívül helyezte.
+[^58]: Az 5. számú mellékletet a 10/2019. (IX. 4.) PM rendelet 13. § e) pontja hatályon kívül helyezte.
+[^59]: A 6. számú mellékletet a 69/2003. (XII. 16.) ESZCSM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IX. 4.) PM rendelet 13. § e) pontja.

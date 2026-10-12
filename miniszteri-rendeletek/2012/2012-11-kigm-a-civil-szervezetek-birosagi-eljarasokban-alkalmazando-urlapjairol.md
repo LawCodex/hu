@@ -1,0 +1,1646 @@
+---
+title: "11/2012. (II. 29.) KIM rendelet a civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól"
+identifier: "11/2012. (II. 29.) KIM rendelet"
+njt_id: "2012-11-20-2T"
+eli: "https://njt.jog.gov.hu/eli/R/2012/KIgM/11"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-02-29
+in_force_from: 2012-03-01
+last_amended: 2025-01-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-11-20-2T"
+retrieved: 2026-10-12
+---
+
+# 11/2012. (II. 29.) KIM rendelet a civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól
+
+A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 97. § a) pontjában,
+
+az 1. § (1) bekezdés 40–42. pontja, 8. § (5) bekezdése és 12. §-a tekintetében a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 97. § b) pontjában és
+
+az 1. § (1) bekezdés 39. pontja tekintetében a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 97. § g) pontjában
+
+kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet
+
+1\. 1. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesület nyilvántartásba vétele iránti elektronikus kérelmet,
+
+2\. 2. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítvány nyilvántartásba vétele iránti elektronikus kérelmet,
+
+3\. 3. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a párt nyilvántartásba vétele iránti elektronikus kérelmet,
+
+4\. 4. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a köztestület nyilvántartásba vétele iránti elektronikus kérelmet,
+
+5\. 5. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az országos sportági szakszövetség nyilvántartásba vétele iránti elektronikus kérelmet,
+
+6\. 6. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a magánnyugdíjpénztár nyilvántartásba vétele iránti elektronikus kérelmet,
+
+7\. 7. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az önkéntes kölcsönös biztosító pénztár nyilvántartásba vétele iránti elektronikus kérelmet,
+
+8\. 8. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a vegyes nyugdíjpénztár nyilvántartásba vétele iránti és a jogelőd szervezetek nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+9\. 9. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja nyilvántartásba vétele iránti elektronikus kérelmet,
+
+10\. 10. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a Munkavállalói Résztulajdonosi Program szervezet nyilvántartásba vétele iránti elektronikus kérelmet,
+
+11.[^1] 11. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a nemzetközi sportszövetség nyilvántartásba vétele iránti elektronikus kérelmet,
+
+12\. 12. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az 1–11. pontban nem szereplő szervezet nyilvántartásba vétele iránti elektronikus kérelmet,
+
+13\. 13. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesület változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+14\. 14. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítvány változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+15\. 15. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a párt változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+16\. 16. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a köztestület változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+17\. 17. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az országos sportági szakszövetség változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+18\. 18. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a magánnyugdíjpénztár változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+19\. 19. mellékletben meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az önkéntes kölcsönös biztosító pénztár változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+20\. 20. mellékletben meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a vegyes nyugdíjpénztár változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+21\. 21. mellékletben meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+22\. 22. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a Munkavállalói Résztulajdonosi Program szervezet változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+23.[^2]
+
+24\. 24. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az 1–11. pontban nem szereplő szervezet változásbejegyzési eljárás iránti elektronikus kérelmét,
+
+25\. 25. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesület nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+26\. 26. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítvány nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+27\. 27. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a párt nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+28\. 28. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a köztestület nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+29\. 29. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az országos sportági szakszövetség nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+30\. 30. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a magánnyugdíjpénztár nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+31\. 31. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az önkéntes kölcsönös biztosító pénztár nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+32\. 32. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a vegyes nyugdíjpénztár nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+33\. 33. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+34\. 34. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a Munkavállalói Résztulajdonosi Program szervezet nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+35.[^3]
+
+36\. 36. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az 1–11. pontban nem szereplő szervezet nyilvántartásból való törlése iránti elektronikus kérelmet,
+
+37\. 37. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a közhasznú jogállás nyilvántartásba vétele iránti elektronikus kérelmet,
+
+38\. 38. mellékletében meghatározott adattartalommal rendszeresített elektronikus űrlapon kell előterjeszteni az 1–37. pontban nem szereplő elektronikus kérelmet,
+
+39\. 40. melléklet 1. pontjában meghatározott kódtárból kell az alapítvány és az egyesület – létesítő okiratban meghatározott céljával összhangban álló – célja szerinti besorolását megadni,
+
+40–42.[^4]
+
+43.[^5] 36/A. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek egyesülésének bejegyzése iránti elektronikus kérelmet,
+
+44.[^6] 36/B. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek szétválásának bejegyzése iránti elektronikus kérelmet,
+
+45.[^7] 36/C. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet,
+
+46.[^8] 36/D. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok egyesülésének bejegyzése iránti elektronikus kérelmet,
+
+47.[^9] 36/E. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok szétválásának bejegyzése iránti elektronikus kérelmet,
+
+48.[^10] 36/F. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet.
+
+(1a)[^11] A nemzetközi sportszövetség – az (1) bekezdés szerinti nyilvántartásba vétele iránti kérelmét kivéve – elektronikus kérelmét az eljárás tárgyának megfelelő, egyesületre meghatározott űrlapon terjeszti elő.
+
+(2) Az (1) bekezdésben foglalt űrlapok és a 40. mellékletben meghatározott kitöltést segítő kódtárak rendszeresítése az Országos Bírósági Hivatal (a továbbiakban: OBH) feladata.
+
+### 2. §
+
+(1)[^12] Az OBH az 1. § (1) bekezdésben nem szereplő kérelmek előterjesztésére mind papír alapú, mind elektronikus űrlapot rendszeresíthet.
+
+(2) Az OBH a 40. mellékletben meghatározott kódtárakon túlmenően is rendszeresíthet kitöltést segítő kódtárat.
+
+(3) Az 1. § (1) bekezdésében, a 2. § (1) és (2) bekezdésében meghatározott űrlapok, valamint kitöltést segítő kódtárak alkalmazása kötelező.
+
+(4) Az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat megtételére az űrlapot úgy kell rendszeresíteni, hogy az állami adóhatóság által az OBH részére megküldött nyilatkozat mintát kell az űrlap részévé tenni.
+
+(5)[^13] Az OBH a végelszámolás iránti kérelem előterjesztésére olyan változásbejegyzési eljárás iránti kérelem benyújtására szolgáló űrlapot rendszeresíthet, amely kizárólag a végelszámolás iránti kérelem előterjesztésére vehető igénybe.
+
+### 3. §
+
+(1) Az OBH az űrlapokat a bíróságok központi internetes honlapján (a továbbiakban: honlap) közzéteszi.
+
+(2) A honlapon fel kell tüntetni az űrlapok közzétételének időpontját, a közzététel időpontjától az űrlap alkalmazása kötelező.
+
+### 4. §
+
+(1) Ha az űrlap módosítására kerül sor, az OBH ennek tényéről a honlapon a módosított űrlap közzététele előtt hét nappal tájékoztatást ad.
+
+(2) Az OBH a módosított űrlap közzétételét követően a honlapon tizennégy napon keresztül jelzi annak tényét, hogy az űrlap megváltozott.
+
+(3) Az (1) és (2) bekezdésben meghatározott módon kell eljárni:
+
+a) új űrlap rendszeresítésénél,
+
+b) kitöltést segítő kódtár rendszeresítésénél és
+
+c) kitöltést segítő kódtár módosítása esetében.
+
+### 5. §
+
+Ha az űrlap nem felel meg a jogszabályoknak, az OBH az űrlapot haladéktalanul módosítja vagy új űrlapot rendszeresít.
+
+## 2. Az űrlapokkal szembeni általános követelmények
+
+### 6. §
+
+(1) Az OBH-nak a honlapon szereplő tájékoztatásokat úgy kell kialakítania, hogy egyértelműen kitűnjön belőlük, hogy az űrlap igénybevétele kötelező.
+
+(2) Az űrlapot úgy kell kialakítani, hogy azon kellő hely álljon rendelkezésre a kérelem előterjesztésére.
+
+### 7. §
+
+(1) Az űrlapot – a (2) bekezdésben meghatározott kivétellel – el kell látni az egyes kérelmek joghatásaira és késedelmes előterjesztésük jogkövetkezményeire, valamint az űrlap kitöltésének módjára vonatkozó tájékoztatással.
+
+(2) Ha az OBH részletes tájékoztatást tesz közzé a honlapon az űrlap kitöltésének menetéről, s abban kellő részletezettséggel szerepelteti az (1) bekezdésében meghatározott adatokat, az űrlapot külön figyelmeztetéssel ellátni nem kell.
+
+(3) A papír alapú űrlaphoz az (1) bekezdésben meghatározott tájékoztatást külön íven is meg lehet szövegezni, ebben az esetben e tájékoztatót ugyanolyan módon kell elérhetővé tenni, mint az ahhoz tartozó űrlapot. Ezt a rendelkezést az űrlap kitöltéséhez szükséges kódok listájára is alkalmazni kell.
+
+(4)[^14] Az elektronikus űrlapot beküldő személy természetes személyazonosító adatait az űrlapon meg kell adni.
+
+### 7/A. §[^15]
+
+(1) A nyilvántartásba vételi és a változásbejegyzési űrlap úgy is kialakítható, hogy az űrlapon annak jelölésére kell lehetőséget biztosítani, hogy benyújtásra kerül-e az adószám és a statisztikai számjel megállapítása, illetve kiadása iránti kérelem. A nyilvántartásba vételi és a változásbejegyzési űrlap eltérően is kialakítható. A változásbejegyzési űrlap úgy is kialakítható, hogy az űrlapon annak jelölésére kell lehetőséget biztosítani, hogy benyújtásra kerül-e az adószám és a statisztikai számjel törlése iránti kérelem.
+
+(2) Az (1) bekezdésben foglalt esetben az adószám és a statisztikai számjel megállapítása, illetve kiadása iránti kérelem benyújtására az OBH külön űrlapot rendszeresít.
+
+## 3. A papír alapú űrlapok rendszeresítésének szabályai
+
+### 8. §
+
+(1) A papír alapú űrlapot – a (3)–(5) bekezdésben meghatározott eltéréssel – a rendelet mellékletben rendszeresített, a kérelem benyújtására szolgáló elektronikus űrlap adattartalmával megegyező adattartalommal kell rendszeresíteni.
+
+(2) A 39. mellékletben meghatározott adattartalmat is figyelembe véve papír alapú űrlapot kell rendszeresíteni
+
+a) az egyesület nyilvántartásba vételi, változásbejegyzési és törlési,
+
+b) az alapítvány nyilvántartásba vételi, változásbejegyzési és törlési,
+
+c)[^16]
+
+d) a vegyes nyugdíjpénztár nyilvántartásba vételi, változásbejegyzési és törlési,
+
+e) a Munkavállalói Résztulajdonosi Program szervezet nyilvántartásba vételi, változásbejegyzési és törlési,
+
+f)[^17]
+
+g)[^18]
+
+h)[^19] az egyesületek egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti,
+
+i)[^20] az alapítványok egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti
+
+kérelem előterjesztésére.
+
+(3) A papír alapú űrlapon a bíróság érkeztető bélyegzője lenyomatának helyét ki kell alakítani.
+
+(4) A papír alapú és az elektronikus űrlapok kitöltést segítő kódtára eltérhet egymástól.
+
+(5) A papír alapú űrlapot úgy kell kialakítani, hogy az ne tartalmazzon mezőt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 34. §-ában meghatározott kérelem előterjesztésére.
+
+## 4. A papír alapú űrlapok kitöltésénél irányadó általános követelmények
+
+### 9. §
+
+(1) Az űrlapot kódokkal kell kitölteni, ha a kérelem adatára vonatkozóan a rendelet melléklete annak alkalmazását írja elő, vagy ha az OBH az űrlap kitöltésénél alkalmazandó kódlistát tesz közzé.
+
+(2) Ha az űrlapon a rendelkezésre álló hely nem elegendő a beadvány hiánytalan előterjesztésére, a kérelmezőnek a beadvány adatainak kitöltését másik űrlapon kell folytatnia azzal, hogy a további űrlapon fel kell tüntetnie annak tényét, hogy azok az első űrlap pótlapjai. Az űrlapon fel kell tüntetni a pótlap csatolásának tényét és a pótlapok számát, a pótlapon pedig fel kell tüntetni annak tényét, hogy az űrlap pótlap és a pótlap sorszámát.
+
+## 5. Egyéb rendelkezések
+
+### 10. §
+
+Az OBH-nak a bíróságok, valamint a kérelmezők és az eljárásban részt vevő egyéb személyek részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszerét (a továbbiakban: informatikai rendszer) úgy kell kialakítani, hogy az elektronikus űrlaphoz melléklet legyen csatolható.
+
+### 11. §
+
+(1) Az OBH a honlapon közzéteszi a papír alapú eljárásban alkalmazandó letölthető és kitölthető, a kitöltést megelőzően vagy azt követően kinyomtatható űrlapot.
+
+(2) Az (1) bekezdésben meghatározottak szerint közzétett űrlap elektronikus eljárásra nem alkalmazható.
+
+### 11/A. §[^21]
+
+Ha a kérelem ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését érinti, az űrlap mellékleteként csatolni kell a 41. melléklet szerinti tartalommal az ingatlan-nyilvántartási bejegyzéshez szükséges adatokat.
+
+## 6.[^22]
+
+## 7. Záró rendelkezések
+
+### 13. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – 2012. március 1. napján lép hatályba.
+
+(2)[^23] E rendelet 1. § (1) bekezdésének 1–38. és 40–42. pontja, 2. § (4) bekezdése, 8. § (2) bekezdésének d)–f) pontja, 8. § (4) és (5) bekezdése, 10. §-a, 12. §-a, 15. §-a, 1–38. és 41–44. melléklete 2015. január 1. napján lép hatályba.
+
+(3)[^24] E rendelet 16. § c) pontja 2015. január 2. napján lép hatályba.
+
+(4) Az űrlapokat a rendelet hatálybalépését követően indult ügyekben kell alkalmazni.
+
+### 14. §[^25]
+
+A papír alapú űrlapot 2014. december 31. napjáig úgy kell kialakítani, hogy az ne tartalmazzon mezőt
+
+a) az 1. melléket 5.3.5., 6.3.4., 6.3.5., 8.1.–8.7. pontjában,
+
+b) a 2. melléklet 3.3.5., 3.4.3., 3.5.3. pontjában és
+
+c) a 13. melléklet 8.5., 13., 13.1.–13.7., és 14., 14.1., 14.2. pontjában,
+
+d)[^26] a 36/A–36/C. melléklet 11. pontjaiban
+
+meghatározott adatok megadására.
+
+### 15. §[^27]
+
+E rendeletnek a civil szervezetek nyilvántartásával összefüggő egyes miniszteri rendeletek módosításáról szóló 3/2017. (IV. 3.) IM rendelet (a továbbiakban: Rmód.) hatálybalépését[^28] megelőző napon hatályos 41–43. mellékletében meghatározott adattartalommal rendszeresített, az Rmód. hatálybalépését megelőző napon a bíróságok központi internetes honlapján közzétett űrlapok – az e rendeletnek az Rmód. hatálybalépését megelőző napon hatályos 12. §-ában meghatározott módon – a 2017. augusztus 31-éig indult nyilvántartásba vételi és változásbejegyzési eljárásokban alkalmazhatóak.
+
+## 1. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az eljáró bíróság megjelölése.
+
+2\. A kérelmezővel kapcsolatos kötelező adatok:
+
+2.1. neve
+
+2.2. lakóhelye/székhelye
+
+3\. Képviselő esetén:
+
+3.1. neve
+
+3.2. címe
+
+3.3. személyének típusa
+
+4\. A nyilvántartásba vétel iránti határozott kérelem.
+
+5\. A szervezettel kapcsolatos kötelező adatok:
+
+5.1. név
+
+5.2. székhely
+
+5.3. szervezet képviselőjének
+
+5.3.1. neve
+
+5.3.2. címe
+
+5.3.3. a képviseleti jog gyakorlásának módja
+
+5.3.3.1. együttes képviseleti jog esetén a képviselőtárs
+
+5.3.3.1.1. neve
+
+5.3.3.1.2. tisztsége
+
+5.3.4. a képviseleti jog terjedelme
+
+5.3.4.1. különös képviseleti jog esetén az ügycsoport megjelölése
+
+5.3.5.[^30] a képviseleti megbízás időtartama
+
+5.3.5.1. a képviseleti jog megszűnésének időpontja
+
+5.3.6.[^31] anyja születési neve
+
+5.5. a szervezet 5.4. szerinti céljával összhangban álló célja szerinti besorolása
+
+5.5.1. 40. mellékletben meghatározott kódtárból választva
+
+5.5.2. az elsődleges cél szerinti besorolás megjelölése
+
+5.6. a létesítő okirat kelte
+
+5.7. az egyesület formája
+
+5.7.1. 40. mellékletben meghatározott kódtárból választva
+
+6\. A szervezettel kapcsolatos szükség szerint kötelező adatok:
+
+6.1. a szervezet idegen nyelvű elnevezése
+
+6.2. a szervezet rövidített neve
+
+6.3. szervezet szervezeti egységének jogi személlyé nyilvánítása esetén
+
+6.3.1. jogi személy szervezeti egység neve
+
+6.3.2. jogi személy szervezeti egység székhelye
+
+6.3.3.[^32] jogi személy szervezeti egység ügyvezető szervének neve
+
+6.3.4.[^33] a jogi személy szervezeti egység képviselőjének neve
+
+6.3.5.[^34] a jogi személy szervezeti egység képviselőjének anyja születési neve
+
+6.4. a szervezet képviselőjének tisztsége, ha a képviseleti jog gyakorlása (terjedelme) a képviselő tisztségéhez kötődik
+
+7\. Egyéb kötelező adatok:
+
+7.1. az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben meghatározott szövetség esetén – az 5. pontban foglaltakon túlmenően – kötelező adatok
+
+7.1.1. a szövetséget alapító egyesületek
+
+7.1.1.1. neve
+
+7.1.1.2. székhelye
+
+7.1.1.3. nyilvántartási száma
+
+7.2. sportegyesület, sportszövetség, ide nem értve az országos sportági szakszövetséget szervezeti egységének jogi személlyé nyilvánítása esetén – a 6.3.1. és 6.3.2. pontban foglaltakon túlmenően – kötelező adatok
+
+7.2.1. jogi személy szervezeti egység képviselőjének neve
+
+7.2.2. jogi személy szervezeti egység képviselőjének lakóhelye
+
+8\. A kérelmező választása szerint megadható adatok:
+
+8.1.[^35] a szervezet kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+8.2. a szervezet gazdálkodási formája (GFO kód szerint)
+
+8.3.[^36] a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+8.4. a jogi személy szervezeti egység gazdálkodási formája (GFO kód szerint)
+
+8.5. az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat
+
+8.6. a szervezet képviselőjének adóazonosító jele és természetes azonosító adatai
+
+8.7. a jogi személy szervezeti egység képviselőjének adóazonosító jele és természetes azonosító adatai
+
+8.8. kérelmező hivatkozási száma
+
+8.9. képviselő hivatkozási száma
+
+8.10. kérelmező telefonszáma, faxszáma, e-mail címe
+
+8.11. képviselő telefonszáma, faxszáma, e-mail címe
+
+8.12. egyszerűsített nyilvántartásba vételi eljárás iránti kérelem
+
+9\. Az űrlaphoz csatolt mellékletek megnevezése.
+
+10\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+10.1. lényeges joghatások
+
+10.2. a kérelemhez csatolandó iratok
+
+10.3. az űrlap kitöltésének módja
+
+## 2. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az alapítvány nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 2., 5. és 7. pontja kivételével –:
+
+2.[^37] A kérelmezővel – alapítóval, alapítók gyűlésének képviselőjével – kapcsolatos kötelező adatok:
+
+2.1. név
+
+2.2. lakóhely/székhely
+
+3\. Az alapítvánnyal kapcsolatos kötelező adatok:
+
+3.1. név
+
+3.2. székhely
+
+3.3. az alapítvány képviselőjének
+
+3.3.1. neve
+
+3.3.2. lakóhelye/székhelye
+
+3.3.3. a képviseleti jog módja
+
+3.3.3.1. együttes képviseleti jog esetén a képviselőtárs
+
+3.3.3.1.1. neve
+
+3.3.3.1.2. tisztsége
+
+3.3.4. képviseleti jog terjedelme
+
+3.3.4.1. különös képviseleti jog esetén az ügycsoport megjelölése
+
+3.3.5.[^38] anyja születési neve3.4.[^39] kurátor esetén
+
+3.4.1. neve
+
+3.4.2. lakóhelye/székhelye
+
+3.4.3.[^40] – szükség szerint – anyja születési neve
+
+3.5.[^41] kuratórium esetén
+
+3.5.1. tagjainak neve
+
+3.5.2. tagjainak lakóhelye
+
+3.5.3.[^42] anyja születési neve
+
+3.6. a szervezet célja
+
+3.7. a szervezet célja szerinti besorolása
+
+3.7.1. 40. melléklet szerinti kódtárból választva
+
+3.7.2. az elsődleges cél szerinti besorolás megjelölése
+
+3.8. az alapító okirat kelte
+
+3.9. az alapítvány típusa
+
+3.9.1. kitöltést segítő kódtár
+
+3.10. az alapítvány vagyonfelhasználási módja
+
+3.11. a felhasználható vagyon mértéke
+
+3.12. annak jelölése, hogy az alapítványhoz lehet-e csatlakozni
+
+4.[^43] Annak jelölése, hogy
+
+4.1. az alapítvány vállalja, hogy az alapítás évét követő második évben megszerzi a közhasznú jogállást, ezért teljes személyes illetékmentesség illeti meg, vagy
+
+4.2. az alapítvány nem kíván közhasznú jogállást szerezni, ezért eljárási illeték fizetésére kötelezett.
+
+## 3. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A párt nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.7., 7. és. 8.12. pontja kivételével –:
+
+1.1. a párt formája
+
+1.1.1. párt
+
+1.2. nyilatkozat arról, hogy a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény rendelkezéseit magára nézve kötelezőnek ismeri el
+
+## 4. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A köztestület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma az űrlap 5.7., 7. és 8.12. pontja kivételével.
+
+## 5. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az országos sportági szakszövetség nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.7., 6.3., 7. és 8.12. pontja kivételével –:
+
+1.1. szervezeti egység jogi személlyé nyilvánítása esetén határozott kérelem a jogi személy szervezeti egység nyilvántartásba történő bejegyzésére
+
+1.1.1. jogi személy szervezeti egység neve
+
+1.1.2. jogi személy szervezeti egység székhelye
+
+1.1.3. jogi személy szervezeti egység képviselőjének neve
+
+1.1.4. jogi személy szervezeti egység képviselőjének lakóhelye
+
+1.2. nyilatkozat arról, hogy a sportágban nem működik sportági szakszövetség
+
+1.3. nyilatkozat arról, hogy a sportág
+
+1.3.1. a Nemzetközi Olimpiai Bizottság által elismert sportág vagy
+
+1.3.2. a sportág nemzetközi szövetségét felvették a Nemzetközi Sportszövetségek Szövetségébe (Sportaccord)
+
+1.4. nyilatkozat arról, hogy legalább tíz, az adott sportágban tevékenykedő sportszervezet a tagja, legalább három éve folyamatosan országos versenyrendszert (bajnokságot) működtet és a versenyrendszerében rendszeresen legalább száz fő, sportági versenyengedéllyel rendelkező sportoló vesz részt
+
+## 6. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A magánnyugdíjpénztár nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.4., 5.5., 5.7., 6.3., 7. és 8.12. pontja kivételével –:
+
+2\. Annak jelzése, hogy az adószámról, a társadalombiztosítási nyilvántartásba vételi számról szóló igazolást és a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását a pénzforgalmi számla megnyitásáról pótlólag megküldi.
+
+## 7. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az önkéntes kölcsönös biztosító pénztár nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.4., 5.5., 5.7., 6.3., 7. és 8.12. pontja kivételével –:
+
+1.1. az alakuló közgyűlés napja
+
+2\. Annak jelzése, hogy a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról pótlólag megküldi.
+
+## 8. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A vegyes nyugdíjpénztár nyilvántartásba vétele iránti és a jogelőd szervezetek nyilvántartásból való törlése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.4., 5.5., 5.7., 6.3., 7. és 8.12. pontja kivételével –:
+
+2\. Az átalakulással kapcsolatos adatok:
+
+2.1. az átalakult önkéntes nyugdíjpénztár nyilvántartási száma
+
+2.2. az átalakult magánnyugdíjpénztár nyilvántartási száma
+
+2.3. az átalakulás jogelődök által meghatározott időpontja, ha az átalakulás időpontját meghatározták
+
+## 9. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma az űrlap 5.4., 5.5., 5.7., 6.3., 7. és 8.12. pontja kivételével.
+
+## 10. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A Munkavállalói Résztulajdonosi Program szervezet nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5.4., 5.5., 5.7., 6.3., 7. és 8.12. pontja kivételével –:
+
+1.1. nyilatkozat arról, hogy a társaság munkavállalóinak legalább 40 százaléka a szervezet megalakulását az alakuló közgyűlésen – személyesen gyakorolt szavazati jogával élve – kimondta, a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvényben foglalt követelményeknek (9. §) megfelelő alapszabályát megállapította, továbbá ügyintéző szervét megválasztotta.
+
+## 11. melléklet a 11/2012. (II. 29.) KIM rendelethez[^44]
+
+**A nemzetközi sportszövetség nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az eljáró bíróság megjelölése.
+
+2\. A kérelmezővel kapcsolatos kötelező adatok:
+
+2.1. neve
+
+2.2. lakóhelye/székhelye
+
+3\. Képviselő esetén:
+
+3.1. neve
+
+3.2. címe
+
+3.3. személyének típusa
+
+4\. A nyilvántartásba vétel iránti határozott kérelem.
+
+5\. A szervezettel kapcsolatos kötelező adatok:
+
+5.1. név
+
+5.2. székhely
+
+5.3. szervezet képviselőjének
+
+5.3.1. neve
+
+5.3.2. címe
+
+5.3.3. a képviseleti jog gyakorlásának módja
+
+5.3.3.1. együttes képviseleti jog esetén a képviselőtárs
+
+5.3.3.1.1. neve
+
+5.3.3.1.2. tisztsége
+
+5.3.4. a képviseleti jog terjedelme
+
+5.3.4.1. különös képviseleti jog esetén az ügycsoport megjelölése
+
+5.4. a szervezet célja szerinti sportág megjelölése
+
+5.5. a szervezet létrejöttének módja (eredeti vagy jogutódlásos alapítás)
+
+5.6. a létesítő okirat kelte (jogutódlásos alapítás esetén a magyar jognak való megfelelést szolgáló módosítás kelte)
+
+5.7. jogutódlásos alapítás esetén kötelezően feltüntetendő további adatok:
+
+5.7.1. jogelőd szervezet neve
+
+5.7.2. jogelőd szervezet székhelye
+
+5.7.3. jogelőd szervezet nyilvántartó hatósága
+
+5.7.4. jogelőd szervezet nyilvántartási száma
+
+6\. A szervezettel kapcsolatos szükség szerint kötelező adatok:
+
+6.1. a szervezet idegen nyelvű elnevezése
+
+6.2. a szervezet rövidített neve
+
+6.3. szervezet szervezeti egységének jogi személlyé nyilvánítása esetén
+
+6.3.1. jogi személy szervezeti egység neve
+
+6.3.2. jogi személy szervezeti egység székhelye
+
+6.3.3. jogi személy szervezeti egység ügyvezető szervének neve
+
+6.3.4. a jogi személy szervezeti egység képviselőjének neve
+
+6.3.5. a jogi személy szervezeti egység képviselőjének lakóhelye
+
+6.3.6. a jogi személy szervezeti egység képviselőjének anyja születési neve
+
+6.4. a szervezet képviselőjének tisztsége, ha a képviseleti jog gyakorlása (terjedelme) a képviselő tisztségéhez kötődik
+
+7\. A kérelmező választása szerint megadható adatok:
+
+7.1. a szervezet kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+7.2. a szervezet gazdálkodási formája (GFO kód szerint)
+
+7.3. a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+7.4. a jogi személy szervezeti egység gazdálkodási formája (GFO kód szerint)
+
+7.5. az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat
+
+7.6. a szervezet képviselőjének adóazonosító jele és természetes azonosító adatai
+
+7.7. a jogi személy szervezeti egység képviselőjének adóazonosító jele és természetes azonosító adatai
+
+7.8. kérelmező hivatkozási száma
+
+7.9. képviselő hivatkozási száma
+
+7.10. kérelmező telefonszáma, faxszáma, e-mail címe
+
+7.11. képviselő telefonszáma, faxszáma, e-mail címe
+
+7.12. egyszerűsített nyilvántartásba vételi eljárás iránti kérelem
+
+8\. Az űrlaphoz csatolt mellékletek megnevezése.
+
+9\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+9.1. lényeges joghatások
+
+9.2. a kérelemhez csatolandó iratok
+
+9.3. az űrlap kitöltésének módja
+
+## 12. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Egyéb szervezet nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 5–7. és 8.12. pontja kivételével –:
+
+2\. A szervezettel kapcsolatos – törvényben meghatározott – kötelező adatok.
+
+3\. A szervezettel kapcsolatos – törvényben meghatározott – szükség szerint kötelező adatok.
+
+## 13. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. A nyilvántartást vezető bíróság megjelölése.
+
+2\. A szervezet:
+
+2.1. neve
+
+2.2. székhelye
+
+2.3. nyilvántartási száma
+
+3\. A kérelmezővel kapcsolatos kötelező adatok:
+
+3.1. arra való utalás, hogy a kérelmező a 2. pontban meghatározott szervezet
+
+4\. Képviselő esetében:
+
+4.1. neve
+
+4.2. címe
+
+4.3. képviselő személyének típusa
+
+5\. A kérelmező választása szerint megadható adat:
+
+5.1. a kérelmező hivatkozási száma
+
+5.2. a képviselő hivatkozási száma
+
+5.3. kérelmező telefonszáma, faxszáma, e-mail címe
+
+6\. A bíróság eljárása iránti határozott kérelem.
+
+7\. A változásbejegyzési kérelemmel érintett nyilvántartásba bejegyzett adat.
+
+8\. A bejelentett:
+
+8.1. új nyilvántartási adat
+
+8.2. törölni kért adat
+
+8.3. változatlan adat
+
+8.4. arra való utalás, hogy a változásbejegyzési kérelem az új létesítő okirat benyújtására irányul
+
+8.5.[^45] – ha a bejelentett új nyilvántartási adat a szervezet vagy a szervezet jogi személy szervezeti egysége új képviselőjének nyilvántartásba vételére irányul és a szervezet vagy a szervezet jogi személy szervezeti egysége adószámmal és statisztikai számjellel rendelkezik –az új képviselő adóazonosító száma
+
+9\. A változásbejegyzési kérelemmel érintett adat:
+
+9.1. típusa
+
+9.2. megjelölése
+
+10\. Az űrlaphoz csatolt mellékletek megnevezése
+
+11\. Egyszerűsített változásbejegyzési eljárás iránti kérelem.
+
+12\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+12.1. lényeges joghatások
+
+12.2. a kérelemhez csatolandó iratok
+
+12.3. az űrlap kitöltésének módja
+
+13.[^46] A kérelmező választása szerint megadandó adatok – ha adószám, illetve statisztikai számjel megállapítása, illetve beszerzése iránti kérelmet is előterjeszt –:
+
+13.1.[^47] a szervezet kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+13.2.[^48] a szervezet gazdálkodási formája (GFO kód szerint)
+
+13.3.[^49] a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+
+13.4.[^50] a jogi személy szervezeti egység gazdálkodási formája (GFO kód szerint)
+
+13.5.[^51] az általános forgalmi adó alanyának az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozata
+
+13.6.[^52] a szervezet képviselőjének adóazonosító száma
+
+13.7.[^53] a jogi személy szervezeti egység képviselőjének adóazonosító száma
+
+14.[^54] A kérelmező választása szerint megadandó adatok – ha adószám törlése iránti kérelmet is előterjeszt –
+
+14.1.[^55] a szervezet adóköteles tevékenysége megszüntetésének bejelentése és a szervezet adószáma törlése iránti kérelem
+
+14.2.[^56] – jogi személy szervezeti egység esetében – a jogi személy szervezeti egység adóköteles tevékenysége megszüntetésének bejelentése és a jogi személy szervezeti egység adószáma törlése iránti kérelem
+
+## 14. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az alapítvány változásbejegyzési eljárás iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalmán túlmenően – az űrlap 3. pontja kivételével –:
+
+2.[^57] A kérelmezővel – alapítóval, alapítók gyűlésének képviselőjével – kapcsolatos adatok:
+
+2.1. név
+
+2.2. lakóhely/székhely
+
+3.[^58] Annak jelölése, hogy
+
+3.1. az alapítvány közhasznú jogállású vagy az alapításkor vállalta a közhasznú jogállás megszerzését és a közhasznú jogállás megszerzésére nyitva álló határidő még nem telt el, ezért teljes személyes illetékmentesség illeti meg, vagy
+
+3.2. az alapítvány nem közhasznú jogállású, így eljárási illeték fizetésére kötelezett.
+
+## 15. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A párt változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 16. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A köztestület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 17. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az országos sportági szakszövetség változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 18. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A magánnyugdíjpénztár változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 19. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az önkéntes kölcsönös biztosító pénztár változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 20. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A vegyes nyugdíjpénztár változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 21. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 22. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A Munkavállalói Résztulajdonosi Program szervezet változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 23. melléklet a 11/2012. (II. 29.) KIM rendelethez[^59]
+
+## 24. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**az egyéb szervezet változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület változásbejegyzési eljárás iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 25. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. A nyilvántartást vezető bíróság megjelölése.
+
+2\. A szervezet:
+
+2.1. neve
+
+2.2. székhelye
+
+2.3. nyilvántartási száma
+
+3\. A kérelmezővel kapcsolatos kötelező adat:
+
+3.1. az arra való utalás, hogy a kérelmező a 2. pontban meghatározott szervezet
+
+4\. Az arra való utalás, hogy a szervezet nyilvántartásból való törlésének feltételei bekövetkeztek.
+
+5\. A képviselővel kapcsolatos kötelező adat:
+
+5.1. neve
+
+5.2. címe
+
+5.3. személyének típusa
+
+6\. Az űrlaphoz csatolt mellékletek megnevezése.
+
+7\. A nyilvántartásból való törlés iránti határozott kérelem.
+
+8\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+8.1. lényeges joghatások
+
+8.2. a kérelemhez csatolandó iratok
+
+8.3. az űrlap kitöltésének módja
+
+## 26. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az alapítvány nyilvántartásból való törlése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma – az űrlap 3. pontja kivételével –:
+
+1.1.[^60] a kérelmezővel – alapítóval, alapítók gyűlésének képviselőjével – kapcsolatos adatok:
+
+1.1.1. név
+
+1.1.2. lakóhely/székhely
+
+1.2. a végelszámolást megelőző bírósági határozat száma
+
+1.3. ha 1.2. pontban jelölt határozat nem tartalmazza az alapítvány megszűnések okát, nyilatkozni kell annak indokáról
+
+## 27. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A párt nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1.[^61] az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+2.[^62]
+
+2.1.[^63]
+
+2.2.[^64]
+
+2.3.[^65]
+
+3.[^66]
+
+3.1.[^67]
+
+3.2.[^68]
+
+3.3.[^69]
+
+## 28. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A köztestület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 29. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az országos sportági szakszövetség nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 30. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A magánnyugdíjpénztár nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 31. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az önkéntes kölcsönös biztosító pénztár nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 32. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A vegyes nyugdíjpénztár nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 33. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 34. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A Munkavállalói Résztulajdonosi Program szervezet nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 35. melléklet a 11/2012. (II. 29.) KIM rendelethez[^70]
+
+## 36. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az egyéb szervezet nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma.
+
+## 36/A. melléklet a 11/2012. (II. 29.) KIM rendelethez[^71]
+
+**Az egyesületek egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az eljáró bíróság megjelölése
+
+2\. A kérelmezővel kapcsolatos kötelező adatok:
+
+2.1. neve
+
+2.2. székhelye
+
+3\. Képviselő esetén:
+
+3.1. neve
+
+3.2. címe
+
+3.3. személyének típusa
+
+4\. A szervezetek egyesülésének bejegyzése iránti határozott kérelem
+
+5\. A kérelmező választása szerint megadható adat:
+
+5.1. a kérelmező hivatkozási száma
+
+5.2. a képviselő hivatkozási száma
+
+5.3. a kérelmező telefonszáma, faxszáma, e-mail címe
+
+5.4. a képviselő telefonszáma, faxszáma, e-mail címe
+
+6\. Az egyesülő szervezetekkel kapcsolatos kötelező adatok:
+
+6.1. neve
+
+6.2. székhelye
+
+6.3. nyilvántartási száma
+
+7\. A törlés iránti határozott kérelem
+
+7.1. az összeolvadó szervezetek
+
+7.2. a beolvadó szervezet
+
+8\. Az arra való utalás, hogy az egyesülő szervezetek nyilvántartásból való törlésének feltételei bekövetkeztek
+
+9\. Az űrlaphoz csatolt mellékletek megnevezése
+
+10\. Annak jelzése, hogy a jogutód szervezet adatait
+
+10.1. összeolvadás esetén a nyilvántartásba vétel iránti kérelem űrlapja tartalmazza
+
+10.2. beolvadás esetén a változásbejegyzés iránti kérelem űrlapja tartalmazza
+
+11\. Annak jelölése, hogy a nyilvántartásba vételi űrlapon, illetve a változásbejegyzési űrlapon benyújtásra kerül-e az adószám és a statisztikai számjel megállapítása, illetve kiadása iránti kérelem
+
+12\. A kérelmező választása szerint megadható adat:
+
+12.1. a közhasznú jogállás nyilvántartásba vétele iránti határozott kérelem
+
+12.2. nyilatkozat arról, hogy a jogutód az Ectv. 10/D. §-a alapján a közhasznú minősítésre és a közhasznú jogállása nyilvántartásba történő bejegyzésére jogosult
+
+13\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+13.1. lényeges joghatások
+
+13.2. a kérelemhez csatolandó iratok
+
+13.3. az űrlap kitöltésének módja
+
+## 36/B. melléklet a 11/2012. (II. 29.) KIM rendelethez[^72]
+
+**Az egyesületek szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az eljáró bíróság megjelölése
+
+2\. A kérelmezővel kapcsolatos kötelező adatok:
+
+2.1. neve
+
+2.2. székhelye
+
+3\. Képviselő esetén:
+
+3.1. neve
+
+3.2. címe
+
+3.3. személyének típusa
+
+4\. A szétválás bejegyzése iránti határozott kérelem
+
+5\. A kérelmező választása szerint megadható adat:
+
+5.1. a kérelmező hivatkozási száma
+
+5.2. a képviselő hivatkozási száma
+
+5.3. a kérelmező telefonszáma, faxszáma, e-mail címe
+
+5.4. a képviselő telefonszáma, faxszáma, e-mail címe
+
+6\. A különváló szervezettel kapcsolatos kötelező adatok:
+
+6.1. neve
+
+6.2. székhelye
+
+6.3. nyilvántartási száma
+
+7\. A különváló szervezet törlése iránti határozott kérelem
+
+8\. Az arra való utalás, hogy a különváló szervezet nyilvántartásból való törlésének feltételei bekövetkeztek
+
+9\. Az űrlaphoz csatolt mellékletek megnevezése
+
+10\. Annak jelzése, hogy
+
+10.1. a jogutód szervezet adatait a nyilvántartásba vétel iránti kérelem tartalmazza
+
+10.2. kiválás esetén a fennmaradó szervezet adatait a változásbejegyzés iránti kérelem tartalmazza
+
+11\. Annak jelölése, hogy a nyilvántartásba vételi űrlapon, illetve a változásbejegyzési űrlapon benyújtásra kerül-e az adószám és a statisztikai számjel megállapítása, illetve kiadása iránti kérelem
+
+12\. A kérelmező választása szerint megadható adat:
+
+12.1. a közhasznú jogállás nyilvántartásba vétele iránti határozott kérelem
+
+12.2. nyilatkozat arról, hogy a jogutód az Ectv. 10/D. §-a alapján a közhasznú minősítésre és a közhasznú jogállása nyilvántartásba történő bejegyzésére jogosult
+
+13\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+13.1. lényeges joghatások
+
+13.2. a kérelemhez csatolandó iratok
+
+13.3. az űrlap kitöltésének módja
+
+## 36/C. melléklet a 11/2012. (II. 29.) KIM rendelethez[^73]
+
+**Az egyesületek beolvadásos szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az eljáró bíróság megjelölése
+
+2\. A kérelmezővel kapcsolatos kötelező adatok:
+
+2.1. neve
+
+2.2. székhelye
+
+3\. Képviselő esetén:
+
+3.1. neve
+
+3.2. címe
+
+3.3. személyének típusa
+
+4\. A beolvadásos szétválás bejegyzése iránti határozott kérelem
+
+4.1. beolvadásos különválás
+
+4.2. beolvadásos kiválás
+
+5\. A kérelmező választása szerint megadható adat:
+
+5.1. a kérelmező hivatkozási száma
+
+5.2. a képviselő hivatkozási száma
+
+5.3. a kérelmező telefonszáma, faxszáma, e-mail címe
+
+5.4. a képviselő telefonszáma, faxszáma, e-mail címe
+
+6\. A különváló szervezettel kapcsolatos kötelező adatok:
+
+6.1. neve
+
+6.2. székhelye
+
+6.3. nyilvántartási száma
+
+7\. A különváló szervezet törlése iránti határozott kérelem
+
+8\. Az arra való utalás, hogy a különváló szervezet nyilvántartásból való törlésének feltételei bekövetkeztek
+
+9\. Az űrlaphoz csatolt mellékletek megnevezése
+
+10\. Annak jelzése, hogy
+
+10.1. a jogutód szervezet adatait a változásbejegyzés iránti kérelem tartalmazza
+
+10.2. kiválás esetén a fennmaradó szervezet adatait a változásbejegyzés iránti kérelem tartalmazza
+
+11\. Annak jelölése, hogy a nyilvántartásba vételi űrlapon, illetve a változásbejegyzési űrlapon benyújtásra kerül-e az adószám és a statisztikai számjel megállapítása, illetve kiadása iránti kérelem
+
+12\. A kérelmező választása szerint megadható adat:
+
+12.1. a közhasznú jogállás nyilvántartásba vétele iránti határozott kérelem
+
+12.2. nyilatkozat arról, hogy a jogutód az Ectv. 10/D. §-a alapján a közhasznú minősítésre és a közhasznú jogállása nyilvántartásba történő bejegyzésére jogosult
+
+13\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+13.1. lényeges joghatások
+
+13.2. a kérelemhez csatolandó iratok
+
+13.3. az űrlap kitöltésének módja
+
+## 36/D. melléklet a 11/2012. (II. 29.) KIM rendelethez[^74]
+
+**Az alapítványok egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesületek egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 2. és 6. pontja kivételével –:
+
+2\. A kérelmezővel – alapítóval vagy az alapítók gyűlésének képviselőjével – kapcsolatos adatok:
+
+2.1. név
+
+2.2. lakóhely/székhely
+
+3\. Az egyesülő alapítványokkal (közalapítványokkal) kapcsolatos kötelező adatok:
+
+3.1. neve
+
+3.2. székhelye
+
+3.3. nyilvántartási száma
+
+3.4. alapítvány képviselőjének neve
+
+## 36/E. melléklet a 11/2012. (II. 29.) KIM rendelethez[^75]
+
+**Az alapítványok szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesületek szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 2. és 6. pontja kivételével –:
+
+2\. A kérelmezővel – alapítóval vagy az alapítók gyűlésének képviselőjével – kapcsolatos adatok:
+
+2.1. név
+
+2.2. lakóhely/székhely
+
+3\. A szétváló alapítványokkal (közalapítványokkal) kapcsolatos kötelező adatok:
+
+3.1. neve
+
+3.2. székhelye
+
+3.3. nyilvántartási száma
+
+3.4. alapítvány képviselőjének neve
+
+## 36/F. melléklet a 11/2012. (II. 29.) KIM rendelethez[^76]
+
+**Az alapítványok beolvadásos szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma**
+
+1\. Az egyesületek beolvadásos szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 2. és 6. pontja kivételével –:
+
+2\. A kérelmezővel – alapítóval vagy az alapítók gyűlésének képviselőjével – kapcsolatos adatok:
+
+2.1. név
+
+2.2. lakóhely/székhely
+
+3\. A különváló alapítványokkal (közalapítványokkal) kapcsolatos kötelező adatok:
+
+3.1. neve
+
+3.2. székhelye
+
+3.3. nyilvántartási száma
+
+3.4. alapítvány képviselőjének neve
+
+## 37. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A szervezet közhasznú jogállás nyilvántartásba vétele iránti kérelme elektronikus űrlapjának adattartalma**
+
+1\. A nyilvántartást vezető bíróság megjelölése.
+
+2\. A szervezet:
+
+2.1. neve
+
+2.2. székhelye
+
+2.3. nyilvántartási száma
+
+3\. A kérelmezővel kapcsolatos kötelező adatok:
+
+3.1. – ha a kérelmező a 2. pontban meghatározott szervezet – az arra való utalás, hogy a kérelmező a 2. pontban meghatározott szervezet
+
+3.2. – ha a kérelmező nem a 2. pontban meghatározott szervezet – a kérelmező
+
+3.2.1. neve
+
+3.2.2. lakóhelye/székhelye
+
+4\. Képviselő esetében:
+
+4.1. neve
+
+4.2. címe
+
+4.3. személyének típusa
+
+5.[^77] Nyilatkozat arról, hogy a létesítő okirat tartalmazza-e az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben előírt rendelkezéseket.
+
+6\. Annak jelölése, ha a közhasznú jogállás nyilvántartásba vétele iránti kérelemmel egyidejűleg változásbejegyzési űrlap került benyújtásra.
+
+7\. A közhasznú jogállás nyilvántartásba vétele iránti határozott kérelem.
+
+8\. Az űrlaphoz csatolt mellékletek megnevezése.
+
+9\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+9.1. lényeges joghatások
+
+9.2. a kérelemhez csatolandó iratok
+
+9.3. az űrlap kitöltésének módja
+
+## 38. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**Az egyéb – az 1–37. és 39. pontban nem szereplő – kérelmek előterjesztésére szolgáló elektronikus űrlap adattartalma**
+
+1\. Az eljáró bíróság megjelölése.
+
+2\. A kérelem megnevezése.
+
+3\. Szükség szerint kötelező adat:
+
+3.1. ügyszám/lajstromszám
+
+3.2. a szervezet nyilvántartási száma
+
+4\. A kérelmezővel kapcsolatos kötelező adatok:
+
+4.1. neve
+
+4.2. lakóhelye/székhelye
+
+5\. Képviselő esetén:
+
+5.1. neve
+
+5.2. címe
+
+5.3. személyének típusa
+
+6\. A bíróság eljárása iránti határozott kérelem.
+
+7\. A kérelem előterjesztése.
+
+8\. A kérelemhez csatolt mellékletek megnevezése.
+
+9\. Az űrlapon lévő tájékoztatások, figyelmeztetések:
+
+9.1. lényeges joghatások
+
+9.2. az űrlap kitöltésének módja
+
+## 39. melléklet a 11/2012. (II. 29.) KIM rendelethez
+
+**A papír alapú kérelmek adattartalma az adott kérelem elektronikus űrlapjának adattartalmán túlmenően**
+
+1\. A kérelmező aláírásának:
+
+1.1. helye
+
+1.2. ideje
+
+2.[^78] Az okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet:
+
+2.1. neve
+
+2.2. címe
+
+## 40. melléklet a 11/2012. (II. 29.) KIM rendelethez[^79]
+
+**Az űrlapok kitöltését segítő kódtárak**
+
+1\. Az egyesület, az alapítvány és az egyéb szervezet célja szerinti besorolása és a besorolás kódja:
+
+1.1. kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)
+
+1.1.1. kód: 0100.
+
+1.2. vallási tevékenység (pl. hitéleti tevékenység)
+
+1.2.1. kód: 0200.
+
+1.3. sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)
+
+1.3.1. kód: 0300.
+
+1.4. szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)
+
+1.4.1. kód: 0400.
+
+1.5. oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)
+
+1.5.1. kód: 0500.
+
+1.6. kutatási tevékenység (pl. természettudomány, társadalomtudomány)
+
+1.6.1. kód: 0600.
+
+1.7. egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)
+
+1.7.1. kód: 0700.
+
+1.8. szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)
+
+1.8.1. kód: 0800.
+
+1.9. polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)
+
+1.9.1. kód: 0900.
+
+1.10. környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)
+
+1.10.1. kód: 1000.
+
+1.11. településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)
+
+1.11.1. kód: 1100.
+
+1.12. gazdaságfejlesztési és munkaügyi tevékenység (pl. vállalkozások és szakmák támogatása, idegenforgalom fejlesztése, munkanélküliség kezelése, szociális foglalkoztatás)
+
+1.12.1. kód: 1200.
+
+1.13.[^80] egyéb érdekérvényesítő tevékenység (pl. alapjogok védelme, fogyasztóvédelem, jogvédelem, politikai érdekérvényesítés)
+
+1.13.1. kód: 1300.
+
+1.14. közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)
+
+1.14.1. kód: 1400.
+
+1.15. adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)
+
+1.15.1. kód: 1500.
+
+1.16. nemzetközi tevékenység (pl. nemzetközi gazdasági, jogi, kulturális, baráti és cserekapcsolatok, határon átnyúló együttműködés)
+
+1.16.1. kód: 1600.
+
+1.17. szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)
+
+1.17.1. kód: 1700.
+
+1.18. politikai tevékenység (pl. nem párt jellegű politikai tevékenység, politikai ifjúsági szervezetek)
+
+1.18.1. kód: 1800.
+
+1.19. egyéb tevékenység
+
+1.19.1. kód: 1900.
+
+1.20.[^81] lobbitevékenység
+
+1.20.1. kód: 2000.
+
+2\. Az egyesület formája:
+
+2.1. egyesület
+
+2.2. sportegyesület
+
+2.3. alapcél szerint vallási tevékenységet végző szervezet
+
+2.4. szakszervezet
+
+2.5. az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrejövő szövetség
+
+2.6. polgárőr szervezet
+
+2.7. nemzetiségi egyesület
+
+2.8. egyéb, törvényben meghatározott egyesületi forma
+
+## 41. melléklet a 11/2012. (II. 29.) KIM rendelethez[^82]
+
+**Az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését érintő kérelem melléklete**
+
+I. Ingatlan apport esetén az ingatlan-nyilvántartási átvezetéshez (a bírósági elrendeléshez) szükséges adattartalom (az 1–7. pont szerinti adatokat ingatlanonként külön-külön kell megadni):
+
+1\. Az érintett ingatlan(ok) megjelölése (település, ahol az ingatlan fekszik; fekvése és helyrajzi száma)
+
+2\. Van-e a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) hatálya alá tartozó művelési ágban nyilvántartott érintett ingatlan (vagy ingatlanrész), ha van, annak megjelölése
+
+3\. A megjelölt ingatlan(ok) tulajdoni lapján a változással érintett bejegyzés(ek) sorszámá(i)nak megjelölése
+
+4\. Bejegyzett és törlendő jogosult(ak) alábbi adatainak megjelölése (külön-külön az előbb megjelölt sorszámhoz tartozóan), valamint az ingatlan-nyilvántartásba bejegyeztetni kért új jogosult(ak) alábbi adatainak megjelölése:
+
+4.1. Természetes személy: személyi azonosító vagy név, szül. név, anyja leánykori neve, szül. helye, ideje; lakcím; állampolgárság
+
+4.2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy: az állampolgársága szerinti úti okmányában feltüntetett természetes személyazonosító adatai, értesítési címe, állampolgársága
+
+4.3. Jogi személy/szervezet: név, székhely, cégjegyzékszám/egyéb: nyilvántartást végző szerv, nyilvántartási szám; honosság
+
+4.4. Külföldi honos jogi személy/szervezet esetén: magyarországi telephely (ha van) vagy magyarországi értesítési cím
+
+5\. Érintett ingatlan (tulajdoni hányad) vonatkozásában bejegyzett elidegenítési és terhelési tilalom, elidegenítési tilalom: fennáll-e, ha igen: megfelelő hozzájáruló nyilatkozatot kell csatolni vagy az adott teher megszűnésének megjelölése mellett az annak ingatlan-nyilvántartási törléséhez szükséges, az elidegenítési és terhelési tilalom vagy elidegenítési tilalom jogosultjának törlési engedélyét kell csatolni
+
+6\. Tulajdonjog-változás esetén az új jogosult(ak) tulajdoni hányada
+
+7\. Változással érintett ingatlan (ingatlanra vonatkozó vagyoni jog, tulajdoni hányad) értéke (nem kötelező)
+
+II. Az I. pont alá nem tartozó esetben az ingatlan-nyilvántartási átvezetéshez (a bírósági elrendeléshez) szükséges adattartalom (az 1–7. pont szerinti adatokat ingatlanonként külön-külön kell megadni):
+
+1\. A változással érintett ingatlan(ok) megjelölése (település, ahol az ingatlan fekszik; fekvése és helyrajzi száma), amelyek tekintetében ingatlan-nyilvántartási átjegyzés szükséges
+
+2\. Van-e a Földforgalmi tv. hatálya alá tartozó művelési ágban nyilvántartott érintett ingatlan (vagy ingatlanrész), ha van, annak megjelölése
+
+3\. A megjelölt ingatlan(ok) tulajdoni lapján a változással érintett bejegyzés(ek) sorszámá(i)nak megjelölése
+
+4\. Bejegyzett és törlendő jogosult(ak) alábbi adatainak megjelölése (külön-külön az előbb megjelölt sorszámhoz tartozóan), valamint az ingatlan-nyilvántartásba bejegyeztetni kért új jogosult(ak) alábbi adatainak megjelölése:
+
+4.1. Természetes személy: személyi azonosító vagy név, születési név, anyja leánykori neve, születési helye, ideje; lakcím; állampolgárság
+
+4.2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy: az állampolgársága szerinti úti okmányában feltüntetett természetes személyazonosító adatai, értesítési címe, állampolgársága
+
+4.3. Jogi személy/szervezet: név, székhely, cégjegyzékszám/egyéb: nyilvántartást végző szerv, nyilvántartási szám; honosság
+
+4.4. Külföldi honos jogi személy/szervezet esetén: magyarországi telephely (ha van) vagy magyarországi értesítési cím
+
+5\. Tulajdonjog-változás esetén a jogcím megjelölése (Vagyonrendezés esetén ez mindig vagyonrendezés)
+
+6\. Tulajdonjog-változás esetén az új jogosult(ak) tulajdoni hányada
+
+7\. Változással érintett ingatlan (ingatlanra vonatkozó vagyoni jog, tulajdoni hányad) értéke (nem kötelező)
+
+III. Minden esetben kötelező: A jogi képviselő vagy jogi képviselő nélküli eljárásban a kérelmező által aláírt nyilatkozat:
+
+1\. az eljárásban a bíróság által a kérelemnek megfelelő bejegyző végzés meghozatala esetén a fentiekben teljeskörűen megjelölt ingatlan(ok) tekintetében a fentiekben teljeskörűen megjelölt ingatlan-nyilvántartási változás(ok) bejegyzése szükséges, további ingatlan-nyilvántartási bejegyzéssel érintett ingatlan és arra vonatkozó, ingatlan-nyilvántartási bejegyzésköteles jog- vagy tényváltozás az adott ügyben nincsen;
+
+2\. az eljárásban a bíróság által a kérelemnek megfelelő bejegyző végzés meghozatala esetén a fentiekben megjelölt ingatlan(ok)ra vonatkozó, ingatlan-nyilvántartásba bejegyzendő változások jogszabályi tilalomba vagy korlátozásba, szerzési korlátozásba nem ütköznek;
+
+3\. nem áll fenn harmadik személy joga, ami a fentiekben megjelölt ingatlanra vonatkozó jogváltozásnak akadálya, illetőleg ilyen ingatlanon fennálló, harmadik személyt megillető jog esetében a harmadik személy jogosult a szükséges nyilatkozatot megadta és azt tartalmazó okirat(ok) csatolásra került(ek) jelen adatlap mellékleteként.
+
+## 42. melléklet a 11/2012. (II. 29.) KIM rendelethez[^83]
+
+## 43. melléklet a 11/2012. (II. 29.) KIM rendelethez[^84]
+
+## 44. melléklet a 11/2012. (II. 29.) KIM rendelethez[^85]
+
+---
+
+[^1]: Az 1. § (1) bekezdés 11. pontját a 32/2019. (XII. 20.) IM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés 23. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
+[^3]: Az 1. § (1) bekezdés 35. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
+[^4]: Az 1. § (1) bekezdés 40–42. pontját a 3/2017. (IV. 3.) IM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (1) bekezdés 43. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés 44. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (1) bekezdés 45. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (1) bekezdés 46. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés 47. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^10]: Az 1. § (1) bekezdés 48. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (1a) bekezdését a 32/2019. (XII. 20.) IM rendelet 2. §-a iktatta be.
+[^12]: A 2. § (1) bekezdése a 15. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (5) bvekezdését az 58/2012. (XII. 28.) KIM rendelet 44. § (1) bekezdése iktatta be.
+[^14]: A 7. § (4) bekezdését a 3/2017. (IV. 3.) IM rendelet 1. §-a iktatta be.
+[^15]: A 7/A. §-t az 58/2012. (XII. 28.) KIM rendelet 44. § (2) bekezdése iktatta be.
+[^16]: A 8. § (2) bekezdés c) pontját a 3/2017. (IV. 3.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^17]: A 8. § (2) bekezdés f) pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés b) pontja alapján nem lép hatályba.
+[^18]: A 8. § (2) bekezdés g) pontját a 3/2017. (IV. 3.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^19]: A 8. § (2) bekezdés h) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.
+[^20]: A 8. § (2) bekezdés i) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.
+[^21]: A 11/A. §-t a 27/2024. (XII. 30.) IM rendelet 8. § (1) bekezdése iktatta be.
+[^22]: A 6. alcímet (12. §) a 3/2017. (IV. 3.) IM rendelet 4. § c) pontja hatályon kívül helyezte.
+[^23]: A 13. § (2) bekezdése az 58/2012. (XII. 28.) KIM rendelet 44. § (3) bekezdésével megállapított, a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 13. § (3) bekezdése az 58/2012. (XII. 28.) KIM rendelet 44. § (3) bekezdésével megállapított, a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés b) pontja szerint módosított szöveg.
+[^25]: A 14. § az 58/2012. (XII. 28.) KIM rendelet 44. § (4) bekezdésével megállapított, nyitó szövegrésze a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 14. § d) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (3) bekezdése iktatta be.
+[^27]: A 15. §-t a 16. § c) pontja hatályon kívül helyezte, újonnan a 3/2017. (IV. 3.) IM rendelet 2. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2017. április 4.
+[^30]: Az 1. melléklet 5.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (1) bekezdése iktatta be, szövege a 20/2014. (XII. 23.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet 5.3.6. pontját a 20/2014. (XII. 23.) IM rendelet 14. § (2) bekezdése iktatta be.
+[^32]: Az 1. melléklet 6.3.3. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés a) pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 6.3.4. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
+[^34]: Az 1. melléklet 6.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
+[^35]: Az 1. melléklet 8.1. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (3) bekezdésével megállapított szöveg.
+[^36]: Az 1. melléklet 8.3. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (4) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet 2. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés b) pont ba) alpontja szerint módosított szöveg.
+[^38]: A 2. melléklet 3.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (6) bekezdése iktatta be.
+[^39]: A 2. melléklet 3.4. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés b) pont bb) alpontja szerint módosított szöveg.
+[^40]: A 2. melléklet 3.4.3. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (7) bekezdése iktatta be.
+[^41]: A 2. melléklet 3.5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés b) pont bc) alpontja szerint módosított szöveg.
+[^42]: A 2. melléklet3.5.3. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (8) bekezdése iktatta be.
+[^43]: A 2. melléklet 4. pontját a 32/2019. (XII. 20.) IM rendelet 3. §-a iktatta be.
+[^44]: A 11. mellékletet a 32/2019. (XII. 20.) IM rendelet 4. §-a iktatta be.
+[^45]: A 13. melléklet 8.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (9) bekezdése iktatta be.
+[^46]: A 13. melléklet 13. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^47]: A 13. melléklet 13.1. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^48]: A 13. melléklet 13.2. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^49]: A 13. melléklet 13.3. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^50]: A 13. melléklet 13.4. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^51]: A 13. melléklet 13.5. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^52]: A 13. melléklet 13.6. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^53]: A 13. melléklet 13.7. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^54]: A 13. melléklet 14. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^55]: A 13. melléklet 14.1. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^56]: A 13. melléklet 14.2. pontját az 58/2012. (XII. 28.) KIM rendelet (10) bekezdése iktatta be.
+[^57]: A 14. melléklet 2. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés c) pontja szerint módosított szöveg.
+[^58]: A 14. melléklet 3. pontját a 32/2019. (XII. 20.) IM rendelet 5. §-a iktatta be.
+[^59]: A 23. melléklet a 20/2014. (XII. 23.) KIM rendelet 14. § (9) bekezdés c) pontja alapján nem lép hatályba.
+[^60]: A 26. melléklet 1.1. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés d) pontja szerint módosított szöveg.
+[^61]: A 27. melléklet 1. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^62]: A 27. melléklet 2. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^63]: A 27. melléklet 2.1. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^64]: A 27. melléklet 2.2. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^65]: A 27. melléklet 2.3. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^66]: A 27. melléklet 3. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^67]: A 27. melléklet 3.1. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^68]: A 27. melléklet 3.2. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^69]: A 27. melléklet 3.3. pontja a 21/2014. (III. 13.) KIM rendelet 26. § (2) bekezdése alapján nem lép hatályba.
+[^70]: A 35. melléklet a 20/2014. (XII. 23.) KIM rendelet 14. § (9) bekezdés c) pontja alapján nem lép hatályba.
+[^71]: A 36/A. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^72]: A 36/B. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^73]: A 36/C. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^74]: A 36/D. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^75]: A 36/E. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^76]: A 36/F. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^77]: A 37. melléklet 5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés e) pontja szerint módosított szöveg.
+[^78]: A 39. melléklet 2. pontja a 20/2017. (XII. 21.) IM rendelet 36. §-a szerint módosított szöveg.
+[^79]: A 40. melléklet a 15. § (2) bekezdésével megállapított szöveg.
+[^80]: A 40. melléklet 1.13. pontja a 3/2017. (IV. 3.) IM rendelet 3. §-ával megállapított szöveg.
+[^81]: A 40. melléklet 1.20. pontját a 3/2017. (IV. 3.) IM rendelet 3. §-a iktatta be.
+[^82]: A 41. mellékletet a 3/2017. (IV. 3.) IM rendelet 4. § d) pontja hatályon kívül helyezte, újonnan a 27/2024. (XII. 30.) IM rendelet 8. § (2) bekezdése iktatta be.
+[^83]: A 41–43. mellékletet a 3/2017. (IV. 3.) IM rendelet 4. § d) pontja hatályon kívül helyezte.
+[^84]: A 41–43. mellékletet a 3/2017. (IV. 3.) IM rendelet 4. § d) pontja hatályon kívül helyezte.
+[^85]: A 44. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

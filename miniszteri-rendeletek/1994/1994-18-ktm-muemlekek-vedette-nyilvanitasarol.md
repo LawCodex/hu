@@ -1,0 +1,90 @@
+---
+title: "18/1994. (V. 31.) KTM—MKM együttes rendelet műemlékek védetté nyilvánításáról"
+identifier: "18/1994. (V. 31.) KTM—MKM együttes rendelet"
+njt_id: "1994-18-20-6D"
+eli: "https://njt.jog.gov.hu/eli/R/1994/KTM/18"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1994-05-31
+in_force_from: 1994-06-08
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-18-20-6D"
+retrieved: 2026-10-12
+---
+
+# 18/1994. (V. 31.) KTM—MKM együttes rendelet műemlékek védetté nyilvánításáról
+
+Az építésügyről szóló — az 1991. évi XX. törvénnyel módosított — 1964. évi III. törvény végrehajtására kiadott 30/1964. (XII. 2.) Korm. rendelet[^1] 12. § (1) bekezdésében foglalt felhatalmazás alapján — az érdekeltekkel egyetértésben — a következőket rendeljük el:
+
+## 1. §
+
+(1)[^2] Műemlékké nyilvánítjuk a Békés vármegyei *Békéscsaba* megyei jogú városban lévő, a békéscsabai 934. számú tulajdoni lapon, 816 hrsz. alatt felvett 1 hektár, 1015 m<sup>2</sup> területű, az Egyesült Izraelita Hitközség tulajdonában lévő izraelita temetőt.
+
+(2) A műemléki védettség elrendelésének célja a felhagyott temető délkeleti részén szinte teljesen egységes XIX. századi képet mutató emlékanyag további megőrzésének biztosítása.
+
+## 2. §
+
+(1)[^3] Műemlék jellegűvé nyilvánítjuk a Békés vármegyei *Szarvas* város külterületén lévő — a szarvasi 10. számú tulajdon lapon, 01294/3 hrsz. alatt felvett 25 hektár, 616 m<sup>2</sup> területű, természetvédelmi terület ,,d'' jelű alrészletén álló, állami tulajdonú Anna ligeti Csáky-kastélyt.
+
+(2) A műemléki védettség elrendelésének célja a magyarországi klasszicista és barokk kastélyépítészet hagyományait a századelő óta érintetlenül őrző eklektikus épület építészeti értékeinek megóvása, és a város történetében betöltött fontos szerepe alapján az épülettel harmonizáló használatának biztosítása.
+
+(3) Az egyedi védelem az ingatlan egészére nem terjed ki, a 01294 hrsz.-ú ingatlan műemléki környezetté válik.
+
+## 3. §
+
+(1) Műemlékké nyilvánítjuk a 15547 törzsszámon nyilvántartott műemlék jellegű *Budapest* VI. ker., Andrássy út 39. (volt Népköztársaság útja 39., Paulay Ede u. 54.) számú, a Centrum Áruházak Kft. tulajdonában lévő áruház épületét. A védettség kiterjed a Budapest VI. kerületi, 1170. számú tulajdoni lapon, 29380 hrsz. alatt nyilvántartott, 1264 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A magasabb védettségi fokozat elrendelésének célja az 1884-ben Petschacher Gusztáv tervei szerint épült egykori Párizsi Nagyáruház építészeti értékeinek fokozottabb védelme, különös tekintettel a különleges értékű Lotz-terem kialakítására.
+
+## 4. §
+
+(1) Műemlékké nyilvánítjuk a *Budapest* II. ker., Völgy u. 9—11. számú, a Magyar Állam tulajdonában és az Országos Pszichiátriai és Neurológiai Intézet kezelésében lévő épületet. A védettség kiterjed a Budapest II. kerületi, 1001. számú tulajdoni lapon, 11468 hrsz. alatt nyilvántartott 10 778 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja az 1912-ben épült szecessziós villaépület, az egykori Sándor-nyaraló építészeti, belsőépítészeti értékeinek védelme, megőrzése.
+
+## 5. §
+
+(1) Műemlékké nyilvánítjuk a *Budapest* V. ker., Veres Pálné u. 17—19. számú, a Fővárosi V. Kerületi Önkormányzat tulajdonában lévő épületet. A védettség kiterjed a Budapest V. kerületi, 235/0. számú tulajdoni lapon, 23972 hrsz. alatt nyilvántartott 1737 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja az 1909-ben Fellner Sándor tervei alapján az egykori ,,Tökölijánum'' helyén megépült épület építészeti értékeinek megőrzése, különös tekintettel az épület udvarán elhelyezett klasszicista szoborcsoport védelmére.
+
+## 6. §
+
+(1) Műemlékké nyilvánítjuk a *Budapest* XIII. ker., Váci út 201. számú, a Fővárosi Önkormányzat tulajdonában lévő épületet. A védettség kiterjed a Budapest XIII. kerületi, 1143. számú tulajdoni lapon, 26000/1 hrsz. alatt nyilvántartott, 4011 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja a századfordulót megelőző években épült villamos kocsiszínnek, mint a korszak ipari építészete városképet jelentős mértékben befolyásoló jellegzetes példája, építészeti értékeinek védelme.
+
+## 7. §
+
+(1) Műemlékké nyilvánítjuk a *Budapest* VI. ker., Andrássy út 29. számú, a Budapest Főváros Terézváros Önkormányzat tulajdonában lévő épületet. A védettség kiterjed a VI. kerületi 1128. számú tulajdoni lapon, 29335 hrsz. alatt nyilvántartott 627 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja az 1884-ben Ray Rezső Lajos tervei alapján épült neoreneszánsz architektúrájú épület építészeti értékeinek védelme, különös tekintettel a földszinten lévő Művész cukrászda belső termeire.
+
+## 8. §
+
+(1) Műemlékké nyilvánítjuk a *Budapest* V. ker., Nyáry Pál u. 8. számú, a Fővárosi V. Kerületi Önkormányzat tulajdonában lévő épületet. A védettség kiterjed az V. kerületi, 242. számú tulajdoni lapon, 23981 hrsz. alatt nyilvántartott, 194 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja az 1815-ben Brein Fülöp tervei alapján épült klasszicista lakóépület építészeti értékeinek védelme.
+
+## 9. §
+
+(1) Műemlékké nyilvánítjuk a *Százhalombatta*—*Dunafüred* határán elhelyezkedő római katonai tábor területét. A védettség kiterjed a Százhalombatta 6. számú tulajdoni lapon, 132/6 hrsz. alatt nyilvántartott, 3 hektár 70 m<sup>2</sup> nagyságú és a 2/0 számú tulajdoni lapon, 0128/7 hrsz. alatt nyilvántartott, 6 hektár 4301 m<sup>2</sup> nagyságú ingatlan teljes területére.
+
+(2) A műemléki védettség elrendelésének célja az egyik legépebben fennmaradt római katonai tábor, történeti-régészeti jelentőségű védett területének fokozottabb műemléki védelme.
+
+## 10. §
+
+A jelen rendeletben műemléki védettség alá helyezett épület értékeinek fenntartásáról, jó karbantartásáról az épület tulajdonosa (kezelője, használója) köteles gondoskodni, a műemlékvédelemről szóló, módosított 1/1967. (I. 31.) ÉM rendeletben[^4] foglaltak szerint.
+
+## 11. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+---
+
+[^1]: Az 1964: III. törvényt és végrehajtási rendeletét az 1997: LXXVIII. törvény hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdése a 3/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 3/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az 1/1967. (I. 31.) ÉM rendeletet az 1997: LIV. törvény 56. §-ának (1) bekezdése hatályon kívül helyezte.

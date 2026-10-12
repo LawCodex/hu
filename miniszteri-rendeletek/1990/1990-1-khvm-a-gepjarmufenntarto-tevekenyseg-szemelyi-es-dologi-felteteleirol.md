@@ -1,0 +1,942 @@
+---
+title: "1/1990. (IX. 29.) KHVM rendelet a gépjárműfenntartó tevékenység személyi és dologi feltételeiről"
+identifier: "1/1990. (IX. 29.) KHVM rendelet"
+njt_id: "1990-1-20-6B"
+eli: "https://njt.jog.gov.hu/eli/R/1990/KHVM/1"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 1990-09-29
+in_force_from: 2010-01-01
+last_amended: 2025-10-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-1-20-6B"
+retrieved: 2026-10-12
+---
+
+# 1/1990. (IX. 29.) KHVM rendelet a gépjárműfenntartó tevékenység személyi és dologi feltételeiről
+
+A közúti közlekedésről szóló 1988. évi I. törvény, valamint a közlekedési, hírközlési és vízügyi miniszter feladat- és hatásköre alapján a belügyminiszterrel, az ipari és kereskedelmi miniszterrel, a művelődési és közoktatási miniszterrel, a munkaügyi miniszterrel és a népjóléti miniszterrel egyetértésben a következőket rendelem:
+
+## Bevezető rendelkezések
+
+### 1. §
+
+(1)[^1] A rendelet hatálya a járműfenntartó tevékenységet végző vállalkozásokra (a továbbiakban: járműfenntartó szervezet) terjed ki.
+
+(2) A fegyveres erőkre, a fegyveres testületekre és ezeknek az (1) bekezdés hatálya alá tartozó szervezeteire a rendelet hatálya annyiban terjed ki, amennyiben más jogszabály eltérően nem rendelkezik.
+
+(3)[^2]
+
+### 2. §[^3]
+
+A rendelet alkalmazásában
+
+a)[^4] *járműfenntartó tevékenység:* a közúti közlekedés szabályairól szóló együttes miniszteri rendeletben meghatározott gépjárműveken – kivéve a trolibuszt – és ezek pótkocsijain (a továbbiakban együtt: jármű) végzett, az 1. számú mellékletben meghatározott szolgáltatási tevékenység,
+
+b)[^5] *regisztrált bontó-hulladékkezelő:* a környezetvédelmi hatóság által – a bontásra szánt járműre és az abban előforduló veszélyes anyagoknak megfelelő kódszámú[^6] hulladékra vonatkozóan – kiadott veszélyes hulladékkezelési engedéllyel rendelkező járműfenntartó szervezet, amely rendelkezik a közlekedési hatóság által kiállított, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályiról szóló törvény szerinti bejelentési igazolással,
+
+c)[^7]
+
+d)[^8] *veszélyes alkotó:* a járműben, annak részegységében vagy alkatrészében lévő anyag, amely a hulladékok jegyzékéről szóló külön jogszabály[^9] alapján veszélyes hulladéknak minősül.
+
+e)[^10]
+
+f)[^11]
+
+g)[^12]
+
+h)[^13]
+
+i)[^14]
+
+## A gépjárműfenntartó tevékenység szakmai személyi feltételei
+
+### 3. §
+
+(1)[^15] A járműfenntartó tevékenységgel összefüggő műszaki munkát – a járművek tisztítását kivéve – közvetlen szakmai felügyelet nélkül csak olyan személy végezheti, akinek a tevékenységhez az 1. számú mellékletben meghatározott vagy annál magasabb fokú, a szakiránynak megfelelő képesítése van.
+
+(2)[^16] A közúti forgalomban üzemképtelenné vált járművek – mozgó járműjavító szolgálat, illetőleg országúti segélyszolgálat keretében történő – helyszíni javítását csak olyan személy végezheti, akinek legalább mesterszakmunkás, kisipari mestervizsga, ill. ezekkel egyenértékű végzettsége (a továbbiakban: mestervizsga) vagy a szakiránynak megfelelő szakmunkás képesítése és 5 év szakmai gyakorlata van. Amennyiben a mozgó járműjavító szolgálat, illetőleg országúti segélyszolgálat egy helyszínen egyidőben dolgozó egysége több dolgozóból áll, elegendő, ha az itt említett képesítéssel az egység egy dolgozója rendelkezik.
+
+(3)[^17] A használaton kívüli járművek és fődarabjaik bontása során kinyert, közlekedésbiztonsági szempontból kiemelten fontos alkatrészek minőségellenőrzését a szakiránynak megfelelő autószerelő, karosszérialakatos, autóvillamossági szerelő mestervizsgával, technikusi vagy ennél magasabb képesítéssel rendelkező személy végezheti.
+
+### 4. §
+
+(1)[^18] Járműfenntartó szervezetek szolgáltatásként járműfenntartó tevékenységet abban az esetben végezhetnek, ha a tevékenység szakmai irányítását és ellenőrzését (a továbbiakban: irányítás)
+
+a)[^19] 5 fő járműfenntartó dolgozói létszámig legalább a szakiránynak megfelelő mestervizsgával, illetőleg az 1. számú melléklet 1. pontjában foglalt táblázat 5–23. sorában járműfenntartó tevékenységek esetében a tevékenységhez előírt szakmunkás képesítéssel és két év szakmai gyakorlattal,
+
+b)[^20] 6–20 fő járműfenntartó dolgozói létszámig legalább a szakiránynak megfelelő középfokú képesítéssel és öt év szakmai gyakorlattal,
+
+c)[^21] 20 fő járműfenntartó dolgozói létszám felett a szakiránynak megfelelő felsőfokú képesítéssel és legalább három év szakmai gyakorlattal
+
+rendelkező személy látja el.
+
+(2)[^22] Járműfenntartó szervezetek az általuk üzemeltetett gépjárműveken fenntartási tevékenységet abban az esetben végezhetnek, ha a járműfenntartó tevékenység szakmai irányítását
+
+a)[^23] 15 db-ot meg nem haladó jármű esetében legalább mestervizsgával,
+
+b)[^24] 16–70 db jármű esetében legalább a szakiránynak megfelelő középfokú képesítéssel és öt év szakmai gyakorlattal,
+
+c)[^25] 70 db-nál több jármű esetében a szakiránynak megfelelő felsőfokú szakképesítéssel és legalább három év szakmai gyakorlattal
+
+rendelkező személy látja el.
+
+(3) A közép-, illetőleg felsőfokú képesítéseket a 2. számú melléklet tartalmazza.
+
+(4)[^26] A (2) bekezdésben foglalt rendelkezés nem vonatkozik azokra a járműfenntartó szervezetekre, amelyek kizárólag az általuk üzemeltetett járművek napi gondozását, ápolását és a jármű biztonsági berendezéseit nem érintő kisjavítását végzik. A napi gondozást és az ápolást autószerelő vagy gépjárművezető és karbantartó szakmunkás képesítéssel rendelkező, illetőleg gépjárművezetői munkakörben dolgozó személy, a kisjavítást autószerelő szakképesítéssel rendelkező személy – irányítás nélkül is – elvégezheti.
+
+### 5. §
+
+(1)[^27] Ha a járműfenntartó szervezet mind szolgáltatásként más részére, mind saját részére végez járműfenntartó tevékenységet, [4. § (1) és (2) bekezdés], a szakmai irányítást ellátó személy képesítési szintjének meghatározásánál a járműfenntartó dolgozói létszámot kell figyelembe venni.
+
+(2)[^28] Amennyiben a járműfenntartó szervezet több különböző szakirányú járműfenntartó tevékenységet végez, irányító munkakörben autószerelői, szakirányú képesítéssel rendelkező dolgozót kell alkalmazni. Abban az esetben, ha a szervezet járműszerelői tevékenységet nem végez, az irányító tevékenység ellátásához szükséges képesítés szakirányát annak a szakiránynak az alapulvételével kell meghatározni, melyben a foglalkoztatottak száma a legnagyobb.
+
+### 6. §
+
+(1)[^29] Ha a járműfenntartó szervezeten belül több munkahelyen (műhelyben, telephelyen stb.), illetőleg több műszakban végeznek járműfenntartó tevékenységet, a tevékenység szakmai irányításával és ellenőrzésével – ha az ilyen módon is biztonságosan és elvárható gondossággal ellátható – egy személyt is meg lehet bízni. Ilyen esetben
+
+a)[^30] az irányító munkakört ellátó dolgozó képesítését a közös irányítás alá tartozó munkahelyeken (műhelyekben, telephelyeken stb.) foglalkoztatott járműfenntartó dolgozók összlétszámának, illetőleg az ezekben üzemeltetett járművek darabszámának az összeszámlálásával kell – a 4. § (1) és (2) bekezdésében, valamint az 5. §-ban foglaltak értelemszerű alkalmazásával – megállapítani, és
+
+b)[^31] az egyes munkahelyeken (műhelyekben, telephelyeken stb.) az azok közös irányítását végző dolgozó utasításának átvételére, a munka – járműfenntartást végzők közötti – elosztására és az utasítások szakszerű teljesítésének folyamatos ellenőrzésére legalább szakmunkás képesítéssel rendelkező megbízottat kell kijelölni.
+
+(2)[^32] Ha a közös irányítás alá tartozó munkahelyen (műhelyben, telephelyen stb.) foglalkoztatott járműfenntartó dolgozók műszakonkénti létszáma, illetőleg az üzemeltetett járművek darabszáma a 4. § (1) és (2) bekezdésének b), illetőleg c) pontjában meghatározottak szerinti, a megbízottnak legalább a szakiránynak megfelelő mestervizsgával, illetőleg középfokú képesítéssel kell rendelkeznie.
+
+### 7. §[^33]
+
+Egyszemélyes járműfenntartó szervezet esetében
+
+a)[^34] a járműszerelő, a gépjármű-villamossági javító és a karosszériajavító tevékenységek gyakorlásához legalább mestervizsga,
+
+b)[^35] az 1. számú melléklet 1. pontjában foglalt táblázat 5–23. sorában járműfenntartó tevékenységek gyakorlásához legalább az előírt képesítés és két év szakmai gyakorlat,
+
+c)[^36] az 1. számú melléklet 1. pontjában foglalt táblázat 15–19. sorában meghatározott járműfenntartó tevékenység gyakorlásához legalább autószerelő vagy autóvillamossági szerelő mestervizsga
+
+szükséges.
+
+## A gépjárműfenntartó tevékenység dologi feltételei
+
+### 8. §[^37]
+
+A járműfenntartó tevékenység végzéséhez szükséges dologi (létesítmény, berendezés, eszköz stb.) feltételeket a tevékenységre vonatkozó műszaki előírásokat és a tevékenység végzésével kapcsolatos tanúsítási kötelezettségeket a 3. számú melléklet tartalmazza.
+
+### 9. §
+
+(1)[^38] Olyan járműfenntartó tevékenységet, amelynek elvégzéséhez – a (2) bekezdésben meghatározott feltételek esetén – a járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályait megállapító 5. számú melléklet, illetőleg más jogszabály a javított szerkezeti rész műszeres beállítását (bemérését) kötelezően előírja – a (4) bekezdésben foglalt kivétellel – csak az végezhet, aki a beállításhoz (beméréshez) szükséges berendezéssel (műszerrel) és a beállításhoz szükséges szakmai ismeretekkel rendelkezik.
+
+(2)[^39] Az 5. számú mellékletben meghatározott műszeres vizsgálatokat (beméréseket) a következő esetekben és módon kell elvégezni:
+
+a) abban az esetben, ha a gyártó a jármű karbantartási utasításában azt előírta, az abban foglalt technológiai előírások betartásával és eszközökkel,
+
+b) diagnosztikai ellenőrzési, beszabályozási műveletek végzésekor, az ellenőrzött, illetőleg a beszabályozás által megváltoztatott (befolyásolt) műszaki jellemzőkre és tulajdonságokra vonatkozóan, továbbá
+
+c) az 5. számú melléklet táblázatában meghatározott munkafolyamatot követően, a javítási művelet által megváltoztatott (befolyásolt) műszaki jellemzőkre és tulajdonságokra vonatkozóan.
+
+(3)[^40] Az (1) bekezdésben említett berendezés (műszer) hiányában a járműfenntartó tevékenységet végző szervezet a beállítást (bemérést) más – feltétellel rendelkező – szervezettel elvégeztetheti és a gépjárművet a megbízónak beállítást (bemérést) ténylegesen elvégző által kiállított tanúsítvánnyal együtt adhatja át.
+
+(4)[^41] Az (1) bekezdésben foglalt rendelkezés nem vonatkozik a jármű üzemképtelenségét megszüntető kisjavításokra és a közúti forgalomban üzemképtelenné vált járművek helyszínen történő javítására. A műszeres beállítást (bemérést) azonban ezekben az esetekben is haladéktalanul pótolni kell és erre – szolgáltatás jellegű javítás esetében – az üzembentartó figyelmét a jármű átadásával egyidejűleg – írásban – fel kell hívni.
+
+### 10. §
+
+(1)[^42] A járműfenntartó tevékenység elvégzését
+
+a) szolgáltatásként végzett fenntartó tevékenységnél számlán, vagy a számlához mellékelt egyéb bizonylattal,
+
+b)[^43] saját üzemeltetésű járművekkel kapcsolatos fenntartó tevékenység esetében az üzemeltető szervezetnél vezetett üzemi (saját belső) nyilvántartásban,
+
+c)[^44] az 1. számú melléklet 2.5. pontjában meghatározott gázbiztonsági szemle esetében a 4. számú melléklet szerinti ,,TANÚSÍTÁS'' kiállításával,
+
+d)[^45] a járműbontó tevékenység esetén a hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) szerinti bontási átvételi igazolás kiadásával a Korm. rendelet hatálya alá nem tartozó járművek esetében lehet tanúsítani, a Korm. rendelet hatálya alá tartozó járművekre vonatkozóan pedig
+
+tanúsítani kell.
+
+(2)[^46] Az (1) bekezdés a) és b) pontjában említett tanúsításnak tartalmaznia kell:
+
+a)[^47] a jármű kilométerszámlálójának állását,
+
+b) az elvégzett munka rövid közérthető leírását,
+
+c) a munka elvégzéséhez felhasznált fődarabok, részegységek, alkatrészek és anyagok felsorolását,
+
+d) a 3. számú mellékletben meghatározott egyéb adatokat és azt, hogy
+
+e) az elvégzett munka megfelelő, a felhasznált fődarab, részegység, alkatrész és anyag rendeltetésszerű használatra alkalmas.
+
+(3)[^48] A (2) bekezdés e) pontjában meghatározott minőségtanúsítás alapjául szolgáló mérések csak a mérési feladat elvégzésére alkalmas, a járműfenntartó tevékenységhez alkalmazható egyes járművizsgáló berendezések (műszerek) méréstechnikai jellemzőit is tartalmazó 6. számú mellékletben meghatározott követelményeknek megfelelő, a gyártó előírásai szerint karbantartott berendezéssel (műszerrel) végezhetők.
+
+(4)[^49] A járműfenntartó tevékenység során a közlekedésbiztonsági és környezetvédelmi szempontból kiemelkedően fontos követelmények ellenőrzésére a 7. számú mellékletben felsorolt berendezéseket (műszereket) – a (3) bekezdésben meghatározott követelményen túl – csak akkor szabad alkalmazni, ha a kalibrálásuk óta a mellékletben feltüntetettnél nagyobb időtartam nem telt el. A kalibrálást a feljogosított kalibráló laboratóriumok jóváhagyott technológiája szerint kell elvégezni, figyelembe véve a berendezés (műszer) gyártójának előírásait is.
+
+(5)[^50] A tanúsítás elmulasztásáért, valamint valótlan adatok tanúsításáért a tanúsításra kötelezett vonható felelősségre.
+
+(6)[^51]
+
+(7)[^52]
+
+(8)[^53]
+
+## Bejelentés, a tevékenység ellenőrzése
+
+### 11. §[^54]
+
+(1) A járműfenntartó tevékenység végzésére irányuló szándékot be kell jelenteni, amely bejelentésnek tartalmaznia kell
+
+a) a bejelentő nevét, székhelyét és a tevékenységgel érintett telephelyének címét – kivéve, ha az 1. számú melléklet 1. pontjában foglalt táblázat 14. sora szerinti tevékenységet változó helyszínen kívánják végezni –, elektronikus és telefonos elérhetőségét,
+
+b) telephelyenként az ott folytatni kívánt járműfenntartó tevékenységet az 1. számú melléklet 1. pontjában foglalt táblázat megfelelő sorát megjelölve,
+
+c) azt, hogy a járműfenntartó tevékenységet szolgáltatásként, saját üzemeltetésű járművek tekintetében vagy mindkét vonatkozásban végzi-e,
+
+d) – az 1. számú melléklet 1. pontjában foglalt táblázat 15–19. sorában meghatározott járműfenntartó tevékenység végzésére irányuló szándék esetén – az e rendeletben megállapított feltételeknek való megfelelőséget igazoló – a műszaki biztonsági hatóság által kiadott – szakvéleményt.
+
+(2) A regisztrált bontó-hulladékkezelő tevékenység a közlekedési hatóság – erre irányuló kérelem alapján kiadott – engedélye alapján végezhető. A kérelemnek az alábbiakat kell tartalmaznia:
+
+a) az (1) bekezdés a) pontjában meghatározott adatokat, valamint
+
+b) a környezetvédelmi hatóság által kiadott veszélyeshulladék-kezelésre feljogosító engedély számát.
+
+(3) A járműfenntartó szervezet köteles haladéktalanul, de legkésőbb 8 napon belül bejelenteni a közlekedési hatóság részére – az időtartam megjelölésével – a tevékenység szüneteltetését, a tevékenység megszüntetését, valamint az (1) és (2) bekezdésben meghatározott adatok tekintetében bekövetkezett változásokat.
+
+(4) A közlekedési hatóság a regisztrált bontó-hulladékkelezői tevékenység tekintetében kiadott engedélyt visszavonja, ha
+
+a) az engedély kiadásának feltételei már nem állnak fenn, és az engedélyes a környezetvédelmi hatóság által kiadott veszélyeshulladék-kezelésre feljogosító engedélyének meghosszabbítását nem kezdeményezte,
+
+b) az engedélyes azt kéri,
+
+c) a (3) bekezdésben előírt bejelentési kötelezettségének az engedélyes nem tesz eleget.
+
+### 12. §
+
+(1)[^55] Az e rendeletben foglaltak betartását a közlekedési hatóság ellenőrzi, az 1. számú melléklet 1. pontjában foglalt táblázat 22. sorában meghatározott tevékenységet végzőket érintően a környezetvédelmi hatóság bevonásával.
+
+(2)[^56]
+
+(3)[^57]
+
+## Záró rendelkezések
+
+### 13. §
+
+(1) Ez a rendelet 1991. január hó 1. napján lép hatályba, azonban
+
+a) 3. §-ának (2) bekezdését az országúti segélyszolgálatra vonatkozóan, a 4. §-a (1) bekezdését, valamint (2) bekezdésének b) és c) pontjait 1993. január 1. napjától;
+
+b) 4. §-a (2) bekezdésének a) pontját 1994. január 1. napjától, illetőleg
+
+c) a 9. §-a (1) bekezdését — a fékerőmérő berendezést kivéve — 1993. január 1. napjától; a fékerőmérő berendezés tekintetében 1995. január 1. napjától
+
+kezdődően kell alkalmazni.
+
+(2)[^58] A rendeletben foglalt járműfenntartó tevékenység személyi és dologi feltételeinek megtartása mellett a tevékenységet végző járműfenntartó szervezeteknek figyelemmel kell lenniük a külön jogszabályokban meghatározott, közegészségügyi, környezetvédelmi, balesetvédelmi, munka- és tűzvédelmi és más műszaki jellegű előírásokra is.
+
+### 14. §[^59]
+
+(1)[^60]
+
+(1a)[^61]
+
+(2)[^62] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv;
+
+b) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv 5. cikkének (3) bekezdése szerint kiadott bontási igazolások minimumkövetelményeiről szóló, 2002. február 19-i 2002/151/EK bizottsági határozat.
+
+## 1. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^63]
+
+**A járműfenntartó tevékenységek és az azok önálló végzéséhez szükséges szakképesítések**
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1** | **Tevékenység megnevezése** | **Előírt képesítés** | **Megjegyzés** |
+| **2** | járműszerelői tevékenység | autószerelő szakmunkás képesítés, alternatív járműhajtási technikus, autógyártó, gépjármű-mechatronikai technikus, gépjármű mechatronikus, járműipari karbantartó technikus, mechatronikai technikus, mezőgazdasági gépésztechnikus, honvéd kadét – gépjármű mechatronikai technikus, honvéd altiszt – műszakigép-szerelő, páncélos- és gépjárműszerelő | Kizárólag motorkerékpár szerelése motorkerékpár szerelő képesítéssel is végezhető. |
+| **3** | jármű-villamossági javító tevékenység | autóvillamossági szerelő, autóelektronikai műszerész képesítés, hibrid és elektromos gépjárművek szerelője villamos ismeretekkel szakképesítés | Kizárólag motorkerékpárok jármű-villamossági javító tevékenysége motorkerékpár szerelő képesítéssel is végezhető. |
+| **4** | karosszériajavító tevékenység | karosszérialakatos szakmunkás képesítés, járműkarosszéria-előkészítő képesítés, karosszéria-lakatos képesítés |  |
+| **5** | jármű ápolása | autószerelő, motorkerékpár-szerelő vagy gépjárművezető és karbantartó szakmunkás képesítés | A napi gondozás állásvállalásra jogosító gépjárművezetői engedéllyel is végezhető. |
+| **6** | gumiabroncs-javító tevékenység | gumiabroncs-javító szakmunkás képesítés, továbbá gumijavító, autószerelő vagy karosszérialakatos szakmunkás képesítés gumiabroncs-javító tanfolyammal, gumiabroncs-javító és kerékkiegyensúlyozó szakképesítés | Kizárólag motorkerékpárok gumiabroncs-javító tevékenysége motorkerékpár szerelő képesítéssel is végezhető. |
+| **7** | járműfényező tevékenység | fényező-mázoló szakmunkás képesítés, fémszerkezetfelület-bevonó képesítés, járműfényező képesítés, járműkarosszéria-előkészítő, felületbevonó képesítés |  |
+| **8** | hűtőjavító tevékenység | bádogos, lakatos, autószerelő vagy karosszérialakatos szakmunkás képesítés |  |
+| **9** | járműkárpitos tevékenység | kárpitos szakmunkás képesítés |  |
+| **10** | járműrugó-javító tevékenység | kovács szakmunkás képesítés |  |
+| **11** | akkumulátorjavító tevékenység | akkumulátorjavító, autóvillamossági szerelő vagy autóelektronikai műszerész szakmunkás képesítés |  |
+| **12** | gumiszerelő, kerékkiegyensúlyozó tevékenység | autószerelő, motorkerékpár-szerelő, karosszérialakatos, gumijavító vagy gépjárművezető- és karbantartó szakmunkás képesítés |  |
+| **13** | alváz- és üregvédelem | autószerelő vagy karosszérialakatos szakmunkás képesítés |  |
+| **14** | járműtisztítás, járműpolírozás | nem szükséges hozzá képesítés |  |
+| **15** | gépjármű gáztartályának beszerelése, kiszerelése és szemrevételezéses vizsgálata | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **16** | gépjármű gázüzemanyag-ellátó berendezésének beszerelése, kiszerelése, vizsgálata, javítása, karbantartása és beszabályozása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **17** | gépjármű gázüzemanyag-ellátó berendezésének felújítása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **18** | gépjármű gázüzemanyag-ellátó berendezésének bontása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **19** | gépjármű gázüzemanyag-ellátó berendezéseinek bontás utáni minőség-ellenőrzése | autószerelő- vagy autóvillamossági szerelő mestervizsga, illetve középfokú vagy ennél magasabb szakirányú képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **20** | gázüzemű gépjárművön végzett, az 1–4. és a 6. sorban meghatározott tevékenység | a tevékenységre előírt képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **21** | gázbiztonsági szemle | autószerelő vagy autóvillamossági szerelő mestervizsga, középfokú, illetve ennél magasabb szakirányú képesítés autógáz-biztonsági vizsgával kiegészítve |  |
+| **22** | járműbontó tevékenység | autószerelő vagy autóvillamossági szerelő, karosszérialakatos szakmunkás, az alkatrészek minőség-ellenőrzésére a 3. § (3) bekezdésében meghatározott képesítés |  |
+| **23** | járműbontó tevékenység irányítása | középfokú környezetvédelmi szakképesítés vagy környezetvédelmi megbízott középfokú képesítés |  |
+
+2\. Az 1. pontban foglalt táblázat alkalmazása tekintetében:
+
+2.1. járműszerelői tevékenység:
+
+2.1.1. járművek napi vizsgálata, időszakos műszaki szemléje és garanciális átvizsgálása,
+
+2.1.2. jármű kisjavítása, futójavítása, jármű fődarab és karosszéria cseréje,
+
+2.1.3. járművek, jármű fődarabok és részegységek diagnosztikai ellenőrzése, beszabályozása,
+
+2.1.4. járművek, jármű fődarabok, részegységek javítása és – az elektromos részegységek kivételével – felújítása,
+
+2.1.5. járművek egyedi előállítása, összeépítése és átalakítása,
+
+2.1.6. járművek bontása,
+
+2.2. jármű-villamossági javító tevékenység:
+
+2.2.1. járművek elektromos kisjavítása, futójavítása,
+
+2.2.2. járművek elektromos berendezésének, elektronikus rendszereinek, diagnosztikai ellenőrzése, beszabályozása,
+
+2.2.3. járművek elektromos részegységeinek, műszereinek javítása, felújítása, illetve elektronikus elemeinek beépítése, javítása,
+
+2.2.4. járművön elektromos jellegű vagy azzal összefüggő átalakítási munkák végzése,
+
+2.2.5. jármű-villamossági berendezések bontása,
+
+2.3. karosszériajavító tevékenység:
+
+2.3.1. jármű karosszériák és tartozékaik kisjavítása, futójavítása, karosszéria elemek, valamint teljes karosszéria cseréje,
+
+2.3.2. karosszéria elemek és tartozékok felújítása,
+
+2.3.3. jármű felépítmények összeépítése és átalakítása,
+
+2.3.4. karosszériák és tartozékaik bontása,
+
+2.4. jármű ápolása:
+
+2.4.1. kenési műveletek,
+
+2.4.2. kenő- és segédanyagok cseréje,
+
+2.4.3. kenő- és segédanyagok szintjének ellenőrzése és utántöltése,
+
+2.5. gázbiztonsági szemle, amely kiterjed a gázüzemanyag-ellátó berendezés egyes részegységei
+
+2.5.1. azonosítására, valamint a gépjárműhöz engedélyezettel történő megegyezőség vizsgálatára,
+
+2.5.2. gépjárművön való elhelyezésének és rögzítésének a beszerelési utasítás, valamint megfelelőség vizsgálatára,
+
+2.5.3. csatlakozási pontjai és szerelvényei sérülés- és szivárgásmentességének vizsgálatára, működési próbájára,
+
+2.6. járműbontó tevékenység:
+
+2.6.1. a hulladékká vált járműveknek, ezek alkatrészeinek és anyagainak hulladékként történő előkezelése,
+
+2.6.2. a hulladékká vált jármű alvázszámának, illetve a számot tartalmazó karosszérialemez vagy alvázrész megsemmisítése,
+
+2.6.3. a hulladékká vált gépjárműből alkatrészek és tartozékok újrahasználat céljára történő kiszerelése, kinyerése,
+
+2.6.4. a gépjárműből kiszerelt, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendelet szerint meghatározott pótalkatrészek és tartozékok minőség-ellenőrzése.
+
+## 2. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^64]
+
+**A járműfenntartó tevékenység irányításához szükséges közép- és felsőfokú szakképesítések**
+
+1\. Autószerelői szakiránynak megfelelő
+
+1.1. középfokú képesítés:
+
+1.1.1. közlekedésgépészeti, járműjavítási, járműgyártási, motoripari, autóipari, alternatív járműhajtási, gépjármű-mechatronikai, járműipari karbantartó, mechatronikai, honvéd kadét, gépjármű mechatronikai, mezőgazdasági gépész, általános gépészeti technikumi végzettség,
+
+1.1.2. közlekedésgépészeti szakközépiskolai végzettség,
+
+1.1.3. autóipari művezetői képesítés,
+
+1.1.4. hibrid és tisztán elektromos hajtásrendszerek javítása esetében hibrid és elektromos gépjárművek szerelője villamos ismeretekkel szakképesítés, alternatív járműhajtási, elektromos gép- és készülékszerelő technikusi képesítés vagy az előírt képesítések egyike és a javítandó hajtásrendszerrel szerelt jármű gyártója által előírt képesítés.
+
+1.2. felsőfokú képesítés:
+
+1.2.1. okleveles gépészmérnöki, okleveles közlekedésmérnöki, okleveles közlekedés-gépészmérnöki, okleveles mezőgazdasági gépészmérnöki, okleveles járműmérnök képesítés,
+
+1.2.2. gépész-üzemmérnöki, közlekedésgépész-üzemmérnöki, általános gépész-üzemmérnöki, gépjavítástechnológiai üzemmérnöki mezőgazdasági gépész-üzemmérnöki képesítés, jármű-üzemmérnök,
+
+1.2.3. felsőfokú technikumon szerzett gépjárműközlekedési szaktechnikusi, gépész szaktechnikusi, mezőgazdasági gépész szaktechnikusi képesítés,
+
+1.2.4. mechatronikai mérnök,
+
+1.2.5. elektromos járműhajtás szakmérnök,
+
+1.2.6. hibrid és tisztán elektromos hajtásrendszerek javítása esetében elektromos járműhajtás szakmérnök, okleveles villamosmérnöki, villamos üzemmérnöki képesítés vagy az előírt képesítések egyike és a javítandó hajtásrendszerrel szerelt jármű gyártója által előírt képesítés.
+
+2\. Autóvillamossági javító szakiránynak megfelelő
+
+2.1. felsőfokú képesítés:
+
+2.1.1. okleveles közlekedés gépészmérnöki, okleveles járműmérnöki, okleveles közlekedésmérnöki, okleveles villamosmérnöki, okleveles mezőgazdasági gépészmérnöki, villamos és közlekedés üzemmérnöki, jármű-üzemmérnöki képesítés,
+
+2.1.2. a Felsőfokú Gépjárműközlekedési Technikum Műszaki Üzemeltetési szakon, valamint a Felsőfokú Villamosgépipari Technikum villamosgépek és készülékek szakán szerzett szaktechnikusi képesítés,
+
+2.1.3. mechatronikai mérnök képesítés,
+
+2.2. középfokú képesítés: a Közlekedésgépészeti Technikumon és a Közlekedésgépészeti Szakközépiskola gépjármű technikai szakán szerzett – motorkerékpárok járműfenntartói tevékenysége esetében motorkerékpár szerelő – technikusi, középfokú hibrid és elektromos gépjárművek szerelője villamos ismeretekkel szakképesítés.
+
+3\. A karosszériajavító és motorkerékpárváz-javító szakiránynak megfelelő
+
+3.1. középfokú képesítés: azonos az 1.1. pontban foglaltakkal,
+
+3.2. felsőfokú képesítés: azonos az 1.2. pontban foglaltakkal.
+
+4\. Motorkerékpár-szerelő szakiránynak megfelelő képesítés:
+
+4.1. a kizárólag motorkerékpár szerelését és autóvillamossági javítását végző járműfenntartó esetében az 1. és 2. pontban foglaltakon kívül a motorkerékpár-szerelő közép- és felsőfokú képesítés.
+
+## 3. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez
+
+**A járműfenntartó tevékenységek végzéséhez szükséges létesítményi feltételek, műszaki berendezések (eszközök, felszerelések), műszaki előírások és tanúsítási kötelezettségek**[^65]
+
+E melléklet alkalmazásában műszaki előírás: a közlekedési hatóságok és más feljogosított szervek, a járműnek, a jármű részegységének, alkatrészének, kenő- és segédanyagának, a karbantartó berendezéseknek, eszközöknek gyártója, valamint kutató-fejlesztő intézmény által kiadott kezelési, karbantartási, javítási, technológiai utasítása, ilyenek hiányában a járműfenntartó szervezet technológiai utasítása.
+
+Az 1. számú mellékletben felsorolt tevékenységek és e mellékletben meghatározott dologi feltételek egymáshoz nem címszó és sorszám szerint, hanem értelemszerűen kapcsolódnak.[^66]
+
+1.[^67] *Jármű ápolása* (kenés, zsírozás, olaj, hűtő- és fékfolyadék szintjének ellenőrzése, utántöltése és cseréje).
+
+A tevékenység végzésének feltétele:
+
+*a)* olajoknak és zsíroknak ellenálló padló- és falburkolattal ellátott pormentes helyiség, kivéve a helyszíni ápolást,
+
+*b)*[^68] a járművek kenést igénylő részeihez hozzáférést biztosító emelőberendezés vagy gépkocsik esetében szerelőakna, kivéve a helyszíni ápolást, ha a műveletet szakszerűen és a balesetveszély növekedése nélkül el lehet végezni,
+
+*c)*[^69] zsírzóprés és az ellátni kívánt járműtípus konstrukciójának megfelelő olajleszívó és olajtöltő készülék,
+
+*d)* a kenőanyagok, hűtő- és fékfolyadékok, valamint a *c)* pontban említett eszközök szennyeződésmentes elhelyezését biztosító, valamint a használt kenő- és segédanyagok elhelyezésére szolgáló tároló,
+
+*e)*[^70] az ellátni kívánt járműtípushoz alkalmazandó kenőanyagok, hűtő- és fékfolyadékok fajtáira, minőségére, minőségi jelére, cseréjére és felhasználandó mennyiségére vonatkozó műszaki előírások.
+
+A tanúsítási kötelezettség az elvégzett munka, a felhasznált kenőanyagok, hűtő- és fékfolyadékok mennyiségének, minőségének és minőségi jelének a leírására terjed ki.
+
+2.[^71] *Járművek napi vizsgálata, időszakos műszaki szemléje, és garanciális átvizsgálása*
+
+A tevékenység végzésének feltétele:
+
+*a)* hidegpadlós, a *c)* pontban említett vizsgáló, bemérő eszközök és berendezések szakszerű elhelyezésére (telepítésére) alkalmas helyiség,
+
+*b)*[^72] járművek alsó részeinek átvizsgálásához hozzáférést biztosító emelő berendezés vagy gépkocsik esetében szerelőakna,
+
+*c)*[^73] az ellátni kívánt járműtípusok időszakos műszaki szemléjéhez és garanciális átvizsgálásához szükséges vizsgáló és bemérő berendezések, eszközök és célszerszámok,
+
+*d)*[^74] az ellátni kívánt járműtípusra vonatkozó karbantartási műveletek leírását és esedékességét, az egyes szerkezeti részek bemérési, bellítási adatait, valamint a beméréshez, beállításhoz szükséges eszközök, berendezések és célszerszámok megjelölését és használatát tartalmazó műszaki előírások.
+
+A tanúsítási kötelezettség az elvégzett munka jellegének (napi vizsgálat, időszakos műszaki szemle, garanciális átvizsgálás), a szemle előírás megjelölésének, a kicserélt részegységeknek és alkatrészeknek, valamint a bemérési, beállítási adatoknak a leírására terjed ki.
+
+3.[^75] *Járművek diagnosztikai ellenőrzése, beszabályozása*
+
+A tevékenység végzésének feltétele:
+
+*a)*[^76] zárt, pormentes, hidegpadlós, a vizsgáló, bemérő, beállító berendezések szakszerű elhelyezésére (telepítésére) alkalmas helyiség, kivéve a helyszíni diagnosztikai ellenőrzést és beállítást, ha a műveletet szakszerűen el lehet végezni. Ha a helyiségben futóműbeállítást vagy fényszóró beállítást végeznek, a padozat vagy emelő megfelelő kiképzésével biztosítani kell a jármű kerekeinek vízszintes síkban való felfekvését és – fényszóró beállítás esetén – a fényszóróellenőrző berendezés optikai tengelyének ezzel párhuzamos síkban való elhelyezkedését; futóműbeállítás esetén a vízszintestől való eltérés hosszirányban legfeljebb 5 szögperc, keresztirányban legfeljebb 2 szögperc, fényszóróbeállítás esetén a párhuzamosságtól eltérés legfeljebb 3 szögperc lehet,
+
+*b)*[^77] a jármű alsó részeihez hozáférhetőséget igénylő vizsgálatok és beállítások (beszabályozások) végzése esetén emelő berendezés vagy gépkocsik esetében szerelőakna,
+
+*c)*[^78] az ellátni kívánt járműtípusok diagnosztikai ellenőrzéséhez és beszabályozásához szükséges vizsgáló és bemérő berendezések, eszközök és célszerszámok,
+
+*d)*[^79] a vizsgáló (bemérő) és beállító berendezések szakszerű alkalmazását, az ellátni kívánt típusú járművek ellenőrzési, beállítási (beszabályozási) adatait és a hozzájuk tartozó tűréshatárokat tartalmazó műszaki előírások.
+
+A tanúsítási kötelezettség az elvégzett munka, a felhasznált alkatrész és anyag, valamint a bemérési, beállítási adatok leírására (megjelölésére) terjed ki.
+
+4.[^80] *Járművek kisjavítása, futójavítása*
+
+A tevékenység végzésének feltétele:
+
+*a)*[^81] hidegpadlós, a járműhöz a hozzáférhetőséget biztosító helyiség, kivéve a helyszíni üzemzavarelhárítást, kisjavítást,
+
+*b)*[^82] a járművek alsó részeihez hozzáférést biztosító gépkocsik esetében szerelőakna vagy emelőberendezés, kivéve a helyszíni üzemzavar elhárítást, kisjavítást, ha a műveletet szakszerűen és a balesetveszély növekedése nékül el lehet végezni,
+
+*c)*[^83] az ellátni kívánt járműtípus javításához és a végezni kívánt műveletekhez műszaki előírásban vagy szabványban megjelölt célszerszámok, bemérő, beállító, beszabályozó berendezések,
+
+*d)*[^84] az ellátni kívánt járműtípus javításához és a végezni kívánt művelethez szükséges csavarmeghúzási, beállítási, beszabályozási adatokat (előírásokat), az ezek tekintetében irnyadó tűréshatárokat, speciális szerelési előírásokat, az előírt speciális célszerszámok alkalmazását és az alkatrészek, részegységek cseréjéhez szükséges azonosító adatokat tartalmazó műszaki előírások.
+
+A tanúsítási kötelezettség az elvégzett munka, a kicserélt részegységek és alkatrészek, valamint a műszeres bemérési, beállítási adatok leírására terjed ki.
+
+5.[^85] *Járművek főjavítása, középjavítása*
+
+A tevékenység végzésének feltétele:
+
+*a)*[^86] hidegpadlós, a járműhöz a *c)* pontban említett eszközökkel való hozzáférést biztosító helyiség,
+
+*b)*[^87] a járművek alsó részeihez a hozzéférést biztosító gépkocsik esetében szerelőakna vagy emelőberendezés,
+
+*c)* az ellátni kívánt járműtípus fődarabjainak (pl. motor, differenciálmű) ki- és beemeléséhez szükséges eszközök,
+
+*d)*[^88] az ellátni kívánt járműtípus javításához és a végezni kívánt művelethez szabványban vagy műszaki előírásban megjelölt eszközök, célszerszámok, bemérő, beállító, beszabályozó berendezések,
+
+*e)*[^89] az ellátni kívánt járműtípus javításához és a végezni kívánt művelethez szükséges, a hibafelvételt, a felújítás folyamatát, a szükséges bemérési, csavarmeghúzási, beállítási, beszabályozási adatokat (előírásokat), az ezek tekintetében irányadó tűréshatárokat, speciális szerelési előírásokat, az előírt speciális célszerszámok alkalmazását és a fődarabok, részegységek cseréjéhez szükséges adatokat tartalmazó műszaki előírások.
+
+A tanúsítási kötelezettség az elvégzett munka, a kicserélt fődarabok, részegységek és alkatrészek, a műszeres bemérési, beállítási adatok leírására (megjelölésére) terjed ki.
+
+6.[^90] *Jármű fődarabok, részegységek felújítása*
+
+A tevékenység végzésének feltétele:
+
+*a)*[^91] a jármű fődarabok és részegységek szétszerelésére és tisztítására alkalmas fedett terület, továbbá a felújítás elvégzéséhez a *c)* pontban említett eszközök elhelyezésére, valamint a fődarabok és a részegységek összeszerelésére alkamas hidegpadlós, pormentes, zárt helyiség,
+
+*b)* a fődarabok, részegységek és alkatrészeik bontás utáni tisztítására (kézi vagy gépi mosására) alkalmas berendezés,
+
+*c)*[^92] az ellátni kívánt típusú jármű fődarabok és részegységek felújítására műszaki előírásban vagy szabványban előírt eszközök, gépek, berendezése, célszerszámok,
+
+*d)* a felújítási technológia leírását, a felújítással kapcsolatos bemérési, beállítási, beszabályozási adatokat, előírásokat és az előírt speciális célszerszámok alkalmazását tartalmazó műszaki előírás.
+
+A tanúsítási kötelezettség az elvégzett munka, beállítási adatok és a kicserélt alkatrészek leírására terjed ki.
+
+7.[^93] *Karosszériajavítás, motorkerékpárváz-javítás*
+
+A tevékenység végzésének feltétele:
+
+*a)* hidegpadlós, a javításhoz használt eszközök és berendezések elhelyezését,valamint a kocsiszekrényhez a minden oldali hozzáférést biztosító helyiség, kivéve a helyszíni javítást,ha a művelet szakszerűen elvégezhető,
+
+*b)*[^94] a kocsiszekrény, motorkerékpárváz különböző részeihez a hozzáférést lehetővé tevő eszközök (emelő, forgatóberendezés stb.), kivéve a helyszíni javítást, ha a művelet szakszerűen és a balesetveszély növekedése nélkül elvégezhető,
+
+*c)*[^95] az ellátni kívánt járműtípus menettulajdonságait befolyásoló és a szerkezeti részek elhelyezkedését meghatározó méretek eredeti állapot szerinti helyreállítását biztosító eszközök, célszerszámok és mérőberendezések,
+
+*d)*[^96] az ellátni kívánt járműtípusra vonatkozó futóműbeállítási adatokat és az ezzel kapcsolatos tűréshatárokat tartalmazó műszaki előírás.
+
+A tanúsítási kötelezettség az elvégzett munka, valamint a jármű menettulajdonságainak alakulása és az alapvető szerkezeti részek elhelyezkedése szempontjából fontos – javítás utáni – méretek megfelelőségének igazolására terjed ki.
+
+8\. *Fényezés*
+
+A tevékenység végzésének feltétele:
+
+*a)* egy hidegpadlós, a fényezési munka előkészítésére (zsírtalanítás, kittelés, csiszolás stb.) szolgáló és további egy hidegpadlós, pormentes, festékszórásra szolgáló helyiség (fényezőfülke),
+
+*b)* a fényezéshez szükséges anyagok és eszközök szennyeződésmentes elhelyezésére alkalmas tároló,
+
+*c)* a padozaton állva el nem érhető karosszériafelületek hozzáférhetőségét lehetővé tevő berendezés (állvány, lift stb.),
+
+*d)*[^97] festékszóró berendezés, az előkészítési, fényezési technológiai műveleteknek megfelelő eszközök, berendezések,
+
+*e)* a fényezési művelet előkészítéséhez és a fényezéshez (festékszóráshoz) használt anyagok fajtáit, minőségét, minőségi jelét és mindezek használatának módját tartalmazó műszaki előírás,
+
+A tanúsítási kötelezettség az elvégzett munka leírására terjed ki.
+
+9\. *Alváz és üregvédelem*
+
+A tevékenység végzésének feltétele:
+
+*a)* a korróziógátló anyagoknak ellenálló burkolatú hidegpadlós, valamint a szennyeződött mosóvíz elvezetését biztosító elfolyóval és ülepítővel ellátott helyiség,
+
+*b)*[^98] a járművek korrózióvédelmet igénylő részeihez a hozzéférést lehetővé tevő – korróziógátló anyagoknak ellenálló burkolattal ellátott – emelőberendezés vagy szerelőakna,
+
+*c)*[^99] a járművek korrózióvédelmet megelőző megtisztításához szükséges mosóberendezés,
+
+*d)* a korróziógátló anyagok felhordására alkalmas szóróberendezések,
+
+*e)* a korróziógátló anyagok fajtáit, minőségi jellemzőit, valamint azok használatának módját, valamint a jármű üregvédelmére kialakított nyílások helyét, illetőleg pótlólagos létesítésének előírásait tartalmazó műszaki előírás,
+
+*f)* az alváz- és üregvédelemhez szükséges anyagok és eszközök elhelyezésére alkalmas tároló.
+
+A tanúsítási kötelezettség az elvégzett munka, valamint a felhasznált korróziógátló anyag minőségének és mennyiségének a leírására terjed ki.
+
+10\. *Gumiabroncsok javítása*
+
+A tevékenység feltétele:
+
+*a)* pormentes padlóburkolatú, a *b)* pontban említett berendezések szakszerű elhelyezésére (telepítésére) alkalmas helyiség,
+
+*b)* a javítani kívánt típusú gumiabroncsok javítására és tárolására műszaki előírásban vagy szabványban előírt eszközök, berendezések, célszerszámok,
+
+*c)* a javításhoz használt anyagok alkalmazási módját és korlátait, az előírt speciáis eszközök, berendezések, célszerszámok és bemérő eszközök alkalmazását tartalmazó műszaki előírás.
+
+A tanúsítási kötelezettség az elvégzett munka leírására terjed ki.
+
+11.[^100] *Járművek bontása (járműbontó tevékenység)*
+
+11.1.[^101] A tevékenység végzésének feltétele:
+
+*a)* hidegpadlós burkolattal ellátott:
+
+– fedett tér a bontás és a szennyezés-mentesítés elvégzéséhez, a bontáshoz szükséges szerszámok, egyéb eszközök elhelyezéséhez, amely az esetleg elfolyó üzemeltetési folyadékok elvezetését biztosító elfolyóval és előírásos ülepítővel rendelkezik,
+
+–[^102] fedett tér, amely a kiszerelt jármű fődarabok, részegységek és alkatrészek tisztítására szolgál,
+
+– helyiség (raktár) a bontásból kinyert, továbbhasznosítható fődarabok, részegységek és alkatrészek tárolására, valamint
+
+–[^103] üzemi gyűjtőhely a hulladékká vált járművek bontást megelőző tárolására, valamint üzemi gyűjtőhely, helyiség (raktár) a járműfenntartásban tovább nem hasznosítható bontott anyagok, alkatrészek és hulladékok fajtánkénti, a további hasznosítás feltételeinek megfelelő elkülönített tárolására;
+
+*b)*[^104] a bontási munkák elvégzéséhez szükséges emelőberendezések, a bontani kívánt járműtípusokhoz szükséges célszerszámok, a bontás révén kinyert fődarabok, részegységek, alkatrészek továbbfelhasználás előtti tisztításához szükséges eszközök, valamint a minősítéshez szabványban és műszaki előírásban meghatározott eszközök, vizsgáló berendezések;
+
+*c)* a járműtípus bontására vonatkozó járműgyártói információk, a újrafelhasználásra szánt fődarabok, részegységek és alkatrészek minősítésére, valamint a bontáshoz használt célszerszámok alkalmazására vonatkozó műszaki előírások;
+
+*d)* az elhasználódott járművekről szóló, az Európai Parlament és a Tanács 2000/53/EK irányelvének I. számú mellékletével összhangban a külön jogszabályban meghatározott környezetvédelmi műszaki feltételek biztosítása;
+
+*e)* a veszélyes hulladékkezelési tevékenységnek megfelelő környezetvédelmi hatósági engedélyek az EWC 16. főcsoportjának 1601 alcsoportjába sorolt (veszélyes) hulladékokra, valamint a 160601*, a 160604, a 160606*, a160801 és a 160807* kódszám alá sorolt (veszélyes) hulladékokra, továbbá a 13. főcsoport 1301, 1302, 1307, és 1308 alcsoportjaiba sorolt olajhulladékok és folyékony üzemanyagok hulladékaira vonatkozóan;
+
+*f)*[^105]
+
+*g)*[^106] a közlekedési hatóság információs rendszerével történő adatcseréhez szükséges eszközök:
+
+a. legalább 1024 Kbit/sec sávszélességű internet kapcsolat,
+
+b. Publikus Internet felől telephelyenként különböző fix IP cím,
+
+c. Internet böngésző program (Firefox 3.X, vagy Internet Explorer 7.X.),
+
+d. Acrobat Reader 8.X.,
+
+e. Számítógép (WinXpHuSp2 prof futtatására alkalmas 1 Gb Ram, 100Gb HDD, 9 pin soros port, 4 db USB 2.0 port, párhuzamos port, DVD olvasó, operációs rendszer és környezete: Windows XP proff HUsp2, JRE1.6_1x, Monitor 17” TFT –1280*1024),
+
+f. 600 dpi lézernyomtató,
+
+g. 1200dpi szkenner,
+
+h. billentyűzet pufferes vonalkód olvasó,
+
+i. digitális fényképezőgép,
+
+j. azonosítás kártyaolvasóval (Java Card 2.2.2.).
+
+Az M1 és N1 kategóriába tartozó járművek bontását a jármű típusához meghatározott bontási információk, valamint az elhasználódott járművekről szóló, az Európai Parlament és a Tanács 2000/53/EK irányelvének I. számú mellékletében meghatározott technológiai előírások alapján kell végezni.
+
+11.2. A tanúsítási kötelezettség kiterjed:
+
+*a)*[^107] az elhasználódott járművekről szóló, az Európai Parlament és a Tanács 2000/53/EK irányelvének hatálya alá tartozó jármű bontásra történő átvételére, a külön jogszabályban meghatározott adatokat tartalmazó ,,Bontási átvételi igazolás'' kiállításával, továbbá
+
+*b)* a bontásból kinyert, újrahasználatra kerülő fődarabok, részegységek, alkatrészek külön jogszabályban[^108] meghatározott minősítési adataira, jellemzőire, továbbá a minősítő vizsgálati kötelezettség alá nem eső fődarabok, részegységek és alkatrészek esetében az azok használhatóságára vonatkozó bontói állásfoglalásra.
+
+12.[^109] Járműtisztítás, járműpolírozás
+
+12.1. A tevékenység végzésének feltétele vízzel vagy elfolyó tisztítószerrel történő tisztítás esetén:
+
+12.1.1. vízsugaraknak ellenálló padló- és falburkolattal, valamint a szennyeződött mosóvíz elvezetésére szolgáló lefolyóval és ülepítővel ellátott zárt vagy félig zárt helyiség és – kizárólag felső mosás esetén – olyan hidegpadlós, lefolyóval és ülepítővel ellátott szabad tér, amelynél a víz idegen területre szóródásának megelőzése biztosított,
+
+12.1.2. alsó mosás esetén a járművek alsó részeihez a hozzáférést biztosító szerelőakna vagy emelőberendezés és gépi alsómosó berendezés,
+
+12.1.3. gépi mosás esetében a mosóberendezéshez szükséges segédberendezések.
+
+13.[^110] *Gázüzemű gépjárművek gázüzemanyag-ellátó berendezésének javítása*
+
+Az 1. számú melléklet 1. pontjában foglalt táblázat 15–19. sorában meghatározott tevékenység végzésének – a vonatkozó 1–11. pontokban meghatározottakon túli – külön feltétele:
+
+*a)* Általános feltételek:
+
+*aa)* a helyiség a ,,C'' tűzveszélyességi osztályra vonatkozó tűzvédelmi követelményeknek feleljen meg;
+
+*ab)* a helyiség légterébe került gázüzemanyag jelzését (gázérzékelő) és eltávolítását (szellőztető berendezés) biztosító berendezéseket kell felszerelni, amelyek feleljenek meg a következő műszaki követelményeknek;
+
+*ac)* a gázérzékelő a javításra kerülő járműben használt gázüzemanyag
+
+– az alsó éghetőségi koncentrációjának 20%-án hallható és látható módon adjon jelzést, és egyidejűleg indítsa a szellőztető berendezést,
+
+– az alsó éghetőségi koncentrációjának 40%-án válassza le a helyiség villamos hálózatát, a robbanásbiztos villamos berendezések kivételével;
+
+*ad)*[^111] 500 m<sup>3</sup> légtérfogat felett, ha a tevékenységet az alapterület 20%-ánál kisebb helyen, a bejárati kapuhoz közel végzik, a helyiségbe nem kell szellőztető berendezést felszerelni, és a villamos berendezések kézi kapacsolással választhatók le a hálózatról. Ilyen esetben a mérésügyi és műszaki biztonsági hatóság egyéb feltételeket is meghatározhat;
+
+*ae)* a szellőztető berendezés biztosítsa a helyiség legalább óránként ötszörös légcseréjét;
+
+*af)* a helyiségben nyílt égésterű tüzelőberendezés nem alkalmazható;
+
+*ag)* szabadba nyíló kapuja legyen;
+
+*ah)* rendelkeznie kell a jármű gáztartálya ürítésére szolgáló berendezéssel;
+
+*ai)* a helyiséget – az egyébként előírton túl – el kell látni helyiségenként további egy-egy db 12 kg-os töltősúlyú porral oltó tűzoltókészülékkel.
+
+*b)* Cseppfolyós gázüzemű gépjárművek gázüzemanyag-ellátó berendezésének javítását végző műhelyre vonatkozó további követelmények:
+
+*ba)* a padozattól mért 0,15 méter magasságban szerelőállásonként legalább egy-egy db egymástól függetlenül működő gázérzékelőt kell felszerelni. A szellőztetés elszívással működjön, az alsó légteret megfelelően átöblítse;
+
+*bb)*[^112] a szerelőakna esetén a padozatától mért 0,15 méter magasságban két db egymástól függetlenül működő gázérzékelőt kell beépíteni, valamint arról vezérelt aknaszellőztető berendezést kell alkalmazni;
+
+*bc)*[^113] a szerelőakna esetén a vészszellőztető berendezése legalább óránként ötszörös légcserét biztosító elszívásos rendszerű legyen, elszívó nyílásai víztől védetten az aknapadozat szintjében kerüljenek elhelyezésre;
+
+*bd)* a helyiség padlószintje nem lehet a terepszintnél mélyebben;
+
+*be)* a szerelőállástól mért 5 m távolságon belül nem lehet olyan mélyedés, üreg vagy a helyiség szintjénél mélyebb más helyiség bejárata, amelyben a gázüzemanyag összegyűlhet.
+
+*c)* Sűrített földgáz üzemű gázüzemanyag-ellátó berendezések javítását végző műhelyre vonatkozó további követelmények:
+
+*ca)* a mennyezet szintjéhez közel, szerelőállásonként legalább egy-egy db egymástól függetlenül működő gázérzékelőt kell felszerelni;
+
+*cb)* a szellőztetés befúvással működjön és a felső légteret megfelelően átöblítse.
+
+*d)*[^114] Egyéb gázüzemű gázüzemanyag ellátó berendezések javítását végző műhelyre vonatkozó további követelményeket a *b)* és *c)* pontok előírásainak alkalmazásával a műszaki biztonsági hatóság határozza meg.
+
+*14.*[^115] *Gázüzemű gépjárművek gázbiztonsági szemléje*
+
+Az 1. számú melléklet 1. pontjában foglalt táblázat 21. sorában meghatározott tevékenység végzésének feltétele a 13. pontban meghatározott feltételeknek megfelelő helyiség.
+
+*Megjegyzés:* A tanúsítási kötelezettségnek ki kell terjednie a gázbiztonsági szemle során vizsgált valamennyi tény megállapítására, annak a 4. számú mellékletben meghatározottak szerint kell eleget tenni.
+
+15.[^116]
+
+## 4. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^117]
+
+A tanúsítás mintája gázbiztonsági szemléről\
+Mérete: 70 × 105 mm\
+SORSZÁM:\
+**TANÚSÍTÁS**\
+**gázüzemű gépjárművön elvégzett**\
+**gázbiztonsági szemléről**\
+Rendszám:\
+Gyártmány, típus:\
+Kilométer számláló állása:\
+Forgalomba helyezés (átalakítás) eng. sz.:
+
+1\. A ………………………………………………………… gyártómű által készített, ………………………… számú, ……………………………………………………-ig érvényes próbával ……………… (bar) próbanyomásra ellenőrzött gáztartályt,
+
+és ………………………… típusú ………………………………… azonosító jelű elpárologtatót/nyomáscsökkentőt a …………………………………… () KF jelű szakműhely a fenti gépkocsiba ………………………………-én szerelte be.
+
+A gáztartály ÁEEF eng. száma: ……………………
+
+az üzemanyag-ellátó berendezés ÁEEF eng. száma: …………………………
+
+2\. A jármű gázüzemanyag-ellátó berendezésén az 1/1990. (IX. 29.) KHVM rendelet szerinti gázbiztonsági szemlét …………………………-én elvégeztem.
+
+A szemle alapján a ……………………………… szakműhely nevében
+
+tanúsítom,
+
+hogy a gépjárműbe szerelt gázüzemanyag-ellátó berendezés az 1. pontban foglalt azonosítási adatoknak megfelel. A gázüzemanyag-ellátó berendezés gépjárműbe szerelése megfelel a 6/1990. (IV. 12.) KöHÉM rendeletnek és a beszerelési utasításnak (átalakítási dokumentációnak). A berendezés sérüléstől, a csatlakozási pontok gázszivárgástól mentesek.
+
+Kelt: ……………………
+
+Munkaszám: ……………………
+
+P. H.
+
+………………………….…………………………
+
+szerelő a szakműhely nevében
+
+## 5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^118]
+
+**A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^119]**
+
+**A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata**
+
+1\. A táblázatban meghatározott munkafolyamatot alkalmazó járműfenntartó tevékenység tanúsításához ellenőrző méréseket, vizsgálatokat kell végezni. A munkafolyamatok keretében elvégzendő vizsgálatokat és méréseket, valamint a vizsgálatokhoz és mérésekhez szükséges berendezéseket (eszközöket) a táblázat tartalmazza. A táblázatban meghatározott eszközök helyettesíthetők más mérési módszert alkalmazó, azonban legalább egyenértékű mérési eredményt adó berendezésekkel.
+
+2\. A berendezések (műszerek) méréstechnikai követelményeit a 7. számú melléklet tartalmazza. A berendezés (műszer) pontosságának azonosításánál elsősorban a gyártó által megadott pontosságot kell alapul venni.
+
+|  | **A** | **B** | **C** |
+|---|---|---|---|
+| **1.** | Munkafolyamat | Mérések, vizsgálatok és közlendő adatok | A vizsgálat módja, eszköze |
+| **2.** | fékberendezés ellenőrzés, javítás | kerékfékerő a pedálerő – motorkerékpár esetében a fékkar működtető erő – függvényében (légféknél kivezérelt nyomás függvényében), gépkocsik esetében az oldalak közötti fékerő eltérés, | görgős fékerőmérő próbapad |
+| **3.** |  | fékerő ingadozás vagy lassulás<sup>2</sup> | lassulásmérő, regisztráló szerkezettel |
+| **4.** |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| **5.** | futómű ellenőrzés, javítás, | kerékösszetartás kerékdőlés csapterpesztés csapszeg-utánfutás kanyarodási szögeltérés nyomkövetés, tengelyhelyzet motorkerékpárok esetében egynyomon futás, tengelytáv, villadőlés | futómű-ellenőrző készülék |
+| **6.** | gyorsvizsgálat | oldalkúszás | elmozdulólapos futómű ellenőrző |
+| **7.** |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| **8.** | lengéscsillapító ellenőrzés, javítás<sup>3</sup> | diagram vagy mért érték | kiszerelés, illetve gépkocsik esetében kiszerelés nélküli lengéscsillapító próbapad |
+| **9.** |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| **10.** | kerékkiegyensúlyozás<sup>4</sup> | maradó kiegyensúlyozatlanság síkonként | leszerelt kerekeket kiegyensúlyozó készülék felszerelt kerekeket kiegyensúlyozó készülék |
+| **11.** | fényszóró beállítás, javítás | tompított fény 10 m-re vetített sötét-világos határának a fényszórótengely magasságához viszonyítva mm-ben, vízszintes irányeltérés | fényszóró beállító készülék, |
+| **12.** |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| **13.** | légfékszerelvény ellenőrzés, javítás | nyomás és időmérések a funkciónak megfelelően | légfékszerelvényeket vizsgáló próbapad vagy műszerkészlet |
+| **14.** | fékfolyadék állapot ellenőrzés | víztartalom | víztartalom ellenőrző készülék |
+| **15.** | kipufogógáz szennyezőanyag-tartalmának ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének követelményei ellenőrzéséhez szükséges mérési eredmények | gázelemző készülék, fordulatszámmérő, gépkocsik esetében motorolaj hőmérsékletmérő |
+| **16.** | dízel füstölés ellenőrzés | 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének követelményei ellenőrzéséhez szükséges mérési eredmények | füstölésmérő készülék fordulatszámmérő gépkocsik esetében motorolaj hőmérséklet mérő |
+| **17.** | zajkibocsátás ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet 3. számú mellékletének közeltéri zajmérés követelményei ellenőrzéséhez szükséges mérési eredmények | zajszintmérő műszer fordulatszámmérő |
+| **18.** | elektronikusan irányított rendszerek ellenőrzése (ABS, ESP, motormenedzsment, légzsák stb.)<sup>5</sup> | az öndiagnosztikai állapotfelügyeletben tárolt hibakód kiolvasás | OBD, EOBD hibakód kiolvasó vagy rendszerteszter |
+| **19.** | gyújtásellenőrzés, javítás | elektronikus gyújtás dinamikus paraméterei zárásszög alapelőgyújtás röpsúlyos szabályzó, a szabályozás kezdetéhez tartozó fordulatszám, a szabályozás végéhez tartozó szögérték és fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter zárásszögmérő előgyújtásszög-mérő fordulatszámmérő |
+| **20.** |  | vákuumszabályozó, a szabályozás kezdeti és végpontjához tartozó szög- és vákuumérték | vákuummérő műszer |
+| **21.** |  | primer és szekunder gyújtáskép | gyújtásvizsgáló oszcilloszkóp |
+| **22.** | dízel előbefecskendezési szöghelyzet beállítása, fordulatszámmérés | elektronikus befecskendező dinamikus paraméterei előbefecskendezési szöghelyzet főtengely °-ban alapjárati fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter előbefecskendezési szöghelyzetmérő műszer vagy kapilláriscső |
+| **23.** |  | leszabályozási fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter dízel fordulatszámmérő |
+| **24.** | dízel befecskendező szivattyú javítás, ellenőrzés | elektronikus befecskendező dinamikus paraméterei adagoláskezdet mm-ben, hengerenként a szállítás mm<sup>3</sup>/löket legnagyobb üzemi töltés, mm<sup>3</sup>/löket az üzemi ford. szám két távoleső pontján Indítótöltés mm<sup>3</sup>/löket üresjárati szabályozás kezdeti és befejező ford. száma üresjárati töltésegyenlőség mm<sup>3</sup>/löket végszabályzás kezdeti és a leszabályozott nulltöltéshez tartozó ford. szám előbefecskendezés-szabályozó működési tartománya | OBD, EOBD hibakód kiolvasó vagy rendszerteszter indikátoróra dízel befecskendező szivattyú ellenőrző próbapad |
+| **25.** | dízel befecskendező fúvóka javítás, ellenőrzés | porlasztási nyitónyomás porlasztás minőségének és kúpszögének megfelelősége, befecskendező fúvókaszelep tömítettségének megfelelősége | dízel befecskendező fúvóka vizsgáló készülék |
+| **26.** | dízel táprendszer javítás, ellenőrzés | tápszivattyú maximális nyomása nyomáshatároló szelep beállítási értéke tápszivattyú szívóképességének megfelelősége | OBD, EOBD hibakód kiolvasó vagy rendszerteszter dízel befecskendező próbapad vagy nyomásmérő és működtető berendezés |
+| **27.** | üzemanyag befecskendező rendszer karburátor, javítás, beállítás | elektronikus befecskendező dinamikus paraméterei üzemanyagnyomás benzin és levegőfúvókák mérete, vagy átfolyás | OBD, EOBD hibakód kiolvasó vagy rendszerteszter üzemanyag nyomás mérő fúvóka kaliber, vagy átfolyás-mérő |
+| **28.** |  | üzemanyagszint mm-ben, vagy az úszó geometriai helyzete mm-ben | célszerszám |
+| **29.** |  | kipufogógáz szennyezőanyag tartalma | OBD, EOBD hibakód kiolvasó vagy rendszerteszter gázelemző, fordulatszámmérő |
+| **30.** | benzinellátó rendszer javítás, vizsgálat | tápszivattyú szívóképessége, szállítóképessége | vákuummérő nyomásmérő |
+| **31.** | kompressziómérés | kompresszió végnyomás hűtőfolyadék hőfok | visszacsapó szeleppel ellátott kompressziómérő, hőmérő, hőfokjelző |
+| **32.** | hengertömítettség-mérés | vizsgálónyomás vesztességgel csökkentett nyomás %-os csökkenés | hengertömítettség vizsgáló berendezés |
+| **33.** | fogyasztásmérés | üzemállapothoz kötött minősítő eredmények, illetve, ha jogszabály vagy szabvány rögzít egyes üzemállapotokat, akkor annak megfelelő minősítő eredmények gumiabroncs nyomása a méréskor | fogyasztásmérő készülék, vagy próbapad, referencia feltételeket mérő készülékek gumiabroncsnyomás-mérő |
+| **34.** | motorteljesítmény és fogyasztásmérés | teljesítmény nyomaték fajlagos fogyasztás | motorfékpad vagy gépjármű teljesítmény és fogyasztásmérő próbapad |
+| **35.** | feszültségszabályozó ellenőrzés, beállítás | egyenáramú generátornál bekapcsolási feszültség terheletlen szabályozott feszültség visszáram váltakozó áramú generátornál terheletlen szabályozott feszültség | OBD, EOBD hibakód kiolvasó vagy rendszerteszter feszültségmérő árammérő |
+| **36.** | generátor ellenőrzés | névleges áram és feszültség vagy teljesítmény névleges fordulatszámon | OBD, EOBD hibakód kiolvasó vagy rendszerteszter feszültségmérő, árammérő terhelő-ellenállás fordulatszámmérő |
+| **37.** | akkumulátor vizsgálata | terhelt kapocsfeszültségek alkalmazott terhelő-ellenállás | cellavizsgáló vagy terhelő-ellenállás és voltmérő |
+| **38.** | akkumulátor savsűrűségmérés | cellánként a savsűrűség | savsűrűségmérő vagy refraktométer |
+| **39.** | szélvédő és ablakok fényszűrő fóliázása | megvilágítás csökkenés százaléka | környezeti megvilágításmérő |
+| **40.** | motor hűtőfolyadékának fagyáspontja | fagyáspont | refraktométer |
+| **41.** | csavarmeghúzás előírt nyomatékkal | meghúzási nyomaték | nyomatékkulcs |
+| **42.** | szelephézag ellenőrzés, beállítás | szelephézagok hidegen vagy melegen, a gyári előírástól függően | hézagmérő készlet célkészülék |
+| **43.** | alváz és karosszéria javítás | eredeti méreteknek megfelelőség | gyári mérettáblázat, rajzok, sablonok |
+| **44.** | gázüzemanyag-ellátó berendezés javítás, gázbiztonsági szemle | gázüzemanyag szivárgás | kézi szivárgás ellenőrző készülék |
+
+*Megjegyzések:*
+
+<sup>1</sup> Értékelő ellenőrzést az 5/1990. (IV. 12.) KöHÉM rendelet 11. számú melléklete szerinti előírás alapján kell végezni.
+
+<sup>2</sup> Helyettesítő mérés a szokványos próbapadon nem mérhető járműveknél (pl. traktor) a 6/1990. (IV. 12.) KöHÉM rendelet 8. számú mellékletében meghatározott követelmények figyelembe vételével.
+
+<sup>3</sup> 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
+
+<sup>4</sup> 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
+
+<sup>5</sup> Alkalmazása 2004. január 1. napja után kötelező.
+
+<sup>6</sup>A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
+
+4\. A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben előírt műszaki vizsgálat és a különböző eljárásban végzett környezetvédelmi felülvizsgálat keretében végzett munkafolyamatokat a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott módon kell elvégezni.
+
+## 6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^120]
+
+**A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei**
+
+<table><tbody><tr><td></td><td>A</td><td colspan="4">B</td><td colspan="2">C</td></tr><tr><td>**1.**</td><td>Berendezés</td><td colspan="4">Eszközzel mérendő érték, műszaki jellemző</td><td colspan="2">Az alkalmazott mérőeszköz<br>legnagyobb megengedett<br>hibája<sup>(1)</sup></td></tr><tr><td>**2.**</td><td></td><td colspan="3">szgk és motorkerékpár</td><td>tgk</td><td>szgk és motorkerékpár</td><td>tgk</td></tr><tr><td>**3.**</td><td>görgős fékerőmérő</td><td>fékerő</td><td colspan="2">0–5 kN</td><td>0–30 kN</td><td>±2%<sup>(2)</sup></td><td>±2%<sup>(2)</sup></td></tr><tr><td>**4.**</td><td></td><td>pedál és kézierő</td><td colspan="2">0–600 N</td><td>0–800 N</td><td>±2%</td><td>±2%</td></tr><tr><td>**5.**</td><td></td><td>fékezőnyomás</td><td colspan="2"></td><td>0–10 bar</td><td></td><td>±2,5%</td></tr><tr><td>**6.**</td><td>lassulásmérő</td><td>lassulás</td><td colspan="3">0,5–9,81 m/s<sup>2</sup></td><td></td><td>±0,1 m/s<sup>2</sup></td></tr><tr><td>**7.**</td><td></td><td>idő</td><td colspan="3">0–6 sec</td><td></td><td>±0,1 s</td></tr><tr><td>**8.**</td><td></td><td>pedálerő</td><td colspan="3">0–800 N</td><td></td><td>±20 N</td></tr><tr><td>**9.**</td><td></td><td>fékezőnyomás</td><td colspan="3">0–10 bar</td><td></td><td>±4%</td></tr><tr><td>**10.**</td><td>futómű ellenőrző (motorkerékpárok esetében a rájuk értelmezhető paraméterek figyelembe vételével)</td><td colspan="3">kerékösszetartás mm-ben</td><td>–6 mm – 0 – +12 mm</td><td colspan="2">±0,25 mm</td></tr><tr><td>**11.**</td><td></td><td colspan="3">motorkerékpár tengelytáv mm-ben</td><td>–</td><td colspan="2">±0,25 mm</td></tr><tr><td>**12.**</td><td></td><td colspan="3">kerékösszetartás fokban</td><td>–1° – 0 – +2°</td><td colspan="2">±2,5*'*</td></tr><tr><td>**13.**</td><td></td><td colspan="3">kerékdőlés</td><td>–3° – 0 – +6°</td><td colspan="2">±5*'*</td></tr><tr><td>**14.**</td><td></td><td colspan="3">csapterpesztés</td><td>–3° – 0 – +10°</td><td colspan="2">±7,5*'*</td></tr><tr><td>**15.**</td><td></td><td colspan="3">utánfutás</td><td>–3° – 0 – +10°</td><td colspan="2">±7,5*'*</td></tr><tr><td>**16.**</td><td></td><td colspan="3">kanyarodási szögeltérés</td><td>0 – +10°</td><td colspan="2">±15*'*</td></tr><tr><td>**17.**</td><td></td><td colspan="3">hátsó futómű nyomkövetés</td><td>balra 10 cm – 0 –jobbra 10 cm</td><td colspan="2">±0,25 mm</td></tr><tr><td>**18.**</td><td></td><td colspan="3">hátsó futómű ferdesége</td><td>balra 2° – 0 – jobbra 2°</td><td colspan="2">±5*'*</td></tr><tr><td>**19.**</td><td>elmozdulólapos<br>futómű ellenőrző</td><td colspan="3">oldalkúszás</td><td>±10 m/km</td><td colspan="2">±0,2 m/km</td></tr><tr><td>**20.**</td><td>lengéscsillapító<br>vizsgáló</td><td colspan="2">erőingadozás érzékelő berendezés:</td><td></td><td>maradó talperő<br>a statikus terhelés százalékában</td><td colspan="2">±3% (100%-ra vonatkozóan)</td></tr><tr><td>**21.**</td><td>kerékkiegyensúlyozat-<br>lanság-mérő leszerelt kerekekhez</td><td colspan="2">kiegyensúlyozatlanság<br>tömege</td><td>0–150 gr</td><td>0–1500 gr</td><td>±3 gr</td><td>±30 gr</td></tr><tr><td>**22.**</td><td>kerékkiegyensúlyozat-<br>lanság-mérő felszerelt kerekekhez</td><td colspan="2">kiegyensúlyozatlanság tömege</td><td>0–150 gr</td><td>0–1500 gr</td><td>±7 gr</td><td>±70 gr</td></tr><tr><td>**23.**</td><td>fényszóró beállító</td><td colspan="2">tompított fény lefelé vetítés 10 m távolságra vonatkoztatva</td><td></td><td>0–40 cm</td><td colspan="2">±30 mm</td></tr><tr><td>**24.**</td><td></td><td colspan="2">tompított fény vízszintes irányeltérés</td><td></td><td>–</td><td colspan="2">±1°</td></tr><tr><td>**25.**</td><td></td><td colspan="2">tompított fény vízszintes szakaszának eltérése a vízszintestől</td><td></td><td></td><td colspan="2">±3°</td></tr><tr><td>**27.**</td><td colspan="2">légfék rendszereket és szerelvényeket vizsgáló berendezés</td><td>nyomásmérés</td><td colspan="2">0–4 bar<br>0–10 bar<br>0–16 bar</td><td colspan="2">±0,08 bar<br>±0,16 bar<br>±0,25 bar</td></tr><tr><td>**28.**</td><td colspan="2"></td><td>nyomáskapcsolók</td><td colspan="2">0,5–10 bar</td><td colspan="2">±0,2 bar</td></tr><tr><td>**29.**</td><td colspan="2">fékfolyadék forráspont ellenőrző</td><td>forrási hőmérséklet</td><td colspan="2">0–300 °C</td><td colspan="2">±2%</td></tr><tr><td>**30.**</td><td colspan="2">szervokormány ellenőrző</td><td>kézinyomaték</td><td></td><td>0–60 Nm</td><td colspan="2">±2 Nm</td></tr><tr><td>**31.**</td><td colspan="2"></td><td>rendszernyomás</td><td></td><td>0–160 bar<br>0–10 bar</td><td colspan="2">±5 bar<br>±0,4 bar</td></tr><tr><td>**32.**</td><td colspan="2">kormányerő és holtjáték mérő</td><td>erőmérés<br>szögmérés</td><td></td><td>0–800 N<br>0–50°</td><td colspan="2">±2%<br>±1°</td></tr><tr><td>**33.**</td><td colspan="2">gumiabroncs töltő és ellenőrző</td><td>nyomásmérés</td><td></td><td>0–4 bar<br>4–10 bar<br>10– bar</td><td colspan="2">±0,08 bar<br>±0,16 bar<br>±0,25 bar</td></tr><tr><td>**34.**</td><td colspan="2">kipufogógáz elemző</td><td>CO mérés<br>CH mérés<br>λ (lambda – légviszony) meghatározása</td><td></td><td>CO (tf%) 0–5%<br>CH (ppm)<br>0–2500</td><td colspan="2">négykomponenses I. vagy<br>0. osztályú gázelemző műszer kétütemű járművek mérése során<br>II. osztályú CO-CH mérő</td></tr><tr><td>**35.**</td><td colspan="2">dízelfüstölés-mérő</td><td colspan="2">abszolút fényelnyelési együttható</td><td>0–5 k</td><td colspan="2">±0,05 k</td></tr><tr><td>**36.**</td><td colspan="2"></td><td colspan="2">reakció idő teljes áramú mérőrendszer<br>mintavételes mérőrendszer</td><td>A üzemmód<br>B üzemmód</td><td colspan="2">t<sub>90</sub><200 ms<br>t<sub>90</sub><50 ms<br>t<sub>90</sub>=1±0,1 s</td></tr><tr><td>**37.**</td><td colspan="2">zajszintmérő</td><td>hangnyomásszint</td><td></td><td>40–120 dBA</td><td colspan="2">±1,5 dBA</td></tr><tr><td>**38.**</td><td colspan="2">fordulatszámmérő<br>benzinmotorhoz</td><td>fordulatszám</td><td></td><td>300–6000 1/min</td><td colspan="2">±3%</td></tr><tr><td>**39.**</td><td colspan="2">előgyújtásszög-mérő</td><td>gyújtásszög</td><td></td><td>0–60°</td><td colspan="2">±2°</td></tr><tr><td>**40.**</td><td colspan="2">zárásszögmérő</td><td>zárásszög</td><td></td><td>0–100%<br>0–45°<br>0–60°<br>0–90°</td><td colspan="2">±5%</td></tr><tr><td>**41.**</td><td colspan="2">dízel előbefecskendezésszög- és fordulatszámmérő</td><td colspan="2">előbefecskendezési szög<br>fordulatszám</td><td>0–40°<br>300–6000 1/min</td><td colspan="2">±2°<br>±3%</td></tr><tr><td>**42.**</td><td colspan="2">dízel befecskendező próbapad</td><td colspan="2">hengerenkénti szállítás<br>fordulatszám</td><td>0–250 mm<sup>3</sup>/löket<br>0–3000 1/min</td><td colspan="2">±2,5%<br>±3%</td></tr><tr><td>**43.**</td><td colspan="2">dízel befecskendező fúvóka vizsgáló</td><td colspan="2">porlasztó nyitónyomás</td><td>0–600 bar</td><td colspan="2">±5 bar</td></tr><tr><td>**44.**</td><td colspan="2">OBD, EOBD kiolvasó</td><td colspan="2">a nem gyártóspecifikus hibakódok és<br>az 5/1990. (IV. 12.) KöHÉM rendelet szerinti műszaki vizsgálatok esetében CO<sub>2</sub>-kibocsátás kiolvasása is</td><td></td><td colspan="2"></td></tr><tr><td>**45.**</td><td colspan="2">sűrítési csúcsnyomásmérő</td><td colspan="2">benzinmotor</td><td>4–16 bar</td><td colspan="2">±0,8 bar</td></tr><tr><td>**46.**</td><td colspan="2"></td><td colspan="2">dízelmotor</td><td>10–50 bar</td><td colspan="2">±2,25 bar</td></tr><tr><td>**47.**</td><td colspan="2">hengertömítettség-mérő</td><td colspan="2">vizsgálónyomás és vesztesége</td><td>0–4 bar</td><td colspan="2">±0,16 bar</td></tr><tr><td>**48.**</td><td colspan="2">hordozható tüzelőanyagfogyasztás-mérő</td><td>átfolyás cm<sup>3</sup>átfolyási sebesség</td><td>szgk<br>0–40 l/h</td><td>tgk<br>0–80 l/h</td><td colspan="2">±2%</td></tr><tr><td>**49.**</td><td colspan="2">gépjárművek tüzelőanyag-fogyasztását és teljesítményét mérő görgős próbapad</td><td>vonóerő<br>sebesség<br>átfolyás cm<sup>3</sup></td><td>szgk<br>tgk<br>szgk<br>tgk</td><td>0–3 kN<br>0–10 kN<br>0–180 km/ó<br>0–100 km/ó</td><td colspan="2">±2%<br>±2%<br>±2%</td></tr><tr><td>**50.**</td><td colspan="2">nyomatékkulcs</td><td colspan="2">nyomaték</td><td>0–100 Nm<br>0–200 Nm<br>0–500 Nm</td><td colspan="2">±4%</td></tr><tr><td>**51.**</td><td colspan="2">megvilágításmérő</td><td colspan="2">megvilágítás erőssége</td><td>0–100 000 lx</td><td colspan="2">±10%</td></tr><tr><td>**52.**</td><td colspan="2">kézi gázszivárgás ellenőrző készülék</td><td>jelzési határ</td><td>alsó éghetőségi koncentráció legfeljebb</td><td>5%-a</td><td colspan="2">±20%</td></tr></tbody></table>
+
+Megjegyzések:
+
+1\. A %-ban kifejezett legnagyobb megengedett hiba a berendezés felső méréshatárának százalékát jelenti.
+
+2\. A jobb és bal oldal közötti eltérés legfeljebb 2% lehet.
+
+## 7. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^121]
+
+**A járműfenntartó tevékenység során a közlekedésbiztonsági és környezetvédelmi követelmények ellenőrzésére használt berendezések (műszerek) és a kalibrálás időszakossága**
+
+| **Berendezés** | **Kalibrálás időszakossága (hó)** |
+|---|---|
+| görgős fékerőmérő | 6 |
+| lassulásmérő | 12 |
+| futómű ellenőrző | 6 |
+| elmozdulólapos futómű ellenőrző | 6 |
+| lengéscsillapítás vizsgáló | 6 |
+| kerékkiegyensúlyozatlanság-mérő leszerelt kerekekhez | 6 |
+| kerékkiegyensúlyozatlanság-mérő felszerelt kerekekhez | 6 |
+| légfék rendszereket és szerelvényeket vizsgáló berendezés | 12 |
+| gumiabroncstöltő és ellenőrző | 12 |
+| kipufogógáz elemző | 6 |
+| dízel füstölésmérő | 6 |
+| fordulatszámmérő benzin, illetve dízel motorokhoz | 12 |
+| fényszóró beállító | 6 |
+
+A vonatkozó törvény által kijelölt berendezések kötelező hitelesítésénél, ha a hitelesítési és a karbantartási időpont egybeesik vagy közel esik egymáshoz, akkor a hitelesítés elvégzése mellett a kalibrálási műveletet elhagyható.
+
+## 8. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^122]
+
+## 9. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^123]
+
+## 10. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^124]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 15/1995. (IX. 21.) KHVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 37/2001. (XI. 14.) KöViM rendelet 7. § (1) bekezdése.
+[^3]: A 2. § a 29/2004. (III. 12.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § a) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított, a 9/2022. (VIII. 1.) TIM rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § b) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított szöveg. [A 2. § b) pontjában a 29/2025. (IX. 18.) ÉKM rendelet 5. § a) pontja által elrendelt módosítás, amely szerint a „kiállított, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentési igazolással” szövegrész helyébe a „kiadott engedéllyel” szöveg lép, nem vezethető át.]
+[^6]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. számú melléklete szerint az Európai Hulladék Katalógus (EWC) 16. főcsoportjának 1601 alcsoportjába sorolt (veszélyes) hulladékok, a 160601*, a 160604, a 160606*, a 160801 és a 160807* kódszám alá sorolt (veszélyes) hulladékok, továbbá a 13. főcsoport 1301, 1302, 1307 és 1308 alcsoportjaiba sorolt olajhulladékok és folyékony üzemanyagok hulladékai.
+[^7]: A 2. § c) pontját a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 2. § d) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 9. pontja szerint módosított szöveg.
+[^9]: Lásd 16/2001. (VII. 18.) KöM rendeletet.
+[^10]: A 2. § e) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^11]: A 2. § f) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^12]: A 2. § g) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^13]: A 2. § h) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^14]: A 2. § i) pontját a 37/2009. (VIII. 5.) KHEM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^15]: A 3. § (1) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 14. pontja, a 29/2025. (IX. 18.) ÉKM rendelet 5. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (2) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 5. és 14. pontja szerint módosított szöveg.
+[^17]: A 3. § (3) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § a) pontja, a 29/2025. (IX. 18.) ÉKM rendelet 6. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1–2. pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 29/2025. (IX. 18.) ÉKM rendelet 5. § c) pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdés c) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^22]: A 4. § (2) bekezdés bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1–2. pontja szerint módosított szöveg.
+[^23]: A 4. § (2) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^24]: A 4. § (2) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^25]: A 4. § (2) bekezdés c) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^26]: A 4. § (4) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1., 6. és 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § b) pontja, a 29/2025. (IX. 18.) ÉKM rendelet 6. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. § (1) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^28]: Az 5. § (2) bekezdése a 37/2001. (XI. 14.) KöViM rendelet 1. §-ával megállapított és a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 26. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § c) pontja, a 29/2025. (IX. 18.) ÉKM rendelet 6. § c) pontja szerint módosított szöveg.
+[^29]: A 6. § (1) bekezdés bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^30]: A 6. § (1) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 14. pontja szerint módosított szöveg.
+[^31]: A 6. § (1) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 3. pontja szerint módosított szöveg.
+[^32]: A 6. § (2) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 14. pontja szerint módosított szöveg.
+[^33]: A 7. § a 37/2001. (XI. 14.) KöViM rendelet 2. §-ával megállapított, bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^34]: A 7. § a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 24. pontja szerint módosított szöveg.
+[^35]: A 7. § b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 29/2025. (IX. 18.) ÉKM rendelet 5. § c) pontja szerint módosított szöveg.
+[^36]: A 7. § c) pontja a 29/2025. (IX. 18.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^37]: A 8. § a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^38]: A 9. § (1) bekezdése a 37/2001. (XI. 14.) KöViM rendelet 3. §-ával megállapított és a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § e) pontja szerint módosított szöveg.
+[^39]: A 9. § új (2) bekezdését a 37/2001. (XI. 14.) KöViM rendelet 3. §-a iktatta a szövegbe, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
+[^40]: A 9. § eredeti (2) bekezdésének számozását a 37/2001. (XI. 14.) KöViM rendelet 3. §-a (3) bekezdésre változtatta, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^41]: A 9. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 37/2001. (XI. 14.) KöViM rendelet 3. §-a, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. és 14. pontja szerint módosított szöveg.
+[^42]: A 10. § (1) bekezdésének bevezető szövegrésze a 37/2001. (XI. 14.) KöViM rendelet 5. § (1) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^43]: A 10. § (1) bekezdésének b) pontja a 37/2001. (XI. 14.) KöViM rendelet 5. § (2) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 16. pontja szerint módosított szöveg.
+[^44]: A 10. § (1) bekezdésének c) pontját a 13/1993. (V.12.) KHVM rendelet 13. §-a iktatta be, szövege a 29/2025. (IX. 18.) ÉKM rendelet 5. § d) pontja szerint módosított szöveg.
+[^45]: A 10. § (1) bekezdésének d) pontját a 29/2004. (III. 12.) GKM rendelet 2. §-ának (1) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 1. §-ával megállapított, a 29/2025. (IX. 18.) ÉKM rendelet 5. § e) pontja szerint módosított szöveg.
+[^46]: A 10. § (2) bekezdés nyitó szövegrésze a 9/2022. (VIII. 1.) TIM rendelet 2. § f) pontja szerint módosított szöveg.
+[^47]: A 10. § (2) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^48]: A 10. § új (3) bekezdését a 37/2001. (XI. 14.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. A (3) bekezdés a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 27. pontja szerint módosított szöveg.
+[^49]: A 10. § (4) bekezdését a 37/2001. (XI. 14.) KöViM rendelet 4. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^50]: A 10. § eredeti (3) bekezdésének számozását a 37/2001. (XI. 14.) KöViM rendelet 4. §-a (5) bekezdésre változtatta.
+[^51]: A 10. § (6) bekezdését a 29/2004. (III. 12.) GKM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés b) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^52]: A 10. § (7) bekezdését a 29/2004. (III. 12.) GKM rendelet 2. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése.
+[^53]: A 10. § (8) bekezdését a 124/2005. (XII. 29.) GKM rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés b) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^54]: A 11. § a 29/2025. (IX. 18.) ÉKM rendelet 2. §-ával megállapított szöveg.
+[^55]: A 12. § (1) bekezdése a 29/2025. (IX. 18.) ÉKM rendelet 3. §-ával megállapított szöveg.
+[^56]: A 12. § (2) bekezdését a 12/2021. (III. 5.) ITM rendelet 3. §-a hatályon kívül helyezte.
+[^57]: A 12. § (3) bekezdését a 29/2004. (III. 12.) GKM rendelet 4. §-ának (2) bekezdése iktatta be, a 29/2025. (IX. 18.) ÉKM rendelet 6. § d) pontja hatályon kívül helyezte.
+[^58]: A 13. § (2) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § h) pontja szerint módosított szöveg.
+[^59]: A 14. §-t a 29/2004. (III. 12.) GKM rendelet 5. §-a iktatta be, szövegét a 124/2005. (XII. 29.) GKM rendelet 16. § (4) bekezdése állapította meg.
+[^60]: A 14. § (1) bekezdését a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^61]: A 14. § (1a) bekezdését a 44/2015. (VII. 20.) NFM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés e) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^62]: A 14. § (2) bekezdése a 44/2015. (VII. 20.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^63]: Az 1. számú melléklet a 29/2025. (IX. 18.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^64]: A 2. számú melléklet a 29/2025. (IX. 18.) ÉKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^65]: A 3. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^66]: A 3. számú melléklet bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1., 6. és 13. pontja szerint módosított szöveg.
+[^67]: A 3. számú melléklet 1. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 7. pontja szerint módosított szöveg.
+[^68]: A 3. számú melléklet 1. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^69]: A 3. számú melléklet 1. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^70]: A 3. számú melléklet 1. pontjának e) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 20. pontja szerint módosított szöveg.
+[^71]: A 3. számú melléklet 2. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. pontja szerint módosított szöveg.
+[^72]: A 3. számú melléklet 2. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^73]: A 3. számú melléklet 2. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 21. pontja szerint módosított szöveg.
+[^74]: A 3. számú melléklet 2. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 23. pontja szerint módosított szöveg.
+[^75]: A 3. számú melléklet 3. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. pontja szerint módosított szöveg.
+[^76]: A 3. számú melléklet 3. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^77]: A 3. számú melléklet 3. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^78]: A 3. számú melléklet 3. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 21. pontja szerint módosított szöveg.
+[^79]: A 3. számú melléklet 3. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
+[^80]: A 3. számú melléklet 4. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. pontja szerint módosított szöveg.
+[^81]: A 3. számú melléklet 4. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 12. pontja szerint módosított szöveg.
+[^82]: A 3. számú melléklet 4. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^83]: A 3. számú melléklet 4. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^84]: A 3. számú melléklet 4. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^85]: A 3. számú melléklet 5. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. pontja szerint módosított szöveg.
+[^86]: A 3. számú melléklet 5. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
+[^87]: A 3. számú melléklet 5. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^88]: A 3. számú melléklet 5. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^89]: A 3. számú melléklet 5. pontjának e) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^90]: A 3. számú melléklet 6. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 7. pontja szerint módosított szöveg.
+[^91]: A 3. számú melléklet 6. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^92]: A 3. számú melléklet 6. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^93]: A 3. számú melléklet 7. pont nyitó szövegrésze a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontjával megállapított, záró szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^94]: A 3. számú melléklet 7. pont b) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^95]: A 3. számú melléklet 7. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 19. pontja szerint módosított szöveg.
+[^96]: A 3. számú melléklet 7. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 23. pontja szerint módosított szöveg.
+[^97]: A 3. számú melléklet 8. d) pontja a 37/2001. (XI. 14.) KöViM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^98]: A 3. számú melléklet 9. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
+[^99]: A 3. számú melléklet 9. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
+[^100]: A 3. számú melléklet 11. pontja a 29/2004. (III. 12.) GKM rendelet 6. §-ának (2) bekezdésével megállapított, bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. és 30. pontja szerint módosított szöveg.
+[^101]: A 3. számú melléklet 11.1. pontjának záró szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. és 14. pontja szerint módosított szöveg.
+[^102]: A 3. számú melléklet 11.1. pont a) pontjának második franciabekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^103]: A 3. számú melléklet 11.1. pont a) pontjának negyedik franciabekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 4. és 14. pontja szerint módosított szöveg.
+[^104]: A 3. számú melléklet 11.1. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 22. pontja szerint módosított szöveg.
+[^105]: A 3. számú melléklet 11.1. pontjának f) alpontját a 63/2009. (XI. 23.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés c) pontja.
+[^106]: A 3. számú melléklet 11.1. pontjának g) alpontját a 63/2009. (XI. 23.) KHEM rendelet 6. §-a iktatta be.
+[^107]: A 3. számú melléklet 11.2. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. és 35. pontja szerint módosított szöveg.
+[^108]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 25. §-a.
+[^109]: A 3. számú melléklet 12. pontja a 29/2025. (IX. 18.) ÉKM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^110]: A 3. számú melléklet 13. pontját a 13/1993. (V. 12.) KHVM rendelet 17. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 6. § (2) bekezdésével megállapított, nyitó szövegrésze a 29/2025. (IX. 18.) ÉKM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^111]: A 3. számú melléklet 13. a) pont ad) alpontja az 1/2011. (I. 11.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^112]: A 3. számú melléklet 13. pont b) alpont bb) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^113]: A 3. számú melléklet 13. pont b) alpont bc) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^114]: A 3. számú melléklet 13. pont d) alpontja az 1/2011. (I. 11.) NFM rendelet 1. § (2) bekezdése, a 29/2025. (IX. 18.) ÉKM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^115]: A 3. számú melléklet 14. pontja a 29/2025. (IX. 18.) ÉKM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^116]: A 3. számú melléklet 15. pontját a 29/2004. (III. 12.) GKM rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés g) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^117]: A 4. számú mellékletet a 13/1994. (V. 12.) KHVM rendelet 18. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés d) pontjával megállapított szöveg.
+[^118]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés a) pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^119]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^120]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^121]: A 7. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 29/2004. (III. 12.) GKM rendelet 6. §-ának (5) bekezdése, a 37/2009. (VIII. 5.) KHEM rendelet 6. §-a szerint módosított szöveg. A 7. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg. A 7. számú melléklet a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38. §-át.
+[^122]: A 8. számú mellékletet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (6) bekezdése iktatta be, hatályon kívül helyezte a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése.
+[^123]: A 9. számú mellékletet a 29/2004. (III. 12.) GKM rendelet 6. § (7) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés h) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^124]: A 10. számú mellékletet a 37/2009. (VIII. 5.) KHEM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés h) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.

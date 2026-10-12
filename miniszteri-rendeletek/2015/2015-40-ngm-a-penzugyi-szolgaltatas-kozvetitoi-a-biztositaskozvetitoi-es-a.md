@@ -1,0 +1,1413 @@
+---
+title: "40/2015. (XII. 30.) NGM rendelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról"
+identifier: "40/2015. (XII. 30.) NGM rendelet"
+njt_id: "2015-40-20-2X"
+eli: "https://njt.jog.gov.hu/eli/R/2015/NGM/40"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2015-12-30
+in_force_from: 2016-01-29
+last_amended: 2024-12-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-40-20-2X"
+retrieved: 2026-10-12
+---
+
+# 40/2015. (XII. 30.) NGM rendelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról
+
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (2) bekezdés e) pontjában, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 438. § e) pontjában és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 14. pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
+
+## 1. A rendelet alkalmazási köre
+
+### 1. §[^1]
+
+(1) E rendelet alkalmazása kiterjed
+
+a) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankra (a továbbiakban: Hatóság) a hatósági képzéssel és vizsgáztatással kapcsolatos feladatai tekintetében,
+
+b) a képzést vagy képzést és vizsgáztatást végző szerv (a továbbiakban együtt: képző szerv), a vizsgabiztos és a vizsgázó e rendeletben meghatározott jogaira és kötelezettségeire,
+
+c)[^2] a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 74. § (1) bekezdés c) pontja szerinti hatósági vizsga, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 369. § (3) bekezdés a) pontja és (6) bekezdése szerinti hatósági vizsga, és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 22/B. § (1) bekezdés c) pontja szerinti hatósági vizsga (a továbbiakban együtt: hatósági vizsga) követelményeire,
+
+d) a hatósági vizsgával összefüggő szabályokra és a hatósági vizsgán vizsgáztatásra jogosultak körére és
+
+e) a hatósági vizsgára felkészítő hatósági képzéssel összefüggő szabályokra.
+
+(2) E rendelet vizsgáztatást végző szervekre és azok ellenőrzésére vonatkozó rendelkezéseit a Magyar Nemzeti Bankra mint vizsgáztatást végző szervre is alkalmazni kell.
+
+## 2. A képző szerv és a hatósági képzés
+
+### 2. §
+
+(1) Hatósági vizsgának és az arra felkészítő hatósági képzésnek az e rendelet feltételeinek megfelelő vizsga és képzés fogadható el.
+
+(2)[^3] A hatósági vizsga megkezdésének feltételeként – annak típusától függően – olyan pénzügyi szolgáltatás közvetítői, biztosításközvetítői (függő és független) vagy tőkepiaci üzletkötői hatósági képzés teljesítése fogadható el, amelyet megvalósító képző szerv a szakképzésért felelős miniszter által nyilvántartásba vett programkövetelményben szereplő
+
+a) Adótanácsadó megnevezésű,
+
+b) Államháztartási mérlegképes könyvelő megnevezésű,
+
+c) Banki, befektetési termékértékesítő megnevezésű,
+
+d) Biztosításközvetítő (függő és független) megnevezésű,
+
+e) IFRS mérlegképes könyvelő megnevezésű,
+
+f) Okleveles adószakértő megnevezésű,
+
+g) Pénztárkezelő és valutapénztáros megnevezésű,
+
+h) Pénzügyi szervezeti mérlegképes könyvelő megnevezésű,
+
+i) Vállalkozási mérlegképes könyvelő megnevezésű
+
+szakképesítés megszerzésére irányuló szakmai képzés végzésére jogosult.
+
+(3) A Hpt. 74. § (1) bekezdés c) pontja szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet Magyarország területén pénzügyi szolgáltatási tevékenység végzésére jogosult intézmény a saját és vele egy csoportba tartozó társaságok munkavállalói, illetve közvetítői számára szervez.
+
+(4)[^4] A Bit. 369. § (3) bekezdés a) pontja és (6) bekezdése szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet a Magyarország területén biztosítási tevékenység végzésére jogosult és biztosításközvetítői alapképzést végző biztosító szervez.
+
+(5) A Bszt. 22/B. § (1) bekezdés c) pontja szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet Magyarország területén – a Bszt. 5. §-a értelmében – befektetési szolgáltatási tevékenység végzésére jogosult intézmény a saját és vele egy csoportba tartozó társaságok munkavállalói, illetve közvetítői számára szervez.
+
+### 3. §
+
+(1) A Hatóság által a Hpt., a Bit. és a Bszt. szerint vezetett nyilvántartásba (a továbbiakban együtt: Hatóság által vezetett nyilvántartás) azon képző szerv vehető fel, amely
+
+a) a 2. §-ban meghatározott követelményeknek megfelel,
+
+b)[^5] megnevezi az oktatókat és a 7. § (1) bekezdése szerinti igazolás kiállítására és aláírására jogosult személyeket, valamint közli a Hatóság által nyilvántartásba veendő személyes adataikat,
+
+c) rendelkezik az 5. § szerinti képzési programmal,
+
+d)[^6] rendelkezik a képzéshez és – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgáztatáshoz szükséges személyi és tárgyi feltételekkel,
+
+e)[^7] vállalja, hogy eleget tesz az e rendeletben és – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzatban foglalt követelményeknek, és
+
+f) a Hatóság által vezetett nyilvántartásból való – a 8. § (3) bekezdés c) és e) pontjában foglaltak miatti – törlésére a Hatóság által vezetett nyilvántartásba való felvételére irányuló – elbírálás alatt álló – kérelme benyújtását megelőző két éven belül nem került sor.
+
+(2)[^8] A képző szerv az (1) bekezdésben foglalt feltételek és a Hatóság által vezetett nyilvántartásban szereplő adatai változását a Hatóságnak a változás megtörténtétől számított nyolc napon belül bejelenti.
+
+(2a)[^9] Az oktató és a 7. § (1) bekezdése szerinti igazolás kiállítására és aláírására jogosult személy a Hatóság által vezetett nyilvántartásban szereplő adatai változását a Hatóságnak a változás megtörténtétől számított tizenöt napon belül – a képző szerv útján – bejelenti.
+
+(3) A képző szerv a képzések időpontját a Hatóság részére előzetesen bejelenti.
+
+### 4. §
+
+(1) A hatósági képzés
+
+a) az 1. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a pénzügyi szolgáltatás közvetítői hatósági vizsgára,
+
+b) a 2. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a függő biztosításközvetítői hatósági vizsgára,
+
+c) a 3. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a független biztosításközvetítői hatósági vizsgára,
+
+d) a 4. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a tőkepiaci üzletkötői hatósági vizsgára
+
+történő felkészítést biztosítja.
+
+(2) A Hatóság kialakítja, és indokoltság esetén felülvizsgálja a hatósági képzés és a hatósági vizsga – közvetítői tevékenység végzéséhez szükséges és arányos tudás megszerzéséhez igazodó – követelményrendszerét, valamint ezzel összefüggésben az – 1–4. mellékletben meghatározott vizsgatárgyak szerinti – oktatási segédanyagot és a kérdéstárat.
+
+(3) A Hatóság a (2) bekezdés szerinti feladatai ellátása során együttműködik a pénz-, tőke- és biztosítási piaci szereplőkkel, továbbá a hatósági képzés rendszerében részt vevő szolgáltatók szakmai érdekvédelmi és érdek-képviseleti szerveivel, véleményüket figyelembe veszi.
+
+(4) A hatósági vizsgára történő hatékony felkészülés érdekében a Hatóság az érintett piaci és egyéb szakmai szervezetek bevonásával készített oktatási segédanyagot és annak aktualizált szövegét a honlapján közzéteszi.
+
+### 5. §
+
+(1) A képző szervnek rendelkeznie kell az 1–4. melléklet szerinti ismeretanyag alapfokú elsajátítására alkalmas képzési programmal.
+
+(2) A képzési program valamennyi képzés esetében tartalmazza:
+
+a) a képzés során megszerezhető ismereteket,
+
+b) a képzésben való részvétel feltételeit,
+
+c) a képzés időtartamát, amely vizsgatárgyanként
+
+ca) pénzügyi szolgáltatás közvetítői hatósági képzés esetén nem lehet kevesebb öt óránál,
+
+cb) függő és független biztosításközvetítői, valamint tőkepiaci üzletkötői hatósági képzés esetén nem lehet kevesebb tíz óránál,
+
+d) a képzés módszereit,
+
+e) a maximális csoportlétszámot, amely
+
+ea) legfeljebb harminc fő lehet,
+
+eb) legfeljebb negyvenöt fő lehet, ha a képző szerv a képzési időtartamon felül legalább három óra időtartamban konzultációs lehetőséget biztosít a képzésben résztvevőknek, és
+
+f) a képzésben résztvevők jelenléti nyilvántartásának rendjét.
+
+(3)[^10] A képzésben az vehet részt, aki
+
+a) rendelkezik érettségi vizsgával,
+
+b) pénzügyi szolgáltatás közvetítői hatósági képzésre történő jelentkezés esetén hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves pénzügyi szakmai tapasztalatot szerzett,
+
+c) függő és független biztosításközvetítői hatósági képzésre történő jelentkezés esetén biztosítónál, viszontbiztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepénél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves biztosításszakmai tapasztalatot szerzett, vagy
+
+d) tőkepiaci üzletkötői hatósági képzésre történő jelentkezés esetén befektetési vállalkozásnál, befektetési alapkezelőnél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett.
+
+(4) A képzésen történő részvétel további feltétele, hogy a résztvevő a 7. § (1) bekezdés szerinti igazolás kiállítása céljából hozzájárul természetes személyazonosító- és lakcímadatai képző szerv általi kezeléséhez.
+
+### 6. §[^11]
+
+A képző szervnél oktatóként az a személy foglalkoztatható, aki
+
+a) felsőfokú végzettséggel rendelkezik és
+
+aa) pénzügyi szolgáltatás közvetítői hatósági képzés esetén legalább hároméves pénzügyi szakmai tapasztalatot szerzett hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy a Magyar Nemzeti Banknál, államigazgatási szervnél vagy közigazgatási hatóságnál pénzügyi, illetve gazdasági területen, vagy felsőoktatásban pénzügyi, illetve gazdasági területen oktatóként,
+
+ab) függő és független biztosításközvetítői hatósági képzés esetén legalább hároméves biztosításszakmai tapasztalatot szerzett biztosítónál, viszontbiztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepénél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy a Magyar Nemzeti Banknál, államigazgatási szervnél vagy közigazgatási hatóságnál pénzügyi, illetve gazdasági területen, vagy felsőoktatásban pénzügyi, illetve gazdasági területen oktatóként,
+
+ac) tőkepiaci üzletkötői hatósági képzés esetén legalább hároméves befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett befektetési vállalkozásnál, befektetési alapkezelőnél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy a Magyar Nemzeti Banknál, államigazgatási szervnél vagy közigazgatási hatóságnál pénzügyi, illetve gazdasági területen, vagy felsőoktatásban pénzügyi, illetve gazdasági területen oktatóként, vagy
+
+b) középfokú végzettséggel rendelkezik, és – az adott hatósági képzés típusától függően – az *a)* pont *aa)–ac)* alpontjában meghatározott szervek vagy szervezetek valamelyikénél legalább tíz éves pénzügyi szakmai, biztosításszakmai, befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett, amely tapasztalat megszerzésének záró időpontja öt éven belüli időpontra esik.
+
+### 7. §
+
+(1) A képző szerv a képzésen részt vevő mindazon személyek részére igazolást állít ki, akik a nyilvántartás szerint igazolt módon – az oktatott vizsgatárgyhoz rendelt óraszám legalább 80%-ában – a képzésen részt vettek.
+
+(2) Az (1) bekezdés szerinti igazolás tartalmazza:
+
+a) a képző szerv pontos megnevezését,
+
+b) az oktatott vizsgatárgyak 1–4. melléklet szerinti felsorolását,
+
+c)[^12] a vizsgára jelentkező 14. § (2) bekezdésében meghatározott adatait,
+
+d) az igazolás kiállításának helyét és dátumát, és
+
+e) az igazolás aláírására jogosult személy nevét és aláírását.
+
+(3) A képző szerv – a képzésen részt vevő személy beleegyező nyilatkozata birtokában – az (1) bekezdés szerinti igazolásról és a jelenléti nyilvántartásról az igazolás kiadását követő két évig nyilvántartást vezet.
+
+### 8. §
+
+(1) A Hatóság által vezetett nyilvántartásban szereplő képző szervek által szervezett képzés és vizsgáztatás feltételeit, valamint a képzés és vizsgáztatás e rendeletben és a vizsgaszabályzatban foglalt feltételeknek megfelelő lebonyolítását a Hatóság jogosult ellenőrizni.
+
+(2)[^13] Az (1) bekezdés szerinti ellenőrzés annak vizsgálatára irányul, hogy a képző szerv folyamatosan teljesíti-e a képzési programban foglaltakat, továbbá az e rendelet, valamint – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzat szerinti követelményeket.
+
+(3) A Hatóság törli a nyilvántartásból a képző szervet, ha
+
+a) a képző szerv kéri a törlését,
+
+b) a képző szerv jogutód nélkül megszűnik,
+
+c) az ellenőrzés során a Hatóság ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos – így különösen a képzés tárgyi feltételeire, a képzés lefolytatására, valamint a képző szervvé válás feltételeire vonatkozó szabályok – megsértését állapítja meg,
+
+d) a képző szerv a változás-bejelentési kötelezettségének nem tesz eleget, vagy
+
+e)[^14] a képző szerv a képzési programban foglaltakat ismételten vagy súlyosan megszegi.
+
+(4)[^15] Amennyiben az (1) bekezdés szerinti ellenőrzés során a Hatóság megállapítja, hogy a képző szerv a hatósági képzések során nem tartja be az e rendeletben, valamint a képzési programban foglaltakat, ezen állapot megszüntetésének igazolásáig, de legfeljebb hat hónapig a hatósági képzési tevékenységet felfüggesztheti, amely határidő eredménytelen elteltével a Hatóság az adott képző szervet törölheti a nyilvántartásából.
+
+(5)[^16] Amennyiben az (1) bekezdés szerinti ellenőrzés során a Hatóság megállapítja a vizsgáztatás azon személyi, illetve tárgyi feltételeinek a hiányát, amelyek a hatósági vizsga zavartalan lebonyolítását veszélyeztetik, az adott vizsgahelyszín vonatkozásában felfüggesztheti a képző szerv vizsgáztatási tevékenységét a személyi, illetve tárgyi feltételek biztosításának igazolásáig, de legfeljebb hat hónapig, amely határidő eredménytelen elteltével a Hatóság az adott vizsgahelyszínt törölheti a nyilvántartásából.
+
+(6)[^17] A Hatóság a (4) és (5) bekezdés szerinti intézkedései meghozatala során a jogellenes magatartás súlyát veszi figyelembe.
+
+### 9. §
+
+(1) A képzés időpontjairól és a képzéssel kapcsolatos egyéb tudnivalókról a képző szerv az internetes honlapján nyújt tájékoztatást.
+
+(2) A képző szervek jegyzékszámáról, nevéről és címéről, valamint a Hatóság által vezetett nyilvántartásból törölt képző szervek esetén a törlés dátumáról, továbbá a képzések időpontjairól a Hatóság az internetes honlapján nyújt tájékoztatást.
+
+## 3. A hatósági vizsga és a vizsgabiztos
+
+### 10. §
+
+Hatósági vizsgát – a 11. § (5) bekezdésében meghatározott személyek kivételével – az tehet, aki a hatósági képzést a hatósági vizsgára történő jelentkezés dátumát megelőzően legfeljebb tizenkét hónappal korábban teljesítette, amelyet a 7. § (1) bekezdése szerinti igazolással bizonyít.
+
+### 11. §
+
+(1) A hatósági vizsga az 1–4. mellékletben szereplő egyes vizsgáknál meghatározott vizsgatárgyakból áll.
+
+(2) Az adott hatósági vizsgát valamennyi – az 1–4. mellékletben szereplő egyes vizsgáknál meghatározott – vizsgatárgyból egyidejűleg kell letenni.
+
+(3) Az adott hatósági vizsga az 1–4. mellékletben szereplő egyes vizsgáknál meghatározott vizsgatárgyak alapszintű szakmai ismeretét kéri számon a kérdéstárban szereplő kérdésekből összeállított, a 13. § (1) bekezdése szerinti feladatlap segítségével.
+
+(4) A kérdéstárat a (3) bekezdésben és a 4. § (2) és (3) bekezdésében meghatározottak szerint kell kialakítani.
+
+(5)[^18] A függő biztosításközvetítői hatósági vizsgával rendelkező biztosításközvetítő a hatósági vizsga sikeres letételét követő négy éven belül – a képzés teljesítése nélkül – a 3. mellékletben meghatározott független biztosításközvetítői alapismeretek vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői hatósági bizonyítványt szerezhet.
+
+### 12. §
+
+(1)[^19] A Hatóság által vezetett nyilvántartásba vizsgabiztosként az a természetes személy vehető fel és egyben a Hatóság által a hatósági vizsga lebonyolítására az a vizsgabiztos bízható meg, aki vállalja, hogy eleget tesz az e rendeletben és a vizsgaszabályzatban foglalt követelményeknek, és
+
+a) felsőfokú végzettséggel rendelkezik, vagy
+
+b) középfokú végzettséggel rendelkezik, és hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál, biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítők magyarországi fióktelepénél, befektetési vállalkozásnál, befektetési alapkezelőnél, államigazgatási szervnél vagy közigazgatási hatóságnál pénzügyi vagy gazdasági területen vagy hitelintézetek, pénzügyi vállalkozások, pénzügyi szolgáltatás közvetítők, biztosítók, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetek, harmadik országban székhellyel rendelkező biztosításközvetítők magyarországi fióktelepe, szaktanácsadók, befektetési vállalkozások, befektetési alapkezelők szakmai érdekvédelmi vagy érdek-képviseleti szervénél legalább öt éves pénzügyi szakmai, biztosításszakmai befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett.
+
+(1a)[^20] A Hatóság megbízási szerződést köt a nyilvántartásban szereplő vizsgabiztossal az adott hatósági vizsga lebonyolításával kapcsolatos feladatok ellátására. A Hatóság a vizsgabiztos részére egységes elvek alapján meghatározott megbízási díjat fizet.
+
+(1b)[^21] A vizsgabiztos a Hatóság által vezetett nyilvántartásban szereplő adatai, valamint telefonos és elektronikus elérhetősége változását a Hatóságnak a változástól számított nyolc napon belül bejelenti.
+
+(2) A vizsgabiztos tevékenységének e rendeletben, továbbá a vizsgaszabályzatban foglalt feltételeknek való megfelelését a Hatóság jogosult ellenőrizni.
+
+(3) A (2) bekezdés szerinti ellenőrzés annak vizsgálatára irányul, hogy a vizsgabiztos folyamatosan teljesíti-e az e rendelet, továbbá a vizsgaszabályzat szerinti követelményeket.
+
+(4) Ha a Hatóság az ellenőrzése során a vizsgabiztossal szemben az e rendelet vagy a vizsgaszabályzat megsértését állapítja meg, az adott vizsgára történő vizsgabiztosi megbízását visszavonhatja.
+
+(5)[^22] Akivel szemben a Hatóság ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos megsértését állapítja meg, vizsgabiztosnak az ezt megállapító határozat véglegessé válásától számított öt évig nem bízható meg.
+
+(6) Az adott vizsga lebonyolítására megbízott vizsgabiztos nem lehet olyan személy, aki a vizsgázó Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója, vagy aki a vizsgázó hatósági képzésében részt vett.
+
+(7) A vizsgabiztos nem működhet közre a vizsgáztatásban annál a képző szervnél, amellyel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+
+### 13. §
+
+(1)[^23] A hatósági vizsga előre meghatározott helyszínen és időpontban, számítógépes vizsgaprogram igénybevételével, magyar nyelvű feleletválasztós feladatlap kitöltésével tehető le.
+
+(2)[^24] A képző szervnek – amennyiben vizsgáztatási tevékenységet is ellát – rendelkeznie kell a vizsga helyszínén az azon részt vevők létszámának megfelelő számú számítógéppel, és a szükséges számítógépes programokkal.
+
+(3) A hatósági vizsga időtartama alatt a vizsgahelyiségben kizárólag a vizsgázók, a vizsgabiztosok, valamint a vizsgáztatást ellenőrző személyek tartózkodhatnak.
+
+(4)[^25] A hatósági vizsga vizsgahelyiségen kívül is szervezhető.
+
+(5)[^26] Vizsgahelyiségen kívüli vizsga esetén a vizsgázó személyazonosságát elektronikus kép és hang továbbítására alkalmas eszköz útján kell ellenőrizni. A vizsgahelyiségen kívüli vizsgáztatás ellenőrzésének és lebonyolításának részletes szabályait a vizsgaszabályzat határozza meg.
+
+### 14. §
+
+(1)[^27] A vizsgára történő jelentkezés a Hatóság honlapján közzétett jelentkezési lap kitöltésével történik, amelyet a képző szerv útján a Hatósághoz kell benyújtani a vizsga megjelölt előzetes időpontját legalább tizenöt nappal megelőzően, míg sikertelen vizsga utáni pótvizsga esetén a pótvizsga megjelölt előzetes időpontját legalább tíz nappal megelőzően.
+
+(2)[^28] A vizsgára jelentkező a jelentkezési lapon megjelöli a természetes személyazonosító adatait, a vizsgára bocsátás alapjául szolgáló végzettségét, illetve szakmai tapasztalatát, a tervezett vizsga típusát, előzetes időpontját, helyszínét vagy a vizsgahelyiségen kívüli vizsga igényét, megismételt vizsga esetén az előző, sikertelen vizsga helyszínét és időpontját, valamint nyilatkozik a vizsgaszabályzat elfogadásáról, továbbá a sikeres vizsga letétele esetén kiállítandó hatósági bizonyítvány kiállításának módjáról.
+
+(3)[^29] A jelentkezési laphoz csatolni kell a 20. § (1) bekezdésében meghatározott vizsgadíj megfizetésére vonatkozó igazolást, valamint – a 11. § (5) bekezdésében meghatározott személyek kivételével – az érettségi bizonyítvány másolatát vagy az 5. § (3) bekezdés b)–d) pontjában meghatározott, a munkáltató vagy a megbízó által kiállított, szakmai tapasztalatra vonatkozó – akár elektronikusan kiállított – igazolást, továbbá a képző szerv által elektronikusan kiállított, a 7. § (1) bekezdésében meghatározott igazolást.
+
+(3a)[^30] A képző szerv az (1) bekezdés szerinti eredeti jelentkezési lapot és annak (3) bekezdés szerinti mellékleteit elektronikusan továbbítja a Hatóság felé, továbbá azokat – a vizsgára jelentkező személy beleegyező nyilatkozata birtokában – a hatósági vizsgát követő két évig megőrzi és a hatósági ellenőrzés során a Hatóságnak kérésére bemutatja.
+
+(4) Ha a benyújtott jelentkezés nem felel meg e rendelet rendelkezéseinek, vagy más okból kiegészítésre vagy kijavításra szorul, a Hatóság a jelentkezést – annak beérkezésétől számított nyolc napon belül – a hiány megjelölésével elutasítja.
+
+(5)[^31] A (4) bekezdés szerinti elutasítás esetén az (1) bekezdés szerinti új jelentkezést kell benyújtani, azzal, hogy az elutasítást követő három hónapon belüli új jelentkezés esetén a korábban már csatolt, a 20. § (1) bekezdésében meghatározott vizsgadíj megfizetésére vonatkozó igazolás és a (3) bekezdés szerinti érettségi bizonyítvány-másolat benyújtása nem szükséges.
+
+(6) A Hatóság minden vizsgára jelentkező részére a jelentkezéstől számított két hónapon belül köteles vizsgaidőpontot biztosítani, és arról a jelentkezőt a képző szerv útján írásban értesíteni.
+
+(7)[^32] A Hatóság köteles – vizsgatípusonként – szükséges számú, de
+
+a) augusztus és december hónapok kivételével havonta legalább kettő,
+
+b) augusztus és december hónapokban havonta legalább egy
+
+vizsgát szervezni, és azok előzetes időpontjait legalább hat hónappal előre, közlemény formájában az internetes honlapján közzétenni.
+
+(8)[^33] Sikertelen vizsgát követő újabb vizsgára történő jelentkezés az (1) bekezdésben megjelölt jelentkezési lap megfelelő kitöltésével történik, amelyhez csatolni kell a vizsgadíj újbóli befizetésére vonatkozó igazolást.
+
+### 15. §
+
+(1) A hatósági vizsga akkor sikeres, ha a vizsgázó a feladatok megoldására adható összpontszám legalább 75%-át elérte.
+
+(2)[^34] A hatósági vizsga sikeres letételét a vizsgázó természetes személyazonosító adatait, a bizonyítvány számát, továbbá a vizsga típusát és időpontját tartalmazó hatósági bizonyítvány igazolja, amelyet a Hatóság a vizsgajegyzőkönyv beérkezését követő öt napon belül állít ki.
+
+(3)[^35] A Hatóság a hatósági bizonyítványt elektronikus irat formájában állítja ki. A vizsgázó kérelme esetén a hatósági bizonyítványt papír alapon állítja ki.
+
+(4)[^36] A Hatóság az elektronikus irat formájában kiállított hatósági bizonyítványt elektronikus úton kézbesíti.
+
+(5)[^37]
+
+### 16. §
+
+(1)[^38] A vizsgáról vizsgajegyzőkönyv készül, amelyet a vizsgabiztos
+
+a) a vizsga napján vagy
+
+b) amennyiben a képző szerv székhelye a vizsgahelyszín címétől eltérő városban van, akkor legkésőbb a vizsgát követő munkanapon
+
+eljuttat a képző szerv részére, amely a vizsgajegyzőkönyvet elektronikus formában továbbítja a Hatóság részére.
+
+(2) A vizsgajegyzőkönyv tartalmazza a vizsgázók nevét, aláírását, a vizsga helyszínét, kezdő és befejező időpontját, a vizsgabiztos és a vizsgáztatást ellenőrző személyek nevét, aláírását, a vizsga eredményét vizsgázók szerint, valamint a felfüggesztett vizsgázó nevét, a felfüggesztés okát és a felfüggesztés körülményeire vonatkozó rövid ismertetést.
+
+### 18. §
+
+(1) A vizsga lebonyolítására vonatkozó szabályokat tartalmazó vizsgaszabályzatot és a kérdéstárat a Hatóság elkészíti, és a honlapján közzéteszi.
+
+(2) A hatósági képzéssel és a hatósági vizsgával kapcsolatos egyéb tudnivalókról a Hatóság a honlapján közleményt tesz közzé.
+
+## 4. A hatósági képzéssel és vizsgával kapcsolatos kifogások
+
+### 19. §
+
+(1)[^40] A vizsgázó – a hatósági vizsga napjától számított négy napon belül – a képző szervnél a vizsgadolgozat megtekintése iránti kérelmet terjeszthet elő, amelyben a vizsgadolgozat személyes megtekintését vagy az elektronikus levelezési címe megadásával a vizsgadolgozat elektronikus levélben részére történő megküldését kérelmezheti. A képző szerv a kérelmet annak beérkezésétől számított négy napon belül megküldi a Hatóságnak, amely – ez irányú kérelem esetén – négy napon belül elektronikusan megküldi a vizsgázó részére a vizsgadolgozatot.
+
+(2)[^41] A hatósági képzéssel, illetve vizsgával kapcsolatban – a vizsgaszabályzatban és az e rendeletben foglaltak megsértése esetén – a tudomásszerzéstől számított nyolc napon belül a képző szervnél benyújtandó kifogásnak van helye.
+
+(3)[^42] A (2) bekezdés szerinti tudomásszerzés napja
+
+a) hatósági képzéssel kapcsolatos sérelem esetén legkésőbb az a nap, amikor a képzésben részt vevő a 7. § (1) bekezdése szerinti igazolást kézhez vette,
+
+b) hatósági vizsgával kapcsolatos sérelem esetén a vizsga napja, vagy – amennyiben a vizsgázó az (1) bekezdés szerinti kérelmet terjesztett elő – a vizsgadolgozat személyes megtekintésének a napja vagy a vizsgadolgozat vizsgázó részére elektronikus levélben történő megküldésének a napja.
+
+(4) A képző szerv a kifogást – annak beérkezésétől számított nyolc napon belül – megküldi a Hatóságnak, kivéve, ha a képző szerv a kifogás tárgyát képező intézkedését visszavonja, vagy, ha a kifogásnak megfelelően jár el.
+
+(5) A Hatóság a kifogás beérkezésétől számított harminc napon belül a kifogást megvizsgálja, és annak eredményéről értesíti a kifogás előterjesztőjét.
+
+## 5. A hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályok
+
+### 20. §
+
+(1)[^43] A hatósági vizsga díja tizennégyezer-ötszáz forint, a 11. § (5) bekezdésében meghatározott különbözeti vizsga díja ötezer forint.
+
+(2) A vizsgadíjat a jelentkező a Hatóság 19017004-01770000-30901002 számú számlájára fizeti be, a közlemény rovatban a jelentkező neve és a hatósági vizsgadíj megjegyzés feltüntetésével.
+
+### 21. §
+
+(1)[^44]
+
+(2) Ha a vizsgázó a hatósági vizsgán önhibáján kívüli váratlan okból nem jelent meg, az akadály megszűnésétől számított tíz napon belül, de legkésőbb az elmulasztott vizsgaidőpontot követő két hónapon belül írásban benyújtott kérelmében – a körülményekre vonatkozó igazolás csatolásával – kérheti a vizsgadíj utólagos visszatérítését, vagy térítésmentesen új vizsgaidőpont biztosítását. A Hatóság a kérelemnek megfelelően jár el, ha az határidőben, hiánytalanul megérkezik.
+
+## 6. Záró rendelkezések
+
+### 22. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő harmincadik napon lép hatályba.
+
+(2) A 24. §, a 25. §, a 26. § c)–e) pontja és a 10. melléklet 2017. január 1-jén lép hatályba.
+
+### 23. §
+
+E rendelet rendelkezéseit a hatálybalépése után indult hatósági képzésekre és megtartott hatósági vizsgákra kell alkalmazni.
+
+### 24. §[^45]
+
+E rendeletnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló 40/2015. (XII. 30.) NGM rendelet módosításáról szóló 42/2024. (XII. 4.) NGM rendelettel megállapított 20. § (1) bekezdését a Hatóság számára 2025. január 1-jén vagy azt követően benyújtott vizsgajelentkezésekre kell alkalmazni.
+
+### 26. §
+
+Hatályát veszti
+
+a)–b)[^47]
+
+c)–e)[^48]
+
+### 27. §[^49]
+
+(1) A 2. § (2) bekezdésének, a 3. § (1) bekezdés b) pontjának, a 3. § (2) és (2a) bekezdésének, az 5. § (3) bekezdésének, a 6. §-nak, a 12. § (1) és (1a) bekezdésének, a 14. § (1) és (3) bekezdésének, valamint a 19. § (3) bekezdésének – a nemzetgazdasági miniszter feladatkörébe tartozó, a pénzügyi közvetítőrendszert érintő egyes miniszteri rendeletek módosításáról szóló 21/2016. (VI. 29.) NGM rendelet 10–12. §-ával, 13. § (1) bekezdésével, valamint 20. § *b)–d), g), i), k), l)* és *n)* pontjával megállapított – rendelkezéseit a 2016. augusztus 1-jén vagy azt követően indult hatósági képzésekre és megtartott hatósági vizsgákra kell alkalmazni.
+
+(2) Az 1. § b) pontjának, a 3. § (1) bekezdés d) és e) pontjának, a 8. § (2) bekezdésének, a 12. § (1), (1a) és (1b) bekezdésének, a 13. § (2) bekezdésének, a 14. § (7) bekezdésének, a 15. § (2) bekezdésének, a 16. § (1) bekezdésének, a 19. § (2) bekezdésének és a 9. mellékletnek – a nemzetgazdasági miniszter feladatkörébe tartozó, a pénzügyi közvetítőrendszert érintő egyes miniszteri rendeletek módosításáról szóló 21/2016. (VI. 29.) NGM rendelet 13. § (2) és (3) bekezdésével, 14–17. §-ával, 19. §-ával, 20. § a), e), f), h), j) és m) pontjával, valamint 3. mellékletével megállapított – rendelkezéseit a 2017. július 1-jén vagy azt követően indult hatósági képzésekre és megtartott hatósági vizsgákra kell alkalmazni.
+
+## 1. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+
+**A pénzügyi szolgáltatás közvetítői hatósági vizsga követelményei**
+
+1\. Vizsgatárgy: A pénzügyi piacok
+
+1.1. Pénzügyi piacok szereplői, tevékenységük és szolgáltatásaik
+
+1.1.1. Pénzügyi piac fogalma
+
+1.1.2. Pénzügyi közvetítőrendszer intézményei (bank, szakosított hitelintézet, szövetkezeti hitelintézet, pénzügyi vállalkozás, pénzforgalmi intézmény, biztosító, befektetési vállalkozás, befektetési alapkezelő)
+
+1.1.3. Kétszintű bankrendszer fogalma (Magyar Nemzeti Bank, hitelintézetek), a jegybank és a hitelintézetek feladatai és szolgáltatásai
+
+1.1.4. Értékpapír fogalma, fajtái, a tőzsde fogalma és szerepe
+
+1.1.5. A pénzforgalmi szolgáltatások
+
+1.1.6. Pénztári szolgáltatások csoportosítása és fő szolgáltatásai (önkéntes egészségpénztár, kötelező magánnyugdíjpénztár, önkéntes nyugdíjpénztár)
+
+1.1.7. Eltérés és kapcsolódás a hitelintézeti, a befektetési, a pénztári és a biztosítói szektor és szolgáltatásai között
+
+1.2. A pénzpiac szereplői
+
+1.2.1. A hitelintézetek, pénzügyi vállalkozások és a pénzforgalmi intézmények szervezeti formái és értékesítési csatornái
+
+1.2.2. A pénzügyi szolgáltatás közvetítői tevékenység formái (pénzpiaci függő közvetítők, pénzpiaci független közvetítők)
+
+1.2.3. A pénzügyi szolgáltatás közvetítők piacra lépésének feltételei és működésük főbb szabályai (regisztrációs/engedélyezési követelmény, a végzettségre/szakképesítésre/képesítésre vonatkozó követelmények, jogkör, kötelezettség)
+
+1.2.4. A pénzpiaci közvetítők általános tájékoztatási kötelezettsége
+
+1.3. A pénzpiac működését érintő hatóságok és egyéb szervezetek
+
+1.3.1. Magyar Nemzeti Bank pénzügyi közvetítőrendszer felügyeletével kapcsolatos főbb feladatai, jogkörei
+
+(pénzügyi közvetítőrendszer felügyeletét ellátó szerv pénzpiaci közvetítőkre vonatkozó ajánlásai, útmutatói és jogi állásfoglalásai)
+
+1.3.2. Magyar Nemzeti Bank jegybanki funkciójával kapcsolatos főbb feladatai, jogkörei
+
+1.3.3. Gazdasági Versenyhivatal (a pénzpiacot érintő versenyszabályok lényege)
+
+1.3.4. Adatvédelmi Biztos Hivatala, tevékenységei (a pénzpiaci szektorra vonatkozó adatvédelemmel kapcsolatos szabályok)
+
+1.3.5. A banktitok, az értékpapírtitok a fizetési titok, az üzleti titok és személyes adatok kezelésére vonatkozó szabályok
+
+1.3.6. A pénzmosás és a terrorizmus finanszírozásának megelőzésére és megakadályozására vonatkozó jogszabály
+
+1.3.7. Országos Betétbiztosítási Alap
+
+1.3.8. A békéltető testület feladata, jogköre
+
+1.3.9. Fogyasztóvédelem, az esetleges jogsérelem orvoslásának lehetőségei
+
+2\. Vizsgatárgy: Általános jogi ismeretek
+
+2.1. Jogi kötelmek
+
+2.1.1. Közjegyzői okiratba foglalt szerződések
+
+2.1.2. Egyoldalú kötelezettségvállalási/ tartozáselismerő okirat
+
+2.1.3. Kétoldalú közjegyzői okirat
+
+2.1.4. Magánokirati forma
+
+2.1.5. A jelzálogjog és az elidegenítési- és terhelési tilalom bejegyzése
+
+2.1.6. Egyedi azonosításra kétséget kizáróan alkalmas ingó dolgokra bejegyzett zálogjog bejegyzése
+
+2.1.7. Az adásvételi szerződésekkel szemben támasztott követelmények
+
+2.1.8. Meghatalmazások
+
+2.2. Szerződésmódosítás
+
+2.2.1. Elő- és végtörlesztés
+
+2.2.2. Futamidő-módosítás
+
+2.2.3. Rendelkezésre tartási idő hosszabbodása
+
+2.2.4. Rendelkezésre tartási idő rövidülése
+
+2.2.5. Devizanemváltás
+
+2.2.6. Fedezet kiengedés (több ingatlanfedezet esetén)
+
+2.2.7. Fedezetcsere (egy vagy több ingatlanfedezet esetén)
+
+2.2.8. Hitelfedezeti életbiztosítás kiengedése, felmondása
+
+2.2.9. Kockázatot befolyásoló szereplők módosulása
+
+2.2.10. Zálogkötelezettek személyének változása
+
+2.2.11. Egyoldalú szerződésmódosítás szabályai
+
+3\. Vizsgatárgy: Lakossági megtakarítási és befektetési termékek
+
+3.1. Lakossági megtakarítási termékek
+
+3.1.1. Fizetési számla (bankszámla)
+
+3.1.2. Bankkártya szolgáltatások
+
+3.1.3. Elektronikus bankszolgáltatások
+
+3.1.4. Számlák, szolgáltatások díjai, kondíciói
+
+3.1.5. Kamatszámítás alapjai, fogalmak, számpéldák
+
+3.1.6. Jelenérték számítás
+
+3.1.7. Számlabetét
+
+3.1.8. Takarékbetét
+
+3.1.9. Betéti okirat
+
+3.1.10. Lakás-takarékpénztári betét
+
+3.1.11. A betéthez kapcsolódó banki díjak, és az egységesített betéti kamatláb mutató
+
+3.2. Befektetési termékek
+
+3.2.1. A befektetés hozama, kockázata, a kockázatok csökkentése, a befektetés futamideje és a befektető likviditása, egységesített értékpapír hozam mutató
+
+3.2.2. Befektetési termékek
+
+3.2.3. Bankok által kínált értékpapír-befektetések
+
+3.2.4. Előtakarékossági befektetések
+
+3.2.5. Befektető-védelmi Alap (BEVA)
+
+4\. Vizsgatárgy: Hitelezési alapfogalmak
+
+4.1. Hitelezési alapfogalmak
+
+4.1.1. A hitel kamatozása
+
+4.1.2. A hitel futamideje
+
+4.1.3. A hitel törlesztése
+
+4.1.4. A hitel devizaneme
+
+4.1.5. Kamatperiódus
+
+4.1.6. Minimális hitelkritériumok
+
+4.1.7. Fedezet alapú finanszírozás, jövedelem alapú finanszírozás
+
+4.1.8. Biztosítékok
+
+4.1.9. Egyéb kockázatcsökkentő módszerek
+
+4.1.10. A hitel egyéb, kamaton kívüli terhei és a teljes hiteldíj mutató
+
+4.1.11. Központi Hitelinformációs Rendszer, hitelkérelmek benyújtásához szükséges alapdokumentumok
+
+4.2. A kölcsönügyletben részt vevő személyek
+
+4.2.1. Adós
+
+4.2.2. Főadós
+
+4.2.3. Kötelezően bevonandó adóstárs
+
+4.2.4. Fizetőképességet javító adóstárs
+
+4.2.5. Készfizető kezes
+
+4.2.6. Zálogkötelezett
+
+4.2.7. Haszonélvezeti jog jogosultja
+
+4.3. Ingatlanfedezetekre vonatkozó szabályok
+
+4.3.1. Fedezetként elfogadható ingatlanokra vonatkozó általános szabályok
+
+4.3.2. Fedezetet terhelő jogokra vonatkozó előírások
+
+4.3.3. Elfogadható fennmaradó feljegyzések/terhek
+
+4.3.4. Fedezetpótlás értékcsökkenés miatt
+
+4.3.5. Terhelt ingatlanfedezetek elfogadhatóságának általános szabályai
+
+4.3.6. Ingatlanfedezet utólagos terhelése
+
+4.3.7. Több fedezet bevonásának lehetősége egy hitelügyletbe
+
+4.3.8. Osztatlan közös tulajdonú fedezet
+
+4.3.9. Takarnet
+
+4.4. Biztosítékok
+
+4.4.1. Óvadék
+
+4.4.2. Zálogjog, rendhagyó zálogjog
+
+4.4.3. Kezesség
+
+4.4.4. Állami kezességvállalás és garancia
+
+4.4.5. Életbiztosítás
+
+4.4.6. Vagyonbiztosítás
+
+4.4.7. Felhatalmazó levélen alapuló beszedés
+
+4.4.8. Ritkábban kikötött biztosítéktípusok
+
+5\. Vizsgatárgy: Hiteltípusok és hiteltermékek
+
+5.1. Hiteltípusok és hiteltermékek
+
+5.1.1. Lakáscélú hitel
+
+5.1.2. Szabad felhasználású hitel
+
+5.1.3. Személyi hitel
+
+5.1.4. Hitelkártya
+
+5.1.5. Áruhitel (a fogyasztási hitelek különös szabályai)
+
+5.1.6. Folyószámlahitel
+
+5.1.7. Speciális hitel (diákhitel)
+
+5.1.8. Államilag támogatott hitel
+
+5.1.9. Gépjárműhitel
+
+5.2. Kombinált hitelek
+
+5.2.1. Lakás-előtakarékossággal kombinált jelzáloghitel
+
+5.2.2. Életbiztosítással kombinált jelzáloghitel
+
+5.3. Lízing
+
+5.3.1. Pénzügyi lízing
+
+5.3.2. Operatív lízing
+
+5.3.3. Gépjármű lízing sajátosságai
+
+5.3.4. Eszközlízing sajátosságai
+
+5.3.5. Az ingatlanlízing sajátosságai
+
+5.3.6. Tartós bérlet
+
+6\. Vizsgatárgy: A mikro-, kis- és középvállalati üzletág főbb termékei és szolgáltatásai
+
+6.1. Hitelügyletek
+
+6.2. Éven belüli forgóeszközhitelek
+
+6.3. Éven túli beruházási hitelek
+
+6.4. Lízing
+
+6.5. Támogatott hitelkonstrukciók
+
+6.6. Egyéb hitel jellegű konstrukciók
+
+6.7. Bankgarancia
+
+6.8. Faktorálás
+
+## 2. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+
+**A függő biztosításközvetítői hatósági vizsga követelményei**
+
+1\. Vizsgatárgy: Pénzügyi és biztosítási piac szereplői
+
+*A)* Pénzügyi piacok szereplői, tevékenységük és szolgáltatásaik
+
+1\. Pénzügyi piac fogalma
+
+2\. Pénzügyi közvetítőrendszer intézményei (hitelintézet, szakosított hitelintézet, hitelszövetkezet, pénzügyi vállalkozás, biztosítók, befektetési szolgáltatók, befektetési alapkezelők)
+
+3\. Kétszintű bankrendszer fogalma (Magyar Nemzeti Bank, kereskedelmi bankok), a jegybank és a kereskedelmi bankok feladatai és szolgáltatásai
+
+4\. Értékpapír fogalma, fajtái
+
+5\. Tőzsde fogalma és szerepe
+
+6\. A bankszerűen működő pénzintézetek tevékenységei (takarékszövetkezetek, szakosított hitelintézetek)
+
+7\. Pénztári szolgáltatások csoportosítása és fő szolgáltatásai
+
+7.1. Önkéntes egészségpénztár
+
+7.2. Önkéntes nyugdíjpénztár
+
+8\. Eltérés és kapcsolódás a banki, a befektetési, a pénztári és a biztosítói szektor és szolgáltatásai között
+
+*B)* Biztosítási piac szereplői
+
+1\. Biztosítók szervezeti formái és értékesítési csatornái
+
+2\. Biztosításközvetítői tevékenység formái
+
+2.1. függő biztosításközvetítő (ügynök, többes ügynök)
+
+2.2. független biztosításközvetítő (alkusz)
+
+3\. Biztosításközvetítők piacra lépésének feltételei és működésük főbb szabályai
+
+3.1. Regisztrációs követelmény
+
+3.2. A végzettségre/szakképesítésre/képesítésre vonatkozó követelmények
+
+3.3. Jogkör, kötelezettség
+
+4\. Biztosításközvetítők általános tájékoztatási kötelezettsége
+
+5\. Szakmai szövetségek tevékenysége, célja, feladatköre
+
+5.1. A MABISZ tevékenysége, célja, feladatköre, Etikai kódex, Kártalanítási Számla, Kártalanítási Alap
+
+5.2. A FBAMSZ, MABIASZ tevékenysége, célja
+
+*C)* A biztosítási piac működését érintő hatóságok és egyéb szervezetek
+
+1\. A Magyar Nemzeti Bank pénzügyi közvetítőrendszer felügyeletével kapcsolatos főbb feladatai, jogkörei
+
+(pénzügyi közvetítőrendszer felügyeletét ellátó szerv biztosításközvetítőkre vonatkozó ajánlásai, útmutatói)
+
+2\. A Gazdasági Versenyhivatal (a biztosítást érintő versenyszabályok lényege)
+
+3\. A Nemzeti Adatvédelmi és Információszabadság Hatóság, tevékenysége (a biztosítási szektorra vonatkozó adatvédelemmel kapcsolatos szabályok)
+
+4\. Biztosítási titok és személyes adatok kezelésére vonatkozó szabályok
+
+5\. A pénzmosás és a terrorizmus finanszírozásának megelőzésére és megakadályozására vonatkozó jogszabály
+
+6\. A békéltető testület feladata, jogköre
+
+7\. Fogyasztóvédelem, az esetleges jogsérelem orvoslásának lehetőségei
+
+2\. Vizsgatárgy: Biztosításszakmai alapfogalmak
+
+2.1. Veszély, bizonytalanság, kockázat fogalma
+
+2.2. Kár, kártérítés, kármegelőzés, kárenyhítés, kárkiegyenlítés fogalma
+
+2.3. Kockázatkezelési módszerek (elkerülés, megelőzés, áthárítás, megtartás) kockázatviselés, öngondoskodás
+
+2.4. Veszélyközösség fogalma
+
+2.5. Biztosíthatóság feltételei (jövőbeliség, véletlenszerűség, bizonytalanság, kalkulálhatóság)
+
+2.6. A biztosítás fogalma
+
+2.7. Biztosítók kockázatmegosztási programjai (hazai, nemzetközi)
+
+2.7.1. Viszontbiztosítás fogalma
+
+2.7.2. Együttbiztosítás fogalma
+
+2.7.3. Pool fogalma
+
+2.7.4. Fronting fogalma
+
+2.8. Biztosítási ág, ágazat, termék fogalma
+
+2.9. Alapbiztosítás, kiegészítő biztosítás fogalma
+
+2.10. Biztosítási igény felmérése, dokumentálása
+
+2.11. Összeg-, kárbiztosítás fogalma, a kárrendezés, a kárrendezés menete és dokumentálása (belső és kiszervezett)
+
+2.12. Biztosítási díj elemei és funkciói
+
+2.13. Engedmények, pótdíjak fajtái
+
+2.14. Pénzforgalommal kapcsolatos szabályok (átvett díj kezelése)
+
+2.15. Biztosítástechnikai tartalékok, a tartalékok fogalma, szerepe és fajtái
+
+2.16. Pénzügyi matematikai alapműveletek
+
+2.16.1. Kamat, kamatos kamat fogalma
+
+2.16.2. Jelenérték fogalma
+
+2.16.3. Jövőérték fogalma
+
+2.16.4. Belső megtérülési ráta fogalma
+
+3\. Vizsgatárgy: Biztosítási szerződésjog
+
+*A)* Általános szabályok
+
+1\. Biztosítási szerződés fogalma
+
+2\. Biztosítási szerződések alapelvei
+
+2.1. Önkéntesség
+
+2.2. Egyenjogúság
+
+2.3. Egyoldalú kógencia tilalma
+
+2.4. Írásbeliség
+
+2.5. Díjoszthatatlanság
+
+3\. A biztosítási szerződés szereplői
+
+3.1. A biztosító
+
+3.2. A szerződő
+
+3.3. A biztosított
+
+3.4. A kedvezményezett
+
+3.5. A károsult
+
+4\. A biztosítási szerződés megkötése
+
+4.1. A szerződés megkötésének folyamata
+
+4.2. A biztosítási szerződés létrejötte, hatálybalépése és a kockázatviselés kezdete
+
+4.3. A biztosítás technikai kezdete
+
+5\. A felek egyes kötelezettségei a szerződés megkötése előtt és fennállása alatt
+
+5.1. Díjfizetési kötelezettség
+
+5.2. Közlési és változásbejelentési kötelezettség
+
+5.3. Bejelentési és adatszolgáltatási kötelezettség
+
+6\. Biztosítási szerződés módosítása
+
+6.1. Módosítás a szerződés megkötésének folyamatában
+
+6.2. Módosítás a szerződés fennállása alatt
+
+6.3. Értékkövetés (indexálás)
+
+6.4. A szerződésmódosítás egyéb esetei
+
+7\. A biztosítási szerződés megszűnése
+
+7.1. A kockázatviselés megszűnése
+
+7.2. A felek megállapodása (közös megegyezés)
+
+7.3. Rendes felmondás
+
+7.4. Lejárat
+
+7.5. Biztosítási esemény bekövetkezése
+
+7.6. Biztosított halála
+
+7.7. Biztosítási érdek megszűnése (érdekmúlás)
+
+7.8. Lehetetlenülés
+
+7.9. Díjnemfizetés
+
+7.10. Rendkívüli felmondás
+
+7.11. Visszavásárlás
+
+7.12. A biztosítási összeg kimerülése
+
+7.13. Biztosítási szerződés szüneteltetése
+
+7.14. A biztosítási szerződés technikai megszűnése
+
+8\. A biztosító törvényi engedményesi joga és visszakövetelési joga (regressz)
+
+*B)* Az egyes biztosítási típusokra vonatkozó polgári jogi szabályok
+
+1\. Vagyonbiztosítás
+
+1.1. A biztosítási összeg
+
+1.2. Túlbiztosítás tilalma
+
+1.3. Alulbiztosítás jogkövetkezménye
+
+2\. Felelősségbiztosítás
+
+2.1. Felelősségbiztosítás fogalma
+
+2.2. A felelősségbiztosítás alanyai
+
+2.3. Gépjármű üzembentartójának kötelező felelősségbiztosítása
+
+3\. Életbiztosítás
+
+3.1. Az életbiztosítás és a hozzá kapcsolódó fogalmak
+
+3.2. Tájékoztatási kötelezettség az életbiztosítás esetén
+
+3.3. A szerződő jogai és kötelezettségei
+
+3.4. A biztosított jogai és kötelezettségei
+
+3.5. A biztosító szolgáltatása életbiztosítási szerződés esetén
+
+3.6. Az életbiztosítási szerződés megszűnése a biztosítási összeg kifizetése nélkül
+
+3.7. Díjmentesítés
+
+4\. Balesetbiztosítás
+
+4.1. Életbiztosítási szabályok alkalmazása
+
+4.2. Speciális szabályok alkalmazása
+
+4.3. Vagyonbiztosítási szabályok alkalmazása
+
+## 3. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+
+**A független biztosításközvetítői hatósági vizsga követelményei**
+
+1\. Vizsgatárgy: Pénzügyi és biztosítási piac szereplői
+
+*A)* Pénzügyi piacok szereplői, tevékenységük és szolgáltatásaik
+
+1\. Pénzügyi piac fogalma
+
+2\. Pénzügyi közvetítőrendszer intézményei (hitelintézet, szakosított hitelintézet, hitelszövetkezet, pénzügyi vállalkozás, biztosítók, befektetési szolgáltatók, befektetési alapkezelők)
+
+3\. Kétszintű bankrendszer fogalma (Magyar Nemzeti Bank, kereskedelmi bankok), a jegybank és a kereskedelmi bankok feladatai és szolgáltatásai
+
+4\. Értékpapír fogalma, fajtái
+
+5\. Tőzsde fogalma és szerepe
+
+6\. A bankszerűen működő pénzintézetek tevékenységei (takarékszövetkezetek, szakosított hitelintézetek)
+
+7\. Pénztári szolgáltatások csoportosítása és fő szolgáltatásai
+
+7.1. Önkéntes egészségpénztár
+
+7.2. Önkéntes nyugdíjpénztár
+
+8\. Eltérés és kapcsolódás a banki, a befektetési, a pénztári és a biztosítói szektor és szolgáltatásai között
+
+*B)* Biztosítási piac szereplői
+
+1\. Biztosítók szervezeti formái és értékesítési csatornái
+
+2\. Biztosításközvetítői tevékenység formái
+
+2.1. függő biztosításközvetítő (ügynök, többes ügynök)
+
+2.2 független biztosításközvetítő (alkusz)
+
+3\. Biztosításközvetítők piacra lépésének feltételei és működésük főbb szabályai
+
+3.1. Regisztrációs követelmény
+
+3.2. A végzettségre/szakképesítésre/képesítésre vonatkozó követelmények
+
+3.3. Jogkör, kötelezettség
+
+4\. Biztosításközvetítők általános tájékoztatási kötelezettsége
+
+5\. Szakmai szövetségek tevékenysége, célja, feladatköre
+
+5.1. A MABISZ tevékenysége, célja, feladatköre, Etikai kódex, Kártalanítási Számla, Kártalanítási Alap
+
+5.2. A FBAMSZ, MABIASZ tevékenysége, célja
+
+*C)* A biztosítási piac működését érintő hatóságok és egyéb szervezetek
+
+1\. A Magyar Nemzeti Bank pénzügyi közvetítőrendszer felügyeletével kapcsolatos főbb feladatai, jogkörei (pénzügyi közvetítőrendszer felügyeletét ellátó szerv biztosításközvetítőkre vonatkozó ajánlásai, útmutatói)
+
+2\. Gazdasági Versenyhivatal (a biztosítást érintő versenyszabályok lényege)
+
+3\. Nemzeti Adatvédelmi és Információszabadság Hatóság, tevékenysége (a biztosítási szektorra vonatkozó adatvédelemmel kapcsolatos szabályok)
+
+4\. Biztosítási titok és személyes adatok kezelésére vonatkozó szabályok
+
+5\. A pénzmosás és a terrorizmus finanszírozásának megelőzésére és megakadályozására vonatkozó jogszabály
+
+6\. A békéltető testület feladata, jogköre
+
+7\. Fogyasztóvédelem, az esetleges jogsérelem orvoslásának lehetőségei
+
+2\. Vizsgatárgy: Biztosításszakmai alapfogalmak
+
+2.1. Veszély, bizonytalanság, kockázat fogalma
+
+2.2. Kár, kártérítés, kármegelőzés, kárenyhítés, kárkiegyenlítés fogalma
+
+2.3. Kockázatkezelési módszerek (elkerülés, megelőzés, áthárítás, megtartás) kockázatviselés, öngondoskodás
+
+2.4. Veszélyközösség fogalma
+
+2.5. Biztosíthatóság feltételei (jövőbeliség, véletlenszerűség, bizonytalanság, kalkulálhatóság)
+
+2.6. A biztosítás fogalma
+
+2.7. Biztosítók kockázatmegosztási programjai (hazai, nemzetközi)
+
+2.7.1. Viszontbiztosítás fogalma
+
+2.7.2. Együttbiztosítás fogalma
+
+2.7.3. Pool fogalma
+
+2.7.4. Fronting fogalma
+
+2.8. Biztosítási ág, ágazat, termék fogalma
+
+2.9. Alapbiztosítás, kiegészítő biztosítás fogalma
+
+2.10. Biztosítási igény felmérése, dokumentálása
+
+2.11. Összeg-, kárbiztosítás fogalma, a kárrendezés, a kárrendezés menete és dokumentálása (belső és kiszervezett)
+
+2.12. Biztosítási díj elemei és funkciói
+
+2.13. Engedmények, pótdíjak fajtái
+
+2.14. Pénzforgalommal kapcsolatos szabályok (átvett díj kezelése)
+
+2.15. Biztosítástechnikai tartalékok, a tartalékok fogalma, szerepe és fajtái
+
+2.16. Pénzügyi matematikai alapműveletek
+
+2.16.1. Kamat, kamatos kamat fogalma
+
+2.16.2. Jelenérték fogalma
+
+2.16.3. Jövőérték fogalma
+
+2.16.4. Belső megtérülési ráta fogalma
+
+3\. Vizsgatárgy: Biztosítási szerződésjog
+
+*A)* Általános szabályok
+
+1\. Biztosítási szerződés fogalma
+
+2\. Biztosítási szerződések alapelvei
+
+2.1. Önkéntesség
+
+2.2. Egyenjogúság
+
+2.3. Egyoldalú kógencia tilalma
+
+2.4. Írásbeliség
+
+2.5. Díjoszthatatlanság
+
+3\. A biztosítási szerződés szereplői
+
+3.1. A biztosító
+
+3.2. A szerződő
+
+3.3. A biztosított
+
+3.4. A kedvezményezett
+
+3.5. A károsult
+
+4\. A biztosítási szerződés megkötése
+
+4.1. A szerződés megkötésének folyamata
+
+4.2. A biztosítási szerződés létrejötte, hatálybalépése és a kockázatviselés kezdete
+
+4.3. A biztosítás technikai kezdete
+
+5\. A felek egyes kötelezettségei a szerződés megkötése előtt és fennállása alatt
+
+5.1. Díjfizetési kötelezettség
+
+5.2. Közlési és változásbejelentési kötelezettség
+
+5.3. Bejelentési és adatszolgáltatási kötelezettség
+
+6\. Biztosítási szerződés módosítása
+
+6.1. Módosítás a szerződés megkötésének folyamatában
+
+6.2. Módosítás a szerződés fennállása alatt
+
+6.3. Értékkövetés (indexálás)
+
+6.4. A szerződésmódosítás egyéb esetei
+
+7\. A biztosítási szerződés megszűnése
+
+7.1. A kockázatviselés megszűnése
+
+7.2. A felek megállapodása (közös megegyezés)
+
+7.3. Rendes felmondás
+
+7.4. Lejárat
+
+7.5. Biztosítási esemény bekövetkezése
+
+7.6. Biztosított halála
+
+7.7. Biztosítási érdek megszűnése (érdekmúlás)
+
+7.8. Lehetetlenülés
+
+7.9. Díjnemfizetés
+
+7.10. Rendkívüli felmondás
+
+7.11. Visszavásárlás
+
+7.12. A biztosítási összeg kimerülése
+
+7.13. Biztosítási szerződés szüneteltetése
+
+7.14. A biztosítási szerződés technikai megszűnése
+
+8\. A biztosító törvényi engedményesi joga és visszakövetelési joga (regressz)
+
+*B)* Az egyes biztosítási típusokra vonatkozó polgári jogi szabályok
+
+1\. Vagyonbiztosítás
+
+1.1. A biztosítási összeg
+
+1.2. Túlbiztosítás tilalma
+
+1.3. Alulbiztosítás jogkövetkezménye
+
+2\. Felelősségbiztosítás
+
+2.1. Felelősségbiztosítás fogalma
+
+2.2. A felelősségbiztosítás alanyai
+
+2.3. Gépjármű üzembentartójának kötelező felelősségbiztosítása
+
+3\. Életbiztosítás
+
+3.1. Az életbiztosítás és a hozzá kapcsolódó fogalmak
+
+3.2. Tájékoztatási kötelezettség az életbiztosítás esetén
+
+3.3. A szerződő jogai és kötelezettségei
+
+3.4. A biztosított jogai és kötelezettségei
+
+3.5. A biztosító szolgáltatása életbiztosítási szerződés esetén
+
+3.6. Az életbiztosítási szerződés megszűnése a biztosítási összeg kifizetése nélkül
+
+3.7. Díjmentesítés
+
+4\. Balesetbiztosítás
+
+4.1. Életbiztosítási szabályok alkalmazása
+
+4.2. Speciális szabályok alkalmazása
+
+4.3. Vagyonbiztosítási szabályok alkalmazása
+
+4\. Vizsgatárgy: Független biztosításközvetítői alapismeretek
+
+4.1. A független biztosításközvetítőkre vonatkozó általános szabályok
+
+4.1.1. A független biztosításközvetítő társasági formái, tárgyi, személyi, pénzügyi feltételei, felelőssége
+
+4.1.2. A független biztosításközvetítői tevékenység tartalma
+
+4.1.3. A független biztosításközvetítő határon átnyúló tevékenységének szabályai
+
+4.2. A független biztosításközvetítő felelőssége és a felelősségbiztosítási szerződés minimális tartalmi követelményei
+
+4.3. Adatkezelés, adatok kiadhatósága, különös tekintettel a különböző biztosítók közötti információáramlás tilalmára
+
+4.4. A pénzkezelés független biztosításközvetítőkre vonatkozó eltérő szabályai
+
+4.5. Meglevő szerződések összehasonlítása a piacon hozzáférhető aktuális lehetőségekkel
+
+4.6. A független biztosításközvetítők szerepe a kárrendezésben
+
+4.7. Termékek bemutatása, összehasonlítása, kapcsolódási pontjai
+
+4.7.1. Az egyes termékek összehasonlításának lehetséges paraméterei
+
+4.7.2. Biztosítók és biztosítási termékek és más pénzügyi termékek általános összehasonlítási szempontjai és kapcsolódási pontjai
+
+## 4. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+
+**A tőkepiaci üzletkötői hatósági vizsga követelményei**
+
+1\. Vizsgatárgy: A tőkepiac jogi-szabályozási környezete
+
+1.1. Tőkepiaci alapismeretek
+
+1.1.1. Hazai és releváns Európai Uniós tőkepiaci jogszabályok (Tpt., Bszt., Kbftv., Fttv., MiFID, MAD)
+
+1.1.2. Értékpapírok fajtái és jellemzőik (részvény, kötvény, befektetési jegy, kockázati tőkealap-jegy, jelzáloglevél)
+
+1.2. Értékpapírok előállítása és forgalomba hozatala
+
+1.2.1. Alapfogalmak
+
+1.2.1.1. Jegyzés, aukció
+
+1.2.1.2. ISIN-azonosító
+
+1.2.1.3. Ajánlattevő
+
+1.2.1.4. Sorozatban kibocsátott értékpapír
+
+1.2.2. Nyomdai és dematerializált előállítás
+
+1.2.3. Nyilvános forgalomba hozatal és szabályozott piacra történő bevezetés
+
+1.2.4. Nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség
+
+1.3. Az értékpapírok számlán történő forgalmazása
+
+1.3.1. Központi értékpapírszámla
+
+1.3.2. Értékpapírszámla
+
+1.4. Ügyfélszámla
+
+1.5. Bennfentes kereskedelem és piacbefolyásolás
+
+1.5.1. Bennfentes információ fogalma
+
+1.5.2. Bennfentes kereskedelemre, piacbefolyásolásra utaló ügyletek bejelentése
+
+1.5.3. Bennfentes személy ügyletkötéseinek bejelentése
+
+1.5.4. Bennfentes nyilvántartás
+
+1.6. Tőzsdei ügylet
+
+1.7. Részvénykönyv, részvénykönyvvezetés
+
+1.8. Titoktartás (a banktitok, az értékpapírtitok, a fizetési titok, az üzleti titok és személyes adatok kezelésére vonatkozó szabályok)
+
+1.9. Befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységek, valamint pénzügyi eszközök (fajtái, definíciója)
+
+1.10. Multilaterális kereskedési rendszer
+
+1.11. Kollektív befektetési formák
+
+1.11.1. ABA definíciója
+
+1.11.2. ÁÉKBV definíciója
+
+1.11.3. Kockázati tőkealap definíciója
+
+1.11.4. Nettó eszközérték definíciója
+
+1.11.5. Zárt végű és nyílt végű befektetési alap definíciója
+
+1.12. A pénzmosás és a terrorizmus finanszírozásának megelőzésére és megakadályozására vonatkozó szabályok
+
+2\. Vizsgatárgy: A tőkepiaci szereplők
+
+2.1. Alapfogalmak
+
+2.1.1. A befektető
+
+2.1.2. A forgalmazó
+
+2.1.3. A kibocsátó
+
+2.1.4. A szabályozott piac
+
+2.2. Az MNB, mint felügyeleti hatóság
+
+2.2.1. Az MNB felügyeleti hatásköre és eljárásai
+
+2.2.2. Az MNB által alkalmazható intézkedések (MNBtv., Tpt., Bszt.)
+
+2.3. Befektetési vállalkozás működése és befektetési szolgáltatások szabályai
+
+2.3.1. Tárgyi, technikai és szervezeti feltételek
+
+2.3.2. Befektetési szolgáltatás közvetítésének szabályai (függő ügynök)
+
+2.3.3. Felelősségi szabályok (belső ellenőrzés, jogszabályoknak való megfelelés)
+
+2.4. A tőzsde, különös tekintettel a Budapesti Értéktőzsdére
+
+2.4.1. Tőzsde alapítása
+
+2.4.2. Tőzsdei kereskedés
+
+2.4.3. A tőzsde szabályzatai
+
+2.5. A befektetési alapkezelő
+
+2.6. A központi értéktár és a központi szerződő fél
+
+2.7. Pénz- és Tőkepiaci Állandó Választottbíróság
+
+2.8. Befektető-védelmi Alap (BEVA)
+
+2.8.1. A BEVA feladata, tagjai
+
+2.8.2. A BEVA-ból történő kifizetés
+
+2.8.3. A BEVA szervezete
+
+2.9. Fogyasztóvédelem (Kereskedelmi gyakorlat)
+
+3\. Vizsgatárgy: Az ügyletkötés során teljesítendő kötelezettségek
+
+3.1. Ügyfél-tájékoztatás általános szabályai
+
+3.2. Szerződéskötés szabályai
+
+3.2.1.Az előzetes tájékoztatási kötelezettség
+
+3.2.2. Az előzetes tájékozódási kötelezettség
+
+3.2.3. Az ügyfél minősítése (lakossági, szakmai, elfogadható partner)
+
+3.3. Az ügyfél pénzügyi eszközeinek és pénzeszközeinek kezelése
+
+3.4. Szerződések és megbízások nyilvántartása
+
+3.5. Megbízás felvétele és végrehajtása
+
+3.5.1. Az ügyfelek megbízásainak kezelése és az allokáció
+
+3.5.2. A megbízás ügyfél számára legkedvezőbb végrehajtása
+
+3.5.3. A halasztott pénzügyi teljesítés
+
+3.5.4. A megbízás végrehajtását követő tájékoztatás
+
+3.6. A portfólió-kezelési tevékenység jellemzői
+
+3.7. Az értékpapír kölcsönzés, a befektetési elemzés és a befektetési hitelezés szabályai
+
+3.8. Kockázatvállalás és kockázatkezelés
+
+3.9. Közvetítők igénybevételére vonatkozó szabályok
+
+## 5. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^50]
+
+## 6. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^51]
+
+## 7. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^52]
+
+## 8. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^53]
+
+## 9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^54]
+
+## 10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^55]
+
+---
+
+[^1]: Az 1. § a 14/2017. (VI. 30.) NGM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pontja a 14/2021. (XII. 8.) PM rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 14/2021. (XII. 8.) PM rendelet 4. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdése a 14/2021. (XII. 8.) PM rendelet 8. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés b) pontja a 21/2016. (VI. 29.) NGM rendelet 20. § d) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés d) pontja a 21/2016. (VI. 29.) NGM rendelet 20. § e) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés e) pontja a 21/2016. (VI. 29.) NGM rendelet 20. § f) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § g) pontja szerint módosított szöveg.
+[^9]: A 3. § (2a) bekezdését a 21/2016. (VI. 29.) NGM rendelet 10. §-a iktatta be.
+[^10]: Az 5. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^11]: A 6. § a 21/2016. (VI. 29.) NGM rendelet 12. §-ával megállapított szöveg.
+[^12]: A 7. § (2) bekezdés c) pontja a 41/2023. (XII. 27.) GFM rendelet 6. § a) pontja szerint módosított szöveg.
+[^13]: A 8. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § h) pontja, a 41/2023. (XII. 27.) GFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdés e) pontja a 41/2023. (XII. 27.) GFM rendelet 6. § c) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdését a 41/2023. (XII. 27.) GFM rendelet 1. §-a iktatta be.
+[^16]: A 8. § (5) bekezdését a 41/2023. (XII. 27.) GFM rendelet 1. §-a iktatta be.
+[^17]: A 8. § (6) bekezdését a 41/2023. (XII. 27.) GFM rendelet 1. §-a iktatta be.
+[^18]: A 11. § (5) bekezdése a 14/2021. (XII. 8.) PM rendelet 5. §-ával megállapított szöveg.
+[^19]: A 12. § (1) bekezdés nyitó szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § j) pontja szerint módosított szöveg.
+[^20]: A 12. § (1a) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (1) bekezdése iktatta be, szövege a 21/2016. (VI. 29.) NGM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^21]: A 12. § (1b) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (3) bekezdése iktatta be.
+[^22]: A 12. § (5) bekezdése az 51/2017. (XII. 29.) NGM rendelet 31. §-a szerint módosított szöveg.
+[^23]: A 13. § (1) bekezdése a 21/2016. (VI. 29.) NGM rendelet 23. § c) pontja szerint módosított szöveg.
+[^24]: A 13. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 14. §-ával megállapított szöveg.
+[^25]: A 13. § (4) bekezdését a 14/2021. (XII. 8.) PM rendelet 6. §-a iktatta be.
+[^26]: A 13. § (5) bekezdését a 14/2021. (XII. 8.) PM rendelet 6. §-a iktatta be.
+[^27]: A 14. § (1) bekezdése a 41/2023. (XII. 27.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^28]: A 14. § (2) bekezdése a 41/2023. (XII. 27.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^29]: A 14. § (3) bekezdése a 41/2023. (XII. 27.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 14. § (3a) bekezdését a 41/2023. (XII. 27.) GFM rendelet 2. § (2) bekezdése iktatta be.
+[^31]: A 14. § (5) bekezdése a 41/2023. (XII. 27.) GFM rendelet 6. § d) pontja szerint módosított szöveg.
+[^32]: A 14. § (7) bekezdése a 21/2016. (VI. 29.) NGM rendelet 15. §-ával megállapított, záró szövegrésze a 41/2023. (XII. 27.) GFM rendelet 6. § e) pontja szerint módosított szöveg.
+[^33]: A 14. § (8) bekezdése a 41/2023. (XII. 27.) GFM rendelet 6. § f) pontja szerint módosított szöveg.
+[^34]: A 15. § (2) bekezdése a 41/2023. (XII. 27.) GFM rendelet 3. §-ával megállapított szöveg.
+[^35]: A 15. § (3) bekezdését újonnan az 5/2020. (VII. 17.) PM rendelet 2. §-a iktatta be, szövege a 41/2023. (XII. 27.) GFM rendelet 3. §-ával megállapított szöveg.
+[^36]: A 15. § (4) bekezdését újonnan az 5/2020. (VII. 17.) PM rendelet 2. §-a iktatta be, szövege a 14/2021. (XII. 8.) PM rendelet 8. § d) pontja szerint módosított szöveg.
+[^37]: A 15. § (5) bekezdését a 14/2017. (VI. 30.) NGM rendelet 5. §-a hatályon kívül helyezte.
+[^38]: A 16. § (1) bekezdése a 41/2023. (XII. 27.) GFM rendelet 4. §-ával megállapított szöveg.
+[^40]: A 19. § (1) bekezdése a 41/2023. (XII. 27.) GFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^41]: A 19. § (2) bekezdése a 41/2023. (XII. 27.) GFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^42]: A 19. § (3) bekezdését a 21/2016. (VI. 29.) NGM rendelet 23. § d) pontja hatályon kívül helyezte, újonnan a 41/2023. (XII. 27.) GFM rendelet 5. § (2) bekezdése iktatta be.
+[^43]: A 20. § (1) bekezdése a 42/2024. (XII. 4.) NGM rendelet 1. §-ával megállapított szöveg.
+[^44]: A 21. § (1) bekezdését a 41/2023. (XII. 27.) GFM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^45]: A 24. § a 21/2016. (VI. 29.) NGM rendelet 24. § a) pontja alapján nem lép hatályba, újonnan a 42/2024. (XII. 4.) NGM rendelet 2. §-a iktatta be.
+[^47]: A 26. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 26. § c)–e) pontja a 21/2016. (VI. 29.) NGM rendelet 24. § c) pontja alapján nem lép hatályba.
+[^49]: A 27. §-t a 21/2016. (VI. 29.) NGM rendelet 18. § (1) bekezdése iktatta be, szövege e módosító törvény 18. § (2) bekezdésével megállapított szöveg.
+[^50]: Az 5. mellékletet a 41/2023. (XII. 27.) GFM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^51]: A 6. mellékletet a 41/2023. (XII. 27.) GFM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^52]: A 7. mellékletet a 41/2023. (XII. 27.) GFM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^53]: A 8. mellékletet a 41/2023. (XII. 27.) GFM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^54]: A 9. mellékletet a 41/2023. (XII. 27.) GFM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^55]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.

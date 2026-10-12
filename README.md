@@ -14,7 +14,18 @@ jurisdiction.
 
 Counts as of the retrieval date (2026-10-12):
 
-<!-- COUNTS -->
+| Category | Directory | Files |
+|---|---|---:|
+| Fundamental Law (Alaptörvény) | `alaptorveny/` | 1 |
+| Acts (törvények), 1827–2026 | `torvenyek/` | 2,045 |
+| Law-decrees (törvényerejű rendeletek), 1949–1989 | `torvenyereju-rendeletek/` | 291 |
+| Government decrees (Korm. rendeletek, 2,978) and Council of Ministers decrees (MT rendeletek, 146) | `kormanyrendeletek/` | 3,124 |
+| Ministerial decrees (miniszteri rendeletek, 80 issuer codes) | `miniszteri-rendeletek/` | 2,754 |
+| **Total** | | **8,215** |
+
+20 of these are promulgated but not yet in force. 14 have an empty body: all their
+provisions have been repealed or merged into other acts, and only the title and
+footnotes remain.
 
 "In force" means that the [NJT ELI list](https://njt.jog.gov.hu/eli/urisemak) gives the
 item no end of validity, or an end of validity later than the retrieval date. This

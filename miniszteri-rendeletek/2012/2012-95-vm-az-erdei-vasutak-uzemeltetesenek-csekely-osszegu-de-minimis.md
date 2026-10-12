@@ -1,0 +1,252 @@
+---
+title: "95/2012. (VIII. 30.) VM rendelet az erdei vasutak üzemeltetésének csekély összegű (de minimis) támogatásáról"
+identifier: "95/2012. (VIII. 30.) VM rendelet"
+njt_id: "2012-95-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2012/VM/95"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-08-30
+in_force_from: 2012-08-31
+last_amended: 2026-04-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-95-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 95/2012. (VIII. 30.) VM rendelet az erdei vasutak üzemeltetésének csekély összegű (de minimis) támogatásáról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdésében, a 14. § tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) pontjában kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) és b) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
+
+## 1. A támogatás célterülete és jellege
+
+### 1. §
+
+(1)[^1] E rendelet alapján – pályázat útján – támogatás igényelhető erdei vagy egyéb természeti környezetben futó, erdőgazdálkodási vagy közjóléti tevékenységgel összefüggésben üzemeltetett keskeny nyomtávú vasúti pálya és annak tartozékai, kiszolgálólétesítményei, valamint járművei (a továbbiakban együtt: erdei vasút) üzemeltetéséhez.
+
+(2)[^2] E rendelet alapján nyújtott támogatás az (EU) 2023/2831 bizottsági rendelet (a továbbiakban: általános de minimis rendelet) hatálya alá tartozó csekély összegű támogatásként nyújtható. Az egy és ugyanazon vállalkozás részére az általános de minimis rendelet szerinti, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma bármely, három évből álló időszakban nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az általános de minimis rendelet 3. cikk (8) és (9) bekezdését.
+
+(3)[^3] A támogatás odaítélése, folyósítása, nyomon követése és ellenőrzése során az általános de minimis rendeletben meghatározottak szerint kell eljárni.
+
+(4)[^4] Egy és ugyanazon vállalkozásnak minősülnek az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § 5a. pontjában meghatározott vállalkozások.
+
+(5)[^5] A csekély összegű támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a Korm. rendelet 2. § 2a. pontja szerinti csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(6)[^6] A támogatást nyújtó a kedvezményezett részére az általános de minimis rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az általános de minimis rendeletre.
+
+(7)[^7] A támogatás, az általános de minimis rendelet alapján nyújtott támogatás kivételével, más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással a (2) bekezdésben meghatározott értékhatárig halmozható.
+
+(8)[^8] Nem ítélhető meg támogatás az általános de minimis rendelet 1. cikk (1) bekezdése szerinti tevékenységekhez.
+
+(9)[^9] Ha a kedvezményezett az általános de minimis rendelet 1. cikk (1) bekezdés a)–d) pontja szerinti tevékenységeket és ezektől eltérő egy vagy több tevékenységet egyaránt végez, csekély összegű támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy az általános de minimis rendelet 1. cikk (1) bekezdés a)–d) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek csekély összegű támogatásban.
+
+## 2. A támogatás igénybevételének feltételei
+
+### 2. §
+
+(1)[^10] Pályázat benyújtására az a nonprofit gazdasági társaság, civil szervezet és költségvetési szerv (a továbbiakban: pályázó) jogosult, amely:
+
+a)[^11] legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartásba veteti magát a Magyar Államkincstárnál (a továbbiakban: Kincstár), és a pályázat benyújtásával egyidejűleg igazolja a nyilvántartásba vétel megtörténtét, vagy azt, hogy az erre vonatkozó kérelmét benyújtotta;
+
+b)[^12] nem áll felszámolási, végelszámolási és kényszertörlési eljárás alatt, illetve nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt és erről a pályázat benyújtása során nyilatkozik;
+
+c) a pályázat benyújtásakor nem rendelkezik lejárt esedékességű adótartozással – kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett és azt a vonatkozó döntés hitelesített másolatával igazolja – vagy adók módjára behajtandó köztartozással, és erről a pályázat benyújtása során nyilatkozik;
+
+d)[^13] az általános de minimis rendelet 3. cikk (8) és (9) bekezdése és 5. cikke figyelembevételével – a 7. cikk (4) bekezdésére tekintettel – a vele egy és ugyanazon vállalkozásnak minősülő vállalkozásokat érintően nyilatkozik a részére a kérelem benyújtásának napját megelőző három év (háromszor háromszázhatvanöt nap) időszakában nyújtott, Magyarországon odaítélt csekély összegű támogatás összegéről;
+
+e)[^14] megfelel a Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+
+(2)[^15] A támogatás igénylésének további feltétele, hogy a pályázó
+
+a)[^16] olyan keskeny nyomtávolságú különleges kötöttpályás társaság, amely a keskeny nyomtávú vasúti pályahálózaton legalább a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § 10.2. pont a) és b) alpontjában meghatározott tevékenységeket végzi,
+
+b)[^17] rendelkezik a Vtv. 2. § 1.5. pontja szerinti működési engedéllyel, vagy tevékenységét a Vtv. 84/C. §-a szerinti bejelentés alapján a vasúti igazgatási szerv és a közlekedési hatóság nyilvántartásba vette,
+
+c) az agrárpolitikáért felelős miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium) – e rendelet szerinti pályázata benyújtásával egyidejűleg – bejelentett menetrend alapján történő üzemeltetést biztosít, valamint
+
+d) eleget tett az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatában foglalt feltételeknek.
+
+## 3. [^18] A támogatás mértéke
+
+### 3. §
+
+(1)[^19]
+
+(2)[^20] A támogatás mértéke 2700 Ft/km, egy pályázó legfeljebb 16 000 000 forint összegű támogatásban részesülhet.
+
+(3) Az igényelt támogatás összegét a nyilvános menetrendben meghirdetett járatok kilométerben megadott futásteljesítménye és a (2) bekezdésben meghatározott egységár szorzata alapján kell megállapítani. A nyilvános menetrend szerint indított mentesítő járatok futásteljesítményét a támogatási összeg kiszámításánál szintén figyelembe kell venni.
+
+(4) A „különvonat rendelés” megjelöléssel közlekedő járatokra támogatás nem adható.
+
+## 4. A pályázat benyújtása
+
+### 4. §
+
+(1)[^21] A pályázat részletes tartalmi és formai követelményeit, valamint a bírálati szempontokat az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és a vidékfejlesztésért felelős miniszter által közzétett pályázati felhívás tartalmazza, amelyet a miniszter jóváhagyását követően a minisztérium a kormányzati portálon tesz közzé.
+
+(2) A pályázatokat az elektronikus felületen kitöltött, majd kinyomtatott pályázati adatlapon – a pályázati felhívásban megadott határidőig és módon, az abban előírt tartalommal és mellékletekkel – a minisztériumhoz 1 eredeti és 1 másolati példányban kell benyújtani.
+
+(3) A pályázat benyújtásának határideje jogvesztő.
+
+## 5. A pályázat elbírálása
+
+### 5. §
+
+(1)[^22] A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként szakértőkből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter kéri fel.
+
+(2) A Bíráló Bizottság támogatási javaslatot tesz a miniszter részére.
+
+(3) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg, és döntéséről – annak meghozatalát követő 15 napon belül – írásban értesíti a pályázót.
+
+(4) A pályázatokat a benyújtási határidő utolsó napját követő 15 napon belül kell elbírálni.
+
+(5)[^23] A döntés időpontját, a nyertes pályázók névsorát, az elnyert támogatás összegét és jogcímének megnevezését a minisztérium a kormányzati portálon a döntést követő 15 napon belül közzéteszi és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
+
+a) nyertes pályázó neve, születési neve,
+
+b) nyertes pályázó lakóhelye vagy székhelye,
+
+c) nyertes pályázó adószáma, vagy adóazonosító jele,
+
+d)[^24] nyertes pályázó ügyfél-azonosítója,
+
+e) a támogatási cél megnevezése,
+
+f) a nyertes pályázó részére megítélt támogatás forintban és euróban meghatározott összege.
+
+### 6. §
+
+(1) A nyertes pályázóval a miniszter – a támogatási döntésről szóló értesítés megküldését követő 15 napon belül – hatósági szerződést köt, amelyben meghatározza a támogatás igénybevételének és felhasználásának részletes feltételeit. A szerződéskötésre vonatkozó határidő egy alkalommal legfeljebb 15 nappal meghosszabbítható.
+
+(2) A hatósági szerződésbe bele kell foglalni a támogatás összegéről és annak általános de minimis jellegéről szóló tájékoztatást. A hatósági szerződésben utalni kell az általános de minimis rendelet címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határozni a támogatás összegét támogatástartalomban (euróban) is kifejezve.
+
+(3)[^25]
+
+## 6. [^26] A támogatás kifizetése és elszámolása
+
+### 7. §
+
+(1) A miniszter a hatósági szerződésre hivatkozva – egyösszegű előlegfinanszírozás formájában utólagos elszámolási kötelezettség mellett, a hatósági szerződés hatálybalépését követő 8 napon belül – kifizetési utasítást küld a Kincstár részére az alábbi adattartalommal:
+
+a) nyertes pályázó neve, születési neve,
+
+b) nyertes pályázó lakóhelye vagy székhelye,
+
+c) nyertes pályázó adószáma vagy adóazonosító jele,
+
+d) nyertes pályázó ügyfél-azonosítója,
+
+e) a nyertes pályázóval kötött hatósági szerződés iktatószáma,
+
+f) a támogatási cél megnevezése és
+
+g) az összesen megállapított támogatás forintban és euróban meghatározott összege.
+
+(2) A Kincstár a forrás rendelkezésre állása esetén – a Tv. 60. §-ában foglaltakra is figyelemmel – a kifizetési utasítás kézhezvételétől számított 15 napon belül vagy a forrás rendelkezésre állását követő 15 napon belül gondoskodik a támogatásnak a nyertes pályázó Egységes Mezőgazdasági Ügyfélnyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő átutalásáról.
+
+### 8. §
+
+(1) A támogatásra jogosultnak a pénzügyi elszámolást a hatósági szerződésben meghatározott tartalommal és meghatározott időpontig a minisztériumhoz kell benyújtania. Az elszámoláshoz mellékelni kell a nyertes pályázó által üzemeltetett és a hatósági szerződésben szereplő erdei vasútra vonatkozó menetlevél vagy azzal azonos adattartalmú, a hatósági szerződésben meghatározott dokumentum másolati példányát.
+
+(2) Az elszámolás elmulasztása esetén az intézkedésben való jogosulatlan részvételre vonatkozó szabályokat kell alkalmazni.
+
+(3) Az e rendelet alapján igénybe vehető támogatás összegét a pályázati felhívás kihirdetése hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró árfolyam alapján kell euróban meghatározni.
+
+## 7. Nyilvántartás, ellenőrzés
+
+### 9. §[^27]
+
+Jelen rendelet szerinti támogatás, mint az általános de minimis rendelet hatálya alá tartozó mezőgazdasági és agrár-vidékfejlesztési támogatás vonatkozásában az általános de minimis rendelet 6. cikk (2) bekezdése szerinti nyilvántartást a Kincstár vezeti.
+
+### 9/A. §[^28]
+
+A támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatás kedvezményezettje köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
+
+### 10. §
+
+(1) E rendelet szerinti intézkedésekkel összefüggő ellenőrzések lefolytatásáról a miniszter gondoskodik.
+
+(2)[^29] A miniszter az intézkedésben való jogosulatlan részvétel megállapítása esetén – a visszafizetés elrendeléséről szóló határozat alapján – tájékoztatja a Kincsárt az alábbi adattartalom megküldésével:
+
+a) a nyertes pályázó neve, születési neve,
+
+b) a nyertes pályázó lakóhelye vagy székhelye,
+
+c)[^30] a nyertes pályázó ügyfél-azonosítója,
+
+d) nyertes pályázó adószáma vagy adóazonosító jele,
+
+e) a jogosulatlan igénybevételről szóló határozat iktatószáma és kelte,
+
+f) a támogatási cél vagy célok megnevezése,
+
+g) a nyertes pályázótól támogatási célonként visszakövetelendő támogatás forintban és euróban meghatározott összege,
+
+h) a Tv. 69. § (5) bekezdésének megfelelően számított kamat forintban meghatározott összege.
+
+## 8. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. Az Európai Unió jogának való megfelelés
+
+### 12. §[^31]
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+## 10. Módosító rendelkezések
+
+### 13. §[^32]
+
+E rendeletnek az egyes, nemzeti forrásból, valamint az Európai Mezőgazdasági Garancia Alapból finanszírozott támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 76/2015. (XI. 24.) FM rendelettel [a továbbiakban: 76/2015. (XI. 24.) FM rendelet] módosított 8. § (2) bekezdését a 76/2015. (XI. 24.) FM rendelet hatálybalépésekor[^33] folyamatban lévő eljárásokban is alkalmazni kell.
+
+### 14. §[^34]
+
+Az erdei vasutak üzemeltetésének csekély összegű (de minimis) támogatásáról szóló 95/2012. (VIII. 30.) VM rendelet, a szőlőültetvények szerkezetátalakításához és átállításához igényelhető támogatásról szóló 57/2020. (XI. 13.) AM rendelet és az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 14/2023. (IV. 19.) AM rendelet módosításáról szóló 63/2023. (XI. 23.) AM rendelettel módosított 3. § (2) bekezdését a 2023. évben benyújtott pályázatok tekintetében is alkalmazni kell.
+
+### 15. §[^35]
+
+E rendeletnek az erdei vasutak üzemeltetésének csekély összegű (de minimis) támogatásáról szóló 95/2012. (VIII. 30.) VM rendelet módosításáról szóló 53/2024. (X. 24.) AM rendelettel megállapított 1. § (1)–(3) és (6)–(9) bekezdését, 2. § (1) bekezdés d) pontját, 4. § (1) bekezdését, 9. és 12. §-át a 2024. évben benyújtott pályázatok tekintetében is alkalmazni kell.
+
+## 1. melléklet a 95/2012. (VIII. 30.) VM rendelethez[^36]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 53/2024. (X. 24.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése az 53/2024. (X. 24.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése az 53/2024. (X. 24.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (4) bekezdését a 27/2015. (V. 27.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (5) bekezdését a 27/2015. (V. 27.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (6) bekezdését az 53/2024. (X. 24.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (7) bekezdését az 53/2024. (X. 24.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (8) bekezdését az 53/2024. (X. 24.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (9) bekezdését az 53/2024. (X. 24.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés nyitó szövegrésze a 17/2013. (III. 18.) VM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 53. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés b) pontja a 27/2015. (V. 27.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés d) pontja az 53/2024. (X. 24.) AM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 2. § (1) bekezdés e) pontja a 27/2015. (V. 27.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (2) bekezdése a 37/2016. (V. 18.) FM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. § (2) bekezdés a) pontja a 14/2019. (IV. 10.) AM rendelet 7. §-ával megállapított szöveg.
+[^17]: A 2. § (2) bekezdés b) pontja a 14/2019. (IV. 10.) AM rendelet 7. §-ával megállapított szöveg.
+[^18]: A 3. alcím címe a 24/2021. (VII. 7.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdését a 24/2021. (VII. 7.) AM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^20]: A 3. § (2) bekezdése a 16/2026. (IV. 9.) AM rendelet 15. §-ával megállapított szöveg.
+[^21]: A 4. § (1) bekezdése a 17/2013. (III. 18.) VM rendelet 5. § (1) bekezdésével megállapított, a 27/2015. (V. 27.) FM rendelet 6. § c) pontja, az 53/2024. (X. 24.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (1) bekezdése a 27/2015. (V. 27.) FM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 5. § (5) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 53. § b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.
+[^25]: A 6. § (3) bekezdését a 14/2019. (IV. 10.) AM rendelet 10. §-a hatályon kívül helyezte.
+[^26]: A 6. alím (7–8. §) a 14/2019. (IV. 10.) AM rendelet 8. §-ával megállapított szöveg.
+[^27]: A 9. § a 36/2014. (IV. 4.) VM rendelet 75. § d) pontja, a 88/2016. (XII. 29.) FM rendelet 53. § b) pontja, az 53/2024. (X. 24.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^28]: A 9/A. §-t a 27/2015. (V. 27.) FM rendelet 5. §-a iktatta be.
+[^29]: A 10. § (2) bekezdés nyitó szövgerésze a 88/2016. (XII. 29.) FM rendelet 53. § d) pontja szerint módosított szöveg.
+[^30]: A 10. § (2) bekezdés c) pontja a 36/2014. (IV. 4.) VM rendelet 75. § e) pontja szerint módosított szöveg.
+[^31]: A 12. § a 36/2014. (IV. 4.) VM rendelet 74. §-ával megállapított, az 53/2024. (X. 24.) AM rendelet 4. § c) pontja szerint módosított szöveg.
+[^32]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 76/2015. (XI. 24.) FM rendelet 2. §-a iktatta be.
+[^33]: A hatálybalépés időpontja 2015. november 25.
+[^34]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 63/2023. (XI. 23.) AM rendelet 1. §-a iktatta be.
+[^35]: A 15. §-t az 53/2024. (X. 24.) AM rendelet 3. §-a iktatta be.
+[^36]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

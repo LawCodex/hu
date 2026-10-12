@@ -1,0 +1,1218 @@
+---
+title: "20/2006. (IV. 5.) KvVM rendelet a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről"
+identifier: "20/2006. (IV. 5.) KvVM rendelet"
+njt_id: "2006-20-20-0N"
+eli: "https://njt.jog.gov.hu/eli/R/2006/KVVM/20"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2006-04-05
+in_force_from: 2009-03-01
+last_amended: 2021-04-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-20-20-0N"
+retrieved: 2026-10-12
+---
+
+# 20/2006. (IV. 5.) KvVM rendelet a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről
+
+A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (2) bekezdése *aa)* és *ad)* pontjában kapott felhatalmazás alapján az érdekelt miniszterekkel egyetértésben a következőket rendelem el:[^1]
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) A rendelet hatálya kiterjed:
+
+a)[^2] Hgt. hatálya alá tartozó, lerakással ártalmatlanítható hulladékra,
+
+b)[^3] a hulladék lerakására, valamint a hulladéklerakó létesítésével, üzemeltetésével, rekultivációjával és utógondozásával kapcsolatos tevékenységre, valamint ezek engedélyezésére,
+
+c) a műszaki védelem nélkül létesített hulladéklerakó felülvizsgálatára, üzemeltetésére, rekultivációjára.
+
+(2) A rendelet hatálya nem terjed ki:
+
+a) iszap (beleértve a szennyvíziszap külön jogszabály[^4] szerinti mezőgazdasági felhasználását, a kotrási műveletből származó iszapot és egyéb iszapokat) talajon történő szétterítésére;
+
+b) a tereprendezésre vagy építési célokra alkalmas inert hulladéknak hulladéklerakóban történő hasznosítására;
+
+c) a külön jogszabály[^5] szerinti nem veszélyes kotrási iszap vízparti elhelyezésére, amennyiben az iszapot abból a mederből emelték ki, amelynek parti sávjában elhelyezik, továbbá nem veszélyes iszap felszíni vízbe történő elhelyezésére;
+
+d)[^6] az ásványi nyersanyag kutatása, kitermelése, tárolása és feldolgozása során keletkező hulladék elhelyezésére, amennyiben jogszabály eltérően rendelkezik.
+
+## Értelmező rendelkezések
+
+### 2. §[^7]
+
+E rendelet alkalmazásában
+
+1\. *alapjellemzés:* a hulladék alapvető jellemzőinek meghatározása, azon adatok, információk összegyűjtése, amelyek a hulladék biztonságos lerakásához szükségesek;
+
+2\. *bezárás:* a hulladékátvételi és -lerakási tevékenységek megszüntetése;
+
+3\. *csurgalékvíz:* a lerakott hulladéktesten átszivárgó, illetve az ott keletkező minden olyan folyadék, amely a hulladéklerakóban marad, vagy amelyet a hulladéklerakó kibocsát;
+
+4\. *eluátum:* a laboratóriumi kioldási vizsgálatok során keletkező oldat;
+
+5\. *folyékony hulladék:* minden folyékony halmazállapotú hulladék, beleértve a szennyvizet, kivéve az iszapot;
+
+6\. *föld alatti hulladéklerakó:* olyan állandó hulladéktároló létesítmény, amely földtani közegben lévő üregben, különösen sóbányában vagy káliumbányában helyezkedik el;
+
+7\. *hulladéklerakó:* olyan hulladékártalmatlanító létesítmény, amely a hulladéknak a földtani közeg felszínén vagy a földtani közegben történő lerakására szolgál, ideértve
+
+7.1. a hulladéktermelő hulladékának a termelés helyén történő ártalmatlanítására szolgáló hulladékgazdálkodási létesítményt,
+
+7.2. a hulladék ideiglenes elhelyezésére szolgáló, egy évet meghaladóan fennálló hulladékgazdálkodási létesítményt, kivéve ahol a hulladékot
+
+7.2.1. továbbszállításra készítik elő abból a célból, hogy hasznosításra, előkezelésre vagy más helyen ártalmatlanításra kerüljön,
+
+7.2.3. a hasznosítást megelőzően legfeljebb három évig tárolják,
+
+7.2.4. az ártalmatlanítást megelőzően legfeljebb egy évig tárolják;
+
+8\. *hulladéklerakó-gáz:* a lerakott hulladék biológiai, kémiai bomlása során a hulladéklerakóban képződő gázkeverék;
+
+9\. *inert hulladék:* olyan hulladék, amely semmilyen jelentős fizikai, kémiai vagy biológiai átalakuláson nem megy át; jellemzője, hogy nem oldódik, nem ég, sem más fizikai vagy kémiai reakcióba nem lép, biológiai úton nem bomlik, vagy nincs kedvezőtlen hatással a vele kapcsolatba kerülő más anyagra oly módon, hogy környezetszennyezést okozna, vagy károsítaná az emberek egészségét; további jellemzője, hogy teljes kioldhatósága, szennyezőanyag tartalma, valamint a csurgalékvíz ökotoxicitása elhanyagolható, és nem veszélyezteti a felszíni vizek, illetve a felszín alatti víz minőségét;
+
+10\. *lerakás:* a hulladék ártalmatlanítása a földtani közeg felszínén vagy a földtani közegben kialakított hulladéklerakóban;
+
+11\. *lezárás:* felső zárórétegrendszer megvalósítása;
+
+12\. *megfelelőségi vizsgálat:* azonos termelési, hulladékkezelési technológiából származó, rendszeresen képződő hulladék ellenőrzése az alapjellemzésben meghatározott kritikus paraméterek mért értékeinek összevetésével és értékelésével;
+
+13\. *rekultiváció:* a bezárt hulladéklerakó vagy a hulladéklerakó egy része környezeti veszélyességének csökkentése új területhasználat előkészítése érdekében lezárással, műszaki védelem és monitoringrendszer kiépítésével vagy a hulladék felszedésével, továbbá tájba illesztéssel;
+
+14\. *utógondozás:* a hulladéklerakó teljes rekultivációját követő olyan összetett tevékenység, amely magában foglalja a monitoringrendszer üzemeltetését, a csurgalékvíz és a hulladéklerakó-gáz kezelését, valamint a szükségessé váló karbantartási munkákat;
+
+15\. *üzemeltető:* az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki (amely) a hulladéklerakó üzemeltetéséért, rekultivációjáért, utógondozásáért felelős;
+
+16\. *tájbaillesztés:* a létesítmény funkcionális és esztétikai szempontok szerinti környezetalakítása a táji adottságok figyelembevételével.
+
+## A körforgásos gazdaság követelményei[^8]
+
+### 2/A. §
+
+(1) A körforgásos gazdaságra való átállás támogatása és különösen a hulladékhierarchia érvényesítése, valamint a hulladék megfelelő ártalmatlanítása követelményének teljesítése érdekében csökkenteni kell
+
+a) a hulladék és különösen az újrafeldolgozásra vagy egyéb hasznosításra alkalmas hulladék hulladéklerakóban való lerakását és
+
+b) a hulladéklerakó teljes életciklusa alatt a lerakás környezetet, valamint az emberi egészséget veszélyeztető hatását.
+
+(2) Az e rendeletben és különösen az (1) bekezdésben foglaltak érdekében a hulladékhierarchia alkalmazását szolgáló gazdasági és egyéb intézkedéseket, illetve az azokkal egyenértékű megoldásokat a hulladékról szóló 2012. évi CLXXXV. törvény 5. melléklete szerint kell meghatározni.
+
+(3) 2030-tól a hulladéklerakókban nem lehet újrafeldolgozásra vagy egyéb hasznosításra alkalmas hulladékot, különösen települési hulladékot elhelyezni, azon hulladék kivételével, amelynek esetében a hulladékhierarchiával összhangban a hulladéklerakóban való lerakás biztosítja a legjobb környezeti eredményt.
+
+## A hulladéklerakó tervezése, létesítése, a hulladéklerakás általános szabályai
+
+### 3. §
+
+(1)[^9] Hulladéklerakó az Országos Hulladékgazdálkodási Tervben, valamint a létesítés telephelye szerinti területi hulladékgazdálkodási tervekben foglalt célokkal és feladatokkal összhangban, az e rendelet *1. számú mellékletében* felsorolt követelmények betartásával létesíthető és üzemeltethető.
+
+(2) A hulladéklerakó helyének kiválasztásánál, a külön jogszabályokban megállapított terület- és településrendezési, természetvédelmi, kulturális örökségvédelmi, tájvédelmi, vízvédelmi, levegőtisztaság-védelmi feltételek mellett, a következő szempontokat kell figyelembe venni és mérlegelni:
+
+a) a terület földtani és hidrogeológiai tulajdonságait,
+
+b) a földtani közeg, különösen a termőföld védelmét,
+
+c) a hulladéklerakó határának a lakó- és az üdülőterülettől, a vízi utaktól, a felszíni vizektől és a mezőgazdaságilag művelt területektől való távolságát.
+
+(3) Hulladéklerakó nem létesíthető:
+
+a) erózió-veszélyes területen,
+
+b) a földtani közeg mozgása által veszélyeztetett területen,
+
+c) a külön jogszabály[^10] szerint kiemelten érzékeny felszín alatti vízminőség-védelmi területen,
+
+d) a külön jogszabályban[^11] rögzített előírás alapján a mezőgazdasági művelésre alkalmas közepes vagy annál jobb minőségű területen,
+
+e) árvíz- és belvízveszélyes, továbbá ármentesítéssel nem rendelkező területen,
+
+f) a külön jogszabály[^12] szerinti természeti területen, védett és fokozottan védett természeti területen, valamint az Európai Közösségi jelentőségű területen,
+
+g) védetté nyilvánított régészeti lelőhelyen, műemléki ingatlanon, műemléki környezetben és műemléki jelentőségű területen,
+
+h) energiaszállító vezetékek védősávjában,
+
+i) működő, illetve felhagyott mélyművelésű bánya felszakadási területén, ha a földtani közeg mozgása még nem konszolidálódott, továbbá bányaművelésre, távlati művelés céljából kijelölt területen,
+
+j)[^13] azon a földrengésveszélyes területen, ahol az 50 évre számított 10%-os meghaladási valószínűség mellett (475 éves gyakoriság) a felszínre számított földrengésből származó vízszintes gyorsulás értéke nagyobb, mint 1,5 m/sec2,
+
+k) olyan területen, ahol nem teljesül az a feltétel, hogy a felszín alatti víz maximális nyugalmi, illetve nyomás szintje legalább 1,0 m-rel mélyebben van, mint a lerakó szigetelőrendszerének fenékszintje,
+
+l) a külön jogszabályban[^14] megállapított területen,
+
+m)[^15] földtani közegben lévő üregben.
+
+(4)[^16] A hulladéklerakó telekhatára és összefüggő lakóterület, lakóépület, valamint más, védendő területek, létesítmények között a védőtávolságot a környezetvédelmi hatóság állapítja meg, amely – ha egyéb jogszabály eltérően nem rendelkezik, akkor – nem lehet kevesebb, mint:
+
+a) veszélyes hulladék lerakására szolgáló hulladéklerakó esetén: 1000 m,
+
+b) nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén: 500 m,
+
+c) inert hulladék lerakására szolgáló hulladéklerakó esetén: 300 m.
+
+### 4. §
+
+(1) A lerakásra kerülő hulladék összetételétől, a helyszín természeti adottságaitól és a tervezett műszaki feltételektől függően a hulladéklerakó lehet:
+
+a) inert hulladék lerakására szolgáló hulladéklerakó (A kategória);
+
+b) nem veszélyes hulladék lerakására szolgáló hulladéklerakó (B kategória),
+
+ba) szervetlen, nem veszélyes hulladék lerakására szolgáló hulladéklerakó (B1b alkategória),
+
+bb) vegyes összetételű (jelentős szerves és szervetlen anyagtartalommal egyaránt rendelkező), nem veszélyes hulladék lerakására szolgáló hulladéklerakó (B3 alkategória);
+
+c) veszélyes hulladék lerakására szolgáló hulladéklerakó (C kategória).
+
+(2)[^17] A hulladéklerakó (1) bekezdés szerinti kategóriáját, nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén alkategóriáját a környezetvédelmi hatóság a hulladéklerakó létesítésének engedélyezésekor állapítja meg.
+
+(3) A hulladéklerakóban – a külön jogszabály[^18] figyelembevételével – a következő csoportokba tartozó hulladékok lerakása végezhető, ha a hulladék eleget tesz az e rendelet *2. számú melléklet* 2. pontjában felsorolt, az adott hulladéklerakó-kategóriára megállapított átvételi követelményeknek:
+
+a) A kategóriájú hulladéklerakóban kizárólag inert hulladék,
+
+b) B1b alkategóriájú hulladéklerakóban
+
+ba) szervetlen, nem veszélyes hulladék, beleértve az A kategóriájú hulladéklerakóban lerakható hulladékot is,
+
+bb) előkezelt, stabil, nem reakcióképes és nem veszélyes hulladékként kezelhető, eredetileg veszélyes hulladék,
+
+B3 alkategóriájú hulladéklerakóban
+
+bc)[^19] vegyesen gyűjtött települési hulladék,
+
+bd) előkezelt szennyvíziszap,
+
+be) egyéb nem veszélyes hulladék, beleértve a B1b alkategóriájú hulladéklerakóban lerakható hulladékot is,
+
+c) C kategóriájú hulladéklerakóban veszélyes hulladék.
+
+### 5. §
+
+(1)[^20] Lerakással kizárólag előkezelt hulladék ártalmatlanítható, kivéve a 2. számú melléklet 2.1.–1. táblázatában felsorolt inert hulladékot, valamint azt a hulladékot, amelynek előkezelés nélkül történő lerakását – olyan kezelési technika hiányában, amely csökkentené a hulladék mennyiségét vagy annak az emberi egészségre vagy a környezetre való veszélyességét – a környezetvédelmi hatóság engedélyezte.
+
+(1a)[^21] Az (1) bekezdés szerinti engedélyezés nem veszélyeztetheti a hulladékhierarchia érvényesülését, illetve az újrahasználatra való előkészítés és az újrafeldolgozás célkitűzéseinek elérését.
+
+(2) Tilos a hulladék keverése, hígítása abból a célból, hogy az így nyert hulladék megfeleljen a hulladéklerakóban való ártalmatlanítás átvételi követelményeinek.
+
+(3) Tilos hulladéklerakóban lerakni:
+
+a) folyékony hulladékot;
+
+b) nyomás alatt lévő gázt;
+
+c)[^22] a lerakás körülményei között a Ht. 1. melléklete szerinti:
+
+ca) robbanásveszélyes (H1),
+
+cb) oxidáló (H2),
+
+cc) tűzveszélyes (H3-A és H3-B),
+
+cd) maró, korrozív (H8),
+
+ce) kórházi vagy más humán-egészségügyi, illetve állat-egészségügyi intézményből származó fertőző (H9)
+
+hulladékot;
+
+d)[^23] hulladékká vált gumiabroncsot, kivéve a kerékpár-gumiabroncsot és az 1400 mm külső átmérőnél nagyobb gumiabroncsot, továbbá tilos lerakni az aprított hulladék gumiabroncsot;
+
+e) előkezelés nélküli szennyvíziszapot;
+
+f) bármely hulladékot, amely nem felel meg az e rendelet 2. számú mellékletében meghatározott átvételi követelményeknek;
+
+g)[^24] olyan vegyi anyagokat, amelyek kutatási és fejlesztési vagy oktatási tevékenységből származnak, amelyek nem azonosítottak, illetőleg újak, és amelyek emberre, illetőleg környezetre gyakorolt hatása nem ismert (pl. laboratóriumi maradék).
+
+h)[^25] az újrahasználatra való előkészítés és újrafeldolgozás céljából elkülönítve gyűjtött hulladékot, kivéve az elkülönítve gyűjtött hulladék későbbi kezelési műveleteiből származó hulladékot, amelynek esetében a hulladékhierarchiával összhangban a hulladéklerakóban való lerakás biztosítja a legjobb környezeti eredményt.
+
+(4)[^26] Hulladéknak minősülő fémhigany egy évnél hosszabb ideig történő ideiglenes tárolása az 1. számú melléklet 8. pontjában meghatározott követelmények szerint történhet. Fémhigany a 2. számú melléklet 2.5. pontjában meghatározott összetétel esetén, és csak tanúsítvánnyal ellátott tartályban vehető át. A tanúsítványt a fémhigany termelője, ennek hiányában a fémhigany kezelésért felelős személy állítja ki.
+
+### 6. §[^27]
+
+A hulladéklerakás díját úgy kell megállapítani, hogy az fedezze a hulladéklerakó létesítésének, üzembe helyezésének és üzemeltetésének teljes költségét, továbbá a hulladéklerakó lezárásának és legalább 30 évig történő utógondozásának becsült költségét.
+
+## Hatósági hatáskörök, a hulladéklerakó engedélyezése
+
+### 7. §[^28]
+
+(1) A környezeti hatásvizsgálat, illetőleg egységes környezethasználati engedély köteles hulladéklerakó engedélyezésére a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló külön jogszabályt az e rendeletben foglaltakkal együtt kell alkalmazni.
+
+(2)[^29] Amennyiben a hulladéklerakó létesítéséhez környezeti hatásvizsgálat, illetve egységes környezethasználati engedély nem szükséges, annak engedélyezésére az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet rendelkezéseit kell alkalmazni. A környezetvédelmi hatóság az építésügyi hatósági engedélyezési eljárásban a szakkérdés vizsgálata során írja elő a hulladékgazdálkodási követelményeket.
+
+(3)[^30] A környezetvédelmi hatósághoz benyújtott, a hulladéklerakóra vonatkozó környezetvédelmi engedély, illetőleg egységes környezethasználati engedély iránti kérelemnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendeletben előírtakon túl a következőket kell tartalmaznia:
+
+a)[^31]
+
+b) abban az esetben, ha a hulladéklerakó termőföld területén létesül, a földhivatalnak a termőföld más célú hasznosítását lehetővé tevő határozatát;
+
+c)[^32] a hulladéklerakó helyének kijelölésére vonatkozó dokumentum;
+
+d)[^33] a lerakásra kerülő hulladékfajtáknak a hulladékjegyzékről szóló miniszteri rendelet szerinti megnevezése, azonosító kódja és tervezett összes mennyisége;
+
+e) a lerakás során alkalmazandó műszaki védelem és technológia leírása, a környezetszennyezés megelőzésére és csökkentésére alkalmazandó leghatékonyabb megoldások figyelembevételével;
+
+f) a hulladéklerakó tervezett teljes kapacitása a tartalékterületek figyelembevételével, valamint a medencék kiépítésének tervezett térfogata és üteme;
+
+g) a helyszín hidrogeológiai és geológiai leírása;
+
+h) üzemeltetési terv, a 9. § (2) bekezdésében meghatározott tartalommal;
+
+i)[^34] települési hulladék lerakása esetén – a területi hulladékgazdálkodási tervekben meghatározott célok teljesülése érdekében – a biológiailag lebomló szervesanyag-tartalom csökkentésére vonatkozó terv;
+
+j) a hulladéklerakó biztonságát ellenőrző monitoringrendszer kialakításának és működtetésének terve;
+
+k) a rekultivációra és az utógondozásra vonatkozó előzetes terv (a továbbiakban együtt: előzetes rekultivációs terv), a rekultiváció és az utógondozás becsült költségeinek bemutatásával;
+
+l)[^35] a hulladéklerakó működése során esetlegesen bekövetkező környezetkárosodások felszámolását, valamint a hulladéklerakó rekultivációját és utógondozását szolgáló, külön jogszabály szerinti céltartalék alapját képező pénzügyi források és környezetvédelmi biztosítás meglétének igazolása.
+
+### 8. §[^36]
+
+(1)[^37]
+
+(2)[^38]
+
+## A hulladéklerakó üzemeltetése, a hulladék átadása és átvétele
+
+### 9. §
+
+(1) A hulladéklerakó üzemeltetését az üzemeltetési terv szerint kell végezni.
+
+(2) Az üzemeltetési tervnek tartalmaznia kell:
+
+a) a hulladék átvételi szabályait és nyilvántartásának rendjét;
+
+b) a hulladéklerakás technológiai rendjét;
+
+c) a hulladéklerakó-gáz, a csurgalékvíz, a kommunális szennyvíz és a szennyvíziszap, valamint a csapadékvíz kezelésének rendjét;
+
+d) a biztonsági létesítmények és intézkedések ellenőrzésének, valamint a környezeti monitoring rendszer üzemeltetésének és az észlelt adatok nyilvántartásának rendjét;
+
+e) a hulladéklerakó üzemeltetéséhez szükséges létszámot és eszközöket.
+
+(3) Az üzemeltetési tervhez csatolni kell a külön jogszabályok[^39] alapján elkészített kárelhárítási tervet, tűzvédelmi szabályzatot.
+
+(4) Az üzemeltetőnek a hulladéklerakó működtetéséhez a külön jogszabályban[^40] meghatározott szakképzettséggel rendelkező környezetvédelmi megbízottat kell alkalmaznia, és biztosítania kell a hulladéklerakó dolgozói számára a szakmai továbbképzést, oktatást.
+
+### 10. §
+
+(1) A hulladék átvételi követelményeinek való megfelelés bizonyítása a lerakásra szánt hulladéknak a 2. számú melléklet szerint végrehajtott
+
+a) alapjellemzéséből,
+
+b) megfelelőségi vizsgálatából,
+
+c) helyszíni ellenőrző vizsgálatából áll.
+
+(2) Az alapjellemzés, valamint a megfelelőségi vizsgálat elvégzéséről, továbbá azok eredményeinek jegyzőkönyvben történő rögzítéséről a termelő, amennyiben a termelő nem ismert, a hulladék tulajdonosa, birtokosa (együtt: a hulladék átadója) köteles gondoskodni. Az alapjellemzésben, megfelelőségi vizsgálatban rögzített adatok helytállóságáért a hulladék átadója felelős, amit a jegyzőkönyv cégszerű aláírásával igazol. A jegyzőkönyv egy példányát a hulladék átadója köteles a hulladék átvevőjének átadni, illetve – a 2. számú melléklet 1.1. pontjában rögzített információk kivételével – a hulladék előkezelését végző gazdálkodó szervezetnek átadni. A jegyzőkönyvet a külön jogszabály[^41] szerinti nyilvántartás részeként kell kezelni.
+
+(3) Az alapjellemzést – az e rendelet 2. számú mellékletében felsorolt kivételekkel és eltérésekkel – a lerakásra szánt valamennyi hulladékfajtára el kell készíteni.
+
+(4)[^42] Az (1) bekezdés szerinti alapjellemzéshez, megfelelőségi vizsgálathoz szükséges mintavételt és laboratóriumi vizsgálatokat erre akkreditált laboratórium végezheti.
+
+(5) A hulladék átadója a hulladéknak a hulladéklerakón való átvételét megelőzően – illetve ugyanazon típusú hulladék rendszeres átadása esetén a szerződéskötéskor – az alapjellemzéssel, azt követően megfelelőségi vizsgálattal igazolja az üzemeltető számára, hogy a hulladék az adott hulladéklerakón átvehető.
+
+(6) A hulladéklerakó üzemeltetője az engedélyében előírt feltételek mellett azt a hulladékot veheti át, amely megfelel az alapjellemzésnek, rendszeresen keletkező hulladék esetén a megfelelőségi vizsgálatnak.
+
+(7) Több létesítményben rendszeresen keletkező hulladék esetében is átvehető a hulladék megfelelőségi vizsgálattal, ha a megfelelés jellemzésére használandó kritikus paramétereknek az egyes létesítményekben keletkező hulladék esetében mért értékei – az ezekből számított átlagértékhez képest – legfeljebb ±20%-kal térnek el.
+
+### 11. §
+
+(1)[^43] A hulladéklerakó üzemeltetője a telephelyének beléptető pontján és a lerakás helyén a 2. számú melléklet 1.3. pontja szerinti helyszíni ellenőrző vizsgálatot köteles végezni annak megállapítása érdekében, hogy a lerakásra szánt hulladék azonos-e az alapjellemzésben, megfelelőségi vizsgálatban és különösen a veszélyes hulladékokkal kapcsolatos tevékenységek végzésének feltételeiről szóló külön jogszabályban meghatározott kísérő dokumentumokban leírt hulladékkal. A helyszíni ellenőrző vizsgálatokat gyorstesztek is szolgálhatják. A vizsgálati eredményeket és a mintákat legalább egy hónapig meg kell őrizni.
+
+(2)[^44] Ha az alapjellemzés, a megfelelőségi vizsgálat, továbbá a helyszíni ellenőrző vizsgálat alapján a hulladék eleget tesz a hulladéklerakó átvételi követelményeinek, a hulladék az adott hulladéklerakóban lerakható, ellenkező esetben a hulladék átvételét a hulladéklerakó üzemeltetőjének meg kell tagadnia. A hulladéklerakó üzemeltetője az átvett hulladék megnevezéséről, azonosító kódjáról és mennyiségéről elismervényt állít ki.
+
+(3)[^45] Az üzemeltető a hulladék átvételének megtagadását – az indoklást alátámasztó adatokat, információkat, valamint a szükség szerint elvégzett mérések eredményeit is tartalmazó – jegyzőkönyvben köteles rögzíteni, a jegyzőkönyv egy példányát a hulladék átadójának, valamint a hulladéklerakó helye szerint illetékes környezetvédelmi hatóságnak megküldeni.
+
+(4)[^46] Ha a hulladéklerakó üzemeltetője a hulladék átvételét a (2) bekezdés alapján megtagadja, a hulladék átadója köteles a hulladékot az arra engedéllyel rendelkező hulladéklerakóba, illetve más hulladékkezelő létesítménybe vagy a saját telephelyére szállítani.
+
+## Nyilvántartás
+
+### 12. §
+
+(1) Az üzemeltető köteles az általa átvett hulladékról a külön jogszabályban[^47] meghatározott nyilvántartás részeként az alapjellemzés, valamint a megfelelőségi vizsgálat jegyzőkönyvét megőrizni.
+
+(2) Veszélyes hulladék átvétele esetén a hulladéklerakó üzemeltetője köteles nyilvántartani a hulladéklerakón belül a lerakott hulladék pontos helyét.
+
+### 13. §
+
+(1)[^48] A hulladéklerakó üzemeltetője köteles ellenőrizni és nyilvántartani az engedélyben és az üzemeltetési tervben foglaltak betartását, továbbá köteles elvégezni a 3. számú mellékletében előírt ellenőrzéseket és megfigyeléseket az üzemeltetés, a bezárás, a rekultiváció és az utógondozás időszakában is.
+
+(2)[^49] A 3. számú mellékletben előírt mintavételezéseket és a minták elemzését erre akkreditált laboratórium végezheti.
+
+(3)[^50] Az ellenőrzési és megfigyelési eljárások során észlelt környezetszennyezésről az üzemeltető köteles a környezetvédelmi hatóságot 8 napon belül értesíteni.
+
+## A hulladéklerakó bezárása
+
+### 14. §
+
+(1)[^51] Az üzemeltető a hulladéklerakó ideiglenes vagy végleges bezárására irányuló döntését a hulladék átvételi tevékenységének megszüntetését megelőző 30 nappal köteles bejelenteni a környezetvédelmi hatóságnak.
+
+(2)[^52] Az üzemeltető döntése alapján ideiglenesen bezárt hulladéklerakó üzemeltetője a tevékenységét akkor folytathatja tovább, ha a környezetvédelmi hatóság – helyszíni ellenőrzést követően – a hulladéklerakó további működését jóváhagyta.
+
+(3)[^53] Engedély nélkül működő hulladéklerakó üzemeltetőjét, ennek hiányában a terület tulajdonosát a környezetvédelmi hatóság a hulladéklerakó bezárására kötelezi.
+
+(4)[^54] Engedélytől eltérően működtetett hulladéklerakó üzemeltetőjét a környezetvédelmi hatóság az engedélyben foglaltak teljesítésére kötelezi, és erre határidőt állapít meg. Amennyiben az üzemeltető a környezetvédelmi hatóság által előírt követelményeket határidőn belül nem teljesíti, a környezetvédelmi hatóság az üzemeltetőt a hulladéklerakó bezárására kötelezi.
+
+(5)[^55] Amennyiben a környezetvédelmi hatóság a (3)–(4) bekezdés szerinti bezárást követően a hulladéklerakó rekultivációjának szükségességét állapítja meg, az üzemeltetőt, ennek hiányában a terület tulajdonosát rekultivációra és utógondozásra kötelezi.
+
+## A hulladéklerakó rekultivációja, utógondozása[^56]
+
+### 15. §[^57]
+
+(1)[^58] A hulladéklerakó rekultivációjára és utógondozására akkor kerülhet sor, ha a külön jogszabály szerinti beavatkozásra nincsen szükség. A hulladéklerakó egészének vagy egy részének rekultivációját és utógondozását a környezetvédelmi hatóság engedélyezi.
+
+(2) Az engedély iránti kérelemnek tartalmaznia kell a 4. számú mellékletben meghatározott követelmények szerint elkészített rekultivációs tervet.
+
+(3) Amennyiben a hulladéklerakó környezetre gyakorolt hatásának feltárására, továbbá megismerésére a rekultiváció és az utógondozás engedélyezését megelőzően környezetvédelmi felülvizsgálat készült, és azt követően a hulladéklerakó állapotában lényeges változás nem történt, a rekultivációs tervet a környezetvédelmi felülvizsgálat alapján – a 4. számú mellékletnek megfelelően – kell kidolgozni.
+
+(4)[^59] Ha a hulladéklerakó egészének vagy egy részének rekultivációjára a környezetvédelmi hatóság hivatalból indít eljárást, az üzemeltetőt, ennek hiányában a terület tulajdonosát részleges környezetvédelmi felülvizsgálatra kötelezi. A részleges környezetvédelmi felülvizsgálatot a rekultiváció követelményeire tekintettel kell elvégezni, és a rekultivációs tervet a részleges környezetvédelmi felülvizsgálat alapján, a 4. számú mellékletben meghatározott követelmények szerint kell elkészíteni.
+
+(5)[^60]
+
+(6)[^61] A környezetvédelmi hatóság az utógondozási időszak meghatározásakor figyelembe veszi azt az időtartamot, ameddig a hulladéklerakó még kockázatot jelenthet a környezetre.
+
+(7)[^62] Az utógondozási időszakban a rekultivált hulladéklerakó karbantartásáért, megfigyeléséért és ellenőrzéséért az üzemeltető felelős a 3. számú mellékletében foglaltak figyelembevételével. Az üzemeltető köteles az utógondozás időszakában észlelt környezetszennyezésről a környezetvédelmi hatóságot – az észleléstől számított 8 napon belül – értesíteni.
+
+(8) A hulladéklerakót átmeneti felső záróréteg rendszerrel kell lezárni, amíg a hulladéktest biológiailag lebomló szerves összetevőinek stabilizálódása be nem következik, valamint intenzív gázképződés vagy a lerakó süllyedése várható. A végleges felső záróréteg rendszer akkor építhető ki, ha a stabilizálódási folyamat a hulladéktestben gyakorlatilag befejeződött.
+
+### 16–17. §[^63]
+
+## Jelentéskészítés és adatszolgáltatás
+
+### 18. §
+
+(1)[^64] A hulladéklerakó üzemeltetése, bezárása, rekultivációja és utógondozása alatt végzett ellenőrzésekről, megfigyelésekről, valamint a gyűjtött vizsgálati eredményekről az üzemeltető összefoglaló jelentést készít a 3. számú mellékletben foglaltak szerint. Az összefoglaló jelentésnek tartalmaznia kell a 6. § szerinti becsült költség időarányos részének rendelkezésre állását igazoló dokumentumokat is.
+
+(2)[^65] Az üzemeltető köteles az (1) bekezdésben meghatározott összefoglaló jelentést a környezetvédelmi hatóságnak megküldeni.
+
+(3)[^66] Az összefoglaló jelentés elkészítése és megküldése annak az üzemeltetőnek a kötelezettsége, aki a hulladéklerakót a tárgyév utolsó napján üzemelteti.
+
+## Záró rendelkezések
+
+### 19. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^67]
+
+(3) Az e rendelet hatálybalépésekor első fokon még el nem bírált ügyekben e rendelet rendelkezéseit kell alkalmazni.
+
+(4)[^68]
+
+(5)[^69] Ez a rendelet
+
+a)[^70] a hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelvnek,
+
+b) az 1999/31/EK tanácsi irányelvnek a hulladéknak minősülő fémhigany tárolására vonatkozó különös követelmények tekintetében történő módosításáról szóló, 2011. december 5-i 2011/97/EU tanácsi irányelvnek
+
+c)[^71] a hulladéklerakókról szóló 1999/31/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/850 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(6)[^72] Ez a rendelet a hulladékok hulladéklerakókban történő átvételének kritériumairól és eljárásairól az 1999/31 EK irányelv II. mellékletének 16. cikke alapján című, 2002. december 19-i 2003/33/EK tanácsi határozatnak végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^73]
+
+**Hulladéklerakó létesítésének és üzemeltetésének követelményei**
+
+*1. A hulladéklerakó szigetelése*
+
+1.1. A hulladéklerakót – a lerakásra kerülő hulladék összetételének figyelembevételével – olyan műszaki védelemmel kell megtervezni és megépíteni, amely biztosítja a hulladéklerakó teljes élettartama során a környezeti elemek, különösen a közvetlen környezetében lévő felszíni és felszín alatti vizek, a földtani közeg és a levegő szennyeződés elleni védelmét.
+
+1.2. A hulladéklerakó medencéjének alját és oldalait úgy kell kialakítani, hogy azok geológiai szigetelőrétege megfeleljen az alábbi követelményeknek:
+
+1\. táblázat
+
+| Hulladéklerakó kategória | Szivárgási tényező (m/s) | Vastagság (m) |
+|---|---|---|
+| Inerthulladék-lerakó (A kategória) | k ≤ 1,0 × 10<sup>–7</sup> | ≥ 1 |
+| Nem veszélyeshulladék- lerakó (B1b és B3 alkategória) | k ≤ 1,0 × 10<sup>–9</sup> | ≥ 1 |
+| Veszélyeshulladék- lerakó (C kategória) | k ≤ 1,0 × 10<sup>–9</sup> | ≥ 5 |
+
+Ha az 1. táblázat szerinti tulajdonságokkal rendelkező természetes geológiai szigetelő réteg nem áll rendelkezésre, úgy ezzel egyenértékű szivárgási tényező értéket biztosító, minimum 0,5 méter vastagságú kiegészítő épített ásványi anyagú szigetelő réteg kialakítása szükséges minden lerakó kategória esetében. A szigetelő réteg természetes és/vagy mesterségesen előállított anyagokból egyaránt kialakítható.
+
+Két szigetelőrendszer akkor tekinthető egyenértékűnek, ha a kialakuló kumulatív szennyezőanyag-áramok azonosak, azaz ugyanolyan mértékű szennyezőanyag-visszatartó képességgel rendelkeznek. Az egyenértékűséget a tervező számításokkal igazolja, a kivitelezőnek pedig vizsgálatokkal kell igazolnia a tényleges megfelelőséget.
+
+1.3. Az egyes hulladéklerakó kategóriák esetében a medencékben kialakítandó oldalfal- és aljzatszigetelés rétegrendjét a 2. táblázat tartalmazza:
+
+2\. táblázat
+
+<table><tbody><tr><td rowspan="3">Szigetelési rétegrend elemei</td><td colspan="4">Hulladéklerakó kategória</td></tr><tr><td rowspan="2">Inert<br>(A kategória)</td><td colspan="2">Nem veszélyes</td><td rowspan="2">Veszélyes<br>(C kategória)</td></tr><tr><td>Szervetlen<br>(B1b alkategória)</td><td>Vegyes összetételű<br>(B3 alkategória)</td></tr><tr><td>Mesterséges szigetelőréteg</td><td>nem előírt</td><td>előírt</td><td>előírt</td><td>előírt</td></tr><tr><td>Geofizikai monitoringrendszer (új lerakónál)</td><td>nem előírt</td><td>nem előírt</td><td>előírt</td><td>előírt</td></tr><tr><td>Szivárgóréteg</td><td>nem előírt</td><td>előírt</td><td>előírt</td><td>előírt</td></tr></tbody></table>
+
+1.3.1. Mesterséges szigetelőréteg
+
+A természetes vagy mesterségesen kialakított ásványi anyagú szigetelőréteg mellett a 2. táblázatban előírt esetekben egy másik szigetelőréteg beépítése is szükséges. A mesterséges szigetelőréteg lehet rugalmas geomembrán (lemez vagy fólia) vagy azzal egyenértékű környezeti védelmet biztosító réteg. A mesterséges szigetelőréteget képező anyagnak egyrészt szignifikánsan alacsonyabb permeabilitási tulajdonságokkal kell rendelkeznie, mint az 1.2. pontban meghatározott geológiai szigetelőrétegnek, másrészt anyagában különböznie kell a geológiai szigetelőrétegtől.
+
+A hulladéklerakó szigetelőrendszerének fenékszintje és a felszín alatti víz szintjének, illetve víznyomásszintjének maximuma között legalább 1 méter távolságot kell tartani.
+
+A B3 alkategóriájú hulladéklerakónál a szivárgóréteg alján, a veszélyeshulladék-lerakónál mindkét szivárgóréteg alján legalább 2,5 mm vastagságú műanyag lemez, geomembrán beépítése szükséges.
+
+1.3.2. Szigetelőrétegek meghibásodásának monitoringrendszere (geofizikai monitoringrendszer)
+
+Meghibásodást ellenőrző geofizikai monitoringrendszert kell kiépíteni a C kategóriájú, valamint B3 alkategóriájú hulladéklerakón.
+
+A geofizikai monitoringrendszert a geomembrán fólia/lemez alá kell telepíteni, a C kategóriájú hulladéklerakónál az alsó geomembrán alá kell kerülnie. A geofizikai monitoringrendszernek a geomembrán folytonossági állapotáról információkat kell nyújtania addig, amíg az első hulladékréteg a szigetelő fóliára/lemezre rákerül.
+
+1.3.3. Csurgalékvízgyűjtő réteg (szivárgóréteg)
+
+A csurgalékvízgyűjtő rendszer a csurgalékvizek gyűjtésére, elvezetésére és ellenőrzésére szolgáló hatékony szivárgórendszer összefoglaló neve. A csurgalékvízgyűjtő réteg vastagsága általában 0,5 méter, amely indokolt esetben legfeljebb 0,3 méter vastagságra csökkenthető. A 0,5 méternél kisebb rétegvastagságot méretezni kell. A csurgalékvízgyűjtő réteget k ≥ 10<sup>–3</sup> m/s szivárgási tényező értékkel bíró, 16/32 szemcseméretű, gömbölyded (koptatott) szemcsealakú, max. 10–20% mésztartalmú anyaggal kell kialakítani.
+
+A hulladék és az első szigetelőréteg közé kerülő szivárgórendszernek (szivárgópaplan) legalább két rétegből kell állnia. A szigetelőrétegre kerül a csurgalékvízgyűjtő és elvezető rendszer, majd e réteg és a hulladék közé egy szűrő-védő réteg beépítése szükséges, amely egyrészt elősegíti a csurgalékvíz bejutását a gyűjtő-elvezető rendszerbe, másrészt védi azt a hulladékból bemosódó finom szemcsék bejutásától, megakadályozva eltömődését. A réteget – akár természetes, akár mesterséges anyagú – méretezni kell. Ugyancsak méretezni kell a csurgalékvízgyűjtő rendszert, hogy a szigetelőrétegnél a megengedettnél nagyobb hidraulikus gradiens ne alakuljon ki, azaz a csurgalékvíz felszíne mindig a szivárgórétegen belül maradjon, nem emelkedhet fel a hulladékréteg szintjéig.
+
+A szivárgóréteg szükséges vastagságát a tervező állapítja meg a hulladéklerakó kategóriájának, valamint helyének hidrogeológiai tulajdonságait figyelembe véve.
+
+C kategóriájú hulladéklerakó esetében két szivárgóréteget kell kialakítani. A két geomembrán közötti szivárgó-ellenőrző rétegként geodrén (mesterséges anyagú szűrőréteg) alkalmazható, amelynek hatékonyságát hidraulikai számításokkal kell igazolni. A második szivárgóréteg az első szigetelőréteg alá kerül, és szintén kettős célt szolgál: elsődleges az ellenőrzési funkció (jelzi a szigetelőrendszer meghibásodását) és másodlagos a gyűjtő-elvezető funkció.
+
+Ha a hulladéklerakó környezetre gyakorolt hatásának vizsgálata, a hulladéklerakó környezetvédelmi engedélykérelméhez benyújtott környezeti kockázatelemzés, valamint a lerakásra kerülő hulladék anyagának, összetételének, kioldódási tulajdonságainak alapján megállapítható, hogy a hulladéklerakó nem jelent potenciális veszélyt a földtani közegre, a felszín alatti vagy a felszíni vízre, a levegőre, a környezetvédelmi hatóság jogosult az 1.2. és 1.3. pontban foglalt követelmények mérséklésére.
+
+*2. A hulladékréteg deformáció és elcsúszás elleni védelme; a lerakó-aljzat rétegeinek mechanikai stabilitása*
+
+A lerakás technológiáját az üzemeltetési tervben úgy kell megtervezni, hogy biztosítsa a hulladékréteg (oldal és függőleges irányú) mechanikai stabilitását, valamint a szerkezeti elemek épségét és rögzítésük helyzetét.
+
+Az aljzat-rétegrendet úgy kell kialakítani, hogy teljes élettartama során mechanikailag állékony legyen, vagyis képes legyen káros deformációk nélkül elviselni a fölötte elhelyezett rétegek nyomását.
+
+*3. A hulladéklerakó fontosabb kiegészítő építményei*
+
+3.1. A beszállított hulladék tömegének meghatározására a hulladéklerakón hídmérleget kell üzemeltetni, kivéve a csövön vagy szállítószalagon történő hulladék beszállítást. Utóbbi esetben is gondoskodni kell a hulladék tömegének meghatározásáról.
+
+3.2. A hulladéklerakó területét be kell keríteni. A kerítés mentén olyan véderdőt szükséges létesíteni, amely – különösen települési hulladéklerakó esetében – megakadályozza a hulladéknak széllel való elhordását. A véderdő kialakításakor gondoskodni kell arról, hogy a telepített lombos fák és bokrok elegendően magas, sűrű struktúrájú, zöld sávot alkossanak. A kerítésnek, véderdőnek, mobil építményeknek (védőháló) biztosítaniuk kell a hulladék – lerakó területéről – széllel történő elhordásának megakadályozását.
+
+3.3. A hulladéklerakó területén ki kell alakítani az ügyvitel és a szociális funkciók ellátására alkalmas infrastruktúrát.
+
+3.4. A hulladéklerakó területén gondoskodni kell elektromos energiaellátásról, a térvilágításról, a vízellátásról, továbbá a kommunális szennyvíz elvezetéséről és kezeléséről.
+
+3.5. A környezetvédelmi hatóság jogosult a 3.2–3.4. pontokban szereplő építmények elhagyását engedélyezni.
+
+*4. A csurgalékvíz és a csapadékvíz kezelése*
+
+4.1. A csurgalékvíz és a csapadékvíz gyűjtésére és kezelésére külön-külön, önálló kezelési rendszert kell létesíteni.
+
+4.2. A hulladéklerakóból eltávolított csurgalékvizet külön, szigetelt, megfelelő puffer kapacitással rendelkező tározó medencében kell összegyűjteni, majd összetétele ismeretében és függvényében kell kezelni, hogy a befogadóba (itt: felszíni folyó- vagy állóvíz) lehessen juttatni. Amennyiben szükséges, a medencéből a csurgalékvizet – zárt rendszeren keresztül – a hulladékréteg felületére vissza lehet juttatni.
+
+4.3. A csapadékvizeket a hulladéklerakótól el kell vezetni, a hulladéklerakó területéről pedig össze kell gyűjteni, és összetétele ismeretében és függvényében kezelni.
+
+*5.* *A hulladéklerakó-gáz kezelése*
+
+5.1. Ha a lerakómedencében a lerakott hulladékból gázképződés lehetséges, gondoskodni kell a keletkező hulladéklerakó-gázok rendszeres eltávolításáról, gyűjtéséről és kezeléséről. A B3 kategóriájú hulladéklerakón a biológiailag bomló összetevőkből képződő gázok kezelésére minden esetben ki kell alakítani a gázkezelő rendszert.
+
+5.2. A B3 kategóriájú hulladéklerakón nemcsak az elvezetésről kell gondoskodni, hanem mindaddig, amíg a keletkező gáz gazdaságosan hasznosítható, gondoskodni kell a hulladéklerakó-gáz felhasználásáról. Ha a hasznosítás nem gazdaságos, akkor gondoskodni kell a gáz biztonságos ártalmatlanításáról (pl. fáklyázással történő elégetéséről).
+
+*6. A hulladéklerakó működéséből származó környezeti veszélyek*
+
+A hulladéklerakót úgy kell üzemeltetni, hogy az üzemeltetésből ne származhassanak környezetszennyező hatások. Ennek érdekében el kell kerülni:
+
+*a)* a légszennyezést (pl. a kiporzásból származó szállópor és aeroszolok képződése), valamint a bűzhatásokat,
+
+*b)* a hulladéknak széllel való elhordását,
+
+*c)* a forgalom okozta káros zaj- és rezgésterhelést,
+
+*d)* a madarak, a kártékony kisemlősök és rovarok elszaporodásából származó károkat,
+
+*e)* a tűzesetek bekövetkezését,
+
+*f)* a felszíni, valamint a felszín alatti víz, továbbá a földtani közeg szennyezését.
+
+*7.* *A hulladéklerakó védelme*
+
+Biztosítani kell a hulladéklerakóra történő szabad bejutás kizárását. A kapukat munkaidőn túl zárva kell tartani.
+
+Biztosítani kell, hogy ne történjék illegális lerakás a hulladéklerakó területén.
+
+*8. A fémhigany ideiglenes tárolása*
+
+A fémhigany egy évnél hosszabb ideig történő ideiglenes tárolására a következő követelmények vonatkoznak:
+
+a) A fémhiganyt más hulladékoktól elkülönítve kell tárolni.
+
+b) A tartályokat olyan, a tárolni kívánt higanymennyiség befogadásához elegendő térfogatú gyűjtőmedencékben kell tárolni, amelyek repedés- és hézagmentességet biztosító, a fémhiganyt át nem eresztő, megfelelő bevonattal vannak ellátva.
+
+c) A tárolóhelyet a higanykibocsátással szemben a környezetet megfelelő módon védő mesterséges vagy természetes gátakkal kell ellátni, és a tárolóhelyen a tárolni kívánt teljes higanymennyiség befogadásához elegendő tárolótérfogatot kell biztosítani.
+
+d) A tárolóhely padlózatát a higannyal szemben ellenálló és a higanyt át nem eresztő anyaggal kell burkolni. A padlózatot lejtéssel kell kialakítani és gyűjtőaknával kell ellátni.
+
+e) A tárolóhelyet el kell látni tűzvédelmi rendszerrel.
+
+f) A tárolást úgy kell megszervezni, hogy minden tartály könnyen kivehető legyen.
+
+## 2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^74]
+
+**A hulladék hulladéklerakókban történő átvételével kapcsolatos eljárások és követelmények**
+
+*1.* *A hulladék vizsgálatának, átadásának és átvételének részletes szabályai*
+
+1.1. Alapjellemzés
+
+Az alapjellemzésnek különösen a következőkre kell kiterjednie:
+
+*a)* a hulladék külön jogszabály szerinti azonosító kódja, eredete, a hulladékot eredményező technológia rövid leírása, a hulladék fizikai megjelenési formája, minőségi összetétele, teljes (rendszeresen képződő hulladék esetén az időegység alatt képződő) mennyisége és – ahol szükséges és lehetséges – az egyéb, a lerakással történő ártalmatlanítás szempontjából jellemző tulajdonságai, különös tekintettel a hulladéklerakóban várható változásaira, a kémiai kölcsönhatásokra, illetve a hulladéklerakó szigetelő anyagával való kölcsönhatásokra;
+
+*b)* a hulladék Ht. 1. melléklete szerinti veszélyességi jellemzőinek meghatározására;
+
+*c)* a hulladék kioldódási jellemzőire és azoknak a hulladéklerakóban várható változásaira;
+
+*d)* a kioldódási jellemzőknek a lerakhatósági szempontok szerinti értékelésére és a hulladék átvételére megfelelő hulladéklerakó-kategória meghatározására;
+
+*e)* rendszeresen képződő hulladék esetében a kritikus paraméterek kiválasztására a megfelelőségi vizsgálathoz és a megfelelőségi vizsgálat elvégzési gyakoriságának meghatározására;
+
+*f)* annak bemutatására, hogy a lerakásra szánt hulladék sem eredeti, sem előkezelt formájában gazdaságosan nem hasznosítható.
+
+Inert hulladék esetében az alapjellemzéshez nem szükséges laboratóriumi vizsgálatokat végezni, ha a hulladék szerepel a 2.1.–1. táblázatban.
+
+Nem kell a hulladék alapjellemzéséhez vizsgálatokat végezni, amennyiben a hulladék vizsgálata a gyakorlatban nem megvalósítható, illetve nem kell olyan paramétereket vizsgálni az alapjellemzés során, melyek vizsgálatára nem áll rendelkezésre megfelelő módszer, továbbá abban az esetben, ha valamennyi, az alapjellemzéshez szükséges információ rendelkezésre áll.
+
+Ha a hulladék olyan veszélyes összetevőket is tartalmaz, amelyek a 2.2.1.–1. és 2.2.1.–2. táblázatokban nem szerepelnek, akkor ezekre az összetevőkre a hulladék termelője, előkezelője vagy a hulladéklerakó üzemeltetője köteles egyedi kioldási határérték megállapítását kérni a külön jogszabályban meghatározott Hulladékminősítő Bizottságtól. Amennyiben az adott típusú hulladék 2.2.1.–1. és 2.2.1.–2. táblázatokban nem szereplő veszélyes összetevőjére a Hulladékminősítő Bizottság már korábban egyedi kioldási határértéket állapított meg, akkor a továbbiakban azt kell elfogadni.
+
+Rendszeresen képződő hulladéknak az a hulladék tekinthető, amely egy vagy több létesítményben
+
+*(i)* azonos termelési vagy azonos termelési és előkezelési tevékenységből származik;
+
+*(ii)* a termelési és az előkezelési folyamat jól ismert és anyagmérlege közel állandó;
+
+*(iii)* a hulladék *a)–d)* alpontokban felsorolt alapjellemzői közül kiválaszthatók azok a kritikus paraméterek, amelyek a hulladék lerakhatóságát egyértelműen meghatározzák és jelzik a hulladék összetételének esetleges megváltozását;
+
+*(iv)* a termelő, birtokos minden szükséges információt megad a hulladéklerakó üzemeltetőjének a folyamatokban bekövetkező változásokról, különös tekintettel a folyamatokba bemenő anyagok megváltozására.
+
+Az *(iii)* pont szerinti kritikus paraméternek kell tekinteni az e melléklet 2. pontjában megadott táblázatokban szereplő jellemzők közül azokat, amelyek koncentrációja eléri vagy meghaladja a megadott határérték 80%-át, illetve amelyeknél a jellemző koncentrációja nagymértékben szór.
+
+1.2. Megfelelőségi vizsgálat
+
+A megfelelőségi vizsgálattal történik a rendszeresen képződő hulladék ellenőrzése; az 1.1. pont *a)–d)* alpontjaiban felsorolt alapjellemzők és a kritikus paraméterek mért értékeinek összevetése a 2. pont táblázataiban felsorolt határértékekkel, valamint az eredmények értékelése. A megfelelőségi vizsgálatot évente legalább egyszer el kell végezni.
+
+Nem kell megfelelőségi vizsgálatot végezni abban az esetben, amikor az alapjellemzéshez nem szükséges laborvizsgálatok elvégzése.
+
+1.3. Helyszíni ellenőrző vizsgálat
+
+A helyszíni ellenőrző vizsgálatok – minden egyes hulladékszállítmány esetében – a hulladéklerakó beléptető pontján, illetve a lerakás helyén kiterjednek:
+
+*a)* a kísérő dokumentumok ellenőrzésére,
+
+*b)* a hulladékszállítmány szemrevételezéssel történő ellenőrzésére,
+
+*c)* szükség esetén a hulladék átvétele szempontjából lényeges alapjellemzők gyorsteszttel történő vizsgálatára.
+
+1.4. Mintavétellel és vizsgálatokkal kapcsolatos követelmények
+
+A hulladék mintavételhez és a hulladékvizsgálatokhoz (hulladékok általános tulajdonságai, kioldási vizsgálatok, nyers hulladék feltárása, analízis) a CEN (Comité Européen de Normalisation) – Európai Szabványügyi Bizottság – által kiadott vonatkozó szabványok, illetve a nemzeti szabványok szolgálnak referenciaként. A mintavételhez mintavételi tervet kell készíteni.
+
+A kioldási vizsgálatokhoz a hulladékból aprítással, szabványban rögzített módszerekkel, alkalmas részecskeméret-eloszlású frakciókat kell készíteni.
+
+A kioldási határértékek az L/S = 10 l/kg folyadék/szilárd arány mellett végzett kioldásos vizsgálatokra, valamint az L/S = 0,1 l/kg folyadék/szilárd arány mellett végzett perkolációs (átfolyásos) vizsgálat első eluátumának koncentrációira (Co) vonatkoznak. A hulladék átvétele szempontjából az L/S = 10 l/kg folyadék/szilárd arány mellett végzett kioldásos vizsgálatok határkoncentrációit kell figyelembe venni.
+
+A táblázatban feltüntetett határkoncentrációkat túllépő hulladék nem vehető át az adott lerakókategóriában történő elhelyezésre.
+
+*2.* *Átvételi követelmények a különböző kategóriába sorolt hulladéklerakókon*
+
+*2.1.* *Átvételi követelmények inert hulladék lerakására szolgáló hulladéklerakón (A kategória)*
+
+A 2.1.–1. táblázatban felsorolt hulladékot a hulladéklerakó üzemeltetője az alapjellemzéshez szükséges vizsgálatok nélkül átveheti, de a helyszíni ellenőrző vizsgálatokat köteles elvégezni.
+
+Ha a helyszíni ellenőrző vizsgálatok alapján felmerül a szennyeződés gyanúja, akkor el kell végezni a 2.1.–2. és 2.1.–3. táblázatban szereplő összetevők vizsgálatát, és ez alapján dönt
+
+*a)* a hulladéklerakó üzemeltetője a hulladék átvételéről vagy annak megtagadásáról;
+
+*b)* a hulladék átadója a hulladék elszállításáról a tulajdonságainak megfelelő hulladéklerakóba, illetve más hulladékkezelő létesítménybe vagy a saját telephelyére.
+
+*2.1.–1. táblázat*
+
+*Alapjellemzéshez szükséges vizsgálatok nélkül átvehető inert hulladékok*
+
+|  | A | B | C |
+|---|---|---|---|
+| 1 | Azonosító kód | Leírás | Korlátozások |
+| 2 | 10 11 03 | Üvegalapú, szálas anyagok hulladékai | A hulladék nem tartalmazhat szerves kötőanyagot |
+| 3 | 15 01 07 | Csomagolási üveghulladékok |  |
+| 4 | 17 01 01 | Beton | Elkülönített építési-bontási hulladékok* |
+| 5 | 17 01 02 | Tégla | Elkülönített építési-bontási hulladékok* |
+| 6 | 17 01 03 | Cserép és kerámiák | Elkülönített építési-bontási hulladékok* |
+| 7 | 17 01 07 | Beton, tégla, cserép és kerámia keveréke | Elkülönített építési-bontási hulladékok* |
+| 8 | 17 02 02 | Üveg |  |
+| 9 | 17 05 04 | Föld és kövek | A hulladék nem tartalmazhatja a talaj humuszos rétegét, tőzeget, továbbá szennyezett területről származó földet, köveket |
+| 10 | 19 12 05 | Üveg |  |
+| 11 | 20 01 02 | Üveg | Elkülönített üveg |
+| 12 | 20 02 02 | Talaj és kövek | A hulladék csak kertekből, parkokból származhat, és nem lehet benne humusz, illetve tőzeg |
+
+\* Az elkülönített építési-bontási hulladékok kis mennyiségben más összetevőket (pl. fémek, műanyagok, talaj, szerves anyagok, fa, gumi stb.) is tartalmazhatnak. A hulladék eredetét ismerni kell.
+
+Nem tekinthető inert építési-bontási hulladéknak az a hulladék, amely külön jogszabályban szabályozott szerves vagy szervetlen veszélyes összetevőket (pl. azbesztet, bitument) tartalmaz vagy az építés során ilyen anyagokat használtak, illetve az épületben olyan termékeket tároltak vagy gyártottak, amelyekkel az építőanyagok szennyeződhettek, és emiatt a hulladék már nem tekinthető inertnek.
+
+Inert hulladéknak a lerakhatósági szempontok szerinti értékelését a kioldási vizsgálatok eredményei és a 2.1.–2. és 2.1.–3. táblázatban felsorolt határértékek összehasonlítása alapján kell elvégezni.
+
+Perkolációs vizsgálatokat akkor kell végezni, ha a vizsgált hulladék szulfátion-koncentrációja nagyobb, mint 1000 mg/kg. Ebben az esetben a 2.1.–2. táblázat *-gal jelzett előírása szerint kell eljárni.
+
+*2.1.–2. táblázat*
+
+*Átvételi határkoncentrációk inert hulladéklerakón*
+
+<table><thead><tr><th rowspan="2">Összetevő</th><th>Kioldási vizsgálat<br>(L/S=10 l/kg, desztillált víz)</th><th>Perkolációs vizsgálat<br>(L/S=0,1 l/kg, desztillált víz)</th></tr><tr><th>Határkoncentráció<br>mg/kg szárazanyag</th><th>Határkoncentráció<br>(Co) mg/l</th></tr></thead><tbody><tr><td>As</td><td>0,5</td><td>0,06</td></tr><tr><td>Ba</td><td>20</td><td>4</td></tr><tr><td>Cd</td><td>0,04</td><td>0,02</td></tr><tr><td>Cr összes</td><td>0,5</td><td>0,1</td></tr><tr><td>Cu</td><td>2</td><td>0,6</td></tr><tr><td>Hg</td><td>0,01</td><td>0,002</td></tr><tr><td>Mo</td><td>0,5</td><td>0,2</td></tr><tr><td>Ni</td><td>0,4</td><td>0,12</td></tr><tr><td>Pb</td><td>0,5</td><td>0,15</td></tr><tr><td>Sb</td><td>0,06</td><td>0,1</td></tr><tr><td>Se</td><td>0,1</td><td>0,04</td></tr><tr><td>Zn</td><td>4</td><td>1,2</td></tr><tr><td>Klorid-ionok</td><td>800</td><td>460</td></tr><tr><td>Fluorid-ionok</td><td>10</td><td>2,5</td></tr><tr><td>Szulfát-ionok</td><td>1000*</td><td>1500</td></tr><tr><td>Fenol index</td><td>1</td><td>0,3</td></tr><tr><td>DOC: szerves kötésben lévő oldott szén összes mennyisége</td><td>500**</td><td>160</td></tr><tr><td>TDS: a hulladékból kioldódott szilárd anyagok összes mennyisége</td><td>4000***</td><td>–</td></tr></tbody></table>
+
+\* A hulladéklerakó üzemeltetője átveheti a hulladékot, ha a kioldási vizsgálat eredménye szerint a szulfátion-koncentráció nagyobb, mint 1000 mg/kg, de nem haladja meg a 6000 mg/kg értéket és a perkolációs módszerrel, desztillált vízzel mért Co határkoncentráció nem haladja meg az 1500 mg/l értéket.
+
+** Ha a hulladék mért DOC értéke, a saját pH-ján mérve nagyobb a táblázatban felsorolt határértéknél, akkor pH 7,5–8 közötti tartományban, L/S=10 l/kg arány mellett kell meghatározni a DOC értéket. A hulladéklerakó üzemeltetője átveheti a hulladékot, ha a 7,5–8 pH tartományban mért DOC koncentráció nem haladja meg a táblázatban felsorolt 500 mg/kg határértéket.
+
+*** Ha a vizsgált hulladék szulfát-ionjainak átvételi koncentrációját 6000 mg/kg-ban állapították meg, akkor a TDS átvételi határértéke legfeljebb 8000 mg/kg lehet.
+
+A megadott kioldódási követelményeken kívül az inert hulladéklerakóban átvehető hulladéknak eleget kell tennie a 2.1.–3. táblázatban felsorolt további követelményeknek is.
+
+*2.1.–3. táblázat*
+
+*Átvételi határkoncentrációk közvetlenül a hulladékból elvégzett vizsgálatokhoz inerthulladék-lerakó esetében*
+
+| Jellemző | Határkoncentráció mg/kg |
+|---|---|
+| TOC (szerves kötésben lévő szén összes mennyisége) | 30 000* |
+| BTEX (benzol, toluol, etil-benzol és xilol) | 6 |
+| PCB (poliklórozott bifenilek: 28, 52, 101, 118, 138, 153 és 180 kongenerek) | 1 |
+| Ásványolaj (C<sub>10</sub>-C<sub>40</sub> szén-atomszámú összetevők) | 500 |
+| PAH (policiklikus aromás szénhidrogének, 16 vegyületre) | 1 |
+
+\* Talajhulladék esetében a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, ha a hulladék L/S=10 l/kg arány mellett mért DOC értéke nem éri el az 500 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+
+*2.2.* *Átvételi követelmények nem veszélyes hulladék lerakására szolgáló hulladéklerakón (B kategória)*
+
+2.2.1. Átvételi követelmények szervetlen, nem veszélyes hulladék lerakására szolgáló hulladéklerakón (B1b alkategória)
+
+B1b alkategóriájú hulladéklerakóban átvehető és lerakható hulladéknak a lerakhatósági szempontok szerinti értékelését a kioldási vizsgálatok eredményei, valamint a 2.2.1.–1. táblázatban felsorolt határértékek összehasonlítása alapján kell elvégezni.
+
+Előkezelt, stabil, nem reakcióképes (eredetileg) veszélyes hulladék – más, nem veszélyes hulladékkal együtt – közös medencében lerakható.
+
+Stabil, nem reakcióképesnek akkor tekinthető a hulladék, ha kioldódási tulajdonságai a lerakóban fennálló körülmények között, illetve balesetek bekövetkezésekor hosszú távon nem változnak kedvezőtlenül, továbbá a hulladék összetétele
+
+*a)* biológiai bomlás következtében,
+
+*b)* hosszú időtávú külső körülmények hatására (pl. víz, levegő, hőmérséklet, mechanikai hatások következtében),
+
+*c)* más hulladék hatására (beleértve a hulladékon átfolyó csurgalékvíz és a keletkező gázok hatását is)
+
+nem változik meg.
+
+Ha az előkezelés során monolit formájú hulladékot állítanak elő, akkor ennek B1b alkategóriájú hulladéklerakón történő átvehetőségét – a monolit hulladékok vizsgálatára vonatkozó nemzeti szabvány kihirdetéséig – a következők alapján kell megítélni: a monolit hulladékot granulálni kell, és a kioldódási vizsgálatokat L/S = 10 l/kg arány mellett kell elvégezni, annak tudatában, hogy ez a modellvizsgálat nem ad kielégítő információt a monolitok kioldhatóságában meghatározó szerepet játszó diffúziós kioldási mechanizmusról.
+
+*2.2.1.–1. táblázat*
+
+*Átvételi határkoncentrációk B1b alkategóriájú hulladéklerakón*
+
+<table><thead><tr><th rowspan="2">Összetevő</th><th>Kioldási vizsgálat<br>(L/S=10 l/kg, desztillált víz)</th></tr><tr><th>Határkoncentráció<br>mg/kg szárazanyag</th></tr></thead><tbody><tr><td>As</td><td>2</td></tr><tr><td>Ba</td><td>100</td></tr><tr><td>Cd</td><td>1</td></tr><tr><td>Cr összes</td><td>10</td></tr><tr><td>Cu</td><td>50</td></tr><tr><td>Hg</td><td>0,2</td></tr><tr><td>Mo</td><td>10</td></tr><tr><td>Ni</td><td>10</td></tr><tr><td>Pb</td><td>10</td></tr><tr><td>Sb</td><td>0,7</td></tr><tr><td>Se</td><td>0,5</td></tr><tr><td>Zn</td><td>50</td></tr><tr><td>Klorid-ionok</td><td>15 000</td></tr><tr><td>Fluorid-ionok</td><td>150</td></tr><tr><td>Szulfát-ionok</td><td>20 000</td></tr><tr><td>DOC: szerves kötésben lévő oldott szén összes mennyisége</td><td>800*</td></tr><tr><td>TDS: a hulladékból kioldódott szilárd anyagok összes mennyisége</td><td>60 000**</td></tr></tbody></table>
+
+\* Ha a hulladék mért DOC értéke a saját pH-ján mérve nagyobb, mint a táblázatban felsorolt határérték, akkor pH 7,5–8 közötti tartományban, L/S=10 l/kg arány mellett kell meghatározni a DOC értéket. Átvehető a hulladék akkor, ha a 7,5–8 pH tartományban mért DOC koncentrációja nem haladja meg a táblázatban felsorolt 800 mg/kg határértéket.
+
+** Ha a hulladék szulfát- és kloridion tartalma teljesíti a fenti határkoncentrációkat, a TDS érték túllépés esetén is átvehető a hulladék.
+
+Előkezelt, stabil, nem reakcióképes (eredetileg) veszélyes hulladék a B1b lerakóban átvehető, amennyiben a 2.2.1.–2. táblázatban szereplő további követelményeknek is megfelel.
+
+*2.2.1.–2. táblázat*
+
+*Átvételi határkoncentrációk közvetlenül az előkezelt, stabil, nem reakcióképes (eredetileg) veszélyes hulladékokból elvégzett vizsgálatokhoz B1b alkategóriájú hulladéklerakón*
+
+| Jellemző | Határkoncentráció |
+|---|---|
+| TOC (szerves kötésben lévő szén összes mennyisége) | 5 tömeg%* |
+| pH | ≥ 6 |
+| ANC/BNC (sav-, illetve lúgsemlegesítési kapacitás) | Lásd a ** alatti értelmezést |
+
+\* Ha a mért TOC érték meghaladja az 5 tömeg%-ot (pl. talajhulladékok esetében), akkor a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 800 mg/kg értéket a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+
+** Minthogy több szervetlen összetevő pH ≥ 6 tartományban is kioldódik, ezért el kell végezni az ANC/BNC vizsgálatokat a pH 4–pH 12 tartományban, nyolc különböző pH-n. A kioldott anyagmennyiségeket a pH 4 és pH 12 értéken kell meghatározni. Átvehető a hulladék akkor, ha a pH 4 és pH 12 értékeken mért kioldási koncentrációk sem lépik túl a 2.3.–1. táblázatban megadott, L/S=10 l/kg arányra vonatkozó határértékeket.
+
+2.2.2. Azbeszttartalmú hulladék lerakása B1b alkategóriába sorolt hulladéklerakón
+
+Azbesztet tartalmazó építési-bontási hulladék B1b alkategóriájú hulladéklerakón vizsgálat nélkül átvehető, ha a hulladék az azbeszten kívül más veszélyes összetevőt nem tartalmaz és az azbeszt polimerrel burkolt, vagy szálait kötőanyag tartja össze.
+
+Azbesztet tartalmazó építési-bontási hulladék kizárólag az azbeszthulladék számára kialakított külön medencében (kazettában) rakható le, a következő feltételekkel:
+
+*a)* az azbesztszálak szóródásának elkerülése érdekében biztosítani kell az egyes lerakott hulladék szállítmányok azonnali takarását. Minden egyes tömörítési művelet előtt, megfelelő további réteggel kell a takarást elvégezni;
+
+*b)* nem lehet az azbeszthulladék lerakására épített medencén olyan mechanikai műveletet (pl. lyukak fúrása) végezni, amely az azbesztszálak szétszóródását eredményezheti;
+
+*c)* az azbeszthulladékot tartalmazó medence lezárása után a medence helyére vonatkozó helyszínrajzot meg kell őrizni;
+
+*d)* a hulladéklerakó bezárása után – a lakosság biztonsága érdekében – biztosítani kell a hulladéklerakó területe használatának korlátozását.
+
+2.2.3. Átvételi követelmények vegyes összetételű (jelentős szervesanyag-tartalommal is rendelkező), nem veszélyes hulladék lerakására szolgáló hulladéklerakón (B3 kategória)
+
+B3 alkategóriájú hulladéklerakón alapjellemzéshez szükséges vizsgálatok nélkül átvehetők a 2.1.–1. táblázatban felsorolt inert hulladékok, a külön jogszabály szerinti hulladékjegyzék 20-as azonosító kóddal jelölt főcsoportjában felsorolt, vegyesen gyűjtött, nem veszélyes szilárd hulladékok, kivéve a 20 01 41 azonosító kóddal jelölt kéménysöprésből származó hulladékot.
+
+Vizsgálatok alapján átvehető az EWC 20 01 41 kéménysöprésből származó hulladék, valamint más nem veszélyes hulladékok, ha eleget tesznek a B1b alkategóriájú hulladéklerakókra vonatkozó átvételi követelményeknek a 2.2.1.–1. táblázatban felsorolt határértékek alapján.
+
+Települési hulladékot fogadó hulladéklerakón átvehető
+
+*a)* a nem fertőzőképes rácsszemét (19 08 01 azonosító kóddal jelölt hulladéktípus), valamint
+
+*b)* a kommunális szennyvíztisztító üzemek nem fertőzőképes, víztelenítés után legalább 25%-os szárazanyag-tartalmú iszapja,
+
+ha a 2.2.1.–1. táblázatban felsorolt határértékek alapján – a DOC összetevőt kivéve – eleget tesz a B1b alkategóriájú hulladéklerakókra vonatkozó átvételi követelményeknek.
+
+Gipsztartalmú nem veszélyes hulladék a hulladéklerakónak kizárólag azon medencéjében rakható le, amelyben biológiailag lebomló hulladékot nem raknak le.
+
+*2.3.* *Átvételi követelmények veszélyes hulladék lerakására szolgáló hulladéklerakón (C kategória)*
+
+A C kategóriájú hulladéklerakóban átvehető és lerakható veszélyes hulladéknak a lerakhatósági szempontok szerinti értékelését a hulladékból granulálással előállított mintákra vonatkozó kioldási vizsgálatok eredményei, valamint a 2.3.–1. és a 2.3.–2. táblázatokban felsorolt határértékek összehasonlítása alapján kell elvégezni.
+
+*2.3.–1. táblázat*
+
+*Átvételi határkoncentrációk C kategóriájú hulladéklerakón*
+
+<table><tbody><tr><td rowspan="2">Összetevő</td><td>Kioldási vizsgálat<br>(L/S= 10 l/kg, desztillált víz)</td></tr><tr><td>Határkoncentráció<br>mg/kg szárazanyag</td></tr><tr><td>As</td><td>25</td></tr><tr><td>Ba</td><td>300</td></tr><tr><td>Cd</td><td>5</td></tr><tr><td>Cr összes</td><td>70</td></tr><tr><td>Cu</td><td>100</td></tr><tr><td>Hg</td><td>2</td></tr><tr><td>Mo</td><td>30</td></tr><tr><td>Ni</td><td>40</td></tr><tr><td>Pb</td><td>50</td></tr><tr><td>Sb</td><td>5</td></tr><tr><td>Se</td><td>7</td></tr><tr><td>Zn</td><td>200</td></tr><tr><td>Klorid-ionok</td><td>25 000</td></tr><tr><td>Fluorid-ionok</td><td>500</td></tr><tr><td>Szulfát-ionok</td><td>50 000</td></tr><tr><td>DOC: szerves kötésben lévő oldott szén összes mennyisége</td><td>1000*</td></tr><tr><td>TDS: a hulladékból kioldódott szilárd anyagok összes mennyisége</td><td>100 000**</td></tr></tbody></table>
+
+\* Ha a hulladék mért DOC értéke a saját pH-ján mérve nagyobb, mint a táblázatban felsorolt határérték, akkor pH 7,5–8 közötti tartományban, L/S=10 l/kg arány mellett kell meghatározni a DOC értéket. Átvehető a hulladék akkor, ha a 7,5–8 pH tartományban mért DOC koncentrációja nem haladja meg a táblázatban felsorolt 1000 mg/kg határértéket.
+
+** Ha a hulladék szulfát- és kloridion tartalma teljesíti a fenti határkoncentrációkat, a TDS érték túllépés esetén is átvehető a hulladék.
+
+*2.3.–2. táblázat*
+
+*Átvételi határkoncentrációk közvetlenül a hulladékból elvégzett vizsgálatokhoz C kategóriájú hulladéklerakón*
+
+| Jellemző | Határkoncentráció |
+|---|---|
+| LOI (izzítási veszteség)* | 10% |
+| TOC (szerves kötésben lévő szén összes mennyisége)** | 6% |
+| ANC/BNC (sav-, illetve lúg-semlegesítési kapacitás) | Lásd a *** alatti értelmezést |
+
+\* A TOC helyett első közelítésben a mért LOI érték is használható, figyelembe véve, hogy azzal nem egyenértékű. Ha a LOI értéke nem éri el a 6 tömeg%-ot, akkor a TOC-t nem szükséges meghatározni.
+
+** Ha a mért TOC érték meghaladja a 6 tömeg%-ot (pl. talajhulladékok esetében), akkor a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 1000 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+
+*** Minthogy több szervetlen összetevő pH>6 tartományban is kioldódik, ezért el kell végezni az ANC/BNC vizsgálatokat, a pH 4–pH 12 tartományban, nyolc különböző pH-n. A kioldott anyagmennyiségeket a pH 4 és pH 12 értéken kell meghatározni. Átvehető a hulladék akkor, ha a pH 4 és pH 12 értékeken mért kioldási koncentrációk sem lépik túl a 2.3.–1. táblázatban, L/S=10 l/kg arányra vonatkozó határértékeket.
+
+Ha a lerakásra szánt veszélyes hulladék vizsgálatai alapján nem tesz eleget a megadott kioldási határértékeknek, akkor a hulladékot további előkezelésnek kell alávetni annak érdekében, hogy eleget tegyen a kioldási követelményeknek.
+
+Ha az előkezelés során monolit formájú hulladékot állítanak elő, akkor ennek a C kategóriájú hulladéklerakóban történő lerakhatóságát a monolit hulladékok vizsgálatára vonatkozó nemzeti szabvány kihirdetéséig a következőképpen kell megítélni: a monolit hulladékot granulálni szükséges, és a kioldódási vizsgálatokat L/S = 10 l/kg arány mellett kell elvégezni annak tudatában, hogy ez a modellvizsgálat nem ad kielégítő információt a monolitok kioldhatóságában meghatározó szerepet játszó diffúziós kioldási mechanizmusról.
+
+*2.4.  Eltérések az átvételi követelményektől*
+
+Bizonyos esetekben a 2.1.–2.3. pontokban megadott összetevők/jellemzők megadott határkoncentrációinak akár a háromszoros értéke is elfogadható a hulladék átvételekor (a 2.1.–2., 2.1.–3., 2.2.1.–1. és 2.3.–1. táblázatokban szereplő DOC, a 2.1.–3. táblázatban szereplő BTEX, PCB és ásványolaj, a 2.2.1.–2. táblázatban szereplő TOC és pH, és a 2.3.–2. táblázatban említett LOI és/vagy TOC, valamint a 2.1.–3. táblázatban szereplő TOC esetén kivételesen a határkoncentráció legfeljebb kétszeres értéke elfogadható), amennyiben
+
+– a környezetvédelmi hatóság eseti alapon, kérelemre, azt engedélyezi egyes hulladékok átvételére a befogadó hulladéklerakó esetében, figyelembe véve a hulladéklerakó műszaki védelmét, környezeti adottságait, továbbá meghatározva az átvehető hulladék mennyiségét és a fogadás időtartamát, valamint
+
+– a hulladéklerakó kibocsátása (beleértve a csurgalékvizet is) a kockázatértékelés alapján nem jelent számottevő környezeti kockázat növekedést.
+
+2.5. A fémhiganyra vonatkozó különös követelmények
+
+A fémhigany egy évnél hosszabb ideig történő ideiglenes tárolására a következő követelmények vonatkoznak:
+
+2.5.1.A higany összetétele
+
+A fémhiganynak a következő kritériumokat kell teljesítenie:
+
+a) higanytartalmának 99,9 tömegszázaléknál nagyobbnak kell lennie,
+
+b) nem tartalmazhat olyan szennyeződést (például salétromsavoldatot, kloridsók oldatait), amely képes korrodálni a szénacélt vagy a korrózióálló acélt.
+
+2.5.2. Zártság
+
+A fémhigany tárolására igénybe vett tartályoknak korrózió- és ütésállóknak kell lenniük, ezért a hegesztést kerülni kell. A tárolóknak különösen a következő kritériumokat kell teljesíteniük:
+
+a) A tartály anyagának szénacélnak (legalább ASTM A36) vagy korrózióálló acélnak (AISI 304, 316L) kell lennie.
+
+b) A tartálynak gáz- és folyadékzárónak kell lennie.
+
+c) A tartály külső felületének ellenállónak kell lennie a külső hatásokkal szemben.
+
+d) A tartály gyártmánytípusának sikeresen teljesítenie kell a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló 38/2009. (VIII. 7.) KHEM rendelet 1. melléklet „A” melléklet 1. rész 6.1 fejezetének 6.1.5.3. és 6.1.5.4. pontja szerinti ejtési vizsgálatot és szivárgásmentességi vizsgálatokat.
+
+Annak érdekében, hogy a tárolt folyadék felett elegendő üres tér álljon rendelkezésre, és a folyadék magas hőmérsékleteken tanúsított hőtágulása következtében ne következhessen be szivárgás vagy a tartályok maradó alakváltozása, a tartályok legfeljebb 80 térfogatszázalékig tölthetők fel.
+
+2.5.3. Átvételi eljárások
+
+(Tartálytanúsítványi követelmények)
+
+Az átvételi eljárásoknak a következő kritériumokat kell teljesíteniük:
+
+a) Csak a fentiekben meghatározott átvételi minimumfeltételeket kielégítő fémhigany vehető át.
+
+b) A tartályokat a betárolás előtt szemrevételezéssel ellenőrizni kell. Nem vehető át az a tartály, amely sérült, szivárog vagy korrodált.
+
+c) A tartályoknak olyan, lyukasztással kialakított tartós bélyegzőt kell viselniük, amely tartalmazza a tartály azonosító számát, anyagának megnevezését, üres tömegét, gyártójának hivatkozási jelét, valamint a tartály gyártási napját.
+
+d) A tartályoknak olyan, a tartályhoz elválaszthatatlanul rögzített táblát kell viselniük, amely tartalmazza a tanúsítvány azonosító számát.
+
+2.5.4. Tanúsítvány
+
+A 2.5.3. pontban említett tanúsítványnak tartalmaznia kell:
+
+a) a hulladéktermelő nevét és címét,
+
+b) a feltöltésért felelős személy nevét és címét,
+
+c) a feltöltés helyét és napját,
+
+d) a higany mennyiségét,
+
+e) a higany tisztaságát, valamint – ha vannak – a szennyeződések leírását, ideértve az analitikai jegyzőkönyvet is,
+
+f) annak megerősítését, hogy a tartályokat kizárólag higany szállítására/tárolására használták,
+
+g) a tartályok azonosító számát,
+
+h) az esetleges észrevételeket.
+
+## 3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^75]
+
+**Monitoringrendszer a hulladéklerakó üzemeltetési és az utógondozási időszakában**
+
+| Jellemző | Működési fázis idején | Utógondozási fázis idején |
+|---|---|---|
+| 1. Csapadék mennyisége | naponta | naponta, havi értékekhez hozzáadva |
+| 2. Hőmérséklet, 14.00<sup>h</sup> | naponta | havi átlag |
+| 3. Uralkodó szélirány és szélerő | naponta | nincs előírva |
+| 4. Párolgás (liziméter) | naponta | naponta, havi értékekhez hozzáadva |
+| 5. Légköri páratartalom 14.00<sup>h</sup> | naponta | havi átlag |
+
+2\. *A csapadékvíz, a csurgalékvíz, a felszíni víz és a hulladéklerakó-gáz ellenőrzése*
+
+A vizsgálandó paramétereket a lerakott hulladék összetétele és a hulladéklerakó helyének hidrogeológiai tulajdonságai alapján a környezetvédelmi hatóság határozatban állapítja meg. A mintavétel és a vizsgálatok gyakoriságát a 2.–1. táblázat mutatja.
+
+2.1. A csapadékvíz összetételének meghatározása akkor szükséges, ha azt befogadóba elvezetik, illetve tengelyen elszállítják. Amennyiben szükséges a csapadékvíz összetételének ismerete, a vizsgálatokhoz a mintát az elvezetési ponton, illetve a tározóból kell venni.
+
+2.2. A csurgalékvízből a jellemző elvezetési pontokon mintát kell venni. Mintavételi pontonként külön kell megvizsgálni a csurgalékvíz mennyiségét és összetételét. Nem kell vizsgálatot végezni, ha a csurgalékvíz gyűjtésére nem kerül sor (pl. inert hulladéklerakón).
+
+2.3. Ha a hulladéklerakó közelében olyan időszakos vagy állandó vízfolyás van, amelynek vízminőségét a környezetvédelmi felülvizsgálat alapján a hulladéklerakó veszélyeztetheti, a környezetvédelmi hatóság előírja a felszíni víz ellenőrzését. Ebben az esetben a mintavételt és a vizsgálatokat legalább két ponton kell elvégezni, mégpedig a hulladéklerakó fölött a folyásiránnyal szemben, illetve alatta a folyásirányban.
+
+2.4. A hulladéklerakó-gáz elvezetési rendszer hatékony működését rendszeresen ellenőrizni kell. A hulladéklerakó-gáz vizsgálatát úgy kell végrehajtani, hogy reprezentálja a hulladéktestben keletkező gázkeverék mennyiségét és összetételét. Az utógondozási időszakban a vizsgálat alapulhat mérésen vagy a lerakott hulladék mennyiségén és összetételén alapuló számításon. A vizsgálat célja elsődlegesen a hulladékban lévő szerves anyag lebomlási folyamatának ellenőrzése. A CH<sub>4</sub>-, a CO<sub>2</sub>- és az O<sub>2</sub>-emissziót a hulladéklerakó üzemeltetőjének a környezetvédelmi hatóság által előírt rendszerességgel meg kell határoznia, a többi gáz esetében az emisszióvizsgálat szükségességét, gyakoriságát a lerakott hulladék összetétele függvényében kell megállapítani.
+
+<table><tbody><tr><td rowspan="2">A vizsgálat (mintavétel) célja</td><td colspan="2">A vizsgálat (mintavétel) gyakorisága</td></tr><tr><td>a működési<br>időszakban</td><td>az utógondozási időszakban</td></tr><tr><td>A csurgalékvíz mennyiségének megállapítása</td><td>havonta<sup>1, 2</sup></td><td>félévenként</td></tr><tr><td>A csurgalékvíz összetételének meghatározása</td><td>negyedévenként<sup>2</sup></td><td>félévenként</td></tr><tr><td>Felszíni víz terhelése</td><td>negyedévenként<sup>2</sup></td><td>félévenként</td></tr><tr><td>Hulladéklerakó-gáz emisszió és légköri nyomás meghatározása (CH<sub>4</sub>, CO<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>S, H<sub>2</sub> stb.)</td><td>havonta<sup>2</sup></td><td>félévenként</td></tr></tbody></table>
+
+3\. *A felszín alatti víz ellenőrzése*
+
+A felszín alatti víz védelme érdekében ellenőrizni kell, hogy a hulladéklerakás veszélyezteti-e a környezetében lévő felszín alatti vizet. Ennek érdekében a felszín alatti vízáramlás szempontjából a hulladéklerakó feletti területen legalább egy, a hulladéklerakó alatti területen legalább két monitoring kutat (mérési pontot) kell kialakítani a hulladéklerakó hatásterületén belül. Referenciaértékeknek a felső monitoring kútból vett vízminta vizsgálata során mért értékeket kell tekinteni. A hulladéklerakóból származó szennyezettség jellemzésére az alsó monitoring kutakból vett vízminták vizsgálata során mért értékeket a referenciaértékekhez kell viszonyítani.
+
+A monitoring kutak helyét és számát – a tervezőnek a hulladéklerakó hatásterületére készített hidrogeológiai szakvéleményen alapuló javaslata figyelembevételével – a környezetvédelmi hatóság határozatban állapítja meg.
+
+3.1. Mintavétel
+
+A hulladéklerakó üzembe helyezése előtt legalább három helyen mintát kell venni a talajból és a felszín alatti vízből annak érdekében, hogy a későbbi mintavételekhez referenciaértékek álljanak rendelkezésre.
+
+<table><tbody><tr><td rowspan="2">A mintavétel célja</td><td colspan="2">A mintavétel gyakorisága</td></tr><tr><td>a működési időszakban</td><td>az utógondozási<br>időszakban</td></tr><tr><td>A felszín alatti vízszint megállapítása</td><td>félévenként<sup>1</sup></td><td>félévenként<sup>1</sup></td></tr><tr><td>A felszín alatti víz összetételének meghatározása</td><td>a hulladéklerakó helyétől függően változó gyakorisággal<sup>2, 3</sup></td><td>a hulladéklerakó helyétől függően változó gyakorisággal<sup>2, 3</sup></td></tr></tbody></table>
+
+3.3. Beavatkozási szintek
+
+Ha a szennyező anyag koncentrációja eléri a külön jogszabályokban meghatározott (B) szennyezettségi határértéket, akkor a külön jogszabály szerint kell eljárni.
+
+Ha a referenciapontból vett mintákban a szennyező anyagok koncentrációja nagyobb, mint a (B) szennyezettségi határérték, akkor a külön jogszabály szerinti (Ab) bizonyított háttérkoncentráció figyelembevételével kell a szükséges intézkedéseket megtenni.
+
+<table><tbody><tr><td rowspan="2">Az ellenőrzés célja</td><td colspan="2">Az ellenőrzés gyakorisága</td></tr><tr><td>a működési<br>időszakban</td><td>az utógondozási időszakban</td></tr><tr><td>A hulladéktest mechanikai szerkezetének és összetételének megváltozása<sup>1</sup></td><td>évente</td><td>–</td></tr><tr><td>A hulladéktest szintjének süllyedése</td><td>évente</td><td>éves leolvasás</td></tr></tbody></table>
+
+5\. *A lerakott települési hulladék biológiailag lebomló szervesanyag-mennyiségének ellenőrzése*
+
+A lerakott települési hulladék biológiailag lebomló szervesanyag-mennyiségének ellenőrzése érdekében a hulladéklerakó üzemeltetőjének negyedévenként meg kell határoznia a nemzeti szabványban szereplő 13 hulladékösszetételi kategória nedves tömegarányát.
+
+Részletes összetétel-vizsgálatokat a települési szilárd hulladék 13 kategóriájának összetételére évente egy alkalommal, mindig az őszi időszakban szükséges végezni. A konkrét vizsgálatokat a nemzeti szabványban leírt alkategóriák szerinti bontásban kell elvégezni.
+
+6\. *Az utógondozás időszakában szükséges egyéb ellenőrzések*
+
+A hulladéklerakó berendezéseinek, építményeinek és infrastruktúrájának fenntartása, illetve karbantartása során szükséges tevékenységek:
+
+a) a hulladéklerakó megközelítését szolgáló közlekedési utak, üzemi utak állapotának hetenként egy alkalommal történő ellenőrzése és karbantartása évente legalább egyszer;
+
+b) az illetéktelenek behatolásának megakadályozását szolgáló létesítmények (pl. kerítés) folyamatos ellenőrzése és szükség szerinti karbantartása;
+
+c) a növényzet karbantartása (fűnyírás, kaszálás) szükség szerint, de évente legalább kétszer;
+
+d) a vízelvezető és -kezelő rendszerek (csapadékvíz, csurgalékvíz) hetenként egy alkalommal történő ellenőrzése és karbantartása, tisztítása, iszapmentesítése szükség szerint, de évente legalább egyszer;
+
+e) a hulladéklerakó-gáz gyűjtőrendszer hetenként egy alkalommal történő ellenőrzése és karbantartása szükség szerint, de évente legalább egyszer.
+
+7\. *A fémhiganyra vonatkozó különös követelmények*
+
+A fémhigany egy évnél hosszabb ideig történő ideiglenes tárolására a következő követelmények vonatkoznak:
+
+7.1. Megfigyelési, ellenőrzési és veszélyhelyzeti követelmények
+
+a) A tárolóhelyen folyamatos üzemű, legalább 0,02 mg higany/m<sup>3</sup> érzékenységű higanygőzfigyelő rendszert kell felszerelni. Az érzékelőket talajszinten és fejmagasságban kell elhelyezni. A rendszernek látható és hallható riasztást kell adnia. A rendszert évente karbantartásnak kell alávetni.
+
+b) A tárolóhelyet és a tartályokat arra feljogosított személynek legalább havonta egyszer szemrevételezéssel ellenőriznie kell. Szivárgás észlelése esetén az üzemeltető köteles haladéktalanul megtenni a környezeti higanykibocsátás megelőzéséhez és a higanytárolás biztonságosságának helyreállításához szükséges valamennyi intézkedést, továbbá köteles haladéktalanul értesíteni a környezetvédelmi hatóságot.
+
+c) A telephelynek rendelkeznie kell veszélyhelyzeti tervvel, valamint a fémhigannyal kapcsolatos műveletek elvégzéséhez igénybe vehető, e célra alkalmas megfelelő védőfelszereléssel.
+
+7.2. Nyilvántartás
+
+A 2. számú melléklet 2.5. pontjában és a 7.1. pontban említett információkat tartalmazó valamennyi dokumentumot, beleértve a tartályt kísérő tanúsítványt, valamint a fémhigany ideiglenes tárolás utáni kitárolásáról, átadásáról, rendeltetési helyéről és tervezett kezeléséről készített feljegyzéseket is, a tárolás befejezését követően legalább három évig meg kell őrizni.
+
+## 4. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^76]
+
+**A hulladéklerakó rekultivációjával, utógondozásával kapcsolatos követelmények**
+
+*1. A hulladéklerakó rekultivációjával és utógondozásával kapcsolatos követelmények*
+
+A rekultiváció és utógondozás a következő főbb részfolyamatokból tevődik össze:
+
+*a)* a rekultivációra és utógondozásra vonatkozó tervdokumentáció elkészítése és engedélyeztetése,
+
+*b)* a hulladéklerakó felső záróréteg rendszerének átmeneti és/vagy végleges kialakítása,
+
+*c)* a hulladéklerakó-gáz gyűjtési és kezelési rendszerének kialakítása és működtetése,
+
+*d)* a csurgalékvíz és csapadékvíz kezelési rendszerének kialakítása és működtetése,
+
+*e)* az utógondozási időszakban szükséges monitoringrendszer kialakítása és működtetése,
+
+*f)* a hulladéktest formálása, felszíni rétegeinek tömörítése, rézsűk kialakítása, tájba illesztés, a terület további használatának figyelembevételével,
+
+*g)* a további felhasználásra nem tervezett berendezések és építmények elbontása, az általuk elfoglalt terület tájba illesztése,
+
+*h)* a fenntartási és állagmegóvási munkák elvégzése az utógondozás teljes időszakában,
+
+*i)* az utógondozás befejezése,
+
+*j)* a jelentéskészítési kötelezettség teljesítése.
+
+A fentieket értelemszerűen kell alkalmazni a lerakott hulladék összetételétől, a hulladéklerakó meglévő műszaki létesítményeinek kiépítettségétől, továbbá attól függően, hogy a rekultiváció és az utógondozás a hulladéklerakó egészére vagy annak egy részére vonatkozik.
+
+A felső záróréteg rendszer kialakítása értelemszerűen tartalmazza a hulladéklerakó oldalirányú záróréteg rendszerét is, ahol az szükséges.
+
+1.1. A rekultivációra és utógondozásra vonatkozó tervdokumentációnak tartalmaznia kell:
+
+*a)* a hulladéklerakó környezeti elemekre, különösen a közvetlen környezetében lévő felszíni és felszín alatti vízre, valamint földtani közegre gyakorolt hatásának, továbbá a környezetszennyezettség kockázatának a bemutatását,
+
+*b)* a hulladéklerakó rekultivációjának ütemezését (átmeneti és/vagy végleges),
+
+*c)* a felső záróréteg rendszer szerkezetét, kialakításának módját [az esési irányokat szintvonalas helyszínrajzon és keresztszelvényeken kell bemutatni],
+
+*d)* az utógondozási időszakban szükséges monitoringrendszer kialakításának, üzemeltetésének és karbantartásának leírását,
+
+*e)* a hulladéklerakó-gáz kezelésének leírását,
+
+*f)* a csurgalékvíz, csapadékvíz kezelésének leírását,
+
+*g)* a hulladéktest formálását, felszíni rétegeinek tömörítését, a rézsűk kialakítását, a tájba illesztés leírását,
+
+*h)* a további felhasználásra nem tervezett berendezések és építmények elbontásával, valamint az általuk elfoglalt terület tájba illesztésével kapcsolatos tervet,
+
+*i)* a fenntartási és állagmegóvási munkák végzésének tartalmát, módját és ütemezését,
+
+*j)* az utógondozás befejezésének módját és időpontját,
+
+*k)* az adatszolgáltatás adattartalmát és módját.
+
+1.2. A felső záróréteg rendszer kialakításával kapcsolatos követelmények
+
+A felső záróréteg rendszer kiépítésének tervezésekor figyelembe kell venni:
+
+*a)* a lerakott hulladék tulajdonságait, különösen a biológiailag lebomló hulladék mennyiségét,
+
+*b)* a hulladéklerakó üzemeltetésének feltételeit (pl. az alkalmazott tömörítés mértékét),
+
+*c)* a hulladéklerakó geometriai jellemzőit (dombépítés, rézsűk mértéke, a hulladéktest magassága stb.),
+
+*d)* a telephely közelében található, a záróréteg rendszer kialakításához felhasználható természetes anyagok beszerzési lehetőségét (talaj, kavics, agyag),
+
+*e)* a záróréteg rendszer kiépítésének költségeit.
+
+1.2.1.[^77] Az átmeneti felső záróréteg rendszer felépítése és funkciója
+
+Az átmeneti felső záróréteg rendszer legfontosabb feladata az, hogy a végleges felső záróréteg rendszer kiépítése érdekében tegye lehetővé elegendő vízmennyiségnek a hulladéktestbe való bejutását, ezáltal biztosítva a lerakott hulladékban lévő szerves összetevők biológiai lebomlását és a hulladéktest stabilizálódását. A rétegrend kialakítását egyedileg a tervező határozza meg és a környezetvédelmi hatóság hagyja jóvá az engedélyben. Alkalmazása azért is indokolt, mert a biohulladék lebomlása következtében a hulladéktestben roskadás, a felszínén jelentős süllyedések várhatóak, ami a végleges felső záróréteg rendszer egyenlőtlen süllyedéséhez, repedezéséhez vezetne, és ez a szigetelő funkció megszűnését okozná.
+
+Az átmeneti felső záróréteg rendszer részei:
+
+*a)* kiegyenlítő réteg (0–50 cm)
+
+Funkciója: a hulladéktest felszínének felső és oldalirányú kiegyenlítése, módosítása, valamint a hulladéktest alkalmassá tétele a következő rétegek elhelyezésére.
+
+Anyaga: aprószemcsés hulladék, külön jogszabályban meghatározott maradék hulladék vagy stabilizált biohulladék, salak, pernye, kőmentes talaj.
+
+*b)* gázelvezető réteg (amennyiben a rekultivációs terv szerint szükséges)
+
+Funkciója: a hulladék egyes összetevőinek biológiai bomlása során keletkező hulladéklerakó-gáz gyűjtőrendszerbe történő elvezetése.
+
+Anyaga: kis mésztartalmú, egyenletes szemcseeloszlású, jó gázvezető-képességű anyag, amely az adott esésviszonyok mellett kellő állékonyságú.
+
+*c)* szigetelőréteg (amennyiben a rekultivációs terv szerint szükséges)
+
+Funkciója: a csapadék túlzott mértékű bejutásának akadályozása. Túlzott mértéknek minősül, ha a hulladéktestbe több víz jut be, mint amennyi a biológiai lebontó folyamatok lejátszódásához szükséges nedvességet biztosítja, emiatt a csurgalékvíz mennyisége növekszik felesleges mértékben. Kialakítása és anyaga függ a lerakott hulladék összetételétől, állapotától (pl. a biológiai lebomlás mértékétől, víztelítettségtől és a klimatikus adottságoktól).
+
+Anyaga: ásványi anyagú szigetelés és/vagy geomembrán
+
+*d)* fedőréteg (legalább 40 cm)
+
+Funkciója: a szigetelőréteg védelme, illetőleg a növényzet megtelepedését (telepítését) lehetővé tevő feltételek biztosítása.
+
+Anyaga: stabilizált biohulladék és/vagy humuszos talaj, ami lehet szervesanyaggal kevert föld, a rézsűkön geotextíliával megerősítve.
+
+1.2.2. A végleges felső záróréteg rendszer felépítése és funkciója
+
+A végleges felső záróréteg rendszer legfőbb rendeltetése a csapadékvíz hulladéktestbe való bejutásának megakadályozása, a csurgalékvíz képződésének (és kezelésének), továbbá a környezetbe való potenciális kijutásának megelőzése. Azon hulladéklerakók esetében, amelyeknél átmeneti felső záróréteg rendszer kialakítására sor került, a végleges felső záróréteg rendszert az átmeneti felső záróréteg rendszer felhasználásával kell elkészíteni. A végleges záróréteg rendszer kialakítását megelőzően a hulladéklerakó felületén spontán módon kialakult fás szárú (bokrok, fák) vegetációt el kell távolítani, amennyiben az zavarja a végleges záróréteg rendszer kialakítását.
+
+A végleges felső záróréteg rendszer részei:
+
+*a)* kiegyenlítő réteg (0–50 cm)
+
+Funkciója: a hulladéktest felső és oldalirányú kiegyenlítése, módosítása, beleértve az átmeneti felső záróréteg rendszerrel történt lezárás során kialakult süllyedések megszüntetését is, valamint a hulladéktest alkalmassá tétele a következő rétegek elhelyezésére.
+
+Anyaga: kis mésztartalmú, homogén, nem kötött talaj, kohósalak vagy hulladékégető salakja, B3 alkategóriájú lerakó esetén jó gázvezető képességű talaj, kohósalak, hulladékégető salakja, aprószemcsés hulladék, külön jogszabályban meghatározott maradék hulladék vagy stabilizált biohulladék.
+
+*b)* gázelvezető réteg (ha szükséges)
+
+Funkciója: a hulladék egyes összetevőinek biológiai bomlása során keletkező hulladéklerakó-gáz gyűjtőrendszerbe történő elvezetése.
+
+Anyaga: kis mésztartalmú, egyenletes szemcseeloszlású, jó gázvezető-képességű anyag, amely az adott esésviszonyok mellett kellő állékonyságú.
+
+*c)* szigetelőréteg (A kategóriájú lerakónál nem kell)
+
+Funkciója: a víz hulladéktestbe való bejutásának megakadályozása (hidraulikus gát).
+
+A réteg többféle (ásványi és mesterséges anyagú) anyag egymás fölé rétegezésével készíthető. Az ásványi vagy természetes anyagú szigetelőrétegnél alkalmazott megoldásnak egyenértékűnek kell lennie az előírt 2 x 25 cm vastagságú, adott szivárgási tényezőjű (B1b és B3 kategóriájú lerakóknál k ≤ 5 x 10<sup>–9</sup> m/s, C kategóriájú lerakóknál pedig k ≤ 10<sup>–9</sup> m/s) megoldással. Az egyenértékűség feltétele a hidraulikai egyenértékűség. A C kategóriájú lerakónál az ásványi anyagú szigetelőrétegen túl szigetelő lemez beépítése is szükséges.
+
+*d)* szivárgó- és szűrőréteg
+
+Funkciója: a fedőrétegen esetleg átszivárgó víz szigetelőréteg fölötti tartózkodási idejének csökkentése, illetve a zárórétegből való mielőbbi hatékony elvezetése.
+
+Anyaga: mosott kavics, a rézsűkön osztályozatlan homokos kavics vagy kőzúzalék, k ≥ 5 x 10<sup>–3</sup> m/s szivárgási tényezőjű aprított hulladék, amelyből vízzel nem oldódik ki kockázatos anyag (pl. sredderezett gumihulladék, aprított inert hulladék), geodrén, geokompozit, illetőleg geotextília, amely csak a szűrőréteg anyaga lehet.
+
+*e)* fedőréteg
+
+Funkciója: a csurgalékvíz minimalizálása, az alatta lévő rétegek védelme, a növényzet telepítéséhez szükséges, megfelelő környezet biztosítása.
+
+A réteg többféle anyag egymás fölé rétegezésével készíthető. A szivárgó- és szűrőréteggel érintkező (20–30 cm vastagságú) gyökérzáró réteg erősen kötött vagy erősen kőtörmelékes tömör anyag, célszerűen osztályozott építési-bontási hulladék. Ezt követi az (50–70 cm vastagságú) altalaj réteg, amely készülhet kis humusztartalmú talajból vagy stabilizált biohulladékból. A fedőréteg legfelső része a (mintegy 30 cm vastagságú) szervesanyagban gazdag talajréteg, amely a növények táplálását szolgálja. A természetes anyagú szigetelőréteg felett a szivárgó-szűrő réteg és a fedőréteg összvastagsága legalább 1,0 m legyen.
+
+*f)* vegetációs réteg
+
+Funkciója: a víz alsóbb rétegekbe való bejutásának akadályozása, illetőleg az erózióval szembeni védelem.
+
+Anyaga: nem mélygyökérzetű, kis tápanyagigényű, szárazság- és forróságtűrő növények, amelyek megfelelnek az ökológiai környezetnek is.
+
+1.3.[^78] A hulladéklerakó-gáz gyűjtési és kezelési rendszerének kialakításával és működtetésével kapcsolatos követelmények (1. számú melléklet 5. pont)
+
+Aktív hulladéklerakó-gáz gyűjtő rendszert B3 alkategóriájú hulladéklerakón kell kiépíteni. A hulladéklerakó-gázt a hulladéklerakó engedélyében meghatározott módon kell hasznosítani, egyéb esetben elfáklyázással kell ártalmatlanítani. A környezetvédelmi hatóság jogosult a gázkezelő rendszer utólagos kiépítésének követelményétől eltekinteni, amennyiben a tervező a rekultivációs tervben számításokkal igazolja, hogy a lerakott hulladék szervesanyag tartalmának bomlásából keletkező gáz várható mennyisége és minősége a hasznosítást gazdaságilag nem alapozza meg, illetve az ártalmatlanítás (fáklyázás) környezeti haszon szempontjából nem célszerű.
+
+Hulladéklerakó-gáz gyűjtő rendszert nem kell kiépíteni A kategóriájú hulladéklerakó esetében, egyéb hulladéklerakónál a tervező javaslatának figyelembevételével a környezetvédelmi hatóság dönt a hulladéklerakó-gáz gyűjtő-kezelő rendszer kialakításának szükségességéről.
+
+1.4. A csurgalékvíz és csapadékvíz kezelési rendszerének kialakításával és működtetésével kapcsolatos követelmények
+
+E követelmények megegyeznek az 1. számú melléklet 4. pontjában foglaltakkal azzal az eltéréssel, hogy a csurgalékvíz kezelő rendszert azon hulladéklerakón kell működtetni, ahol az alsó szigetelőrendszer részeként kiépítésre került a gyűjtő-drénrendszer. Utólagosan kiépítendő csurgalékvíz kezelő rendszer a rekultivációs terv alapján előírható, amennyiben a hulladéklerakó szigetelési technológiája azt lehetővé teszi.
+
+1.5. Az utógondozási időszakban szükséges monitoringrendszer kialakításával és működtetésével kapcsolatos követelmények
+
+A hulladéklerakón már meglévő és az utógondozási időszakban is szükséges monitoringrendszer elemeinek, valamint a hiányzó és az új elemeknek a kiépítésével és működtetésével biztosítani kell
+
+*a)* a végleges felső záróréteg rendszer folyamatos ellenőrzését;
+
+*b)* a technológiai létesítmények (pl. medencék, műtárgyak) műszaki állapotának rendszeres ellenőrzését;
+
+*c)* a felszín alatti víz (megfigyelőkutakban történő) rendszeres ellenőrzését;
+
+*d)* a hulladéklerakó-gáz gyűjtési és kezelési berendezései működésének, valamint a légszennyező anyagok emissziójának a gázgyűjtő rendszer kimeneti pontján történő rendszeres ellenőrzését;
+
+*e)* a csurgalékvíz-kezelés berendezései működésének rendszeres ellenőrzését (vízszintellenőrzés, összetétel-vizsgálat);
+
+*f)* a hulladéktest mozgásának időszakos ellenőrzését.
+
+A fentieket értelemszerűen kell alkalmazni a lerakott hulladék összetételétől, a hulladéklerakó meglévő műszaki létesítményeinek kiépítettségétől függően. Az ellenőrzések elvégzésének módját és gyakoriságát a 3. számú melléklet tartalmazza.
+
+1.6. A tájba illesztéssel kapcsolatos követelmények
+
+A hulladéktest formázását a tájba illesztés követelményeinek figyelembevételével kell elvégezni. Gondoskodni kell arról, hogy a hulladéktest tömegalakításával, a vegetációs réteg biztosításával olyan tájképi megjelenése legyen a hulladéklerakó létesítménynek, amely egyidejűleg szolgálja a terület tervezett használatát és az adott táj elemeitől nem idegen megjelenést.
+
+1.7. A további felhasználásra nem tervezett létesítmények, berendezések és eszközök elbontásával kapcsolatos követelmények
+
+A hulladéklerakó meglévő, de a rekultivációs és utógondozási tevékenységekhez nem szükséges infrastruktúráját (építményeket, berendezéseket és eszközöket) fel lehet számolni. Az így felszabaduló területet is be kell vonni a rekultiváció és utógondozás célterületébe.
+
+1.8.[^79] A fenntartási és állagmegóvási munkák végzésével, valamint az utógondozás befejezésével kapcsolatos követelmények
+
+A rekultivációs és utógondozási időszakban biztosítani kell a szükséges infrastruktúra (létesítmények, berendezések és eszközök) működőképességét, használatát, a bezárt hulladéklerakóra történő szabad bejutás megakadályozását, a terület rendjét és tisztaságát. A hulladéklerakó területén gondoskodni kell a tervnek megfelelő növényborítottságról, annak szükség szerinti pótlásáról, locsolásáról, kaszálásáról stb.
+
+Az utógondozási időszak elteltével az ahhoz szükséges infrastruktúrát – a környezetvédelmi hatóság engedélyével – fel lehet számolni.
+
+*2. Eltérések a rekultivációra előírt követelményektől*
+
+2.1.[^80] A B3 alkategóriájú hulladéklerakók esetében, amennyiben a hulladéklerakóban 10 000 m<sup>3</sup>-nél kevesebb a lerakott hulladék mennyisége, a rekultivációt a végleges záróréteg rendszer kialakításával, 1 ütemben is el lehet végezni. A környezetvédelmi hatóság ebben az esetben az összes körülmény figyelembevételével (különösen környezetszennyezés vagy jelentős környezetvédelmi kockázat hiányában) mérlegelheti a rekultivációra vonatkozó 1.2–1.8. pontokban foglalt követelmények mérséklését vagy elengedését. A 2001. előtt létesült hulladéklerakóknál ugyancsak mérlegelhető az 1.2–1.8. pontok szerinti előírások mérséklése vagy elengedése, amennyiben az átmeneti lezárás (legfeljebb 10 év) letelte után az összegyűlt monitoring adatok ezt megalapozzák.
+
+2.2. Amennyiben a rekultiváció a hulladék teljes felszedésével és helyben vagy más helyen történő kezelésével mint műszaki beavatkozással valósul meg, a rekultivációs tervnek az 1.1. pontban foglalt követelményektől eltérően az alábbiakat kell tartalmaznia:
+
+*a)* a beavatkozás ütemezése (hulladék felszedése, szállítás, építmények bontása, tereprendezés, vegetációs réteg telepítésének lépései),
+
+*b)* a monitoringrendszer kialakításának, üzemeltetésének és karbantartásának leírása, amennyiben indokolt a lerakó okozta szennyezés nyomon követése,
+
+*c)* a tereprendezéssel és tájbaillesztéssel kapcsolatos terv,
+
+*d)* a felszedett hulladék helyben, illetve más helyen történő kezelésének bemutatása, a fogadó kezelőlétesítmények engedélyeinek csatolásával,
+
+*e)* a rekultivált terület új hasznosítási céljának leírása,
+
+*f)* költségszámítás, különösen a beavatkozás környezeti előnyeinek bemutatására vonatkozóan.
+
+## 5. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^81]
+
+---
+
+[^1]: A bevezető rész a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^2]: [Az 1. § (1) bekezdés a) pontjának a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés a) pontjával elrendelt módosítása, amely szerint az „a Hgt. hatálya alá tartozó” szövegrész helyébe az „a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) hatálya alá tartozó” szöveg lép, nem vezethető át.]
+[^3]: Az 1. § (1) bekezdés b) pontja a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet.
+[^5]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
+[^6]: Az 1. § (2) bekezdés d) pontja a 40/2013. (V. 24.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § a 37/2017. (VII. 6.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: Az „A körforgásos gazdaság követelményei” alcímet (2/A. §) a 16/2021. (IV. 9.) ITM rendelet 1. §-a iktatta be.
+[^9]: A 3. § (1) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet.
+[^11]: A termőföldről szóló 1994. évi LV. törvény.
+[^12]: A természet védelméről szóló 1996. évi LIII. törvény.
+[^13]: A 3. § (3) bekezdésének j) pontja a 92/2007. (XI. 28.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^14]: Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény.
+[^15]: A 3. § (3) bekezdésének m) pontját a 92/2007. (XI. 28.) KvVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^16]: A 3. § (4) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 3. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
+[^19]: A 4. § (3) bekezdés b) pont bc) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^20]: Az 5. § (1) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 4. § (1) bekezdésével megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (1a) bekezdését a 16/2021. (IV. 9.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^22]: Az 5. § (3) bekezdés c) pont nyitó szövegrésze a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^23]: Az 5. § (3) bekezdés d) pontja a 16/2021. (IV. 9.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (3) bekezdésének g) pontját a 92/2007. (XI. 28.) KvVM rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^25]: Az 5. § (3) bekezdés h) pontját a 16/2021. (IV. 9.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^26]: Az 5. § (4) bekezdését a 40/2013. (V. 24.) VM rendelet 4. § (3) bekezdése iktatta be.
+[^27]: A 6. § a 40/2013. (V. 24.) VM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^28]: A 7. § a 92/2007. (XI. 28.) KvVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^29]: A 7. § (2) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^30]: A 7. § (3) bekezdés nyitó szövegrésze a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés e) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^31]: A 7. § (3) bekezdés a) pontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés o) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 7. § (3) bekezdés c) pontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés e) pontja szerint módosított szöveg.
+[^33]: A 7. § (3) bekezdés d) pontja a 37/2017. (VII. 6.) FM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 7. § (3) bekezdés i) pontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^35]: A 7. § (3) bekezdés l) pontja a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^36]: A 8. § a 92/2007. (XI. 28.) KvVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^37]: A 8. § (1) bekezdését a 70/2017. (XII. 29.) FM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^38]: A 8. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 15. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^39]: A vízminőségi kárelhárítással összefüggő üzemi tervek készítésének, karbantartásának és korszerűsítésének szabályairól szóló 21/1999. (VII. 22.) KHVM–KöM együttes rendelet, a tűzvédelmi szabályzat készítéséről szóló 30/1996. (XII. 6.) BM rendelet.
+[^40]: A környezetvédelmi megbízott alkalmazási és képesítési feltételeiről szóló 11/1996. (VII. 4.) KTM rendelet.
+[^41]: A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 164/2003. (X. 18.) Korm. rendelet.
+[^42]: A 10. § (4) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban; a 13. § (6) bekezdése alapján a laboratóriumi vizsgálat tekintetében a perkolációs minta-előkészítés, az ANC/BNC és a TOC vizsgálat akkreditáltságára vonatkozó előírást 2009. július 16-tól kell alkalmazni.
+[^43]: A 11. § (1) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^44]: A 11. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 8. § (1) bekezdésével megállapított, a 37/2017. (VII. 6.) FM rendelet 3. § b) pontja szerint módosított szöveg.
+[^45]: A 11. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^46]: A 11. § (4) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^47]: A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 164/2003. (X. 18.) Korm. rendelet.
+[^48]: A 13. § (1) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^49]: A 13. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 9. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^50]: A 13. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^51]: A 14. § (1) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^52]: A 14. § (2) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^53]: A 14. § (3) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 10. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 14. § (4) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 10. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^55]: A 14. § (5) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 10. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^56]: A 15. §-t megelőző alcím a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg.
+[^57]: A 15. § a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^58]: A 15. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 15. pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^59]: A 15. § (4) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 15. § (5) bekezdését a 70/2017. (XII. 29.) FM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^61]: A 15. § (6) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja, a 70/2017. (XII. 29.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^62]: A 15. § (7) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^63]: A 16–17. §-t a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^64]: A 18. § (1) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (7) bekezdésével megállapított, a 37/2017. (VII. 6.) FM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^65]: A 18. § (2) bekezdése a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés d) pontja, a 37/2017. (VII. 6.) FM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^66]: A 18. § (3) bekezdését a 37/2017. (VII. 6.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^67]: A 19. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 33. pontja hatályon kívül helyezte.
+[^68]: A 19. § (4) bekezdését a 37/2017. (VII. 6.) FM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^69]: A 19. § (5) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^70]: A 19. § (5) bekezdés a) pontja a 16/2021. (IV. 9.) ITM rendelet 4. §-a szerint módosított szöveg.
+[^71]: A 19. § (5) bekezdés c) pontját a 16/2021. (IV. 9.) ITM rendelet 3. §-a iktatta be.
+[^72]: A 19. § (6) bekezdését a 40/2013. (V. 24.) VM rendelet 4. § (8) bekezdése iktatta be.
+[^73]: Az 1. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés a) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja, a 37/2017. (VII. 6.) FM rendelet 3. § c)–f) pontja és 4. §-a szerint módosított szöveg.
+[^75]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés c) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
+[^76]: A 4. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján rendelkezéseit alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^77]: A 4. számú melléklet 1.2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^78]: A 4. számú melléklet 1.3. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A 4. számú melléklet 1.8. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^80]: A 4. számú melléklet 2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^81]: Az 5. számú mellékletet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.

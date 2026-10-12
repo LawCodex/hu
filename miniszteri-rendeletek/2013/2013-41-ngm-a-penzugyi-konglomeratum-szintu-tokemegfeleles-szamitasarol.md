@@ -1,0 +1,141 @@
+---
+title: "41/2013. (IX. 30.) NGM rendelet a pénzügyi konglomerátum szintű tőkemegfelelés számításáról"
+identifier: "41/2013. (IX. 30.) NGM rendelet"
+njt_id: "2013-41-20-2X"
+eli: "https://njt.jog.gov.hu/eli/R/2013/NGM/41"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2013-09-30
+in_force_from: 2013-10-01
+last_amended: 2016-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2013-41-20-2X"
+retrieved: 2026-10-12
+---
+
+# 41/2013. (IX. 30.) NGM rendelet a pénzügyi konglomerátum szintű tőkemegfelelés számításáról
+
+A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény 17. §-ában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § *f)* pontjában meghatározott feladatkörömben eljárva az alábbiakat rendelem el:
+
+## 1. §
+
+E rendelet hatálya a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pktv.) 7. § (2) és (3) bekezdésében meghatározott pénzügyi ágazatbeli vállalkozásokra terjed ki.
+
+## 2. §
+
+A Pktv. 11. § (1) bekezdés *g)* pontja alapján a kiegészítő felügyeletet ellátó Magyar Nemzeti Bank (a továbbiakban: MNB) az érintett felügyeleti hatóságokkal és a pénzügyi konglomerátummal folytatott egyeztetés alapján dönt arról, hogy a pénzügyi konglomerátum tőkemegfelelésének számítása során e rendeletben meghatározott módszerek közül melyik számítási módszert kell alkalmazni. A kiegészítő felügyeletet ellátó MNB-nek a kiegészítő felügyeleti célok eléréséhez a leginkább alkalmas módszert kell választania.
+
+## 3. §
+
+(1)[^1] A pénzügyi konglomerátum szavatoló tőkéjének meghatározása során a pénzügyi konglomerátumhoz tartozó
+
+a) hitelintézet tekintetében a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendelet (a továbbiakban: 575/2013/EU rendelet) szerinti szavatoló tőkét,
+
+b) befektetési vállalkozás tekintetében az 575/2013/EU rendelet szerinti szavatoló tőkét,
+
+c)[^2] biztosító tekintetében a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 99–100. §-a, valamint a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet [a továbbiakban: 43/2015. (III. 12.) Korm. rendelet] 17. § (1) bekezdése szerinti szavatolótőkét,
+
+d) a harmadik országbeli szabályozott vállalkozás tekintetében a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – legkisebb tőkét
+
+kell figyelembe venni.
+
+(2)[^3] A pénzügyi konglomerátum tőkeszükségletének meghatározása során a pénzügyi konglomerátumhoz tartozó
+
+a) hitelintézet tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 79. § (2) bekezdése szerinti tőkekövetelményt,
+
+b) befektetési vállalkozás tekintetében a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 105. § (2) bekezdése szerinti tőkekövetelményt,
+
+c)[^4] biztosító tekintetében a Bit. 100. §-a, valamint a 43/2015. (III. 12.) Korm. rendelet 25. §-a szerinti szavatolótőke-szükségletet,
+
+d) a harmadik országbeli szabályozott vállalkozás tekintetében a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – legkisebb tőkét
+
+kell figyelembe venni.
+
+(3)[^5] A pénzügyi konglomerátum szavatoló tőkéjének meghatározása során a pénzügyi ágazatbeli nem szabályozott vállalkozások esetében
+
+a) a pénzügyi vállalkozás szavatoló tőkéje az 575/2013/EU rendeletben meghatározott tőkeelemek összege,
+
+b) a járulékos vállalkozás szavatoló tőkéje az 575/2013/EU rendeletben meghatározott tőkeelemek összege,
+
+c)[^6] a viszontbiztosító szavatolótőkéje a Bit. 99–100. §-ában, valamint a 43/2015. (III. 12.) Korm. rendelet 17. § (1) bekezdésében meghatározott szavatolótőke,
+
+d)[^7] a biztosítói holding társaság szavatolótőkéje a 43/2015. (III. 12.) Korm. rendelet 17. § (1)–(4) bekezdésében meghatározott tőkeelemek összege,
+
+e) a vegyes pénzügyi holding társaság szavatoló tőkéjének meghatározásakor a pénzügyi konglomerátumban legjelentősebb pénzügyi ágazatbeli szabályozott vállalkozásra vonatkozó szabályokat kell alkalmazni.
+
+(4)[^8] A pénzügyi konglomerátum tőkeszükségletének meghatározása során a pénzügyi ágazatbeli nem szabályozott vállalkozások esetében
+
+a) a pénzügyi vállalkozás tőkeszükséglete a Hpt. 12. § (4) bekezdése vagy a Hpt. 76. § (3) bekezdése szerinti minimális jegyzett tőke,
+
+b) a járulékos vállalkozás tőkeszükséglete az adott jogi személyre, illetve jogi személyiség nélküli gazdasági társaságra előírt legkisebb tőke,
+
+c)[^9] a viszontbiztosító tőkeszükséglete a Bit. 100. §-a, valamint a 43/2015. (III. 12.) Korm. rendelet 25. §-a szerinti szavatolótőke-szükséglet,
+
+d) a biztosítói holding társaság tőkeszükséglete nulla,
+
+e) a vegyes pénzügyi holding társaság tőkeszükségletének meghatározásakor a pénzügyi konglomerátumban legjelentősebb pénzügyi ágazatbeli szabályozott vállalkozásra vonatkozó szabályokat kell alkalmazni.
+
+(5) A harmadik országbeli nem szabályozott vállalkozás szavatoló tőkéje és tőkeszükséglete a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – legkisebb tőke.
+
+## 4. §
+
+(1) A pénzügyi konglomerátum szavatoló tőkéjének meghatározása során a pénzügyi konglomerátumhoz tartozó vállalkozás tőkeszükségletében jelentkező hiányt teljes összegében le kell vonni a pénzügyi konglomerátum szavatoló tőkéjéből. Ha az anyavállalatnak a kötelezettsége egyértelműen a pénzügyi konglomerátumhoz tartozó vállalkozásban lévő részesedésére korlátozódik, akkor a tőkeszükségletben jelentkező hiány – a kiegészítő felügyeletet ellátó MNB engedélyével – részesedésarányosan figyelembe vehető.
+
+(2) A pénzügyi konglomerátum tőkemegfelelési számítása során mindig azon ágazatra vonatkozó szabályok szerinti tőkeelemeket lehet figyelembe venni, amelybe az adott vállalat tartozik. A pénzügyi konglomerátum tőkemegfelelésének számítása során ugyanazon tőkeelemet nem lehet többször figyelembe venni. A pénzügyi konglomerátum szintjén fennálló tőkehiányt kizárólag olyan tőkeelemmel lehet fedezni, amely a banki, befektetési szolgáltatási és biztosítási szolgáltatási ágazat rendelkezései alapján egyaránt tőkeelemnek tekinthető.
+
+## 5. §
+
+(1) A pénzügyi konglomerátum – az MNB 2. §-ban foglalt döntése alapján – a tőkemegfelelése számítását a 6–8. §-ban rögzített módszerek egyikével köteles elvégezni. A pénzügyi konglomerátumhoz tartozó pénzügyi ágazatbeli vállalkozásokat – a 6. §-ban rögzített módszer kivételével – a közvetlen vagy közvetett tulajdoni hányaduk arányában kell figyelembe venni. Ha az így kiszámított kiegészítő tőkemegfelelési érték – azaz a konglomerátum szintjén számított szavatoló tőke és tőkeszükséglet különbözet – nem negatív, a pénzügyi konglomerátum a kiegészítő tőkemegfelelési követelményeknek megfelel.
+
+(2) Tőkekapcsolat nélküli befolyás esetén az összevonás módszere a kiegészítő felügyeletet ellátó MNB által az érintett felügyeleti hatóságokkal egyeztetve állapítható meg.
+
+(3)[^10] A pénzügyi konglomerátum szavatoló tőkéjének számítása során figyelembe kell venni az 575/2013/EU rendelet szerinti, valamint a 43/2015. (III. 12.) Korm. rendelet 19–24. §-ában foglalt – (szavatoló)tőke elemek besorolására, figyelembevételére vonatkozó – határértékeket, előírásokat. A pénzügyi ágazatbeli nem szabályozott vállalkozásokat a határértékek számítása során az ágazata szabályozott vállalkozására vonatkozó szabályok szerint kell figyelembe venni.
+
+## 6. §
+
+(1) A számviteli konszolidáción alapuló módszer az összevont (konszolidált) beszámolókon alapul.
+
+(2) A számviteli konszolidáción alapuló módszer esetében a pénzügyi konglomerátum kiegészítő tőkemegfelelésének számításakor a pénzügyi konglomerátum összevont (konszolidált) alapon számított szavatoló tőkéjéből ki kell vonni a pénzügyi konglomerátumhoz tartozó ágazatok – összevont alapon megállapított – tőkeszükségletének összegét.
+
+## 7. §
+
+(1) A levonás és összeadás módszere egyedi beszámolókon alapul.
+
+(2) A levonás és összeadás módszere esetében a pénzügyi konglomerátum kiegészítő tőkemegfelelésének számításakor a pénzügyi konglomerátum vállalkozásai szavatoló tőkéjének összegéből ki kell vonni a pénzügyi konglomerátum vállalkozásai tőkeszükséglete értékének és a pénzügyi konglomerátumhoz tartozó vállalkozások közötti részesedések könyv szerinti értékének az összegét.
+
+(3) A jegyzett tőke olyan arányban vehető figyelembe, amilyen arányban az anyavállalat vagy a vállalat a csoport valamely más vállalkozásában közvetve vagy közvetlenül részesedéssel rendelkezik.
+
+## 8. §
+
+A kombinált módszer esetében a pénzügyi konglomerátum kiegészítő tőkemegfelelésének számításakor – a kiegészítő felügyeletet ellátó MNB engedélyével – a 6. §-ban és 7. §-ban foglalt módszerek kombinációja alkalmazható.
+
+## 9. §
+
+(1) Ez a rendelet 2013. október 1-jén lép hatályba.
+
+(2)[^11]
+
+## 10. §
+
+Ez a rendelet
+
+a) a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/49/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról szóló 2002. december 16-i 2002/87/EK európai parlamenti és tanácsi irányelvnek,
+
+b) a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról szóló 2011. november 16-i 2011/89/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+---
+
+[^1]: A 3. § (1) bekezdése a 6/2014. (II. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés c) pontja a 29/2015. (X. 21.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 6/2014. (II. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés c) pontja a 29/2015. (X. 21.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdése a 6/2014. (II. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^6]: A 3. § (3) bekezdés c) pontja a 29/2015. (X. 21.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^7]: A 3. § (3) bekezdés d) pontja a 29/2015. (X. 21.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^8]: A 3. § (4) bekezdése a 6/2014. (II. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^9]: A 3. § (4) bekezdés c) pontja a 29/2015. (X. 21.) NGM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (3) bekezdése a 6/2014. (II. 12.) NGM rendelet 8. §-a, a 29/2015. (X. 21.) NGM rendelet 5. § (5) bekezdése szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

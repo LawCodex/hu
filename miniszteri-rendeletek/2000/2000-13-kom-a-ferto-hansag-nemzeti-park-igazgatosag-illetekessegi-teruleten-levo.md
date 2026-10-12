@@ -1,0 +1,197 @@
+---
+title: "13/2000. (VI. 26.) KöM rendelet a Fertő-Hanság Nemzeti Park Igazgatóság illetékességi területén lévő egyes védett természeti területek erdőrezervátummá nyilvánításáról"
+identifier: "13/2000. (VI. 26.) KöM rendelet"
+njt_id: "2000-13-20-66"
+eli: "https://njt.jog.gov.hu/eli/R/2000/KOM/13"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2000-06-26
+in_force_from: 2000-07-04
+last_amended: 2000-07-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-13-20-66"
+retrieved: 2026-10-12
+---
+
+# 13/2000. (VI. 26.) KöM rendelet a Fertő-Hanság Nemzeti Park Igazgatóság illetékességi területén lévő egyes védett természeti területek erdőrezervátummá nyilvánításáról
+
+A természet védelméről szóló 1996. évi LIII. törvény 29. § (3) bekezdésében, valamint 85. § *b)* pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszter egyetértésével – a következőket rendelem el:
+
+## 1. §
+
+(1) Erdőrezervátummá nyilvánítom Dombos-ház Erdőrezervátum elnevezéssel az 5/1994. (III. 8.) KTM rendelettel, valamint az 1/1999. (I. 18.) KöM rendelettel módosított 2/1991. (II. 9.) KTM rendelettel létesített Fertő-Hanság Nemzeti Park részét képező, az *1. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 290,1 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *2. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 82,7 hektár kiterjedésű területet.
+
+## 2. §
+
+(1) Erdőrezervátummá nyilvánítom Bikafej Erdőrezervátum elnevezéssel a Fertő-Hanság Nemzeti Park részét képező, a *3. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 286,9 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *4. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 75,7 hektár kiterjedésű területet.
+
+## 3. §
+
+(1) Erdőrezervátummá nyilvánítom Hidegvíz-völgy Erdőrezervátum elnevezéssel az 1/1977. OTvH határozattal létesített Soproni Tájvédelmi Körzet részét képező, az *5. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 56,9 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *6. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 19,7 hektár kiterjedésű területet.
+
+## 4. §
+
+Erdőrezervátum magterületté nyilvánítom Erebe-szigetek Erdőrezervátum elnevezéssel a 19/1992. (XI. 6.) KTM rendelettel létesített Pannonhalmi Tájvédelmi Körzet részét képező, a *7. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 64 hektár kiterjedésű területet.
+
+## 5. §
+
+(1) Erdőrezervátummá nyilvánítom Hosszú-völgy Erdőrezervátum elnevezéssel a 26/1993. (XI. 23.) KTM rendelettel módosított 2/1980. (V. 14.) OKTH rendelettel létesített Kőszegi Tájvédelmi Körzet részét képező, a *8. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 145,7 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *9. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 38,4 hektár kiterjedésű területet.
+
+## 6. §
+
+(1) Erdőrezervátummá nyilvánítom Szabó-völgy Erdőrezervátum elnevezéssel a 4/1978. OKTH határozattal létesített Őrségi Tájvédelmi Körzet részét képező, a *10. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 66 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *11. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 26,9 hektár kiterjedésű területet.
+
+## 7. §
+
+(1) Erdőrezervátummá nyilvánítom Szalafő Erdőrezervátum elnevezéssel az Őrségi Tájvédelmi Körzet részét képező, a *12. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 94,7 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *13. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 13,2 hektár kiterjedésű területet.
+
+## 8. §
+
+(1) Erdőrezervátummá nyilvánítom Pap-erdő Erdőrezervátum elnevezéssel az Őrségi Tájvédelmi Körzet részét képező, a *14. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 42,2 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *15. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 20,4 hektár kiterjedésű területet.
+
+## 9. §
+
+A természet védelméről szóló 1996. évi LIII. törvény 29. § (4) bekezdésében foglaltak alapján az erdőrezervátumok magterülete fokozottan védett természeti terület.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 1. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Dombos-ház Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Kimle*
+
+0101/2 a-ból 15 E, 15 F, 15 G, 0101/2 b-ből 15 TI1, 15 TI2, 16 A, 16 B, 16 C, 16 H, 16 I, 16 TI1, 16 VI1, 19 A, 19 D, 19 NY1
+
+*Újrónafő*
+
+0205-ből 32 A, 33 B, 33 C, 33 E, 33 NY1, 33 VI4, 33 VI5, 34 B, 34 C, 34 E, 34 NY1, 34 VI1, 0207-ből 32 VI2, 0208-ból 32 B, 32 NY, 33 D, 34 D, 35 A, 35 B, 35 NY, 0210-ből 31 E, 31 F, 31 NY, 32 B, 32 NY, 32 VI3, 35 A, 35 B, 35 NY, 35 VI, 36 A, 36 B, 36 C, 36 NY1, 36 NY2, 36 VI, 0211/1-ből 31 A, 31 B, 31 C, 31 D
+
+## 2. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Dombos-ház Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Újrónafő*
+
+0208-ból 32 B, 35 A, 35 NY, 0210-ből 31 F, 31 NY, 32 B, 32 NY, 32 VI3, 35 A, 36 A, 36 NY1, 36 VI, 0211/1-ből 31 C, 31 D
+
+## 3. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Bikafej Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Csorna*
+
+0586 (58 A), 0588-ból 33 A, 33 B, 33 C, 33 TI1, 33 TI2, 34 A, 34 B, 34 TI1, 34 TI2, 34 TI4, 35 A, 35 TI1, 35 B, 36 A, 36 B, 36 TI, 0594-ből 57 A, 57 B, 57 C, 57 D, 57 E, 57 F, 57 G, 57 H, 57 TI, 0595-ből 30 A, 31 A, 32 A
+
+## 4. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Bikafej Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Csorna*
+
+0588-ból 33A, 33 B, 33 C, 33 TI1, 33 TI2, 34 A, 34 TI4, 35 A, 35 TI1
+
+## 5. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Hidegvíz-völgy Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Sopron*
+
+0685/a-ból 185 E, 0685/b (185 E), 0685/c (185 E), 0685/d (185 E), 0685/f (185 B, 185 C, 185 D), 0685/h (185 C, 185 D, 186 D1, 186 D2), 0685/g (186 A), 0685/j (186 A, 186 D1, 186 D2), 0685/k (186 A, 186 D1, 186 D2), 0685/l (186 B, 186 C), 0685/m-ből 186 B, 186 C, 186 NY
+
+## 6. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Hidegvíz-völgy Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Sopron*
+
+0685/f-ből 185 B, 185 C, 0685/h-ból 185 C, 186 D1, 0685/g (186 A), 0685/j-ből 186 A, 186 D1, 0685/k-ból 186 A, 186 D1
+
+## 7. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**Az Erebe-szigetek Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Nagyszentjános*
+
+051 (1 A, 1 B, 1 C, 1 D, 1 E, 1 F, 1 J, 1 K, 1 L, 1 NY, 1 TN), 052 (1 G), 053 (1 H), 054 (1 I), 055-ből 1 EY, 056 (1 M), 057 (1N)
+
+## 8. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Hosszú-völgy Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Velem*
+
+0155-ből 21 E, 21 F, 0164/1 (21 F), 0169-ből 22 A, 22 B, 0175-ből 22 H, 0200 (21 F), 0203-ból 17 ÚT2, 0204-ből 11 B, 11 D, 17 A, 17 ÚT1, 0205 (11 B), 0206 (11 D), 0207 (18 ÚT), 0213-ból 13 A, 15 B, 15 NY, 16 B, 16 NY2, 18 A, 18 B, 18 C, 19 A, 19 B, 19 NY, 0215-ből 19 ÚT 1, 0231-ből 11 A, 11 B, 16 A, 16 NY1, 16 ÚR1, 16 ÚR2
+
+## 9. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Hosszú-völgy Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Velem*
+
+0213-ból 16 B, 16 NY2, 18 A, 18 B, 18 C
+
+## 10. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Szabó-völgy Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Felsőszölnök*
+
+086/7 a-ból 2 A, 2 B, 2 C, 2 D, 2 E, 2 F, 086/17–20-ból 2 TI1, 0111/1 (2 B), 0111/2 a (1 A, 1 B, 1 C, 1 D, 1 E, 1 F, 1 G, 1 H, 1 TI2), 0111/2 b (1 NY), 0111/2 c-ből 1 TI1, 0111/2 d (2 TI1)
+
+## 11. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Szabó-völgy Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Felsőszölnök*
+
+086/7 a-ból 2 E, 086/17-20-ból 2 TI1, 0111/2 a-ból 1 E, 1 F, 1 TI2, 0111/2 c-ből 1 TI1, 0111/2 d (2 TI1)
+
+## 12. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Szalafő Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Szalafő*
+
+041/a-ból 11 H, 11 TI2, 12 H, 12 I, 12 TI2, 13 A, 13 B, 13 C, 13 D, 13 E, 13 F, 13 G, 13 J, 13 NY1, 13 TI1, 13 TI2, 13 ÚR, 14 A, 14 B, 14 C, 14 TI1, 14 TI2, 14 NY1, 14 NY2, 076/a-ból 13 G
+
+## 13. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Szalafő Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Szalafő*
+
+041/a-ból 13 C, 13 D, 13 TI1
+
+## 14. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Pap-erdő Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Szakonyfalu*
+
+0135/8-ból 27 A, 0150-ből 122 A2, 0153-ból 121 A, 122 A2, 0157-ből 122 A2, 0158 (27 A, 27 B, 27 C, 27 D, 27 E, 27 F, 27 G, 27 H), 0159-ből 67 A, 120 A1 0160-ból 121 A
+
+## 15. számú melléklet a 13/2000. (VI. 26.) KöM rendelethez
+
+**A Pap-erdő Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Szakonyfalu*
+
+0158-ból 27 C, 27 D, 27 F, 27 G, 27 H

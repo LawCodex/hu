@@ -1,0 +1,255 @@
+---
+title: "6/2022. (VII. 27.) TIM rendelet a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról"
+identifier: "6/2022. (VII. 27.) TIM rendelet"
+njt_id: "2022-6-20-8N"
+eli: "https://njt.jog.gov.hu/eli/R/2022/TIM/6"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2022-07-27
+in_force_from: 2022-08-01
+last_amended: 2024-07-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-6-20-8N"
+retrieved: 2026-10-12
+---
+
+# 6/2022. (VII. 27.) TIM rendelet a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról
+
+A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés v) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya
+
+a) a légiforgalmi tájékoztató szolgálatra (a továbbiakban: AIS) és
+
+b) a légiforgalmi adatot és tájékoztatást létrehozó, az AIS-nek adatot és tájékoztatást szolgáltató szervre
+
+terjed ki.
+
+### 2. §
+
+Az e rendeletben meghatározott eljárások részletes végrehajtására a légiközlekedési hatóság honlapján közzétett, az ICAO Légiforgalmi Információ Menedzsment (a továbbiakban: PANS AIM Doc 10066) dokumentumban meghatározottakat kell alkalmazni.
+
+## 2. Értelmező rendelkezések
+
+### 3. §
+
+(1) E rendelet alkalmazásában
+
+1\. *látvarepülési szabályok szerinti repülésről szóló kiadvány:* a látvarepülési szabályok szerinti repülésre, valamint az AIP repülőtereket tartalmazó részében nem szereplő repülőterekre vonatkozó légiforgalmi adatok és tájékoztatások közzétételére szolgáló kiadvány,
+
+2\. *légiforgalmi térkép:* a Föld egy részének, tereptárgyának és domborzatának ábrázolása, amelyet kifejezetten a léginavigációs követelmények teljesítésére szántak.
+
+(2) Az e rendeletben meg nem határozott fogalmakat az (EU) 2017/373 bizottsági végrehajtási rendeletben, a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló 923/2012/EU bizottsági végrehajtási rendeletben (a továbbiakban: SERA), a légiközlekedésről szóló 1995. évi XCVII. törvényben, a légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendeletben (a továbbiakban: Vhr.), valamint a légiforgalmi szolgálatok ellátásának és eljárásainak szabályairól szóló 57/2016. (XII. 22.) NFM rendeletben meghatározottak szerint kell értelmezni.
+
+## 3. Egyes légiforgalmi tájékoztató termékre vonatkozó rendelkezések
+
+### 4. §
+
+A Vhr. 1. mellékletében szereplő, a légiközlekedési hatóság engedélyéhez nem kötött változáson alapuló adatokat vagy tájékoztatásokat az adatszolgáltató az AIP-ben való közzététel érdekében a közte és az AIS közötti írásbeli adatszolgáltatási megállapodásban meghatározottak szerint nyújtja be az AIS-nek. Ezen adatok tekintetében az AIS csak az e rendeletben meghatározott követelmények teljesítésére köteles.
+
+### 5. §
+
+Az AIS az AIP harmadik részében teszi közzé azokat a repülőtereket, amelyek
+
+a) műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé, vagy
+
+b)[^1] vonatkozásában az (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározott követelményekkel összhangban léginavigációs szolgáltatást biztosítanak.
+
+### 6. §
+
+(1) Az (EU) 2017/373 bizottsági végrehajtási rendelet VI. Melléklet B. Alrész AIS.TR.400 *a)* alpontja szerinti NOTAM szétosztási rendszert az AIS határozza meg.
+
+(2) Az AIS az (EU) 2017/373 bizottsági végrehajtási rendelet VI. Melléklet A. Alrész AIS.OR.400 pontja szerinti terjesztést kérésre AFTN címmel rendelkező felhasználók számára biztosítja.
+
+### 7. §
+
+A Vhr. 1. mellékletében szereplő, a légiközlekedési hatóság engedélyéhez kötött változáson (a továbbiakban: engedélyköteles változás) alapuló adat vagy tájékoztatás esetében az adatszolgáltató a NOTAM-ban való közzététel előtt beszerzi a légiközlekedési hatóság engedélyét, amennyiben az engedélyköteles változás létesítést, fejlesztést vagy megszüntetést jelent.
+
+### 8. §
+
+(1) A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendeletben kijelölt veszélyes légterek aktiválását és minden olyan, nem kényszerhelyzettel kapcsolatos tevékenységet, amely ideiglenes légtérkorlátozással jár, legalább hét nappal korábban az AIS NOTAM-ban teszi közzé.
+
+(2) Az (1) bekezdésben meghatározott tevékenység befejezését, valamint a légtér üzemidejének vagy méretének csökkentését, amint az információ rendelkezésre áll, az AIS NOTAM-ban teszi közzé.
+
+### 9. §
+
+Az (EU) 2017/373 bizottsági végrehajtási rendelet VI. Melléklet A. Alrész AIS.OR.330. *a)* alpontja szerinti – NOTAM-ban közzéteendő –
+
+a) ideiglenes jellegű és rövid időszakra szóló tájékoztatás az a tájékoztatás, amely legfeljebb 3 hónapig érvényes,
+
+b) rövid határidővel közzéteendő, a működés szempontjából lényeges, állandó érvényű az a tájékoztatás, amelynek AIP módosításban történő közzétételére nem áll rendelkezésre elegendő idő,
+
+c) rövid határidővel közzéteendő, hosszú időszakra szóló ideiglenes az a tájékoztatás, amelynek AIP kiegészítésben történő közzétételére nem áll rendelkezésre elegendő idő.
+
+### 10. §
+
+Az AIS elektronikusan, olyan formában teszi közzé az AIP-t, az AIP módosítását és kiegészítését, az AIC-t, valamint az ICAO 1:500000 léptékű légiforgalmi térképet, amely lehetővé teszi azok elektronikus eszközön történő megjelenítését oly módon, hogy az papíron is megjeleníthető legyen.
+
+### 11. §
+
+Az AIS legalább a hatálybalépési dátum előtt 56 nappal teszi közzé a következő előre tervezett, előzetes értesítést igénylő tájékoztatásokat:
+
+a) IFR szabályok szerint üzemelő új nemzetközi repülőtér;
+
+b) IFR szabályok szerint üzemelő nemzetközi repülőterek új futópályái;
+
+c) ATS útvonalhálózat kialakítása és felépítése, a szabad útvonalú légtérrel kapcsolatos változások;
+
+d) a bevezető és repülőtéri irányító szolgálat eljárásainak kialakítása és felépítése, beleértve az eljárás mágneses elhajlás miatti változását; és
+
+e) az (EU) 2017/373 bizottsági végrehajtási rendelet VI. Melléklet B. Alrész AIS.TR.505 pont *a)* alpontjában meghatározott tájékoztatások, ha Magyarország légiközlekedését vagy annak jelentős részét befolyásolják, vagy nemzetközi koordinációra van szükség.
+
+## 4. Látvarepülési szabályok szerinti repülésről szóló kiadványra vonatkozó rendelkezések
+
+### 12. §[^2]
+
+Az Lt. 37. § (1) bekezdés a) pontja és az Lt. 37. § (1) bekezdés b) pont ba) alpontja szerinti azon repülőterekre vonatkozó légiforgalmi adatokat és tájékoztatásokat, amelyek nem tartoznak az 5. §-ban meghatározott repülőterek közé, az AIS a látvarepülési szabályok szerinti repülésről szóló kiadványban teszi közzé. A látvarepülési szabályok szerinti repülésről szóló kiadványban való közzétételt a repülőtér üzembentartója kezdeményezi.
+
+### 13. §
+
+A látvarepülési szabályok szerinti repülésről szóló kiadványban közzéteendő adatokat és tájékoztatásokat a repülőtér üzembentartója a közte és az AIS között megkötött adatszolgáltatási megállapodásban meghatározottak szerint nyújtja be az AIS-nek.
+
+### 14. §
+
+Az AIS a látvarepülési szabályok szerinti repülésről szóló kiadványban legalább a következő adatokat és tájékoztatásokat teszi közzé:
+
+1\. repülőtér helységneve és ICAO azonosítója;
+
+2\. repülőtér földrajzi adatai, beleértve a vonatkoztatási pont koordinátáit, a településtől való távolságát és irányát, a tengerszint feletti magasságát, a mágneses elhajlás mértékét és éves változását és a felmérés évét;
+
+3\. repülőtér üzembentartójának neve, a repülőtér címe és elérhetőségei;
+
+4\. a repülőtéren engedélyezett forgalom típusa;
+
+5\. a repülőtéri szolgálatok rendelkezésre állása és üzemideje (vám- és határőrség, ATS, tankolás, földi kiszolgálás, őrzés-védelem);
+
+6\. rendelkezésre álló földi kiszolgáló eszközök (üzemanyagfajták, olajfajták, üzemanyagtöltő eszközök és kapacitásuk, tárolási lehetőségek, javító eszközök);
+
+7\. repülőtér tűzoltó kategóriája, rendelkezésre álló mentő és tűzoltó szolgálatok, felszerelések;
+
+8\. előterek, gurulóutak adatai (felület, teherbírás, jelölésük), ellenőrző helyek és pontok földrajzi adatai és műszaki jellemzői;
+
+9\. repülőtéri akadályokra vonatkozó adatok (futópálya azonosító, típus, abszolút és relatív magasság, WGS84 koordináta) a megközelítési és felszállási területen;
+
+10\. futópálya adatai (azonosítója, földrajzi iránya, mágneses iránya, méretei, teherbírása és felülete);
+
+11\. a futópályához kapcsolódó biztonsági megállási terület és a felszállási biztonsági terület adatai (méretei, teherbírása, felülete, lejtése);
+
+12\. leszállósáv méretei;
+
+13\. futópálya deklarált távolságai;
+
+14\. bevezető fényrendszer adatai (típus, hosszúság, intenzitás), futópálya küszöb fények adatai (szín, keresztfénysor), optikai siklópályarendszer típusa és adatai, futópálya földet érési zóna fényeinek hosszúsága, futópálya szegélyfények adatai (hosszúság, lámpatestek közötti távolság, szín, intenzitás), futópálya zárófények és szárnyfénysorok színe, végbiztonsági sáv fényeinek hossza és színe;
+
+15\. a repülőtéren kijelölt légterek megnevezése, oldalhatárai (fokban, percben, másodpercben), alsó és felső határai, osztálya;
+
+16\. a repülőtéren kijelölt légtérben szolgáltatást nyújtó légiforgalmi szolgálat megnevezése, hívójele, frekvenciái, a kommunikáció során használható nyelvek;
+
+17\. a repülőtéren elérhető rádiónavigációs és leszállító berendezések típusa, azonosítója, frekvenciája, üzemideje, antennájának telepítési helyének földrajzi koordinátái 1/10 másodperc pontossággal, a Távolság Mérő Berendezés (a továbbiakban: DME) antenna tengerszint feletti magassága a legközelebbi 100 lábra kerekítve;
+
+18\. a légiforgalmat érintő helyi előírások, rendelkezések, beleértve a forgalmi körök leírása és a látás szerinti megközelítési térkép elkészítéséhez szükséges további, az 1–17. pontban nem szereplő adatok;
+
+19\. a repülőtéren végezhető tevékenységek, repülőtéri díjak, egyéb kapcsolódó tájékoztatások;
+
+20\. zajcsökkentő intézkedések leírása; valamint
+
+21\. a repülőtér térkép előállításához szükséges további, az 1–19. pontban nem szereplő adatok.
+
+22.[^3] ATZ légtérrel nem rendelkező, de a légiforgalmi szolgálatok ellátásától eltérő célra létesített földi rádióállomással rendelkező repülőtér esetén a rádióállomás hívójele, frekvenciája, üzemideje, a kommunikáció során használható nyelvek, illetve a használatára vonatkozó speciális eljárások.
+
+## 5. Minőségirányítási rendszer és adatminőségi követelmények biztosítása
+
+### 15. §
+
+Az AIS rendelkezik minőségirányítási rendszerrel és ezzel összefüggésben ISO 9000-es sorozatra vagy azzal egyenértékű műszaki megoldásra vonatkozó tanúsítással.
+
+### 16. §
+
+(1) Az adatbázisban található adatok felbontásának ugyanolyannak vagy nagyobbnak kell lennie, mint a közzétett adatok felbontásának.
+
+(2) A digitális adatoknak megfelelő felbontásúaknak kell lenni, hogy fenntartsák a megfelelő pontosságot.
+
+### 17. §
+
+A légiforgalmi információs termék részeként kibocsátandó anyagot az AIS-hez történő továbbítás előtt alaposan ellenőrizni kell, annak biztosítása érdekében, hogy minden szükséges információt tartalmazzon, valamint hogy a részletek pontosak legyenek.
+
+### 18. §
+
+Az AIS szervezésében, valamint a légiforgalmi adatok és tájékoztatások tervezése, tartalmának kialakítása, feldolgozása és terjesztése során a légiforgalmi adatok és tájékoztatások optimális felhasználása érdekében figyelembe kell venni az emberi tényezők alapelveit. Emberi beavatkozást igénylő folyamatoknál megfelelő figyelmet kell fordítani az információk integritására és kockázatmérséklő intézkedéseket kell hozni.
+
+## 6. Repülés utáni tájékoztatás
+
+### 19. §
+
+A nemzetközi repülőtér üzembentartója gondoskodik a légijárművek személyzetétől kapott, a léginavigációs berendezések vagy szolgáltatások állapotáról és működéséről, valamint vadon élő állatok jelenlétéből eredő veszélyekkel kapcsolatos tájékoztatások átvételéről, továbbá arról, hogy ezek a tájékoztatások a repülésbejelentő és tájékoztató szolgálat rendelkezésére álljanak.
+
+## 7. A légiforgalmi tájékoztatás automatizálása
+
+### 20. §
+
+Ha a légiforgalmi adatok és a légiforgalmi tájékoztatások létrehozása, előállítása, tárolása, kezelése, feldolgozása, átadása és szétosztása során az e rendelet hatálya alá tartozó felek automatizálást alkalmaznak, a következő követelményeket kell figyelembe venni a rendszer tervezésénél:
+
+a) az automatizáció szintjének arányosnak kell lennie a feldolgozási szükséglettel,
+
+b) az automatizáció optimalizálja az ember és a gép közti munkamegosztást a folyamat magas fokú biztonsági és minőségi előnyeinek elérése érdekében,
+
+c) az automatizáció biztosítja a végrehajtott műveletek nyomonkövethetőségét,
+
+d) az automatizáció biztosítja az adathibák elkerülését, valamint
+
+e) az automatizáció biztosítja a beviteli adatok hibáinak felderítését.
+
+## 8. Digitális adatkészletekre vonatkozó rendelkezések
+
+### 21. §
+
+(1) A digitális akadály adatkészletek az akadályok függőleges és vízszintes kiterjedésének digitális megjelenítését tartalmazzák. A digitális akadályadatok a digitális domborzati adatkészletbe nem foglalhatók bele.
+
+(2) Ha az (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározottakon kívül domborzati digitális adatok állnak rendelkezésre egyéb légiforgalmi tájékoztatásra vonatkozó követelmények teljesítése érdekében, a domborzati digitális adatkészleteket ki kell terjeszteni ezekre a kiegészítő adatokra.
+
+(3) Ha az (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározottakon kívül digitális akadály adatok állnak rendelkezésre egyéb légiforgalmi tájékoztatásra vonatkozó követelmények teljesítése érdekében, a digitális akadály adatkészleteket ki kell terjeszteni ezekre a kiegészítő adatokra.
+
+### 22. §
+
+(1) Az (EU) 2017/373 bizottsági végrehajtási rendelet VI. Melléklet B. Alrész AIS.TR.350 pont *d)* alpontjában meghatározott 4. terület hosszát ki kell terjeszteni a futópálya küszöbétől legfeljebb 2000 m (6500 láb) távolságra, ha a domborzat a futópálya küszöbétől 900 m-nél (3000 lábnál) távolabbi hegyvidéki vagy az elhatározási magasság meghatározása szempontjából jelentős terület.
+
+(2) Magyarország államhatára közelében elhelyezkedő nemzetközi repülőtér esetében a domborzati digitális adatokat a szomszédos állam kérésére meg kell osztani az érintett állammal. Az államhatár közelében lévő nemzetközi repülőtér és az államhatár közelében lévő szomszédos ország nemzetközi repülőterének domborzati digitális adatait össze lehet hangolni, ha azok lefedettségi területei átfedésben vannak, annak biztosítása érdekében, hogy ugyanazon domborzatra vonatkozó adatok helyesek legyenek.
+
+## 9. A légiforgalmi adatokra és tájékoztatásokra vonatkozó követelmények
+
+### 23. §
+
+(1) A légiforgalmi tájékoztató termék bármely elemében közzéteendő tájékoztatások AIS-nek történő átadását megelőzően az átadó megbizonyosodik arról, hogy az átadandó tájékoztatás minden közzéteendő adatot és információt tartalmaz, és azok megfelelnek e rendelet előírásainak.
+
+(2) A digitális adatként kiadott állandó érvényű változtatásokat és a hosszú időtartamra – három hónapra vagy még tovább – szóló átmeneti változtatásokat teljes adatkészlet vagy a korábban kiadott teljes adatkészlettől való eltéréseket tartalmazó adatkészlet formájában kell kiadni.
+
+(3) Ha a rövid ideig tartó ideiglenes változtatásokat digitális adatként (digitális NOTAM) bocsátják rendelkezésre, ugyanazt a légiforgalmi információs modellt kell használni, mint a teljes adatkészletre.
+
+(4) Az AIP és a digitális adatkészletek frissítéseit szinkronizálni kell.
+
+## 10. Záró rendelkezések
+
+### 24. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+### 25. §
+
+Ez a rendelet
+
+a) a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendeletnek és
+
+b) a 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/373 rendeletnek a légiforgalmi szolgáltatásra/a léginavigációs szolgálatokra, a légtérszerkezet kialakítására, az adatminőségre és a futópálya biztonságára vonatkozó követelmények tekintetében történő módosításáról, valamint a 73/2010/EU rendelet hatályon kívül helyezéséről szóló, 2020. február 14-i (EU) 2020/469 bizottsági végrehajtási rendeletnek
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: Az 5. § b) pontja a 16/2024. (VII. 2.) ÉKM rendelet 26. §-ával megállapított szöveg.
+[^2]: A 12. § a 16/2024. (VII. 2.) ÉKM rendelet 27. §-ával megállapított szöveg.
+[^3]: A 14. § 22. pontját a 16/2024. (VII. 2.) ÉKM rendelet 28. §-a iktatta be.

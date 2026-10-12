@@ -1,0 +1,440 @@
+---
+title: "20/2017. (VII. 31.) NGM rendelet az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról"
+identifier: "20/2017. (VII. 31.) NGM rendelet"
+njt_id: "2017-20-20-2X"
+eli: "https://njt.jog.gov.hu/eli/R/2017/NGM/20"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2017-07-31
+in_force_from: 2017-07-31
+last_amended: 2018-06-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-20-20-2X"
+retrieved: 2026-10-12
+---
+
+# 20/2017. (VII. 31.) NGM rendelet az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról
+
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. alcím 14. pontjában és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet hatálya a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet 1. melléklet 12d sorában meghatározott Kezelőszemélyzet nélküli automaták bekötésének támogatása jogcímcsoport (a továbbiakban együtt: előirányzat) felhasználására terjed ki.
+
+(2) Az előirányzat kezelésével kapcsolatos feladatokat, így különösen a nyilvántartási, pénzügyi és számviteli, valamint ellenőrzési feladatokat a Magyar Államkincstár (a továbbiakban: kezelő szerv) látja el.
+
+### 2. §
+
+A rendelet hatálya
+
+a) az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet (a továbbiakban: Rendelet) szerinti felügyeleti szolgáltatóra, továbbá a kijelölt menedékes felügyeleti szolgáltatóra (a továbbiakban együtt: felügyeleti szolgáltató),
+
+b) az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés üzemeltetőjére (a továbbiakban: üzemeltető) és
+
+c) a kezelő szervre
+
+terjed ki.
+
+### 3. §
+
+E rendelet alkalmazásában:
+
+a) *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
+
+b) *csoportmentességi* rendelet*ek:* az Atr. 2. § 2a. pontjában felsorolt bizottsági rendeletek,
+
+c) *egy és ugyanazon vállalkozás:* az Atr. 2. § 5a. pontja szerinti vállalkozás,
+
+d) *elsődleges mezőgazdasági termelés:* az Atr. 2. § 5b. pontja szerinti tevékenység,
+
+e) *halászati és akvakultúra-termék:* a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk a) és b) pontjában meghatározott termékek,
+
+f) *gazdasági tevékenység:* bármely, egy adott piacon termékek és szolgáltatások nyújtásával járó tevékenység, amely feltételezi az ellenszolgáltatásért vállalt kockázatot,
+
+g) *mezőgazdasági termék:* az Európai Unió működéséről szóló Szerződés (EUMSZ) I. mellékletében felsorolt termékek a halászati és akvakultúra-termékek kivételével,
+
+h) *támogatástartalom:* az Atr. 2. § 19. pontja szerinti tartalom.
+
+### 4. §
+
+E rendelet alapján csekély összegű (de minimis) támogatás
+
+a) az 1407/2013/EU bizottsági rendeletnek,
+
+b) az 1408/2013/EU bizottsági rendeletnek és
+
+c) a 717/2014/EU bizottsági rendeletnek
+
+megfelelően nyújtható.
+
+## 2. A támogatás mértéke, igénybevételének feltételei
+
+### 5. §
+
+(1) Az e rendelet szerinti vissza nem térítendő támogatást (a továbbiakban: támogatás) az Automata Felügyeleti Egység (a továbbiakban: AFE) értékesítésében és telepítésében közreműködő, továbbá felügyeleti szolgáltatást nyújtó, e rendeletben meghatározott követelményeknek megfelelő, felügyeleti szolgáltató igényelheti az üzemeltetők részére kedvezmény útján történő érvényesítés céljából.
+
+(2) Az előirányzat terhére támogatás nyújtható az AFE értékesítésében és telepítésében való közreműködéshez, továbbá a (7) bekezdésben foglaltak szerint a felügyeleti szolgáltatás nyújtásához.
+
+(3) A támogatást kizárólag olyan felügyeleti szolgáltató igényelheti, amely az üzemeltetővel felügyeleti szolgáltatói szerződést köt, és
+
+a) vállalja, hogy az AFE üzemeltető részére történő értékesítésében közreműködik, továbbá a 13. § (6) bekezdés szerinti igazolás kiállításával kötelezettséget vállal arra, hogy az üzemeltető részére az AFE megvásárlásához és telepítéséhez az állami (de minimis) támogatás összegének megfelelő kedvezményt biztosít, és
+
+b)[^1] az AFE-t az állami adó- és vámhatósághoz bejelentett és regisztrációs számmal rendelkező automataberendezésbe legkésőbb az adózás rendjéről szóló törvényben (a továbbiakban: Art.) az automataberendezések AFE-val való ellátására előírt határidőig telepíti, és a telepítést követően működteti.
+
+(4) A támogatást a felügyeleti szolgáltató abban az esetben igényelheti, ha a támogatás iránti kérelem benyújtásának időpontjában
+
+a) megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. §-ában, továbbá az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 81. §-ában foglalt feltételeknek,
+
+b) nem rendelkezik az állami adó- és vámhatóságnál nyilvántartott tartozással, valamint végrehajtásra vagy visszatartásra átadott köztartozása nincs.
+
+(5) A (4) bekezdés b) pontjában foglaltakat a felügyeleti szolgáltató, ha nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban, köztartozásmentes adózói minőségéről szóló igazolással vagy nemleges adóigazolással igazolja a kérelem benyújtásával egyidejűleg.
+
+(6) A felügyeleti szolgáltató kérelmében megjelöli
+
+a) az Ávr. 69. § (1) bekezdésben foglaltakat,
+
+b) azon AFE-k darabszámát, amely értékesítésében és telepítésében az általa igényelt támogatás összegének megfelelő kedvezmény biztosításával közreműködik és amelyet működtetni vállalt, és
+
+c) azt a pénzforgalmi bankszámlaszámát, amelyre a támogatás folyósítását kéri.
+
+(7) A támogatás mértéke AFE-nként százhúszezer forint, amely magában foglalja az AFE árát és a telepítéssel összefüggő valamennyi díjat és költséget. Ha az AFE ára, valamint a telepítéssel összegfüggő valamennyi díj és költség együttes összege nem éri el a százhúszezer forintot, a fennmaradó rész a felügyeleti szolgáltatás díjára is elszámolható. A felügyeleti szolgáltató által a telepítéssel összefüggésben felszámított valamennyi díj és költség legfeljebb az AFE ára és a támogatás mértéke közötti különbözetnek megfelelő összeg lehet.
+
+(7a)[^2] Ha a támogatás összegének egy része felügyeleti szolgáltatási díjra kerül elszámolásra, az ezt dokumentáló számviteli bizonylat abban az esetben is elfogadható a támogatás elszámolásának alátámasztásaként, ha a bizonylat a (3) bekezdés b) pontjában meghatározott határidőt követően, de legkésőbb 2018. december 31-ig kerül kiállításra.
+
+(8) A felügyeleti szolgáltató a kérelem benyújtásával egyidejűleg
+
+a) nyilatkozik az Ávr. 75. § (2) bekezdésében foglaltakról,
+
+b)[^3] az igényelt támogatás összegével megegyező mértékű biztosítékot nyújtja a kezelő szerv részére az Ávr. 84. § (2) bekezdés a) pontjában foglalt biztosíték vagy pénzügyi intézmény által vállalt garancia formájában, és
+
+c) 30 napnál nem régebbi cégkivonatát és a cégjegyzésre jogosult képviselője aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját benyújtja a kezelő szerv részére.
+
+### 7. §
+
+(1) A támogatás iránti kérelmet és a jogosultsági feltételeket igazoló dokumentumokat (a továbbiakban együtt: kérelem) a kezelő szerv honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat) történő regisztrációt követően a felügyeleti szolgáltató nyújtja be.
+
+(2) A kérelmet
+
+a)[^5] 2017. november 17-ig elektronikusan az eAdaton keresztül és
+
+b) az a) pont szerinti elektronikus kérelem benyújtását követő 7 napon belül – az 5. § (8) bekezdés c) pontja szerinti aláírással ellátva – papír alapon
+
+kell a kezelő szerv részére benyújtani.
+
+(3) A kérelmek elbírálása az elektronikusan történt benyújtás sorrendjében történik. A kérelem akkor tekinthető benyújtottnak, amikor az az eAdaton rögzítésre került.
+
+(4) Az elektronikusan benyújtott kérelem akkor tekinthető érvényesnek, ha a benyújtást követő 7 napon belül a papíralapú változat is beérkezik a kezelő szervhez.
+
+(5) A felügyeleti szolgáltató legfeljebb 5 darab támogatás iránti kérelmet nyújthat be oly módon, hogy az első kérelemben legfeljebb 10 000 darab AFE-ra igényelhet támogatást, és az első kérelem benyújtásától a második kérelem benyújtásáig legalább 8 napnak el kell telnie. A támogatás iránti kérelmekben megjelölt AFE darabszám mindösszesen legfeljebb 27 000 darab lehet.
+
+(6) A kezelő szerv a kérelmet a papíralapú változat beérkezéstől számított 7 napon belül elutasítja, vagy támogatói okirattal közli a felügyeleti szolgáltató részére folyósítható támogatás összegét.
+
+(7) Ha a (2) bekezdés b) pontja szerinti kérelem nem érkezik be határidőben, vagy ha az elektronikusan és a papír alapon benyújtott kérelem eltér egymástól, továbbá ha az egy kérelemben szerepeltetett AFE darabszám, vagy a korábban benyújtott kérelmekben szerepeltetett AFE darabszám együttesen meghaladja az (5) bekezdésben meghatározott maximális darabszámot, a kezelő szerv tájékoztatja a felügyeleti szolgáltatót arról, hogy a kérelme érdemi vizsgálatra nem alkalmas.
+
+(8) A kezelő szerv a támogatói okirat kiállítását követő 5 napon belül folyósítja a támogatást.
+
+### 8. §
+
+(1) A kezelő szerv a támogatást támogatási előlegként nyújtja.
+
+(2)[^6] Az AFE értékesítésében és telepítésében való közreműködésért nyújtott támogatási előleggel a felügyeleti szolgáltató legkésőbb az 5. § (3) bekezdés b) pontjában meghatározott határidőt követő 60. napig elszámol. Ha a támogatási összeg egy része az 5. § (3) bekezdés b) pontjában meghatározott határidőt követő felügyeleti szolgáltatás díjára került elszámolásra, az elszámolási határidő az erről szóló, legkésőbb kiállított számviteli bizonylat kiállításának napján kezdődik és legkésőbb 2019. február 28-áig tart.
+
+(3)[^7] A támogatási előleggel való elszámolás elfogadásának feltétele, hogy a felügyeleti szolgáltató megküldi az Ávr. 93. § (3) bekezdése szerinti számlaösszesítőt és a kérelem papír alapon történő benyújtását követően az AFE üzemeltető részére történő értékesítéséről, az AFE telepítéséről, valamint a felügyeleti szolgáltatás díjáról kibocsátott számlák hiteles másolatát, a 9. § (1) bekezdése szerinti nyilvántartás adatait, továbbá a 11. § (5a) bekezdése szerinti esetben a 11. § (5b) bekezdése szerinti „Üzembe helyezési adatlap” hiteles másolatát.
+
+(4) A felügyeleti szolgáltató a kezelő szerv által meghatározott formában elkészített elszámolást és annak igazolására szolgáló (3) bekezdés szerinti dokumentumokat elektronikusan és az 5. § (8) bekezdés c) pontja szerinti aláírással ellátott okiratokat papír alapon is a (2) bekezdésben foglalt határidőig küldi meg a kezelő szervnek.
+
+(5) A (4) bekezdésben meghatározottaktól eltérően a felügyeleti szolgáltató az üzemeltető részére az AFE értékesítéséről és beszereléséről kibocsátott elektronikus számlát kizárólag elektronikusan, a papír alapon kibocsátott számlát kizárólag papír alapon küldi meg a kezelő szerv részére.
+
+### 9. §
+
+(1)[^8] A felügyeleti szolgáltató elkülönített, analitikus nyilvántartást vezet a támogatott AFE-val ellátott automataberendezések üzemeltetőivel kötött felügyeleti szolgáltatói szerződések alábbi adatairól, amelyeket az 5. § (3) bekezdés b) pontjában meghatározott határidőt követő 60 napon belül az eAdaton keresztül továbbít a kezelő szerv részére:
+
+a) az üzemeltető neve,
+
+b) az üzemeltető adószáma,
+
+c) az üzemeltető székhelye,
+
+d) a felügyeleti szolgáltatói szerződés létrejöttének időpontja,
+
+e) a felügyeleti szolgáltatás kezdő időpontja,
+
+f) az AFE-val ellátott automataberendezés üzemeltetési helye,
+
+g) az AFE-val ellátott automataberendezés regisztrációs száma,
+
+h) az az ár, amelyért az AFE az üzemeltető részére értékesítésre került,
+
+i) az az ár, amelyért az AFE az üzemeltető részére telepítésre került,
+
+j) a h) és i) pont szerinti ár támogatástartalma.
+
+(2) Az Áht. 56/B. §-ában foglaltak érdekében a felügyeleti szolgáltató az eAdaton keresztül adatot szolgáltat a csekély összegű támogatások mértékéről, az üzemeltetők adatairól a kezelő szerv által előírt módon.
+
+### 10. §
+
+A felügyeleti szolgáltató a támogatás igénybevételére tekintettel a 2. melléklet szerinti igazolásban kötelezettséget vállal arra, hogy a Rendeletben meghatározott feltételeknek megfelelő AFE értékesítésében és telepítésében való közreműködés keretében az üzemeltető részére az állami (de minimis) támogatás összegének megfelelő mértékű kedvezményt biztosít. A felügyeleti szolgáltató a 2. melléklet szerinti igazolást 2 példányban állítja ki, amelynek egyik példányát átadja az üzemeltető részére.
+
+## 3. A támogatás jogszerű igénybevételének utólagos ellenőrzése
+
+### 11. §
+
+(1) A kezelő szerv a támogatás igénybevételének jogszerűségét a felügyeleti szolgáltatónál dokumentumok bekérésével és az állami adó- és vámhatóság megkeresésével vizsgálja.
+
+(2)[^9] Az üzemeltető részére nyújtott, 10. § szerinti kedvezmény biztosítását a felügyeleti szolgáltató az üzemeltetővel megkötött felügyeleti szolgáltatói szerződéssel, az üzemeltető 1. melléklet szerinti nyilatkozatával és az AFE üzemeltető részére történő értékesítéséről, az AFE telepítéséről, továbbá a felügyeleti szolgáltatás díjáról kiállított számlák hiteles másolatával igazolja.
+
+(3) Az AFE telepítése és működtetése akkor minősül teljesültnek, ha az állami adó- és vámhatóság az (1) bekezdés szerinti megkeresésre adott tájékoztatása szerint az AFE üzembehelyezési folyamata sikeresen befejeződött.
+
+(4) Ha a kezelő szerv megállapítja, hogy a felügyeleti szolgáltató
+
+a) az 5. § (4) bekezdésében meghatározott feltételeknek nem felelt meg, és a támogatás folyósítása megtörtént,
+
+b) a 8–9. § szerinti kötelezettségének határidőben nem tett eleget, vagy ha az elszámolás, illetve az általa vezetett nyilvántartás, teljesített adatszolgáltatás tartalmilag – ide nem értve az (5) bekezdés szerinti esetet – nem megfelelő,
+
+c) a támogatás igénybevételével értékesíteni, telepíteni és működtetni vállalt darabszámú AFE értékesítésében vagy telepítésében nem működött közre, illetve az AFE működtetése nem valósult meg, vagy
+
+d) neki felróható egyéb okból jogosulatlanul vett igénybe támogatást,
+
+a támogatás jogosulatlan igénybevételét, valamint a (6) bekezdés szerinti jogkövetkezményeket a felügyeleti szolgáltató terhére megállapítja.
+
+(5) Nem állapítható meg a felügyeleti szolgáltató terhére a támogatás jogosulatlan igénybevétele, ha a támogatás igénylése az üzemeltető által benyújtott valótlan tartalmú nyilatkozat alapján történt, feltéve, hogy a felügyeleti szolgáltató bizonyítja, hogy a 13. § (2) bekezdése szerinti eljárás során a magatartása nem volt felróható.
+
+(5a)[^10] Nem állapítható meg a felügyeleti szolgáltató terhére a támogatás jogosulatlan igénybevétele, ha az AFE telepítése az 5. § (3) bekezdés b) pontja szerinti határidőt megelőzően megkezdődött, azonban
+
+a) a felügyeleti szolgáltató által az 5. § (3) bekezdés b) pontja szerinti határidőt megelőzően kiállított „Üzembe helyezési adatlap”-on feltüntetett műszaki hiba miatt a felügyeleti szolgáltató és az üzemeltető együttműködése ellenére sem fejeződhetett be az 5. § (3) bekezdés b) pontja szerinti határidőre, feltéve, hogy az AFE üzembehelyezési folyamata legkésőbb 2018. szeptember 30-ig sikeresen befejeződött, vagy
+
+b) az „Üzembe helyezési adatlap” szerint az 5. § (3) bekezdés b) pontja szerinti határidőben telepített AFE üzembehelyezési folyamata az 5. § (3) bekezdés b) pontja szerinti határidőt követő 5 munkanapon belül fejeződött be sikeresen.
+
+(5b)[^11] Az (5a) bekezdés alkalmazásában „Üzembe helyezési adatlapnak” minősül a felügyeleti szolgáltató által kiállított irat, amely tartalmazza az AFE telepítése, üzembe helyezése során fellépő, a telepítést, üzembe helyezést átmenetileg akadályozó műszaki problémák megnevezését és a felügyeleti szolgáltató és az üzemeltető aláírását.
+
+(6)[^12] A támogatás jogosulatlan igénybevétele esetén a felügyeleti szolgáltató köteles a kötelezettségszegéssel érintett AFE-ra igénybe vett támogatást az Áht. 53/A. § (2) bekezdése és az Ávr. 98. §-a szerinti ügyleti kamattal növelt összegben, a jogosulatlan igénybevételről szóló értesítés kézhezvételétől számított 14 napon belül visszafizetni a támogatói okiratban megjelölt számlára.
+
+(7) A támogatás késedelmes visszafizetése esetén a felügyeleti szolgáltató az Áht. 53/A. § (2) bekezdése és az Ávr. 98. §-a szerinti késedelmi kamat fizetésére köteles.
+
+(8) Az (5) bekezdés szerinti esetben a kezelő szerv a támogatás jogosulatlan igénybevételét az üzemeltető terhére állapítja meg azzal, hogy a jogkövetkezmények tekintetében a (6)–(7) bekezdésben foglaltakat az üzemeltetővel szemben megfelelően alkalmazni kell. Az üzemeltető a visszafizetési kötelezettségét a kezelő szerv által megjelölt számlára teljesíti.
+
+## 4. Állami támogatási szabályok
+
+### 12. §
+
+(1) A 10. §-ban meghatározott kedvezmény az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti, az üzemeltetőnek nyújtott állami támogatásnak minősül, amely a 4. §-ban meghatározott bizottsági rendeletek alapján nyújtható.
+
+(2) A felügyeleti szolgáltatónak és az üzemeltetőnek a támogatáshoz kapcsolódó iratokat a felügyeleti szolgáltatói szerződés létrejöttét követő 10 évig meg kell őriznie, és a kezelő szerv ilyen irányú felhívása esetén köteles azokat rendelkezésre bocsátani. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni, melyhez a felügyeleti szolgáltató adatszolgáltatást teljesít a kezelő szerv részére.
+
+### 13. §
+
+(1)[^13] Az üzemeltető a felügyeleti szolgáltatói szerződés megkötését követően, legkésőbb 2017. november 3-ig a felügyeleti szolgáltató részére átadja
+
+a) a köztartozásmentes adózói minőségéről szóló igazolást vagy nemleges adóigazolást,
+
+b) az 1. melléklet szerinti nyilatkozatát.
+
+(1a)[^14] Az (1) bekezdés szerinti határidő jogvesztő.
+
+(2) A felügyeleti szolgáltató az AFE telepítését megelőzően a (3)–(5) bekezdésben foglaltak szerint megállapítja, hogy az üzemeltető által a 10. § szerint igényelt kedvezményre a 4. § szerinti bizottsági rendeletek közül melyeket kell alkalmazni.
+
+(3) Ha az üzemeltető az 1. melléklet szerinti nyilatkozat 2. pontjában csak a *c)* vagy a *d)* lehetőséget jelöli meg, azaz a megállapított arányok alapján a 10. § szerinti teljes kedvezményt az 1407/2013/EU bizottsági rendelet alapján veszi igénybe, a felügyeleti szolgáltató a nyilatkozat alapján állapítja meg az üzemeltető szabad csekély összegű támogatási keretét, és ennek alapján állapítja meg, hogy az üzemeltető jogosult-e a 10. § szerinti kedvezményre, illetve annak teljes összegére.
+
+(4) Ha az üzemeltető az 1. melléklet szerinti nyilatkozat 2. pontjában a *c)* vagy a *d)* lehetőség mellett az *a)* vagy a *b)* lehetőséget is megjelöli, a felügyeleti szolgáltató a 10. § szerinti kedvezménynek a *c)*, illetve a *d)* lehetőségnél feltüntetett arány szerinti része vonatkozásában a (2) bekezdésnek megfelelően jár el.
+
+(5) Ha az üzemeltető az 1. melléklet szerinti nyilatkozat 2. pontjában az *a)* vagy a *b)* lehetőséget jelöli meg, a felügyeleti szolgáltató az 1408/2013/EU bizottsági rendelet, valamint a 717/2014/EU bizottsági rendelet szerinti szabad csekély összegű támogatási keretének ellenőrzése céljából adatokat kér az 1408/2013/EU bizottsági rendelet, illetve a 717/2014/EU bizottsági rendelet hatálya alá tartozó csekély összegű támogatások nyilvántartását kezelő szervtől, és a kapott adatok alapján állapítja meg a 10. § szerinti kedvezményre való jogosultságot.
+
+(6) A felügyeleti szolgáltató a (3)–(5) bekezdés szerinti ellenőrzés eredményéről az üzemeltetőt írásban értesíti a 2. melléklet szerinti igazolás megküldésével.
+
+(7) A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor a támogatás igénybevételének jogát a kedvezményezett üzemeltetőre ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától. A 10. § szerinti kedvezmény a (6) bekezdés szerinti igazolás keltének időpontjában minősül odaítéltnek.
+
+## 5. Az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
+
+### 14. §
+
+(1) Az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozás esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás mértékének megállapítása során az adott pénzügyi évben, valamint az előző két pénzügyi év (a továbbiakban: pénzügyi időszak) alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A támogatás az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet szerinti csekély összegű támogatásokkal az (1) bekezdésben meghatározott felső határig halmozható.
+
+(4) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+## 6. Az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
+
+### 15. §
+
+(1) Az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás odaítélése során a pénzügyi időszak alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikkének (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint a halászati és akvakultúra ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelő ágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások a 717/2014/EU bizottsági rendeletben rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel a 717/2014/EU bizottsági rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+## 7. A 717/2014/EU bizottsági rendelet szerinti csekély összegű támogatás
+
+### 16. §
+
+(1) A 717/2014/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozásnak minősülő vállalkozások részére a 717/2014/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 30 000 eurónak megfelelő forintösszeget, figyelembe véve a 717/2014/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás odaítélése során a pénzügyi időszak alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A halászati és akvakultúra-ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a halászati és akvakultúra-ágazatra tekintettel a 717/2014/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy a halászati és akvakultúra-ágazati tevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) A halászati és akvakultúra-ágazatban, valamint a mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban egyaránt tevékenységet folytató vállalkozások esetében a halászati és akvakultúra-ágazatra tekintettel a 717/2014/EU bizottsági rendelet alapján nyújtott támogatások az 1408/2013/EU bizottsági rendeletben rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel a 717/2014/EU bizottsági rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy a halászati és akvakultúra-ágazati tevékenység ne részesüljön az 1408/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+## 8. Záró rendelkezések
+
+### 17. §
+
+Ez a rendelet a kihirdetése napján 18 órakor lép hatályba.
+
+### 18. §
+
+A felügyeleti szolgáltató támogatás iránti kérelmet legkorábban e rendelet hatálybalépését követő 8. napon nyújthat be.
+
+### 19. §
+
+Ez a rendelet
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet, valamint
+
+c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+
+hatálya alá tartozó támogatást tartalmaz.
+
+### 20. §[^15]
+
+(1) A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet és az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet módosításáról szóló 36/2017. (X. 31.) NGM rendelet (a továbbiakban: Mód. rendelet) 2. §-ával megállapított 5. § (3) bekezdés b) pontját, 3. §-ával megállapított 5. § (8) bekezdés b) pontját és a 4. §-ával megállapított 11. § (6) bekezdését a Mód. rendelet hatálybalépésekor[^16] már benyújtott kérelmekre, valamint a kiállított támogatói okiratokra is alkalmazni kell.
+
+(2) A Mód. rendelet 8. §-ával hatályon kívül helyezett 6. §-t a Mód. rendelet hatálybalépésekor[^17] már benyújtott kérelmekre, valamint a kiállított támogatói okiratokra sem kell alkalmazni.
+
+### 23. §[^20]
+
+E rendeletnek az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet és az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet módosításáról szóló 5/2018. (VI. 29.) PM rendelettel (a továbbiakban: Mód2. rendelet) megállapított 5. § (7a) bekezdését, 8. § (2) és (3) bekezdését, 11. § (2), (5a) és (5b) bekezdését a Mód2. rendelet hatálybalépésekor[^21] folyamatban lévő jogviszonyokra és eljárásokra is alkalmazni kell.
+
+## 1. melléklet a 20/2017. (VII. 31.) NGM rendelethez
+
+**Nyilatkozat a csekély összegű támogatás igénybevételéhez**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | Név: |  |
+| **2** | Székhely: |  |
+| **3** | Levelezési cím (ha eltér a székhelytől): |  |
+| **4** | Adószám: |  |
+| **5** | Cégjegyzékszám: |  |
+| **6** | Jogi személy képviselője: |  |
+| **7** | Jogi személy kapcsolattartó ügyintézője: |  |
+
+2\. A támogatással érintett tevékenység típusa
+
+(jelölje X-szel; legalább egy lehetőséget meg kell jelölni)
+
+a) A kedvezményezett elsődleges mezőgazdasági termeléssel[^22] foglalkozik, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+
+Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
+
+b) A kedvezményezett halászati és akvakultúra-ágazathoz[^23] sorolható tevékenységet folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+
+Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
+
+c) A kedvezményezett ellenszolgáltatás fejében végzett közúti kereskedelmi árufuvarozási tevékenységet is folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+
+Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
+
+d) A kedvezményezett egyéb, az a)–c) pontban meg nem jelölt tevékenysége(ke)t (is) folytat, és az AFE-t e tevékenység(ei)hez kapcsolódóan (is) fel fogja használni.
+
+Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
+
+3\. Nyilatkozat az egy és ugyanazon vállalkozásokról
+
+<table><tbody><tr><td>1</td><td>A</td><td>B</td></tr><tr><td>2</td><td colspan="2">Nyilatkozom, hogy az 1407/2013/EU bizottsági rendelet, a 717/2014/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése<sup>3</sup> értelmében a kedvezményezett az alábbi vállalkozásokkal minősül egy és ugyanazon vállalkozásnak.</td></tr><tr><td>3</td><td>Vállalkozás neve</td><td>Adószáma</td></tr><tr><td>4</td><td></td><td></td></tr><tr><td>5</td><td></td><td></td></tr><tr><td>6</td><td></td><td></td></tr><tr><td>7</td><td></td><td></td></tr></tbody></table>
+
+4\. Nyilatkozat az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás igényléséhez [a nyilatkozat akkor töltendő ki, ha a 2. pontban a c) és/vagy d) lehetőséget (is) megjelölte a kedvezményezett]
+
+Ezúton nyilatkozom a kedvezményezett nevében, hogy a folyó pénzügyi évben és az azt megelőző két pénzügyi év során a kedvezményezett, továbbá az olyan vállalkozások, amelyekkel a kedvezményezett az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése alapján egy és ugyanazon vállalkozásnak minősül, Magyarországon a következő csekély összegű támogatás(ok)ban részesültek.
+
+Nyilatkozatom arra is kiterjed, hogy a kedvezményezett, továbbá az olyan vállalkozások, amelyekkel a kedvezményezett egy és ugyanazon vállalkozásnak minősül, milyen csekély összegű támogatás(ok)ra nyújtottak be támogatási kérelmet (az elutasított kérelmekről nem kell nyilatkozni, csak azokról, amelyek elbírálása folyamatban van).
+
+Nyilatkozatom az 1407/2013/EU bizottsági rendelet 3. cikk (8)–(9) bekezdéseiben írtak betartásához szükséges adatokat is tartalmazza.[^24]
+
+Csekély összegű támogatások[^25]
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td colspan="2">H</td><td colspan="2">I</td></tr><tr><td rowspan="2">1</td><td rowspan="2">Sor-<br>szám</td><td rowspan="2">Támogatás jogalapja (bizottsági rendelet száma)</td><td rowspan="2">Támogatást nyújtó szervezet</td><td rowspan="2">Támogatás kedvezményezettje és célja</td><td rowspan="2">A támogatást ellenszolgáltatás fejében végzett közúti kereskedelmi árufuvarozáshoz<br>vette igénybe?</td><td rowspan="2">Kérelem benyújtásának dátuma<sup>6</sup></td><td rowspan="2">Odaítélés dátuma<sup>7</sup></td><td colspan="2">Támogatás összege</td><td colspan="2">Támogatás bruttó támogatástartalma<sup>8</sup></td></tr><tr><td>Forint</td><td>Euró</td><td>Forint</td><td>Euró</td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Nyilatkozom, hogy a kedvezményezett aláírásra jogosult képviselője vagyok, és a fent megadott adatok helyesek. Hozzájárulok ahhoz, hogy a fenti adatokat a tárgyban illetékes szerveknek az adatkezelő átadja.
+
+Tudomásul veszem, hogy amennyiben a nyilatkozat kelte és a támogatás odaítélése[^26] közötti időszakban egyéb csekély összegű vagy a támogatáshalmozás szempontjából figyelembe veendő más támogatást ítélnek oda a kedvezményezett számára, a kedvezményezett erről haladéktalanul – még a jelen nyilatkozat szerinti támogatás odaítélése előtt – értesíteni köteles a felügyeleti szolgáltatót, és köteles megfelelően módosított adattartalommal újból kiállítani a jelen nyilatkozatot.
+
+Kelt: 2017.
+
+Kérelmező\
+(aláírásra jogosult képviselő)
+
+## 2. melléklet a 20/2017. (VII. 31.) NGM rendelethez
+
+**I. **Igazolás csekély összegű támogatásról****
+
+Alulírott …… a …… mint a támogatást az annak címzettje felé kedvezmény formájában biztosító ezúton igazolom, hogy a …… mint kedvezményezett …… bizottsági rendelet (HL ……, dátum, oldal) (a továbbiakban: …… bizottsági rendelet) alapján a következő csekély összegű támogatásban részesül:
+
+Projekt megnevezése:
+
+Támogatás odaítélésének időpontja:
+
+A támogatás bruttó támogatástartalma jelenértéken:
+
+A jelen támogatással érintett célra a(z) …… bizottsági rendelet alapján …… eurónak[^10.] megfelelő forintösszeg nyújtható.
+
+Jelen igazolást a(z) …… bizottsági rendelet 6. cikk (1) bekezdése alapján állítottam ki.
+
+Kelt, ……
+
+……………………………………………………………\
+Támogatást kedvezmény formájában nyújtó szervezet\
+(aláírás, pecsét)
+
+**II. **Kötelezettségvállalás****
+
+Alulírott …… ezúton kötelezettséget vállalok arra, hogy a …… mint kedvezményezett részére az I. pont szerinti bizottsági rendelet alapján …… Ft összegű de minimis támogatásnak megfelelő kedvezményt biztosítok az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet 10. §-a alapján.
+
+Kelt, ……
+
+……………………………………………………………\
+Támogatást kedvezmény formájában nyújtó szervezet\
+(aláírás, pecsét)
+
+## 3. melléklet a 20/2017. (VII. 31.) NGM rendelethez[^27]
+
+---
+
+[^1]: Az 5. § (3) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 5. § (7a) bekezdését az 5/2018. (VI. 29.) PM rendelet 3. §-a iktatta be.
+[^3]: Az 5. § (8) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 7. § (2) bekezdés a) pontja a 36/2017. (X. 31.) NGM rendelet 7. § 1. pontja szerint módosított szöveg.
+[^6]: A 8. § (2) bekezdése az 5/2018. (VI. 29.) PM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 8. § (3) bekezdése az 5/2018. (VI. 29.) PM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 9. § (1) bekezdés nyitó szövegrésze a 36/2017. (X. 31.) NGM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^9]: A 11. § (2) bekezdése az 5/2018. (VI. 29.) PM rendelet 5. §-ával megállapított szöveg.
+[^10]: A 11. § (5a) bekezdését az 5/2018. (VI. 29.) PM rendelet 6. §-a iktatta be.
+[^11]: A 11. § (5b) bekezdését az 5/2018. (VI. 29.) PM rendelet 6. §-a iktatta be.
+[^12]: A 11. § (6) bekezdése a 36/2017. (X. 31.) NGM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 13. § (1) bekezdés nyitó szövegrésze a 36/2017. (X. 31.) NGM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^14]: A 13. § (1a) bekezdését a 36/2017. (X. 31.) NGM rendelet 5. §-a iktatta be.
+[^15]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2017. (X. 31.) NGM rendelet 6. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2017. november 1.
+[^17]: A hatálybalépés időpontja 2017. november 1.
+[^20]: A 23. §-t az 5/2018. (VI. 29.) PM rendelet 7. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2018. június 30.
+[^22]: Az Európai Unió működéséről szóló Szerződés I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet.
+[^23]: Az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek előállítása, feldolgozása és forgalmazása.
+[^24]: Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad. Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
+[^25]: Az egyesülésre és szétválásra vonatkozó szabályok, valamint és az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.
+[^26]: A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor az alkalmazandó nemzeti jogrendszer értelmében a támogatás igénybevételének jogát a kedvezményezett vállalkozásra ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától.
+[^10.]: A forintban meghatározott összegek euróra történő átszámításánál az e Rendelet kihirdetésének napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
+[^27]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

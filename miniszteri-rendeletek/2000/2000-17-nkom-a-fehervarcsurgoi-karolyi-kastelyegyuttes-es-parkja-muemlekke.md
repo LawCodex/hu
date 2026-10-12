@@ -1,0 +1,90 @@
+---
+title: "17/2000. (XII. 1.) NKÖM rendelet a fehérvárcsurgói Károlyi-kastélyegyüttes és parkja műemlékké nyilvánításáról"
+identifier: "17/2000. (XII. 1.) NKÖM rendelet"
+njt_id: "2000-17-20-86"
+eli: "https://njt.jog.gov.hu/eli/R/2000/NKOM/17"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-01
+in_force_from: 2000-12-09
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-17-20-86"
+retrieved: 2026-10-12
+---
+
+# 17/2000. (XII. 1.) NKÖM rendelet a fehérvárcsurgói Károlyi-kastélyegyüttes és parkja műemlékké nyilvánításáról
+
+A műemlékvédelemről szóló 1997. évi LIV. törvény 60. §-a (2) bekezdésének c) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
+
+## 1. §
+
+(1)[^1] Műemlékké nyilvánítom a Fejér vármegyei Fehérvárcsurgó községben lévő Károlyi-kastélyegyütteshez tartozó 591, 592, 610/1, 610/2, 610/3, 610/4, 611, 612, 618 helyrajzi számú ingatlanokat.
+
+(2)[^2] Műemlékké nyilvánítom a Fejér vármegyei Fehérvárcsurgó községben lévő Károlyi-kastélyegyütteshez tartozó, az Országos Műemléki Felügyelőség 3.457/89. sz. határozata alapján műemléki környezetként nyilvántartott 023/5, 023/6 és 615/1 helyrajzi számú ingatlanokat.
+
+(3) A fehérvárcsurgói kastélyegyüttes műemléki védelme az (1) és (2) bekezdésben meghatározott ingatlanokkal, valamint az ÉM 1620–58/1950. számú határozatával műemlékké nyilvánított, korábban 023/4 hrsz. alatt nyilvántartott kastélyépülettel együtt a *mellékletben* felsorolt ingatlanokra terjed ki.
+
+(4) A műemléki védelem az ingatlanok teljes területére, az azokon lévő épületekre, építményekre és ezek tartozékaira terjed ki.
+
+(5)[^3] A kastélyegyüttes műemléki környezeteként a Fejér vármegyei Fehérvárcsurgó községben lévő 587, 588, 589, 590, 593, 596, 597, 598/1, 598/2, 616 és 617 helyrajzi számú ingatlanokat jelölöm ki.
+
+## 2. §
+
+(1)[^4] A Fejér vármegyei Fehérvárcsurgó községben lévő 591, 592, 610/1, 610/2, 610/3, 610/4, 611, 612, 615/1, 618 hrsz.-ú ingatlanok tekintetében az államot elővásárlási jog illeti meg.
+
+(2) A jelen rendelettel érintett egyedi védettségű épületeket, ingatlanokat a műemlékvédelmi bírság alapjául szolgáló érték szempontjából I. kategóriába sorolom.
+
+(3) A védett épületeken, ingatlanokon reklám csak a műemlékvédelmi hatóság engedélyével helyezhető el.
+
+(4) A védelem célja az 1844-ben, E. Heinrich Koch tervei alapján épült késő klasszicista Károlyi-kastély, a hozzá tartozó történeti kert és majorterület, az azokon lévő uradalmi melléképületek, kerti építmények építészeti, belsőépítészeti és kertépítészeti értékeinek megőrzése.
+
+## 3. §
+
+A műemléki védelem alatt álló épületek és ingatlanok fenntartásáról, jó karban tartásáról a műemlék tulajdonosa, vagyonkezelője, illetve a tulajdonosi jogok gyakorlója, továbbá jogszabályban meghatározott esetekben ingyenes használója köteles gondoskodni, a műemlékvédelemről szóló 1997. évi LIV. törvény szerint.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## Melléklet a 17/2000. (XII. 1.) NKÖM rendelethez
+
+A fehérvárcsurgói Károlyi-kastélyegyüttes és parkja műemléki védettsége az alábbi ingatlanokra terjed ki:
+
+--------------------
+
+Helyrajzi szám | Terület (m<sup>2</sup>)
+
+--------------------
+
+591 | 338 transzformátorház
+
+592 | 1 280 majorterület, egykor a mosóház kertje
+
+610/1 | 471 a történeti kerthez tartozó majorterület
+
+610/2 | 18 280 a történeti kerthez tartozó majorterület
+
+610/3 | 1 372 a történeti kerthez tartozó majorterület
+
+610/4 | 19 871 a történeti kerthez tartozó majorterület
+
+611 | 3 314 nagyistálló
+
+612 | 1 457 mosóház
+
+615/1 | 2 878 a nagyistálló előtti kert
+
+618 | 653 kapusépület
+
+023/5 | 222 709 kastélyépület a történeti kerttel, kerti építményekkel
+
+023/6 | 209 670 történeti kert, benne csikóistálló és erdészház
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 6/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 6/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdése a 6/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdése a 6/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

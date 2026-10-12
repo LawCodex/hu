@@ -1,0 +1,813 @@
+---
+title: "9/2000. (VIII. 4.) SZCSM rendelet a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról"
+identifier: "9/2000. (VIII. 4.) SZCSM rendelet"
+njt_id: "2000-9-20-85"
+eli: "https://njt.jog.gov.hu/eli/R/2000/SZCSM/9"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2000-08-04
+in_force_from: 2008-05-16
+last_amended: 2025-07-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-9-20-85"
+retrieved: 2026-10-12
+---
+
+# 9/2000. (VIII. 4.) SZCSM rendelet a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról
+
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. §-a (2) bekezdésének f) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
+
+## Szakmai továbbképzés
+
+### 1. §[^1]
+
+(1) E rendelet alkalmazásában
+
+1\. *főállás:* több egyidejűleg fennálló munkaviszony vagy közalkalmazotti jogviszony esetén az a jogviszony, amelyben a munkaidő hosszabb, azonos hosszúságú munkaidejű munkaviszonyok vagy közalkalmazotti jogviszonyok esetén pedig az a jogviszony, amelyiket korábban létesítették;
+
+2\. *képesítéshez kötött tevékenység:* képesítési előíráshoz kötött tevékenység
+
+a) a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet,
+
+b) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet vagy
+
+c) a javítóintézetek rendtartásáról szóló 1/2015. (I. 14.) EMMI rendelet
+
+alapján;
+
+3\. *személyes gondoskodást végző személy:* az a személy, aki
+
+a) képesítéshez kötött tevékenységet főállásban, munkaviszonyban vagy közalkalmazotti jogviszonyban, nevelőszülői foglalkoztatási jogviszonyban vagy egyéni vállalkozás keretében végez, és
+
+b) a képesítési előírásoknak megfelelő szakképesítéssel rendelkezik.
+
+4.[^2] *kötelező továbbképzés:* olyan szakmai továbbképzés, amely a teljes ágazat tekintetében szükséges, lényeges alapkompetenciák megszerzésére irányul;
+
+5.[^3] *munkakörhöz kötött továbbképzés:* olyan szakmai továbbképzés, amely az adott munkakörhöz, illetve az adott munkakör esetében érintett ellátotti csoportokhoz kapcsolódó speciális, módszerspecifikus ismeretek megszerzésére irányul;
+
+6.[^4] *választható továbbképzés:* olyan szakmai továbbképzés, amely az egyéni érdeklődés figyelembevételével az önismeret, az egyéni kompetenciák vagy egyéb speciális ismeretek megszerzését célozza.
+
+(2) A személyes gondoskodást végző személy – a (3) és (4) bekezdésben foglalt kivétellel – folyamatos szakmai továbbképzésben köteles részt venni (a továbbiakban: továbbképzésre kötelezett).
+
+(3)[^5] E rendelet hatálya – a (4) bekezdésben foglalt kivétellel – nem terjed ki a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett, személyes gondoskodást végző személyre.
+
+(4)[^6] A személyes gondoskodást végző személy mentesül a továbbképzési kötelezettség alól, ha
+
+a) a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett,
+
+b) a reá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra,
+
+c) heti 15 óránál kevesebb időtartamban végez személyes gondoskodást, vagy
+
+d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 165. § (2) bekezdés b) pontja alapján vagy a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendelet alapján a nevelőszülő-képesítés megszerzése alól mentesül.
+
+### 2. §
+
+(1)[^7] A továbbképzési kötelezettség minősített továbbképzésen való részvétellel és a program szerinti feltételek teljesítésével teljesíthető. A továbbképzés továbbképzési időszakokban történik. A továbbképzési időszak tartama négy év. A továbbképzési időszak kezdete a személyes gondoskodást nyújtó személy munkába állásának, foglalkoztatása megkezdésének napja, egyéni vállalkozói tevékenységet végző személy esetén a tevékenység megkezdésének napja. Ha a képesítéshez kötött tevékenységet főállásban munkaviszonyban vagy közalkalmazotti jogviszonyban vagy nevelőszülői foglalkoztatási jogviszonyban végző személy a képesítési előírásnak megfelelő szakképesítést a munkába állását, foglalkoztatása megkezdését követően szerzi meg, továbbképzési időszakának kezdete a szakképesítés megszerzésének napja. Ha az egyéni vállalkozói tevékenységet végző személy a képesítési előírásnak megfelelő szakképesítést a tevékenység megkezdését követően szerzi meg, a továbbképzési időszakának kezdete a szakképesítés megszerzésének napja.
+
+(2)[^8] A továbbképzési időszak megszakad, ha a továbbképzésre kötelezettnek az 1. § (1) bekezdés 3. pont a) alpontja szerinti munkaviszonya, közalkalmazotti jogviszonya vagy nevelőszülői foglalkoztatási jogviszonya megszűnik, illetőleg az egyéni vállalkozói tevékenységgel felhagy. Ha a továbbképzési időszak megszakadását követő egy éven belül a továbbképzésre kötelezett újólag az 1. § (1) bekezdés 2. pontjában megjelölt képesítéshez kötött tevékenységbe kezd, illetőleg arra vonatkozóan munkaviszonyt, közalkalmazotti jogviszonyt vagy nevelőszülői foglalkoztatási jogviszonyt létesít, a továbbképzési időszak továbbfolytatódik, és a megszakadásig megszerzett pontokat a továbbképzési pontok teljesítésekor [3. § (2) bekezdés] figyelembe kell venni.
+
+(2a)[^9] A továbbképzési időszak megszakad, ha a továbbképzésre kötelezett a Vkr. szerinti vezetőképzés teljesítésére válik kötelezetté. Ha az érintett személy a továbbképzési időszak megszakadását követő egy éven belül ismét e rendelet szerinti továbbképzésre válik kötelezetté, a továbbképzési időszak tovább folytatódik, és a továbbképzési időszak megszakadásig szerzett pontokat a továbbképzési pontok teljesítésekor figyelembe kell venni.
+
+(3)[^10] A továbbképzési időszakba – a (4) bekezdésben meghatározott kivétellel – nem számít bele az az idő, amely alatt a továbbképzésre kötelezett szülési szabadságot, három hónapot meghaladóan fizetés nélküli szabadságot vagy hat hónapot meghaladóan táppénzt, baleseti táppénzt vesz igénybe (a továbbiakban: szünetelés).
+
+(4)[^11] Ha a szünetelés ideje alatt a továbbképzésre kötelezett megszerzi a 3. § (2)–(3a) bekezdésében és a 3/A. §-ban rá irányadóan meghatározott pontokat, ezzel teljesíti továbbképzési kötelezettségét, és a szünetelés időtartama teljes egészébe beszámít a továbbképzési időszakba.
+
+(5)[^12] Ha a szünetelés ideje alatt a továbbképzésre kötelezett a 3. § (2)–(3a) bekezdésében és a 3/A. §-ban rá irányadóan meghatározott pontoknak csak egy részét szerzi meg, a szünetelés időtartama nem számít be a továbbképzési időszakba, de a megszerzett pontokat a szünetelés után figyelembe kell venni.
+
+(6) Teljesíti a továbbképzési kötelezettségét az, aki az adott továbbképzési időszak alatt
+
+a) a munkaköréhez kapcsolódó területen
+
+aa)[^13] az Országos Képzési Jegyzékben, szakmajegyzékben szereplő szakképesítést, felnőttképzés keretében szakképesítést vagy felsőfokú alapképzésben oklevelet szerez,
+
+ab) felsőfokú végzettség esetén kiegészítő alapképzésben vagy szakirányú továbbképzésben második vagy további oklevelet szerez,
+
+ac) tudományos fokozatot szerez;
+
+ad)[^14] vezetői munkakörben dolgozik, és a foglalkoztató intézmény vezetőjének engedélyével a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet (a továbbiakban: Vkr.) szerinti vezetőképzés alapozó képzésének keretében annak sikeres elvégzéséről tanúsítványt szerez, ideértve a Vkr. 1. § (1) bekezdése szerinti személyeken túl a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény vezetőjének helyettesét, gazdasági vezetőjét, vezető szakápolóját, valamint az integrált és a közös igazgatású intézmény önálló szervezeti egységének vezetőhelyettesét is;
+
+ae)[^15] gondozó, ápoló vagy terápiás munkatárs munkakörben dolgozik, és a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés a) vagy b) pontja szerinti szociális ágazati képzés sikeres elvégzéséről tanúsítványt szerez;
+
+b)[^16] pedagógus-munkakörben történő foglalkoztatás esetén pedagógus szakvizsgát tesz.
+
+(7)[^17] Azon személyek számára, akik az előírt továbbképzési időszak vége előtt teljesítették a továbbképzési kötelezettségüket, az új továbbképzési időszak csak az előírt továbbképzési időszak letelte után indul.
+
+### 3. §
+
+(1) A továbbképzési kötelezettség teljesítésének mérése pontozással (a továbbiakban: továbbképzési pontérték) történik.
+
+(2)[^18] A továbbképzésre kötelezettnek egy továbbképzési időszak alatt felsőfokú végzettség esetén 80, egyéb szakképesítés, szakmai végzettség és segítő munkakörben legalább befejezett 8 általános iskolai végzettség esetén 60 pontot kell megszereznie.
+
+(3)[^19] Ha a továbbképzésre kötelezett más jogszabály alapján is köteles továbbképzésben részt venni és ezen kötelezettségének eleget tett, csak a (2) bekezdésben meghatározott pontok felét kell megszereznie. Ez a kedvezmény csak akkor érvényesül, ha a továbbképzésre kötelezett a más jogszabály alapján teljesített továbbképzést az adott továbbképzési időszak alatt, vagy az azt közvetlenül megelőző egy éven belül teljesíti. A más jogszabály alapján teljesített továbbképzés teljesítési idejének meghatározásakor a továbbképzésen történő részvételről kiállított igazolás, illetve bizonyítvány kiállításának az időpontja az irányadó.
+
+(3a)[^20] A (3) bekezdésben foglaltaktól eltérően a szakápolási központban szakápoló, vezető szakápoló munkakörben foglalkoztatottaknak a (2) bekezdésben meghatározott pontok 40%-át kell megszerezniük, az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet szerinti egészségügyi szakmai továbbképzési kötelezettségük mellett.
+
+(4)[^21] Továbbképzési pontérték az (5) bekezdésben meghatározott, érvényes minősítéssel rendelkező minősített továbbképzési programokon történő részvétellel szerezhető. Ugyanazon minősített továbbképzési programon megszerzett továbbképzési pont az adott továbbképzési időszakban csak egyszer vehető figyelembe.
+
+(5)[^22] A minősített továbbképzési programok típusai a következők:
+
+a)[^23] *szakmai tanfolyam:* az elméleti és gyakorlati foglalkozások keretében egyes szakmai témaköröket legalább 20 órában feldolgozó, számonkéréssel végződő képzés, amelyen való részvétellel legalább 20, legfeljebb 50 továbbképzési pont szerezhető;
+
+b)[^24] *szakmai személyiségfejlesztő foglalkozás:* a szakmai önismeretet, készséget, képességet fejlesztő legalább 25 órából álló csoportmunkát – ideértve az esetmegbeszélő és szupervíziós csoportot is – feltételező foglalkozás, amelyen való részvétellel legalább 25, legfeljebb 35 továbbképzési pont szerezhető;
+
+c)[^25] *szakmai tanácskozás:* a szociálpolitika, a gyermekvédelem vagy a gyermekjóléti, illetőleg a szociális gondoskodás témakörében szervezett legalább öt előadásból álló rendezvény, amelyen való részvétellel legalább 5, legfeljebb 10 továbbképzési pont szerezhető;
+
+d)[^26] *külföldi vagy hazai tanulmányút:* egy adott szakmai téma tanulmányozására, gyakorlati tapasztalatok elsajátítására szervezett legalább háromnapos tapasztalatcsere, amelyen való részvétellel legalább 10, legfeljebb 20 továbbképzési pont szerezhető;
+
+e)[^27] *szakmai műhely:* egy év alatt legalább hat fórumot (találkozást) tartó, alkalmanként egy-egy szakmai témát napirendre tűző rendezvénysorozat, amelyen négy vagy több alkalommal való részvétellel legalább 10, legfeljebb 20 továbbképzési pont szerezhető;
+
+f)[^28] *szakmai e-learning:* elméleti, illetve gyakorlati tartalmú kurzus, egyes szakmai témaköröket legalább 5 órában feldolgozó és számonkéréssel végződő továbbképzés, amelyen való részvétellel legalább 4, legfeljebb 20 továbbképzési pont szerezhető;
+
+g)[^29] *szakmai blended-learning:* egyes szakmai témaköröket legalább 4-4 órás személyes kontakt óra és online foglalkozás keretében feldolgozó, számonkéréssel végződő továbbképzés, amelyen való részvétellel legalább 4, legfeljebb 20 továbbképzési pont szerezhető;
+
+h)[^30] *szakmai terepgyakorlati továbbképzés:* egyes szakmai témaköröket az oktató által a hallgatóra bízott szakmai feladatok elvégzésével egyidejűleg, terepgyakorlatok keretében, legalább 5 órában feldolgozó, számonkéréssel végződő továbbképzés, amelyen való részvétellel legalább 4, legfeljebb 20 továbbképzési pont szerezhető.
+
+(6)[^31]
+
+(7)[^32] A továbbképzés szervezője a minősített továbbképzési programon való részvételről, illetve a program szerinti feltételek teljesítéséről az 1. számú melléklet szerinti igazolást adja ki.
+
+### 3/A. §[^33]
+
+(1) A továbbképzésre kötelezettnek – a (2) bekezdésben foglalt kivétellel – a továbbképzési kötelezettsége teljesítéséhez a 3. § (2)–(3a) bekezdésében előírt továbbképzési pontok legalább 20%-át kötelező továbbképzés teljesítésével kell megszereznie. A továbbképzésre kötelezett a fennmaradó továbbképzési pontokat megszerezheti kötelező, bármely munkakörhöz kötött vagy választható továbbképzés teljesítésével, azzal, hogy választható továbbképzés teljesítésével legfeljebb az előírt továbbképzési pontok 40%-a teljesíthető.
+
+(1a)[^34] A kötelező továbbképzések listáját a típus feltüntetésével, valamint – a továbbképzésben érintett munkakörök megjelölésével – a munkakörhöz kötött továbbképzések listáját a szociális szolgáltatások tekintetében a szociálpolitikáért felelős miniszter, a gyermekek napközbeni ellátása és a területi gyermekvédelmi szakszolgáltatás örökbefogadással összefüggő feladatai tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter, egyéb gyermekjóléti és gyermekvédelmi szolgáltató tevékenység esetén a gyermekek és az ifjúság védelméért felelős miniszter határozza meg, és azokat a Szociális Ágazati Portálon közzéteszi.
+
+(2) A továbbképzési időszak kezdőnapján az 1/A. számú melléklet szerinti munkakört betöltő továbbképzésre kötelezettnek (a továbbiakban: munkakörhöz kötött továbbképzésre kötelezett) a továbbképzési kötelezettsége teljesítéséhez a 3. § (2), illetve (3) bekezdésében előírt továbbképzési pontok
+
+a) legalább 20%-át kötelező továbbképzés és
+
+b) legalább 40%-át a továbbképzési időszak kezdőnapján betöltött munkakörhöz kötött továbbképzés
+
+teljesítésével kell megszereznie.
+
+(3) A munkakörhöz kötött továbbképzésre kötelezett a 3. § (2), illetve (3) bekezdésében előírt továbbképzési pontoknak a (2) bekezdésben foglaltakon túl fennmaradó részét megszerezheti kötelező, bármely munkakörhöz kötött vagy választható továbbképzés teljesítésével.
+
+(4)[^35]
+
+(5) Ha a továbbképzésre kötelezett ugyanazon jogviszony keretében egyidejűleg több képesítéshez kötött tevékenység végzésére irányuló munkakört tölt be, vagy egyéni vállalkozóként egyidejűleg több képesítéshez kötött tevékenységet végez, és valamelyik munkaköre vagy tevékenysége tekintetében munkakörhöz kötött továbbképzésre kötelezett, akkor az ahhoz kapcsolódó munkakörhöz kötött továbbképzést kell teljesítenie.
+
+(6) Ha a továbbképzésre kötelezett ugyanazon jogviszony keretében egyidejűleg több képesítéshez kötött tevékenység végzésére irányuló munkakört tölt be, vagy egyéni vállalkozóként egyidejűleg több képesítéshez kötött tevékenységet végez, és mindegyik munkaköre, tevékenysége vagy több munkaköre, tevékenysége tekintetében lenne munkakörhöz kötött továbbképzésre kötelezett, akkor a legmagasabb óraszámban ellátott munkakörhöz vagy tevékenységhez kapcsolódó munkakörhöz kötött továbbképzést kell teljesítenie. Ha az ellátott munkakörök vagy tevékenységek óraszáma megegyező, akkor a munkáltató vagy az egyéni vállalkozó választása szerinti munkakörhöz, tevékenységhez kapcsolódó munkakörhöz kötött továbbképzést kell teljesítenie.
+
+(7) A továbbképzési kötelezettség teljesítésének feltétele, hogy a továbbképzésre kötelezett a továbbképzési időszakban legalább egy olyan szakmai tanfolyamon részt vesz, és annak feltételeit teljesíti, amely tekintetében a 2. számú melléklet szerint közzétett közvetlenül érintett ellátotti csoport – a tanfolyamra jelentkezés időpontjában – megegyezik a továbbképzésre kötelezett által gondozott ellátotti csoporttal.
+
+### 4. §
+
+(1)[^36] Minősített választható továbbképzési programot bármely természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet szervezhet. Minősített kötelező továbbképzési programot a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) és az egyházi módszertani kijelöléssel rendelkező egyház szervezhet. Minősített munkakörhöz kötött továbbképzési programot az NSZI, az egyházi módszertani kijelöléssel rendelkező egyház, továbbá – az 1/A. számú melléklet I. pont 16–18. alpontja szerinti munkakörök tekintetében – a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság, a Magyar Bölcsődék Egyesülete, illetve a Magyar Bölcsődék Egyesülete által megbízott természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet szervezhet.
+
+(1a)[^37] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok kidolgozását, folyamatos tartalmi frissítését és háromévenkénti felülvizsgálatát az NSZI vagy az egyházi módszertani intézmény – az 1/A. számú melléklet I. pont 16–18. alpontja szerinti munkakörök tekintetében a Magyar Bölcsődék Egyesületével együtt – végzi.
+
+(1b)[^38] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok kidolgozása, folyamatos tartalmi frissítése és háromévenkénti felülvizsgálata eredményeként létrejött továbbképzési programokat az NSZI szervezeti keretein belül működő Szociális Továbbképzési Minősítő Testület (a továbbiakban: Testület) fogadja el.
+
+(1c)[^39] A továbbképzési programok minősítését és pontértékeinek meghatározását a Testület az Ügyrendjében és e rendeletben meghatározottak szerint végzi. Az egyházi módszertani kijelöléssel rendelkező egyház, illetve képző intézménye a szociális továbbképzési programjába beépíti a vallási, világnézeti elkötelezettségének megfelelő ismereteket. A minősített továbbképzési programok pontértékét a vallási, világnézeti elkötelezettségnek megfelelő ismeretek jellegétől és mennyiségétől függetlenül kell megállapítani, a képzés e része tekintetében a Testület az eljárásában csak azt vizsgálja, hogy biztosítottak-e a képzés tárgyi feltételei.
+
+(2)[^40] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok – ideértve a felülvizsgálat eredményeként módosított továbbképzési programokat – meghirdetését és közzétételét a szociális szolgáltatások tekintetében a szociálpolitikáért felelős miniszter, a gyermekek napközbeni ellátása és a területi gyermekvédelmi szakszolgáltatás örökbefogadással összefüggő feladatai tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter, egyéb gyermekjóléti és gyermekvédelmi szolgáltató tevékenység esetén a gyermekek és az ifjúság védelméért felelős miniszter hagyja jóvá.
+
+(2a)[^41] A Testület a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján pedagógus-továbbképzésként akkreditált, továbbá az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett továbbképzések esetén egyszerűsített minősítést végez, melynek során a program továbbképzési pontértékét határozza meg.
+
+(3)[^42] A minősítés három évre érvényes
+
+a) szakmai tanfolyam,
+
+b) szakmai személyiségfejlesztő foglalkozás,
+
+c) szakmai e-learning,
+
+d) szakmai blended-learning és
+
+e) szakmai terepgyakorlati továbbképzés
+
+esetén.
+
+(3a)[^43] A minősítés egy évre érvényes
+
+a) szakmai tanácskozás,
+
+b) külföldi vagy hazai tanulmányút és
+
+c) szakmai műhely
+
+esetén.
+
+(4)[^44] A továbbképzési program minősítése a program benyújtásával egyidejűleg kérhető. A minősítési kérelmet elektronikusan, az NSZI honlapján és a Szociális Ágazati Portálon közzétett formátumban kell a Testület részére benyújtani.
+
+(5)[^45] A továbbképzési program minősítési díja
+
+a)[^46] szakmai tanfolyam, szakmai személyiségfejlesztő foglalkozás, szakmai e-learning, szakmai blended-learning, illetve szakmai terepgyakorlati továbbképzés esetén a közalkalmazottak részére a központi költségvetésről szóló törvényben meghatározott, az „A” fizetési osztály első fizetési fokozata szerinti garantált illetmény összegének (a továbbiakban: alapdíj) 70%-a,
+
+b) szakmai tanácskozás, külföldi vagy hazai tanulmányút, illetve szakmai műhely esetén az alapdíj 30%-a.
+
+(6)[^47] Az NSZI a továbbképzés-szervezési joggal rendelkező szervezet esetében az érvényes minősítéssel rendelkező továbbképzési program 2. számú mellékletben meghatározott adatait a (4) bekezdés szerinti minősítési kérelem benyújtásának negyedévét követő negyedév utolsó napjáig a honlapján és a Szociális Ágazati Portálon közzéteszi.
+
+(6a)[^48] Az NSZI a továbbképzés-szervezési jog 11/A. § szerinti felfüggesztését követő 60 napon belül közzéteszi a honlapján és a Szociális Ágazati Portálon a felfüggesztéssel érintett szervezet nevét, a felfüggesztéssel érintett továbbképzési programok engedélyszámát, valamint a felfüggesztés kezdő és záró időpontját.
+
+(6b)[^49] Az NSZI az érvényes minősítéssel rendelkező továbbképzési programjainak a 2. számú mellékletben meghatározott adatait a honlapján és a Szociális Ágazati Portálon folyamatosan közzéteszi.
+
+(7)[^50] Az adott negyedévben érvényes minősítéssel rendelkező továbbképzési program csak a (6) bekezdés szerinti közzétételt követően indítható azzal, hogy a továbbképzés szervezője köteles a továbbképzés tényleges indítását a 2/A. számú melléklet szerinti adattartalommal az NSZI-nek az indítást megelőzően legalább 10 munkanappal elektronikusan bejelenteni.
+
+(8)[^51] A (6) bekezdés szerint közzétett továbbképzési program a közzétételben meghatározott minősítés érvényességéig szervezhető. A továbbképzés szervezője
+
+a) – a szakmai e-learning kivételével – a megszervezésre került továbbképzési programról a 3. számú melléklet szerinti adattartalommal a továbbképzés lebonyolítását követő hónap utolsó napjáig,
+
+b) a megszervezésre került szakmai e-learningről a 3. számú melléklet szerinti adattartalommal a tárgyévet követő február 28-áig,
+
+c) a megszervezésre nem került továbbképzési programról a 4. számú melléklet szerinti adattartalommal a tárgyévet követő év február 28-áig
+
+elektronikusan beszámol, illetve elektronikusan bejelentést tesz az NSZI részére.
+
+(9)[^52]
+
+(10)[^53] Az a továbbképző szervezet, amelynek továbbképzési jogát a 11/A. § alapján felfüggesztették, továbbképzési programot a felfüggesztés időtartama alatt nem indíthat.
+
+### 4/A. §[^54]
+
+(1) A továbbképzés szervezője a 3. § (5) bekezdés szerinti minősített továbbképzésekről – csoportonként – nyilvántartást vezet.
+
+(2)[^55] Az (1) bekezdés szerinti nyilvántartás a program minősítési kérelmének eredeti teljes körű elektronikus dokumentációját, a program engedélyszámát és címét, a továbbképzés helyszínét, időpontját, időtartamát, a jelenléti ívet – szakmai e-learning, szakmai blended-learning és szakmai terepgyakorlati továbbképzés esetén a résztvevők névsorát –, a résztvevők működési nyilvántartási számát és a részvételi díjat, továbbá
+
+a) szakmai tanfolyam esetén a tanfolyami naplót, az ismeretek számonkéréséről készült – a számonkérést végzők aláírásával ellátott – jegyzőkönyvet, valamint írásbeli számonkérés esetén a továbbképzésben részt vevők által készített dolgozatot, illetve tesztet,
+
+b) szakmai személyiségfejlesztő foglalkozás esetén a trénerek nevét és az alkalmazott módszert,
+
+c) szakmai tanácskozás esetén az előadások címét,
+
+d) külföldi vagy hazai tanulmányút esetén a tanulmányozott módszert,
+
+e) szakmai műhely esetén a fórumok szakmai témáját,
+
+f) szakmai e-learning és szakmai blended-learning esetén az ismeretek számonkéréséről készült dolgozatot, illetve tesztet,
+
+g) szakmai terepgyakorlati továbbképzés esetén a számonkérésről készült jegyzőkönyvet
+
+tartalmazza.
+
+(3)[^56] A továbbképzés szervezője – az (1)–(2) bekezdésben meghatározottakon túl – minden megszervezett továbbképzés esetében elektronikusan nyilvántartja a továbbképzésről kiadott és sorszámmal ellátott igazolásokat.
+
+(4)[^57] A továbbképzés szervezőjének legalább egy alkalommal, legkésőbb a továbbképzés végén – elektronikus kérdőív formájában – lehetőséget kell biztosítania a minősített továbbképzés résztvevői számára a továbbképzés értékelésére a résztvevők azonosítására alkalmatlan módon. A résztvevők által kitöltött kérdőívet a továbbképzés szervezője elektronikusan nyilvántartja.
+
+(5)[^58] Az (1)–(4) bekezdés szerinti nyilvántartásokat (a továbbiakban együtt: továbbképzési nyilvántartás) a továbbképzés szervezőjének a továbbképzés lezárultát követően öt évig meg kell őrizni.
+
+(6)[^59] Az NSZI, illetve az általa kijelölt szakértő jogosult a továbbképzési nyilvántartásba a helyszínen betekinteni. A betekintési jog gyakorlásához a továbbképzés szervezője köteles a továbbképzési nyilvántartáshoz hozzáférést biztosítani, illetve azt rendelkezésre bocsátani és az ahhoz kapcsolódó felvilágosítást megadni.
+
+### 4/B. §[^60]
+
+(1)[^61] A továbbképzést szervező a minősített továbbképzésen – ide nem értve a szakmai tanácskozást – részt vevővel a polgári jog általános szabályai szerint képzési szerződést köt.
+
+(2) A képzési szerződést írásban kell megkötni. A szerződésen fel kell tüntetni, hogy a szerződés az e rendelet alapján megkötött képzési szerződés.
+
+(3) A képzési szerződésnek tartalmaznia kell
+
+a) a továbbképzést szervező szervezet megnevezését, címét, képviselőjének nevét vagy a továbbképzést szervező személy nevét és címét,
+
+b) a továbbképzési program címét,
+
+c) a továbbképzési program engedélyszámát,
+
+d) a továbbképzési csoport
+
+da) továbbképzésének év, hónap, nap szerinti kezdési időpontját,
+
+db) haladásának tananyagegységekre bontott, óraszám és helyszín szerinti ütemezését,
+
+dc) továbbképzése befejezésének tervezett időpontjára vonatkozó adatokat,
+
+e) a továbbképzés elvégzésével megszerezhető dokumentum megjelölését,
+
+f) szakmai tanfolyam, szakmai e-learning, szakmai blended-learning, illetve szakmai terepgyakorlat esetén a résztvevőnek a képzés során nyújtott teljesítménye ellenőrzésének, értékelésének módját,
+
+g) a résztvevő számára megengedett hiányzás mértékét, és ennek túllépése esetén a továbbképzésben részt vevőt érintő következményeket,
+
+h) a részvételi díj mértékét és fizetésének módját,
+
+i) a továbbképzésben részt vevő személy, illetve a továbbképzést szervező szerződésszegésének következményeit, valamint
+
+j) a panaszkezelés módját.
+
+(4) A továbbképzést szervező a részvételi díjat egy összegben köteles meghatározni. A képzési szerződésben egy összegben feltüntetett részvételi díjon felül más jogcímen további díjat vagy költséget nem állapíthat meg a képzésben részt vevő terhére.
+
+(5)[^62] Minősített kötelező továbbképzésre, valamint minősített munkakörhöz kötött képzésekre a szociálpolitikáért felelős miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni.
+
+## Az NSZI továbbképzésekkel kapcsolatos feladatai[^68]
+
+### 11/A. §[^71]
+
+(1)[^72] Az NSZI a Testület bevonásával a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását, kivizsgálja a továbbképzésekkel, illetve a továbbképzésekhez kapcsolódó számonkérésekkel kapcsolatos bejelentéseket, panaszokat. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, az NSZI határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
+
+(2)[^73] Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és
+
+a) a továbbképzés nem a továbbképzési programban meghatározott
+
+aa) ismeretanyag felhasználásával,
+
+ab) óraszámban,
+
+ac) tematika oktatásával,
+
+ad) képesítésű oktató, tréner, előadó, műhelyvezető, illetve tanulmányútért szakmailag felelős személy részvételével, vagy
+
+ae) – a továbbképzési tevékenység folytatásához szükséges – tárgyi feltételek megléte mellett
+
+történik,
+
+b) a továbbképzés – a szakmai tanácskozás és a szakmai e-learning kivételével – a továbbképzési programban szereplő maximális résztvevői létszámnál magasabb résztvevői létszámmal történik,
+
+c) a továbbképzés szervezője a továbbképzési programon való részvételről nem adja ki az 1. számú melléklet szerinti igazolást,
+
+d) a továbbképzési programon való részvételről kiadott 1. számú melléklet szerinti igazolás adatai eltérnek a továbbképzési program 4. § (6) bekezdése szerint közzétett adataitól,
+
+e) a továbbképzési program a minősítés érvényességi idejét meghaladóan kerül megszervezésre,
+
+f)[^74] a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz elektronikusan bejelentést az NSZI-nek, vagy
+
+g) a továbbképzés szervezője a 4. § (7), illetve (8) bekezdésében előírt bejelentési, beszámolási kötelezettségének nem tesz eleget,
+
+az NSZI a folyamatban lévő továbbképzések befejezését követően 2 évre felfüggeszti a továbbképző szervezet továbbképzés-szervezési jogát.
+
+(3) Ha a szervezet továbbképzés-szervezési jogát felfüggesztik, a felfüggesztés időtartama alatt nem jogosult továbbképzés szervezésére.
+
+(4)[^75] A továbbképző szervezet az NSZI jogsértő intézkedése esetén panaszt nyújthat be a szociálpolitikáért felelős miniszterhez.
+
+## A Szociális Továbbképzési Minősítő Testület[^76]
+
+### 12. §
+
+(1)[^77] A Testület
+
+a) ellátja a továbbképzési programok minősítését, pontértékeinek meghatározását,
+
+b) kidolgozza a továbbképzések szakmai követelményrendszerét,
+
+c) közreműködik a továbbképzések szakmai felügyeletében.
+
+(1a)[^78] A Testület a feladatait az NSZI szervezeti keretein belül létrehozott Titkárság (a továbbiakban: Titkárság) közreműködésével látja el.
+
+(2)[^79] A Titkárság feladatai
+
+a) a továbbképzésekkel kapcsolatosan
+
+aa) a továbbképzési programok minősítésre történő előkészítése, a minősítés után az érintettek kiértesítése,
+
+ab) a továbbképzési tájékoztatók elkészítése és kiadása,
+
+ac) kapcsolattartás a továbbképzést folytató szervezetekkel,
+
+ad) a továbbképzésekkel kapcsolatos adminisztráció, információszolgáltatás,
+
+ae) a szakértők felkérésével kapcsolatos feladatok,
+
+af)[^80] a továbbképzések monitorozása, éves értékelése és az éves értékelésről beszámoló készítése a szociálpolitikáért felelős miniszternek,
+
+b)[^81]
+
+### 12/A. §[^82]
+
+(1) A Testület 13 tagból áll.
+
+(2)[^83] A Testület tagjai:
+
+a) az egyházi módszertani kijelöléssel rendelkező egyházak által delegált 6 személy,
+
+b)[^84] a szociálpolitikáért felelős miniszter által felkért 6 személy,
+
+c)[^85] a gyermek- és ifjúságpolitikáért felelős miniszter által felkért személy.
+
+(3) A Testület ügyrendje tartalmazza a Testület működésével, valamint a Testület és a Titkárság közötti feladatmegosztással kapcsolatos részletes szabályokat.
+
+(4)[^86] A Testület ügyrendjét a szociálpolitikáért felelős miniszter hagyja jóvá.
+
+## Egyéb rendelkezések
+
+### 15. §
+
+(1) A személyes gondoskodást nyújtó intézmény vezetője (a továbbiakban: munkáltató) éves továbbképzési tervet köteles készíteni.
+
+(2)[^89] A továbbképzési terv tartalmazza
+
+a) a tárgyévben továbbképzésben részt vevők várható számát, munkakörük és a várható távolléti idő feltüntetésével,
+
+b) a továbbképzésben részt vevők helyettesítésére vonatkozó tervet,
+
+c) a továbbképzésre fordítható források megjelölését és felosztását,
+
+d) a továbbképzési kötelezettségüket teljesítők számát.
+
+(3)[^90] A munkáltató köteles az éves továbbképzési tervben szereplő munkavállaló számára a továbbképzésen való részvétel idejére munkaidő-kedvezményt biztosítani, erre az időre távolléti díjat fizetni, a továbbképzés részvételi díját viselni.
+
+(4)[^91] A munkáltatónak a munkaviszony, illetve a közalkalmazotti jogviszony megszűnésekor a működési nyilvántartásba vételről szóló igazolást, valamint a továbbképzési kötelezettség teljesítését igazoló dokumentumokat át kell adnia a munkavállaló részére.
+
+(5)[^92]
+
+## Záró és átmeneti rendelkezések[^94]
+
+### 16. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^95]
+
+(3)[^96]
+
+### 17/A. §[^98]
+
+(1)[^99]
+
+(2)[^100] A 2013. december 31-én nevelőszülői jogviszonyban álló, nevelőszülő szakképesítéssel nem rendelkező személy továbbképzési kötelezettsége az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés, vagy a nevelőszülők részére szervezett Központi Oktatási Program (KOP) keretében szerzett nevelőszülő képesítés közül az előbb megszerzett szakképesítés vagy képesítés megszerzését követő hónap 1. napján keletkezik, továbbképzési időszaka ezen a napon kezdődik.
+
+(3)[^101]
+
+### 17/B. §[^102]
+
+(1) Az e rendelet szerint 2018. július 1-jén továbbképzésre kötelezett továbbképzési időszaka 2018. július 1-jén újrakezdődik. A 2018. július 1-jén továbbképzésre kötelezett számára a 2018. június 30-án folyamatban lévő továbbképzési időszaka során szerzett továbbképzési pontjai, valamint a 2018. július 1-jén folyamatban lévő továbbképzése során szerzett továbbképzési pontjai választható továbbképzési pontokként beszámításra kerülnek a 2018. július 1-jén újrakezdődő továbbképzési időszakában.
+
+(2) Ha a 2018. július 1-jén továbbképzésre kötelezett a 2018. június 30-án folyamatban lévő továbbképzési időszaka során a továbbképzési kötelezettségét a 2. § (6) bekezdésében foglaltak szerint teljesítette, azt a 2018. július 1-jén újrakezdődő továbbképzési időszakában a választható továbbképzési kötelezettségének teljesítéseként kell beszámítani.
+
+(3) Ha a továbbképzési időszak 2018. július 1-jét megelőzően megszakad, és a továbbfolytatódásának feltételei 2018. június 30-át követően következnek be, a 2. § (2) és (2a) bekezdésében foglaltaktól eltérően a továbbképzési időszak újrakezdődik. A továbbképzésre kötelezett a továbbképzési időszak megszakadását megelőzően folyamatban lévő továbbképzési időszaka során szerzett továbbképzési pontjai választható továbbképzési pontokként beszámításra kerülnek az újrakezdődő továbbképzési időszakban.
+
+(4) Ha a továbbképzésre kötelezett továbbképzési időszaka 2018. július 1-jén és azt közvetlenül megelőzően szünetel, a 2. § (4) és (5) bekezdésében foglaltaktól eltérően a szünetelés okának megszűnését követő naptól új továbbképzési időszaka kezdődik, és a szünetelés alatt szerzett továbbképzési pontok választható továbbképzési pontként beszámításra kerülnek az új továbbképzési időszakban.
+
+(5)[^103] A 2018. július 1-jén kezdődő továbbképzési időszakban a továbbképzési kötelezettséget – a 2. § (1) bekezdésében, valamint a 3/A. § (4) bekezdésében foglaltaktól eltérően – 2022. december 31-ig kell teljesíteni.
+
+### 17/C. §[^104]
+
+A 2018. június 30-án érvényes minősítéssel rendelkező továbbképzési programok 2018. július 1-jét követően a minősítésük érvényességi ideje alatt választható továbbképzési programként indíthatók.
+
+### 18. §[^105]
+
+(1) E rendelet 4. § (1) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet 4. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+## 1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^106]
+
+Sorszám: ............/............\
+**Igazolás továbbképzésen való részvételről**\
+*I.* *Személyi adatok*
+
+1\. Név:
+
+2\. Születési, családi és utónév:
+
+3\. Születési hely, idő:
+
+4\. Anyja neve:
+
+5\. Működési nyilvántartási szám:
+
+**II. *Továbbképzési adatok***
+
+1\. A továbbképzés formája (a megfelelő szöveg aláhúzandó):
+
+1.1. szakmai tanfolyam
+
+1.2. szakmai személyiségfejlesztő foglalkozás
+
+1.3. szakmai tanácskozás
+
+1.4. külföldi vagy hazai tanulmányút
+
+1.5. szakmai műhely
+
+1.6. szakmai e-learning
+
+1.7. szakmai blended-learning
+
+1.8. szakmai terepgyakorlati továbbképzés
+
+Az I. pontban megnevezett személy a II. pontban szereplő továbbképzésen részt vett, annak feltételeit teljesítette.
+
+Kelt: ......................................................., ............ év ................................... hónap ..... napján
+
+P. H.
+
+................................................................................
+
+a továbbképzés szervezőjének cégszerű aláírása
+
+## 1/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^107]
+
+**Munkakörhöz kötött továbbképzési kötelezettséggel járó munkakörök**
+
+**I. Szociális és gyermekjóléti szolgáltatások területén**
+
+<table><tbody><tr><td colspan="2">**Munkakör megnevezése**</td></tr><tr><td>**1.**</td><td>Szociális munkatárs</td></tr><tr><td>**2.**</td><td>Segítő</td></tr><tr><td>**3.**</td><td>Asszisztens</td></tr><tr><td>**4.**</td><td>Terápiás munkatárs</td></tr><tr><td>**5.**</td><td>Ápoló</td></tr><tr><td>**6.**</td><td>Gondozó</td></tr><tr><td>**7.**</td><td>Szociális asszisztens</td></tr><tr><td>**8.**</td><td>Családgondozó</td></tr><tr><td>**9.**</td><td>Családsegítő</td></tr><tr><td>**10.**</td><td>Esetfelelős</td></tr><tr><td>**11.**</td><td>Esetmenedzser</td></tr><tr><td>**12.**</td><td>Falu- és tanyagondnok</td></tr><tr><td>**13.**</td><td>Gyermekfelügyelő</td></tr><tr><td>**14.**</td><td>Gyermekvédelmi asszisztens</td></tr><tr><td>**15.**</td><td>Helyettes szülői tanácsadó</td></tr><tr><td>**16.**</td><td>Kisgyermeknevelő</td></tr><tr><td>**17.**</td><td>Szaktanácsadó</td></tr><tr><td>**18.**</td><td>Gyógypedagógus</td></tr><tr><td>**19**</td><td>Óvodai és iskolai szociális segítő</td></tr></tbody></table>
+
+**II. Gyermekvédelmi szakellátási intézményekben és a javítóintézetben**
+
+<table><tbody><tr><td colspan="2">**Munkakör megnevezése**</td></tr><tr><td>**1.**</td><td>Ápoló</td></tr><tr><td>**2.**</td><td>Bizottsági családgondozó</td></tr><tr><td>**3.**</td><td>Fejlesztőpedagógus</td></tr><tr><td>**4.**</td><td>Gyermekfelügyelő</td></tr><tr><td>**5.**</td><td>Gyermekgondozó (ha nem a nevelőszülő hozzátartozója)</td></tr><tr><td>**6.**</td><td>Gyermekvédelmi asszisztens</td></tr><tr><td>**7.**</td><td>Gyermekvédelmi gyám</td></tr><tr><td>**8.**</td><td>Gyermekvédelmi ügyintéző</td></tr><tr><td>**9.**</td><td>Gyógypedagógus</td></tr><tr><td>**10.**</td><td>Elhelyezési ügyintéző</td></tr><tr><td>**11.**</td><td>Jogász</td></tr><tr><td>**12.**</td><td>Kisgyermeknevelő</td></tr><tr><td>**13.**</td><td>Közvetítő</td></tr><tr><td>**14.**</td><td>Nevelő</td></tr><tr><td>**15.**</td><td>Nevelőszülő</td></tr><tr><td>**16.**</td><td>Nevelőszülői tanácsadó</td></tr><tr><td>**17.**</td><td>Növendékügyi előadó</td></tr><tr><td>**18.**</td><td>Orvos</td></tr><tr><td>**19.**</td><td>Örökbefogadási tanácsadó</td></tr><tr><td>**20.**</td><td>Pszichiáter</td></tr><tr><td>**21.**</td><td>Pszichológus</td></tr><tr><td>**22.**</td><td>Rendész</td></tr><tr><td>**23.**</td><td>Szakoktató, munkaoktató</td></tr><tr><td>**24.**</td><td>Utógondozó</td></tr><tr><td>**25.**</td><td>Védőnő</td></tr><tr><td>**26.**</td><td>Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szaktanácsadó</td></tr><tr><td>**27.**</td><td>Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző orvos</td></tr><tr><td>**28.**</td><td>Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szociális munkás</td></tr><tr><td>**29.**</td><td>Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus</td></tr></tbody></table>
+
+## 2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^108]
+
+**Adatlap a minősített továbbképzési program közzétételéhez**
+
+1\. A továbbképzési program fajtája:
+
+1.1.[^109] Slachta Margit Nemzeti Szociálpolitikai Intézet által szervezett továbbképzések esetén:
+
+1.1.1. kötelező továbbképzés
+
+1.1.2. munkakörhöz kötött továbbképzés
+
+1.1.3. választható továbbképzés
+
+1.2.[^110] Családbarát Magyarország Központ Nonprofit Közhasznú Kft. által szervezett továbbképzések esetén:
+
+1.2.1. munkakörhöz kötött továbbképzés
+
+1.2.2. választható továbbképzés
+
+1.3. Egyéb továbbképzést szervező által szervezett továbbképzések esetén:
+
+1.3.1. választható továbbképzés
+
+*(A megfelelő rész aláhúzandó.)*
+
+2.[^111] A továbbképzést szervező szervezet megnevezése és címe, vagy a továbbképzést szervező természetes személy neve és címe:
+
+*(Kötelező továbbképzés esetén a Slachta Margit Nemzeti Szociálpolitikai Intézet tüntetendő fel. Munkakörhöz kötött továbbképzés esetén a Szociális és Gyermekvédelmi Főigazgatóság vagy Családbarát Magyarország Központ Nonprofit Közhasznú Kft. tüntethető fel.)*
+
+3\. A program címe:
+
+4\. A program célja, tartalma, részletes tematikája:
+
+5\. A program célcsoportja:
+
+6\. A program által közvetlenül érintett munkakörök:
+
+*(Munkakörhöz kötött továbbképzés esetén töltendő ki.)*
+
+7\. A program által közvetlenül érintett ellátotti csoport, csoportok:
+
+8\. A szerezhető továbbképzési pontérték:
+
+9\. A program indításának tervezett időpontja:
+
+10\. A program időtartama (óra/előadás/nap/fórum/e-learning/szakmai terepgyakorlat):
+
+11\. A program tervezett helyszíne:
+
+12\. A résztvevő által fizetendő részvételi díj:
+
+13\. A továbbképzést szervező kapcsolattartójának neve, telefonszáma és e-mail-címe:
+
+14\. A program engedélyszáma:
+
+15\. A program minősítése érvényes:
+
+16\. A program tartalmának felülvizsgálati dátuma:
+
+*(Kötelező és munkakörhöz kötött továbbképzés esetén töltendő ki.)*
+
+17\. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján pedagógus-továbbképzésként akkreditált:
+
+18\. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett:
+
+## 2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^112]
+
+**Bejelentőlap továbbképzési program szervezéséről**
+
+**A minősített továbbképzési program az alábbiak szerint kerül megrendezésre**
+
+| 1. A továbbképzést szervező megnevezése, címe: |  |
+|---|---|
+| 2. A program címe: |  |
+| 3. A továbbképzési pontérték: |  |
+| 4. A program indításának és befejezésének tervezett időpontja: |  |
+| 5. A program indításának helyszíne: |  |
+| 6. A résztvevő által fizetendő részvételi díj: |  |
+| 7. A továbbképzést szervező személy neve, telefonszáma: |  |
+| 8. A program engedélyszáma: |  |
+
+Kelt: ..............................................., ........... év ................................... hónap ..... napján
+
+P. H.
+
+..........................................................................................................
+
+a továbbképzés szervezőjének cégszerű aláírása
+
+## 3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^113]
+
+**Beszámoló**\
+**a továbbképzési programokról**
+
+*(Minden indított csoportra külön kell elkészíteni!)*
+
+*1. A továbbképzésre vonatkozó információk*
+
+Továbbképzés engedélyszáma:
+
+Továbbképzés címe:
+
+Továbbképzést szervező megnevezése:
+
+Továbbképzést szervező címe:
+
+A továbbképzést szervező személy neve, telefonszáma:
+
+Továbbképzés minősítésének érvényességi ideje:
+
+A továbbképzés kezdő és záró időpontja:
+
+A továbbképzés helyszíne: ........................................................................................................…...... (intézmény neve)
+
+............................................................…...... (vármegye) .................................................................................... (város)
+
+................................................................................................................. (út/utca/stb.) ............................. (házszám)
+
+*2.* *A célcsoportra vonatkozó információk*
+
+2.1. A továbbképzésen résztvevők szakterület szerinti összetétele:
+
+|  | Családvédelem, családgondozás | fő | Idősek szociális ellátása | fő |
+|---|---|---|---|---|
+|  | Gyermekjóléti alapellátás | fő | Hajléktalan ellátás | fő |
+|  | Gyermekvédelmi szakellátás | fő | Fogyatékosok szociális ellátása, rehabilitációja | fő |
+|  | Pszichiátriai és szenvedélybetegek szociális ellátása | fő | Egyéb, az előző szakterületekbe nem besorolható | fő |
+
+2.2. A továbbképzésen résztvevők jellemzően (kérjük a megfelelőt aláhúzni):
+
+Egy intézményben, szolgáltatásban dolgoznak
+
+A szervezés helyszínén, de különböző intézményben, szolgáltatásban dolgoznak
+
+A régió különböző intézményeiben, szolgáltatásaiban dolgoznak
+
+Az ország különböző területein működő intézményekben, szolgáltatásokban dolgoznak
+
+*3.* *A beszámoló további részében maximum 2 oldal terjedelemben részletesen fejtse ki az alábbiakat:*
+
+A tervezett tematika megvalósult-e a továbbképzés során, és ha nem, mi volt az oka?
+
+A választott oktatási módszer alkalmazhatóságának tapasztalatai
+
+A résztvevők szakmai ismeretszintje
+
+Több célcsoport részvétele esetén az eltérő munkakörben/munkaterületen dolgozók együttműködési szintje, készsége
+
+A továbbképzéssel kapcsolatos tapasztalatok összegzése (a résztvevők aktivitása, passzivitása, esetleges problémák felmerülése stb.), illetve az elvégzett elégedettség-vizsgálat összesített eredménye.
+
+Kelt: ......................................................., ............ év ................................... hónap ..... napján
+
+P. H.
+
+.........................................................................................
+
+a továbbképzés szervezőjének cégszerű aláírása
+
+A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Slachta Margit Nemzeti Szociálpolitikai Intézet címére: 1132 Budapest, Visegrádi u. 49.
+
+1\. számú melléklet: A továbbképzés elvégzéséről igazolást kapott résztvevők névsora, a kiadott igazolások sorszámával, a résztvevők működési nyilvántartási számával.
+
+2\. számú melléklet: Az elégedettség-vizsgálat kérdőíve
+
+A beszámoló csak a mellékletekkel együtt fogadható el!
+
+## 4. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^114]
+
+**Bejelentőlap**\
+**a megelőző évben nem indított továbbképzési programról**
+
+*1.* *A továbbképzésre vonatkozó információk*
+
+Továbbképzés engedélyszáma:
+
+Továbbképzés címe:
+
+Továbbképzést szervező megnevezése:
+
+Továbbképzést szervező címe:
+
+A továbbképzést szervező személy neve, telefonszáma:
+
+Továbbképzés minősítésének érvényességi ideje:
+
+*2.* *A továbbképzés elmaradásának oka*
+
+(Kérjük fejtse ki, hogy a továbbképzési program miért nem került megszervezésre!)
+
+Kelt: ......................................................., ............ év ................................... hónap ..... napján
+
+P. H.
+
+..........................................................................................
+
+a továbbképzés szervezőjének cégszerű aláírása
+
+## 5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^115]
+
+## 6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^116]
+
+## 7. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^117]
+
+## 8. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^118]
+
+---
+
+[^1]: Az 1. § a 25/2017. (X. 18.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 4. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
+[^3]: Az 1. § (1) bekezdés 5. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés 6. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
+[^5]: Az 1. § (3) bekezdése a 2/2021. (I. 18.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^6]: Az 1. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^8]: A 2. § (2) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 13. § c) pontja, a 83/2013. (XII. 29.) EMMI rendelet 28. §-a, a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 2. § (2a) bekezdését a 25/2017. (X. 18.) EMMI rendelet 23. § (2) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^11]: A 2. § (4) bekezdése a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 2. § (5) bekezdése a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 2. § (6) bekezdés a) pont aa) alpontja a 30/2024. (VII. 23.) BM rendelet 23. §-ával megállapított szöveg.
+[^14]: A 2. § (6) bekezdés a) pont ad) alpontját a 2/2021. (I. 18.) EMMI rendelet 6. §-a iktatta be.
+[^15]: A 2. § (6) bekezdés a) pont ae) alpontját a 29/2025. (VII. 24.) BM rendelet 14. §-a iktatta be.
+[^16]: A 2. § (6) bekezdés b) pontja a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 2. § (7) bekezdését a 7/2018. (II. 5.) EMMI rendelet 26. §-a iktatta be.
+[^18]: A 3. § (2) bekezdése a 29/2025. (VII. 24.) BM rendelet 15. §-ával megállapított szöveg.
+[^19]: A 3. § (3) bekezdése a 8/2001. (XII. 20.) SZCSM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (3a) bekezdését a 7/2018. (II. 5.) EMMI rendelet 27. §-a iktatta be.
+[^21]: A 3. § (4) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^22]: A 3. § (5) bekezdés nyitó szövegrésze a 41/2012. (XI. 28.) EMMI rendelet 13. § d) pontja szerint módosított szöveg.
+[^23]: A 8/2001. (XII. 20.) SZCSM rendelet 9. § (3) bekezdése alapján 2002. 01. 01. napja előtt minősített program érvényességi ideje a minősítés napjától számított három évig tart. A 3. § (5) bekezdés a) pontja a 41/2012. (XI. 28.) EMMI rendelet 13. § e) pontja, a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 8/2001. (XII. 20.) SZCSM rendelet 9. § (3) bekezdése alapján 2002. 01. 01. napja előtt minősített program érvényességi ideje a minősítés napjától számított három évig tart.
+[^25]: A 3. § (5) bekezdésének c) pontja a 8/2001. (XII. 20.) SZCSM rendelet 9. § (2) bekezdésének aa) pontja szerint módosított szöveg.
+[^26]: A 3. § (5) bekezdésének d) pontja a 8/2001. (XII. 20.) SZCSM rendelet 9. § (2) bekezdésének aa) pontja szerint módosított szöveg.
+[^27]: A 3. § (5) bekezdésének e pontját a 8/2001. (XII. 20.) SZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
+[^28]: A 3. § (5) bekezdés f) pontját a 25/2017. (X. 18.) EMMI rendelet 23. § (4) bekezdése iktatta be.
+[^29]: A 3. § (5) bekezdés g) pontját a 25/2017. (X. 18.) EMMI rendelet 23. § (4) bekezdése iktatta be.
+[^30]: A 3. § (5) bekezdés h) pontját a 25/2017. (X. 18.) EMMI rendelet 23. § (4) bekezdése iktatta be.
+[^31]: A 3. § (6) bekezdését a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^32]: A 3. § (7) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^33]: A 3/A. §-t a 7/2018. (II. 5.) EMMI rendelet 28. §-a iktatta be.
+[^34]: A 3/A. § (1a) bekezdését a 2/2021. (I. 18.) EMMI rendelet 7. §-a iktatta be, szövege az 52/2022. (XII. 27.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^35]: A 3/A. § (4) bekezdését a 23/2024. (V. 9.) BM rendelet 9. §-a hatályon kívül helyezte.
+[^36]: A 4. § (1) bekezdése a 80/2022. (XII. 30.) BM rendelet 19. §-ával megállapított szöveg.
+[^37]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított, a 80/2022. (XII. 30.) BM rendelet 21. § a) pontja szerint módosított szöveg.
+[^38]: A 4. § (1b) bekezdését a 7/2018. (II. 5.) EMMI rendelet 30. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja, a 80/2022. (XII. 30.) BM rendelet 21. § b) pontja szerint módosított szöveg.
+[^39]: A 4. § (1c) bekezdését a 2/2021. (I. 18.) EMMI rendelet 8. § (2) bekezdése iktatta be.
+[^40]: A 4. § (2) bekezdése a 2/2021. (I. 18.) EMMI rendelet 8. § (3) bekezdésével megállapított, az 52/2022. (XII. 27.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^41]: A 4. § (2a) bekezdését a 7/2018. (II. 5.) EMMI rendelet 31. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^42]: A 4. § (3) bekezdését újonnan a 25/2017. (X. 18.) EMMI rendelet 23. § (7) bekezdése iktatta be.
+[^43]: A 4. § (3a) bekezdését a 25/2017. (X. 18.) EMMI rendelet 23. § (7) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
+[^44]: A 4. § (4) bekezdése a 7/2018. (II. 5.) EMMI rendelet 32. §-ával megállapított, a 2/2021. (I. 18.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
+[^45]: A 4. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^46]: A 4. § (5) bekezdés a) pontja a 25/2017. (X. 18.) EMMI rendelet 23. § (8) bekezdésével megállapított szöveg.
+[^47]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés a) pontja, a 43/2016. (XII. 27.) EMMI rendelet 11. § e) és f) pontja, a 7/2018. (II. 5.) EMMI rendelet 39. § (1) bekezdés a) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § e) pontja szerint módosított szöveg.
+[^48]: A 4. § (6a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (4) bekezdése iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 33. §-ával megállapított, a 2/2021. (I. 18.) EMMI rendelet 16. § f) pontja szerint módosított szöveg.
+[^49]: A 4. § (6b) bekezdését a 43/2016. (XII. 27.) EMMI rendelet 8. §-ával megállapított, a 2/2021. (I. 18.) EMMI rendelet 16. § g) pontja szerint módosított szöveg.
+[^50]: A 4. § (7) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (9) bekezdésével megállapított, a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés f) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § h) pontja szerint módosított szöveg.
+[^51]: A 4. § (8) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (10) bekezdésével megállapított, záró szövegrésze a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés g) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § i) pontja szerint módosított szöveg.
+[^52]: A 4. § (8) bekezdését az 1/2005. (I. 26.) ICSSZEM rendelet 2. §-a iktatta be, számozását (9) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése. A 4. § (9) bekezdését a 7/2018. (II. 5.) EMMI rendelet 40. § (1) bekezdése hatályon kívül helyezte.
+[^53]: A 4. § (10) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (6) bekezdése iktatta be.
+[^54]: A 4/A. §-t a 12/2006. (XII. 27.) SZMM rendelet 5. §-a iktatta be.
+[^55]: A 4/A. § (2) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (11) bekezdésével megállapított, nyitó szövegrésze a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^56]: A 4/A. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 39. § (1) bekezdés b) pontja és (2) bekezdés i) pontja szerint módosított szöveg.
+[^57]: A 4/A. § (4) bekezdése a 7/2018. (II. 5.) EMMI rendelet 34. §-ával megállapított szöveg.
+[^58]: A 4/A. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 13. § i) pontja szerint módosított szöveg.
+[^59]: A 4/A. § (6) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés e) pontja, a 43/2016. (XII. 27.) EMMI rendelet 11. § e) pontja, a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés j) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § j) pontja szerint módosított szöveg.
+[^60]: A 4/B. §-t a 7/2018. (II. 5.) EMMI rendelet 35. §-a iktatta be.
+[^61]: A 4/B. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^62]: A 4/B. § (5) bekezdését a 80/2022. (XII. 30.) BM rendelet 20. §-a iktatta be.
+[^68]: A 10. §-t megelőző alcím cím a 2/2021. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^71]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^72]: A 11/A. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^73]: A 11/A. § (2) bekezdés záró szövegrésze a 2/2021. (I. 18.) EMMI rendelet 16. § l) pontja szerint módosított szöveg.
+[^74]: A 11/A. § (2) bekezdés f) pontja a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés k) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § k) pontja szerint módosított szöveg.
+[^75]: A 11/A. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 16. § m) pontja, az 52/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^76]: A 12. §-t megelőző alcím címet a 2/2021. (I. 18.) EMMI rendelet 12. §-a iktatta be.
+[^77]: A 12. § (1) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 20. § (4) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 18.) EMMI rendelet 13. §-a iktatta be.
+[^78]: A 12. § (1a) bekezdését a 2/2021. (I. 18.) EMMI rendelet 13. §-a iktatta be.
+[^79]: A 12. § (2) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 11. § e) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § n) pontja szerint módosított szöveg.
+[^80]: A 12. § (2) bekezdés a) pontjának af) alpontja a 41/2012. (XI. 28.) EMMI rendelet 7. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 45. § (1) bekezdés a) pontja, a 25/2017. (X. 18.) EMMI rendelet 25. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^81]: A 12. § (2) bekezdés b) pontját a 25/2017. (X. 18.) EMMI rendelet 25. § d) pontja hatályon kívül helyezte.
+[^82]: A 12/A. §-t újonnan a 2/2021. (I. 18.) EMMI rendelet 14. §-a iktatta be.
+[^83]: A 12/A. § (2) bekezdés nyitó szövegrésze az 52/2022. (XII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^84]: A 12/A. § (2) bekezdés b) pontja az 52/2022. (XII. 27.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^85]: A 12/A. § (2) bekezdés c) pontját az 52/2022. (XII. 27.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^86]: A 12/A. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^89]: A 15. § (2) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (14) bekezdésével megállapított szöveg.
+[^90]: A 15. § (3) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 10. § (2) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^91]: A 15. § új (4) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 10. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^92]: A 15. § (5) bekezdését a 25/2017. (X. 18.) EMMI rendelet 25. § f) pontja hatályon kívül helyezte.
+[^94]: A 16. §-t megelőző alcím a 41/2012. (XI. 28.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^95]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 8. pontja hatályon kívül helyezte.
+[^96]: A 16. § (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 15. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^98]: Az 17/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 26. §-a iktatta be.
+[^99]: A 17/A. § (1) bekezdését a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^100]: A 17/A. § (2) bekezdése a 48/2015. (X. 28.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^101]: A 17/A. § (3) bekezdését a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^102]: A 17/B. §-t a 7/2018. (II. 5.) EMMI rendelet 37. §-a iktatta be.
+[^103]: A 17/B. § (5) bekezdését a 25/2020. (VII. 30.) EMMI rendelet 1. §-a iktatta be, szövege a 21/2022. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
+[^104]: A 17/C. §-t a 7/2018. (II. 5.) EMMI rendelet 37. §-a iktatta be.
+[^105]: A 18. §-t a 14/2016. (VII. 12.) EMMI rendelet 2. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^106]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.
+[^107]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be, szövege az 1/2021. (I. 7.) EMMI rendelet 14. §-a, a 62/2021. (XII. 29.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^108]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^109]: A 2. számú melléklet 1. pont 1.1. alpontja a 2/2021. (I. 18.) EMMI rendelet 16. § o) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^110]: A 2. számú melléklet 1. pont 1.2. alpontja az 5/2022. (III. 28.) MvM rendelet 2. §-a szerint módosított szöveg.
+[^111]: A 2. számú melléklet 2. pontja a 2/2021. (I. 18.) EMMI rendelet 16. § o) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 5. § b) pontja, az 5/2022. (III. 28.) MvM rendelet 2. §-a szerint módosított szöveg.
+[^112]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.
+[^113]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § l) pontja, a 43/2016. (XII. 27.) EMMI rendelet 11. § k) pontja, a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § p) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 16. §-a szerint módosított szöveg.
+[^114]: Az új 4. számú mellékletet a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti 4–8. számú melléklet számozását 5–9. számú mellékletre változtatva. A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja szerint módosított szöveg.
+[^115]: Az 5. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
+[^116]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 6. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
+[^117]: A 6. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 7. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 7. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
+[^118]: A 8. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdésének b) pontja hatályon kívül helyezte.

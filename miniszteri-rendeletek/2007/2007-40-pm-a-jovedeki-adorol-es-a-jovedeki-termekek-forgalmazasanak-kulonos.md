@@ -1,0 +1,89 @@
+---
+title: "40/2007. (XII. 29.) PM rendelet a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet módosításáról"
+identifier: "40/2007. (XII. 29.) PM rendelet"
+njt_id: "2007-40-20-53"
+eli: "https://njt.jog.gov.hu/eli/R/2007/PM/40"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2007-12-29
+in_force_from: 2009-01-02
+last_amended: 2009-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-40-20-53"
+retrieved: 2026-10-12
+---
+
+# 40/2007. (XII. 29.) PM rendelet a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet módosításáról
+
+A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. § (2) bekezdésének *c)*, *d)*, *r)* és *t)* pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § *b)* pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1–37. §[^1]
+
+## 38. §[^2]
+
+## 39. §
+
+(1) Ez a rendelet – a (2)–(5) bekezdésben foglalt eltéréssel – 2008. január 1-jén lép hatályba.
+
+(2) E rendelet 27. §-ának (2) bekezdése és 41. §-ának (1) bekezdése 2007. december 31-én lép hatályba.
+
+(3) Az R. e rendelettel megállapított 74. §-ának (5) bekezdése, 132. §-ának (6) bekezdése, valamint 46. és 47. számú melléklete 2008. február 1-jén lép hatályba.
+
+(4) Az R. e rendelettel megállapított 14/A. számú melléklete 2008. május 1-jén lép hatályba.
+
+(5) E rendelet 41. §-ának (3) bekezdése 2009. január 1-jén lép hatályba.
+
+(6) Az R. e rendelettel megállapított 112. § (2)–(5) bekezdésének rendelkezését a folyamatban lévő ügyekben is alkalmazni kell.
+
+(7)[^3]
+
+(8)[^4]
+
+(9) 2009. január 2-án hatályát veszti a 39. § (8) bekezdése és a 41. §.
+
+## 40. §[^5]
+
+## 41. §
+
+(1)–(2)[^6]
+
+(3)[^7]
+
+## 42. §
+
+(1) Az e rendelet hatálybalépésekor a Jöt.-ben, illetve az e rendeletben meghatározott nyilvántartások vezetésére, illetve a termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány vagy a bérfőzési lap előállítására a vámhatóság által engedélyezett számítógépes programot használó, a Jöt. szerinti engedéllyel rendelkező személy legkésőbb 2008. június 30-áig köteles
+
+a) a regionális ellenőrzési központhoz nyilatkozatot benyújtani arról, hogy az általa használt program megfelel az R. e rendelettel megállapított 37/A. §-ában foglalt követelményeknek, vagy
+
+b) a regionális ellenőrzési központtól az engedélyezett számítógépes program az R. e rendelettel megállapított 37/A. §-ában meghatározottak szerinti módosításának engedélyezését kérni, és ehhez az R. e rendelettel megállapított 37/A–37/B. §-ban foglaltaknak megfelelően az engedélykérelmet benyújtani.
+
+(2) A vámhatóság az (1) bekezdés *a)* pontja szerinti esetben kezdeményezheti a program számítástechnikai felülvizsgálatát, és amennyiben a felülvizsgálat eredményeként megállapításra kerül, hogy a program nem felel meg az R. e rendelettel megállapított 37/A. §-ban foglalt követelményeknek, erről a felhasználót értesíti, és a felhasználónak az (1) bekezdés *b)* pontban előírtak szerint kell eljárnia.
+
+(3) A vámhatóság az (1) bekezdés *b)* pontja szerinti esetben 2008. december 31-éig köteles a módosított programot elbírálni.
+
+(4) Az e rendelet hatálybalépésekor engedélyezett nyilvántartó, illetve bizonylat-kiállító programot
+
+a) az (1) bekezdés *a)* pontja szerinti esetben az R. e rendelettel megállapított 37/A. § szerint engedélyezettnek kell tekinteni, ha a vámhatóság a (2) bekezdés szerinti felülvizsgálatot nem kezdeményezett, vagy kezdeményezett, de a felülvizsgálat azt állapítja meg, hogy a program megfelel az R. e rendelettel megállapított 37/A. §-ában foglaltaknak,
+
+b) az *a)* ponttól eltérő esetben legfeljebb 2008. december 31-éig lehet használni.
+
+(5) Az adóraktár-engedélyes különleges bélyegző alkalmazása iránti, az R. e rendelettel megállapított 75. § (10) bekezdése, illetve 78. § (3) bekezdése alapján, 2008. július 1-je előtt benyújtott kérelmét a vámhatóság csak akkor köteles elbírálni, ha az adóraktár-engedélyes a termékkísérő okmány és az egyszerűsített kísérő okmány számítógépes előállításához a kérelem benyújtásakor használt számítógépes programja tekintetében is teljesíti az (1) bekezdésben előírt kötelezettségét. Ebben az esetben nem kell a (3) bekezdés rendelkezését alkalmazni.
+
+(6) A 2007. december 31-éig előállított vagy készleten lévő bioetanol-tartalmú benzin, illetve biodízel-tartalmú gázolaj, továbbá az olyan bioetanol-tartalmú benzin, illetve biodízel-tartalmú gázolaj esetében, amelyet 2007. december 31-éig betárolt bioetanol, illetve biodízel felhasználásával 2007. december 31-ét követően állítanak elő, a bioetanol, illetve a biodízel-tartalom igazolása az R. 2007. december 31-én hatályos rendelkezései szerint is lehetséges.
+
+## 1–5. számú melléklet a 40/2007. (XII. 29.) PM rendelethez[^8]
+
+## 6. számú melléklet a 40/2007. (XII. 29.) PM rendelethez[^9]
+
+---
+
+[^1]: Az 1–37. § e rendelet 39. § (7) bekezdése alapján hatályát vesztette.
+[^2]: A 38. § e rendelet 39. § (8) bekezdése alapján hatályát vesztette.
+[^3]: A 39. § (7) bekezdése e rendelet 39. § (8) bekezdése alapján hatályát vesztette.
+[^4]: A 39. § (8) bekezdése e rendelet 39. § (9) bekezdése alapján hatályát vesztette.
+[^5]: A 40. § e rendelet 39. § (7) bekezdése alapján hatályát vesztette.
+[^6]: A 41. § (1)–(2) bekezdése e rendelet 39. § (7) bekezdése alapján hatályát vesztette.
+[^7]: A 41. § (3) bekezdése e rendelet 39. § (9) bekezdése alapján hatályát vesztette.
+[^8]: Az 1–5. számú melléklet e rendelet 39. § (7) bekezdése alapján hatályát vesztette.
+[^9]: A 6. számú melléklet e rendelet 39. § (8) bekezdése alapján hatályát vesztette.

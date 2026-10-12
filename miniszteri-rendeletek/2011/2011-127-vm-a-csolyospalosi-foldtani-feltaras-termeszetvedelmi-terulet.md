@@ -1,0 +1,98 @@
+---
+title: "127/2011. (XII. 21.) VM rendelet a Csólyospálosi földtani feltárás természetvédelmi terület természetvédelmi kezelési tervéről"
+identifier: "127/2011. (XII. 21.) VM rendelet"
+njt_id: "2011-127-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2011/VM/127"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2011-12-21
+in_force_from: 2011-12-29
+last_amended: 2011-12-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-127-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 127/2011. (XII. 21.) VM rendelet a Csólyospálosi földtani feltárás természetvédelmi terület természetvédelmi kezelési tervéről
+
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 13. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § *l)* pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §
+
+Az Országos Környezet- és Természetvédelmi Hivatal elnökének a 14/1978. OKTH számú határozatával fokozottan védetté nyilvánított, valamint a Csólyospálosi földtani feltárás természetvédelmi terület védettségének fenntartásáról szóló 127/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Csólyospálosi földtani feltárás természetvédelmi terület természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.
+
+## 2. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 1. melléklet a 127/2011. (XII. 21.) VM rendelethez
+
+**A Csólyospálosi földtani feltárás természetvédelmi terület természetvédelmi kezelési terve**
+
+1\. Természetvédelmi célkitűzések
+
+1.1. A csólyospálosi földtani feltárás, a dolomitos mészkő és dolomitiszap előfordulás megóvása.
+
+1.2. Zavartalan természeti feltételek biztosítása a területen feltárt földtani képződmények tudományos kutatásához.
+
+1.3. A tájtörténeti-néprajzi jelentőségű „réti mészkő bányászat” (kőfejtés) jellegzetes helyének bemutatásával, megismertetésével az oktatás és az ismeretterjesztés elősegítése, a tájhoz, valamint a természethez való kötődés erősítése.
+
+1.4. Védett növény- és állatfajok a területen található élőhelyeinek megőrzése, fenntartása.
+
+2\. Természetvédelmi stratégiák
+
+2.1. A táji, természeti értékek fennmaradását biztosító aktív természetvédelmi kezelés.
+
+2.2. A feltárás bemutathatóságát biztosító, valamint állagromlását megakadályozó karbantartási és fenntartási tevékenységek végzése.
+
+2.3. A terület (földtani) természeti értékeinek irányított bemutatása, az ehhez szükséges természetvédelmi infrastruktúra fenntartása.
+
+2.4. A védett állat- és növényfajok számára élőhelyet jelentő nádas és gyepterület megőrzése, a művelési ágtól függetlenül.
+
+3\. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1. Földtani, felszínalaktani természeti értékek védelme
+
+a) A földtani feltárás és környezetének megőrzése, fenntartása érdekében tilos a területen bányászati tevékenység és terepalakítás, valamint a feltárás kőzet- és üledékanyagának megbontása, kivéve a természetvédelmi kezelésért felelős és a vagyonkezelői joggal is rendelkező Kiskunsági Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) hozzájárulásával végzett kutatási célú mintavételt és állagmegóvás érdekében történő rekonstrukciót.
+
+b) A 2008-ban kialakított földtani szelvény állékonyságát, stabilitását meg kell őrizni.
+
+c) A terület természetes vízháztartását befolyásoló beavatkozások nem végezhetők.
+
+3.2. Élőhelyek kezelése, fenntartása
+
+a) Gondoskodni kell a területen található gyep és nádas élőhelyek megőrzéséről, fenntartásáról.
+
+b) Nád aratása szükség szerint, de legfeljebb 5 évente végezhető az igazgatóság vagyonkezelői hozzájárulásával.
+
+3.3. Fajok védelme
+
+Hüllők és kétéltűek a szelvényből történő kijutásának biztosítása érdekében az igazgatóság gondoskodik egy rézsűs felületnek a szelvényben történő kialakításáról és ezt követő folyamatos karbantartásáról.
+
+3.4. Látogatás\
+A terület hatósági engedély nélkül kizárólag a természetvédelmi bemutatás céljára kialakított feltáró úton látogatható.
+
+3.5. Oktatás és bemutatás
+
+A feltárás bemutathatósága érdekében a szelvényben megtelepedő növényzet szükség szerinti gyakorisággal, mechanikus módszerekkel történő eltávolításáról az igazgatóság gondoskodik.
+
+3.6. Kutatás, vizsgálatok
+
+Engedélyezett kutatási tevékenységet szolgáló létesítmények csak az igazgatóság hozzájárulásával és ideiglenes jelleggel helyezhetők el a területen.
+
+3.7. Terület- és földhasználat
+
+a) A területen vadgazdálkodási tevékenység nem folytatható.
+
+b) Tilos gépjárművel a területre hajtani – kivéve a természetvédelmi kezelés érdekében történő gépjármű közlekedést.
+
+c) Új építmény létesítése – az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében történő bemutatást és természetvédelmi célkitűzésekkel összhangban álló kutatást szolgáló létesítmények kivételével – tilos a területen.
+
+d) Az igazgatóság gondoskodik a látogatás során esetlegesen elhagyott hulladék rendszeres elszállításáról.
+
+e) Tilos a területen erdőtelepítést és faültetést végezni.
+
+3.8. Természetvédelmi infrastruktúra
+
+Az igazgatóság a földtani feltáráshoz vezető feltáró út és a kihelyezett információs- és tájékoztató táblák folyamatos karbantartásával és fejlesztésével gondoskodik a környezettudatos nevelés, oktatás, valamint a természetvédelmi bemutatás infrastrukturális feltételeinek biztosításáról.

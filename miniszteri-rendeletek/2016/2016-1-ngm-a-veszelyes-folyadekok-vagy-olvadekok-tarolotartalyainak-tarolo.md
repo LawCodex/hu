@@ -1,0 +1,387 @@
+---
+title: "1/2016. (I. 5.) NGM rendelet a veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki biztonsági követelményeiről, hatósági felügyeletéről"
+identifier: "1/2016. (I. 5.) NGM rendelet"
+njt_id: "2016-1-20-2X"
+eli: "https://njt.jog.gov.hu/eli/R/2016/NGM/1"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2016-01-05
+in_force_from: 2016-02-05
+last_amended: 2020-07-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-1-20-2X"
+retrieved: 2026-10-12
+---
+
+# 1/2016. (I. 5.) NGM rendelet a veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki biztonsági követelményeiről, hatósági felügyeletéről
+
+A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendelet 11. § *g)* és *k)* pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. A rendelet hatálya
+
+### 1. §[^1]
+
+A rendelet hatálya kiterjed a veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendeletben meghatározott tárolótartályok és tároló-létesítmények műszaki biztonságára.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1.[^2]
+
+2.[^3]
+
+3\. *Elhelyezési távolság:* a tároló létesítmény berendezéseinek egymástól való távolsága.
+
+4.[^4]
+
+5.[^5]
+
+6.[^6]
+
+7\. *Karbantartás:* a tároló létesítmény berendezésein minden olyan javításnak nem minősülő beavatkozás, amely a tároló létesítmény eredeti állapotának és funkciójának fenntartását vagy helyreállítását eredményezi.
+
+8\. *Kimérő berendezés:* a veszélyes töltetnek a szállító tartályba, üzemanyag tartályba, szállító edénybe, stb. történő töltésére szolgáló, térfogat- vagy súlymérésen alapuló kézi-, mechanikus- vagy automatikus berendezés.
+
+9\. *Közforgalmú üzemanyagtöltő állomás:* üzemanyagellátás-szolgáltatási célból létesített, gépjárművek és munkagépek üzemanyag tartályaiba, illetve szállítóedényekbe történő üzemanyag töltésére, kenőanyag tárolására és kiszolgálására szolgáló létesítmény, amely magában foglalja az üzemanyag tárolására, töltésére szolgáló létesítményt, valamint az utak kivételével a kapcsolódó műtárgyakat is.
+
+10\. *Lefejtő berendezés:* a veszélyes töltetnek a szállítóeszközből vagy egy másik tartályból a tárolótartályba történő töltésére szolgáló kézi vagy automatikus berendezés; beleértve a szivattyút, a tárolótartály csatlakozó csonkjáig terjedő csővezetéket és ezek szerelvényeit, tartozékait is.
+
+11\. *Lényeges megváltoztatás:* az a tevékenység, melynek következtében a tárolótartály, illetve a tároló létesítmény eredeti funkciója, célfelhasználásra tervezett szerkezeti konstrukciója érdemben változik meg, vagy a tároló tartály, illetve a tároló létesítmény technológiai paramétereinek változtatása a műszaki biztonsági szint csökkenését eredményezi.
+
+12.[^7]
+
+13.[^8]
+
+14.[^9]
+
+15.[^10]
+
+16.[^11]
+
+17.[^12]
+
+18.[^13]
+
+19.[^14]
+
+20.[^15]
+
+21.[^16]
+
+22\. *Technológiai (célú) tartály:* olyan a gyártási folyamathoz kapcsolódó – a technológiai rendszer szerves részét képező – veszélyes töltetű tartály, amelyben a töltet további feldolgozáson-, (szándékolt fizikai változáson vagy kémiai átalakuláson megy keresztül), vagy amelynek a töltete egy napon belül legalább egyszer leürül.
+
+23\. *Töltő berendezés:* a veszélyes töltetnek a tároló tartályból szállító tartályba, üzemanyag tartályba, szállító edénybe, stb. történő töltésére szolgáló, kézi-, mechanikus- vagy automatikus töltőeszközzel ellátott berendezés.
+
+24.[^17]
+
+25.[^18]
+
+26.[^19]
+
+27.[^20]
+
+28\. *Üzemi üzemanyagtöltő állomás:* nem közforgalmú, az adott gazdálkodó szervezet által üzemeltetett, gépjárművek és munkagépek üzemanyag tartályaiba, illetve szállítóedényekbe történő üzemanyag töltésére, kenőanyag tárolására és kiszolgálására szolgáló létesítmény, tároló és töltésre szolgáló eszközökkel.
+
+29.[^21]
+
+30\. *Veszélyes töltet:* rendeltetésszerű használat során a tárolótartályban, tároló létesítményben lévő veszélyes folyadék vagy olvadék az együttesen kialakuló gáz és gőztérrel.
+
+31\. *Védőtávolság:* a veszélyforrás és a védendő létesítmény legközelebbi pontja közötti távolság.
+
+## 3.[^22]
+
+### 3. §
+
+## 4.[^23]
+
+### 4. §
+
+### 5. §
+
+### 6. §
+
+## 5.[^24]
+
+### 7. §
+
+## 6.[^25]
+
+### 8. §
+
+## 7.[^26]
+
+### 9. §
+
+## 8.[^27]
+
+### 10. §
+
+## 9.[^28]
+
+### 11. §
+
+## 10.[^29]
+
+### 12. §
+
+## 11.[^30]
+
+### 13. §
+
+### 14. §
+
+## 12.[^31]
+
+### 15. §
+
+### 16. §
+
+### 17. §
+
+## 13.[^32]
+
+### 18. §
+
+## 14. Műszaki biztonsági követelmények
+
+### 19. §
+
+(1) Tárolótartályt, tároló-létesítményt úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, hogy az megfeleljen műszaki biztonságra vonatkozó követelményeknek, valamint a jogszabályokban előírtaknak. A tervezésre, létesítésre, telepítésre, üzembe helyezésre és karbantartásra vonatkozó követelményeket a Műszaki Biztonsági Szabályzat tartalmazza.
+
+(2) Az egyenértékű műszaki biztonsági megoldás esetében, a mértékadó műszaki biztonsági szint eléréséről, fenntartásáról, a tervezőnek, a kivitelezőnek, a tárolótartály üzemeltetőjének, tároló-létesítménnyel rendelkezni jogosultnak a hatósági eljárás során írásban nyilatkoznia kell.
+
+### 20. §
+
+A 19. §-ban a forgalomba hozatal tekintetében meghatározott előírásoknak nem kell megfelelnie az olyan tárolótartálynak, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+## 15. [^33] A szakági műszaki szakbizottság működése és feladatai
+
+### 21. §
+
+(1) A rendelet hatálya alá tartozó berendezések és létesítmények létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
+
+(2) A Szakbizottság az e rendelet hatálya alá tartozó berendezések és létesítmények tervezésével, létesítésével és üzemeltetésével kapcsolatban szakági műszaki előírások formájában a Műszaki Biztonsági Szabályzat követelményeit az egészségvédelem magas szintjét kielégítő, valamint a műszaki-tudományos színvonallal és a gazdasági megfontolások alapján megvalósítható gyakorlattal összhangban álló műszaki megoldásokat dolgoz ki.
+
+(3) A Szakbizottságba tagot a következő szervezetek javasolhatnak:
+
+a) a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala: 1 fő,
+
+b) Magyar Ásványolaj Szövetség: 1 fő,
+
+c) Magyar Ipari Gáz Szövetség: 1 fő,
+
+d) Magyar Mérnöki Kamara: 1 fő,
+
+e)[^34] Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 2 fő,
+
+f) a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
+
+(4) A Szakbizottság tagjait az iparügyekért felelős miniszter 5 év időtartamra bízza meg.
+
+(5) A Szakbizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Szakbizottság elnökét.
+
+(6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.
+
+## 16. A műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzés
+
+### 22. §[^35]
+
+A műszaki biztonsági szempontból jelentős munkakörök betöltésére képesítő, valamint a kapcsolódó továbbképzések képzési programjára vonatkozó alapkövetelményeket a 2. melléklet tartalmazza.
+
+## 17. Záró rendelkezések
+
+### 23. §
+
+A Hatóság által e rendelet hatálybalépését megelőzően – az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet szerint – kiadott hatósági bizonyítványokkal, engedélyekkel megszerzett jogosultság az e rendelet szerinti nyilvántartásba vételi eljárás lefolytatása nélkül gyakorolható.
+
+### 24. §
+
+Az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet által vezetett nyilvántartás adatait a Hatóság – az e rendelet hatálybalépését követő 60 napon belül – a 3. § (3) bekezdése szerinti nyilvántartásba átvezeti.
+
+### 25. §
+
+E rendelet a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti bejelentése megtörtént.
+
+### 26. §
+
+E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+### 27. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 28. §[^36]
+
+### 29. §
+
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+
+## 1. melléklet az 1/2016. (I. 5.) NGM rendelethez[^37]
+
+**A veszélyes folyadékok és olvadékok tárolótartályainak műszaki biztonsági szabályzata**
+
+1\. Tárolótartályok, tároló-létesítmények tervezése
+
+1.1. Az e rendeletben foglalt műszaki biztonsági követelményeket teljesítettnek kell tekinteni, ha a tervezett műszaki megoldásra nemzeti szabvány vagy szakági műszaki előírás hivatkozik, és vonatkozásában a nemzeti szabvány vagy szakági műszaki előírás követelménye teljesül.
+
+2\. Tárolótartályok gyártása, létesítése, kivitelezése
+
+2.1. A tervdokumentációban foglalt műszaki tervektől, műszaki megoldásoktól abban az esetben lehet eltérni, ha az eltérés nem érinti a tervezett létesítmény alaprajzát, elrendezését, rendeltetését, szerkezeti megoldását, nem csökkenti az élet-, vagyon- és környezetbiztonságot. Az eltérést a megvalósulási dokumentációban rögzíteni kell.
+
+3\. Tárolótartályok, tároló-létesítmények üzemeltetésére és kezelésére vonatkozó követelmények
+
+3.1. A tároló-létesítményt és -tartályt, szerelvényeit, műszereit, kiszolgáló és védelmi berendezéseit, csatlakozó technológiai berendezéseit üzemeltetés során működőképes és üzemvitelre készre szerelten tömör állapotban kell tartani.
+
+3.2. A tárolótartály szerelvényeit, műszereit, kiszolgáló-, védelmi, jelzőberendezéseit működőképes és kifogástalan, hibamentes állapotban kell tartani. A veszélyes töltet tárolótartályának üzemeltetését hibátlan berendezéssel és szerelvényezéssel szabad folytatni.
+
+3.3. Az üzemeltetőnek gondoskodnia kell arról, hogy a tartályt kezelő személyzet részére legyen közelben, hozzáférhető helyen
+
+a) a tárolt töltet biztonsági adatlapja;
+
+b) szabályzat a veszélyes anyag kezelésére, tárolására;
+
+c) a tartály üzemeltetéséhez, a baleset személyzettől elvárható mértékű elhárítási intézkedéshez, a tárolt töltet és a hulladék ártalmatlanításához, a baleset elhárításhoz szükséges eszköz és védőfelszerelés.
+
+3.4. Az üzemeltetőnek gondoskodnia kell arról, hogy a kezelő személyzet legyen kiképezve a veszélyes anyag kezelési veszélyeire, a megteendő óvintézkedésekre és a szükséges balesetelhárítási intézkedésekre. Ismerje a vonatkozó szabályzatokat.
+
+3.5. Tárolótartályt, tároló-létesítményt a kezelő személyzet részére folyamatosan rendelkezésre álló kezelési utasítás szerint szabad üzemeltetni. A kezelési utasításnak tartalmaznia kell a tevékenységgel járó veszélyek azonosítását és a veszélyes események bekövetkezésének és veszélyes helyzetek kialakulásának megelőzésére és a bekövetkezett esemény, kialakult helyzet káros következményeinek mérséklésére vonatkozó alapvető ismereteket, a szükséges kezelőszemélyzet létszámát és a teendőket is.
+
+3.6. Tárolótartály, tároló-létesítmény kezelését csak olyan személy végezheti, akit előzőleg a biztonságos üzemeltetéssel és a hibaelhárítással kapcsolatos oktatásban részesítettek. Az oktatás megtörténtének tényét az üzemeltető jegyzőkönyvvel igazolja. Az oktatást a technológiai rendszer átalakításától vagy az üzemeltetés egyéb műszaki biztonsági feltételeinek lényeges megváltozásától függően, de legalább kétévente ismételni szükséges.
+
+3.7. Tárolótartály, tároló-létesítmény biztonsági jelző-, üzemviteli és védelmi rendszereit működőképes állapotban kell tartani. Meghibásodott biztonsági jelző- vagy védelmi rendszer esetén a tartályt üzemeltetni tilos. A gázinga benzingőzök szivárgásával járó meghibásodása esetén a tartályt üzemeltetni tilos. Egyéb, a biztonságos üzemeltetést befolyásoló berendezés 30 napon túli meghibásodása esetén a tartály használatát meg kell szüntetni, a tartályt le kell üríteni, ki kell tisztítani, és a kapcsolódó technológiai és villamos rendszerről biztonságos módon fizikálisan le kell választani.
+
+3.8. A tárolótartály, tároló-létesítmény üzemeltetőjének hagyományos vagy elektronikus formátumú üzemeltetési naplót kell vezetnie, amelyben minden rendellenességet feljegyeznek akként, hogy a bejegyzés kelte és a bejegyzést tevő személye azonosítható és visszakereshető legyen. A hagyományos naplót számozott oldalakkal kell készíteni. Elektronikus formátum esetén napi mentést szükséges készíteni, és azt elérhető helyen kell tárolni. Az üzemeltetési napló karbantartásáról, megóvásáról az üzemeltető köteles gondoskodni.
+
+4\. Tárolótartályok, tároló-létesítmények karbantartására vonatkozó követelmények
+
+4.1. A tárolótartályok, tároló-létesítmények karbantartásáról az üzemeltetőnek kell gondoskodnia úgy, hogy a tárolótartály és tároló-létesítmény, annak biztonsági berendezései, szerelvényei, kiegészítő elemei a biztonságos üzemeltetés e rendeletben meghatározott feltételeit mindenkor kielégítsék.
+
+4.2. Tárolótartályon munkát csak az arra jogosult személy végezhet.
+
+4.3. A tárolótartályban, tároló-létesítményben végzett munkák során a tárolt veszélyes anyag kezelésével kapcsolatos biztonsági követelményeket, valamint a műszaki biztonsági követelményeket be kell tartani. Beszállással járó tevékenységet kizárólag az üzemeltető által kiadott beszállási engedély birtokában, az üzemről megfelelően leválasztott tárolótartályon szabad végezni.
+
+4.4. Az üzemeltetőnek gondoskodnia kell arról, hogy a karbantartási munkák során veszélyesanyag-kijutás ne történhessen. Az esetleges tömörtelenség folytán szabadra kerülő veszélyes anyag haladéktalan felfogásáról, feltakarításáról, közömbösítéséről és környezetszennyezést kizáró elhatárolásáról, elszállításáról a lehető legrövidebb időn belül intézkedni kell.
+
+4.5. Karbantartási munkák során a veszélyes anyaggal korábban szennyezett felületeket meg kell tisztítani.
+
+4.6. A tárolótartály tisztítása, megszüntetése során keletkező szennyezett anyagmaradványok biztonságos kezeléséről az üzemeltető köteles gondoskodni.
+
+4.7. A szivárgásjelző, szivárgásfigyelő rendszereket a gyártó vagy tervező előírásai szerint kell karbantartani. A szivárgásjelző rendszer működőképességének ellenőrzését gyártói előírás szerint, annak hiányában legalább évente egyszer el kell végeztetnie az üzemeltetőnek.
+
+5\. A tárolótartályok, tároló-létesítmények időszakos vizsgálatának követelményei
+
+5.1. Tárolótartályon, tároló-létesítményen kötelezően elvégzendő ellenőrző vizsgálatok:
+
+a) üzembe helyezés (használatbavétel) előtti vizsgálatok,
+
+b) időszakos ellenőrző vizsgálatok,
+
+c) javítás vagy átalakítás utáni ismételt üzembe vétel előtti vizsgálatok,
+
+d) soron kívüli ellenőrző vizsgálatok.
+
+5.2. Az időszakos ellenőrző vizsgálatok módszerét úgy kell megválasztani, hogy az alkalmas legyen a vizsgálat tárgyának igazolására, és a módszer feltárja a tárolótartály további biztonságos használatát akadályozó tényeket, körülményeket.
+
+5.3. A tárolótartály biztonságos továbbüzemelése érdekében alkalmazott állapotellenőrzési és vizsgálati módszerek megválasztása az időszakos vizsgálatot végző tartályvizsgáló feladata és felelőssége. A tartályvizsgáló minden általa végzett vizsgálat alkalmával köteles meggyőződni a tárolótartály biztonsági és egyéb szerelvényei meglétéről, műszaki állapotuk megfelelőségéről.
+
+5.4. Tárolótartály külső és belső szerkezeti vizsgálata során kiemelt figyelmet kell fordítani a korróziós állapot ellenőrzésére. Az ellenőrzésnek ki kell terjednie a tartályt alkotó lemezek és hegesztett kötések állapotára.
+
+5.5. Tömörség-ellenőrzés során a vizsgálati módszert úgy kell megválasztani, hogy az biztosítsa a vizsgált tartály minden részelemére kiterjedő ellenőrzés lehetőségét. Az ellenőrzésnek ki kell terjednie a tartálypalástnak, a tartályfenéknek, valamint a csatlakozó csonkok, kötések, karimák, fedelek, vizsgáló-, búvó- és tisztítónyílások, tömítések tömörségének vizsgálatára is.
+
+5.6. A kettős teret határoló elemek tömörsége igazolható szivárgásvizsgálattal és szivárgásfigyelő rendszer ellenőrzésével.
+
+5.7. A hűtéssel cseppfolyósított gáz tárolótartályának ciklusonként elvégzett időszakos ellenőrző vizsgálata során a belső tisztítás elvégzése akkor mellőzhető, ha a tárolótartály további biztonságos használatát akadályozó tények, körülmények a belső tisztítás elvégzése nélkül is teljeskörűen feltárhatók.
+
+## 2. melléklet az 1/2016. (I. 5.) NGM rendelethez[^38]
+
+**A képzési programmal szemben támasztott alapkövetelmények**
+
+1\. A képzési programnak a képzési, továbbképzési szakterületnek megfelelően tartalmaznia kell
+
+1.1. a képzés megnevezését és célját,
+
+1.2. a szakképesítés munkaterületét és a képzés során megszerezhető kompetenciát,
+
+1.3. a képzésbe való bekapcsolódás és részvétel feltételeit,
+
+1.4. a tervezett képzési időt,
+
+1.5. a képzés formájának meghatározását (csoportos jelenléti képzés, egyéni felkészüléssel),
+
+1.6. a képzési témaköröket, a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és gyakorlati óraszámot,
+
+1.7. a maximális csoportlétszámot,
+
+1.8. a képzésben részt vevő teljesítményét értékelő rendszernek a leírását,
+
+1.9. a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit, valamint
+
+1.10. a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket.
+
+2\. A tartálytisztító képzési szakterület esetében a teljes képzési idő legalább 48 óra, melynek részeként a gyakorlati képzése legalább 1×8 óra.
+
+3\. A tartályvizsgáló képzési szakterület esetében a teljes képzési idő legalább 64 óra, melynek részeként a gyakorlati képzése legalább 2×8 óra.
+
+4\. A tartálytisztító továbbképzési szakterület esetében a teljes képzési idő legalább 1×8 óra.
+
+5\. A tartályvizsgáló továbbképzési szakterület esetében a teljes képzési idő legalább 3×8 óra.
+
+## 3. melléklet az 1/2016. (I. 5.) NGM rendelethez[^39]
+
+## 4. melléklet az 1/2016. (I. 5.) NGM rendelethez[^40]
+
+## 5. melléklet az 1/2016. (I. 5.) NGM rendelethez[^41]
+
+## 6. melléklet az 1/2016. (I. 5.) NGM rendelethez[^42]
+
+## 7. melléklet az 1/2016. (I. 5.) NGM rendelethez[^43]
+
+---
+
+[^1]: Az 1. § a 31/2019. (IX. 5.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 1. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 2. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 4. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^5]: A 2. § 5. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^6]: A 2. § 6. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^7]: A 2. § 12. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^8]: A 2. § 13. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^9]: A 2. § 14. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^10]: A 2. § 15. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^11]: A 2. § 16. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^12]: A 2. § 17. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^13]: A 2. § 18. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^14]: A 2. § 19. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^15]: A 2. § 20. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^16]: A 2. § 21. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^17]: A 2. § 24. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.
+[^18]: A 2. § 25. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.
+[^19]: A 2. § 26. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.
+[^20]: A 2. § 27. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.
+[^21]: A 2. § 29. pontját a 216/2019. (IX. 5.) Korm. rendelet 31. § e) pontja hatályon kívül helyezte.
+[^22]: A 3. alcímet (3. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^23]: A 4. alcímet (4–6. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^24]: Az 5. alcímet (7. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^25]: A 6. alcímet (8. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^26]: A 7. alcímet (9. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^27]: A 8. alcímet (10. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^28]: A 9. alcímet (11. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^29]: A 10. alcímet (12. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^30]: A 11. alcímet (13–14. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^31]: A 12. alcímet (15–17. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^32]: A 13. alcímet (18. §) a 216/2019. (IX. 5.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^33]: A 15. alcím (21. §) a 31/2019. (IX. 5.) ITM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 21. § (3) bekezdés e) pontja a 27/2020. (VII. 16.) ITM rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 22. § a 31/2019. (IX. 5.) ITM rendelet 3. §-ával megállapított szöveg.
+[^36]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. melléklet a 31/2019. (IX. 5.) ITM rendelet 4. §-ával megállapított szöveg.
+[^39]: A 3. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 31. § g) pontja hatályon kívül helyezte.
+[^40]: A 4. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 31. § h) pontja hatályon kívül helyezte.
+[^41]: Az 5. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 31. § i) pontja hatályon kívül helyezte.
+[^42]: A 6. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 31. § j) pontja hatályon kívül helyezte.
+[^43]: A 7. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 31. § k) pontja hatályon kívül helyezte.

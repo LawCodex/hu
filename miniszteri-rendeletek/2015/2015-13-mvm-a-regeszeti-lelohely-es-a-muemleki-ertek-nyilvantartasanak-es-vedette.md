@@ -1,0 +1,143 @@
+---
+title: "13/2015. (III. 11.) MvM rendelet a régészeti lelőhely és a műemléki érték nyilvántartásának és védetté nyilvánításának, valamint a régészeti lelőhely és a lelet megtalálója anyagi elismerésének részletes szabályairól"
+identifier: "13/2015. (III. 11.) MvM rendelet"
+njt_id: "2015-13-20-6N"
+eli: "https://njt.jog.gov.hu/eli/R/2015/MvM/13"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2015-03-11
+in_force_from: 2015-03-12
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2015-13-20-6N"
+retrieved: 2026-10-12
+---
+
+# 13/2015. (III. 11.) MvM rendelet a régészeti lelőhely és a műemléki érték nyilvántartásának és védetté nyilvánításának, valamint a régészeti lelőhely és a lelet megtalálója anyagi elismerésének részletes szabályairól
+
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés *a), c), f)* és *j)* pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 11. pontjában meghatározott feladatkörömben eljárva, a 6. § tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
+
+## 1. Általános rendelkezés
+
+### 1. §
+
+E rendelet hatálya a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben (a továbbiakban: Kötv.) meghatározott, a régészeti örökség és a műemléki érték védelmével kapcsolatos feladatok tekintetében
+
+a)[^1]
+
+b) a hatósági nyilvántartás és azzal összefüggő igazgatási szolgáltatási díj mértékére és a fizetésre vonatkozó egyéb szabályokra,
+
+c)[^2]
+
+d)[^3]
+
+terjed ki.
+
+## 2. A régészeti örökséggel és a műemléki értékekkel kapcsolatos nyilvántartás
+
+### 2. §[^4]
+
+### 3. §[^5]
+
+### 4. §[^6]
+
+### 5. §[^7]
+
+### 6. §
+
+(1)[^8] A nyilvántartást vezető hatóság a nyilvántartásában szereplő adataiból kérelemre adatot szolgáltat.
+
+(2) A hatósági nyilvántartásban kezelt adatokért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
+
+(3) A díj mértéke legfeljebb öt adat esetén kérelmenként 2200 forint. Ötnél több adat esetén a díj tételenként 220 forinttal növekszik. Ha az adatszolgáltatás valamely településrendezési eszköz elkészítéséhez szükséges, úgy a díjtétel egységesen 5000 forint.
+
+(4)[^9] A díjat a Miniszterelnökség 10032000-00294889-00000000 számú kincstári előirányzat-felhasználási keretszámlájára készpénz-átutalási megbízással vagy átutalási megbízással kell befizetni.
+
+(5)[^10]
+
+(6)[^11]
+
+(7)[^12]
+
+(8)[^13]
+
+(9)[^14]
+
+(10)[^15]
+
+(11)[^16]
+
+## 3. [^17] A nyilvántartott régészeti lelőhely és a nyilvántartott műemléki érték védetté nyilvánításának előkészítése
+
+### 7. §[^18]
+
+### 8. §[^19]
+
+### 9. §[^20]
+
+### 10. §[^21]
+
+### 11. §[^22]
+
+### 11/A. §[^23]
+
+## 4. A régészeti lelőhely és a lelet megtalálójának elismerésére vonatkozó részletes szabályokról
+
+### 12. §[^24]
+
+## 5. Záró rendelkezések
+
+### 13. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 14. §
+
+A 2015. január 1-je előtt műemlékként védett műemléki értékre vonatkozóan a 4. § (2)–(5) bekezdése, a 4. § (6) bekezdés *a)* pontja, a 4. § (8) és (9) bekezdése szerinti szabályokat nem kell alkalmazni.
+
+### 15. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 16. §[^25]
+
+## 1. melléklet a 13/2015. (III. 11.) MvM rendelethez[^26]
+
+## 2. melléklet a 13/2015. (III. 11.) MvM rendelethez[^27]
+
+## 3. melléklet a 13/2015. (III. 11.) MvM rendelethez[^28]
+
+## 4. melléklet a 13/2015. (III. 11.) MvM rendelethez[^29]
+
+---
+
+[^1]: Az 1. § a) pontját a 776/2021. (XII. 23.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § c) pontját a 776/2021. (XII. 23.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § d) pontját a 776/2021. (XII. 23.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^5]: A 3. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^6]: A 4. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^7]: Az 5. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^8]: A 6. § (1) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 6. § (4) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^10]: A 6. § (5) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^11]: A 6. § (6) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^12]: A 6. § (6) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^13]: A 6. § (8) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^14]: A 6. § (9) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja.
+[^15]: A 6. § (10) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja.
+[^16]: A 6. § (11) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 776/2021. (XII. 23.) Korm. rendelet 20. § c) pontja.
+[^17]: [A 3. alcím címének a 32/2016. (XII. 14.) MvM rendelet 10. § (1) bekezdés 11. pontjával elrendelt módosítása, amely szerint a „nyilvántartásának előkészítése” szövegrész helyébe a „nyilvántartásának, illetve a fennálló védettség megszüntetésének előkészítése” szöveg lép, nem vezethető át.]
+[^18]: A 7. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^19]: A 8. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^20]: A 9. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^21]: A 10. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^22]: A 11. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^23]: A 11/A. §-t a 11/2017. (IV. 6.) MvM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja.
+[^24]: A 12. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^25]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. mellékletet a 776/2021. (XII. 23.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^27]: A 2. mellékletet a 776/2021. (XII. 23.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^28]: A 3. mellékletet a 776/2021. (XII. 23.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^29]: A 4. mellékletet a 776/2021. (XII. 23.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.

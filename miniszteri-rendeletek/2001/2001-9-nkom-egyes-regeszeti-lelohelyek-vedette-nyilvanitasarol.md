@@ -1,0 +1,60 @@
+---
+title: "9/2001. (IV. 19.) NKÖM rendelet egyes régészeti lelőhelyek védetté nyilvánításáról"
+identifier: "9/2001. (IV. 19.) NKÖM rendelet"
+njt_id: "2001-9-20-86"
+eli: "https://njt.jog.gov.hu/eli/R/2001/NKOM/9"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2001-04-19
+in_force_from: 2001-04-19
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-9-20-86"
+retrieved: 2026-10-12
+---
+
+# 9/2001. (IV. 19.) NKÖM rendelet egyes régészeti lelőhelyek védetté nyilvánításáról
+
+A kulturális javak védelméről és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kult. tv.) 29. § (2) és (5) bekezdései, valamint a 100. § (4) bekezdése alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
+
+## 1. §
+
+(1)[^1] Védett régészeti területté nyilvánítom a Balassagyarmat (Nógrád vármegye) 561, 562, 563, 564/1, 564/2, 626, 653, 654/1, 654/2, 654/3, 654/4, 654/5, 654/6, 654/7, 654/8, 654/9, 654/10, 655, 656, 658/3, 658/5 hrsz. alatt nyilvántartott, művelés alól kivett területek művelési ágú ingatlanokat. A védettség határozatlan időre szól.
+
+(2) Az (1) bekezdésben megjelölt védett régészeti területen a régészeti védelem célja Gyarmat középkori várának, a palotának és a késő középkori várkastély maradványainak, melléképületeinek és kerítőfalának védelme, a régészeti emlékek megőrzése.
+
+(3) A védetté nyilvánítást a város belterületén fekvő lelőhely építkezések és földmunkák általi folyamatos veszélyeztetettsége indokolja.
+
+(4) A védetté nyilvánított területen a Kulturális Örökség Igazgatósága (a továbbiakban: Igazgatóság) engedélye szükséges a terület jellegzetes állapotát megváltoztató munkálatokhoz (30 cm mélységet meghaladó minden földmunkához, magas- és mélyépítéshez, kerítés, légvezeték tartóoszlopának földbe állításához), telekalakításhoz, továbbá fémkereső műszer használatához.
+
+## 2. §
+
+(1)[^2] Védett régészeti területté nyilvánítom a Dunaföldvár (Tolna vármegye) 6309 hrsz. alatt nyilvántartott, szőlő művelési ágú, 6310/3 hrsz. alatt nyilvántartott, gyümölcsös és kert művelési ágú és 6544 hrsz. alatt nyilvántartott, szántó művelési ágú, természetben az Alsó-Öreghegyen (Kálvária-hegy) található ingatlanokat. A védettség határozatlan időre szól.
+
+(2) A védelem célja az (1) bekezdésben megjelölt védett régészeti területen található középkori bencés kolostor és környezetének megóvása, jelenlegi állapotában való megőrzése.
+
+(3) A védetté nyilvánítást a területen az indokolja, hogy a folyamatosan végzett földmunka súlyosan veszélyezteti és pusztítja az itt található régészeti emlékeket, Dunaföldvár egyik legjelentősebb középkori emlékének, a bencés kolostornak maradványait.
+
+(4) A védetté nyilvánított területen az Igazgatóság engedélye szükséges a terület jellegzetes állapotát megváltoztató munkálatokhoz (30 cm mélységet meghaladó minden földmunkához, magas- és mélyépítéshez, kerítés, légvezeték tartóoszlopának földbe állításához, faültetéshez, tuskóirtásos fakitermeléshez, szőlő és gyümölcsös telepítéséhez, vezetékfektetéshez), továbbá a művelési ág megváltoztatásához, telekalakításhoz, illetve fémkereső műszer használatához.
+
+## 3. §
+
+(1)[^3] Védett régészeti területté nyilvánítom a Nádudvar (Hajdú-Bihar vármegye) 0598/42 és 0598/44 helyrajzi számon nyilvántartott, szántó művelési ágú, természetben Nádudvar, Sétér-halom területén található ingatlanokat. A védettség határozatlan időre szól.
+
+(2) A védelem célja az (1) bekezdésben megjelölt védett régészeti területen található középkori templom és a templom körüli temető megóvása, a föld felszíne alatt lévő régészeti emlékek jelenlegi állapotban való megőrzése.
+
+(3)[^4] A védetté nyilvánítást a lelőhelynek az adott vármegyében kiemelkedő régészeti értéke indokolja: az itt található emlék egyike Hajdú-Bihar vármegye kis számú Árpád-kori templomhelyeinek, ezért régészeti védelemben kell részesíteni.
+
+(4) A védetté nyilvánított területen az Igazgatóság engedélye szükséges a terület jellegzetes állapotát megváltoztató munkálatokhoz (30 cm mélységet meghaladó minden földmunkához, magas- és mélyépítéshez, kerítés, légvezeték tartóoszlopának földbe állításához, faültetéshez, tuskóirtásos fakitermeléshez, szőlő és gyümölcsös telepítéséhez, vezetékfektetéshez), továbbá a művelési ág megváltoztatásához, telekalakításhoz, illetve fémkereső műszer használatához.
+
+## 4. §
+
+Ez a rendelet a kihirdetése napján lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 1/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 1/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése az 1/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése az 1/2022. (XII. 27.) ÉKM rendelet 1. § a)-b) pontja szerint módosított szöveg.

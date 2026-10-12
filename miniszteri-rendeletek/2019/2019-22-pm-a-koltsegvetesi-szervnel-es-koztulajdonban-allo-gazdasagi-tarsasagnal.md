@@ -1,0 +1,506 @@
+---
+title: "22/2019. (XII. 23.) PM rendelet a költségvetési szervnél és köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú kötelező továbbképzéséről"
+identifier: "22/2019. (XII. 23.) PM rendelet"
+njt_id: "2019-22-20-53"
+eli: "https://njt.jog.gov.hu/eli/R/2019/PM/22"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2019-12-23
+in_force_from: 2020-01-01
+last_amended: 2025-01-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-22-20-53"
+retrieved: 2026-10-12
+---
+
+# 22/2019. (XII. 23.) PM rendelet a költségvetési szervnél és köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú kötelező továbbképzéséről
+
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (3) bekezdés 4. pontjában, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 11. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. és 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1.[^1] *Belső Ellenőrök Hatósági Nyilvántartása:* az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 70. § (5) bekezdése szerinti nyilvántartás;
+
+2.[^2] *e-learning:* olyan számítógépes hálózaton elérhető képzési forma, amely a tanítási, tanulási folyamatot segítve, a tananyagot a továbbképzésre kötelezett számára hozzáférhetővé teszi;
+
+3\. *Éves Továbbképzési Tájékoztató:* az államháztartásért felelős miniszter (a továbbiakban: miniszter) által az e rendeletben meghatározott továbbképzések vonatkozásában az Államháztartási Belső Pénzügyi Ellenőrzési Módszertani és Képzési Központ (a továbbiakban: Központ) és a miniszter által vezetett minisztérium honlapján közzétett éves tájékoztató;
+
+4\. *kötelező szakmai továbbképzésben közreműködő szervezet:* a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete;
+
+5.[^3] *központi költségvetésből támogatott képzés:* költségvetési szervnél munkaviszonyban, politikai szolgálati, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, hivatásos szolgálati, rendvédelmi igazgatási alkalmazottak szolgálati, egészségügyi szolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza;
+
+6\. *térítési díj:* az Éves Továbbképzési Tájékoztatóban közölt díj, amely mértékének meghatározása önköltségszámítás alapján történik; a térítési díj formái:
+
+a) az e-learning szolgáltatás költsége, vizsgával záruló képzés esetén a vizsga költsége, továbbá a kontakt vagy tréning formában szervezett képzés esetén felmerülő díja,
+
+b) az előzetes tudásszint-felmérő vizsga díja,
+
+c) a szintvizsga díja, valamint
+
+d) a pótvizsga díja;
+
+7\. *hatósági jellegű képzés:* a felnőttképzésről szóló törvényben meghatározott fogalom;
+
+8.[^4] *szintvizsga:* a továbbképzési kötelezettséget elmulasztók számára biztosított vizsga, amely az Államháztartási Belső Pénzügyi Ellenőrzési (a továbbiakban: ÁBPE) továbbképzés I. tananyagára épül;
+
+9\. *továbbképzésre kötelezett:* az a természetes személy, akinek a 12. § és a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Bkr.) 12. § (1)–(3) bekezdése alapján továbbképzési kötelezettsége áll fenn.
+
+## 2. A belső ellenőrre vonatkozó szakmai követelmények
+
+### 2. §
+
+(1)[^5] Költségvetési szervnél és köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenységet az végezhet, aki
+
+a) felsőfokú alap-, mester-, osztatlan vagy doktori képzésben szerzett jogász, közgazdász, okleveles közgazdász, informatikus közgazdász, mérnök-közgazdász, igazgatásszervező, közigazgatás-szervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser, államtudományi területen szerzett végzettséggel, vagy
+
+b) gazdaságinformatikus, gazdasági mérnöki, gazdasági agrármérnöki vagy műszaki menedzseri szakképzettséggel, vagy
+
+c) az a) és b) pontba nem tartozó felsőfokú iskolai végzettséggel és
+
+1\. okleveles pénzügyi revizori,
+
+2\. pénzügyi-számviteli ügyintézői,
+
+3\. pénzügyi-számviteli szakellenőri,
+
+4\. ellenőrzési szakelőadói,
+
+5\. okleveles könyvvizsgálói,
+
+6\. költségvetési ellenőri,
+
+7\. mérlegképes könyvelői,
+
+8\. a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
+
+9\. a Belső Ellenőrök Nemzetközi Szervezetének okleveles kockázatkezelői (CRMA),
+
+10\. az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
+
+11\. az Association of Chartered Certified Accountants (ACCA) számviteli szakmai testület tanúsítványa szerinti,
+
+12\. közigazgatási gazdálkodási és ellenőrzési szakértői,
+
+13\. felsőfokú költségvetési,
+
+14\. felsőfokú államháztartási,
+
+15\. államháztartási gazdálkodási és ellenőrzési,
+
+16\. államháztartási ügyintézői,
+
+17\. integritás tanácsadói,
+
+18\. vezetés és gazdálkodás a közszolgálatban,
+
+19\. számviteli ügyintézői,
+
+20\. szakközgazdász,
+
+21\. compliance (megfelelési) jogi szakokleveles szakember,
+
+22\. okleveles adótanácsadó
+
+szakképesítéssel, és
+
+d) a szakmai gyakorlatról szóló nyilatkozata szerinti,
+
+da) az a) és c) pontban meghatározott végzettségek esetén legalább kétéves,
+
+db) a b) pont szerinti végzettségek esetén legalább ötéves
+
+államháztartási költségvetési területen, költségvetési szervnél, illetve köztulajdonban álló gazdasági társaságnál végzett ellenőrzési vagy a szakmai végzettségének megfelelő szakmai gyakorlattal
+
+rendelkezik.
+
+(2) [^6] Ha a költségvetési szerv vagy a köztulajdonban álló gazdasági társaság belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője, vagy a köztulajdonban álló gazdasági társaság első számú vezetője a felsőfokú végzettséggel rendelkező személy részére felmentést adhat az (1) bekezdésben meghatározott szakmai gyakorlati feltétel alól. Ez esetben a költségvetési szerv vezetője, vagy a köztulajdonban álló gazdasági társaság első számú vezetője gondoskodik arról, hogy a belső ellenőrzési szervezeti egység rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a feladatok elvégzéséhez szükséges.
+
+(3) [^7] Ha a költségvetési szerv vagy a köztulajdonban álló gazdasági társaság belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője, vagy a köztulajdonban álló gazdasági társaság első számú vezetője a felsőfokú végzettséggel rendelkező személy részére felmentést adhat az (1) bekezdésben meghatározott szakmai végzettségre vonatkozó feltétel alól, amennyiben az adott személy szakmai végzettsége vagy tapasztalata révén olyan speciális szakértelmet biztosít a szervezeti egység számára, amely a belső ellenőrzés feladat ellátásához szükséges.
+
+(4) [^8] A (2) bekezdésben meghatározott szakmai gyakorlatra vonatkozó feltétel alóli felmentés, valamint a (3) bekezdésben meghatározott szakmai végzettségre vonatkozó feltétel alóli felmentés esetén az államháztartásért felelős miniszter a felmentést adó költségvetési szervre, illetve annak irányítása, felügyelete alá tartozó szervre, vagy a felmentést adó köztulajdonban álló gazdasági társaságra, valamint annak tulajdonosi joggyakorlása alatt álló társaságokra korlátozza a tevékenység folytatásának jogosultságát.
+
+### 3. §
+
+(1)[^9] A belső ellenőrzési tevékenység végzésére irányuló szándékot a bejelentő a (2) bekezdés szerinti adattartalommal, a miniszter által erre a célra rendszeresített elektronikus űrlapon keresztül, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény alapján a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevételével való azonosítást követően vagy az államháztartásért felelős miniszter által vezetett minisztérium honlapján (a továbbiakban: Honlap) közzétett „Adatlap” megnevezésű formanyomtatvány használatával papír alapon jelenti be az államháztartásért felelős miniszter részére. A bejelentéshez csatolni kell a (3) bekezdés a)–c) pontja szerinti dokumentumokat.
+
+(1a)[^10] A Belső Ellenőrök Hatósági Nyilvántartásában szereplő adatokban bekövetkezett változás esetén a bejelentést a (2) bekezdés a)–b) és d)–e) pontja szerinti adattartalommal kell teljesíteni.
+
+(1b)[^11] A tevékenység megszüntetésére irányuló bejelentést a (2) bekezdés a)–b) és e) pontja szerinti adattartalommal kell benyújtani, és a bejelentéshez csatolni kell a (3) bekezdés c) pontja szerinti dokumentumot.
+
+(1c)[^12] Az (1)–(1b) bekezdésben meghatározott bejelentések benyújtásával kapcsolatos tájékoztatót és a kapcsolódó dokumentumokat az államháztartásért felelős miniszter a Honlapon teszi közzé.
+
+(2) A bejelentés tartalmazza
+
+a) a bejelentő
+
+aa) nevét,
+
+ab) születési nevét,
+
+ac) születési helyét,
+
+ad) születési idejét,
+
+ae) anyja születési nevét,
+
+af) lakcímét,
+
+ag) értesítési címét,
+
+ah) telefonszámát,
+
+ai) elektronikus elérhetőségét és
+
+aj)[^13] nyilvántartási számát, ha már szerepel vagy korábban szerepelt a Belső Ellenőrök Hatósági Nyilvántartásában,
+
+b) annak megjelölését, hogy a bejelentése a tevékenység megkezdésére, a nyilvántartott adataidban bekövetkezett adatváltozásra vagy a tevékenység megszüntetésére irányul,
+
+c) annak megjelölését, hogy költségvetési szervnél, illetve köztulajdonban álló gazdasági társaságnál, vagy mindkettő esetében kíván belső ellenőrzési tevékenységet folytatni,
+
+d)[^14] annak megjelölését, hogy a nevén és nyilvántartási számán kívül az Áht. 70. § (6) bekezdése szerint mely adatának – lakcím, értesítési cím, telefonszám vagy elektronikus elérhetőség – nyilvánossá tételéhez járul hozzá, és
+
+e) annak megjelölését, hogy a kapcsolattartás módjaként az elektronikus vagy a papíralapú ügyintézést választja.
+
+(3) A bejelentéshez csatolni kell
+
+a) a miniszteri rendeletben meghatározott szakirányú és más felsőfokú iskolai végzettséget igazoló oklevél, bizonyítvány másolatát,
+
+b) a legalább kétéves szakmai gyakorlat bemutatását tartalmazó kérelmezői nyilatkozat vagy a szakmai gyakorlat alóli felmentést igazoló dokumentumot és
+
+c) az igazgatási szolgáltatási díj megfizetését igazoló dokumentumot.
+
+(4)[^15]
+
+(5)[^16] A belső ellenőr az Áht. 70. § (5) bekezdése szerinti Belső Ellenőrök Hatósági Nyilvántartásában (a továbbiakban: nyilvántartás) szereplő adataiban bekövetkezett változást haladéktalanul, de legkésőbb 8 napon belül bejelenti az államháztartásért felelős miniszternek. A bejelentéshez csatolja az adatváltozást igazoló dokumentum másolatát.
+
+### 4. §[^17]
+
+(1) A belső ellenőr haladéktalanul, de legfeljebb nyolc napon belül köteles írásban bejelenteni az államháztartásért felelős miniszternek, valamint a munkáltatói jogkör gyakorlójának vagy megbízójának minden olyan okot vagy körülményt – az ezen okot igazoló dokumentumok benyújtásával egyidejűleg –, ami korlátozza vagy kizárja a tevékenysége végzését.
+
+(2) A belső ellenőr vagy a képviseletében eljárni jogosult személy az (1) bekezdésben meghatározottak szerint haladéktalanul, de legfeljebb nyolc napon belül köteles bejelenteni, ha az Áht. 70. § (7b) bekezdése szerinti körülmény merül fel.
+
+(3)[^18] A belső ellenőr halála esetén az államháztartásért felelős miniszter a halotti anyakönyvi kivonat másolata vagy a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti nyilvántartást kezelő szerv igazolása alapján a belső ellenőrt a Belső Ellenőrök Hatósági Nyilvántartásából hivatalból, díjmentesen törli. A belső ellenőr halála esetén a törlést kérelemre a munkáltató vagy a megbízó is kezdeményezheti, ebben az esetben a bejelentőt díjfizetési kötelezettség nem terheli.
+
+## 3. A belső ellenőrök nyilvántartásával kapcsolatos igazgatási szolgáltatási díj
+
+### 5. §
+
+(1) A belső ellenőr a tevékenység megkezdésének, a nyilvántartott adataiban történt adatváltozásának, valamint a tevékenység megszüntetésének bejelentésére vonatkozó eljárásért a következő igazgatási szolgáltatási díjat (a továbbiakban: díj) fizeti:
+
+a)[^19] a belső ellenőri tevékenység megkezdésének bejelentésre irányuló eljárás díja 10 800 forint,
+
+b)[^20] a kérelemre történő törlési eljárás díja 6 000 forint,
+
+c) a bejegyzett adatok módosítására irányuló bejelentés eljárása díjmentes.
+
+(2)[^21] Az (1) bekezdés szerinti díjakat átutalással, postai készpénz átutalási megbízással vagy az egyes iForm űrlapokhoz társított elektronikus fizetési és elszámolási rendszeren (EFER) keresztül kell befizetni.
+
+(3) Az (1) bekezdés szerinti díj a Pénzügyminisztérium működési bevétele.
+
+(4) Ha a bejelentés és a befizetést igazoló okiratok alapján megállapítható, hogy a bejelentő a szükséges mértéket meghaladó összegű díjat fizetett, a többletet a miniszter visszatéríti.
+
+(5) A miniszter a többlet visszatérítését hivatalból rendeli el, és annak teljesítéséről a többlet megállapításától számított 30 napon belül a befizetés módjával megegyező módon intézkedik.
+
+(6) A díj nyilvántartására, kezelésére és elszámolására az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmazni.
+
+(7) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében foglaltakat, valamint az Itv. 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díj értendő.
+
+(8)[^22] A 4. § (3) bekezdése szerinti kérelemre induló eljárásban a munkáltatót vagy a megbízót az (1) bekezdés b) pontja szerinti díjfizetési kötelezettség nem terheli.
+
+## 4. A költségvetési szervnél belső ellenőrzési tevékenységet végzők, költségvetési szerv vezetők és gazdasági vezetők kötelező hatósági jellegű szakmai továbbképzésére vonatkozó közös szabályok
+
+### 6. §
+
+(1) A költségvetési szervnél belső ellenőrzési tevékenységet végzők és a költségvetési szervek vezetői és gazdasági vezetői számára szervezett továbbképzésen (a továbbiakban együtt: kötelező továbbképzés) való részvétel feltétele a kötelező szakmai továbbképzésben közreműködő szervezet és a továbbképzésre kötelezett között megkötendő képzési szerződés, amelyet a kötelező szakmai továbbképzésben közreműködő szervezet a térítési díj megfizetése, illetve térítésmentesség esetén a 7. § (3) bekezdésben meghatározott nyilatkozatok beérkezését követően küld meg a továbbképzésre kötelezett részére.
+
+(2)[^23] A továbbképzésre kötelezettek számára az e-learning tanfolyam a továbbképzés évében és támogatásra jogosultként térítésmentesen vehető igénybe, egyéb esetben térítési díjköteles, amelynek mértékét a miniszter az Éves Továbbképzési Tájékoztatóban évente január 15-ig teszi közzé.
+
+(3) A kötelező továbbképzés évében a továbbképzésre kötelezett részére a miniszter egy ÁBPE-továbbképzési program elvégzéséhez nyújt költségvetési támogatást.
+
+### 7. §
+
+(1) A kötelező továbbképzés éves időszaka január 15-től december 15-ig tart.
+
+(2) A továbbképzésre kötelezett az első félévre meghirdetett kötelező továbbképzésre vonatkozó részvételi szándékát a kötelező továbbképzés évében február 28-ig, a második félévre meghirdetett kötelező továbbképzésre vonatkozó részvételi szándékát a kötelező továbbképzés évében legkésőbb augusztus 15-ig a Központ honlapján keresztül történő jelentkezés elküldésével jelzi a kötelező szakmai továbbképzésben közreműködő szervezetnek.
+
+(3)[^24] A továbbképzésre kötelezett a jelentkezéshez, valamint a támogatott térítési díj vagy a térítésmentesség megállapításához az Éves Továbbképzési Tájékoztatóban közzétett nyilatkozatokat a jelentkezést követő 10 napon belül kitölti, és megküldi a kötelező szakmai továbbképzésben közreműködő szervezet részére.
+
+(4) A kötelező szakmai továbbképzésben közreműködő szervezet a jelentkezés befogadását a jelentkezést követő 30 napon belül megerősíti.
+
+(5) A kötelező szakmai továbbképzésben közreműködő szervezet a képzésekre olyan költségvetési szervnél vagy köztulajdonban álló gazdasági társaságnál dolgozó természetes személyek jelentkezését is elfogadhatja, akik nem tartoznak e rendelet hatálya alá. Ebben az esetben nem vizsgálja a képzési programban meghatározott bemeneti feltételek meglétét. A továbbképzésre nem kötelezettként teljesített képzések a későbbiekben nem számíthatók be a képzési kötelezettség teljesítésébe, kivéve a 12. § (1) bekezdés a) pontjában meghatározott esetben.
+
+### 8. §
+
+(1) A kötelező továbbképzés – miniszter által jóváhagyott – képzési programjában meghatározott előzetes tudásszint-felmérésen (a továbbiakban: ETF) legalább 80%-os eredményt elérő továbbképzésre kötelezett az adott évben mentesül a kötelező továbbképzésen való részvételi és a vizsgatételi kötelezettség, valamint a térítési díj megfizetése alól.
+
+(2) Az ETF-en az vehet részt, aki a jelentkezését a Központ honlapján keresztül benyújtotta, és a fizetési határidőig a térítési díjat megfizette.
+
+(3) A sikeres ETF alapján kiállításra kerülő tanúsítványt a képzési szerződés beérkezését követő 30 napon belül a kötelező szakmai továbbképzésben közreműködő szervezet megküldi a továbbképzésre kötelezett részére. A kötelező szakmai továbbképzésben közreműködő szervezet az ETF eredményét hivatalból figyelembe veszi a képzési szerződés elkészítése során.
+
+(4) A költségvetési támogatásban részesülő, az ETF-et sikeresen teljesítő továbbképzésre kötelezettek részére a térítési díjat a kötelező szakmai továbbképzésben közreműködő szervezet 30 napon belül visszautalja.
+
+### 9. §
+
+(1) A továbbképzésre kötelezett a képzést írásban jogosult lemondani legkésőbb a képzés napját megelőző munkanapon. A jelentkezés lemondása esetén a továbbképzésre kötelezett részére az általa befizetett térítési díjat a kötelező szakmai továbbképzésben közreműködő szervezet 30 napon belül visszautalja.
+
+(2) Ha a továbbképzésre kötelezett másik képzésre jelentkezik át, a lemondás mellett új jelentkezési lapot tölt ki a Központ honlapján. A korábban befizetett térítési díj az új jelentkezésnél beszámításra kerül.
+
+(3) Ha a továbbképzésre kötelezett által megjelölt időpontban a választott képzésre nincs szabad hely, a kötelező szakmai továbbképzésben közreműködő szervezet új időpontot ajánl fel a rendelkezésre álló szabad képzési kapacitás terhére. Ha a továbbképzésre kötelezett az új időpontot nem fogadja el, kérheti az általa befizetett térítési díj visszafizetését.
+
+### 10. §
+
+(1) A képzés a kötelező szakmai továbbképzésben közreműködő szervezet részéről történő lemondására a képzést megelőzően legfeljebb 10 nappal kerülhet sor azzal, hogy egyidejűleg a kötelező szakmai továbbképzésben közreműködő szervezet új időpontot ajánl a lemondott képzésre a továbbképzésre kötelezett által választott képzési formának megfelelően.
+
+(2) Ha a továbbképzésre kötelezett a felajánlott időpontot nem fogadja el, kizárólag az e-learning képzési formát választhatja, vagy kérheti az általa befizetett térítési díj visszafizetését. Ezekben az esetekben a kötelező szakmai továbbképzésben közreműködő szervezet a térítési díj különbözetét, illetve a résztvevő által befizetett térítési díjat a továbbképzésre kötelezett részére visszautalja.
+
+### 11. §
+
+(1) A kötelező szakmai továbbképzésben közreműködő szervezet a továbbképzést – ha a továbbképzéshez vizsga kapcsolódik, a sikeres vizsgát – követő 30 napon belül, de legkésőbb a tárgyév december 20-ig tanúsítványt állít ki a továbbképzésre kötelezett részére a szakmai továbbképzési kötelezettségének teljesítéséről.
+
+(2) Az egyedi azonosítóval ellátott tanúsítvány tartalmazza
+
+a) a továbbképzésre kötelezett nevét,
+
+b) a továbbképzésre kötelezett születési idejét,
+
+c) a továbbképzésre kötelezett anyja nevét,
+
+d) belső ellenőrök esetében a nyilvántartási számát,
+
+e) a képzés idejét,
+
+f) a képzési program megnevezését,
+
+g) a képzés értékelését a következők szerint:
+
+ga) háromfokozatú értékeléssel rendelkező program esetén a minősítés szintjét,
+
+gb) kétfokozatú értékeléssel rendelkező program esetén a „Teljesítette” értékelést és
+
+h) a kiállítás dátumát.
+
+## 5. A költségvetési szervnél belső ellenőrzési tevékenységet végzők kötelező szakmai továbbképzése
+
+### 12. §
+
+(1)[^25] A költségvetési szervnél továbbképzésre kötelezett belső ellenőr
+
+a) a tevékenység megkezdésére irányuló bejelentésének évében, de legkésőbb a bejelentés évét követő évben ÁBPE-továbbképzés I. – belső ellenőrök részére képzésen, és
+
+b) az a) pontban meghatározott képzés sikeres elvégzését követően minden második évben ÁBPE-továbbképzés II. – belső ellenőrök részére képzéseken
+
+vesz részt.
+
+(1a)[^26] Az (1) bekezdésben meghatározott képzési időszakon kívül teljesített képzések nem fogadhatóak el és nem számíthatóak be a szakmai továbbképzési kötelezettségbe.
+
+(2) A 15. § szerinti szintvizsgát követően a továbbképzésre kötelezett a továbbiakban az (1) bekezdés b) pontja szerint vesz részt az ÁBPE továbbképzést II. – belső ellenőrök részére képzéseken a szintvizsga sikeres letételétől számítva.
+
+(3)[^27] Ha egy költségvetési szerv vezetője vagy gazdasági vezetője szerepel a Belső Ellenőrök Hatósági Nyilvántartásában, és emiatt továbbképzésre kötelezett, elegendő a belső ellenőrök részére meghirdetett képzéseken részt vennie, azzal teljesíti a költségvetési szerv vezetők vagy gazdasági vezetők számára előírt képzési kötelezettségét.
+
+(4) A költségvetési szerv vezetők és gazdasági vezetők részére meghirdetett képzések nem fogadhatóak el a költségvetési szervnél belső ellenőrzési tevékenységet végzők részére teljesítendő képzések kiváltására.
+
+### 13. §
+
+(1) A továbbképzésre kötelezett a 12. § szerinti szakmai továbbképzési kötelezettséggel szemben kimentési kérelemmel élhet.
+
+(2)[^28] A kimentési kérelmet a képzési kötelezettség fennállásának évében, december 15-ig lehet benyújtani a miniszternek. A kimentési kérelem tudomásulvételéről a miniszter határozatot hoz, amelyet a továbbképzésre kötelezett a következő évben mellékel a képzésre történő újbóli jelentkezéshez annak érdekében, hogy a 6. § (3) bekezdésében meghatározott költségvetési támogatás megállapítható legyen.
+
+(3) A továbbképzésre kötelezett belső ellenőr a kimentési kérelemmel érintett továbbképzési évet követő évben pótlólag teljesíti a továbbképzési kötelezettségét. A pótlólag teljesített képzés esetén a továbbképzésre kötelezett belső ellenőr a díjfizetés tekintetében képzésre kötelezettnek minősül. A kimentési kérelemnek nincs halasztó hatálya a 12. § (1) bekezdés b) pontjában és (2) bekezdésében meghatározott képzési kötelezettségekre.
+
+(4)[^29] A (2) bekezdésben foglalt határidő jogvesztő, a határozat meghozatalakor a miniszter mérlegelés nélkül dönt.
+
+(5) Ha a továbbképzésre kötelezett a központi költségvetésből támogatott képzésben vesz részt, és
+
+a) a megkezdett, kötelező továbbképzést a tárgyévben nem teljesíti,
+
+b) a vizsgával záruló képzés esetén a vizsgán nem jelenik meg, vagy
+
+c) a sikertelen vizsgáját nem javítja,
+
+a kötelező szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizeti.
+
+### 14. §
+
+(1) Az ÁBPE-továbbképzés I. – belső ellenőrök részére képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. – belső ellenőrök részére képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
+
+a) kontakt képzés esetén részt vett a képzéshez kapcsolódó előadások óráin és aláírta a jelenléti ívet,
+
+b) e-learning képzés esetén sikeresen kitöltötte a tananyaghoz kapcsolódó önellenőrző tesztet.
+
+(2) A vizsga eredményének minősítését a képzési program tartalmazza.
+
+(3) A vizsgaeredménnyel kapcsolatos panasz kezelését a kötelező szakmai továbbképzésben közreműködő szervezet vizsgaszabályzata szabályozza, amely a Központ honlapján kerül közzétételre.
+
+(4) Sikertelen vizsga esetén a tárgyév év december 15-ig legfeljebb 3 alkalommal van lehetőség pótvizsgát tenni. A pótvizsga térítési díjköteles.
+
+(5) Az ÁBPE-továbbképzés II. – belső ellenőrök részére képzés zárásának feltétele
+
+a) – kontakt képzés esetében – a belső ellenőrök részére szervezett képzésen való részvétel, és a programzáró önellenőrző teszt legalább 60%-os eredménnyel történő teljesítése az e-learning keretrendszerben, legkésőbb a képzés zárónapjáig,
+
+b) – e-learning képzési forma esetében – a programzáró önellenőrző teszt legalább 60%-os eredménnyel történő teljesítése legkésőbb a képzés zárónapjáig,
+
+c) – tréning képzési forma esetében – a képzésen való részvétel.
+
+(6)[^30] A 17. § (5) bekezdésében meghatározott más képző intézmény által szervezett képzésen való részvételt a továbbképzésre kötelezett belső ellenőr közvetlenül a miniszter felé igazolja a részvételt igazoló tanúsítvány megküldésével.
+
+### 15. §
+
+(1)[^31] A továbbképzési kötelezettségének nem teljesítése esetén nem törölhető a Belső Ellenőrök Hatósági Nyilvántartásából és nem tiltható el a tevékenység gyakorlásától az a továbbképzésre kötelezett személy, aki a miniszter felszólítása alapján a kötelező továbbképzés képzési programjában meghatározott, az ÁBPE továbbképzés I. – belső ellenőrök részére képzés tananyagára épülő szintvizsgán legalább 80%-os eredményt ér el.
+
+(2)[^32] Az (1) bekezdésben meghatározott mentesítés feltétele, hogy a képzésre kötelezett személy a szintvizsgán az erre vonatkozó felszólítás kézhezvételét követő 6 hónapon belül részt vesz. A szintvizsgához nem biztosít tananyagot a kötelező szakmai továbbképzésben közreműködő szervezet. Aki a szintvizsgán akadályoztatása miatt nem tud részt venni, egy alkalommal lehetősége van a vizsga pótlására a meghatározott 6 hónapon belül. A sikertelen szintvizsga megismétlésére nincs lehetőség.
+
+(3)[^33] A miniszter eltiltja a belső ellenőrzési tevékenység gyakorlásának folytatásától és törli a Belső Ellenőrök Hatósági Nyilvántartásából azt a személyt, aki a szintvizsgán nem ér el legalább 80%-os eredményt.
+
+(4) Az (1) bekezdésben meghatározott szintvizsgára jelentkezni kizárólag a Központ honlapján lehetséges.
+
+(5) A szintvizsga térítési díjköteles.
+
+(6) A szintvizsga egyéb vizsgával nem váltható ki.
+
+## 6. A költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzése
+
+### 16. §
+
+(1)[^34] A költségvetési szervek vezetői és gazdasági vezetői a részükre meghirdetett ÁBPE-továbbképzés I. és II. – a költségvetési szervek vezetői és gazdasági vezetői részére megnevezésű szakmai továbbképzéseken a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendeletben meghatározottak szerint vesznek részt.
+
+(2)[^35]
+
+(3) A Bkr. 12. § (1) bekezdésében meghatározott kijelölést a költségvetési szerv vezetője az Éves Továbbképzési Tájékoztatóban közzétett formanyomtatványon jelenti be a kötelező szakmai továbbképzésben közreműködő szervezet felé.
+
+(4) A (3) bekezdés alapján történő kijelölést tartalmazó formanyomtatványt és az Éves Továbbképzési Tájékoztatóban közzétett, a kijelölt személyre vonatkozó nyilatkozatokat a továbbképzésre kötelezett a kötelező továbbképzésre történő jelentkezést követő 10 napon belül küldi meg a kötelező szakmai továbbképzésben közreműködő szervezet részére.
+
+(5)[^36] A továbbképzésre kötelezett költségvetési szerv vezetőjének és gazdasági vezetőjének a 17. § (5) bekezdésében meghatározott képzésen való részvételét a Bkr. 11. § (1) bekezdésében meghatározott nyilatkozatban kell igazolni.
+
+## 7. A Központ működésével kapcsolatos feladatok
+
+### 17. §
+
+(1) A miniszter gondoskodik a Központ szakmai tevékenységének irányításáról, melynek keretében kialakítja az ÁBPE-továbbképzés I. – belső ellenőrök részére, az ÁBPE-továbbképzés I. – a költségvetési szervek vezetői és gazdasági vezetői részére, és az ÁBPE-továbbképzés II. továbbképzések programjait.
+
+(2)[^37] A miniszter kijelöli a Központ által felkérhető oktatókat és évente felülvizsgálja az oktatói adatbázist, amelyet az Éves Továbbképzési Tájékoztatóban tesz közzé.
+
+(2a)[^38] A miniszter által felülvizsgált oktatói adatbázisban nem szereplő személynek a 12. § (1) bekezdése szerinti továbbképzési kötelezettsége áll fenn az oktatói adatbázisból való kikerülés időpontját követő évben, ha a Belső Ellenőrök Hatósági Nyilvántartásában szerepel.
+
+(3)[^39]
+
+(4) A (2) bekezdésben meghatározott kijelöléssel az oktatók mentesülnek a Bkr. 12. § (1) és (2) bekezdésében és az e rendelet 12. §-ában meghatározott továbbképzési kötelezettség alól.
+
+(5)[^40] A Központ által meghirdetendő képzési programokat, illetve a más képző intézmény által szervezett – de a 12. § (1) bekezdés b) pontja vagy a 16. § (1) bekezdésében meghatározott kötelező továbbképzés teljesítésébe beszámítható – képzések listáját a miniszter minden évben az Éves Továbbképzési Tájékoztatóban hirdeti meg.
+
+### 18. §
+
+(1)[^41] A kötelező szakmai továbbképzésben közreműködő szervezet továbbképzést kizárólag a miniszter által jóváhagyott képzési program alapján szervezhet. A képzési program megnevezését, típusát, célját és óraszámát az Éves Továbbképzési Tájékoztató tartalmazza.
+
+(2) A képzési program tartalmazza
+
+a) a képzési program megnevezését,
+
+b) a képzési program típusát,
+
+c) a képzési program támogatását,
+
+d) a képzési program célját
+
+e) a képzési program célcsoportját,
+
+f) a képzési programba való bekapcsolódás feltételeit,
+
+g) a képzési programban való részvétel feltételeit,
+
+h) a tervezett képzési időt,
+
+i) a képzés formáját,
+
+j) a csoport létszámát,
+
+k) a képzési program témaköreit,
+
+l) az értékelési rendszert,
+
+m) a képzési program elvégzését igazoló irat megnevezését és
+
+n) a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket, ezek biztosításának módját.
+
+(3) A képzés formája lehet kontaktórás, e-learning vagy tréning.
+
+### 19. §
+
+(1) A kötelező szakmai továbbképzésben közreműködő szervezet minden év december 31-ig tájékoztatja a minisztert a képzésekről, ezzel igazolva a képzésen részt vett továbbképzésre kötelezett belső ellenőrök kötelezettségeinek teljesítését.
+
+(2) A Központ a miniszter részére minden év január 31-ig összefoglalót készít az előző évben lebonyolított kötelező továbbképzésekről.
+
+(3) A kötelező szakmai továbbképzésben közreműködő szervezet a képzés szervezése, lebonyolítása során alkalmazott jelentkezési lapot, munkáltatói, adatkezelői, kijelölési nyilatkozatot, képzési szerződést, haladási naplót, jelenléti ívet, a tanúsítvány hitelesített másolatát, kontaktképzés, illetve tréning esetén az oktató résztvevői értékelését és az Országos Statisztikai Adatgyűjtési Program statisztikai célú adatszolgáltatását a képzés tárgyévét követő 10 évig az ÁBPE-továbbképzés térítési díj központi költségvetésből történő megtérítése jogszerűségének ellenőrzése céljából megőrizi.
+
+## 8. Záró rendelkezések
+
+### 20. §
+
+(1) Ez a rendelet 2020. január 1-jén lép hatályba.
+
+(2)[^42]
+
+### 21. §[^43]
+
+Ez a rendelet
+
+1\. a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek,
+
+2\. a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek és
+
+3\. a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 22/2019. (XII. 23.) PM rendelethez[^45]
+
+---
+
+[^1]: Az 1. § 1. pontja a 7/2024. (XII. 31.) PM rendelet 4. §-ával megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 7/2024. (XII. 31.) PM rendelet 12. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § 5. pontja a 21/2020. (XII. 30.) PM rendelet 14. §-a, a 7/2024. (XII. 31.) PM rendelet 12. § 2. pontja szerint módosított szöveg.
+[^4]: Az 1. § 8. pontja a 7/2024. (XII. 31.) PM rendelet 12. § 3. pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdését a 7/2024. (XII. 31.) PM rendelet 5. § (2) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1a) bekezdését a 7/2024. (XII. 31.) PM rendelet 6. § (2) bekezdése iktatta be.
+[^11]: A 3. § (1b) bekezdését a 7/2024. (XII. 31.) PM rendelet 6. § (2) bekezdése iktatta be.
+[^12]: A 3. § (1c) bekezdését a 7/2024. (XII. 31.) PM rendelet 6. § (2) bekezdése iktatta be.
+[^13]: A 3. § (2) bekezdés a) pont aj) alpontja a 7/2024. (XII. 31.) PM rendelet 12. § 5. pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdés d) pontja a 7/2024. (XII. 31.) PM rendelet 12. § 6. pontja szerint módosított szöveg.
+[^15]: A 3. § (4) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 1. pontja hatályon kívül helyezte.
+[^16]: A 3. § (5) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 7. pontja szerint módosított szöveg.
+[^17]: A 4. § a 20/2021. (XII. 28.) PM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 4. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 8. pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdés a) pontja a 6/2024. (XII. 23.) PM rendelet 8. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (1) bekezdés b) pontja a 6/2024. (XII. 23.) PM rendelet 8. § b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^22]: Az 5. § (8) bekezdését a 20/2021. (XII. 28.) PM rendelet 2. §-a iktatta be.
+[^23]: A 6. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^24]: A 7. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 10. pontja szerint módosított szöveg.
+[^25]: A 12. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^26]: A 12. § (1a) bekezdését a 7/2024. (XII. 31.) PM rendelet 8. § (2) bekezdése iktatta be.
+[^27]: A 12. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 11. pontja szerint módosított szöveg.
+[^28]: A 13. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 12. pontja szerint módosított szöveg.
+[^29]: A 13. § (4) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 13. pontja szerint módosított szöveg.
+[^30]: A 14. § (6) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 14. pontja szerint módosított szöveg.
+[^31]: A 15. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 15. pontja szerint módosított szöveg.
+[^32]: A 15. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 16. pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 17. pontja szerint módosított szöveg.
+[^34]: A 16. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^35]: A 16. § (2) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 2. pontja hatályon kívül helyezte.
+[^36]: A 16. § (5) bekezdését a 7/2024. (XII. 31.) PM rendelet 9. § (2) bekezdése iktatta be.
+[^37]: A 17. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^38]: A 17. § (2a) bekezdését a 7/2024. (XII. 31.) PM rendelet 10. § (2) bekezdése iktatta be.
+[^39]: A 17. § (3) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 3. pontja hatályon kívül helyezte.
+[^40]: A 17. § (5) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 18. pontja szerint módosított szöveg.
+[^41]: A 18. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 19. pontja szerint módosított szöveg.
+[^42]: A 20. § (2) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 4. pontja hatályon kívül helyezte.
+[^43]: A 21. § a 7/2024. (XII. 31.) PM rendelet 11. §-ával megállapított szöveg.
+[^45]: Az 1. mellékletet a 7/2024. (XII. 31.) PM rendelet 13. § 5. pontja hatályon kívül helyezte.

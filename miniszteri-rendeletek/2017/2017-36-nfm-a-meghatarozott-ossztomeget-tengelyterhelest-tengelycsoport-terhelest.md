@@ -1,0 +1,1159 @@
+---
+title: "36/2017. (IX. 18.) NFM rendelet a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről"
+identifier: "36/2017. (IX. 18.) NFM rendelet"
+njt_id: "2017-36-20-2W"
+eli: "https://njt.jog.gov.hu/eli/R/2017/NFM/36"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2017-09-18
+in_force_from: 2017-09-19
+last_amended: 2026-01-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-36-20-2W"
+retrieved: 2026-10-12
+---
+
+# 36/2017. (IX. 18.) NFM rendelet a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről
+
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 27. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva,
+
+a 29. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 12. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva,
+
+a 30. § tekintetében a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 42. § b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 15. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –,
+
+a 31. § és a 6. melléklet tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés j) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. és 15. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –
+
+a következőket rendelem el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1)[^1] E rendelet tárgyi hatálya a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó jármű és járműszerelvény, valamint lánctalpas jármű (a továbbiakban együtt: túlsúlyos, illetve túlméretes jármű) országos közúton, helyi közúton, továbbá az állam vagy a helyi önkormányzat tulajdonában álló, közforgalom elől el nem zárt magánúton (a továbbiakban együtt: közút) való közlekedésére terjed ki.
+
+(2) E rendelet személyi hatálya a jármű üzembentartójára, tulajdonosára, a jármű vezetőjére, valamint a közút kezelőjére terjed ki.
+
+#### 2. §
+
+(1)[^2] E rendelet alkalmazásában túlsúlyos járműnek minősül az a jármű vagy járműszerelvény, amely
+
+a) össztömeg vonatkozásában
+
+aa) kéttengelyes jármű esetén a 20 tonnát,
+
+ab) háromtengelyes jármű vagy csuklós jármű esetén a 26 tonnát,
+
+ac) négy- vagy ennél több tengelyes jármű vagy csuklós jármű esetén a 32 tonnát,
+
+ad) háromtengelyes járműszerelvény esetén a 28 tonnát,
+
+ae) négytengelyes járműszerelvény esetén a 38 tonnát,
+
+af) öt- vagy ennél több tengelyes járműszerelvény esetén a 40 tonnát,
+
+b) tengelyterhelés vonatkozásában
+
+ba) a jármű bármely tengelye, valamint
+
+bb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága kisebb, mint 1,00 méter,
+
+a 11,5 tonnát,
+
+c)[^3] tengelycsoport-terhelés vonatkozásában
+
+ca) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,00 méter, de 1,30 méternél kisebb, a 16,0 tonnát,
+
+cb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 19,0 tonnát,
+
+cc) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága 1,30 méternél kisebb, a 22,0 tonnát,
+
+cd) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek távolsága az egyik esetében 1,3 méternél kisebb, a másik esetében pedig 1,30 méternél nagyobb és 1,8 méternél kisebb, a 21 tonnát,
+
+ce) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 24,0 tonnát,
+
+cf) háromnál több, páratlan számú tengelyből álló tengelycsoportban elhelyezkedő, a (4) bekezdés b) pontja szerint képzett, három tengelyből álló tengelycsoport esetén a 28,5 tonnát
+
+(1a)[^4] E rendelet alkalmazásában túlméretes járműnek minősül az a jármű, vagy járműszerelvény, amely mérete vonatkozásában:
+
+a) a 4,00 méter magasságot,
+
+b) a 2,6 méter szélességet,
+
+c) szóló jármű esetén a 12,0 méter hosszúságot, a d) alpont kivételével,
+
+d) az f) alpontba nem tartozó autóbusz esetén a 15,0 méter hosszúságot,
+
+e) nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén a 16,50 méter hosszúságot, valamint
+
+f) az e) alpontba nem tartozó járműszerelvény vagy csuklós autóbusz esetén a 18,75 méter hosszúságot
+
+meghaladja.
+
+(2) A megengedett legnagyobb tengelyterhelést meghaladó járműnek minősül a jármű abban az esetben is, ha a tengelycsoportba tartozó bármely tengely terhelése meghaladja a 11,5 tonnát.
+
+(3)[^5] A jármű az eltérés mértéke szerint lehet
+
+a) kis mértékben
+
+aa) ha az eltérés 5%-nál kisebb,
+
+ab) ha az eltérés 5% vagy annál nagyobb és 10%-nál kisebb,
+
+b) nagy mértékben – ha az eltérés 10% vagy annál nagyobb és 20%-nál kisebb –,
+
+c) rendkívüli mértékben,
+
+ca) ha az eltérés 20% vagy annál nagyobb és 30%-nál kisebb,
+
+cb) ha az eltérés 30% vagy annál nagyobb és 50%-nál kisebb,
+
+d) különösen nagy mértékben – ha az eltérés 50% vagy annál nagyobb –
+
+túlsúlyos, illetve túlméretes jármű.
+
+(4) Háromnál több tengelyből álló tengelycsoportot ellenőrzési szempontból kettes és hármas tengelycsoportokra kell felosztani úgy, hogy
+
+a) páros számú tengelyből álló tengelycsoport esetén kettes tengelycsoportokat,
+
+b) páratlan számú tengelyből álló tengelycsoport esetén pedig a tengelycsoport utolsó három tengelyéből hármas tengelycsoportot, ezt megelőző tengelyeiből pedig kettes tengelycsoportokat
+
+kell képezni.
+
+(5) Az (1) és a (4) bekezdésben foglaltak alkalmazásakor a járműnek kizárólag azt a tengelyét kell tengelyként számításba venni, amelynek kerekei a mérés időpontjában az úttesttel érintkeznek.
+
+(6)[^6] A gumibetéttel ellátott vagy gumiszőnyegek leterítésével közlekedő lánctalpas jármű – kivéve a 8. § (1) bekezdés c) pontja szerinti jármű – tengely-, tengelycsoport-terhelésének meghatározásánál a futógörgőkre eső terhelést – az össztömeg egyenletes elosztásával – és azok egymástól való távolságát kell figyelembe venni.
+
+#### 3. §
+
+(1) A 2. §-ban meghatározott járművek – az e rendeletben meghatározott kivételekkel – kizárólag közútkezelői hozzájárulással (a továbbiakban: hozzájárulás) közlekedhetnek.
+
+(2) A hozzájárulás megadása történhet
+
+a) egyszerűsített eljárás keretében vagy
+
+b) egyedi elbírálás alapján.
+
+(3)[^7] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlsúlyos és a megengedetthez képest
+
+a) az össztömeg vonatkozásában 20%,
+
+b)[^8] a tengelyterhelés vonatkozásában – a 15. § (1)–(2a) bekezdésében foglalt kivétellel – 5%,
+
+c)[^9] a tengelycsoport terhelés vonatkozásában a 15. § (1)–(2a) bekezdésében foglalt kivétellel 30%,
+
+vagy annál nagyobb az eltérés mértéke.
+
+(4)[^10] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlméretes és a mérete
+
+a) a magasság vonatkozásában a – 16. § (1a) bekezdés a) pontjában foglalt kivétellel – 4,30 métert,
+
+b) a szélesség vonatkozásában a – 16. § (1a) bekezdés b) pontjában foglalt kivétellel – 3,20 métert,
+
+c) a hosszúság vonatkozásában járműszerelvény esetén a – 16. § (1a) bekezdés c) pontjában foglalt kivétellel – 22,50 métert – egyéb esetekben a megengedetthez képest a 120%-ot –
+
+eléri vagy meghaladja.
+
+#### 4. §
+
+(1)[^11] A hozzájárulás kiadására jogosult közútkezelő a hozzájárulásban a hozzájárulást kérelmező részére a kérelmező által megjelölt jármű vonatkozásában meghatározza
+
+a) azt az útvonalat, amelyen a túlsúlyos, illetve túlméretes jármű közlekedhet,
+
+b) azokat a feltételeket, amelyek a túlsúlyos, illetve túlméretes jármű közlekedése során biztosítják a közút és tartozékainak védelmét, valamint a közúti közlekedés biztonságának megóvását, és
+
+c) a túlsúlyos járművön a hozzájárulás időbeli hatálya alatt alkalmazható tengelykiosztást.
+
+(2) A hozzájárulás egy útra (a továbbiakban: eseti hozzájárulás) vagy határozott időre szól.
+
+(3)[^12] Az eseti hozzájárulás a kérelmező által megjelölt napon és további két napon belül – összesen három egymást követő naptári napon belül –, de legfeljebb a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK NZrt.) által működtetett rendszeren keresztül történő érvényesítéstől számított 36 órán keresztül – hatályos, és az abban megjelölt útvonalon történő egyszeri közlekedésre jogosít, ha indulás előtt az ügyviteli rendszerben a kiadott hozzájárulást az igénylő érvényesíttette.
+
+(4) A határozott időre szóló hozzájárulás lehet
+
+a) napi hozzájárulás: a kérelmező által megjelölt napra,
+
+b) heti hozzájárulás: a kérelmező által megjelölt kezdőnapra és további 9 napra (összesen 10 egymást követő naptári napra),
+
+c) havi hozzájárulás: a kérelmező által megjelölt kezdőnaptól számított egy hónapra,
+
+d) negyedéves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezdőnaptól számított három hónapra,
+
+e) féléves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezdőnaptól számított hat hónapra,
+
+f) éves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezdőnaptól számított egy évre.
+
+(5) A (4) bekezdés c)–f) pontja szerinti hozzájárulás a megjelölt időtartam végén, a kezdőnapnak megfelelő számú napon 24 órakor jár le. Ha ez a nap hiányzik a lejárat hónapjában, a hozzájárulás e hónap utolsó napján 24 órakor jár le.
+
+(6)[^13] A határozott időre szóló hozzájárulás korlátlan számú közlekedésre jogosít fel, az abban szereplő útvonalon vagy közúthálózaton a hozzájárulásban megjelölt járművel, a hozzájárulásban meghatározott túlsúly-, vagy túlméretnél nem nagyobb eltéréssel.
+
+(7)[^14] Az egyszerűsített eljárás keretében határozott időre megadott hozzájárulás vonatkozhat kijelölt útvonalra vagy a közúthálózatra.
+
+(8)[^15] A kijelölt útvonalra vonatkozó hozzájárulás a hozzájárulásban megjelölt útvonalon, a közúthálózatra szóló hozzájárulás – közútkezelő által közúti jelzőtáblával elrendelt korlátozásokkal érintett útszakaszt ide nem értve – a közúthálózat egészén történő közlekedésre jogosít a hozzájárulásban megadott járművel, a túlsúlyos, illetve túlméretes közlekedésre vonatkozóan megadott paramétereknél nem nagyobb paraméterek esetén.
+
+(9)[^16] A (2) bekezdés szerint kiadott hozzájárulásban, egy vontatóból és egy pótkocsiból, vagy egy nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén, egy vontató vagy nyergesvontató és legfeljebb öt pótkocsi vagy félpótkocsi szerepelhet.
+
+(9a)[^17] A 15. § (8) bekezdése szerinti járművek és járműszerelvények vonatkozásában a bejelentésben elegendő a gépjárművet feltüntetni. A járművek számának (9) bekezdés szerinti korlátozása ebben az esetben nem alkalmazható.
+
+(10)[^18] A határozott időre szóló hozzájárulás túlméretes jármű esetében 16. § (1a) bekezdésben meghatározott méretekig, össztömeg túlsúlyos esetében 50%-nál, tengelytúllépés esetén a 10%-nál, tengelycsoport terhelés esetén 30%-nál nem nagyobb túllépés esetén adható ki.
+
+#### 5. §
+
+(1)[^19] A jármű össztömegét, tengelyterhelését, tengelycsoport-terhelését és méretét a közúti közlekedésről szóló törvényben meghatározott ellenőrző hatóság, illetve a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben kijelölt közútkezelő
+
+a) nem automatikus működésű berendezéssel megvalósított mérés,
+
+b) automatikus működésű berendezéssel megvalósított mérés
+
+útján ellenőrzi.
+
+(2) Az ellenőrzés történhet
+
+a) statikus méréssel vagy
+
+b) dinamikus méréssel.
+
+(3) Méréseket csak erre hitelesített vagy kalibrált mérőberendezésekkel lehet végezni.
+
+#### 6. §
+
+(1) A mérések lebonyolítására alkalmas mérőhely lehet:
+
+a) állandó üzemű kijelölt mérőhely,
+
+b) időszakos üzemű kijelölt mérőhely,
+
+c) időszakos üzemű eseti mérőhely vagy
+
+d) állandó üzemű mérési pont.
+
+(2) Az össztömeg meghatározása történhet
+
+a) méréssel
+
+aa) össztömegmérleggel,
+
+ab) a jármű összes kereke alá helyezett kerékterhelés-mérővel,
+
+ac) a jármű összes tengelye alá helyezett tengelyterhelés-mérővel vagy
+
+b) számítással
+
+ba) a jármű mért kerékterhelései adataiból vagy
+
+bb) a jármű mért tengelyterhelési adataiból.
+
+### 2. Értelmező rendelkezések
+
+#### 7. §
+
+E rendelet alkalmazásában:
+
+1.[^20] *élőállat-szállító jármű:* az a jármű, amely jellegében, műszaki felépítésénél fogva csak élő állatok szállításra használható,
+
+1a.[^21] *autómentő jelleggel rendelkező jármű:* a 3,5 tonna össztömeget meghaladó, daruval, hidroplatóval vagy emelővillával felszerelt, a felépítményének kialakításánál fogva csak jármű mentésére használható gépkocsi,
+
+1b.[^22] *cserefelépítményt szállító jármű:* olyan jármű, amelyen a felépítmény – több felépítmény esetén valamennyi felépítmény – az alvázkeretről leemelhető, cserélhető külső emelőszerkezet igénybevétele nélkül,
+
+1c.[^23] *csuklós jármű:* M2 vagy M3 kategóriájú, három- vagy ennél több tengelyes csuklós autóbusz,
+
+2\. *dinamikus mérés:* a jármű megállítása nélkül, a jármű mozgása közben elvégzett mérés,
+
+3\. *kommunális jármű:* az a jármű, amely jellegében, műszaki felépítésénél fogva csak a mentőszolgálatban, tűzoltószolgálatban, halottszállításra, úttisztításra, valamint kommunálishulladék-szállításra használható,
+
+4\. *közlekedési közszolgáltatást végző jármű:* az 1370/2007/EK rendelet 2. cikk i) pontja szerinti közszolgáltatási szerződéssel rendelkező szolgáltató által üzemeltetett, a közszolgáltatás teljesítésében részt vevő személyszállító jármű,
+
+4a.[^24] *lánctalpas jármű:* olyan gépjármű, amelynek meghajtását és mozgását kerekek helyett lánctalp biztosítja, amely a talajjal érintkezve tapadást, stabilitást és egyenletes súlyelosztást biztosít,
+
+5\. *mérőhely:* a jármű megállítására, valamint a kerékterhelés vagy tengelyterhelés vagy össztömeg vagy ezek közül több mérésére alkalmas útterület,
+
+6\. *mérőpont:* a jármű megállítása nélküli kerékterhelés- vagy tengelyterhelés-mérésre alkalmas útkeresztmetszet,
+
+7\. *mezőgazdasági jármű:* a mezőgazdasági vontató, a mezőgazdasági erőgép, az erdő- vagy mezőgazdasági jelleggel rendelkező lassú jármű, valamint az általuk vontatott pótkocsi vagy munkagép,
+
+7a.[^25] *mutatványos tevékenységi körbe sorolt jármű:* különleges felépítményű járművel végzett cirkuszi és vidámpark-berendezés szállítás céljára használt jármű vagy járműszerelvény,
+
+8\. *statikus mérés:* a jármű megállításával, nyugalmi helyzetben elvégzett mérés,
+
+9\. *TSM mérőpont:* a Nemzeti Tengelysúlymérő Rendszer részét képező, a járművek tengelyterhelésének dinamikus mérésére és az össztömegének számítással történő meghatározására alkalmas, automatikus működésű berendezés.
+
+## II. Fejezet — TÚLSÚLYOS, ILLETVE TÚLMÉRETES JÁRMŰVEK KÖZLEKEDÉSÉRE VONATKOZÓ HOZZÁJÁRULÁS KIADÁSA
+
+### 3. A hozzájárulást megadó szerv
+
+#### 8. §
+
+(1) A túlsúlyos, illetve túlméretes járművek közlekedéséhez a hozzájárulás megadására
+
+a)[^26] az országos közutat vagy több önkormányzat közigazgatási területén helyi közutat érintő közlekedés esetén az MK NZrt.,
+
+b)[^27] kizárólag helyi közutat érintő közlekedés esetén
+
+ba) a főváros közigazgatási területén a Budapest Közút Zártkörűen Működő Részvénytársaság (a továbbiakban: BK Zrt.),
+
+bb) egyéb esetekben a közút kezelője,
+
+c)[^28] a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség (a továbbiakban: Honvédség) által üzemben tartott, továbbá a Honvédség érdekében más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek közlekedése esetén a meghatározott össztömeget, tengelyterhelést és méretet meghaladó honvédségi járművek közúti közlekedéséről szóló miniszteri rendelet által meghatározott szerv
+
+jogosult.
+
+(2) Az (1) bekezdés a) pontjában foglalt esetben a hozzájárulást megadó szerv
+
+a) egyszerűsített eljárás keretében megadott hozzájárulás esetén a hozzájárulás megadását követően tájékoztatni köteles a további közútkezelőt,
+
+b) egyedi elbírálás alapján megadott hozzájárulás esetén előzetesen megkéri a további közútkezelő egyetértését.
+
+(3) A (2) bekezdés b) pontja szerint olyan útra vonatkozóan nem adható hozzájárulás, amelynek kezelője a hozzájárulás megadásával előzetesen nem értett egyet.
+
+(4)[^29] A hozzájárulás iránti kérelem benyújtásakor, valamint annak módosításakor a hozzájárulást kérelmező eljárási díjat köteles megfizetni a közútkezelő részére.
+
+(4a)[^30] Az (1) bekezdés szerinti kérelem egy jármű vagy járműszerelvény egy útvonalán egyszeri utazásra nyújtható be, amely tartalmazhat a kiinduló cím és a célcím között más címet is, de a túlsúlyos, illetve túlméretes közlekedésre vonatkozó adatokban változást nem tartalmazhat. Amennyiben az útvonalon akár a túlméret, akár a túlsúly növekedését okozó változás áll be, a megváltozott túlméret vagy túlsúly tekintetében különálló kérelmet kell benyújtani.
+
+(4b)[^31] A (4a) bekezdésben foglaltakat nem kell alkalmazni az egyszerűsített eljárás keretében elektronikus úton, ügyintéző közreműködése nélkül megadott hozzájárulás iránti kérelemre.
+
+(5)[^32] Az eljárási díj mértékét az 1. mellékletben foglaltak szerint kell megállapítani.
+
+(6) A hozzájárulás iránti kérelmet
+
+a) az (1) bekezdés a) pontjában foglalt esetben
+
+aa) személyesen történő ügyintézés esetén az MK NZrt. által készített nyomtatványon vagy
+
+ab) az MK NZrt. honlapján keresztül elektronikus úton,
+
+b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szerint
+
+kell benyújtani.
+
+### 4. A hozzájárulás megadásának általános feltételei
+
+#### 9. §
+
+(1)[^33] A hozzájárulást megadó szervnek a hozzájárulás megadását megelőzően meg kell győződnie arról, hogy a jármű műszakilag alkalmas a kérelemben megjelölt mértékű túlsúly-, illetve túlméret-paraméterekkel történő közlekedésre. Ennek megállapítása érdekében a hozzájárulást kérelmezőnek – kivéve a 11. § (1b) bekezdése esetén – be kell mutatnia vagy elektronikus eljárás keretében be kell csatolnia
+
+a)[^34] a jármű érvényes forgalmi engedélyét vagy elektronikus eljárás esetén annak elektronikus másolatát, vagy
+
+b) a járműhöz tartozó egyéb iratot, amellyel igazolni tudja az előírttól eltérő túlsúly-, illetve túlméret-paraméterekkel történő közlekedéshez szükséges műszaki feltételek meglétét.
+
+(2) A 16. § (1) bekezdésében meghatározott egyszerűsített eljárásban a hozzájárulás igénylése során a hozzájárulást kérelmezőnek nyilatkoznia kell arra vonatkozóan, hogy a jármű alkalmas a hozzájárulás iránti kérelemben megjelölt paraméterekkel történő közlekedésre. Ebben az esetben a közúti közlekedéshez szükséges műszaki feltételek betartásáért a jármű üzembentartója felelős.
+
+(3) A hozzájárulás az (1) vagy a (2) bekezdésben foglalt feltétel teljesülése esetén adható ki.
+
+(4) A hozzájárulást megadó szerv a túlsúlyos, illetve túlméretes jármű közlekedését
+
+a) az általa meghatározott útvonalhoz,
+
+b) a 4. melléklet szerinti kísérethez, rendőri kísérethez (a továbbiakban együtt: kíséret), valamint
+
+c) a hozzájárulás kiadása előtt vagy a közlekedés során teljesítendő egyéb feltételhez
+
+kötheti.
+
+(4a)[^35] A (4) bekezdés b) pontjában foglalt előírás alkalmazása esetén a hozzájárulás jogosultja köteles a járművet a hozzájárulás kiadására jogosult szervezet rendszerében, legkésőbb a hozzájárulás érvényességi idejének kezdetét megelőző 3 nappal korábban regisztrálni.
+
+(5) A (4) bekezdés b) és c) pontjában foglaltak teljesítésének költségét a hozzájárulást kérelmező köteles viselni.
+
+(6) A kíséret feltételeit a hozzájárulást megadó szerv határozza meg a hozzájárulásában, figyelemmel a 4. mellékletben foglaltakra.
+
+#### 10. §
+
+(1)[^36] A megengedett legnagyobb össztömeget, a megengedett legnagyobb tengelyterhelést, illetve tengelycsoport-terhelést meghaladó járművek közlekedése után túlsúlydíjat, míg a megengedett legnagyobb méretet meghaladó járművek közlekedése után túlméretdíjat kell fizetni.
+
+(2)[^37] Az (1) bekezdés szerinti díjak megállapítása során külön-külön meg kell határozni a
+
+a) megengedett legnagyobb össztömeg,
+
+b) megengedett legnagyobb tengelyterhelés,
+
+c) megengedett legnagyobb tengelycsoport-terhelés,
+
+d) megengedett legnagyobb méret
+
+túllépése miatt fizetendő díjat.
+
+(3) A megengedett legnagyobb tengelyterhelés túllépése miatt fizetendő túlsúlydíj meghatározása során, ha a jármű több – tengelycsoportba nem sorolható – tengelyének terhelése is meghaladja a 2. § (1) bekezdés b) pontjában előírt értéket, csak a legnagyobb eltérésű tengelyét kell figyelembe venni.
+
+(4)[^38] A megengedett legnagyobb tengelycsoport-terhelés túllépése miatt fizetendő túlsúlydíj meghatározása során, ha a jármű több tengelycsoportjának terhelése is meghaladja – ide nem értve a vontató jármű tengelycsoportját – a 2. § (1) bekezdés c) pontjában előírt értékeket, valamennyi tengelycsoportot figyelembe kell venni.
+
+(5) Ha a jármű egy tengelycsoportjában lévő valamely tengelynek a terhelése meghaladja a 2. § (1) bekezdés b) pontjában előírt értéket, a tengelycsoport után túlsúlydíjat kell fizetni.
+
+(6)[^39] Ha a jármű egy tengelycsoportjának és a tengelycsoportban lévő valamely tengelynek a terhelése is meghaladja a 2. § (1) bekezdésében előírt értéket, csak a magasabb fizetési díjkategóriába tartozót kell figyelembe venni a túlsúlydíj meghatározása során.
+
+(7) A megengedett legnagyobb méret túllépése miatt fizetendő túlméretdíj meghatározása során, ha egy jármű több mérete is meghaladja a 2. § (1) bekezdés d) pontjában előírt értéket, csak a legnagyobb eltérésű mérettúllépést kell figyelembe venni.
+
+(8) Ha egy túlsúlyos, illetve túlméretes jármű a (2) bekezdés több pontja szerint is díj megfizetésére kötelezett, a díjak összeadódnak.
+
+(9)[^40] A túlsúlydíj és túlméretdíj mértékét és számításának módját eseti hozzájárulás esetén – az igénybe vett útvonal hossza alapján – a 2. melléklet tartalmazza.
+
+(10) A határozott időre szóló hozzájárulás megadása során
+
+a)[^41] a megadott útvonalra szóló túlsúlyos, illetve túlméretes járművek közlekedése esetén a túlsúlydíjat, illetve a túlméretdíjat a 2. melléklet,
+
+b) a minden közútra szóló túlméretes járművek közlekedése esetén a túlméretdíjat a 3. melléklet
+
+szerint kell kiszámolni a (11) bekezdésben foglaltak figyelembevételével.
+
+(11)[^42] A túlsúlydíj és a túlméretdíj mértéke határozott időre szóló hozzájárulás megadása során
+
+a) napi hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának kétszerese,
+
+b) heti hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának négyszerese,
+
+c) havi hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának tízszerese,
+
+d) negyedéves hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának húszszorosa,
+
+e) féléves hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának harmincszorosa,
+
+f) éves hozzájárulás esetén az eseti hozzájárulás (10) bekezdés szerinti díjának ötvenszerese.
+
+(12) Az MK NZrt. az általa a tárgynegyedévben beszedett, a különböző közútkezelők között szétosztásra nem került díjból származó tényleges bevételt negyedévente a tárgynegyedévet követő második hónap utolsó napjáig a „Közúthálózat fenntartás és működtetés” fejezeti kezelésű előirányzat javára köteles átutalni.
+
+(13)[^43] Az eljárási díj összege a hozzájárulást kiadó szervezetet illeti meg.
+
+#### 11. §
+
+(1)[^44] A hozzájárulás a túlsúlydíj, illetve a túlméretdíj megfizetését követően hatályosul, ha annak megfizetése kötelező. Ha díjfizetési kötelezettség nem keletkezik, a hozzájárulás a kérelem elbírálását követően hatályosul.
+
+(1a)[^45] A 8. § (4) bekezdés, valamint a 10. § (1) bekezdés szerinti díjak utólagos megfizetésére az MK NZrt. megállapodást köthet a fizetésre kötelezettel.
+
+(1b)[^46] Az (1a) bekezdés szerinti megállapodás kiterjedhet a 8. § (4) bekezdése, valamint a 10. § (1) bekezdése szerinti hozzájárulás évenkénti automatikus megújítására is, ha a megállapodás tartalmazza az e rendelet szerinti túlsúlyos és túlméretes járművek 9. § (1) bekezdése szerinti adatait, azzal, hogy az adatokban bekövetkezett változásokról a fizetésre kötelezettnek a változás bekövetkeztétől számított 15 napon belül tájékoztatni kell az MK NZrt.-t.
+
+(2) A hozzájárulást megadó MK NZrt. a hozzájárulás adatait közvetlen rendszerkapcsolaton keresztül a hozzájárulás kiadását követően azonnal megküldi a Nemzeti Tengelysúlymérő Rendszernek.
+
+(3)[^47] A határozott időre szóló hozzájárulás esetén a hozzájárulást kérelmező meghatározhatja a hatálybalépés napját. A kezdőnap – a kezdőnapot megelőző nap 24. órájáig, további túlsúlydíj, illetve túlméretdíj, valamint eljárási díj megfizetése nélkül – egy alkalommal díjmentesen módosítható.
+
+(4)[^48] A hozzájárulás a túlsúlyos, illetve túlméretes jármű közlekedésének megkezdése előtt eljárási díj megfizetése esetén módosítható. Ha a módosított hozzájárulásban szereplő túlsúlydíj, illetve túlméretdíj összege nagyobb, mint a módosítás előtt megfizetett túlsúlydíj, illetve túlméretdíj mértéke, a módosítás azon a napon lép hatályba, amikor a különbözet megfizetésre kerül. Az eljárási díj összege megegyezik az azonos feltételekkel megadott új hozzájárulás eljárási díjával.
+
+(4a)[^49] A kiadott hozzájárulások esetében a túlsúlydíj, illetve a túlméretdíj megfizetése az engedélyben szereplő értékek alapján történik, annak – a túlsúlyos, illetve túlméretes közlekedés megkezdését követően – a mért értékek alapján történő utólagos módosítására nincs lehetőség.
+
+(5)[^50] Ha a túlsúlyos jármű a közútkezelői hozzájárulás időbeli hatálya alatt, az abban meghatározott tengelykiosztástól eltérő tengelykiosztással közlekedik, és a jármű tényleges tengely- vagy tengelycsoport terhelése meghaladja a 2. § (1) bekezdés b) vagy c) pontjában meghatározott megengedett értékeket, a tengely és a tengelycsoport vonatkozásában a közútkezelői hozzájárulást érvénytelennek kell tekinteni.
+
+(5a)[^51] Ha a jármű tényleges tengely- vagy tengelycsoport terhelése nem haladja meg a 2. § (1) bekezdés b) vagy c) pontjában meghatározott megengedett értéket, akkor a hozzájárulásban a tengelykiosztásra meghatározott feltételeket megtartottnak kell tekinteni.
+
+(6)[^52] A túlsúlyos, illetve túlméretes jármű hozzájárulás nélküli vagy attól eltérő közlekedése miatt a közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendeletben vagy a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendeletben meghatározott közigazgatási bírság kiszabása nem mentesít a túlsúlydíj, illetve túlméretdíj, valamint az eljárási díj megfizetése alól.
+
+(7)[^53] A rendőrség a határátkelőhelyen a túlsúlyos, illetve túlméretes jármű be- és kiléptetését megtagadja a hozzájárulás megszerzéséig.
+
+#### 12. §[^54]
+
+A hozzájárulás kiadására jogosult szerv a hozzájárulás iránti igényt elutasítja, ha
+
+a) a túlsúlyos, illetve túlméretes jármű közlekedéséhez a hozzájárulás egyedi elbírálás alapján adható csak meg, és
+
+aa) a szállítmány más közlekedési eszközzel továbbítható, és az nem jár a szállítás költségeinek aránytalan megnövekedésével,
+
+ab) a közút teherbírása és műszaki állapota alapján nem alkalmas arra, hogy a túlsúlyos, illetve túlméretes jármű azon közlekedjék,
+
+ac) más közútkezelő, vasútiátjáró-kezelő vagy más létesítménykezelő nem adja egyetértését a hozzájárulás kiadásához, vagy
+
+ad) a közút alatt elhelyezett nyomvonal jellegű létesítmények vagy a közút feletti és melletti szabad tér mérete a túlsúlyos, illetve túlméretes jármű közlekedését nem teszi lehetővé,
+
+b) a hozzájárulás iránti igény jogosultjának 30 napot meghaladó közútkezelői hozzájárulás után tartozása vagy jegyzőkönyvben meghatározott díjtartozása áll fenn, annak fennállásáig,
+
+c) a hozzájárulás iránti igény jogosultja által a közútban, illetve tartozékaiban okozott kár esetén, mindaddig, amíg a közútkezelő által meghatározott módon, időben, a megfelelő minőségben azt helyre nem állítja, vagy
+
+d) a hozzájárulás tárgyát képező járműről vagy járműszerelvényről a kiadott műszaki dokumentumaiban szereplő adatok alapján nem állapítható meg egyértelműen a műszaki alkalmassága, vagy nem alkalmas a kérelemben megjelölt súly szállítására.
+
+#### 12/A. §[^55]
+
+A közútkezelő az általa kiadott hozzájárulásokat az érvényességi időn belül bármikor visszavonhatja, ha olyan esemény jut a tudomására, amely alapján megállapítható, hogy a hozzájárulás jogosultja
+
+a) a közlekedés- és forgalombiztonságot veszélyezteti,
+
+b) kárt okoz, vagy
+
+c) nem tartja be a közútkezelő által az engedélyben előírt közlekedési feltételeket.
+
+#### 13. §
+
+A megengedett össztömeget, a megengedett legnagyobb tengelyterhelést és a megengedett legnagyobb tengelycsoport-terhelést meghaladó jármű közlekedéséhez megadott hozzájárulás magában foglalja a jármű útvonala által érintett, jelzőtáblával elrendelt „Súlykorlátozás” és „Tengelyterhelés-korlátozás” alóli felmentést is, ha a hozzájárulás tartalmazza a jármű számára előírt útvonalat.
+
+### 5. [^56] A túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességek
+
+#### 14. §
+
+(1) Mentesül a hozzájárulás beszerzése alól
+
+a) a kommunális jármű,
+
+b) az autómentő jelleggel rendelkező jármű,
+
+c) a katasztrófa elhárításában, megelőzésében, valamint ezzel összefüggésben a tűzoltásban és a műszaki mentésben alkalmazott jármű,
+
+d) a kárelhárításban részt vevő, megkülönböztető jelzéssel ellátott jármű által felvezetett, zárt konvojban haladó jármű,
+
+e) a nemzetközi szerződés és viszonosság körébe tartozó jármű,
+
+f) a közút kezelését végző társaság vagy a közútkezelővel szerződésben lévő vállalkozó által üzemben tartott, kezelői feladatokat ellátó jármű,
+
+g)[^57] a közlekedési közszolgáltatást végző jármű,
+
+h) a mezőgazdasági jármű a szélességi méretére vonatkozóan
+
+ha) legfeljebb 4,5 méter szélességi értékig, ha a szembejövő és a követő forgalom számára egyaránt jól látható sárga villogót használ,
+
+hb) 4,5 méter szélességi érték fölött, ha a sárga villogó használata mellett legalább egy kísérőjármű biztosítja a közlekedését, és a legnagyobb szélességet jobb és bal oldalon korlátozott látási viszonyok esetén is jól láthatóan megjelölték,
+
+i) a mezőgazdasági jármű, ha
+
+ia) kéttengelyes jármű esetén a jármű össztömege a 25 tonnát,
+
+ib) háromtengelyes jármű esetén a jármű össztömege a 32 tonnát,
+
+ic) a jármű bármely tengelye esetén a tengelyterhelése a 13 tonnát,
+
+id) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 22 tonnát,
+
+ie) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 32 tonnát
+
+nem haladja meg,
+
+j) a csuklós jármű, ha
+
+ja) háromtengelyes jármű esetén a jármű össztömege a 28 tonnát,
+
+jb) négytengelyes jármű esetén a jármű össztömege a 38 tonnát,
+
+jc) öt- vagy ennél több tengelyes jármű esetén a jármű össztömege a 40 tonnát,
+
+k)[^58] a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányító által üzemeltetett, a biztonságos és zavartalan villamosenergia-ellátás érdekében végzett átviteli-rendszerirányítói feladatokat ellátó különleges felépítményű jármű.
+
+nem haladja meg.
+
+(2)[^59] Az (1) bekezdés szerinti mentesség a közúti közlekedési nyilvántartásról szóló törvény szerinti nyilvántartásba bejegyzésre irányuló kérelem
+
+a) az (1) bekezdés a), b), g), i) és j) pontja szerinti járművek esetén a közlekedési igazgatási hatósághoz,
+
+b) az (1) bekezdés c) és d) pontja szerinti járművek esetén az Országos Katasztrófavédelmi Főigazgatósághoz,
+
+c) az (1) bekezdés e) pontja szerinti járművek esetén – a feladatkörhöz kapcsolódóan – a közúti közlekedési nyilvántartó szervhez vagy az Országos Katasztrófavédelmi Főigazgatósághoz,
+
+d) az (1) bekezdés f) pontja szerinti járművek esetén a közúti közlekedési nyilvántartó szervhez
+
+történő benyújtásával jön létre, és a benyújtás napjától számított egy évig hatályos.
+
+(3)[^60] A (2) bekezdéstől eltérően az (1) bekezdés h) és k) pontjában meghatározott mentesség nyilvántartásba vétel nélkül a forgalomba helyezéssel vagy az ideiglenes forgalomban tartás engedélyezésével jön létre, és a jármű forgalomból történő végleges kivonásáig hatályos.
+
+(4) Mezőgazdasági vontató vagy lassú jármű által vontatott, az (1) bekezdés i) pontjában meghatározott pótkocsi mentessége abban az esetben áll fenn a közlekedés időtartamára nézve, ha a vontató jármű a közúti közlekedési nyilvántartásról szóló törvény szerinti nyilvántartásba bejelentésre került.
+
+(5)[^61] Az (1) bekezdés szerinti bejelentés nélküli közlekedés esetén a jármű üzembentartója vagy vezetője a túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességre utólagosan nem jogosult.
+
+(6) Az (1) bekezdés i) és j) pontjában meghatározott túlsúlyos, illetve túlméretes járművek az ott meghatározott értékek túllépése esetén hozzájárulás beszerzésére kötelezettek.
+
+(7) Az e §-ban meghatározott mentesség kizárólag a megjelölt célból történő közlekedésre jogosít.
+
+#### 15. §
+
+(1)[^62] Nem kell eljárási díjat, túlsúlydíjat fizetni
+
+a) egy vagy több, együttesen legfeljebb 45 láb legnagyobb teljes hosszúságú konténert vagy cserefelépítményt szállító, kéttengelyes gépjármű háromtengelyes félpótkocsival, intermodális szállítási műveletek keretében közlekedő járművek esetén a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 5%-át meg nem haladó mértékű túllépése esetén,
+
+b) egy vagy több, együttesen legfeljebb 45 láb legnagyobb teljes hosszúságú konténert vagy cserefelépítményt szállító, háromtengelyes gépjármű két- vagy háromtengelyes félpótkocsival, intermodális szállítási művelet keretében közlekedő járművek esetén a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át meg nem haladó mértékű túllépése esetén,
+
+c) alternatív üzemanyaggal hajtott járművek esetén a 2. § (1) bekezdés a) pont ab) és ad) alpontjában foglalt értékek 1 tonnánál nem nagyobb túllépése esetén,
+
+d) élőállatot szállító járművek esetén a 2. § (1) bekezdés b) és c) pontjában foglalt értékek 1 tonnánál nem nagyobb túllépése esetén,
+
+e) az ömlesztett árut vagy folyadékot szállító járművek esetén, ha a jármű erre a célra kialakított felépítménnyel rendelkezik, a 2. § (1) bekezdés b) és c) pontjában foglalt értékek 1 tonnánál nem nagyobb túllépése esetén,
+
+f) a 2. § (1) bekezdés a) pont aa)–ae) alpontjában foglalt esetekre vonatkozóan 40 tonnát meg nem haladó jármű esetén,
+
+g)[^63] a kéttengelyes autóbuszok esetén a 2. § (1) bekezdés b) pontjában foglalt értékek 1 tonnánál nem nagyobb túllépése esetén,
+
+h)[^64] a kibocsátásmentes járművek esetén a 2. § (1) bekezdés a) pont ab) és ad) alpontjában foglalt értékek 2 tonnánál nem nagyobb túllépése esetén,
+
+ha a jármű műszaki paraméterei ezt lehetővé teszik és a kérelmet a jármű közlekedését megelőzően egyszerűsített eljárásban benyújtották.
+
+(1a)[^65] Nem kell eljárási díjat, túlsúlydíjat fizetni
+
+a) üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező kéttengelyes gépjármű háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 5%-át,
+
+b) üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező háromtengelyes gépjármű két- vagy háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át
+
+meg nem haladó mértékű túllépése esetén.
+
+(1b)[^66] Nem kell eljárási díjat, túlsúlydíjat fizetni
+
+a) a gazdaságokból tej begyűjtésére és a tejkonténereknek, valamint állateledel céljára készült tejtermékeknek a gazdaság területére való visszaszállítására használt, speciális felépítménnyel rendelkező kéttengelyes gépjármű háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 5%-át, és
+
+b) a gazdaságokból tej begyűjtésére és a tejkonténereknek, valamint állateledel céljára készült tejtermékeknek a gazdaság területére való visszaszállítására használt, speciális felépítménnyel rendelkező háromtengelyes gépjármű két- vagy háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át
+
+meg nem haladó mértékű túllépése esetén.
+
+(1c)[^67]
+
+(2)[^68] Nem kell túlsúlydíjat fizetni az egy tengelyvonalban legalább 8 vagy több független felfüggesztésű kerékkel vagy kerékcsoporttal rendelkező jármű esetén a 2. § (1) bekezdés b) és c) pontjában foglalt értékek legfeljebb 20%-kal történő túllépése esetén, ha a kérelmet a túlsúlyos jármű közlekedését megelőzően benyújtották.
+
+(2a)[^69] Nem kell túlsúlydíjat fizetni
+
+a) azon regisztrált élőállat-szállító járművek vagy járműszerelvények után, amelyekre egy évre vonatkozóan 800 000 forint befizetésével kiváltották az egész ország területére érvényes, 5%-ot meg nem haladó össztömeg túlsúlyra szóló hozzájárulást,
+
+b) azon regisztrált élőállat-szállító járművek vagy járműszerelvények után, amelyekre egy évre vonatkozóan 1 300 000 forint befizetésével kiváltották az egész ország területére érvényes, 10%-ot meg nem haladó össztömeg túlsúlyra szóló hozzájárulást,
+
+és az 1. melléklet szerinti eljárási díjat megfizették.
+
+(2b)[^70] Ha egy járműre vagy járműszerelvényekre a megengedett legnagyobb össztömeg túllépése érdekében hozzájárulást váltottak ki, a (2a) bekezdés a) pontja szerinti engedély a 4. alcím szerinti hozzájárulásban szereplő össztömeg értékhez képest 5%-ot meg nem haladó össztömeg túllépésre jogosít fel.
+
+(2c)[^71] Túlsúlydíjat a 10. § (2) bekezdés a) pontja szerinti járművek, járműszerelvények össztömegének 40 tonnát meghaladó része után kell fizetni az e rendeletben foglalt kivételekkel.
+
+(3) Az (1) bekezdés *a)* és *c)*, valamint az (1) bekezdés b) és c) pontjának együttes fennállása esetén a kedvezmények összeadódnak.
+
+(4)[^72] Az (1) bekezdés d) és e) pontja, valamint a (2) bekezdésben meghatározott kedvezmények nem alkalmazhatók azon jármű tekintetében, amelynek vonatkozásában az (1) bekezdés a)–c) pontjában foglaltak valamelyike fennáll.
+
+(4a)[^73] Az (1) bekezdés d) és e) pontjában foglaltak nem alkalmazhatóak egyidejűleg a (2) bekezdésben foglaltakkal.
+
+(5)[^74] Nem kell eljárási díjat, túlsúlydíjat, illetve túlméretdíjat fizetni a Honvédség által üzemben tartott, továbbá a Honvédség érdekében más által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek után, ha a túlsúlyos, illetve túlméretes jármű közlekedését megelőzően a jármű adatait az MK NZrt. által működtetett rendszeren keresztül a Honvédség rögzítette.
+
+(6) Az (1) bekezdésben foglalt esetekben a hozzájárulás a közúthálózatra a 4. § (4) bekezdése szerinti határozott időre is megadható, ha azt a hozzájárulást kérelmező kéri.
+
+(7)[^75] Nem kell eljárási díjat és túlméretdíjat fizetni a Bizottság 1230/2012/EU a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló rendelet I. mellékletének 1. függelékében említett berendezések és felszerelések után a megjelölt mértékig az MK NZrt. által működtetett rendszerben történő rögzítés esetén.
+
+(8)[^76] Nem kell eljárási díjat és túlméretdíjat fizetni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő, az energiahatékonyság javítása érdekében aerodinamikai eszközökkel felszerelt járművek közlekedése esetén, ha a gépjárművet az üzembentartó az MK NZrt. által működtetett rendszerben rögzítette. A mentesség az MK NZrt. által működtetett rendszerben való rögzítéssel jön létre, és a rögzítés időpontjától számított egy évig hatályos, azzal, hogy az időközben bekövetkezett változásokat haladéktalanul be kell jelenteni.
+
+#### 15/A. §[^77]
+
+Nem kell túlsúlydíjat fizetni a mutatványos tevékenységi körbe sorolt jármű vagy járműszerelvény esetén, ha
+
+a) arra a 20. § (1) bekezdése szerinti úthálózathozzáférési hozzájárulást kiváltották,
+
+b) az útvonalengedély kérelmet benyújtották és
+
+c) az eljárási díjat megfizették.
+
+### 6. Egyszerűsített eljárásban megadott hozzájárulás
+
+#### 16. §
+
+(1)[^78] Egyszerűsített eljárás – az (1a) bekezdésben meghatározott kivétellel – csak a 3. § (3) bekezdésében megadott értékeknél kisebb eltérés esetén alkalmazható.
+
+(1a)[^79] Egyszerűsített eljárás alkalmazható az (1) bekezdésben megadott értékeken felül legfeljebb
+
+a)[^80] a magasság vonatkozásában 4,30 méter magasságig
+
+b) a szélesség vonatkozásában 3,50 méter szélességig, valamint
+
+c) a hosszúság vonatkozásában 26,00 méter hosszúságig
+
+ha a járművet, illetve járműszerelvényt, annak műszaki paramétereit az MK NZrt. – szemle keretén belül – megismerte és az alapján az egyszerűsített eljárás alkalmazhatóságáról meggyőződött.
+
+(2) Az egyszerűsített eljárásban megadott hozzájárulás
+
+a) a 8. § (1) bekezdés a) pontjában foglalt esetben
+
+aa) az MK NZrt. erre a célra létesített ügyfélszolgálati irodájában ügyfélfogadási időben,
+
+ab) az MK NZrt. vagy más közútkezelő által üzemeltetett mérőállomáson,
+
+ac) az MK NZrt. honlapján keresztül elektronikus úton,
+
+ad) az MK NZrt.-vel szerződéses kapcsolatban álló megbízotton (a továbbiakban: megbízott) keresztül vagy
+
+ae) erre a célra létesített berendezés igénybevételével,
+
+b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szerint
+
+igényelhető.
+
+(3) A (2) bekezdés szerint igényelt hozzájárulás a kérelem benyújtását követően azonnal létrejön.
+
+#### 17. §[^81]
+
+A megbízott jogosult kényelmi díjat kérni az általa nyújtott szolgáltatás után, amelynek összege nem lehet több, mint a közvetítésével megadott hozzájárulásban foglalt díj (eljárási díj, túlsúlydíj, illetve túlméretdíj) összegének 5%-a.
+
+### 7. Egyedi elbírálás alapján megadott hozzájárulás
+
+#### 18. §
+
+(1)[^82] Egyedi elbírálás alapján megadott hozzájárulás a 16. § (2) bekezdés a) pont aa)*,* ab)*,* ac)*,* ad) alpontjában és b) pontjában meghatározott helyeken igényelhető.
+
+(2)[^83] Az egyedi elbírálás alapján megadott hozzájárulás kiadásának határideje az előírt paraméterektől
+
+a) rendkívüli mértékben eltérő jármű esetén 5 nap és
+
+b) különösen nagy mértékben eltérő jármű esetén 10 nap.
+
+(3)[^84] Egyedi elbírálás a hozzájárulás azonnali megadásával is kérhető – kivéve, ha az engedély kiadásához a 19. § (1) bekezdése szerinti más közútkezelő vagy létesítménykezelő hozzájárulása szükséges – túlméret tekintetében legfeljebb a 16. § (1a) bekezdésében meghatározott méretekig, túlsúly esetén
+
+a) össztömeg vonatkozásában legfeljebb 50% túllépésig,
+
+b) tengelyterhelés vonatkozásban legfeljebb 10% túllépésig,
+
+c) tengelycsoport vonatkozásában kéttengelyes tengelycsoport esetén legfeljebb 26 tonnáig, háromtengelyes tengelycsoport esetén legfeljebb 33 tonnáig.
+
+(3a)[^85] A (3) bekezdés szerinti esetben a hozzájárulást a hozzájárulást megadó szerv 6 órán belül köteles kiadni. A (3) bekezdés szerinti esetben az eljárási díj mértéke megegyezik az 1. melléklet szerinti eljárási díj kétszeresével. A jelen bekezdésben foglalt határidő elmulasztása esetén a jelen bekezdés szerinti eljárási díj fele visszajár a hozzájárulást kérelmezőnek.
+
+(4) Ha az azonnali megadással kért hozzájárulás 6 órán belül nem adható meg, a hozzájárulást megadó szerv a kérelmezőt erről haladéktalanul tájékoztatja, és részére a díjat visszafizeti.
+
+(5) Ha a túlsúlyos, illetve túlméretes jármű valamely paramétere a 2. § (1) bekezdésében meghatározott paraméterektől legalább 50%-ban eltér, a hozzájárulást megadó szerv a hozzájárulás kiadásának határidejét 10 nappal meghosszabbíthatja.
+
+#### 19. §[^86]
+
+(1) A hozzájárulás más közútkezelő, a vasút vagy más létesítmény kezelőjének egyetértésével vagy az általuk meghatározott feltételekkel adható meg, ha a hozzájárulásban kijelölni tervezett útvonal
+
+a) a hozzájárulási kérelmet elbíráló szervezet által kezelt közúthálózaton kívüli más közútkezelő kezelésébe tartozó úthálózatot érint
+
+b) vasúti átjárón vezet keresztül, vagy
+
+c) az út területén, az alatt vagy felett más létesítményt érint.
+
+(2) A hozzájárulási kérelmet elbíráló szervezet által megkeresett más közútkezelő, illetve vasútiátjáró-kezelő az egyetértését 5 napon belül köteles megadni.
+
+(3) Ha a megkeresett más közútkezelő, illetve vasútiátjáró-kezelő 5 napon belül választ nem ad, az egyetértés megadottnak tekintendő.
+
+(4) Ha a hozzájárulás megadásához más közútkezelő vagy vasútiátjáró-kezelő megkeresése szükséges, a 18. § (2) bekezdésében szereplő határidők 5 nappal meghosszabbíthatók.
+
+(5) Az (1) bekezdés c) pontja alá tartozó létesítmények kezelőjének hozzájárulását a hozzájárulást kérelmező köteles beszerezni. Az (1) bekezdés a) és c) pontja alá tartozó létesítmények kezelőjének hozzájárulását a hozzájárulást kérelmező – a hozzájárulási kérelmet elbíráló szervezet tájékoztatása esetén – beszerezheti.
+
+(6) A hozzájárulást kérelmező által megkeresett más közútkezelő, vasútiátjáró-kezelő, illetve más létesítménykezelő az egyetértését 5 napon belül köteles megadni.
+
+(7) A hozzájárulási kérelmet elbíráló szervezetre vonatkozó határidő
+
+a) attól a naptól számítandó, amikor a hozzájárulási kérelmet beadták vagy
+
+b) az (5) bekezdésben foglalt esetekben a hozzájárulást kérelmező által beszerzett és a hozzájárulási kérelmet elbíráló szervezet részére átadott utolsó hozzájárulás átadásának napját követő ötödik napig tart.
+
+#### 20. §[^87]
+
+(1)[^88] Ha a hozzájárulás több közútkezelő által kezelt közutat érint – és a túlsúlyos, illetve túlméretes jármű közlekedése túlsúlydíj, illetve túlméretdíj megfizetéséhez kötött –, a túlsúlydíjat, illetve túlméretdíjat az érintett közútkezelők között meg kell osztani az adott közútkezelő által kezelt úton megtett út arányában.
+
+(2) Nem kell megosztani az (1) bekezdés szerint a túlméretdíjat, ha azt a 10. § (10) bekezdés b) pontja szerint állapították meg.
+
+#### 20/A. §[^89]
+
+(1) Azon jármű esetében, amely
+
+a) össztömeg vonatkozásában rendkívüli mértékben túlsúlyos,
+
+b) személy és áru szállítására nem alkalmas, továbbá
+
+c) speciális felépítménnyel rendelkezik
+
+az üzembentartó kérelmére az MK NZrt. éves úthálózat-hozzáférési hozzájárulást ad ki.
+
+(2) Az (1) bekezdés szerinti úthálózat-hozzáférési hozzájárulásért az 1. melléklet szerinti eljárási díjat kell fizetni.
+
+(3) Az úthálózat-hozzáférési hozzájárulás tartalmazza
+
+a) a jármű adatait, valamint
+
+b) a járművel az úthálózat-hozzáférési hozzájárulás birtokában igénybe vehető közúthálózatot.
+
+(4)[^90] Az úthálózat-hozzáférési hozzájárulás birtokában a túlsúlyos közlekedéshez szükséges hozzájárulás azonnali megadással is kérhető, amelyet 6 órán belül ki kell adni, amennyiben a jármű kérelemben szereplő – össztömegre, tengelykiosztásra, tengely- és tengelycsoport-terhelésre vonatkozó – adatai megegyeznek az úthálózat-hozzáférési hozzájárulásban szereplő adatokkal és a kérelemben szereplő útvonal része az úthálózat-hozzáférési hozzájárulásban szereplő közúthálózatnak. Ebben az esetben az azonnali díj mértéke megegyezik az egyszerűsített eljárás díjának mértékével.
+
+## III. Fejezet — A TÚLSÚLYOS, ILLETVE TÚLMÉRETES JÁRMŰVEK KÖZLEKEDÉSÉNEK HATÓSÁGI ELLENŐRZÉSE
+
+#### 21. §
+
+(1)[^91] A közlekedési hatósági jogkörben eljáró ellenőr jelzésére a jármű vezetője köteles a járművet megállítani, a jármű és a rakomány okmányait átadni, a járművet a helyszíni mérésnek alávetni, a súlymérés során a járműben tartózkodni, valamint az ellenőrzéssel kapcsolatos felhívást teljesíteni.
+
+(2)[^92] Az ellenőrzés alá vont járművel az ellenőrzés helyszínét kizárólag a mérés befejezése után, a mérést végző ellenőr engedélyével szabad elhagyni. A megtett útra vonatkozóan az ellenőrzést végző ellenőr jogosult az általa megállapított díjak beszedésére. Az ellenőrzés során a továbbhaladás feltételeként szabható
+
+a) a korábban a járműre vagy az üzembentartójára kiszabott túlsúly-, túlméretdíj-tartozás megfizetése, illetve
+
+b) az össztömeg-, tengelyterhelés-, tengelycsoport-terhelés és mérethatár túllépésének megszüntetése
+
+ba) a rakomány átrendezésével,
+
+bb) átrakodással vagy
+
+bc) a közútkezelői hozzájárulás megszerzésével.
+
+(3)[^93] A Katonai Nemzetbiztonsági Szolgálat, valamint a Honvédség által üzemben tartott, továbbá a Honvédség érdekében szállító más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek ellenőrzését kizárólag Katonai Rendész Szolgálat jelenlétében hajthatják végre.
+
+#### 21/A. §[^94]
+
+A közúti közlekedésről szóló 1988. évi I. törvény 21/K. §-ában meghatározott Nemzeti Tengelysúlymérő Rendszer elemeként működő, továbbá a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére szolgáló „Közúti ellenőrzés” és alatta „Traffic Control” közúti jelzőtáblával megjelölt mérőpontokon a járművezető köteles a terelő- vagy záróvonalakkal határolt forgalmi sáv közepén, a forgalmi viszonyoknak megfelelő egyenletes sebességgel, a közúti közlekedés szabályairól szóló jogszabályban előírt követési távolság betartásával áthaladni.
+
+#### 22. §[^95]
+
+Az átrendezés vagy átrakodás nem mentesít az azt megelőzően elkövetett jogsértés következményeként az eljárásidíj-, a túlsúlydíj, illetve a túlméretdíj- és a bírságfizetési kötelezettség alól.
+
+#### 23. §
+
+(1) Ha a túlsúlyos, illetve túlméretes jármű hozzájárulás nélkül vagy a hozzájárulásban foglalt feltételektől eltérően vesz részt a közlekedésben, erről az ellenőrzést végző ellenőr jegyzőkönyvet vesz fel. A jegyzőkönyvet az ellenőr és a jármű vezetője írja alá.
+
+(1a)[^96] Ha az ellenőrzést a közút kezelője végzi, és az ellenőrzés alá vont jármű nem rendelkezik az (1) bekezdés szerinti megfelelő hozzájárulással, az ellenőr által kiállított jegyzőkönyv kiállításáért 13 000 forint utólagos eljárási díjat kell fizetni a jegyzőkönyv átvételével egyidejűleg vagy 15 napon belül az ellenőr által képviselt közútkezelő szerv részére.
+
+(2) A jegyzőkönyv egy példányát az ellenőrzött jármű vezetőjének át kell adni. Ha az ellenőrzött jármű vezetője a jegyzőkönyvben foglaltakkal nem ért egyet, a helyszínen a jegyzőkönyvbe észrevételt tehet. Erre a lehetőségre az ellenőr a jármű vezetőjét figyelmeztetni köteles. Ha a jármű vezetője a jegyzőkönyv aláírását vagy átvételét megtagadja, ennek tényét a jegyzőkönyvben rögzíteni kell.
+
+(3) Az ellenőrzött jármű vezetője a jegyzőkönyvbe bármilyen, az adott méréssel kapcsolatos tényt érintő észrevételt megtehet, amely vonatkozhat különösen a mérés körülményeire, műszaki megvalósítására, valamint a mérést végző személy eljárására.
+
+#### 23/A. §[^97]
+
+(1) Ha a közútkezelői hozzájárulás mást nem ír elő, a jármű a közúti közlekedésben egy szakkísérővel, egy kísérővel, valamint rendőrségi kísérettel együttesen vehet részt, ha a jármű vagy járműszerelvény
+
+a) össztömegben a 60 tonnát,
+
+b) szélességben a 3,2 métert,
+
+c) hosszúságban a 22,5 métert vagy
+
+d) magasságban a 4,5 métert
+
+meghaladja.
+
+(2) Ha ellenőrzés keretében az ellenőrzésre jogosult hatóság megállapítja, hogy a jármű a közlekedésben nem az (1) bekezdésben előírt kísérettel vesz részt, a jogkövetkezmények alkalmazása mellett a jármű csak közútkezelői hozzájárulással közlekedhet tovább.
+
+#### 24. §[^98]
+
+(1) Ha az MK NZrt., a BK Zrt. vagy az AKA Alföld Koncessziós Autópálya Zártkörűen Működő Részvénytársaság (a továbbiakban: AKA Zrt.) az általa üzemeltetett közúthálózaton végzett ellenőrzés során megállapítja, hogy a túlsúlyos, illetve túlméretes jármű hozzájárulás nélkül vagy a hozzájárulásban foglalt feltételektől eltérően közlekedik, jegyzőkönyvet vesz fel, amelyet az ellenőrzést követően közvetlen rendszerkapcsolaton keresztül megküld a közlekedési hatóság részére a bírság kiszabása céljából.
+
+(2) Az (1) bekezdés szerinti adatátadásban jelölni kell, ha a jegyzőkönyv az eljárás lefolytatására hatáskörrel rendelkező szerv részére helyszíni intézkedés céljából átadásra kerül.
+
+(3) Ha az (1) bekezdésben foglaltaktól eltérően ellenőrzésre jogosult hatóság állapítja meg, hogy a túlsúlyos, illetve túlméretes jármű hozzájárulás nélkül vagy a hozzájárulásban foglalt feltételektől eltérően közlekedik, a közigazgatási bírság kiszabására irányuló eljárásra okot adó szabályszegés megállapításának tényéről az ellenőrzés helyszínének, időpontjának, illetve a jogsértő jármű, vagy járműszerelvény azonosító adatainak megadásával közvetlen rendszerkapcsolaton keresztül, a közigazgatási bírság kiszabására irányuló eljárásra okot adó szabályszegés megállapítását követő 3 napon belül értesíti a közlekedési hatóságot.
+
+#### 24/A. §[^99]
+
+Az össztömeg vonatkozásában az ellenőrzésre jogosult a rakományra vonatkozó tömegbizonylat és a forgalmi engedély saját tömegre vonatkozó adatait összeadva, az így kapott össztömeg-érték alapján is megállapíthat jogsértést, és kezdeményezheti közigazgatási eljárás lefolytatását.
+
+#### 25. §
+
+A közúti közlekedésről szóló 1988. évi I. törvény 20/A. §-a szerinti kezelői ellenőrök rendszeres képzését a munkáltatói jogkör gyakorlója végzi.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 8. Hatálybaléptető rendelkezések
+
+#### 26. §
+
+(1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – 2017. szeptember 19-én lép hatályba.
+
+(2) A 28. § (2) bekezdése a kihirdetést követő 31. napon lép hatályba.
+
+(3)[^100] A 10. § (2) bekezdés d) pontja, a 10. § (7) bekezdése, a 10. § (10) bekezdés b) pontja, a 28. § (3) és (4) bekezdése, a 28. § (7)–(10) bekezdése és 28. § (12) bekezdése és az 5. melléklet 2018. június 1-jén lép hatályba.
+
+### 9. Átmeneti rendelkezések
+
+#### 27. §
+
+(1) Az 1–25. § tekintetében ez a rendelet nem érinti a hatálybalépése előtt megadott, legfeljebb a hatálybalépést követő 30. nap végéig hatályos hozzájárulások időbeli hatályát.
+
+(2) Az 1–25. § tekintetében e rendelet hatálybalépése előtt megadott, e rendelet hatálybalépését követően legalább 31 napig hatályos közútkezelői hozzájárulások 2017. október 19-én hatályukat vesztik.
+
+(3) A (2) bekezdés szerinti hozzájárulások helyett a közútkezelő 2017. december 31-ig benyújtott kérelem esetén hatályát vesztett hozzájárulásonként egy hozzájárulást eljárásidíj-mentesen ad ki.
+
+(4)[^101]
+
+### 10. Módosító rendelkezések
+
+#### 28. §
+
+(1)[^102]
+
+(2)[^103]
+
+(3)[^104]
+
+(4)[^105]
+
+(5)[^106]
+
+(6)[^107]
+
+(7)[^108]
+
+(8)[^109]
+
+(9)[^110]
+
+(10)[^111]
+
+(11)[^112]
+
+(12)[^113]
+
+### 11. Hatályon kívül helyező rendelkezések
+
+## 1. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^118]
+
+**Az eljárási díj mértéke**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th></tr><tr><th>**1**</th><th>**Az eljárás megnevezése**</th><th>**Az eljárás díja (minden új eljárás esetén, Ft összegben)**</th></tr></thead><tbody><tr><td>**2**</td><td>Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (elektronikus úton, ügyintéző közreműködése nélkül)</td><td rowspan="7">7 000</td></tr><tr><td>**3**</td><td>az össztömeg vonatkozásában 20%</td></tr><tr><td>**4**</td><td>a tengelyterhelés vonatkozásában 5%</td></tr><tr><td>**5**</td><td>a tengelycsoport-terhelés vonatkozásában 30%</td></tr><tr><td>**6**</td><td>a magasság vonatkozásában 5%</td></tr><tr><td>**7**</td><td>a szélesség vonatkozásában 20%</td></tr><tr><td>**8**</td><td>a hosszúság vonatkozásában 20%</td></tr><tr><td>**9**</td><td>Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (személyesen, ügyintéző közreműködésével)</td><td rowspan="7">13 000</td></tr><tr><td>**10**</td><td>az össztömeg vonatkozásában 20%</td></tr><tr><td>**11**</td><td>a tengelyterhelés vonatkozásában 5%</td></tr><tr><td>**12**</td><td>a tengelycsoport-terhelés vonatkozásában 30%</td></tr><tr><td>**13**</td><td>a magasság vonatkozásában 12,5%</td></tr><tr><td>**14**</td><td>a szélesség vonatkozásában 35%</td></tr><tr><td>**15**</td><td>a hosszúság vonatkozásában 57%</td></tr><tr><td>**16**</td><td>Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt</td><td rowspan="7">15 600</td></tr><tr><td>**17**</td><td>az össztömeg vonatkozásában 100%</td></tr><tr><td>**18**</td><td>a tengelyterhelés vonatkozásában 10%</td></tr><tr><td>**19**</td><td>a tengelycsoport-terhelés vonatkozásában 50%</td></tr><tr><td>**20**</td><td>a magasság vonatkozásában 20%</td></tr><tr><td>**21**</td><td>a szélesség vonatkozásában 70%</td></tr><tr><td>**22**</td><td>a hosszúság vonatkozásában 80%</td></tr><tr><td>**23**</td><td>Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt</td><td rowspan="7">19 500</td></tr><tr><td>**24**</td><td>az össztömeg vonatkozásában 150%</td></tr><tr><td>**25**</td><td>a tengelyterhelés vonatkozásában 20%</td></tr><tr><td>**26**</td><td>a tengelycsoport-terhelés vonatkozásában 60%</td></tr><tr><td>**27**</td><td>a magasság vonatkozásában 25%</td></tr><tr><td>**28**</td><td>a szélesség vonatkozásában 100%</td></tr><tr><td>**29**</td><td>a hosszúság vonatkozásában 100%</td></tr><tr><td>**30**</td><td>Egyedi elbírálás alapján megadott hozzájárulás esetében a 23–29. sorban szereplő össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések esetén vagy afölött</td><td>39 000</td></tr><tr><td>**31**</td><td>Az úthálózat-hozzáférési hozzájárulás esetében</td><td>58 500</td></tr></tbody></table>
+
+## 2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^119]
+
+**A túlsúlydíj, illetve túlméretdíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén**
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1** | **A megengedett értéktől történő eltérés mértéke [%]** | **… < 5%** **(Ft/km)** | **5% ≤ … < 10%** **(Ft/km)** | **10% ≤ … < 20%** **(Ft/km)** | **20% ≤ … < 30%** **(Ft/km)** |
+| **2** | Össztömeg (t) | 130 | 182 | 260 | 299 |
+| **3** | Tengelyterhelés (t) | 78 | 169 | 494 | 988 |
+| **4** | Tengelycsoport (t) | 130 | 247 | 572 | 1079 |
+| **5** | Magasság (m) | 6 | 8 | 10 | 13 |
+| **6** | Szélesség (m) | 6 | 8 | 10 | 13 |
+| **7** | Hosszúság (m) | 6 | 8 | 10 | 13 |
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1** | **A megengedett értéktől történő eltérés mértéke [%]** | **30% ≤ … < 40%** **(Ft/km)** | **40% ≤ … < 50%** **(Ft/km)** | **50% ≤ … < 60%** **(Ft/km)** | **60% ≤ … < 70%** **(Ft/km)** |
+| **2** | Össztömeg (t) | 325 | 364 | 494 | 572 |
+| **3** | Tengelyterhelés (t) | 1976 | 2639 | 3627 | 3965 |
+| **4** | Tengelycsoport (t) | 1573 | 2470 | 2808 | 3133 |
+| **5** | Magasság (m) | 18 | 23 | 26 | 33 |
+| **6** | Szélesség (m) | 18 | 23 | 26 | 33 |
+| **7** | Hosszúság (m) | 18 | 23 | 26 | 33 |
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1** | **A megengedett értéktől történő eltérés mértéke [%]** | **70% ≤ … < 80%** **(Ft/km)** | **80% ≤ … < 90%** **(Ft/km)** | **90% ≤ … < 100%** **(Ft/km)** | **megelőző határ** **≤ … < +10%** **(Ft/km)** |
+| **2** | Össztömeg (t) | 741 | 819 | 1157 | 325 |
+| **3** | Tengelyterhelés (t) | 4290 | 4628 | 4953 | 325 |
+| **4** | Tengelycsoport (t) | 3471 | 3796 | 4128 | 325 |
+| **5** | Magasság (m) | 39 | 42 | 52 | 26 |
+| **6** | Szélesség (m) | 39 | 42 | 52 | 26 |
+| **7** | Hosszúság (m) | 39 | 42 | 52 | 26 |
+
+## 3. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^120]
+
+**A túlméretdíj mértéke az egyszerűsített eljárás keretében megadott (időszakra szóló)túlméretes járművek közlekedéséhez**
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1** | **A megengedett értéktől történő eltérés mértéke [%]** | **… < 5% (Ft)** | **5% = < … < 10% (Ft)** | **10% = < … < 20% (Ft)** | **20% = < … < 30% (Ft)** |
+| **2** | Magasság (m) | 520 | 780 | – | – |
+| **3** | Szélesség (m) | 520 | 780 | 1040 | 1300 |
+| **4** | Hosszúság (m) | 520 | 780 | 1040 | 1300 |
+
+|  | **A** | **B** | **C** | **D** |
+|---|---|---|---|---|
+| **1** | **A megengedett értéktől történő eltérés mértéke [%]** | **30% = < … < 40% (Ft)** | **40% = < … < 50% (Ft)** | **50% = < … < 60% (Ft)** |
+| **2** | Magasság (m) | – | – | – |
+| **3** | Szélesség (m) | 1430 | – | – |
+| **4** | Hosszúság (m) | 1430 | 1560 | 1690 |
+
+## 4. melléklet a 36/2017. (IX. 18.) NFM rendelethez
+
+**A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és mérethatárt meghaladó járművek kíséretéhez előírt személyi és tárgyi feltételek**
+
+1\. A szakkíséretre vonatkozó személyi feltételek
+
+1.1.[^121] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
+
+1.2.[^122] Szakkísérői képesítést az a „B” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
+
+1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
+
+1.3.1. Közlekedésbiztonsági ismeretek (szóbeli)
+
+1.3.2. Közúti műszaki ismeretek (szóbeli)
+
+1.3.3. Árufuvarozási ismeretek (szóbeli)
+
+1.3.3.1. Rakodás, rakománykezelés, rakomány elhelyezés-rögzítés
+
+1.3.3.2. Fuvarozáshoz szükséges dokumentumok és azok használata
+
+1.3.4. Esettanulmány (összevont járműkísérői feladat) megoldása
+
+2\. A szakkíséret ellátásához előírt tárgyi feltételek
+
+2.1. Kísérő jármű, amely alkalmas a 2.3. pontban foglalt berendezés előírt módon történő üzemeltetésére, és amelynek szerkezeti magassága legalább 1800 mm.
+
+2.2.[^123] 2 db, minden irányból jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
+
+2.3.[^124] A közúti közlekedés szabályairól szóló rendeletben meghatározott „előzni tilos” és „tehergépkocsival előzni tilos” jelzőtáblák jelzését a mögöttes forgalom, valamint „egyéb veszély” jelzőtábla jelzését a szembejövő és a mögöttes forgalom számára mutató, változtatható jelzésképű, piros-fehér sávozású, lehajtható kivitelű berendezés, amely a kísérő jármű tetején van elhelyezve.
+
+2.4. A kísérő jármű hátsó homlokfelülete piros-fehér sávozású, fényvisszaverésre alkalmas felülettel legyen megjelölve, amely homlokfelületen legyen kialakítva egy rögzítési pont a mögöttes forgalom számára szolgáló tájékoztatást adó jelzés rögzítésére.
+
+2.5. „Túlméretes szállítmány” vagy „Különleges szállítmány” feliratú, kitűzhető, legkevesebb 1200×300 mm méretű tábla a kísért járműre történő elhelyezés céljából.
+
+2.6. „Túlméretes szállítmány” vagy „Különleges szállítmány” feliratú, kitűzhető, 900×450 mm méretű tábla a kísérő járműre történő elhelyezés céljából.
+
+2.7. Folyamatos mobil hírkapcsolatot biztosító eszköz a kísérő és a kísért jármű között.
+
+2.8. Rádiótelefon.
+
+2.9. Fényvisszaverő figyelemfelkeltő mellény, amelyet a járművön kívüli munkavégzés esetén a kísérő jármű vezetőjének, illetve a szakkísérethez tartozó személynek viselnie kell.
+
+2.10. Jelzőőri jeladásra alkalmas jelzőtárcsa és piros fényű lámpa.
+
+2.11. Legkevesebb 2 db, legalább 400×400 mm méretű, piros-fehér csíkos tábla vagy piros zászló.
+
+2.12.[^125] Legalább 50 m hosszúságot egyben mérő távolságmérő.
+
+2.13.[^126] A rakomány és az út feletti akadály magasságának ellenőrzésére alkalmas teleszkópos magasságmérő rúd vagy lézeres távolságmérő.
+
+2.14. Munkavégzés helyét megvilágító lámpa.
+
+2.15. Forgalomkorlátozást biztosító eszközök:
+
+2.15.1.[^127] terelőkúp, legkevesebb 4 db, minimum 45 cm magasak, körben minimum 10 cm vastag fényvisszavető fóliával,
+
+2.15.2. kihelyezhető, villogó, borostyánsárga fényt adó lámpa, legkevesebb 2 db,
+
+2.15.3. jelzőszalag.
+
+2.16. 1 db 6 kg-os, szabványos, porral oltó tűzoltó készülék.
+
+2.17. A hajtott kerekekre felszerelhető hólánc.
+
+3\. Az egyéb kíséretre vonatkozó személyi feltételek
+
+Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategóriára érvényes vezetői engedéllyel és 2 év vezetési gyakorlattal rendelkezik.
+
+4\. Az egyéb kíséret ellátásához előírt tárgyi feltételek
+
+4.1.[^128] Legalább 1 db, minden irányból jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
+
+4.2. A kísérő jármű hátsó homlokfelülete piros-fehér sávozású, fényvisszaverésre alkalmas felülettel legyen megjelölve, amely homlokfelületen legyen kialakítva egy rögzítési pont a mögöttes forgalom számára szolgáló tájékoztatást adó jelzés rögzítésére.
+
+4.3. „Túlméretes jármű” feliratú, kitűzhető, 600×300 mm méretű tábla a kísérő járműre történő elhelyezés céljából.
+
+4.4. Folyamatos mobil hírkapcsolatot biztosító eszköz a kísérő és a kísért jármű között.
+
+4.5. Fényvisszaverő figyelemfelkeltő mellény, amelyet a járművön kívüli munkavégzés esetében a kísérő jármű személyzetének viselnie kell.
+
+4.6. Jelzőőri jeladásra alkalmas jelzőtárcsa (fényvisszavető fóliával vagy fénykibocsátó eszközzel ellátva).
+
+4.7.[^129] Legkevesebb 2 db, legalább 400×400 mm méretű, piros-fehér fényvisszaverő felületű csíkos tábla vagy piros zászló.
+
+4.8.[^130] Legalább 50 m hosszúságot egyben mérő távolságmérő.
+
+4.9. Forgalomkorlátozást biztosító eszközök:
+
+4.9.1.[^131] terelőkúp, legkevesebb 4 db, minimum 45 cm magas, körben minimum 10 cm vastag fényvisszavető fóliával,
+
+4.9.2. jelzőszalag.
+
+4.10. 1 db 6 kg-os, szabványos, porral oltó tűzoltó készülék.
+
+4.11. A hajtott kerekekre felszerelhető hólánc.
+
+## 5. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^132]
+
+## 6. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^133]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 20. § a) pontja, az 50/2025. (XII. 30.) ÉKM rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja az 50/2025. (XII. 30.) ÉKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (6) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 3. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § (3) bekezdés b) pontja az 53/2020. (XII. 23.) ITM rendelet 9. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdés c) pontja az 53/2020. (XII. 23.) ITM rendelet 9. § a) és b) pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdését az 56/2017. (XII. 27.) NFM rendelet 2. §-a iktatta be.
+[^11]: A 4. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 4. § (3) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § (6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^14]: A 4. § (7) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^15]: A 4. § (8) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^16]: A 4. § (9) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^17]: A 4. § (9a) bekezdését a 6/2025. (II. 27.) ÉKM rendelet 1. §-a iktatta be.
+[^18]: A 4. § (10) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^19]: Az 5. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 4. §-ával megállapított szöveg.
+[^20]: A 7. § 1. pontja az 53/2020. (XII. 23.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 7. § 1a. pontját az 56/2017. (XII. 27.) NFM rendelet 5. § (1) bekezdése iktatta be, szövege az 53/2020. (XII. 23.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § 1b. pontját az 53/2020. (XII. 23.) ITM rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 7. § 1c. pontját az 53/2020. (XII. 23.) ITM rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 7. § 4a. pontját az 50/2025. (XII. 30.) ÉKM rendelet 4. §-a iktatta be.
+[^25]: A 7. § 7a. pontját az 56/2017. (XII. 27.) NFM rendelet 5. § (2) bekezdése iktatta be, szövege az 53/2020. (XII. 23.) ITM rendelet 9. § c) pontja szerint módosított szöveg.
+[^26]: A 8. § (1) bekezdés a) pontja az 50/2025. (XII. 30.) ÉKM rendelet 16. § b) pontja szerint módosított szöveg.
+[^27]: A 8. § (1) bekezdés b) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^28]: A 8. § (1) bekezdés c) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 8. § (4) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 5. §-ával megállapított szöveg.
+[^30]: A 8. § (4a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^31]: A 8. § (4b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 2. §-a iktatta be.
+[^32]: A 8. § (5) bekezdése az 56/2017. (XII. 27.) NFM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^33]: A 9. § (1) bekezdés nyitó szövegrésze a 44/2023. (XII. 29.) ÉKM rendelet 3. §-a szerint módosított szöveg.
+[^34]: A 9. § (1) bekezdés a) pontja az 56/2017. (XII. 27.) NFM rendelet 20. § b) pontja szerint módosított szöveg.
+[^35]: A 9. § (4a) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 6. §-a iktatta be.
+[^36]: A 10. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 7. § (1) bekezdésével megállapított, a 21. § a) pontja szerint módosított szöveg.
+[^37]: A 10. § (2) bekezdés nyitó szövegrésze az 56/2017. (XII. 27.) NFM rendelet 20. § c) pontja szerint módosított szöveg.
+[^38]: A 10. § (4) bekezdése az 53/2020. (XII. 23.) ITM rendelet 3. §-ával megállapított szöveg.
+[^39]: A 10. § (6) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 16. § c) pontja szerint módosított szöveg.
+[^40]: A 10. § (9) bekezdése a 28. § (4) bekezdése szerint módosított szöveg.
+[^41]: A 10. § (10) bekezdés a) pontja az 56/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^42]: A 10. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 7. § (3) bekezdésével megállapított, nyitó szövegrésze a 21. § b) pontja szerint módosított szöveg.
+[^43]: A 10. § (13) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 7. §-a iktatta be.
+[^44]: A 11. § (1) bekezdése a 28. § (7) bekezdése szerint módosított szöveg.
+[^45]: A 11. § (1a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 4. § (1) bekezdése iktatta be.
+[^46]: A 11. § (1b) bekezdését a 44/2023. (XII. 29.) ÉKM rendelet 1. §-a iktatta be.
+[^47]: A 11. § (3) bekezdése a 28. § (9) bekezdése szerint módosított szöveg.
+[^48]: A 11. § (4) bekezdése a 28. § (8) bekezdése szerint módosított szöveg.
+[^49]: A 11. § (4a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^50]: A 11. § (5) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 8. §-ával megállapított szöveg.
+[^51]: A 11. § (5a) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 8. §-a iktatta be.
+[^52]: A 11. § (6) bekezdése a 28. § (9) bekezdése szerint módosított szöveg.
+[^53]: [Az 53/2020. (XII. 23.) ITM rendelet 9. § d) pontjában foglalt módosítás, mely szerint a 11. § (7) bekezdésében a „hozzájárulás megszerzésig” szövegrész helyébe a „hozzájárulás megszerzéséig, illetve a megtett útra vonatkozó díjak megfizetéséig” szöveg lép, nem vezethető át.]
+[^54]: A 12. § az 50/2025. (XII. 30.) ÉKM rendelet 9. §-ával megállapított szöveg.
+[^55]: A 12/A. §-t az 50/2025. (XII. 30.) ÉKM rendelet 10. §-a iktatta be.
+[^56]: Az 5. alcím címe a 28. § (10) bekezdése szerint módosított szöveg.
+[^57]: A 14. § (1) bekezdés g) pontja a 28. § (2) bekezdésével megállapított szöveg.
+[^58]: A 14. § (1) bekezdés k) pontját az 53/2020. (XII. 23.) ITM rendelet 5. §-a iktatta be.
+[^59]: A 14. § (2) bekezdése a 44/2023. (XII. 29.) ÉKM rendelet 2. §-ával megállapított szöveg.
+[^60]: A 14. § (3) bekezdése az 53/2020. (XII. 23.) ITM rendelet 9. § e) pontja szerint módosított szöveg.
+[^61]: A 14. § (5) bekezdése a 28. § (10) bekezdése szerint módosított szöveg.
+[^62]: A 15. § (1) bekezdés záró szövegrésze az 56/2017. (XII. 27.) NFM rendelet 20. § e) pontja szerint módosított szöveg.
+[^63]: A 15. § (1) bekezdés g) pontját az 56/2017. (XII. 27.) NFM rendelet 9. § (1) bekezdése iktatta be.
+[^64]: A 15. § (1) bekezdés h) pontját az 53/2020. (XII. 23.) ITM rendelet 6. § (1) bekezdése iktatta be.
+[^65]: A 15. § (1a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
+[^66]: A 15. § (1b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
+[^67]: A 15. § (1c) bekezdését újonnan az 1/2022. (VI. 24.) TIM rendelet 1. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 2. §.
+[^68]: A 15. § (2) bekezdése az 53/2020. (XII. 23.) ITM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^69]: A 15. § (2a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 9. § (2) bekezdése iktatta be, szövege az 53/2020. (XII. 23.) ITM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^70]: A 15. § (2b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (5) bekezdése iktatta be.
+[^71]: A 15. § (2c) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (5) bekezdése iktatta be.
+[^72]: A 15. § (4) bekezdése az 56/2017. (XII. 27.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^73]: A 15. § (4a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^74]: A 15. § (5) bekezdése az 56/2017. (XII. 27.) NFM rendelet 9. § (4) bekezdésével megállapított, a 21. § c) pontja szerint módosított szöveg.
+[^75]: A 15. § (7) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (6) bekezdése iktatta be.
+[^76]: A 15. § (8) bekezdését a 6/2025. (II. 27.) ÉKM rendelet 2. §-a iktatta be.
+[^77]: A 15/A. §-t az 56/2017. (XII. 27.) NFM rendelet 10. §-a iktatta be, nyitó szövegrésze az 53/2020. (XII. 23.) ITM rendelet 9. § f) pontja szerint módosított szöveg.
+[^78]: A 16. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^79]: A 16. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 11. § (2) bekezdése iktatta be.
+[^80]: A 16. § (1a) bekezdés a) pontja az 50/2025. (XII. 30.) ÉKM rendelet 16. § d) pontja szerint módosított szöveg.
+[^81]: A 17. § a 28. § (12) bekezdése szerint módosított szöveg.
+[^82]: A 18. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 20. § f) pontja szerint módosított szöveg.
+[^83]: A 18. § (2) bekezdése az 56/2017. (XII. 27.) NFM rendelet 12. §-ával megállapított szöveg.
+[^84]: A 18. § (3) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 11. §-ával megállapított szöveg.
+[^85]: A 18. § (3a) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 11. §-a iktatta be.
+[^86]: A 19. § az 56/2017. (XII. 27.) NFM rendelet 13. §-ával megállapított szöveg.
+[^87]: A 20. § az 56/2017. (XII. 27.) NFM rendelet 14. § (1) bekezdésével megállapított szöveg. [A 20. §-nak a 28. § (8) bekezdésével elrendelt módosítása, amely szerint a „túlsúlydíj” szövegrészek helyébe a „túlsúlydíj, illetve túlméretdíj” szöveg lép, nem vezethető át.]
+[^88]: A 20. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^89]: A 20/A. §-t az 56/2017. (XII. 27.) NFM rendelet 14. § (1) bekezdése iktatta be.
+[^90]: A 20/A. § (4) bekezdése az 53/2020. (XII. 23.) ITM rendelet 9. § g) pontja szerint módosított szöveg.
+[^91]: A 21. § (1) bekezdése az 53/2020. (XII. 23.) ITM rendelet 7. §-ával megállapított szöveg.
+[^92]: A 21. § (2) bekezdése az 50/2025. (XII. 30.) ÉKM rendelet 12. §-ával megállapított szöveg.
+[^93]: A 21. § (3) bekezdését az 56/2017. (XII. 27.) NFM rendelet 15. §-a iktatta be.
+[^94]: A 21/A. §-t az 50/2025. (XII. 30.) ÉKM rendelet 13. §-a iktatta be.
+[^95]: A 22. § a 28. § (7) bekezdése szerint módosított szöveg.
+[^96]: A 23. § (1a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 8. §-a iktatta be, szövege az 50/2025. (XII. 30.) ÉKM rendelet 16. § e) pontja szerint módosított szöveg.
+[^97]: A 23/A. §-t az 50/2025. (XII. 30.) ÉKM rendelet 14. §-a iktatta be.
+[^98]: A 24. § az 56/2017. (XII. 27.) NFM rendelet 16. §-ával megállapított szöveg.
+[^99]: A 24/A. §-t az 50/2025. (XII. 30.) ÉKM rendelet 15. §-a iktatta be.
+[^100]: A 26. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított szöveg.
+[^101]: A 27. § (4) bekezdését az 53/2020. (XII. 23.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^102]: A 28. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^103]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^107]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^108]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 28. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^113]: A 28. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: Az 1. melléklet az 50/2025. (XII. 30.) ÉKM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^119]: A 2. melléklet az 50/2025. (XII. 30.) ÉKM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^120]: A 3. mellékletet az 56/2017. (XII. 27.) NFM rendelet 19. §-a iktatta be, szövege az 50/2025. (XII. 30.) ÉKM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^121]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
+[^122]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított, az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^123]: A 4. melléklet 2.2. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^124]: A 4. melléklet 2.3. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^125]: A 4. melléklet 2.12. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^126]: A 4. melléklet 2.13. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^127]: A 4. melléklet 2.15.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^128]: A 4. melléklet 4.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^129]: A 4. melléklet 4.7. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^130]: A 4. melléklet 4.8. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^131]: A 4. melléklet 4.9.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^132]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

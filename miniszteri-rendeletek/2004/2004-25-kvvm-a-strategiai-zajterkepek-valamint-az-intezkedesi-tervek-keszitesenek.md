@@ -1,0 +1,458 @@
+---
+title: "25/2004. (XII. 20.) KvVM rendelet a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól"
+identifier: "25/2004. (XII. 20.) KvVM rendelet"
+njt_id: "2004-25-20-0N"
+eli: "https://njt.jog.gov.hu/eli/R/2004/KVVM/25"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2004-12-20
+in_force_from: 2004-12-28
+last_amended: 2025-11-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-25-20-0N"
+retrieved: 2026-10-12
+---
+
+# 25/2004. (XII. 20.) KvVM rendelet a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól
+
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-a (8) bekezdésének p) pontjában kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet hatálya a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet (a továbbiakban: Zr.) szerinti
+
+a) stratégiai zajtérkép (a továbbiakban: zajtérkép) és intézkedési terv készítésével kapcsolatos tevékenységekre,
+
+b) zajtérkép készítésére kijelölt szervezetekre,
+
+c) intézkedési terv készítésére kijelölt szervezetekre, illetve önkormányzatokra
+
+terjed ki.
+
+### 1/A. §[^2]
+
+(1)[^3] Az 1. § a) pontja szerinti zajtérképeket a 2002/49/EK európai parlamenti és tanácsi irányelv II. mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a közös zajértékelési módszerek tekintetében történő módosításáról szóló, 2020. december 21-i (EU) 2021/1226 felhatalmazáson alapuló bizottsági irányelvben, valamint a 2002/49/EK európai parlamenti és tanácsi irányelv szerinti közös zajértékelési módszerek meghatározásáról szóló, 2015. május 19-i (EU) 2015/996 bizottsági irányelvben (a továbbiakban együtt: 2015/996 bizottsági irányelv) foglaltak szerint,
+
+a) a közutak vonatkozásában a 2. melléklet szerinti,
+
+b) a vasutak vonatkozásában a 3. melléklet szerinti
+
+kiegészítések és eltérések figyelembevételével kell elkészíteni.
+
+(2)[^4] A környezetvédelemért felelős miniszter a közös zajértékelési módszereket meghatározó európai uniós jogi aktusok elérhetőségét az elektronikus tájékoztatásra szolgáló honlapján közzéteszi, és a hozzáférést folyamatosan biztosítja.
+
+## A zajtérkép előkészítésére vonatkozó általános rendelkezések
+
+### 2. §
+
+(1) A zajtérképet a helyszínt és a geometriai adatokat az egységes ország vetületi rendszerben (a továbbiakban: EOV) megadó, állami alapadatokra épülő, digitális formátumú térképre kell építeni, amelyben:
+
+a) a vizsgált terület pontos határvonalát kell jelölni;
+
+b) a hangterjedés szempontjából jelentős elnyelő felületeket (így például: talaj, növényzet) körül kell határolni;
+
+c) a terepfelszín magassági viszonyait megfelelően kifejező – 5 méter vagy ennél szükségszerűen kisebb szintkülönbségekkel (így például: 1 méter, 0,5 méter) meghatározott – szintvonalakat grafikusan meg kell jeleníteni, valamint a jellemző pontok – beleértve az épületek meghatározó legmagasabb pontjainak a mindenkori terepfelszínhez viszonyított – magassági adatait is jelölni kell;
+
+d) a terjedési úton lévő jelentős, a hangterjedést befolyásoló természetes képződményeket és mesterséges létesítményeket, műtárgyakat be kell jelölni (így például: domb, rézsű, töltés, bevágás, zajárnyékoló fal, építmény, épület, híd);
+
+e) az utakat, illetve ezek hálózatát meg kell adni;
+
+f) a forgalomszabályozási, forgalomirányítási és más, a forgalmat befolyásoló intézkedéseket (így például: a csomópontok altípusa, körforgalom, forgalomirányító jelzőlámpák) jelölni kell;
+
+g) a vasúti hálózatot meg kell adni;
+
+h) a repülőtér területét körül kell határolni, ezen belül a kifutópályát, épületeket, építményeket jelölni kell;
+
+i) az üzemi létesítmény területén belül található épületeket és építményeket meg kell adni.
+
+(2) Az adatokat a fenti csoportosítás szerinti rétegekben (layer) kell elkülöníteni.
+
+(3) Az (1) bekezdés szerinti térkép méretaránya legalább 1:10 000.
+
+(4) Az adatok jellemző pontossága 0,5–1 méter.
+
+(5) Minden digitalizált objektumot az azonosíthatóság érdekében külön jellel kell ellátni.
+
+(6) A digitalizált adatokat úgy kell bemutatni, hogy a zajforrások egyértelműen azonosíthatók legyenek.
+
+(7) A digitális térkép információit a zajtérkép készítése előtt bejárással ellenőrizni kell.
+
+### 2/A. §[^5]
+
+(1)[^6] Zajkibocsátás vagy zajterjedés számítására alkalmas szoftver zajtérképkészítés céljára abban az esetben használható fel, ha annak számítási módszere megegyezik az e rendelet 1/A. § (1) bekezdésében megjelölt számítási módszerrel, és rendelkezik az erre vonatkozó igazolással.
+
+(2)[^7] A szoftver számítási módszerének megfelelőségét a Közlekedéstudományi Intézet (a továbbiakban: KTI) – tesztesetek alkalmazásával – ellenőrzi, és az (1) bekezdés szerinti követelménynek való megfelelésről igazolást állít ki a gyártó részére.
+
+(3) A KTI a (2) bekezdés szerinti igazolás egy példányát a környezetvédelemért felelős miniszter részére továbbítja.
+
+(4) A (2) bekezdés szerinti igazolásokról a környezetvédelemért felelős miniszter nyilvántartást vezet, amit az elektronikus tájékoztatásra szolgáló honlapján 3 havonta közzétesz.
+
+(5) A (2) bekezdés szerinti eljárással kapcsolatos költségek a szoftver gyártóját terhelik.
+
+## A közútra vonatkozó adatok
+
+## A vasútra vonatkozó adatok
+
+## A repülőtérre vonatkozó adatok
+
+## Az üzemi létesítményre vonatkozó adatok
+
+## A zajjellemzők és a terjedési modell
+
+### 7. §
+
+(1) A zajtérképen a zajterhelést a Zr. szerinti L<sub>den</sub> és L<sub>éjjel</sub> zajjellemzők alapján kell bemutatni.
+
+(2) A zajjellemzők meghatározásához az alábbiakat kell figyelembe venni:
+
+a) az év a zajkibocsátás vonatkozásában a Zr.-ben meghatározott zajtérkép készítési kötelezettséget megelőző naptári év, a meteorológiai körülmények vonatkozásában egy átlagos év,
+
+b) a zajhatásnak leginkább kitett homlokzati felület az adott zajforráshoz legközelebb elhelyezkedő külső falfelület.
+
+(3)[^12]
+
+(4) A zajtérkép elkészítésének céljait szolgáló zajterhelés mérésénél a mérési pontnak legalább 1,5 méterrel a talajszint felett kell lennie. Ha a mérés nem 4 méter magasságban történik, akkor az eredményt 4 méternek megfelelő magasságra és a beeső hangra korrigálni kell.
+
+(5) Az értékelési pont magasságát a zajhatásnak leginkább kitett felület esetében a talajszint fölött 4,0± 0,2 (azaz 3,8–4,2) méter közötti magasságban kell meghatározni.
+
+(6)[^13]
+
+## A zajtérkép megjelenítése
+
+### 8. §
+
+(1) A zajtérképeket legfeljebb 10 0 méteres, derékszögű raszterháló alkalmazásával kell készíteni. A raszterháló helyzetét rögzíteni kell az EOV koordináta-rendszerben.
+
+(2) A számítási eredményeket raszterpontonként digitálisan kell tárolni. A raszterpontokban számított eredményekből az 5 dB-es lépcsők szerinti zajszintgörbék bázispontjait interpolációval kell meghatározni. Az azonos zajszintű bázispontokat összekötő zajszintgörbék felrajzolásához olyan harmadfokú görbét eredményező interpoláló eljárást kell alkalmazni, amely biztosítja, hogy a görbe egyes szakaszai töréspont nélkül illeszkednek egymáshoz.
+
+(3) A zajszintgörbék által határolt sávokat az MSZ ISO 1996–2 szabvány 1. táblázata szerinti színskálával kell megjelentetni az alábbiak szerint:
+
+a) 35 dB alatt világoszöld
+
+b) 35–40 dB között zöld
+
+c) 40–45 dB között sötétzöld
+
+d) 45–50 dB között sárga
+
+e) 50–55 dB között okkersárga
+
+f) 55–60 dB között narancssárga
+
+g) 60–65 dB között cinóber
+
+h) 65–70 dB között kármin
+
+i) 70–75 dB között lila
+
+j) 75–80 dB között kék
+
+k) 80–85 dB között sötétkék.
+
+(4) Az alkalmazott szinttartományokat a térképen fel kell tüntetni.
+
+(5) A konfliktustérképen az érintett lakosság, valamint az érintett lakóépületek, iskolák és kórházak számát 5 dB-es lépcsők szerinti tartományban kell táblázatosan megadni, közlekedési létesítmények esetében érintett településenként külön-külön és összesítve is. A számadatokat a legközelebbi 100-ra kell fel- vagy lekerekíteni.
+
+(6) A rendelkezésre álló adatok alapján meg kell határozni azon lakosok számát, akik a Zr.-ben megfogalmazott csendes homlokzatú, valamint a legzajosabb homlokzatú lakóházakban élnek.
+
+## Dokumentáció
+
+### 9. §
+
+(1) A zajtérképek készítéséhez felhasznált adatokat dokumentálni és legalább a zajtérképek következő felülvizsgálatának elvégzéséig archiválni kell.
+
+(2) A dokumentációnak az alábbiakat kell tartalmaznia:
+
+a) zajkibocsátási adatok tekintetében:
+
+aa) a közúti, vasúti, légi közlekedés zajkibocsátásának számításához felhasznált valamennyi adat táblázatos formában,
+
+ab) üzemi létesítmények zajkibocsátási adatai Zr.-ben meghatározott adatokkal táblázatos formában, az adatok származási helyének (így például: irodalom, mérés, adatbank) megadásával, a számításba vett korrekciókkal,
+
+b) a 2. § (1) bekezdés szerinti térkép megnevezése, származási helyének, műszaki jellemzőinek megadása,
+
+c) a domborzati modell megnevezése a térkép szállítójának megadása szerint,
+
+d) a számítás módszerének megadása (így például: hivatkozás e rendeletre és a vonatkozó műszaki előírásra),
+
+e) a számítási paraméterek megadása,
+
+f) az alkalmazott számítógépes program megnevezése,
+
+g) a pontosságot, a számítás eredményét befolyásoló tényezők, jellemzők (így például: a hangvisszaverődés számítási módja, az esetleges elhanyagolt zajforrások) megadása.
+
+## Az intézkedési terv készítésének szabályai
+
+### 10. §
+
+(1) Az intézkedési terv készítése során – a Zr.-ben foglaltakon túl – a hatékony zajcsökkentést célzó intézkedéseket együttesen kell figyelembe venni.
+
+(2) Az (1) bekezdés szerinti intézkedések különösen:
+
+a) forgalomtervezés,
+
+b) területhasználat-tervezés,
+
+c) műszaki intézkedések a zajforrásoknál,
+
+d) csendesebb zajforrások kiválasztása és előnyben részesítése,
+
+e) a zaj csökkentése terjedés közben,
+
+f) szabályozási vagy gazdasági intézkedések, ösztönzők.
+
+(3) A zajforrásnál elvégzett, megelőzést célzó zajcsökkentési intézkedésnek az intézkedési tervben elsőbbséget kell biztosítani.
+
+(4) Az intézkedési tervnek zajforrásonként különösen az alábbi zajcsökkentést célzó intézkedéseket kell tartalmazni:
+
+a) közúti közlekedés tekintetében:
+
+aa) a forgalomsűrűség csökkentése,
+
+ab) a nehézjárművek részarányának csökkentése,
+
+ac) sebességkorlátozás, forgalomcsillapítás,
+
+ad) a járműpark felújítása,
+
+ae) az útburkolat cseréje;
+
+b) vasúti közlekedés tekintetében:
+
+ba) a sín és a kerék érdességének csökkentése,
+
+bb) sebességkorlátozás,
+
+bc) a kerekek árnyékolása, a felfüggesztés optimalizálása,
+
+bd) a pálya optimalizálása és csillapítása,
+
+be) a vágányok alépítményeinek megválasztása,
+
+bf) a járművek fejlesztése,
+
+bg) az aerodinamikai zaj csökkentése;
+
+c) légi közlekedés tekintetében:
+
+ca) a repülési eljárások optimalizálása,
+
+cb) az előírásokat nem teljesítő repülőgépek üzemének korlátozása;
+
+d) üzemi létesítmények tekintetében:
+
+da) zajszegény gépek, berendezések alkalmazása;
+
+db) a zajforrások épületen belüli elhelyezése vagy burkolása.
+
+(5) Az intézkedési tervben a zaj csökkentésére különösen az alábbi várostervezési intézkedések alkalmazatók:
+
+a) a domborzat és az épületek árnyékoló hatásának kihasználása,
+
+b) az épületek védendő homlokzatának tájolása,
+
+c) forgalomcsökkentés,
+
+d) városközpontok decentralizálása.
+
+### 10/A. §[^14]
+
+A káros hatások az 1. mellékletben szereplő terhelés-hatás összefüggések segítségével értékelhetők.
+
+## Záró rendelkezések
+
+### 11. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(1a)[^15] A környezetvédelemért felelős miniszter az 1/A. § (2) bekezdése szerinti közzétételi kötelezettségét legkésőbb a közös zajértékelési módszereket meghatározó,
+
+a) európai uniós jogi aktus átültetését biztosító jogszabály,
+
+b) átültetést nem igénylő európai uniós jogi aktus esetén az európai uniós jogi aktus
+
+hatálybalépését követő 8. napon teljesíti.
+
+(2)[^16]
+
+### 12. §[^17]
+
+Ez a rendelet
+
+a) a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/EK európai parlamenti és tanácsi irányelvnek,
+
+b) a 2002/49/EK európai parlamenti és tanácsi irányelv szerinti közös zajértékelési módszerek meghatározásáról szóló, 2015. május 19-i (EU) 2015/996 bizottsági irányelvnek,
+
+c) a 2002/49/EK európai parlamenti és tanácsi irányelv III. mellékletének a környezeti zaj káros hatásainak értékelésére vonatkozó módszerek megállapítása érdekében történő módosításáról szóló, 2020. március 4-i (EU) 2020/367 bizottsági irányelvnek,
+
+d) a 2002/49/EK európai parlamenti és tanácsi irányelv II. mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a közös zajértékelési módszerek tekintetében történő módosításáról szóló, 2020. december 21-i (EU) 2021/1226 felhatalmazáson alapuló bizottsági irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^18]
+
+**A káros hatások értékelésére szolgáló módszerek**
+
+1\. A káros hatások felsorolása
+
+A káros hatások értékelésének kontextusában a következőket kell figyelembe venni:
+
+a) ischaemiás szívbetegség (ischaemic heart disease, IHD), az Egészségügyi Világszervezet (WHO) által összeállított Betegségek Nemzetközi Osztályozása 11. változatának BA40–BA6Z kódjai szerint;
+
+b) nagy mértékű zavarás (high annoyance, HA);
+
+c) nagy mértékű alvászavar (high sleep disturbance, HSD).
+
+2\. A káros hatások kiszámítása
+
+A káros hatásokat a következők valamelyike alapján kell kiszámítani:
+
+a) a káros hatás relatív kockázata (relative risk, RR), vagyis:
+
+![](https://njt.jog.gov.hu/picture/6a/6a17EJR_401635-2X07650A.jpg)
+
+b) a káros hatás abszolút kockázata (absolute risk, AR), vagyis:
+
+![](https://njt.jog.gov.hu/picture/4c/4c7bEJR_401637-2X07650B.jpg)
+
+2.1. Ischaemiás szívbetegség (IHD)
+
+Az ischaemiás szívbetegséghez kapcsolódó RR kiszámításához az (i) incidencia mellett a következő dózis-hatás összefüggéseket kell használni:\
+![](https://njt.jog.gov.hu/picture/34/3446EJR_401639-2X07650C.jpg)\
+a közúti zaj esetében.
+
+2.2. Nagy mértékű zavarás (HA)
+
+A nagymértékű zavaráshoz kapcsolódó AR kiszámításához a 2.2.1–2.2.3. pontokban szereplő dózis-hatás összefüggéseket kell használni.
+
+2.2.1. Közúti zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/c5/c532EJR_401641-2X07650D.jpg)
+
+2.2.2. Vasúti zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/6e/6e79EJR_401643-2X07650E.jpg)
+
+2.2.3. Légi közlekedési zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/52/52a6EJR_401645-2X07650F.jpg)
+
+2.3. Nagy mértékű alvászavar (HSD)
+
+A nagy mértékű alvászavarhoz kapcsolódó AR kiszámításához a 2.3.1–2.3.3. pontokban szereplő dózis-hatás összefüggéseket kell használni.
+
+2.3.1. Közúti zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/75/7557EJR_401647-2X07651A.jpg)
+
+2.3.2. Vasúti zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/a7/a76bEJR_401649-2X07651B.jpg)
+
+2.3.3. Légi közlekedési zaj esetében:
+
+![](https://njt.jog.gov.hu/picture/e4/e45eEJR_404001-2X07651C.jpg)
+
+3\. A káros hatások értékelése
+
+3.1. A lakosság kitettségét minden egyes zajforrás és minden egyes káros hatás tekintetében külön kell értékelni. Amennyiben ugyanazok a lakosok több különböző zajforrásnak is ki vannak téve, a káros hatásokat általában nem szabad halmozni. Ugyanakkor az egyes zajtípusok relatív jelentőségének felmérése érdekében össze lehet hasonlítani e hatásokat.
+
+3.2. Az ischaemiás szívbetegségre (IHD) vonatkozó értékelés
+
+3.2.1. Az ischaemiás szívbetegség és a vasúti és a légi közlekedési zaj viszonya kapcsán úgy kell becsülni, hogy a megfelelő L<sub>den</sub> zajszint feletti expozíciónak kitett lakosság esetében magasabb az ischaemiás szívbetegség kockázata, de az esetek pontos számát (N) nem lehet kiszámítani.
+
+3.2.2. Az ischaemiás szívbetegség és a közúti zaj viszonya kapcsán a környezeti zajnak betudható relatív kockázatnak (RR) kitett lakosságban az y káros hatással (ischaemiás szívbetegség) érintett esetek arányát az x zajforrás (közút) és az i incidencia használatával a következőképp kell kiszámítani:
+
+![](https://njt.jog.gov.hu/picture/06/0616EJR_404003-2X07651D.jpg)
+
+ahol:
+
+– *PAF**<sub>x,y</sub>* a lakosság hozzárendelhető hányada,
+
+– a *j* zajsávok sorozata egyenként legfeljebb 5 dB értékű sávokból tevődik össze (pl. 50–51 dB, 51–52 dB, 52–53 dB stb. vagy 50–54 dB, 55–59 dB, 60–64 dB stb.),
+
+– *p**<sub>j</sub>* a vizsgált területen élő teljes lakosság (*P*) *j*. kitettségi sávnak kitett aránya, amelyhez hozzárendeljük az adott káros hatás relatív kockázatát (*RR**<sub>j,x,y</sub>*). Az *RR**<sub>j,x,y</sub>* értékét az e melléklet 2. pontjában szereplő képletek segítségével kell kiszámítani, minden egyes zajsáv középértékét használva (az adatok rendelkezésre állásától függően az 50–51 dB közötti tartomány esetében 50,5 dB, az 50–54 dB közötti tartomány esetében 52 dB középértéket kell figyelembe venni stb.).
+
+3.2.3. A közúti zaj esetében az ischaemiás szívbetegek teljes számát (N) (az y káros hatással érintett személyek száma, a hozzárendelhető esetek száma) az x forrás esetében a következőképp kell kiszámítani:
+
+![](https://njt.jog.gov.hu/picture/cc/ccd2EJR_404005-2X07651E.jpg)
+
+a közúti zaj esetében
+
+ahol:
+
+– *PAF**<sub>x,y,i</sub>* az *i* incidenciára kiszámított érték,
+
+– *I**<sub>y</sub>* az ischaemiás szívbetegség incidenciája a vizsgált területen, amely a területnek megfelelő régió vagy ország egészségügyi statisztikáiból szerezhető be,
+
+– *P* a vizsgált terület teljes lakossága (az egyes zajsávokba tartozó lakosok összesített száma).
+
+3.3. A nagy mértékű zavarás (HA), illetve a nagy mértékű alvászavar (HSD) és a közúti, a vasúti, illetve a légi közlekedési zaj viszonya kapcsán az y káros hatással érintett személyek teljes számát (N) (a hozzárendelhető esetek száma) minden *x* zajforrás és *y* káros hatás esetében a következőképp kell kiszámítani:
+
+![](https://njt.jog.gov.hu/picture/a9/a92bEJR_404007-2X07652A.jpg)
+
+ahol:
+
+– *AR**<sub>x,y</sub>* a megfelelő káros hatás (HA vagy HSD) abszolút kockázata, amelyet az e melléklet 2. pontjában szereplő képlet segítségével kell kiszámítani, minden egyes zajsáv középértékét használva (az adatok rendelkezésre állásától függően az 50–51 dB közötti tartomány esetében 50,5 dB, az 50–54 dB közötti tartomány esetében 52 dB középértéket kell figyelembe venni stb.),
+
+– *n**<sub>j</sub>* a *j*. kitettségi sávnak kitett lakosok száma.
+
+## 2. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^19]
+
+5X03695.pdf
+
+## 3. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^20]
+
+**Vasúti közlekedési zajkibocsátás meghatározása stratégiai zajtérkép készítés céljára**
+
+1\. A vasúti közlekedési zaj kibocsátási értékét az ebben a mellékletben foglalt kiegészítésekkel és eltérésekkel a 2015/996 bizottsági irányelv mellékletének 2.1. és 2.3. pontja szerint kell meghatározni.
+
+2\. A 2015/996 bizottsági irányelv melléklete 2.3. pontjának kiegészítése
+
+2.1. A vasúti járművek osztályozására a 2015/996 bizottsági irányelv mellékletének 2.3.a táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 8. melléklet 4.2. pontját kell alkalmazni.
+
+2.2. A vasúti pálya típusok leírására a 2015/996 bizottsági irányelv mellékletének 2.3.b táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 8. melléklet 4.1. pontját kell alkalmazni.
+
+3\. A 2015/996 bizottsági irányelv mellékletének 2.3.2. pontjában szereplő 2.3.7. összefüggés alkalmazásához az L<sub>r,TR,i</sub>együtthatókat a 2015/996 bizottsági irányelv melléklete G. függelékének G–1. táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 13. mellékletének 1. pontja szerint kell meghatározni.
+
+4\. A 2015/996 bizottsági irányelv mellékletének 2.3.2. pontjában szereplő 2.3.7. összefüggés alkalmazásához az A<sub>3,i</sub>együtthatókat a 2015/996 bizottsági irányelv melléklete G. függelékének G–2. táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 13. mellékletének 3. pontja szerint kell meghatározni.
+
+5\. A 2015/996 bizottsági irányelv mellékletének 2.3.2. pontjában szereplő 2.3.8. összefüggés alkalmazásához az L<sub>H,TR,i</sub>együtthatókat a 2015/996 bizottsági irányelv melléklete G. függelékének G–3. táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 13. mellékletének 5. pontja szerint kell meghatározni.
+
+6\. A 2015/996 bizottsági irányelv mellékletének 2.3.2. pontjában szereplő 2.3.9. összefüggés alkalmazásához az L<sub>H,VEH,i</sub>együtthatókat a 2015/996 bizottsági irányelv melléklete G. függelékének G–3. táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 13. mellékletének 6. pontja szerint kell meghatározni.
+
+7\. A 2015/996 bizottsági irányelv mellékletének 2.3.2. pontjában a „Hajtóműzaj” címszó alatt szereplő, a hajtóműzajra vonatkozó L<sub>W,0,idling</sub> együtthatókat a 2015/996 bizottsági irányelv melléklete G. függelékének G–5. táblázata helyett a 93/2007. (XII. 18.) KvVM rendelet 13. mellékletének 8. pontja szerint kell meghatározni.
+
+## 4. számú melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^21]
+
+## 5. számú melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^22]
+
+## 6. számú melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^23]
+
+## 7. számú melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^24]
+
+---
+
+[^1]: Az 1. § a 31/2019. (VI. 26.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1/A. §-t a 31/2019. (VI. 26.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1/A. § (1) bekezdése a 13/2025. (VI. 2.) EM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1/A. § (2) bekezdése a 26/2022. (XI. 18.) TIM rendelet 6. §-a szerint módosított szöveg.
+[^5]: A 2/A. §-t a 31/2019. (VI. 26.) AM rendelet 2. §-a iktatta be.
+[^6]: A 2/A. § (1) bekezdése a 13/2025. (VI. 2.) EM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2/A. § (2) bekezdése a 21/2025. (VII. 31.) EM rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 7. § (3) bekezdését a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^13]: A 7. § (6) bekezdését a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^14]: A 10/A. §-t a 26/2022. (XI. 18.) TIM rendelet 2. §-a iktatta be.
+[^15]: A 11. § (1a) bekezdését a 31/2019. (VI. 26.) AM rendelet 3. § (1) bekezdése iktatta be, szövege a 26/2022. (XI. 18.) TIM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 11. § (2) bekezdését a 26/2022. (XI. 18.) TIM rendelet 7. §-a hatályon kívül helyezte.
+[^17]: A 12. §-t a 26/2022. (XI. 18.) TIM rendelet 4. §-a iktatta be.
+[^18]: Az 1. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, újonnan a 26/2022. (XI. 18.) TIM rendelet 5. §-a iktatta be.
+[^19]: A 2. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, megjelölését 2. mellékletre változtatva újonnan a 13/2025. (VI. 2.) EM rendelet 3. § (1) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, megjelölését 3. mellékletre változtatva újonnan a 13/2025. (VI. 2.) EM rendelet 3. § (2) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^21]: A 3. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^22]: Az 5. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^23]: A 6. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^24]: A 7. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.

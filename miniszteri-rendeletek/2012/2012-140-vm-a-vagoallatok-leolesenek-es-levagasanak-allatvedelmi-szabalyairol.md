@@ -1,0 +1,90 @@
+---
+title: "140/2012. (XII. 22.) VM rendelet a vágóállatok leölésének és levágásának állatvédelmi szabályairól"
+identifier: "140/2012. (XII. 22.) VM rendelet"
+njt_id: "2012-140-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2012/VM/140"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-12-22
+in_force_from: 2013-01-01
+last_amended: 2019-12-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-140-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 140/2012. (XII. 22.) VM rendelet a vágóállatok leölésének és levágásának állatvédelmi szabályairól
+
+Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 49. § (4) bekezdés *a)* pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § *c)* pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §[^1]
+
+Az 1099/2009/EK tanácsi rendelet 2. cikk *q)* pontja szerinti illetékes hatóság Magyarország tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal).
+
+## 2. §
+
+(1) Az egyes vallási előírások által megkövetelt különleges vágási módszereknek vágóhídon alávetett állatok esetén a levágás előtti kábításra vonatkozó előírásokat nem kell alkalmazni, amennyiben az eljárás azonnali teljes tudatvesztést és érzéketlenséget vagy halált okoz.
+
+(2) Az (1) bekezdés szerinti vágást hatósági állatorvos felügyelete mellett kell elvégezni azzal, hogy az adott vallási szokásoknak megfelelő vágás speciális szabályainak alkalmazását az a vallási szervezet is felügyelheti és ellenőrizheti, amelynek megbízásából a vágás történik.
+
+(3) Szarvasmarhák rituális vágása esetén a vágás előtt kötelező az állatok rögzítésének valamely mechanikus, az állatot az elkerülhető fájdalomtól, szenvedéstől, nyugtalanságtól, sérülésektől vagy zúzódásoktól megkímélő módját alkalmazni.
+
+(4)[^2] Az egyes vallási előírások által megkövetelt különleges vágási módszerek csak a járási hivatal engedélyének birtokában alkalmazhatók.
+
+(5) A 1099/2009/EK tanácsi rendelet 13. cikk (3)–(4) bekezdései szerinti hatóság a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH). A NÉBIH által kidolgozott útmutató előírásait kell figyelembe venni a 2. § (4) bekezdése szerinti engedély kiadásakor.
+
+## 3. §
+
+(1)[^3] Az 1099/2009/EK rendelet 18. cikk (1) bekezdése szerinti hatóság a járási hivatal.
+
+(2)[^4] A járási hivatal minden év február 28. napjáig jelentést küld a NÉBIH-nek az előző évben végzett kiirtásokról. A NÉBIH országos összesítést készít és azt március 31-ig megküldi az országos főállatorvosnak, valamint közzéteszi a honlapján. Az országos főállatorvos az összesített adatokról június 30-ig tájékoztatja az Európai Bizottságot.
+
+## 4. §
+
+(1) Az 1099/2009/EK rendelet 21. cikk (1) bekezdés *a)–c)* pontjai szerinti hatóság a NÉBIH.
+
+(2) Az 1099/2009/EK rendelet 21. cikke szerinti képzés iskolarendszeren kívüli hatósági jellegű képzés.
+
+(3)[^5] A képzést, a vizsgáztatást, és a képesítési bizonyítvány kiállítását a NÉBIH szervezi, végzi, illetve e feladatokat egy általa kijelölt élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalra (a továbbiakban: megyei kormányhivatal) átruházhatja. Ez utóbbi esetben a NÉBIH a megbízott megyei kormányhivatal adatait a honlapján közzéteszi.
+
+(4) Az eredményes vizsgát követően a NÉBIH képesítési bizonyítványt ad ki, és azokról nyilvántartást vezet.
+
+(5) Az oktatási anyagot, az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a NÉBIH hagyja jóvá.
+
+(6) A képesítési bizonyítvánnyal megszerzett képzettséggel egyenértékűként elismert képesítések listáját a NÉBIH a honlapján közzéteszi.
+
+(7)[^6] Amennyiben a megyei kormányhivatal a képesítési bizonyítvánnyal rendelkező személy tevékenysége során az állatvédelmi jogszabályokban leírtak súlyos vagy ismétlődő megszegését tapasztalja, a képesítési bizonyítványt visszavonhatja, a képesítési bizonyítvánnyal rendelkező személyt új képzés elvégzésére kötelezheti.
+
+(8) A képzés díja az azt lefolytató szerv bevétele.
+
+## 5. §
+
+Ez a rendelet 2013. január 1-jén lép hatályba.
+
+## 6. §[^7]
+
+## 7. §
+
+Ez a rendelet az állatok leölésük során való védelméről szóló, 2009. szeptember 24-i 1099/2009/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+## 8. §
+
+(1)[^8]
+
+(2)[^9]
+
+## 1. melléklet a 140/2012. (XII. 22.) VM rendelethez[^10]
+
+---
+
+[^1]: Az 1. § a 42/2017. (VIII. 17.) FM rendelet 188. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 188. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 188. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 188. § d) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 188. § e) pontja szerint módosított szöveg.
+[^6]: A 4. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 188. § f) pontja szerint módosított szöveg.
+[^7]: A 6. § a 8. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. § (1) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 8. § (2) bekezdése alapján hatályát vesztette.

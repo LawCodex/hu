@@ -1,0 +1,609 @@
+---
+title: "23/2017. (VIII. 7.) MvM rendelet az anyakönyvi szakvizsgáról"
+identifier: "23/2017. (VIII. 7.) MvM rendelet"
+njt_id: "2017-23-20-6N"
+eli: "https://njt.jog.gov.hu/eli/R/2017/MvM/23"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2017-08-07
+in_force_from: 2017-08-08
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-23-20-6N"
+retrieved: 2026-10-12
+---
+
+# 23/2017. (VIII. 7.) MvM rendelet az anyakönyvi szakvizsgáról
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény 95. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 17. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. Általános rendelkezések
+
+### 1. §[^1]
+
+Az anyakönyvezési feladatok ellátásához jogszabályban előírt anyakönyvi szakvizsgát a polgármester, közszolgálati tisztviselő, kormánytisztviselő (a továbbiakban együtt: jelölt) az e rendeletben foglalt szabályok szerint tehet.
+
+### 2. §
+
+(1) Anyakönyvi szakvizsgának (a továbbiakban: szakvizsga) minősül:
+
+a) az általános anyakönyvi szakvizsga,
+
+b)[^2] a konzuli anyakönyvi szakvizsga,
+
+c)[^3]
+
+(2) Szakvizsgát
+
+a)[^4] a fővárosi és vármegyei kormányhivatal (a továbbiakban: Kormányhivatal), valamint
+
+b)[^5] az (1) bekezdés b) pontjában meghatározott esetben a külpolitikáért felelős miniszter által vezetett minisztérium
+
+(a továbbiakban együtt: szervező) szervezhet.
+
+(3) A szakvizsga részei a felkészítő tanfolyam, valamint a gyakorlati és szóbeli vizsgarészből álló vizsga.
+
+(4)[^6] Szakvizsgán az a jelölt vehet részt, aki az 1. melléklet szerinti adattartalmú jelentkezési lapot – a felkészítő tanfolyam megkezdése előtt – a szervező által meghatározott határidőig megküldi a szervező részére.
+
+(5) Szakvizsgára az a jelölt bocsátható, aki mind a gyakorlati, mind az elméleti tanfolyami órák több mint 80%-án részt vett.
+
+(6) Gyakorlati és szóbeli vizsga céljából a vizsganapot úgy kell kijelölni, hogy a kijelölt vizsganapok legkorábban a felkészítő tanfolyam utolsó napjától számított harmadik napot követő munkanapra essenek.
+
+(7) A szakvizsga eredményes, ha a jelölt a gyakorlati és a szóbeli vizsgát is sikeresen teljesítette. Szóbeli vizsgát az a jelölt tehet, aki a gyakorlati vizsgát sikeresen teljesítette.
+
+(8) A jelölt a vizsga napjától számított harmadik nap elteltével, de legfeljebb kilencven napon belül a sikertelen vizsgát megismételheti. Ha a megismételt vizsga is sikertelen, a jelölt további vizsgára nem bocsátható. Ez a rendelkezés nem akadálya újabb szakvizsgára történő jelentkezésnek.
+
+(8a)[^7] Az ismétlő szóbeli vizsgát a sikertelen általános anyakönyvi szakvizsgát tett jelöltek számára az anyakönyvi ügyekért felelős miniszter által kijelölt Kormányhivatal szervezi meg.
+
+(9) A szakvizsga szabályzatát a 2. melléklet tartalmazza.
+
+### 3. §
+
+(1)[^8] A gyakorlati vizsgát 2 tagú, a szóbeli vizsgát 3 tagú közszolgálati tisztviselőkből vagy kormánytisztviselőkből álló bizottság előtt kell teljesíteni. A gyakorlati és szóbeli vizsgabizottság legalább egyik tagjának általános anyakönyvi szakvizsgával is rendelkeznie kell.
+
+(2) A szervező a gyakorlati és szóbeli vizsgabizottság tagjairól tájékoztatja az anyakönyvi ügyekért felelős minisztert. A szóbeli vizsgabizottság elnökét az anyakönyvi ügyekért felelős miniszter jelöli ki.
+
+(3) A szóbeli vizsgabizottság elnöke és a szóbeli vagy gyakorlati vizsgabizottság tagja nem lehet
+
+a) a jelölt Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója,
+
+b) a jelölt felett munkáltatói jogkört gyakorló vezető, valamint
+
+c) az, akitől a jelölt elfogulatlan vizsgáztatása nem várható el.
+
+(4) A (3) bekezdés a) és b) pontja szerinti összeférhetetlenséget és a (3) bekezdés c) pontja szerinti elfogultságot a szóbeli vizsgabizottság elnöke, a szóbeli vagy gyakorlati vizsgabizottság tagja, és a jelölt is bejelentheti.
+
+(5) Ha a szakvizsga szervező vezetője az összeférhetetlenséget vagy az elfogultságot megállapítja, a jelölt vizsgáztatására – attól függően, hogy az összeférhetetlenség mely vizsgabizottság tagjával szemben állt fenn – másik szóbeli vagy gyakorlati vizsgabizottságot jelöl ki.
+
+(6) A jelölt a szóbeli és a gyakorlati vizsgára külön részosztályzatot kap. A szóbeli vizsga részosztályzatát a tagokkal történt egyeztetés alapján a vizsgabizottság elnöke állapítja meg.
+
+(7) A szakvizsga eredménye az összesített osztályzat, amit a szóbeli és a gyakorlati vizsga részosztályzatának átlaga ad ki. Az összesített osztályzat megállapítása során a 2. mellékletben foglalt vizsgaszabályzatban meghatározott kerekítési szabályok szerint kell eljárni.
+
+(8) A sikeres szakvizsgákról az anyakönyvi ügyekért felelős miniszter (a továbbiakban: anyakönyvi szakvizsga nyilvántartó) a 3. mellékletben meghatározott adattartalommal anyakönyvi szakvizsga nyilvántartást vezet.
+
+(9) A szakvizsga szervező:
+
+a) összegyűjti és nyilvántartja a jelöltek jelentkezési lapjait,
+
+b) értesítést küld a felkészítő tanfolyam és a vizsga helyéről, valamint időpontjáról,
+
+c) gondoskodik a felkészítő tanfolyam és a vizsga lebonyolításához szükséges technikai feltételekről,
+
+d) biztosítja a felkészítő tanfolyam és a vizsga lebonyolításához, valamint a vizsgára való felkészüléshez szükséges kellékeket és segédleteket,
+
+e) összeállítja a vizsgabizottságot,
+
+f) a szóbeli vizsga eredményes letételéig őrzi az írásbeli vizsgadolgozatot, és biztosítja a jelölt részére az értékelést követő betekintést,
+
+g)[^9] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv vezetéséről, valamint a szakvizsga bizonyítványok kitöltéséről,
+
+h) értesíti az anyakönyvi szakvizsga nyilvántartót a sikeres szakvizsgát tett jelölt 3. mellékletben meghatározott adatairól, és megküldi elektronikus úton a szakvizsga bizonyítvány másolatát.
+
+(9a)[^10] A 2. § (2) bekezdés b) pontja szerinti szervező az általa kiállított szakvizsga bizonyítványok tekintetében gondoskodik azok érvényességének nyilvántartásáról.
+
+(10) A vizsgajegyzőkönyv nem selejtezhető közokirat, megőrzéséről az iratkezelési szabályoknak megfelelően a szervező gondoskodik.
+
+(11) A szakvizsga bizonyítvány elvesztése vagy megsemmisülése esetén az anyakönyvi szakvizsga nyilvántartó az érvényes szakvizsga meglétéről díjmentesen igazolást állít ki.
+
+(12) A szakvizsga bizonyítvány sorszáma tartalmazza:
+
+a) a szervező megnevezésének hivatalos rövidítését,
+
+b) azt a számot, hogy az adott évben a jelölt hányadikként tett eredményes vizsgát a szervezőnél és
+
+c) a bizonyítvány kiállításának évét.
+
+## 2. Általános anyakönyvi szakvizsga
+
+### 4. §
+
+(1)[^11] A felkészítő tanfolyam időtartama 180 óra, ezen belül 110 óra a gyakorlati foglalkozások, 70 óra az elméleti felkészítés időtartama.
+
+(2)[^12] A felsőoktatásban szerzett közszolgálati szakképzettséggel vagy jogi területen szerzett szakképzettséggel és legalább öt év közigazgatási gyakorlattal rendelkező jelölt írásbeli kérelmére az általános anyakönyvi szakvizsga szervező vezetője engedélyezheti, hogy a felkészítő tanfolyam időtartama 120 óra legyen. Ebben az esetben jelenléthez kötötten 24 óra gyakorlati foglalkozásra és 16 óra elméleti felkészítésre kerül sor. A további 80 óra gyakorlati foglalkozást a jelölt a munkahelyén végzi el, amelyet a munkáltatói jogkör gyakorlója igazol.
+
+(3) A (2) bekezdésben meghatározott esetben a szervező a jelölt számára egyéni tanrendet állít össze.
+
+(4) A gyakorlati és szóbeli vizsga témaköreit az 5. melléklet határozza meg.
+
+(5)[^13] Az eredményes szakvizsgát tett jelölt a 6. mellékletben meghatározott adattartalommal anyakönyvi szakvizsga bizonyítványt kap.
+
+### 5. §
+
+(1) Az általános anyakönyvi szakvizsga díját – a munkáltató és a jelölt eltérő megállapodása hiányában – a munkáltató viseli. A megismételt vizsga díja a jelöltet terheli.
+
+(2) A jelölt felkészítő tanfolyamon és a vizsgán való megjelenésével összefüggésben felmerült, számlával igazolt indokolt utazási és szállásköltséget a munkáltató megtéríti. Nem kell megtéríteni azt a költséget, amely a megismételt vizsgával kapcsolatban merült fel.
+
+(3) Az általános anyakönyvi szakvizsga díja a felkészítő tanfolyam díja és a vizsgadíj együttes összege.
+
+(4)[^14] Az általános anyakönyvi szakvizsga díja a felkészítő tanfolyam, valamint a vizsga szervezésével és lebonyolításával kapcsolatos költségek bruttó összegének a jelöltre jutó része, amely nem haladhatja meg a mindenkori közszolgálati tisztviselői illetményalap négyszeresét. A vizsgadíj jelöltenként a mindenkori közszolgálati tisztviselői illetményalap 20%-a.
+
+(5) Az ismétlő vizsga díját az általános anyakönyvi szakvizsga díján felül kell megfizetni, mértéke a vizsgadíjjal megegyezik.
+
+(6) Az általános anyakönyvi szakvizsga díját – legkésőbb a jelentkezéssel egyidejűleg – a Kormányhivatal részére kell megfizetni. Az ismétlő vizsga díját a jelölt legkésőbb a vizsga napját megelőző napig fizeti meg a Kormányhivatalnak.
+
+(7) A szóbeli vizsgabizottság elnökét jelöltenként a vizsgadíj, valamint az ismétlő vizsga díjának 30%-a, tagjait 15-15%-a, a gyakorlati vizsga bizottságának tagjait 15-15%-a, a jegyzőkönyvvezetőket 5-5%-a illeti meg.
+
+## 3.[^15] Konzuli anyakönyvi szakvizsga
+
+### 6. §
+
+(1) A felkészítő tanfolyam időtartama 40 óra, ezen belül 16 óra a gyakorlati foglalkozások, 24 óra az elméleti felkészítés időtartama. A jelölt a felkészítő tanfolyam alóli indokolt távollétet igazolni köteles.
+
+(2) A gyakorlati és szóbeli vizsga témaköreit a 7. melléklet tartalmazza.
+
+(3) Az eredményes szakvizsgát tett jelölt a 6. mellékletben meghatározott adattartalommal anyakönyvi szakvizsga bizonyítványt kap.
+
+(4) A konzuli anyakönyvi szakvizsga bizonyítvány határozott ideig, a tartós vagy ideiglenes külszolgálat időtartamának lejártáig érvényes.
+
+(5) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli ügyekért felelős szervezeti egységének kormánytisztviselője által az ideiglenes külföldi kiküldetés előtt teljesített konzuli anyakönyvi szakvizsgáról kiállított bizonyítvány érvényességi ideje 5 év.
+
+(6) A konzuli anyakönyvi szakvizsga bizonyítvány érvényességének megszűnésével egyidejűleg a szervező intézkedik a bizonyítvány bevonásáról és érvénytelenítéséről.
+
+## 4.[^16]
+
+## 5. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 9. §
+
+(1) Az anyakönyvi szakvizsgáról szóló 9/2007. (III. 6.) IRM rendelet szerint kiállított anyakönyvi szakvizsga bizonyítvány az e rendelet szerinti általános anyakönyvi szakvizsga bizonyítványnak felel meg.
+
+(2) Az e rendelet hatálybalépése előtt kiállított anyakönyvi szakvizsga bizonyítvány elvesztése vagy megsemmisülése esetén – kérelemre – a vizsganyilvántartó-könyv alapján a szervező díjmentesen bizonyítvány másodlatot állít ki.
+
+### 10. §[^17]
+
+E rendeletnek az anyakönyvi szakvizsgáról szóló 23/2017. (VIII. 7.) MvM rendelet módosításáról szóló 13/2022. (VIII. 31.) MvM rendelettel megállapított 5. és 7. mellékletét a 2022. október 1-jét követő időpontra megszervezett szóbeli vizsga esetén kell alkalmazni.
+
+## 1. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^18]
+
+**Az anyakönyvi szakvizsga tanfolyamra és vizsgára történő jelentkezés adattartalma**
+
+1\. Közigazgatási szerv neve és címe;
+
+2\. A jelölt adatai:
+
+2.1. neve;
+
+2.2. születési családi és utóneve;
+
+2.3. születési helye és ideje;
+
+2.4. anyja születési neve;
+
+2.5. lakcíme;
+
+2.6. munkaköre;
+
+2.7. besorolása;
+
+2.8. legmagasabb iskolai végzettsége;
+
+3\. Szakvizsga típusa;
+
+4\. Kérelem az adatok anyakönyvi szakvizsga nyilvántartásba történő felvételére vonatkozóan;
+
+5\. Keltezés;
+
+6\. Munkáltató aláírása;
+
+7\. Jelölt aláírása.
+
+## 2. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^19]
+
+**Szakvizsga vizsgaszabályzata**
+
+1\. Egy-egy tanfolyami csoportba legfeljebb 50 főt, a szakvizsgára vizsgabizottságonként legfeljebb 25 főt lehet beosztani.
+
+2\. A szóbeli vizsgabizottság munkáját az elnök vezeti, aki gondoskodik a szóbeli vizsga jogszerűségéről és zavartalan lebonyolításáról. A vizsgabizottság elnöke kizárja a vizsgából azt, aki a vizsga rendjét megzavarja, vagy szabálytalanságot, illetve visszaélést követ el. A vizsgából történt kizárást jegyzőkönyvezni kell. A gyakorlati vizsgán a tagok gondoskodnak a vizsga jogszerűségéről és zavartalan lebonyolításáról. A gyakorlati vizsgabizottság tagja kizárja a vizsgából azt, aki a vizsga rendjét megzavarja, vagy szabálytalanságot, illetve visszaélést követ el. A vizsgából történt kizárást jegyzőkönyvezni kell.
+
+3\. A vizsgabizottság mellett jegyzőkönyvvezető működik, aki vezeti a jegyzőkönyvet, és a vizsgával járó adminisztrációs feladatokat végzi.
+
+4\. A gyakorlati vizsgafeladatok megoldására
+
+a) általános anyakönyvi szakvizsga esetén legfeljebb 240 percet,
+
+b)[^20] konzuli anyakönyvi szakvizsga esetén legfeljebb 60 percet
+
+kell biztosítani, amelybe a feladatok ismertetésének ideje nem számít bele.
+
+A gyakorlati vizsgát a vizsgabizottság két tagja jelenlétében kell teljesíteni az elektronikus anyakönyvi nyilvántartás informatikai rendszerének (a továbbiakban: EAK) oktatórendszerében. A gyakorlati vizsgán elvégzett feladatokat az EAK oktatórendszerben a szóbeli vizsgán közölt döntésnek a jelölt részéről történő tudomásul vételéig meg kell őrizni, azt papírra ki kell nyomtatni és a jelölttel alá kell íratni. Az oktatórendszert az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság működteti.
+
+5.[^21] A szóbeli vizsgán a jelöltnek egy tételt kell húznia. Az általános anyakönyvi szakvizsgán egy tétel három témakörből áll, a konzuli anyakönyvi szakvizsgán két témakörből áll. A jelölt részére a felkészüléshez legalább húsz percet kell biztosítani. A bizottság a kihúzott tételhez közvetlenül nem kapcsolódó, de a szakvizsga témaköreihez kapcsolódó további kérdések feltevésével is tájékozódhat a jelölt felkészültségéről.
+
+| kiválóan megfelelt | 4,51–5,00 |
+|---|---|
+| jól megfelelt | 3,51–4,50 |
+| közepesen megfelelt | 2,51–3,50 |
+| megfelelt | 2,00–2,50 |
+
+7\. A jelölt azt a vizsgarészt ismételheti meg, amelyből elégtelen osztályzatot kapott.
+
+8\. A vizsgát meg kell ismételni, ha a jelölt a vizsgáját megszakította, vagy szabálytalanság miatt a gyakorlati vizsgabizottság vagy a szóbeli vizsgabizottság elnöke a vizsgán való részvételből kizárta.
+
+9\. A vizsga lebonyolításával kapcsolatos kifogásokat a jegyzőkönyvben kell rögzíteni. A kifogásról a gyakorlati vizsgán a tagok, a szóbeli vizsgán pedig a vizsgabizottság elnöke azonnal dönt. A döntést és a döntésnek a jelölt részéről történő tudomásulvételét a jegyzőkönyv tartalmazza.
+
+10\. A gyakorlati vizsga eredményének megállapítása elleni kifogást az eredmény közlésétől számított három napon belül a gyakorlati vizsgabizottság tagjainál, a szóbeli vizsga eredményének megállapítása elleni kifogást pedig a vizsgabizottság elnökénél lehet benyújtani, aki arról három munkanapon belül dönt, és erről a jelöltet írásban tájékoztatja.
+
+## 3. melléklet a 23/2017. (VIII. 7.) MvM rendelethez
+
+**Az anyakönyvi szakvizsga nyilvántartás adattartalma**
+
+1\. Sorszám
+
+2\. A vizsga teljesítésének dátuma
+
+3\. A jelölt
+
+a) neve, születési neve
+
+b) születési helye, ideje
+
+c) anyja neve
+
+d) munkáltatója
+
+4\. A szakvizsga eredménye
+
+5\. A vizsga típusa
+
+6.[^22]
+
+## 4. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^23]
+
+**A gyakorlati és a szóbeli szakvizsga jegyzőkönyvének adattartalma**
+
+1\. Iktatószám;
+
+2\. A gyakorlati vizsga helye és ideje;
+
+3\. A jelölt adatai:
+
+3.1. neve;
+
+3.2. születési családi és utóneve;
+
+3.3. születési helye, ideje;
+
+3.4. anyja születési neve;
+
+3.5. lakcíme;
+
+3.6. munkáltatójának neve és címe;
+
+4\. A jelölt bemutatott személyazonosító okmányának száma, típusa, érvényességi ideje, kiállító hatóság megnevezése;
+
+5\. A gyakorlati vizsga osztályzata;
+
+6\. Megjegyzések;
+
+7\. Keltezés;
+
+8\. Bélyegzőlenyomat helye;
+
+9\. A vizsgabizottság tagjainak aláírása;
+
+10\. A szóbeli vizsga helye és ideje;
+
+11\. A szóbeli vizsga osztályzata;
+
+12\. A vizsga átlageredménye;
+
+13\. A szakvizsga bizonyítvány sorszáma, a szakvizsga minősítése;
+
+14\. Megjegyzések;
+
+15\. Keltezés;
+
+16\. Bélyegzőlenyomat helye;
+
+17\. A vizsgabizottság elnökének és tagjainak aláírása.
+
+## 5. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^24]
+
+**Az általános anyakönyvi szakvizsga témakörei**
+
+*A)* A vizsga gyakorlati részében a jelölt
+
+*a)* a születés anyakönyvezésével, apai elismerő nyilatkozat felvételével, EAK-ban történő rögzítésével,
+
+*b)* a házasságkötés vagy bejegyzett élettársi kapcsolat anyakönyvezésével,
+
+*c)* a haláleset anyakönyvezésével,
+
+*d)* anyakönyvi adatváltozások anyakönyvezésével,
+
+e)[^25] anyakönyvi okirat kiállításával,
+
+*f)* okmány modulban végezhető egyéb műveletekkel,
+
+*g)* papíralapú anyakönyvi bejegyzések rögzítésével, illetve
+
+*h)* az anyakönyvezést követő adatszolgáltatással
+
+kapcsolatos, a vizsga szervezője által összeállított gyakorlati feladatokat old meg.
+
+*B)* A szóbeli vizsga témakörei
+
+1\. Az anyakönyvezés története, hatályon kívül helyezett jelentősebb anyakönyvi jogszabályok
+
+2\. Az anyakönyvi nyilvántartás jellege, személyi és tárgyi hatálya
+
+3\. Az anyakönyvi eljárásról szóló törvény értelmező rendelkezései
+
+4\. Az anyakönyvi bejegyzésre jogosultak feladatai, helyettesítése, kizárása, összeférhetetlenségi szabályok
+
+5\. Hatásköri szabályok
+
+6\. Illetékességi szabályok
+
+7\. Szakmai irányítás és felügyelet, az anyakönyvi szerv feladatai
+
+8\. Az anyakönyvvezető hivatali felszerelése
+
+9\. Az anyakönyvezés helye, ideje, anyakönyvezés hiányos adatokkal
+
+10\. Helységnevek, külföldi helységnevek anyakönyvezése
+
+11\. A családi állapot igazolásának és anyakönyvezésének szabályai
+
+12\. Az állampolgárság vizsgálata, igazolása és anyakönyvezése
+
+13\. Az anyakönyvbe bejegyzendő adatok igazolása
+
+14\. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága (hiteles fordítások, Apostille és diplomáciai felülhitelesítés)
+
+15\. Az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 rendeletének alkalmazása, a többnyelvű formanyomtatvány
+
+16\. A biztonsági okmány fogalma, személyazonosító okmányok, az Országos Idegenrendészeti Főigazgatóság által külföldiek és hontalanok részére kiállított okmányok
+
+17\. Az anyakönyvi eljárások köre, az általános közigazgatási rendtartás szabályainak alkalmazása az anyakönyvi igazgatásban
+
+18\. Jogképesség, cselekvőképesség, törvényes képviselet, gyámság, gondnokság
+
+19\. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, képzelt apa megállapítása)
+
+20\. Az apasági vélelem, az emberi reprodukcióra irányuló különleges eljárás
+
+21\. Apai elismerő nyilatkozat felvétele
+
+22\. Apaság, anyaság bírói megállapítása, az apaság vélelmének megdöntése
+
+23\. A béranyaság intézménye, családjogi vonatkozásai
+
+24\. Ismeretlen szülőktől származó gyermek anyakönyvezése, képzelt szülő megállapítása
+
+25\. Örökbefogadás (örökbefogadás tényének feljegyzése és a vér szerinti örökbefogadás), az örökbefogadás megszűnése, a származás megismeréséhez való jog
+
+26\. Házasságkötést megelőző eljárás, elhárítható és el nem hárítható házassági akadályok, a házasság érvénytelensége és nemlétezése
+
+27\. A házasságkötést követő hivatalbóli okmánykiállításra vonatkozó elméleti és gyakorlati ismeretek
+
+28\. Nem magyar állampolgár házasságkötése Magyarországon
+
+29\. Magyar állampolgár házasságkötése külföldön
+
+30\. A házasság megkötése és anyakönyvezése (hivatali helyiségen kívül és hivatali munkaidőn túl)
+
+31\. Házasságkötés közeli halállal fenyegető állapot esetén
+
+32\. A házasság megszűnésének esetei
+
+33\. A bejegyzett élettársi kapcsolat létesítését megelőző eljárás, elhárítható és el nem hárítható akadályok, a bejegyzett élettársi kapcsolat érvénytelensége és nemlétezése
+
+34\. Nem magyar állampolgár bejegyzett élettársi kapcsolatának létesítése Magyarországon
+
+35\. Magyar állampolgár bejegyzett élettársi kapcsolatának létesítése külföldön
+
+36\. A bejegyzett élettársi kapcsolat létesítése és anyakönyvezése
+
+37\. A bejegyzett élettársi kapcsolat létesítése közeli halállal fenyegető állapot esetén
+
+38\. A bejegyzett élettársi kapcsolat megszűnésének esetei
+
+39\. Haláleset bejelentése és anyakönyvezése
+
+40\. Ismeretlen és talált holttest anyakönyvezésére vonatkozó szabályok
+
+41\. Holtnak nyilvánítás, halál tényének bírói megállapítása
+
+42\. A halottvizsgálati bizonyítvány
+
+43\. Hazai anyakönyvezés (története, a kérelem átvétele, felterjesztése, csatolandó mellékletek, hatásköri szabályok)
+
+44.[^26] Születési név (anyakönyvezhető utónevek, születési név megváltoztatása, utónév módosítása, családi név korrekciója, a nem és az utónév megváltozása, eltérő névviselés)
+
+45.[^27] Házassági név (házassági névviselési forma módosítása, házassági név megváltoztatása, eltérő névviselés)
+
+46\. Nemzetiségi névviselés
+
+47\. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok
+
+48\. Anyakönyvi okiratok beszerzése külföldről
+
+49\. Az elektronikus és a papíralapú anyakönyv, bejegyzés az elektronikus anyakönyvbe, a korábbi papíralapú bejegyzések rögzítése, a papíralapú bejegyzések lezárása
+
+50\. Az anyakönyvbe bejegyzett adatok megváltozásának rögzítése
+
+51\. A külföldön történt változások rögzítése (külföldön történt örökbefogadás, házasságfelbontás stb.)
+
+52\. Az anyakönyvi nyilvántartások rendszere (EAK, apai elismerő nyilatkozatok nyilvántartása, az okirat-nyilvántartás, a jogosultsági nyilvántartás, a papíralapú anyakönyvek nyilvántartása)
+
+53\. Hozzáférési jogosultság, a közvetlen hozzáféréssel történő adatátvétel és a betekintés szabályai
+
+54\. Az anyakönyvi adattovábbítások módja és tartalma
+
+55\. Adattovábbítási nyilvántartás, adatigénylés alapján történő adattovábbítás
+
+56\. Értesítési kötelezettségek
+
+57\. Az anyakönyv kutathatósága
+
+58\. Népmozgalmi statisztikai adatszolgáltatás
+
+59\. Anyakönyvi iratok, alapiratok kezelése, anyakönyvi irattár, iratselejtezés, iratok kiadása az anyakönyvi irattárból
+
+60\. A papíralapú anyakönyv pótlása
+
+61\. Nem magyar állampolgár anyakönyvezésére vonatkozó speciális szabályok (nem magyar állampolgár Magyarországon történt anyakönyvi eseményének rögzítése: személynév, településnév anyakönyvezése)
+
+62\. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a menekültekre és hontalanokra vonatkozó rendelkezések, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a külföldön történt örökbefogadások magyarországi elismerésére vonatkozó szabályok, egyéb, magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
+
+63\. A magyar állampolgárság keletkezése, megszerzése
+
+64\. A magyar állampolgárság megszűnése
+
+65\. Az állampolgársági eljárásban részt vevő szervek és feladataik
+
+66\. Az anyakönyvvezető állampolgársági esküvel vagy fogadalommal kapcsolatos feladatai, az állampolgársági ügyekkel kapcsolatos adatszolgáltatások
+
+67\. Névmódosítási kérelem a honosítási eljárásban (családi név, utónév, házassági név, anyja születési neve)
+
+68\. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, az anyakönyvvezető feladatai a nyilvántartás vezetésével kapcsolatosan)
+
+69\. Személyes adatok védelme, közérdekű adatok nyilvánossága
+
+70\. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése, levelező és fórum használata)
+
+## 6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^28]
+
+**Az anyakönyvi szakvizsga bizonyítvány adattartalma**
+
+1\. A bizonyítvány sorszáma;
+
+2\. Magyarország címere;
+
+3\. A képzést teljesítő neve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
+
+4\. A kiállító megnevezése;
+
+5\. A bizonyítvány minősítése;
+
+6\. A szakvizsga típusa;
+
+7\. A bizonyítvány kiállításának helye, keltezése;
+
+8\. A kiállító bélyegzőlenyomata;
+
+9\. A vizsgabizottság elnökének és tagjainak aláírása.
+
+## 7. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^29]
+
+**A konzuli anyakönyvi szakvizsga témakörei**
+
+*A)* A vizsga gyakorlati részében a jelölt
+
+*a)* apai elismerő nyilatkozat felvételével, EAK-ban történő rögzítésével,
+
+*b)* az EAK-ban szereplő házassági bejegyzéshez házassági névviselési forma módosítására irányuló adatváltozás anyakönyvezésével,
+
+c)[^30] anyakönyvi okirat kiállításával,
+
+*d)* anyakönyvi kivonatokkal végezhető egyéb műveletekkel,
+
+*e)* anyakönyvi kérelmek átvételével, rögzítésével, továbbításával, illetve adatváltozások anyakönyvezésével,
+
+*f)* magyar állampolgár külföldön történt születésének hazai anyakönyvezésével,
+
+*g)* magyar állampolgár külföldön történt házasságkötésének vagy külföldön létesített bejegyzett élettársi kapcsolatának hazai anyakönyvezésével,
+
+*h)* magyar állampolgár külföldön történt halálesetének hazai anyakönyvezésével
+
+kapcsolatos, a vizsga szervezője által összeállított gyakorlati feladatokat old meg.
+
+*B)* A szóbeli vizsga témakörei
+
+1\. Az anyakönyvi nyilvántartás jellege, személyi és tárgyi hatálya, az anyakönyvi eljárásról szóló törvény értelmező rendelkezései
+
+2\. Az anyakönyvi eljárások köre, hatásköri és illetékességi szabályok, az anyakönyvi szerv feladatai, szakmai irányítás és felügyelet
+
+3\. A házasságkötést és bejegyzett élettársi kapcsolat létesítését megelőző eljárás, a házassági és bejegyzett élettársi kapcsolat akadályai, az anyakönyvbe bejegyzendő adatok igazolása, okirat és személyes nyilatkozat az anyakönyvi eljárásokban, a családi állapot igazolásának szabályai, az állampolgárság vizsgálata, igazolása és anyakönyvezése, személyazonosító okmányok
+
+4\. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok, a biztonsági okmány fogalma, az anyakönyvi kivonat kezelésére és felhasználására vonatkozó szabályok, a többnyelvű formanyomtatvány kiállítására vonatkozó szabályok
+
+5\. Az általános közigazgatási rendtartás szabályainak alkalmazása az anyakönyvi igazgatásban: hatósági nyilvántartások, bizonyítványok szabályai. Az anyakönyvi nyilvántartások rendszere (az EAK, az apai elismerő nyilatkozatok nyilvántartása, az okirat-nyilvántartás)
+
+6\. Az apasági vélelem, az emberi reprodukcióra irányuló különleges eljárás, az apai elismerő nyilatkozat felvétele, az apaság, anyaság bírói megállapítása, az apaság vélelmének megdöntése, a béranyaság intézménye, családjogi vonatkozásai
+
+7\. Névviselés, névváltoztatás (születési és házassági név, születési és házassági név megváltoztatása, házassági névviselési forma módosítása, anyakönyvezhető utónevek, utónév-módosítás, eltérő névviselés)
+
+8\. Az anyakönyvbe bejegyzett adatok megváltozásának rögzítése, a házassági névviselési forma módosítására vonatkozó kérelem felvétele, az adatváltozás rögzítése az EAK-ban és a személyiadat- és lakcímnyilvántartásban
+
+9\. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése)
+
+10.[^31] A hazai anyakönyvezés története, a hazai anyakönyvezés és a honosítást követő hazai anyakönyvezés elhatárolása, a hazai anyakönyvezési kérelmek átvétele
+
+11\. Helységnevek, külföldi helységnevek anyakönyvezése, az anyakönyvezés helye, ideje, nyelve
+
+12\. Születés hazai anyakönyvezése, születés hazai anyakönyvezése apa adatai nélkül, a külföldön történt örökbefogadás magyarországi elismerése és hazai anyakönyvezése, állampolgárság anyakönyvezése
+
+13.[^32] A házasság hazai anyakönyvezése, a házasság megszűnésének esetei, a külföldi bontóítéletek magyarországi elismerhetősége, a külföldön létesített bejegyzett élettársi kapcsolat hazai anyakönyvezése
+
+14\. Külföldön történt haláleset hazai anyakönyvezése, a személyazonosító igazolvány nyilvántartást és a személyiadat- és lakcímnyilvántartást kezelő szerv értesítése haláleset hazai anyakönyvezése esetén
+
+15\. Népmozgalmi statisztikai adatszolgáltatás, anyakönyvi iratok, alapiratok kezelése, az alapiratokba történő betekintés, anyakönyvi irattár, iratselejtezés, iratok kiadása az anyakönyvi irattárból
+
+16\. A nemzetközi magánjogi szabályok alkalmazása a hazai anyakönyvi eljárásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
+
+17\. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, a konzul feladatai a nyilvántartás vezetésével kapcsolatosan, a nyilvántartásba vételi eljáráshoz szükséges iratok továbbítása), személyes adatok védelme, közérdekű adatok nyilvánossága
+
+## 8. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^33]
+
+---
+
+[^1]: Az 1. § a 13/2022. (VIII. 31.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés b) pontja a 11/2024. (X. 31.) KTM rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontját a 11/2024. (X. 31.) KTM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (2) bekezdés a) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontja a 11/2024. (X. 31.) KTM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (8a) bekezdését a 13/2022. (VIII. 31.) MvM rendelet 1. §-a iktatta be, szövege a 11/2024. (X. 31.) KTM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja, a 11/2024. (X. 31.) KTM rendelet 5. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
+[^10]: A 3. § (9a) bekezdését a 4/2023. (VIII. 7.) MvM rendelet 1. §-a iktatta be.
+[^11]: A 4. § (1) bekezdése a 11/2024. (X. 31.) KTM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (2) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § g) pontja szerint módosított szöveg.
+[^13]: A 4. § (5) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 5. § (4) bekezdése a 11/2024. (X. 31.) KTM rendelet 5. § d) pontja szerint módosított szöveg.
+[^15]: A 3. alcím (6. §) a 11/2024. (X. 31.) KTM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 4. alcímet (7. §-t) a 11/2024. (X. 31.) KTM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^17]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 13/2022. (VIII. 31.) MvM rendelet 5. §-a iktatta be.
+[^18]: Az 1. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § a) pontjával megállapított szöveg.
+[^19]: A 2. melléklet a 13/2022. (VIII. 31.) MvM rendelet 7. § h) és i) pontja szerint módosított szöveg.
+[^20]: A 2. melléklet 4. pont b) alpontja a 11/2024. (X. 31.) KTM rendelet 5. § e) pontja szerint módosított szöveg.
+[^21]: A 2. melléklet 5. pontja a 11/2024. (X. 31.) KTM rendelet 4. § a) pontjával megállapított szöveg.
+[^22]: A 3. melléklet 6. pontját a 4/2023. (VIII. 7.) MvM rendelet 4. §-a hatályon kívül helyezte.
+[^23]: A 4. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § b) pontjával megállapított szöveg.
+[^24]: Az 5. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § c) pontjával megállapított szöveg.
+[^25]: Az 5. melléklet A) pont e) alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^26]: Az 5. melléklet B) pont 44. alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^27]: Az 5. melléklet B) pont 45. alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^28]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.
+[^29]: A 7. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § e) pontjával megállapított szöveg.
+[^30]: A 7. melléklet A) pont c) alpontja a 11/2024. (X. 31.) KTM rendelet 4. § c) pontjával megállapított szöveg.
+[^31]: A 7. melléklet B) pont 10. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § f) pontja szerint módosított szöveg.
+[^32]: A 7. melléklet B) pont 13. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § g) pontja szerint módosított szöveg.
+[^33]: A 8. mellékletet a 13/2022. (VIII. 31.) MvM rendelet 8. §-a hatályon kívül helyezte.

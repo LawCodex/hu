@@ -1,0 +1,103 @@
+---
+title: "5/2010. (III. 23.) KvVM rendelet a Tállyai Patócs-hegy természetvédelmi terület természetvédelmi kezelési tervéről"
+identifier: "5/2010. (III. 23.) KvVM rendelet"
+njt_id: "2010-5-20-0N"
+eli: "https://njt.jog.gov.hu/eli/R/2010/KVVM/5"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2010-03-23
+in_force_from: 2010-03-31
+last_amended: 2010-03-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-5-20-0N"
+retrieved: 2026-10-12
+---
+
+# 5/2010. (III. 23.) KvVM rendelet a Tállyai Patócs-hegy természetvédelmi terület természetvédelmi kezelési tervéről
+
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 13. pontjában kapott felhatalmazás alapján, a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § *b)* pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §
+
+A 2/1987. (VII. 10.) OKTH rendelkezéssel védetté nyilvánított, valamint a Tállyai Patócs-hegy természetvédelmi terület védettségének fenntartásáról szóló 76/2007. (X. 18.) KvVM rendelettel fenntartott védettségű Tállyai Patócs-hegy természetvédelmi terület természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.
+
+## 2. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 1. melléklet az 5/2010. (III. 23.) KvVM rendelethez
+
+**A Tállyai Patócs-hegy természetvédelmi terület természetvédelmi kezelési terve**
+
+1\. Természetvédelmi célkitűzések
+
+– A fokozottan védett magyar nőszirom (Iris aphylla subsp. hungarica) állományának megőrzése, a populációnak – továbbá más védett természeti értékeknek – otthont adó élőhely, valamint a terület élettelen természeti-, és táji értékeinek megóvása.
+
+– A természetes szerkezetű és összetételű (idegenhonos fajok jelenlététől mentes) növénytakaróval fedett terület megőrzése, illetve kialakítása.
+
+– A terület botanikai és zoológiai értékeinek teljes körű feltárása, majd természetvédelmi helyzetük folyamatos figyelemmel kísérése.
+
+2\. Természetvédelmi stratégiák
+
+– A terület legfőbb természeti értéke a magyar nőszirom, valamint további védett növény- és állatfajok védelme kizárólag élőhelyvédelmi beavatkozások útján. A magyar nősziromnak otthont adó sztyeppréten a cserjésedés kontrollja.
+
+– Idegenhonos fajok (akác, erdeifenyő, feketefenyő) eltávolítása a területről.
+
+– Tilos a gazdálkodás és minden olyan gazdasági célú területhasználati mód, amely a talaj és a védett természeti értékek veszélyeztetésével járhat.
+
+– A terület táji értékei védelmének biztosítása a tájkép-átalakítással járó tevékenységek teljes tiltásával.
+
+3\. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Fajok védelme
+
+– A magyar nőszirom virágzásának időszakában (április 15. – május 30.) a Természetvédelmi Őrszolgálat fokozott jelenléttel (hetente legalább 1 ellenőrzéssel) gondoskodik az állomány megóvásáról.
+
+– A gyepterületen a cserjésedést a magyar nőszirom élőhelyének biztosítása érdekében a lehető legkisebb beavatkozással meg kell akadályozni.
+
+– A védett növényfajok megóvása (taposási és rágási kár megelőzése) érdekében törekedni kell a terület nagyvad-mentesítése – különös tekintettel a vaddisznóra és az őzre.
+
+3.1.2. Látogatás
+
+– A terület korlátozottan, elsősorban kutatási célból látogatható. A terület oktatási és bemutatási célú hasznosítása csak különösen indokolt esetben lehetséges.
+
+– A terület idegenforgalmi, üdülési és rekreációs célokat nem szolgálhat, ilyen jellegű fejlesztés (pl. turistaút vagy kilátópont kiépítése) tilos.
+
+3.1.3. Kutatás, vizsgálatok
+
+– A területen történő kutatás engedélyezése iránti kérelemhez részletes kutatási tervet kell csatolni.
+
+3.1.4. Terület- és földhasználat
+
+– A területen új építmény elhelyezése tilos.
+
+– A terület gyep művelési ágban tartandó fenn.
+
+– A területen a vadetetés tilos.
+
+– Vadászat csak cserkeléssel és hajtással végezhető.
+
+3.1.5. Természetvédelmi infrastruktúra
+
+– Oktatást és bemutatást szolgáló infrastruktúra fejlesztése tilos.
+
+– A terület határán hatósági tájékoztató táblákat kell kihelyezni, és gondoskodni kell fenntartásukról.
+
+3.2. Művelési ághoz, illetve földhasználati módhoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Gyepek kezelése
+
+– A magyar nőszirom élőhelyén a gyep fenntartására törekedni kell. A fokozottan védett faj állományát veszélyeztető mértékű cserjésedés esetén kismértékű szelektív, a védett cserjefajokat megtartó cserjeritkítást kell végezni.
+
+– A gyep 3–4 évente kézi módszerrel lekaszálható.
+
+– A gyep legeltetése tilos.
+
+– A gyep jogszerűtlen égetését meg kell akadályozni.
+
+– A gyepben megjelenő idegenhonos fafajok (akác, erdeifenyő, feketefenyő) szórványosan előforduló egyedeit el kell távolítani a területről.
+
+– A fahasználati jellegű kezelési feladatokat (fakivágás, a faanyag mozgatása és felkészítése) csak vegetációs időszakon kívül, téli időszakban (december 1.–február 28.), fagyott vagy havas talajviszonyok mellett szabad elvégezni.

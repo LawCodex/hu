@@ -1,0 +1,313 @@
+---
+title: "91/2012. (VIII. 29.) VM rendelet a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű (de minimis) támogatásról"
+identifier: "91/2012. (VIII. 29.) VM rendelet"
+njt_id: "2012-91-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2012/VM/91"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-08-29
+in_force_from: 2013-01-01
+last_amended: 2026-04-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-91-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 91/2012. (VIII. 29.) VM rendelet a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű (de minimis) támogatásról
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdésében kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) és b) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
+
+## Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+a)[^1] *mezőgazdasági csekély összegű támogatás:* Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti támogatás;
+
+b)[^2] *mezőgazdasági termelő:* az a Magyarországon bejelentett lakóhellyel vagy székhellyel, telephellyel rendelkező, a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: eljárási törvény) meghatározottak szerint kérelemre nyilvántartásba vett természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely Magyarország területén termőföldet külön jogszabályban meghatározottak szerinti érvényes jogcím alapján használ;
+
+c)[^3]
+
+d)[^4] *támogatási kérelem:* a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: jövedéki törvény) 82. § (3) bekezdés a) pontja szerinti éves, *b)* pontja szerinti negyedik negyedévre vonatkozó, valamint *c)* pontja szerinti tizenkettedik hónapra vonatkozó adóbevallási nyomtatvány részeként benyújtott mezőgazdasági csekély összegű támogatás iránti kérelem;
+
+e) *tárgyév:* a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről a mezőgazdasági termelő saját nevére szóló számlákkal alátámasztott gázolaj-felhasználás – a támogatási kérelem benyújtásának évét megelőző – éve;
+
+f)[^5] *egy és ugyanazon vállalkozás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontjában meghatározott vállalkozások.
+
+## A támogatás célja, jellege
+
+### 2. §
+
+(1) E rendelet alapján vissza nem térítendő támogatás igényelhető a szőlő- és gyümölcsös ültetvények művelése során felhasznált gázolajhoz.
+
+(2)[^6] Az e rendelet alapján nyújtott támogatás mezőgazdasági csekély összegű támogatásnak minősül.
+
+## A támogatás igénybevételének feltételei
+
+### 3. §
+
+A szőlő- és gyümölcsös ültetvények művelése során történő gázolaj-felhasználáshoz támogatást vehet igénybe az a mezőgazdasági termelő, aki:
+
+a) legalább 0,5 hektár területű ültetvényen a földhasználati nyilvántartás részletes szabályairól szóló jogszabály szerinti földhasználati nyilvántartásba földhasználóként bejegyzett ügyfélként szőlő-, illetve gyümölcstermesztést folytat, beleértve azt a legalább 0,5 hektár területű ültetvényen szőlő-, illetve gyümölcstermesztést folytató ügyfelet is, akinek földhasználati joga önhibáján kívüli okból nem került a földhasználati nyilvántartásba bejegyzésre és a földhasználati jogosultságát igazoló egyéb okirattal rendelkezik;
+
+b)[^7] a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló számlával rendelkezik, és akinek a jövedéki törvény 117. §-a szerint keletkezett, a tárgyév egészére vonatkozóan benyújtott teljes adó-visszatérítési igényét a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) jóváhagyta;
+
+c) a támogatási kérelem vámhatóság részére történő benyújtásának időpontjában
+
+ca) nem rendelkezik az állami adó- és vámhatóság, vagy a – székhelye, lakóhelye, vagy a helyi adókról szóló 1990. évi C. törvény szerinti telephelye szerinti – önkormányzati adóhatóság által nyilvántartott lejárt köztartozással, kivéve, ha az állami adó- és vámhatóság vagy az önkormányzati adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett,
+
+cb) nem áll felszámolási, végelszámolási, adósságrendezési eljárás alatt, vagy természetes személy esetén vele szemben gazdálkodási tevékenységével összefüggő végrehajtási eljárás nincs folyamatban,
+
+cc)[^8]
+
+## A támogatás összege és forrása
+
+### 4. §
+
+(1)[^9] A támogatás összege a szőlő- és a gyümölcsös ültetvényterületen a tárgyévben ténylegesen felhasznált, a (2) bekezdés szerinti gázolaj mennyisége után literenként egyszázöt forint.
+
+(2)[^10] A támogatás összegének megállapításánál kizárólag a jövedéki törvény 117. § (1) bekezdésében meghatározott kilencvenhét liter/hektár/év mennyiségen felüli, számlával igazolt gázolaj mennyisége, de hektáronként évente legfeljebb száz liter vehető figyelembe.
+
+(3)[^11] A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Kiemelt ágazati támogatások” jogcímén elkülönített keretösszeg.
+
+(4) A támogatási összeg euróra történő átszámításakor a támogatási kérelem vámhatósághoz történő benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott EUR/HUF deviza középárfolyamot kell alkalmazni.
+
+## A támogatás igénylése és kifizetése
+
+### 5. §
+
+(1)[^12] A támogatási kérelem kizárólag a tárgyévet követő évben évente egyszer,
+
+a) a jövedéki törvény 82. § (3) bekezdés a) pontja szerinti éves adóbevallási nyomtatvány részeként,
+
+b) a jövedéki törvény 82. § (3) bekezdés b) pontja szerinti negyedik negyedéves adóbevallási nyomtatvány részeként vagy
+
+c) a jövedéki törvény 82. § (3) bekezdés c) pontja szerinti tizenkettedik havi adóbevallási nyomtatvány részeként
+
+nyújtható be.
+
+(2)[^13] A támogatásra való jogosultság vizsgálatának nem képezi részét a támogatási kérelem – jövedéki törvény 82. § (3) bekezdés a)–c) pontja szerinti – benyújtásának időpontja.
+
+(3) A mezőgazdasági termelőnek az 1. melléklet szerinti adattartalmú támogatási kérelmén nyilatkoznia kell arról, hogy
+
+a) nem rendelkezik az állami adó- és vámhatóság, vagy a – székhelye, lakóhelye, vagy a helyi adókról szóló 1990. évi C. törvény szerinti telephelye szerinti – önkormányzati adóhatóság által nyilvántartott lejárt köztartozással kivéve, ha az állami adó- és vámhatóság vagy az önkormányzati adóhatóság a számára fizetési halasztást vagy részletfizetést engedélyezett,
+
+b) nem áll felszámolási, végelszámolási, adósságrendezési eljárás alatt, vagy természetes személy esetén vele szemben gazdasági tevékenységével összefüggő végrehajtási eljárás nincs folyamatban,
+
+c)[^14]
+
+d) a tárgyévben felhasznált gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló eredeti számlák a rendelkezésére állnak,
+
+e)[^15] hozzájárul, hogy a támogatási kérelemhez kapcsolódó eljárás során a vámhatóság a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló NGM rendelet (a továbbiakban: jövedéki vhr.) alapján a támogatási kérelme adatait és a részére folyósított adó-visszatérítéssel kapcsolatos adatokat további felhasználás és az eljáráshoz kapcsolódó ellenőrzés céljából átadja a Magyar Államkincstár (a továbbiakban: Kincstár) részére,
+
+f)[^16] tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatos lejárt tartozását nem egyenlíti ki, úgy az eljárási törvény 38. § (9) bekezdése alapján a fizetési számláját vezető pénzforgalmi szolgáltató a Kincstár hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni,
+
+g)[^17] mely egyéb vállalkozásokkal tekinthető egy és ugyanazon vállalkozásnak,
+
+h)[^18] bármely egymást követő három évben milyen összegű, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] hatálya alá tartozó általános csekély összegű támogatásban részesült.
+
+(4)[^19] A mezőgazdasági termelő támogatásra akkor jogosult, ha megfelel a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+
+### 6. §
+
+(1)[^21] A Kincstár a vámhatóság által a támogatási összeg kiszámításához szükséges, a jövedéki vhr. 79. § (6) bekezdése alapján továbbított, az 1. melléklet szerinti adattartalmú támogatási kérelmek adatai és a vámhatóság 2. melléklet szerinti adatokra is kiterjedő – az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 54. § (1) bekezdés a) pontjával és a (3) bekezdésével összhangban nyújtott – adatszolgáltatása alapján ellenőrzi a mezőgazdasági termelő mezőgazdasági csekély összegű támogatásra való jogosultságát.
+
+(2)[^22] Az (1) bekezdésben foglaltak alapján, valamint a mezőgazdasági csekély összegű támogatásra vonatkozó uniós jogi aktusban foglalt keretek figyelembevételével a Kincstár a 3. melléklet szerint kiszámítja a jóváhagyható támogatás összegét és dönt a támogatási kérelemről.
+
+(3)[^23] A mezőgazdasági csekély összegű támogatási kérelem alapján indult eljárásban hiánypótlásra nincs lehetőség.
+
+(4)[^24] A Kincstár köteles döntésében tájékoztatni a támogatásra jogosultat a támogatás összegéről és annak mezőgazdasági csekély összegű támogatás jellegéről. A döntésben utalnia kell az 1408/2013/EU bizottsági rendelet pontos címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határozni a támogatás összegét forintban és euróban is kifejezve.
+
+(5)[^25] A Kincstár a (2) bekezdés szerinti döntés meghozatalát követően – az eljárási törvény 60. §-ának (2) bekezdésében foglaltakra is figyelemmel – legkésőbb a forrás rendelkezésre állásától számított negyvenöt napon belül intézkedik a támogatás kifizetéséről.
+
+(6)[^26] Ha az e rendelet keretében megállapított jogos támogatás a 37/2011. (III. 22.) Korm. rendelet 11. § (8) bekezdésében foglaltak szerint meghaladja a mezőgazdasági termelő részére rendelkezésre álló szabad csekély összegű támogatási keretet, akkor az azt meghaladó részt a Kincstár elutasítja.
+
+### 6/A. §[^27]
+
+(1)[^28] A mezőgazdasági termelő és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, bármely három egymást követő év során Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdését.
+
+(2)[^29] Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem részesülhet mezőgazdasági csekély összegű támogatásban az a mezőgazdasági termelő, amely az igényelt mezőgazdasági csekély összegű támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+
+(3)[^30] A mezőgazdasági csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4)[^31] A mezőgazdasági csekély összegű támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(5) A támogatáshoz kapcsolódó iratokat az odaítélést követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni.
+
+## A támogatás nyilvántartása és ellenőrzése
+
+### 7. §
+
+(1)[^32] E rendelet vonatkozásában az 1408/2013/EU bizottsági rendelet 6. cikk 4. pontja szerinti ellenőrzést a Kincstár végzi.
+
+(2)[^33] A Kincstár jogosult ellenőrizni az e rendelet szerinti támogatás feltételeinek való megfelelést.
+
+(3)[^34] Amennyiben a vámhatóság utólagos ellenőrzés keretében megállapítja a 3. § b) pontja szerinti jövedékiadó-visszatérítési igény jogosulatlanságát, úgy az e rendelet szerinti támogatás igénybevétele is jogosulatlannak minősül. A vámhatóság a jövedékiadó-visszatérítési igény jogosulatlanságát megállapító jogerős döntéséről tájékoztatja a Kincstárt is.
+
+(4)[^35] Amennyiben a mezőgazdasági termelő az Art. szerinti önellenőrzés alapján – a földhasználatra vonatkozó adat módosításából adódóan – kevesebb jövedékiadó-visszatérítésre jogosult, mint amelyet a vámhatóság a 3. § b) pont szerint teljesített, vagy jövedékiadó-visszatérítésre egyáltalán nem jogosult, úgy az e rendelet szerinti támogatás igénybevételének egy része vagy egésze jogosulatlannak minősül. A vámhatóság az előzőek szerinti önellenőrzés keretében módosított adatokról is tájékoztatja a Kincstárt.
+
+(5)[^36] Amennyiben a mezőgazdasági termelő az Art. szerinti önellenőrzés alapján – a földhasználatra vonatkozó adat módosításából adódóan – magasabb összegű jövedékiadó-visszatérítésre jogosult, mint amelyet a vámhatóság a 3. § b) pont szerint teljesített, úgy az az e rendelet szerinti támogatási kérelem módosításának minősül. A vámhatóság az előzőek szerinti önellenőrzés keretében módosított adatokról is tájékoztatást küld a Kincstár részére.
+
+(6)[^37] A Kincstár az intézkedésben való jogosulatlan részvétel megállapítása esetén az intézkedésben való jogosulatlan részvételt megállapító jogerős döntéséről tájékoztatja a vámhatóságot is.
+
+## Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet 2013. január 1-jén lép hatályba.
+
+### 8/A. §[^38]
+
+E rendeletnek az egyes mezőgazdasági csekély összegű támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 14/2019. (IV. 10.) AM rendelettel megállapított 6/A. § (1) bekezdését a 2019. március 14-től nyújtott támogatásokra kell alkalmazni.
+
+### 9. §[^39]
+
+Ez a rendelet az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+### 10. §[^40]
+
+(1) E rendeletnek a jövedéki adóval és az állattenyésztési támogatásokkal összefüggő egyes miniszteri rendeletek módosításáról szóló 33/2017. (VI. 9.) FM rendelettel [a továbbiakban: 33/2017. (VI. 9.) FM rendelet] megállapított 1. § d) pontját, 3. § b) pontját, 4. § (2) bekezdését, 5. § (1) bekezdését, 5. § (3) bekezdés e) pontját, 6. § (1) bekezdését, valamint 2. és 3. mellékletét a 33/2017. (VI. 9.) FM rendelet hatálybalépésekor[^41] folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) E rendeletnek a 33/2017. (VI. 9.) FM rendelettel hatályon kívül helyezett 11. §-át a 33/2017. (VI. 9.) FM rendelet hatálybalépésekor[^42] folyamatban lévő ügyekben sem kell alkalmazni.
+
+(3)[^43] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel megállapított 5. § (2) bekezdést először a 2017. január 1. és 2017. december 31. közötti időszakban ténylegesen felhasznált gázolaj kapcsán benyújtott támogatási kérelmek elbírálása során kell alkalmazni.
+
+### 11. §[^44]
+
+E rendeletnek a 4. § (1) bekezdése szerinti támogatási összeget a jövedéki törvény
+
+a) 82. § (3) bekezdés a) pontja szerinti éves és a *b)* pontja szerinti negyedik negyedéves bevallás részeként benyújtott támogatási kérelmek tekintetében a 2016. tárgyévtől kezdődően,
+
+b) 82. § (3) bekezdés c) pontja szerinti tizenkettedik havi bevallás részeként benyújtott támogatási kérelmek tekintetében a 2017. tárgyévtől kezdődően
+
+kell alkalmazni.
+
+### 12. §[^45]
+
+E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 7/2025. (IV. 10.)AM rendelettel [a továbbiakban: 7/2025. (IV. 10.) AM rendelet] megállapított 5. § (3) bekezdés h) pontját, 6/A. § (1)–(4) bekezdését, 7. § (1) bekezdését és 3. számú mellékletét a vámhatóság által a 2025. évben és azt követően átadott támogatási kérelmek alapján indult eljárásokban kell alkalmazni.
+
+## 1. melléklet a 91/2012. (VIII. 29.) VM rendelethez
+
+**Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű támogatás igényléséhez[^46]**
+
+1.[^47] A mezőgazdasági termelő ügyfél-azonosítója.
+
+2\. A támogatás igényléséhez felhasznált számlák alapján:
+
+a) a számla száma;
+
+b) a számla kelte;
+
+c) a számlákkal alátámasztott gázolaj-felhasználás éve;
+
+d) a számlán feltüntetett gázolaj mennyisége literben;
+
+e) a támogatás alapját képző gázolaj mennyisége literben.
+
+3\. A kérelmező 5. § (3) bekezdés szerinti nyilatkozatai;
+
+4\. Keltezés és a kérelmező aláírása.
+
+## 2. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^48]
+
+**A vámhatóság adó-visszatérítéssel kapcsolatos adatszolgáltatásának adattartalma**
+
+1\. A mezőgazdasági termelő neve, lakhely/székhely címe, adószáma/adóazonosító jele.
+
+2\. A támogatási kérelem benyújtásának időpontja.
+
+3\. Jövedékiadó-visszatérítésre való jogosultságról szóló döntések eredménye és a jövedékiadó-visszatérítésről szóló döntések meghozatalának időpontja.
+
+4\. A mezőgazdasági termelő által az adóbevallási nyomtatványon bejelentett, termőföldterületre vonatkozó adatok:
+
+a) a tárgyévben megművelt szőlőterület elhelyezkedése, nagysága (település, helyrajzi szám, területméret hektárban, kéttizedes pontossággal megadva);
+
+b) a tárgyévben megművelt gyümölcsterület elhelyezkedése, nagysága (település, helyrajzi szám, területméret hektárban, kéttizedes pontossággal megadva).
+
+5.[^49] Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a negyedik negyedéves és a tizenkettedik havi adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező számlaadatok (a jövedéki törvény 117. §-a szerinti, a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszaigénylés alapján történő jövedéki adó visszaigényléséhez a szőlő- és gyümölcsös ágazatban felhasznált számlák alapján a Nemzeti Adó- és Vámhivatal vámszerve által igazolt):
+
+a) a számla száma;
+
+b) a számla kelte;
+
+c) a számlákkal alátámasztott gázolaj-felhasználás éve;
+
+d) a számlán feltüntetett gázolaj mennyisége literben;
+
+e) a visszatérítés alapját képző gázolaj mennyisége literben.
+
+6.[^50] Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a negyedik negyedéves és a tizenkettedik havi adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező gázolaj 1 hektárra jutó mennyisége (liter/hektár).
+
+## 3. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^51]
+
+**A támogatás kiszámításának módja**
+
+T = t (ha) × Q (l/ha) × 105 (Ft/l)
+
+ahol
+
+T: a támogatás számított összege;
+
+t: az ültetvény területe hektárban (két tizedesjegy pontossággal);
+
+Q: a tárgyévben ténylegesen felhasznált üzemanyag mennyisége, csökkentve a jövedéki törvény 117. § (1) bekezdésében meghatározott 97 liter/hektár/év mennyiséggel, de legfeljebb 100 liter/hektár/év.
+
+A támogatás összege nem haladhatja meg a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő év során odaítélt 50 000 eurónak megfelelő forintösszeget, így a támogatási összeg kiszámításakor a korábban kapott mezőgazdasági csekély összegű támogatások összegét is figyelembe kell venni, és szükség szerint azokkal a támogatás összegét csökkenteni kell.
+
+## 4. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^52]
+
+---
+
+[^1]: Az 1. § a) pontja a 80/2016. (XII. 13.) FM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § b) pontja a 36/2014. (IV. 4.) VM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § c) pontját a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte.
+[^4]: Az 1. § d) pontja a 33/2017. (VI. 9.) FM rendelet 12. §-ával megállapított szöveg.
+[^5]: Az 1. § f) pontját a 80/2016. (XII. 13.) FM rendelet 5. § (3) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § b) pontja a 36/2014. (IV. 4.) VM rendelet 64. §-ával megállapított, a 80/2016. (XII. 13.) FM rendelet 11. § b) pontja, a 33/2017. (VI. 9.) FM rendelet 20. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § c) pont cc) alpontját a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte.
+[^9]: A 4. § (1) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § d) pontja, a 33/2017. (VI. 9.) FM rendelet 20. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése a 16/2026. (IV. 9.) AM rendelet 14. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 33/2017. (VI. 9.) FM rendelet 14. §-ával megállapított szöveg.
+[^13]: Az 5. § (2) bekezdését a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte, újonnan az 55/2017. (XI. 6.) FM rendelet 4. §-a iktatta be.
+[^14]: Az 5. § (3) bekezdés c) pontját az 54/2014. (IV. 29.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^15]: Az 5. § (3) bekezdés e) pontja a 80/2016. (XII. 13.) FM rendelet 6. § (2) bekezdésével megállapított szöveg. [Nem vezethető át a 33/2017. (VI. 9.) FM rendelet 19. § c) pontjában foglalt módosítás, mely szerint az 5. § (3) bekezdés e) pontjában a „jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló NGM rendelet (a továbbiakban: jövedéki vhr.) 79. §” szövegrész helyébe a „341/2007. (XII. 15.) Korm. rendelet” szöveg lép.] [Nem vezethető át a 33/2017. (VI. 9.) FM rendelet 20. § c) pontjában foglalt módosítás, mely szerint az 5. § (3) bekezdés e) pontjában a „341/2007. (XII. 15.) Korm. rendelet” szövegrész helyébe a „jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: jövedéki vhr.) 79. §” szöveg lép.]
+[^16]: Az 5. § (3) bekezdés f) pontja a 80/2016. (XII. 13.) FM rendelet 11. § f) pontja szerint módosított szöveg.
+[^17]: Az 5. § (3) bekezdés g) pontját a 80/2016. (XII. 13.) FM rendelet 6. § (3) bekezdése iktatta be.
+[^18]: Az 5. § (3) bekezdés h) pontját a 80/2016. (XII. 13.) FM rendelet 6. § (3) bekezdése iktatta be, szövege a 7/2025. (IV. 10.) AM rendelet 5. §-ával megállapított szöveg.
+[^19]: Az 5. § (4) bekezdését a 36/2014. (IV. 4.) VM rendelet 65. § (2) bekezdése iktatta be, szövege a 80/2016. (XII. 13.) FM rendelet 11. § g) pontja szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdése a 80/2016. (XII. 13.) FM rendelet 7. § (1) bekezdésével megállapított, a 33/2017. (VI. 9.) FM rendelet 20. § d) pontja szerint módosított szöveg.
+[^22]: A 6. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § a) és f) pontja szerint módosított szöveg.
+[^23]: A 6. § (3) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § a) pontja szerint módosított szöveg.
+[^24]: A 6. § (4) bekezdése a 36/2014. (IV. 4.) VM rendelet 70. § a) pontja, a 80/2016. (XII. 13.) FM rendelet 11. § a), h) és i) pontja szerint módosított szöveg.
+[^25]: A 6. § (5) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § h) pontja szerint módosított szöveg.
+[^26]: A 6. § (6) bekezdése a 80/2016. (XII. 13.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^27]: A 6/A. §-t a 80/2016. (XII. 13.) FM rendelet 8. §-a iktatta be.
+[^28]: A 6/A. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 6. §-ával megállapított szöveg.
+[^29]: A 6/A. § (2) bekezdése a 7/2025. (IV. 10.) AM rendelet 6. §-ával megállapított szöveg.
+[^30]: A 6/A. § (3) bekezdése a 7/2025. (IV. 10.) AM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 6/A. § (4) bekezdése a 7/2025. (IV. 10.) AM rendelet 6. §-ával megállapított szöveg.
+[^32]: A 7. § (1) bekezdése a 36/2014. (IV. 4.) VM rendelet 70. § c) pontja, a 80/2016. (XII. 13.) FM rendelet 11. § f) és j) pontja, a 7/2025. (IV. 10.) AM rendelet 9. §-a szerint módosított szöveg.
+[^33]: A 7. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § h) pontja szerint módosított szöveg.
+[^34]: A 7. § (3) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § k) pontja szerint módosított szöveg.
+[^35]: A 7. § (4) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § k) pontja szerint módosított szöveg.
+[^36]: A 7. § (5) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § f) pontja szerint módosított szöveg.
+[^37]: A 7. § (6) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § h) pontja szerint módosított szöveg.
+[^38]: A 8/A. §-t a 14/2019. (IV. 10.) AM rendelet 5. §-a iktatta be.
+[^39]: A 9. § a 36/2014. (IV. 4.) VM rendelet 67. §-ával megállapított, a 80/2016. (XII. 13.) FM rendelet 11. § l) pontja szerint módosított szöveg.
+[^40]: A 10. §-t a 80/2016. (XII. 13.) FM rendelet 12. §-a hatályon kívül helyezte, újonnan a 33/2017. (VI. 9.) FM rendelet 15. §-a iktatta be.
+[^41]: A hatálybalépés napja 2017. június 10.
+[^42]: A hatálybalépés napja 2017. június 10.
+[^43]: A 10. § (3) bekezdését az 55/2017. (XI. 6.) FM rendelet 6. §-a iktatta be.
+[^44]: A 11. §-t a 33/2017. (VI. 9.) FM rendelet 21. §-a hatályon kívül helyezte, újonnan e módosító törvény 16. §-a iktatta be.
+[^45]: A 12. §-t a 7/2025. (IV. 10.) AM rendelet 7. §-a iktatta be.
+[^46]: Az 1. melléklet címe a 80/2016. (XII. 13.) FM rendelet 11. § m) pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.
+[^48]: A 2. melléklet a 36/2014. (IV. 4.) VM rendelet 69. §-ával megállapított szöveg.
+[^49]: A 2. melléklet 5. pontja a 33/2016. (VI. 9.) FM rendelet 18. §-ával megállapított szöveg.
+[^50]: A 2. melléklet 6. pontja a 33/2016. (VI. 9.) FM rendelet 18. §-ával megállapított szöveg.
+[^51]: A 3. melléklet a 7/2025. (IV. 10.) AM rendelet 8. §-ával megállapított szöveg.
+[^52]: A 4. mellékletet az 55/2017. (XI. 6.) FM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 14/2019. (IV. 10.) AM rendelet 6. §-a.

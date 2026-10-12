@@ -1,0 +1,571 @@
+---
+title: "67/2011. (VII. 13.) VM rendelet az élelmiszerek ionizáló sugárzással való kezelésének szabályairól"
+identifier: "67/2011. (VII. 13.) VM rendelet"
+njt_id: "2011-67-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2011/VM/67"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2011-07-13
+in_force_from: 2011-07-28
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-67-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 67/2011. (VII. 13.) VM rendelet az élelmiszerek ionizáló sugárzással való kezelésének szabályairól
+
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §-a (2) bekezdésének 2., 3., 5., 26. és 42. pontjában, valamint a 11. § (2) bekezdésének c) pontja tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. § (1) bekezdése c) pontjának 9. alpontjában foglalt felhatalmazás alapján egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. §-ának c) és d) pontjában, valamint a 11. § (2) bekezdésének c) pontja tekintetében az *i)* pontban foglalt feladatkörömben eljárva, a következőket rendelem el:
+
+## 1. §
+
+(1) Ezt a rendeletet az ionizáló sugárzással kezelt élelmiszerek és élelmiszer-összetevők (a továbbiakban: élelmiszerek) kezelésére és forgalmazására kell alkalmazni.
+
+(2) Nem kell alkalmazni ezt a rendeletet:
+
+a) a mérő vagy a vizsgáló berendezések által keltett ionizáló sugárzásnak kitett élelmiszerekre, feltéve, hogy az elnyelt dózis – röntgensugarak esetében 10 MeV, neutronok esetében 14 MeV, egyéb esetekben 5 MeV maximális sugárzási energiaszinten – nem haladja meg a neutronokat alkalmazó készülék esetén a 0,01 Gy-t, egyéb esetekben a 0,5 Gy-t;
+
+b) olyan élelmiszerek ionizáló sugárzással való kezelésére, amelyeket steril diétát igénylő betegek számára készítenek orvosi felügyelet mellett.
+
+(3) Ionizáló sugárzással kezelt élelmiszer csak akkor hozható forgalomba, ha megfelel ezen rendelet előírásainak.
+
+## 2. §
+
+(1) Az ionizáló sugárzással kezelhető élelmiszerek listáját és a megengedett elnyelt ionizáló energia dózisait az 1. melléklet tartalmazza.
+
+(2) Az élelmiszerek csak akkor kezelhetők ionizáló sugárzással, ha azok kielégítik a 2. mellékletben előírt feltételeket. A kezelés során az élelmiszer érzékszervi tulajdonságai nem változhatnak meg.
+
+(3) Az élelmiszereket csak a 3. mellékletben felsorolt forrásokkal szabad ionizáló sugárzással kezelni.
+
+(4) Az ionizáló sugárzással kezelt élelmiszerek által teljes átlagos elnyelt dózist a 4. melléklet szerint kell számítani.
+
+(5)[^1] Az 1. mellékletben fel nem sorolt élelmiszerek ionizáló sugárzással való kezelését az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: Pest Vármegyei Kormányhivatal) engedélyezheti.
+
+(6) Az engedély kiadásáért, az élelmiszer-ellenőrzési igazgatási szolgáltatási díjakról szóló jogszabályban foglaltak szerinti, igazgatási szolgáltatási díjat kell fizetni. Az engedély kérelmet a kezelni kívánt élelmiszer első forgalomba hozatalát megelőzően kell benyújtani.
+
+(7) Az engedélyhez a kérelmet az élelmiszert kezeltetni kívánó élelmiszer-vállalkozás nyújthatja be a 2. mellékletben foglaltak teljesülése esetén. A kérelemnek tartalmaznia kell a kezelés indokait, a kezelés szükségességét és eredményességét alátámasztó vizsgálati eredményeket, az elnyelt ionizáló energia dózist és minden olyan adatot, amely segíti a kérelem elbírálását.
+
+(8)[^2] A Pest Vármegyei Kormányhivatal az élelmiszerek ionizáló sugárzással történő kezelésére vonatkozó engedélyt abban az esetben adja meg, ha
+
+a) az érintett élelmiszer kezeléséről az Európai Élelmiszer-biztonsági Hatóság (a továbbiakban: Hatóság) kedvező véleményt alkotott;
+
+b) a teljes átlagos elnyelt dózis nem lépi túl a Hatóság által ajánlott határértékeket;
+
+c) az ionizáló besugárzás és a forgalomba hozatal e rendelet rendelkezéseinek megfelelően történik.
+
+(9)[^3] Az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) a Pest Vármegyei Kormányhivatal által kiadott megindokolt engedélyt az Európai Bizottsághoz és az Európai Unió tagállamainak illetékes hatóságaihoz továbbítja.
+
+## 3. §
+
+(1) Az élelmiszerekre vonatkozó megengedett elnyelt ionizáló energia dózist – a megengedett érték túllépése nélkül – részdózisokban is lehet alkalmazni.
+
+(2) Az ionizáló sugárzással való kezelés nem alkalmazható semmiféle olyan kémiai kezeléssel kombinálva, amelyet az ionizáló sugárzással való kezeléssel azonos célból végeznek.
+
+## 4. §
+
+(1) Az ionizáló sugárzással kezelt élelmiszereken – az élelmiszerek jelöléséről szóló külön jogszabályban előírtakon túl – a (2)–(5) bekezdésekben foglaltakat is fel kell tüntetni.
+
+(2) A végső fogyasztónak, vagy a közétkeztetésben – ideértve a vendéglátást is – működő élelmiszer-vállalkozásnak szánt élelmiszer esetén
+
+a) az élelmiszerek jelöléséről szóló külön jogszabályban előírt feliratot a termék előrecsomagolásán, illetve ömlesztett termék esetén a termék nevéhez kapcsolódva az ár feltüntetésére szolgáló címkén vagy a termék tárolójához kapcsolva egyéb jól látható módon fel kell tüntetni,
+
+b) a kezelt élelmiszer-összetevőnek az élelmiszeren való felsorolásakor az összetevő neve mellett az *a)* pont szerinti kifejezést fel kell tüntetni a termék előrecsomagolásán, illetve az ömlesztett termék esetén a termék nevéhez kapcsolódva, az ár feltüntetésére szolgáló címkén vagy a termék tárolójához kapcsolva, egyéb jól látható módon,
+
+c) a *b)* pont szerinti jelölés abban az esetben is kötelező, ha az adott élelmiszer-összetevőt az élelmiszerek jelöléséről szóló külön jogszabályban előírtak alapján nem kell feltüntetni.
+
+(3) Amennyiben a közétkeztetésben – ideértve a vendéglátást is – a végső fogyasztónak ionizáló sugárzással kezelt élelmiszer, vagy olyan nem kezelt élelmiszerben lévő ionizáló sugárzással kezelt élelmiszer-összetevő kerül felszolgálásra, azt a végső fogyasztó tudomására kell hozni.
+
+(4) Nem a végső fogyasztónak, vagy a közétkeztetésben – ideértve a vendéglátást is – működő élelmiszer-vállalkozásnak szánt élelmiszer esetén fel kell tüntetni
+
+a) a (2) bekezdés a) pontja szerinti kifejezést mind az élelmiszer, mind a nem kezelt élelmiszerben lévő kezelt élelmiszer-összetevők esetén,
+
+b) az ionizáló sugárzással való kezelést végző létesítmény nevét, címét vagy a működési engedélyezés során kapott azonosító számát.
+
+(5) A kezelés tényét minden esetben fel kell tüntetni a kezelt élelmiszert kísérő vagy arra vonatkozó dokumentumokon.
+
+## 5. §
+
+(1) Élelmiszerek ionizáló sugárzással való kezelését csak engedéllyel rendelkező létesítményben szabad végezni.
+
+(2) Az (1) bekezdés szerinti engedély akkor adható meg, ha
+
+a) a létesítmény megfelel az 5. mellékletben foglaltaknak,
+
+b) megnevezik azt a személyt, aki felelős az 5. mellékletben meghatározott feltételek teljesítéséért,
+
+c) a megnevezett felelős személy rendelkezik szakirányú mesterfokozatú végzettséggel.
+
+(3)[^4] Az (1) bekezdés szerinti engedélyt a Pest Vármegyei Kormányhivatal adja ki. Az engedély kiadásáért, az élelmiszer-ellenőrzési igazgatási szolgáltatási díjakról szóló jogszabályban foglaltak szerinti, igazgatási szolgáltatási díjat kell fizetni. Az engedélyezett létesítményt a Pest Vármegyei Kormányhivatal egyúttal azonosító számmal látja el.
+
+(4)[^5] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal ellenőrzi az élelmiszereknek a létesítményben végzett ionizáló sugárzással történő kezelését.
+
+(5)[^6] A Pest Vármegyei Kormányhivatal összeállítja, és a tárgyévet követő év január 15-ig eljuttatja a minisztérium részére az élelmiszerek ionizáló sugárzással történő kezeléséről szóló éves ellenőrzési jelentést. Az ellenőrzési jelentésnek tartalmaznia kell:
+
+a) az ionizáló sugárzást végző létesítményben végzett vizsgálatok eredményeit, különösen a kezelt termékeket és mennyiségeit, valamint az alkalmazott dózisokat,
+
+b) a forgalomba hozott termékeken végzett vizsgálatok eredményeit. A vizsgálati módszereknek meg kell felelni a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló 882/2004/EK rendelet 11. cikkében meghatározottaknak.
+
+(6) Az (1) bekezdés szerinti engedéllyel rendelkező létesítmény engedélyezésével kapcsolatos dokumentumokat, valamint az (5) bekezdés szerinti éves ellenőrzések tapasztalatait a minisztérium juttatja el az Európai Bizottsághoz.
+
+## 6. §
+
+(1) Az élelmiszerek ionizáló sugárzással való kezelését végző létesítményeknek minden egyes ionizáló sugárforrás használatára vonatkozóan nyilvántartást kell vezetniük. Ebben minden kezelt élelmiszertétel esetén fel kell tüntetni:
+
+a) az ionizáló sugárzással kezelt élelmiszer megnevezését és mennyiségét,
+
+b) a tétel számát,
+
+c) az ionizáló sugárzással való kezelést megrendelő nevét,
+
+d) a kezelt élelmiszer átvevőjét,
+
+e) az ionizáló sugárzással való kezelés időpontját,
+
+f) a kezelt élelmiszer csomagolóanyagát,
+
+g) a 4. melléklet szerint elvégzett dozimetriás vizsgálatokkal kapott eredményeket, részletezve az elnyelt dózis alsó és felső határát és az ionizáló sugárzással való kezelés típusát,
+
+h) hivatkozást a kezdeti dózist érvényesítő ellenőrző (validálási) mérésekre.
+
+(2) Az (1) bekezdés szerinti nyilvántartásokat öt évig meg kell őrizni.
+
+## 7. §
+
+(1) Harmadik országból és a tagállamok közötti kereskedelemből származó ionizáló sugárzással kezelt élelmiszerekkel kapcsolatosan, mennyiségi korlátozás nélkül, be kell tartani az élelmiszer-előállítás és -forgalmazással kapcsolatos adatszolgáltatásról és nyomonkövethetőségről szóló külön jogszabályban foglaltakat.
+
+(2) Ionizáló sugárzással kezelt élelmiszert csak akkor lehet harmadik országból behozni, ha
+
+a) megfelel az adott élelmiszerre vonatkozó követelményeknek,
+
+b) olyan okmányok kísérik, amelyek feltüntetik az ionizáló sugárzással való kezelést végző létesítmény nevét és címét, és megadják a 6. § szerinti adatokat,
+
+c) olyan létesítményben kezelték, amely szerepel az Európai Unió által elismert létesítmények listáján, amely megtalálható az Európai Bizottság internetes honlapján.
+
+## 8. §
+
+Az ionizáló sugárzással kezelendő élelmiszerek csomagolására használt anyagoknak, műszaki-technológiai és élelmiszer-biztonsági szempontból, a felhasználási célnak megfelelőnek kell lenniük.
+
+## 11. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+(2)[^9]
+
+(3) Az e rendelettel megállapított jelölési előírásnak nem megfelelő csomagolóanyagot 2012. július 1-jéig lehet felhasználni és az addig előállított és csomagolt termékek minőség megőrzési idejük lejártáig forgalmazhatók.
+
+## 12. §
+
+Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 1999/2/EK irányelve (1999. február 22.) az ionizáló sugárzással kezelt élelmiszerekre és élelmiszer-összetevőkre vonatkozó tagállami jogszabályok közelítéséről,
+
+b) az Európai Parlament és a Tanács 1999/3/EK irányelve (1999. február 22.) az ionizáló sugárzással kezelt élelmiszerek és élelmiszer-összetevők közösségi listájának megállapításáról,
+
+c) a Tanács 2006/107/EK irányelve (2006. november 20.) az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerekre vonatkozó tagállami jogszabályok közelítéséről szóló 89/108/EGK irányelvnek, valamint az élelmiszerek címkézésére, kiszerelésére és reklámozására vonatkozó tagállami jogszabályok közelítéséről szóló 2000/13/EK európai parlamenti és tanácsi irányelvnek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról.
+
+## 1. melléklet a 67/2011. (VII. 13.) VM rendelethez
+
+**Ionizáló sugárzással való kezelésre engedélyezett élelmiszerek és a megengedett sugárdózisok**
+
+| Élelmiszer-kategória | Maximális teljes átlagos elnyelt dózis (kGy) |
+|---|---|
+| Szárított aromás növények, fűszerek és fűszerkeverékek | 10 |
+
+## 2. melléklet a 67/2011. (VII. 13.) VM rendelethez
+
+**Élelmiszerek ionizáló sugárzással való kezelésének feltételei**
+
+1\. Élelmiszereket csak akkor szabad ionizáló sugárzással kezelni, ha
+
+a) arra technológiai okokból szükség van,
+
+b) az nem jelent veszélyt az egészségre és azt a javasolt feltételek mellett végzik,
+
+c) azt a fogyasztók érdekében végzik, és
+
+d) azt nem a jó higiéniai és egészségügyi, gyártási, illetve mezőgazdasági gyakorlat helyettesítésére alkalmazzák.
+
+2\. Élelmiszerek ionizáló sugárzással való kezelését csak az alábbi célokra lehet alkalmazni:
+
+a) élelmiszerből származó megbetegedések előfordulásának csökkentése a kórokozó szervezetek elpusztításával,
+
+b) élelmiszerek romlásának csökkentése a romlási folyamatok késleltetésével vagy megállításával és azon organizmusok elpusztítása, amelyek ezt a folyamatot előidézték,
+
+c) kényszerérésből, csírázásból, kihajtásból eredő élelmiszer-veszteségek csökkentése,
+
+d) élelmiszerek mentesítése növényekre és növényi termékekre káros szervezetektől.
+
+## 3. melléklet a 67/2011. (VII. 13.) VM rendelethez
+
+**Az ionizáló sugárzás forrásai**
+
+Élelmiszereket csak az alábbi forrásokból származó ionizáló sugárzással szabad kezelni:
+
+*a)* <sup>60</sup>Co vagy <sup>137</sup>Cs radionuklidekből származó gamma-sugárzás,
+
+*b)* 5 MeV vagy annál kisebb névleges energiával (maximális kvantumenergiával) működtetett gépi forrásból gerjesztett röntgensugárzás,
+
+*c)* 10 MeV vagy annál kisebb névleges energiával (maximális kvantumenergiával) működtetett gépi forrásból gerjesztett elektronok.
+
+## 4. melléklet a 67/2011. (VII. 13.) VM rendelethez
+
+**Az ionizáló sugárzással kezelt élelmiszerek által elnyelt átlagos dózis számítása**
+
+1\. Dozimetria
+
+Teljes átlagos elnyelt dózis
+
+Feltételezhető a teljes átlagos 10 kGy vagy az annál kisebb dózissal kezelt élelmiszer ártalmatlanságának meghatározásakor, hogy a teljes sugárkémiai hatás ebben a meghatározott dózistartományban arányos a dózissal.
+
+|  | A teljes átlagdózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAdABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgcI/8QAKxAAAgECBQIFBAMAAAAAAAAAAQIDBAUABhESIQciExQVMWEIJUFRMjND/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOtbveUprpSWWkCTXSsR5Y4ye2KJNA8r6c7QWUAe7MwHA1IU1Ob7mlyqqKmyFmKu8vIyeLBVW3a4B0DANVhgD7jcoPPIB4xM5Gqpa/6jOo4qWP2ugtVJSqT/AJyRySsR8b25xBZYGU5MrtHZ1tbdQhmaram8mE9QRfU33GQr3iHwtd2/tK8frAbzseYDWXJrPcaOS3XQUqVYp5GVi0TcagqSu5W7WUMwU6aFgVYmInqvLJRdXul1fTTrHNLW1tDKgPMsMkAZgR+QDGp+DpgwD2ss3oXU2TOVPFrR3WhShupUcxPExMM5/a6MyMfx2E9oYizSONGZkjVSx1Ygaan5xlgwEXU2ZMzdR7RmOQbrdl2GoWjYr/fVTAIzjX3VEUgH2LOdP44MWmDAf//Z) | következő integrál képlettel határozható meg a termékek teljes volumenére: |
+|---|---|---|---|
+
+![](https://njt.jog.gov.hu/picture/85/855a2011_2Y__20000067A75C_000_1.jpg)
+
+ahol
+
+M = a kezelt minta összes tömege
+
+p = a helyi sűrűség az (x, y, z) pontban
+
+d = a helyi elnyelt dózis az (x, y, z) pontban
+
+dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
+
+A teljes átlagos elnyelt dózis közvetlenül meghatározható homogén termékekre, vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen elosztásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
+
+Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és a maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+
+|  | Egyes esetekben a minimális dózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAeACYDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGAQQHCP/EACsQAAIBAwMDBAEEAwAAAAAAAAECAwQFEQAGIRITMQciQVEIFBUyQmGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD1rd7ylNdKSy0gSa6ViPLHGT7YokwHlfHPSCygDyzMBwMkLq3c16p6yeCL073PVxxyMiTw1FuCSgHAdQ9UrYPkdQB55APGpHYFc90/If1Eklk6kt1utNNR88GKSKSZiv8AjqbU1ZO5R7GbeUF6uw3G+5qilgV7lNJHWL+5PEIDAzlGHbGBhQVxkEYOg71opZKijgnlpZqSSSNXeCYqXiJGSjFCy5Hg9JI44JHOtqe8IHNMIzKBlBISFJ+iR4z94OPo+NR9z9SLFRVVdSNDXGWk7ql2gIiZk6xjrGcAshXOPJHGmu2t22u/V9RQ0i1KT04JYyRFUfDdLdDfIDcHx5Gg5m3L1S3uilmgVopqed6aqgf+cEyHDIf+EEcEEEcEaNQGyJZKX8ifUG3RTq1LU0VurniU8Rzdsxkn6JVFJ+xjRoHtXZRYvU195U8I/RXWhShupQcxPExMM5+1wzIx+PYT7QxDm2bO2lbLxJebdtmz0lylLM9XDRxrMSxJb3gZ5JJP2dPNGgXT2Gxz93vWe3yd0kydVOh6ySWJPHOSSf8AZ1opLPaI5K1KOkowit1yRwhThjkjgZOTzj5OmGjQSGxdvPS7g3Hu+uiMVff54isbLhoaWFAkKH6Y+5yPgvj+ujVfo0H/2Q==) | és a maximális dózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAaACYDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EACoQAAIBAwIGAgEFAQAAAAAAAAECAwQFEQAGBxIhMUFREyIVFBZXkZTU/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APWst5STcX4KgCTVUMaVFaxP1p4mJCg47u/K3KPSknsAyn92X7+Mt2/6bZ/2ajuD1bUV03Fi6zyMtWm6KykX7fZY6eGNIiD4GO2lvD5GtO2eGV3oLvdZbtf46YXGmqLjNUrWRvTM8spjkdghUgNzqB6PQgaDt+te5SVcNI8tFAtTKn2EJblMg8gN2B9Z6eDjORIwcT9sypK5FfCiRl1eaDkWToCFVicEsGyBnr/Wmeyd6WPeMM01jkqJYoUid3kgaMASp8kffyYyj48B1zgnGga7fu1DfbPTXa2ymSmqF5kJUqwIOCrA9QwIIIPUEEaNc74ESyRX7iPaVnWWkpN0zyU4U5EfzKsjoPWHZungk9tGgeWSxptjfN+lECmz7mlSqJC5WKs5RHIjj1IAhB7cwYHqygu9ubR2rtyaSawbbtNrllULJJSUiRO6jsCVAJA9ad6NApn2xtyem/TTWG2SQgqQjUqYBXHKR06EYGPWBrFT27bm1KJ5rbZqK3p8aQiOhpFR5ApYpGqoBnq7kDwWY9MnTvRoJThltmTblpr5qwJ+UvFxnulwKYIWWVshAR3CKFXPnlJ86NVejQf/2Q==) | átlagértékének középarányosa lesz a teljes dózis |
+|---|---|---|---|---|---|
+
+helyes becslése,azaz ezekben az esetekben:
+
+|  | a teljes átlagdózis = | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAlAEsDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAUGBwQCAwj/xAAqEAABBAEEAgEEAwADAAAAAAABAgMEBREABhIhBxMiFTEyQRQkUVJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD6vv7uzrZiGIWz7y6bU2Fl+E9DShJyRwIefbVnoHoEdjvOQOugsJdlDW/NorGlcS4UBiathS1DAPMFlxxOOyOyD0esYJou+IDN35joKWxl2KK40U6UpqNYPxR7UPRkpWS0tJyAtWO/3qOpd17lbrqOnp50Seqy3BYVkOzskLfCozDb7iHDwUkukerjyyOWM5yc6DXNNY9V+S9zR40KZuf6FFj2dTOlxjFjvuGM7FcaawvK8uhwughKQgp/HKvy1wM+Wt1RnnK6zrqtE36sunStbKmA04UMONynW/a5xZCXwlQCyQrh8hzwkNw1B393Z1sxDELZ95dNqbCy/CehpQk5I4EPPtqz0D0COx3nIEZJ3bLY31FoDTWLjC4bzi3URfyWhxpAUk8vwwtX/mqzaV0K78v7oaura0hw6ykr347ke2fioiqWuTzcHBaU5+Cc8gR8e+tBolBYS7KGt+bRWNK4lwoDE1bClqGAeYLLjicdkdkHo9YwTI6xyHvney6Db7EL6Uuc/tiVcyJNjGcPuDC2kpwhCk8S4lwHP6znBxg+uZvrci34VZex672yn6CewqvcfZDTMycWi0s88uKR6/y+KV57QB0Q2fTWYbT35uOwvKI2TFUKy8s7KtjtR2nA+yuIqRhxS1LKSFJjkcQkEEg5x0NP0FK8hV9XY2EVFp4uf3gGWstyA1AWhrkrtvEl5Cs/FJOElP27znHibmaVQlHxHuPlAUVQzzqv65KCglH9v4/FSk9fokau+mgz6RIRIjIjSPCt06whh2OhtYqVJS06QXUAGX0lZSnkPscDOuaExXwo8uND8FWkdmY0pqU223UJS+hQAUlYEv5AgDOfvgZ1pWmgpidw2iZDchPinc4eaaLLbgeq+SUEglIP8zoZSnr/AKGom3bg3Fs3bW3g21sJ7QSESJKKhxxPEkpwVSyeiSR/mdSPkeVfV1nUSKS/eTJkzY8dmmEZlbctBcHvWtSk+wBDRUrKVJAKRnlkA3jQUiRczZEkSX/Ee43XxHXF9i3Koq9Kykrbz/L/ABJSnKfscD/Nc7s1Trzbzvhm9W42lhDa1fSSpKWVlbIB/l9BCiVJ/wCJORq/6aChsWLzBilnw7ftmG86/G4KqR6XHeXsWj+38VK5ryR2eSs/c6vmmmgaaaaBpppoKzc7Ho7Xcze45Dtw1YttJZC4tvJjp9aVcuBQ24ElJPZGMH951ZtNNA0000DTTTQf/9k=) |
+|---|---|---|
+
+|  | A | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAaAEUDASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAAAAUGBAcBAgMI/8QAMRAAAgEDAwIFAwALAAAAAAAAAQIDBAURAAYhEjEHEyJBURQVYQgWIyUzQkNXkZTU/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APrW73lKa6UllpAk10rEeWOMn0xRJgPK+OekFlAHdmYDgZIXVu5r1T1k8EXh3uerjjkZEnhqLcElAOA6h6pWwe46gDzyAeNSmxqqWv8A0jPEcVLH910FqpKVSf6ckckrEfjrbnUvZPMo9jNvKC9XYbjfc1RSwK9ymkjrF+5PEIDAzlGHljAwoK4yCMHQb1opZKijgnlpZqSSSNXeCYqXiJGSjFCy5HY9JI44JHOvXUjN4ibegu1Rbp/rYTTyPHJO8HTCpQsCesnAHUhGT7/jnXfZ2/8Ab27K56KzvVPNHE8sgkgKhVWQxEk9v4iSKMdzG5HGCQq9Sf62X7+2W7f9m2f9mvB6ie5bp3BXw1EyUlloGt8IVmVWqXUTTN8N0r5Cg/ynzBnuNQfh8jWnbPhld6C73WW7X+OmFxpqi4zVK1kb0zPLKY5HYIVIDdagfB4IGg3frHuUlXDSPLRQLUyp6hCW6TIPcBuwPxnj2OM5EcnidYJlxTwVwYtGqGeBo0frZAMNg84fqHHYHtp9tPc9s3NBPLbhUqISuRPEUJVhlWHypwcH8HQZu37tQ32z012tspkpqhepCVKsCDgqwPIYEEEHkEEaNa78CJZIr94j2lZ1lpKTdM8lOFORH5yrI6D4w7Nx7Ento0D2ss32LxNk3lTxZo7rQpQ3UqOYniYmGc/K4ZkY+3oJ9IYhzbNnbStl4kvNu2zZ6S5Slmerho41mJYkt6wM8kkn5OnmjQLanb9hqkmSpstunWfq85ZKZGEnUSW6sjnJJJz3yddLPtrbtnnE9qsVtoZsSDzKelRH/aFS/qAz6iiE/JUE9tNdGgxqS30VJTS09PTokU0kksi4yHaRizk575JOlu3No7V25NJNYNt2m1yyqFkkpKRIndR2BKgEgfGnejQLBt6whUUWW3dKFSo+mTClcYxx7YH+NcyJabBRvPBRQ069KxiOmgAeQjPQiqo9R5OBplo0Ep4ZbZk25aa+asCfdLxcZ7pcCmCFllbIQEdwihVz79JPvo1V6NB//9k=) | arány legfeljebb 3. |
+|---|---|---|---|
+
+2\. Eljárások
+
+2.1. Mielőtt egy adott kategóriába tartozó élelmiszer ionizáló sugárzással való rutinkezelése megkezdődik egy besugárzó-létesítményben, a termék teljes volumenében végzett dózismérésekkel meghatározzák a minimális és maximális dózis helyét. Ezeket az érvényesítő ellenőrző (validálási) méréseket megfelelő számú ismétlésben (pl. 3–5-ször) kell elvégezni a termék tömegsűrűségében vagy a mértani alakjában előforduló különbségek figyelembevétele végett.
+
+2.2. A méréseket minden esetben meg kell ismételni, ha a termék, annak mértani alakja vagy a besugárzás körülményei megváltoznak.
+
+2.3. Az eljárás során rutin dózisméréseket végeznek annak biztosítására, hogy a dózishatárokat ne lépjék túl. A méréseket a maximális vagy a minimális dózis helyére vagy egy referenciahelyre elhelyezett dózismérővel kell végezni. A referenciahelyen mért dózisnak mennyiségi összefüggésben kell lennie a maximális és a minimális dózissal. A referenciahelyet a termékben vagy a termék felületén egy olyan alkalmas ponton kell kijelölni, ahol a dóziskülönbségek kicsik.
+
+2.4. Rutin dózisméréseket kell végezni minden kezelési tétel esetében a kezelés közben, szabályos időközönként.
+
+2.5. Olyan esetben, ha áramló, nem csomagolt árut kezelnek ionizáló sugárzással, a minimális és a maximális dózis helyét nem lehet meghatározni. Ilyen esetben célszerű véletlenszerűen doziméteres mintákat venni, a dózis szélső értékeinek megállapítására.
+
+2.6. A dózisméréseket elfogadott dozimetriai rendszerekkel kell végezni, és a méréseknek elsődleges mérési etalonokra visszavezethetőknek kell lenniük.
+
+2.7. Ionizáló sugárzással való kezelés során egyes létesítményi paramétereket ellenőrizni és folyamatosan regisztrálni kell. Radionuklid-létesítmények esetén e paraméterek közé tartozik a termék áthaladási sebessége vagy a kezelési zónában való tartózkodásának időtartama és a forrás helyes elhelyezésének jelzése. Gyorsító-létesítményekben a paraméterek közé tartozik a termék áthaladási sebessége és a létesítmény energiaszintje, elektronárama és pásztázási szélessége.
+
+## 5. melléklet a 67/2011. (VII. 13.) VM rendelethez
+
+**Az élelmiszerbesugárzó létesítmények ajánlott működési szabályzata[^10]**
+
+1\. ÁLTALÁNOS ELŐÍRÁS
+
+Ez a Szabályzat olyan létesítményekre vonatkozik, amelyek vagy egy radionuklid forrás (<sup>60</sup>Co vagy <sup>137</sup>Cs), vagy gépi források által kibocsátott röntgen sugarak vagy elektronok alkalmazásán alapulnak. A besugárzó létesítmény kétféle típusú lehet, vagy folyamatos, vagy időszakos üzemeltetésű.
+
+Az élelmiszer-besugárzás folyamatának ellenőrzése minden létesítmény-típus esetén az elnyelt sugárdózis mérésének elfogadott módszerét és a folyamat fizikai paramétereinek megfigyelését foglalja magában. Az élelmiszer-besugárzásra használt létesítmények üzemeltetésének meg kell felelniük az élelmiszerhigiéniai előírásoknak.
+
+2\. BESUGÁRZÓ LÉTESÍTMÉNYEK
+
+2.1. Paraméterek
+
+Valamennyi típusú létesítményeknél a termék által elnyelt dózis a sugárzás paraméterétől, a kezelés időtartamától és a besugárzandó anyag tömegsűrűségétől függ. A sugárforrás-termék geometriája, de különösen a termék sugárforrástól való távolsága és a sugárzás hasznosítás hatékonyságának növelésére irányuló intézkedések határozzák meg az elnyelt sugárdózist és annak eloszlási homogenitását.
+
+2.1.1. Radionuklid sugárforrások
+
+Az élelmiszerek besugárzására használt radionuklidek jellegzetes energiájú fotonokat bocsájtanak ki. A forrásanyag fajtája teljes mértékben meghatározza a kibocsájtott sugárzásnak az anyagba való behatolását.
+
+A sugárforrás aktivitását Becquerelben (Bq) mérjük és azt a szállító vállalatnak közölnie kell. A sugárforrás tényleges aktivitását (így radionuklid anyag visszaszállítását vagy pótlását) nyilván kell tartani.
+
+A nyilvántartott aktivitásnál figyelembe kell venni a sugárforrás természetes bomlásának mértékét és ki kell egészíteni a mérés vagy az újraszámítás dátumának rögzítésével.
+
+A radionuklid sugárforrásokat jól elkülöníthető és árnyékolt sugárforrás tároló helyen tartják és a kezelőhelyiségbe akkor lehet belépni, ha a sugárforrás biztonságos helyzetben van.
+
+A helyes üzemeltetési és a helyes biztonsági helyzet pozitív jelöléséről gondoskodni kell, amelyet a terméket mozgató rendszerrel össze kell kapcsolni.
+
+2.1.2. Gépi források
+
+Megfelelő gyorsítóval előállított elektronsugarat vagy röntgen sugárrá átalakított elektronsugarat lehet használni. A sugárzás behatolását az elektronok energiája határozza meg. Az átlagos sugárteljesítményt megfelelő módon kell nyilvántartani. Valamennyi gépi paraméter helyes beállítását pozitívan kell jelezni, amelyeket össze kell kapcsolni a terméket mozgató rendszerrel. Rendszerint a gépi forrásba sugárnyaláb lengető vagy egy sugárszóró szerkezetet (pl. konvertáló céltárgyat) szerelnek be, hogy a termék felületén a sugárzás egyenletes eloszlását biztosítsák.
+
+A termék mozgását, a pásztázási szélességet és sebességét, valamint a sugárnyaláb impulzusának frekvenciáját (ha az alkalmazható) be kell szabályozni az egyenletes felületi dózis biztosítására.
+
+2.2. Dozimetria és folyamatellenőrzés
+
+Bármely élelmiszer besugárzása előtt bizonyos dozimetriás méréseket[^11] kell végezni, amelyek azt jelzik, hogy az eljárás megfelel a jogszabályi követelményeknek.
+
+Radionuklid és gépi sugárforrásokra vonatkozó dozimetriához különböző technikák állnak rendelkezésre az elnyelt dózis kvantitatív mérésére[^12]. Dozimetriás beállító méréseket kell végezni minden egyes új élelmiszer és besugárzási technológia esetében, valamint mindenkor, amikor változtatják a sugárforrás erősségét vagy a sugárforrás-termék geometriáját.
+
+Rutin dozimetriát kell végezni a működés során és ezekről a mérésekről nyilvántartást kell vezetni.
+
+Ezen kívül rendszeresen kell mérni a berendezés üzemeltetési paramétereit, így a továbbítás sebességét, a tartózkodási időt, a besugárzási időt a gépi forrás sugárzásának paramétereit. E mérésekről készülő nyilvántartásokat fel lehet használni arra, hogy bizonyítsuk az eljárás kielégítette az előírt követelményeket.
+
+3\. JÓ BESUGÁRZÁSI GYAKORLAT
+
+A berendezés tervezésénél meg kell kísérelni a sugárdózis egyenletességének optimalizálását, biztosítani a kellő dózisteljesítményt és, ahol szükséges, a besugárzás alatti hőmérséklet (pl. fagyasztott élelmiszerek kezelésénél) és a légtérösszetétel szabályozását. Szükséges, hogy minimálisra csökkentsük a termék mechanikai sérülését szállítás, besugárzás és tárolás folyamán, és kívánatos biztosítani a maximális hatékonyságot a besugárzó használatakor. Ahol a besugárzandó élelmiszer higiéniai vagy hőmérséklet ellenőrzési speciális előírásokat kell, hogy kielégítsen, a létesítménynek eleget kell tennie ezek betarthatóságának.
+
+4\. TERMÉK ÉS RAKTÁRKÉSZLET ELLENŐRZÉSE
+
+4.1. A besugárzásra beérkező terméket el kell különíteni a kimenő besugárzott termékektől.
+
+4.2. Ahol lehetséges, láthatóan színváltoztató sugárindikátort kell elhelyezni az egyes termékcsomagokra, hogy azonnal azonosítani lehessen a besugárzott és a be nem sugárzott termékeket.
+
+4.3. A berendezés ellenőrző naplójában feljegyzéseket kell rögzíteni, amelyekből kiderül a kezelt termék jellege és fajtája, azonosítási jele, a csomagolása, a szállítási módja, fajlagos sűrűsége, a sugárforrás vagy elektrongép típusa, a dozimetria, a felhasznált doziméterek és kalibrálásuk részletei, valamint a kezelés időpontja.
+
+4.4. Valamennyi terméket besugárzás előtt és után, az elfogadott jó gyártási gyakorlatnak megfelelően kell kezelni, figyelembe véve az eljárás különleges technológiai követelményeit (Lásd: a jelen melléklet C. részét). Szükség lehet megfelelő berendezésekre a hűtőtároláshoz.
+
+5\. DOZIMETRIA
+
+5.1. Teljes átlagos elnyelt dózis
+
+Feltételezhető a teljes átlagos 10 kGy vagy annál kisebb dózissal kezelt élelmiszer ártalmatlanságának meghatározásakor, hogy a teljes sugárkémiai hatás ezen meghatározott dózistartományban arányos a dózissal.
+
+|  | A teljes átlagdózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAdABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgcI/8QAKxAAAgECBQIFBAMAAAAAAAAAAQIDBAUABhESIQciExQVMWEIJUFRMjND/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOtbveUprpSWWkCTXSsR5Y4ye2KJNA8r6c7QWUAe7MwHA1IU1Ob7mlyqqKmyFmKu8vIyeLBVW3a4B0DANVhgD7jcoPPIB4xM5Gqpa/6jOo4qWP2ugtVJSqT/AJyRySsR8b25xBZYGU5MrtHZ1tbdQhmaram8mE9QRfU33GQr3iHwtd2/tK8frAbzseYDWXJrPcaOS3XQUqVYp5GVi0TcagqSu5W7WUMwU6aFgVYmInqvLJRdXul1fTTrHNLW1tDKgPMsMkAZgR+QDGp+DpgwD2ss3oXU2TOVPFrR3WhShupUcxPExMM5/a6MyMfx2E9oYizSONGZkjVSx1Ygaan5xlgwEXU2ZMzdR7RmOQbrdl2GoWjYr/fVTAIzjX3VEUgH2LOdP44MWmDAf//Z) | következő integrál képlettel határozható meg a termékek teljes volumenére: |
+|---|---|---|---|
+
+![](https://njt.jog.gov.hu/picture/85/855a2011_2Y__20000067A75C_000_1.jpg)
+
+ahol:
+
+M = a kezelt minta összes tömege
+
+p = a helyi sűrűség /x,y,z/ pontokban
+
+d = a helyi elnyelt dózis az /x,y,z/ pontokban
+
+dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
+
+A teljes átlagos elnyelt dózis közvetlenül meghatározható a homogén termékekre vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen eloszlásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
+
+Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+
+|  | Egyes esetekben a minimális dózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAeACYDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGAQQHCP/EACsQAAIBAwMDBAEEAwAAAAAAAAECAwQFEQAGIRITMQciQVEIFBUyQmGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD1rd7ylNdKSy0gSa6ViPLHGT7YokwHlfHPSCygDyzMBwMkLq3c16p6yeCL073PVxxyMiTw1FuCSgHAdQ9UrYPkdQB55APGpHYFc90/If1Eklk6kt1utNNR88GKSKSZiv8AjqbU1ZO5R7GbeUF6uw3G+5qilgV7lNJHWL+5PEIDAzlGHbGBhQVxkEYOg71opZKijgnlpZqSSSNXeCYqXiJGSjFCy5Hg9JI44JHOtqe8IHNMIzKBlBISFJ+iR4z94OPo+NR9z9SLFRVVdSNDXGWk7ql2gIiZk6xjrGcAshXOPJHGmu2t22u/V9RQ0i1KT04JYyRFUfDdLdDfIDcHx5Gg5m3L1S3uilmgVopqed6aqgf+cEyHDIf+EEcEEEcEaNQGyJZKX8ifUG3RTq1LU0VurniU8Rzdsxkn6JVFJ+xjRoHtXZRYvU195U8I/RXWhShupQcxPExMM5+1wzIx+PYT7QxDm2bO2lbLxJebdtmz0lylLM9XDRxrMSxJb3gZ5JJP2dPNGgXT2Gxz93vWe3yd0kydVOh6ySWJPHOSSf8AZ1opLPaI5K1KOkowit1yRwhThjkjgZOTzj5OmGjQSGxdvPS7g3Hu+uiMVff54isbLhoaWFAkKH6Y+5yPgvj+ujVfo0H/2Q==) | és a maximális dózis | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAaACYDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EACoQAAIBAwIGAgEFAQAAAAAAAAECAwQFEQAGBxIhMUFREyIVFBZXkZTU/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APWst5STcX4KgCTVUMaVFaxP1p4mJCg47u/K3KPSknsAyn92X7+Mt2/6bZ/2ajuD1bUV03Fi6zyMtWm6KykX7fZY6eGNIiD4GO2lvD5GtO2eGV3oLvdZbtf46YXGmqLjNUrWRvTM8spjkdghUgNzqB6PQgaDt+te5SVcNI8tFAtTKn2EJblMg8gN2B9Z6eDjORIwcT9sypK5FfCiRl1eaDkWToCFVicEsGyBnr/Wmeyd6WPeMM01jkqJYoUid3kgaMASp8kffyYyj48B1zgnGga7fu1DfbPTXa2ymSmqF5kJUqwIOCrA9QwIIIPUEEaNc74ESyRX7iPaVnWWkpN0zyU4U5EfzKsjoPWHZungk9tGgeWSxptjfN+lECmz7mlSqJC5WKs5RHIjj1IAhB7cwYHqygu9ubR2rtyaSawbbtNrllULJJSUiRO6jsCVAJA9ad6NApn2xtyem/TTWG2SQgqQjUqYBXHKR06EYGPWBrFT27bm1KJ5rbZqK3p8aQiOhpFR5ApYpGqoBnq7kDwWY9MnTvRoJThltmTblpr5qwJ+UvFxnulwKYIWWVshAR3CKFXPnlJ86NVejQf/2Q==) | átlagértékének középarányosa lesz a teljes dózis |
+|---|---|---|---|---|---|
+
+helyes becslése,azaz ezekben az esetekben:
+
+|  | a teljes átlagdózis = | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAlAEsDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAUGBwQCAwj/xAAqEAABBAEEAgEEAwADAAAAAAABAgMEBREABhIhBxMiFTEyQRQkUVJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD6vv7uzrZiGIWz7y6bU2Fl+E9DShJyRwIefbVnoHoEdjvOQOugsJdlDW/NorGlcS4UBiathS1DAPMFlxxOOyOyD0esYJou+IDN35joKWxl2KK40U6UpqNYPxR7UPRkpWS0tJyAtWO/3qOpd17lbrqOnp50Seqy3BYVkOzskLfCozDb7iHDwUkukerjyyOWM5yc6DXNNY9V+S9zR40KZuf6FFj2dTOlxjFjvuGM7FcaawvK8uhwughKQgp/HKvy1wM+Wt1RnnK6zrqtE36sunStbKmA04UMONynW/a5xZCXwlQCyQrh8hzwkNw1B393Z1sxDELZ95dNqbCy/CehpQk5I4EPPtqz0D0COx3nIEZJ3bLY31FoDTWLjC4bzi3URfyWhxpAUk8vwwtX/mqzaV0K78v7oaura0hw6ykr347ke2fioiqWuTzcHBaU5+Cc8gR8e+tBolBYS7KGt+bRWNK4lwoDE1bClqGAeYLLjicdkdkHo9YwTI6xyHvney6Db7EL6Uuc/tiVcyJNjGcPuDC2kpwhCk8S4lwHP6znBxg+uZvrci34VZex672yn6CewqvcfZDTMycWi0s88uKR6/y+KV57QB0Q2fTWYbT35uOwvKI2TFUKy8s7KtjtR2nA+yuIqRhxS1LKSFJjkcQkEEg5x0NP0FK8hV9XY2EVFp4uf3gGWstyA1AWhrkrtvEl5Cs/FJOElP27znHibmaVQlHxHuPlAUVQzzqv65KCglH9v4/FSk9fokau+mgz6RIRIjIjSPCt06whh2OhtYqVJS06QXUAGX0lZSnkPscDOuaExXwo8uND8FWkdmY0pqU223UJS+hQAUlYEv5AgDOfvgZ1pWmgpidw2iZDchPinc4eaaLLbgeq+SUEglIP8zoZSnr/AKGom3bg3Fs3bW3g21sJ7QSESJKKhxxPEkpwVSyeiSR/mdSPkeVfV1nUSKS/eTJkzY8dmmEZlbctBcHvWtSk+wBDRUrKVJAKRnlkA3jQUiRczZEkSX/Ee43XxHXF9i3Koq9Kykrbz/L/ABJSnKfscD/Nc7s1Trzbzvhm9W42lhDa1fSSpKWVlbIB/l9BCiVJ/wCJORq/6aChsWLzBilnw7ftmG86/G4KqR6XHeXsWj+38VK5ryR2eSs/c6vmmmgaaaaBpppoKzc7Ho7Xcze45Dtw1YttJZC4tvJjp9aVcuBQ24ElJPZGMH951ZtNNA0000DTTTQf/9k=) |
+|---|---|---|
+
+|  | A | ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAaAEUDASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAAAAUGBAcBAgMI/8QAMRAAAgEDAwIFAwALAAAAAAAAAQIDBAURAAYhEjEHEyJBURQVYQgWIyUzQkNXkZTU/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APrW73lKa6UllpAk10rEeWOMn0xRJgPK+OekFlAHdmYDgZIXVu5r1T1k8EXh3uerjjkZEnhqLcElAOA6h6pWwe46gDzyAeNSmxqqWv8A0jPEcVLH910FqpKVSf6ckckrEfjrbnUvZPMo9jNvKC9XYbjfc1RSwK9ymkjrF+5PEIDAzlGHljAwoK4yCMHQb1opZKijgnlpZqSSSNXeCYqXiJGSjFCy5HY9JI44JHOvXUjN4ibegu1Rbp/rYTTyPHJO8HTCpQsCesnAHUhGT7/jnXfZ2/8Ab27K56KzvVPNHE8sgkgKhVWQxEk9v4iSKMdzG5HGCQq9Sf62X7+2W7f9m2f9mvB6ie5bp3BXw1EyUlloGt8IVmVWqXUTTN8N0r5Cg/ynzBnuNQfh8jWnbPhld6C73WW7X+OmFxpqi4zVK1kb0zPLKY5HYIVIDdagfB4IGg3frHuUlXDSPLRQLUyp6hCW6TIPcBuwPxnj2OM5EcnidYJlxTwVwYtGqGeBo0frZAMNg84fqHHYHtp9tPc9s3NBPLbhUqISuRPEUJVhlWHypwcH8HQZu37tQ32z012tspkpqhepCVKsCDgqwPIYEEEHkEEaNa78CJZIr94j2lZ1lpKTdM8lOFORH5yrI6D4w7Nx7Ento0D2ss32LxNk3lTxZo7rQpQ3UqOYniYmGc/K4ZkY+3oJ9IYhzbNnbStl4kvNu2zZ6S5Slmerho41mJYkt6wM8kkn5OnmjQLanb9hqkmSpstunWfq85ZKZGEnUSW6sjnJJJz3yddLPtrbtnnE9qsVtoZsSDzKelRH/aFS/qAz6iiE/JUE9tNdGgxqS30VJTS09PTokU0kksi4yHaRizk575JOlu3No7V25NJNYNt2m1yyqFkkpKRIndR2BKgEgfGnejQLBt6whUUWW3dKFSo+mTClcYxx7YH+NcyJabBRvPBRQ069KxiOmgAeQjPQiqo9R5OBplo0Ep4ZbZk25aa+asCfdLxcZ7pcCmCFllbIQEdwihVz79JPvo1V6NB//9k=) | arány legfeljebb 3. |
+|---|---|---|---|
+
+5.2. Tényleges és korlátozó dózisértékek\
+Egyes kezelések, mint pl. káros mikroorganizmusok megsemmisítése, vagy az eltarthatóság bizonyos meghosszabbítása, vagy rovartalanítás, egy minimális elnyelt dózist igényelnek. Más kezeléseknél a túl nagy dózis nem kívánatos hatást, vagy a termék minőségének romlását okozhatja.\
+A berendezés tervezésénél és az üzemelési paramétereknél figyelembe kell venni az eljárás által megkövetelt minimális és maximális dózisértékeket.\
+Egyes kisdózisú alkalmazásoknál megengedhető a jó besugárzási gyakorlat 3. §. szerinti feltételein belül a maximális és minimális dózisok 3-nál nagyobb hányadosa.\
+A maximális dózisérték tekintetében az elfogadható ártalmatlansági meggondolásokból és a dózis statisztikai eloszlása miatt a termék tömeghányadában legalább 97,5%-ban 15 kGy-nél kisebb elnyelt dózist kell kapni, amikor az átlagos teljes dózis 10 kGy.
+
+5.3. Rutin dozimetria\
+Referencia helyzetben lehetséges sugárdózis mérést végezni időközönként az egész eljárás folyamán. Ismerni kell azonban a referencia helyzetben mért sugárdózis és a teljes átlagos sugárdózis közötti összefüggést. Ezeket a méréseket kell felhasználni arra, hogy biztosítsuk az eljárás helyes alkalmazását. Elismert és kalibrált dozimetriás rendszert kell használni.\
+Valamennyi dozimetriás mérésről teljes kimutatást kell készíteni, beleértve a kalibrálást is.
+
+5.4. Folyamatellenőrzés\
+Egy folyamatos működésű radionuklid létesítmény esetében automatikusan lehetséges mérni és regisztrálni az áthaladási sebességet és a tartózkodási időt, beleértve a sugárforrás és a termék elhelyezését. E méréseket lehet arra használni, hogy folyamatosan ellenőrizzük a műveletet a rutin dozimetriás mérések alátámasztására.\
+A szakaszos üzemelésű radionuklid létesítményben automatikusan lehet regisztrálni a besugárzás időtartamát és lehet regisztrálni a termék mozgatását és helyzetét, ami az eljárás ellenőrzését biztosítja a rutin dozimetriás mérések alátámasztására.\
+Gépi berendezésben folyamatosan regisztrálhatók a sugárnyaláb paraméterei, azaz a feszültség, áramerősség, a pásztázási sebesség és szélesség, pulzus ismétlés és a sugártéren történő áthaladás sebessége. Ez utóbbit lehet felhasználni a folyamatos eljárás ellenőrzésére a rutin dozimetriás mérések alátámasztására.
+
+6\. Példák egyes élelmiszerféleségek besugárzásánál alkalmazott technológiai körülményekre[^13]
+
+6.1. Baromfi (Gallus domesticus)
+
+6.1.1. Az eljárás célja
+
+a) a tárolási idő meghosszabbítása és/vagy
+
+b) bizonyos patogén mikroorganizmusok (mint pl. a Salmonella) számának csökkentése, konyhakész baromfiból.
+
+6.1.2. Specifikus követelmények
+
+Átlagos dózis a) és b) esetre, 7 kGy-ig.
+
+6.2. Kakaóbab (Theobroma cacao)
+
+6.2.1. Az eljárás célja
+
+a) a tárolt termék rovarkártételének megszüntetése,
+
+b) a fermentált kakaóbab mikrobaszámának csökkentése hőkezeléssel vagy anélkül.
+
+6.2.2. Specifikus követelmények
+
+6.2.2.1. Átlagos dózis:
+
+a) esetben 1 kGy-ig,
+
+b) esetben 5 kGy-ig.
+
+6.2.2.2. Újrafertőzés meggátlása:
+
+Előrecsomagolt vagy ömlesztett kakaóbabot lehetőség szerint olyan körülmények között kell tárolni, amely meggátolja a termék rovarokkal újrafertőződését, mikrobás újraszennyeződését és romlását.
+
+6.3. Datolya (Phoenix dactylifera)
+
+6.3.1. Az eljárás célja
+
+Az előrecsomagolt, szárított datolya besugárzásának célja, hogy meggátoljuk tárolás során a termék rovarkártételét.
+
+6.3.2. Specifikus követelmények
+
+6.3.2.1. Átlagos dózis: 1 kGy-ig.
+
+6.3.2.2. Ismételt rovarkártevés meggátlása: az előrecsomagolt szárított datolyát olyan körülmények között kell tárolni, amelyek meggátolják az ismételt rovarkártevést.
+
+6.4. Mango (Mangifera indica)
+
+6.4.1. Az eljárás célja
+
+a) a rovarkártevés meggátlása,
+
+b) a tárolhatóság javítása az érés késleltetésével,
+
+c) mikrobás terhelés csökkentése besugárzás és hőkezelés kombinálásával.
+
+6.4.2. Specifikus követelmények
+
+Átlagos dózis: 1 kGy-ig.
+
+6.5. Hagyma (Allium cepa)
+
+6.5.1. Az eljárás célja:
+
+A hagyma besugárzásának célja, hogy meggátoljuk a termék kihajtását tárolás folyamán.
+
+6.5.2. Specifikus követelmények
+
+Átlagos dózis: 0,15 kGy-ig.
+
+6.6. Papaya (Carica papaya L.)
+
+6.6.1. Az eljárás célja
+
+A papaya besugárzásának célja, hogy meggátoljuk a rovarkártételt és hogy javítsuk a termék tárolhatóságát az utóérés késleltetésével.
+
+6.6.2. Specifikus követelmények
+
+6.6.2.1. Átlagos dózis: 1 kGy-ig.
+
+6.6.2.2. Sugárforrás: a sugárforrásnak olyannak kell lennie, amely biztosítja a kellő behatolást a termékbe.
+
+6.7. Burgonya (Solanum tuberosum L.)
+
+6.7.1. Az eljárás célja
+
+A burgonya besugárzásának célja, hogy meggátoljuk a tárolás során a kihajtást.
+
+6.7.2. Specifikus követelmények
+
+Átlagos dózis: 0,15 kGy-ig.
+
+6.8. Hüvelyesek (Leguminosae)
+
+6.8.1. Az eljárás célja
+
+A hüvelyesek besugárzásának célja, hogy meggátoljuk tárolás közben a rovarkártételt.
+
+6.8.2. Specifikus követelmények
+
+Átlagos dózis: 1 kGy-ig.
+
+6.9. Rizs (Oryza species)
+
+6.9.1. Az eljárás célja
+
+A rizs besugárzásának célja, hogy meggátoljuk a tárolás során jelentkező rovarkártételt.
+
+6.9.2. Specifikus követelmények
+
+6.9.2.1. Átlagos dózis: 1 kGy-ig.
+
+6.9.2.2. Újrafertőzés meggátolása.
+
+Előrecsomagolt vagy ömlesztett rizst a lehetőséghez képest úgy kell tárolni, hogy az újrafertőzést meggátoljuk.
+
+6.10. Fűszerek és ízesítők, szárított hagyma, hagymapor
+
+6.10.1. Az eljárás célja:
+
+a) a rovarkártétel gátlása,
+
+b) mikrobaszám csökkentése,
+
+c) a patogén mikroorganizmusok számának csökkentése.
+
+6.10.2. Specifikus követelmények
+
+Átlagos dózis:
+
+a) esetben 1 kGy-ig,
+
+b) és c) esetben 10 kGy-ig.
+
+6.11. Szamóca (Fragaria species)
+
+6.11.1. Az eljárás célja
+
+A friss szamóca besugárzásának célja, hogy meghosszabbítsuk a termék tárolási idejét a romlást okozó organizmusok részleges megsemmisítésével.
+
+6.11.2. Specifikus követelmények
+
+Átlagos dózis: 3 kGy-ig.
+
+6.12. Csontos hal és haltermékek
+
+6.12.1. Az eljárás célja
+
+a) meggátoljuk a szárított halban a rovarkártételt a tárolás és értékesítés folyamán,
+
+b) csökkentsük a csomagolt vagy csomagolatlan hal és haltermékek mikrobaszámát,
+
+c) csökkentsük a csomagolt vagy csomagolatlan halban és haltermékben bizonyos patogén mikroorganizmusok számát.
+
+6.12.2. Specifikus követelmények
+
+6.12.2.1. Átlagos dózis:
+
+a) esetben 1 kGy-ig,
+
+b) és c) esetben 2,2 kGy-ig.
+
+6.12.2.2. Hőmérsékleti követelmények
+
+Tárolás és besugárzás alatt a b.) és c.) pontokban hivatkozott hal és haltermékeket olvadó jég hőmérsékleten kell tartani.
+
+6.13. Búza és darált búzatermék (Triticum species)
+
+6.13.1. Az eljárás célja
+
+A búza és darált búzatermékek besugárzásának célja, hogy meggátoljuk a tárolt termékekben a rovarkártevést.
+
+6.13.2. Specifikus követelmények
+
+6.13.2.1. Átlagos dózis 1 kGy-ig.
+
+6.13.2.2. Újrafertőződés meggátolása.
+
+Ezeket a termékeket függetlenül attól, hogy csomagolva vagy ömlesztve vannak tárolva, amennyire csak lehetséges, olyan körülmények között kell tartani, amely meggátolja újrafertőzésüket.
+
+## 6. melléklet a 67/2011. (VII. 13.) VM rendelethez[^14]
+
+---
+
+[^1]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § a) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (8) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 169. § b) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (9) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § c) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § b) és c) pontja szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § d) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § e) pontja szerint módosított szöveg.
+[^6]: Az 5. § (5) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 169. § b) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^9]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Recommended international code of practice for the operation of irradation facilities used for the treatment of foods (reference FAO/WHO/CAC, Vol. XV, edition 1)
+[^11]: Lásd: B rész
+[^12]: Részletesen ismertetve az Élelmiszerbesugárzás Dozimetriájának Kézikönyvében, IAEA Bécs, 1977, 178. sorozatszámú Technikai Jelentés
+[^13]: Ezek az információkat a közös FAO/IAEA/WHO Élelmiszer-besugárzási Szakértői Bizottság jelentéseiből (WHO Műszaki Jelentések sorozat 604. sz. 1977 és 659. sz. 1981) származnak és a besugárzás hasznosságát mutatják be. A jelentések leírják a biztonságos és gazdaságos besugárzási eljárás céljainak eléréséhez szükséges műszaki körülményeket is.
+[^14]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,0 +1,151 @@
+---
+title: "16/2012. (II. 21.) VM rendelet a Maconkai-rét természetvédelmi terület létesítéséről"
+identifier: "16/2012. (II. 21.) VM rendelet"
+njt_id: "2012-16-20-2Y"
+eli: "https://njt.jog.gov.hu/eli/R/2012/VM/16"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2012-02-21
+in_force_from: 2012-02-29
+last_amended: 2012-02-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-16-20-2Y"
+retrieved: 2026-10-12
+---
+
+# 16/2012. (II. 21.) VM rendelet a Maconkai-rét természetvédelmi terület létesítéséről
+
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 3. és 13. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § *l)* pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+## 1. §
+
+Védetté nyilvánítom Maconkai-rét természetvédelmi terület elnevezéssel a Nógrád megyében, Bátonyterenye közigazgatási területén lévő, Bátonyterenye 0207/1b ingatlan-nyilvántartási helyrajzi számú területből 0,738 hektár területet (az E709818-N295633, E709874-N295552, E709937-N295463 EOV koordinátapárok által meghatározott vonaltól nyugatra eső területrészt), továbbá a 0219/16 és a 0219/17 ingatlan-nyilvántartási helyrajzi számú területet, mely területek nagysága összesen 6 hektár.
+
+## 2. §
+
+A védetté nyilvánítás célja a Zagyva-völgy kis területen fennmaradt élőlény-közösségeinek, különösen a mocsárrét, zsombékoló magassásos és nem zsombékoló magassásos által alkotott élőhely komplex megőrzése, a területen található védett növény- és állatfajok populációinak védelme, állományuk növelése az életlehetőségeiket javító természetvédelmi kezeléssel.
+
+## 3. §
+
+A védett természeti terület természetvédelmi kezelési tervét az 1. melléklet tartalmazza.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 1. melléklet a 16/2012. (II. 21.) VM rendelethez
+
+**A Maconkai-rét természetvédelmi terület természetvédelmi kezelési terve**
+
+1\. Természetvédelmi célkitűzések
+
+1.1. A Zagyva-völgyben egykor kiterjedt mocsári és réti élőhelytípusok, társulások maradványainak megőrzése, különös tekintettel a zsombéksásosokra (Caricetum elatae), a nem zsombékoló magassásrétekre (Caricetum acutiformis, Caricetum gracilis, Caricetum ripariae, Caricetum buekii) és a mocsárrétek életközösségeire.
+
+1.2. A területen élő védett növény- és állatfajok populációinak megőrzése, életfeltételeinek fenntartása, különös tekintettel a hússzínű ujjaskosborra (Dactylorhiza incarnata), a vitéz kosborra (Orchis militaris) és a bánsági sásra (Carex buekii), továbbá a kétéltű fajok – kiemelten a dunai tarajosgőte (Triturus dobrogicus) és a vöröshasú unka (Bombina bombina) – állományaira.
+
+1.3. A területen található természetszerű élőhelyek, társulások megőrzése, fenntartása, valamint területi arányuk növelése az idegenhonos, valamint az őshonos, agresszíven terjeszkedő fajok állományainak területcsökkenése mellett. Az élőhelyek természetességi állapotának javítása, térbeli változatosságuk, biológiai sokféleségük növelése az őshonos élővilág tekintetében.
+
+1.4. A területen található időszakosan vízborította élőhelyek, gerinctelen és gerinces faunájuk megőrzése.
+
+1.5. A terület hidrológiai, biológiai, természetvédelmi célú kutatása és fejlesztése feltételeinek biztosítása.
+
+2\. Természetvédelmi stratégiák
+
+2.1. A mocsári élőhelyek, rétek és fás élőhelyek természeti adottságainak, értékes életközösségeinek megőrzése, állapotuk javítása aktív természetvédelmi kezeléssel, a területre hagyományosan jellemző területhasználat (elsősorban a gyepterületek kaszálóként való fenntartása vagy szarvasmarhával történő extenzív legeltetés) visszaállításával.
+
+2.2. A területen található időszakosan vízborította élőhelyek területi kiterjedésének, valamint a vízborítás időtartamának növelése.
+
+2.3. A védett, vagy lokálisan értékes növény- és állatfajok állományainak fenntartása, egyedszámuk növelése aktív természetvédelmi kezeléssel és a területre hagyományosan jellemző területhasználat visszaállításával, valamint élőhely-fejlesztéssel.
+
+2.4. Természetvédelmi kezelési mintaterületek kijelölése az élőhelyek, fajok védelmére és az agresszíven terjeszkedő növényfajok visszaszorítására legalkalmasabb természetvédelmi kezelési módok megállapítása céljából.
+
+2.5. Természetvédelmi kezeléseket megalapozó és azokat továbbfejlesztő kutatások végzése.
+
+2.6. A terület élővilág-védelmi érdekekkel összhangban álló bemutatási, oktatási célú hasznosítása.
+
+3\. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Élőhelyek kezelése és fenntartása
+
+a) A zsombékos állomány szegélyein az állomány belseje felé agresszíven terjedő növényeket és gyomokat évente egyszer, a nyár második felében kézi eszközökkel le kell vágni. A levágott növényi anyagot el kell távolítani a területről.
+
+b) A nem zsombékoló magassásréteken évi kétszeri kaszálás (gépi vagy kézi) és a levágott növényi anyag eltávolítása szükséges. Adott éven belül az első kaszálásra június 15. utáni időpontban kerülhet sor.
+
+c) A mocsárréteken évente legalább egyszeri kaszálás (gépi vagy kézi) és a levágott növényi anyag eltávolítása szükséges. Adott éven belül az első kaszálásra június 15. utáni időpontban kerülhet sor.
+
+d) A terület keleti részén található égerliget területén a természetes szukcesszió során megtelepedő őshonos fás szárú növényfajok egyedeit meg kell hagyni. A természetes szukcesszió során megtelepedő őshonos fás szárú növényfajok egyedeit a terület fennmaradó részén a terület 15%-át elérő borítottságig kell meghagyni.
+
+e) A rendelkezésekkel érintett területek elhelyezkedéséről a Bükki Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) rendszeresen, de legalább évente tájékoztatja az adott terület tulajdonosát vagy használóját.
+
+3.1.2. Fajok védelme
+
+a) Az élőhelykezelések tér- és időbeli rendjét az 1. pontban felsorolt növény- és állatfajok ökológiai igényéhez kell igazítani, a tér- és időbeli rend meghatározását alá kell rendelni e fajok megőrzésének. A gazdálkodási célú kaszálást június 15. után lehet kezdeni, a természetvédelmi kezelési célú kaszálást július 1. után.
+
+b) Természetkímélő kaszálási gyakorlatot kell folytatni, amelynek legfontosabb elemei:
+
+*ba)* nappal végzett kaszálás,
+
+*bb)* láncfüggönyös vadriasztó használata,
+
+*bc)* legfeljebb 3 méter szélességű kasza alkalmazása,
+
+*bd)* lassú haladási sebesség,
+
+*be)* a kaszáló területének 10%-án térben összefüggő búvósáv-rendszer visszahagyása,
+
+*bf)* szársértős kasza használatának tilalma.
+
+3.1.3. Táj- és kultúrtörténeti értékek
+
+A területen a nem a művelési ágnak megfelelő használatot, továbbá nem a természetvédelmi kezelést, vagy az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítását szolgáló létesítmény elhelyezése tilos.
+
+3.1.4. Látogatás
+
+Csak a terület természeti értékeinek megismerését szolgáló, de a természeti értékeket nem veszélyeztető, nem károsító gyalogos turizmus lehetséges a területen.
+
+3.1.5. Oktatás, bemutatás
+
+A terület oktatási, bemutatási célú hasznosítása széleskörű nyilvánosság bevonásával kívánatos a természeti értékeket nem veszélyeztető, nem károsító módon.
+
+3.1.6. Terület- és földhasználat
+
+a) A területen műtrágyák, növényvédőszerek használata, antibiotikus hozamfokozókkal történő kezelés alatt álló haszonállatok legeltetése tilos.
+
+b) A nád gazdasági célú kaszálása csak a nád visszaszorítása érdekében folytatható.
+
+c) A terület erdőgazdálkodási célú hasznosítása nem megengedhető.
+
+d) A területen csak őshonos vadfajok tarthatók fenn.
+
+e) A vadállományt a természetes vadeltartó-képességnek megfelelő szinten kell tartani.
+
+f) Vadgazdálkodási létesítmények az igazgatósággal egyeztetett helyen és módon, a terület degradált részein helyezhetők el. Nagyvad etetése tilos.
+
+g) Vadföld létesítése, mesterséges vadkibocsátás és zárttéri vadtartás a területen tilos.
+
+h) Vízgazdálkodási célú beavatkozás kizárólag a területtel szomszédos közutak, vasúti pálya, szántók indokolt védelmének céljából történhet az 1. pontban meghatározott természetvédelmi célkitűzésekre tekintettel, a terület vízrajzi adottságainak tartós megváltoztatása nélkül.
+
+i) A területen ipari telep létesítése és bányászati tevékenység az e rendelet hatályba lépését megelőzően kiadott engedélyben foglaltak szerint, csak a terület természeti és táji értékeinek (különös tekintettel az élőhelyekre és azok életközösségeire, továbbá a területen található védett növény- és állatfajokra) veszélyeztetése, károsítása nélkül valósítható meg.
+
+j) A területen új építmény elhelyezése – a természetvédelmi kezelést, az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítását szolgáló építmény kivételével – tilos. A már meglévő sajátos építmények fenntartásával, kezelésével kapcsolatos tevékenységek az 1. pontban foglaltakkal összhangban tovább folytathatóak.
+
+k) A területen nem a gyep- és nádgazdálkodásból származó anyagot tárolni tilos.
+
+3.1.7. Természetvédelmi infrastruktúra
+
+Természetvédelmi infrastruktúraként csak a terület hatósági tájékoztató táblával való megjelölését, valamint a természetvédelmi célú bemutatást szolgáló létesítmények helyezhetők el.
+
+3.2. Művelési ághoz vagy földhasználati módhoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+Gyep (rét és legelő) művelési ágú területek kezelése
+
+a) A művelési ág megváltoztatása tilos.
+
+b) A kaszálást a 3.1.1. alpontban a kaszálásra vonatkozó előírásoknak megfelelően kell végezni.
+
+c) Az igazgatóság által a terület tulajdonosával egyetértésben kijelölt természetvédelmi kezelési mintaterületeken szarvasmarhával történő legeltetés legfeljebb 1 állategység/ha állatsűrűséggel folytatható. Egyéb haszonállattal való legeltetés nem végezhető a területen.
+
+d) A gyepek felülvetése tilos.

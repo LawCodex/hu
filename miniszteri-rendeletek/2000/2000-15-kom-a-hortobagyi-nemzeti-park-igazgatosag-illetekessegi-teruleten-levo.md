@@ -1,0 +1,164 @@
+---
+title: "15/2000. (VI. 26.) KöM rendelet a Hortobágyi Nemzeti Park Igazgatóság illetékességi területén lévő egyes védett természeti területek erdőrezervátummá nyilvánításáról"
+identifier: "15/2000. (VI. 26.) KöM rendelet"
+njt_id: "2000-15-20-66"
+eli: "https://njt.jog.gov.hu/eli/R/2000/KOM/15"
+type: ministerial-decree
+jurisdiction: hu
+language: hu
+date: 2000-06-26
+in_force_from: 2008-01-01
+last_amended: 2008-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-15-20-66"
+retrieved: 2026-10-12
+---
+
+# 15/2000. (VI. 26.) KöM rendelet a Hortobágyi Nemzeti Park Igazgatóság illetékességi területén lévő egyes védett természeti területek erdőrezervátummá nyilvánításáról
+
+A természet védelméről szóló 1996. évi LIII. törvény 29. § (3) bekezdésében, valamint 85. § *b)* pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszter egyetértésével – a következőket rendelem el:
+
+## 1. §
+
+(1) Erdőrezervátummá nyilvánítom Farkas-sziget 1. Erdőrezervátum elnevezéssel a 7/1990. (IV. 23.) KVM rendelettel, a 11/1993. (III. 9.) KTM rendelettel, a 6/1996. (IV. 17.) KTM rendelettel, valamint a 3/1998. (XII. 17.) KöM rendelettel módosított 1850/1972. (TK 58.) OTvH közleménnyel közzétett határozattal létesített Hortobágyi Nemzeti Park részét képező, az *1. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 74,7 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *2. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 24,3 hektár kiterjedésű területet.
+
+## 2. §
+
+(1) Erdőrezervátummá nyilvánítom Farkas-sziget 2. Erdőrezervátum elnevezéssel a Hortobágyi Nemzeti Park részét képező, az *3. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 41,0 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *4. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 8,4 hektár kiterjedésű területet.
+
+## 3. §
+
+(1) Erdőrezervátummá nyilvánítom Tilos-erdei Erdőrezervátum elnevezéssel a Hortobágyi Nemzeti Park részét képező, a *5. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 62,3 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *6. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 22,3 hektár kiterjedésű területet.
+
+## 4. §
+
+(1) Erdőrezervátummá nyilvánítom Bockereki Erdőrezervátum elnevezéssel a 4/1982. (XI. 20.) OKTH számú rendelettel létesített Szatmár-Beregi Tájvédelmi Körzet részét képező, a *7. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 215,8 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *8. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 60,1 hektár kiterjedésű területet.
+
+## 5. §
+
+(1) Erdőrezervátummá nyilvánítom Dédai Erdőrezervátum elnevezéssel a Szatmár-Beregi Tájvédelmi Körzet részét képező, a *9. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 72,0 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *10. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 19,7 hektár kiterjedésű területet.
+
+## 6. §
+
+(1)[^1] Erdőrezervátummá nyilvánítom Baktai Erdőrezervátum elnevezéssel a 11/1977. OTvH számú határozattal létesített Baktalórántházai-erdő természetvédelmi terület védettségének fenntartásáról szóló külön jogszabály[^2] szerinti Baktalórántházai-erdő természetvédelmi terület részét képező, a *11. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 36,6 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a *12. számú mellékletben* felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 28,4 hektár kiterjedésű területet.
+
+## 7. §
+
+A természet védelméről szóló 1996. évi LIII. törvény 29. § (4) bekezdésében foglaltak alapján az erdőrezervátumok magterülete fokozottan védett természeti terület.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 1. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Farkas-sziget 1. Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Püspökladány*
+
+0992/3 a-ból 12 C, 12 E, 12 G, 12 H, 0992/3 d (12 RL2), 0992/3 f (12 F), 0992/3 g (12 D), 0992/3 h (8 B, 8 C, 8 D, 12 B, 12 NY), 0995 (9 A, 9 B, 9 C, 9 D, 9 E, 9 F, 9 G, 9 NY, 10 A, 10 B, 10 C, 10 D, 10 NY), 0997/1 a-ból 8 H, 8 NY, 8 RL2, 12 NY, 0997/1 b-ből 8 A, 8 E, 8 F, 8 G, 8 H, 8 I, 12 NY, 0997/2 a (12 D), 0997/ 2 b (8 RL1, 12 RL1), 01003/b-ből 10 NY, 01003/c-ből 10 E, 10 F, 10 G
+
+## 2. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Farkas-sziget 1. Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Püspökladány*
+
+0995-ből 9 B, 10 B, 10 NY, 0997/1 a-ból 8 H, 8 NY, 8 RL2, 0997/1 b-ből 8 A, 8 E, 8 F, 8 G, 8 H, 8 I
+
+## 3. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Farkas-sziget 2. Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Püspökladány*
+
+0871/a-ból 21 D, 0871/b (21 C, 21 RL1), 0874 (21 A, 21 B), 0875/3-ból 16 M, 16 N, 16 O, 16 P, 19 D, 19 E, 19 F, 19 G, 19 H, 19 I, 19 J, 19 K, 19 N, 19 NY, 19 O, 19 P, 19 Q, 19 R, 19 S, 19 X, 19 Y, 19 Y1, 19 W, 19 Z1, 0877/3-ból 15 I, 20 A, 20 B, 20 C, 20 E, 20 F, 20 G, 20 H, 20 I, 20 J, 20 K, 20 L, 20 M, 20 N, 20 NY
+
+## 4. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Farkas-sziget 2. Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Püspökladány*
+
+0875/3-ból 19 F, 19 G, 19 H, 19 I, 19 NY, 19 O, 19 P, 19 R, 19 S, 19 Y, 19 Y1
+
+## 5. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Tilos-erdei Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Újszentmargita*
+
+049/a-ból 4 B, 4 RL, 049/b (4 A), 049/c (4 NA1), 049/d (4 NA2), 049/f-ből 4 C, 4 D, 4 E, 4 F, 4 G1, 4 G2, 4 H, 4 I, 4 J, 4 K, 4 EY, 4 NT
+
+## 6. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Tilos-erdei Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Újszentmargita*
+
+049/a-ból 4 B, 049/b (4 A), 049/c (4 NA1), 049/d (4 NA2), 049/f-ből 4 C, 4 D, 4 E
+
+## 7. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Bockereki Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Gelénes*
+
+091/a-ból 10 ÚR, 11 A, 11 B, 11 C, 11 D, 11 NY, 091/g (11 C), 091/h (11 RL2), 091/f (11 RL3), 097/b (10 NT), 097/c-ből 7 D, 10A, 10 B, 10 C, 10 D, 10 NY, 10 TN, 0101/a (7 C), 0101/b (8 A), 0101/c (7 A), 0101/d (7 B, 7 TI), 0101/f (7 C), 0101/h-ból 7 A, 7 B, 7 C, 7 TI, 8 A, 8 B, 8 C, 8 NY, 10 B, 0103/c (2 B), 0103/d-ből 2 B, 2 C, 2 TI, 7 NY, 0105/a-ból 6 A, 6 C, 6 D, 0105/c (6 B), 0105/d (11 RL1), 0105/f (11 RL 2), 0105/g-ből 6 A, 6 B, 6 C, 6 D, 7 ÚR, 10 ÚR, 11 A, 11 B
+
+## 8. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Bockereki Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Gelénes*
+
+097/c-ből 7 D, 10 B, 10 D, 10 NY, 10 TN, 0101/a (7 C), 0101/c (7 A), 0101/d (7 B, 7 TI), 0101/f (7 C), 0101/h-ból 7 A, 7 B, 7 C, 7 TI, 10 B, 0103/d-ből 2 TI, 7 NY, 0105/g-ből 7 ÚR
+
+## 9. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Dédai Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Beregdaróc*
+
+060/a-ból 1 A, 1 B, 1 NY, 2 A, 2 B, 2 C, 2 D, 2 NY, 3 A, 4 B, 4 C, 4 TN, 4 NY1
+
+## 10. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Dédai Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Beregdaróc*
+
+060/a-ból 2 D
+
+## 11. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Baktai Erdőrezervátum ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Baktalórántháza*
+
+0222-ből 35 A, 35 NY, 46 A, 46 B, 46 C, 46 NY
+
+## 12. számú melléklet a 15/2000. (VI. 26.) KöM rendelethez
+
+**A Baktai Erdőrezervátum magterületének ingatlan-nyilvántartási helyrajzi számai és erdőtervi jelei**
+
+*Baktalórántháza*
+
+0222-ből 35 A, 35 NY, 46 A
+
+---
+
+[^1]: A 6. § (1) bekezdése a 35/2007. (X. 18.) KvVM rendelet 5. §-a szerint módosított szöveg.
+[^2]: Lásd a 35/2007. (X. 18.) KvVM rendeletet.
